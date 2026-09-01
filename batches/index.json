@@ -1,0 +1,8 @@
+{
+  "batches": [
+    {"batch_id":"batch_20260831_001","article_total":43,"status":"COMPLETED","manifest":"batches/batch_20260831_001/manifest.json"},
+    {"batch_id":"batch_20260901_001","article_total":50,"status":"COMPLETED","manifest":"batches/batch_20260901_001/manifest.json"}
+  ],
+  "historical_article_total": 93,
+  "count_rule": "dynamic_from_batch_manifest"
+}
