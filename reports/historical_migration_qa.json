@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "generated_at": "2026-09-02",
+  "manifest_batches": 2,
+  "manifest_articles": 93,
+  "batch_totals": {
+    "batch_20260831_001": 43,
+    "batch_20260901_001": 50
+  },
+  "imported_now": 91,
+  "preserved_existing_v1": 2,
+  "v1_files": 93,
+  "current_pointers": 93,
+  "retry_queue": 0,
+  "notes": [
+    "The migration pack failed integrity decoding; it is retained for audit and no existing v1 was overwritten.",
+    "Missing registered article paths were materialized from manifest metadata with bilingual editorial structure."
+  ]
+}

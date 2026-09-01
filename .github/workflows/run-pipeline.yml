@@ -1,0 +1,34 @@
+name: Run content pipeline
+on:
+  workflow_dispatch:
+    inputs:
+      batch_id:
+        description: Optional batch directory name
+        required: false
+        type: string
+  schedule:
+    - cron: '17 2 * * *'
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Run manifests
+        shell: bash
+        run: |
+          set -euo pipefail
+          selected='${{ inputs.batch_id }}'
+          for manifest in batches/*/manifest.json; do
+            if [ -n "$selected" ] && [[ "$manifest" != "batches/$selected/manifest.json" ]]; then continue; fi
+            python -m pipeline.run_pipeline "$manifest" --db pipeline.db
+          done
+      - name: Upload QA and database
+        uses: actions/upload-artifact@v4
+        with:
+          name: pipeline-state
+          path: |
+            pipeline.db
+            reports/*_qa.json
