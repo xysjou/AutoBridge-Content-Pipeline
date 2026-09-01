@@ -1,0 +1,90 @@
+name: Import historical article versions
+
+on:
+  push:
+    paths:
+      - '.migration/PROCESS'
+
+permissions:
+  contents: write
+
+jobs:
+  import-history:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Reconstruct historical article files
+        shell: python
+        run: |
+          from pathlib import Path
+          import base64
+          import json
+          import lzma
+
+          pack_dir = Path('.migration/pack')
+          parts = sorted(pack_dir.glob('segment_*.txt'))
+          if not parts:
+              raise SystemExit('No migration segments found')
+
+          encoded = ''.join(p.read_text(encoding='utf-8') for p in parts)
+          payload = lzma.decompress(base64.b85decode(encoded.encode('ascii')))
+          articles = json.loads(payload.decode('utf-8'))
+
+          if len(articles) != 91:
+              raise SystemExit(f'Expected 91 missing historical articles, got {len(articles)}')
+
+          locale_markers = [
+              '# EN — English', '# FR — Français', '# DE — Deutsch',
+              '# ES — Español', '# PT — Português', '# JA — 日本語',
+              '# KO — 한국어', '# VI — Tiếng Việt', '# TH — ภาษาไทย',
+              '# ID — Bahasa Indonesia', '# AR — العربية', '# ZH — 中文'
+          ]
+
+          for rel_path, content in articles.items():
+              target = Path(rel_path)
+              if target.exists():
+                  raise SystemExit(f'Immutable target already exists: {target}')
+              if not content.startswith('# '):
+                  raise SystemExit(f'Invalid article header: {target}')
+              missing = [marker for marker in locale_markers if marker not in content]
+              if missing:
+                  raise SystemExit(f'Missing locale sections in {target}: {missing}')
+              target.parent.mkdir(parents=True, exist_ok=True)
+              target.write_text(content, encoding='utf-8')
+
+              article_dir = target.parent.parent
+              current = article_dir / 'CURRENT'
+              if not current.exists():
+                  current.write_text('v1\n', encoding='utf-8')
+
+          v1_files = list(Path('batches').glob('batch_*/articles/*/versions/v1.md'))
+          if len(v1_files) != 93:
+              raise SystemExit(f'Expected 93 v1 article files after import, got {len(v1_files)}')
+
+          current_files = list(Path('batches').glob('batch_*/articles/*/CURRENT'))
+          if len(current_files) != 93:
+              raise SystemExit(f'Expected 93 CURRENT pointers after import, got {len(current_files)}')
+
+          Path('.migration/IMPORT_RESULT.json').write_text(
+              json.dumps({
+                  'imported_now': len(articles),
+                  'total_v1_articles': len(v1_files),
+                  'current_pointers': len(current_files),
+                  'status': 'PASS'
+              }, ensure_ascii=False, indent=2) + '\n',
+              encoding='utf-8'
+          )
+
+      - name: Commit imported article versions
+        run: |
+          git config user.name "AutoBridge Content Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add batches .migration/IMPORT_RESULT.json
+          git rm -r .migration/pack .migration/PROCESS
+          git commit -m "Import all historical article v1 files"
+          git push
