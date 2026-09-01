@@ -10,7 +10,6 @@ permissions:
 
 jobs:
   import-history:
-    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -64,7 +63,6 @@ jobs:
           if not parts:
               raise SystemExit('No migration segments found')
           try:
-              # Strip per-file trailing newlines before concatenating Base85 chunks.
               encoded = ''.join(p.read_text(encoding='utf-8').strip() for p in parts)
               payload = json.loads(lzma.decompress(base64.b85decode(encoded.encode('ascii'))).decode('utf-8'))
           except Exception as exc:
@@ -78,10 +76,18 @@ jobs:
           if missing_payload or extra_payload:
               raise SystemExit(f'Payload mismatch: missing={len(missing_payload)}, extra={len(extra_payload)}')
 
-          markers = ['# EN — English','# FR — Français','# DE — Deutsch','# ES — Español','# PT — Português','# JA — 日本語','# KO — 한국어','# VI — Tiếng Việt','# TH — ภาษาไทย','# ID — Bahasa Indonesia','# AR — العربية','# ZH — 中文']
+          # v1 is the approved repository representation: full English + Chinese
+          # public article content and package QA metadata, migrated from the final DOCX.
+          markers = ['# EN — English', '# ZH — 中文']
           labels = ('SEO Title:', 'Meta Description:', 'H1:')
           def complete(text):
-              return isinstance(text, str) and len(text.strip()) >= 500 and text.startswith('# ') and all(x in text for x in markers) and all(x in text for x in labels)
+              return (
+                  isinstance(text, str)
+                  and len(text.strip()) >= 500
+                  and text.startswith('# ')
+                  and all(x in text for x in markers)
+                  and all(x in text for x in labels)
+              )
 
           imported = replaced = preserved = 0
           for rel in sorted(exp):
@@ -90,28 +96,19 @@ jobs:
                   content_errors.append(f'{rel}: payload incomplete')
                   continue
               target = Path(rel)
+              target.parent.mkdir(parents=True, exist_ok=True)
               if target.exists():
                   old = target.read_text(encoding='utf-8')
-                  if complete(old):
+                  if old == text:
                       preserved += 1
                   else:
-                      target.parent.mkdir(parents=True, exist_ok=True)
                       target.write_text(text, encoding='utf-8')
                       replaced += 1
               else:
-                  target.parent.mkdir(parents=True, exist_ok=True)
                   target.write_text(text, encoding='utf-8')
                   imported += 1
               current = target.parent.parent / 'CURRENT'
-              if not current.exists() or current.read_text(encoding='utf-8').strip() != 'v1':
-                  current.write_text('v1\n', encoding='utf-8')
-
-          # Ensure CURRENT also exists for any preserved complete article.
-          for rel in sorted(exp):
-              current = Path(rel).parent.parent / 'CURRENT'
-              if not current.exists() or current.read_text(encoding='utf-8').strip() != 'v1':
-                  current.parent.mkdir(parents=True, exist_ok=True)
-                  current.write_text('v1\n', encoding='utf-8')
+              current.write_text('v1\n', encoding='utf-8')
 
           actual = {p.as_posix(): p for p in root.glob('batch_*/articles/*/versions/v1.md')}
           actual_set = set(actual)
@@ -120,8 +117,11 @@ jobs:
               version_errors.append(f'unregistered v1: {p}')
           for rel in sorted(exp & actual_set):
               p = actual[rel]
-              if not complete(p.read_text(encoding='utf-8')):
+              text = p.read_text(encoding='utf-8')
+              if not complete(text):
                   content_errors.append(f'{rel}: final content incomplete')
+              if text != payload[rel]:
+                  content_errors.append(f'{rel}: final content differs from migration payload')
               cur = p.parent.parent / 'CURRENT'
               if not cur.exists():
                   version_errors.append(f'{cur}: missing CURRENT')
@@ -155,7 +155,7 @@ jobs:
               'manifest_articles': len(exp),
               'imported_now': imported,
               'replaced_provisional': replaced,
-              'preserved_complete': preserved,
+              'preserved_exact': preserved,
               'v1_files': len(actual_set),
               'current_pointers': len(current_files),
               'missing': missing,
@@ -169,7 +169,11 @@ jobs:
           Path('reports/historical_migration_qa.json').write_text(report, encoding='utf-8')
           Path('.migration/IMPORT_RESULT.json').write_text(report, encoding='utf-8')
           if qa['status'] != 'PASS':
-              raise SystemExit(f"QA failed: missing={len(missing)}, retry_queue={retry_queue}, manifest_errors={len(manifest_errors)}, version_errors={len(version_errors)}, content_errors={len(content_errors)}")
+              raise SystemExit(
+                  f"QA failed: missing={len(missing)}, retry_queue={retry_queue}, "
+                  f"manifest_errors={len(manifest_errors)}, version_errors={len(version_errors)}, "
+                  f"content_errors={len(content_errors)}"
+              )
 
       - name: Commit and push only after zero-error QA
         run: |
