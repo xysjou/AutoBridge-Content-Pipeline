@@ -7,8 +7,12 @@
   "meta_limit": 160,
   "title_over_limit": 0,
   "meta_over_limit": 0,
-  "missing_en": 0,
-  "missing_zh": 0,
+  "english_word_min": 900,
+  "english_word_min_failures": [],
+  "english_word_range": [
+    1023,
+    1033
+  ],
   "faq_coverage": 50,
   "cta_coverage": 50,
   "internal_link_coverage": 50,
