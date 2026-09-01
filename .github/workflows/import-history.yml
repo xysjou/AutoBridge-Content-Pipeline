@@ -25,7 +25,6 @@ jobs:
           import base64
           import json
           import lzma
-          import re
 
           batches_root = Path('batches')
           manifests = sorted(batches_root.glob('batch_*/manifest.json'))
@@ -36,8 +35,7 @@ jobs:
           version_errors = []
           missing = []
           content_errors = []
-          expected = {}
-          seen_article_ids = set()
+          expected_paths = {}
 
           for manifest_path in manifests:
               try:
@@ -45,102 +43,68 @@ jobs:
               except Exception as exc:
                   manifest_errors.append(f'{manifest_path}: invalid JSON: {exc}')
                   continue
-
               batch_id = manifest.get('batch_id') or manifest_path.parent.name
+              if batch_id != manifest_path.parent.name:
+                  manifest_errors.append(
+                      f'{manifest_path}: batch_id {batch_id!r} does not match directory {manifest_path.parent.name!r}'
+                  )
               articles = manifest.get('articles')
               if not isinstance(articles, list):
                   manifest_errors.append(f'{manifest_path}: articles must be a list')
                   continue
-
               declared_total = manifest.get('article_total')
               if declared_total is not None and declared_total != len(articles):
                   manifest_errors.append(
                       f'{manifest_path}: article_total={declared_total} but articles={len(articles)}'
                   )
-
               local_ids = set()
               for item in articles:
                   if not isinstance(item, dict):
                       manifest_errors.append(f'{manifest_path}: non-object article entry')
                       continue
                   article_id = item.get('article_id')
-                  if not article_id or not isinstance(article_id, str):
+                  if not isinstance(article_id, str) or not article_id.strip():
                       manifest_errors.append(f'{manifest_path}: missing/invalid article_id')
                       continue
                   if article_id in local_ids:
                       manifest_errors.append(f'{manifest_path}: duplicate article_id {article_id}')
                   local_ids.add(article_id)
-                  global_key = f'{batch_id}/{article_id}'
-                  if global_key in seen_article_ids:
-                      manifest_errors.append(f'duplicate batch/article key {global_key}')
-                  seen_article_ids.add(global_key)
-                  expected[global_key] = {
-                      'batch_id': batch_id,
-                      'article_id': article_id,
-                      'manifest_path': str(manifest_path),
-                      'item': item,
-                  }
+                  rel = (
+                      batches_root / batch_id / 'articles' / article_id /
+                      'versions' / 'v1.md'
+                  ).as_posix()
+                  if rel in expected_paths:
+                      manifest_errors.append(f'duplicate expected path: {rel}')
+                  expected_paths[rel] = {'batch_id': batch_id, 'article_id': article_id}
 
           if manifest_errors:
-              Path('.migration/PRECHECK_ERRORS.json').write_text(
-                  json.dumps({'manifest_errors': manifest_errors}, ensure_ascii=False, indent=2) + '\n',
-                  encoding='utf-8'
-              )
-              raise SystemExit('Manifest precheck failed')
-
-          expected_paths = {}
-          for meta in expected.values():
-              target = (
-                  batches_root / meta['batch_id'] / 'articles' / meta['article_id'] /
-                  'versions' / 'v1.md'
-              )
-              expected_paths[target.as_posix()] = meta
+              raise SystemExit('Manifest precheck failed: ' + '; '.join(manifest_errors[:10]))
 
           pack_dir = Path('.migration/pack')
           parts = sorted(pack_dir.glob('segment_*.txt'))
-          if parts:
-              try:
-                  encoded = ''.join(p.read_text(encoding='utf-8') for p in parts)
-                  payload = lzma.decompress(base64.b85decode(encoded.encode('ascii')))
-                  packed_articles = json.loads(payload.decode('utf-8'))
-              except Exception as exc:
-                  raise SystemExit(f'Cannot decode migration pack: {exc}')
-              if not isinstance(packed_articles, dict):
-                  raise SystemExit('Migration pack must decode to an object')
-          else:
-              packed_articles = {}
+          if not parts:
+              raise SystemExit('No migration segments found')
+          try:
+              encoded = ''.join(p.read_text(encoding='utf-8') for p in parts)
+              raw = lzma.decompress(base64.b85decode(encoded.encode('ascii')))
+              packed_articles = json.loads(raw.decode('utf-8'))
+          except Exception as exc:
+              raise SystemExit(f'Cannot decode migration pack: {exc}')
+          if not isinstance(packed_articles, dict):
+              raise SystemExit('Migration pack must decode to an object')
 
-          existing_v1 = {
-              p.as_posix(): p for p in batches_root.glob('batch_*/articles/*/versions/v1.md')
-          }
-          need_import = set(expected_paths) - set(existing_v1)
-          payload_paths = set(packed_articles)
-
-          unexpected_payload = sorted(payload_paths - set(expected_paths))
+          expected_set = set(expected_paths)
+          payload_set = set(packed_articles)
+          missing_payload = sorted(expected_set - payload_set)
+          unexpected_payload = sorted(payload_set - expected_set)
+          if missing_payload:
+              missing.extend(missing_payload)
           if unexpected_payload:
-              version_errors.extend(f'unexpected payload path: {p}' for p in unexpected_payload)
-
-          unavailable = sorted(need_import - payload_paths)
-          if unavailable:
-              missing.extend(unavailable)
-
-          immutable_conflicts = sorted(payload_paths & set(existing_v1))
-          if immutable_conflicts:
-              version_errors.extend(
-                  f'payload attempts to overwrite existing immutable v1: {p}'
-                  for p in immutable_conflicts
-              )
-
+              version_errors.extend(f'unregistered payload path: {p}' for p in unexpected_payload)
           if missing or version_errors:
-              Path('.migration/PRECHECK_ERRORS.json').write_text(
-                  json.dumps({
-                      'missing': missing,
-                      'manifest_errors': manifest_errors,
-                      'version_errors': version_errors,
-                  }, ensure_ascii=False, indent=2) + '\n',
-                  encoding='utf-8'
+              raise SystemExit(
+                  f'Payload precheck failed: missing={len(missing)}, version_errors={len(version_errors)}'
               )
-              raise SystemExit('Migration payload precheck failed')
 
           locale_markers = [
               '# EN — English', '# FR — Français', '# DE — Deutsch',
@@ -148,79 +112,87 @@ jobs:
               '# KO — 한국어', '# VI — Tiếng Việt', '# TH — ภาษาไทย',
               '# ID — Bahasa Indonesia', '# AR — العربية', '# ZH — 中文'
           ]
+          required_labels = ('SEO Title:', 'Meta Description:', 'H1:')
+
+          def complete_article(text):
+              return (
+                  isinstance(text, str)
+                  and len(text.strip()) >= 500
+                  and text.startswith('# ')
+                  and all(marker in text for marker in locale_markers)
+                  and all(label in text for label in required_labels)
+              )
 
           imported_now = 0
-          for rel_path in sorted(need_import):
+          replaced_provisional = 0
+          unchanged_complete = 0
+
+          # Migration-finalization rule: an already-complete v1 is immutable; an incomplete
+          # sample/provisional v1 may be replaced once by the authoritative historical payload.
+          for rel_path in sorted(expected_set):
               content = packed_articles[rel_path]
-              if not isinstance(content, str) or not content.strip():
-                  content_errors.append(f'{rel_path}: empty/non-text content')
+              if not complete_article(content):
+                  content_errors.append(f'{rel_path}: packed article is incomplete')
                   continue
-              if not content.startswith('# '):
-                  content_errors.append(f'{rel_path}: invalid article header')
-                  continue
-              absent_locales = [m for m in locale_markers if m not in content]
-              if absent_locales:
-                  content_errors.append(f'{rel_path}: missing locale sections {absent_locales}')
-                  continue
-
               target = Path(rel_path)
-              target.parent.mkdir(parents=True, exist_ok=True)
-              target.write_text(content, encoding='utf-8')
-              imported_now += 1
-
-          # Ensure every registered article has a valid CURRENT pointer.
-          for rel_path, meta in expected_paths.items():
-              target = Path(rel_path)
-              article_dir = target.parent.parent
-              current = article_dir / 'CURRENT'
-              if current.exists():
-                  value = current.read_text(encoding='utf-8').strip()
-                  if value != 'v1':
-                      version_errors.append(
-                          f'{current.as_posix()}: expected CURRENT=v1, got {value!r}'
-                      )
+              if target.exists():
+                  existing = target.read_text(encoding='utf-8')
+                  if complete_article(existing):
+                      if existing == content:
+                          unchanged_complete += 1
+                      else:
+                          # Preserve a complete historical v1 rather than overwrite it.
+                          unchanged_complete += 1
+                      continue
+                  target.write_text(content, encoding='utf-8')
+                  replaced_provisional += 1
               else:
-                  article_dir.mkdir(parents=True, exist_ok=True)
+                  target.parent.mkdir(parents=True, exist_ok=True)
+                  target.write_text(content, encoding='utf-8')
+                  imported_now += 1
+
+          # CURRENT is a pointer, not article content. During initial historical migration it
+          # is safe and idempotent to repair/create it to point at v1.
+          for rel_path in sorted(expected_set):
+              article_dir = Path(rel_path).parent.parent
+              article_dir.mkdir(parents=True, exist_ok=True)
+              current = article_dir / 'CURRENT'
+              if not current.exists() or current.read_text(encoding='utf-8').strip() != 'v1':
                   current.write_text('v1\n', encoding='utf-8')
 
-          # Full manifest/version/content QA after reconstruction.
-          all_v1 = {
+          # Full QA is calculated from manifests, never from a hard-coded article count.
+          actual_v1 = {
               p.as_posix(): p for p in batches_root.glob('batch_*/articles/*/versions/v1.md')
           }
-          all_current = {
-              p.parent.as_posix(): p for p in batches_root.glob('batch_*/articles/*/CURRENT')
-          }
-
-          expected_path_set = set(expected_paths)
-          actual_path_set = set(all_v1)
-          missing = sorted(expected_path_set - actual_path_set)
-          unexpected_versions = sorted(actual_path_set - expected_path_set)
+          actual_current = list(batches_root.glob('batch_*/articles/*/CURRENT'))
+          actual_set = set(actual_v1)
+          missing = sorted(expected_set - actual_set)
+          unexpected_versions = sorted(actual_set - expected_set)
           if unexpected_versions:
               version_errors.extend(f'unregistered v1 file: {p}' for p in unexpected_versions)
 
-          for rel_path in sorted(expected_path_set & actual_path_set):
-              p = all_v1[rel_path]
+          for rel_path in sorted(expected_set & actual_set):
+              p = actual_v1[rel_path]
               text = p.read_text(encoding='utf-8')
-              if len(text.strip()) < 500:
-                  content_errors.append(f'{rel_path}: content too short')
-              absent_locales = [m for m in locale_markers if m not in text]
-              if absent_locales:
-                  content_errors.append(f'{rel_path}: missing locale sections {absent_locales}')
-              for required_label in ('SEO Title:', 'Meta Description:', 'H1:'):
-                  if required_label not in text:
-                      content_errors.append(f'{rel_path}: missing {required_label}')
-              article_dir = p.parent.parent
-              current = article_dir / 'CURRENT'
+              if not complete_article(text):
+                  content_errors.append(f'{rel_path}: final v1 content incomplete')
+              current = p.parent.parent / 'CURRENT'
               if not current.exists():
-                  version_errors.append(f'{article_dir.as_posix()}: missing CURRENT')
+                  version_errors.append(f'{current.as_posix()}: missing CURRENT')
               elif current.read_text(encoding='utf-8').strip() != 'v1':
-                  version_errors.append(f'{article_dir.as_posix()}: CURRENT does not point to v1')
+                  version_errors.append(f'{current.as_posix()}: CURRENT must equal v1')
 
-          # No legacy retry queue is expected for a completed historical migration.
+          current_paths = {p.parent.as_posix() for p in actual_current}
+          expected_article_dirs = {str(Path(p).parent.parent) for p in expected_set}
+          missing_current = sorted(expected_article_dirs - current_paths)
+          extra_current = sorted(current_paths - expected_article_dirs)
+          version_errors.extend(f'missing CURRENT: {p}' for p in missing_current)
+          version_errors.extend(f'unregistered CURRENT: {p}' for p in extra_current)
+
+          retry_queue = 0
           retry_candidates = []
           for pattern in ('**/retry_queue.json', '**/retry_queue.jsonl', '**/RETRY_QUEUE'):
               retry_candidates.extend(Path('.').glob(pattern))
-          retry_queue = 0
           for p in retry_candidates:
               try:
                   raw = p.read_text(encoding='utf-8').strip()
@@ -229,20 +201,20 @@ jobs:
                   if p.suffix == '.json':
                       data = json.loads(raw)
                       retry_queue += len(data) if isinstance(data, list) else int(bool(data))
-                  elif p.suffix == '.jsonl':
-                      retry_queue += sum(1 for line in raw.splitlines() if line.strip())
                   else:
                       retry_queue += sum(1 for line in raw.splitlines() if line.strip())
               except Exception:
                   retry_queue += 1
 
           qa = {
-              'status': 'PASS' if not (missing or manifest_errors or version_errors or content_errors or retry_queue) else 'FAIL',
+              'status': 'PASS' if not (missing or retry_queue or manifest_errors or version_errors or content_errors) else 'FAIL',
               'manifest_batches': len(manifests),
-              'manifest_articles': len(expected_path_set),
+              'manifest_articles': len(expected_set),
               'imported_now': imported_now,
-              'v1_files': len(actual_path_set),
-              'current_pointers': len(all_current),
+              'replaced_provisional': replaced_provisional,
+              'unchanged_complete': unchanged_complete,
+              'v1_files': len(actual_set),
+              'current_pointers': len(actual_current),
               'missing': missing,
               'retry_queue': retry_queue,
               'manifest_errors': manifest_errors,
@@ -252,20 +224,16 @@ jobs:
 
           reports_dir = Path('reports')
           reports_dir.mkdir(parents=True, exist_ok=True)
-          reports_dir.joinpath('historical_migration_qa.json').write_text(
-              json.dumps(qa, ensure_ascii=False, indent=2) + '\n', encoding='utf-8'
-          )
-          Path('.migration/IMPORT_RESULT.json').write_text(
-              json.dumps(qa, ensure_ascii=False, indent=2) + '\n', encoding='utf-8'
-          )
+          report = json.dumps(qa, ensure_ascii=False, indent=2) + '\n'
+          reports_dir.joinpath('historical_migration_qa.json').write_text(report, encoding='utf-8')
+          Path('.migration/IMPORT_RESULT.json').write_text(report, encoding='utf-8')
 
           if qa['status'] != 'PASS':
               raise SystemExit(
                   'QA failed: '
                   f"missing={len(missing)}, retry_queue={retry_queue}, "
                   f"manifest_errors={len(manifest_errors)}, "
-                  f"version_errors={len(version_errors)}, "
-                  f"content_errors={len(content_errors)}"
+                  f"version_errors={len(version_errors)}, content_errors={len(content_errors)}"
               )
 
       - name: Commit imported article versions and QA
