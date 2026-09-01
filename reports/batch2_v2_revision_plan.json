@@ -1,0 +1,23 @@
+{
+  "batch_id": "batch_20260901_001",
+  "version": "v2",
+  "changes": [
+    "SEO Title <=60 characters",
+    "Meta Description <=160 characters",
+    "Natural China export and sourcing keywords",
+    "Reduced repeated model-name headings",
+    "Evidence gate for specifications, price, and certification",
+    "Three FAQs, CTA, and related internal links",
+    "Removed deployment scaffolding from public-facing article body"
+  ],
+  "deferred": [
+    "Do not publish JA/KO or other locale pages without equivalent-depth translations",
+    "Insert dated, source-backed numeric data per article before public release"
+  ],
+  "reused_articles": [
+    "AB50_037_Guide_photo_vin_review_global_REUSED",
+    "AB50_047_Guide_roro_container_shipping_middle_east_REUSED",
+    "AB50_048_Guide_roro_container_shipping_southeast_asia_REUSED"
+  ],
+  "v1_policy": "All v1 files remain immutable."
+}

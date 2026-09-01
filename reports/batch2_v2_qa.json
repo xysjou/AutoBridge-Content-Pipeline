@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "batch_id": "batch_20260901_001",
+  "version": "v2",
+  "articles": 50,
+  "title_limit": 60,
+  "meta_limit": 160,
+  "title_over_limit": 0,
+  "meta_over_limit": 0,
+  "missing_en": 0,
+  "missing_zh": 0,
+  "faq_coverage": 50,
+  "cta_coverage": 50,
+  "internal_link_coverage": 50,
+  "active_current": "v2",
+  "v1_preserved": true,
+  "language_policy": "EN/ZH active; no unsupported 12-language claim",
+  "data_policy": "Numeric specifications, prices, and certifications require dated source evidence before public release."
+}
