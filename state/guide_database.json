@@ -1,1 +1,186 @@
-{"generated_on":"2026-09-02","note":"Existing procurement-guide topic clusters (dedup blacklist). A new guide whose primary intent matches a cluster is a duplicate unless it has a clearly distinct, documented search intent.","count":54,"topic_clusters":{"roro_container":{"article_count":7,"articles":["AB43_004_Repair_004_RoRo_vs_Container","AB43_016_Repair_015_RoRo_vs_Container_Africa","AB43_023_Repair_027_RoRo_vs_Container_Middle_East","AB43_024_Repair_028_RoRo_vs_Container_Southeast_Asia","AB50_046_Guide_roro_container_shipping_latin_america","AB50_047_Guide_roro_container_shipping_middle_east_REUSED","AB50_048_Guide_roro_container_shipping_southeast_asia_REUSED"]},"photo_vin_review":{"article_count":6,"articles":["AB43_012_Repair_011_VIN_Photo_Verification","AB50_036_Guide_photo_vin_review_africa","AB50_037_Guide_photo_vin_review_global_REUSED","AB50_038_Guide_photo_vin_review_latin_america","AB50_039_Guide_photo_vin_review_middle_east","AB50_040_Guide_photo_vin_review_southeast_asia"]},"battery_warranty":{"article_count":5,"articles":["AB43_001_Repair_001_EV_Battery_Warranty","AB43_013_Repair_012_EV_Battery_Warranty_Middle_East","AB43_021_Repair_020_EV_Battery_Warranty_Africa","AB43_022_Repair_021_EV_Battery_Warranty_Latin_America","AB50_024_Guide_battery_warranty_southeast_asia"]},"chinese_phev_sourcing":{"article_count":5,"articles":["AB43_002_Repair_002_Chinese_PHEV_Sourcing","AB43_014_Repair_013_Chinese_PHEV_Sourcing_Africa","AB43_018_Repair_017_Chinese_PHEV_Sourcing_Latin_America","AB43_019_Repair_018_Chinese_PHEV_Sourcing_Middle_East","AB43_020_Repair_019_Chinese_PHEV_Sourcing_Southeast_Asia"]},"spare_parts":{"article_count":5,"articles":["AB43_005_Repair_005_China_Car_Spare_Parts","AB43_017_Repair_016_Spare_Parts_Plan_Middle_East","AB43_025_Repair_029_Spare_Parts_Plan_Africa","AB43_026_Repair_030_Spare_Parts_Plan_Latin_America","AB43_027_Repair_031_Spare_Parts_Plan_Southeast_Asia"]},"pickup_export":{"article_count":5,"articles":["AB43_009_Repair_009_Pickup_Truck_Export","AB50_041_Guide_pickup_export_africa","AB50_042_Guide_pickup_export_latin_america","AB50_043_Guide_pickup_export_middle_east","AB50_044_Guide_pickup_export_southeast_asia"]},"mpv_procurement":{"article_count":5,"articles":["AB43_010_Repair_010_Chinese_MPV_Procurement","AB50_030_Guide_mpv_procurement_africa","AB50_031_Guide_mpv_procurement_latin_america","AB50_032_Guide_mpv_procurement_middle_east","AB50_033_Guide_mpv_procurement_southeast_asia"]},"fob_cif":{"article_count":5,"articles":["AB43_011_Repair_011_FOB_vs_CIF_Vehicle_Imports","AB50_026_Guide_fob_cif_quote_check_africa","AB50_027_Guide_fob_cif_quote_check_latin_america","AB50_028_Guide_fob_cif_quote_check_middle_east","AB50_029_Guide_fob_cif_quote_check_southeast_asia"]},"new_vs_used_ev":{"article_count":4,"articles":["AB43_003_Repair_003_New_vs_Used_China_EV","AB43_015_Repair_014_New_vs_Used_EV_Latin_America","AB50_034_Guide_new_vs_used_ev_middle_east","AB50_035_Guide_new_vs_used_ev_southeast_asia"]},"seven_seat_suv":{"article_count":3,"articles":["AB43_006_Repair_006_Seven_Seat_SUV","AB50_049_Guide_seven_seat_suv_africa","AB50_050_Guide_seven_seat_suv_latin_america"]},"price_verification":{"article_count":2,"articles":["AB43_008_Repair_008_China_Vehicle_Price_Verification","AB50_045_Guide_price_verification_africa"]},"middle_east_chinese_suv":{"article_count":1,"articles":["AB43_007_Repair_007_Middle_East_Chinese_SUV"]},"best_chinese_suvs":{"article_count":1,"articles":["AB50_025_Guide_best_chinese_suvs_southeast_asia"]}}}
+{
+  "generated_on": "2026-09-02",
+  "note": "Existing procurement-guide topic clusters (dedup blacklist). A new guide whose primary intent matches a cluster is a duplicate unless it has a clearly distinct, documented search intent.",
+  "count": 64,
+  "topic_clusters": {
+    "roro_container": {
+      "article_count": 7,
+      "articles": [
+        "AB43_004_Repair_004_RoRo_vs_Container",
+        "AB43_016_Repair_015_RoRo_vs_Container_Africa",
+        "AB43_023_Repair_027_RoRo_vs_Container_Middle_East",
+        "AB43_024_Repair_028_RoRo_vs_Container_Southeast_Asia",
+        "AB50_046_Guide_roro_container_shipping_latin_america",
+        "AB50_047_Guide_roro_container_shipping_middle_east_REUSED",
+        "AB50_048_Guide_roro_container_shipping_southeast_asia_REUSED"
+      ]
+    },
+    "photo_vin_review": {
+      "article_count": 6,
+      "articles": [
+        "AB43_012_Repair_011_VIN_Photo_Verification",
+        "AB50_036_Guide_photo_vin_review_africa",
+        "AB50_037_Guide_photo_vin_review_global_REUSED",
+        "AB50_038_Guide_photo_vin_review_latin_america",
+        "AB50_039_Guide_photo_vin_review_middle_east",
+        "AB50_040_Guide_photo_vin_review_southeast_asia"
+      ]
+    },
+    "battery_warranty": {
+      "article_count": 5,
+      "articles": [
+        "AB43_001_Repair_001_EV_Battery_Warranty",
+        "AB43_013_Repair_012_EV_Battery_Warranty_Middle_East",
+        "AB43_021_Repair_020_EV_Battery_Warranty_Africa",
+        "AB43_022_Repair_021_EV_Battery_Warranty_Latin_America",
+        "AB50_024_Guide_battery_warranty_southeast_asia"
+      ]
+    },
+    "chinese_phev_sourcing": {
+      "article_count": 5,
+      "articles": [
+        "AB43_002_Repair_002_Chinese_PHEV_Sourcing",
+        "AB43_014_Repair_013_Chinese_PHEV_Sourcing_Africa",
+        "AB43_018_Repair_017_Chinese_PHEV_Sourcing_Latin_America",
+        "AB43_019_Repair_018_Chinese_PHEV_Sourcing_Middle_East",
+        "AB43_020_Repair_019_Chinese_PHEV_Sourcing_Southeast_Asia"
+      ]
+    },
+    "spare_parts": {
+      "article_count": 5,
+      "articles": [
+        "AB43_005_Repair_005_China_Car_Spare_Parts",
+        "AB43_017_Repair_016_Spare_Parts_Plan_Middle_East",
+        "AB43_025_Repair_029_Spare_Parts_Plan_Africa",
+        "AB43_026_Repair_030_Spare_Parts_Plan_Latin_America",
+        "AB43_027_Repair_031_Spare_Parts_Plan_Southeast_Asia"
+      ]
+    },
+    "pickup_export": {
+      "article_count": 5,
+      "articles": [
+        "AB43_009_Repair_009_Pickup_Truck_Export",
+        "AB50_041_Guide_pickup_export_africa",
+        "AB50_042_Guide_pickup_export_latin_america",
+        "AB50_043_Guide_pickup_export_middle_east",
+        "AB50_044_Guide_pickup_export_southeast_asia"
+      ]
+    },
+    "mpv_procurement": {
+      "article_count": 5,
+      "articles": [
+        "AB43_010_Repair_010_Chinese_MPV_Procurement",
+        "AB50_030_Guide_mpv_procurement_africa",
+        "AB50_031_Guide_mpv_procurement_latin_america",
+        "AB50_032_Guide_mpv_procurement_middle_east",
+        "AB50_033_Guide_mpv_procurement_southeast_asia"
+      ]
+    },
+    "fob_cif": {
+      "article_count": 5,
+      "articles": [
+        "AB43_011_Repair_011_FOB_vs_CIF_Vehicle_Imports",
+        "AB50_026_Guide_fob_cif_quote_check_africa",
+        "AB50_027_Guide_fob_cif_quote_check_latin_america",
+        "AB50_028_Guide_fob_cif_quote_check_middle_east",
+        "AB50_029_Guide_fob_cif_quote_check_southeast_asia"
+      ]
+    },
+    "new_vs_used_ev": {
+      "article_count": 4,
+      "articles": [
+        "AB43_003_Repair_003_New_vs_Used_China_EV",
+        "AB43_015_Repair_014_New_vs_Used_EV_Latin_America",
+        "AB50_034_Guide_new_vs_used_ev_middle_east",
+        "AB50_035_Guide_new_vs_used_ev_southeast_asia"
+      ]
+    },
+    "seven_seat_suv": {
+      "article_count": 3,
+      "articles": [
+        "AB43_006_Repair_006_Seven_Seat_SUV",
+        "AB50_049_Guide_seven_seat_suv_africa",
+        "AB50_050_Guide_seven_seat_suv_latin_america"
+      ]
+    },
+    "price_verification": {
+      "article_count": 2,
+      "articles": [
+        "AB43_008_Repair_008_China_Vehicle_Price_Verification",
+        "AB50_045_Guide_price_verification_africa"
+      ]
+    },
+    "middle_east_chinese_suv": {
+      "article_count": 1,
+      "articles": [
+        "AB43_007_Repair_007_Middle_East_Chinese_SUV"
+      ]
+    },
+    "best_chinese_suvs": {
+      "article_count": 1,
+      "articles": [
+        "AB50_025_Guide_best_chinese_suvs_southeast_asia"
+      ]
+    },
+    "russia_ev_import_eac": {
+      "article_count": 1,
+      "articles": [
+        "AB-260902-G01"
+      ]
+    },
+    "saudi_truck_saso": {
+      "article_count": 1,
+      "articles": [
+        "AB-260902-G02"
+      ]
+    },
+    "supplier_qualification_audit": {
+      "article_count": 1,
+      "articles": [
+        "AB-260902-G03"
+      ]
+    },
+    "used_ev_pre_export_inspection": {
+      "article_count": 1,
+      "articles": [
+        "AB-260902-G04"
+      ]
+    },
+    "charging_standard_compatibility": {
+      "article_count": 1,
+      "articles": [
+        "AB-260902-G05"
+      ]
+    },
+    "rhd_vehicle_sourcing": {
+      "article_count": 1,
+      "articles": [
+        "AB-260902-G06"
+      ]
+    },
+    "marine_cargo_insurance": {
+      "article_count": 1,
+      "articles": [
+        "AB-260902-G07"
+      ]
+    },
+    "infotainment_ota_localization": {
+      "article_count": 1,
+      "articles": [
+        "AB-260902-G08"
+      ]
+    },
+    "chile_fta_ev_import": {
+      "article_count": 1,
+      "articles": [
+        "AB-260902-G09"
+      ]
+    },
+    "commercial_fleet_bulk_procurement": {
+      "article_count": 1,
+      "articles": [
+        "AB-260902-G10"
+      ]
+    }
+  }
+}

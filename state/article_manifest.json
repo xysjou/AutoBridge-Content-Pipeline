@@ -1,1 +1,974 @@
-{"generated_on":"2026-09-02","generated_by":"Daily Research Pipeline (derived from batches/)","note":"Consolidated read-only dedup baseline derived from batches/batch_20260831_001 + batch_20260901_001 manifests. Immutable batch manifests remain the source of truth; this file is a derived index for cross-day dedup.","historical_article_total":93,"vehicle_page_total":39,"procurement_guide_total":54,"articles":[{"article_id":"AB43_001_Repair_001_EV_Battery_Warranty","batch":"batch_20260831_001","version":"v1","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"battery_warranty"},{"article_id":"AB43_002_Repair_002_Chinese_PHEV_Sourcing","batch":"batch_20260831_001","version":"v1","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"chinese_phev_sourcing"},{"article_id":"AB43_003_Repair_003_New_vs_Used_China_EV","batch":"batch_20260831_001","version":"v1","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"new_vs_used_ev"},{"article_id":"AB43_004_Repair_004_RoRo_vs_Container","batch":"batch_20260831_001","version":"v1","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"roro_container"},{"article_id":"AB43_005_Repair_005_China_Car_Spare_Parts","batch":"batch_20260831_001","version":"v1","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"spare_parts"},{"article_id":"AB43_006_Repair_006_Seven_Seat_SUV","batch":"batch_20260831_001","version":"v1","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"seven_seat_suv"},{"article_id":"AB43_007_Repair_007_Middle_East_Chinese_SUV","batch":"batch_20260831_001","version":"v1","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"middle_east_chinese_suv"},{"article_id":"AB43_008_Repair_008_China_Vehicle_Price_Verification","batch":"batch_20260831_001","version":"v1","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"price_verification"},{"article_id":"AB43_009_Repair_009_Pickup_Truck_Export","batch":"batch_20260831_001","version":"v1","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"pickup_export"},{"article_id":"AB43_010_Repair_010_Chinese_MPV_Procurement","batch":"batch_20260831_001","version":"v1","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"mpv_procurement"},{"article_id":"AB43_011_Repair_011_FOB_vs_CIF_Vehicle_Imports","batch":"batch_20260831_001","version":"v1","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"fob_cif"},{"article_id":"AB43_012_Repair_011_VIN_Photo_Verification","batch":"batch_20260831_001","version":"v1","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"photo_vin_review"},{"article_id":"AB43_013_Repair_012_EV_Battery_Warranty_Middle_East","batch":"batch_20260831_001","version":"v1","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"battery_warranty"},{"article_id":"AB43_014_Repair_013_Chinese_PHEV_Sourcing_Africa","batch":"batch_20260831_001","version":"v1","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"chinese_phev_sourcing"},{"article_id":"AB43_015_Repair_014_New_vs_Used_EV_Latin_America","batch":"batch_20260831_001","version":"v1","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"new_vs_used_ev"},{"article_id":"AB43_016_Repair_015_RoRo_vs_Container_Africa","batch":"batch_20260831_001","version":"v1","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"roro_container"},{"article_id":"AB43_017_Repair_016_Spare_Parts_Plan_Middle_East","batch":"batch_20260831_001","version":"v1","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"spare_parts"},{"article_id":"AB43_018_Repair_017_Chinese_PHEV_Sourcing_Latin_America","batch":"batch_20260831_001","version":"v1","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"chinese_phev_sourcing"},{"article_id":"AB43_019_Repair_018_Chinese_PHEV_Sourcing_Middle_East","batch":"batch_20260831_001","version":"v1","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"chinese_phev_sourcing"},{"article_id":"AB43_020_Repair_019_Chinese_PHEV_Sourcing_Southeast_Asia","batch":"batch_20260831_001","version":"v1","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"chinese_phev_sourcing"},{"article_id":"AB43_021_Repair_020_EV_Battery_Warranty_Africa","batch":"batch_20260831_001","version":"v1","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"battery_warranty"},{"article_id":"AB43_022_Repair_021_EV_Battery_Warranty_Latin_America","batch":"batch_20260831_001","version":"v1","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"battery_warranty"},{"article_id":"AB43_023_Repair_027_RoRo_vs_Container_Middle_East","batch":"batch_20260831_001","version":"v1","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"roro_container"},{"article_id":"AB43_024_Repair_028_RoRo_vs_Container_Southeast_Asia","batch":"batch_20260831_001","version":"v1","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"roro_container"},{"article_id":"AB43_025_Repair_029_Spare_Parts_Plan_Africa","batch":"batch_20260831_001","version":"v1","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"spare_parts"},{"article_id":"AB43_026_Repair_030_Spare_Parts_Plan_Latin_America","batch":"batch_20260831_001","version":"v1","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"spare_parts"},{"article_id":"AB43_027_Repair_031_Spare_Parts_Plan_Southeast_Asia","batch":"batch_20260831_001","version":"v1","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"spare_parts"},{"article_id":"AB43_028_Vehicle_001_BYD_SONG_PLUS_DMi","batch":"batch_20260831_001","version":"v1","status":"COMPLETED","content_type":"VEHICLE_PAGE","topic_cluster":"other"},{"article_id":"AB43_029_Vehicle_002_BYD_SEAL","batch":"batch_20260831_001","version":"v1","status":"COMPLETED","content_type":"VEHICLE_PAGE","topic_cluster":"other"},{"article_id":"AB43_030_Vehicle_003_Chery_TIGGO_8","batch":"batch_20260831_001","version":"v1","status":"COMPLETED","content_type":"VEHICLE_PAGE","topic_cluster":"other"},{"article_id":"AB43_031_Vehicle_004_GWM_Haval_H6","batch":"batch_20260831_001","version":"v1","status":"COMPLETED","content_type":"VEHICLE_PAGE","topic_cluster":"other"},{"article_id":"AB43_032_Vehicle_005_Mazda_CX_30","batch":"batch_20260831_001","version":"v1","status":"COMPLETED","content_type":"VEHICLE_PAGE","topic_cluster":"other"},{"article_id":"AB43_033_Vehicle_006_Toyota_HiAce","batch":"batch_20260831_001","version":"v1","status":"COMPLETED","content_type":"VEHICLE_PAGE","topic_cluster":"other"},{"article_id":"AB43_034_Vehicle_007_BMW_3_Series","batch":"batch_20260831_001","version":"v1","status":"COMPLETED","content_type":"VEHICLE_PAGE","topic_cluster":"other"},{"article_id":"AB43_035_Vehicle_008_Chevrolet_Equinox","batch":"batch_20260831_001","version":"v1","status":"COMPLETED","content_type":"VEHICLE_PAGE","topic_cluster":"other"},{"article_id":"AB43_036_Vehicle_009_Nissan_Rogue","batch":"batch_20260831_001","version":"v1","status":"COMPLETED","content_type":"VEHICLE_PAGE","topic_cluster":"other"},{"article_id":"AB43_037_Vehicle_010_Tesla_Model_3","batch":"batch_20260831_001","version":"v1","status":"COMPLETED","content_type":"VEHICLE_PAGE","topic_cluster":"other"},{"article_id":"AB43_038_Vehicle_011_Toyota_Corolla_Cross","batch":"batch_20260831_001","version":"v1","status":"COMPLETED","content_type":"VEHICLE_PAGE","topic_cluster":"other"},{"article_id":"AB43_039_Vehicle_017_Chevrolet_Tahoe","batch":"batch_20260831_001","version":"v1","status":"COMPLETED","content_type":"VEHICLE_PAGE","topic_cluster":"other"},{"article_id":"AB43_040_Vehicle_018_Volvo_XC40","batch":"batch_20260831_001","version":"v1","status":"COMPLETED","content_type":"VEHICLE_PAGE","topic_cluster":"other"},{"article_id":"AB43_041_Vehicle_019_Fiat_500","batch":"batch_20260831_001","version":"v1","status":"COMPLETED","content_type":"VEHICLE_PAGE","topic_cluster":"other"},{"article_id":"AB43_042_Vehicle_019_Hyundai_Elantra","batch":"batch_20260831_001","version":"v1","status":"COMPLETED","content_type":"VEHICLE_PAGE","topic_cluster":"other"},{"article_id":"AB43_043_Vehicle_020_Hyundai_Tucson","batch":"batch_20260831_001","version":"v1","status":"COMPLETED","content_type":"VEHICLE_PAGE","topic_cluster":"other"},{"article_id":"AB50_001_Vehicle_GAC_AION_Y_Plus","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"VEHICLE_PAGE","topic_cluster":"other"},{"article_id":"AB50_002_Vehicle_Geely_New_Coolray","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"VEHICLE_PAGE","topic_cluster":"other"},{"article_id":"AB50_003_Vehicle_2026_GMC_Sierra_1500","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"VEHICLE_PAGE","topic_cluster":"other"},{"article_id":"AB50_004_Vehicle_2026_Kia_Sorento","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"VEHICLE_PAGE","topic_cluster":"other"},{"article_id":"AB50_005_Vehicle_2026_Kia_Sportage","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"VEHICLE_PAGE","topic_cluster":"other"},{"article_id":"AB50_006_Vehicle_2026_Land_Rover_Defender","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"VEHICLE_PAGE","topic_cluster":"other"},{"article_id":"AB50_007_Vehicle_2026_Lexus_NX","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"VEHICLE_PAGE","topic_cluster":"other"},{"article_id":"AB50_008_Vehicle_2026_Lexus_RX","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"VEHICLE_PAGE","topic_cluster":"other"},{"article_id":"AB50_009_Vehicle_Mazda_BT_50","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"VEHICLE_PAGE","topic_cluster":"other"},{"article_id":"AB50_010_Vehicle_2026_Mazda_CX_5","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"VEHICLE_PAGE","topic_cluster":"other"},{"article_id":"AB50_011_Vehicle_2026_Mercedes_Benz_C_Class","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"VEHICLE_PAGE","topic_cluster":"other"},{"article_id":"AB50_012_Vehicle_2026_Mercedes_Benz_E_Class","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"VEHICLE_PAGE","topic_cluster":"other"},{"article_id":"AB50_013_Vehicle_2026_Mercedes_Benz_GLC","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"VEHICLE_PAGE","topic_cluster":"other"},{"article_id":"AB50_014_Vehicle_MG_ZS","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"VEHICLE_PAGE","topic_cluster":"other"},{"article_id":"AB50_015_Vehicle_2026_Nissan_Altima","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"VEHICLE_PAGE","topic_cluster":"other"},{"article_id":"AB50_016_Vehicle_Nissan_Qashqai","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"VEHICLE_PAGE","topic_cluster":"other"},{"article_id":"AB50_017_Vehicle_2026_Nissan_Sentra","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"VEHICLE_PAGE","topic_cluster":"other"},{"article_id":"AB50_018_Vehicle_Opel_Corsa","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"VEHICLE_PAGE","topic_cluster":"other"},{"article_id":"AB50_019_Vehicle_Peugeot_208","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"VEHICLE_PAGE","topic_cluster":"other"},{"article_id":"AB50_020_Vehicle_Peugeot_3008_E_3008","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"VEHICLE_PAGE","topic_cluster":"other"},{"article_id":"AB50_021_Vehicle_2026_Polestar_2","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"VEHICLE_PAGE","topic_cluster":"other"},{"article_id":"AB50_022_Vehicle_2026_Porsche_Macan_Electric","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"VEHICLE_PAGE","topic_cluster":"other"},{"article_id":"AB50_023_Vehicle_2026_Ram_1500","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"VEHICLE_PAGE","topic_cluster":"other"},{"article_id":"AB50_024_Guide_battery_warranty_southeast_asia","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"battery_warranty"},{"article_id":"AB50_025_Guide_best_chinese_suvs_southeast_asia","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"best_chinese_suvs"},{"article_id":"AB50_026_Guide_fob_cif_quote_check_africa","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"fob_cif"},{"article_id":"AB50_027_Guide_fob_cif_quote_check_latin_america","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"fob_cif"},{"article_id":"AB50_028_Guide_fob_cif_quote_check_middle_east","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"fob_cif"},{"article_id":"AB50_029_Guide_fob_cif_quote_check_southeast_asia","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"fob_cif"},{"article_id":"AB50_030_Guide_mpv_procurement_africa","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"mpv_procurement"},{"article_id":"AB50_031_Guide_mpv_procurement_latin_america","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"mpv_procurement"},{"article_id":"AB50_032_Guide_mpv_procurement_middle_east","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"mpv_procurement"},{"article_id":"AB50_033_Guide_mpv_procurement_southeast_asia","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"mpv_procurement"},{"article_id":"AB50_034_Guide_new_vs_used_ev_middle_east","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"new_vs_used_ev"},{"article_id":"AB50_035_Guide_new_vs_used_ev_southeast_asia","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"new_vs_used_ev"},{"article_id":"AB50_036_Guide_photo_vin_review_africa","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"photo_vin_review"},{"article_id":"AB50_037_Guide_photo_vin_review_global_REUSED","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"photo_vin_review"},{"article_id":"AB50_038_Guide_photo_vin_review_latin_america","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"photo_vin_review"},{"article_id":"AB50_039_Guide_photo_vin_review_middle_east","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"photo_vin_review"},{"article_id":"AB50_040_Guide_photo_vin_review_southeast_asia","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"photo_vin_review"},{"article_id":"AB50_041_Guide_pickup_export_africa","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"pickup_export"},{"article_id":"AB50_042_Guide_pickup_export_latin_america","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"pickup_export"},{"article_id":"AB50_043_Guide_pickup_export_middle_east","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"pickup_export"},{"article_id":"AB50_044_Guide_pickup_export_southeast_asia","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"pickup_export"},{"article_id":"AB50_045_Guide_price_verification_africa","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"price_verification"},{"article_id":"AB50_046_Guide_roro_container_shipping_latin_america","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"roro_container"},{"article_id":"AB50_047_Guide_roro_container_shipping_middle_east_REUSED","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"roro_container"},{"article_id":"AB50_048_Guide_roro_container_shipping_southeast_asia_REUSED","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"roro_container"},{"article_id":"AB50_049_Guide_seven_seat_suv_africa","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"seven_seat_suv"},{"article_id":"AB50_050_Guide_seven_seat_suv_latin_america","batch":"batch_20260901_001","version":"v2","status":"COMPLETED","content_type":"PROCUREMENT_GUIDE","topic_cluster":"seven_seat_suv"}]}
+{
+  "generated_on": "2026-09-02",
+  "generated_by": "Daily Delivery Pipeline (Stage 2) — appended daily_2026-09-02 QA_PASS pages to research-derived baseline",
+  "note": "Consolidated read-only dedup baseline derived from batches/batch_20260831_001 + batch_20260901_001 manifests. Immutable batch manifests remain the source of truth; this file is a derived index for cross-day dedup.",
+  "historical_article_total": 113,
+  "vehicle_page_total": 49,
+  "procurement_guide_total": 64,
+  "articles": [
+    {
+      "article_id": "AB43_001_Repair_001_EV_Battery_Warranty",
+      "batch": "batch_20260831_001",
+      "version": "v1",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "battery_warranty"
+    },
+    {
+      "article_id": "AB43_002_Repair_002_Chinese_PHEV_Sourcing",
+      "batch": "batch_20260831_001",
+      "version": "v1",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "chinese_phev_sourcing"
+    },
+    {
+      "article_id": "AB43_003_Repair_003_New_vs_Used_China_EV",
+      "batch": "batch_20260831_001",
+      "version": "v1",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "new_vs_used_ev"
+    },
+    {
+      "article_id": "AB43_004_Repair_004_RoRo_vs_Container",
+      "batch": "batch_20260831_001",
+      "version": "v1",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "roro_container"
+    },
+    {
+      "article_id": "AB43_005_Repair_005_China_Car_Spare_Parts",
+      "batch": "batch_20260831_001",
+      "version": "v1",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "spare_parts"
+    },
+    {
+      "article_id": "AB43_006_Repair_006_Seven_Seat_SUV",
+      "batch": "batch_20260831_001",
+      "version": "v1",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "seven_seat_suv"
+    },
+    {
+      "article_id": "AB43_007_Repair_007_Middle_East_Chinese_SUV",
+      "batch": "batch_20260831_001",
+      "version": "v1",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "middle_east_chinese_suv"
+    },
+    {
+      "article_id": "AB43_008_Repair_008_China_Vehicle_Price_Verification",
+      "batch": "batch_20260831_001",
+      "version": "v1",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "price_verification"
+    },
+    {
+      "article_id": "AB43_009_Repair_009_Pickup_Truck_Export",
+      "batch": "batch_20260831_001",
+      "version": "v1",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "pickup_export"
+    },
+    {
+      "article_id": "AB43_010_Repair_010_Chinese_MPV_Procurement",
+      "batch": "batch_20260831_001",
+      "version": "v1",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "mpv_procurement"
+    },
+    {
+      "article_id": "AB43_011_Repair_011_FOB_vs_CIF_Vehicle_Imports",
+      "batch": "batch_20260831_001",
+      "version": "v1",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "fob_cif"
+    },
+    {
+      "article_id": "AB43_012_Repair_011_VIN_Photo_Verification",
+      "batch": "batch_20260831_001",
+      "version": "v1",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "photo_vin_review"
+    },
+    {
+      "article_id": "AB43_013_Repair_012_EV_Battery_Warranty_Middle_East",
+      "batch": "batch_20260831_001",
+      "version": "v1",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "battery_warranty"
+    },
+    {
+      "article_id": "AB43_014_Repair_013_Chinese_PHEV_Sourcing_Africa",
+      "batch": "batch_20260831_001",
+      "version": "v1",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "chinese_phev_sourcing"
+    },
+    {
+      "article_id": "AB43_015_Repair_014_New_vs_Used_EV_Latin_America",
+      "batch": "batch_20260831_001",
+      "version": "v1",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "new_vs_used_ev"
+    },
+    {
+      "article_id": "AB43_016_Repair_015_RoRo_vs_Container_Africa",
+      "batch": "batch_20260831_001",
+      "version": "v1",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "roro_container"
+    },
+    {
+      "article_id": "AB43_017_Repair_016_Spare_Parts_Plan_Middle_East",
+      "batch": "batch_20260831_001",
+      "version": "v1",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "spare_parts"
+    },
+    {
+      "article_id": "AB43_018_Repair_017_Chinese_PHEV_Sourcing_Latin_America",
+      "batch": "batch_20260831_001",
+      "version": "v1",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "chinese_phev_sourcing"
+    },
+    {
+      "article_id": "AB43_019_Repair_018_Chinese_PHEV_Sourcing_Middle_East",
+      "batch": "batch_20260831_001",
+      "version": "v1",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "chinese_phev_sourcing"
+    },
+    {
+      "article_id": "AB43_020_Repair_019_Chinese_PHEV_Sourcing_Southeast_Asia",
+      "batch": "batch_20260831_001",
+      "version": "v1",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "chinese_phev_sourcing"
+    },
+    {
+      "article_id": "AB43_021_Repair_020_EV_Battery_Warranty_Africa",
+      "batch": "batch_20260831_001",
+      "version": "v1",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "battery_warranty"
+    },
+    {
+      "article_id": "AB43_022_Repair_021_EV_Battery_Warranty_Latin_America",
+      "batch": "batch_20260831_001",
+      "version": "v1",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "battery_warranty"
+    },
+    {
+      "article_id": "AB43_023_Repair_027_RoRo_vs_Container_Middle_East",
+      "batch": "batch_20260831_001",
+      "version": "v1",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "roro_container"
+    },
+    {
+      "article_id": "AB43_024_Repair_028_RoRo_vs_Container_Southeast_Asia",
+      "batch": "batch_20260831_001",
+      "version": "v1",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "roro_container"
+    },
+    {
+      "article_id": "AB43_025_Repair_029_Spare_Parts_Plan_Africa",
+      "batch": "batch_20260831_001",
+      "version": "v1",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "spare_parts"
+    },
+    {
+      "article_id": "AB43_026_Repair_030_Spare_Parts_Plan_Latin_America",
+      "batch": "batch_20260831_001",
+      "version": "v1",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "spare_parts"
+    },
+    {
+      "article_id": "AB43_027_Repair_031_Spare_Parts_Plan_Southeast_Asia",
+      "batch": "batch_20260831_001",
+      "version": "v1",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "spare_parts"
+    },
+    {
+      "article_id": "AB43_028_Vehicle_001_BYD_SONG_PLUS_DMi",
+      "batch": "batch_20260831_001",
+      "version": "v1",
+      "status": "COMPLETED",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "other"
+    },
+    {
+      "article_id": "AB43_029_Vehicle_002_BYD_SEAL",
+      "batch": "batch_20260831_001",
+      "version": "v1",
+      "status": "COMPLETED",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "other"
+    },
+    {
+      "article_id": "AB43_030_Vehicle_003_Chery_TIGGO_8",
+      "batch": "batch_20260831_001",
+      "version": "v1",
+      "status": "COMPLETED",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "other"
+    },
+    {
+      "article_id": "AB43_031_Vehicle_004_GWM_Haval_H6",
+      "batch": "batch_20260831_001",
+      "version": "v1",
+      "status": "COMPLETED",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "other"
+    },
+    {
+      "article_id": "AB43_032_Vehicle_005_Mazda_CX_30",
+      "batch": "batch_20260831_001",
+      "version": "v1",
+      "status": "COMPLETED",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "other"
+    },
+    {
+      "article_id": "AB43_033_Vehicle_006_Toyota_HiAce",
+      "batch": "batch_20260831_001",
+      "version": "v1",
+      "status": "COMPLETED",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "other"
+    },
+    {
+      "article_id": "AB43_034_Vehicle_007_BMW_3_Series",
+      "batch": "batch_20260831_001",
+      "version": "v1",
+      "status": "COMPLETED",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "other"
+    },
+    {
+      "article_id": "AB43_035_Vehicle_008_Chevrolet_Equinox",
+      "batch": "batch_20260831_001",
+      "version": "v1",
+      "status": "COMPLETED",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "other"
+    },
+    {
+      "article_id": "AB43_036_Vehicle_009_Nissan_Rogue",
+      "batch": "batch_20260831_001",
+      "version": "v1",
+      "status": "COMPLETED",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "other"
+    },
+    {
+      "article_id": "AB43_037_Vehicle_010_Tesla_Model_3",
+      "batch": "batch_20260831_001",
+      "version": "v1",
+      "status": "COMPLETED",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "other"
+    },
+    {
+      "article_id": "AB43_038_Vehicle_011_Toyota_Corolla_Cross",
+      "batch": "batch_20260831_001",
+      "version": "v1",
+      "status": "COMPLETED",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "other"
+    },
+    {
+      "article_id": "AB43_039_Vehicle_017_Chevrolet_Tahoe",
+      "batch": "batch_20260831_001",
+      "version": "v1",
+      "status": "COMPLETED",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "other"
+    },
+    {
+      "article_id": "AB43_040_Vehicle_018_Volvo_XC40",
+      "batch": "batch_20260831_001",
+      "version": "v1",
+      "status": "COMPLETED",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "other"
+    },
+    {
+      "article_id": "AB43_041_Vehicle_019_Fiat_500",
+      "batch": "batch_20260831_001",
+      "version": "v1",
+      "status": "COMPLETED",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "other"
+    },
+    {
+      "article_id": "AB43_042_Vehicle_019_Hyundai_Elantra",
+      "batch": "batch_20260831_001",
+      "version": "v1",
+      "status": "COMPLETED",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "other"
+    },
+    {
+      "article_id": "AB43_043_Vehicle_020_Hyundai_Tucson",
+      "batch": "batch_20260831_001",
+      "version": "v1",
+      "status": "COMPLETED",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "other"
+    },
+    {
+      "article_id": "AB50_001_Vehicle_GAC_AION_Y_Plus",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "other"
+    },
+    {
+      "article_id": "AB50_002_Vehicle_Geely_New_Coolray",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "other"
+    },
+    {
+      "article_id": "AB50_003_Vehicle_2026_GMC_Sierra_1500",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "other"
+    },
+    {
+      "article_id": "AB50_004_Vehicle_2026_Kia_Sorento",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "other"
+    },
+    {
+      "article_id": "AB50_005_Vehicle_2026_Kia_Sportage",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "other"
+    },
+    {
+      "article_id": "AB50_006_Vehicle_2026_Land_Rover_Defender",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "other"
+    },
+    {
+      "article_id": "AB50_007_Vehicle_2026_Lexus_NX",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "other"
+    },
+    {
+      "article_id": "AB50_008_Vehicle_2026_Lexus_RX",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "other"
+    },
+    {
+      "article_id": "AB50_009_Vehicle_Mazda_BT_50",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "other"
+    },
+    {
+      "article_id": "AB50_010_Vehicle_2026_Mazda_CX_5",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "other"
+    },
+    {
+      "article_id": "AB50_011_Vehicle_2026_Mercedes_Benz_C_Class",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "other"
+    },
+    {
+      "article_id": "AB50_012_Vehicle_2026_Mercedes_Benz_E_Class",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "other"
+    },
+    {
+      "article_id": "AB50_013_Vehicle_2026_Mercedes_Benz_GLC",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "other"
+    },
+    {
+      "article_id": "AB50_014_Vehicle_MG_ZS",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "other"
+    },
+    {
+      "article_id": "AB50_015_Vehicle_2026_Nissan_Altima",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "other"
+    },
+    {
+      "article_id": "AB50_016_Vehicle_Nissan_Qashqai",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "other"
+    },
+    {
+      "article_id": "AB50_017_Vehicle_2026_Nissan_Sentra",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "other"
+    },
+    {
+      "article_id": "AB50_018_Vehicle_Opel_Corsa",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "other"
+    },
+    {
+      "article_id": "AB50_019_Vehicle_Peugeot_208",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "other"
+    },
+    {
+      "article_id": "AB50_020_Vehicle_Peugeot_3008_E_3008",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "other"
+    },
+    {
+      "article_id": "AB50_021_Vehicle_2026_Polestar_2",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "other"
+    },
+    {
+      "article_id": "AB50_022_Vehicle_2026_Porsche_Macan_Electric",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "other"
+    },
+    {
+      "article_id": "AB50_023_Vehicle_2026_Ram_1500",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "other"
+    },
+    {
+      "article_id": "AB50_024_Guide_battery_warranty_southeast_asia",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "battery_warranty"
+    },
+    {
+      "article_id": "AB50_025_Guide_best_chinese_suvs_southeast_asia",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "best_chinese_suvs"
+    },
+    {
+      "article_id": "AB50_026_Guide_fob_cif_quote_check_africa",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "fob_cif"
+    },
+    {
+      "article_id": "AB50_027_Guide_fob_cif_quote_check_latin_america",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "fob_cif"
+    },
+    {
+      "article_id": "AB50_028_Guide_fob_cif_quote_check_middle_east",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "fob_cif"
+    },
+    {
+      "article_id": "AB50_029_Guide_fob_cif_quote_check_southeast_asia",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "fob_cif"
+    },
+    {
+      "article_id": "AB50_030_Guide_mpv_procurement_africa",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "mpv_procurement"
+    },
+    {
+      "article_id": "AB50_031_Guide_mpv_procurement_latin_america",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "mpv_procurement"
+    },
+    {
+      "article_id": "AB50_032_Guide_mpv_procurement_middle_east",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "mpv_procurement"
+    },
+    {
+      "article_id": "AB50_033_Guide_mpv_procurement_southeast_asia",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "mpv_procurement"
+    },
+    {
+      "article_id": "AB50_034_Guide_new_vs_used_ev_middle_east",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "new_vs_used_ev"
+    },
+    {
+      "article_id": "AB50_035_Guide_new_vs_used_ev_southeast_asia",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "new_vs_used_ev"
+    },
+    {
+      "article_id": "AB50_036_Guide_photo_vin_review_africa",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "photo_vin_review"
+    },
+    {
+      "article_id": "AB50_037_Guide_photo_vin_review_global_REUSED",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "photo_vin_review"
+    },
+    {
+      "article_id": "AB50_038_Guide_photo_vin_review_latin_america",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "photo_vin_review"
+    },
+    {
+      "article_id": "AB50_039_Guide_photo_vin_review_middle_east",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "photo_vin_review"
+    },
+    {
+      "article_id": "AB50_040_Guide_photo_vin_review_southeast_asia",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "photo_vin_review"
+    },
+    {
+      "article_id": "AB50_041_Guide_pickup_export_africa",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "pickup_export"
+    },
+    {
+      "article_id": "AB50_042_Guide_pickup_export_latin_america",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "pickup_export"
+    },
+    {
+      "article_id": "AB50_043_Guide_pickup_export_middle_east",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "pickup_export"
+    },
+    {
+      "article_id": "AB50_044_Guide_pickup_export_southeast_asia",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "pickup_export"
+    },
+    {
+      "article_id": "AB50_045_Guide_price_verification_africa",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "price_verification"
+    },
+    {
+      "article_id": "AB50_046_Guide_roro_container_shipping_latin_america",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "roro_container"
+    },
+    {
+      "article_id": "AB50_047_Guide_roro_container_shipping_middle_east_REUSED",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "roro_container"
+    },
+    {
+      "article_id": "AB50_048_Guide_roro_container_shipping_southeast_asia_REUSED",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "roro_container"
+    },
+    {
+      "article_id": "AB50_049_Guide_seven_seat_suv_africa",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "seven_seat_suv"
+    },
+    {
+      "article_id": "AB50_050_Guide_seven_seat_suv_latin_america",
+      "batch": "batch_20260901_001",
+      "version": "v2",
+      "status": "COMPLETED",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "seven_seat_suv"
+    },
+    {
+      "article_id": "AB-260902-V01",
+      "batch": "daily_2026-09-02",
+      "version": "v1",
+      "status": "QA_PASS",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "vehicle_model_v01",
+      "title": "BYD Yuan Plus 2024 Specifications, Variants & Export Guide | AutoBridge",
+      "suggested_url": "/vehicles/byd-yuan-plus-2024/",
+      "creation_date": "2026-09-02"
+    },
+    {
+      "article_id": "AB-260902-V02",
+      "batch": "daily_2026-09-02",
+      "version": "v1",
+      "status": "QA_PASS",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "vehicle_model_v02",
+      "title": "Changan UNI-V 2024 Specs: 1.5T/2.0T Fastback Sedan Export Guide",
+      "suggested_url": "/vehicles/changan-uni-v-2024/",
+      "creation_date": "2026-09-02"
+    },
+    {
+      "article_id": "AB-260902-V03",
+      "batch": "daily_2026-09-02",
+      "version": "v1",
+      "status": "QA_PASS",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "vehicle_model_v03",
+      "title": "BYD Qin Plus DM-i 2024 PHEV Specs & Export Buyer Guide | AutoBridge",
+      "suggested_url": "/vehicles/byd-qin-plus-dmi-2024/",
+      "creation_date": "2026-09-02"
+    },
+    {
+      "article_id": "AB-260902-V04",
+      "batch": "daily_2026-09-02",
+      "version": "v1",
+      "status": "QA_PASS",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "vehicle_model_v04",
+      "title": "GAC Trumpchi M8 2024 MPV Specs, Series & Seating Export Guide",
+      "suggested_url": "/vehicles/gac-trumpchi-m8-2024/",
+      "creation_date": "2026-09-02"
+    },
+    {
+      "article_id": "AB-260902-V05",
+      "batch": "daily_2026-09-02",
+      "version": "v1",
+      "status": "QA_PASS",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "vehicle_model_v05",
+      "title": "Great Wall Poer 2024 Pickup Specs, Cargo Box & 4WD Export Guide",
+      "suggested_url": "/vehicles/great-wall-poer-2024/",
+      "creation_date": "2026-09-02"
+    },
+    {
+      "article_id": "AB-260902-V06",
+      "batch": "daily_2026-09-02",
+      "version": "v1",
+      "status": "QA_PASS",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "vehicle_model_v06",
+      "title": "Forthing Lingzhi M5 2024 Van Specs, Seating & CNG/Petrol Export Guide",
+      "suggested_url": "/vehicles/forthing-lingzhi-m5/",
+      "creation_date": "2026-09-02"
+    },
+    {
+      "article_id": "AB-260902-V07",
+      "batch": "daily_2026-09-02",
+      "version": "v1",
+      "status": "QA_PASS",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "vehicle_model_v07",
+      "title": "JAC Kangling L6 Light Truck Specs (Diesel, GVW, Axles) Export Guide",
+      "suggested_url": "/vehicles/jac-kangling-light-truck/",
+      "creation_date": "2026-09-02"
+    },
+    {
+      "article_id": "AB-260902-V08",
+      "batch": "daily_2026-09-02",
+      "version": "v1",
+      "status": "QA_PASS",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "vehicle_model_v08",
+      "title": "Sinotruk HOWO T7H 6x4 Tractor Specs, Engines & Export Guide",
+      "suggested_url": "/vehicles/sinotruk-howo-t7h-tractor/",
+      "creation_date": "2026-09-02"
+    },
+    {
+      "article_id": "AB-260902-V09",
+      "batch": "daily_2026-09-02",
+      "version": "v1",
+      "status": "QA_PASS",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "vehicle_model_v09",
+      "title": "Shacman X3000 Dump Truck Specs (8x4, GVW, Body) Export Guide",
+      "suggested_url": "/vehicles/shacman-x3000-dump-truck/",
+      "creation_date": "2026-09-02"
+    },
+    {
+      "article_id": "AB-260902-V10",
+      "batch": "daily_2026-09-02",
+      "version": "v1",
+      "status": "QA_PASS",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "vehicle_model_v10",
+      "title": "Foton Aumark Refrigerated Truck Specs & Reefer Build Export Guide",
+      "suggested_url": "/vehicles/foton-aumark-refrigerated-truck/",
+      "creation_date": "2026-09-02"
+    },
+    {
+      "article_id": "AB-260902-G01",
+      "batch": "daily_2026-09-02",
+      "version": "v1",
+      "status": "QA_PASS",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "russia_ev_import_eac",
+      "title": "Import Chinese EV to Russia 2026: EAC, OTTC & Customs Guide",
+      "suggested_url": "/guides/import-chinese-ev-to-russia-eac-ottc/",
+      "creation_date": "2026-09-02"
+    },
+    {
+      "article_id": "AB-260902-G02",
+      "batch": "daily_2026-09-02",
+      "version": "v1",
+      "status": "QA_PASS",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "saudi_truck_saso",
+      "title": "Import Chinese Trucks to Saudi Arabia 2026: SASO & SABER Guide",
+      "suggested_url": "/guides/import-chinese-truck-saudi-saso/",
+      "creation_date": "2026-09-02"
+    },
+    {
+      "article_id": "AB-260902-G03",
+      "batch": "daily_2026-09-02",
+      "version": "v1",
+      "status": "QA_PASS",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "supplier_qualification_audit",
+      "title": "Verify a Chinese Car Export Supplier: Due-Diligence Checklist",
+      "suggested_url": "/guides/verify-china-car-export-supplier/",
+      "creation_date": "2026-09-02"
+    },
+    {
+      "article_id": "AB-260902-G04",
+      "batch": "daily_2026-09-02",
+      "version": "v1",
+      "status": "QA_PASS",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "used_ev_pre_export_inspection",
+      "title": "Used Chinese EV Inspection Checklist: SOH, Accident & Flood",
+      "suggested_url": "/guides/used-chinese-ev-inspection/",
+      "creation_date": "2026-09-02"
+    },
+    {
+      "article_id": "AB-260902-G05",
+      "batch": "daily_2026-09-02",
+      "version": "v1",
+      "status": "QA_PASS",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "charging_standard_compatibility",
+      "title": "GB/T vs CCS2 vs CHAdeMO vs NACS: Chinese EV Export Compatibility",
+      "suggested_url": "/guides/chinese-ev-charging-standard-compatibility/",
+      "creation_date": "2026-09-02"
+    },
+    {
+      "article_id": "AB-260902-G06",
+      "batch": "daily_2026-09-02",
+      "version": "v1",
+      "status": "QA_PASS",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "rhd_vehicle_sourcing",
+      "title": "Which Chinese Cars Come in Right-Hand Drive (RHD)? Sourcing Guide",
+      "suggested_url": "/guides/right-hand-drive-chinese-cars/",
+      "creation_date": "2026-09-02"
+    },
+    {
+      "article_id": "AB-260902-G07",
+      "batch": "daily_2026-09-02",
+      "version": "v1",
+      "status": "QA_PASS",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "marine_cargo_insurance",
+      "title": "Marine Insurance for Imported Chinese Cars: ICC A/B/C & Claims Guide",
+      "suggested_url": "/guides/marine-cargo-insurance-car-import/",
+      "creation_date": "2026-09-02"
+    },
+    {
+      "article_id": "AB-260902-G08",
+      "batch": "daily_2026-09-02",
+      "version": "v1",
+      "status": "QA_PASS",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "infotainment_ota_localization",
+      "title": "Chinese Car Infotainment & OTA Abroad: Localization Checklist",
+      "suggested_url": "/guides/chinese-car-infotainment-ota-localization/",
+      "creation_date": "2026-09-02"
+    },
+    {
+      "article_id": "AB-260902-G09",
+      "batch": "daily_2026-09-02",
+      "version": "v1",
+      "status": "QA_PASS",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "chile_fta_ev_import",
+      "title": "Import Chinese EV to Chile: FTA 0% Duty, IVA and 3CV Guide",
+      "suggested_url": "/guides/import-chinese-ev-chile-fta/",
+      "creation_date": "2026-09-02"
+    },
+    {
+      "article_id": "AB-260902-G10",
+      "batch": "daily_2026-09-02",
+      "version": "v1",
+      "status": "QA_PASS",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "commercial_fleet_bulk_procurement",
+      "title": "Buying a Chinese Truck Fleet in Bulk: Spec & Procurement Guide",
+      "suggested_url": "/guides/commercial-truck-fleet-procurement-china/",
+      "creation_date": "2026-09-02"
+    }
+  ]
+}

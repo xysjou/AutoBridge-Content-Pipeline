@@ -1,1 +1,207 @@
-{"generated_on":"2026-09-02","note":"Historical batch manifests contain no published/front-end URL field, so no URLs can be derived without fabrication. This registry is initialized empty and must be populated by the delivery/writing stage when real slugs are published. URL dedup on 2026-09-02 was instead performed against suggested slugs and article_ids (see research_qa).","published_url_total":0,"urls":[]}
+{
+  "generated_on": "2026-09-02",
+  "note": "Historical baseline was empty (no front-end URLs). Populated by Daily Delivery 2026-09-02 with QA_PASS Master slugs (published=false; they enter MULTILINGUAL_QUEUE before front-end publish).",
+  "published_url_total": 20,
+  "urls": [
+    {
+      "article_id": "AB-260902-V01",
+      "content_type": "VEHICLE_PAGE",
+      "slug": "/vehicles/byd-yuan-plus-2024/",
+      "word_filename": "VEH_20260902_01_BYD_Yuan_Plus_2024.docx",
+      "stage": "MASTER_QA_PASS",
+      "published": false,
+      "queued_for": "MULTILINGUAL_QUEUE",
+      "creation_date": "2026-09-02"
+    },
+    {
+      "article_id": "AB-260902-V02",
+      "content_type": "VEHICLE_PAGE",
+      "slug": "/vehicles/changan-uni-v-2024/",
+      "word_filename": "VEH_20260902_02_Changan_UNI-V_2024.docx",
+      "stage": "MASTER_QA_PASS",
+      "published": false,
+      "queued_for": "MULTILINGUAL_QUEUE",
+      "creation_date": "2026-09-02"
+    },
+    {
+      "article_id": "AB-260902-V03",
+      "content_type": "VEHICLE_PAGE",
+      "slug": "/vehicles/byd-qin-plus-dmi-2024/",
+      "word_filename": "VEH_20260902_03_BYD_Qin_Plus_DMi_2024.docx",
+      "stage": "MASTER_QA_PASS",
+      "published": false,
+      "queued_for": "MULTILINGUAL_QUEUE",
+      "creation_date": "2026-09-02"
+    },
+    {
+      "article_id": "AB-260902-V04",
+      "content_type": "VEHICLE_PAGE",
+      "slug": "/vehicles/gac-trumpchi-m8-2024/",
+      "word_filename": "VEH_20260902_04_GAC_Trumpchi_M8_2024.docx",
+      "stage": "MASTER_QA_PASS",
+      "published": false,
+      "queued_for": "MULTILINGUAL_QUEUE",
+      "creation_date": "2026-09-02"
+    },
+    {
+      "article_id": "AB-260902-V05",
+      "content_type": "VEHICLE_PAGE",
+      "slug": "/vehicles/great-wall-poer-2024/",
+      "word_filename": "VEH_20260902_05_Great_Wall_Poer_2024.docx",
+      "stage": "MASTER_QA_PASS",
+      "published": false,
+      "queued_for": "MULTILINGUAL_QUEUE",
+      "creation_date": "2026-09-02"
+    },
+    {
+      "article_id": "AB-260902-V06",
+      "content_type": "VEHICLE_PAGE",
+      "slug": "/vehicles/forthing-lingzhi-m5/",
+      "word_filename": "VEH_20260902_06_Forthing_Lingzhi_M5.docx",
+      "stage": "MASTER_QA_PASS",
+      "published": false,
+      "queued_for": "MULTILINGUAL_QUEUE",
+      "creation_date": "2026-09-02"
+    },
+    {
+      "article_id": "AB-260902-V07",
+      "content_type": "VEHICLE_PAGE",
+      "slug": "/vehicles/jac-kangling-light-truck/",
+      "word_filename": "VEH_20260902_07_JAC_Kangling_Light_Truck.docx",
+      "stage": "MASTER_QA_PASS",
+      "published": false,
+      "queued_for": "MULTILINGUAL_QUEUE",
+      "creation_date": "2026-09-02"
+    },
+    {
+      "article_id": "AB-260902-V08",
+      "content_type": "VEHICLE_PAGE",
+      "slug": "/vehicles/sinotruk-howo-t7h-tractor/",
+      "word_filename": "VEH_20260902_08_Sinotruk_HOWO_T7H_Tractor.docx",
+      "stage": "MASTER_QA_PASS",
+      "published": false,
+      "queued_for": "MULTILINGUAL_QUEUE",
+      "creation_date": "2026-09-02"
+    },
+    {
+      "article_id": "AB-260902-V09",
+      "content_type": "VEHICLE_PAGE",
+      "slug": "/vehicles/shacman-x3000-dump-truck/",
+      "word_filename": "VEH_20260902_09_Shacman_X3000_Dump_Truck.docx",
+      "stage": "MASTER_QA_PASS",
+      "published": false,
+      "queued_for": "MULTILINGUAL_QUEUE",
+      "creation_date": "2026-09-02"
+    },
+    {
+      "article_id": "AB-260902-V10",
+      "content_type": "VEHICLE_PAGE",
+      "slug": "/vehicles/foton-aumark-refrigerated-truck/",
+      "word_filename": "VEH_20260902_10_Foton_Aumark_Refrigerated_Truck.docx",
+      "stage": "MASTER_QA_PASS",
+      "published": false,
+      "queued_for": "MULTILINGUAL_QUEUE",
+      "creation_date": "2026-09-02"
+    },
+    {
+      "article_id": "AB-260902-G01",
+      "content_type": "PROCUREMENT_GUIDE",
+      "slug": "/guides/import-chinese-ev-to-russia-eac-ottc/",
+      "word_filename": "GUIDE_20260902_01_Russia_EV_Import_EAC_OTTC.docx",
+      "stage": "MASTER_QA_PASS",
+      "published": false,
+      "queued_for": "MULTILINGUAL_QUEUE",
+      "creation_date": "2026-09-02"
+    },
+    {
+      "article_id": "AB-260902-G02",
+      "content_type": "PROCUREMENT_GUIDE",
+      "slug": "/guides/import-chinese-truck-saudi-saso/",
+      "word_filename": "GUIDE_20260902_02_Saudi_Truck_Import_SASO_SABER.docx",
+      "stage": "MASTER_QA_PASS",
+      "published": false,
+      "queued_for": "MULTILINGUAL_QUEUE",
+      "creation_date": "2026-09-02"
+    },
+    {
+      "article_id": "AB-260902-G03",
+      "content_type": "PROCUREMENT_GUIDE",
+      "slug": "/guides/verify-china-car-export-supplier/",
+      "word_filename": "GUIDE_20260902_03_Verify_China_Car_Export_Supplier.docx",
+      "stage": "MASTER_QA_PASS",
+      "published": false,
+      "queued_for": "MULTILINGUAL_QUEUE",
+      "creation_date": "2026-09-02"
+    },
+    {
+      "article_id": "AB-260902-G04",
+      "content_type": "PROCUREMENT_GUIDE",
+      "slug": "/guides/used-chinese-ev-inspection/",
+      "word_filename": "GUIDE_20260902_04_Used_Chinese_EV_Inspection.docx",
+      "stage": "MASTER_QA_PASS",
+      "published": false,
+      "queued_for": "MULTILINGUAL_QUEUE",
+      "creation_date": "2026-09-02"
+    },
+    {
+      "article_id": "AB-260902-G05",
+      "content_type": "PROCUREMENT_GUIDE",
+      "slug": "/guides/chinese-ev-charging-standard-compatibility/",
+      "word_filename": "GUIDE_20260902_05_EV_Charging_Standard_Compatibility.docx",
+      "stage": "MASTER_QA_PASS",
+      "published": false,
+      "queued_for": "MULTILINGUAL_QUEUE",
+      "creation_date": "2026-09-02"
+    },
+    {
+      "article_id": "AB-260902-G06",
+      "content_type": "PROCUREMENT_GUIDE",
+      "slug": "/guides/right-hand-drive-chinese-cars/",
+      "word_filename": "GUIDE_20260902_06_Right_Hand_Drive_Chinese_Cars.docx",
+      "stage": "MASTER_QA_PASS",
+      "published": false,
+      "queued_for": "MULTILINGUAL_QUEUE",
+      "creation_date": "2026-09-02"
+    },
+    {
+      "article_id": "AB-260902-G07",
+      "content_type": "PROCUREMENT_GUIDE",
+      "slug": "/guides/marine-cargo-insurance-car-import/",
+      "word_filename": "GUIDE_20260902_07_Marine_Cargo_Insurance.docx",
+      "stage": "MASTER_QA_PASS",
+      "published": false,
+      "queued_for": "MULTILINGUAL_QUEUE",
+      "creation_date": "2026-09-02"
+    },
+    {
+      "article_id": "AB-260902-G08",
+      "content_type": "PROCUREMENT_GUIDE",
+      "slug": "/guides/chinese-car-infotainment-ota-localization/",
+      "word_filename": "GUIDE_20260902_08_Infotainment_OTA_Localization.docx",
+      "stage": "MASTER_QA_PASS",
+      "published": false,
+      "queued_for": "MULTILINGUAL_QUEUE",
+      "creation_date": "2026-09-02"
+    },
+    {
+      "article_id": "AB-260902-G09",
+      "content_type": "PROCUREMENT_GUIDE",
+      "slug": "/guides/import-chinese-ev-chile-fta/",
+      "word_filename": "GUIDE_20260902_09_Chile_China_FTA_EV_Import.docx",
+      "stage": "MASTER_QA_PASS",
+      "published": false,
+      "queued_for": "MULTILINGUAL_QUEUE",
+      "creation_date": "2026-09-02"
+    },
+    {
+      "article_id": "AB-260902-G10",
+      "content_type": "PROCUREMENT_GUIDE",
+      "slug": "/guides/commercial-truck-fleet-procurement-china/",
+      "word_filename": "GUIDE_20260902_10_Commercial_Truck_Fleet_Procurement.docx",
+      "stage": "MASTER_QA_PASS",
+      "published": false,
+      "queued_for": "MULTILINGUAL_QUEUE",
+      "creation_date": "2026-09-02"
+    }
+  ]
+}

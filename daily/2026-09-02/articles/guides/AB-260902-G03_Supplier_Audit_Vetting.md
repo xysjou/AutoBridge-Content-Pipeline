@@ -1,0 +1,109 @@
+# How to Verify a Chinese Car Export Supplier Before Payment: Due-Diligence Checklist
+
+## SEO Metadata
+- **SEO Title**: Verify a Chinese Car Export Supplier: Due-Diligence Checklist
+- **Meta Description**: A payment-stage due-diligence framework for vetting Chinese vehicle exporters — MIIT announcement/CCC qualification, business-license checks, export authorisation chain, AEO, bank-account matching and video-audit standards.
+- **Suggested URL**: /guides/verify-china-car-export-supplier/
+- **H1**: Vetting a Chinese Vehicle Exporter: What to Verify Before the First Payment
+- **Primary Keyword**: verify Chinese car export supplier due diligence license
+- **Secondary Search Terms**: China vehicle export qualification, MIIT vehicle manufacturer announcement, CCC certificate exporter, gsxt business license check, China car export authorization chain, AEO customs credit
+- **Internal Link Suggestions**: /guides/vehicle-import-payment-tt-vs-lc/ ; /guides/used-chinese-ev-inspection/ ; /guides/commercial-truck-fleet-procurement-china/
+- **Image Suggestions**: due-diligence layered pyramid; gsxt business-license check fields; authorization-chain diagram; bank-account match warning
+- **ALT Suggestions**: "Chinese car exporter due diligence verification layers"; "National Enterprise Credit Information system license fields"; "Supplier to factory authorization chain"
+
+## The Problem This Solves
+
+First-time overseas buyers of Chinese vehicles repeatedly hit the same failure modes: a trading company presenting itself as the factory, a payee bank account whose name does not match the contracted company, an exporter unable to produce brand authorisation, or a staged "factory video" that shows someone else's premises. This guide is a **payment-stage due-diligence framework for the China export side** (applicable to any destination country). It is about the *supplier entity*, not about vehicle condition (see the used-EV inspection guide) or price verification — a deliberately distinct search intent.
+
+## The Legal Baseline: Who Is Allowed to Export
+
+Two official Chinese documents define the qualification backbone (both primary government sources):
+
+- Per the **five-ministry notice on further regulating the export order of automobiles and motorcycles** (MOFCOM et al.), a manufacturer declaring vehicles for export must be listed in the **MIIT "Vehicle Manufacturers and Products Announcement" (车辆生产企业及产品公告)** and hold valid **CCC compulsory certification**.
+- Per **MOFCOM et al. 2024 Announcement No. 6** on used-car export enterprises, a used-car exporter must be a domestically registered independent legal person meeting stated conditions (manufacturers must be in the MIIT announcement; traders must meet the published criteria).
+
+Implication for buyers: ask *which* legal entity is the exporter of record and confirm it sits in the **current-year export-qualification list published by MOFCOM** (the list is updated dynamically — use the year's current version; this guide does not enumerate company names). A company that cannot place itself on that chain is a stop signal.
+
+## Layer 1 — Verify the Business License
+
+Use China's **National Enterprise Credit Information Publicity System (gsxt.gov.cn)** to check, against the supplier's Unified Social Credit Code:
+
+- Registered company name (must match contract, invoice and bank account exactly)
+- Registered capital and paid-in context, establishment date
+- **Business scope** — it should include vehicle sales/export relevant activity
+- Legal representative
+- **Operational-anomaly list / serious-violation (blacklist) records**
+
+A licence shown as a photo is not evidence; the buyer (or a China-based representative) should pull the gsxt record independently.
+
+## Layer 2 — Export Qualification and the Authorisation Chain
+
+Many legitimate sellers are trading companies rather than factories. That is normal — but the chain must be real:
+
+1. Identify the actual **manufacturer** and confirm it is in the MIIT announcement with valid CCC.
+2. If your seller is a trader, request the **authorisation document** linking the qualified exporter/manufacturer to the entity you contract with.
+3. **Reverse-verify**: where possible, confirm the authorisation back to the OEM/qualified entity. OEM tier-1/tier-2 authorisation rules are internal and unpublished, so a paper certificate alone is insufficient — ask to verify it with the issuing party.
+4. An unqualified company may export *through* a listed-qualification company; that is permissible only if the cooperation/authorisation chain is documented and the entity on the export declaration is genuinely qualified.
+
+## Layer 3 — Operational Reality (Factory, Customs History, Credit)
+
+- **Customs credit grade**: an **AEO (Authorised Economic Operator)** status signals high customs credit; ask for evidence and treat its absence as neutral rather than disqualifying. (Use China Customs' public AEO query direction; exact portal entry changes, so navigate via the official customs site.)
+- **Historical export declarations**: request export customs declarations from roughly the last three months (sensitive commercial fields may be redacted) and cross-check product, consignee patterns and dates against the supplier's claims.
+- **Live video audit — minimum standard**: a real-time (not pre-recorded) walk-through showing the production line, vehicle stock, QC stations and the loading dock; ask for a same-day time cue and to see a specific VIN/unit on request.
+- Start with a **sample or small trial order** before volume, and write conformity expectations into that trial contract.
+
+## Layer 4 — Contract, Invoice and Bank-Account Consistency
+
+One of the clearest fraud indicators is a **payee account name that differs from the contracted company name**. Before paying:
+
+- Match the legal name across business licence, contract, proforma invoice, export declaration entity and **bank beneficiary name** — all identical.
+- Treat last-minute "use our sister/Hong Kong/overseas account" changes as a high-risk event requiring fresh verification; never redirect funds on the basis of an email-only change.
+- Prefer payment instruments that match risk (see the T/T vs L/C guide); avoid full prepayment to an unverified entity.
+
+## A Practical Eight-Step Sequence
+
+1. Pull the gsxt business-licence record independently.
+2. Confirm MIIT-announcement + CCC status of the actual manufacturer.
+3. Locate the exporter in the current MOFCOM qualification list.
+4. Obtain and reverse-verify the authorisation chain (factory → qualified exporter → your seller).
+5. Check customs credit (AEO) and recent export declarations.
+6. Run a live video audit to a defined minimum standard.
+7. Match names across contract/invoice/bank account; agree safe payment terms.
+8. Place a trial order, inspect, then scale.
+
+## Red Flags to Stop On
+
+- Payee name differs from contracted company, or a sudden offshore-account switch.
+- Refusal to show the MIIT/CCC basis or a verifiable authorisation chain.
+- Only pre-recorded factory footage, no live walk-through, no recent declarations.
+- Operational-anomaly/blacklist records on gsxt, or business scope that excludes vehicle trade.
+- Pressure for full prepayment and resistance to a small trial order.
+
+## Frequently Asked Questions
+
+**Must my supplier be the factory?** No — a trading company is common, but it must show a genuine chain to a MIIT-listed, CCC-certified manufacturer and a qualified exporter.
+**How do I check a Chinese company's licence?** Independently query gsxt.gov.cn using the Unified Social Credit Code; verify name, scope, legal rep and any anomaly records.
+**Does a CCC certificate prove export rights?** No. CCC is product certification; export qualification additionally rests on the MIIT announcement and the current MOFCOM export-qualification list.
+**The beneficiary account is a different company name — is that normal?** It is one of the clearest risk signals; stop and re-verify before paying.
+**What proves a supplier actually exports?** Recent (≈3-month) export declarations plus a live audit of line, stock, QC and loading dock, cross-checked against claims.
+
+## Sources & Verification
+
+| Source title | Organization | Market | URL | Checked | Supported facts |
+|---|---|---|---|---|---|
+| Notice on further regulating export order of automobiles/motorcycles | MOFCOM et al. (five ministries, official T1) | CN | https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2012/art_bc15755f9b1642b99eac7cc212cce54b.html | 2026-09-02 | MIIT announcement + CCC export-qualification basis |
+| 2024 Announcement No. 6 (used-car export enterprise conditions) | MOFCOM (official T1) | CN | https://dcj.mofcom.gov.cn/article/zcfb/zcwg/202405/20240503510039.shtml | 2026-09-02 | Used-car exporter legal-entity/qualification conditions |
+| How to check China supplier business-license authenticity | Goodcan Trading (industry, points to gsxt.gov.cn) | CN | https://goodcantrading.com/how-to-check-china-supplier-business-license-authenticity/ | 2026-09-02 | gsxt verification fields |
+| How to verify a Chinese factory is legitimate | Plutonia Global Logistics | CN/Global | https://www.plutoniaglobal.com/guides/verify-chinese-factory-legitimate | 2026-09-02 | Account-name consistency, factory audit |
+| 8-step guide to verify China auto export suppliers | huajiame (industry) | CN | https://www.huajiame.com/en-US/knowledge/how-verify-china-auto-export-supplier | 2026-09-02 | Layered audit framework, AEO |
+| Vehicle export procurement notes | 11467 (顺企网, industry) | CN | https://m.11467.com/blog/d18906274.htm | 2026-09-02 | Live video-audit minimum, declaration cross-check |
+| Domestic truck export procedures | Guangzhou Pujiang Trade (11467) | CN | https://guangzhou053049.11467.com/m/news/15260806.asp | 2026-09-02 | Export via qualified entity, authorisation chain |
+
+*Verification note: qualification rules rest on primary MOFCOM/MIIT sources (VERIFIED). The current-year qualification enterprise list and AEO query are dynamic and must be checked live; no company names are listed here. Operational checklist items are industry-sourced and point back to official systems.*
+
+## Editorial Review
+- **Reviewed by**: AutoBridge Export Sourcing Team
+- **Last reviewed**: 2026-09-02
+- **Reference market**: China export side (applies globally)
+- **Verification method**: Primary government documents for legal baseline; industry guides for operational process; dynamic lists left to live verification
+- **Content status**: QA_PASS (Master/EN)
