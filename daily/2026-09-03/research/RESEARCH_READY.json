@@ -1,0 +1,59 @@
+{
+  "date": "2026-09-03",
+  "pipeline_stage": "RESEARCH_ONLY",
+  "status": "READY",
+  "MAIN_VEHICLE": 10,
+  "MAIN_GUIDE": 10,
+  "RESERVE_VEHICLE": 2,
+  "RESERVE_GUIDE": 2,
+  "total_packages": 24,
+  "total_source_records": 97,
+  "pushed": true,
+  "push_status": "PUSHED_TO_MAIN_VIA_GITHUB_MCP",
+  "repo": "xysjou/AutoBridge-Content-Pipeline",
+  "branch": "main",
+  "commit_message": "Daily research 2026-09-03",
+  "manifest_commit": "553809dd72040c5427a76010bd18d931079f7019",
+  "repo_commit_note": "本 RESEARCH_READY.json 所在 commit 即当日 research 最终 HEAD；daily_manifest.json 位于 manifest_commit=553809dd。",
+  "research_root": "daily/2026-09-03/research/",
+  "artifact_counts": {
+    "fact_sheets_main": 20,
+    "source_logs_main": 20,
+    "reserve_fact_sheets": 4,
+    "reserve_source_logs": 4,
+    "reserve_topics": 1,
+    "research_qa": 1,
+    "daily_manifest": 1,
+    "research_notes": 1,
+    "research_ready": 1,
+    "total_files": 53
+  },
+  "dedup_baseline": {
+    "historical_completed": 93,
+    "historical_batches": ["batch_20260831_001", "batch_20260901_001"],
+    "prior_day_excluded": "2026-09-02 (20 MAIN +4 RESERVE)",
+    "duplicate_vehicle": 0,
+    "duplicate_intent": 0,
+    "duplicate_url": 0,
+    "update_existing_instead_of_new": 0
+  },
+  "fact_confidence_policy": ["VERIFIED", "CROSS_CHECKED", "SINGLE_SOURCE", "CONFLICT", "UNVERIFIED", "TIME_SENSITIVE"],
+  "conflict_quarantine": [
+    {
+      "article_id": "AB-260903-G08",
+      "issue": "肯尼亚车龄 7 vs 8 年、尼日利亚 12 vs 15 年来源冲突",
+      "handling": "标 CONFLICT/TIME_SENSITIVE，不进入第二阶段确定性事实库，仅提供对照框架与官方核验路径"
+    }
+  ],
+  "high_risk_packages": ["AB-260903-G08", "AB-260903-GR1", "AB-260903-GR2"],
+  "ready_gate": {
+    "intent_clear": true,
+    "no_historical_duplicate": true,
+    "core_sources_sufficient": true,
+    "no_unresolved_critical_conflict": true,
+    "sources_verifiable": true,
+    "all_main_ready": true
+  },
+  "writing_stage": "NOT_STARTED",
+  "note": "Research first. Facts before prose. No source, no claim. No verification, no publication. 本阶段不写正文、不做多语言、不打包文章ZIP；第二阶段以 main 上存在本文件且 status=READY 为启动前提。"
+}
