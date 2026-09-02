@@ -19,15 +19,6 @@
 - **Checked Date**: 2026-09-02
 - **Authority Level**: 中低
 ## SOURCE 03
-- **Source Name**: StarVia Auto FAQ — 哪些中国车适合右舵买家
-- **Organization**: StarVia Auto
-- **URL**: https://www.starviaauto.com/en/faq/which-chinese-vehicles-are-suitable-for-buyers-who-need-right-hand-drive
-- **Source Type**: 出口服务商网站
-- **Market**: 右舵市场
-- **Facts Supported**: BYD Atto3/Dolphin/Seal RHD
-- **Checked Date**: 2026-09-02
-- **Authority Level**: 中低
-## SOURCE 04
 - **Source Name**: FOBEV — 吉利/极氪 RHD 车型
 - **Organization**: FOBEV（出口服务商）
 - **URL**: https://www.fobev.com/vehicles/rhd-ready/
@@ -36,16 +27,7 @@
 - **Facts Supported**: Geely EX5 原生 LHD/RHD、极氪 9 等 RHD
 - **Checked Date**: 2026-09-02
 - **Authority Level**: 中低
-## SOURCE 05
-- **Source Name**: 什么值得买（转引）— 红旗右舵战略
-- **Organization**: 什么值得买
-- **URL**: https://post.m.smzdm.com/p/aqrp0mkp/
-- **Source Type**: 社区转引
-- **Market**: 香港/右舵市场
-- **Facts Supported**: 红旗 2026-07 香港体验中心、进入多个右舵市场
-- **Checked Date**: 2026-09-02
-- **Authority Level**: 中低
-## SOURCE 06
+## SOURCE 04
 - **Source Name**: 车家号 — 长安启源泰国布局
 - **Organization**: 汽车之家（车家号）
 - **URL**: https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/25092921
