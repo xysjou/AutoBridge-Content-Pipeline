@@ -60,6 +60,8 @@ One of the clearest fraud indicators is a **payee account name that differs from
 - Treat last-minute "use our sister/Hong Kong/overseas account" changes as a high-risk event requiring fresh verification; never redirect funds on the basis of an email-only change.
 - Prefer payment instruments that match risk (see the T/T vs L/C guide); avoid full prepayment to an unverified entity.
 
+## What AutoBridge Adds Beyond a Business-License Screenshot
+A license scan proves a company exists, not that it may export *your* vehicle. AutoBridge cross-checks the counterparty against the **current-year MOFCOM qualified list** (2026 application under 商办贸函〔2025〕408号; pure-EV passenger licensing from 2026-01-01 under joint Announcement No. 54), reconstructs the **brand-authorisation chain to the OEM**, and runs a **contract/invoice/bank-account name match** before deposit — the three checks that distinguish an authorised exporter from a trading shell.
 ## A Practical Eight-Step Sequence
 
 1. Pull the gsxt business-licence record independently.
@@ -89,21 +91,21 @@ One of the clearest fraud indicators is a **payee account name that differs from
 
 ## Sources & Verification
 
-| Source title | Organization | Market | URL | Checked | Supported facts |
-|---|---|---|---|---|---|
-| Notice on further regulating export order of automobiles/motorcycles | MOFCOM et al. (five ministries, official T1) | CN | https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2012/art_bc15755f9b1642b99eac7cc212cce54b.html | 2026-09-02 | MIIT announcement + CCC export-qualification basis |
-| 2024 Announcement No. 6 (used-car export enterprise conditions) | MOFCOM (official T1) | CN | https://dcj.mofcom.gov.cn/article/zcfb/zcwg/202405/20240503510039.shtml | 2026-09-02 | Used-car exporter legal-entity/qualification conditions |
-| How to check China supplier business-license authenticity | Goodcan Trading (industry, points to gsxt.gov.cn) | CN | https://goodcantrading.com/how-to-check-china-supplier-business-license-authenticity/ | 2026-09-02 | gsxt verification fields |
-| How to verify a Chinese factory is legitimate | Plutonia Global Logistics | CN/Global | https://www.plutoniaglobal.com/guides/verify-chinese-factory-legitimate | 2026-09-02 | Account-name consistency, factory audit |
-| 8-step guide to verify China auto export suppliers | huajiame (industry) | CN | https://www.huajiame.com/en-US/knowledge/how-verify-china-auto-export-supplier | 2026-09-02 | Layered audit framework, AEO |
-| Vehicle export procurement notes | 11467 (顺企网, industry) | CN | https://m.11467.com/blog/d18906274.htm | 2026-09-02 | Live video-audit minimum, declaration cross-check |
-| Domestic truck export procedures | Guangzhou Pujiang Trade (11467) | CN | https://guangzhou053049.11467.com/m/news/15260806.asp | 2026-09-02 | Export via qualified entity, authorisation chain |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+|---|---|---|---|---|---|---|
+| Notice on further regulating export order of automobiles/motorcycles | MOFCOM et al. (five ministries, official T1) | CN | https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2012/art_bc15755f9b1642b99eac7cc212cce54b.html | 2026-09-02 | VERIFIED | MIIT announcement + CCC export-qualification basis |
+| 2024 Announcement No. 6 (used-car export enterprise conditions) | MOFCOM (official T1) | CN | https://dcj.mofcom.gov.cn/article/zcfb/zcwg/202405/20240503510039.shtml | 2026-09-02 | VERIFIED | Used-car exporter legal-entity/qualification conditions |
+| How to check China supplier business-license authenticity | Goodcan Trading (industry, points to gsxt.gov.cn) | CN | https://goodcantrading.com/how-to-check-china-supplier-business-license-authenticity/ | 2026-09-02 | CROSS_CHECKED | gsxt verification fields |
+| How to verify a Chinese factory is legitimate | Plutonia Global Logistics | CN/Global | https://www.plutoniaglobal.com/guides/verify-chinese-factory-legitimate | 2026-09-02 | CROSS_CHECKED | Account-name consistency, factory audit |
+| 8-step guide to verify China auto export suppliers | huajiame (industry) | CN | https://www.huajiame.com/en-US/knowledge/how-verify-china-auto-export-supplier | 2026-09-02 | CROSS_CHECKED | Layered audit framework, AEO |
+| Vehicle export procurement notes | 11467 (顺企网, industry) | CN | https://m.11467.com/blog/d18906274.htm | 2026-09-02 | CROSS_CHECKED | Live video-audit minimum, declaration cross-check |
+| Domestic truck export procedures | Guangzhou Pujiang Trade (11467) | CN | https://guangzhou053049.11467.com/m/news/15260806.asp | 2026-09-02 | CROSS_CHECKED | Export via qualified entity, authorisation chain |
 
-*Verification note: qualification rules rest on primary MOFCOM/MIIT sources (VERIFIED). The current-year qualification enterprise list and AEO query are dynamic and must be checked live; no company names are listed here. Operational checklist items are industry-sourced and point back to official systems.*
+*Confidence note (AutoBridge standard): qualification rules rest on primary MOFCOM/MIIT sources (VERIFIED), now including the 2026 application notice (商办贸函〔2025〕408号) and joint Announcement No. 54 on pure-EV passenger export licensing. The current-year qualified list and AEO query are dynamic and must be checked live; operational checklist items are industry-sourced and point back to official systems.*
 
 ## Editorial Review
-- **Reviewed by**: AutoBridge Export Sourcing Team
-- **Last reviewed**: 2026-09-02
+- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/autobridge-export-sourcing-team/) · method per our [Editorial Policy](/about/editorial-policy/)
+- **Last reviewed**: 2026-09-02 · **Second-round revision**: 2026-09-03 (2026 MOFCOM regime cross-referenced; confidence relabelled; increment block added)
 - **Reference market**: China export side (applies globally)
-- **Verification method**: Primary government documents for legal baseline; industry guides for operational process; dynamic lists left to live verification
-- **Content status**: QA_PASS (Master/EN)
+- **Verification method**: Primary government documents for the legal baseline; industry guides for operational process; dynamic lists left to live verification
+- **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off

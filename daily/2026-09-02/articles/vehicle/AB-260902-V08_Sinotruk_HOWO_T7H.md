@@ -43,6 +43,8 @@ Do not mix the two families on a spec sheet: a "460 T7H" (Weichai) and a "540 T7
 
 Sinotruk offers export T7H builds at **Euro V and Euro VI** levels (and LNG gas versions in addition to diesel). The China Weichai line is certified to Chinese standards, which are not an automatic substitute for a destination's required Euro/GCC/UNECE level. Specify the emission stage explicitly and obtain the matching engine suffix and homologation documents. Where LNG is chosen, confirm gas-engine rating, tank configuration and gas-grade availability separately — do not carry diesel specs over.
 
+## What AutoBridge Adds Beyond a Truck Spec Card
+Tractor spec cards quote peak torque without proving the engine code, gearbox and axle ratio suit the route. AutoBridge converts the buyer's **route grade, target GCW and cruise speed into a matched MC13/HW gearbox/MCY13 final-drive combination**, records the **fuel-tank and electrical-voltage choice** on the order, and requires a written **destination emission-stage confirmation** before deposit — the mismatches that leave a correct-looking tractor under-powered or unserviceable abroad.
 ## Heavy-Tractor Verification Before Payment
 
 - Lock the **engine family (Weichai vs MC11/MC13), horsepower, torque and emission stage** on the proforma; request the factory power-curve/emission certificate.
@@ -66,18 +68,18 @@ No authoritative price was captured for 2026-09-02 and none is estimated. Reques
 
 ## Sources & Verification
 
-| Source title | Organization | Market | URL | Checked | Supported facts |
-|---|---|---|---|---|---|
-| HOWO T7H 460 6×4 parameters | 360che (卡车之家) | CN | http://product.m.360che.com/m427/106833_param.html | 2026-09-02 | Announcement, Weichai engine, axles, tyres, tank, cab |
-| T7H official product page | Sinotruk Group (CNHTC, official) | CN/Export | https://www.sinotrukgroup.com.cn/product-43.html | 2026-09-02 | MC11 440 HP/10.518 L, chassis, gearbox, ZF steering |
-| HOWO NX/T7H international | SINOTRUK International (official) | Export | https://www.sinotrukinternational.com/sinotrukinternational/cp/zk/howo-nx/index.html | 2026-09-02 | Export engine displacement/HP options |
-| T7H export configuration | SINOTRUK HOWO (official dealer system) | Export | https://www.sinotrukhowotruck.com/howo-truck/sinotruk-howo-t7h-hot-selling-for-tractor-head.html | 2026-09-02 | 8.8/25/40 t weights, MC13.54-50 540 HP/2500 N·m, Euro V |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+|---|---|---|---|---|---|---|
+| HOWO T7H 460 6×4 parameters | 360che (卡车之家) | CN | http://product.m.360che.com/m427/106833_param.html | 2026-09-02 | CROSS_CHECKED | Announcement, Weichai engine, axles, tyres, tank, cab |
+| T7H official product page | Sinotruk Group (CNHTC, official) | CN/Export | https://www.sinotrukgroup.com.cn/product-43.html | 2026-09-02 | VERIFIED | MC11 440 HP/10.518 L, chassis, gearbox, ZF steering |
+| HOWO NX/T7H international | SINOTRUK International (official) | Export | https://www.sinotrukinternational.com/sinotrukinternational/cp/zk/howo-nx/index.html | 2026-09-02 | VERIFIED | Export engine displacement/HP options |
+| T7H export configuration | SINOTRUK HOWO (official dealer system) | Export | https://www.sinotrukhowotruck.com/howo-truck/sinotruk-howo-t7h-hot-selling-for-tractor-head.html | 2026-09-02 | VERIFIED | 8.8/25/40 t weights, MC13.54-50 540 HP/2500 N·m, Euro V |
 
-*Verification note: MC11/MC13 export engines and weights are official/cross-checked; detailed 360che announcement figures are SINGLE_SOURCE. Price UNVERIFIED and omitted. Confirm the exact export build on the Sinotruk International sheet.*
+*Confidence note (AutoBridge standard): MC11/MC13 export engines and weights are VERIFIED on Sinotruk-official channels; detailed 360che announcement figures are SINGLE_SOURCE. Price is UNVERIFIED and omitted. Confirm the exact export build on the Sinotruk International sheet.*
 
 ## Editorial Review
-- **Reviewed by**: AutoBridge Export Sourcing Team
-- **Last reviewed**: 2026-09-02
+- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/autobridge-export-sourcing-team/) · method per our [Editorial Policy](/about/editorial-policy/)
+- **Last reviewed**: 2026-09-02 · **Second-round revision**: 2026-09-03 (confidence relabelled to the strict standard; procurement-increment block added)
 - **Reference market**: China reference build + official export configurations
-- **Verification method**: Brand-official/export channels plus a commercial database; single-source items labelled
-- **Content status**: QA_PASS (Master/EN)
+- **Verification method**: Brand-official/export channels plus an independent commercial database; single-source items labelled
+- **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off

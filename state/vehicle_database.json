@@ -241,41 +241,46 @@
       "article_id": "AB-260902-V01",
       "model_key": "BYD_YUAN_PLUS_2024",
       "batch": "daily_2026-09-02",
-      "version": "v1",
+      "version": "v2",
       "brand_model": "BYD / Yuan Plus 2024 (荣耀版)",
-      "suggested_url": "/vehicles/byd-yuan-plus-2024/"
+      "suggested_url": "/vehicles/byd-yuan-plus/",
+      "url_evergreenized_on": "2026-09-03"
     },
     {
       "article_id": "AB-260902-V02",
       "model_key": "CHANGAN_UNI_V_2024",
       "batch": "daily_2026-09-02",
-      "version": "v1",
+      "version": "v2",
       "brand_model": "Changan / UNI-V 2024",
-      "suggested_url": "/vehicles/changan-uni-v-2024/"
+      "suggested_url": "/vehicles/changan-uni-v/",
+      "url_evergreenized_on": "2026-09-03"
     },
     {
       "article_id": "AB-260902-V03",
       "model_key": "BYD_QIN_PLUS_DMI_2024",
       "batch": "daily_2026-09-02",
-      "version": "v1",
+      "version": "v2",
       "brand_model": "BYD / Qin Plus DM-i 2024 (荣耀版)",
-      "suggested_url": "/vehicles/byd-qin-plus-dmi-2024/"
+      "suggested_url": "/vehicles/byd-qin-plus-dmi/",
+      "url_evergreenized_on": "2026-09-03"
     },
     {
       "article_id": "AB-260902-V04",
       "model_key": "GAC_TRUMPCHI_M8_2024",
       "batch": "daily_2026-09-02",
-      "version": "v1",
+      "version": "v2",
       "brand_model": "GAC Trumpchi / M8 2024",
-      "suggested_url": "/vehicles/gac-trumpchi-m8-2024/"
+      "suggested_url": "/vehicles/gac-trumpchi-m8/",
+      "url_evergreenized_on": "2026-09-03"
     },
     {
       "article_id": "AB-260902-V05",
       "model_key": "GREAT_WALL_POER_2024",
       "batch": "daily_2026-09-02",
-      "version": "v1",
+      "version": "v2",
       "brand_model": "Great Wall / Poer (Pao) 2024",
-      "suggested_url": "/vehicles/great-wall-poer-2024/"
+      "suggested_url": "/vehicles/great-wall-poer/",
+      "url_evergreenized_on": "2026-09-03"
     },
     {
       "article_id": "AB-260902-V06",

@@ -7,7 +7,7 @@
 - **H1**: Will a Chinese EV Charge Overseas? GB/T, CCS2, CHAdeMO and NACS Compatibility Explained
 - **Primary Keyword**: GB/T CCS2 CHAdeMO charging standard export compatibility
 - **Secondary Search Terms**: Chinese EV export charging adapter, GB/T 20234.3 DC fast charge, GB/T 27930 protocol, CCS2 export version EV, ChaoJi standard
-- **Internal Link Suggestions**: /vehicles/byd-yuan-plus-2024/ ; /guides/right-hand-drive-chinese-cars/ ; /guides/used-chinese-ev-inspection/
+- **Internal Link Suggestions**: /vehicles/byd-yuan-plus/ ; /guides/right-hand-drive-chinese-cars/ ; /guides/used-chinese-ev-inspection/
 - **Image Suggestions**: world connector-standard map; GB/T vs CCS2 inlet comparison; factory export-version inlet; adapter compliance warning
 - **ALT Suggestions**: "World map of DC fast-charging connector standards"; "GB/T and CCS2 charging inlets side by side"; "Chinese EV export-version CCS2 inlet"
 
@@ -41,6 +41,8 @@ Domestic Chinese EVs generally ship with **GB/T** DC charging and the GB/T 27930
 
 The China–Japan **ChaoJi** ultra-fast-charging project is designed so that a common physical interface is compatible across **GB/T, CHAdeMO and CCS** systems, and is regarded as a future DC standardisation direction (per an official CHAdeMO Association document). It is forward-looking context: do **not** assume a current production GB/T vehicle already benefits from ChaoJi — verify model support officially before using it as a selling point.
 
+## What AutoBridge Adds Beyond a Connector Chart
+A standards chart tells you GB/T differs from CCS2; it does not tell you whether *this VIN* will charge. AutoBridge records the **physical inlet, handshake protocol and onboard-charger rating as one VIN-bound record**, distinguishes a **hardware adapter (mechanical only) from a protocol gateway (GB/T 27930 handshake)** in the purchase file, and verifies the **adapter's legality and warranty effect in the destination** before deposit rather than after arrival.
 ## Per-Vehicle Verification Matrix
 
 For every model/trim you export, record in a sheet:
@@ -70,20 +72,20 @@ For every model/trim you export, record in a sheet:
 
 ## Sources & Verification
 
-| Source title | Organization | Market | URL | Checked | Supported facts |
-|---|---|---|---|---|---|
-| ChaoJi standard presentation (official) | CHAdeMO Association (standards body) | CN/JP/Global | https://www.chademo.com/wp2016/wp-content/uploads/ChaoJi202006/ChaoJi_Presenataion_EN.pdf | 2026-09-02 | ChaoJi designed compatible with GB/T/CHAdeMO/CCS |
-| Charging-standard certification paths | Huayu Testing (certification body) | Global | http://www.huayutest.com/zixun/87747.html | 2026-09-02 | CHAdeMO/CCS regional deployment, certification differences |
-| Charging connector standards | cehome (industry media) | CN | https://m.cehome.com/news/20260809/389612.shtml | 2026-09-02 | GB/T 20234.3-2023 1500V/800A, GB/T 27930, ChaoJi |
-| GB/T, CCS2, Type 2, NACS, CHAdeMO compared | evse-chargers.com (industry) | Global | https://www.evse-chargers.com/news/understanding-ev-charging-standards-gb-t-ccs2-type-2-nacs-and-chademo-compared-283319.html | 2026-09-02 | GB/T↔CCS2 requires adapter; compatibility matrix |
-| Guide to global EV charging standards | MARUIKEL (industry) | Global | https://www.maruikel.com/es/blog/guide-to-global-ev-charging-standards-type-1-type-2-ccs-chademo-gbt.html | 2026-09-02 | Domestic GB/T vs export-version destination connector |
-| GB/T-to-CHAdeMO adapter B2B guide | Electric Auto China (industry) | Global | https://www.electricautochina.com/comprehensive-b2b-guide-to-gbt-to-chademo-adapters-for-exported-chines/ | 2026-09-02 | Export compatibility bottleneck |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+|---|---|---|---|---|---|---|
+| ChaoJi standard presentation (official) | CHAdeMO Association (standards body) | CN/JP/Global | https://www.chademo.com/wp2016/wp-content/uploads/ChaoJi202006/ChaoJi_Presenataion_EN.pdf | 2026-09-02 | VERIFIED | ChaoJi designed compatible with GB/T/CHAdeMO/CCS |
+| Charging-standard certification paths | Huayu Testing (certification body) | Global | http://www.huayutest.com/zixun/87747.html | 2026-09-02 | CROSS_CHECKED | CHAdeMO/CCS regional deployment, certification differences |
+| Charging connector standards | cehome (industry media) | CN | https://m.cehome.com/news/20260809/389612.shtml | 2026-09-02 | CROSS_CHECKED | GB/T 20234.3-2023 1500V/800A, GB/T 27930, ChaoJi |
+| GB/T, CCS2, Type 2, NACS, CHAdeMO compared | evse-chargers.com (industry) | Global | https://www.evse-chargers.com/news/understanding-ev-charging-standards-gb-t-ccs2-type-2-nacs-and-chademo-compared-283319.html | 2026-09-02 | CROSS_CHECKED | GB/T↔CCS2 requires adapter; compatibility matrix |
+| Guide to global EV charging standards | MARUIKEL (industry) | Global | https://www.maruikel.com/es/blog/guide-to-global-ev-charging-standards-type-1-type-2-ccs-chademo-gbt.html | 2026-09-02 | CROSS_CHECKED | Domestic GB/T vs export-version destination connector |
+| GB/T-to-CHAdeMO adapter B2B guide | Electric Auto China (industry) | Global | https://www.electricautochina.com/comprehensive-b2b-guide-to-gbt-to-chademo-adapters-for-exported-chines/ | 2026-09-02 | CROSS_CHECKED | Export compatibility bottleneck |
 
-*Verification note: standard-level facts are cross-checked or official (CHAdeMO). Per-model export connectors, adapter legal status by country and 2026 NACS rollout timing were not captured and must be confirmed per VIN and per destination authority.*
+*Confidence note (AutoBridge standard): standard-level facts are VERIFIED/CROSS_CHECKED (CHAdeMO Association is a standards body). Per-model export connectors, adapter legality by country and NACS rollout timing were not captured and must be confirmed per VIN and per destination authority.*
 
 ## Editorial Review
-- **Reviewed by**: AutoBridge Export Sourcing Team
-- **Last reviewed**: 2026-09-02
+- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/autobridge-export-sourcing-team/) · method per our [Editorial Policy](/about/editorial-policy/)
+- **Last reviewed**: 2026-09-02 · **Second-round revision**: 2026-09-03 (confidence relabelled; increment block added)
 - **Reference market**: Global (China export side; EU/JP/NA deployment)
 - **Verification method**: Standards-body document plus cross-checked industry sources; model-specific connectors left to official per-VIN confirmation
-- **Content status**: QA_PASS (Master/EN)
+- **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off

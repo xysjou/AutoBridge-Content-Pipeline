@@ -753,222 +753,242 @@
     {
       "article_id": "AB-260902-V01",
       "batch": "daily_2026-09-02",
-      "version": "v1",
-      "status": "QA_PASS",
+      "version": "v2",
+      "status": "R2_REVISED_PENDING_CODEX",
       "content_type": "VEHICLE_PAGE",
       "topic_cluster": "vehicle_model_v01",
       "title": "BYD Yuan Plus 2024 Specifications, Variants & Export Guide | AutoBridge",
-      "suggested_url": "/vehicles/byd-yuan-plus-2024/",
-      "creation_date": "2026-09-02"
+      "suggested_url": "/vehicles/byd-yuan-plus/",
+      "creation_date": "2026-09-02",
+      "revised_on": "2026-09-03"
     },
     {
       "article_id": "AB-260902-V02",
       "batch": "daily_2026-09-02",
-      "version": "v1",
-      "status": "QA_PASS",
+      "version": "v2",
+      "status": "R2_REVISED_PENDING_CODEX",
       "content_type": "VEHICLE_PAGE",
       "topic_cluster": "vehicle_model_v02",
       "title": "Changan UNI-V 2024 Specs: 1.5T/2.0T Fastback Sedan Export Guide",
-      "suggested_url": "/vehicles/changan-uni-v-2024/",
-      "creation_date": "2026-09-02"
+      "suggested_url": "/vehicles/changan-uni-v/",
+      "creation_date": "2026-09-02",
+      "revised_on": "2026-09-03"
     },
     {
       "article_id": "AB-260902-V03",
       "batch": "daily_2026-09-02",
-      "version": "v1",
-      "status": "QA_PASS",
+      "version": "v2",
+      "status": "R2_REVISED_PENDING_CODEX",
       "content_type": "VEHICLE_PAGE",
       "topic_cluster": "vehicle_model_v03",
       "title": "BYD Qin Plus DM-i 2024 PHEV Specs & Export Buyer Guide | AutoBridge",
-      "suggested_url": "/vehicles/byd-qin-plus-dmi-2024/",
-      "creation_date": "2026-09-02"
+      "suggested_url": "/vehicles/byd-qin-plus-dmi/",
+      "creation_date": "2026-09-02",
+      "revised_on": "2026-09-03"
     },
     {
       "article_id": "AB-260902-V04",
       "batch": "daily_2026-09-02",
-      "version": "v1",
-      "status": "QA_PASS",
+      "version": "v2",
+      "status": "R2_REVISED_PENDING_CODEX",
       "content_type": "VEHICLE_PAGE",
       "topic_cluster": "vehicle_model_v04",
       "title": "GAC Trumpchi M8 2024 MPV Specs, Series & Seating Export Guide",
-      "suggested_url": "/vehicles/gac-trumpchi-m8-2024/",
-      "creation_date": "2026-09-02"
+      "suggested_url": "/vehicles/gac-trumpchi-m8/",
+      "creation_date": "2026-09-02",
+      "revised_on": "2026-09-03"
     },
     {
       "article_id": "AB-260902-V05",
       "batch": "daily_2026-09-02",
-      "version": "v1",
-      "status": "QA_PASS",
+      "version": "v2",
+      "status": "R2_REVISED_PENDING_CODEX",
       "content_type": "VEHICLE_PAGE",
       "topic_cluster": "vehicle_model_v05",
       "title": "Great Wall Poer 2024 Pickup Specs, Cargo Box & 4WD Export Guide",
-      "suggested_url": "/vehicles/great-wall-poer-2024/",
-      "creation_date": "2026-09-02"
+      "suggested_url": "/vehicles/great-wall-poer/",
+      "creation_date": "2026-09-02",
+      "revised_on": "2026-09-03"
     },
     {
       "article_id": "AB-260902-V06",
       "batch": "daily_2026-09-02",
-      "version": "v1",
-      "status": "QA_PASS",
+      "version": "v2",
+      "status": "R2_REVISED_PENDING_CODEX",
       "content_type": "VEHICLE_PAGE",
       "topic_cluster": "vehicle_model_v06",
       "title": "Forthing Lingzhi M5 2024 Van Specs, Seating & CNG/Petrol Export Guide",
       "suggested_url": "/vehicles/forthing-lingzhi-m5/",
-      "creation_date": "2026-09-02"
+      "creation_date": "2026-09-02",
+      "revised_on": "2026-09-03"
     },
     {
       "article_id": "AB-260902-V07",
       "batch": "daily_2026-09-02",
-      "version": "v1",
-      "status": "QA_PASS",
+      "version": "v2",
+      "status": "R2_REVISED_PENDING_CODEX",
       "content_type": "VEHICLE_PAGE",
       "topic_cluster": "vehicle_model_v07",
       "title": "JAC Kangling L6 Light Truck Specs (Diesel, GVW, Axles) Export Guide",
       "suggested_url": "/vehicles/jac-kangling-light-truck/",
-      "creation_date": "2026-09-02"
+      "creation_date": "2026-09-02",
+      "revised_on": "2026-09-03"
     },
     {
       "article_id": "AB-260902-V08",
       "batch": "daily_2026-09-02",
-      "version": "v1",
-      "status": "QA_PASS",
+      "version": "v2",
+      "status": "R2_REVISED_PENDING_CODEX",
       "content_type": "VEHICLE_PAGE",
       "topic_cluster": "vehicle_model_v08",
       "title": "Sinotruk HOWO T7H 6x4 Tractor Specs, Engines & Export Guide",
       "suggested_url": "/vehicles/sinotruk-howo-t7h-tractor/",
-      "creation_date": "2026-09-02"
+      "creation_date": "2026-09-02",
+      "revised_on": "2026-09-03"
     },
     {
       "article_id": "AB-260902-V09",
       "batch": "daily_2026-09-02",
-      "version": "v1",
-      "status": "QA_PASS",
+      "version": "v2",
+      "status": "R2_REVISED_PENDING_CODEX",
       "content_type": "VEHICLE_PAGE",
       "topic_cluster": "vehicle_model_v09",
       "title": "Shacman X3000 Dump Truck Specs (8x4, GVW, Body) Export Guide",
       "suggested_url": "/vehicles/shacman-x3000-dump-truck/",
-      "creation_date": "2026-09-02"
+      "creation_date": "2026-09-02",
+      "revised_on": "2026-09-03"
     },
     {
       "article_id": "AB-260902-V10",
       "batch": "daily_2026-09-02",
-      "version": "v1",
-      "status": "QA_PASS",
+      "version": "v2",
+      "status": "R2_REVISED_PENDING_CODEX",
       "content_type": "VEHICLE_PAGE",
       "topic_cluster": "vehicle_model_v10",
       "title": "Foton Aumark Refrigerated Truck Specs & Reefer Build Export Guide",
       "suggested_url": "/vehicles/foton-aumark-refrigerated-truck/",
-      "creation_date": "2026-09-02"
+      "creation_date": "2026-09-02",
+      "revised_on": "2026-09-03"
     },
     {
       "article_id": "AB-260902-G01",
       "batch": "daily_2026-09-02",
-      "version": "v1",
-      "status": "QA_PASS",
+      "version": "v2",
+      "status": "R2_REVISED_PENDING_CODEX",
       "content_type": "PROCUREMENT_GUIDE",
       "topic_cluster": "russia_ev_import_eac",
       "title": "Import Chinese EV to Russia 2026: EAC, OTTC & Customs Guide",
       "suggested_url": "/guides/import-chinese-ev-to-russia-eac-ottc/",
-      "creation_date": "2026-09-02"
+      "creation_date": "2026-09-02",
+      "revised_on": "2026-09-03"
     },
     {
       "article_id": "AB-260902-G02",
       "batch": "daily_2026-09-02",
-      "version": "v1",
-      "status": "QA_PASS",
+      "version": "v2",
+      "status": "R2_REVISED_PENDING_CODEX",
       "content_type": "PROCUREMENT_GUIDE",
       "topic_cluster": "saudi_truck_saso",
       "title": "Import Chinese Trucks to Saudi Arabia 2026: SASO & SABER Guide",
       "suggested_url": "/guides/import-chinese-truck-saudi-saso/",
-      "creation_date": "2026-09-02"
+      "creation_date": "2026-09-02",
+      "revised_on": "2026-09-03"
     },
     {
       "article_id": "AB-260902-G03",
       "batch": "daily_2026-09-02",
-      "version": "v1",
-      "status": "QA_PASS",
+      "version": "v2",
+      "status": "R2_REVISED_PENDING_CODEX",
       "content_type": "PROCUREMENT_GUIDE",
       "topic_cluster": "supplier_qualification_audit",
       "title": "Verify a Chinese Car Export Supplier: Due-Diligence Checklist",
       "suggested_url": "/guides/verify-china-car-export-supplier/",
-      "creation_date": "2026-09-02"
+      "creation_date": "2026-09-02",
+      "revised_on": "2026-09-03"
     },
     {
       "article_id": "AB-260902-G04",
       "batch": "daily_2026-09-02",
-      "version": "v1",
-      "status": "QA_PASS",
+      "version": "v2",
+      "status": "R2_REVISED_PENDING_CODEX",
       "content_type": "PROCUREMENT_GUIDE",
       "topic_cluster": "used_ev_pre_export_inspection",
       "title": "Used Chinese EV Inspection Checklist: SOH, Accident & Flood",
       "suggested_url": "/guides/used-chinese-ev-inspection/",
-      "creation_date": "2026-09-02"
+      "creation_date": "2026-09-02",
+      "revised_on": "2026-09-03"
     },
     {
       "article_id": "AB-260902-G05",
       "batch": "daily_2026-09-02",
-      "version": "v1",
-      "status": "QA_PASS",
+      "version": "v2",
+      "status": "R2_REVISED_PENDING_CODEX",
       "content_type": "PROCUREMENT_GUIDE",
       "topic_cluster": "charging_standard_compatibility",
       "title": "GB/T vs CCS2 vs CHAdeMO vs NACS: Chinese EV Export Compatibility",
       "suggested_url": "/guides/chinese-ev-charging-standard-compatibility/",
-      "creation_date": "2026-09-02"
+      "creation_date": "2026-09-02",
+      "revised_on": "2026-09-03"
     },
     {
       "article_id": "AB-260902-G06",
       "batch": "daily_2026-09-02",
-      "version": "v1",
-      "status": "QA_PASS",
+      "version": "v2",
+      "status": "R2_REVISED_PENDING_CODEX",
       "content_type": "PROCUREMENT_GUIDE",
       "topic_cluster": "rhd_vehicle_sourcing",
       "title": "Which Chinese Cars Come in Right-Hand Drive (RHD)? Sourcing Guide",
       "suggested_url": "/guides/right-hand-drive-chinese-cars/",
-      "creation_date": "2026-09-02"
+      "creation_date": "2026-09-02",
+      "revised_on": "2026-09-03"
     },
     {
       "article_id": "AB-260902-G07",
       "batch": "daily_2026-09-02",
-      "version": "v1",
-      "status": "QA_PASS",
+      "version": "v2",
+      "status": "R2_REVISED_PENDING_CODEX",
       "content_type": "PROCUREMENT_GUIDE",
       "topic_cluster": "marine_cargo_insurance",
       "title": "Marine Insurance for Imported Chinese Cars: ICC A/B/C & Claims Guide",
       "suggested_url": "/guides/marine-cargo-insurance-car-import/",
-      "creation_date": "2026-09-02"
+      "creation_date": "2026-09-02",
+      "revised_on": "2026-09-03"
     },
     {
       "article_id": "AB-260902-G08",
       "batch": "daily_2026-09-02",
-      "version": "v1",
-      "status": "QA_PASS",
+      "version": "v2",
+      "status": "R2_REVISED_PENDING_CODEX",
       "content_type": "PROCUREMENT_GUIDE",
       "topic_cluster": "infotainment_ota_localization",
       "title": "Chinese Car Infotainment & OTA Abroad: Localization Checklist",
       "suggested_url": "/guides/chinese-car-infotainment-ota-localization/",
-      "creation_date": "2026-09-02"
+      "creation_date": "2026-09-02",
+      "revised_on": "2026-09-03"
     },
     {
       "article_id": "AB-260902-G09",
       "batch": "daily_2026-09-02",
-      "version": "v1",
-      "status": "QA_PASS",
+      "version": "v2",
+      "status": "R2_REVISED_PENDING_CODEX",
       "content_type": "PROCUREMENT_GUIDE",
       "topic_cluster": "chile_fta_ev_import",
       "title": "Import Chinese EV to Chile: FTA 0% Duty, IVA and 3CV Guide",
       "suggested_url": "/guides/import-chinese-ev-chile-fta/",
-      "creation_date": "2026-09-02"
+      "creation_date": "2026-09-02",
+      "revised_on": "2026-09-03"
     },
     {
       "article_id": "AB-260902-G10",
       "batch": "daily_2026-09-02",
-      "version": "v1",
-      "status": "QA_PASS",
+      "version": "v2",
+      "status": "R2_REVISED_PENDING_CODEX",
       "content_type": "PROCUREMENT_GUIDE",
       "topic_cluster": "commercial_fleet_bulk_procurement",
       "title": "Buying a Chinese Truck Fleet in Bulk: Spec & Procurement Guide",
       "suggested_url": "/guides/commercial-truck-fleet-procurement-china/",
-      "creation_date": "2026-09-02"
+      "creation_date": "2026-09-02",
+      "revised_on": "2026-09-03"
     }
   ]
 }

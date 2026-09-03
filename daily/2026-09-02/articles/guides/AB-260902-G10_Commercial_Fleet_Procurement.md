@@ -1,116 +1,75 @@
-# Bulk Commercial-Truck Fleet Procurement From China: Spec Customisation, Acceptance and Risk Control
-
+# Bulk Commercial-Truck Fleet Procurement From China: Duty-Cycle Engineering, 2026 Export-Licence Rules and Acceptance
 ## SEO Metadata
-- **SEO Title**: Buying a Chinese Truck Fleet in Bulk: Spec & Procurement Guide
-- **Meta Description**: How to specify and bulk-procure Chinese heavy/dump/specialised trucks — duty-cycle engineering, axles/frame/body, export qualification, tender-grade acceptance criteria, documents and destination compliance.
+- **SEO Title**: Buying a Chinese Truck Fleet in Bulk: Spec, Licence & Acceptance
+- **Meta Description**: Engineer and bulk-procure Chinese heavy/dump/specialised trucks — duty-cycle spec, axles/frame/body, the official 2026 China vehicle export-licence regime, tender-grade acceptance and the document chain.
 - **Suggested URL**: /guides/commercial-truck-fleet-procurement-china/
-- **H1**: Procuring a Commercial-Truck Fleet From China: From Duty Cycle to Acceptance
-- **Primary Keyword**: bulk commercial truck fleet procurement from China specification
-- **Secondary Search Terms**: China dump truck 6x4 8x4 export, heavy truck Euro emission specification, reinforced truck axle frame, fleet tender acceptance criteria, commercial vehicle export documents
+- **H1**: Procuring a Commercial-Truck Fleet From China: Duty Cycle, Exporter Licence and Acceptance
+- **Primary Keyword**: bulk commercial truck fleet procurement China specification export licence
+- **Secondary Search Terms**: China dump truck 6x4 8x4 export, 2026 vehicle export licence MOFCOM, pure-EV passenger export licence HS 8703801090, reinforced axle frame, fleet tender acceptance, commercial vehicle export documents
 - **Internal Link Suggestions**: /vehicles/shacman-x3000-dump-truck/ ; /vehicles/sinotruk-howo-t7h-tractor/ ; /vehicles/foton-aumark-refrigerated-truck/ ; /guides/verify-china-car-export-supplier/
-- **Image Suggestions**: duty-cycle-to-spec worksheet; reinforced frame/axle diagram; tender acceptance inspection; export document chain
-- **ALT Suggestions**: "Truck fleet duty cycle specification worksheet"; "Double-layer truck frame and reinforced drive axle"; "Fleet tender acceptance inspection at factory"
-
-## A Truck Fleet Is Engineered to Order, Not Picked Off a Shelf
-
-Unlike passenger cars, commercial vehicles are **not standard products**. A 6×4 mining dump truck, an 8×4 construction tipper, a long-haul tractor and a refrigerated or tanker special-purpose vehicle demand different powertrain, frame, axles, body and emission choices — and bulk orders must be matched to export qualification, documentation and tender-style acceptance. This guide gives fleet buyers, engineering contractors and CV importers a repeatable path from defining the duty cycle to accepting delivery. It does not quote discounts, MOQs or lead times: those are negotiated per project and no authoritative public figures exist.
-
-## Stage 1 — Define the Duty Cycle Before Talking Price
-
-Specify, in writing, the operating reality the trucks will face (per FAW/commercial-vehicle procurement guidance):
-
-- **Application and configuration**: e.g., 6×4 mining/quarry haul vs 8×4 on-highway dump vs 4×2 tractor; urban distribution vs long-haul.
-- **Payload and GVW target**, terrain (gradient, unpaved/bad roads), annual mileage and climate.
-- **Fuel type**: diesel vs **LNG/CNG** — chosen against local fuel/CNG availability and emission rules, not domestic Chinese habits.
-- **Emission standard the destination accepts** (e.g., Euro II vs Euro V class) — over-specifying raises cost; under-specifying blocks import.
-- **Tyre specification**, and special fitments: steering side (RHD/LHD), refrigeration unit, hydraulic system (tipper/tanker), PTO, etc.
-
-## Stage 2 — Engineer the Specification to the Work
-
-Chinese CV builders offer duty-rated upgrades that matter for harsh operation (manufacturer guidance):
-
-- **Frame**: a **double-layer (reinforced) chassis frame** for overload-prone and rough-road work.
-- **Axles**: reinforced drive axles (e.g., a heavy-duty 457-class rear axle cited by a builder) for high traction/load; final-drive ratio matched to grade and load.
-- **Suspension, brakes and tyres** sized to GVW and terrain; consider cooling and intake for hot/dusty environments.
-- **Cargo body / superstructure**: for specialised units (dump, tanker, reefer, sweeper), the body is a separate engineering decision from the chassis — specify material, thickness and lift/pump system.
-
-## Stage 3 — Write Tender-Grade Acceptance Criteria
-
-The clearest way to avoid "looks the same, built weaker" disputes is to put hard, measurable parameters in the contract. A **real Chinese tender** for dump trucks (Hunan Road & Bridge, Dushanbe-Tajikistan project, 15 units) set binding technical indicators such as:
-
-- Cargo-body **volume ≥ 15 m³**
-- **T700 high-strength wear-resistant steel**
-- Floor plate **≥ 10 mm**, side plate **≥ 8 mm**
-- Specified gearbox gear count and **hoist/lift type**
-
-Use the same discipline: name brand/model of engine, gearbox and axles, steel grade and plate thicknesses, body volume, tyre brand/spec, paint and welding standards, and the inspection method (factory witness, third-party SGS-type inspection, or acceptance on arrival).
-
-## Stage 4 — Vet the Supplier and Its Export Qualification
-
-Apply supplier due diligence (see the supplier-vetting guide) with CV-specific checks:
-
-- **Authorisation tier**: prefer a **tier-1 (first-level) authorised dealer** or the factory; verify years in business, certifications, reference cases and production capacity.
-- **Export qualification**: the exporter needs import/export operating rights, MOFCOM filing and a place on the **current vehicle-export qualification list** (published/updated annually — use the current year's).
-- **New trucks** require **OEM authorisation**; **used trucks** must (per industry guidance) be more than **one year from mandatory scrap age** and pass **third-party inspection** before export.
-- For the major OEM groups (FAW, Sinotruk, Shacman, Foton, Dongfeng), assess the **overseas authorised service/spare-parts network** in your country — a cheap truck without local parts support is a fleet liability. This guide gives the evaluation frame; network coverage must be verified per OEM.
-
-## Stage 5 — Assemble the Export Document Chain
-
-Base documentation for CV export (industry guidance):
-
-- **Customs export declaration**
-- **Commercial invoice** stating Incoterm (FOB/CIF) and insured value
-- **Packing list** carrying **VIN, engine number and container/unit numbers**
-- **Foreign-trade contract** with the agreed Incoterm, technical annex, acceptance standard and after-sales terms
-- Certificate of origin, OEM authorisation and (where required) third-party inspection/used-vehicle certificates
-
-## Stage 6 — Destination Compliance Before Production
-
-Research the destination **before** tooling the order (logistics guidance): banned/restricted models, **RHD/LHD**, vehicle-age rules, treatment of accident/modified units, and the accepted **emission standard** (Euro-class or local). A fleet built to Chinese domestic regulation is not automatically importable — this is country-specific and must be checked per market (see the Saudi and Russia guides for examples).
-
-## Process Flow for a Specialised/Fleet Order
-
-A manufacturer's documented 12-step flow condenses to: **needs confirmation (use/chassis/tank/pump) → technical proposal → commercial negotiation (Incoterms, payment, lead time) → contract embedding technical parameters, acceptance standard and after-sales → production supervision → inspection → export documentation → shipment**. Payment structuring (T/T vs L/C) is covered in the dedicated payment guide and is not repeated here.
-
-## Negotiation Dimensions (No Invented Numbers)
-
-Where bargaining happens — and what to pin contractually: unit price vs specification level, spare-parts package and common-wear-part kit, technician training/warranty terms, delivery schedule tied to milestones, inspection rights, and phased payment against production/inspection evidence. Obtain real figures from the supplier per project; never assume a "bulk discount" percentage.
-
+- **Image Suggestions**: duty-cycle-to-spec worksheet; reinforced frame/axle; tender acceptance inspection; export document chain
+- **ALT Suggestions**: "Truck fleet duty-cycle specification worksheet"; "double-layer frame and reinforced drive axle"; "fleet tender acceptance at factory"
+## A Fleet Is Engineered to Order, Not Picked Off a Shelf
+A 6×4 mining tipper, an 8×4 on-highway dump, a long-haul tractor and a reefer or tanker demand different powertrain, frame, axles and body choices, and bulk orders must additionally satisfy China's **current (2026) export-licence regime**, a tight document chain and tender-style acceptance. This guide gives fleet buyers, contractors and CV importers a repeatable path. It quotes no discounts, MOQs or lead times — those are negotiated per project and no authoritative public figures exist.
+## Step 1 — Define the Duty Cycle Before Price
+Specify, in writing, the operating reality (per commercial-vehicle procurement guidance):
+- **Application/configuration**: 6×4 quarry haul vs 8×4 highway dump vs 4×2 tractor; urban distribution vs long-haul.
+- **Payload/GVW target**, terrain (gradient, unpaved roads), annual mileage, climate.
+- **Fuel**: diesel vs LNG/CNG, chosen against local fuel availability and emission rules, not Chinese domestic habits.
+- **Destination-accepted emission stage** (e.g., Euro II vs Euro V class) — over-specifying raises cost; under-specifying blocks import.
+- **Tyres**, plus RHD/LHD, refrigeration/hydraulics, PTO and other fitments.
+## Step 2 — Engineer the Specification to the Work
+- **Frame**: double-layer (reinforced) chassis for overload-prone/rough work.
+- **Axles**: reinforced drive axles for traction/load; final-drive ratio matched to grade and GVW.
+- **Suspension, brakes, tyres** sized to GVW/terrain; cooling/intake for hot/dusty environments.
+- **Superstructure**: for dump/tanker/reefer/sweeper, the body is a separate engineering decision from the chassis — specify material, thickness and lift/pump system (see the Foton reefer page for chassis/box/unit separation).
+## Step 3 — Write Tender-Grade Acceptance Criteria
+Avoid "looks the same, built weaker" disputes with hard, measurable contract parameters. A **real Chinese tender** for dump trucks (Hunan Road & Bridge, Dushanbe-Tajikistan project, 15 units; VERIFIED tender document) bound the supplier to: cargo body **≥15 m³**, **T700 high-strength wear-resistant steel**, floor **≥10 mm**, side **≥8 mm**, specified gear count and hoist type. Apply the same discipline: name engine/gearbox/axle brands and models, steel grade and plate thicknesses, body volume, tyre brand, paint/weld standards, and the inspection method (factory witness, third-party inspection, or arrival acceptance).
+## Step 4 — Vet the Exporter Against the **2026** Licence Regime (official)
+China's vehicle export rules are now anchored in current primary documents (VERIFIED):
+- **MOFCOM General Office Notice on the 2026 automobile/motorcycle export-licence application (商办贸函〔2025〕408号, 28 Sep 2025)** moves applications online (ecomp.licence.org.cn), with local-commerce preliminary review and a published qualified-enterprise list.
+- **Joint Announcement No. 54 (2025, MOFCOM/MIIT/GAC/SAMR)** places **pure-electric passenger vehicles (reference HS 8703801090) under an export-licence regime from 1 January 2026**.
+- The **2026 qualified-enterprise list** was published 30 Dec 2025; a separate **four-ministry notice (Nov 2025) tightens used-car export management**, requiring export-licence fields (brand, model, registration and transfer-for-export dates) to match the vehicle registration certificate.
+CV-specific diligence:
+- Prefer a **tier-1 authorised dealer or the factory**; verify years in business, certifications, references and capacity (method in the supplier-vetting guide).
+- Confirm the exporter is on the **current-year** qualified list and holds the correct export licence for the category (new-energy passenger licensing is new for 2026).
+- **New** trucks need OEM authorisation; **used** trucks must meet the current used-car export conditions (including the registration-certificate consistency rules) and third-party inspection.
+- For FAW/Sinotruk/Shacman/Foton/Dongfeng, verify the **overseas authorised service/spare-parts network** in the destination — a cheap truck without local parts is a fleet liability.
+## Step 5 — Assemble the Export Document Chain
+Customs export declaration; commercial invoice stating Incoterm and insured value; packing list carrying **VIN, engine number and unit/container numbers**; foreign-trade contract with technical annex, acceptance standard and after-sales terms; certificate of origin; OEM authorisation; the export licence where the category requires it; and third-party/used-vehicle certificates where applicable.
+## Step 6 — Destination Compliance Before Production
+Research the destination **before** tooling: banned/restricted models, RHD/LHD, vehicle-age rules, accident/modified-unit treatment and the accepted emission stage — country-specific (see the Saudi, Russia and Chile guides). A China-domestic-spec fleet is not automatically importable.
+## What AutoBridge Adds Beyond a Sourcing-Agent Template
+Agents quote a truck; AutoBridge converts the buyer's **duty cycle into a measurable technical annex**, checks the exporter against the **2026 qualified list and the new pure-EV passenger licensing rule by category**, and writes **tender-grade, inspectable acceptance criteria** (steel grade, plate thickness, named axles/gearbox) so a fleet cannot be delivered in a weaker build that still "matches the model name."
+## Negotiation Dimensions (no invented numbers)
+Pin contractually: unit price vs specification level, spare-parts/common-wear kit, technician training/warranty, milestone-tied delivery schedule, inspection rights and phased payment against production/inspection evidence. Obtain real figures per project; never assume a bulk-discount percentage.
 ## Pre-Contract Checklist
-
-- Duty cycle, GVW/payload, fuel and destination emission standard fixed in writing.
-- Frame/axle/suspension/body materials and thicknesses specified to tender grade.
-- Exporter qualification, OEM authorisation (or used-truck age+inspection) verified.
-- Local OEM service/spare-parts coverage confirmed for the destination.
-- Document chain (VIN/engine number, Incoterm, insured value) templated.
+- Duty cycle, GVW/payload, fuel and destination emission stage fixed in writing.
+- Frame/axle/suspension/body materials and thicknesses to tender grade.
+- Exporter verified on the **2026** qualified list with the correct category export licence + OEM authorisation (or used-car conditions).
+- Local OEM service/spare-parts coverage confirmed.
+- Document chain (VIN/engine number, Incoterm, insured value, licence) templated.
 - Destination RHD/age/emission/import restrictions cleared.
-- Acceptance/inspection method and after-sales terms embedded in the contract.
-
+- Acceptance/inspection method and after-sales embedded in the contract.
 ## Frequently Asked Questions
-
-**Why not just order the standard domestic configuration?** Domestic specs target Chinese fuel, roads and emission rules; fleets need duty-rated frame/axles/body and the destination's emission standard engineered in.
-**How do I stop a supplier substituting weaker steel or axles?** Write measurable acceptance criteria (steel grade, plate thickness, named axle/gearbox models, body volume) into the contract and inspect against them, as real tenders do.
-**What qualification must the exporter hold?** Import/export rights, MOFCOM filing and a place on the current export-qualification list, plus OEM authorisation for new units; used trucks need age and third-party inspection conditions met.
-**Which matters more, price or local parts support?** For a working fleet, local service/spare-parts coverage often determines total cost of ownership — verify the OEM network before choosing on price.
-**Are standard bulk discounts available?** Discounts, MOQs and lead times are per-project commercial terms with no authoritative public figures; negotiate them against a tightly specified technical annex.
-
+**What changed in China's export rules for 2026?** The 2026 application round runs under 商办贸函〔2025〕408号, and from 1 Jan 2026 pure-electric passenger vehicles (HS 8703801090) require an export licence under joint Announcement No. 54; use the current-year qualified list.
+**How do I stop weaker steel/axles being substituted?** Write measurable criteria (steel grade, plate thickness, named axle/gearbox models, body volume) into the contract and inspect against them, as real tenders do.
+**New vs used export condition?** New units need OEM authorisation and category licensing; used units must meet the Nov-2025 four-ministry rules (registration-certificate consistency) plus third-party inspection.
+**Price or local parts support?** For a working fleet, local service/spare-parts coverage often sets total cost of ownership — verify the OEM network before choosing on price.
+**Are bulk discounts/MOQs published?** No — they are per-project commercial terms; negotiate against a tightly specified technical annex.
 ## Sources & Verification
-
-| Source title | Organization | Market | URL | Checked | Supported facts |
-|---|---|---|---|---|---|
-| Step-by-step sourcing of commercial vehicles from China | Qingdao Chary Machinery (manufacturer) | CN→Global | https://www.charymachinery.com/the-step-by-step-guide-for-international-buyers-sourcing-commercial-vehicles-from-china.html | 2026-09-02 | Diesel/LNG/CNG, double-layer frame, 457 axle customisation |
-| Efficient FAW truck procurement risk-mitigation guide | HTNXT | CN→Global | https://www.htnxt.com/supplier/CHARY/page/Efficient-FAW-Truck-Procurement:-A-Step-by-Step-Risk-Mitigation-Guide-for-International-Buyers.html | 2026-09-02 | Duty-cycle definition, supplier screening criteria |
-| Domestic truck export procedures/qualification | Guangzhou Pujiang Trade (11467) | CN | https://guangzhou053049.11467.com/m/news/15260806.asp | 2026-09-02 | Export qualification, OEM authorisation, used-truck rules |
-| Truck export full-process document list | Guangzhou Pujiang Trade (11467) | CN | https://guangzhou053049.11467.com/m/news/12122512.asp | 2026-09-02 | Declaration/invoice/packing list/contract document chain |
-| Specialised-vehicle export 12-step flow | Chengli Special Auto (manufacturer) | CN→Africa/Global | https://www.chenglix.com/water-supply-fire-news/3547068.html | 2026-09-02 | Needs→proposal→negotiation→contract flow |
-| 15-unit dump-truck procurement tender (real tender) | Hunan Road & Bridge Group | CN→Central Asia | http://www.hnrb.cn/2025/zhaobiaogonggao_0925/9717.html | 2026-09-02 | Hard acceptance specs: ≥15 m³, T700 steel, floor ≥10 mm, side ≥8 mm, lift type |
-| Vehicle & machinery export process | QDNE Shipping (logistics) | CN→Global | https://www.qdneshipping.com/en/vehiclemachineryexportprocess.html | 2026-09-02 | Destination banned/limited models, RHD/age/emission checks |
-
-*Verification note: the tender acceptance indicators come from a real tender document (VERIFIED). Process, qualification and customisation points are manufacturer/industry guidance (T3); current-year qualification lists, OEM overseas networks and all commercial terms (discount/MOQ/lead time) must be obtained live and are not estimated here.*
-
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+|---|---|---|---|---|---|---|
+| 2026 automobile/motorcycle export-licence application notice (商办贸函〔2025〕408号) | MOFCOM (**government official**) | CN | https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_7c50d6688ca34d1786a1bfd2ccde7d19.html | 2026-09-03 | **VERIFIED** | Online application system, local review, qualified-list process |
+| Pure-EV passenger export licensing from 2026-01-01 (Announcement No. 54; HS 8703801090) | MOFCOM/MIIT/GAC/SAMR (**government official**) | CN | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-03 | **VERIFIED** | 2026 NEV-passenger export-licence regime |
+| 2026 qualified export-licence enterprise list | MOFCOM Foreign Trade Dept (**government official**) | CN | http://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_6685d244c4f4429e9a749a1a9f34bf19.html | 2026-09-03 | **VERIFIED** | Current-year qualified enterprises |
+| Further strengthening used-car export management (Nov 2025) | MOFCOM/MIIT/MPS/GAC via gov.cn (**government official**) | CN | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | **VERIFIED** | Used-car export-licence field/registration-certificate consistency |
+| 15-unit dump-truck tender (binding technical indicators) | Hunan Road & Bridge Group (real tender) | CN→Central Asia | http://www.hnrb.cn/2025/zhaobiaogonggao_0925/9717.html | 2026-09-02 | **VERIFIED** | ≥15 m³, T700 steel, floor ≥10 mm, side ≥8 mm, lift type |
+| Duty-cycle/customisation guidance (double-layer frame, duty-rated axles) | CV manufacturers (Chary/FAW guidance; Chengli 12-step flow) | CN→Global | https://www.charymachinery.com/the-step-by-step-guide-for-international-buyers-sourcing-commercial-vehicles-from-china.html | 2026-09-02 | CROSS_CHECKED | Engineering/process guidance |
+*Confidence note: the 2026 export-licence regime and the tender acceptance indicators are VERIFIED on government/real-tender sources. Engineering/process guidance is manufacturer/industry (CROSS_CHECKED); current-year lists, OEM overseas networks and all commercial terms (discount/MOQ/lead time) are obtained live and never estimated.*
 ## Editorial Review
-- **Reviewed by**: AutoBridge Export Sourcing Team
-- **Last reviewed**: 2026-09-02
+- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/autobridge-export-sourcing-team/) · method per our [Editorial Policy](/about/editorial-policy/)
+- **Last reviewed**: 2026-09-02 · **Second-round source revision**: 2026-09-03 (2026 MOFCOM application notice, Announcement 54 NEV licensing, 2026 list and Nov-2025 used-car notice added)
 - **Reference market**: Global (commercial vehicles sourced from China)
-- **Verification method**: Real tender for acceptance criteria; manufacturer/industry sources for process; commercial figures deliberately left to negotiation
-- **Content status**: QA_PASS (Master/EN)
+- **Verification method**: Government primary sources for the 2026 licence regime; a real tender for acceptance criteria; commercial figures left to negotiation
+- **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS (2026 official MOFCOM sources added) · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off

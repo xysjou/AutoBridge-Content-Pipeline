@@ -7,7 +7,7 @@
 - **H1**: Forthing Lingzhi M5 / M5L 2024 (China): A Utilitarian Van Spec Map for Commercial Buyers
 - **Primary Keyword**: Forthing Lingzhi M5 van specifications export
 - **Secondary Search Terms**: Dongfeng Lingzhi M5L 9-seat, Forthing M5 CNG 1.6, Chinese commercial MPV van export, Lingzhi M5 wheelbase, Dongfeng passenger van
-- **Internal Link Suggestions**: /vehicles/gac-trumpchi-m8-2024/ ; /guides/commercial-truck-fleet-procurement-china/ ; /guides/right-hand-drive-chinese-cars/
+- **Internal Link Suggestions**: /vehicles/gac-trumpchi-m8/ ; /guides/commercial-truck-fleet-procurement-china/ ; /guides/right-hand-drive-chinese-cars/
 - **Image Suggestions**: side profile M5L long body; 9-seat interior layout; 1.5T vs 1.6 CNG card; cargo/seat folding; sliding side door
 - **ALT Suggestions**: "2024 Forthing Lingzhi M5L nine-seat commercial van, China spec"; "Lingzhi M5 5/7/9 seat layout options"; "Lingzhi M5 1.5T petrol versus 1.6 CNG"
 
@@ -52,6 +52,8 @@ Payload and cargo-volume ratings were not captured in Stage 1 and are not estima
 - Confirm spare-parts and clutch/gearbox support for a manual commercial van, plus warranty (China reference: five years / 100,000 km — domestic coverage, distributor-dependent overseas).
 - Check whether the destination treats a 9-seater as a minibus requiring additional driver/operator licensing.
 
+## What AutoBridge Adds Beyond the Parameter Page
+A van order fails on small mismatches: a "9-seater" registered as a different category, or a CNG unit sold where gas certification does not exist. AutoBridge fixes **wheelbase (2800/3000), exact seat count and fuel type as one locked combination** on the build sheet, checks the destination's **driver-licence/operator category for a 9-seater**, and — for CNG — requires a recognised **gas-cylinder certification path** before deposit rather than assuming the petrol calibration transfers.
 ## Pre-Payment Verification List
 
 - Pin down M5 vs M5L (2800 vs 3000 mm wheelbase) and exact seat count (5/7/8/9).
@@ -74,18 +76,18 @@ AutoBridge quotes on request rather than publishing fixed export prices. Chinese
 
 ## Sources & Verification
 
-| Source title | Organization | Market | URL | Checked | Supported facts |
-|---|---|---|---|---|---|
-| Lingzhi official parameters | Dongfeng Forthing (official) | CN | https://www.fxauto.com.cn/index.php/car/parameter?cid=37 | 2026-09-02 | Wheelbase 2800/3000, 5/7/9 seats, chassis framework |
-| M5L 1.5T 9-seat model | Dongchedi (懂车帝) | CN | https://www-hl.dongchedi.com/auto/series/445/model-92416 | 2026-09-02 | 1.5T 140 kW/300 N·m, 3000 mm WB, curb 1700 kg |
-| Lingzhi parameter table | PCauto (太平洋汽车) | CN | https://car.pcauto.com.cn/360/m124835/config.html | 2026-09-02 | Dimensions, CNG powertrain, WLTC 8.4, warranty, price |
-| Lingzhi M5 article | Yiche (易车) | CN | https://m.yiche.com/zhai/261903/ | 2026-09-02 | Dimensions, wheelbase, 7/9-seat layouts |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+|---|---|---|---|---|---|---|
+| Lingzhi official parameters | Dongfeng Forthing (official) | CN | https://www.fxauto.com.cn/index.php/car/parameter?cid=37 | 2026-09-02 | VERIFIED | Wheelbase 2800/3000, 5/7/9 seats, chassis framework |
+| M5L 1.5T 9-seat model | Dongchedi (懂车帝) | CN | https://www-hl.dongchedi.com/auto/series/445/model-92416 | 2026-09-02 | CROSS_CHECKED | 1.5T 140 kW/300 N·m, 3000 mm WB, curb 1700 kg |
+| Lingzhi parameter table | PCauto (太平洋汽车) | CN | https://car.pcauto.com.cn/360/m124835/config.html | 2026-09-02 | CROSS_CHECKED | Dimensions, CNG powertrain, WLTC 8.4, warranty, price |
+| Lingzhi M5 article | Yiche (易车) | CN | https://m.yiche.com/zhai/261903/ | 2026-09-02 | CROSS_CHECKED | Dimensions, wheelbase, 7/9-seat layouts |
 
-*Verification note: dimensions/wheelbase/seats VERIFIED (official + databases); 1.5T/CNG powertrains CROSS_CHECKED; curb weight SINGLE_SOURCE. Payload/cargo volume not in fact base — to be confirmed officially. Export/RHD specs not asserted.*
+*Confidence note (AutoBridge standard): dimensions/wheelbase/seat layouts are VERIFIED on Forthing's official parameter page; 1.5T/CNG powertrains are CROSS_CHECKED; curb weight is SINGLE_SOURCE. Payload/cargo volume were not in the fact base and are left for the official sheet; export/RHD specs are not asserted.*
 
 ## Editorial Review
-- **Reviewed by**: AutoBridge Export Sourcing Team
-- **Last reviewed**: 2026-09-02
-- **Reference market**: China, 2024 M5/M5L
-- **Verification method**: Brand-official parameter page plus database cross-check; manual/CNG and single-source items labelled
-- **Content status**: QA_PASS (Master/EN)
+- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/autobridge-export-sourcing-team/) · method per our [Editorial Policy](/about/editorial-policy/)
+- **Last reviewed**: 2026-09-02 · **Second-round revision**: 2026-09-03 (confidence relabelled; procurement-increment block added)
+- **Reference market**: China M5/M5L (evergreen model page; export nameplates differ and are confirmed per destination)
+- **Verification method**: Brand-official parameter page plus independent-database cross-check; manual/CNG and single-source items labelled
+- **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off

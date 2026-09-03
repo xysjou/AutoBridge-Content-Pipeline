@@ -43,6 +43,8 @@ Note that model **names differ between China and export markets** (e.g., Yuan Pl
 
 The legality and export feasibility of converting an LHD Chinese car to RHD were **not verified** in this research, and such conversions routinely void type approval and warranty, alter crash structure and fail registration in strict RHD markets. Treat any supplier offering cheap "RHD conversion" as a high-risk signal and require evidence of regulatory approval; in most professional procurement the safe rule is **factory RHD or don't ship**.
 
+## What AutoBridge Adds Beyond a "We Can Do RHD" Claim
+Sellers assert RHD availability without distinguishing a factory line from a conversion shop. AutoBridge requires **factory-line evidence for the exact model (build photos, VIN, local-distributor confirmation)**, refuses aftermarket LHD→RHD steering swaps, and maps the chosen car to the **destination's RHD registration/inspection rule and wipers/mirror/headlamp-beam requirements** before deposit.
 ## Procurement Checklist for RHD Orders
 
 - Destination market and its RHD registration/homologation rules named.
@@ -62,20 +64,20 @@ The legality and export feasibility of converting an LHD Chinese car to RHD were
 
 ## Sources & Verification
 
-| Source title | Organization | Market | URL | Checked | Supported facts |
-|---|---|---|---|---|---|
-| RHD Chinese-cars markets guide | StarVia Auto (export service) | RHD markets | https://www.starviaauto.com/en/blog/right-hand-drive-chinese-cars-markets-guide | 2026-09-02 | MG/GWM RHD line-ups and markets (industry; verify) |
-| Which Chinese vehicles suit RHD buyers | StarVia Auto (export service) | RHD markets | https://www.starviaauto.com/en/faq/which-chinese-vehicles-are-suitable-for-buyers-who-need-right-hand-drive | 2026-09-02 | BYD Atto 3/Dolphin/Seal RHD (industry; verify) |
-| RHD-ready Geely/Zeekr models | FOBEV (export service) | RHD markets | https://www.fobev.com/vehicles/rhd-ready/ | 2026-09-02 | Geely EX5 parallel LHD/RHD, Zeekr RHD (industry; verify) |
-| Dongfeng Forthing enters Thailand (official) | Dongfeng Motor Group (official) | TH | https://www.dfmc.com.cn/news/company/news_20260311_1142.html | 2026-09-02 | March-2026 Thailand entry, RHD FRIDAY/V9 (VERIFIED) |
-| Changan NEVO Q05 Bangkok show debut | Autohome 车家号 (media) | TH | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/25092921 | 2026-09-02 | NEVO Q05 Thai RHD prospect (media; verify) |
-| Hongqi RHD strategy / RHD market context | smzdm (aggregator); AutoReport (industry) | RHD markets | https://post.m.smzdm.com/p/aqrp0mkp/ ; https://m.autoreport.cn/guoji/20260829/19112676566.html | 2026-09-02 | Hongqi RHD push; ~35% global sales in RHD markets |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+|---|---|---|---|---|---|---|
+| RHD Chinese-cars markets guide | StarVia Auto (export service) | RHD markets | https://www.starviaauto.com/en/blog/right-hand-drive-chinese-cars-markets-guide | 2026-09-02 | CROSS_CHECKED | MG/GWM RHD line-ups and markets (industry; verify) |
+| Which Chinese vehicles suit RHD buyers | StarVia Auto (export service) | RHD markets | https://www.starviaauto.com/en/faq/which-chinese-vehicles-are-suitable-for-buyers-who-need-right-hand-drive | 2026-09-02 | CROSS_CHECKED | BYD Atto 3/Dolphin/Seal RHD (industry; verify) |
+| RHD-ready Geely/Zeekr models | FOBEV (export service) | RHD markets | https://www.fobev.com/vehicles/rhd-ready/ | 2026-09-02 | CROSS_CHECKED | Geely EX5 parallel LHD/RHD, Zeekr RHD (industry; verify) |
+| Dongfeng Forthing enters Thailand (official) | Dongfeng Motor Group (official) | TH | https://www.dfmc.com.cn/news/company/news_20260311_1142.html | 2026-09-02 | VERIFIED | March-2026 Thailand entry, RHD FRIDAY/V9 (VERIFIED) |
+| Changan NEVO Q05 Bangkok show debut | Autohome 车家号 (media) | TH | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/25092921 | 2026-09-02 | CROSS_CHECKED | NEVO Q05 Thai RHD prospect (media; verify) |
+| Hongqi RHD strategy / RHD market context | smzdm (aggregator); AutoReport (industry) | RHD markets | https://post.m.smzdm.com/p/aqrp0mkp/ ; https://m.autoreport.cn/guoji/20260829/19112676566.html | 2026-09-02 | CROSS_CHECKED | Hongqi RHD push; ~35% global sales in RHD markets |
 
-*Verification note: only Dongfeng's Thailand RHD launch is official/VERIFIED. Brand model lists are export-service/media snapshots that change frequently and must be confirmed on official brand/local-distributor channels per VIN. Aftermarket conversion legality was not verified and is flagged as risk.*
+*Confidence note (AutoBridge standard): only Dongfeng's Thailand RHD launch is VERIFIED (manufacturer official). Brand model lists are export-service/media snapshots (SINGLE_SOURCE) that change frequently and must be confirmed on official brand/local-distributor channels per VIN. Aftermarket conversion legality was not verified and is flagged as risk.*
 
 ## Editorial Review
-- **Reviewed by**: AutoBridge Export Sourcing Team
-- **Last reviewed**: 2026-09-02
+- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/autobridge-export-sourcing-team/) · method per our [Editorial Policy](/about/editorial-policy/)
+- **Last reviewed**: 2026-09-02 · **Second-round revision**: 2026-09-03 (confidence relabelled; increment block added)
 - **Reference market**: Global RHD markets (sourcing from China)
 - **Verification method**: One official launch plus industry snapshots; availability deliberately left to per-VIN official confirmation
-- **Content status**: QA_PASS (Master/EN)
+- **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off

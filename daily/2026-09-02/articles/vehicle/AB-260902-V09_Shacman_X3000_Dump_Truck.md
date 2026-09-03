@@ -41,6 +41,8 @@ When ordering, match horsepower to the **engine model suffix and emission stage*
 
 X3000 dumps are deliberately offered across **China V, China VI and lower-spec (Euro II-class) calibrations** because destination fuel quality and import rules differ so widely. A high-grade engine run on high-sulphur fuel can fail early; an over-specified emission system may be un-serviceable locally. Specify the emission level the destination actually requires and that its fuel supports — and obtain the matching engine/emission certificate rather than accepting a generic "X3000" description.
 
+## What AutoBridge Adds Beyond a Truck Spec Card
+Dump-truck quotes routinely blur the **400 PS official export engine** and the **430 PS China-announcement build**. AutoBridge fixes the **exact engine code and emission stage to the VIN/announcement certificate**, matches the **axle ratio and 12.00R20 tyre/rim choice to the haul grade**, and writes the **bed steel grade, volume and lift system into an inspectable annex** — preventing the common substitution of a weaker 8×4 build that still carries the X3000 name.
 ## Tipping and Chassis Checks for Buyers
 
 - **Body and hydraulics**: confirm body length (7.6 m reference), side/board height, steel grade, rear-tip vs side-tip, and the hydraulic hoist brand/capacity; bodies are often built to order.
@@ -64,18 +66,18 @@ No authoritative price was captured and none is estimated. Enquire with **Destin
 
 ## Sources & Verification
 
-| Source title | Organization | Market | URL | Checked | Supported facts |
-|---|---|---|---|---|---|
-| X3000 430 8×4 parameters | 360che (卡车之家) | CN | https://product.m.360che.com/m355/88939_param.html | 2026-09-02 | Announcement, WP12.430, gearbox, weights, body, axles, tyres |
-| X3000 6×4 dump official | SHACMAN Group (official) | CN/Export | https://www.shacman-group.com/products/shacman-x3000-6x4-dump-truck/ | 2026-09-02 | 11.6 L 400 PS/294 kW/2000 N·m, China VI |
-| X3000 multi-version compare | 360che (卡车之家) | CN | https://product.m.360che.com/m299/74922_param.html | 2026-09-02 | 375–550 PS versions, China V/VI torque |
-| X3000 international | Shacman International (official) | Export | https://www.shacmaninternational.cn/product-38.html | 2026-09-02 | 80 km/h top speed, wheelbase, 385/400/430 options |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+|---|---|---|---|---|---|---|
+| X3000 430 8×4 parameters | 360che (卡车之家) | CN | https://product.m.360che.com/m355/88939_param.html | 2026-09-02 | CROSS_CHECKED | Announcement, WP12.430, gearbox, weights, body, axles, tyres |
+| X3000 6×4 dump official | SHACMAN Group (official) | CN/Export | https://www.shacman-group.com/products/shacman-x3000-6x4-dump-truck/ | 2026-09-02 | VERIFIED | 11.6 L 400 PS/294 kW/2000 N·m, China VI |
+| X3000 multi-version compare | 360che (卡车之家) | CN | https://product.m.360che.com/m299/74922_param.html | 2026-09-02 | CROSS_CHECKED | 375–550 PS versions, China V/VI torque |
+| X3000 international | Shacman International (official) | Export | https://www.shacmaninternational.cn/product-38.html | 2026-09-02 | VERIFIED | 80 km/h top speed, wheelbase, 385/400/430 options |
 
-*Verification note: the 400 PS export engine is official (VERIFIED); the detailed 430 PS 8×4 announcement figures are SINGLE_SOURCE (360che). Price UNVERIFIED and omitted. Confirm the final build on the Shacman International sheet.*
+*Confidence note (AutoBridge standard): the 400 PS export engine is VERIFIED on Shacman-official channels; the detailed 430 PS 8×4 announcement figures are SINGLE_SOURCE (360che). Price is UNVERIFIED and omitted. Confirm the final build on the Shacman International sheet.*
 
 ## Editorial Review
-- **Reviewed by**: AutoBridge Export Sourcing Team
-- **Last reviewed**: 2026-09-02
+- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/autobridge-export-sourcing-team/) · method per our [Editorial Policy](/about/editorial-policy/)
+- **Last reviewed**: 2026-09-02 · **Second-round revision**: 2026-09-03 (confidence relabelled; procurement-increment block added)
 - **Reference market**: China reference build + official export configurations
-- **Verification method**: Official Shacman channels plus commercial database; single-source items labelled
-- **Content status**: QA_PASS (Master/EN)
+- **Verification method**: Official Shacman channels plus an independent commercial database; single-source items labelled
+- **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off

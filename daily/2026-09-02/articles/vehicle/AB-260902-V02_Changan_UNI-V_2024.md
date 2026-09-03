@@ -3,11 +3,11 @@
 ## SEO Metadata
 - **SEO Title**: Changan UNI-V 2024 Specs: 1.5T/2.0T Fastback Sedan Export Guide
 - **Meta Description**: 2024 Changan UNI-V China reference specs — Blue Whale 1.5T (138 kW) and 2.0T (171 kW), 7DCT/8AT, WLTC fuel use, dimensions, and buyer verification points for importers.
-- **Suggested URL**: /vehicles/changan-uni-v-2024/
+- **Suggested URL**: /vehicles/changan-uni-v/
 - **H1**: Changan UNI-V 2024 (China): Engines, Trim Differences and What Importers Should Verify
 - **Primary Keyword**: Changan UNI-V 2024 specifications export
 - **Secondary Search Terms**: Changan UNI-V 1.5T Blue Whale, UNI-V 2.0T 8AT, UNI-V WLTC fuel consumption, Changan fastback sedan export China
-- **Internal Link Suggestions**: /guides/right-hand-drive-chinese-cars/ ; /guides/verify-china-car-export-supplier/ ; /vehicles/byd-qin-plus-dmi-2024/
+- **Internal Link Suggestions**: /guides/right-hand-drive-chinese-cars/ ; /guides/verify-china-car-export-supplier/ ; /vehicles/byd-qin-plus-dmi/
 - **Image Suggestions**: side profile showing fastback roofline; engine bay 1.5T; 1.5T vs 2.0T spec card; rear diffuser/active spoiler; cabin dashboard
 - **ALT Suggestions**: "2024 Changan UNI-V compact fastback sedan side profile, China spec"; "Changan Blue Whale NE 1.5T engine bay"; "UNI-V 1.5T versus 2.0T specification table"
 
@@ -50,6 +50,8 @@ The 2024 China range spans several 1.5T grades (高能, 尊贵, 尊享, 智慧�
 
 As a Chinese-market petrol car, the UNI-V is engineered and certified to Chinese standards and Chinese pump fuel. This fact sheet does **not** assert a specific Euro emission level or an overseas octane requirement, and an importer should not infer one: confirm (a) the emission standard the destination country accepts and whether the China-certified car meets it, (b) recommended fuel grade availability, and (c) service intervals and spare-parts supply for the Blue Whale engine and both gearbox types before committing.
 
+## What AutoBridge Adds Beyond the Configurator
+Config tables list engines and grades but hide the pairing that causes order errors. AutoBridge binds **engine and gearbox as a pair** (1.5T→7DCT, 2.0T→8AT) on the VIN build sheet, records the **grade-specific body length** so documents do not cite one length for a different grade, and flags where a China-certified petrol calibration still needs a destination emission/fuel decision before deposit.
 ## Ordering and Pre-Payment Verification
 
 - Record engine (1.5T vs 2.0T) **and** transmission (7DCT vs 8AT) — they are paired, not interchangeable.
@@ -76,20 +78,20 @@ There is no static AutoBridge export price. The RMB 108,900–139,900 Chinese gu
 
 ## Sources & Verification
 
-| Source title | Organization | Market | URL | Checked | Supported facts |
-|---|---|---|---|---|---|
-| UNI-V 高能版 official page | Changan Automobile (official) | CN | https://www.changan.com.cn/car/UNI-V-high/ | 2026-09-02 | Dimensions range, 2750 mm wheelbase, track |
-| UNI-V 2nd-gen official page | Changan Automobile (official) | CN | https://www.changan.com.cn/car/UNI-V-2nd/ | 2026-09-02 | Blue Whale 1.5T 138 kW/300 N·m, 7DCT |
-| 2024 1.5T 尊贵型 configuration | Autohome (汽车之家) | CN | https://dealer.autohome.com.cn/2173671/spec_66852.html | 2026-09-02 | 1.5T output, 4720 mm length, WLTC 6.37 |
-| 2024 UNI-V configuration table | PCauto (太平洋汽车) | CN | https://car.pcauto.com.cn/360/m128895/config.html | 2026-09-02 | 2.0T 171 kW/390 N·m, 8AT, fuel use, domestic price |
-| UNI-V spec page | Autohome config | CN | https://www.autohome.com.cn/config/spec/66851.html | 2026-09-02 | Curb weight (single source) |
-| New UNI-V launch report | Ifeng Auto (凤凰网汽车) | CN | https://auto.ifeng.com/c/8Y79qxCFD3L | 2026-09-02 | MacPherson/multi-link suspension, drivetrain |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+|---|---|---|---|---|---|---|
+| UNI-V 高能版 official page | Changan Automobile (official) | CN | https://www.changan.com.cn/car/UNI-V-high/ | 2026-09-02 | VERIFIED | Dimensions range, 2750 mm wheelbase, track |
+| UNI-V 2nd-gen official page | Changan Automobile (official) | CN | https://www.changan.com.cn/car/UNI-V-2nd/ | 2026-09-02 | VERIFIED | Blue Whale 1.5T 138 kW/300 N·m, 7DCT |
+| 2024 1.5T 尊贵型 configuration | Autohome (汽车之家) | CN | https://dealer.autohome.com.cn/2173671/spec_66852.html | 2026-09-02 | CROSS_CHECKED | 1.5T output, 4720 mm length, WLTC 6.37 |
+| 2024 UNI-V configuration table | PCauto (太平洋汽车) | CN | https://car.pcauto.com.cn/360/m128895/config.html | 2026-09-02 | CROSS_CHECKED | 2.0T 171 kW/390 N·m, 8AT, fuel use, domestic price |
+| UNI-V spec page | Autohome config | CN | https://www.autohome.com.cn/config/spec/66851.html | 2026-09-02 | SINGLE_SOURCE | Curb weight (single source) |
+| New UNI-V launch report | Ifeng Auto (凤凰网汽车) | CN | https://auto.ifeng.com/c/8Y79qxCFD3L | 2026-09-02 | CROSS_CHECKED | MacPherson/multi-link suspension, drivetrain |
 
-*Verification note: 1.5T powertrain and wheelbase are VERIFIED (official + databases). 2.0T figures are CROSS_CHECKED; curb weight is SINGLE_SOURCE and should be confirmed against the VIN plate.*
+*Confidence note (AutoBridge standard): the 1.5T powertrain and 2750 mm wheelbase are VERIFIED on Changan's own pages (manufacturer official). The 2.0T figures are CROSS_CHECKED across independent databases; curb weight is SINGLE_SOURCE and must be matched to the compliance plate.*
 
 ## Editorial Review
-- **Reviewed by**: AutoBridge Export Sourcing Team
-- **Last reviewed**: 2026-09-02
-- **Reference market**: China, 2024 model year
-- **Verification method**: Brand-official pages cross-matched with Autohome/PCauto; single-source items labelled
-- **Content status**: QA_PASS (Master/EN)
+- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/autobridge-export-sourcing-team/) · method per our [Editorial Policy](/about/editorial-policy/)
+- **Last reviewed**: 2026-09-02 · **Second-round revision**: 2026-09-03 (confidence relabelled to the strict standard; URL made evergreen)
+- **Reference market**: China, 2024 model year (evergreen model page; export UNI-V governed by destination sheets)
+- **Verification method**: Brand-official pages cross-matched with independent databases; single-source items labelled
+- **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS (evergreen URL) · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off

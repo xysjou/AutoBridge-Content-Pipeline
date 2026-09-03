@@ -3,7 +3,7 @@
 ## SEO Metadata
 - **SEO Title**: GAC Trumpchi M8 2024 MPV Specs, Series & Seating Export Guide
 - **Meta Description**: 2024 GAC Trumpchi M8 China reference specs: Master/Grandmaster vs Lingxiu series, 2.0TGDI 185 kW, 8AT, 7-seat layout, dimensions, and overseas buyer verification points.
-- **Suggested URL**: /vehicles/gac-trumpchi-m8-2024/
+- **Suggested URL**: /vehicles/gac-trumpchi-m8/
 - **H1**: GAC Trumpchi M8 2024 (China): MPV Series, Seating and Specification Map for Importers
 - **Primary Keyword**: GAC Trumpchi M8 2024 specifications export
 - **Secondary Search Terms**: Trumpchi M8 7-seat MPV, GAC M8 2.0TGDI 8AT, Trumpchi M8 Master series, Chinese luxury MPV export, GAC M8 Middle East
@@ -55,6 +55,8 @@ With a 3070 mm (Grandmaster/Master) wheelbase in a 5.2-metre body, the M8 is con
 - Confirm infotainment language, navigation and connected services outside mainland China, plus warranty coverage for a parallel-imported unit.
 - If a customer specifically wants the **hybrid (双擎)**, request its separate official specification — this page does not infer hybrid battery/motor figures from the petrol car.
 
+## What AutoBridge Adds Beyond the Brochure
+MPV buyers are sold a "luxury seven-seater" label that hides three different series and seat layouts. AutoBridge records the **series-specific wheelbase and torque calibration (400 vs 390 N·m)** on the order, produces a **line-item second-row seat-equipment list** (ventilation/heating/massage, leg rests, powered doors) so trim is not mis-substituted, and reconciles the Chinese build against GAC's **overseas M8 sheet** before deposit, so China dimensions are never copied onto an export VIN.
 ## Pre-Payment Checklist
 
 1. Record the exact series (Grandmaster/Master/Lingxiu) and grade; attach the matching dimensions and 400 vs 390 N·m calibration.
@@ -81,20 +83,20 @@ AutoBridge issues live quotations rather than a static price list. Chinese domes
 
 ## Sources & Verification
 
-| Source title | Organization | Market | URL | Checked | Supported facts |
-|---|---|---|---|---|---|
-| M8 大师 尊贵版 official | GAC Trumpchi (official) | CN | https://www.gacmotor.com/m8xds_new/empow01.html | 2026-09-02 | 5212 mm body, 3070 mm WB, 2060 kg, 2.0TGDI |
-| GAC M8 overseas configuration | GAC Group (official) | CN/Export | https://www.gacgroup.com/en-kw/configuration/gac-m8/2024 | 2026-09-02 | 185 kW/252 PS, 7 seats, suspension |
-| 2024 M8 宗师 petrol official | GAC Trumpchi (official) | CN | https://www.gacmotor.com/2024m8zs_new/ | 2026-09-02 | 2.0TGDI + 8AT, 400 N·m, domestic price |
-| Lingxiu 390T config | Autohome (汽车之家) | CN | https://dealer.autohome.com.cn/2133191/spec_68518.html | 2026-09-02 | 5089 mm body, 3000 mm WB, 390 N·m, WLTC 8.85 |
-| M8 parameters | PCauto (太平洋汽车) | CN | https://price.pcauto.com.cn/m128883/config.html | 2026-09-02 | Wheelbase split, series mapping |
-| Lingxiu config | Yiche (易车) | CN | https://car.yiche.com/chuanqigm8/m173683/peizhi/ | 2026-09-02 | Lingxiu dimensions, domestic price |
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+|---|---|---|---|---|---|---|
+| M8 大师 尊贵版 official | GAC Trumpchi (official) | CN | https://www.gacmotor.com/m8xds_new/empow01.html | 2026-09-02 | VERIFIED | 5212 mm body, 3070 mm WB, 2060 kg, 2.0TGDI |
+| GAC M8 overseas configuration | GAC Group (official) | CN/Export | https://www.gacgroup.com/en-kw/configuration/gac-m8/2024 | 2026-09-02 | VERIFIED | 185 kW/252 PS, 7 seats, suspension |
+| 2024 M8 宗师 petrol official | GAC Trumpchi (official) | CN | https://www.gacmotor.com/2024m8zs_new/ | 2026-09-02 | VERIFIED | 2.0TGDI + 8AT, 400 N·m, domestic price |
+| Lingxiu 390T config | Autohome (汽车之家) | CN | https://dealer.autohome.com.cn/2133191/spec_68518.html | 2026-09-02 | CROSS_CHECKED | 5089 mm body, 3000 mm WB, 390 N·m, WLTC 8.85 |
+| M8 parameters | PCauto (太平洋汽车) | CN | https://price.pcauto.com.cn/m128883/config.html | 2026-09-02 | CROSS_CHECKED | Wheelbase split, series mapping |
+| Lingxiu config | Yiche (易车) | CN | https://car.yiche.com/chuanqigm8/m173683/peizhi/ | 2026-09-02 | CROSS_CHECKED | Lingxiu dimensions, domestic price |
 
-*Verification note: Grandmaster/Master core specs VERIFIED via brand-official pages; Lingxiu values CROSS_CHECKED. The 400 vs 390 N·m calibration is intentionally kept separate by series. Hybrid specs not asserted.*
+*Confidence note (AutoBridge standard): Grandmaster/Master core specs are VERIFIED on GAC's own pages (manufacturer official); Lingxiu values are CROSS_CHECKED across independent databases. The 400 vs 390 N·m calibration is intentionally kept separate by series; hybrid (双擎) specs are not asserted.*
 
 ## Editorial Review
-- **Reviewed by**: AutoBridge Export Sourcing Team
-- **Last reviewed**: 2026-09-02
-- **Reference market**: China, 2024 model year (overseas GAC M8 exists; consult destination sheet)
-- **Verification method**: Official GAC pages plus database cross-check; series-specific figures kept distinct
-- **Content status**: QA_PASS (Master/EN)
+- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/autobridge-export-sourcing-team/) · method per our [Editorial Policy](/about/editorial-policy/)
+- **Last reviewed**: 2026-09-02 · **Second-round revision**: 2026-09-03 (confidence relabelled; URL made evergreen)
+- **Reference market**: China model (evergreen model page; overseas GAC M8 exists and the destination sheet governs export builds)
+- **Verification method**: Official GAC pages plus independent-database cross-check; series-specific figures kept distinct
+- **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS (evergreen URL) · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off

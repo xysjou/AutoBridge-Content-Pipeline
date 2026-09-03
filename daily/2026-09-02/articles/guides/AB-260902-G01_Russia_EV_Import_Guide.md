@@ -1,101 +1,70 @@
-# Importing a Chinese EV Into Russia (2026): EAC/OTTC Certification, ERA-GLONASS and Customs Checklist
-
+# Importing a Chinese EV Into Russia / the EAEU: Type Approval, ERA-GLONASS and the Documents That Must Agree
 ## SEO Metadata
-- **SEO Title**: Import Chinese EV to Russia 2026: EAC, OTTC & Customs Guide
-- **Meta Description**: Russia/EAEU certification path for Chinese EVs in 2026 — TR CU 018/2011, OTTC vs SBKTS, ERA-GLONASS, direct-import changes and duty/VAT points to verify before shipping.
+- **SEO Title**: Import a Chinese EV to Russia: EAEU Type Approval & Customs Path
+- **Meta Description**: The Russia/EAEU conformity route for a Chinese EV — TR CU 018/2011 OTTC vs SBKTS, ERA-GLONASS under the regulation, EPTS, the China 2026 export-licence rule, and exactly what to confirm before paying.
 - **Suggested URL**: /guides/import-chinese-ev-to-russia-eac-ottc/
-- **H1**: How to Import a Chinese Electric Vehicle Into Russia in 2026: Certification and Customs Path
-- **Primary Keyword**: import Chinese EV to Russia EAC OTTC customs guide
-- **Secondary Search Terms**: EAEU vehicle type approval, SBKTS single vehicle certificate, ERA-GLONASS import 2026, Russia EV import duty, China EV export license Russia
+- **H1**: How a Chinese Electric Vehicle Clears Russia / the EAEU: Conformity Route and Customs Paperwork
+- **Primary Keyword**: import Chinese EV to Russia EAEU OTTC SBKTS customs
+- **Secondary Search Terms**: TR CU 018/2011 wheeled vehicles, EAEU vehicle type approval, SBKTS single vehicle certificate, ERA-GLONASS requirement, EPTS electronic passport, China EV export license 2026
 - **Internal Link Suggestions**: /guides/vehicle-import-payment-tt-vs-lc/ ; /guides/marine-cargo-insurance-car-import/ ; /guides/verify-china-car-export-supplier/
-- **Image Suggestions**: certification flow diagram (OTTC vs SBKTS); EAC mark close-up; ERA-GLONASS terminal; customs document checklist
-- **ALT Suggestions**: "Russia EAEU OTTC versus SBKTS vehicle certification flow"; "EAC conformity mark on vehicle plate"; "ERA-GLONASS emergency call terminal"
-
-## What Changed and Why Importers Are Exposed
-
-Russian regulation of imported electric vehicles tightened through 2026, and older "grey" parallel-import routes that relied on neighbouring EAEU countries became unreliable. For a B2B importer the practical problem is no longer just paying duty — it is assembling a **conformity path (type approval or single-vehicle certificate), an ERA-GLONASS device, and customs documents that all name the same importer and vehicle**. This guide is specific to **Russia / the Eurasian Economic Union (EAEU)** and is not a generic "CIS" statement. Rules here are time-sensitive: the certification backbone is well-sourced, while several 2026 duty/process figures come from Russian-language industry media and are flagged for confirmation against Russia's Federal Customs Service (FTS) before money changes hands.
-
-## Step 1 — Choose the Correct Conformity Route
-
-Electric, plug-in hybrid and hybrid vehicles all fall within the **mandatory scope of EAEU technical regulation TR CU 018/2011 ("On the safety of wheeled vehicles")** — this is confirmed by an official China Council for the Promotion of International Trade (CCPIT) explainer. TR CU 018/2011 does exempt certain categories (e.g., racing vehicles, military vehicles and certain agricultural machinery), but ordinary road EVs do not qualify for those exemptions. Two practical routes follow:
-
-| Route | What it is | Typical case |
+- **Image Suggestions**: OTTC-versus-SBKTS route diagram; EAC conformity mark; ERA-GLONASS terminal and SOS button; document-name consistency flow
+- **ALT Suggestions**: "EAEU OTTC versus SBKTS vehicle certification routes"; "EAC conformity mark"; "documents that must name the same importer and VIN"
+## The Actual Problem for a B2B Importer
+A Chinese EV reaches a Russian buyer only after three things line up: a **valid EAEU conformity document**, an **emergency-call provision accepted for registration**, and a **customs/document package in which the importer of record, the conformity holder and the invoice are the same legal entity**. When shipments fail, it is usually because those three name different parties or because a per-unit certificate was expected to behave like a batch type approval. This guide is specific to **Russia within the Eurasian Economic Union (EAEU)**; it is not a generic "CIS" statement, and it deliberately separates regulation that is settled from cost/process points that change and must be confirmed live.
+## The Settled Backbone: TR CU 018/2011
+Electric, plug-in hybrid and hybrid road vehicles fall within the **mandatory scope of EAEU technical regulation TR CU 018/2011 "On the safety of wheeled vehicles"**. The regulation was **adopted by Decision of the Customs Union Commission No. 877 of 9 December 2011 and entered into force on 1 January 2015** (the official legal register of the EAEU carries the consolidated text; VERIFIED). It applies to L/M/N/O-category vehicles; ordinary road EVs do not qualify for the narrow exemptions (racing, military, certain agricultural machinery). Two conformity routes follow from it:
+| Route | What it is | When it fits |
 |---|---|---|
-| **OTTC** (Vehicle Type Approval, Одобрение типа транспортного средства) | Whole-type approval for a series of vehicles, held by a manufacturer/importer of record | Commercial B2B batches, repeated shipments of the same model |
-| **SBKTS** (Single-Vehicle Certificate, Свидетельство о безопасности конструкции) | Per-vehicle safety/conformity document | Single units and **used vehicles** (per an export-industry source — confirm current scope with an accredited EAEU body) |
-
-For a volume importer the scalable path is an OTTC held by a properly established EAEU entity; relying on per-unit SBKTS for a fleet is slow and expensive. Engage an **accredited EAEU certification body/laboratory** early, because testing and documentation lead time often exceeds shipping time.
-
-## Step 2 — ERA-GLONASS Is a Road-Registration Precondition
-
-According to Russian-language specialist outlet Moscow Tesla Club, the **ERA-GLONASS emergency-call terminal became mandatory again for personally imported vehicles from 1 April 2026**, after a period of suspension. Industry coverage (EX1000) likewise treats GLONASS as a prerequisite for newly imported cars to be placed on the road. Because the exact scope (personal vs legal-entity), approved device list, fitting centre and fees were not captured from an official Russian source, **confirm the current ERA-GLONASS requirement, certified installer and cost with an accredited body before ordering** — do not assume a China-spec car can be registered without it, and do not assume a Chinese e-call system is accepted.
-
-## Step 3 — Duties, VAT and the "Direct Import" Question (Verify Each Figure)
-
-Several 2026 cost/process points currently rest on Russian media and industry sites rather than a captured FTS primary source, so treat them as items to confirm, not settled law:
-
-- **Personal import unified tariff**: BATTKA.ru describes an electric-vehicle unified duty starting at **48% of vehicle value** with a minimum per-unit amount. Confirm the live rate and minimum against the FTS customs calculator.
-- **Legal-entity import**: VestaXray.ru states a **20% VAT** on the customs value. Confirm VAT, duty, excise and the recycling/utilisation fee (утильсбор) — which industry sources say rises year on year — as a combined landed-cost calculation, not a single percentage.
-- **Direct-import rule (time-sensitive)**: an industry guide (Electric Auto China, published ~March 2026, effective April 2026) claims Russian customs now require **direct import and prohibit transit-routing via Kyrgyzstan, Belarus or Kazakhstan**. This is a single industry source; obtain the actual FCS/FTS instruction before structuring any triangular shipment.
-- **Emissions**: industry coverage notes a transition toward Euro 6-class requirements — largely moot for a pure EV's tailpipe, but relevant for any PHEV/HEV in the order.
-
-Build the landed-cost model from an **FTS-confirmed** duty + VAT + utilisation fee + certification + GLONASS + logistics + insurance stack. Do not quote a customer a final price from media percentages.
-
-## Step 4 — The China Export Side
-
-Chinese export controls for cars were also tightening in 2026. An industry source describes an **export-licence framework under which only qualified manufacturers/authorised dealers can apply**, with requirements around overseas after-sales networks, destination-country (EAEU) certification and battery traceability. This was **not confirmed against a Ministry of Commerce (MOFCOM)/MIIT primary document in Stage 1**, so it must not be presented to a customer as settled regulation. Operationally, however, it is prudent to require from the Chinese supplier: valid export qualifications, authorisation to export the specific brand/model, battery/UN38.3 documentation, and a named EAEU importer of record aligned with the OTTC. (See our supplier-vetting guide.)
-
-## How to Operate — A Practical Sequence
-
-1. Confirm the exact model/variant and whether you will hold an OTTC (batch) or use SBKTS (single/used), and contract an accredited EAEU certification body.
-2. Establish the Russian/EAEU legal importer of record and reconcile it across OTTC, customs contract and invoice.
-3. Verify current ERA-GLONASS fitment/registration requirements and book an approved installer.
-4. Obtain **FTS-confirmed** duty/VAT/utilisation-fee figures and build the full landed-cost sheet before signing the purchase contract.
-5. Verify the China-side exporter's qualifications, battery documents and whether direct (non-transit) shipping is required under the latest customs instruction.
-6. Align Incoterms, payment schedule and marine insurance with the certification lead time (see payment-methods and cargo-insurance guides).
-
-## Risks to Name in Your Own Deal Paper
-
-- **Transit-route risk**: a shipment routed through a third EAEU country may be rejected if the April-2026 direct-import reading is enforced — confirm officially first.
-- **Cost-escalation risk**: utilisation fees and minimum-duty floors can move; media percentages understate true landed cost.
-- **Registration risk**: missing/non-approved ERA-GLONASS blocks road registration even after customs release.
-- **Authorisation risk**: buying from an unauthorised Chinese exporter can invalidate both the export side and the EAEU type-approval chain.
-- **Evidence risk**: several figures here are single-source; treat anything not confirmed by FTS/EAEU/accredited-body documents as provisional.
-
-## Before You Pay — Confirmation List
-
-- OTTC or SBKTS route confirmed in writing by an accredited body, with scope and timeline.
-- ERA-GLONASS device/installation/registration path and cost documented.
-- FTS-confirmed duty, VAT, excise (if any) and current utilisation-fee schedule.
-- Written confirmation of whether third-country EAEU transit is permitted for your shipment.
-- Chinese supplier's export qualification, brand authorisation and battery documents verified.
-- Importer-of-record name identical across certification, commercial documents and customs filing.
-
+| **OTTC** — Vehicle Type Approval (Одобрение типа ТС) | Whole-type approval for a series, held by a manufacturer or an importer of record established in the EAEU | Repeated B2B shipments of the same model; the scalable path |
+| **SBKTS** — Single-Vehicle Safety Certificate (Свидетельство безопасности конструкции ТС) | Per-vehicle design-safety assessment, with an EPTS issued on that basis | Single units and used vehicles, where no OTTC covers the model |
+An EV then receives an **EPTS (electronic vehicle passport)** and can only be registered with the traffic authority on a valid EPTS. For a fleet programme, budget for an OTTC held by a properly established EAEU entity; per-unit SBKTS is slow and does not scale. Engage an **EAEU-accredited certification body/laboratory** early — testing and documentation lead time usually exceeds ocean transit.
+## ERA-GLONASS: a Regulation Requirement With Changing Implementation Details
+The emergency-call system (**ERA-GLONASS / УВЭОС**) is part of the TR CU 018/2011 framework for M/N-category vehicles placed on the EAEU market — that requirement is regulatory and durable. What has **changed repeatedly is the treatment of single / personally imported vehicles**: temporary exemptions for individual imports have been introduced, tightened and re-imposed at different dates. Because those exemption windows are set by separate implementing decisions and were not captured from an official Russian source for this article, do **not** rely on a media-stated reinstatement date. Before ordering, obtain from the accredited body a written answer to three concrete questions: (1) whether your specific unit/route requires a fitted, activated terminal; (2) which devices and fitting centres are approved; and (3) how the requirement differs between a legal-entity batch import and a personal single import. A Chinese-market e-call system is not an ERA-GLONASS terminal and is not accepted as one.
+## Duties, VAT, Utilisation Fee and Routing: Verify — Do Not Quote Media Numbers
+Several cost and routing points circulate in Russian-language industry media with **mutually inconsistent figures**, which is itself the warning:
+- **Import duty for EVs**: outlets disagree sharply, with some citing a zero rate for HS 8703.80 and others a high percentage from a given 2026 date. No Russian Federal Customs Service (FTS) or Eurasian Economic Commission primary decision was captured here, so **no duty percentage is stated as fact**. Classify the exact HS code and read the current EAEU Common Customs Tariff plus any temporary decision before building a landed-cost sheet.
+- **Import VAT and recycling/utilisation fee (утильсбор)**: VAT is governed by the Russian Tax Code and the utilisation fee by a separate schedule that is revised periodically; confirm the current rates and the importer category with FTS / an accredited customs broker rather than copying a press figure.
+- **"Direct import only / no transit via Belarus, Kazakhstan, Kyrgyzstan"**: this claim appears in a single 2026 industry guide with no captured customs-instruction primary source. Treat triangular EAEU routing as a **point to confirm in writing with customs counsel**, never as a settled prohibition or a settled permission.
+Build landed cost as an **FTS-confirmed stack** — duty + VAT + utilisation fee + certification + ERA-GLONASS fitment + logistics + insurance — not as a single borrowed percentage.
+## The China Side: the 2026 Export-Licence Rule Is Now Official
+Unlike the cost points above, the Chinese export-control side is now anchored in primary documents (VERIFIED):
+- **MOFCOM General Office Notice on the 2026 automobile/motorcycle export-licence application (商办贸函〔2025〕408号, 28 Sep 2025)** sets the online application system (ecomp.licence.org.cn), local-commerce preliminary review and the published qualified-enterprise list.
+- **Joint Announcement No. 54 (2025) of MOFCOM, MIIT, GAC and SAMR** puts **pure-electric passenger vehicles (reference HS 8703801090) under an export-licence regime from 1 January 2026**.
+- The **2026 list of enterprises qualified to apply for vehicle export licences** was published on 30 Dec 2025.
+Operationally this means your Chinese counterparty must be able to show, for the exact model: valid export qualification / a place on the current list, brand authorisation, and battery transport documentation (e.g., UN38.3). See the supplier-vetting guide for the authorisation-chain method.
+## What AutoBridge Adds Beyond a Compliance Summary
+Generic guides quote the same acronyms without resolving the deal. AutoBridge's desk produces a **single-page "conformity holder = customs importer = invoice party" reconciliation**, maps each VIN to **OTTC-or-SBKTS before the PI is signed**, and cross-checks the Chinese exporter against the **current-year MOFCOM licence list and the 2026 pure-EV passenger licensing rule** — catching the two failures (mismatched importer of record; unlicensed EV exporter) that no amount of shipping insurance fixes.
+## Operating Sequence
+1. Fix model/variant and decide OTTC (batch) vs SBKTS (single/used); contract an EAEU-accredited body and obtain a written scope/timeline.
+2. Establish the EAEU importer of record and use that identical entity across the OTTC/SBKTS, the contract, invoice and customs filing.
+3. Obtain written confirmation of the ERA-GLONASS requirement, approved device/fitter and cost for your import category.
+4. Classify HS 8703.80 and obtain the **current** duty/VAT/utilisation-fee figures from FTS/EEC sources before signing.
+5. Verify the Chinese exporter's 2026 export-licence status, brand authorisation and battery documents.
+6. Confirm in writing whether any third-EAEU-country transit is permissible for your shipment; align Incoterms, payment schedule and marine insurance with the certification lead time.
+## Points to Hold Back From a Customer Quote Until Confirmed
+- Any specific EV import-duty percentage (sources conflict; no FTS primary captured).
+- Any specific date on which a personal-import ERA-GLONASS exemption began or ended.
+- Any blanket statement that EAEU transit routing is prohibited (or permitted).
+- A final landed cost built from press percentages rather than the current tariff and fee schedule.
 ## Frequently Asked Questions
-
-**Does an EV need EAEU type approval?** Yes — EVs, PHEVs and HEVs are within the mandatory scope of TR CU 018/2011; ordinary road cars do not benefit from the listed exemptions.
-**OTTC or SBKTS?** OTTC for repeated/batch imports of a model; SBKTS is the per-vehicle route typically used for single/used units — confirm current scope with an accredited body.
-**Is ERA-GLONASS really required again?** Per Moscow Tesla Club it became mandatory again from 1 April 2026; confirm scope and approved fitment officially, as no primary Russian source was captured here.
-**What is the import duty on an EV?** Figures such as a 48%-starting personal unified tariff and 20% legal-entity VAT come from Russian media and must be confirmed against the FTS; do not rely on them for pricing.
-**Can I still route via Belarus/Kazakhstan/Kyrgyzstan?** A 2026 industry source says direct import is required and such transit is prohibited, but this needs the official customs instruction before you rely on it.
-
+**Does a Chinese EV need EAEU type approval?** Yes — ordinary road EVs are within the mandatory scope of TR CU 018/2011 (Customs Union Commission Decision No. 877, 2011); choose OTTC for batches or SBKTS for single/used units.
+**Is ERA-GLONASS mandatory?** The emergency-call requirement for M/N vehicles sits in TR CU 018/2011; the exact treatment of single/personal imports changes by implementing decision, so confirm the current requirement and approved fitment with an accredited body for your route.
+**What is the EV import duty?** This article does not state a percentage: Russian-language sources conflict (zero vs a high 2026 rate) and no FTS/EEC primary decision was captured. Classify HS 8703.80 and confirm the live rate before pricing.
+**What changed on the China side in 2026?** From 1 January 2026 pure-electric passenger vehicles are under an export-licence regime (joint Announcement No. 54), and exporters must qualify under the 2026 MOFCOM application/list process.
+**Why must the importer name match everywhere?** The OTTC/SBKTS holder, the customs importer of record and the invoice consignee must be the same EAEU entity; mismatches block clearance and registration even when duty is paid.
 ## Sources & Verification
-
-| Source title | Organization | Market | URL | Checked | Supported facts |
-|---|---|---|---|---|---|
-| OTTC/access of Chinese carmakers under tighter Russian oversight | CCPIT 贸企通 (official trade body) | RU/EAEU | https://www.eccpit.com/news/Y21zcG86MjAzNTE | 2026-09-02 | TR CU 018/2011 scope; EV/PHEV/HEV mandatory; exemptions |
-| How to bring an EV into Russia | BATTKA.ru (Russian-language media) | RU | https://battka.ru/zhurnal/kak-privesti-elektromobil-v-rossiyu/ | 2026-09-02 | Personal unified tariff from 48% (media; FTS confirmation needed) |
-| 2026 EV customs clearance, taxes, util-fee, GLONASS | Moscow Tesla Club (RU specialist media) | RU | https://moscowteslaclub.ru/article/rastamozhka-elektromobilya-2026-nalogi-utilsbor-i-import-pod-klyuch/ | 2026-09-02 | ERA-GLONASS mandatory again 2026-04-01; SBKTS |
-| Hidden costs of importing a China car 2026 | VestaXray.ru (RU media) | RU | https://vestaxray.ru/faq/rastamozhka-avto-iz-kitaya-v-rossiyu-2026.html | 2026-09-02 | Legal-entity 20% VAT (media; tax-authority confirmation needed) |
-| Used Xiaomi SU7 export to Russia 2026 | GoldenLane Auto (export service) | RU | https://goldenlaneauto.com/news/used-xiaomi-su7-from-china-for-export-to-russia-2026-spec-price-shipping/ | 2026-09-02 | Used-car SBKTS; 2026 utilisation-fee increases |
-| 2026 B2B export guide for China cars to Russia | Electric Auto China (industry) | RU | https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-chinese-cars-in-russia-market-pri/ | 2026-09-02 | April-2026 direct-import / no-transit claim (single source) |
-| 2026 Central Asia import policy shake-up | EX1000 (industry) | RU/Central Asia | https://www.ex1000.com/en/news/513-2026-central-asia-auto-import-policy-shake-up-tariffs-certification-subsidies | 2026-09-02 | EAC tightening, Euro 6 transition, GLONASS |
-
-*Verification note: the TR CU 018/2011 framework is official/backed (CCPIT). Duty/VAT percentages, the no-transit rule, GLONASS fee schedule and the China export-licence framework were not captured from primary FTS/MOFCOM sources and are deliberately presented as claims to confirm — not settled law. Re-verify all TIME_SENSITIVE items at transaction time.*
-
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+|---|---|---|---|---|---|---|
+| TR CU 018/2011 consolidated text (adopted by Customs Union Commission Decision No. 877, 09.12.2011) | Eurasian Economic Union legal register (**regulator official**) | EAEU | https://regulation.eaeunion.org/ (Decision 877; TR CU 018/2011) | 2026-09-03 | **VERIFIED** | Regulation scope (L/M/N/O), adoption decision, in-force date, ERA-GLONASS framework |
+| Decision No. 877 legal text (mirror for citation) | Kontur.Normativ (legal database citing the official decision) | EAEU | https://normativ.kontur.ru/document?documentId=500085&moduleId=9 | 2026-09-03 | CROSS_CHECKED | Decision number/date and entry into force |
+| 2026 automobile/motorcycle export-licence application notice (商办贸函〔2025〕408号) | MOFCOM (**government official**) | CN | https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_7c50d6688ca34d1786a1bfd2ccde7d19.html | 2026-09-03 | **VERIFIED** | 2026 application system/process, local review, qualified list |
+| Pure-EV passenger export licensing (Announcement No. 54, 2025; from 2026-01-01, HS 8703801090) | MOFCOM / MIIT / GAC / SAMR (**government official**) | CN | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-03 | **VERIFIED** | 2026 EV export-licence regime and HS reference |
+| 2026 qualified export-licence enterprise list | MOFCOM Foreign Trade Dept (**government official**) | CN | http://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_6685d244c4f4429e9a749a1a9f34bf19.html | 2026-09-03 | **VERIFIED** | Current-year qualified-enterprise list |
+| EV customs clearance / SBKTS / EPTS process (background) | Russian-language industry outlets (BATTKA, FindCert; media) | RU | https://findcert.ru/news/rastamozhka-elektromobilya-v-rossii/ | 2026-09-03 | SINGLE_SOURCE | OTTC/SBKTS/EPTS process background; duty figures NOT adopted (conflict) |
+*Confidence note: the regulatory backbone (TR CU 018 / Decision 877) and the China 2026 export-licence rule are VERIFIED from regulator/government sources. Specific EV duty percentages, VAT/utilisation-fee numbers, personal-import ERA-GLONASS reinstatement dates and any no-transit rule were NOT supported by a captured FTS/EEC primary source, conflict across media, and are deliberately left as verification items rather than stated as fact.*
 ## Editorial Review
-- **Reviewed by**: AutoBridge Export Sourcing Team
-- **Last reviewed**: 2026-09-02
+- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/autobridge-export-sourcing-team/) · method per our [Editorial Policy](/about/editorial-policy/)
+- **Last reviewed**: 2026-09-02 · **Second-round source revision**: 2026-09-03 (regulation anchored to Decision 877; unsupported duty/date/transit claims removed to verification items; China 2026 export rule upgraded to official)
 - **Reference market**: Russia / EAEU
-- **Verification method**: Official-body source for the regulatory backbone; media/industry figures explicitly downgraded and flagged for FTS confirmation
-- **Content status**: QA_PASS (Master/EN)
+- **Verification method**: Regulator/government primary sources for settled rules; conflicting media figures withheld rather than asserted; every time-sensitive item routed to a named authority for live confirmation
+- **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS (unsupported numeric claims removed) · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off

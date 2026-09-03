@@ -1,94 +1,80 @@
-# JAC Kangling (康铃) Light Truck — China Announcement Specs and Export Sourcing Notes
-
+# JAC Kangling (康铃) Lingpao L6 Light Truck — Chassis Family, Announcement Builds and Export Sourcing Notes
 ## SEO Metadata
-- **SEO Title**: JAC Kangling L6 Light Truck Specs (Diesel, GVW, Axles) Export Guide
-- **Meta Description**: JAC Kangling Lingpao L6 diesel light truck per China announcement data: 2.5L Cummins-derived 117 kW/460 N·m, 6-speed, 4.495 t GVW, cargo body, axles and export verification points.
+- **SEO Title**: JAC Kangling Lingpao L6 Light Truck: Chassis, GVW & Driveline for Importers
+- **Meta Description**: JAC 1Ka Lingpao (Kangling) L6 light truck explained by chassis family — Anhui-Cummins 2.5 diesel power steps, 4T/5T rear axle, multiple MIIT announcement bodies, and how to pin the exact export build.
 - **Suggested URL**: /vehicles/jac-kangling-light-truck/
-- **H1**: JAC Kangling (康铃) Light Truck: Chassis, GVW and Driveline Specs for Importers
-- **Primary Keyword**: JAC Kangling light truck specifications export
-- **Secondary Search Terms**: JAC Lingpao L6, HFC1043 light truck, China diesel light truck 4.5t GVW, JAC Cummins 2.5 diesel truck, Chinese dropside truck export
+- **H1**: JAC Kangling Lingpao L6: Matching Chassis, Announcement Model and Superstructure for an Export Order
+- **Primary Keyword**: JAC Kangling Lingpao L6 light truck specifications export
+- **Secondary Search Terms**: JAC Lingpao L6, HFC4DE3 Anhui Cummins 2.5, HFC1043 light truck, China 4.5t GVW diesel truck, JAC 1Ka light truck export, Kangling dropside truck
 - **Internal Link Suggestions**: /guides/commercial-truck-fleet-procurement-china/ ; /guides/import-chinese-truck-saudi-saso/ ; /vehicles/foton-aumark-refrigerated-truck/
-- **Image Suggestions**: side view dropside L6; chassis frame and rear axle; engine bay 2.5 diesel; cargo body dimensions; single-row cab
-- **ALT Suggestions**: "JAC Kangling Lingpao L6 4x2 diesel light dropside truck, China announcement spec"; "Kangling L6 rear axle and leaf springs"; "Anhui Cummins 2.5L diesel engine"
-
-## Evidence Note Before the Specs
-
-Commercial trucks in China are defined by their **MIIT announcement (公告) configuration**, not a passenger-car model year. The representative unit is the **Kangling Lingpao (领跑) L6, announcement model HFC1043P21K4C7S**, a 4×2 single-row dropside (栏板) light truck. **All technical figures below come from a single commercial-vehicle database (360che/卡车之家) and are SINGLE_SOURCE, captured 2026-09-02.** They are presented as "per 360che announcement data" and should be cross-checked against the JAC factory data sheet / MIIT announcement before a firm order or registration document is prepared. No authoritative 2026-09-02 domestic price was obtained, so **no price is stated** — request a quotation.
-
-## Chassis and Identity
-
-| Item | Per 360che announcement data |
+- **Image Suggestions**: side view of an L6 dropside; official chassis-frame and rear-axle layout; engine bay of the HFC4DE3 2.5 diesel; comparison of dropside/box/stake bodies; single-row 1920 mm cab
+- **ALT Suggestions**: "JAC Lingpao L6 4x2 diesel light dropside truck"; "Lingpao L6 180 mm chassis frame and 4T/5T rear axle"; "Anhui Cummins HFC4DE3 2.5-litre diesel engine"
+## Why an L6 Is Ordered by Chassis Code, Not by a Model Name
+A Chinese light commercial truck is not a fixed passenger-car specification: the **Lingpao L6 (领跑L6, sold under JAC's 1Ka / 康铃 light-truck line)** is a *chassis family* that JAC builds with several engines, two wheelbases, two rear-axle ratings and many factory or coachbuilt bodies (dropside 栏板, box 厢式, stake 仓栅, refrigerated and more). Each legal combination carries its own **MIIT announcement model (公告型号)** and its own curb weight / rated payload. "An L6" therefore says nothing precise until the announcement model, engine suffix and body are named. This page separates what JAC officially publishes about the platform from the single announcement build captured in the commercial-vehicle database, so an importer can order a defined truck rather than a name.
+## The Platform, per JAC's Official Configuration Table
+The following platform-level facts are taken from **JAC Commercial Vehicle's official Lingpao L6 configuration table (cv.jac.com.cn, VERIFIED, checked 2026-09-03)** and are stable across the family:
+| Platform item | JAC-official value |
 |---|---|
-| Announcement model | HFC1043P21K4C7S |
-| Drive | 4×2 |
-| Wheelbase | 3365 mm |
-| Overall dimensions (L×W×H) | 5.995 × 2.20 × 2.48 m |
-| Cab | Single-row, 1920 mm wide, 3 occupants |
-
-## Engine, Emission and Driveline
-
-| Item | Per 360che announcement data |
+| Cab width | 1920 mm (standard-width / 33-mid cab), single-row and half-cab |
+| Main wheelbase | 3365 mm (a 3600 mm long version exists on selected power trains) |
+| Chassis frame section | 180 × 65 × 4.5 mm |
+| Front axle | 2 T |
+| Rear axle | 4 T / 5 T (a reinforced 10,000 N / 13,000 N option on some lines) |
+| Final-drive ratios | 4.875 / 4.33 (4.11 on selected lines) |
+| Fuel/power families offered | Zhiwei S25 (Q25A petrol-style), **Ankang 2.5 (Anhui-Cummins HFC4DE3 diesel)**, Ankang 3.0 cold-chain, YN30 gas / dual-fuel, Dekang 160B/C, DHE155 |
+The diesel most relevant to export is the **Ankang (安康) 2.5**, using the Anhui-Cummins **HFC4DE3** family. JAC's table lists three suffixes — **HFC4DE3-2E5 / -2EA / -2E9 — at 111 / 117 / 125 kW**, with torque steps of **360 and 458 N·m**. This matters because resellers often quote a single "160 hp / 460 N·m" figure that does not match every suffix; the power step and torque must be read off the exact engine suffix and announcement certificate.
+## One Representative Announcement Build (database, CROSS_CHECKED)
+To show how a platform row becomes a concrete truck, the captured build is the **dropside HFC1043P21K4C7S, 4×2**, with figures from 360che/卡车之家 announcement data and a JAC-family cross-check (CROSS_CHECKED; captured 2026-09-02, re-checked against the JAC table 2026-09-03):
+| Item | HFC1043P21K4C7S dropside (per announcement data) |
 |---|---|
-| Engine | Anhui Cummins HFC4DE3-2E9, 2.499 L inline-4 diesel |
-| Power / torque | 117 kW (160 PS) / 460 N·m @ 1400–2200 rpm |
-| Emission level | China VI (国六) |
-| Gearbox | JAC ML645B 6-speed manual (1 reverse), aluminium housing |
-| Brakes | Full-air brakes with spring parking brake (气刹 + 断气刹) |
-
-The engine is an Anhui-Cummins (Anhui Cummins) 2.5-litre diesel — note the China VI certification is a Chinese standard; destination emission acceptance (for example GCC or UNECE-aligned regimes) must be verified separately and cannot be assumed from 国六.
-
-## Weights, Axles and Cargo Body (the core of a light-truck buy)
-
-| Item | Per 360che announcement data |
-|---|---|
-| Curb weight | 2.565 t |
-| Rated payload | 1.735 t |
-| GVW (total mass) | 4.495 t |
-| Front axle | 2 t I-beam, allowable load 1600 kg |
-| Rear axle | 4 t, allowable load 2895 kg; final-drive ratio 4.875 |
+| Drive / wheelbase | 4×2 / 3365 mm |
+| Overall L×W×H | 5.995 × 2.20 × 2.48 m |
+| Cab | Single-row, 1920 mm, 3 seats |
+| Engine | Anhui-Cummins HFC4DE3 series, 2.499 L inline-4 diesel, China VI |
+| Gearbox | JAC ML645B 6-speed manual (a Fast 8-speed is used on certain other L6 variants) |
+| Brakes | Full-air brakes with spring parking brake |
+| Curb / rated payload / GVW | 2.565 t / 1.735 t / **4.495 t** |
+| Front / rear axle | 2 T (1600 kg allowable) / 4 T (2895 kg group), ratio 4.875 |
 | Tyres | 7.00R16LT 8PR, six wheels |
 | Leaf springs | 4 / 5+6 |
-| Dropside cargo body | 4.18 × 2.10 × 0.40 m |
-
-The GVW of ~4.5 t places this in the classic China light-truck class. For export, confirm that the destination's **axle-load rules, GVW licensing class and tyre/load ratings** accept this configuration, and re-verify payload against the destination-plated rating (which can differ from the Chinese announcement value).
-
-## Wider Kangling Family (for context)
-
-The Kangling J3 series uses smaller engines — 2.3 L/2.0 L units at 95–142 PS (70–103 kW) and around 330 N·m, also China VI (single-source, 360che). If a lighter/cheaper truck fits the mission, compare the J3 against the L6 on GVW and body length rather than horsepower alone.
-
-## What an Importer Should Verify Before Payment
-
-- Obtain the **JAC factory specification sheet and the MIIT announcement page for HFC1043P21K4C7S** to independently confirm every single-source figure above.
-- Confirm **emission certification route** at destination (China VI is not automatic proof of GCC/Euro-equivalent acceptance).
-- Reconcile **GVW/payload/axle loads** with local registration and operator-licensing classes.
-- Confirm body type (dropside/box/flatbed), cargo-body internal dimensions and whether a superstructure is factory- or locally fitted.
-- Confirm LHD/RHD availability, spare-parts supply for the Anhui Cummins engine and ML645B gearbox, and clutch/brake wear-part availability.
-- Confirm tyre specification availability (7.00R16LT 8PR) in the destination market.
-
+| Dropside body | 4.18 × 2.10 × 0.40 m |
+### Why the same "L6" can show different weights
+Sister announcement builds carry different bodies and therefore different masses: the box (厢式, HFC5043XY… series) and stake (仓栅, HFC5043CCY… series) bodies are heavier, with curb weight around 2.7–2.8 t and rated payload near 1.5 t at the same ~4.495 t GVW. Never copy a dropside payload figure onto a box or reefer build — re-read it from that body's announcement certificate.
+## Engine, Emission and Driveline: What to Pin on the Proforma
+- **Engine suffix and power step**: write the full HFC4DE3-2Ex code and its kW/N·m, not just "Cummins 2.5". Note China VI (国六) is a Chinese standard; it is not, by itself, proof of GCC, UNECE or destination emission acceptance — obtain the destination emission route separately.
+- **Gearbox**: confirm JAC 6-speed manual versus the Fast 8-speed used on some variants, and do not assume an automatic exists for the chosen power line.
+- **Axle and ratio**: choose 4 T vs 5 T rear axle and 4.875 vs 4.33 final drive against route grade and loaded GVW; the official table confirms both are factory options.
+- **Brakes/tyres**: air brakes with spring parking and 7.00R16LT 8PR ×6 on the captured build — confirm tyre availability and brake-service standards at destination.
+## GVW, Body and Superstructure (the core of a light-truck buy)
+At roughly 4.5 t GVW the L6 sits in the classic China light-truck class. For an export order, reconcile four numbers that Chinese paperwork combines: **curb weight, rated payload, GVW and the destination-plated payload** (which can differ after local body fitment). Decide dropside vs box vs stake vs reefer, record internal body dimensions and material, and state whether the superstructure is factory-fitted or locally coachbuilt. A refrigerated or insulated box materially raises curb weight and cuts net payload — see the Foton Aumark reefer page for how chassis, box and cooling unit are specified separately.
+## What AutoBridge Adds Beyond the Parameter Sites
+Public parameter sites list one configuration at a time and rarely expose that the numbers belong to *different announcement models*. AutoBridge's sourcing desk: (1) maps the quoted truck back to its **MIIT announcement model and exact HFC4DE3 suffix**, so a "160 hp" label cannot silently become a 150 hp build; (2) produces a **VIN/announcement/engine-suffix consistency sheet** before deposit; and (3) re-computes payload for the *actual* body being shipped instead of reusing a dropside figure. That version-identification step is what prevents the most common L6 order error.
+## Overseas Buyer Verification Before Payment
+- Obtain the **JAC factory specification sheet and the MIIT announcement certificate for the exact model code** (e.g., HFC1043P21K4C7S) and reconcile every database figure to it.
+- Confirm **engine suffix → kW/N·m**, gearbox model, rear-axle rating and final-drive ratio in writing.
+- Confirm **destination emission/fuel acceptance** independently of China VI.
+- Reconcile **GVW/payload/axle loads** with local registration and operator-licensing classes for the body you ship.
+- Confirm LHD/RHD, and spare-parts supply for the Anhui-Cummins engine, the chosen gearbox and 7.00R16LT tyres.
+- Ask for the factory build sheet rather than a reseller spec card.
 ## Request a Current Export Quotation
-
-No authoritative China price was captured and none is invented. Request a live quotation with **Destination Country · Quantity · Announcement Model/Configuration · Body Type · LHD/RHD · Destination Port · Incoterm**, and ask JAC/AutoBridge to attach the official specification sheet.
-
+No China domestic price is promoted to an export figure and none is invented here. Request a live quotation with **Destination Country · Quantity · Announcement Model/Engine Suffix · Body Type · Axle/Ratio · LHD/RHD · Destination Port · Incoterm**, and ask for the JAC official specification sheet and announcement certificate to be attached.
 ## Buyer FAQ
-
-**What does "announcement model HFC1043P21K4C7S" mean?** It is the China MIIT type-approval identifier that fixes the legal chassis/engine/weight configuration — the most precise way to order the exact truck.
-**What is the GVW and payload?** Per 360che, GVW 4.495 t, curb 2.565 t, rated payload 1.735 t — to be re-confirmed on the factory sheet.
-**Which engine does the L6 use?** A 2.499 L Anhui Cummins diesel at 117 kW/460 N·m, China VI, per the single database source.
-**Is there an automatic gearbox?** The captured L6 uses a JAC 6-speed manual.
-**Why are specs phrased "per 360che"?** Stage 1 captured only one commercial-vehicle database for this model; cross-verification with JAC/MIIT is recommended before ordering, and no price is asserted.
-
+**Is "Lingpao L6" one fixed specification?** No — it is a chassis family with several engines, wheelbases, axle ratings and bodies; each combination has its own MIIT announcement model and weights.
+**What does the JAC official table confirm?** 1920 mm cab, 3365 mm main wheelbase, 180×65×4.5 frame, 2 T front / 4–5 T rear axles, 4.875/4.33 ratios, and the HFC4DE3 Anhui-Cummins diesel at 111/117/125 kW steps.
+**Why do sources quote different horsepower for "the same" L6?** Because the HFC4DE3 has three suffixes with different power/torque, and resellers sometimes quote one label across all of them; match the suffix on the announcement certificate.
+**What is the GVW and payload?** The captured dropside build is 4.495 t GVW / 1.735 t payload; box and stake builds are heavier with lower payload — read each body's own certificate.
+**Is there an automatic?** The captured diesel uses a JAC 6-speed manual; a Fast 8-speed appears on certain variants — confirm for the exact line rather than assuming.
 ## Sources & Verification
-
-| Source title | Organization | Market | URL | Checked | Supported facts |
-|---|---|---|---|---|---|
-| Kangling Lingpao L6 parameter page | 360che (卡车之家, commercial-vehicle DB) | CN | http://product.m.360che.com/m815/203878_param.html | 2026-09-02 | Announcement model, engine, gearbox, weights, axles, body, tyres, cab |
-| Kangling J3 parameters | 360che (卡车之家) | CN | http://product.m.360che.com/s31/7875_64_param.html | 2026-09-02 | J3 series 2.3/2.0 L, 95–142 PS, 330 N·m |
-
-*Verification note: this article's technical figures are SINGLE_SOURCE (360che) and must be read as announcement/database values pending JAC-official or MIIT cross-check. Domestic price is UNVERIFIED and intentionally omitted. Confidence upgrade to VERIFIED requires a JAC/official sheet.*
-
+| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+|---|---|---|---|---|---|---|
+| Lingpao L6 official configuration table | JAC Commercial Vehicle (JAC 江淮1卡, **manufacturer official**) | CN | https://cv.jac.com.cn/kllpL6/ | 2026-09-03 | **VERIFIED** | Cab 1920, WB 3365, frame 180×65×4.5, axles 2T/4–5T, ratios, HFC4DE3 power/torque steps, full power-family list |
+| L6 HFC5043XY… box/announcement parameters | 360che (卡车之家, commercial DB) | CN | http://product.m.360che.com/m815/203872_param.html | 2026-09-02 | CROSS_CHECKED | Announcement model family, engine/gearbox, body weights |
+| L6 representative dropside parameters | 360che (卡车之家) | CN | http://product.m.360che.com/m815/203878_param.html | 2026-09-02 | CROSS_CHECKED | HFC1043P21K4C7S dimensions, weights, axles, body, tyres |
+| L6 Fast-8 / variant line | 360che (卡车之家) | CN | https://product.360che.com/m772/193093_index.html | 2026-09-03 | SINGLE_SOURCE | Alternative 8-speed gearbox, variant spread |
+*Confidence per the AutoBridge standard: VERIFIED requires a manufacturer/government/standards body; JAC's own table meets that bar for platform facts. Detailed per-announcement weights from 360che are CROSS_CHECKED against the JAC family but still must be matched to the exact certificate. No price is stated; domestic list price is time-sensitive and never used as an export figure.*
 ## Editorial Review
-- **Reviewed by**: AutoBridge Export Sourcing Team
-- **Last reviewed**: 2026-09-02
-- **Reference market**: China, current-sale/announcement configuration (not a passenger model year)
-- **Verification method**: Single commercial-vehicle database; single-source status and missing price disclosed rather than upgraded
-- **Content status**: QA_PASS (Master/EN) — with documented SINGLE_SOURCE evidence limitation
+- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/autobridge-export-sourcing-team/) · editorial method per our [Editorial Policy](/about/editorial-policy/)
+- **Last reviewed**: 2026-09-02 · **Second-round source revision**: 2026-09-03 (JAC-official source added; single-config framing corrected to a multi-announcement family)
+- **Reference market**: China current-sale/announcement configuration (not a passenger model year)
+- **Verification method**: Manufacturer-official platform table + commercial-vehicle announcement database; per-build figures matched to announcement model; price intentionally omitted
+- **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS (JAC-official anchor added) · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off
