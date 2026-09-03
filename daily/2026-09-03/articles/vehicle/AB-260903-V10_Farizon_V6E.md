@@ -6,7 +6,7 @@
 - **H1**: Farizon Xingxiang V6E (Chinese-Market): Electric Cargo Van Specs and Export Verification
 - **Primary Keyword**: farizon v6e electric cargo van specs
 - **Secondary Search Terms**: Xingxiang V6E range, Farizon electric delivery van, 6m3 electric van, V6E 35.2 kWh, Farizon Türkiye export, electric city logistics van
-- **Internal Link Suggestions**: /vehicles/saic-maxus-v90-specs/ ; /vehicles/byd-dolphin-2025-specs/ ; /guides/ev-shipping-un3171-imdg-compliance/
+- **Internal Link Suggestions**: /vehicles/saic-maxus-v90-specs/ ; /vehicles/byd-dolphin/ ; /guides/ev-shipping-un3171-imdg-compliance/
 - **Image Suggestions**: cargo bay with dimensions; side loading door; motor/battery layout; leaf-spring rear axle; EU-spec export batch
 - **ALT Suggestions**: "Farizon V6E six cubic metre electric cargo van"; "V6E battery grades and range"
 
@@ -31,14 +31,14 @@ For a logistics van, buyers should weigh **cargo volume, payload (confirm on the
 - Quote pack kWh **and** range **and** range cycle/condition together; never attach the newer 51 kWh number to a base VIN. Confirm AC/DC charging provision and charge time per build.
 
 ## Documented Export Record (fact, not an alias)
-China Transport News (official industry media) records that in **February 2024 an initial batch of EU-specification V6E vans was exported to Türkiye**, described as Farizon's first entry into that market, in 6 m³ form. This is an **export-delivery record**: it confirms a European-standard build was shipped, but it does **not** make the Türkiye EU-spec van identical to the China 35.2/51 kWh builds — treat export configuration separately and request its spec sheet.
+China Transport News (an industry news outlet) reports that in **February 2024 an initial batch of EU-specification V6E vans was exported to Türkiye**, described as Farizon's first entry into that market, in 6 m³ form. This is an **export-delivery record**: it confirms a European-standard build was shipped, but it does **not** make the Türkiye EU-spec van identical to the China 35.2/51 kWh builds — treat export configuration separately and request its spec sheet.
 
 ## What Importers Should Verify Before Payment
 1. **Battery build (35.2 vs ~51 kWh) and range cycle** matched to VIN/model year.
 2. **Payload, GVW, cargo volume and rear-axle** on the homologated code; leaf-spring ride vs cargo needs.
 3. **Charge interface** (GB/T on China builds) vs destination standard; AC/DC provision.
 4. **EU-spec vs China-spec differences** for any Türkiye/Europe-bound order (lighting, conformity, software).
-5. **90 km/h speed limit** suitability; **UN38.3/MSDS and UN3171** EV shipping documents; cluster/telematics language.
+5. **90 km/h speed limit** suitability; **UN38.3/MSDS and under IMDG Amendment 42-24 (mandatory from 2026-01-01) a lithium-ion-battery-powered vehicle is classified UN3556, not the legacy generic UN3171; apply documentation/SOC details per the current EV shipping Fact Sheet and the carrier (see the EV ocean-compliance guide)** EV shipping documents per the current Fact Sheet; cluster/telematics language.
 
 ## Request a Current Export Quotation
 No static export price and no China MSRP were captured; none is invented. Enquire with **Destination Country · Battery Build · Quantity · LHD/RHD · Destination Port · Incoterm**.
@@ -54,10 +54,10 @@ No static export price and no China MSRP were captured; none is invented. Enquir
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
 | V6E reveal (motor/0–50/speed limit) | Truck Home / Toutiao | CN | http://m.toutiao.com/group/7064810099012895240/ | 2026-09-03 | CROSS_CHECKED | 60 kW/220 N·m, 90 km/h limit, leaf-spring axle |
-| V6E EU-spec export to Türkiye (6 m³) | China Transport News (official industry media) | CN media (export record: TR) | https://www.zgjtb.com/m/2024-02/01/content_398656.html | 2026-09-03 | VERIFIED | Feb-2024 EU-spec Türkiye batch, 6 m³ |
+| V6E EU-spec export to Türkiye (6 m³) | China Transport News (industry news media) | CN media (export record: TR) | https://www.zgjtb.com/m/2024-02/01/content_398656.html | 2026-09-03 | CROSS_CHECKED | Feb-2024 EU-spec Türkiye batch, 6 m³ (news record, not OEM/government; not VERIFIED) |
 | Light-commercial report (35.2 kWh/260 km/6 m³) | Sohu Auto | CN | https://m.sohu.com/a/931378694_121823499/ | 2026-09-03 | CROSS_CHECKED | Base battery/range, cargo volume |
 | 2026 V6E (51 kWh/355 km) | Sohu Auto database | CN | http://db.auto.sohu.com/model_6721/a/990472906_120063592 | 2026-09-03 | TIME_SENSITIVE | Newer-build battery/range |
-*Confidence note: the Türkiye export record is VERIFIED (official industry media) and treated strictly as a delivery record, not a model-alias proof. Base motor/range are cross-checked; the newer 51 kWh build is time-sensitive. China GB/T and EU-spec builds are kept distinct per MODEL_ALIAS / SOURCE_SCOPE rules.*
+*Confidence note: the Türkiye export record is CROSS_CHECKED industry-news reporting (news/industry media is not VERIFIED — only OEM/government/regulator/standards/formal technical documents reach VERIFIED); treated strictly as a delivery record, not a model-alias proof. Base motor/range are cross-checked; the newer 51 kWh build is time-sensitive. China GB/T and EU-spec builds are kept distinct per MODEL_ALIAS / SOURCE_SCOPE rules.*
 
 ## Editorial Review
 - **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)

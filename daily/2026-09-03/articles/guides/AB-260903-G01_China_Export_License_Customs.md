@@ -36,7 +36,7 @@ A clean declaration rests on mutually consistent documents:
 4. **Packing list**;
 5. **Certificate of origin**;
 6. **Third-party inspection report** where required;
-7. **For EVs/hybrids:** battery **UN38.3 test report and MSDS** (see the UN3171/IMDG guide).
+7. **For EVs/hybrids:** battery **UN38.3 test report and MSDS**, plus the ocean dangerous-goods paperwork. Under IMDG Amendment 42-24 (mandatory from 2026-01-01) a lithium-ion-battery-powered vehicle is classified UN3556, not the legacy generic UN3171; apply documentation/SOC details per the current EV shipping Fact Sheet and the carrier (see the EV ocean-compliance guide).
 Names, VINs, quantities, values and HS codes must agree across invoice, packing list, B/L and licence — customs and the destination broker both reject inconsistent sets.
 
 ## Step 5 — Enterprise/Product Admission Behind the Paperwork

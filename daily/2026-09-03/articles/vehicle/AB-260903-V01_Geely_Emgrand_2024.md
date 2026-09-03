@@ -2,11 +2,11 @@
 ## SEO Metadata
 - **SEO Title**: Geely Emgrand 2024 (4th Gen) Specs & Export Buyer Guide
 - **Meta Description**: Chinese-market 4th-generation Geely Emgrand 2024 — 1.5L 93 kW engine, 5MT/CVT, dimensions, the 4th-gen vs all-new 5th-gen distinction, and what importers must verify before ordering.
-- **Suggested URL**: /vehicles/geely-emgrand-2024-specs/
+- **Suggested URL**: /vehicles/geely-emgrand/
 - **H1**: Geely Emgrand 2024 (4th Generation): Chinese-Market Specs and Export Checks
 - **Primary Keyword**: geely emgrand 2024 specs export
 - **Secondary Search Terms**: Geely Emgrand 1.5L CVT, 4th generation Emgrand dimensions, Chinese entry sedan export, Geely Emgrand 93kW, Emgrand model year difference
-- **Internal Link Suggestions**: /vehicles/changan-cs75-plus-2024-specs/ ; /guides/vehicle-coc-type-approval-dossier/ ; /guides/container-vehicle-loading-lashing/
+- **Internal Link Suggestions**: /vehicles/changan-cs75-plus/ ; /guides/vehicle-coc-type-approval-dossier/ ; /guides/container-vehicle-loading-lashing/
 - **Image Suggestions**: front three-quarter of 4th-gen Emgrand; 5MT vs CVT drivetrain note; rear-seat and boot space; engine bay 1.5L badge
 - **ALT Suggestions**: "Geely Emgrand fourth generation 1.5L sedan"; "Emgrand 2024 dimensions and wheelbase"
 

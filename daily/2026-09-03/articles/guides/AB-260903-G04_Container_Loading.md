@@ -6,7 +6,7 @@
 - **H1**: Container Vehicle Loading and Lashing: Counts, Racks, Sequence and Pre-Seal Checks
 - **Primary Keyword**: how many cars fit 40hq container loading lashing
 - **Secondary Search Terms**: 40HQ two SUV, double deck car rack container, vehicle lashing straps wheel tie down, RoRo to container conversion, container car loading sequence
-- **Internal Link Suggestions**: /guides/vehicle-pre-shipment-inspection-psi/ ; /guides/ev-shipping-un3171-imdg-compliance/ ; /vehicles/changan-cs75-plus-2024-specs/
+- **Internal Link Suggestions**: /guides/vehicle-pre-shipment-inspection-psi/ ; /guides/ev-shipping-un3171-imdg-compliance/ ; /vehicles/changan-cs75-plus/
 - **Image Suggestions**: side-view stowage diagram; wheel lashing points; pull-out double rack; top+bottom loading order
 - **ALT Suggestions**: "40HQ two SUV side stowage"; "wheel tyre lashing eight straps"
 
@@ -15,8 +15,8 @@
 
 ## Realistic Loading Bands (from documented practice)
 - **No rack, conventional:** a 40HQ typically carries **two mid/large SUVs** (examples cited are ~4.9 m class such as ID.6 / Range-Rover / Prado / Li L7-scale vehicles) (single-source forwarder diagram).
-- **With a sliding pull-out double-deck rack:** an **"upper 2 + lower 2" = four SUVs** arrangement has been put into practice at Yantai port in a "RoRo-to-container" trial (cross-checked).
-- **Sedans / China-Europe rail:** **three vehicles per box** is a common arrangement in rail/sedan practice.
+- **With a sliding pull-out double-deck rack:** an **"upper 2 + lower 2" = four SUVs** arrangement was reported in one Yantai-port "RoRo-to-container" trial (single-source).
+- **Sedans / China-Europe rail:** **three vehicles per box** appears in China-Europe rail/sedan practice reporting (single-source).
 These are reference points, not entitlements: a high-roof van, a pickup or a long executive car changes the count, and rack loading needs certified equipment and an approved plan.
 
 ## Lashing: Fix Through the Tyres, Not the Body
@@ -42,7 +42,7 @@ Adapted from documented container-loading method:
 5. **Door clearance** — enough margin to close and seal; record photos of the stow before sealing.
 
 ## EV-Specific Note
-An EV/hybrid inside a container still carries a traction battery: follow the **UN3171/IMDG** documentation and any carrier SOC/state-of-charge instruction (see the EV shipping guide); disconnect/prepare the 12 V system per the carrier's requirement and do not assume an internal-combustion stowage SOP covers an EV.
+An EV/hybrid inside a container still carries a traction battery: follow the ocean dangerous-goods documentation and any carrier SOC/state-of-charge instruction. under IMDG Amendment 42-24 (mandatory from 2026-01-01) a lithium-ion-battery-powered vehicle is classified UN3556, not the legacy generic UN3171; apply documentation/SOC details per the current EV shipping Fact Sheet and the carrier (see the EV ocean-compliance guide) Disconnect/prepare the 12 V system per the carrier and do not assume an internal-combustion stowage SOP covers an EV.
 
 ## What This Guide Recommends You Lock Before Booking
 - A **measured load plan** for the exact models (length/width/height, mirrors folded), not a generic "two or four" promise.
@@ -61,15 +61,15 @@ An EV/hybrid inside a container still carries a traction battery: follow the **U
 ## Sources & Verification
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Vehicle stowage side-view (2/box, 8 straps) | Freight-forwarder material | Global | https://m.11467.com/product/d42473652.htm | 2026-09-03 | CROSS_CHECKED | 2-SUV no-rack; ~8 straps; wheel method |
-| Yantai port first 4-SUV "RoRo-to-container" trial | Qilu Evening News / Toutiao | CN | http://m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | CROSS_CHECKED | Upper2+lower2 rack; loading sequence |
-| China-Europe rail car loading (3/box) | Harbin Railway / Toutiao | CN | http://m.toutiao.com/group/6748371578787987979/ | 2026-09-03 | CROSS_CHECKED | Three-per-box sedan/rail reference |
-| Export container five-step loading method | NetEase | Global | https://www.163.com/dy/article/L42056IP05568MR2.html | 2026-09-03 | CROSS_CHECKED | Five-point stowage check |
-*Scope note: counts are documented-practice references, not guaranteed stowage; the exact number always depends on measured dimensions and an approved load plan. Carrier/terminal rules vary and should be confirmed at booking.*
+| Vehicle stowage side-view (2/box, 8 straps) | Freight-forwarder material | Global | https://m.11467.com/product/d42473652.htm | 2026-09-03 | SINGLE_SOURCE | 2-SUV no-rack; ~8 straps; wheel method (one source) |
+| Yantai port first 4-SUV "RoRo-to-container" trial | Qilu Evening News / Toutiao | CN | http://m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | SINGLE_SOURCE | Upper2+lower2 rack; loading sequence (one reported trial) |
+| China-Europe rail car loading (3/box) | Harbin Railway / Toutiao | CN | http://m.toutiao.com/group/6748371578787987979/ | 2026-09-03 | SINGLE_SOURCE | Three-per-box sedan/rail reference (one source) |
+| Export container five-step loading method | NetEase | Global | https://www.163.com/dy/article/L42056IP05568MR2.html | 2026-09-03 | SINGLE_SOURCE | Five-point stowage check (one source) |
+*Scope note (R4): each loading figure comes from a single, distinct source (all SINGLE_SOURCE) — no fact is corroborated by two independent sources, so none is labelled CROSS_CHECKED. Counts are documented-practice references, not guaranteed stowage; the exact number always depends on measured dimensions and an approved load plan, and carrier/terminal rules must be confirmed at booking.*
 
 ## Editorial Review
 - **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-03
+- **Last reviewed**: 2026-09-03 (R4 single-source re-grade)
 - **Reference market / scope**: Global logistics operation (method, not a fixed-count promise)
-- **Verification method**: Multi-source operational cross-check; single-source item labelled; no universal count asserted
+- **Verification method**: R4 single-source re-grade (each fact one source); operational guidance, no universal count asserted
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off

@@ -1,5 +1,6 @@
 # Certificate of Conformity vs Type Approval: a Dossier Map Exporters Keep Getting Wrong
 ## SEO Metadata
+> ⛔ **R4 HOLD — FACT_SOURCE_PASS=FAIL · CODEX_REVIEW_PENDING=FALSE · PUBLISH_APPROVED=FALSE.** EUR-Lex/UNECE/EAEU primary texts still missing in the Fact Sheet (R4). Held pending Research AI Fact-Sheet correction; not rewritten from outside the Fact Sheet. Do not publish or send to Codex until re-verified.
 - **SEO Title**: Vehicle CoC vs Type Approval (WVTA, OTTS, E-mark) Buyer Guide
 - **Meta Description**: Untangle China's domestic certificate of conformity from destination-market CoC, and EU WVTA, EAEU OTTS/EAC and e-mark/E-mark systems — so the right dossier reaches the registration desk.
 - **Suggested URL**: /guides/vehicle-coc-type-approval-dossier/
@@ -64,4 +65,5 @@ A bag of E-marked components does **not** equal a whole-vehicle WVTA, and a sing
 - **Last reviewed**: 2026-09-03
 - **Reference market / scope**: Global approval systems (China stack official; EU/EAEU/UNECE described from secondary sources)
 - **Verification method**: Framework mapping with explicit primary-source gap flagged per PRIMARY_SOURCE_SCOPE rule
-- **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off
+- **Quality gates (R4 HOLD)**: EDITORIAL_QA_PASS=PASS · **FACT_SOURCE_PASS=FAIL** (EUR-Lex/UNECE/EAEU primary texts missing; uncertainty disclosed is not a substitute for verified core facts) · SEO_PASS=PASS · **CODEX_REVIEW_PASS=FALSE (not eligible while FAIL)** · PUBLISH_APPROVED=FALSE
+- **Final Status = FACT_SOURCE_FAIL / AWAITING_RESEARCH** — held for Research AI Fact-Sheet correction; not rewritten from outside the Fact Sheet, no reserve invoked.

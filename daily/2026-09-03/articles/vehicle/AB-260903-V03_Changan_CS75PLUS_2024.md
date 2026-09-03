@@ -2,11 +2,11 @@
 ## SEO Metadata
 - **SEO Title**: Changan CS75 PLUS 2024 (3rd Gen) Specs & Export Buyer Notes
 - **Meta Description**: Chinese-market 3rd-gen Changan CS75 PLUS Champion 2024 — 1.5T 138 kW vs 2.0T 171 kW, Aisin 8AT, dimensions, L2 driver aids, and the 4th-generation distinction exporters must keep straight.
-- **Suggested URL**: /vehicles/changan-cs75-plus-2024-specs/
+- **Suggested URL**: /vehicles/changan-cs75-plus/
 - **H1**: Changan CS75 PLUS 2024 (3rd-Generation Champion): Chinese-Market Specs for Exporters
 - **Primary Keyword**: changan cs75 plus 2024 specs 1.5t 2.0t
 - **Secondary Search Terms**: CS75 PLUS JL473ZQ7, CS75 PLUS 2.0T Aisin 8AT, Changan SUV export, third generation CS75 PLUS dimensions, Blue Whale engine
-- **Internal Link Suggestions**: /vehicles/geely-emgrand-2024-specs/ ; /vehicles/li-auto-l6-2024-specs/ ; /guides/vehicle-coc-type-approval-dossier/
+- **Internal Link Suggestions**: /vehicles/geely-emgrand/ ; /vehicles/li-auto-l6/ ; /guides/vehicle-coc-type-approval-dossier/
 - **Image Suggestions**: 1.5T vs 2.0T comparison; Aisin 8AT badge; 540° camera display; side profile showing 4710 mm length
 - **ALT Suggestions**: "Changan CS75 PLUS third generation 2024"; "CS75 PLUS 1.5T versus 2.0T engine"
 

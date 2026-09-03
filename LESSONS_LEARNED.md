@@ -127,6 +127,23 @@ When a shared fact or standard changes, the ENTIRE current batch must be searche
 
 ---
 
+
+## PART 2 — WRITING-SIDE PERMANENT RULES (installed by project-owner directive, R4 2026-09-03)
+*These sit on top of PART 0/PART 1 and never weaken them.*
+
+### LESSON: EVERGREEN_MODEL_URL_BY_DEFAULT
+Vehicle **model hub pages default to a stable, year-free, suffix-free URL**: `/vehicles/byd-dolphin/`, `/vehicles/geely-emgrand/`, `/vehicles/li-auto-l6/` — never `/vehicles/byd-dolphin-2025-specs/`.
+- Model year lives in the **H1, the body Version section and any model-year comparison**, not the URL.
+- A year-bearing URL is allowed **only** for an explicit historical model-year page, a model-year comparison, or an old-model archive.
+- Do not mint a new URL per year (`/2024/ /2025/ /2026/`); that creates cannibalisation against the evergreen hub. Check `state/published_urls.json` for collisions before assigning any slug.
+
+### LESSON: FACT_SOURCE_PASS_GATE_LOGIC (writing gate)
+`FACT_SOURCE_PASS` means **the core facts the article's search intent depends on are supported to a sufficiently reliable level**. Disclosing uncertainty is **not** a substitute for verification and never, by itself, earns a PASS (writing-side mirror of EVIDENCE_CEILING_IS_NOT_RESEARCH_PASS).
+- Allowed values: **PASS / CONDITIONAL / FAIL**. If a core regulation, standard, classification or threshold still needs official confirmation, the result is **CONDITIONAL or FAIL**, however many caveats the text carries.
+- While FAIL, **CODEX_REVIEW_PENDING=FALSE** (not Codex-eligible) and PUBLISH_APPROVED=FALSE; hold for Research correction rather than rewriting the fact from outside the Fact Sheet.
+- Authority reinforcement (writing side): industry/"official industry" **news media is not VERIFIED** (a news record is CROSS_CHECKED/SINGLE_SOURCE); **secondary legal portals (e.g. FindLaw) cap at CROSS_CHECKED/SINGLE_SOURCE** — statute text is VERIFIED only from an official NPC/government source.
+
+---
 ### Confidence vocabulary (binding)
 - **VERIFIED** — manufacturer OEM site, government/regulator, standards body, or formal official technical document (scope matched).
 - **CROSS_CHECKED** — two or more independent reliable sources agree ON THE SAME FACT, but no primary/official first-hand source.

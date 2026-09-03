@@ -1,12 +1,13 @@
 # Shipping an Electric Vehicle by Sea: UN3171, Class 9, UN38.3 and the Documents a Booking Depends On
 ## SEO Metadata
+> ⛔ **R4 HOLD — FACT_SOURCE_PASS=FAIL · CODEX_REVIEW_PENDING=FALSE · PUBLISH_APPROVED=FALSE.** IMDG 42-24 / UN3556 corrected classification Fact Sheet still pending; current text reflects the superseded blanket-UN3171 basis and must be rewritten after Research update, incl. new URL /guides/ev-shipping-un3556-imdg-compliance/ (R4). Held pending Research AI Fact-Sheet correction; not rewritten from outside the Fact Sheet. Do not publish or send to Codex until re-verified.
 - **SEO Title**: EV Shipping Compliance: UN3171, IMDG Class 9, UN38.3 & MSDS Guide
 - **Meta Description**: How lithium-battery vehicles are classified for ocean freight (UN3171, IMDG Class 9), the SP390/P910 provisions, UN38.3 and GHS MSDS paperwork, China's 2025 lithium-shipping rule, and carrier-specific checks.
 - **Suggested URL**: /guides/ev-shipping-un3171-imdg-compliance/
 - **H1**: Shipping Electrified Vehicles by Sea: Dangerous-Goods Classification, Documents and Red Lines
 - **Primary Keyword**: ev shipping un3171 imdg dangerous goods requirements
 - **Secondary Search Terms**: UN3171 battery powered vehicle, IMDG class 9 vehicle, UN38.3 test report, MSDS GHS electric car shipping, SP390 P910, EV ocean freight SOC requirement
-- **Internal Link Suggestions**: /guides/china-vehicle-export-license-customs-documents/ ; /guides/container-vehicle-loading-lashing/ ; /vehicles/byd-dolphin-2025-specs/
+- **Internal Link Suggestions**: /guides/china-vehicle-export-license-customs-documents/ ; /guides/container-vehicle-loading-lashing/ ; /vehicles/byd-dolphin/
 - **Image Suggestions**: UN number/class label diagram; document chain flow; Class 9 placard; booking-time decision tree
 - **ALT Suggestions**: "UN3171 IMDG class 9 electric vehicle"; "EV shipping document chain"
 
@@ -66,4 +67,5 @@ These vary by line and route and are TIME_SENSITIVE — obtain the carrier's cur
 - **Last reviewed**: 2026-09-03
 - **Reference market / scope**: Global ocean dangerous-goods compliance (China rule flagged separately)
 - **Verification method**: Maritime-safety + forwarder cross-check; time-sensitive and single-source items isolated
-- **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off
+- **Quality gates (R4 HOLD)**: EDITORIAL_QA_PASS=PASS · **FACT_SOURCE_PASS=FAIL** (IMDG 42-24 / UN3556 corrected Fact Sheet pending; uncertainty disclosed is not a substitute for verified core facts) · SEO_PASS=PASS · **CODEX_REVIEW_PASS=FALSE (not eligible while FAIL)** · PUBLISH_APPROVED=FALSE
+- **Final Status = FACT_SOURCE_FAIL / AWAITING_RESEARCH** — held for Research AI Fact-Sheet correction; not rewritten from outside the Fact Sheet, no reserve invoked.

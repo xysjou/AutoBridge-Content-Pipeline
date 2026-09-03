@@ -1,5 +1,6 @@
 # Importing a Vehicle Into the UAE: Clearance-to-Registration Sequence and What You Must Re-Verify
 ## SEO Metadata
+> ⛔ **R4 HOLD — FACT_SOURCE_PASS=FAIL · CODEX_REVIEW_PENDING=FALSE · PUBLISH_APPROVED=FALSE.** UAE federal-customs/RTA primary source still missing in the Fact Sheet (R4). Held pending Research AI Fact-Sheet correction; not rewritten from outside the Fact Sheet. Do not publish or send to Codex until re-verified.
 - **SEO Title**: UAE Vehicle Import & RTA Registration Documents Guide
 - **Meta Description**: Sequence a UAE vehicle import correctly — customs clearance documents, GCC/GSO conformity, then RTA registration (Mulkiya). Reported duty/VAT figures are flagged for official UAE confirmation rather than stated as fixed.
 - **Suggested URL**: /guides/uae-vehicle-import-registration-documents/
@@ -66,4 +67,5 @@ After customs release, the buyer applies to the RTA with (reported): valid **ins
 - **Last reviewed**: 2026-09-03
 - **Reference market / scope**: UAE worked example (method transferable to GCC; country specifics not generalised)
 - **Verification method**: Forwarder-source synthesis with explicit evidence ceiling; reported fees flagged for official confirmation per PRIMARY_SOURCE_SCOPE rule
-- **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off
+- **Quality gates (R4 HOLD)**: EDITORIAL_QA_PASS=PASS · **FACT_SOURCE_PASS=FAIL** (UAE federal-customs/RTA primary source missing; uncertainty disclosed is not a substitute for verified core facts) · SEO_PASS=PASS · **CODEX_REVIEW_PASS=FALSE (not eligible while FAIL)** · PUBLISH_APPROVED=FALSE
+- **Final Status = FACT_SOURCE_FAIL / AWAITING_RESEARCH** — held for Research AI Fact-Sheet correction; not rewritten from outside the Fact Sheet, no reserve invoked.

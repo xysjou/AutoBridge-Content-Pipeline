@@ -336,41 +336,41 @@
       "article_id": "AB-260903-V01",
       "model_key": "GEELY_EMGRAND_4GEN_2024",
       "batch": "daily_2026-09-03",
-      "version": "v1",
+      "version": "v2",
       "brand_model": "Geely / Emgrand 4th-gen 2024",
-      "suggested_url": "/vehicles/geely-emgrand-2024-specs/"
+      "suggested_url": "/vehicles/geely-emgrand/"
     },
     {
       "article_id": "AB-260903-V02",
       "model_key": "BYD_DOLPHIN_2025",
       "batch": "daily_2026-09-03",
-      "version": "v1",
+      "version": "v2",
       "brand_model": "BYD / Dolphin 2025",
-      "suggested_url": "/vehicles/byd-dolphin-2025-specs/"
+      "suggested_url": "/vehicles/byd-dolphin/"
     },
     {
       "article_id": "AB-260903-V03",
       "model_key": "CHANGAN_CS75_PLUS_3GEN_2024",
       "batch": "daily_2026-09-03",
-      "version": "v1",
+      "version": "v2",
       "brand_model": "Changan / CS75 PLUS 3rd-gen Champion 2024",
-      "suggested_url": "/vehicles/changan-cs75-plus-2024-specs/"
+      "suggested_url": "/vehicles/changan-cs75-plus/"
     },
     {
       "article_id": "AB-260903-V04",
       "model_key": "LI_AUTO_L6_2024",
       "batch": "daily_2026-09-03",
-      "version": "v1",
+      "version": "v2",
       "brand_model": "Li Auto / L6 2024 EREV",
-      "suggested_url": "/vehicles/li-auto-l6-2024-specs/"
+      "suggested_url": "/vehicles/li-auto-l6/"
     },
     {
       "article_id": "AB-260903-V05",
       "model_key": "WULING_HONGGUANG_MINIEV_MACARON_2024",
       "batch": "daily_2026-09-03",
-      "version": "v1",
+      "version": "v2",
       "brand_model": "Wuling / Hongguang MINIEV Macaron 3rd-gen 2024",
-      "suggested_url": "/vehicles/wuling-hongguang-miniev-2024-specs/"
+      "suggested_url": "/vehicles/wuling-hongguang-miniev/"
     },
     {
       "article_id": "AB-260903-V06",
@@ -412,5 +412,6 @@
       "brand_model": "Farizon (Geely) / Xingxiang V6E",
       "suggested_url": "/vehicles/farizon-xingxiang-v6e-specs/"
     }
-  ]
+  ],
+  "r4_revised_on": "2026-09-03"
 }

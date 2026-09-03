@@ -192,13 +192,15 @@
       "article_count": 1,
       "articles": [
         "AB-260903-G02"
-      ]
+      ],
+      "r4_status": "HOLD_FACT_SOURCE_FAIL_AWAITING_RESEARCH"
     },
     "coc_type_approval_dossier": {
       "article_count": 1,
       "articles": [
         "AB-260903-G03"
-      ]
+      ],
+      "r4_status": "HOLD_FACT_SOURCE_FAIL_AWAITING_RESEARCH"
     },
     "container_loading_lashing": {
       "article_count": 1,
@@ -210,7 +212,8 @@
       "article_count": 1,
       "articles": [
         "AB-260903-G05"
-      ]
+      ],
+      "r4_status": "HOLD_FACT_SOURCE_FAIL; rename to ev_shipping_un3556_imdg deferred until IMDG 42-24 Fact Sheet lands"
     },
     "pre_shipment_inspection": {
       "article_count": 1,
@@ -228,7 +231,8 @@
       "article_count": 1,
       "articles": [
         "AB-260903-G08"
-      ]
+      ],
+      "r4_status": "HOLD_FACT_SOURCE_FAIL_AWAITING_RESEARCH"
     },
     "overseas_aftersales_network": {
       "article_count": 1,
@@ -244,5 +248,6 @@
     }
   },
   "r3_revised_on": "2026-09-03",
-  "r3_note": "AB-260902 guides advanced to CODEX_REVIEW_PENDING (v3); cluster stores IDs only"
+  "r3_note": "AB-260902 guides advanced to CODEX_REVIEW_PENDING (v3); cluster stores IDs only",
+  "r4_revised_on": "2026-09-03"
 }

@@ -1,5 +1,6 @@
 # African Used-Car Import Age Limits: a Verification Matrix (and Why Two of These Numbers Are Deliberately Left Open)
 ## SEO Metadata
+> ⛔ **R4 HOLD — FACT_SOURCE_PASS=FAIL · CODEX_REVIEW_PENDING=FALSE · PUBLISH_APPROVED=FALSE.** Conflicting Kenya/Nigeria age values and other country rows still lack destination primary sources in the Fact Sheet (R4). Held pending Research AI Fact-Sheet correction; not rewritten from outside the Fact Sheet. Do not publish or send to Codex until re-verified.
 - **SEO Title**: Africa Used-Car Import Age Limits by Country: Verification Guide
 - **Meta Description**: A country-by-country framework for African used-car import age limits, steering side and inspection gates — with conflicting Kenya/Nigeria figures quarantined for official verification rather than stated as fact.
 - **Suggested URL**: /guides/africa-used-car-import-age-limits/
@@ -69,4 +70,5 @@ The two quarantined rows are left unresolved deliberately: presenting "Kenya = 8
 - **Last reviewed**: 2026-09-03
 - **Reference market / scope**: Multi-country Africa framework (country-specific; no regional generalisation; conflicts quarantined)
 - **Verification method**: Conflict-aware matrix; primary-source gap stated per HS_FIRST / SOURCE_SCOPE rules; no conflicting value fixed in prose
-- **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off
+- **Quality gates (R4 HOLD)**: EDITORIAL_QA_PASS=PASS · **FACT_SOURCE_PASS=FAIL** (destination primary sources for age limits missing / conflicts unresolved; uncertainty disclosed is not a substitute for verified core facts) · SEO_PASS=PASS · **CODEX_REVIEW_PASS=FALSE (not eligible while FAIL)** · PUBLISH_APPROVED=FALSE
+- **Final Status = FACT_SOURCE_FAIL / AWAITING_RESEARCH** — held for Research AI Fact-Sheet correction; not rewritten from outside the Fact Sheet, no reserve invoked.

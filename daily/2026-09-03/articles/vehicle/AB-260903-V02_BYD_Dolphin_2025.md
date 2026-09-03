@@ -2,7 +2,7 @@
 ## SEO Metadata
 - **SEO Title**: BYD Dolphin 2025 China Specs: Battery, Range & Export Checks
 - **Meta Description**: 2025 Chinese-market BYD Dolphin — 44.928/60.48 kWh Blade Battery, 70 vs 150 kW grades, 420/520 km CLTC, DiPilot, with China-vs-overseas-spec discipline for buyers.
-- **Suggested URL**: /vehicles/byd-dolphin-2025-specs/
+- **Suggested URL**: /vehicles/byd-dolphin/
 - **H1**: BYD Dolphin 2025 (Chinese-Market): Variants, Battery, Range Cycle and Export Verification
 - **Primary Keyword**: byd dolphin 2025 range battery specs
 - **Secondary Search Terms**: BYD Dolphin 44.9 kWh, Dolphin 60.48 kWh Knight, Dolphin CLTC 420 520, BYD small EV export, Dolphin DiPilot, China EV GB/T charging
@@ -44,7 +44,7 @@ Compact five-door hatchback, 2700 mm wheelbase; standard length 4125 mm, Knight 
 2. **Range cycle** labelled CLTC; destination WLTP/NEDC taken only from the destination sheet.
 3. **GB/T vs destination connector**, AC/DC provision and any adapter legality.
 4. **DiPilot feature list** for the exact grade; **language/OTA** tested on the VIN.
-5. **EV shipping paperwork** — UN38.3 / MSDS and the UN3171 ocean-dangerous-goods route (see the EV shipping guide).
+5. **EV shipping paperwork** — UN38.3 / MSDS plus the ocean dangerous-goods classification, under IMDG Amendment 42-24 (mandatory from 2026-01-01) a lithium-ion-battery-powered vehicle is classified UN3556, not the legacy generic UN3171; apply documentation/SOC details per the current EV shipping Fact Sheet and the carrier (see the EV ocean-compliance guide).
 
 ## Request a Current Export Quotation
 No static export price is published. The RMB 99,800 Chinese starting figure is a **domestic, time-sensitive reference, not an FOB/CIF price**. Enquire with **Destination Country · Quantity · Grade (battery/motor) · LHD/RHD · Destination Port · Incoterm**.
