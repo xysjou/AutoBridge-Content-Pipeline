@@ -2,9 +2,9 @@
   "generated_on": "2026-09-02",
   "generated_by": "Daily Delivery Pipeline (Stage 2) — appended daily_2026-09-02 QA_PASS pages to research-derived baseline",
   "note": "Consolidated read-only dedup baseline derived from batches/batch_20260831_001 + batch_20260901_001 manifests. Immutable batch manifests remain the source of truth; this file is a derived index for cross-day dedup.",
-  "historical_article_total": 113,
-  "vehicle_page_total": 49,
-  "procurement_guide_total": 64,
+  "historical_article_total": 133,
+  "vehicle_page_total": 59,
+  "procurement_guide_total": 74,
   "articles": [
     {
       "article_id": "AB43_001_Repair_001_EV_Battery_Warranty",
@@ -1009,6 +1009,226 @@
       "creation_date": "2026-09-02",
       "revised_on": "2026-09-03",
       "r3_on": "2026-09-03"
+    },
+    {
+      "article_id": "AB-260903-V01",
+      "batch": "daily_2026-09-03",
+      "version": "v1",
+      "status": "CODEX_REVIEW_PENDING",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "vehicle_model_v01",
+      "title": "Geely Emgrand 2024 (4th Gen) Specs & Export Buyer Guide",
+      "suggested_url": "/vehicles/geely-emgrand-2024-specs/",
+      "creation_date": "2026-09-03"
+    },
+    {
+      "article_id": "AB-260903-V02",
+      "batch": "daily_2026-09-03",
+      "version": "v1",
+      "status": "CODEX_REVIEW_PENDING",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "vehicle_model_v02",
+      "title": "BYD Dolphin 2025 China Specs: Battery, Range & Export Checks",
+      "suggested_url": "/vehicles/byd-dolphin-2025-specs/",
+      "creation_date": "2026-09-03"
+    },
+    {
+      "article_id": "AB-260903-V03",
+      "batch": "daily_2026-09-03",
+      "version": "v1",
+      "status": "CODEX_REVIEW_PENDING",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "vehicle_model_v03",
+      "title": "Changan CS75 PLUS 2024 (3rd Gen) Specs & Export Buyer Notes",
+      "suggested_url": "/vehicles/changan-cs75-plus-2024-specs/",
+      "creation_date": "2026-09-03"
+    },
+    {
+      "article_id": "AB-260903-V04",
+      "batch": "daily_2026-09-03",
+      "version": "v1",
+      "status": "CODEX_REVIEW_PENDING",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "vehicle_model_v04",
+      "title": "Li Auto L6 2024 EREV Specs: Battery, Range Modes & Export Notes",
+      "suggested_url": "/vehicles/li-auto-l6-2024-specs/",
+      "creation_date": "2026-09-03"
+    },
+    {
+      "article_id": "AB-260903-V05",
+      "batch": "daily_2026-09-03",
+      "version": "v1",
+      "status": "CODEX_REVIEW_PENDING",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "vehicle_model_v05",
+      "title": "Wuling Hongguang MINIEV Macaron 2024 Specs & Export Notes",
+      "suggested_url": "/vehicles/wuling-hongguang-miniev-2024-specs/",
+      "creation_date": "2026-09-03"
+    },
+    {
+      "article_id": "AB-260903-V06",
+      "batch": "daily_2026-09-03",
+      "version": "v1",
+      "status": "CODEX_REVIEW_PENDING",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "vehicle_model_v06",
+      "title": "SAIC Maxus V90 Diesel Van Specs & Export Configuration Guide",
+      "suggested_url": "/vehicles/saic-maxus-v90-specs/",
+      "creation_date": "2026-09-03"
+    },
+    {
+      "article_id": "AB-260903-V07",
+      "batch": "daily_2026-09-03",
+      "version": "v1",
+      "status": "CODEX_REVIEW_PENDING",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "vehicle_model_v07",
+      "title": "Yutong ZK6122 Coach Specs: Platform, Seating & Export Checks",
+      "suggested_url": "/vehicles/yutong-zk6122-coach-specs/",
+      "creation_date": "2026-09-03"
+    },
+    {
+      "article_id": "AB-260903-V08",
+      "batch": "daily_2026-09-03",
+      "version": "v1",
+      "status": "CODEX_REVIEW_PENDING",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "vehicle_model_v08",
+      "title": "FAW Jiefang J6P Tractor Specs: Engine, GCW & Export Notes",
+      "suggested_url": "/vehicles/faw-jiefang-j6p-tractor-specs/",
+      "creation_date": "2026-09-03"
+    },
+    {
+      "article_id": "AB-260903-V09",
+      "batch": "daily_2026-09-03",
+      "version": "v1",
+      "status": "CODEX_REVIEW_PENDING",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "vehicle_model_v09",
+      "title": "SANY Concrete Mixer Truck Specs: Drum Capacity, Chassis & Export",
+      "suggested_url": "/vehicles/sany-concrete-mixer-truck-specs/",
+      "creation_date": "2026-09-03"
+    },
+    {
+      "article_id": "AB-260903-V10",
+      "batch": "daily_2026-09-03",
+      "version": "v1",
+      "status": "CODEX_REVIEW_PENDING",
+      "content_type": "VEHICLE_PAGE",
+      "topic_cluster": "vehicle_model_v10",
+      "title": "Farizon V6E Electric Cargo Van Specs & Export Buyer Notes",
+      "suggested_url": "/vehicles/farizon-xingxiang-v6e-specs/",
+      "creation_date": "2026-09-03"
+    },
+    {
+      "article_id": "AB-260903-G01",
+      "batch": "daily_2026-09-03",
+      "version": "v1",
+      "status": "CODEX_REVIEW_PENDING",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "china_export_license_customs",
+      "title": "China Vehicle Export Licence & Customs Documents Guide (2026)",
+      "suggested_url": "/guides/china-vehicle-export-license-customs-documents/",
+      "creation_date": "2026-09-03"
+    },
+    {
+      "article_id": "AB-260903-G02",
+      "batch": "daily_2026-09-03",
+      "version": "v1",
+      "status": "CODEX_REVIEW_PENDING",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "uae_import_registration",
+      "title": "UAE Vehicle Import & RTA Registration Documents Guide",
+      "suggested_url": "/guides/uae-vehicle-import-registration-documents/",
+      "creation_date": "2026-09-03"
+    },
+    {
+      "article_id": "AB-260903-G03",
+      "batch": "daily_2026-09-03",
+      "version": "v1",
+      "status": "CODEX_REVIEW_PENDING",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "coc_type_approval_dossier",
+      "title": "Vehicle CoC vs Type Approval (WVTA, OTTS, E-mark) Buyer Guide",
+      "suggested_url": "/guides/vehicle-coc-type-approval-dossier/",
+      "creation_date": "2026-09-03"
+    },
+    {
+      "article_id": "AB-260903-G04",
+      "batch": "daily_2026-09-03",
+      "version": "v1",
+      "status": "CODEX_REVIEW_PENDING",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "container_loading_lashing",
+      "title": "How Many Cars Fit in a 40HQ? Container Loading & Lashing Guide",
+      "suggested_url": "/guides/container-vehicle-loading-lashing/",
+      "creation_date": "2026-09-03"
+    },
+    {
+      "article_id": "AB-260903-G05",
+      "batch": "daily_2026-09-03",
+      "version": "v1",
+      "status": "CODEX_REVIEW_PENDING",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "ev_shipping_un3171_imdg",
+      "title": "EV Shipping Compliance: UN3171, IMDG Class 9, UN38.3 & MSDS Guide",
+      "suggested_url": "/guides/ev-shipping-un3171-imdg-compliance/",
+      "creation_date": "2026-09-03"
+    },
+    {
+      "article_id": "AB-260903-G06",
+      "batch": "daily_2026-09-03",
+      "version": "v1",
+      "status": "CODEX_REVIEW_PENDING",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "pre_shipment_inspection",
+      "title": "Vehicle Pre-Shipment Inspection (PSI): CCIC/SGS/BV Buyer Guide",
+      "suggested_url": "/guides/vehicle-pre-shipment-inspection-psi/",
+      "creation_date": "2026-09-03"
+    },
+    {
+      "article_id": "AB-260903-G07",
+      "batch": "daily_2026-09-03",
+      "version": "v1",
+      "status": "CODEX_REVIEW_PENDING",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "middle_east_heat_dust",
+      "title": "Middle East/GCC Heat & Dust Vehicle Adaptation Buyer Guide",
+      "suggested_url": "/guides/middle-east-heat-dust-vehicle-adaptation/",
+      "creation_date": "2026-09-03"
+    },
+    {
+      "article_id": "AB-260903-G08",
+      "batch": "daily_2026-09-03",
+      "version": "v1",
+      "status": "CODEX_REVIEW_PENDING",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "africa_used_car_age_limits",
+      "title": "Africa Used-Car Import Age Limits by Country: Verification Guide",
+      "suggested_url": "/guides/africa-used-car-import-age-limits/",
+      "creation_date": "2026-09-03"
+    },
+    {
+      "article_id": "AB-260903-G09",
+      "batch": "daily_2026-09-03",
+      "version": "v1",
+      "status": "CODEX_REVIEW_PENDING",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "overseas_aftersales_network",
+      "title": "Overseas After-Sales, Parts & Warranty Network Setup Guide",
+      "suggested_url": "/guides/overseas-aftersales-parts-warranty-network/",
+      "creation_date": "2026-09-03"
+    },
+    {
+      "article_id": "AB-260903-G10",
+      "batch": "daily_2026-09-03",
+      "version": "v1",
+      "status": "CODEX_REVIEW_PENDING",
+      "content_type": "PROCUREMENT_GUIDE",
+      "topic_cluster": "export_sales_contract",
+      "title": "Vehicle Export Sales Contract Clauses & Risk Guide",
+      "suggested_url": "/guides/vehicle-export-sales-contract-clauses/",
+      "creation_date": "2026-09-03"
     }
   ]
 }

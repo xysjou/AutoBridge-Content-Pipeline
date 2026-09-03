@@ -1,7 +1,7 @@
 {
   "generated_on": "2026-09-02",
   "note": "Historical baseline was empty (no front-end URLs). Populated by Daily Delivery 2026-09-02 with QA_PASS Master slugs (published=false; they enter MULTILINGUAL_QUEUE before front-end publish).",
-  "published_url_total": 20,
+  "published_url_total": 40,
   "urls": [
     {
       "article_id": "AB-260902-V01",
@@ -247,6 +247,206 @@
       "creation_date": "2026-09-02",
       "version": "v3",
       "revised_on": "2026-09-03"
+    },
+    {
+      "article_id": "AB-260903-V01",
+      "content_type": "VEHICLE_PAGE",
+      "slug": "/vehicles/geely-emgrand-2024-specs/",
+      "word_filename": "VEH_20260903_01_Geely_Emgrand_2024.docx",
+      "stage": "MASTER_CODEX_REVIEW_PENDING",
+      "published": false,
+      "queued_for": "MULTILINGUAL_QUEUE",
+      "creation_date": "2026-09-03"
+    },
+    {
+      "article_id": "AB-260903-V02",
+      "content_type": "VEHICLE_PAGE",
+      "slug": "/vehicles/byd-dolphin-2025-specs/",
+      "word_filename": "VEH_20260903_02_BYD_Dolphin_2025.docx",
+      "stage": "MASTER_CODEX_REVIEW_PENDING",
+      "published": false,
+      "queued_for": "MULTILINGUAL_QUEUE",
+      "creation_date": "2026-09-03"
+    },
+    {
+      "article_id": "AB-260903-V03",
+      "content_type": "VEHICLE_PAGE",
+      "slug": "/vehicles/changan-cs75-plus-2024-specs/",
+      "word_filename": "VEH_20260903_03_Changan_CS75PLUS_2024.docx",
+      "stage": "MASTER_CODEX_REVIEW_PENDING",
+      "published": false,
+      "queued_for": "MULTILINGUAL_QUEUE",
+      "creation_date": "2026-09-03"
+    },
+    {
+      "article_id": "AB-260903-V04",
+      "content_type": "VEHICLE_PAGE",
+      "slug": "/vehicles/li-auto-l6-2024-specs/",
+      "word_filename": "VEH_20260903_04_LiAuto_L6_2024.docx",
+      "stage": "MASTER_CODEX_REVIEW_PENDING",
+      "published": false,
+      "queued_for": "MULTILINGUAL_QUEUE",
+      "creation_date": "2026-09-03"
+    },
+    {
+      "article_id": "AB-260903-V05",
+      "content_type": "VEHICLE_PAGE",
+      "slug": "/vehicles/wuling-hongguang-miniev-2024-specs/",
+      "word_filename": "VEH_20260903_05_Wuling_MINIEV_Macaron_2024.docx",
+      "stage": "MASTER_CODEX_REVIEW_PENDING",
+      "published": false,
+      "queued_for": "MULTILINGUAL_QUEUE",
+      "creation_date": "2026-09-03"
+    },
+    {
+      "article_id": "AB-260903-V06",
+      "content_type": "VEHICLE_PAGE",
+      "slug": "/vehicles/saic-maxus-v90-specs/",
+      "word_filename": "VEH_20260903_06_SAIC_Maxus_V90.docx",
+      "stage": "MASTER_CODEX_REVIEW_PENDING",
+      "published": false,
+      "queued_for": "MULTILINGUAL_QUEUE",
+      "creation_date": "2026-09-03"
+    },
+    {
+      "article_id": "AB-260903-V07",
+      "content_type": "VEHICLE_PAGE",
+      "slug": "/vehicles/yutong-zk6122-coach-specs/",
+      "word_filename": "VEH_20260903_07_Yutong_ZK6122.docx",
+      "stage": "MASTER_CODEX_REVIEW_PENDING",
+      "published": false,
+      "queued_for": "MULTILINGUAL_QUEUE",
+      "creation_date": "2026-09-03"
+    },
+    {
+      "article_id": "AB-260903-V08",
+      "content_type": "VEHICLE_PAGE",
+      "slug": "/vehicles/faw-jiefang-j6p-tractor-specs/",
+      "word_filename": "VEH_20260903_08_FAW_Jiefang_J6P.docx",
+      "stage": "MASTER_CODEX_REVIEW_PENDING",
+      "published": false,
+      "queued_for": "MULTILINGUAL_QUEUE",
+      "creation_date": "2026-09-03"
+    },
+    {
+      "article_id": "AB-260903-V09",
+      "content_type": "VEHICLE_PAGE",
+      "slug": "/vehicles/sany-concrete-mixer-truck-specs/",
+      "word_filename": "VEH_20260903_09_SANY_Concrete_Mixer.docx",
+      "stage": "MASTER_CODEX_REVIEW_PENDING",
+      "published": false,
+      "queued_for": "MULTILINGUAL_QUEUE",
+      "creation_date": "2026-09-03"
+    },
+    {
+      "article_id": "AB-260903-V10",
+      "content_type": "VEHICLE_PAGE",
+      "slug": "/vehicles/farizon-xingxiang-v6e-specs/",
+      "word_filename": "VEH_20260903_10_Farizon_V6E.docx",
+      "stage": "MASTER_CODEX_REVIEW_PENDING",
+      "published": false,
+      "queued_for": "MULTILINGUAL_QUEUE",
+      "creation_date": "2026-09-03"
+    },
+    {
+      "article_id": "AB-260903-G01",
+      "content_type": "PROCUREMENT_GUIDE",
+      "slug": "/guides/china-vehicle-export-license-customs-documents/",
+      "word_filename": "GUIDE_20260903_01_China_Export_License_Customs.docx",
+      "stage": "MASTER_CODEX_REVIEW_PENDING",
+      "published": false,
+      "queued_for": "MULTILINGUAL_QUEUE",
+      "creation_date": "2026-09-03"
+    },
+    {
+      "article_id": "AB-260903-G02",
+      "content_type": "PROCUREMENT_GUIDE",
+      "slug": "/guides/uae-vehicle-import-registration-documents/",
+      "word_filename": "GUIDE_20260903_02_UAE_Import_Registration.docx",
+      "stage": "MASTER_CODEX_REVIEW_PENDING",
+      "published": false,
+      "queued_for": "MULTILINGUAL_QUEUE",
+      "creation_date": "2026-09-03"
+    },
+    {
+      "article_id": "AB-260903-G03",
+      "content_type": "PROCUREMENT_GUIDE",
+      "slug": "/guides/vehicle-coc-type-approval-dossier/",
+      "word_filename": "GUIDE_20260903_03_CoC_Type_Approval.docx",
+      "stage": "MASTER_CODEX_REVIEW_PENDING",
+      "published": false,
+      "queued_for": "MULTILINGUAL_QUEUE",
+      "creation_date": "2026-09-03"
+    },
+    {
+      "article_id": "AB-260903-G04",
+      "content_type": "PROCUREMENT_GUIDE",
+      "slug": "/guides/container-vehicle-loading-lashing/",
+      "word_filename": "GUIDE_20260903_04_Container_Loading_Lashing.docx",
+      "stage": "MASTER_CODEX_REVIEW_PENDING",
+      "published": false,
+      "queued_for": "MULTILINGUAL_QUEUE",
+      "creation_date": "2026-09-03"
+    },
+    {
+      "article_id": "AB-260903-G05",
+      "content_type": "PROCUREMENT_GUIDE",
+      "slug": "/guides/ev-shipping-un3171-imdg-compliance/",
+      "word_filename": "GUIDE_20260903_05_EV_Shipping_UN3171.docx",
+      "stage": "MASTER_CODEX_REVIEW_PENDING",
+      "published": false,
+      "queued_for": "MULTILINGUAL_QUEUE",
+      "creation_date": "2026-09-03"
+    },
+    {
+      "article_id": "AB-260903-G06",
+      "content_type": "PROCUREMENT_GUIDE",
+      "slug": "/guides/vehicle-pre-shipment-inspection-psi/",
+      "word_filename": "GUIDE_20260903_06_Pre_Shipment_Inspection.docx",
+      "stage": "MASTER_CODEX_REVIEW_PENDING",
+      "published": false,
+      "queued_for": "MULTILINGUAL_QUEUE",
+      "creation_date": "2026-09-03"
+    },
+    {
+      "article_id": "AB-260903-G07",
+      "content_type": "PROCUREMENT_GUIDE",
+      "slug": "/guides/middle-east-heat-dust-vehicle-adaptation/",
+      "word_filename": "GUIDE_20260903_07_MiddleEast_Heat_Dust.docx",
+      "stage": "MASTER_CODEX_REVIEW_PENDING",
+      "published": false,
+      "queued_for": "MULTILINGUAL_QUEUE",
+      "creation_date": "2026-09-03"
+    },
+    {
+      "article_id": "AB-260903-G08",
+      "content_type": "PROCUREMENT_GUIDE",
+      "slug": "/guides/africa-used-car-import-age-limits/",
+      "word_filename": "GUIDE_20260903_08_Africa_Used_Car_Age_Limits.docx",
+      "stage": "MASTER_CODEX_REVIEW_PENDING",
+      "published": false,
+      "queued_for": "MULTILINGUAL_QUEUE",
+      "creation_date": "2026-09-03"
+    },
+    {
+      "article_id": "AB-260903-G09",
+      "content_type": "PROCUREMENT_GUIDE",
+      "slug": "/guides/overseas-aftersales-parts-warranty-network/",
+      "word_filename": "GUIDE_20260903_09_Aftersales_Parts_Warranty.docx",
+      "stage": "MASTER_CODEX_REVIEW_PENDING",
+      "published": false,
+      "queued_for": "MULTILINGUAL_QUEUE",
+      "creation_date": "2026-09-03"
+    },
+    {
+      "article_id": "AB-260903-G10",
+      "content_type": "PROCUREMENT_GUIDE",
+      "slug": "/guides/vehicle-export-sales-contract-clauses/",
+      "word_filename": "GUIDE_20260903_10_Export_Sales_Contract.docx",
+      "stage": "MASTER_CODEX_REVIEW_PENDING",
+      "published": false,
+      "queued_for": "MULTILINGUAL_QUEUE",
+      "creation_date": "2026-09-03"
     }
   ]
 }

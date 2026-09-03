@@ -181,6 +181,66 @@
       "articles": [
         "AB-260902-G10"
       ]
+    },
+    "china_export_license_customs": {
+      "article_count": 1,
+      "articles": [
+        "AB-260903-G01"
+      ]
+    },
+    "uae_import_registration": {
+      "article_count": 1,
+      "articles": [
+        "AB-260903-G02"
+      ]
+    },
+    "coc_type_approval_dossier": {
+      "article_count": 1,
+      "articles": [
+        "AB-260903-G03"
+      ]
+    },
+    "container_loading_lashing": {
+      "article_count": 1,
+      "articles": [
+        "AB-260903-G04"
+      ]
+    },
+    "ev_shipping_un3171_imdg": {
+      "article_count": 1,
+      "articles": [
+        "AB-260903-G05"
+      ]
+    },
+    "pre_shipment_inspection": {
+      "article_count": 1,
+      "articles": [
+        "AB-260903-G06"
+      ]
+    },
+    "middle_east_heat_dust": {
+      "article_count": 1,
+      "articles": [
+        "AB-260903-G07"
+      ]
+    },
+    "africa_used_car_age_limits": {
+      "article_count": 1,
+      "articles": [
+        "AB-260903-G08"
+      ]
+    },
+    "overseas_aftersales_network": {
+      "article_count": 1,
+      "articles": [
+        "AB-260903-G09"
+      ]
+    },
+    "export_sales_contract": {
+      "article_count": 1,
+      "articles": [
+        "AB-260903-G10"
+      ]
     }
   },
   "r3_revised_on": "2026-09-03",

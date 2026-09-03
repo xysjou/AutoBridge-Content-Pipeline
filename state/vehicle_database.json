@@ -1,7 +1,7 @@
 {
   "generated_on": "2026-09-02",
   "note": "Existing vehicle-page models (dedup blacklist). Same model + same search intent => UPDATE_EXISTING, never NEW_PAGE.",
-  "count": 49,
+  "count": 59,
   "existing_models": [
     {
       "article_id": "AB43_028_Vehicle_001_BYD_SONG_PLUS_DMi",
@@ -331,6 +331,86 @@
       "brand_model": "Foton Ollin / Aumark refrigerated truck",
       "suggested_url": "/vehicles/foton-aumark-refrigerated-truck/",
       "r3_on": "2026-09-03"
+    },
+    {
+      "article_id": "AB-260903-V01",
+      "model_key": "GEELY_EMGRAND_4GEN_2024",
+      "batch": "daily_2026-09-03",
+      "version": "v1",
+      "brand_model": "Geely / Emgrand 4th-gen 2024",
+      "suggested_url": "/vehicles/geely-emgrand-2024-specs/"
+    },
+    {
+      "article_id": "AB-260903-V02",
+      "model_key": "BYD_DOLPHIN_2025",
+      "batch": "daily_2026-09-03",
+      "version": "v1",
+      "brand_model": "BYD / Dolphin 2025",
+      "suggested_url": "/vehicles/byd-dolphin-2025-specs/"
+    },
+    {
+      "article_id": "AB-260903-V03",
+      "model_key": "CHANGAN_CS75_PLUS_3GEN_2024",
+      "batch": "daily_2026-09-03",
+      "version": "v1",
+      "brand_model": "Changan / CS75 PLUS 3rd-gen Champion 2024",
+      "suggested_url": "/vehicles/changan-cs75-plus-2024-specs/"
+    },
+    {
+      "article_id": "AB-260903-V04",
+      "model_key": "LI_AUTO_L6_2024",
+      "batch": "daily_2026-09-03",
+      "version": "v1",
+      "brand_model": "Li Auto / L6 2024 EREV",
+      "suggested_url": "/vehicles/li-auto-l6-2024-specs/"
+    },
+    {
+      "article_id": "AB-260903-V05",
+      "model_key": "WULING_HONGGUANG_MINIEV_MACARON_2024",
+      "batch": "daily_2026-09-03",
+      "version": "v1",
+      "brand_model": "Wuling / Hongguang MINIEV Macaron 3rd-gen 2024",
+      "suggested_url": "/vehicles/wuling-hongguang-miniev-2024-specs/"
+    },
+    {
+      "article_id": "AB-260903-V06",
+      "model_key": "SAIC_MAXUS_V90",
+      "batch": "daily_2026-09-03",
+      "version": "v1",
+      "brand_model": "SAIC Maxus / Xintu V90",
+      "suggested_url": "/vehicles/saic-maxus-v90-specs/"
+    },
+    {
+      "article_id": "AB-260903-V07",
+      "model_key": "YUTONG_ZK6122",
+      "batch": "daily_2026-09-03",
+      "version": "v1",
+      "brand_model": "Yutong / ZK6122 coach",
+      "suggested_url": "/vehicles/yutong-zk6122-coach-specs/"
+    },
+    {
+      "article_id": "AB-260903-V08",
+      "model_key": "FAW_JIEFANG_J6P",
+      "batch": "daily_2026-09-03",
+      "version": "v1",
+      "brand_model": "FAW Jiefang / J6P tractor",
+      "suggested_url": "/vehicles/faw-jiefang-j6p-tractor-specs/"
+    },
+    {
+      "article_id": "AB-260903-V09",
+      "model_key": "SANY_SY_CONCRETE_MIXER",
+      "batch": "daily_2026-09-03",
+      "version": "v1",
+      "brand_model": "SANY / SY-series concrete mixer",
+      "suggested_url": "/vehicles/sany-concrete-mixer-truck-specs/"
+    },
+    {
+      "article_id": "AB-260903-V10",
+      "model_key": "FARIZON_XINGXIANG_V6E",
+      "batch": "daily_2026-09-03",
+      "version": "v1",
+      "brand_model": "Farizon (Geely) / Xingxiang V6E",
+      "suggested_url": "/vehicles/farizon-xingxiang-v6e-specs/"
     }
   ]
 }
