@@ -2,6 +2,45 @@
 
 These are durable editorial/sourcing rules that correct recurring fact-boundary failures. Every research and writing stage MUST apply them. When a rule is invoked, record it in the batch QA report.
 
+> **Canonical location:** `/LESSONS_LEARNED.md`. If this file is migrated to `/rules/LESSONS_LEARNED.md`, the migrated formal version is authoritative. **No writing may begin until this file has been read for the current batch.**
+
+---
+
+## PART 0 — PERMANENT LEARNING GATE (MANDATORY PROJECT RULE)
+
+*Installed by project-owner directive; permanently in force. This is a governance rule, not a candidate lesson.*
+
+### 0.1 Mandatory startup sequence — before ANY new batch is written
+Execute in this exact order, every time:
+1. **Sync the shared GitHub repo to latest** (`git pull`); never start from stale local data.
+2. **Read `LESSONS_LEARNED.md`** (or `/rules/LESSONS_LEARNED.md` if migrated) in full.
+3. Read the current **Research Fact Sheets**.
+4. Read the **Source Logs**.
+5. Read that day's **Daily Manifest**.
+6. Run a **PRE-WRITING ERROR CHECK** against every historical LESSON below.
+7. Only after confirming no historical error is triggered may article writing begin.
+
+### 0.2 Historical errors are permanently binding
+The rules below are **MANDATORY PROJECT RULES**, not suggestions. Issues already confirmed by independent review must never recur. Work is always built **on top of** the previously confirmed error rules; the goal is to remember the confirmed *error patterns*, not just the previous batch. A given systemic error may not appear a second time.
+- `MODEL_ALIAS_REQUIRES_OEM_PROOF` → any "overseas version / export name / equivalent model / 对应车型 / 同款" requires explicit OEM proof; without it, no SAME_MODEL relationship.
+- `SOURCE_MARKET_PATH_CHECK` → every official source is checked across URL region code, country selector, page country, dealer entity and the Market tag; never again e.g. Bahrain→UAE, South Africa→Global, Hong Kong→Europe.
+- `PRIMARY_SOURCE_SCOPE_MUST_MATCH` → even a government source is scope-checked (e.g. **light vehicle must not be extrapolated to commercial truck**); "official" never grants unlimited scope.
+
+### 0.3 Repeated-error penalty (mandatory)
+If a new article repeats a systemic error already recorded in this file:
+- It **must not** be marked `FACT_SOURCE_PASS`; set **`FACT_SOURCE_FAIL`**.
+- Record on the article/QA record: **`REPEATED_ERROR = TRUE`**, **`LESSON_ID = <the violated rule>`**, **`SEVERITY = HIGH`**.
+- The article **must not enter Codex final review** until corrected and re-QA'd.
+
+### 0.4 New-error learning (candidate, not self-promoted)
+After writing, run **SELF-REVIEW** for any *new* systemic problem that could recur in future batches.
+- If found, output a **`NEW_LESSON_CANDIDATE`** (with evidence and proposed rule).
+- The writing AI **must not promote a candidate to a permanent rule itself**. It enters `LESSONS_LEARNED.md` only **after independent review confirms it**.
+- Rules installed directly by the project owner (like this Gate) are already confirmed and are written in as permanent, not as candidates.
+
+### 0.5 Pre-writing checklist (copy into each batch QA)
+`[ ] repo pulled  [ ] LESSONS_LEARNED read  [ ] Fact Sheets read  [ ] Source Logs read  [ ] Daily Manifest read  [ ] each LESSON checked  [ ] no historical error triggered → writing allowed`
+
 ---
 
 ## LESSON: SOURCE_MARKET_PATH_CHECK
