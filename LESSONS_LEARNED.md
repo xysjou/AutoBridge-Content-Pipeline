@@ -137,6 +137,12 @@ Vehicle **model hub pages default to a stable, year-free, suffix-free URL**: `/v
 - A year-bearing URL is allowed **only** for an explicit historical model-year page, a model-year comparison, or an old-model archive.
 - Do not mint a new URL per year (`/2024/ /2025/ /2026/`); that creates cannibalisation against the evergreen hub. Check `state/published_urls.json` for collisions before assigning any slug.
 
+### LESSON: RULE_INSTALLATION_DOES_NOT_COMPLETE_CURRENT_TASK
+*Installed by project-owner directive (2026-09-04); permanently in force for Research AND Writing.*
+When an independent review says "**re-research the CURRENT batch**", writing the rule into LESSONS_LEARNED does **not** discharge the task, and it must never be silently deferred to "next batch / tomorrow / next time touched / from YYYY-MM-DD onward".
+- In the same round you MUST also: **UPDATE the current Fact Sheet · UPDATE the Source Log · UPDATE the research status/verdict · UPDATE the handover (FACTS_ALLOWED / NOT_ALLOWED)** — until every named current-batch article is actually remediated.
+- Recording a permanent rule and executing the named current task are two separate obligations; the first never substitutes for the second.
+
 ### LESSON: FACT_SOURCE_PASS_GATE_LOGIC (writing gate)
 `FACT_SOURCE_PASS` means **the core facts the article's search intent depends on are supported to a sufficiently reliable level**. Disclosing uncertainty is **not** a substitute for verification and never, by itself, earns a PASS (writing-side mirror of EVIDENCE_CEILING_IS_NOT_RESEARCH_PASS).
 - Allowed values: **PASS / CONDITIONAL / FAIL**. If a core regulation, standard, classification or threshold still needs official confirmation, the result is **CONDITIONAL or FAIL**, however many caveats the text carries.

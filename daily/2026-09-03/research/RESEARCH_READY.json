@@ -30,14 +30,24 @@
   },
   "dedup_baseline": {
     "historical_completed": 93,
-    "historical_batches": ["batch_20260831_001", "batch_20260901_001"],
+    "historical_batches": [
+      "batch_20260831_001",
+      "batch_20260901_001"
+    ],
     "prior_day_excluded": "2026-09-02 (20 MAIN +4 RESERVE)",
     "duplicate_vehicle": 0,
     "duplicate_intent": 0,
     "duplicate_url": 0,
     "update_existing_instead_of_new": 0
   },
-  "fact_confidence_policy": ["VERIFIED", "CROSS_CHECKED", "SINGLE_SOURCE", "CONFLICT", "UNVERIFIED", "TIME_SENSITIVE"],
+  "fact_confidence_policy": [
+    "VERIFIED",
+    "CROSS_CHECKED",
+    "SINGLE_SOURCE",
+    "CONFLICT",
+    "UNVERIFIED",
+    "TIME_SENSITIVE"
+  ],
   "conflict_quarantine": [
     {
       "article_id": "AB-260903-G08",
@@ -45,7 +55,11 @@
       "handling": "标 CONFLICT/TIME_SENSITIVE，不进入第二阶段确定性事实库，仅提供对照框架与官方核验路径"
     }
   ],
-  "high_risk_packages": ["AB-260903-G08", "AB-260903-GR1", "AB-260903-GR2"],
+  "high_risk_packages": [
+    "AB-260903-G08",
+    "AB-260903-GR1",
+    "AB-260903-GR2"
+  ],
   "ready_gate": {
     "intent_clear": true,
     "no_historical_duplicate": true,
@@ -55,5 +69,49 @@
     "all_main_ready": true
   },
   "writing_stage": "NOT_STARTED",
-  "note": "Research first. Facts before prose. No source, no claim. No verification, no publication. 本阶段不写正文、不做多语言、不打包文章ZIP；第二阶段以 main 上存在本文件且 status=READY 为启动前提。"
+  "note": "Research first. Facts before prose. No source, no claim. No verification, no publication. 本阶段不写正文、不做多语言、不打包文章ZIP；第二阶段以 main 上存在本文件且 status=READY 为启动前提。",
+  "remediation_2026-09-04": {
+    "trigger": "Current-batch re-research ordered by independent review (R4 P0); rule installation does not complete current task.",
+    "scope": [
+      "AB-260903-G01",
+      "AB-260903-G02",
+      "AB-260903-G03",
+      "AB-260903-G05",
+      "AB-260903-G08",
+      "AB-260903-G10"
+    ],
+    "checked_date": "2026-09-04",
+    "results": {
+      "AB-260903-G01": {
+        "status": "RESEARCH_PASS",
+        "writing_ai_ready": true
+      },
+      "AB-260903-G02": {
+        "status": "RESEARCH_PASS",
+        "writing_ai_ready": true
+      },
+      "AB-260903-G03": {
+        "status": "RESEARCH_PASS",
+        "writing_ai_ready": true
+      },
+      "AB-260903-G05": {
+        "status": "RESEARCH_PASS",
+        "writing_ai_ready": true,
+        "note": "Rebased to IMDG 42-24/UN3556; new slug; old UN3171 sheet SUPERSEDED"
+      },
+      "AB-260903-G08": {
+        "status": "RESEARCH_CONDITIONAL",
+        "writing_ai_ready": true,
+        "note": "Kenya VERIFIED; Nigeria 15y per official portal but portal has steering typo & 12y media claim lacks primary; other countries hard numbers removed (accuracy>coverage)"
+      },
+      "AB-260903-G10": {
+        "status": "RESEARCH_PASS",
+        "writing_ai_ready": true,
+        "note": "Art.596 VERIFIED via SPP official Civil Code; FindLaw demoted"
+      }
+    },
+    "handoff": "research/RESEARCH_REMEDIATION_2026-09-04.md",
+    "article_body_not_rewritten": true,
+    "next_stage": "Writing AI R5 may remediate only articles with writing_ai_ready=true, bounded by FACTS_ALLOWED_IN_BODY / FACTS_NOT_ALLOWED_IN_BODY."
+  }
 }

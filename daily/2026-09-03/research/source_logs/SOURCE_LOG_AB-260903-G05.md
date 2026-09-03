@@ -1,3 +1,5 @@
+> ⛔ SUPERSEDED 2026-09-04 (IMDG 40-20 / blanket-UN3171). Use SOURCE_LOG_AB-260903-G05_IMDG42-24.md.
+
 # SOURCE LOG — AB-260903-G05
 
 **Topic/Model**: 电动车/混动车海运危险品合规（UN3171、UN38.3、MSDS）
