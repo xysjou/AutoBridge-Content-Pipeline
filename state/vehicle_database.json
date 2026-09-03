@@ -241,86 +241,96 @@
       "article_id": "AB-260902-V01",
       "model_key": "BYD_YUAN_PLUS_2024",
       "batch": "daily_2026-09-02",
-      "version": "v2",
+      "version": "v3",
       "brand_model": "BYD / Yuan Plus 2024 (荣耀版)",
       "suggested_url": "/vehicles/byd-yuan-plus/",
-      "url_evergreenized_on": "2026-09-03"
+      "url_evergreenized_on": "2026-09-03",
+      "r3_on": "2026-09-03"
     },
     {
       "article_id": "AB-260902-V02",
       "model_key": "CHANGAN_UNI_V_2024",
       "batch": "daily_2026-09-02",
-      "version": "v2",
+      "version": "v3",
       "brand_model": "Changan / UNI-V 2024",
       "suggested_url": "/vehicles/changan-uni-v/",
-      "url_evergreenized_on": "2026-09-03"
+      "url_evergreenized_on": "2026-09-03",
+      "r3_on": "2026-09-03"
     },
     {
       "article_id": "AB-260902-V03",
       "model_key": "BYD_QIN_PLUS_DMI_2024",
       "batch": "daily_2026-09-02",
-      "version": "v2",
+      "version": "v3",
       "brand_model": "BYD / Qin Plus DM-i 2024 (荣耀版)",
       "suggested_url": "/vehicles/byd-qin-plus-dmi/",
-      "url_evergreenized_on": "2026-09-03"
+      "url_evergreenized_on": "2026-09-03",
+      "r3_on": "2026-09-03"
     },
     {
       "article_id": "AB-260902-V04",
       "model_key": "GAC_TRUMPCHI_M8_2024",
       "batch": "daily_2026-09-02",
-      "version": "v2",
+      "version": "v3",
       "brand_model": "GAC Trumpchi / M8 2024",
       "suggested_url": "/vehicles/gac-trumpchi-m8/",
-      "url_evergreenized_on": "2026-09-03"
+      "url_evergreenized_on": "2026-09-03",
+      "r3_on": "2026-09-03"
     },
     {
       "article_id": "AB-260902-V05",
       "model_key": "GREAT_WALL_POER_2024",
       "batch": "daily_2026-09-02",
-      "version": "v2",
+      "version": "v3",
       "brand_model": "Great Wall / Poer (Pao) 2024",
       "suggested_url": "/vehicles/great-wall-poer/",
-      "url_evergreenized_on": "2026-09-03"
+      "url_evergreenized_on": "2026-09-03",
+      "r3_on": "2026-09-03"
     },
     {
       "article_id": "AB-260902-V06",
       "model_key": "FORTHING_LINGZHI_M5",
       "batch": "daily_2026-09-02",
-      "version": "v1",
+      "version": "v3",
       "brand_model": "Forthing (Dongfeng) / Lingzhi M5/M5L",
-      "suggested_url": "/vehicles/forthing-lingzhi-m5/"
+      "suggested_url": "/vehicles/forthing-lingzhi-m5/",
+      "r3_on": "2026-09-03"
     },
     {
       "article_id": "AB-260902-V07",
       "model_key": "JAC_KANGLING_LIGHT_TRUCK",
       "batch": "daily_2026-09-02",
-      "version": "v1",
+      "version": "v3",
       "brand_model": "JAC / Kangling (领跑L6) light truck",
-      "suggested_url": "/vehicles/jac-kangling-light-truck/"
+      "suggested_url": "/vehicles/jac-kangling-light-truck/",
+      "r3_on": "2026-09-03"
     },
     {
       "article_id": "AB-260902-V08",
       "model_key": "SINOTRUK_HOWO_T7H_TRACTOR",
       "batch": "daily_2026-09-02",
-      "version": "v1",
+      "version": "v3",
       "brand_model": "Sinotruk / HOWO T7H tractor",
-      "suggested_url": "/vehicles/sinotruk-howo-t7h-tractor/"
+      "suggested_url": "/vehicles/sinotruk-howo-t7h-tractor/",
+      "r3_on": "2026-09-03"
     },
     {
       "article_id": "AB-260902-V09",
       "model_key": "SHACMAN_X3000_DUMP_TRUCK",
       "batch": "daily_2026-09-02",
-      "version": "v1",
+      "version": "v3",
       "brand_model": "Shacman / Delong X3000 dump truck",
-      "suggested_url": "/vehicles/shacman-x3000-dump-truck/"
+      "suggested_url": "/vehicles/shacman-x3000-dump-truck/",
+      "r3_on": "2026-09-03"
     },
     {
       "article_id": "AB-260902-V10",
       "model_key": "FOTON_AUMARK_REFRIGERATED_TRUCK",
       "batch": "daily_2026-09-02",
-      "version": "v1",
+      "version": "v3",
       "brand_model": "Foton Ollin / Aumark refrigerated truck",
-      "suggested_url": "/vehicles/foton-aumark-refrigerated-truck/"
+      "suggested_url": "/vehicles/foton-aumark-refrigerated-truck/",
+      "r3_on": "2026-09-03"
     }
   ]
 }

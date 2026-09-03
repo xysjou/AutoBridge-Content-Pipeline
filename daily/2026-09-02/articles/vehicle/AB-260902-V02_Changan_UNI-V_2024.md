@@ -90,8 +90,8 @@ There is no static AutoBridge export price. The RMB 108,900–139,900 Chinese gu
 *Confidence note (AutoBridge standard): the 1.5T powertrain and 2750 mm wheelbase are VERIFIED on Changan's own pages (manufacturer official). The 2.0T figures are CROSS_CHECKED across independent databases; curb weight is SINGLE_SOURCE and must be matched to the compliance plate.*
 
 ## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/autobridge-export-sourcing-team/) · method per our [Editorial Policy](/about/editorial-policy/)
-- **Last reviewed**: 2026-09-02 · **Second-round revision**: 2026-09-03 (confidence relabelled to the strict standard; URL made evergreen)
+- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
+- **Last reviewed**: 2026-09-02 · **R3 (2026-09-03): internal links set to live /authors/ and /editorial-policy/ paths; operations claims framed as recommended/editorial method** · **Second-round revision**: 2026-09-03 (confidence relabelled to the strict standard; URL made evergreen)
 - **Reference market**: China, 2024 model year (evergreen model page; export UNI-V governed by destination sheets)
 - **Verification method**: Brand-official pages cross-matched with independent databases; single-source items labelled
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS (evergreen URL) · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off

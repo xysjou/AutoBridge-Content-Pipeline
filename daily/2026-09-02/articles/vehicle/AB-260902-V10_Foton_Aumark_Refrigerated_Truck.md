@@ -48,7 +48,7 @@ The captured reference lists three fitment routes (single-source, to be confirme
 Procurement questions that decide the unit: required set-point and pull-down time (chilled ~0 to +5 °C vs frozen −18 °C vs ultra-low), standalone (own engine) vs vehicle-driven/compressor, standby electric operation for depot plug-in, and — critically for an importer — **local service and spare parts for the refrigeration brand**. An imported Thermo King/Carrier unit is easier to service in many countries but costs more; a domestic unit needs a confirmed parts route.
 
 ## What AutoBridge Adds Beyond a Chassis Quote
-Reefer quotes often price a chassis and leave the box and cooling unit vague. AutoBridge keeps **chassis / insulated box / refrigeration unit as three separately specified, separately priced lines**, fixes the **box material/thickness and K-value plus the unit's temperature range and standby (electric) option** to the operating climate, and matches the whole combination to the **destination food/pharma cold-chain certification** before deposit.
+Reefer quotes often price a chassis and leave the box and cooling unit vague. The recommended method is to keep **chassis / insulated box / refrigeration unit as three separately specified, separately priced lines**, match the **box material/thickness and K-value plus the unit's temperature range and standby (electric) option** to the operating climate, and check the whole combination against the **destination food/pharma cold-chain certification** before deposit.
 ## Verification Before Payment
 
 - Obtain the **factory/coachbuilder spec for chassis, box and refrigeration unit separately**, with model numbers; the 360che figures are single-source.
@@ -82,8 +82,8 @@ No authoritative price was captured — reefer pricing varies widely with box co
 *Confidence note (AutoBridge standard): Cummins/Suyun facts are VERIFIED on Foton-official material and cross-checked; detailed Jieyun announcement figures are SINGLE_SOURCE (360che). Reefer unit models and price are builder-dependent and UNVERIFIED for price; confirm in writing.*
 
 ## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/autobridge-export-sourcing-team/) · method per our [Editorial Policy](/about/editorial-policy/)
-- **Last reviewed**: 2026-09-02 · **Second-round revision**: 2026-09-03 (confidence relabelled; procurement-increment block added)
+- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
+- **Last reviewed**: 2026-09-02 · **R3 (2026-09-03): internal links set to live /authors/ and /editorial-policy/ paths; operations claims framed as recommended/editorial method** · **Second-round revision**: 2026-09-03 (confidence relabelled; procurement-increment block added)
 - **Reference market**: China, current-sale announcement configuration
 - **Verification method**: Official Foton material plus an independent commercial database; chassis/body/unit kept separate; single-source and price gaps disclosed
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off

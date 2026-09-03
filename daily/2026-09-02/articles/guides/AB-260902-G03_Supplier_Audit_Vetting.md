@@ -61,7 +61,7 @@ One of the clearest fraud indicators is a **payee account name that differs from
 - Prefer payment instruments that match risk (see the T/T vs L/C guide); avoid full prepayment to an unverified entity.
 
 ## What AutoBridge Adds Beyond a Business-License Screenshot
-A license scan proves a company exists, not that it may export *your* vehicle. AutoBridge cross-checks the counterparty against the **current-year MOFCOM qualified list** (2026 application under 商办贸函〔2025〕408号; pure-EV passenger licensing from 2026-01-01 under joint Announcement No. 54), reconstructs the **brand-authorisation chain to the OEM**, and runs a **contract/invoice/bank-account name match** before deposit — the three checks that distinguish an authorised exporter from a trading shell.
+A license scan proves a company exists, not that it may export *your* vehicle. This guide recommends checking the counterparty against the **current-year MOFCOM qualified list** (2026 application under 商办贸函〔2025〕408号; pure-EV passenger licensing from 2026-01-01 under joint Announcement No. 54), reconstructs the **brand-authorisation chain to the OEM**, and runs a **contract/invoice/bank-account name match** before deposit — the three checks that distinguish an authorised exporter from a trading shell.
 ## A Practical Eight-Step Sequence
 
 1. Pull the gsxt business-licence record independently.
@@ -104,8 +104,8 @@ A license scan proves a company exists, not that it may export *your* vehicle. A
 *Confidence note (AutoBridge standard): qualification rules rest on primary MOFCOM/MIIT sources (VERIFIED), now including the 2026 application notice (商办贸函〔2025〕408号) and joint Announcement No. 54 on pure-EV passenger export licensing. The current-year qualified list and AEO query are dynamic and must be checked live; operational checklist items are industry-sourced and point back to official systems.*
 
 ## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/autobridge-export-sourcing-team/) · method per our [Editorial Policy](/about/editorial-policy/)
-- **Last reviewed**: 2026-09-02 · **Second-round revision**: 2026-09-03 (2026 MOFCOM regime cross-referenced; confidence relabelled; increment block added)
+- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
+- **Last reviewed**: 2026-09-02 · **R3 (2026-09-03): internal links set to live /authors/ and /editorial-policy/ paths; operations claims framed as recommended/editorial method** · **Second-round revision**: 2026-09-03 (2026 MOFCOM regime cross-referenced; confidence relabelled; increment block added)
 - **Reference market**: China export side (applies globally)
 - **Verification method**: Primary government documents for the legal baseline; industry guides for operational process; dynamic lists left to live verification
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off

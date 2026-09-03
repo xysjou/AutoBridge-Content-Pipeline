@@ -40,7 +40,7 @@ Customs export declaration; commercial invoice stating Incoterm and insured valu
 ## Step 6 — Destination Compliance Before Production
 Research the destination **before** tooling: banned/restricted models, RHD/LHD, vehicle-age rules, accident/modified-unit treatment and the accepted emission stage — country-specific (see the Saudi, Russia and Chile guides). A China-domestic-spec fleet is not automatically importable.
 ## What AutoBridge Adds Beyond a Sourcing-Agent Template
-Agents quote a truck; AutoBridge converts the buyer's **duty cycle into a measurable technical annex**, checks the exporter against the **2026 qualified list and the new pure-EV passenger licensing rule by category**, and writes **tender-grade, inspectable acceptance criteria** (steel grade, plate thickness, named axles/gearbox) so a fleet cannot be delivered in a weaker build that still "matches the model name."
+Agents quote a truck; The recommended framework is to translate the buyer's **duty cycle into a measurable technical annex**, check the exporter against the **2026 qualified list and the new pure-EV passenger licensing rule by category**, and specify **tender-grade, inspectable acceptance criteria** (steel grade, plate thickness, named axles/gearbox) so a fleet cannot be delivered in a weaker build that still "matches the model name."
 ## Negotiation Dimensions (no invented numbers)
 Pin contractually: unit price vs specification level, spare-parts/common-wear kit, technician training/warranty, milestone-tied delivery schedule, inspection rights and phased payment against production/inspection evidence. Obtain real figures per project; never assume a bulk-discount percentage.
 ## Pre-Contract Checklist
@@ -68,8 +68,8 @@ Pin contractually: unit price vs specification level, spare-parts/common-wear ki
 | Duty-cycle/customisation guidance (double-layer frame, duty-rated axles) | CV manufacturers (Chary/FAW guidance; Chengli 12-step flow) | CN→Global | https://www.charymachinery.com/the-step-by-step-guide-for-international-buyers-sourcing-commercial-vehicles-from-china.html | 2026-09-02 | CROSS_CHECKED | Engineering/process guidance |
 *Confidence note: the 2026 export-licence regime and the tender acceptance indicators are VERIFIED on government/real-tender sources. Engineering/process guidance is manufacturer/industry (CROSS_CHECKED); current-year lists, OEM overseas networks and all commercial terms (discount/MOQ/lead time) are obtained live and never estimated.*
 ## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/autobridge-export-sourcing-team/) · method per our [Editorial Policy](/about/editorial-policy/)
-- **Last reviewed**: 2026-09-02 · **Second-round source revision**: 2026-09-03 (2026 MOFCOM application notice, Announcement 54 NEV licensing, 2026 list and Nov-2025 used-car notice added)
+- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
+- **Last reviewed**: 2026-09-02 · **R3 (2026-09-03): internal links set to live /authors/ and /editorial-policy/ paths; operations claims framed as recommended/editorial method** · **Second-round source revision**: 2026-09-03 (2026 MOFCOM application notice, Announcement 54 NEV licensing, 2026 list and Nov-2025 used-car notice added)
 - **Reference market**: Global (commercial vehicles sourced from China)
 - **Verification method**: Government primary sources for the 2026 licence regime; a real tender for acceptance criteria; commercial figures left to negotiation
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS (2026 official MOFCOM sources added) · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off

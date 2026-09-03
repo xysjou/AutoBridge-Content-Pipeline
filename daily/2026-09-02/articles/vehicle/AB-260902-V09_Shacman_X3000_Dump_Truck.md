@@ -42,7 +42,7 @@ When ordering, match horsepower to the **engine model suffix and emission stage*
 X3000 dumps are deliberately offered across **China V, China VI and lower-spec (Euro II-class) calibrations** because destination fuel quality and import rules differ so widely. A high-grade engine run on high-sulphur fuel can fail early; an over-specified emission system may be un-serviceable locally. Specify the emission level the destination actually requires and that its fuel supports — and obtain the matching engine/emission certificate rather than accepting a generic "X3000" description.
 
 ## What AutoBridge Adds Beyond a Truck Spec Card
-Dump-truck quotes routinely blur the **400 PS official export engine** and the **430 PS China-announcement build**. AutoBridge fixes the **exact engine code and emission stage to the VIN/announcement certificate**, matches the **axle ratio and 12.00R20 tyre/rim choice to the haul grade**, and writes the **bed steel grade, volume and lift system into an inspectable annex** — preventing the common substitution of a weaker 8×4 build that still carries the X3000 name.
+Dump-truck quotes routinely blur the **400 PS official export engine** and the **430 PS China-announcement build**. This guide recommends fixing the **exact engine code and emission stage to the VIN/announcement certificate**, matching the **axle ratio and 12.00R20 tyre/rim choice to the haul grade**, and specifying the **bed steel grade, volume and lift system in an inspectable annex** — guarding against substitution of a weaker 8×4 build that still carries the X3000 name.
 ## Tipping and Chassis Checks for Buyers
 
 - **Body and hydraulics**: confirm body length (7.6 m reference), side/board height, steel grade, rear-tip vs side-tip, and the hydraulic hoist brand/capacity; bodies are often built to order.
@@ -76,8 +76,8 @@ No authoritative price was captured and none is estimated. Enquire with **Destin
 *Confidence note (AutoBridge standard): the 400 PS export engine is VERIFIED on Shacman-official channels; the detailed 430 PS 8×4 announcement figures are SINGLE_SOURCE (360che). Price is UNVERIFIED and omitted. Confirm the final build on the Shacman International sheet.*
 
 ## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/autobridge-export-sourcing-team/) · method per our [Editorial Policy](/about/editorial-policy/)
-- **Last reviewed**: 2026-09-02 · **Second-round revision**: 2026-09-03 (confidence relabelled; procurement-increment block added)
+- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
+- **Last reviewed**: 2026-09-02 · **R3 (2026-09-03): internal links set to live /authors/ and /editorial-policy/ paths; operations claims framed as recommended/editorial method** · **Second-round revision**: 2026-09-03 (confidence relabelled; procurement-increment block added)
 - **Reference market**: China reference build + official export configurations
 - **Verification method**: Official Shacman channels plus an independent commercial database; single-source items labelled
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off

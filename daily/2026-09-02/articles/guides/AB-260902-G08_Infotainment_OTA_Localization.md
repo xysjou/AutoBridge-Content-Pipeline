@@ -13,9 +13,14 @@
 Software behaviour is **brand- and VIN-specific**, so this page deliberately separates two kinds of statement:
 - **Brand/model-specific facts** — these can only be settled on the exact VIN via the brand's overseas channel or a live test; they are never inferred from another model.
 - **Industry examples** — named cases (a BYD account-language path, a Denza export build, a localisation-service case) that illustrate *what can happen*, and **must not be generalised into "all Chinese cars"**.
-A China-domestic unit is engineered around Chinese users and domestic cloud services; homologating the hardware does not make its software work abroad.
+A China-market unit is typically engineered around Chinese users and domestic cloud services; homologating the hardware does not, on its own, guarantee that its software works abroad. This is a risk to test for on the VIN, not a statement that every China-market unit fails overseas — factory export builds are designed precisely to avoid it.
 ## Why a China-Domestic Unit Can Struggle Overseas (industry pattern)
-Mainstream Chinese brands use largely self-developed, Android-based cockpits (industry examples include BYD **DiLink**, NIO **SkyOS** and XPeng **Xmart OS** — illustrative, not a uniform feature list) with a Chinese-default language layer and domestic-service ecosystem. Localisation providers report parallel-imported cars in markets from Ukraine and Russia to the UAE, Saudi, Brazil and Thailand arriving with Chinese-only UI, China-only maps and inaccessible master accounts. Treat this as a **pattern to test for**, not a claim that every unit of every brand behaves identically: the same brand may ship a fully localised export build alongside a domestic one.
+Many Chinese brands use largely self-developed, Android-based cockpits (industry examples include BYD **DiLink**, NIO **SkyOS** and XPeng **Xmart OS** — illustrative, not a uniform feature list), often with a Chinese-default language layer and domestic-service ecosystem. In **reported cases**, *some parallel-imported China-market vehicles* in markets from Ukraine and Russia to the UAE, Saudi, Brazil and Thailand arrived with Chinese-only UI, China-only maps or inaccessible master accounts. Treat these as **reported cases and a pattern to test for**, not a claim that every unit of every brand behaves identically: the same brand may ship a fully localised export build alongside a domestic one, and one model's case does not establish another model's behaviour.
+## Evidence Ceiling (read before generalising)
+This article's cross-brand material has a hard ceiling: **all five supporting sources are SINGLE_SOURCE industry/service/media accounts, and there is no official cross-brand (regulator or multi-OEM) source** establishing that Chinese vehicles as a class share these software problems. Accordingly:
+- The named BYD, Denza and localisation cases support only *themselves* — they are evidence that an outcome *can* occur, not that it occurs for other brands/models.
+- No conclusion here states or implies that all (or most) China-market cars have Chinese-only UI, locked maps, unreachable OTA or blocked accounts; those are **risks to test for**, per VIN.
+- The article's value is the **per-VIN test framework**, not a proof of a universal defect. Any decisive answer for a specific car comes from a live test and the brand's overseas channel.
 ## The Five Failure Points — Test Each on the Actual VIN
 | Check | What "works" means | Typical China-spec problem | Evidence type |
 |---|---|---|---|
@@ -42,10 +47,10 @@ On the **actual VIN**, ideally on a destination-network SIM/Wi-Fi:
 - For RTL markets, verify layout direction, not just vocabulary.
 - Put results in the contract: if checks 1–5 cannot be demonstrated, take the export build or walk away.
 ## What AutoBridge Adds Beyond Localisation-Shop Marketing
-Localisation vendors have an incentive to say every problem is fixable (for a fee). AutoBridge instead runs a **brand-neutral, VIN-bound acceptance test**, records which failures are hardware/region-locked versus language-only, and separates **documented brand capability from anecdote** in the purchase file — so a buyer does not pay for a "full English conversion" that a factory export build would have provided, or rely on a case study from a different model.
+Localisation vendors have an incentive to say every problem is fixable (for a fee). This guide instead recommends a **brand-neutral, VIN-bound acceptance test**: note which failures are hardware/region-locked versus language-only, and keep **documented brand capability separate from anecdote** in the purchase file — so a buyer neither pays for a "full English conversion" that a factory export build would have provided, nor relies on a case study from a different model.
 ## Frequently Asked Questions
 **Can a China-spec car just be switched to English?** Sometimes partially (a documented BYD master-account case), but maps, app/server and OTA are separate; confirm for the exact VIN rather than generalising the example.
-**Why does navigation fail abroad?** Domestic builds ship China maps/data; you need an export build or a brand-supported local-map solution, plus local charger data for EVs.
+**Why does navigation fail abroad?** Some China-market builds ship China maps/data; where that is the case you need an export build or a brand-supported local-map solution, plus local charger data for EVs — confirm on the VIN.
 **Will OTA still arrive overseas?** Only if the endpoint is region-reachable — test on the actual car; do not infer it from another model.
 **Is reflashing safe?** Unauthorised flashing can void warranty and raise compliance issues; prefer the factory export build or a brand-supported route.
 **Does English UI make it Arabic-ready?** No — Arabic needs RTL layout and proper localisation beyond translation.
@@ -59,8 +64,8 @@ Localisation vendors have an incentive to say every problem is fixable (for a fe
 | Multilingual/RTL export standard | CCID 赛迪 / Neusoft OneCoreGo coverage (industry media) | Global | http://www.ccidnet.com/hlw/93237.jhtml | 2026-09-02 | SINGLE_SOURCE | RTL/Arabic layout consideration |
 *Confidence note: all cited material is industry/service/media and is used as illustration of patterns or single brand cases — never as proof that all Chinese vehicles share the behaviour. Per-brand export language lists, OTA server-region policy and the "mandatory English HMI" inspection claim were not confirmed by a primary regulator and must be settled on the brand's overseas channel for the specific VIN.*
 ## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/autobridge-export-sourcing-team/) · method per our [Editorial Policy](/about/editorial-policy/)
-- **Last reviewed**: 2026-09-02 · **Second-round source revision**: 2026-09-03 (brand-specific facts explicitly separated from industry examples; generalisation from a few cases removed)
+- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
+- **Last reviewed**: 2026-09-02 · **R3 (2026-09-03): cross-brand generalisation reduced; explicit Evidence Ceiling added** · **Second-round source revision**: 2026-09-03 (brand-specific facts explicitly separated from industry examples; generalisation from a few cases removed)
 - **Reference market**: Global (China export / parallel import)
 - **Verification method**: Industry cases labelled as examples; every decisive check routed to a per-VIN live test and the brand's overseas channel
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS (over-generalisation removed; evidence types labelled) · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off

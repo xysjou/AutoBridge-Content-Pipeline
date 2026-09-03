@@ -56,7 +56,7 @@ With a 3070 mm (Grandmaster/Master) wheelbase in a 5.2-metre body, the M8 is con
 - If a customer specifically wants the **hybrid (双擎)**, request its separate official specification — this page does not infer hybrid battery/motor figures from the petrol car.
 
 ## What AutoBridge Adds Beyond the Brochure
-MPV buyers are sold a "luxury seven-seater" label that hides three different series and seat layouts. AutoBridge records the **series-specific wheelbase and torque calibration (400 vs 390 N·m)** on the order, produces a **line-item second-row seat-equipment list** (ventilation/heating/massage, leg rests, powered doors) so trim is not mis-substituted, and reconciles the Chinese build against GAC's **overseas M8 sheet** before deposit, so China dimensions are never copied onto an export VIN.
+MPV buyers are sold a "luxury seven-seater" label that hides three different series and seat layouts. This guide recommends recording the **series-specific wheelbase and torque calibration (400 vs 390 N·m)** on the order, preparing a **line-item second-row seat-equipment list** (ventilation/heating/massage, leg rests, powered doors) so trim is not mis-substituted, and comparing the Chinese build against GAC's **overseas M8 sheet** before deposit rather than copying China dimensions onto an export VIN.
 ## Pre-Payment Checklist
 
 1. Record the exact series (Grandmaster/Master/Lingxiu) and grade; attach the matching dimensions and 400 vs 390 N·m calibration.
@@ -95,8 +95,8 @@ AutoBridge issues live quotations rather than a static price list. Chinese domes
 *Confidence note (AutoBridge standard): Grandmaster/Master core specs are VERIFIED on GAC's own pages (manufacturer official); Lingxiu values are CROSS_CHECKED across independent databases. The 400 vs 390 N·m calibration is intentionally kept separate by series; hybrid (双擎) specs are not asserted.*
 
 ## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/autobridge-export-sourcing-team/) · method per our [Editorial Policy](/about/editorial-policy/)
-- **Last reviewed**: 2026-09-02 · **Second-round revision**: 2026-09-03 (confidence relabelled; URL made evergreen)
+- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
+- **Last reviewed**: 2026-09-02 · **R3 (2026-09-03): internal links set to live /authors/ and /editorial-policy/ paths; operations claims framed as recommended/editorial method** · **Second-round revision**: 2026-09-03 (confidence relabelled; URL made evergreen)
 - **Reference market**: China model (evergreen model page; overseas GAC M8 exists and the destination sheet governs export builds)
 - **Verification method**: Official GAC pages plus independent-database cross-check; series-specific figures kept distinct
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS (evergreen URL) · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off

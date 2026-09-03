@@ -24,7 +24,7 @@
       "Fact QA": "PASS",
       "SEO QA": "PASS",
       "Content QA": "PASS",
-      "Final Status": "R2_REVISED_PENDING_CODEX",
+      "Final Status": "CODEX_REVIEW_PENDING",
       "Reserve Replacement": "None",
       "Creation Date": "2026-09-02",
       "Approx Words": 1551,
@@ -36,7 +36,12 @@
       "PUBLISH_APPROVED": false,
       "Codex Final-Review Eligible": "Yes",
       "Second-Round Revision": "2026-09-03",
-      "URL Change R2": "year-slug -> evergreen /vehicles/byd-yuan-plus/"
+      "URL Change R2": "year-slug -> evergreen /vehicles/byd-yuan-plus/",
+      "Third-Round Revision": "2026-09-03",
+      "R3 Status": "R3_FIXED",
+      "R3 Global Fixes": "live internal links; operations claims -> recommended/editorial method",
+      "R3 Fact Re-QA": "PASS",
+      "R3 Targeted Note": "Atto3 = regional same-nominal-capacity reference, not 1:1 trim equivalent"
     },
     {
       "Article ID": "AB-260902-V02",
@@ -52,7 +57,7 @@
       "Fact QA": "PASS",
       "SEO QA": "PASS",
       "Content QA": "PASS",
-      "Final Status": "R2_REVISED_PENDING_CODEX",
+      "Final Status": "CODEX_REVIEW_PENDING",
       "Reserve Replacement": "None",
       "Creation Date": "2026-09-02",
       "Approx Words": 1397,
@@ -64,7 +69,10 @@
       "PUBLISH_APPROVED": false,
       "Codex Final-Review Eligible": "Yes",
       "Second-Round Revision": "2026-09-03",
-      "URL Change R2": "year-slug -> evergreen /vehicles/changan-uni-v/"
+      "URL Change R2": "year-slug -> evergreen /vehicles/changan-uni-v/",
+      "Third-Round Revision": "2026-09-03",
+      "R3 Status": "R3_FIXED",
+      "R3 Global Fixes": "live internal links; operations claims -> recommended/editorial method"
     },
     {
       "Article ID": "AB-260902-V03",
@@ -80,7 +88,7 @@
       "Fact QA": "PASS",
       "SEO QA": "PASS",
       "Content QA": "PASS",
-      "Final Status": "R2_REVISED_PENDING_CODEX",
+      "Final Status": "CODEX_REVIEW_PENDING",
       "Reserve Replacement": "None",
       "Creation Date": "2026-09-02",
       "Approx Words": 1281,
@@ -92,7 +100,12 @@
       "PUBLISH_APPROVED": false,
       "Codex Final-Review Eligible": "Yes",
       "Second-Round Revision": "2026-09-03",
-      "URL Change R2": "year-slug -> evergreen /vehicles/byd-qin-plus-dmi/"
+      "URL Change R2": "year-slug -> evergreen /vehicles/byd-qin-plus-dmi/",
+      "Third-Round Revision": "2026-09-03",
+      "R3 Status": "R3_FIXED",
+      "R3 Global Fixes": "live internal links; operations claims -> recommended/editorial method",
+      "R3 Fact Re-QA": "PASS",
+      "R3 Targeted Note": "en-bh corrected to Bahrain; Seal 05 same-model inference removed (OEM-proof rule)"
     },
     {
       "Article ID": "AB-260902-V04",
@@ -108,7 +121,7 @@
       "Fact QA": "PASS",
       "SEO QA": "PASS",
       "Content QA": "PASS",
-      "Final Status": "R2_REVISED_PENDING_CODEX",
+      "Final Status": "CODEX_REVIEW_PENDING",
       "Reserve Replacement": "None",
       "Creation Date": "2026-09-02",
       "Approx Words": 1403,
@@ -120,7 +133,10 @@
       "PUBLISH_APPROVED": false,
       "Codex Final-Review Eligible": "Yes",
       "Second-Round Revision": "2026-09-03",
-      "URL Change R2": "year-slug -> evergreen /vehicles/gac-trumpchi-m8/"
+      "URL Change R2": "year-slug -> evergreen /vehicles/gac-trumpchi-m8/",
+      "Third-Round Revision": "2026-09-03",
+      "R3 Status": "R3_FIXED",
+      "R3 Global Fixes": "live internal links; operations claims -> recommended/editorial method"
     },
     {
       "Article ID": "AB-260902-V05",
@@ -136,7 +152,7 @@
       "Fact QA": "PASS",
       "SEO QA": "PASS",
       "Content QA": "PASS",
-      "Final Status": "R2_REVISED_PENDING_CODEX",
+      "Final Status": "CODEX_REVIEW_PENDING",
       "Reserve Replacement": "None",
       "Creation Date": "2026-09-02",
       "Approx Words": 1353,
@@ -148,7 +164,10 @@
       "PUBLISH_APPROVED": false,
       "Codex Final-Review Eligible": "Yes",
       "Second-Round Revision": "2026-09-03",
-      "URL Change R2": "year-slug -> evergreen /vehicles/great-wall-poer/"
+      "URL Change R2": "year-slug -> evergreen /vehicles/great-wall-poer/",
+      "Third-Round Revision": "2026-09-03",
+      "R3 Status": "R3_FIXED",
+      "R3 Global Fixes": "live internal links; operations claims -> recommended/editorial method"
     },
     {
       "Article ID": "AB-260902-V06",
@@ -164,7 +183,7 @@
       "Fact QA": "PASS",
       "SEO QA": "PASS",
       "Content QA": "PASS",
-      "Final Status": "R2_REVISED_PENDING_CODEX",
+      "Final Status": "CODEX_REVIEW_PENDING",
       "Reserve Replacement": "None",
       "Creation Date": "2026-09-02",
       "Approx Words": 1380,
@@ -175,7 +194,10 @@
       "CODEX_REVIEW_PASS": "PENDING",
       "PUBLISH_APPROVED": false,
       "Codex Final-Review Eligible": "Yes",
-      "Second-Round Revision": "2026-09-03"
+      "Second-Round Revision": "2026-09-03",
+      "Third-Round Revision": "2026-09-03",
+      "R3 Status": "R3_FIXED",
+      "R3 Global Fixes": "live internal links; operations claims -> recommended/editorial method"
     },
     {
       "Article ID": "AB-260902-V07",
@@ -191,7 +213,7 @@
       "Fact QA": "PASS",
       "SEO QA": "PASS",
       "Content QA": "PASS",
-      "Final Status": "R2_REVISED_PENDING_CODEX",
+      "Final Status": "CODEX_REVIEW_PENDING",
       "Reserve Replacement": "None",
       "Creation Date": "2026-09-02",
       "Approx Words": 1756,
@@ -202,7 +224,10 @@
       "CODEX_REVIEW_PASS": "PENDING",
       "PUBLISH_APPROVED": false,
       "Codex Final-Review Eligible": "Yes",
-      "Second-Round Revision": "2026-09-03"
+      "Second-Round Revision": "2026-09-03",
+      "Third-Round Revision": "2026-09-03",
+      "R3 Status": "R3_FIXED",
+      "R3 Global Fixes": "live internal links; operations claims -> recommended/editorial method"
     },
     {
       "Article ID": "AB-260902-V08",
@@ -218,7 +243,7 @@
       "Fact QA": "PASS",
       "SEO QA": "PASS",
       "Content QA": "PASS",
-      "Final Status": "R2_REVISED_PENDING_CODEX",
+      "Final Status": "CODEX_REVIEW_PENDING",
       "Reserve Replacement": "None",
       "Creation Date": "2026-09-02",
       "Approx Words": 1289,
@@ -229,7 +254,10 @@
       "CODEX_REVIEW_PASS": "PENDING",
       "PUBLISH_APPROVED": false,
       "Codex Final-Review Eligible": "Yes",
-      "Second-Round Revision": "2026-09-03"
+      "Second-Round Revision": "2026-09-03",
+      "Third-Round Revision": "2026-09-03",
+      "R3 Status": "R3_FIXED",
+      "R3 Global Fixes": "live internal links; operations claims -> recommended/editorial method"
     },
     {
       "Article ID": "AB-260902-V09",
@@ -245,7 +273,7 @@
       "Fact QA": "PASS",
       "SEO QA": "PASS",
       "Content QA": "PASS",
-      "Final Status": "R2_REVISED_PENDING_CODEX",
+      "Final Status": "CODEX_REVIEW_PENDING",
       "Reserve Replacement": "None",
       "Creation Date": "2026-09-02",
       "Approx Words": 1269,
@@ -256,7 +284,10 @@
       "CODEX_REVIEW_PASS": "PENDING",
       "PUBLISH_APPROVED": false,
       "Codex Final-Review Eligible": "Yes",
-      "Second-Round Revision": "2026-09-03"
+      "Second-Round Revision": "2026-09-03",
+      "Third-Round Revision": "2026-09-03",
+      "R3 Status": "R3_FIXED",
+      "R3 Global Fixes": "live internal links; operations claims -> recommended/editorial method"
     },
     {
       "Article ID": "AB-260902-V10",
@@ -272,7 +303,7 @@
       "Fact QA": "PASS",
       "SEO QA": "PASS",
       "Content QA": "PASS",
-      "Final Status": "R2_REVISED_PENDING_CODEX",
+      "Final Status": "CODEX_REVIEW_PENDING",
       "Reserve Replacement": "None",
       "Creation Date": "2026-09-02",
       "Approx Words": 1316,
@@ -283,7 +314,10 @@
       "CODEX_REVIEW_PASS": "PENDING",
       "PUBLISH_APPROVED": false,
       "Codex Final-Review Eligible": "Yes",
-      "Second-Round Revision": "2026-09-03"
+      "Second-Round Revision": "2026-09-03",
+      "Third-Round Revision": "2026-09-03",
+      "R3 Status": "R3_FIXED",
+      "R3 Global Fixes": "live internal links; operations claims -> recommended/editorial method"
     },
     {
       "Article ID": "AB-260902-G01",
@@ -299,7 +333,7 @@
       "Fact QA": "PASS",
       "SEO QA": "PASS",
       "Content QA": "PASS",
-      "Final Status": "R2_REVISED_PENDING_CODEX",
+      "Final Status": "CODEX_REVIEW_PENDING",
       "Reserve Replacement": "None",
       "Creation Date": "2026-09-02",
       "Approx Words": 1907,
@@ -310,7 +344,12 @@
       "CODEX_REVIEW_PASS": "PENDING",
       "PUBLISH_APPROVED": false,
       "Codex Final-Review Eligible": "Yes",
-      "Second-Round Revision": "2026-09-03"
+      "Second-Round Revision": "2026-09-03",
+      "Third-Round Revision": "2026-09-03",
+      "R3 Status": "R3_FIXED",
+      "R3 Global Fixes": "live internal links; operations claims -> recommended/editorial method",
+      "R3 Fact Re-QA": "PASS",
+      "R3 Targeted Note": "entity/e-call absolutes softened to risk-control; direct Decision 877 full text added"
     },
     {
       "Article ID": "AB-260902-G02",
@@ -326,7 +365,7 @@
       "Fact QA": "PASS",
       "SEO QA": "PASS",
       "Content QA": "PASS",
-      "Final Status": "R2_REVISED_PENDING_CODEX",
+      "Final Status": "CODEX_REVIEW_PENDING",
       "Reserve Replacement": "None",
       "Creation Date": "2026-09-02",
       "Approx Words": 1833,
@@ -337,7 +376,12 @@
       "CODEX_REVIEW_PASS": "PENDING",
       "PUBLISH_APPROVED": false,
       "Codex Final-Review Eligible": "Yes",
-      "Second-Round Revision": "2026-09-03"
+      "Second-Round Revision": "2026-09-03",
+      "Third-Round Revision": "2026-09-03",
+      "R3 Status": "R3_FIXED",
+      "R3 Global Fixes": "live internal links; operations claims -> recommended/editorial method",
+      "R3 Fact Re-QA": "PASS",
+      "R3 Targeted Note": "FACT_SOURCE withdrawn then re-passed after HS-first rebuild; ZATCA 5/15 confined to light-vehicle scope"
     },
     {
       "Article ID": "AB-260902-G03",
@@ -353,7 +397,7 @@
       "Fact QA": "PASS",
       "SEO QA": "PASS",
       "Content QA": "PASS",
-      "Final Status": "R2_REVISED_PENDING_CODEX",
+      "Final Status": "CODEX_REVIEW_PENDING",
       "Reserve Replacement": "None",
       "Creation Date": "2026-09-02",
       "Approx Words": 1572,
@@ -364,7 +408,10 @@
       "CODEX_REVIEW_PASS": "PENDING",
       "PUBLISH_APPROVED": false,
       "Codex Final-Review Eligible": "Yes",
-      "Second-Round Revision": "2026-09-03"
+      "Second-Round Revision": "2026-09-03",
+      "Third-Round Revision": "2026-09-03",
+      "R3 Status": "R3_FIXED",
+      "R3 Global Fixes": "live internal links; operations claims -> recommended/editorial method"
     },
     {
       "Article ID": "AB-260902-G04",
@@ -380,7 +427,7 @@
       "Fact QA": "PASS",
       "SEO QA": "PASS",
       "Content QA": "PASS",
-      "Final Status": "R2_REVISED_PENDING_CODEX",
+      "Final Status": "CODEX_REVIEW_PENDING",
       "Reserve Replacement": "None",
       "Creation Date": "2026-09-02",
       "Approx Words": 1743,
@@ -391,7 +438,12 @@
       "CODEX_REVIEW_PASS": "PENDING",
       "PUBLISH_APPROVED": false,
       "Codex Final-Review Eligible": "Yes",
-      "Second-Round Revision": "2026-09-03"
+      "Second-Round Revision": "2026-09-03",
+      "Third-Round Revision": "2026-09-03",
+      "R3 Status": "R3_FIXED",
+      "R3 Global Fixes": "live internal links; operations claims -> recommended/editorial method",
+      "R3 Fact Re-QA": "PASS",
+      "R3 Targeted Note": "85% NMC removed; metered charge = screening cross-check; absolute causality removed"
     },
     {
       "Article ID": "AB-260902-G05",
@@ -407,7 +459,7 @@
       "Fact QA": "PASS",
       "SEO QA": "PASS",
       "Content QA": "PASS",
-      "Final Status": "R2_REVISED_PENDING_CODEX",
+      "Final Status": "CODEX_REVIEW_PENDING",
       "Reserve Replacement": "None",
       "Creation Date": "2026-09-02",
       "Approx Words": 1356,
@@ -418,7 +470,10 @@
       "CODEX_REVIEW_PASS": "PENDING",
       "PUBLISH_APPROVED": false,
       "Codex Final-Review Eligible": "Yes",
-      "Second-Round Revision": "2026-09-03"
+      "Second-Round Revision": "2026-09-03",
+      "Third-Round Revision": "2026-09-03",
+      "R3 Status": "R3_FIXED",
+      "R3 Global Fixes": "live internal links; operations claims -> recommended/editorial method"
     },
     {
       "Article ID": "AB-260902-G06",
@@ -434,7 +489,7 @@
       "Fact QA": "PASS",
       "SEO QA": "PASS",
       "Content QA": "PASS",
-      "Final Status": "R2_REVISED_PENDING_CODEX",
+      "Final Status": "CODEX_REVIEW_PENDING",
       "Reserve Replacement": "None",
       "Creation Date": "2026-09-02",
       "Approx Words": 1369,
@@ -445,7 +500,10 @@
       "CODEX_REVIEW_PASS": "PENDING",
       "PUBLISH_APPROVED": false,
       "Codex Final-Review Eligible": "Yes",
-      "Second-Round Revision": "2026-09-03"
+      "Second-Round Revision": "2026-09-03",
+      "Third-Round Revision": "2026-09-03",
+      "R3 Status": "R3_FIXED",
+      "R3 Global Fixes": "live internal links; operations claims -> recommended/editorial method"
     },
     {
       "Article ID": "AB-260902-G07",
@@ -461,7 +519,7 @@
       "Fact QA": "PASS",
       "SEO QA": "PASS",
       "Content QA": "PASS",
-      "Final Status": "R2_REVISED_PENDING_CODEX",
+      "Final Status": "CODEX_REVIEW_PENDING",
       "Reserve Replacement": "None",
       "Creation Date": "2026-09-02",
       "Approx Words": 1481,
@@ -472,7 +530,12 @@
       "CODEX_REVIEW_PASS": "PENDING",
       "PUBLISH_APPROVED": false,
       "Codex Final-Review Eligible": "Yes",
-      "Second-Round Revision": "2026-09-03"
+      "Second-Round Revision": "2026-09-03",
+      "Third-Round Revision": "2026-09-03",
+      "R3 Status": "R3_FIXED",
+      "R3 Global Fixes": "live internal links; operations claims -> recommended/editorial method",
+      "R3 Fact Re-QA": "PASS",
+      "R3 Targeted Note": "Incoterms vs UCP 110% split; ICC(A) subject to exclusions/wording"
     },
     {
       "Article ID": "AB-260902-G08",
@@ -488,7 +551,7 @@
       "Fact QA": "PASS",
       "SEO QA": "PASS",
       "Content QA": "PASS",
-      "Final Status": "R2_REVISED_PENDING_CODEX",
+      "Final Status": "CODEX_REVIEW_PENDING",
       "Reserve Replacement": "None",
       "Creation Date": "2026-09-02",
       "Approx Words": 1376,
@@ -499,7 +562,12 @@
       "CODEX_REVIEW_PASS": "PENDING",
       "PUBLISH_APPROVED": false,
       "Codex Final-Review Eligible": "Yes",
-      "Second-Round Revision": "2026-09-03"
+      "Second-Round Revision": "2026-09-03",
+      "Third-Round Revision": "2026-09-03",
+      "R3 Status": "R3_FIXED",
+      "R3 Global Fixes": "live internal links; operations claims -> recommended/editorial method",
+      "R3 Fact Re-QA": "PASS",
+      "R3 Targeted Note": "cross-brand generalisation reduced; explicit Evidence Ceiling"
     },
     {
       "Article ID": "AB-260902-G09",
@@ -515,7 +583,7 @@
       "Fact QA": "PASS",
       "SEO QA": "PASS",
       "Content QA": "PASS",
-      "Final Status": "R2_REVISED_PENDING_CODEX",
+      "Final Status": "CODEX_REVIEW_PENDING",
       "Reserve Replacement": "None",
       "Creation Date": "2026-09-02",
       "Approx Words": 1460,
@@ -526,7 +594,10 @@
       "CODEX_REVIEW_PASS": "PENDING",
       "PUBLISH_APPROVED": false,
       "Codex Final-Review Eligible": "Yes",
-      "Second-Round Revision": "2026-09-03"
+      "Second-Round Revision": "2026-09-03",
+      "Third-Round Revision": "2026-09-03",
+      "R3 Status": "R3_FIXED",
+      "R3 Global Fixes": "live internal links; operations claims -> recommended/editorial method"
     },
     {
       "Article ID": "AB-260902-G10",
@@ -542,7 +613,7 @@
       "Fact QA": "PASS",
       "SEO QA": "PASS",
       "Content QA": "PASS",
-      "Final Status": "R2_REVISED_PENDING_CODEX",
+      "Final Status": "CODEX_REVIEW_PENDING",
       "Reserve Replacement": "None",
       "Creation Date": "2026-09-02",
       "Approx Words": 1461,
@@ -553,12 +624,33 @@
       "CODEX_REVIEW_PASS": "PENDING",
       "PUBLISH_APPROVED": false,
       "Codex Final-Review Eligible": "Yes",
-      "Second-Round Revision": "2026-09-03"
+      "Second-Round Revision": "2026-09-03",
+      "Third-Round Revision": "2026-09-03",
+      "R3 Status": "R3_FIXED",
+      "R3 Global Fixes": "live internal links; operations claims -> recommended/editorial method"
     }
   ],
   "second_round_revision": "2026-09-03",
   "gate_system": "EDITORIAL_QA_PASS/FACT_SOURCE_PASS/SEO_PASS/CODEX_REVIEW_PASS/PUBLISH_APPROVED",
   "r2_revised": 20,
   "codex_eligible": 20,
-  "publish_approved": 0
+  "publish_approved": 0,
+  "third_round_revision": {
+    "date": "2026-09-03",
+    "scope": "global link/claim fixes x20; targeted fact-boundary fixes x7",
+    "targeted": [
+      "G01",
+      "G02",
+      "G04",
+      "G07",
+      "G08",
+      "V01",
+      "V03"
+    ],
+    "fact_reqa_pass": 7,
+    "new_lessons": 5,
+    "lessons_file": "LESSONS_LEARNED.md",
+    "result": "all 20 R3_FIXED -> CODEX_REVIEW_PENDING; no CODEX_REVIEW_PASS/PUBLISH_APPROVED self-granted"
+  },
+  "r3_fixed": 20
 }

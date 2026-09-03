@@ -182,5 +182,7 @@
         "AB-260902-G10"
       ]
     }
-  }
+  },
+  "r3_revised_on": "2026-09-03",
+  "r3_note": "AB-260902 guides advanced to CODEX_REVIEW_PENDING (v3); cluster stores IDs only"
 }

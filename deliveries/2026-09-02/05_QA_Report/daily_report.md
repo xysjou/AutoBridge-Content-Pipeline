@@ -88,3 +88,17 @@ R2 was a deep SEO / E-E-A-T / people-first rebuild (not polish), per the 2026-09
 - **Duplicate-template interception**: 0 shared conclusion blocks after rewrite; H2 sets differ by EV/PHEV/ICE/Pickup/Heavy/Special and by each guide's question.
 
 **Conclusion (R2): 20/20 rebuilt to the stricter standard and cleared for the independent Codex final review; publication remains gated on PUBLISH_APPROVED.**
+
+---
+
+## Addendum — Third Round (R3), 2026-09-03
+
+Point-fix round only (no full rewrite). Full report: `qa/THIRD_ROUND_FIXES_2026-09-02.md`.
+
+- **Batch-wide (20/20)**: internal links set to live `/authors/` and `/editorial-policy/`; "What AutoBridge Adds" operations claims reframed as recommended/editorial method (no invented first-hand experience).
+- **Targeted fact-boundary fixes (7), FACT_SOURCE re-QA PASS**: V01 (Atto 3 = regional same-nominal-capacity reference, not 1:1 equivalent); V03 (en-bh = **Bahrain** not UAE; Seal 05 same-model inference removed); G01 (entity/e-call absolutes softened; direct Decision 877 full text added); G02 (**FACT_SOURCE withdrawn → rebuilt HS-first → re-passed**; ZATCA 5%/15% confined to light-vehicle scope); G04 (85% NMC deleted; metered charge = screening cross-check; absolute causality removed); G07 (Incoterms vs UCP 110% split; ICC(A) subject to exclusions/wording); G08 (cross-brand generalisation reduced; explicit Evidence Ceiling).
+- **Permanent rules added (5)**: root `LESSONS_LEARNED.md` — SOURCE_MARKET_PATH_CHECK, MODEL_ALIAS_REQUIRES_OEM_PROOF, HS_FIRST_FOR_IMPORT_RULES, FIRST_HAND_EXPERIENCE_MUST_BE_TRUE, PRIMARY_SOURCE_SCOPE_MUST_MATCH.
+- **R3 totals**: R3_FIXED 20 · R3_UNRESOLVED 0 blocking · targeted re-QA PASS 7 · reserve replacements 0 · duplicate interception 0.
+- **Gates after R3**: EDITORIAL_QA_PASS 20/20 · FACT_SOURCE_PASS 20/20 · SEO_PASS 20/20 · **CODEX_REVIEW_PASS = PENDING 20/20** · **PUBLISH_APPROVED = FALSE 20/20**. All 20 final status = **CODEX_REVIEW_PENDING**; one non-blocking note (optional regulator-domain deep link for G01) handed to Codex.
+
+**Conclusion (R3): 20/20 R3_FIXED and held at CODEX_REVIEW_PENDING for the independent Codex final review; no CODEX/PUBLISH gate self-granted.**

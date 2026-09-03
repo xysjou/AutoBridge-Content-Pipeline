@@ -32,7 +32,7 @@ Vehicles placed on the Chilean market require **3CV homologation** (the safety/e
 - **Any "luxury/surtax" threshold** (an industry source cited a percentage above a value band): **not confirmed against Chilean tax authority (SII) text and removed from the factual cost stack** — verify applicability to your model/price with a Chilean tax source before budgeting.
 - **ANAC's May-2026 proposal to cut the 6% duty for EVs from non-FTA partners**: a trade-association **proposal, not enacted law**. Note also that a compliant Chinese-origin EV already uses the FTA 0% channel, so the non-FTA debate is a different line. Re-check at shipment date; never quote a proposal as policy.
 ## What AutoBridge Adds Beyond a Tariff Blog
-Generic guides mix courier de-minimis rules, proposals and enacted tax into one number. AutoBridge builds a **country-correct stack for a *vehicle*** (6% general / 0% FTA preference + 19% IVA on duty-inclusive value), ties the **certificate-of-origin document set to the VIN**, and runs the **3CV timeline in parallel with shipping** so the 0% preference is not lost on a paperwork mismatch and first registration is not delayed.
+Generic guides mix courier de-minimis rules, proposals and enacted tax into one number. The recommended method is to build a **country-correct stack for a *vehicle*** (6% general / 0% FTA preference + 19% IVA on the duty-inclusive value), tie the **certificate-of-origin document set to the VIN**, and plan the **3CV timeline in parallel with shipping** so the 0% preference is not lost on a paperwork mismatch and first registration is not delayed.
 ## Operating Sequence
 1. Classify the HS code and confirm its FTA rule of origin before pricing.
 2. Arrange the FTA Certificate of Origin with documents matching the VIN.
@@ -61,8 +61,8 @@ Generic guides mix courier de-minimis rules, proposals and enacted tax into one 
 | ANAC six measures to make EVs cheaper (proposal, not law) | AUTOGUÍA (Chilean auto media) | CL | https://www.autoguia.cl/electromovilidad/2026/05/10/las-6-medidas-que-anac-le-pide-al-gobierno-para-que-los-autos-electricos-sean-mas-baratos-en-chile.html | 2026-09-02 | SINGLE_SOURCE | Proposal status only — explicitly not enacted |
 *Confidence note: the 6% general duty and 19% IVA are VERIFIED on Chilean Customs; the FTA 0% preference is official but conditional on origin. The previously included 1%/US$30 courier rule (not applicable to vehicles), an unconfirmed luxury-surtax threshold and a fixed 3CV fee have been removed from the factual body; HS-level rules of origin and any surtax must be confirmed with Chilean Customs/SII/SUBREI.*
 ## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/autobridge-export-sourcing-team/) · method per our [Editorial Policy](/about/editorial-policy/)
-- **Last reviewed**: 2026-09-02 · **Second-round source revision**: 2026-09-03 (Chilean Customs official source added; inapplicable courier fee and unconfirmed surtax/3CV numbers removed)
+- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
+- **Last reviewed**: 2026-09-02 · **R3 (2026-09-03): internal links set to live /authors/ and /editorial-policy/ paths; operations claims framed as recommended/editorial method** · **Second-round source revision**: 2026-09-03 (Chilean Customs official source added; inapplicable courier fee and unconfirmed surtax/3CV numbers removed)
 - **Reference market**: Chile
 - **Verification method**: Government customs primary source for duty/IVA; official trade body for the FTA preference; proposals and unconfirmed fees kept out of the factual stack
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS (Chilean official source added; unsupported numbers removed) · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off

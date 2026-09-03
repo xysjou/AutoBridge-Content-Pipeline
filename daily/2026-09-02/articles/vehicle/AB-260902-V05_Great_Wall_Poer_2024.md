@@ -32,7 +32,7 @@ For a pickup the bed and rated payload are the commercial core, and they are ver
 | 商用版 Commercial | Work-oriented, long bed (3470 mm WB), wider transmission choice | Payload/GVW, bed length, leaf-spring set-up, manual option |
 | 越野版 Off-road | Enhanced 4WD, locks, chassis/tyre upgrades | Low range, diff locks, tyres, ground clearance, angles |
 ## What AutoBridge Adds Beyond the Brochure
-Pickup listings blur model years and markets, so buyers receive a "2.4 diesel 480 Nm" truck that may carry an 8AT or a 9AT, or a standard bed sold as a long bed. AutoBridge pins **engine code + transmission model + wheelbase/bed + drive type to the VIN build sheet**, separates 2024-reference values from current GWM-official outputs, and refuses to quote payload/towing that the official sheet does not state — preventing the most common double-cab order mismatch.
+Pickup listings blur model years and markets, so buyers receive a "2.4 diesel 480 Nm" truck that may carry an 8AT or a 9AT, or a standard bed sold as a long bed. The recommended method is to pin **engine code + transmission model + wheelbase/bed + drive type to the VIN build note**, keep 2024-reference values separate from current GWM-official outputs, and decline to quote payload/towing that the official sheet does not state — avoiding the most common double-cab order mismatch.
 ## Export Verification for Pickup Buyers
 - Confirm **LHD/RHD** and that the chosen engine/transmission is produced in that steering layout.
 - Verify destination **emissions/fuel** acceptance (diesel stage differs by GCC/LatAm/ANZ rule) — the Chinese label is not proof.
@@ -57,8 +57,8 @@ No static export price is published; China RMB references are **domestic and tim
 | Pao parameters (wheelbase/drive by version) | 360che / Autohome | CN | https://product.360che.com/m792/198189_param.html | 2026-09-02 | CROSS_CHECKED | 3230/3470 wheelbases, version drive/transmission |
 *Confidence note: current outputs/transmissions are VERIFIED on GWM-official pages; the 2024 China passenger values are CROSS_CHECKED on databases and are deliberately kept separate to avoid mixing model years. Payload/GVW/towing remain for the official sheet and are not estimated.*
 ## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/autobridge-export-sourcing-team/) · method per our [Editorial Policy](/about/editorial-policy/)
-- **Last reviewed**: 2026-09-02 · **Second-round source revision**: 2026-09-03 (GWM-official China + export pages added; 2024 vs current outputs/8AT-vs-9AT separated; URL evergreen)
+- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
+- **Last reviewed**: 2026-09-02 · **R3 (2026-09-03): internal links set to live /authors/ and /editorial-policy/ paths; operations claims framed as recommended/editorial method** · **Second-round source revision**: 2026-09-03 (GWM-official China + export pages added; 2024 vs current outputs/8AT-vs-9AT separated; URL evergreen)
 - **Reference market**: China 2024 passenger build + current GWM-official export builds (shown separately)
 - **Verification method**: Manufacturer-official current data + database cross-check of the named 2024 build; model-year differences preserved, not flattened
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS (OEM sources added) · SEO_PASS=PASS (evergreen URL) · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off

@@ -42,7 +42,7 @@ Domestic Chinese EVs generally ship with **GB/T** DC charging and the GB/T 27930
 The China–Japan **ChaoJi** ultra-fast-charging project is designed so that a common physical interface is compatible across **GB/T, CHAdeMO and CCS** systems, and is regarded as a future DC standardisation direction (per an official CHAdeMO Association document). It is forward-looking context: do **not** assume a current production GB/T vehicle already benefits from ChaoJi — verify model support officially before using it as a selling point.
 
 ## What AutoBridge Adds Beyond a Connector Chart
-A standards chart tells you GB/T differs from CCS2; it does not tell you whether *this VIN* will charge. AutoBridge records the **physical inlet, handshake protocol and onboard-charger rating as one VIN-bound record**, distinguishes a **hardware adapter (mechanical only) from a protocol gateway (GB/T 27930 handshake)** in the purchase file, and verifies the **adapter's legality and warranty effect in the destination** before deposit rather than after arrival.
+A standards chart tells you GB/T differs from CCS2; it does not tell you whether *this VIN* will charge. The recommended method is to record **physical inlet, handshake protocol and onboard-charger rating as one VIN-bound note**, distinguish a **hardware adapter (mechanical only) from a protocol gateway (GB/T 27930 handshake)** in the purchase file, and confirm the **adapter's legality and warranty effect in the destination** before deposit rather than after arrival.
 ## Per-Vehicle Verification Matrix
 
 For every model/trim you export, record in a sheet:
@@ -84,8 +84,8 @@ For every model/trim you export, record in a sheet:
 *Confidence note (AutoBridge standard): standard-level facts are VERIFIED/CROSS_CHECKED (CHAdeMO Association is a standards body). Per-model export connectors, adapter legality by country and NACS rollout timing were not captured and must be confirmed per VIN and per destination authority.*
 
 ## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/autobridge-export-sourcing-team/) · method per our [Editorial Policy](/about/editorial-policy/)
-- **Last reviewed**: 2026-09-02 · **Second-round revision**: 2026-09-03 (confidence relabelled; increment block added)
+- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
+- **Last reviewed**: 2026-09-02 · **R3 (2026-09-03): internal links set to live /authors/ and /editorial-policy/ paths; operations claims framed as recommended/editorial method** · **Second-round revision**: 2026-09-03 (confidence relabelled; increment block added)
 - **Reference market**: Global (China export side; EU/JP/NA deployment)
 - **Verification method**: Standards-body document plus cross-checked industry sources; model-specific connectors left to official per-VIN confirmation
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off

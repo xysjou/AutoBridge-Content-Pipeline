@@ -44,7 +44,7 @@ Note that model **names differ between China and export markets** (e.g., Yuan Pl
 The legality and export feasibility of converting an LHD Chinese car to RHD were **not verified** in this research, and such conversions routinely void type approval and warranty, alter crash structure and fail registration in strict RHD markets. Treat any supplier offering cheap "RHD conversion" as a high-risk signal and require evidence of regulatory approval; in most professional procurement the safe rule is **factory RHD or don't ship**.
 
 ## What AutoBridge Adds Beyond a "We Can Do RHD" Claim
-Sellers assert RHD availability without distinguishing a factory line from a conversion shop. AutoBridge requires **factory-line evidence for the exact model (build photos, VIN, local-distributor confirmation)**, refuses aftermarket LHD→RHD steering swaps, and maps the chosen car to the **destination's RHD registration/inspection rule and wipers/mirror/headlamp-beam requirements** before deposit.
+Sellers assert RHD availability without distinguishing a factory line from a conversion shop. This guide recommends **factory-line evidence for the exact model (build photos, VIN, local-distributor confirmation)**, cautions against aftermarket LHD→RHD steering swaps, and checking the chosen car against the **destination's RHD registration/inspection rule and wiper/mirror/headlamp-beam requirements** before deposit.
 ## Procurement Checklist for RHD Orders
 
 - Destination market and its RHD registration/homologation rules named.
@@ -76,8 +76,8 @@ Sellers assert RHD availability without distinguishing a factory line from a con
 *Confidence note (AutoBridge standard): only Dongfeng's Thailand RHD launch is VERIFIED (manufacturer official). Brand model lists are export-service/media snapshots (SINGLE_SOURCE) that change frequently and must be confirmed on official brand/local-distributor channels per VIN. Aftermarket conversion legality was not verified and is flagged as risk.*
 
 ## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/autobridge-export-sourcing-team/) · method per our [Editorial Policy](/about/editorial-policy/)
-- **Last reviewed**: 2026-09-02 · **Second-round revision**: 2026-09-03 (confidence relabelled; increment block added)
+- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
+- **Last reviewed**: 2026-09-02 · **R3 (2026-09-03): internal links set to live /authors/ and /editorial-policy/ paths; operations claims framed as recommended/editorial method** · **Second-round revision**: 2026-09-03 (confidence relabelled; increment block added)
 - **Reference market**: Global RHD markets (sourcing from China)
 - **Verification method**: One official launch plus industry snapshots; availability deliberately left to per-VIN official confirmation
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off

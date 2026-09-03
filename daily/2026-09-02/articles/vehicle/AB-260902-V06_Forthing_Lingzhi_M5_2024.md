@@ -53,7 +53,7 @@ Payload and cargo-volume ratings were not captured in Stage 1 and are not estima
 - Check whether the destination treats a 9-seater as a minibus requiring additional driver/operator licensing.
 
 ## What AutoBridge Adds Beyond the Parameter Page
-A van order fails on small mismatches: a "9-seater" registered as a different category, or a CNG unit sold where gas certification does not exist. AutoBridge fixes **wheelbase (2800/3000), exact seat count and fuel type as one locked combination** on the build sheet, checks the destination's **driver-licence/operator category for a 9-seater**, and — for CNG — requires a recognised **gas-cylinder certification path** before deposit rather than assuming the petrol calibration transfers.
+A van order fails on small mismatches: a "9-seater" registered as a different category, or a CNG unit sold where gas certification does not exist. This guide recommends locking **wheelbase (2800/3000), exact seat count and fuel type as one combination** on the build note, checking the destination's **driver-licence/operator category for a 9-seater**, and — for CNG — requiring a recognised **gas-cylinder certification path** before deposit rather than assuming the petrol calibration transfers.
 ## Pre-Payment Verification List
 
 - Pin down M5 vs M5L (2800 vs 3000 mm wheelbase) and exact seat count (5/7/8/9).
@@ -86,8 +86,8 @@ AutoBridge quotes on request rather than publishing fixed export prices. Chinese
 *Confidence note (AutoBridge standard): dimensions/wheelbase/seat layouts are VERIFIED on Forthing's official parameter page; 1.5T/CNG powertrains are CROSS_CHECKED; curb weight is SINGLE_SOURCE. Payload/cargo volume were not in the fact base and are left for the official sheet; export/RHD specs are not asserted.*
 
 ## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/autobridge-export-sourcing-team/) · method per our [Editorial Policy](/about/editorial-policy/)
-- **Last reviewed**: 2026-09-02 · **Second-round revision**: 2026-09-03 (confidence relabelled; procurement-increment block added)
+- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
+- **Last reviewed**: 2026-09-02 · **R3 (2026-09-03): internal links set to live /authors/ and /editorial-policy/ paths; operations claims framed as recommended/editorial method** · **Second-round revision**: 2026-09-03 (confidence relabelled; procurement-increment block added)
 - **Reference market**: China M5/M5L (evergreen model page; export nameplates differ and are confirmed per destination)
 - **Verification method**: Brand-official parameter page plus independent-database cross-check; manual/CNG and single-source items labelled
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off
