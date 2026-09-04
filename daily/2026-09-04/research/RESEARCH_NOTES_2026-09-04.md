@@ -1,23 +1,27 @@
-# RESEARCH NOTES 2026-09-04
-## 概况
-- 期次：2026-09-04（周五，Asia/Shanghai）。Stage 1 研究，只产出 Fact Sheet / Source Log / QA / Manifest，不写正文、不多语言、不打包。
-- 产出：MAIN 车型 10 + MAIN 指南 10 + RESERVE 4 = 24 包；来源 89 条（T1=16 / T2=32 / T3=33 / T4=8）；判定 17 PASS / 7 CONDITIONAL / 0 FAIL；MAIN_READY=20 → RESEARCH_READY.STATUS=READY。
-- 门规：按 LESSONS_LEARNED PART 1（commit 33eff0e3）执行，为 09-03 永久升级后首个执行日。
+# RESEARCH NOTES — 2026-09-04（独立审核整改 v1.1）
 
-## 采集与来源说明
-- 乘用车：懂车帝/汽车之家/搜狐车型库/中关村在线等两个独立结构化库交叉（CROSS_CHECKED 上限），重要参数标注待品牌官网终核；本批未取到品牌英文官网，故车型参数不标 VERIFIED，official_source_available=NO，符合"两个数据库一致≠VERIFIED"。
-- 商用车：以卡车之家（360che 体系，部分内容托管于今日头条，已如实标注域名）+ 工信部批次公示/政府源交叉。
-- 法规：中国侧优先国务院/海关总署/工信部/海事局/贸促会官方 PDF（T1）；G08 关键标准拿到 msa.gov.cn 官方 IMDG 42-24 文本。
+## 0. 启动门 STARTUP_HEAD_SHA_GATE
+- REPO_HEAD_SHA@pull = ad84c58400aefc9b12baac1cbae9f5ea2bc2d36a
+- LESSONS_LEARNED_SHA = b4c46a7c28ba06227f0f4250bcc951048e701f2f
+- LESSONS_READ_AT = 2026-09-04 Asia/Shanghai
+- 改前 LOCAL_HEAD=ORIGIN_MAIN；该HEAD仅改LESSONS与09-03,未占用09-04 research,无并发覆盖。
 
-## 关键标准更新（本期落实）
-- IMDG Amendment 42-24，决议 MSC.556(108)，2026-01-01 起对中国强制；锂电驱动车辆现行 UN3556（锂金属 UN3557、钠离子 UN3558），新增 P912；旧 UN3171 收窄到湿/钠金属电池车辆设备。散装锂电=UN3480、与设备同装/内含=UN3481，运输前需 UN38.3 摘要。
+## 1. 本轮范围（只修审核点名项，不重做20篇）
+整改包：V04、V07、G01、G02、G04、G05、G06、G07、G08、G09；URL整改覆盖全部24包。未改Writing已动正文，未碰articles/qa/deliveries。
 
-## 未解决问题（UNRESOLVED，第二阶段不得自行补写）
-- G04《海商法》提单条文官方 URL；G06 UNECE R83/R49、EN228/EN590 一手 URL；G08 联合国 UN38.3 手册与 IMO 英文页面 URL；G07 GB16737/WMI 分配查询入口；G09 GB21085 正式发布版与一致性证书国标号；GR1 拉美主管机构 T1；GR2 国务院条例原文 URL。
+## 2. 判定变化
+- G02 PASS→CONDITIONAL：法律框架只回答“目录内必检”，未取得现行《必须实施检验目录》整车逐10位税号清单前，不对具体车型断言必检/免检。
+- G04 CONDITIONAL→PASS：补全国人大《海商法》2025修订（主席令58号，2026-05-01施行）第80/81/87条一手骨架。
+- V04 维持CONDITIONAL：市场误标已纠、GWM官网证明“初恋海外版=JOLION”（基础车名SAME_MODEL），但中国版扭矩/变速箱仅澳版来源，入BLOCKED待二源。
+- 其余：V07消矛盾定SAME_MODEL；G01换2026税则；G05换承运人官方；G06换现行标准；G07换标准正文；G08补UN一手；G09拆分现行/草案，均PASS。
 
-## NEW_LESSON_CANDIDATE（仅候选，待独立审核，不自行写入 LESSONS）
-1. Error Pattern：汽车起重机/专用车上装参数在第三方百科型号高度混淆（QY25E/QY25K5D/QY50K5D）。Suggested Rule：专用车若底盘型号或额定参数在两个来源不一致且无厂商官网，应直接换题而非 CONDITIONAL 保留。Detection：fact 中出现≥2 个不同型号代码即触发。
-2. Error Pattern：卡车之家(360che)大量原创内容仅以今日头条镜像可检索。Suggested Rule：Source Name 可写卡车之家但 domain 必须如实填 m.toutiao.com 并降一级权威，不得标注为 360che.com 官方页。
+## 3. 汇总
+- MAIN：PASS 15 / CONDITIONAL 5 / FAIL 0；WRITING_READY 20/20。
+- 全24包：PASS 17 / CONDITIONAL 7 / FAIL 0。
+- 批次状态：READY_WITH_CONDITIONS（存在MAIN CONDITIONAL且无FAIL）。来源合计 120 条（T1占比显著提升，法规/标准类全部具备官方一手）。
 
-## 推送状态
-- 研究文件先生成于本地暂存 repo_stage_0904；生成时 GitHub MCP 连接器未挂载，RESEARCH_READY.pushed_to_github=false。连接器恢复后用 push_files 分批提交，commit message 固定 "Daily research 2026-09-04"，只写 /daily/2026-09-04/research/，提交后回读核验并把 pushed 改为 true、补 commit sha。
+## 4. 新增永久规则（已按独立审核要求写入 LESSONS_LEARNED.md PART 4）
+STARTUP_HEAD_SHA_GATE / DRAFT_STANDARD_IS_NOT_CURRENT_STANDARD / PLACEHOLDER_URL_BLOCK / BATCH_STATUS_TAXONOMY。
+
+## 5. 版本与交接
+FACT_SHEET_VERSION=v1.1-2026-09-04（替代v1.0）；RESEARCH_LOCK=false；MAIN WRITING_AI_READY=true、RESERVE=false；Writing如已读v1.0必须重读v1.1。

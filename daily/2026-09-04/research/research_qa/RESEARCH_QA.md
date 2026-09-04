@@ -1,88 +1,63 @@
-# RESEARCH QA — AutoBridge Daily Research 2026-09-04
+# AutoBridge Daily Research QA — 2026-09-04（独立审核整改版 v1.1）
 
-> Stage 1 自检报告（只研究，不写正文）。门规版本：LESSONS_LEARNED.md PART 0 + PART 1（commit 33eff0e3，含 2026-09-03 Permanent Upgrade）。
-> 总包数 24（MAIN 20 / RESERVE 4）；来源记录合计 89 条（T1=16 / T2=32 / T3=33 / T4=8）；判定 {'RESEARCH_PASS': 17, 'RESEARCH_CONDITIONAL': 7, 'RESEARCH_FAIL': 0}。
+> 本文件为第一阶段 Research 自检，不代表文章已写完/可上线/Codex 已审。
+> 启动门：REPO_HEAD_SHA@pull=`ad84c58400aefc9b12baac1cbae9f5ea2bc2d36a`；LESSONS_LEARNED_SHA=`b4c46a7c28ba06227f0f4250bcc951048e701f2f`；LESSONS_READ_AT=2026-09-04 Asia/Shanghai；PRE-RESEARCH-SYNC=PASS（LOCAL_HEAD=ORIGIN_MAIN 后才改）。
+> 批次状态：**READY_WITH_CONDITIONS**；MAIN PASS/COND/FAIL = 15/5/0；WRITING_READY=20/20；FACT_SHEET_VERSION=v1.1-2026-09-04；来源合计 120 条。
 
-## 0. 选题清单与三级判定
-### 0.1 MAIN 车型（10）
-| Article ID | 类型 | 优先级 | 车型 | Verdict | 来源数 | 含T1官方 |
-|---|---|---|---|---|---|---|
-| AB-260904-V01 | VEHICLE_P | MAIN | Chery 奇瑞 Arrizo 8 艾瑞泽8 | RESEARCH_PASS | 3 | NO |
-| AB-260904-V02 | VEHICLE_P | MAIN | BYD 比亚迪 Qin L DM-i 秦L DM-i | RESEARCH_PASS | 4 | NO |
-| AB-260904-V03 | VEHICLE_P | MAIN | Wuling 上汽通用五菱 Bingo 缤果 | RESEARCH_PASS | 5 | NO |
-| AB-260904-V04 | VEHICLE_P | MAIN | GWM Haval 长城哈弗 Jolion(中国市场名:哈弗初恋) | RESEARCH_CONDITIONAL | 4 | NO |
-| AB-260904-V05 | VEHICLE_P | MAIN | Chery 奇瑞(风云/Fulwin) Fulwin T9 风云T9 | RESEARCH_PASS | 5 | YES |
-| AB-260904-V06 | VEHICLE_P | MAIN | GAC Trumpchi 广汽传祺 Trumpchi E8 PHEV 传祺E8(新能源) | RESEARCH_PASS | 5 | YES |
-| AB-260904-V07 | VEHICLE_P | MAIN | JAC 江淮 T9 Hunter(中国市场名:悍途) | RESEARCH_PASS | 5 | YES |
-| AB-260904-V08 | VEHICLE_P | MAIN | JMC 江铃 Shunda 顺达 轻卡(载货车) | RESEARCH_PASS | 4 | NO |
-| AB-260904-V09 | VEHICLE_P | MAIN | Dongfeng 东风商用车 Tianlong KL 天龙KL 牵引车 | RESEARCH_PASS | 4 | NO |
-| AB-260904-V10 | VEHICLE_P | MAIN | Dongfeng 东风商用车 Tianjin KR 天锦KR 冷藏车 | RESEARCH_PASS | 4 | NO |
-### 0.2 MAIN 采购指南（10）
-| Article ID | 类型 | 优先级 | 主题 | Verdict | 来源数 | 含T1官方 |
-|---|---|---|---|---|---|---|
-| AB-260904-G01 | PROCUREME | MAIN |  出口车辆HS编码归类:87.02/87.03/87.04/87.05与挂车8716怎么分 | RESEARCH_PASS | 3 | YES |
-| AB-260904-G02 | PROCUREME | MAIN |  中国侧出口商品检验与申报:车辆出口要不要商检、怎么办 | RESEARCH_PASS | 3 | YES |
-| AB-260904-G03 | PROCUREME | MAIN |  出口车辆原产地证书:CO/普惠制/自贸协定优惠产地证怎么办 | RESEARCH_PASS | 3 | YES |
-| AB-260904-G04 | PROCUREME | MAIN |  车辆海运提单怎么选:船东单MBL/货代单HBL/电放/海运单SWB | RESEARCH_CONDITIONAL | 4 | NO |
-| AB-260904-G05 | PROCUREME | MAIN |  车辆出口装运前整备PDI与防护:断电/油量/胎压/车身防护怎么做 | RESEARCH_CONDITIONAL | 3 | NO |
-| AB-260904-G06 | PROCUREME | MAIN |  中国车出海的排放与燃油适配:国六标准、汽柴油含硫与海外燃油匹配 | RESEARCH_CONDITIONAL | 3 | NO |
-| AB-260904-G07 | PROCUREME | MAIN |  车辆识别代号VIN与铭牌合规:17位结构/WMI/出口车铭牌要核对什么 | RESEARCH_PASS | 3 | YES |
-| AB-260904-G08 | PROCUREME | MAIN |  动力电池与备件海运合规:UN3480/3481、UN38.3与IMDG 42-24现行分类 | RESEARCH_PASS | 5 | YES |
-| AB-260904-G09 | PROCUREME | MAIN |  出口车辆随车文件包:合格证/一致性证书/技术参数表/底盘证怎么备 | RESEARCH_PASS | 4 | YES |
-| AB-260904-G10 | PROCUREME | MAIN |  车辆出口国际物流费用构成:O/F、THC、DOC、BAF等项目怎么核对 | RESEARCH_CONDITIONAL | 4 | NO |
-### 0.3 RESERVE（4）
-| Article ID | 类型 | 优先级 | 题目 | Verdict | 来源数 | 含T1官方 |
-|---|---|---|---|---|---|---|
-| AB-260904-VR1 | VEHICLE_P | RESERVE | Changan Nevo 长安启源 Qiyuan A07 启源A07 | RESEARCH_PASS | 3 | NO |
-| AB-260904-VR2 | VEHICLE_P | RESERVE | SAIC Maxus 上汽大通 Xintu V80 新途V80 厢式轻客 | RESEARCH_PASS | 3 | NO |
-| AB-260904-GR1 | PROCUREME | RESERVE |  拉美车辆准入认证:巴西(L-CVM/INMETRO/IBAMA)与墨西哥(NOM)分国框架 | RESEARCH_CONDITIONAL | 2 | NO |
-| AB-260904-GR2 | PROCUREME | RESERVE |  车辆出口知识产权:商标海关备案、OEM授权与平行出口侵权边界 | RESEARCH_CONDITIONAL | 3 | NO |
+## 一、规则十九条逐项自检
+- **1. 是否存在重复车型？** 无。24包与 /state 车型库(59)、09-02/09-03历史五重去重(车型/关键词/意图/URL/主题)无碰撞；V04为Jolion中外拆分专题、V07为T9/悍途身份澄清,均非重复建页。
+- **2. 是否存在重复搜索意图？** 无。G01归类/G02中国侧商检/G04提单/G08危规等意图互不重叠,与历史指南无 cannibalization。
+- **3. 是否存在重复URL？** 无。全部改为相对常绿路径且唯一;占位 .example 已清零(残留包:无)。车型Hub采用无年款/无-specs后缀常绿URL(EVERGREEN_MODEL_URL_BY_DEFAULT)。
+- **4. 是否把中国版当全球版？** 否。车型 REFERENCE_MARKET 一律 CHINA;V04海外HEV/澳版数据 market 已逐Fact改为 OVERSEAS(具体国),不再标CHINA;V06 E8 PHEV与荣耀HEV分线;海外市场版本单列不并参。
+- **5. 是否存在无来源关键参数？** 否。每条重要Fact均带 source/url/market/trim/checked/confidence;V04中国版扭矩/变速箱因仅有澳版来源已撤出确定事实并入BLOCKED/UNRESOLVED。
+- **6. 是否存在参数冲突？** 无未处理CONFLICT(现存CONFLICT字段:无)。V07身份内部矛盾已消除,单一判定SAME_MODEL(双侧JAC OEM)。
+- **7. 采购法规是否来自权威来源？** 是。法规/标准类T1官方源数量:G01=4, G02=5, G03=3, G04=1, G06=8, G07=4, G08=4, G09=7。G02补商检法实施条例(海关总署PDF)+互联网+海关指南+2024年163号抽查公告+BEV出口许可证(商务部);G04补全国人大《海商法》2025修订;G06补生态环境部/SAMR;G08补UNECE/UN+MSA;G09补SAMR现行/计划双状态。
+- **8. 是否存在AI推测数据？** 否。无FOB/CIF/运费/利润率/海外售价/关税VAT/销量/市占率/最畅销等编造;中国指导价仅chinese_domestic_msrp+TIME_SENSITIVE且不换算出口报价;G10只讲费用项目不给金额。
+- **9. 是否每篇都有Source URL？** 是。24份Source Log共120条来源,逐条真实URL+Organization+Domain+Tier+Scope+Checked+Official;无URL来源包:无;无'品牌名无URL'。
+- **10. 是否所有时效性数据带日期？** 是。价格/在售/法规/税率/费率/标准版本/出口许可均标TIME_SENSITIVE并注公告号/施行日/核对日;G01标2026版税则,G04标海商法2026-05-01施行,G06标修改单2026-05-01。
+- **11. T4弱源是否被当关键事实唯一依据？** 否。G05原T4数值阈值(留油5%/绑扎/胎压/SOC/车头朝向)已撤出,改WW/Höegh承运人官方(燃油≤1/4两家CROSS_CHECKED、BEV≤50%SOC Höegh),未取到的绑扎/朝向/胎压改为items to confirm with carrier/OEM并入BLOCKED。
+- **12. 标准是否确认现行版本(CURRENT_STANDARD_VERSION_GATE)？** 是。G06=GB18352.6-2016+XG1-2026(2026-05-01)与GB17691-2018分列、GB19147-2016现行;G07=GB16735-2019现行(标准正文直接支持);G08=IMDG42-24+UN手册Rev.8/Amend1;G01=税则2026;均带版本/修订/生效日/一手URL。
+- **13. 草案是否被当现行(DRAFT_STANDARD_IS_NOT_CURRENT_STANDARD)？** 否。G09 CURRENT_STANDARD=GB/T21085-2020(现行,推荐性);强制版20260041-Q-339/GB21085—XXXX单列DRAFT/FUTURE(正在批准/征求意见,未生效),禁止标CURRENT MANDATORY。
+- **14. 车型别名是否有OEM证明(MODEL_ALIAS_REQUIRES_OEM_PROOF)？** 是。V04补GWM官网'哈弗初恋海外版JOLION'→基础车名SAME_MODEL(HEV动力仍分列);V07双侧JAC官方站→SAME_MODEL并删除矛盾BLOCKED;无OEM证明的关系只标RELATED。
+- **15. 来源市场路径是否正确(SOURCE_MARKET_PATH_CHECK)？** 是。逐条核对URL国家/主体/标题;V04澳/泰/越来源不再标CHINA;UNECE标INTERNATIONAL;RoRo承运人标INTERNATIONAL(具名承运人政策)。
+- **16. 官方源范围是否匹配(PRIMARY_SOURCE_SCOPE_MUST_MATCH)？** 是。轻型标准不套重型(G06分列);MIIT准入文件只支撑'准入引用'不替代标准正文(G07);具名承运人指南只适用该承运人(G05);法律框架不替代逐HS目录判定(G02)。
+- **17. 事实级置信是否合规(CONFIDENCE_IS_FACT_LEVEL)？** 是。跨市场不构成CROSS_CHECK(V04轴距/功率已降SINGLE);同一事实两独立来源一致才CROSS_CHECK;标准正文/立法机关/政府一手且范围匹配才VERIFIED;二级门户/媒体不升VERIFIED。
+- **18. 生产Manifest是否含占位/测试URL(PLACEHOLDER_URL_BLOCK)？** 否。.example/localhost/test/staging/dummy 全部清除(发现占位包:无);suggested_url为相对生产路径。
+- **19. 共享文件与文件边界？** 整改只写 daily/2026-09-04/research/ 与 LESSONS_LEARNED.md(追加永久规则);未改 articles/qa/deliveries;改前等效pull(HEAD ad84c584),禁force push。
 
-判定口径：RESEARCH_PASS / RESEARCH_CONDITIONAL 均可作为 READY 交第二阶段，但 CONDITIONAL 必须在 Fact Sheet 内列出 BLOCKED_FACTS、FACTS_ALLOWED_IN_BODY、FACTS_NOT_ALLOWED_IN_BODY；RESEARCH_FAIL 不得交接。本批 FAIL=0。
+## 二、独立审核问题处置台账
+| 包 | 审核问题 | 处置 | 处置后判定 |
+|---|---|---|---|
+| 启动机制 | LESSONS版本33eff0e3过期,未记SHA | 记录REPO_HEAD/LESSONS_SHA/READ_AT;新增STARTUP_HEAD_SHA_GATE永久规则 | PASS |
+| V04 | 澳源误标CHINA;别名缺OEM | 逐Fact改OVERSEAS;补GWM官网OEM同名;跨市场降级;中国版扭矩/变速箱入BLOCKED | CONDITIONAL(重复错误已纠正) |
+| G02 | 未核现行法检目录不得PASS | 补官方框架+逐HS判定规则+抽查公告+BEV许可证;未取得逐税号清单故降CONDITIONAL | CONDITIONAL |
+| G04 | 缺现行海商法一手 | 补NPC《海商法》2025修订(2026-05-01)第80/81/87条 | PASS |
+| G05 | T4支撑关键操作 | 补WW/Höegh承运人官方;未取到的绑扎/朝向/胎压改confirm with carrier/OEM | CONDITIONAL |
+| G06 | 标准过期/以轻概全/头条核心 | 改MEE/SAMR现行+2026修改单;轻型GB18352.6与重型GB17691分列;GB19147现行页 | CONDITIONAL(海外限值仍BLOCKED) |
+| G09 | 草案当现行 | CURRENT=GB/T21085-2020;20260041-Q-339单列DRAFT/FUTURE | PASS |
+| G01 | 2018资料当2026主依据 | 改财政部《税则(2026)》+海关2026执行公告;补8701;删头条核心 | PASS |
+| G07 | 以MIIT引用替代标准正文 | 改GB16735-2019标准正文/SAMR;VIN结构事实VERIFIED;首字母产地绝对化撤出 | PASS |
+| G08 | UN38.3/3480/3481缺UN一手 | 补UNECE Rev.8/Amend1+49CFR173.185;保留MSA IMDG | PASS |
+| V07 | 别名VERIFIED与BLOCKED自相矛盾 | 双侧JAC OEM→唯一判定SAME_MODEL,删旧BLOCKED | PASS |
+| URL | autobridge.example占位 | 24包全部改相对常绿路径,车型Hub去年款/-specs后缀 | PASS |
+| 批次状态 | 有CONDITIONAL却标READY | 改READY_WITH_CONDITIONS;输出MAIN PASS/COND/FAIL与逐篇WRITING_AI_READY | READY_WITH_CONDITIONS |
 
-## 1. 规则十九条逐项核对（原 Daily Pipeline 规则十九）
-1. **是否存在重复车型？** 否。已对照 /state/vehicle_database.json（39 历史车型）、09-02（12）、09-03（12）五重去重；本批 12 个车型（含备用）均未在历史出现同车型主页。
-2. **是否存在重复搜索意图？** 否。逐题比对 13 个历史指南簇与 09-02/09-03 指南，本批 12 个指南意图均为新增（见 §3 去重对照）。
-3. **是否存在重复 URL（slug）？** 否。机器校验 24 个 suggested_url 全部唯一。
-4. **是否把中国版当成全球版？** 否。所有车型 fact.market=CHINA；V04 Jolion 明确拆分"中国版=哈弗初恋 1.5T"与"海外 HEV（澳/越）"，海外参数单列且不并入；V07 T9 海外牵引/货载值标注为海外厂方数据；未把任何中国配置写成 global spec。
-5. **是否存在无来源关键参数？** 否（机器扫描）。除显式标 UNVERIFIED 的字段外，每条 fact 均带 source 名与真实 URL；G10"不给金额"为方法性事实，已挂 4 个费用结构来源。
-6. **是否存在参数冲突？** 无未解决 CONFLICT。V09 天龙 KL 功率存在 343kW（总功率）/337kW（净功率）两种口径，已在同一 fact 内注明为口径差异而非冲突；V04/V06 的不同动力版本（HEV vs PHEV、长短轴）按 trim 分列，不做平均、不任选。
-7. **采购法规是否来自权威来源？** 中国侧法规类（G01/G02/G03/G07/G09）均取得 T1：国务院/海关总署令 270 号与 277 号官方 PDF、工信部 GB 标准官方 PDF、地方政府/公安部规范转载；G08 危险品运输取得**中国海事局 msa.gov.cn 官方 IMDG 42-24 中文文本 PDF**。G04/G05/G10 为操作/行业实践类（非法定事项），以 T2/T3 支撑定义，凡 T4 数值一律列入 BLOCKED。G06 涉海外排放限值未取到 UNECE 一手源，相关精确限值列入 BLOCKED，判 CONDITIONAL。
-8. **是否存在 AI 推测数据？** 否。未生成任何 FOB/CIF、海运费、利润率、海外售价、关税/VAT、销量/市占率、"最畅销"类数据；中国指导价一律标 chinese_domestic_msrp 且 TIME_SENSITIVE、注明"禁换算出口报价"。
-9. **是否每篇都有 Source URL？** 是。89 条来源全部含 http(s) 真实 URL、Organization、Domain、Source Type/Tier、Market、Scope、Checked Date、Authority Level、Official YES/NO；无"BYD official"式无 URL 条目。
-10. **是否所有时效性数据带日期？** 是。价格、在售、法规版本、费率类均标 TIME_SENSITIVE 并在 fact/sheet 内注明以现行官方为准、Checked=2026-09-04。
-11–19（补充一致性）：目录结构 fact_sheets/source_logs/reserves/research_qa 齐全；manifest 字段齐全且 research_status 仅用 READY/RESERVE/REJECTED；CONFLICT/UNVERIFIED 未进入确定性事实库；REFERENCE_MARKET 车型=CHINA；三个汽车网站仅用于参数提取与交叉验证，未复制测评/评论/文章结构；无登录/验证码绕过（受限即换源）。
+## 三、REPEATED_ERROR 复核
+- V04 SOURCE_MARKET_PATH_CHECK：整改前 REPEATED_ERROR=TRUE/SEVERITY=HIGH；整改后海外来源market全部归位、补OEM证据，**RESOLVED=TRUE**。
+- G06 CURRENT_STANDARD_VERSION_GATE：整改前 REPEATED_ERROR=TRUE/HIGH；整改后现行版本+修改单+生效日+一手URL齐备且轻重分列，**RESOLVED=TRUE**。
+- 除上述两项已闭环外，本批未发现LESSONS_LEARNED已禁错误再次出现。
 
-## 2. LESSONS_LEARNED PART 1 新门规逐条核对
-- **PRE-RESEARCH ERROR CHECK**：开工前读取 /state 四库本地快照（09-02 拉取）+ 09-02/09-03 manifest + 最新 LESSONS（33eff0e3）。结论 REPEATED_ERROR = **FALSE**。
-- **T1–T4 来源分级**：本批 T1=16 / T2=32 / T3=33 / T4=8；T4（顺企网 SEO/抖音百科等）仅作搜索线索，其具体数值全部进 BLOCKED_FACTS，未作为关键事实唯一依据。
-- **三级判定（PASS/CONDITIONAL/FAIL）**：17 PASS / 7 CONDITIONAL / 0 FAIL；每个 CONDITIONAL 包均列出 BLOCKED_FACTS 与 allowed/not-allowed 清单。
-- **车型身份先确认（BRAND/MODEL/YEAR/TRIM/MARKET/BODY/ENERGY）**：12 车型全部先定身份再采参；不同 trim/动力/轴长分列。
-- **MODEL_ALIAS_REQUIRES_OEM_PROOF**：V04 Jolion=初恋、V07 T9=悍途 的中外名称对应**未取得 OEM 官方证明**，一律标 RELATED_MODEL（注明需 OEM 终核），未断言 SAME_MODEL。
-- **SOURCE_MARKET_PATH_CHECK**：逐条核对 URL 国家代码/语言/主体；澳版(au)、越版、南非来源均如实标 AUSTRALIA/VIETNAM/EXPORT，未因目标市场而错标（无 Bahrain→UAE 类错误）。
-- **PRIMARY_SOURCE_SCOPE_MUST_MATCH**：G01 官方税率表为中国进口侧，仅用于品目条文，不用于出口税率；G06 中国 GB 标准不外推为 Euro 限值；官方但范围不匹配者不升 VERIFIED。
-- **商用车 HS-FIRST**：G01 先定 87.01/87.02/87.03/87.04/87.05/8716 再谈流程；V08/V09/V10 分别落在 8704/8701/8704（冷藏），未用一套卡车流程套全部。
-- **CURRENT_STANDARD_VERSION_GATE**：G08 已确认现行版本 IMDG **Amendment 42-24 / 决议 MSC.556(108) / 对中国强制 2026-01-01 / 官方 URL=msa.gov.cn PDF**；锂电车辆现行 UN3556（锂金属 UN3557、钠离子 UN3558），**旧 UN3171 仅用于湿/钠金属电池车辆，未作为锂电车辆当前分类**（更正 09-03 G05 旧口径）。
-- **EVIDENCE_CEILING_IS_NOT_RESEARCH_PASS**：未用"verify officially/evidence ceiling"代替取证；G06 海外限值、GR1 拉美认证因缺主管机构一手源，分别降为 CONDITIONAL（备用 GR1 明确转正式前补 T1，否则 FAIL 替换）。
-- **CONFIDENCE_IS_FACT_LEVEL**：置信度挂在每条 fact；不同来源支撑不同事实时不互凑 CROSS_CHECKED（如两库分别支撑不同字段则各自 SINGLE_SOURCE）。
-- **REUSE_STRONGEST_VERIFIED_SOURCE**：中国出口许可/资质类复用历史已确认的官方口径方向；G09 新车出口登记直接采用地方政府转载的公安部规范 + 工信部合格证标准。
-- **DEPENDENCY_UPDATE_PROPAGATION**：UN3171→UN3556 的更正已在本批 G08、G05（新能源 SOC 与 G08 联动）、G09（新能源附加文件与 G08 联动）三处一致引用，无残留旧分类。
-- **SOURCE_INTEGRITY（名称=URL 主体）**：卡车之家内容经今日头条托管的，Source Name 写"卡车之家（官方号，今日头条）"并如实给 toutiao 域名，未伪装成 360che 官网；政府转载标注"转载，建议回查原文"。机器校验无 SOURCE_INTEGRITY_FAIL。
-- **NEW_LESSON_CANDIDATE**：见 RESEARCH_NOTES（仅提候选，不自行写入 LESSONS）。
+## 四、CONDITIONAL 包 BLOCKED 边界（Writing 必须遵守）
+- **AB-260904-V04**：BLOCKED=['中国版扭矩/变速箱具体值(现仅澳版来源,市场不匹配)', '海外HEV与中国1.5T的1:1配置等同', '任何出口价格']
+- **AB-260904-G02**：BLOCKED=['任一具体车型/10位税号当前是否落入法检目录(本批未取得现行目录整车逐税号清单,申报时须以海关现行目录+该税号监管条件核验,TIME_SENSITIVE)']
+- **AB-260904-G05**：BLOCKED=['绑扎方式/破断强度/车头朝向/胎压调整具体值(无OEM运输手册或船公司正式指南前为items to confirm with carrier/OEM)', '统一SOC固定百分比(仅获Höegh一家,不得泛化)']
+- **AB-260904-G06**：BLOCKED=['海外Euro/EPA限值与EN燃油规格精确数值', '国六与海外标准等效性结论']
+- **AB-260904-G10**：BLOCKED=['任何具体金额(如小柜/大柜THC人民币数、报关费区间)均为T4旧值或市场波动值,一律不得写成当前确定收费', '不得据此估算AutoBridge到岸成本/利润(禁算)']
 
-## 3. 历史去重与替换记录
-- **车型去重**：避开历史 39 + 09-02 12 + 09-03 12。品类覆盖：Sedan(V01/V02)、Small BEV(V03)、SUV(V04/V05)、MPV(V06)、Pickup(V07)、Light Truck(V08)、Tractor(V09)、Refrigerated(V10)；备用 Sedan EREV/BEV(VR1)、Van(VR2)。本批未出现"连续全选新能源 SUV"，ICE/柴油商用车占比过半。
-- **选题替换（来源质量不达标即换，不硬凑）**：
-  - 原拟 V10 徐工 QY25K5 汽车起重机 → 官方规格页未取到、第三方型号(QY25E/QY25K5D/QY50K5D)互相冲突，**替换为东风天锦 KR 冷藏车 DFH5180XLC**（卡车之家双源 + 工信部 410 批公示交叉）。
-  - 原拟 VR2 江铃特顺 → 多为国五旧款且与福特全顺资料混杂，**替换为上汽大通新途 V80**（搜狐/太平洋双源，分功率/轴长）。
-- **指南去重**：本批 G01–G10、GR1/GR2 与历史 13 簇及两期指南意图均不重叠；G02（中国法定检验）刻意区别于 09-03 G06（第三方 PSI），G08（散装电池 UN3480/3481 + 整车 UN3556 现行版）区别于 09-03 G05（旧 UN3171 整车），G07（VIN 结构/铭牌合规）区别于历史 photo_vin_review（二手车验车）。
-- **UPDATE_EXISTING 判定**：本批无"仅加年份重复建页"；未发现需要 UPDATE_EXISTING 的历史同车型（09-03 文章由另一 AI 在写，按用户要求本批不回改历史文件）。
+## 五、NEW_LESSON_CANDIDATE（仅候选，待独立审核，不自行写入永久规则）
+- 专用车上装第三方型号高度混淆且无官网时直接换题而非CONDITIONAL（检测：fact出现≥2个不同型号代码即触发）。
+- 卡车之家原创仅以今日头条镜像可检索时,Source Name可写卡车之家但domain如实填m.toutiao.com并降一级。
 
-## 4. BLOCKED / NOT-ALLOWED 汇总（交第二阶段重点）
-- 全部 20 个 MAIN：禁止出现出口报价/到岸价/利润/海运费率/海外售价/关税 VAT 具体数字/销量市占率。
-- CONDITIONAL 包的禁用字段：V04（中外版本混写、same model 断言）、V06（HEV/PHEV 混写）、V07（海外牵引货载当中国公告值、same model）、G04（提单法条原文需补《海商法》T1）、G05（留油%/绑扎破断吨数/胎压+10%/SOC 等 T4 数值不得写成标准）、G06（UNECE/Euro/EN 具体限值在补一手源前不得写死）、G10（任何金额不得写成当前收费）。
-- 备用 GR1（拉美认证）在补 INMETRO/IBAMA/墨西哥经济部 T1 前不得升 MAIN；GR2 补国务院《知识产权海关保护条例》官方原文后可升。
-
-## 5. 机器校验结果
-- 51 个 JSON 全部合法；24 article_id 唯一；24 suggested_url 唯一；置信度枚举合法；除显式 UNVERIFIED 外 fact 均带 URL；source log 全部含真实 URL 与 domain；REFERENCE_MARKET 车型=CHINA。
-- 结论：**QA PASS，REPEATED_ERROR=FALSE，可交第二阶段（CONDITIONAL 包按 BLOCKED 清单写作）。**
+## 六、QA 结论
+- 20个MAIN无FAIL、无未处理冲突、无占位URL、关键法规均有T1;5个CONDITIONAL带明确BLOCKED清单仍可写(WRITING_AI_READY=TRUE)。
+- RESEARCH_QA = PASS（附CONDITIONAL边界）；Writing AI 须以 v1.1 Fact Sheet 为准，CONDITIONAL 包不得把BLOCKED内容写成确定事实。
