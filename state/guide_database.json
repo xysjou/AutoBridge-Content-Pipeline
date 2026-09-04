@@ -1,7 +1,7 @@
 {
   "generated_on": "2026-09-02",
   "note": "Existing procurement-guide topic clusters (dedup blacklist). A new guide whose primary intent matches a cluster is a duplicate unless it has a clearly distinct, documented search intent.",
-  "count": 64,
+  "count": 84,
   "topic_clusters": {
     "roro_container": {
       "article_count": 7,
@@ -245,9 +245,70 @@
       "articles": [
         "AB-260903-G10"
       ]
+    },
+    "hs_classification": {
+      "article_count": 1,
+      "articles": [
+        "AB-260904-G01"
+      ]
+    },
+    "china_export_inspection": {
+      "article_count": 1,
+      "articles": [
+        "AB-260904-G02"
+      ]
+    },
+    "certificate_of_origin": {
+      "article_count": 1,
+      "articles": [
+        "AB-260904-G03"
+      ]
+    },
+    "bill_of_lading": {
+      "article_count": 1,
+      "articles": [
+        "AB-260904-G04"
+      ]
+    },
+    "pdi_protection": {
+      "article_count": 1,
+      "articles": [
+        "AB-260904-G05"
+      ]
+    },
+    "emission_fuel": {
+      "article_count": 1,
+      "articles": [
+        "AB-260904-G06"
+      ]
+    },
+    "vin_nameplate": {
+      "article_count": 1,
+      "articles": [
+        "AB-260904-G07"
+      ]
+    },
+    "battery_shipping_imdg": {
+      "article_count": 1,
+      "articles": [
+        "AB-260904-G08"
+      ]
+    },
+    "document_package": {
+      "article_count": 1,
+      "articles": [
+        "AB-260904-G09"
+      ]
+    },
+    "shipping_charges": {
+      "article_count": 1,
+      "articles": [
+        "AB-260904-G10"
+      ]
     }
   },
   "r3_revised_on": "2026-09-03",
   "r3_note": "AB-260902 guides advanced to CODEX_REVIEW_PENDING (v3); cluster stores IDs only",
-  "r4_revised_on": "2026-09-03"
+  "r4_revised_on": "2026-09-03",
+  "stage2_added_on": "2026-09-04"
 }

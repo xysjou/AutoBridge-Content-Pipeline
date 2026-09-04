@@ -1,7 +1,7 @@
 {
   "generated_on": "2026-09-02",
   "note": "Historical baseline was empty (no front-end URLs). Populated by Daily Delivery 2026-09-02 with QA_PASS Master slugs (published=false; they enter MULTILINGUAL_QUEUE before front-end publish).",
-  "published_url_total": 40,
+  "published_url_total": 60,
   "urls": [
     {
       "article_id": "AB-260902-V01",
@@ -449,7 +449,188 @@
       "queued_for": "MULTILINGUAL_QUEUE",
       "creation_date": "2026-09-03",
       "official_primary": false
+    },
+    {
+      "article_id": "AB-260904-G01",
+      "content_type": "PROCUREMENT_GUIDE",
+      "slug": "/guides/vehicle-export-hs-code-classification",
+      "word_filename": "GUIDE_20260904_01_Vehicle_Export_HS_Code.docx",
+      "stage": "MASTER_CODEX_REVIEW_PENDING",
+      "published": false,
+      "added_on": "2026-09-04"
+    },
+    {
+      "article_id": "AB-260904-G02",
+      "content_type": "PROCUREMENT_GUIDE",
+      "slug": "/guides/china-export-statutory-inspection-declaration",
+      "word_filename": "GUIDE_20260904_02_China_Export_Inspection_Declaration.docx",
+      "stage": "MASTER_CODEX_REVIEW_PENDING",
+      "published": false,
+      "added_on": "2026-09-04"
+    },
+    {
+      "article_id": "AB-260904-G03",
+      "content_type": "PROCUREMENT_GUIDE",
+      "slug": "/guides/china-export-certificate-of-origin",
+      "word_filename": "GUIDE_20260904_03_Certificate_of_Origin.docx",
+      "stage": "MASTER_CODEX_REVIEW_PENDING",
+      "published": false,
+      "added_on": "2026-09-04"
+    },
+    {
+      "article_id": "AB-260904-G04",
+      "content_type": "PROCUREMENT_GUIDE",
+      "slug": "/guides/vehicle-export-bill-of-lading-types",
+      "word_filename": "GUIDE_20260904_04_Bill_of_Lading_Types.docx",
+      "stage": "MASTER_CODEX_REVIEW_PENDING",
+      "published": false,
+      "added_on": "2026-09-04"
+    },
+    {
+      "article_id": "AB-260904-G05",
+      "content_type": "PROCUREMENT_GUIDE",
+      "slug": "/guides/vehicle-export-pdi-protection",
+      "word_filename": "GUIDE_20260904_05_PDI_Pre_Shipment.docx",
+      "stage": "MASTER_CODEX_REVIEW_PENDING",
+      "published": false,
+      "added_on": "2026-09-04"
+    },
+    {
+      "article_id": "AB-260904-G06",
+      "content_type": "PROCUREMENT_GUIDE",
+      "slug": "/guides/chinese-vehicle-emission-fuel-compatibility",
+      "word_filename": "GUIDE_20260904_06_Emission_Fuel_Compatibility.docx",
+      "stage": "MASTER_CODEX_REVIEW_PENDING",
+      "published": false,
+      "added_on": "2026-09-04"
+    },
+    {
+      "article_id": "AB-260904-G07",
+      "content_type": "PROCUREMENT_GUIDE",
+      "slug": "/guides/vehicle-vin-wmi-nameplate-compliance",
+      "word_filename": "GUIDE_20260904_07_VIN_Nameplate.docx",
+      "stage": "MASTER_CODEX_REVIEW_PENDING",
+      "published": false,
+      "added_on": "2026-09-04"
+    },
+    {
+      "article_id": "AB-260904-G08",
+      "content_type": "PROCUREMENT_GUIDE",
+      "slug": "/guides/ev-battery-shipping-imdg-42-24",
+      "word_filename": "GUIDE_20260904_08_Battery_Shipping_IMDG.docx",
+      "stage": "MASTER_CODEX_REVIEW_PENDING",
+      "published": false,
+      "added_on": "2026-09-04"
+    },
+    {
+      "article_id": "AB-260904-G09",
+      "content_type": "PROCUREMENT_GUIDE",
+      "slug": "/guides/export-vehicle-document-package",
+      "word_filename": "GUIDE_20260904_09_Export_Document_Package.docx",
+      "stage": "MASTER_CODEX_REVIEW_PENDING",
+      "published": false,
+      "added_on": "2026-09-04"
+    },
+    {
+      "article_id": "AB-260904-G10",
+      "content_type": "PROCUREMENT_GUIDE",
+      "slug": "/guides/vehicle-export-shipping-charge-structure",
+      "word_filename": "GUIDE_20260904_10_Shipping_Charge_Structure.docx",
+      "stage": "MASTER_CODEX_REVIEW_PENDING",
+      "published": false,
+      "added_on": "2026-09-04"
+    },
+    {
+      "article_id": "AB-260904-V01",
+      "content_type": "VEHICLE_PAGE",
+      "slug": "/vehicles/chery-arrizo-8/",
+      "word_filename": "VEH_20260904_01_Chery_Arrizo8.docx",
+      "stage": "MASTER_CODEX_REVIEW_PENDING",
+      "published": false,
+      "added_on": "2026-09-04"
+    },
+    {
+      "article_id": "AB-260904-V02",
+      "content_type": "VEHICLE_PAGE",
+      "slug": "/vehicles/byd-qin-l-dm-i/",
+      "word_filename": "VEH_20260904_02_BYD_QinL_DMi.docx",
+      "stage": "MASTER_CODEX_REVIEW_PENDING",
+      "published": false,
+      "added_on": "2026-09-04"
+    },
+    {
+      "article_id": "AB-260904-V03",
+      "content_type": "VEHICLE_PAGE",
+      "slug": "/vehicles/wuling-bingo/",
+      "word_filename": "VEH_20260904_03_Wuling_Bingo.docx",
+      "stage": "MASTER_CODEX_REVIEW_PENDING",
+      "published": false,
+      "added_on": "2026-09-04"
+    },
+    {
+      "article_id": "AB-260904-V04",
+      "content_type": "VEHICLE_PAGE",
+      "slug": "/vehicles/haval-jolion/",
+      "word_filename": "VEH_20260904_04_GWM_Haval_Jolion.docx",
+      "stage": "MASTER_CODEX_REVIEW_PENDING",
+      "published": false,
+      "added_on": "2026-09-04"
+    },
+    {
+      "article_id": "AB-260904-V05",
+      "content_type": "VEHICLE_PAGE",
+      "slug": "/vehicles/chery-fulwin-t9/",
+      "word_filename": "VEH_20260904_05_Chery_FulwinT9.docx",
+      "stage": "MASTER_CODEX_REVIEW_PENDING",
+      "published": false,
+      "added_on": "2026-09-04"
+    },
+    {
+      "article_id": "AB-260904-V06",
+      "content_type": "VEHICLE_PAGE",
+      "slug": "/vehicles/gac-trumpchi-e8/",
+      "word_filename": "VEH_20260904_06_GAC_Trumpchi_E8.docx",
+      "stage": "MASTER_CODEX_REVIEW_PENDING",
+      "published": false,
+      "added_on": "2026-09-04"
+    },
+    {
+      "article_id": "AB-260904-V07",
+      "content_type": "VEHICLE_PAGE",
+      "slug": "/vehicles/jac-t9-hunter/",
+      "word_filename": "VEH_20260904_07_JAC_T9Hunter.docx",
+      "stage": "MASTER_CODEX_REVIEW_PENDING",
+      "published": false,
+      "added_on": "2026-09-04"
+    },
+    {
+      "article_id": "AB-260904-V08",
+      "content_type": "VEHICLE_PAGE",
+      "slug": "/vehicles/jmc-shunda/",
+      "word_filename": "VEH_20260904_08_JMC_Shunda.docx",
+      "stage": "MASTER_CODEX_REVIEW_PENDING",
+      "published": false,
+      "added_on": "2026-09-04"
+    },
+    {
+      "article_id": "AB-260904-V09",
+      "content_type": "VEHICLE_PAGE",
+      "slug": "/vehicles/dongfeng-tianlong-kl/",
+      "word_filename": "VEH_20260904_09_Dongfeng_TianlongKL.docx",
+      "stage": "MASTER_CODEX_REVIEW_PENDING",
+      "published": false,
+      "added_on": "2026-09-04"
+    },
+    {
+      "article_id": "AB-260904-V10",
+      "content_type": "VEHICLE_PAGE",
+      "slug": "/vehicles/dongfeng-tianjin-kr/",
+      "word_filename": "VEH_20260904_10_Dongfeng_TianjinKR.docx",
+      "stage": "MASTER_CODEX_REVIEW_PENDING",
+      "published": false,
+      "added_on": "2026-09-04"
     }
   ],
-  "r4_revised_on": "2026-09-03"
+  "r4_revised_on": "2026-09-03",
+  "stage2_added_on": "2026-09-04"
 }

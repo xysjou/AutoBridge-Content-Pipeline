@@ -2,9 +2,9 @@
   "generated_on": "2026-09-02",
   "generated_by": "Daily Delivery Pipeline (Stage 2) — appended daily_2026-09-02 QA_PASS pages to research-derived baseline",
   "note": "Consolidated read-only dedup baseline derived from batches/batch_20260831_001 + batch_20260901_001 manifests. Immutable batch manifests remain the source of truth; this file is a derived index for cross-day dedup.",
-  "historical_article_total": 133,
-  "vehicle_page_total": 59,
-  "procurement_guide_total": 74,
+  "historical_article_total": 153,
+  "vehicle_page_total": 69,
+  "procurement_guide_total": 84,
   "articles": [
     {
       "article_id": "AB43_001_Repair_001_EV_Battery_Warranty",
@@ -1229,7 +1229,188 @@
       "title": "Vehicle Export Sales Contract Clauses & Risk Guide",
       "suggested_url": "/guides/vehicle-export-sales-contract-clauses/",
       "creation_date": "2026-09-03"
+    },
+    {
+      "article_id": "AB-260904-G01",
+      "batch": "daily_20260904",
+      "version": "v1",
+      "status": "MASTER_CODEX_REVIEW_PENDING",
+      "content_type": "PROCUREMENT_GUIDE",
+      "fact_qa": "FACT_SOURCE_PASS",
+      "slug": "/guides/vehicle-export-hs-code-classification"
+    },
+    {
+      "article_id": "AB-260904-G02",
+      "batch": "daily_20260904",
+      "version": "v1",
+      "status": "MASTER_CODEX_REVIEW_PENDING",
+      "content_type": "PROCUREMENT_GUIDE",
+      "fact_qa": "FACT_SOURCE_PASS",
+      "slug": "/guides/china-export-statutory-inspection-declaration"
+    },
+    {
+      "article_id": "AB-260904-G03",
+      "batch": "daily_20260904",
+      "version": "v1",
+      "status": "MASTER_CODEX_REVIEW_PENDING",
+      "content_type": "PROCUREMENT_GUIDE",
+      "fact_qa": "FACT_SOURCE_PASS",
+      "slug": "/guides/china-export-certificate-of-origin"
+    },
+    {
+      "article_id": "AB-260904-G04",
+      "batch": "daily_20260904",
+      "version": "v1",
+      "status": "MASTER_CODEX_REVIEW_PENDING",
+      "content_type": "PROCUREMENT_GUIDE",
+      "fact_qa": "FACT_SOURCE_CONDITIONAL",
+      "slug": "/guides/vehicle-export-bill-of-lading-types"
+    },
+    {
+      "article_id": "AB-260904-G05",
+      "batch": "daily_20260904",
+      "version": "v1",
+      "status": "MASTER_CODEX_REVIEW_PENDING",
+      "content_type": "PROCUREMENT_GUIDE",
+      "fact_qa": "FACT_SOURCE_CONDITIONAL",
+      "slug": "/guides/vehicle-export-pdi-protection"
+    },
+    {
+      "article_id": "AB-260904-G06",
+      "batch": "daily_20260904",
+      "version": "v1",
+      "status": "MASTER_CODEX_REVIEW_PENDING",
+      "content_type": "PROCUREMENT_GUIDE",
+      "fact_qa": "FACT_SOURCE_CONDITIONAL",
+      "slug": "/guides/chinese-vehicle-emission-fuel-compatibility"
+    },
+    {
+      "article_id": "AB-260904-G07",
+      "batch": "daily_20260904",
+      "version": "v1",
+      "status": "MASTER_CODEX_REVIEW_PENDING",
+      "content_type": "PROCUREMENT_GUIDE",
+      "fact_qa": "FACT_SOURCE_PASS",
+      "slug": "/guides/vehicle-vin-wmi-nameplate-compliance"
+    },
+    {
+      "article_id": "AB-260904-G08",
+      "batch": "daily_20260904",
+      "version": "v1",
+      "status": "MASTER_CODEX_REVIEW_PENDING",
+      "content_type": "PROCUREMENT_GUIDE",
+      "fact_qa": "FACT_SOURCE_PASS",
+      "slug": "/guides/ev-battery-shipping-imdg-42-24"
+    },
+    {
+      "article_id": "AB-260904-G09",
+      "batch": "daily_20260904",
+      "version": "v1",
+      "status": "MASTER_CODEX_REVIEW_PENDING",
+      "content_type": "PROCUREMENT_GUIDE",
+      "fact_qa": "FACT_SOURCE_PASS",
+      "slug": "/guides/export-vehicle-document-package"
+    },
+    {
+      "article_id": "AB-260904-G10",
+      "batch": "daily_20260904",
+      "version": "v1",
+      "status": "MASTER_CODEX_REVIEW_PENDING",
+      "content_type": "PROCUREMENT_GUIDE",
+      "fact_qa": "FACT_SOURCE_CONDITIONAL",
+      "slug": "/guides/vehicle-export-shipping-charge-structure"
+    },
+    {
+      "article_id": "AB-260904-V01",
+      "batch": "daily_20260904",
+      "version": "v1",
+      "status": "MASTER_CODEX_REVIEW_PENDING",
+      "content_type": "VEHICLE_PAGE",
+      "fact_qa": "FACT_SOURCE_PASS",
+      "slug": "/vehicles/chery-arrizo-8/"
+    },
+    {
+      "article_id": "AB-260904-V02",
+      "batch": "daily_20260904",
+      "version": "v1",
+      "status": "MASTER_CODEX_REVIEW_PENDING",
+      "content_type": "VEHICLE_PAGE",
+      "fact_qa": "FACT_SOURCE_PASS",
+      "slug": "/vehicles/byd-qin-l-dm-i/"
+    },
+    {
+      "article_id": "AB-260904-V03",
+      "batch": "daily_20260904",
+      "version": "v1",
+      "status": "MASTER_CODEX_REVIEW_PENDING",
+      "content_type": "VEHICLE_PAGE",
+      "fact_qa": "FACT_SOURCE_PASS",
+      "slug": "/vehicles/wuling-bingo/"
+    },
+    {
+      "article_id": "AB-260904-V04",
+      "batch": "daily_20260904",
+      "version": "v1",
+      "status": "MASTER_CODEX_REVIEW_PENDING",
+      "content_type": "VEHICLE_PAGE",
+      "fact_qa": "FACT_SOURCE_CONDITIONAL",
+      "slug": "/vehicles/haval-jolion/"
+    },
+    {
+      "article_id": "AB-260904-V05",
+      "batch": "daily_20260904",
+      "version": "v1",
+      "status": "MASTER_CODEX_REVIEW_PENDING",
+      "content_type": "VEHICLE_PAGE",
+      "fact_qa": "FACT_SOURCE_PASS",
+      "slug": "/vehicles/chery-fulwin-t9/"
+    },
+    {
+      "article_id": "AB-260904-V06",
+      "batch": "daily_20260904",
+      "version": "v1",
+      "status": "MASTER_CODEX_REVIEW_PENDING",
+      "content_type": "VEHICLE_PAGE",
+      "fact_qa": "FACT_SOURCE_PASS",
+      "slug": "/vehicles/gac-trumpchi-e8/"
+    },
+    {
+      "article_id": "AB-260904-V07",
+      "batch": "daily_20260904",
+      "version": "v1",
+      "status": "MASTER_CODEX_REVIEW_PENDING",
+      "content_type": "VEHICLE_PAGE",
+      "fact_qa": "FACT_SOURCE_PASS",
+      "slug": "/vehicles/jac-t9-hunter/"
+    },
+    {
+      "article_id": "AB-260904-V08",
+      "batch": "daily_20260904",
+      "version": "v1",
+      "status": "MASTER_CODEX_REVIEW_PENDING",
+      "content_type": "VEHICLE_PAGE",
+      "fact_qa": "FACT_SOURCE_PASS",
+      "slug": "/vehicles/jmc-shunda/"
+    },
+    {
+      "article_id": "AB-260904-V09",
+      "batch": "daily_20260904",
+      "version": "v1",
+      "status": "MASTER_CODEX_REVIEW_PENDING",
+      "content_type": "VEHICLE_PAGE",
+      "fact_qa": "FACT_SOURCE_PASS",
+      "slug": "/vehicles/dongfeng-tianlong-kl/"
+    },
+    {
+      "article_id": "AB-260904-V10",
+      "batch": "daily_20260904",
+      "version": "v1",
+      "status": "MASTER_CODEX_REVIEW_PENDING",
+      "content_type": "VEHICLE_PAGE",
+      "fact_qa": "FACT_SOURCE_PASS",
+      "slug": "/vehicles/dongfeng-tianjin-kr/"
     }
   ],
-  "r4_revised_on": "2026-09-03"
+  "r4_revised_on": "2026-09-03",
+  "stage2_added_on": "2026-09-04"
 }

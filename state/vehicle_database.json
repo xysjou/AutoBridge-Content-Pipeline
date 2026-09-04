@@ -1,7 +1,7 @@
 {
   "generated_on": "2026-09-02",
   "note": "Existing vehicle-page models (dedup blacklist). Same model + same search intent => UPDATE_EXISTING, never NEW_PAGE.",
-  "count": 59,
+  "count": 69,
   "existing_models": [
     {
       "article_id": "AB43_028_Vehicle_001_BYD_SONG_PLUS_DMi",
@@ -411,7 +411,68 @@
       "version": "v1",
       "brand_model": "Farizon (Geely) / Xingxiang V6E",
       "suggested_url": "/vehicles/farizon-xingxiang-v6e-specs/"
+    },
+    {
+      "article_id": "AB-260904-V01",
+      "model_key": "CHERY_ARRIZO_8",
+      "batch": "daily_20260904",
+      "version": "v1"
+    },
+    {
+      "article_id": "AB-260904-V02",
+      "model_key": "BYD_QIN_L_DMI",
+      "batch": "daily_20260904",
+      "version": "v1"
+    },
+    {
+      "article_id": "AB-260904-V03",
+      "model_key": "WULING_BINGO",
+      "batch": "daily_20260904",
+      "version": "v1"
+    },
+    {
+      "article_id": "AB-260904-V04",
+      "model_key": "GWM_HAVAL_JOLION",
+      "batch": "daily_20260904",
+      "version": "v1"
+    },
+    {
+      "article_id": "AB-260904-V05",
+      "model_key": "CHERY_FULWIN_T9",
+      "batch": "daily_20260904",
+      "version": "v1"
+    },
+    {
+      "article_id": "AB-260904-V06",
+      "model_key": "GAC_TRUMPCHI_E8",
+      "batch": "daily_20260904",
+      "version": "v1"
+    },
+    {
+      "article_id": "AB-260904-V07",
+      "model_key": "JAC_T9_HUNTER",
+      "batch": "daily_20260904",
+      "version": "v1"
+    },
+    {
+      "article_id": "AB-260904-V08",
+      "model_key": "JMC_SHUNDA",
+      "batch": "daily_20260904",
+      "version": "v1"
+    },
+    {
+      "article_id": "AB-260904-V09",
+      "model_key": "DONGFENG_TIANLONG_KL",
+      "batch": "daily_20260904",
+      "version": "v1"
+    },
+    {
+      "article_id": "AB-260904-V10",
+      "model_key": "DONGFENG_TIANJIN_KR",
+      "batch": "daily_20260904",
+      "version": "v1"
     }
   ],
-  "r4_revised_on": "2026-09-03"
+  "r4_revised_on": "2026-09-03",
+  "stage2_added_on": "2026-09-04"
 }
