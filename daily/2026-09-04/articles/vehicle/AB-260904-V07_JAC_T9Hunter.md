@@ -2,17 +2,17 @@
 
 ## SEO Metadata
 - **SEO Title**: JAC T9 Hunter Diesel Pickup Specs & Export Guide (Bed, 4WD)
-- **Meta Description**: Chinese/export JAC T9 Hunter diesel pickup — 2.0T 125 kW/410 N·m, ZF 8AT, BorgWarner part-time 4WD with rear lock, standard/long bed, towing and payload, and exporter verification.
+- **Meta Description**: JAC T9 Hunter / Hantu diesel pickup — standard and long beds, 2.0T diesel with ZF 8AT, BorgWarner part-time 4WD, export 3500 kg towing vs China-rated 1000 kg payload kept market-specific, with exporter verification.
 - **Suggested URL**: /vehicles/jac-t9-hunter/
 - **H1**: JAC T9 Hunter: Diesel Pickup Specs (Bed, Payload, Drivetrain, Chassis) for Export Buyers
 - **Primary Keyword**: jac t9 hunter pickup specs export
 - **Secondary Search Terms**: JAC T9 Hunter diesel, JAC Hantu pickup, T9 8AT 4x4, JAC pickup payload towing, Chinese diesel pickup export
-- **Internal Link Suggestions**: /guides/vehicle-export-hs-code-classification/ ; /guides/vehicle-vin-wmi-nameplate-compliance/ ; /guides/chinese-vehicle-emission-fuel-compatibility/
+- **Internal Link Suggestions**: /guides/vehicle-export-hs-code-classification/ ; /guides/vin-nameplate-verification-chinese-vehicles/ ; /guides/emission-fuel-compatibility-china-vehicles/
 - **Image Suggestions**: T9 Hunter side with bed; cargo bed dimensions; 4WD selector 2H/4H/4L; rear diff lock; chassis frame
 - **ALT Suggestions**: "JAC T9 Hunter diesel 4x4 pickup"; "T9 Hunter standard vs long bed dimensions"
 
 ## Buyer Context: Pickup Decisions Start With the Bed and the Drivetrain
-For a pickup the exporter's first questions are bed length, payload, four-wheel-drive layout and chassis — not infotainment. The T9 Hunter is JAC's mid-size diesel pickup; in China it is marketed as the **Hantu (悍途)**. Unlike alias-only nameplates, the T9/Hantu relationship here is supported by **both JAC's export site and JAC's Chinese pickup site (OEM on both sides)**, so the identity can be stated — while still keeping market-specific figures labelled. This page covers the **Chinese/export diesel line (REFERENCE MARKET stated per figure)**.
+For a pickup the exporter's first questions are bed length, payload, four-wheel-drive layout and chassis — not infotainment. The T9 Hunter is JAC's mid-size diesel pickup; in China it is marketed as the **Hantu (悍途)**. The identity is settled by **two JAC-owned official sites** — the export site (jacen, name "T9") and the Chinese pickup site (pickup.jac, name "悍途/Hantu") — which satisfy MODEL_ALIAS_REQUIRES_OEM_PROOF: the **final identity determination is SAME_MODEL** for the product family. Identity and per-market configuration are judged independently, so every figure below still carries its market and confidence label.
 
 ## Chassis and Wheelbase: Standard vs Long
 | Item | Standard wheelbase | Long wheelbase |
@@ -21,33 +21,35 @@ For a pickup the exporter's first questions are bed length, payload, four-wheel-
 | Width / height | 1965 / 1920 mm | 1965 / 1920 mm |
 | Wheelbase | **3110 mm** | **3400 mm** |
 | Standard bed (L×W×H) | **1520 × 1590 × 470 mm** | longer bed on the 3400 mm chassis |
-
-Bed length is the single clearest way to tell the two chassis apart; record wheelbase and bed internal dimensions against the VIN.
+The standard-wheelbase dimensions are cross-checked between the JAC export OEM site and a Chinese structured source; the long-wheelbase figures are cross-checked across two Chinese sources. Bed length is the clearest way to tell the two chassis apart; record wheelbase and bed internal dimensions against the VIN.
 
 ## Powertrain (diesel focus: engine, gearbox, fuel, emission)
-| Item | T9 Hunter diesel (reference) |
+| Item | T9 Hunter diesel — Chinese-market reference |
 |---|---|
-| Engine | 2.0 T inline-4 diesel |
+| Engine | 2.0T inline-4 turbo diesel |
 | Power / torque | **125 kW / 410 N·m** |
 | Gearbox | **ZF 8-speed automatic (8AT)** |
+| 4WD | **BorgWarner part-time 4WD (2H/4H/4L) + rear differential lock** |
 | Fuel consumption claim | 7.6 L/100 km — **manufacturer claim**, not a measured result |
-| Fuel/emission note | Diesel; confirm destination sulphur tolerance and emission route (China-6 diesel calibration is not itself overseas approval) |
 
-## Drivetrain and Chassis
-- **Part-time four-wheel drive (BorgWarner)** with **2H / 4H / 4L** modes and a **rear differential lock** — the off-road/traction specification buyers expect on a 4x4 pickup.
-- Towing capacity **3500 kg** and bed payload **1000 kg** are **export-market JAC figures**; keep the market label attached and do not present them as Chinese homologation (certificate) values — confirm braked-towing and rated payload on the destination homologation document.
-- RHD availability appears on export lists but the exact RHD supply matrix must be confirmed through an official JAC channel, not assumed.
+These Chinese-market powertrain items currently rest on a **single Chinese media source alongside the export OEM site**; for the *Chinese market* they are therefore **SINGLE_SOURCE** — quote them as "**to be finalised against the manufacturer's configuration sheet (以厂商配置单终核)**", not as dual-source-verified Chinese figures. The existence of an export-OEM value does not upgrade Chinese-market confidence. Fuel/emission: diesel; confirm destination sulphur tolerance and the emission route (a China-VI calibration is not itself overseas approval).
+
+## Drivetrain, Towing and Payload — Market Labels Matter
+- **Part-time four-wheel drive (BorgWarner)** with **2H / 4H / 4L** and a **rear differential lock** on the documented 4x4 (Chinese-market single-source; finalise against the build sheet).
+- **Towing capacity 3500 kg is an EXPORT-market JAC factory figure (market = EXPORT)** from the export OEM site. It must **not** be written as a Chinese homologation/announcement value or as a system-wide number; braked-towing rating on the destination homologation document is what governs use abroad.
+- **Payload 1000 kg is a CHINA-market figure, VERIFIED** through the Chinese JAC pickup official site (with export-OEM support).
+- RHD availability appears on export lists, but the exact RHD supply matrix must be confirmed through an official JAC channel, not assumed.
 
 ## Version and Order-Configuration Points
 1. **Chassis/bed**: standard (3110 mm) vs long (3400 mm) — bed length decides the line.
 2. **Drivetrain**: 4x4 with 2H/4H/4L and rear lock vs any 4x2 version; state explicitly.
-3. **Market label on capacity**: 3500 kg towing / 1000 kg payload are export-site figures; reconcile with the Chinese certificate and destination rating.
-4. **Diesel after-treatment and fuel sulphur** per the emission/fuel-compatibility guide.
-5. **HS classification** for a pickup follows the export HS-code guide (cargo/person-use boundary matters at customs).
+3. **Market label on capacity**: 3500 kg towing = EXPORT factory data; 1000 kg payload = China-rated; reconcile both with the destination rating.
+4. **Chinese powertrain confidence**: 125 kW/410 N·m/ZF 8AT/4WD are single-source for China — finalise against the manufacturer sheet.
+5. **Diesel after-treatment and fuel sulphur** per the emission/fuel-compatibility guide; **HS classification** per the export HS-code guide.
 
 ## Overseas Buyer Verification Before Payment
-- VIN-to-chassis (standard/long) and bed dimensions; 4WD mode and rear-lock presence.
-- Rated payload/towing on the **destination** homologation, not only the export brochure.
+- VIN-to-chassis (standard/long) and bed dimensions; 4WD mode and rear-lock presence on the build sheet.
+- Treat 3500 kg towing as export factory data only; confirm rated towing/payload on the **destination** homologation.
 - Steering side (LHD/RHD) confirmed officially; emission and diesel-fuel compatibility.
 - Document set per the export document-package checklist.
 
@@ -55,26 +57,27 @@ Bed length is the single clearest way to tell the two chassis apart; record whee
 No static export price is published. Enquire with **Destination Country · Quantity · Standard/Long Bed · LHD/RHD · Destination Port · Incoterm**.
 
 ## Frequently Asked Questions
-**What engine and gearbox does the T9 Hunter use?** A 2.0T diesel (125 kW/410 N·m) with a ZF 8-speed automatic.
+**What engine and gearbox does the T9 Hunter use?** A 2.0T diesel (125 kW/410 N·m) with a ZF 8-speed automatic; for the Chinese market these are single-source pending the factory configuration sheet.
 **Does it have low-range four-wheel drive?** Yes — BorgWarner part-time 4WD with 2H/4H/4L and a rear differential lock on the documented 4x4.
 **Standard or long bed?** Both: 3110 mm wheelbase/5330 mm overall or 3400 mm/5620 mm; bed length differs accordingly.
-**Are the 3500 kg towing and 1000 kg payload Chinese-certified figures?** They are export-market JAC figures; confirm the rated values on the destination homologation.
+**Is the 3500 kg towing figure a Chinese-certified value?** No — it is an export-market JAC factory figure; payload 1000 kg is the China-rated value, and destination ratings must be confirmed separately.
 
 ## Sources & Verification
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| JAC T9 Pickup official specifications | JAC MOTORS export site (OEM) | EXPORT | https://jacen.jac.com.cn/t9-launch/specs.html | 2026-09-04 | VERIFIED (OEM) | Export towing/payload, T9 identity |
-| New Hantu (overseas T9) powertrain & generation | Sohu Auto | CN/Export | https://www.sohu.com/a/1068531202_122480923 | 2026-09-04 | CROSS_CHECKED | 2.0T diesel, ZF 8AT |
+| JAC T9 official specifications | JAC MOTORS export site (OEM) | EXPORT | https://jacen.jac.com.cn/t9-launch/specs.html | 2026-09-04 | VERIFIED (OEM) | SAME_MODEL identity; **3500 kg towing (EXPORT)**; std dimensions |
+| New Hantu product configuration | JAC Pickup official (OEM) | CN | https://pickup.jac.com.cn/qxht/index.html | 2026-09-04 | VERIFIED (OEM) | SAME_MODEL identity; **1000 kg payload (CHINA)** |
 | Hantu standard/long body & bed dimensions | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/6777343 | 2026-09-04 | CROSS_CHECKED | 5330/5620, wheelbase, bed |
-| Shuailing T9 filing dimensions (long bed) | PCauto | CN | http://m.pcauto.com.cn/x/2947/29474511.html | 2026-09-04 | SINGLE_SOURCE | Long-bed corroboration |
-| New Hantu product configuration | JAC Pickup official (OEM) | CN | https://pickup.jac.com.cn/qxht/index.html | 2026-09-04 | VERIFIED (OEM) | Chinese Hantu identity, 4WD, lock |
-*Confidence note: dual-OEM identity support (export + Chinese pickup sites). Capacity figures are export-market and labelled; fuel consumption is a manufacturer claim. Confirm destination ratings and RHD matrix officially.*
+| Shuailing T9 filing dimensions (long bed) | PCauto | CN | http://m.pcauto.com.cn/x/2947/29474511.html | 2026-09-04 | CROSS_CHECKED | Long-bed corroboration |
+| Hantu (overseas T9) powertrain & generation | Sohu Auto | CN/Export | https://www.sohu.com/a/1068531202_122480923 | 2026-09-04 | SINGLE_SOURCE (China) | 2.0T/125/410/ZF8AT/4WD, 7.6 claim |
+*Confidence note: identity SAME_MODEL via dual JAC OEM sites; standard/long chassis cross-checked; Chinese powertrain is SINGLE_SOURCE (finalise against the manufacturer sheet); 3500 kg towing is EXPORT-only and never a Chinese homologation value; 1000 kg payload is China VERIFIED. RHD matrix and export price not stated.*
 
 ## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-04
-- **Reference market**: Chinese/export diesel T9 Hunter (market label per figure; not a single global spec)
-- **Verification method**: Dual-OEM identity; chassis/bed split; export capacities labelled separately from homologation
+- **Author**: AutoBridge Export Editorial Team · [Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
+- **Last reviewed**: 2026-09-04 · **Fact sheet version**: v1.2-2026-09-04
+- **Reference market**: Identity CHINA+EXPORT; towing EXPORT; payload CHINA; Chinese powertrain single-source
+- **Verification method**: Dual-OEM SAME_MODEL identity; per-market confidence labels; export figures not upgraded to Chinese homologation
+- **Transparency**: AI_ASSISTED=true · HUMAN_REVIEWED=false · evidence.first_hand=false · PUBLISH_APPROVED=false
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING · PUBLISH_APPROVED=FALSE until independent sign-off
 
-**Tags**: #JACT9Hunter #DieselPickup #4x4 #ChinesePickupExport #BedAndPayload
+**Tags**: #JACT9Hunter #DieselPickup #4x4 #SameModel #BedAndPayload

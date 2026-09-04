@@ -1,59 +1,71 @@
-# Taking a China-6 Vehicle Abroad: Emission Stage and Fuel Compatibility Without Assuming Euro Equivalence
+# China-VI Vehicles Overseas: Emission Standards, the 2026 Amendment and Fuel Compatibility Buyers Must Verify
 
 ## SEO Metadata
-- **SEO Title**: China-6 Vehicle Export: Emission Stage & Fuel Compatibility Guide
-- **Meta Description**: How to judge whether a Chinese China-6 (GB 18352.6) petrol or diesel vehicle fits an overseas market — China-6 diesel sulphur limit, DPF/SCR risk on high-sulphur fuel, and why China-6 is not automatic Euro approval.
-- **Suggested URL**: /guides/chinese-vehicle-emission-fuel-compatibility
-- **H1**: Emission and Fuel Compatibility for Exported Chinese Vehicles: What China-6 Does and Does Not Tell You
-- **Primary Keyword**: chinese vehicle emission fuel sulfur compatibility export
-- **Secondary Search Terms**: China 6 GB18352.6, China-6 diesel sulphur 10ppm, DPF SCR high sulphur fuel, China-6 vs Euro, octane cetane export
-- **Internal Link Suggestions**: /vehicles/dongfeng-tianlong-kl/ ; /vehicles/jmc-shunda/ ; /guides/vehicle-vin-wmi-nameplate-compliance/
-- **Image Suggestions**: emission-standard relationship map; DPF/SCR fuel path; fuel-spec verification flow
-- **ALT Suggestions**: "China-6 emission and fuel sulphur compatibility for export"
+- **SEO Title**: China VI Emissions & Overseas Fuel Compatibility Guide — GB18352.6 / GB17691
+- **Meta Description**: Separate light-duty GB18352.6-2016 (XG1-2026 amendment) from heavy-duty GB17691-2018, China-VI diesel sulphur limits and DPF/SCR risk, and why China VI never auto-equals Euro or EPA approval.
+- **Suggested URL**: /guides/emission-fuel-compatibility-china-vehicles
+- **H1**: Taking a China-VI Vehicle Abroad: Which Emission Standard Applies, and Will the Local Fuel Suit It?
+- **Primary Keyword**: china 6 emission standard overseas fuel compatibility GB18352.6 GB17691
+- **Secondary Search Terms**: GB18352.6-2016 XG1-2026, GB17691-2018 heavy duty china 6, GB19147 diesel sulfur 10ppm, DPF SCR high sulfur fuel, China VI vs Euro equivalence
+- **Internal Link Suggestions**: /guides/vehicle-export-pdi-pre-shipment-handover/ ; /vehicles/jmc-shunda/ ; /vehicles/dongfeng-tianlong-kl/
+- **Image Suggestions**: light vs heavy standard split; DPF/SCR aftertreatment diagram; sulphur-content gauge; destination verification loop
+- **ALT Suggestions**: "Light-duty GB18352.6 and heavy-duty GB17691 separated with fuel compatibility checks"
 
-## The Two Compatibility Questions Buyers Conflate
-When a Chinese car or truck is offered overseas, buyers ask "what emission standard is it?" and assume the answer also settles "will it run on local fuel and be registered?" Those are separate problems: an **emission homologation** question and a **fuel-compatibility/after-treatment** question. A vehicle can be China-6 certified, run badly on destination fuel, and still lack local type approval — all at once. This guide covers the **Chinese standard and the matching principles**; it deliberately does **not** state UNECE/Euro numeric limits or EN fuel-spec values, because primary UNECE/CEN sources were not captured for this batch, and it never claims "China-6 equals Euro X."
+## Why "China VI" Is Not One Number
+Buyers often read "China VI / 国六" as a single standard. It is not: **light-duty and heavy-duty vehicles sit under different Chinese standards**, and an emission standard is also distinct from **fuel compatibility** and from **destination type approval**. This guide separates all three and states exactly where China's official standards end and destination verification begins.
 
-## The Chinese Baseline: China-6 for Light Vehicles
-China's current light-vehicle emission stage is the **sixth stage, GB 18352.6-2016 (China-6)**, implemented in **China-6a and China-6b** phases. Heavy-duty diesel vehicles follow their own China-6 stage. The standard number and phased rollout are the correct Chinese-side anchor; the precise comparison to any Euro stage number is **not** made here without an official equivalence document.
+## Light Duty vs Heavy Duty — Two Current Standards
+| Scope | Current Chinese standard | Status / dates |
+|---|---|---|
+| **Light-duty** (M1/M2/N1 petrol & diesel) | **GB 18352.6-2016** (China 6) | Its **Amendment No.1, GB18352.6-2016/XG1-2026**, was issued by the **Ministry of Ecology and Environment (MEE) and SAMR in 2026-04 and takes effect 2026-05-01** (the HEV type-approval extension portion from **2026-07-01**) |
+| **Heavy-duty diesel** (compression-ignition / gas-fuelled engine vehicles) | **GB 17691-2018** (China 6) | Issued 2018-06-22, in force 2019-07-01, mandatory; a 2026 amendment was issued in the same batch |
 
-## Fuel: the Diesel-Sulphur Problem Is Concrete
-- China's China-6 **vehicle diesel** executes **GB 19147**, with a **sulphur limit of ≤10 mg/kg (10 ppm)** — cross-supported by a provincial market-supervision sampling rule that cites GB 19147-2016 and by industry after-treatment guidance.
-- China-6 **diesel vehicles carry DPF/SCR after-treatment**. Running such a system for long periods on **high-sulphur diesel can poison and disable the after-treatment**, raising regeneration problems, derating and component damage. Before delivery to a market, **confirm the destination diesel sulphur level** against what the engine and its after-treatment tolerate.
-- For petrol vehicles, confirm the destination **octane rating**; for diesel, confirm **cetane and sulphur** against the owner's-manual requirement rather than assuming Chinese-grade fuel is available.
+Do **not** describe every Chinese vehicle using only the light-duty GB18352.6: a Shunda light truck and a Tianlong heavy tractor head answer to different standards.
 
-## Why China-6 Is Not Overseas Approval
-Overseas frameworks are built mainly around **UNECE/Euro** regulation (and US EPA in North America). China-6 **borrows from the European framework's architecture**, but meeting a Chinese standard does **not** constitute passing any overseas certification — homologation must be handled separately for the destination. There is no blanket "China-6 = Euro X" conclusion available without an official mutual-recognition document for the specific market and vehicle category.
+## Fuel Compatibility: The Diesel-Sulphur Risk
+- China-VI road diesel follows **GB 19147-2016** (with XG1-2018, current), whose China-VI grade caps **sulphur at ≤10 mg/kg (10 ppm)**.
+- China-VI **diesel vehicles carry DPF/SCR after-treatment**. Running such an engine for long periods on **high-sulphur fuel can poison and disable the after-treatment system**. Before shipping a diesel, confirm the destination's diesel sulphur level and the engine manufacturer's fuel requirement.
+- For petrol, check the destination's octane rating; for diesel, cetane number and sulphur content against the owner's manual. This compatibility advice is qualitative — exact EN228/EN590 figures are not asserted without primary CEN/UNECE sources.
 
-## The Compatibility Check We Recommend
-1. Identify the **exact engine and after-treatment** (DPF/SCR for diesel) and its certified Chinese stage.
-2. Obtain the destination's **fuel specification** (sulphur/cetane/octane) and compare to the manual's requirement.
-3. Identify the destination **emission/type-approval route** as a separate workstream; do not treat the Chinese certificate as local access.
-4. Where fuel quality is uncertain, raise the after-treatment risk with the OEM/importer **before** shipment rather than after warranty claims appear.
+## Emission Approval ≠ Destination Type Approval
+Overseas frameworks are principally **UNECE/Euro** (Europe) and **US EPA** (United States), among others. China VI **drew on the European framework but does not constitute approval under any overseas regime** — destination conformity must be handled separately. This guide makes **no "China VI equals Euro X" claim**: equivalence would require an official mutual-recognition document, which is not available here; precise UNECE R83/R49 limits and EN fuel specs are out of scope pending primary sources.
 
-## What This Page Does Not State
-- Precise UNECE R83/R49 or Euro-stage emission limits, and EN228/EN590 numeric specifications — primary sources were not captured; do not cite numbers from this page for them.
-- Any destination-specific "China-6 equivalent" conclusion — that requires an official recognition instrument.
+## The Buyer Verification Sequence
+1. Identify light vs heavy duty and cite the **correct current standard** (GB18352.6-2016 + XG1-2026, or GB17691-2018).
+2. Confirm the vehicle's after-treatment type (DPF/SCR for diesel).
+3. Verify destination **fuel sulphur/cetane/octane** against the manual.
+4. Run **destination type approval** as a separate workstream — never assume China VI is accepted as Euro/EPA.
+5. Cite standard version and dates; these are time-sensitive.
+
+## Boundaries of This Guide
+- No exact UNECE/Euro limit values or EN228/EN590 specifications (primary source not obtained).
+- No China-VI-to-Euro equivalence conclusion.
+- Destination fuel specs and admission rules are time-sensitive and country-specific.
 
 ## Frequently Asked Questions
-**Is a China-6 car automatically Euro-certified?** No. China-6 draws on the European framework's structure but is a Chinese standard; destination type approval is a separate process.
-**What sulphur level does China-6 diesel assume?** Chinese China-6 vehicle diesel under GB 19147 is limited to 10 mg/kg (10 ppm) sulphur.
-**Why does high-sulphur diesel damage a China-6 diesel?** It can poison the DPF/SCR after-treatment, causing regeneration and derating problems over time.
-**Which fuel properties should I check for the destination?** Petrol octane, and diesel cetane and sulphur, against the manufacturer's manual.
+**Is China VI the same standard for cars and heavy trucks?** No — light duty is GB18352.6-2016 (with the 2026 Amendment No.1), heavy-duty diesel is GB17691-2018.
+**When does GB18352.6/XG1-2026 apply?** Issued 2026-04, effective 2026-05-01 (HEV type-approval extension from 2026-07-01).
+**Why does diesel sulphur matter?** China-VI diesel uses DPF/SCR; sustained high-sulphur fuel can poison the after-treatment.
+**Does China VI mean the car is Euro-approved?** No; overseas conformity is a separate process and no equivalence is claimed.
 
 ## Sources & Verification
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Light-vehicle China-6 standard GB18352.6-2016 text | ChinaAutoRegs (repost) | CN | http://m.toutiao.com/group/6758333762372633092/ | 2026-09-04 | SINGLE_SOURCE | GB number, 6a/6b phases, framework |
-| Liaoning vehicle-diesel quality sampling rule (cites GB19147-2016) | Panjin Municipal Government | CN | http://www.panjin.gov.cn/html/2731/2026-07-29/content-152533.html | 2026-09-04 | CROSS_CHECKED | ≤10 mg/kg sulphur |
-| China-6 diesel sulphur ≤10ppm and after-treatment protection | 11467 testing body | CN | https://m.11467.com/product/d51123633.htm | 2026-09-04 | SINGLE_SOURCE | DPF/SCR poisoning mechanism, fuel match |
-*Confidence note: RESEARCH_CONDITIONAL. China standard and sulphur limit stated; UNECE/Euro numeric limits, EN specs and any equivalence conclusion are blocked pending primary sources.*
+| MEE announcement issuing GB18352.6-2016 Amendment No.1 (2026-04, eff. 2026-05-01) | Ministry of Ecology and Environment | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-04 | VERIFIED (primary) | XG1-2026 version/dates |
+| GB18352.6-2016 Amendment No.1 official PDF | MEE | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/W020260430505281593651.pdf | 2026-09-04 | VERIFIED (primary) | Light-duty amendment |
+| SAMR standard platform · GB18352.6-2016 XG1 | SAMR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=4E492C30BCCC59A0E06397BE0A0A9C5E | 2026-09-04 | VERIFIED (primary) | Standard status/date |
+| MEE announcement on GB17691-2018 heavy-duty China 6 | MEE | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-04 | VERIFIED (primary) | Heavy-duty standard/dates |
+| GB17691-2018 official PDF | MEE | CN | https://www.mee.gov.cn/ywgz/fgbz/bz/bzwb/dqhjbh/dqydywrwpfbz/201807/W020260430500008289846.pdf | 2026-09-04 | VERIFIED (primary) | Heavy-duty scope |
+| GB19147-2016 road diesel (current, with XG1-2018) | SAMR openstd | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-04 | VERIFIED (primary) | Sulphur ≤10 mg/kg |
+| DPF/SCR high-sulphur after-treatment risk | 11467 testing body | CN | https://m.11467.com/product/d51123633.htm | 2026-09-04 | SINGLE_SOURCE | Qualitative after-treatment risk |
+*Status note: FACT_SOURCE_CONDITIONAL — Chinese standards/dates VERIFIED via MEE/SAMR primary sources; overseas Euro/EPA limits, EN fuel specs and any equivalence conclusion are blocked pending primary overseas sources.*
 
 ## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-04
-- **Reference market**: Chinese standard + international framework (no destination equivalence asserted)
-- **Verification method**: Government + industry cross-check for sulphur; equivalence and foreign numeric limits withheld
+- **Author**: AutoBridge Export Editorial Team · [Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
+- **Last reviewed**: 2026-09-04 · **Fact sheet version**: v1.1-2026-09-04
+- **Reference market**: Chinese standards (light/heavy separated) + qualitative overseas fuel guidance
+- **Verification method**: MEE/SAMR primary standards; light/heavy split; no equivalence or exact overseas limits asserted
+- **Transparency**: AI_ASSISTED=true · HUMAN_REVIEWED=false · evidence.first_hand=false · PUBLISH_APPROVED=false
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=CONDITIONAL · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING · PUBLISH_APPROVED=FALSE until independent sign-off
 
-**Tags**: #China6 #EmissionStandard #DieselSulphur #DPFSCR #ExportCompatibility
+**Tags**: #China6 #Emissions #FuelCompatibility #GB18352 #GB17691

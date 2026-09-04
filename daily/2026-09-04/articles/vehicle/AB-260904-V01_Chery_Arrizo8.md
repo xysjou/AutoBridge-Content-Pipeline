@@ -7,7 +7,7 @@
 - **H1**: Chery Arrizo 8: Chinese-Market Specifications and Export Verification Notes
 - **Primary Keyword**: chery arrizo 8 specs export
 - **Secondary Search Terms**: Arrizo 8 1.6TGDI, Chery Arrizo 8 dimensions, 艾瑞泽8 export, Kunpeng SQRF4J16, Chinese compact sedan export
-- **Internal Link Suggestions**: /guides/vehicle-vin-wmi-nameplate-compliance/ ; /guides/chinese-vehicle-emission-fuel-compatibility/ ; /guides/export-vehicle-document-package/
+- **Internal Link Suggestions**: /guides/vin-nameplate-verification-chinese-vehicles/ ; /guides/emission-fuel-compatibility-china-vehicles/ ; /guides/export-vehicle-document-package/
 - **Image Suggestions**: front three-quarter of Arrizo 8; engine cover 1.6TGDI badge; rear cabin legroom; 7DCT selector
 - **ALT Suggestions**: "Chery Arrizo 8 1.6TGDI Chinese-market sedan"; "Arrizo 8 dimensions 4780mm wheelbase 2790mm"
 
@@ -63,10 +63,11 @@ No static export price is published. The Chinese guide price (a 2024 卓越 trim
 *Confidence note: no OEM primary spec sheet was captured; figures are cross-checked Chinese structured-database values. Doors, drive layout and top speed are single-source. Domestic price is time-sensitive and is never an export quotation.*
 
 ## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-04
+- **Author**: AutoBridge Export Editorial Team · [Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
+- **Last reviewed**: 2026-09-04 · **Fact sheet version**: v1.1-2026-09-04
 - **Reference market**: China, 2024/2025 Arrizo 8 1.6TGDI (Chinese-market reference specification; not a global spec)
 - **Verification method**: Two-database cross-check; single-source items flagged; no destination extrapolation
+- **Transparency**: AI_ASSISTED=true · HUMAN_REVIEWED=false · evidence.first_hand=false · PUBLISH_APPROVED=false
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until independent sign-off
 
 **Tags**: #CheryArrizo8 #ChineseSedanExport #1.6TGDI #ExportBuyerGuide #ChinaReferenceSpec

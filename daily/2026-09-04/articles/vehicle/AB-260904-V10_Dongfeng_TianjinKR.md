@@ -67,10 +67,11 @@ No export price is published. Enquire with **Destination Country · Quantity · 
 *Confidence note: model code anchored to MIIT batch-410 reporting; reefer unit/zones/insulation intentionally left to the body builder (no hard-coded values); KR Plus excluded. Chinese-market reference; confirm legal rating on the announcement/certificate.*
 
 ## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-04
+- **Author**: AutoBridge Export Editorial Team · [Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
+- **Last reviewed**: 2026-09-04 · **Fact sheet version**: v1.1-2026-09-04
 - **Reference market**: China, Tianjin KR DFH5180XLC reefer chassis (Chinese-market reference; chassis vs upfit separated; not a global spec)
 - **Verification method**: MIIT-filing anchor; driveline cross-checked; superstructure deferred to body builder
+- **Transparency**: AI_ASSISTED=true · HUMAN_REVIEWED=false · evidence.first_hand=false · PUBLISH_APPROVED=false
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING · PUBLISH_APPROVED=FALSE until independent sign-off
 
 **Tags**: #DongfengTianjinKR #RefrigeratedTruck #ChassisAndUpfit #SpecialVehicle #CommercialExport

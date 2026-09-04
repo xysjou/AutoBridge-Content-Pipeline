@@ -489,7 +489,7 @@
     {
       "article_id": "AB-260904-G05",
       "content_type": "PROCUREMENT_GUIDE",
-      "slug": "/guides/vehicle-export-pdi-protection",
+      "slug": "/guides/vehicle-export-pdi-pre-shipment-handover",
       "word_filename": "GUIDE_20260904_05_PDI_Pre_Shipment.docx",
       "stage": "MASTER_CODEX_REVIEW_PENDING",
       "published": false,
@@ -498,7 +498,7 @@
     {
       "article_id": "AB-260904-G06",
       "content_type": "PROCUREMENT_GUIDE",
-      "slug": "/guides/chinese-vehicle-emission-fuel-compatibility",
+      "slug": "/guides/emission-fuel-compatibility-china-vehicles",
       "word_filename": "GUIDE_20260904_06_Emission_Fuel_Compatibility.docx",
       "stage": "MASTER_CODEX_REVIEW_PENDING",
       "published": false,
@@ -507,7 +507,7 @@
     {
       "article_id": "AB-260904-G07",
       "content_type": "PROCUREMENT_GUIDE",
-      "slug": "/guides/vehicle-vin-wmi-nameplate-compliance",
+      "slug": "/guides/vin-nameplate-verification-chinese-vehicles",
       "word_filename": "GUIDE_20260904_07_VIN_Nameplate.docx",
       "stage": "MASTER_CODEX_REVIEW_PENDING",
       "published": false,
@@ -516,7 +516,7 @@
     {
       "article_id": "AB-260904-G08",
       "content_type": "PROCUREMENT_GUIDE",
-      "slug": "/guides/ev-battery-shipping-imdg-42-24",
+      "slug": "/guides/ev-shipping-un3556-imdg-compliance",
       "word_filename": "GUIDE_20260904_08_Battery_Shipping_IMDG.docx",
       "stage": "MASTER_CODEX_REVIEW_PENDING",
       "published": false,
@@ -534,7 +534,7 @@
     {
       "article_id": "AB-260904-G10",
       "content_type": "PROCUREMENT_GUIDE",
-      "slug": "/guides/vehicle-export-shipping-charge-structure",
+      "slug": "/guides/ocean-freight-charge-structure-vehicle-export",
       "word_filename": "GUIDE_20260904_10_Shipping_Charge_Structure.docx",
       "stage": "MASTER_CODEX_REVIEW_PENDING",
       "published": false,

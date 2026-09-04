@@ -7,7 +7,7 @@
 - **H1**: JMC Shunda: Chinese-Market Light-Truck Chassis, GVW and Cargo Specs for Export
 - **Primary Keyword**: jmc shunda light truck specs export
 - **Secondary Search Terms**: JMC Shunda JX493, 顺达小卡, Chinese light truck GVW, JMC dropside payload, China-6 diesel truck export
-- **Internal Link Suggestions**: /guides/vehicle-export-hs-code-classification/ ; /guides/chinese-vehicle-emission-fuel-compatibility/ ; /vehicles/dongfeng-tianjin-kr/
+- **Internal Link Suggestions**: /guides/vehicle-export-hs-code-classification/ ; /guides/emission-fuel-compatibility-china-vehicles/ ; /vehicles/dongfeng-tianjin-kr/
 - **Image Suggestions**: Shunda dropside side; cargo bed; JX493 engine; chassis frame; cab
 - **ALT Suggestions**: "JMC Shunda blue-plate light truck dropside"; "Shunda 3700mm cargo bed GVW 4.27t"
 
@@ -63,10 +63,11 @@ No export price is published. Enquire with **Destination Country · Quantity · 
 *Confidence note: no OEM primary sheet; trade-database cross-checks. Rated payload explicitly deferred to MIIT announcement/certificate; 2.499 L and 2.8 L engines kept separate. Chinese-market reference only.*
 
 ## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-04
+- **Author**: AutoBridge Export Editorial Team · [Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
+- **Last reviewed**: 2026-09-04 · **Fact sheet version**: v1.1-2026-09-04
 - **Reference market**: China, Shunda JX493ZLQ6D small truck (Chinese-market reference; payload per certificate; not a global spec)
 - **Verification method**: Trade-database cross-check; engine versions separated; legal rating deferred to official announcement
+- **Transparency**: AI_ASSISTED=true · HUMAN_REVIEWED=false · evidence.first_hand=false · PUBLISH_APPROVED=false
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING · PUBLISH_APPROVED=FALSE until independent sign-off
 
 **Tags**: #JMCShunda #LightTruck #GVWPayload #China6Diesel #CommercialVehicleExport

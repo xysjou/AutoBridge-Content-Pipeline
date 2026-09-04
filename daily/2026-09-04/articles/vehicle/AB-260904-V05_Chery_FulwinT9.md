@@ -7,7 +7,7 @@
 - **H1**: Chery Fulwin T9 C-DM: Chinese-Market PHEV SUV Specs and Export Verification
 - **Primary Keyword**: chery fulwin t9 specs export
 - **Secondary Search Terms**: Fulwin T9 C-DM, 风云T9 plug-in hybrid, Chery T9 32.66kWh, Fulwin T9 7-seat, Chinese PHEV SUV export
-- **Internal Link Suggestions**: /guides/ev-battery-shipping-imdg-42-24/ ; /vehicles/byd-qin-l-dm-i/ ; /guides/export-vehicle-document-package/
+- **Internal Link Suggestions**: /guides/ev-shipping-un3556-imdg-compliance/ ; /vehicles/byd-qin-l-dm-i/ ; /guides/export-vehicle-document-package/
 - **Image Suggestions**: Fulwin T9 three-quarter; charging port; 5 vs 7 seat layout; 1.5T C-DM badge; cargo area
 - **ALT Suggestions**: "Chery Fulwin T9 C-DM plug-in hybrid SUV"; "Fulwin T9 32.66kWh battery CLTC range"
 
@@ -58,7 +58,7 @@ No export price is published. The Chinese 2024 guide range (roughly RMB 129,900�
 ## Sources & Verification
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Fulwin T9 official configuration table | Chery Fulwin (OEM) | CN | https://fulwin.chery.cn/vehicles/t9/config/ | 2026-09-04 | VERIFIED (OEM) | Battery, dimensions, seats, charging, versions |
+| Fulwin T9 official configuration table | Chery Fulwin (OEM) | CN | https://fulwin.chery.cn/vehicles/jac-t9-hunter/config/ | 2026-09-04 | VERIFIED (OEM) | Battery, dimensions, seats, charging, versions |
 | Fulwin T9 hands-on (size/model year) | Dongchedi | CN | https://m.dongchedi.com/article/7506038314424730131 | 2026-09-04 | CROSS_CHECKED | Dimensions, model-year boundary |
 | Fulwin T9 120 long-range flagship config | Autohome config | CN | https://m.autohome.com.cn/config/spec/70272.html | 2026-09-04 | CROSS_CHECKED | 32.66 kWh, electric range, motor |
 | Fulwin T9 battery & EV-range analysis | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26113006 | 2026-09-04 | SINGLE_SOURCE | Battery, CLTC/WLTC range, charge times |
@@ -66,10 +66,11 @@ No export price is published. The Chinese 2024 guide range (roughly RMB 129,900�
 *Confidence note: OEM configuration page captured (VERIFIED anchor); charge times and cargo volume are single-source; combined range is a manufacturer claim. Standard T9 only — T9L excluded.*
 
 ## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-04
+- **Author**: AutoBridge Export Editorial Team · [Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
+- **Last reviewed**: 2026-09-04 · **Fact sheet version**: v1.1-2026-09-04
 - **Reference market**: China, standard Fulwin T9 C-DM (Chinese-market reference; CLTC/WLTC labelled; not a global spec)
 - **Verification method**: OEM config anchored; standard vs long-wheelbase isolated; factory claims attributed
+- **Transparency**: AI_ASSISTED=true · HUMAN_REVIEWED=false · evidence.first_hand=false · PUBLISH_APPROVED=false
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING · PUBLISH_APPROVED=FALSE until independent sign-off
 
 **Tags**: #CheryFulwinT9 #CDM #PHEVSUV #ChinaReferenceSpec #ExportBuyerGuide

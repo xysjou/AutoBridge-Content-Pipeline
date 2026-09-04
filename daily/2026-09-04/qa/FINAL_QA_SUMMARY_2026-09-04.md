@@ -1,41 +1,38 @@
-# FINAL QA SUMMARY — 2026-09-04 (AutoBridge Stage-2 Master)
+# FINAL QA SUMMARY — 2026-09-04 (Research-Rebase Correction, publish-grade gate applied)
 
-## Tally
-- Planned: 20 (10 VEHICLE_PAGE + 10 PROCUREMENT_GUIDE) · Completed: 20
-- EDITORIAL_QA_PASS: 20 · SEO_PASS: 20 · CONTENT_PASS: 20
-- FACT_SOURCE_PASS: 15 · FACT_SOURCE_CONDITIONAL: 5 · FACT_SOURCE_FAIL: 0
-- QA_FAIL: 0 · FACT_REVIEW_REQUIRED: 0 · Reserve replacements: 0 · Repeated historical errors: 0
-- CODEX_REVIEW_PENDING: 20 (Writing AI does not self-pass Codex) · PUBLISH_APPROVED: 0 (independent final review)
-- CONDITIONAL (strictly bounded to FACTS_ALLOWED_IN_BODY): V04, G04, G05, G06, G10
+**Fact layer:** FACT_SOURCE_PASS=15 · CONDITIONAL=5 (V04,G02,G05,G06,G10) · FAIL=0.
+**Publish-grade source gate (separate new layer, ≥6 URLs/≥4 orgs):** MAIN PASS=4 (G01,G07,G08,G09) · publish-grade CONDITIONAL=16 (await Research source-depth supplementation; not a body-fact defect).
+All 20: EDITORIAL_QA_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING · PUBLISH_APPROVED=FALSE.
+Rebase: 11 changed / 9 retained after no-material-delta. Late-pull fact_sheet+source_log delta = 0. 5-gram max=0.068.
 
-## Per-article
-| ID | Type | Fact QA | SEO | Content | Final |
-|---|---|---|---|---|---|
-| AB-260904-G01 | PROCUREME | PASS | PASS | PASS | QA_PASS |
-| AB-260904-G02 | PROCUREME | PASS | PASS | PASS | QA_PASS |
-| AB-260904-G03 | PROCUREME | PASS | PASS | PASS | QA_PASS |
-| AB-260904-G04 | PROCUREME | CONDITIONAL | PASS | PASS | QA_PASS |
-| AB-260904-G05 | PROCUREME | CONDITIONAL | PASS | PASS | QA_PASS |
-| AB-260904-G06 | PROCUREME | CONDITIONAL | PASS | PASS | QA_PASS |
-| AB-260904-G07 | PROCUREME | PASS | PASS | PASS | QA_PASS |
-| AB-260904-G08 | PROCUREME | PASS | PASS | PASS | QA_PASS |
-| AB-260904-G09 | PROCUREME | PASS | PASS | PASS | QA_PASS |
-| AB-260904-G10 | PROCUREME | CONDITIONAL | PASS | PASS | QA_PASS |
-| AB-260904-V01 | VEHICLE_P | PASS | PASS | PASS | QA_PASS |
-| AB-260904-V02 | VEHICLE_P | PASS | PASS | PASS | QA_PASS |
-| AB-260904-V03 | VEHICLE_P | PASS | PASS | PASS | QA_PASS |
-| AB-260904-V04 | VEHICLE_P | CONDITIONAL | PASS | PASS | QA_PASS |
-| AB-260904-V05 | VEHICLE_P | PASS | PASS | PASS | QA_PASS |
-| AB-260904-V06 | VEHICLE_P | PASS | PASS | PASS | QA_PASS |
-| AB-260904-V07 | VEHICLE_P | PASS | PASS | PASS | QA_PASS |
-| AB-260904-V08 | VEHICLE_P | PASS | PASS | PASS | QA_PASS |
-| AB-260904-V09 | VEHICLE_P | PASS | PASS | PASS | QA_PASS |
-| AB-260904-V10 | VEHICLE_P | PASS | PASS | PASS | QA_PASS |
+| Article | Rebase | Fact QA | URLs/Orgs | Pub-Grade Gate | Editorial | SEO | Codex |
+|---|---|---|---|---|---|---|---|
+| V01 | RETAINED | PASS | 3/3 | FAIL (CONDITIONAL) | PASS | PASS | PENDING |
+| V02 | RETAINED | PASS | 4/3 | FAIL (CONDITIONAL) | PASS | PASS | PENDING |
+| V03 | RETAINED | PASS | 5/5 | FAIL (CONDITIONAL) | PASS | PASS | PENDING |
+| V04 | CHANGED | CONDITIONAL | 5/5 | FAIL (CONDITIONAL) | PASS | PASS | PENDING |
+| V05 | RETAINED | PASS | 5/5 | FAIL (CONDITIONAL) | PASS | PASS | PENDING |
+| V06 | RETAINED | PASS | 5/5 | FAIL (CONDITIONAL) | PASS | PASS | PENDING |
+| V07 | CHANGED | PASS | 5/5 | FAIL (CONDITIONAL) | PASS | PASS | PENDING |
+| V08 | RETAINED | PASS | 4/2 | FAIL (CONDITIONAL) | PASS | PASS | PENDING |
+| V09 | RETAINED | PASS | 4/4 | FAIL (CONDITIONAL) | PASS | PASS | PENDING |
+| V10 | RETAINED | PASS | 4/2 | FAIL (CONDITIONAL) | PASS | PASS | PENDING |
+| G01 | CHANGED | PASS | 6/6 | PASS (PASS) | PASS | PASS | PENDING |
+| G02 | CHANGED | CONDITIONAL | 7/5 | PASS (CONDITIONAL) | PASS | PASS | PENDING |
+| G03 | RETAINED | PASS | 3/3 | FAIL (CONDITIONAL) | PASS | PASS | PENDING |
+| G04 | CHANGED | PASS | 5/5 | FAIL (CONDITIONAL) | PASS | PASS | PENDING |
+| G05 | CHANGED | CONDITIONAL | 7/3 | FAIL (CONDITIONAL) | PASS | PASS | PENDING |
+| G06 | CHANGED | CONDITIONAL | 10/7 | PASS (CONDITIONAL) | PASS | PASS | PENDING |
+| G07 | CHANGED | PASS | 6/6 | PASS (PASS) | PASS | PASS | PENDING |
+| G08 | CHANGED | PASS | 8/8 | PASS (PASS) | PASS | PASS | PENDING |
+| G09 | CHANGED | PASS | 9/8 | PASS (PASS) | PASS | PASS | PENDING |
+| G10 | CHANGED | CONDITIONAL | 4/4 | FAIL (CONDITIONAL) | PASS | PASS | PENDING |
 
-## Cross-batch anti-template checks
-- H2 count varies 9–12 (no fixed 8-H2 template); category-specific structures (EV/PHEV/ICE/pickup/light/heavy/special/MPV; problem-driven guides).
-- Banned superlative scan: 0 hits; fixed-phrase scan ("The core risk is/Key warning/..."): 0 hits.
-- Every Sources & Verification row carries a URL; market/scope labelled; single-source items flagged inline.
-- Evergreen vehicle URLs (no year segment); internal links limited to in-batch slugs + existing /authors/ /editorial-policy/.
-- No export FOB/CIF/freight/duty/margin/sales figures; domestic MSRP kept time-sensitive and replaced by "Request a Current Export Quotation".
-- CONDITIONAL blocked facts withheld: G04 no Maritime-Code statute/carrier fees; G05 no fuel%/lashing-tonne/tyre%/SOC%; G06 no Euro numeric/EN-spec/equivalence; G10 no amounts; V04 alias held RELATED_MODEL and overseas HEV separated.
+## Conditional fact boundaries
+- V04: OEM-proven name identity; Chinese torque/gearbox blocked; overseas HEV separate.
+- G02: framework primary-verified; per-10-digit-HS catalogue status checked live; no blanket conclusion.
+- G05: WW/Höegh named carrier policy; checklist editorial; fixed lashing/SOC blocked.
+- G06: CN standards primary; overseas Euro/EPA limits and equivalence blocked.
+- G10: structure only; AMS/ACI/ENS route-specific; all amounts blocked.
+
+No FACT_SOURCE_FAIL; no AWAITING_RESEARCH (fact layer); no reserve replacement. Publish-grade source supplementation is a Research follow-up, tracked per article. Writing AI does not set PUBLISH_APPROVED.

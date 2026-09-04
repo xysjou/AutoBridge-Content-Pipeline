@@ -1,73 +1,68 @@
-# Reading a Vehicle-Export Freight Quote: O/F, THC, DOC, BAF and the Other Line Items Explained (No Made-Up Rates)
+# Reading an Ocean Freight Quotation for Vehicle Export: Charge Structure Without Invented Numbers
 
 ## SEO Metadata
-- **SEO Title**: Vehicle Export Shipping Charges Explained — O/F, THC, DOC, BAF
-- **Meta Description**: Understand every line in a freight forwarder quote for vehicle export — ocean freight, terminal handling, documentation, fuel/currency/peak surcharges and manifest fees — and how to verify them without relying on stale numbers.
-- **Suggested URL**: /guides/vehicle-export-shipping-charge-structure
-- **H1**: Anatomy of a Vehicle-Export Freight Quote: What Each Charge Means and How to Check It
-- **Primary Keyword**: vehicle export shipping charge structure thc doc baf
-- **Secondary Search Terms**: ocean freight O/F, terminal handling charge, DOC documentation fee, BAF fuel surcharge, AMS ACI ENS manifest fee, RoRo freight quote
-- **Internal Link Suggestions**: /guides/vehicle-export-bill-of-lading-types/ ; /guides/vehicle-export-pdi-protection/ ; /guides/vehicle-export-hs-code-classification/
-- **Image Suggestions**: quote-line anatomy diagram; origin vs destination charge split; fixed vs floating surcharge map
-- **ALT Suggestions**: "Freight quote line items O/F THC DOC BAF explained"
+- **SEO Title**: Ocean Freight Charge Structure for Vehicle Export — O/F, THC, DOC, BAF Explained
+- **Meta Description**: Understand O/F, THC, DOC/SEAL/VGM, BAF and surcharges, origin vs destination charges, and why AMS/ACI/ENS manifest fees are route-specific — a structure guide that deliberately states no fixed amounts.
+- **Suggested URL**: /guides/ocean-freight-charge-structure-vehicle-export
+- **H1**: Decoding a Vehicle-Export Freight Quote: Which Charges Exist, Who Charges Them, and What to Verify
+- **Primary Keyword**: ocean freight charge structure vehicle export THC DOC BAF
+- **Secondary Search Terms**: O/F ocean freight, terminal handling charge, DOC document fee, SEAL VGM fee, BAF EBS surcharge, AMS ACI ENS manifest fee, origin vs destination charges
+- **Internal Link Suggestions**: /guides/vehicle-export-bill-of-lading-types/ ; /guides/vehicle-export-pdi-pre-shipment-handover/ ; /guides/vehicle-export-hs-code-classification/
+- **Image Suggestions**: charge waterfall origin→ocean→destination; surcharge taxonomy; quote-line audit sheet
+- **ALT Suggestions**: "Ocean freight charge structure split by origin, ocean and destination"
 
-## The Procurement Problem: a Cheap Headline Rate Is Not the Cost
-Forwarders compete on the headline ocean freight number and recover margin in surcharges. An exporter who compares only "O/F" across quotes can choose the most expensive option. This guide explains **what each line item is, what it is billed on, and which side (origin/destination) it falls** — so quotes can be compared line by line. It deliberately gives **no currency amounts**: every rate and surcharge moves with the market, and a printed number would be stale the moment it is written. The valid figure is always the one on the current formal quotation.
+## Why a Structured Quote Matters More Than a Low Number
+A headline freight rate wins bookings and loses money at destination. Vehicle exporters get caught not by the base ocean freight but by the stack of surcharges and destination fees attached to it. This guide explains **what each charge is, what it is billed on, and where it arises**, and — because every rate moves with lane, capacity and season — it **states no fixed amounts**. Use it to audit a quote line by line, not to estimate a landed cost.
 
-## The Core Line: Ocean Freight
-**O/F (Ocean Freight)** is the base sea freight and the main body of the quote; it floats with **route, capacity and season**. For vehicles it is quoted per RoRo lane (often per vehicle unit) or per container; confirm the **billing unit** before comparing — per car, per CEU-equivalent, or per box are not the same thing.
+## The Building Blocks
+| Charge | What it covers | Billed where |
+|---|---|---|
+| **O/F (Ocean Freight)** | Base sea freight; the quote's main component, floating with lane/capacity/season | Ocean leg |
+| **THC (Terminal Handling Charge)** | Terminal lifting/handling/storage; differs by container size | Origin **and** destination (OTHC/DTHC) |
+| **DOC (document fee)** | Documentation; origin ODOC and destination DDOC are separate | Both ends |
+| **SEAL / VGM** | Seal fee and verified gross-mass weighing fee — common origin items | Origin |
+| **BAF (bunker adjustment; akin to EBS)** | Fuel-linked surcharge; alongside CAF (currency), PSS (peak season), PCS (congestion), WRS (war risk) | Ocean/variable |
 
-## Terminal and Documentation Lines
-| Code | Name | What it covers | Billing note |
-|---|---|---|---|
-| **THC** | Terminal Handling Charge | Port lifting/loading-unloading and terminal handling operations | Differs by container size; origin THC and destination THC are separate |
-| **DOC** | Documentation fee | B/L and shipping-document processing | **ODOC (origin)** and **DDOC (destination)** are billed separately |
-| **SEAL** | Seal fee | Container seal | Origin-side, container moves |
-| **VGM** | Verified Gross Mass | Container weight verification | Origin-side, container moves |
+## Manifest Filing Fees Are Route-Specific (editorial guidance, not a universal charge)
+**AMS, ACI, ENS** and similar automated-manifest filing fees generally arise **only when the routing passes through the corresponding mandatory-filing region** (e.g., US/Canada/EU advance-manifest regimes). Whether a fee is charged depends on the **lane and the carrier**, and it is settled on that shipment's invoice. This is **route-specific guidance**, not a universal international charge schedule: a lane that never touches those regimes should not carry the fee, and the guide asserts no fixed tariff for it.
 
-## Floating Surcharges
-These move with external conditions and should be shown as separate, dated lines rather than buried in O/F:
-- **BAF** — bunker/fuel adjustment (similar names include **EBS**); tracks bunker price.
-- **CAF** — currency adjustment.
-- **PSS** — peak-season surcharge.
-- **PCS** — port congestion surcharge.
-- **WRS** — war-risk surcharge for affected routes.
-A quote that bundles all of these into "all-in" without a breakdown is harder to audit when fuel or routing changes.
+## Origin vs Destination — Where Disputes Hide
+- Split every line into **origin charges** (before/at loading) and **destination charges** (at discharge/collection). Vehicle buyers are most often surprised by destination THC, DDOC and delivery-order fees they did not expect.
+- Ask the forwarder to **name each line and its billing unit** (per container / per bill / per vehicle), so two quotes can be compared on the same basis.
+- Watch for **unnamed surcharges** and "local charges" with no unit — these are where a low headline rate is recovered.
 
-## Regional Manifest Filing Fees
-**AMS / ACI / ENS** and similar are **automated manifest declaration fees for the destination region**, charged only when the routing passes through the relevant zone (US/Canada/EU-type regimes). They are route-dependent: a lane that never touches the region should not carry that fee — a useful cross-check for over-billing.
-
-## How to Verify a Quote (method, not memorized numbers)
-1. **Demand itemized lines**, each with its **billing unit** (per box / per bill / per vehicle).
-2. **Split origin vs destination** charges — destination fees land on the consignee under some Incoterms and on the shipper under others; align them to the agreed Incoterm.
-3. **Flag every floating surcharge** with its basis and validity date; ask which are fixed for the sailing and which may adjust.
-4. **Match manifest fees to the actual route** — no AMS/ACI/ENS where the region is not transited.
-5. **Compare two or three quotes on the same line basis**, not on headline O/F alone, and watch for unlisted "hidden" surcharges that appear on the final invoice.
+## A Quote-Audit Method (no figures)
+1. Confirm Incoterm and which side bears origin vs destination charges.
+2. List O/F and every surcharge with its **name and billing unit**.
+3. Flag any AMS/ACI/ENS line and check it against the **actual routing** (route-specific).
+4. Reconcile origin and destination columns; request destination charges in writing.
+5. Re-quote at booking — all rates are time-sensitive and the formal quotation at that moment governs.
 
 ## What This Guide Will Not Do
-- It states **no amounts** (no "small-box THC in RMB", no fixed documentation fee) — such values are either stale or market-moving and are valid only on the current formal quote.
-- It does **not** estimate landed cost or margin from freight lines; those require the actual dated quotation and the commercial terms.
+- **No fixed amounts** (no RMB THC ranges, no filing-fee numbers): prior figures are stale or market-variable and are never presented as current.
+- **No landed-cost or margin estimate** is derived for AutoBridge or the buyer; that requires a live formal quotation.
 
 ## Frequently Asked Questions
-**Why do two quotes with the same O/F differ in total?** Usually THC, documentation and floating surcharges (BAF/CAF/PSS) — compare itemized totals, not headline freight.
-**Are origin and destination THC the same charge?** No; they are billed at each end and allocated differently by Incoterm.
-**What are AMS/ACI/ENS?** Regional automated-manifest filing fees charged only when the route transits the relevant zone.
-**Why is no price given here?** Freight and surcharges change continuously; only the current formal quotation for the sailing is valid.
+**Why do two "same rate" quotes differ at destination?** Usually destination THC/DDOC/delivery fees and surcharge naming differ — compare line by line with billing units.
+**Must every shipment pay AMS/ACI/ENS?** No — those manifest fees arise only when the route passes through the relevant mandatory-filing region; verify against the actual lane.
+**Are BAF/EBS fixed?** No, they are fuel-linked floating surcharges alongside CAF/PSS/PCS/WRS.
+**Does this page give current rates?** No; rates move with the market and are taken from the formal quotation at booking.
 
 ## Sources & Verification
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| FCL quote surcharge breakdown | NetEase | INTL | https://www.163.com/dy/article/L3DE4MEL0556E2ZO.html | 2026-09-04 | CROSS_CHECKED | O/F, DOC, BAF family, verification method |
-| THC terminal handling charge explanation | Sina Finance shipping | INTL | https://finance.sina.com.cn/roll/2026-07-31/doc-iniksair4574469.shtml.md | 2026-09-04 | CROSS_CHECKED | THC definition |
-| Ocean export charge composition (by route) | Baike | INTL | https://m.baike.com/wiki/%E6%B5%B7%E8%BF%90%E5%87%BA%E5%8F%A3/7570444 | 2026-09-04 | SINGLE_SOURCE | DOC/SEAL/VGM, AMS/ACI/ENS |
-| Common FOB charge items (THC/booking/trucking) | 11467 industry | CN | https://m.11467.com/product/d24491409.htm | 2026-09-04 | SINGLE_SOURCE | Origin-side item framing |
-*Confidence note: RESEARCH_CONDITIONAL. Definitions cross-checked; all amounts deliberately withheld as market-moving; no landed-cost/margin inference.*
+| FCL export surcharge breakdown | NetEase | INTL | https://www.163.com/dy/article/L3DE4MEL0556E2ZO.html | 2026-09-04 | CROSS_CHECKED | O/F, THC, DOC, BAF, audit method |
+| THC definition | Sina Finance shipping | INTL | https://finance.sina.com.cn/roll/2026-07-31/doc-iniksair4574469.shtml.md | 2026-09-04 | CROSS_CHECKED | Terminal handling coverage |
+| Ocean export charge components by lane | Baike | INTL | https://m.baike.com/wiki/%E6%B5%B7%E8%BF%90%E5%87%BA%E5%8F%A3/7570444 | 2026-09-04 | CROSS_CHECKED | Surcharge taxonomy, AMS/ACI/ENS route logic |
+| Common FOB charges (THC/booking/trucking) | 11467 | CN | https://m.11467.com/product/d24491409.htm | 2026-09-04 | SINGLE_SOURCE | Charge naming |
+*Status note: FACT_SOURCE_CONDITIONAL — charge structure cross-checked from industry sources (no official tariff primary source); AMS/ACI/ENS framed as route-specific editorial guidance; all amounts deliberately excluded as time-sensitive.*
 
 ## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-04
-- **Reference market**: Origin-port + international lanes (amounts excluded; route-specific)
-- **Verification method**: Multi-source definition cross-check; numeric rates withheld rather than guessed
+- **Author**: AutoBridge Export Editorial Team · [Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
+- **Last reviewed**: 2026-09-04 · **Fact sheet version**: v1.2-2026-09-04
+- **Reference market**: International ocean freight structure (no amounts, no lane-specific tariff)
+- **Verification method**: Structure cross-checked; manifest fees route-scoped; zero fixed figures asserted
+- **Transparency**: AI_ASSISTED=true · HUMAN_REVIEWED=false · evidence.first_hand=false · PUBLISH_APPROVED=false
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=CONDITIONAL · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING · PUBLISH_APPROVED=FALSE until independent sign-off
 
-**Tags**: #FreightQuote #THC #BAF #ShippingCosts #VehicleExport
+**Tags**: #OceanFreight #FreightCharges #THC #ShippingQuote #ExportCost

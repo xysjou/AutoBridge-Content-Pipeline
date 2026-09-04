@@ -7,7 +7,7 @@
 - **H1**: GAC Trumpchi E8 PHEV: Chinese-Market Seven-Seat MPV Specs and Export Notes
 - **Primary Keyword**: gac trumpchi e8 phev specs export
 - **Secondary Search Terms**: Trumpchi E8 MPV, 传祺E8 PHEV, E8 Glory HEV difference, Trumpchi E8 7-seat, Chinese PHEV MPV export
-- **Internal Link Suggestions**: /guides/ev-battery-shipping-imdg-42-24/ ; /guides/export-vehicle-document-package/ ; /vehicles/chery-fulwin-t9/
+- **Internal Link Suggestions**: /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/export-vehicle-document-package/ ; /vehicles/chery-fulwin-t9/
 - **Image Suggestions**: E8 side profile MPV; 2+2+3 seat layout; charging port vs no-port HEV; third row; V2L outlet
 - **ALT Suggestions**: "GAC Trumpchi E8 PHEV seven-seat MPV China spec"; "Trumpchi E8 2+2+3 seating and cargo"
 
@@ -69,10 +69,11 @@ No export price is published. Chinese guide prices are **domestic, time-sensitiv
 *Confidence note: OEM page captured; platform steel ratio and V2L/V2V figures are single-source. PHEV and Glory HEV deliberately separated; Chinese-market reference only.*
 
 ## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-04
+- **Author**: AutoBridge Export Editorial Team · [Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
+- **Last reviewed**: 2026-09-04 · **Fact sheet version**: v1.1-2026-09-04
 - **Reference market**: China, E8 New Energy PHEV (Chinese-market reference; CLTC stated; Glory HEV separated; not a global spec)
 - **Verification method**: OEM config anchored; energy-type split enforced; single-source items flagged
+- **Transparency**: AI_ASSISTED=true · HUMAN_REVIEWED=false · evidence.first_hand=false · PUBLISH_APPROVED=false
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING · PUBLISH_APPROVED=FALSE until independent sign-off
 
 **Tags**: #TrumpchiE8 #PHEVMPV #SevenSeat #ChinaReferenceSpec #ExportBuyerGuide

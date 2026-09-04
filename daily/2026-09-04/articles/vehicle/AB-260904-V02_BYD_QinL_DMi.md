@@ -7,7 +7,7 @@
 - **H1**: BYD Qin L DM-i (Fifth-Generation DM): Chinese-Market PHEV Specs and Export Notes
 - **Primary Keyword**: byd qin l dm-i specs export
 - **Secondary Search Terms**: Qin L DM-i 120km, fifth generation DM, BYD Blade battery PHEV, Qin L CLTC range, 秦L DM-i export
-- **Internal Link Suggestions**: /guides/ev-battery-shipping-imdg-42-24/ ; /guides/chinese-vehicle-emission-fuel-compatibility/ ; /guides/export-vehicle-document-package/
+- **Internal Link Suggestions**: /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/emission-fuel-compatibility-china-vehicles/ ; /guides/export-vehicle-document-package/
 - **Image Suggestions**: side profile Qin L DM-i; charging port; Blade battery underfloor diagram; 120km badge; rear cabin
 - **ALT Suggestions**: "BYD Qin L DM-i fifth generation PHEV sedan"; "Qin L DM-i 15.87kWh Blade battery 120km CLTC"
 
@@ -70,10 +70,11 @@ No export price is published. The Chinese 2024 guide range (roughly RMB 99,800�
 *Confidence note: dimensions and range steps are cross-checked across two databases; engine detail, fast-charge time and the 2100 km claim are single-source/factory-claimed. No OEM overseas page captured — Chinese-market reference only.*
 
 ## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-04
+- **Author**: AutoBridge Export Editorial Team · [Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
+- **Last reviewed**: 2026-09-04 · **Fact sheet version**: v1.1-2026-09-04
 - **Reference market**: China, 2024 Qin L DM-i fifth-gen (Chinese-market reference; CLTC stated; not a global spec)
 - **Verification method**: Two-database cross-check; battery versions separated; manufacturer claims labelled
+- **Transparency**: AI_ASSISTED=true · HUMAN_REVIEWED=false · evidence.first_hand=false · PUBLISH_APPROVED=false
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING · PUBLISH_APPROVED=FALSE until independent sign-off
 
 **Tags**: #BYDQinLDMi #PHEVExport #FifthGenDM #BladeBattery #CLTCReference

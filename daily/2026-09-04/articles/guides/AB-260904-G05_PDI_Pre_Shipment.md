@@ -1,71 +1,77 @@
-# Pre-Shipment PDI and Protection for Vehicle Export: What to Do at the Yard — Without Inventing Fixed Thresholds
+# Pre-Shipment PDI and Handover for Vehicle Export: Carrier Rules vs AutoBridge's Recommended Checklist
 
 ## SEO Metadata
-- **SEO Title**: Vehicle Export PDI & Pre-Shipment Protection Guide (RoRo / Container)
-- **Meta Description**: The pre-shipment inspection and protection steps for exported vehicles — condition records, ICE vs NEV preparation, lashing principles, RoRo drive-on condition and handover documentation that supports a damage claim.
-- **Suggested URL**: /guides/vehicle-export-pdi-protection
-- **H1**: Preparing a Vehicle for Shipment: a PDI and Protection Framework for Exporters
-- **Primary Keyword**: vehicle export pdi pre-shipment protection checklist
-- **Secondary Search Terms**: RoRo vehicle condition, container car lashing, export vehicle battery disconnect, pre-shipment damage record, vehicle handover yard
-- **Internal Link Suggestions**: /guides/ev-battery-shipping-imdg-42-24/ ; /guides/vehicle-export-bill-of-lading-types/ ; /guides/export-vehicle-document-package/
-- **Image Suggestions**: PDI photo record points; four-point lashing schematic; RoRo drive-on condition; ICE vs NEV prep split
-- **ALT Suggestions**: "Vehicle pre-shipment PDI condition record and lashing"
+- **SEO Title**: Vehicle Export PDI & Pre-Shipment Handover Guide — Named Carrier Rules
+- **Meta Description**: Separate named RoRo carrier policies (Wallenius Wilhelmsen, Höegh Autoliners) — fuel, battery, SOC and operability — from AutoBridge's recommended pre-shipment inspection checklist; no universal fixed values.
+- **Suggested URL**: /guides/vehicle-export-pdi-pre-shipment-handover
+- **H1**: Preparing a Vehicle for RoRo or Container Export: What the Named Carriers Require and What We Recommend
+- **Primary Keyword**: vehicle export pre-shipment inspection PDI handover RoRo
+- **Secondary Search Terms**: Wallenius Wilhelmsen fuel quarter tank, Hoegh BEV SOC 50 percent, RoRo operable vehicle, disconnect 12V battery used car, pre-shipment photo record
+- **Internal Link Suggestions**: /guides/vehicle-export-bill-of-lading-types/ ; /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/emission-fuel-compatibility-china-vehicles/
+- **Image Suggestions**: PDI checklist sheet; RoRo self-driving ramp; named-carrier vs editorial-recommendation split diagram
+- **ALT Suggestions**: "Named RoRo carrier requirements versus recommended pre-shipment checklist"
 
-## Why PDI Exists: It Builds the Evidence a Damage Claim Needs
-Most post-arrival disputes are not about whether damage happened at sea — they are about whether anyone can prove the car was sound when it left the exporter's control. A disciplined pre-shipment PDI does two jobs at once: it prepares the vehicle for safe carriage, and it creates a time-, mileage- and photo-stamped record that anchors liability. This guide sets out the **work items and documentation principles** for the loading port. It deliberately **does not publish fixed numeric thresholds** for residual fuel, lashing breaking-strength, tyre pressure or battery state of charge: the figures circulating in freight SEO articles are not regulations, and the binding values come from the **carrier, terminal and (for NEVs) the IMDG rule set**, confirmed per voyage.
+## Two Layers That Must Not Be Merged
+Damage disputes at destination almost always trace back to one question: what was the vehicle's condition, fuel/battery state and operability **at handover**? To answer it cleanly, this guide keeps two layers separate:
+1. **Named-carrier requirements (CARRIER_SPECIFIC)** — written policies of specific RoRo carriers, here **Wallenius Wilhelmsen (WW)** and **Höegh Autoliners (Höegh)**. These are **carrier policies, not international regulations**, they are not universal across all shipping lines, and the booked carrier's written instructions always govern.
+2. **AutoBridge recommended pre-shipment checklist (EDITORIAL_RECOMMENDATION)** — an inspection/record-keeping method this guide recommends for evidence. It is **not** an industry-mandatory procedure and is not presented as one.
 
-## The PDI Record Itself
-Before any protective step, document the baseline:
-- **Exterior and paint** inspection, panel by panel, with dated photos (and video walk-around where practical), noting every existing scratch, dent or chip.
-- **Function and dashboard** check — warning lights, locks, windows, wipers, lights, brake function.
-- **On-board items** — keys (all spares), tools, charging cable (NEV), owner documents; list them.
-- **Odometer and fuel/SOC reading** recorded at handover.
-This record is only useful if it is **timestamped and shared with the party taking custody** (terminal, forwarder or stevedore).
+## Named-Carrier Policies (CARRIER_SPECIFIC — cite the carrier by name)
+| Topic | Wallenius Wilhelmsen | Höegh Autoliners | Nature |
+|---|---|---|---|
+| **Fuel / gas level** | Tank about **one-quarter full** (enough to self-drive on/off) | Tank about **one-quarter full** | Carrier policy; cross-checked for these two named lines only — not a universal rule |
+| **Used ICE battery** | For used units **without a battery kill-switch**, disconnect the 12/24V after lashing (exceptions per WW instruction) | — | WW-specific; single-source carrier rule |
+| **BEV high-voltage SOC** | — | **SOC no more than 50%**, while retaining enough charge for loading/unloading/storage; HEV: ≤¼ fuel plus SOC guidance | Höegh-specific; **not** a global SOC ceiling |
+| **Operability** | RoRo units must self-drive safely on/off (move/brake/steer); faulty or leaking units may be rejected | Same self-driving requirement | Carrier receiving rule for these two named lines |
 
-## ICE vs NEV Preparation — Different Logic
-| Aspect | Conventional (ICE) vehicle | New-energy (BEV/PHEV) |
-|---|---|---|
-| 12 V battery | On long ocean voyages the **negative terminal is commonly disconnected** to prevent drain/fire risk | Do **not** disconnect the high-voltage system |
-| Traction battery | n/a | Maintain the **state of charge required by the carrier / IMDG** — obtain the exact requirement, do not assume a universal percentage |
-| Residual fuel | Keep only enough for yard moves; the **exact level is set by the carrier/terminal**, not by a fixed rule | n/a |
-| Dangerous-goods basis | Fuel tank residual | Battery classification per current IMDG (see the battery-shipping guide) |
+These requirements are quoted to named carriers precisely because they **vary by line and by voyage**: a Chinese RoRo/container carrier or another line may set different levels. Never state "carriers require X" without naming the carrier and checking its current written guide.
 
-The point is direction, not a magic number: ICE cars are de-energised where safe; NEVs keep their high-voltage system in a carrier-defined state.
+## AutoBridge Recommended Pre-Shipment Checklist (editorial method, not mandatory)
+The following is **our recommended sourcing/handover method**, offered to build an evidence trail; it is not a statutory or universal carrier procedure:
+- Exterior body and paint walk-around; note every existing mark.
+- Dashboard warning-light check (MIL/ABS/SRS/TPMS) before handover.
+- Inventory of tools, spare key, charging cable and onboard accessories.
+- Record odometer reading and fuel/SOC level at handover.
+- **Photo record**: dated photos carrying mileage and condition, kept for destination damage comparison.
+- **Joint handover record**: inspect the vehicle together with the terminal and sign a handover sheet, retaining a copy.
 
-## Container Stowage: Lashing Principles
-For a vehicle loaded into a container, the consistent practice is **multi-point tie-down**, anti-slip material under the tyres, and a defined vehicle orientation relative to the direction of travel. What this guide will **not** do is print a specific "minimum breaking strength in tonnes" as though it were a legal standard — that value belongs to the carrier's/CTU code's lashing requirement for the actual vehicle weight and lashing angle. Specify lashing to the **operative carrier/terminal rule for that booking**, and photograph the secured state before the doors are sealed (record the seal number).
+## Items to Confirm With Carrier or OEM (no fixed values asserted)
+Lashing point count, strap breaking strength, anti-slip mats, vehicle heading/orientation in the container, tyre-pressure adjustment and any uniform SOC figure: the batch obtained **no OEM transport-mode manual or formal carrier/terminal guide** establishing fixed values, so these are presented only as **items to confirm with the booked carrier / OEM transport-mode manual**. No fixed percentage, strap rating or orientation is stated as a standard.
 
-## RoRo: the Drive-On/Drive-Off Condition
-A RoRo vessel moves vehicles under their own power, so a unit must be able to **safely drive on and off — move, brake and steer**. A non-running, braking-defective or steering-defective vehicle may be refused or attract special handling. At handover, conduct the joint inspection **with the terminal**, note condition on the **handover/receipt document**, and have both sides sign — an unsigned internal checklist carries little weight against a carrier.
-
-## Turning the Record Into Claims Evidence
-- Same reference identifier (VIN/booking) on photos, checklist and handover note.
-- Time, odometer and fuel/SOC readings captured at both export handover and, where possible, destination receipt.
-- Any pre-existing damage marked before signing; never sign a "received in good order" note you have not verified.
+## The Handover Sequence We Recommend
+1. Run the editorial PDI and capture dated photos (recommendation).
+2. Set fuel/SOC to the **booked named carrier's** written level (WW/Höegh as above; otherwise obtain that carrier's guide).
+3. Confirm operability (move/brake/steer) and resolve leaks/warning lights.
+4. At the terminal, do the joint inspection and sign the handover record (recommendation).
+5. File photos + handover sheet with the B/L so any destination claim has a baseline.
 
 ## Boundaries of This Guide
-- Residual-fuel percentage, lashing breaking-strength figures, fixed tyre-pressure offsets and fixed SOC percentages are **not stated**; freight-blog values are not standards and must be replaced by the carrier/terminal/IMDG requirement for the voyage.
-- These preparation practices are operational, not statutory mandates.
+- WW/Höegh items are **CARRIER_SPECIFIC**, never generalized to "all carriers" or to regulation.
+- The checklist is **editorial recommendation**, not a mandatory industry procedure.
+- Fixed lashing/pressure/orientation/SOC numbers beyond the named carriers are **blocked pending OEM/carrier primary documents**.
 
 ## Frequently Asked Questions
-**How much fuel should be left in an exported car?** Only enough for yard movement; the precise level is set by the carrier/terminal for that voyage — there is no single universal percentage to rely on.
-**Do I disconnect an EV's battery before shipping?** Not the high-voltage battery; keep the traction battery at the carrier/IMDG-required state of charge. A 12 V auxiliary battery may follow different guidance.
-**What makes a damage claim succeed?** A dated, VIN-linked photo/mileage record and a jointly signed handover note showing sound condition at export custody transfer.
-**What condition must a RoRo vehicle meet?** It must be able to safely drive, brake and steer on and off the vessel.
+**Is a quarter tank a legal requirement?** No — it is a written policy of named RoRo carriers such as Wallenius Wilhelmsen and Höegh; follow the booked carrier's instruction.
+**Must every EV ship at 50% SOC?** That figure is a Höegh Autoliners policy, not a universal cap; confirm the booked carrier's SOC requirement voyage by voyage.
+**Is the photo/handover record mandatory?** It is AutoBridge's recommended evidence method, not a statutory requirement — but it materially strengthens a destination damage claim.
+**Who decides lashing points and strap ratings?** The carrier/terminal and the OEM transport-mode manual; do not assume fixed values without their documents.
 
 ## Sources & Verification
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Vehicle export booking/container loading: pre-load check and securing | 11467 industry | CN | https://m.11467.com/product/d39473622.htm | 2026-09-04 | SINGLE_SOURCE | PDI items, ICE disconnect, lashing direction |
-| RoRo export practice and third-party inspection | 11467 industry | CN | https://m.11467.com/product/d55278360.htm | 2026-09-04 | SINGLE_SOURCE | RoRo drive-on condition, joint handover |
-| Car container securing and tyre practice | 11467 industry | CN | https://m.11467.com/product/d38437434.htm | 2026-09-04 | SINGLE_SOURCE | Multi-point tie-down principle |
-*Confidence note: RESEARCH_CONDITIONAL. All numeric thresholds from freight SEO are treated as blocked and replaced by carrier/terminal/IMDG-defined values; work items and documentation principles retained.*
+| WW Cargo Handling Instructions (fuel ≤¼) | Wallenius Wilhelmsen (RoRo carrier) | INTL | https://cargohandlinginstruction.walleniuswilhelmsen.com/pdf-files/WW-CHI-250731-1.31.pdf | 2026-09-04 | CROSS_CHECKED (primary carrier) | Fuel level, operability |
+| WW Receiving of used units (disconnect 12/24V without kill-switch) | Wallenius Wilhelmsen | INTL | https://cargohandlinginstruction.walleniuswilhelmsen.com/terminal/receiving-of-used-units-draft | 2026-09-04 | SINGLE_SOURCE (primary carrier) | Used-ICE battery disconnect |
+| Höegh Automotive shipping (≤¼ fuel; BEV SOC; operability) | Höegh Autoliners | INTL | https://www.hoeghautoliners.com/what-we-ship/automotive | 2026-09-04 | SINGLE_SOURCE (primary carrier) | BEV ≤50% SOC, fuel, operability |
+| Höegh Trucks/Buses/Trailers shipping | Höegh Autoliners | INTL | https://www.hoeghautoliners.com/what-we-ship/trucks-buses-and-trailers-shipping | 2026-09-04 | SINGLE_SOURCE (primary carrier) | Commercial-unit receiving |
+| Pre-shipment inspection & handover practice | 11467 industry pages | CN | https://m.11467.com/product/d55278360.htm | 2026-09-04 | SINGLE_SOURCE (editorial basis) | Recommended checklist/photo/handover |
+*Status note: FACT_SOURCE_CONDITIONAL — named-carrier policies verified to WW/Höegh primary guides (carrier policy, not regulation, not universal); checklist is editorial recommendation; fixed lashing/pressure/orientation values blocked pending OEM/carrier documents.*
 
 ## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-04
-- **Reference market**: China loading port / ocean carriage (carrier-specific values excluded)
-- **Verification method**: Practice synthesis; unverified numeric thresholds withheld rather than stated as standards
+- **Author**: AutoBridge Export Editorial Team · [Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
+- **Last reviewed**: 2026-09-04 · **Fact sheet version**: v1.2-2026-09-04
+- **Reference market**: International RoRo/container export (named-carrier policies) + editorial checklist
+- **Verification method**: Named-carrier primary guides separated from editorial recommendation; no universal fixed values
+- **Transparency**: AI_ASSISTED=true · HUMAN_REVIEWED=false · evidence.first_hand=false · PUBLISH_APPROVED=false
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=CONDITIONAL · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING · PUBLISH_APPROVED=FALSE until independent sign-off
 
-**Tags**: #PDI #PreShipment #RoRo #VehicleLashing #ExportProtection
+**Tags**: #PDI #PreShipment #RoRo #CarrierRules #VehicleExport

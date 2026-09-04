@@ -7,7 +7,7 @@
 - **H1**: Dongfeng Tianlong KL Heavy Tractor Head: Chinese-Market Powertrain and Chassis Specs
 - **Primary Keyword**: dongfeng tianlong kl tractor specs export
 - **Secondary Search Terms**: Tianlong KL 465, DDi11E465, Dongfeng 14-speed gearbox, Chinese 6x4 tractor head, 40t GCW truck export
-- **Internal Link Suggestions**: /guides/vehicle-export-hs-code-classification/ ; /guides/chinese-vehicle-emission-fuel-compatibility/ ; /vehicles/jmc-shunda/
+- **Internal Link Suggestions**: /guides/vehicle-export-hs-code-classification/ ; /guides/emission-fuel-compatibility-china-vehicles/ ; /vehicles/jmc-shunda/
 - **Image Suggestions**: KL tractor head 6x4; DDi11 engine; 14-speed shifter/AMT; cab interior; chassis frame and fifth wheel
 - **ALT Suggestions**: "Dongfeng Tianlong KL 465 heavy tractor head"; "Tianlong KL DDi11 2240Nm 14-speed GCW 40t"
 
@@ -62,10 +62,11 @@ No export price is published. Enquire with **Destination Country · Quantity · 
 *Confidence note: no OEM primary brochure; trade cross-checks. Rated/net power both labelled; other power and gas versions excluded. Chinese-market reference; confirm on MIIT announcement.*
 
 ## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-04
+- **Author**: AutoBridge Export Editorial Team · [Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
+- **Last reviewed**: 2026-09-04 · **Fact sheet version**: v1.1-2026-09-04
 - **Reference market**: China, Tianlong KL DDi11E465-60 tractor (Chinese-market reference; rated/net labelled; not a global spec)
 - **Verification method**: Trade-database cross-check; power bases disambiguated; variant line-up separated
+- **Transparency**: AI_ASSISTED=true · HUMAN_REVIEWED=false · evidence.first_hand=false · PUBLISH_APPROVED=false
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING · PUBLISH_APPROVED=FALSE until independent sign-off
 
 **Tags**: #DongfengTianlongKL #HeavyTractor #GCW40t #DDi11 #CommercialVehicleExport

@@ -1,70 +1,78 @@
-# MBL, HBL, Telex Release or Sea Waybill? Choosing the Release Method for a Vehicle Shipment
+# MBL, HBL, Telex Release or Sea Waybill? Choosing a Vehicle's Release Method Under the 2025 Maritime Code
 
 ## SEO Metadata
-- **SEO Title**: Vehicle Export Bill of Lading Guide — MBL vs HBL vs Telex vs SWB
-- **Meta Description**: How master bills, house bills, telex release and sea waybills differ, when each release method costs the shipper control of cargo, and how to match the B/L to payment terms for RoRo/container vehicle shipments.
+- **SEO Title**: Vehicle Export Bill of Lading Guide — MBL/HBL/Telex/SWB + Maritime Code Arts. 80/81/87
+- **Meta Description**: How master bills, house bills, telex release and sea waybills differ, the transferability/delivery rules in China's revised Maritime Code (in force 2026-05-01, Arts. 80/81/87), and matching release method to payment terms.
 - **Suggested URL**: /guides/vehicle-export-bill-of-lading-types
-- **H1**: Picking a Bill-of-Lading Release Method for an Exported Vehicle — and Where Cargo Control Is Lost
+- **H1**: Picking a Bill-of-Lading Release Method for an Exported Vehicle — Business Practice Anchored in the Revised Maritime Code
 - **Primary Keyword**: vehicle export bill of lading mbl hbl telex release seawaybill
-- **Secondary Search Terms**: master bill vs house bill, telex release risk, sea waybill non-negotiable, NVOCC HBL, RoRo bill of lading, T/T L/C release method
-- **Internal Link Suggestions**: /guides/vehicle-export-shipping-charge-structure/ ; /guides/vehicle-export-pdi-protection/ ; /guides/export-vehicle-document-package/
-- **Image Suggestions**: four release-method comparison table; cargo-control timeline vs payment; MBL/HBL chain diagram
-- **ALT Suggestions**: "MBL HBL telex release sea waybill cargo control comparison"
+- **Secondary Search Terms**: Maritime Code 2025 revision, article 80 bill of lading transfer, article 81 other transport document, article 87 delivery, NVOCC HBL, order bill telex
+- **Internal Link Suggestions**: /guides/ocean-freight-charge-structure-vehicle-export/ ; /guides/vehicle-export-pdi-pre-shipment-handover/ ; /guides/export-vehicle-document-package/
+- **Image Suggestions**: four-method comparison; negotiability ladder vs payment; MBL/HBL chain; Arts.80/81/87 delivery flow
+- **ALT Suggestions**: "MBL HBL telex sea waybill negotiability under revised Maritime Code"
 
 ## The Procurement Problem Is Cargo Control, Not Paperwork
-Exporters treat the bill-of-lading choice as a documentation detail. It is really a **payment-risk decision**: the moment you switch from an original negotiable B/L to telex release or a sea waybill, you change when (and whether) you still control the vehicle at the destination. This guide compares the four release methods used in vehicle RoRo and container shipping and matches them to payment terms. It reflects **consistent industry practice across multiple freight sources**; it does **not** quote statutory maritime-code provisions (the primary text was not captured for this batch), and carrier/port-specific telex rules and fees must be confirmed voyage by voyage.
+Exporters treat the bill-of-lading choice as documentation. It is a **payment-risk decision**: the moment you move from an original negotiable bill to telex release or a sea waybill, you change when you stop controlling the vehicle at destination. This guide pairs the four instruments' business behaviour with the **current Chinese statutory backbone** — the *Maritime Code of the PRC*, **revised on 2025-10-28 by the 18th session of the 14th NPC Standing Committee (Presidential Order No.58), in force from 2026-05-01 (16 chapters, 310 articles)** — and then matches method to payment terms. Carrier/port-specific telex rules and fees remain voyage-specific and are not stated as fixed values.
 
 ## The Four Instruments Side by Side
 | Method | Who issues | How the consignee takes delivery | Shipper holds a paper document of title? |
 |---|---|---|---|
-| **Master B/L (MBL)** | Shipping line / its agent | Consignee surrenders original MBL (or follows line procedure) | Yes — carries contract-of-carriage and document-of-title function |
-| **House B/L (HBL)** | NVOCC / freight forwarder | HBL consignee exchanges the HBL for the MBL via the forwarder's destination agent | Yes, at HBL level — but an extra party sits in the chain |
-| **Telex Release** | Carrier, after shipper returns/does not issue originals | Electronic instruction to release; consignee collects on a copy + identity | **No** — shipper no longer holds paper title once released |
-| **Sea Waybill (SWB)** | Carrier | Named consignee collects on proof of identity; non-negotiable | **No** — not a document of title, not transferable; no per-shipment telex guarantee needed |
+| **Master B/L (MBL)** | Shipping line / its agent | Surrender original MBL (or follow line procedure) | Yes — contract of carriage + document-of-title function |
+| **House B/L (HBL)** | NVOCC / freight forwarder | HBL consignee exchanges HBL for MBL via the forwarder's destination agent | Yes at HBL level, with an extra party in the chain |
+| **Telex Release** | Carrier after shipper returns/forgoes originals | Electronic release instruction; collect on a copy + identity | **No** — paper title is given up at release |
+| **Sea Waybill (SWB)** | Carrier | Named consignee collects on proof of identity; non-negotiable | **No** — not a document of title, not transferable |
 
-## Where the Risk Actually Sits
-- **Before full payment, telex release and SWB both hand release forward early.** With no negotiable original in hand, the shipper's leverage over an unpaid buyer is largely gone. Match these methods to **pre-paid T/T** or a fully secured position, not to open-account or uncertain collection.
-- **Order/to-order ("blank") bills generally cannot be telex-released** — the negotiable structure is what gives the shipper (or bank) control; releasing it electronically defeats that structure.
-- **HBL adds a chain dependency**: your buyer cannot collect until the forwarder's overseas agent has converted HBL to MBL. A weak or unknown overseas agent is an operational and credit risk worth checking before choosing NVOCC paper.
-- **Acceptance varies by port and country.** Some South American destinations are reported not to accept telex release; treat port/country acceptance as something to **confirm with the carrier and destination agent per shipment**, never assumed.
+## The Statutory Backbone: Transferability, Other Documents, Delivery
+The revised Maritime Code supplies the legal architecture behind those business differences:
+- **Article 80 — transfer of bills of lading**: a **straight (named) B/L is not transferable**; an **order B/L** transfers by **special endorsement or blank endorsement**; a **bearer B/L** transfers **without endorsement**. This is why "to-order/blank" bills are the instrument that preserves control — and why they generally cannot simply be telex-released away.
+- **Article 81 — other transport documents**: a document other than a B/L that the carrier issues to evidence receipt of goods for carriage is **prima facie evidence both of the contract of carriage by sea and of the carrier's receipt** of the listed goods. This frames **non-title documents such as a sea waybill**: they evidence receipt and contract but do not carry a B/L's negotiable document-of-title function.
+- **Article 87 — delivery rules**: under a **straight B/L**, delivery is to the **named consignee**; under an **order B/L**, to the **endorsee**; under a **bearer or blank-endorsed order B/L**, to the **holder**; a **transferable electronic transport record** is delivered to its **holder**. These rules determine exactly who is entitled to collect the vehicle.
 
-## Matching Release Method to Payment Terms
-- **T/T in advance / fully pre-paid**: telex or SWB is workable because cargo-control leverage is no longer needed; originals can be skipped to speed collection.
-- **L/C**: follow the credit's document requirements exactly — an L/C typically demands a negotiable B/L consigned/endorsed as stated; substituting SWB can create a discrepancy.
-- **Balance against B/L, or open account**: keep original negotiable MBL control until payment conditions are met; do not telex-release an unpaid vehicle.
-- **RoRo vs container**: both normally release the vehicle against the ocean B/L; RoRo lines often have fixed release procedures — confirm the line's requirement before choosing the instrument.
+## Where the Risk Sits in Practice
+- **Before full payment, telex release and SWB both hand release forward early**, because no negotiable original remains in the shipper's hands (the Article 80/81 distinction explains why). Match them to **pre-paid T/T** or a fully secured position.
+- **Order/to-order bills generally cannot be telex-released** — their negotiability (Art.80) is the control mechanism.
+- **HBL adds a chain dependency**: the buyer cannot collect until the NVOCC's overseas agent converts HBL to MBL; check that agent before choosing house paper.
+- **Port/country acceptance varies** (some South American destinations are reported not to accept telex release) — confirm with the carrier and destination agent **per shipment**, per the Art.87 delivery route that will actually apply.
+
+## Matching Method to Payment Terms
+- **T/T in advance / fully pre-paid**: telex or SWB is workable; control leverage is no longer needed.
+- **L/C**: follow the credit exactly — it typically demands a negotiable B/L consigned/endorsed as stated; substituting SWB creates a discrepancy.
+- **Balance against B/L / open account**: keep the original negotiable MBL (Art.80 order/bearer control) until payment conditions are met; never telex-release an unpaid vehicle.
+- **RoRo vs container**: both release against the ocean B/L; confirm the line's procedure and the Art.87 consignee route before choosing the instrument.
 
 ## Questions to Put to the Forwarder Before Booking
-1. Who is the MBL carrier, and (if HBL) who is the NVOCC and its destination agent?
-2. Does the destination port/consignee accept telex release for this country?
-3. What consignee wording is proposed, and is the bill negotiable or straight?
+1. Who is the MBL carrier, and (if HBL) the NVOCC and its destination agent?
+2. Does this destination/consignee accept telex release, and which Art.87 delivery route applies?
+3. Is the consignment straight, order or bearer — and is the bill negotiable?
 4. Which release method matches the agreed T/T or L/C timeline?
-5. What are the line's release/switch fees for this voyage (quoted, not assumed)?
+5. What are the line's release/switch fees for this voyage (quoted, never assumed)?
 
 ## Boundaries of This Guide
-- Statutory B/L legal nature is **not** cited here; a formal legal citation requires the primary *Maritime Code* text (flagged for later sourcing).
-- Carrier-specific telex rules and **fees are time-sensitive and voyage-specific**; none are stated as fixed numbers.
+- Carrier-specific telex rules and **fees are time-sensitive and voyage-specific**; no fixed number is stated.
+- Statutory citations use the **2025-revised Maritime Code in force 2026-05-01**; pre-revision article wording must not be treated as current.
 
 ## Frequently Asked Questions
-**What is the safest release method before payment?** Retain an original negotiable bill; avoid telex release or sea waybill until payment is secured, because both release cargo without paper title in hand.
-**Is a sea waybill the same as telex release?** Similar effect (consignee collects on identity, no original needed), but an SWB is a standing non-negotiable document and does not require a per-shipment telex guarantee.
-**Can a to-order bill be telex-released?** Generally no — order/blank bills rely on negotiability for control.
-**Does every port accept telex release?** No; some destinations (reported in parts of South America) do not — confirm with the carrier per shipment.
+**Which Maritime Code articles govern B/L transfer and delivery?** Art.80 (transfer: straight/order/bearer), Art.81 (other transport documents such as SWB) and Art.87 (delivery to named consignee/endorsee/holder).
+**Safest release method before payment?** Retain an original negotiable (order/bearer) B/L; avoid telex/SWB until payment is secured.
+**Is a sea waybill a document of title?** No — under the Art.81 framing it evidences contract and receipt but is non-negotiable; the named consignee collects on identity.
+**Can an order bill be telex-released?** Generally no; its Art.80 negotiability is the control mechanism.
 
 ## Sources & Verification
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
+| Maritime Code of the PRC (2025 revision, Presidential Order 58, in force 2026-05-01) full text | NPC Standing Committee (npc.gov.cn) | CN | http://www.npc.gov.cn/c2/c30834/202510/t20251028_449061.html | 2026-09-04 | VERIFIED (primary) | Arts.80/81/87, version and effective date |
 | Original B/L / telex / Sea Waybill explained | NetEase business wiki | INTL | https://www.163.com/dy/article/L0J4JN3F0556HN78.html | 2026-09-04 | CROSS_CHECKED | MBL/SWB/telex definitions |
 | Master bill vs house bill | Sina Finance | INTL | https://finance.sina.com.cn/roll/2026-08-15/doc-ininkrwq1888009.shtml | 2026-09-04 | CROSS_CHECKED | MBL/HBL chain, vehicle practice |
-| Release methods and B/L types (MBL/SWB/HBL/telex) | 11467 industry knowledge | INTL | https://m.11467.com/product/d15253354.htm | 2026-09-04 | CROSS_CHECKED | Four-method comparison |
+| Release methods and B/L types | 11467 industry knowledge | INTL | https://m.11467.com/product/d15253354.htm | 2026-09-04 | CROSS_CHECKED | Four-method comparison |
 | Four release methods and telex risk (South America note) | NetEase | INTL | https://www.163.com/dy/article/K17GLBOG0556820S.html | 2026-09-04 | SINGLE_SOURCE | Order-bill limit, port acceptance |
-*Confidence note: RESEARCH_CONDITIONAL. Definitions cross-checked across independent freight sources; no statutory primary text captured (legal nature not cited); port acceptance and fees to be confirmed per voyage.*
+*Confidence note: statutory backbone VERIFIED via the NPC full text of the 2025 revision (in force 2026-05-01); business definitions cross-checked; carrier fees/port acceptance remain voyage-specific.*
 
 ## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-04
-- **Reference market**: International ocean freight practice (no single jurisdiction statute cited)
-- **Verification method**: Multi-source cross-check of definitions; statutory and carrier-specific items explicitly bounded
-- **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=CONDITIONAL · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING · PUBLISH_APPROVED=FALSE until independent sign-off
+- **Author**: AutoBridge Export Editorial Team · [Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
+- **Last reviewed**: 2026-09-04 · **Fact sheet version**: v1.1-2026-09-04
+- **Reference market**: Chinese statute + international ocean freight practice (carrier-specific values excluded)
+- **Verification method**: Primary NPC statute for legal rules; multi-source cross-check for business practice
+- **Transparency**: AI_ASSISTED=true · HUMAN_REVIEWED=false · evidence.first_hand=false · PUBLISH_APPROVED=false
+- **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING · PUBLISH_APPROVED=FALSE until independent sign-off
 
-**Tags**: #BillOfLading #TelexRelease #SeaWaybill #ExportRisk #VehicleShipping
+**Tags**: #BillOfLading #MaritimeCode #TelexRelease #SeaWaybill #ExportRisk

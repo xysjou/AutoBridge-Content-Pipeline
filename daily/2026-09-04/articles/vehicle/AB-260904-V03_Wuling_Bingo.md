@@ -7,7 +7,7 @@
 - **H1**: Wuling Bingo: Chinese-Market Small EV Specs and Export Verification
 - **Primary Keyword**: wuling bingo ev specs export
 - **Secondary Search Terms**: Wuling Bingo 203km, Wuling Bingo 333km, Wuling Bingo 410km, Chinese small EV export, 五菱缤果 specs
-- **Internal Link Suggestions**: /guides/ev-battery-shipping-imdg-42-24/ ; /guides/vehicle-export-pdi-protection/ ; /vehicles/byd-qin-l-dm-i/
+- **Internal Link Suggestions**: /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/vehicle-export-pdi-pre-shipment-handover/ ; /vehicles/byd-qin-l-dm-i/
 - **Image Suggestions**: five-door Bingo side; 203 vs 333/410 badge; rear cargo with seats folded; charge port; four-seat cabin
 - **ALT Suggestions**: "Wuling Bingo small electric hatchback China spec"; "Wuling Bingo CLTC range 203 333 410 km"
 
@@ -65,10 +65,11 @@ No static export price. The Chinese 2024 starting guide price (around RMB 56,800
 *Confidence note: entry battery/power cross-checked; motor torque, cargo volume, seat count and charge minutes are single-source and flagged. No OEM overseas page — Chinese-market reference only.*
 
 ## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-04
+- **Author**: AutoBridge Export Editorial Team · [Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
+- **Last reviewed**: 2026-09-04 · **Fact sheet version**: v1.1-2026-09-04
 - **Reference market**: China, 2024 Wuling Bingo (Chinese-market reference; CLTC stated; not a global spec)
 - **Verification method**: Multi-database cross-check; per-trim motor/range separated; single-source items flagged
+- **Transparency**: AI_ASSISTED=true · HUMAN_REVIEWED=false · evidence.first_hand=false · PUBLISH_APPROVED=false
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING · PUBLISH_APPROVED=FALSE until independent sign-off
 
 **Tags**: #WulingBingo #SmallEVExport #CLTCRange #LFPBattery #ChinaReferenceSpec

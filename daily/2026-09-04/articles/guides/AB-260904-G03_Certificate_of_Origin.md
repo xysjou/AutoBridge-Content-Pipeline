@@ -54,10 +54,11 @@ The two authorized issuing channels are **China Customs** and **CCPIT (China Cou
 *Scope note: China issuing side only; specific FTA rules and destination preference decisions are out of scope and per-agreement/per-country.*
 
 ## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-04
+- **Author**: AutoBridge Export Editorial Team · [Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
+- **Last reviewed**: 2026-09-04 · **Fact sheet version**: v1.1-2026-09-04
 - **Reference market**: China export-side certificate issuing (destination preference excluded)
 - **Verification method**: Two official GACC PDFs + CCPIT; per-FTA detail deliberately not generalized
+- **Transparency**: AI_ASSISTED=true · HUMAN_REVIEWED=false · evidence.first_hand=false · PUBLISH_APPROVED=false
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING · PUBLISH_APPROVED=FALSE until independent sign-off
 
 **Tags**: #CertificateOfOrigin #CCPIT #Customs #FTA #ExportDocuments

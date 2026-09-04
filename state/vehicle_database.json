@@ -434,7 +434,7 @@
       "article_id": "AB-260904-V04",
       "model_key": "GWM_HAVAL_JOLION",
       "batch": "daily_20260904",
-      "version": "v1"
+      "version": "v2"
     },
     {
       "article_id": "AB-260904-V05",
@@ -452,7 +452,7 @@
       "article_id": "AB-260904-V07",
       "model_key": "JAC_T9_HUNTER",
       "batch": "daily_20260904",
-      "version": "v1"
+      "version": "v2"
     },
     {
       "article_id": "AB-260904-V08",
@@ -474,5 +474,6 @@
     }
   ],
   "r4_revised_on": "2026-09-03",
-  "stage2_added_on": "2026-09-04"
+  "stage2_added_on": "2026-09-04",
+  "rebase_revised_on": "2026-09-04"
 }
