@@ -1,0 +1,370 @@
+{
+  "status": "PASS",
+  "issues": [],
+  "documents": 25,
+  "docx_container_checks": "25/25",
+  "zip_entries": 30,
+  "pre_validation_zip_sha256": "b1e08091619f7423103599599996a2c03354dab402222a4f639056e563e4ec5a",
+  "english_title_over_60": 0,
+  "english_meta_over_160": 0,
+  "english_h1_over_60": 0,
+  "ja_average_before": 948.0,
+  "ja_average_after": 1584.6,
+  "ko_average_before": 1118.4,
+  "ko_average_after": 1880.4,
+  "duplicate_english_heading_sequences": 0,
+  "top_english_5gram_similarity": [
+    {
+      "left": "AB50_024_Guide_battery_warranty_southeast_asia",
+      "right": "AB50_040_Guide_photo_vin_review_southeast_asia",
+      "score": 0.3048
+    },
+    {
+      "left": "AB50_004_Vehicle_2026_Kia_Sorento",
+      "right": "AB50_020_Vehicle_Peugeot_3008_E_3008",
+      "score": 0.2442
+    },
+    {
+      "left": "AB50_040_Guide_photo_vin_review_southeast_asia",
+      "right": "AB50_048_Guide_roro_container_shipping_southeast_asia",
+      "score": 0.2351
+    },
+    {
+      "left": "AB50_041_Guide_pickup_export_africa",
+      "right": "AB50_049_Guide_seven_seat_suv_africa",
+      "score": 0.2256
+    },
+    {
+      "left": "AB50_042_Guide_pickup_export_latin_america",
+      "right": "AB50_050_Guide_seven_seat_suv_latin_america",
+      "score": 0.2248
+    },
+    {
+      "left": "AB50_038_Guide_photo_vin_review_latin_america",
+      "right": "AB50_046_Guide_roro_container_shipping_latin_america",
+      "score": 0.2203
+    },
+    {
+      "left": "AB50_024_Guide_battery_warranty_southeast_asia",
+      "right": "AB50_048_Guide_roro_container_shipping_southeast_asia",
+      "score": 0.2189
+    },
+    {
+      "left": "AB50_038_Guide_photo_vin_review_latin_america",
+      "right": "AB50_050_Guide_seven_seat_suv_latin_america",
+      "score": 0.2045
+    },
+    {
+      "left": "AB50_038_Guide_photo_vin_review_latin_america",
+      "right": "AB50_040_Guide_photo_vin_review_southeast_asia",
+      "score": 0.1915
+    },
+    {
+      "left": "AB50_031_Guide_mpv_procurement_latin_america",
+      "right": "AB50_033_Guide_mpv_procurement_southeast_asia",
+      "score": 0.1815
+    }
+  ],
+  "rows": [
+    {
+      "article_id": "AB50_001_Vehicle_GAC_AION_Y_Plus",
+      "en_title_chars": 50,
+      "en_meta_chars": 152,
+      "en_h1_chars": 42,
+      "ja_chars_before": 1055,
+      "ja_chars_after": 1699,
+      "ko_chars_before": 1241,
+      "ko_chars_after": 2006,
+      "related_links_per_locale": 2,
+      "docx_sha256": "8fff9716de1106ab10032644a99e0386699d3acdb18d61a93e7922a73f99e40d"
+    },
+    {
+      "article_id": "AB50_003_Vehicle_2026_GMC_Sierra_1500",
+      "en_title_chars": 56,
+      "en_meta_chars": 157,
+      "en_h1_chars": 43,
+      "ja_chars_before": 1061,
+      "ja_chars_after": 1689,
+      "ko_chars_before": 1247,
+      "ko_chars_after": 1987,
+      "related_links_per_locale": 2,
+      "docx_sha256": "87d2b9eb4b7a77a2c7a5a2394513c087ff8101c12657c822a575514bd1d11907"
+    },
+    {
+      "article_id": "AB50_004_Vehicle_2026_Kia_Sorento",
+      "en_title_chars": 42,
+      "en_meta_chars": 153,
+      "en_h1_chars": 44,
+      "ja_chars_before": 1073,
+      "ja_chars_after": 1698,
+      "ko_chars_before": 1259,
+      "ko_chars_after": 2004,
+      "related_links_per_locale": 2,
+      "docx_sha256": "f054dcac73e6d9f2c8f4052208eb17004389940205bdbe1797ac957bafa81ff0"
+    },
+    {
+      "article_id": "AB50_007_Vehicle_2026_Lexus_NX",
+      "en_title_chars": 36,
+      "en_meta_chars": 150,
+      "en_h1_chars": 41,
+      "ja_chars_before": 1007,
+      "ja_chars_after": 1653,
+      "ko_chars_before": 1193,
+      "ko_chars_after": 1957,
+      "related_links_per_locale": 2,
+      "docx_sha256": "630032f8b70a6ba32548388e1fec6a5df8c6ecacefcc86fa3fc9a84592f1108e"
+    },
+    {
+      "article_id": "AB50_010_Vehicle_2026_Mazda_CX_5",
+      "en_title_chars": 49,
+      "en_meta_chars": 152,
+      "en_h1_chars": 40,
+      "ja_chars_before": 1026,
+      "ja_chars_after": 1658,
+      "ko_chars_before": 1212,
+      "ko_chars_after": 1972,
+      "related_links_per_locale": 2,
+      "docx_sha256": "8e87bb44746a7e1f81a3724930b0738ae6605d00687092562347b10718b625f1"
+    },
+    {
+      "article_id": "AB50_011_Vehicle_2026_Mercedes_Benz_C_Class",
+      "en_title_chars": 56,
+      "en_meta_chars": 147,
+      "en_h1_chars": 44,
+      "ja_chars_before": 1076,
+      "ja_chars_after": 1719,
+      "ko_chars_before": 1262,
+      "ko_chars_after": 2019,
+      "related_links_per_locale": 2,
+      "docx_sha256": "4b8885b9029013ebd8565d8e2630e2f6bfe64f47e4abaf251d9edb04df7cc4b7"
+    },
+    {
+      "article_id": "AB50_014_Vehicle_MG_ZS",
+      "en_title_chars": 32,
+      "en_meta_chars": 142,
+      "en_h1_chars": 50,
+      "ja_chars_before": 995,
+      "ja_chars_after": 1624,
+      "ko_chars_before": 1181,
+      "ko_chars_after": 1933,
+      "related_links_per_locale": 2,
+      "docx_sha256": "218a5f85da5d0624fcbdc133502d474365a3355065a2d6fbe7bc9dd11a96c435"
+    },
+    {
+      "article_id": "AB50_016_Vehicle_Nissan_Qashqai",
+      "en_title_chars": 46,
+      "en_meta_chars": 151,
+      "en_h1_chars": 46,
+      "ja_chars_before": 1069,
+      "ja_chars_after": 1723,
+      "ko_chars_before": 1255,
+      "ko_chars_after": 2027,
+      "related_links_per_locale": 2,
+      "docx_sha256": "58a0aba7aabb021adc925e83c844c23f514804d1afd7f5e20e9bf3801238a6da"
+    },
+    {
+      "article_id": "AB50_020_Vehicle_Peugeot_3008_E_3008",
+      "en_title_chars": 52,
+      "en_meta_chars": 158,
+      "en_h1_chars": 43,
+      "ja_chars_before": 1079,
+      "ja_chars_after": 1728,
+      "ko_chars_before": 1267,
+      "ko_chars_after": 2038,
+      "related_links_per_locale": 2,
+      "docx_sha256": "4ace2cb734075cc1278948579eaf9b839917e5d0e900c3aafe44c60b56d3787d"
+    },
+    {
+      "article_id": "AB50_024_Guide_battery_warranty_southeast_asia",
+      "en_title_chars": 51,
+      "en_meta_chars": 147,
+      "en_h1_chars": 40,
+      "ja_chars_before": 894,
+      "ja_chars_after": 1549,
+      "ko_chars_before": 1055,
+      "ko_chars_after": 1844,
+      "related_links_per_locale": 2,
+      "docx_sha256": "09b85f99ffec2f8cd4085514cef42ff61c13d0d72c9e3bfcb16bb54ec87466ab"
+    },
+    {
+      "article_id": "AB50_031_Guide_mpv_procurement_latin_america",
+      "en_title_chars": 42,
+      "en_meta_chars": 135,
+      "en_h1_chars": 46,
+      "ja_chars_before": 896,
+      "ja_chars_after": 1532,
+      "ko_chars_before": 1056,
+      "ko_chars_after": 1827,
+      "related_links_per_locale": 2,
+      "docx_sha256": "a86336f4f78f4800d50f00b38fbd10cf821e618fbc2648c97ef08f8ceb2e26d2"
+    },
+    {
+      "article_id": "AB50_033_Guide_mpv_procurement_southeast_asia",
+      "en_title_chars": 43,
+      "en_meta_chars": 136,
+      "en_h1_chars": 47,
+      "ja_chars_before": 892,
+      "ja_chars_after": 1535,
+      "ko_chars_before": 1054,
+      "ko_chars_after": 1834,
+      "related_links_per_locale": 2,
+      "docx_sha256": "b5ac24a703078ddbc5f5afdb8c62f56224c980e57707e6806eb418d89f70fc8e"
+    },
+    {
+      "article_id": "AB50_034_Guide_new_vs_used_ev_middle_east",
+      "en_title_chars": 47,
+      "en_meta_chars": 154,
+      "en_h1_chars": 47,
+      "ja_chars_before": 890,
+      "ja_chars_after": 1522,
+      "ko_chars_before": 1051,
+      "ko_chars_after": 1804,
+      "related_links_per_locale": 2,
+      "docx_sha256": "0e9f35fbc31b7d68feb3a034539231558b070b5bfe3285cba9a8e945aa336b25"
+    },
+    {
+      "article_id": "AB50_035_Guide_new_vs_used_ev_southeast_asia",
+      "en_title_chars": 46,
+      "en_meta_chars": 157,
+      "en_h1_chars": 46,
+      "ja_chars_before": 896,
+      "ja_chars_after": 1548,
+      "ko_chars_before": 1057,
+      "ko_chars_after": 1839,
+      "related_links_per_locale": 2,
+      "docx_sha256": "bab689580da9deeffedc89bb4445033820421813830fb9902179abbc39c7f849"
+    },
+    {
+      "article_id": "AB50_036_Guide_photo_vin_review_africa",
+      "en_title_chars": 52,
+      "en_meta_chars": 136,
+      "en_h1_chars": 47,
+      "ja_chars_before": 893,
+      "ja_chars_after": 1504,
+      "ko_chars_before": 1057,
+      "ko_chars_after": 1793,
+      "related_links_per_locale": 2,
+      "docx_sha256": "f7f6e32154ec91d9b03fe79b4e8393c5f04d1f4c5fe1d978fdaaf2bc6365f578"
+    },
+    {
+      "article_id": "AB50_038_Guide_photo_vin_review_latin_america",
+      "en_title_chars": 51,
+      "en_meta_chars": 143,
+      "en_h1_chars": 54,
+      "ja_chars_before": 899,
+      "ja_chars_after": 1542,
+      "ko_chars_before": 1061,
+      "ko_chars_after": 1837,
+      "related_links_per_locale": 2,
+      "docx_sha256": "fef5be943f3d46282f7d0e911992011f361d9fa34fe1eb8586032194bb34f280"
+    },
+    {
+      "article_id": "AB50_039_Guide_photo_vin_review_middle_east",
+      "en_title_chars": 53,
+      "en_meta_chars": 145,
+      "en_h1_chars": 56,
+      "ja_chars_before": 889,
+      "ja_chars_after": 1512,
+      "ko_chars_before": 1053,
+      "ko_chars_after": 1806,
+      "related_links_per_locale": 2,
+      "docx_sha256": "44dc0ebce23c210593ed2b5e6addb03d46e4ca53c4513d7454b4ee2e12645c49"
+    },
+    {
+      "article_id": "AB50_040_Guide_photo_vin_review_southeast_asia",
+      "en_title_chars": 52,
+      "en_meta_chars": 144,
+      "en_h1_chars": 55,
+      "ja_chars_before": 895,
+      "ja_chars_after": 1535,
+      "ko_chars_before": 1059,
+      "ko_chars_after": 1834,
+      "related_links_per_locale": 2,
+      "docx_sha256": "79eab882ed4e7465749515ad02e02d07891b15bbe659a4730a55b6c61ad17120"
+    },
+    {
+      "article_id": "AB50_041_Guide_pickup_export_africa",
+      "en_title_chars": 49,
+      "en_meta_chars": 153,
+      "en_h1_chars": 38,
+      "ja_chars_before": 895,
+      "ja_chars_after": 1505,
+      "ko_chars_before": 1052,
+      "ko_chars_after": 1784,
+      "related_links_per_locale": 2,
+      "docx_sha256": "771f509edb994426e9e6a811bdfc1b862c618f5db67cdd96c0a8f4924123258b"
+    },
+    {
+      "article_id": "AB50_042_Guide_pickup_export_latin_america",
+      "en_title_chars": 56,
+      "en_meta_chars": 160,
+      "en_h1_chars": 45,
+      "ja_chars_before": 901,
+      "ja_chars_after": 1540,
+      "ko_chars_before": 1056,
+      "ko_chars_after": 1823,
+      "related_links_per_locale": 2,
+      "docx_sha256": "8e3fa9e9359b134388b4dbb88d72d7eeb83f1b6f8bf497c379812532f24fab94"
+    },
+    {
+      "article_id": "AB50_043_Guide_pickup_export_middle_east",
+      "en_title_chars": 58,
+      "en_meta_chars": 158,
+      "en_h1_chars": 47,
+      "ja_chars_before": 891,
+      "ja_chars_after": 1509,
+      "ko_chars_before": 1048,
+      "ko_chars_after": 1795,
+      "related_links_per_locale": 2,
+      "docx_sha256": "1e8adb2251a9dc4b66adb3de3f352994a788d0ca8e4dd8f3093052192a3404fd"
+    },
+    {
+      "article_id": "AB50_046_Guide_roro_container_shipping_latin_america",
+      "en_title_chars": 49,
+      "en_meta_chars": 142,
+      "en_h1_chars": 42,
+      "ja_chars_before": 900,
+      "ja_chars_after": 1547,
+      "ko_chars_before": 1062,
+      "ko_chars_after": 1833,
+      "related_links_per_locale": 2,
+      "docx_sha256": "2d5b0350d0fbf57139bbdfb044ba7c198dc72a24c65a40dcbb7b81b9c0127b15"
+    },
+    {
+      "article_id": "AB50_048_Guide_roro_container_shipping_southeast_asia",
+      "en_title_chars": 50,
+      "en_meta_chars": 143,
+      "en_h1_chars": 43,
+      "ja_chars_before": 839,
+      "ja_chars_after": 1478,
+      "ko_chars_before": 1012,
+      "ko_chars_after": 1781,
+      "related_links_per_locale": 2,
+      "docx_sha256": "91283b417259c47472048a62d0b3c69bb5cbbcc989a4c04b195b06a3d7a27c0b"
+    },
+    {
+      "article_id": "AB50_049_Guide_seven_seat_suv_africa",
+      "en_title_chars": 49,
+      "en_meta_chars": 144,
+      "en_h1_chars": 49,
+      "ja_chars_before": 892,
+      "ja_chars_after": 1521,
+      "ko_chars_before": 1053,
+      "ko_chars_after": 1804,
+      "related_links_per_locale": 2,
+      "docx_sha256": "375be6e129e406e0f175895098fa70fd6ebbd0ab6aab9ea91bff6f7400531cae"
+    },
+    {
+      "article_id": "AB50_050_Guide_seven_seat_suv_latin_america",
+      "en_title_chars": 50,
+      "en_meta_chars": 151,
+      "en_h1_chars": 56,
+      "ja_chars_before": 898,
+      "ja_chars_after": 1545,
+      "ko_chars_before": 1057,
+      "ko_chars_after": 1830,
+      "related_links_per_locale": 2,
+      "docx_sha256": "9b178c9741611584ca0af8615ed13b45b4668c87afebb6ea1fde016afeaa1db0"
+    }
+  ]
+}
