@@ -292,7 +292,10 @@
       "risk_level": "LOW",
       "writing_status": "NOT_STARTED",
       "writing_ai_ready": true,
-      "last_research_remediation": "2026-09-04"
+      "last_research_remediation": "2026-09-04",
+      "RESEARCH_LOCK": false,
+      "FACT_SHEET_VERSION": "v2-2026-09-04",
+      "UPDATE_REQUIRED": false
     },
     {
       "article_id": "AB-260903-G02",
@@ -321,7 +324,10 @@
       "risk_level": "MED",
       "writing_status": "NOT_STARTED",
       "writing_ai_ready": true,
-      "last_research_remediation": "2026-09-04"
+      "last_research_remediation": "2026-09-04",
+      "RESEARCH_LOCK": false,
+      "FACT_SHEET_VERSION": "v2-2026-09-04",
+      "UPDATE_REQUIRED": false
     },
     {
       "article_id": "AB-260903-G03",
@@ -352,7 +358,10 @@
       "risk_level": "MED",
       "writing_status": "NOT_STARTED",
       "writing_ai_ready": true,
-      "last_research_remediation": "2026-09-04"
+      "last_research_remediation": "2026-09-04",
+      "RESEARCH_LOCK": false,
+      "FACT_SHEET_VERSION": "v2-2026-09-04",
+      "UPDATE_REQUIRED": false
     },
     {
       "article_id": "AB-260903-G04",
@@ -405,7 +414,10 @@
       "risk_level": "MED",
       "writing_status": "NOT_STARTED",
       "writing_ai_ready": true,
-      "last_research_remediation": "2026-09-04"
+      "last_research_remediation": "2026-09-04",
+      "RESEARCH_LOCK": false,
+      "FACT_SHEET_VERSION": "v2-2026-09-04",
+      "UPDATE_REQUIRED": false
     },
     {
       "article_id": "AB-260903-G06",
@@ -484,7 +496,10 @@
       "risk_level": "HIGH",
       "writing_status": "NOT_STARTED",
       "writing_ai_ready": true,
-      "last_research_remediation": "2026-09-04"
+      "last_research_remediation": "2026-09-04",
+      "RESEARCH_LOCK": false,
+      "FACT_SHEET_VERSION": "v2-2026-09-04",
+      "UPDATE_REQUIRED": false
     },
     {
       "article_id": "AB-260903-G09",
@@ -538,7 +553,10 @@
       "risk_level": "MED",
       "writing_status": "NOT_STARTED",
       "writing_ai_ready": true,
-      "last_research_remediation": "2026-09-04"
+      "last_research_remediation": "2026-09-04",
+      "RESEARCH_LOCK": false,
+      "FACT_SHEET_VERSION": "v2-2026-09-04",
+      "UPDATE_REQUIRED": false
     },
     {
       "article_id": "AB-260903-VR1",

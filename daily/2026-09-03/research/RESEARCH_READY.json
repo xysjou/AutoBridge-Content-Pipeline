@@ -84,34 +84,47 @@
     "results": {
       "AB-260903-G01": {
         "status": "RESEARCH_PASS",
-        "writing_ai_ready": true
+        "writing_ai_ready": true,
+        "RESEARCH_LOCK": false,
+        "FACT_SHEET_VERSION": "v2-2026-09-04"
       },
       "AB-260903-G02": {
         "status": "RESEARCH_PASS",
-        "writing_ai_ready": true
+        "writing_ai_ready": true,
+        "RESEARCH_LOCK": false,
+        "FACT_SHEET_VERSION": "v2-2026-09-04"
       },
       "AB-260903-G03": {
         "status": "RESEARCH_PASS",
-        "writing_ai_ready": true
+        "writing_ai_ready": true,
+        "RESEARCH_LOCK": false,
+        "FACT_SHEET_VERSION": "v2-2026-09-04"
       },
       "AB-260903-G05": {
         "status": "RESEARCH_PASS",
         "writing_ai_ready": true,
-        "note": "Rebased to IMDG 42-24/UN3556; new slug; old UN3171 sheet SUPERSEDED"
+        "note": "Rebased to IMDG 42-24/UN3556; new slug; old UN3171 sheet SUPERSEDED",
+        "RESEARCH_LOCK": false,
+        "FACT_SHEET_VERSION": "v2-2026-09-04"
       },
       "AB-260903-G08": {
         "status": "RESEARCH_CONDITIONAL",
         "writing_ai_ready": true,
-        "note": "Kenya VERIFIED; Nigeria 15y per official portal but portal has steering typo & 12y media claim lacks primary; other countries hard numbers removed (accuracy>coverage)"
+        "note": "Kenya VERIFIED; Nigeria 15y per official portal but portal has steering typo & 12y media claim lacks primary; other countries hard numbers removed (accuracy>coverage)",
+        "RESEARCH_LOCK": false,
+        "FACT_SHEET_VERSION": "v2-2026-09-04"
       },
       "AB-260903-G10": {
         "status": "RESEARCH_PASS",
         "writing_ai_ready": true,
-        "note": "Art.596 VERIFIED via SPP official Civil Code; FindLaw demoted"
+        "note": "Art.596 VERIFIED via SPP official Civil Code; FindLaw demoted",
+        "RESEARCH_LOCK": false,
+        "FACT_SHEET_VERSION": "v2-2026-09-04"
       }
     },
     "handoff": "research/RESEARCH_REMEDIATION_2026-09-04.md",
     "article_body_not_rewritten": true,
-    "next_stage": "Writing AI R5 may remediate only articles with writing_ai_ready=true, bounded by FACTS_ALLOWED_IN_BODY / FACTS_NOT_ALLOWED_IN_BODY."
+    "next_stage": "Writing AI R5 may remediate only articles with writing_ai_ready=true, bounded by FACTS_ALLOWED_IN_BODY / FACTS_NOT_ALLOWED_IN_BODY.",
+    "all_locks_released": true
   }
 }

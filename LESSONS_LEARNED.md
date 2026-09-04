@@ -149,6 +149,29 @@ When an independent review says "**re-research the CURRENT batch**", writing the
 - While FAIL, **CODEX_REVIEW_PENDING=FALSE** (not Codex-eligible) and PUBLISH_APPROVED=FALSE; hold for Research correction rather than rewriting the fact from outside the Fact Sheet.
 - Authority reinforcement (writing side): industry/"official industry" **news media is not VERIFIED** (a news record is CROSS_CHECKED/SINGLE_SOURCE); **secondary legal portals (e.g. FindLaw) cap at CROSS_CHECKED/SINGLE_SOURCE** — statute text is VERIFIED only from an official NPC/government source.
 
+### LESSON: WRITING_COMPLETION_STATUS_FORMAT (binding closing block)
+*Installed by project-owner directive (2026-09-04); applies to every Writing-AI batch close.*
+A batch is never closed with a bare "done / 完成了 / 20篇完成". The ONLY permitted closing statuses are:
+- **【文章写作完成】** — permitted ONLY after articles AND QA results are written to GitHub **and successfully pushed**. It means "formal articles drafted from Research materials and writing/fact/SEO QA completed" — it does **NOT** mean Codex has reviewed or the page is live.
+- **【文章写作本地完成，等待推送】** — required when work is finished locally but not yet pushed. 【文章写作完成】is forbidden until push succeeds.
+The closing block MUST list: 日期 · 批次 · 计划文章数 · 实际完成文章数 · 编辑审核通过 · 事实来源通过 · 事实来源有条件通过 · 事实来源失败 · SEO审核通过 · 可进入Codex审核 · 等待Research AI补资料 · 需要继续修改 · PUBLISH_APPROVED (Writing AI NEVER self-approves — awaits final independent review) · 新增经验候选 · 历史错误重复数 · GitHub是否已推送 · Commit SHA.
+Any article in **FACT_SOURCE_FAIL** or **AWAITING_RESEARCH** MUST be listed by Article ID.
+
+## PART 3 — DUAL-AI PARALLEL COLLABORATION: FILE BOUNDARIES & LOCKS (installed 2026-09-04)
+Research AI and Writing AI may work concurrently, but never on the same moving fact at once.
+
+### LESSON: DUAL_AI_FILE_BOUNDARIES
+- **Research AI may write only** `daily/YYYY-MM-DD/research/` (Fact Sheets, Source Logs, Research QA, Research Handoff/Manifest). It MUST NOT touch article body text.
+- **Writing AI may write only** `daily/YYYY-MM-DD/articles/`, `daily/YYYY-MM-DD/qa/`, `deliveries/`. It MUST NOT alter facts inside a Research Fact Sheet/Source Log; if it finds a Research error it may only flag **AWAITING_RESEARCH**.
+
+### LESSON: ARTICLE_STATUS_LOCK
+- Every article carries **RESEARCH_STATUS** and **WRITING_AI_READY**. Writing AI may start ONLY when (`RESEARCH_PASS` OR `RESEARCH_CONDITIONAL`) **AND** `WRITING_AI_READY=TRUE`. `RESEARCH_FAIL` or `WRITING_AI_READY=FALSE` → Writing AI is forbidden to process it.
+- While Research remediates an article it sets **RESEARCH_LOCK=TRUE**; Writing AI must not keep writing from the old Fact Sheet — it waits for **RESEARCH_LOCK=FALSE** plus a fresh **FACT_SHEET_VERSION / RESEARCH_STATUS / WRITING_AI_READY**.
+- While Writing is working it sets **WRITING_LOCK=TRUE**; if Research then changes a core fact it MUST set **UPDATE_REQUIRED=TRUE** and signal **RESEARCH_CHANGED_AFTER_WRITING_STARTED**; Writing AI re-reads the latest Fact Sheet before finishing that article.
+
+### LESSON: SHARED_FILE_SERIALIZATION
+Shared files — **LESSONS_LEARNED.md, daily_manifest.json, RESEARCH_READY.json, final_manifest.json** — must never be edited by both AIs at once. Before each edit: **git pull**; Research AI prioritizes Research-status fields, Writing AI edits Writing-status fields only after its pull. After editing: git add → commit → push. On push rejection: **pull/rebase and recommit; force-push is prohibited.** On any fact change Research takes priority and Writing must re-read the newest Research output.
+
 ---
 ### Confidence vocabulary (binding)
 - **VERIFIED** — manufacturer OEM site, government/regulator, standards body, or formal official technical document (scope matched).
