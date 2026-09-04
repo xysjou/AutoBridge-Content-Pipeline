@@ -1,1 +1,35 @@
-{"FACT_SHEET":{"article_id":"AB-260904-G05","content_type":"PROCUREMENT_GUIDE","topic":"车辆出口装运前整备PDI与防护:断电/油量/胎压/车身防护怎么做","primary_keyword":"vehicle-export-pdi-pre-shipment-protection-checklist","search_intent":"车辆交运堆场/装船前应做哪些整备与防护以避免理赔","target_reader":"中国汽车出口商/仓储物流/堆场","target_country_region":"中国装港+海运","suggested_url":"https://www.autobridge.example/guides/vehicle-export-pdi-protection","research_verdict":"RESEARCH_CONDITIONAL","official_source_required":false,"official_source_found":false,"reference_market":"见各fact/分国别","checked_date":"2026-09-04"},"BODY_GATE":{"facts":[{"field":"pdi_scope","value":"装运前整备包含:外观与漆面检查记录、功能/仪表故障灯检查、随车工具钥匙清单、里程与油量记录、拍照留档","unit":"-","market":"CHINA","trim":"-","checked_date":"2026-09-04","confidence":"SINGLE_SOURCE","note":"","source":["汽车出口订舱装柜:装箱前检查与固定","RoRo运输出口实操与第三方检测"],"url":["https://m.11467.com/product/d39473622.htm","https://m.11467.com/product/d55278360.htm"]},{"field":"battery","value":"燃油车长途海运通常断开蓄电池负极以防止亏电/自燃风险;新能源车不断高压电,按船公司危险品SOP保持规定SOC","unit":"-","market":"CHINA","trim":"-","checked_date":"2026-09-04","confidence":"SINGLE_SOURCE","note":"具体SOC区间以船公司/IMDG要求为准(与G08联动)","source":["汽车出口订舱装柜:装箱前检查与固定"],"url":["https://m.11467.com/product/d39473622.htm"]},{"field":"fuel","value":"燃油车油箱仅保留少量燃油用于堆场移车(资料称约5%),具体留存比例以船公司/码头规定为准","unit":"-","market":"CHINA","trim":"-","checked_date":"2026-09-04","confidence":"SINGLE_SOURCE","note":"数值来自T4,标BLOCKED,须以承运人规则终核","source":["汽车出口订舱装柜:装箱前检查与固定"],"url":["https://m.11467.com/product/d39473622.htm"]},{"field":"lashing","value":"集装箱内车辆用绑扎带四点固定、轮胎下加防滑垫、车头朝向与航行方向一致;绑扎带破断强度门限以船司/加固规范为准","unit":"-","market":"CHINA","trim":"-","checked_date":"2026-09-04","confidence":"SINGLE_SOURCE","note":"'≥5吨'等具体数值来自T4,不得作为确定标准","source":["汽车出口订舱装柜:装箱前检查与固定","轿车装柜固定工艺与胎压"],"url":["https://m.11467.com/product/d39473622.htm","https://m.11467.com/product/d38437434.htm"]},{"field":"roro_condition","value":"RoRo车辆须可自行安全开上开下(可行驶、可制动、可转向),交接时与堆场共同验车并签交接单","unit":"-","market":"CHINA","trim":"-","checked_date":"2026-09-04","confidence":"SINGLE_SOURCE","note":"","source":["RoRo运输出口实操与第三方检测"],"url":["https://m.11467.com/product/d55278360.htm"]},{"field":"record","value":"整备与交接必须形成带时间/里程/车况照片的记录,作为到港损坏理赔依据","unit":"-","market":"CHINA","trim":"-","checked_date":"2026-09-04","confidence":"SINGLE_SOURCE","note":"","source":["RoRo运输出口实操与第三方检测"],"url":["https://m.11467.com/product/d55278360.htm"]}],"FACTS_ALLOWED_IN_BODY":["PDI整备项目清单/留档与交接原则/燃油车与新能源车整备差异方向"],"FACTS_NOT_ALLOWED_IN_BODY":["所有具体数值阈值(留油%、绑扎破断吨数、胎压+10%、SOC区间)均来自T4货代SEO,不得写成强制标准,须以对应船公司/码头/IMDG官方规则终核","不得把这些经验值说成法规要求"],"BLOCKED_FACTS":["所有具体数值阈值(留油%、绑扎破断吨数、胎压+10%、SOC区间)均来自T4货代SEO,不得写成强制标准,须以对应船公司/码头/IMDG官方规则终核","不得把这些经验值说成法规要求"],"TIME_SENSITIVE_FACTS":["船公司对油量/SOC/加固的具体要求随承运人变化,逐航次确认"],"UNRESOLVED_QUESTIONS":["主要RoRo/集装箱船公司(如中远海特/WWL)的车辆交接官方标准URL"],"conflict_notes":[],"model_alias_notes":""}}
+{
+  "FACT_SHEET": {
+    "article_id": "AB-260904-G05",
+    "content_type": "PROCUREMENT_GUIDE",
+    "topic": "车辆出口装运前整备PDI与防护:断电/油量/胎压/车身防护怎么做",
+    "primary_keyword": "vehicle-export-pdi-pre-shipment-protection-checklist",
+    "search_intent": "车辆交运堆场/装船前应做哪些整备与防护以避免理赔",
+    "target_reader": "中国汽车出口商/仓储物流/堆场",
+    "target_country_region": "中国装港+海运",
+    "suggested_url": "/guides/vehicle-export-pdi-protection/",
+    "research_verdict": "RESEARCH_CONDITIONAL",
+    "official_source_required": false,
+    "official_source_found": true,
+    "reference_market": "见各fact/分国别",
+    "checked_date": "2026-09-04"
+  },
+  "BODY_GATE": {
+    "facts": [
+      {"field": "pdi_scope", "value": "装运前整备包含:外观与漆面检查记录、功能/仪表故障灯检查、随车工具钥匙清单、里程与油量记录、拍照留档", "unit": "-", "market": "CHINA", "trim": "-", "checked_date": "2026-09-04", "confidence": "SINGLE_SOURCE", "note": "流程性编辑清单(非数值阈值);数值要求以承运人官方指南为准", "source": ["汽车出口订舱装柜:装箱前检查与固定", "RoRo运输出口实操与第三方检测"], "url": ["https://m.11467.com/product/d39473622.htm", "https://m.11467.com/product/d55278360.htm"]},
+      {"field": "battery", "value": "燃油二手车:WW规定无电池kill-switch者在装船系固后断开12/24V(有例外,以承运人指南为准);新能源车不断高压电,BEV高压电池按承运人SOC上限(Höegh≤50%且保留足够装卸电量),具体以订舱承运人与IMDG为准", "unit": "-", "market": "INTERNATIONAL", "trim": "-", "checked_date": "2026-09-04", "confidence": "SINGLE_SOURCE", "note": "断电时点/SOC来自具名承运人官方,替换T4泛化表述", "sources": ["Wallenius Wilhelmsen Receiving of used units(无电池kill-switch的二手车装船后断开12/24V)", "Höegh Autoliners Automotive shipping(燃油/燃气≤1/4箱;BEV高压电池≤50%SOC;HEV规则)"], "urls": ["https://cargohandlinginstruction.walleniuswilhelmsen.com/terminal/receiving-of-used-units-draft", "https://www.hoeghautoliners.com/what-we-ship/automotive"]},
+      {"field": "fuel", "value": "主流RoRo承运人(WW、Höegh)官方指南均要求燃油/燃气车到港油箱不超过约1/4(满足自开上开下即可);该值为承运人政策而非法规,实际以订舱承运人书面要求为准", "unit": "-", "market": "INTERNATIONAL", "trim": "-", "checked_date": "2026-09-04", "confidence": "CROSS_CHECKED", "note": "两家独立头部RoRo承运人一致(CROSS_CHECKED,运营层);删除T4'约5%'说法", "sources": ["Wallenius Wilhelmsen Cargo Handling Instructions(燃油≤1/4箱;故障/泄漏车辆不得装船)", "Höegh Autoliners Automotive shipping(燃油/燃气≤1/4箱;BEV高压电池≤50%SOC;HEV规则)"], "urls": ["https://cargohandlinginstruction.walleniuswilhelmsen.com/pdf-files/WW-CHI-250731-1.31.pdf", "https://www.hoeghautoliners.com/what-we-ship/automotive"]},
+      {"field": "lashing", "value": "集装箱内车辆的绑扎点数、绑扎带破断强度、是否加防滑垫、车头朝向等:本批未取得OEM运输手册或船公司/码头正式加固指南的统一数值,统一作为'items to confirm with carrier/OEM(以订舱承运人加固手册/OEM运输模式为准)',不得写成固定操作要求", "unit": "-", "market": "INTERNATIONAL", "trim": "-", "checked_date": "2026-09-04", "confidence": "UNVERIFIED", "note": "原T4(11467)固定绑扎/朝向/破断值全部撤出确定性事实,改为待承运人/OEM确认", "sources": [], "urls": []},
+      {"field": "roro_condition", "value": "RoRo车辆须可自行安全开上开下(可行驶、可制动、可转向),交接时与堆场共同验车并签交接单", "unit": "-", "market": "CHINA", "trim": "-", "checked_date": "2026-09-04", "confidence": "SINGLE_SOURCE", "note": "流程性编辑清单(非数值阈值);数值要求以承运人官方指南为准", "source": ["RoRo运输出口实操与第三方检测"], "url": ["https://m.11467.com/product/d55278360.htm"]},
+      {"field": "record", "value": "整备与交接必须形成带时间/里程/车况照片的记录,作为到港损坏理赔依据", "unit": "-", "market": "CHINA", "trim": "-", "checked_date": "2026-09-04", "confidence": "SINGLE_SOURCE", "note": "流程性编辑清单(非数值阈值);数值要求以承运人官方指南为准", "source": ["RoRo运输出口实操与第三方检测"], "url": ["https://m.11467.com/product/d55278360.htm"]},
+      {"field": "bev_soc_carrier", "value": "BEV高压电池SOC上限:Höegh要求不超过50%且保留足以装卸与港口堆存的最低电量;HEV为≤1/4油+建议SOC。属承运人政策,逐家确认", "unit": "-", "market": "INTERNATIONAL", "trim": "-", "checked_date": "2026-09-04", "confidence": "SINGLE_SOURCE", "note": "", "source": ["Höegh Autoliners Automotive shipping(燃油/燃气≤1/4箱;BEV高压电池≤50%SOC;HEV规则)", "Höegh Autoliners Trucks, Buses and Trailers shipping(商用车同口径燃油/SOC)"], "url": ["https://www.hoeghautoliners.com/what-we-ship/automotive", "https://www.hoeghautoliners.com/what-we-ship/trucks-buses-and-trailers-shipping"]}
+    ],
+    "FACTS_ALLOWED_IN_BODY": ["燃油≤1/4箱(WW/Höegh两家一致,注明为承运人政策)", "二手车装船后12/24V断电(WW)、BEV≤50%SOC(Höegh),均注明具名承运人并提示逐家确认", "PDI流程清单/留档交接原则(非数值)"],
+    "FACTS_NOT_ALLOWED_IN_BODY": ["固定留油百分比(如5%)、统一绑扎破断吨数、统一胎压调整、统一SOC区间、车头必须朝航行方向等来自T4货代SEO的数值/绝对化要求", "把承运人政策说成法规强制"],
+    "BLOCKED_FACTS": ["绑扎方式/破断强度/车头朝向/胎压调整具体值(无OEM运输手册或船公司正式指南前为items to confirm with carrier/OEM)", "统一SOC固定百分比(仅获Höegh一家,不得泛化)"],
+    "TIME_SENSITIVE_FACTS": ["船公司对油量/SOC/加固的具体要求随承运人变化,逐航次确认"],
+    "UNRESOLVED_QUESTIONS": ["中远海特等中方RoRo/集装箱船公司车辆交接与加固官方指南URL", "主要OEM的整车运输模式(transport mode)官方手册URL"],
+    "conflict_notes": [],
+    "model_alias_notes": ""
+  }
+}
