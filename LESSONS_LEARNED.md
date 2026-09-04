@@ -94,7 +94,7 @@ Every package receives exactly one of:
 - **RESEARCH_CONDITIONAL** — writable, but specific fields must NOT be used as facts; a **BLOCKED_FACTS** list is mandatory, plus FACTS_ALLOWED_IN_BODY and FACTS_NOT_ALLOWED_IN_BODY.
 - **RESEARCH_FAIL** — the core search intent's key facts cannot be verified; must NOT move to Writing AI. Prefer continued official-source search; if still missing, replace with a RESERVE topic. Never pass on the strength of many dealer/media articles.
 - Flags: `OFFICIAL_SOURCE_REQUIRED = TRUE/FALSE`, `OFFICIAL_SOURCE_FOUND = TRUE/FALSE`.
-- Writing-AI handover is mandatory and must include: FACT SHEET, SOURCE LOG, CONFIDENCE STATUS, CONFLICT LIST, TIME-SENSITIVE LIST, OFFICIAL SOURCE STATUS, FACTS ALLOWED IN BODY, FACTS NOT ALLOWED IN BODY (what may be stated as fact, what may only be "confirm before purchase", what must not enter the body at all).
+- Writing-AI handover is mandatory and must include: FACT SHEET, SOURCE LOG, CONFIDENCE STATUS, CONFLICT LIST, TIME-SENSITIVE LIST, OFFICIAL SOURCE STATUS, FACTS ALLOWED IN BODY, FACTS NOT ALLOWED IN BODY.
 
 ### 1.3 Source integrity (binding)
 - `SOURCE_INTEGRITY_FAIL` if the displayed Source Name does not match the real URL/publisher (e.g. Name = 卡车之家 but URL = toutiao.com; Name = "Government Official" but URL is a media repost). The recorded Organization MUST match the actual publishing entity of the URL.
@@ -197,6 +197,32 @@ Batch STATUS uses exactly four values:
 - **PARTIAL** — at least one MAIN is RESEARCH_FAIL (never fabricate topics to fill the quota).
 - **BLOCKED** — the core production plan cannot be completed.
 - Every close MUST output **MAIN_PASS_COUNT, MAIN_CONDITIONAL_COUNT, MAIN_FAIL_COUNT, WRITING_READY_COUNT, BLOCKED_ARTICLES** and a per-article **WRITING_AI_READY** TRUE/FALSE. **Never output STATUS=READY while any MAIN is CONDITIONAL.**
+
+---
+
+## PART 5 — PUBLISH-GRADE RESEARCH BASELINE (installed by project-owner directive 2026-09-04)
+*Installed directly by the project owner on 2026-09-04 via 《AutoBridge 资料采集 AI — 发布级 Research 标准》; already confirmed, therefore permanent (not a candidate). Sits on top of PART 0–4 and never weakens them. Research AI's job is a complete, traceable, directly-verifiable baseline for BOTH Writing AI and the final review AI.*
+
+### LESSON: PUBLISH_GRADE_SOURCE_MINIMUM
+- A formal MAIN article must, in principle, reach **SOURCE_URL_COUNT >= 6 AND SOURCE_ORG_COUNT >= 4**, and every source must match the actual scope of the body conclusion. **Never pad the count with irrelevant sources.**
+- Each source row must record: **SOURCE_TITLE · SOURCE_ORGANIZATION · SOURCE_URL · SOURCE_TIER · SOURCE_MARKET · SUPPORTED_FACT · MODEL_YEAR/VERSION · CHECKED_DATE**. Key URLs must be **re-opened and re-verified on the batch day**.
+- A package that meets fact-confidence rules but falls below this source-depth minimum is **not RESEARCH_PASS at publish grade** -> set **RESEARCH_CONDITIONAL** with an explicit supplementation BLOCKED_FACTS entry; it may be drafted but must reach the minimum before Codex/final review. Never fabricate sources to close the gap.
+
+### LESSON: VEHICLE_IDENTITY_LOCK_BEFORE_SPECS
+Before collecting any parameter a vehicle package MUST lock: **MODEL_YEAR · GENERATION · BODY_STYLE · POWERTRAIN · DRIVETRAIN · ORIGINAL_SALES_MARKET · PRODUCTION_BOUNDARY · TRIM_VARIANT**. Every key parameter records FACT_NAME · VALUE · UNIT · SOURCE_MARKET · MODEL_YEAR · TRIM · POWERTRAIN · TEST_CYCLE · SOURCE_URL · CHECKED_DATE · BUYER_APPLICABILITY. Never mix ICE/HEV/PHEV/BEV, markets, model years, generations; never write a family maximum as a specific-vehicle value; never treat overseas OEM specs as China-market specs. An identity field not actually locked must be recorded NOT_LOCKED_IN_FACT_SHEET, never guessed.
+
+### LESSON: REGIONAL_GUIDE_REPRESENTATIVE_COUNTRIES
+A guide whose title uses a regional concept (**Africa / Latin America / Middle East / Southeast Asia**, etc.) must NEVER research only one country. Define **REPRESENTATIVE_COUNTRIES** and obtain local evidence per country: COUNTRY · CUSTOMS/REGULATOR · IMPORT_RULE · REGISTRATION · TAX/DUTY · AGE_LIMIT · TECHNICAL_STANDARD · SHIPPING/PORT · CHECKED_DATE. A single-country conclusion must carry **COUNTRY_SPECIFIC_ONLY=TRUE**. Forbidden equivalences: Mexico=Latin America, Saudi Arabia=Middle East, Singapore=Southeast Asia, South Africa=Africa.
+
+### LESSON: LOGISTICS_GUIDE_SPECIFICITY
+Transport/logistics guides must obtain, as far as possible, **PORT · ROUTE · CARRIER · TERMINAL · CONDITION · EFFECTIVE_DATE**. Generic IMO/UNECE/international rules prove only the international framework; they cannot substitute for a specific port, route, carrier or destination country. Carrier rules are CARRIER_SPECIFIC (named carrier), never a global/legal mandate.
+
+### LESSON: PUBLISH_GRADE_HANDOFF_FIELDS
+Every package handoff MUST output: ARTICLE_ID · TITLE · SEARCH_INTENT · SOURCE_URL_COUNT · SOURCE_ORG_COUNT · SOURCE_SCOPE_STATUS · FACT_BOUNDARY_STATUS · the eight VEHICLE_IDENTITY_LOCK fields (N/A for non-vehicle) · REPRESENTATIVE_COUNTRIES (N/A for non-regional) · FACTS_ALLOWED_IN_BODY · FACTS_NOT_ALLOWED_IN_BODY · BLOCKED_FACTS · TIME_SENSITIVE_FACTS · CONFLICT_LIST · RESEARCH_STATUS · WRITING_AI_READY · FACT_SHEET_VERSION · SOURCE_LOG_VERSION.
+
+### LESSON: RESEARCH_BASELINE_SHA_AND_COMPLETION
+- At every research start: git pull and record **RESEARCH_START_REPO_SHA** and **LESSONS_LEARNED_SHA**; after push record **RESEARCH_COMPLETE_COMMIT_SHA** — Writing AI must use that commit as baseline. If Research updates after Writing started, set **RESEARCH_BASELINE_CHANGED=TRUE** and notify Writing to re-read.
+- 【RESEARCH_COMPLETE】 is permitted ONLY after all research files are written to GitHub AND pushed. It never equals article approval, REVIEW_PASS, or publishability. The closing block MUST output BATCH_ID · COMMIT_SHA · MAIN_PASS · MAIN_CONDITIONAL · MAIN_FAIL · SOURCE_GATE_PASS_COUNT · WRITING_AI_READY_COUNT · BLOCKED_ARTICLES. **Never output PUBLISH_APPROVED=true, never output REVIEW_PASS, never claim the site can go live.**
 
 ---
 ### Confidence vocabulary (binding)
