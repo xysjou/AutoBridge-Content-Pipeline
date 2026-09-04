@@ -173,6 +173,32 @@ Research AI and Writing AI may work concurrently, but never on the same moving f
 Shared files — **LESSONS_LEARNED.md, daily_manifest.json, RESEARCH_READY.json, final_manifest.json** — must never be edited by both AIs at once. Before each edit: **git pull**; Research AI prioritizes Research-status fields, Writing AI edits Writing-status fields only after its pull. After editing: git add → commit → push. On push rejection: **pull/rebase and recommit; force-push is prohibited.** On any fact change Research takes priority and Writing must re-read the newest Research output.
 
 ---
+## PART 4 — INDEPENDENT-AUDIT PERMANENT GATES (installed by independent-audit/project-owner directive 2026-09-04)
+*Installed directly after the 2026-09-04 independent research audit; already confirmed, therefore permanent (not candidates). Sit on top of PART 0–3 and never weaken them.*
+
+### LESSON: STARTUP_HEAD_SHA_GATE
+Before ANY batch research starts, sync to origin main AND record the actual identifiers — never merely state "latest rules read": **REPO_HEAD_SHA, LESSONS_LEARNED_SHA, LESSONS_READ_AT**.
+- If `LOCAL_HEAD != ORIGIN_MAIN_HEAD`, output **PRE_RESEARCH_SYNC_FAIL** and do NOT begin research until fully synced.
+- The recorded SHAs must be written into the Daily Manifest / RESEARCH_READY startup_gate block so the baseline is auditable.
+
+### LESSON: DRAFT_STANDARD_IS_NOT_CURRENT_STANDARD
+Maintain two separate fields: **CURRENT_STANDARD** and **DRAFT/FUTURE_STANDARD**.
+- A 征求意见稿 / 草案 / 制修订计划 / "正在批准" item (e.g. mandatory-standard plan **20260041-Q-339** or a numbered **GB xxxx—XXXX** draft) must NEVER be tagged CURRENT / MANDATORY / VERIFIED-current-requirement. Record its plan number and state, and keep the released standard currently in force (e.g. **GB/T 21085-2020**) as the CURRENT standard until the new one is formally published AND effective.
+- Effective dates of a draft are planned dates until official publication; treat as TIME_SENSITIVE.
+
+### LESSON: PLACEHOLDER_URL_BLOCK
+No `.example / localhost / test / staging / dummy` URL may appear in any production Manifest, Fact Sheet, Source Log or Handoff; a violation is **RESEARCH_QA_FAIL**.
+- `suggested_url` uses real **relative production paths**. Model hubs follow EVERGREEN_MODEL_URL_BY_DEFAULT (`/vehicles/slug/`, `/guides/slug/`); a year/`-specs` suffix is allowed only for an explicit model-year/comparison/archive page.
+
+### LESSON: BATCH_STATUS_TAXONOMY
+Batch STATUS uses exactly four values:
+- **READY** — every MAIN package = RESEARCH_PASS.
+- **READY_WITH_CONDITIONS** — at least one MAIN is RESEARCH_CONDITIONAL and there is NO MAIN FAIL.
+- **PARTIAL** — at least one MAIN is RESEARCH_FAIL (never fabricate topics to fill the quota).
+- **BLOCKED** — the core production plan cannot be completed.
+- Every close MUST output **MAIN_PASS_COUNT, MAIN_CONDITIONAL_COUNT, MAIN_FAIL_COUNT, WRITING_READY_COUNT, BLOCKED_ARTICLES** and a per-article **WRITING_AI_READY** TRUE/FALSE. **Never output STATUS=READY while any MAIN is CONDITIONAL.**
+
+---
 ### Confidence vocabulary (binding)
 - **VERIFIED** — manufacturer OEM site, government/regulator, standards body, or formal official technical document (scope matched).
 - **CROSS_CHECKED** — two or more independent reliable sources agree ON THE SAME FACT, but no primary/official first-hand source.
