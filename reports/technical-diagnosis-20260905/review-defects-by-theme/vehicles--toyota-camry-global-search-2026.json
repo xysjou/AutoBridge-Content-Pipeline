@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/toyota-camry-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -156,6 +156,150 @@
       "current_source": true,
       "local_page": "ja/vehicles/toyota-camry-global-search-2026.html",
       "local_page_sha256": "cc6f96c7e481deed2b246177b244d59ebd23482c3a6be4d0c907d7ff7c26a7bd",
+      "source_file": "content/vehicles/toyota-camry-global-search-2026.json",
+      "source_sha256": "4941b5d57f5e3ddd161b53311f1344a9fdd45625aacb9d59ac53746022e7f544",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/toyota-camry-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "토요타 캠리 2026 수출 구매 안내: 전기차가 아닌 시장별 하이브리드",
+      "content_key": "vehicles/toyota-camry-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/toyota-camry-global-search-2026.html",
+      "local_page_sha256": "0ccdc48c14cbb126cfd7b4d981bb8fed4947c9a51ce045bdba09543b47f7fc82",
+      "source_file": "content/vehicles/toyota-camry-global-search-2026.json",
+      "source_sha256": "4941b5d57f5e3ddd161b53311f1344a9fdd45625aacb9d59ac53746022e7f544",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/toyota-camry-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "Toyota Camry 2026 dành cho người mua xuất khẩu: hybrid, không phải xe điện pin",
+      "content_key": "vehicles/toyota-camry-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/toyota-camry-global-search-2026.html",
+      "local_page_sha256": "f3e165357c0d157b712740f6ffbe6832122bc0d96265f14c3e5330221ec080fa",
+      "source_file": "content/vehicles/toyota-camry-global-search-2026.json",
+      "source_sha256": "4941b5d57f5e3ddd161b53311f1344a9fdd45625aacb9d59ac53746022e7f544",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/toyota-camry-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "คู่มือผู้ซื้อ Toyota Camry 2026 เพื่อการส่งออก: ไฮบริด ไม่ใช่รถไฟฟ้าแบตเตอรี่",
+      "content_key": "vehicles/toyota-camry-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/toyota-camry-global-search-2026.html",
+      "local_page_sha256": "5a4077a4fddc5ea0d916a17ef15edcb46b5a221e2bcfcce8e862e8f73c522f28",
+      "source_file": "content/vehicles/toyota-camry-global-search-2026.json",
+      "source_sha256": "4941b5d57f5e3ddd161b53311f1344a9fdd45625aacb9d59ac53746022e7f544",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/toyota-camry-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "Toyota Camry 2026 untuk pembeli ekspor: hibrida, bukan mobil listrik baterai",
+      "content_key": "vehicles/toyota-camry-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/toyota-camry-global-search-2026.html",
+      "local_page_sha256": "97d327427ad5a8346e0c70c1f51eab34849b49fd5dd3f132aa9c0cc402219840",
+      "source_file": "content/vehicles/toyota-camry-global-search-2026.json",
+      "source_sha256": "4941b5d57f5e3ddd161b53311f1344a9fdd45625aacb9d59ac53746022e7f544",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/toyota-camry-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "تويوتا كامري 2026 لمشتري التصدير: هجينة وليست كهربائية بالبطارية",
+      "content_key": "vehicles/toyota-camry-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/toyota-camry-global-search-2026.html",
+      "local_page_sha256": "e59a5ed0462df3fd736c627dfc11da778890752dbae797b883e40e925d1299ff",
       "source_file": "content/vehicles/toyota-camry-global-search-2026.json",
       "source_sha256": "4941b5d57f5e3ddd161b53311f1344a9fdd45625aacb9d59ac53746022e7f544",
       "reasons": [

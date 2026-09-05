@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/jeep-grand-cherokee-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -157,6 +157,151 @@
       "current_source": true,
       "local_page": "ja/vehicles/jeep-grand-cherokee-global-search-2026.html",
       "local_page_sha256": "a0c21ff7c38bfe3beff4c0e7566db4421ef3d9323ec339af73feccd35e6aa691",
+      "source_file": "content/vehicles/jeep-grand-cherokee-global-search-2026.json",
+      "source_sha256": "73b1b53bd8c97118fc4d943388f69c5b1d75adc32a3e9f90469e9675c607b563",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/jeep-grand-cherokee-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "2026 지프 그랜드 체로키 수출 점검: 2열, L, 4xe 구분",
+      "content_key": "vehicles/jeep-grand-cherokee-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/jeep-grand-cherokee-global-search-2026.html",
+      "local_page_sha256": "6dae1324e58333bf4fc96000fde465e8d7b051c1f3f97adc3e12434dddce0e81",
+      "source_file": "content/vehicles/jeep-grand-cherokee-global-search-2026.json",
+      "source_sha256": "73b1b53bd8c97118fc4d943388f69c5b1d75adc32a3e9f90469e9675c607b563",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/jeep-grand-cherokee-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "Jeep Grand Cherokee 2026 để xuất khẩu: tách bản hai hàng, L và 4xe",
+      "content_key": "vehicles/jeep-grand-cherokee-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/jeep-grand-cherokee-global-search-2026.html",
+      "local_page_sha256": "9182ecf65da011b104fa5d4ea779e0436ca30df92e0e98c30f2b53522deef312",
+      "source_file": "content/vehicles/jeep-grand-cherokee-global-search-2026.json",
+      "source_sha256": "73b1b53bd8c97118fc4d943388f69c5b1d75adc32a3e9f90469e9675c607b563",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/jeep-grand-cherokee-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "คู่มือส่งออก Jeep Grand Cherokee ปี 2026: แยกสองแถว รุ่น L และ 4xe",
+      "content_key": "vehicles/jeep-grand-cherokee-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/jeep-grand-cherokee-global-search-2026.html",
+      "local_page_sha256": "9775c0e657b3e93455b2eba8103a41c26c816f1a73f9637d6c0335348656e529",
+      "source_file": "content/vehicles/jeep-grand-cherokee-global-search-2026.json",
+      "source_sha256": "73b1b53bd8c97118fc4d943388f69c5b1d75adc32a3e9f90469e9675c607b563",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/jeep-grand-cherokee-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "Ekspor Jeep Grand Cherokee 2026: bedakan dua baris, L, dan 4xe",
+      "content_key": "vehicles/jeep-grand-cherokee-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/jeep-grand-cherokee-global-search-2026.html",
+      "local_page_sha256": "1e67917fd34a01a2596bef5f6c7b4cc7b8e052fb292819231f56e78f5c576e39",
+      "source_file": "content/vehicles/jeep-grand-cherokee-global-search-2026.json",
+      "source_sha256": "73b1b53bd8c97118fc4d943388f69c5b1d75adc32a3e9f90469e9675c607b563",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/jeep-grand-cherokee-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "تصدير جيب جراند شيروكي 2026: فصل النسخة ذات الصفين وL و4xe",
+      "content_key": "vehicles/jeep-grand-cherokee-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/jeep-grand-cherokee-global-search-2026.html",
+      "local_page_sha256": "1d49ce9ac1fadef651d0743fac553034b65000c922706d6163b82b32dc12353f",
       "source_file": "content/vehicles/jeep-grand-cherokee-global-search-2026.json",
       "source_sha256": "73b1b53bd8c97118fc4d943388f69c5b1d75adc32a3e9f90469e9675c607b563",
       "reasons": [

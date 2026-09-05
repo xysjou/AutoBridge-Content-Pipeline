@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/suzuki-vitara-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -157,6 +157,151 @@
       "current_source": true,
       "local_page": "ja/vehicles/suzuki-vitara-global-search-2026.html",
       "local_page_sha256": "f85754e3ce1b1102519dd80c845be84365e44890cd1a293f8d96c414ec266e4b",
+      "source_file": "content/vehicles/suzuki-vitara-global-search-2026.json",
+      "source_sha256": "a5dcdf5f8c92362ec95708dd1b607fb2606a1ec4f60f07da54c2a946ed67b785",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/suzuki-vitara-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "Suzuki Vitara 2026년: 근거 중심 수출 구매 안내",
+      "content_key": "vehicles/suzuki-vitara-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/suzuki-vitara-global-search-2026.html",
+      "local_page_sha256": "2b234280344950d5e48e5432df45f1ddf7acfc249c7dac9841b6c5de1f98ffe2",
+      "source_file": "content/vehicles/suzuki-vitara-global-search-2026.json",
+      "source_sha256": "a5dcdf5f8c92362ec95708dd1b607fb2606a1ec4f60f07da54c2a946ed67b785",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/suzuki-vitara-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "Suzuki Vitara 2026: hướng dẫn mua xe xuất khẩu dựa trên bằng chứng",
+      "content_key": "vehicles/suzuki-vitara-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/suzuki-vitara-global-search-2026.html",
+      "local_page_sha256": "7c765479695c07724de2b0c9bedd0fc64278a29425bef1e8857926f70a2fd89b",
+      "source_file": "content/vehicles/suzuki-vitara-global-search-2026.json",
+      "source_sha256": "a5dcdf5f8c92362ec95708dd1b607fb2606a1ec4f60f07da54c2a946ed67b785",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/suzuki-vitara-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "Suzuki Vitara 2026: คู่มือซื้อรถส่งออกที่อ้างอิงหลักฐาน",
+      "content_key": "vehicles/suzuki-vitara-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/suzuki-vitara-global-search-2026.html",
+      "local_page_sha256": "b9ff47d22309d7244046e32db88e2363e19a48fd64b59613b18a2c9ff53c950a",
+      "source_file": "content/vehicles/suzuki-vitara-global-search-2026.json",
+      "source_sha256": "a5dcdf5f8c92362ec95708dd1b607fb2606a1ec4f60f07da54c2a946ed67b785",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/suzuki-vitara-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "Suzuki Vitara 2026: panduan pembelian ekspor berbasis bukti",
+      "content_key": "vehicles/suzuki-vitara-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/suzuki-vitara-global-search-2026.html",
+      "local_page_sha256": "fd22e03e59fd9c3e8d11eb28d0f2d2c40c816501829eec5dd5df1c3e0390d3f6",
+      "source_file": "content/vehicles/suzuki-vitara-global-search-2026.json",
+      "source_sha256": "a5dcdf5f8c92362ec95708dd1b607fb2606a1ec4f60f07da54c2a946ed67b785",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/suzuki-vitara-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "Suzuki Vitara 2026: دليل شراء للتصدير قائم على الأدلة",
+      "content_key": "vehicles/suzuki-vitara-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/suzuki-vitara-global-search-2026.html",
+      "local_page_sha256": "be6141669809bb4a23f1b14fb19caade2cba3d801565b99c15c15db4a9666453",
       "source_file": "content/vehicles/suzuki-vitara-global-search-2026.json",
       "source_sha256": "a5dcdf5f8c92362ec95708dd1b607fb2606a1ec4f60f07da54c2a946ed67b785",
       "reasons": [

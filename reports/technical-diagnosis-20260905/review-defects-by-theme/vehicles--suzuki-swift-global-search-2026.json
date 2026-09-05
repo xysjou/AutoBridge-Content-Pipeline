@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/suzuki-swift-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -156,6 +156,146 @@
       "current_source": true,
       "local_page": "ja/vehicles/suzuki-swift-global-search-2026.html",
       "local_page_sha256": "528b8954caa1130af5f79fb2041b55e025028a522fece625e1078a93403eca0d",
+      "source_file": "content/vehicles/suzuki-swift-global-search-2026.json",
+      "source_sha256": "130a6793edb2e92fc84bd3a49c3e99b1b5bba8750850050d4bb18171a47bc50f",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/suzuki-swift-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "Suzuki Swift 2026년: 근거 중심 수출 구매 안내",
+      "content_key": "vehicles/suzuki-swift-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/suzuki-swift-global-search-2026.html",
+      "local_page_sha256": "87c0836b9ac30245d710d0b9a39043c4ccea8cbe8933c525417bd72c16ab75d8",
+      "source_file": "content/vehicles/suzuki-swift-global-search-2026.json",
+      "source_sha256": "130a6793edb2e92fc84bd3a49c3e99b1b5bba8750850050d4bb18171a47bc50f",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/suzuki-swift-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "Suzuki Swift 2026: hướng dẫn mua xe xuất khẩu dựa trên bằng chứng",
+      "content_key": "vehicles/suzuki-swift-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/suzuki-swift-global-search-2026.html",
+      "local_page_sha256": "b9728e3196b4f7401c733c1bd9fe71874599d6d60fffa40067afdc9694643dde",
+      "source_file": "content/vehicles/suzuki-swift-global-search-2026.json",
+      "source_sha256": "130a6793edb2e92fc84bd3a49c3e99b1b5bba8750850050d4bb18171a47bc50f",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/suzuki-swift-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "Suzuki Swift 2026: คู่มือซื้อรถส่งออกที่อ้างอิงหลักฐาน",
+      "content_key": "vehicles/suzuki-swift-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/suzuki-swift-global-search-2026.html",
+      "local_page_sha256": "08b485984ecb91ccc595ec1f8a00450985b01ce80cb1634e2e92aebf0ec8f3fb",
+      "source_file": "content/vehicles/suzuki-swift-global-search-2026.json",
+      "source_sha256": "130a6793edb2e92fc84bd3a49c3e99b1b5bba8750850050d4bb18171a47bc50f",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/suzuki-swift-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "Suzuki Swift 2026: panduan pembelian ekspor berbasis bukti",
+      "content_key": "vehicles/suzuki-swift-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/suzuki-swift-global-search-2026.html",
+      "local_page_sha256": "5772981bdba5741958691d2261b66513b4cf766976563349f298756b0bd1b43e",
+      "source_file": "content/vehicles/suzuki-swift-global-search-2026.json",
+      "source_sha256": "130a6793edb2e92fc84bd3a49c3e99b1b5bba8750850050d4bb18171a47bc50f",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/suzuki-swift-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "Suzuki Swift 2026: دليل شراء للتصدير قائم على الأدلة",
+      "content_key": "vehicles/suzuki-swift-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/suzuki-swift-global-search-2026.html",
+      "local_page_sha256": "ca5bbba3358736d3eeccf8d027a4eb836ab0072af1e2f501279b530901993772",
       "source_file": "content/vehicles/suzuki-swift-global-search-2026.json",
       "source_sha256": "130a6793edb2e92fc84bd3a49c3e99b1b5bba8750850050d4bb18171a47bc50f",
       "reasons": [

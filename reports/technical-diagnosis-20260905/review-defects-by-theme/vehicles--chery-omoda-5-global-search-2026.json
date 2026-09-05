@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/chery-omoda-5-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -157,6 +157,151 @@
       "current_source": true,
       "local_page": "ja/vehicles/chery-omoda-5-global-search-2026.html",
       "local_page_sha256": "3ac1ddb730fbd5b5659134985498de0970e88b8702f048dd36ee2955ee456a93",
+      "source_file": "content/vehicles/chery-omoda-5-global-search-2026.json",
+      "source_sha256": "17de274ae683ab4266062b0627dcb4c8e5960d74769250446c008a68b752801b",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/chery-omoda-5-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "Chery OMODA 5 2026 수출 근거와 구매 확인",
+      "content_key": "vehicles/chery-omoda-5-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/chery-omoda-5-global-search-2026.html",
+      "local_page_sha256": "d1d1e75bb088997d57acc874aa60214556e21909a71f8f333d8c36da9eaaeced",
+      "source_file": "content/vehicles/chery-omoda-5-global-search-2026.json",
+      "source_sha256": "17de274ae683ab4266062b0627dcb4c8e5960d74769250446c008a68b752801b",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/chery-omoda-5-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "Chery OMODA 5 2026: bằng chứng xuất khẩu và kiểm tra trước khi mua",
+      "content_key": "vehicles/chery-omoda-5-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/chery-omoda-5-global-search-2026.html",
+      "local_page_sha256": "2b5ef6f73b89179dc42525a38673072cbc942ea954b0445620264a6de8524cae",
+      "source_file": "content/vehicles/chery-omoda-5-global-search-2026.json",
+      "source_sha256": "17de274ae683ab4266062b0627dcb4c8e5960d74769250446c008a68b752801b",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/chery-omoda-5-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "Chery OMODA 5 2026: หลักฐานส่งออกและรายการตรวจผู้ซื้อ",
+      "content_key": "vehicles/chery-omoda-5-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/chery-omoda-5-global-search-2026.html",
+      "local_page_sha256": "d22b19e38e5644713cc3f7b812067c567d42061b4448c74bee3fdd2cf62765f9",
+      "source_file": "content/vehicles/chery-omoda-5-global-search-2026.json",
+      "source_sha256": "17de274ae683ab4266062b0627dcb4c8e5960d74769250446c008a68b752801b",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/chery-omoda-5-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "Chery OMODA 5 2026: bukti ekspor dan pemeriksaan pembeli",
+      "content_key": "vehicles/chery-omoda-5-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/chery-omoda-5-global-search-2026.html",
+      "local_page_sha256": "342522fcc719a8d92f3425030cd5550e688962065bb2cf2a6d6c700cc7f97b35",
+      "source_file": "content/vehicles/chery-omoda-5-global-search-2026.json",
+      "source_sha256": "17de274ae683ab4266062b0627dcb4c8e5960d74769250446c008a68b752801b",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/chery-omoda-5-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "Chery OMODA 5 2026: أدلة التصدير وفحوص المشتري",
+      "content_key": "vehicles/chery-omoda-5-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/chery-omoda-5-global-search-2026.html",
+      "local_page_sha256": "d0e3ef15c8c843027f364c70d6f53a53a9dbdde29f4b1ac2330cf3becf4ecc26",
       "source_file": "content/vehicles/chery-omoda-5-global-search-2026.json",
       "source_sha256": "17de274ae683ab4266062b0627dcb4c8e5960d74769250446c008a68b752801b",
       "reasons": [

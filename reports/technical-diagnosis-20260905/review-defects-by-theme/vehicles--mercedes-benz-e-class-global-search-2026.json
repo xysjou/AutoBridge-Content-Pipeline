@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/mercedes-benz-e-class-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -159,6 +159,151 @@
       "current_source": true,
       "local_page": "ja/vehicles/mercedes-benz-e-class-global-search-2026.html",
       "local_page_sha256": "b45b099cd2a7f5769044ff003f35522301a3de9003b66e5c06c9c447fb1d0fb1",
+      "source_file": "content/vehicles/mercedes-benz-e-class-global-search-2026.json",
+      "source_sha256": "75684ecd1e779e4d3870caab3221e41e46d6103a9a818a967785283a778efb49",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/mercedes-benz-e-class-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "Mercedes-Benz E-Class 2026: 수출 구매자용 프로필",
+      "content_key": "vehicles/mercedes-benz-e-class-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/mercedes-benz-e-class-global-search-2026.html",
+      "local_page_sha256": "8efb1dc975adf0ec6d1f57ff1b82ec8f81124ab1e8893323bc1922d491bbf73c",
+      "source_file": "content/vehicles/mercedes-benz-e-class-global-search-2026.json",
+      "source_sha256": "75684ecd1e779e4d3870caab3221e41e46d6103a9a818a967785283a778efb49",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/mercedes-benz-e-class-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "Mercedes-Benz E-Class 2026: Hồ sơ dành cho người mua xuất khẩu",
+      "content_key": "vehicles/mercedes-benz-e-class-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/mercedes-benz-e-class-global-search-2026.html",
+      "local_page_sha256": "e1e594021c4c9456774f1b2546c73cd85a01d0f763278f56d1febb9810f8ce5e",
+      "source_file": "content/vehicles/mercedes-benz-e-class-global-search-2026.json",
+      "source_sha256": "75684ecd1e779e4d3870caab3221e41e46d6103a9a818a967785283a778efb49",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/mercedes-benz-e-class-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "Mercedes-Benz E-Class 2026: ข้อมูลสำหรับผู้ซื้อเพื่อการส่งออก",
+      "content_key": "vehicles/mercedes-benz-e-class-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/mercedes-benz-e-class-global-search-2026.html",
+      "local_page_sha256": "606df437bfd75452ba779b66be437f006e75bdbc26e0aefd5ec183600d844374",
+      "source_file": "content/vehicles/mercedes-benz-e-class-global-search-2026.json",
+      "source_sha256": "75684ecd1e779e4d3870caab3221e41e46d6103a9a818a967785283a778efb49",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/mercedes-benz-e-class-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "Mercedes-Benz E-Class 2026: Profil pembeli ekspor",
+      "content_key": "vehicles/mercedes-benz-e-class-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/mercedes-benz-e-class-global-search-2026.html",
+      "local_page_sha256": "b9450c5219696249213d42e80c80443dbe254c05666ff02ff2e1f13c8685ca01",
+      "source_file": "content/vehicles/mercedes-benz-e-class-global-search-2026.json",
+      "source_sha256": "75684ecd1e779e4d3870caab3221e41e46d6103a9a818a967785283a778efb49",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/mercedes-benz-e-class-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "Mercedes-Benz E-Class 2026: ملف لمشتري التصدير",
+      "content_key": "vehicles/mercedes-benz-e-class-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/mercedes-benz-e-class-global-search-2026.html",
+      "local_page_sha256": "740641966190633cd162158701b8b01dde5642252a0d23d412de7276a871131c",
       "source_file": "content/vehicles/mercedes-benz-e-class-global-search-2026.json",
       "source_sha256": "75684ecd1e779e4d3870caab3221e41e46d6103a9a818a967785283a778efb49",
       "reasons": [

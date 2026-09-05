@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/tesla-model-y-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -157,6 +157,151 @@
       "current_source": true,
       "local_page": "ja/vehicles/tesla-model-y-global-search-2026.html",
       "local_page_sha256": "4b1c1072073704ef99b143a9b640c3d24acd57812a5f9846ca11948c3fc637d4",
+      "source_file": "content/vehicles/tesla-model-y-global-search-2026.json",
+      "source_sha256": "560521191b4a577cd9ff114a66779b86a043621da96901bda9a8c3254087e1f0",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/tesla-model-y-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "Tesla Model Y 2026년: 근거 중심 수출 구매 안내",
+      "content_key": "vehicles/tesla-model-y-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/tesla-model-y-global-search-2026.html",
+      "local_page_sha256": "5e1ab439bfc7686447f6008af2e36a315e3f6ef11bec4563176328f6a7a54a85",
+      "source_file": "content/vehicles/tesla-model-y-global-search-2026.json",
+      "source_sha256": "560521191b4a577cd9ff114a66779b86a043621da96901bda9a8c3254087e1f0",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/tesla-model-y-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "Tesla Model Y 2026: hướng dẫn mua xe xuất khẩu dựa trên bằng chứng",
+      "content_key": "vehicles/tesla-model-y-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/tesla-model-y-global-search-2026.html",
+      "local_page_sha256": "1b79525d7f4144dddcfc23d880da97f71a0cbe826404a76ae9e73a38b7bb5e96",
+      "source_file": "content/vehicles/tesla-model-y-global-search-2026.json",
+      "source_sha256": "560521191b4a577cd9ff114a66779b86a043621da96901bda9a8c3254087e1f0",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/tesla-model-y-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "Tesla Model Y 2026: คู่มือซื้อรถส่งออกที่อ้างอิงหลักฐาน",
+      "content_key": "vehicles/tesla-model-y-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/tesla-model-y-global-search-2026.html",
+      "local_page_sha256": "c210b7b95b1a9f23d8f2a6d74f683b8b9e3db8f8c9e32fe3270ba45a7ac944dd",
+      "source_file": "content/vehicles/tesla-model-y-global-search-2026.json",
+      "source_sha256": "560521191b4a577cd9ff114a66779b86a043621da96901bda9a8c3254087e1f0",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/tesla-model-y-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "Tesla Model Y 2026: panduan pembelian ekspor berbasis bukti",
+      "content_key": "vehicles/tesla-model-y-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/tesla-model-y-global-search-2026.html",
+      "local_page_sha256": "efe0a80ca566d4cf85afe33b236494aef612cea77142da187c8f5fc5835b56f5",
+      "source_file": "content/vehicles/tesla-model-y-global-search-2026.json",
+      "source_sha256": "560521191b4a577cd9ff114a66779b86a043621da96901bda9a8c3254087e1f0",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/tesla-model-y-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "Tesla Model Y 2026: دليل شراء للتصدير قائم على الأدلة",
+      "content_key": "vehicles/tesla-model-y-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/tesla-model-y-global-search-2026.html",
+      "local_page_sha256": "fd8b7189674a7b385e026efb910ab2eabd0f7d67102ec72d1b85df7d8705f383",
       "source_file": "content/vehicles/tesla-model-y-global-search-2026.json",
       "source_sha256": "560521191b4a577cd9ff114a66779b86a043621da96901bda9a8c3254087e1f0",
       "reasons": [

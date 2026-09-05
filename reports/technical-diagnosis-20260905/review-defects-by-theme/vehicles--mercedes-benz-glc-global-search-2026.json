@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/mercedes-benz-glc-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -159,6 +159,151 @@
       "current_source": true,
       "local_page": "ja/vehicles/mercedes-benz-glc-global-search-2026.html",
       "local_page_sha256": "ed359d2da94cd42ec6faa6f9ef69961ea09b60aaae6f227c28b6e1cd33af231f",
+      "source_file": "content/vehicles/mercedes-benz-glc-global-search-2026.json",
+      "source_sha256": "d5bdcf5845945ffdbf0556651ab8a5d4b5035f680105cccd3ee672d887f34926",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/mercedes-benz-glc-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "Mercedes-Benz GLC 2026: 수출 구매자용 프로필",
+      "content_key": "vehicles/mercedes-benz-glc-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/mercedes-benz-glc-global-search-2026.html",
+      "local_page_sha256": "fca26d9b530569cbebf795d022354c14a4be4317802356d0d6b071cbc3e03773",
+      "source_file": "content/vehicles/mercedes-benz-glc-global-search-2026.json",
+      "source_sha256": "d5bdcf5845945ffdbf0556651ab8a5d4b5035f680105cccd3ee672d887f34926",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/mercedes-benz-glc-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "Mercedes-Benz GLC 2026: Hồ sơ dành cho người mua xuất khẩu",
+      "content_key": "vehicles/mercedes-benz-glc-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/mercedes-benz-glc-global-search-2026.html",
+      "local_page_sha256": "691bf07a92e8aa0b6d6ab44995a01bee9cd192353a12157b0b769a683c7f37cc",
+      "source_file": "content/vehicles/mercedes-benz-glc-global-search-2026.json",
+      "source_sha256": "d5bdcf5845945ffdbf0556651ab8a5d4b5035f680105cccd3ee672d887f34926",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/mercedes-benz-glc-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "Mercedes-Benz GLC 2026: ข้อมูลสำหรับผู้ซื้อเพื่อการส่งออก",
+      "content_key": "vehicles/mercedes-benz-glc-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/mercedes-benz-glc-global-search-2026.html",
+      "local_page_sha256": "8bd5e13d6547d3d37a27e8a3be757be948dfee8b9f10cc4f5e2714f04d09d298",
+      "source_file": "content/vehicles/mercedes-benz-glc-global-search-2026.json",
+      "source_sha256": "d5bdcf5845945ffdbf0556651ab8a5d4b5035f680105cccd3ee672d887f34926",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/mercedes-benz-glc-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "Mercedes-Benz GLC 2026: Profil pembeli ekspor",
+      "content_key": "vehicles/mercedes-benz-glc-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/mercedes-benz-glc-global-search-2026.html",
+      "local_page_sha256": "2ca8f72b14c88f9881f8f16dcdbeafeeb5681c9f978b94eb4b362f88da6f5854",
+      "source_file": "content/vehicles/mercedes-benz-glc-global-search-2026.json",
+      "source_sha256": "d5bdcf5845945ffdbf0556651ab8a5d4b5035f680105cccd3ee672d887f34926",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/mercedes-benz-glc-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "Mercedes-Benz GLC 2026: ملف لمشتري التصدير",
+      "content_key": "vehicles/mercedes-benz-glc-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/mercedes-benz-glc-global-search-2026.html",
+      "local_page_sha256": "b71bcaad406a8f3698be0a2d4efa11be6b93c03eec1c9b9076f48127be99a018",
       "source_file": "content/vehicles/mercedes-benz-glc-global-search-2026.json",
       "source_sha256": "d5bdcf5845945ffdbf0556651ab8a5d4b5035f680105cccd3ee672d887f34926",
       "reasons": [

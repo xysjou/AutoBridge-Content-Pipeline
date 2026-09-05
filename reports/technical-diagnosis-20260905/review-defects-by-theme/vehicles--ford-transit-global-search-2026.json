@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/ford-transit-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -157,6 +157,151 @@
       "current_source": true,
       "local_page": "ja/vehicles/ford-transit-global-search-2026.html",
       "local_page_sha256": "656be560fb312e9bf3c6b952953f107f71337cc54e7f0f594848cc297bb057da",
+      "source_file": "content/vehicles/ford-transit-global-search-2026.json",
+      "source_sha256": "0b3f9e240a3d8985d1e7dcd8bbaba5aed2c3d5db6d40882e3b15a36c44e49d2e",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/ford-transit-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "Ford Transit 2026 수출 근거와 구매 확인",
+      "content_key": "vehicles/ford-transit-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/ford-transit-global-search-2026.html",
+      "local_page_sha256": "e2d89517d51bcb2aba76a8119c261ec65d492a57f2615e39f3ab59be8d5990fd",
+      "source_file": "content/vehicles/ford-transit-global-search-2026.json",
+      "source_sha256": "0b3f9e240a3d8985d1e7dcd8bbaba5aed2c3d5db6d40882e3b15a36c44e49d2e",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/ford-transit-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "Ford Transit 2026: bằng chứng xuất khẩu và kiểm tra trước khi mua",
+      "content_key": "vehicles/ford-transit-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/ford-transit-global-search-2026.html",
+      "local_page_sha256": "50350ab69644a73d07f95ecf7eacb25380754c6f78b20f993679f773ff8feb4c",
+      "source_file": "content/vehicles/ford-transit-global-search-2026.json",
+      "source_sha256": "0b3f9e240a3d8985d1e7dcd8bbaba5aed2c3d5db6d40882e3b15a36c44e49d2e",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/ford-transit-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "Ford Transit 2026: หลักฐานส่งออกและรายการตรวจผู้ซื้อ",
+      "content_key": "vehicles/ford-transit-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/ford-transit-global-search-2026.html",
+      "local_page_sha256": "cfa152cca60344b73562acc4db6a337353198c7df2327a43f132109a5007b979",
+      "source_file": "content/vehicles/ford-transit-global-search-2026.json",
+      "source_sha256": "0b3f9e240a3d8985d1e7dcd8bbaba5aed2c3d5db6d40882e3b15a36c44e49d2e",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/ford-transit-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "Ford Transit 2026: bukti ekspor dan pemeriksaan pembeli",
+      "content_key": "vehicles/ford-transit-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/ford-transit-global-search-2026.html",
+      "local_page_sha256": "c8de6aa6bcb59b649b2243411f63b424bdfa2e4a956e365738da9cec1144b936",
+      "source_file": "content/vehicles/ford-transit-global-search-2026.json",
+      "source_sha256": "0b3f9e240a3d8985d1e7dcd8bbaba5aed2c3d5db6d40882e3b15a36c44e49d2e",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/ford-transit-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "Ford Transit 2026: أدلة التصدير وفحوص المشتري",
+      "content_key": "vehicles/ford-transit-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/ford-transit-global-search-2026.html",
+      "local_page_sha256": "766c5208c09558d676c7ba3ce386f196f9f3fae6f04c714b4fd2d9922d0c032e",
       "source_file": "content/vehicles/ford-transit-global-search-2026.json",
       "source_sha256": "0b3f9e240a3d8985d1e7dcd8bbaba5aed2c3d5db6d40882e3b15a36c44e49d2e",
       "reasons": [

@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/hyundai-tucson-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -157,6 +157,151 @@
       "current_source": true,
       "local_page": "ja/vehicles/hyundai-tucson-global-search-2026.html",
       "local_page_sha256": "c5665d0234044cb0fe6f21d827ad47d32feb2a934d0ac2e87fa3d9b95533a385",
+      "source_file": "content/vehicles/hyundai-tucson-global-search-2026.json",
+      "source_sha256": "0a9818a9fcf3c9f0a3df418bf5f82ccc9138af6fb1911233a451fd6ebd100aa5",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/hyundai-tucson-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "2026 현대 투싼 수출 구매 가이드: 세 가지 파워트레인을 VIN으로 구분하기",
+      "content_key": "vehicles/hyundai-tucson-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/hyundai-tucson-global-search-2026.html",
+      "local_page_sha256": "b85e71ce0f40c821149cdc3ebf5ab41d5f3765d658f4315e4f69874e066938c3",
+      "source_file": "content/vehicles/hyundai-tucson-global-search-2026.json",
+      "source_sha256": "0a9818a9fcf3c9f0a3df418bf5f82ccc9138af6fb1911233a451fd6ebd100aa5",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/hyundai-tucson-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "Hồ sơ mua Hyundai TUCSON 2026 để xuất khẩu: ba hệ truyền động, quyết định bắt đầu từ VIN",
+      "content_key": "vehicles/hyundai-tucson-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/hyundai-tucson-global-search-2026.html",
+      "local_page_sha256": "b0fb99c2e94ed328b3e5629c6026229c8a3a261e6e06f15efbc718ec92e0fd73",
+      "source_file": "content/vehicles/hyundai-tucson-global-search-2026.json",
+      "source_sha256": "0a9818a9fcf3c9f0a3df418bf5f82ccc9138af6fb1911233a451fd6ebd100aa5",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/hyundai-tucson-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "คู่มือซื้อ Hyundai TUCSON ปี 2026 เพื่อส่งออก: สามระบบขับเคลื่อน เริ่มตัดสินใจจากเลขตัวถัง",
+      "content_key": "vehicles/hyundai-tucson-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/hyundai-tucson-global-search-2026.html",
+      "local_page_sha256": "d6a6fd1fa930a1cd5e4030d36db2d8aa7c0965a125baa2581dd46d23e1da4fa9",
+      "source_file": "content/vehicles/hyundai-tucson-global-search-2026.json",
+      "source_sha256": "0a9818a9fcf3c9f0a3df418bf5f82ccc9138af6fb1911233a451fd6ebd100aa5",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/hyundai-tucson-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "Profil pembelian Hyundai TUCSON 2026 untuk ekspor: tiga penggerak, satu keputusan berbasis VIN",
+      "content_key": "vehicles/hyundai-tucson-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/hyundai-tucson-global-search-2026.html",
+      "local_page_sha256": "1b784f48c7c94b37e9d4fab1b1c5a6b85d7b2d622b94c9a475750476fffbfbdf",
+      "source_file": "content/vehicles/hyundai-tucson-global-search-2026.json",
+      "source_sha256": "0a9818a9fcf3c9f0a3df418bf5f82ccc9138af6fb1911233a451fd6ebd100aa5",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/hyundai-tucson-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "ملف شراء هيونداي توسان 2026 للتصدير: ثلاث منظومات دفع وقرار يبدأ من رقم الهيكل",
+      "content_key": "vehicles/hyundai-tucson-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/hyundai-tucson-global-search-2026.html",
+      "local_page_sha256": "6e6ed65ca086caeffb9ef7e16bc44232dc2e6beeb6b4b5c3a72d4ac3bb7bd5d3",
       "source_file": "content/vehicles/hyundai-tucson-global-search-2026.json",
       "source_sha256": "0a9818a9fcf3c9f0a3df418bf5f82ccc9138af6fb1911233a451fd6ebd100aa5",
       "reasons": [

@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/toyota-corolla-cross-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -157,6 +157,151 @@
       "current_source": true,
       "local_page": "ja/vehicles/toyota-corolla-cross-global-search-2026.html",
       "local_page_sha256": "78a4a008bcebc1bb3eb00f4945c850eeeef1ada205a8a23ce41369b95dc55808",
+      "source_file": "content/vehicles/toyota-corolla-cross-global-search-2026.json",
+      "source_sha256": "f0ed6c920696b576cad6f45a5b47ccc68b4e2b2906a85916902047f92c2e171a",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/toyota-corolla-cross-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "Toyota Corolla Cross 2026년: 근거 중심 수출 구매 안내",
+      "content_key": "vehicles/toyota-corolla-cross-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/toyota-corolla-cross-global-search-2026.html",
+      "local_page_sha256": "92bcc5f93c147624e4e905d057c7680906ab9e74608583b9fdf8d251e1b3b238",
+      "source_file": "content/vehicles/toyota-corolla-cross-global-search-2026.json",
+      "source_sha256": "f0ed6c920696b576cad6f45a5b47ccc68b4e2b2906a85916902047f92c2e171a",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/toyota-corolla-cross-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "Toyota Corolla Cross 2026: hướng dẫn mua xe xuất khẩu dựa trên bằng chứng",
+      "content_key": "vehicles/toyota-corolla-cross-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/toyota-corolla-cross-global-search-2026.html",
+      "local_page_sha256": "d98a29f02f91679b13c3a66f4b9dadb2b08c4908086c3153fc7083c125a94e5d",
+      "source_file": "content/vehicles/toyota-corolla-cross-global-search-2026.json",
+      "source_sha256": "f0ed6c920696b576cad6f45a5b47ccc68b4e2b2906a85916902047f92c2e171a",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/toyota-corolla-cross-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "Toyota Corolla Cross 2026: คู่มือซื้อรถส่งออกที่อ้างอิงหลักฐาน",
+      "content_key": "vehicles/toyota-corolla-cross-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/toyota-corolla-cross-global-search-2026.html",
+      "local_page_sha256": "a72810e3cc23e71ad8976b4fea7e23433865c05a445cef6aedde9137a602c34a",
+      "source_file": "content/vehicles/toyota-corolla-cross-global-search-2026.json",
+      "source_sha256": "f0ed6c920696b576cad6f45a5b47ccc68b4e2b2906a85916902047f92c2e171a",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/toyota-corolla-cross-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "Toyota Corolla Cross 2026: panduan pembelian ekspor berbasis bukti",
+      "content_key": "vehicles/toyota-corolla-cross-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/toyota-corolla-cross-global-search-2026.html",
+      "local_page_sha256": "de470bd57862cdcc8364c0faaddc00c8ddabb3318e610c5da833e8bbc2eecc36",
+      "source_file": "content/vehicles/toyota-corolla-cross-global-search-2026.json",
+      "source_sha256": "f0ed6c920696b576cad6f45a5b47ccc68b4e2b2906a85916902047f92c2e171a",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/toyota-corolla-cross-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "Toyota Corolla Cross 2026: دليل شراء للتصدير قائم على الأدلة",
+      "content_key": "vehicles/toyota-corolla-cross-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/toyota-corolla-cross-global-search-2026.html",
+      "local_page_sha256": "3955f3c32c7dfcd1a1da74afaa7219fb6d44d9a2351893664d578db5082acfd5",
       "source_file": "content/vehicles/toyota-corolla-cross-global-search-2026.json",
       "source_sha256": "f0ed6c920696b576cad6f45a5b47ccc68b4e2b2906a85916902047f92c2e171a",
       "reasons": [

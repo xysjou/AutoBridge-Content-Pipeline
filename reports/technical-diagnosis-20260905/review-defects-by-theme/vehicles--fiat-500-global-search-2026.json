@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/fiat-500-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -167,6 +167,151 @@
         "generic_specification_label:1",
         "generic_specification_label:2",
         "generic_specification_label:3",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/fiat-500-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "Fiat 500 2026 수출 근거와 구매 확인",
+      "content_key": "vehicles/fiat-500-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/fiat-500-global-search-2026.html",
+      "local_page_sha256": "e01149c70fcf8e3d7ad1fa22b2131614c3a732d1176a3c3bc5cce411877da900",
+      "source_file": "content/vehicles/fiat-500-global-search-2026.json",
+      "source_sha256": "d9050d3d8d9a224dec20819030babf58a1d4b89ca6ab862627731b207bc6cb3e",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/fiat-500-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "Fiat 500 2026: bằng chứng xuất khẩu và kiểm tra trước khi mua",
+      "content_key": "vehicles/fiat-500-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/fiat-500-global-search-2026.html",
+      "local_page_sha256": "a70ad49eb54020531b48a8e90fc04ed1898f095eb836c66032f79e59641f357a",
+      "source_file": "content/vehicles/fiat-500-global-search-2026.json",
+      "source_sha256": "d9050d3d8d9a224dec20819030babf58a1d4b89ca6ab862627731b207bc6cb3e",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/fiat-500-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "Fiat 500 2026: หลักฐานส่งออกและรายการตรวจผู้ซื้อ",
+      "content_key": "vehicles/fiat-500-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/fiat-500-global-search-2026.html",
+      "local_page_sha256": "48c463418af5dc68905439ddfe97d4ea6933faf658bcd9aee3c2f42cc9b5e4ba",
+      "source_file": "content/vehicles/fiat-500-global-search-2026.json",
+      "source_sha256": "d9050d3d8d9a224dec20819030babf58a1d4b89ca6ab862627731b207bc6cb3e",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/fiat-500-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "Fiat 500 2026: bukti ekspor dan pemeriksaan pembeli",
+      "content_key": "vehicles/fiat-500-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/fiat-500-global-search-2026.html",
+      "local_page_sha256": "ebbeaaf4c217c731a81cf2acb4a276204f359a00344305d826f0c7824b52b56f",
+      "source_file": "content/vehicles/fiat-500-global-search-2026.json",
+      "source_sha256": "d9050d3d8d9a224dec20819030babf58a1d4b89ca6ab862627731b207bc6cb3e",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/fiat-500-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "Fiat 500 2026: أدلة التصدير وفحوص المشتري",
+      "content_key": "vehicles/fiat-500-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/fiat-500-global-search-2026.html",
+      "local_page_sha256": "8492fed7c7569be6c90c98691965e52dced12b653ea6e1a6e2d8fd12c0b1c206",
+      "source_file": "content/vehicles/fiat-500-global-search-2026.json",
+      "source_sha256": "d9050d3d8d9a224dec20819030babf58a1d4b89ca6ab862627731b207bc6cb3e",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
         "generic_specification_label:5"
       ],
       "status": "REVISION REQUIRED",

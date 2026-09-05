@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/byd-atto-3-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -152,6 +152,146 @@
       "current_source": true,
       "local_page": "ja/vehicles/byd-atto-3-global-search-2026.html",
       "local_page_sha256": "7073d71a17d29165919be20210c26eafffc2ffb73f72c06cc3f8e6e336b47772",
+      "source_file": "content/vehicles/byd-atto-3-global-search-2026.json",
+      "source_sha256": "074257438d482e21f5d0d3c4fee5a795203f76971c2ba189a800ab954d6952a5",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/byd-atto-3-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "BYD ATTO 3 수출 구매자 자료",
+      "content_key": "vehicles/byd-atto-3-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/byd-atto-3-global-search-2026.html",
+      "local_page_sha256": "4f2f0dec2855221f0f08235a8486dc5a9812a11162e3ea82c336653823f9e092",
+      "source_file": "content/vehicles/byd-atto-3-global-search-2026.json",
+      "source_sha256": "074257438d482e21f5d0d3c4fee5a795203f76971c2ba189a800ab954d6952a5",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/byd-atto-3-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "Tài liệu BYD ATTO 3 cho người mua xuất khẩu",
+      "content_key": "vehicles/byd-atto-3-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/byd-atto-3-global-search-2026.html",
+      "local_page_sha256": "ea4af369006f73dacf023816ebf121ef3d1e496398de20245576443b519662db",
+      "source_file": "content/vehicles/byd-atto-3-global-search-2026.json",
+      "source_sha256": "074257438d482e21f5d0d3c4fee5a795203f76971c2ba189a800ab954d6952a5",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/byd-atto-3-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "ข้อมูล BYD ATTO 3 สำหรับผู้ซื้อรถส่งออก",
+      "content_key": "vehicles/byd-atto-3-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/byd-atto-3-global-search-2026.html",
+      "local_page_sha256": "c40411ede4e5cc54ae6d3fec7fb7da562034ce3e41785e684a5534a008ba91b1",
+      "source_file": "content/vehicles/byd-atto-3-global-search-2026.json",
+      "source_sha256": "074257438d482e21f5d0d3c4fee5a795203f76971c2ba189a800ab954d6952a5",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/byd-atto-3-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "Referensi BYD ATTO 3 untuk pembeli ekspor",
+      "content_key": "vehicles/byd-atto-3-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/byd-atto-3-global-search-2026.html",
+      "local_page_sha256": "4403c672c126894a6268e74c7dd55af2666175f398f78be31def1221dcab8f69",
+      "source_file": "content/vehicles/byd-atto-3-global-search-2026.json",
+      "source_sha256": "074257438d482e21f5d0d3c4fee5a795203f76971c2ba189a800ab954d6952a5",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/byd-atto-3-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "مرجع BYD ATTO 3 لمشتري التصدير",
+      "content_key": "vehicles/byd-atto-3-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/byd-atto-3-global-search-2026.html",
+      "local_page_sha256": "61fdeac1fe1ba21c4c77b08ec3a17b2596367abd0e09724045f4c84a10a98ae7",
       "source_file": "content/vehicles/byd-atto-3-global-search-2026.json",
       "source_sha256": "074257438d482e21f5d0d3c4fee5a795203f76971c2ba189a800ab954d6952a5",
       "reasons": [

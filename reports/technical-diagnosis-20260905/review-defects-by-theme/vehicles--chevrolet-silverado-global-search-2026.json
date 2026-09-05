@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/chevrolet-silverado-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -157,6 +157,151 @@
       "current_source": true,
       "local_page": "ja/vehicles/chevrolet-silverado-global-search-2026.html",
       "local_page_sha256": "a8195e7bb06a3411b82b42556f7c2e18eacdb88926a752d1b116c1ae2fd0b5a1",
+      "source_file": "content/vehicles/chevrolet-silverado-global-search-2026.json",
+      "source_sha256": "7eabed022909cdbc4eb99bcadcc0acf4bd8bee5e38622f19f5a81292859b5d9a",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/chevrolet-silverado-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "Chevrolet Silverado 1500 2026 수출 근거와 구매 확인",
+      "content_key": "vehicles/chevrolet-silverado-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/chevrolet-silverado-global-search-2026.html",
+      "local_page_sha256": "398860fd91adadae6e5d6213e2b3e23db51471a3f904cc44877bed15ed95cb5b",
+      "source_file": "content/vehicles/chevrolet-silverado-global-search-2026.json",
+      "source_sha256": "7eabed022909cdbc4eb99bcadcc0acf4bd8bee5e38622f19f5a81292859b5d9a",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/chevrolet-silverado-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "Chevrolet Silverado 1500 2026: bằng chứng xuất khẩu và kiểm tra trước khi mua",
+      "content_key": "vehicles/chevrolet-silverado-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/chevrolet-silverado-global-search-2026.html",
+      "local_page_sha256": "a0aef45f4cc96fa5de9eefae78bc9fe749b1b4c309e880a06b508025b1cea30c",
+      "source_file": "content/vehicles/chevrolet-silverado-global-search-2026.json",
+      "source_sha256": "7eabed022909cdbc4eb99bcadcc0acf4bd8bee5e38622f19f5a81292859b5d9a",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/chevrolet-silverado-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "Chevrolet Silverado 1500 2026: หลักฐานส่งออกและรายการตรวจผู้ซื้อ",
+      "content_key": "vehicles/chevrolet-silverado-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/chevrolet-silverado-global-search-2026.html",
+      "local_page_sha256": "73a56aee117c8ee6028cc5204639f9d62636a3b0de189f562c841c67ad41548f",
+      "source_file": "content/vehicles/chevrolet-silverado-global-search-2026.json",
+      "source_sha256": "7eabed022909cdbc4eb99bcadcc0acf4bd8bee5e38622f19f5a81292859b5d9a",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/chevrolet-silverado-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "Chevrolet Silverado 1500 2026: bukti ekspor dan pemeriksaan pembeli",
+      "content_key": "vehicles/chevrolet-silverado-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/chevrolet-silverado-global-search-2026.html",
+      "local_page_sha256": "5de262c0c2fd68642a837136e743dca124393e8e1903c0b6d665eb5cde42321b",
+      "source_file": "content/vehicles/chevrolet-silverado-global-search-2026.json",
+      "source_sha256": "7eabed022909cdbc4eb99bcadcc0acf4bd8bee5e38622f19f5a81292859b5d9a",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/chevrolet-silverado-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "Chevrolet Silverado 1500 2026: أدلة التصدير وفحوص المشتري",
+      "content_key": "vehicles/chevrolet-silverado-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/chevrolet-silverado-global-search-2026.html",
+      "local_page_sha256": "2917513b9b2d3d25779bde852ffd9d429cdb81b57edb85a1b9741c1d6bc63fe1",
       "source_file": "content/vehicles/chevrolet-silverado-global-search-2026.json",
       "source_sha256": "7eabed022909cdbc4eb99bcadcc0acf4bd8bee5e38622f19f5a81292859b5d9a",
       "reasons": [

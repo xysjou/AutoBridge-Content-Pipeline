@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/ford-bronco-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -157,6 +157,151 @@
       "current_source": true,
       "local_page": "ja/vehicles/ford-bronco-global-search-2026.html",
       "local_page_sha256": "82612cc1cf06c43bd0baa5a332a2b44114c6669d03ca5e138b3178f2726853a9",
+      "source_file": "content/vehicles/ford-bronco-global-search-2026.json",
+      "source_sha256": "441e02f50a04810a9982245a2d9c2991b9f64e7fedac941d759affabcf9e6ee8",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/ford-bronco-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "Ford Bronco 2026 수출 근거와 구매 확인",
+      "content_key": "vehicles/ford-bronco-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/ford-bronco-global-search-2026.html",
+      "local_page_sha256": "97b50e41af1cd73c8c11792a1fa0556b8889d608b457b11bdcc0a499bef6b676",
+      "source_file": "content/vehicles/ford-bronco-global-search-2026.json",
+      "source_sha256": "441e02f50a04810a9982245a2d9c2991b9f64e7fedac941d759affabcf9e6ee8",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/ford-bronco-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "Ford Bronco 2026: bằng chứng xuất khẩu và kiểm tra trước khi mua",
+      "content_key": "vehicles/ford-bronco-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/ford-bronco-global-search-2026.html",
+      "local_page_sha256": "0aa298d87dd5f57f3df513f0ba961f6238285f0c9d89833eeed61e2275b684a2",
+      "source_file": "content/vehicles/ford-bronco-global-search-2026.json",
+      "source_sha256": "441e02f50a04810a9982245a2d9c2991b9f64e7fedac941d759affabcf9e6ee8",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/ford-bronco-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "Ford Bronco 2026: หลักฐานส่งออกและรายการตรวจผู้ซื้อ",
+      "content_key": "vehicles/ford-bronco-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/ford-bronco-global-search-2026.html",
+      "local_page_sha256": "8b639c26a62f47240614c69e920b33e3a727974e4414973f1d5de146c2c1ebba",
+      "source_file": "content/vehicles/ford-bronco-global-search-2026.json",
+      "source_sha256": "441e02f50a04810a9982245a2d9c2991b9f64e7fedac941d759affabcf9e6ee8",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/ford-bronco-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "Ford Bronco 2026: bukti ekspor dan pemeriksaan pembeli",
+      "content_key": "vehicles/ford-bronco-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/ford-bronco-global-search-2026.html",
+      "local_page_sha256": "37d712394d2d448e613aab8d80e23738d217ab0c2f64e2ab9d4a55a93a042ecb",
+      "source_file": "content/vehicles/ford-bronco-global-search-2026.json",
+      "source_sha256": "441e02f50a04810a9982245a2d9c2991b9f64e7fedac941d759affabcf9e6ee8",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/ford-bronco-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "Ford Bronco 2026: أدلة التصدير وفحوص المشتري",
+      "content_key": "vehicles/ford-bronco-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/ford-bronco-global-search-2026.html",
+      "local_page_sha256": "dfee20f5b9ecb2e717dcf43b49de002ea4ce2b35aeda27ef4d5d4063df00b424",
       "source_file": "content/vehicles/ford-bronco-global-search-2026.json",
       "source_sha256": "441e02f50a04810a9982245a2d9c2991b9f64e7fedac941d759affabcf9e6ee8",
       "reasons": [

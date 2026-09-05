@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/hyundai-elantra-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -157,6 +157,151 @@
       "current_source": true,
       "local_page": "ja/vehicles/hyundai-elantra-global-search-2026.html",
       "local_page_sha256": "8439a0123883501f76925c420f60b743261ef3de9634801a16c684e85affbc6b",
+      "source_file": "content/vehicles/hyundai-elantra-global-search-2026.json",
+      "source_sha256": "95f57976fac0f8104a233883cd5dfe18072c9cbde1139cdd72b5c873761f9838",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/hyundai-elantra-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "2026 현대 엘란트라 수출 구매 안내: 먼저 출고 시장을 확인하세요",
+      "content_key": "vehicles/hyundai-elantra-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/hyundai-elantra-global-search-2026.html",
+      "local_page_sha256": "c39dfbc9768ca5f4db4d17140cc9f42145b78c788dd81d34b7d59520f63e3f44",
+      "source_file": "content/vehicles/hyundai-elantra-global-search-2026.json",
+      "source_sha256": "95f57976fac0f8104a233883cd5dfe18072c9cbde1139cdd72b5c873761f9838",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/hyundai-elantra-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "Hyundai Elantra 2026 cho người mua xe xuất khẩu: xác minh thị trường trước",
+      "content_key": "vehicles/hyundai-elantra-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/hyundai-elantra-global-search-2026.html",
+      "local_page_sha256": "f016ada8cdf5752497171bdf288781d6e11859a27d9c56f1d7641e93fbff3a97",
+      "source_file": "content/vehicles/hyundai-elantra-global-search-2026.json",
+      "source_sha256": "95f57976fac0f8104a233883cd5dfe18072c9cbde1139cdd72b5c873761f9838",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/hyundai-elantra-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "คู่มือผู้ซื้อ Hyundai Elantra ปี 2026 เพื่อการส่งออก: ตรวจตลาดต้นทางก่อน",
+      "content_key": "vehicles/hyundai-elantra-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/hyundai-elantra-global-search-2026.html",
+      "local_page_sha256": "066ded3bc0503993e2d8404f0020ec8728cecc6ea913835822f8e94c4dd7f5f6",
+      "source_file": "content/vehicles/hyundai-elantra-global-search-2026.json",
+      "source_sha256": "95f57976fac0f8104a233883cd5dfe18072c9cbde1139cdd72b5c873761f9838",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/hyundai-elantra-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "Hyundai Elantra 2026 untuk ekspor: pastikan pasar asal lebih dahulu",
+      "content_key": "vehicles/hyundai-elantra-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/hyundai-elantra-global-search-2026.html",
+      "local_page_sha256": "ee9b2fdb73f8297a91db517ce3c19b9af41e7eaf1ca498a70f8d35bf057dfb4b",
+      "source_file": "content/vehicles/hyundai-elantra-global-search-2026.json",
+      "source_sha256": "95f57976fac0f8104a233883cd5dfe18072c9cbde1139cdd72b5c873761f9838",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/hyundai-elantra-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "هيونداي إلنترا 2026 للتصدير: ابدأ بالتحقق من سوق المنشأ",
+      "content_key": "vehicles/hyundai-elantra-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/hyundai-elantra-global-search-2026.html",
+      "local_page_sha256": "28596a2f08a27cebf0a421f6e3a6e1dbc866f1ab91b2980cdab3bb96e315a673",
       "source_file": "content/vehicles/hyundai-elantra-global-search-2026.json",
       "source_sha256": "95f57976fac0f8104a233883cd5dfe18072c9cbde1139cdd72b5c873761f9838",
       "reasons": [

@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/gac-aion-y-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -157,6 +157,151 @@
       "current_source": true,
       "local_page": "ja/vehicles/gac-aion-y-global-search-2026.html",
       "local_page_sha256": "61d087ee1f6904271ace78788eaba2525513e6d3e2fc9a29db57e8289b292b45",
+      "source_file": "content/vehicles/gac-aion-y-global-search-2026.json",
+      "source_sha256": "95295c304c09cb0492f425f16c820f3cbb8403e113e78e5b3cd2bf2b68751a54",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/gac-aion-y-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "GAC AION Y Plus: 2026년 수출 구매 검증 안내",
+      "content_key": "vehicles/gac-aion-y-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/gac-aion-y-global-search-2026.html",
+      "local_page_sha256": "208ceaee00e1b30e1be33a73b80c622f5807a469ef467c6124b715bb7083f0dc",
+      "source_file": "content/vehicles/gac-aion-y-global-search-2026.json",
+      "source_sha256": "95295c304c09cb0492f425f16c820f3cbb8403e113e78e5b3cd2bf2b68751a54",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/gac-aion-y-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "GAC AION Y Plus: hướng dẫn xác minh mua xe xuất khẩu 2026",
+      "content_key": "vehicles/gac-aion-y-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/gac-aion-y-global-search-2026.html",
+      "local_page_sha256": "5da36b5687d4d26f44af01b4ebbbd7fb7ca2c5b0eaef859dc9e9e9b0fc3ef242",
+      "source_file": "content/vehicles/gac-aion-y-global-search-2026.json",
+      "source_sha256": "95295c304c09cb0492f425f16c820f3cbb8403e113e78e5b3cd2bf2b68751a54",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/gac-aion-y-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "GAC AION Y Plus: คู่มือตรวจสอบการซื้อเพื่อส่งออกปี 2026",
+      "content_key": "vehicles/gac-aion-y-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/gac-aion-y-global-search-2026.html",
+      "local_page_sha256": "368359fcbc2307edad91475d45b5c758a96231ccb1b12611eee2b6dd0dedbd3a",
+      "source_file": "content/vehicles/gac-aion-y-global-search-2026.json",
+      "source_sha256": "95295c304c09cb0492f425f16c820f3cbb8403e113e78e5b3cd2bf2b68751a54",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/gac-aion-y-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "GAC AION Y Plus: panduan verifikasi pembelian ekspor 2026",
+      "content_key": "vehicles/gac-aion-y-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/gac-aion-y-global-search-2026.html",
+      "local_page_sha256": "15297800ec4376ad078c23baf3db6556b82790afa6c81b3766804a15fdcfbfa8",
+      "source_file": "content/vehicles/gac-aion-y-global-search-2026.json",
+      "source_sha256": "95295c304c09cb0492f425f16c820f3cbb8403e113e78e5b3cd2bf2b68751a54",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/gac-aion-y-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "GAC AION Y Plus: دليل التحقق من الشراء للتصدير لعام 2026",
+      "content_key": "vehicles/gac-aion-y-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/gac-aion-y-global-search-2026.html",
+      "local_page_sha256": "be3a5d635261d59b8356e125bd1de153f575131176ab48122515516eca52affa",
       "source_file": "content/vehicles/gac-aion-y-global-search-2026.json",
       "source_sha256": "95295c304c09cb0492f425f16c820f3cbb8403e113e78e5b3cd2bf2b68751a54",
       "reasons": [

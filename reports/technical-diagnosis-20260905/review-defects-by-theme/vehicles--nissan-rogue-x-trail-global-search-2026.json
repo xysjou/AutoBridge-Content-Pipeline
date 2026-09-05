@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/nissan-rogue-x-trail-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -145,6 +145,141 @@
       "current_source": true,
       "local_page": "ja/vehicles/nissan-rogue-x-trail-global-search-2026.html",
       "local_page_sha256": "db3dc5fd125db1a9034d5f462150b24db3025770c3859632ea21100193174a39",
+      "source_file": "content/vehicles/nissan-rogue-x-trail-global-search-2026.json",
+      "source_sha256": "11f54fd1d8ec2e3de9f22d3d3ea75e585ea5e2ed0321db09d79b45aa29ebd180",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/nissan-rogue-x-trail-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "2026 Nissan Rogue 수출 조달: VIN, VC-Turbo, AWD 확인",
+      "content_key": "vehicles/nissan-rogue-x-trail-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/nissan-rogue-x-trail-global-search-2026.html",
+      "local_page_sha256": "293daf06b4577ba2c1fbe479c5b6361a153614b0e3164faaf4f58590bf96f4ad",
+      "source_file": "content/vehicles/nissan-rogue-x-trail-global-search-2026.json",
+      "source_sha256": "11f54fd1d8ec2e3de9f22d3d3ea75e585ea5e2ed0321db09d79b45aa29ebd180",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/nissan-rogue-x-trail-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "Nissan Rogue 2026 để xuất khẩu: kiểm tra VIN, VC-Turbo và AWD",
+      "content_key": "vehicles/nissan-rogue-x-trail-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/nissan-rogue-x-trail-global-search-2026.html",
+      "local_page_sha256": "cf76d8d93cf844eea276b138328bbc20c7800b94bff47ef3f8ba1868dfbf3375",
+      "source_file": "content/vehicles/nissan-rogue-x-trail-global-search-2026.json",
+      "source_sha256": "11f54fd1d8ec2e3de9f22d3d3ea75e585ea5e2ed0321db09d79b45aa29ebd180",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/nissan-rogue-x-trail-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "Nissan Rogue ปี 2026 สำหรับส่งออก: ตรวจ VIN, VC-Turbo และ AWD",
+      "content_key": "vehicles/nissan-rogue-x-trail-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/nissan-rogue-x-trail-global-search-2026.html",
+      "local_page_sha256": "f58bc72fc98929c0eb3f06e2d5acd92887c1724609f03f01c3aed270e2d881f8",
+      "source_file": "content/vehicles/nissan-rogue-x-trail-global-search-2026.json",
+      "source_sha256": "11f54fd1d8ec2e3de9f22d3d3ea75e585ea5e2ed0321db09d79b45aa29ebd180",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/nissan-rogue-x-trail-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "Nissan Rogue 2026 untuk ekspor: periksa VIN, VC-Turbo dan AWD",
+      "content_key": "vehicles/nissan-rogue-x-trail-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/nissan-rogue-x-trail-global-search-2026.html",
+      "local_page_sha256": "fc96bcd3f0f7d9bfafa1a8ef82803ce490965457b797f867da12efb50b442eb3",
+      "source_file": "content/vehicles/nissan-rogue-x-trail-global-search-2026.json",
+      "source_sha256": "11f54fd1d8ec2e3de9f22d3d3ea75e585ea5e2ed0321db09d79b45aa29ebd180",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/nissan-rogue-x-trail-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "نيسان Rogue 2026 للتصدير: التحقق من VIN وVC-Turbo والدفع الكلي",
+      "content_key": "vehicles/nissan-rogue-x-trail-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/nissan-rogue-x-trail-global-search-2026.html",
+      "local_page_sha256": "efc5b106f68233b220c470f218e4673e62d7820a31834760b9a0b6d488a6c40f",
       "source_file": "content/vehicles/nissan-rogue-x-trail-global-search-2026.json",
       "source_sha256": "11f54fd1d8ec2e3de9f22d3d3ea75e585ea5e2ed0321db09d79b45aa29ebd180",
       "reasons": [

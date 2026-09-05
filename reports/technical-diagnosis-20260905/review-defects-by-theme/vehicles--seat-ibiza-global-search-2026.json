@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/seat-ibiza-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -156,6 +156,146 @@
       "current_source": true,
       "local_page": "ja/vehicles/seat-ibiza-global-search-2026.html",
       "local_page_sha256": "c21ad62793a792b95aa545957b5cec13142616fc913913b567613d80f2106f93",
+      "source_file": "content/vehicles/seat-ibiza-global-search-2026.json",
+      "source_sha256": "03f8e2ce9416351e44f8b2155ebb2313db79e6cfcbf6432a9af0862a68509263",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/seat-ibiza-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "SEAT Ibiza 2026년: 근거 중심 수출 구매 안내",
+      "content_key": "vehicles/seat-ibiza-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/seat-ibiza-global-search-2026.html",
+      "local_page_sha256": "d0c58003aa828dae59cba14f3dc5b483fd09c34f7faf3141923be87ea46605ea",
+      "source_file": "content/vehicles/seat-ibiza-global-search-2026.json",
+      "source_sha256": "03f8e2ce9416351e44f8b2155ebb2313db79e6cfcbf6432a9af0862a68509263",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/seat-ibiza-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "SEAT Ibiza 2026: hướng dẫn mua xe xuất khẩu dựa trên bằng chứng",
+      "content_key": "vehicles/seat-ibiza-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/seat-ibiza-global-search-2026.html",
+      "local_page_sha256": "a9272ccc5377385de3f6b2bab0b317c60fb84f0a733a00283edc604e10927030",
+      "source_file": "content/vehicles/seat-ibiza-global-search-2026.json",
+      "source_sha256": "03f8e2ce9416351e44f8b2155ebb2313db79e6cfcbf6432a9af0862a68509263",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/seat-ibiza-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "SEAT Ibiza 2026: คู่มือซื้อรถส่งออกที่อ้างอิงหลักฐาน",
+      "content_key": "vehicles/seat-ibiza-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/seat-ibiza-global-search-2026.html",
+      "local_page_sha256": "4351593b81175aaa237d750062d8b9d4f7935c9dbbfdd9fda645af7bbb3d0019",
+      "source_file": "content/vehicles/seat-ibiza-global-search-2026.json",
+      "source_sha256": "03f8e2ce9416351e44f8b2155ebb2313db79e6cfcbf6432a9af0862a68509263",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/seat-ibiza-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "SEAT Ibiza 2026: panduan pembelian ekspor berbasis bukti",
+      "content_key": "vehicles/seat-ibiza-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/seat-ibiza-global-search-2026.html",
+      "local_page_sha256": "e7a577f54c8c74f473a11440872768efd68d090364b472eb2ea88663011a6c33",
+      "source_file": "content/vehicles/seat-ibiza-global-search-2026.json",
+      "source_sha256": "03f8e2ce9416351e44f8b2155ebb2313db79e6cfcbf6432a9af0862a68509263",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/seat-ibiza-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "SEAT Ibiza 2026: دليل شراء للتصدير قائم على الأدلة",
+      "content_key": "vehicles/seat-ibiza-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/seat-ibiza-global-search-2026.html",
+      "local_page_sha256": "6eb0e9c24aa77e48ff904d3edea4d5bce3aeabbab2fb764cab22887d843d543d",
       "source_file": "content/vehicles/seat-ibiza-global-search-2026.json",
       "source_sha256": "03f8e2ce9416351e44f8b2155ebb2313db79e6cfcbf6432a9af0862a68509263",
       "reasons": [

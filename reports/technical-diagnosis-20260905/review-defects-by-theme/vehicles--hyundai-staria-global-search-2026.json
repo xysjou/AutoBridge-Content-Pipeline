@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/hyundai-staria-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -157,6 +157,151 @@
       "current_source": true,
       "local_page": "ja/vehicles/hyundai-staria-global-search-2026.html",
       "local_page_sha256": "c4992cfa6f6dfdeb5df6d6630cbd487a7a09d7a445cd7231614d111446cf2b5d",
+      "source_file": "content/vehicles/hyundai-staria-global-search-2026.json",
+      "source_sha256": "23f2f2d4724d9cdfd206dc5da2b00250a66c80402ac37183bb1f3f2de226bc1a",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/hyundai-staria-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "현대 스타리아 2026 수출 구매 가이드: 판매 시장부터 확인하기",
+      "content_key": "vehicles/hyundai-staria-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/hyundai-staria-global-search-2026.html",
+      "local_page_sha256": "78122b075d022ef1bae6bd8b393f3b2ab89e782c299200fea207743682b119d4",
+      "source_file": "content/vehicles/hyundai-staria-global-search-2026.json",
+      "source_sha256": "23f2f2d4724d9cdfd206dc5da2b00250a66c80402ac37183bb1f3f2de226bc1a",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/hyundai-staria-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "Hồ sơ mua Hyundai Staria 2026 để xuất khẩu: kiểm tra thị trường trước",
+      "content_key": "vehicles/hyundai-staria-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/hyundai-staria-global-search-2026.html",
+      "local_page_sha256": "85340c88bbe16ffead00bd11eedbb1a83050fdb2f2e997bb33c785ab1318f814",
+      "source_file": "content/vehicles/hyundai-staria-global-search-2026.json",
+      "source_sha256": "23f2f2d4724d9cdfd206dc5da2b00250a66c80402ac37183bb1f3f2de226bc1a",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/hyundai-staria-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "คู่มือซื้อ Hyundai Staria 2026 เพื่อส่งออก: ตรวจตลาดต้นทางก่อน",
+      "content_key": "vehicles/hyundai-staria-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/hyundai-staria-global-search-2026.html",
+      "local_page_sha256": "38d57752673490e53d53d8410e5ba73807bd5abd3a2097063365670724ef76c5",
+      "source_file": "content/vehicles/hyundai-staria-global-search-2026.json",
+      "source_sha256": "23f2f2d4724d9cdfd206dc5da2b00250a66c80402ac37183bb1f3f2de226bc1a",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/hyundai-staria-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "Profil pembeli ekspor Hyundai Staria 2026: periksa pasar asal dahulu",
+      "content_key": "vehicles/hyundai-staria-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/hyundai-staria-global-search-2026.html",
+      "local_page_sha256": "ca3a6811ff02c72cd49b9507bd6a0f52990116e8c507cfe1e4121cc7aa148ed1",
+      "source_file": "content/vehicles/hyundai-staria-global-search-2026.json",
+      "source_sha256": "23f2f2d4724d9cdfd206dc5da2b00250a66c80402ac37183bb1f3f2de226bc1a",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/hyundai-staria-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "ملف شراء هيونداي ستاريا 2026 للتصدير: تحقّق من السوق أولاً",
+      "content_key": "vehicles/hyundai-staria-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/hyundai-staria-global-search-2026.html",
+      "local_page_sha256": "d48baf30d8f075600f53efe34487773f19821944db4fbabd4bc1257e81b513dc",
       "source_file": "content/vehicles/hyundai-staria-global-search-2026.json",
       "source_sha256": "23f2f2d4724d9cdfd206dc5da2b00250a66c80402ac37183bb1f3f2de226bc1a",
       "reasons": [

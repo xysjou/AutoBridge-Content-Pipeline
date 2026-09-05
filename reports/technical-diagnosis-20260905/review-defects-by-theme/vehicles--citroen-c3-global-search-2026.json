@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/citroen-c3-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -167,6 +167,151 @@
         "generic_specification_label:1",
         "generic_specification_label:2",
         "generic_specification_label:3",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/citroen-c3-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "Citroën C3 2026 수출 근거와 구매 확인",
+      "content_key": "vehicles/citroen-c3-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/citroen-c3-global-search-2026.html",
+      "local_page_sha256": "1a38395a28b77299f4854b315bedf73aee21d736b2c2f8f04a9274f805bdd717",
+      "source_file": "content/vehicles/citroen-c3-global-search-2026.json",
+      "source_sha256": "732db07f73b44b193747fc5e69803a9fcb4c41abc8ac9589667b5be9f008fbe7",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/citroen-c3-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "Citroën C3 2026: bằng chứng xuất khẩu và kiểm tra trước khi mua",
+      "content_key": "vehicles/citroen-c3-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/citroen-c3-global-search-2026.html",
+      "local_page_sha256": "d37a4dd8cb4713080f875585d765ef9dc12238ff488b56ddff74db40fa28bd31",
+      "source_file": "content/vehicles/citroen-c3-global-search-2026.json",
+      "source_sha256": "732db07f73b44b193747fc5e69803a9fcb4c41abc8ac9589667b5be9f008fbe7",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/citroen-c3-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "Citroën C3 2026: หลักฐานส่งออกและรายการตรวจผู้ซื้อ",
+      "content_key": "vehicles/citroen-c3-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/citroen-c3-global-search-2026.html",
+      "local_page_sha256": "93b5772c2d665649bd4126a553d82bd9e42da76026575ed595eaa5051f4bfdd9",
+      "source_file": "content/vehicles/citroen-c3-global-search-2026.json",
+      "source_sha256": "732db07f73b44b193747fc5e69803a9fcb4c41abc8ac9589667b5be9f008fbe7",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/citroen-c3-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "Citroën C3 2026: bukti ekspor dan pemeriksaan pembeli",
+      "content_key": "vehicles/citroen-c3-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/citroen-c3-global-search-2026.html",
+      "local_page_sha256": "5d92b0416fb57b23f612f80193a19aef1d627915d9e0bd8717d9947cc1dc6278",
+      "source_file": "content/vehicles/citroen-c3-global-search-2026.json",
+      "source_sha256": "732db07f73b44b193747fc5e69803a9fcb4c41abc8ac9589667b5be9f008fbe7",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/citroen-c3-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "Citroën C3 2026: أدلة التصدير وفحوص المشتري",
+      "content_key": "vehicles/citroen-c3-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/citroen-c3-global-search-2026.html",
+      "local_page_sha256": "3ef1c9b755d7f1da9f38a1b77aec982bf24f2cb86d5de43515b570c8b7f05161",
+      "source_file": "content/vehicles/citroen-c3-global-search-2026.json",
+      "source_sha256": "732db07f73b44b193747fc5e69803a9fcb4c41abc8ac9589667b5be9f008fbe7",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
         "generic_specification_label:5"
       ],
       "status": "REVISION REQUIRED",

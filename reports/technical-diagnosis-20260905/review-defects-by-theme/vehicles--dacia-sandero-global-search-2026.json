@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/dacia-sandero-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -157,6 +157,151 @@
       "current_source": true,
       "local_page": "ja/vehicles/dacia-sandero-global-search-2026.html",
       "local_page_sha256": "cc70d29b877718353137253cec2470ff7bb152b7372366f3e5da6dffbf3b0a90",
+      "source_file": "content/vehicles/dacia-sandero-global-search-2026.json",
+      "source_sha256": "7e97554564b26c499ec21df5252a1778fb91e03cc79a4ea5b1fb0deb1118527b",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/dacia-sandero-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "Dacia Sandero 2026 수출 근거와 구매 확인",
+      "content_key": "vehicles/dacia-sandero-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/dacia-sandero-global-search-2026.html",
+      "local_page_sha256": "2f036c71bb47ee99c9252c3be0358e6d85d0e3b3185c401d12f155dadeb837a9",
+      "source_file": "content/vehicles/dacia-sandero-global-search-2026.json",
+      "source_sha256": "7e97554564b26c499ec21df5252a1778fb91e03cc79a4ea5b1fb0deb1118527b",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/dacia-sandero-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "Dacia Sandero 2026: bằng chứng xuất khẩu và kiểm tra trước khi mua",
+      "content_key": "vehicles/dacia-sandero-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/dacia-sandero-global-search-2026.html",
+      "local_page_sha256": "88844c7731cb2f5bcfa023f629fbd7c711cd46c3e117151057706a18f5ec53c6",
+      "source_file": "content/vehicles/dacia-sandero-global-search-2026.json",
+      "source_sha256": "7e97554564b26c499ec21df5252a1778fb91e03cc79a4ea5b1fb0deb1118527b",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/dacia-sandero-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "Dacia Sandero 2026: หลักฐานส่งออกและรายการตรวจผู้ซื้อ",
+      "content_key": "vehicles/dacia-sandero-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/dacia-sandero-global-search-2026.html",
+      "local_page_sha256": "2b462f3b32d2980c29ac1d733100d71addbfc2e779c148863699ba74029380b2",
+      "source_file": "content/vehicles/dacia-sandero-global-search-2026.json",
+      "source_sha256": "7e97554564b26c499ec21df5252a1778fb91e03cc79a4ea5b1fb0deb1118527b",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/dacia-sandero-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "Dacia Sandero 2026: bukti ekspor dan pemeriksaan pembeli",
+      "content_key": "vehicles/dacia-sandero-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/dacia-sandero-global-search-2026.html",
+      "local_page_sha256": "01b6681808fe5a19086649726315852dbab547339cc9e9fea7a1d1abeb1aa8b6",
+      "source_file": "content/vehicles/dacia-sandero-global-search-2026.json",
+      "source_sha256": "7e97554564b26c499ec21df5252a1778fb91e03cc79a4ea5b1fb0deb1118527b",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/dacia-sandero-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "Dacia Sandero 2026: أدلة التصدير وفحوص المشتري",
+      "content_key": "vehicles/dacia-sandero-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/dacia-sandero-global-search-2026.html",
+      "local_page_sha256": "ec47b9596970c031c12459c24825f831181864000bb0995deb8f03b5adae06ef",
       "source_file": "content/vehicles/dacia-sandero-global-search-2026.json",
       "source_sha256": "7e97554564b26c499ec21df5252a1778fb91e03cc79a4ea5b1fb0deb1118527b",
       "reasons": [

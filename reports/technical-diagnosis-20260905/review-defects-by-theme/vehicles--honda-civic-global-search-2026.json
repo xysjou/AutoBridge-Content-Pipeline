@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/honda-civic-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -154,6 +154,141 @@
       "current_source": true,
       "local_page": "ja/vehicles/honda-civic-global-search-2026.html",
       "local_page_sha256": "c14c647844f817b1ffb64066fd02bf0f086c159d92b3e1d5381b1505f1ac13cf",
+      "source_file": "content/vehicles/honda-civic-global-search-2026.json",
+      "source_sha256": "ccca456ccfe78650908ba78d78826a6b26062025d1913f1e01081516c2935e90",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/honda-civic-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "Honda Civic 2026 수출 구매 안내: 출고 시장부터 확인",
+      "content_key": "vehicles/honda-civic-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/honda-civic-global-search-2026.html",
+      "local_page_sha256": "997b5f172de5d84f0df0e6602ffea28959b4b1fa39023186e2d4a0e1a1d3d35d",
+      "source_file": "content/vehicles/honda-civic-global-search-2026.json",
+      "source_sha256": "ccca456ccfe78650908ba78d78826a6b26062025d1913f1e01081516c2935e90",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/honda-civic-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "Honda Civic 2026 dành cho người mua xuất khẩu: xác định thị trường trước",
+      "content_key": "vehicles/honda-civic-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/honda-civic-global-search-2026.html",
+      "local_page_sha256": "e259df0ed60550630204c590e2ed5f1140f14be49f12a668a83067c72a518d4c",
+      "source_file": "content/vehicles/honda-civic-global-search-2026.json",
+      "source_sha256": "ccca456ccfe78650908ba78d78826a6b26062025d1913f1e01081516c2935e90",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/honda-civic-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "Honda Civic 2026 สำหรับผู้ซื้อส่งออก: ตรวจตลาดต้นทางก่อน",
+      "content_key": "vehicles/honda-civic-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/honda-civic-global-search-2026.html",
+      "local_page_sha256": "fd7237339ca96d3307f72bcbdfe7b3389a05e04fc93e49d5610398424aa9743a",
+      "source_file": "content/vehicles/honda-civic-global-search-2026.json",
+      "source_sha256": "ccca456ccfe78650908ba78d78826a6b26062025d1913f1e01081516c2935e90",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/honda-civic-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "Honda Civic 2026 untuk pembeli ekspor: pastikan pasar asal dahulu",
+      "content_key": "vehicles/honda-civic-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/honda-civic-global-search-2026.html",
+      "local_page_sha256": "22d047884782f65a9ea754cac2519d65d8cc8fd12b73fae30d85fbcb215d8873",
+      "source_file": "content/vehicles/honda-civic-global-search-2026.json",
+      "source_sha256": "ccca456ccfe78650908ba78d78826a6b26062025d1913f1e01081516c2935e90",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/honda-civic-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "دليل مشتري Honda Civic 2026 للتصدير: حدّد السوق أولاً",
+      "content_key": "vehicles/honda-civic-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/honda-civic-global-search-2026.html",
+      "local_page_sha256": "0ab5b56e90cbb4a1d91d05e70bbccff6abbb64b9d2d1e905eaf4e0c6cad4b8af",
       "source_file": "content/vehicles/honda-civic-global-search-2026.json",
       "source_sha256": "ccca456ccfe78650908ba78d78826a6b26062025d1913f1e01081516c2935e90",
       "reasons": [

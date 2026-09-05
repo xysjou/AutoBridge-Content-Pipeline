@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/nissan-sentra-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -159,6 +159,151 @@
       "current_source": true,
       "local_page": "ja/vehicles/nissan-sentra-global-search-2026.html",
       "local_page_sha256": "01e4adc0b12bbf8696b1f4eafda33509a93d6bb2bbbdc7072d133f50c8c8d9ab",
+      "source_file": "content/vehicles/nissan-sentra-global-search-2026.json",
+      "source_sha256": "e2bdb22ed1204401707453a3e79805bb7a48f189cfe2dba812046aa0109d1106",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/nissan-sentra-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "Nissan Sentra 2026: 수출 구매자용 프로필",
+      "content_key": "vehicles/nissan-sentra-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/nissan-sentra-global-search-2026.html",
+      "local_page_sha256": "0fdb50ad223124cc328e6a7017742e2abf739238a83bbb8a90583c662f03cd7a",
+      "source_file": "content/vehicles/nissan-sentra-global-search-2026.json",
+      "source_sha256": "e2bdb22ed1204401707453a3e79805bb7a48f189cfe2dba812046aa0109d1106",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/nissan-sentra-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "Nissan Sentra 2026: Hồ sơ dành cho người mua xuất khẩu",
+      "content_key": "vehicles/nissan-sentra-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/nissan-sentra-global-search-2026.html",
+      "local_page_sha256": "110b019d18de3bda05ffc0b825eca827cd27ec3e24faafbdc8741f4803225115",
+      "source_file": "content/vehicles/nissan-sentra-global-search-2026.json",
+      "source_sha256": "e2bdb22ed1204401707453a3e79805bb7a48f189cfe2dba812046aa0109d1106",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/nissan-sentra-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "Nissan Sentra 2026: ข้อมูลสำหรับผู้ซื้อเพื่อการส่งออก",
+      "content_key": "vehicles/nissan-sentra-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/nissan-sentra-global-search-2026.html",
+      "local_page_sha256": "2adde1d99590fd8adb7371931224334986391e21ff0b211875d0a16fe9352322",
+      "source_file": "content/vehicles/nissan-sentra-global-search-2026.json",
+      "source_sha256": "e2bdb22ed1204401707453a3e79805bb7a48f189cfe2dba812046aa0109d1106",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/nissan-sentra-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "Nissan Sentra 2026: Profil pembeli ekspor",
+      "content_key": "vehicles/nissan-sentra-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/nissan-sentra-global-search-2026.html",
+      "local_page_sha256": "3ae797a8c58b209666aaf0e2b83fadeb3dc6e1fd93125c5e119defe7a06118f8",
+      "source_file": "content/vehicles/nissan-sentra-global-search-2026.json",
+      "source_sha256": "e2bdb22ed1204401707453a3e79805bb7a48f189cfe2dba812046aa0109d1106",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/nissan-sentra-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "Nissan Sentra 2026: ملف لمشتري التصدير",
+      "content_key": "vehicles/nissan-sentra-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/nissan-sentra-global-search-2026.html",
+      "local_page_sha256": "4c4ccc2adbfdb0f3d3cf64956d45461ef6c4ea117ab6f07c7fbbc3f0681f276b",
       "source_file": "content/vehicles/nissan-sentra-global-search-2026.json",
       "source_sha256": "e2bdb22ed1204401707453a3e79805bb7a48f189cfe2dba812046aa0109d1106",
       "reasons": [

@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/gmc-sierra-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -157,6 +157,151 @@
       "current_source": true,
       "local_page": "ja/vehicles/gmc-sierra-global-search-2026.html",
       "local_page_sha256": "c38db9d1762f1a4c601f09ccea98251a0d84f7f184bc278438a4d1e08ae5d306",
+      "source_file": "content/vehicles/gmc-sierra-global-search-2026.json",
+      "source_sha256": "13cfd6a81cf5f52499f4bbe3ebcc23d1d5803dd01d30004c26ce6b4ed01b8f2a",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/gmc-sierra-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "2026 GMC Sierra 1500: 2026년 수출 구매 검증 안내",
+      "content_key": "vehicles/gmc-sierra-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/gmc-sierra-global-search-2026.html",
+      "local_page_sha256": "f67ae37377b82728235d8a85240d976d1ff2d6d85de9a5f45e978283edd6cf35",
+      "source_file": "content/vehicles/gmc-sierra-global-search-2026.json",
+      "source_sha256": "13cfd6a81cf5f52499f4bbe3ebcc23d1d5803dd01d30004c26ce6b4ed01b8f2a",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/gmc-sierra-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "2026 GMC Sierra 1500: hướng dẫn xác minh mua xe xuất khẩu 2026",
+      "content_key": "vehicles/gmc-sierra-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/gmc-sierra-global-search-2026.html",
+      "local_page_sha256": "2f7d5ddb60980b7031b54ff07026caa9198388458185a5f983d6b7c1bb59f3ea",
+      "source_file": "content/vehicles/gmc-sierra-global-search-2026.json",
+      "source_sha256": "13cfd6a81cf5f52499f4bbe3ebcc23d1d5803dd01d30004c26ce6b4ed01b8f2a",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/gmc-sierra-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "2026 GMC Sierra 1500: คู่มือตรวจสอบการซื้อเพื่อส่งออกปี 2026",
+      "content_key": "vehicles/gmc-sierra-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/gmc-sierra-global-search-2026.html",
+      "local_page_sha256": "51225157cd404291745580ddb7da8a2ef906564a8707145017610774d8ff0ffe",
+      "source_file": "content/vehicles/gmc-sierra-global-search-2026.json",
+      "source_sha256": "13cfd6a81cf5f52499f4bbe3ebcc23d1d5803dd01d30004c26ce6b4ed01b8f2a",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/gmc-sierra-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "2026 GMC Sierra 1500: panduan verifikasi pembelian ekspor 2026",
+      "content_key": "vehicles/gmc-sierra-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/gmc-sierra-global-search-2026.html",
+      "local_page_sha256": "b526bf4a3b01ef7890647f6c16ff241ed88fefea0ef2cd3070ca060244c85269",
+      "source_file": "content/vehicles/gmc-sierra-global-search-2026.json",
+      "source_sha256": "13cfd6a81cf5f52499f4bbe3ebcc23d1d5803dd01d30004c26ce6b4ed01b8f2a",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/gmc-sierra-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "2026 GMC Sierra 1500: دليل التحقق من الشراء للتصدير لعام 2026",
+      "content_key": "vehicles/gmc-sierra-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/gmc-sierra-global-search-2026.html",
+      "local_page_sha256": "f6e37c3d4dca012ff019503d4559f522b37bb4d5ef079b78fcbad59ca6d4ffec",
       "source_file": "content/vehicles/gmc-sierra-global-search-2026.json",
       "source_sha256": "13cfd6a81cf5f52499f4bbe3ebcc23d1d5803dd01d30004c26ce6b4ed01b8f2a",
       "reasons": [

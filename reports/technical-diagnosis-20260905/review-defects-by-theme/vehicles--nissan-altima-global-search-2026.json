@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/nissan-altima-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -159,6 +159,151 @@
       "current_source": true,
       "local_page": "ja/vehicles/nissan-altima-global-search-2026.html",
       "local_page_sha256": "804710f61a7fde09507c81f5a340663c9c0e9e7212b96b38645ec55e91e4548f",
+      "source_file": "content/vehicles/nissan-altima-global-search-2026.json",
+      "source_sha256": "cf7470e5482730bbdf85b3e5896d9b6779f5ac5e100116ad2a987f1c863f6e59",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/nissan-altima-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "Nissan Altima 2026: 수출 구매자용 프로필",
+      "content_key": "vehicles/nissan-altima-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/nissan-altima-global-search-2026.html",
+      "local_page_sha256": "ba2e901595d00400a49123adf1358fc3cc43fd207cc7f69a96ffb1460d72d481",
+      "source_file": "content/vehicles/nissan-altima-global-search-2026.json",
+      "source_sha256": "cf7470e5482730bbdf85b3e5896d9b6779f5ac5e100116ad2a987f1c863f6e59",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/nissan-altima-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "Nissan Altima 2026: Hồ sơ dành cho người mua xuất khẩu",
+      "content_key": "vehicles/nissan-altima-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/nissan-altima-global-search-2026.html",
+      "local_page_sha256": "cf2cb60d9303f67c0a182ce336c4f68d3659b95cf433a3ca87b3da2c483a5743",
+      "source_file": "content/vehicles/nissan-altima-global-search-2026.json",
+      "source_sha256": "cf7470e5482730bbdf85b3e5896d9b6779f5ac5e100116ad2a987f1c863f6e59",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/nissan-altima-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "Nissan Altima 2026: ข้อมูลสำหรับผู้ซื้อเพื่อการส่งออก",
+      "content_key": "vehicles/nissan-altima-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/nissan-altima-global-search-2026.html",
+      "local_page_sha256": "c70e238b26d99a83712b82e66ead9fe35b7e560eea9694ddb016e6eb26087be5",
+      "source_file": "content/vehicles/nissan-altima-global-search-2026.json",
+      "source_sha256": "cf7470e5482730bbdf85b3e5896d9b6779f5ac5e100116ad2a987f1c863f6e59",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/nissan-altima-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "Nissan Altima 2026: Profil pembeli ekspor",
+      "content_key": "vehicles/nissan-altima-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/nissan-altima-global-search-2026.html",
+      "local_page_sha256": "ff2c9d37ef980266fd127518cd8b05a411de1629cd976cb4bcb096ddb876f246",
+      "source_file": "content/vehicles/nissan-altima-global-search-2026.json",
+      "source_sha256": "cf7470e5482730bbdf85b3e5896d9b6779f5ac5e100116ad2a987f1c863f6e59",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/nissan-altima-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "Nissan Altima 2026: ملف لمشتري التصدير",
+      "content_key": "vehicles/nissan-altima-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/nissan-altima-global-search-2026.html",
+      "local_page_sha256": "51eb4cccdbebc77e0880e708b4a65da237f56af6077e3a6f4ca8d0081a07c411",
       "source_file": "content/vehicles/nissan-altima-global-search-2026.json",
       "source_sha256": "cf7470e5482730bbdf85b3e5896d9b6779f5ac5e100116ad2a987f1c863f6e59",
       "reasons": [

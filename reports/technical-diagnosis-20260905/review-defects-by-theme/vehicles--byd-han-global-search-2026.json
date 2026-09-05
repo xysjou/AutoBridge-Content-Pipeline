@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/byd-han-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -152,6 +152,146 @@
       "current_source": true,
       "local_page": "ja/vehicles/byd-han-global-search-2026.html",
       "local_page_sha256": "ad2d15e2e5f3bd617e5fbdee6deefff57c7a2bd8b13eb1eb8225e102c1cb4e16",
+      "source_file": "content/vehicles/byd-han-global-search-2026.json",
+      "source_sha256": "c19042e12732bd69921363856438187c48d6cddb046bcadb3c6cb6c393edd8ae",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/byd-han-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "BYD HAN 2026: 수출 구매 전 확인할 근거",
+      "content_key": "vehicles/byd-han-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/byd-han-global-search-2026.html",
+      "local_page_sha256": "3ac2c3652aeb7e236763c9a9405ab79232d2e88a5e29bd02dcbc58b7cf8a6eab",
+      "source_file": "content/vehicles/byd-han-global-search-2026.json",
+      "source_sha256": "c19042e12732bd69921363856438187c48d6cddb046bcadb3c6cb6c393edd8ae",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/byd-han-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "BYD HAN 2026: bằng chứng cần kiểm tra trước khi xuất khẩu",
+      "content_key": "vehicles/byd-han-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/byd-han-global-search-2026.html",
+      "local_page_sha256": "2ed49173078e21b9d773a952902d10187e58ebf3c04b5b053a34b666640a7df1",
+      "source_file": "content/vehicles/byd-han-global-search-2026.json",
+      "source_sha256": "c19042e12732bd69921363856438187c48d6cddb046bcadb3c6cb6c393edd8ae",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/byd-han-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "BYD HAN 2026: หลักฐานที่ต้องตรวจสอบก่อนซื้อเพื่อส่งออก",
+      "content_key": "vehicles/byd-han-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/byd-han-global-search-2026.html",
+      "local_page_sha256": "161f0a0fe2142efe40f5c59c4db43c84afd4f6d6500679f513c022cd591d2c64",
+      "source_file": "content/vehicles/byd-han-global-search-2026.json",
+      "source_sha256": "c19042e12732bd69921363856438187c48d6cddb046bcadb3c6cb6c393edd8ae",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/byd-han-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "BYD HAN 2026: bukti sebelum membeli untuk ekspor",
+      "content_key": "vehicles/byd-han-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/byd-han-global-search-2026.html",
+      "local_page_sha256": "b5db08cae43dd7150319c25cfe7ca4a43bfe169676ae49f33187eec7e1b5c9c5",
+      "source_file": "content/vehicles/byd-han-global-search-2026.json",
+      "source_sha256": "c19042e12732bd69921363856438187c48d6cddb046bcadb3c6cb6c393edd8ae",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/byd-han-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "BYD HAN 2026: الأدلة قبل شراء سيارة للتصدير",
+      "content_key": "vehicles/byd-han-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/byd-han-global-search-2026.html",
+      "local_page_sha256": "6a1965950d92f6cf5f7abdc93410f9ebb29cf23e54926ee990df0969fcbdc622",
       "source_file": "content/vehicles/byd-han-global-search-2026.json",
       "source_sha256": "c19042e12732bd69921363856438187c48d6cddb046bcadb3c6cb6c393edd8ae",
       "reasons": [

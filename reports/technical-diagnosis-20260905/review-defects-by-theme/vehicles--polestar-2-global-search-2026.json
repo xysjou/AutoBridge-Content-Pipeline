@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/polestar-2-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -159,6 +159,151 @@
       "current_source": true,
       "local_page": "ja/vehicles/polestar-2-global-search-2026.html",
       "local_page_sha256": "aae0e5ac515e45f33dafc0bd9f9140debddd8b6cb93f07db75a0d74e9e4de9fc",
+      "source_file": "content/vehicles/polestar-2-global-search-2026.json",
+      "source_sha256": "6268e96bbed157ef91bb9d7fabcbbb5c0056a9b8b8d09c629f80c5869d24d5a8",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/polestar-2-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "Polestar 2 2026: 수출 구매자용 프로필",
+      "content_key": "vehicles/polestar-2-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/polestar-2-global-search-2026.html",
+      "local_page_sha256": "e968adc19b0a5dd82ca483a5ce86271ee65692388d4e648ee829c1edfb1ccdf5",
+      "source_file": "content/vehicles/polestar-2-global-search-2026.json",
+      "source_sha256": "6268e96bbed157ef91bb9d7fabcbbb5c0056a9b8b8d09c629f80c5869d24d5a8",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/polestar-2-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "Polestar 2 2026: Hồ sơ dành cho người mua xuất khẩu",
+      "content_key": "vehicles/polestar-2-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/polestar-2-global-search-2026.html",
+      "local_page_sha256": "d2bd6b24ad83fc68fca37ac441cbf5da7e098a55729af99a7472ff6ec4df17d5",
+      "source_file": "content/vehicles/polestar-2-global-search-2026.json",
+      "source_sha256": "6268e96bbed157ef91bb9d7fabcbbb5c0056a9b8b8d09c629f80c5869d24d5a8",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/polestar-2-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "Polestar 2 2026: ข้อมูลสำหรับผู้ซื้อเพื่อการส่งออก",
+      "content_key": "vehicles/polestar-2-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/polestar-2-global-search-2026.html",
+      "local_page_sha256": "4d826a5f1acaed59c9bb5d0b21c0fa70ce261f732d8400c1e8744c717cd9c799",
+      "source_file": "content/vehicles/polestar-2-global-search-2026.json",
+      "source_sha256": "6268e96bbed157ef91bb9d7fabcbbb5c0056a9b8b8d09c629f80c5869d24d5a8",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/polestar-2-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "Polestar 2 2026: Profil pembeli ekspor",
+      "content_key": "vehicles/polestar-2-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/polestar-2-global-search-2026.html",
+      "local_page_sha256": "1fd0cdaeee4ae78707b507d122b64e5f4ce88b4e9fe2716f6de3f15f8866af8e",
+      "source_file": "content/vehicles/polestar-2-global-search-2026.json",
+      "source_sha256": "6268e96bbed157ef91bb9d7fabcbbb5c0056a9b8b8d09c629f80c5869d24d5a8",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/polestar-2-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "Polestar 2 2026: ملف لمشتري التصدير",
+      "content_key": "vehicles/polestar-2-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/polestar-2-global-search-2026.html",
+      "local_page_sha256": "1ee9e19918d35fa8068e8a0ffc12dd8038725f46c6a9432ff6368b7f43a362d7",
       "source_file": "content/vehicles/polestar-2-global-search-2026.json",
       "source_sha256": "6268e96bbed157ef91bb9d7fabcbbb5c0056a9b8b8d09c629f80c5869d24d5a8",
       "reasons": [

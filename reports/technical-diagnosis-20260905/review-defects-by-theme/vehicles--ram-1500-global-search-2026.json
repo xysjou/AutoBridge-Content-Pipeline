@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/ram-1500-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -159,6 +159,151 @@
       "current_source": true,
       "local_page": "ja/vehicles/ram-1500-global-search-2026.html",
       "local_page_sha256": "75cb06e9c983ffbcc23df6782b121acdf52da95dfcb8f8cfcc739c9e682edcf2",
+      "source_file": "content/vehicles/ram-1500-global-search-2026.json",
+      "source_sha256": "69898e469c8ebed673538b8ccba9b9d23fc3a157a069e31fba1b44532349d5f9",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/ram-1500-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "Ram 1500 2026: 수출 구매자용 프로필",
+      "content_key": "vehicles/ram-1500-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/ram-1500-global-search-2026.html",
+      "local_page_sha256": "8979926e4c58baf6eabad2d368947cd99cfd09e371cb66200ea4e44f06e4ff53",
+      "source_file": "content/vehicles/ram-1500-global-search-2026.json",
+      "source_sha256": "69898e469c8ebed673538b8ccba9b9d23fc3a157a069e31fba1b44532349d5f9",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/ram-1500-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "Ram 1500 2026: Hồ sơ dành cho người mua xuất khẩu",
+      "content_key": "vehicles/ram-1500-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/ram-1500-global-search-2026.html",
+      "local_page_sha256": "352391ca0a53273fa6bbb8d70a732d14b49bbf528289bf00db6c240f8ed4447e",
+      "source_file": "content/vehicles/ram-1500-global-search-2026.json",
+      "source_sha256": "69898e469c8ebed673538b8ccba9b9d23fc3a157a069e31fba1b44532349d5f9",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/ram-1500-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "Ram 1500 2026: ข้อมูลสำหรับผู้ซื้อเพื่อการส่งออก",
+      "content_key": "vehicles/ram-1500-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/ram-1500-global-search-2026.html",
+      "local_page_sha256": "b9ccc30691e8558b8d9ac6cacd3f8089c6291a6b1350996f79987959efadb65e",
+      "source_file": "content/vehicles/ram-1500-global-search-2026.json",
+      "source_sha256": "69898e469c8ebed673538b8ccba9b9d23fc3a157a069e31fba1b44532349d5f9",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/ram-1500-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "Ram 1500 2026: Profil pembeli ekspor",
+      "content_key": "vehicles/ram-1500-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/ram-1500-global-search-2026.html",
+      "local_page_sha256": "e04326ddc14b298ed2bd5f7ce57c719a68fac39444b78ad3211d6f684eedb531",
+      "source_file": "content/vehicles/ram-1500-global-search-2026.json",
+      "source_sha256": "69898e469c8ebed673538b8ccba9b9d23fc3a157a069e31fba1b44532349d5f9",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/ram-1500-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "Ram 1500 2026: ملف لمشتري التصدير",
+      "content_key": "vehicles/ram-1500-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/ram-1500-global-search-2026.html",
+      "local_page_sha256": "ff6f61eddf0f90dd1ed3a22abb8bd7444b8bc43457e7265a3bd60b639f8875b0",
       "source_file": "content/vehicles/ram-1500-global-search-2026.json",
       "source_sha256": "69898e469c8ebed673538b8ccba9b9d23fc3a157a069e31fba1b44532349d5f9",
       "reasons": [

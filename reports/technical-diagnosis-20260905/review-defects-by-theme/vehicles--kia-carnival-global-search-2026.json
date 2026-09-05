@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/kia-carnival-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -159,6 +159,151 @@
       "current_source": true,
       "local_page": "ja/vehicles/kia-carnival-global-search-2026.html",
       "local_page_sha256": "36b3a42b8062b724ea81b90c23e05ee131d3f141290db56ae944e7ffaa57adb8",
+      "source_file": "content/vehicles/kia-carnival-global-search-2026.json",
+      "source_sha256": "1188c22b5ac85a8f1cc0e1887af096b3787657bd1dfe18df4a0232cb909ddb6c",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/kia-carnival-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "2026 기아 카니발: 파워트레인·좌석·시장 사양을 분리해 확인",
+      "content_key": "vehicles/kia-carnival-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/kia-carnival-global-search-2026.html",
+      "local_page_sha256": "6351c8f3fac7bbe05e1a0576360b5f7e48da6bb096a2e545c49109138d1e7a45",
+      "source_file": "content/vehicles/kia-carnival-global-search-2026.json",
+      "source_sha256": "1188c22b5ac85a8f1cc0e1887af096b3787657bd1dfe18df4a0232cb909ddb6c",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/kia-carnival-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "Kia Carnival 2026: tách riêng động cơ, số ghế và thị trường",
+      "content_key": "vehicles/kia-carnival-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/kia-carnival-global-search-2026.html",
+      "local_page_sha256": "f1de271ed198423129b90fb39c37cb4343fb98507da6bc0793fdca2882818a7b",
+      "source_file": "content/vehicles/kia-carnival-global-search-2026.json",
+      "source_sha256": "1188c22b5ac85a8f1cc0e1887af096b3787657bd1dfe18df4a0232cb909ddb6c",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/kia-carnival-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "Kia Carnival 2026: แยกขุมพลัง ที่นั่ง และตลาดให้ชัดก่อนซื้อ",
+      "content_key": "vehicles/kia-carnival-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/kia-carnival-global-search-2026.html",
+      "local_page_sha256": "3adb62690b6888b12336e4c6a0ddc3733fd042ed7782c6c9fc472502bc692323",
+      "source_file": "content/vehicles/kia-carnival-global-search-2026.json",
+      "source_sha256": "1188c22b5ac85a8f1cc0e1887af096b3787657bd1dfe18df4a0232cb909ddb6c",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/kia-carnival-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "Kia Carnival 2026: pisahkan mesin, kursi, dan pasar",
+      "content_key": "vehicles/kia-carnival-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/kia-carnival-global-search-2026.html",
+      "local_page_sha256": "024b254732e25bdd4f02033a4014db9655e6ee061db82b8d29546e6611a98c07",
+      "source_file": "content/vehicles/kia-carnival-global-search-2026.json",
+      "source_sha256": "1188c22b5ac85a8f1cc0e1887af096b3787657bd1dfe18df4a0232cb909ddb6c",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/kia-carnival-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "كيا كارنفال 2026: افصل منظومة الدفع والمقاعد والسوق قبل الشراء",
+      "content_key": "vehicles/kia-carnival-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/kia-carnival-global-search-2026.html",
+      "local_page_sha256": "9eafb3994fcc8441a5aa5fc4034c8cae11a22c5504dec1ddb489e370d8c6eaad",
       "source_file": "content/vehicles/kia-carnival-global-search-2026.json",
       "source_sha256": "1188c22b5ac85a8f1cc0e1887af096b3787657bd1dfe18df4a0232cb909ddb6c",
       "reasons": [

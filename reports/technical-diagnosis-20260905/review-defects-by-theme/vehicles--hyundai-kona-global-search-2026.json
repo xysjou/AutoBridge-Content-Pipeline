@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/hyundai-kona-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -157,6 +157,151 @@
       "current_source": true,
       "local_page": "ja/vehicles/hyundai-kona-global-search-2026.html",
       "local_page_sha256": "5e9e6b79e732ed869150c638868497d2609968792cb854da0aa660b803ea09f9",
+      "source_file": "content/vehicles/hyundai-kona-global-search-2026.json",
+      "source_sha256": "95b8fea5b1a53fd39c807fd836cfb63f8be38ace56cdea640284c0685508f54b",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/hyundai-kona-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "2026 현대 코나 수출 구매 가이드: 차량보다 시장을 먼저 확인하기",
+      "content_key": "vehicles/hyundai-kona-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/hyundai-kona-global-search-2026.html",
+      "local_page_sha256": "cc1cb63933f6834c2dfb67550687bd9c7f322130872199451b2b8fe82450df4f",
+      "source_file": "content/vehicles/hyundai-kona-global-search-2026.json",
+      "source_sha256": "95b8fea5b1a53fd39c807fd836cfb63f8be38ace56cdea640284c0685508f54b",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/hyundai-kona-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "Hồ sơ mua Hyundai KONA 2026 để xuất khẩu: xác định thị trường trước",
+      "content_key": "vehicles/hyundai-kona-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/hyundai-kona-global-search-2026.html",
+      "local_page_sha256": "9fbfc79a38ba37c6673db6588a6bf87f934aaf822bc29f6a932d7026e519eaf2",
+      "source_file": "content/vehicles/hyundai-kona-global-search-2026.json",
+      "source_sha256": "95b8fea5b1a53fd39c807fd836cfb63f8be38ace56cdea640284c0685508f54b",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/hyundai-kona-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "คู่มือผู้ซื้อ Hyundai KONA 2026 เพื่อส่งออก: ระบุตลาดให้ชัดก่อนเลือกรถ",
+      "content_key": "vehicles/hyundai-kona-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/hyundai-kona-global-search-2026.html",
+      "local_page_sha256": "34dda2bd22e1835cd47f2b9f7a8c1db1a00f1f69e18585e15f07bf570c725253",
+      "source_file": "content/vehicles/hyundai-kona-global-search-2026.json",
+      "source_sha256": "95b8fea5b1a53fd39c807fd836cfb63f8be38ace56cdea640284c0685508f54b",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/hyundai-kona-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "Profil ekspor Hyundai KONA 2026: kenali pasar sebelum memilih mobil",
+      "content_key": "vehicles/hyundai-kona-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/hyundai-kona-global-search-2026.html",
+      "local_page_sha256": "1b979fa118dcac4a69d6fa2ed20ce75bdfc0e88c11f5077145f5b8e6544ca385",
+      "source_file": "content/vehicles/hyundai-kona-global-search-2026.json",
+      "source_sha256": "95b8fea5b1a53fd39c807fd836cfb63f8be38ace56cdea640284c0685508f54b",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/hyundai-kona-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "دليل شراء هيونداي كونا 2026 للتصدير: حدّد السوق قبل السيارة",
+      "content_key": "vehicles/hyundai-kona-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/hyundai-kona-global-search-2026.html",
+      "local_page_sha256": "e706613f346b6f0c261268b57143475a5812674ec21c35d8d5734034ccb9f9dd",
       "source_file": "content/vehicles/hyundai-kona-global-search-2026.json",
       "source_sha256": "95b8fea5b1a53fd39c807fd836cfb63f8be38ace56cdea640284c0685508f54b",
       "reasons": [

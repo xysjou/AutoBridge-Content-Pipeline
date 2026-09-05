@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/subaru-outback-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -153,6 +153,146 @@
       "current_source": true,
       "local_page": "ja/vehicles/subaru-outback-global-search-2026.html",
       "local_page_sha256": "37d7ae393f908f884ea61bbaf5f4d6506c34da4738a0376bcc5e01b944c3f029",
+      "source_file": "content/vehicles/subaru-outback-global-search-2026.json",
+      "source_sha256": "4e3ec903a118a3778d6a2a5a795d82b07eabf4bee04d660ec4fe621099dd04c1",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/subaru-outback-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "Subaru Outback 2026년: 근거 중심 수출 구매 안내",
+      "content_key": "vehicles/subaru-outback-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/subaru-outback-global-search-2026.html",
+      "local_page_sha256": "fdf2aa3661b944dce55f85e416906b59ce789abaf227018aa822a46462b41499",
+      "source_file": "content/vehicles/subaru-outback-global-search-2026.json",
+      "source_sha256": "4e3ec903a118a3778d6a2a5a795d82b07eabf4bee04d660ec4fe621099dd04c1",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/subaru-outback-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "Subaru Outback 2026: hướng dẫn mua xe xuất khẩu dựa trên bằng chứng",
+      "content_key": "vehicles/subaru-outback-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/subaru-outback-global-search-2026.html",
+      "local_page_sha256": "4fe273ae60f4bba33c6d6132b6b3b2cb009287a3cb744fe0a88585413051aebc",
+      "source_file": "content/vehicles/subaru-outback-global-search-2026.json",
+      "source_sha256": "4e3ec903a118a3778d6a2a5a795d82b07eabf4bee04d660ec4fe621099dd04c1",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/subaru-outback-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "Subaru Outback 2026: คู่มือซื้อรถส่งออกที่อ้างอิงหลักฐาน",
+      "content_key": "vehicles/subaru-outback-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/subaru-outback-global-search-2026.html",
+      "local_page_sha256": "89298c46e533b5e2bff239015c5c805fc775abf93cd79f34f913b942ba7f37bb",
+      "source_file": "content/vehicles/subaru-outback-global-search-2026.json",
+      "source_sha256": "4e3ec903a118a3778d6a2a5a795d82b07eabf4bee04d660ec4fe621099dd04c1",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/subaru-outback-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "Subaru Outback 2026: panduan pembelian ekspor berbasis bukti",
+      "content_key": "vehicles/subaru-outback-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/subaru-outback-global-search-2026.html",
+      "local_page_sha256": "350f3f2fa16b7fdc6497a859e03cabc38b806041315afe45d836f6f2621fad89",
+      "source_file": "content/vehicles/subaru-outback-global-search-2026.json",
+      "source_sha256": "4e3ec903a118a3778d6a2a5a795d82b07eabf4bee04d660ec4fe621099dd04c1",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/subaru-outback-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "Subaru Outback 2026: دليل شراء للتصدير قائم على الأدلة",
+      "content_key": "vehicles/subaru-outback-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/subaru-outback-global-search-2026.html",
+      "local_page_sha256": "9d7f8c261ad41d317631988d74a57460dd8c9679abd254d64db9681ab7bf5427",
       "source_file": "content/vehicles/subaru-outback-global-search-2026.json",
       "source_sha256": "4e3ec903a118a3778d6a2a5a795d82b07eabf4bee04d660ec4fe621099dd04c1",
       "reasons": [

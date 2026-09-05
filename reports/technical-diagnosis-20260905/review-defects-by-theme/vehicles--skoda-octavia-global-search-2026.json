@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/skoda-octavia-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -157,6 +157,151 @@
       "current_source": true,
       "local_page": "ja/vehicles/skoda-octavia-global-search-2026.html",
       "local_page_sha256": "2f471b4f895a5ec13b03061ce99b82f1e670a497f32a09ce6d41f91008281aea",
+      "source_file": "content/vehicles/skoda-octavia-global-search-2026.json",
+      "source_sha256": "568868ec164611bd8fa8d36f87ce735824bff9349dfed16a9266672cae1b5901",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/skoda-octavia-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "Skoda Octavia 2026년: 근거 중심 수출 구매 안내",
+      "content_key": "vehicles/skoda-octavia-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/skoda-octavia-global-search-2026.html",
+      "local_page_sha256": "72a07be6a6c87b535fb08237086561510ba34a868e2ab6cd14df437dd9a629f5",
+      "source_file": "content/vehicles/skoda-octavia-global-search-2026.json",
+      "source_sha256": "568868ec164611bd8fa8d36f87ce735824bff9349dfed16a9266672cae1b5901",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/skoda-octavia-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "Skoda Octavia 2026: hướng dẫn mua xe xuất khẩu dựa trên bằng chứng",
+      "content_key": "vehicles/skoda-octavia-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/skoda-octavia-global-search-2026.html",
+      "local_page_sha256": "755163a1acfe4de5f79a24d7c29d921911159e1af8af38289aa1bc621f51c67f",
+      "source_file": "content/vehicles/skoda-octavia-global-search-2026.json",
+      "source_sha256": "568868ec164611bd8fa8d36f87ce735824bff9349dfed16a9266672cae1b5901",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/skoda-octavia-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "Skoda Octavia 2026: คู่มือซื้อรถส่งออกที่อ้างอิงหลักฐาน",
+      "content_key": "vehicles/skoda-octavia-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/skoda-octavia-global-search-2026.html",
+      "local_page_sha256": "1e995c1e05d31d5807138da1c3a276177d8807eac8db2aab1add3d2c6e4546e3",
+      "source_file": "content/vehicles/skoda-octavia-global-search-2026.json",
+      "source_sha256": "568868ec164611bd8fa8d36f87ce735824bff9349dfed16a9266672cae1b5901",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/skoda-octavia-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "Skoda Octavia 2026: panduan pembelian ekspor berbasis bukti",
+      "content_key": "vehicles/skoda-octavia-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/skoda-octavia-global-search-2026.html",
+      "local_page_sha256": "47e05f2bf47f9db93c6d40faffd53bb78b04061c4c9b328d18db13219de51b0e",
+      "source_file": "content/vehicles/skoda-octavia-global-search-2026.json",
+      "source_sha256": "568868ec164611bd8fa8d36f87ce735824bff9349dfed16a9266672cae1b5901",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/skoda-octavia-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "Skoda Octavia 2026: دليل شراء للتصدير قائم على الأدلة",
+      "content_key": "vehicles/skoda-octavia-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/skoda-octavia-global-search-2026.html",
+      "local_page_sha256": "80e3b686a104d150e2fc6fcecc91fb2e442841adb2c9e1556714ba3662ea571b",
       "source_file": "content/vehicles/skoda-octavia-global-search-2026.json",
       "source_sha256": "568868ec164611bd8fa8d36f87ce735824bff9349dfed16a9266672cae1b5901",
       "reasons": [

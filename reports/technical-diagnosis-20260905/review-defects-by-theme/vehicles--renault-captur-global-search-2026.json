@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/renault-captur-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -156,6 +156,146 @@
       "current_source": true,
       "local_page": "ja/vehicles/renault-captur-global-search-2026.html",
       "local_page_sha256": "62a0948520a46f44d9f296788bf7c58db367a4fd1e897ae1df87af85addd3f92",
+      "source_file": "content/vehicles/renault-captur-global-search-2026.json",
+      "source_sha256": "72e5ace5c7113e41a108a5d955ea8fe1c8296a514accb1e4246c18403c09622b",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/renault-captur-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "Renault Captur 2026년: 근거 중심 수출 구매 안내",
+      "content_key": "vehicles/renault-captur-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/renault-captur-global-search-2026.html",
+      "local_page_sha256": "834b515aecd57ca943e830e432eb8a7b74826c54b9eddc062949f7cc77dd4d0c",
+      "source_file": "content/vehicles/renault-captur-global-search-2026.json",
+      "source_sha256": "72e5ace5c7113e41a108a5d955ea8fe1c8296a514accb1e4246c18403c09622b",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/renault-captur-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "Renault Captur 2026: hướng dẫn mua xe xuất khẩu dựa trên bằng chứng",
+      "content_key": "vehicles/renault-captur-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/renault-captur-global-search-2026.html",
+      "local_page_sha256": "c6f14352042565aac8d71bdc6075dc3a5b88ff17aa778b3dda5a60479344c12f",
+      "source_file": "content/vehicles/renault-captur-global-search-2026.json",
+      "source_sha256": "72e5ace5c7113e41a108a5d955ea8fe1c8296a514accb1e4246c18403c09622b",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/renault-captur-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "Renault Captur 2026: คู่มือซื้อรถส่งออกที่อ้างอิงหลักฐาน",
+      "content_key": "vehicles/renault-captur-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/renault-captur-global-search-2026.html",
+      "local_page_sha256": "3c9b8a6d3e87f6d1fd9a23d26b4924d89994c2d7a4d3e55186bc66c47231b88b",
+      "source_file": "content/vehicles/renault-captur-global-search-2026.json",
+      "source_sha256": "72e5ace5c7113e41a108a5d955ea8fe1c8296a514accb1e4246c18403c09622b",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/renault-captur-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "Renault Captur 2026: panduan pembelian ekspor berbasis bukti",
+      "content_key": "vehicles/renault-captur-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/renault-captur-global-search-2026.html",
+      "local_page_sha256": "31e108ba9a54dd1d721633db52741231d265cc98cfb3df14932b23355095901d",
+      "source_file": "content/vehicles/renault-captur-global-search-2026.json",
+      "source_sha256": "72e5ace5c7113e41a108a5d955ea8fe1c8296a514accb1e4246c18403c09622b",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/renault-captur-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "Renault Captur 2026: دليل شراء للتصدير قائم على الأدلة",
+      "content_key": "vehicles/renault-captur-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/renault-captur-global-search-2026.html",
+      "local_page_sha256": "6d213300b1ee6601cf0a5680e75b3bd4d09350877156b63aa6d79fffc1c14eee",
       "source_file": "content/vehicles/renault-captur-global-search-2026.json",
       "source_sha256": "72e5ace5c7113e41a108a5d955ea8fe1c8296a514accb1e4246c18403c09622b",
       "reasons": [

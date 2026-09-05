@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/bmw-x5-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -152,6 +152,146 @@
       "current_source": true,
       "local_page": "ja/vehicles/bmw-x5-global-search-2026.html",
       "local_page_sha256": "2401e2b8237f937fb738edf4a7199d71c8d1474c1a312e7ea5a05bd7b2df3a77",
+      "source_file": "content/vehicles/bmw-x5-global-search-2026.json",
+      "source_sha256": "3fa3abcc426ecae066f3d67c73cf70ddfb3bfb5d3e1250f8c11d1448bbfdac40",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/bmw-x5-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "BMW X5 2026: 수출 구매 증거 가이드",
+      "content_key": "vehicles/bmw-x5-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/bmw-x5-global-search-2026.html",
+      "local_page_sha256": "84ee54d1f8f872fe3b916733b28dd2157520e8ae4d830a32ecebcfa1988aed23",
+      "source_file": "content/vehicles/bmw-x5-global-search-2026.json",
+      "source_sha256": "3fa3abcc426ecae066f3d67c73cf70ddfb3bfb5d3e1250f8c11d1448bbfdac40",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/bmw-x5-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "BMW X5 2026: hướng dẫn bằng chứng cho người mua xuất khẩu",
+      "content_key": "vehicles/bmw-x5-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/bmw-x5-global-search-2026.html",
+      "local_page_sha256": "f14d2efe0ca634392bb14e678b4e57fd5b074960fd84a9f5f1004d2fcc6e48e0",
+      "source_file": "content/vehicles/bmw-x5-global-search-2026.json",
+      "source_sha256": "3fa3abcc426ecae066f3d67c73cf70ddfb3bfb5d3e1250f8c11d1448bbfdac40",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/bmw-x5-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "BMW X5 2026: คู่มือหลักฐานสำหรับผู้ซื้อส่งออก",
+      "content_key": "vehicles/bmw-x5-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/bmw-x5-global-search-2026.html",
+      "local_page_sha256": "4e4ee7533d5758ffe84203fbab786d29bae479f22dd674536f88c6d6941f3a61",
+      "source_file": "content/vehicles/bmw-x5-global-search-2026.json",
+      "source_sha256": "3fa3abcc426ecae066f3d67c73cf70ddfb3bfb5d3e1250f8c11d1448bbfdac40",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/bmw-x5-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "BMW X5 2026: panduan bukti untuk pembeli ekspor",
+      "content_key": "vehicles/bmw-x5-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/bmw-x5-global-search-2026.html",
+      "local_page_sha256": "d01aaa888a350c9e43075f6a5092d6496173e122bc4eed9d682ad7aa7915fd08",
+      "source_file": "content/vehicles/bmw-x5-global-search-2026.json",
+      "source_sha256": "3fa3abcc426ecae066f3d67c73cf70ddfb3bfb5d3e1250f8c11d1448bbfdac40",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/bmw-x5-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "BMW X5 2026: دليل الأدلة لمشتري التصدير",
+      "content_key": "vehicles/bmw-x5-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/bmw-x5-global-search-2026.html",
+      "local_page_sha256": "97e45d263242b906d8e9e03f29a049d6655d70c94c82b20685cdd0f7f8153abf",
       "source_file": "content/vehicles/bmw-x5-global-search-2026.json",
       "source_sha256": "3fa3abcc426ecae066f3d67c73cf70ddfb3bfb5d3e1250f8c11d1448bbfdac40",
       "reasons": [

@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/toyota-rav4-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -157,6 +157,151 @@
       "current_source": true,
       "local_page": "ja/vehicles/toyota-rav4-global-search-2026.html",
       "local_page_sha256": "303af462da1dbd1869c1549b862f352009fe419eea7605b1cadc6cfcb64b8223",
+      "source_file": "content/vehicles/toyota-rav4-global-search-2026.json",
+      "source_sha256": "b0e711b088bd35c7fbfcc42fa088d24d9a13bcbe9ec7511b1c18f41490ddd7bb",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/toyota-rav4-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "2026 Toyota RAV4 수출 구매 기준: 시장과 파워트레인 확인",
+      "content_key": "vehicles/toyota-rav4-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/toyota-rav4-global-search-2026.html",
+      "local_page_sha256": "a1b37d17411a792cce422f6a5e378ce5281f88f28cbd6f1b6f70c70ee0bda231",
+      "source_file": "content/vehicles/toyota-rav4-global-search-2026.json",
+      "source_sha256": "b0e711b088bd35c7fbfcc42fa088d24d9a13bcbe9ec7511b1c18f41490ddd7bb",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/toyota-rav4-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "Toyota RAV4 2026 dành cho xuất khẩu: kiểm tra thị trường và hệ truyền động",
+      "content_key": "vehicles/toyota-rav4-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/toyota-rav4-global-search-2026.html",
+      "local_page_sha256": "ed2aefb41cba6c7fab8bdb40cc125e4099e09c202f7dbfa5800dfb2207c6f3c8",
+      "source_file": "content/vehicles/toyota-rav4-global-search-2026.json",
+      "source_sha256": "b0e711b088bd35c7fbfcc42fa088d24d9a13bcbe9ec7511b1c18f41490ddd7bb",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/toyota-rav4-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "Toyota RAV4 2026 สำหรับส่งออก: ตรวจตลาดและระบบขับเคลื่อน",
+      "content_key": "vehicles/toyota-rav4-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/toyota-rav4-global-search-2026.html",
+      "local_page_sha256": "4b85eb06980416ddc4871a800c2f62ddf360945e89ed1e01edec2952cc8f75d7",
+      "source_file": "content/vehicles/toyota-rav4-global-search-2026.json",
+      "source_sha256": "b0e711b088bd35c7fbfcc42fa088d24d9a13bcbe9ec7511b1c18f41490ddd7bb",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/toyota-rav4-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "Toyota RAV4 2026 untuk ekspor: verifikasi pasar dan penggerak",
+      "content_key": "vehicles/toyota-rav4-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/toyota-rav4-global-search-2026.html",
+      "local_page_sha256": "457d7e69f4559c3ff6d6d92f3f2ac088d13b06de624c8ded97436063d31a6b02",
+      "source_file": "content/vehicles/toyota-rav4-global-search-2026.json",
+      "source_sha256": "b0e711b088bd35c7fbfcc42fa088d24d9a13bcbe9ec7511b1c18f41490ddd7bb",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/toyota-rav4-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "دليل تصدير Toyota RAV4 2026: تحقق من السوق ونظام الدفع",
+      "content_key": "vehicles/toyota-rav4-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/toyota-rav4-global-search-2026.html",
+      "local_page_sha256": "1525d6fd65c03a349d9d2aa9265c2d11a98d83ed285101e4b19fab21ff7d6fb2",
       "source_file": "content/vehicles/toyota-rav4-global-search-2026.json",
       "source_sha256": "b0e711b088bd35c7fbfcc42fa088d24d9a13bcbe9ec7511b1c18f41490ddd7bb",
       "reasons": [

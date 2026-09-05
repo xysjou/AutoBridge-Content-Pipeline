@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/suzuki-jimny-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -157,6 +157,151 @@
       "current_source": true,
       "local_page": "ja/vehicles/suzuki-jimny-global-search-2026.html",
       "local_page_sha256": "52c1896cba4d6ac88104a00a2a8fa4c0828c88bb6b0eb19cebcc6364cbe88431",
+      "source_file": "content/vehicles/suzuki-jimny-global-search-2026.json",
+      "source_sha256": "110efef7a3bea1475d7bb9d688484a099288f2e76d07a958789c3536588890d5",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/suzuki-jimny-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "Suzuki Jimny 2026년: 근거 중심 수출 구매 안내",
+      "content_key": "vehicles/suzuki-jimny-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/suzuki-jimny-global-search-2026.html",
+      "local_page_sha256": "dc5d5e065d1bea3486a4b41ff5f791f8cd8d047b0a3e1377553cdf9e18806823",
+      "source_file": "content/vehicles/suzuki-jimny-global-search-2026.json",
+      "source_sha256": "110efef7a3bea1475d7bb9d688484a099288f2e76d07a958789c3536588890d5",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/suzuki-jimny-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "Suzuki Jimny 2026: hướng dẫn mua xe xuất khẩu dựa trên bằng chứng",
+      "content_key": "vehicles/suzuki-jimny-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/suzuki-jimny-global-search-2026.html",
+      "local_page_sha256": "b0f31bde1f030ac132028f4834181ce383eff3523570bd34d54680ce47f9de93",
+      "source_file": "content/vehicles/suzuki-jimny-global-search-2026.json",
+      "source_sha256": "110efef7a3bea1475d7bb9d688484a099288f2e76d07a958789c3536588890d5",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/suzuki-jimny-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "Suzuki Jimny 2026: คู่มือซื้อรถส่งออกที่อ้างอิงหลักฐาน",
+      "content_key": "vehicles/suzuki-jimny-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/suzuki-jimny-global-search-2026.html",
+      "local_page_sha256": "75b1777e0ade73c2e018c2575ba74e5d5f5453331ad22e22a4ceb9a61aae5ad0",
+      "source_file": "content/vehicles/suzuki-jimny-global-search-2026.json",
+      "source_sha256": "110efef7a3bea1475d7bb9d688484a099288f2e76d07a958789c3536588890d5",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/suzuki-jimny-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "Suzuki Jimny 2026: panduan pembelian ekspor berbasis bukti",
+      "content_key": "vehicles/suzuki-jimny-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/suzuki-jimny-global-search-2026.html",
+      "local_page_sha256": "a6b17278ff2e41b7c81a3272a495df1a970ff04b61905e952ca6b76f6b69d0ac",
+      "source_file": "content/vehicles/suzuki-jimny-global-search-2026.json",
+      "source_sha256": "110efef7a3bea1475d7bb9d688484a099288f2e76d07a958789c3536588890d5",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/suzuki-jimny-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "Suzuki Jimny 2026: دليل شراء للتصدير قائم على الأدلة",
+      "content_key": "vehicles/suzuki-jimny-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/suzuki-jimny-global-search-2026.html",
+      "local_page_sha256": "b10ff2938429626414992b24d13f5d41007cc25d1970ab3ce72d1236f522ace9",
       "source_file": "content/vehicles/suzuki-jimny-global-search-2026.json",
       "source_sha256": "110efef7a3bea1475d7bb9d688484a099288f2e76d07a958789c3536588890d5",
       "reasons": [

@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/byd-seal-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -167,6 +167,151 @@
         "generic_specification_label:1",
         "generic_specification_label:2",
         "generic_specification_label:3",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/byd-seal-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "BYD SEAL 수출 구매: 실제 어떤 버전을 사는가?",
+      "content_key": "vehicles/byd-seal-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/byd-seal-global-search-2026.html",
+      "local_page_sha256": "deeddc82ac5792be2dc974155130a98f2c9ec427c4ba2e22a22e6e42b4a7156f",
+      "source_file": "content/vehicles/byd-seal-global-search-2026.json",
+      "source_sha256": "b229d617755fa025343daa1dabc57a6c4250fd26db3c190209e293450a75de01",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/byd-seal-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "BYD SEAL để xuất khẩu: bạn thực sự đang mua phiên bản nào?",
+      "content_key": "vehicles/byd-seal-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/byd-seal-global-search-2026.html",
+      "local_page_sha256": "4afd8090473e7fd4376a3270359caffc0daafbd7c345cebe3252974eac1f3bc9",
+      "source_file": "content/vehicles/byd-seal-global-search-2026.json",
+      "source_sha256": "b229d617755fa025343daa1dabc57a6c4250fd26db3c190209e293450a75de01",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/byd-seal-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "BYD SEAL สำหรับส่งออก: คุณกำลังซื้อรุ่นไหนจริง?",
+      "content_key": "vehicles/byd-seal-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/byd-seal-global-search-2026.html",
+      "local_page_sha256": "425e0811e5cb27df08f696bbe5acb97f1e1f6f136c3b178dc2c4e349887d1157",
+      "source_file": "content/vehicles/byd-seal-global-search-2026.json",
+      "source_sha256": "b229d617755fa025343daa1dabc57a6c4250fd26db3c190209e293450a75de01",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/byd-seal-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "BYD SEAL untuk ekspor: versi apa yang sebenarnya Anda beli?",
+      "content_key": "vehicles/byd-seal-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/byd-seal-global-search-2026.html",
+      "local_page_sha256": "885b56168e54dd7edc8bb34fd60466acda25cf2470843badd1e444efe8b6e979",
+      "source_file": "content/vehicles/byd-seal-global-search-2026.json",
+      "source_sha256": "b229d617755fa025343daa1dabc57a6c4250fd26db3c190209e293450a75de01",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/byd-seal-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "تصدير BYD SEAL: أي نسخة تشتري فعلياً؟",
+      "content_key": "vehicles/byd-seal-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/byd-seal-global-search-2026.html",
+      "local_page_sha256": "5bf8a3ecac030aa811ffcef5f832271b58b75a3f2494ca61887de03e0f3a387a",
+      "source_file": "content/vehicles/byd-seal-global-search-2026.json",
+      "source_sha256": "b229d617755fa025343daa1dabc57a6c4250fd26db3c190209e293450a75de01",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
         "generic_specification_label:5"
       ],
       "status": "REVISION REQUIRED",

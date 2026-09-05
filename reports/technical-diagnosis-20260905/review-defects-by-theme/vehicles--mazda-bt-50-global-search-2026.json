@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/mazda-bt-50-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -159,6 +159,151 @@
       "current_source": true,
       "local_page": "ja/vehicles/mazda-bt-50-global-search-2026.html",
       "local_page_sha256": "a53c0384896fb95860328870c7213b836a336cd13303a5d776760a1cad2e9e4c",
+      "source_file": "content/vehicles/mazda-bt-50-global-search-2026.json",
+      "source_sha256": "0ca2a8a506e960a331a7c70b8a56c4f6572c8bd16ed47e07ea4f6320c6a93b52",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/mazda-bt-50-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "Mazda BT-50 2026: 수출 구매자용 프로필",
+      "content_key": "vehicles/mazda-bt-50-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/mazda-bt-50-global-search-2026.html",
+      "local_page_sha256": "ef7e41269a8971b427a27c5b2daa3e72171648590af8cd18e83ff1942917aa38",
+      "source_file": "content/vehicles/mazda-bt-50-global-search-2026.json",
+      "source_sha256": "0ca2a8a506e960a331a7c70b8a56c4f6572c8bd16ed47e07ea4f6320c6a93b52",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/mazda-bt-50-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "Mazda BT-50 2026: Hồ sơ dành cho người mua xuất khẩu",
+      "content_key": "vehicles/mazda-bt-50-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/mazda-bt-50-global-search-2026.html",
+      "local_page_sha256": "41511903da9ea4ed8f17acec98461c7ee1e9806534978e8d24fd13f77f7ec59f",
+      "source_file": "content/vehicles/mazda-bt-50-global-search-2026.json",
+      "source_sha256": "0ca2a8a506e960a331a7c70b8a56c4f6572c8bd16ed47e07ea4f6320c6a93b52",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/mazda-bt-50-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "Mazda BT-50 2026: ข้อมูลสำหรับผู้ซื้อเพื่อการส่งออก",
+      "content_key": "vehicles/mazda-bt-50-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/mazda-bt-50-global-search-2026.html",
+      "local_page_sha256": "f3516bb205728978570b6f98bf792155f1091cf37873ee2c3986a50f741aff0c",
+      "source_file": "content/vehicles/mazda-bt-50-global-search-2026.json",
+      "source_sha256": "0ca2a8a506e960a331a7c70b8a56c4f6572c8bd16ed47e07ea4f6320c6a93b52",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/mazda-bt-50-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "Mazda BT-50 2026: Profil pembeli ekspor",
+      "content_key": "vehicles/mazda-bt-50-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/mazda-bt-50-global-search-2026.html",
+      "local_page_sha256": "0a7cf419bfa6e60b0046056ce43a7632bc71558cb74b147f27e740379bc2f92c",
+      "source_file": "content/vehicles/mazda-bt-50-global-search-2026.json",
+      "source_sha256": "0ca2a8a506e960a331a7c70b8a56c4f6572c8bd16ed47e07ea4f6320c6a93b52",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/mazda-bt-50-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "Mazda BT-50 2026: ملف لمشتري التصدير",
+      "content_key": "vehicles/mazda-bt-50-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/mazda-bt-50-global-search-2026.html",
+      "local_page_sha256": "48c1e106592c660b0db0bd1bbfbf9a99d65f9380cc7329d2701461df49d97e51",
       "source_file": "content/vehicles/mazda-bt-50-global-search-2026.json",
       "source_sha256": "0ca2a8a506e960a331a7c70b8a56c4f6572c8bd16ed47e07ea4f6320c6a93b52",
       "reasons": [

@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/haval-h6-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -157,6 +157,151 @@
       "current_source": true,
       "local_page": "ja/vehicles/haval-h6-global-search-2026.html",
       "local_page_sha256": "9caaa484d235bf8ed79b3d01af9e7c51e32146d4a7b7cb0d0146b5129223ec97",
+      "source_file": "content/vehicles/haval-h6-global-search-2026.json",
+      "source_sha256": "7ac2fb10715a790e987703ac944ff69a05f920d89dc4b4bdfd097fcd5a32badf",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/haval-h6-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "GWM Haval H6 수출 구매: 가솔린, HEV 또는 PHEV?",
+      "content_key": "vehicles/haval-h6-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/haval-h6-global-search-2026.html",
+      "local_page_sha256": "2f5d14980541603dbe5600a510d15d950a2b9e724e9c54085369e1ee1a03c866",
+      "source_file": "content/vehicles/haval-h6-global-search-2026.json",
+      "source_sha256": "7ac2fb10715a790e987703ac944ff69a05f920d89dc4b4bdfd097fcd5a32badf",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/haval-h6-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "GWM Haval H6 để xuất khẩu: xăng, hybrid hay PHEV?",
+      "content_key": "vehicles/haval-h6-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/haval-h6-global-search-2026.html",
+      "local_page_sha256": "974ea7e37221d26baac6b5b82ee4548447c744bfb8ee439a5b233321cdd842de",
+      "source_file": "content/vehicles/haval-h6-global-search-2026.json",
+      "source_sha256": "7ac2fb10715a790e987703ac944ff69a05f920d89dc4b4bdfd097fcd5a32badf",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/haval-h6-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "GWM Haval H6 ส่งออก: เบนซิน ไฮบริด หรือ PHEV?",
+      "content_key": "vehicles/haval-h6-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/haval-h6-global-search-2026.html",
+      "local_page_sha256": "fc9e114dfdf4f63afed0404242674d0996aeb8eb8a663db9972e3228ee931f86",
+      "source_file": "content/vehicles/haval-h6-global-search-2026.json",
+      "source_sha256": "7ac2fb10715a790e987703ac944ff69a05f920d89dc4b4bdfd097fcd5a32badf",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/haval-h6-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "GWM Haval H6 untuk ekspor: bensin, hybrid atau PHEV?",
+      "content_key": "vehicles/haval-h6-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/haval-h6-global-search-2026.html",
+      "local_page_sha256": "70dd6dab0d08d47ed1b7612da094c618cd32ca2761b18bc483a4cd1ac32b59b9",
+      "source_file": "content/vehicles/haval-h6-global-search-2026.json",
+      "source_sha256": "7ac2fb10715a790e987703ac944ff69a05f920d89dc4b4bdfd097fcd5a32badf",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/haval-h6-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "تصدير GWM Haval H6: بنزين أم هجين أم PHEV؟",
+      "content_key": "vehicles/haval-h6-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/haval-h6-global-search-2026.html",
+      "local_page_sha256": "0e867e851c2b82ce7fe4750a98d1dec7441cb3c26627c03bf194da3e2e24a169",
       "source_file": "content/vehicles/haval-h6-global-search-2026.json",
       "source_sha256": "7ac2fb10715a790e987703ac944ff69a05f920d89dc4b4bdfd097fcd5a32badf",
       "reasons": [

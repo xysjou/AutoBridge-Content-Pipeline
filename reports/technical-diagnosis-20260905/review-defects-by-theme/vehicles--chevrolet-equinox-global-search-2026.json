@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/chevrolet-equinox-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -157,6 +157,151 @@
       "current_source": true,
       "local_page": "ja/vehicles/chevrolet-equinox-global-search-2026.html",
       "local_page_sha256": "f80f51674d31b57637a8fc3fbf0227a2f1458de9e74d37d1dc0f9ec22f9ef299",
+      "source_file": "content/vehicles/chevrolet-equinox-global-search-2026.json",
+      "source_sha256": "27c78a28c2d2756d7a8395470c8fa1b47adc5ca5dfe6f36385131ce47f90791c",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/chevrolet-equinox-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "Chevrolet Equinox 2026 수출 근거와 구매 확인",
+      "content_key": "vehicles/chevrolet-equinox-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/chevrolet-equinox-global-search-2026.html",
+      "local_page_sha256": "ba13c283caab1916457daf694013c44af3311b1c9c642bf7691c6b7288980ce6",
+      "source_file": "content/vehicles/chevrolet-equinox-global-search-2026.json",
+      "source_sha256": "27c78a28c2d2756d7a8395470c8fa1b47adc5ca5dfe6f36385131ce47f90791c",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/chevrolet-equinox-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "Chevrolet Equinox 2026: bằng chứng xuất khẩu và kiểm tra trước khi mua",
+      "content_key": "vehicles/chevrolet-equinox-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/chevrolet-equinox-global-search-2026.html",
+      "local_page_sha256": "ddfcf385cb463a6fe26d02ec69b4bcd3207534b3c859ec7b105d73259fd5f219",
+      "source_file": "content/vehicles/chevrolet-equinox-global-search-2026.json",
+      "source_sha256": "27c78a28c2d2756d7a8395470c8fa1b47adc5ca5dfe6f36385131ce47f90791c",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/chevrolet-equinox-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "Chevrolet Equinox 2026: หลักฐานส่งออกและรายการตรวจผู้ซื้อ",
+      "content_key": "vehicles/chevrolet-equinox-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/chevrolet-equinox-global-search-2026.html",
+      "local_page_sha256": "4c4145d32850b63c8d43e6806ce78e741f0c2f8d395d7c199887cfc424ca3210",
+      "source_file": "content/vehicles/chevrolet-equinox-global-search-2026.json",
+      "source_sha256": "27c78a28c2d2756d7a8395470c8fa1b47adc5ca5dfe6f36385131ce47f90791c",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/chevrolet-equinox-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "Chevrolet Equinox 2026: bukti ekspor dan pemeriksaan pembeli",
+      "content_key": "vehicles/chevrolet-equinox-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/chevrolet-equinox-global-search-2026.html",
+      "local_page_sha256": "70712d8a5fc5d6a7b3a40c9be99c2ba77725c046a9c6155b8b656a84c2f7956c",
+      "source_file": "content/vehicles/chevrolet-equinox-global-search-2026.json",
+      "source_sha256": "27c78a28c2d2756d7a8395470c8fa1b47adc5ca5dfe6f36385131ce47f90791c",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/chevrolet-equinox-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "Chevrolet Equinox 2026: أدلة التصدير وفحوص المشتري",
+      "content_key": "vehicles/chevrolet-equinox-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/chevrolet-equinox-global-search-2026.html",
+      "local_page_sha256": "8b4a4a114775ab5493b38b1a6e72fe74ce37af7e14bdd72ab448022d803b8648",
       "source_file": "content/vehicles/chevrolet-equinox-global-search-2026.json",
       "source_sha256": "27c78a28c2d2756d7a8395470c8fa1b47adc5ca5dfe6f36385131ce47f90791c",
       "reasons": [

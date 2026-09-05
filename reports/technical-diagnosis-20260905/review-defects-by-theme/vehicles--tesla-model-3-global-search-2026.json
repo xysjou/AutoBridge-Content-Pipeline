@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/tesla-model-3-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -157,6 +157,151 @@
       "current_source": true,
       "local_page": "ja/vehicles/tesla-model-3-global-search-2026.html",
       "local_page_sha256": "e5db16c6ed3a22bd7f226b5f2905f01b3ce8ce96fb5365e2476376d3837750f7",
+      "source_file": "content/vehicles/tesla-model-3-global-search-2026.json",
+      "source_sha256": "2826c508252cc8232a8109249a947ef5bb3d9f69d4cb3d1453de0aab59dc45c9",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/tesla-model-3-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "Tesla Model 3 2026년: 근거 중심 수출 구매 안내",
+      "content_key": "vehicles/tesla-model-3-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/tesla-model-3-global-search-2026.html",
+      "local_page_sha256": "03bda4dff4df0e69d97d3c396c76cfffdb5ae96756f3d30c36a70b8c8f3be5a9",
+      "source_file": "content/vehicles/tesla-model-3-global-search-2026.json",
+      "source_sha256": "2826c508252cc8232a8109249a947ef5bb3d9f69d4cb3d1453de0aab59dc45c9",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/tesla-model-3-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "Tesla Model 3 2026: hướng dẫn mua xe xuất khẩu dựa trên bằng chứng",
+      "content_key": "vehicles/tesla-model-3-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/tesla-model-3-global-search-2026.html",
+      "local_page_sha256": "d5b85e13ab26800c7e4def59ef07b7ce496252d6d6f33e2daacdec0410b97019",
+      "source_file": "content/vehicles/tesla-model-3-global-search-2026.json",
+      "source_sha256": "2826c508252cc8232a8109249a947ef5bb3d9f69d4cb3d1453de0aab59dc45c9",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/tesla-model-3-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "Tesla Model 3 2026: คู่มือซื้อรถส่งออกที่อ้างอิงหลักฐาน",
+      "content_key": "vehicles/tesla-model-3-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/tesla-model-3-global-search-2026.html",
+      "local_page_sha256": "09dbeb9a831dde6feb1b0f4ce06a2b56177c06de565eec40f142c571521de77e",
+      "source_file": "content/vehicles/tesla-model-3-global-search-2026.json",
+      "source_sha256": "2826c508252cc8232a8109249a947ef5bb3d9f69d4cb3d1453de0aab59dc45c9",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/tesla-model-3-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "Tesla Model 3 2026: panduan pembelian ekspor berbasis bukti",
+      "content_key": "vehicles/tesla-model-3-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/tesla-model-3-global-search-2026.html",
+      "local_page_sha256": "ba7decfc044d600ccf696672cdd2dfc59fe9b8d884131a53b201ea21218440db",
+      "source_file": "content/vehicles/tesla-model-3-global-search-2026.json",
+      "source_sha256": "2826c508252cc8232a8109249a947ef5bb3d9f69d4cb3d1453de0aab59dc45c9",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/tesla-model-3-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "Tesla Model 3 2026: دليل شراء للتصدير قائم على الأدلة",
+      "content_key": "vehicles/tesla-model-3-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/tesla-model-3-global-search-2026.html",
+      "local_page_sha256": "54db6e9b44d3ef2ff486a7952160e903486dfc1a60c26b5cc1e54dd2f809ba2d",
       "source_file": "content/vehicles/tesla-model-3-global-search-2026.json",
       "source_sha256": "2826c508252cc8232a8109249a947ef5bb3d9f69d4cb3d1453de0aab59dc45c9",
       "reasons": [

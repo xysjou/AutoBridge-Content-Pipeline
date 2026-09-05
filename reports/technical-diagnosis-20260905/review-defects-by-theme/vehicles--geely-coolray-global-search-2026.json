@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/geely-coolray-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -201,15 +201,22 @@
       "source_sha256": "5dbc39ef6d16f1398b9a6d9da51a0e0fcfd8f047781f305f90c12f93b7c9c8c6",
       "reasons": [
         "near_duplicate_paragraphs",
+        "invalid_rendered_vehicle_specifications",
         "editorial_quality_score_below_85"
       ],
-      "parameter_issues": [],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
       "status": "REVISION REQUIRED",
       "review_complete": false,
       "human_reviewed": false,
       "live_http_status": 200,
       "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
-      "required_action": "Independent review and targeted correction; retain quality restrictions until passed."
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
     },
     {
       "url": "https://vi.autobridgeexport.com/vehicles/geely-coolray-global-search-2026.html",
@@ -224,15 +231,23 @@
       "source_sha256": "5dbc39ef6d16f1398b9a6d9da51a0e0fcfd8f047781f305f90c12f93b7c9c8c6",
       "reasons": [
         "near_duplicate_paragraphs",
+        "invalid_rendered_vehicle_specifications",
         "editorial_quality_score_below_85"
       ],
-      "parameter_issues": [],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
       "status": "REVISION REQUIRED",
       "review_complete": false,
       "human_reviewed": false,
       "live_http_status": 200,
       "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
-      "required_action": "Independent review and targeted correction; retain quality restrictions until passed."
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
     },
     {
       "url": "https://th.autobridgeexport.com/vehicles/geely-coolray-global-search-2026.html",
@@ -247,15 +262,23 @@
       "source_sha256": "5dbc39ef6d16f1398b9a6d9da51a0e0fcfd8f047781f305f90c12f93b7c9c8c6",
       "reasons": [
         "near_duplicate_paragraphs",
+        "invalid_rendered_vehicle_specifications",
         "editorial_quality_score_below_85"
       ],
-      "parameter_issues": [],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
       "status": "REVISION REQUIRED",
       "review_complete": false,
       "human_reviewed": false,
       "live_http_status": 200,
       "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
-      "required_action": "Independent review and targeted correction; retain quality restrictions until passed."
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
     },
     {
       "url": "https://id.autobridgeexport.com/vehicles/geely-coolray-global-search-2026.html",
@@ -270,15 +293,23 @@
       "source_sha256": "5dbc39ef6d16f1398b9a6d9da51a0e0fcfd8f047781f305f90c12f93b7c9c8c6",
       "reasons": [
         "near_duplicate_paragraphs",
+        "invalid_rendered_vehicle_specifications",
         "editorial_quality_score_below_85"
       ],
-      "parameter_issues": [],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
       "status": "REVISION REQUIRED",
       "review_complete": false,
       "human_reviewed": false,
       "live_http_status": 200,
       "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
-      "required_action": "Independent review and targeted correction; retain quality restrictions until passed."
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
     },
     {
       "url": "https://ar.autobridgeexport.com/vehicles/geely-coolray-global-search-2026.html",
@@ -293,15 +324,23 @@
       "source_sha256": "5dbc39ef6d16f1398b9a6d9da51a0e0fcfd8f047781f305f90c12f93b7c9c8c6",
       "reasons": [
         "near_duplicate_paragraphs",
+        "invalid_rendered_vehicle_specifications",
         "editorial_quality_score_below_85"
       ],
-      "parameter_issues": [],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
       "status": "REVISION REQUIRED",
       "review_complete": false,
       "human_reviewed": false,
       "live_http_status": 200,
       "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
-      "required_action": "Independent review and targeted correction; retain quality restrictions until passed."
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
     },
     {
       "url": "https://zh.autobridgeexport.com/vehicles/geely-coolray-global-search-2026.html",

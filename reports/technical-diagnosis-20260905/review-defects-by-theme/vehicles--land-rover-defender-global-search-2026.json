@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/land-rover-defender-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -159,6 +159,151 @@
       "current_source": true,
       "local_page": "ja/vehicles/land-rover-defender-global-search-2026.html",
       "local_page_sha256": "ad828d555d1ceb7c9f4767f566a8994388ec596563ac27f103e142db0bd6e5d1",
+      "source_file": "content/vehicles/land-rover-defender-global-search-2026.json",
+      "source_sha256": "157bc87dc83a4e6b2c60d072afeacc8f290219f2596c90e3b931a77db7b1b7cc",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/land-rover-defender-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "Land Rover Defender 2026: 수출 구매자용 프로필",
+      "content_key": "vehicles/land-rover-defender-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/land-rover-defender-global-search-2026.html",
+      "local_page_sha256": "7e3e7795a80533e2c8a586b031eaa817523d38cbd476433f2212ed60c0ef541f",
+      "source_file": "content/vehicles/land-rover-defender-global-search-2026.json",
+      "source_sha256": "157bc87dc83a4e6b2c60d072afeacc8f290219f2596c90e3b931a77db7b1b7cc",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/land-rover-defender-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "Land Rover Defender 2026: Hồ sơ dành cho người mua xuất khẩu",
+      "content_key": "vehicles/land-rover-defender-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/land-rover-defender-global-search-2026.html",
+      "local_page_sha256": "183478e892deab1eb7960b632fb3d3916b191610c93182729e6cc67774a4883a",
+      "source_file": "content/vehicles/land-rover-defender-global-search-2026.json",
+      "source_sha256": "157bc87dc83a4e6b2c60d072afeacc8f290219f2596c90e3b931a77db7b1b7cc",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/land-rover-defender-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "Land Rover Defender 2026: ข้อมูลสำหรับผู้ซื้อเพื่อการส่งออก",
+      "content_key": "vehicles/land-rover-defender-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/land-rover-defender-global-search-2026.html",
+      "local_page_sha256": "6fa86bc0257376e9c241246d75393cb88a1e3f7b77fd765249fecac11bed685f",
+      "source_file": "content/vehicles/land-rover-defender-global-search-2026.json",
+      "source_sha256": "157bc87dc83a4e6b2c60d072afeacc8f290219f2596c90e3b931a77db7b1b7cc",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/land-rover-defender-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "Land Rover Defender 2026: Profil pembeli ekspor",
+      "content_key": "vehicles/land-rover-defender-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/land-rover-defender-global-search-2026.html",
+      "local_page_sha256": "0fcc57752d6ffbd681458e2b05ec2e760ad5c444ad6372169217887b778dcfe6",
+      "source_file": "content/vehicles/land-rover-defender-global-search-2026.json",
+      "source_sha256": "157bc87dc83a4e6b2c60d072afeacc8f290219f2596c90e3b931a77db7b1b7cc",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/land-rover-defender-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "Land Rover Defender 2026: ملف لمشتري التصدير",
+      "content_key": "vehicles/land-rover-defender-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/land-rover-defender-global-search-2026.html",
+      "local_page_sha256": "a057c4c8ac08c1316e5c9f3f1a7e98acdb1ae5104f0bf48670348827d886651e",
       "source_file": "content/vehicles/land-rover-defender-global-search-2026.json",
       "source_sha256": "157bc87dc83a4e6b2c60d072afeacc8f290219f2596c90e3b931a77db7b1b7cc",
       "reasons": [

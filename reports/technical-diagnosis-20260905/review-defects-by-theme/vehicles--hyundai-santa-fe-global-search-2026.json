@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/hyundai-santa-fe-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -156,6 +156,151 @@
       "current_source": true,
       "local_page": "ja/vehicles/hyundai-santa-fe-global-search-2026.html",
       "local_page_sha256": "ace87ea4cd1160ccd0e1761106a22defaeb34d9fabebd51e5a53e02767ee260f",
+      "source_file": "content/vehicles/hyundai-santa-fe-global-search-2026.json",
+      "source_sha256": "376ed5d1f53e4fac7076b53ee17c1c8c68bc4fe9ec901090bcf19ae96e67f551",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/hyundai-santa-fe-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "2026 현대 싼타페 수출 구매 안내: 먼저 판매 시장을 확인하십시오",
+      "content_key": "vehicles/hyundai-santa-fe-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/hyundai-santa-fe-global-search-2026.html",
+      "local_page_sha256": "f39118e33ffe6059edb9e8fabba44f1de3e5669b684934629550adb01759875b",
+      "source_file": "content/vehicles/hyundai-santa-fe-global-search-2026.json",
+      "source_sha256": "376ed5d1f53e4fac7076b53ee17c1c8c68bc4fe9ec901090bcf19ae96e67f551",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/hyundai-santa-fe-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "Hồ sơ mua Hyundai Santa Fe 2026 để xuất khẩu: xác định thị trường trước",
+      "content_key": "vehicles/hyundai-santa-fe-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/hyundai-santa-fe-global-search-2026.html",
+      "local_page_sha256": "13ecb8f8d401e38b51579e2fc017b008985e94eb77488f34307dde12e9d455bf",
+      "source_file": "content/vehicles/hyundai-santa-fe-global-search-2026.json",
+      "source_sha256": "376ed5d1f53e4fac7076b53ee17c1c8c68bc4fe9ec901090bcf19ae96e67f551",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/hyundai-santa-fe-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "ข้อมูลผู้ซื้อ Hyundai Santa Fe 2026 เพื่อการส่งออก: ต้องระบุตลาดก่อน",
+      "content_key": "vehicles/hyundai-santa-fe-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/hyundai-santa-fe-global-search-2026.html",
+      "local_page_sha256": "a2255bbe5a4d4f2492d22143654d8ff50192f6a60f47f11e85fdfd4ceb317da6",
+      "source_file": "content/vehicles/hyundai-santa-fe-global-search-2026.json",
+      "source_sha256": "376ed5d1f53e4fac7076b53ee17c1c8c68bc4fe9ec901090bcf19ae96e67f551",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/hyundai-santa-fe-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "Profil pembeli ekspor Hyundai Santa Fe 2026: kenali pasar lebih dulu",
+      "content_key": "vehicles/hyundai-santa-fe-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/hyundai-santa-fe-global-search-2026.html",
+      "local_page_sha256": "875b1735c4925ea000d6ba343bdfe80608e9ece0fcd2e188b30708292696fa91",
+      "source_file": "content/vehicles/hyundai-santa-fe-global-search-2026.json",
+      "source_sha256": "376ed5d1f53e4fac7076b53ee17c1c8c68bc4fe9ec901090bcf19ae96e67f551",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/hyundai-santa-fe-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "ملف مشتري هيونداي سانتا في 2026 للتصدير: حدّد السوق أولاً",
+      "content_key": "vehicles/hyundai-santa-fe-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/hyundai-santa-fe-global-search-2026.html",
+      "local_page_sha256": "bedf60e518e39eb75603fe7835b66981f767bab256b990cc8eeccb4c67f05e55",
       "source_file": "content/vehicles/hyundai-santa-fe-global-search-2026.json",
       "source_sha256": "376ed5d1f53e4fac7076b53ee17c1c8c68bc4fe9ec901090bcf19ae96e67f551",
       "reasons": [

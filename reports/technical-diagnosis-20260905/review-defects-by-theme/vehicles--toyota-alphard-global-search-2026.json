@@ -1,5 +1,5 @@
 {
-  "audit_at": "2026-09-05T15:21:22.418Z",
+  "audit_at": "2026-09-05T15:55:37.359Z",
   "content_key": "vehicles/toyota-alphard-global-search-2026",
   "publish_approved": false,
   "pages": [
@@ -153,6 +153,146 @@
       "current_source": true,
       "local_page": "ja/vehicles/toyota-alphard-global-search-2026.html",
       "local_page_sha256": "44ace9bcded7ae220a55a004fb4607070cb21c521adb7ae061ecf86ccfb5a808",
+      "source_file": "content/vehicles/toyota-alphard-global-search-2026.json",
+      "source_sha256": "cb257eb26340cc2cc68f055c97db2fe2c53a783491e1c06b805db0ed6e8ea6a2",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/toyota-alphard-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "Toyota Alphard 2026년: 근거 중심 수출 구매 안내",
+      "content_key": "vehicles/toyota-alphard-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/toyota-alphard-global-search-2026.html",
+      "local_page_sha256": "74f5ca92535903203baf2253d6405b387a5e9980ff03cda782126cb0518c652e",
+      "source_file": "content/vehicles/toyota-alphard-global-search-2026.json",
+      "source_sha256": "cb257eb26340cc2cc68f055c97db2fe2c53a783491e1c06b805db0ed6e8ea6a2",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/toyota-alphard-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "Toyota Alphard 2026: hướng dẫn mua xe xuất khẩu dựa trên bằng chứng",
+      "content_key": "vehicles/toyota-alphard-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/toyota-alphard-global-search-2026.html",
+      "local_page_sha256": "17e7096fbfb80f41a4f745cdf1bc018fa6485b1a1e53eb8bf5a9e2093abb3373",
+      "source_file": "content/vehicles/toyota-alphard-global-search-2026.json",
+      "source_sha256": "cb257eb26340cc2cc68f055c97db2fe2c53a783491e1c06b805db0ed6e8ea6a2",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/toyota-alphard-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "Toyota Alphard 2026: คู่มือซื้อรถส่งออกที่อ้างอิงหลักฐาน",
+      "content_key": "vehicles/toyota-alphard-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/toyota-alphard-global-search-2026.html",
+      "local_page_sha256": "011b3680a3810aa7ca2d3ba23360090fa3f61fcba0490459a310803c673731fc",
+      "source_file": "content/vehicles/toyota-alphard-global-search-2026.json",
+      "source_sha256": "cb257eb26340cc2cc68f055c97db2fe2c53a783491e1c06b805db0ed6e8ea6a2",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/toyota-alphard-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "Toyota Alphard 2026: panduan pembelian ekspor berbasis bukti",
+      "content_key": "vehicles/toyota-alphard-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/toyota-alphard-global-search-2026.html",
+      "local_page_sha256": "31d70e4a792a4a124c012ff0b696ac8963b7ca2232c8c4c042478bdf787151f6",
+      "source_file": "content/vehicles/toyota-alphard-global-search-2026.json",
+      "source_sha256": "cb257eb26340cc2cc68f055c97db2fe2c53a783491e1c06b805db0ed6e8ea6a2",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/toyota-alphard-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "Toyota Alphard 2026: دليل شراء للتصدير قائم على الأدلة",
+      "content_key": "vehicles/toyota-alphard-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/toyota-alphard-global-search-2026.html",
+      "local_page_sha256": "0c635485720cb58e259aada06df05a9e6d031ac36fc65235b6d4b7c2641ac81c",
       "source_file": "content/vehicles/toyota-alphard-global-search-2026.json",
       "source_sha256": "cb257eb26340cc2cc68f055c97db2fe2c53a783491e1c06b805db0ed6e8ea6a2",
       "reasons": [
