@@ -1,0 +1,2329 @@
+{
+  "schema_version": "1.0",
+  "type": "vehicle",
+  "slug": "byd-seal-global-search-2026",
+  "source_language": "zh",
+  "status": "quality_hold",
+  "canonical_path": "/en/vehicles/byd-seal-global-search-2026.html",
+  "vehicle": {
+    "name": "BYD SEAL",
+    "brand": "BYD",
+    "model": "SEAL",
+    "model_year": "2026",
+    "body_type": "four-door sedan",
+    "powertrain": "battery-electric",
+    "target_market": "Europe, Southeast Asia, Latin America",
+    "specs": {
+      "Battery capacity": "82.5 kWh (LFP)",
+      "Drive": "Design: rear-wheel drive; Excellence AWD: all-wheel drive",
+      "Maximum motor power": "Design: 312 PS; Excellence AWD: 530 PS",
+      "WLTP combined range": "Design: 354 miles; Excellence AWD: 323 miles",
+      "0-62 mph": "Design: 5.9 s; Excellence AWD: 3.8 s",
+      "Maximum AC charging": "11 kW",
+      "Maximum DC charging": "150 kW",
+      "Charging port": "CCS2",
+      "Rear boot": "485 L",
+      "Front boot": "72 L"
+    },
+    "specifications": [
+      {
+        "label": "Battery capacity",
+        "value": "82.5 kWh (LFP)",
+        "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+        "source_page": 7,
+        "source_market": "UK",
+        "model_year": "2026",
+        "derivatives": [
+          "Design",
+          "Excellence AWD"
+        ],
+        "checked_at": "2026-09-05"
+      },
+      {
+        "label": "Drive",
+        "value": "Design: rear-wheel drive; Excellence AWD: all-wheel drive",
+        "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+        "source_page": 7,
+        "source_market": "UK",
+        "model_year": "2026",
+        "derivatives": [
+          "Design",
+          "Excellence AWD"
+        ],
+        "checked_at": "2026-09-05"
+      },
+      {
+        "label": "Maximum motor power",
+        "value": "Design: 312 PS; Excellence AWD: 530 PS",
+        "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+        "source_page": 7,
+        "source_market": "UK",
+        "model_year": "2026",
+        "derivatives": [
+          "Design",
+          "Excellence AWD"
+        ],
+        "checked_at": "2026-09-05"
+      },
+      {
+        "label": "WLTP combined range",
+        "value": "Design: 354 miles; Excellence AWD: 323 miles",
+        "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+        "source_page": 7,
+        "source_market": "UK",
+        "model_year": "2026",
+        "derivatives": [
+          "Design",
+          "Excellence AWD"
+        ],
+        "checked_at": "2026-09-05"
+      },
+      {
+        "label": "0-62 mph",
+        "value": "Design: 5.9 s; Excellence AWD: 3.8 s",
+        "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+        "source_page": 7,
+        "source_market": "UK",
+        "model_year": "2026",
+        "derivatives": [
+          "Design",
+          "Excellence AWD"
+        ],
+        "checked_at": "2026-09-05"
+      },
+      {
+        "label": "Maximum AC charging",
+        "value": "11 kW",
+        "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+        "source_page": 7,
+        "source_market": "UK",
+        "model_year": "2026",
+        "derivatives": [
+          "Design",
+          "Excellence AWD"
+        ],
+        "checked_at": "2026-09-05"
+      },
+      {
+        "label": "Maximum DC charging",
+        "value": "150 kW",
+        "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+        "source_page": 7,
+        "source_market": "UK",
+        "model_year": "2026",
+        "derivatives": [
+          "Design",
+          "Excellence AWD"
+        ],
+        "checked_at": "2026-09-05"
+      },
+      {
+        "label": "Charging port",
+        "value": "CCS2",
+        "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+        "source_page": 7,
+        "source_market": "UK",
+        "model_year": "2026",
+        "derivatives": [
+          "Design",
+          "Excellence AWD"
+        ],
+        "checked_at": "2026-09-05"
+      },
+      {
+        "label": "Rear boot",
+        "value": "485 L",
+        "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+        "source_page": 7,
+        "source_market": "UK",
+        "model_year": "2026",
+        "derivatives": [
+          "Design",
+          "Excellence AWD"
+        ],
+        "checked_at": "2026-09-05"
+      },
+      {
+        "label": "Front boot",
+        "value": "72 L",
+        "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+        "source_page": 7,
+        "source_market": "UK",
+        "model_year": "2026",
+        "derivatives": [
+          "Design",
+          "Excellence AWD"
+        ],
+        "checked_at": "2026-09-05"
+      }
+    ]
+  },
+  "image": {
+    "src": "../../assets/editorial/byd-seal.jpg",
+    "alt": "Photograph of the BYD SEAL used as a model-family reference",
+    "wiki_title": "BYD Seal",
+    "review_note": "Publication image requires a matching source URL and reusable license record.",
+    "search_query": "BYD SEAL battery-electric sedan official front three-quarter exterior, exact generation and market trim, no SEAL U or SEAL DM-i, verify source credit and commercial reuse rights",
+    "wiki_file_title": "",
+    "source_page": "https://en.wikipedia.org/wiki/BYD_Seal",
+    "source_file_page": "https://commons.wikimedia.org/wiki/File:2022_BYD_Seal.jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/2022_BYD_Seal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "license": "CC BY-SA 4.0",
+    "artist": "User 3204",
+    "credit": "Own work",
+    "candidate_description": "​一輛來自東莞（粤S牌）的比亞迪海豹，拍攝於中國廣東省深圳市羅湖區",
+    "identity_status": "confirmed_model_match",
+    "identity_reviewed": true,
+    "identity_reviewed_at": "2026-08-20T18:24:20.812Z",
+    "identity_reviewer": "codex-visual-review-2026-08-21",
+    "identity_review_note": "Visible vehicle matches the BYD SEAL model family; no exact trim, build date or destination specification is claimed."
+  },
+  "translations": {
+    "en": {
+      "title": "BYD SEAL Export Buyer Guide: Which Version Are You Actually Buying?",
+      "seo_title": "BYD SEAL Export Buyer Guide: 2026 UK Spec, Range and Checks",
+      "meta_description": "BYD SEAL export guide using the current UK 2026 specification as a controlled reference. Compare Design and Excellence AWD, charging, safety scope, software and destination compatibility before buying.",
+      "summary": "BYD SEAL export guide using the current UK 2026 specification as a controlled reference. Compare Design and Excellence AWD, charging, safety scope, software and destination compatibility before buying.",
+      "eyebrow": "Configuration-matched export research",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../en/index.html\">Home</a><span>/</span><a href=\"../../en/vehicles/index.html\">Vehicles</a><span>/</span><span>BYD SEAL Export Buyer Guide: Which Version Are You Actually Buying?</span></nav>\n    <section class=\"vehicle-detail-hero\"><div><p class=\"eyebrow\">Configuration-matched export research</p><h1>BYD SEAL Export Buyer Guide: Which Version Are You Actually Buying?</h1><p class=\"lead\">BYD SEAL export guide using the current UK 2026 specification as a controlled reference. Compare Design and Excellence AWD, charging, safety scope, software and destination compatibility before buying.</p></div><div class=\"detail-media\"><img src=\"../../assets/editorial/byd-seal.jpg\" alt=\"Photograph of the BYD SEAL used as a model-family reference\" loading=\"lazy\"></div></section>\n    <section class=\"detail-layout\"><article class=\"detail-main\">\n      <h2>Use “2026” only where the source proves it</h2>\n      <p>BYD UK currently markets a BYD SEAL 2026 with Design and Excellence AWD versions. This is strong evidence for the UK market; it is not proof that every SEAL offered from China or another country is the same 2026 specification.</p>\n      <p>For export purchasing, start with VIN, build date, original market and exact trim. Keep the current UK specification as a comparison reference, not a global specification sheet.</p>\n      <h2>The two UK reference versions have materially different performance</h2>\n      <p>BYD UK lists the Design with 354 miles WLTP combined range, rear-wheel drive and 0–62 mph in 5.9 seconds. Excellence AWD is listed with 323 miles WLTP, all-wheel drive, 0–62 mph in 3.8 seconds and 390 kW/530 PS.</p>\n      <p>The current UK leaflet identifies the Blade Battery as LFP and lists 82.5 kWh for both reference versions. A buyer should not combine the Design range with the Excellence performance and present that as one vehicle.</p>\n      <h2>Charging and luggage figures must stay attached to the reference market</h2>\n      <p>BYD UK states AC charging at 11 kW and DC fast charging up to 150 kW, with charging-time claims made under specified conditions. The current UK material also presents a 485 L rear boot and 72 L front boot.</p>\n      <p>Charging speed varies with charger voltage/power, battery temperature and state of charge. Before export, verify the actual charging inlet, onboard charger and software of the VIN, as another market may use a different configuration or service environment.</p>\n      <h2>Safety ratings have their own scope</h2>\n      <p>Euro NCAP assessed the BYD SEAL in 2023, and ANCAP states that its rating applies to BYD SEAL variants within the technical-report scope for Australia/New Zealand. Those independent assessments are useful evidence, but the buyer should record the rating year and applicable variants instead of simply writing “five-star globally. ”</p>\n      <p>For the exact export vehicle, verify airbag/ADAS specification, production period and whether the independent rating applies to that version.</p>\n      <h2>Connected features can become an export problem</h2>\n      <p>The UK leaflet notes that navigation is not available in all languages or countries and tells customers to check local availability. That warning is directly relevant to parallel exports. App services, OTA updates, embedded connectivity, voice control, navigation and online accounts can depend on region.</p>\n      <p>Before payment, test or obtain written evidence for the destination language, smartphone integration, app registration, OTA pathway, charging-map dependence and any subscription that matters to the customer.</p>\n      <h2>Buyer decision</h2>\n      <p>The SEAL can be a strong electric-saloon option, but the purchase should be tied to a specific version. Before payment verify VIN, original market, battery and motor configuration, charging inlet/power, WLTP claim source, safety-rating scope, warranty region, software/services, tyre specification, parts and diagnostic support.</p>\n      <p>Do not publish a single “global 2026 BYD SEAL specification. ” The safe approach is to show a clearly labelled market reference and then verify the offered vehicle against it.</p>\n      <h2>What the quotation and contract should identify</h2>\n      <p>A strong SEAL quotation should identify the VIN or, before VIN allocation, a frozen market-specific configuration that will later be reconciled to the VIN. Record original market, production date, trim, driven wheels, battery, official range test cycle, AC and DC charging hardware, wheel and tyre package and the equipment that materially affects the buyer’s decision. If the seller is quoting the UK MY26 reference, the contract should not quietly combine Design and Excellence AWD values: the Design reference carries the longer WLTP range and RWD performance figures, while Excellence AWD carries the quicker acceleration and AWD output. Once a specific export vehicle is allocated, photograph its VIN, labels, charge inlet, wheels, dashboard and key option areas and compare them against the contractual configuration.</p>\n      <p>The after-sales file matters as much as the specification sheet. Confirm which warranty region applies, whether the destination has authorised or competent high-voltage diagnosis, what charging cable is supplied and whether navigation, app functions, cellular services and OTA support are available in that market. Safety evidence should identify the exact Euro NCAP or ANCAP assessment scope being referenced rather than displaying a generic “five-star” badge. For a parallel import, connected functions may depend on region, account, SIM/network or software support. These items should be treated as conditional until written destination evidence exists. A buyer who needs fleet uptime should also identify collision parts, windscreen/ADAS calibration, tyres and battery/inverter service routes before shipment.</p>\n      <h2>When the BYD SEAL evidence is not strong enough</h2>\n      <p>Do not approve payment when the quotation mixes data from different trims or countries. A common error is to pair the UK Design range number with the Excellence AWD acceleration or power figure and present the result as one vehicle. Another is to treat “2026” in a current UK leaflet as proof that every SEAL in every source market is the same model-year configuration. The vehicle identity must come first; the reference brochure comes second.</p>\n      <p>Also pause when the seller cannot show the actual charge port or refuses to state whether the offered unit is RWD or AWD, when a safety rating is described as global, or when app, OTA and warranty coverage are promised without destination support. A model-family photograph or a public specification page can help identify what should be checked, but it does not prove the exact unit. The purchase is ready only when VIN-level evidence, market-specific specifications, safety scope and service assumptions no longer contradict one another.</p>\n      <h2>Frequently asked questions</h2>\n      <h3>BYD SEAL: Is this a universal 2026 specification?</h3>\n      <p>No. The figures shown here describe the UK MY2026 Design and Excellence AWD. A different original market or model year requires its own specification sheet.</p>\n      <h3>BYD SEAL: Which identity evidence should be obtained before a deposit?</h3>\n      <p>Request the VIN, build date, original market, exact trim and dated configuration sheet. The seller's documents and photographs must identify the same vehicle.</p>\n      <h3>BYD SEAL: Does the cited safety result approve the import?</h3>\n      <p>No. A crash-test rating and permission to register an imported vehicle are different matters. Check the rating's applicable variants and the destination's admission requirements separately.</p>\n      <h3>BYD SEAL: What operating compatibility needs checking?</h3>\n      <p>Check the actual charge port, local charging network, app and navigation availability, warranty territory and repair support. UK equipment does not prove that connected services will work abroad.</p>\n      <h3>BYD SEAL: How should total landed cost be compared?</h3>\n      <p>Compare the same vehicle specification, destination and delivery terms. Include inspection, transport, freight, insurance, applicable taxes, registration and any necessary adaptation.</p>\n\n      <h2>Sources</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://www.byd.com/eu/electric-cars/seal.html\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL: Dynamic and Intelligent</a><span>BYD Europe · 2026-07-19</span></li>\n        <li><a href=\"https://www.euroncap.com/assessments/byd/seal/1044/\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL safety rating and report</a><span>Euro NCAP · 2026-07-19</span></li>\n        <li><a href=\"https://www.ancap.com.au/safety-ratings/byd/seal/72ba9e\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL safety rating and report</a><span>ANCAP Safety · 2026-07-19</span></li>\n        <li><a href=\"https://unece.org/transport/vehicle-regulations\" target=\"_blank\" rel=\"noopener noreferrer\">Vehicle regulations</a><span>United Nations Economic Commission for Europe · 2026-07-19</span></li>\n        <li><a href=\"https://www.byd.com/content/dam/byd-site/id/brochure/SEAL-BROCHURE.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL brochure</a><span>BYD Indonesia · 2026-08-13</span></li>\n        <li><a href=\"https://www.byd.com/material/byd-site/sg/product/pdf/BYD%20Seal%20Spec%20Sheet-PREVIEW%20.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL specification sheet</a><span>BYD Singapore · 2026-08-13</span></li>\n      </ul>\n    </article><aside class=\"spec-panel\"><h2>UK MY2026 specifications</h2><p>UK MY2026: Design and Excellence AWD only. These figures do not establish the specification of an unidentified export vehicle.</p><dl class=\"spec-list\"><div><dt>Battery capacity</dt><dd>82.5 kWh (LFP)</dd></div><div><dt>Drive</dt><dd>Design: rear-wheel drive; Excellence AWD: all-wheel drive</dd></div><div><dt>Maximum motor power</dt><dd>Design: 312 PS; Excellence AWD: 530 PS</dd></div><div><dt>WLTP combined range</dt><dd>Design: 354 miles; Excellence AWD: 323 miles</dd></div><div><dt>0-62 mph</dt><dd>Design: 5.9 s; Excellence AWD: 3.8 s</dd></div><div><dt>Maximum AC charging</dt><dd>11 kW</dd></div><div><dt>Maximum DC charging</dt><dd>150 kW</dd></div><div><dt>Charging port</dt><dd>CCS2</dd></div><div><dt>Rear boot</dt><dd>485 L</dd></div><div><dt>Front boot</dt><dd>72 L</dd></div></dl><p><a href=\"https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">BYD UK MY2026 technical data, page 7</a> · 2026-09-05</p></aside></section>\n  </main>",
+      "word_count": 831,
+      "reading_time_minutes": 4,
+      "last_reviewed": "2026-08-30",
+      "image": {
+        "src": "../../assets/editorial/byd-seal.jpg",
+        "alt": "Photograph of the BYD SEAL used as a model-family reference",
+        "wiki_title": "BYD Seal",
+        "caption": "Photograph of the BYD SEAL used as a model-family reference",
+        "wiki_file_title": "",
+        "source_page": "https://en.wikipedia.org/wiki/BYD_Seal",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:2022_BYD_Seal.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/2022_BYD_Seal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 4.0",
+        "artist": "User 3204",
+        "credit": "Own work",
+        "candidate_description": "​一輛來自東莞（粤S牌）的比亞迪海豹，拍攝於中國廣東省深圳市羅湖區",
+        "identity_status": "confirmed_model_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-08-20T18:24:20.812Z",
+        "identity_reviewer": "codex-visual-review-2026-08-21",
+        "identity_review_note": "Visible vehicle matches the BYD SEAL model family; no exact trim, build date or destination specification is claimed.",
+        "review_note": "Reusable-license metadata and visible model identity confirmed for this content record."
+      },
+      "specifications": [
+        {
+          "label": "Battery capacity",
+          "value": "82.5 kWh (LFP)",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Drive",
+          "value": "Design: rear-wheel drive; Excellence AWD: all-wheel drive",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Maximum motor power",
+          "value": "Design: 312 PS; Excellence AWD: 530 PS",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "WLTP combined range",
+          "value": "Design: 354 miles; Excellence AWD: 323 miles",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "0-62 mph",
+          "value": "Design: 5.9 s; Excellence AWD: 3.8 s",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Maximum AC charging",
+          "value": "11 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Maximum DC charging",
+          "value": "150 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Charging port",
+          "value": "CCS2",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Rear boot",
+          "value": "485 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Front boot",
+          "value": "72 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        }
+      ],
+      "review_status": "editorial_review_pending"
+    },
+    "fr": {
+      "title": "BYD SEAL à l’export : quelle version achetez-vous réellement ?",
+      "seo_title": "BYD SEAL export : référence UK 2026 et vérifications",
+      "meta_description": "Guide BYD SEAL basé sur la spécification UK 2026 comme référence contrôlée : versions, autonomie, charge, sécurité, logiciel et compatibilité destination.",
+      "summary": "Guide BYD SEAL basé sur la spécification UK 2026 comme référence contrôlée : versions, autonomie, charge, sécurité, logiciel et compatibilité destination.",
+      "eyebrow": "Recherche d'export liée à la configuration",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../fr/index.html\">Accueil</a><span>/</span><a href=\"../../fr/vehicles/index.html\">Véhicules</a><span>/</span><span>BYD SEAL à l’export : quelle version achetez-vous réellement ?</span></nav>\n    <section class=\"vehicle-detail-hero\"><div><p class=\"eyebrow\">Recherche d&#39;export liée à la configuration</p><h1>BYD SEAL à l’export : quelle version achetez-vous réellement ?</h1><p class=\"lead\">Guide BYD SEAL basé sur la spécification UK 2026 comme référence contrôlée : versions, autonomie, charge, sécurité, logiciel et compatibilité destination.</p></div><div class=\"detail-media\"><img src=\"../../assets/editorial/byd-seal.jpg\" alt=\"Photographie du BYD SEAL utilisée comme référence de famille de modèles\" loading=\"lazy\"></div></section>\n    <section class=\"detail-layout\"><article class=\"detail-main\">\n      <h2>2026 seulement là où c’est prouvé</h2>\n      <p>BYD UK commercialise actuellement SEAL 2026 en Design et Excellence AWD. Cette preuve est britannique, pas une spécification mondiale. VIN, date de production, marché d’origine et finition restent obligatoires.</p>\n      <h2>Versions UK</h2>\n      <p>Design: 354 miles WLTP, propulsion, 0–62 mph 5,9 s. Excellence AWD: 323 miles, AWD, 3,8 s, 390 kW/530 PS. Batterie LFP 82,5 kWh indiquée pour les deux références UK.</p>\n      <h2>Charge et coffre</h2>\n      <p>Référence UK: 11 kW AC, jusqu’à 150 kW DC, coffre 485 L + frunk 72 L. Vérifier le véhicule réel et les conditions de charge.</p>\n      <h2>Sécurité</h2>\n      <p>Euro NCAP 2023 et ANCAP ont un périmètre défini; ne pas écrire « cinq étoiles mondial ».</p>\n      <h2>Services connectés</h2>\n      <p>Navigation et services peuvent dépendre du pays/langue. Vérifier app, OTA, connectivité et abonnement au pays de destination.</p>\n      <h2>Décision</h2>\n      <p>Confirmer VIN, marché, batterie/moteur, charge, autonomie, rating, garantie, logiciel, pneus, pièces et diagnostic.</p>\n      <h2>Consigner les preuves dans le dossier contractuel</h2>\n      <p>Le dossier d’achat de BYD SEAL à l’export: quelle version achetez-vous réellement? doit identifier l’unité proposée, le marché d’origine, la destination, la date des preuves et le fournisseur responsable. Il doit expliquer comment l’offre traite 2026 seulement là où c’est prouvé, Versions UK, Charge et coffre, Sécurité, Services connectés. Rattachez au même dossier le VIN, les photos, le devis, les documents d’homologation et les preuves de service. Un point non résolu reste conditionnel et ne devient pas un fait. Le contrat doit préciser qui corrige une divergence et la conséquence d’un document reçu avant expédition qui ne correspond pas au véhicule. Ce dossier permet une seconde vérification utile et évite de confondre une page de gamme avec la preuve d’une unité physique.</p>\n      <h2>Transformer les questions ouvertes en décision de paiement</h2>\n      <p>Guide BYD SEAL basé sur la spécification UK 2026 comme référence contrôlée : versions, autonomie, charge, sécurité, logiciel et compatibilité destination. La décision doit suivre cette chaîne factuelle : 2026 seulement là où c’est prouvé; Versions UK; Charge et coffre; Sécurité; Services connectés; Décision. Chaque étape doit être rattachée à la même unité, au même marché d’origine et à la même destination afin d’éviter de comparer des versions incompatibles.</p>\n      <p>BYD SEAL à l’export : quelle version achetez-vous réellement ?: Avant d’autoriser le paiement, le dossier doit répondre clairement à ces questions : BYD SEAL: S&#39;agit-il d&#39;une spécification 2026 mondiale?; BYD SEAL: Quelles preuves d&#39;identité faut-il avant l&#39;acompte?; BYD SEAL: La note de sécurité autorise-t-elle l&#39;importation?; BYD SEAL: Quelle compatibilité d&#39;usage faut-il vérifier?. Une réponse n’est exploitable que si elle indique le document, sa date, l’organisme émetteur et la partie responsable. Toute hypothèse encore ouverte reste une condition du contrat; elle ne doit pas être transformée en caractéristique confirmée ni en coût garanti. 2026 seulement là où c’est prouvé; Versions UK; Charge et coffre; Sécurité; Services connectés; Décision.</p>\n      <h2>Questions fréquentes</h2>\n      <h3>BYD SEAL: S&#39;agit-il d&#39;une spécification 2026 mondiale?</h3>\n      <p>Non. Les chiffres présentés concernent les Design et Excellence AWD britanniques du millésime 2026. Un autre marché d'origine ou millésime exige sa propre fiche technique.</p>\n      <h3>BYD SEAL: Quelles preuves d&#39;identité faut-il avant l&#39;acompte?</h3>\n      <p>Demandez le VIN, la date de fabrication, le marché d'origine, la finition exacte et une fiche de configuration datée. Les documents et photographies doivent identifier le même véhicule.</p>\n      <h3>BYD SEAL: La note de sécurité autorise-t-elle l&#39;importation?</h3>\n      <p>Non. Une évaluation de sécurité et l'autorisation d'immatriculer un véhicule importé sont distinctes. Vérifiez séparément les versions couvertes par l'évaluation et les exigences du pays de destination.</p>\n      <h3>BYD SEAL: Quelle compatibilité d&#39;usage faut-il vérifier?</h3>\n      <p>Contrôlez la prise réelle, le réseau de recharge local, les applications, la navigation, le territoire de garantie et l'assistance technique. L'équipement britannique ne garantit pas les services connectés à l'étranger.</p>\n      <h3>BYD SEAL: Comment comparer le coût total rendu?</h3>\n      <p>Comparez une configuration, une destination et des conditions de livraison identiques. Ajoutez inspection, transport, fret, assurance, taxes applicables, immatriculation et adaptations nécessaires.</p>\n\n      <h2>Sources</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://www.byd.com/eu/electric-cars/seal.html\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL: Dynamic and Intelligent</a><span>BYD Europe · 2026-07-19</span></li>\n        <li><a href=\"https://www.euroncap.com/assessments/byd/seal/1044/\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL safety rating and report</a><span>Euro NCAP · 2026-07-19</span></li>\n        <li><a href=\"https://www.ancap.com.au/safety-ratings/byd/seal/72ba9e\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL safety rating and report</a><span>ANCAP Safety · 2026-07-19</span></li>\n        <li><a href=\"https://unece.org/transport/vehicle-regulations\" target=\"_blank\" rel=\"noopener noreferrer\">Vehicle regulations</a><span>United Nations Economic Commission for Europe · 2026-07-19</span></li>\n        <li><a href=\"https://www.byd.com/content/dam/byd-site/id/brochure/SEAL-BROCHURE.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL brochure</a><span>BYD Indonesia · 2026-08-13</span></li>\n        <li><a href=\"https://www.byd.com/material/byd-site/sg/product/pdf/BYD%20Seal%20Spec%20Sheet-PREVIEW%20.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL specification sheet</a><span>BYD Singapore · 2026-08-13</span></li>\n      </ul>\n    </article><aside class=\"spec-panel\"><h2>Caractéristiques britanniques, millésime 2026</h2><p>Royaume-Uni, millésime 2026 : Design et Excellence AWD uniquement. Ces données ne définissent pas la configuration d'un véhicule d'exportation non identifié.</p><dl class=\"spec-list\"><div><dt>Capacité de la batterie</dt><dd>82.5 kWh (LFP)</dd></div><div><dt>Transmission</dt><dd>Design : propulsion ; Excellence AWD : transmission intégrale</dd></div><div><dt>Puissance maximale des moteurs</dt><dd>Design: 312 PS; Excellence AWD: 530 PS</dd></div><div><dt>Autonomie mixte WLTP</dt><dd>Design: 354 miles; Excellence AWD: 323 miles</dd></div><div><dt>Accélération de 0 à 62 mph</dt><dd>Design: 5.9 s; Excellence AWD: 3.8 s</dd></div><div><dt>Recharge CA maximale</dt><dd>11 kW</dd></div><div><dt>Recharge CC maximale</dt><dd>150 kW</dd></div><div><dt>Prise de recharge</dt><dd>CCS2</dd></div><div><dt>Coffre arrière</dt><dd>485 L</dd></div><div><dt>Coffre avant</dt><dd>72 L</dd></div></dl><p><a href=\"https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Fiche technique BYD Royaume-Uni, millésime 2026, page 7</a> · 2026-09-05</p></aside></section>\n  </main>",
+      "word_count": 429,
+      "reading_time_minutes": 2,
+      "last_reviewed": "2026-08-30",
+      "image": {
+        "src": "../../assets/editorial/byd-seal.jpg",
+        "alt": "Photographie du BYD SEAL utilisée comme référence de famille de modèles",
+        "wiki_title": "BYD Seal",
+        "caption": "Photographie du BYD SEAL utilisée comme référence de famille de modèles",
+        "wiki_file_title": "",
+        "source_page": "https://en.wikipedia.org/wiki/BYD_Seal",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:2022_BYD_Seal.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/2022_BYD_Seal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 4.0",
+        "artist": "User 3204",
+        "credit": "Own work",
+        "candidate_description": "​一輛來自東莞（粤S牌）的比亞迪海豹，拍攝於中國廣東省深圳市羅湖區",
+        "identity_status": "confirmed_model_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-08-20T18:24:20.812Z",
+        "identity_reviewer": "codex-visual-review-2026-08-21",
+        "identity_review_note": "Visible vehicle matches the BYD SEAL model family; no exact trim, build date or destination specification is claimed.",
+        "review_note": "Reusable-license metadata and visible model identity confirmed for this content record."
+      },
+      "specifications": [
+        {
+          "label": "Capacité de la batterie",
+          "value": "82.5 kWh (LFP)",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Transmission",
+          "value": "Design : propulsion ; Excellence AWD : transmission intégrale",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Puissance maximale des moteurs",
+          "value": "Design: 312 PS; Excellence AWD: 530 PS",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Autonomie mixte WLTP",
+          "value": "Design: 354 miles; Excellence AWD: 323 miles",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Accélération de 0 à 62 mph",
+          "value": "Design: 5.9 s; Excellence AWD: 3.8 s",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Recharge CA maximale",
+          "value": "11 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Recharge CC maximale",
+          "value": "150 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Prise de recharge",
+          "value": "CCS2",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Coffre arrière",
+          "value": "485 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Coffre avant",
+          "value": "72 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        }
+      ],
+      "review_status": "editorial_review_pending"
+    },
+    "de": {
+      "title": "BYD SEAL Export: Welche Version kaufen Sie tatsächlich?",
+      "seo_title": "BYD SEAL Export: UK-2026-Referenz und Prüfungen",
+      "meta_description": "BYD SEAL mit aktueller UK-2026-Spezifikation als kontrollierter Referenz: Version, Reichweite, Laden, Sicherheit, Software und Zielkompatibilität prüfen.",
+      "summary": "BYD SEAL mit aktueller UK-2026-Spezifikation als kontrollierter Referenz: Version, Reichweite, Laden, Sicherheit, Software und Zielkompatibilität prüfen.",
+      "eyebrow": "Konfigurationsbezogene Exportrecherche",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../de/index.html\">Startseite</a><span>/</span><a href=\"../../de/vehicles/index.html\">Fahrzeuge</a><span>/</span><span>BYD SEAL Export: Welche Version kaufen Sie tatsächlich?</span></nav>\n    <section class=\"vehicle-detail-hero\"><div><p class=\"eyebrow\">Konfigurationsbezogene Exportrecherche</p><h1>BYD SEAL Export: Welche Version kaufen Sie tatsächlich?</h1><p class=\"lead\">BYD SEAL mit aktueller UK-2026-Spezifikation als kontrollierter Referenz: Version, Reichweite, Laden, Sicherheit, Software und Zielkompatibilität prüfen.</p></div><div class=\"detail-media\"><img src=\"../../assets/editorial/byd-seal.jpg\" alt=\"Fotografie des BYD SEAL als Referenz für die Modellfamilie\" loading=\"lazy\"></div></section>\n    <section class=\"detail-layout\"><article class=\"detail-main\">\n      <h2>2026 nur marktgebunden</h2>\n      <p>BYD UK führt aktuell SEAL 2026 Design und Excellence AWD. Das beweist UK, keine globale 2026-Spezifikation. VIN, Baudatum, Ursprungsmarkt und Trim prüfen.</p>\n      <h2>UK-Versionen</h2>\n      <p>Design 354 mi WLTP, RWD, 5,9 s; Excellence AWD 323 mi, 3,8 s, 390 kW/530 PS. 82,5-kWh-LFP für beide UK-Referenzen.</p>\n      <h2>Laden/Stauraum</h2>\n      <p>UK: 11 kW AC, bis 150 kW DC, 485 L Heck + 72 L Frunk. Reales Fahrzeug separat prüfen.</p>\n      <h2>Sicherheit</h2>\n      <p>Euro NCAP 2023/ANCAP nur im jeweiligen Scope, nicht „weltweit fünf Sterne“.</p>\n      <h2>Online-Dienste</h2>\n      <p>Navigation, App, OTA und Konnektivität können regional sein.</p>\n      <h2>Entscheidung</h2>\n      <p>VIN, Markt, Antrieb, Laden, Reichweite, Rating, Garantie, Software, Reifen, Teile und Diagnose bestätigen.</p>\n      <h2>Nachweise in der Vertragsakte festhalten</h2>\n      <p>Die Einkaufsakte für BYD SEAL Export: Welche Version kaufen Sie tatsächlich? muss das angebotene Fahrzeug, den Ursprungsmarkt, das Ziel, das Datum der Nachweise und den verantwortlichen Lieferanten nennen. Anschließend ist zu dokumentieren, wie das Angebot 2026 nur marktgebunden, UK-Versionen, Laden/Stauraum, Sicherheit, Online-Dienste erfüllt. VIN-Unterlagen, Fotos, Angebot, Zulassungsnachweise und Servicebelege gehören in dieselbe Akte. Ein ungeklärter Punkt bleibt bedingt und darf nicht als Tatsache erscheinen. Im Vertrag muss stehen, wer Abweichungen berichtigt und was geschieht, wenn die vor dem Versand gelieferten Nachweise nicht zum Fahrzeug passen. So kann eine zweite Prüfung den Vorgang nachvollziehen, ohne eine Baureihenseite mit dem Beweis für ein einzelnes Fahrzeug zu verwechseln.</p>\n      <h2>Offene Fragen in eine Zahlungsentscheidung überführen</h2>\n      <p>BYD SEAL mit aktueller UK-2026-Spezifikation als kontrollierter Referenz: Version, Reichweite, Laden, Sicherheit, Software und Zielkompatibilität prüfen. Die Entscheidung muss dieser Beweiskette folgen: 2026 nur marktgebunden; UK-Versionen; Laden/Stauraum; Sicherheit; Online-Dienste; Entscheidung. Jeder Schritt ist demselben Fahrzeug, Ursprungsmarkt und Zielort zuzuordnen, damit unterschiedliche Ausführungen nicht miteinander vermischt werden.</p>\n      <p>BYD SEAL Export: Welche Version kaufen Sie tatsächlich?: Vor der Zahlungsfreigabe muss die Akte diese Fragen eindeutig beantworten: BYD SEAL: Ist dies eine weltweit einheitliche 2026-Spezifikation?; BYD SEAL: Welche Identitätsnachweise sind vor Anzahlung nötig?; BYD SEAL: Genehmigt die Sicherheitsbewertung den Import?; BYD SEAL: Welche Betriebskompatibilität ist zu prüfen?. Eine Antwort ist nur belastbar, wenn Dokument, Datum, Aussteller und verantwortliche Partei genannt sind. Ein offener Punkt bleibt Vertragsbedingung und darf weder als bestätigte Ausstattung noch als garantierter Kostenposten dargestellt werden. 2026 nur marktgebunden; UK-Versionen; Laden/Stauraum; Sicherheit; Online-Dienste; Entscheidung.</p>\n      <h2>Häufige Fragen</h2>\n      <h3>BYD SEAL: Ist dies eine weltweit einheitliche 2026-Spezifikation?</h3>\n      <p>Nein. Die Angaben betreffen das britische Modelljahr 2026 in den Varianten Design und Excellence AWD. Für andere Ursprungsmärkte oder Modelljahre ist ein eigenes Datenblatt erforderlich.</p>\n      <h3>BYD SEAL: Welche Identitätsnachweise sind vor Anzahlung nötig?</h3>\n      <p>Fordern Sie VIN, Produktionsdatum, ursprünglichen Absatzmarkt, genaue Variante und ein datiertes Ausstattungsblatt an. Dokumente und Fotos müssen dasselbe Fahrzeug identifizieren.</p>\n      <h3>BYD SEAL: Genehmigt die Sicherheitsbewertung den Import?</h3>\n      <p>Nein. Eine Sicherheitsbewertung und die Zulassung eines Importfahrzeugs sind getrennte Fragen. Prüfen Sie die erfassten Varianten und die Anforderungen des Ziellandes jeweils gesondert.</p>\n      <h3>BYD SEAL: Welche Betriebskompatibilität ist zu prüfen?</h3>\n      <p>Prüfen Sie Ladeanschluss, örtliches Ladenetz, Apps, Navigation, Garantiegebiet und Werkstattunterstützung. Britische Ausstattung belegt nicht die Verfügbarkeit vernetzter Dienste im Ausland.</p>\n      <h3>BYD SEAL: Wie werden vollständige Einstandskosten verglichen?</h3>\n      <p>Vergleichen Sie dieselbe Fahrzeugkonfiguration, dasselbe Ziel und gleiche Lieferbedingungen. Berücksichtigen Sie Prüfung, Transport, Fracht, Versicherung, anwendbare Steuern, Zulassung und notwendige Anpassungen.</p>\n\n      <h2>Quellen</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://www.byd.com/eu/electric-cars/seal.html\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL: Dynamic and Intelligent</a><span>BYD Europe · 2026-07-19</span></li>\n        <li><a href=\"https://www.euroncap.com/assessments/byd/seal/1044/\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL safety rating and report</a><span>Euro NCAP · 2026-07-19</span></li>\n        <li><a href=\"https://www.ancap.com.au/safety-ratings/byd/seal/72ba9e\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL safety rating and report</a><span>ANCAP Safety · 2026-07-19</span></li>\n        <li><a href=\"https://unece.org/transport/vehicle-regulations\" target=\"_blank\" rel=\"noopener noreferrer\">Vehicle regulations</a><span>United Nations Economic Commission for Europe · 2026-07-19</span></li>\n        <li><a href=\"https://www.byd.com/content/dam/byd-site/id/brochure/SEAL-BROCHURE.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL brochure</a><span>BYD Indonesia · 2026-08-13</span></li>\n        <li><a href=\"https://www.byd.com/material/byd-site/sg/product/pdf/BYD%20Seal%20Spec%20Sheet-PREVIEW%20.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL specification sheet</a><span>BYD Singapore · 2026-08-13</span></li>\n      </ul>\n    </article><aside class=\"spec-panel\"><h2>Britische Daten, Modelljahr 2026</h2><p>Nur britisches Modelljahr 2026: Design und Excellence AWD. Diese Angaben belegen nicht die Ausstattung eines noch nicht eindeutig identifizierten Exportfahrzeugs.</p><dl class=\"spec-list\"><div><dt>Batteriekapazität</dt><dd>82.5 kWh (LFP)</dd></div><div><dt>Antrieb</dt><dd>Design: Hinterradantrieb; Excellence AWD: Allradantrieb</dd></div><div><dt>Maximale Motorleistung</dt><dd>Design: 312 PS; Excellence AWD: 530 PS</dd></div><div><dt>WLTP-Reichweite kombiniert</dt><dd>Design: 354 Meilen; Excellence AWD: 323 Meilen</dd></div><div><dt>Beschleunigung 0–62 mph</dt><dd>Design: 5.9 s; Excellence AWD: 3.8 s</dd></div><div><dt>Maximale AC-Ladeleistung</dt><dd>11 kW</dd></div><div><dt>Maximale DC-Ladeleistung</dt><dd>150 kW</dd></div><div><dt>Ladeanschluss</dt><dd>CCS2</dd></div><div><dt>Kofferraum hinten</dt><dd>485 L</dd></div><div><dt>Stauraum vorn</dt><dd>72 L</dd></div></dl><p><a href=\"https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">BYD UK, technische Daten zum Modelljahr 2026, Seite 7</a> · 2026-09-05</p></aside></section>\n  </main>",
+      "word_count": 331,
+      "reading_time_minutes": 2,
+      "last_reviewed": "2026-08-30",
+      "image": {
+        "src": "../../assets/editorial/byd-seal.jpg",
+        "alt": "Fotografie des BYD SEAL als Referenz für die Modellfamilie",
+        "wiki_title": "BYD Seal",
+        "caption": "Fotografie des BYD SEAL als Referenz für die Modellfamilie",
+        "wiki_file_title": "",
+        "source_page": "https://en.wikipedia.org/wiki/BYD_Seal",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:2022_BYD_Seal.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/2022_BYD_Seal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 4.0",
+        "artist": "User 3204",
+        "credit": "Own work",
+        "candidate_description": "​一輛來自東莞（粤S牌）的比亞迪海豹，拍攝於中國廣東省深圳市羅湖區",
+        "identity_status": "confirmed_model_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-08-20T18:24:20.812Z",
+        "identity_reviewer": "codex-visual-review-2026-08-21",
+        "identity_review_note": "Visible vehicle matches the BYD SEAL model family; no exact trim, build date or destination specification is claimed.",
+        "review_note": "Reusable-license metadata and visible model identity confirmed for this content record."
+      },
+      "specifications": [
+        {
+          "label": "Batteriekapazität",
+          "value": "82.5 kWh (LFP)",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Antrieb",
+          "value": "Design: Hinterradantrieb; Excellence AWD: Allradantrieb",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Maximale Motorleistung",
+          "value": "Design: 312 PS; Excellence AWD: 530 PS",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "WLTP-Reichweite kombiniert",
+          "value": "Design: 354 Meilen; Excellence AWD: 323 Meilen",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Beschleunigung 0–62 mph",
+          "value": "Design: 5.9 s; Excellence AWD: 3.8 s",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Maximale AC-Ladeleistung",
+          "value": "11 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Maximale DC-Ladeleistung",
+          "value": "150 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Ladeanschluss",
+          "value": "CCS2",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Kofferraum hinten",
+          "value": "485 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Stauraum vorn",
+          "value": "72 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        }
+      ],
+      "review_status": "editorial_review_pending"
+    },
+    "es": {
+      "title": "BYD SEAL para exportar: ¿qué versión está comprando realmente?",
+      "seo_title": "BYD SEAL para exportación: referencia UK 2026",
+      "meta_description": "Guía BYD SEAL usando la especificación UK 2026 como referencia controlada: versiones, autonomía, carga, seguridad, software y compatibilidad.",
+      "summary": "Guía BYD SEAL usando la especificación UK 2026 como referencia controlada: versiones, autonomía, carga, seguridad, software y compatibilidad.",
+      "eyebrow": "Investigación de exportación por configuración",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../es/index.html\">Inicio</a><span>/</span><a href=\"../../es/vehicles/index.html\">Vehículos</a><span>/</span><span>BYD SEAL para exportar: ¿qué versión está comprando realmente?</span></nav>\n    <section class=\"vehicle-detail-hero\"><div><p class=\"eyebrow\">Investigación de exportación por configuración</p><h1>BYD SEAL para exportar: ¿qué versión está comprando realmente?</h1><p class=\"lead\">Guía BYD SEAL usando la especificación UK 2026 como referencia controlada: versiones, autonomía, carga, seguridad, software y compatibilidad.</p></div><div class=\"detail-media\"><img src=\"../../assets/editorial/byd-seal.jpg\" alt=\"Fotografía del BYD SEAL usada como referencia de la familia del modelo\" loading=\"lazy\"></div></section>\n    <section class=\"detail-layout\"><article class=\"detail-main\">\n      <h2>2026 solo donde la fuente lo demuestra</h2>\n      <p>BYD UK vende actualmente SEAL 2026 Design y Excellence AWD. Es evidencia del Reino Unido, no una ficha global.</p>\n      <h2>Versiones UK</h2>\n      <p>Design: 354 millas WLTP, RWD, 5,9 s. Excellence AWD: 323 millas, AWD, 3,8 s, 390 kW/530 PS. 82,5 kWh LFP en ambas referencias.</p>\n      <h2>Carga y maletero</h2>\n      <p>UK: 11 kW AC, hasta 150 kW DC, 485 L traseros y 72 L frunk. Verifique el VIN real.</p>\n      <h2>Seguridad</h2>\n      <p>Euro NCAP 2023 y ANCAP tienen alcance específico; no diga “cinco estrellas global”.</p>\n      <h2>Servicios</h2>\n      <p>Navegación, app, OTA y conectividad pueden depender de región.</p>\n      <h2>Decisión</h2>\n      <p>VIN, mercado, motor/batería, carga, autonomía, rating, garantía, software, neumáticos, piezas y diagnóstico.</p>\n      <h2>Registrar las pruebas en el expediente contractual</h2>\n      <p>El expediente de compra de BYD SEAL para exportar: ¿qué versión está comprando realmente? debe identificar la unidad, el mercado de origen, el destino, la fecha de las pruebas y el proveedor responsable. Después debe explicar cómo la oferta resuelve 2026 solo donde la fuente lo demuestra, Versiones UK, Carga y maletero, Seguridad, Servicios. Vincule al mismo expediente el VIN, las fotografías, la cotización, los documentos de homologación y las pruebas de servicio. Un punto sin resolver debe seguir siendo condicional y no convertirse en un hecho. El contrato debe indicar quién corrige una discrepancia y qué ocurre si la prueba entregada antes del embarque no coincide con el vehículo. Este registro permite una segunda revisión útil y evita confundir una página de gama con la prueba de una unidad física.</p>\n      <h2>Convertir las dudas abiertas en una decisión de pago</h2>\n      <p>Guía BYD SEAL usando la especificación UK 2026 como referencia controlada: versiones, autonomía, carga, seguridad, software y compatibilidad. La decisión debe seguir esta cadena de pruebas: 2026 solo donde la fuente lo demuestra; Versiones UK; Carga y maletero; Seguridad; Servicios; Decisión. Cada paso debe corresponder a la misma unidad, al mismo mercado de origen y al mismo destino para no mezclar versiones incompatibles.</p>\n      <p>BYD SEAL para exportar: ¿qué versión está comprando realmente?: Antes de autorizar el pago, el expediente debe responder con claridad a estas preguntas: BYD SEAL: ¿Es una especificación 2026 universal?; BYD SEAL: ¿Qué identidad debe probarse antes del anticipo?; BYD SEAL: ¿La nota de seguridad autoriza la importación?; BYD SEAL: ¿Qué compatibilidad operativa hay que comprobar?. Una respuesta solo es utilizable si identifica el documento, la fecha, el emisor y la parte responsable. Cualquier supuesto pendiente sigue siendo una condición contractual; no puede presentarse como equipamiento confirmado ni como coste garantizado. 2026 solo donde la fuente lo demuestra; Versiones UK; Carga y maletero; Seguridad; Servicios; Decisión.</p>\n      <h2>Preguntas frecuentes</h2>\n      <h3>BYD SEAL: ¿Es una especificación 2026 universal?</h3>\n      <p>No. Las cifras corresponden a los Design y Excellence AWD británicos del año modelo 2026. Otro mercado de origen o año modelo requiere su propia ficha técnica.</p>\n      <h3>BYD SEAL: ¿Qué identidad debe probarse antes del anticipo?</h3>\n      <p>Solicite el VIN, la fecha de fabricación, el mercado de origen, la versión exacta y una ficha de configuración fechada. Los documentos y las fotografías deben identificar el mismo vehículo.</p>\n      <h3>BYD SEAL: ¿La nota de seguridad autoriza la importación?</h3>\n      <p>No. Una evaluación de seguridad y la autorización para matricular un vehículo importado son cuestiones distintas. Compruebe por separado las versiones cubiertas y los requisitos del destino.</p>\n      <h3>BYD SEAL: ¿Qué compatibilidad operativa hay que comprobar?</h3>\n      <p>Compruebe el conector real, la red local de carga, las aplicaciones, la navegación, el territorio de garantía y el servicio técnico. El equipamiento británico no garantiza servicios conectados en otro país.</p>\n      <h3>BYD SEAL: ¿Cómo se compara el coste total en destino?</h3>\n      <p>Compare la misma configuración, destino y condiciones de entrega. Incluya inspección, transporte, flete, seguro, impuestos aplicables, matriculación y adaptaciones necesarias.</p>\n\n      <h2>Fuentes</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://www.byd.com/eu/electric-cars/seal.html\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL: Dynamic and Intelligent</a><span>BYD Europe · 2026-07-19</span></li>\n        <li><a href=\"https://www.euroncap.com/assessments/byd/seal/1044/\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL safety rating and report</a><span>Euro NCAP · 2026-07-19</span></li>\n        <li><a href=\"https://www.ancap.com.au/safety-ratings/byd/seal/72ba9e\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL safety rating and report</a><span>ANCAP Safety · 2026-07-19</span></li>\n        <li><a href=\"https://unece.org/transport/vehicle-regulations\" target=\"_blank\" rel=\"noopener noreferrer\">Vehicle regulations</a><span>United Nations Economic Commission for Europe · 2026-07-19</span></li>\n        <li><a href=\"https://www.byd.com/content/dam/byd-site/id/brochure/SEAL-BROCHURE.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL brochure</a><span>BYD Indonesia · 2026-08-13</span></li>\n        <li><a href=\"https://www.byd.com/material/byd-site/sg/product/pdf/BYD%20Seal%20Spec%20Sheet-PREVIEW%20.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL specification sheet</a><span>BYD Singapore · 2026-08-13</span></li>\n      </ul>\n    </article><aside class=\"spec-panel\"><h2>Especificaciones británicas, año modelo 2026</h2><p>Solo Reino Unido, año modelo 2026: Design y Excellence AWD. Estos datos no acreditan la configuración de un vehículo de exportación sin identificar.</p><dl class=\"spec-list\"><div><dt>Capacidad de batería</dt><dd>82.5 kWh (LFP)</dd></div><div><dt>Tracción</dt><dd>Design: tracción trasera; Excellence AWD: tracción integral</dd></div><div><dt>Potencia máxima del motor</dt><dd>Design: 312 PS; Excellence AWD: 530 PS</dd></div><div><dt>Autonomía combinada WLTP</dt><dd>Design: 354 millas; Excellence AWD: 323 millas</dd></div><div><dt>Aceleración de 0 a 62 mph</dt><dd>Design: 5.9 s; Excellence AWD: 3.8 s</dd></div><div><dt>Potencia máxima de carga CA</dt><dd>11 kW</dd></div><div><dt>Potencia máxima de carga CC</dt><dd>150 kW</dd></div><div><dt>Conector de carga</dt><dd>CCS2</dd></div><div><dt>Maletero trasero</dt><dd>485 L</dd></div><div><dt>Maletero delantero</dt><dd>72 L</dd></div></dl><p><a href=\"https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Ficha técnica BYD Reino Unido, año modelo 2026, página 7</a> · 2026-09-05</p></aside></section>\n  </main>",
+      "word_count": 395,
+      "reading_time_minutes": 2,
+      "last_reviewed": "2026-08-30",
+      "image": {
+        "src": "../../assets/editorial/byd-seal.jpg",
+        "alt": "Fotografía del BYD SEAL usada como referencia de la familia del modelo",
+        "wiki_title": "BYD Seal",
+        "caption": "Fotografía del BYD SEAL usada como referencia de la familia del modelo",
+        "wiki_file_title": "",
+        "source_page": "https://en.wikipedia.org/wiki/BYD_Seal",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:2022_BYD_Seal.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/2022_BYD_Seal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 4.0",
+        "artist": "User 3204",
+        "credit": "Own work",
+        "candidate_description": "​一輛來自東莞（粤S牌）的比亞迪海豹，拍攝於中國廣東省深圳市羅湖區",
+        "identity_status": "confirmed_model_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-08-20T18:24:20.812Z",
+        "identity_reviewer": "codex-visual-review-2026-08-21",
+        "identity_review_note": "Visible vehicle matches the BYD SEAL model family; no exact trim, build date or destination specification is claimed.",
+        "review_note": "Reusable-license metadata and visible model identity confirmed for this content record."
+      },
+      "specifications": [
+        {
+          "label": "Capacidad de batería",
+          "value": "82.5 kWh (LFP)",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Tracción",
+          "value": "Design: tracción trasera; Excellence AWD: tracción integral",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Potencia máxima del motor",
+          "value": "Design: 312 PS; Excellence AWD: 530 PS",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Autonomía combinada WLTP",
+          "value": "Design: 354 millas; Excellence AWD: 323 millas",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Aceleración de 0 a 62 mph",
+          "value": "Design: 5.9 s; Excellence AWD: 3.8 s",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Potencia máxima de carga CA",
+          "value": "11 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Potencia máxima de carga CC",
+          "value": "150 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Conector de carga",
+          "value": "CCS2",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Maletero trasero",
+          "value": "485 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Maletero delantero",
+          "value": "72 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        }
+      ],
+      "review_status": "editorial_review_pending"
+    },
+    "pt-br": {
+      "title": "BYD SEAL para exportar: qual versão você está realmente comprando?",
+      "seo_title": "BYD SEAL para exportação: referência UK 2026",
+      "meta_description": "Guia BYD SEAL com especificação UK 2026 como referência controlada: versões, autonomia, carga, segurança, software e compatibilidade.",
+      "summary": "Guia BYD SEAL com especificação UK 2026 como referência controlada: versões, autonomia, carga, segurança, software e compatibilidade.",
+      "eyebrow": "Pesquisa de exportação por configuração",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../pt-br/index.html\">Início</a><span>/</span><a href=\"../../pt-br/vehicles/index.html\">Veículos</a><span>/</span><span>BYD SEAL para exportar: qual versão você está realmente comprando?</span></nav>\n    <section class=\"vehicle-detail-hero\"><div><p class=\"eyebrow\">Pesquisa de exportação por configuração</p><h1>BYD SEAL para exportar: qual versão você está realmente comprando?</h1><p class=\"lead\">Guia BYD SEAL com especificação UK 2026 como referência controlada: versões, autonomia, carga, segurança, software e compatibilidade.</p></div><div class=\"detail-media\"><img src=\"../../assets/editorial/byd-seal.jpg\" alt=\"Fotografia do BYD SEAL usada como referência da família do modelo\" loading=\"lazy\"></div></section>\n    <section class=\"detail-layout\"><article class=\"detail-main\">\n      <h2>2026 apenas onde comprovado</h2>\n      <p>BYD UK oferece SEAL 2026 Design e Excellence AWD; isso comprova o mercado britânico, não uma especificação mundial.</p>\n      <h2>Versões UK</h2>\n      <p>Design: 354 mi WLTP, RWD, 5,9 s. Excellence AWD: 323 mi, AWD, 3,8 s, 390 kW/530 PS. 82,5 kWh LFP nas duas referências.</p>\n      <h2>Carga/espaço</h2>\n      <p>UK: 11 kW AC, até 150 kW DC, 485 L traseiros + 72 L frunk.</p>\n      <h2>Segurança</h2>\n      <p>Euro NCAP 2023 e ANCAP têm escopo definido; não generalize cinco estrelas.</p>\n      <h2>Serviços</h2>\n      <p>Navegação, app, OTA e conectividade podem ser regionais.</p>\n      <h2>Decisão</h2>\n      <p>Confirme VIN, mercado, motor/bateria, carga, alcance, rating, garantia, software, pneus, peças e diagnóstico.</p>\n      <h2>Registrar as provas no arquivo contratual</h2>\n      <p>O arquivo de compra de BYD SEAL para exportar: qual versão você está realmente comprando? deve identificar a unidade, o mercado de origem, o destino, a data das provas e o fornecedor responsável. Em seguida, deve explicar como a oferta resolve 2026 apenas onde comprovado, Versões UK, Carga/espaço, Segurança, Serviços. Vincule ao mesmo arquivo o VIN, as fotografias, a cotação, os documentos de homologação e as provas de serviço. Um ponto não resolvido deve continuar condicional, sem virar fato. O contrato precisa indicar quem corrige uma divergência e o que acontece se a prova entregue antes do embarque não corresponder ao veículo. Esse registro permite uma segunda revisão útil e evita confundir uma página de linha com a prova de uma unidade física.</p>\n      <h2>Transformar dúvidas abertas em decisão de pagamento</h2>\n      <p>Guia BYD SEAL com especificação UK 2026 como referência controlada: versões, autonomia, carga, segurança, software e compatibilidade. A decisão deve seguir esta cadeia de evidências: 2026 apenas onde comprovado; Versões UK; Carga/espaço; Segurança; Serviços; Decisão. Cada etapa precisa corresponder à mesma unidade, ao mesmo mercado de origem e ao mesmo destino, evitando a comparação entre versões incompatíveis.</p>\n      <p>BYD SEAL para exportar: qual versão você está realmente comprando?: Antes de autorizar o pagamento, o arquivo deve responder claramente a estas perguntas: BYD SEAL: Esta é uma especificação 2026 universal?; BYD SEAL: Que identidade deve ser comprovada antes do sinal?; BYD SEAL: A nota de segurança autoriza a importação?; BYD SEAL: Que compatibilidade operacional deve ser verificada?. Uma resposta só é utilizável quando identifica o documento, a data, o emissor e a parte responsável. Qualquer hipótese ainda aberta continua como condição contratual; não pode virar equipamento confirmado nem custo garantido. 2026 apenas onde comprovado; Versões UK; Carga/espaço; Segurança; Serviços; Decisão.</p>\n      <h2>Perguntas frequentes</h2>\n      <h3>BYD SEAL: Esta é uma especificação 2026 universal?</h3>\n      <p>Não. Os números correspondem aos Design e Excellence AWD britânicos do ano-modelo 2026. Outro mercado de origem ou ano-modelo exige uma ficha técnica própria.</p>\n      <h3>BYD SEAL: Que identidade deve ser comprovada antes do sinal?</h3>\n      <p>Solicite o VIN, a data de fabricação, o mercado de origem, a versão exata e uma ficha de configuração datada. Documentos e fotografias devem identificar o mesmo veículo.</p>\n      <h3>BYD SEAL: A nota de segurança autoriza a importação?</h3>\n      <p>Não. Uma avaliação de segurança e a autorização para registrar um veículo importado são questões distintas. Verifique separadamente as versões abrangidas e as exigências do destino.</p>\n      <h3>BYD SEAL: Que compatibilidade operacional deve ser verificada?</h3>\n      <p>Confira o conector real, a rede local de recarga, os aplicativos, a navegação, o território da garantia e a assistência técnica. O equipamento britânico não garante serviços conectados no exterior.</p>\n      <h3>BYD SEAL: Como comparar o custo total no destino?</h3>\n      <p>Compare a mesma configuração, destino e condições de entrega. Inclua inspeção, transporte, frete, seguro, tributos aplicáveis, registro e adaptações necessárias.</p>\n\n      <h2>Fontes</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://www.byd.com/eu/electric-cars/seal.html\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL: Dynamic and Intelligent</a><span>BYD Europe · 2026-07-19</span></li>\n        <li><a href=\"https://www.euroncap.com/assessments/byd/seal/1044/\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL safety rating and report</a><span>Euro NCAP · 2026-07-19</span></li>\n        <li><a href=\"https://www.ancap.com.au/safety-ratings/byd/seal/72ba9e\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL safety rating and report</a><span>ANCAP Safety · 2026-07-19</span></li>\n        <li><a href=\"https://unece.org/transport/vehicle-regulations\" target=\"_blank\" rel=\"noopener noreferrer\">Vehicle regulations</a><span>United Nations Economic Commission for Europe · 2026-07-19</span></li>\n        <li><a href=\"https://www.byd.com/content/dam/byd-site/id/brochure/SEAL-BROCHURE.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL brochure</a><span>BYD Indonesia · 2026-08-13</span></li>\n        <li><a href=\"https://www.byd.com/material/byd-site/sg/product/pdf/BYD%20Seal%20Spec%20Sheet-PREVIEW%20.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL specification sheet</a><span>BYD Singapore · 2026-08-13</span></li>\n      </ul>\n    </article><aside class=\"spec-panel\"><h2>Especificações britânicas, ano-modelo 2026</h2><p>Somente Reino Unido, ano-modelo 2026: Design e Excellence AWD. Esses dados não comprovam a configuração de um veículo de exportação ainda não identificado.</p><dl class=\"spec-list\"><div><dt>Capacidade da bateria</dt><dd>82.5 kWh (LFP)</dd></div><div><dt>Tração</dt><dd>Design: tração traseira; Excellence AWD: tração integral</dd></div><div><dt>Potência máxima do motor</dt><dd>Design: 312 PS; Excellence AWD: 530 PS</dd></div><div><dt>Autonomia combinada WLTP</dt><dd>Design: 354 milhas; Excellence AWD: 323 milhas</dd></div><div><dt>Aceleração de 0 a 62 mph</dt><dd>Design: 5.9 s; Excellence AWD: 3.8 s</dd></div><div><dt>Potência máxima de recarga CA</dt><dd>11 kW</dd></div><div><dt>Potência máxima de recarga CC</dt><dd>150 kW</dd></div><div><dt>Conector de recarga</dt><dd>CCS2</dd></div><div><dt>Porta-malas traseiro</dt><dd>485 L</dd></div><div><dt>Porta-malas dianteiro</dt><dd>72 L</dd></div></dl><p><a href=\"https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Ficha técnica BYD Reino Unido, ano-modelo 2026, página 7</a> · 2026-09-05</p></aside></section>\n  </main>",
+      "word_count": 370,
+      "reading_time_minutes": 2,
+      "last_reviewed": "2026-08-30",
+      "image": {
+        "src": "../../assets/editorial/byd-seal.jpg",
+        "alt": "Fotografia do BYD SEAL usada como referência da família do modelo",
+        "wiki_title": "BYD Seal",
+        "caption": "Fotografia do BYD SEAL usada como referência da família do modelo",
+        "wiki_file_title": "",
+        "source_page": "https://en.wikipedia.org/wiki/BYD_Seal",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:2022_BYD_Seal.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/2022_BYD_Seal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 4.0",
+        "artist": "User 3204",
+        "credit": "Own work",
+        "candidate_description": "​一輛來自東莞（粤S牌）的比亞迪海豹，拍攝於中國廣東省深圳市羅湖區",
+        "identity_status": "confirmed_model_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-08-20T18:24:20.812Z",
+        "identity_reviewer": "codex-visual-review-2026-08-21",
+        "identity_review_note": "Visible vehicle matches the BYD SEAL model family; no exact trim, build date or destination specification is claimed.",
+        "review_note": "Reusable-license metadata and visible model identity confirmed for this content record."
+      },
+      "specifications": [
+        {
+          "label": "Capacidade da bateria",
+          "value": "82.5 kWh (LFP)",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Tração",
+          "value": "Design: tração traseira; Excellence AWD: tração integral",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Potência máxima do motor",
+          "value": "Design: 312 PS; Excellence AWD: 530 PS",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Autonomia combinada WLTP",
+          "value": "Design: 354 milhas; Excellence AWD: 323 milhas",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Aceleração de 0 a 62 mph",
+          "value": "Design: 5.9 s; Excellence AWD: 3.8 s",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Potência máxima de recarga CA",
+          "value": "11 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Potência máxima de recarga CC",
+          "value": "150 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Conector de recarga",
+          "value": "CCS2",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Porta-malas traseiro",
+          "value": "485 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Porta-malas dianteiro",
+          "value": "72 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        }
+      ],
+      "review_status": "editorial_review_pending"
+    },
+    "ja": {
+      "title": "BYD SEAL輸出購入：実際にどの仕様を買うのか",
+      "seo_title": "BYD SEAL輸出ガイド：英国2026仕様を基準に確認",
+      "meta_description": "英国2026 SEALを管理された参考値として、グレード、航続距離、充電、安全評価、ソフトウェア、仕向国互換性を確認します。",
+      "summary": "英国2026 SEALを管理された参考値として、グレード、航続距離、充電、安全評価、ソフトウェア、仕向国互換性を確認します。",
+      "eyebrow": "仕様を特定する輸出調査",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../ja/index.html\">ホーム</a><span>/</span><a href=\"../../ja/vehicles/index.html\">車種</a><span>/</span><span>BYD SEAL輸出購入：実際にどの仕様を買うのか</span></nav>\n    <section class=\"vehicle-detail-hero\"><div><p class=\"eyebrow\">仕様を特定する輸出調査</p><h1>BYD SEAL輸出購入：実際にどの仕様を買うのか</h1><p class=\"lead\">英国2026 SEALを管理された参考値として、グレード、航続距離、充電、安全評価、ソフトウェア、仕向国互換性を確認します。</p></div><div class=\"detail-media\"><img src=\"../../assets/editorial/byd-seal.jpg\" alt=\"モデルファミリーの参考画像として使用するBYD SEALの写真\" loading=\"lazy\"></div></section>\n    <section class=\"detail-layout\"><article class=\"detail-main\">\n      <h2>2026は英国の証拠</h2>\n      <p>BYD UKは現在SEAL 2026 Design/Excellence AWDを販売。 英国の証拠であり世界共通仕様ではありません。 VIN、生産日、元市場を確認します。</p>\n      <h2>英国2仕様</h2>\n      <p>Design 354mi WLTP/RWD/5.9秒、Excellence AWD 323mi/3.8秒/390kW。 両方82.5kWh LFP。</p>\n      <h2>充電と荷室 / 安全</h2>\n      <p>英国資料はAC 11kW、DC最大150kW、後485L＋前72L。 実車VINで再確認します。 Euro NCAP 2023とANCAPは適用範囲を記録し、世界共通5星と書きません。</p>\n      <h2>オンライン機能 / 判断</h2>\n      <p>ナビ、アプリ、OTA、通信は地域制限を確認。 VIN、市場、駆動、充電、航続、安全、保証、ソフト、タイヤ、部品、診断を確認。</p>\n      <h2>証拠を契約ファイルに記録する</h2>\n      <p>BYD SEAL輸出購入：実際にどの仕様を買うのかの購入記録には、提示車両、原販売市場、仕向国、証拠の日付、責任を負う供給者を明記します。 さらに、提示条件が2026は英国の証拠, 英国2仕様, 充電と荷室 / 安全, オンライン機能 / 判断, 未確認事項を支払判断に変えるをどう満たすか記録してください。 VIN資料、写真、見積書、認可書類、整備証拠は同じファイルに関連付けます。 未解決事項を事実に変えず、条件付きとして残します。 契約には、不一致を誰が修正するか、出荷前の証拠と実車が一致しない場合に何を行うかを定めます。 この記録により、二人目の確認者が判断を追跡でき、車種全体のウェブページを一台の実車証明と誤認することを防げます。</p>\n      <h2>未確認事項を支払判断に変える</h2>\n      <p>英国2026 SEALを管理された参考値として、グレード、航続距離、充電、安全評価、ソフトウェア、仕向国互換性を確認します。 支払判断は次の証拠の流れに沿って行います：2026は英国の証拠; 英国2仕様; 充電と荷室 / 安全; オンライン機能 / 判断。仕様違いを混同しないよう、各段階を同じ提示車両、原販売市場、仕向地に結び付けます。</p>\n      <p>BYD SEAL輸出購入：実際にどの仕様を買うのか: 支払承認前に、購入記録は次の問いへ明確に回答する必要があります：BYD SEAL: これは世界共通の2026年仕様ですか。; BYD SEAL: 手付金の前にどの同一性資料が必要ですか。; BYD SEAL: 安全評価だけで輸入登録できますか。; BYD SEAL: どの運用互換性を確認しますか。。 回答には根拠書類、日付、発行者、責任者を記録します。未確認事項は契約上の条件として残し、確認済み装備や保証された費用に書き換えません。証拠の対象車両または仕向地が変わった場合は、比較を最初からやり直します。 2026は英国の証拠; 英国2仕様; 充電と荷室 / 安全; オンライン機能 / 判断.</p>\n      <h2>よくある質問</h2>\n      <h3>BYD SEAL: これは世界共通の2026年仕様ですか。</h3>\n      <p>いいえ。本ページの数値は英国の2026年モデル、DesignとExcellence AWDのものです。元の販売市場やモデル年が異なる場合は、対応する仕様書が必要です。</p>\n      <h3>BYD SEAL: 手付金の前にどの同一性資料が必要ですか。</h3>\n      <p>VIN、製造日、元の販売市場、正確なグレード、日付入り仕様書を入手してください。書類と写真が同じ車両を示していることが必要です。</p>\n      <h3>BYD SEAL: 安全評価だけで輸入登録できますか。</h3>\n      <p>いいえ。衝突安全評価と輸入車の登録許可は別の問題です。評価対象の仕様と仕向国の受入要件を個別に確認してください。</p>\n      <h3>BYD SEAL: どの運用互換性を確認しますか。</h3>\n      <p>実車の充電端子、現地の充電網、アプリやナビの利用可否、保証地域、修理体制を確認します。英国仕様の装備が海外でも使えるとは限りません。</p>\n      <h3>BYD SEAL: 総到着費用はどう比較しますか。</h3>\n      <p>車両仕様、仕向地、引渡条件をそろえて比較します。検査、輸送、海上運賃、保険、適用税、登録、必要な改修費用を含めてください。</p>\n\n      <h2>情報源</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://www.byd.com/eu/electric-cars/seal.html\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL: Dynamic and Intelligent</a><span>BYD Europe · 2026-07-19</span></li>\n        <li><a href=\"https://www.euroncap.com/assessments/byd/seal/1044/\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL safety rating and report</a><span>Euro NCAP · 2026-07-19</span></li>\n        <li><a href=\"https://www.ancap.com.au/safety-ratings/byd/seal/72ba9e\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL safety rating and report</a><span>ANCAP Safety · 2026-07-19</span></li>\n        <li><a href=\"https://unece.org/transport/vehicle-regulations\" target=\"_blank\" rel=\"noopener noreferrer\">Vehicle regulations</a><span>United Nations Economic Commission for Europe · 2026-07-19</span></li>\n        <li><a href=\"https://www.byd.com/content/dam/byd-site/id/brochure/SEAL-BROCHURE.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL brochure</a><span>BYD Indonesia · 2026-08-13</span></li>\n        <li><a href=\"https://www.byd.com/material/byd-site/sg/product/pdf/BYD%20Seal%20Spec%20Sheet-PREVIEW%20.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL specification sheet</a><span>BYD Singapore · 2026-08-13</span></li>\n      </ul>\n    </article><aside class=\"spec-panel\"><h2>英国2026年モデルの仕様</h2><p>英国市場の2026年モデル、DesignとExcellence AWDのみが対象です。未確認の輸出車両の仕様を示すものではありません。</p><dl class=\"spec-list\"><div><dt>バッテリー容量</dt><dd>82.5 kWh (LFP)</dd></div><div><dt>駆動方式</dt><dd>Design：後輪駆動、Excellence AWD：全輪駆動</dd></div><div><dt>モーター最高出力</dt><dd>Design: 312 PS; Excellence AWD: 530 PS</dd></div><div><dt>WLTP複合航続距離</dt><dd>Design: 354 マイル; Excellence AWD: 323 マイル</dd></div><div><dt>0–62 mph加速</dt><dd>Design: 5.9 秒; Excellence AWD: 3.8 秒</dd></div><div><dt>AC最大充電出力</dt><dd>11 kW</dd></div><div><dt>DC最大充電出力</dt><dd>150 kW</dd></div><div><dt>充電端子</dt><dd>CCS2</dd></div><div><dt>後部荷室容量</dt><dd>485 L</dd></div><div><dt>前部荷室容量</dt><dd>72 L</dd></div></dl><p><a href=\"https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">BYD英国2026年モデル技術資料、7ページ</a> · 2026-09-05</p></aside></section>\n  </main>",
+      "word_count": 1068,
+      "reading_time_minutes": 5,
+      "last_reviewed": "2026-08-30",
+      "image": {
+        "src": "../../assets/editorial/byd-seal.jpg",
+        "alt": "モデルファミリーの参考画像として使用するBYD SEALの写真",
+        "wiki_title": "BYD Seal",
+        "caption": "モデルファミリーの参考画像として使用するBYD SEALの写真",
+        "wiki_file_title": "",
+        "source_page": "https://en.wikipedia.org/wiki/BYD_Seal",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:2022_BYD_Seal.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/2022_BYD_Seal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 4.0",
+        "artist": "User 3204",
+        "credit": "Own work",
+        "candidate_description": "​一輛來自東莞（粤S牌）的比亞迪海豹，拍攝於中國廣東省深圳市羅湖區",
+        "identity_status": "confirmed_model_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-08-20T18:24:20.812Z",
+        "identity_reviewer": "codex-visual-review-2026-08-21",
+        "identity_review_note": "Visible vehicle matches the BYD SEAL model family; no exact trim, build date or destination specification is claimed.",
+        "review_note": "Reusable-license metadata and visible model identity confirmed for this content record."
+      },
+      "specifications": [
+        {
+          "label": "バッテリー容量",
+          "value": "82.5 kWh (LFP)",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "駆動方式",
+          "value": "Design：後輪駆動、Excellence AWD：全輪駆動",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "モーター最高出力",
+          "value": "Design: 312 PS; Excellence AWD: 530 PS",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "WLTP複合航続距離",
+          "value": "Design: 354 マイル; Excellence AWD: 323 マイル",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "0–62 mph加速",
+          "value": "Design: 5.9 秒; Excellence AWD: 3.8 秒",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "AC最大充電出力",
+          "value": "11 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "DC最大充電出力",
+          "value": "150 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "充電端子",
+          "value": "CCS2",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "後部荷室容量",
+          "value": "485 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "前部荷室容量",
+          "value": "72 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        }
+      ],
+      "review_status": "editorial_review_pending"
+    },
+    "ko": {
+      "title": "BYD SEAL 수출 구매: 실제 어떤 버전을 사는가?",
+      "seo_title": "BYD SEAL 수출 가이드: 영국 2026 사양 기준",
+      "meta_description": "영국 2026 SEAL을 통제된 기준으로 사용해 트림, 주행거리, 충전, 안전, 소프트웨어와 목적지 호환성을 확인합니다.",
+      "summary": "영국 2026 SEAL을 통제된 기준으로 사용해 트림, 주행거리, 충전, 안전, 소프트웨어와 목적지 호환성을 확인합니다.",
+      "eyebrow": "사양을 특정하는 수출 조사",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../ko/index.html\">홈</a><span>/</span><a href=\"../../ko/vehicles/index.html\">차량</a><span>/</span><span>BYD SEAL 수출 구매: 실제 어떤 버전을 사는가?</span></nav>\n    <section class=\"vehicle-detail-hero\"><div><p class=\"eyebrow\">사양을 특정하는 수출 조사</p><h1>BYD SEAL 수출 구매: 실제 어떤 버전을 사는가?</h1><p class=\"lead\">영국 2026 SEAL을 통제된 기준으로 사용해 트림, 주행거리, 충전, 안전, 소프트웨어와 목적지 호환성을 확인합니다.</p></div><div class=\"detail-media\"><img src=\"../../assets/editorial/byd-seal.jpg\" alt=\"모델 계열 참고 이미지로 사용한 BYD SEAL 사진\" loading=\"lazy\"></div></section>\n    <section class=\"detail-layout\"><article class=\"detail-main\">\n      <h2>2026은 영국 범위</h2>\n      <p>BYD UK의 SEAL 2026 Design/Excellence AWD는 영국 증거이며 세계 공통 사양이 아닙니다. VIN, 생산일, 원 시장 확인.</p>\n      <h2>영국 버전</h2>\n      <p>Design 354mi WLTP/RWD/5. 9초; Excellence AWD 323mi/3. 8초/390kW. 둘 다 82.5kWh LFP 참조.</p>\n      <h2>충전/적재 / 안전</h2>\n      <p>UK 자료: AC 11kW, DC 최대150kW, 후방485L+프렁크72L. 실차 재확인. Euro NCAP 2023/ANCAP 적용범위를 기록하고 글로벌 5성으로 일반화하지 않습니다.</p>\n      <h2>연결 서비스 / 결정</h2>\n      <p>내비, 앱, OTA, 통신은 지역 의존 여부 확인. VIN, 시장, 구동, 충전, 주행거리, rating, 보증, 소프트웨어, 타이어, 부품, 진단 확인.</p>\n      <h2>증거를 계약 파일에 기록하기</h2>\n      <p>BYD SEAL 수출 구매: 실제 어떤 버전을 사는가? 구매 파일에는 제안 차량, 원판매 시장, 목적지, 증거 날짜와 책임 공급자를 명시해야 합니다. 이어서 제안이 2026은 영국 범위, 영국 버전, 충전/적재 / 안전, 연결 서비스 / 결정, 미확인 질문을 결제 판단으로 전환하기을 어떻게 충족하는지 기록합니다. VIN 자료, 사진, 견적서, 승인 문서와 서비스 증거를 같은 파일에 연결하십시오. 해결되지 않은 항목은 사실로 바꾸지 말고 조건부로 남겨야 합니다. 계약에는 불일치를 누가 수정하고 선적 전 증거가 실제 차량과 다를 때 어떤 조치를 취하는지 적습니다. 이 기록은 두 번째 검토자가 판단 과정을 추적하게 하며 차종 전체 웹페이지를 한 대의 실차 증거로 오해하는 일을 막습니다.</p>\n      <h2>미확인 질문을 결제 판단으로 전환하기</h2>\n      <p>영국 2026 SEAL을 통제된 기준으로 사용해 트림, 주행거리, 충전, 안전, 소프트웨어와 목적지 호환성을 확인합니다. 결제 판단은 다음 증거 흐름을 따라야 합니다: 2026은 영국 범위; 영국 버전; 충전/적재 / 안전; 연결 서비스 / 결정. 서로 다른 사양을 섞지 않도록 각 단계를 동일한 제안 차량, 원판매 시장, 목적지에 연결합니다.</p>\n      <p>BYD SEAL 수출 구매: 실제 어떤 버전을 사는가?: 결제를 승인하기 전에 구매 파일은 다음 질문에 명확히 답해야 합니다: BYD SEAL: 전 세계 공통 2026 사양입니까?; BYD SEAL: 계약금 전에 어떤 식별 근거가 필요합니까?; BYD SEAL: 안전평가만으로 수입 등록이 됩니까?; BYD SEAL: 어떤 운용 호환성을 확인해야 합니까?. 답변에는 근거 문서, 날짜, 발행 주체와 책임 당사자를 기록해야 합니다. 미확인 항목은 계약 조건으로 남겨야 하며 확인된 사양이나 보장된 비용으로 바꾸면 안 됩니다. 차량 또는 목적지가 달라지면 비교를 처음부터 다시 수행합니다. 2026은 영국 범위; 영국 버전; 충전/적재 / 안전; 연결 서비스 / 결정.</p>\n      <h2>자주 묻는 질문</h2>\n      <h3>BYD SEAL: 전 세계 공통 2026 사양입니까?</h3>\n      <p>아닙니다. 이 수치는 영국 2026년형 Design과 Excellence AWD에 해당합니다. 최초 판매 시장이나 연식이 다르면 해당 사양표를 별도로 확인해야 합니다.</p>\n      <h3>BYD SEAL: 계약금 전에 어떤 식별 근거가 필요합니까?</h3>\n      <p>VIN, 생산일, 최초 판매 시장, 정확한 트림, 날짜가 기재된 사양표를 요청하세요. 서류와 사진은 동일한 차량을 가리켜야 합니다.</p>\n      <h3>BYD SEAL: 안전평가만으로 수입 등록이 됩니까?</h3>\n      <p>아닙니다. 충돌 안전 평가와 수입 차량 등록 허가는 별개입니다. 평가 대상 트림과 목적국의 반입 요건을 각각 확인해야 합니다.</p>\n      <h3>BYD SEAL: 어떤 운용 호환성을 확인해야 합니까?</h3>\n      <p>실차 충전 단자, 현지 충전망, 앱과 내비게이션 사용 가능 여부, 보증 지역, 정비 지원을 확인하세요. 영국 사양만으로 해외에서 연결 서비스가 작동한다고 단정할 수 없습니다.</p>\n      <h3>BYD SEAL: 총도착비용은 어떻게 비교합니까?</h3>\n      <p>차량 사양, 목적지, 인도 조건을 통일해 비교하세요. 검사, 운송, 해상 운임, 보험, 적용 세금, 등록 및 필요한 개조 비용을 포함해야 합니다.</p>\n\n      <h2>출처</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://www.byd.com/eu/electric-cars/seal.html\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL: Dynamic and Intelligent</a><span>BYD Europe · 2026-07-19</span></li>\n        <li><a href=\"https://www.euroncap.com/assessments/byd/seal/1044/\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL safety rating and report</a><span>Euro NCAP · 2026-07-19</span></li>\n        <li><a href=\"https://www.ancap.com.au/safety-ratings/byd/seal/72ba9e\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL safety rating and report</a><span>ANCAP Safety · 2026-07-19</span></li>\n        <li><a href=\"https://unece.org/transport/vehicle-regulations\" target=\"_blank\" rel=\"noopener noreferrer\">Vehicle regulations</a><span>United Nations Economic Commission for Europe · 2026-07-19</span></li>\n        <li><a href=\"https://www.byd.com/content/dam/byd-site/id/brochure/SEAL-BROCHURE.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL brochure</a><span>BYD Indonesia · 2026-08-13</span></li>\n        <li><a href=\"https://www.byd.com/material/byd-site/sg/product/pdf/BYD%20Seal%20Spec%20Sheet-PREVIEW%20.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL specification sheet</a><span>BYD Singapore · 2026-08-13</span></li>\n      </ul>\n    </article><aside class=\"spec-panel\"><h2>영국 2026년형 사양</h2><p>영국 시장의 2026년형 Design 및 Excellence AWD에만 해당합니다. 신원이 확인되지 않은 수출 차량의 사양을 입증하는 자료가 아닙니다.</p><dl class=\"spec-list\"><div><dt>배터리 용량</dt><dd>82.5 kWh (LFP)</dd></div><div><dt>구동 방식</dt><dd>Design: 후륜구동; Excellence AWD: 전륜구동 방식이 아닌 사륜구동</dd></div><div><dt>모터 최고 출력</dt><dd>Design: 312 PS; Excellence AWD: 530 PS</dd></div><div><dt>WLTP 복합 주행거리</dt><dd>Design: 354 마일; Excellence AWD: 323 마일</dd></div><div><dt>0–62 mph 가속</dt><dd>Design: 5.9 초; Excellence AWD: 3.8 초</dd></div><div><dt>최대 AC 충전 출력</dt><dd>11 kW</dd></div><div><dt>최대 DC 충전 출력</dt><dd>150 kW</dd></div><div><dt>충전 단자</dt><dd>CCS2</dd></div><div><dt>후방 트렁크 용량</dt><dd>485 L</dd></div><div><dt>전방 트렁크 용량</dt><dd>72 L</dd></div></dl><p><a href=\"https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">BYD 영국 2026년형 기술 자료, 7페이지</a> · 2026-09-05</p></aside></section>\n  </main>",
+      "word_count": 1009,
+      "reading_time_minutes": 5,
+      "last_reviewed": "2026-08-30",
+      "image": {
+        "src": "../../assets/editorial/byd-seal.jpg",
+        "alt": "모델 계열 참고 이미지로 사용한 BYD SEAL 사진",
+        "wiki_title": "BYD Seal",
+        "caption": "모델 계열 참고 이미지로 사용한 BYD SEAL 사진",
+        "wiki_file_title": "",
+        "source_page": "https://en.wikipedia.org/wiki/BYD_Seal",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:2022_BYD_Seal.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/2022_BYD_Seal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 4.0",
+        "artist": "User 3204",
+        "credit": "Own work",
+        "candidate_description": "​一輛來自東莞（粤S牌）的比亞迪海豹，拍攝於中國廣東省深圳市羅湖區",
+        "identity_status": "confirmed_model_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-08-20T18:24:20.812Z",
+        "identity_reviewer": "codex-visual-review-2026-08-21",
+        "identity_review_note": "Visible vehicle matches the BYD SEAL model family; no exact trim, build date or destination specification is claimed.",
+        "review_note": "Reusable-license metadata and visible model identity confirmed for this content record."
+      },
+      "specifications": [
+        {
+          "label": "배터리 용량",
+          "value": "82.5 kWh (LFP)",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "구동 방식",
+          "value": "Design: 후륜구동; Excellence AWD: 전륜구동 방식이 아닌 사륜구동",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "모터 최고 출력",
+          "value": "Design: 312 PS; Excellence AWD: 530 PS",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "WLTP 복합 주행거리",
+          "value": "Design: 354 마일; Excellence AWD: 323 마일",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "0–62 mph 가속",
+          "value": "Design: 5.9 초; Excellence AWD: 3.8 초",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "최대 AC 충전 출력",
+          "value": "11 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "최대 DC 충전 출력",
+          "value": "150 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "충전 단자",
+          "value": "CCS2",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "후방 트렁크 용량",
+          "value": "485 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "전방 트렁크 용량",
+          "value": "72 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        }
+      ],
+      "review_status": "editorial_review_pending"
+    },
+    "vi": {
+      "title": "BYD SEAL để xuất khẩu: bạn thực sự đang mua phiên bản nào?",
+      "seo_title": "BYD SEAL xuất khẩu: tham chiếu UK 2026",
+      "meta_description": "Dùng thông số BYD SEAL UK 2026 như mốc có kiểm soát để xác minh phiên bản, tầm chạy, sạc, an toàn, phần mềm và khả năng dùng tại đích.",
+      "summary": "Dùng thông số BYD SEAL UK 2026 như mốc có kiểm soát để xác minh phiên bản, tầm chạy, sạc, an toàn, phần mềm và khả năng dùng tại đích.",
+      "eyebrow": "Nghiên cứu xuất khẩu theo cấu hình",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../vi/index.html\">Trang chủ</a><span>/</span><a href=\"../../vi/vehicles/index.html\">Mẫu xe</a><span>/</span><span>BYD SEAL để xuất khẩu: bạn thực sự đang mua phiên bản nào?</span></nav>\n    <section class=\"vehicle-detail-hero\"><div><p class=\"eyebrow\">Nghiên cứu xuất khẩu theo cấu hình</p><h1>BYD SEAL để xuất khẩu: bạn thực sự đang mua phiên bản nào?</h1><p class=\"lead\">Dùng thông số BYD SEAL UK 2026 như mốc có kiểm soát để xác minh phiên bản, tầm chạy, sạc, an toàn, phần mềm và khả năng dùng tại đích.</p></div><div class=\"detail-media\"><img src=\"../../assets/editorial/byd-seal.jpg\" alt=\"Ảnh BYD SEAL dùng làm hình tham chiếu cho dòng xe\" loading=\"lazy\"></div></section>\n    <section class=\"detail-layout\"><article class=\"detail-main\">\n      <h2>2026 chỉ trong phạm vi UK</h2>\n      <p>BYD UK hiện bán SEAL 2026 Design và Excellence AWD; không phải thông số toàn cầu. Xác minh VIN, ngày sản xuất, thị trường gốc.</p>\n      <h2>Hai bản UK</h2>\n      <p>Design 354 mi WLTP/RWD/5,9 s; Excellence AWD 323 mi/3,8 s/390 kW. Cả hai tham chiếu 82,5 kWh LFP.</p>\n      <h2>Sạc/khoang hành lý</h2>\n      <p>UK: AC 11 kW, DC tới 150 kW, 485 L sau + 72 L frunk; kiểm lại xe cụ thể.</p>\n      <h2>An toàn</h2>\n      <p>Euro NCAP 2023 và ANCAP chỉ trong scope, không nói “5 sao toàn cầu”.</p>\n      <h2>Dịch vụ kết nối / Quyết định</h2>\n      <p>Navigation, app, OTA, kết nối có thể phụ thuộc vùng. VIN, thị trường, motor/pin, sạc, tầm chạy, rating, bảo hành, software, lốp, parts, chẩn đoán.</p>\n      <h2>Ghi bằng chứng vào hồ sơ hợp đồng</h2>\n      <p>Hồ sơ mua BYD SEAL để xuất khẩu: bạn thực sự đang mua phiên bản nào? phải ghi rõ chiếc xe được chào bán, thị trường gốc, điểm đến, ngày của bằng chứng và nhà cung cấp chịu trách nhiệm. Sau đó hồ sơ phải giải thích cách chào hàng xử lý 2026 chỉ trong phạm vi UK, Hai bản UK, Sạc/khoang hành lý, An toàn, Dịch vụ kết nối / Quyết định. Hãy gắn dữ liệu VIN, ảnh, báo giá, giấy tờ phê duyệt và bằng chứng dịch vụ vào cùng hồ sơ. Mục chưa được giải quyết phải giữ trạng thái có điều kiện, không được biến thành sự thật. Hợp đồng cần nêu ai phải sửa sai lệch và xử lý thế nào nếu bằng chứng trước khi giao không khớp với xe. Hồ sơ này giúp người kiểm tra thứ hai theo dõi quyết định và tránh nhầm trang giới thiệu cả dòng xe với bằng chứng của một chiếc xe cụ thể.</p>\n      <h2>Biến câu hỏi còn mở thành quyết định thanh toán</h2>\n      <p>Dùng thông số BYD SEAL UK 2026 như mốc có kiểm soát để xác minh phiên bản, tầm chạy, sạc, an toàn, phần mềm và khả năng dùng tại đích. Quyết định thanh toán phải đi theo chuỗi bằng chứng sau: 2026 chỉ trong phạm vi UK; Hai bản UK; Sạc/khoang hành lý; An toàn; Dịch vụ kết nối / Quyết định. Mỗi bước phải gắn với cùng một chiếc xe được chào bán, cùng thị trường gốc và cùng điểm đến để tránh trộn các phiên bản không tương thích.</p>\n      <p>BYD SEAL để xuất khẩu: bạn thực sự đang mua phiên bản nào?: Trước khi duyệt thanh toán, hồ sơ phải trả lời rõ các câu hỏi sau: BYD SEAL: Đây có phải cấu hình 2026 dùng chung toàn cầu không?; BYD SEAL: Cần bằng chứng nhận dạng nào trước khi đặt cọc?; BYD SEAL: Đánh giá an toàn có cho phép nhập khẩu không?; BYD SEAL: Phải kiểm tra khả năng tương thích vận hành nào?. Một câu trả lời chỉ có giá trị khi nêu tài liệu, ngày, đơn vị phát hành và bên chịu trách nhiệm. Nội dung chưa xác nhận phải giữ ở dạng điều kiện hợp đồng, không được biến thành trang bị đã xác nhận hoặc chi phí được bảo đảm. Nếu xe hoặc điểm đến thay đổi, phải thực hiện lại phép so sánh. 2026 chỉ trong phạm vi UK; Hai bản UK; Sạc/khoang hành lý; An toàn; Dịch vụ kết nối / Quyết định.</p>\n      <h2>Câu hỏi thường gặp</h2>\n      <h3>BYD SEAL: Đây có phải cấu hình 2026 dùng chung toàn cầu không?</h3>\n      <p>Không. Các số liệu này dành cho Design và Excellence AWD đời 2026 tại Anh. Thị trường xuất xứ hoặc đời xe khác cần bảng thông số riêng.</p>\n      <h3>BYD SEAL: Cần bằng chứng nhận dạng nào trước khi đặt cọc?</h3>\n      <p>Yêu cầu VIN, ngày sản xuất, thị trường bán ban đầu, phiên bản chính xác và bảng cấu hình có ngày tháng. Hồ sơ và ảnh phải cùng xác định một chiếc xe.</p>\n      <h3>BYD SEAL: Đánh giá an toàn có cho phép nhập khẩu không?</h3>\n      <p>Không. Đánh giá an toàn va chạm và quyền đăng ký xe nhập khẩu là hai vấn đề khác nhau. Cần kiểm tra riêng phiên bản được đánh giá và điều kiện tiếp nhận của nước đến.</p>\n      <h3>BYD SEAL: Phải kiểm tra khả năng tương thích vận hành nào?</h3>\n      <p>Kiểm tra cổng sạc thực tế, mạng sạc địa phương, ứng dụng, bản đồ dẫn đường, phạm vi bảo hành và hỗ trợ sửa chữa. Trang bị tại Anh không bảo đảm dịch vụ kết nối hoạt động ở nước ngoài.</p>\n      <h3>BYD SEAL: So sánh tổng chi phí đến nơi như thế nào?</h3>\n      <p>So sánh cùng cấu hình xe, điểm đến và điều kiện giao hàng. Tính cả kiểm tra, vận chuyển, cước biển, bảo hiểm, thuế áp dụng, đăng ký và các thay đổi cần thiết.</p>\n\n      <h2>Nguồn</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://www.byd.com/eu/electric-cars/seal.html\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL: Dynamic and Intelligent</a><span>BYD Europe · 2026-07-19</span></li>\n        <li><a href=\"https://www.euroncap.com/assessments/byd/seal/1044/\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL safety rating and report</a><span>Euro NCAP · 2026-07-19</span></li>\n        <li><a href=\"https://www.ancap.com.au/safety-ratings/byd/seal/72ba9e\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL safety rating and report</a><span>ANCAP Safety · 2026-07-19</span></li>\n        <li><a href=\"https://unece.org/transport/vehicle-regulations\" target=\"_blank\" rel=\"noopener noreferrer\">Vehicle regulations</a><span>United Nations Economic Commission for Europe · 2026-07-19</span></li>\n        <li><a href=\"https://www.byd.com/content/dam/byd-site/id/brochure/SEAL-BROCHURE.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL brochure</a><span>BYD Indonesia · 2026-08-13</span></li>\n        <li><a href=\"https://www.byd.com/material/byd-site/sg/product/pdf/BYD%20Seal%20Spec%20Sheet-PREVIEW%20.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL specification sheet</a><span>BYD Singapore · 2026-08-13</span></li>\n      </ul>\n    </article><aside class=\"spec-panel\"><h2>Thông số thị trường Anh, đời 2026</h2><p>Chỉ áp dụng cho Design và Excellence AWD đời 2026 tại Anh. Các số liệu này không xác nhận cấu hình của xe xuất khẩu chưa được nhận diện.</p><dl class=\"spec-list\"><div><dt>Dung lượng pin</dt><dd>82.5 kWh (LFP)</dd></div><div><dt>Hệ dẫn động</dt><dd>Design: dẫn động cầu sau; Excellence AWD: dẫn động bốn bánh</dd></div><div><dt>Công suất động cơ tối đa</dt><dd>Design: 312 PS; Excellence AWD: 530 PS</dd></div><div><dt>Tầm hoạt động WLTP kết hợp</dt><dd>Design: 354 dặm; Excellence AWD: 323 dặm</dd></div><div><dt>Tăng tốc 0–62 mph</dt><dd>Design: 5.9 giây; Excellence AWD: 3.8 giây</dd></div><div><dt>Công suất sạc AC tối đa</dt><dd>11 kW</dd></div><div><dt>Công suất sạc DC tối đa</dt><dd>150 kW</dd></div><div><dt>Cổng sạc</dt><dd>CCS2</dd></div><div><dt>Dung tích cốp sau</dt><dd>485 L</dd></div><div><dt>Dung tích cốp trước</dt><dd>72 L</dd></div></dl><p><a href=\"https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Tài liệu kỹ thuật BYD Anh đời 2026, trang 7</a> · 2026-09-05</p></aside></section>\n  </main>",
+      "word_count": 522,
+      "reading_time_minutes": 3,
+      "last_reviewed": "2026-08-30",
+      "image": {
+        "src": "../../assets/editorial/byd-seal.jpg",
+        "alt": "Ảnh BYD SEAL dùng làm hình tham chiếu cho dòng xe",
+        "wiki_title": "BYD Seal",
+        "caption": "Ảnh BYD SEAL dùng làm hình tham chiếu cho dòng xe",
+        "wiki_file_title": "",
+        "source_page": "https://en.wikipedia.org/wiki/BYD_Seal",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:2022_BYD_Seal.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/2022_BYD_Seal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 4.0",
+        "artist": "User 3204",
+        "credit": "Own work",
+        "candidate_description": "​一輛來自東莞（粤S牌）的比亞迪海豹，拍攝於中國廣東省深圳市羅湖區",
+        "identity_status": "confirmed_model_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-08-20T18:24:20.812Z",
+        "identity_reviewer": "codex-visual-review-2026-08-21",
+        "identity_review_note": "Visible vehicle matches the BYD SEAL model family; no exact trim, build date or destination specification is claimed.",
+        "review_note": "Reusable-license metadata and visible model identity confirmed for this content record."
+      },
+      "specifications": [
+        {
+          "label": "Dung lượng pin",
+          "value": "82.5 kWh (LFP)",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Hệ dẫn động",
+          "value": "Design: dẫn động cầu sau; Excellence AWD: dẫn động bốn bánh",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Công suất động cơ tối đa",
+          "value": "Design: 312 PS; Excellence AWD: 530 PS",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Tầm hoạt động WLTP kết hợp",
+          "value": "Design: 354 dặm; Excellence AWD: 323 dặm",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Tăng tốc 0–62 mph",
+          "value": "Design: 5.9 giây; Excellence AWD: 3.8 giây",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Công suất sạc AC tối đa",
+          "value": "11 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Công suất sạc DC tối đa",
+          "value": "150 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Cổng sạc",
+          "value": "CCS2",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Dung tích cốp sau",
+          "value": "485 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Dung tích cốp trước",
+          "value": "72 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        }
+      ],
+      "review_status": "editorial_review_pending"
+    },
+    "th": {
+      "title": "BYD SEAL สำหรับส่งออก: คุณกำลังซื้อรุ่นไหนจริง?",
+      "seo_title": "BYD SEAL ส่งออก: อ้างอิงสเปก UK 2026",
+      "meta_description": "ใช้ BYD SEAL UK 2026 เป็นข้อมูลอ้างอิงที่ควบคุมเพื่อเช็กรุ่น ระยะทาง ชาร์จ ความปลอดภัย ซอฟต์แวร์ และปลายทาง",
+      "summary": "ใช้ BYD SEAL UK 2026 เป็นข้อมูลอ้างอิงที่ควบคุมเพื่อเช็กรุ่น ระยะทาง ชาร์จ ความปลอดภัย ซอฟต์แวร์ และปลายทาง",
+      "eyebrow": "การวิจัยส่งออกตามรุ่นย่อย",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../th/index.html\">หน้าแรก</a><span>/</span><a href=\"../../th/vehicles/index.html\">รถยนต์</a><span>/</span><span>BYD SEAL สำหรับส่งออก: คุณกำลังซื้อรุ่นไหนจริง?</span></nav>\n    <section class=\"vehicle-detail-hero\"><div><p class=\"eyebrow\">การวิจัยส่งออกตามรุ่นย่อย</p><h1>BYD SEAL สำหรับส่งออก: คุณกำลังซื้อรุ่นไหนจริง?</h1><p class=\"lead\">ใช้ BYD SEAL UK 2026 เป็นข้อมูลอ้างอิงที่ควบคุมเพื่อเช็กรุ่น ระยะทาง ชาร์จ ความปลอดภัย ซอฟต์แวร์ และปลายทาง</p></div><div class=\"detail-media\"><img src=\"../../assets/editorial/byd-seal.jpg\" alt=\"ภาพ BYD SEAL ที่ใช้เป็นข้อมูลอ้างอิงของตระกูลรุ่น\" loading=\"lazy\"></div></section>\n    <section class=\"detail-layout\"><article class=\"detail-main\">\n      <h2>2026 อยู่ในขอบเขต UK</h2>\n      <p>BYD UK ขาย SEAL 2026 Design และ Excellence AWD ข้อมูลนี้ไม่ใช่สเปกทั่วโลก ต้องตรวจ VIN วันผลิต ตลาดเดิม</p>\n      <h2>รุ่น UK</h2>\n      <p>Design 354mi WLTP/RWD/5.9s; Excellence AWD 323mi/3.8s/390kW; ทั้งสองอ้างอิง 82.5kWh LFP</p>\n      <h2>ชาร์จ/พื้นที่</h2>\n      <p>UK: AC 11kW, DC สูงสุด150kW, ท้าย485L+หน้า72L ต้องตรวจรถจริง</p>\n      <h2>ความปลอดภัย / บริการออนไลน์</h2>\n      <p>Euro NCAP 2023/ANCAP มีขอบเขต ไม่เขียนว่า 5 ดาวทั่วโลก แผนที่ app OTA และการเชื่อมต่ออาจขึ้นกับภูมิภาค</p>\n      <h2>ตัดสินใจ</h2>\n      <p>ตรวจ VIN ตลาด ระบบขับ ชาร์จ ระยะ rating ประกัน software ยาง อะไหล่ และวินิจฉัย</p>\n      <h2>บันทึกหลักฐานไว้ในแฟ้มสัญญา</h2>\n      <p>แฟ้มจัดซื้อ BYD SEAL สำหรับส่งออก: คุณกำลังซื้อรุ่นไหนจริง? ต้องระบุรถคันที่เสนอขาย ตลาดต้นทาง ประเทศปลายทาง วันที่ของหลักฐาน และผู้ขายที่รับผิดชอบ จากนั้นอธิบายว่าข้อเสนอจัดการกับ 2026 อยู่ในขอบเขต UK, รุ่น UK, ชาร์จ/พื้นที่, ความปลอดภัย / บริการออนไลน์, ตัดสินใจ อย่างไร ให้เชื่อมข้อมูล VIN รูปถ่าย ใบเสนอราคา เอกสารอนุมัติ และหลักฐานบริการไว้ในแฟ้มเดียวกัน ประเด็นที่ยังไม่ยืนยันต้องคงเป็นเงื่อนไข ห้ามเปลี่ยนเป็นข้อเท็จจริง สัญญาต้องระบุว่าใครแก้ไขความไม่ตรงกัน และจะดำเนินการอย่างไรหากหลักฐานก่อนส่งมอบไม่ตรงกับรถจริง บันทึกนี้ทำให้ผู้ตรวจคนที่สองติดตามเหตุผลได้ และป้องกันการใช้หน้าเว็บของทั้งรุ่นแทนหลักฐานของรถหนึ่งคัน</p>\n      <h2>เปลี่ยนคำถามที่ยังไม่ชัดเจนให้เป็นเกณฑ์ตัดสินใจก่อนชำระเงิน</h2>\n      <p>ใช้ BYD SEAL UK 2026 เป็นข้อมูลอ้างอิงที่ควบคุมเพื่อเช็กรุ่น ระยะทาง ชาร์จ ความปลอดภัย ซอฟต์แวร์ และปลายทาง การตัดสินใจก่อนชำระเงินต้องเดินตามลำดับหลักฐานนี้: 2026 อยู่ในขอบเขต UK; รุ่น UK; ชาร์จ/พื้นที่; ความปลอดภัย / บริการออนไลน์; ตัดสินใจ แต่ละขั้นต้องอ้างถึงรถคันเดียวกัน ตลาดต้นทางเดียวกัน และปลายทางเดียวกัน เพื่อไม่ให้ข้อมูลของรุ่นย่อยที่ต่างกันปะปนกัน</p>\n      <p>BYD SEAL สำหรับส่งออก: คุณกำลังซื้อรุ่นไหนจริง?: ก่อนอนุมัติการชำระเงิน แฟ้มจัดซื้อต้องตอบคำถามต่อไปนี้ให้ชัดเจน: BYD SEAL: นี่คือสเปกปี 2026 ที่ใช้ทั่วโลกหรือไม่; BYD SEAL: ต้องมีหลักฐานระบุตัวรถใดก่อนวางมัดจำ; BYD SEAL: คะแนนความปลอดภัยอนุญาตให้นำเข้าได้หรือไม่; BYD SEAL: ต้องตรวจความเข้ากันได้ด้านใด คำตอบใช้ได้ต่อเมื่อระบุเอกสาร วันที่ ผู้ออกเอกสาร และผู้รับผิดชอบ ประเด็นที่ยังไม่ยืนยันต้องคงเป็นเงื่อนไขในสัญญา ห้ามเปลี่ยนเป็นอุปกรณ์ที่ยืนยันแล้วหรือต้นทุนที่รับประกัน หากตัวรถหรือปลายทางเปลี่ยน ต้องเริ่มการเปรียบเทียบใหม่ 2026 อยู่ในขอบเขต UK; รุ่น UK; ชาร์จ/พื้นที่; ความปลอดภัย / บริการออนไลน์; ตัดสินใจ.</p>\n      <h2>คำถามที่พบบ่อย</h2>\n      <h3>BYD SEAL: นี่คือสเปกปี 2026 ที่ใช้ทั่วโลกหรือไม่</h3>\n      <p>ไม่ใช่ ตัวเลขเหล่านี้ใช้กับรุ่นปี 2026 ตลาดสหราชอาณาจักร รุ่น Design และ Excellence AWD หากตลาดต้นทางหรือรุ่นปีต่างกัน ต้องตรวจสอบเอกสารสเปกที่ตรงกัน</p>\n      <h3>BYD SEAL: ต้องมีหลักฐานระบุตัวรถใดก่อนวางมัดจำ</h3>\n      <p>ขอหมายเลข VIN วันที่ผลิต ตลาดจำหน่ายเดิม รุ่นย่อยที่แน่นอน และเอกสารสเปกที่ลงวันที่ เอกสารและภาพถ่ายต้องระบุรถคันเดียวกัน</p>\n      <h3>BYD SEAL: คะแนนความปลอดภัยอนุญาตให้นำเข้าได้หรือไม่</h3>\n      <p>ไม่ใช่ ผลทดสอบความปลอดภัยจากการชนกับการอนุญาตให้จดทะเบียนรถนำเข้าเป็นคนละเรื่อง ต้องตรวจสอบรุ่นที่ผลทดสอบครอบคลุมและข้อกำหนดของประเทศปลายทางแยกกัน</p>\n      <h3>BYD SEAL: ต้องตรวจความเข้ากันได้ด้านใด</h3>\n      <p>ตรวจสอบช่องชาร์จของรถจริง เครือข่ายชาร์จในพื้นที่ แอป ระบบนำทาง เขตการรับประกัน และบริการซ่อม สเปกสหราชอาณาจักรไม่ได้รับประกันว่าบริการเชื่อมต่อจะใช้ได้ในต่างประเทศ</p>\n      <h3>BYD SEAL: เปรียบเทียบต้นทุนถึงปลายทางอย่างไร</h3>\n      <p>เปรียบเทียบรถสเปกเดียวกัน ปลายทางเดียวกัน และเงื่อนไขส่งมอบเดียวกัน รวมค่าตรวจสอบ ขนส่ง ระวางเรือ ประกันภัย ภาษีที่เกี่ยวข้อง จดทะเบียน และการดัดแปลงที่จำเป็น</p>\n\n      <h2>แหล่งข้อมูล</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://www.byd.com/eu/electric-cars/seal.html\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL: Dynamic and Intelligent</a><span>BYD Europe · 2026-07-19</span></li>\n        <li><a href=\"https://www.euroncap.com/assessments/byd/seal/1044/\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL safety rating and report</a><span>Euro NCAP · 2026-07-19</span></li>\n        <li><a href=\"https://www.ancap.com.au/safety-ratings/byd/seal/72ba9e\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL safety rating and report</a><span>ANCAP Safety · 2026-07-19</span></li>\n        <li><a href=\"https://unece.org/transport/vehicle-regulations\" target=\"_blank\" rel=\"noopener noreferrer\">Vehicle regulations</a><span>United Nations Economic Commission for Europe · 2026-07-19</span></li>\n        <li><a href=\"https://www.byd.com/content/dam/byd-site/id/brochure/SEAL-BROCHURE.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL brochure</a><span>BYD Indonesia · 2026-08-13</span></li>\n        <li><a href=\"https://www.byd.com/material/byd-site/sg/product/pdf/BYD%20Seal%20Spec%20Sheet-PREVIEW%20.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL specification sheet</a><span>BYD Singapore · 2026-08-13</span></li>\n      </ul>\n    </article><aside class=\"spec-panel\"><h2>สเปกตลาดสหราชอาณาจักร รุ่นปี 2026</h2><p>ใช้เฉพาะรุ่นปี 2026 ตลาดสหราชอาณาจักร รุ่น Design และ Excellence AWD เท่านั้น ไม่ใช่หลักฐานยืนยันสเปกของรถส่งออกที่ยังไม่ได้ระบุตัวรถ</p><dl class=\"spec-list\"><div><dt>ความจุแบตเตอรี่</dt><dd>82.5 kWh (LFP)</dd></div><div><dt>ระบบขับเคลื่อน</dt><dd>Design: ขับเคลื่อนล้อหลัง; Excellence AWD: ขับเคลื่อนสี่ล้อ</dd></div><div><dt>กำลังมอเตอร์สูงสุด</dt><dd>Design: 312 PS; Excellence AWD: 530 PS</dd></div><div><dt>ระยะทางแบบผสม WLTP</dt><dd>Design: 354 ไมล์; Excellence AWD: 323 ไมล์</dd></div><div><dt>อัตราเร่ง 0–62 mph</dt><dd>Design: 5.9 วินาที; Excellence AWD: 3.8 วินาที</dd></div><div><dt>กำลังชาร์จ AC สูงสุด</dt><dd>11 kW</dd></div><div><dt>กำลังชาร์จ DC สูงสุด</dt><dd>150 kW</dd></div><div><dt>ช่องชาร์จ</dt><dd>CCS2</dd></div><div><dt>ความจุห้องสัมภาระท้าย</dt><dd>485 L</dd></div><div><dt>ความจุห้องสัมภาระหน้า</dt><dd>72 L</dd></div></dl><p><a href=\"https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">ข้อมูลทางเทคนิค BYD สหราชอาณาจักร รุ่นปี 2026 หน้า 7</a> · 2026-09-05</p></aside></section>\n  </main>",
+      "word_count": 154,
+      "reading_time_minutes": 1,
+      "last_reviewed": "2026-08-30",
+      "image": {
+        "src": "../../assets/editorial/byd-seal.jpg",
+        "alt": "ภาพ BYD SEAL ที่ใช้เป็นข้อมูลอ้างอิงของตระกูลรุ่น",
+        "wiki_title": "BYD Seal",
+        "caption": "ภาพ BYD SEAL ที่ใช้เป็นข้อมูลอ้างอิงของตระกูลรุ่น",
+        "wiki_file_title": "",
+        "source_page": "https://en.wikipedia.org/wiki/BYD_Seal",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:2022_BYD_Seal.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/2022_BYD_Seal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 4.0",
+        "artist": "User 3204",
+        "credit": "Own work",
+        "candidate_description": "​一輛來自東莞（粤S牌）的比亞迪海豹，拍攝於中國廣東省深圳市羅湖區",
+        "identity_status": "confirmed_model_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-08-20T18:24:20.812Z",
+        "identity_reviewer": "codex-visual-review-2026-08-21",
+        "identity_review_note": "Visible vehicle matches the BYD SEAL model family; no exact trim, build date or destination specification is claimed.",
+        "review_note": "Reusable-license metadata and visible model identity confirmed for this content record."
+      },
+      "specifications": [
+        {
+          "label": "ความจุแบตเตอรี่",
+          "value": "82.5 kWh (LFP)",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "ระบบขับเคลื่อน",
+          "value": "Design: ขับเคลื่อนล้อหลัง; Excellence AWD: ขับเคลื่อนสี่ล้อ",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "กำลังมอเตอร์สูงสุด",
+          "value": "Design: 312 PS; Excellence AWD: 530 PS",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "ระยะทางแบบผสม WLTP",
+          "value": "Design: 354 ไมล์; Excellence AWD: 323 ไมล์",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "อัตราเร่ง 0–62 mph",
+          "value": "Design: 5.9 วินาที; Excellence AWD: 3.8 วินาที",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "กำลังชาร์จ AC สูงสุด",
+          "value": "11 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "กำลังชาร์จ DC สูงสุด",
+          "value": "150 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "ช่องชาร์จ",
+          "value": "CCS2",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "ความจุห้องสัมภาระท้าย",
+          "value": "485 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "ความจุห้องสัมภาระหน้า",
+          "value": "72 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        }
+      ],
+      "review_status": "editorial_review_pending"
+    },
+    "id": {
+      "title": "BYD SEAL untuk ekspor: versi apa yang sebenarnya Anda beli?",
+      "seo_title": "BYD SEAL ekspor: referensi UK 2026",
+      "meta_description": "Gunakan spesifikasi UK 2026 sebagai referensi terkendali untuk memeriksa varian, range, charging, safety, software dan kompatibilitas tujuan.",
+      "summary": "Gunakan spesifikasi UK 2026 sebagai referensi terkendali untuk memeriksa varian, range, charging, safety, software dan kompatibilitas tujuan.",
+      "eyebrow": "Riset ekspor berbasis konfigurasi",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../id/index.html\">Beranda</a><span>/</span><a href=\"../../id/vehicles/index.html\">Kendaraan</a><span>/</span><span>BYD SEAL untuk ekspor: versi apa yang sebenarnya Anda beli?</span></nav>\n    <section class=\"vehicle-detail-hero\"><div><p class=\"eyebrow\">Riset ekspor berbasis konfigurasi</p><h1>BYD SEAL untuk ekspor: versi apa yang sebenarnya Anda beli?</h1><p class=\"lead\">Gunakan spesifikasi UK 2026 sebagai referensi terkendali untuk memeriksa varian, range, charging, safety, software dan kompatibilitas tujuan.</p></div><div class=\"detail-media\"><img src=\"../../assets/editorial/byd-seal.jpg\" alt=\"Foto BYD SEAL sebagai referensi keluarga model\" loading=\"lazy\"></div></section>\n    <section class=\"detail-layout\"><article class=\"detail-main\">\n      <h2>2026 hanya terbukti di UK</h2>\n      <p>BYD UK menjual SEAL 2026 Design dan Excellence AWD; bukan spesifikasi global. Cek VIN, build date dan pasar asal.</p>\n      <h2>Varian UK</h2>\n      <p>Design 354 mi WLTP/RWD/5,9s; Excellence AWD 323 mi/3,8s/390kW. Keduanya referensi 82,5 kWh LFP.</p>\n      <h2>Charging/ruang</h2>\n      <p>UK: AC 11kW, DC sampai 150kW, bagasi belakang 485L + frunk 72L. Cek kendaraan aktual.</p>\n      <h2>Safety</h2>\n      <p>Euro NCAP 2023/ANCAP hanya sesuai scope; jangan tulis 5 bintang global.</p>\n      <h2>Connected services / Keputusan</h2>\n      <p>Navigasi, app, OTA dan konektivitas dapat regional. VIN, pasar, motor/baterai, charging, range, rating, garansi, software, ban, parts, diagnosis.</p>\n      <h2>Mencatat bukti dalam berkas kontrak</h2>\n      <p>Berkas pembelian BYD SEAL untuk ekspor: versi apa yang sebenarnya Anda beli? harus menyebut unit yang ditawarkan, pasar asal, tujuan, tanggal bukti, dan pemasok yang bertanggung jawab. Selanjutnya jelaskan bagaimana penawaran menyelesaikan 2026 hanya terbukti di UK, Varian UK, Charging/ruang, Safety, Connected services / Keputusan. Tautkan catatan VIN, foto, penawaran harga, dokumen persetujuan, dan bukti layanan ke berkas yang sama. Hal yang belum terselesaikan harus tetap bersyarat dan tidak boleh diubah menjadi fakta. Kontrak harus menyebut siapa yang memperbaiki ketidaksesuaian dan apa yang terjadi jika bukti sebelum pengiriman tidak cocok dengan kendaraan. Catatan ini memungkinkan pemeriksa kedua menelusuri keputusan dan mencegah halaman satu keluarga model dianggap sebagai bukti satu unit fisik.</p>\n      <h2>Mengubah pertanyaan terbuka menjadi keputusan pembayaran</h2>\n      <p>Gunakan spesifikasi UK 2026 sebagai referensi terkendali untuk memeriksa varian, range, charging, safety, software dan kompatibilitas tujuan. Keputusan pembayaran harus mengikuti rantai bukti berikut: 2026 hanya terbukti di UK; Varian UK; Charging/ruang; Safety; Connected services / Keputusan. Setiap tahap harus terhubung pada unit yang sama, pasar asal yang sama, dan tujuan yang sama agar varian yang tidak sebanding tidak tercampur.</p>\n      <p>BYD SEAL untuk ekspor: versi apa yang sebenarnya Anda beli?: Sebelum pembayaran disetujui, berkas pembelian harus menjawab pertanyaan berikut dengan jelas: BYD SEAL: Apakah ini spesifikasi 2026 universal?; BYD SEAL: Bukti identitas apa yang dibutuhkan sebelum uang muka?; BYD SEAL: Apakah nilai keselamatan mengizinkan impor?; BYD SEAL: Kompatibilitas operasi apa yang harus diperiksa?. Jawaban hanya dapat digunakan bila menyebut dokumen, tanggal, penerbit, dan pihak yang bertanggung jawab. Hal yang belum terkonfirmasi tetap menjadi syarat kontrak; jangan mengubahnya menjadi fitur terverifikasi atau biaya terjamin. Jika unit atau tujuan berubah, lakukan kembali perbandingan. 2026 hanya terbukti di UK; Varian UK; Charging/ruang; Safety; Connected services / Keputusan.</p>\n      <h2>Pertanyaan umum</h2>\n      <h3>BYD SEAL: Apakah ini spesifikasi 2026 universal?</h3>\n      <p>Tidak. Angka tersebut berlaku untuk Design dan Excellence AWD pasar Inggris tahun model 2026. Pasar asal atau tahun model yang berbeda memerlukan lembar spesifikasi tersendiri.</p>\n      <h3>BYD SEAL: Bukti identitas apa yang dibutuhkan sebelum uang muka?</h3>\n      <p>Minta VIN, tanggal produksi, pasar penjualan awal, varian yang tepat, dan lembar konfigurasi bertanggal. Dokumen serta foto harus mengidentifikasi kendaraan yang sama.</p>\n      <h3>BYD SEAL: Apakah nilai keselamatan mengizinkan impor?</h3>\n      <p>Tidak. Penilaian keselamatan tabrakan dan izin registrasi kendaraan impor adalah dua hal berbeda. Periksa cakupan varian dalam penilaian dan persyaratan negara tujuan secara terpisah.</p>\n      <h3>BYD SEAL: Kompatibilitas operasi apa yang harus diperiksa?</h3>\n      <p>Periksa port pengisian aktual, jaringan pengisian setempat, aplikasi, navigasi, wilayah garansi, dan dukungan perbaikan. Perlengkapan Inggris tidak menjamin layanan terhubung berfungsi di luar negeri.</p>\n      <h3>BYD SEAL: Bagaimana membandingkan total biaya tiba?</h3>\n      <p>Bandingkan spesifikasi kendaraan, tujuan, dan syarat penyerahan yang sama. Sertakan inspeksi, transportasi, ongkos laut, asuransi, pajak yang berlaku, registrasi, dan penyesuaian yang diperlukan.</p>\n\n      <h2>Sumber</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://www.byd.com/eu/electric-cars/seal.html\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL: Dynamic and Intelligent</a><span>BYD Europe · 2026-07-19</span></li>\n        <li><a href=\"https://www.euroncap.com/assessments/byd/seal/1044/\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL safety rating and report</a><span>Euro NCAP · 2026-07-19</span></li>\n        <li><a href=\"https://www.ancap.com.au/safety-ratings/byd/seal/72ba9e\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL safety rating and report</a><span>ANCAP Safety · 2026-07-19</span></li>\n        <li><a href=\"https://unece.org/transport/vehicle-regulations\" target=\"_blank\" rel=\"noopener noreferrer\">Vehicle regulations</a><span>United Nations Economic Commission for Europe · 2026-07-19</span></li>\n        <li><a href=\"https://www.byd.com/content/dam/byd-site/id/brochure/SEAL-BROCHURE.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL brochure</a><span>BYD Indonesia · 2026-08-13</span></li>\n        <li><a href=\"https://www.byd.com/material/byd-site/sg/product/pdf/BYD%20Seal%20Spec%20Sheet-PREVIEW%20.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL specification sheet</a><span>BYD Singapore · 2026-08-13</span></li>\n      </ul>\n    </article><aside class=\"spec-panel\"><h2>Spesifikasi Inggris, tahun model 2026</h2><p>Khusus pasar Inggris tahun model 2026: Design dan Excellence AWD. Angka ini tidak membuktikan spesifikasi kendaraan ekspor yang belum teridentifikasi.</p><dl class=\"spec-list\"><div><dt>Kapasitas baterai</dt><dd>82.5 kWh (LFP)</dd></div><div><dt>Sistem penggerak</dt><dd>Design: penggerak roda belakang; Excellence AWD: penggerak semua roda</dd></div><div><dt>Daya motor maksimum</dt><dd>Design: 312 PS; Excellence AWD: 530 PS</dd></div><div><dt>Jarak tempuh gabungan WLTP</dt><dd>Design: 354 mil; Excellence AWD: 323 mil</dd></div><div><dt>Akselerasi 0–62 mph</dt><dd>Design: 5.9 detik; Excellence AWD: 3.8 detik</dd></div><div><dt>Daya pengisian AC maksimum</dt><dd>11 kW</dd></div><div><dt>Daya pengisian DC maksimum</dt><dd>150 kW</dd></div><div><dt>Port pengisian</dt><dd>CCS2</dd></div><div><dt>Kapasitas bagasi belakang</dt><dd>485 L</dd></div><div><dt>Kapasitas bagasi depan</dt><dd>72 L</dd></div></dl><p><a href=\"https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Data teknis BYD Inggris tahun model 2026, halaman 7</a> · 2026-09-05</p></aside></section>\n  </main>",
+      "word_count": 351,
+      "reading_time_minutes": 2,
+      "last_reviewed": "2026-08-30",
+      "image": {
+        "src": "../../assets/editorial/byd-seal.jpg",
+        "alt": "Foto BYD SEAL sebagai referensi keluarga model",
+        "wiki_title": "BYD Seal",
+        "caption": "Foto BYD SEAL sebagai referensi keluarga model",
+        "wiki_file_title": "",
+        "source_page": "https://en.wikipedia.org/wiki/BYD_Seal",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:2022_BYD_Seal.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/2022_BYD_Seal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 4.0",
+        "artist": "User 3204",
+        "credit": "Own work",
+        "candidate_description": "​一輛來自東莞（粤S牌）的比亞迪海豹，拍攝於中國廣東省深圳市羅湖區",
+        "identity_status": "confirmed_model_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-08-20T18:24:20.812Z",
+        "identity_reviewer": "codex-visual-review-2026-08-21",
+        "identity_review_note": "Visible vehicle matches the BYD SEAL model family; no exact trim, build date or destination specification is claimed.",
+        "review_note": "Reusable-license metadata and visible model identity confirmed for this content record."
+      },
+      "specifications": [
+        {
+          "label": "Kapasitas baterai",
+          "value": "82.5 kWh (LFP)",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Sistem penggerak",
+          "value": "Design: penggerak roda belakang; Excellence AWD: penggerak semua roda",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Daya motor maksimum",
+          "value": "Design: 312 PS; Excellence AWD: 530 PS",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Jarak tempuh gabungan WLTP",
+          "value": "Design: 354 mil; Excellence AWD: 323 mil",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Akselerasi 0–62 mph",
+          "value": "Design: 5.9 detik; Excellence AWD: 3.8 detik",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Daya pengisian AC maksimum",
+          "value": "11 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Daya pengisian DC maksimum",
+          "value": "150 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Port pengisian",
+          "value": "CCS2",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Kapasitas bagasi belakang",
+          "value": "485 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Kapasitas bagasi depan",
+          "value": "72 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        }
+      ],
+      "review_status": "editorial_review_pending"
+    },
+    "ar": {
+      "title": "تصدير BYD SEAL: أي نسخة تشتري فعلياً؟",
+      "seo_title": "دليل تصدير BYD SEAL: مرجع بريطانيا 2026",
+      "meta_description": "استخدم مواصفات SEAL البريطانية 2026 كمرجع مضبوط للتحقق من النسخة والمدى والشحن والسلامة والبرمجيات والتوافق مع بلد الوجهة.",
+      "summary": "استخدم مواصفات SEAL البريطانية 2026 كمرجع مضبوط للتحقق من النسخة والمدى والشحن والسلامة والبرمجيات والتوافق مع بلد الوجهة.",
+      "eyebrow": "بحث تصدير مرتبط بالتجهيز",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../ar/index.html\">الرئيسية</a><span>/</span><a href=\"../../ar/vehicles/index.html\">السيارات</a><span>/</span><span>تصدير BYD SEAL: أي نسخة تشتري فعلياً؟</span></nav>\n    <section class=\"vehicle-detail-hero\"><div><p class=\"eyebrow\">بحث تصدير مرتبط بالتجهيز</p><h1>تصدير BYD SEAL: أي نسخة تشتري فعلياً؟</h1><p class=\"lead\">استخدم مواصفات SEAL البريطانية 2026 كمرجع مضبوط للتحقق من النسخة والمدى والشحن والسلامة والبرمجيات والتوافق مع بلد الوجهة.</p></div><div class=\"detail-media\"><img src=\"../../assets/editorial/byd-seal.jpg\" alt=\"صورة BYD SEAL تُستخدم كمرجع لعائلة الطراز\" loading=\"lazy\"></div></section>\n    <section class=\"detail-layout\"><article class=\"detail-main\">\n      <h2>2026 مثبت لبريطانيا فقط</h2>\n      <p>BYD UK تبيع حالياً SEAL 2026 Design وExcellence AWD؛ هذا ليس مواصفة عالمية. تحقق من VIN وتاريخ الإنتاج والسوق الأصلي.</p>\n      <h2>نسخ UK</h2>\n      <p>Design: 354 ميل WLTP ودفع خلفي و5. 9 ث؛ Excellence AWD: 323 ميل و3. 8 ث و390 kW. مرجع 82.5 kWh LFP لكليهما.</p>\n      <h2>الشحن والمساحة</h2>\n      <p>UK: AC 11 kW وDC حتى150 kW، خلفي485 L وأمامي72 L؛ تحقق من السيارة الفعلية.</p>\n      <h2>السلامة</h2>\n      <p>Euro NCAP 2023 وANCAP لهما نطاق محدد ولا تعمم خمس نجوم عالمياً.</p>\n      <h2>الخدمات المتصلة / القرار</h2>\n      <p>الملاحة والتطبيق وOTA والاتصال قد تعتمد على المنطقة. تحقق من VIN والسوق والمحرك/البطارية والشحن والمدى والتقييم والضمان والبرمجيات والإطارات والقطع والتشخيص.</p>\n      <h2>تسجيل الأدلة في ملف العقد</h2>\n      <p>يجب أن يحدد ملف شراء تصدير BYD SEAL: أي نسخة تشتري فعلياً؟ المركبة المعروضة وسوقها الأصلي والوجهة وتاريخ الأدلة والمورد المسؤول. ثم يوضح كيف يعالج العرض 2026 مثبت لبريطانيا فقط, نسخ UK, الشحن والمساحة, السلامة, الخدمات المتصلة / القرار. اربط سجل رقم الهيكل والصور وعرض السعر ووثائق الاعتماد وأدلة الخدمة بالملف نفسه. يبقى البند غير المحسوم مشروطاً ولا يتحول إلى حقيقة. ويجب أن يحدد العقد من يصحح أي اختلاف وما الإجراء إذا لم تتطابق الأدلة المقدمة قبل الشحن مع المركبة. يتيح هذا السجل للمراجع الثاني تتبع القرار ويمنع اعتبار صفحة عائلة الطراز دليلاً على مركبة فعلية واحدة.</p>\n      <h2>تحويل الأسئلة المفتوحة إلى قرار دفع</h2>\n      <p>استخدم مواصفات SEAL البريطانية 2026 كمرجع مضبوط للتحقق من النسخة والمدى والشحن والسلامة والبرمجيات والتوافق مع بلد الوجهة. يجب أن يتبع قرار الدفع سلسلة الأدلة التالية: 2026 مثبت لبريطانيا فقط; نسخ UK; الشحن والمساحة; السلامة; الخدمات المتصلة / القرار. ويجب ربط كل خطوة بالمركبة المعروضة نفسها وسوق المصدر والوجهة نفسيهما حتى لا تختلط الفئات غير المتطابقة.</p>\n      <p>تصدير BYD SEAL: أي نسخة تشتري فعلياً؟: قبل اعتماد الدفع يجب أن يجيب ملف الشراء بوضوح عن الأسئلة التالية: BYD SEAL: هل هذه مواصفة 2026 موحدة عالميا؟; BYD SEAL: ما أدلة الهوية المطلوبة قبل العربون؟; BYD SEAL: هل يسمح تقييم السلامة بالاستيراد؟; BYD SEAL: ما التوافق التشغيلي الواجب فحصه؟. لا تكون الإجابة قابلة للاعتماد إلا إذا حددت الوثيقة وتاريخها والجهة المصدرة والطرف المسؤول. ويبقى البند غير المؤكد شرطاً في العقد، ولا يجوز تحويله إلى تجهيز مؤكد أو تكلفة مضمونة. وإذا تغيرت المركبة أو الوجهة فيجب إعادة المقارنة من البداية. 2026 مثبت لبريطانيا فقط; نسخ UK; الشحن والمساحة; السلامة; الخدمات المتصلة / القرار.</p>\n      <h2>الأسئلة الشائعة</h2>\n      <h3>BYD SEAL: هل هذه مواصفة 2026 موحدة عالميا؟</h3>\n      <p>لا. تخص هذه الأرقام فئتي Design وExcellence AWD البريطانيتين لسنة الطراز 2026. يتطلب اختلاف سوق المنشأ أو سنة الطراز ورقة مواصفات خاصة به.</p>\n      <h3>BYD SEAL: ما أدلة الهوية المطلوبة قبل العربون؟</h3>\n      <p>اطلب رقم تعريف المركبة وتاريخ الإنتاج وسوق البيع الأصلية والفئة الدقيقة وورقة تجهيزات مؤرخة. يجب أن تحدد الوثائق والصور السيارة نفسها.</p>\n      <h3>BYD SEAL: هل يسمح تقييم السلامة بالاستيراد؟</h3>\n      <p>لا. تقييم السلامة في التصادم والسماح بتسجيل سيارة مستوردة مسألتان منفصلتان. تحقق من الفئات التي يشملها التقييم ومتطلبات القبول في بلد المقصد كلٌّ على حدة.</p>\n      <h3>BYD SEAL: ما التوافق التشغيلي الواجب فحصه؟</h3>\n      <p>تحقق من منفذ الشحن الفعلي والشبكة المحلية وتوافر التطبيقات والملاحة ونطاق الضمان ودعم الإصلاح. التجهيز البريطاني لا يضمن عمل الخدمات المتصلة خارج البلاد.</p>\n      <h3>BYD SEAL: كيف تقارن التكلفة الكلية حتى الوصول؟</h3>\n      <p>قارن مواصفات السيارة والمقصد وشروط التسليم نفسها. أدرج الفحص والنقل والشحن البحري والتأمين والضرائب السارية والتسجيل والتعديلات اللازمة.</p>\n\n      <h2>المصادر</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://www.byd.com/eu/electric-cars/seal.html\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL: Dynamic and Intelligent</a><span>BYD Europe · 2026-07-19</span></li>\n        <li><a href=\"https://www.euroncap.com/assessments/byd/seal/1044/\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL safety rating and report</a><span>Euro NCAP · 2026-07-19</span></li>\n        <li><a href=\"https://www.ancap.com.au/safety-ratings/byd/seal/72ba9e\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL safety rating and report</a><span>ANCAP Safety · 2026-07-19</span></li>\n        <li><a href=\"https://unece.org/transport/vehicle-regulations\" target=\"_blank\" rel=\"noopener noreferrer\">Vehicle regulations</a><span>United Nations Economic Commission for Europe · 2026-07-19</span></li>\n        <li><a href=\"https://www.byd.com/content/dam/byd-site/id/brochure/SEAL-BROCHURE.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL brochure</a><span>BYD Indonesia · 2026-08-13</span></li>\n        <li><a href=\"https://www.byd.com/material/byd-site/sg/product/pdf/BYD%20Seal%20Spec%20Sheet-PREVIEW%20.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL specification sheet</a><span>BYD Singapore · 2026-08-13</span></li>\n      </ul>\n    </article><aside class=\"spec-panel\"><h2>مواصفات السوق البريطانية لسنة الطراز 2026</h2><p>للسوق البريطانية، سنة الطراز 2026، بفئتي Design وExcellence AWD فقط. لا تثبت هذه الأرقام مواصفات سيارة تصدير لم تُحدَّد هويتها.</p><dl class=\"spec-list\"><div><dt>سعة البطارية</dt><dd>82.5 kWh (LFP)</dd></div><div><dt>نظام الدفع</dt><dd>Design: دفع خلفي؛ Excellence AWD: دفع كلي</dd></div><div><dt>القدرة القصوى للمحرك</dt><dd>Design: 312 PS; Excellence AWD: 530 PS</dd></div><div><dt>المدى المختلط وفق WLTP</dt><dd>Design: 354 ميل; Excellence AWD: 323 ميل</dd></div><div><dt>التسارع من 0 إلى 62 ميل/ساعة</dt><dd>Design: 5.9 ثانية; Excellence AWD: 3.8 ثانية</dd></div><div><dt>أقصى قدرة شحن بالتيار المتردد</dt><dd>11 kW</dd></div><div><dt>أقصى قدرة شحن بالتيار المستمر</dt><dd>150 kW</dd></div><div><dt>منفذ الشحن</dt><dd>CCS2</dd></div><div><dt>سعة الصندوق الخلفي</dt><dd>485 L</dd></div><div><dt>سعة الصندوق الأمامي</dt><dd>72 L</dd></div></dl><p><a href=\"https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">البيانات الفنية من BYD بريطانيا لسنة الطراز 2026، الصفحة 7</a> · 2026-09-05</p></aside></section>\n  </main>",
+      "word_count": 347,
+      "reading_time_minutes": 2,
+      "last_reviewed": "2026-08-30",
+      "image": {
+        "src": "../../assets/editorial/byd-seal.jpg",
+        "alt": "صورة BYD SEAL تُستخدم كمرجع لعائلة الطراز",
+        "wiki_title": "BYD Seal",
+        "caption": "صورة BYD SEAL تُستخدم كمرجع لعائلة الطراز",
+        "wiki_file_title": "",
+        "source_page": "https://en.wikipedia.org/wiki/BYD_Seal",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:2022_BYD_Seal.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/2022_BYD_Seal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 4.0",
+        "artist": "User 3204",
+        "credit": "Own work",
+        "candidate_description": "​一輛來自東莞（粤S牌）的比亞迪海豹，拍攝於中國廣東省深圳市羅湖區",
+        "identity_status": "confirmed_model_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-08-20T18:24:20.812Z",
+        "identity_reviewer": "codex-visual-review-2026-08-21",
+        "identity_review_note": "Visible vehicle matches the BYD SEAL model family; no exact trim, build date or destination specification is claimed.",
+        "review_note": "Reusable-license metadata and visible model identity confirmed for this content record."
+      },
+      "specifications": [
+        {
+          "label": "سعة البطارية",
+          "value": "82.5 kWh (LFP)",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "نظام الدفع",
+          "value": "Design: دفع خلفي؛ Excellence AWD: دفع كلي",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "القدرة القصوى للمحرك",
+          "value": "Design: 312 PS; Excellence AWD: 530 PS",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "المدى المختلط وفق WLTP",
+          "value": "Design: 354 ميل; Excellence AWD: 323 ميل",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "التسارع من 0 إلى 62 ميل/ساعة",
+          "value": "Design: 5.9 ثانية; Excellence AWD: 3.8 ثانية",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "أقصى قدرة شحن بالتيار المتردد",
+          "value": "11 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "أقصى قدرة شحن بالتيار المستمر",
+          "value": "150 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "منفذ الشحن",
+          "value": "CCS2",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "سعة الصندوق الخلفي",
+          "value": "485 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "سعة الصندوق الأمامي",
+          "value": "72 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        }
+      ],
+      "review_status": "editorial_review_pending"
+    },
+    "zh": {
+      "title": "BYD SEAL出口采购：你买到的到底是哪一个版本？",
+      "seo_title": "BYD SEAL出口采购指南：2026英国版本、续航与核验",
+      "meta_description": "以BYD英国当前2026 SEAL为受控参考，核实Design与Excellence AWD、续航、充电、安全评级、软件和目的国兼容性，避免把英国版本写成全球统一配置。",
+      "summary": "以BYD英国当前2026 SEAL为受控参考，核实Design与Excellence AWD、续航、充电、安全评级、软件和目的国兼容性，避免把英国版本写成全球统一配置。",
+      "eyebrow": "按具体配置开展出口核验",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../zh/index.html\">首页</a><span>/</span><a href=\"../../zh/vehicles/index.html\">车型</a><span>/</span><span>BYD SEAL出口采购：你买到的到底是哪一个版本？</span></nav>\n    <section class=\"vehicle-detail-hero\"><div><p class=\"eyebrow\">按具体配置开展出口核验</p><h1>BYD SEAL出口采购：你买到的到底是哪一个版本？</h1><p class=\"lead\">以BYD英国当前2026 SEAL为受控参考，核实Design与Excellence AWD、续航、充电、安全评级、软件和目的国兼容性，避免把英国版本写成全球统一配置。</p></div><div class=\"detail-media\"><img src=\"../../assets/editorial/byd-seal.jpg\" alt=\"作为车型家族参考图的 BYD SEAL 照片\" loading=\"lazy\"></div></section>\n    <section class=\"detail-layout\"><article class=\"detail-main\">\n      <h2>“2026”只能用在来源真正证明的市场</h2>\n      <p>BYD英国目前明确销售BYD SEAL 2026，并提供Design和Excellence AWD两个版本。 这个证据可以证明英国市场，却不能证明从中国或其他市场出口的SEAL全部属于同一个2026全球版本。</p>\n      <p>采购时必须从VIN、生产日期、原销售市场和具体版本开始。 英国2026资料只能作为对照基准，不能直接变成“全球配置表”。</p>\n      <h2>两个英国参考版本的性能差异很大</h2>\n      <p>BYD英国当前列出的Design为WLTP综合续航354英里、后驱、0–62 mph 5.9秒；Excellence AWD为323英里、四驱、3.8秒，并标注390 kW/530 PS。</p>\n      <p>当前英国规格资料显示两个参考版本都使用Blade Battery（LFP）并列出82.5 kWh。 不能把Design的续航和Excellence的性能拼在一起当成一辆车。</p>\n      <h2>充电和空间数据也必须绑定英国参考版本</h2>\n      <p>BYD英国当前资料列出11 kW交流充电和最高150 kW直流快充，并在特定条件下给出充电时间。 英国资料还列出后备箱485 L和前备箱72 L。</p>\n      <p>实际充电速度会受到充电桩、电压、温度和SOC影响。 出口前必须核实具体VIN的充电接口、车载充电机和软件，因为其他市场版本可能不同。</p>\n      <h2>安全评级不能写成全球五星</h2>\n      <p>Euro NCAP在2023年评估BYD SEAL，ANCAP也说明其评级有明确的技术报告和澳新适用范围。 这些都是有价值的独立证据，但应记录评级年份和版本边界，不能简化成“全球五星”。 对实际出口车辆还需要核对气囊、ADAS、生产日期和评级是否覆盖该版本。</p>\n      <h2>联网功能是平行出口的重要风险</h2>\n      <p>英国规格资料明确提醒导航并非所有语言和国家都支持。 这一点对出口车辆非常重要。 APP、OTA、车载网络、语音、导航和在线账户都可能受地区限制。 付款前应测试或取得书面证据，确认目的国语言、手机互联、APP注册、OTA更新、导航和相关订阅能否正常使用。</p>\n      <h2>采购结论</h2>\n      <p>BYD SEAL可以是很有竞争力的纯电轿车，但必须按具体版本购买。 付款前确认VIN、原市场、电池和电机、充电、续航数据来源、安全评级范围、质保区域、软件、轮胎、配件和诊断支持。</p>\n      <p>不要发布一份所谓“全球2026 BYD SEAL配置”。 更可靠的车型页应该明确写出参考市场，再把实际车源逐项核验。</p>\n      <h2>用英国参考资料核对实际车源</h2>\n      <p>若报价使用英国2026资料，合同应明确它只是受控参考。 实际车辆仍要通过VIN、生产日期、原销售市场、Design或Excellence AWD身份、电机与驱动形式、电池标签、充电口、轮胎和随车文件逐项确认，不能把Design的续航与Excellence AWD的性能组合成一辆不存在的车型。</p>\n      <p>付款前还应取得目的国对充电接口、无线通信、App、OTA、导航、质保区域和维修诊断的书面确认。 任何英国页面没有覆盖、实车又无法证明的配置，应标记为未确认，而不是借用其他市场页面补齐。</p>\n      <h2>把性能数据转换成使用条件</h2>\n      <p>WLTP续航和峰值快充功率适合在相同测试边界内比较，但不等于目的地全年实际表现。 买方还应结合气候、充电网络、日均里程和电价判断Design后驱与Excellence AWD的差异是否值得承担额外轮胎、能耗和维修复杂度。 最终付款条件应绑定同一VIN、原销售市场和配置代码，任何一项变化都要重新核对准入、充电与售后证据。</p>\n      <h2>常见问题</h2>\n      <h3>BYD SEAL: 这是全球统一的 2026 年规格吗？</h3>\n      <p>不是。本页参数只对应英国市场 2026 年款 Design 与 Excellence AWD。原销售市场或年款不同，应另行核对相应配置表。</p>\n      <h3>BYD SEAL: 支付定金前需要哪些身份材料？</h3>\n      <p>应取得车辆识别代号、生产日期、原销售市场、具体版本和带日期的配置表。卖方文件与照片必须指向同一辆车。</p>\n      <h3>BYD SEAL: 安全评分是否等于允许进口？</h3>\n      <p>不等于。碰撞安全评级与进口车辆能否登记是两件事，应分别核对评级覆盖的版本及目的国准入要求。</p>\n      <h3>BYD SEAL: 需要核查哪些运行兼容条件？</h3>\n      <p>应检查实车充电接口、当地充电网络、应用与导航可用性、质保区域和维修支持。英国配置不能证明联网功能在境外仍可使用。</p>\n      <h3>BYD SEAL: 如何比较总到岸成本？</h3>\n      <p>应统一车型配置、目的地和交付条款，再计入检验、运输、海运、保险、适用税费、登记和必要改装费用。</p>\n\n      <h2>资料来源</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://www.byd.com/eu/electric-cars/seal.html\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL: Dynamic and Intelligent</a><span>BYD Europe · 2026-07-19</span></li>\n        <li><a href=\"https://www.euroncap.com/assessments/byd/seal/1044/\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL safety rating and report</a><span>Euro NCAP · 2026-07-19</span></li>\n        <li><a href=\"https://www.ancap.com.au/safety-ratings/byd/seal/72ba9e\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL safety rating and report</a><span>ANCAP Safety · 2026-07-19</span></li>\n        <li><a href=\"https://unece.org/transport/vehicle-regulations\" target=\"_blank\" rel=\"noopener noreferrer\">Vehicle regulations</a><span>United Nations Economic Commission for Europe · 2026-07-19</span></li>\n        <li><a href=\"https://www.byd.com/content/dam/byd-site/id/brochure/SEAL-BROCHURE.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL brochure</a><span>BYD Indonesia · 2026-08-13</span></li>\n        <li><a href=\"https://www.byd.com/material/byd-site/sg/product/pdf/BYD%20Seal%20Spec%20Sheet-PREVIEW%20.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">BYD SEAL specification sheet</a><span>BYD Singapore · 2026-08-13</span></li>\n      </ul>\n    </article><aside class=\"spec-panel\"><h2>英国 2026 年款参数</h2><p>仅适用于英国市场 2026 年款 Design 与 Excellence AWD，不能据此认定其他出口车源的配置。</p><dl class=\"spec-list\"><div><dt>电池容量</dt><dd>82.5 kWh (LFP)</dd></div><div><dt>驱动形式</dt><dd>Design：后轮驱动；Excellence AWD：全轮驱动</dd></div><div><dt>电机最大功率</dt><dd>Design: 312 PS; Excellence AWD: 530 PS</dd></div><div><dt>WLTP 综合续航</dt><dd>Design: 354 英里; Excellence AWD: 323 英里</dd></div><div><dt>0–62 英里/小时加速</dt><dd>Design: 5.9 秒; Excellence AWD: 3.8 秒</dd></div><div><dt>交流充电最大功率</dt><dd>11 kW</dd></div><div><dt>直流充电最大功率</dt><dd>150 kW</dd></div><div><dt>充电接口</dt><dd>CCS2</dd></div><div><dt>后备厢容积</dt><dd>485 L</dd></div><div><dt>前备厢容积</dt><dd>72 L</dd></div></dl><p><a href=\"https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">比亚迪英国 2026 年款技术表，第 7 页</a> · 2026-09-05</p></aside></section>\n  </main>",
+      "word_count": 1245,
+      "reading_time_minutes": 4,
+      "last_reviewed": "2026-08-30",
+      "image": {
+        "src": "../../assets/editorial/byd-seal.jpg",
+        "alt": "作为车型家族参考图的 BYD SEAL 照片",
+        "wiki_title": "BYD Seal",
+        "caption": "作为车型家族参考图的 BYD SEAL 照片",
+        "wiki_file_title": "",
+        "source_page": "https://en.wikipedia.org/wiki/BYD_Seal",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:2022_BYD_Seal.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/2022_BYD_Seal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 4.0",
+        "artist": "User 3204",
+        "credit": "Own work",
+        "candidate_description": "​一輛來自東莞（粤S牌）的比亞迪海豹，拍攝於中國廣東省深圳市羅湖區",
+        "identity_status": "confirmed_model_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-08-20T18:24:20.812Z",
+        "identity_reviewer": "codex-visual-review-2026-08-21",
+        "identity_review_note": "Visible vehicle matches the BYD SEAL model family; no exact trim, build date or destination specification is claimed.",
+        "review_note": "Reusable-license metadata and visible model identity confirmed for this content record."
+      },
+      "specifications": [
+        {
+          "label": "电池容量",
+          "value": "82.5 kWh (LFP)",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "驱动形式",
+          "value": "Design：后轮驱动；Excellence AWD：全轮驱动",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "电机最大功率",
+          "value": "Design: 312 PS; Excellence AWD: 530 PS",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "WLTP 综合续航",
+          "value": "Design: 354 英里; Excellence AWD: 323 英里",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "0–62 英里/小时加速",
+          "value": "Design: 5.9 秒; Excellence AWD: 3.8 秒",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "交流充电最大功率",
+          "value": "11 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "直流充电最大功率",
+          "value": "150 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "充电接口",
+          "value": "CCS2",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "后备厢容积",
+          "value": "485 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "前备厢容积",
+          "value": "72 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        }
+      ],
+      "review_status": "editorial_review_pending"
+    }
+  },
+  "revision_history": [
+    {
+      "date": "2026-09-05",
+      "actor": "codex-parameter-repair",
+      "action": "Prepared UK MY2026 source-bound parameter and FAQ correction for independent review; not published."
+    },
+    {
+      "date": "2026-08-30",
+      "actor": "codex-user-approved-external-draft-batch",
+      "action": "approved and deployed to production"
+    },
+    {
+      "date": "2026-08-30",
+      "actor": "codex-ai-rebuild",
+      "action": "researched bilingual source and ten-language localization staged for passive review"
+    },
+    {
+      "date": "2026-08-30",
+      "actor": "codex-ai-rebuild",
+      "action": "researched bilingual source and ten-language localization staged for passive review"
+    },
+    {
+      "date": "2026-08-30",
+      "actor": "codex-ai-rebuild",
+      "action": "researched bilingual source and ten-language localization staged for passive review"
+    },
+    {
+      "date": "2026-08-30",
+      "actor": "codex-user-approved-external-draft-batch",
+      "action": "approved and deployed to production"
+    },
+    {
+      "date": "2026-08-29",
+      "actor": "codex-ai-rebuild",
+      "action": "researched bilingual source and ten-language localization staged for passive review"
+    },
+    {
+      "date": "2026-08-29",
+      "actor": "codex-ai-rebuild",
+      "action": "researched bilingual source and ten-language localization staged for passive review"
+    },
+    {
+      "date": "2026-08-29",
+      "actor": "codex-ai-rebuild",
+      "action": "researched bilingual source and ten-language localization staged for passive review"
+    },
+    {
+      "date": "2026-08-29",
+      "actor": "codex-ai-rebuild",
+      "action": "researched bilingual source and ten-language localization staged for passive review"
+    },
+    {
+      "date": "2026-08-29",
+      "actor": "codex-ai-rebuild",
+      "action": "researched bilingual source and ten-language localization staged for passive review"
+    },
+    {
+      "date": "2026-08-20",
+      "actor": "codex-user-approved-2026-08-21",
+      "action": "approved and deployed to production"
+    },
+    {
+      "date": "2026-08-20",
+      "actor": "codex-ai-rebuild",
+      "action": "researched bilingual source and ten-language localization staged for passive review"
+    },
+    {
+      "date": "2026-08-13",
+      "actor": "codex-ai-rebuild",
+      "action": "researched bilingual source and ten-language localization staged for passive review"
+    },
+    {
+      "date": "2026-07-03",
+      "actor": "codex",
+      "action": "enabled French/German and category pinning fields"
+    },
+    {
+      "date": "2026-07-03",
+      "actor": "codex",
+      "action": "extracted current static HTML into structured content source"
+    }
+  ],
+  "pinned_in_category": false,
+  "synced_at": "2026-08-30T05:47:51.386Z",
+  "review_deadline_at": "",
+  "search_intent": "Research BYD SEAL for a configuration-matched 2026 export purchase",
+  "sources": [
+    {
+      "title": "BYD SEAL: Dynamic and Intelligent",
+      "organization": "BYD Europe",
+      "url": "https://www.byd.com/eu/electric-cars/seal.html",
+      "supports": "European SEAL body, e-Platform 3.0, Cell-to-Body technology and cited AWD performance.",
+      "accessed_at": "2026-07-19"
+    },
+    {
+      "title": "BYD SEAL safety rating and report",
+      "organization": "Euro NCAP",
+      "url": "https://www.euroncap.com/assessments/byd/seal/1044/",
+      "supports": "2023 tested Design RWD and listed Excellence AWD variants, steering-side scope and rating validity.",
+      "accessed_at": "2026-07-19"
+    },
+    {
+      "title": "BYD SEAL safety rating and report",
+      "organization": "ANCAP Safety",
+      "url": "https://www.ancap.com.au/safety-ratings/byd/seal/72ba9e",
+      "supports": "Australasian variant scope, build-date range, safety equipment and assessment scores.",
+      "accessed_at": "2026-07-19"
+    },
+    {
+      "title": "Vehicle regulations",
+      "organization": "United Nations Economic Commission for Europe",
+      "url": "https://unece.org/transport/vehicle-regulations",
+      "supports": "International vehicle-regulation and type-approval context; destination authorities still determine admission.",
+      "accessed_at": "2026-07-19"
+    },
+    {
+      "title": "BYD SEAL brochure",
+      "organization": "BYD Indonesia",
+      "url": "https://www.byd.com/content/dam/byd-site/id/brochure/SEAL-BROCHURE.pdf",
+      "supports": "Indonesia-market SEAL dimensions, battery choices, drivetrain outputs, charging interfaces and the manufacturer's market-variation disclaimer.",
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "title": "BYD SEAL specification sheet",
+      "organization": "BYD Singapore",
+      "url": "https://www.byd.com/material/byd-site/sg/product/pdf/BYD%20Seal%20Spec%20Sheet-PREVIEW%20.pdf",
+      "supports": "Singapore-market Dynamic, Premium and Performance figures that demonstrate why battery, output, charging and test-cycle claims require market matching.",
+      "accessed_at": "2026-08-13"
+    },
+    {
+      "title": "BYD SEAL MY2026 UK leaflet",
+      "organization": "BYD UK",
+      "url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+      "supports": "UK MY2026 Design and Excellence AWD technical table, page 7; battery, drive, power, range, acceleration, charging port/power and luggage volumes.",
+      "accessed_at": "2026-09-05"
+    }
+  ],
+  "evidence_gaps": [
+    "No single source proves that every vehicle advertised as 2026 uses the European 82.5 kWh battery, CCS2 inlet or cited software.",
+    "Battery repair, warranty transfer, recall completion, connected services and destination registration require VIN-specific written evidence.",
+    "Range and charging performance depend on trim, test method, temperature, state of charge and charging infrastructure.",
+    "No publication-ready photograph or commercial reuse permission has been secured; any candidate must show the SEAL battery-electric sedan, match the cited generation and market configuration, and retain its source, credit and license record."
+  ],
+  "quality_validation": {
+    "passed": false,
+    "reason": "parameter_correction_awaiting_independent_review",
+    "previous_score_not_reused": true
+  },
+  "editorial": {
+    "policy_version": "2026-08-15",
+    "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+    "author": {
+      "type": "Organization",
+      "name": "AutoBridge Export Editorial Team",
+      "url_path": "/authors/"
+    },
+    "methodology": "document_research_and_vehicle_comparison",
+    "evidence": {
+      "level": "documented_sources",
+      "first_hand": false,
+      "note": "First-hand inspection, transaction or ownership experience is stated only when a dated evidence record is attached."
+    },
+    "ai_assistance": {
+      "used": true,
+      "roles": [
+        "research_support",
+        "drafting_support",
+        "translation_support"
+      ],
+      "disclosure_required": true
+    },
+    "review": {
+      "status": "automated_quality_checked",
+      "note": "Parameter candidate only; independent editorial review pending. Prior human review does not cover this revision."
+    }
+  },
+  "published_at": "2026-08-30T06:03:55.025Z",
+  "indexing_state": "approved_for_indexing"
+}
