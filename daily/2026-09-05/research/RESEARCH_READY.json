@@ -1,0 +1,33 @@
+{
+  "date": "2026-09-05",
+  "MAIN_VEHICLE": 10,
+  "MAIN_GUIDE": 10,
+  "RESERVE_VEHICLE": 2,
+  "RESERVE_GUIDE": 2,
+  "main_pass": 9,
+  "main_conditional": 11,
+  "main_fail": 0,
+  "writing_ready_count": 20,
+  "status": "READY_WITH_CONDITIONS",
+  "status_rule": "全MAIN=PASS→READY；有CONDITIONAL无FAIL→READY_WITH_CONDITIONS；有MAIN FAIL→PARTIAL。本批无MAIN FAIL，故READY_WITH_CONDITIONS（非虚假READY）。",
+  "blocked_articles": [],
+  "conditional_articles": [
+    "AB-260905-G05",
+    "AB-260905-V01",
+    "AB-260905-V02",
+    "AB-260905-V03",
+    "AB-260905-V04",
+    "AB-260905-V05",
+    "AB-260905-V06",
+    "AB-260905-V07",
+    "AB-260905-V08",
+    "AB-260905-V09",
+    "AB-260905-V10"
+  ],
+  "reserve_fail_held": [
+    "AB-260905-GR1",
+    "AB-260905-GR2"
+  ],
+  "research_complete_commit_sha": "PENDING_AFTER_PUSH",
+  "generated_at": "2026-09-05 Asia/Shanghai"
+}

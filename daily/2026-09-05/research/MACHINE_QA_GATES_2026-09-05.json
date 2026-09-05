@@ -1,0 +1,21 @@
+{
+  "batch": "DAILY-2026-09-05",
+  "gates": {
+    "MARKET_CONFIDENCE_GATE": {
+      "result": "PASS",
+      "violations": [],
+      "rule": "market=CHINA的VERIFIED须有CHINA Primary；车型无OEM故无VERIFIED规格事实（最高CROSS_CHECKED/SINGLE_SOURCE），指南VERIFIED均来自对应scope中国主管机构。"
+    },
+    "DRAFT_SOURCE_GATE": {
+      "result": "PASS",
+      "violations": [],
+      "rule": "draft/征求意见/计划不得支撑VERIFIED+CURRENT；本批无此情形。"
+    },
+    "T4_BODY_GATE": {
+      "result": "PASS",
+      "violations": [],
+      "rule": "T4源事实不得进入FACTS_ALLOWED_IN_BODY（除非EDITORIAL_RECOMMENDATION且不表述为强制）；本批T4均隔离。"
+    }
+  },
+  "overall": "PASS"
+}
