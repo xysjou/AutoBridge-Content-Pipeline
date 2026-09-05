@@ -1,0 +1,99 @@
+{
+  "BATCH_ID": "BYD-SEAL-CORRECTION-887e865",
+  "AUTHORITATIVE": true,
+  "REVIEWED_COMMIT_SHA": "887e86597c19ca709456892d85e95e037512b95a",
+  "CANDIDATE_PATH": "reports/technical-diagnosis-20260905/byd-seal-correction/candidate.json",
+  "MANIFEST_PATH": "reports/technical-diagnosis-20260905/byd-seal-correction/review-manifest.json",
+  "CANDIDATE_GIT_BLOB_SHA": "a1e846a0b6f4e83de9eeab3de27bf2c6ea93c3ce",
+  "MANIFEST_GIT_BLOB_SHA": "1f639dd6faa4b5da707b78884c2378541300ec22",
+  "CANDIDATE_SHA256_DECLARED": "70c197dc6d77c9a05c9c5fe81866a40c240c6c399e8e3f56d0655c8b1698d2d1",
+  "CANDIDATE_SHA_DECLARATION_MATCHES_MANIFEST": true,
+  "BYTE_LEVEL_SHA256_RECOMPUTED_BY_REVIEW_AI": false,
+  "REVIEW_STATUS": "REVISION_REQUIRED",
+  "UK_MY2026_PARAMETER_PANEL": "PASS",
+  "WHOLE_ARTICLE_REVIEW_PASS": false,
+  "NEEDS_RESEARCH": false,
+  "RETURN_TO": "WRITING_AI",
+  "PUBLISH_APPROVED": false,
+  "HUMAN_REVIEWED": false,
+  "REVIEWED_BY": "AI_REVIEWER",
+  "PARAMETER_SCOPE": {
+    "market": "UK",
+    "model_year": "2026",
+    "derivatives": ["Design", "Excellence AWD"],
+    "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+    "source_page": 7,
+    "charging_time_status": "OMITTED_DUE_TO_SOURCE_PRESENTATION_CONFLICT"
+  },
+  "PARAMETER_RESIDUAL_CHECK": {
+    "DETAIL_LABEL_FOUND": false,
+    "OLD_400L_FOUND": false,
+    "OLD_53L_FOUND": false,
+    "STRUCTURED_82_DOT_5_OK": true,
+    "STRUCTURED_5_DOT_9_OK": true,
+    "STRUCTURED_3_DOT_8_OK": true
+  },
+  "BATCH_BLOCKERS": [
+    {
+      "severity": "P0",
+      "code": "TOP_LEVEL_PARAMETER_SCOPE_CAN_GLOBALIZE_UK_VALUES",
+      "required_action": "Explicitly scope or remove generic vehicle.specs/target-market mapping so UK MY2026 values cannot be consumed as Europe/SEA/Latin-America or global specifications."
+    },
+    {
+      "severity": "P0",
+      "code": "CANDIDATE_INDEXING_STATE_CONFLICT",
+      "required_action": "Candidate is quality_hold/review-pending and must not inherit indexing_state=approved_for_indexing as candidate authorization. Preserve noindex/hold until future REVIEW_PASS."
+    },
+    {
+      "severity": "P0",
+      "code": "KO_BODY_DECIMAL_REGRESSION",
+      "evidence": ["5. 9초", "3. 8초"],
+      "required_action": "Repair decimal tokens in Korean body and rerun whole-body numeric integrity QA."
+    },
+    {
+      "severity": "P0",
+      "code": "AR_BODY_DECIMAL_REGRESSION",
+      "evidence": ["5. 9 ث", "3. 8 ث"],
+      "required_action": "Repair decimal tokens in Arabic body and rerun whole-body numeric integrity QA."
+    },
+    {
+      "severity": "P1",
+      "code": "UNTRACKED_390_KW_BODY_VALUE",
+      "required_action": "Remove 390 kW from body or bind it explicitly to a source/derived-conversion record; accepted parameter panel uses 312 PS/530 PS."
+    },
+    {
+      "severity": "P1",
+      "code": "NON_EN_ABRIDGED_TEMPLATE_HEAVY",
+      "required_action": "Repair non-English bodies to preserve substantive buyer logic without repeated evidence-chain/contract-file scaffold; do not rewrite sound EN/ZH core unnecessarily."
+    },
+    {
+      "severity": "P1",
+      "code": "STALE_LAST_REVIEWED_DATE",
+      "required_action": "Do not imply the 2026-09-05 candidate was reviewed on 2026-08-30. Keep HUMAN_REVIEWED=false and use neutral update metadata if needed."
+    },
+    {
+      "severity": "P1",
+      "code": "IMAGE_RIGHTS_METADATA_CONTRADICTION",
+      "required_action": "Resolve conflict between CC BY-SA source/license metadata and evidence_gaps/review_note saying no reusable image is secured; render attribution to User 3204 / Wikimedia Commons / CC BY-SA 4.0 and do not present Own work as AutoBridge ownership."
+    }
+  ],
+  "SUMMARY_MARKET_SCOPE": "PASS",
+  "IMAGE_SEMANTIC_MATCH": "PASS_WITH_METADATA_REPAIR",
+  "LOCALES": {
+    "en": {"status":"REVISION_REQUIRED","panel":"PASS","main_html_sha256":"41a450cb4014820b0d73a1a0e1988dbdf06db7bf82bd2fa4a939f3ad2abf9015","panel_sha256":"38762b2e7b7c1d8a33bbce2f1edb2989b98886538279e66f08b5fd2a3cb85aea","defects":["MASTER_BELOW_900_WORD_FLOOR","UNTRACKED_390_KW","QUOTE_SPACING","STALE_LAST_REVIEWED"]},
+    "zh": {"status":"REVISION_REQUIRED","panel":"PASS","main_html_sha256":"2d250300eedd48653cd2074fc71a364d3192af05d6c984e49aefda2e48c6ee20","panel_sha256":"6503a77c54292951a8c8a092bcad1a76958d6e6dcaa8f5f324420e8143c51d83","defects":["UNTRACKED_390_KW","STALE_LAST_REVIEWED","BATCH_SCOPE_AND_INDEX_METADATA_BLOCKERS"]},
+    "fr": {"status":"REVISION_REQUIRED","panel":"PASS","main_html_sha256":"5a3da7050a669cb21fe7b7880f755f65232a2b2ea9cbb9757c73e9b20528c278","panel_sha256":"d4afc49250e2af8d2702d4ad10f2cd8a4cbf322735d2da20888542b63c253da1","defects":["MATERIALLY_ABRIDGED","TEMPLATE_EVIDENCE_CHAIN","UNTRACKED_390_KW","STALE_LAST_REVIEWED"]},
+    "de": {"status":"REVISION_REQUIRED","panel":"PASS","main_html_sha256":"4d8c5a4e5415c268530ba31b6ffe9c9e87e4b75e9cccc93763f747e973b23772","panel_sha256":"dd696fa9e32f35555923df5cd9bd079b3c39d29e9253dedeae8bd400dc7bb1a6","defects":["MATERIALLY_ABRIDGED","TEMPLATE_EVIDENCE_CHAIN","UNTRACKED_390_KW","STALE_LAST_REVIEWED"]},
+    "es": {"status":"REVISION_REQUIRED","panel":"PASS","main_html_sha256":"6b5afafe583532b95136c1a45eff7a51e7acf17dbf7de7af8dcd137211c8994a","panel_sha256":"ece8d6a560fd184396f8d206f3c851d1df41377f46fe29f19e056c477c3674a5","defects":["MATERIALLY_ABRIDGED","TEMPLATE_EVIDENCE_CHAIN","UNTRACKED_390_KW","STALE_LAST_REVIEWED"]},
+    "pt-br": {"status":"REVISION_REQUIRED","panel":"PASS","main_html_sha256":"d67a11abadaaba79bddbd062dd47cbf928904a59a18ec01c91b5bb6a74837903","panel_sha256":"1bd8029971288995c6fa786843b337ddfa8a61e52b633ae04844db28a56d4d21","defects":["MATERIALLY_ABRIDGED","TEMPLATE_EVIDENCE_CHAIN","UNTRACKED_390_KW","STALE_LAST_REVIEWED"]},
+    "ja": {"status":"REVISION_REQUIRED","panel":"PASS","main_html_sha256":"243b8b60ec389f18e6957bec9c3de5d1ab6111ec7ee2a21c29e39809b2b1a62a","panel_sha256":"d510be183c7ec2a0ba920da4f44f286a20a6c762039fe0f662d22077b5fa8019","defects":["TEMPLATE_EVIDENCE_CHAIN","DOUBLE_PUNCTUATION","STRAY_LATIN_PUNCTUATION","UNTRACKED_390_KW","STALE_LAST_REVIEWED"]},
+    "ko": {"status":"REVISION_REQUIRED","panel":"PASS","main_html_sha256":"f70db5c943ff664232b94510832d29d059662e69dc0b7931fe8649b95ff6610e","panel_sha256":"550003dd8d8d36c14ec9c2452428b4d1c4eb2e20351ea2f05e689e94f24afffe","defects":["P0_BODY_5_DOT_9_SPLIT","P0_BODY_3_DOT_8_SPLIT","AWKWARD_AWD_WORDING","TEMPLATE_EVIDENCE_CHAIN","UNTRACKED_390_KW","STALE_LAST_REVIEWED"]},
+    "vi": {"status":"REVISION_REQUIRED","panel":"PASS","main_html_sha256":"848b65efc81051da0537c19e03e90331da3693bb514682b9703111f9511d2a8a","panel_sha256":"48c19d38be7376e97583c3ad0a43baed01176bf6b9ebb1fb7b053e4fe24056a2","defects":["MATERIALLY_ABRIDGED","HEAVY_CODE_SWITCHING","TEMPLATE_EVIDENCE_CHAIN","UNTRACKED_390_KW","STALE_LAST_REVIEWED"]},
+    "th": {"status":"REVISION_REQUIRED","panel":"PASS","main_html_sha256":"286dc7fca4029b097ae36756b532b147266aacfdbb9d0e0db6cd68380b654c49","panel_sha256":"798cd0109d69f8ae5c770f933b67d7348be9bd14a9aa0b153448f019b30327b9","defects":["HIGHLY_COMPRESSED_BODY","CODE_SWITCHING","TEMPLATE_EVIDENCE_CHAIN","UNTRACKED_390_KW","STALE_LAST_REVIEWED"]},
+    "id": {"status":"REVISION_REQUIRED","panel":"PASS","main_html_sha256":"06f64d5a74d4ec6640972d43e5229dc24edfb58d611646b1f1fa8ce4ddf5e032","panel_sha256":"6c63c51ad91ec44c446ccc26360fbf0c7cbeb4ab5f4f303618caaeaba643ae02","defects":["MATERIALLY_ABRIDGED","HEAVY_CODE_SWITCHING","TEMPLATE_EVIDENCE_CHAIN","UNTRACKED_390_KW","STALE_LAST_REVIEWED"]},
+    "ar": {"status":"REVISION_REQUIRED","panel":"PASS","main_html_sha256":"65d2b1e20e57921a6d1e92491408f479b4af45975a914e1231dc37aac3896188","panel_sha256":"be57d241e30b2eca7839eec80975561c1772bf4f7b74d0068931b568271ae6ca","defects":["P0_BODY_5_DOT_9_SPLIT","P0_BODY_3_DOT_8_SPLIT","MATERIALLY_ABRIDGED","TEMPLATE_EVIDENCE_CHAIN","UNTRACKED_390_KW","STALE_LAST_REVIEWED"]}
+  },
+  "REVIEW_PASS_HASHES_ISSUED": 0,
+  "REVIEW_BASELINE_DRIFT_RULE": "Any substantive change to body, summary, parameter payload, image ALT/caption/provenance or market scope invalidates this review and requires a new review.",
+  "UNREVIEWED_SCOPE": "The connector did not return readable content for reports/technical-diagnosis-20260905/review-defects-handoff.json; this handoff does not independently verify all 1,555 local-failure records."
+}
