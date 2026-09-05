@@ -55,6 +55,29 @@ Customs guidance distinguishes electric three-wheelers by use and identification
 **What is the difference between 87.04 and 87.05?** 87.04 carries goods; 87.05 exists to perform a special function where carrying cargo is incidental. Decide by principal use.
 **Which tariff edition should I cite now?** The 2026 *Import and Export Tariff* and the GACC announcement implementing the 2026 programme; do not use 2018/2020 tables as the current basis.
 
+## Image Record
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-05
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Classifying vehicles HS 87.01-87.05, vehicle-export procurement guide
+  - **FR**: Référence AutoBridge pour acheteurs export — Classifying vehicles HS 87.01-87.05, guide d’achat à l’export automobile
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Classifying vehicles HS 87.01-87.05, Leitfaden für Fahrzeugexport-Einkauf
+  - **ES**: Referencia AutoBridge para compradores de exportación — Classifying vehicles HS 87.01-87.05, guía de compras para exportación de vehículos
+  - **PT**: Referência AutoBridge para compradores de exportação — Classifying vehicles HS 87.01-87.05, guia de compras para exportação de veículos
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Classifying vehicles HS 87.01-87.05, 自動車輸出 調達ガイド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Classifying vehicles HS 87.01-87.05, 자동차 수출 조달 가이드
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Classifying vehicles HS 87.01-87.05, hướng dẫn thu mua xuất khẩu xe
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Classifying vehicles HS 87.01-87.05, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Classifying vehicles HS 87.01-87.05, panduan pengadaan ekspor kendaraan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Classifying vehicles HS 87.01-87.05, دليل مشتريات تصدير المركبات
+  - **ZH**: AutoBridge 出口采购参考｜Classifying vehicles HS 87.01-87.05, 汽车出口采购指南
+
 ## Sources & Verification
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
@@ -63,6 +86,9 @@ Customs guidance distinguishes electric three-wheelers by use and identification
 | 2026 HS query · Chapter 87 headings | i5a6 HS query system | CN | https://www.i5a6.com/hsCategory/c17 | 2026-09-04 | CROSS_CHECKED | Heading navigation |
 | Customs Q&A on electric three-wheelers (8703.80 / 8704.60) | Customs release (repost) | CN | http://m.toutiao.com/group/7518145509672993315/ | 2026-09-04 | SINGLE_SOURCE | Three-wheeler split, 8704.6000 |
 *Scope note: current basis is the 2026 tariff and its GACC implementing announcement; older 2018/2020 tables are no longer used as the primary basis. Destination duty and the exact ten-digit subheading are out of scope and must be checked per country/per tariff year.*
+
+| 进口汽车及零部件最惠国税率调整表(含8703各子目官方名称) | 中国政府网(国务院) | CN | https://www.gov.cn/zhengce/zhengceku/2018-12/31/5439526/files/62498c5520b84fc68a5960799fe12353.pdf | 2026-09-04 | VERIFIED | 870340等子目官方归类名称/混合动力/排量座位分目 |
+| 海南零关税交通工具清单(8702客车电动/混动分目官方名称) | 国家税务总局(北京市税务局)PDF | CN | http://beijing.chinatax.gov.cn/bjswj/sszc/zxwj/202012/cf5c916d2def4bd69f2a229bf60a35a3/files/d159fcb1991d48b8a2be4d2c90a7a717.pdf | 2026-09-04 | VERIFIED | 870230/870240大中型/小型客车电动混动分目 |
 
 ## Editorial Review
 - **Author**: AutoBridge Export Editorial Team · [Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)

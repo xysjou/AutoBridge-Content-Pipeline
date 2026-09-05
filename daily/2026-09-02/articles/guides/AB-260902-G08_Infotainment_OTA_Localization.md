@@ -54,6 +54,29 @@ Localisation vendors have an incentive to say every problem is fixable (for a fe
 **Will OTA still arrive overseas?** Only if the endpoint is region-reachable — test on the actual car; do not infer it from another model.
 **Is reflashing safe?** Unauthorised flashing can void warranty and raise compliance issues; prefer the factory export build or a brand-supported route.
 **Does English UI make it Arabic-ready?** No — Arabic needs RTL layout and proper localisation beyond translation.
+## Image Record
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-05
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Chinese-car infotainment and OTA localization, vehicle-export procurement guide
+  - **FR**: Référence AutoBridge pour acheteurs export — Chinese-car infotainment and OTA localization, guide d’achat à l’export automobile
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Chinese-car infotainment and OTA localization, Leitfaden für Fahrzeugexport-Einkauf
+  - **ES**: Referencia AutoBridge para compradores de exportación — Chinese-car infotainment and OTA localization, guía de compras para exportación de vehículos
+  - **PT**: Referência AutoBridge para compradores de exportação — Chinese-car infotainment and OTA localization, guia de compras para exportação de veículos
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Chinese-car infotainment and OTA localization, 自動車輸出 調達ガイド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Chinese-car infotainment and OTA localization, 자동차 수출 조달 가이드
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Chinese-car infotainment and OTA localization, hướng dẫn thu mua xuất khẩu xe
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Chinese-car infotainment and OTA localization, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Chinese-car infotainment and OTA localization, panduan pengadaan ekspor kendaraan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Chinese-car infotainment and OTA localization, دليل مشتريات تصدير المركبات
+  - **ZH**: AutoBridge 出口采购参考｜Chinese-car infotainment and OTA localization, 汽车出口采购指南
+
 ## Sources & Verification
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
@@ -62,6 +85,9 @@ Localisation vendors have an incentive to say every problem is fixable (for a fe
 | Denza Z European Google/Gemini vs domestic cockpit | Xueqiu (citing release) | CN→EU | https://xueqiu.com/9837237227/399831947 | 2026-09-02 | SINGLE_SOURCE | **Example** of export vs domestic stack (not universal) |
 | Per-VIN software verification checklist | StarVia Auto (export service) | CN→Global | https://www.starviaauto.com/en/blog/making-chinese-ev-software-work-locally | 2026-09-02 | SINGLE_SOURCE | Five-check acceptance method |
 | Multilingual/RTL export standard | CCID 赛迪 / Neusoft OneCoreGo coverage (industry media) | Global | http://www.ccidnet.com/hlw/93237.jhtml | 2026-09-02 | SINGLE_SOURCE | RTL/Arabic layout consideration |
+| Chinese Car OS English Version B2B Export Guide | Electric Auto China | CN | https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-chinese-car-os-english-version/ | 2026-09-02 | SINGLE_SOURCE | 英文 HMI、刷机成本（行业口径，待官方核验） |
+| 中国汽车出海，智能化为何"水土不服" | 汽车之家·车家号 | CN | https://chejiahao.m.autohome.com.cn/info/26145241?isfrom=pc | 2026-09-02 | SINGLE_SOURCE | 海外用户 UI 翻译/手机互联问题 |
+
 *Confidence note: all cited material is industry/service/media and is used as illustration of patterns or single brand cases — never as proof that all Chinese vehicles share the behaviour. Per-brand export language lists, OTA server-region policy and the "mandatory English HMI" inspection claim were not confirmed by a primary regulator and must be settled on the brand's overseas channel for the specific VIN.*
 ## Editorial Review
 - **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
@@ -69,3 +95,4 @@ Localisation vendors have an incentive to say every problem is fixable (for a fe
 - **Reference market**: Global (China export / parallel import)
 - **Verification method**: Industry cases labelled as examples; every decisive check routed to a per-VIN live test and the brand's overseas channel
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS (over-generalisation removed; evidence types labelled) · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off
+#AutoBridge #InfotainmentLocalization #OTAUpdate #PerVINTest #VehicleExport

@@ -55,6 +55,29 @@ Disclose material facts truthfully: **version/configuration, software version, a
 **How should late payment be handled?** A per-day liquidated-damages rate plus a maximum overdue period that allows termination.
 **Do overseas documents need legalisation?** Often an Apostille (Hague) or consular legalisation is required; state responsibility in the contract and verify the destination's status.
 
+## Image Record
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-05
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Vehicle export sales contract clauses, vehicle-export procurement guide
+  - **FR**: Référence AutoBridge pour acheteurs export — Vehicle export sales contract clauses, guide d’achat à l’export automobile
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Vehicle export sales contract clauses, Leitfaden für Fahrzeugexport-Einkauf
+  - **ES**: Referencia AutoBridge para compradores de exportación — Vehicle export sales contract clauses, guía de compras para exportación de vehículos
+  - **PT**: Referência AutoBridge para compradores de exportação — Vehicle export sales contract clauses, guia de compras para exportação de veículos
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Vehicle export sales contract clauses, 自動車輸出 調達ガイド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Vehicle export sales contract clauses, 자동차 수출 조달 가이드
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Vehicle export sales contract clauses, hướng dẫn thu mua xuất khẩu xe
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Vehicle export sales contract clauses, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Vehicle export sales contract clauses, panduan pengadaan ekspor kendaraan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Vehicle export sales contract clauses, دليل مشتريات تصدير المركبات
+  - **ZH**: AutoBridge 出口采购参考｜Vehicle export sales contract clauses, 汽车出口采购指南
+
 ## Sources & Verification
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
@@ -64,9 +87,13 @@ Disclose material facts truthfully: **version/configuration, software version, a
 | Export contract Incoterms/disputes/Apostille | Freight-forwarder material | Global | https://m.11467.com/product/d43019461.htm | 2026-09-03 | SINGLE_SOURCE | Incoterms versioning, ICC arbitration, Apostille |
 *Scope note: Art 596 content is CROSS_CHECKED via a secondary legal portal only — VERIFIED requires the official PRC Civil Code (NPC/government) text, which was not captured; do not label it VERIFIED. Enforceability of title reservation, arbitration and Apostille depends on the chosen governing law and destination, and must be confirmed by qualified counsel. Contract models are structural references only.*
 
+| 《中华人民共和国民法典》第三编 合同（第五百九十五/五百九十六/五百九十七条逐字） | 最高人民检察院 (Supreme People's Procuratorate) — offic | CN | https://www.spp.gov.cn/spp/ssmfdyflvdtpgz/202008/t20200831_478413.shtml | 2026-09-04 | VERIFIED |  |
+| 中华人民共和国民法典 全文（政府门户转载） | 云南省司法厅 (sft.yn.gov.cn) / 开封市人大 (kfsrd.henanrd.go | CN | https://sft.yn.gov.cn/pf/yunnan/PZhengCeFaGui/2020061631_2.shtml | 2026-09-04 | VERIFIED |  |
+
 ## Editorial Review
 - **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
 - **Last reviewed**: 2026-09-03
 - **Reference market / scope**: Global contract structure (PRC statute identified; enforceability jurisdiction-specific)
 - **Verification method**: Statute + legal-practice synthesis; counsel-review caveat stated; no jurisdiction-specific legal conclusion overreached
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off
+#AutoBridge #SalesContract #PaymentTerms #ExportProcurement #DisputeClause

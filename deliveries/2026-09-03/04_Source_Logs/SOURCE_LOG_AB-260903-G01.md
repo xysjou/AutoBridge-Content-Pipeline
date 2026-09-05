@@ -1,48 +1,36 @@
-# SOURCE LOG — AB-260903-G01
+# SOURCE LOG (RE-RESEARCHED 2026-09-04) — AB-260903-G01
+**Topic**: China-side vehicle export licence & customs; 2026 BEV passenger-car export-licensing rule. Media removed as the basis for core regulatory facts (REUSE_STRONGEST_VERIFIED_SOURCE).
 
-**Topic/Model**: 中国侧汽车出口报关与出口许可证全流程
+## SOURCE 01 (PRIMARY — core new rule)
+- Source Name: 商务部 工业和信息化部 海关总署 市场监管总局公告 2025 年第 54 号（对纯电动乘用车实施出口许可证管理，2026-01-01 施行；参考 HS 8703801090）
+- Organization: Ministry of Commerce (MOFCOM) official announcement channel
+- URL: https://www.mofcom.gov.cn/zcfb/blgg/gg/2025/art/2025/art_b483d5aaebbb46e1999748d569d1ca99.html
+- Tier: T1 PRIMARY
+- Scope: China (export side)
+- Checked: 2026-09-04 / VERIFIED
+- Official mirrors (same document): http://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_c918a52e6f9d4ed8b9cd0eb767685e8b.html ; http://xkzj.mofcom.gov.cn/tzgg/art/2025/art_70bb9beb43b9474aa3dfbfab722c2ccb.html
 
+## SOURCE 02 (PRIMARY — 2026 annual filing notice)
+- Source Name: 商务部办公厅关于 2026 年度汽车和摩托车出口许可申报的通知（2025-09-28；引用54号公告，系统填报“乘用车”）
+- Organization: MOFCOM Department of Foreign Trade (wms)
+- URL: https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html
+- Tier: T1 PRIMARY
+- Checked: 2026-09-04 / VERIFIED
 
-
-## SOURCE 01
-- Source Name: 商务部办公厅-2026年度汽车和摩托车出口许可申报通知
-- Organization: 中华人民共和国商务部
-- URL: https://www.mofcom.gov.cn/zcfb/zc/art/2025/art_1b1313c9c6da4a56874364b39e39c57d.html
-- Source Type: 政府主管部门
-- Market: 中国
-- Facts Supported: 年度申报/改装车材料（官方）
-- Checked Date: 2026-09-03
-- Authority Level: T1
-
-## SOURCE 02
-- Source Name: 四部门-进一步加强二手车出口管理工作的通知
-- Organization: 中国政府网
+## SOURCE 03 (PRIMARY — used-car rule)
+- Source Name: 四部门关于进一步加强二手车出口管理工作的通知（二手车出口许可证；≤180天售后维修服务确认书，2026-01-01）
+- Organization: gov.cn policy repository (four ministries)
 - URL: https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm
-- Source Type: 政府（国务院部门文件）
-- Market: 中国
-- Facts Supported: 许可证/180天/售后配套（官方）
-- Checked Date: 2026-09-03
-- Authority Level: T1
+- Tier: T1 PRIMARY
+- Checked: 2026-09-04 / VERIFIED
 
-## SOURCE 03
-- Source Name: 四部门-对纯电动乘用车实施出口许可证管理
-- Organization: 每日经济新闻/今日头条
-- URL: http://m.toutiao.com/group/7554336546682323496/
-- Source Type: 媒体转政策
-- Market: 中国
-- Facts Supported: BEV许可证/HS编码
-- Checked Date: 2026-09-03
-- Authority Level: T2
-
-## SOURCE 04
-- Source Name: 工信部令第50号-道路机动车辆生产企业及产品准入管理办法
-- Organization: 工业和信息化部/中国政府网
+## SOURCE 04 (PRIMARY — manufacturer/product admission)
+- Source Name: 工业和信息化部令第50号《道路机动车辆生产企业及产品准入管理办法》（六类准入）
+- Organization: MIIT
 - URL: https://www.miit.gov.cn/zcfg/jdcjxl/art/2018/art_72a4ad7ff2304a8c83199eac43f276fe.html
-- Source Type: 政府主管部门
-- Market: 中国
-- Facts Supported: 六类准入（官方）
-- Checked Date: 2026-09-03
-- Authority Level: T1
+- Tier: T1 PRIMARY
+- Checked: 2026-09-04 / VERIFIED (admission categories); document-chain operational detail CROSS_CHECKED
 
-
-**权威性评估**: 含 T1 官方/官方媒体来源，关键事实优先采信官方；T3 货代/服务商来源仅作流程参考，涉法规税费须官方终核。
+## REMOVED (no longer a basis for core regulatory facts)
+- Toutiao group/7554336546682323496 (was wrongly used for the 54号公告) → replaced by MOFCOM primary.
+- National Business Daily / other media → background only, never the authority for a legal/licensing fact.

@@ -57,6 +57,29 @@ Pin contractually: unit price vs specification level, spare-parts/common-wear ki
 **New vs used export condition?** New units need OEM authorisation and category licensing; used units must meet the Nov-2025 four-ministry rules (registration-certificate consistency) plus third-party inspection.
 **Price or local parts support?** For a working fleet, local service/spare-parts coverage often sets total cost of ownership — verify the OEM network before choosing on price.
 **Are bulk discounts/MOQs published?** No — they are per-project commercial terms; negotiate against a tightly specified technical annex.
+## Image Record
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-05
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Commercial-truck fleet procurement from China, vehicle-export procurement guide
+  - **FR**: Référence AutoBridge pour acheteurs export — Commercial-truck fleet procurement from China, guide d’achat à l’export automobile
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Commercial-truck fleet procurement from China, Leitfaden für Fahrzeugexport-Einkauf
+  - **ES**: Referencia AutoBridge para compradores de exportación — Commercial-truck fleet procurement from China, guía de compras para exportación de vehículos
+  - **PT**: Referência AutoBridge para compradores de exportação — Commercial-truck fleet procurement from China, guia de compras para exportação de veículos
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Commercial-truck fleet procurement from China, 自動車輸出 調達ガイド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Commercial-truck fleet procurement from China, 자동차 수출 조달 가이드
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Commercial-truck fleet procurement from China, hướng dẫn thu mua xuất khẩu xe
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Commercial-truck fleet procurement from China, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Commercial-truck fleet procurement from China, panduan pengadaan ekspor kendaraan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Commercial-truck fleet procurement from China, دليل مشتريات تصدير المركبات
+  - **ZH**: AutoBridge 出口采购参考｜Commercial-truck fleet procurement from China, 汽车出口采购指南
+
 ## Sources & Verification
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
@@ -73,3 +96,4 @@ Pin contractually: unit price vs specification level, spare-parts/common-wear ki
 - **Reference market**: Global (commercial vehicles sourced from China)
 - **Verification method**: Government primary sources for the 2026 licence regime; a real tender for acceptance criteria; commercial figures left to negotiation
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS (2026 official MOFCOM sources added) · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off
+#AutoBridge #FleetProcurement #CommercialTruck #ExportLicence #DutyCycle

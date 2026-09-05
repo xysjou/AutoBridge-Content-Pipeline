@@ -57,6 +57,29 @@ Public checklists repeat "read SOH and reject below 80%." This guide instead rec
 **How should SOH be evidenced?** An independent report showing SOH and cell-voltage imbalance, cross-checked by a metered 20–80% charge test, kept with tool/version/date.
 **Why is flood damage especially dangerous in an EV?** It can degrade the pack and corrode hidden harnesses/connectors, causing safety and reliability failures after export.
 **How is odometer fraud spotted on an EV?** Compare displayed mileage with battery cycle count and physical wear; low odometer with high cycles is a warning.
+## Image Record
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-05
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Used Chinese EV pre-export inspection, vehicle-export procurement guide
+  - **FR**: Référence AutoBridge pour acheteurs export — Used Chinese EV pre-export inspection, guide d’achat à l’export automobile
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Used Chinese EV pre-export inspection, Leitfaden für Fahrzeugexport-Einkauf
+  - **ES**: Referencia AutoBridge para compradores de exportación — Used Chinese EV pre-export inspection, guía de compras para exportación de vehículos
+  - **PT**: Referência AutoBridge para compradores de exportação — Used Chinese EV pre-export inspection, guia de compras para exportação de veículos
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Used Chinese EV pre-export inspection, 自動車輸出 調達ガイド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Used Chinese EV pre-export inspection, 자동차 수출 조달 가이드
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Used Chinese EV pre-export inspection, hướng dẫn thu mua xuất khẩu xe
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Used Chinese EV pre-export inspection, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Used Chinese EV pre-export inspection, panduan pengadaan ekspor kendaraan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Used Chinese EV pre-export inspection, دليل مشتريات تصدير المركبات
+  - **ZH**: AutoBridge 出口采购参考｜Used Chinese EV pre-export inspection, 汽车出口采购指南
+
 ## Sources & Verification
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
@@ -65,6 +88,10 @@ Public checklists repeat "read SOH and reject below 80%." This guide instead rec
 | GB/T 46991.1-2025 on-board SOH/SOC display accuracy & durability (MIIT/SAC) | Chinese recommended national standard (**standards body**) | CN | reported via standards coverage; primary on SAC/MIIT channels | 2026-09-03 | CROSS_CHECKED | On-board health-display accuracy is separately standardised (not a legal import line) |
 | SOH formulations and the QC/T 743 80% end-of-life convention | LNC Batteries technical explainer (industry) | Global | https://lnclibattery.com/blog/evaluation-of-the-health-status-soh-of-lithium-ion-batteries/ | 2026-09-03 | SINGLE_SOURCE | Capacity-based SOH formula; 80% as industry end-of-life reference |
 | Core points for buying used NEVs / charge-test & screening methods | Yiche, Dongchedi (auto media; method references) | CN | https://hao.m.yiche.com/wenzhang/107776270/ | 2026-09-03 | SINGLE_SOURCE | Inspection method, charge test, accident/flood/odometer practice |
+| 懂车帝 二手车电池检测内容 | 懂车帝（字节跳动） | CN | https://www.iesdouyin.com/share/video/7618925618490849457 | 2026-09-02 | SINGLE_SOURCE | 20%-80% 充电验证衰减方法 |
+| 懂车帝 二手电车三招排除事故/泡水/调表 | 懂车帝（视频） | CN | https://www.iesdouyin.com/share/video/7678314679869430004 | 2026-09-02 | SINGLE_SOURCE | 事故/泡水/调表排查方法、电池包护板拆装痕迹 |
+| Jingsuncar — 2026 二手新能源出口指南 | Jingsuncar（行业站） | CN | https://www.jingsuncar.com/news/2026-must-see-guide-for-buying-used-new-energy-85493284.html | 2026-09-02 | SINGLE_SOURCE | 出口 SOH≥80% 认证门槛（EU/东盟） |
+
 *Confidence note: what the battery standards define (SOH measurement, cycle testing, the 80% engineering convention) is VERIFIED/CROSS_CHECKED against standards bodies. The earlier "SOH ≥80% required to clear EU/ASEAN certification" claim had no official source and has been removed: no universal legal SOH import threshold exists, and the destination authority's rule must be obtained per country. Inspection-method videos are used only as method references.*
 ## Editorial Review
 - **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
@@ -72,3 +99,4 @@ Public checklists repeat "read SOH and reject below 80%." This guide instead rec
 - **Reference market**: Global (China used-EV export side)
 - **Verification method**: Standards-body basis for SOH concepts; media used only for inspection method; engineering line kept distinct from any destination legal rule
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS (unsupported legal threshold removed; standards added) · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off
+#AutoBridge #UsedEVInspection #BatterySOH #ExportProcurement #PrePurchaseCheck

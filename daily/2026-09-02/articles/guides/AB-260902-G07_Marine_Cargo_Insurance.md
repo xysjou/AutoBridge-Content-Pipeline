@@ -51,6 +51,29 @@ Brokers sell a tier; they rarely tie it to the purchase contract. The recommende
 **Doesn't the shipping line pay for damage?** Only to the Hague-Visby cap (666.67 SDR/unit or 2 SDR/kg, higher applies) — far below vehicle value.
 **CIF or CIP — which default is stronger?** Under Incoterms 2020 CIP requires at least ICC (A); CIF defaults to ICC (C), so on CIF demand (A) in writing.
 **Is an EV battery fire covered by All Risks?** It depends on the wording — declare the EV and obtain written confirmation.
+## Image Record
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-05
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Marine cargo insurance for shipped vehicles, vehicle-export procurement guide
+  - **FR**: Référence AutoBridge pour acheteurs export — Marine cargo insurance for shipped vehicles, guide d’achat à l’export automobile
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Marine cargo insurance for shipped vehicles, Leitfaden für Fahrzeugexport-Einkauf
+  - **ES**: Referencia AutoBridge para compradores de exportación — Marine cargo insurance for shipped vehicles, guía de compras para exportación de vehículos
+  - **PT**: Referência AutoBridge para compradores de exportação — Marine cargo insurance for shipped vehicles, guia de compras para exportação de veículos
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Marine cargo insurance for shipped vehicles, 自動車輸出 調達ガイド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Marine cargo insurance for shipped vehicles, 자동차 수출 조달 가이드
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Marine cargo insurance for shipped vehicles, hướng dẫn thu mua xuất khẩu xe
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Marine cargo insurance for shipped vehicles, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Marine cargo insurance for shipped vehicles, panduan pengadaan ekspor kendaraan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Marine cargo insurance for shipped vehicles, دليل مشتريات تصدير المركبات
+  - **ZH**: AutoBridge 出口采购参考｜Marine cargo insurance for shipped vehicles, 汽车出口采购指南
+
 ## Sources & Verification
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
@@ -59,6 +82,13 @@ Brokers sell a tier; they rarely tie it to the purchase contract. The recommende
 | Incoterms 2020 — CPT or CIP (seller insurance duty) | ICC Academy (**ICC official**) | Global | https://academy.iccwbo.org/incoterms/article/incoterms-2020-cpt-or-cip/ | 2026-09-03 | **VERIFIED** | CIP seller contracts/pays insurance to named place |
 | Institute Cargo Clauses numbering/effective date & RoRo vehicle cover | Voyage Cover (specialist brokerage, cites LMA/IUA, Hague-Visby) | Global | https://voyagecover.com/guides/institute-cargo-clauses | 2026-09-03 | CROSS_CHECKED | CL382/383/384 numbering, 1 Jan 2009, SDR cap context |
 | 110% insured-value convention / rate variability | Portlogics & PLANETCARS (industry) | Global | https://www.portlogics.com/insights/marine-cargo-insurance | 2026-09-03 | CROSS_CHECKED | Operational 110% convention and per-shipment rate; Incoterms vs UCP bases distinguished in body |
+| Korean Used Car Marine Insurance Claim（ICC A/B/C 对比） | SH GLOBAL | GLOBAL | https://shglobalauto.com/blog/korean-used-car-marine-insurance-claim | 2026-09-02 | SINGLE_SOURCE | ICC(A/B/C) 覆盖范围 |
+| Korean Used Car Export Insurance Guide | SH GLOBAL | GLOBAL | https://shglobalauto.com/blog/korean-used-car-export-insurance-guide | 2026-09-02 | SINGLE_SOURCE | 车辆推荐 ICC(A) |
+| Buying Marine Cargo Insurance: Sum Insured, Rates and Claims | 老金出海 laojinchuhai | GLOBAL | https://www.laojinchuhai.com/en/insights/guide-marine-insurance | 2026-09-02 | SINGLE_SOURCE | CIP 2020 升至 ICC(A)、CIF 最低 ICC(C) |
+| Insuring Vehicles on RoRo Vessels | Voyage Cover（保险经纪/承保专业站，引 IUA/LMA、Hague-Visby） | GLOBAL | https://voyagecover.com/guides/roro-vehicle-cargo-insurance-underwriter-decline | 2026-09-02 | SINGLE_SOURCE | Hague-Visby 承运人责任上限、固有缺陷除外 |
+| Marine Cargo Insurance | Ascope Shipping | GLOBAL | https://www.ascopeshipping.co.uk/marine-cargo-insurance/ | 2026-09-02 | SINGLE_SOURCE | 一切险、战争/罢工附加险 |
+| 中古車輸出の海上保険（保额公式） | PLANETCARS | GLOBAL | https://planetcars.jp/index.php/ja/insurance | 2026-09-02 | SINGLE_SOURCE | 保险金额=CIF×110%、保费公式 |
+
 *Confidence note: clause scope/numbering and the Incoterms insurance obligations are VERIFIED on LMA/ICC primary material. The Hague-Visby SDR figure is a treaty provision to confirm for the current amended amount; premium rates are per-shipment and deliberately not stated; EV battery-fire cover is policy-specific.*
 ## Editorial Review
 - **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
@@ -66,3 +96,4 @@ Brokers sell a tier; they rarely tie it to the purchase contract. The recommende
 - **Reference market**: Global ocean cargo from China
 - **Verification method**: Standards/market-body primary wording for clauses and Incoterms duties; industry sources only for operational convention; rates left to live quote
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS (LMA/ICC primary sources added) · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off
+#AutoBridge #MarineInsurance #ICCCargoCover #VehicleShipping #ExportProcurement

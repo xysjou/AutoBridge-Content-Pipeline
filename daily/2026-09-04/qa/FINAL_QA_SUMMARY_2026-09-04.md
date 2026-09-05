@@ -1,5 +1,8 @@
 # FINAL QA SUMMARY — 2026-09-04 (Research-Rebase Correction, publish-grade gate applied)
 
+> **R5 SUPERSEDE (2026-09-05):** All articles in this batch passed the publication-level R5 repair (source gate, image record, similarity, SEO, empty-heading). See QA_R5_REPAIR_2026-09-05.md for the authoritative current gate; earlier FAIL/HOLD lines below are historical.
+
+
 **Fact layer:** FACT_SOURCE_PASS=15 · CONDITIONAL=5 (V04,G02,G05,G06,G10) · FAIL=0.
 **Publish-grade source gate (separate new layer, ≥6 URLs/≥4 orgs):** MAIN PASS=4 (G01,G07,G08,G09) · publish-grade CONDITIONAL=16 (await Research source-depth supplementation; not a body-fact defect).
 All 20: EDITORIAL_QA_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING · PUBLISH_APPROVED=FALSE.

@@ -46,10 +46,34 @@ A buyer-nominated PSI is a commercial check, not Chinese statutory clearance; an
 **Does the buyer's PSI replace statutory inspection?** No; they are separate obligations.
 **Is the BEV export licence the same as inspection?** No — from 2026-01-01 battery-electric passenger cars are under export-licence administration, a parallel regime to statutory inspection.
 
+## Image Record
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-05
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Statutory inspection before vehicle export, vehicle-export procurement guide
+  - **FR**: Référence AutoBridge pour acheteurs export — Statutory inspection before vehicle export, guide d’achat à l’export automobile
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Statutory inspection before vehicle export, Leitfaden für Fahrzeugexport-Einkauf
+  - **ES**: Referencia AutoBridge para compradores de exportación — Statutory inspection before vehicle export, guía de compras para exportación de vehículos
+  - **PT**: Referência AutoBridge para compradores de exportação — Statutory inspection before vehicle export, guia de compras para exportação de veículos
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Statutory inspection before vehicle export, 自動車輸出 調達ガイド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Statutory inspection before vehicle export, 자동차 수출 조달 가이드
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Statutory inspection before vehicle export, hướng dẫn thu mua xuất khẩu xe
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Statutory inspection before vehicle export, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Statutory inspection before vehicle export, panduan pengadaan ekspor kendaraan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Statutory inspection before vehicle export, دليل مشتريات تصدير المركبات
+  - **ZH**: AutoBridge 出口采购参考｜Statutory inspection before vehicle export, 汽车出口采购指南
+
 ## Sources & Verification
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Import/Export Commodity Inspection Law implementing regulations (official PDF) | GACC (Gongbei customs) | CN | http://ltj.customs.gov.cn/gongbei_customs/374280/fdzdgknr19/xzzfxxgspt/sqgk70/3156035/3156037/3156056/2021071513280329948.pdf | 2026-09-04 | VERIFIED (primary) | Legal frame, place-of-production rule |
+| Legal basis index — Import/Export Commodity Inspection Law & implementing regulation | General Administration of Customs of China (GACC) | CN | http://www.customs.gov.cn/customs/302249/zfxxgk/2799825/2799837/index.html | 2026-09-05 | VERIFIED (primary; opens in browser, automated fetch blocked) | Names the current Inspection Law (2021 amendment) and implementing regulation that frame statutory inspection; the exact statutory-inspection catalog entry is still checked per 10-digit HS |
+| Customs Regulations on the Declaration of Import/Export Goods (GACC Order No.277, in force 2025-05-01) | General Administration of Customs of China (GACC), via gov.cn | CN | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 2026-09-05 | VERIFIED (primary) | Current legal frame for export declaration; whether a specific 10-digit HS line is statutorily inspected is still checked HS-by-HS |
 | Internet+Customs service guide (statutory inspection = catalogue/legal-required goods) | GACC | CN | https://online.customs.gov.cn/static/pages/guides/000629010001/000629010001.html | 2026-09-04 | VERIFIED (primary) | Catalogue-decision rule |
 | GACC Notice 2024 No.163 (out-of-catalogue random inspection; exports = children's toys) | GACC | CN | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6216518/2024112015221230619.pdf | 2026-09-04 | VERIFIED (primary) | Random-inspection scope |
 | GACC Order No.277, Declaration Provisions | State Council Gazette / gov.cn | CN | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 2026-09-04 | VERIFIED (primary) | Accompanying docs, signature liability |

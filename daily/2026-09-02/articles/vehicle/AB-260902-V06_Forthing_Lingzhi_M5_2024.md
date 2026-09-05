@@ -74,6 +74,29 @@ AutoBridge quotes on request rather than publishing fixed export prices. Chinese
 **What is the wheelbase difference?** 3000 mm (M5L long) versus 2800 mm (M5 short).
 **Is it sold in right-hand drive?** Forthing sells other products in some RHD markets, but an RHD Lingzhi M5 must be confirmed for the specific destination rather than assumed.
 
+## Image Record
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-05
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Forthing Lingzhi M5, petrol/diesel Chinese-market vehicle / MPV
+  - **FR**: Référence AutoBridge pour acheteurs export — Forthing Lingzhi M5, véhicule thermique (marché chinois) / MPV
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Forthing Lingzhi M5, Verbrenner (chinesischer Markt) / Van (MPV)
+  - **ES**: Referencia AutoBridge para compradores de exportación — Forthing Lingzhi M5, vehículo de combustión (mercado chino) / monovolumen
+  - **PT**: Referência AutoBridge para compradores de exportação — Forthing Lingzhi M5, veículo a combustão (mercado chinês) / minivan
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Forthing Lingzhi M5, 中国市場仕様 内燃機関車 / MPV
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Forthing Lingzhi M5, 중국 시장 내연기관 차량 / MPV
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Forthing Lingzhi M5, xe động cơ đốt trong (thị trường Trung Quốc) / MPV
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Forthing Lingzhi M5, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถ MPV
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Forthing Lingzhi M5, kendaraan mesin pembakaran (pasar Tiongkok) / MPV
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Forthing Lingzhi M5, مركبة بمحرك احتراق (سوق الصين) / سيارة عائلية
+  - **ZH**: AutoBridge 出口采购参考｜Forthing Lingzhi M5, 中国市场燃油车 / MPV
+
 ## Sources & Verification
 
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
@@ -83,6 +106,11 @@ AutoBridge quotes on request rather than publishing fixed export prices. Chinese
 | Lingzhi parameter table | PCauto (太平洋汽车) | CN | https://car.pcauto.com.cn/360/m124835/config.html | 2026-09-02 | CROSS_CHECKED | Dimensions, CNG powertrain, WLTC 8.4, warranty, price |
 | Lingzhi M5 article | Yiche (易车) | CN | https://m.yiche.com/zhai/261903/ | 2026-09-02 | CROSS_CHECKED | Dimensions, wheelbase, 7/9-seat layouts |
 
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
+
 *Confidence note (AutoBridge standard): dimensions/wheelbase/seat layouts are VERIFIED on Forthing's official parameter page; 1.5T/CNG powertrains are CROSS_CHECKED; curb weight is SINGLE_SOURCE. Payload/cargo volume were not in the fact base and are left for the official sheet; export/RHD specs are not asserted.*
 
 ## Editorial Review
@@ -91,3 +119,4 @@ AutoBridge quotes on request rather than publishing fixed export prices. Chinese
 - **Reference market**: China M5/M5L (evergreen model page; export nameplates differ and are confirmed per destination)
 - **Verification method**: Brand-official parameter page plus independent-database cross-check; manual/CNG and single-source items labelled
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off
+#AutoBridge #VehicleExport #Forthing #LingzhiM5 #CommercialMPV

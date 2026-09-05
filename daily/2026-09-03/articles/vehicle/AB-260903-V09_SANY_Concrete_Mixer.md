@@ -46,6 +46,29 @@ No static export price and no China MSRP were captured; none is invented. Enquir
 **Is there an electric mixer?** An 8×4 BEV with a 350 kW peak/215 kW rated motor is reported (single-source); confirm current specs and EV shipping documents.
 **Does a bigger drum always mean more payload?** No — legal payload is set by GVW and destination axle-load rules, not drum volume alone.
 
+## Image Record
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-05
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — SANY SY-series, petrol/diesel Chinese-market vehicle / concrete mixer truck
+  - **FR**: Référence AutoBridge pour acheteurs export — SANY SY-series, véhicule thermique (marché chinois) / camion malaxeur à béton
+  - **DE**: AutoBridge-Referenz für Exportkäufer — SANY SY-series, Verbrenner (chinesischer Markt) / Betonmisch-Lkw
+  - **ES**: Referencia AutoBridge para compradores de exportación — SANY SY-series, vehículo de combustión (mercado chino) / camión hormigonera
+  - **PT**: Referência AutoBridge para compradores de exportação — SANY SY-series, veículo a combustão (mercado chinês) / caminhão betoneira
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜SANY SY-series, 中国市場仕様 内燃機関車 / コンクリートミキサー車
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜SANY SY-series, 중국 시장 내연기관 차량 / 콘크리트 믹서 트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — SANY SY-series, xe động cơ đốt trong (thị trường Trung Quốc) / xe trộn bê tông
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — SANY SY-series, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถโม่ปูน
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — SANY SY-series, kendaraan mesin pembakaran (pasar Tiongkok) / truk molen beton
+  - **AR**: مرجع AutoBridge لمشتري التصدير — SANY SY-series, مركبة بمحرك احتراق (سوق الصين) / شاحنة خلط خرسانة
+  - **ZH**: AutoBridge 出口采购参考｜SANY SY-series, 中国市场燃油车 / 混凝土搅拌车
+
 ## Sources & Verification
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
@@ -53,6 +76,11 @@ No static export price and no China MSRP were captured; none is invented. Enquir
 | SY310C-8S(V) 10 m³ model parameters | SANY Group (OEM official) | CN / global product | https://www.sanyglobal.com/cn/product/concrete_machinery/truck_mixer/122/1610/ | 2026-09-03 | VERIFIED | 10 m³ drum, 400 L water, D09C5-380E3 engine |
 | SANY electric mixer announcement (350 kW) | Truck Home / Toutiao | CN | http://m.toutiao.com/group/6877415697362715147/ | 2026-09-03 | SINGLE_SOURCE | 8×4 BEV, 350 peak/215 rated kW |
 | SANY integrated frame / 20 m³ mixer | Hunan Daily / Toutiao | CN | http://m.toutiao.com/group/6705156123395097102/ | 2026-09-03 | CROSS_CHECKED | Integrated-frame engineering, large-size class context |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VERIFIED | China-VI compression-ignition (heavy diesel) emission stage for trucks/coaches |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
+
 *Confidence note: drum capacities and engine brands are VERIFIED on SANY's own OEM pages (scope = product specification). Integrated-frame detail and the BEV motor are single-source and require confirmation on the current homologated model code. No price is asserted.*
 
 ## Editorial Review
@@ -61,3 +89,4 @@ No static export price and no China MSRP were captured; none is invented. Enquir
 - **Reference market**: China, SANY SY series (OEM product-line reference; configuration-specific)
 - **Verification method**: OEM primary pages + trade cross-check; single-source and scope flagged per SOURCE_SCOPE rule
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off
+#AutoBridge #VehicleExport #SANY #ConcreteMixer #SpecialTruck

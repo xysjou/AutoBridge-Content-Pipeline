@@ -52,6 +52,29 @@ Generic guides quote the same acronyms without resolving the deal. Our editorial
 **What is the EV import duty?** This article does not state a percentage: Russian-language sources conflict (zero vs a high 2026 rate) and no FTS/EEC primary decision was captured. Classify HS 8703.80 and confirm the live rate before pricing.
 **What changed on the China side in 2026?** From 1 January 2026 pure-electric passenger vehicles are under an export-licence regime (joint Announcement No. 54), and exporters must qualify under the 2026 MOFCOM application/list process.
 **Why reconcile the importer name across documents?** As a risk-control matter, aligning the OTTC/SBKTS holder, customs importer of record and invoice consignee avoids clearance/registration disputes; where they cannot be identical, obtain written guidance from the accredited body or customs broker on the acceptable arrangement.
+## Image Record
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-05
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Russia / EAEU EV import approval, vehicle-export procurement guide
+  - **FR**: Référence AutoBridge pour acheteurs export — Russia / EAEU EV import approval, guide d’achat à l’export automobile
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Russia / EAEU EV import approval, Leitfaden für Fahrzeugexport-Einkauf
+  - **ES**: Referencia AutoBridge para compradores de exportación — Russia / EAEU EV import approval, guía de compras para exportación de vehículos
+  - **PT**: Referência AutoBridge para compradores de exportação — Russia / EAEU EV import approval, guia de compras para exportação de veículos
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Russia / EAEU EV import approval, 自動車輸出 調達ガイド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Russia / EAEU EV import approval, 자동차 수출 조달 가이드
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Russia / EAEU EV import approval, hướng dẫn thu mua xuất khẩu xe
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Russia / EAEU EV import approval, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Russia / EAEU EV import approval, panduan pengadaan ekspor kendaraan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Russia / EAEU EV import approval, دليل مشتريات تصدير المركبات
+  - **ZH**: AutoBridge 出口采购参考｜Russia / EAEU EV import approval, 汽车出口采购指南
+
 ## Sources & Verification
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
@@ -68,3 +91,4 @@ Generic guides quote the same acronyms without resolving the deal. Our editorial
 - **Reference market**: Russia / EAEU
 - **Verification method**: Regulator/government primary sources for settled rules; conflicting media figures withheld rather than asserted; every time-sensitive item routed to a named authority for live confirmation
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS (unsupported numeric claims removed) · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off
+#AutoBridge #ExportProcurement #RussiaImport #EAEUTypeApproval #EVCompliance

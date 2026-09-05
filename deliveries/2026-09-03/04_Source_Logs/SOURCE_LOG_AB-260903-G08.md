@@ -1,68 +1,59 @@
-# SOURCE LOG — AB-260903-G08
+# SOURCE LOG (RE-RESEARCHED 2026-09-04) — AB-260903-G08
+**Topic**: Used-car import age/steering/inspection — only countries with primary sources retained (Kenya VERIFIED; Nigeria CONDITIONAL). Accuracy > coverage: other African countries' hard numbers removed.
 
-**Topic/Model**: 非洲各国二手车进口车龄限制与准入对照（含核验方法）
+## KENYA — PRIMARY
 
+### SOURCE 01 (PRIMARY)
+- Source Name: Procedures for motor vehicle import (≤8 years from year of first registration; Legal Notice 78/2005; KS1515; LHD restriction)
+- Organization: Kenya Revenue Authority (KRA)
+- URL: https://www.kra.go.ke/individual/importing/learn-about-importation/procedures-for-motor-vehicle
+- Tier: T1 PRIMARY (tax/customs authority)
+- Scope: Kenya
+- Checked: 2026-09-04 / VERIFIED
 
+### SOURCE 02 (PRIMARY)
+- Source Name: What you need to know when importing a motor vehicle (blog/guidance; age basis & standards)
+- Organization: KRA
+- URL: https://www.kra.go.ke/news-center/blog/1075-what-you-need-to-know-when-importing-a-motor-vehicle
+- Tier: T1
+- Checked: 2026-09-04 / VERIFIED
 
-## SOURCE 01
-- Source Name: 货代-多国车龄/舵向（肯7/埃塞5/尼日15）
-- Organization: 货代资料
-- URL: https://m.11467.com/product/d39248249.htm
-- Source Type: 货代/服务商
-- Market: 非洲
-- Facts Supported: 车龄区间（二手源）
-- Checked Date: 2026-09-03
-- Authority Level: T3
+### SOURCE 03 (PRIMARY)
+- Source Name: DKS 1515:2025 Road vehicles — Inspection of road vehicles — Code of practice (§4.7.1 eight years from first registration; first-registration within 1 year of manufacture; §4.7.2 RHD exceptions for ambulance/fire/heavy engineering)
+- Organization: Kenya Bureau of Standards (KEBS)
+- URL: https://kebs.azurewebsites.net/wp-content/uploads/2025/05/DKS-1515_2025-Road-vehicles-%E2%80%94-Inspection-of-road-vehicles-%E2%80%94-Code-of-practice_.pdf
+- Tier: T1 PRIMARY (standards body)
+- Scope: Kenya
+- Checked: 2026-09-04 / VERIFIED
 
-## SOURCE 02
-- Source Name: 货代-尼日利亚/肯尼亚/埃塞车龄细则
-- Organization: 货代资料
-- URL: https://m.11467.com/product/d38279197.htm
-- Source Type: 货代/服务商
-- Market: 非洲
-- Facts Supported: 左舵/右舵/年限
-- Checked Date: 2026-09-03
-- Authority Level: T3
+### SOURCE 04 (PRIMARY)
+- Source Name: Notice to Importers of Used/Secondhand Motor Vehicles
+- Organization: KEBS
+- URL: https://www.kebs.org/wp-content/uploads/2023/12/NOTICE-TO-IMPORTERS-OF-USED-SECONDHAND-MOTOR-VEHICLES.pdf
+- Tier: T1
+- Checked: 2026-09-04 / VERIFIED
 
-## SOURCE 03
-- Source Name: 货代-加纳/坦桑/莫桑比克门槛
-- Organization: 货代资料
-- URL: https://m.11467.com/product/d53540859.htm
-- Source Type: 货代/服务商
-- Market: 非洲
-- Facts Supported: OBD-II/8年/校准
-- Checked Date: 2026-09-03
-- Authority Level: T3
+## NIGERIA — CONDITIONAL
 
-## SOURCE 04
-- Source Name: 汽车之家-苏丹车龄分级与额外征费
-- Organization: 汽车之家车家号
-- URL: https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/26095860
-- Source Type: 媒体
-- Market: 苏丹
-- Facts Supported: 7/8/10年分级
-- Checked Date: 2026-09-03
-- Authority Level: T2
+### SOURCE 05 (PRIMARY portal, with internal contradiction flagged)
+- Source Name: Automobiles import procedure (HS 8702–8705; "vehicles over 15 years old are banned"; NAC levy). WARNING: same page states "Right-hand drive only permitted", which contradicts Nigeria's LHD rule — page contains an apparent error; steering must NOT be concluded from this page alone.
+- Organization: Nigeria Single Window Trade Portal (tip.nsw.gov.ng, .gov.ng official)
+- URL: https://tip.nsw.gov.ng/procedures/automobiles
+- Tier: T1 official portal (data-quality flag on steering line)
+- Scope: Nigeria
+- Checked: 2026-09-04 / age=15 CROSS_CHECKED with prohibition-list text; steering=CONFLICT (blocked)
 
-## SOURCE 05
-- Source Name: 海外汽车观察家-尼日利亚二手车法规（左舵/15年/DI）
-- Organization: 今日头条
-- URL: http://m.toutiao.com/group/6757504138864493070/
-- Source Type: 行业媒体
-- Market: 尼日利亚
-- Facts Supported: 左舵/15年/到港检验
-- Checked Date: 2026-09-03
-- Authority Level: T2
+### SOURCE 06 (prohibition-list text, supporting reproduction)
+- Source Name: Customs Import Prohibition List — "Used Motor Vehicles above fifteen (15) years from the year of manufacture, HS 8703.10.00–8703.90.0000"
+- Organization: Lex Artifex LLP reproduction of Nigeria Customs Service prohibition list (T3 reproduction of an official list)
+- URL: https://www.lexartifexllp.com/uz/list-of-contraband-goods-in-nigeria/
+- Tier: T3 (supports the 15-year/year-of-manufacture wording; not primary by itself)
+- Checked: 2026-09-04 / CROSS_CHECKED (paired with Source 05)
 
-## SOURCE 06
-- Source Name: 货代-科特迪瓦进口（无车龄硬上限/强制CoC）
-- Organization: 货代资料
-- URL: https://m.11467.com/product/d55528521.htm
-- Source Type: 货代/服务商
-- Market: 科特迪瓦
-- Facts Supported: 无硬车龄/CoC/保养记录
-- Checked Date: 2026-09-03
-- Authority Level: T3
+## CONFLICT / BLOCKED SOURCES (not allowed as fact)
+- Legit.ng (2026-08-18), WheelZAR, 234Drive: claim 12-year limit in 2026 — NO primary text found → BLOCKED.
+- FIDI Customs Guide (2023): 10 years — outdated, BLOCKED.
+- Carsooq (2026-06): 10 years — T4, BLOCKED.
+- 大数跨境/rosm-autos: 15 years (consistent with portal but non-primary; used only as background).
 
-
-**权威性评估**: 本篇无 T1 一手官方源：T2 媒体/行业源用于可交叉事实，T3 货代/认证服务商仅作流程参考；涉法规/税费/认证强制项必须在第二阶段补目的国官方一手源后方可写成确定结论。
+**Retired/demoted**: prior forwarder "Kenya 7 / Ethiopia 5 / Nigeria 15" table removed as a source; Ethiopia and all other African countries without a primary source are dropped from hard-number tables this round (accuracy > coverage).

@@ -56,6 +56,29 @@ MIIT Order No. 50 divides road-motor-vehicle manufacturers and products into **s
 **Why does the manufacturer's admission category matter to a trader?** MIIT Order 50 splits vehicles into six admission categories; the product must sit within the manufacturer's admitted scope to be declared cleanly.
 **Where do HS codes come from?** Confirm the exact code and regulatory condition against the current tariff schedule and latest MOFCOM notice — don't carry over an old code.
 
+## Image Record
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-05
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — China vehicle export licence and customs documents, vehicle-export procurement guide
+  - **FR**: Référence AutoBridge pour acheteurs export — China vehicle export licence and customs documents, guide d’achat à l’export automobile
+  - **DE**: AutoBridge-Referenz für Exportkäufer — China vehicle export licence and customs documents, Leitfaden für Fahrzeugexport-Einkauf
+  - **ES**: Referencia AutoBridge para compradores de exportación — China vehicle export licence and customs documents, guía de compras para exportación de vehículos
+  - **PT**: Referência AutoBridge para compradores de exportação — China vehicle export licence and customs documents, guia de compras para exportação de veículos
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜China vehicle export licence and customs documents, 自動車輸出 調達ガイド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜China vehicle export licence and customs documents, 자동차 수출 조달 가이드
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — China vehicle export licence and customs documents, hướng dẫn thu mua xuất khẩu xe
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — China vehicle export licence and customs documents, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — China vehicle export licence and customs documents, panduan pengadaan ekspor kendaraan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — China vehicle export licence and customs documents, دليل مشتريات تصدير المركبات
+  - **ZH**: AutoBridge 出口采购参考｜China vehicle export licence and customs documents, 汽车出口采购指南
+
 ## Sources & Verification
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
@@ -65,9 +88,13 @@ MIIT Order No. 50 divides road-motor-vehicle manufacturers and products into **s
 | MIIT Order No. 50 — Manufacturer & Product Admission | Ministry of Industry and IT | CN (export side) | https://www.miit.gov.cn/zcfg/jdcjxl/art/2018/art_72a4ad7ff2304a8c83199eac43f276fe.html | 2026-09-03 | VERIFIED | Six admission categories; document-chain basis |
 *Scope note: official sources here cover the China export side only. Exact HS codes, system-operation details and any annual revision must be confirmed against the current tariff and MOFCOM notices; destination-side rules are out of scope.*
 
+| 商务部 工业和信息化部 海关总署 市场监管总局公告 2025 年第 54 号（对纯电动乘用车实施出口许可证管理，2026-01-01 施行；参考 HS 8703801090） | Ministry of Commerce (MOFCOM) official announcem | CN | https://www.mofcom.gov.cn/zcfb/blgg/gg/2025/art/2025/art_b483d5aaebbb46e1999748d569d1ca99.html | 2026-09-04 | VERIFIED |  |
+| 商务部办公厅关于 2026 年度汽车和摩托车出口许可申报的通知（2025-09-28；引用54号公告，系统填报“乘用车”） | MOFCOM Department of Foreign Trade (wms) | CN | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-04 | VERIFIED |  |
+
 ## Editorial Review
 - **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
 - **Last reviewed**: 2026-09-03
 - **Reference market / scope**: China export side
 - **Verification method**: Chinese primary-source review (MOFCOM/State Council/MIIT); time-sensitive items flagged, not fixed
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off
+#AutoBridge #ExportLicence #CustomsDocuments #ChinaExport #ExportProcurement

@@ -52,6 +52,29 @@ Generic guides mix courier de-minimis rules, proposals and enacted tax into one 
 **What document unlocks the preference?** A valid FTA Certificate of Origin consistent with invoice and VIN; without it the 6% general duty applies.
 **What is 3CV and what does it cost?** Chile's vehicle homologation process; it gates registration and its fee/timeline must be quoted by the certifier — this article does not assert a fixed number.
 **Is the ANAC EV-duty cut in force?** No — it is a 2026 association proposal, not enacted law; re-check at shipment.
+## Image Record
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-05
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Chile vehicle import, FTA and 3CV, vehicle-export procurement guide
+  - **FR**: Référence AutoBridge pour acheteurs export — Chile vehicle import, FTA and 3CV, guide d’achat à l’export automobile
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Chile vehicle import, FTA and 3CV, Leitfaden für Fahrzeugexport-Einkauf
+  - **ES**: Referencia AutoBridge para compradores de exportación — Chile vehicle import, FTA and 3CV, guía de compras para exportación de vehículos
+  - **PT**: Referência AutoBridge para compradores de exportação — Chile vehicle import, FTA and 3CV, guia de compras para exportação de veículos
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Chile vehicle import, FTA and 3CV, 自動車輸出 調達ガイド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Chile vehicle import, FTA and 3CV, 자동차 수출 조달 가이드
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Chile vehicle import, FTA and 3CV, hướng dẫn thu mua xuất khẩu xe
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Chile vehicle import, FTA and 3CV, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Chile vehicle import, FTA and 3CV, panduan pengadaan ekspor kendaraan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Chile vehicle import, FTA and 3CV, دليل مشتريات تصدير المركبات
+  - **ZH**: AutoBridge 出口采购参考｜Chile vehicle import, FTA and 3CV, 汽车出口采购指南
+
 ## Sources & Verification
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
@@ -59,6 +82,10 @@ Generic guides mix courier de-minimis rules, proposals and enacted tax into one 
 | "Importación de vehículos" (vehicle duty 6% + IVA 19%) | Servicio Nacional de Aduanas (**government official**) | CL | https://www.aduana.gob.cl/importacion-de-vehiculos/aduana/2017-11-22/101502.html | 2026-09-03 | **VERIFIED** | Vehicle-specific duty/IVA statement; service-fee distinction |
 | China–Chile FTA preference (0% for qualifying origin), certificate basis | MOFCOM Chinese Mission in Chile (**official trade body**) | CL/CN | http://cl.mofcom.gov.cn/zcfg/hg/art/2025/art_4febd3af37374813a6c4b15695959d49.html | 2026-09-02 | **VERIFIED** | FTA 0% preference channel; origin-certificate condition |
 | ANAC six measures to make EVs cheaper (proposal, not law) | AUTOGUÍA (Chilean auto media) | CL | https://www.autoguia.cl/electromovilidad/2026/05/10/las-6-medidas-que-anac-le-pide-al-gobierno-para-que-los-autos-electricos-sean-mas-baratos-en-chile.html | 2026-09-02 | SINGLE_SOURCE | Proposal status only — explicitly not enacted |
+| Los Contadores — 智利 2026 关税 | Los Contadores（智利本地财税） | CL | https://loscontadores.cl/arancel-aduanero-en-chile/ | 2026-09-02 | SINGLE_SOURCE | 2026 普通关税 6%、自贸国 0%、IVA 19% |
+| Jinyu Autos — 中国车进口智利指南 | Jinyu Autos（行业站） | CL | https://jinyuautos.com/blog/import-chinese-cars-to-chile/ | 2026-09-02 | SINGLE_SOURCE | 中智 FTA 0% 关税通道 |
+| huajiame — 全球汽车进口关税指南 | huajiame（行业站） | CL | https://www.huajiame.com/pl/knowledge/global-auto-import-tariff-guide | 2026-09-02 | SINGLE_SOURCE | 智利关税 6%（FTA 0%）、VAT 19%、奢侈品税 15%（>~$35k） |
+
 *Confidence note: the 6% general duty and 19% IVA are VERIFIED on Chilean Customs; the FTA 0% preference is official but conditional on origin. The previously included 1%/US$30 courier rule (not applicable to vehicles), an unconfirmed luxury-surtax threshold and a fixed 3CV fee have been removed from the factual body; HS-level rules of origin and any surtax must be confirmed with Chilean Customs/SII/SUBREI.*
 ## Editorial Review
 - **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
@@ -66,3 +93,4 @@ Generic guides mix courier de-minimis rules, proposals and enacted tax into one 
 - **Reference market**: Chile
 - **Verification method**: Government customs primary source for duty/IVA; official trade body for the FTA preference; proposals and unconfirmed fees kept out of the factual stack
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS (Chilean official source added; unsupported numbers removed) · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off
+#AutoBridge #ChileImport #FTA #3CVHomologation #EVExport

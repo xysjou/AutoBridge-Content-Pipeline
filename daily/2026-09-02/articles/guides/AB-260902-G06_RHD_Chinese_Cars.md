@@ -62,6 +62,29 @@ Sellers assert RHD availability without distinguishing a factory line from a con
 **Does an RHD car built for Thailand work in the UK/Australia?** Not automatically — each RHD market has its own homologation and localisation requirements.
 **Why verify by VIN?** Marketing material may say "RHD available" while the allocated stock is LHD; the VIN build sheet is the reliable proof.
 
+## Image Record
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-05
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Right-hand-drive Chinese-car sourcing, vehicle-export procurement guide
+  - **FR**: Référence AutoBridge pour acheteurs export — Right-hand-drive Chinese-car sourcing, guide d’achat à l’export automobile
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Right-hand-drive Chinese-car sourcing, Leitfaden für Fahrzeugexport-Einkauf
+  - **ES**: Referencia AutoBridge para compradores de exportación — Right-hand-drive Chinese-car sourcing, guía de compras para exportación de vehículos
+  - **PT**: Referência AutoBridge para compradores de exportação — Right-hand-drive Chinese-car sourcing, guia de compras para exportação de veículos
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Right-hand-drive Chinese-car sourcing, 自動車輸出 調達ガイド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Right-hand-drive Chinese-car sourcing, 자동차 수출 조달 가이드
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Right-hand-drive Chinese-car sourcing, hướng dẫn thu mua xuất khẩu xe
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Right-hand-drive Chinese-car sourcing, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Right-hand-drive Chinese-car sourcing, panduan pengadaan ekspor kendaraan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Right-hand-drive Chinese-car sourcing, دليل مشتريات تصدير المركبات
+  - **ZH**: AutoBridge 出口采购参考｜Right-hand-drive Chinese-car sourcing, 汽车出口采购指南
+
 ## Sources & Verification
 
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
@@ -81,3 +104,4 @@ Sellers assert RHD availability without distinguishing a factory line from a con
 - **Reference market**: Global RHD markets (sourcing from China)
 - **Verification method**: One official launch plus industry snapshots; availability deliberately left to per-VIN official confirmation
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off
+#AutoBridge #RHDCars #RightHandDrive #VehicleSourcing #ExportProcurement

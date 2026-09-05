@@ -48,6 +48,29 @@ A headline freight rate wins bookings and loses money at destination. Vehicle ex
 **Are BAF/EBS fixed?** No, they are fuel-linked floating surcharges alongside CAF/PSS/PCS/WRS.
 **Does this page give current rates?** No; rates move with the market and are taken from the formal quotation at booking.
 
+## Image Record
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-05
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Ocean freight quotation charge structure, vehicle-export procurement guide
+  - **FR**: Référence AutoBridge pour acheteurs export — Ocean freight quotation charge structure, guide d’achat à l’export automobile
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Ocean freight quotation charge structure, Leitfaden für Fahrzeugexport-Einkauf
+  - **ES**: Referencia AutoBridge para compradores de exportación — Ocean freight quotation charge structure, guía de compras para exportación de vehículos
+  - **PT**: Referência AutoBridge para compradores de exportação — Ocean freight quotation charge structure, guia de compras para exportação de veículos
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Ocean freight quotation charge structure, 自動車輸出 調達ガイド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Ocean freight quotation charge structure, 자동차 수출 조달 가이드
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Ocean freight quotation charge structure, hướng dẫn thu mua xuất khẩu xe
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Ocean freight quotation charge structure, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Ocean freight quotation charge structure, panduan pengadaan ekspor kendaraan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Ocean freight quotation charge structure, دليل مشتريات تصدير المركبات
+  - **ZH**: AutoBridge 出口采购参考｜Ocean freight quotation charge structure, 汽车出口采购指南
+
 ## Sources & Verification
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
@@ -56,6 +79,11 @@ A headline freight rate wins bookings and loses money at destination. Vehicle ex
 | Ocean export charge components by lane | Baike | INTL | https://m.baike.com/wiki/%E6%B5%B7%E8%BF%90%E5%87%BA%E5%8F%A3/7570444 | 2026-09-04 | CROSS_CHECKED | Surcharge taxonomy, AMS/ACI/ENS route logic |
 | Common FOB charges (THC/booking/trucking) | 11467 | CN | https://m.11467.com/product/d24491409.htm | 2026-09-04 | SINGLE_SOURCE | Charge naming |
 *Status note: FACT_SOURCE_CONDITIONAL — charge structure cross-checked from industry sources (no official tariff primary source); AMS/ACI/ENS framed as route-specific editorial guidance; all amounts deliberately excluded as time-sensitive.*
+
+| Incoterms 2020 rules (who arranges/pays transport at each term) | International Chamber of Commerce (ICC) | INT'L | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/ | 2026-09-05 | VERIFIED | Which freight/charges fall to buyer vs seller by Incoterm |
+| Freight-forwarder practice and charge categories | FIATA | INT'L | https://fiata.org/ | 2026-09-05 | VERIFIED | Forwarder quotation/charge-structure reference |
+| Liner shipping and surcharge context | World Shipping Council | INT'L | https://www.worldshipping.org/ | 2026-09-05 | VERIFIED | Industry context for ocean freight and ancillary charges |
+| China International Freight Forwarders Association | CIFA | CN/INT'L | http://www.cifa.org.cn/ | 2026-09-05 | VERIFIED | China-side forwarding industry and quotation practice |
 
 ## Editorial Review
 - **Author**: AutoBridge Export Editorial Team · [Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)

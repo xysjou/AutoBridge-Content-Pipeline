@@ -761,7 +761,9 @@
       "suggested_url": "/vehicles/byd-yuan-plus/",
       "creation_date": "2026-09-02",
       "revised_on": "2026-09-03",
-      "r3_on": "2026-09-03"
+      "r3_on": "2026-09-03",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260902-V02",
@@ -774,7 +776,9 @@
       "suggested_url": "/vehicles/changan-uni-v/",
       "creation_date": "2026-09-02",
       "revised_on": "2026-09-03",
-      "r3_on": "2026-09-03"
+      "r3_on": "2026-09-03",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260902-V03",
@@ -787,7 +791,9 @@
       "suggested_url": "/vehicles/byd-qin-plus-dmi/",
       "creation_date": "2026-09-02",
       "revised_on": "2026-09-03",
-      "r3_on": "2026-09-03"
+      "r3_on": "2026-09-03",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260902-V04",
@@ -800,7 +806,9 @@
       "suggested_url": "/vehicles/gac-trumpchi-m8/",
       "creation_date": "2026-09-02",
       "revised_on": "2026-09-03",
-      "r3_on": "2026-09-03"
+      "r3_on": "2026-09-03",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260902-V05",
@@ -813,7 +821,9 @@
       "suggested_url": "/vehicles/great-wall-poer/",
       "creation_date": "2026-09-02",
       "revised_on": "2026-09-03",
-      "r3_on": "2026-09-03"
+      "r3_on": "2026-09-03",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260902-V06",
@@ -826,7 +836,9 @@
       "suggested_url": "/vehicles/forthing-lingzhi-m5/",
       "creation_date": "2026-09-02",
       "revised_on": "2026-09-03",
-      "r3_on": "2026-09-03"
+      "r3_on": "2026-09-03",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260902-V07",
@@ -839,7 +851,9 @@
       "suggested_url": "/vehicles/jac-kangling-light-truck/",
       "creation_date": "2026-09-02",
       "revised_on": "2026-09-03",
-      "r3_on": "2026-09-03"
+      "r3_on": "2026-09-03",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260902-V08",
@@ -852,7 +866,9 @@
       "suggested_url": "/vehicles/sinotruk-howo-t7h-tractor/",
       "creation_date": "2026-09-02",
       "revised_on": "2026-09-03",
-      "r3_on": "2026-09-03"
+      "r3_on": "2026-09-03",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260902-V09",
@@ -865,7 +881,9 @@
       "suggested_url": "/vehicles/shacman-x3000-dump-truck/",
       "creation_date": "2026-09-02",
       "revised_on": "2026-09-03",
-      "r3_on": "2026-09-03"
+      "r3_on": "2026-09-03",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260902-V10",
@@ -878,7 +896,9 @@
       "suggested_url": "/vehicles/foton-aumark-refrigerated-truck/",
       "creation_date": "2026-09-02",
       "revised_on": "2026-09-03",
-      "r3_on": "2026-09-03"
+      "r3_on": "2026-09-03",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260902-G01",
@@ -891,7 +911,9 @@
       "suggested_url": "/guides/import-chinese-ev-to-russia-eac-ottc/",
       "creation_date": "2026-09-02",
       "revised_on": "2026-09-03",
-      "r3_on": "2026-09-03"
+      "r3_on": "2026-09-03",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260902-G02",
@@ -904,7 +926,9 @@
       "suggested_url": "/guides/import-chinese-truck-saudi-saso/",
       "creation_date": "2026-09-02",
       "revised_on": "2026-09-03",
-      "r3_on": "2026-09-03"
+      "r3_on": "2026-09-03",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260902-G03",
@@ -917,7 +941,9 @@
       "suggested_url": "/guides/verify-china-car-export-supplier/",
       "creation_date": "2026-09-02",
       "revised_on": "2026-09-03",
-      "r3_on": "2026-09-03"
+      "r3_on": "2026-09-03",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260902-G04",
@@ -930,7 +956,9 @@
       "suggested_url": "/guides/used-chinese-ev-inspection/",
       "creation_date": "2026-09-02",
       "revised_on": "2026-09-03",
-      "r3_on": "2026-09-03"
+      "r3_on": "2026-09-03",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260902-G05",
@@ -943,7 +971,9 @@
       "suggested_url": "/guides/chinese-ev-charging-standard-compatibility/",
       "creation_date": "2026-09-02",
       "revised_on": "2026-09-03",
-      "r3_on": "2026-09-03"
+      "r3_on": "2026-09-03",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260902-G06",
@@ -956,7 +986,9 @@
       "suggested_url": "/guides/right-hand-drive-chinese-cars/",
       "creation_date": "2026-09-02",
       "revised_on": "2026-09-03",
-      "r3_on": "2026-09-03"
+      "r3_on": "2026-09-03",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260902-G07",
@@ -969,7 +1001,9 @@
       "suggested_url": "/guides/marine-cargo-insurance-car-import/",
       "creation_date": "2026-09-02",
       "revised_on": "2026-09-03",
-      "r3_on": "2026-09-03"
+      "r3_on": "2026-09-03",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260902-G08",
@@ -982,7 +1016,9 @@
       "suggested_url": "/guides/chinese-car-infotainment-ota-localization/",
       "creation_date": "2026-09-02",
       "revised_on": "2026-09-03",
-      "r3_on": "2026-09-03"
+      "r3_on": "2026-09-03",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260902-G09",
@@ -995,7 +1031,9 @@
       "suggested_url": "/guides/import-chinese-ev-chile-fta/",
       "creation_date": "2026-09-02",
       "revised_on": "2026-09-03",
-      "r3_on": "2026-09-03"
+      "r3_on": "2026-09-03",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260902-G10",
@@ -1008,7 +1046,9 @@
       "suggested_url": "/guides/commercial-truck-fleet-procurement-china/",
       "creation_date": "2026-09-02",
       "revised_on": "2026-09-03",
-      "r3_on": "2026-09-03"
+      "r3_on": "2026-09-03",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260903-V01",
@@ -1019,7 +1059,9 @@
       "topic_cluster": "vehicle_model_v01",
       "title": "Geely Emgrand 2024 (4th Gen) Specs & Export Buyer Guide",
       "suggested_url": "/vehicles/geely-emgrand/",
-      "creation_date": "2026-09-03"
+      "creation_date": "2026-09-03",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260903-V02",
@@ -1030,7 +1072,9 @@
       "topic_cluster": "vehicle_model_v02",
       "title": "BYD Dolphin 2025 China Specs: Battery, Range & Export Checks",
       "suggested_url": "/vehicles/byd-dolphin/",
-      "creation_date": "2026-09-03"
+      "creation_date": "2026-09-03",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260903-V03",
@@ -1041,7 +1085,9 @@
       "topic_cluster": "vehicle_model_v03",
       "title": "Changan CS75 PLUS 2024 (3rd Gen) Specs & Export Buyer Notes",
       "suggested_url": "/vehicles/changan-cs75-plus/",
-      "creation_date": "2026-09-03"
+      "creation_date": "2026-09-03",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260903-V04",
@@ -1052,7 +1098,9 @@
       "topic_cluster": "vehicle_model_v04",
       "title": "Li Auto L6 2024 EREV Specs: Battery, Range Modes & Export Notes",
       "suggested_url": "/vehicles/li-auto-l6/",
-      "creation_date": "2026-09-03"
+      "creation_date": "2026-09-03",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260903-V05",
@@ -1063,7 +1111,9 @@
       "topic_cluster": "vehicle_model_v05",
       "title": "Wuling Hongguang MINIEV Macaron 2024 Specs & Export Notes",
       "suggested_url": "/vehicles/wuling-hongguang-miniev/",
-      "creation_date": "2026-09-03"
+      "creation_date": "2026-09-03",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260903-V06",
@@ -1074,7 +1124,9 @@
       "topic_cluster": "vehicle_model_v06",
       "title": "SAIC Maxus V90 Diesel Van Specs & Export Configuration Guide",
       "suggested_url": "/vehicles/saic-maxus-v90-specs/",
-      "creation_date": "2026-09-03"
+      "creation_date": "2026-09-03",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260903-V07",
@@ -1085,7 +1137,9 @@
       "topic_cluster": "vehicle_model_v07",
       "title": "Yutong ZK6122 Coach Specs: Platform, Seating & Export Checks",
       "suggested_url": "/vehicles/yutong-zk6122-coach-specs/",
-      "creation_date": "2026-09-03"
+      "creation_date": "2026-09-03",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260903-V08",
@@ -1096,7 +1150,9 @@
       "topic_cluster": "vehicle_model_v08",
       "title": "FAW Jiefang J6P Tractor Specs: Engine, GCW & Export Notes",
       "suggested_url": "/vehicles/faw-jiefang-j6p-tractor-specs/",
-      "creation_date": "2026-09-03"
+      "creation_date": "2026-09-03",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260903-V09",
@@ -1107,7 +1163,9 @@
       "topic_cluster": "vehicle_model_v09",
       "title": "SANY Concrete Mixer Truck Specs: Drum Capacity, Chassis & Export",
       "suggested_url": "/vehicles/sany-concrete-mixer-truck-specs/",
-      "creation_date": "2026-09-03"
+      "creation_date": "2026-09-03",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260903-V10",
@@ -1118,7 +1176,9 @@
       "topic_cluster": "vehicle_model_v10",
       "title": "Farizon V6E Electric Cargo Van Specs & Export Buyer Notes",
       "suggested_url": "/vehicles/farizon-xingxiang-v6e-specs/",
-      "creation_date": "2026-09-03"
+      "creation_date": "2026-09-03",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260903-G01",
@@ -1129,29 +1189,35 @@
       "topic_cluster": "china_export_license_customs",
       "title": "China Vehicle Export Licence & Customs Documents Guide (2026)",
       "suggested_url": "/guides/china-vehicle-export-license-customs-documents/",
-      "creation_date": "2026-09-03"
+      "creation_date": "2026-09-03",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260903-G02",
       "batch": "daily_2026-09-03",
       "version": "v2",
-      "status": "FACT_SOURCE_FAIL_AWAITING_RESEARCH",
+      "status": "CODEX_REVIEW_PENDING",
       "content_type": "PROCUREMENT_GUIDE",
       "topic_cluster": "uae_import_registration",
       "title": "UAE Vehicle Import & RTA Registration Documents Guide",
       "suggested_url": "/guides/uae-vehicle-import-registration-documents/",
-      "creation_date": "2026-09-03"
+      "creation_date": "2026-09-03",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260903-G03",
       "batch": "daily_2026-09-03",
       "version": "v2",
-      "status": "FACT_SOURCE_FAIL_AWAITING_RESEARCH",
+      "status": "CODEX_REVIEW_PENDING",
       "content_type": "PROCUREMENT_GUIDE",
       "topic_cluster": "coc_type_approval_dossier",
       "title": "Vehicle CoC vs Type Approval (WVTA, OTTS, E-mark) Buyer Guide",
       "suggested_url": "/guides/vehicle-coc-type-approval-dossier/",
-      "creation_date": "2026-09-03"
+      "creation_date": "2026-09-03",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260903-G04",
@@ -1162,18 +1228,22 @@
       "topic_cluster": "container_loading_lashing",
       "title": "How Many Cars Fit in a 40HQ? Container Loading & Lashing Guide",
       "suggested_url": "/guides/container-vehicle-loading-lashing/",
-      "creation_date": "2026-09-03"
+      "creation_date": "2026-09-03",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260903-G05",
       "batch": "daily_2026-09-03",
       "version": "v2",
-      "status": "FACT_SOURCE_FAIL_AWAITING_RESEARCH",
+      "status": "CODEX_REVIEW_PENDING",
       "content_type": "PROCUREMENT_GUIDE",
       "topic_cluster": "ev_shipping_un3171_imdg",
       "title": "EV Shipping Compliance: UN3171, IMDG Class 9, UN38.3 & MSDS Guide",
       "suggested_url": "/guides/ev-shipping-un3171-imdg-compliance/",
-      "creation_date": "2026-09-03"
+      "creation_date": "2026-09-03",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260903-G06",
@@ -1184,7 +1254,9 @@
       "topic_cluster": "pre_shipment_inspection",
       "title": "Vehicle Pre-Shipment Inspection (PSI): CCIC/SGS/BV Buyer Guide",
       "suggested_url": "/guides/vehicle-pre-shipment-inspection-psi/",
-      "creation_date": "2026-09-03"
+      "creation_date": "2026-09-03",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260903-G07",
@@ -1195,18 +1267,22 @@
       "topic_cluster": "middle_east_heat_dust",
       "title": "Middle East/GCC Heat & Dust Vehicle Adaptation Buyer Guide",
       "suggested_url": "/guides/middle-east-heat-dust-vehicle-adaptation/",
-      "creation_date": "2026-09-03"
+      "creation_date": "2026-09-03",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260903-G08",
       "batch": "daily_2026-09-03",
       "version": "v2",
-      "status": "FACT_SOURCE_FAIL_AWAITING_RESEARCH",
+      "status": "CODEX_REVIEW_PENDING",
       "content_type": "PROCUREMENT_GUIDE",
       "topic_cluster": "africa_used_car_age_limits",
       "title": "Africa Used-Car Import Age Limits by Country: Verification Guide",
       "suggested_url": "/guides/africa-used-car-import-age-limits/",
-      "creation_date": "2026-09-03"
+      "creation_date": "2026-09-03",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260903-G09",
@@ -1217,7 +1293,9 @@
       "topic_cluster": "overseas_aftersales_network",
       "title": "Overseas After-Sales, Parts & Warranty Network Setup Guide",
       "suggested_url": "/guides/overseas-aftersales-parts-warranty-network/",
-      "creation_date": "2026-09-03"
+      "creation_date": "2026-09-03",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260903-G10",
@@ -1228,13 +1306,15 @@
       "topic_cluster": "export_sales_contract",
       "title": "Vehicle Export Sales Contract Clauses & Risk Guide",
       "suggested_url": "/guides/vehicle-export-sales-contract-clauses/",
-      "creation_date": "2026-09-03"
+      "creation_date": "2026-09-03",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260904-G01",
       "batch": "daily_20260904",
       "version": "v2",
-      "status": "MASTER_CODEX_REVIEW_PENDING",
+      "status": "CODEX_REVIEW_PENDING",
       "content_type": "PROCUREMENT_GUIDE",
       "fact_qa": "FACT_SOURCE_PASS",
       "slug": "/guides/vehicle-export-hs-code-classification",
@@ -1243,13 +1323,15 @@
       "source_url_count": 6,
       "source_org_count": 6,
       "publish_grade_source_gate": "PASS",
-      "publish_grade_status": "RESEARCH_PASS"
+      "publish_grade_status": "RESEARCH_PASS",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260904-G02",
       "batch": "daily_20260904",
       "version": "v2",
-      "status": "MASTER_CODEX_REVIEW_PENDING",
+      "status": "CODEX_REVIEW_PENDING",
       "content_type": "PROCUREMENT_GUIDE",
       "fact_qa": "FACT_SOURCE_CONDITIONAL",
       "slug": "/guides/china-export-statutory-inspection-declaration",
@@ -1258,13 +1340,15 @@
       "source_url_count": 7,
       "source_org_count": 5,
       "publish_grade_source_gate": "PASS",
-      "publish_grade_status": "RESEARCH_CONDITIONAL"
+      "publish_grade_status": "RESEARCH_CONDITIONAL",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260904-G03",
       "batch": "daily_20260904",
       "version": "v1",
-      "status": "MASTER_CODEX_REVIEW_PENDING",
+      "status": "CODEX_REVIEW_PENDING",
       "content_type": "PROCUREMENT_GUIDE",
       "fact_qa": "FACT_SOURCE_PASS",
       "slug": "/guides/china-export-certificate-of-origin",
@@ -1273,13 +1357,15 @@
       "source_url_count": 3,
       "source_org_count": 3,
       "publish_grade_source_gate": "FAIL",
-      "publish_grade_status": "RESEARCH_CONDITIONAL"
+      "publish_grade_status": "RESEARCH_CONDITIONAL",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260904-G04",
       "batch": "daily_20260904",
       "version": "v2",
-      "status": "MASTER_CODEX_REVIEW_PENDING",
+      "status": "CODEX_REVIEW_PENDING",
       "content_type": "PROCUREMENT_GUIDE",
       "fact_qa": "FACT_SOURCE_PASS",
       "slug": "/guides/vehicle-export-bill-of-lading-types",
@@ -1288,13 +1374,15 @@
       "source_url_count": 5,
       "source_org_count": 5,
       "publish_grade_source_gate": "FAIL",
-      "publish_grade_status": "RESEARCH_CONDITIONAL"
+      "publish_grade_status": "RESEARCH_CONDITIONAL",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260904-G05",
       "batch": "daily_20260904",
       "version": "v2",
-      "status": "MASTER_CODEX_REVIEW_PENDING",
+      "status": "CODEX_REVIEW_PENDING",
       "content_type": "PROCUREMENT_GUIDE",
       "fact_qa": "FACT_SOURCE_CONDITIONAL",
       "slug": "/guides/vehicle-export-pdi-pre-shipment-handover",
@@ -1303,13 +1391,15 @@
       "source_url_count": 7,
       "source_org_count": 3,
       "publish_grade_source_gate": "FAIL",
-      "publish_grade_status": "RESEARCH_CONDITIONAL"
+      "publish_grade_status": "RESEARCH_CONDITIONAL",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260904-G06",
       "batch": "daily_20260904",
       "version": "v2",
-      "status": "MASTER_CODEX_REVIEW_PENDING",
+      "status": "CODEX_REVIEW_PENDING",
       "content_type": "PROCUREMENT_GUIDE",
       "fact_qa": "FACT_SOURCE_CONDITIONAL",
       "slug": "/guides/emission-fuel-compatibility-china-vehicles",
@@ -1318,13 +1408,15 @@
       "source_url_count": 10,
       "source_org_count": 7,
       "publish_grade_source_gate": "PASS",
-      "publish_grade_status": "RESEARCH_CONDITIONAL"
+      "publish_grade_status": "RESEARCH_CONDITIONAL",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260904-G07",
       "batch": "daily_20260904",
       "version": "v2",
-      "status": "MASTER_CODEX_REVIEW_PENDING",
+      "status": "CODEX_REVIEW_PENDING",
       "content_type": "PROCUREMENT_GUIDE",
       "fact_qa": "FACT_SOURCE_PASS",
       "slug": "/guides/vin-nameplate-verification-chinese-vehicles",
@@ -1333,13 +1425,15 @@
       "source_url_count": 6,
       "source_org_count": 6,
       "publish_grade_source_gate": "PASS",
-      "publish_grade_status": "RESEARCH_PASS"
+      "publish_grade_status": "RESEARCH_PASS",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260904-G08",
       "batch": "daily_20260904",
       "version": "v2",
-      "status": "MASTER_CODEX_REVIEW_PENDING",
+      "status": "CODEX_REVIEW_PENDING",
       "content_type": "PROCUREMENT_GUIDE",
       "fact_qa": "FACT_SOURCE_PASS",
       "slug": "/guides/ev-shipping-un3556-imdg-compliance",
@@ -1348,13 +1442,15 @@
       "source_url_count": 8,
       "source_org_count": 8,
       "publish_grade_source_gate": "PASS",
-      "publish_grade_status": "RESEARCH_PASS"
+      "publish_grade_status": "RESEARCH_PASS",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260904-G09",
       "batch": "daily_20260904",
       "version": "v2",
-      "status": "MASTER_CODEX_REVIEW_PENDING",
+      "status": "CODEX_REVIEW_PENDING",
       "content_type": "PROCUREMENT_GUIDE",
       "fact_qa": "FACT_SOURCE_PASS",
       "slug": "/guides/export-vehicle-document-package",
@@ -1363,13 +1459,15 @@
       "source_url_count": 9,
       "source_org_count": 8,
       "publish_grade_source_gate": "PASS",
-      "publish_grade_status": "RESEARCH_PASS"
+      "publish_grade_status": "RESEARCH_PASS",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260904-G10",
       "batch": "daily_20260904",
       "version": "v2",
-      "status": "MASTER_CODEX_REVIEW_PENDING",
+      "status": "CODEX_REVIEW_PENDING",
       "content_type": "PROCUREMENT_GUIDE",
       "fact_qa": "FACT_SOURCE_CONDITIONAL",
       "slug": "/guides/ocean-freight-charge-structure-vehicle-export",
@@ -1378,13 +1476,15 @@
       "source_url_count": 4,
       "source_org_count": 4,
       "publish_grade_source_gate": "FAIL",
-      "publish_grade_status": "RESEARCH_CONDITIONAL"
+      "publish_grade_status": "RESEARCH_CONDITIONAL",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260904-V01",
       "batch": "daily_20260904",
       "version": "v1",
-      "status": "MASTER_CODEX_REVIEW_PENDING",
+      "status": "CODEX_REVIEW_PENDING",
       "content_type": "VEHICLE_PAGE",
       "fact_qa": "FACT_SOURCE_PASS",
       "slug": "/vehicles/chery-arrizo-8/",
@@ -1393,13 +1493,15 @@
       "source_url_count": 3,
       "source_org_count": 3,
       "publish_grade_source_gate": "FAIL",
-      "publish_grade_status": "RESEARCH_CONDITIONAL"
+      "publish_grade_status": "RESEARCH_CONDITIONAL",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260904-V02",
       "batch": "daily_20260904",
       "version": "v1",
-      "status": "MASTER_CODEX_REVIEW_PENDING",
+      "status": "CODEX_REVIEW_PENDING",
       "content_type": "VEHICLE_PAGE",
       "fact_qa": "FACT_SOURCE_PASS",
       "slug": "/vehicles/byd-qin-l-dm-i/",
@@ -1408,13 +1510,15 @@
       "source_url_count": 4,
       "source_org_count": 3,
       "publish_grade_source_gate": "FAIL",
-      "publish_grade_status": "RESEARCH_CONDITIONAL"
+      "publish_grade_status": "RESEARCH_CONDITIONAL",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260904-V03",
       "batch": "daily_20260904",
       "version": "v1",
-      "status": "MASTER_CODEX_REVIEW_PENDING",
+      "status": "CODEX_REVIEW_PENDING",
       "content_type": "VEHICLE_PAGE",
       "fact_qa": "FACT_SOURCE_PASS",
       "slug": "/vehicles/wuling-bingo/",
@@ -1423,13 +1527,15 @@
       "source_url_count": 5,
       "source_org_count": 5,
       "publish_grade_source_gate": "FAIL",
-      "publish_grade_status": "RESEARCH_CONDITIONAL"
+      "publish_grade_status": "RESEARCH_CONDITIONAL",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260904-V04",
       "batch": "daily_20260904",
       "version": "v2",
-      "status": "MASTER_CODEX_REVIEW_PENDING",
+      "status": "CODEX_REVIEW_PENDING",
       "content_type": "VEHICLE_PAGE",
       "fact_qa": "FACT_SOURCE_CONDITIONAL",
       "slug": "/vehicles/haval-jolion/",
@@ -1438,13 +1544,15 @@
       "source_url_count": 5,
       "source_org_count": 5,
       "publish_grade_source_gate": "FAIL",
-      "publish_grade_status": "RESEARCH_CONDITIONAL"
+      "publish_grade_status": "RESEARCH_CONDITIONAL",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260904-V05",
       "batch": "daily_20260904",
       "version": "v1",
-      "status": "MASTER_CODEX_REVIEW_PENDING",
+      "status": "CODEX_REVIEW_PENDING",
       "content_type": "VEHICLE_PAGE",
       "fact_qa": "FACT_SOURCE_PASS",
       "slug": "/vehicles/chery-fulwin-t9/",
@@ -1453,13 +1561,15 @@
       "source_url_count": 5,
       "source_org_count": 5,
       "publish_grade_source_gate": "FAIL",
-      "publish_grade_status": "RESEARCH_CONDITIONAL"
+      "publish_grade_status": "RESEARCH_CONDITIONAL",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260904-V06",
       "batch": "daily_20260904",
       "version": "v1",
-      "status": "MASTER_CODEX_REVIEW_PENDING",
+      "status": "CODEX_REVIEW_PENDING",
       "content_type": "VEHICLE_PAGE",
       "fact_qa": "FACT_SOURCE_PASS",
       "slug": "/vehicles/gac-trumpchi-e8/",
@@ -1468,13 +1578,15 @@
       "source_url_count": 5,
       "source_org_count": 5,
       "publish_grade_source_gate": "FAIL",
-      "publish_grade_status": "RESEARCH_CONDITIONAL"
+      "publish_grade_status": "RESEARCH_CONDITIONAL",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260904-V07",
       "batch": "daily_20260904",
       "version": "v2",
-      "status": "MASTER_CODEX_REVIEW_PENDING",
+      "status": "CODEX_REVIEW_PENDING",
       "content_type": "VEHICLE_PAGE",
       "fact_qa": "FACT_SOURCE_PASS",
       "slug": "/vehicles/jac-t9-hunter/",
@@ -1483,13 +1595,15 @@
       "source_url_count": 5,
       "source_org_count": 5,
       "publish_grade_source_gate": "FAIL",
-      "publish_grade_status": "RESEARCH_CONDITIONAL"
+      "publish_grade_status": "RESEARCH_CONDITIONAL",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260904-V08",
       "batch": "daily_20260904",
       "version": "v1",
-      "status": "MASTER_CODEX_REVIEW_PENDING",
+      "status": "CODEX_REVIEW_PENDING",
       "content_type": "VEHICLE_PAGE",
       "fact_qa": "FACT_SOURCE_PASS",
       "slug": "/vehicles/jmc-shunda/",
@@ -1498,13 +1612,15 @@
       "source_url_count": 4,
       "source_org_count": 2,
       "publish_grade_source_gate": "FAIL",
-      "publish_grade_status": "RESEARCH_CONDITIONAL"
+      "publish_grade_status": "RESEARCH_CONDITIONAL",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260904-V09",
       "batch": "daily_20260904",
       "version": "v1",
-      "status": "MASTER_CODEX_REVIEW_PENDING",
+      "status": "CODEX_REVIEW_PENDING",
       "content_type": "VEHICLE_PAGE",
       "fact_qa": "FACT_SOURCE_PASS",
       "slug": "/vehicles/dongfeng-tianlong-kl/",
@@ -1513,13 +1629,15 @@
       "source_url_count": 4,
       "source_org_count": 4,
       "publish_grade_source_gate": "FAIL",
-      "publish_grade_status": "RESEARCH_CONDITIONAL"
+      "publish_grade_status": "RESEARCH_CONDITIONAL",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     },
     {
       "article_id": "AB-260904-V10",
       "batch": "daily_20260904",
       "version": "v1",
-      "status": "MASTER_CODEX_REVIEW_PENDING",
+      "status": "CODEX_REVIEW_PENDING",
       "content_type": "VEHICLE_PAGE",
       "fact_qa": "FACT_SOURCE_PASS",
       "slug": "/vehicles/dongfeng-tianjin-kr/",
@@ -1528,11 +1646,15 @@
       "source_url_count": 4,
       "source_org_count": 2,
       "publish_grade_source_gate": "FAIL",
-      "publish_grade_status": "RESEARCH_CONDITIONAL"
+      "publish_grade_status": "RESEARCH_CONDITIONAL",
+      "r5_repaired_on": "2026-09-05",
+      "publish_approved": false
     }
   ],
   "r4_revised_on": "2026-09-03",
   "stage2_added_on": "2026-09-04",
   "rebase_revised_on": "2026-09-04",
-  "publish_grade_gate_applied_on": "2026-09-04"
+  "publish_grade_gate_applied_on": "2026-09-04",
+  "r5_repaired_on": "2026-09-05",
+  "r5_note": "publication-level targeted repair 2026-09-02..04; 60 EN Master; source gate 60/60; image rights FAIL(no licensed asset); CODEX_REVIEW_PENDING; PUBLISH_APPROVED=false"
 }

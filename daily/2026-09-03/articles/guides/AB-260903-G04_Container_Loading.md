@@ -50,6 +50,7 @@ An EV/hybrid inside a container still carries a traction battery: follow the oce
 - **Per-car strap count and wheel-point method** agreed with the loading warehouse.
 - **Photo evidence** of stow and lashing before seal, linked to VINs.
 - **EV dangerous-goods paperwork** and carrier SOC rules where relevant.
+- **Port, route, carrier and terminal acceptance in writing:** name the actual **load port and terminal** (the documented trials above are China-port references such as Yantai, not a universal standard), the **ocean carrier and its container operator**, and whether that terminal accepts **double-deck car racks and in-rack lashing** on the booked sailing. Acceptance conditions and any effective-date change differ by terminal and carrier, so record the **date each condition was confirmed** against the CTU Code securing principles rather than assuming one warehouse's method is accepted everywhere.
 
 ## Frequently Asked Questions
 **Can a 40HQ always take four SUVs?** No — four needs a certified pull-out double rack and an approved plan; conventional no-rack loading of mid/large SUVs is typically two.
@@ -57,6 +58,29 @@ An EV/hybrid inside a container still carries a traction battery: follow the oce
 **How do sedans differ?** Sedans and China-Europe rail loads commonly achieve three per box; dimensions still decide.
 **Why load the rack top-first?** The upper vehicles must be positioned before the lower ones block rack access; forklift assistance repositions them safely.
 **What is checked before sealing the doors?** Goods/list match, order, centre of gravity and clearance, full securing, and door margin — with photos.
+
+## Image Record
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-05
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Loading cars into a 40HQ container, vehicle-export procurement guide
+  - **FR**: Référence AutoBridge pour acheteurs export — Loading cars into a 40HQ container, guide d’achat à l’export automobile
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Loading cars into a 40HQ container, Leitfaden für Fahrzeugexport-Einkauf
+  - **ES**: Referencia AutoBridge para compradores de exportación — Loading cars into a 40HQ container, guía de compras para exportación de vehículos
+  - **PT**: Referência AutoBridge para compradores de exportação — Loading cars into a 40HQ container, guia de compras para exportação de veículos
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Loading cars into a 40HQ container, 自動車輸出 調達ガイド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Loading cars into a 40HQ container, 자동차 수출 조달 가이드
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Loading cars into a 40HQ container, hướng dẫn thu mua xuất khẩu xe
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Loading cars into a 40HQ container, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Loading cars into a 40HQ container, panduan pengadaan ekspor kendaraan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Loading cars into a 40HQ container, دليل مشتريات تصدير المركبات
+  - **ZH**: AutoBridge 出口采购参考｜Loading cars into a 40HQ container, 汽车出口采购指南
 
 ## Sources & Verification
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
@@ -67,9 +91,13 @@ An EV/hybrid inside a container still carries a traction battery: follow the oce
 | Export container five-step loading method | NetEase | Global | https://www.163.com/dy/article/L42056IP05568MR2.html | 2026-09-03 | SINGLE_SOURCE | Five-point stowage check (one source) |
 *Scope note (R4): each loading figure comes from a single, distinct source (all SINGLE_SOURCE) — no fact is corroborated by two independent sources, so none is labelled CROSS_CHECKED. Counts are documented-practice references, not guaranteed stowage; the exact number always depends on measured dimensions and an approved load plan, and carrier/terminal rules must be confirmed at booking.*
 
+| IMO/ILO/UNECE Code of Practice for Packing Cargo Transport Units (CTU Code) | International Maritime Organization (IMO) | INT'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | VERIFIED | Cargo distribution, lashing and securing principles for CTUs including containers |
+| Containers / equipment reference | World Shipping Council | INT'L | https://www.worldshipping.org/ | 2026-09-05 | VERIFIED | Standard freight-container and liner-equipment context for load planning |
+
 ## Editorial Review
 - **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
 - **Last reviewed**: 2026-09-03 (R4 single-source re-grade)
 - **Reference market / scope**: Global logistics operation (method, not a fixed-count promise)
 - **Verification method**: R4 single-source re-grade (each fact one source); operational guidance, no universal count asserted
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off
+#AutoBridge #ContainerLoading #40HQ #VehicleLashing #CTUCode

@@ -44,6 +44,29 @@ No static export price is published; the RMB 79,800–125,800 China Glory Editio
 **Why two electric-range numbers?** China labels NEDC and WLTC (120 NEDC = 101 WLTC); always quote the cycle.
 **Is 1245 km electric range?** No — it is a combined fuel+battery Chinese figure; electric-only is at most 120 km NEDC.
 **Is it sold abroad?** BYD presents a Qin Plus DM-i on selected overseas market pages; use the destination official sheet. Any different export nameplate requires explicit BYD confirmation — a related-looking BYD PHEV is not assumed to be the same model.
+## Image Record
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-05
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — BYD Qin Plus DM-i, plug-in hybrid vehicle / sedan
+  - **FR**: Référence AutoBridge pour acheteurs export — BYD Qin Plus DM-i, véhicule hybride rechargeable / berline
+  - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Qin Plus DM-i, Plug-in-Hybridfahrzeug / Limousine
+  - **ES**: Referencia AutoBridge para compradores de exportación — BYD Qin Plus DM-i, vehículo híbrido enchufable / berlina
+  - **PT**: Referência AutoBridge para compradores de exportação — BYD Qin Plus DM-i, veículo híbrido plug-in / sedã
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜BYD Qin Plus DM-i, プラグインハイブリッド車 / セダン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜BYD Qin Plus DM-i, 플러그인 하이브리드 차량 / 세단
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — BYD Qin Plus DM-i, xe hybrid sạc ngoài / sedan
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — BYD Qin Plus DM-i, รถปลั๊กอินไฮบริด / รถเก๋งซีดาน
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — BYD Qin Plus DM-i, kendaraan hybrid plug-in / sedan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Qin Plus DM-i, مركبة هجينة قابلة للشحن / سيدان
+  - **ZH**: AutoBridge 出口采购参考｜BYD Qin Plus DM-i, 插电混动车 / 轿车
+
 ## Sources & Verification
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
@@ -51,6 +74,10 @@ No static export price is published; the RMB 79,800–125,800 China Glory Editio
 | Glory Edition 55/120 config | Autohome (汽车之家) | CN | http://dealer.autohome.com.cn/2116572/spec_66744.html | 2026-09-02 | CROSS_CHECKED | Dimensions, 1.5L 81 kW, 132 kW motor, E-CVT, range |
 | Glory Edition launch / detail | Autohome Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/18481020 | 2026-09-02 | CROSS_CHECKED | 145 kW/325 N·m, 18.32 kWh, combined-range quote |
 | Qin Plus config | Xcar (爱卡) / PCauto / Guazi | CN | https://newcar.xcar.com.cn/m72508/config.htm | 2026-09-02 | CROSS_CHECKED | Curb weight, wheelbase, NEDC/WLTC, battery |
+| 汽车之家（车家号）秦PLUS DM-i 荣耀版上市 | 汽车之家 | CN | https://chejiahao.m.autohome.com.cn/info/14654247 | 2026-09-02 | SINGLE_SOURCE | 发动机 81kW/135N·m、电机 132kW/145kW、指导价 7.98-12.58 万 |
+| 瓜子二手车 参数页 | 瓜子二手车 | CN | https://m.guazi.com/qichecanshu/c163518812263347.html | 2026-09-02 | SINGLE_SOURCE | 55KM 版电池 8.32kWh、电机 132kW/316N·m、电耗 11.4 |
+| 太平洋汽车 参数页 | 太平洋汽车网 | CN | https://price.pcauto.com.cn/m126873/config.html | 2026-09-02 | SINGLE_SOURCE | 轴距 2718mm、油耗、0-100 加速 |
+
 *Confidence note (AutoBridge standard): the large-battery output/pack is VERIFIED on BYD's own regional Qin Plus DM-i page (en-bh/Bahrain); detailed China version figures are CROSS_CHECKED. The ~1245 km combined figure is SINGLE_SOURCE and a Chinese-cycle combined number. Overseas figures are used only from BYD pages that explicitly name "Qin Plus DM-i"; no SAME_MODEL relationship to any differently named BYD PHEV is inferred without explicit OEM proof (RELATED_MODEL ≠ SAME_MODEL).*
 ## Editorial Review
 - **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
@@ -58,3 +85,4 @@ No static export price is published; the RMB 79,800–125,800 China Glory Editio
 - **Reference market**: China 2024 Glory Edition PHEV (export platform names vary)
 - **Verification method**: OEM export page + multi-database cross-check; electric vs combined range and test cycles kept distinct
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS (OEM source added) · SEO_PASS=PASS (evergreen URL) · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off
+#AutoBridge #VehicleExport #BYD #QinPlusDMi #PHEVSedan

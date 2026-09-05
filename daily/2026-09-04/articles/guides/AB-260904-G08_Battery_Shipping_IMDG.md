@@ -52,6 +52,29 @@ Quantity/state limits such as a fixed **state-of-charge percentage** are set by 
 **What about a spare battery in the same container?** Loose lithium-ion batteries use UN3480 (or UN3481 if packed with/contained in equipment), not UN3556.
 **Which UN38.3 edition applies?** The current Manual of Tests and Criteria, Rev.8 with Amendment 1, tests T.1–T.8 with a test summary.
 
+## Image Record
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-05
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — EV shipping under IMDG 42-24 UN3556, vehicle-export procurement guide
+  - **FR**: Référence AutoBridge pour acheteurs export — EV shipping under IMDG 42-24 UN3556, guide d’achat à l’export automobile
+  - **DE**: AutoBridge-Referenz für Exportkäufer — EV shipping under IMDG 42-24 UN3556, Leitfaden für Fahrzeugexport-Einkauf
+  - **ES**: Referencia AutoBridge para compradores de exportación — EV shipping under IMDG 42-24 UN3556, guía de compras para exportación de vehículos
+  - **PT**: Referência AutoBridge para compradores de exportação — EV shipping under IMDG 42-24 UN3556, guia de compras para exportação de veículos
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜EV shipping under IMDG 42-24 UN3556, 自動車輸出 調達ガイド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜EV shipping under IMDG 42-24 UN3556, 자동차 수출 조달 가이드
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — EV shipping under IMDG 42-24 UN3556, hướng dẫn thu mua xuất khẩu xe
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — EV shipping under IMDG 42-24 UN3556, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — EV shipping under IMDG 42-24 UN3556, panduan pengadaan ekspor kendaraan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — EV shipping under IMDG 42-24 UN3556, دليل مشتريات تصدير المركبات
+  - **ZH**: AutoBridge 出口采购参考｜EV shipping under IMDG 42-24 UN3556, 汽车出口采购指南
+
 ## Sources & Verification
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|

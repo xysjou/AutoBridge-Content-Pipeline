@@ -56,6 +56,29 @@ Lashing point count, strap breaking strength, anti-slip mats, vehicle heading/or
 **Is the photo/handover record mandatory?** It is AutoBridge's recommended evidence method, not a statutory requirement — but it materially strengthens a destination damage claim.
 **Who decides lashing points and strap ratings?** The carrier/terminal and the OEM transport-mode manual; do not assume fixed values without their documents.
 
+## Image Record
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-05
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Pre-shipment PDI and handover for RoRo/container, vehicle-export procurement guide
+  - **FR**: Référence AutoBridge pour acheteurs export — Pre-shipment PDI and handover for RoRo/container, guide d’achat à l’export automobile
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Pre-shipment PDI and handover for RoRo/container, Leitfaden für Fahrzeugexport-Einkauf
+  - **ES**: Referencia AutoBridge para compradores de exportación — Pre-shipment PDI and handover for RoRo/container, guía de compras para exportación de vehículos
+  - **PT**: Referência AutoBridge para compradores de exportação — Pre-shipment PDI and handover for RoRo/container, guia de compras para exportação de veículos
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Pre-shipment PDI and handover for RoRo/container, 自動車輸出 調達ガイド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Pre-shipment PDI and handover for RoRo/container, 자동차 수출 조달 가이드
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Pre-shipment PDI and handover for RoRo/container, hướng dẫn thu mua xuất khẩu xe
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Pre-shipment PDI and handover for RoRo/container, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Pre-shipment PDI and handover for RoRo/container, panduan pengadaan ekspor kendaraan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Pre-shipment PDI and handover for RoRo/container, دليل مشتريات تصدير المركبات
+  - **ZH**: AutoBridge 出口采购参考｜Pre-shipment PDI and handover for RoRo/container, 汽车出口采购指南
+
 ## Sources & Verification
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
@@ -65,6 +88,9 @@ Lashing point count, strap breaking strength, anti-slip mats, vehicle heading/or
 | Höegh Trucks/Buses/Trailers shipping | Höegh Autoliners | INTL | https://www.hoeghautoliners.com/what-we-ship/trucks-buses-and-trailers-shipping | 2026-09-04 | SINGLE_SOURCE (primary carrier) | Commercial-unit receiving |
 | Pre-shipment inspection & handover practice | 11467 industry pages | CN | https://m.11467.com/product/d55278360.htm | 2026-09-04 | SINGLE_SOURCE (editorial basis) | Recommended checklist/photo/handover |
 *Status note: FACT_SOURCE_CONDITIONAL — named-carrier policies verified to WW/Höegh primary guides (carrier policy, not regulation, not universal); checklist is editorial recommendation; fixed lashing/pressure/orientation values blocked pending OEM/carrier documents.*
+
+| IMO/ILO/UNECE CTU Code — handling and securing cargo transport units | International Maritime Organization (IMO) | INT'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | VERIFIED | General handling/securing baseline; carrier rules remain stricter and route-specific |
+| Cargo/transit insurance and marine risk reference | International Union of Marine Insurance (IUMI) | INT'L | https://iumi.com/ | 2026-09-05 | VERIFIED | Why documented PDI/handover evidence matters for cargo-claims handling |
 
 ## Editorial Review
 - **Author**: AutoBridge Export Editorial Team · [Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)

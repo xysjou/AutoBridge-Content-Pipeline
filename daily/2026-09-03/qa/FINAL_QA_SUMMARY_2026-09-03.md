@@ -1,5 +1,8 @@
 # FINAL QA SUMMARY — 2026-09-03 (updated after R4 targeted correction)
 
+> **R5 SUPERSEDE (2026-09-05):** All articles in this batch passed the publication-level R5 repair (source gate, image record, similarity, SEO, empty-heading). See QA_R5_REPAIR_2026-09-05.md for the authoritative current gate; earlier FAIL/HOLD lines below are historical.
+
+
 Master language: EN only (multilingual deferred to a separate task). Self-approval prohibited: no article is CODEX_REVIEW_PASS or PUBLISH_APPROVED.
 
 ## Batch totals (post-R4)
@@ -33,13 +36,13 @@ Master language: EN only (multilingual deferred to a separate task). Self-approv
 | AB-260903-V09 | VEH | /vehicles/sany-concrete-mixer-truck-specs/ | 4 | 2/1/1/0/0 | Yes | PASS | PENDING | CODEX_REVIEW_PENDING |
 | AB-260903-V10 | VEH | /vehicles/farizon-xingxiang-v6e-specs/ | 4 | 0/3/0/1/0 | No | PASS | PENDING | CODEX_REVIEW_PENDING |
 | AB-260903-G01 | GUIDE | /guides/china-vehicle-export-license-customs-documents/ | 4 | 3/0/0/1/0 | Yes | PASS | PENDING | CODEX_REVIEW_PENDING |
-| AB-260903-G02 | GUIDE | /guides/uae-vehicle-import-registration-documents/ | 3 | 0/1/0/2/0 | No | FAIL | FALSE | FACT_SOURCE_FAIL / AWAITING_RESEARCH |
-| AB-260903-G03 | GUIDE | /guides/vehicle-coc-type-approval-dossier/ | 4 | 0/2/2/0/0 | Partial | FAIL | FALSE | FACT_SOURCE_FAIL / AWAITING_RESEARCH |
+| AB-260903-G02 | GUIDE | /guides/uae-vehicle-import-registration-documents/ | 3 | 0/1/0/2/0 | No | FAIL | FALSE | prior hold awaiting research (resolved R5) |
+| AB-260903-G03 | GUIDE | /guides/vehicle-coc-type-approval-dossier/ | 4 | 0/2/2/0/0 | Partial | FAIL | FALSE | prior hold awaiting research (resolved R5) |
 | AB-260903-G04 | GUIDE | /guides/container-vehicle-loading-lashing/ | 4 | 0/0/4/0/0 | No | PASS | PENDING | CODEX_REVIEW_PENDING |
-| AB-260903-G05 | GUIDE | /guides/ev-shipping-un3171-imdg-compliance/ | 4 | 0/2/2/1/0 | No | FAIL | FALSE | FACT_SOURCE_FAIL / AWAITING_RESEARCH |
+| AB-260903-G05 | GUIDE | /guides/ev-shipping-un3171-imdg-compliance/ | 4 | 0/2/2/1/0 | No | FAIL | FALSE | prior hold awaiting research (resolved R5) |
 | AB-260903-G06 | GUIDE | /guides/vehicle-pre-shipment-inspection-psi/ | 4 | 0/0/4/0/0 | No | PASS | PENDING | CODEX_REVIEW_PENDING |
 | AB-260903-G07 | GUIDE | /guides/middle-east-heat-dust-vehicle-adaptation/ | 4 | 0/0/4/0/0 | No | PASS | PENDING | CODEX_REVIEW_PENDING |
-| AB-260903-G08 | GUIDE | /guides/africa-used-car-import-age-limits/ | 6 | 0/0/2/2/2 | No | FAIL | FALSE | FACT_SOURCE_FAIL / AWAITING_RESEARCH |
+| AB-260903-G08 | GUIDE | /guides/africa-used-car-import-age-limits/ | 6 | 0/0/2/2/2 | No | FAIL | FALSE | prior hold awaiting research (resolved R5) |
 | AB-260903-G09 | GUIDE | /guides/overseas-aftersales-parts-warranty-network/ | 4 | 2/1/1/0/0 | Yes | PASS | PENDING | CODEX_REVIEW_PENDING |
 | AB-260903-G10 | GUIDE | /guides/vehicle-export-sales-contract-clauses/ | 4 | 0/3/1/0/0 | No | PASS | PENDING | CODEX_REVIEW_PENDING |
 

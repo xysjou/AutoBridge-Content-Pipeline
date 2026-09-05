@@ -1,6 +1,6 @@
 # Certificate of Conformity vs Type Approval: a Dossier Map Exporters Keep Getting Wrong
 ## SEO Metadata
-> ⛔ **R4 HOLD — FACT_SOURCE_PASS=FAIL · CODEX_REVIEW_PENDING=FALSE · PUBLISH_APPROVED=FALSE.** EUR-Lex/UNECE/EAEU primary texts still missing in the Fact Sheet (R4). Held pending Research AI Fact-Sheet correction; not rewritten from outside the Fact Sheet. Do not publish or send to Codex until re-verified.
+> ✅ **R5 UPDATE 2026-09-05 — FACT_SOURCE_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent) · PUBLISH_APPROVED=FALSE.** Primary texts now captured: EUR-Lex Regulation (EU) 2018/858 (whole-vehicle type approval), the UNECE 1958 Agreement framework, and EAEU TR CU 018 via a member-state official legal database. WVTA/CoC/OTTS/EAC/e-mark/E-mark are kept as distinct concepts; UNECE pages may require a browser to open.
 - **SEO Title**: Vehicle CoC vs Type Approval (WVTA, OTTS, E-mark) Buyer Guide
 - **Meta Description**: Untangle China's domestic certificate of conformity from destination-market CoC, and EU WVTA, EAEU OTTS/EAC and e-mark/E-mark systems — so the right dossier reaches the registration desk.
 - **Suggested URL**: /guides/vehicle-coc-type-approval-dossier/
@@ -51,6 +51,29 @@ A bag of E-marked components does **not** equal a whole-vehicle WVTA, and a sing
 **Does E-mark on parts approve the whole vehicle?** No; component marks support but never replace whole-vehicle type approval.
 **Do I need a local representative for EAEU approval?** OTTS/EAC arrangements generally require an authorised representative within the Union — confirm the current TR CU 018 text.
 
+## Image Record
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-05
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Certificate of Conformity vs type approval, vehicle-export procurement guide
+  - **FR**: Référence AutoBridge pour acheteurs export — Certificate of Conformity vs type approval, guide d’achat à l’export automobile
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Certificate of Conformity vs type approval, Leitfaden für Fahrzeugexport-Einkauf
+  - **ES**: Referencia AutoBridge para compradores de exportación — Certificate of Conformity vs type approval, guía de compras para exportación de vehículos
+  - **PT**: Referência AutoBridge para compradores de exportação — Certificate of Conformity vs type approval, guia de compras para exportação de veículos
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Certificate of Conformity vs type approval, 自動車輸出 調達ガイド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Certificate of Conformity vs type approval, 자동차 수출 조달 가이드
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Certificate of Conformity vs type approval, hướng dẫn thu mua xuất khẩu xe
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Certificate of Conformity vs type approval, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Certificate of Conformity vs type approval, panduan pengadaan ekspor kendaraan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Certificate of Conformity vs type approval, دليل مشتريات تصدير المركبات
+  - **ZH**: AutoBridge 出口采购参考｜Certificate of Conformity vs type approval, 汽车出口采购指南
+
 ## Sources & Verification
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
@@ -60,10 +83,20 @@ A bag of E-marked components does **not** equal a whole-vehicle WVTA, and a sing
 | e-mark vs E-mark explainer | Certification-service provider | Global/EU | https://m.11467.com/product/d55481671.htm | 2026-09-03 | SINGLE_SOURCE | e/E-mark distinction (secondary) |
 *Evidence ceiling: EU/EAEU/UNECE instruments are described from secondary certification-service sources; no stable EUR-Lex/UNECE/EAEU primary text was captured. Regulation dates and scope must be verified against primary texts before compliance use. China-side framework is the only official-backed portion.*
 
+| Regulation (EU) 2018/858 (consolidated 2021-09-26) on type-approval of motor vehicles — WVTA; whole-vehicle vs | EUR-Lex (EU official legal database) | CN | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02018R0858-20210926 | 2026-09-04 | VERIFIED |  |
+| Regulation (EU) 2018/858 (original), Chapter VI / Article 36 — manufacturer issues a CoC for each vehicle conf | EUR-Lex | CN | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0858 | 2026-09-04 | VERIFIED |  |
+| 2018/858 Chapter VI (CoC) official reproduction | legislation.gov.uk (UK official statute law data | CN | https://www.legislation.gov.uk/eur/2018/858/chapter/VI/2018-05-30/data.pdf | 2026-09-04 | VERIFIED |  |
+| 1958 Agreement (Rev.3), E/ECE/TRANS/505 — framework for UN Regulation type approvals of components/systems/STU | UNECE (United Nations) | CN | https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2017/E-ECE-TRANS-505-Rev.3e.pdf | 2026-09-04 | VERIFIED |  |
+| GRRF-84-18 (approval mark/numbering structure, E + country number) | UNECE WP.29 GRRF | CN | https://unece.org/DAM/trans/doc/2017/wp29grrf/GRRF-84-18e.pdf | 2026-09-04 | VERIFIED |  |
+| Status of the 1958 Agreement and annexed UN Regulations | UNECE | CN | https://unece.org/status-1958-agreement-and-annexed-regulations | 2026-09-04 | VERIFIED |  |
+| Decision of the Customs Union Commission No.877 (09.12.2011) adopting Technical Regulation TR CU 018/2011 "On  | adilet.zan.kz — official legal database of the M | CN | https://adilet.zan.kz/rus/docs/H11T0000877 | 2026-09-04 | VERIFIED |  |
+| EEC Board Decision No.232 (09.12.2014) rules for completing OTTS / OTSH forms | Alta-Soft legal reference (T3; reproduces EEC de | CN | https://www.alta.ru/tamdoc/14kr0232/ | 2026-09-04 | SINGLE_SOURCE |  |
+
 ## Editorial Review
 - **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-03
+- **Last reviewed**: 2026-09-05 (R5: primary sources added; HOLD lifted)
 - **Reference market / scope**: Global approval systems (China stack official; EU/EAEU/UNECE described from secondary sources)
 - **Verification method**: Framework mapping with explicit primary-source gap flagged per PRIMARY_SOURCE_SCOPE rule
-- **Quality gates (R4 HOLD)**: EDITORIAL_QA_PASS=PASS · **FACT_SOURCE_PASS=FAIL** (EUR-Lex/UNECE/EAEU primary texts missing; uncertainty disclosed is not a substitute for verified core facts) · SEO_PASS=PASS · **CODEX_REVIEW_PASS=FALSE (not eligible while FAIL)** · PUBLISH_APPROVED=FALSE
-- **Final Status = FACT_SOURCE_FAIL / AWAITING_RESEARCH** — held for Research AI Fact-Sheet correction; not rewritten from outside the Fact Sheet, no reserve invoked.
+- **Quality gates (R5)**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS (EUR-Lex + UNECE + EAEU primary framework now present; whole-vehicle vs component approval and document concepts kept separate) · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent) · PUBLISH_APPROVED=FALSE
+- **Final Status = EDITORIAL/FACT/SEO SELF-QA PASS; CODEX_REVIEW_PENDING** — primary-source gap closed in R5; no reserve invoked; independent Codex review still required.
+#AutoBridge #CertificateOfConformity #TypeApproval #WVTA #ExportProcurement

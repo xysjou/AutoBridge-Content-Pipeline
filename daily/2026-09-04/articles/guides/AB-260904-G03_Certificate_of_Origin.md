@@ -45,6 +45,29 @@ The two authorized issuing channels are **China Customs** and **CCPIT (China Cou
 **What is the difference between an ordinary and an FTA CO?** The ordinary CO proves origin for non-preferential purposes; the FTA CO supports an agreed preferential rate only if the goods meet that agreement's origin rules.
 **Does an FTA CO guarantee lower duty abroad?** No — the importing country's customs decides whether to grant the preference.
 
+## Image Record
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-05
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Certificate of origin for vehicle export, vehicle-export procurement guide
+  - **FR**: Référence AutoBridge pour acheteurs export — Certificate of origin for vehicle export, guide d’achat à l’export automobile
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Certificate of origin for vehicle export, Leitfaden für Fahrzeugexport-Einkauf
+  - **ES**: Referencia AutoBridge para compradores de exportación — Certificate of origin for vehicle export, guía de compras para exportación de vehículos
+  - **PT**: Referência AutoBridge para compradores de exportação — Certificate of origin for vehicle export, guia de compras para exportação de veículos
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Certificate of origin for vehicle export, 自動車輸出 調達ガイド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Certificate of origin for vehicle export, 자동차 수출 조달 가이드
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Certificate of origin for vehicle export, hướng dẫn thu mua xuất khẩu xe
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Certificate of origin for vehicle export, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Certificate of origin for vehicle export, panduan pengadaan ekspor kendaraan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Certificate of origin for vehicle export, دليل مشتريات تصدير المركبات
+  - **ZH**: AutoBridge 出口采购参考｜Certificate of origin for vehicle export, 汽车出口采购指南
+
 ## Sources & Verification
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
@@ -52,6 +75,12 @@ The two authorized issuing channels are **China Customs** and **CCPIT (China Cou
 | Export CO Administrative Measures (second official PDF) | GACC | CN | http://www.customs.gov.cn/eportal/fileDir/customs/resource/cms/2024/07/2024073110443252720.pdf | 2026-09-04 | VERIFIED | Non-preferential uses, three types |
 | Non-preferential CO overview and issuing bodies | CCPIT Sichuan | CN | https://www.ccpit-sichuan.org/newshow.aspx?id=14630&mid=285 | 2026-09-04 | VERIFIED | Issuers, no-fee ordinary CO |
 *Scope note: China issuing side only; specific FTA rules and destination preference decisions are out of scope and per-agreement/per-country.*
+
+| Regulations of the PRC on Certificates of Origin (State Council Decree No.416) | The State Council of the PRC | CN | https://www.gov.cn/gongbao/content/2005/content_64193.htm | 2026-09-05 | VERIFIED | Chinese legal basis for issuing preferential and non-preferential certificates of origin |
+| Agreement on Rules of Origin | World Trade Organization (WTO) | INT'L | https://www.wto.org/english/tratop_e/roi_e/roi_e.htm | 2026-09-05 | VERIFIED | Multilateral rules-of-origin framework |
+| Rules of origin topic | World Customs Organization (WCO) | INT'L | http://www.wcoomd.org/ | 2026-09-05 | VERIFIED | Customs origin-classification and certification reference |
+| China Free Trade Area service network (FTA tariff treatment) | MOFCOM | CN/INT'L | http://fta.mofcom.gov.cn/ | 2026-09-05 | VERIFIED | Preferential origin/FTA certificate channel |
+| Certificate of origin and foreign-trade certification | China Council for the Promotion of International Trade (CCPIT) | CN | http://www.ccpit.org/ | 2026-09-05 | VERIFIED | CCPIT-issued non-preferential certificate of origin channel |
 
 ## Editorial Review
 - **Author**: AutoBridge Export Editorial Team · [Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)

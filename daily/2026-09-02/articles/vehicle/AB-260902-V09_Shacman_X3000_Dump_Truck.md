@@ -64,6 +64,29 @@ No authoritative price was captured and none is estimated. Enquire with **Destin
 **What is the rated payload?** Around 15.37 t for the reference 8×4 (single-source), subject to destination axle/GVW rules and final body build.
 **Manual or automatic?** The captured builds use Fast manual transmissions (12/13-speed); confirm rather than assume an automatic.
 
+## Image Record
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-05
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Shacman Delong X3000, petrol/diesel Chinese-market vehicle / dump/tipper truck
+  - **FR**: Référence AutoBridge pour acheteurs export — Shacman Delong X3000, véhicule thermique (marché chinois) / camion benne
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Shacman Delong X3000, Verbrenner (chinesischer Markt) / Kipper
+  - **ES**: Referencia AutoBridge para compradores de exportación — Shacman Delong X3000, vehículo de combustión (mercado chino) / camión volqueta
+  - **PT**: Referência AutoBridge para compradores de exportação — Shacman Delong X3000, veículo a combustão (mercado chinês) / caminhão basculante
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Shacman Delong X3000, 中国市場仕様 内燃機関車 / ダンプカー
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Shacman Delong X3000, 중국 시장 내연기관 차량 / 덤프트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Shacman Delong X3000, xe động cơ đốt trong (thị trường Trung Quốc) / xe ben
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Shacman Delong X3000, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถดั๊มพ์
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Shacman Delong X3000, kendaraan mesin pembakaran (pasar Tiongkok) / truk dump
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Shacman Delong X3000, مركبة بمحرك احتراق (سوق الصين) / شاحنة قلابة
+  - **ZH**: AutoBridge 出口采购参考｜Shacman Delong X3000, 中国市场燃油车 / 自卸车
+
 ## Sources & Verification
 
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
@@ -73,6 +96,12 @@ No authoritative price was captured and none is estimated. Enquire with **Destin
 | X3000 multi-version compare | 360che (卡车之家) | CN | https://product.m.360che.com/m299/74922_param.html | 2026-09-02 | CROSS_CHECKED | 375–550 PS versions, China V/VI torque |
 | X3000 international | Shacman International (official) | Export | https://www.shacmaninternational.cn/product-38.html | 2026-09-02 | VERIFIED | 80 km/h top speed, wheelbase, 385/400/430 options |
 
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VERIFIED | China-VI compression-ignition (heavy diesel) emission stage for trucks/coaches |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
+
 *Confidence note (AutoBridge standard): the 400 PS export engine is VERIFIED on Shacman-official channels; the detailed 430 PS 8×4 announcement figures are SINGLE_SOURCE (360che). Price is UNVERIFIED and omitted. Confirm the final build on the Shacman International sheet.*
 
 ## Editorial Review
@@ -81,3 +110,4 @@ No authoritative price was captured and none is estimated. Enquire with **Destin
 - **Reference market**: China reference build + official export configurations
 - **Verification method**: Official Shacman channels plus an independent commercial database; single-source items labelled
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off
+#AutoBridge #VehicleExport #Shacman #DelongX3000 #DumpTruck

@@ -52,6 +52,29 @@ No static export price and no China MSRP were captured; none is invented. Enquir
 **What is the GCW?** The 6×4 is in the ~40 t class, but rated GCW depends on axle/tyre/suspension — confirm on the certificate.
 **Can a China-VI tractor run on any diesel?** It needs ultra-low-sulphur diesel plus DEF and proper DPF conditions; verify destination fuel and emission acceptance before ordering.
 
+## Image Record
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-05
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — FAW Jiefang J6P, petrol/diesel Chinese-market vehicle / heavy tractor truck
+  - **FR**: Référence AutoBridge pour acheteurs export — FAW Jiefang J6P, véhicule thermique (marché chinois) / tracteur routier lourd
+  - **DE**: AutoBridge-Referenz für Exportkäufer — FAW Jiefang J6P, Verbrenner (chinesischer Markt) / schwere Sattelzugmaschine
+  - **ES**: Referencia AutoBridge para compradores de exportación — FAW Jiefang J6P, vehículo de combustión (mercado chino) / cabeza tractora pesada
+  - **PT**: Referência AutoBridge para compradores de exportação — FAW Jiefang J6P, veículo a combustão (mercado chinês) / cavalo mecânico pesado
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜FAW Jiefang J6P, 中国市場仕様 内燃機関車 / 大型トラクターヘッド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜FAW Jiefang J6P, 중국 시장 내연기관 차량 / 대형 트랙터 트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — FAW Jiefang J6P, xe động cơ đốt trong (thị trường Trung Quốc) / đầu kéo hạng nặng
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — FAW Jiefang J6P, รถเครื่องยนต์สันดาป (ตลาดจีน) / หัวลากบรรทุกหนัก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — FAW Jiefang J6P, kendaraan mesin pembakaran (pasar Tiongkok) / truk traktor berat
+  - **AR**: مرجع AutoBridge لمشتري التصدير — FAW Jiefang J6P, مركبة بمحرك احتراق (سوق الصين) / رأس قاطرة ثقيل
+  - **ZH**: AutoBridge 出口采购参考｜FAW Jiefang J6P, 中国市场燃油车 / 重型牵引车
+
 ## Sources & Verification
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
@@ -59,6 +82,12 @@ No static export price and no China MSRP were captured; none is invented. Enquir
 | J6P comparison (CA6DM2-46E61, 341 kW) | Truck Home / Toutiao | CN | http://m.toutiao.com/group/7187639730950013444/ | 2026-09-03 | CROSS_CHECKED | 338–341 kW cross-check, drive layouts |
 | J6P 3.0 (CA6DM3 13 L 560 PS) | Truck Home / Toutiao | CN | http://m.toutiao.com/group/6919343124628374029/ | 2026-09-03 | SINGLE_SOURCE | 13 L 560 PS, long-drain interval |
 | Jiefang J6 model/drive/power lineage | Douyin Encyclopedia | CN | https://m.baike.com/wiki/%E8%A7%A3%E6%94%BEJ6/2354654 | 2026-09-03 | SINGLE_SOURCE | Layout/lineage background |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VERIFIED | China-VI compression-ignition (heavy diesel) emission stage for trucks/coaches |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
+
 *Confidence note: no FAW primary spec sheet was captured; the 460 engine/torque are cross-checked (CROSS_CHECKED), while the 13 L 560 PS and ~40 t GCW are single-source and bound to the homologated model code. China-VI after-treatment compatibility is an engineering/approval check, not assumed.*
 
 ## Editorial Review
@@ -67,3 +96,4 @@ No static export price and no China MSRP were captured; none is invented. Enquir
 - **Reference market**: China, J6P tractor (Chinese-market reference; order-specific driveline)
 - **Verification method**: Commercial-vehicle cross-check; single-source items and scope flagged
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off
+#AutoBridge #VehicleExport #FAWJiefang #J6P #HeavyTractor

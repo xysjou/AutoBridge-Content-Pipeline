@@ -42,6 +42,7 @@ Request the **body builder's configuration sheet** as a separate document from t
 - The **KR Plus** uses a **D7.0NS6B330 (243 kW/330 PS)** engine, a **7.88 m box** and **5800 mm wheelbase** — a larger vehicle. Do not blend KR Plus dimensions or power into a KR order.
 
 ## Overseas Buyer Verification Before Payment
+- Confirm the driven-axle/chassis drive form on the DFH chassis certificate before specifying the reefer upfit; it is deliberately not asserted from the captured Chinese reference figures.
 1. **MIIT model code** (DFH5180XLC / DFH5180XLCG4) on the certificate; GVW and speed-limiter status.
 2. **Chassis driveline** — B6.2 245 PS, Fast 8-speed, Dana 416/4.11 — matched to the VIN; KR Plus kept separate.
 3. **Body builder build sheet** for reefer unit, zones, insulation and interior dimensions.
@@ -57,6 +58,29 @@ No export price is published. Enquire with **Destination Country · Quantity · 
 **Which engine?** Dongfeng Cummins B6.2NS6B245 at 180 kW (245 PS)/1000 N·m, through a Fast 8-speed gearbox to a Dana 416 axle.
 **How does the KR differ from the KR Plus?** The KR Plus is larger: 330 PS D7.0 engine, 7.88 m box, 5800 mm wheelbase — keep them separate.
 
+## Image Record
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-05
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Dongfeng Tianjin KR, petrol/diesel Chinese-market vehicle / refrigerated truck
+  - **FR**: Référence AutoBridge pour acheteurs export — Dongfeng Tianjin KR, véhicule thermique (marché chinois) / camion frigorifique
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Dongfeng Tianjin KR, Verbrenner (chinesischer Markt) / Kühl-Lkw
+  - **ES**: Referencia AutoBridge para compradores de exportación — Dongfeng Tianjin KR, vehículo de combustión (mercado chino) / camión frigorífico
+  - **PT**: Referência AutoBridge para compradores de exportação — Dongfeng Tianjin KR, veículo a combustão (mercado chinês) / caminhão refrigerado
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Dongfeng Tianjin KR, 中国市場仕様 内燃機関車 / 冷凍車
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Dongfeng Tianjin KR, 중국 시장 내연기관 차량 / 냉동·냉장 트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Dongfeng Tianjin KR, xe động cơ đốt trong (thị trường Trung Quốc) / xe tải lạnh
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Dongfeng Tianjin KR, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถบรรทุกห้องเย็น
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Dongfeng Tianjin KR, kendaraan mesin pembakaran (pasar Tiongkok) / truk berpendingin
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Dongfeng Tianjin KR, مركبة بمحرك احتراق (سوق الصين) / شاحنة مبردة
+  - **ZH**: AutoBridge 出口采购参考｜Dongfeng Tianjin KR, 中国市场燃油车 / 冷藏车
+
 ## Sources & Verification
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
@@ -64,6 +88,11 @@ No export price is published. Enquire with **Destination Country · Quantity · 
 | Nine 6.8m cargo trucks: KR config | 360che (Toutiao) | CN | http://m.toutiao.com/group/6961327956664779271/ | 2026-09-04 | CROSS_CHECKED | 6.8m, wheelbase, axle ratio |
 | Tianjin KR 6.8m wheelbase & cargo box | 360che (Toutiao) | CN | http://m.toutiao.com/group/7155750645675377152/ | 2026-09-04 | CROSS_CHECKED | 5000 WB, internal width, GVW |
 | DFH5180XLCG4 reefer — MIIT batch 410 | Sina Finance (citing MIIT) | CN | https://cj.sina.cn/article/norm_detail?froms=ttmp&url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Faigc%2Fxcsb%2F2026-08-07%2Fdoc-inimnrac4126512.shtml%3Ffinpagefr%3Dttzz | 2026-09-04 | CROSS_CHECKED | New filing code, speed limiter |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VERIFIED | China-VI compression-ignition (heavy diesel) emission stage for trucks/coaches |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
+
 *Confidence note: model code anchored to MIIT batch-410 reporting; reefer unit/zones/insulation intentionally left to the body builder (no hard-coded values); KR Plus excluded. Chinese-market reference; confirm legal rating on the announcement/certificate.*
 
 ## Editorial Review

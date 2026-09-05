@@ -38,6 +38,7 @@ Payload is the figure that most often causes compliance problems: a marketing "a
 The 2800 mm wheelbase and 5.5 m turning circle suit urban distribution. Where a buyer adds a box, refrigerated unit or other superstructure, the **final GVW/payload must be re-stated for the completed vehicle** — the chassis figure alone is not the finished-truck rating.
 
 ## Overseas Buyer Verification Before Payment
+- For a light truck the 4×2 (or other) drive form is a certificate field that affects upfit and loading — confirm it per chassis announcement; the reference prose fixes GVW/payload but leaves drive form to the certificate.
 1. **Exact engine code/displacement/power** against the VIN (2.499 L/90 kW vs 2.8 L/116 PS).
 2. **Rated payload and GVW** from the MIIT announcement and certificate, not a brochure round-number.
 3. **Body type** (dropside/box/special) and its curb weight; completed-vehicle rating for any upfit.
@@ -53,6 +54,29 @@ No export price is published. Enquire with **Destination Country · Quantity · 
 **Why does curb weight matter?** It sets usable payload and changes between dropside and box-van bodies — do not share one payload across bodies.
 **Is the China-6 truck approved for my market?** Not automatically; destination emission and type approval are separate.
 
+## Image Record
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-05
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — JMC Shunda, petrol/diesel Chinese-market vehicle / light truck
+  - **FR**: Référence AutoBridge pour acheteurs export — JMC Shunda, véhicule thermique (marché chinois) / camion léger
+  - **DE**: AutoBridge-Referenz für Exportkäufer — JMC Shunda, Verbrenner (chinesischer Markt) / Leicht-Lkw
+  - **ES**: Referencia AutoBridge para compradores de exportación — JMC Shunda, vehículo de combustión (mercado chino) / camión ligero
+  - **PT**: Referência AutoBridge para compradores de exportação — JMC Shunda, veículo a combustão (mercado chinês) / caminhão leve
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜JMC Shunda, 中国市場仕様 内燃機関車 / 小型トラック
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜JMC Shunda, 중국 시장 내연기관 차량 / 경트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — JMC Shunda, xe động cơ đốt trong (thị trường Trung Quốc) / xe tải nhẹ
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — JMC Shunda, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถบรรทุกขนาดเล็ก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — JMC Shunda, kendaraan mesin pembakaran (pasar Tiongkok) / truk ringan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — JMC Shunda, مركبة بمحرك احتراق (سوق الصين) / شاحنة خفيفة
+  - **ZH**: AutoBridge 出口采购参考｜JMC Shunda, 中国市场燃油车 / 轻卡
+
 ## Sources & Verification
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
@@ -60,6 +84,12 @@ No export price is published. Enquire with **Destination Country · Quantity · 
 | Shunda small truck bed, GVW, curb weight | 360che (Toutiao) | CN | http://m.toutiao.com/group/6854066453151384075/ | 2026-09-04 | CROSS_CHECKED | 3700 bed, 4.27 t, curb weight |
 | Shunda cargo 3.7m 116PS (in-sale) | 58.com trucks | CN | https://m.58.com/sh/huochec/63510160324146x.shtml | 2026-09-04 | SINGLE_SOURCE | Alternate 116 PS version (excluded) |
 | Shunda wheelbase / turning circle | 360che (Toutiao) | CN | http://m.toutiao.com/group/6815508461468516878/ | 2026-09-04 | CROSS_CHECKED | 2800 mm WB, 5.5 m turning |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
+
 *Confidence note: no OEM primary sheet; trade-database cross-checks. Rated payload explicitly deferred to MIIT announcement/certificate; 2.499 L and 2.8 L engines kept separate. Chinese-market reference only.*
 
 ## Editorial Review

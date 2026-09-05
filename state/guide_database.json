@@ -310,5 +310,6 @@
   "r3_revised_on": "2026-09-03",
   "r3_note": "AB-260902 guides advanced to CODEX_REVIEW_PENDING (v3); cluster stores IDs only",
   "r4_revised_on": "2026-09-03",
-  "stage2_added_on": "2026-09-04"
+  "stage2_added_on": "2026-09-04",
+  "r5_repaired_on": "2026-09-05"
 }

@@ -47,6 +47,29 @@ The following are **recommended** to prepare; whether each is required depends o
 **Are UN38.3 and translated CoC documents mandatory?** They are recommended preparations; actual need depends on the carrier/maritime authority and destination.
 **What extra file does an export-sale registration need?** The manufacturer's safety/technical inspection certificate (original) and a copy of the motor-vehicle export licence.
 
+## Image Record
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-05
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Vehicle export document package, vehicle-export procurement guide
+  - **FR**: Référence AutoBridge pour acheteurs export — Vehicle export document package, guide d’achat à l’export automobile
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Vehicle export document package, Leitfaden für Fahrzeugexport-Einkauf
+  - **ES**: Referencia AutoBridge para compradores de exportación — Vehicle export document package, guía de compras para exportación de vehículos
+  - **PT**: Referência AutoBridge para compradores de exportação — Vehicle export document package, guia de compras para exportação de veículos
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Vehicle export document package, 自動車輸出 調達ガイド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Vehicle export document package, 자동차 수출 조달 가이드
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Vehicle export document package, hướng dẫn thu mua xuất khẩu xe
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Vehicle export document package, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Vehicle export document package, panduan pengadaan ekspor kendaraan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Vehicle export document package, دليل مشتريات تصدير المركبات
+  - **ZH**: AutoBridge 出口采购参考｜Vehicle export document package, 汽车出口采购指南
+
 ## Sources & Verification
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|

@@ -48,6 +48,29 @@ Overseas frameworks are principally **UNECE/Euro** (Europe) and **US EPA** (Unit
 **Why does diesel sulphur matter?** China-VI diesel uses DPF/SCR; sustained high-sulphur fuel can poison the after-treatment.
 **Does China VI mean the car is Euro-approved?** No; overseas conformity is a separate process and no equivalence is claimed.
 
+## Image Record
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-05
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — China-VI emissions and fuel compatibility overseas, vehicle-export procurement guide
+  - **FR**: Référence AutoBridge pour acheteurs export — China-VI emissions and fuel compatibility overseas, guide d’achat à l’export automobile
+  - **DE**: AutoBridge-Referenz für Exportkäufer — China-VI emissions and fuel compatibility overseas, Leitfaden für Fahrzeugexport-Einkauf
+  - **ES**: Referencia AutoBridge para compradores de exportación — China-VI emissions and fuel compatibility overseas, guía de compras para exportación de vehículos
+  - **PT**: Referência AutoBridge para compradores de exportação — China-VI emissions and fuel compatibility overseas, guia de compras para exportação de veículos
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜China-VI emissions and fuel compatibility overseas, 自動車輸出 調達ガイド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜China-VI emissions and fuel compatibility overseas, 자동차 수출 조달 가이드
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — China-VI emissions and fuel compatibility overseas, hướng dẫn thu mua xuất khẩu xe
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — China-VI emissions and fuel compatibility overseas, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — China-VI emissions and fuel compatibility overseas, panduan pengadaan ekspor kendaraan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — China-VI emissions and fuel compatibility overseas, دليل مشتريات تصدير المركبات
+  - **ZH**: AutoBridge 出口采购参考｜China-VI emissions and fuel compatibility overseas, 汽车出口采购指南
+
 ## Sources & Verification
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
@@ -59,6 +82,10 @@ Overseas frameworks are principally **UNECE/Euro** (Europe) and **US EPA** (Unit
 | GB19147-2016 road diesel (current, with XG1-2018) | SAMR openstd | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-04 | VERIFIED (primary) | Sulphur ≤10 mg/kg |
 | DPF/SCR high-sulphur after-treatment risk | 11467 testing body | CN | https://m.11467.com/product/d51123633.htm | 2026-09-04 | SINGLE_SOURCE | Qualitative after-treatment risk |
 *Status note: FACT_SOURCE_CONDITIONAL — Chinese standards/dates VERIFIED via MEE/SAMR primary sources; overseas Euro/EPA limits, EN fuel specs and any equivalence conclusion are blocked pending primary overseas sources.*
+
+| 轻型车国六排放标准 GB18352.6-2016(译文库条文) | ChinaAutoRegs(今日头条) | CN | http://m.toutiao.com/group/6758333762372633092/ | 2026-09-04 | SINGLE_SOURCE | GB18352.6-2016背景(不作现行版本核心依据) |
+| 辽宁省车用柴油产品质量监督抽查实施细则(引GB19147-2016) | 盘锦市人民政府 | CN | http://www.panjin.gov.cn/html/2731/2026-07-29/content-152533.html | 2026-09-04 | VERIFIED | 硫含量等项目检验依据GB19147-2016 |
+| GB19147-2016《车用柴油》标准正文(含第1号修改单,政府托管PDF) | 横峰县人民政府办公室(托管国家标准文本) | CN | http://www.hfzf.gov.cn/hfzf/yshj/202312/eae4056035e34b2bb17b894d5d28c311/files/759187b489ce46a088e99d4a505e68d0.pdf | 2026-09-04 | VERIFIED | 国VI车用柴油硫含量≤10mg/kg |
 
 ## Editorial Review
 - **Author**: AutoBridge Export Editorial Team · [Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)

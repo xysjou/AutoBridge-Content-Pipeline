@@ -52,6 +52,29 @@ Any character difference, restamping evidence, or document-vs-body mismatch is a
 **Can I tell the origin from the first letter?** Not reliably on its own — use the authorized WMI allocation; this guide does not assert an L/H rule as fact.
 **What must match before payment?** Stamped body VIN, nameplate VIN, certificate VIN and shipping-document VIN — all identical, with no re-stamping.
 
+## Image Record
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-05
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Chinese VIN and nameplate under GB 16735, vehicle-export procurement guide
+  - **FR**: Référence AutoBridge pour acheteurs export — Chinese VIN and nameplate under GB 16735, guide d’achat à l’export automobile
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Chinese VIN and nameplate under GB 16735, Leitfaden für Fahrzeugexport-Einkauf
+  - **ES**: Referencia AutoBridge para compradores de exportación — Chinese VIN and nameplate under GB 16735, guía de compras para exportación de vehículos
+  - **PT**: Referência AutoBridge para compradores de exportação — Chinese VIN and nameplate under GB 16735, guia de compras para exportação de veículos
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Chinese VIN and nameplate under GB 16735, 自動車輸出 調達ガイド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Chinese VIN and nameplate under GB 16735, 자동차 수출 조달 가이드
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Chinese VIN and nameplate under GB 16735, hướng dẫn thu mua xuất khẩu xe
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Chinese VIN and nameplate under GB 16735, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Chinese VIN and nameplate under GB 16735, panduan pengadaan ekspor kendaraan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Chinese VIN and nameplate under GB 16735, دليل مشتريات تصدير المركبات
+  - **ZH**: AutoBridge 出口采购参考｜Chinese VIN and nameplate under GB 16735, 汽车出口采购指南
+
 ## Sources & Verification
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
@@ -61,6 +84,8 @@ Any character difference, restamping evidence, or document-vs-body mismatch is a
 | Road-motor-vehicle product-access review requirements (mandatory citation of GB16735) | MIIT official PDF | CN | https://wap.miit.gov.cn/cms_files/filemanager/1226211233/attach/20259/9d0824a8e8a84abf858f3cb96a6d7385.pdf | 2026-09-04 | VERIFIED (primary) | Mandatory status, consistency requirement |
 | VIN segment explanation | Pacific Auto | CN | http://m.pcauto.com.cn/x/5100/51002243.html | 2026-09-04 | SINGLE_SOURCE | Position-level explainer |
 *Blocked note: "Chinese WMI starts with L / some H" is UNVERIFIED and not stated as fact; WMI-prefix manufacturer mapping and destination VIN formats are out of scope.*
+
+| 道路车辆 车辆识别代号(VIN) GB16735-2019 条文(百科载体) | 百科(国标条文载体) | CN | https://m.baike.com/wiki/%E8%BD%A6%E8%BE%86%E8%AF%86%E5%88%AB%E5%8F%B7%E7%A0%81/1470666 | 2026-09-04 | SINGLE_SOURCE | VIN=WMI+VDS+VIS共17位(以标准正文为准) |
 
 ## Editorial Review
 - **Author**: AutoBridge Export Editorial Team · [Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)

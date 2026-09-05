@@ -47,6 +47,29 @@ No static export price is published; China RMB references are **domestic and tim
 **What's the wheelbase?** 3230 mm standard passenger bed; 3470 mm commercial long bed.
 **What is the payload?** Not stated here because it was absent from the verified fact base; take it from the exact version's official sheet.
 **Is it available in RHD?** GWM sells Poer/Ute in both layouts across many markets — confirm the specific engine/version in RHD for your country.
+## Image Record
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-05
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — GWM Poer, petrol/diesel Chinese-market vehicle / pickup truck
+  - **FR**: Référence AutoBridge pour acheteurs export — GWM Poer, véhicule thermique (marché chinois) / pick-up
+  - **DE**: AutoBridge-Referenz für Exportkäufer — GWM Poer, Verbrenner (chinesischer Markt) / Pick-up
+  - **ES**: Referencia AutoBridge para compradores de exportación — GWM Poer, vehículo de combustión (mercado chino) / camioneta pick-up
+  - **PT**: Referência AutoBridge para compradores de exportação — GWM Poer, veículo a combustão (mercado chinês) / picape
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜GWM Poer, 中国市場仕様 内燃機関車 / ピックアップトラック
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜GWM Poer, 중국 시장 내연기관 차량 / 픽업트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — GWM Poer, xe động cơ đốt trong (thị trường Trung Quốc) / xe bán tải
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — GWM Poer, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถกระบะ
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — GWM Poer, kendaraan mesin pembakaran (pasar Tiongkok) / truk pikap
+  - **AR**: مرجع AutoBridge لمشتري التصدير — GWM Poer, مركبة بمحرك احتراق (سوق الصين) / شاحنة بيك أب
+  - **ZH**: AutoBridge 出口采购参考｜GWM Poer, 中国市场燃油车 / 皮卡
+
 ## Sources & Verification
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
@@ -55,6 +78,10 @@ No static export price is published; China RMB references are **domestic and tim
 | GWM UK POER300 launch (2.4 diesel 183 PS/480 N·m, 9AT, full-time 4×4 low-range) | GWM Cars UK (**manufacturer official**) | Export/UK | https://gwmcars.co.uk/gwm-uk-launches-new-double-cab-pick-up/ | 2026-09-03 | **VERIFIED** | Export diesel rating, 9AT, 4×4 low-range |
 | 2024 Pao config (China passenger reference) | PCauto (太平洋汽车) | CN | https://price.pcauto.com.cn/m128673/config.html | 2026-09-02 | CROSS_CHECKED | 2024 passenger 140 kW/360 petrol, 135 kW/480 diesel, ZF 8AT |
 | Pao parameters (wheelbase/drive by version) | 360che / Autohome | CN | https://product.360che.com/m792/198189_param.html | 2026-09-02 | CROSS_CHECKED | 3230/3470 wheelbases, version drive/transmission |
+| 汽车之家 问答（炮动力） | 汽车之家 | CN | https://www.autohome.com.cn/ask/7251342.html | 2026-09-02 | SINGLE_SOURCE | GW4C20B 2.0T 190Ps/360N·m、采埃孚 8AT |
+| 太平洋汽车 乘用版厢式运输车 | 太平洋汽车网 | CN | https://car.pcauto.com.cn/360/choose.jsp?mid=130087 | 2026-09-02 | SINGLE_SOURCE | 尺寸 5416×1947×1886、2.0T 140kW/360N·m、五年或20万公里质保 |
+| 网上车市 炮乘用皮卡参数 | 网上车市 | CN | https://a.cheshi.com/bseries_4361/param.html | 2026-09-02 | SINGLE_SOURCE | 乘用版 2.4T 柴油指导价 13.58/14.88 万 |
+
 *Confidence note: current outputs/transmissions are VERIFIED on GWM-official pages; the 2024 China passenger values are CROSS_CHECKED on databases and are deliberately kept separate to avoid mixing model years. Payload/GVW/towing remain for the official sheet and are not estimated.*
 ## Editorial Review
 - **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
@@ -62,3 +89,4 @@ No static export price is published; China RMB references are **domestic and tim
 - **Reference market**: China 2024 passenger build + current GWM-official export builds (shown separately)
 - **Verification method**: Manufacturer-official current data + database cross-check of the named 2024 build; model-year differences preserved, not flattened
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS (OEM sources added) · SEO_PASS=PASS (evergreen URL) · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off
+#AutoBridge #VehicleExport #GWM #PoerPickup #DieselPickup

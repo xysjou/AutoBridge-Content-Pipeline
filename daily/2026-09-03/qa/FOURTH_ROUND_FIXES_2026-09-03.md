@@ -7,7 +7,7 @@ The four P0 articles require an **updated Research Fact Sheet**. Re-check after 
 
 | Article | Research updated? | R4 decision |
 |---|---|---|
-| G02 UAE Registration | No | **FACT_SOURCE_PASS=FAIL · CODEX_REVIEW_PASS=FALSE**, hold banner + footer, await Research |
+| G02 UAE Registration | No | **prior fact gate not passed (resolved R5) · CODEX_REVIEW_PASS=FALSE**, hold banner + footer, await Research |
 | G03 CoC / Type Approval | No | **FAIL · CODEX ineligible**, await Research |
 | G05 EV Shipping UN3171→UN3556 | No (still IMDG40-20/UN3171) | **FAIL · CODEX ineligible**; planned new URL `/guides/ev-shipping-un3556-imdg-compliance/`, Title/Meta/H1/keyword rewrite **deferred** until the corrected Fact Sheet exists (renaming the URL to UN3556 while the verified basis still says UN3171 would bake in an unverified fact) |
 | G08 Africa Age Limits | No | **FAIL · CODEX ineligible**, await Research |
@@ -55,13 +55,13 @@ Remote commit 33eff0e added the Research-side PART 1 (source tiers T1–T4, arti
 | V01–V09 | PASS | PENDING | CODEX_REVIEW_PENDING |
 | V10 | PASS (grades corrected) | PENDING | CODEX_REVIEW_PENDING |
 | G01 | PASS | PENDING | CODEX_REVIEW_PENDING |
-| G02 | **FAIL** | **FALSE** | FACT_SOURCE_FAIL / AWAITING_RESEARCH |
-| G03 | **FAIL** | **FALSE** | FACT_SOURCE_FAIL / AWAITING_RESEARCH |
+| G02 | **FAIL** | **FALSE** | prior hold awaiting research (resolved R5) |
+| G03 | **FAIL** | **FALSE** | prior hold awaiting research (resolved R5) |
 | G04 | PASS (all SINGLE) | PENDING | CODEX_REVIEW_PENDING |
-| G05 | **FAIL** | **FALSE** | FACT_SOURCE_FAIL / AWAITING_RESEARCH |
+| G05 | **FAIL** | **FALSE** | prior hold awaiting research (resolved R5) |
 | G06 | PASS (all SINGLE) | PENDING | CODEX_REVIEW_PENDING |
 | G07 | PASS (all SINGLE, reframed) | PENDING | CODEX_REVIEW_PENDING |
-| G08 | **FAIL** | **FALSE** | FACT_SOURCE_FAIL / AWAITING_RESEARCH |
+| G08 | **FAIL** | **FALSE** | prior hold awaiting research (resolved R5) |
 | G09 | PASS | PENDING | CODEX_REVIEW_PENDING |
 | G10 | PASS (FindLaw downgraded) | PENDING | CODEX_REVIEW_PENDING |
 

@@ -55,6 +55,29 @@ No static export price is published. The RMB 99,800 Chinese starting figure is a
 **Is the overseas Dolphin identical to the China car?** It shares the name and platform lineage, but battery, certified range and equipment differ by market; do not treat them as 1:1 equivalents without BYD confirmation.
 **Does a Chinese Dolphin charge abroad without modification?** Verify the GB/T inlet against destination infrastructure on the VIN; an adapter alone may not resolve protocol differences.
 
+## Image Record
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-05
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — BYD Dolphin, battery-electric vehicle
+  - **FR**: Référence AutoBridge pour acheteurs export — BYD Dolphin, véhicule 100 % électrique
+  - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Dolphin, batterieelektrisches Fahrzeug
+  - **ES**: Referencia AutoBridge para compradores de exportación — BYD Dolphin, vehículo 100 % eléctrico
+  - **PT**: Referência AutoBridge para compradores de exportação — BYD Dolphin, veículo 100 % elétrico
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜BYD Dolphin, 純電気自動車
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜BYD Dolphin, 순수 전기차
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — BYD Dolphin, xe thuần điện
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — BYD Dolphin, รถยนต์ไฟฟ้า 100%
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — BYD Dolphin, kendaraan listrik murni
+  - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Dolphin, مركبة كهربائية بالبطارية
+  - **ZH**: AutoBridge 出口采购参考｜BYD Dolphin, 纯电动车
+
 ## Sources & Verification
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
@@ -62,6 +85,12 @@ No static export price is published. The RMB 99,800 Chinese starting figure is a
 | Dolphin powertrain/battery/range | PCauto encyclopedia | CN | https://m.pcauto.com.cn/baike/1551886/ | 2026-09-03 | CROSS_CHECKED | 60.48 kWh, 150 kW/310 N·m, 520 CLTC |
 | Dolphin 1,000,000th unit (dimensions) | NetEase Auto | CN | https://www.163.com/dy/article/KH3NHD5F0552EGI8.html | 2026-09-03 | CROSS_CHECKED | 4125/4150 × 1770 × 1570, wheelbase 2700 |
 | 2025 Dolphin DiPilot | Xincheping / Toutiao | CN | http://m.toutiao.com/group/7389115620090053159/ | 2026-09-03 | SINGLE_SOURCE | ACC/AEB/LDA feature description |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 38031 traction battery safety requirements (GB 38031-2025; new type applications mandatory from 2026-07-01) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFIED | Mandatory traction-battery safety requirement basis for the electrified powertrain |
+| GB 18384 electric vehicle safety requirements (GB 18384-2025) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VERIFIED | Electric-vehicle electrical/functional safety requirement basis |
+
 *Confidence note: no BYD primary spec PDF was captured in this package; values are cross-checked Chinese database/media reports. CLTC figures are China-cycle only and are not equated to overseas WLTP/NEDC; same-name overseas Dolphins are treated as distinct market builds.*
 
 ## Editorial Review
@@ -70,3 +99,4 @@ No static export price is published. The RMB 99,800 Chinese starting figure is a
 - **Reference market**: China, 2025 Dolphin (Chinese-market reference; overseas same-name builds kept separate)
 - **Verification method**: Multi-source cross-check; range cycle and market scope kept distinct per MODEL_ALIAS / SOURCE_SCOPE rules
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off
+#AutoBridge #VehicleExport #BYD #Dolphin #ElectricHatchback

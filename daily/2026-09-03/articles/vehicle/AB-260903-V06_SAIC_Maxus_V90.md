@@ -55,6 +55,29 @@ No static export price and no China MSRP were captured in this research package;
 **Which gearboxes are offered?** A 6-speed automatic or a ZF 8-speed automatic, depending on grade.
 **Why must I quote a model code?** Wheelbase, roof, seats, axle and GVW differ across homologated V90 configurations; only the code fixes the specification.
 
+## Image Record
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-05
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — SAIC Maxus Xintu V90, petrol/diesel Chinese-market vehicle / cargo van
+  - **FR**: Référence AutoBridge pour acheteurs export — SAIC Maxus Xintu V90, véhicule thermique (marché chinois) / fourgon
+  - **DE**: AutoBridge-Referenz für Exportkäufer — SAIC Maxus Xintu V90, Verbrenner (chinesischer Markt) / Kastenwagen
+  - **ES**: Referencia AutoBridge para compradores de exportación — SAIC Maxus Xintu V90, vehículo de combustión (mercado chino) / furgoneta de carga
+  - **PT**: Referência AutoBridge para compradores de exportação — SAIC Maxus Xintu V90, veículo a combustão (mercado chinês) / furgão de carga
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜SAIC Maxus Xintu V90, 中国市場仕様 内燃機関車 / 貨物バン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜SAIC Maxus Xintu V90, 중국 시장 내연기관 차량 / 카고 밴
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — SAIC Maxus Xintu V90, xe động cơ đốt trong (thị trường Trung Quốc) / xe van chở hàng
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — SAIC Maxus Xintu V90, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถตู้บรรทุก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — SAIC Maxus Xintu V90, kendaraan mesin pembakaran (pasar Tiongkok) / van kargo
+  - **AR**: مرجع AutoBridge لمشتري التصدير — SAIC Maxus Xintu V90, مركبة بمحرك احتراق (سوق الصين) / شاحنة فان للبضائع
+  - **ZH**: AutoBridge 出口采购参考｜SAIC Maxus Xintu V90, 中国市场燃油车 / 厢式货车
+
 ## Sources & Verification
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
@@ -62,6 +85,11 @@ No static export price and no China MSRP were captured in this research package;
 | SAIC π 2.0T diesel power lineage | PCauto encyclopedia | CN | http://m.pcauto.com.cn/baike/806544/1579332/ | 2026-09-03 | CROSS_CHECKED | 110/130 kW, 375 N·m, RWD, dual rear wheel |
 | V90 2025 130 kW / 420 N·m | 16888 Auto | CN | https://m.16888.com/news/2026/0728/24803230.html | 2026-09-03 | CROSS_CHECKED | 130 kW/420 N·m, ZF 8AT, 9–15 seats (seats single-source) |
 | Xintu V90 2024 parameters | Sina Auto database | CN | http://db.auto.sina.cn/car/71018/ | 2026-09-03 | CROSS_CHECKED | 5498/2062/2545, wheelbases 3366/3760 |
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
+
 *Confidence note: no SAIC Maxus primary spec sheet was captured; values are cross-checked Chinese databases, seat count is single-source and bound to the homologated model code. No price was available and none is asserted. Destination approval is configuration-specific.*
 
 ## Editorial Review
@@ -70,3 +98,4 @@ No static export price and no China MSRP were captured in this research package;
 - **Reference market**: China, Xintu V90 platform (Chinese-market reference; configuration-specific)
 - **Verification method**: Multi-database cross-check; configuration-matrix logic; single-source seats flagged
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off
+#AutoBridge #VehicleExport #SAICMaxus #V90 #DieselVan

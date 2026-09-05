@@ -53,6 +53,7 @@ As a Chinese-market petrol car, the UNI-V is engineered and certified to Chinese
 ## What AutoBridge Adds Beyond the Configurator
 Config tables list engines and grades but hide the pairing that causes order errors. AutoBridge binds **engine and gearbox as a pair** (1.5T→7DCT, 2.0T→8AT) on the VIN build sheet, records the **grade-specific body length** so documents do not cite one length for a different grade, and flags where a China-certified petrol calibration still needs a destination emission/fuel decision before deposit.
 ## Ordering and Pre-Payment Verification
+- Confirm the driven-axle layout on the MIIT certificate for the exact trim: the captured reference data does not state drive configuration, so do not assume front-wheel drive simply from the sport-sedan segment.
 
 - Record engine (1.5T vs 2.0T) **and** transmission (7DCT vs 8AT) — they are paired, not interchangeable.
 - Capture the exact grade and its length variant; confirm equipment against a line-item build sheet.
@@ -76,6 +77,29 @@ There is no static AutoBridge export price. The RMB 108,900–139,900 Chinese gu
 
 **Can I assume the China car meets my country's emission standard?** No — emission compliance, fuel grade and warranty must be verified for the destination market before ordering.
 
+## Image Record
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-05
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Changan UNI-V, petrol/diesel Chinese-market vehicle / sedan
+  - **FR**: Référence AutoBridge pour acheteurs export — Changan UNI-V, véhicule thermique (marché chinois) / berline
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Changan UNI-V, Verbrenner (chinesischer Markt) / Limousine
+  - **ES**: Referencia AutoBridge para compradores de exportación — Changan UNI-V, vehículo de combustión (mercado chino) / berlina
+  - **PT**: Referência AutoBridge para compradores de exportação — Changan UNI-V, veículo a combustão (mercado chinês) / sedã
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Changan UNI-V, 中国市場仕様 内燃機関車 / セダン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Changan UNI-V, 중국 시장 내연기관 차량 / 세단
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Changan UNI-V, xe động cơ đốt trong (thị trường Trung Quốc) / sedan
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Changan UNI-V, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถเก๋งซีดาน
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Changan UNI-V, kendaraan mesin pembakaran (pasar Tiongkok) / sedan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Changan UNI-V, مركبة بمحرك احتراق (سوق الصين) / سيدان
+  - **ZH**: AutoBridge 出口采购参考｜Changan UNI-V, 中国市场燃油车 / 轿车
+
 ## Sources & Verification
 
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
@@ -95,3 +119,4 @@ There is no static AutoBridge export price. The RMB 108,900–139,900 Chinese gu
 - **Reference market**: China, 2024 model year (evergreen model page; export UNI-V governed by destination sheets)
 - **Verification method**: Brand-official pages cross-matched with independent databases; single-source items labelled
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS (evergreen URL) · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off
+#AutoBridge #VehicleExport #Changan #UNIV #PetrolSedan

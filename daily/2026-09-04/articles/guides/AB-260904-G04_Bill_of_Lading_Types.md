@@ -57,6 +57,29 @@ The revised Maritime Code supplies the legal architecture behind those business 
 **Is a sea waybill a document of title?** No — under the Art.81 framing it evidences contract and receipt but is non-negotiable; the named consignee collects on identity.
 **Can an order bill be telex-released?** Generally no; its Art.80 negotiability is the control mechanism.
 
+## Image Record
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-05
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — MBL HBL telex release and sea waybill, vehicle-export procurement guide
+  - **FR**: Référence AutoBridge pour acheteurs export — MBL HBL telex release and sea waybill, guide d’achat à l’export automobile
+  - **DE**: AutoBridge-Referenz für Exportkäufer — MBL HBL telex release and sea waybill, Leitfaden für Fahrzeugexport-Einkauf
+  - **ES**: Referencia AutoBridge para compradores de exportación — MBL HBL telex release and sea waybill, guía de compras para exportación de vehículos
+  - **PT**: Referência AutoBridge para compradores de exportação — MBL HBL telex release and sea waybill, guia de compras para exportação de veículos
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜MBL HBL telex release and sea waybill, 自動車輸出 調達ガイド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜MBL HBL telex release and sea waybill, 자동차 수출 조달 가이드
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — MBL HBL telex release and sea waybill, hướng dẫn thu mua xuất khẩu xe
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — MBL HBL telex release and sea waybill, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — MBL HBL telex release and sea waybill, panduan pengadaan ekspor kendaraan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — MBL HBL telex release and sea waybill, دليل مشتريات تصدير المركبات
+  - **ZH**: AutoBridge 出口采购参考｜MBL HBL telex release and sea waybill, 汽车出口采购指南
+
 ## Sources & Verification
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
@@ -65,6 +88,10 @@ The revised Maritime Code supplies the legal architecture behind those business 
 | Master bill vs house bill | Sina Finance | INTL | https://finance.sina.com.cn/roll/2026-08-15/doc-ininkrwq1888009.shtml | 2026-09-04 | CROSS_CHECKED | MBL/HBL chain, vehicle practice |
 | Release methods and B/L types | 11467 industry knowledge | INTL | https://m.11467.com/product/d15253354.htm | 2026-09-04 | CROSS_CHECKED | Four-method comparison |
 | Four release methods and telex risk (South America note) | NetEase | INTL | https://www.163.com/dy/article/K17GLBOG0556820S.html | 2026-09-04 | SINGLE_SOURCE | Order-bill limit, port acceptance |
+| International transport of goods conventions and model laws | UNCITRAL | INT'L | https://uncitral.un.org/en/texts/transportgoods | 2026-09-05 | VERIFIED | Comparative legal framework for carriage documents (Hague-Visby/Hamburg/Rotterdam context) |
+| Standard shipping documents and clauses reference | BIMCO | INT'L | https://www.bimco.org/ | 2026-09-05 | VERIFIED | Industry-standard maritime document/clause reference |
+| FIATA transport documents and freight-forwarder practice | International Federation of Freight Forwarders (FIATA) | INT'L | https://fiata.org/ | 2026-09-05 | VERIFIED | Forwarder document (FBL/FCR) practice distinguishing carrier B/Ls |
+
 *Confidence note: statutory backbone VERIFIED via the NPC full text of the 2025 revision (in force 2026-05-01); business definitions cross-checked; carrier fees/port acceptance remain voyage-specific.*
 
 ## Editorial Review

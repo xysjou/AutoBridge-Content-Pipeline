@@ -58,6 +58,7 @@ With a 3070 mm (Grandmaster/Master) wheelbase in a 5.2-metre body, the M8 is con
 ## What AutoBridge Adds Beyond the Brochure
 MPV buyers are sold a "luxury seven-seater" label that hides three different series and seat layouts. This guide recommends recording the **series-specific wheelbase and torque calibration (400 vs 390 N·m)** on the order, preparing a **line-item second-row seat-equipment list** (ventilation/heating/massage, leg rests, powered doors) so trim is not mis-substituted, and comparing the Chinese build against GAC's **overseas M8 sheet** before deposit rather than copying China dimensions onto an export VIN.
 ## Pre-Payment Checklist
+- Seating defines this MPV, but drive configuration still matters for registration — read the driven axle off the homologation certificate rather than assuming a layout from the business-MPV class.
 
 1. Record the exact series (Grandmaster/Master/Lingxiu) and grade; attach the matching dimensions and 400 vs 390 N·m calibration.
 2. Confirm seating layout (7-seat vs 4-seat) and second-row seat functions line by line.
@@ -81,6 +82,29 @@ AutoBridge issues live quotations rather than a static price list. Chinese domes
 
 **Does GAC sell the M8 overseas?** Yes, GAC Group lists an overseas GAC M8 (including Middle-East markets); use that official export configuration and confirm LHD/RHD for your country.
 
+## Image Record
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-05
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — GAC Trumpchi M8, petrol/diesel Chinese-market vehicle / MPV
+  - **FR**: Référence AutoBridge pour acheteurs export — GAC Trumpchi M8, véhicule thermique (marché chinois) / MPV
+  - **DE**: AutoBridge-Referenz für Exportkäufer — GAC Trumpchi M8, Verbrenner (chinesischer Markt) / Van (MPV)
+  - **ES**: Referencia AutoBridge para compradores de exportación — GAC Trumpchi M8, vehículo de combustión (mercado chino) / monovolumen
+  - **PT**: Referência AutoBridge para compradores de exportação — GAC Trumpchi M8, veículo a combustão (mercado chinês) / minivan
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜GAC Trumpchi M8, 中国市場仕様 内燃機関車 / MPV
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜GAC Trumpchi M8, 중국 시장 내연기관 차량 / MPV
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — GAC Trumpchi M8, xe động cơ đốt trong (thị trường Trung Quốc) / MPV
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — GAC Trumpchi M8, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถ MPV
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — GAC Trumpchi M8, kendaraan mesin pembakaran (pasar Tiongkok) / MPV
+  - **AR**: مرجع AutoBridge لمشتري التصدير — GAC Trumpchi M8, مركبة بمحرك احتراق (سوق الصين) / سيارة عائلية
+  - **ZH**: AutoBridge 出口采购参考｜GAC Trumpchi M8, 中国市场燃油车 / MPV
+
 ## Sources & Verification
 
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
@@ -100,3 +124,4 @@ AutoBridge issues live quotations rather than a static price list. Chinese domes
 - **Reference market**: China model (evergreen model page; overseas GAC M8 exists and the destination sheet governs export builds)
 - **Verification method**: Official GAC pages plus independent-database cross-check; series-specific figures kept distinct
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS (evergreen URL) · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off
+#AutoBridge #VehicleExport #GACTrumpchi #M8 #BusinessMPV

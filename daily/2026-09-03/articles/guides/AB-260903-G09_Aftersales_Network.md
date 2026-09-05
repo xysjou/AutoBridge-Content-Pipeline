@@ -51,6 +51,29 @@ A warranty is only credible to the extent the network can honour it:
 **Is after-sales a compliance matter in China?** Policy guidance directs exporters, OEMs and importers to jointly provide after-sales, parts and technical support.
 **How is this different from a "buying spare parts" guide?** That covers sourcing parts in China; this covers operating the service/parts/warranty capability in the destination market.
 
+## Image Record
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-05
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — Overseas after-sales parts and warranty network, vehicle-export procurement guide
+  - **FR**: Référence AutoBridge pour acheteurs export — Overseas after-sales parts and warranty network, guide d’achat à l’export automobile
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Overseas after-sales parts and warranty network, Leitfaden für Fahrzeugexport-Einkauf
+  - **ES**: Referencia AutoBridge para compradores de exportación — Overseas after-sales parts and warranty network, guía de compras para exportación de vehículos
+  - **PT**: Referência AutoBridge para compradores de exportação — Overseas after-sales parts and warranty network, guia de compras para exportação de veículos
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Overseas after-sales parts and warranty network, 自動車輸出 調達ガイド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Overseas after-sales parts and warranty network, 자동차 수출 조달 가이드
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Overseas after-sales parts and warranty network, hướng dẫn thu mua xuất khẩu xe
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Overseas after-sales parts and warranty network, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Overseas after-sales parts and warranty network, panduan pengadaan ekspor kendaraan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Overseas after-sales parts and warranty network, دليل مشتريات تصدير المركبات
+  - **ZH**: AutoBridge 出口采购参考｜Overseas after-sales parts and warranty network, 汽车出口采购指南
+
 ## Sources & Verification
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
@@ -60,9 +83,13 @@ A warranty is only credible to the extent the network can honour it:
 | Parts going global must be systematised | Beijing News | Global | https://m.bjnews.com.cn/detail/1779683581168283.html | 2026-09-03 | CROSS_CHECKED | "Heavy sales, light service" weakness; delegation risk |
 *Scope note: the policy expectation is official; network models and the Australia warehouse/warranty items are single-company industry examples used illustratively, not presented as universal standards. This guide addresses service operation and is kept distinct from the spare-parts procurement cluster.*
 
+| Provisions on Liability for Repair/Replacement/Return of Household Auto Products (SAMR Order No.43) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_6be7658b4a754005b6c6c25f137076ee.html | 2026-09-05 | VERIFIED | Domestic warranty (san-bao) baseline that overseas after-sales terms must be distinguished from |
+| China Council for the Promotion of International Trade (trade-service network) | CCPIT | CN/INT'L | http://www.ccpit.org/ | 2026-09-05 | VERIFIED | Institutional channels supporting overseas service-network build-out |
+
 ## Editorial Review
 - **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
 - **Last reviewed**: 2026-09-03
 - **Reference market / scope**: Global after-sales operations (distinct from parts procurement)
 - **Verification method**: Official policy + industry analysis; company examples labelled illustrative; scope boundary enforced
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off
+#AutoBridge #AfterSalesNetwork #PartsSupply #Warranty #OverseasService

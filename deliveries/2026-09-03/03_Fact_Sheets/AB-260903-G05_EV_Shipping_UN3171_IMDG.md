@@ -1,3 +1,5 @@
+> ⛔ SUPERSEDED 2026-09-04: basis was IMDG 40-20 / blanket-UN3171. Replaced by AB-260903-G05_EV_Shipping_IMDG42-24_UN3556.md (IMDG 42-24, mandatory 2026-01-01; UN3556/3557/3558, SP961/962). Do not use this sheet for current facts.
+
 # RESEARCH SHEET — AB-260903-G05
 
 ARTICLE_ID: AB-260903-G05

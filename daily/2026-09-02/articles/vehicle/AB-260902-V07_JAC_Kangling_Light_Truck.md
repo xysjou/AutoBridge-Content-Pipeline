@@ -64,6 +64,29 @@ No China domestic price is promoted to an export figure and none is invented her
 **Why do sources quote different horsepower for "the same" L6?** Because the HFC4DE3 has three suffixes with different power/torque, and resellers sometimes quote one label across all of them; match the suffix on the announcement certificate.
 **What is the GVW and payload?** The captured dropside build is 4.495 t GVW / 1.735 t payload; box and stake builds are heavier with lower payload — read each body's own certificate.
 **Is there an automatic?** The captured diesel uses a JAC 6-speed manual; a Fast 8-speed appears on certain variants — confirm for the exact line rather than assuming.
+## Image Record
+- IMAGE_ASSET_PATH: none secured in repository
+- ORIGINAL_IMAGE_URL: not captured
+- SOURCE_PAGE: not captured
+- RIGHTS_HOLDER: unconfirmed
+- LICENSE: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE: 2026-09-05
+- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- ALT by language:
+  - **EN**: AutoBridge export-buyer reference — JAC Kangling Lingpao L6, petrol/diesel Chinese-market vehicle / light truck
+  - **FR**: Référence AutoBridge pour acheteurs export — JAC Kangling Lingpao L6, véhicule thermique (marché chinois) / camion léger
+  - **DE**: AutoBridge-Referenz für Exportkäufer — JAC Kangling Lingpao L6, Verbrenner (chinesischer Markt) / Leicht-Lkw
+  - **ES**: Referencia AutoBridge para compradores de exportación — JAC Kangling Lingpao L6, vehículo de combustión (mercado chino) / camión ligero
+  - **PT**: Referência AutoBridge para compradores de exportação — JAC Kangling Lingpao L6, veículo a combustão (mercado chinês) / caminhão leve
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜JAC Kangling Lingpao L6, 中国市場仕様 内燃機関車 / 小型トラック
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜JAC Kangling Lingpao L6, 중국 시장 내연기관 차량 / 경트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — JAC Kangling Lingpao L6, xe động cơ đốt trong (thị trường Trung Quốc) / xe tải nhẹ
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — JAC Kangling Lingpao L6, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถบรรทุกขนาดเล็ก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — JAC Kangling Lingpao L6, kendaraan mesin pembakaran (pasar Tiongkok) / truk ringan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — JAC Kangling Lingpao L6, مركبة بمحرك احتراق (سوق الصين) / شاحنة خفيفة
+  - **ZH**: AutoBridge 出口采购参考｜JAC Kangling Lingpao L6, 中国市场燃油车 / 轻卡
+
 ## Sources & Verification
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
@@ -72,9 +95,16 @@ No China domestic price is promoted to an export figure and none is invented her
 | L6 representative dropside parameters | 360che (卡车之家) | CN | http://product.m.360che.com/m815/203878_param.html | 2026-09-02 | CROSS_CHECKED | HFC1043P21K4C7S dimensions, weights, axles, body, tyres |
 | L6 Fast-8 / variant line | 360che (卡车之家) | CN | https://product.360che.com/m772/193093_index.html | 2026-09-03 | SINGLE_SOURCE | Alternative 8-speed gearbox, variant spread |
 *Confidence per the AutoBridge standard: VERIFIED requires a manufacturer/government/standards body; JAC's own table meets that bar for platform facts. Detailed per-announcement weights from 360che are CROSS_CHECKED against the JAC family but still must be matched to the exact certificate. No price is stated; domestic list price is time-sensitive and never used as an export figure.*
+| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
+| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
+
 ## Editorial Review
 - **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · editorial method per our [Editorial Policy](/editorial-policy/)
 - **Last reviewed**: 2026-09-02 · **R3 (2026-09-03): internal links set to live /authors/ and /editorial-policy/ paths; operations claims framed as recommended/editorial method** · **Second-round source revision**: 2026-09-03 (JAC-official source added; single-config framing corrected to a multi-announcement family)
 - **Reference market**: China current-sale/announcement configuration (not a passenger model year)
 - **Verification method**: Manufacturer-official platform table + commercial-vehicle announcement database; per-build figures matched to announcement model; price intentionally omitted
 - **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS (JAC-official anchor added) · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off
+#AutoBridge #VehicleExport #JAC #Kangling #LightTruck
