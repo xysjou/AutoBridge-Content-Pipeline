@@ -1,0 +1,24 @@
+{
+ "RESEARCH_PATCH_APPLIED": true,
+ "RESEARCH_PATCH_ARTICLES": [
+  "AB-260902-V01",
+  "AB-260903-V02"
+ ],
+ "PATCH_AUTHORITY": "CONTROLLED_RESEARCH_PATCH (writing-stage, authorized)",
+ "FINAL_RESEARCH_BASELINE_COMMIT_SHA": "dd37e45f47dd3f0d6f10ce300f9871a0e990f8dd",
+ "SOURCE_COUNT_GATE": "60/60 meet SOURCE_URL_COUNT>=6 AND normalized SOURCE_ORG_COUNT>=4 (same-org multi-page merged)",
+ "PATCH_DETAIL": {
+  "AB-260902-V01": "BYD CN official model hub (identity/generation scope) + independent same-fact cross-check for 2024 Glory numbers; Fact Sheet & Source Log written back",
+  "AB-260903-V02": "BYD CN official 2025 Dolphin + DiPilot pages (identity scope) + >=2 independent sources per numeric fact; Fact Sheet & Source Log written back"
+ },
+ "MAJOR_CONFLICT_ESCALATIONS": [],
+ "IMAGE_PATCH": "No OEM/library asset with verifiable commercial licence; IMAGE_RIGHTS_STATUS=FAIL for 60, not fabricated",
+ "BOUNDARIES_RESPECTED": [
+  "FACTS_ALLOWED_IN_BODY",
+  "FACTS_NOT_ALLOWED_IN_BODY",
+  "BLOCKED_FACTS unchanged; no parameter/market/year/version invented"
+ ],
+ "REVIEW_PASS": false,
+ "PUBLISH_APPROVED": false,
+ "HUMAN_REVIEWED": false
+}

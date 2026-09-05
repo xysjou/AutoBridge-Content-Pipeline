@@ -370,5 +370,6 @@
  "SOURCE_SCOPE_PASS": 58,
  "SOURCE_SCOPE_CONDITIONAL": 2,
  "SOURCE_SCOPE_FAIL": 0,
- "NEEDS_RESEARCH": 0
+ "NEEDS_RESEARCH": 0,
+ "NORMALIZED_ORG_GATE": "60/60 PASS (same organization multiple pages counted once)"
 }

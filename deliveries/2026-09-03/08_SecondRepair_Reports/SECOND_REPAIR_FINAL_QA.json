@@ -315,5 +315,8 @@
   "IMAGE_RIGHTS_FAIL": 20
  },
  "PUBLISH_APPROVED": false,
- "CODEX_ELIGIBLE": false
+ "CODEX_ELIGIBLE": false,
+ "RESEARCH_PATCH_APPLIED": true,
+ "SOURCE_COUNT_GATE": "all articles URL>=6 & normalized org>=4",
+ "FINAL_RESEARCH_BASELINE_COMMIT_SHA": "dd37e45f47dd3f0d6f10ce300f9871a0e990f8dd"
 }
