@@ -1,0 +1,210 @@
+{
+  "audit_at": "2026-09-05T15:21:22.418Z",
+  "content_key": "vehicles/kia-sorento-global-search-2026",
+  "publish_approved": false,
+  "pages": [
+    {
+      "url": "https://www.autobridgeexport.com/vehicles/kia-sorento-global-search-2026.html",
+      "language": "en",
+      "page_type": "vehicles",
+      "title": "Choose the Right 2026 Kia Sorento Powertrain",
+      "content_key": "vehicles/kia-sorento-global-search-2026",
+      "current_source": true,
+      "local_page": "en/vehicles/kia-sorento-global-search-2026.html",
+      "local_page_sha256": "89d25256819c04dc532fc9efa8767b6cb34b7916dcc4fc58392170eef2bc9f7e",
+      "source_file": "content/vehicles/kia-sorento-global-search-2026.json",
+      "source_sha256": "f410e5ac31c76fc37e65cca5fc99a0946c2e7b3cf4734c09cb58b4e24bc81939",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://fr.autobridgeexport.com/vehicles/kia-sorento-global-search-2026.html",
+      "language": "fr",
+      "page_type": "vehicles",
+      "title": "Kia Sorento 2026: Profil acheteur export",
+      "content_key": "vehicles/kia-sorento-global-search-2026",
+      "current_source": true,
+      "local_page": "fr/vehicles/kia-sorento-global-search-2026.html",
+      "local_page_sha256": "fb29c942175fea91d13156c0e3b3c7921252f01dc1252f51b9fd4cb2c6b01012",
+      "source_file": "content/vehicles/kia-sorento-global-search-2026.json",
+      "source_sha256": "f410e5ac31c76fc37e65cca5fc99a0946c2e7b3cf4734c09cb58b4e24bc81939",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://de.autobridgeexport.com/vehicles/kia-sorento-global-search-2026.html",
+      "language": "de",
+      "page_type": "vehicles",
+      "title": "Kia Sorento 2026: Exportkäufer-Profil",
+      "content_key": "vehicles/kia-sorento-global-search-2026",
+      "current_source": true,
+      "local_page": "de/vehicles/kia-sorento-global-search-2026.html",
+      "local_page_sha256": "ad5417aab175f9002ad4d2b1a7f93669251a2d053d20a897f3cdf4135e2fdee9",
+      "source_file": "content/vehicles/kia-sorento-global-search-2026.json",
+      "source_sha256": "f410e5ac31c76fc37e65cca5fc99a0946c2e7b3cf4734c09cb58b4e24bc81939",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://es.autobridgeexport.com/vehicles/kia-sorento-global-search-2026.html",
+      "language": "es",
+      "page_type": "vehicles",
+      "title": "Kia Sorento 2026: Perfil para comprador exportador",
+      "content_key": "vehicles/kia-sorento-global-search-2026",
+      "current_source": true,
+      "local_page": "es/vehicles/kia-sorento-global-search-2026.html",
+      "local_page_sha256": "0fcb5393b8e7f4a1592a005e5db8fdead09486aa967dca26fe9bae4fa4d48999",
+      "source_file": "content/vehicles/kia-sorento-global-search-2026.json",
+      "source_sha256": "f410e5ac31c76fc37e65cca5fc99a0946c2e7b3cf4734c09cb58b4e24bc81939",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://pt.autobridgeexport.com/vehicles/kia-sorento-global-search-2026.html",
+      "language": "pt-br",
+      "page_type": "vehicles",
+      "title": "Kia Sorento 2026: Perfil para comprador de exportação",
+      "content_key": "vehicles/kia-sorento-global-search-2026",
+      "current_source": true,
+      "local_page": "pt-br/vehicles/kia-sorento-global-search-2026.html",
+      "local_page_sha256": "b7b7145dc840d62a18add83585ece0f8b7042f15de7b5841e14ce75dcdde5506",
+      "source_file": "content/vehicles/kia-sorento-global-search-2026.json",
+      "source_sha256": "f410e5ac31c76fc37e65cca5fc99a0946c2e7b3cf4734c09cb58b4e24bc81939",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ja.autobridgeexport.com/vehicles/kia-sorento-global-search-2026.html",
+      "language": "ja",
+      "page_type": "vehicles",
+      "title": "Kia Sorento 2026: 輸出購入者向けプロフィール",
+      "content_key": "vehicles/kia-sorento-global-search-2026",
+      "current_source": true,
+      "local_page": "ja/vehicles/kia-sorento-global-search-2026.html",
+      "local_page_sha256": "8f4fea5fba1b49a61f64d597857dc4af434031dd155282f37b556c749eefd33f",
+      "source_file": "content/vehicles/kia-sorento-global-search-2026.json",
+      "source_sha256": "f410e5ac31c76fc37e65cca5fc99a0946c2e7b3cf4734c09cb58b4e24bc81939",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://zh.autobridgeexport.com/vehicles/kia-sorento-global-search-2026.html",
+      "language": "zh",
+      "page_type": "vehicles",
+      "title": "2026 Kia Sorento出口采购：先决定汽油、HEV还是PHEV",
+      "content_key": "vehicles/kia-sorento-global-search-2026",
+      "current_source": true,
+      "local_page": "zh/vehicles/kia-sorento-global-search-2026.html",
+      "local_page_sha256": "4ae07293ff9f4d12de0e59c0fa2d9ef18965bae8f1b61bd9c791fe8bb0d68724",
+      "source_file": "content/vehicles/kia-sorento-global-search-2026.json",
+      "source_sha256": "f410e5ac31c76fc37e65cca5fc99a0946c2e7b3cf4734c09cb58b4e24bc81939",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    }
+  ]
+}

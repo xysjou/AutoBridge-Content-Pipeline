@@ -1,0 +1,209 @@
+{
+  "audit_at": "2026-09-05T15:21:22.418Z",
+  "content_key": "vehicles/hyundai-santa-fe-global-search-2026",
+  "publish_approved": false,
+  "pages": [
+    {
+      "url": "https://www.autobridgeexport.com/vehicles/hyundai-santa-fe-global-search-2026.html",
+      "language": "en",
+      "page_type": "vehicles",
+      "title": "2026 Hyundai Santa Fe export buyer profile: identify the market first",
+      "content_key": "vehicles/hyundai-santa-fe-global-search-2026",
+      "current_source": true,
+      "local_page": "en/vehicles/hyundai-santa-fe-global-search-2026.html",
+      "local_page_sha256": "f8ed3b3389cb87d5dc6aff1e26fde41f38b8567be29da163f2119bcb410dbf45",
+      "source_file": "content/vehicles/hyundai-santa-fe-global-search-2026.json",
+      "source_sha256": "376ed5d1f53e4fac7076b53ee17c1c8c68bc4fe9ec901090bcf19ae96e67f551",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://fr.autobridgeexport.com/vehicles/hyundai-santa-fe-global-search-2026.html",
+      "language": "fr",
+      "page_type": "vehicles",
+      "title": "Hyundai Santa Fe 2026 à l’export : identifier d’abord le marché",
+      "content_key": "vehicles/hyundai-santa-fe-global-search-2026",
+      "current_source": true,
+      "local_page": "fr/vehicles/hyundai-santa-fe-global-search-2026.html",
+      "local_page_sha256": "0a7adceaaf8d5b53855b1d6fc9eed6f59723d0716ea1f9613d28a826fcdd8e8c",
+      "source_file": "content/vehicles/hyundai-santa-fe-global-search-2026.json",
+      "source_sha256": "376ed5d1f53e4fac7076b53ee17c1c8c68bc4fe9ec901090bcf19ae96e67f551",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://de.autobridgeexport.com/vehicles/hyundai-santa-fe-global-search-2026.html",
+      "language": "de",
+      "page_type": "vehicles",
+      "title": "Hyundai Santa Fe 2026 für den Export: zuerst den Markt bestimmen",
+      "content_key": "vehicles/hyundai-santa-fe-global-search-2026",
+      "current_source": true,
+      "local_page": "de/vehicles/hyundai-santa-fe-global-search-2026.html",
+      "local_page_sha256": "4c65590f276da89f83efcb45115f021c6f51eace9a292a3c94199da33253df51",
+      "source_file": "content/vehicles/hyundai-santa-fe-global-search-2026.json",
+      "source_sha256": "376ed5d1f53e4fac7076b53ee17c1c8c68bc4fe9ec901090bcf19ae96e67f551",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://es.autobridgeexport.com/vehicles/hyundai-santa-fe-global-search-2026.html",
+      "language": "es",
+      "page_type": "vehicles",
+      "title": "Hyundai Santa Fe 2026 para exportación: primero identifique el mercado",
+      "content_key": "vehicles/hyundai-santa-fe-global-search-2026",
+      "current_source": true,
+      "local_page": "es/vehicles/hyundai-santa-fe-global-search-2026.html",
+      "local_page_sha256": "905dab784d7afeeabdfac9ff6198fbe4d22e847a19ce933690b01a8665228d8f",
+      "source_file": "content/vehicles/hyundai-santa-fe-global-search-2026.json",
+      "source_sha256": "376ed5d1f53e4fac7076b53ee17c1c8c68bc4fe9ec901090bcf19ae96e67f551",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://pt.autobridgeexport.com/vehicles/hyundai-santa-fe-global-search-2026.html",
+      "language": "pt-br",
+      "page_type": "vehicles",
+      "title": "Hyundai Santa Fe 2026 para exportação: identifique primeiro o mercado",
+      "content_key": "vehicles/hyundai-santa-fe-global-search-2026",
+      "current_source": true,
+      "local_page": "pt-br/vehicles/hyundai-santa-fe-global-search-2026.html",
+      "local_page_sha256": "1712875ece49de1db611d277f8c3d3f69502ac9ae8a95c6e7c7fe89bad370ea5",
+      "source_file": "content/vehicles/hyundai-santa-fe-global-search-2026.json",
+      "source_sha256": "376ed5d1f53e4fac7076b53ee17c1c8c68bc4fe9ec901090bcf19ae96e67f551",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ja.autobridgeexport.com/vehicles/hyundai-santa-fe-global-search-2026.html",
+      "language": "ja",
+      "page_type": "vehicles",
+      "title": "2026年型ヒョンデ・サンタフェ輸出購入ガイド：最初に市場を特定",
+      "content_key": "vehicles/hyundai-santa-fe-global-search-2026",
+      "current_source": true,
+      "local_page": "ja/vehicles/hyundai-santa-fe-global-search-2026.html",
+      "local_page_sha256": "ace87ea4cd1160ccd0e1761106a22defaeb34d9fabebd51e5a53e02767ee260f",
+      "source_file": "content/vehicles/hyundai-santa-fe-global-search-2026.json",
+      "source_sha256": "376ed5d1f53e4fac7076b53ee17c1c8c68bc4fe9ec901090bcf19ae96e67f551",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://zh.autobridgeexport.com/vehicles/hyundai-santa-fe-global-search-2026.html",
+      "language": "zh",
+      "page_type": "vehicles",
+      "title": "2026款现代胜达出口买家档案：先确认市场版本",
+      "content_key": "vehicles/hyundai-santa-fe-global-search-2026",
+      "current_source": true,
+      "local_page": "zh/vehicles/hyundai-santa-fe-global-search-2026.html",
+      "local_page_sha256": "3fc1509283934097bef656c4e68961eb62a0c390f3ea8c94747b74c8af596824",
+      "source_file": "content/vehicles/hyundai-santa-fe-global-search-2026.json",
+      "source_sha256": "376ed5d1f53e4fac7076b53ee17c1c8c68bc4fe9ec901090bcf19ae96e67f551",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    }
+  ]
+}

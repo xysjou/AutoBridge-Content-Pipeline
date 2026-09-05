@@ -1,0 +1,210 @@
+{
+  "audit_at": "2026-09-05T15:21:22.418Z",
+  "content_key": "vehicles/subaru-forester-global-search-2026",
+  "publish_approved": false,
+  "pages": [
+    {
+      "url": "https://www.autobridgeexport.com/vehicles/subaru-forester-global-search-2026.html",
+      "language": "en",
+      "page_type": "vehicles",
+      "title": "Subaru Forester 2026: evidence-led export buyer guide",
+      "content_key": "vehicles/subaru-forester-global-search-2026",
+      "current_source": true,
+      "local_page": "en/vehicles/subaru-forester-global-search-2026.html",
+      "local_page_sha256": "3ef2ae80dc74ffd428761373913a5880ad7eb80b183f82bcafd388454fd02043",
+      "source_file": "content/vehicles/subaru-forester-global-search-2026.json",
+      "source_sha256": "a5196dff188c336b7ea3aa77e822b09478936c5a7cf3f3169d0eae1d20e1f045",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://fr.autobridgeexport.com/vehicles/subaru-forester-global-search-2026.html",
+      "language": "fr",
+      "page_type": "vehicles",
+      "title": "Subaru Forester 2026 : guide d’achat export fondé sur les preuves",
+      "content_key": "vehicles/subaru-forester-global-search-2026",
+      "current_source": true,
+      "local_page": "fr/vehicles/subaru-forester-global-search-2026.html",
+      "local_page_sha256": "ba127b61758ddb39adbab78f9323b2e2edf4860a775182d5435550ab068f30fc",
+      "source_file": "content/vehicles/subaru-forester-global-search-2026.json",
+      "source_sha256": "a5196dff188c336b7ea3aa77e822b09478936c5a7cf3f3169d0eae1d20e1f045",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://de.autobridgeexport.com/vehicles/subaru-forester-global-search-2026.html",
+      "language": "de",
+      "page_type": "vehicles",
+      "title": "Subaru Forester 2026: Export-Kaufratgeber mit Belegen",
+      "content_key": "vehicles/subaru-forester-global-search-2026",
+      "current_source": true,
+      "local_page": "de/vehicles/subaru-forester-global-search-2026.html",
+      "local_page_sha256": "788f9ce92d5245d7c6c84e89f0df72f44a833c3c00d7c337a21d430c725405d1",
+      "source_file": "content/vehicles/subaru-forester-global-search-2026.json",
+      "source_sha256": "a5196dff188c336b7ea3aa77e822b09478936c5a7cf3f3169d0eae1d20e1f045",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://es.autobridgeexport.com/vehicles/subaru-forester-global-search-2026.html",
+      "language": "es",
+      "page_type": "vehicles",
+      "title": "Subaru Forester 2026: guía de compra para exportación con pruebas",
+      "content_key": "vehicles/subaru-forester-global-search-2026",
+      "current_source": true,
+      "local_page": "es/vehicles/subaru-forester-global-search-2026.html",
+      "local_page_sha256": "5f3e94deda8abdcb3b55f5c03d82b487f4248d603063c2901f71b9bf9651f7ac",
+      "source_file": "content/vehicles/subaru-forester-global-search-2026.json",
+      "source_sha256": "a5196dff188c336b7ea3aa77e822b09478936c5a7cf3f3169d0eae1d20e1f045",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://pt.autobridgeexport.com/vehicles/subaru-forester-global-search-2026.html",
+      "language": "pt-br",
+      "page_type": "vehicles",
+      "title": "Subaru Forester 2026: guia de compra para exportação com evidências",
+      "content_key": "vehicles/subaru-forester-global-search-2026",
+      "current_source": true,
+      "local_page": "pt-br/vehicles/subaru-forester-global-search-2026.html",
+      "local_page_sha256": "be1e72fbd6f3d50a0a90885ca2830d30d1d7c8f86de460d917600c00545cf3d1",
+      "source_file": "content/vehicles/subaru-forester-global-search-2026.json",
+      "source_sha256": "a5196dff188c336b7ea3aa77e822b09478936c5a7cf3f3169d0eae1d20e1f045",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ja.autobridgeexport.com/vehicles/subaru-forester-global-search-2026.html",
+      "language": "ja",
+      "page_type": "vehicles",
+      "title": "Subaru Forester 2026年：根拠に基づく輸出購入ガイド",
+      "content_key": "vehicles/subaru-forester-global-search-2026",
+      "current_source": true,
+      "local_page": "ja/vehicles/subaru-forester-global-search-2026.html",
+      "local_page_sha256": "02cc7ecec58a6261e16ddd0a433bf68de24574e647dabe2c61d354f88cb736be",
+      "source_file": "content/vehicles/subaru-forester-global-search-2026.json",
+      "source_sha256": "a5196dff188c336b7ea3aa77e822b09478936c5a7cf3f3169d0eae1d20e1f045",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://zh.autobridgeexport.com/vehicles/subaru-forester-global-search-2026.html",
+      "language": "zh",
+      "page_type": "vehicles",
+      "title": "Subaru Forester 2026：基于证据的出口购车指南",
+      "content_key": "vehicles/subaru-forester-global-search-2026",
+      "current_source": true,
+      "local_page": "zh/vehicles/subaru-forester-global-search-2026.html",
+      "local_page_sha256": "54ffd4746d9914c31f3d398f260698e04c25e6547646b0eb564c95d6b8ec4e5d",
+      "source_file": "content/vehicles/subaru-forester-global-search-2026.json",
+      "source_sha256": "a5196dff188c336b7ea3aa77e822b09478936c5a7cf3f3169d0eae1d20e1f045",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    }
+  ]
+}

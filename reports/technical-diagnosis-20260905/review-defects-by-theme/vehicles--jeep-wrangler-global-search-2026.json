@@ -1,0 +1,208 @@
+{
+  "audit_at": "2026-09-05T15:21:22.418Z",
+  "content_key": "vehicles/jeep-wrangler-global-search-2026",
+  "publish_approved": false,
+  "pages": [
+    {
+      "url": "https://www.autobridgeexport.com/vehicles/jeep-wrangler-global-search-2026.html",
+      "language": "en",
+      "page_type": "vehicles",
+      "title": "2026 Jeep Wrangler export profile: body, engine and VIN first",
+      "content_key": "vehicles/jeep-wrangler-global-search-2026",
+      "current_source": true,
+      "local_page": "en/vehicles/jeep-wrangler-global-search-2026.html",
+      "local_page_sha256": "b7717b536ae5197587c248c7692b9b1c99eda84f868ce960c2377629f7be549c",
+      "source_file": "content/vehicles/jeep-wrangler-global-search-2026.json",
+      "source_sha256": "bbe010af93f7351b0c6ef4f7c8c1258576fc37f1f8bfbaea0b2df8c093ac5655",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://fr.autobridgeexport.com/vehicles/jeep-wrangler-global-search-2026.html",
+      "language": "fr",
+      "page_type": "vehicles",
+      "title": "Jeep Wrangler 2026 à l’export : vérifier carrosserie, moteur et VIN",
+      "content_key": "vehicles/jeep-wrangler-global-search-2026",
+      "current_source": true,
+      "local_page": "fr/vehicles/jeep-wrangler-global-search-2026.html",
+      "local_page_sha256": "74ec5b443fa627cc30cb30ccf4dbb64a55082201a6d37618f006574fce023a75",
+      "source_file": "content/vehicles/jeep-wrangler-global-search-2026.json",
+      "source_sha256": "bbe010af93f7351b0c6ef4f7c8c1258576fc37f1f8bfbaea0b2df8c093ac5655",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://de.autobridgeexport.com/vehicles/jeep-wrangler-global-search-2026.html",
+      "language": "de",
+      "page_type": "vehicles",
+      "title": "Jeep Wrangler 2026 für den Export: Karosserie, Motor und VIN prüfen",
+      "content_key": "vehicles/jeep-wrangler-global-search-2026",
+      "current_source": true,
+      "local_page": "de/vehicles/jeep-wrangler-global-search-2026.html",
+      "local_page_sha256": "fd69000293eceeb328cf17d3ed5a24dee8cba6bb470619bf44c55c3d668838fa",
+      "source_file": "content/vehicles/jeep-wrangler-global-search-2026.json",
+      "source_sha256": "bbe010af93f7351b0c6ef4f7c8c1258576fc37f1f8bfbaea0b2df8c093ac5655",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://es.autobridgeexport.com/vehicles/jeep-wrangler-global-search-2026.html",
+      "language": "es",
+      "page_type": "vehicles",
+      "title": "Jeep Wrangler 2026 para exportación: carrocería, motor y VIN",
+      "content_key": "vehicles/jeep-wrangler-global-search-2026",
+      "current_source": true,
+      "local_page": "es/vehicles/jeep-wrangler-global-search-2026.html",
+      "local_page_sha256": "04e0b198d8089e329a4e7b6d68f56ae57dfe683186afd3e7312d2ed8a5e46f57",
+      "source_file": "content/vehicles/jeep-wrangler-global-search-2026.json",
+      "source_sha256": "bbe010af93f7351b0c6ef4f7c8c1258576fc37f1f8bfbaea0b2df8c093ac5655",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://pt.autobridgeexport.com/vehicles/jeep-wrangler-global-search-2026.html",
+      "language": "pt-br",
+      "page_type": "vehicles",
+      "title": "Jeep Wrangler 2026 para exportação: carroceria, motor e VIN",
+      "content_key": "vehicles/jeep-wrangler-global-search-2026",
+      "current_source": true,
+      "local_page": "pt-br/vehicles/jeep-wrangler-global-search-2026.html",
+      "local_page_sha256": "5d37b2126d7cc17e713ce4ec632ae6568140257abfc7a30e72f0ef650d59be40",
+      "source_file": "content/vehicles/jeep-wrangler-global-search-2026.json",
+      "source_sha256": "bbe010af93f7351b0c6ef4f7c8c1258576fc37f1f8bfbaea0b2df8c093ac5655",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ja.autobridgeexport.com/vehicles/jeep-wrangler-global-search-2026.html",
+      "language": "ja",
+      "page_type": "vehicles",
+      "title": "2026年型ジープ・ラングラー輸出確認：ボディ、エンジン、VIN",
+      "content_key": "vehicles/jeep-wrangler-global-search-2026",
+      "current_source": true,
+      "local_page": "ja/vehicles/jeep-wrangler-global-search-2026.html",
+      "local_page_sha256": "984ceda03cfa4b458cc30a4c9f6a20c2139104c912a091dbddcc51493e4784af",
+      "source_file": "content/vehicles/jeep-wrangler-global-search-2026.json",
+      "source_sha256": "bbe010af93f7351b0c6ef4f7c8c1258576fc37f1f8bfbaea0b2df8c093ac5655",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://zh.autobridgeexport.com/vehicles/jeep-wrangler-global-search-2026.html",
+      "language": "zh",
+      "page_type": "vehicles",
+      "title": "2026款 Jeep Wrangler 出口档案：先核车身、动力与 VIN",
+      "content_key": "vehicles/jeep-wrangler-global-search-2026",
+      "current_source": true,
+      "local_page": "zh/vehicles/jeep-wrangler-global-search-2026.html",
+      "local_page_sha256": "95bd5bc1e478775b23661650c43f7346e1501c604a6b992c92095202e7fb07a7",
+      "source_file": "content/vehicles/jeep-wrangler-global-search-2026.json",
+      "source_sha256": "bbe010af93f7351b0c6ef4f7c8c1258576fc37f1f8bfbaea0b2df8c093ac5655",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    }
+  ]
+}

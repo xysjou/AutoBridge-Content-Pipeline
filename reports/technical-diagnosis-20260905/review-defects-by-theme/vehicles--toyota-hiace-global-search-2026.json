@@ -1,0 +1,38 @@
+{
+  "audit_at": "2026-09-05T15:21:22.418Z",
+  "content_key": "vehicles/toyota-hiace-global-search-2026",
+  "publish_approved": false,
+  "pages": [
+    {
+      "url": "https://zh.autobridgeexport.com/vehicles/toyota-hiace-global-search-2026.html",
+      "language": "zh",
+      "page_type": "vehicles",
+      "title": "Toyota HiAce出口采购：你买的是哪一种车身和载重？",
+      "content_key": "vehicles/toyota-hiace-global-search-2026",
+      "current_source": true,
+      "local_page": "zh/vehicles/toyota-hiace-global-search-2026.html",
+      "local_page_sha256": "8f487c163a480d2c7eba7b1d668eeead0248e1d3677006c9596c1239cd5880d1",
+      "source_file": "content/vehicles/toyota-hiace-global-search-2026.json",
+      "source_sha256": "5c38a11a52c2f6a41189d0cef46a6d1ba52851ae08f1f97c73159cd0988b39f4",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5",
+        "generic_specification_label:6",
+        "generic_specification_label:7"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "audit_at": "2026-09-05T15:21:22.418Z",
+  "content_key": "vehicles/peugeot-208-global-search-2026",
+  "publish_approved": false,
+  "pages": [
+    {
+      "url": "https://www.autobridgeexport.com/vehicles/peugeot-208-global-search-2026.html",
+      "language": "en",
+      "page_type": "vehicles",
+      "title": "Peugeot 208 2026: Export buyer profile",
+      "content_key": "vehicles/peugeot-208-global-search-2026",
+      "current_source": true,
+      "local_page": "en/vehicles/peugeot-208-global-search-2026.html",
+      "local_page_sha256": "d8eb7c802570f1cc3e6329d94fa9227ee408dc61fb5f8a252257218fa071da8f",
+      "source_file": "content/vehicles/peugeot-208-global-search-2026.json",
+      "source_sha256": "d22a32906748f452a9a7a5fbec25c5bdc9d172e21af6f861dd418a60fcc9d1ec",
+      "reasons": [
+        "machine_template_leakage",
+        "invalid_rendered_vehicle_specifications",
+        "editorial_quality_score_below_85"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://fr.autobridgeexport.com/vehicles/peugeot-208-global-search-2026.html",
+      "language": "fr",
+      "page_type": "vehicles",
+      "title": "Peugeot 208 2026: Profil acheteur export",
+      "content_key": "vehicles/peugeot-208-global-search-2026",
+      "current_source": true,
+      "local_page": "fr/vehicles/peugeot-208-global-search-2026.html",
+      "local_page_sha256": "b17a6079562e49f2d337e8bdf40946270968a28bebf0c334103d07060a06df9d",
+      "source_file": "content/vehicles/peugeot-208-global-search-2026.json",
+      "source_sha256": "d22a32906748f452a9a7a5fbec25c5bdc9d172e21af6f861dd418a60fcc9d1ec",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://de.autobridgeexport.com/vehicles/peugeot-208-global-search-2026.html",
+      "language": "de",
+      "page_type": "vehicles",
+      "title": "Peugeot 208 2026: Exportkäufer-Profil",
+      "content_key": "vehicles/peugeot-208-global-search-2026",
+      "current_source": true,
+      "local_page": "de/vehicles/peugeot-208-global-search-2026.html",
+      "local_page_sha256": "70e12823e6d816e8f58bc9ef64c735ab2a1ca4f56cdb4210f86b814388a4421b",
+      "source_file": "content/vehicles/peugeot-208-global-search-2026.json",
+      "source_sha256": "d22a32906748f452a9a7a5fbec25c5bdc9d172e21af6f861dd418a60fcc9d1ec",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://es.autobridgeexport.com/vehicles/peugeot-208-global-search-2026.html",
+      "language": "es",
+      "page_type": "vehicles",
+      "title": "Peugeot 208 2026: Perfil para comprador exportador",
+      "content_key": "vehicles/peugeot-208-global-search-2026",
+      "current_source": true,
+      "local_page": "es/vehicles/peugeot-208-global-search-2026.html",
+      "local_page_sha256": "233167ba0db15d87fef82bb2510dcea904e3548ba6224f7558f2af051b6b51ed",
+      "source_file": "content/vehicles/peugeot-208-global-search-2026.json",
+      "source_sha256": "d22a32906748f452a9a7a5fbec25c5bdc9d172e21af6f861dd418a60fcc9d1ec",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://pt.autobridgeexport.com/vehicles/peugeot-208-global-search-2026.html",
+      "language": "pt-br",
+      "page_type": "vehicles",
+      "title": "Peugeot 208 2026: Perfil para comprador de exportação",
+      "content_key": "vehicles/peugeot-208-global-search-2026",
+      "current_source": true,
+      "local_page": "pt-br/vehicles/peugeot-208-global-search-2026.html",
+      "local_page_sha256": "450754e91536d14998c247cb209d63feb353d4163f492a5224d95b30a0f95280",
+      "source_file": "content/vehicles/peugeot-208-global-search-2026.json",
+      "source_sha256": "d22a32906748f452a9a7a5fbec25c5bdc9d172e21af6f861dd418a60fcc9d1ec",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ja.autobridgeexport.com/vehicles/peugeot-208-global-search-2026.html",
+      "language": "ja",
+      "page_type": "vehicles",
+      "title": "Peugeot 208 2026: 輸出購入者向けプロフィール",
+      "content_key": "vehicles/peugeot-208-global-search-2026",
+      "current_source": true,
+      "local_page": "ja/vehicles/peugeot-208-global-search-2026.html",
+      "local_page_sha256": "f51dba7c6f9dfa8a62a97e160066128669ec825167f2de8a8b2b1f880cd1ea12",
+      "source_file": "content/vehicles/peugeot-208-global-search-2026.json",
+      "source_sha256": "d22a32906748f452a9a7a5fbec25c5bdc9d172e21af6f861dd418a60fcc9d1ec",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://zh.autobridgeexport.com/vehicles/peugeot-208-global-search-2026.html",
+      "language": "zh",
+      "page_type": "vehicles",
+      "title": "Peugeot 208 2026: 出口买家车型档案",
+      "content_key": "vehicles/peugeot-208-global-search-2026",
+      "current_source": true,
+      "local_page": "zh/vehicles/peugeot-208-global-search-2026.html",
+      "local_page_sha256": "51dea693002939f4ecea24a91d46a3d2ee9f525c43eb36aa990f70ff618038cc",
+      "source_file": "content/vehicles/peugeot-208-global-search-2026.json",
+      "source_sha256": "d22a32906748f452a9a7a5fbec25c5bdc9d172e21af6f861dd418a60fcc9d1ec",
+      "reasons": [
+        "machine_template_leakage",
+        "near_duplicate_paragraphs",
+        "invalid_rendered_vehicle_specifications",
+        "editorial_quality_score_below_85"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "invalid_specification_value:0",
+        "generic_specification_label:1",
+        "invalid_specification_value:1",
+        "generic_specification_label:2",
+        "invalid_specification_value:2",
+        "generic_specification_label:3",
+        "invalid_specification_value:3",
+        "generic_specification_label:4",
+        "invalid_specification_value:4",
+        "generic_specification_label:5",
+        "invalid_specification_value:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    }
+  ]
+}

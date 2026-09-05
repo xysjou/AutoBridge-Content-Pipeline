@@ -1,0 +1,210 @@
+{
+  "audit_at": "2026-09-05T15:21:22.418Z",
+  "content_key": "vehicles/jeep-grand-cherokee-global-search-2026",
+  "publish_approved": false,
+  "pages": [
+    {
+      "url": "https://www.autobridgeexport.com/vehicles/jeep-grand-cherokee-global-search-2026.html",
+      "language": "en",
+      "page_type": "vehicles",
+      "title": "2026 Jeep Grand Cherokee export profile: three names, three checks",
+      "content_key": "vehicles/jeep-grand-cherokee-global-search-2026",
+      "current_source": true,
+      "local_page": "en/vehicles/jeep-grand-cherokee-global-search-2026.html",
+      "local_page_sha256": "0d1b2d2f28fc82a19bd27be655a26db33aadcb3f060b11c7a5a2aaeef618791f",
+      "source_file": "content/vehicles/jeep-grand-cherokee-global-search-2026.json",
+      "source_sha256": "73b1b53bd8c97118fc4d943388f69c5b1d75adc32a3e9f90469e9675c607b563",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://fr.autobridgeexport.com/vehicles/jeep-grand-cherokee-global-search-2026.html",
+      "language": "fr",
+      "page_type": "vehicles",
+      "title": "Jeep Grand Cherokee 2026 à l'export : distinguer deux rangées, L et 4xe",
+      "content_key": "vehicles/jeep-grand-cherokee-global-search-2026",
+      "current_source": true,
+      "local_page": "fr/vehicles/jeep-grand-cherokee-global-search-2026.html",
+      "local_page_sha256": "77f662234f455a1908025280448e2f1028717f66acc4d1244e3cba884b8ceb8d",
+      "source_file": "content/vehicles/jeep-grand-cherokee-global-search-2026.json",
+      "source_sha256": "73b1b53bd8c97118fc4d943388f69c5b1d75adc32a3e9f90469e9675c607b563",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://de.autobridgeexport.com/vehicles/jeep-grand-cherokee-global-search-2026.html",
+      "language": "de",
+      "page_type": "vehicles",
+      "title": "Jeep Grand Cherokee 2026 im Export: Zweireiher, L und 4xe trennen",
+      "content_key": "vehicles/jeep-grand-cherokee-global-search-2026",
+      "current_source": true,
+      "local_page": "de/vehicles/jeep-grand-cherokee-global-search-2026.html",
+      "local_page_sha256": "2c23617383f2edd08d80189df8daf089a9bd13777435730d6b663faef968f9dc",
+      "source_file": "content/vehicles/jeep-grand-cherokee-global-search-2026.json",
+      "source_sha256": "73b1b53bd8c97118fc4d943388f69c5b1d75adc32a3e9f90469e9675c607b563",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://es.autobridgeexport.com/vehicles/jeep-grand-cherokee-global-search-2026.html",
+      "language": "es",
+      "page_type": "vehicles",
+      "title": "Jeep Grand Cherokee 2026 para exportación: separar dos filas, L y 4xe",
+      "content_key": "vehicles/jeep-grand-cherokee-global-search-2026",
+      "current_source": true,
+      "local_page": "es/vehicles/jeep-grand-cherokee-global-search-2026.html",
+      "local_page_sha256": "a8d580d41e259811a965eead4f6d746111ab9d7746701a8734c8567fb5fa5881",
+      "source_file": "content/vehicles/jeep-grand-cherokee-global-search-2026.json",
+      "source_sha256": "73b1b53bd8c97118fc4d943388f69c5b1d75adc32a3e9f90469e9675c607b563",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://pt.autobridgeexport.com/vehicles/jeep-grand-cherokee-global-search-2026.html",
+      "language": "pt-br",
+      "page_type": "vehicles",
+      "title": "Jeep Grand Cherokee 2026 para exportação: duas fileiras, L e 4xe",
+      "content_key": "vehicles/jeep-grand-cherokee-global-search-2026",
+      "current_source": true,
+      "local_page": "pt-br/vehicles/jeep-grand-cherokee-global-search-2026.html",
+      "local_page_sha256": "c2f07ef55248866b74ed2de23c6d3494579ea2374b29aef0963a81c263e2444a",
+      "source_file": "content/vehicles/jeep-grand-cherokee-global-search-2026.json",
+      "source_sha256": "73b1b53bd8c97118fc4d943388f69c5b1d75adc32a3e9f90469e9675c607b563",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ja.autobridgeexport.com/vehicles/jeep-grand-cherokee-global-search-2026.html",
+      "language": "ja",
+      "page_type": "vehicles",
+      "title": "2026年ジープ・グランドチェロキー輸出確認：2列、L、4xeを分ける",
+      "content_key": "vehicles/jeep-grand-cherokee-global-search-2026",
+      "current_source": true,
+      "local_page": "ja/vehicles/jeep-grand-cherokee-global-search-2026.html",
+      "local_page_sha256": "a0c21ff7c38bfe3beff4c0e7566db4421ef3d9323ec339af73feccd35e6aa691",
+      "source_file": "content/vehicles/jeep-grand-cherokee-global-search-2026.json",
+      "source_sha256": "73b1b53bd8c97118fc4d943388f69c5b1d75adc32a3e9f90469e9675c607b563",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://zh.autobridgeexport.com/vehicles/jeep-grand-cherokee-global-search-2026.html",
+      "language": "zh",
+      "page_type": "vehicles",
+      "title": "2026 Jeep Grand Cherokee 出口核验：两排、L 与 4xe 必须分开",
+      "content_key": "vehicles/jeep-grand-cherokee-global-search-2026",
+      "current_source": true,
+      "local_page": "zh/vehicles/jeep-grand-cherokee-global-search-2026.html",
+      "local_page_sha256": "8570762a3bc8fe71073ece20309759b49fb62ccfccddcba6590b30bfe4f22017",
+      "source_file": "content/vehicles/jeep-grand-cherokee-global-search-2026.json",
+      "source_sha256": "73b1b53bd8c97118fc4d943388f69c5b1d75adc32a3e9f90469e9675c607b563",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    }
+  ]
+}

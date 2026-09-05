@@ -1,0 +1,210 @@
+{
+  "audit_at": "2026-09-05T15:21:22.418Z",
+  "content_key": "vehicles/hyundai-tucson-global-search-2026",
+  "publish_approved": false,
+  "pages": [
+    {
+      "url": "https://www.autobridgeexport.com/vehicles/hyundai-tucson-global-search-2026.html",
+      "language": "en",
+      "page_type": "vehicles",
+      "title": "2026 Hyundai TUCSON export buyer profile: three powertrains, one VIN-first decision",
+      "content_key": "vehicles/hyundai-tucson-global-search-2026",
+      "current_source": true,
+      "local_page": "en/vehicles/hyundai-tucson-global-search-2026.html",
+      "local_page_sha256": "30198ed14a9fcaf87919b6a7b7690c446e8fa03f04a0c8036e887594d53bf3bd",
+      "source_file": "content/vehicles/hyundai-tucson-global-search-2026.json",
+      "source_sha256": "0a9818a9fcf3c9f0a3df418bf5f82ccc9138af6fb1911233a451fd6ebd100aa5",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://fr.autobridgeexport.com/vehicles/hyundai-tucson-global-search-2026.html",
+      "language": "fr",
+      "page_type": "vehicles",
+      "title": "Hyundai TUCSON 2026 à l’export : trois motorisations, une décision guidée par le VIN",
+      "content_key": "vehicles/hyundai-tucson-global-search-2026",
+      "current_source": true,
+      "local_page": "fr/vehicles/hyundai-tucson-global-search-2026.html",
+      "local_page_sha256": "1a0d8c6447d1f9fac260f0f89035bce99cbf781a63b6d4152892dc3b77c722bc",
+      "source_file": "content/vehicles/hyundai-tucson-global-search-2026.json",
+      "source_sha256": "0a9818a9fcf3c9f0a3df418bf5f82ccc9138af6fb1911233a451fd6ebd100aa5",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://de.autobridgeexport.com/vehicles/hyundai-tucson-global-search-2026.html",
+      "language": "de",
+      "page_type": "vehicles",
+      "title": "Hyundai TUCSON 2026 für den Export: drei Antriebe, eine VIN-basierte Entscheidung",
+      "content_key": "vehicles/hyundai-tucson-global-search-2026",
+      "current_source": true,
+      "local_page": "de/vehicles/hyundai-tucson-global-search-2026.html",
+      "local_page_sha256": "65ea332fbcf30dabe494f52d1dbcfbb35de01f68e0c9bd1a20808ef827bf862c",
+      "source_file": "content/vehicles/hyundai-tucson-global-search-2026.json",
+      "source_sha256": "0a9818a9fcf3c9f0a3df418bf5f82ccc9138af6fb1911233a451fd6ebd100aa5",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://es.autobridgeexport.com/vehicles/hyundai-tucson-global-search-2026.html",
+      "language": "es",
+      "page_type": "vehicles",
+      "title": "Hyundai TUCSON 2026 para exportación: tres propulsores y una decisión basada en el VIN",
+      "content_key": "vehicles/hyundai-tucson-global-search-2026",
+      "current_source": true,
+      "local_page": "es/vehicles/hyundai-tucson-global-search-2026.html",
+      "local_page_sha256": "fd79323edfbaae714dff8673097bd0cb467667179037e07d7fe59c5e85a8e024",
+      "source_file": "content/vehicles/hyundai-tucson-global-search-2026.json",
+      "source_sha256": "0a9818a9fcf3c9f0a3df418bf5f82ccc9138af6fb1911233a451fd6ebd100aa5",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://pt.autobridgeexport.com/vehicles/hyundai-tucson-global-search-2026.html",
+      "language": "pt-br",
+      "page_type": "vehicles",
+      "title": "Hyundai TUCSON 2026 para exportação: três conjuntos motrizes e uma decisão guiada pelo VIN",
+      "content_key": "vehicles/hyundai-tucson-global-search-2026",
+      "current_source": true,
+      "local_page": "pt-br/vehicles/hyundai-tucson-global-search-2026.html",
+      "local_page_sha256": "f82b8e3d3d9a7b3ac77721f1f6e5dacc56b8947b8cb8fc4b466cefc88bc24db8",
+      "source_file": "content/vehicles/hyundai-tucson-global-search-2026.json",
+      "source_sha256": "0a9818a9fcf3c9f0a3df418bf5f82ccc9138af6fb1911233a451fd6ebd100aa5",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ja.autobridgeexport.com/vehicles/hyundai-tucson-global-search-2026.html",
+      "language": "ja",
+      "page_type": "vehicles",
+      "title": "2026年型ヒョンデTUCSON輸出購入ガイド：3種類の動力をVINから見分ける",
+      "content_key": "vehicles/hyundai-tucson-global-search-2026",
+      "current_source": true,
+      "local_page": "ja/vehicles/hyundai-tucson-global-search-2026.html",
+      "local_page_sha256": "c5665d0234044cb0fe6f21d827ad47d32feb2a934d0ac2e87fa3d9b95533a385",
+      "source_file": "content/vehicles/hyundai-tucson-global-search-2026.json",
+      "source_sha256": "0a9818a9fcf3c9f0a3df418bf5f82ccc9138af6fb1911233a451fd6ebd100aa5",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://zh.autobridgeexport.com/vehicles/hyundai-tucson-global-search-2026.html",
+      "language": "zh",
+      "page_type": "vehicles",
+      "title": "2026 款现代途胜出口采购档案：三种动力，先核对车辆识别码",
+      "content_key": "vehicles/hyundai-tucson-global-search-2026",
+      "current_source": true,
+      "local_page": "zh/vehicles/hyundai-tucson-global-search-2026.html",
+      "local_page_sha256": "2f98aaca19367964909eab05022296f49f4b066cc4278d401438e45845a7e0b5",
+      "source_file": "content/vehicles/hyundai-tucson-global-search-2026.json",
+      "source_sha256": "0a9818a9fcf3c9f0a3df418bf5f82ccc9138af6fb1911233a451fd6ebd100aa5",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    }
+  ]
+}

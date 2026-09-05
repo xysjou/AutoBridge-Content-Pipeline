@@ -33,3 +33,15 @@ Report remaining defects; do not convert parameter-only PASS into full-article P
 The charging time is omitted because the official PDF contains conflicting statements.
 
 Publication remains blocked until the exact revision passes the required checks.
+
+## Follow-up candidate and readable inventory parts
+
+`byd-seal-correction-v2/` fixes the definite numeric-formatting, scope-container,
+indexing-state and image-credit defects in the first review. It deliberately
+remains REVISION_REQUIRED: the full multilingual prose still needs targeted
+editorial revision. It is not a release candidate.
+
+`review-defects-by-theme/index.json` links to one small file per affected theme.
+Use these parts when the connector cannot read the full inventory. The updated
+rendered hashes include the local technical-only removal of placeholder tags;
+the article prose is unchanged. Do not treat technical cleanup as content PASS.

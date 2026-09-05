@@ -1,0 +1,210 @@
+{
+  "audit_at": "2026-09-05T15:21:22.418Z",
+  "content_key": "vehicles/isuzu-d-max-global-search-2026",
+  "publish_approved": false,
+  "pages": [
+    {
+      "url": "https://www.autobridgeexport.com/vehicles/isuzu-d-max-global-search-2026.html",
+      "language": "en",
+      "page_type": "vehicles",
+      "title": "Isuzu D-Max 2026 export buyer profile: verify market, cab and powertrain",
+      "content_key": "vehicles/isuzu-d-max-global-search-2026",
+      "current_source": true,
+      "local_page": "en/vehicles/isuzu-d-max-global-search-2026.html",
+      "local_page_sha256": "5a5dd2d06bbd10095c4e623bc49d877b0fce894e8bd1675362fcabc420e7de89",
+      "source_file": "content/vehicles/isuzu-d-max-global-search-2026.json",
+      "source_sha256": "dd4c3ee488430eb23fdc2854057df253b2ce484de96918af864ce62f9e81d8e4",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://fr.autobridgeexport.com/vehicles/isuzu-d-max-global-search-2026.html",
+      "language": "fr",
+      "page_type": "vehicles",
+      "title": "Isuzu D-Max 2026 à l’export : vérifier marché, cabine et motorisation",
+      "content_key": "vehicles/isuzu-d-max-global-search-2026",
+      "current_source": true,
+      "local_page": "fr/vehicles/isuzu-d-max-global-search-2026.html",
+      "local_page_sha256": "531dfd105857aea7b89ebf9e2918bbfe454feae8e7a96de4d5c3b363f834004b",
+      "source_file": "content/vehicles/isuzu-d-max-global-search-2026.json",
+      "source_sha256": "dd4c3ee488430eb23fdc2854057df253b2ce484de96918af864ce62f9e81d8e4",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://de.autobridgeexport.com/vehicles/isuzu-d-max-global-search-2026.html",
+      "language": "de",
+      "page_type": "vehicles",
+      "title": "Isuzu D-Max 2026 für den Export: Markt, Kabine und Antrieb prüfen",
+      "content_key": "vehicles/isuzu-d-max-global-search-2026",
+      "current_source": true,
+      "local_page": "de/vehicles/isuzu-d-max-global-search-2026.html",
+      "local_page_sha256": "25baa1810dffe0a436ece16c11cc81b1b14b5817171ebcaa8da2a962f9ae24df",
+      "source_file": "content/vehicles/isuzu-d-max-global-search-2026.json",
+      "source_sha256": "dd4c3ee488430eb23fdc2854057df253b2ce484de96918af864ce62f9e81d8e4",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://es.autobridgeexport.com/vehicles/isuzu-d-max-global-search-2026.html",
+      "language": "es",
+      "page_type": "vehicles",
+      "title": "Isuzu D-Max 2026 para exportación: verificar mercado, cabina y propulsión",
+      "content_key": "vehicles/isuzu-d-max-global-search-2026",
+      "current_source": true,
+      "local_page": "es/vehicles/isuzu-d-max-global-search-2026.html",
+      "local_page_sha256": "cbe4e1956622ce9e8e6e8fddb2b196f26587166829f278d00e2e6c508a241b71",
+      "source_file": "content/vehicles/isuzu-d-max-global-search-2026.json",
+      "source_sha256": "dd4c3ee488430eb23fdc2854057df253b2ce484de96918af864ce62f9e81d8e4",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://pt.autobridgeexport.com/vehicles/isuzu-d-max-global-search-2026.html",
+      "language": "pt-br",
+      "page_type": "vehicles",
+      "title": "Isuzu D-Max 2026 para exportação: confirme mercado, cabine e motorização",
+      "content_key": "vehicles/isuzu-d-max-global-search-2026",
+      "current_source": true,
+      "local_page": "pt-br/vehicles/isuzu-d-max-global-search-2026.html",
+      "local_page_sha256": "f7d4b6abab912717242e85001857f64319d515e6314f0c1af761c544d6802e84",
+      "source_file": "content/vehicles/isuzu-d-max-global-search-2026.json",
+      "source_sha256": "dd4c3ee488430eb23fdc2854057df253b2ce484de96918af864ce62f9e81d8e4",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ja.autobridgeexport.com/vehicles/isuzu-d-max-global-search-2026.html",
+      "language": "ja",
+      "page_type": "vehicles",
+      "title": "いすゞD-Max 2026年輸出購入ガイド：市場・キャブ・動力を確認",
+      "content_key": "vehicles/isuzu-d-max-global-search-2026",
+      "current_source": true,
+      "local_page": "ja/vehicles/isuzu-d-max-global-search-2026.html",
+      "local_page_sha256": "a51ede819eedf26e27dc27e2826fedbb1d6e6940afc7b23d67666489226c4240",
+      "source_file": "content/vehicles/isuzu-d-max-global-search-2026.json",
+      "source_sha256": "dd4c3ee488430eb23fdc2854057df253b2ce484de96918af864ce62f9e81d8e4",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://zh.autobridgeexport.com/vehicles/isuzu-d-max-global-search-2026.html",
+      "language": "zh",
+      "page_type": "vehicles",
+      "title": "2026年五十铃D-Max出口采购档案：先核对市场、驾驶室与动力",
+      "content_key": "vehicles/isuzu-d-max-global-search-2026",
+      "current_source": true,
+      "local_page": "zh/vehicles/isuzu-d-max-global-search-2026.html",
+      "local_page_sha256": "fb82be1520252cebf5394d2347c76690623c6e8fb7c7c2a0e915bf31989d3f26",
+      "source_file": "content/vehicles/isuzu-d-max-global-search-2026.json",
+      "source_sha256": "dd4c3ee488430eb23fdc2854057df253b2ce484de96918af864ce62f9e81d8e4",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    }
+  ]
+}

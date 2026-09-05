@@ -1,0 +1,208 @@
+{
+  "audit_at": "2026-09-05T15:21:22.418Z",
+  "content_key": "vehicles/mg-mg4-ev-global-search-2026",
+  "publish_approved": false,
+  "pages": [
+    {
+      "url": "https://www.autobridgeexport.com/vehicles/mg-mg4-ev-global-search-2026.html",
+      "language": "en",
+      "page_type": "vehicles",
+      "title": "MG4 EV 2026: a market-matched battery, range and safety guide",
+      "content_key": "vehicles/mg-mg4-ev-global-search-2026",
+      "current_source": true,
+      "local_page": "en/vehicles/mg-mg4-ev-global-search-2026.html",
+      "local_page_sha256": "3b7ecaa97d4ad771107265ee248d2e149c936a138a5c7db7f32a593c7ae7dc40",
+      "source_file": "content/vehicles/mg-mg4-ev-global-search-2026.json",
+      "source_sha256": "75bdfb2fad4dc42fb1a5e86507dc0a6ec2dbc43ceb432c0ae8290d47b7b07e9b",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://fr.autobridgeexport.com/vehicles/mg-mg4-ev-global-search-2026.html",
+      "language": "fr",
+      "page_type": "vehicles",
+      "title": "MG4 EV 2026 : batteries, autonomie et sécurité selon le marché",
+      "content_key": "vehicles/mg-mg4-ev-global-search-2026",
+      "current_source": true,
+      "local_page": "fr/vehicles/mg-mg4-ev-global-search-2026.html",
+      "local_page_sha256": "2e3d4d2b418ccd5ccf4d87f66249987d739dc132c56d9ce6f81a04629c9f6d06",
+      "source_file": "content/vehicles/mg-mg4-ev-global-search-2026.json",
+      "source_sha256": "75bdfb2fad4dc42fb1a5e86507dc0a6ec2dbc43ceb432c0ae8290d47b7b07e9b",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://de.autobridgeexport.com/vehicles/mg-mg4-ev-global-search-2026.html",
+      "language": "de",
+      "page_type": "vehicles",
+      "title": "MG4 EV 2026: Batterie, Reichweite und Sicherheit nach Markt",
+      "content_key": "vehicles/mg-mg4-ev-global-search-2026",
+      "current_source": true,
+      "local_page": "de/vehicles/mg-mg4-ev-global-search-2026.html",
+      "local_page_sha256": "265dbd16b53ef8744d3262291848e12be14f888b784b2613e2810a5c162470f8",
+      "source_file": "content/vehicles/mg-mg4-ev-global-search-2026.json",
+      "source_sha256": "75bdfb2fad4dc42fb1a5e86507dc0a6ec2dbc43ceb432c0ae8290d47b7b07e9b",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://es.autobridgeexport.com/vehicles/mg-mg4-ev-global-search-2026.html",
+      "language": "es",
+      "page_type": "vehicles",
+      "title": "MG4 EV 2026: batería, autonomía y seguridad según mercado",
+      "content_key": "vehicles/mg-mg4-ev-global-search-2026",
+      "current_source": true,
+      "local_page": "es/vehicles/mg-mg4-ev-global-search-2026.html",
+      "local_page_sha256": "0dc7890921197e87232c1e50aedad2ed61dbf221cf893b4263ecf3d664c80590",
+      "source_file": "content/vehicles/mg-mg4-ev-global-search-2026.json",
+      "source_sha256": "75bdfb2fad4dc42fb1a5e86507dc0a6ec2dbc43ceb432c0ae8290d47b7b07e9b",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://pt.autobridgeexport.com/vehicles/mg-mg4-ev-global-search-2026.html",
+      "language": "pt-br",
+      "page_type": "vehicles",
+      "title": "MG4 EV 2026: bateria, autonomia e segurança por mercado",
+      "content_key": "vehicles/mg-mg4-ev-global-search-2026",
+      "current_source": true,
+      "local_page": "pt-br/vehicles/mg-mg4-ev-global-search-2026.html",
+      "local_page_sha256": "1380b147ab040a4af9f3be18dcf5dc0a946bed70e10fe4aafb53a6bad66e774a",
+      "source_file": "content/vehicles/mg-mg4-ev-global-search-2026.json",
+      "source_sha256": "75bdfb2fad4dc42fb1a5e86507dc0a6ec2dbc43ceb432c0ae8290d47b7b07e9b",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ja.autobridgeexport.com/vehicles/mg-mg4-ev-global-search-2026.html",
+      "language": "ja",
+      "page_type": "vehicles",
+      "title": "2026年MG4 EV：市場別の電池・航続距離・充電・安全性",
+      "content_key": "vehicles/mg-mg4-ev-global-search-2026",
+      "current_source": true,
+      "local_page": "ja/vehicles/mg-mg4-ev-global-search-2026.html",
+      "local_page_sha256": "98440fd5ec1161d731fcac7b26261dcbd3d0c118aab0381ea808303a3a4ee628",
+      "source_file": "content/vehicles/mg-mg4-ev-global-search-2026.json",
+      "source_sha256": "75bdfb2fad4dc42fb1a5e86507dc0a6ec2dbc43ceb432c0ae8290d47b7b07e9b",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://zh.autobridgeexport.com/vehicles/mg-mg4-ev-global-search-2026.html",
+      "language": "zh",
+      "page_type": "vehicles",
+      "title": "2026款 MG4 EV：按市场核对电池、续航、充电与安全",
+      "content_key": "vehicles/mg-mg4-ev-global-search-2026",
+      "current_source": true,
+      "local_page": "zh/vehicles/mg-mg4-ev-global-search-2026.html",
+      "local_page_sha256": "234454e7fd3c5373b9eeea3e80d8749244508216b8820ec3d64182d83b574aed",
+      "source_file": "content/vehicles/mg-mg4-ev-global-search-2026.json",
+      "source_sha256": "75bdfb2fad4dc42fb1a5e86507dc0a6ec2dbc43ceb432c0ae8290d47b7b07e9b",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "audit_at": "2026-09-05T15:21:22.418Z",
+  "content_key": "guides/seven-seat-suv-latin-america",
+  "publish_approved": false,
+  "pages": [
+    {
+      "url": "https://www.autobridgeexport.com/guides/seven-seat-suv-latin-america.html",
+      "language": "en",
+      "page_type": "guides",
+      "title": "Test a Seven-Seat SUV for Full-Load Use in Latin America",
+      "content_key": "guides/seven-seat-suv-latin-america",
+      "current_source": true,
+      "local_page": "en/guides/seven-seat-suv-latin-america.html",
+      "local_page_sha256": "cdf8f4298d06f17e606b105f1aa6a3268a4011b8bb5e2ddc28275d81c34f5404",
+      "source_file": "content/buyer-guides/seven-seat-suv-latin-america.json",
+      "source_sha256": "99bc253968a61efd6d18ff93fd8129c3e698be77afe19a91b7cd618e18c4d889",
+      "reasons": [
+        "machine_template_leakage",
+        "editorial_quality_score_below_85"
+      ],
+      "parameter_issues": [],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Independent review and targeted correction; retain quality restrictions until passed."
+    }
+  ]
+}

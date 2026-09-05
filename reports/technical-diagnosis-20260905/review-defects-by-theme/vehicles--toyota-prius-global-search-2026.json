@@ -1,0 +1,38 @@
+{
+  "audit_at": "2026-09-05T15:21:22.418Z",
+  "content_key": "vehicles/toyota-prius-global-search-2026",
+  "publish_approved": false,
+  "pages": [
+    {
+      "url": "https://zh.autobridgeexport.com/vehicles/toyota-prius-global-search-2026.html",
+      "language": "zh",
+      "page_type": "vehicles",
+      "title": "Toyota Prius 2026：出口证据与购车核验",
+      "content_key": "vehicles/toyota-prius-global-search-2026",
+      "current_source": true,
+      "local_page": "zh/vehicles/toyota-prius-global-search-2026.html",
+      "local_page_sha256": "73639ae7d490aff1b6fba147b014978cc9dae059eac49aae6ba21b91624f963a",
+      "source_file": "content/vehicles/toyota-prius-global-search-2026.json",
+      "source_sha256": "71839af7f99b86ed9a069e781c7fc38cb6f7c17c64a12ab3fddfd4970c89bae3",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5",
+        "generic_specification_label:6",
+        "generic_specification_label:7"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    }
+  ]
+}

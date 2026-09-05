@@ -1,0 +1,210 @@
+{
+  "audit_at": "2026-09-05T15:21:22.418Z",
+  "content_key": "vehicles/chevrolet-tahoe-global-search-2026",
+  "publish_approved": false,
+  "pages": [
+    {
+      "url": "https://www.autobridgeexport.com/vehicles/chevrolet-tahoe-global-search-2026.html",
+      "language": "en",
+      "page_type": "vehicles",
+      "title": "Chevrolet Tahoe 2026 export evidence and buyer checks",
+      "content_key": "vehicles/chevrolet-tahoe-global-search-2026",
+      "current_source": true,
+      "local_page": "en/vehicles/chevrolet-tahoe-global-search-2026.html",
+      "local_page_sha256": "5a5b359006b153720adb7a7e558a2a2e026c4c423e34fd78b91fd4a87f4f5af4",
+      "source_file": "content/vehicles/chevrolet-tahoe-global-search-2026.json",
+      "source_sha256": "f52fe27449cc8106b7316b9517d64a5718f76d47fdd6212f7b1cd8ce7b0eabf8",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://fr.autobridgeexport.com/vehicles/chevrolet-tahoe-global-search-2026.html",
+      "language": "fr",
+      "page_type": "vehicles",
+      "title": "Chevrolet Tahoe 2026 : preuves d'export et contrôles d'achat",
+      "content_key": "vehicles/chevrolet-tahoe-global-search-2026",
+      "current_source": true,
+      "local_page": "fr/vehicles/chevrolet-tahoe-global-search-2026.html",
+      "local_page_sha256": "1084e62c4de2d445d87ce239b4f66b9f7683a92db862bf2b4c6c63adfbd4da8b",
+      "source_file": "content/vehicles/chevrolet-tahoe-global-search-2026.json",
+      "source_sha256": "f52fe27449cc8106b7316b9517d64a5718f76d47fdd6212f7b1cd8ce7b0eabf8",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://de.autobridgeexport.com/vehicles/chevrolet-tahoe-global-search-2026.html",
+      "language": "de",
+      "page_type": "vehicles",
+      "title": "Chevrolet Tahoe 2026: Exportnachweise und Käuferprüfung",
+      "content_key": "vehicles/chevrolet-tahoe-global-search-2026",
+      "current_source": true,
+      "local_page": "de/vehicles/chevrolet-tahoe-global-search-2026.html",
+      "local_page_sha256": "59168a15cac56c1093f871adca33c274ee9b81a8db3f29342b3c06c498c6ea28",
+      "source_file": "content/vehicles/chevrolet-tahoe-global-search-2026.json",
+      "source_sha256": "f52fe27449cc8106b7316b9517d64a5718f76d47fdd6212f7b1cd8ce7b0eabf8",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://es.autobridgeexport.com/vehicles/chevrolet-tahoe-global-search-2026.html",
+      "language": "es",
+      "page_type": "vehicles",
+      "title": "Chevrolet Tahoe 2026: pruebas de exportación y controles de compra",
+      "content_key": "vehicles/chevrolet-tahoe-global-search-2026",
+      "current_source": true,
+      "local_page": "es/vehicles/chevrolet-tahoe-global-search-2026.html",
+      "local_page_sha256": "ccba079c7cd17809340fc6631243add5fa7fb9898ecd2d5c36d03eae0a424aa5",
+      "source_file": "content/vehicles/chevrolet-tahoe-global-search-2026.json",
+      "source_sha256": "f52fe27449cc8106b7316b9517d64a5718f76d47fdd6212f7b1cd8ce7b0eabf8",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://pt.autobridgeexport.com/vehicles/chevrolet-tahoe-global-search-2026.html",
+      "language": "pt-br",
+      "page_type": "vehicles",
+      "title": "Chevrolet Tahoe 2026: evidências de exportação e verificações de compra",
+      "content_key": "vehicles/chevrolet-tahoe-global-search-2026",
+      "current_source": true,
+      "local_page": "pt-br/vehicles/chevrolet-tahoe-global-search-2026.html",
+      "local_page_sha256": "31c66413593d0811fe877f1a9233323ce2e3247882534c7d1f09331d65132dfd",
+      "source_file": "content/vehicles/chevrolet-tahoe-global-search-2026.json",
+      "source_sha256": "f52fe27449cc8106b7316b9517d64a5718f76d47fdd6212f7b1cd8ce7b0eabf8",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ja.autobridgeexport.com/vehicles/chevrolet-tahoe-global-search-2026.html",
+      "language": "ja",
+      "page_type": "vehicles",
+      "title": "Chevrolet Tahoe 2026年輸出向け根拠と購入確認",
+      "content_key": "vehicles/chevrolet-tahoe-global-search-2026",
+      "current_source": true,
+      "local_page": "ja/vehicles/chevrolet-tahoe-global-search-2026.html",
+      "local_page_sha256": "885cd4bce9fb7a0ad82f6300af37668b5fd7043eabe6b89ececb68833b9b11c4",
+      "source_file": "content/vehicles/chevrolet-tahoe-global-search-2026.json",
+      "source_sha256": "f52fe27449cc8106b7316b9517d64a5718f76d47fdd6212f7b1cd8ce7b0eabf8",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://zh.autobridgeexport.com/vehicles/chevrolet-tahoe-global-search-2026.html",
+      "language": "zh",
+      "page_type": "vehicles",
+      "title": "Chevrolet Tahoe 2026 年出口证据与购车核验",
+      "content_key": "vehicles/chevrolet-tahoe-global-search-2026",
+      "current_source": true,
+      "local_page": "zh/vehicles/chevrolet-tahoe-global-search-2026.html",
+      "local_page_sha256": "3e16d0f2f69608805916b682e5745d21ee69c03b7e3442fd396d9f0b22454fd2",
+      "source_file": "content/vehicles/chevrolet-tahoe-global-search-2026.json",
+      "source_sha256": "f52fe27449cc8106b7316b9517d64a5718f76d47fdd6212f7b1cd8ce7b0eabf8",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    }
+  ]
+}

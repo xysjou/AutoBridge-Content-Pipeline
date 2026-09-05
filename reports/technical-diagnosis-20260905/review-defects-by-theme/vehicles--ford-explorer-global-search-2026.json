@@ -1,0 +1,210 @@
+{
+  "audit_at": "2026-09-05T15:21:22.418Z",
+  "content_key": "vehicles/ford-explorer-global-search-2026",
+  "publish_approved": false,
+  "pages": [
+    {
+      "url": "https://www.autobridgeexport.com/vehicles/ford-explorer-global-search-2026.html",
+      "language": "en",
+      "page_type": "vehicles",
+      "title": "Ford Explorer 2026 export evidence and buyer checks",
+      "content_key": "vehicles/ford-explorer-global-search-2026",
+      "current_source": true,
+      "local_page": "en/vehicles/ford-explorer-global-search-2026.html",
+      "local_page_sha256": "8032a7d3505cd431d7c525204226205263e91da1d4c5a93a90d24c613c317e90",
+      "source_file": "content/vehicles/ford-explorer-global-search-2026.json",
+      "source_sha256": "f0ef8220c7900f15f2051717d0af1495b0e3ddb9f66624813e2a39efd0a5bed1",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://fr.autobridgeexport.com/vehicles/ford-explorer-global-search-2026.html",
+      "language": "fr",
+      "page_type": "vehicles",
+      "title": "Ford Explorer 2026 : preuves d'export et contrôles d'achat",
+      "content_key": "vehicles/ford-explorer-global-search-2026",
+      "current_source": true,
+      "local_page": "fr/vehicles/ford-explorer-global-search-2026.html",
+      "local_page_sha256": "a056ad2a06c1ae12a9b0ffd6cb31508bb26979fd8f79c7dab5120882ba2cf507",
+      "source_file": "content/vehicles/ford-explorer-global-search-2026.json",
+      "source_sha256": "f0ef8220c7900f15f2051717d0af1495b0e3ddb9f66624813e2a39efd0a5bed1",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://de.autobridgeexport.com/vehicles/ford-explorer-global-search-2026.html",
+      "language": "de",
+      "page_type": "vehicles",
+      "title": "Ford Explorer 2026: Exportnachweise und Käuferprüfung",
+      "content_key": "vehicles/ford-explorer-global-search-2026",
+      "current_source": true,
+      "local_page": "de/vehicles/ford-explorer-global-search-2026.html",
+      "local_page_sha256": "260efdf948fbec80f29f3436cf7650664337a800e95e761966c39f536aaa670c",
+      "source_file": "content/vehicles/ford-explorer-global-search-2026.json",
+      "source_sha256": "f0ef8220c7900f15f2051717d0af1495b0e3ddb9f66624813e2a39efd0a5bed1",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://es.autobridgeexport.com/vehicles/ford-explorer-global-search-2026.html",
+      "language": "es",
+      "page_type": "vehicles",
+      "title": "Ford Explorer 2026: pruebas de exportación y controles de compra",
+      "content_key": "vehicles/ford-explorer-global-search-2026",
+      "current_source": true,
+      "local_page": "es/vehicles/ford-explorer-global-search-2026.html",
+      "local_page_sha256": "8e428be50152a75a2f53271f93ab55b32d5906201ff741f91984df07bdb805f1",
+      "source_file": "content/vehicles/ford-explorer-global-search-2026.json",
+      "source_sha256": "f0ef8220c7900f15f2051717d0af1495b0e3ddb9f66624813e2a39efd0a5bed1",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://pt.autobridgeexport.com/vehicles/ford-explorer-global-search-2026.html",
+      "language": "pt-br",
+      "page_type": "vehicles",
+      "title": "Ford Explorer 2026: evidências de exportação e verificações de compra",
+      "content_key": "vehicles/ford-explorer-global-search-2026",
+      "current_source": true,
+      "local_page": "pt-br/vehicles/ford-explorer-global-search-2026.html",
+      "local_page_sha256": "9ffcd3cad206fb9cfaa989e632be69544a928fd17ed7afd123781fb0244f119d",
+      "source_file": "content/vehicles/ford-explorer-global-search-2026.json",
+      "source_sha256": "f0ef8220c7900f15f2051717d0af1495b0e3ddb9f66624813e2a39efd0a5bed1",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ja.autobridgeexport.com/vehicles/ford-explorer-global-search-2026.html",
+      "language": "ja",
+      "page_type": "vehicles",
+      "title": "Ford Explorer 2026年輸出向け根拠と購入確認",
+      "content_key": "vehicles/ford-explorer-global-search-2026",
+      "current_source": true,
+      "local_page": "ja/vehicles/ford-explorer-global-search-2026.html",
+      "local_page_sha256": "be11325b2145aea3c37a344942e5fa11281d221a08b44b161818184bb9dc8d50",
+      "source_file": "content/vehicles/ford-explorer-global-search-2026.json",
+      "source_sha256": "f0ef8220c7900f15f2051717d0af1495b0e3ddb9f66624813e2a39efd0a5bed1",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://zh.autobridgeexport.com/vehicles/ford-explorer-global-search-2026.html",
+      "language": "zh",
+      "page_type": "vehicles",
+      "title": "Ford Explorer 2026 年出口证据与购车核验",
+      "content_key": "vehicles/ford-explorer-global-search-2026",
+      "current_source": true,
+      "local_page": "zh/vehicles/ford-explorer-global-search-2026.html",
+      "local_page_sha256": "7598c9b6309e4f484ee85681bd890379eba330a77eced194d369cffa651abf54",
+      "source_file": "content/vehicles/ford-explorer-global-search-2026.json",
+      "source_sha256": "f0ef8220c7900f15f2051717d0af1495b0e3ddb9f66624813e2a39efd0a5bed1",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    }
+  ]
+}

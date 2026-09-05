@@ -1,0 +1,210 @@
+{
+  "audit_at": "2026-09-05T15:21:22.418Z",
+  "content_key": "vehicles/mercedes-benz-c-class-global-search-2026",
+  "publish_approved": false,
+  "pages": [
+    {
+      "url": "https://www.autobridgeexport.com/vehicles/mercedes-benz-c-class-global-search-2026.html",
+      "language": "en",
+      "page_type": "vehicles",
+      "title": "Keep C 300 and AMG C-Class Evidence Separate",
+      "content_key": "vehicles/mercedes-benz-c-class-global-search-2026",
+      "current_source": true,
+      "local_page": "en/vehicles/mercedes-benz-c-class-global-search-2026.html",
+      "local_page_sha256": "85e234cc526dc8f69585c52c9671ebb1616003f971b0b74ff0e16176f32fd3d7",
+      "source_file": "content/vehicles/mercedes-benz-c-class-global-search-2026.json",
+      "source_sha256": "7a4488487afd5fd4274027999ef2bb628dac269596a396bea7b9f1f963f7cdbc",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://fr.autobridgeexport.com/vehicles/mercedes-benz-c-class-global-search-2026.html",
+      "language": "fr",
+      "page_type": "vehicles",
+      "title": "Mercedes-Benz C-Class 2026: Profil acheteur export",
+      "content_key": "vehicles/mercedes-benz-c-class-global-search-2026",
+      "current_source": true,
+      "local_page": "fr/vehicles/mercedes-benz-c-class-global-search-2026.html",
+      "local_page_sha256": "6c9b3850ccfd24d1ab803006002306f75fcc51604939a12907cbc89f904ebc0a",
+      "source_file": "content/vehicles/mercedes-benz-c-class-global-search-2026.json",
+      "source_sha256": "7a4488487afd5fd4274027999ef2bb628dac269596a396bea7b9f1f963f7cdbc",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://de.autobridgeexport.com/vehicles/mercedes-benz-c-class-global-search-2026.html",
+      "language": "de",
+      "page_type": "vehicles",
+      "title": "Mercedes-Benz C-Class 2026: Exportkäufer-Profil",
+      "content_key": "vehicles/mercedes-benz-c-class-global-search-2026",
+      "current_source": true,
+      "local_page": "de/vehicles/mercedes-benz-c-class-global-search-2026.html",
+      "local_page_sha256": "b48f97341aae327d060d63b29ae129e2f8d1c43c54f3ac1e8e7266f581ccf296",
+      "source_file": "content/vehicles/mercedes-benz-c-class-global-search-2026.json",
+      "source_sha256": "7a4488487afd5fd4274027999ef2bb628dac269596a396bea7b9f1f963f7cdbc",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://es.autobridgeexport.com/vehicles/mercedes-benz-c-class-global-search-2026.html",
+      "language": "es",
+      "page_type": "vehicles",
+      "title": "Mercedes-Benz C-Class 2026: Perfil para comprador exportador",
+      "content_key": "vehicles/mercedes-benz-c-class-global-search-2026",
+      "current_source": true,
+      "local_page": "es/vehicles/mercedes-benz-c-class-global-search-2026.html",
+      "local_page_sha256": "5466499ca851832c4997174c311f64e0604d4909e07b3fa0d52e7135a31c5842",
+      "source_file": "content/vehicles/mercedes-benz-c-class-global-search-2026.json",
+      "source_sha256": "7a4488487afd5fd4274027999ef2bb628dac269596a396bea7b9f1f963f7cdbc",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://pt.autobridgeexport.com/vehicles/mercedes-benz-c-class-global-search-2026.html",
+      "language": "pt-br",
+      "page_type": "vehicles",
+      "title": "Mercedes-Benz C-Class 2026: Perfil para comprador de exportação",
+      "content_key": "vehicles/mercedes-benz-c-class-global-search-2026",
+      "current_source": true,
+      "local_page": "pt-br/vehicles/mercedes-benz-c-class-global-search-2026.html",
+      "local_page_sha256": "aa90ab295af5a96fc836dc139297ab9adec8ca7146e4fd50c00fec7e5a5c55b9",
+      "source_file": "content/vehicles/mercedes-benz-c-class-global-search-2026.json",
+      "source_sha256": "7a4488487afd5fd4274027999ef2bb628dac269596a396bea7b9f1f963f7cdbc",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ja.autobridgeexport.com/vehicles/mercedes-benz-c-class-global-search-2026.html",
+      "language": "ja",
+      "page_type": "vehicles",
+      "title": "Mercedes-Benz C-Class 2026: 輸出購入者向けプロフィール",
+      "content_key": "vehicles/mercedes-benz-c-class-global-search-2026",
+      "current_source": true,
+      "local_page": "ja/vehicles/mercedes-benz-c-class-global-search-2026.html",
+      "local_page_sha256": "373ca24951fc9e39e82e1394b9fcce3550d137d9d4a8f0251b55cdb2967502f0",
+      "source_file": "content/vehicles/mercedes-benz-c-class-global-search-2026.json",
+      "source_sha256": "7a4488487afd5fd4274027999ef2bb628dac269596a396bea7b9f1f963f7cdbc",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://zh.autobridgeexport.com/vehicles/mercedes-benz-c-class-global-search-2026.html",
+      "language": "zh",
+      "page_type": "vehicles",
+      "title": "2026 Mercedes-Benz C-Class出口采购：C 300与AMG参数必须分开",
+      "content_key": "vehicles/mercedes-benz-c-class-global-search-2026",
+      "current_source": true,
+      "local_page": "zh/vehicles/mercedes-benz-c-class-global-search-2026.html",
+      "local_page_sha256": "81a2c4fa883d2841b992fc7c42d6950035ab56d6d42d16c650d9131c993439a8",
+      "source_file": "content/vehicles/mercedes-benz-c-class-global-search-2026.json",
+      "source_sha256": "7a4488487afd5fd4274027999ef2bb628dac269596a396bea7b9f1f963f7cdbc",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    }
+  ]
+}

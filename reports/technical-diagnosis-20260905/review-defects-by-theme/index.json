@@ -1,0 +1,2936 @@
+[
+  {
+    "content_key": "guides/battery-warranty-southeast-asia",
+    "current_source": true,
+    "failed_languages": [
+      "en"
+    ],
+    "file": "guides--battery-warranty-southeast-asia.json"
+  },
+  {
+    "content_key": "guides/best-chinese-suvs-for-latam",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ar",
+      "zh"
+    ],
+    "file": "guides--best-chinese-suvs-for-latam.json"
+  },
+  {
+    "content_key": "guides/china-nev-export-update-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ar",
+      "zh"
+    ],
+    "file": "guides--china-nev-export-update-2026.json"
+  },
+  {
+    "content_key": "guides/chinese-ev-export-checklist",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ar",
+      "zh"
+    ],
+    "file": "guides--chinese-ev-export-checklist.json"
+  },
+  {
+    "content_key": "guides/import-cars-from-china",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ar",
+      "zh"
+    ],
+    "file": "guides--import-cars-from-china.json"
+  },
+  {
+    "content_key": "guides/new-vs-used-ev-middle-east",
+    "current_source": true,
+    "failed_languages": [
+      "en"
+    ],
+    "file": "guides--new-vs-used-ev-middle-east.json"
+  },
+  {
+    "content_key": "guides/pickup-export-latin-america",
+    "current_source": true,
+    "failed_languages": [
+      "en"
+    ],
+    "file": "guides--pickup-export-latin-america.json"
+  },
+  {
+    "content_key": "guides/roro-container-shipping-latin-america",
+    "current_source": true,
+    "failed_languages": [
+      "en"
+    ],
+    "file": "guides--roro-container-shipping-latin-america.json"
+  },
+  {
+    "content_key": "guides/seven-seat-suv-latin-america",
+    "current_source": true,
+    "failed_languages": [
+      "en"
+    ],
+    "file": "guides--seven-seat-suv-latin-america.json"
+  },
+  {
+    "content_key": "vehicles/aion-y-plus-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--aion-y-plus-2026.json"
+  },
+  {
+    "content_key": "vehicles/avatr-11-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--avatr-11-2026.json"
+  },
+  {
+    "content_key": "vehicles/avatr-12-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--avatr-12-2026.json"
+  },
+  {
+    "content_key": "vehicles/baojun-yep-plus-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--baojun-yep-plus-2026.json"
+  },
+  {
+    "content_key": "vehicles/bmw-x5-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--bmw-x5-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/byd-atto-3-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--byd-atto-3-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/byd-atto-3-yuan-plus-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--byd-atto-3-yuan-plus-2026.json"
+  },
+  {
+    "content_key": "vehicles/byd-dolphin-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--byd-dolphin-2026.json"
+  },
+  {
+    "content_key": "vehicles/byd-han-ev-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--byd-han-ev-2026.json"
+  },
+  {
+    "content_key": "vehicles/byd-han-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--byd-han-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/byd-qin-plus-dm-i-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--byd-qin-plus-dm-i-2026.json"
+  },
+  {
+    "content_key": "vehicles/byd-seagull-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--byd-seagull-2026.json"
+  },
+  {
+    "content_key": "vehicles/byd-seal-ev-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--byd-seal-ev-2026.json"
+  },
+  {
+    "content_key": "vehicles/byd-seal-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--byd-seal-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/byd-sealion-6-dm-i-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--byd-sealion-6-dm-i-2026.json"
+  },
+  {
+    "content_key": "vehicles/byd-shark-phev-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--byd-shark-phev-2026.json"
+  },
+  {
+    "content_key": "vehicles/byd-song-l-ev-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--byd-song-l-ev-2026.json"
+  },
+  {
+    "content_key": "vehicles/byd-song-plus-dm-i-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--byd-song-plus-dm-i-2026.json"
+  },
+  {
+    "content_key": "vehicles/byd-tang-dm-i-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--byd-tang-dm-i-2026.json"
+  },
+  {
+    "content_key": "vehicles/byd-yuan-up-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--byd-yuan-up-2026.json"
+  },
+  {
+    "content_key": "vehicles/changan-cs75-plus-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--changan-cs75-plus-2026.json"
+  },
+  {
+    "content_key": "vehicles/changan-deepal-g318-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--changan-deepal-g318-2026.json"
+  },
+  {
+    "content_key": "vehicles/changan-deepal-s07-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--changan-deepal-s07-2026.json"
+  },
+  {
+    "content_key": "vehicles/changan-deepal-sl03-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--changan-deepal-sl03-2026.json"
+  },
+  {
+    "content_key": "vehicles/changan-lumin-ev-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--changan-lumin-ev-2026.json"
+  },
+  {
+    "content_key": "vehicles/changan-uni-k-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--changan-uni-k-2026.json"
+  },
+  {
+    "content_key": "vehicles/changan-uni-t-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--changan-uni-t-2026.json"
+  },
+  {
+    "content_key": "vehicles/chery-arrizo-8-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--chery-arrizo-8-2026.json"
+  },
+  {
+    "content_key": "vehicles/chery-omoda-5-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--chery-omoda-5-2026.json"
+  },
+  {
+    "content_key": "vehicles/chery-omoda-5-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--chery-omoda-5-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/chery-omoda-e5-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--chery-omoda-e5-2026.json"
+  },
+  {
+    "content_key": "vehicles/chery-tiggo-7-pro-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--chery-tiggo-7-pro-2026.json"
+  },
+  {
+    "content_key": "vehicles/chery-tiggo-8-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--chery-tiggo-8-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/chery-tiggo-8-pro-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--chery-tiggo-8-pro-2026.json"
+  },
+  {
+    "content_key": "vehicles/chery-tiggo-9-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--chery-tiggo-9-2026.json"
+  },
+  {
+    "content_key": "vehicles/chevrolet-equinox-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--chevrolet-equinox-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/chevrolet-silverado-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--chevrolet-silverado-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/chevrolet-tahoe-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--chevrolet-tahoe-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/citroen-c3-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--citroen-c3-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/dacia-sandero-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--dacia-sandero-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/denza-d9-dm-i-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--denza-d9-dm-i-2026.json"
+  },
+  {
+    "content_key": "vehicles/denza-n7-ev-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--denza-n7-ev-2026.json"
+  },
+  {
+    "content_key": "vehicles/exeed-vx-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--exeed-vx-2026.json"
+  },
+  {
+    "content_key": "vehicles/fiat-500-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--fiat-500-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/ford-bronco-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--ford-bronco-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/ford-explorer-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--ford-explorer-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/ford-transit-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--ford-transit-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/gac-aion-hyper-ht-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--gac-aion-hyper-ht-2026.json"
+  },
+  {
+    "content_key": "vehicles/gac-aion-s-plus-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--gac-aion-s-plus-2026.json"
+  },
+  {
+    "content_key": "vehicles/gac-aion-v-plus-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--gac-aion-v-plus-2026.json"
+  },
+  {
+    "content_key": "vehicles/gac-aion-y-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--gac-aion-y-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/gac-aion-y-plus-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--gac-aion-y-plus-2026.json"
+  },
+  {
+    "content_key": "vehicles/gac-trumpchi-gs8-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--gac-trumpchi-gs8-2026.json"
+  },
+  {
+    "content_key": "vehicles/gac-trumpchi-m8-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--gac-trumpchi-m8-2026.json"
+  },
+  {
+    "content_key": "vehicles/geely-coolray-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--geely-coolray-2026.json"
+  },
+  {
+    "content_key": "vehicles/geely-coolray-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--geely-coolray-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/geely-galaxy-e5-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--geely-galaxy-e5-2026.json"
+  },
+  {
+    "content_key": "vehicles/geely-galaxy-e8-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--geely-galaxy-e8-2026.json"
+  },
+  {
+    "content_key": "vehicles/geely-galaxy-l7-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--geely-galaxy-l7-2026.json"
+  },
+  {
+    "content_key": "vehicles/geely-geometry-e-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--geely-geometry-e-2026.json"
+  },
+  {
+    "content_key": "vehicles/geely-monjaro-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--geely-monjaro-2026.json"
+  },
+  {
+    "content_key": "vehicles/geely-panda-mini-ev-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--geely-panda-mini-ev-2026.json"
+  },
+  {
+    "content_key": "vehicles/gmc-sierra-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--gmc-sierra-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/great-wall-poer-pickup-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--great-wall-poer-pickup-2026.json"
+  },
+  {
+    "content_key": "vehicles/haval-big-dog-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--haval-big-dog-2026.json"
+  },
+  {
+    "content_key": "vehicles/haval-h6-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--haval-h6-2026.json"
+  },
+  {
+    "content_key": "vehicles/haval-h6-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--haval-h6-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/haval-jolion-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--haval-jolion-2026.json"
+  },
+  {
+    "content_key": "vehicles/honda-accord-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--honda-accord-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/honda-civic-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--honda-civic-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/honda-cr-v-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--honda-cr-v-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/honda-hr-v-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--honda-hr-v-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/hongqi-e-hs9-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--hongqi-e-hs9-2026.json"
+  },
+  {
+    "content_key": "vehicles/hongqi-e-qm5-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--hongqi-e-qm5-2026.json"
+  },
+  {
+    "content_key": "vehicles/hongqi-h5-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--hongqi-h5-2026.json"
+  },
+  {
+    "content_key": "vehicles/hyundai-elantra-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--hyundai-elantra-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/hyundai-kona-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--hyundai-kona-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/hyundai-santa-fe-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--hyundai-santa-fe-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/hyundai-staria-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--hyundai-staria-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/hyundai-tucson-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--hyundai-tucson-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/im-motors-ls6-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--im-motors-ls6-2026.json"
+  },
+  {
+    "content_key": "vehicles/isuzu-d-max-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--isuzu-d-max-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/jaecoo-j7-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--jaecoo-j7-2026.json"
+  },
+  {
+    "content_key": "vehicles/jeep-grand-cherokee-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--jeep-grand-cherokee-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/jeep-wrangler-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--jeep-wrangler-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/jetour-t2-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--jetour-t2-2026.json"
+  },
+  {
+    "content_key": "vehicles/jetour-traveller-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--jetour-traveller-2026.json"
+  },
+  {
+    "content_key": "vehicles/jetour-x70-plus-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--jetour-x70-plus-2026.json"
+  },
+  {
+    "content_key": "vehicles/kia-carnival-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--kia-carnival-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/kia-seltos-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--kia-seltos-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/kia-sorento-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--kia-sorento-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/kia-sportage-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--kia-sportage-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/land-rover-defender-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--land-rover-defender-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/leapmotor-c01-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--leapmotor-c01-2026.json"
+  },
+  {
+    "content_key": "vehicles/leapmotor-c10-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--leapmotor-c10-2026.json"
+  },
+  {
+    "content_key": "vehicles/leapmotor-c11-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--leapmotor-c11-2026.json"
+  },
+  {
+    "content_key": "vehicles/leapmotor-t03-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--leapmotor-t03-2026.json"
+  },
+  {
+    "content_key": "vehicles/lexus-nx-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--lexus-nx-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/lexus-rx-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--lexus-rx-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/li-auto-l6-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--li-auto-l6-2026.json"
+  },
+  {
+    "content_key": "vehicles/li-auto-l7-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--li-auto-l7-2026.json"
+  },
+  {
+    "content_key": "vehicles/li-auto-l8-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--li-auto-l8-2026.json"
+  },
+  {
+    "content_key": "vehicles/li-auto-l9-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--li-auto-l9-2026.json"
+  },
+  {
+    "content_key": "vehicles/li-auto-mega-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--li-auto-mega-2026.json"
+  },
+  {
+    "content_key": "vehicles/lynk-co-01-phev-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--lynk-co-01-phev-2026.json"
+  },
+  {
+    "content_key": "vehicles/lynk-co-08-em-p-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--lynk-co-08-em-p-2026.json"
+  },
+  {
+    "content_key": "vehicles/lynk-co-09-em-p-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--lynk-co-09-em-p-2026.json"
+  },
+  {
+    "content_key": "vehicles/maxus-mifa-9-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--maxus-mifa-9-2026.json"
+  },
+  {
+    "content_key": "vehicles/maxus-t90-ev-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--maxus-t90-ev-2026.json"
+  },
+  {
+    "content_key": "vehicles/mazda-bt-50-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--mazda-bt-50-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/mazda-cx-5-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--mazda-cx-5-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/mercedes-benz-c-class-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--mercedes-benz-c-class-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/mercedes-benz-e-class-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--mercedes-benz-e-class-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/mercedes-benz-glc-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--mercedes-benz-glc-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/mg-cyberster-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--mg-cyberster-2026.json"
+  },
+  {
+    "content_key": "vehicles/mg-hs-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--mg-hs-2026.json"
+  },
+  {
+    "content_key": "vehicles/mg-mg4-ev-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--mg-mg4-ev-2026.json"
+  },
+  {
+    "content_key": "vehicles/mg-mg4-ev-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--mg-mg4-ev-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/mg-zs-ev-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--mg-zs-ev-2026.json"
+  },
+  {
+    "content_key": "vehicles/mg4-ev-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--mg4-ev-2026.json"
+  },
+  {
+    "content_key": "vehicles/neta-aya-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--neta-aya-2026.json"
+  },
+  {
+    "content_key": "vehicles/neta-gt-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--neta-gt-2026.json"
+  },
+  {
+    "content_key": "vehicles/neta-s-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--neta-s-2026.json"
+  },
+  {
+    "content_key": "vehicles/neta-x-ev-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--neta-x-ev-2026.json"
+  },
+  {
+    "content_key": "vehicles/nio-ec6-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--nio-ec6-2026.json"
+  },
+  {
+    "content_key": "vehicles/nio-es6-el6-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--nio-es6-el6-2026.json"
+  },
+  {
+    "content_key": "vehicles/nio-et5-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--nio-et5-2026.json"
+  },
+  {
+    "content_key": "vehicles/nio-et7-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--nio-et7-2026.json"
+  },
+  {
+    "content_key": "vehicles/nissan-altima-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--nissan-altima-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/nissan-qashqai-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--nissan-qashqai-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/nissan-rogue-x-trail-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--nissan-rogue-x-trail-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/nissan-sentra-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--nissan-sentra-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/opel-corsa-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--opel-corsa-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/ora-good-cat-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--ora-good-cat-2026.json"
+  },
+  {
+    "content_key": "vehicles/peugeot-208-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--peugeot-208-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/polestar-2-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--polestar-2-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/porsche-macan-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--porsche-macan-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/ram-1500-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--ram-1500-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/renault-captur-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--renault-captur-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/renault-clio-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--renault-clio-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/roewe-d7-dmh-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--roewe-d7-dmh-2026.json"
+  },
+  {
+    "content_key": "vehicles/seat-ibiza-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--seat-ibiza-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/skoda-octavia-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--skoda-octavia-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/subaru-forester-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--subaru-forester-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/subaru-outback-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--subaru-outback-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/suzuki-jimny-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--suzuki-jimny-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/suzuki-swift-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--suzuki-swift-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/suzuki-vitara-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--suzuki-vitara-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/tank-300-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--tank-300-2026.json"
+  },
+  {
+    "content_key": "vehicles/tank-500-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--tank-500-2026.json"
+  },
+  {
+    "content_key": "vehicles/tesla-model-3-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--tesla-model-3-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/tesla-model-y-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--tesla-model-y-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/toyota-alphard-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--toyota-alphard-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/toyota-camry-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--toyota-camry-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/toyota-corolla-cross-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--toyota-corolla-cross-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/toyota-corolla-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--toyota-corolla-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/toyota-rav4-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "zh"
+    ],
+    "file": "vehicles--toyota-rav4-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/wey-coffee-01-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--wey-coffee-01-2026.json"
+  },
+  {
+    "content_key": "vehicles/wuling-air-ev-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--wuling-air-ev-2026.json"
+  },
+  {
+    "content_key": "vehicles/wuling-bingo-ev-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--wuling-bingo-ev-2026.json"
+  },
+  {
+    "content_key": "vehicles/wuling-mini-ev-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--wuling-mini-ev-2026.json"
+  },
+  {
+    "content_key": "vehicles/wuling-starlight-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--wuling-starlight-2026.json"
+  },
+  {
+    "content_key": "vehicles/xpeng-g6-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--xpeng-g6-2026.json"
+  },
+  {
+    "content_key": "vehicles/xpeng-g9-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--xpeng-g9-2026.json"
+  },
+  {
+    "content_key": "vehicles/xpeng-mona-m03-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--xpeng-mona-m03-2026.json"
+  },
+  {
+    "content_key": "vehicles/xpeng-p7-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--xpeng-p7-2026.json"
+  },
+  {
+    "content_key": "vehicles/xpeng-x9-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--xpeng-x9-2026.json"
+  },
+  {
+    "content_key": "vehicles/yangwang-u8-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--yangwang-u8-2026.json"
+  },
+  {
+    "content_key": "vehicles/zeekr-001-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--zeekr-001-2026.json"
+  },
+  {
+    "content_key": "vehicles/zeekr-7x-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--zeekr-7x-2026.json"
+  },
+  {
+    "content_key": "vehicles/zeekr-x-2026",
+    "current_source": false,
+    "failed_languages": [
+      "en",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar",
+      "zh"
+    ],
+    "file": "vehicles--zeekr-x-2026.json"
+  },
+  {
+    "content_key": "guides/pickup-export-southeast-asia",
+    "current_source": true,
+    "failed_languages": [
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja",
+      "ko",
+      "vi",
+      "th",
+      "id",
+      "ar"
+    ],
+    "file": "guides--pickup-export-southeast-asia.json"
+  },
+  {
+    "content_key": "vehicles/peugeot-3008-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "fr",
+      "de",
+      "es",
+      "pt-br",
+      "ja"
+    ],
+    "file": "vehicles--peugeot-3008-global-search-2026.json"
+  },
+  {
+    "content_key": "guides/mpv-procurement-africa",
+    "current_source": true,
+    "failed_languages": [
+      "ja",
+      "th"
+    ],
+    "file": "guides--mpv-procurement-africa.json"
+  },
+  {
+    "content_key": "guides/mpv-procurement-middle-east",
+    "current_source": true,
+    "failed_languages": [
+      "ja",
+      "th"
+    ],
+    "file": "guides--mpv-procurement-middle-east.json"
+  },
+  {
+    "content_key": "guides/photo-vin-review-global",
+    "current_source": true,
+    "failed_languages": [
+      "ko"
+    ],
+    "file": "guides--photo-vin-review-global.json"
+  },
+  {
+    "content_key": "guides/daily-article",
+    "current_source": false,
+    "failed_languages": [
+      "zh"
+    ],
+    "file": "guides--daily-article.json"
+  },
+  {
+    "content_key": "vehicles/toyota-hiace-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "zh"
+    ],
+    "file": "vehicles--toyota-hiace-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/toyota-highlander-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "zh"
+    ],
+    "file": "vehicles--toyota-highlander-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/toyota-hilux-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "zh"
+    ],
+    "file": "vehicles--toyota-hilux-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/toyota-land-cruiser-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "zh"
+    ],
+    "file": "vehicles--toyota-land-cruiser-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/toyota-prius-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "zh"
+    ],
+    "file": "vehicles--toyota-prius-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/toyota-tacoma-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "zh"
+    ],
+    "file": "vehicles--toyota-tacoma-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/toyota-yaris-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "zh"
+    ],
+    "file": "vehicles--toyota-yaris-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/volkswagen-amarok-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "zh"
+    ],
+    "file": "vehicles--volkswagen-amarok-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/volkswagen-golf-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "zh"
+    ],
+    "file": "vehicles--volkswagen-golf-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/volkswagen-tiguan-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "zh"
+    ],
+    "file": "vehicles--volkswagen-tiguan-global-search-2026.json"
+  },
+  {
+    "content_key": "vehicles/volvo-xc60-global-search-2026",
+    "current_source": true,
+    "failed_languages": [
+      "zh"
+    ],
+    "file": "vehicles--volvo-xc60-global-search-2026.json"
+  }
+]

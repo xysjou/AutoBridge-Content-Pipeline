@@ -1,0 +1,204 @@
+{
+  "audit_at": "2026-09-05T15:21:22.418Z",
+  "content_key": "vehicles/honda-cr-v-global-search-2026",
+  "publish_approved": false,
+  "pages": [
+    {
+      "url": "https://www.autobridgeexport.com/vehicles/honda-cr-v-global-search-2026.html",
+      "language": "en",
+      "page_type": "vehicles",
+      "title": "Honda CR-V 2026 export buyer profile: identify the market first",
+      "content_key": "vehicles/honda-cr-v-global-search-2026",
+      "current_source": true,
+      "local_page": "en/vehicles/honda-cr-v-global-search-2026.html",
+      "local_page_sha256": "74ed0e58b195576203c9d7acadf1a4faef407dff640ce8df0bcbdd3a43db0523",
+      "source_file": "content/vehicles/honda-cr-v-global-search-2026.json",
+      "source_sha256": "724977963ac436654eb81aff12da81512fcf335cd86a9b902c31ffafab788c8a",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://fr.autobridgeexport.com/vehicles/honda-cr-v-global-search-2026.html",
+      "language": "fr",
+      "page_type": "vehicles",
+      "title": "Honda CR-V 2026 à l'export : identifier d'abord le marché",
+      "content_key": "vehicles/honda-cr-v-global-search-2026",
+      "current_source": true,
+      "local_page": "fr/vehicles/honda-cr-v-global-search-2026.html",
+      "local_page_sha256": "00adfdba8347285fed0aaca1362cfed3ee2828df348984941676c705454d4d9e",
+      "source_file": "content/vehicles/honda-cr-v-global-search-2026.json",
+      "source_sha256": "724977963ac436654eb81aff12da81512fcf335cd86a9b902c31ffafab788c8a",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://de.autobridgeexport.com/vehicles/honda-cr-v-global-search-2026.html",
+      "language": "de",
+      "page_type": "vehicles",
+      "title": "Honda CR-V 2026 für den Export: zuerst den Markt bestimmen",
+      "content_key": "vehicles/honda-cr-v-global-search-2026",
+      "current_source": true,
+      "local_page": "de/vehicles/honda-cr-v-global-search-2026.html",
+      "local_page_sha256": "00194a5561d4667b0250b2086c7878a75c7e3f062ccd9a995bbfabb7b5ebb16f",
+      "source_file": "content/vehicles/honda-cr-v-global-search-2026.json",
+      "source_sha256": "724977963ac436654eb81aff12da81512fcf335cd86a9b902c31ffafab788c8a",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://es.autobridgeexport.com/vehicles/honda-cr-v-global-search-2026.html",
+      "language": "es",
+      "page_type": "vehicles",
+      "title": "Honda CR-V 2026 para exportación: primero identifique el mercado",
+      "content_key": "vehicles/honda-cr-v-global-search-2026",
+      "current_source": true,
+      "local_page": "es/vehicles/honda-cr-v-global-search-2026.html",
+      "local_page_sha256": "1964cad94fcbcdef569de3ad4ab40d867ace7efebd4009ef1ea7ea8ca30bf8d9",
+      "source_file": "content/vehicles/honda-cr-v-global-search-2026.json",
+      "source_sha256": "724977963ac436654eb81aff12da81512fcf335cd86a9b902c31ffafab788c8a",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://pt.autobridgeexport.com/vehicles/honda-cr-v-global-search-2026.html",
+      "language": "pt-br",
+      "page_type": "vehicles",
+      "title": "Honda CR-V 2026 para exportação: identifique primeiro o mercado",
+      "content_key": "vehicles/honda-cr-v-global-search-2026",
+      "current_source": true,
+      "local_page": "pt-br/vehicles/honda-cr-v-global-search-2026.html",
+      "local_page_sha256": "e1318d5b718b7e3cecb799d8506bab61cf4af540a28754145c6e4de41c5971d0",
+      "source_file": "content/vehicles/honda-cr-v-global-search-2026.json",
+      "source_sha256": "724977963ac436654eb81aff12da81512fcf335cd86a9b902c31ffafab788c8a",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ja.autobridgeexport.com/vehicles/honda-cr-v-global-search-2026.html",
+      "language": "ja",
+      "page_type": "vehicles",
+      "title": "Honda CR-V 2026 輸出購入ガイド：先に仕向地を確認",
+      "content_key": "vehicles/honda-cr-v-global-search-2026",
+      "current_source": true,
+      "local_page": "ja/vehicles/honda-cr-v-global-search-2026.html",
+      "local_page_sha256": "a770bf27adafeaf69aac4701e73f148d8e5d26a0545c9e9e531d132fce4f4482",
+      "source_file": "content/vehicles/honda-cr-v-global-search-2026.json",
+      "source_sha256": "724977963ac436654eb81aff12da81512fcf335cd86a9b902c31ffafab788c8a",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://zh.autobridgeexport.com/vehicles/honda-cr-v-global-search-2026.html",
+      "language": "zh",
+      "page_type": "vehicles",
+      "title": "Honda CR-V 2026出口买家指南：先确认原始市场",
+      "content_key": "vehicles/honda-cr-v-global-search-2026",
+      "current_source": true,
+      "local_page": "zh/vehicles/honda-cr-v-global-search-2026.html",
+      "local_page_sha256": "e357d6d4c216237cd4a16423bf70b00cf2ef4993c207d6813c9aee6450431ecc",
+      "source_file": "content/vehicles/honda-cr-v-global-search-2026.json",
+      "source_sha256": "724977963ac436654eb81aff12da81512fcf335cd86a9b902c31ffafab788c8a",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    }
+  ]
+}

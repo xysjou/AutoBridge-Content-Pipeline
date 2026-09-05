@@ -1,0 +1,31 @@
+{
+  "audit_at": "2026-09-05T15:21:22.418Z",
+  "content_key": "vehicles/volkswagen-amarok-global-search-2026",
+  "publish_approved": false,
+  "pages": [
+    {
+      "url": "https://zh.autobridgeexport.com/vehicles/volkswagen-amarok-global-search-2026.html",
+      "language": "zh",
+      "page_type": "vehicles",
+      "title": "Volkswagen Amarok 2026：出口证据与购车核验",
+      "content_key": "vehicles/volkswagen-amarok-global-search-2026",
+      "current_source": true,
+      "local_page": "zh/vehicles/volkswagen-amarok-global-search-2026.html",
+      "local_page_sha256": "efb14fdb3a53061b9126345b18bcdb91fa694406ae98d5e9fe843e72e31bfd73",
+      "source_file": "content/vehicles/volkswagen-amarok-global-search-2026.json",
+      "source_sha256": "09e242dbac979b961c2e4232478cd76cd289de22bd8aabb9659c6a5d038bb9ce",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:3"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    }
+  ]
+}

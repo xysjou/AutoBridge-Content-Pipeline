@@ -1,0 +1,30 @@
+{
+  "audit_at": "2026-09-05T15:21:22.418Z",
+  "content_key": "guides/photo-vin-review-global",
+  "publish_approved": false,
+  "pages": [
+    {
+      "url": "https://ko.autobridgeexport.com/guides/photo-vin-review-global.html",
+      "language": "ko",
+      "page_type": "guides",
+      "title": "VIN 사진 검증: 수입 전 실제 차량 확인 방법",
+      "content_key": "guides/photo-vin-review-global",
+      "current_source": true,
+      "local_page": "ko/guides/photo-vin-review-global.html",
+      "local_page_sha256": "6ecbe46fdc310e7a03f70703905d552033c9df1ad14be5da5b920aed3990a35f",
+      "source_file": "content/buyer-guides/photo-vin-review-global.json",
+      "source_sha256": "a9369867ec70c1e5a7e5c47123a02e5ec97f54e1ad55c2b595236db2805b7dfb",
+      "reasons": [
+        "content_too_thin",
+        "editorial_quality_score_below_85"
+      ],
+      "parameter_issues": [],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Independent review and targeted correction; retain quality restrictions until passed."
+    }
+  ]
+}

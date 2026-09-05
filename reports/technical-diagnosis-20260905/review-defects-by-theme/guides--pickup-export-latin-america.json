@@ -1,0 +1,30 @@
+{
+  "audit_at": "2026-09-05T15:21:22.418Z",
+  "content_key": "guides/pickup-export-latin-america",
+  "publish_approved": false,
+  "pages": [
+    {
+      "url": "https://www.autobridgeexport.com/guides/pickup-export-latin-america.html",
+      "language": "en",
+      "page_type": "guides",
+      "title": "Match a Pickup Build to Work in Latin America",
+      "content_key": "guides/pickup-export-latin-america",
+      "current_source": true,
+      "local_page": "en/guides/pickup-export-latin-america.html",
+      "local_page_sha256": "31f3ca1e3c8928633e189596bc4daf2f57d7298182bdd0e0f373ed5dccd19153",
+      "source_file": "content/buyer-guides/pickup-export-latin-america.json",
+      "source_sha256": "5747ff42e4e90616bece1e84f35dd8d89c05acac0da2f375e4f75741779833be",
+      "reasons": [
+        "machine_template_leakage",
+        "editorial_quality_score_below_85"
+      ],
+      "parameter_issues": [],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Independent review and targeted correction; retain quality restrictions until passed."
+    }
+  ]
+}

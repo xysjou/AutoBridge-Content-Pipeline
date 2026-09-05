@@ -1,0 +1,210 @@
+{
+  "audit_at": "2026-09-05T15:21:22.418Z",
+  "content_key": "vehicles/mazda-cx-5-global-search-2026",
+  "publish_approved": false,
+  "pages": [
+    {
+      "url": "https://www.autobridgeexport.com/vehicles/mazda-cx-5-global-search-2026.html",
+      "language": "en",
+      "page_type": "vehicles",
+      "title": "Use 2026 Mazda CX-5 U.S. Specs Carefully",
+      "content_key": "vehicles/mazda-cx-5-global-search-2026",
+      "current_source": true,
+      "local_page": "en/vehicles/mazda-cx-5-global-search-2026.html",
+      "local_page_sha256": "bcf18909ebd4214ca2494943cccd72cd652637c753419ab66ade4d0f322dee74",
+      "source_file": "content/vehicles/mazda-cx-5-global-search-2026.json",
+      "source_sha256": "8908246feb9e62bc2a219c1ba54ce7848a5d3c48d4feca00b27c72c181126fd8",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://fr.autobridgeexport.com/vehicles/mazda-cx-5-global-search-2026.html",
+      "language": "fr",
+      "page_type": "vehicles",
+      "title": "Mazda CX-5 2026: Profil acheteur export",
+      "content_key": "vehicles/mazda-cx-5-global-search-2026",
+      "current_source": true,
+      "local_page": "fr/vehicles/mazda-cx-5-global-search-2026.html",
+      "local_page_sha256": "f0d276bc0fd91a4f06f4cca7f4e9f6cd8622005793f2c144a7e95c9d962534f4",
+      "source_file": "content/vehicles/mazda-cx-5-global-search-2026.json",
+      "source_sha256": "8908246feb9e62bc2a219c1ba54ce7848a5d3c48d4feca00b27c72c181126fd8",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://de.autobridgeexport.com/vehicles/mazda-cx-5-global-search-2026.html",
+      "language": "de",
+      "page_type": "vehicles",
+      "title": "Mazda CX-5 2026: Exportkäufer-Profil",
+      "content_key": "vehicles/mazda-cx-5-global-search-2026",
+      "current_source": true,
+      "local_page": "de/vehicles/mazda-cx-5-global-search-2026.html",
+      "local_page_sha256": "dd2a2eafe28b35f4da8417948ac1fc13298f5d7f80ad09ca7f089941f0788cfe",
+      "source_file": "content/vehicles/mazda-cx-5-global-search-2026.json",
+      "source_sha256": "8908246feb9e62bc2a219c1ba54ce7848a5d3c48d4feca00b27c72c181126fd8",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://es.autobridgeexport.com/vehicles/mazda-cx-5-global-search-2026.html",
+      "language": "es",
+      "page_type": "vehicles",
+      "title": "Mazda CX-5 2026: Perfil para comprador exportador",
+      "content_key": "vehicles/mazda-cx-5-global-search-2026",
+      "current_source": true,
+      "local_page": "es/vehicles/mazda-cx-5-global-search-2026.html",
+      "local_page_sha256": "b5e26369a6a97ab7639b66057cd73785c784436f0a972605a04d6e74f049ff3e",
+      "source_file": "content/vehicles/mazda-cx-5-global-search-2026.json",
+      "source_sha256": "8908246feb9e62bc2a219c1ba54ce7848a5d3c48d4feca00b27c72c181126fd8",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://pt.autobridgeexport.com/vehicles/mazda-cx-5-global-search-2026.html",
+      "language": "pt-br",
+      "page_type": "vehicles",
+      "title": "Mazda CX-5 2026: Perfil para comprador de exportação",
+      "content_key": "vehicles/mazda-cx-5-global-search-2026",
+      "current_source": true,
+      "local_page": "pt-br/vehicles/mazda-cx-5-global-search-2026.html",
+      "local_page_sha256": "dceb6a232a7d852e2622f71f6be95b7e17a689d54bfda0d9b9b62f5f7f8fbcbb",
+      "source_file": "content/vehicles/mazda-cx-5-global-search-2026.json",
+      "source_sha256": "8908246feb9e62bc2a219c1ba54ce7848a5d3c48d4feca00b27c72c181126fd8",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ja.autobridgeexport.com/vehicles/mazda-cx-5-global-search-2026.html",
+      "language": "ja",
+      "page_type": "vehicles",
+      "title": "Mazda CX-5 2026: 輸出購入者向けプロフィール",
+      "content_key": "vehicles/mazda-cx-5-global-search-2026",
+      "current_source": true,
+      "local_page": "ja/vehicles/mazda-cx-5-global-search-2026.html",
+      "local_page_sha256": "46b02ad43a67eb5bf68f3e51e4cccb3fffba5cba185b4215adfdc85dd9e55438",
+      "source_file": "content/vehicles/mazda-cx-5-global-search-2026.json",
+      "source_sha256": "8908246feb9e62bc2a219c1ba54ce7848a5d3c48d4feca00b27c72c181126fd8",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://zh.autobridgeexport.com/vehicles/mazda-cx-5-global-search-2026.html",
+      "language": "zh",
+      "page_type": "vehicles",
+      "title": "2026 Mazda CX-5出口采购：美国市场参数只能作为对应版本参考",
+      "content_key": "vehicles/mazda-cx-5-global-search-2026",
+      "current_source": true,
+      "local_page": "zh/vehicles/mazda-cx-5-global-search-2026.html",
+      "local_page_sha256": "579fa82ad754f042a1fa2f364a9fde126e6540ac280c5b988928f419b969d275",
+      "source_file": "content/vehicles/mazda-cx-5-global-search-2026.json",
+      "source_sha256": "8908246feb9e62bc2a219c1ba54ce7848a5d3c48d4feca00b27c72c181126fd8",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    }
+  ]
+}

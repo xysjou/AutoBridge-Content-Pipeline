@@ -1,0 +1,31 @@
+{
+  "audit_at": "2026-09-05T15:21:22.418Z",
+  "content_key": "vehicles/volkswagen-golf-global-search-2026",
+  "publish_approved": false,
+  "pages": [
+    {
+      "url": "https://zh.autobridgeexport.com/vehicles/volkswagen-golf-global-search-2026.html",
+      "language": "zh",
+      "page_type": "vehicles",
+      "title": "Volkswagen Golf 2026：出口证据与购车核验",
+      "content_key": "vehicles/volkswagen-golf-global-search-2026",
+      "current_source": true,
+      "local_page": "zh/vehicles/volkswagen-golf-global-search-2026.html",
+      "local_page_sha256": "1cc54fc373bee50746fc4e6eda4347b51d1a2b7b5b327597f83a461e2820df97",
+      "source_file": "content/vehicles/volkswagen-golf-global-search-2026.json",
+      "source_sha256": "0c97218d9a9302ad32e14691f0b01259e4f9864f4900526739a0892782ecb41c",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:3"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    }
+  ]
+}

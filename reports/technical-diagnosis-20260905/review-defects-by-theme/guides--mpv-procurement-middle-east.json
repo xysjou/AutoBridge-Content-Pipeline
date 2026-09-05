@@ -1,0 +1,53 @@
+{
+  "audit_at": "2026-09-05T15:21:22.418Z",
+  "content_key": "guides/mpv-procurement-middle-east",
+  "publish_approved": false,
+  "pages": [
+    {
+      "url": "https://ja.autobridgeexport.com/guides/mpv-procurement-middle-east.html",
+      "language": "ja",
+      "page_type": "guides",
+      "title": "中国製MPVの世界調達：車種より先に任務を定義する | 中東",
+      "content_key": "guides/mpv-procurement-middle-east",
+      "current_source": true,
+      "local_page": "ja/guides/mpv-procurement-middle-east.html",
+      "local_page_sha256": "ed3e42821d372b32a7bd864f7cc1c4235ed9030eee02cddcb437db5f9ff2ca4c",
+      "source_file": "content/buyer-guides/mpv-procurement-middle-east.json",
+      "source_sha256": "df040fd743e459f8cba1495e3eba760ff3c4f9d464ea2d997b4c0721d07278e2",
+      "reasons": [
+        "near_duplicate_paragraphs",
+        "editorial_quality_score_below_85"
+      ],
+      "parameter_issues": [],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Independent review and targeted correction; retain quality restrictions until passed."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/guides/mpv-procurement-middle-east.html",
+      "language": "th",
+      "page_type": "guides",
+      "title": "จัดซื้อ MPV จีนทั่วโลก: กำหนดภารกิจก่อนเลือกรุ่น | ตะวันออกกลาง",
+      "content_key": "guides/mpv-procurement-middle-east",
+      "current_source": true,
+      "local_page": "th/guides/mpv-procurement-middle-east.html",
+      "local_page_sha256": "1b8405fe970ed44775ba0672f6ec30261bafd41dc039a3a84f88cf4e108e63b0",
+      "source_file": "content/buyer-guides/mpv-procurement-middle-east.json",
+      "source_sha256": "df040fd743e459f8cba1495e3eba760ff3c4f9d464ea2d997b4c0721d07278e2",
+      "reasons": [
+        "near_duplicate_paragraphs",
+        "editorial_quality_score_below_85"
+      ],
+      "parameter_issues": [],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Independent review and targeted correction; retain quality restrictions until passed."
+    }
+  ]
+}

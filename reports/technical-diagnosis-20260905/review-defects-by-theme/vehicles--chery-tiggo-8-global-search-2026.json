@@ -1,0 +1,210 @@
+{
+  "audit_at": "2026-09-05T15:21:22.418Z",
+  "content_key": "vehicles/chery-tiggo-8-global-search-2026",
+  "publish_approved": false,
+  "pages": [
+    {
+      "url": "https://www.autobridgeexport.com/vehicles/chery-tiggo-8-global-search-2026.html",
+      "language": "en",
+      "page_type": "vehicles",
+      "title": "Chery TIGGO 8 Export Buyer Guide: Which 7-Seat Version Are You Buying?",
+      "content_key": "vehicles/chery-tiggo-8-global-search-2026",
+      "current_source": true,
+      "local_page": "en/vehicles/chery-tiggo-8-global-search-2026.html",
+      "local_page_sha256": "df4826b7c6bcd641d2630aa4370c6f40c91d261595e20f27251c7995dd990ca7",
+      "source_file": "content/vehicles/chery-tiggo-8-global-search-2026.json",
+      "source_sha256": "c28867a36a8172adbc60886d8bb4236f3856ecb302ffda065230c6baacd209f4",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://fr.autobridgeexport.com/vehicles/chery-tiggo-8-global-search-2026.html",
+      "language": "fr",
+      "page_type": "vehicles",
+      "title": "Chery TIGGO 8 à l’export : quelle version 7 places achetez-vous ?",
+      "content_key": "vehicles/chery-tiggo-8-global-search-2026",
+      "current_source": true,
+      "local_page": "fr/vehicles/chery-tiggo-8-global-search-2026.html",
+      "local_page_sha256": "01631acaeeb8f972ac9b6416d1a31137c2ce85bb1f7b84e47796dca2f9c486b4",
+      "source_file": "content/vehicles/chery-tiggo-8-global-search-2026.json",
+      "source_sha256": "c28867a36a8172adbc60886d8bb4236f3856ecb302ffda065230c6baacd209f4",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://de.autobridgeexport.com/vehicles/chery-tiggo-8-global-search-2026.html",
+      "language": "de",
+      "page_type": "vehicles",
+      "title": "Chery TIGGO 8 Export: Welche 7-Sitzer-Version kaufen Sie?",
+      "content_key": "vehicles/chery-tiggo-8-global-search-2026",
+      "current_source": true,
+      "local_page": "de/vehicles/chery-tiggo-8-global-search-2026.html",
+      "local_page_sha256": "2e54e9343e3b1e64b9bd6d3a29850c46a4372a0c3ac075ac77a3daed0b89544d",
+      "source_file": "content/vehicles/chery-tiggo-8-global-search-2026.json",
+      "source_sha256": "c28867a36a8172adbc60886d8bb4236f3856ecb302ffda065230c6baacd209f4",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://es.autobridgeexport.com/vehicles/chery-tiggo-8-global-search-2026.html",
+      "language": "es",
+      "page_type": "vehicles",
+      "title": "Chery TIGGO 8 para exportar: ¿qué versión de 7 plazas compra?",
+      "content_key": "vehicles/chery-tiggo-8-global-search-2026",
+      "current_source": true,
+      "local_page": "es/vehicles/chery-tiggo-8-global-search-2026.html",
+      "local_page_sha256": "d3febdcdbbcff49ba8b9694aa92b06ae3f1977340870c79b1a869245232a49cd",
+      "source_file": "content/vehicles/chery-tiggo-8-global-search-2026.json",
+      "source_sha256": "c28867a36a8172adbc60886d8bb4236f3856ecb302ffda065230c6baacd209f4",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://pt.autobridgeexport.com/vehicles/chery-tiggo-8-global-search-2026.html",
+      "language": "pt-br",
+      "page_type": "vehicles",
+      "title": "Chery TIGGO 8 para exportar: qual versão de 7 lugares você compra?",
+      "content_key": "vehicles/chery-tiggo-8-global-search-2026",
+      "current_source": true,
+      "local_page": "pt-br/vehicles/chery-tiggo-8-global-search-2026.html",
+      "local_page_sha256": "fd2d4a4370e4b891c9a85a6b764dd5f3ed25e9916616737939d8c9a0b4d932b4",
+      "source_file": "content/vehicles/chery-tiggo-8-global-search-2026.json",
+      "source_sha256": "c28867a36a8172adbc60886d8bb4236f3856ecb302ffda065230c6baacd209f4",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ja.autobridgeexport.com/vehicles/chery-tiggo-8-global-search-2026.html",
+      "language": "ja",
+      "page_type": "vehicles",
+      "title": "Chery TIGGO 8輸出購入：どの7人乗り仕様か",
+      "content_key": "vehicles/chery-tiggo-8-global-search-2026",
+      "current_source": true,
+      "local_page": "ja/vehicles/chery-tiggo-8-global-search-2026.html",
+      "local_page_sha256": "90c121dcb70598b4a5ebd94b4d01ab41c93c535eaa7e358ce0cfe25237ba3331",
+      "source_file": "content/vehicles/chery-tiggo-8-global-search-2026.json",
+      "source_sha256": "c28867a36a8172adbc60886d8bb4236f3856ecb302ffda065230c6baacd209f4",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://zh.autobridgeexport.com/vehicles/chery-tiggo-8-global-search-2026.html",
+      "language": "zh",
+      "page_type": "vehicles",
+      "title": "Chery TIGGO 8出口采购：你买到的到底是哪一个7座版本？",
+      "content_key": "vehicles/chery-tiggo-8-global-search-2026",
+      "current_source": true,
+      "local_page": "zh/vehicles/chery-tiggo-8-global-search-2026.html",
+      "local_page_sha256": "8eae720251c32e05f9ff78a122e8d3b0790666a525ae644169f7468c6b9a8349",
+      "source_file": "content/vehicles/chery-tiggo-8-global-search-2026.json",
+      "source_sha256": "c28867a36a8172adbc60886d8bb4236f3856ecb302ffda065230c6baacd209f4",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    }
+  ]
+}

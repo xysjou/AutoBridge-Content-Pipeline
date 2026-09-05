@@ -1,0 +1,1745 @@
+{
+  "generated_at": "2026-09-05T15:47:14.503Z",
+  "slug": "byd-seal-global-search-2026",
+  "original_source_sha256": "b229d617755fa025343daa1dabc57a6c4250fd26db3c190209e293450a75de01",
+  "candidate_sha256": "a2611f77f76ce510d9f4caab08a01a6d20492f402005e50516f7b5fd1a46af3f",
+  "evidence_pdf_sha256": "1146d892334fd34278c2efa2b81f19484d47dd3767f408c21a9554e696aff98f",
+  "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+  "evidence_page": 7,
+  "evidence_first_hand": false,
+  "language_count": 12,
+  "publish_approved": false,
+  "human_reviewed": false,
+  "locales": [
+    {
+      "language": "en",
+      "panel_sha256": "38762b2e7b7c1d8a33bbce2f1edb2989b98886538279e66f08b5fd2a3cb85aea",
+      "main_html_sha256": "6875f460685b643769dffb132236bb272c3d7204edf061f25dabf4f4f33c8f0a",
+      "rows": [
+        {
+          "label": "Battery capacity",
+          "value": "82.5 kWh (LFP)",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Drive",
+          "value": "Design: rear-wheel drive; Excellence AWD: all-wheel drive",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Maximum motor power",
+          "value": "Design: 312 PS; Excellence AWD: 530 PS",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "WLTP combined range",
+          "value": "Design: 354 miles; Excellence AWD: 323 miles",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "0-62 mph",
+          "value": "Design: 5.9 s; Excellence AWD: 3.8 s",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Maximum AC charging",
+          "value": "11 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Maximum DC charging",
+          "value": "150 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Charging port",
+          "value": "CCS2",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Rear boot",
+          "value": "485 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Front boot",
+          "value": "72 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        }
+      ],
+      "scope": "UK MY2026: Design and Excellence AWD only. These figures do not establish the specification of an unidentified export vehicle.",
+      "parameter_structural_check": "PASS",
+      "article_review": "REVISION_REQUIRED",
+      "unresolved": [
+        "independent_language_and_coherence_review_required",
+        "final_image_asset_and_attribution_qa_required"
+      ]
+    },
+    {
+      "language": "zh",
+      "panel_sha256": "6503a77c54292951a8c8a092bcad1a76958d6e6dcaa8f5f324420e8143c51d83",
+      "main_html_sha256": "e13122f50d234f991fce27ae4a1ce2a9b17fbb0bea77910e217d41e5e4141422",
+      "rows": [
+        {
+          "label": "电池容量",
+          "value": "82.5 kWh (LFP)",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "驱动形式",
+          "value": "Design：后轮驱动；Excellence AWD：全轮驱动",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "电机最大功率",
+          "value": "Design: 312 PS; Excellence AWD: 530 PS",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "WLTP 综合续航",
+          "value": "Design: 354 英里; Excellence AWD: 323 英里",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "0–62 英里/小时加速",
+          "value": "Design: 5.9 秒; Excellence AWD: 3.8 秒",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "交流充电最大功率",
+          "value": "11 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "直流充电最大功率",
+          "value": "150 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "充电接口",
+          "value": "CCS2",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "后备厢容积",
+          "value": "485 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "前备厢容积",
+          "value": "72 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        }
+      ],
+      "scope": "仅适用于英国市场 2026 年款 Design 与 Excellence AWD，不能据此认定其他出口车源的配置。",
+      "parameter_structural_check": "PASS",
+      "article_review": "REVISION_REQUIRED",
+      "unresolved": [
+        "independent_language_and_coherence_review_required",
+        "final_image_asset_and_attribution_qa_required"
+      ]
+    },
+    {
+      "language": "fr",
+      "panel_sha256": "d4afc49250e2af8d2702d4ad10f2cd8a4cbf322735d2da20888542b63c253da1",
+      "main_html_sha256": "1c41dfadfe982868c465eac080b5a108c8c2754506506cf83f5caafdd8efa8d3",
+      "rows": [
+        {
+          "label": "Capacité de la batterie",
+          "value": "82.5 kWh (LFP)",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Transmission",
+          "value": "Design : propulsion ; Excellence AWD : transmission intégrale",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Puissance maximale des moteurs",
+          "value": "Design: 312 PS; Excellence AWD: 530 PS",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Autonomie mixte WLTP",
+          "value": "Design: 354 miles; Excellence AWD: 323 miles",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Accélération de 0 à 62 mph",
+          "value": "Design: 5.9 s; Excellence AWD: 3.8 s",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Recharge CA maximale",
+          "value": "11 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Recharge CC maximale",
+          "value": "150 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Prise de recharge",
+          "value": "CCS2",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Coffre arrière",
+          "value": "485 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Coffre avant",
+          "value": "72 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        }
+      ],
+      "scope": "Royaume-Uni, millésime 2026 : Design et Excellence AWD uniquement. Ces données ne définissent pas la configuration d'un véhicule d'exportation non identifié.",
+      "parameter_structural_check": "PASS",
+      "article_review": "REVISION_REQUIRED",
+      "unresolved": [
+        "independent_language_and_coherence_review_required",
+        "final_image_asset_and_attribution_qa_required"
+      ]
+    },
+    {
+      "language": "de",
+      "panel_sha256": "dd696fa9e32f35555923df5cd9bd079b3c39d29e9253dedeae8bd400dc7bb1a6",
+      "main_html_sha256": "d1bfa3378adbc6a61392feb45fcf9f1fca2eca3286d64a7d84fd75c88433897e",
+      "rows": [
+        {
+          "label": "Batteriekapazität",
+          "value": "82.5 kWh (LFP)",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Antrieb",
+          "value": "Design: Hinterradantrieb; Excellence AWD: Allradantrieb",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Maximale Motorleistung",
+          "value": "Design: 312 PS; Excellence AWD: 530 PS",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "WLTP-Reichweite kombiniert",
+          "value": "Design: 354 Meilen; Excellence AWD: 323 Meilen",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Beschleunigung 0–62 mph",
+          "value": "Design: 5.9 s; Excellence AWD: 3.8 s",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Maximale AC-Ladeleistung",
+          "value": "11 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Maximale DC-Ladeleistung",
+          "value": "150 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Ladeanschluss",
+          "value": "CCS2",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Kofferraum hinten",
+          "value": "485 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Stauraum vorn",
+          "value": "72 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        }
+      ],
+      "scope": "Nur britisches Modelljahr 2026: Design und Excellence AWD. Diese Angaben belegen nicht die Ausstattung eines noch nicht eindeutig identifizierten Exportfahrzeugs.",
+      "parameter_structural_check": "PASS",
+      "article_review": "REVISION_REQUIRED",
+      "unresolved": [
+        "independent_language_and_coherence_review_required",
+        "final_image_asset_and_attribution_qa_required"
+      ]
+    },
+    {
+      "language": "es",
+      "panel_sha256": "ece8d6a560fd184396f8d206f3c851d1df41377f46fe29f19e056c477c3674a5",
+      "main_html_sha256": "1016e912922b94b89a242956e636a4fb63fa36bfd88a5e9924b9b36a881276e9",
+      "rows": [
+        {
+          "label": "Capacidad de batería",
+          "value": "82.5 kWh (LFP)",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Tracción",
+          "value": "Design: tracción trasera; Excellence AWD: tracción integral",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Potencia máxima del motor",
+          "value": "Design: 312 PS; Excellence AWD: 530 PS",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Autonomía combinada WLTP",
+          "value": "Design: 354 millas; Excellence AWD: 323 millas",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Aceleración de 0 a 62 mph",
+          "value": "Design: 5.9 s; Excellence AWD: 3.8 s",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Potencia máxima de carga CA",
+          "value": "11 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Potencia máxima de carga CC",
+          "value": "150 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Conector de carga",
+          "value": "CCS2",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Maletero trasero",
+          "value": "485 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Maletero delantero",
+          "value": "72 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        }
+      ],
+      "scope": "Solo Reino Unido, año modelo 2026: Design y Excellence AWD. Estos datos no acreditan la configuración de un vehículo de exportación sin identificar.",
+      "parameter_structural_check": "PASS",
+      "article_review": "REVISION_REQUIRED",
+      "unresolved": [
+        "independent_language_and_coherence_review_required",
+        "final_image_asset_and_attribution_qa_required"
+      ]
+    },
+    {
+      "language": "pt-br",
+      "panel_sha256": "1bd8029971288995c6fa786843b337ddfa8a61e52b633ae04844db28a56d4d21",
+      "main_html_sha256": "3d5395832bb558d020b72e490432c8c302cde279910fa9b111704893c610338e",
+      "rows": [
+        {
+          "label": "Capacidade da bateria",
+          "value": "82.5 kWh (LFP)",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Tração",
+          "value": "Design: tração traseira; Excellence AWD: tração integral",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Potência máxima do motor",
+          "value": "Design: 312 PS; Excellence AWD: 530 PS",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Autonomia combinada WLTP",
+          "value": "Design: 354 milhas; Excellence AWD: 323 milhas",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Aceleração de 0 a 62 mph",
+          "value": "Design: 5.9 s; Excellence AWD: 3.8 s",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Potência máxima de recarga CA",
+          "value": "11 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Potência máxima de recarga CC",
+          "value": "150 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Conector de recarga",
+          "value": "CCS2",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Porta-malas traseiro",
+          "value": "485 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Porta-malas dianteiro",
+          "value": "72 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        }
+      ],
+      "scope": "Somente Reino Unido, ano-modelo 2026: Design e Excellence AWD. Esses dados não comprovam a configuração de um veículo de exportação ainda não identificado.",
+      "parameter_structural_check": "PASS",
+      "article_review": "REVISION_REQUIRED",
+      "unresolved": [
+        "independent_language_and_coherence_review_required",
+        "final_image_asset_and_attribution_qa_required"
+      ]
+    },
+    {
+      "language": "ja",
+      "panel_sha256": "d510be183c7ec2a0ba920da4f44f286a20a6c762039fe0f662d22077b5fa8019",
+      "main_html_sha256": "74f287deae71c87af48727114f58e4bd16658cef631b82b33eff0a2ef5dd6f77",
+      "rows": [
+        {
+          "label": "バッテリー容量",
+          "value": "82.5 kWh (LFP)",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "駆動方式",
+          "value": "Design：後輪駆動、Excellence AWD：全輪駆動",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "モーター最高出力",
+          "value": "Design: 312 PS; Excellence AWD: 530 PS",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "WLTP複合航続距離",
+          "value": "Design: 354 マイル; Excellence AWD: 323 マイル",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "0–62 mph加速",
+          "value": "Design: 5.9 秒; Excellence AWD: 3.8 秒",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "AC最大充電出力",
+          "value": "11 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "DC最大充電出力",
+          "value": "150 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "充電端子",
+          "value": "CCS2",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "後部荷室容量",
+          "value": "485 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "前部荷室容量",
+          "value": "72 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        }
+      ],
+      "scope": "英国市場の2026年モデル、DesignとExcellence AWDのみが対象です。未確認の輸出車両の仕様を示すものではありません。",
+      "parameter_structural_check": "PASS",
+      "article_review": "REVISION_REQUIRED",
+      "unresolved": [
+        "independent_language_and_coherence_review_required",
+        "final_image_asset_and_attribution_qa_required"
+      ]
+    },
+    {
+      "language": "ko",
+      "panel_sha256": "2f23b3c71b7860a89fff837e3e46623b238813c2aabecdaab8fdf0f342067299",
+      "main_html_sha256": "2b42ae982a5878feeefd163633086442dfbf94d52600c2a51711146e695cd779",
+      "rows": [
+        {
+          "label": "배터리 용량",
+          "value": "82.5 kWh (LFP)",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "구동 방식",
+          "value": "Design: 후륜구동; Excellence AWD: 사륜구동",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "모터 최고 출력",
+          "value": "Design: 312 PS; Excellence AWD: 530 PS",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "WLTP 복합 주행거리",
+          "value": "Design: 354 마일; Excellence AWD: 323 마일",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "0–62 mph 가속",
+          "value": "Design: 5.9 초; Excellence AWD: 3.8 초",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "최대 AC 충전 출력",
+          "value": "11 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "최대 DC 충전 출력",
+          "value": "150 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "충전 단자",
+          "value": "CCS2",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "후방 트렁크 용량",
+          "value": "485 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "전방 트렁크 용량",
+          "value": "72 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        }
+      ],
+      "scope": "영국 시장의 2026년형 Design 및 Excellence AWD에만 해당합니다. 신원이 확인되지 않은 수출 차량의 사양을 입증하는 자료가 아닙니다.",
+      "parameter_structural_check": "PASS",
+      "article_review": "REVISION_REQUIRED",
+      "unresolved": [
+        "independent_language_and_coherence_review_required",
+        "final_image_asset_and_attribution_qa_required"
+      ]
+    },
+    {
+      "language": "vi",
+      "panel_sha256": "48c19d38be7376e97583c3ad0a43baed01176bf6b9ebb1fb7b053e4fe24056a2",
+      "main_html_sha256": "30f984e679a33ac80e889bf1154f07dafb9212c4bd48f431e3bcd1fd22d04116",
+      "rows": [
+        {
+          "label": "Dung lượng pin",
+          "value": "82.5 kWh (LFP)",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Hệ dẫn động",
+          "value": "Design: dẫn động cầu sau; Excellence AWD: dẫn động bốn bánh",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Công suất động cơ tối đa",
+          "value": "Design: 312 PS; Excellence AWD: 530 PS",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Tầm hoạt động WLTP kết hợp",
+          "value": "Design: 354 dặm; Excellence AWD: 323 dặm",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Tăng tốc 0–62 mph",
+          "value": "Design: 5.9 giây; Excellence AWD: 3.8 giây",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Công suất sạc AC tối đa",
+          "value": "11 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Công suất sạc DC tối đa",
+          "value": "150 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Cổng sạc",
+          "value": "CCS2",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Dung tích cốp sau",
+          "value": "485 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Dung tích cốp trước",
+          "value": "72 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        }
+      ],
+      "scope": "Chỉ áp dụng cho Design và Excellence AWD đời 2026 tại Anh. Các số liệu này không xác nhận cấu hình của xe xuất khẩu chưa được nhận diện.",
+      "parameter_structural_check": "PASS",
+      "article_review": "REVISION_REQUIRED",
+      "unresolved": [
+        "independent_language_and_coherence_review_required",
+        "final_image_asset_and_attribution_qa_required"
+      ]
+    },
+    {
+      "language": "th",
+      "panel_sha256": "798cd0109d69f8ae5c770f933b67d7348be9bd14a9aa0b153448f019b30327b9",
+      "main_html_sha256": "7b0c722a8cad6ecce8b6670d009fcd75b14b07a109f6817f8d7d7564fa71988b",
+      "rows": [
+        {
+          "label": "ความจุแบตเตอรี่",
+          "value": "82.5 kWh (LFP)",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "ระบบขับเคลื่อน",
+          "value": "Design: ขับเคลื่อนล้อหลัง; Excellence AWD: ขับเคลื่อนสี่ล้อ",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "กำลังมอเตอร์สูงสุด",
+          "value": "Design: 312 PS; Excellence AWD: 530 PS",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "ระยะทางแบบผสม WLTP",
+          "value": "Design: 354 ไมล์; Excellence AWD: 323 ไมล์",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "อัตราเร่ง 0–62 mph",
+          "value": "Design: 5.9 วินาที; Excellence AWD: 3.8 วินาที",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "กำลังชาร์จ AC สูงสุด",
+          "value": "11 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "กำลังชาร์จ DC สูงสุด",
+          "value": "150 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "ช่องชาร์จ",
+          "value": "CCS2",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "ความจุห้องสัมภาระท้าย",
+          "value": "485 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "ความจุห้องสัมภาระหน้า",
+          "value": "72 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        }
+      ],
+      "scope": "ใช้เฉพาะรุ่นปี 2026 ตลาดสหราชอาณาจักร รุ่น Design และ Excellence AWD เท่านั้น ไม่ใช่หลักฐานยืนยันสเปกของรถส่งออกที่ยังไม่ได้ระบุตัวรถ",
+      "parameter_structural_check": "PASS",
+      "article_review": "REVISION_REQUIRED",
+      "unresolved": [
+        "independent_language_and_coherence_review_required",
+        "final_image_asset_and_attribution_qa_required"
+      ]
+    },
+    {
+      "language": "id",
+      "panel_sha256": "6c63c51ad91ec44c446ccc26360fbf0c7cbeb4ab5f4f303618caaeaba643ae02",
+      "main_html_sha256": "5b6b534304e4432b83e3464fc33df31888c31386d961c2ad3f10cd6ee422552f",
+      "rows": [
+        {
+          "label": "Kapasitas baterai",
+          "value": "82.5 kWh (LFP)",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Sistem penggerak",
+          "value": "Design: penggerak roda belakang; Excellence AWD: penggerak semua roda",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Daya motor maksimum",
+          "value": "Design: 312 PS; Excellence AWD: 530 PS",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Jarak tempuh gabungan WLTP",
+          "value": "Design: 354 mil; Excellence AWD: 323 mil",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Akselerasi 0–62 mph",
+          "value": "Design: 5.9 detik; Excellence AWD: 3.8 detik",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Daya pengisian AC maksimum",
+          "value": "11 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Daya pengisian DC maksimum",
+          "value": "150 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Port pengisian",
+          "value": "CCS2",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Kapasitas bagasi belakang",
+          "value": "485 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "Kapasitas bagasi depan",
+          "value": "72 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        }
+      ],
+      "scope": "Khusus pasar Inggris tahun model 2026: Design dan Excellence AWD. Angka ini tidak membuktikan spesifikasi kendaraan ekspor yang belum teridentifikasi.",
+      "parameter_structural_check": "PASS",
+      "article_review": "REVISION_REQUIRED",
+      "unresolved": [
+        "independent_language_and_coherence_review_required",
+        "final_image_asset_and_attribution_qa_required"
+      ]
+    },
+    {
+      "language": "ar",
+      "panel_sha256": "be57d241e30b2eca7839eec80975561c1772bf4f7b74d0068931b568271ae6ca",
+      "main_html_sha256": "9463ef77282e9656856c5c0a6267c64c74bb6b88300039649e2b02d7fd0c572e",
+      "rows": [
+        {
+          "label": "سعة البطارية",
+          "value": "82.5 kWh (LFP)",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "نظام الدفع",
+          "value": "Design: دفع خلفي؛ Excellence AWD: دفع كلي",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "القدرة القصوى للمحرك",
+          "value": "Design: 312 PS; Excellence AWD: 530 PS",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "المدى المختلط وفق WLTP",
+          "value": "Design: 354 ميل; Excellence AWD: 323 ميل",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "التسارع من 0 إلى 62 ميل/ساعة",
+          "value": "Design: 5.9 ثانية; Excellence AWD: 3.8 ثانية",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "أقصى قدرة شحن بالتيار المتردد",
+          "value": "11 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "أقصى قدرة شحن بالتيار المستمر",
+          "value": "150 kW",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "منفذ الشحن",
+          "value": "CCS2",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "سعة الصندوق الخلفي",
+          "value": "485 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        },
+        {
+          "label": "سعة الصندوق الأمامي",
+          "value": "72 L",
+          "source_url": "https://www.byd.com/material/byd-site/byd-uk/specifications/SEAL%20MY26%20UK%20Leaflet.pdf",
+          "source_page": 7,
+          "source_market": "UK",
+          "model_year": "2026",
+          "derivatives": [
+            "Design",
+            "Excellence AWD"
+          ],
+          "checked_at": "2026-09-05"
+        }
+      ],
+      "scope": "للسوق البريطانية، سنة الطراز 2026، بفئتي Design وExcellence AWD فقط. لا تثبت هذه الأرقام مواصفات سيارة تصدير لم تُحدَّد هويتها.",
+      "parameter_structural_check": "PASS",
+      "article_review": "REVISION_REQUIRED",
+      "unresolved": [
+        "independent_language_and_coherence_review_required",
+        "final_image_asset_and_attribution_qa_required"
+      ]
+    }
+  ],
+  "previous_candidate_sha256": "70c197dc6d77c9a05c9c5fe81866a40c240c6c399e8e3f56d0655c8b1698d2d1",
+  "status": "REVISION_REQUIRED"
+}

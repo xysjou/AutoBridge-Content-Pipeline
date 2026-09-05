@@ -1,0 +1,30 @@
+{
+  "audit_at": "2026-09-05T15:21:22.418Z",
+  "content_key": "guides/roro-container-shipping-latin-america",
+  "publish_approved": false,
+  "pages": [
+    {
+      "url": "https://www.autobridgeexport.com/guides/roro-container-shipping-latin-america.html",
+      "language": "en",
+      "page_type": "guides",
+      "title": "Choose RoRo or Container for Latin America",
+      "content_key": "guides/roro-container-shipping-latin-america",
+      "current_source": true,
+      "local_page": "en/guides/roro-container-shipping-latin-america.html",
+      "local_page_sha256": "590ebe498d30dfdaa1e6fdda82657cd2f4bf2eb4294394a0cb536fd8d577c4f3",
+      "source_file": "content/buyer-guides/roro-container-shipping-latin-america.json",
+      "source_sha256": "a12dfc0f509bb57b0e06e414a6c8c921a60b459d54316d16915d551dfc69b106",
+      "reasons": [
+        "machine_template_leakage",
+        "editorial_quality_score_below_85"
+      ],
+      "parameter_issues": [],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Independent review and targeted correction; retain quality restrictions until passed."
+    }
+  ]
+}

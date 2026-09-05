@@ -1,0 +1,37 @@
+{
+  "audit_at": "2026-09-05T15:21:22.418Z",
+  "content_key": "guides/daily-article",
+  "publish_approved": false,
+  "pages": [
+    {
+      "url": "https://zh.autobridgeexport.com/guides/daily-article.html",
+      "language": "zh",
+      "page_type": "guides",
+      "title": "",
+      "content_key": "guides/daily-article",
+      "current_source": false,
+      "local_page": "zh/guides/daily-article.html",
+      "local_page_sha256": "dca08e304ba6d66b942ad1de4a9faf145125014debe6c3cb2a91181e02dc90b0",
+      "source_file": null,
+      "source_sha256": null,
+      "reasons": [
+        "content_too_thin",
+        "insufficient_verifiable_sources",
+        "locale_script_mismatch",
+        "high_template_repetition",
+        "high_peer_similarity",
+        "missing_or_placeholder_image",
+        "missing_image_license_record",
+        "missing_editorial_transparency",
+        "editorial_quality_score_below_85"
+      ],
+      "parameter_issues": [],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Independent review and targeted correction; retain quality restrictions until passed."
+    }
+  ]
+}

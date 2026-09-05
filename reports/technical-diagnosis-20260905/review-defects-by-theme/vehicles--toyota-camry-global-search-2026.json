@@ -1,0 +1,209 @@
+{
+  "audit_at": "2026-09-05T15:21:22.418Z",
+  "content_key": "vehicles/toyota-camry-global-search-2026",
+  "publish_approved": false,
+  "pages": [
+    {
+      "url": "https://www.autobridgeexport.com/vehicles/toyota-camry-global-search-2026.html",
+      "language": "en",
+      "page_type": "vehicles",
+      "title": "Toyota Camry 2026 export buyer profile: hybrid, not battery EV",
+      "content_key": "vehicles/toyota-camry-global-search-2026",
+      "current_source": true,
+      "local_page": "en/vehicles/toyota-camry-global-search-2026.html",
+      "local_page_sha256": "440b52314fe26c649dc8d98e62cb4d568b32025a3f150272c5d966c19e4bcee4",
+      "source_file": "content/vehicles/toyota-camry-global-search-2026.json",
+      "source_sha256": "4941b5d57f5e3ddd161b53311f1344a9fdd45625aacb9d59ac53746022e7f544",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://fr.autobridgeexport.com/vehicles/toyota-camry-global-search-2026.html",
+      "language": "fr",
+      "page_type": "vehicles",
+      "title": "Toyota Camry 2026 à l'export : hybride, pas électrique à batterie",
+      "content_key": "vehicles/toyota-camry-global-search-2026",
+      "current_source": true,
+      "local_page": "fr/vehicles/toyota-camry-global-search-2026.html",
+      "local_page_sha256": "da8cf96e85b983ba911a61f31511595417e1971f23b0840b9fcd6d5c7e3ad873",
+      "source_file": "content/vehicles/toyota-camry-global-search-2026.json",
+      "source_sha256": "4941b5d57f5e3ddd161b53311f1344a9fdd45625aacb9d59ac53746022e7f544",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://de.autobridgeexport.com/vehicles/toyota-camry-global-search-2026.html",
+      "language": "de",
+      "page_type": "vehicles",
+      "title": "Toyota Camry 2026 für den Export: Hybrid, kein Batterieauto",
+      "content_key": "vehicles/toyota-camry-global-search-2026",
+      "current_source": true,
+      "local_page": "de/vehicles/toyota-camry-global-search-2026.html",
+      "local_page_sha256": "5e01e60b80101583167345d9287e00e03b65626a9918b1b14c0f428c54dabe7b",
+      "source_file": "content/vehicles/toyota-camry-global-search-2026.json",
+      "source_sha256": "4941b5d57f5e3ddd161b53311f1344a9fdd45625aacb9d59ac53746022e7f544",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://es.autobridgeexport.com/vehicles/toyota-camry-global-search-2026.html",
+      "language": "es",
+      "page_type": "vehicles",
+      "title": "Toyota Camry 2026 para exportación: híbrido, no eléctrico puro",
+      "content_key": "vehicles/toyota-camry-global-search-2026",
+      "current_source": true,
+      "local_page": "es/vehicles/toyota-camry-global-search-2026.html",
+      "local_page_sha256": "620fa5d3e0e19e940bbf46662390bc4c8ec68d4fc5c2cae9de89246be756cd84",
+      "source_file": "content/vehicles/toyota-camry-global-search-2026.json",
+      "source_sha256": "4941b5d57f5e3ddd161b53311f1344a9fdd45625aacb9d59ac53746022e7f544",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://pt.autobridgeexport.com/vehicles/toyota-camry-global-search-2026.html",
+      "language": "pt-br",
+      "page_type": "vehicles",
+      "title": "Toyota Camry 2026 para exportação: híbrido, não elétrico a bateria",
+      "content_key": "vehicles/toyota-camry-global-search-2026",
+      "current_source": true,
+      "local_page": "pt-br/vehicles/toyota-camry-global-search-2026.html",
+      "local_page_sha256": "18afa74e0deff8fa7fd6e3f64453ff91dea48e523d93eb784191e3ec77676c7c",
+      "source_file": "content/vehicles/toyota-camry-global-search-2026.json",
+      "source_sha256": "4941b5d57f5e3ddd161b53311f1344a9fdd45625aacb9d59ac53746022e7f544",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ja.autobridgeexport.com/vehicles/toyota-camry-global-search-2026.html",
+      "language": "ja",
+      "page_type": "vehicles",
+      "title": "トヨタ・カムリ2026年輸出購入ガイド：BEVではなく市場別仕様",
+      "content_key": "vehicles/toyota-camry-global-search-2026",
+      "current_source": true,
+      "local_page": "ja/vehicles/toyota-camry-global-search-2026.html",
+      "local_page_sha256": "cc6f96c7e481deed2b246177b244d59ebd23482c3a6be4d0c907d7ff7c26a7bd",
+      "source_file": "content/vehicles/toyota-camry-global-search-2026.json",
+      "source_sha256": "4941b5d57f5e3ddd161b53311f1344a9fdd45625aacb9d59ac53746022e7f544",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://zh.autobridgeexport.com/vehicles/toyota-camry-global-search-2026.html",
+      "language": "zh",
+      "page_type": "vehicles",
+      "title": "丰田凯美瑞2026出口买家档案：混合动力，不是纯电动车",
+      "content_key": "vehicles/toyota-camry-global-search-2026",
+      "current_source": true,
+      "local_page": "zh/vehicles/toyota-camry-global-search-2026.html",
+      "local_page_sha256": "969a0d4c7dffe9aad4636a3c5b077b6dc7f44bce0b3703fe30726bf8084b3321",
+      "source_file": "content/vehicles/toyota-camry-global-search-2026.json",
+      "source_sha256": "4941b5d57f5e3ddd161b53311f1344a9fdd45625aacb9d59ac53746022e7f544",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    }
+  ]
+}

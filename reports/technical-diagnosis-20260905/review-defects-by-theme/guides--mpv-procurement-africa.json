@@ -1,0 +1,53 @@
+{
+  "audit_at": "2026-09-05T15:21:22.418Z",
+  "content_key": "guides/mpv-procurement-africa",
+  "publish_approved": false,
+  "pages": [
+    {
+      "url": "https://ja.autobridgeexport.com/guides/mpv-procurement-africa.html",
+      "language": "ja",
+      "page_type": "guides",
+      "title": "アフリカ向け中国MPV調達：国、経路、停止日数で判断",
+      "content_key": "guides/mpv-procurement-africa",
+      "current_source": true,
+      "local_page": "ja/guides/mpv-procurement-africa.html",
+      "local_page_sha256": "99b557921f789bac13fc5a18e4a64a4e559bde516d60a9ee72c034ca01fb1687",
+      "source_file": "content/buyer-guides/mpv-procurement-africa.json",
+      "source_sha256": "a54e2b94d2b7addaaec6cdedbc9dbc5882ce6d46038fda87f36a4e8975524450",
+      "reasons": [
+        "near_duplicate_paragraphs",
+        "editorial_quality_score_below_85"
+      ],
+      "parameter_issues": [],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Independent review and targeted correction; retain quality restrictions until passed."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/guides/mpv-procurement-africa.html",
+      "language": "th",
+      "page_type": "guides",
+      "title": "จัดซื้อ MPV จีนสำหรับแอฟริกา: ตัดสินตามประเทศ เส้นทาง และวันหยุดรถ",
+      "content_key": "guides/mpv-procurement-africa",
+      "current_source": true,
+      "local_page": "th/guides/mpv-procurement-africa.html",
+      "local_page_sha256": "f1799ce372da1d99de83eb7f9f48634c1ad258a14dd5c956d39a0544700ed86a",
+      "source_file": "content/buyer-guides/mpv-procurement-africa.json",
+      "source_sha256": "a54e2b94d2b7addaaec6cdedbc9dbc5882ce6d46038fda87f36a4e8975524450",
+      "reasons": [
+        "near_duplicate_paragraphs",
+        "editorial_quality_score_below_85"
+      ],
+      "parameter_issues": [],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Independent review and targeted correction; retain quality restrictions until passed."
+    }
+  ]
+}

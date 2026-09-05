@@ -1,0 +1,210 @@
+{
+  "audit_at": "2026-09-05T15:21:22.418Z",
+  "content_key": "vehicles/nissan-qashqai-global-search-2026",
+  "publish_approved": false,
+  "pages": [
+    {
+      "url": "https://www.autobridgeexport.com/vehicles/nissan-qashqai-global-search-2026.html",
+      "language": "en",
+      "page_type": "vehicles",
+      "title": "Choose Between Qashqai Mild Hybrid and e-POWER",
+      "content_key": "vehicles/nissan-qashqai-global-search-2026",
+      "current_source": true,
+      "local_page": "en/vehicles/nissan-qashqai-global-search-2026.html",
+      "local_page_sha256": "e96929e089034cda0cec196154a373e0f3bfb57c1b4ca14a702d068bafe20ac1",
+      "source_file": "content/vehicles/nissan-qashqai-global-search-2026.json",
+      "source_sha256": "7bfe129fd0eff94fb8fed0b666925252a93264bac2a3d162174469ef550b1781",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://fr.autobridgeexport.com/vehicles/nissan-qashqai-global-search-2026.html",
+      "language": "fr",
+      "page_type": "vehicles",
+      "title": "Nissan Qashqai 2026: Profil acheteur export",
+      "content_key": "vehicles/nissan-qashqai-global-search-2026",
+      "current_source": true,
+      "local_page": "fr/vehicles/nissan-qashqai-global-search-2026.html",
+      "local_page_sha256": "6718677a7d8261f6788e0c0216820387305bbf3590c78d57641d62f7eacf3641",
+      "source_file": "content/vehicles/nissan-qashqai-global-search-2026.json",
+      "source_sha256": "7bfe129fd0eff94fb8fed0b666925252a93264bac2a3d162174469ef550b1781",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://de.autobridgeexport.com/vehicles/nissan-qashqai-global-search-2026.html",
+      "language": "de",
+      "page_type": "vehicles",
+      "title": "Nissan Qashqai 2026: Exportkäufer-Profil",
+      "content_key": "vehicles/nissan-qashqai-global-search-2026",
+      "current_source": true,
+      "local_page": "de/vehicles/nissan-qashqai-global-search-2026.html",
+      "local_page_sha256": "9bb0eeb7b6c76c5c0e1c547cd330a6da33d6c7edad9a0fb3e20fa790cb052c98",
+      "source_file": "content/vehicles/nissan-qashqai-global-search-2026.json",
+      "source_sha256": "7bfe129fd0eff94fb8fed0b666925252a93264bac2a3d162174469ef550b1781",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://es.autobridgeexport.com/vehicles/nissan-qashqai-global-search-2026.html",
+      "language": "es",
+      "page_type": "vehicles",
+      "title": "Nissan Qashqai 2026: Perfil para comprador exportador",
+      "content_key": "vehicles/nissan-qashqai-global-search-2026",
+      "current_source": true,
+      "local_page": "es/vehicles/nissan-qashqai-global-search-2026.html",
+      "local_page_sha256": "5708fdf8af6e633b671ab51324af65eff9af1e2276d1dd0eeb2ed330663d4b30",
+      "source_file": "content/vehicles/nissan-qashqai-global-search-2026.json",
+      "source_sha256": "7bfe129fd0eff94fb8fed0b666925252a93264bac2a3d162174469ef550b1781",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://pt.autobridgeexport.com/vehicles/nissan-qashqai-global-search-2026.html",
+      "language": "pt-br",
+      "page_type": "vehicles",
+      "title": "Nissan Qashqai 2026: Perfil para comprador de exportação",
+      "content_key": "vehicles/nissan-qashqai-global-search-2026",
+      "current_source": true,
+      "local_page": "pt-br/vehicles/nissan-qashqai-global-search-2026.html",
+      "local_page_sha256": "fbead5932bd5c1178bb1bfcf2ea2518786d891fcdd329394d9993fb2d7aec582",
+      "source_file": "content/vehicles/nissan-qashqai-global-search-2026.json",
+      "source_sha256": "7bfe129fd0eff94fb8fed0b666925252a93264bac2a3d162174469ef550b1781",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ja.autobridgeexport.com/vehicles/nissan-qashqai-global-search-2026.html",
+      "language": "ja",
+      "page_type": "vehicles",
+      "title": "Nissan Qashqai 2026: 輸出購入者向けプロフィール",
+      "content_key": "vehicles/nissan-qashqai-global-search-2026",
+      "current_source": true,
+      "local_page": "ja/vehicles/nissan-qashqai-global-search-2026.html",
+      "local_page_sha256": "2f14bddd8af8a9fe1f939ea605d8f925fa38af0f9bd77c4a3ca8dbdc3a248675",
+      "source_file": "content/vehicles/nissan-qashqai-global-search-2026.json",
+      "source_sha256": "7bfe129fd0eff94fb8fed0b666925252a93264bac2a3d162174469ef550b1781",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://zh.autobridgeexport.com/vehicles/nissan-qashqai-global-search-2026.html",
+      "language": "zh",
+      "page_type": "vehicles",
+      "title": "Nissan Qashqai出口采购：轻混与e-POWER不是同一种动力逻辑",
+      "content_key": "vehicles/nissan-qashqai-global-search-2026",
+      "current_source": true,
+      "local_page": "zh/vehicles/nissan-qashqai-global-search-2026.html",
+      "local_page_sha256": "55d94e0db77d524046aaf36ff39c3d02cb9e4301587416c44fcc105e592e30a0",
+      "source_file": "content/vehicles/nissan-qashqai-global-search-2026.json",
+      "source_sha256": "7bfe129fd0eff94fb8fed0b666925252a93264bac2a3d162174469ef550b1781",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "audit_at": "2026-09-05T15:21:22.418Z",
+  "content_key": "guides/new-vs-used-ev-middle-east",
+  "publish_approved": false,
+  "pages": [
+    {
+      "url": "https://www.autobridgeexport.com/guides/new-vs-used-ev-middle-east.html",
+      "language": "en",
+      "page_type": "guides",
+      "title": "Compare New and Used EV Risk in the Middle East",
+      "content_key": "guides/new-vs-used-ev-middle-east",
+      "current_source": true,
+      "local_page": "en/guides/new-vs-used-ev-middle-east.html",
+      "local_page_sha256": "974017dab012791a9b9669a9f68001efae63b04c47b72bcfacde5e79877499e6",
+      "source_file": "content/buyer-guides/new-vs-used-ev-middle-east.json",
+      "source_sha256": "4f5445e70333d1b3327cef03837b75ea57741efc001035f07ed0fb14a156b73a",
+      "reasons": [
+        "machine_template_leakage",
+        "editorial_quality_score_below_85"
+      ],
+      "parameter_issues": [],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Independent review and targeted correction; retain quality restrictions until passed."
+    }
+  ]
+}

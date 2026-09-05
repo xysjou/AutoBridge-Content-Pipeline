@@ -1,0 +1,38 @@
+{
+  "audit_at": "2026-09-05T15:21:22.418Z",
+  "content_key": "vehicles/toyota-hilux-global-search-2026",
+  "publish_approved": false,
+  "pages": [
+    {
+      "url": "https://zh.autobridgeexport.com/vehicles/toyota-hilux-global-search-2026.html",
+      "language": "zh",
+      "page_type": "vehicles",
+      "title": "Toyota HiLux 2026：出口证据与购车核验",
+      "content_key": "vehicles/toyota-hilux-global-search-2026",
+      "current_source": true,
+      "local_page": "zh/vehicles/toyota-hilux-global-search-2026.html",
+      "local_page_sha256": "0283b196fc0571ac2da31165044c0490067495bfd9384c322959e849799e97a1",
+      "source_file": "content/vehicles/toyota-hilux-global-search-2026.json",
+      "source_sha256": "84a2a7db1e75fca7708a041451f73febb93782249c89f254babcda4f334cda02",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5",
+        "generic_specification_label:6",
+        "generic_specification_label:7"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "audit_at": "2026-09-05T15:21:22.418Z",
+  "content_key": "vehicles/kia-seltos-global-search-2026",
+  "publish_approved": false,
+  "pages": [
+    {
+      "url": "https://www.autobridgeexport.com/vehicles/kia-seltos-global-search-2026.html",
+      "language": "en",
+      "page_type": "vehicles",
+      "title": "2026 Kia Seltos buyer profile: keep market, trim and generation aligned",
+      "content_key": "vehicles/kia-seltos-global-search-2026",
+      "current_source": true,
+      "local_page": "en/vehicles/kia-seltos-global-search-2026.html",
+      "local_page_sha256": "ed64d36248b6b3fdecacfca96b7c30c756fe49c30c7359f9b35adf9631a85030",
+      "source_file": "content/vehicles/kia-seltos-global-search-2026.json",
+      "source_sha256": "8136f9a3e159e86da0f42ef7599ef2be88c9b0c738af82b54f53eab546cfbe51",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://fr.autobridgeexport.com/vehicles/kia-seltos-global-search-2026.html",
+      "language": "fr",
+      "page_type": "vehicles",
+      "title": "Kia Seltos 2026 : aligner marché, finition et génération",
+      "content_key": "vehicles/kia-seltos-global-search-2026",
+      "current_source": true,
+      "local_page": "fr/vehicles/kia-seltos-global-search-2026.html",
+      "local_page_sha256": "023ed8acf373c1f78786f565eda0fe6c912fb72e19e9e60ecb97b114c71495bc",
+      "source_file": "content/vehicles/kia-seltos-global-search-2026.json",
+      "source_sha256": "8136f9a3e159e86da0f42ef7599ef2be88c9b0c738af82b54f53eab546cfbe51",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://de.autobridgeexport.com/vehicles/kia-seltos-global-search-2026.html",
+      "language": "de",
+      "page_type": "vehicles",
+      "title": "Kia Seltos 2026: Markt, Ausstattung und Generation sauber trennen",
+      "content_key": "vehicles/kia-seltos-global-search-2026",
+      "current_source": true,
+      "local_page": "de/vehicles/kia-seltos-global-search-2026.html",
+      "local_page_sha256": "498dd1acf5241a4968381a8298818e872494ff63436b8f69dab7c80942973cb2",
+      "source_file": "content/vehicles/kia-seltos-global-search-2026.json",
+      "source_sha256": "8136f9a3e159e86da0f42ef7599ef2be88c9b0c738af82b54f53eab546cfbe51",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://es.autobridgeexport.com/vehicles/kia-seltos-global-search-2026.html",
+      "language": "es",
+      "page_type": "vehicles",
+      "title": "Kia Seltos 2026: mantener alineados mercado, versión y generación",
+      "content_key": "vehicles/kia-seltos-global-search-2026",
+      "current_source": true,
+      "local_page": "es/vehicles/kia-seltos-global-search-2026.html",
+      "local_page_sha256": "210876d748d0a4e288c56317461d4ff87157ad1dfea0d45ac200adf785e1b815",
+      "source_file": "content/vehicles/kia-seltos-global-search-2026.json",
+      "source_sha256": "8136f9a3e159e86da0f42ef7599ef2be88c9b0c738af82b54f53eab546cfbe51",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://pt.autobridgeexport.com/vehicles/kia-seltos-global-search-2026.html",
+      "language": "pt-br",
+      "page_type": "vehicles",
+      "title": "Kia Seltos 2026: mercado, versão e geração devem coincidir",
+      "content_key": "vehicles/kia-seltos-global-search-2026",
+      "current_source": true,
+      "local_page": "pt-br/vehicles/kia-seltos-global-search-2026.html",
+      "local_page_sha256": "f72023b98cf60f0b13e3bb5f3f7bc3894fe1e606cc92bca003e2c97711d0328e",
+      "source_file": "content/vehicles/kia-seltos-global-search-2026.json",
+      "source_sha256": "8136f9a3e159e86da0f42ef7599ef2be88c9b0c738af82b54f53eab546cfbe51",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ja.autobridgeexport.com/vehicles/kia-seltos-global-search-2026.html",
+      "language": "ja",
+      "page_type": "vehicles",
+      "title": "2026年型Kia Seltos購入資料：市場・グレード・世代を混同しない",
+      "content_key": "vehicles/kia-seltos-global-search-2026",
+      "current_source": true,
+      "local_page": "ja/vehicles/kia-seltos-global-search-2026.html",
+      "local_page_sha256": "177cab5607fe134a8f5254a90bed840687c2cb2a004106be61bafc6be6a90041",
+      "source_file": "content/vehicles/kia-seltos-global-search-2026.json",
+      "source_sha256": "8136f9a3e159e86da0f42ef7599ef2be88c9b0c738af82b54f53eab546cfbe51",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://zh.autobridgeexport.com/vehicles/kia-seltos-global-search-2026.html",
+      "language": "zh",
+      "page_type": "vehicles",
+      "title": "2026款起亚Seltos买家档案：市场、配置与世代必须一致",
+      "content_key": "vehicles/kia-seltos-global-search-2026",
+      "current_source": true,
+      "local_page": "zh/vehicles/kia-seltos-global-search-2026.html",
+      "local_page_sha256": "c96f59612b4ef53b261690ba48f3d930d57401585e0cc1a96b57ab67acb9a7ee",
+      "source_file": "content/vehicles/kia-seltos-global-search-2026.json",
+      "source_sha256": "8136f9a3e159e86da0f42ef7599ef2be88c9b0c738af82b54f53eab546cfbe51",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    }
+  ]
+}

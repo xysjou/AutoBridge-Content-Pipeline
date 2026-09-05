@@ -1,0 +1,221 @@
+{
+  "audit_at": "2026-09-05T15:21:22.418Z",
+  "content_key": "vehicles/porsche-macan-global-search-2026",
+  "publish_approved": false,
+  "pages": [
+    {
+      "url": "https://www.autobridgeexport.com/vehicles/porsche-macan-global-search-2026.html",
+      "language": "en",
+      "page_type": "vehicles",
+      "title": "Porsche Macan Electric 2026: Export buyer profile",
+      "content_key": "vehicles/porsche-macan-global-search-2026",
+      "current_source": true,
+      "local_page": "en/vehicles/porsche-macan-global-search-2026.html",
+      "local_page_sha256": "898e8709242b80026b00be1c233c09b599bb6ee8add1cf4cca3e8d88c521f449",
+      "source_file": "content/vehicles/porsche-macan-global-search-2026.json",
+      "source_sha256": "35f4ed7011e4337c9d56f5f91ffa21bfaef66c1d2e46c6944208d5a874fd96a0",
+      "reasons": [
+        "machine_template_leakage",
+        "invalid_rendered_vehicle_specifications",
+        "editorial_quality_score_below_85"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://fr.autobridgeexport.com/vehicles/porsche-macan-global-search-2026.html",
+      "language": "fr",
+      "page_type": "vehicles",
+      "title": "Porsche Macan Electric 2026: Profil acheteur export",
+      "content_key": "vehicles/porsche-macan-global-search-2026",
+      "current_source": true,
+      "local_page": "fr/vehicles/porsche-macan-global-search-2026.html",
+      "local_page_sha256": "eed496571420f2ec2dd5284e1dbf3ebdab8f9c566cbca82c3185ce765a2d6720",
+      "source_file": "content/vehicles/porsche-macan-global-search-2026.json",
+      "source_sha256": "35f4ed7011e4337c9d56f5f91ffa21bfaef66c1d2e46c6944208d5a874fd96a0",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://de.autobridgeexport.com/vehicles/porsche-macan-global-search-2026.html",
+      "language": "de",
+      "page_type": "vehicles",
+      "title": "Porsche Macan Electric 2026: Exportkäufer-Profil",
+      "content_key": "vehicles/porsche-macan-global-search-2026",
+      "current_source": true,
+      "local_page": "de/vehicles/porsche-macan-global-search-2026.html",
+      "local_page_sha256": "f3e3924de346f6d8cfc56407a45c4be0e3928bb73f921688190d7fe526dc53ea",
+      "source_file": "content/vehicles/porsche-macan-global-search-2026.json",
+      "source_sha256": "35f4ed7011e4337c9d56f5f91ffa21bfaef66c1d2e46c6944208d5a874fd96a0",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://es.autobridgeexport.com/vehicles/porsche-macan-global-search-2026.html",
+      "language": "es",
+      "page_type": "vehicles",
+      "title": "Porsche Macan Electric 2026: Perfil para comprador exportador",
+      "content_key": "vehicles/porsche-macan-global-search-2026",
+      "current_source": true,
+      "local_page": "es/vehicles/porsche-macan-global-search-2026.html",
+      "local_page_sha256": "7000e3a20d1ef24d6da586f0a4cace071a1dd49ef548b5aab5d7fd9475db9d25",
+      "source_file": "content/vehicles/porsche-macan-global-search-2026.json",
+      "source_sha256": "35f4ed7011e4337c9d56f5f91ffa21bfaef66c1d2e46c6944208d5a874fd96a0",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://pt.autobridgeexport.com/vehicles/porsche-macan-global-search-2026.html",
+      "language": "pt-br",
+      "page_type": "vehicles",
+      "title": "Porsche Macan Electric 2026: Perfil para comprador de exportação",
+      "content_key": "vehicles/porsche-macan-global-search-2026",
+      "current_source": true,
+      "local_page": "pt-br/vehicles/porsche-macan-global-search-2026.html",
+      "local_page_sha256": "be3a8b25e116348bf91b8757f213a732d95cd225590f52960fc1ff50f05399da",
+      "source_file": "content/vehicles/porsche-macan-global-search-2026.json",
+      "source_sha256": "35f4ed7011e4337c9d56f5f91ffa21bfaef66c1d2e46c6944208d5a874fd96a0",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ja.autobridgeexport.com/vehicles/porsche-macan-global-search-2026.html",
+      "language": "ja",
+      "page_type": "vehicles",
+      "title": "Porsche Macan Electric 2026: 輸出購入者向けプロフィール",
+      "content_key": "vehicles/porsche-macan-global-search-2026",
+      "current_source": true,
+      "local_page": "ja/vehicles/porsche-macan-global-search-2026.html",
+      "local_page_sha256": "adde9b42b4bb1a5692ac8587b66ac8a61f0610f0e8058b8208b34f191d016c0f",
+      "source_file": "content/vehicles/porsche-macan-global-search-2026.json",
+      "source_sha256": "35f4ed7011e4337c9d56f5f91ffa21bfaef66c1d2e46c6944208d5a874fd96a0",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://zh.autobridgeexport.com/vehicles/porsche-macan-global-search-2026.html",
+      "language": "zh",
+      "page_type": "vehicles",
+      "title": "Porsche Macan Electric 2026: 出口买家车型档案",
+      "content_key": "vehicles/porsche-macan-global-search-2026",
+      "current_source": true,
+      "local_page": "zh/vehicles/porsche-macan-global-search-2026.html",
+      "local_page_sha256": "215b4d4d18c2c0a5ede5ac71fb04a3f3536a87a31ff0484a48f1ec653329a82d",
+      "source_file": "content/vehicles/porsche-macan-global-search-2026.json",
+      "source_sha256": "35f4ed7011e4337c9d56f5f91ffa21bfaef66c1d2e46c6944208d5a874fd96a0",
+      "reasons": [
+        "machine_template_leakage",
+        "near_duplicate_paragraphs",
+        "invalid_rendered_vehicle_specifications",
+        "editorial_quality_score_below_85"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "invalid_specification_value:0",
+        "generic_specification_label:1",
+        "invalid_specification_value:1",
+        "generic_specification_label:2",
+        "invalid_specification_value:2",
+        "generic_specification_label:3",
+        "invalid_specification_value:3",
+        "generic_specification_label:4",
+        "invalid_specification_value:4",
+        "generic_specification_label:5",
+        "invalid_specification_value:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    }
+  ]
+}

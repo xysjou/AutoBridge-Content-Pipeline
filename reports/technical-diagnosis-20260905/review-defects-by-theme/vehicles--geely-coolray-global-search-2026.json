@@ -1,0 +1,335 @@
+{
+  "audit_at": "2026-09-05T15:21:22.418Z",
+  "content_key": "vehicles/geely-coolray-global-search-2026",
+  "publish_approved": false,
+  "pages": [
+    {
+      "url": "https://www.autobridgeexport.com/vehicles/geely-coolray-global-search-2026.html",
+      "language": "en",
+      "page_type": "vehicles",
+      "title": "Geely New Coolray: 2026 export buyer verification guide",
+      "content_key": "vehicles/geely-coolray-global-search-2026",
+      "current_source": true,
+      "local_page": "en/vehicles/geely-coolray-global-search-2026.html",
+      "local_page_sha256": "6a604d382be2600c6cc133939f48e67eeacc5d14044f3e09d41b75e1780964cc",
+      "source_file": "content/vehicles/geely-coolray-global-search-2026.json",
+      "source_sha256": "5dbc39ef6d16f1398b9a6d9da51a0e0fcfd8f047781f305f90c12f93b7c9c8c6",
+      "reasons": [
+        "near_duplicate_paragraphs",
+        "invalid_rendered_vehicle_specifications",
+        "editorial_quality_score_below_85"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://fr.autobridgeexport.com/vehicles/geely-coolray-global-search-2026.html",
+      "language": "fr",
+      "page_type": "vehicles",
+      "title": "Geely New Coolray : guide de vérification pour l’achat export 2026",
+      "content_key": "vehicles/geely-coolray-global-search-2026",
+      "current_source": true,
+      "local_page": "fr/vehicles/geely-coolray-global-search-2026.html",
+      "local_page_sha256": "0c76e19e97a5245395dda37cd712a3a903517633871794edeb923978d895722d",
+      "source_file": "content/vehicles/geely-coolray-global-search-2026.json",
+      "source_sha256": "5dbc39ef6d16f1398b9a6d9da51a0e0fcfd8f047781f305f90c12f93b7c9c8c6",
+      "reasons": [
+        "near_duplicate_paragraphs",
+        "invalid_rendered_vehicle_specifications",
+        "editorial_quality_score_below_85"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://de.autobridgeexport.com/vehicles/geely-coolray-global-search-2026.html",
+      "language": "de",
+      "page_type": "vehicles",
+      "title": "Geely New Coolray: Prüfleitfaden für den Exportkauf 2026",
+      "content_key": "vehicles/geely-coolray-global-search-2026",
+      "current_source": true,
+      "local_page": "de/vehicles/geely-coolray-global-search-2026.html",
+      "local_page_sha256": "76c3fce275b565980ba7c645f4c7a41ab9129147b94549762c81ee5e003a4275",
+      "source_file": "content/vehicles/geely-coolray-global-search-2026.json",
+      "source_sha256": "5dbc39ef6d16f1398b9a6d9da51a0e0fcfd8f047781f305f90c12f93b7c9c8c6",
+      "reasons": [
+        "near_duplicate_paragraphs",
+        "invalid_rendered_vehicle_specifications",
+        "editorial_quality_score_below_85"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://es.autobridgeexport.com/vehicles/geely-coolray-global-search-2026.html",
+      "language": "es",
+      "page_type": "vehicles",
+      "title": "Geely New Coolray: guía de verificación para compra de exportación 2026",
+      "content_key": "vehicles/geely-coolray-global-search-2026",
+      "current_source": true,
+      "local_page": "es/vehicles/geely-coolray-global-search-2026.html",
+      "local_page_sha256": "e4fc4b11880ae4009ab867ef8949aae43105edcddac87c9313798d695315b749",
+      "source_file": "content/vehicles/geely-coolray-global-search-2026.json",
+      "source_sha256": "5dbc39ef6d16f1398b9a6d9da51a0e0fcfd8f047781f305f90c12f93b7c9c8c6",
+      "reasons": [
+        "near_duplicate_paragraphs",
+        "invalid_rendered_vehicle_specifications",
+        "editorial_quality_score_below_85"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://pt.autobridgeexport.com/vehicles/geely-coolray-global-search-2026.html",
+      "language": "pt-br",
+      "page_type": "vehicles",
+      "title": "Geely New Coolray: guia de verificação para compra de exportação 2026",
+      "content_key": "vehicles/geely-coolray-global-search-2026",
+      "current_source": true,
+      "local_page": "pt-br/vehicles/geely-coolray-global-search-2026.html",
+      "local_page_sha256": "d6598919810f9ec4d2ad98e3a477e4e6dbeb543c62c41dbf37b67b7d0ba64f4f",
+      "source_file": "content/vehicles/geely-coolray-global-search-2026.json",
+      "source_sha256": "5dbc39ef6d16f1398b9a6d9da51a0e0fcfd8f047781f305f90c12f93b7c9c8c6",
+      "reasons": [
+        "near_duplicate_paragraphs",
+        "invalid_rendered_vehicle_specifications",
+        "editorial_quality_score_below_85"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ja.autobridgeexport.com/vehicles/geely-coolray-global-search-2026.html",
+      "language": "ja",
+      "page_type": "vehicles",
+      "title": "Geely New Coolray：2026年輸出購入の確認ガイド",
+      "content_key": "vehicles/geely-coolray-global-search-2026",
+      "current_source": true,
+      "local_page": "ja/vehicles/geely-coolray-global-search-2026.html",
+      "local_page_sha256": "6bc8732937df22a637c75db0d44cfa01cc1d7c65446507b9b8797bce95a52be2",
+      "source_file": "content/vehicles/geely-coolray-global-search-2026.json",
+      "source_sha256": "5dbc39ef6d16f1398b9a6d9da51a0e0fcfd8f047781f305f90c12f93b7c9c8c6",
+      "reasons": [
+        "near_duplicate_paragraphs",
+        "invalid_rendered_vehicle_specifications",
+        "editorial_quality_score_below_85"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ko.autobridgeexport.com/vehicles/geely-coolray-global-search-2026.html",
+      "language": "ko",
+      "page_type": "vehicles",
+      "title": "Geely New Coolray: 2026년 수출 구매 검증 안내",
+      "content_key": "vehicles/geely-coolray-global-search-2026",
+      "current_source": true,
+      "local_page": "ko/vehicles/geely-coolray-global-search-2026.html",
+      "local_page_sha256": "3b989fc7f9441a00bf6a0bcd9a210a25b7ebaf99aa8abf6508cf16a25c82a35b",
+      "source_file": "content/vehicles/geely-coolray-global-search-2026.json",
+      "source_sha256": "5dbc39ef6d16f1398b9a6d9da51a0e0fcfd8f047781f305f90c12f93b7c9c8c6",
+      "reasons": [
+        "near_duplicate_paragraphs",
+        "editorial_quality_score_below_85"
+      ],
+      "parameter_issues": [],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Independent review and targeted correction; retain quality restrictions until passed."
+    },
+    {
+      "url": "https://vi.autobridgeexport.com/vehicles/geely-coolray-global-search-2026.html",
+      "language": "vi",
+      "page_type": "vehicles",
+      "title": "Geely New Coolray: hướng dẫn xác minh mua xe xuất khẩu 2026",
+      "content_key": "vehicles/geely-coolray-global-search-2026",
+      "current_source": true,
+      "local_page": "vi/vehicles/geely-coolray-global-search-2026.html",
+      "local_page_sha256": "ed413d91d9f00821e84ae0e4f19e3db8a12d26140709f137701f018e521a023a",
+      "source_file": "content/vehicles/geely-coolray-global-search-2026.json",
+      "source_sha256": "5dbc39ef6d16f1398b9a6d9da51a0e0fcfd8f047781f305f90c12f93b7c9c8c6",
+      "reasons": [
+        "near_duplicate_paragraphs",
+        "editorial_quality_score_below_85"
+      ],
+      "parameter_issues": [],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Independent review and targeted correction; retain quality restrictions until passed."
+    },
+    {
+      "url": "https://th.autobridgeexport.com/vehicles/geely-coolray-global-search-2026.html",
+      "language": "th",
+      "page_type": "vehicles",
+      "title": "Geely New Coolray: คู่มือตรวจสอบการซื้อเพื่อส่งออกปี 2026",
+      "content_key": "vehicles/geely-coolray-global-search-2026",
+      "current_source": true,
+      "local_page": "th/vehicles/geely-coolray-global-search-2026.html",
+      "local_page_sha256": "c3bccfc300f90151fc680fd40e874044ac65b4e877d51d78ed6a96c9f7b3a3b8",
+      "source_file": "content/vehicles/geely-coolray-global-search-2026.json",
+      "source_sha256": "5dbc39ef6d16f1398b9a6d9da51a0e0fcfd8f047781f305f90c12f93b7c9c8c6",
+      "reasons": [
+        "near_duplicate_paragraphs",
+        "editorial_quality_score_below_85"
+      ],
+      "parameter_issues": [],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Independent review and targeted correction; retain quality restrictions until passed."
+    },
+    {
+      "url": "https://id.autobridgeexport.com/vehicles/geely-coolray-global-search-2026.html",
+      "language": "id",
+      "page_type": "vehicles",
+      "title": "Geely New Coolray: panduan verifikasi pembelian ekspor 2026",
+      "content_key": "vehicles/geely-coolray-global-search-2026",
+      "current_source": true,
+      "local_page": "id/vehicles/geely-coolray-global-search-2026.html",
+      "local_page_sha256": "169270fde31c4bfbea6e0399027f6eef9b1d23a12b4bf8360c6b6e8f3a8efa89",
+      "source_file": "content/vehicles/geely-coolray-global-search-2026.json",
+      "source_sha256": "5dbc39ef6d16f1398b9a6d9da51a0e0fcfd8f047781f305f90c12f93b7c9c8c6",
+      "reasons": [
+        "near_duplicate_paragraphs",
+        "editorial_quality_score_below_85"
+      ],
+      "parameter_issues": [],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Independent review and targeted correction; retain quality restrictions until passed."
+    },
+    {
+      "url": "https://ar.autobridgeexport.com/vehicles/geely-coolray-global-search-2026.html",
+      "language": "ar",
+      "page_type": "vehicles",
+      "title": "Geely New Coolray: دليل التحقق من الشراء للتصدير لعام 2026",
+      "content_key": "vehicles/geely-coolray-global-search-2026",
+      "current_source": true,
+      "local_page": "ar/vehicles/geely-coolray-global-search-2026.html",
+      "local_page_sha256": "d580fc1404f99bf3825ebb75bdfbc96c86e696c84d38445f4552b52e7a10c995",
+      "source_file": "content/vehicles/geely-coolray-global-search-2026.json",
+      "source_sha256": "5dbc39ef6d16f1398b9a6d9da51a0e0fcfd8f047781f305f90c12f93b7c9c8c6",
+      "reasons": [
+        "near_duplicate_paragraphs",
+        "editorial_quality_score_below_85"
+      ],
+      "parameter_issues": [],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Independent review and targeted correction; retain quality restrictions until passed."
+    },
+    {
+      "url": "https://zh.autobridgeexport.com/vehicles/geely-coolray-global-search-2026.html",
+      "language": "zh",
+      "page_type": "vehicles",
+      "title": "Geely New Coolray：2026年出口购买核验指南",
+      "content_key": "vehicles/geely-coolray-global-search-2026",
+      "current_source": true,
+      "local_page": "zh/vehicles/geely-coolray-global-search-2026.html",
+      "local_page_sha256": "d00e50de628c4467be11b5d4ae579fb6b8ac0192b917a41e4399b2b01a749b04",
+      "source_file": "content/vehicles/geely-coolray-global-search-2026.json",
+      "source_sha256": "5dbc39ef6d16f1398b9a6d9da51a0e0fcfd8f047781f305f90c12f93b7c9c8c6",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    }
+  ]
+}

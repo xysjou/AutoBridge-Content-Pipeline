@@ -1,0 +1,221 @@
+{
+  "audit_at": "2026-09-05T15:21:22.418Z",
+  "content_key": "vehicles/lexus-rx-global-search-2026",
+  "publish_approved": false,
+  "pages": [
+    {
+      "url": "https://www.autobridgeexport.com/vehicles/lexus-rx-global-search-2026.html",
+      "language": "en",
+      "page_type": "vehicles",
+      "title": "Lexus RX 2026: Export buyer profile",
+      "content_key": "vehicles/lexus-rx-global-search-2026",
+      "current_source": true,
+      "local_page": "en/vehicles/lexus-rx-global-search-2026.html",
+      "local_page_sha256": "7c990631203f635ec973272b12596f180ff4c82b67c4688b2428a9a97a0e57e9",
+      "source_file": "content/vehicles/lexus-rx-global-search-2026.json",
+      "source_sha256": "449821d99898ee75bb80c4099dfef2015dc5ee5284eacef36013d862f6150b48",
+      "reasons": [
+        "machine_template_leakage",
+        "invalid_rendered_vehicle_specifications",
+        "editorial_quality_score_below_85"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://fr.autobridgeexport.com/vehicles/lexus-rx-global-search-2026.html",
+      "language": "fr",
+      "page_type": "vehicles",
+      "title": "Lexus RX 2026: Profil acheteur export",
+      "content_key": "vehicles/lexus-rx-global-search-2026",
+      "current_source": true,
+      "local_page": "fr/vehicles/lexus-rx-global-search-2026.html",
+      "local_page_sha256": "35eafd8120baecd45a24d297223dcd56ed6e77e79d82b5fb7ce5adc30dddda2d",
+      "source_file": "content/vehicles/lexus-rx-global-search-2026.json",
+      "source_sha256": "449821d99898ee75bb80c4099dfef2015dc5ee5284eacef36013d862f6150b48",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://de.autobridgeexport.com/vehicles/lexus-rx-global-search-2026.html",
+      "language": "de",
+      "page_type": "vehicles",
+      "title": "Lexus RX 2026: Exportkäufer-Profil",
+      "content_key": "vehicles/lexus-rx-global-search-2026",
+      "current_source": true,
+      "local_page": "de/vehicles/lexus-rx-global-search-2026.html",
+      "local_page_sha256": "ca412d52246fd50ee39e6c6c523f8a7170dd54cf7a8638e398d458874b77cbbf",
+      "source_file": "content/vehicles/lexus-rx-global-search-2026.json",
+      "source_sha256": "449821d99898ee75bb80c4099dfef2015dc5ee5284eacef36013d862f6150b48",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://es.autobridgeexport.com/vehicles/lexus-rx-global-search-2026.html",
+      "language": "es",
+      "page_type": "vehicles",
+      "title": "Lexus RX 2026: Perfil para comprador exportador",
+      "content_key": "vehicles/lexus-rx-global-search-2026",
+      "current_source": true,
+      "local_page": "es/vehicles/lexus-rx-global-search-2026.html",
+      "local_page_sha256": "c665a2dd38fb04b635328d981fff5f9d9d50b6c82820aa7bec4ea62050b48f63",
+      "source_file": "content/vehicles/lexus-rx-global-search-2026.json",
+      "source_sha256": "449821d99898ee75bb80c4099dfef2015dc5ee5284eacef36013d862f6150b48",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://pt.autobridgeexport.com/vehicles/lexus-rx-global-search-2026.html",
+      "language": "pt-br",
+      "page_type": "vehicles",
+      "title": "Lexus RX 2026: Perfil para comprador de exportação",
+      "content_key": "vehicles/lexus-rx-global-search-2026",
+      "current_source": true,
+      "local_page": "pt-br/vehicles/lexus-rx-global-search-2026.html",
+      "local_page_sha256": "eef958ce97a1e3d5e789a35edf32e9e33b1015fb6f9eb547a9727818c45cf910",
+      "source_file": "content/vehicles/lexus-rx-global-search-2026.json",
+      "source_sha256": "449821d99898ee75bb80c4099dfef2015dc5ee5284eacef36013d862f6150b48",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ja.autobridgeexport.com/vehicles/lexus-rx-global-search-2026.html",
+      "language": "ja",
+      "page_type": "vehicles",
+      "title": "Lexus RX 2026: 輸出購入者向けプロフィール",
+      "content_key": "vehicles/lexus-rx-global-search-2026",
+      "current_source": true,
+      "local_page": "ja/vehicles/lexus-rx-global-search-2026.html",
+      "local_page_sha256": "80980e21604cbcace5066c7abba80a04549078950573354edb04d88709e68efc",
+      "source_file": "content/vehicles/lexus-rx-global-search-2026.json",
+      "source_sha256": "449821d99898ee75bb80c4099dfef2015dc5ee5284eacef36013d862f6150b48",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://zh.autobridgeexport.com/vehicles/lexus-rx-global-search-2026.html",
+      "language": "zh",
+      "page_type": "vehicles",
+      "title": "Lexus RX 2026: 出口买家车型档案",
+      "content_key": "vehicles/lexus-rx-global-search-2026",
+      "current_source": true,
+      "local_page": "zh/vehicles/lexus-rx-global-search-2026.html",
+      "local_page_sha256": "25e3466bd4d54a9e7c457c2d32963fa1f54954f2639e902d2dbae9363543ef8f",
+      "source_file": "content/vehicles/lexus-rx-global-search-2026.json",
+      "source_sha256": "449821d99898ee75bb80c4099dfef2015dc5ee5284eacef36013d862f6150b48",
+      "reasons": [
+        "machine_template_leakage",
+        "near_duplicate_paragraphs",
+        "invalid_rendered_vehicle_specifications",
+        "editorial_quality_score_below_85"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "invalid_specification_value:0",
+        "generic_specification_label:1",
+        "invalid_specification_value:1",
+        "generic_specification_label:2",
+        "invalid_specification_value:2",
+        "generic_specification_label:3",
+        "invalid_specification_value:3",
+        "generic_specification_label:4",
+        "invalid_specification_value:4",
+        "generic_specification_label:5",
+        "invalid_specification_value:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    }
+  ]
+}

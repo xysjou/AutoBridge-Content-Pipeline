@@ -1,0 +1,212 @@
+{
+  "audit_at": "2026-09-05T15:21:22.418Z",
+  "content_key": "vehicles/toyota-corolla-global-search-2026",
+  "publish_approved": false,
+  "pages": [
+    {
+      "url": "https://www.autobridgeexport.com/vehicles/toyota-corolla-global-search-2026.html",
+      "language": "en",
+      "page_type": "vehicles",
+      "title": "Toyota Corolla 2026: evidence-led export buyer guide",
+      "content_key": "vehicles/toyota-corolla-global-search-2026",
+      "current_source": true,
+      "local_page": "en/vehicles/toyota-corolla-global-search-2026.html",
+      "local_page_sha256": "af87c7acb16a34f13fecc262c6c16730cab7b82a7506c0e961431a6ffc4275ff",
+      "source_file": "content/vehicles/toyota-corolla-global-search-2026.json",
+      "source_sha256": "c37bb6adb6f4029e2dcab9c8790bd0aa9fb97ff32a90dafdc29a45bfccc73818",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://fr.autobridgeexport.com/vehicles/toyota-corolla-global-search-2026.html",
+      "language": "fr",
+      "page_type": "vehicles",
+      "title": "Toyota Corolla 2026 : guide d’achat export fondé sur les preuves",
+      "content_key": "vehicles/toyota-corolla-global-search-2026",
+      "current_source": true,
+      "local_page": "fr/vehicles/toyota-corolla-global-search-2026.html",
+      "local_page_sha256": "29fd37757f43fc07d97bf470281a4af4cce6c0ce20c3341d1063de7dba85a265",
+      "source_file": "content/vehicles/toyota-corolla-global-search-2026.json",
+      "source_sha256": "c37bb6adb6f4029e2dcab9c8790bd0aa9fb97ff32a90dafdc29a45bfccc73818",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://de.autobridgeexport.com/vehicles/toyota-corolla-global-search-2026.html",
+      "language": "de",
+      "page_type": "vehicles",
+      "title": "Toyota Corolla 2026: Export-Kaufratgeber mit Belegen",
+      "content_key": "vehicles/toyota-corolla-global-search-2026",
+      "current_source": true,
+      "local_page": "de/vehicles/toyota-corolla-global-search-2026.html",
+      "local_page_sha256": "935bd2ecba3b8222233b53ee6f4cf7875a7a75b7d1f4e9a8bf56e513840134a7",
+      "source_file": "content/vehicles/toyota-corolla-global-search-2026.json",
+      "source_sha256": "c37bb6adb6f4029e2dcab9c8790bd0aa9fb97ff32a90dafdc29a45bfccc73818",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://es.autobridgeexport.com/vehicles/toyota-corolla-global-search-2026.html",
+      "language": "es",
+      "page_type": "vehicles",
+      "title": "Toyota Corolla 2026: guía de compra para exportación con pruebas",
+      "content_key": "vehicles/toyota-corolla-global-search-2026",
+      "current_source": true,
+      "local_page": "es/vehicles/toyota-corolla-global-search-2026.html",
+      "local_page_sha256": "a8255d940027d93b0c90cb497253b192c7410487d5040cd64d8bbad7243452be",
+      "source_file": "content/vehicles/toyota-corolla-global-search-2026.json",
+      "source_sha256": "c37bb6adb6f4029e2dcab9c8790bd0aa9fb97ff32a90dafdc29a45bfccc73818",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://pt.autobridgeexport.com/vehicles/toyota-corolla-global-search-2026.html",
+      "language": "pt-br",
+      "page_type": "vehicles",
+      "title": "Toyota Corolla 2026: guia de compra para exportação com evidências",
+      "content_key": "vehicles/toyota-corolla-global-search-2026",
+      "current_source": true,
+      "local_page": "pt-br/vehicles/toyota-corolla-global-search-2026.html",
+      "local_page_sha256": "65ee4b303da8726f8ab19e058f46e6bf4ecd5de8495f724b50961acf5885bce4",
+      "source_file": "content/vehicles/toyota-corolla-global-search-2026.json",
+      "source_sha256": "c37bb6adb6f4029e2dcab9c8790bd0aa9fb97ff32a90dafdc29a45bfccc73818",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ja.autobridgeexport.com/vehicles/toyota-corolla-global-search-2026.html",
+      "language": "ja",
+      "page_type": "vehicles",
+      "title": "Toyota Corolla 2026年：根拠に基づく輸出購入ガイド",
+      "content_key": "vehicles/toyota-corolla-global-search-2026",
+      "current_source": true,
+      "local_page": "ja/vehicles/toyota-corolla-global-search-2026.html",
+      "local_page_sha256": "3def38ac454aec6bdf8d702fd361452f20ea9f6155af7df06ccaed6476880c83",
+      "source_file": "content/vehicles/toyota-corolla-global-search-2026.json",
+      "source_sha256": "c37bb6adb6f4029e2dcab9c8790bd0aa9fb97ff32a90dafdc29a45bfccc73818",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://zh.autobridgeexport.com/vehicles/toyota-corolla-global-search-2026.html",
+      "language": "zh",
+      "page_type": "vehicles",
+      "title": "Toyota Corolla 2026：基于证据的出口购车指南",
+      "content_key": "vehicles/toyota-corolla-global-search-2026",
+      "current_source": true,
+      "local_page": "zh/vehicles/toyota-corolla-global-search-2026.html",
+      "local_page_sha256": "d87ae2d776da6a8179bbfb5cd6e1d28cc326a6f3cc849e7bca24e4cee4c50b0c",
+      "source_file": "content/vehicles/toyota-corolla-global-search-2026.json",
+      "source_sha256": "c37bb6adb6f4029e2dcab9c8790bd0aa9fb97ff32a90dafdc29a45bfccc73818",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5",
+        "generic_specification_label:6",
+        "generic_specification_label:7"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    }
+  ]
+}

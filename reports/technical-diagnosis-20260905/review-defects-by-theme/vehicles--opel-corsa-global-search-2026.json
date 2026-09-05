@@ -1,0 +1,221 @@
+{
+  "audit_at": "2026-09-05T15:21:22.418Z",
+  "content_key": "vehicles/opel-corsa-global-search-2026",
+  "publish_approved": false,
+  "pages": [
+    {
+      "url": "https://www.autobridgeexport.com/vehicles/opel-corsa-global-search-2026.html",
+      "language": "en",
+      "page_type": "vehicles",
+      "title": "Opel Corsa 2026: Export buyer profile",
+      "content_key": "vehicles/opel-corsa-global-search-2026",
+      "current_source": true,
+      "local_page": "en/vehicles/opel-corsa-global-search-2026.html",
+      "local_page_sha256": "d10b185e1bcb6cac37aad3f52f24afa45ffc3b8ef3b36b487649e178de6af338",
+      "source_file": "content/vehicles/opel-corsa-global-search-2026.json",
+      "source_sha256": "0706c9112ff3377b97d49ff5189365ad9c3e5d504b043ebe76df28a7bad9a908",
+      "reasons": [
+        "machine_template_leakage",
+        "invalid_rendered_vehicle_specifications",
+        "editorial_quality_score_below_85"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://fr.autobridgeexport.com/vehicles/opel-corsa-global-search-2026.html",
+      "language": "fr",
+      "page_type": "vehicles",
+      "title": "Opel Corsa 2026: Profil acheteur export",
+      "content_key": "vehicles/opel-corsa-global-search-2026",
+      "current_source": true,
+      "local_page": "fr/vehicles/opel-corsa-global-search-2026.html",
+      "local_page_sha256": "e4479ab820858a358ad4604f942699d7ec7808b63865cd8a037d95afa3562663",
+      "source_file": "content/vehicles/opel-corsa-global-search-2026.json",
+      "source_sha256": "0706c9112ff3377b97d49ff5189365ad9c3e5d504b043ebe76df28a7bad9a908",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://de.autobridgeexport.com/vehicles/opel-corsa-global-search-2026.html",
+      "language": "de",
+      "page_type": "vehicles",
+      "title": "Opel Corsa 2026: Exportkäufer-Profil",
+      "content_key": "vehicles/opel-corsa-global-search-2026",
+      "current_source": true,
+      "local_page": "de/vehicles/opel-corsa-global-search-2026.html",
+      "local_page_sha256": "9ff2cf2f995a5b7ddec34dba227e1684da4ff6554c202f343d600fe682491347",
+      "source_file": "content/vehicles/opel-corsa-global-search-2026.json",
+      "source_sha256": "0706c9112ff3377b97d49ff5189365ad9c3e5d504b043ebe76df28a7bad9a908",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://es.autobridgeexport.com/vehicles/opel-corsa-global-search-2026.html",
+      "language": "es",
+      "page_type": "vehicles",
+      "title": "Opel Corsa 2026: Perfil para comprador exportador",
+      "content_key": "vehicles/opel-corsa-global-search-2026",
+      "current_source": true,
+      "local_page": "es/vehicles/opel-corsa-global-search-2026.html",
+      "local_page_sha256": "e0b582bfd3c95aabbfcabd52a7c6cb095ea9dd8ffc19b9d0ab636edfb1de6ccb",
+      "source_file": "content/vehicles/opel-corsa-global-search-2026.json",
+      "source_sha256": "0706c9112ff3377b97d49ff5189365ad9c3e5d504b043ebe76df28a7bad9a908",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://pt.autobridgeexport.com/vehicles/opel-corsa-global-search-2026.html",
+      "language": "pt-br",
+      "page_type": "vehicles",
+      "title": "Opel Corsa 2026: Perfil para comprador de exportação",
+      "content_key": "vehicles/opel-corsa-global-search-2026",
+      "current_source": true,
+      "local_page": "pt-br/vehicles/opel-corsa-global-search-2026.html",
+      "local_page_sha256": "a9efc4198fb354ce7df3430f84c62b208fa1c9f37c499e1c8a77e322dca3b5de",
+      "source_file": "content/vehicles/opel-corsa-global-search-2026.json",
+      "source_sha256": "0706c9112ff3377b97d49ff5189365ad9c3e5d504b043ebe76df28a7bad9a908",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ja.autobridgeexport.com/vehicles/opel-corsa-global-search-2026.html",
+      "language": "ja",
+      "page_type": "vehicles",
+      "title": "Opel Corsa 2026: 輸出購入者向けプロフィール",
+      "content_key": "vehicles/opel-corsa-global-search-2026",
+      "current_source": true,
+      "local_page": "ja/vehicles/opel-corsa-global-search-2026.html",
+      "local_page_sha256": "318a52f4f88b9bc5f0ba99003a4481bfc512343496bbe296b0b747a1c489a8a2",
+      "source_file": "content/vehicles/opel-corsa-global-search-2026.json",
+      "source_sha256": "0706c9112ff3377b97d49ff5189365ad9c3e5d504b043ebe76df28a7bad9a908",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://zh.autobridgeexport.com/vehicles/opel-corsa-global-search-2026.html",
+      "language": "zh",
+      "page_type": "vehicles",
+      "title": "Opel Corsa 2026: 出口买家车型档案",
+      "content_key": "vehicles/opel-corsa-global-search-2026",
+      "current_source": true,
+      "local_page": "zh/vehicles/opel-corsa-global-search-2026.html",
+      "local_page_sha256": "0711c29cfa9a2a7907266ef995695db1f5d4b08986ae9588a063d9bdf47e68d4",
+      "source_file": "content/vehicles/opel-corsa-global-search-2026.json",
+      "source_sha256": "0706c9112ff3377b97d49ff5189365ad9c3e5d504b043ebe76df28a7bad9a908",
+      "reasons": [
+        "machine_template_leakage",
+        "near_duplicate_paragraphs",
+        "invalid_rendered_vehicle_specifications",
+        "editorial_quality_score_below_85"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "invalid_specification_value:0",
+        "generic_specification_label:1",
+        "invalid_specification_value:1",
+        "generic_specification_label:2",
+        "invalid_specification_value:2",
+        "generic_specification_label:3",
+        "invalid_specification_value:3",
+        "generic_specification_label:4",
+        "invalid_specification_value:4",
+        "generic_specification_label:5",
+        "invalid_specification_value:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    }
+  ]
+}

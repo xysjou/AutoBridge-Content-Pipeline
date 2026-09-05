@@ -1,0 +1,210 @@
+{
+  "audit_at": "2026-09-05T15:21:22.418Z",
+  "content_key": "vehicles/lexus-nx-global-search-2026",
+  "publish_approved": false,
+  "pages": [
+    {
+      "url": "https://www.autobridgeexport.com/vehicles/lexus-nx-global-search-2026.html",
+      "language": "en",
+      "page_type": "vehicles",
+      "title": "Verify the Right 2026 Lexus NX Drivetrain",
+      "content_key": "vehicles/lexus-nx-global-search-2026",
+      "current_source": true,
+      "local_page": "en/vehicles/lexus-nx-global-search-2026.html",
+      "local_page_sha256": "0d455a09c520b639f611346fcb3d34768f7a5d5a1529ca02d985062623f917ff",
+      "source_file": "content/vehicles/lexus-nx-global-search-2026.json",
+      "source_sha256": "50e4ba63132e9c9878796c28c3aae2be2f6e40354796a70b1bdc4e3855de9b6e",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://fr.autobridgeexport.com/vehicles/lexus-nx-global-search-2026.html",
+      "language": "fr",
+      "page_type": "vehicles",
+      "title": "Lexus NX 2026: Profil acheteur export",
+      "content_key": "vehicles/lexus-nx-global-search-2026",
+      "current_source": true,
+      "local_page": "fr/vehicles/lexus-nx-global-search-2026.html",
+      "local_page_sha256": "2d04f5304d288b3778f6dbfe75a0ed62321134e908d436e32987689dc3709df2",
+      "source_file": "content/vehicles/lexus-nx-global-search-2026.json",
+      "source_sha256": "50e4ba63132e9c9878796c28c3aae2be2f6e40354796a70b1bdc4e3855de9b6e",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://de.autobridgeexport.com/vehicles/lexus-nx-global-search-2026.html",
+      "language": "de",
+      "page_type": "vehicles",
+      "title": "Lexus NX 2026: Exportkäufer-Profil",
+      "content_key": "vehicles/lexus-nx-global-search-2026",
+      "current_source": true,
+      "local_page": "de/vehicles/lexus-nx-global-search-2026.html",
+      "local_page_sha256": "dc458d31c91ee12da07a519d087634bdd3098910fb9f4a066b44f44aa12ba366",
+      "source_file": "content/vehicles/lexus-nx-global-search-2026.json",
+      "source_sha256": "50e4ba63132e9c9878796c28c3aae2be2f6e40354796a70b1bdc4e3855de9b6e",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://es.autobridgeexport.com/vehicles/lexus-nx-global-search-2026.html",
+      "language": "es",
+      "page_type": "vehicles",
+      "title": "Lexus NX 2026: Perfil para comprador exportador",
+      "content_key": "vehicles/lexus-nx-global-search-2026",
+      "current_source": true,
+      "local_page": "es/vehicles/lexus-nx-global-search-2026.html",
+      "local_page_sha256": "8721502e13d4bdba0f61ce0efcf84add7339b7347ef789993cd39b3c139506f8",
+      "source_file": "content/vehicles/lexus-nx-global-search-2026.json",
+      "source_sha256": "50e4ba63132e9c9878796c28c3aae2be2f6e40354796a70b1bdc4e3855de9b6e",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://pt.autobridgeexport.com/vehicles/lexus-nx-global-search-2026.html",
+      "language": "pt-br",
+      "page_type": "vehicles",
+      "title": "Lexus NX 2026: Perfil para comprador de exportação",
+      "content_key": "vehicles/lexus-nx-global-search-2026",
+      "current_source": true,
+      "local_page": "pt-br/vehicles/lexus-nx-global-search-2026.html",
+      "local_page_sha256": "ed5ae9e427990afc48c1edaa638e09b74a1240dd8f6b1acf7d862c6846431575",
+      "source_file": "content/vehicles/lexus-nx-global-search-2026.json",
+      "source_sha256": "50e4ba63132e9c9878796c28c3aae2be2f6e40354796a70b1bdc4e3855de9b6e",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ja.autobridgeexport.com/vehicles/lexus-nx-global-search-2026.html",
+      "language": "ja",
+      "page_type": "vehicles",
+      "title": "Lexus NX 2026: 輸出購入者向けプロフィール",
+      "content_key": "vehicles/lexus-nx-global-search-2026",
+      "current_source": true,
+      "local_page": "ja/vehicles/lexus-nx-global-search-2026.html",
+      "local_page_sha256": "76501df2bed6c7b00b9fe71a8da098583c1198d236cda556fd0c770c0db42ae9",
+      "source_file": "content/vehicles/lexus-nx-global-search-2026.json",
+      "source_sha256": "50e4ba63132e9c9878796c28c3aae2be2f6e40354796a70b1bdc4e3855de9b6e",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://zh.autobridgeexport.com/vehicles/lexus-nx-global-search-2026.html",
+      "language": "zh",
+      "page_type": "vehicles",
+      "title": "2026 Lexus NX出口采购：350h、450h+与FWD/AWD要分别核验",
+      "content_key": "vehicles/lexus-nx-global-search-2026",
+      "current_source": true,
+      "local_page": "zh/vehicles/lexus-nx-global-search-2026.html",
+      "local_page_sha256": "20a68e1a93ecf375d2bfdbef7e8a249c3a5cc1aac0cfeafa6c06448229447279",
+      "source_file": "content/vehicles/lexus-nx-global-search-2026.json",
+      "source_sha256": "50e4ba63132e9c9878796c28c3aae2be2f6e40354796a70b1bdc4e3855de9b6e",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    }
+  ]
+}

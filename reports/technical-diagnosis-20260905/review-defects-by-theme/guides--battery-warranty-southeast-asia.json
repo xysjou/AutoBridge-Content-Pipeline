@@ -1,0 +1,30 @@
+{
+  "audit_at": "2026-09-05T15:21:22.418Z",
+  "content_key": "guides/battery-warranty-southeast-asia",
+  "publish_approved": false,
+  "pages": [
+    {
+      "url": "https://www.autobridgeexport.com/guides/battery-warranty-southeast-asia.html",
+      "language": "en",
+      "page_type": "guides",
+      "title": "Verify EV Battery Warranty Before Import",
+      "content_key": "guides/battery-warranty-southeast-asia",
+      "current_source": true,
+      "local_page": "en/guides/battery-warranty-southeast-asia.html",
+      "local_page_sha256": "4b9882a8e954e364b5e96f7bc0313fffe96bdd8fe650130478b6bf87b5e32c75",
+      "source_file": "content/buyer-guides/battery-warranty-southeast-asia.json",
+      "source_sha256": "d02d99fa2877268df33653372a731d6ed9c1a9ddf8065419df2781ecc430b134",
+      "reasons": [
+        "machine_template_leakage",
+        "editorial_quality_score_below_85"
+      ],
+      "parameter_issues": [],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": 200,
+      "live_check_note": "Earlier HTTP sample only; not proof that current local bytes are deployed.",
+      "required_action": "Independent review and targeted correction; retain quality restrictions until passed."
+    }
+  ]
+}

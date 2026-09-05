@@ -1,0 +1,207 @@
+{
+  "audit_at": "2026-09-05T15:21:22.418Z",
+  "content_key": "vehicles/renault-clio-global-search-2026",
+  "publish_approved": false,
+  "pages": [
+    {
+      "url": "https://www.autobridgeexport.com/vehicles/renault-clio-global-search-2026.html",
+      "language": "en",
+      "page_type": "vehicles",
+      "title": "Renault Clio 2026: evidence-led export buyer guide",
+      "content_key": "vehicles/renault-clio-global-search-2026",
+      "current_source": true,
+      "local_page": "en/vehicles/renault-clio-global-search-2026.html",
+      "local_page_sha256": "686c7b920bc019844bb9e4895753b61b62e3aa1e62519ca1611cc317f9787be1",
+      "source_file": "content/vehicles/renault-clio-global-search-2026.json",
+      "source_sha256": "39a6849682f9859771fd6c96428ed9dfc073c288c4758938729c364fbf52df12",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://fr.autobridgeexport.com/vehicles/renault-clio-global-search-2026.html",
+      "language": "fr",
+      "page_type": "vehicles",
+      "title": "Renault Clio 2026 : guide d’achat export fondé sur les preuves",
+      "content_key": "vehicles/renault-clio-global-search-2026",
+      "current_source": true,
+      "local_page": "fr/vehicles/renault-clio-global-search-2026.html",
+      "local_page_sha256": "5098e4f73a8511aa0c465c13c18bf415869c100e812a1828d392c8112a5a216e",
+      "source_file": "content/vehicles/renault-clio-global-search-2026.json",
+      "source_sha256": "39a6849682f9859771fd6c96428ed9dfc073c288c4758938729c364fbf52df12",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://de.autobridgeexport.com/vehicles/renault-clio-global-search-2026.html",
+      "language": "de",
+      "page_type": "vehicles",
+      "title": "Renault Clio 2026: Export-Kaufratgeber mit Belegen",
+      "content_key": "vehicles/renault-clio-global-search-2026",
+      "current_source": true,
+      "local_page": "de/vehicles/renault-clio-global-search-2026.html",
+      "local_page_sha256": "61226187ebefd8e2cbf4abe7a543c30f8533f907be0ed345f9b01afe8c04dea0",
+      "source_file": "content/vehicles/renault-clio-global-search-2026.json",
+      "source_sha256": "39a6849682f9859771fd6c96428ed9dfc073c288c4758938729c364fbf52df12",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://es.autobridgeexport.com/vehicles/renault-clio-global-search-2026.html",
+      "language": "es",
+      "page_type": "vehicles",
+      "title": "Renault Clio 2026: guía de compra para exportación con pruebas",
+      "content_key": "vehicles/renault-clio-global-search-2026",
+      "current_source": true,
+      "local_page": "es/vehicles/renault-clio-global-search-2026.html",
+      "local_page_sha256": "e9640e2f902a98f5d6c9e37f76e468f933ba2a4c907fe72de8c5a9f6142bbf20",
+      "source_file": "content/vehicles/renault-clio-global-search-2026.json",
+      "source_sha256": "39a6849682f9859771fd6c96428ed9dfc073c288c4758938729c364fbf52df12",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://pt.autobridgeexport.com/vehicles/renault-clio-global-search-2026.html",
+      "language": "pt-br",
+      "page_type": "vehicles",
+      "title": "Renault Clio 2026: guia de compra para exportação com evidências",
+      "content_key": "vehicles/renault-clio-global-search-2026",
+      "current_source": true,
+      "local_page": "pt-br/vehicles/renault-clio-global-search-2026.html",
+      "local_page_sha256": "56fa9ff17786dd29977387fbdf507f6464f213169931068a6a88f58c0dbd19ef",
+      "source_file": "content/vehicles/renault-clio-global-search-2026.json",
+      "source_sha256": "39a6849682f9859771fd6c96428ed9dfc073c288c4758938729c364fbf52df12",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ja.autobridgeexport.com/vehicles/renault-clio-global-search-2026.html",
+      "language": "ja",
+      "page_type": "vehicles",
+      "title": "Renault Clio 2026年：根拠に基づく輸出購入ガイド",
+      "content_key": "vehicles/renault-clio-global-search-2026",
+      "current_source": true,
+      "local_page": "ja/vehicles/renault-clio-global-search-2026.html",
+      "local_page_sha256": "cc3522df26f2cecb97af3842f0c9c8aafdfbb0c6c4c1d84c64949f6dfbbc7618",
+      "source_file": "content/vehicles/renault-clio-global-search-2026.json",
+      "source_sha256": "39a6849682f9859771fd6c96428ed9dfc073c288c4758938729c364fbf52df12",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://zh.autobridgeexport.com/vehicles/renault-clio-global-search-2026.html",
+      "language": "zh",
+      "page_type": "vehicles",
+      "title": "Renault Clio 2026：基于证据的出口购车指南",
+      "content_key": "vehicles/renault-clio-global-search-2026",
+      "current_source": true,
+      "local_page": "zh/vehicles/renault-clio-global-search-2026.html",
+      "local_page_sha256": "8e776addeb0b722060414ada18941c6402a1fdb3a70a0fdd0371f8f5abc92f1d",
+      "source_file": "content/vehicles/renault-clio-global-search-2026.json",
+      "source_sha256": "39a6849682f9859771fd6c96428ed9dfc073c288c4758938729c364fbf52df12",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    }
+  ]
+}

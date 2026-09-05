@@ -1,0 +1,31 @@
+{
+  "audit_at": "2026-09-05T15:21:22.418Z",
+  "content_key": "vehicles/volkswagen-tiguan-global-search-2026",
+  "publish_approved": false,
+  "pages": [
+    {
+      "url": "https://zh.autobridgeexport.com/vehicles/volkswagen-tiguan-global-search-2026.html",
+      "language": "zh",
+      "page_type": "vehicles",
+      "title": "Volkswagen Tiguan 2026：出口证据与购车核验",
+      "content_key": "vehicles/volkswagen-tiguan-global-search-2026",
+      "current_source": true,
+      "local_page": "zh/vehicles/volkswagen-tiguan-global-search-2026.html",
+      "local_page_sha256": "43d25e9bd8b9cec0cee75a6adfa3aca84c54835f39f35991afcc74fc48bf214c",
+      "source_file": "content/vehicles/volkswagen-tiguan-global-search-2026.json",
+      "source_sha256": "c758cb1b34633a109cf1d1966e972a03d03d271eee78a19b283c6c5390636305",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:3"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "audit_at": "2026-09-05T15:21:22.418Z",
+  "content_key": "vehicles/honda-accord-global-search-2026",
+  "publish_approved": false,
+  "pages": [
+    {
+      "url": "https://www.autobridgeexport.com/vehicles/honda-accord-global-search-2026.html",
+      "language": "en",
+      "page_type": "vehicles",
+      "title": "Honda Accord 2026 export buyer profile: identify the market first",
+      "content_key": "vehicles/honda-accord-global-search-2026",
+      "current_source": true,
+      "local_page": "en/vehicles/honda-accord-global-search-2026.html",
+      "local_page_sha256": "27aea0cea90b990614586d4e9a2902d021f9d0135d70a4a69cf5d2b62124e5b1",
+      "source_file": "content/vehicles/honda-accord-global-search-2026.json",
+      "source_sha256": "9c03797e5335fbdc586d6c61add46425b5b7f5c3bed26085154e3006714a121c",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://fr.autobridgeexport.com/vehicles/honda-accord-global-search-2026.html",
+      "language": "fr",
+      "page_type": "vehicles",
+      "title": "Honda Accord 2026 à l’export : le marché d’origine d’abord",
+      "content_key": "vehicles/honda-accord-global-search-2026",
+      "current_source": true,
+      "local_page": "fr/vehicles/honda-accord-global-search-2026.html",
+      "local_page_sha256": "2db3b322d5fbcabf5b4a55bc3d72b3c167e5e6c4b218d0d7590fd129a34ac79c",
+      "source_file": "content/vehicles/honda-accord-global-search-2026.json",
+      "source_sha256": "9c03797e5335fbdc586d6c61add46425b5b7f5c3bed26085154e3006714a121c",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://de.autobridgeexport.com/vehicles/honda-accord-global-search-2026.html",
+      "language": "de",
+      "page_type": "vehicles",
+      "title": "Honda Accord 2026 im Export: zuerst den Ursprungsmarkt klären",
+      "content_key": "vehicles/honda-accord-global-search-2026",
+      "current_source": true,
+      "local_page": "de/vehicles/honda-accord-global-search-2026.html",
+      "local_page_sha256": "4b11a0530d96b5b904a77ff22d1200f6d9b8bc327b743a3d145f93d202589ae1",
+      "source_file": "content/vehicles/honda-accord-global-search-2026.json",
+      "source_sha256": "9c03797e5335fbdc586d6c61add46425b5b7f5c3bed26085154e3006714a121c",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://es.autobridgeexport.com/vehicles/honda-accord-global-search-2026.html",
+      "language": "es",
+      "page_type": "vehicles",
+      "title": "Honda Accord 2026 para exportación: primero identifique el mercado",
+      "content_key": "vehicles/honda-accord-global-search-2026",
+      "current_source": true,
+      "local_page": "es/vehicles/honda-accord-global-search-2026.html",
+      "local_page_sha256": "563c861b3b90485738418e5a998170308e7e54a9a81543b6c72bfa59de83aac8",
+      "source_file": "content/vehicles/honda-accord-global-search-2026.json",
+      "source_sha256": "9c03797e5335fbdc586d6c61add46425b5b7f5c3bed26085154e3006714a121c",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://pt.autobridgeexport.com/vehicles/honda-accord-global-search-2026.html",
+      "language": "pt-br",
+      "page_type": "vehicles",
+      "title": "Honda Accord 2026 para exportação: confirme primeiro o mercado",
+      "content_key": "vehicles/honda-accord-global-search-2026",
+      "current_source": true,
+      "local_page": "pt-br/vehicles/honda-accord-global-search-2026.html",
+      "local_page_sha256": "83cb57aa5137c52892f6e72007870f0b03b3256ea28dbd70a2e233b7bc449c8c",
+      "source_file": "content/vehicles/honda-accord-global-search-2026.json",
+      "source_sha256": "9c03797e5335fbdc586d6c61add46425b5b7f5c3bed26085154e3006714a121c",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ja.autobridgeexport.com/vehicles/honda-accord-global-search-2026.html",
+      "language": "ja",
+      "page_type": "vehicles",
+      "title": "Honda Accord 2026輸出購入ガイド：まず仕向地を特定",
+      "content_key": "vehicles/honda-accord-global-search-2026",
+      "current_source": true,
+      "local_page": "ja/vehicles/honda-accord-global-search-2026.html",
+      "local_page_sha256": "79a15f292f6c4c6253f2f0fcd271184858174952b63246431926c000189f3aa0",
+      "source_file": "content/vehicles/honda-accord-global-search-2026.json",
+      "source_sha256": "9c03797e5335fbdc586d6c61add46425b5b7f5c3bed26085154e3006714a121c",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://zh.autobridgeexport.com/vehicles/honda-accord-global-search-2026.html",
+      "language": "zh",
+      "page_type": "vehicles",
+      "title": "Honda Accord 2026出口买家档案：先确认原销售市场",
+      "content_key": "vehicles/honda-accord-global-search-2026",
+      "current_source": true,
+      "local_page": "zh/vehicles/honda-accord-global-search-2026.html",
+      "local_page_sha256": "dc7ff2a79e541db4f9ebc5aa04dde736072fc625f8486860fb1f58d9a9eac2e4",
+      "source_file": "content/vehicles/honda-accord-global-search-2026.json",
+      "source_sha256": "9c03797e5335fbdc586d6c61add46425b5b7f5c3bed26085154e3006714a121c",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    }
+  ]
+}

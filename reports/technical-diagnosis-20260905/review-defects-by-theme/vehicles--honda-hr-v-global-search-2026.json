@@ -1,0 +1,206 @@
+{
+  "audit_at": "2026-09-05T15:21:22.418Z",
+  "content_key": "vehicles/honda-hr-v-global-search-2026",
+  "publish_approved": false,
+  "pages": [
+    {
+      "url": "https://www.autobridgeexport.com/vehicles/honda-hr-v-global-search-2026.html",
+      "language": "en",
+      "page_type": "vehicles",
+      "title": "2026 Honda HR-V export guide: identify which HR-V first",
+      "content_key": "vehicles/honda-hr-v-global-search-2026",
+      "current_source": true,
+      "local_page": "en/vehicles/honda-hr-v-global-search-2026.html",
+      "local_page_sha256": "988591b153e6f72aec35f4872f3cc029fb567cadc10b7c5ead11a62a27612989",
+      "source_file": "content/vehicles/honda-hr-v-global-search-2026.json",
+      "source_sha256": "020299b568c50723115138cc0f5413093f0b67b276f2a988a360173350c932d0",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://fr.autobridgeexport.com/vehicles/honda-hr-v-global-search-2026.html",
+      "language": "fr",
+      "page_type": "vehicles",
+      "title": "Honda HR-V 2026 à l'export : identifier d'abord la bonne version",
+      "content_key": "vehicles/honda-hr-v-global-search-2026",
+      "current_source": true,
+      "local_page": "fr/vehicles/honda-hr-v-global-search-2026.html",
+      "local_page_sha256": "8811dbcea5006f6c6f747f1b76e796a472851d7d7ddee1aee40da371b6fd7041",
+      "source_file": "content/vehicles/honda-hr-v-global-search-2026.json",
+      "source_sha256": "020299b568c50723115138cc0f5413093f0b67b276f2a988a360173350c932d0",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://de.autobridgeexport.com/vehicles/honda-hr-v-global-search-2026.html",
+      "language": "de",
+      "page_type": "vehicles",
+      "title": "Honda HR-V 2026 für den Export: zuerst das richtige Fahrzeug bestimmen",
+      "content_key": "vehicles/honda-hr-v-global-search-2026",
+      "current_source": true,
+      "local_page": "de/vehicles/honda-hr-v-global-search-2026.html",
+      "local_page_sha256": "4c1f588a4de09d9cff7714a6dee05382a64ef5f69443b2a64ef98c396a3378da",
+      "source_file": "content/vehicles/honda-hr-v-global-search-2026.json",
+      "source_sha256": "020299b568c50723115138cc0f5413093f0b67b276f2a988a360173350c932d0",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://es.autobridgeexport.com/vehicles/honda-hr-v-global-search-2026.html",
+      "language": "es",
+      "page_type": "vehicles",
+      "title": "Honda HR-V 2026 para exportación: primero identifique cuál es",
+      "content_key": "vehicles/honda-hr-v-global-search-2026",
+      "current_source": true,
+      "local_page": "es/vehicles/honda-hr-v-global-search-2026.html",
+      "local_page_sha256": "25a010da0d10f56a0a52bee9742f72b3da068d6037597fee8f908e9693d48d68",
+      "source_file": "content/vehicles/honda-hr-v-global-search-2026.json",
+      "source_sha256": "020299b568c50723115138cc0f5413093f0b67b276f2a988a360173350c932d0",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://pt.autobridgeexport.com/vehicles/honda-hr-v-global-search-2026.html",
+      "language": "pt-br",
+      "page_type": "vehicles",
+      "title": "Honda HR-V 2026 para exportação: identifique primeiro qual HR-V é",
+      "content_key": "vehicles/honda-hr-v-global-search-2026",
+      "current_source": true,
+      "local_page": "pt-br/vehicles/honda-hr-v-global-search-2026.html",
+      "local_page_sha256": "738179c18b2a0facb0799fcc82c82ac1655b5fc05e10c449384882d00a5634e0",
+      "source_file": "content/vehicles/honda-hr-v-global-search-2026.json",
+      "source_sha256": "020299b568c50723115138cc0f5413093f0b67b276f2a988a360173350c932d0",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:2",
+        "generic_specification_label:3",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://ja.autobridgeexport.com/vehicles/honda-hr-v-global-search-2026.html",
+      "language": "ja",
+      "page_type": "vehicles",
+      "title": "2026年Honda HR-V輸出購入ガイド：まず車両系統を特定",
+      "content_key": "vehicles/honda-hr-v-global-search-2026",
+      "current_source": true,
+      "local_page": "ja/vehicles/honda-hr-v-global-search-2026.html",
+      "local_page_sha256": "14586906fa28f87acb4966f1fb5b971cb0e5afded7b47a0be352d059bbbf8702",
+      "source_file": "content/vehicles/honda-hr-v-global-search-2026.json",
+      "source_sha256": "020299b568c50723115138cc0f5413093f0b67b276f2a988a360173350c932d0",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    },
+    {
+      "url": "https://zh.autobridgeexport.com/vehicles/honda-hr-v-global-search-2026.html",
+      "language": "zh",
+      "page_type": "vehicles",
+      "title": "2026款Honda HR-V出口选购指南：先确认是哪一种HR-V",
+      "content_key": "vehicles/honda-hr-v-global-search-2026",
+      "current_source": true,
+      "local_page": "zh/vehicles/honda-hr-v-global-search-2026.html",
+      "local_page_sha256": "103be9c1cb473187ca8b78cef8bbac97e302d7b7ee518637fa6cbc4718d86c5e",
+      "source_file": "content/vehicles/honda-hr-v-global-search-2026.json",
+      "source_sha256": "020299b568c50723115138cc0f5413093f0b67b276f2a988a360173350c932d0",
+      "reasons": [
+        "invalid_rendered_vehicle_specifications"
+      ],
+      "parameter_issues": [
+        "generic_specification_label:0",
+        "generic_specification_label:1",
+        "generic_specification_label:4",
+        "generic_specification_label:5"
+      ],
+      "status": "REVISION REQUIRED",
+      "review_complete": false,
+      "human_reviewed": false,
+      "live_http_status": null,
+      "live_check_note": "Not checked in the HTTP sample.",
+      "required_action": "Research must bind actual parameters to market, year, trim and official source. Writing fixes only defective content; Review checks exact revised hashes."
+    }
+  ]
+}
