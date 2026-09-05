@@ -62,7 +62,7 @@ Public checklists repeat "read SOH and reject below 80%." This guide instead rec
 - ORIGINAL_IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
 - RIGHTS_HOLDER: unconfirmed
-- LICENSE: none secured — no third-party image may be published until rights are cleared
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-05
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
 - IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
@@ -94,9 +94,9 @@ Public checklists repeat "read SOH and reject below 80%." This guide instead rec
 
 *Confidence note: what the battery standards define (SOH measurement, cycle testing, the 80% engineering convention) is VERIFIED/CROSS_CHECKED against standards bodies. The earlier "SOH ≥80% required to clear EU/ASEAN certification" claim had no official source and has been removed: no universal legal SOH import threshold exists, and the destination authority's rule must be obtained per country. Inspection-method videos are used only as method references.*
 ## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-02 · **R3 (2026-09-03): 85% NMC line removed; metered charge redefined as screening cross-check; absolute causality removed** · **Second-round source revision**: 2026-09-03 (80% re-grounded in battery standards; unsupported "legal 80% certification threshold" claim removed)
+- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
+- **Last reviewed**: 2026-09-05
 - **Reference market**: Global (China used-EV export side)
 - **Verification method**: Standards-body basis for SOH concepts; media used only for inspection method; engineering line kept distinct from any destination legal rule
-- **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS (unsupported legal threshold removed; standards added) · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off
+- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
 #AutoBridge #UsedEVInspection #BatterySOH #ExportProcurement #PrePurchaseCheck

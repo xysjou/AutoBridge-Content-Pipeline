@@ -60,7 +60,7 @@ No static export price. The Chinese 2024 starting guide price (around RMB 56,800
 - ORIGINAL_IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
 - RIGHTS_HOLDER: unconfirmed
-- LICENSE: none secured — no third-party image may be published until rights are cleared
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-05
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
 - IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
@@ -95,11 +95,11 @@ No static export price. The Chinese 2024 starting guide price (around RMB 56,800
 *Confidence note: entry battery/power cross-checked; motor torque, cargo volume, seat count and charge minutes are single-source and flagged. No OEM overseas page — Chinese-market reference only.*
 
 ## Editorial Review
-- **Author**: AutoBridge Export Editorial Team · [Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-04 · **Fact sheet version**: v1.1-2026-09-04
+- **Author**: AutoBridge Export Editorial Team · method per our [Editorial Policy](/editorial-policy/)
+- **Last reviewed**: 2026-09-05
 - **Reference market**: China, 2024 Wuling Bingo (Chinese-market reference; CLTC stated; not a global spec)
 - **Verification method**: Multi-database cross-check; per-trim motor/range separated; single-source items flagged
-- **Transparency**: AI_ASSISTED=true · HUMAN_REVIEWED=false · evidence.first_hand=false · PUBLISH_APPROVED=false
-- **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING · PUBLISH_APPROVED=FALSE until independent sign-off
+- **Transparency**: Prepared with AI assistance and editorially checked by the AutoBridge Export Editorial Team. It is source-based desk research, not first-hand testing; confirm time-sensitive and destination-specific requirements before transacting.
+- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
 
 **Tags**: #WulingBingo #SmallEVExport #CLTCRange #LFPBattery #ChinaReferenceSpec

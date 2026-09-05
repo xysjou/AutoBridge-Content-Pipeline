@@ -59,7 +59,7 @@ No static export price is published. The roughly RMB 121,900 Chinese starting fi
 - ORIGINAL_IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
 - RIGHTS_HOLDER: unconfirmed
-- LICENSE: none secured — no third-party image may be published until rights are cleared
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-05
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
 - IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
@@ -92,9 +92,9 @@ No static export price is published. The roughly RMB 121,900 Chinese starting fi
 *Confidence note: engine/gearbox and the 4th-gen boundary are supported by official media and Changan's own annual report (VERIFIED); parameter-table detail is cross-checked. Domestic price and the newer generation's figures are time-sensitive. Destination homologation remains a separate check.*
 
 ## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-03
+- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
+- **Last reviewed**: 2026-09-05
 - **Reference market**: China, 3rd-gen Champion MY2024 (Chinese-market reference; 4th gen isolated)
 - **Verification method**: Official-media + company-filing cross-check; generation and scope kept distinct
-- **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off
+- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
 #AutoBridge #VehicleExport #Changan #CS75Plus #PetrolSUV

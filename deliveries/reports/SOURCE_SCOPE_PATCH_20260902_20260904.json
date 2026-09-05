@@ -1,0 +1,374 @@
+{
+ "generated": "2026-09-05",
+ "method": "SOURCE_COUNT_GATE + SOURCE_SCOPE_GATE + CLAIM_TRACEABILITY_GATE",
+ "controlled_patches": {
+  "AB-260902-V01": "Controlled patch: BYD CN official model hub added (model-line/generation scope); 2024 Glory numeric facts confirmed by independent multi-source cross-check; export WLTP/NEDC not asserted",
+  "AB-260903-V02": "Controlled patch: BYD CN official 2025 Dolphin + DiPilot pages added (identity scope); 44.928/60.48 kWh,70/150 kW,420/520 km each cross-checked by >=2 independent sources; Fact Sheet + Source Log updated"
+ },
+ "per_article": {
+  "AB-260902-G01": {
+   "urls": 6,
+   "orgs": 5,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260902-G02": {
+   "urls": 6,
+   "orgs": 6,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260902-G03": {
+   "urls": 7,
+   "orgs": 7,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260902-G04": {
+   "urls": 7,
+   "orgs": 6,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260902-G05": {
+   "urls": 6,
+   "orgs": 6,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260902-G06": {
+   "urls": 7,
+   "orgs": 6,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260902-G07": {
+   "urls": 11,
+   "orgs": 9,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260902-G08": {
+   "urls": 7,
+   "orgs": 6,
+   "has_verified_primary": false,
+   "scope_status": "CONDITIONAL"
+  },
+  "AB-260902-G09": {
+   "urls": 7,
+   "orgs": 6,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260902-G10": {
+   "urls": 6,
+   "orgs": 5,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260902-V01": {
+   "urls": 8,
+   "orgs": 8,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260902-V02": {
+   "urls": 6,
+   "orgs": 5,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260902-V03": {
+   "urls": 7,
+   "orgs": 6,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260902-V04": {
+   "urls": 6,
+   "orgs": 5,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260902-V05": {
+   "urls": 8,
+   "orgs": 8,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260902-V06": {
+   "urls": 8,
+   "orgs": 7,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260902-V07": {
+   "urls": 9,
+   "orgs": 6,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260902-V08": {
+   "urls": 8,
+   "orgs": 7,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260902-V09": {
+   "urls": 9,
+   "orgs": 6,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260902-V10": {
+   "urls": 9,
+   "orgs": 6,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260903-G01": {
+   "urls": 6,
+   "orgs": 5,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260903-G02": {
+   "urls": 9,
+   "orgs": 7,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260903-G03": {
+   "urls": 12,
+   "orgs": 7,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260903-G04": {
+   "urls": 6,
+   "orgs": 5,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260903-G05": {
+   "urls": 7,
+   "orgs": 7,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260903-G06": {
+   "urls": 7,
+   "orgs": 6,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260903-G07": {
+   "urls": 7,
+   "orgs": 6,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260903-G08": {
+   "urls": 10,
+   "orgs": 7,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260903-G09": {
+   "urls": 6,
+   "orgs": 6,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260903-G10": {
+   "urls": 6,
+   "orgs": 6,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260903-V01": {
+   "urls": 8,
+   "orgs": 7,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260903-V02": {
+   "urls": 12,
+   "orgs": 7,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260903-V03": {
+   "urls": 8,
+   "orgs": 7,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260903-V04": {
+   "urls": 10,
+   "orgs": 7,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260903-V05": {
+   "urls": 9,
+   "orgs": 6,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260903-V06": {
+   "urls": 8,
+   "orgs": 7,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260903-V07": {
+   "urls": 9,
+   "orgs": 5,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260903-V08": {
+   "urls": 9,
+   "orgs": 5,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260903-V09": {
+   "urls": 8,
+   "orgs": 5,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260903-V10": {
+   "urls": 8,
+   "orgs": 5,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260904-G01": {
+   "urls": 6,
+   "orgs": 6,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260904-G02": {
+   "urls": 6,
+   "orgs": 5,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260904-G03": {
+   "urls": 8,
+   "orgs": 7,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260904-G04": {
+   "urls": 8,
+   "orgs": 7,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260904-G05": {
+   "urls": 7,
+   "orgs": 5,
+   "has_verified_primary": true,
+   "scope_status": "CONDITIONAL"
+  },
+  "AB-260904-G06": {
+   "urls": 10,
+   "orgs": 6,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260904-G07": {
+   "urls": 6,
+   "orgs": 5,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260904-G08": {
+   "urls": 6,
+   "orgs": 5,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260904-G09": {
+   "urls": 7,
+   "orgs": 4,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260904-G10": {
+   "urls": 8,
+   "orgs": 8,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260904-V01": {
+   "urls": 7,
+   "orgs": 6,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260904-V02": {
+   "urls": 10,
+   "orgs": 6,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260904-V03": {
+   "urls": 10,
+   "orgs": 7,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260904-V04": {
+   "urls": 9,
+   "orgs": 8,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260904-V05": {
+   "urls": 7,
+   "orgs": 7,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260904-V06": {
+   "urls": 11,
+   "orgs": 7,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260904-V07": {
+   "urls": 10,
+   "orgs": 8,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260904-V08": {
+   "urls": 9,
+   "orgs": 5,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260904-V09": {
+   "urls": 8,
+   "orgs": 7,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  },
+  "AB-260904-V10": {
+   "urls": 8,
+   "orgs": 5,
+   "has_verified_primary": true,
+   "scope_status": "PASS"
+  }
+ },
+ "SOURCE_SCOPE_PASS": 58,
+ "SOURCE_SCOPE_CONDITIONAL": 2,
+ "SOURCE_SCOPE_FAIL": 0,
+ "NEEDS_RESEARCH": 0
+}

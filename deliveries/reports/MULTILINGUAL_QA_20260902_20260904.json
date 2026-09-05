@@ -1,0 +1,33 @@
+{
+ "generated": "2026-09-05",
+ "languages": [
+  "EN",
+  "FR",
+  "DE",
+  "ES",
+  "PT",
+  "JA",
+  "KO",
+  "VI",
+  "TH",
+  "ID",
+  "AR",
+  "ZH"
+ ],
+ "front_matter_locale_versions": 720,
+ "locale_qa_pass": 720,
+ "locale_qa_fail": 0,
+ "gates": [
+  "LANGUAGE_PURITY",
+  "SENTENCE_COMPLETENESS",
+  "FACT_NUMBER",
+  "UNIT",
+  "MARKET_SCOPE",
+  "MODEL_YEAR_TRIM",
+  "TITLE_META_H1",
+  "ALT",
+  "INTERNAL_LINK"
+ ],
+ "full_body_translation": "NOT PRODUCED BY WRITING STAGE — 11 non-EN full bodies remain PENDING_LOCALIZATION_STAGE (separate Master->localization pipeline); metadata/H1/ALT synchronized and QA-ed for all 720",
+ "per_article_locale_files": "daily/<day>/articles/locales/<AID>.locale.json"
+}

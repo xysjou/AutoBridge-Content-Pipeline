@@ -1,0 +1,219 @@
+{
+ "ARTICLE_ID": "AB-260903-G08",
+ "MASTER_LANG": "EN",
+ "MASTER_URL": "/guides/africa-used-car-import-age-limits/",
+ "CONTENT_TYPE": "GUIDE",
+ "MODEL_TOPIC_ANCHOR": "Used-Car Age Limits Across African Markets",
+ "NUMERIC_INVARIANTS": [
+  "15",
+  "8"
+ ],
+ "MARKET_SCOPE_LOCKED": true,
+ "BODY_TRANSLATION_STATUS": "PENDING_LOCALIZATION_STAGE",
+ "locales": {
+  "EN": {
+   "title": "Used-Car Age Limits Across African Markets: Importer & Buyer Guide",
+   "meta": "Used-Car Age Limits Across African Markets — a practical procurement guide for importers, dealers and fleet buyers: what to verify and the risks to control. Focus: africa used car import age limit by country matrix.",
+   "h1": "Used-Car Age Limits Across African Markets",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "FR": {
+   "title": "Used-Car Age Limits Across African Markets: Guide importateur et acheteur",
+   "meta": "Used-Car Age Limits Across African Markets — guide d’achat pratique pour importateurs, concessionnaires et flottes : que vérifier et quels risques maîtriser. Sujet clé: africa used car import age limit by country matrix.",
+   "h1": "Used-Car Age Limits Across African Markets",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "DE": {
+   "title": "Used-Car Age Limits Across African Markets: Importeur- & Einkaufsratgeber",
+   "meta": "Used-Car Age Limits Across African Markets — praktischer Einkaufsratgeber für Importeure, Händler und Flotten: Prüfpunkte und zu beherrschende Risiken. Schwerpunkt: africa used car import age limit by country matrix.",
+   "h1": "Used-Car Age Limits Across African Markets",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ES": {
+   "title": "Used-Car Age Limits Across African Markets: Guía para importadores y compradores",
+   "meta": "Used-Car Age Limits Across African Markets — guía de compras para importadores, distribuidores y flotas: qué verificar y riesgos a controlar. Enfoque: africa used car import age limit by country matrix.",
+   "h1": "Used-Car Age Limits Across African Markets",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "PT": {
+   "title": "Used-Car Age Limits Across African Markets: Guia para importadores e compradores",
+   "meta": "Used-Car Age Limits Across African Markets — guia prático de compras para importadores, concessionárias e frotas: o que verificar e riscos a controlar. Foco: africa used car import age limit by country matrix.",
+   "h1": "Used-Car Age Limits Across African Markets",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "JA": {
+   "title": "Used-Car Age Limits Across African Markets: 輸入業者・バイヤー向けガイド",
+   "meta": "Used-Car Age Limits Across African Markets―輸入業者・ディーラー・フリート調達向け実務ガイド：確認すべき点とリスク管理。 主な論点: africa used car import age limit by country matrix.",
+   "h1": "Used-Car Age Limits Across African Markets",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "KO": {
+   "title": "Used-Car Age Limits Across African Markets: 수입업체·바이어 가이드",
+   "meta": "Used-Car Age Limits Across African Markets — 수입업체·딜러·플릿 구매를 위한 실무 조달 가이드: 확인 항목과 관리할 리스크. 핵심 주제: africa used car import age limit by country matrix.",
+   "h1": "Used-Car Age Limits Across African Markets",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "VI": {
+   "title": "Used-Car Age Limits Across African Markets: Hướng dẫn cho nhà nhập khẩu và người mua",
+   "meta": "Used-Car Age Limits Across African Markets — hướng dẫn thu mua thực tế cho nhà nhập khẩu, đại lý và đội xe: cần kiểm tra gì và kiểm soát rủi ro. Trọng tâm: africa used car import age limit by country matrix.",
+   "h1": "Used-Car Age Limits Across African Markets",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "TH": {
+   "title": "Used-Car Age Limits Across African Markets: คู่มือสำหรับผู้นำเข้าและผู้ซื้อ",
+   "meta": "Used-Car Age Limits Across African Markets — คู่มือจัดซื้อเชิงปฏิบัติสำหรับผู้นำเข้า ดีลเลอร์และฟลีต: สิ่งที่ต้องตรวจสอบและความเสี่ยงที่ต้องควบคุม จุดสำคัญ: africa used car import age limit by country matrix.",
+   "h1": "Used-Car Age Limits Across African Markets",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ID": {
+   "title": "Used-Car Age Limits Across African Markets: Panduan Importir & Pembeli",
+   "meta": "Used-Car Age Limits Across African Markets — panduan pengadaan praktis untuk importir, dealer dan armada: apa yang harus diverifikasi dan risiko yang dikelola. Fokus: africa used car import age limit by country matrix.",
+   "h1": "Used-Car Age Limits Across African Markets",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "AR": {
+   "title": "Used-Car Age Limits Across African Markets: دليل المستورد والمشتري",
+   "meta": "Used-Car Age Limits Across African Markets — دليل شراء عملي للمستوردين والوكلاء والأساطيل: ما يجب التحقق منه والمخاطر التي يجب ضبطها. المحور: africa used car import age limit by country matrix.",
+   "h1": "Used-Car Age Limits Across African Markets",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ZH": {
+   "title": "Used-Car Age Limits Across African Markets: 进口商/采购商指南",
+   "meta": "Used-Car Age Limits Across African Markets——面向进口商、经销商与车队采购的实操指南：核验要点与风险控制。 核心主题: africa used car import age limit by country matrix.",
+   "h1": "Used-Car Age Limits Across African Markets",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  }
+ }
+}

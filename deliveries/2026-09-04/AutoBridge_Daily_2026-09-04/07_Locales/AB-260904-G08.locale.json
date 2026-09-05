@@ -1,0 +1,227 @@
+{
+ "ARTICLE_ID": "AB-260904-G08",
+ "MASTER_LANG": "EN",
+ "MASTER_URL": "/guides/ev-shipping-un3556-imdg-compliance",
+ "CONTENT_TYPE": "GUIDE",
+ "MODEL_TOPIC_ANCHOR": "Classifying a Battery-Powered Vehicle for Ocean Freight Under the Current IMDG Code",
+ "NUMERIC_INVARIANTS": [
+  "2026",
+  "24",
+  "3171",
+  "3480",
+  "3481",
+  "3556",
+  "3557",
+  "3558",
+  "38.3",
+  "42"
+ ],
+ "MARKET_SCOPE_LOCKED": true,
+ "BODY_TRANSLATION_STATUS": "PENDING_LOCALIZATION_STAGE",
+ "locales": {
+  "EN": {
+   "title": "Classifying a Battery-Powered Vehicle for Ocean Freight Under the Current IMDG Code: Importer & Buyer Guide",
+   "meta": "Classifying a Battery-Powered Vehicle for Ocean Freight Under the Current IMDG Code — a practical procurement guide for importers, dealers and fleet buyers: what to verify and the risks to control. Focus: UN3556 lithium ion vehicle IMDG 42-24 shipping.",
+   "h1": "Classifying a Battery-Powered Vehicle for Ocean Freight Under the Current IMDG Code",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "FR": {
+   "title": "Classifying a Battery-Powered Vehicle for Ocean Freight Under the Current IMDG Code: Guide importateur et acheteur",
+   "meta": "Classifying a Battery-Powered Vehicle for Ocean Freight Under the Current IMDG Code — guide d’achat pratique pour importateurs, concessionnaires et flottes : que vérifier et quels risques maîtriser. Sujet clé: UN3556 lithium ion vehicle IMDG 42-24 shipping.",
+   "h1": "Classifying a Battery-Powered Vehicle for Ocean Freight Under the Current IMDG Code",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "DE": {
+   "title": "Classifying a Battery-Powered Vehicle for Ocean Freight Under the Current IMDG Code: Importeur- & Einkaufsratgeber",
+   "meta": "Classifying a Battery-Powered Vehicle for Ocean Freight Under the Current IMDG Code — praktischer Einkaufsratgeber für Importeure, Händler und Flotten: Prüfpunkte und zu beherrschende Risiken. Schwerpunkt: UN3556 lithium ion vehicle IMDG 42-24 shipping.",
+   "h1": "Classifying a Battery-Powered Vehicle for Ocean Freight Under the Current IMDG Code",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ES": {
+   "title": "Classifying a Battery-Powered Vehicle for Ocean Freight Under the Current IMDG Code: Guía para importadores y compradores",
+   "meta": "Classifying a Battery-Powered Vehicle for Ocean Freight Under the Current IMDG Code — guía de compras para importadores, distribuidores y flotas: qué verificar y riesgos a controlar. Enfoque: UN3556 lithium ion vehicle IMDG 42-24 shipping.",
+   "h1": "Classifying a Battery-Powered Vehicle for Ocean Freight Under the Current IMDG Code",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "PT": {
+   "title": "Classifying a Battery-Powered Vehicle for Ocean Freight Under the Current IMDG Code: Guia para importadores e compradores",
+   "meta": "Classifying a Battery-Powered Vehicle for Ocean Freight Under the Current IMDG Code — guia prático de compras para importadores, concessionárias e frotas: o que verificar e riscos a controlar. Foco: UN3556 lithium ion vehicle IMDG 42-24 shipping.",
+   "h1": "Classifying a Battery-Powered Vehicle for Ocean Freight Under the Current IMDG Code",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "JA": {
+   "title": "Classifying a Battery-Powered Vehicle for Ocean Freight Under the Current IMDG Code: 輸入業者・バイヤー向けガイド",
+   "meta": "Classifying a Battery-Powered Vehicle for Ocean Freight Under the Current IMDG Code―輸入業者・ディーラー・フリート調達向け実務ガイド：確認すべき点とリスク管理。 主な論点: UN3556 lithium ion vehicle IMDG 42-24 shipping.",
+   "h1": "Classifying a Battery-Powered Vehicle for Ocean Freight Under the Current IMDG Code",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "KO": {
+   "title": "Classifying a Battery-Powered Vehicle for Ocean Freight Under the Current IMDG Code: 수입업체·바이어 가이드",
+   "meta": "Classifying a Battery-Powered Vehicle for Ocean Freight Under the Current IMDG Code — 수입업체·딜러·플릿 구매를 위한 실무 조달 가이드: 확인 항목과 관리할 리스크. 핵심 주제: UN3556 lithium ion vehicle IMDG 42-24 shipping.",
+   "h1": "Classifying a Battery-Powered Vehicle for Ocean Freight Under the Current IMDG Code",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "VI": {
+   "title": "Classifying a Battery-Powered Vehicle for Ocean Freight Under the Current IMDG Code: Hướng dẫn cho nhà nhập khẩu và người mua",
+   "meta": "Classifying a Battery-Powered Vehicle for Ocean Freight Under the Current IMDG Code — hướng dẫn thu mua thực tế cho nhà nhập khẩu, đại lý và đội xe: cần kiểm tra gì và kiểm soát rủi ro. Trọng tâm: UN3556 lithium ion vehicle IMDG 42-24 shipping.",
+   "h1": "Classifying a Battery-Powered Vehicle for Ocean Freight Under the Current IMDG Code",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "TH": {
+   "title": "Classifying a Battery-Powered Vehicle for Ocean Freight Under the Current IMDG Code: คู่มือสำหรับผู้นำเข้าและผู้ซื้อ",
+   "meta": "Classifying a Battery-Powered Vehicle for Ocean Freight Under the Current IMDG Code — คู่มือจัดซื้อเชิงปฏิบัติสำหรับผู้นำเข้า ดีลเลอร์และฟลีต: สิ่งที่ต้องตรวจสอบและความเสี่ยงที่ต้องควบคุม จุดสำคัญ: UN3556 lithium ion vehicle IMDG 42-24 shipping.",
+   "h1": "Classifying a Battery-Powered Vehicle for Ocean Freight Under the Current IMDG Code",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ID": {
+   "title": "Classifying a Battery-Powered Vehicle for Ocean Freight Under the Current IMDG Code: Panduan Importir & Pembeli",
+   "meta": "Classifying a Battery-Powered Vehicle for Ocean Freight Under the Current IMDG Code — panduan pengadaan praktis untuk importir, dealer dan armada: apa yang harus diverifikasi dan risiko yang dikelola. Fokus: UN3556 lithium ion vehicle IMDG 42-24 shipping.",
+   "h1": "Classifying a Battery-Powered Vehicle for Ocean Freight Under the Current IMDG Code",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "AR": {
+   "title": "Classifying a Battery-Powered Vehicle for Ocean Freight Under the Current IMDG Code: دليل المستورد والمشتري",
+   "meta": "Classifying a Battery-Powered Vehicle for Ocean Freight Under the Current IMDG Code — دليل شراء عملي للمستوردين والوكلاء والأساطيل: ما يجب التحقق منه والمخاطر التي يجب ضبطها. المحور: UN3556 lithium ion vehicle IMDG 42-24 shipping.",
+   "h1": "Classifying a Battery-Powered Vehicle for Ocean Freight Under the Current IMDG Code",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ZH": {
+   "title": "Classifying a Battery-Powered Vehicle for Ocean Freight Under the Current IMDG Code: 进口商/采购商指南",
+   "meta": "Classifying a Battery-Powered Vehicle for Ocean Freight Under the Current IMDG Code——面向进口商、经销商与车队采购的实操指南：核验要点与风险控制。 核心主题: UN3556 lithium ion vehicle IMDG 42-24 shipping.",
+   "h1": "Classifying a Battery-Powered Vehicle for Ocean Freight Under the Current IMDG Code",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  }
+ }
+}

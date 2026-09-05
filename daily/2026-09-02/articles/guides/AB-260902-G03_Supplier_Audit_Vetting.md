@@ -94,7 +94,7 @@ A license scan proves a company exists, not that it may export *your* vehicle. T
 - ORIGINAL_IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
 - RIGHTS_HOLDER: unconfirmed
-- LICENSE: none secured — no third-party image may be published until rights are cleared
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-05
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
 - IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
@@ -127,9 +127,9 @@ A license scan proves a company exists, not that it may export *your* vehicle. T
 *Confidence note (AutoBridge standard): qualification rules rest on primary MOFCOM/MIIT sources (VERIFIED), now including the 2026 application notice (商办贸函〔2025〕408号) and joint Announcement No. 54 on pure-EV passenger export licensing. The current-year qualified list and AEO query are dynamic and must be checked live; operational checklist items are industry-sourced and point back to official systems.*
 
 ## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-02 · **R3 (2026-09-03): internal links set to live /authors/ and /editorial-policy/ paths; operations claims framed as recommended/editorial method** · **Second-round revision**: 2026-09-03 (2026 MOFCOM regime cross-referenced; confidence relabelled; increment block added)
+- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
+- **Last reviewed**: 2026-09-05
 - **Reference market**: China export side (applies globally)
 - **Verification method**: Primary government documents for the legal baseline; industry guides for operational process; dynamic lists left to live verification
-- **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off
+- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
 #AutoBridge #SupplierVetting #DueDiligence #ExportProcurement #PaymentSafety

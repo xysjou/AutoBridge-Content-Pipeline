@@ -1,0 +1,225 @@
+{
+ "ARTICLE_ID": "AB-260904-V05",
+ "MASTER_LANG": "EN",
+ "MASTER_URL": "/vehicles/chery-fulwin-t9/",
+ "CONTENT_TYPE": "VEHICLE",
+ "MODEL_TOPIC_ANCHOR": "Chery Fulwin T9 C-DM",
+ "NUMERIC_INVARIANTS": [
+  "1.5",
+  "120",
+  "150",
+  "220",
+  "32.66",
+  "5",
+  "7",
+  "9"
+ ],
+ "MARKET_SCOPE_LOCKED": true,
+ "BODY_TRANSLATION_STATUS": "PENDING_LOCALIZATION_STAGE",
+ "locales": {
+  "EN": {
+   "title": "Chery Fulwin T9 C-DM: Specs, Versions & Export Buyer Guide",
+   "meta": "Chinese-market Chery Fulwin T9 C-DM explained for export buyers: versions, verified specs and what to confirm before ordering. Focus: chery fulwin t9 specs export.",
+   "h1": "Chery Fulwin T9 C-DM",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "FR": {
+   "title": "Chery Fulwin T9 C-DM: Spécifications, versions et guide d’achat export",
+   "meta": "Le Chery Fulwin T9 C-DM du marché chinois expliqué aux acheteurs export : versions, spécifications vérifiées et points à confirmer avant commande. Sujet clé: chery fulwin t9 specs export.",
+   "h1": "Chery Fulwin T9 C-DM",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "DE": {
+   "title": "Chery Fulwin T9 C-DM: Technische Daten, Varianten & Export-Einkaufsratgeber",
+   "meta": "Der Chery Fulwin T9 C-DM des chinesischen Marktes für Exportkäufer erklärt: Varianten, geprüfte Daten und Bestellprüfung. Schwerpunkt: chery fulwin t9 specs export.",
+   "h1": "Chery Fulwin T9 C-DM",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ES": {
+   "title": "Chery Fulwin T9 C-DM: Especificaciones, versiones y guía de compra para exportación",
+   "meta": "El Chery Fulwin T9 C-DM del mercado chino explicado al comprador de exportación: versiones, especificaciones verificadas y qué confirmar antes de pedir. Enfoque: chery fulwin t9 specs export.",
+   "h1": "Chery Fulwin T9 C-DM",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "PT": {
+   "title": "Chery Fulwin T9 C-DM: Especificações, versões e guia de compra para exportação",
+   "meta": "O Chery Fulwin T9 C-DM do mercado chinês explicado ao comprador de exportação: versões, especificações verificadas e o que confirmar antes do pedido. Foco: chery fulwin t9 specs export.",
+   "h1": "Chery Fulwin T9 C-DM",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "JA": {
+   "title": "Chery Fulwin T9 C-DM: 仕様・グレードと輸出バイヤーガイド",
+   "meta": "中国市場仕様のChery Fulwin T9 C-DMを輸出バイヤー向けに解説：グレード、検証済み仕様、発注前の確認点。 主な論点: chery fulwin t9 specs export.",
+   "h1": "Chery Fulwin T9 C-DM",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "KO": {
+   "title": "Chery Fulwin T9 C-DM: 사양·트림 및 수출 바이어 가이드",
+   "meta": "중국 시장용 Chery Fulwin T9 C-DM를 수출 바이어 관점에서 정리: 트림, 검증된 사양, 주문 전 확인 사항. 핵심 주제: chery fulwin t9 specs export.",
+   "h1": "Chery Fulwin T9 C-DM",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "VI": {
+   "title": "Chery Fulwin T9 C-DM: Thông số, phiên bản và hướng dẫn mua để xuất khẩu",
+   "meta": "Chery Fulwin T9 C-DM phiên bản thị trường Trung Quốc giải thích cho người mua xuất khẩu: phiên bản, thông số đã kiểm chứng và điểm cần xác nhận trước khi đặt. Trọng tâm: chery fulwin t9 specs export.",
+   "h1": "Chery Fulwin T9 C-DM",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "TH": {
+   "title": "Chery Fulwin T9 C-DM: ข้อมูลจำเพาะ รุ่นย่อย และคู่มือผู้ซื้อเพื่อการส่งออก",
+   "meta": "Chery Fulwin T9 C-DM เวอร์ชันตลาดจีน อธิบายสำหรับผู้ซื้อส่งออก: รุ่นย่อย ข้อมูลจำเพาะที่ตรวจสอบแล้ว และสิ่งที่ต้องยืนยันก่อนสั่งซื้อ จุดสำคัญ: chery fulwin t9 specs export.",
+   "h1": "Chery Fulwin T9 C-DM",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ID": {
+   "title": "Chery Fulwin T9 C-DM: Spesifikasi, Varian & Panduan Pembeli Ekspor",
+   "meta": "Chery Fulwin T9 C-DM pasar Tiongkok dijelaskan untuk pembeli ekspor: varian, spesifikasi terverifikasi dan yang harus dikonfirmasi sebelum memesan. Fokus: chery fulwin t9 specs export.",
+   "h1": "Chery Fulwin T9 C-DM",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "AR": {
+   "title": "Chery Fulwin T9 C-DM: المواصفات والنسخ ودليل مشتري التصدير",
+   "meta": "شرح Chery Fulwin T9 C-DM الخاص بالسوق الصيني لمشتري التصدير: النسخ والمواصفات الموثقة وما يجب تأكيده قبل الطلب. المحور: chery fulwin t9 specs export.",
+   "h1": "Chery Fulwin T9 C-DM",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ZH": {
+   "title": "Chery Fulwin T9 C-DM: 规格、版本与出口采购指南",
+   "meta": "面向出口采购者讲清中国市场版 Chery Fulwin T9 C-DM：版本划分、已核验规格与下单前必须确认的事项。 核心主题: chery fulwin t9 specs export.",
+   "h1": "Chery Fulwin T9 C-DM",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  }
+ }
+}

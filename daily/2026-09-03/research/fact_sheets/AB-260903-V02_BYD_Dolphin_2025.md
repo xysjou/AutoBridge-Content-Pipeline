@@ -119,3 +119,9 @@ CONTENT_ACTION: NEW_PAGE
 - URL: http://m.toutiao.com/group/7389073901650723378/
 - Checked Date: 2026-09-03
 - Confidence: TIME_SENSITIVE
+
+## CONTROLLED RESEARCH PATCH — 2026-09-05
+- OEM_IDENTITY_SOURCE_ADDED: BYD CN 2025 Dolphin + 智驾版 official pages (T1, identity/Blade/e-platform scope)
+- NUMERIC_FACTS_STATUS: 44.928/60.48 kWh, 70/150 kW, 420/520 km CLTC = genuine same-fact CROSS_CHECK across >=2 independent CN sources each; NOT OEM-published static tables
+- SOURCE_SCOPE_STATUS: PASS (identity via OEM; numeric variants via independent cross-check; final grade bound to MIIT/VIN)
+- SUGGESTED_URL corrected to evergreen: /vehicles/byd-dolphin/

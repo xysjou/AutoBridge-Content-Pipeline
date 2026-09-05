@@ -1,0 +1,224 @@
+{
+ "ARTICLE_ID": "AB-260903-V04",
+ "MASTER_LANG": "EN",
+ "MASTER_URL": "/vehicles/li-auto-l6/",
+ "CONTENT_TYPE": "VEHICLE",
+ "MODEL_TOPIC_ANCHOR": "Li Auto L6 2024",
+ "NUMERIC_INVARIANTS": [
+  "1.5",
+  "1160",
+  "2024",
+  "212",
+  "300",
+  "36.8",
+  "6"
+ ],
+ "MARKET_SCOPE_LOCKED": true,
+ "BODY_TRANSLATION_STATUS": "PENDING_LOCALIZATION_STAGE",
+ "locales": {
+  "EN": {
+   "title": "Li Auto L6 2024: Specs, Versions & Export Buyer Guide",
+   "meta": "Chinese-market Li Auto L6 2024 explained for export buyers: versions, verified specs and what to confirm before ordering. Focus: li auto l6 2024 range extended specs.",
+   "h1": "Li Auto L6 2024",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "FR": {
+   "title": "Li Auto L6 2024: Spécifications, versions et guide d’achat export",
+   "meta": "Le Li Auto L6 2024 du marché chinois expliqué aux acheteurs export : versions, spécifications vérifiées et points à confirmer avant commande. Sujet clé: li auto l6 2024 range extended specs.",
+   "h1": "Li Auto L6 2024",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "DE": {
+   "title": "Li Auto L6 2024: Technische Daten, Varianten & Export-Einkaufsratgeber",
+   "meta": "Der Li Auto L6 2024 des chinesischen Marktes für Exportkäufer erklärt: Varianten, geprüfte Daten und Bestellprüfung. Schwerpunkt: li auto l6 2024 range extended specs.",
+   "h1": "Li Auto L6 2024",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ES": {
+   "title": "Li Auto L6 2024: Especificaciones, versiones y guía de compra para exportación",
+   "meta": "El Li Auto L6 2024 del mercado chino explicado al comprador de exportación: versiones, especificaciones verificadas y qué confirmar antes de pedir. Enfoque: li auto l6 2024 range extended specs.",
+   "h1": "Li Auto L6 2024",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "PT": {
+   "title": "Li Auto L6 2024: Especificações, versões e guia de compra para exportação",
+   "meta": "O Li Auto L6 2024 do mercado chinês explicado ao comprador de exportação: versões, especificações verificadas e o que confirmar antes do pedido. Foco: li auto l6 2024 range extended specs.",
+   "h1": "Li Auto L6 2024",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "JA": {
+   "title": "Li Auto L6 2024: 仕様・グレードと輸出バイヤーガイド",
+   "meta": "中国市場仕様のLi Auto L6 2024を輸出バイヤー向けに解説：グレード、検証済み仕様、発注前の確認点。 主な論点: li auto l6 2024 range extended specs.",
+   "h1": "Li Auto L6 2024",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "KO": {
+   "title": "Li Auto L6 2024: 사양·트림 및 수출 바이어 가이드",
+   "meta": "중국 시장용 Li Auto L6 2024를 수출 바이어 관점에서 정리: 트림, 검증된 사양, 주문 전 확인 사항. 핵심 주제: li auto l6 2024 range extended specs.",
+   "h1": "Li Auto L6 2024",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "VI": {
+   "title": "Li Auto L6 2024: Thông số, phiên bản và hướng dẫn mua để xuất khẩu",
+   "meta": "Li Auto L6 2024 phiên bản thị trường Trung Quốc giải thích cho người mua xuất khẩu: phiên bản, thông số đã kiểm chứng và điểm cần xác nhận trước khi đặt. Trọng tâm: li auto l6 2024 range extended specs.",
+   "h1": "Li Auto L6 2024",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "TH": {
+   "title": "Li Auto L6 2024: ข้อมูลจำเพาะ รุ่นย่อย และคู่มือผู้ซื้อเพื่อการส่งออก",
+   "meta": "Li Auto L6 2024 เวอร์ชันตลาดจีน อธิบายสำหรับผู้ซื้อส่งออก: รุ่นย่อย ข้อมูลจำเพาะที่ตรวจสอบแล้ว และสิ่งที่ต้องยืนยันก่อนสั่งซื้อ จุดสำคัญ: li auto l6 2024 range extended specs.",
+   "h1": "Li Auto L6 2024",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ID": {
+   "title": "Li Auto L6 2024: Spesifikasi, Varian & Panduan Pembeli Ekspor",
+   "meta": "Li Auto L6 2024 pasar Tiongkok dijelaskan untuk pembeli ekspor: varian, spesifikasi terverifikasi dan yang harus dikonfirmasi sebelum memesan. Fokus: li auto l6 2024 range extended specs.",
+   "h1": "Li Auto L6 2024",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "AR": {
+   "title": "Li Auto L6 2024: المواصفات والنسخ ودليل مشتري التصدير",
+   "meta": "شرح Li Auto L6 2024 الخاص بالسوق الصيني لمشتري التصدير: النسخ والمواصفات الموثقة وما يجب تأكيده قبل الطلب. المحور: li auto l6 2024 range extended specs.",
+   "h1": "Li Auto L6 2024",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ZH": {
+   "title": "Li Auto L6 2024: 规格、版本与出口采购指南",
+   "meta": "面向出口采购者讲清中国市场版 Li Auto L6 2024：版本划分、已核验规格与下单前必须确认的事项。 核心主题: li auto l6 2024 range extended specs.",
+   "h1": "Li Auto L6 2024",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  }
+ }
+}

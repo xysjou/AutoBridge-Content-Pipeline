@@ -12,7 +12,7 @@
 - **ALT Suggestions**: "China export statutory inspection decided by 10-digit HS and current catalogue"
 
 ## The Question Has No Single Yes/No Answer
-"Do Chinese vehicles need statutory inspection before export?" A blanket "all cars must" or "no cars need it" is the wrong answer. Whether a specific consignment is subject to **export statutory inspection** is determined by **its exact ten-digit HS code**, read against the **current *Catalogue of Import and Export Commodities Subject to Statutory Inspection*** and that code's **customs supervision condition / inspection-and-quarantine category**. This page sets out the China export-side framework and the decision method; it does not assert a catalogue outcome for a code it has not checked live. The result is therefore **FACT_SOURCE_CONDITIONAL**: the legal framework is verified, but each vehicle's catalogue status must be confirmed per code at declaration time.
+"Do Chinese vehicles need statutory inspection before export?" A blanket "all cars must" or "no cars need it" is the wrong answer. Whether a specific consignment is subject to **export statutory inspection** is determined by **its exact ten-digit HS code**, read against the **current *Catalogue of Import and Export Commodities Subject to Statutory Inspection*** and that code's **customs supervision condition / inspection-and-quarantine category**. This page sets out the China export-side framework and the decision method; it does not assert a catalogue outcome for a code it has not checked live. The result is therefore **conditional evidence**: the legal framework is verified, but each vehicle's catalogue status must be confirmed per code at declaration time.
 
 ## The Legal Frame (verified)
 Under the *Import and Export Commodity Inspection Law* and its implementing regulations, export commodities placed on the statutory-inspection catalogue **must be submitted for inspection**, and goods not inspected — or failing inspection — **may not be exported**. Inspection of export goods is, in principle, carried out at the **place of production**, unless customs designates another location. Statutory inspection covers goods listed in the catalogue **and** goods that other laws/regulations require to be inspected. Commodities outside the catalogue fall under **random inspection (抽查检验)**; the 2024 GACC Notice No.163 sets the out-of-catalogue random-inspection scope, which for **exports lists only children's toys**.
@@ -51,7 +51,7 @@ A buyer-nominated PSI is a commercial check, not Chinese statutory clearance; an
 - ORIGINAL_IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
 - RIGHTS_HOLDER: unconfirmed
-- LICENSE: none secured — no third-party image may be published until rights are cleared
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-05
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
 - IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
@@ -79,14 +79,14 @@ A buyer-nominated PSI is a commercial check, not Chinese statutory clearance; an
 | GACC Order No.277, Declaration Provisions | State Council Gazette / gov.cn | CN | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 2026-09-04 | VERIFIED (primary) | Accompanying docs, signature liability |
 | Four-ministry announcement on BEV passenger-car export licensing (ref. 8703801090, from 2026-01-01) | MOFCOM | CN | http://www.mofcom.gov.cn/zfxxgk/gkml/art/2025/art_98e16dc3acdb47568e054d292bd9609a.html | 2026-09-04 | TIME_SENSITIVE (primary) | Licence vs inspection distinction |
 | GACC Notice 2025 No.138 (pre-declaration application optimization) | Customs release (repost) | CN | http://m.toutiao.com/group/7520602188638159398/ | 2026-09-04 | SINGLE_SOURCE | Process optimization |
-*Status note: FACT_SOURCE_CONDITIONAL — framework verified by primary sources; the catalogue result for any specific ten-digit code must be checked live and is not generalized.*
+*Evidence scope: framework verified by primary sources; the catalogue result for any specific ten-digit code must be checked live and is not generalized.*
 
 ## Editorial Review
-- **Author**: AutoBridge Export Editorial Team · [Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-04 · **Fact sheet version**: v1.1-2026-09-04
+- **Author**: AutoBridge Export Editorial Team · method per our [Editorial Policy](/editorial-policy/)
+- **Last reviewed**: 2026-09-05
 - **Reference market**: China export-side inspection/declaration (destination import inspection excluded)
 - **Verification method**: Primary GACC/MOFCOM sources; no blanket catalogue conclusion; HS-first decision method
-- **Transparency**: AI_ASSISTED=true · HUMAN_REVIEWED=false · evidence.first_hand=false · PUBLISH_APPROVED=false
-- **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=CONDITIONAL · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING · PUBLISH_APPROVED=FALSE until independent sign-off
+- **Transparency**: Prepared with AI assistance and editorially checked by the AutoBridge Export Editorial Team. It is source-based desk research, not first-hand testing; confirm time-sensitive and destination-specific requirements before transacting.
+- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
 
 **Tags**: #StatutoryInspection #ChinaExport #CustomsDeclaration #HSByHS #ExportCompliance

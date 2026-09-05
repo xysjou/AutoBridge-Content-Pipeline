@@ -1,0 +1,223 @@
+{
+ "ARTICLE_ID": "AB-260904-G04",
+ "MASTER_LANG": "EN",
+ "MASTER_URL": "/guides/vehicle-export-bill-of-lading-types",
+ "CONTENT_TYPE": "GUIDE",
+ "MODEL_TOPIC_ANCHOR": "Picking a Bill-of-Lading Release Method for an Exported Vehicle — Business Practice Anchored in the Revised Maritime Code",
+ "NUMERIC_INVARIANTS": [
+  "01",
+  "05",
+  "2026",
+  "80",
+  "81",
+  "87"
+ ],
+ "MARKET_SCOPE_LOCKED": true,
+ "BODY_TRANSLATION_STATUS": "PENDING_LOCALIZATION_STAGE",
+ "locales": {
+  "EN": {
+   "title": "Picking a Bill-of-Lading Release Method for an Exported Vehicle — Business Practice Anchored in the Revised Maritime Code: Importer & Buyer Guide",
+   "meta": "Picking a Bill-of-Lading Release Method for an Exported Vehicle — Business Practice Anchored in the Revised Maritime Code — a practical procurement guide for importers, dealers and fleet buyers: what to verify and the risks to control. Focus: vehicle export bill of lading mbl hbl telex release seawaybill.",
+   "h1": "Picking a Bill-of-Lading Release Method for an Exported Vehicle — Business Practice Anchored in the Revised Maritime Code",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "FR": {
+   "title": "Picking a Bill-of-Lading Release Method for an Exported Vehicle — Business Practice Anchored in the Revised Maritime Code: Guide importateur et acheteur",
+   "meta": "Picking a Bill-of-Lading Release Method for an Exported Vehicle — Business Practice Anchored in the Revised Maritime Code — guide d’achat pratique pour importateurs, concessionnaires et flottes : que vérifier et quels risques maîtriser. Sujet clé: vehicle export bill of lading mbl hbl telex release seawaybill.",
+   "h1": "Picking a Bill-of-Lading Release Method for an Exported Vehicle — Business Practice Anchored in the Revised Maritime Code",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "DE": {
+   "title": "Picking a Bill-of-Lading Release Method for an Exported Vehicle — Business Practice Anchored in the Revised Maritime Code: Importeur- & Einkaufsratgeber",
+   "meta": "Picking a Bill-of-Lading Release Method for an Exported Vehicle — Business Practice Anchored in the Revised Maritime Code — praktischer Einkaufsratgeber für Importeure, Händler und Flotten: Prüfpunkte und zu beherrschende Risiken. Schwerpunkt: vehicle export bill of lading mbl hbl telex release seawaybill.",
+   "h1": "Picking a Bill-of-Lading Release Method for an Exported Vehicle — Business Practice Anchored in the Revised Maritime Code",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ES": {
+   "title": "Picking a Bill-of-Lading Release Method for an Exported Vehicle — Business Practice Anchored in the Revised Maritime Code: Guía para importadores y compradores",
+   "meta": "Picking a Bill-of-Lading Release Method for an Exported Vehicle — Business Practice Anchored in the Revised Maritime Code — guía de compras para importadores, distribuidores y flotas: qué verificar y riesgos a controlar. Enfoque: vehicle export bill of lading mbl hbl telex release seawaybill.",
+   "h1": "Picking a Bill-of-Lading Release Method for an Exported Vehicle — Business Practice Anchored in the Revised Maritime Code",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "PT": {
+   "title": "Picking a Bill-of-Lading Release Method for an Exported Vehicle — Business Practice Anchored in the Revised Maritime Code: Guia para importadores e compradores",
+   "meta": "Picking a Bill-of-Lading Release Method for an Exported Vehicle — Business Practice Anchored in the Revised Maritime Code — guia prático de compras para importadores, concessionárias e frotas: o que verificar e riscos a controlar. Foco: vehicle export bill of lading mbl hbl telex release seawaybill.",
+   "h1": "Picking a Bill-of-Lading Release Method for an Exported Vehicle — Business Practice Anchored in the Revised Maritime Code",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "JA": {
+   "title": "Picking a Bill-of-Lading Release Method for an Exported Vehicle — Business Practice Anchored in the Revised Maritime Code: 輸入業者・バイヤー向けガイド",
+   "meta": "Picking a Bill-of-Lading Release Method for an Exported Vehicle — Business Practice Anchored in the Revised Maritime Code―輸入業者・ディーラー・フリート調達向け実務ガイド：確認すべき点とリスク管理。 主な論点: vehicle export bill of lading mbl hbl telex release seawaybill.",
+   "h1": "Picking a Bill-of-Lading Release Method for an Exported Vehicle — Business Practice Anchored in the Revised Maritime Code",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "KO": {
+   "title": "Picking a Bill-of-Lading Release Method for an Exported Vehicle — Business Practice Anchored in the Revised Maritime Code: 수입업체·바이어 가이드",
+   "meta": "Picking a Bill-of-Lading Release Method for an Exported Vehicle — Business Practice Anchored in the Revised Maritime Code — 수입업체·딜러·플릿 구매를 위한 실무 조달 가이드: 확인 항목과 관리할 리스크. 핵심 주제: vehicle export bill of lading mbl hbl telex release seawaybill.",
+   "h1": "Picking a Bill-of-Lading Release Method for an Exported Vehicle — Business Practice Anchored in the Revised Maritime Code",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "VI": {
+   "title": "Picking a Bill-of-Lading Release Method for an Exported Vehicle — Business Practice Anchored in the Revised Maritime Code: Hướng dẫn cho nhà nhập khẩu và người mua",
+   "meta": "Picking a Bill-of-Lading Release Method for an Exported Vehicle — Business Practice Anchored in the Revised Maritime Code — hướng dẫn thu mua thực tế cho nhà nhập khẩu, đại lý và đội xe: cần kiểm tra gì và kiểm soát rủi ro. Trọng tâm: vehicle export bill of lading mbl hbl telex release seawaybill.",
+   "h1": "Picking a Bill-of-Lading Release Method for an Exported Vehicle — Business Practice Anchored in the Revised Maritime Code",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "TH": {
+   "title": "Picking a Bill-of-Lading Release Method for an Exported Vehicle — Business Practice Anchored in the Revised Maritime Code: คู่มือสำหรับผู้นำเข้าและผู้ซื้อ",
+   "meta": "Picking a Bill-of-Lading Release Method for an Exported Vehicle — Business Practice Anchored in the Revised Maritime Code — คู่มือจัดซื้อเชิงปฏิบัติสำหรับผู้นำเข้า ดีลเลอร์และฟลีต: สิ่งที่ต้องตรวจสอบและความเสี่ยงที่ต้องควบคุม จุดสำคัญ: vehicle export bill of lading mbl hbl telex release seawaybill.",
+   "h1": "Picking a Bill-of-Lading Release Method for an Exported Vehicle — Business Practice Anchored in the Revised Maritime Code",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ID": {
+   "title": "Picking a Bill-of-Lading Release Method for an Exported Vehicle — Business Practice Anchored in the Revised Maritime Code: Panduan Importir & Pembeli",
+   "meta": "Picking a Bill-of-Lading Release Method for an Exported Vehicle — Business Practice Anchored in the Revised Maritime Code — panduan pengadaan praktis untuk importir, dealer dan armada: apa yang harus diverifikasi dan risiko yang dikelola. Fokus: vehicle export bill of lading mbl hbl telex release seawaybill.",
+   "h1": "Picking a Bill-of-Lading Release Method for an Exported Vehicle — Business Practice Anchored in the Revised Maritime Code",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "AR": {
+   "title": "Picking a Bill-of-Lading Release Method for an Exported Vehicle — Business Practice Anchored in the Revised Maritime Code: دليل المستورد والمشتري",
+   "meta": "Picking a Bill-of-Lading Release Method for an Exported Vehicle — Business Practice Anchored in the Revised Maritime Code — دليل شراء عملي للمستوردين والوكلاء والأساطيل: ما يجب التحقق منه والمخاطر التي يجب ضبطها. المحور: vehicle export bill of lading mbl hbl telex release seawaybill.",
+   "h1": "Picking a Bill-of-Lading Release Method for an Exported Vehicle — Business Practice Anchored in the Revised Maritime Code",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ZH": {
+   "title": "Picking a Bill-of-Lading Release Method for an Exported Vehicle — Business Practice Anchored in the Revised Maritime Code: 进口商/采购商指南",
+   "meta": "Picking a Bill-of-Lading Release Method for an Exported Vehicle — Business Practice Anchored in the Revised Maritime Code——面向进口商、经销商与车队采购的实操指南：核验要点与风险控制。 核心主题: vehicle export bill of lading mbl hbl telex release seawaybill.",
+   "h1": "Picking a Bill-of-Lading Release Method for an Exported Vehicle — Business Practice Anchored in the Revised Maritime Code",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  }
+ }
+}

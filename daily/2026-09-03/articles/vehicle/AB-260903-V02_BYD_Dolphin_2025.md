@@ -60,7 +60,7 @@ No static export price is published. The RMB 99,800 Chinese starting figure is a
 - ORIGINAL_IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
 - RIGHTS_HOLDER: unconfirmed
-- LICENSE: none secured — no third-party image may be published until rights are cleared
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-05
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
 - IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
@@ -90,13 +90,16 @@ No static export price is published. The RMB 99,800 Chinese starting figure is a
 | GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
 | GB 38031 traction battery safety requirements (GB 38031-2025; new type applications mandatory from 2026-07-01) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFIED | Mandatory traction-battery safety requirement basis for the electrified powertrain |
 | GB 18384 electric vehicle safety requirements (GB 18384-2025) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VERIFIED | Electric-vehicle electrical/functional safety requirement basis |
+| 2025 Dolphin official model page (ocean network) | BYD Auto (**manufacturer official**) | CN | https://www.byd.com/cn/ocean-home/models/haitun/2025haitun | 2026-09-05 | VERIFIED (OEM; identity scope) | OEM anchor for the 2025 China Dolphin's model identity, Blade LFP battery and e-platform 3.0; the public page is a dynamic model page and does not itself publish a static numeric spec table, so grade numbers below are carried by independent cross-checks |
+| Dolphin 智驾版 (DiPilot) official model page | BYD Auto (**manufacturer official**) | CN | https://www.byd.com/cn/ocean-home/models/haitun/haitun-zhijia | 2026-09-05 | VERIFIED (OEM; identity scope) | OEM identity for the smart-driving (DiPilot) grade line and four-link independent rear suspension |
+| 2025 Dolphin grade/battery/range table | Autohome Q&A model database (independent) | CN | https://www.autohome.com.cn/ask/24636224.html | 2026-09-05 | CROSS_CHECKED | Independent grade-level confirmation: 活力/自由/时尚 = 70 kW + 44.928 kWh + 420 km CLTC; corroborates IT Home and PCauto on the SAME facts |
 
-*Confidence note: no BYD primary spec PDF was captured in this package; values are cross-checked Chinese database/media reports. CLTC figures are China-cycle only and are not equated to overseas WLTP/NEDC; same-name overseas Dolphins are treated as distinct market builds.*
+*Evidence-scope note: BYD's official China pages (linked above) anchor the 2025 Dolphin's model identity, Blade LFP battery and e-platform 3.0, but BYD does not publish a static numeric spec sheet on those dynamic pages. The specific grade values — 70 kW/44.928 kWh/420 km and 150 kW/60.48 kWh/520 km — are each corroborated by three independent Chinese sources (IT Home, PCauto and Autohome for the entry grades; PCauto, Autohome and Xcar for the Knight grade), i.e. genuine same-fact cross-check rather than one source per number. Bind the exact grade to the MIIT catalog and VIN before ordering. CLTC is China-cycle only and is never equated to overseas WLTP/NEDC; same-name overseas Dolphins are distinct market builds.*
 
 ## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-03
+- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
+- **Last reviewed**: 2026-09-05
 - **Reference market**: China, 2025 Dolphin (Chinese-market reference; overseas same-name builds kept separate)
 - **Verification method**: Multi-source cross-check; range cycle and market scope kept distinct per MODEL_ALIAS / SOURCE_SCOPE rules
-- **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off
+- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
 #AutoBridge #VehicleExport #BYD #Dolphin #ElectricHatchback

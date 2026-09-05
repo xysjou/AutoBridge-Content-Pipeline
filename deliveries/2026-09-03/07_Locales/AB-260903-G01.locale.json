@@ -1,0 +1,219 @@
+{
+ "ARTICLE_ID": "AB-260903-G01",
+ "MASTER_LANG": "EN",
+ "MASTER_URL": "/guides/china-vehicle-export-license-customs-documents/",
+ "CONTENT_TYPE": "GUIDE",
+ "MODEL_TOPIC_ANCHOR": "China-Side Vehicle Export Licence, Qualification and Customs Document Chain",
+ "NUMERIC_INVARIANTS": [
+  "180",
+  "2026"
+ ],
+ "MARKET_SCOPE_LOCKED": true,
+ "BODY_TRANSLATION_STATUS": "PENDING_LOCALIZATION_STAGE",
+ "locales": {
+  "EN": {
+   "title": "China-Side Vehicle Export Licence, Qualification and Customs Document Chain: Importer & Buyer Guide",
+   "meta": "China-Side Vehicle Export Licence, Qualification and Customs Document Chain — a practical procurement guide for importers, dealers and fleet buyers: what to verify and the risks to control. Focus: china vehicle export license customs declaration documents.",
+   "h1": "China-Side Vehicle Export Licence, Qualification and Customs Document Chain",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "FR": {
+   "title": "China-Side Vehicle Export Licence, Qualification and Customs Document Chain: Guide importateur et acheteur",
+   "meta": "China-Side Vehicle Export Licence, Qualification and Customs Document Chain — guide d’achat pratique pour importateurs, concessionnaires et flottes : que vérifier et quels risques maîtriser. Sujet clé: china vehicle export license customs declaration documents.",
+   "h1": "China-Side Vehicle Export Licence, Qualification and Customs Document Chain",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "DE": {
+   "title": "China-Side Vehicle Export Licence, Qualification and Customs Document Chain: Importeur- & Einkaufsratgeber",
+   "meta": "China-Side Vehicle Export Licence, Qualification and Customs Document Chain — praktischer Einkaufsratgeber für Importeure, Händler und Flotten: Prüfpunkte und zu beherrschende Risiken. Schwerpunkt: china vehicle export license customs declaration documents.",
+   "h1": "China-Side Vehicle Export Licence, Qualification and Customs Document Chain",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ES": {
+   "title": "China-Side Vehicle Export Licence, Qualification and Customs Document Chain: Guía para importadores y compradores",
+   "meta": "China-Side Vehicle Export Licence, Qualification and Customs Document Chain — guía de compras para importadores, distribuidores y flotas: qué verificar y riesgos a controlar. Enfoque: china vehicle export license customs declaration documents.",
+   "h1": "China-Side Vehicle Export Licence, Qualification and Customs Document Chain",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "PT": {
+   "title": "China-Side Vehicle Export Licence, Qualification and Customs Document Chain: Guia para importadores e compradores",
+   "meta": "China-Side Vehicle Export Licence, Qualification and Customs Document Chain — guia prático de compras para importadores, concessionárias e frotas: o que verificar e riscos a controlar. Foco: china vehicle export license customs declaration documents.",
+   "h1": "China-Side Vehicle Export Licence, Qualification and Customs Document Chain",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "JA": {
+   "title": "China-Side Vehicle Export Licence, Qualification and Customs Document Chain: 輸入業者・バイヤー向けガイド",
+   "meta": "China-Side Vehicle Export Licence, Qualification and Customs Document Chain―輸入業者・ディーラー・フリート調達向け実務ガイド：確認すべき点とリスク管理。 主な論点: china vehicle export license customs declaration documents.",
+   "h1": "China-Side Vehicle Export Licence, Qualification and Customs Document Chain",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "KO": {
+   "title": "China-Side Vehicle Export Licence, Qualification and Customs Document Chain: 수입업체·바이어 가이드",
+   "meta": "China-Side Vehicle Export Licence, Qualification and Customs Document Chain — 수입업체·딜러·플릿 구매를 위한 실무 조달 가이드: 확인 항목과 관리할 리스크. 핵심 주제: china vehicle export license customs declaration documents.",
+   "h1": "China-Side Vehicle Export Licence, Qualification and Customs Document Chain",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "VI": {
+   "title": "China-Side Vehicle Export Licence, Qualification and Customs Document Chain: Hướng dẫn cho nhà nhập khẩu và người mua",
+   "meta": "China-Side Vehicle Export Licence, Qualification and Customs Document Chain — hướng dẫn thu mua thực tế cho nhà nhập khẩu, đại lý và đội xe: cần kiểm tra gì và kiểm soát rủi ro. Trọng tâm: china vehicle export license customs declaration documents.",
+   "h1": "China-Side Vehicle Export Licence, Qualification and Customs Document Chain",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "TH": {
+   "title": "China-Side Vehicle Export Licence, Qualification and Customs Document Chain: คู่มือสำหรับผู้นำเข้าและผู้ซื้อ",
+   "meta": "China-Side Vehicle Export Licence, Qualification and Customs Document Chain — คู่มือจัดซื้อเชิงปฏิบัติสำหรับผู้นำเข้า ดีลเลอร์และฟลีต: สิ่งที่ต้องตรวจสอบและความเสี่ยงที่ต้องควบคุม จุดสำคัญ: china vehicle export license customs declaration documents.",
+   "h1": "China-Side Vehicle Export Licence, Qualification and Customs Document Chain",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ID": {
+   "title": "China-Side Vehicle Export Licence, Qualification and Customs Document Chain: Panduan Importir & Pembeli",
+   "meta": "China-Side Vehicle Export Licence, Qualification and Customs Document Chain — panduan pengadaan praktis untuk importir, dealer dan armada: apa yang harus diverifikasi dan risiko yang dikelola. Fokus: china vehicle export license customs declaration documents.",
+   "h1": "China-Side Vehicle Export Licence, Qualification and Customs Document Chain",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "AR": {
+   "title": "China-Side Vehicle Export Licence, Qualification and Customs Document Chain: دليل المستورد والمشتري",
+   "meta": "China-Side Vehicle Export Licence, Qualification and Customs Document Chain — دليل شراء عملي للمستوردين والوكلاء والأساطيل: ما يجب التحقق منه والمخاطر التي يجب ضبطها. المحور: china vehicle export license customs declaration documents.",
+   "h1": "China-Side Vehicle Export Licence, Qualification and Customs Document Chain",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ZH": {
+   "title": "China-Side Vehicle Export Licence, Qualification and Customs Document Chain: 进口商/采购商指南",
+   "meta": "China-Side Vehicle Export Licence, Qualification and Customs Document Chain——面向进口商、经销商与车队采购的实操指南：核验要点与风险控制。 核心主题: china vehicle export license customs declaration documents.",
+   "h1": "China-Side Vehicle Export Licence, Qualification and Customs Document Chain",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  }
+ }
+}

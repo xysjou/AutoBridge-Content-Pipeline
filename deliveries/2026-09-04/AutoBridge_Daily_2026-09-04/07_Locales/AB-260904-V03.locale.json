@@ -1,0 +1,222 @@
+{
+ "ARTICLE_ID": "AB-260904-V03",
+ "MASTER_LANG": "EN",
+ "MASTER_URL": "/vehicles/wuling-bingo/",
+ "CONTENT_TYPE": "VEHICLE",
+ "MODEL_TOPIC_ANCHOR": "Wuling Bingo",
+ "NUMERIC_INVARIANTS": [
+  "203",
+  "30",
+  "333",
+  "410",
+  "50"
+ ],
+ "MARKET_SCOPE_LOCKED": true,
+ "BODY_TRANSLATION_STATUS": "PENDING_LOCALIZATION_STAGE",
+ "locales": {
+  "EN": {
+   "title": "Wuling Bingo: Specs, Versions & Export Buyer Guide",
+   "meta": "Chinese-market Wuling Bingo explained for export buyers: versions, verified specs and what to confirm before ordering. Focus: wuling bingo ev specs export.",
+   "h1": "Wuling Bingo",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "FR": {
+   "title": "Wuling Bingo: Spécifications, versions et guide d’achat export",
+   "meta": "Le Wuling Bingo du marché chinois expliqué aux acheteurs export : versions, spécifications vérifiées et points à confirmer avant commande. Sujet clé: wuling bingo ev specs export.",
+   "h1": "Wuling Bingo",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "DE": {
+   "title": "Wuling Bingo: Technische Daten, Varianten & Export-Einkaufsratgeber",
+   "meta": "Der Wuling Bingo des chinesischen Marktes für Exportkäufer erklärt: Varianten, geprüfte Daten und Bestellprüfung. Schwerpunkt: wuling bingo ev specs export.",
+   "h1": "Wuling Bingo",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ES": {
+   "title": "Wuling Bingo: Especificaciones, versiones y guía de compra para exportación",
+   "meta": "El Wuling Bingo del mercado chino explicado al comprador de exportación: versiones, especificaciones verificadas y qué confirmar antes de pedir. Enfoque: wuling bingo ev specs export.",
+   "h1": "Wuling Bingo",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "PT": {
+   "title": "Wuling Bingo: Especificações, versões e guia de compra para exportação",
+   "meta": "O Wuling Bingo do mercado chinês explicado ao comprador de exportação: versões, especificações verificadas e o que confirmar antes do pedido. Foco: wuling bingo ev specs export.",
+   "h1": "Wuling Bingo",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "JA": {
+   "title": "Wuling Bingo: 仕様・グレードと輸出バイヤーガイド",
+   "meta": "中国市場仕様のWuling Bingoを輸出バイヤー向けに解説：グレード、検証済み仕様、発注前の確認点。 主な論点: wuling bingo ev specs export.",
+   "h1": "Wuling Bingo",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "KO": {
+   "title": "Wuling Bingo: 사양·트림 및 수출 바이어 가이드",
+   "meta": "중국 시장용 Wuling Bingo를 수출 바이어 관점에서 정리: 트림, 검증된 사양, 주문 전 확인 사항. 핵심 주제: wuling bingo ev specs export.",
+   "h1": "Wuling Bingo",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "VI": {
+   "title": "Wuling Bingo: Thông số, phiên bản và hướng dẫn mua để xuất khẩu",
+   "meta": "Wuling Bingo phiên bản thị trường Trung Quốc giải thích cho người mua xuất khẩu: phiên bản, thông số đã kiểm chứng và điểm cần xác nhận trước khi đặt. Trọng tâm: wuling bingo ev specs export.",
+   "h1": "Wuling Bingo",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "TH": {
+   "title": "Wuling Bingo: ข้อมูลจำเพาะ รุ่นย่อย และคู่มือผู้ซื้อเพื่อการส่งออก",
+   "meta": "Wuling Bingo เวอร์ชันตลาดจีน อธิบายสำหรับผู้ซื้อส่งออก: รุ่นย่อย ข้อมูลจำเพาะที่ตรวจสอบแล้ว และสิ่งที่ต้องยืนยันก่อนสั่งซื้อ จุดสำคัญ: wuling bingo ev specs export.",
+   "h1": "Wuling Bingo",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ID": {
+   "title": "Wuling Bingo: Spesifikasi, Varian & Panduan Pembeli Ekspor",
+   "meta": "Wuling Bingo pasar Tiongkok dijelaskan untuk pembeli ekspor: varian, spesifikasi terverifikasi dan yang harus dikonfirmasi sebelum memesan. Fokus: wuling bingo ev specs export.",
+   "h1": "Wuling Bingo",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "AR": {
+   "title": "Wuling Bingo: المواصفات والنسخ ودليل مشتري التصدير",
+   "meta": "شرح Wuling Bingo الخاص بالسوق الصيني لمشتري التصدير: النسخ والمواصفات الموثقة وما يجب تأكيده قبل الطلب. المحور: wuling bingo ev specs export.",
+   "h1": "Wuling Bingo",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ZH": {
+   "title": "Wuling Bingo: 规格、版本与出口采购指南",
+   "meta": "面向出口采购者讲清中国市场版 Wuling Bingo：版本划分、已核验规格与下单前必须确认的事项。 核心主题: wuling bingo ev specs export.",
+   "h1": "Wuling Bingo",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  }
+ }
+}

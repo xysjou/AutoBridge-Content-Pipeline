@@ -1,0 +1,218 @@
+{
+ "ARTICLE_ID": "AB-260903-G10",
+ "MASTER_LANG": "EN",
+ "MASTER_URL": "/guides/vehicle-export-sales-contract-clauses/",
+ "CONTENT_TYPE": "GUIDE",
+ "MODEL_TOPIC_ANCHOR": "Key Clauses in a Vehicle Export Sales Contract",
+ "NUMERIC_INVARIANTS": [
+  "596"
+ ],
+ "MARKET_SCOPE_LOCKED": true,
+ "BODY_TRANSLATION_STATUS": "PENDING_LOCALIZATION_STAGE",
+ "locales": {
+  "EN": {
+   "title": "Key Clauses in a Vehicle Export Sales Contract: Importer & Buyer Guide",
+   "meta": "Key Clauses in a Vehicle Export Sales Contract — a practical procurement guide for importers, dealers and fleet buyers: what to verify and the risks to control. Focus: vehicle export sales contract key clauses risk title.",
+   "h1": "Key Clauses in a Vehicle Export Sales Contract",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "FR": {
+   "title": "Key Clauses in a Vehicle Export Sales Contract: Guide importateur et acheteur",
+   "meta": "Key Clauses in a Vehicle Export Sales Contract — guide d’achat pratique pour importateurs, concessionnaires et flottes : que vérifier et quels risques maîtriser. Sujet clé: vehicle export sales contract key clauses risk title.",
+   "h1": "Key Clauses in a Vehicle Export Sales Contract",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "DE": {
+   "title": "Key Clauses in a Vehicle Export Sales Contract: Importeur- & Einkaufsratgeber",
+   "meta": "Key Clauses in a Vehicle Export Sales Contract — praktischer Einkaufsratgeber für Importeure, Händler und Flotten: Prüfpunkte und zu beherrschende Risiken. Schwerpunkt: vehicle export sales contract key clauses risk title.",
+   "h1": "Key Clauses in a Vehicle Export Sales Contract",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ES": {
+   "title": "Key Clauses in a Vehicle Export Sales Contract: Guía para importadores y compradores",
+   "meta": "Key Clauses in a Vehicle Export Sales Contract — guía de compras para importadores, distribuidores y flotas: qué verificar y riesgos a controlar. Enfoque: vehicle export sales contract key clauses risk title.",
+   "h1": "Key Clauses in a Vehicle Export Sales Contract",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "PT": {
+   "title": "Key Clauses in a Vehicle Export Sales Contract: Guia para importadores e compradores",
+   "meta": "Key Clauses in a Vehicle Export Sales Contract — guia prático de compras para importadores, concessionárias e frotas: o que verificar e riscos a controlar. Foco: vehicle export sales contract key clauses risk title.",
+   "h1": "Key Clauses in a Vehicle Export Sales Contract",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "JA": {
+   "title": "Key Clauses in a Vehicle Export Sales Contract: 輸入業者・バイヤー向けガイド",
+   "meta": "Key Clauses in a Vehicle Export Sales Contract―輸入業者・ディーラー・フリート調達向け実務ガイド：確認すべき点とリスク管理。 主な論点: vehicle export sales contract key clauses risk title.",
+   "h1": "Key Clauses in a Vehicle Export Sales Contract",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "KO": {
+   "title": "Key Clauses in a Vehicle Export Sales Contract: 수입업체·바이어 가이드",
+   "meta": "Key Clauses in a Vehicle Export Sales Contract — 수입업체·딜러·플릿 구매를 위한 실무 조달 가이드: 확인 항목과 관리할 리스크. 핵심 주제: vehicle export sales contract key clauses risk title.",
+   "h1": "Key Clauses in a Vehicle Export Sales Contract",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "VI": {
+   "title": "Key Clauses in a Vehicle Export Sales Contract: Hướng dẫn cho nhà nhập khẩu và người mua",
+   "meta": "Key Clauses in a Vehicle Export Sales Contract — hướng dẫn thu mua thực tế cho nhà nhập khẩu, đại lý và đội xe: cần kiểm tra gì và kiểm soát rủi ro. Trọng tâm: vehicle export sales contract key clauses risk title.",
+   "h1": "Key Clauses in a Vehicle Export Sales Contract",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "TH": {
+   "title": "Key Clauses in a Vehicle Export Sales Contract: คู่มือสำหรับผู้นำเข้าและผู้ซื้อ",
+   "meta": "Key Clauses in a Vehicle Export Sales Contract — คู่มือจัดซื้อเชิงปฏิบัติสำหรับผู้นำเข้า ดีลเลอร์และฟลีต: สิ่งที่ต้องตรวจสอบและความเสี่ยงที่ต้องควบคุม จุดสำคัญ: vehicle export sales contract key clauses risk title.",
+   "h1": "Key Clauses in a Vehicle Export Sales Contract",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ID": {
+   "title": "Key Clauses in a Vehicle Export Sales Contract: Panduan Importir & Pembeli",
+   "meta": "Key Clauses in a Vehicle Export Sales Contract — panduan pengadaan praktis untuk importir, dealer dan armada: apa yang harus diverifikasi dan risiko yang dikelola. Fokus: vehicle export sales contract key clauses risk title.",
+   "h1": "Key Clauses in a Vehicle Export Sales Contract",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "AR": {
+   "title": "Key Clauses in a Vehicle Export Sales Contract: دليل المستورد والمشتري",
+   "meta": "Key Clauses in a Vehicle Export Sales Contract — دليل شراء عملي للمستوردين والوكلاء والأساطيل: ما يجب التحقق منه والمخاطر التي يجب ضبطها. المحور: vehicle export sales contract key clauses risk title.",
+   "h1": "Key Clauses in a Vehicle Export Sales Contract",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ZH": {
+   "title": "Key Clauses in a Vehicle Export Sales Contract: 进口商/采购商指南",
+   "meta": "Key Clauses in a Vehicle Export Sales Contract——面向进口商、经销商与车队采购的实操指南：核验要点与风险控制。 核心主题: vehicle export sales contract key clauses risk title.",
+   "h1": "Key Clauses in a Vehicle Export Sales Contract",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  }
+ }
+}

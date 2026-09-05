@@ -1,0 +1,225 @@
+{
+ "ARTICLE_ID": "AB-260902-V08",
+ "MASTER_LANG": "EN",
+ "MASTER_URL": "/vehicles/sinotruk-howo-t7h-tractor/",
+ "CONTENT_TYPE": "VEHICLE",
+ "MODEL_TOPIC_ANCHOR": "Sinotruk HOWO T7H Tractor",
+ "NUMERIC_INVARIANTS": [
+  "11",
+  "12",
+  "13",
+  "4",
+  "40",
+  "460",
+  "6",
+  "7"
+ ],
+ "MARKET_SCOPE_LOCKED": true,
+ "BODY_TRANSLATION_STATUS": "PENDING_LOCALIZATION_STAGE",
+ "locales": {
+  "EN": {
+   "title": "Sinotruk HOWO T7H Tractor: Specs, Versions & Export Buyer Guide",
+   "meta": "Chinese-market Sinotruk HOWO T7H Tractor explained for export buyers: versions, verified specs and what to confirm before ordering. Focus: Sinotruk HOWO T7H tractor truck specifications export.",
+   "h1": "Sinotruk HOWO T7H Tractor",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "FR": {
+   "title": "Sinotruk HOWO T7H Tractor: Spécifications, versions et guide d’achat export",
+   "meta": "Le Sinotruk HOWO T7H Tractor du marché chinois expliqué aux acheteurs export : versions, spécifications vérifiées et points à confirmer avant commande. Sujet clé: Sinotruk HOWO T7H tractor truck specifications export.",
+   "h1": "Sinotruk HOWO T7H Tractor",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "DE": {
+   "title": "Sinotruk HOWO T7H Tractor: Technische Daten, Varianten & Export-Einkaufsratgeber",
+   "meta": "Der Sinotruk HOWO T7H Tractor des chinesischen Marktes für Exportkäufer erklärt: Varianten, geprüfte Daten und Bestellprüfung. Schwerpunkt: Sinotruk HOWO T7H tractor truck specifications export.",
+   "h1": "Sinotruk HOWO T7H Tractor",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ES": {
+   "title": "Sinotruk HOWO T7H Tractor: Especificaciones, versiones y guía de compra para exportación",
+   "meta": "El Sinotruk HOWO T7H Tractor del mercado chino explicado al comprador de exportación: versiones, especificaciones verificadas y qué confirmar antes de pedir. Enfoque: Sinotruk HOWO T7H tractor truck specifications export.",
+   "h1": "Sinotruk HOWO T7H Tractor",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "PT": {
+   "title": "Sinotruk HOWO T7H Tractor: Especificações, versões e guia de compra para exportação",
+   "meta": "O Sinotruk HOWO T7H Tractor do mercado chinês explicado ao comprador de exportação: versões, especificações verificadas e o que confirmar antes do pedido. Foco: Sinotruk HOWO T7H tractor truck specifications export.",
+   "h1": "Sinotruk HOWO T7H Tractor",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "JA": {
+   "title": "Sinotruk HOWO T7H Tractor: 仕様・グレードと輸出バイヤーガイド",
+   "meta": "中国市場仕様のSinotruk HOWO T7H Tractorを輸出バイヤー向けに解説：グレード、検証済み仕様、発注前の確認点。 主な論点: Sinotruk HOWO T7H tractor truck specifications export.",
+   "h1": "Sinotruk HOWO T7H Tractor",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "KO": {
+   "title": "Sinotruk HOWO T7H Tractor: 사양·트림 및 수출 바이어 가이드",
+   "meta": "중국 시장용 Sinotruk HOWO T7H Tractor를 수출 바이어 관점에서 정리: 트림, 검증된 사양, 주문 전 확인 사항. 핵심 주제: Sinotruk HOWO T7H tractor truck specifications export.",
+   "h1": "Sinotruk HOWO T7H Tractor",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "VI": {
+   "title": "Sinotruk HOWO T7H Tractor: Thông số, phiên bản và hướng dẫn mua để xuất khẩu",
+   "meta": "Sinotruk HOWO T7H Tractor phiên bản thị trường Trung Quốc giải thích cho người mua xuất khẩu: phiên bản, thông số đã kiểm chứng và điểm cần xác nhận trước khi đặt. Trọng tâm: Sinotruk HOWO T7H tractor truck specifications export.",
+   "h1": "Sinotruk HOWO T7H Tractor",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "TH": {
+   "title": "Sinotruk HOWO T7H Tractor: ข้อมูลจำเพาะ รุ่นย่อย และคู่มือผู้ซื้อเพื่อการส่งออก",
+   "meta": "Sinotruk HOWO T7H Tractor เวอร์ชันตลาดจีน อธิบายสำหรับผู้ซื้อส่งออก: รุ่นย่อย ข้อมูลจำเพาะที่ตรวจสอบแล้ว และสิ่งที่ต้องยืนยันก่อนสั่งซื้อ จุดสำคัญ: Sinotruk HOWO T7H tractor truck specifications export.",
+   "h1": "Sinotruk HOWO T7H Tractor",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ID": {
+   "title": "Sinotruk HOWO T7H Tractor: Spesifikasi, Varian & Panduan Pembeli Ekspor",
+   "meta": "Sinotruk HOWO T7H Tractor pasar Tiongkok dijelaskan untuk pembeli ekspor: varian, spesifikasi terverifikasi dan yang harus dikonfirmasi sebelum memesan. Fokus: Sinotruk HOWO T7H tractor truck specifications export.",
+   "h1": "Sinotruk HOWO T7H Tractor",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "AR": {
+   "title": "Sinotruk HOWO T7H Tractor: المواصفات والنسخ ودليل مشتري التصدير",
+   "meta": "شرح Sinotruk HOWO T7H Tractor الخاص بالسوق الصيني لمشتري التصدير: النسخ والمواصفات الموثقة وما يجب تأكيده قبل الطلب. المحور: Sinotruk HOWO T7H tractor truck specifications export.",
+   "h1": "Sinotruk HOWO T7H Tractor",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ZH": {
+   "title": "Sinotruk HOWO T7H Tractor: 规格、版本与出口采购指南",
+   "meta": "面向出口采购者讲清中国市场版 Sinotruk HOWO T7H Tractor：版本划分、已核验规格与下单前必须确认的事项。 核心主题: Sinotruk HOWO T7H tractor truck specifications export.",
+   "h1": "Sinotruk HOWO T7H Tractor",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  }
+ }
+}

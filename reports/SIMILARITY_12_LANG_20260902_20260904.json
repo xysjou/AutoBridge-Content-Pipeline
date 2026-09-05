@@ -1,0 +1,35 @@
+{
+ "method": "same-language cross-article 5-gram Jaccard; EN=full body (boilerplate sections stripped), other 11=localized title+meta+h1 front-matter (full-body translation pending localization stage)",
+ "max_by_language": {
+  "EN": 0.1667,
+  "FR": 0.4643,
+  "DE": 0.375,
+  "ES": 0.4737,
+  "PT": 0.4828,
+  "JA": 0.1351,
+  "KO": 0.3962,
+  "VI": 0.5775,
+  "TH": 0.589,
+  "ID": 0.4118,
+  "AR": 0.4,
+  "ZH": 0.1667
+ },
+ "verdict": {
+  "EN": "PASS",
+  "FR": "PASS",
+  "DE": "PASS",
+  "ES": "PASS",
+  "PT": "PASS",
+  "JA": "PASS",
+  "KO": "PASS",
+  "VI": "MANUAL_REVIEW",
+  "TH": "MANUAL_REVIEW",
+  "ID": "PASS",
+  "AR": "PASS",
+  "ZH": "PASS"
+ },
+ "thresholds": {
+  "manual_review_above": 0.5,
+  "fail_at": 0.7
+ }
+}

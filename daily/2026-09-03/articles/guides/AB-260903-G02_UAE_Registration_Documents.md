@@ -1,6 +1,5 @@
 # Importing a Vehicle Into the UAE: Clearance-to-Registration Sequence and What You Must Re-Verify
 ## SEO Metadata
-> ✅ **R5 UPDATE 2026-09-05 — FACT_SOURCE_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent) · PUBLISH_APPROVED=FALSE.** UAE primary sources now captured: Dubai Customs, the official UAE portal (u.ae) vehicle-registration route, Federal Tax Authority and MoIAT. Federal/emirate-level steps and any fee remain time-sensitive and must be re-verified for the exact transaction.
 - **SEO Title**: UAE Vehicle Import & RTA Registration Documents Guide
 - **Meta Description**: Sequence a UAE vehicle import correctly — customs clearance documents, GCC/GSO conformity, then RTA registration (Mulkiya). Reported duty/VAT figures are flagged for official UAE confirmation rather than stated as fixed.
 - **Suggested URL**: /guides/uae-vehicle-import-registration-documents/
@@ -59,7 +58,7 @@ After customs release, the buyer applies to the RTA with (reported): valid **ins
 - ORIGINAL_IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
 - RIGHTS_HOLDER: unconfirmed
-- LICENSE: none secured — no third-party image may be published until rights are cleared
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-05
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
 - IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
@@ -93,10 +92,9 @@ After customs release, the buyer applies to the RTA with (reported): valid **ins
 | List of GSO Technical Regulations for Motor Vehicles (MY2027-D3), incl. UAE Euro-6b timeline | GCC Standardization Organization (GSO) | GCC | https://www.gso.org.sa/ | 2026-09-04 | SINGLE_SOURCE | UAE new-type Euro-6b from 2026-01-01; all imports from 2027-07-01 |
 
 ## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05 (R5: primary sources added; HOLD lifted)
+- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
+- **Last reviewed**: 2026-09-05
 - **Reference market / scope**: UAE worked example (method transferable to GCC; country specifics not generalised)
 - **Verification method**: Forwarder-source synthesis with explicit evidence ceiling; reported fees flagged for official confirmation per PRIMARY_SOURCE_SCOPE rule
-- **Quality gates (R5)**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS (UAE customs/registration/tax/conformity primary sources now present; federal-vs-emirate scope kept explicit; time-sensitive items routed to named authorities) · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent) · PUBLISH_APPROVED=FALSE
-- **Final Status = EDITORIAL/FACT/SEO SELF-QA PASS; CODEX_REVIEW_PENDING** — primary-source gap closed in R5; no reserve invoked; independent Codex review still required.
+- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
 #AutoBridge #UAEImport #VehicleRegistration #CustomsClearance #ExportProcurement

@@ -1,0 +1,223 @@
+{
+ "ARTICLE_ID": "AB-260904-V10",
+ "MASTER_LANG": "EN",
+ "MASTER_URL": "/vehicles/dongfeng-tianjin-kr/",
+ "CONTENT_TYPE": "VEHICLE",
+ "MODEL_TOPIC_ANCHOR": "Dongfeng Tianjin KR Refrigerated Truck",
+ "NUMERIC_INVARIANTS": [
+  "1000",
+  "18",
+  "180",
+  "6.2",
+  "6.8",
+  "8"
+ ],
+ "MARKET_SCOPE_LOCKED": true,
+ "BODY_TRANSLATION_STATUS": "PENDING_LOCALIZATION_STAGE",
+ "locales": {
+  "EN": {
+   "title": "Dongfeng Tianjin KR Refrigerated Truck: Specs, Versions & Export Buyer Guide",
+   "meta": "Chinese-market Dongfeng Tianjin KR Refrigerated Truck explained for export buyers: versions, verified specs and what to confirm before ordering. Focus: dongfeng tianjin kr refrigerated truck specs export.",
+   "h1": "Dongfeng Tianjin KR Refrigerated Truck",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "FR": {
+   "title": "Dongfeng Tianjin KR Refrigerated Truck: Spécifications, versions et guide d’achat export",
+   "meta": "Le Dongfeng Tianjin KR Refrigerated Truck du marché chinois expliqué aux acheteurs export : versions, spécifications vérifiées et points à confirmer avant commande. Sujet clé: dongfeng tianjin kr refrigerated truck specs export.",
+   "h1": "Dongfeng Tianjin KR Refrigerated Truck",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "DE": {
+   "title": "Dongfeng Tianjin KR Refrigerated Truck: Technische Daten, Varianten & Export-Einkaufsratgeber",
+   "meta": "Der Dongfeng Tianjin KR Refrigerated Truck des chinesischen Marktes für Exportkäufer erklärt: Varianten, geprüfte Daten und Bestellprüfung. Schwerpunkt: dongfeng tianjin kr refrigerated truck specs export.",
+   "h1": "Dongfeng Tianjin KR Refrigerated Truck",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ES": {
+   "title": "Dongfeng Tianjin KR Refrigerated Truck: Especificaciones, versiones y guía de compra para exportación",
+   "meta": "El Dongfeng Tianjin KR Refrigerated Truck del mercado chino explicado al comprador de exportación: versiones, especificaciones verificadas y qué confirmar antes de pedir. Enfoque: dongfeng tianjin kr refrigerated truck specs export.",
+   "h1": "Dongfeng Tianjin KR Refrigerated Truck",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "PT": {
+   "title": "Dongfeng Tianjin KR Refrigerated Truck: Especificações, versões e guia de compra para exportação",
+   "meta": "O Dongfeng Tianjin KR Refrigerated Truck do mercado chinês explicado ao comprador de exportação: versões, especificações verificadas e o que confirmar antes do pedido. Foco: dongfeng tianjin kr refrigerated truck specs export.",
+   "h1": "Dongfeng Tianjin KR Refrigerated Truck",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "JA": {
+   "title": "Dongfeng Tianjin KR Refrigerated Truck: 仕様・グレードと輸出バイヤーガイド",
+   "meta": "中国市場仕様のDongfeng Tianjin KR Refrigerated Truckを輸出バイヤー向けに解説：グレード、検証済み仕様、発注前の確認点。 主な論点: dongfeng tianjin kr refrigerated truck specs export.",
+   "h1": "Dongfeng Tianjin KR Refrigerated Truck",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "KO": {
+   "title": "Dongfeng Tianjin KR Refrigerated Truck: 사양·트림 및 수출 바이어 가이드",
+   "meta": "중국 시장용 Dongfeng Tianjin KR Refrigerated Truck를 수출 바이어 관점에서 정리: 트림, 검증된 사양, 주문 전 확인 사항. 핵심 주제: dongfeng tianjin kr refrigerated truck specs export.",
+   "h1": "Dongfeng Tianjin KR Refrigerated Truck",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "VI": {
+   "title": "Dongfeng Tianjin KR Refrigerated Truck: Thông số, phiên bản và hướng dẫn mua để xuất khẩu",
+   "meta": "Dongfeng Tianjin KR Refrigerated Truck phiên bản thị trường Trung Quốc giải thích cho người mua xuất khẩu: phiên bản, thông số đã kiểm chứng và điểm cần xác nhận trước khi đặt. Trọng tâm: dongfeng tianjin kr refrigerated truck specs export.",
+   "h1": "Dongfeng Tianjin KR Refrigerated Truck",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "TH": {
+   "title": "Dongfeng Tianjin KR Refrigerated Truck: ข้อมูลจำเพาะ รุ่นย่อย และคู่มือผู้ซื้อเพื่อการส่งออก",
+   "meta": "Dongfeng Tianjin KR Refrigerated Truck เวอร์ชันตลาดจีน อธิบายสำหรับผู้ซื้อส่งออก: รุ่นย่อย ข้อมูลจำเพาะที่ตรวจสอบแล้ว และสิ่งที่ต้องยืนยันก่อนสั่งซื้อ จุดสำคัญ: dongfeng tianjin kr refrigerated truck specs export.",
+   "h1": "Dongfeng Tianjin KR Refrigerated Truck",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ID": {
+   "title": "Dongfeng Tianjin KR Refrigerated Truck: Spesifikasi, Varian & Panduan Pembeli Ekspor",
+   "meta": "Dongfeng Tianjin KR Refrigerated Truck pasar Tiongkok dijelaskan untuk pembeli ekspor: varian, spesifikasi terverifikasi dan yang harus dikonfirmasi sebelum memesan. Fokus: dongfeng tianjin kr refrigerated truck specs export.",
+   "h1": "Dongfeng Tianjin KR Refrigerated Truck",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "AR": {
+   "title": "Dongfeng Tianjin KR Refrigerated Truck: المواصفات والنسخ ودليل مشتري التصدير",
+   "meta": "شرح Dongfeng Tianjin KR Refrigerated Truck الخاص بالسوق الصيني لمشتري التصدير: النسخ والمواصفات الموثقة وما يجب تأكيده قبل الطلب. المحور: dongfeng tianjin kr refrigerated truck specs export.",
+   "h1": "Dongfeng Tianjin KR Refrigerated Truck",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ZH": {
+   "title": "Dongfeng Tianjin KR Refrigerated Truck: 规格、版本与出口采购指南",
+   "meta": "面向出口采购者讲清中国市场版 Dongfeng Tianjin KR Refrigerated Truck：版本划分、已核验规格与下单前必须确认的事项。 核心主题: dongfeng tianjin kr refrigerated truck specs export.",
+   "h1": "Dongfeng Tianjin KR Refrigerated Truck",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  }
+ }
+}

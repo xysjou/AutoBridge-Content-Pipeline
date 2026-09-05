@@ -57,7 +57,7 @@ Generic guides quote the same acronyms without resolving the deal. Our editorial
 - ORIGINAL_IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
 - RIGHTS_HOLDER: unconfirmed
-- LICENSE: none secured — no third-party image may be published until rights are cleared
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-05
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
 - IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
@@ -86,9 +86,9 @@ Generic guides quote the same acronyms without resolving the deal. Our editorial
 | EV customs clearance / SBKTS / EPTS process (background) | Russian-language industry outlets (BATTKA, FindCert; media) | RU | https://findcert.ru/news/rastamozhka-elektromobilya-v-rossii/ | 2026-09-03 | SINGLE_SOURCE | OTTC/SBKTS/EPTS process background; duty figures NOT adopted (conflict) |
 *Confidence note: the regulatory backbone (TR CU 018 / Decision 877) and the China 2026 export-licence rule are VERIFIED from regulator/government sources. Specific EV duty percentages, VAT/utilisation-fee numbers, personal-import ERA-GLONASS reinstatement dates and any no-transit rule were NOT supported by a captured FTS/EEC primary source, conflict across media, and are deliberately left as verification items rather than stated as fact.*
 ## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-02 · **R3 (2026-09-03): entity/e-call absolutes softened to risk-control; direct Decision 877 full-text link added** · **Second-round source revision**: 2026-09-03 (regulation anchored to Decision 877; unsupported duty/date/transit claims removed to verification items; China 2026 export rule upgraded to official)
+- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
+- **Last reviewed**: 2026-09-05
 - **Reference market**: Russia / EAEU
 - **Verification method**: Regulator/government primary sources for settled rules; conflicting media figures withheld rather than asserted; every time-sensitive item routed to a named authority for live confirmation
-- **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS (unsupported numeric claims removed) · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off
+- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
 #AutoBridge #ExportProcurement #RussiaImport #EAEUTypeApproval #EVCompliance

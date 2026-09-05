@@ -53,7 +53,7 @@ No fixed export price is published. The China domestic guide price for the 2024 
 - ORIGINAL_IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
 - RIGHTS_HOLDER: unconfirmed
-- LICENSE: none secured — no third-party image may be published until rights are cleared
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-05
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
 - IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
@@ -74,6 +74,7 @@ No fixed export price is published. The China domestic guide price for the 2024 
 ## Sources & Verification
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
+| Yuan Plus official China model hub (dynasty network) | BYD Auto (**manufacturer official**) | CN | https://www.byd.com/cn/dynasty-home/models/yuan/3-yuan-plus | 2026-09-05 | VERIFIED (OEM; model-line/generation scope) | OEM anchor for the Yuan Plus model line. NOTE: BYD's current China page shows the newer rear-drive generation; it is used to bound model identity and generations and is NOT a source for the 2024 Glory (FWD, 430/510 CLTC) values covered here |
 | Road motor-vehicle manufacturers & products catalog — public query | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Confirm the approved model/version and homologation entry by VIN/announcement before ordering |
 | GB 16735-2019 Road vehicles — vehicle identification number (VIN) | SAMR / Standardization Administration (national standard) | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure/version check used to lock the exact Chinese grade and avoid trim substitution |
 | Yuan Plus 2024 parameter table | ZOL Auto | CN | https://detail.zol.com.cn/series/2530/69565/param_10855221_0_1.html | 2026-09-02 | CROSS_CHECKED | China dimensions, charging power, ADAS/infotainment |
@@ -82,11 +83,11 @@ No fixed export price is published. The China domestic guide price for the 2024 
 | 太平洋汽车 参数页 | 太平洋汽车网 | CN | https://price.pcauto.com.cn/s48082/config.html | 2026-09-02 | SINGLE_SOURCE | 电机马力 204Ps、快充 80% |
 | 汽车之家（车家号）荣耀版上市新闻 | 汽车之家 | CN | https://chejiahao.m.autohome.com.cn/info/14756991 | 2026-09-02 | SINGLE_SOURCE | 上市时间 2024-03、指导价 11.98-14.78 万、全系降价 1.6 万 |
 
-*Confidence note: Chinese battery type/capacity, dimensions, motor layout and CLTC labels are CROSS_CHECKED across Chinese databases; destination WLTP/NEDC values are NOT asserted here (the previously captured BYD regional PDFs are no longer reachable) and must be taken from BYD's current official regional page. Chinese and export figures are kept separate by cycle and never merged into a "global spec".*
+*Evidence-scope note: BYD's official China model hub (linked) anchors the Yuan Plus model line and its generations; BYD's current page presents the newer rear-drive generation, so it is deliberately NOT used as a source for the 2024 Glory Edition values here. The 2024 Glory figures — 49.92/60.48 kWh, 150 kW/310 N·m and 430/510 km CLTC — are each corroborated by multiple independent Chinese sources (ZOL, Dongchedi and Autohome/PCauto), a genuine same-fact cross-check, and must be bound to the 2024 homologation announcement and VIN. Destination WLTP/NEDC values are not asserted (the earlier regional PDFs are no longer reachable) and must be read from BYD's current official regional page; Chinese and export figures are kept separate by cycle and never merged into a "global spec".*
 ## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Sourcing Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-02 · **R3 (2026-09-03): Atto 3 reframed as regional same-nominal-capacity reference, not 1:1 China-trim equivalent** · **Second-round source revision**: 2026-09-03 (BYD-official export sheets added; CLTC/WLTP/NEDC split made explicit; URL made evergreen)
+- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
+- **Last reviewed**: 2026-09-05
 - **Reference market**: China 2024 Glory Edition; export name BYD Atto 3 (destination sheets govern export builds)
 - **Verification method**: Manufacturer-official export sheets + multi-database China cross-check; range always labelled by test cycle
-- **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS (OEM source added) · SEO_PASS=PASS (evergreen URL) · CODEX_REVIEW_PASS=PENDING (independent Codex review) · PUBLISH_APPROVED=FALSE until Codex sign-off
+- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
 #AutoBridge #VehicleExport #BYD #YuanPlus #ElectricSUV

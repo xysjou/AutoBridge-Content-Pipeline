@@ -1,0 +1,226 @@
+{
+ "ARTICLE_ID": "AB-260904-V09",
+ "MASTER_LANG": "EN",
+ "MASTER_URL": "/vehicles/dongfeng-tianlong-kl/",
+ "CONTENT_TYPE": "VEHICLE",
+ "MODEL_TOPIC_ANCHOR": "Dongfeng Tianlong KL Heavy Tractor Head",
+ "NUMERIC_INVARIANTS": [
+  "10.8",
+  "11",
+  "14",
+  "2240",
+  "343",
+  "4",
+  "40",
+  "465",
+  "6"
+ ],
+ "MARKET_SCOPE_LOCKED": true,
+ "BODY_TRANSLATION_STATUS": "PENDING_LOCALIZATION_STAGE",
+ "locales": {
+  "EN": {
+   "title": "Dongfeng Tianlong KL Heavy Tractor Head: Specs, Versions & Export Buyer Guide",
+   "meta": "Chinese-market Dongfeng Tianlong KL Heavy Tractor Head explained for export buyers: versions, verified specs and what to confirm before ordering. Focus: dongfeng tianlong kl tractor specs export.",
+   "h1": "Dongfeng Tianlong KL Heavy Tractor Head",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "FR": {
+   "title": "Dongfeng Tianlong KL Heavy Tractor Head: Spécifications, versions et guide d’achat export",
+   "meta": "Le Dongfeng Tianlong KL Heavy Tractor Head du marché chinois expliqué aux acheteurs export : versions, spécifications vérifiées et points à confirmer avant commande. Sujet clé: dongfeng tianlong kl tractor specs export.",
+   "h1": "Dongfeng Tianlong KL Heavy Tractor Head",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "DE": {
+   "title": "Dongfeng Tianlong KL Heavy Tractor Head: Technische Daten, Varianten & Export-Einkaufsratgeber",
+   "meta": "Der Dongfeng Tianlong KL Heavy Tractor Head des chinesischen Marktes für Exportkäufer erklärt: Varianten, geprüfte Daten und Bestellprüfung. Schwerpunkt: dongfeng tianlong kl tractor specs export.",
+   "h1": "Dongfeng Tianlong KL Heavy Tractor Head",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ES": {
+   "title": "Dongfeng Tianlong KL Heavy Tractor Head: Especificaciones, versiones y guía de compra para exportación",
+   "meta": "El Dongfeng Tianlong KL Heavy Tractor Head del mercado chino explicado al comprador de exportación: versiones, especificaciones verificadas y qué confirmar antes de pedir. Enfoque: dongfeng tianlong kl tractor specs export.",
+   "h1": "Dongfeng Tianlong KL Heavy Tractor Head",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "PT": {
+   "title": "Dongfeng Tianlong KL Heavy Tractor Head: Especificações, versões e guia de compra para exportação",
+   "meta": "O Dongfeng Tianlong KL Heavy Tractor Head do mercado chinês explicado ao comprador de exportação: versões, especificações verificadas e o que confirmar antes do pedido. Foco: dongfeng tianlong kl tractor specs export.",
+   "h1": "Dongfeng Tianlong KL Heavy Tractor Head",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "JA": {
+   "title": "Dongfeng Tianlong KL Heavy Tractor Head: 仕様・グレードと輸出バイヤーガイド",
+   "meta": "中国市場仕様のDongfeng Tianlong KL Heavy Tractor Headを輸出バイヤー向けに解説：グレード、検証済み仕様、発注前の確認点。 主な論点: dongfeng tianlong kl tractor specs export.",
+   "h1": "Dongfeng Tianlong KL Heavy Tractor Head",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "KO": {
+   "title": "Dongfeng Tianlong KL Heavy Tractor Head: 사양·트림 및 수출 바이어 가이드",
+   "meta": "중국 시장용 Dongfeng Tianlong KL Heavy Tractor Head를 수출 바이어 관점에서 정리: 트림, 검증된 사양, 주문 전 확인 사항. 핵심 주제: dongfeng tianlong kl tractor specs export.",
+   "h1": "Dongfeng Tianlong KL Heavy Tractor Head",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "VI": {
+   "title": "Dongfeng Tianlong KL Heavy Tractor Head: Thông số, phiên bản và hướng dẫn mua để xuất khẩu",
+   "meta": "Dongfeng Tianlong KL Heavy Tractor Head phiên bản thị trường Trung Quốc giải thích cho người mua xuất khẩu: phiên bản, thông số đã kiểm chứng và điểm cần xác nhận trước khi đặt. Trọng tâm: dongfeng tianlong kl tractor specs export.",
+   "h1": "Dongfeng Tianlong KL Heavy Tractor Head",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "TH": {
+   "title": "Dongfeng Tianlong KL Heavy Tractor Head: ข้อมูลจำเพาะ รุ่นย่อย และคู่มือผู้ซื้อเพื่อการส่งออก",
+   "meta": "Dongfeng Tianlong KL Heavy Tractor Head เวอร์ชันตลาดจีน อธิบายสำหรับผู้ซื้อส่งออก: รุ่นย่อย ข้อมูลจำเพาะที่ตรวจสอบแล้ว และสิ่งที่ต้องยืนยันก่อนสั่งซื้อ จุดสำคัญ: dongfeng tianlong kl tractor specs export.",
+   "h1": "Dongfeng Tianlong KL Heavy Tractor Head",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ID": {
+   "title": "Dongfeng Tianlong KL Heavy Tractor Head: Spesifikasi, Varian & Panduan Pembeli Ekspor",
+   "meta": "Dongfeng Tianlong KL Heavy Tractor Head pasar Tiongkok dijelaskan untuk pembeli ekspor: varian, spesifikasi terverifikasi dan yang harus dikonfirmasi sebelum memesan. Fokus: dongfeng tianlong kl tractor specs export.",
+   "h1": "Dongfeng Tianlong KL Heavy Tractor Head",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "AR": {
+   "title": "Dongfeng Tianlong KL Heavy Tractor Head: المواصفات والنسخ ودليل مشتري التصدير",
+   "meta": "شرح Dongfeng Tianlong KL Heavy Tractor Head الخاص بالسوق الصيني لمشتري التصدير: النسخ والمواصفات الموثقة وما يجب تأكيده قبل الطلب. المحور: dongfeng tianlong kl tractor specs export.",
+   "h1": "Dongfeng Tianlong KL Heavy Tractor Head",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ZH": {
+   "title": "Dongfeng Tianlong KL Heavy Tractor Head: 规格、版本与出口采购指南",
+   "meta": "面向出口采购者讲清中国市场版 Dongfeng Tianlong KL Heavy Tractor Head：版本划分、已核验规格与下单前必须确认的事项。 核心主题: dongfeng tianlong kl tractor specs export.",
+   "h1": "Dongfeng Tianlong KL Heavy Tractor Head",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  }
+ }
+}

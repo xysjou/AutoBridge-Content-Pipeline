@@ -117,3 +117,9 @@
 - 该车海外对应名为 **BYD ATTO 3**，已在欧洲、东南亚、拉美、大洋洲等市场销售，右舵版本存在（如泰国、澳大利亚）。
 - 出口版参数（RHD、充电接口 CCS2 等）需以 BYD 目标市场官网为准，本表 CHINA 参数不得直接作为 global specification 使用。
 - 建议第二阶段写作时由官方渠道补充出口市场电机/电池/续航确认。
+
+## CONTROLLED RESEARCH PATCH — 2026-09-05
+- OEM_IDENTITY_SOURCE_ADDED: BYD CN Yuan Plus official model hub (T1, model-line/generation scope; current page = newer rear-drive generation, NOT used for 2024 Glory numbers)
+- NUMERIC_FACTS_STATUS: 2024 Glory 49.92/60.48 kWh, 150 kW/310 N·m, 430/510 km CLTC = genuine same-fact CROSS_CHECK across multiple independent CN sources; bind to 2024 announcement + VIN
+- EXPORT_RANGE_STATUS: WLTP/NEDC NOT asserted (regional PDFs unreachable); use BYD current destination page
+- SOURCE_SCOPE_STATUS: PASS (model-line via OEM; numeric variants via independent cross-check; generations kept separate)

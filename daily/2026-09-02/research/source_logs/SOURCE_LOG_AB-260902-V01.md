@@ -46,3 +46,15 @@
 - **Checked Date**: 2026-09-02
 - **Authority Level**: 中
 **备注**: 核心参数由 3 个独立数据库（ZOL/懂车帝/汽车之家）交叉一致 → CROSS_CHECKED。未直接取得 BYD 官网页面，出口版（ATTO 3）参数标注"须以官网为准"。
+
+## CONTROLLED RESEARCH PATCH — 2026-09-05 (Writing AI, second repair)
+## SOURCE (OEM)
+- Source Name: 比亚迪官网 元PLUS 车型中枢（王朝网，现行页）
+- Organization: BYD Auto 比亚迪（厂商官方）
+- URL: https://www.byd.com/cn/dynasty-home/models/yuan/3-yuan-plus
+- Source Type: OEM official model hub
+- Market: 中国
+- Facts Supported: 元PLUS车系与代际身份。注意：现行页展示更新一代后驱车型，仅用于界定车系/代际，不作为本页2024荣耀版（前驱/430/510 CLTC）数值来源
+- Checked Date: 2026-09-05
+- Authority Level: T1 (model-line/generation scope)
+PATCH_NOTE: 2024荣耀版 49.92/60.48kWh、150kW/310N·m、430/510 CLTC 由ZOL/懂车帝/汽车之家/太平洋多源对同一事实交叉；出口WLTP/NEDC不主张，以BYD目的地区现行页为准。

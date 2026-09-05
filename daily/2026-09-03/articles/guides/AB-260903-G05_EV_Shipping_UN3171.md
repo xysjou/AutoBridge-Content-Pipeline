@@ -53,7 +53,7 @@ These are **carrier- and route-specific and time-sensitive** — obtain the name
 - ORIGINAL_IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
 - RIGHTS_HOLDER: unconfirmed
-- LICENSE: none secured — no third-party image may be published until rights are cleared
+- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-05
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
 - IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
@@ -87,6 +87,6 @@ These are **carrier- and route-specific and time-sensitive** — obtain the name
 - **Last reviewed**: 2026-09-05
 - **Reference market / scope**: Global ocean dangerous-goods compliance, current IMDG 42-24; China-side rule flagged separately; carrier terms named and route-scoped
 - **Verification method**: Primary IMO publication + named-carrier advisory + DG-specialist cross-check; time-sensitive and carrier-specific items isolated; companion classification guide cross-linked to avoid cannibalisation
-- **Quality gates**: EDITORIAL_QA_PASS=PASS · FACT_SOURCE_PASS=PASS (current 42-24 classification anchored; carrier/route specifics labelled) · SEO_PASS=PASS · CODEX_REVIEW_PASS=PENDING (independent) · PUBLISH_APPROVED=FALSE
-- AI_ASSISTED=true · HUMAN_REVIEWED=false · evidence.first_hand=false
+- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+- **Transparency**: Prepared with AI assistance and editorially checked by the AutoBridge Export Editorial Team. It is source-based desk research, not first-hand testing; confirm time-sensitive and destination-specific requirements before transacting.
 #AutoBridge #EVShipping #IMDG4224 #UN3556 #ExportCompliance

@@ -1,0 +1,218 @@
+{
+ "ARTICLE_ID": "AB-260902-G07",
+ "MASTER_LANG": "EN",
+ "MASTER_URL": "/guides/marine-cargo-insurance-car-import/",
+ "CONTENT_TYPE": "GUIDE",
+ "MODEL_TOPIC_ANCHOR": "Insuring Chinese Vehicles in Ocean Transit",
+ "NUMERIC_INVARIANTS": [
+  "2020"
+ ],
+ "MARKET_SCOPE_LOCKED": true,
+ "BODY_TRANSLATION_STATUS": "PENDING_LOCALIZATION_STAGE",
+ "locales": {
+  "EN": {
+   "title": "Insuring Chinese Vehicles in Ocean Transit: Importer & Buyer Guide",
+   "meta": "Insuring Chinese Vehicles in Ocean Transit — a practical procurement guide for importers, dealers and fleet buyers: what to verify and the risks to control. Focus: marine cargo insurance imported Chinese vehicle ICC A B C.",
+   "h1": "Insuring Chinese Vehicles in Ocean Transit",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "FR": {
+   "title": "Insuring Chinese Vehicles in Ocean Transit: Guide importateur et acheteur",
+   "meta": "Insuring Chinese Vehicles in Ocean Transit — guide d’achat pratique pour importateurs, concessionnaires et flottes : que vérifier et quels risques maîtriser. Sujet clé: marine cargo insurance imported Chinese vehicle ICC A B C.",
+   "h1": "Insuring Chinese Vehicles in Ocean Transit",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "DE": {
+   "title": "Insuring Chinese Vehicles in Ocean Transit: Importeur- & Einkaufsratgeber",
+   "meta": "Insuring Chinese Vehicles in Ocean Transit — praktischer Einkaufsratgeber für Importeure, Händler und Flotten: Prüfpunkte und zu beherrschende Risiken. Schwerpunkt: marine cargo insurance imported Chinese vehicle ICC A B C.",
+   "h1": "Insuring Chinese Vehicles in Ocean Transit",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ES": {
+   "title": "Insuring Chinese Vehicles in Ocean Transit: Guía para importadores y compradores",
+   "meta": "Insuring Chinese Vehicles in Ocean Transit — guía de compras para importadores, distribuidores y flotas: qué verificar y riesgos a controlar. Enfoque: marine cargo insurance imported Chinese vehicle ICC A B C.",
+   "h1": "Insuring Chinese Vehicles in Ocean Transit",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "PT": {
+   "title": "Insuring Chinese Vehicles in Ocean Transit: Guia para importadores e compradores",
+   "meta": "Insuring Chinese Vehicles in Ocean Transit — guia prático de compras para importadores, concessionárias e frotas: o que verificar e riscos a controlar. Foco: marine cargo insurance imported Chinese vehicle ICC A B C.",
+   "h1": "Insuring Chinese Vehicles in Ocean Transit",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "JA": {
+   "title": "Insuring Chinese Vehicles in Ocean Transit: 輸入業者・バイヤー向けガイド",
+   "meta": "Insuring Chinese Vehicles in Ocean Transit―輸入業者・ディーラー・フリート調達向け実務ガイド：確認すべき点とリスク管理。 主な論点: marine cargo insurance imported Chinese vehicle ICC A B C.",
+   "h1": "Insuring Chinese Vehicles in Ocean Transit",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "KO": {
+   "title": "Insuring Chinese Vehicles in Ocean Transit: 수입업체·바이어 가이드",
+   "meta": "Insuring Chinese Vehicles in Ocean Transit — 수입업체·딜러·플릿 구매를 위한 실무 조달 가이드: 확인 항목과 관리할 리스크. 핵심 주제: marine cargo insurance imported Chinese vehicle ICC A B C.",
+   "h1": "Insuring Chinese Vehicles in Ocean Transit",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "VI": {
+   "title": "Insuring Chinese Vehicles in Ocean Transit: Hướng dẫn cho nhà nhập khẩu và người mua",
+   "meta": "Insuring Chinese Vehicles in Ocean Transit — hướng dẫn thu mua thực tế cho nhà nhập khẩu, đại lý và đội xe: cần kiểm tra gì và kiểm soát rủi ro. Trọng tâm: marine cargo insurance imported Chinese vehicle ICC A B C.",
+   "h1": "Insuring Chinese Vehicles in Ocean Transit",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "TH": {
+   "title": "Insuring Chinese Vehicles in Ocean Transit: คู่มือสำหรับผู้นำเข้าและผู้ซื้อ",
+   "meta": "Insuring Chinese Vehicles in Ocean Transit — คู่มือจัดซื้อเชิงปฏิบัติสำหรับผู้นำเข้า ดีลเลอร์และฟลีต: สิ่งที่ต้องตรวจสอบและความเสี่ยงที่ต้องควบคุม จุดสำคัญ: marine cargo insurance imported Chinese vehicle ICC A B C.",
+   "h1": "Insuring Chinese Vehicles in Ocean Transit",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ID": {
+   "title": "Insuring Chinese Vehicles in Ocean Transit: Panduan Importir & Pembeli",
+   "meta": "Insuring Chinese Vehicles in Ocean Transit — panduan pengadaan praktis untuk importir, dealer dan armada: apa yang harus diverifikasi dan risiko yang dikelola. Fokus: marine cargo insurance imported Chinese vehicle ICC A B C.",
+   "h1": "Insuring Chinese Vehicles in Ocean Transit",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "AR": {
+   "title": "Insuring Chinese Vehicles in Ocean Transit: دليل المستورد والمشتري",
+   "meta": "Insuring Chinese Vehicles in Ocean Transit — دليل شراء عملي للمستوردين والوكلاء والأساطيل: ما يجب التحقق منه والمخاطر التي يجب ضبطها. المحور: marine cargo insurance imported Chinese vehicle ICC A B C.",
+   "h1": "Insuring Chinese Vehicles in Ocean Transit",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ZH": {
+   "title": "Insuring Chinese Vehicles in Ocean Transit: 进口商/采购商指南",
+   "meta": "Insuring Chinese Vehicles in Ocean Transit——面向进口商、经销商与车队采购的实操指南：核验要点与风险控制。 核心主题: marine cargo insurance imported Chinese vehicle ICC A B C.",
+   "h1": "Insuring Chinese Vehicles in Ocean Transit",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  }
+ }
+}
