@@ -1,0 +1,102 @@
+{
+  "BATCH_ID": "SECOND-REPAIR-20260902-20260904",
+  "AUTHORITATIVE": true,
+  "REVIEW_COMPLETE": true,
+  "REVIEWED_COMMIT_SHA": "22fbee641d282f71fce7c560a924417d2757c27d",
+  "WRITING_CONTENT_COMMIT_SHA": "04b3edda297d77b09f3ee6560e6f674c2c4cfd5c",
+  "REVIEW_REPORT_PATH": "reviews/2026-09-05/review_report_20260902_20260904_SECOND_REPAIR.md",
+  "ARTICLE_REGISTRY_SOURCE": "reports/SECOND_REPAIR_20260902_20260904.json",
+  "TOTAL_ARTICLES": 60,
+  "REVIEW_PASS": 0,
+  "REVISION_REQUIRED": 58,
+  "NEEDS_RESEARCH": 2,
+  "REJECT": 0,
+  "PUBLICATION_CANDIDATES": [],
+  "DEFAULT_REVIEW_STATUS": "REVISION_REQUIRED",
+  "DEFAULT_BLOCKERS": [
+    "FULL_BODY_11_NON_EN_LOCALES_MISSING",
+    "FULL_BODY_12_LANGUAGE_QA_NOT_COMPLETE",
+    "FULL_BODY_11_NON_EN_SIMILARITY_NOT_TESTED",
+    "IMAGE_RIGHTS_FAIL"
+  ],
+  "BATCH_GATE_STATUS": {
+    "IMAGE_RIGHTS_PASS": 0,
+    "IMAGE_RIGHTS_FAIL": 60,
+    "FULL_BODY_MULTILINGUAL_COMPLETE": 0,
+    "FULL_BODY_MULTILINGUAL_INCOMPLETE": 60,
+    "FRONTMATTER_LOCALE_RECORDS": 720,
+    "FRONTMATTER_LOCALE_QA_REPORTED_PASS": 720,
+    "FULL_BODY_LOCALE_QA_PASS": 0,
+    "EN_FULL_BODY_5GRAM_MAX": 0.1667,
+    "NON_EN_FULL_BODY_5GRAM_STATUS": "NOT_RUN",
+    "VI_FRONTMATTER_5GRAM": 0.5775,
+    "TH_FRONTMATTER_5GRAM": 0.589,
+    "PUBLICATION_BLOCK": true
+  },
+  "STATUS_OVERRIDES": [
+    {
+      "ARTICLE_ID": "AB-260902-V01",
+      "TITLE": "BYD Yuan Plus 2024 / Atto 3",
+      "CONTENT_TYPE": "VEHICLE",
+      "REVIEW_STATUS": "NEEDS_RESEARCH",
+      "SOURCE_SCOPE_STATUS": "FAIL",
+      "FACT_BOUNDARY_STATUS": "NEEDS_EVIDENCE_PATCH",
+      "IMAGE_RIGHTS_STATUS": "FAIL",
+      "LANGUAGE_STATUS": "FULL_NON_EN_BODIES_MISSING",
+      "P0": [
+        "EXACT_2024_GLORY_PARAMETER_TRACEABILITY_INCOMPLETE",
+        "FULL_BODY_11_NON_EN_LOCALES_MISSING",
+        "IMAGE_RIGHTS_FAIL"
+      ],
+      "BLOCK_REASON": "Live BYD model hub is a newer rear-drive generation and is explicitly not the source for 2024 Glory Edition FWD 430/510 values. The visible mapping does not independently prove every key 2024 battery/range value with two reliable same-fact sources.",
+      "RETURN_TO": "WRITING_AI_CONTROLLED_RESEARCH_PATCH; ESCALATE_TO_RESEARCH_AI_IF_UNRESOLVED"
+    },
+    {
+      "ARTICLE_ID": "AB-260903-V02",
+      "TITLE": "BYD Dolphin 2025",
+      "CONTENT_TYPE": "VEHICLE",
+      "REVIEW_STATUS": "NEEDS_RESEARCH",
+      "SOURCE_SCOPE_STATUS": "FAIL",
+      "FACT_BOUNDARY_STATUS": "NEEDS_EVIDENCE_PATCH",
+      "IMAGE_RIGHTS_STATUS": "FAIL",
+      "LANGUAGE_STATUS": "FULL_NON_EN_BODIES_MISSING",
+      "P0": [
+        "CORE_GRADE_PARAMETER_TRACEABILITY_INCOMPLETE",
+        "FULL_BODY_11_NON_EN_LOCALES_MISSING",
+        "IMAGE_RIGHTS_FAIL"
+      ],
+      "BLOCK_REASON": "BYD official pages anchor identity but do not provide the static 44.928/60.48 kWh, 70/150 kW, 420/520 km grade table. The article cites Xcar in its evidence note without an Xcar URL in the visible source table/log, and the added AutoHome Q&A page discloses AI-generated internet content, so it is not a sufficient decisive evidence leg for publication-grade specifications.",
+      "RETURN_TO": "WRITING_AI_CONTROLLED_RESEARCH_PATCH; ESCALATE_TO_RESEARCH_AI_IF_UNRESOLVED"
+    }
+  ],
+  "SPECIAL_ARTICLE_NOTES": [
+    {
+      "ARTICLE_ID": "AB-260904-G05",
+      "REVIEW_STATUS": "REVISION_REQUIRED",
+      "NOTE": "Carrier-specific vs editorial-recommendation separation is improved and can be preserved. Remove/replace any public wording implying completed human editorial review while HUMAN_REVIEWED=false; complete full locales and image rights."
+    },
+    {
+      "ARTICLE_ID": "AB-260902-G08",
+      "REVIEW_STATUS": "REVISION_REQUIRED",
+      "NOTE": "Evidence ceiling may remain explicit if cross-brand OTA/infotainment claims are framed as reported cases and verification actions, not universal facts; full locales and image rights still block publication."
+    }
+  ],
+  "ALL_ARTICLE_IDS": [
+    "AB-260902-V01","AB-260902-V02","AB-260902-V03","AB-260902-V04","AB-260902-V05","AB-260902-V06","AB-260902-V07","AB-260902-V08","AB-260902-V09","AB-260902-V10",
+    "AB-260902-G01","AB-260902-G02","AB-260902-G03","AB-260902-G04","AB-260902-G05","AB-260902-G06","AB-260902-G07","AB-260902-G08","AB-260902-G09","AB-260902-G10",
+    "AB-260903-V01","AB-260903-V02","AB-260903-V03","AB-260903-V04","AB-260903-V05","AB-260903-V06","AB-260903-V07","AB-260903-V08","AB-260903-V09","AB-260903-V10",
+    "AB-260903-G01","AB-260903-G02","AB-260903-G03","AB-260903-G04","AB-260903-G05","AB-260903-G06","AB-260903-G07","AB-260903-G08","AB-260903-G09","AB-260903-G10",
+    "AB-260904-V01","AB-260904-V02","AB-260904-V03","AB-260904-V04","AB-260904-V05","AB-260904-V06","AB-260904-V07","AB-260904-V08","AB-260904-V09","AB-260904-V10",
+    "AB-260904-G01","AB-260904-G02","AB-260904-G03","AB-260904-G04","AB-260904-G05","AB-260904-G06","AB-260904-G07","AB-260904-G08","AB-260904-G09","AB-260904-G10"
+  ],
+  "HASH_POLICY": {
+    "REVIEW_PASS_REQUIRES_ARTICLE_SHA256_OR_EQUIVALENT": true,
+    "CURRENT_REVIEW_PASS_HASHES_ISSUED": 0,
+    "BLOCKED_BASELINE_IS_IMMUTABLY_PINNED_BY": "REVIEWED_COMMIT_SHA + ARTICLE_REGISTRY_SOURCE file path",
+    "NOTE": "No article is a publication candidate in this review; Codex must not accept or publish any article. On the next REVIEW_PASS, each passing article must receive its final content hash."
+  },
+  "PUBLISH_APPROVED": false,
+  "HUMAN_REVIEWED": false,
+  "REVIEWED_BY": "AI_REVIEWER",
+  "CODEX_INSTRUCTION": "STOP: zero publication candidates. Do not upload, update Sitemap, or expose these pages for indexing from this baseline."
+}
