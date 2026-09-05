@@ -1,0 +1,93 @@
+# Foton Daimler AUMAN EST (China-V/VI) — Chinese-Market Heavy Tractor Truck Specs and Export Checks
+
+## SEO Metadata
+- **SEO Title**: Foton Daimler AUMAN EST Tractor: Chinese-Market Specs & Export Guide
+- **Meta Description**: Chinese-market Foton Daimler AUMAN EST heavy tractor head: China-V ISG and China-VI X13 lines, ZF/Fast gearboxes, ~40 t GCW class, with the BEV kept as a separate line.
+- **H1**: Foton Daimler AUMAN EST (China-V/VI) — Chinese-Market Heavy Tractor Truck Specs and Export Checks
+- **Primary Keyword**: Foton Daimler AUMAN / 福田戴姆勒欧曼 欧曼EST 重型牵引车（Tractor Truck） specs export
+- **Secondary Search Terms**: AUMAN EST export; Foton Daimler tractor head; Chinese heavy truck tractor; X13 engine; 6x4 tractor
+- **Suggested URL**: /vehicles/foton-auman-est-tractor/
+- **Search Intent**: 了解 Foton Daimler AUMAN / 福田戴姆勒欧曼 欧曼EST 重型牵引车（Tractor Truck） 中国版规格、配置与出口适配性（车型参数页）
+- **Internal Link Suggestions**: /vehicles/foton-auman-est-tractor/, /guides/tir-road-transport-china-central-asia/, /guides/bill-of-lading-types-history/
+- **Schema Scope**: Article + Vehicle (no Product/Offer/Review)
+
+## Buyer context: a tractor head with separate emission and energy lines
+The **Foton Daimler AUMAN EST (欧曼EST)** is a Chinese-market heavy tractor head. The China-V EST510 and the China-VI X13 are different emission generations, and a **battery-electric tractor is a separate line** — they must never be merged into one specification. Reference market is **China**.
+
+## Lines and driveline identified
+- **China-V EST510**: 国五EST510：福康ISGe5-510/X12，6x4，公告型号BJ4259SNFKB-AA.
+- **China-VI X13**: 国六 X13NS6B560：12.9L，412kW/560马力，2600N·m.
+- **Gearboxes**: ZF 12TX2621TD（AMT）/ 法士特16挡.
+- **Combination mass**: 牵引总质量约40t级（6x4主流） (GCW class for the mainstream 6x4; exact figure by homologation).
+- **BEV line (separate)**: 2026纯电牵引申报：双电机峰值350kW，总质量25000kg.
+
+## Verified specification table (Chinese-market reference)
+| Specification | Value | Unit | Market | Confidence | Source note |
+|---|---|---|---|---|---|
+| est510 guowu | 国五EST510：福康ISGe5-510/X12，6x4，公告型号BJ4259SNFKB-AA | - | CHINA | SINGLE_SOURCE | 抖音百科(T4)+汽车之家 |
+| guoliu x13 | 国六 X13NS6B560：12.9L，412kW/560马力，2600N·m | - | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
+| gearbox options | ZF 12TX2621TD（AMT）/ 法士特16挡 | - | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
+| gcw tractor | 牵引总质量约40t级（6x4主流） | t | CHINA | SINGLE_SOURCE | 汽车之家+百科 |
+| bev separate line | 2026纯电牵引申报：双电机峰值350kW，总质量25000kg | - | CHINA | SINGLE_SOURCE | 新浪财经 |
+
+## Tractor export checks: emission generation, GCW and the BEV boundary
+Always state whether the unit is China-V (historical) or current China-VI; do not present a China-V unit as current. Exact GCW, fifth-wheel load and GVW require the homologation announcement for the specific model code. Fuel consumption/range is not authoritatively captured for either diesel or BEV and is withheld. The 2026 BEV tractor filing (twin-motor 350 kW, 25 000 kg total mass) is reported as a **separate energy line**, not as a variant of the diesel EST.
+
+## Overseas buyer verification before payment
+1. State China-V (historical) vs China-VI current; never relabel old as current.
+2. Obtain exact GCW/fifth-wheel load from the homologation announcement.
+3. Keep diesel and BEV tractors on separate orders/specs.
+4. Confirm ZF AMT vs Fast manual, emission stage and destination import rule.
+5. Request a current export quotation; none is published.
+
+## FAQ
+**Is EST510 a current model?** It is the China-V line — label it historical where China-VI is current.
+**What is the exact GCW?** About the 40 t class for 6x4; confirm by homologation.
+**Is there an electric EST?** A separate 2026 BEV filing exists — do not merge it with diesel specs.
+**Which gearbox?** ZF 12TX AMT or Fast 16-speed, by build.
+**X13 output?** 12.9 L, 412 kW/560 hp, 2600 N·m on the China-VI line.
+
+
+## Sources & Verification
+| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
+|---|---|---|---|---|---|---|
+| 欧曼EST 车型文章 | 汽车之家车家号 | CN | T3 | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/3133030?t=0x2233 | X12动力, AMT |
+| 欧曼EST-A 配置 | 汽车之家车家号 | CN | T3 | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/2914236?t=0x2233 | ISGe5-460, ZF变速 |
+| 欧曼 合作动力 | 汽车之家车家号 | CN | T3 | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/partner/yidian/article/3450841 | 潍柴/法士特配置 |
+| 欧曼EST 510 词条（T4线索） | 抖音百科 | CN | T4 | CROSS_CHECKED | https://m.baike.com/wiki/%E6%AC%A7%E6%9B%BCEST%20510/7562809276172075042 | 公告型号/国五参数线索 |
+| 欧曼纯电/LNG牵引车申报 | 新浪财经 | CN | T3 | CROSS_CHECKED | https://cj.sina.cn/article/norm_detail?froms=ttmp&url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Faigc%2Fxcsb%2F2026-08-07%2Fdoc-inimnrai3221568.shtml%3Ffinpagefr=ttzz | 2026纯电申报（独立新能源线，勿混入燃油） |
+| Foton Motor official site | Beiqi Foton Motor 福田汽车 (OEM) | CN | T1 | VERIFIED | https://www.foton.com.cn/ | brand/model-line identity and OEM authority |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | T1 | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
+## Editorial Review
+- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
+- **Last reviewed**: 2026-09-05
+- **Reference market**: China (Chinese-market reference; commercial masses must be confirmed by homologation/VIN)
+- **Verification method**: Desk research against the sources below; Chinese-market reference specification only unless a separate export market is explicitly cited.
+- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
+
+## Image Record
+- **IMAGE_ASSET_PATH**: none secured in repository
+- **ORIGINAL_IMAGE_URL**: not captured
+- **SOURCE_PAGE**: not captured
+- ! ! ! ! ! ! ! ! ! ! unconfirmed
+- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
+- **CHECKED_DATE**: 2026-09-05
+- **MODEL_TOPIC_MATCH**: exact Foton Daimler AUMAN EST tractor
+- **IMAGE_RIGHTS_STATUS**: FAIL
+- **ALT (12 languages)**:
+  - **EN**: Foton Daimler AUMAN EST tractor, Chinese-market heavy tractor truck export buyer reference
+  - **FR**: Foton Daimler AUMAN EST tractor, heavy tractor truck du marché chinois, référence acheteur export
+  - **DE**: Foton Daimler AUMAN EST tractor, Chinesischer heavy tractor truck, Referenz für Exportkäufer
+  - **ES**: Foton Daimler AUMAN EST tractor, heavy tractor truck del mercado chino, referencia para comprador de exportación
+  - **PT**: Foton Daimler AUMAN EST tractor, heavy tractor truck do mercado chinês, referência ao comprador de exportação
+  - **JA**: Foton Daimler AUMAN EST tractor, 中国市場heavy tractor truck・輸出バイヤー向けリファレンス
+  - **KO**: Foton Daimler AUMAN EST tractor, 중국 시장 heavy tractor truck, 수출 바이어 참고 자료
+  - **VI**: Foton Daimler AUMAN EST tractor, heavy tractor truck thị trường Trung Quốc, tham chiếu cho người mua xuất khẩu
+  - **TH**: Foton Daimler AUMAN EST tractor, heavy tractor truck ตลาดจีน เอกสารอ้างอิงสำหรับผู้ซื้อส่งออก
+  - **ID**: Foton Daimler AUMAN EST tractor, heavy tractor truck pasar Tiongkok, referensi pembeli ekspor
+  - **AR**: Foton Daimler AUMAN EST tractor, heavy tractor truck السوق الصيني، مرجع لمشتري التصدير
+  - **ZH**: Foton Daimler AUMAN EST tractor, 中国市场heavy tractor truck·出口采购参考
+
+
+#AutoBridge #ChinaCarExport #ExportProcurement #AUMAN #TractorTruck

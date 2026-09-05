@@ -1,0 +1,34 @@
+{
+  "FACT_SHEET": {
+    "article_id": "AB-260904-G07",
+    "content_type": "PROCUREMENT_GUIDE",
+    "topic": "车辆识别代号VIN与铭牌合规:17位结构/WMI/出口车铭牌要核对什么",
+    "primary_keyword": "vehicle-vin-structure-wmi-nameplate-compliance-export",
+    "search_intent": "出口车辆的VIN与铭牌如何核验、海外清关注册为何要VIN",
+    "target_reader": "中国汽车出口商/海外清关/采购",
+    "target_country_region": "中国GB标准+ISO框架",
+    "suggested_url": "/guides/vehicle-vin-wmi-nameplate-compliance/",
+    "research_verdict": "RESEARCH_PASS",
+    "official_source_required": true,
+    "official_source_found": true,
+    "reference_market": "见各fact/分国别",
+    "checked_date": "2026-09-04"
+  },
+  "BODY_GATE": {
+    "facts": [
+      {"field": "vin_length", "value": "VIN为17位字码,由WMI(世界制造厂识别代号)+VDS(车辆说明部分)+VIS(车辆指示部分)组成", "unit": "-", "market": "CHINA", "trim": "-", "checked_date": "2026-09-04", "confidence": "VERIFIED", "note": "改由GB16735-2019标准正文直接支持,不再以百科/MIIT引用替代", "sources": ["全国标准信息公共服务平台·GB16735-2019道路车辆车辆识别代号(VIN)(现行,代替2004)", "GB16735-2019《道路车辆 车辆识别代号(VIN)》标准正文PDF(全国汽车标准化技术委员会托管)"], "urls": ["https://std.samr.gov.cn/gb/search/gbDetailed?id=94E9AF238E3052A4E05397BE0A0AD366", "https://203.83.237.36/upload/202108/10/202108101324047215.pdf"]},
+      {"field": "wmi", "value": "WMI为VIN前3位,由制造厂所在国家/地区授权机构预先分配,并符合GB16737", "unit": "-", "market": "CHINA", "trim": "-", "checked_date": "2026-09-04", "confidence": "VERIFIED", "note": "WMI定义来自标准正文(符合GB16737)", "sources": ["全国标准信息公共服务平台·GB16735-2019道路车辆车辆识别代号(VIN)(现行,代替2004)", "GB16735-2019《道路车辆 车辆识别代号(VIN)》标准正文PDF(全国汽车标准化技术委员会托管)"], "urls": ["https://std.samr.gov.cn/gb/search/gbDetailed?id=94E9AF238E3052A4E05397BE0A0AD366", "https://203.83.237.36/upload/202108/10/202108101324047215.pdf"]},
+      {"field": "vds_vis", "value": "第4-9位VDS描述车型/发动机等特征(含第9位检验位),第10-17位VIS含车型年份/装配厂/生产序列号", "unit": "-", "market": "CHINA", "trim": "-", "checked_date": "2026-09-04", "confidence": "VERIFIED", "note": "VDS/VIS位段来自标准正文", "sources": ["全国标准信息公共服务平台·GB16735-2019道路车辆车辆识别代号(VIN)(现行,代替2004)", "GB16735-2019《道路车辆 车辆识别代号(VIN)》标准正文PDF(全国汽车标准化技术委员会托管)"], "urls": ["https://std.samr.gov.cn/gb/search/gbDetailed?id=94E9AF238E3052A4E05397BE0A0AD366", "https://203.83.237.36/upload/202108/10/202108101324047215.pdf"]},
+      {"field": "china_first_char", "value": "中国生产车辆WMI首位以L(部分H)开头,可用于初步判断产地(以授权分配为准)", "unit": "-", "market": "CHINA", "trim": "-", "checked_date": "2026-09-04", "confidence": "UNVERIFIED", "note": "具体首字母产地对应未在标准正文直接取得,撤出确定事实,以WMI授权分配为准", "sources": [], "urls": []},
+      {"field": "mandatory", "value": "GB16735被列入道路机动车辆产品准入审查强制标准,车辆VIN与铭牌、合格证、行驶证必须一致", "unit": "-", "market": "CHINA", "trim": "-", "checked_date": "2026-09-04", "confidence": "VERIFIED", "note": "MIIT准入文件scope匹配(准入强制引用)", "source": ["道路机动车辆产品准入审查要求(列GB16735为强制引用标准)"], "url": ["https://wap.miit.gov.cn/cms_files/filemanager/1226211233/attach/20259/9d0824a8e8a84abf858f3cb96a6d7385.pdf"]},
+      {"field": "export_check", "value": "出口采购应核对:车身打刻VIN、铭牌VIN、合格证/CoC、随车文件四处一致,且无凿改重喷", "unit": "-", "market": "CHINA", "trim": "-", "checked_date": "2026-09-04", "confidence": "SINGLE_SOURCE", "note": "", "source": ["道路机动车辆产品准入审查要求(列GB16735为强制引用标准)", "VIN三部分位段释义"], "url": ["https://wap.miit.gov.cn/cms_files/filemanager/1226211233/attach/20259/9d0824a8e8a84abf858f3cb96a6d7385.pdf", "http://m.pcauto.com.cn/x/5100/51002243.html"]}
+    ],
+    "FACTS_ALLOWED_IN_BODY": ["17位结构/三段定义/WMI规则/GB16735强制地位(MIIT官方)/四处一致核验方法"],
+    "FACTS_NOT_ALLOWED_IN_BODY": ["某具体WMI前缀对应哪家车企(查授权机构分配表)", "'L/H开头=中国产'的绝对化判断(以WMI分配为准)", "目的国VIN特殊格式(分国另查)"],
+    "BLOCKED_FACTS": ["具体WMI前缀-车企对照、WMI首字母产地绝对化", "目的国VIN格式要求"],
+    "TIME_SENSITIVE_FACTS": ["准入审查要求与标准版本可能更新,引用注标准年号"],
+    "UNRESOLVED_QUESTIONS": ["中国WMI分配机构公开查询入口", "GB16737-2019 openstd正文页URL"],
+    "conflict_notes": [],
+    "model_alias_notes": ""
+  }
+}

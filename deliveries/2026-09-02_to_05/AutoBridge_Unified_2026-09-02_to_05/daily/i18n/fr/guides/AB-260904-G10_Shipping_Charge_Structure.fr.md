@@ -1,0 +1,96 @@
+# Lecture d'une citation de fret océanique pour l'exportation de véhicules: Structure des frais sans nombres inventés
+
+## OEuvre Métadonnées
+- **Titre du point de référence**: Structure des frais de transport maritime pour l'exportation de véhicules — O/F, THC, DOC, BAF expliqué
+- **Description détaillée**: Comprendre les frais O/F, THC, DOC/SEAL/VGM, BAF et les suppléments, l'origine et les frais de destination, et pourquoi les frais manifestes AMS/ACI/ENS sont spécifiques à la route — un guide de structure qui ne précise délibérément aucun montant fixe.
+- **URL suggérée**: /guides/fret océanique-charge-structure-véhicule-exportation
+- ** H1 **: Décodage d'un devis de fret véhicule-exportation: qui facture existe, qui les facture, et quoi vérifier
+- **Mot-clé principal**: structure de la charge de fret maritime THC DOC BAF
+- **Conditions de recherche secondaires**: fret maritime O/F, frais de manutention des terminaux, frais de document DOC, frais de VGM SEAL, supplément BAF EBS, frais manifeste AMS ACI ENS, frais d'origine et de destination
+- **Suggestions de lien interne**: /guides/véhicule-exportation-lettre de chargement-types/; /guides/véhicule-exportation-pdi-préexpédition-transmission/; /guides/véhicule-exportation-hs-code-classification/
+- **Suggestions d'image**: origine de la cascade de charge→océan→destination; taxonomie de supplément; feuille d'audit de la ligne de cotation
+- ** Suggestions d'ALT**: « Structure des frais de transport en mer divisée par origine, océan et destination »
+
+## Pourquoi une citation structurée compte plus qu'un nombre faible
+Un prix de fret global gagne les réservations et perd de l'argent à destination. Les exportateurs de véhicules ne sont pas pris par le fret maritime de base, mais par la pile de suppléments et les frais de destination qui lui sont attachés. Ce guide explique ** ce que chaque redevance est, ce qu'elle est facturée et où elle se présente**, et — parce que chaque tarif se déplace avec voie, capacité et saison — il ** ne précise pas de montants fixes**. Utilisez-le pour vérifier une ligne de soumission par ligne, et non pour estimer un coût au débarquement.
+
+## Les blocs de construction
+| Frais | Ce qu'il couvre | Facturé où |
+|---|---|---|
+| **O/F (Fret océanique)** | Fret de base en mer; composante principale de la soumission, flottant avec voie/capacité/saison | Jambe océanique |
+| **THC (droit de traitement des dossiers)** | Levant/manipulation/stockage des terminaux; différent selon la taille du conteneur | Origine ** et destination** (OTHC/DTHC) |
+| **DOC (droit de documentation)** | Documentation; origine ODOC et destination DDOC sont séparés | Les deux extrémités |
+| ** SAL / VGM** | Taxe de scellement et taxe de pesage à masse brute vérifiée — éléments d'origine commune | Origine |
+| **BAF (ajustement du bunker; semblable à EBS)** | Supplément lié au carburant; aux côtés des FAC (monnaie), du SSP (saison de pointe), du SPC (congestion), du SRP (risque de guerre) | Océan/variable |
+
+## Les taxes de dépôt des manifestes sont spécifiques à la route (orientations de l'éditeur, pas une taxe universelle)
+**Les frais de dépôt automatisés et les frais de dépôt de manifestes similaires surviennent généralement ** seulement lorsque le routage passe par la région de dépôt obligatoire correspondante** (p. ex. régimes de manifeste anticipé des États-Unis, du Canada et de l'UE). La facturation d'un droit dépend de la voie et du transporteur**, et elle est réglée sur la facture de l'expédition. Il s'agit d'un guide spécifique**, et non d'un barème de frais internationaux universel: une voie qui ne touche jamais ces régimes ne devrait pas porter la taxe, et le guide n'affirme aucun tarif fixe pour elle.
+
+## Origine et destination — en cas de litige Masquer
+- Divisez chaque ligne en frais d'origine** (avant/au chargement) et en frais de destination** (au déchargement/au ramassage). Les acheteurs de véhicules sont le plus souvent surpris par la destination THC, DDOC et les frais de commande de livraison qu'ils ne s'attendaient pas.
+- Demandez au transitaire de **nommer chaque ligne et son unité de facturation** (par conteneur / par facture / par véhicule), de sorte que deux devis peuvent être comparés sur la même base.
+- Regardez les suppléments **non nommés** et les « frais locaux » sans unité — ce sont là où un faible taux de gros titres est récupéré.
+
+## Méthode de vérification par citation (pas de chiffres)
+1. Confirmer Incoterm et de quel côté portent les frais d'origine par rapport aux frais de destination.
+2. Lister les F/F et tous les suppléments avec son nom ** et son unité de facturation**.
+3. Diffusez toute ligne AMS/ACI/ENS et vérifiez-la par rapport au parcours réel **** (spécifique à la route).
+4. Colonnes d'origine et de destination; demander des frais de destination par écrit.
+5. Reconservation — tous les tarifs sont sensibles au temps et la cotation officielle à ce moment-là régit.
+
+## Ce que ce guide ne fera pas
+- **Pas de montants fixes** (pas de fourchettes RMB THC, pas de nombre de frais de dépôt): les chiffres antérieurs sont inexistants ou variables sur le marché et ne sont jamais présentés comme étant courants.
+- **Aucun coût au débarquement ou estimation de la marge** n'est calculé pour AutoBridge ou l'acheteur; cela nécessite une cotation officielle en direct.
+
+## Foire aux questions
+**Pourquoi deux cotes « même tarif » diffèrent-elles à la destination?** Habituellement, les frais de destination, de livraison et de supplément de THC/DDOC diffèrent, comparer ligne par ligne avec unité de facturation.
+** Chaque expédition doit-elle payer AMS/ACI/ENS?** Non — ces taxes manifestes ne surviennent que lorsque le parcours traverse la région de dépôt obligatoire pertinente; vérifier par rapport à la voie réelle.
+**Le BAF/EBS est-il fixe?** Non, ce sont des suppléments flottants liés au carburant, aux côtés des FAC/PSS/PCS/WRS.
+**Cette page donne-t-elle les taux actuels?** Non; les tarifs se déplacent avec le marché et sont tirés de la soumission officielle lors de la réservation.
+
+## Enregistrement d'image
+- IMAGE_ASSET_PATH: aucun sécurisé dans le dépôt
+- ORIGINAL_IMAGE_URL: non capturé
+- SOURCE_PAGE: non capturé
+- HÔTEL DE DROITS: NON CONfirmÉ
+- LICENSE_OR_USAGE_BASIS: aucune image sécurisée — aucune image de tiers ne peut être publiée jusqu'à ce que les droits soient effacés
+- _DATE DE CHERCHE: 2026-09-05
+- MODEL_TOPIC_MATCH: doit correspondre au modèle exact/version (ou au sujet du guide) et au marché de référence ci-dessus
+- IMAGE_RIGHTS_STATUS: FAIL (aucun actif autorisé capturé; un détenteur de place ou -tain vieille image - Note n'est pas accepté)
+- ALAT par langue:
+  - **EN**: AutoBridge export-buyer reference — Ocean freight quotation charge structure, vehicle-export procurement guide
+  - **FR**: Référence AutoBridge pour acheteurs export — Ocean freight quotation charge structure, guide d’achat à l’export automobile
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Ocean freight quotation charge structure, Leitfaden für Fahrzeugexport-Einkauf
+  - **ES**: Referencia AutoBridge para compradores de exportación — Ocean freight quotation charge structure, guía de compras para exportación de vehículos
+  - **PT**: Referência AutoBridge para compradores de exportação — Ocean freight quotation charge structure, guia de compras para exportação de veículos
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Ocean freight quotation charge structure, 自動車輸出 調達ガイド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Ocean freight quotation charge structure, 자동차 수출 조달 가이드
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Ocean freight quotation charge structure, hướng dẫn thu mua xuất khẩu xe
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Ocean freight quotation charge structure, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Ocean freight quotation charge structure, panduan pengadaan ekspor kendaraan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Ocean freight quotation charge structure, دليل مشتريات تصدير المركبات
+  - **ZH**: AutoBridge 出口采购参考｜Ocean freight quotation charge structure, 汽车出口采购指南
+
+## Sources et vérification
+| Titre de la source | Organisation | Marché | URL | Vérification | Confiance | Faits corroborés |
+|---|---|---|---|---|---|---|
+| Ventilation de la majoration à l'exportation des CLF | Montant net | INTL | https://www.163.com/dy/article/L3DE4MEL0556E2ZO.html | 2026-09-04 | _CHECTURE | O/F, THC, DOC, BAF, méthode d'audit |
+| Définition du THC | Sina Financement des transports maritimes | INTL | https://finance.sina.com.cn/roll/2026-07-31/doc-iniksair4574469.shtml.md | 2026-09-04 | _CHECTURE | Couverture de la manutention des terminaux |
+| Composantes des droits d ' exportation des océans par voie | Baïde | INTL | https://m.baike.com/wiki/%E6%B5%B7%E8%BF%90%E5%87%BA%E5%8F%A3/7570444 | 2026-09-04 | _CHECTURE | Taxonomie de la charge, logique de route AMS/ACI/ENS |
+| Frais communs de FOB (THC/réservation/camionnage) | 11467 | NC | https://m.11467.com/product/d24491409.htm | 2026-09-04 | SOURCE UNIQUE | Nom de l'accusation |
+* Portée des preuves: structure des frais recoupée de sources industrielles (aucune source officielle de tarifs primaires); AMS/ACI/ENS encadrée comme une ligne directrice éditoriale spécifique à chaque itinéraire; tous les montants délibérément exclus comme une mesure de temps. *
+
+| Incoterms 2020 règles (qui organise/paie le transport à chaque terme) | Chambre de commerce internationale (CCI) | INT'L | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/ | 2026-09-05 | VÉRIFIER | Quelles sont les charges/frais pour l'acheteur par rapport au vendeur par Incoterm |
+| Catégories de pratiques et de frais pour les transitaires | FIATA | INT'L | https://fiata.org/ | 2026-09-05 | VÉRIFIER | Référence de la cote de l'expéditeur/de la structure de charge |
+| Contexte de l'expédition de lingots et des suppléments | Conseil mondial des transports maritimes | INT'L | https://www.worldshipping.org/ | 2026-09-05 | VÉRIFIER | Contexte industriel du fret maritime et des redevances accessoires |
+| Chine International Association des transitaires | CIFA | CN/INT'L | http://www.cifa.org.cn/ | 2026-09-05 | VÉRIFIER | Industrie de la transmission côté Chine et pratique de cotation |
+
+## Révision de la rédaction
+- **Auteur**: Équipe éditoriale d'AutoBridge Export · méthode selon notre [Politique éditoriale](/Politique éditoriale/)
+- **Dernière revue**: 2026-09-05
+- **Marché de référence**: Structure internationale du fret maritime (pas de montants, pas de tarif spécifique à la voie)
+- **Méthode de vérification**: Structure recoupée; affichage des frais par voie de communication; zéro chiffre fixe affirmé
+- **Transparence**: La rédaction assistée par AI a été utilisée. Cet article est basé sur la recherche sur le bureau et l'AQ automatisée. Aucun essai de première main n'est revendiqué sauf documenté explicitement; confirmer les exigences en matière de temps et de destination avant d'agir.
+- **Norme de rédaction**: Recherches et écrits provenant des sources énumérées ci-dessus (recherches de bureau; aucune conduite directe, démontage ou importation n'est revendiquée). La confiance de la source est affichée par ligne; tout point que nous ne pouvons confirmer indépendamment est présenté comme un élément de vérification plutôt que comme un fait.
+
+**Tags**: #OceanFreight #FreightCharges #THC #ShippingQuote #ExportCost

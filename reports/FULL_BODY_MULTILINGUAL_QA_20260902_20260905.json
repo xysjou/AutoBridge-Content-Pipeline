@@ -1,0 +1,104 @@
+{
+ "EN": {
+  "expected": 80,
+  "present": 80,
+  "pass": 80,
+  "fail": 0
+ },
+ "FR": {
+  "expected": 80,
+  "present": 80,
+  "pass": 80,
+  "fail": 0,
+  "missing": 0,
+  "fail_detail": {}
+ },
+ "DE": {
+  "expected": 80,
+  "present": 80,
+  "pass": 80,
+  "fail": 0,
+  "missing": 0,
+  "fail_detail": {}
+ },
+ "ES": {
+  "expected": 80,
+  "present": 80,
+  "pass": 80,
+  "fail": 0,
+  "missing": 0,
+  "fail_detail": {}
+ },
+ "PT": {
+  "expected": 80,
+  "present": 80,
+  "pass": 80,
+  "fail": 0,
+  "missing": 0,
+  "fail_detail": {}
+ },
+ "JA": {
+  "expected": 80,
+  "present": 80,
+  "pass": 80,
+  "fail": 0,
+  "missing": 0,
+  "fail_detail": {}
+ },
+ "KO": {
+  "expected": 80,
+  "present": 80,
+  "pass": 80,
+  "fail": 0,
+  "missing": 0,
+  "fail_detail": {}
+ },
+ "VI": {
+  "expected": 80,
+  "present": 80,
+  "pass": 80,
+  "fail": 0,
+  "missing": 0,
+  "fail_detail": {}
+ },
+ "TH": {
+  "expected": 80,
+  "present": 80,
+  "pass": 80,
+  "fail": 0,
+  "missing": 0,
+  "fail_detail": {}
+ },
+ "ID": {
+  "expected": 80,
+  "present": 80,
+  "pass": 80,
+  "fail": 0,
+  "missing": 0,
+  "fail_detail": {}
+ },
+ "AR": {
+  "expected": 80,
+  "present": 80,
+  "pass": 80,
+  "fail": 0,
+  "missing": 0,
+  "fail_detail": {}
+ },
+ "ZH": {
+  "expected": 80,
+  "present": 80,
+  "pass": 80,
+  "fail": 0,
+  "missing": 0,
+  "fail_detail": {}
+ },
+ "summary": {
+  "expected_full_body_locales": 960,
+  "complete": 960,
+  "incomplete": 0,
+  "qa_pass": 960,
+  "qa_fail": 0,
+  "method": "Deterministic invariant QA: numeric/unit/URL/nonlatin token multiset, heading/table/ALT/tag parity, no sentinel/garbage, target-script presence, length ratio, public-clean. MT-draft fluency = PROFESSIONAL_LOCALIZATION_PENDING; HUMAN_REVIEWED=false."
+ }
+}

@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Writing-AI local MT build tooling (not committed)
+.mtbuild/

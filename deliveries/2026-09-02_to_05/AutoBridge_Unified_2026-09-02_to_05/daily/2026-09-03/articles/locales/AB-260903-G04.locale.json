@@ -1,0 +1,221 @@
+{
+ "ARTICLE_ID": "AB-260903-G04",
+ "MASTER_LANG": "EN",
+ "MASTER_URL": "/guides/container-vehicle-loading-lashing/",
+ "CONTENT_TYPE": "GUIDE",
+ "MODEL_TOPIC_ANCHOR": "Container Vehicle Loading and Lashing",
+ "NUMERIC_INVARIANTS": [
+  "2",
+  "4",
+  "40",
+  "8"
+ ],
+ "MARKET_SCOPE_LOCKED": true,
+ "BODY_TRANSLATION_STATUS": "PENDING_LOCALIZATION_STAGE",
+ "locales": {
+  "EN": {
+   "title": "Container Vehicle Loading and Lashing: Importer & Buyer Guide",
+   "meta": "Container Vehicle Loading and Lashing — a practical procurement guide for importers, dealers and fleet buyers: what to verify and the risks to control. Focus: how many cars fit 40hq container loading lashing.",
+   "h1": "Container Vehicle Loading and Lashing",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "FR": {
+   "title": "Container Vehicle Loading and Lashing: Guide importateur et acheteur",
+   "meta": "Container Vehicle Loading and Lashing — guide d’achat pratique pour importateurs, concessionnaires et flottes : que vérifier et quels risques maîtriser. Sujet clé: how many cars fit 40hq container loading lashing.",
+   "h1": "Container Vehicle Loading and Lashing",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "DE": {
+   "title": "Container Vehicle Loading and Lashing: Importeur- & Einkaufsratgeber",
+   "meta": "Container Vehicle Loading and Lashing — praktischer Einkaufsratgeber für Importeure, Händler und Flotten: Prüfpunkte und zu beherrschende Risiken. Schwerpunkt: how many cars fit 40hq container loading lashing.",
+   "h1": "Container Vehicle Loading and Lashing",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ES": {
+   "title": "Container Vehicle Loading and Lashing: Guía para importadores y compradores",
+   "meta": "Container Vehicle Loading and Lashing — guía de compras para importadores, distribuidores y flotas: qué verificar y riesgos a controlar. Enfoque: how many cars fit 40hq container loading lashing.",
+   "h1": "Container Vehicle Loading and Lashing",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "PT": {
+   "title": "Container Vehicle Loading and Lashing: Guia para importadores e compradores",
+   "meta": "Container Vehicle Loading and Lashing — guia prático de compras para importadores, concessionárias e frotas: o que verificar e riscos a controlar. Foco: how many cars fit 40hq container loading lashing.",
+   "h1": "Container Vehicle Loading and Lashing",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "JA": {
+   "title": "Container Vehicle Loading and Lashing: 輸入業者・バイヤー向けガイド",
+   "meta": "Container Vehicle Loading and Lashing―輸入業者・ディーラー・フリート調達向け実務ガイド：確認すべき点とリスク管理。 主な論点: how many cars fit 40hq container loading lashing.",
+   "h1": "Container Vehicle Loading and Lashing",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "KO": {
+   "title": "Container Vehicle Loading and Lashing: 수입업체·바이어 가이드",
+   "meta": "Container Vehicle Loading and Lashing — 수입업체·딜러·플릿 구매를 위한 실무 조달 가이드: 확인 항목과 관리할 리스크. 핵심 주제: how many cars fit 40hq container loading lashing.",
+   "h1": "Container Vehicle Loading and Lashing",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "VI": {
+   "title": "Container Vehicle Loading and Lashing: Hướng dẫn cho nhà nhập khẩu và người mua",
+   "meta": "Container Vehicle Loading and Lashing — hướng dẫn thu mua thực tế cho nhà nhập khẩu, đại lý và đội xe: cần kiểm tra gì và kiểm soát rủi ro. Trọng tâm: how many cars fit 40hq container loading lashing.",
+   "h1": "Container Vehicle Loading and Lashing",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "TH": {
+   "title": "Container Vehicle Loading and Lashing: คู่มือสำหรับผู้นำเข้าและผู้ซื้อ",
+   "meta": "Container Vehicle Loading and Lashing — คู่มือจัดซื้อเชิงปฏิบัติสำหรับผู้นำเข้า ดีลเลอร์และฟลีต: สิ่งที่ต้องตรวจสอบและความเสี่ยงที่ต้องควบคุม จุดสำคัญ: how many cars fit 40hq container loading lashing.",
+   "h1": "Container Vehicle Loading and Lashing",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ID": {
+   "title": "Container Vehicle Loading and Lashing: Panduan Importir & Pembeli",
+   "meta": "Container Vehicle Loading and Lashing — panduan pengadaan praktis untuk importir, dealer dan armada: apa yang harus diverifikasi dan risiko yang dikelola. Fokus: how many cars fit 40hq container loading lashing.",
+   "h1": "Container Vehicle Loading and Lashing",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "AR": {
+   "title": "Container Vehicle Loading and Lashing: دليل المستورد والمشتري",
+   "meta": "Container Vehicle Loading and Lashing — دليل شراء عملي للمستوردين والوكلاء والأساطيل: ما يجب التحقق منه والمخاطر التي يجب ضبطها. المحور: how many cars fit 40hq container loading lashing.",
+   "h1": "Container Vehicle Loading and Lashing",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ZH": {
+   "title": "Container Vehicle Loading and Lashing: 进口商/采购商指南",
+   "meta": "Container Vehicle Loading and Lashing——面向进口商、经销商与车队采购的实操指南：核验要点与风险控制。 核心主题: how many cars fit 40hq container loading lashing.",
+   "h1": "Container Vehicle Loading and Lashing",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  }
+ }
+}

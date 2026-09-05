@@ -1,0 +1,489 @@
+{
+ "total": 80,
+ "pass": 70,
+ "conditional": 10,
+ "fail": 0,
+ "rule": ">=6 distinct URLs AND >=4 normalized parent organizations; same-agency branches/country sites count once.",
+ "per_article": {
+  "AB-260902-G01": {
+   "date": "2026-09-02",
+   "urls": 6,
+   "orgs_norm": 4,
+   "status": "PASS"
+  },
+  "AB-260902-G02": {
+   "date": "2026-09-02",
+   "urls": 6,
+   "orgs_norm": 6,
+   "status": "PASS"
+  },
+  "AB-260902-G03": {
+   "date": "2026-09-02",
+   "urls": 7,
+   "orgs_norm": 5,
+   "status": "PASS"
+  },
+  "AB-260902-G04": {
+   "date": "2026-09-02",
+   "urls": 7,
+   "orgs_norm": 6,
+   "status": "PASS"
+  },
+  "AB-260902-G05": {
+   "date": "2026-09-02",
+   "urls": 6,
+   "orgs_norm": 6,
+   "status": "PASS"
+  },
+  "AB-260902-G06": {
+   "date": "2026-09-02",
+   "urls": 7,
+   "orgs_norm": 6,
+   "status": "PASS"
+  },
+  "AB-260902-G07": {
+   "date": "2026-09-02",
+   "urls": 11,
+   "orgs_norm": 8,
+   "status": "PASS"
+  },
+  "AB-260902-G08": {
+   "date": "2026-09-02",
+   "urls": 7,
+   "orgs_norm": 6,
+   "status": "PASS"
+  },
+  "AB-260902-G09": {
+   "date": "2026-09-02",
+   "urls": 7,
+   "orgs_norm": 6,
+   "status": "PASS"
+  },
+  "AB-260902-G10": {
+   "date": "2026-09-02",
+   "urls": 6,
+   "orgs_norm": 4,
+   "status": "PASS"
+  },
+  "AB-260902-V01": {
+   "date": "2026-09-02",
+   "urls": 11,
+   "orgs_norm": 8,
+   "status": "PASS"
+  },
+  "AB-260902-V02": {
+   "date": "2026-09-02",
+   "urls": 6,
+   "orgs_norm": 4,
+   "status": "PASS"
+  },
+  "AB-260902-V03": {
+   "date": "2026-09-02",
+   "urls": 7,
+   "orgs_norm": 5,
+   "status": "PASS"
+  },
+  "AB-260902-V04": {
+   "date": "2026-09-02",
+   "urls": 6,
+   "orgs_norm": 5,
+   "status": "PASS"
+  },
+  "AB-260902-V05": {
+   "date": "2026-09-02",
+   "urls": 8,
+   "orgs_norm": 7,
+   "status": "PASS"
+  },
+  "AB-260902-V06": {
+   "date": "2026-09-02",
+   "urls": 8,
+   "orgs_norm": 7,
+   "status": "PASS"
+  },
+  "AB-260902-V07": {
+   "date": "2026-09-02",
+   "urls": 9,
+   "orgs_norm": 6,
+   "status": "PASS"
+  },
+  "AB-260902-V08": {
+   "date": "2026-09-02",
+   "urls": 8,
+   "orgs_norm": 7,
+   "status": "PASS"
+  },
+  "AB-260902-V09": {
+   "date": "2026-09-02",
+   "urls": 9,
+   "orgs_norm": 6,
+   "status": "PASS"
+  },
+  "AB-260902-V10": {
+   "date": "2026-09-02",
+   "urls": 9,
+   "orgs_norm": 6,
+   "status": "PASS"
+  },
+  "AB-260903-G01": {
+   "date": "2026-09-03",
+   "urls": 6,
+   "orgs_norm": 4,
+   "status": "PASS"
+  },
+  "AB-260903-G02": {
+   "date": "2026-09-03",
+   "urls": 9,
+   "orgs_norm": 7,
+   "status": "PASS"
+  },
+  "AB-260903-G03": {
+   "date": "2026-09-03",
+   "urls": 12,
+   "orgs_norm": 7,
+   "status": "PASS"
+  },
+  "AB-260903-G04": {
+   "date": "2026-09-03",
+   "urls": 6,
+   "orgs_norm": 5,
+   "status": "PASS"
+  },
+  "AB-260903-G05": {
+   "date": "2026-09-03",
+   "urls": 7,
+   "orgs_norm": 7,
+   "status": "PASS"
+  },
+  "AB-260903-G06": {
+   "date": "2026-09-03",
+   "urls": 7,
+   "orgs_norm": 6,
+   "status": "PASS"
+  },
+  "AB-260903-G07": {
+   "date": "2026-09-03",
+   "urls": 7,
+   "orgs_norm": 6,
+   "status": "PASS"
+  },
+  "AB-260903-G08": {
+   "date": "2026-09-03",
+   "urls": 10,
+   "orgs_norm": 7,
+   "status": "PASS"
+  },
+  "AB-260903-G09": {
+   "date": "2026-09-03",
+   "urls": 6,
+   "orgs_norm": 6,
+   "status": "PASS"
+  },
+  "AB-260903-G10": {
+   "date": "2026-09-03",
+   "urls": 6,
+   "orgs_norm": 5,
+   "status": "PASS"
+  },
+  "AB-260903-V01": {
+   "date": "2026-09-03",
+   "urls": 8,
+   "orgs_norm": 7,
+   "status": "PASS"
+  },
+  "AB-260903-V02": {
+   "date": "2026-09-03",
+   "urls": 15,
+   "orgs_norm": 7,
+   "status": "PASS"
+  },
+  "AB-260903-V03": {
+   "date": "2026-09-03",
+   "urls": 8,
+   "orgs_norm": 7,
+   "status": "PASS"
+  },
+  "AB-260903-V04": {
+   "date": "2026-09-03",
+   "urls": 10,
+   "orgs_norm": 7,
+   "status": "PASS"
+  },
+  "AB-260903-V05": {
+   "date": "2026-09-03",
+   "urls": 9,
+   "orgs_norm": 6,
+   "status": "PASS"
+  },
+  "AB-260903-V06": {
+   "date": "2026-09-03",
+   "urls": 8,
+   "orgs_norm": 7,
+   "status": "PASS"
+  },
+  "AB-260903-V07": {
+   "date": "2026-09-03",
+   "urls": 9,
+   "orgs_norm": 5,
+   "status": "PASS"
+  },
+  "AB-260903-V08": {
+   "date": "2026-09-03",
+   "urls": 9,
+   "orgs_norm": 5,
+   "status": "PASS"
+  },
+  "AB-260903-V09": {
+   "date": "2026-09-03",
+   "urls": 8,
+   "orgs_norm": 5,
+   "status": "PASS"
+  },
+  "AB-260903-V10": {
+   "date": "2026-09-03",
+   "urls": 8,
+   "orgs_norm": 5,
+   "status": "PASS"
+  },
+  "AB-260904-G01": {
+   "date": "2026-09-04",
+   "urls": 6,
+   "orgs_norm": 6,
+   "status": "PASS"
+  },
+  "AB-260904-G02": {
+   "date": "2026-09-04",
+   "urls": 6,
+   "orgs_norm": 4,
+   "status": "PASS"
+  },
+  "AB-260904-G03": {
+   "date": "2026-09-04",
+   "urls": 8,
+   "orgs_norm": 6,
+   "status": "PASS"
+  },
+  "AB-260904-G04": {
+   "date": "2026-09-04",
+   "urls": 8,
+   "orgs_norm": 7,
+   "status": "PASS"
+  },
+  "AB-260904-G05": {
+   "date": "2026-09-04",
+   "urls": 7,
+   "orgs_norm": 5,
+   "status": "PASS"
+  },
+  "AB-260904-G06": {
+   "date": "2026-09-04",
+   "urls": 10,
+   "orgs_norm": 4,
+   "status": "PASS"
+  },
+  "AB-260904-G07": {
+   "date": "2026-09-04",
+   "urls": 6,
+   "orgs_norm": 5,
+   "status": "PASS"
+  },
+  "AB-260904-G08": {
+   "date": "2026-09-04",
+   "urls": 6,
+   "orgs_norm": 4,
+   "status": "PASS"
+  },
+  "AB-260904-G09": {
+   "date": "2026-09-04",
+   "urls": 7,
+   "orgs_norm": 4,
+   "status": "PASS"
+  },
+  "AB-260904-G10": {
+   "date": "2026-09-04",
+   "urls": 8,
+   "orgs_norm": 8,
+   "status": "PASS"
+  },
+  "AB-260904-V01": {
+   "date": "2026-09-04",
+   "urls": 7,
+   "orgs_norm": 6,
+   "status": "PASS"
+  },
+  "AB-260904-V02": {
+   "date": "2026-09-04",
+   "urls": 10,
+   "orgs_norm": 6,
+   "status": "PASS"
+  },
+  "AB-260904-V03": {
+   "date": "2026-09-04",
+   "urls": 10,
+   "orgs_norm": 6,
+   "status": "PASS"
+  },
+  "AB-260904-V04": {
+   "date": "2026-09-04",
+   "urls": 9,
+   "orgs_norm": 8,
+   "status": "PASS"
+  },
+  "AB-260904-V05": {
+   "date": "2026-09-04",
+   "urls": 7,
+   "orgs_norm": 6,
+   "status": "PASS"
+  },
+  "AB-260904-V06": {
+   "date": "2026-09-04",
+   "urls": 11,
+   "orgs_norm": 7,
+   "status": "PASS"
+  },
+  "AB-260904-V07": {
+   "date": "2026-09-04",
+   "urls": 10,
+   "orgs_norm": 7,
+   "status": "PASS"
+  },
+  "AB-260904-V08": {
+   "date": "2026-09-04",
+   "urls": 9,
+   "orgs_norm": 5,
+   "status": "PASS"
+  },
+  "AB-260904-V09": {
+   "date": "2026-09-04",
+   "urls": 8,
+   "orgs_norm": 7,
+   "status": "PASS"
+  },
+  "AB-260904-V10": {
+   "date": "2026-09-04",
+   "urls": 8,
+   "orgs_norm": 5,
+   "status": "PASS"
+  },
+  "AB-260905-G01": {
+   "date": "2026-09-05",
+   "urls": 4,
+   "orgs_norm": 3,
+   "status": "CONDITIONAL"
+  },
+  "AB-260905-G02": {
+   "date": "2026-09-05",
+   "urls": 4,
+   "orgs_norm": 3,
+   "status": "CONDITIONAL"
+  },
+  "AB-260905-G03": {
+   "date": "2026-09-05",
+   "urls": 5,
+   "orgs_norm": 4,
+   "status": "CONDITIONAL"
+  },
+  "AB-260905-G04": {
+   "date": "2026-09-05",
+   "urls": 5,
+   "orgs_norm": 2,
+   "status": "CONDITIONAL"
+  },
+  "AB-260905-G05": {
+   "date": "2026-09-05",
+   "urls": 5,
+   "orgs_norm": 3,
+   "status": "CONDITIONAL"
+  },
+  "AB-260905-G06": {
+   "date": "2026-09-05",
+   "urls": 6,
+   "orgs_norm": 1,
+   "status": "CONDITIONAL"
+  },
+  "AB-260905-G07": {
+   "date": "2026-09-05",
+   "urls": 5,
+   "orgs_norm": 2,
+   "status": "CONDITIONAL"
+  },
+  "AB-260905-G08": {
+   "date": "2026-09-05",
+   "urls": 5,
+   "orgs_norm": 3,
+   "status": "CONDITIONAL"
+  },
+  "AB-260905-G09": {
+   "date": "2026-09-05",
+   "urls": 7,
+   "orgs_norm": 3,
+   "status": "CONDITIONAL"
+  },
+  "AB-260905-G10": {
+   "date": "2026-09-05",
+   "urls": 4,
+   "orgs_norm": 3,
+   "status": "CONDITIONAL"
+  },
+  "AB-260905-V01": {
+   "date": "2026-09-05",
+   "urls": 6,
+   "orgs_norm": 6,
+   "status": "PASS"
+  },
+  "AB-260905-V02": {
+   "date": "2026-09-05",
+   "urls": 6,
+   "orgs_norm": 5,
+   "status": "PASS"
+  },
+  "AB-260905-V03": {
+   "date": "2026-09-05",
+   "urls": 7,
+   "orgs_norm": 7,
+   "status": "PASS"
+  },
+  "AB-260905-V04": {
+   "date": "2026-09-05",
+   "urls": 6,
+   "orgs_norm": 5,
+   "status": "PASS"
+  },
+  "AB-260905-V05": {
+   "date": "2026-09-05",
+   "urls": 6,
+   "orgs_norm": 5,
+   "status": "PASS"
+  },
+  "AB-260905-V06": {
+   "date": "2026-09-05",
+   "urls": 8,
+   "orgs_norm": 6,
+   "status": "PASS"
+  },
+  "AB-260905-V07": {
+   "date": "2026-09-05",
+   "urls": 7,
+   "orgs_norm": 6,
+   "status": "PASS"
+  },
+  "AB-260905-V08": {
+   "date": "2026-09-05",
+   "urls": 7,
+   "orgs_norm": 5,
+   "status": "PASS"
+  },
+  "AB-260905-V09": {
+   "date": "2026-09-05",
+   "urls": 6,
+   "orgs_norm": 4,
+   "status": "PASS"
+  },
+  "AB-260905-V10": {
+   "date": "2026-09-05",
+   "urls": 8,
+   "orgs_norm": 6,
+   "status": "PASS"
+  }
+ }
+}

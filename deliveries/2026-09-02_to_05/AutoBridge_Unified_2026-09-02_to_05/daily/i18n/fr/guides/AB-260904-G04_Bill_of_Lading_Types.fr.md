@@ -1,0 +1,105 @@
+# MBL, HBL, Télex ou Sea Waybill ? Choix de la méthode de libération d'un véhicule en vertu du code maritime 2025
+
+## OEuvre Métadonnées
+- ** Titre du référencement**: Guide du connaissement pour l'exportation de véhicules — MBL/HBL/Telex/SWB + Code maritime Arts. 80/81/87
+- **Description détaillée**: Comment les factures principales, les factures de maison, les lettres de mainlevée du télex et les lettres de transport maritime diffèrent, les règles de transférabilité/livraison dans le Code maritime révisé de la Chine (en vigueur 2026-05-01, Arts. 80/81/87) et la méthode de mainlevée correspondante aux conditions de paiement.
+- **URL suggérée**: /guides/véhicule-exportation-lettre de chargement-types
+- ** H1 **: Choisir une méthode de mainlevée pour un véhicule exporté — Pratique commerciale ancrée dans le Code maritime révisé
+- **Mot-clé principal**: le connaissement du véhicule à l'exportation mbl hbl télex relâchement de la facture de transport maritime
+- ** Termes de recherche secondaire**: Maritime Code 2025 revision, article 80 bill of lading transfer, article 81 other transport document, article 87 delivery, NVOCC HBL, order bill telex
+- **Suggestions de lien interne**: /guides/fret océanique-charge-structure-véhicule-exportation/; /guides/véhicule-exportation-pdi-préexpédition-transmission/; /guides/exportation-véhicule-document-emballage/
+- **Suggestions d'image**: comparaison à quatre méthodes; échelle de négociabilité vs paiement; chaîne MBL/HBL; Arts. 80/81/87 flux de livraison
+- ** Suggestions concernant l'ALT**: « Négociabilité de la lettre de transport maritime de la LBM HBL télex en vertu du Code maritime révisé »
+
+## Le problème de l'approvisionnement est le contrôle du fret, pas le travail sur papier
+Les exportateurs traitent le choix du connaissement comme une documentation. C'est une décision **de risque de paiement**: au moment où vous passez d'un billet original négociable à un communiqué télex ou un bordereau de transport maritime, vous changez lorsque vous arrêtez de contrôler le véhicule à destination. Ce guide associe le comportement des quatre instruments au cadre réglementaire actuel de la Chine**, le code maritime de la RPC*, ** révisé sur 2025-10-28 par la session 18th du Comité permanent du NPC 14th (ordonnance présidentielle no 58), en vigueur depuis 2026-05-01 (chapitres 16, articles 310)**, et correspond ensuite à la méthode de paiement. Les règles et les droits propres au télex du transporteur/port restent propres au voyage et ne sont pas indiqués comme valeurs fixes.
+
+## Les quatre instruments côte à côte
+| Méthode | Qui délivre | Comment le destinataire prend livraison | L'expéditeur détient un document papier de titre? |
+|---|---|---|---|
+| **Master B/L (MBL)** | Ligne d'expédition / son agent | Renvoyez le MBL original (ou suivez la procédure en ligne) | Oui — contrat de transport + fonction document de propriété |
+| **Maison B/L (HBL)** | NVOCC / transitaire | Le destinataire de la LHB échange la LHB contre la LMB par l'intermédiaire de l'agent de destination du transitaire | Oui au niveau de la HBL, avec une partie supplémentaire dans la chaîne |
+| **Communiqué de télécomex** | Transporteur après le retour/l'abandon des originaux de l'expéditeur | Instructions de libération électronique; collecte sur une copie + identité | **Non** — le titre papier est abandonné à la sortie |
+| **Bill de mer (BSF)** | Transporteur | Le destinataire désigné perçoit sur la preuve d'identité; non négociable | **Non** — non un titre, non transférable |
+
+## La base légale: transférabilité, autres documents, livraison
+Le Code maritime révisé fournit l'architecture juridique qui sous-tend ces différences d'affaires:
+- **Article 80 — Transfert de connaissement**: a **report (nommé) B/L n'est pas transférable**; un **ordre B/L** transferts par **approbation spéciale ou approbation en blanc**; un **porteur B/L** transferts **sans approbation**. C'est pourquoi les factures « à ordre/blanc » sont l'instrument qui préserve le contrôle — et pourquoi elles ne peuvent généralement pas être simplement libérées par télex.
+- **Article 81 — autres documents de transport**: un document autre qu'un B/L que le transporteur délivre à la preuve de la réception des marchandises pour le transport est **prima preuve à la fois du contrat de transport par mer et de la réception** par le transporteur des marchandises énumérées. Ces cadres **documents non-titulaires tels qu'une lettre de transport maritime**: ils attestent de la réception et du contrat, mais ne comportent pas de fonction de document de propriété négociable de B/L.
+- **Article 87 — règles de livraison**: sous une ligne B/L**, la livraison est effectuée au destinataire ** nommé**; sous une ligne B/L**, au destinataire **; sous une ligne B/L**, au détenteur **; sous une ligne B/L**, au détenteur **; un document électronique de transport ** transférable** est remis à son détenteur ****. Ces règles déterminent exactement qui est habilité à collecter le véhicule.
+
+## Lorsque le risque se situe dans la pratique
+- **Avant le paiement intégral, le télésiège et le télésiège se libèrent tous deux à la main avant le début**, car aucun original négociable n'est entre les mains du chargeur (la distinction selon l'article 80/81 explique pourquoi). Faites correspondre ces deux options à ** T/T** prépayé ou à une position entièrement sécurisée.
+- **Les factures d'ordre/à ordre ne peuvent généralement pas être libérées par télex** — leur négociabilité (art. 80) est le mécanisme de contrôle.
+- ** La LBH ajoute une dépendance en chaîne**: l'acheteur ne peut pas percevoir jusqu'à ce que l'agent étranger du NVOCC convertisse la LBH en LBH; vérifiez cet agent avant de choisir le papier de maison.
+- ** L'acceptation du port/pays varie** (certaines destinations sud-américaines ne seraient pas autorisées à se procurer du télex) - confirmer auprès du transporteur et de l'agent de destination **par expédition**, selon la voie de livraison Art. 87 qui s'appliquera effectivement.
+
+## Méthode de couplage avec les modalités de paiement
+- **T/T à l'avance / entièrement prépayé**: télex ou SWB est utilisable; le levier de contrôle n'est plus nécessaire.
+- **L/C**: suivre le crédit exactement – il exige généralement un B/L négociable expédié/endormé comme indiqué; remplacer SWB crée une divergence.
+- **Balance contre B/L / compte ouvert**: gardez la MBL négociable originale (art. 80 commande/contrôle du porteur) jusqu'à ce que les conditions de paiement soient remplies; ne jamais libérer un véhicule non payé par télex.
+- **RoRo versus conteneur**: les deux relâchent contre l'océan B/L; confirmez la procédure de la ligne et l'itinéraire du destinataire de l'art. 87 avant de choisir l'instrument.
+
+## Questions à mettre au transitaire avant la réservation
+1. Qui est le transporteur MBL et (si HBL) le NVOCC et son agent de destination?
+2. Cette destination/consigne accepte-t-elle la version télex, et quel itinéraire de livraison Art. 87 s'applique?
+3. Le lot est-il direct, commandé ou porteur — et la facture est-elle négociable?
+4. Quelle méthode de libération correspond à la chronologie convenue T/T ou L/C?
+5. Quels sont les frais de mainlevée/switch de la ligne pour ce voyage (cité, jamais supposé)?
+
+## Limites du présent guide
+- Les règles du télex propre au transporteur et **les frais sont sensibles au temps et au voyage**; aucun numéro fixe n'est indiqué.
+- Les citations légales utilisent le ** Code maritime 2025-revised en vigueur 2026-05-01 **; le libellé de l'article avant la révision ne doit pas être considéré comme étant actuel.
+
+## Foire aux questions
+**Quelle est la zone maritime Les articles du code régissent le transfert et la livraison en B/L?** Art. 80 (transfert: droit/commande/porteur), art. 81 (autres documents de transport tels que SWB) et art. 87 (livraison au destinataire/endee/titulaire désigné).
+**Méthode de libération du festival avant paiement?** Conserver un original négociable (commande/porteur) B/L; éviter les télex/SWB jusqu'à ce que le paiement soit garanti.
+**Une lettre de transport maritime est-elle un document de titre?** Non — en vertu de l'art. 81, elle atteste le contrat et la réception, mais n'est pas négociable; le destinataire désigné recueille l'identité.
+**Un projet de loi peut-il être publié par télex?** Généralement non; sa négociabilité Art. 80 est le mécanisme de contrôle.
+
+## Enregistrement d'image
+- IMAGE_ASSET_PATH: aucun sécurisé dans le dépôt
+- ORIGINAL_IMAGE_URL: non capturé
+- SOURCE_PAGE: non capturé
+- HÔTEL DE DROITS: NON CONfirmÉ
+- LICENSE_OR_USAGE_BASIS: aucune image sécurisée — aucune image de tiers ne peut être publiée jusqu'à ce que les droits soient effacés
+- _DATE DE CHERCHE: 2026-09-05
+- MODEL_TOPIC_MATCH: doit correspondre au modèle exact/version (ou au sujet du guide) et au marché de référence ci-dessus
+- IMAGE_RIGHTS_STATUS: FAIL (aucun actif autorisé capturé; un détenteur de place ou -tain vieille image - Note n'est pas accepté)
+- ALAT par langue:
+  - **EN**: AutoBridge export-buyer reference — MBL HBL telex release and sea waybill, vehicle-export procurement guide
+  - **FR**: Référence AutoBridge pour acheteurs export — MBL HBL telex release and sea waybill, guide d’achat à l’export automobile
+  - **DE**: AutoBridge-Referenz für Exportkäufer — MBL HBL telex release and sea waybill, Leitfaden für Fahrzeugexport-Einkauf
+  - **ES**: Referencia AutoBridge para compradores de exportación — MBL HBL telex release and sea waybill, guía de compras para exportación de vehículos
+  - **PT**: Referência AutoBridge para compradores de exportação — MBL HBL telex release and sea waybill, guia de compras para exportação de veículos
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜MBL HBL telex release and sea waybill, 自動車輸出 調達ガイド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜MBL HBL telex release and sea waybill, 자동차 수출 조달 가이드
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — MBL HBL telex release and sea waybill, hướng dẫn thu mua xuất khẩu xe
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — MBL HBL telex release and sea waybill, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — MBL HBL telex release and sea waybill, panduan pengadaan ekspor kendaraan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — MBL HBL telex release and sea waybill, دليل مشتريات تصدير المركبات
+  - **ZH**: AutoBridge 出口采购参考｜MBL HBL telex release and sea waybill, 汽车出口采购指南
+
+## Sources et vérification
+| Titre de la source | Organisation | Marché | URL | Vérification | Confiance | Faits corroborés |
+|---|---|---|---|---|---|---|
+| Code maritime de la RPC (révision 2025, ordonnance présidentielle 58, en vigueur 2026-05-01) texte complet | Comité permanent du PNC (npc.gov.cn) | NC | http://www.npc.gov.cn/c2/c30834/202510/t20251028_449061.html | 2026-09-04 | VÉRIFIER (primaire) | Arts. 80/81/87, version et date d'entrée en vigueur |
+| B/L / télex / Sea Waybill expliqué | NetEase wiki d'affaires | INTL | https://www.163.com/dy/article/L0J4JN3F0556HN78.html | 2026-09-04 | _CHECTURE | Définitions MBL/SWB/telex |
+| Projet de loi principal contre projet de loi de la Chambre | Sina Finance | INTL | https://finance.sina.com.cn/roll/2026-08-15/doc-ininkrwq1888009.shtml | 2026-09-04 | _CHECTURE | Chaîne MBL/HBL, pratique du véhicule |
+| Méthodes de libération et types B/L | Connaissances de l'industrie 11467 | INTL | https://m.11467.com/product/d15253354.htm | 2026-09-04 | _CHECTURE | Comparaison par quatre méthodes |
+| Quatre méthodes de libération et risque télex (Note de l'Amérique du Sud) | Montant net | INTL | https://www.163.com/dy/article/K17GLBOG0556820S.html | 2026-09-04 | SOURCE UNIQUE | Limite de la facture, acceptation du port |
+| Conventions et lois types relatives au transport international de marchandises | CNUDCI | INT'L | https://uncitral.un.org/en/texts/transportgoods | 2026-09-05 | VÉRIFIER | Cadre juridique comparé pour les documents de transport (contexte de la Haye-Visby/Hambourg/Rotterdam) |
+| Référence des documents d'expédition et des clauses standard | BIMCO | INT'L | https://www.bimco.org/ | 2026-09-05 | VÉRIFIER | Référence de l'industrie et des normes maritimes |
+| Documents de transport et pratiques de transitaires de la FIATA | Fédération internationale des transitaires (FIATA) | INT'L | https://fiata.org/ | 2026-09-05 | VÉRIFIER | Le transitaire (FBL/FCR) pratique de distinguer le transporteur B/Ls |
+
+*Note de confiance: colonne vertébrale légale VÉRIFIÉE par le biais du texte intégral de la NPC de la révision 2025 (en vigueur 2026-05-01); définitions commerciales recoupées; frais de transporteur/acceptation du port restent spécifiques au voyage. *
+
+## Révision de la rédaction
+- **Auteur**: Équipe éditoriale d'AutoBridge Export · méthode selon notre [Politique éditoriale](/Politique éditoriale/)
+- **Dernière revue**: 2026-09-05
+- **Marché de référence**: Statut chinois + pratiques internationales en matière de fret maritime (valeurs spécifiques au transporteur exclues)
+- ** Méthode de vérification**: Statut principal du CNM pour les règles juridiques; vérification croisée multisource pour les pratiques commerciales
+- **Transparence**: La rédaction assistée par AI a été utilisée. Cet article est basé sur la recherche sur le bureau et l'AQ automatisée. Aucun essai de première main n'est revendiqué sauf documenté explicitement; confirmer les exigences en matière de temps et de destination avant d'agir.
+- **Norme de rédaction**: Recherches et écrits provenant des sources énumérées ci-dessus (recherches de bureau; aucune conduite directe, démontage ou importation n'est revendiquée). La confiance de la source est affichée par ligne; tout point que nous ne pouvons confirmer indépendamment est présenté comme un élément de vérification plutôt que comme un fait.
+
+**Tags**: #BillOfLading #MaritimeCode #TelexRelease #SeaWaybill #ExportRisk

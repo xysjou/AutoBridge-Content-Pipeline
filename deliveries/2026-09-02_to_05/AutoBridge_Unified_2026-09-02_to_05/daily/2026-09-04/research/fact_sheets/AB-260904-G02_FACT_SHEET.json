@@ -1,0 +1,36 @@
+{
+  "FACT_SHEET": {
+    "article_id": "AB-260904-G02",
+    "content_type": "PROCUREMENT_GUIDE",
+    "topic": "中国侧出口商品检验与申报:车辆出口要不要商检、怎么办",
+    "primary_keyword": "china-export-statutory-inspection-customs-declaration-vehicles",
+    "search_intent": "出口车辆在中国侧是否属法定检验、如何报检与申报",
+    "target_reader": "中国汽车出口商/工厂/报关行",
+    "target_country_region": "中国(出口侧)",
+    "suggested_url": "/guides/china-export-statutory-inspection-declaration/",
+    "research_verdict": "RESEARCH_CONDITIONAL",
+    "official_source_required": true,
+    "official_source_found": true,
+    "reference_market": "见各fact/分国别",
+    "checked_date": "2026-09-04"
+  },
+  "BODY_GATE": {
+    "facts": [
+      {"field": "legal_basis", "value": "《进出口商品检验法》及实施条例:列入目录的法定检验出口商品须报检,未经检验或不合格不准出口", "unit": "-", "market": "CHINA", "trim": "-", "checked_date": "2026-09-04", "confidence": "VERIFIED", "note": "替换抖音百科转载,改用海关总署官方PDF/办事指南", "sources": ["进出口商品检验法实施条例(2019修订)官方PDF", "互联网+海关·办事指南(法定检验=列入目录及法律法规规定须检商品)"], "urls": ["http://ltj.customs.gov.cn/gongbei_customs/374280/fdzdgknr19/xzzfxxgspt/sqgk70/3156035/3156037/3156056/2021071513280329948.pdf", "https://online.customs.gov.cn/static/pages/guides/000629010001/000629010001.html"]},
+      {"field": "place_rule", "value": "出口商品原则在生产地检验,海关总署可指定其他地点", "unit": "-", "market": "CHINA", "trim": "-", "checked_date": "2026-09-04", "confidence": "VERIFIED", "note": "", "sources": ["进出口商品检验法实施条例(2019修订)官方PDF"], "urls": ["http://ltj.customs.gov.cn/gongbei_customs/374280/fdzdgknr19/xzzfxxgspt/sqgk70/3156035/3156037/3156056/2021071513280329948.pdf"]},
+      {"field": "declaration_docs", "value": "依法需检验检疫的出口货物须按规定随附相关单证;以自己名义申报的由收发货人签章", "unit": "-", "market": "CHINA", "trim": "-", "checked_date": "2026-09-04", "confidence": "VERIFIED", "note": "", "source": ["海关总署令第277号 海关进出口货物申报管理规定"], "url": ["https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html"]},
+      {"field": "process_optimization", "value": "2025年第138号公告优化出口货物申报前检验检疫申请(不含行政许可事项)", "unit": "-", "market": "CHINA", "trim": "-", "checked_date": "2026-09-04", "confidence": "SINGLE_SOURCE", "note": "时效性,以总署现行公告为准", "source": ["海关总署公告2025年第138号(优化出口货物申报前检验检疫申请)"], "url": ["http://m.toutiao.com/group/7520602188638159398/"]},
+      {"field": "distinction", "value": "中国侧'法定检验/申报'与买方指定的第三方PSI(装运前检验)是两件事,不得混为一谈", "unit": "-", "market": "CHINA", "trim": "-", "checked_date": "2026-09-04", "confidence": "VERIFIED", "note": "", "sources": ["海关总署令第277号", "进出口商品检验法实施条例官方PDF"], "urls": ["https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html", "http://ltj.customs.gov.cn/gongbei_customs/374280/fdzdgknr19/xzzfxxgspt/sqgk70/3156035/3156037/3156056/2021071513280329948.pdf"]},
+      {"field": "catalogue_decision_rule", "value": "是否需出口法定检验不能一概而论:须先确定车辆准确10位HS,再核对现行《必须实施检验的进出口商品目录》及该税号海关监管条件/检验检疫类别(出口法定检验对应出口商品检验);未列入目录且无其他法定依据的,按抽查检验处理(2024年163号公告目录外出口抽查仅列儿童玩具)", "unit": "-", "market": "CHINA", "trim": "-", "checked_date": "2026-09-04", "confidence": "VERIFIED", "note": "HS-FIRST:法律框架只回答'目录内必检',具体车辆须逐HS查现行目录/监管条件", "source": ["进出口商品检验法实施条例(2019修订)官方PDF", "互联网+海关·办事指南", "海关总署公告2024年第163号(目录以外抽查检验范围:出口仅儿童玩具)"], "url": ["http://ltj.customs.gov.cn/gongbei_customs/374280/fdzdgknr19/xzzfxxgspt/sqgk70/3156035/3156037/3156056/2021071513280329948.pdf", "https://online.customs.gov.cn/static/pages/guides/000629010001/000629010001.html", "http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6216518/2024112015221230619.pdf"]},
+      {"field": "bev_export_license", "value": "纯电动乘用车(仅装驱动电动机、具VIN的其他载人车辆,参考税号8703801090)自2026-01-01起实施出口许可证管理;该许可证与法定检验是两项并行制度,不得互相替代", "unit": "-", "market": "CHINA", "trim": "-", "checked_date": "2026-09-04", "confidence": "TIME_SENSITIVE", "note": "出口资格/许可=TIME_SENSITIVE", "source": ["商务部等四部门关于对纯电动乘用车实施出口许可证管理的公告(参考编号8703801090,2026-01-01)"], "url": ["http://www.mofcom.gov.cn/zfxxgk/gkml/art/2025/art_98e16dc3acdb47568e054d292bd9609a.html"]}
+    ],
+    "FACTS_ALLOWED_IN_BODY": ["法定检验制度与目录判定规则(官方)", "逐10位HS查现行目录/监管条件的方法(HS-FIRST)", "法检与第三方PSI、与BEV出口许可证的区分", "277号令申报随附单证"],
+    "FACTS_NOT_ALLOWED_IN_BODY": ["在未核对某具体10位HS现行监管条件前,断言'整车出口都要/都不要法定检验'", "把第三方商业PSI说成中国法定检验", "把BEV出口许可证说成商检"],
+    "BLOCKED_FACTS": ["任一具体车型/10位税号当前是否落入法检目录(本批未取得现行目录整车逐税号清单,申报时须以海关现行目录+该税号监管条件核验,TIME_SENSITIVE)"],
+    "TIME_SENSITIVE_FACTS": ["法检目录、监管条件、申报前检验检疫申请、出口许可证范围随总署/部委公告调整,须注公告号与日期"],
+    "UNRESOLVED_QUESTIONS": ["现行《必须实施检验的进出口商品目录》中8702/8703/8704/8705各10位税号的出口监管条件逐条清单(需海关现行目录原文,转确定结论前补齐)"],
+    "conflict_notes": [],
+    "model_alias_notes": "",
+    "AUDIT_NOTE": "审核指出法律框架不能回答'这辆车当前是否必检';已补官方判定规则+目录外抽查公告+BEV许可证,但未取得现行目录整车逐税号清单,故由PASS降为CONDITIONAL"
+  }
+}

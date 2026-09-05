@@ -1,0 +1,225 @@
+{
+ "ARTICLE_ID": "AB-260904-V06",
+ "MASTER_LANG": "EN",
+ "MASTER_URL": "/vehicles/gac-trumpchi-e8/",
+ "CONTENT_TYPE": "VEHICLE",
+ "MODEL_TOPIC_ANCHOR": "GAC Trumpchi E8 PHEV",
+ "NUMERIC_INVARIANTS": [
+  "134",
+  "150",
+  "2",
+  "2.0",
+  "25.57",
+  "3",
+  "7",
+  "8"
+ ],
+ "MARKET_SCOPE_LOCKED": true,
+ "BODY_TRANSLATION_STATUS": "PENDING_LOCALIZATION_STAGE",
+ "locales": {
+  "EN": {
+   "title": "GAC Trumpchi E8 PHEV: Specs, Versions & Export Buyer Guide",
+   "meta": "Chinese-market GAC Trumpchi E8 PHEV explained for export buyers: versions, verified specs and what to confirm before ordering. Focus: gac trumpchi e8 phev specs export.",
+   "h1": "GAC Trumpchi E8 PHEV",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "FR": {
+   "title": "GAC Trumpchi E8 PHEV: Spécifications, versions et guide d’achat export",
+   "meta": "Le GAC Trumpchi E8 PHEV du marché chinois expliqué aux acheteurs export : versions, spécifications vérifiées et points à confirmer avant commande. Sujet clé: gac trumpchi e8 phev specs export.",
+   "h1": "GAC Trumpchi E8 PHEV",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "DE": {
+   "title": "GAC Trumpchi E8 PHEV: Technische Daten, Varianten & Export-Einkaufsratgeber",
+   "meta": "Der GAC Trumpchi E8 PHEV des chinesischen Marktes für Exportkäufer erklärt: Varianten, geprüfte Daten und Bestellprüfung. Schwerpunkt: gac trumpchi e8 phev specs export.",
+   "h1": "GAC Trumpchi E8 PHEV",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ES": {
+   "title": "GAC Trumpchi E8 PHEV: Especificaciones, versiones y guía de compra para exportación",
+   "meta": "El GAC Trumpchi E8 PHEV del mercado chino explicado al comprador de exportación: versiones, especificaciones verificadas y qué confirmar antes de pedir. Enfoque: gac trumpchi e8 phev specs export.",
+   "h1": "GAC Trumpchi E8 PHEV",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "PT": {
+   "title": "GAC Trumpchi E8 PHEV: Especificações, versões e guia de compra para exportação",
+   "meta": "O GAC Trumpchi E8 PHEV do mercado chinês explicado ao comprador de exportação: versões, especificações verificadas e o que confirmar antes do pedido. Foco: gac trumpchi e8 phev specs export.",
+   "h1": "GAC Trumpchi E8 PHEV",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "JA": {
+   "title": "GAC Trumpchi E8 PHEV: 仕様・グレードと輸出バイヤーガイド",
+   "meta": "中国市場仕様のGAC Trumpchi E8 PHEVを輸出バイヤー向けに解説：グレード、検証済み仕様、発注前の確認点。 主な論点: gac trumpchi e8 phev specs export.",
+   "h1": "GAC Trumpchi E8 PHEV",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "KO": {
+   "title": "GAC Trumpchi E8 PHEV: 사양·트림 및 수출 바이어 가이드",
+   "meta": "중국 시장용 GAC Trumpchi E8 PHEV를 수출 바이어 관점에서 정리: 트림, 검증된 사양, 주문 전 확인 사항. 핵심 주제: gac trumpchi e8 phev specs export.",
+   "h1": "GAC Trumpchi E8 PHEV",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "VI": {
+   "title": "GAC Trumpchi E8 PHEV: Thông số, phiên bản và hướng dẫn mua để xuất khẩu",
+   "meta": "GAC Trumpchi E8 PHEV phiên bản thị trường Trung Quốc giải thích cho người mua xuất khẩu: phiên bản, thông số đã kiểm chứng và điểm cần xác nhận trước khi đặt. Trọng tâm: gac trumpchi e8 phev specs export.",
+   "h1": "GAC Trumpchi E8 PHEV",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "TH": {
+   "title": "GAC Trumpchi E8 PHEV: ข้อมูลจำเพาะ รุ่นย่อย และคู่มือผู้ซื้อเพื่อการส่งออก",
+   "meta": "GAC Trumpchi E8 PHEV เวอร์ชันตลาดจีน อธิบายสำหรับผู้ซื้อส่งออก: รุ่นย่อย ข้อมูลจำเพาะที่ตรวจสอบแล้ว และสิ่งที่ต้องยืนยันก่อนสั่งซื้อ จุดสำคัญ: gac trumpchi e8 phev specs export.",
+   "h1": "GAC Trumpchi E8 PHEV",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ID": {
+   "title": "GAC Trumpchi E8 PHEV: Spesifikasi, Varian & Panduan Pembeli Ekspor",
+   "meta": "GAC Trumpchi E8 PHEV pasar Tiongkok dijelaskan untuk pembeli ekspor: varian, spesifikasi terverifikasi dan yang harus dikonfirmasi sebelum memesan. Fokus: gac trumpchi e8 phev specs export.",
+   "h1": "GAC Trumpchi E8 PHEV",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "AR": {
+   "title": "GAC Trumpchi E8 PHEV: المواصفات والنسخ ودليل مشتري التصدير",
+   "meta": "شرح GAC Trumpchi E8 PHEV الخاص بالسوق الصيني لمشتري التصدير: النسخ والمواصفات الموثقة وما يجب تأكيده قبل الطلب. المحور: gac trumpchi e8 phev specs export.",
+   "h1": "GAC Trumpchi E8 PHEV",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ZH": {
+   "title": "GAC Trumpchi E8 PHEV: 规格、版本与出口采购指南",
+   "meta": "面向出口采购者讲清中国市场版 GAC Trumpchi E8 PHEV：版本划分、已核验规格与下单前必须确认的事项。 核心主题: gac trumpchi e8 phev specs export.",
+   "h1": "GAC Trumpchi E8 PHEV",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  }
+ }
+}

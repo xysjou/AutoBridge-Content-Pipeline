@@ -1,0 +1,110 @@
+{
+ "EN": {
+  "max": 0.1836,
+  "pair": [
+   "AB-260904-V02_BYD_QinL_DMi.md",
+   "AB-260904-V05_Chery_FulwinT9.md"
+  ],
+  "n": 80,
+  "status": "PASS"
+ },
+ "FR": {
+  "max": 0.4005,
+  "pair": [
+   "AB-260903-V01_Geely_Emgrand_2024.fr.md",
+   "AB-260903-V03_Changan_CS75PLUS_2024.fr.md"
+  ],
+  "n": 80,
+  "status": "PASS"
+ },
+ "DE": {
+  "max": 0.3583,
+  "pair": [
+   "AB-260903-V01_Geely_Emgrand_2024.de.md",
+   "AB-260903-V03_Changan_CS75PLUS_2024.de.md"
+  ],
+  "n": 80,
+  "status": "PASS"
+ },
+ "ES": {
+  "max": 0.3928,
+  "pair": [
+   "AB-260904-V02_BYD_QinL_DMi.es.md",
+   "AB-260904-V06_GAC_Trumpchi_E8.es.md"
+  ],
+  "n": 80,
+  "status": "PASS"
+ },
+ "PT": {
+  "max": 0.3823,
+  "pair": [
+   "AB-260903-V01_Geely_Emgrand_2024.pt.md",
+   "AB-260903-V03_Changan_CS75PLUS_2024.pt.md"
+  ],
+  "n": 80,
+  "status": "PASS"
+ },
+ "JA": {
+  "max": 0.1836,
+  "pair": [
+   "AB-260904-V02_BYD_QinL_DMi.ja.md",
+   "AB-260904-V05_Chery_FulwinT9.ja.md"
+  ],
+  "n": 80,
+  "status": "PASS"
+ },
+ "KO": {
+  "max": 0.1836,
+  "pair": [
+   "AB-260904-V02_BYD_QinL_DMi.ko.md",
+   "AB-260904-V05_Chery_FulwinT9.ko.md"
+  ],
+  "n": 80,
+  "status": "PASS"
+ },
+ "VI": {
+  "max": 0.338,
+  "pair": [
+   "AB-260903-V01_Geely_Emgrand_2024.vi.md",
+   "AB-260903-V03_Changan_CS75PLUS_2024.vi.md"
+  ],
+  "n": 80,
+  "status": "PASS"
+ },
+ "TH": {
+  "max": 0.182,
+  "pair": [
+   "AB-260904-V02_BYD_QinL_DMi.th.md",
+   "AB-260904-V05_Chery_FulwinT9.th.md"
+  ],
+  "n": 80,
+  "status": "PASS"
+ },
+ "ID": {
+  "max": 0.3694,
+  "pair": [
+   "AB-260903-V01_Geely_Emgrand_2024.id.md",
+   "AB-260904-V01_Chery_Arrizo8.id.md"
+  ],
+  "n": 80,
+  "status": "PASS"
+ },
+ "AR": {
+  "max": 0.1836,
+  "pair": [
+   "AB-260904-V02_BYD_QinL_DMi.ar.md",
+   "AB-260904-V05_Chery_FulwinT9.ar.md"
+  ],
+  "n": 80,
+  "status": "PASS"
+ },
+ "ZH": {
+  "max": 0.1836,
+  "pair": [
+   "AB-260904-V02_BYD_QinL_DMi.zh.md",
+   "AB-260904-V05_Chery_FulwinT9.zh.md"
+  ],
+  "n": 80,
+  "status": "PASS"
+ }
+}

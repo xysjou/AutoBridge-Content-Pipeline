@@ -1,0 +1,36 @@
+{
+  "FACT_SHEET": {
+    "article_id": "AB-260904-G01",
+    "content_type": "PROCUREMENT_GUIDE",
+    "topic": "出口车辆HS编码归类:87.02/87.03/87.04/87.05与挂车8716怎么分",
+    "primary_keyword": "vehicle-export-hs-code-classification-8702-8703-8704-8705",
+    "search_intent": "出口商如何为乘用/商用/专用车辆与挂车确定正确中国HS税号",
+    "target_reader": "中国汽车出口商/报关员",
+    "target_country_region": "中国(出口侧)+通用HS框架",
+    "suggested_url": "/guides/vehicle-export-hs-code-classification/",
+    "research_verdict": "RESEARCH_PASS",
+    "official_source_required": true,
+    "official_source_found": true,
+    "reference_market": "见各fact/分国别",
+    "checked_date": "2026-09-04"
+  },
+  "BODY_GATE": {
+    "facts": [
+      {"field": "heading_8702", "value": "客运机动车辆,10座及以上(客车/巴士)", "unit": "-", "market": "CHINA", "trim": "-", "checked_date": "2026-09-04", "confidence": "VERIFIED", "note": "以2026现行税则替代2018资料(CURRENT_STANDARD_VERSION_GATE)", "sources": ["《中华人民共和国进出口税则(2026)》国务院关税税则委员会编"], "urls": ["https://bgt.mof.gov.cn/zhuantilanmu/rdwyh/czyw/202512/P020251231607833453633.pdf"]},
+      {"field": "heading_8703", "value": "主要用于载人的机动车辆(9座及以下,含轿车/SUV/MPV/混动/电动小客车)", "unit": "-", "market": "CHINA", "trim": "-", "checked_date": "2026-09-04", "confidence": "VERIFIED", "note": "以2026现行税则替代2018资料(CURRENT_STANDARD_VERSION_GATE)", "sources": ["《中华人民共和国进出口税则(2026)》国务院关税税则委员会编"], "urls": ["https://bgt.mof.gov.cn/zhuantilanmu/rdwyh/czyw/202512/P020251231607833453633.pdf"]},
+      {"field": "heading_8704", "value": "货运机动车辆(载货,含电动货车;三轮载货8704.6000)", "unit": "-", "market": "CHINA", "trim": "-", "checked_date": "2026-09-04", "confidence": "VERIFIED", "note": "删除今日头条T4作为核心,改2026税则官方", "sources": ["《中华人民共和国进出口税则(2026)》国务院关税税则委员会编", "2026年海关HS编码查询·第八十七章品目"], "urls": ["https://bgt.mof.gov.cn/zhuantilanmu/rdwyh/czyw/202512/P020251231607833453633.pdf", "https://www.i5a6.com/hsCategory/c17"]},
+      {"field": "heading_8705", "value": "特殊用途机动车辆(起重/钻探/洒水/救援等,非以载人载货为主)", "unit": "-", "market": "CHINA", "trim": "-", "checked_date": "2026-09-04", "confidence": "VERIFIED", "note": "以2026现行税则替代2018资料(CURRENT_STANDARD_VERSION_GATE)", "sources": ["《中华人民共和国进出口税则(2026)》国务院关税税则委员会编"], "urls": ["https://bgt.mof.gov.cn/zhuantilanmu/rdwyh/czyw/202512/P020251231607833453633.pdf"]},
+      {"field": "heading_8716", "value": "挂车及半挂车(含其他非机械驱动车辆)", "unit": "-", "market": "CHINA", "trim": "-", "checked_date": "2026-09-04", "confidence": "VERIFIED", "note": "以2026现行税则替代2018资料(CURRENT_STANDARD_VERSION_GATE)", "sources": ["《中华人民共和国进出口税则(2026)》国务院关税税则委员会编"], "urls": ["https://bgt.mof.gov.cn/zhuantilanmu/rdwyh/czyw/202512/P020251231607833453633.pdf"]},
+      {"field": "ev_class_rule", "value": "电动三轮:载人且有VIN归8703.8010、无VIN归8703.8090;载货归8704.6000", "unit": "-", "market": "CHINA", "trim": "-", "checked_date": "2026-09-04", "confidence": "SINGLE_SOURCE", "note": "电动三轮细分归类为海关答疑口径(T3),具体10位子目以2026税则为准(TIME_SENSITIVE)", "source": ["出口电动三轮车海关答疑(8703.80/8704.60归类口径)"], "url": ["http://m.toutiao.com/group/7518145509672993315/"]},
+      {"field": "hs_first", "value": "商用车/专用车出口必须先定准确HS(87.01牵引/87.04货运/87.05专用/8716挂车),再谈税率认证,不得一套流程套全部卡车", "unit": "-", "market": "CHINA", "trim": "-", "checked_date": "2026-09-04", "confidence": "VERIFIED", "note": "HS-FIRST原则", "sources": ["《中华人民共和国进出口税则(2026)》国务院关税税则委员会编", "海关总署关于执行2026年关税调整方案及有关事宜的公告"], "urls": ["https://bgt.mof.gov.cn/zhuantilanmu/rdwyh/czyw/202512/P020251231607833453633.pdf", "http://www.customs.gov.cn/customs/2025-12/31/article_2026010717460235831.html"]},
+      {"field": "heading_8701", "value": "牵引车、拖拉机(品目8709的牵引车除外),含半挂牵引车", "unit": "-", "market": "CHINA", "trim": "-", "checked_date": "2026-09-04", "confidence": "VERIFIED", "note": "2026现行税则品目条文", "source": ["《中华人民共和国进出口税则(2026)》国务院关税税则委员会编"], "url": ["https://bgt.mof.gov.cn/zhuantilanmu/rdwyh/czyw/202512/P020251231607833453633.pdf"]}
+    ],
+    "FACTS_ALLOWED_IN_BODY": ["品目层级归类框架/官方子目名称/电动车辆归类思路/HS-FIRST方法"],
+    "FACTS_NOT_ALLOWED_IN_BODY": ["不得给出目的国进口关税率(本主题只解决中国侧归类,目的国税率另题且需对方海关官方)", "具体10位本国子目以当年《中华人民共和国进出口税则》为准(TIME_SENSITIVE)"],
+    "BLOCKED_FACTS": ["不得给出目的国进口关税率(本主题只解决中国侧归类,目的国税率另题且需对方海关官方)", "具体10位本国子目以当年《中华人民共和国进出口税则》为准(TIME_SENSITIVE)"],
+    "TIME_SENSITIVE_FACTS": ["10位本国子目/暂定税率每年随《税则》调整,引用须注2026版与公告号;品目(4位/6位)相对稳定"],
+    "UNRESOLVED_QUESTIONS": ["8705带制冷机组冷藏车上装是否影响10位子目,需按2026税则本国子目逐条核对"],
+    "conflict_notes": [],
+    "model_alias_notes": ""
+  }
+}

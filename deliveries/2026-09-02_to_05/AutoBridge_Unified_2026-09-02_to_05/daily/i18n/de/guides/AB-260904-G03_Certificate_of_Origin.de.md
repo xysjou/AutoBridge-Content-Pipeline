@@ -1,0 +1,93 @@
+# Welches Herkunftszertifikat benötigt ein Fahrzeugexport? Zoll vs CCPIT, Präferenz vs Nichtpräferenz
+
+## SEO Metadaten
+- **SEO Titel**: China Certificate of Origin for Vehicle Exports — CO Types & Issuers
+- **Meta Description**: Die drei chinesischen Ursprungszertifikate, die beantragt werden sollen, ob Zoll oder CCPIT verwendet werden sollen, wenn ein Präferenz-CO-Abkommen für ein Freihandelsabkommen gilt, und was ein Ausführer nicht über den Bestimmungszoll versprechen darf.
+- **Vorgeschlagene URL**: /guides/china-export-certificate-of origin
+- ** H1 **: Auswahl des richtigen Herkunftszertifikats für einen chinesischen Fahrzeugexport
+- ** Primäres Keyword**: China Export Certificate of Origin ccpit customs
+- **Secondary Search Terms**: nicht präferentiell CO, APS-Ursprungsbescheinigung, FTA-Präferenz-CO, GACC-Auftrag 270, CCPIT-Zertifikat-Ursprung, Fahrzeugausfuhrdokumente
+- **Interne Linkvorschläge**: /guides/vehicle-export-hs-code-classification/; /guides/export-vehicle-document-package/; /guides/china-export-statutory-inspection-deklaration/
+- **Bildvorschläge**: drei CO-Typen Vergleich; Zoll-/CCPIT-Ausgabediagramm; FTA-Präferenzstrom
+- **ALT Vorschläge**: "China-Ursprungsbescheinigung drei Arten Zoll CCPIT"
+
+## Die Entscheidung in einem Routinedokument verborgen
+Importeure verlangen routinemäßig "das CO", als wäre es ein Papier. Das ist nicht der Fall. China stellt ** drei Familien ** mit Herkunftsbescheinigung aus, und die Wahl des falschen bedeutet, dass der Käufer entweder keine klare Präferenz haben kann oder ein Dokument erhält, das seine Autorität nicht erwartet. Die aktuelle Regel ist **GACC Order No. 270, *Verwaltungsmaßnahmen für Ursprungszeugnisse für Exportgüter *, veröffentlicht 2024-07-30 und in Kraft von 2024-09-01 **. Diese Seite deckt die ** China Ausgabeseite** ab; ob ein bestimmtes Ziel eine Präferenz gewährt, ist die Entscheidung dieses Landes.
+
+## Die drei Zertifikatsfamilien
+| Art der Art | Zweck | Wenn ein Fahrzeugexporteur es verwendet |
+|---|---|---|
+| **Nicht-Präferenzen CO** | Meistbegünstigte Behandlung, Antidumping-/Gegen-/Schutzfälle, Ursprungskennzeichnung, Höchstmengen, Zollkontingente, öffentliches Beschaffungswesen, Handelsstatistiken | Standardmäßiger „ordentlicher CO-Austausch zum Nachweis des chinesischen Ursprungs, wenn keine Präferenz für ein Handelsabkommen beantragt wird |
+| **GSP (allgemeines Präferenzsystem) CO** | Präferenz im Rahmen eines APS-erteilenden Landes | Nur wenn die Bestimmung noch APS gewährt und ihre spezifische Form erfordert |
+| **Regionale/präferentielle CO (FTA)** | Zollsatz der Präferenzvereinbarung im Bestimmungsland | Nur wenn ein Freihandelsabkommen zwischen China und dem Bestimmungsort gilt **und** die Waren die Ursprungsregeln dieses Abkommens erfüllen |
+
+Jede FTA hat ihre **eigenen Ursprungsregeln, Form und Code** – ein Zertifikat, das für eine Vereinbarung erstellt wurde, kann nicht für eine andere wiederverwendet werden.
+
+## Wer gibt es aus: Zoll oder CCPIT
+Die beiden autorisierten Ausstellungskanäle sind **China Customs** und **CCPIT (China Council for the Promotion of International Trade) und seine lokalen Niederlassungen**:
+- Wenn der ** Importeur eine offizielle Regierungsbehörde** benötigt, wenden Sie sich über **Zoll** an.
+- Wenn der Käufer nicht angegeben hat, kann der Exporteur einen Antrag auf **either** stellen. Zoll oder CCPIT.
+- Das gewöhnliche (nicht präferentielle) Zertifikat von CCPIT wird in der Regel **ohne Gebühr** ausgestellt, vorbehaltlich des aktuellen veröffentlichten Zeitplans.
+
+## Anwendung des Frameworks auf eine Fahrzeugsendung
+1. Bestätigen Sie das Ziel und ob eine **FTA-Präferenz** tatsächlich in Anspruch genommen wird; wenn nicht, ist ein nicht-präferentieller CO das übliche Instrument.
+2. Wenn Sie eine Präferenz beantragen, überprüfen Sie, ob das Fahrzeug die produktspezifische Ursprungsregel dieser Vereinbarung erfüllt, bevor Sie sich bewerben - gehen Sie nicht davon aus, dass "Made in China" allein qualifiziert ist.
+3. Matchen Sie den Emittenten an das, was der Importeur / Letter of Credit verlangt (offizielle Stelle → Zoll).
+4. Verwenden Sie das **aktuelle ** Formular und den Code unter Bestellung 270 und die entsprechende Vereinbarung; Formulare ändern sich, wenn Vereinbarungen hinzugefügt werden.
+
+## Was nicht zu versprechen ist
+- Diese Seite **nicht ** ordnet ein bestimmtes Ziel einer bestimmten Freihandelszone oder ihren Regeln zu - das ist länder- und vertragsspezifisch und muss pro Sendung mit Zoll / CCPIT überprüft werden.
+- Ein Ursprungszeugnis garantiert nicht, dass das Bestimmungsland einen ermäßigten Satz gewährt; der Bestimmungszoll trifft diese Bestimmung.
+
+## Häufig gestellte Fragen
+**Was ist die aktuelle Regel für chinesische Export-COs? ** GACC Order No. 270, in Kraft seit 1 September 2024, regelt Export-Ursprungsbescheinigungen.
+**Gehe ich zum Zoll oder zum CCPIT?** Wenn der Käufer eine offizielle Stelle benötigt, verwenden Sie den Zoll; Andernfalls kann einer der beiden Kanäle ausstellen, und der gewöhnliche CO von CCPIT ist in der Regel kostenlos.
+**Was ist der Unterschied zwischen einer gewöhnlichen und einer FTA CO? ** Das gewöhnliche CO weist den Ursprung für nichtpräferenzielle Zwecke nach; das FTA CO unterstützt einen vereinbarten Präferenzsatz nur, wenn die Waren die Ursprungsregeln dieses Abkommens erfüllen.
+**Garantiet ein FTA CO eine niedrigere Abgabe im Ausland?** Nein — der Zoll des Einfuhrlandes entscheidet, ob die Präferenz gewährt wird.
+
+## Bildaufzeichnung
+- IMAGE_ASSET_PATH: keine gesicherte Datei
+- ORIGINAL_IMAGE_URL: nicht erfasst
+- SOURCE_PAGE: nicht erfasst
+- RIGHTS_HOLDER: nicht bestätigt
+- LICENSE_OR_USAGE_BASIS: keine gesicherte — kein Bild von Dritten darf veröffentlicht werden, bis die Rechte gelöscht sind
+- CHECKED_DATUM: 2026-09-05
+- MODEL_TOPIC_MATCH: muss mit dem genauen Modell/der genauen Version (oder dem Leitthema) und dem Referenzmarkt oben übereinstimmen
+- IMAGE_RIGHTS_STATUS: FAIL (kein lizenziertes Asset erfasst; ein Platzhalter oder ein Hinweis „altes Bild behalten wird nicht akzeptiert)
+- ALT nach Sprache:
+  - **EN**: AutoBridge export-buyer reference — Certificate of origin for vehicle export, vehicle-export procurement guide
+  - **FR**: Référence AutoBridge pour acheteurs export — Certificate of origin for vehicle export, guide d’achat à l’export automobile
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Certificate of origin for vehicle export, Leitfaden für Fahrzeugexport-Einkauf
+  - **ES**: Referencia AutoBridge para compradores de exportación — Certificate of origin for vehicle export, guía de compras para exportación de vehículos
+  - **PT**: Referência AutoBridge para compradores de exportação — Certificate of origin for vehicle export, guia de compras para exportação de veículos
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Certificate of origin for vehicle export, 自動車輸出 調達ガイド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Certificate of origin for vehicle export, 자동차 수출 조달 가이드
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Certificate of origin for vehicle export, hướng dẫn thu mua xuất khẩu xe
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Certificate of origin for vehicle export, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Certificate of origin for vehicle export, panduan pengadaan ekspor kendaraan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Certificate of origin for vehicle export, دليل مشتريات تصدير المركبات
+  - **ZH**: AutoBridge 出口采购参考｜Certificate of origin for vehicle export, 汽车出口采购指南
+
+## Quellen & Verifizierung
+| Quelle: | Organisation | Markt | URL | Geprüft | Vertrauen | Belegte Fakten |
+|---|---|---|---|---|---|---|
+| GACC Order No. 270, Export CO Administrative Measures (in Kraft 2024-09-01) | Allgemeine Zollverwaltung von China (offizielles PDF) | CN | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6011613/2024073016391092032.pdf | 2026-09-04 | ÜBERPRÜFUNG | Regelversion, drei Typen, Emittenten |
+| Export CO Administrative Measures (zweite offizielle PDF) | GACC | CN | http://www.customs.gov.cn/eportal/fileDir/customs/resource/cms/2024/07/2024073110443252720.pdf | 2026-09-04 | ÜBERPRÜFUNG | Nicht-präferenzielle Verwendungen, drei Arten |
+| Nicht präferenzielle CO-Übersicht und ausstellende Stellen | ZGP Sichuan | CN | https://www.ccpit-sichuan.org/newshow.aspx?id=14630&mid=285 | 2026-09-04 | ÜBERPRÜFUNG | Emittenten, gewöhnliche CO ohne Gebühr |
+*Anwendungsbereich: China nur Ausgabeseite; spezifische FTA-Regeln und Destination Präferenz Entscheidungen sind außerhalb des Anwendungsbereichs und pro Vereinbarung / pro Land. *
+
+| Verordnungen der VR China über Ursprungszeugnisse (Dekret des Staatsrates Nr. 416) | Staatsrat der VR China | CN | https://www.gov.cn/gongbao/content/2005/content_64193.htm | 2026-09-05 | ÜBERPRÜFUNG | Chinesische Rechtsgrundlage für die Ausstellung von Präferenzursprungszeugnissen und nichtpräferenziellen Ursprungsbescheinigungen |
+| Abkommen über Ursprungsregeln | Welthandelsorganisation (WTO) | INT'L | https://www.wto.org/english/tratop_e/roi_e/roi_e.htm | 2026-09-05 | ÜBERPRÜFUNG | Multilateraler Rahmen für Ursprungsregeln |
+| Thema Ursprungsregeln | Weltzollorganisation (WZO) | INT'L | http://www.wcoomd.org/ | 2026-09-05 | ÜBERPRÜFUNG | Zollischer Ursprung Einreihung und Bescheinigung Referenz |
+| China Free Trade Area Service Network (FTA-Zollbehandlung) | MOFCOM | CN/INT'L | http://fta.mofcom.gov.cn/ | 2026-09-05 | ÜBERPRÜFUNG | Kanal für Präferenzursprungs-/FTA-Zertifikate |
+| Ursprungsbescheinigung und Außenhandelsbescheinigung | China Council for the Promotion of International Trade (CCPIT) (Deutsche Übersetzung) | CN | http://www.ccpit.org/ | 2026-09-05 | ÜBERPRÜFUNG | Vom CCPIT ausgestellter Kanal für nicht präferenzielle Ursprungszertifikate |
+
+## Editorial Review
+- **AutoBridge Export Editorial Team · Methode nach unserer [Editorial Policy](/redaktionelle Politik/)
+- **Zuletzt überprüft**: 2026-09-05
+- **Referenzmarkt**: Ausstellung von Zertifikaten auf der Exportseite Chinas (Zielpräferenz ausgeschlossen)
+- **Verifizierungsmethode**: Zwei offizielle GACC PDFs + CCPIT; per-FTA Detail bewusst nicht verallgemeinert
+- **Transparenz**: KI-unterstütztes Zeichnen wurde verwendet. Dieser Artikel basiert auf Desk Research und automatisierter QA. Es werden keine Tests aus erster Hand beansprucht, es sei denn, sie sind explizit dokumentiert; zeitsensible und zielspezifische Anforderungen vor der Transaktion bestätigen.
+- **Editorialstandard**: Recherchiert und geschrieben aus den oben aufgeführten Quellen (Desk-Recherche; kein Fahren aus erster Hand, Teardown oder Import wird beansprucht). Das Vertrauen in die Quelle wird pro Zeile angezeigt; jeder Punkt, den wir nicht unabhängig bestätigen können, wird als Verifizierungselement dargestellt und nicht als Tatsache behauptet.
+
+**Tags**: #CertificateOfOrigin #CCPIT #Customs #FTA #ExportDocuments

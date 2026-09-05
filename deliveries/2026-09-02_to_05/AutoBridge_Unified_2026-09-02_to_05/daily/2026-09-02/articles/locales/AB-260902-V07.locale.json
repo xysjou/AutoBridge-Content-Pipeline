@@ -1,0 +1,222 @@
+{
+ "ARTICLE_ID": "AB-260902-V07",
+ "MASTER_LANG": "EN",
+ "MASTER_URL": "/vehicles/jac-kangling-light-truck/",
+ "CONTENT_TYPE": "VEHICLE",
+ "MODEL_TOPIC_ANCHOR": "JAC Kangling Lingpao L6",
+ "NUMERIC_INVARIANTS": [
+  "1",
+  "2.5",
+  "4",
+  "5",
+  "6"
+ ],
+ "MARKET_SCOPE_LOCKED": true,
+ "BODY_TRANSLATION_STATUS": "PENDING_LOCALIZATION_STAGE",
+ "locales": {
+  "EN": {
+   "title": "JAC Kangling Lingpao L6: Specs, Versions & Export Buyer Guide",
+   "meta": "Chinese-market JAC Kangling Lingpao L6 explained for export buyers: versions, verified specs and what to confirm before ordering. Focus: JAC Kangling Lingpao L6 light truck specifications export.",
+   "h1": "JAC Kangling Lingpao L6",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "FR": {
+   "title": "JAC Kangling Lingpao L6: Spécifications, versions et guide d’achat export",
+   "meta": "Le JAC Kangling Lingpao L6 du marché chinois expliqué aux acheteurs export : versions, spécifications vérifiées et points à confirmer avant commande. Sujet clé: JAC Kangling Lingpao L6 light truck specifications export.",
+   "h1": "JAC Kangling Lingpao L6",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "DE": {
+   "title": "JAC Kangling Lingpao L6: Technische Daten, Varianten & Export-Einkaufsratgeber",
+   "meta": "Der JAC Kangling Lingpao L6 des chinesischen Marktes für Exportkäufer erklärt: Varianten, geprüfte Daten und Bestellprüfung. Schwerpunkt: JAC Kangling Lingpao L6 light truck specifications export.",
+   "h1": "JAC Kangling Lingpao L6",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ES": {
+   "title": "JAC Kangling Lingpao L6: Especificaciones, versiones y guía de compra para exportación",
+   "meta": "El JAC Kangling Lingpao L6 del mercado chino explicado al comprador de exportación: versiones, especificaciones verificadas y qué confirmar antes de pedir. Enfoque: JAC Kangling Lingpao L6 light truck specifications export.",
+   "h1": "JAC Kangling Lingpao L6",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "PT": {
+   "title": "JAC Kangling Lingpao L6: Especificações, versões e guia de compra para exportação",
+   "meta": "O JAC Kangling Lingpao L6 do mercado chinês explicado ao comprador de exportação: versões, especificações verificadas e o que confirmar antes do pedido. Foco: JAC Kangling Lingpao L6 light truck specifications export.",
+   "h1": "JAC Kangling Lingpao L6",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "JA": {
+   "title": "JAC Kangling Lingpao L6: 仕様・グレードと輸出バイヤーガイド",
+   "meta": "中国市場仕様のJAC Kangling Lingpao L6を輸出バイヤー向けに解説：グレード、検証済み仕様、発注前の確認点。 主な論点: JAC Kangling Lingpao L6 light truck specifications export.",
+   "h1": "JAC Kangling Lingpao L6",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "KO": {
+   "title": "JAC Kangling Lingpao L6: 사양·트림 및 수출 바이어 가이드",
+   "meta": "중국 시장용 JAC Kangling Lingpao L6를 수출 바이어 관점에서 정리: 트림, 검증된 사양, 주문 전 확인 사항. 핵심 주제: JAC Kangling Lingpao L6 light truck specifications export.",
+   "h1": "JAC Kangling Lingpao L6",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "VI": {
+   "title": "JAC Kangling Lingpao L6: Thông số, phiên bản và hướng dẫn mua để xuất khẩu",
+   "meta": "JAC Kangling Lingpao L6 phiên bản thị trường Trung Quốc giải thích cho người mua xuất khẩu: phiên bản, thông số đã kiểm chứng và điểm cần xác nhận trước khi đặt. Trọng tâm: JAC Kangling Lingpao L6 light truck specifications export.",
+   "h1": "JAC Kangling Lingpao L6",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "TH": {
+   "title": "JAC Kangling Lingpao L6: ข้อมูลจำเพาะ รุ่นย่อย และคู่มือผู้ซื้อเพื่อการส่งออก",
+   "meta": "JAC Kangling Lingpao L6 เวอร์ชันตลาดจีน อธิบายสำหรับผู้ซื้อส่งออก: รุ่นย่อย ข้อมูลจำเพาะที่ตรวจสอบแล้ว และสิ่งที่ต้องยืนยันก่อนสั่งซื้อ จุดสำคัญ: JAC Kangling Lingpao L6 light truck specifications export.",
+   "h1": "JAC Kangling Lingpao L6",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ID": {
+   "title": "JAC Kangling Lingpao L6: Spesifikasi, Varian & Panduan Pembeli Ekspor",
+   "meta": "JAC Kangling Lingpao L6 pasar Tiongkok dijelaskan untuk pembeli ekspor: varian, spesifikasi terverifikasi dan yang harus dikonfirmasi sebelum memesan. Fokus: JAC Kangling Lingpao L6 light truck specifications export.",
+   "h1": "JAC Kangling Lingpao L6",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "AR": {
+   "title": "JAC Kangling Lingpao L6: المواصفات والنسخ ودليل مشتري التصدير",
+   "meta": "شرح JAC Kangling Lingpao L6 الخاص بالسوق الصيني لمشتري التصدير: النسخ والمواصفات الموثقة وما يجب تأكيده قبل الطلب. المحور: JAC Kangling Lingpao L6 light truck specifications export.",
+   "h1": "JAC Kangling Lingpao L6",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  },
+  "ZH": {
+   "title": "JAC Kangling Lingpao L6: 规格、版本与出口采购指南",
+   "meta": "面向出口采购者讲清中国市场版 JAC Kangling Lingpao L6：版本划分、已核验规格与下单前必须确认的事项。 核心主题: JAC Kangling Lingpao L6 light truck specifications export.",
+   "h1": "JAC Kangling Lingpao L6",
+   "gates": {
+    "LANGUAGE_PURITY": true,
+    "SENTENCE_COMPLETENESS": true,
+    "FACT_NUMBER": true,
+    "UNIT_PRESERVED": true,
+    "MARKET_SCOPE": true,
+    "MODEL_YEAR_TRIM_LOCKED": true,
+    "TITLE_META_H1": true,
+    "ALT_LOCALIZED": true,
+    "INTERNAL_LINK_UNCHANGED": true
+   },
+   "QA": "PASS"
+  }
+ }
+}
