@@ -1,0 +1,132 @@
+{
+  "BATCH_ID": "LEGACY-LIVE-DEFECTS-20260905",
+  "AUTHORITATIVE": true,
+  "REVIEWED_AT": "2026-09-05T18:25:00+08:00",
+  "REVIEW_SCOPE": "Legacy live content on autobridgeexport.com; separate from daily Sep 2-5 writing batches",
+  "REPO_CONTEXT_SHA": "7fa85ad77f9eae5687f6c8ab8b6c7ac85871e771",
+  "LOCAL_DIAGNOSIS_PATH_REPORTED": "/Users/shan/Documents/Codex/aws-amplify-auto-update/outputs/diagnosis-2026-09-05/",
+  "LOCAL_DIAGNOSIS_ACCESSED_BY_REVIEW_AI": false,
+  "USER_SUPPLIED_INVENTORY": {
+    "MAIN_TOPICS": 200,
+    "LANGUAGES_PER_MAIN_TOPIC": 12,
+    "OLD_AUTOMATED_AUDIT_LANGUAGE_PAGES": 3431,
+    "FAILED_MAIN_TOPICS": 18,
+    "FAILED_MAIN_LOCALE_PAGES": 52,
+    "FAILED_HISTORICAL_TOPICS": 107,
+    "FAILED_HISTORICAL_LOCALE_PAGES": 1031,
+    "FAILED_MAIN_TECH_STATE": "HTTP 200 + noindex (user/Codex diagnostic; technical remediation belongs to Codex)"
+  },
+  "PUBLICATION_BLOCK": true,
+  "PUBLISH_APPROVED": false,
+  "REVIEWED_BY": "AI_REVIEWER",
+  "LEGACY_AUTOMATED_SCORE_INHERITANCE": false,
+  "DIRECT_LIVE_DEFECTS": [
+    {
+      "URL": "https://www.autobridgeexport.com/guides/new-vs-used-ev-middle-east.html",
+      "LANGUAGES": ["en"],
+      "REVIEW_STATUS": "REVISION_REQUIRED",
+      "SEVERITY": "P0",
+      "DEFECTS": ["PUBLIC_WORKFLOW_OR_WRITER_INSTRUCTION_LEAK", "GENERATOR_TEMPLATE_FRAGMENTATION", "HEADING_PARAGRAPH_MISMATCH", "MISLEADING_IMAGE_CAPTION_ACTIVITY_LOCATION"],
+      "RETURN_TO": "WRITING_AI"
+    },
+    {
+      "URL": "https://www.autobridgeexport.com/guides/battery-warranty-southeast-asia.html",
+      "LANGUAGES": ["en"],
+      "REVIEW_STATUS": "REVISION_REQUIRED",
+      "SEVERITY": "P0",
+      "DEFECTS": ["PUBLIC_RESEARCH_WORKFLOW_LEAK", "STAGED_EVIDENCE_NOTES_IN_PUBLIC_BODY", "GENERATOR_TEMPLATE_FRAGMENTATION", "MISLEADING_IMAGE_CAPTION_ACTIVITY_LOCATION"],
+      "RETURN_TO": "WRITING_AI"
+    },
+    {
+      "URL": "https://www.autobridgeexport.com/guides/pickup-export-latin-america.html",
+      "LANGUAGES": ["en"],
+      "REVIEW_STATUS": "REVISION_REQUIRED",
+      "SEVERITY": "P0",
+      "DEFECTS": ["PUBLIC_DEPLOYMENT_WRITER_INSTRUCTION_LEAK", "REPEATED_TITLE_IN_BODY", "EVIDENCE_TRAIL_TEMPLATE_LEAK"],
+      "RETURN_TO": "WRITING_AI"
+    },
+    {
+      "URL": "https://www.autobridgeexport.com/guides/roro-container-shipping-latin-america.html",
+      "LANGUAGES": ["en"],
+      "REVIEW_STATUS": "REVISION_REQUIRED",
+      "SEVERITY": "P0",
+      "DEFECTS": ["PUBLIC_WRITER_INSTRUCTION_LEAK", "REPEATED_TITLE_IN_BODY", "EVIDENCE_TRAIL_TEMPLATE_LEAK"],
+      "RETURN_TO": "WRITING_AI"
+    },
+    {
+      "URL": "https://www.autobridgeexport.com/guides/seven-seat-suv-latin-america.html",
+      "LANGUAGES": ["en"],
+      "REVIEW_STATUS": "REVISION_REQUIRED",
+      "SEVERITY": "P0",
+      "DEFECTS": ["PUBLIC_PUBLISHING_STRUCTURE_LEAK", "REPEATED_TITLE_IN_BODY", "EVIDENCE_TRAIL_TEMPLATE_LEAK"],
+      "RETURN_TO": "WRITING_AI"
+    },
+    {
+      "URL": "https://www.autobridgeexport.com/vehicles/byd-seal-global-search-2026.html",
+      "LANGUAGES": ["en", "all_parameter_derived_locales"],
+      "REVIEW_STATUS": "NEEDS_RESEARCH",
+      "SEVERITY": "P0",
+      "DEFECTS": ["KEY_FACT_LABELS_ALL_DETAIL", "LUGGAGE_VALUE_SCOPE_CONFLICT_485_PLUS_72_VS_400_PLUS_53", "DECIMAL_TOKENIZATION_5_9_3_8_82_5", "PARAMETER_VALUES_CONTAIN_TEMPLATE_INSTRUCTIONS"],
+      "RETURN_TO": "RESEARCH_AI_THEN_WRITING_AI",
+      "CODEX_TASK": "Fix generator/renderer labeling and decimal tokenization only after Research locks factual parameter payload"
+    }
+  ],
+  "IMAGE_DEFECTS": [
+    {
+      "ASSET": "vehicle-inspection-5161920290-jpg.jpg",
+      "REVIEW_STATUS": "REVISION_REQUIRED",
+      "SEVERITY": "P0",
+      "USER_SUPPLIED_ACTUAL_VISUAL": "staff beside a vehicle checking documents",
+      "PROHIBITED_CAPTION_INFERENCE": ["battery diagnosis", "new-vs-used EV comparison", "Middle East location", "Southeast Asia location", "workshop diagnostic activity", "first-hand inspection"]
+    },
+    {
+      "ASSET": "battery-pack-of-an-ev-jpg.jpg",
+      "REVIEW_STATUS": "REVISION_REQUIRED",
+      "SEVERITY": "P0",
+      "USER_SUPPLIED_ACTUAL_VISUAL": "battery/underbody display",
+      "PROHIBITED_CAPTION_INFERENCE": ["Latin American technician", "Middle Eastern technician", "Southeast Asian workshop", "diagnostic activity", "flood inspection", "first-hand experience"]
+    }
+  ],
+  "FAILED_MAIN_CONTENT_QUEUE": [
+    {"PATH":"/guides/mpv-procurement-africa.html","LANGUAGES":["ja","th"],"STATUS":"REVISION_REQUIRED","SEVERITY":"P1","RETURN_TO":"WRITING_AI"},
+    {"PATH":"/guides/mpv-procurement-middle-east.html","LANGUAGES":["ja","th"],"STATUS":"REVISION_REQUIRED","SEVERITY":"P1","RETURN_TO":"WRITING_AI"},
+    {"PATH":"/guides/photo-vin-review-global.html","LANGUAGES":["ko"],"STATUS":"REVISION_REQUIRED","SEVERITY":"P1","RETURN_TO":"WRITING_AI"},
+    {"PATH":"/guides/pickup-export-southeast-asia.html","LANGUAGES":["fr","de","es","pt-br","ja","ko","vi","th","id","ar"],"STATUS":"REVISION_REQUIRED","SEVERITY":"P1","RETURN_TO":"WRITING_AI"},
+    {"PATH":"/vehicles/geely-coolray-global-search-2026.html","LANGUAGES":["en","fr","de","es","pt-br","ja","ko","vi","th","id","ar"],"STATUS":"REVISION_REQUIRED","SEVERITY":"P0_P1","RETURN_TO":"WRITING_AI"},
+    {"PATH":"/vehicles/kia-sportage-global-search-2026.html","LANGUAGES":["en","zh"],"STATUS":"REVISION_REQUIRED","SEVERITY":"P0","RETURN_TO":"WRITING_AI"},
+    {"PATH":"/vehicles/land-rover-defender-global-search-2026.html","LANGUAGES":["en","zh"],"STATUS":"REVISION_REQUIRED","SEVERITY":"P0","RETURN_TO":"WRITING_AI"},
+    {"PATH":"/vehicles/lexus-rx-global-search-2026.html","LANGUAGES":["en","zh"],"STATUS":"REVISION_REQUIRED","SEVERITY":"P0","RETURN_TO":"WRITING_AI"},
+    {"PATH":"/vehicles/mazda-bt-50-global-search-2026.html","LANGUAGES":["en","zh"],"STATUS":"REVISION_REQUIRED","SEVERITY":"P0","RETURN_TO":"WRITING_AI"},
+    {"PATH":"/vehicles/mercedes-benz-e-class-global-search-2026.html","LANGUAGES":["en","zh"],"STATUS":"REVISION_REQUIRED","SEVERITY":"P0","RETURN_TO":"WRITING_AI"},
+    {"PATH":"/vehicles/mercedes-benz-glc-global-search-2026.html","LANGUAGES":["en","zh"],"STATUS":"REVISION_REQUIRED","SEVERITY":"P0","RETURN_TO":"WRITING_AI"},
+    {"PATH":"/vehicles/nissan-altima-global-search-2026.html","LANGUAGES":["en","zh"],"STATUS":"REVISION_REQUIRED","SEVERITY":"P0","RETURN_TO":"WRITING_AI"},
+    {"PATH":"/vehicles/nissan-sentra-global-search-2026.html","LANGUAGES":["en","zh"],"STATUS":"REVISION_REQUIRED","SEVERITY":"P0","RETURN_TO":"WRITING_AI"},
+    {"PATH":"/vehicles/opel-corsa-global-search-2026.html","LANGUAGES":["en","zh"],"STATUS":"REVISION_REQUIRED","SEVERITY":"P0","RETURN_TO":"WRITING_AI"},
+    {"PATH":"/vehicles/peugeot-208-global-search-2026.html","LANGUAGES":["en","zh"],"STATUS":"REVISION_REQUIRED","SEVERITY":"P0","RETURN_TO":"WRITING_AI"},
+    {"PATH":"/vehicles/polestar-2-global-search-2026.html","LANGUAGES":["en","zh"],"STATUS":"REVISION_REQUIRED","SEVERITY":"P0","RETURN_TO":"WRITING_AI"},
+    {"PATH":"/vehicles/porsche-macan-global-search-2026.html","LANGUAGES":["en","zh"],"STATUS":"REVISION_REQUIRED","SEVERITY":"P0","RETURN_TO":"WRITING_AI"},
+    {"PATH":"/vehicles/ram-1500-global-search-2026.html","LANGUAGES":["en","zh"],"STATUS":"REVISION_REQUIRED","SEVERITY":"P0","RETURN_TO":"WRITING_AI"}
+  ],
+  "HISTORICAL_FAILURE_SET": {
+    "TOPICS": 107,
+    "LOCALE_PAGES": 1031,
+    "CONTENT_REVIEW_STATUS": "REVIEW_PENDING_PAGE_LIST",
+    "REQUIRED_FROM_CODEX": ["URL", "locale", "HTTP/index state", "source file path", "current content hash", "failure reason"]
+  },
+  "FINAL_REVIEW_HASH_CONTRACT": {
+    "REVIEW_COMMIT_SHA_REQUIRED": true,
+    "FULL_LOCALE_BODY_SHA256_REQUIRED": 12,
+    "SUMMARY_SHA256_PER_LOCALE_REQUIRED": true,
+    "PARAM_BUNDLE_SHA256_REQUIRED": true,
+    "IMAGE_TEXT_SHA256_REQUIRED": true,
+    "ARTICLE_BUNDLE_SHA256_REQUIRED": true,
+    "MATERIAL_CHANGE_INVALIDATES_OLD_REVIEW": true,
+    "DRIFT_FLAG": "REVIEW_BASELINE_DRIFT=true"
+  },
+  "PARAMETER_GATE": {
+    "REQUIRES": ["semantic label", "concise value", "unit", "market", "model year", "trim/derivative where relevant", "powertrain where relevant", "test cycle where relevant", "direct source", "checked date"],
+    "CONFLICT_RULE": "If conflicting values cannot be mapped to exact market/year/trim/source, status is NEEDS_RESEARCH"
+  },
+  "HUMAN_REVIEWED": false,
+  "CODEX_INSTRUCTION": "Do not treat this defect handoff as publication approval. Codex may fix technical renderer/noindex issues, but corrected content requires a new Review-AI hash-bound review before publication."
+}
