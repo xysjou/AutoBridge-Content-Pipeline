@@ -43,7 +43,7 @@ Produtos específicos de conta, taxas bancárias e telas operacionais atuais sã
 |---|---|---|---|---|---|---|
 | 关于进一步优化贸易外汇业务管理的通知 (名录登记改由银行办理) | 国家外汇管理局 | NC | T1 | VERIFICADO | http://www.safe.gov.cn/yunnan/2024/0408/1537.html | 取消外汇局核准, 境内银行办理名录登记, 首笔收支前登记 |
 | 货物贸易外汇业务办事指南 (名录登记条件) | 国家外汇管理局吉林省分局 | NC | T1 | VERIFICADO | https://www.safe.gov.cn/jilin/file/file/20190617/91d454729ccc456c9b2e6a92cd6bcc51.pdf | 取得对外贸易经营权后办名录 |
-| 货物贸易外汇管理（非现场总量核查/分类管理） | 国家外汇管理局文告 | NC | T1 | VERIFICADO | https://www.safe.gov.cn/safe/file/file/20170726/e97561d6d9ca4ba881d275fcb62bad2e.pdf | 总量核查, 货物流资金流匹配, 动态分类 |
+| | 国家外汇管理局文告 | NC | T1 | VERIFICADO | https://www.safe.gov.cn/safe/file/file/20170726/e97561d6d9ca4ba881d275fcb62bad2e.pdf | 总量核查, 货物流资金流匹配, 动态分类 |（货物贸易外汇管理）（非现场总量核查）（分类管理）
 | 名录登记网上办理操作指引 (ASOne 平台) | 国家外汇管理局广东省分局 | NC | T1 | VERIFICADO | https://www.safe.gov.cn/guangdong/file/file/20210429/babf0a6020e84b4585a7ba6737bb2c41.pdf | 数字外管平台 ASOne 操作 |
 | Administração Estadual de Intercâmbios Exteriores (SAFE) | SAFE 国家外汇管理局 | NC | T1 | VERIFICADO | https://www.safe.gov.cn/en/ | autoridade de registo comercial-FX e autoridade de verificação agregada |
 | Administração Estadual de Intercâmbios Exteriores (SAFE) | SAFE (regulador) | NC | T1 | VERIFICADO | https://www.safe.gov.cn/ | autoridade competente para o registo comercial e a verificação agregada |

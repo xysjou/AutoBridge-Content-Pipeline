@@ -21,7 +21,7 @@ Der Exporteur führt entweder seine eigene Zollregistrierung und Dateien über d
 Der Zoll prüft, ob die Erklärung mit den Belegen und den tatsächlichen Waren übereinstimmt. For vehicles this means the HS code (classified per the current tariff by exact 10-digit code — see the HS guide), Menge, Wert, Modell  and  etwaige Ausfuhrlizenzen, Die Inspektions- oder Bescheinigungspflicht muss sich über die gesamte Erklärung erstrecken. Rechnung  and  Beförderungspapiere. Ein Missverhältnis ist ein häufiger Grund, warum die Erklärung beiseite gelegt wird.
 
 ## Wahrhaftigkeitspflicht und abgelehnte Erklärungen
-Der Anmelder hat eine gesetzliche Pflicht zur wahrheitsgemäßen Erklärung. Wenn eine Erklärung abgelehnt wird (退单/退改), besteht die richtige Antwort darin, die markierten Felder zu korrigieren und über denselben Kanal mit konsistenten Dokumenten erneut einzureichen - nicht um die Ablehnung herumzuarbeiten. Füllnormen erfordern Standard-Warenbeschreibungen, korrekte Menge / Einheit und rechtmäßigen Wert; das Erraten eines HS-Codes oder das Kopieren eines Codes einer früheren Sendung ist eine wiederkehrende Quelle von Verzögerungen.
+Der Anmelder hat eine gesetzliche Pflicht zur wahrheitsgemäßen Erklärung. Wenn eine Erklärung abgelehnt wird besteht die richtige Antwort darin, die markierten Felder zu korrigieren und über denselben Kanal mit konsistenten Dokumenten erneut einzureichen - nicht um die Ablehnung herumzuarbeiten. Füllnormen erfordern Standard-Warenbeschreibungen, korrekte Menge Einheit und rechtmäßigen Wert; das Erraten eines HS-Codes oder das Kopieren eines Codes einer früheren Sendung ist eine wiederkehrende Quelle von Verzögerungen.（退单）（退改）
 
 ## Eine Checkliste für eine Fahrzeugsendung
 1. Bestätigen Sie den genauen 10-digit HS-Code und alle Aufsichtsauflagen für diesen Code im aktuellen Jahrestarif.
@@ -48,7 +48,7 @@ Es liefert keinen spezifischen HS-Code oder eine Aufsichtsbedingung (die per Cod
 | 海关总署令第 277 号 (国务院公报) | 中国政府网 | CN | T1 | ÜBERPRÜFUNG | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 规定全文一致性核验 |
 | 进出口货物申报指南 (单一窗口录入与登录) | 中国贸促会宁夏委员会 | CN | T1 | ÜBERPRÜFUNG | https://nxccpit.nx.gov.cn/xwzx/mcxx/202508/t20250829_5003010.html | 单一窗口 IC 卡/USBKey 登录, 电子申报 |
 | 出口大型货物手续流程 (申报 - 缴税 - 放行) | 中华人民共和国海关总署 | CN | T1 | ÜBERPRÜFUNG | http://www.customs.gov.cn/eportal/ui?pageId=374112&msgDataId=6e1b51cda6ff4057ab24852007a799c8 | 出口通关步骤, 报关单填制规范引用 |
-| WZO — Zollverfahren und -erleichterungen (Single Window / Coordinated Border Management) | Weltzollorganisation | INT | T1/T2 | ÜBERPRÜFUNG | https://www.wcoomd.org/en/topics/facilitation.aspx | Internationaler Single-Fenster und koordinierter Grenzmanagementrahmen, den nationale Erklärungsportale implementieren |
+| WZO — Zollverfahren und -erleichterungen (Single Window Coordinated Border Management) | Weltzollorganisation | INT | T1/T2 | ÜBERPRÜFUNG | https://www.wcoomd.org/en/topics/facilitation.aspx | Internationaler Single-Fenster und koordinierter Grenzmanagementrahmen, den nationale Erklärungsportale implementieren |
 | WTO-Übereinkommen über Handelserleichterungen (Artikel 10.4 Single Window) | Welthandelsorganisation | INT | T1/T2 | ÜBERPRÜFUNG | https://www.wto.org/english/tratop_e/tradfa_e/tradfa_e.htm | Artikel 10.4 verpflichtet die Mitglieder, den Händlern die Vorlage von Import-/Exportdokumenten über ein einziges Fenster zu ermöglichen |
 ## Editorial Review
 - **AutoBridge Export Editorial Team · [Autoren](/Autoren/) · [Editorial Policy](/Editorial-Policy/]

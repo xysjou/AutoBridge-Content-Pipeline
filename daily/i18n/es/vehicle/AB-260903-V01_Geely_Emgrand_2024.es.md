@@ -22,15 +22,15 @@ El Emgrand es el saloon compacto de alto volumen de Geely y un candidato natural
 | Max torque | 127 N·m (fuente individual; confirmar en la hoja de trim exacta) |
 | Transmisión | Manual de 5-speed *o**V CVT* |
 | Conducir | Manguera delantera |
-| Combustible / nota | Petrol; confirma la calificación de combustible y la etapa de emisión de destino (China- 6 spec no es, por sí mismo, la certificación Euro) |
+| Combustible nota | Petrol; confirma la calificación de combustible y la etapa de emisión de destino (China- 6 spec no es, por sí mismo, la certificación Euro) |
 
 Para un coche ICE las preguntas del exportador se concentran en ** código motor/tune, opción de caja de cambios, grado de combustible y etapa de emisión**. Un 5MT y un CVT no son intercambiables en una forma pro: fijar la transmisión contra el VIN, y confirmar si el destino acepta el nivel de emisión China- 6 o requiere su propia certificación (ver la guía dossier de aprobación de tipo CoC).
 
 ## Dimensiones y Cabina
-- Longitud / ancho / altura: ** 4638 / 1820 / 1460 mm **
+- Longitud ancho altura: ** 4638 1820 1460 mm **
 - Base de ruedas: ** 2650 mm **
 - Asientos: ** 5 **
-These are China-reference dimensions for the 4th-gen car. El coche 5th-generation es más grande (reportado 4815 / 1885 / 1480 mm, 2755 mm distancia de rueda) — no mezclar los dos en una línea de espectro o en material de marketing.
+These are China-reference dimensions for the 4th-gen car. El coche 5th-generation es más grande (reportado 4815 1885 1480 mm, 2755 mm distancia de rueda) — no mezclar los dos en una línea de espectro o en material de marketing.
 
 ## Boundary de modelo-año (Mantenga esto visible)
 - **Esta página:** Generación 4th, año modelo 2024.
@@ -66,24 +66,24 @@ No se publica ningún precio de exportación estático. La cifra inicial de 900 
 - IMAGE_RIGHTS_STATUS: FAIL (no se acepta ningún activo con licencia; no se acepta un titular de posición o “retiene la imagen antigua”)
 - BLOCK_REASON: No se puede asegurar una imagen reutilizable: Wikimedia Commons/Flickr no son accesibles desde el entorno de investigación, las bibliotecas de stock requieren acceso a API/licencia autenticada, y una imagen de página web OEM NO es una subvención comercial de reutilización; no existe foto de propiedad de AutoBridge. Se quedó con la FAIL en lugar de afirmarse.
 - ALT por idioma:
-  - **EN**: AutoBridge export-buyer reference — Geely Emgrand, petrol/diesel Chinese-market vehicle / sedan
-  - **FR**: Référence AutoBridge pour acheteurs export — Geely Emgrand, véhicule thermique (marché chinois) / berline
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Geely Emgrand, Verbrenner (chinesischer Markt) / Limousine
-  - **ES**: Referencia AutoBridge para compradores de exportación — Geely Emgrand, vehículo de combustión (mercado chino) / berlina
-  - **PT**: Referência AutoBridge para compradores de exportação — Geely Emgrand, veículo a combustão (mercado chinês) / sedã
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Geely Emgrand, 中国市場仕様 内燃機関車 / セダン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Geely Emgrand, 중국 시장 내연기관 차량 / 세단
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Geely Emgrand, xe động cơ đốt trong (thị trường Trung Quốc) / sedan
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Geely Emgrand, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถเก๋งซีดาน
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Geely Emgrand, kendaraan mesin pembakaran (pasar Tiongkok) / sedan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Geely Emgrand, مركبة بمحرك احتراق (سوق الصين) / سيدان
-  - **ZH**: AutoBridge 出口采购参考｜Geely Emgrand, 中国市场燃油车 / 轿车
+  - **EN**: AutoBridge export-buyer reference — Geely Emgrand, petrol/diesel Chinese-market vehicle sedan
+  - **FR**: Référence AutoBridge pour acheteurs export — Geely Emgrand, véhicule thermique (marché chinois) berline
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Geely Emgrand, Verbrenner (chinesischer Markt) Limousine
+  - **ES**: Referencia AutoBridge para compradores de exportación — Geely Emgrand, vehículo de combustión (mercado chino) berlina
+  - **PT**: Referência AutoBridge para compradores de exportação — Geely Emgrand, veículo a combustão (mercado chinês) sedã
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Geely Emgrand, 中国市場仕様 内燃機関車 セダン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Geely Emgrand, 중국 시장 내연기관 차량 세단
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Geely Emgrand, xe động cơ đốt trong (thị trường Trung Quốc) sedan
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Geely Emgrand, รถเครื่องยนต์สันดาป (ตลาดจีน) รถเก๋งซีดาน
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Geely Emgrand, kendaraan mesin pembakaran (pasar Tiongkok) sedan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Geely Emgrand, مركبة بمحرك احتراق (سوق الصين) سيدان
+  - **ZH**: AutoBridge 出口采购参考｜Geely Emgrand, 中国市场燃油车 轿车
 
 ## Fuentes " Verificación "
 | Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |
 |---|---|---|---|---|---|---|
 | 4th-gen Emgrand 1.5L hoja de trímula CVT | Base de datos Sohu Auto | CN | https://db.m.auto.sohu.com/trim_173890 | 2026-09-03 | CROSS_CHECKED | Dimensiones, carril, asientos, referencia al precio |
-| 2024 Emgrand core config (93 kW, 5MT/CVT) | Xcar / Medios de Toutiao | CN | http://m.toutiao.com/group/7372041648991961639/ | 2026-09-03 | CROSS_CHECKED | 1.5L 93 kW, transmisiones |
+| 2024 Emgrand core config (93 kW, 5MT/CVT) | Xcar Medios de Toutiao | CN | http://m.toutiao.com/group/7372041648991961639/ | 2026-09-03 | CROSS_CHECKED | 1.5L 93 kW, transmisiones |
 | Comparación del parámetro de multiversión Emgrand | Base de datos de Dongchedi | CN | https://m.dongchedi.com/auto/params-carIds-110850-110851-110852-110853-100195-87624-87498-87499-80723-60266 | 2026-09-03 | CROSS_CHECKED | Base de ruedas, versiones, domestic MSRP (TIME_SENSITIVE) |
 | 5th-generation Emgrand launch (generational boundary) | China Economic Net (official media) | CN | http://auto.ce.cn/auto/gundong/202511/t20251120_2592304.shtml | 2026-09-03 | TIEMPO_SENSITIVE | 5th-gen tamaño/wheelbase/precio; distingue generaciones |
 | Fabricantes & catálogo de productos de vehículos de motor de carretera — sistema de consulta pública | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verificar el fabricante, modelo aprobado y homologación (公告) entrada de catálogo antes de ordenar o exportar |

@@ -32,7 +32,7 @@ Use o **Sistema Nacional de Informação de Crédito Empresarial (gsxt.gov.cn)**
 - Capital registado e pagamento no contexto, data de estabelecimento
 - ** Âmbito de aplicação das empresas** — deve incluir as vendas/exportações de veículos
 - Representante jurídico
-- ** Lista operacional-anomalia / grave-violação (lista negra) registros**
+- ** Lista operacional-anomalia grave-violação (lista negra) registros**
 
 Uma licença apresentada como uma fotografia não é prova; o comprador (ou um representante chinês) deve retirar o registo do GSXT de forma independente.
 
@@ -124,13 +124,13 @@ Uma verificação de licença prova que uma empresa existe, não que ela possa e
 | Como verificar a autenticidade da licença de negócio fornecedor China | Goodcan Trading (indústria, pontos GSXT.gov.cn) | NC | https://goodcantrading.com/how-to-check-china-supplier-business-license-authenticity/ | 2026-09-02 | CROSS_CHECKED | campos de verificação do gsxt |
 | Como verificar uma fábrica chinesa é legítima | Logística Global da Plutonia | NC/Global | https://www.plutoniaglobal.com/guides/verify-chinese-factory-legitimate | 2026-09-02 | CROSS_CHECKED | Consistência do nome da conta, auditoria de fábrica |
 | 8-step guia para verificar China auto exportação fornecedores | huajiame (indústria) | NC | https://www.huajiame.com/en-US/knowledge/how-verify-china-auto-export-supplier | 2026-09-02 | CROSS_CHECKED | Quadro de auditoria em camadas, AEO |
-| Notas relativas aos contratos de aquisição de veículos | 11467 (顺企网, indústria) | NC | https://m.11467.com/blog/d18906274.htm | 2026-09-02 | CROSS_CHECKED | Minimismo de videoauditoria ao vivo, verificação cruzada da declaração |
-| Procedimentos de exportação de camiões domésticos | Comércio de Guangzhou Pujiang (11467) | NC | https://guangzhou053049.11467.com/m/news/15260806.asp | 2026-09-02 | CROSS_CHECKED | Exportação através de entidade qualificada, cadeia de autorização |
+| Notas relativas aos contratos de aquisição de veículos | (顺企网, indústria) | NC | https://m.11467.com/blog/d18906274.htm | 2026-09-02 | CROSS_CHECKED | Minimismo de videoauditoria ao vivo, verificação cruzada da declaração | 11467
+| Procedimentos de exportação de camiões domésticos | Comércio de Guangzhou Pujiang | NC | https://guangzhou053049.11467.com/m/news/15260806.asp | 2026-09-02 | CROSS_CHECKED | Exportação através de entidade qualificada, cadeia de autorização | 11467
 
 * Nota de confiança (padrão AutoBridge): As regras de qualificação baseiam-se nas fontes primárias MOFCOM/MIIT (verIFIED),  now including the 2026 application notice (商办贸函〔2025〕408号)  and  No. 54 on pure-EV passenger export licensing. A lista qualificada do ano em curso e a consulta AEO são dinâmicas e devem ser verificadas ao vivo; os itens de checklist operacionais são fonte da indústria e apontam de volta para os sistemas oficiais. *
 
 ## Revisão Editorial
-- **Autor / revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)
+- **Autor revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)
 - ** Última revisão**: 2026-09-05
 - ** Mercado de referência**: China lado de exportação (aplica-se globalmente)
 - ** Método de verificação**: Documentos governamentais primários para a linha de base legal; guias da indústria para o processo operacional; listas dinâmicas deixadas para verificação ao vivo

@@ -4,10 +4,10 @@
 - ** عنوان المنظمة**: فوتون دايملر متعقب: دليل التصدير الصيني - المريخ
 - ** بيان المرصد**: فون دايملر من السوق الصينية رئيس جرار ثقيل China-V ISG and China-VI X13 lines, ZF/Fast Equipmentboxes, ~ 40 t GCW class, with the BEV kept as a separate line.
 - ** H1 **: Foton Daimler EST (China-V/VI) - Chinese-Market Heavy Tractor Truck Specs and Export checks
-- ** كلمة رئيسية رمزية**: فوتون دايملر حامــان/ 福田戴姆勒欧曼 EST 重型牵引车 (شاحنة التراك)
+- ** كلمة رئيسية رمزية**: فوتون دايملر 福田戴姆勒欧曼 EST 重型牵引车 (شاحنة التراك)
 - ** مصطلحات البحث الثانية**: تصدير شاحنات فولتون دايملر؛ جرار شاحنة صينية ثقيلة؛ X13 محرك؛ 6x4 جرارة
-- ** URL المقترض**: /مركبات/فولطون - أومان - أغرب جرارة/
-- ** الحلقة الدراسية**: 了解 Foton Daimler AUMAN / 福田戴姆勒欧曼 欧曼EST 重型牵引车（Tractor Truck） 中国版规格、配置与出口适配性（车型参数页）
+- ** URL المقترض**: /مركبات/فولطون - أومان - أغرب
+- ** الحلقة الدراسية**: 了解 Foton Daimler AUMAN 福田戴姆勒欧曼 欧曼EST 重型牵引车（Tractor Truck） 中国版规格、配置与出口适配性（车型参数页）
 - ** Internal Link Suggestions**: /vehicles/foton-auman-esttractor/, /guides/tir-road-transport-china-central-asia/, /guides/bill-ding-types-history/
 - ** نطاق الشيمة**: المادة + المركبات (لا منتج/منتج/مراجعة)
 
@@ -31,12 +31,12 @@ The **Foton Daimler AUMAN EST (欧曼 EST)** is a Chinese-market heavy tractor h
 | خط مستقل | 2026 纯电牵引申报: 双电机峰值 350kW, 总质量 25000kg | - | CHINA | SINGLE OURCE | 新浪财经 |
 
 ## عمليات التحقق من الصادرات: توليد الانبعاثات، والشبكة العالمية للأسلحة، والحدود الحدودية للمركبات
-Always state whether the unit is China-V (historical) or current China-VI; لا تقدم وحدة من طراز China-V كما هي حالية. Exact GCW, fifth-wheel load and GVW require the homologation announcement for the specific model code. ولا يُقبض على استهلاك الوقود/النوع بصورة موثوقة إما للديزل أو الديزل أو الدي في، وهو مُحجب. ملف جرارة الـ 2026 بي في (المحركة الـ 350 kW)  25 000 kg total mass) is reported as a **separate energy line**, ليس كبديل من الديزل
+Always state whether the unit is China-V (historical) or current China-VI; لا تقدم وحدة من طراز China-V كما هي حالية. Exact GCW, fifth-wheel load and GVW require the homologation announcement for the specific model code. ولا يُقبض على استهلاك بصورة موثوقة إما للديزل أو الديزل أو الدي في، وهو مُحجب. ملف جرارة الـ 2026 بي في (المحركة الـ 350 kW)  25 000 kg total mass) is reported as a **separate energy line**, ليس كبديل من الديزل
 
 ## التحقق من المشتري في الخارج قبل الدفع
 1. State China-V (historical) vs China-VI current; never relabel old as current.
 2. الحصول على حمولة من الـ (جي دبليو) و(بي.و)) من إعلان التشويش
-3. أبقوا الديزل و جرارات الدي في على أوامر/أوامر منفصلة
+3. أبقوا الديزل و جرارات الدي في على منفصلة
 4. Confirm ZF AMT vs كتيب سريع، مرحلة الانبعاث وقاعدة استيراد الوجهة.
 5. طلب اقتباس التصدير الحالي؛ ولا ينشر أي منها.
 
@@ -53,16 +53,16 @@ Always state whether the unit is China-V (historical) or current China-VI; لا 
 |---|---|---|---|---|---|---|
 | 欧曼 EST 车型文章 | 汽车之家车家号 | CN | T3 | صرخات | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/3133030?t=0x2233 | X12 动力، AMT |
 | 欧曼 EST-A 配置 | 汽车之家车家号 | CN | T3 | صرخات | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/2914236?t=0x2233 | ISGe5-460, ZF 变速 |
-| 欧曼 合作动力 | 汽车之家车家号 | CN | T3 | صرخات | https://chejiahao.m.autohome.com.cn/partner/yidian/article/3450841 | 潍柴/法士特配置 |
-| 欧曼EST 510 词条（T4线索） | 抖音百科 | CN | T4 | صرخات | https://m.baike.com/wiki/%E6%AC%A7%E6%9B%BCEST%20510/7562809276172075042 | 公告型号/国五参数线索 |
+| 欧曼 合作动力 | 汽车之家车家号 | CN | T3 | صرخات | https://chejiahao.m.autohome.com.cn/partner/yidian/article/3450841 | |（潍柴）（法士特配置）
+| 欧曼EST 510 词条（T4线索） | 抖音百科 | CN | T4 | صرخات | https://m.baike.com/wiki/%E6%AC%A7%E6%9B%BCEST%20510/7562809276172075042 | |（国五参数线索）（公告型号）
 | 欧曼纯电 /LNG 牵引车申报 | 新浪财经 | CN | T3 | صرخات | https://cj.sina.cn/article/norm_detail?froms=ttmp&url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Faigc%2Fxcsb%2F2026-08-07%2Fdoc-inimnrai3221568.shtml%3Ffinpagefr=ttzz | 2026 纯电申报 (独立新能源线، 勿混入燃油) |
-| موقع فوتون موتور الرسمي | Beiqi Foton Motor 福田汽车 (OEM) | CN | T1 | مفقود | https://www.foton.com.cn/ | الهوية التجارية/النموذجية وسلطة منظمة أوغ |
-| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | T1 | مفقود | https://www.miit.gov.cn/ | سلطة التشريح/الإلغاء؛ تأكيد النموذج الدقيق، والكتل، والرمز حسب الرقم القياسي/الإشعار |
+| موقع فوتون موتور الرسمي | Beiqi Foton Motor 福田汽车 (OEM) | CN | T1 | مفقود | https://www.foton.com.cn/ | الهوية وسلطة منظمة أوغ |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | T1 | مفقود | https://www.miit.gov.cn/ | سلطة تأكيد النموذج الدقيق، والكتل، والرمز حسب الرقم |
 | State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | مفقود | https://www.samr.gov.cn/ | المعايير الوطنية، ومنح الشهادات، والضوابط التنظيمية السوقية |
 ## استعراض التحرير
 - ** Author**: AutoBridge Export Editorial Team · [authors](/authors) · [Editorial Policy](editorial-policy/)
 - ** لم يُستعرض بعد**: 2026-09-05
-- ** سوق الإحالة**: الصين (المرجع المتعلق بالسوق الصينية؛ ويجب تأكيد الجماهير التجارية بالتشغيل/الشبكة)
+- ** سوق الإحالة**: الصين (المرجع المتعلق بالسوق الصينية؛ ويجب تأكيد الجماهير التجارية
 - ** طريقة الفرز**: بحوث مكتبية ضد المصادر الواردة أدناه؛ والمواصفات المرجعية للسوق الصينية فقط ما لم يُستشهد صراحة بسوق تصدير منفصلة.
 - ** الشفافية**: استُخدمت الصياغة المدعومة من منظمة العفو الدولية. وتستند هذه المادة إلى البحوث المكتبية وآلية الجودة. ولا يُزعم إجراء أي اختبار مباشر إلا إذا تم توثيقه بشكل صريح؛ ويؤكد متطلبات مراعية للوقت ومحددة للمقصد قبل التحول.
 
@@ -75,9 +75,9 @@ Always state whether the unit is China-V (historical) or current China-VI; لا 
 - ** لا يوجد أي من هذه الصفحات مضمونة - ليس من حق المنظمة الحصول على ترخيص تجاري لإعادة الاستخدام
 - ** CHECKED_DATE**: 2026-09-06
 - ** فوتون دايملر بالضبط شاحن بريطاني
-- ** MEIMAGE_SCOPE_NOTE**: يجب أن تتطابق الصورة مع النموذج المحدد للأسرة/المنظر فقط؛ ويجب ألا تنطوي على ثلاثية محددة، أو سنة نموذجية، أو تفتيش فعلي، أو عملية فعلية
+- ** MEIMAGE_SCOPE_NOTE**: يجب أن تتطابق الصورة مع النموذج المحدد فقط؛ ويجب ألا تنطوي على ثلاثية محددة، أو سنة نموذجية، أو تفتيش فعلي، أو عملية فعلية
 - **MAGE_Rights_STATUS**: FAIL
-- ** BLOCK_REASON**: لا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: لا يمكن الوصول إلى الشائعات/الفلك من بيئة البحوث، ولا تحتاج مكتبات المخزون إلى الوصول إلى نظام تسجيل الدخول/الرخصة الموثق، وصورة الموقع الشبكي لمنظمة أوم ليست منحة إعادة استخدام تجارية. لا توجد صورة مملوكة لـ(أوتومبريدج) وظل التسجيل في القوات المسلحة الفلسطينية بدلا من التأكيد عليه.
+- ** BLOCK_REASON**: لا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: لا يمكن الوصول إلى من بيئة البحوث، ولا تحتاج مكتبات المخزون إلى الوصول إلى نظام تسجيل الموثق، وصورة الموقع الشبكي لمنظمة أوم ليست منحة إعادة استخدام تجارية. لا توجد صورة مملوكة لـ(أوتومبريدج) وظل التسجيل في القوات المسلحة الفلسطينية بدلا من التأكيد عليه.
 - **ALT (12 languages)**:
   - **EN**: Foton Daimler AUMAN EST tractor, Chinese-market heavy tractor truck export buyer reference
   - **FR**: Foton Daimler AUMAN EST tractor, heavy tractor truck du marché chinois, référence acheteur export

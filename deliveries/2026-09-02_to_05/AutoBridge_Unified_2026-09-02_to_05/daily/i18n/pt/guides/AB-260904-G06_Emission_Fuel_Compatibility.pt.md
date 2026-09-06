@@ -1,8 +1,8 @@
 # China-VI Veículos Ultramarinos: Normas de Emissão, a Emenda 2026 e Compatibilidade com Combustíveis Os compradores devem verificar
 
 ## SEO Meta- dados
-- ** Título SEO**: China VI Emissions & Overseas Fuel Compatibility Guide — GB18352.6 / GB17691
-- ** Descrição do Meta**: Separação de direitos leves GB18352.6-2016 (emenda XG1-2026) de pesados GB17691-2018, China-VI diesel enxofre limites e risco DPF / SCR, e porque China VI nunca auto-iguals Euro ou aprovação EPA.
+- ** Título SEO**: China VI Emissions & Overseas Fuel Compatibility Guide — GB18352.6 GB17691
+- ** Descrição do Meta**: Separação de direitos leves GB18352.6-2016 (emenda XG1-2026) de pesados GB17691-2018, China-VI diesel enxofre limites e risco DPF SCR, e porque China VI nunca auto-iguals Euro ou aprovação EPA.
 - ** URL sugerido**: /guias/combustível-combinação-combustível-veículos-china
 - ** H1 **: Levando um veículo China-VI para o exterior: Que padrão de emissão se aplica, e o combustível local irá adotá-lo?
 - **Primary Keyword**: China 6 emissão padrão combustível exterior compatibilidade GB18352.6 GB17691
@@ -12,10 +12,10 @@
 - ** Sugestões ALT**: "Little-yold-yold GB18352.6 e pesado-yold GB17691 separados com verificação de compatibilidade do combustível"
 
 ## Por que "China VI" não é um número
-Os compradores frequentemente lêem "China VI / 国六 " como um único padrão. Não é: **veículos leves e pesados se encontram sob diferentes normas chinesas**, e uma norma de emissão também é distinta de **compatibilidade com combustíveis** e de ** aprovação de tipo de destino**. Este guia separa todos os três e estados exatamente onde os padrões oficiais da China terminam e verificação de destino começa.
+Os compradores frequentemente lêem "China VI 国六 " como um único padrão. Não é: **veículos leves e pesados se encontram sob diferentes normas chinesas**, e uma norma de emissão também é distinta de **compatibilidade com combustíveis** e de ** aprovação de tipo de destino**. Este guia separa todos os três e estados exatamente onde os padrões oficiais da China terminam e verificação de destino começa.
 
 ## Dever leve contra dever pesado — duas normas atuais
-| Âmbito de aplicação | Padrão chinês atual | Estado / datas |
+| Âmbito de aplicação | Padrão chinês atual | Estado datas |
 |---|---|---|
 | **Livros serviços** (M1/M2/N1 gasolina e diesel) | **GB 18352.6-2016 ** (China 6) | Sua ** Emenda No. 1, GB18352.6-2016/XG1-2026 **, foi emitida pelo ** Ministério da Ecologia e Ambiente (MEE) e SARM em 2026-04 e produz efeitos 2026-05-01 ** (a parte de extensão da homologação HEV de ** 2026-07-01 **) |
 | ** Diesel de serviço pesado** (veículos motorizados alimentados a gás) | **GB 17691-2018 ** (China 6) | Emitido em 2018-06-22, em vigor 2019-07-01, obrigatório; foi emitida uma alteração de 2026 no mesmo lote |
@@ -83,7 +83,7 @@ Os quadros externos são principalmente **UNECE/Euro** (Europa) e **US EPA** (Es
 | Anúncio MEE em GB17691-2018 produtos pesados China 6 | MEE | NC | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-04 | VERIFIED (primário) | Norma/datas de serviço pesado |
 | GB17691-2018 PDF oficial | MEE | NC | https://www.mee.gov.cn/ywgz/fgbz/bz/bzwb/dqhjbh/dqydywrwpfbz/201807/W020260430500008289846.pdf | 2026-09-04 | VERIFIED (primário) | Âmbito de aplicação dos direitos pesados |
 | GB19147-2016 road diesel (current, com XG1-2018) | SARR aberto | NC | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-04 | VERIFIED (primário) | Enxofre ≤ 10 mg/kg |
-| Risco de pós-tratamento de elevado teor de enxofre DPF/SCR | 11467 corpos de ensaio | NC | https://m.11467.com/product/d51123633.htm | 2026-09-04 | FONTE ÚNICA | Risco qualitativo após o tratamento |
+| Risco de pós-tratamento de elevado teor de enxofre DPF/SCR | corpos de ensaio | NC | https://m.11467.com/product/d51123633.htm | 2026-09-04 | FONTE ÚNICA | Risco qualitativo após o tratamento | 11467
 * Âmbito de prova: Normas/datas chinesas VERIFIED via fontes primárias MEE/SAMR; limites de Euro/EPA no exterior, especificações de combustível EN e qualquer conclusão de equivalência são bloqueadas enquanto se aguardam fontes primárias no exterior. *
 
 | 轻型车国六排放标准 GB18352.6-2016 (译文库条文) | ChinaAutoRegis(今日头条) | NC | http://m.toutiao.com/group/6758333762372633092/ | 2026-09-04 | FONTE ÚNICA | GB18352.6-2016 背景 (不作现行版本核心依据) |

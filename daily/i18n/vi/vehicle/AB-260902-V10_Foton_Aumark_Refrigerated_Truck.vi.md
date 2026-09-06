@@ -13,18 +13,18 @@
 
 ## Làm sao để xem một xe tải được giữ kín?
 
-Một cái đá ngầm thực sự là ba sản phẩm trong một cái: Một bộ khung, một hộp đựng hàng hóa được cách nhiệt và một bộ phận đông lạnh — thường được làm bởi các nhà sản xuất khác nhau. Comparing "reefer truck prices" without naming all three is misleading. Xe tham khảo là xe **Aumark Jieyun (捷运) 150 PS 4 × 2,  whole-vehicle announcement BJ5041XLC8JDA-AB1 (chassis BJ1041V9JDA-AB1)** with a 4.085 m reefer body; Foton cũng bán Suyun (速运) với quyền lực Foton Cummins. Những con số chi tiết về A Kiệt là mã nguồn riêng (360che); Các chi tiết về Cummin Suyun được kiểm tra chéo với tài liệu chính thức của Foton.
+Một cái đá ngầm thực sự là ba sản phẩm trong một cái: Một bộ khung, một hộp đựng hàng hóa được cách nhiệt và một bộ phận đông lạnh — thường được làm bởi các nhà sản xuất khác nhau. Comparing "reefer truck prices" without naming all three is misleading. Xe tham khảo là xe **Aumark Jieyun (捷运) 150 PS 4 × 2,  whole-vehicle announcement BJ5041XLC8JDA-AB1 (chassis BJ1041V9JDA-AB1)** with a 4.085 m reefer body; Foton cũng bán Suyun (速运) với quyền lực Foton Cummins. Những con số chi tiết về A Kiệt là mã nguồn riêng Các chi tiết về Cummin Suyun được kiểm tra chéo với tài liệu chính thức của Foton. 360che
 
 ## Canh lề và đường
 
-| Mục | Đề cập đến A Kiệt 150 (per 360che) |
+| Mục | Đề cập đến A Kiệt 150 (per | 360che
 |---|---|
-| Thông báo / lái | BJ5041XLC8JDA-AB1 / BJ1041V9JDA-AB1, 4 × 2, bánh xe cơ sở 3360 mm |
+| Thông báo lái | BJ5041XLC8JDA-AB1 BJ1041V9JDA-AB1, 4 × 2, bánh xe cơ sở 3360 mm |
 | Toàn bộ L×WH | 5.995 × 2.32 × 3.42 m |
-| Máy | Yunnei D25TCIF1, 2.5 L inline- 4 diesel, 110 kW (150 PS) / 400 N·m, Trung Quốc VI |
+| Máy | Yunnei D25TCIF1, 2.5 L inline- 4 diesel, 110 kW (150 PS) 400 N·m, Trung Quốc VI |
 | Hộp bánh răng | ZF 6-speed |
-| cong / Tốc độ tải / GVW | 3.2 t / 1.1 t / **4.495 t** |
-| Ty - rơ / Tốc độ tối đa | 7.00R16LT 8PR ×6; 95 km/h |
+| cong Tốc độ tải GVW | 3.2 t 1.1 t **4.495 t** |
+| Ty - rơ Tốc độ tối đa | 7.00R16LT 8PR ×6; 95 km/h |
 
 Alternative **Suyun** power (official/cross-checked): Foton Cemmins 2.8 L ở 156 PS, với 163 PS phiên bản ở 470 N·m. Nếu dịch vụ nhân tạo và nhân viên từ dài hạn quan trọng hơn chi phí thu nhập, so sánh với người Cummins có sức mạnh từ Suyun chống lại người Yunnei Jieyun hơn là chỉ chọn quyền lực.
 
@@ -48,10 +48,10 @@ Tài liệu tham khảo bị bắt liệt kê ba tuyến đường phù hợp (c
 Những câu hỏi về các đơn vị quyết định: Cần thiết thời gian định điểm và kéo xuống (đã kéo dài ~ 0 đến + 5 °C lần so với 18 °C được đông lạnh, đứng yên (cơ chế tự) và vận chuyển xe/máy nén, tạm dừng hoạt động điện cho phần bổ sung chứa, và — cực kỳ quan trọng cho dịch vụ nhập khẩu — **local và phụ tùng cho thương hiệu làm lạnh *. Một đơn vị Thermo King/Carrier nhập khẩu thì dễ dàng phục vụ ở nhiều nước hơn nhưng chi phí thì nhiều hơn; Một đơn vị nội địa cần một đường bộ phận đã được xác nhận.
 
 ## Tự độngBridge thêm gì ngoài một trích dẫn khó hiểu
-Refer trích dẫn thường giá một khung gầm và để lại hộp và đơn vị làm mát mơ hồ. Phương pháp khuyến khích là giữ cho **chasis / obcriation hộp / ercritoration đơn vị ba riêng biệt được chỉ định, riêng biệt giá cả *, phù hợp với vật liệu/tickity/K-giá trị K cộng với nhiệt độ của đơn vị (tọa độ) để điều hành khí hậu, và kiểm tra toàn bộ kết hợp chống lại thực phẩm đã định trước khi gửi tiền trước khi dùng.
+Refer trích dẫn thường giá một khung gầm và để lại hộp và đơn vị làm mát mơ hồ. Phương pháp khuyến khích là giữ cho **chasis obcriation hộp ercritoration đơn vị ba riêng biệt được chỉ định, riêng biệt giá cả *, phù hợp với vật liệu/tickity/K-giá trị K cộng với nhiệt độ của đơn vị (tọa độ) để điều hành khí hậu, và kiểm tra toàn bộ kết hợp chống lại thực phẩm đã định trước khi gửi tiền trước khi dùng.
 ## Sự khai thác trước khi thanh toán
 
-- Hãy thu thập thông số của **có thể tạo ra máy móc, hộp và hệ thống làm lạnh riêng biệt**, với số lượng mẫu; 360che con số là nguồn tin đơn.
+- Hãy thu thập thông số của **có thể tạo ra máy móc, hộp và hệ thống làm lạnh riêng biệt**, với số lượng mẫu; con số là nguồn tin đơn. 360che
 - Xác nhận **GVW (4.495 t tham khảo) và tải trọng mạng** một khi đã gắn vào hộp và đơn vị — người bán đá ngầm ăn hàng hóa, và phải đánh dấu điểm đến của hạng GVW này.
 - Xác nhận việc cho phép động cơ được phát hành tại đích (Trung Quốc VI không phải là bằng chứng tự động tuân thủ địa phương) và tính chất chất nhiên liệu thích hợp.
 - Xác định vị trí, bảng đo độ cách ly, bố trí cửa/đường sắt và khả năng viết đơn vị thương hiệu/hình lập.
@@ -60,7 +60,7 @@ Refer trích dẫn thường giá một khung gầm và để lại hộp và đ
 
 ## Yêu cầu một trích dẫn Xuất hiện thời
 
-Không có giá nào được thu — giá bán đá ngầm khác nhau nhiều hơn với việc xây dựng hộp và thương hiệu làm mát, vì vậy không có con số nào được phát minh. bao gồm **Destination Country* Quanty* Chassis/Engine (Yunnei 150 tương ứng với Cs Cummins 156/163) · Box to & I  / I ite · Yêu cầu nhiệt độ Biểu thức Biểu thức: Biểu diễn / chuẩn hoá mục / chuẩn hoá LHD/RD_ RD_ L· Incterion**, và yêu cầu mục lục khung lề/ cơ thể/ đơn vị phụ thuộc.
+Không có giá nào được thu — giá bán đá ngầm khác nhau nhiều hơn với việc xây dựng hộp và thương hiệu làm mát, vì vậy không có con số nào được phát minh. bao gồm **Destination Country* Quanty* Chassis/Engine (Yunnei 150 tương ứng với Cs Cummins 156/163) · Box to & I  I ite · Yêu cầu nhiệt độ Biểu thức Biểu thức: Biểu diễn chuẩn hoá mục chuẩn hoá LHD/RD_ RD_ L· Incterion**, và yêu cầu mục lục khung lề/ cơ thể/ đơn vị phụ thuộc.
 
 ## Người mua FAQ
 
@@ -83,24 +83,24 @@ Không có giá nào được thu — giá bán đá ngầm khác nhau nhiều h
 - TRONG SÁCH TRONG LINH: FAIL (không có giấy phép lấy được tài sản; một người giữ chỗ hoặc “không chấp nhận lời nhắn cũ của hình ảnh ”
 - - Không. Không thể bảo đảm ảnh có thể tái tạo: Wikimedia Commons/Flickr không thể tới từ môi trường nghiên cứu, thư viện chứng khoán yêu cầu quyền truy cập hệ thống ARI/licence, và một trang web OEM không phải là một tài trợ tái sử dụng thương mại; không có ảnh tự động của AutoBridge. Giữ FAIL thay vì khẳng định.
 - Theo ngôn ngữ:
-  - **EN**: AutoBridge export-buyer reference — Foton Aumark, petrol/diesel Chinese-market vehicle / refrigerated truck
-  - **FR**: Référence AutoBridge pour acheteurs export — Foton Aumark, véhicule thermique (marché chinois) / camion frigorifique
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Foton Aumark, Verbrenner (chinesischer Markt) / Kühl-Lkw
-  - **ES**: Referencia AutoBridge para compradores de exportación — Foton Aumark, vehículo de combustión (mercado chino) / camión frigorífico
-  - **PT**: Referência AutoBridge para compradores de exportação — Foton Aumark, veículo a combustão (mercado chinês) / caminhão refrigerado
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Foton Aumark, 中国市場仕様 内燃機関車 / 冷凍車
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Foton Aumark, 중국 시장 내연기관 차량 / 냉동·냉장 트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Foton Aumark, xe động cơ đốt trong (thị trường Trung Quốc) / xe tải lạnh
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Foton Aumark, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถบรรทุกห้องเย็น
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Foton Aumark, kendaraan mesin pembakaran (pasar Tiongkok) / truk berpendingin
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Foton Aumark, مركبة بمحرك احتراق (سوق الصين) / شاحنة مبردة
-  - **ZH**: AutoBridge 出口采购参考｜Foton Aumark, 中国市场燃油车 / 冷藏车
+  - **EN**: AutoBridge export-buyer reference — Foton Aumark, petrol/diesel Chinese-market vehicle refrigerated truck
+  - **FR**: Référence AutoBridge pour acheteurs export — Foton Aumark, véhicule thermique (marché chinois) camion frigorifique
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Foton Aumark, Verbrenner (chinesischer Markt) Kühl-Lkw
+  - **ES**: Referencia AutoBridge para compradores de exportación — Foton Aumark, vehículo de combustión (mercado chino) camión frigorífico
+  - **PT**: Referência AutoBridge para compradores de exportação — Foton Aumark, veículo a combustão (mercado chinês) caminhão refrigerado
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Foton Aumark, 中国市場仕様 内燃機関車 冷凍車
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Foton Aumark, 중국 시장 내연기관 차량 냉동·냉장 트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Foton Aumark, xe động cơ đốt trong (thị trường Trung Quốc) xe tải lạnh
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Foton Aumark, รถเครื่องยนต์สันดาป (ตลาดจีน) รถบรรทุกห้องเย็น
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Foton Aumark, kendaraan mesin pembakaran (pasar Tiongkok) truk berpendingin
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Foton Aumark, مركبة بمحرك احتراق (سوق الصين) شاحنة مبردة
+  - **ZH**: AutoBridge 出口采购参考｜Foton Aumark, 中国市场燃油车 冷藏车
 
 ## Nguồn và Định dạng
 
 | Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
-| Tham số vườn san hô Aumark A Kiệtyun 150 | 360che (卡车之家) | CN | http://product.m.360che.com/m441/110460_param.html | 2026-09-02 | ĐÃ_ ĐÃ | Thông báo, động cơ Yunnei, ZF6, tạ, hộp, tùy chọn đơn vị |
+| Tham số vườn san hô Aumark A Kiệtyun 150 | (卡车之家) | CN | http://product.m.360che.com/m441/110460_param.html | 2026-09-02 | ĐÃ_ ĐÃ | Thông báo, động cơ Yunnei, ZF6, tạ, hộp, tùy chọn đơn vị | 360che
 | Trang đá ngầm chính thức Ollin | Foton Olin (chính thức) | CN | https://ollin.foton.com.cn/car/zycshow/TaTn7qVL6p26qu6p7FrF5q | 2026-09-02 | VEII | Tùy chọn động cơ bán tải trung, chuỗi hộp |
 | Vụ giao hàng ở bãi san hô Suyun | Foton Olin (chính thức) | CN | https://ollin.foton.com.cn/ollin/static/html/8CLv714yzXPaamAd6STbfe.html | 2026-09-02 | VEII | 4.2 m đá ngầm, Cemmins 2.8,  18 m³, 3360 WB |
 | Bài báo về san hô Ollin | Dongchedi (懂车帝) | CN | https://www-lq.dongchedi.com/article/7579095048919908888 | 2026-09-02 | ĐÃ_ ĐÃ | Cummins 150/163 PS, 470 N·m |
@@ -114,7 +114,7 @@ Không có giá nào được thu — giá bán đá ngầm khác nhau nhiều h
 *Briendence Note (tự động Bridge: Sự thật về chất Clammin/Suyun được thực hiện dựa trên vật liệu Foton và kiểm tra chéo; những con số chi tiết về A Kiệt thoại là SINGLE_SOURCE (360che). Mô hình và giá trị của đơn vị được dựa trên xây dựng và không xác định giá; xác nhận bằng văn bản. ♪
 
 ## Xem lại tập tin
-- **Author / recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
+- **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
 - **Last xem lại**: 2026-09-05
 - ** chợ địa phương**: China, the speak-Sale figure
 - **Verification phương pháp**: chính thức là Foton cộng với một cơ sở dữ liệu thương mại độc lập; khung gầm/ body/ Unit giữ riêng biệt; các khe hở nguồn và giá cả được tiết lộ

@@ -3,11 +3,11 @@
 ## เชา ข้อมูลกํากับภาพ
 - < ESEO ชื่อเพลง ~: Chery Fulwin T9 C-DM Spects & ไกด์ส่งออก (อ้างอิงจีน)
 - ""คําอธิบาย" ร้านขายภาษาจีน เชอรีย์ ฟูลวิน T9 C-DM ปลั๊ก SUV ไฮบริดผสม (SUV) — 1.5T เครื่องที่อุทิศให้กับเครื่อง, 150 kW มอเตอร์ด้านหน้า 32.66 kWh แบตเตอรี่  120–220 km CLTC, 5/7 ที่นั่ง  and  เช็คผู้ส่งออก
-- ~ที่อยู่ URL ที่ถูกย่อ: / เวกซี่/เชอรี-ฟลอวิน- t9/ ~
+- ~ที่อยู่ URL ที่ถูกย่อ: เวกซี่/เชอรี-ฟลอวิน- ~ t9/
 - ** H1 ~: เชอรีย์ ฟูลวิน T9 C-DM: สแกน SUV แบบจีน-MCE PEV และส่งออกการตรวจสอบ
 - ~คีย์เวิร์ดของคณะรัฐมนตรี ~: Crey valy fluin t9 sports
 - ~การค้นหาตามวาระที่: ~ Fulwin T9 C-DM, 风云 T9 เสียบลูกผสม Chery T9 32.66kWh, Fulwin T9 7-seat, จีน (พ.ศ. ส่งออกไปยัง SUV แบบ PEV DE
-- ** เชื่อมโยงภายใน **. guides/v. ppining- un3556-imdg-compliance/; / viohles/ bid-l-dm-i/;//guides/ exportics-Vocycument-publication/
+- ** เชื่อมโยงภายใน **. guides/v. ppining- un3556-imdg-compliance/; viohles/ bid-l-dm-i/;//guides/ exportics-Vocycument-publication/
 - ข้อเสนอแนะ: Fulwin T9 three-quarter; พอร์ตชาร์จ; 5 vs 7 ผังที่นั่ง; พ.ศ. 1.5T ตรา C-DM; พ.ศ. พื้นที่สินค้า
 - ~~~~~~~~~ คําแนะนํา: "CDM Cery Fulwin T9 ปลั๊ก SUV พันธุ์ผสม". "Fulwin T9 32.66kWh แบตเตอรี่ CLTC เรนจ์"
 
@@ -18,8 +18,8 @@ Fulwin T9 เป็นซีดีเอ็มขนาดกลาง SUV ไ�
 | รายการ | Fulwin T9 C-DM (อ้างอิงจีน) |
 |---|---|
 | กลไก | 1.5 T เครื่องพีพีพียูที่อุทิศให้กับลูกผสม (115 kW/ 220 N·m เครื่องเท่านั้น; จีน- 6b) พ.ศ. |
-| มอเตอร์ด้านหน้า | 150 kW / 310 N·m |
-| การแสดงผลของระบบแบบรวม | ประมาณ 265 kW / 530 N·m |
+| มอเตอร์ด้านหน้า | 150 kW 310 N·m |
+| การแสดงผลของระบบแบบรวม | ประมาณ 265 kW 530 N·m |
 | การส่งภาพแบบผสม | DHT แบบเดี่ยว |
 | แบตเตอรีระยะไกล | ** 32.66 kWh ** |
 | ช่วงของไฟฟ้า | **120–220 km CLTC** (version-dependent; WLTC ตัว เลขประมาณ 160 km ยังได้อ้างอิงสําหรับรุ่นหนึ่งด้วย) |
@@ -29,13 +29,13 @@ Fulwin T9 เป็นซีดีเอ็มขนาดกลาง SUV ไ�
 สําหรับ PHED ผู้ส่งออกผิดพลาด... เครื่องยนต์ มอเตอร์ แบตเตอรี่ และชาร์จไฟพร้อมกัน 1.5T ตรงนี้เป็นเครื่องยนต์ที่ผลิตลูกผสม ขนาด 115 kW ตัวเท่านั้นของเครื่องยนต์นี้ไม่ใช่ระบบส่งออกมา -- เก็บทั้งสองเครื่องไว้ต่างหากตามสายสเปก
 
 ## ร่างกาย, การนั่งเรือและคาร์โก
-- ความยาว / ความกว้าง / ความสูง: **4795 / 1930 / 1738 mm** (some sources list 1741 mm height by trim)
+- ความยาว ความกว้าง ความสูง: **4795 1930 1738 mm** (some sources list 1741 mm height by trim)
 - เบส: ~ 2770 mm~
 - เบาะ: **5 or 7** — state which on the order
 - cargo: ~ 650 L, ประมาณ 1775 L ~ มีที่นั่งพับ (single-sources)
 
 ## มาตรฐาน T9 vs ยืด T9L — อย่า รวม
-- ~หน้านี้: มาตรฐาน T9~, 4795 mm / 2770 mm ล้อล้อ (ค.ศ.
+- ~หน้านี้: มาตรฐาน T9~, 4795 mm 2770 mm ล้อล้อ (ค.ศ.
 - ** เพิ่มขึ้น T9L ** มีประมาณ 4870 mm คน โดยมีล้อล้อ 2920 mm คัน (พ.ศ. มันเป็นรถล้อยาว; ผสมมิติหรือที่นั่งของตนอ้างเป็นมาตรฐาน T9 คําสั่งเป็นการตั้งค่าผิดพลาด
 - ช่วงขั้นตอนและผังที่นั่งต่าง ๆ กันไป the 120–220 km spread is not a single number for one car.
 
@@ -44,10 +44,10 @@ Fulwin T9 เป็นซีดีเอ็มขนาดกลาง SUV ไ�
 2. ~ความจุของแบตเตอรี่และช่วงวงจรของ ~ — 32.66 kWh ระยะทางยาว vs ขนาดเล็กกว่า; ตรา CLTC vS WLTC และเก็บรวมความเชื่อของผู้ผลิตรวมเข้าด้วยกัน
 3. ** นับเนื้อ -- ** (5 vs 7) ตรงกับตัววีน (in) (พ.ศ.
 4. ** กําลังเชื่อมต่อและ ฮาร์ดแวร์ DC/AC*[บอกมาตรฐานปลายทาง; PHEV battery shipping documents (UN38.3 summary) per the IMDG 42-24 guide.
-5. ** คลาสลงทะเบียน/ bried ~ และสร้างเอกสารเต็มเต็มตามรายการรายการเอกสารส่งออก
+5. ** bried ~ และสร้างเอกสารเต็มเต็มตามรายการรายการเอกสารส่งออก
 
 ## ต้องการการอ้างถึงการส่งออกแบบปัจจุบัน
-ไม่มีการจัดพิมพ์ราคาส่งออก The Chinese 2024 guide range (roughly RMB 129, 900–169 (พ.ศ. 900) เป็นภาษาไทย พ.ศ. การอ้างอิงที่ไวต่อเวลา ไม่ใช่ FOB/CIF Enquire with ~ ดินแดน  December quantity hy แบตเตอรี/Sitith Trim HD/RHD ท่าเทียบท่า ATHHD INcotery ~.
+ไม่มีการจัดพิมพ์ราคาส่งออก The Chinese 2024 guide range (roughly RMB 129,900–169 (พ.ศ. 900) เป็นภาษาไทย พ.ศ. การอ้างอิงที่ไวต่อเวลา ไม่ใช่ FOB/CIF Enquire with ~ ดินแดน  December quantity hy แบตเตอรี/Sitith Trim HD/RHD ท่าเทียบท่า ATHHD INcotery ~.
 
 ## คํา ถาม ที่ มัก จะ ถาม บ่อย ๆ
 "ฟยุลวิน T9 ใกล้เคียงกับ T9L หรือเปล่า" ไม่ T9L เป็นรถที่ยาวกว่าล้อ (ประมาณ 4870 mm/ 2920 mm) และถูกกันออกจากแผ่นมาตรฐาน-T9 นี้
@@ -63,28 +63,28 @@ Fulwin T9 เป็นซีดีเอ็มขนาดกลาง SUV ไ�
 - ลิขสิทธิ์: ไม่ยืนยัน
 - LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
 - _กําหนดวันที่: 2026-09-06
-- MERCUL_ TOPIC_ MATCH: ต้องตรงกับรุ่น/ การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
-- CHAR_SCPE_NOTE: ตรงกับโมเดลที่เป๊ะของครอบครัว/ topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
+- MERCUL_ TOPIC_ MATCH: การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
+- CHAR_SCPE_NOTE: topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
 - March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
 - BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
 - ALT ด้วยภาษา:
-  - **EN**: AutoBridge export-buyer reference — Chery Fulwin T9, plug-in hybrid vehicle / SUV
-  - **FR**: Référence AutoBridge pour acheteurs export — Chery Fulwin T9, véhicule hybride rechargeable / SUV
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Chery Fulwin T9, Plug-in-Hybridfahrzeug / SUV
-  - **ES**: Referencia AutoBridge para compradores de exportación — Chery Fulwin T9, vehículo híbrido enchufable / SUV
-  - **PT**: Referência AutoBridge para compradores de exportação — Chery Fulwin T9, veículo híbrido plug-in / SUV
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Chery Fulwin T9, プラグインハイブリッド車 / SUV
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Chery Fulwin T9, 플러그인 하이브리드 차량 / SUV
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Chery Fulwin T9, xe hybrid sạc ngoài / SUV
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Chery Fulwin T9, รถปลั๊กอินไฮบริด / รถเอสยูวี
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Chery Fulwin T9, kendaraan hybrid plug-in / SUV
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Chery Fulwin T9, مركبة هجينة قابلة للشحن / سيارة دفع رباعي
-  - **ZH**: AutoBridge 出口采购参考｜Chery Fulwin T9, 插电混动车 / SUV
+  - **EN**: AutoBridge export-buyer reference — Chery Fulwin T9, plug-in hybrid vehicle SUV
+  - **FR**: Référence AutoBridge pour acheteurs export — Chery Fulwin T9, véhicule hybride rechargeable SUV
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Chery Fulwin T9, Plug-in-Hybridfahrzeug SUV
+  - **ES**: Referencia AutoBridge para compradores de exportación — Chery Fulwin T9, vehículo híbrido enchufable SUV
+  - **PT**: Referência AutoBridge para compradores de exportação — Chery Fulwin T9, veículo híbrido plug-in SUV
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Chery Fulwin T9, プラグインハイブリッド車 SUV
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Chery Fulwin T9, 플러그인 하이브리드 차량 SUV
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Chery Fulwin T9, xe hybrid sạc ngoài SUV
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Chery Fulwin T9, รถปลั๊กอินไฮบริด รถเอสยูวี
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Chery Fulwin T9, kendaraan hybrid plug-in SUV
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Chery Fulwin T9, مركبة هجينة قابلة للشحن سيارة دفع رباعي
+  - **ZH**: AutoBridge 出口采购参考｜Chery Fulwin T9, 插电混动车 SUV
 
 ## ต้นฉบับและการตรวจสอบสิทธิ์
 | ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| GB 38031 แรงดึงดูด-แบททีรี ความปลอดภัย (มาตรฐานสากล) | SAMR / มาตรฐาน | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | เปิดใช้งาน | ฐานความปลอดภัยแบบ Traction-Batry เกี่ยวข้องกับกลุ่มที่ก่อสร้าง C-DM |
+| GB 38031 แรงดึงดูด-แบททีรี ความปลอดภัย (มาตรฐานสากล) | SAMR มาตรฐาน | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | เปิดใช้งาน | ฐานความปลอดภัยแบบ Traction-Batry เกี่ยวข้องกับกลุ่มที่ก่อสร้าง C-DM |
 | GB 18352.6-2016/XG1-2026 จํากัดการปล่อยแสงจากกระดูกสะบ้า (จีน 6)) พ.ศ. | กระทรวง นิเวศ วิทยา และ สิ่ง แวด ล้อม | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | เปิดใช้งาน | จีนในปัจจุบัน- 6 กรอบปล่อยก๊าซสําหรับเครื่องที่อุทิศ 1.5T (อ้างอิง ไชนา- 6b) |
 | Fulwin T9 ตารางการปรับแต่งอย่างเป็นทางการ | เชอรีย์ ฟูลวิน (OEM) | CN | https://fulwin.chery.cn/vehicles/t9/config/ | 2026-09-04 | ISWIIE (OEM) | แบตเตอรี, มิติ, ที่นั่ง, ชาร์จ, รุ่น |
 | Fulwin T9 มือบน (ize/model ear) | ดองเดกิ | CN | https://m.dongchedi.com/article/7506038314424730131 | 2026-09-04 | ROOS_ CHCKED | ขนาด ขอบเขตปีโมเดล |

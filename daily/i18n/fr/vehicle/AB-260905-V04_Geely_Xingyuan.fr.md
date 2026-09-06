@@ -1,13 +1,13 @@
-# Geely Xingyuan / Galaxy Xingyuan (2025/2026) — Spécifications du marché chinois et vérification des exportations
+# Geely Xingyuan Galaxy Xingyuan (2025/2026) — Spécifications du marché chinois et vérification des exportations
 
 ## OEuvre Métadonnées
 - ** Titre du référencement**: Geely Xingyuan (Galaxy Xingyuan) BEV: Spécifications du marché chinois et Guide d'exportation
 - **Description détaillée**: Marché chinois Geely Xingyuan/Starwish petite EV: Architecture GEA, - Le moteur de propulsion,  58/85 kW motors,  310/410 km CLTC, Ligne 40.16 kWh  and  contrôle des acheteurs d'exportation.
-- ** H1 **: Geely Xingyuan / Galaxy Xingyuan (2025/2026) — Spécifications du marché chinois et vérification des exportations
-- **Mot-clé principal**: Geely / 吉利 Xingyuan / 吉利星愿 (Galaxy 星愿) spécifications exportation
+- ** H1 **: Geely Xingyuan Galaxy Xingyuan (2025/2026) — Spécifications du marché chinois et vérification des exportations
+- **Mot-clé principal**: Geely 吉利 Xingyuan 吉利星愿 (Galaxy 星愿) spécifications exportation
 - ** Termes de recherche secondaires**: exportation de Xingyuan Geely; spécifications Galaxy Xingyuan; Starwish Geely; petit éclos électrique chinois; CLTC ville EV
 - **URL suggérée**: /véhicules/geely-xingyuan/
-- **Intention de la recherche**: 了解 Geely / 吉利 Xingyuan / 吉利星愿 (Galaxy 星愿) 中国版规格 -配置与出口适配性 (车型参数页)
+- **Intention de la recherche**: 了解 Geely 吉利 Xingyuan 吉利星愿 (Galaxy 星愿) 中国版规格 -配置与出口适配性 (车型参数页)
 - **Suggestions de lien interne**: /véhicules/geely-xingyuan/, /guides/ev-shipping- un3556-imdg-compliance-history/, /guides/export-conformité-sanctions-screening-end-user/
 - **Schema Champ d'application**: article + véhicule (aucun produit/offre/examen)
 
@@ -15,24 +15,24 @@
 Le **Geely Xingyuan (Galaxy Xingyuan, commercialisé sur certains marchés d'exportation sous un nom anglais distinct)** est un hayon électrique à batterie à cinq portes de A0 sur l'architecture de Geely **GEA** EV, avec **réarise-moteur/roue arrière-roue**. Cette page est la référence ** du marché chinois**; un nom de modèle étranger n'est pas traité comme identique sans une déclaration d'OEM.
 
 ## Groupe motopropulseur électrique et lignes de distribution
-- **Body**: 4135 / 1805 / 1570 (STAR 限定版车长 4155) mm (STAR édition 4155 mm long), empattement 2650 mm, 5 门 5 座; 后置后驱.
-- **Moteurs**: 58 / 85 kW options.
+- **Body**: 4135 1805 1570 (STAR 限定版车长 4155) mm (STAR édition 4155 mm long), empattement 2650 mm, 5 门 5 座; 后置后驱.
+- **Moteurs**: 58 85 kW options.
 - ** Batterie**: 磷酸铁锂; la ligne de capacité capturée est 40.16 kWh pour la voiture à plus longue portée. Un fournisseur de cellules spécifique n'apparaît que dans les comptes encyclopédie/média et n'est **pas confirmé par les OEM**, donc il est retenu.
-- **Range**: 310 / 410 km CLTC (coché) — cycle d'essai chinois, non WLTP.
+- **Range**: 310 410 km CLTC (coché) — cycle d'essai chinois, non WLTP.
 - **Cargo**: 375 (前备厢 70, 后排放倒 1320) L; plate-forme GEA 纯电架构.
 - **La puissance de charge de la pédale n'est pas saisie de façon fiable et n'est pas indiquée. **
 
 ## Tableau des spécifications vérifiées (référence du marché chinois)
 | Spécification | Valeur | Unité | Marché | Confiance | Note de source |
 |---|---|---|---|---|---|
-| hauteur de largeur de longueur | 4135 / 1805 / 1570 (STAR 限定版车长 4155) | mm | CHINE | _CHECTURE | 搜狐双页 |
+| hauteur de largeur de longueur | 4135 1805 1570 (STAR 限定版车长 4155) | mm | CHINE | _CHECTURE | 搜狐双页 |
 | empattement | 2650 | mm | CHINE | _CHECTURE | 搜狐 + 腾讯 |
 | Sièges | 5门5座 | - Je suis désolé. | CHINE | SOURCE UNIQUE | 搜狐车型库 |
 | présentation | 后置后驱 | - Je suis désolé. | CHINE | SOURCE UNIQUE | 腾讯新闻 |
-| options de puissance du moteur | 58 / 85 | kW | CHINE | SOURCE UNIQUE | 搜狐汽车 |
+| options de puissance du moteur | 58 85 | kW | CHINE | SOURCE UNIQUE | 搜狐汽车 |
 | type de batterie | 磷酸铁锂 | - Je suis désolé. | CHINE | SOURCE UNIQUE | 搜狐汽车 |
 | Capacité de la batterie 410 | 40.16 | k Qu'est-ce que c'est ? | CHINE | SOURCE UNIQUE | 搜狐汽车 |
-| gamme cltc | 310 / 410 | km | CHINE | _CHECTURE | 搜狐 + 腾讯 |
+| gamme cltc | 310 410 | km | CHINE | _CHECTURE | 搜狐 + 腾讯 |
 | volume de chargement | 375 (前备厢 70, 后排放倒 1320) | L | CHINE | SOURCE UNIQUE | 搜狐车型库 |
 | plate-forme | GEA 纯电架构 | - Je suis désolé. | CHINE | SOURCE UNIQUE | 腾讯新闻 |
 

@@ -23,8 +23,8 @@ Voici un instantané des offres d'usine-RHD. La plupart des listes de marques pr
 |---|---|---|---|
 | MG (SAIC) | MG4, MG ZS, MG HS, MG5, MG Extender (décrit par une source de services d'exportation comme l'une des gammes RHD de marque la plus large de Chine) | Afrique du Sud, Royaume-Uni, Australie, Thaïlande, Inde, Sri Lanka | Source de l'industrie — vérifier |
 | BUDGET | A 3 (Yuan Plus) nom d'exportation, Dolphin, Sceau | Australie, Royaume-Uni, Thaïlande, Japon | Source de l'industrie — vérifier |
-| GWM / Haval / ORA | Haval H6, Jolion, ORA 03, Tank 300 (marchés sélectionnés) | Afrique du Sud, Australie, Thaïlande, Royaume-Uni, Kenya | Source de l'industrie — vérifier |
-| Geely / Zeekr | Geely EX5 a été rapporté comme étant conçu avec des lignes parallèles LHD/RHD depuis le développement; plusieurs modèles Geely/Zeekr RHD | Royaume-Uni, Irlande, Australie, Nouvelle-Zélande, Malaisie, Hong Kong | Source de l'industrie — vérifier |
+| GWM Haval ORA | Haval H6, Jolion, ORA 03, Tank 300 (marchés sélectionnés) | Afrique du Sud, Australie, Thaïlande, Royaume-Uni, Kenya | Source de l'industrie — vérifier |
+| Geely Zeekr | Geely EX5 a été rapporté comme étant conçu avec des lignes parallèles LHD/RHD depuis le développement; plusieurs modèles Geely/Zeekr RHD | Royaume-Uni, Irlande, Australie, Nouvelle-Zélande, Malaisie, Hong Kong | Source de l'industrie — vérifier |
 | Hongqi | RHD nouvelle énergie poussée à travers 2026; Centre d'expérience de Hong Kong rapporté à partir de juillet 2026 | Royaume-Uni, Australie, Nouvelle-Zélande, Singapour, Thaïlande, Malaisie, Indonésie | Médias/agrégateur — vérifier |
 | Dongfeng Forthing | **Données officielles**: entrée en Thaïlande Mars 2026 avec VUS NEV RHD "FRIDAY" et V9 construits pour les marchés RHD | Thaïlande | ** Fonctionnaires (Dongfeng)** |
 | Changan Qiyuan (en tant que NEVO) | Q05 shown as NEVO Q05 at the March 2026 Bangkok motor show (Thai RHD prospect) | Thaïlande | Médias — vérifier |
@@ -97,12 +97,12 @@ Les vendeurs affirment la disponibilité de la RHD sans distinguer une ligne d'u
 | Modèles Geely/Zeekr prêts à l'emploi pour la RHD | FOBEV (service à l'exportation) | Marchés de la RHD | https://www.fobev.com/vehicles/rhd-ready/ | 2026-09-02 | _CHECTURE | Geely EX5 parallèle LHD/RHD, Zeekr RHD (industrie; vérifier) |
 | Dongfeng Forthing entre en Thaïlande (officiel) | Groupe moteur Dongfeng (officiel) | TH | https://www.dfmc.com.cn/news/company/news_20260311_1142.html | 2026-09-02 | VÉRIFIER | Mars- 2026 Entrée en Thaïlande, VENDREDI/ V9 (VÉRIFIÉ) |
 | Changan NEVO Q05 Début du spectacle de Bangkok | Autohome 车家号 (médias) | TH | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/25092921 | 2026-09-02 | _CHECTURE | NÉVO Q05 Thai RHD prospect (média; vérifier) |
-| Stratégie RHD de Hongqi / contexte du marché RHD | smzdm (agrégateur); AutoReport (industrie) | Marchés de la RHD | https://post.m.smzdm.com/p/aqrp0mkp/ https://m.autoreport.cn/guoji/20260829/19112676566.html | 2026-09-02 | _CHECTURE | Hongqi RHD pouss; ~ 35% ventes mondiales sur les marchés de la RHD |
+| Stratégie RHD de Hongqi contexte du marché RHD | smzdm (agrégateur); AutoReport (industrie) | Marchés de la RHD | https://post.m.smzdm.com/p/aqrp0mkp/ https://m.autoreport.cn/guoji/20260829/19112676566.html | 2026-09-02 | _CHECTURE | Hongqi RHD pouss; ~ 35% ventes mondiales sur les marchés de la RHD |
 
 * Note de confiance (standard AutoBridge): seul le lancement de Dongfeng en Thaïlande RHD est VERIFIED (officiel fabricant). Les listes de modèles de marque sont des instantanés de services d'exportation/médias (SINGLE_SOURCE) qui changent fréquemment et doivent être confirmés sur les canaux officiels de marque/distributeurs locaux par VIN. La légalité de la conversion après le marché n'a pas été vérifiée et est considérée comme un risque. *
 
 ## Révision de la rédaction
-- **Auteur / réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)
+- **Auteur réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)
 - **Dernière révision**: 2026-09-05
 - **Marché de référence**: marchés mondiaux de la RDT (sourcing de la Chine)
 - **Méthode de vérification**: Un lancement officiel plus des instantanés de l'industrie; disponibilité délibérément laissé à la confirmation officielle par VIN

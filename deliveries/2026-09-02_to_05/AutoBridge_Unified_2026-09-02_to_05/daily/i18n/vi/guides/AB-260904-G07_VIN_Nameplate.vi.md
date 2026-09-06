@@ -7,7 +7,7 @@
 - ** H1 **: Danh sách và bảng tên cho một chiếc xe của Trung Quốc: Cấu trúc, chuẩn và ghép bốn chuỗi
 - ** Từ khoá bí mật **: Bức tranh sơn tên GB16735 phương tiện Trung Quốc
 - **Secondary Search termss**: cấu trúc _NĐ VDS VIS, GB16735-2019 VIN, VIN kiểm tra vị trí số 9, chứng nhận tên người dùng nhất quán, đã được đặt sửa đổi VIN
-- **I nội bộ Link gợi ý:: //guides/export-vehic-doc- wrap/; /guides/childa-exc-statutory-insution-decation /; /vehles/jac- t9-hunter/
+- **I nội bộ Link gợi ý: wrap/; /guides/childa-exc-statutory-insution-decation /vehles/jac- t9-hunter/
 - **Image gợi ý**: 17-char đoạn sơ đồ VAN; danh sách trùng nhau bốn chỗ; đóng dấu băng VIN
 - **LT " 17 ký tự VIN chia thành WMI VDS VIS dưới GB16735-2019"
 
@@ -29,7 +29,7 @@ Nhân vật đầu tiên của WMI được phân bổ bởi một cơ thể có
 So sánh 17 ký tự trên bốn địa điểm  and  Hãy xác nhận là không có tiếng xay, Đóng dấu lại hoặc cầu nguyện quá nhiều:
 1. **Stamed/chiselled VAN trên cơ thể** (chasis).
 2. **VIN trên bảng tên**.
-3. **VIN trên chứng nhận của sự phù hợp / nhà máy**.
+3. **VIN trên chứng nhận của sự phù hợp nhà máy**.
 4. **VIN trên tài liệu vận chuyển** (B/L, inport, di chuyển).
 
 Bất kỳ sự khác biệt nhân vật, thay đổi bằng chứng, hoặc tài liệu-vs-người là một điểm bền: giải quyết nó với nhà cung cấp và hồ sơ phân phối ** trước khi** thanh toán và đặt chỗ, bởi vì nhà chức trách đăng ký so sánh cùng bốn địa điểm.
@@ -43,7 +43,7 @@ Bất kỳ sự khác biệt nhân vật, thay đổi bằng chứng, hoặc tà
 
 ## Những lời hướng dẫn này giới hạn
 - Không có thư mục _mục đích- để làm_nên bộ_việc- chức năng (đang yêu cầu bảng sắp xếp).
-- Không có quy tắc "động vật" tuyệt đối = quốc gia sản xuất"
+- Không có quy tắc "động vật" tuyệt đối quốc gia sản xuất"
 - Định dạng tập tin VIN/regation được quản lý trên mỗi nước đích.
 
 ## Những câu hỏi thường xuyên

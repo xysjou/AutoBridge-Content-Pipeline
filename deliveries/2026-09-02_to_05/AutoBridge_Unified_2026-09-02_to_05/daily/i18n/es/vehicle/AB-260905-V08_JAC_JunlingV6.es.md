@@ -4,10 +4,10 @@
 - **SEO Título**: JAC Junling V6 Light Truck: Chinese-Market Specs & Export Buyer Guide
 - **Meta Descripción**: Chinese-market JAC Junling V6 blue-plate light cargo truck: Yunnei D25 diesel, línea Ankang 160, caja de carga, GVW/payload, y la gruta de masa de un solo grupo.
 - ** H1 **: JAC Junling V6 (2024/2025) — Chino-Marco de la luz de las especificaciones y controles de exportación
-- **Primary Keyword**: JAC / 江淮 骏铃 V6 轻卡 (Camión de Luz) las especificaciones de exportación
+- **Primary Keyword**: JAC 江淮 骏铃 V6 轻卡 (Camión de Luz) las especificaciones de exportación
 - **Segundary Search Terms**: JAC Junling V6 export; Camión ligero Jianghuai; camión de carga chino; camión de placa azul; Yunnei D25
 - ** URL agregada**: /vehicles/jac-junling- v6/
-- **Intent de búsqueda**: 了解 JAC / 江淮 骏铃 V6 轻卡 (Camión de luz) 中国版规格, 配置与出口适配性 (车型参数页)
+- **Intent de búsqueda**: 了解 JAC 江淮 骏铃 V6 轻卡 (Camión de luz) 中国版规格, 配置与出口适配性 (车型参数页)
 - **Sugerencias de Enlace Interno**: /vehículos/junio de la organización-v6/, /guides/vehículo-export-hs-código-historia/, /guides/china-export-costos-declaración-ventana de la ventana/
 - **Esquema de alcance**: Artículo + Vehículo (no Producto/Offer/Review)
 
@@ -37,9 +37,9 @@ Los datos del motor y de la caja de carga provienen de una fuente de carga de ca
 Para los compradores de distribución de ciudades el punto de configuración de pedidos que más a menudo causa disputas es **que figura gobierna la carga legal en el mercado de destino**. Una clasificación de placa azul china, una carga útil de fábrica y un límite de carga de eje de destino son tres números diferentes; el camión debe ser especificado contra la regla de destino vinculante en lugar de la más generosa de los tres. La longitud de la rueda y la caja de carga también interactúa con el círculo de giro y las restricciones de longitud locales, por lo que una caja elegida sólo para maximizar el volumen puede crear un vehículo que es incómodo en las rutas urbanas estrechas. Confirme GVW, masa de kerb, carga útil, base de ruedas y dimensiones de caja como uno emparejado en la forma pro, y requiera que el proveedor atar cada figura de masa a su fuente antes de depósito.
 
 ## Verificación del comprador de ultramar antes del pago
-1. Confirme GVW 4.495 t / carga de pago 1.735 t contra el anuncio MIIT o la hoja JAC OEM.
+1. Confirme GVW 4.495 t carga de pago 1.735 t contra el anuncio MIIT o la hoja JAC OEM.
 2. Coincide con las dimensiones internas de la caja de carga al cuerpo previsto.
-3. Motor de confirmación (Yunnei D25 / Ankang 160), caja de cambios y eje trasero para soporte de piezas.
+3. Motor de confirmación (Yunnei D25 Ankang 160), caja de cambios y eje trasero para soporte de piezas.
 4. Verificar el estado de emisión diesel y destino GVW/clase de reducción.
 5. Solicitar una cotización de exportación actual; ninguna se publica.
 
@@ -47,7 +47,7 @@ Para los compradores de distribución de ciudades el punto de configuración de 
 **¿Son las cifras de la carga útil finales?** Son de un solo proveedor aquí; confirmen a través de la homologación antes de confiar en ellos.
 **¿Hay una versión de RHD?** No se establece en estas fuentes.
 ¿Cuál es la clase de azul-plato?** Sub- 4.5 t GVW camión de la ciudad en China; la licencia de destino difiere.
-¿Engine? Yunnei D25TCIF1 2.5 L diesel, 150 hp / 400 N·m en la línea capturada.
+¿Engine? Yunnei D25TCIF1 2.5 L diesel, 150 hp 400 N·m en la línea capturada.
 **¿Dónde están los detalles del neumático/axila?** No capturado; solicite la hoja de construcción OEM.
 
 

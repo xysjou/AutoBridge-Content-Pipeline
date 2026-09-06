@@ -3,11 +3,11 @@
 ## เชา ข้อมูลกํากับภาพ
 - **SEO Title**: ขนาด JMC ชุนดะ รถเข็นแสง และส่งออกคําแนะนํา (GVW 4.27t, จีน- 6)
 - ""คําอธิบาย" ประเทศจีน- ตลาด JMC ชุนดะ รถไฟฟ้าสีเงิน JX493 December 90 kW GVW 4.27 t (พ.ศ. 3700 mm เตียงวางข้างเตียง เบสล้อ  and  วงกลมหมุน บวกกับกระสุน  and  ต้องการผู้ส่งออกผู้ส่งถ่าย
-- ~ที่อยู่ URL ที่ถูกย่อ: / เวกซี่/jmc-sunda/
+- ~ที่อยู่ URL ที่ถูกย่อ: เวกซี่/jmc-sunda/
 - ~ H1 ~: JMC ชุนดะ: ฟิล์มจีน- ฟิล์มสี- หมึกสี, GVW และ Cargo Spects สําหรับส่งออก
 - ~ คําหลัก ๆ ~: jmc leftda sport carbase
 - ~การค้นหาตามวาระของรายการย่อย ~: JMC ชุนดา JX493 顺达小卡 รถขนแสงจีนจีวีดับเบิลยู, รถขนน้ํามันเจเอ็มซี, จีน- 6 ดีเซล
-- ~ ลิงก์ภายในแนะนํา~ *: / Guides/Viphic-export-hs-code-sclassive/;/guides/ful-fulution-compactition-china-Vicles/;/ volicles/ongfang-ten-jin-r.r./
+- ~ ลิงก์ภายในแนะนํา~ *: Guides/Viphic-export-hs-code-sclassive/;/guides/ful-fulution-compactition-china-Vicles/;/ volicles/ongfang-ten-jin-r.r./
 - ~คําแนะนําการอพยพ~: ด้านข้างของชุนดะ; เตียงสินค้า; JX493 เครื่องยนต์; กรอบ chasis; รถแท็กซี่
 - "JMC ชุนดะ รถตกรางสีเงิน"". "Sunda 3700mm เตียงสินค้า GV 4.27t".
 
@@ -22,7 +22,7 @@
 | เตียงข้างเตียง (Legwegh) | **3700 × 1850 × 380 mm** |
 | น้ําหนักรถสกปรก (GVW) | **4.27 t** |
 | น้ําหนักของเส้นโค้ง | about **2.145 t** (the 3.7 m box-van version is about 2.435 t) |
-| จํานวนดาวน์โหลดที่เฉลี่ย | about **1.93–2.0 t — final value per the MIIT announcement / certificate** |
+| จํานวนดาวน์โหลดที่เฉลี่ย | about **1.93–2.0 t — final value per the MIIT announcement certificate** |
 | เบสของล้อ | **2800 mm** |
 | หมุนวงกลม | **5.5 m** |
 | การ ปลด ปล่อย | จีน- 6 ดีเซล |
@@ -30,7 +30,7 @@
 ค่าใช้จ่ายเป็นตัวเลขที่ส่วนใหญ่ทําให้เกิดปัญหาการยอมตาม: การตลาด "ประมาณสองตัน" ไม่ใช่การจัดอันดับตามกฎหมาย The Authalcult ploaded parties is one on the Newter offle และ cary's Authority of alseit" และเปลี่ยนด้วยตัวพิมพ์ (Dleps vsbox Van) และน้ําหนักที่ควบคุมได้
 
 ## ขอบเขตของกลไก
-- ~ JX493ZLQ6D (หน้านี้): 2.499 L, 90 kW / 122 PS ~
+- ~ JX493ZLQ6D (หน้านี้): 2.499 L, 90 kW 122 PS ~
 - A~ 2.8 L 493 ~  and  a **116 PS** tune exist elsewhere in the Shunda line; การ ยก 116 PS สําหรับ 90 kW หน่วย หรือ การ ย้าย ที่ 2.8 L หน่วย สําหรับ เครื่อง ยนต์ 2.499 L เครื่อง เป็น ความ ผิด เพี้ยน ใน การ กําหนด.
 - น้ําหนักของเคอร์บต่างกัน ระหว่างศพแบบวางลงกับกล่อง ซึ่งให้อาหารโดยตรงในการโหลด อย่านําภาระส่วนตัวไปใช้อีก
 
@@ -38,8 +38,8 @@
 2800 mm ล้อล้อและ 5.5 เมตร เปลี่ยนแปลงวงเวียน เหมาะกับการจําหน่ายในเมือง ที่ผู้ซื้อเพิ่มกล่อง, เครื่องทําความเย็น หรือ โครงสร้างอื่น ๆ, เครื่อง GVW/จ่ายสุดท้าย จะต้องปรับปรุงใหม่สําหรับรถที่เสร็จ! — ตัวรถ shasis เท่านั้นไม่ได้จัดอันดับเสร็จ
 
 ## การ รับรอง การ ซื้อ ผ่าน ทาง ไปรษณีย์ ก่อน จะ จ่าย
-- สําหรับ รถ บรรทุก เบา ขนาด 4 × 2 (หรืออื่น) แบบฟอร์มไดรฟ์ เป็น สนาม ใบรับรอง ที่ ส่ง ผล ต่อ การ เพิ่ม และ การ ขน ของ — ยืนยัน การ ประกาศ ตาม ห้าง; การ แก้ไข ข้อ อ้างอิง จี วี/ จ่าย แต่ ใบ ไดรฟ์ ไป ยัง ประกาศนียบัตร.
-1. ** รหัสเครื่องยนต์ เอ็กซ์เซกติก/ ตําแหน่งของเครื่อง ** สู้กับวีเอ็น (2.499 L / 90 kW vs 2.8 L / 116 PS).
+- สําหรับ รถ บรรทุก เบา ขนาด 4 × 2 (หรืออื่น) แบบฟอร์มไดรฟ์ เป็น สนาม ใบรับรอง ที่ ส่ง ผล ต่อ การ เพิ่ม และ การ ขน ของ — ยืนยัน การ ประกาศ ตาม ห้าง; การ แก้ไข ข้อ อ้างอิง จี จ่าย แต่ ใบ ไดรฟ์ ไป ยัง ประกาศนียบัตร.
+1. ** รหัสเครื่องยนต์ ตําแหน่งของเครื่อง ** สู้กับวีเอ็น (2.499 L 90 kW vs 2.8 L 116 PS).
 2. "จ่ายสดและจีวีดับเบิลยู" จากประกาศและรับรอง MIT ไม่ใช่หมายเลขรวม
 3. ~ชนิดบลูดี้~ (Pellows/box/ Special) และน้ําหนักตามขอบถนน; เรตติ้งของกล้องวิดีโอที่สมบูรณ์สําหรับอุปกรณ์ใด ๆ ที่เพิ่มข้อมูลขึ้น
 4. ~ กํามะถันและการรักษาโดยดีเซล~ เข้ากันได้กับคําแนะนําการปล่อยก๊าซและไฟลท์; จีน- 6 ไม่ได้เป็นตัวอนุมัติต่างประเทศ
@@ -50,7 +50,7 @@
 
 ## คํา ถาม ที่ มัก จะ ถาม บ่อย ๆ
 ~ GVW ของชุนดะคืออะไร  and  payload?** GVW 4.27 t with rated payload around 1.93–2.0 t; ยืนยันการจ่ายที่แน่นอนในการประกาศ MIT/การรับรองสําหรับร่างกายที่แน่นอน
-~ เครื่องยนต์ไหน ที่ปกหน้านี้? ~ JX493ZLQ6D 2.499 L ดีเซลที่ 90 kW (122 PS); รุ่น 2.8 L/116 PS เป็นหน่วยที่แตกต่างกัน.
+~ เครื่องยนต์ไหน ~ JX493ZLQ6D 2.499 L ดีเซลที่ 90 kW (122 PS); รุ่น 2.8 L/116 PS เป็นหน่วยที่แตกต่างกัน.
 ♪ ทําไมการจํากัดน้ําหนักสําคัญ ♪ มันตั้งค่าภาระที่ใช้งานได้และการเปลี่ยนแปลง ระหว่างศพแบบหยดกับกล่อง --
 ~ รถจีน 6 คันอนุมัติตลาดของฉันไหม~ ไม่ ใช่ โดย อัตโนมัติ; การ ปล่อย ตัว และ การ เห็น ชอบ แบบ พิมพ์ ๆ มี การ แยก กัน อยู่.
 
@@ -62,38 +62,38 @@
 - ลิขสิทธิ์: ไม่ยืนยัน
 - LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
 - _กําหนดวันที่: 2026-09-06
-- MERCUL_ TOPIC_ MATCH: ต้องตรงกับรุ่น/ การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
-- CHAR_SCPE_NOTE: ตรงกับโมเดลที่เป๊ะของครอบครัว/ topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
+- MERCUL_ TOPIC_ MATCH: การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
+- CHAR_SCPE_NOTE: topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
 - March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
 - BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
 - ALT ด้วยภาษา:
-  - **EN**: AutoBridge export-buyer reference — JMC Shunda, petrol/diesel Chinese-market vehicle / light truck
-  - **FR**: Référence AutoBridge pour acheteurs export — JMC Shunda, véhicule thermique (marché chinois) / camion léger
-  - **DE**: AutoBridge-Referenz für Exportkäufer — JMC Shunda, Verbrenner (chinesischer Markt) / Leicht-Lkw
-  - **ES**: Referencia AutoBridge para compradores de exportación — JMC Shunda, vehículo de combustión (mercado chino) / camión ligero
-  - **PT**: Referência AutoBridge para compradores de exportação — JMC Shunda, veículo a combustão (mercado chinês) / caminhão leve
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜JMC Shunda, 中国市場仕様 内燃機関車 / 小型トラック
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜JMC Shunda, 중국 시장 내연기관 차량 / 경트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — JMC Shunda, xe động cơ đốt trong (thị trường Trung Quốc) / xe tải nhẹ
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — JMC Shunda, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถบรรทุกขนาดเล็ก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — JMC Shunda, kendaraan mesin pembakaran (pasar Tiongkok) / truk ringan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — JMC Shunda, مركبة بمحرك احتراق (سوق الصين) / شاحنة خفيفة
-  - **ZH**: AutoBridge 出口采购参考｜JMC Shunda, 中国市场燃油车 / 轻卡
+  - **EN**: AutoBridge export-buyer reference — JMC Shunda, petrol/diesel Chinese-market vehicle light truck
+  - **FR**: Référence AutoBridge pour acheteurs export — JMC Shunda, véhicule thermique (marché chinois) camion léger
+  - **DE**: AutoBridge-Referenz für Exportkäufer — JMC Shunda, Verbrenner (chinesischer Markt) Leicht-Lkw
+  - **ES**: Referencia AutoBridge para compradores de exportación — JMC Shunda, vehículo de combustión (mercado chino) camión ligero
+  - **PT**: Referência AutoBridge para compradores de exportação — JMC Shunda, veículo a combustão (mercado chinês) caminhão leve
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜JMC Shunda, 中国市場仕様 内燃機関車 小型トラック
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜JMC Shunda, 중국 시장 내연기관 차량 경트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — JMC Shunda, xe động cơ đốt trong (thị trường Trung Quốc) xe tải nhẹ
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — JMC Shunda, รถเครื่องยนต์สันดาป (ตลาดจีน) รถบรรทุกขนาดเล็ก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — JMC Shunda, kendaraan mesin pembakaran (pasar Tiongkok) truk ringan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — JMC Shunda, مركبة بمحرك احتراق (سوق الصين) شاحنة خفيفة
+  - **ZH**: AutoBridge 出口采购参考｜JMC Shunda, 中国市场燃油车 轻卡
 
 ## ต้นฉบับและการตรวจสอบสิทธิ์
 | ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
 | ชุนดา รถบรรทุกคันเล็ก JX493ZLQ6D 122PS คัน ประกอบด้วย 2t คัน | 360che (ทัฒนโญ) พ.ศ. | CN | http://m.toutiao.com/group/7296380434664292918/ | 2026-09-04 | ROOS_ CHCKED | เครื่องยนต์, ไฟฟ้า, GVW, เฟรมโหลด |
 | เตียงรถบรรทุกขนาดเล็ก GVW น้ําหนักตามท้องถนน | 360che (ทัฒนโญ) พ.ศ. | CN | http://m.toutiao.com/group/6854066453151384075/ | 2026-09-04 | ROOS_ CHCKED | 3700 เตียง 4.27 t น้ําหนักตามควบคุม |
-| ชุนดะ สินค้า 3.7m 116PS (ในซาเล) | 58.com trucks | CN | https://m.58.com/sh/huochec/63510160324146x.shtml | 2026-09-04 | ผู้โดยสาร_ปลายทาง | University 116 PS รุ่น (ย่อ) |
-| ชุนดา เบส / วงกลมหมุน | 360che (ทัฒนโญ) พ.ศ. | CN | http://m.toutiao.com/group/6815508461468516878/ | 2026-09-04 | ROOS_ CHCKED | 2800 mm WB, 5.5 m บิด |
+| ชุนดะ สินค้า 3.7m 116PS (ในซาเล) | trucks | CN | https://m.58.com/sh/huochec/63510160324146x.shtml | 2026-09-04 | ผู้โดยสาร_ปลายทาง | University 116 PS รุ่น (ย่อ) | 58.com
+| ชุนดา เบส วงกลมหมุน | 360che (ทัฒนโญ) พ.ศ. | CN | http://m.toutiao.com/group/6815508461468516878/ | 2026-09-04 | ROOS_ CHCKED | 2800 mm WB, 5.5 m บิด |
 | ผู้ ผลิต และ แคตตาล็อก ผลิตภัณฑ์ ถนน — ระบบ สอบ ถาม ของ ประชาชน |  MIT, กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูลจีน | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | เปิดใช้งาน | ตรวจสอบผู้ผลิต, โมเดลที่อนุญาต และการทําอัลบั้มแบบแบ่งประเภท (公告) ก่อนการสั่งซื้อหรือส่งออก |
-| ขนาด GB 16735-2019 รถ ที่ ใช้ ถนน — หมาย เลข รถ (VIN) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | เปิดใช้งาน | โครงสร้างและชื่อของ platt language ที่ใช้ในการตรวจสอบความถูกต้องของผู้ซื้อ/ ชื่อ |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน สภาวะความปลอดภัยทางเทคนิคและเวลาปัจจุบัน/การปรับปรุง |
+| ขนาด GB 16735-2019 รถ ที่ ใช้ ถนน — หมาย เลข รถ (VIN) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | เปิดใช้งาน | โครงสร้างและชื่อของ platt language ชื่อ |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน |
 | GB 18352.6-2016 ด้วยระบบไฟฟ้าลัดวงจร XG1-2026 (จีน- 6 ปริมาตรแสงโพลีเจนต์) | กระทรวง นิเวศ วิทยา และ สิ่ง แวด ล้อม (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | เปิดใช้งาน | จีน 6 ระดับแสงและน้ําใส และวันที่ดําเนินการ 2026 มาตราฐาน |
-| GB 19147 เครื่องยนต์ดีเซลมาตรฐานเชื้อเพลิงแห่งชาติ (ฐานเชื้อเพลิงต่ํา) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | เปิดใช้งาน | ระดับเชื้อเพลิงดีเซลและซัลเฟอร์พื้นฐานที่ตรงกับการออกแบบเครื่องยนต์/การให้บริการต่างประเทศ |
+| GB 19147 เครื่องยนต์ดีเซลมาตรฐานเชื้อเพลิงแห่งชาติ (ฐานเชื้อเพลิงต่ํา) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | เปิดใช้งาน | |
 
-* continuation ข้อสังเกต: ไม่มีแผ่นหลัก OEM; การค้า-datatabase cross-checks อัตราการโหลดที่จัดอันดับได้มีการเลื่อนเป็นการประกาศ/ sertieveted; 2.499 L และ 2.8 L เครื่องยนต์เก็บไว้แยก เฉพาะที่ตลาดจีนเท่านั้น *
+* continuation ข้อสังเกต: ไม่มีแผ่นหลัก OEM; การค้า-datatabase cross-checks sertieveted; 2.499 L และ 2.8 L เครื่องยนต์เก็บไว้แยก เฉพาะที่ตลาดจีนเท่านั้น *
 
 ## การทบทวนแก้ไข
 - ** aultor*: AutoBridge ส่งออกวิธีการแก้ไขคําทีม (AutoBridge) ต่อ [นโยบายแก้ไข] ของเรา (/Dercial-policy/)

@@ -14,7 +14,7 @@
 Deux couches de preuves sont séparées. La voie de la conformité ** repose désormais sur les sources primaires** - le cadre de l'Organisation de normalisation du CCG (OSG), appliqué à l'échelle nationale par l'Arabie saoudite par l'intermédiaire du SASO/SABER et par les Émirats arabes unis par l'intermédiaire du Ministère de l'environnement et de l'environnement (CEAS) - et est citée dans Sources. Les éléments d'adaptation **de l'ingénierie** ci-dessous (refroidissement, recharge, AC, scellement et candidats thermiques EV) restent toujours sur une seule source de mise à niveau/ingénierie ou d'industrie et restent SINGLE_ SOURCE points d'évaluation, pas exigences légales du Golfe. Il n'existe pas de spécification unique du Gulf: confirmer chaque article avec le OEM/Avertisseur pour le modèle et l'enveloppe d'exploitation, et contre l'application du texte GSO du pays de destination** (les itinéraires Saudi et EAU diffèrent et sont indiqués séparément ci-dessous).
 
 ## Pourquoi une voiture de Chine-Spec n'est pas automatiquement Gulf-Ready
-Un véhicule adapté aux conditions tempérées chinoises répond à une charge thermique et poussiéreuse différente dans le Golfe. One upfit source describes Gulf summer ambient around **40–50 °C**, hivers près de 20 °C, avec des poussières fréquentes  and  humidité élevée** (source unique). Un environnement ambiant élevé et durable peut élever les températures de refroidissement/d'admission, mettre l'air conditionné sur un travail quasi continu, conduire la poussière fine dans les boîtiers électriques et de capteurs, et — pour les véhicules électriques — stresser l'enveloppe thermique de la batterie. La question de savoir si une construction donnée de Chine-spec couvre déjà cette enveloppe est une question d'ingénierie spécifique au modèle, et non une hypothèse.
+Un véhicule adapté aux conditions tempérées chinoises répond à une charge thermique et poussiéreuse différente dans le Golfe. One upfit source describes Gulf summer ambient around **40–50 °C**, hivers près de 20 °C, avec des poussières fréquentes and humidité élevée** (source unique). Un environnement ambiant élevé et durable peut élever les températures de refroidissement/d'admission, mettre l'air conditionné sur un travail quasi continu, conduire la poussière fine dans les boîtiers électriques et de capteurs, et — pour les véhicules électriques — stresser l'enveloppe thermique de la batterie. La question de savoir si une construction donnée de Chine-spec couvre déjà cette enveloppe est une question d'ingénierie spécifique au modèle, et non une hypothèse.
 
 ## ICE Véhicules: Points à évaluer (pas une trousse obligatoire)
 Une seule source de mise à niveau soulève les questions suivantes en tant que candidats: chacune d'elles devrait être discutée avec le fabricant ou le fournisseur et validée en fonction de la conception existante du modèle plutôt que traitée comme une norme requise du Golfe:
@@ -25,7 +25,7 @@ Une seule source de mise à niveau soulève les questions suivantes en tant que 
 - **Filtration** — filtration moteur/cabine et intervalles de service raccourcis pour le fonctionnement poussiéreux.
 Ce sont là **les points d'évaluation**, non pas des changements automatiques et non une exigence universelle d'adaptation au Golfe; une construction chinoise bien définie peut déjà satisfaire certains d'entre eux.
 
-## EV / hybride: Options de gestion thermique à évaluer
+## EV hybride: Options de gestion thermique à évaluer
 Pour les véhicules électrifiés, la batterie est le système sensible à la chaleur. Une source technique discute **la gestion thermique liquide avec égalisation de température cellule-cellule** et note que les emballages refroidis par air peuvent être plus vulnérables sous une température élevée (source unique). La lecture correcte pour la passation des marchés:
 - **Demander aux OEM des données thermiques** en comparant leur approche de refroidissement à l'enveloppe cible; **le refroidissement liquide est une option à évaluer — ne rejettez pas catégoriquement le refroidissement par air et ne présumez pas que le refroidissement liquide est obligatoire**, sans base standard OEM/ingénierie pour ce modèle.
 - Discutez de la stratégie **BMS à haute température** — dératisation, limites de courant de charge, avertissements thermiques.
@@ -64,36 +64,36 @@ L'adaptation ne remplace pas l'accès au marché: le véhicule et les composants
 - IMAGE_RIGHTS_STATUS: FAIL (aucun actif autorisé capturé; un détenteur de place ou -tain vieille image - Note n'est pas accepté)
 - C'est une question de "relation" Aucune image réutilisable ne peut être sécurisée: Wikimedia Commons/Flickr sont inaccessibles depuis l'environnement de recherche, les bibliothèques de stock nécessitent un accès authentifié API/licence, et une image de page web OEM n'est PAS une subvention de réutilisation commerciale; aucune photo appartenant à AutoBridge n'existe. Il a gardé la FAIL plutôt que de l'affirmer.
 - ALAT par langue:
-  - **EN**: AutoBridge export-buyer reference — Gulf heat and dust vehicle specification, vehicle-export procurement guide
-  - **FR**: Référence AutoBridge pour acheteurs export — Gulf heat and dust vehicle specification, guide d’achat à l’export automobile
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Gulf heat and dust vehicle specification, Leitfaden für Fahrzeugexport-Einkauf
-  - **ES**: Referencia AutoBridge para compradores de exportación — Gulf heat and dust vehicle specification, guía de compras para exportación de vehículos
-  - **PT**: Referência AutoBridge para compradores de exportação — Gulf heat and dust vehicle specification, guia de compras para exportação de veículos
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Gulf heat and dust vehicle specification, 自動車輸出 調達ガイド
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Gulf heat and dust vehicle specification, 자동차 수출 조달 가이드
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Gulf heat and dust vehicle specification, hướng dẫn thu mua xuất khẩu xe
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Gulf heat and dust vehicle specification, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Gulf heat and dust vehicle specification, panduan pengadaan ekspor kendaraan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Gulf heat and dust vehicle specification, دليل مشتريات تصدير المركبات
-  - **ZH**: AutoBridge 出口采购参考｜Gulf heat and dust vehicle specification, 汽车出口采购指南
+ - **EN**: AutoBridge export-buyer reference — Gulf heat and dust vehicle specification, vehicle-export procurement guide
+ - **FR**: Référence AutoBridge pour acheteurs export — Gulf heat and dust vehicle specification, guide d’achat à l’export automobile
+ - **DE**: AutoBridge-Referenz für Exportkäufer — Gulf heat and dust vehicle specification, Leitfaden für Fahrzeugexport-Einkauf
+ - **ES**: Referencia AutoBridge para compradores de exportación — Gulf heat and dust vehicle specification, guía de compras para exportación de vehículos
+ - **PT**: Referência AutoBridge para compradores de exportação — Gulf heat and dust vehicle specification, guia de compras para exportação de veículos
+ - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Gulf heat and dust vehicle specification, 自動車輸出 調達ガイド
+ - **KO**: AutoBridge 수출 바이어 참고 자료｜Gulf heat and dust vehicle specification, 자동차 수출 조달 가이드
+ - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Gulf heat and dust vehicle specification, hướng dẫn thu mua xuất khẩu xe
+ - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Gulf heat and dust vehicle specification, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
+ - **ID**: Referensi AutoBridge untuk pembeli ekspor — Gulf heat and dust vehicle specification, panduan pengadaan ekspor kendaraan
+ - **AR**: مرجع AutoBridge لمشتري التصدير — Gulf heat and dust vehicle specification, دليل مشتريات تصدير المركبات
+ - **ZH**: AutoBridge 出口采购参考｜Gulf heat and dust vehicle specification, 汽车出口采购指南
 
 ## Sources et vérification
 | Titre de la source | Organisation | Marché | URL | Vérification | Confiance | Faits corroborés |
 |---|---|---|---|---|---|---|
 | Adaptation du GCC à haute température/véhicules à moteur à haute pression | Certification/fournisseur de matériel | Golfe | https://m.11467.com/product/d15654879.htm | 2026-09-03 | SOURCE UNIQUE | Plage climatique; points d'adaptation des candidats à l'ECI (une source) |
-| VNE tout climat (refroidissement liquide à haute température/autochauffage à basse température) | Ingénierie en Chine / Toutiao | Mondial | http://m.toutiao.com/group/6868212100762698247/ | 2026-09-03 | SOURCE UNIQUE | Discussion sur la gestion thermique des liquides et de l'air (une source) |
-| Performance de la batterie à haute/à basse température (- 30 ~ 55 cible) | D1EV / Toutiao | NC | http://m.toutiao.com/group/6396788247036428802/ | 2026-09-03 | SOURCE UNIQUE | − Cible de conception des politiques 30 à 55 °C (une source) |
+| VNE tout climat (refroidissement liquide à haute température/autochauffage à basse température) | Ingénierie en Chine Toutiao | Mondial | http://m.toutiao.com/group/6868212100762698247/ | 2026-09-03 | SOURCE UNIQUE | Discussion sur la gestion thermique des liquides et de l'air (une source) |
+| Performance de la batterie à haute/à basse température (- 30 ~ 55 cible) | D1EV Toutiao | NC | http://m.toutiao.com/group/6396788247036428802/ | 2026-09-03 | SOURCE UNIQUE | − Cible de conception des politiques 30 à 55 °C (une source) |
 | 2026 Salon des pièces automobiles de Jeddah (pièces de chauffage/poussière, BMS) | Sohu | Saoudiens | https://m.sohu.com/a/1056965136_122956666/ | 2026-09-03 | SOURCE UNIQUE | Composants résistant à la chaleur et à la poussière; note de conformité du CCG (une source) |
 * Plafond des preuves: tout fait d'adaptation repose sur une seule source (toute SINGLE_SOURCE); aucune norme primaire GSO ou spécifications techniques OEM n'a été capturée. Les éléments sont présentés comme des points d'évaluation pour les OEM/pompiers, et non comme des exigences universelles du Golfe; aucun seuil légal ou configuration obligatoire n'est affirmé. *
 
 | Liste des règlements techniques concernant les véhicules à moteur du CCG | Organisation de normalisation du CCG (OSG) | GCC | https://www.gso.org.sa/ | 2026-09-05 | VÉRIFIER | Règlement technique du GCC pour les véhicules, y compris les délais de traitement des données climatiques et d ' émission (application dans le pays varie) |
-| Normes saoudiennes et conformité (SASO / Saleem) | Normes saoudiennes, métrologie et Org. de qualité (SASO) | Pays | https://www.saso.gov.sa/en/Pages/default.aspx | 2026-09-05 | VÉRIFIER | Normes spécifiques à l ' Arabie saoudite et champ d ' application |
+| Normes saoudiennes et conformité (SASO Saleem) | Normes saoudiennes, métrologie et Org. de qualité (SASO) | Pays | https://www.saso.gov.sa/en/Pages/default.aspx | 2026-09-05 | VÉRIFIER | Normes spécifiques à l ' Arabie saoudite et champ d ' application |
 | Délivrance de certificats de conformité pour les produits réglementés (y compris les véhicules/pièces) | Ministère de l'Industrie et des Technologies de pointe (MOIAT) | EAU | https://www.moiat.gov.ae/en/services/issue-conformity-certificates-for-regulated-products | 2026-09-05 | VÉRIFIER | Voie de conformité spécifique aux EAU; éléments de chaleur/poussière confirmés par marché, non supposés GCC-uniform |
 
 ## Révision de la rédaction
-- **Auteur / réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)
+- **Auteur réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)
 - **Dernière révision**: 2026-09-05
 - **Marché de référence/champ d'application**: Golfe/Moyen Évaluation de l'ingénierie de l'Est (pas un résumé de la norme juridique)
-- ** Méthode de vérification**: discipline à source unique par R4; aucun article de mise à niveau unique ne devient une exigence générale
+- ** Méthode de vérification**: discipline à source unique par ; aucun article de mise à niveau unique ne devient une exigence générale
 - **Norme de rédaction**: Recherches et écrits provenant des sources énumérées ci-dessus (recherches de bureau; aucune conduite directe, démontage ou importation n'est revendiquée). La confiance de la source est affichée par ligne; tout point que nous ne pouvons confirmer indépendamment est présenté comme un élément de vérification plutôt que comme un fait.
 #AutoBridge #GulfSpec #HeatAndDust #GSO #VehicleAdaptation

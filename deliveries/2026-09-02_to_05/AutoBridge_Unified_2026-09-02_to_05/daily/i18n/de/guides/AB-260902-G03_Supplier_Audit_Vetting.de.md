@@ -32,7 +32,7 @@ Verwenden Sie Chinas **National Enterprise Credit Information Publicity System (
 - Registriertes Kapital und eingezahlter Kontext, Gründungsdatum
 - ** Geschäftsumfang** — es sollte die relevante Tätigkeit des Fahrzeugverkaufs/-exports umfassen
 - Gesetzlicher Vertreter
-- ** Operational-Anomaly-Liste / schwere Verstöße (Blacklist) Aufzeichnungen **
+- ** Operational-Anomaly-Liste schwere Verstöße (Blacklist) Aufzeichnungen **
 
 Eine lizenz, die als foto gezeigt wird, ist kein beweis; der käufer (oder ein in china ansässiger vertreter) sollte den gsxt-rekord unabhängig ziehen.
 
@@ -49,7 +49,7 @@ Viele legitime Verkäufer sind Handelsunternehmen und nicht Fabriken. Das ist no
 
 - **Zollgutschrift**: Ein **AEO (Authorised Economic Operator)** Status signalisiert hohe Zollgutschrift; bitte um Beweise und behandle seine Abwesenheit eher als neutral als disqualifiziert. (Verwenden Sie die öffentliche AEO-Abfragerichtung des chinesischen Zolls; genaue Änderungen des Portaleintrags, navigieren Sie also über die offizielle Zollseite.)
 - **Historische Ausfuhranmeldungen**: Exportzollanmeldungen von ungefähr den letzten drei Monaten anfordern (sensible Geschäftsfelder können bearbeitet werden) und Produkt-, Empfängermuster und Daten mit den Ansprüchen des Lieferanten vergleichen.
-- ** Live-Video-Audit — Mindeststandard**: eine Echtzeit-Begehung (nicht aufgezeichnet) mit der Produktionslinie, dem Fahrzeugbestand, den QC-Stationen und dem Ladedock; Bitten Sie um ein Zeitsignal am selben Tag und sehen Sie auf Anfrage eine bestimmte VIN / Einheit.
+- ** Live-Video-Audit — Mindeststandard**: eine Echtzeit-Begehung (nicht aufgezeichnet) mit der Produktionslinie, dem Fahrzeugbestand, den QC-Stationen und dem Ladedock; Bitten Sie um ein Zeitsignal am selben Tag und sehen Sie auf Anfrage eine bestimmte VIN Einheit.
 - Beginnen Sie mit einer ** Stichproben- oder kleinen Testbestellung** vor dem Volumen und schreiben Sie die Konformitätserwartungen in diesen Testvertrag.
 
 ## Ebene 4 — Kontrakt-, Rechnungs- und Bankkontokonsistenz
@@ -57,8 +57,8 @@ Viele legitime Verkäufer sind Handelsunternehmen und nicht Fabriken. Das ist no
 Einer der klarsten Betrugsindikatoren ist ein **Bezahlkontoname, der sich vom vertraglich vereinbarten Firmennamen unterscheidet **. Vor Zahlung:
 
 - Passen Sie den rechtlichen Namen über Business-Lizenz, Vertrag, Proforma-Rechnung, Ausfuhranmeldungsstelle und ** Bankbegünstigtenname ** - alle identisch.
-- Behandeln Sie in letzter Minute "Nutzen Sie unsere Schwester / Hongkong / Auslandskonto" -Änderungen als ein hochriskantes Ereignis, das eine neue Überprüfung erfordert; leiten Sie niemals Geld auf der Grundlage einer nur E-Mail-Änderung um.
-- Bevorzugen Sie Zahlungsinstrumente, die mit dem Risiko übereinstimmen (siehe T / T vs L / C-Leitfaden); vermeiden Sie eine vollständige Vorauszahlung an ein nicht verifiziertes Unternehmen.
+- Behandeln Sie in letzter Minute "Nutzen Sie unsere Schwester Hongkong Auslandskonto" -Änderungen als ein hochriskantes Ereignis, das eine neue Überprüfung erfordert; leiten Sie niemals Geld auf der Grundlage einer nur E-Mail-Änderung um.
+- Bevorzugen Sie Zahlungsinstrumente, die mit dem Risiko übereinstimmen (siehe T T vs L C-Leitfaden); vermeiden Sie eine vollständige Vorauszahlung an ein nicht verifiziertes Unternehmen.
 
 ## Was AutoBridge über eine Business-Lizenz hinausfügt Screenshot
 Ein Lizenz-Scan beweist, dass ein Unternehmen existiert, nicht dass es * Ihr* Fahrzeug exportieren kann. This guide recommends checking the counterparty against the **current-year MOFCOM qualified list** (2026 application under 商办贸函〔2025〕408号; reine EV-Passagierlizenzen von 2026-01-01 unter gemeinsamer Bekanntmachung Nr. 54), rekonstruiert die Markenautorisierungskette bis zum OEM und führt eine **Vertrags-/Rechnungs-/Bankkonto-Namensübereinstimmung** vor der Einzahlung durch – die drei Prüfungen, die einen ermächtigten Ausführer von einer Handelsschale unterscheiden.
@@ -70,7 +70,7 @@ Ein Lizenz-Scan beweist, dass ein Unternehmen existiert, nicht dass es * Ihr* Fa
 4. Erhalten und überprüfen Sie die Autorisierungskette (Fabrik → qualifizierter Exporteur → Ihr Verkäufer).
 5. Überprüfen Sie Zollgutschriften (AEO) und aktuelle Ausfuhranmeldungen.
 6. Führen Sie ein Live-Video-Audit nach einem definierten Mindeststandard durch.
-7. Match-Namen über Vertrag / Rechnung / Bankkonto; vereinbaren Sie sichere Zahlungsbedingungen.
+7. Match-Namen über Vertrag Rechnung Bankkonto; vereinbaren Sie sichere Zahlungsbedingungen.
 8. Legen Sie eine Probebestellung, inspizieren, dann skalieren.
 
 ## Red Flags zum Stoppen
@@ -124,13 +124,13 @@ Ein Lizenz-Scan beweist, dass ein Unternehmen existiert, nicht dass es * Ihr* Fa
 | Wie man die Authentizität der China Supplier Business-Lizenz überprüft | Goodcan Trading (Industrie, verweist auf gsxt.gov.cn) | CN | https://goodcantrading.com/how-to-check-china-supplier-business-license-authenticity/ | 2026-09-02 | CROSS_CHECKED | gsxt-Verifikationsfelder |
 | Wie man eine chinesische Fabrik überprüft, ist legitim | Plutonia Global Logistics | CN/Global | https://www.plutoniaglobal.com/guides/verify-chinese-factory-legitimate | 2026-09-02 | CROSS_CHECKED | Konsistenz der Kontobezeichnung, Fabrikaudit |
 | 8-step Leitfaden zur Überprüfung von chinesischen Autoexportlieferanten | Huajiame (Industrie) | CN | https://www.huajiame.com/en-US/knowledge/how-verify-china-auto-export-supplier | 2026-09-02 | CROSS_CHECKED | Mehrschichtiger Auditrahmen, AEO |
-| Beschaffungsunterlagen für Fahrzeuge | 11467 (顺企网, Industrie) | CN | https://m.11467.com/blog/d18906274.htm | 2026-09-02 | CROSS_CHECKED | Mindestens Live-Video-Audit, Gegenprüfung der Erklärung |
-| Ausfuhrverfahren für inländische Lastkraftwagen | Guangzhou Pujiang Trade (11467) | CN | https://guangzhou053049.11467.com/m/news/15260806.asp | 2026-09-02 | CROSS_CHECKED | Export über qualifizierte Stelle, Zulassungskette |
+| Beschaffungsunterlagen für Fahrzeuge | (顺企网, Industrie) | CN | https://m.11467.com/blog/d18906274.htm | 2026-09-02 | CROSS_CHECKED | Mindestens Live-Video-Audit, Gegenprüfung der Erklärung | 11467
+| Ausfuhrverfahren für inländische Lastkraftwagen | Guangzhou Pujiang Trade | CN | https://guangzhou053049.11467.com/m/news/15260806.asp | 2026-09-02 | CROSS_CHECKED | Export über qualifizierte Stelle, Zulassungskette | 11467
 
 *Vertrauensbeweis (AutoBridge-Standard): die Qualifikationsregeln beruhen auf primären MOFCOM/MIIT-Quellen (VERIFIZIERT);  now including the 2026 application notice (商办贸函〔2025〕408号)  and  gemeinsame Bekanntmachung Nr. 54 über reine EV-Passagierausfuhrlizenzen. Die Liste der qualifizierten Personen im laufenden Jahr und die AEO-Abfrage sind dynamisch und müssen live überprüft werden; Betriebs Checklisten-Einzelteile sind von der Industrie bezogen und weisen auf offizielle Systeme zurück. *
 
 ## Editorial Review
-- **Autor / Rezensent**: [AutoBridge Export Editorial Team](/Autoren/) · Methode nach unserer [Editorial Policy](/editorial-policy/]
+- **Autor Rezensent**: [AutoBridge Export Editorial Team](/Autoren/) · Methode nach unserer [Editorial Policy](/editorial-policy/]
 - **Zuletzt überprüft**: 2026-09-05
 - **Referenzmarkt**: China Exportseite (gilt weltweit)
 - **Verifizierungsmethode**: Primäre Regierungsdokumente für die gesetzliche Basis; Branchenführer für den Betriebsprozess; dynamische Listen, die zur Live-Verifizierung übrig bleiben

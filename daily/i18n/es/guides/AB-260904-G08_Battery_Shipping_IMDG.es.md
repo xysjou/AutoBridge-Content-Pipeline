@@ -14,7 +14,7 @@
 ## La Clasificación cambió — Old UN3171 Habits Are Now Wrong
 Una práctica común antes de 2026 era reservar cualquier vehículo accionado por batería bajo ** UN3171 **. En virtud del Código IMDG obligatorio vigente, Enmienda 42-24 ** (aprobado por la Resolución IMO **MSC. 556 (108)** y **mandatorio en China de 2026-01-01 ** por el texto oficial de la Administración de Seguridad Marítima de China), que ya no es correcto para los vehículos de litio convencionales. Utilizar el antiguo número en una declaración de 2026 es un error de clasificación que detiene papeleo de mercancías peligrosas en la reserva.
 
-## Vehículo completo (batería instalada): UN3556 / UN3557 / UN3558
+## Vehículo completo (batería instalada): UN3556 UN3557 UN3558
 Para un **vehículo transportado con su batería instalada**:
 - ** UN3556 — vehículo con energía de litio-ion-battery**
 - ** UN3557 — vehículo con energía de litio-metal**
@@ -22,7 +22,7 @@ Para un **vehículo transportado con su batería instalada**:
 
 La nueva **Instrucción de Packing P912 ** rige el estibaje y la garantía para estas entradas. Cuando un vehículo de UN3556 es **no está completamente encerrado** por embalaje o caja, **Disposición especial SP405 ** establece los requisitos de marcación. El alcance del legado ** UN3171 ** entrada ha sido ** estrechado** a los vehículos/equipamiento alimentado por baterías mojadas, pilas de sodio-metal o sodio-aleación**; los vehículos principales de litio deben **no** ser declarados bajo UN3171 de 2026. Estas son las entradas de Clase 9; documentación y marcación/placación siguen el texto IMDG 42-24 y la capa adicional del transportista reservado.
 
-## Baterías de repuesto / desgarros son una entrada diferente
+## Baterías de repuesto desgarros son una entrada diferente
 No confunda el número entero de vehículos con células sueltas y paquetes:
 - ** UN3480 — baterías de iones de litio transportadas por sí solas** (loose/spare).
 - ** UN3481 — baterías de iones de litio empaquetadas con o contenidas en el equipo**.
@@ -35,7 +35,7 @@ Antes del transporte, litio (metal/ion) —y ahora sodio-ion— las baterías de
 Los límites de cantidad/estatal, como un porcentaje fijo **de estado de carga**, se fijan en el texto **IMDG y, sobre todo, por cada transportista**. Esta página declara **sin porcentaje fijo de SOC sin base oficial**; obtener el viaje de instrucción DG escrito por viaje del transportista (los carburantes pueden imponer términos más estrictos que el mínimo IMDG). Las reglas de la materia defectuosa y defectuosa siguen igualmente el Código actual y la aprobación del transportista y no se generalizan aquí.
 
 ## Lista de reserva
-1. Confirme química (lithium-ion / litium-metal / sodium-ion / wet) → select UN3556/3557/3558 (o el estrecho UN3171 sólo donde se aplica realmente).
+1. Confirme química (lithium-ion litium-metal sodium-ion wet) → select UN3556/3557/3558 (o el estrecho UN3171 sólo donde se aplica realmente).
 2. Confirmación de la batería es **instalado** (entrada de vehículos) vs **loose** (UN3480/3481).
 3. Aplicar ** P912 **; aplicar ** SP405 ** marcando si no está completamente encerrado.
 4. Assemble ** UN38.3 (Rev. 8+Amd.1) T. 1–T.8 resumen de prueba** para la batería.
@@ -48,8 +48,8 @@ Los límites de cantidad/estatal, como un porcentaje fijo **de estado de carga**
 
 ## Preguntas frecuentes
 **¿Qué número de la ONU es un EV de iones de litio enviado con batería instalada?** UN3556 bajo la Enmienda 42-24 del IMDG (lithium-metal UN3557, sodium-ion UN3558).
-**¿Puedo usar todavía UN3171?** Sólo para el alcance de la salpicadura estrechada / sodio-metal-o aleación; no para los vehículos de litio convencionales de 2026.
-**¿Qué hay de una batería de repuesto en el mismo contenedor?** Las baterías de iones de litio de grano utilizan UN3480 (o UN3481 si se empacan con / se contienen en el equipo), no UN3556.
+**¿Puedo usar todavía UN3171?** Sólo para el alcance de la salpicadura estrechada sodio-metal-o aleación; no para los vehículos de litio convencionales de 2026.
+**¿Qué hay de una batería de repuesto en el mismo contenedor?** Las baterías de iones de litio de grano utilizan UN3480 (o UN3481 si se empacan con se contienen en el equipo), no UN3556.
 **¿Cuál es la edición UN38.3?** El Manual actual de Pruebas y Criterios, Rev. 8 con Enmienda 1, prueba T. 1–T.8 con un resumen de prueba.
 
 ## Grabación de imagen
@@ -82,8 +82,8 @@ Los límites de cantidad/estatal, como un porcentaje fijo **de estado de carga**
 | Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |
 |---|---|---|---|---|---|---|
 | Código IMDG Modificación 42-24 texto oficial chino PDF | China Maritime Safety Administration | INTL/CN enforcement | https://www.msa.gov.cn/public/documents/document/mdiw/mjqw/~edisp/20251201020240683.pdf | 2026-09-04 | VERIFIED (primaria) | 42-24, MSC. 556 (108), 2026-01-01, UN3556-3558, P912, Clase 9 |
-| Manual de Pruebas y Criterios de las Naciones Unidas (Rev. 8 + Enmienda 1), Sección 38.3 (SCETDG- 66 INF. 30) | UNECE / ONU Subcommittee | INTL | https://unece.org/sites/default/files/2025-06/UN-SCETDG-66-INF30e.pdf | 2026-09-04 | VERIFIED (primaria) | Rev. 8+Amd.1,  UN38.3 T.1–T.8, sodio-ion |
-| UN/SCETDG- 64 INF. 29 lithium-battery identification / 38.3 marking amendment | UNECE | INTL | https://www.unece.org/sites/default/files/2024-06/UN-SCETDG-64-INF29e.pdf | 2026-09-04 | VERIFIED (primaria) | 38.3 enmiendas de marcación |
+| Manual de Pruebas y Criterios de las Naciones Unidas (Rev. 8 + Enmienda 1), Sección 38.3 (SCETDG- 66 INF. 30) | UNECE ONU Subcommittee | INTL | https://unece.org/sites/default/files/2025-06/UN-SCETDG-66-INF30e.pdf | 2026-09-04 | VERIFIED (primaria) | Rev. 8+Amd.1,  UN38.3 T.1–T.8, sodio-ion |
+| UN/SCETDG- 64 INF. 29 lithium-battery identification 38.3 marking amendment | UNECE | INTL | https://www.unece.org/sites/default/files/2024-06/UN-SCETDG-64-INF29e.pdf | 2026-09-04 | VERIFIED (primaria) | 38.3 enmiendas de marcación |
 | US 49 CFR § 173.185 (incorporados UN38.3 por IBR) | Gobierno de los Estados Unidos (CFR) | EE.UU. | https://www.govinfo.gov/content/pkg/CFR-2024-title49-vol2/xml/CFR-2024-title49-vol2-sec173-185.xml | 2026-09-04 | VERIFIED (primaria) | UN3480/3481, referencia estatutaria UN38.3 |
 | IMDG 42-24 interpretation (MSC. 556 (108), effective date) | China Maritime (repost) | INTL/CN | http://m.toutiao.com/group/7585883173825921546/ | 2026-09-04 | CROSS_CHECKED (apoyo) | Interpretación efectiva |
 | UN3556 SP405 interpretación de marcación | Jiupai news (repost) | INTL | http://m.toutiao.com/group/7598735209990734370/ | 2026-09-04 | SINGLE_SOURCE (supporting) | SP405 marca |

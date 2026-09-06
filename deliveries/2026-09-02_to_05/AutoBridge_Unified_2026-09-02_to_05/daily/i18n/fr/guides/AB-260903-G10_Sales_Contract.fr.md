@@ -29,7 +29,7 @@ En vertu de l'article 596 du code civil de la RPC**, un contrat de vente devrait
 Un vendeur peut ** réserver le titre jusqu'à réception du paiement intégral** (différent du risque, qui peut déjà avoir passé): jusqu'à paiement intégral, l'acheteur ** ne peut pas hypothéquer ou revendre** les véhicules. Cette clause est particulièrement valable contre les défauts de paiement sur les expéditions échelonnées, mais elle dépend de la loi de **gouvernance et de la reconnaissance/enregistrement de la réserve de propriété dans la juridiction de l'acheteur**, que l'avocat devrait confirmer.
 
 ## Case 4 de la clause — Fenêtres de rupture, de performance tardive et de réclamation
-- ** Paiement tardif / livraison tardive:** un taux de dommages-intérêts par jour (souvent exprimé en millilitre, --, par jour) avec un délai maximum en retard après lequel le contrat peut être résilié**.
+- ** Paiement tardif livraison tardive:** un taux de dommages-intérêts par jour (souvent exprimé en millilitre, --, par jour) avec un délai maximum en retard après lequel le contrat peut être résilié**.
 - **Demandes de qualité:** fixer une période d'inspection ** et une fenêtre de réclamation** après l'arrivée; sans un différend, les défauts latents deviennent des «saids» ou des «saids». Liener la fenêtre à l'ISP et à la détection réaliste du transit par rapport aux dommages préexistants.
 - Définir la hiérarchie **remboursement** (récifier → remplacer → remboursement) et qui supporte les frais de retour/expédition dans chaque cas.
 
@@ -85,16 +85,16 @@ Divulguer les faits importants de façon véridique: **version/configuration, ve
 | Titre de la source | Organisation | Marché | URL | Vérification | Confiance | Faits corroborés |
 |---|---|---|---|---|---|---|
 | RPC Code civil Art. 596 conditions de vente | FindLaw (portail juridique) | NC | https://www.findlaw.cn/wenda/q_60484893.html | 2026-09-03 | _CHECTURE (article cité par un portail juridique secondaire, et non une source officielle de la NPC) | Contenu essentiel du contrat |
-| Modèle de contrat de vente de véhicules d'exportation (réserve de risque/titre) | 110ask juridique | Mondial | https://m.110ask.com/fanben/601005122281423969.html | 2026-09-03 | _CHECTURE | Transfert de risque; conservation du titre; divulgation de la condition |
+| Modèle de contrat de vente de véhicules d'exportation (réserve de risque/titre) | juridique | Mondial | https://m.110ask.com/fanben/601005122281423969.html | 2026-09-03 | _CHECTURE | Transfert de risque; conservation du titre; divulgation de la condition | 110ask
 | Clauses de base du contrat d'achat (liste de la violation/titre/config) | 66Law | NC | https://m.66law.cn/question/56427049.aspx | 2026-09-03 | _CHECTURE | LD, fenêtre de réclamation, annexe de configuration |
 | Contrat d'exportation Incotermes/disputes/Apostille | Matériel de transport de marchandises | Mondial | https://m.11467.com/product/d43019461.htm | 2026-09-03 | SOURCE UNIQUE | Version des Incoterms, arbitrage de la CPI, Apostille |
 *Note de portée: Le contenu de l'art 596 est CROSS_ VOIR via un portail juridique secondaire seulement — VÉRIFIER exige le texte officiel du Code civil de la RPC (NPC/gouvernement), qui n'a pas été saisi; ne l'étiquetez pas VÉRIFIER. L'applicabilité de la réserve de propriété, de l'arbitrage et de l'apostille dépend de la loi et de la destination qui ont été choisies et doit être confirmée par un conseil qualifié. Les modèles de contrats ne sont que des références structurelles. *
 
-| - 中华人民共和国民法典 - 第三编 合同 (第五百九十五 / 五百九十六 / 五百九十七条逐字) | 最高人民检察院 (Procurature populaire suprême) | NC | https://www.spp.gov.cn/spp/ssmfdyflvdtpgz/202008/t20200831_478413.shtml | 2026-09-04 | VÉRIFIER |  |
-| 中华人民共和国民法典 全文 (政府门户转载) | 云南省司法厅 (sft.yn.gov.cn) / 开封市人大 (kfsrd.henanrd.go | NC | https://sft.yn.gov.cn/pf/yunnan/PZhengCeFaGui/2020061631_2.shtml | 2026-09-04 | VÉRIFIER |  |
+| - 中华人民共和国民法典 - 第三编 合同 (第五百九十五 五百九十六 五百九十七条逐字) | 最高人民检察院 (Procurature populaire suprême) | NC | https://www.spp.gov.cn/spp/ssmfdyflvdtpgz/202008/t20200831_478413.shtml | 2026-09-04 | VÉRIFIER |  |
+| 中华人民共和国民法典 全文 (政府门户转载) | 云南省司法厅 开封市人大 (kfsrd.henanrd.go | NC | https://sft.yn.gov.cn/pf/yunnan/PZhengCeFaGui/2020061631_2.shtml | 2026-09-04 | VÉRIFIER |  |
 
 ## Révision de la rédaction
-- **Auteur / réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)
+- **Auteur réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)
 - **Dernière révision**: 2026-09-05
 - **Marché de référence/étendue**: Structure globale des contrats (Statut du CPR identifié; force exécutoire propre à la juridiction)
 - ** Méthode de vérification**: synthèse des statuts et des pratiques juridiques; mise en garde formulée par les conseils; aucune conclusion juridique spécifique à une juridiction n'a été atteinte

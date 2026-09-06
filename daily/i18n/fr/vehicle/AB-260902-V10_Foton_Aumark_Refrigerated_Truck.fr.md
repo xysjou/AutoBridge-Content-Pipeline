@@ -13,17 +13,17 @@
 
 ## Comment spécifier un camion réfrigéré
 
-Un récif est vraiment **trois produits en un**: un châssis de donneur, une caisse isotherme et un groupe frigorifique, souvent fabriqué par différents fabricants. La comparaison des prix des « camions de rééferrage » sans nommer les trois est trompeuse. Le véhicule de référence est le **Aumark Jieyun (捷运) 150 PS 4 × 2, annonce de véhicule entier BJ5041XLC8JDA-AB1 (chassis BJ1041V9JDA-AB1)** avec un corps de récif de 4.085 m; Foton vend également le Suyun (速运) avec la puissance de Foton Cummins. Les chiffres détaillés de Jieyun sont des données de source unique (360che); les détails de Cummins Suyun sont recoupés avec ceux de Foton.
+Un récif est vraiment **trois produits en un**: un châssis de donneur, une caisse isotherme et un groupe frigorifique, souvent fabriqué par différents fabricants. La comparaison des prix des « camions de rééferrage » sans nommer les trois est trompeuse. Le véhicule de référence est le **Aumark Jieyun (捷运) 150 PS 4 × 2, annonce de véhicule entier BJ5041XLC8JDA-AB1 (chassis BJ1041V9JDA-AB1)** avec un corps de récif de 4.085 m; Foton vend également le Suyun (速运) avec la puissance de Foton Cummins. Les chiffres détaillés de Jieyun sont des données de source unique les détails de Cummins Suyun sont recoupés avec ceux de Foton. 360che
 
 ## Châssis et ligne d'entraînement
 
-| Point | Référence Jieyun 150 (pour 360che) |
+| Point | Référence Jieyun 150 (pour | 360che
 |---|---|
-| Annonce / lecteur | BJ5041XLC8JDA-AB1 / BJ1041V9JDA-AB1, 4 × 2, empattement 3360 mm |
+| Annonce lecteur | BJ5041XLC8JDA-AB1 BJ1041V9JDA-AB1, 4 × 2, empattement 3360 mm |
 | Ensemble L×W×H | 5.995 × 2.32 × 3.42 m |
-| Moteur | Yunnei D25TCIF1, 2.5 L en ligne- 4 diesel, 110 kW (150 PS) / 400 N·m, Chine VI |
+| Moteur | Yunnei D25TCIF1, 2.5 L en ligne- 4 diesel, 110 kW (150 PS) 400 N·m, Chine VI |
 | Boîte de vitesses | ZF 6-speed |
-| Courbe / charge utile nominale / GVW | 3.2 t / 1.1 t / **4.495 t** |
+| Courbe charge utile nominale GVW | 3.2 t 1.1 t **4.495 t** |
 | Pneumatiques/vitesse maximale | 7.00R16LT 8PR ×6; 95 km/h |
 
 Variante **Suyun** puissance (officielle/contre-vérifiée): Foton Cummins 2.8 L à 156 PS, avec une version 163 PS à 470 N·m. Si la fiabilité des longs trajets et le service mondial de Cummins importent plus que le coût d'acquisition, comparez le Suyun à Cummins avec le Yunnei Jieyun plutôt que de choisir uniquement sur la puissance.
@@ -51,7 +51,7 @@ Questions relatives à l'approvisionnement qui décident de l'unité: temps de c
 Reefer cite souvent un châssis et laisse la boîte et l'unité de refroidissement vague. La méthode recommandée consiste à conserver le matériau/épaisseur de la boîte/unité de réfrigération **chassis/isothermie/unité de réfrigération en trois lignes distinctes, à prix séparés**, à correspondre au matériau/épaisseur de la boîte et à la valeur K, plus la plage de température et l'option de réserve (électrique) de l'unité** au climat de fonctionnement, et à vérifier l'ensemble de la combinaison en regard de la certification **de la chaîne froide alimentaire/pharmacie** avant le dépôt.
 ## Vérification avant paiement
 
-- Obtenir les spécifications **usine/coachbuilder pour le châssis, la boîte et le groupe frigorifique séparément**, avec les numéros de modèle; les chiffres 360che sont une seule source.
+- Obtenir les spécifications **usine/coachbuilder pour le châssis, la boîte et le groupe frigorifique séparément**, avec les numéros de modèle; les chiffres sont une seule source. 360che
 - Confirmer **GVW (référence 4.495 t) et charge utile nette** une fois que la boîte et l'unité isolées sont installées — les corps récifaux mangent la charge utile et les licences de destination pour cette classe GVW doivent être vérifiées.
 - Confirmer l'acceptation des émissions des moteurs à destination (Chine VI n'est pas une preuve automatique de conformité locale) et de la qualité du carburant.
 - Spécifiez la température, les spécifications du panneau d'isolation, la disposition porte/viande-rail et la capacité de l'unité de marque/standalone par écrit.
@@ -83,24 +83,24 @@ Aucun prix faisant autorité n'a été capturé — le prix des récifaux varie 
 - IMAGE_RIGHTS_STATUS: FAIL (aucun actif autorisé capturé; un détenteur de place ou -tain vieille image - Note n'est pas accepté)
 - C'est une question de "relation" Aucune image réutilisable ne peut être sécurisée: Wikimedia Commons/Flickr sont inaccessibles depuis l'environnement de recherche, les bibliothèques de stock nécessitent un accès authentifié API/licence, et une image de page web OEM n'est PAS une subvention de réutilisation commerciale; aucune photo appartenant à AutoBridge n'existe. Il a gardé la FAIL plutôt que de l'affirmer.
 - ALAT par langue:
-  - **EN**: AutoBridge export-buyer reference — Foton Aumark, petrol/diesel Chinese-market vehicle / refrigerated truck
-  - **FR**: Référence AutoBridge pour acheteurs export — Foton Aumark, véhicule thermique (marché chinois) / camion frigorifique
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Foton Aumark, Verbrenner (chinesischer Markt) / Kühl-Lkw
-  - **ES**: Referencia AutoBridge para compradores de exportación — Foton Aumark, vehículo de combustión (mercado chino) / camión frigorífico
-  - **PT**: Referência AutoBridge para compradores de exportação — Foton Aumark, veículo a combustão (mercado chinês) / caminhão refrigerado
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Foton Aumark, 中国市場仕様 内燃機関車 / 冷凍車
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Foton Aumark, 중국 시장 내연기관 차량 / 냉동·냉장 트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Foton Aumark, xe động cơ đốt trong (thị trường Trung Quốc) / xe tải lạnh
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Foton Aumark, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถบรรทุกห้องเย็น
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Foton Aumark, kendaraan mesin pembakaran (pasar Tiongkok) / truk berpendingin
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Foton Aumark, مركبة بمحرك احتراق (سوق الصين) / شاحنة مبردة
-  - **ZH**: AutoBridge 出口采购参考｜Foton Aumark, 中国市场燃油车 / 冷藏车
+  - **EN**: AutoBridge export-buyer reference — Foton Aumark, petrol/diesel Chinese-market vehicle refrigerated truck
+  - **FR**: Référence AutoBridge pour acheteurs export — Foton Aumark, véhicule thermique (marché chinois) camion frigorifique
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Foton Aumark, Verbrenner (chinesischer Markt) Kühl-Lkw
+  - **ES**: Referencia AutoBridge para compradores de exportación — Foton Aumark, vehículo de combustión (mercado chino) camión frigorífico
+  - **PT**: Referência AutoBridge para compradores de exportação — Foton Aumark, veículo a combustão (mercado chinês) caminhão refrigerado
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Foton Aumark, 中国市場仕様 内燃機関車 冷凍車
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Foton Aumark, 중국 시장 내연기관 차량 냉동·냉장 트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Foton Aumark, xe động cơ đốt trong (thị trường Trung Quốc) xe tải lạnh
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Foton Aumark, รถเครื่องยนต์สันดาป (ตลาดจีน) รถบรรทุกห้องเย็น
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Foton Aumark, kendaraan mesin pembakaran (pasar Tiongkok) truk berpendingin
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Foton Aumark, مركبة بمحرك احتراق (سوق الصين) شاحنة مبردة
+  - **ZH**: AutoBridge 出口采购参考｜Foton Aumark, 中国市场燃油车 冷藏车
 
 ## Sources et vérification
 
 | Titre de la source | Organisation | Marché | URL | Vérification | Confiance | Faits corroborés |
 |---|---|---|---|---|---|---|
-| Paramètres de la récifeuse Aumark Jieyun 150 | 360che (卡车之家) | NC | http://product.m.360che.com/m441/110460_param.html | 2026-09-02 | _CHECTURE | Annonce, moteur Yunnei, ZF6, poids, boîte, options d'unité |
+| Paramètres de la récifeuse Aumark Jieyun 150 | (卡车之家) | NC | http://product.m.360che.com/m441/110460_param.html | 2026-09-02 | _CHECTURE | Annonce, moteur Yunnei, ZF6, poids, boîte, options d'unité | 360che
 | Page officielle de récif Ollin | Foton Ollin (officiel) | NC | https://ollin.foton.com.cn/car/zycshow/TaTn7qVL6p26qu6p7FrF5q | 2026-09-02 | VÉRIFIER | Options de moteur de récif à mi-roue, série de boîtes |
 | Suyun reafer boîte de livraison | Foton Ollin (officiel) | NC | https://ollin.foton.com.cn/ollin/static/html/8CLv714yzXPaamAd6STbfe.html | 2026-09-02 | VÉRIFIER | 4.2 m de récif, Cummins 2.8,  18 m³, 3360 WB |
 | Article de récif Ollin | Dongchedi (懂车帝) | NC | https://www-lq.dongchedi.com/article/7579095048919908888 | 2026-09-02 | _CHECTURE | Cummins 150/163 PS, 470 N·m |
@@ -114,7 +114,7 @@ Aucun prix faisant autorité n'a été capturé — le prix des récifaux varie 
 *Note de confiance (standard AutoBridge): Les faits Cummins/Suyun sont VÉRIFIÉS sur des documents officiels Foton et recoupés; les chiffres détaillés de l'annonce Jieyun sont SINGLE_SOURCE (360che). Les modèles d'unités de rééferrage et le prix sont dépendants du constructeur et NON VÉRIFIÉS pour le prix; confirmer par écrit. *
 
 ## Révision de la rédaction
-- **Auteur / réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)
+- **Auteur réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)
 - **Dernière révision**: 2026-09-05
 - **Marché de référence**: Chine, configuration de l'annonce de vente actuelle
 - ** Méthode de vérification**: matériel officiel Foton et base de données commerciale indépendante; châssis/corps/unité gardés séparés; écarts de prix et de sources uniques

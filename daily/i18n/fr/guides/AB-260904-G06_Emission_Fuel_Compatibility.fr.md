@@ -1,7 +1,7 @@
 # Véhicules China-VI outre-mer: normes d'émission, la modification 2026 et compatibilité du carburant Les acheteurs doivent vérifier
 
 ## OEuvre Métadonnées
-- ** Titre du référencement**: Chine VI Émissions et compatibilité des carburants à l'étranger Guide — GB18352.6 / GB17691
+- ** Titre du référencement**: Chine VI Émissions et compatibilité des carburants à l'étranger Guide — GB18352.6 GB17691
 - **Meta Description**: Léger et léger séparé GB18352.6-2016 (modification XG1-2026) de poids lourds GB17691-2018, de limites de soufre diesel Chine-VI et de risque DPF/SCR, et pourquoi China VI n'est jamais auto-égale à l'approbation Euro ou EPA.
 - **URL suggérée**: /guides/véhicules-compatibilité-carburant-émissions
 - ** H1 **: Prendre un véhicule Chine-VI à l'étranger: Quelle norme d'émission s'applique, et le carburant local le convient-il?
@@ -12,7 +12,7 @@
 - ** Suggestions concernant les ALT**: "Légères GB18352.6 et lourdes GB17691 séparées par des contrôles de compatibilité avec le carburant"
 
 ## Pourquoi "Chine VI" n'est pas un seul nombre
-Les acheteurs lisent souvent "Chine VI / 国六 " comme une norme unique. Il ne s'agit pas de: ** les véhicules légers et lourds sont soumis à différentes normes chinoises**, et une norme d'émission est également distincte de ** la compatibilité des carburants** et de **l'homologation de type de destination**. Ce guide sépare les trois et indique exactement où les normes officielles de la Chine fin et la vérification de destination commence.
+Les acheteurs lisent souvent "Chine VI 国六 " comme une norme unique. Il ne s'agit pas de: ** les véhicules légers et lourds sont soumis à différentes normes chinoises**, et une norme d'émission est également distincte de ** la compatibilité des carburants** et de **l'homologation de type de destination**. Ce guide sépare les trois et indique exactement où les normes officielles de la Chine fin et la vérification de destination commence.
 
 ## Légère et lourde — deux normes actuelles
 | Portée | Norme chinoise actuelle | État/dates |
@@ -83,7 +83,7 @@ Les cadres d'action à l'étranger sont principalement **CEE/Euro** (Europe) et 
 | Annonce MEE sur GB17691-2018 poids lourds Chine 6 | MOE | NC | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-04 | VÉRIFIER (primaire) | Norme/dates relatives aux poids lourds |
 | GB17691-2018 officiel PDF | MOE | NC | https://www.mee.gov.cn/ywgz/fgbz/bz/bzwb/dqhjbh/dqydywrwpfbz/201807/W020260430500008289846.pdf | 2026-09-04 | VÉRIFIER (primaire) | Portée des véhicules utilitaires lourds |
 | GB19147-2016 diesel routier (courant, avec XG1-2018) | SAMR ouvert | NC | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-04 | VÉRIFIER (primaire) | Sulfon ≤ 10 mg/kg |
-| DPF/SCR risque de post-traitement à haute teneur en soufre | 11467 caisse d ' essai | NC | https://m.11467.com/product/d51123633.htm | 2026-09-04 | SOURCE UNIQUE | Risque qualitatif après traitement |
+| DPF/SCR risque de post-traitement à haute teneur en soufre | caisse d ' essai | NC | https://m.11467.com/product/d51123633.htm | 2026-09-04 | SOURCE UNIQUE | Risque qualitatif après traitement | 11467
 *Champ d'application des preuves: Les normes et dates chinoises VÉRIFIÉES via les sources primaires MEE/SAMR; les limites Euro/EPA outre-mer, les spécifications EN sur les carburants et toute conclusion d'équivalence sont bloquées en attendant les sources primaires outre-mer. *
 
 | 轻型车国六排放标准 GB18352.6-2016 (译文库条文) | ChineAutoReg(今日头条) | NC | http://m.toutiao.com/group/6758333762372633092/ | 2026-09-04 | SOURCE UNIQUE | GB18352.6-2016 背景 (不作现行版本核心依据) |

@@ -2,7 +2,7 @@
 
 ## OEuvre Métadonnées
 - ** Titre du référencement**: Chery Arrizo 8 Spécifications et Guide de l'acheteur à l'exportation (1.6TGDI, Chine Référence)
-- **Description de la Meta**: marché chinois Chery Arrizo 8 — 1.6T Kunpeng 145 kW / 290 N·m, 7DCT, 4780 mm corps, les distinctions de garniture qui importent, et ce que les importateurs vérifient avant de commander.
+- **Description de la Meta**: marché chinois Chery Arrizo 8 — 1.6T Kunpeng 145 kW 290 N·m, 7DCT, 4780 mm corps, les distinctions de garniture qui importent, et ce que les importateurs vérifient avant de commander.
 - **URL suggérée**: /véhicules/cherie-arrizo- 8/
 - ** H1 **: Chery Arrizo 8: Spécifications du marché chinois et notes de vérification des exportations
 - **Mot-clé principal**: exportation de specs chery arrizo 8
@@ -28,7 +28,7 @@ Le Arrizo 8 est le saloon de Chery, dimensionné entre les champs compacts tradi
 Pour un salon ICE, les décisions d'achat se concentrent sur **code moteur, type de boîte de vitesses et stade d'émission**. Corriger les trois en fonction du VIN plutôt que du nom de la brochure; voir le guide sur les émissions/compatibilité des carburants pour savoir pourquoi un calibrage Chine-6 nécessite encore une homologation de destination.
 
 ## Corps, dimensions et sièges
-- Longueur/largeur/la hauteur: ** 4780 / 1843 / 1469 mm **
+- Longueur/largeur/la hauteur: ** 4780 1843 1469 mm **
 - Empattement: ** 2790 mm **
 - Portes/sièges: ** 4 portes/ 5 sièges**
 L'empattement 2790 mm place la voiture au-dessus d'une berline compacte standard; recoupez l'empattement avec le code du modèle sur le pro forma, de sorte qu'un Arrizo plus petit ne sera pas remplacé.
@@ -46,7 +46,7 @@ L'empattement 2790 mm place la voiture au-dessus d'une berline compacte standard
 5. ** Mode d'expédition** — un conteneur de saloon de 4.78 m ou un arrimage RoRo; confirmer le nombre de plans de charge plutôt que d'estimer.
 
 ## Demande de contingentation à l'exportation actuelle
-Aucun prix à l'exportation statique n'est publié. The Chinese guide price (a 2024 卓越 trim reference around RMB 99, 900) est un **domestique, chiffre sensible au temps seulement — ce n'est pas une cotation FOB ou CIF  and  ne doit pas être converti en un**. Demande avec **Pays de destination · Quantité · Trim préféré · LHD/RHD · Port de destination · Incoterm**.
+Aucun prix à l'exportation statique n'est publié. The Chinese guide price (a 2024 卓越 trim reference around RMB 99,900) est un **domestique, chiffre sensible au temps seulement — ce n'est pas une cotation FOB ou CIF  and  ne doit pas être converti en un**. Demande avec **Pays de destination · Quantité · Trim préféré · LHD/RHD · Port de destination · Incoterm**.
 
 ## Foire aux questions
 **Le Arrizo 8 est-il un saloon compact ou de taille moyenne?** Avec 4780 mm de long avec un empattement 2790 mm, il se trouve au bord supérieur du champ compact, près des dimensions du segment B — classifier par l'empreinte mesurée, et non par l'étiquette de commercialisation.
@@ -67,18 +67,18 @@ Aucun prix à l'exportation statique n'est publié. The Chinese guide price (a 2
 - IMAGE_RIGHTS_STATUS: FAIL (aucun actif autorisé capturé; un détenteur de place ou -tain vieille image - Note n'est pas accepté)
 - C'est une question de "relation" Aucune image réutilisable ne peut être sécurisée: Wikimedia Commons/Flickr sont inaccessibles depuis l'environnement de recherche, les bibliothèques de stock nécessitent un accès authentifié API/licence, et une image de page web OEM n'est PAS une subvention de réutilisation commerciale; aucune photo appartenant à AutoBridge n'existe. Il a gardé la FAIL plutôt que de l'affirmer.
 - ALAT par langue:
-  - **EN**: AutoBridge export-buyer reference — Chery Arrizo 8, petrol/diesel Chinese-market vehicle / sedan
-  - **FR**: Référence AutoBridge pour acheteurs export — Chery Arrizo 8, véhicule thermique (marché chinois) / berline
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Chery Arrizo 8, Verbrenner (chinesischer Markt) / Limousine
-  - **ES**: Referencia AutoBridge para compradores de exportación — Chery Arrizo 8, vehículo de combustión (mercado chino) / berlina
-  - **PT**: Referência AutoBridge para compradores de exportação — Chery Arrizo 8, veículo a combustão (mercado chinês) / sedã
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Chery Arrizo 8, 中国市場仕様 内燃機関車 / セダン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Chery Arrizo 8, 중국 시장 내연기관 차량 / 세단
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Chery Arrizo 8, xe động cơ đốt trong (thị trường Trung Quốc) / sedan
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Chery Arrizo 8, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถเก๋งซีดาน
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Chery Arrizo 8, kendaraan mesin pembakaran (pasar Tiongkok) / sedan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Chery Arrizo 8, مركبة بمحرك احتراق (سوق الصين) / سيدان
-  - **ZH**: AutoBridge 出口采购参考｜Chery Arrizo 8, 中国市场燃油车 / 轿车
+  - **EN**: AutoBridge export-buyer reference — Chery Arrizo 8, petrol/diesel Chinese-market vehicle sedan
+  - **FR**: Référence AutoBridge pour acheteurs export — Chery Arrizo 8, véhicule thermique (marché chinois) berline
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Chery Arrizo 8, Verbrenner (chinesischer Markt) Limousine
+  - **ES**: Referencia AutoBridge para compradores de exportación — Chery Arrizo 8, vehículo de combustión (mercado chino) berlina
+  - **PT**: Referência AutoBridge para compradores de exportação — Chery Arrizo 8, veículo a combustão (mercado chinês) sedã
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Chery Arrizo 8, 中国市場仕様 内燃機関車 セダン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Chery Arrizo 8, 중국 시장 내연기관 차량 세단
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Chery Arrizo 8, xe động cơ đốt trong (thị trường Trung Quốc) sedan
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Chery Arrizo 8, รถเครื่องยนต์สันดาป (ตลาดจีน) รถเก๋งซีดาน
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Chery Arrizo 8, kendaraan mesin pembakaran (pasar Tiongkok) sedan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Chery Arrizo 8, مركبة بمحرك احتراق (سوق الصين) سيدان
+  - **ZH**: AutoBridge 出口采购参考｜Chery Arrizo 8, 中国市场燃油车 轿车
 
 ## Sources et vérification
 | Titre de la source | Organisation | Marché | URL | Vérification | Confiance | Faits corroborés |

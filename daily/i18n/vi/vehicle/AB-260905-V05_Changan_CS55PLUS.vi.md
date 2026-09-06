@@ -4,18 +4,18 @@
 - **SEO Tit**: Changan CS55 PLUS (3rd Gen) 2024: China-Market CE Hướng dẫn Hình thể và Xuất
 - **Meta Mô tả**: Thị trường trung Quốc thế hệ thứ ba Changan CS55 PLUS xăng SUV: Blue whale 1.5T, 7DCT chiều, kích thước, sử dụng nhiên liệu WLTC, và tại sao lai là một đường riêng biệt.
 - ** H1 **: Changan CS55 PLUS (3rd thế hệ, 2024) — China-Market Petrol SUV Spects and Elive Checks
-- **Cumpary Keyword**: Changan / 长安 CS55 PLUS (第三代) ra đời
+- **Cumpary Keyword**: Changan 长安 CS55 PLUS (第三代) ra đời
 - **Secondary Search termss**: Changan CS55 Xuất khẩu PLUS; thế hệ thứ ba CS55; Blue whale 1.5T; xe hơi Trung Quốc SUV; 7DCT
 - ** URL đã gợi ý**: /vehicles/changan- cs55-plus/
-- **Tìm kiếm ý định**: 了解 Changan / 长安 CS55 PLUS（第三代） 中国版规格、配置与出口适配性（车型参数页）
-- **I nội bộ Link gợi ý**: //vehcles/changan- cs55-plus/, /guides/eation-fuel-clitude-hi Story/, /guides/china-car-exense-liense-trux-t tiến trình/
+- **Tìm kiếm ý định**: 了解 Changan 长安 CS55 PLUS（第三代） 中国版规格、配置与出口适配性（车型参数页）
+- **I nội bộ Link gợi ý**: cs55-plus/, /guides/eation-fuel-clitude-hi Story/, /guides/china-car-exense-liense-trux-t tiến trình/
 - **Schema Scope**: Điều + xe cộ (không có sản phẩm/ sản phẩm/ văn bản/ Xem lại)
 
 ## Văn cảnh và ranh giới thế hệ
 Trang này chỉ có trong thế hệ thứ ba Changan CS55 PLUS (2024) với nguồn năng lượng (ICE) powertrain**. Phiên bản ** Siêu pha loãng là một đường riêng biệt** với các hình vẽ và trình độ khác nhau và không được trộn lẫn ở đây. Thị trường tham khảo là **Trung Quốc**.
 
 ## Huấn luyện năng lượng và chiều không gian Petrol
-- **Body**: 4539 / 1865 / 1680 mm, bánh xe cơ sở 2656 mm; cargo 475–1415 L.
+- **Body**: 4539 1865 1680 mm, bánh xe cơ sở 2656 mm; cargo 475–1415 L.
 - **Engine**: 新蓝鲸 NE 1.5T, 141 (192Ps) kW.
 - **Transation**: 7DCT 湿式双离合.
 - **Performance/Eecyomy**: 0–100 km/h 7.9 s; WLTC fuel consumption 6.94.
@@ -25,7 +25,7 @@ Trang này chỉ có trong thế hệ thứ ba Changan CS55 PLUS (2024) với ng
 ## Bảng đặc tả có màu sắc (tham chiếu thị trường Trung Hoa)
 | Chi tiết | Giá trị | Đơn vị | Thị trường | Tin tưởng | Ghi chú nguồn |
 |---|---|---|---|---|---|
-| Chiều dài | 4539 / 1865 / 1680 | mm | TRUNG QUỐC | SINGLE_SOURCE | 搜狐车型库 |
+| Chiều dài | 4539 1865 1680 | mm | TRUNG QUỐC | SINGLE_SOURCE | 搜狐车型库 |
 | bánh xe cơ sở | 2656 | mm | TRUNG QUỐC | SINGLE_SOURCE | 搜狐车型库 |
 | động cơ | 新蓝鲸 NE 1.5T | - | TRUNG QUỐC | SINGLE_SOURCE | 搜狐车型库 |
 | Nguồn động cơ | 141 (192Ps) | kW | TRUNG QUỐC | SINGLE_SOURCE | 搜狐车型库 |
@@ -49,7 +49,7 @@ Trang này chỉ có trong thế hệ thứ ba Changan CS55 PLUS (2024) với ng
 ## FAQ
 Có bao gồm CS55 người lai không? Không, người lai là một đường khác với những số liệu khác nhau.
 Tiêu chuẩn tiết ra bao nhiêu? Xác nhận Trung Quốc 6 chống lại quy tắc đích đến, xem hướng dẫn khí thải/fuel.
-** 6.94 L / 100 km là một nhân vật thế giới thực? Nó là một giá trị phòng thí nghiệm WLTC; sử dụng thực sự khác nhau.
+** 6.94 L 100 km là một nhân vật thế giới thực? Nó là một giá trị phòng thí nghiệm WLTC; sử dụng thực sự khác nhau.
 **Có phải 99, 900 RMB là giá xuất khẩu?** Không, đó là tham khảo về việc phóng tàu trong nước.
 **Which transmission?** 7-speed wet dual-clutch (7DCT) on the captured line.
 

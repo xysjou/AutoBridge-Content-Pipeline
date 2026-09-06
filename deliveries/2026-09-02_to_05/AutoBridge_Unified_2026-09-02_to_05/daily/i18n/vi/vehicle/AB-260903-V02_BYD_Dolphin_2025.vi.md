@@ -6,7 +6,7 @@
 - ** H1 **: BD Dolphin 2025 (Trung Quốc - Market): multiites, ắc quy, Range Cccle và Xuất khẩu Verification
 - ** Từ khoá bí mật **: Kính lục phân cá heo theo chiều dọc 2025
 - **Secondary Search termss**: ByD Dolphin 44.9 kWh, Dolphin 60.48 kWh Knight, Dolphin CLC 420 520, DOD nhỏ xuất khẩu EV, Dolphin DiPlot, China EV GB/T sạc
-- **I nội bộ Link gợi ý**: //vehicles/byd-yan-plus/; /vehcles/farizon-xiang- v6e-specs/; /guides/chinese-charing-c tương thích tiêu chuẩn-c/;guides/ev-ship- un3171-imdg-compliance/
+- **I nội bộ Link gợi ý**: /vehcles/farizon-xiang- v6e-specs/; /guides/chinese-charing-c tương thích tiêu chuẩn-c/;guides/ev-ship- un3171-imdg-compliance/
 - **Image gợi ý**: chuẩn so sánh điểm tương ứng với hiệp sĩ; lưu ý gói stonery; cổng nạp GB/T; xoay/GB
 - **LT gợi ý**: "BYD Dolphin 2025 điểm mạnh," "Dolphin pulTC ircric so với chu kỳ nước ngoài"
 
@@ -14,15 +14,15 @@
 Dolphin là pin dự phòng nhỏ của AD trên máy điện tử 3.0 với một bình ắc quy LFP Blade. Đối với một EV, thứ tự là ắc quy ắc quy **cycle** _BAR_ sạc điện/phần mềm, không phải một số tiêu đề. Trang này bao gồm đường cao tốc Trung Quốc ** 2025 (REFERCE MORT: Chloe. BORD cũng bán một chiếc xe có hiệu "Dolphin" ở chợ nước ngoài; Đó là tên liên tục,  **not** a 1: 1 giả thiết khớp — kích cỡ pin từ nước ngoài, Chu kỳ được xác nhận (WLP/NEEC)  and  Thiết bị khác nhau  and  Phải đọc từ tờ đích, Không bao giờ rút ra từ những con số này của Trung Quốc.
 
 ## Hai lớp xe hơi, hai bình chứa (tham chiếu của Trung Quốc)
-| Mục | Điểm số chuẩn (活力 / 自由 / 时尚) | Cấp hiệp sĩ (骑士版) |
+| Mục | Điểm số chuẩn (活力 自由 时尚) | Cấp hiệp sĩ (骑士版) |
 |---|---|---|
-| Lái xe đi. | 70 kW / 180 N·m | 150 kW / 310 N·m |
+| Lái xe đi. | 70 kW 180 N·m | 150 kW 310 N·m |
 | Pin dao (LFP) | 44.928 kWh | 60.48 kWh |
 | Phạm vi CLTC | 420 km | 520 km |
-| Thân thể L×WH | 4125 / 1770 / 1570 mm | 4150 / 1770 / 1570 mm |
+| Thân thể L×WH | 4125 1770 1570 mm | 4150 1770 1570 mm |
 | Quay | 2700 mm (cả hai) | 2700 mm |
 
-Sửa chữa **battery và động cơ với nhau**: 150 kW / 310 N·m cặp xe ngựa với 60.48 kWh gói lớn hơn trong lớp học hiệp sĩ. Giới thiệu "A Dolphin" mà không đặt tên cho điểm số là "sức mạnh" và phạm vi mơ hồ.
+Sửa chữa **battery và động cơ với nhau**: 150 kW 310 N·m cặp xe ngựa với 60.48 kWh gói lớn hơn trong lớp học hiệp sĩ. Giới thiệu "A Dolphin" mà không đặt tên cho điểm số là "sức mạnh" và phạm vi mơ hồ.
 
 ## Phạm vi sửa chu kỳ (CLTC không phải là WLP/EPA)
 The 420/520 km figures are **China CLTC**. Luôn luôn trích dẫn chu kỳ kế bên con số:
@@ -40,11 +40,11 @@ The 420/520 km figures are **China CLTC**. Luôn luôn trích dẫn chu kỳ k�
 Compact five-door hatchback, 2700 mm bánh xe; Chiều dài trung bình 4125 mm, Hiệp sĩ 4150 mm; width/height 1770/1570 mm. Một dấu chân nhỏ và vòng tròn chặt chẽ phù hợp với các hạm đội đô thị, nhưng phía sau cabin và hàng hóa mong đợi nên được thiết lập từ các chiều không gian này, không phải từ một AD lớn hơn ở nước ngoài.
 
 ## Những người nhập đề nên kiểm tra trước khi thanh toán
-1. **Grade + ắc quy + động cơ như một tổ hợp phím fucked** (70 kW / 44.928 kWh tương ứng 150 kW / 60.48 kWh).
+1. **Grade + ắc quy + động cơ như một tổ hợp phím fucked** (70 kW 44.928 kWh tương ứng 150 kW 60.48 kWh).
 2. **Rage chu kỳ** được dán nhãn CLTC; đích đến là WLP/NEDC chỉ lấy từ tờ đích.
 3. **GB/T tương ứng với đích đến**, AC/DC cung cấp và bất kỳ luật lệ nào.
 4. **DiPilot list* cho điểm chính xác; **language/OTA** kiểm tra mã VIN.
-5. **DE giấy tờ vận chuyển** — UN38.3 / MDS cộng với các chất lượng nguy hiểm đại dương, theo tu chính án IMDG 42-24 (từ 2026-01-01) một phương tiện bán kính li-li-on-bater là tối mật UN3556, không phải di sản chung UN3171; áp dụng tài liệu hướng dẫn tài liệu / SOC trên mỗi hệ thống vận chuyển EV thực và hệ thống dẫn đường (xem hệ thống dẫn bán kính đại dương)
+5. **DE giấy tờ vận chuyển** — UN38.3 MDS cộng với các chất lượng nguy hiểm đại dương, theo tu chính án IMDG 42-24 (từ 2026-01-01) một phương tiện bán kính li-li-on-bater là tối mật UN3556, không phải di sản chung UN3171; áp dụng tài liệu hướng dẫn tài liệu SOC trên mỗi hệ thống vận chuyển EV thực và hệ thống dẫn đường (xem hệ thống dẫn bán kính đại dương)
 
 ## Yêu cầu một trích dẫn Xuất hiện thời
 Không có giá xuất khẩu tĩnh nào được xuất bản. RMB 99, 800 người Trung Quốc bắt đầu là một tham khảo **doterstic, nhạy cảm về thời gian, không phải là một giá FOB/CF**. Cần có **Diestination Country*Grition ·Guity · stity (battery/motor)_ LHD/RHD_ strition Port· Incotertern**.
@@ -84,10 +84,10 @@ Hay là một khách sạn ở Trung Quốc sạc điện mà không sửa đổ
 ## Nguồn và Định dạng
 | Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
-| 2025 Khởi động Dolphin (price, tham số) | TRONG gia đình / T thi | CN | http://m.toutiao.com/group/7389073901650723378/ | 2026-09-03 | ĐÃ_ ĐÃ | 44.928 kWh, 70 kW, 420 CLTC, giá nội địa (TIME_SETIVE) |
-| Name | Bách khoa toàn thư PCauto | CN | https://m.pcauto.com.cn/baike/1551886/ | 2026-09-03 | ĐÃ_ ĐÃ | 60.48 kWh, 150 kW / 310 N·m, 520 CLTC |
-| Dolphin 1, 000, 000th đơn vị (các chiều) | Comment | CN | https://www.163.com/dy/article/KH3NHD5F0552EGI8.html | 2026-09-03 | ĐÃ_ ĐÃ | 4125/4150 × 1770 × 1570, bánh xe cơ sở 2700 |
-| 2025 Dolphin DiPilot | Xincheping / Toutao | CN | http://m.toutiao.com/group/7389115620090053159/ | 2026-09-03 | SINGLE_SOURCE | Mô tả tính năng ACC/AEB/LA |
+| 2025 Khởi động Dolphin (price, tham số) | TRONG gia đình T thi | CN | http://m.toutiao.com/group/7389073901650723378/ | 2026-09-03 | ĐÃ_ ĐÃ | 44.928 kWh, 70 kW, 420 CLTC, giá nội địa (TIME_SETIVE) |
+| Name | Bách khoa toàn thư PCauto | CN | https://m.pcauto.com.cn/baike/1551886/ | 2026-09-03 | ĐÃ_ ĐÃ | 60.48 kWh, 150 kW 310 N·m, 520 CLTC |
+| Dolphin 1,000, 000th đơn vị (các chiều) | Comment | CN | https://www.163.com/dy/article/KH3NHD5F0552EGI8.html | 2026-09-03 | ĐÃ_ ĐÃ | 4125/4150 × 1770 × 1570, bánh xe cơ sở 2700 |
+| 2025 Dolphin DiPilot | Xincheping Toutao | CN | http://m.toutiao.com/group/7389115620090053159/ | 2026-09-03 | SINGLE_SOURCE | Mô tả tính năng ACC/AEB/LA |
 | Name | MIT, Bộ Công nghệ và Thông tin Trung Quốc | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VEII | Kiểm tra nhà sản xuất, mô hình được phê chuẩn và mục liệt kê (公告) trước khi đặt hàng hoặc xuất |
 | GB 16735-2019 Xe cộ — Số nhận diện xe hơi (VIN) | Nền tảng chuẩn toàn quốc SAR | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VEII | Cấu trúc và trường dữ liệu bảng tên VIN và được dùng trong kiểm tra bảng tên của người mua |
 | GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Bộ điều hành thị trường | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VEII | Đường dây cơ bản trong Trung Quốc điều kiện an toàn của phương tiện và dòng thời gian/xem hiện tại |
@@ -100,12 +100,12 @@ Hay là một khách sạn ở Trung Quốc sạc điện mà không sửa đổ
 | 海豚 参数配置 (2025 款) | 汽车之家 Tự động cấu hình loạt | CN | https://m.autohome.com.cn/config/series/6139.html | 2026-09-05 | ĐÃ_ ĐÃ | Bảng tham số đúng (không phải là một trang AI Q&A), xác nhận khả năng đạt: 2025 lớp/battery/CLTC — ma trận đối chiếu chéo kiểm tra chân # 2 |
 | DOD Dolphin 2025 sách mỏng chính thức | DOD Automotive Australia (OEM/distribular) | AU | https://bydautomotive.com.au/brochures/BYD-DOLPHIN-2025.pdf | 2026-09-05 | VERFIED (OEM; phạm vi thị trường xuất khẩu) | OEM brochure confirms Blade LFP 44.9/60.48 kWh  and  70/150 kW motor lines  and  Kích thước; EEC 410/490  and  WLP 340/427 là con số xuất khẩu xe đạp  and  không được dùng như Trung Quốc CLTC 420/520 |
 
-*Trích từ-nhìn-nhìn-là: Trang chính thức của Trung Quốc (được liên kết ở trên) neo của 2025 Dolphin, Name  and  e-pitform 3.0,  and  the official BYD Australia 2025 brochure independently confirms the 44.9/60.48 kWh battery  and  70/150 kW motor lines (on export NEDC/WLTP cycles, tách biệt khỏi những con số Trung Quốc). Giá trị của điểm trung Quốc là 70 kW / 44.928 kWh / 420 km CLTC  and  150 kW / 60.48 kWh / 520 km CLTC — còn lại trên một bảng kiểm tra đồng bản quyền thực sự bởi hai bảng tham số độc lập Trung Quốc xác nhận có thể đạt được trên 2026-09-05 (PCauto s48492 config  and  tự động nhà 6139 conchig series, Được tài trợ bởi bách khoa toàn thư IT Home/PCatto; Trang Autohome (hành động) là Al-agated và được cố ý không sử dụng như một chân quyết định. Một bản nháp trước đó có tên "Xcar" mà không có địa chỉ URL — mà chưa được hỗ trợ đã bị gỡ bỏ (không có trang Xcar khả năng truy cập). Đặt điểm chính xác vào danh mục MIT và VAN trước khi đặt hàng. CLTC là xe đạp Trung Quốc và không bao giờ được so sánh với nước ngoài WLP/NEEC; ♪ Bên ngoài cùng một tên ♪ Cá heo là những con vật có thị trường riêng biệt. Ghi-AI điều khiển  2026-09-05: Đường pin/motor bây giờ OEM-action (sách mỏng, ống kính xuất khẩu) và Trung Quốc CLTC giá trị cùng một loại kiểm tra bởi hai bảng cấu hình độc lập, di chuyển trang cần thiết_ HIỆN TRONG: ♪
+*Trích từ-nhìn-nhìn-là: Trang chính thức của Trung Quốc (được liên kết ở trên) neo của 2025 Dolphin, Name  and  e-pitform 3.0,  and  the official BYD Australia 2025 brochure independently confirms the 44.9/60.48 kWh battery  and  70/150 kW motor lines (on export NEDC/WLTP cycles, tách biệt khỏi những con số Trung Quốc). Giá trị của điểm trung Quốc là 70 kW 44.928 kWh 420 km CLTC  and  150 kW 60.48 kWh 520 km CLTC — còn lại trên một bảng kiểm tra đồng bản quyền thực sự bởi hai bảng tham số độc lập Trung Quốc xác nhận có thể đạt được trên 2026-09-05 (PCauto config  and  tự động nhà 6139 conchig series, Được tài trợ bởi bách khoa toàn thư IT Home/PCatto; Trang Autohome (hành động) là Al-agated và được cố ý không sử dụng như một chân quyết định. Một bản nháp trước đó có tên "Xcar" mà không có địa chỉ URL — mà chưa được hỗ trợ đã bị gỡ bỏ (không có trang Xcar khả năng truy cập). Đặt điểm chính xác vào danh mục MIT và VAN trước khi đặt hàng. CLTC là xe đạp Trung Quốc và không bao giờ được so sánh với nước ngoài WLP/NEEC; ♪ Bên ngoài cùng một tên ♪ Cá heo là những con vật có thị trường riêng biệt. Ghi-AI điều khiển  2026-09-05: Đường pin/motor bây giờ OEM-action (sách mỏng, ống kính xuất khẩu) và Trung Quốc CLTC giá trị cùng một loại kiểm tra bởi hai bảng cấu hình độc lập, di chuyển trang cần thiết_ HIỆN TRONG: ♪ s48492
 
 ## Xem lại tập tin
-- **Author / recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
+- **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
 - **Last xem lại**: 2026-09-05
 - ** chợ chăm sóc khách hàng**: Trung Quốc, 2025 Dolphin (tham khảo thị trường Trung Hoa; xây dựng cùng tên được giữ riêng biệt)
-- Phương pháp xác thực **: Kiểm tra chéo nguồn đa nguồn; phạm vi chu kỳ và phạm vi thị trường giữ riêng biệt theo quy tắc MODEL_AS / SOURCE_SCOPE
+- Phương pháp xác thực **: Kiểm tra chéo nguồn đa nguồn; phạm vi chu kỳ và phạm vi thị trường giữ riêng biệt theo quy tắc MODEL_AS SOURCE_SCOPE
 - **Ku thích về tiêu chuẩn**: Nghiên cứu và viết từ những nguồn được liệt kê ở trên (các nghiên cứu ban đầu; không có ổ đĩa cầm tay, bỏ xuống hoặc nhập khẩu nào được xác nhận). Sự tự tin nguồn được thể hiện trên mỗi hàng; bất cứ điểm nào chúng ta không thể tự xác nhận được đều được trình bày như một vật chứng thực thay vì xác nhận là sự thật.
 #AutoBridge #VehicleExport #BYD #Dolphin #ElectricHatchback

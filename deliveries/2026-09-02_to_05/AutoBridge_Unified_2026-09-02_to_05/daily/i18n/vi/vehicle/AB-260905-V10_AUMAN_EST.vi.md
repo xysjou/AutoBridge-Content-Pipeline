@@ -4,11 +4,11 @@
 - **SEO Titry**: Foton Daimler Trình thử nghiệm AUMAN: Sổ tay & Xuất của Trung Quốc
 - **Meta Mô tả**: China-mender Đầu máy kéo hạng nặng: Trung Quốc-V ISG và Trung Quốc X13 dòng, ZF/Fast TMboxs, ~ 40 t GCW, với USS giữ như một dòng riêng biệt.
 - ** H1 **: Foton Daimler AUMAN TE (Trung Quốc - V/VI) — Kính xe tải nặng của Trung Quốc và Kiểm tra Xuất khẩu
-- **Cuper Keywomler AUMAN / 福田戴姆勒欧曼 欧曼 T 重型牵引车 (Tractor car) ra đời
+- **Cuper Keywomler AUMAN 福田戴姆勒欧曼 欧曼 T 重型牵引车 (Tractor car) ra đời
 - **Secondary Search Wordss**: AUMAN ST epart; Foton Daimler head; máy kéo xe tải nặng Trung Quốc; X13 động cơ; 6x4 máy kéo
 - ** URL đã gợi ý**: /vehicles/foton-auman-trator/
-- **Tìm kiếm ý định**: 了解 Foton Daimler AUMAN / 福田戴姆勒欧曼 欧曼EST 重型牵引车（Tractor Truck） 中国版规格、配置与出口适配性（车型参数页）
-- **I nội bộ Link gợi ý**: /vehcles/foton-auman-tor/, /guides/tir-road-cport-chiral- centa-asia /, /guides/bill-lading-type-history/
+- **Tìm kiếm ý định**: 了解 Foton Daimler AUMAN 福田戴姆勒欧曼 欧曼EST 重型牵引车（Tractor Truck） 中国版规格、配置与出口适配性（车型参数页）
+- **I nội bộ Link gợi ý**: /vehcles/foton-auman-tor/, /guides/tir-road-cport-chiral- centa-asia /guides/bill-lading-type-history/
 - **Schema Scope**: Điều + xe cộ (không có sản phẩm/ sản phẩm/ văn bản/ Xem lại)
 
 ## Văn cảnh người mua: một đầu máy kéo với các đường phân vùng và đường năng lượng riêng
@@ -45,7 +45,7 @@ Luôn luôn nói rằng đơn vị này là Trung Quốc-V (cơ quan) hay hiện
 Chính xác là GCW là gì? Khoảng 40 t lớp học 6x4; được xác nhận bằng cách đồng tính.
 Có cái máy phát điện nào không? Có 2026 hồ sơ khác nhau — không kết hợp với các số liệu dầu diesel.
 ** Hộp số nào? ** ZF 12TX AMT hay Fast 16-speed, bằng cách xây dựng.
-** X13 đầu ra? 12.9 L, 412 kW / 560 hp, 2600 N·m trên đường dây Trung Quốc-VI.
+** X13 đầu ra? 12.9 L, 412 kW 560 hp, 2600 N·m trên đường dây Trung Quốc-VI.
 
 
 ## Nguồn và Định dạng
@@ -53,9 +53,9 @@ Có cái máy phát điện nào không? Có 2026 hồ sơ khác nhau — không
 |---|---|---|---|---|---|---|
 | 欧曼EST 车型文章 | 汽车之家车家号 | CN | T3 | ĐÃ_ ĐÃ | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/3133030?t=0x2233 | X12 动力, AMT |
 | 欧曼 ES-A 配置 | 汽车之家车家号 | CN | T3 | ĐÃ_ ĐÃ | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/2914236?t=0x2233 | ISGe5-460, ZF 变速 |
-| 欧曼 合作动力 | 汽车之家车家号 | CN | T3 | ĐÃ_ ĐÃ | https://chejiahao.m.autohome.com.cn/partner/yidian/article/3450841 | 潍柴 / 法士特配置 |
-| 欧曼EST 510 词条（T4线索） | 抖音百科 | CN | T4 | ĐÃ_ ĐÃ | https://m.baike.com/wiki/%E6%AC%A7%E6%9B%BCEST%20510/7562809276172075042 | 公告型号 / 国五参数线索 |
-| 欧曼纯电 / LNG 牵引车申报 | 新浪财经 | CN | T3 | ĐÃ_ ĐÃ | https://cj.sina.cn/article/norm_detail?froms=ttmp&url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Faigc%2Fxcsb%2F2026-08-07%2Fdoc-inimnrai3221568.shtml%3Ffinpagefr=ttzz | 2026 纯电申报 (独立新能源线, 勿混入燃油) |
+| 欧曼 合作动力 | 汽车之家车家号 | CN | T3 | ĐÃ_ ĐÃ | https://chejiahao.m.autohome.com.cn/partner/yidian/article/3450841 | 潍柴 法士特配置 |
+| 欧曼EST 510 词条（T4线索） | 抖音百科 | CN | T4 | ĐÃ_ ĐÃ | https://m.baike.com/wiki/%E6%AC%A7%E6%9B%BCEST%20510/7562809276172075042 | 公告型号 国五参数线索 |
+| 欧曼纯电 LNG 牵引车申报 | 新浪财经 | CN | T3 | ĐÃ_ ĐÃ | https://cj.sina.cn/article/norm_detail?froms=ttmp&url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Faigc%2Fxcsb%2F2026-08-07%2Fdoc-inimnrai3221568.shtml%3Ffinpagefr=ttzz | 2026 纯电申报 (独立新能源线, 勿混入燃油) |
 | Nơi Mạng chính thức của Foton Motor | Beiqi Foton Motor 福田汽车 (OEM) | CN | T1 | VEII | https://www.foton.com.cn/ | danh tính thương hiệu/model-line và thẩm quyền OEM |
 | Bộ công nghệ và kỹ thuật công nghệ (MIIT) | MỘT 工业和信息化部 | CN | T1 | VEII | https://www.miit.gov.cn/ | Thông tin đồng nhất/không chính xác; xác nhận mô hình chính xác, khối lượng và mã hóa bởi vin/nanouncement |
 | Bộ quản lý thị trường (SAMR) | SAR 国家市场监督管理总局 | CN | T1 | VEII | https://www.samr.gov.cn/ | Các tiêu chuẩn quốc gia, chứng thực và chính quyền thị trường |

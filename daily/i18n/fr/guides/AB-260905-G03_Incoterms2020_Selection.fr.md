@@ -7,7 +7,7 @@
 - **Mot-clé principal**: guide de sélection incoterms 2020
 - ** Termes de recherche secondaire**: Incoterms 2020; FOB vs FCA; CIF vs CIP; risque DDP; terme multimodal; transfert de risque
 - **URL suggérée**: /guides/incoterms- 2020-selection-guide/
-- **Intention de la recherche**: 汽车出口合同如何按运输方式选择 Incoterms 2020 术语 - 明确风险转移点与费用 / 保险责任
+- **Intention de la recherche**: 汽车出口合同如何按运输方式选择 Incoterms 2020 术语 - 明确风险转移点与费用 保险责任
 - **Suggestions de lien interne**: /guides/export-paiement-méthods-t-t-lc-risque/, /guides/marine-cargo-assurance-histoire/, /guides/chine-export-douanes-déclaration-simple-fenêtre/
 - **Schema Champ d'application**: article (pas de produit/offre/examen)
 
@@ -15,7 +15,7 @@
 Incoterms 2020 contient **eleven** des règles divisées en celles applicables à tout mode de transport et celles qui sont traditionnellement applicables au transport maritime/inland-waterway. Dans l'exportation de véhicules, le premier choix est donc de savoir si le déplacement est de l'océan de port à port (RoRo/conteneur) ou multimodal (camion intérieur/rail plus mer, commun pour le camionnage en Asie centrale). Choisir un terme « mer seulement » pour un déménagement multimodal crée un fossé dans l'endroit où le risque passe.
 
 ## Lorsque le risque est effectivement transféré
-- ** FOB / FCA**: sous FOB (navigation maritime/inland) le risque passe lorsque les marchandises sont placées **à bord** le navire; sous FCA (tout mode) le risque passe lorsque les marchandises sont remises au transporteur de l'acheteur au lieu désigné. Pour les déplacements containerizzato et multimodal FCA est l'ajustement plus propre car le risque et le contrôle s'alignent avec le transfert réel, plutôt qu'un moment de bord que le vendeur ne contrôle pas.
+- ** FOB FCA**: sous FOB (navigation maritime/inland) le risque passe lorsque les marchandises sont placées **à bord** le navire; sous FCA (tout mode) le risque passe lorsque les marchandises sont remises au transporteur de l'acheteur au lieu désigné. Pour les déplacements containerizzato et multimodal FCA est l'ajustement plus propre car le risque et le contrôle s'alignent avec le transfert réel, plutôt qu'un moment de bord que le vendeur ne contrôle pas.
 - ** CFR/CPT et CIF/CIP**: le vendeur organise et paie le transport vers la destination, mais ** les transferts de risque plus tôt**, à l'expédition/la remise — les coûts et les risques sont délibérément partagés, ce qui surprend les acheteurs qui assument CIF signifie risque à destination.
 - **DAP/DPU/DDP**: il s'agit de conditions d'arrivée; le vendeur porte un risque plus grand. ** Le DDP impose au vendeur l'obligation maximale, y compris le dédouanement à l'importation, les droits et les taxes dans la destination, pour un exportateur de véhicules chinois sans présence de destination enregistrée, ce qui est souvent peu pratique et difficile à respecter.
 

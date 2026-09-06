@@ -16,10 +16,10 @@ El Hongguang MINIEV Macaron es un coche eléctrico urbano **micro**, no un VE co
 ## Conducir y batería (enfoque de micro-EV)
 | Tema | 3rd-gen Macaron 2024 (Referencia china) |
 |---|---|
-| Cuerpo / asientos | 3-door, 4-seat hatchback |
+| Cuerpo asientos | 3-door, 4-seat hatchback |
 | Motor de reposición | 20 kW (170 km grados) |
 | Química de la batería | LFP; el grado 215 km lleva alrededor de 13.4 kWh (fuente individual) |
-| CLTC grado de rango | 170 km / 215 km |
+| CLTC grado de rango | 170 km 215 km |
 | Velocidad superior | 100 km/h (fuente individual) |
 | Peso de Kerb | 777 kg (fuente individual) |
 | Carga | Principalmente **slow (AC) carga**; cualquier carga rápida de DC en el grado 215 es dependiente de la configuración (fuente individual) — confirma en el VIN |
@@ -32,7 +32,7 @@ Ambos grados comparten el mismo cuerpo de micro 3064 mm y el diseño de cuatro a
 La trampa de compras está ordenando el 170 de precio por una ruta que necesita los primeros días, porque un micro coche de carga lenta no puede recuperarse durante una parada corta. Decidir el bucle diario primero, luego elegir el grado; no revertirlo.
 
 ## Dimensiones y Realidad de Embalaje
-- Longitud / ancho / altura: ** 3064 / 1493 / 1629 mm **
+- Longitud ancho altura: ** 3064 1493 1629 mm **
 - Base de ruedas: ** 2010 mm **
 A poco más de 3 m de largo, el Macaron es uno de los EVs de cuatro plazas más pequeños en el mercado de China. Cuatro asientos están presentes, pero el espacio trasero y el volumen de equipaje son escalas de microcar — " 4-seat" significa uso urbano ocasional de cuatro dimensiones, no confort de cuatro adultos. La huella pequeña es también la ventaja de carga: más unidades por contenedor que un coche convencional, pero el conteo exacto todavía depende de un plan de carga **medido y el estiba aprobado del transportista** (ver la guía de carga de contenedores) — no cites un número fijo de la longitud por sí sola.
 
@@ -45,7 +45,7 @@ A poco más de 3 m de largo, el Macaron es uno de los EVs de cuatro plazas más 
 Las líneas micro-EV cambian las combinaciones de grado/explotación con frecuencia, así que cierre estos campos contra la hoja de construcción de VIN ** específico**, no el nombre del folleto:
 1. ** Grado de la bomba (170/215) y batería de juego kWh** — el nombre "Macaron" por sí solo no indica qué.
 2. **Aprovisionamiento de cambio** — AC de carga lenta solamente, o cualquier DC en el grado 215; más el estándar de conector físico para el destino.
-3. ** Potencia móvil y calificación de alta velocidad** para el grado (20 kW / 100 km/h referencia).
+3. ** Potencia móvil y calificación de alta velocidad** para el grado (20 kW 100 km/h referencia).
 4. ** Lenguaje de lado y de grupo/información** - no asuma RHD ni una interfaz de usuario local en una construcción de China.
 5. **Estado de seguridad/contenido de la Homologación** para el destino: un micro-EV debe seguir despejando las reglas locales de acceso al mercado (ver la guía de aprobación de tipo CoC).
 6. ** Documentos de envío EV** (UN38.3/MSDS más bajo IMDG Amendment 42-24 (mandatory from 2026-01-01) un vehículo propulsado por litio-ion-battery se clasifica UN3556, no el legado genérico UN3171; aplicar documentación/SOC detalles por la actual hoja de datos de envío EV y el transportista (ver la guía de incumplimiento del océano EV) a pesar de la pequeña batería.
@@ -90,10 +90,10 @@ No se publica ningún precio de exportación estático. El RMB 41, 800 / 46, 800
 ## Fuentes " Verificación "
 | Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |
 |---|---|---|---|---|---|---|
-| Macaron añade 170 km / 20 kW | Autohome | CN | https://chejiahao.m.autohome.com.cn/info/13878133 | 2026-09-03 | CROSS_CHECKED | 20 kW, 170 km, precio nacional (TIME_SENSITIVE) |
+| Macaron añade 170 km 20 kW | Autohome | CN | https://chejiahao.m.autohome.com.cn/info/13878133 | 2026-09-03 | CROSS_CHECKED | 20 kW, 170 km, precio nacional (TIME_SENSITIVE) |
 | MINIEV 2025 parámetros/precios | Base de datos de Dongchedi | CN | https://m.dongchedi.com/auto/params-carIds-96348-79759-72934-72935-72308-72478-72466-72479-72467-72480-72468-72481-79929-79930-79931-79932-72476-72477-72475-72474-76902-76901-77162-77161-59192 | 2026-09-03 | CROSS_CHECKED | Año modelo, grados de rango, MSRP nacional (TIME_SENSITIVE) |
 | 2024 Macaron 215 (dimensiones/kerb) | Base de datos NetEase Auto | CN | https://product.auto.163.com/product/000CQEGG.html | 2026-09-03 | SINGLE_SOURCE | 3064/1493/1629, 2010 mm, 777 kg (media DB, no OEM) |
-| Batería de Macaron / carga lenta | Enciclopedia PCauto | CN | http://m.pcauto.com.cn/baike/941480/1848425/ | 2026-09-03 | SINGLE_SOURCE | ♥ 13.4 kWh, método de carga |
+| Batería de Macaron carga lenta | Enciclopedia PCauto | CN | http://m.pcauto.com.cn/baike/941480/1848425/ | 2026-09-03 | SINGLE_SOURCE | ♥ 13.4 kWh, método de carga |
 | Fabricantes & catálogo de productos de vehículos de motor de carretera — sistema de consulta pública | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verificar el fabricante, modelo aprobado y homologación (公告) entrada de catálogo antes de ordenar o exportar |
 | GB 16735-2019 Vehículos de carretera - Número de identificación de vehículos (VIN) | SAMR plataforma de texto completo | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | Estructura VIN y campos de datos de placa de nombre utilizados en la verificación VIN/nameplate del comprador |
 | GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Base de referencia en China condiciones técnicas de seguridad del vehículo y el cronograma actual/revisión |

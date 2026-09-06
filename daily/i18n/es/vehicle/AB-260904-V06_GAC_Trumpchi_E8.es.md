@@ -18,7 +18,7 @@ Para un exportador MPV las preguntas son la geometría de cabina y la arquitectu
 | Tema | Trumpchi E8 PHEV (referencia china) |
 |---|---|
 | Cuerpo | MPV de tamaño mediano |
-| Longitud / ancho / altura | **4920 / 1900 / 1760 mm** |
+| Longitud ancho altura | **4920 1900 1760 mm** |
 | Base de ruedas | **2930 mm** |
 | Diseño de asientos | ** 2+2+3, siete asientos** |
 | Plataforma | GAC Global Platform Modular Architecture (GPMA 3.0 L); acero de alta resistencia alrededor de 75% (fuente individual) |
@@ -30,8 +30,8 @@ La base de ruedas 2930 mm y 2+2+3 son la historia comercial: asientos independie
 ## PHEV Powertrain (carging-port E8)
 | Tema | Detalle |
 |---|---|
-| Motor | 2.0ATK híbrido dedicado (4B20L1), 103 kW / 180 N·m (unos 140 PS sólo motor) |
-| Motor frontal | 134 kW / 300 N·m |
+| Motor | 2.0ATK híbrido dedicado (4B20L1), 103 kW 180 N·m (unos 140 PS sólo motor) |
+| Motor frontal | 134 kW 300 N·m |
 | Transmisión híbrida | 2-speed DHT |
 | Batería | Litio terno, ** 25.57 kWh ** |
 | Gama eléctrica | ** 150 km CLTC** |
@@ -71,18 +71,18 @@ No se publica precio de exportación. Los precios de los guías chinos son **ref
 - IMAGE_RIGHTS_STATUS: FAIL (no se acepta ningún activo con licencia; no se acepta un titular de posición o “retiene la imagen antigua”)
 - BLOCK_REASON: No se puede asegurar una imagen reutilizable: Wikimedia Commons/Flickr no son accesibles desde el entorno de investigación, las bibliotecas de stock requieren acceso a API/licencia autenticada, y una imagen de página web OEM NO es una subvención comercial de reutilización; no existe foto de propiedad de AutoBridge. Se quedó con la FAIL en lugar de afirmarse.
 - ALT por idioma:
-  - **EN**: AutoBridge export-buyer reference — GAC Trumpchi E8, plug-in hybrid vehicle / MPV
-  - **FR**: Référence AutoBridge pour acheteurs export — GAC Trumpchi E8, véhicule hybride rechargeable / MPV
-  - **DE**: AutoBridge-Referenz für Exportkäufer — GAC Trumpchi E8, Plug-in-Hybridfahrzeug / Van (MPV)
-  - **ES**: Referencia AutoBridge para compradores de exportación — GAC Trumpchi E8, vehículo híbrido enchufable / monovolumen
-  - **PT**: Referência AutoBridge para compradores de exportação — GAC Trumpchi E8, veículo híbrido plug-in / minivan
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜GAC Trumpchi E8, プラグインハイブリッド車 / MPV
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜GAC Trumpchi E8, 플러그인 하이브리드 차량 / MPV
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — GAC Trumpchi E8, xe hybrid sạc ngoài / MPV
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — GAC Trumpchi E8, รถปลั๊กอินไฮบริด / รถ MPV
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — GAC Trumpchi E8, kendaraan hybrid plug-in / MPV
-  - **AR**: مرجع AutoBridge لمشتري التصدير — GAC Trumpchi E8, مركبة هجينة قابلة للشحن / سيارة عائلية
-  - **ZH**: AutoBridge 出口采购参考｜GAC Trumpchi E8, 插电混动车 / MPV
+  - **EN**: AutoBridge export-buyer reference — GAC Trumpchi E8, plug-in hybrid vehicle MPV
+  - **FR**: Référence AutoBridge pour acheteurs export — GAC Trumpchi E8, véhicule hybride rechargeable MPV
+  - **DE**: AutoBridge-Referenz für Exportkäufer — GAC Trumpchi E8, Plug-in-Hybridfahrzeug Van (MPV)
+  - **ES**: Referencia AutoBridge para compradores de exportación — GAC Trumpchi E8, vehículo híbrido enchufable monovolumen
+  - **PT**: Referência AutoBridge para compradores de exportação — GAC Trumpchi E8, veículo híbrido plug-in minivan
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜GAC Trumpchi E8, プラグインハイブリッド車 MPV
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜GAC Trumpchi E8, 플러그인 하이브리드 차량 MPV
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — GAC Trumpchi E8, xe hybrid sạc ngoài MPV
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — GAC Trumpchi E8, รถปลั๊กอินไฮบริด รถ MPV
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — GAC Trumpchi E8, kendaraan hybrid plug-in MPV
+  - **AR**: مرجع AutoBridge لمشتري التصدير — GAC Trumpchi E8, مركبة هجينة قابلة للشحن سيارة عائلية
+  - **ZH**: AutoBridge 出口采购参考｜GAC Trumpchi E8, 插电混动车 MPV
 
 ## Fuentes " Verificación "
 | Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |

@@ -21,7 +21,7 @@ Les tarifs, la certification, l'inspection et la documentation sont tous suspend
 | **87.02** | Véhicules automobiles pour ** 10+ personnes** (bus/coaches), y compris les sous-positions électriques/hybrides | bus de ville, autocar |
 | **87.03** | Véhicules à moteur **principalement pour personnes, ≤ 9 sièges** — saloons, VUS, VPL, voitures particulières hybrides et électriques | Voitures particulières BYD/Chéry/GWM |
 | **87.04** | **Véhicules à marchandises** (y compris les véhicules à marchandises électriques; marchandises à trois roues de moins de 8704.6000) | Camion léger Shunda, fourgonnette |
-| **87.05** | ** Véhicules à usage spécial** dont le rôle principal n'est ni le transport de personnes ni de marchandises (crane, forage, arroseur, sauvetage) | Pompe en béton, secours / camion spécial |
+| **87.05** | ** Véhicules à usage spécial** dont le rôle principal n'est ni le transport de personnes ni de marchandises (crane, forage, arroseur, sauvetage) | Pompe en béton, secours camion spécial |
 | **87.16** | **Remorques et semi-remorques** (et autres véhicules non automobiles) | semi-remorque de boîte/courbe |
 
 Deux frontières provoquent la plupart des différends:
@@ -32,7 +32,7 @@ Deux frontières provoquent la plupart des différends:
 Les directives douanières distinguent les trois roues électriques par leur utilisation et leur identification: un **porteur-personne**porteur à trois roues **avec un NIV** tombe sous la ligne 8703.8010, **sans NIV** sous 8703.8090, tandis qu'un **cargo**porteur à trois roues passe à ** 8704.6000 **. Il s'agit d'une interprétation des questions et réponses des douanes (source unique); les douanes portuaires locales et le tarif actuel 2026 font toujours autorité.
 
 ## Le premier flux de travail du SH que nous recommandons
-1. **État de l'utilisation principale** (traction / personnes / marchandises / fonction spéciale / remorque non motorisée) — cette option sélectionne le titre.
+1. **État de l'utilisation principale** (traction personnes marchandises fonction spéciale remorque non motorisée) — cette option sélectionne le titre.
 2. ** Sièges de montage** pour véhicules de tourisme (= 9 → 87.03; = 10+ → 87.02); identifier les tracteurs de moins de 87.01.
 3. **Tracteurs séparés de la remorque**: une tête de tracteur 87.01 et une semi-remorque 8716 sont classées indépendamment.
 4. **Tarif correspondant à la sous-position nationale à dix chiffres** du tarif ** 2026** pour l'année de déclaration.
@@ -44,7 +44,7 @@ Les directives douanières distinguent les trois roues électriques par leur uti
 
 ## Liste de contrôle préalable à la déclaration
 - Utilisation principale écrite et défendable.
-- Le nombre de sièges / rôle de la cargaison / fonction spéciale / rôle de traction illustré par la fiche technique.
+- Le nombre de sièges rôle de la cargaison fonction spéciale rôle de traction illustré par la fiche technique.
 - Tracteur et remorque classés séparément dans le cas où les deux navires.
 - Sous-position nationale de l'année en cours (2026) vérifiée par le tarif officiel.
 - Justification de classement déposée auprès du courtier en douane avant la réservation.
@@ -87,11 +87,11 @@ Les directives douanières distinguent les trois roues électriques par leur uti
 | Tarif d'importation et d'exportation de la RPC (2026), Commission tarifaire du Conseil d'État | Ministère des finances (PRC) | NC | https://bgt.mof.gov.cn/zhuantilanmu/rdwyh/czyw/202512/P020251231607833453633.pdf | 2026-09-04 | VÉRIFIER (primaire) | 87.01–87.05/8716 noms de cap actuels |
 | Annonce du GACC sur la mise en œuvre du programme d'ajustement tarifaire 2026 | Administration générale des douanes de la Chine | NC | http://www.customs.gov.cn/customs/2025-12/31/article_2026010717460235831.html | 2026-09-04 | VÉRIFIER (primaire) | 2026 base d'exécution, règle de sous-position annuelle |
 | 2026 Demande SH · Titres du chapitre 87 | i5a6 Système de requête HS | NC | https://www.i5a6.com/hsCategory/c17 | 2026-09-04 | _CHECTURE | Navigation en direction |
-| Questions et réponses douanières sur les trois roues électriques (8703.80 / 8704.60) | Dédouanement (reposte) | NC | http://m.toutiao.com/group/7518145509672993315/ | 2026-09-04 | SOURCE UNIQUE | Tranche de trois roues, 8704.6000 |
+| Questions et réponses douanières sur les trois roues électriques (8703.80 8704.60) | Dédouanement (reposte) | NC | http://m.toutiao.com/group/7518145509672993315/ | 2026-09-04 | SOURCE UNIQUE | Tranche de trois roues, 8704.6000 |
 *Note de portée: la base actuelle est le tarif 2026 et son annonce de mise en oeuvre du GACC; les anciens tableaux 2018/2020 ne sont plus utilisés comme base principale. Le droit de destination et la sous-position exacte à dix chiffres sont hors champ et doivent être vérifiés par pays/par année tarifaire. *
 
-| 进口汽车及零部件最惠国税率调整表 (含 8703 各子目官方名称) | 中国政府网 (国务院) | NC | https://www.gov.cn/zhengce/zhengceku/2018-12/31/5439526/files/62498c5520b84fc68a5960799fe12353.pdf | 2026-09-04 | VÉRIFIER | 870340 等子目官方归类名称 / 混合动力 / 排量座位分目 |
-| 海南零关税交通工具清单 (8702 客车电动 / 混动分目官方名称) | 国家税务总局 (北京市税务局)PDF | NC | http://beijing.chinatax.gov.cn/bjswj/sszc/zxwj/202012/cf5c916d2def4bd69f2a229bf60a35a3/files/d159fcb1991d48b8a2be4d2c90a7a717.pdf | 2026-09-04 | VÉRIFIER | 870230/870240 大中型 / 小型客车电动混动分目 |
+| 进口汽车及零部件最惠国税率调整表 (含 8703 各子目官方名称) | 中国政府网 (国务院) | NC | https://www.gov.cn/zhengce/zhengceku/2018-12/31/5439526/files/62498c5520b84fc68a5960799fe12353.pdf | 2026-09-04 | VÉRIFIER | 870340 等子目官方归类名称 混合动力 排量座位分目 |
+| 海南零关税交通工具清单 (8702 客车电动 混动分目官方名称) | 国家税务总局 (北京市税务局)PDF | NC | http://beijing.chinatax.gov.cn/bjswj/sszc/zxwj/202012/cf5c916d2def4bd69f2a229bf60a35a3/files/d159fcb1991d48b8a2be4d2c90a7a717.pdf | 2026-09-04 | VÉRIFIER | 870230/870240 大中型 小型客车电动混动分目 |
 
 ## Révision de la rédaction
 - **Auteur**: Équipe éditoriale d'AutoBridge Export · méthode selon notre [Politique éditoriale](/Politique éditoriale/)

@@ -2,7 +2,7 @@
 
 ## SEO Meta- dados
 - ** Título SEO**: Lei de exportação de veículos do Guia de Ladagem – MBL/HBL/Telex/SWB + Código Marítimo Arts. 80/81/87
-- ** Descrição do Meta**: Como as contas de mestre, contas de casa, liberação de telex e waybills do mar diferem, as regras de transferibilidade / entrega no Código Marítimo revisto da China (em vigor 2026-05-01, Arts. 80/81/87), e método de liberação correspondente às condições de pagamento.
+- ** Descrição do Meta**: Como as contas de mestre, contas de casa, liberação de telex e waybills do mar diferem, as regras de transferibilidade entrega no Código Marítimo revisto da China (em vigor 2026-05-01, Arts. 80/81/87), e método de liberação correspondente às condições de pagamento.
 - ** URL sugerido**: /guides/veículo-exportação-bill-of-lading-types
 - ** H1 **: Escolher um método de liberação de faturas para um veículo exportado — Prática empresarial ancorada no Código Marítimo Revisado
 - **Chave Primária**: documento de exportação de veículos de embarque mbl hbl telex liberação seawaybill
@@ -17,8 +17,8 @@ Os exportadores tratam a escolha do projeto de lei como documentação. É uma d
 ## Os Quatro Instrumentos Lado a Lado
 | Método | Quem é que emite? | Como o destinatário recebe a entrega | O expedidor tem um documento de título? |
 |---|---|---|---|
-| **Master B/L (MBL)** | Linha de transporte / seu agente | Renda o MBL original (ou siga o procedimento de linha) | Sim — contrato de transporte + função de documento de título |
-| **Casa B/L (HBL)** | NVOCC / Transitário | Troca de destinatário HBL para MBL através do agente de destino do encaminhador | Sim, a nível HBL, com uma festa extra na cadeia |
+| **Master B/L (MBL)** | Linha de transporte seu agente | Renda o MBL original (ou siga o procedimento de linha) | Sim — contrato de transporte + função de documento de título |
+| **Casa B/L (HBL)** | NVOCC Transitário | Troca de destinatário HBL para MBL através do agente de destino do encaminhador | Sim, a nível HBL, com uma festa extra na cadeia |
 | ** Lançamento de Telex** | Transportador após o expedidor retorna/esquece originais | Instruções de lançamento eletrônicas; coletar em uma cópia + identidade | ** No** — título em papel é dado no lançamento |
 | **Sea Waybill (SWB)** | Transportador | Nome do destinatário que recolhe a prova de identidade; não negociável | **Não** — não é um documento de título, não transferível |
 
@@ -35,9 +35,9 @@ O Código Marítimo revisto fornece a arquitectura jurídica subjacente às dife
 - **A aceitação por porto/país varia** (alguns destinos sul-americanos são relatados para não aceitar a liberação de telex) — confirme com o transportador e agente de destino **por envio**, por rota de entrega Art. 87, que irá realmente se aplicar.
 
 ## Método de correspondência com os termos de pagamento
-- **T/T com antecedência / totalmente pré-pago**: telex ou SWB é viável; alavancagem de controle não é mais necessária.
+- **T/T com antecedência totalmente pré-pago**: telex ou SWB é viável; alavancagem de controle não é mais necessária.
 - **L/C**: seguir o crédito exatamente – normalmente exige um B/L negociável expedido/endossado como indicado; substituir o SWB cria uma discrepância.
-- **Balança contra B/L / conta aberta**: manter o MBL negociável original (Art. 80 ordem / controle do portador) até que as condições de pagamento são cumpridas; nunca telex-lançamento de um veículo não pago.
+- **Balança contra B/L conta aberta**: manter o MBL negociável original (Art. 80 ordem controle do portador) até que as condições de pagamento são cumpridas; nunca telex-lançamento de um veículo não pago.
 - **RoRo vs contêiner**: ambos lançamento contra o oceano B/L; confirmar o procedimento da linha e a rota do destinatário Art. 87 antes de escolher o instrumento.
 
 ## Perguntas a fazer ao encaminhador antes da reserva
@@ -86,16 +86,16 @@ O Código Marítimo revisto fornece a arquitectura jurídica subjacente às dife
 ## Fontes e Verificação
 | Título do código fonte | Organização | Mercado | URL | Verificado | Confiança | Factos corroborados |
 |---|---|---|---|---|---|---|
-| Código Marítimo da RPC (revisão 2025, Ordem Presidencial 58, em vigor 2026-05-01) texto integral | Comité Permanente do PCN (npc.gov.cn) | NC | http://www.npc.gov.cn/c2/c30834/202510/t20251028_449061.html | 2026-09-04 | VERIFIED (primário) | Arts.80/81/87, versão  and  Data de eficácia |
-| Original B/L / telex / Sea Waybill explicou | Wiki de negócios NetEase | INTL | https://www.163.com/dy/article/L0J4JN3F0556HN78.html | 2026-09-04 | CROSS_CHECKED | Definições MBL/SWB/telex |
+| Código Marítimo da RPC (revisão 2025, Ordem Presidencial 58, em vigor 2026-05-01) texto integral | Comité Permanente do PCN | NC | http://www.npc.gov.cn/c2/c30834/202510/t20251028_449061.html | 2026-09-04 | VERIFIED (primário) | Arts.80/81/87, versão  and  Data de eficácia |
+| Original B/L telex Sea Waybill explicou | Wiki de negócios NetEase | INTL | https://www.163.com/dy/article/L0J4JN3F0556HN78.html | 2026-09-04 | CROSS_CHECKED | Definições MBL/SWB/telex |
 | Conta mestre vs conta da casa | Sina Finance | INTL | https://finance.sina.com.cn/roll/2026-08-15/doc-ininkrwq1888009.shtml | 2026-09-04 | CROSS_CHECKED | Corrente MBL/HBL, prática do veículo |
-| Métodos de libertação e tipos B/L | 11467 conhecimentos da indústria | INTL | https://m.11467.com/product/d15253354.htm | 2026-09-04 | CROSS_CHECKED | Comparação de quatro métodos |
+| Métodos de libertação e tipos B/L | conhecimentos da indústria | INTL | https://m.11467.com/product/d15253354.htm | 2026-09-04 | CROSS_CHECKED | Comparação de quatro métodos | 11467
 | Quatro métodos de lançamento e risco de telex (nota América do Sul) | NetEase | INTL | https://www.163.com/dy/article/K17GLBOG0556820S.html | 2026-09-04 | FONTE ÚNICA | Limite da factura de encomendas, aceitação do porto |
 | Transporte internacional de mercadorias convenções e modelos de leis | CURSO | INT' L | https://uncitral.un.org/en/texts/transportgoods | 2026-09-05 | VERIFICADO | Quadro jurídico comparativo dos documentos de transporte (Hague-Visby/Hamburg/Rotterdam) |
 | Documentos de transporte normalizados e referência de cláusulas | BIMCO | INT' L | https://www.bimco.org/ | 2026-09-05 | VERIFICADO | Documento marítimo/referência de fecho normalizado da indústria |
 | Documentos de transporte FIATA e prática de transporte de mercadorias | Federação Internacional de Transitários (FIATA) | INT' L | https://fiata.org/ | 2026-09-05 | VERIFICADO | Documento de encaminhamento (FBL/FCR) prática de transporte distintivo B/Ls |
 
-* Nota de confiança: coluna vertebral legal VERIFIED através do texto completo da revisão 2025 (em vigor 2026-05-01); definições comerciais cruzadas; taxas de transporte / aceitação do porto permanecem específicas da viagem. *
+* Nota de confiança: coluna vertebral legal VERIFIED através do texto completo da revisão 2025 (em vigor 2026-05-01); definições comerciais cruzadas; taxas de transporte aceitação do porto permanecem específicas da viagem. *
 
 ## Revisão Editorial
 - **Autor**: AutoBridge Export Editorial Team · método para o nosso [Política editorial](/política editorial/)

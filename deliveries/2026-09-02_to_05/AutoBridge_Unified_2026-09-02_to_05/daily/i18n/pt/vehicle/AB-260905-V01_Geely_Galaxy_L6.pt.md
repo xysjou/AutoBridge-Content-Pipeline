@@ -4,10 +4,10 @@
 - ** Título SEO**: Geely Galaxy L6 EM-i PHEV 2025: Especificações de Mercado Chinês e Guia de Comprador de Exportação
 - ** Descrição do Meta**: Mercado chinês Geely Galaxy L6 EM-i plug-in híbrido: dimensões verificadas, EM-i powertrain, duas linhas de bateria/gama, e o que um importador deve confirmar pelo VIN.
 - ** H1 **: Geely Galaxy L6 EM-i (2025) — Especificações de mercado chinês e verificação de exportação
-- **Chave principal**: Geely / 吉利银河 Galaxy L6 / 银河 L6 especificações exportação
+- **Chave principal**: Geely 吉利银河 Galaxy L6 银河 L6 especificações exportação
 - ** Termos de pesquisa secundários**: Exportação Geely Galaxy L6; Galaxy L6 EM-i Especificações do PHEV; Importação de sedan chinês do PHEV; EM-i DHT de velocidade única; CLTC vs WLTP intervalo
 - ** URL sugerida**: /veículos/geely-galaxy- l6/
-- ** Intenção de pesquisa**: 了解 Geely / 吉利银河 Galaxy L6 / 银河L6 中国版规格、配置与出口适配性（车型参数页）
+- ** Intenção de pesquisa**: 了解 Geely 吉利银河 Galaxy L6 银河L6 中国版规格、配置与出口适配性（车型参数页）
 - **As sugestões de ligação interna**: /veículos/geely-galaxy- l6/, /guias/incoterms- 2020-selection-guide/, /guias/portugues-pagamento-métodos-t-t-t-lc-risco/
 - **Schema Scope**: Artigo + Veículo (sem Produto/Oferta/Revisão)
 
@@ -17,18 +17,18 @@ O ** Geely Galaxy L6 EM-i (2025)** é um sedan híbrido compacto construído par
 A linha EM-i é de tração dianteira  and  pairs a 1.5 L naturally aspirated petrol engine with a single front motor through a one-speed dedicated hybrid transmission. Duas linhas de bateria/gama são vendidas na China; um importador deve tratá-los como configurações ordeáveis distintas em vez de um " L6" com um único número de faixa.
 
 ## Linhas de variante e de auto-estrada (mercado chinês)
-- * Arquitetura**: FF (motor frontal/motor frontal), 4-door 5-seat sedan; corpo 4782 / 1875 / 1489 mm, distância entre eixos 2752 mm (verificados de forma cruzada).
-- **Motor**: BHE15-BFN 1.5 L naturalmente aspirado, 1499 ml, 82 (112Ps) kW / 136 N·m (tabela de parâmetro ZOL de fonte única).
+- * Arquitetura**: FF (motor frontal/motor frontal), 4-door 5-seat sedan; corpo 4782 1875 1489 mm, distância entre eixos 2752 mm (verificados de forma cruzada).
+- **Motor**: BHE15-BFN 1.5 L naturalmente aspirado, 1499 ml, 82 (112Ps) kW 136 N·m (tabela de parâmetro ZOL de fonte única).
 - **Motor**: 160 kW/262 N·m (conferência de potência do motor; torque único).
 - ** Transmissão**: 1 挡 DHT(EM-i 单挡混动专用变速) — um DHT de velocidade única, que é o recurso definidor EM-i versus o híbrido mais antigo multi-velocidade.
-- ** Linhas de bateria**: 8.5 / 19.09 kWh. O fornecedor de pilhas de bateria é **não confirmado por Geely** e não é intencionalmente declarado.
-- ** Alcance elétrico**: 60 / 140（对应8.5/19.09kWh） km CLTC for the two lines respectively; em WLTC, a referência capturada é 48 / 115 km. CLTC e WLTC são ciclos diferentes — nunca cite um número CLTC como um valor de exportação WLTC/NEDC.
+- ** Linhas de bateria**: 8.5 19.09 kWh. O fornecedor de pilhas de bateria é **não confirmado por Geely** e não é intencionalmente declarado.
+- ** Alcance elétrico**: 60 140（对应8.5/19.09kWh） km CLTC for the two lines respectively; em WLTC, a referência capturada é 48 115 km. CLTC e WLTC são ciclos diferentes — nunca cite um número CLTC como um valor de exportação WLTC/NEDC.
 - **Combinado/desempenho**: intervalo CLTC combinado até 最高 2000 km; 0–100 km/h 7.4 s; velocidade máxima 180 km/h; tanque de combustível 60 L; coeficiente de arrasto 0.26.
 
 ## Quadro de especificações verificados (referência do mercado chinês)
 | Especificação | Valor | Unidade | Mercado | Confiança | Nota de origem |
 |---|---|---|---|---|---|
-| largura de comprimento altura | 4782 / 1875 / 1489 | mm | CHINA | CROSS_CHECKED | ZOL+ 搜狐双源一致 |
+| largura de comprimento altura | 4782 1875 1489 | mm | CHINA | CROSS_CHECKED | ZOL+ 搜狐双源一致 |
 | distância entre eixos | 2752 | mm | CHINA | CROSS_CHECKED | ZOL+ 搜狐双源一致 |
 | estilo do corpo | 4 门 5 座三厢轿车 | - Não, não, não. | CHINA | FONTE ÚNICA | 搜狐车型库 |
 | modelo de motor | BHE15-BFN 1.5L 自然吸气 | - Não, não, não. | CHINA | FONTE ÚNICA | ZOL参数表 |
@@ -38,9 +38,9 @@ A linha EM-i é de tração dianteira  and  pairs a 1.5 L naturally aspirated pe
 | potência do motor | 160 | kW | CHINA | CROSS_CHECKED | ZOL+ 太平洋 |
 | binário do motor | 262 | N.m. | CHINA | FONTE ÚNICA | ZOL参数表 |
 | transmissão | 1 挡 DHT(EM-i 单挡混动专用变速) | - Não, não, não. | CHINA | FONTE ÚNICA | 搜狐车型库 |
-| linhas de capacidade da bateria | 8.5 / 19.09 | k Wh | CHINA | FONTE ÚNICA | ZOL参数表 |
-| intervalo de ev cltc | 60 / 140（对应8.5/19.09kWh） | km | CHINA | FONTE ÚNICA | ZOL参数表 |
-| intervalo de ev wltc | 48 / 115 | km | CHINA | FONTE ÚNICA | 太平洋汽车 |
+| linhas de capacidade da bateria | 8.5 19.09 | k Wh | CHINA | FONTE ÚNICA | ZOL参数表 |
+| intervalo de ev cltc | 60 140（对应8.5/19.09kWh） | km | CHINA | FONTE ÚNICA | ZOL参数表 |
+| intervalo de ev wltc | 48 115 | km | CHINA | FONTE ÚNICA | 太平洋汽车 |
 | intervalo combinado cltc | 最高 2000 | km | CHINA | FONTE ÚNICA | 太平洋汽车 |
 | velocidade máxima | 180 | km/h | CHINA | FONTE ÚNICA | ZOL参数表 |
 | accel 0 100 | 7.4 | s | CHINA | FONTE ÚNICA | 太平洋汽车 |

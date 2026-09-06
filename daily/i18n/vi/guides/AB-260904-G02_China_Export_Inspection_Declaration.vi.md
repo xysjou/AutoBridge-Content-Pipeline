@@ -7,12 +7,12 @@
 - ** H1 **: Bản Tuyên Ngôn Kiểm Tra và Tùy chỉnh cho một xe cộ xuất khẩu: Quyết định nó trước 10-Digit HS, chứ không phải tổng quát hóa
 - **Cumpary Keyword**: xuất khẩu bách khoa kiểm tra hải quan
 - **Secondary Search Words**: 法定检验 出口 目录, Lệnh GACC 277 tuyên bố, danh mục kiểm tra hàng hóa,  BEV export licence 2026, PSI và kiểm tra thống kê
-- **I nội bộ Link gợi ý: //guides/vehic-ex-hs-decification/; /guides/export-vehicle-docucht- wrapt/;guides/china-export-cport-codeate-of-origin/ / /
+- **I nội bộ Link gợi ý: /guides/export-vehicle-docucht- wrapt/;guides/china-export-cport-codeate-of-origin/
 - **Image gợi ý**: HScatatal Prectvision-cight-cry; Bộ điều chỉnh chống lại các biểu đồ xuất khẩu ba rãnh; hải quan
 - **LT gợi ý**: "Trung Quốc xuất khẩu kiểm tra thống kê quyết định bởi 10-digit HS và danh mục hiện tại"
 
 ## Câu hỏi không có câu trả lời độc thân
-"Có cần kiểm tra phương tiện của Trung Quốc trước khi xuất khẩu không?" Một cái chăn "tất cả xe đều phải" hay "không cần xe" là câu trả lời sai. Whether a specific consignment is subject to **export statutory inspection** is determined by **its exact ten-digit HS code**, đọc ngược lại với ** hiện thời *Ctatal of Import  and  Xuất chủ đề xã hội để kiểm tra thông tin.  and  Đó là mật mã của **customs giám sát điều kiện / kiểm tra-và-trarantine loại**. Trang này thiết lập khung xuất khẩu bên Trung Quốc và phương pháp quyết định; Nó không xác nhận kết quả danh mục cho một mã mà nó chưa kiểm tra trực tiếp. Kết quả là do đó **bằng chứng điều kiện**: khung hình pháp lý đã được xác nhận, nhưng mỗi xe phải xác nhận danh mục mỗi mã vào thời điểm khai báo.
+"Có cần kiểm tra phương tiện của Trung Quốc trước khi xuất khẩu không?" Một cái chăn "tất cả xe đều phải" hay "không cần xe" là câu trả lời sai. Whether a specific consignment is subject to **export statutory inspection** is determined by **its exact ten-digit HS code**, đọc ngược lại với ** hiện thời *Ctatal of Import  and  Xuất chủ đề xã hội để kiểm tra thông tin.  and  Đó là mật mã của **customs giám sát điều kiện kiểm tra-và-trarantine loại**. Trang này thiết lập khung xuất khẩu bên Trung Quốc và phương pháp quyết định; Nó không xác nhận kết quả danh mục cho một mã mà nó chưa kiểm tra trực tiếp. Kết quả là do đó **bằng chứng điều kiện**: khung hình pháp lý đã được xác nhận, nhưng mỗi xe phải xác nhận danh mục mỗi mã vào thời điểm khai báo.
 
 ## Khung hành pháp (đã sửa)
 Dưới Luật kiểm tra và Kiểm tra Cộng đồng * và các quy định thực hiện của nó, xuất khẩu hàng hóa được đặt vào danh mục quy định thông thường **phải được gửi đi để kiểm tra**, và hàng hóa không được kiểm tra — hoặc không kiểm tra — ** có thể không được xuất khẩu** Theo nguyên tắc, việc kiểm tra hàng xuất khẩu là thực hiện tại nơi sản xuất **, trừ khi phong tục chỉ ra một địa điểm khác. Kiểm tra mật khẩu bao gồm hàng hóa được liệt kê trong danh mục **và** hàng hóa mà các luật khác/sự phân loại khác cần phải được kiểm tra. Hàng hóa bên ngoài danh mục rơi dưới 抽查检验)**; 2024 GACC Thông báo Không. 163 đặt phạm vi ngẫu nhiên ngẫu nhiên-trong-tiểu ngữ, mà cho **exports chỉ liệt kê đồ chơi trẻ em**.
@@ -30,14 +30,14 @@ Theo thứ tự năm nay, 277 (Phật chiếu về Tuyên Ngôn Nhập và Xuấ
 ## Ba chế độ đối xứng — Hãy tách chúng ra
 | Name | Trigger | Thay thế những người khác? |
 |---|---|---|
-| **Statutry thanh tra** | Mã số hiện có trong danh mục / pháp luật yêu cầu nó | - |
-| **Buyer bên thứ ba PSI** | Yêu cầu hợp tác / L/C / mua | Không, PSI chưa bao giờ thỏa mãn một nhiệm vụ quy định. |
+| **Statutry thanh tra** | Mã số hiện có trong danh mục pháp luật yêu cầu nó | - |
+| **Buyer bên thứ ba PSI** | Yêu cầu hợp tác L/C mua | Không, PSI chưa bao giờ thỏa mãn một nhiệm vụ quy định. |
 | **BVE chứng nhận xuất khẩu* ♪ | Battery-electric passenger cars (reference code 8703801090) under **export-licence administration from 2026-01-01** (four-ministry announcement) | Không, bằng lái và kiểm tra theo quy luật là những hệ thống song song và không bao giờ thay thế nhau |
 
 PSI được đánh dấu bởi người mua là một kiểm tra thương mại, không phải quyền được cấp phép của Trung Quốc; và giấy phép xuất khẩu OV là một công cụ quản lý thương mại, không phải kiểm tra hàng hóa.
 
 ## Những dòng cuối của trang này
-- Cho dù ** bất kỳ phương tiện cụ thể / mười số hiện nay ngồi bên trong danh mục** là **-thời gian-night và cụ thể**: lô này đã không có được điều kiện xuất khẩu theo từng dòng cho mỗi 87.02–87.05, vì vậy trang này đưa ra phương pháp, không phải là một kết luận phổ quát. Kiểm tra lại danh mục hải quan hiện thời và điều kiện giám sát của mã đó** trước khi tuyên bố.
+- Cho dù ** bất kỳ phương tiện cụ thể mười số hiện nay ngồi bên trong danh mục** là **-thời gian-night và cụ thể**: lô này đã không có được điều kiện xuất khẩu theo từng dòng cho mỗi 87.02–87.05, vì vậy trang này đưa ra phương pháp, không phải là một kết luận phổ quát. Kiểm tra lại danh mục hải quan hiện thời và điều kiện giám sát của mã đó** trước khi tuyên bố.
 - Bộ phận PSI thứ ba không bao giờ được mô tả là thanh tra quy định; Giấy phép lái xe không bao giờ được miêu tả là thanh tra.
 
 ## Những câu hỏi thường xuyên
@@ -76,10 +76,10 @@ Giấy phép xuất khẩu BV có giống như kiểm tra không? Không, từ 2
 | Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
 | Chỉ mục pháp lý — Nhập/ Export Commation Recation Law & thi hành các quy định | Tổng quản trị tập quán Trung Quốc (GACC) | CN | http://www.customs.gov.cn/customs/302249/zfxxgk/2799825/2799837/index.html | 2026-09-05 | VERIED (phần tư; mở trong trình duyệt, tự động lấy bị chặn) | Tên các luật kiểm tra hiện tại (2021 sửa đổi) và thực hiện các quy tắc mà khung kiểm tra quy tắc; chính xác mục nhập danh mục quy định chính xác vẫn được kiểm tra trên 10-digit HS |
-| Customs Regulations on the Declaration of Import/Export Goods (GACC Order No.277, trong lực 2025-05-01) | Tổng Giám đốc Hải quan Trung Quốc (GACC), thông qua gov.cn | CN | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 2026-09-05 | VEIID (TIẾNG) | Hiện tại khung pháp lý cho việc tuyên bố xuất khẩu; cho dù một dòng  10-digit HS cụ thể là thống kê được vẫn còn kiểm tra HS-by-HS |
+| Customs Regulations on the Declaration of Import/Export Goods (GACC Order No.277, trong lực 2025-05-01) | Tổng Giám đốc Hải quan Trung Quốc (GACC), thông qua | CN | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 2026-09-05 | VEIID (TIẾNG) | Hiện tại khung pháp lý cho việc tuyên bố xuất khẩu; cho dù một dòng  10-digit HS cụ thể là thống kê được vẫn còn kiểm tra HS-by-HS |
 | Hướng dẫn dịch vụ của Internet+Customs (tách kiểm tra = mục lục/ ngữ pháp yêu cầu hàng hóa) | GACC | CN | https://online.customs.gov.cn/static/pages/guides/000629010001/000629010001.html | 2026-09-04 | VEIID (TIẾNG) | Quy tắc phân tích- phân giải |
 | GCC lưu ý 2024 Số 163 (bên ngoài của bản tóm tắt; xuất khẩu = đồ chơi trẻ em) | GACC | CN | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6216518/2024112015221230619.pdf | 2026-09-04 | VEIID (TIẾNG) | Phạm vi sự chú ý ngẫu nhiên |
-| Theo lệnh GACC Số 277, Các sự sắp đặt bằng lời tuyên bố | Hội đồng Quốc gia (Science Council) / gov.cn | CN | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 2026-09-04 | VEIID (TIẾNG) | Các bác sĩ, trách nhiệm của người ký |
+| Theo lệnh GACC Số 277, Các sự sắp đặt bằng lời tuyên bố | Hội đồng Quốc gia (Science Council) | CN | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 2026-09-04 | VEIID (TIẾNG) | Các bác sĩ, trách nhiệm của người ký |
 | Four-ministry announcement on BEV passenger-car export licensing (ref. 8703801090, từ 2026-01-01) | MOFCOM | CN | http://www.mofcom.gov.cn/zfxxgk/gkml/art/2025/art_98e16dc3acdb47568e054d292bd9609a.html | 2026-09-04 | T_ TIẾNG _ DỐI (TIẾNG) | Giấy phép tương ứng với sự phân biệt thanh tra |
 | GACC Notice 2025 No.138 (pre-declaration application optimization) | Tuỳ biến | CN | http://m.toutiao.com/group/7520602188638159398/ | 2026-09-04 | SINGLE_SOURCE | Quá trình tối ưu hoá |
 Phạm vi tính: khung được kiểm tra bởi nguồn chính; kết quả danh mục cho bất kỳ mã số cụ thể nào phải được kiểm tra trực tiếp mà không được tổng quát hóa. ♪

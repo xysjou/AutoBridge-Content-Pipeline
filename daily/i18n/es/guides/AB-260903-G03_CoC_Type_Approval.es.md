@@ -11,17 +11,17 @@
 - **Sugerencias de ALT**: "Aprobación de tipo a certificado de jerarquía de conformidad"; "WVTA OTTS E-mark market map"
 
 ## La Confusión Central
-Los exportadores tratan repetidamente **un documento como si fuera otro**: presentan un nacional chino 合格证 /CC como acceso al mercado exterior, o asumen un componente E-mark certifica todo el vehículo. La aprobación de la escritura y un certificado de conformidad se sientan en diferentes niveles, y el mal es una razón común de registro es rechazado. Esta guía mapa los sistemas. ** Nota de la evidencia:** el marco de China se basa en materiales MIIT; las descripciones de los instrumentos UE/EAEU/UNECE a continuación provienen de proveedores de servicios de certificación (secundario), y los textos de regulación deben ser extraídos de EUR-Lex / UNECE / la Comisión EAEU antes de una decisión de cumplimiento — no se citan aquí como estatuto primario.
+Los exportadores tratan repetidamente **un documento como si fuera otro**: presentan un nacional chino 合格证 /CC como acceso al mercado exterior, o asumen un componente E-mark certifica todo el vehículo. La aprobación de la escritura y un certificado de conformidad se sientan en diferentes niveles, y el mal es una razón común de registro es rechazado. Esta guía mapa los sistemas. ** Nota de la evidencia:** el marco de China se basa en materiales MIIT; las descripciones de los instrumentos UE/EAEU/UNECE a continuación provienen de proveedores de servicios de certificación (secundario), y los textos de regulación deben ser extraídos de EUR-Lex UNECE la Comisión EAEU antes de una decisión de cumplimiento — no se citan aquí como estatuto primario.
 
 ## Nivel 1 — Tipo de aprobación (el modelo de vehículo está aprobado)
 La aprobación de tipo certifica que un ** tipo/sistema de vehículo** cumple con los requisitos de un mercado. Sucede a nivel de modelo y es una condición previa para los documentos per-vehículo:
-- **UE — Aprobación de tipo de vehículo completo (WVTA):** acceso obligatorio a mercado de vehículos enteros, descrito por proveedores de certificación según **Regulación (UE) 2018/858 **, que se aplicó completamente a partir del 1 de septiembre de 2020 y sustituyó la Directiva 2007/46/EC; una aprobación se reconoce en todos los estados miembros. *Verificar el texto consolidado actual y cualquier sucesor actúa en EUR-Lex antes de basarse en fechas o alcance. *
-- **EAEU — OTTS / EAC:** para la Unión Económica de Eurasia, los vehículos enteros requieren una aprobación tipo **OTTS (o EAC)** bajo **TR CU 018/2011 "Sobre la seguridad de los vehículos con ruedas",** y un representante autorizado dentro de la Unión** es generalmente necesario. *Confirmar el texto actual de regulación técnica y las reglas representativas con la comisión EAEU. *
+- **UE — Aprobación de tipo de vehículo completo (WVTA):** acceso obligatorio a mercado de vehículos enteros, descrito por proveedores de certificación según **Regulación (UE) **, que se aplicó completamente a partir del 1 de septiembre de 2020 y sustituyó la Directiva 2007/46/EC; una aprobación se reconoce en todos los estados miembros. *Verificar el texto consolidado actual y cualquier sucesor actúa en EUR-Lex antes de basarse en fechas o alcance. * 2018/858
+- **EAEU — OTTS EAC:** para la Unión Económica de Eurasia, los vehículos enteros requieren una aprobación tipo **OTTS (o EAC)** bajo **TR CU 018/2011 "Sobre la seguridad de los vehículos con ruedas",** y un representante autorizado dentro de la Unión** es generalmente necesario. *Confirmar el texto actual de regulación técnica y las reglas representativas con la comisión EAEU. *
 La aprobación de tipo es específica para el mercado: un WVTA de la UE no otorga acceso a EAEU, y viceversa.
 
 ## Nivel 2 — Certificado de Conformidad (esta unidad específica coincide con el tipo aprobado)
 Una vez aprobado un tipo, ** cada vehículo se emite un certificado de CoC que la unidad coincide con el tipo aprobado**; el CoC es el documento que viaja con el coche al mostrador de registro de destino. Dos trampas:
-- El **Chinese 合格证 / 一致性证书 es un documento de registro/admisión nacional** (de raíz en la Orden No 50 de MIIT y reglas conexas) — es **no** un CCA de WVTA de la UE o un documento EAEU/EAC.
+- El **Chinese 合格证 一致性证书 es un documento de registro/admisión nacional** (de raíz en la Orden No 50 de MIIT y reglas conexas) — es **no** un CCA de WVTA de la UE o un documento EAEU/EAC.
 - Un destino CoC sólo puede ser emitido **contra una aprobación válida del tipo de destino**; no puede fabricar un CO de la UE solo de papeleo chino.
 
 ## Nivel 3 — Marcas de componentes/sistemas (e-mark vs E-mark)
@@ -31,7 +31,7 @@ Estos operan por debajo del nivel de todo el vehículo y a menudo se conflan:
 Una bolsa de componentes E-marked no ** igual a un WVTA de todo el vehículo, y una sola marca electrónica en un sistema no aprueba todo el coche. Construir el dossier de componente en paralelo con —no en lugar de— aprobación de todo el vehículo.
 
 ## Cómo montar el Dossier sin Mismatch
-1. **Nombre el mercado de destino primero** → identificar el régimen de todo el vehículo (WVTA / OTTS / GCC / nacional).
+1. **Nombre el mercado de destino primero** → identificar el régimen de todo el vehículo (WVTA OTTS GCC nacional).
 2. **Confirme el titular de la aprobación y representante autorizado en el mercado** (la EAEU requiere explícitamente uno).
 3. **Separar tres pilas:** aprobación de tipo entero-vehículo; CoC per-vehículo; componentes/marcas del sistema.
 4. **Mantenga la China 合格证 en la pila China** — utilizarla para demostrar la consistencia de la construcción, nunca como acceso al destino.
@@ -41,7 +41,7 @@ Una bolsa de componentes E-marked no ** igual a un WVTA de todo el vehículo, y 
 - A written **market→regime→ matriz de documentos** para cada destino, con el titular de la aprobación nombrado.
 - Confirmación de **que entidad emite el destino CoC** y que hace referencia a un número de aprobación válido de tipo.
 - Un inventario **componente-mark** que no se equivoca para la aprobación de todo-vehículo.
-- Verificación de fuentes primarias de cada regulación **dated** (2018/858, TR CU 018/2011, 1958 Acuerdo) antes de reclamaciones de la cara al cliente.
+- Verificación de fuentes primarias de cada regulación **dated** TR CU 018/2011, 1958 Acuerdo) antes de reclamaciones de la cara al cliente. 2018/858
 
 ## Preguntas frecuentes
 **¿Es mi CoC chino suficiente para registrarse en Europa?** No — el chino 合格证 es un documento nacional; el registro de la UE necesita aprobación de tipo UE y un CCA de la UE.
@@ -79,20 +79,20 @@ Una bolsa de componentes E-marked no ** igual a un WVTA de todo el vehículo, y 
 ## Fuentes " Verificación "
 | Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |
 |---|---|---|---|---|---|---|
-| MIIT Order No. 50 - admit framework | MIIT / State Council | CN | https://www.gov.cn/gongbao/content/2019/content_5380357.htm | 2026-09-03 | CROSS_CHECKED | Chino CoC/Contexto de admisión |
+| MIIT Order No. 50 - admit framework | MIIT State Council | CN | https://www.gov.cn/gongbao/content/2019/content_5380357.htm | 2026-09-03 | CROSS_CHECKED | Chino CoC/Contexto de admisión |
 | Nota de esquema WVTA + FMVSS (2018/858) | Órgano de certificación de terceros | UE | https://m.11467.com/product/d53638850.htm | 2026-09-03 | SINGLE_SOURCE | WVTA/ 2018/858 descripción; función de la CCA (secundaria) |
-| OTTS / TR CU 018/2011 Explicador | Proveedor de servicio de certificación | EAEU | https://m.11467.com/product/d21445928.htm | 2026-09-03 | CROSS_CHECKED | OTTS/EAC, representante autorizado (secundario) |
+| OTTS TR CU 018/2011 Explicador | Proveedor de servicio de certificación | EAEU | https://m.11467.com/product/d21445928.htm | 2026-09-03 | CROSS_CHECKED | OTTS/EAC, representante autorizado (secundario) |
 | e-mark vs E-mark explainer | Proveedor de servicio de certificación | Global/EU | https://m.11467.com/product/d55481671.htm | 2026-09-03 | SINGLE_SOURCE | e/E-mark distinction (secondary) |
 *Texto de la prueba: Los instrumentos UE/EAEU/UNECE se describen a partir de fuentes secundarias de servicio de certificación; no se captó un texto primario estable de EUR-Lex/UNECE/EAEU. Las fechas y el alcance de la reglamentación deben verificarse contra los textos primarios antes de utilizar el cumplimiento. El marco de China es la única parte respaldada por el funcionario. *
 
-| Reglamento (UE) 2018/858 (consolidado 2021-09-26) sobre la aprobación de tipo de vehículos automotores - WVTA; vehículo completo vs | EUR-Lex (Base de datos legal oficial de la UE) | CN | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02018R0858-20210926 | 2026-09-04 | VERIFIED |  |
-| Reglamento (UE) 2018/858 (original), Capítulo VI / Artículo 36 - El fabricante emite un CoC para cada conf vehicular | EUR-Lex | CN | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0858 | 2026-09-04 | VERIFIED |  |
-| 2018/858 Chapter VI (CoC) official reproduction | legislation.gov.uk (UK official statute law data | CN | https://www.legislation.gov.uk/eur/2018/858/chapter/VI/2018-05-30/data.pdf | 2026-09-04 | VERIFIED |  |
+| Reglamento (UE) (consolidado 2021-09-26) sobre la aprobación de tipo de vehículos automotores - WVTA; vehículo completo vs | EUR-Lex (Base de datos legal oficial de la UE) | CN | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02018R0858-20210926 | 2026-09-04 | VERIFIED |  | 2018/858
+| Reglamento (UE) (original), Capítulo VI Artículo 36 - El fabricante emite un CoC para cada conf vehicular | EUR-Lex | CN | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0858 | 2026-09-04 | VERIFIED |  | 2018/858
+| Chapter VI (CoC) official reproduction | (UK official statute law data | CN | https://www.legislation.gov.uk/eur/2018/858/chapter/VI/2018-05-30/data.pdf | 2026-09-04 | VERIFIED |  | 2018/858
 | Acuerdo de 1958 (Rev. 3), E/ECE/TRANS/ 505 - marco para la aprobación de los componentes/sistemas/STU de tipo Reglamento de las Naciones Unidas | CEPE (Naciones Unidas) | CN | https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2017/E-ECE-TRANS-505-Rev.3e.pdf | 2026-09-04 | VERIFIED |  |
 | GRRF- 84-18 (marca de aprobación/número de número, E + número de país) | UNECE WP. 29 GRRF | CN | https://unece.org/DAM/trans/doc/2017/wp29grrf/GRRF-84-18e.pdf | 2026-09-04 | VERIFIED |  |
 | Estado del Acuerdo de 1958 y Reglamento de las Naciones Unidas anexo | UNECE | CN | https://unece.org/status-1958-agreement-and-annexed-regulations | 2026-09-04 | VERIFIED |  |
 | Decisión de la Comisión de la Unión Aduanera No 877 (09.12.2011), por la que se adopta la Regulación Técnica TR CU 018/2011 "Sobre  | adilet.zan.kz — base de datos legal oficial del M | CN | https://adilet.zan.kz/rus/docs/H11T0000877 | 2026-09-04 | VERIFIED |  |
-| EEC Resolución de la Junta No 232 (09.12.2014) reglas para completar formularios OTTS / OTSH | Alta-Soft de referencia legal (T3; reproduce EEC de | CN | https://www.alta.ru/tamdoc/14kr0232/ | 2026-09-04 | SINGLE_SOURCE |  |
+| EEC Resolución de la Junta No 232 (09.12.2014) reglas para completar formularios OTTS OTSH | Alta-Soft de referencia legal (T3; reproduce EEC de | CN | https://www.alta.ru/tamdoc/14kr0232/ | 2026-09-04 | SINGLE_SOURCE |  |
 
 ## Revisión editorial
 - **Autor/examen**: [Equipo Editorial Exportador AutoBridge](/autores/) · método por nuestro [Política editorial](/editorial-policía/)

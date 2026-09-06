@@ -23,9 +23,9 @@
 |---|---|---|---|
 | 磁盘(SAIC) | MG4, 曼格・泽斯, 英国皇家陆军  MG5, MG扩展(由出口服务来源描述为最广的中文品牌RHD线条之一) | 联合王国、澳大利亚、泰国、南非、印度、斯里兰卡 | 工业来源——核查 |
 | 拜拜,拜拜,拜拜,拜拜 | ATTO 3 (Yuan Plus 导出名称),海豚,海豹 | 澳大利亚、联合王国、泰国、日本 | 工业来源——核查 |
-| 格瓦利/哈瓦尔/ORA | 哈利,H6号, 乔利昂, ORA 03,,,,,,,,,,,,,,,,,,,,,,,, 300号坦克(选定市场) | 澳大利亚、南非、泰国、联合王国、肯尼亚 | 工业来源——核查 |
-| 吉利/泽克尔 | 据报,有EX5条开发线与LHD/RHD平行设计; 几台吉利/泽克尔型号 | 英国、爱尔兰、澳大利亚、新西兰、马来西亚、香港 | 工业来源——核查 |
-| 红琪 | 放射性能新能量通过2026; Hong Kong experience centre reported from July 2026 | 联合王国、澳大利亚、新西兰、新加坡、泰国、马来西亚、印度尼西亚 | 媒体/汇总器——核查 |
+| 格瓦利/哈瓦尔/ORA | 哈利,H6号, 乔利昂, ORA 03, 300号坦克(选定市场) | 澳大利亚、南非、泰国、联合王国、肯尼亚 | 工业来源——核查 |
+| | 据报,有EX5条开发线与LHD/RHD平行设计; | 英国、爱尔兰、澳大利亚、新西兰、马来西亚、香港 | 工业来源——核查 |
+| 红琪 | 放射性能新能量通过2026; Hong Kong experience centre reported from July 2026 | 联合王国、澳大利亚、新西兰、新加坡、泰国、马来西亚、印度尼西亚 | |
 | 东风福 | ** 官方确认**: entered Thailand March 2026 with RHD NEV SUV "FRIDAY"  and  V9 建造供生殖健康市场使用 | 泰国 | ** 官员(东风)** 报告迟交是因为需要翻译。 |
 | 长安i(原NEVO) | Q05 shown as NEVO Q05 at the March 2026 Bangkok motor show (Thai RHD prospect) | 泰国 | 媒体——核查 |
 
@@ -35,9 +35,9 @@
 
 1. 请检查access-date=中的日期值 (帮助) **brand的Global/local-market官方网站** 目的地国家确认模式,修剪和RHD建设.
 2. 向供应商询问VIN**在交存前显示方向面(RHD)的**构件构建/配置表——而不是承诺"安排"RHD.
-3. 确认** 放射性能市场中的同位素**(照明、仪器、电子调用/标签规则不同);泰国的放射性能建筑不会自动获得联合王国的认证。
+3. 确认**
 4. 校验RHD ** 内置/定位**:右手擦拭几何,头部凸梁方向,仪表语言,信息娱乐和(对于EV)充电连接器,用于该市场.
-5. 确认分配/领导时间——放射性气体分批生产时经常在运动中产生,当放射性气体分单元存在时可能不库存。
+5.
 
 ## 为什么应该避免市场后LHD_RHD转换
 
@@ -56,7 +56,7 @@
 
 ## 经常被问到的问题
 
-**中国品牌是否制造真正的RHD车? ** 是的, - MG, 已经是了 。 拜拜 拜拜 拜拜 格瓦西-哈瓦尔, 吉利/泽克尔  and  其他人则经营工厂的生殖健康方案,  and  Dongfeng officially launched RHD models in Thailand in March 2026; 证实官方频道的准确模式 因为列表更改。
+**中国品牌是否制造真正的RHD车? ** 是的, - MG, 已经是了 。 拜拜 拜拜 拜拜 格瓦西-哈瓦尔,  and  其他人则经营工厂的生殖健康方案,  and  Dongfeng officially launched RHD models in Thailand in March 2026; 证实官方频道的准确模式 因为列表更改。
 ** BYD Atto 3与袁加相同吗? ** Atto 3是袁加平台的出口市场名称;由VIN/spec而不是名称匹配.
 单иㄓ碞р进LHDó 传ΘRHD盾 一般来说,它不是安全或在法律上的——它影响结构、批准和保修;取而代之的是工厂的放射性能。
 ** 为泰国建造的RHD汽车在联合王国/澳大利亚工作吗? ** 并非自动——每个RHD市场都有自己的同位化和本地化要求.
@@ -94,15 +94,15 @@
 |---|---|---|---|---|---|---|
 | RHD 中国汽车市场指南 | StarVia Auto(出口服务) | 红外线市场 | https://www.starviaauto.com/en/blog/right-hand-drive-chinese-cars-markets-guide 维基月球 | 2026-09-02 | 横跨 | MG/GWM 放射性气体分流线和市场(工业;核查) |
 | 中国的哪辆车适合购买RHD | StarVia Auto(出口服务) | 红外线市场 | https://www.starviaauto.com/en/faq/which-chinese-vehicles-are-suitable-for-buyers-who-need-right-hand-drive 维基月球 | 2026-09-02 | 横跨 | BYD Atto 3/Dolphin/Seal RHD(工业; 核查) |
-| RHD 准备的吉利/泽克尔型号 | FOBEV(出口服务) | 红外线市场 | https://www.fobev.com/vehicles/rhd-ready/ 维基月球 | 2026-09-02 | 横跨 | 优EX5 平行LHD/RHD,Zeekr RHD(工业;核查) |
+| RHD | FOBEV(出口服务) | 红外线市场 | https://www.fobev.com/vehicles/rhd-ready/ 维基月球 | 2026-09-02 | 横跨 | 优EX5 平行LHD/RHD,Zeekr RHD(工业;核查) |
 | 东风福兴进入泰国(官方) | 东风汽车集团(官方) | TH 电话 | https://www.dfmc.com.cn/news/company/news_20260311_1142.html 维基月球 | 2026-09-02 | 实录 | March-2026 Thailand entry, 日内瓦星期五/V9(已生效) |
 | 长安NEVO Q05 曼谷的首映会 | 自动家庭 车家号 (媒体) | TH 电话 | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/25092921 维基月球 | 2026-09-02 | 横跨 | NEVO Q05 国家 泰国RHD前景(媒体;核查) |
-| 洪奇生殖健康战略/生殖健康市场背景 | smzdm(汇总器);自动报告(工业) | 红外线市场 | https://post.m.smzdm.com/p/aqrp0mkp/ (中文(简体)). https://m.autoreport.cn/guoji/20260829/19112676566.html 维基月球 | 2026-09-02 | 横跨 | Hongqi RHD推;~35% 全球RHD市场销售量 |
+| | smzdm(汇总器);自动报告(工业) | 红外线市场 | https://post.m.smzdm.com/p/aqrp0mkp/ (中文(简体)). https://m.autoreport.cn/guoji/20260829/19112676566.html 维基月球 | 2026-09-02 | 横跨 | Hongqi RHD推;~35% 全球RHD市场销售量 |
 
 *Confident note(AutoBridge标准):只有东风的泰国RHD发射是VRIFIED(制造商官方). 品牌模型列表是出口服务/媒体快照(SINGLE_SOURCE),经常变化,必须在官方品牌/本地分销渠道上通过VIN确认. 市场转产后的合法性没有得到核实,被标为风险。 * 报告迟交是因为需要翻译。
 
 ## 编辑评论
-- ** 授权/审查人**:[自动桥出口编辑组](/作者/) / 方法,按我们的[编辑政 (/编辑政策/)
+- ** 授权/审查人**:[自动桥出口编辑组](/作者/) 方法,按我们的[编辑政 (/编辑政策/)
 - ** 上次审查**:2026-09-05
 - **参考市场**:全球RHD市场(来自中国的外包)
 - ** 核查方法**: 一次正式发布加行业快照; 是否可提供,应留待每个VIN正式确认

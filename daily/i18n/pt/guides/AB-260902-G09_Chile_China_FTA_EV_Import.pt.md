@@ -12,7 +12,7 @@
 ## A Oportunidade e o Descalculo Recorrente
 O Chile opera acordos de comércio livre com seus principais parceiros, ** incluindo a China**. Um veículo de origem chinesa conforme pode utilizar a preferência de ACL (ad-valorem ** dever 0% **), enquanto o direito de ad-valorem geral do Chile é de 6% do valor aduaneiro CIF** para a origem não preferencial — ambos agora ancorados em fontes oficiais (abaixo). O erro recorrente do comprador é ler "o dever FTA 0%" como " custo 0% para importar." Não é: ** 19% IVA ainda se aplica, o 0% depende de provar origem, e a homologação é um fluxo de trabalho separado.** Este guia é específico para **Chile**.
 ## A pilha de impostos, linha por linha (oficialmente fundamentada)
-| Elemento | Tratamento | Base / confiança |
+| Elemento | Tratamento | Base confiança |
 |---|---|---|
 | Direito ad-valorem geral | ** 6% CIF (valor aduaneiro)** para origem não preferencial | ** VERIFIED — Serviço Aduaneiro Nacional chileno (aduana.gob.cl)** |
 | IVA (IVA) | ** 19% sobre o valor aduaneiro CIF + direito** — cobrado mesmo quando o direito é de 0% ao abrigo do ACL | ** VERIFIED — aduana.gob.cl** |
@@ -23,7 +23,7 @@ A alfândega chilena declara claramente a regra geral: as importações pagam um
 Um rascunho anterior carregou uma "taxa de 1% e uma isenção de 30 dólares deminimos" na pilha de veículos. Esta regra diz respeito a **pequenas remessas postais e correios não comerciais, e não importações de veículos comerciais**, pelo que foi retirada da construção de custos do veículo. Não aplique a lógica de-minimis do correio a um carro enviado.
 ## Origem É a condição para 0% — obter o certificado direito
 A preferência ACL aplica-se apenas a ** mercadorias originárias** que satisfaçam a regra de origem específica do produto e que tenham um ** certificado de origem** válido emitido pelo organismo autorizado, coerente com a factura, a lista de embalagem, B/L e VIN. Operacionalmente:
-- Confirmar o código **HS do veículo e a sua regra de origem FTA (verifique o texto atual do ACL / SUBREI para essa posição — não assumir que cada veículo se qualifica automaticamente).
+- Confirmar o código **HS do veículo e a sua regra de origem FTA (verifique o texto atual do ACL SUBREI para essa posição — não assumir que cada veículo se qualifica automaticamente).
 - Obter o certificado de ACL que nomeia o mesmo exportador/ destinatário e os dados relativos ao veículo que os documentos comerciais.
 - A broken or missing origin chain defaults the shipment to the **6%** general duty.
 ## 3CV Homologação é separada das alfândegas
@@ -32,7 +32,7 @@ Os veículos colocados no mercado chileno exigem ** 3CV homologação** (o proce
 - ** Qualquer limiar de "luxo/sobretaxa"** (uma fonte da indústria citou uma porcentagem acima de uma faixa de valor): ** não confirmado contra o texto da autoridade fiscal chilena (SII) e removido da pilha de custos factuais** — verificar a aplicabilidade ao seu modelo/preço com uma fonte de imposto chilena antes de orçamentar.
 - **A proposta de maio-2026 da ANAC para reduzir o imposto de 6% para os EVs de parceiros não-FTA**: uma proposta de associação comercial **, não aprovada pela lei**. Note também que um EV de origem chinesa compatível já usa o canal FTA 0%, então o debate não-FTA é uma linha diferente. Reverificar na data de envio; nunca citar uma proposta como política.
 ## O que AutoBridge adiciona além de um Blog de tarifas
-Guias genéricos misturam regras de-minimis de correio, propostas e imposto promulgado em um número. O método recomendado é construir uma pilha **país-correta para um *veículo*** (6% geral / 0% preferência FTA + 19% IVA no valor de dever-inclusive), amarrar o documento ** certificado-de-origem definido para o VIN**, e planejar o ** 3CV linha do tempo em paralelo com o transporte** assim que a preferência 0% não é perdido em uma papelada de descompasso e primeiro registro não é atrasado.
+Guias genéricos misturam regras de-minimis de correio, propostas e imposto promulgado em um número. O método recomendado é construir uma pilha **país-correta para um *veículo*** (6% geral 0% preferência FTA + 19% IVA no valor de dever-inclusive), amarrar o documento ** certificado-de-origem definido para o VIN**, e planejar o ** 3CV linha do tempo em paralelo com o transporte** assim que a preferência 0% não é perdido em uma papelada de descompasso e primeiro registro não é atrasado.
 ## Sequência de operação
 1. A Comissão considera que o auxílio estatal concedido pela FFHG à FFG é compatível com o mercado interno.
 2. Organize o Certificado de Origem do ACL com documentos correspondentes ao VIN.
@@ -42,7 +42,7 @@ Guias genéricos misturam regras de-minimis de correio, propostas e imposto prom
 6. Alinhar os incoterms/pagamento e assegurar a perna oceânica (ver os guias relevantes).
 ## Antes do pagamento — Lista de confirmação
 - Código SH + regra de origem da ACL; certificado ACL organizado e conforme com o VIN.
-- Estampa fiscal calculada na base aduana.gob.cl (preferência 6% geral / 0%; 19% IVA em direitos CIF+).
+- Estampa fiscal calculada na base aduana.gob.cl (preferência 6% geral 0%; 19% IVA em direitos CIF+).
 - Qualquer surtaxe verificada com uma fonte de imposto chilena, não presumida.
 - 3CV rota, taxa atual e linha do tempo citado pelo certificador (nenhum número de referência reutilizado).
 - Proposta/alterações do estatuto verificadas de novo a partir da data de envio.
@@ -91,7 +91,7 @@ Guias genéricos misturam regras de-minimis de correio, propostas e imposto prom
 
 * Nota de confiança: o direito geral de 6% e 19% IVA são VERIFIED sobre a alfândega chilena; a preferência FTA 0% é oficial, mas condicionada à origem. A regra anteriormente incluída 1% /US$ 30 correio (não aplicável aos veículos), um limiar de luxo-surtaxe não confirmado e uma taxa fixa 3CV foram removidos do corpo factual; regras de origem de nível HS e qualquer surtaxe deve ser confirmada com a Alfândega Chilena/SII/SUBREI. *
 ## Revisão Editorial
-- **Autor / revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)
+- **Autor revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)
 - ** Última revisão**: 2026-09-05
 - **Mercado de referência**: Chile
 - ** Método de verificação**: Fonte principal aduaneira do Governo para os direitos/IVA; organismo comercial oficial para a preferência ACL; propostas e taxas não confirmadas mantidas fora da pilha factual

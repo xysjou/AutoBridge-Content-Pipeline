@@ -6,13 +6,13 @@
 - ** H1 **: Du hành xe cộ Trung Quốc ở Ocean Transit: Clause Tier, Sum Insbing và một lời tuyên bố là thật sự được trả
 - **Cumpary Keyword**: bảo hiểm hàng hóa biển nhập khẩu xe Trung Quốc ICC A B C
 - **Secondary Search Words**: Viện Cargo Clauses Tất cả những rủi ro, LMA CL382, Ký hiệu CIP 2020 ICC A, ICC Tối thiểu C, Trung tâm vận chuyển hàng của nhà SDR, Bảo hiểm phương tiện RoRo, ắc quy bắn ra từ biển bao gồm
-- **I nội bộ Link gợi ý: //guides/vehic-import-t-vs-lc/; /guides/commercal-crac-coveral-coverment-china /; /guides/fides-chin-chin-ev-pist-ev-inction/
+- **I nội bộ Link gợi ý: /guides/commercal-crac-coveral-coverment-china /guides/fides-chin-chin-ev-pist-ev-inction/
 - **Image gợi ý**: Tháp kim tự tháp A/B/C ICC; rủi ro-difer/inscation- Percation bởi Inctern; tình trạng tàu đã được đặt; các máy tính-cap chống lại khoảng cách giá trị phương tiện
 - **LT gợi ý**: "Thợ sửa xe C.A.C; "T.F.A.T.I.T.V.V.T.O.I.T.O.D.O.D., nghĩa vụ bảo hiểm bán hàng theo định kỳ 2020, "điều kiện phương tiện làm việc trước khi thành lập"
 ## Quan điểm sai lầm khiến người ta phải trả giá bằng tiền
 Người mua giả định rằng dưới FOB hoặc COR dòng ** Tàu vận chuyển ** bồi thường đầy đủ một chiếc xe bị trầy xước, bị đánh cắp, bị đánh cắp hoặc bị mất nước. Nó không phải là: trách nhiệm hàng hóa bị bao phủ bởi hội nghị quốc tế dưới giá trị của một chiếc xe, và các điều khoản hàng hóa bạn chọn quyết định liệu thiệt hại vận chuyển có bao gồm tất cả. Trang này bao gồm **Mariine bảo hiểm vận chuyển xe cộ từ đường biển Trung Quốc** (toàn bộ) — các điều khoản và yêu cầu khác biệt với giá trị trong nước và từ sự lựa chọn của RoRo-vs-container.
 ## Ba người ông già Nô - en — Được lệnh phải thi hành nhiệm vụ
-Học viện Cargo Clauses được xuất bản bởi Hiệp hội Thị trường **Lloyd (LMA), và Hiệp hội Tác giả Quốc tế (IUA)**; chữ hiện tại (A)/ (B) / (B) — Điều khoản ** CL382, CL383 (B), CL384 (C) — hiệu ứng 1 2009 * (từ điển chữ LMATETEETED).
+Học viện Cargo Clauses được xuất bản bởi Hiệp hội Thị trường **Lloyd (LMA), và Hiệp hội Tác giả Quốc tế (IUA)**; chữ hiện tại (A)/ (B) (B) — Điều khoản ** CL382, CL383 (B), CL384 (C) — hiệu ứng 1 2009 * (từ điển chữ LMATETEETED).
 | & Thier | Vỏ bọc (ra ngoài) | Có thể dùng xe |
 |---|---|---|
 | **ICC (A) — "Tất cả rủi ro" (CL382)** | Hiển thị các rủi ro bao gồm tình cờ mất mát vật lý/sự cố ý gây ra mất mát về thể chất/sự ảnh hưởng đến các mệnh đề của các yêu cầu, sự gắn kết của trang bìa và các từ chính sách thực tế; *Có thể * đáp ứng cho sự kiện giao thông/tay như ăn cắp hoặc xử lý thiệt hại nơi các kèm theo và không loại trừ áp dụng | Đường cơ sở cho xe cộ |
@@ -20,13 +20,13 @@ Học viện Cargo Clauses được xuất bản bởi Hiệp hội Thị trư�
 | **ICC (C) — thương vong chính (CL384) | Một số thương vong lớn nhỏ | Không đủ nước cho một chiếc xe |
 Xe thường bảo đảm **ICC (A)** vì sự mất mát được thấy nhiều nhất trên RoRo và trong việc điều khiển cổng — vô tình gây thiệt hại, trộm cắp, cào cào và vết lõm — rơi ra ngoài phạm vi (B)/ (C); liệu một sự kiện cụ thể vẫn còn tùy thuộc vào các dấu chấm, điểm đính kèm và chính sách. ** Chiến tranh và tấn công là những điều khoản riêng biệt** mua thêm cho những tuyến đường nhạy cảm
 ## Ký hiệu 2020: CIP-vs-CIF Người mua sách là cô nương
-Đây là một tập hợp được đặt dưới những tài liệu Incocition của ICC (VERIED): dưới định giới hạn 2020 của người bán, nghĩa vụ bảo hiểm được nâng lên Viện Cego Clauses (A) cho CIP**, trong khi **CIF giữ lại ít nhất dưới cùngICC (C) * Thư viện kỹ thuật số / ICC Học viện giải thích sự thay đổi 2010 2020 và sự đánh đổi giá cao. Hậu quả thực tế:
+Đây là một tập hợp được đặt dưới những tài liệu Incocition của ICC (VERIED): dưới định giới hạn 2020 của người bán, nghĩa vụ bảo hiểm được nâng lên Viện Cego Clauses (A) cho CIP**, trong khi **CIF giữ lại ít nhất dưới cùngICC (C) * Thư viện kỹ thuật số ICC Học viện giải thích sự thay đổi 2010 2020 và sự đánh đổi giá cao. Hậu quả thực tế:
 - Trên **CIF**, người bán chỉ có thể nợ ít nhất **ICC (C)** bao gồm cả một chiếc xe cần **(A) * (viết **ICC (A) vào hợp đồng và bất cứ lá thư tín dụng nào, hoặc mua lên trên của riêng bạn.
 - Trên **CIP**, mức mặc định là **ICC (A)** cho lợi ích của người mua — vẫn xác nhận điều khoản thực tế trên chứng nhận thay vì giả định.
 ## Setting the Insured Value — Two Different "110%" Rules (no invented premium)
 The 110% convention appears in **two distinct contexts that must not be merged into one universal formula**:
 - ** Bí mật cho máy tính 2020 (trực của người bán)** Nơi mà Incocitions cần bảo hiểm (CIF/CIP), người bán phải có được ít nhất 110% của hợp đồng để có lợi cho người mua.
-- **Document credits / UCP (thư tín dụng):** Nơi mà tín dụng đòi hỏi bảo hiểm nhưng không có số lượng, số tiền bảo hiểm thường được dùng ít nhất 110% giá trị CNP hoặc CNP của hàng hóa.
+- **Document credits UCP (thư tín dụng):** Nơi mà tín dụng đòi hỏi bảo hiểm nhưng không có số lượng, số tiền bảo hiểm thường được dùng ít nhất 110% giá trị CNP hoặc CNP của hàng hóa.
 Vậy là không có "số tiền bảo hiểm = iF 110%" bao gồm mọi giao dịch: xác định quy tắc nào chi phối (các định kỳ hợp đồng-pry hoặc cơ sở điều hành của LF/CIP), sử dụng cơ sở đó, và ** prim = lượng bảo hiểm. Những chiếc thuyền chở theo **rate nổi với lộ trình, mùa, dây cáp, tàu chở hàng và mỗi chuyến hàng** — không có phần trăm cố định nào được xuất bản ở đây. Hãy ghi ra một câu trích dẫn từng phần một và kiểm tra nó trùng khớp với điều khoản và thêm chi tiết mà bạn cần.
 ## Tại sao khả năng của người nhận là không đủ
 Dưới quy tắc **Hague-Visby, trách nhiệm chở hàng được bao bọc ở ** 666.67 SDR mỗi gói/unit hoặc 2 SDR trên một kilogramme, bất cứ cái gì cao hơn** — cả hai đều dưới giá trị của một phương tiện. Số lượng SDR được sửa đổi theo thời gian (nhận diện con số hiện tại), nhưng khoảng cách cấu trúc chính xác là số lượng bảo hiểm hàng hóa. Hãy chú ý, nắp hội nghị là một điều khoản về hiệp ước, không phải một yêu cầu tiếp thị của người bảo hiểm.
@@ -36,7 +36,7 @@ ICC (A) là rộng, không phải tuyệt đối: nó không bao gồm hư hỏn
 Bảo hiểm đáp trả cho sự mất mát có ghi chép:
 - ** Trước khi chuyển hàng**: có những bức ảnh/ ngày tháng của mỗi bảng điều khiển, bánh xe, kính, nội thất, bên dưới và (V) SOC, đã chứng kiến ở bàn giao tiếp.
 - **Docunts**: hóa đơn, danh sách gói ghém đồ, B/L (Ro B/L ghi rõ điều kiện phương tiện), chứng nhận bảo hiểm, quản lý biên lai.
-- ** Khi giải ngũ**: thanh tra ** trước khi** ký biên lai sạch; ghi chú thiệt hại trên bảng điểm với hình ảnh tức thì; sắp xếp khảo sát nơi cần thiết và thời hạn chính sách; lưu giữ các phần bị hư hại / đóng gói.
+- ** Khi giải ngũ**: thanh tra ** trước khi** ký biên lai sạch; ghi chú thiệt hại trên bảng điểm với hình ảnh tức thì; sắp xếp khảo sát nơi cần thiết và thời hạn chính sách; lưu giữ các phần bị hư hại đóng gói.
 ## Tự độngBridge thêm gì ngoài một người lái máy bay phá sản bảo hiểm
 Kẻ phá sản bán một cái giá phải trả; hiếm khi nào họ liên kết với hợp đồng mua bán. Phương pháp khuyến khích là ** Tên chính xác của điều khoản ICC (và bất kỳ chiến tranh/strikes bổ sung) trong công ty PI/L-C, do đó một người bán CF không thể đơn giản mặc định là ICC (C), * đặt các điều khoản bảo hiểm cùng với các dự án quảng cáo thương mại và quy tắc Incoscites/UCP ứng dụng, và chuẩn bị một hồ sơ điều kiện trước khi giải phóng** — tài liệu thường xác định liệu cho biết một phương tiện nào đó được trả tiền.
 ## Trước khi thanh toán Freight/Premium
@@ -88,13 +88,13 @@ Kẻ phá sản bán một cái giá phải trả; hiếm khi nào họ liên k�
 | Bảo hiểm xe hơi dùng (ICC A/B/C 对比) | SH GLOBAL | GLOBAL | https://shglobalauto.com/blog/korean-used-car-marine-insurance-claim | 2026-09-02 | SINGLE_SOURCE | ICC (A/B/C) 覆盖范围 |
 | Hướng dẫn Xuất xe hơi đã dùng | SH GLOBAL | GLOBAL | https://shglobalauto.com/blog/korean-used-car-export-insurance-guide | 2026-09-02 | SINGLE_SOURCE | 车辆推荐 ICC (A) |
 | Mua xe hơi thủy quân lục chiến Bảo hiểm: Bảo hiểm tổng, tỷ lệ và khẳng định | 老金出海 laojinchuhai | GLOBAL | https://www.laojinchuhai.com/en/insights/guide-marine-insurance | 2026-09-02 | SINGLE_SOURCE | CIP 2020 升至 ICC (A) CIF 最低 ICC (C) |
-| Thuyết phục xe cộ trên những chiếc bình Roro | Voyage cover(保险经纪 / 承保专业站, 引 IUA/LMA Hague-Visby) | GLOBAL | https://voyagecover.com/guides/roro-vehicle-cargo-insurance-underwriter-decline | 2026-09-02 | SINGLE_SOURCE | Hague-Visby 承运人责任上限  thể loại 固有缺陷除外 |
-| Bảo hiểm cho hãng hàng hải | Name | GLOBAL | https://www.ascopeshipping.co.uk/marine-cargo-insurance/ | 2026-09-02 | SINGLE_SOURCE | 一切险  dám 战争 / 罢工附加险 |
+| Thuyết phục xe cộ trên những chiếc bình Roro | Voyage cover(保险经纪 承保专业站, 引 IUA/LMA Hague-Visby) | GLOBAL | https://voyagecover.com/guides/roro-vehicle-cargo-insurance-underwriter-decline | 2026-09-02 | SINGLE_SOURCE | Hague-Visby 承运人责任上限  thể loại 固有缺陷除外 |
+| Bảo hiểm cho hãng hàng hải | Name | GLOBAL | https://www.ascopeshipping.co.uk/marine-cargo-insurance/ | 2026-09-02 | SINGLE_SOURCE | 一切险  dám 战争 罢工附加险 |
 | 中古車輸出の海上保険 (保额公式) | PROETCARS | GLOBAL | https://planetcars.jp/index.php/ja/insurance | 2026-09-02 | SINGLE_SOURCE | 保险金额 = CFIF× 110%  thể loại 保费公式 |
 
 * Ghi chú: phạm vi/số mệnh lệnh và các nhiệm vụ bảo hiểm trong nội bộ được thực hiện trên tài liệu chính của LMA/ICC. Con số Hague-Visby SDR là một điều khoản hiệp ước để xác nhận cho số lượng tiền đã được sửa đổi hiện nay; tỷ lệ bảo hiểm là trên đầu người và không cố ý nói ra; vỏ bọc ắc quy-quy-náp là đặc trưng chính sách. ♪
 ## Xem lại tập tin
-- **Author / recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
+- **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
 - **Last xem lại**: 2026-09-05
 - **Trible market**: hàng hóa đại dương toàn cầu từ Trung Quốc
 - ** phương pháp phân phối**: tiêu chuẩn/hình thị-nhân vật từ điển chính cho các điều khoản và nội bộ nhiệm vụ; các nguồn công nghiệp chỉ cho quy ước hoạt động; tỷ lệ còn lại để sống

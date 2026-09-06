@@ -4,10 +4,10 @@
 - **SEO Título**: Foton Daimler AUMAN EST Tractor: China-Market Specs & Export Guide
 - **Meta Descripción**: El mercado chino Foton Daimler Cabeza de tractor pesado AUMAN EST: China-V ISG y China-VI X13 líneas, ZF/Fast gearboxes, ~ 40 t GCW clase, con el BEV mantenido como una línea separada.
 - ** H1 **: Foton Daimler AUMAN EST (China-V/VI) — Chino-Marco de tractor pesado Especies y controles de exportación
-- **Primary Keyword**: Foton Daimler AUMAN / 福田戴姆勒欧曼 欧曼 EST 重型牵引车 (Camión tractor) specs export
+- **Primary Keyword**: Foton Daimler AUMAN 福田戴姆勒欧曼 欧曼 EST 重型牵引车 (Camión tractor) specs export
 - **Segundary Search Terms**: AUMAN EST export; Foton Daimler cabeza de tractor; tractor de camiones pesados chinos; motor X13; 6x4 tractor
 - ** URL agregada**: /vehicles/foton-auman-est-tractor/
-- **Intent de búsqueda**: 了解 Foton Daimler AUMAN / 福田戴姆勒欧曼 欧曼 EST 重型牵引车 (Camión tractor) 中国版规格, 配置与出口适配性 (车型参数页)
+- **Intent de búsqueda**: 了解 Foton Daimler AUMAN 福田戴姆勒欧曼 欧曼 EST 重型牵引车 (Camión tractor) 中国版规格, 配置与出口适配性 (车型参数页)
 - **Sugerencias de Enlace Interno**: /vehicles/foton-auman-est-tractor/, /guides/tir-road-transport-china-central-asia/, /guides/bill-of-lading-types-history/
 - **Esquema de alcance**: Artículo + Vehículo (no Producto/Offer/Review)
 
@@ -45,7 +45,7 @@ Siempre indica si la unidad es China-V (histórica) o China-VI actual; no presen
 **¿Cuál es el GCW exacto?** Sobre la clase 40 t para 6x4; confirmar por homologación.
 ¿Hay un EST eléctrico? Existe una presentación separada de 2026 BEV, no la fusiones con las especificaciones diesel.
 **¿Cuál caja de cambios?** ZF 12TX AMT o Fast 16-speed, por construcción.
-** ¿X13 salida?** 12.9 L, 412 kW / 560 hp, 2600 N·m en la línea China-VI.
+** ¿X13 salida?** 12.9 L, 412 kW 560 hp, 2600 N·m en la línea China-VI.
 
 
 ## Fuentes " Verificación "
@@ -53,8 +53,8 @@ Siempre indica si la unidad es China-V (histórica) o China-VI actual; no presen
 |---|---|---|---|---|---|---|
 | 欧曼 EST 车型文章 | 汽车之家车家号 | CN | T3 | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/3133030?t=0x2233 | X12 动力, AMT |
 | 欧曼 EST-A 配置 | 汽车之家车家号 | CN | T3 | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/2914236?t=0x2233 | ISGe5-460, ZF 变速 |
-| 欧曼 合作动力 | 汽车之家车家号 | CN | T3 | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/partner/yidian/article/3450841 | 潍柴 / 法士特配置 |
-| 欧曼 EST 510 词条 (T4 线索) | 抖音百科 | CN | T4 | CROSS_CHECKED | https://m.baike.com/wiki/%E6%AC%A7%E6%9B%BCEST%20510/7562809276172075042 | 公告型号 / 国五参数线索 |
+| 欧曼 合作动力 | 汽车之家车家号 | CN | T3 | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/partner/yidian/article/3450841 | 潍柴 法士特配置 |
+| 欧曼 EST 510 词条 (T4 线索) | 抖音百科 | CN | T4 | CROSS_CHECKED | https://m.baike.com/wiki/%E6%AC%A7%E6%9B%BCEST%20510/7562809276172075042 | 公告型号 国五参数线索 |
 | 欧曼纯电 /GN 牵引车申报 | 新浪财经 | CN | T3 | CROSS_CHECKED | https://cj.sina.cn/article/norm_detail?froms=ttmp&url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Faigc%2Fxcsb%2F2026-08-07%2Fdoc-inimnrai3221568.shtml%3Ffinpagefr=ttzz | 2026 纯电申报 (独立新能源线, 勿混入燃油) |
 | Foton Motor sitio oficial | Beiqi Foton Motor 福田汽车 (OEM) | CN | T1 | VERIFIED | https://www.foton.com.cn/ | marca/model-line identity and OEM authority |
 | Ministerio de Industria y Tecnología de la Información (MIIT) | MIIT 工业和信息化部 | CN | T1 | VERIFIED | https://www.miit.gov.cn/ | homologación/autoridad de denuncia; confirman el modelo exacto, las masas y el código por VIN/renuncia |

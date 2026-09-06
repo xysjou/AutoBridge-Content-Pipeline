@@ -16,18 +16,18 @@ Los guías de empaquetado de documentos suelen citar un estándar obligatorio de
 
 ## El estándar de certificado actual (verificado)
 - **Finalidad de la policía: GB/T 21085-2020 * Certificado de fábrica de vehículos móviles***, un estándar nacional **recomendado**, emitido 2020-04-28, en vigor 2020-11-01, y ** revisado como todavía actual en 2026-01-27 **. El certificado de fábrica es expedido por la empresa de fabricación.
-- **FUTURO / PROYECTO: certificado obligatorio *Fábrica de vehículos*, plan número 20260041-Q-339 ** — destinado a sustituir GB/T 21085-2020, asignado 2026-01-27 con un ciclo 16-month y actualmente bajo aprobación; el texto MIIT "GB 21085 —XXXX" es un borrador ** de consulta**. Es **no publicado, no eficaz, y nunca debe ser etiquetado actual o obligatorio** en un documento orientado al comprador.
+- **FUTURO PROYECTO: certificado obligatorio *Fábrica de vehículos*, plan número 20260041-Q-339 ** — destinado a sustituir GB/T 21085-2020, asignado 2026-01-27 con un ciclo 16-month y actualmente bajo aprobación; el texto MIIT "GB 21085 —XXXX" es un borrador ** de consulta**. Es **no publicado, no eficaz, y nunca debe ser etiquetado actual o obligatorio** en un documento orientado al comprador.
 
 ## El juego de documentos de Handover (comprobados cruzados)
 Un vehículo nuevo entregado en el hogar normalmente viaja con: factura de venta completa, certificado de fábrica (doméstico), hoja de inspección de productos básicos, ** certificado de conformidad**, vale de garantía (tres garantía), manual de mantenimiento, manual del propietario y lista de herramientas/pares a bordo. Para ** ventas de exportación de vehículos nuevos**, la etapa de registro nacional requiere además la licencia de exportación de vehículos ** del fabricante de seguridad/técnica (original)** y una copia ** de la licencia de exportación de vehículos de motor de autoría del comercio** (por las reglas de trabajo de registro de vehículos motorizados).
 
-## Multietapa / Incompleto-Vehicle Regla: Retirada pendiente de una base actual
+## Multietapa Incompleto-Vehicle Regla: Retirada pendiente de una base actual
 Un proyecto anterior describió cómo los vehículos completados de vehículos incompletos importados o mediante fabricación multietapa se emitirían únicamente un certificado de fábrica de vehículos completos. La fuente de esa regla es sólo un borrador de consulta**; es **no confirmado por el texto actual GB/T 21085-2020 o cualquier regulación actual**, por lo que es **no declarado como un requisito actual** aquí. Trate de cualquier acuerdo de esta índole caso por caso hasta que exista una base no trazada.
 
 ## NEV y artículos de traducción — Recomendación editorial, no un mandato
 A continuación se indica **recomendado** para prepararse; si cada uno es necesario depende de la autoridad portaaviones/marimos y del puerto de destino, por lo que se enmarcan como guía en lugar de un mandato universal:
 - Para un vehículo ** de nueva energía**: la batería ** Resumen de prueba de UN38.3**, certificado de embalaje de mercancías peligrosas cuando sea aplicable, y MSDS (enlazado a la guía de envío IMDG).
-- Para **depuración/registración por períodos de más de tiempo**: versión **Inglés o en idioma de destino** del certificado de conformidad / hoja de parámetro técnico, estampada por el partido emisor; si se necesita la notarización/ legalización consular depende del destino.
+- Para **depuración/registración por períodos de más de tiempo**: versión **Inglés o en idioma de destino** del certificado de conformidad hoja de parámetro técnico, estampada por el partido emisor; si se necesita la notarización/ legalización consular depende del destino.
 
 ## Pedido de la Asamblea Recomendamos
 1. Confirme el certificado de fábrica se emite bajo **current GB/T 21085-2020 ** — no exija el estándar obligatorio no publicado por el usuario.

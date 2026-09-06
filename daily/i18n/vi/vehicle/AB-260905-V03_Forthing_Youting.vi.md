@@ -4,11 +4,11 @@
 - **SEO Title Youing MPV: China-Market & PHV Line, Spec và Elit Guide
 - **Meta Mô tả**: Thị trường Đông Phong Yêu thích Trung Quốc (游艇) MPV: giữ các đường ICE và PHV riêng biệt; kích thước, 7-seat cabin, khóa điện và xuất khẩu các điểm xác thực.
 - ** H1 **: Dong Phong ân Công Dân Mở mang (2025/2026) — MPV-Trung Quốc Comment
-- ** Từ khoá bí mật **: Dong Phong sáng lập / 东风风行 Chim sẻ / 风行游艇 quang phổ xuất
+- ** Từ khoá bí mật **: Dong Phong sáng lập 东风风行 Chim sẻ 风行游艇 quang phổ xuất
 - **Secondary Search termss**: Forthing Youeting eport; 游艇 MPV  dùng; Trung Quốc 7-seat MPV; MPV PHV; nhập khẩu xe tải hành khách
 - **Sudeest URL**: /vehicles/ forthing-try- youing/
-- **Tìm kiếm Intent**: 了解 Dong Phong Phong Đồ / 东风风行 Youting / 风行游艇 中国版规格  配置与出口适配性 (车型参数页).
-- **I nội bộ Link gợi ý*: /vehcles/ for things- youing/, /guides/ckd-kell-kell-kew-kit-sed-sebbly /, /guides/export-documpt-hizer-hi Story/
+- **Tìm kiếm Intent**: 了解 Dong Phong Phong Đồ 东风风行 Youting 风行游艇 中国版规格  配置与出口适配性 (车型参数页).
+- **I nội bộ Link gợi ý*: /vehcles/ for things- youing/, /guides/ckd-kell-kell-kew-kit-sed-sebbly /guides/export-documpt-hizer-hi Story/
 - **Schema Scope**: Điều + xe cộ (không có sản phẩm/ sản phẩm/ văn bản/ Xem lại)
 
 ## Văn cảnh người mua: một bảng tên MPV, hai dòng năng lượng
@@ -16,8 +16,8 @@
 
 ## Cabin, kích thước và hai đường
 - **Wheelsese/sating**: 2900 mm, 7 (5 门), 平开门 cánh cửa (năm cánh cửa, rung/ mảnh ghép — xác nhận bằng cách tỉa).
-- **Người đẹp: 4850 / 1900 / 1715 mm (đã kiểm tra chéo).
-- **PHV body**: 4850 / 1900 / 1740 mm (đã kiểm tra chéo; lưu ý đường mái cao hơn).
+- **Người đẹp: 4850 1900 1715 mm (đã kiểm tra chéo).
+- **PHV body**: 4850 1900 1740 mm (đã kiểm tra chéo; lưu ý đường mái cao hơn).
 - **PHV powertrain**: 1.5T 154 马力L4 động cơ mô-men xoắn 230 N·m, mô-men xoắn 310 N·m, 1 挡 DHT, tốc độ cao nhất 180 km/h.
 - **Charing ghi chú**: trên tài khoản Nhà máy tự động bị bắt thì PHV ** không hỗ trợ DC sạc nhanh — xác nhận đúng lúc cắt.
 - ** Giá tham khảo nội địa (nhật thời gian)**: từ 15.49 RMB; một máy tính trong nước Trung Quốc chỉ có ở mức cao nhất, không bao giờ xuất khẩu giá.
@@ -25,8 +25,8 @@
 ## Bảng đặc tả có màu sắc (tham chiếu thị trường Trung Hoa)
 | Chi tiết | Giá trị | Đơn vị | Thị trường | Tin tưởng | Ghi chú nguồn |
 |---|---|---|---|---|---|
-| Chiều dài băng | 4850 / 1900 / 1715 | mm | TRUNG QUỐC | ĐÃ_ ĐÃ | 太平洋 + 搜狐 |
-| Chiều rộng: | 4850 / 1900 / 1740 | mm | TRUNG QUỐC | ĐÃ_ ĐÃ | 汽车之家 + 太平洋 |
+| Chiều dài băng | 4850 1900 1715 | mm | TRUNG QUỐC | ĐÃ_ ĐÃ | 太平洋 + 搜狐 |
+| Chiều rộng: | 4850 1900 1740 | mm | TRUNG QUỐC | ĐÃ_ ĐÃ | 汽车之家 + 太平洋 |
 | bánh xe cơ sở | 2900 | mm | TRUNG QUỐC | ĐÃ_ ĐÃ | 太平洋 + 搜狐 |
 | Ghế ngồi | 7 (5 门, 平开门) | - | TRUNG QUỐC | SINGLE_SOURCE | 搜狐车型库 |
 | Name | 1.5T 154马力 L4 | - | TRUNG QUỐC | SINGLE_SOURCE | 汽车之家车家号 |

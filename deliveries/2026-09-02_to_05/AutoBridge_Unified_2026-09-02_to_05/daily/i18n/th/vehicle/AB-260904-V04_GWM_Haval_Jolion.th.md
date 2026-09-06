@@ -1,13 +1,13 @@
 # แบบ GWM การ มี โจล เลี่ยน: ชื่อ หนึ่ง คือ การ ตลาด และ การ จัด การ กับ พลัง งาน ที่ พิเศษ ของ ผู้ ซื้อ ไม่ ต้อง ลด ลง
 
 ## เชา ข้อมูลกํากับภาพ
-- **SEO Title**: การ มี เครื่อง ชี้ นํา ทาง การ ตลาด / ฮา วัล ชุล เซียน
+- **SEO Title**: การ มี เครื่อง ชี้ นํา ทาง การ ตลาด ฮา วัล ชุล เซียน
 - ""คําอธิบาย" GWM's own history confirms the Chinese Haval Chulian (哈弗初恋) is sold overseas as the Haval Jolion at base-model level — but Chinese 1.5T  and  เครื่องยนต์ไฟฟ้า ต่างประเทศ แตกต่างกัน  and  ถูกจัดอยู่ในรายการตลาด ไม่เคยรวมกัน
-- ~ที่อยู่ URL ที่ถูกย่อ: / เวนิกส์/ฮาวัล-โจเลี่ยน~
+- ~ที่อยู่ URL ที่ถูกย่อ: เวนิกส์/ฮาวัล-โจเลี่ยน~
 - ** H1 **: GWM Haval Jolion: OEM-Conservice name identer again and Overas Powerresters resorts parues parue (อังกฤษ: OEM-Confority).
 - ~คําสําคัญในคอลัมน์ ~: value Jolion จีน sports
 - ~การค้นหาตามวาระ: Haval Chulian ~ Jolion รุ่นเดียวกัน Jolion 1.5T Jolion HEV ต่างประเทศ ประวัติศาสตร์ GWM Jolion Africa August Saba, Jolion มิติ
-- ** เคล็ดลับการเชื่อมโยงภายใน **: / Guides/ vin-names-reservation-chinse-Vines/;; china-Vineics/;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle / เคลือบฟัน/ เชอร์รี่-ฟลอวิน- t9/
+- ** เคล็ดลับการเชื่อมโยงภายใน **: Guides/ vin-names-reservation-chinse-Vines/; china-Vineics/; icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle เชอร์รี่-ฟลอวิน- t9/
 - ข้อเสนอแนะ: Jolion front three-quarter; 1.5T บัตรบัตร HISV เทียบกัน; พ.ศ. สัมภาระด้านหลัง บันทึกช่วยจําของ GWM
 - "HALT THEST THEST THEST OND". "HALALH Jolion จีน 1.5T ppact SUV". สืบค้นเมื่อต่างประเทศ "HEV".
 
@@ -18,7 +18,7 @@
 | รายการ | ภาษาจีน 1.5T (อ้างอิง CHINA) |
 |---|---|
 | ร่างกาย | แฟ้มภาพประเภท TIFF |
-| ความยาว/ ความกว้าง/ ความสูง | **4472 / 1841 / 1619 mm** (single Chinese structured database) |
+| ความสูง | **4472 1841 1619 mm** (single Chinese structured database) |
 | เบสของล้อ | ** 2700 mm ** (แหล่งภาษาจีน) |
 | กลไก | 1.5T เครื่องคิดเงินที่ชาร์จไว้ |
 | ค่าเลขฐานแปด | ** 110 kW ** (ฐานข้อมูลจีน; ต่างประเทศ 1.5T หน่วยงานตรวจสอบข้อมูล) |
@@ -30,12 +30,12 @@
 
 ## โอเวอร์ ซีส เวอร์ชัน — การ แยก คอลัมน์ ต่าง ๆ ไม่ ใช่ การ แบ่ง ประเภท ข้อมูล
 - ~ ออสติน 1.5T (PDF) ~ 210 N·m ~ และ 7-speed เปียก-clutch~ มีปริมาตรสินค้า ** 430 L/ 1130 L ** (rear Busing). นี่เป็นตัวเลขของตลาดออสเตรีย -- มันไม่ใช่หลักฐาน ของรถจีน
-- ~Outtas HEV (EES AU/th/VN) ~ . 1.5L DHT ไฮบริด รายงานคร่าวๆ... 190 PS รวมกัน / 375 N·m ~ นี่คือสถาปัตยกรรมการขับเคลื่อนแบบอื่น ที่ขายในตลาดต่างประเทศ มันต้องนั่งในคอลัมน์ของตัวเอง และไม่รวมเข้ากับจีน 1.5T.
+- ~Outtas HEV (EES AU/th/VN) ~ . 1.5L DHT ไฮบริด รายงานคร่าวๆ... 190 PS รวมกัน 375 N·m ~ นี่คือสถาปัตยกรรมการขับเคลื่อนแบบอื่น ที่ขายในตลาดต่างประเทศ มันต้องนั่งในคอลัมน์ของตัวเอง และไม่รวมเข้ากับจีน 1.5T.
 
 ## วิธี เลือก โดย ไม่ ต้อง มี ตลาด ที่ แออัด
 1. ตัดสินใจว่า การประชุมคือ ~จีน 1.5T บรรทัด ~, an-overses 1.5T ~ หรือ 'Oversia HeV~ ก่อนอ่านหมายเลขใด ๆ.
-2. ติดป้ายตลาดที่ทุกพาวเวอร์เทรนและสินค้า 210 N·m / 7DCT  and  430/1130 L are Australian, 190 PS/ 375 N·m HEV เป็นเพียงต่างประเทศเท่านั้น
-3. เครื่องบันทึกเสียง ไฟฟ้าและสัญญาณ ต่อต้านวีเอ็น (ดูคู่มือของไวน์/ชื่อ; หน่วยจีน 1.5T ต้องไม่ดําเนินการ สเปกของเอชวีหรือออสเตรเลียใน PI ของมัน
+2. ติดป้ายตลาดที่ทุกพาวเวอร์เทรนและสินค้า 210 N·m 7DCT  and  430/1130 L are Australian, 190 PS/ 375 N·m HEV เป็นเพียงต่างประเทศเท่านั้น
+3. เครื่องบันทึกเสียง ไฟฟ้าและสัญญาณ ต่อต้านวีเอ็น หน่วยจีน 1.5T ต้องไม่ดําเนินการ สเปกของเอชวีหรือออสเตรเลียใน PI ของมัน
 4. ยืนยันด้านพวงมาลัยและปลายทาง การโฮโมโลเลชั่น; รถ LHD 1.5T จีน ไม่มีหลักฐานของ RHD หรือ HV เข้าถึงในตลาดของผู้ซื้อ.
 5. เพราะชื่อนี้หมายถึง โออีเอ็ม-คอนเซิรชัน แต่พลังงานคือ market-datedrange, ร้องขอแผ่นแผ่นพับของ example/ OEM-Code
 
@@ -44,13 +44,13 @@
 - ~ตัวตนในโปรแกรม ~: GWM OEM ยืนยันการจําแนกฐานของชโลยัน แยลออน; ยังคงได้รับรหัสการตัดแต่งระดับ VIN
 - คู่แข่งของ Powerrentrence uplish: เทอร์โบ vs ไฮบริด และจีน vs ต่างประเทศ 1.5T ได้ระบุอย่างชัดเจนกับตัวเลขของตลาดเท่านั้น
 - ** ไม่ยืนยันค่าจีน **: อย่ายอมรับ 210 N·m/ 7DCT เป็นสเปกตรัมจีน จนกว่าแหล่งโครงสร้างจีนยืนยันมัน
-- ** การส่ง/ เอกสาร และเอกสาร *: เกรดมาตรฐาน/ fuel ต่อค่า ทิศทางการปล่อยข้อมูล ใบรับรองผู้ผลิต, ไมโครซี และ สเปกตรัมต่อคู่มือเอกสาร (PDF)
+- ** เอกสาร และเอกสาร *: fuel ต่อค่า ทิศทางการปล่อยข้อมูล ใบรับรองผู้ผลิต, ไมโครซี และ สเปกตรัมต่อคู่มือเอกสาร (PDF)
 
 ## ต้องการการอ้างถึงการส่งออกแบบปัจจุบัน
 ไม่มียอดขายส่งออกและไม่มีการเพิ่มราคาที่นี่ Request a live quotation with **Destination Country · Quantity · 1.5T or HEV Trim · LHD/RHD · Destination Port · Incoterm**.
 
 ## คํา ถาม ที่ มัก จะ ถาม บ่อย ๆ
-"โจเลี่ยนเป็นรถเดียวกับฮาเวลชอลเลียนรึเปล่า" ที่ระดับชื่อฐาน ใช่ — ประวัติของ GWM บันทึกในเวอร์ชันของ Chulian ของต่างประเทศว่า JOLOD (ถูกบรรจุในแอฟริกาใต้/ซาดิอาระเบีย); แต่ระบบไฟฟ้าแบบตลาด-ระบุยังคงแตกต่างกันและไม่สามารถสลับกันได้
+"โจเลี่ยนเป็นรถเดียวกับฮาเวลชอลเลียนรึเปล่า" ที่ระดับชื่อฐาน ใช่ — ประวัติของ GWM บันทึกในเวอร์ชันของ Chulian ของต่างประเทศว่า JOLOD แต่ระบบไฟฟ้าแบบตลาด-ระบุยังคงแตกต่างกันและไม่สามารถสลับกันได้
 ~ โจเลี่ยนมาเป็นลูกผสมหรือเปล่า~ โอเวอร์ซี รายงานข่าวเอกสาร 1.5L DHT HEV (~ 190 PS/ 375 N·m); รถอ้างอิงจีนเป็นรถขับเคลื่อนขนาด 1.5T คัน — เก็บไว้ในคอลัมน์ที่แยกต่างหาก.
 ~อะไรคือแรงบิดของจีน 1.5T'  and  gearbox?** Power is 110 kW; 210 N·m และ 7DCT เป็นตัวเลขตลาดของออสเตรเลีย จึงไม่มีการยืนยันว่าเป็นค่าจีนที่ยืนยันได้
 **Can I quote Australian cargo volume for a Chinese unit?** No — 430/1130 L is the overseas version's figure; ยืนยันรถจีนแยก
@@ -63,35 +63,35 @@
 - ลิขสิทธิ์: ไม่ยืนยัน
 - LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
 - _กําหนดวันที่: 2026-09-06
-- MERCUL_ TOPIC_ MATCH: ต้องตรงกับรุ่น/ การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
-- CHAR_SCPE_NOTE: ตรงกับโมเดลที่เป๊ะของครอบครัว/ topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
+- MERCUL_ TOPIC_ MATCH: การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
+- CHAR_SCPE_NOTE: topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
 - March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
 - BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
 - ALT ด้วยภาษา:
-  - **EN**: AutoBridge export-buyer reference — GWM Haval Jolion, petrol/diesel Chinese-market vehicle / SUV
-  - **FR**: Référence AutoBridge pour acheteurs export — GWM Haval Jolion, véhicule thermique (marché chinois) / SUV
-  - **DE**: AutoBridge-Referenz für Exportkäufer — GWM Haval Jolion, Verbrenner (chinesischer Markt) / SUV
-  - **ES**: Referencia AutoBridge para compradores de exportación — GWM Haval Jolion, vehículo de combustión (mercado chino) / SUV
-  - **PT**: Referência AutoBridge para compradores de exportação — GWM Haval Jolion, veículo a combustão (mercado chinês) / SUV
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜GWM Haval Jolion, 中国市場仕様 内燃機関車 / SUV
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜GWM Haval Jolion, 중국 시장 내연기관 차량 / SUV
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — GWM Haval Jolion, xe động cơ đốt trong (thị trường Trung Quốc) / SUV
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — GWM Haval Jolion, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถเอสยูวี
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — GWM Haval Jolion, kendaraan mesin pembakaran (pasar Tiongkok) / SUV
-  - **AR**: مرجع AutoBridge لمشتري التصدير — GWM Haval Jolion, مركبة بمحرك احتراق (سوق الصين) / سيارة دفع رباعي
-  - **ZH**: AutoBridge 出口采购参考｜GWM Haval Jolion, 中国市场燃油车 / SUV
+  - **EN**: AutoBridge export-buyer reference — GWM Haval Jolion, petrol/diesel Chinese-market vehicle SUV
+  - **FR**: Référence AutoBridge pour acheteurs export — GWM Haval Jolion, véhicule thermique (marché chinois) SUV
+  - **DE**: AutoBridge-Referenz für Exportkäufer — GWM Haval Jolion, Verbrenner (chinesischer Markt) SUV
+  - **ES**: Referencia AutoBridge para compradores de exportación — GWM Haval Jolion, vehículo de combustión (mercado chino) SUV
+  - **PT**: Referência AutoBridge para compradores de exportação — GWM Haval Jolion, veículo a combustão (mercado chinês) SUV
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜GWM Haval Jolion, 中国市場仕様 内燃機関車 SUV
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜GWM Haval Jolion, 중국 시장 내연기관 차량 SUV
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — GWM Haval Jolion, xe động cơ đốt trong (thị trường Trung Quốc) SUV
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — GWM Haval Jolion, รถเครื่องยนต์สันดาป (ตลาดจีน) รถเอสยูวี
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — GWM Haval Jolion, kendaraan mesin pembakaran (pasar Tiongkok) SUV
+  - **AR**: مرجع AutoBridge لمشتري التصدير — GWM Haval Jolion, مركبة بمحرك احتراق (سوق الصين) سيارة دفع رباعي
+  - **ZH**: AutoBridge 出口采购参考｜GWM Haval Jolion, 中国市场燃油车 SUV
 
 ## ต้นฉบับและการตรวจสอบสิทธิ์
 | ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| ประวัติของบริษัท GWM (chulian Land India version=JOLOGEIGE) แอฟริกาใต้/ ซารู เกลียว ไทย) | วอลล์มอเตอร์ (OEM) อันยิ่งใหญ่ | แบรนด์ HQ | https://www.gwm.com.cn/history.html | 2026-09-04 | ISIFIE (เมษายน) | แบบเดียวกัน การแสดงตัวฐาน |
+| ประวัติของบริษัท GWM (chulian Land India version=JOLOGEIGE) ซารู เกลียว ไทย) | วอลล์มอเตอร์ (OEM) อันยิ่งใหญ่ | แบรนด์ HQ | https://www.gwm.com.cn/history.html | 2026-09-04 | ISIFIE (เมษายน) | แบบเดียวกัน การแสดงตัวฐาน |
 | พารามิเตอร์ของฮาวาล 1.5T อัตโนมัติ | ฐานข้อมูลของ Syna Auto | CN | https://db.auto.sina.cn/car/50026/ | 2026-09-04 | ผู้โดยสาร_ปลายทาง | ขนาดของจีน 1.5T 110 kW ล้อล้อ |
 | ออสเตรเลีย Jolion 1.5T พลังอํานาจและมิติ | สิบเซนต์ (การทบทวนแบบโพสต์) | AU | http://news.qq.com/rain/a/20210717A03BJX00 | 2026-09-04 | STING_SUE (น้ําขึ้นสูง) | 210 N·m (พ.ศ. 7DCT (พ.ศ.  430/1130 L — AU only |
 | เปิดตัวประเทศออสเตรเลียโดย โจเลี่ยน | ออโต้เซจิฮาว | AU | https://chejiahao.m.autohome.com.cn/info/15525734 | 2026-09-04 | STING_SUE (น้ําขึ้นสูง) | ระบบ โอเวอร์ไซนส์ |
 | Jolion 2025 เวียดนาม (overseas HeV) | ประมวลผลอัตโนมัติ | VN | https://auto.ifeng.com/c/8ggPMnGNmuJ | 2026-09-04 | STING_SUE (น้ําขึ้นสูง) | การ กลั่น แกล้ง |
 | ผู้ ผลิต และ แคตตาล็อก ผลิตภัณฑ์ ถนน — ระบบ สอบ ถาม ของ ประชาชน |  MIT, กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูลจีน | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | เปิดใช้งาน | ตรวจสอบผู้ผลิต, โมเดลที่อนุญาต และการทําอัลบั้มแบบแบ่งประเภท (公告) ก่อนการสั่งซื้อหรือส่งออก |
-| ขนาด GB 16735-2019 รถ ที่ ใช้ ถนน — หมาย เลข รถ (VIN) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | เปิดใช้งาน | โครงสร้างและชื่อของ platt language ที่ใช้ในการตรวจสอบความถูกต้องของผู้ซื้อ/ ชื่อ |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน สภาวะความปลอดภัยทางเทคนิคและเวลาปัจจุบัน/การปรับปรุง |
+| ขนาด GB 16735-2019 รถ ที่ ใช้ ถนน — หมาย เลข รถ (VIN) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | เปิดใช้งาน | โครงสร้างและชื่อของ platt language ชื่อ |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน |
 | GB 18352.6-2016 ด้วยระบบไฟฟ้าลัดวงจร XG1-2026 (จีน- 6 ปริมาตรแสงโพลีเจนต์) | กระทรวง นิเวศ วิทยา และ สิ่ง แวด ล้อม (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | เปิดใช้งาน | จีน 6 ระดับแสงและน้ําใส และวันที่ดําเนินการ 2026 มาตราฐาน |
 
 * การ ลง ความ เห็น อย่าง ตรง ไป ตรง มา: การ ยึด มั่น กับ จุด ยืน. ชื่อ ISIFIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII ไม่มีราคาส่งออก *
@@ -99,8 +99,8 @@
 ## การทบทวนแก้ไข
 - ** aultor*: AutoBridge ส่งออกวิธีการแก้ไขคําทีม (AutoBridge) ต่อ [นโยบายแก้ไข] ของเรา (/Dercial-policy/)
 - ~ถูกตรวจสอบแล้ว~: 2026-09-05
-- ~ ตลาดแห่งความอิ่มเอิบ ~: จีน 1.5T = จีน; AU 1.5T และ HV = ต่างประเทศ (ถูกแยก; ไม่มีสเปกตรัม)
-- ** วิธีการปรับตั้ง *: การแสดงตัวของ oEM- Concured identation; market/ trim/ hourcetrain แยกกัน; การวิเคราะห์/ gearbox ถูกปิดชั่วคราวแหล่งที่สองของจีน
+- ~ ตลาดแห่งความอิ่มเอิบ ~: จีน 1.5T จีน; AU 1.5T และ HV ต่างประเทศ (ถูกแยก; ไม่มีสเปกตรัม)
+- ** วิธีการปรับตั้ง *: การแสดงตัวของ oEM- Concured identation; market/ trim/ hourcetrain แยกกัน; gearbox ถูกปิดชั่วคราวแหล่งที่สองของจีน
 - การร่างแบบ AI-assisted ถูกใช้ บทความนี้ตั้งอยู่บนพื้นฐานของงานวิจัยในตาราง และอัตโนมัติ QA ไม่มีการอ้างอิงการทดสอบก่อน จนกว่าจะมีการระบุรายละเอียดอย่างชัดเจน ยืนยันความต้องการที่ต้องใช้เวลาและกําหนดปลายทาง ก่อนทําการข้ามเวลา
 - ~มาตรฐานการแบ่งส่วน ~: Research and med from the source address address (Desk Research; ไม่มีการขับรถมือหนึ่ง, runchown หรือนําเข้า). ความมั่นใจของแหล่งแสดงต่อแถว; จุดใด ๆ ที่เราไม่สามารถยืนยันได้ด้วยตัวเอง ถูกนําเสนอเป็นรายการตรวจสอบแทนการยืนยันว่าเป็นความจริง
 

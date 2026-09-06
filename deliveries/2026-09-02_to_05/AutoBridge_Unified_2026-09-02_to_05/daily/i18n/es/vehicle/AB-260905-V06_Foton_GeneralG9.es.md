@@ -1,13 +1,13 @@
-# Foton General G9 / Dajiangjun G9 (2025) — Chino-Marcos de recogida Especias y controles de exportación
+# Foton General G9 Dajiangjun G9 (2025) — Chino-Marcos de recogida Especias y controles de exportación
 
 ## SEO Metadatos
 - **SEO Título**: Foton General G9 Pickup 2025: Chinese-Market Diesel/Petrol Specs & Export Guide
 - **Meta Descripción**: El mercado chino Foton General G9 (大将军 G9) pickup: 2.0T líneas diesel y gasolina, 6MT/8AT, RWD/ 4WD, dimensiones de la cama y la rueda de la rueda, y el conflicto de la torsión diesel flagged.
-- ** H1 **: Foton General G9 / Dajiangjun G9 (2025) — Chino-Marcos de recogida Especias y cheques de exportación
-- **Primary Keyword**: Foton / 福田 General G9 / 大将军 G9 皮卡 specs export
+- ** H1 **: Foton General G9 Dajiangjun G9 (2025) — Chino-Marcos de recogida Especias y cheques de exportación
+- **Primary Keyword**: Foton 福田 General G9 大将军 G9 皮卡 specs export
 - **Segundary Search Terms**: Foton General G9 export; Dajiangjun G9 pickup; China diesel pickup; 4WD pickup; cabina doble
 - ** URL agregada**: /vehicles/foton-general- g9/
-- **Búsqueda Intent**: 了解 Foton / 福田 General G9 / 大将军 G9 皮卡 中国版规格, 配置与出口适配性 (车型参数页)
+- **Búsqueda Intent**: 了解 Foton 福田 General G9 大将军 G9 皮卡 中国版规格, 配置与出口适配性 (车型参数页)
 - **Sugerencias de Enlace Interno**: /vehículos/foton-general- g9/, /guides/vehículo-export-hs-code-history/, /guides/emission-fuel-compatibilidad-history/
 - **Esquema de alcance**: Artículo + Vehículo (no Producto/Offer/Review)
 
@@ -16,11 +16,11 @@
 
 ## Chasis, cama y tren de alimentación
 - **Diesel**: 2.0T 4F20 柴油, 120 (163Ps) kW; torque pico se muestra como ** 390 或 415 (版本差异, 未锁定) N·m — un conflicto documentado entre las fuentes, así que cierre el año/trim modelo antes de citar un solo número**.
-- **Petrol**: 175 kW / 360 N·m.
-- **Gearbox/drivetrain**: 6MT / 8AT; 后驱 / 适时四驱.
+- **Petrol**: 175 kW 360 N·m.
+- **Gearbox/drivetrain**: 6MT 8AT; 后驱 适时四驱.
 - **Short-wheelbase**: 约 5340 × 1980; 轴距 3110; 货箱 1520 × 1580 × 440 mm (cross-checked).
 - **Long-wheelbase**: 5630 × 1980 × 1860; 轴距 3400; 货箱 1805 × 1580 × 440 mm (fuente única — cross-check).
-- **Suspensión**: 前双叉臂 / 后整体桥; emisión 国 VI(0 # 柴油).
+- **Suspensión**: 前双叉臂 后整体桥; emisión 国 VI(0 # 柴油).
 
 ## Tabla de especificación verificada (referencia del mercado chino)
 | Especificación | Valor | Dependencia | Mercado | Confianza | Nota de la fuente |
@@ -30,11 +30,11 @@
 | diesel torsión | 390 或 415 (版本差异, 未锁定) | N·m | CHINA | CONFLICTO | 太平洋 vs 懂车帝 2025 款详表 |
 | Motor de gasolina | 175 | kW | CHINA | SINGLE_SOURCE | 太平洋汽车 |
 | par de gasolina | 360 | N·m | CHINA | SINGLE_SOURCE | 太平洋汽车 |
-| transmisión | 6MT / 8AT | - | CHINA | SINGLE_SOURCE | 太平洋汽车 |
-| opciones de transmisión | 后驱 / 适时四驱 | - | CHINA | SINGLE_SOURCE | 太平洋汽车 |
+| transmisión | 6MT 8AT | - | CHINA | SINGLE_SOURCE | 太平洋汽车 |
+| opciones de transmisión | 后驱 适时四驱 | - | CHINA | SINGLE_SOURCE | 太平洋汽车 |
 | ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ ♪ | 约5340×1980；轴距3110；货箱1520×1580×440 | mm | CHINA | CROSS_CHECKED | 太平洋 + 新浪 |
 | ################################################################################################################################################################################################################################################################ | 5630×1980×1860；轴距3400；货箱1805×1580×440 | mm | CHINA | SINGLE_SOURCE | 太平洋汽车百科 |
-| suspensión | 前双叉臂 / 后整体桥 | - | CHINA | SINGLE_SOURCE | 太平洋汽车 |
+| suspensión | 前双叉臂 后整体桥 | - | CHINA | SINGLE_SOURCE | 太平洋汽车 |
 | estándar de emisiones | 国 VI(0 # 柴油) | - | CHINA | SINGLE_SOURCE | 太平洋汽车 |
 
 ## Controles de exportación de Pickup: cama, transmisión y el conflicto de par

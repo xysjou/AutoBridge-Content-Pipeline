@@ -20,7 +20,7 @@ Un prix de fret global gagne les réservations et perd de l'argent à destinatio
 | **O/F (Fret océanique)** | Fret de base en mer; composante principale de la soumission, flottant avec voie/capacité/saison | Jambe océanique |
 | **THC (droit de traitement des dossiers)** | Levant/manipulation/stockage des terminaux; différent selon la taille du conteneur | Origine ** et destination** (OTHC/DTHC) |
 | **DOC (droit de documentation)** | Documentation; origine ODOC et destination DDOC sont séparés | Les deux extrémités |
-| ** SAL / VGM** | Taxe de scellement et taxe de pesage à masse brute vérifiée — éléments d'origine commune | Origine |
+| ** SAL VGM** | Taxe de scellement et taxe de pesage à masse brute vérifiée — éléments d'origine commune | Origine |
 | **BAF (ajustement du bunker; semblable à EBS)** | Supplément lié au carburant; aux côtés des FAC (monnaie), du SSP (saison de pointe), du SPC (congestion), du SRP (risque de guerre) | Océan/variable |
 
 ## Les taxes de dépôt des manifestes sont spécifiques à la route (orientations de l'éditeur, pas une taxe universelle)
@@ -28,7 +28,7 @@ Un prix de fret global gagne les réservations et perd de l'argent à destinatio
 
 ## Origine et destination — en cas de litige Masquer
 - Divisez chaque ligne en frais d'origine** (avant/au chargement) et en frais de destination** (au déchargement/au ramassage). Les acheteurs de véhicules sont le plus souvent surpris par la destination THC, DDOC et les frais de commande de livraison qu'ils ne s'attendaient pas.
-- Demandez au transitaire de **nommer chaque ligne et son unité de facturation** (par conteneur / par facture / par véhicule), de sorte que deux devis peuvent être comparés sur la même base.
+- Demandez au transitaire de **nommer chaque ligne et son unité de facturation** (par conteneur par facture par véhicule), de sorte que deux devis peuvent être comparés sur la même base.
 - Regardez les suppléments **non nommés** et les « frais locaux » sans unité — ce sont là où un faible taux de gros titres est récupéré.
 
 ## Méthode de vérification par citation (pas de chiffres)
@@ -80,7 +80,7 @@ Un prix de fret global gagne les réservations et perd de l'argent à destinatio
 | Ventilation de la majoration à l'exportation des CLF | Montant net | INTL | https://www.163.com/dy/article/L3DE4MEL0556E2ZO.html | 2026-09-04 | _CHECTURE | O/F, THC, DOC, BAF, méthode d'audit |
 | Définition du THC | Sina Financement des transports maritimes | INTL | https://finance.sina.com.cn/roll/2026-07-31/doc-iniksair4574469.shtml.md | 2026-09-04 | _CHECTURE | Couverture de la manutention des terminaux |
 | Composantes des droits d ' exportation des océans par voie | Baïde | INTL | https://m.baike.com/wiki/%E6%B5%B7%E8%BF%90%E5%87%BA%E5%8F%A3/7570444 | 2026-09-04 | _CHECTURE | Taxonomie de la charge, logique de route AMS/ACI/ENS |
-| Frais communs de FOB (THC/réservation/camionnage) | 11467 | NC | https://m.11467.com/product/d24491409.htm | 2026-09-04 | SOURCE UNIQUE | Nom de l'accusation |
+| Frais communs de FOB (THC/réservation/camionnage) | | NC | https://m.11467.com/product/d24491409.htm | 2026-09-04 | SOURCE UNIQUE | Nom de l'accusation | 11467
 * Portée des preuves: structure des frais recoupée de sources industrielles (aucune source officielle de tarifs primaires); AMS/ACI/ENS encadrée comme une ligne directrice éditoriale spécifique à chaque itinéraire; tous les montants délibérément exclus comme une mesure de temps. *
 
 | Incoterms 2020 règles (qui organise/ paie le transport à chaque terme) | Chambre de commerce internationale (CCI) | INT'L | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/ | 2026-09-05 | VÉRIFIER | Quelles sont les charges/frais pour l'acheteur par rapport au vendeur par Incoterm |

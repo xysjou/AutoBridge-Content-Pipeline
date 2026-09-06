@@ -5,24 +5,24 @@
 - ** URL sugerida**: /veículos/byd-dolphin/
 - ** H1 **: BYD Dolphin 2025 (Mercado Chinês): Variantes, Bateria, Ciclo de Gama e Verificação de Exportação
 - **Chave principal**: byd golfinho 2025 especificações de bateria
-- ** Termos de pesquisa secundários**: BYD Golfinho 44.9 kWh, Golfinho 60.48 kWh Cavaleiro, Golfinho CLTC 420 520, BYD exportação EV pequena, Golfinho DiPilot, China EV GB / T carregamento
+- ** Termos de pesquisa secundários**: BYD Golfinho 44.9 kWh, Golfinho 60.48 kWh Cavaleiro, Golfinho CLTC 420 520, BYD exportação EV pequena, Golfinho DiPilot, China EV GB T carregamento
 - ** Sugestões de ligação interna**: /veículos/byd-yuan-plus/; /veículos/farizon-xingxiang- v6e-specs/; /guias/chinese-ev-carregando-padrão-compatibilidade/; /guias/ev-shipping- un3171-imdg-compliance/
 - **Image Suggestions**: comparação padrão vs Knight; Blade Battery pack note; GB/T porta de carga; rotativa/tela de infotainment; assentos traseiros
 - * Sugestões do ALT**: "BYD Golfinho 2025 duas classes da bateria"; "Campo CLTC do Golfinho contra ciclo no exterior"
 
 ## Contexto do comprador: uma decisão do EV começa com bateria e ciclo
-O Golfinho é o hatchback compacto da bateria da BYD na plataforma eletrônica 3.0 com uma bateria LFP Blade. Para um EV, a ordem é bateria → intervalo ** ciclo → motor de grau → carregamento / software, não um único número de título. Esta página abrange a linha ** 2025 do mercado chinês (MERCADO DE REFERÊNCIA: CHINA)**. BYD também vende um carro marcado "Dolphin" em mercados ultramarinos; ou seja, continuidade de nome, **not** um jogo de 1: 1 spec - tamanhos de bateria no exterior, ciclos de alcance certificados (WLTP/NEDC) e equipamentos diferem e devem ser lidos da folha de destino, nunca inferidos a partir destes números da China.
+O Golfinho é o hatchback compacto da bateria da BYD na plataforma eletrônica 3.0 com uma bateria LFP Blade. Para um EV, a ordem é bateria → intervalo ** ciclo → motor de grau → carregamento software, não um único número de título. Esta página abrange a linha ** 2025 do mercado chinês (MERCADO DE REFERÊNCIA: CHINA)**. BYD também vende um carro marcado "Dolphin" em mercados ultramarinos; ou seja, continuidade de nome, **not** um jogo de 1: 1 spec - tamanhos de bateria no exterior, ciclos de alcance certificados (WLTP/NEDC) e equipamentos diferem e devem ser lidos da folha de destino, nunca inferidos a partir destes números da China.
 
 ## Duas Classes Motores, Duas Baterias (referência China)
-| Item | Graus normalizados (活力/ 自由 / 时尚) | Classe de cavaleiro (骑士版) |
+| Item | Graus normalizados 自由 时尚) | Classe de cavaleiro (骑士版) |（活力）
 |---|---|---|
-| Motor de explosão | 70 kW / 180 N·m | 150 kW / 310 N·m |
+| Motor de explosão | 70 kW 180 N·m | 150 kW 310 N·m |
 | Bateria de lâmina (LFP) | 44.928 kWh | 60.48 kWh |
 | Intervalo CLTC | 420 km | 520 km |
-| Corpo L×W×H | 4125 / 1770 / 1570 mm | 4150 / 1770 / 1570 mm |
+| Corpo L×W×H | 4125 1770 1570 mm | 4150 1770 1570 mm |
 | Distância entre eixos | 2700 mm (ambos) | 2700 mm |
 
-Fix **bateria e motor juntos**: o 150 kW / 310 N·m drivetrain pares com o maior pacote 60.48 kWh na classe Knight. Apresentar "um Golfinho" sem nomear a nota deixa tanto poder quanto alcance ambíguo.
+Fix **bateria e motor juntos**: o 150 kW 310 N·m drivetrain pares com o maior pacote 60.48 kWh na classe Knight. Apresentar "um Golfinho" sem nomear a nota deixa tanto poder quanto alcance ambíguo.
 
 ## Disciplina do Ciclo de Intervalo (CLTC não é WLTP/EPA)
 The 420/520 km figures are **China CLTC**. Sempre cite o ciclo ao lado do número:
@@ -44,7 +44,7 @@ Hatchback compacto de cinco portas, 2700 mm distância entre eixos; comprimento 
 2. ** Ciclo de extensão** com a etiqueta CLTC; WLTP/NEDC de destino retirado apenas da folha de destino.
 3. **GB/T vs conector de destino**, provisão AC/DC e qualquer legalidade do adaptador.
 4. ** Lista de recursos DiPilot** para o grau exato; ** língua/OTA** testado no VIN.
-5. ** Documento de transporte EV** — UN38.3 / MSDS mais a classificação oceano-goods, sob a Emenda IMDG 42-24 (obrigatório de 2026-01-01) um veículo movido a lítio-íon-bateria é classificado UN3556, não o legado genérico UN3171; aplicar documentação / detalhes SOC de acordo com a atual Folha de Fato de transporte EV ea transportadora (ver o guia EV oceano-compliance).
+5. ** Documento de transporte EV** — UN38.3 MSDS mais a classificação oceano-goods, sob a Emenda IMDG 42-24 (obrigatório de 2026-01-01) um veículo movido a lítio-íon-bateria é classificado UN3556, não o legado genérico UN3171; aplicar documentação detalhes SOC de acordo com a atual Folha de Fato de transporte EV ea transportadora (ver o guia EV oceano-compliance).
 
 ## Solicitar uma Cotação de Exportação Atual
 Nenhum preço de exportação estático é publicado. O RMB 99, 800 chinês é uma referência **doméstica, sensível ao tempo, e não um preço FOB/CIF**. Informe-se com **Destino País · Quantidade · Grau (bateria/motor) · LHD/RHD · Destino Porto · Incoterm**.
@@ -84,10 +84,10 @@ Nenhum preço de exportação estático é publicado. O RMB 99, 800 chinês é u
 ## Fontes e Verificação
 | Título do código fonte | Organização | Mercado | URL | Verificado | Confiança | Factos corroborados |
 |---|---|---|---|---|---|---|
-| 2025 Lançamento do golfinho (preço, parâmetros) | Home / Toutiao | NC | http://m.toutiao.com/group/7389073901650723378/ | 2026-09-03 | CROSS_CHECKED | 44.928 kWh, 70 kW, 420 CLTC, preço interno (TIME_SENSITIVE) |
-| Comboio de alimentação/bateria/intervalo de golfinhos | Enciclopédia PCauto | NC | https://m.pcauto.com.cn/baike/1551886/ | 2026-09-03 | CROSS_CHECKED | 60.48 kWh, 150 kW / 310 N·m, 520 CLTC |
-| Golfinho 1, 000, 000th unidade (dimensões) | NetEase Auto | NC | https://www.163.com/dy/article/KH3NHD5F0552EGI8.html | 2026-09-03 | CROSS_CHECKED | 4125/4150 × 1770 × 1570, distância entre eixos 2700 |
-| 2025 DiPilot de Golfinhos | Xincheping / Toutiao | NC | http://m.toutiao.com/group/7389115620090053159/ | 2026-09-03 | FONTE ÚNICA | Descrição do recurso ACC/AEB/LDA |
+| 2025 Lançamento do golfinho (preço, parâmetros) | Home Toutiao | NC | http://m.toutiao.com/group/7389073901650723378/ | 2026-09-03 | CROSS_CHECKED | 44.928 kWh, 70 kW, 420 CLTC, preço interno (TIME_SENSITIVE) |
+| Comboio de alimentação/bateria/intervalo de golfinhos | Enciclopédia PCauto | NC | https://m.pcauto.com.cn/baike/1551886/ | 2026-09-03 | CROSS_CHECKED | 60.48 kWh, 150 kW 310 N·m, 520 CLTC |
+| Golfinho 1,000, 000th unidade (dimensões) | NetEase Auto | NC | https://www.163.com/dy/article/KH3NHD5F0552EGI8.html | 2026-09-03 | CROSS_CHECKED | 4125/4150 × 1770 × 1570, distância entre eixos 2700 |
+| 2025 DiPilot de Golfinhos | Xincheping Toutiao | NC | http://m.toutiao.com/group/7389115620090053159/ | 2026-09-03 | FONTE ÚNICA | Descrição do recurso ACC/AEB/LDA |
 | Fabricantes de veículos automóveis e catálogo de produtos — sistema público de consulta | MIIT, China Ministério da Indústria e Tecnologia da Informação | NC | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFICADO | Verifique o fabricante, modelo aprovado e homologação (公告) entrada do catálogo antes de encomendar ou exportar |
 | GB 16735-2019 Veículos rodoviários — Requisitos de número de identificação do veículo (VIN) | Plataforma SAMR de texto completo | NC | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFICADO | Elementos de identificação e dados de identificação utilizados na verificação do comprador |
 | GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SARR, Administração do Estado para a regulação do mercado | NC | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFICADO | Condições técnicas de segurança do veículo em linha de base na China e o calendário atual/revisão |
@@ -100,12 +100,12 @@ Nenhum preço de exportação estático é publicado. O RMB 99, 800 chinês é u
 | 海豚 参数配置 (2025 款) | 汽车之家 Série de configuração do AutoHome | NC | https://m.autohome.com.cn/config/series/6139.html | 2026-09-05 | CROSS_CHECKED | Tabela de parâmetros adequada (não uma página de IA Q&A), acessível a verificação: 2025 grau/bateria/matriz CLTC — etapa de verificação cruzada decisiva # 2 |
 | BYD Golfinho 2025 brochura oficial | BYD Automotive Australia (OEM/distribuidor oficial) | UA | https://bydautomotive.com.au/brochures/BYD-DOLPHIN-2025.pdf | 2026-09-05 | VERIFIED (OEM; âmbito do mercado de exportação) | OEM brochure confirms Blade LFP 44.9/60.48 kWh  and  70/150 kW motor lines  and  Dimensões; Os seus NEDC 410/490 e WLTP 340/427 são valores do ciclo de exportação e não são utilizados como China CLTC 420/520 |
 
-* Nota do telescópio de evidência: As páginas oficiais da China da BYD (ligadas acima) ancoram a identidade do modelo do golfinho de 2025, Bateria LFP Blade  and  e-platform 3.0,  and  the official BYD Australia 2025 brochure independently confirms the 44.9/60.48 kWh battery  and  70/150 kW motor lines (on export NEDC/WLTP cycles, Mantido separado dos números da China). Os valores da classe China — 70 kW/44.928 kWh/420 km CLTC e 150 kW/60.48 kWh/520 km CLTC — repousar numa verificação cruzada genuína do mesmo facto por duas tabelas de parâmetros independentes chineses verificadas acessíveis em 2026-09-05 (configuração PCauto s48492 e a série Autohome 6139), suportada pela enciclopédia IT Home/PCauto; a página Autohome *ask* é agregada a IA e não é deliberadamente usada como uma etapa decisiva. Um rascunho anterior chamado "Xcar" sem URL — que a citação não suportada foi removida (não foi capturada nenhuma página acessível do Xcar). Ligar a nota exata ao catálogo MIIT e VIN antes de encomendar. CLTC é apenas o ciclo da China e nunca é equiparado ao WLTP/NEDC no exterior; mesmo nome no estrangeiro Golfinhos são construções de mercado distintas. Sistema controlado por I.A. de escrita 2026-09-05: As linhas de bateria/motor agora suportadas pelo OEM (folha UA, escopo de exportação) e a China CLTC valorizam o mesmo fato, cruzados por duas tabelas de configuração independentes, movendo a página para fora NECESSIDADES_ INVESTIGAÇÃO (China CLTC confiança CRUSS_CHECKED, não OEM-verificável). *
+* Nota do telescópio de evidência: As páginas oficiais da China da BYD (ligadas acima) ancoram a identidade do modelo do golfinho de 2025, Bateria LFP Blade  and  e-platform 3.0,  and  the official BYD Australia 2025 brochure independently confirms the 44.9/60.48 kWh battery  and  70/150 kW motor lines (on export NEDC/WLTP cycles, Mantido separado dos números da China). Os valores da classe China — 70 kW/44.928 kWh/420 km CLTC e 150 kW/60.48 kWh/520 km CLTC — repousar numa verificação cruzada genuína do mesmo facto por duas tabelas de parâmetros independentes chineses verificadas acessíveis em 2026-09-05 (configuração PCauto e a série Autohome 6139), suportada pela enciclopédia IT Home/PCauto; a página Autohome *ask* é agregada a IA e não é deliberadamente usada como uma etapa decisiva. Um rascunho anterior chamado "Xcar" sem URL — que a citação não suportada foi removida (não foi capturada nenhuma página acessível do Xcar). Ligar a nota exata ao catálogo MIIT e VIN antes de encomendar. CLTC é apenas o ciclo da China e nunca é equiparado ao WLTP/NEDC no exterior; mesmo nome no estrangeiro Golfinhos são construções de mercado distintas. Sistema controlado por I.A. de escrita 2026-09-05: As linhas de bateria/motor agora suportadas pelo OEM (folha UA, escopo de exportação) e a China CLTC valorizam o mesmo fato, cruzados por duas tabelas de configuração independentes, movendo a página para fora NECESSIDADES_ INVESTIGAÇÃO (China CLTC confiança CRUSS_CHECKED, não OEM-verificável). * s48492
 
 ## Revisão Editorial
-- **Autor / revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)
+- **Autor revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)
 - ** Última revisão**: 2026-09-05
 - ** Mercado de referência**: China, 2025 Golfinhos (referência do mercado chinês; construções de mesmo nome no exterior mantidas separadas)
-- ** Método de verificação**: Verificação cruzada multi-fonte; ciclo de gama e âmbito de mercado mantidos distintos por MODEL_ALIAS / ORIGINAL_SCOPE regras
+- ** Método de verificação**: Verificação cruzada multi-fonte; ciclo de gama e âmbito de mercado mantidos distintos por MODEL_ALIAS ORIGINAL_SCOPE regras
 - ** Norma editorial**: Pesquisado e escrito a partir das fontes listadas acima (pesquisa de mesa; nenhuma condução em primeira mão, demolição ou importação é reivindicada). A confiança na fonte é mostrada por linha; qualquer ponto que não podemos confirmar independentemente é apresentado como um item de verificação em vez de afirmado como fato.
 #AutoBridge #VehicleExport #BYD #Dolphin #ElectricHatchback

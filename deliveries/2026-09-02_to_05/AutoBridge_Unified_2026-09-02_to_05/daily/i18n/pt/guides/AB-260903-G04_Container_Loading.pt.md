@@ -14,9 +14,9 @@
 "Quantos carros em um 40HQ ?" não tem resposta universal — é uma função de ** dimensões do veículo, espelho-dobramento, sistema de rack e plano de estofamento aprovado do transportador**. Este guia dá bandas realistas e o método; deliberadamente não promete uma contagem fixa. Confirme cada remessa contra um plano de carga medido.
 
 ## Bandas de Carregamento Realistas (da prática documentada)
-- ** Nenhum rack, convencional:** um 40HQ normalmente carrega ** dois SUVs médios / grandes** (exemplos citados são ~ 4.9 m classe, como ID. 6 / Range-Rover / Prado / Li L7-scale veículos) (digrama de encaminhamento de fonte única).
+- ** Nenhum rack, convencional:** um 40HQ normalmente carrega ** dois SUVs médios grandes** (exemplos citados são ~ 4.9 m classe, como ID. 6 Range-Rover Prado Li L7-scale veículos) (digrama de encaminhamento de fonte única).
 - **Com um rack de dois andares deslizantes:** um **"upper 2 + inferior 2 " = quatro SUVs** arranjo foi relatado em um Yantai-port "Ro-to-container" julgamento (única fonte).
-- **Sedans / China-Europa rail:**** três veículos por caixa** aparece no relatório de prática de trem / sedan China-Europa (fonte única).
+- **Sedans China-Europa rail:**** três veículos por caixa** aparece no relatório de prática de trem sedan China-Europa (fonte única).
 Estes são pontos de referência, não direitos: uma van de teto alto, uma pickup ou um carro executivo longo muda a contagem, e carga rack precisa de equipamentos certificados e um plano aprovado.
 
 ## Esmagamento: Corrigir Através dos Tiros, não do Corpo
@@ -28,7 +28,7 @@ O objectivo é que, sob o navio que rola/aperta o veículo não possa deslocar-s
 
 ## Carregando sequência (onde o trabalho em rack dá errado)
 Para cargas rack/duplo convés, a prática de porta documentada é:
-1. ** Carregar os veículos racked no topo / na ordem planejada**, usando uma empilhadeira para ajudar push-and-reposition;
+1. ** Carregar os veículos racked no topo na ordem planejada**, usando uma empilhadeira para ajudar push-and-reposition;
 2. Um recipiente de **dupla porta (ambos os lados) permite trabalhar de ambas as extremidades** simultaneamente, encurtando o habite;
 3. Proteja cada unidade progressivamente – nunca deixe um veículo sem segurança enquanto manobra o seguinte.
 Erros de sequência (carregando o carro inferior primeiro e bloqueando o acesso rack) são o atraso mais evitável em quatro cargas de carro.
@@ -37,7 +37,7 @@ Erros de sequência (carregando o carro inferior primeiro e bloqueando o acesso 
 Adaptado ao método de carga de contentores documentados:
 1. ** Lista de mercadorias vs embalagem** — VINs, quantidades e condições de correspondência; PSI já concluído (ver guia PSI).
 2. **Carregamento de ordem** — distribuição de peso e posições de rack por plano.
-3. **Centro de gravidade / folga / altura** — sem contato com telhado, paredes ou portas; mesmo de lado para lado peso.
+3. **Centro de gravidade folga altura** — sem contato com telhado, paredes ou portas; mesmo de lado para lado peso.
 4. **Segurança** — alças, cachos, madeira, antiderrapante tudo no lugar e tensionado; nada sobre tinta/suspensão.
 5. ** Depuração da porta** — margem suficiente para fechar e selar; gravar fotos da estiva antes de selar.
 
@@ -89,18 +89,18 @@ Um EV/híbrido dentro de um recipiente ainda carrega uma bateria de tração: si
 | Título do código fonte | Organização | Mercado | URL | Verificado | Confiança | Factos corroborados |
 |---|---|---|---|---|---|---|
 | Vista lateral do veículo (2/box, 8 precintas) | Material para transporte de mercadorias | Global | https://m.11467.com/product/d42473652.htm | 2026-09-03 | FONTE ÚNICA | 2-SUV sem rack; ~ 8 precintas; método de roda (uma fonte) |
-| Yantai primeiro teste de "Ro-to-container" de 4-SUV | Notícias da Noite de Qilu / Toutiao | NC | http://m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | FONTE ÚNICA | Upper2+lower2 rack; sequência de carga (um ensaio notificado) |
-| Carga de carro ferroviário China-Europa (3/box) | Caminho de ferro Harbin / Toutiao | NC | http://m.toutiao.com/group/6748371578787987979/ | 2026-09-03 | FONTE ÚNICA | Sedan/rail de referência tri-por-box (uma fonte) |
+| Yantai primeiro teste de "Ro-to-container" de 4-SUV | Notícias da Noite de Qilu Toutiao | NC | http://m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | FONTE ÚNICA | Upper2+lower2 rack; sequência de carga (um ensaio notificado) |
+| Carga de carro ferroviário China-Europa (3/box) | Caminho de ferro Harbin Toutiao | NC | http://m.toutiao.com/group/6748371578787987979/ | 2026-09-03 | FONTE ÚNICA | Sedan/rail de referência tri-por-box (uma fonte) |
 | Método de carregamento em cinco etapas do contentor de exportação | NetEase | Global | https://www.163.com/dy/article/L42056IP05568MR2.html | 2026-09-03 | FONTE ÚNICA | Verificação de estiva de cinco pontos (uma fonte) |
-* Nota de escopo (R4): cada figura de carregamento vem de uma única fonte distinta (todos SINGLE_SOURCE) — nenhum fato é corroborado por duas fontes independentes, então nenhuma é rotulada CRUSS_ Verificado. As contas são referências de práticas documentadas, não garantidas de estocagem; o número exato sempre depende das dimensões medidas e de um plano de carga aprovado, e as regras de transporte/terminal devem ser confirmadas na reserva. *
+* Nota de escopo: cada figura de carregamento vem de uma única fonte distinta (todos SINGLE_SOURCE) — nenhum fato é corroborado por duas fontes independentes, então nenhuma é rotulada CRUSS_ Verificado. As contas são referências de práticas documentadas, não garantidas de estocagem; o número exato sempre depende das dimensões medidas e de um plano de carga aprovado, e as regras de transporte/terminal devem ser confirmadas na reserva. *
 
 | Código de conduta da OMI/OIT/UNECE para a embalagem de unidades de transporte de carga (Código CTU) | Organização Marítima Internacional (OMI) | INT' L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | VERIFICADO | Princípios de distribuição, amarração e segurança de cargas para CTU, incluindo contentores |
-| Containers / referência de equipamento | Conselho Mundial da Navegação | INT' L | https://www.worldshipping.org/ | 2026-09-05 | VERIFICADO | Contexto normal de transporte de mercadorias e equipamento de linha para planeamento de carga |
+| Containers referência de equipamento | Conselho Mundial da Navegação | INT' L | https://www.worldshipping.org/ | 2026-09-05 | VERIFICADO | Contexto normal de transporte de mercadorias e equipamento de linha para planeamento de carga |
 
 ## Revisão Editorial
-- **Autor / revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)
+- **Autor revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)
 - ** Última revisão**: 2026-09-05
-- **Mercado de referência / escopo**: Operação logística global (método, não uma promessa de contagem fixa)
+- **Mercado de referência escopo**: Operação logística global (método, não uma promessa de contagem fixa)
 - ** Método de verificação**: orientação operacional, nenhuma contagem universal afirmada
 - ** Norma editorial**: Pesquisado e escrito a partir das fontes listadas acima (pesquisa de mesa; nenhuma condução em primeira mão, demolição ou importação é reivindicada). A confiança na fonte é mostrada por linha; qualquer ponto que não podemos confirmar independentemente é apresentado como um item de verificação em vez de afirmado como fato.
 #AutoBridge #ContainerLoading #40HQ #VehicleLashing #CTUCode

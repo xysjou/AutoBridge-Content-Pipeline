@@ -6,13 +6,13 @@
 - ** H1 **: Xe cộ Trung Quốc vào Chile: dùng các tham khảo FTA mà không tính sai phí
 - ** Từ khoá bí mật **: Trẻ Xe nhập khẩu FTA
 - **Secondary Search termss**: Chile aduana 6% arancel, Chile IVA 19% nhập khẩu, Chile FTA, Chile 3CV, Certeifado origen TLC Chile, EV nhập khẩu
-- **I nội bộ Link gợi ý: //guides/vehic-import-tt-vs-lc/; /guides/marine-crin-car-curance-car-port/; /vehicles/byd-yan-plus/.
+- **I nội bộ Link gợi ý: /guides/marine-crin-car-curance-car-port/; /vehicles/byd-yan-plus/.
 - **Image gợi ý**: Chile-stack thác nước; FTA chứng nhận-of-origin; 3CV bước đồng nhất
 - **LT gợi ý**: "Bộ nhập khẩu hàng loạt: nhiệm vụ so với IVA; "FTA chứng nhận yêu cầu nguồn gốc," "Lấp lộ 3CV quá trình đồng nhất"
 ## Cơ hội và việc khắc phục sự sai lầm
 Chile thực hiện các thỏa thuận miễn phí với các đối tác lớn, ** bao gồm cả Trung Quốc**. Một phương tiện truyền thông Trung Quốc có thể sử dụng tùy thích FTA (ad-valoem ** rect 0% **, trong khi nhiệm vụ của Chile là 6% của hải quan CF có giá trị** cho nguồn tham chiếu không phải là phụ thuộc lẫn nhau — giờ cả hai đều được đặt vào nguồn chính thức (blow). Lỗi thường xuyên của người mua là "FTA 0%" với chi phí " 0% nhập khẩu." Không phải. ** 19% IVA vẫn còn áp dụng, 0% phụ thuộc vào nguồn gốc chứng minh, và sự đồng nhất là một dòng tác riêng biệt.** Hướng dẫn này đặc biệt dành cho **Cile**.
 ## Xếp thuế, xếp hàng (chính thức bị cấm)
-| Phần tử | Điều trị | Căn bản / tự tin |
+| Phần tử | Điều trị | Căn bản tự tin |
 |---|---|---|
 | Tướng quân lên tiếng. | ** 6% của CFF (giá trị chung)** cho nguồn tham chiếu khác | **VERIEIED — Dịch vụ hải quan quốc gia Chile (Aduana.gob.cl)* ♪ |
 | IVA (VAT) | ** 19% trên giá trị hải quan CNFBF + nghĩa vụ** — tính tiền ngay cả khi nhiệm vụ là 0% dưới FTA | **VERIEIE — aduana.gob.cl** |
@@ -23,7 +23,7 @@ Hải quan Chile nói rõ quy tắc chung: nhập khẩu 6% quảng cáo về CI
 Một bản thảo trước đó mang theo 1% phí và 30 đô-la de-minis miễn phí vào túi xe. Điều luật đó liên quan đến **small/không-máy tính bưu điện và gửi đi, không phải nhập khẩu xe kinh doanh**, vì vậy nó đã được gỡ bỏ khỏi phí vận chuyển. Đừng áp dụng logic của người đưa thư de-minis cho một chiếc xe được vận chuyển.
 ## Nguồn gốc Điều kiện cho 0% — Nhận chứng chỉ đúng
 Tùy thích FTA chỉ áp dụng cho **cigining hàng hóa** đáp ứng quy tắc cụ thể sản phẩm của nguồn gốc và mang một điều khoản hợp lệ **Certifate of  original** do cơ thể được cấp phép phát hành, nhất quán trên các hóa đơn, gói ghém hàng, B/L và VIN. Hoạt động:
-- Xác nhận mã của phương tiện **HS** và quy tắc FTA của nó (Hãy kiểm tra văn bản FTA hiện tại / SBREI cho hướng đó — đừng tự động cho rằng mọi phương tiện đều có khả năng).
+- Xác nhận mã của phương tiện **HS** và quy tắc FTA của nó (Hãy kiểm tra văn bản FTA hiện tại SBREI cho hướng đó — đừng tự động cho rằng mọi phương tiện đều có khả năng).
 - Thu thập chứng nhận FTA đặt tên cùng một loại xuất khẩu/conignee và phương tiện như là các tài liệu thương mại.
 - Một chuỗi nguồn gốc bị hỏng hoặc mất tích sẽ mặc định cho chuyến hàng đến nhiệm vụ chung của ** 6% **.
 ## 3CV sự đồng dạng là tách biệt khỏi phong tục
@@ -32,7 +32,7 @@ Xe cộ được đặt trên thị trường Chile đòi hỏi ** 3CV sự đ�
 - ** Bất kỳ "luxury/surtax" nào (một nguồn công nghiệp đã trích dẫn phần trăm trên một ban nhạc giá trị): ** chưa được xác nhận chống lại quyền thuế của Chile (SII) và loại bỏ khỏi đống chi phí thực tế** — kiểm tra khả năng ứng dụng của mô hình/người dùng với nguồn thuế Chile trước khi ngân sách.
 - **ANAC's May-2026 proposal to cut the 6% duty for EVs from non-FTA partners**: một sự ủng hộ thương mại, không phải là luật chơi. Ghi chú rằng một con tàu điện tử Trung Quốc-Origin đã sử dụng kênh FTA 0%, vì vậy cuộc tranh luận phiFTA là một dòng khác. Kiểm tra lại ngày chuyển hàng; Không bao giờ trích dẫn một đề xuất như một chính sách.
 ## Tự động xuất hiện ngoài một chiếc xe tải
-Các hướng dẫn viên chung pha trộn các quy tắc de-minis, đề nghị và ban hành thuế thành một số. Phương pháp khuyến khích là xây dựng một chồng chính xác ** quốc gia cho một *vehic*** (6% tổng quát / 0% FTA tùy thích + 19% IVA trên giá trị tính chất của nhiệm vụ), buộc lại tài liệu **Crificate-of-origin đặt ra VIN**, và lên kế hoạch dòng thời gian ** 3CV tương đương với vận chuyển** do đó, sự ưu tiên 0% không bị mất trong một lần trùng giấy tờ sai và lần đăng ký đầu tiên không bị trì hoãn.
+Các hướng dẫn viên chung pha trộn các quy tắc de-minis, đề nghị và ban hành thuế thành một số. Phương pháp khuyến khích là xây dựng một chồng chính xác ** quốc gia cho một *vehic*** (6% tổng quát 0% FTA tùy thích + 19% IVA trên giá trị tính chất của nhiệm vụ), buộc lại tài liệu **Crificate-of-origin đặt ra VIN**, và lên kế hoạch dòng thời gian ** 3CV tương đương với vận chuyển** do đó, sự ưu tiên 0% không bị mất trong một lần trùng giấy tờ sai và lần đăng ký đầu tiên không bị trì hoãn.
 ## Chuỗi điều hành
 1. Phân loại mã HS và xác nhận quy tắc FTA của nó trước khi giá lên.
 2. Sắp xếp chứng nhận FTA của Nguồn gốc với tài liệu khớp với VIN.
@@ -42,7 +42,7 @@ Các hướng dẫn viên chung pha trộn các quy tắc de-minis, đề nghị
 6. Canh lề các phần định kỳ/tiền lương và đảm bảo chân đại dương (xem các hướng dẫn thích hợp).
 ## Trước khi thanh toán — Xác nhận danh sách
 - Mã HS + FTA quy tắc gốc; chứng nhận FTA được sắp xếp và mã VIN-consient.
-- Việc chồng thuế tính toán trên aduana.gob.cl cơ sở (6% tổng quát / 0%; 19% IVA trên dịch vụ CNF+).
+- Việc chồng thuế tính toán trên aduana.gob.cl cơ sở (6% tổng quát 0%; 19% IVA trên dịch vụ CNF+).
 - Bất cứ ai đã được xác nhận với nguồn thuế Chile, không phải giả định.
 - 3CV tuyến, phí hiện tại và thời gian trích dẫn bởi certifier (không dùng lại số cân nhắc).
 - Proposal/status thay đổi theo ngày chuyển hàng.
@@ -91,7 +91,7 @@ Có phải đơn vị ATAC bị cắt giảm trong lực lượng? Không, đây
 
 * CanIDidence lưu ý: nhiệm vụ tổng quát 6% và 19% IVA là thực hiện trên các phong tục Chi-lê; tùy thích FTA 0% là chính thức nhưng có điều kiện. Trước đây, có 1% /US $ 30 quy tắc giao thông (không áp dụng cho xe cộ), một ngưỡng xa hoa xa xỉ không được xác nhận và một khoản phí cố định 3CV đã được gỡ bỏ khỏi cơ thể thực tế; các quy tắc cấp độ HS của nguồn gốc và bất kỳ surtax nào phải được xác nhận với phong tục Chile/SII/SII/SURI. ♪
 ## Xem lại tập tin
-- **Author / recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
+- **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
 - **Last xem lại**: 2026-09-05
 - **Trible market**: Chile
 - Phương pháp xác thực **: Phong tục chính của chính phủ cho nghĩa vụ/IVA; cơ quan thương mại chính thức cho sở thích FTA; đề nghị và phí chưa xác nhận giữ lại trong chồng thực tế

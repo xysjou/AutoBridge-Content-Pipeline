@@ -7,19 +7,19 @@
 - ** H1 **: Chery Fulwin T9 C-DM: Trung Quốc-Market PHV kính hiển vi và xuất dạng Verification
 - **Cupemary Keyword**: cherry fulwin t9 mase erace
 - **Secondary Search Words**: Fulwin T9 C-DM, 风云 T9 plug-in lai, Chery T9 32.66kWh, Fulwin T9 7-seat, Xuất khẩu SUV kiểu Hoa
-- **I nội bộ Link gợi ý*: //guides/ev-shipping- un3556-imdg-compliance/; /vehcles/byd-qin-l-dm-i; /guides/port-vecle-docilt- wrap/
+- **I nội bộ Link gợi ý*: un3556-imdg-compliance/; /vehcles/byd-qin-l-dm-i; /guides/port-vecle-docilt- wrap/
 - **Image gợi ý**: Folwin T9 ba phần tư; cổng sạc; 5 chống lại bố trí chỗ 7; 1.5T C-DM phù hiệu; khu vực hàng hóa
 - **LT Những gợi ý**: "Trung tâm xử lý T9 C-DM cắm SUV lai." "Fulwin T9 32.66kWh battery CLTC range"
 
 ## Văn cảnh mua: một chiếc SUV hộ gia đình PHV với một phiên bản dài
-Chiếc Fulwin T9 là chiếc SUV lai cỡ C của Chery, được đưa ra trong năm-  and  seven-seat forms. Hai lỗi thứ tự chi phối mô hình này: Pha trộn mức T9 với T9L **, và trích dẫn phạm vi điện mà không đặt tên cho pin. Trang này có tài liệu **Chỉ có tiêu chuẩn Fulwin T9 (REFERCE MỘT CÒI: Chloe; dài hơn T9L (khoảng 4870 mm / 2920 mm bánh xe) là một cơ thể khác và cố tình bị loại trừ. Một trang cấu hình OEM đã được ghi lại cho mô hình này, để củng cố cơ sở thông minh.
+Chiếc Fulwin T9 là chiếc SUV lai cỡ C của Chery, được đưa ra trong năm-  and  seven-seat forms. Hai lỗi thứ tự chi phối mô hình này: Pha trộn mức T9 với T9L **, và trích dẫn phạm vi điện mà không đặt tên cho pin. Trang này có tài liệu **Chỉ có tiêu chuẩn Fulwin T9 (REFERCE MỘT CÒI: Chloe; dài hơn T9L (khoảng 4870 mm 2920 mm bánh xe) là một cơ thể khác và cố tình bị loại trừ. Một trang cấu hình OEM đã được ghi lại cho mô hình này, để củng cố cơ sở thông minh.
 
 ## PHEV _Chuyến bay điện: Động cơ đã hiến dâng + Motor + Speed-SHT
 | Mục | Fulwin T9 C-DM (tham chiếu Trung Quốc) |
 |---|---|
-| Máy | 1.5 T xăng lai dành riêng (115 kW / 220 N·m động cơ chỉ có; Trung Quốc 6b) |
-| Động cơ trước | 150 kW / 310 N·m |
-| Kết xuất hệ thống đã kết hợp | khoảng 265 kW / 530 N·m |
+| Máy | 1.5 T xăng lai dành riêng (115 kW 220 N·m động cơ chỉ có; Trung Quốc 6b) |
+| Động cơ trước | 150 kW 310 N·m |
+| Kết xuất hệ thống đã kết hợp | khoảng 265 kW 530 N·m |
 | Truyền thống lai | Một tốc độ DHT |
 | Name | ** 32.66 kWh ** |
 | Phạm vi điện | **120–220 km CLTC** (version-dependent; một con số của WLTC khoảng 160 km cũng được trích dẫn cho một phiên bản) |
@@ -29,13 +29,13 @@ Chiếc Fulwin T9 là chiếc SUV lai cỡ C của Chery, được đưa ra tron
 Đối với một chiếc xe xuất khẩu, máy móc, pin và sạc** cùng nhau. 1.5T ở đây là một động cơ được lai kết hợp; con số 115 kW của nó không phải là kết quả của hệ thống - giữ cho hai cái tách biệt trên bất kỳ đường quang phổ nào.
 
 ## Thân thể, đường biển và xe cộ
-- Chiều dài / chiều rộng: ** 4795 / 1930 / 1738 mm ** (một số nguồn liệt kê 1741 mm chiều cao theo độ phân giải)
+- Chiều dài chiều rộng: ** 4795 1930 1738 mm ** (một số nguồn liệt kê 1741 mm chiều cao theo độ phân giải)
 - Bánh xe: ** 2770 mm **
 - Ghế: ** 5 hay 7 ** — bang nào theo thứ tự
 - Cargo: ** 650 L, khoảng 1775 L ** với chỗ ngồi (cắm lại)
 
 ## Chuẩn T9 chống lại T9L — Không trộn
-- ** Trang này: chuẩn T9 **, 4795 mm / 2770 mm bánh xe.
+- ** Trang này: chuẩn T9 **, 4795 mm 2770 mm bánh xe.
 - **Excded: T9L **, khoảng 4870 mm với một chiếc xe 2920 mm bánh. Nó là một phương tiện xe đạp dài hơn; trộn kích thước hoặc chỗ ngồi của nó vào một thứ tự chuẩn T9 là một lỗi cấu hình.
 - Khoảng cách bước và bố trí chỗ ngồi thay đổi theo thứ tự ưu tiên; the 120–220 km spread is not a single number for one car.
 
@@ -47,10 +47,10 @@ Chiếc Fulwin T9 là chiếc SUV lai cỡ C của Chery, được đưa ra tron
 5. ** thầy thuốc/tạp chí cho lớp đăng ký chứng nhậnhybrid** và cả tài liệu được đặt đầy đủ trên danh sách các tài liệu xuất khẩu.
 
 ## Yêu cầu một trích dẫn Xuất hiện thời
-Không có giá xuất khẩu được xuất bản. Phạm vi hướng dẫn 2024 Trung Quốc (theo góc độ RMB 129, 900–169, 900 là một **dodostic, Tham khảo thời gian nhạy cảm, Không phải FOB/CIF**. Cần có **Diestination Country*Grition ·Guity* Pins/Sate Trim* LHD/RHD_ styng* Incate**.
+Không có giá xuất khẩu được xuất bản. Phạm vi hướng dẫn 2024 Trung Quốc (theo góc độ RMB 129,900–169,900 là một **dodostic, Tham khảo thời gian nhạy cảm, Không phải FOB/CIF**. Cần có **Diestination Country*Grition ·Guity* Pins/Sate Trim* LHD/RHD_ styng* Incate**.
 
 ## Những câu hỏi thường xuyên
-**Con cá Fuwin T9 có giống T9L không? Không; T9L là một phương tiện xe đạp dài hơn (khoảng 4870 mm / 2920 mm) và được loại trừ khỏi trang T9 tiêu chuẩn này.
+**Con cá Fuwin T9 có giống T9L không? Không; T9L là một phương tiện xe đạp dài hơn (khoảng 4870 mm 2920 mm) và được loại trừ khỏi trang T9 tiêu chuẩn này.
 Bộ ắc quy nào mà xa xôi T9 dùng? Một cặp 32.66 kWh cho các phiên bản được ghi nhận từ xa,  with 120–220 km CLTC electric range depending on trim.
 **Có phải 1400 km là được đo không? Nó là một con số được công nhận là WLTC; nó như một tuyên bố nhà máy, không phải là kết quả thử nghiệm.
 ** Năm hay bảy chỗ? Cả hai đều được mời; hãy xác định theo thứ tự và khớp với mã VIN.
@@ -68,23 +68,23 @@ Bộ ắc quy nào mà xa xôi T9 dùng? Một cặp 32.66 kWh cho các phiên b
 - TRONG SÁCH TRONG LINH: FAIL (không có giấy phép lấy được tài sản; một người giữ chỗ hoặc “không chấp nhận lời nhắn cũ của hình ảnh ”
 - - Không. Không thể bảo đảm ảnh có thể tái tạo: Wikimedia Commons/Flickr không thể tới từ môi trường nghiên cứu, thư viện chứng khoán yêu cầu quyền truy cập hệ thống ARI/licence, và một trang web OEM không phải là một tài trợ tái sử dụng thương mại; không có ảnh tự động của AutoBridge. Giữ FAIL thay vì khẳng định.
 - Theo ngôn ngữ:
-  - **EN**: AutoBridge export-buyer reference — Chery Fulwin T9, plug-in hybrid vehicle / SUV
-  - **FR**: Référence AutoBridge pour acheteurs export — Chery Fulwin T9, véhicule hybride rechargeable / SUV
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Chery Fulwin T9, Plug-in-Hybridfahrzeug / SUV
-  - **ES**: Referencia AutoBridge para compradores de exportación — Chery Fulwin T9, vehículo híbrido enchufable / SUV
-  - **PT**: Referência AutoBridge para compradores de exportação — Chery Fulwin T9, veículo híbrido plug-in / SUV
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Chery Fulwin T9, プラグインハイブリッド車 / SUV
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Chery Fulwin T9, 플러그인 하이브리드 차량 / SUV
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Chery Fulwin T9, xe hybrid sạc ngoài / SUV
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Chery Fulwin T9, รถปลั๊กอินไฮบริด / รถเอสยูวี
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Chery Fulwin T9, kendaraan hybrid plug-in / SUV
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Chery Fulwin T9, مركبة هجينة قابلة للشحن / سيارة دفع رباعي
-  - **ZH**: AutoBridge 出口采购参考｜Chery Fulwin T9, 插电混动车 / SUV
+  - **EN**: AutoBridge export-buyer reference — Chery Fulwin T9, plug-in hybrid vehicle SUV
+  - **FR**: Référence AutoBridge pour acheteurs export — Chery Fulwin T9, véhicule hybride rechargeable SUV
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Chery Fulwin T9, Plug-in-Hybridfahrzeug SUV
+  - **ES**: Referencia AutoBridge para compradores de exportación — Chery Fulwin T9, vehículo híbrido enchufable SUV
+  - **PT**: Referência AutoBridge para compradores de exportação — Chery Fulwin T9, veículo híbrido plug-in SUV
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Chery Fulwin T9, プラグインハイブリッド車 SUV
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Chery Fulwin T9, 플러그인 하이브리드 차량 SUV
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Chery Fulwin T9, xe hybrid sạc ngoài SUV
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Chery Fulwin T9, รถปลั๊กอินไฮบริด รถเอสยูวี
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Chery Fulwin T9, kendaraan hybrid plug-in SUV
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Chery Fulwin T9, مركبة هجينة قابلة للشحن سيارة دفع رباعي
+  - **ZH**: AutoBridge 出口采购参考｜Chery Fulwin T9, 插电混动车 SUV
 
 ## Nguồn và Định dạng
 | Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
-| GB 38031 traction-battery safety requirement (national standard) | SAR / Quản lý chuẩn hoá | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VEII | Đường dây an toàn máy móc liên quan đến gói C-DM có nhiều động cơ |
+| GB 38031 traction-battery safety requirement (national standard) | SAR Quản lý chuẩn hoá | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VEII | Đường dây an toàn máy móc liên quan đến gói C-DM có nhiều động cơ |
 | Giới hạn phát ra ánh sáng GB 18352.6-2016/XG1-2026 (Trung Quốc 6) | Bộ sinh thái học và môi trường | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VEII | Current China-6 emission frame for the 1.5T dedicated engine (China-6b reference) |
 | Bàn cấu hình chính thức Fulwin T9 | Chery Fulwin (OEM) | CN | https://fulwin.chery.cn/vehicles/t9/config/ | 2026-09-04 | VEIIEED (OEM) | Pin, kích thước, ghế ngồi, sạc, phiên bản |
 | Fulwin T9 hands-on (size/model year) | Dongchedi | CN | https://m.dongchedi.com/article/7506038314424730131 | 2026-09-04 | ĐÃ_ ĐÃ | Các chiều, ranh giới năm mô hình |

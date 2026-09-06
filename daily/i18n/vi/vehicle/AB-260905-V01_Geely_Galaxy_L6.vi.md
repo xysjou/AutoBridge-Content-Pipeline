@@ -4,10 +4,10 @@
 - **SEEO Titt**: Geely Thiên hà L6 EM-i PHV 2025: China-Market Spects & Elier Guide
 - **Meta Mô tả**: Ngân hà Trung Quốc L6 EM-i lai kết hợp: các chiều không gian xác nhận, EM-i powertrain, hai ắc quy/h, và một người nhập khẩu phải xác nhận điều gì bởi Vic.
 - ** H1 **: Geely Thiên hà L6 EM-i (2025) — China-Market Spects and Enge Verification
-- **Cumpary Keyword**: Geely / 吉利银河 Thiên hà L6 / 银河 L6 quang phổ xuất khẩu
+- **Cumpary Keyword**: Geely 吉利银河 Thiên hà L6 银河 L6 quang phổ xuất khẩu
 - **Secondary Search termss**: Geely Dải Ngân Hà L6 xuất khẩu; Thiên hà L6 EM-i Kính lục thể PHV; nhập khẩu xe sedan của Trung Quốc; EM-i tốc độ một chiều DHT; CLTC vs WLPV
 - **Sudeest URL**: /vehicles/geely-gaxey- l6/
-- **Tìm kiếm Intent**: 了解 Geely / 吉利银河 Thiên hà L6 / 银河 L6 中国版规格 配置与出口适配性 (车型参数页).
+- **Tìm kiếm Intent**: 了解 Geely 吉利银河 Thiên hà L6 银河 L6 中国版规格 配置与出口适配性 (车型参数页).
 - **I nội bộ Link gợi ý**: /vehcles/geely-leaxy- l6/, /guides/incoions- 2020-selection-guide/, /guides/exc-t-t-t-lc-n huyết áp/
 - **Schema Scope**: Điều + xe cộ (không có sản phẩm/ sản phẩm/ văn bản/ Xem lại)
 
@@ -17,18 +17,18 @@ Bộ thiên hà **Geely L6 EM-i (2025) là một chiếc sedan phụ kết hợp
 Dòng EM-i là động cơ chạy trước và kết hợp với 1.5 L tự nhiên động cơ xăng với một động cơ phía trước thông qua một đường truyền lai có độ chuyên dụng. Hai đường pin/s-wight được bán ở Trung Quốc; một người nhập khẩu nên coi chúng như những cấu hình có thể sắp xếp được thay vì một " L6" với một số đơn lẻ.
 
 ## Nhiều dòng và nguồn điện (siêu thị Trung Quốc)
-- **Accacture**: FF (cơ khí trước/ trước), 4-door 5-seat sedan; Xác 4782 / 1875 / 1489 mm, bánh xe cơ sở 2752 mm (đã kiểm tra chéo).
-- **Engine**: BHE15-BFN 1.5 L tự nhiên được đánh giá cao, 1499 mL, 82 (112Ps) kW / 136 N·m (bản tham số ZOL).
-- **Motor**: 160 kW / 262 N·m (tách điện máy hút chéo; mô-men xoắn một nguồn).
+- **Accacture**: FF (cơ khí trước/ trước), 4-door 5-seat sedan; Xác 4782 1875 1489 mm, bánh xe cơ sở 2752 mm (đã kiểm tra chéo).
+- **Engine**: BHE15-BFN 1.5 L tự nhiên được đánh giá cao, 1499 mL, 82 (112Ps) kW 136 N·m (bản tham số ZOL).
+- **Motor**: 160 kW 262 N·m (tách điện máy hút chéo; mô-men xoắn một nguồn).
 - **Transation**: 1 挡 DHT(EM-i 单挡混动专用变速) — một tính năng DHT tốc độ duy nhất, mà là định nghĩa EM-i so với con lai đa tốc độ cũ.
-- **Battery dòng**: 8.5 / 19.09 kWh. Nguồn cung cấp pin là ** chưa được xác nhận bởi Geely** và được cố tình không nói ra.
-- ** lột ra khỏi vỏ: 60 / 140（对应8.5/19.09kWh） km CLTC for the two lines respectively; trên WLTC, tài liệu tham khảo được ghi nhận là 48 / 115 km. CLTC và WLTC là hai chu kỳ khác nhau — không bao giờ trích dẫn một con số CLTC như một con số xuất khẩu WLTC/NEEC.
+- **Battery dòng**: 8.5 19.09 kWh. Nguồn cung cấp pin là ** chưa được xác nhận bởi Geely** và được cố tình không nói ra.
+- ** lột ra khỏi vỏ: 60 140（对应8.5/19.09kWh） km CLTC for the two lines respectively; trên WLTC, tài liệu tham khảo được ghi nhận là 48 115 km. CLTC và WLTC là hai chu kỳ khác nhau — không bao giờ trích dẫn một con số CLTC như một con số xuất khẩu WLTC/NEEC.
 - **Cribined/performance**: combined CLTC range up to 最高 2000 km; 0–100 km/h 7.4 s; tốc độ cao 180 km/h; thùng nhiên liệu 60 L; Hệ số kéo 0.26.
 
 ## Bảng đặc tả có màu sắc (tham chiếu thị trường Trung Hoa)
 | Chi tiết | Giá trị | Đơn vị | Thị trường | Tin tưởng | Ghi chú nguồn |
 |---|---|---|---|---|---|
-| Chiều dài | 4782 / 1875 / 1489 | mm | TRUNG QUỐC | ĐÃ_ ĐÃ | ZOL+ 搜狐双源一致 |
+| Chiều dài | 4782 1875 1489 | mm | TRUNG QUỐC | ĐÃ_ ĐÃ | ZOL+ 搜狐双源一致 |
 | bánh xe cơ sở | 2752 | mm | TRUNG QUỐC | ĐÃ_ ĐÃ | ZOL+ 搜狐双源一致 |
 | kiểu cơ thể | 4 门 5 座三厢轿车 | - | TRUNG QUỐC | SINGLE_SOURCE | 搜狐车型库 |
 | Mô hình động cơ | BHE15-BFN 1.5L 自然吸气 | - | TRUNG QUỐC | SINGLE_SOURCE | ZOL 参数表 |
@@ -38,9 +38,9 @@ Dòng EM-i là động cơ chạy trước và kết hợp với 1.5 L tự nhi�
 | năng lượng động | 160 | kW | TRUNG QUỐC | ĐÃ_ ĐÃ | ZOL+ 太平洋 |
 | mô-men xoắn động cơ | 262 | N·m | TRUNG QUỐC | SINGLE_SOURCE | ZOL 参数表 |
 | gửi | 1 挡 DHT(EM-i 单挡混动专用变速) | - | TRUNG QUỐC | SINGLE_SOURCE | 搜狐车型库 |
-| ắc quy chứa các đường | 8.5 / 19.09 | k Wh | TRUNG QUỐC | SINGLE_SOURCE | ZOL 参数表 |
-| ev phạm vi cltc | 60 / 140（对应8.5/19.09kWh） | km | TRUNG QUỐC | SINGLE_SOURCE | ZOL 参数表 |
-| ev phạm vi ltc | 48 / 115 | km | TRUNG QUỐC | SINGLE_SOURCE | 太平洋汽车 |
+| ắc quy chứa các đường | 8.5 19.09 | k Wh | TRUNG QUỐC | SINGLE_SOURCE | ZOL 参数表 |
+| ev phạm vi cltc | 60 140（对应8.5/19.09kWh） | km | TRUNG QUỐC | SINGLE_SOURCE | ZOL 参数表 |
+| ev phạm vi ltc | 48 115 | km | TRUNG QUỐC | SINGLE_SOURCE | 太平洋汽车 |
 | cộng độ sâu | 最高 2000 | km | TRUNG QUỐC | SINGLE_SOURCE | 太平洋汽车 |
 | Tốc độ cao nhất | 180 | km/h | TRUNG QUỐC | SINGLE_SOURCE | ZOL 参数表 |
 | accel 0 100 | 7.4 | s | TRUNG QUỐC | SINGLE_SOURCE | 太平洋汽车 |

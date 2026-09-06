@@ -31,7 +31,7 @@ Two boundaries cause most disputes:
 ## The Electric Three-Wheeler Edge Case
 Customs guidance distinguishes electric three-wheelers by use and identification: a **person-carrying** three-wheeler **with a VIN** falls under the 8703.8010 line, **without a VIN** under 8703.8090, while a **cargo** three-wheeler goes to **8704.6000**. This is a customs Q&A-level interpretation (single source); the local port customs and the current 2026 tariff remain authoritative.
 
-## The HS-First Workflow We Recommend
+## The HS-First Process We Recommend
 1. **State principal use** (traction / persons / goods / special function / non-powered trailer) — this selects the heading.
 2. **Count seats** for passenger vehicles (≤9 → 87.03; 10+ → 87.02); identify tractors under 87.01.
 3. **Separate tractor from trailer**: an 87.01 tractor head and an 8716 semi-trailer are classified independently.

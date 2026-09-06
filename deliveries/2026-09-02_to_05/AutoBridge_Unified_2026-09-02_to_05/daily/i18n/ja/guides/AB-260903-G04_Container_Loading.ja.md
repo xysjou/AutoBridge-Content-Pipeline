@@ -14,21 +14,21 @@
 「40HQの車はいくつ?」という普遍的な答えがない。それは**車両寸法、鏡面折り、ラックシステム、キャリアの承認された汚泥計画の機能です**。 このガイドは、現実的なバンドとメソッドを与えます。それは意図的に固定されたカウントを約束しません。 実際の測定荷重プランから全ての出荷確認を行います。
 
 ## リアルなローディング・バンド(文書化された練習から)
-- **棚無し, 従来の: ** a 40HQ typically carries **two mid/large SUVs** (examples cited are ~4.9 m class such as ID.6 / Range-Rover / Prado / Li L7-scale vehicles) (single-source forwarder diagram).
+- **棚無し, 従来の: ** a 40HQ typically carries **two mid/large SUVs** (examples cited are ~4.9 m class such as ID.6 Range-Rover Prado Li L7-scale vehicles) (single-source forwarder diagram).
 - **滑走の引き抜きの二重デッキの棚を使って: ** an **"upper 2 + lower 2" = four SUVs** arrangement was reported in one Yantai-port "RoRo-to-container" trial (single-source).
-- **セダン/中国ヨーロッパ レール: ****three vehicles per box** appears in China-Europe rail/sedan practice reporting (single-source).
+- レール: ****three vehicles per box** appears in China-Europe rail/sedan practice reporting (single-source).
 これらは、参照ポイントであり、非資格:ハイルーフバン、ピックアップ、または長いエグゼクティブカーはカウントを変更し、ラックローディングは、認定機器と承認された計画を必要とします。
 
 ## 遅延: 修正 タイヤを通し、体を傷つけない
 受信トレイのセキュリティのための文書化された練習:
 - **About eight straps per vehicle**, 主に、マルチ方向(five-direction)ロードパスで**wheel/tyreタイダウンメソッド**。
-- ストラップは、ボディパネル、ペイント、またはサスペンションコンポーネントではなく、**タイヤ/ホイールポイントで動作します。 誤った場所でのサスペンションやシャシにまつわると、車にダメージを与え、海の動きの下で移動することができます。
-- **滑り止めのマット/チャックおよび材木ブロック**を使用して下さい、正しい革紐の張力を置き、あらゆる接触ポイントを保護して下さい。
+- 誤った場所でのサスペンションやシャシにまつわると、車にダメージを与え、海の動きの下で移動することができます。
+-
 目的は、車がシフトできない船舶の転がり下がり、下がり下がることです。  rotate or contact the box wall or the second vehicle.
 
 ## 積載シーケンス(ラックワークが間違っているところ)
-ラック/ダブルデッキのロードでは、文書化されたポートの練習は次のとおりです。
-1. **棚付き車トップファースト/計画された順序で**、プッシュアンドリポジションを支援するフォークリフトを使用して;
+
+1.
 2. A ** 二重ドア(両端)コンテナは、両端から同時に作業することができます**、ドウェルを短縮します。
 3. ユニットを強力に確保 — 隣の操縦中に車が安全でないままにしないようにします。
 順序の間違い(下車を最初に荷を積む)  and  blocking rack access) are the most avoidable delay in four-car loads.
@@ -38,7 +38,7 @@
 1. **商品と梱包リスト** — VIN、数量、条件の一致; PSIは既に完了しました(PSIガイドを参照してください)。
 2. **ローディングオーダー** — 荷物の分配とラックのポジションを計画ごとに。
 3. **重力/整理/高さ** — 屋根、壁またはドアとの接触なし; 横方向の重量。
-4. **セキュア** — ストラップ、チャック、木材、滑り止め、塗装/サスペンションには何もありません。
+4. **セキュア** —
 5. **ドアクリアランス** — 閉塞とシールに十分なマージン。シール前にストウの写真を録画します。
 
 ## EV-Specific Note EV-Specific Note EV-Specific Note EV-Specific Note EV-Specific Note の仕様
@@ -57,7 +57,7 @@
 **Where should straps attach?** To the tyres/wheel tie-down points — about eight per car — not to bodywork or suspension.
 **セダンはどのように異なっていますか?** セイドウ  and  China-Europe rail loads commonly achieve three per box; 寸法は依然として決定します。
 **ラックトップファーストをロードするのはなぜですか?** 上部の車両は、下部のブロックラックアクセスの前に配置する必要があります。 フォークリフトの援助は、安全にそれらを配置します。
-**ドアを密封する前にチェックしたのは?** 商品の/リストマッチ、注文、重力およびクリアランスの中心、フル・セーリング、およびドアマージン - 写真付き。
+**ドアを密封する前にチェックしたのは?** - 写真付き。
 
 ## 映像の記録
 - IMAGE_ASSET_PATH:リポジトリで保護されていない
@@ -67,7 +67,7 @@
 - 権利_ホルダー:未確認
 - LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
 - CHECKED_DATE: 2026-09-06(税抜き)
-- MODEL_TOPIC_MATCH: 上記の正確なモデル/バージョン(またはガイドトピック)と参照市場と一致しなければなりません
+- MODEL_TOPIC_MATCH:
 - IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
 - IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
 - ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
@@ -88,19 +88,19 @@
 ## ソースと検証
 | ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
 |---|---|---|---|---|---|---|
-| 車両の固定面ビュー (2/box、8ストラップ) | 貨物用材料 | 営業拠点 | 以下は、 //m. 11467.com/product/d42473652.htm | 2026-09-03 | シングル_ソース | 2-SUV ノルク; ~ 8 ストラップ; wheel method (one source) |
-| ヤンタイ港初の4-SUV「ロトコンテーナー」試用 | 気功の夕方のニュース/Toutiao | CN の | 担当: //m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | シングル_ソース | Upper2+lower2ラック; ローディングシーケンス(報告された試験) |
-| 中国ヨーロッパ鉄道車ローディング(3/box) | ハルビン鉄道/トウティアオ | CN の | 担当: //m.toutiao.com/group/ 6748371578787987979/ の | 2026-09-03 | シングル_ソース | Three-per-box sedan/rail reference (one source) |
-| Export container five-step loading method | ネットエイズ | 営業拠点 | 以下は、 //www.163.com/dy/article/L42056IP05568MR2.htmlの特長 | 2026-09-03 | シングル_ソース | Five-point stowage check (one source) |
-*Scopeのノート(R4): それぞれの積込み図は、ひとつから来る、  distinct source (all SINGLE_SOURCE) — no fact is corroborated by two independent sources, そのため、 CROSS_CHECKED はラベル付けされていません。 カウントは文書化された実践的な参照であり、保証された固定ではありません。 正確な番号は、測定された寸法と承認されたロードプランに依存し、予約時に航空会社/ターミナルルールを確認する必要があります。 ふりがな
+| 車両の固定面ビュー (2/box、8ストラップ) | 貨物用材料 | 営業拠点 | 以下は、 | 2026-09-03 | シングル_ソース | 2-SUV ノルク; ~ 8 ストラップ; wheel method (one source) | https://m.11467.com/product/d42473652.htm
+| ヤンタイ港初の4-SUV「ロトコンテーナー」試用 | 気功の夕方のニュース/Toutiao | CN の | 担当: http://m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | シングル_ソース | Upper2+lower2ラック; ローディングシーケンス(報告された試験) |
+| 中国ヨーロッパ鉄道車ローディング(3/box) | | CN の | 担当: http://m.toutiao.com/group/6748371578787987979/ の | 2026-09-03 | シングル_ソース | Three-per-box sedan/rail reference (one source) |
+| Export container five-step loading method | ネットエイズ | 営業拠点 | 以下は、 https://www.163.com/dy/article/L42056IP05568MR2.html | 2026-09-03 | シングル_ソース | Five-point stowage check (one source) |
+*Scopeのノート: それぞれの積込み図は、ひとつから来る、  distinct source (all SINGLE_SOURCE) — no fact is corroborated by two independent sources, そのため、 CROSS_CHECKED はラベル付けされていません。 カウントは文書化された実践的な参照であり、保証された固定ではありません。 ふりがな
 
-| IMO/ILO/UNECE 貨物輸送ユニット(CTUコード)の実用化 | 国際海事機関(IMO) | インフォメーション | 以下は、 //www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | 検証済み | コンテナを含むCTUの貨物分布、消し、そして確保の原則 |
-| 容器/装置参照 | 世界配送協議会 | インフォメーション | 以下は、 //www.worldshipping.org/ は、 | 2026-09-05 | 検証済み | 標準的な貨物コンテナと荷計画のためのライナー機器のコンテキスト |
+| IMO/ILO/UNECE 貨物輸送ユニット(CTUコード)の実用化 | 国際海事機関(IMO) | インフォメーション | 以下は、 https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | 検証済み | コンテナを含むCTUの貨物分布、消し、そして確保の原則 |
+| | 世界配送協議会 | インフォメーション | 以下は、 https://www.worldshipping.org/ は、 | 2026-09-05 | 検証済み | 標準的な貨物コンテナと荷計画のためのライナー機器のコンテキスト |
 
 ## 編集レビュー
 - **著者/査読者**:【AutoBridge 輸出編集チーム】(/authors/)・方法による【編集ポリシー】(/editorial-policy/)
 - **最終審査**:2026-09-05
-- **参考市場/スコープ**:グローバル・ロジスティクス・オペレーション(方法、固定口座の約束ではありません)
+-
 - **検証方法**: 運用ガイダンス、無数のユニバーサルカウントが主張されていない
 - ** 編集規格**: 上記情報源(デスクリサーチ、片手運転、涙流、輸入)から研究・執筆 ソースの自信は行ごとに示されます。 私たちが独立して確認できない点は、事実として主張するのではなく、検証項目として提示されます。
 #AutoBridge #ContainerLoading #40HQ #VehicleLashing #CTUCode

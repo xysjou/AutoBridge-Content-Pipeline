@@ -4,10 +4,10 @@
 - **SEO Titel**: Changan CS55 PLUS (3rd Gen) 2024: Chinesisch-Markt ICE Specs & Export Guide
 - **Meta Description**: Chinesische Markt dritte Generation Changan CS55 PLUS Benzin SUV: Blauwal NE 1.5T, 7DCT, Abmessungen, WLTC Kraftstoffverbrauch und warum der Hybrid eine separate Linie ist.
 - ** H1 **: Changan CS55 PLUS (3rd Generation, 2024) - Chinesisch-Markt-Benzin SUV Specs und Export-Checks
-- ** Primäres Keyword**: Changan / 长安 CS55 PLUS(第三代) specs export
+- ** Primäres Keyword**: Changan 长安 CS55 PLUS(第三代) specs export
 - **Secondary Search Terms**: Changan CS55 PLUS Export; dritte Generation CS55; Blauwal 1.5T; chinesisches Benzin-SUV; 7DCT
 - **Vorgeschlagene URL**: /Fahrzeuge/changan- cs55-plus/
-- **Search Intent**: 了解 Changan / 长安 CS55 PLUS（第三代） 中国版规格、配置与出口适配性（车型参数页）
+- **Search Intent**: 了解 Changan 长安 CS55 PLUS（第三代） 中国版规格、配置与出口适配性（车型参数页）
 - **Interne Linkvorschläge**: /Fahrzeuge/changan- cs55-plus/, /Guides/Emissionskraftstoff-Kompatibilität-Historie/, /Guides/China-used-car-export-license-process/
 - **Schema-Scope**: Artikel + Fahrzeug (kein Produkt/Angebot/Bewertung)
 
@@ -15,7 +15,7 @@
 Diese Seite behandelt nur den Changan CS55 PLUS der dritten Generation (2024) mit dem Benzinantrieb (ICE)**. Die **Super-Hybrid-Version ist eine separate Linie** mit unterschiedlichen Karosserie- und Antriebsfiguren und wird hier nicht zusammengeführt. Referenzmarkt ist **China**.
 
 ## Kraftstoffantrieb und Abmessungen
-- ** Körper**: 4539 / 1865 / 1680 mm, Radstand 2656 mm; cargo 475–1415 L.
+- ** Körper**: 4539 1865 1680 mm, Radstand 2656 mm; cargo 475–1415 L.
 - **Motor**: 新蓝鲸 NE 1.5T, 141 (192Ps) kW.
 - **Übertragung**: 7DCT 湿式双离合.
 - **Performance/Economy**: 0–100 km/h 7.9 s; WLTC-Kraftstoffverbrauch 6.94.
@@ -25,7 +25,7 @@ Diese Seite behandelt nur den Changan CS55 PLUS der dritten Generation (2024) mi
 ## Verifizierte Spezifikationstabelle (Referenz des chinesischen Marktes)
 | Spezifikation | Wert | Einheit | Markt | Vertrauen | Quelle: |
 |---|---|---|---|---|---|
-| Breitenbreitenhöhe | 4539 / 1865 / 1680 | mm | CHINA | SINGLE_SOURCEN | 搜狐车型库 |
+| Breitenbreitenhöhe | 4539 1865 1680 | mm | CHINA | SINGLE_SOURCEN | 搜狐车型库 |
 | Radstand | 2656 | mm | CHINA | SINGLE_SOURCEN | 搜狐车型库 |
 | Motor | 新蓝鲸 NE 1.5T | - | CHINA | SINGLE_SOURCEN | 搜狐车型库 |
 | Motorleistung | 141 (192Ps) | kW | CHINA | SINGLE_SOURCEN | 搜狐车型库 |
@@ -47,9 +47,9 @@ Bei einem Benzin-SUV sind die auftragskritischen Prüfungen die **Emissionsstufe
 5. Behandeln Sie die Einführungspreise für RMB als Inlandsreferenz; fordern Sie ein aktuelles Ausfuhrangebot an.
 
 ## FAQ
-**Beinhaltet dies den Hybrid CS55 ?** Nein - der Hybrid ist eine separate Linie mit verschiedenen Specs.
-**Welche Emissionsnorm?** Bestätigen Sie China-6 gegen Bestimmungsregeln; siehe Emissions- / Kraftstoffleitfaden.
-**Ist 6.94 L / 100 km eine reale Figur?** Es ist ein WLTC-Laborwert; die tatsächliche Nutzung variiert.
+**Beinhaltet dies den Hybrid CS55 Nein - der Hybrid ist eine separate Linie mit verschiedenen Specs.
+**Welche Emissionsnorm?** Bestätigen Sie China-6 gegen Bestimmungsregeln; siehe Emissions- Kraftstoffleitfaden.
+**Ist 6.94 L 100 km eine reale Figur?** Es ist ein WLTC-Laborwert; die tatsächliche Nutzung variiert.
 **Ist 99, 900 RMB der Ausfuhrpreis?** Nr. — nationale Startnummer.
 **Welches Getriebe? ** 7-speed nasser Doppelkupplungsabschnitt (7DCT) auf der erfassten Leitung.
 

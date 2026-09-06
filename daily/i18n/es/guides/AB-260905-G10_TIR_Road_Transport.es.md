@@ -7,7 +7,7 @@
 - **Primary Keyword**: transporte por carretera por China central asia
 - **Segundary Search Terms**: TIR carnet; China Central Transporte de Asia; certificado de aprobación de vehículos; sello aduanero; tránsito por carretera
 - ** URL agregada**: /guides/tir-road-transport-china-central-asia/
-- **Búsqueda Intent**: 对中亚 / 欧洲卡航出口, 如何适用 TIR 公约, 办理 TIR 证与海关加封车辆批准证明, 2026 新规变化
+- **Búsqueda Intent**: 对中亚 欧洲卡航出口, 如何适用 TIR 公约, 办理 TIR 证与海关加封车辆批准证明, 2026 新规变化
 - **Sugerencias de Enlace Interno**: /guides/tir-road-transport-china-central-asia/, /guides/vehicle-export-hs-code-history/, /guides/china-export-customs-declaration-single-window/
 - **Esquema Ámbito**: Artículo (sin Producto/Offer/Revisión)
 
@@ -48,7 +48,7 @@ Esta guía no enumera cada parte contratante, tasa de cadena de garantía o lín
 | 海关总署公告 2026 年第 2 号 (关于优化落实 TIR 公约有关事项) | 中华人民共和国海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2026-01/05/article_2026010515561027770.html | 车辆批准证明书, TIR 证交验, 适用范围扩展 |
 | 海关总署公告 2026 年第 2 号 (PDF 原件) | 中华人民共和国海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/attachDir/2026/01/%E6%B5%B7%E5%85%B3%E6%80%BB%E7%BD%B2%E5%85%B3%E4%BA%8E%E4%BC%98%E5%8C%96%E8%90%BD%E5%AE%9ETIR%E5%85%AC%E7%BA%A6%E6%9C%89%E5%85%B3%E4%BA%8B%E9%A1%B9%E7%9A%84%E5%85%AC%E5%91%8A%20(1).pdf | 公告全文一致性核验 |
 | 海关总署公告 2026 年第 2 号 (国务院公报) | 中国政府网 | CN | T1 | VERIFIED | https://www.gov.cn/gongbao/2026/issue_12666/202604/content_7065109.html | 公报核验 |
-| TIR 国际公路运输及服务指南 (政策解读) | 武汉市 (促进跨境贸易便利化, 搜狐转载) | CN | T3 | CROSS_CHECKED | https://m.sohu.com/a/1054225552_121106908/ | 中国 2016 加入 / 2019 全国实施 / 2026 扩展跨境电商保税 |
+| TIR 国际公路运输及服务指南 (政策解读) | 武汉市 (促进跨境贸易便利化, 搜狐转载) | CN | T3 | CROSS_CHECKED | https://m.sohu.com/a/1054225552_121106908/ | 中国 2016 加入 2019 全国实施 2026 扩展跨境电商保税 |
 | TIR Convention, 1975 — UN Treaty Collection official text | Colección de Tratados de las Naciones Unidas | INT | T1/T2 | VERIFIED | https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XI-A-16&chapter=11 | Texto jurídico oficial de la Convención de Aduanas sobre el Transporte Internacional de Mercaderías bajo la cubierta de las redes TIR |
 | IRU - Sistema de carnet TIR y cadena de garantía | Unión Internacional de Transportes por Carretera (UI) | INT | T1/T2 | VERIFIED | https://www.iru.org/ | federación de emisión de carnet TIR; explica la cadena de garantía y los requisitos de operador controlado |
 ## Revisión editorial

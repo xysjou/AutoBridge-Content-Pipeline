@@ -16,18 +16,18 @@ Guias de pacotes de documentos citam frequentemente um próximo padrão de certi
 
 ## A Norma Actual do Certificado (verificada)
 - ** NORMAS CORRENTES: GB/T 21085-2020 * Certificado de fábrica de veículos a motor*** — uma norma nacional ** recomendada, emitida em 2020-04-28, em vigor em 2020-11-01, e ** revista como ainda corrente em 2026-01-27 **. O certificado de fábrica é emitido pela empresa de fabrico.
-- **FUTURE / DRAFT: obrigatório * Certificado de fábrica de veículos*, número de plano 20260041-Q-339 ** — destinado a substituir GB/T 21085-2020, atribuído 2026-01-27 com um ciclo 16-month e atualmente sob aprovação; o texto MIIT "GB 21085 —XXXX" é um rascunho de consulta**. É **não publicado, não eficaz, e nunca deve ser rotulado atual ou obrigatório** em um documento voltado para o comprador.
+- **FUTURE DRAFT: obrigatório * Certificado de fábrica de veículos*, número de plano 20260041-Q-339 ** — destinado a substituir GB/T 21085-2020, atribuído 2026-01-27 com um ciclo 16-month e atualmente sob aprovação; o texto MIIT "GB 21085 —XXXX" é um rascunho de consulta**. É **não publicado, não eficaz, e nunca deve ser rotulado atual ou obrigatório** em um documento voltado para o comprador.
 
 ## O conjunto de documentos de transferência (verificados em cruz)
 Um veículo novo entregue no mercado interno normalmente viaja com: fatura de vendas completa, certificado de fábrica (doméstico), folha de inspeção de mercadorias, ** certificado de conformidade**, garantia (três garantias) voucher, manual de manutenção, manual do proprietário, e a lista de ferramentas/espalhos a bordo. Para ** vendas de exportação de novos veículos**, a fase de registo nacional exige adicionalmente o certificado de segurança/inspecção técnica (original) do fabricante** e uma ** cópia da licença de exportação de veículos automóveis para as autoridades comerciais** (de acordo com as regras de trabalho de registo de veículos automóveis).
 
-## Multi- Stage / Incompleto- Veículo Regra: Retirada Pendente de uma Base Actual
+## Multi- Stage Incompleto- Veículo Regra: Retirada Pendente de uma Base Actual
 Um projecto anterior descreveva a forma como os veículos completados a partir de veículos incompletos importados ou através de fabrico em várias fases seriam emitidos apenas um certificado de fábrica de veículos inteiros. A fonte **somente é um rascunho de consulta**; ela não é confirmada pelo texto atual do GB/T 21085-2020 ou por qualquer regulamento atual**, portanto ela não é **somente declarada como um requisito atual** aqui. Tratar qualquer tal acordo caso a caso até que exista uma base não-projecção.
 
 ## NEV e itens de tradução — Recomendação Editorial, não um mandato
 São recomendados ** para preparar; se cada um é necessário depende da autoridade transportadora/marítima e do porto de destino, por isso são enquadrados como orientação em vez de um mandato universal:
 - Para um veículo **de nova energia**: a bateria ** resumo de ensaio ** UN38.3**, certificado de embalagem de mercadorias perigosas, se for caso disso,  and  MSDS (ligado ao guia de transporte IMDG).
-- Para **Depuração/registo overseas**: uma versão em inglês ou em língua de destino** do certificado de conformidade / folha de parâmetro técnico, carimbada pela parte emissora; se a notarização/ legalização consular é necessária depende do destino.
+- Para **Depuração/registo overseas**: uma versão em inglês ou em língua de destino** do certificado de conformidade folha de parâmetro técnico, carimbada pela parte emissora; se a notarização/ legalização consular é necessária depende do destino.
 
 ## Ordem de Assembléia que recomendamos
 1. Confirmar que o certificado de fábrica é emitido sob ** atual GB/T 21085-2020 ** — não exigir o padrão obrigatório não publicado ainda.

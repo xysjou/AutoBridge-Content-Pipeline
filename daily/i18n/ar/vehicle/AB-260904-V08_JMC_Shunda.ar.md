@@ -3,11 +3,11 @@
 ## SEO Metadata
 - ** عنوان المنظمة**: اللجنة المشتركة بين الوكالات المعنية بالمسائل الإدارية Shunda Light Truck Specs " Export Guide (GVW 4.27t, China- 6)
 - ** وصف البيانات**: شركة JMC الصينية شاحنة خفيفة من طراز شوندا - JX493 ديزل 90 kW، و 4.27 t غيغاوات، و 3700 mm سرير قطري، وقاعدة متحركة، ودائرة تحوّل، بالإضافة إلى حاجات مصدّري الحمولة وأجهزة تحويل المحركات.
-- ** URL المقترض**: /حلقتان/ج م - شوندا/
+- ** URL المقترض**: /حلقتان/ج م -
 - ** H1 **: لجنة التنسيق المشتركة شوندا: الصين - ماركت لايت - تراك تشاسيس، GVW، و Cargo Specs for Export
 - ** كلمة رئيسية رمزية**: مواصفات شاحنة خفيفة من طراز jmc shunda
 - ** شروط البحث الثانية**: لجنة التنسيق المشتركة بين الوكالات Shunda JX493, 顺达小卡, Chinese light truck GVW, JMC dropside payload, China- 6 diesel truck export
-- ** مقترحات داخلية بشأن الربط**: /مبادئ توجيهية/تصنيف المركبات/تصنيف الرموز/إبلاغها؛ /مبادئ توجيهية/أجهزة متوافقة مع الوقود/المركبات/المركبات؛ /المركبات/الدونغ فنغ - تيانجين - كَر/
+- ** مقترحات داخلية بشأن الربط**: متوافقة مع الوقود/المركبات/المركبات؛ /المركبات/الدونغ فنغ - تيانجين -
 - ** اقتراحات رمزية**: جانب قطرة شوندا؛ وسر البضائع؛ وJX493 محرك؛ وإطار للفوضى؛ وسيارة أجرة
 - ** اقتراحات بشأن: "ج.م.م.م.شوندا" مهبط للشاحنات الخفيفة ذات الحزمة الزرقاء، "شوندا 3700mm سرير بضائع GVW 4.27t"
 
@@ -22,7 +22,7 @@
 | سرير السقوط (L xWH) | **3700 × 1850 × 380 mm** |
 | الوزن الإجمالي للمركبات | **4.27 t** |
 | وزن العنب | حوالي 2.145 t ** (النسخة من 3.7 متر مربع هي حوالي 2.435 t) |
-| الحمولة المُصَرَّفة | about **1.93–2.0 t — final value per the MIIT announcement / certificate** |
+| الحمولة المُصَرَّفة | about **1.93–2.0 t — final value per the MIIT announcement certificate** |
 | Wheelbase | **2800 mm** |
 | دائرة تحول | **5.5 m** |
 | الانبعاثات | الصين - 6 من الديزل |
@@ -42,14 +42,14 @@
 1. ** رمز المحرك/التشريد/القوى** ضد شبكة المعلومات الشخصية (2.499 L/ 90 kW مقابل 2.8 L/116 PS)
 2. ** حمولة مكررة وشبكة GVW** من إعلان وشهادة شركة MIIT، وليس كتيباً موزعاً على أرقام.
 3. ** نوع الجسم** (الدوران/الصندوق/المركز الخاص) ووزن كبحه؛ وتقدير المركب المكتمل لأي مكافأة.
-4. ** كربونات وقود العجلات وما بعد المعالجة**، حسب دليل الانبعاثات/الوقود؛ صين - 6 ليست هي نفسها موافقة فيما وراء البحار.
+4. ** كربونات وقود العجلات وما بعد المعالجة**، حسب دليل صين - 6 ليست هي نفسها موافقة فيما وراء البحار.
 5. ** تصنيف النظام المنسق** (87.04 مركبة بضائع؛ يمكن للهيئات ذات الأغراض الخاصة أن تنقل عناوين) حسب دليل مدونة قواعد السلوك في نظام المنسق الخاص.
 
 ## طلب تخصيص موارد التصدير الحالية
-ولا يُنشر أي سعر تصدير.: الاستفسار مع ** بلد الاستضافة؛ الكمية؛ الجسد الحرجي؛ نوع الجنس؛ وورشة الترسب/النقل؛ وبورصة الترسب؛ والتصميم**.
+ولا يُنشر أي سعر تصدير.: الاستفسار مع ** بلد الاستضافة؛ الكمية؛ الجسد الحرجي؛ نوع الجنس؛ وورشة وبورصة الترسب؛ والتصميم**.
 
 ## الأسئلة المتكررة
-ما هو "الـ "شوندا" ؟  and  payload?** GVW 4.27 t with rated payload around 1.93–2.0 t; تأكدي من الحمولة الدقيقة على إعلان/شهادة وحدة التحقيقات الخاصة بالهيئة المحددة
+ما هو "الـ "شوندا" ؟  and  payload?** GVW 4.27 t with rated payload around 1.93–2.0 t; تأكدي من الحمولة الدقيقة على وحدة التحقيقات الخاصة بالهيئة المحددة
 **Which engine does this page cover?** The JX493ZLQ6D 2.499 L diesel at 90 kW (122 PS); (أ) 2.8 L/ 116 PS نسخة هي وحدة مختلفة.
 ** لماذا يُعدّل وزنه؟** وهي تضع حمولة قابلة للاستخدام، ولا تتقاسم أي حمولة على نطاق الهيئات، ولا تتغير بين الهيئات التي تسقط من جانبها وأجهزةها ذات الرفوف.
 ** هل تمت الموافقة على شاحنة صينية - 6 لسوقي؟** ليس تلقائياً، إنبعاثات الوجهة والموافقة على النوع منفصلان.
@@ -65,35 +65,35 @@
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
 - IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
 - IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
-- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات ويكيميو/فلكر غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات المسبقة/الرخصة، وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
+- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
 - ALT by language:
-  - **EN**: AutoBridge export-buyer reference — JMC Shunda, petrol/diesel Chinese-market vehicle / light truck
-  - **FR**: Référence AutoBridge pour acheteurs export — JMC Shunda, véhicule thermique (marché chinois) / camion léger
-  - **DE**: AutoBridge-Referenz für Exportkäufer — JMC Shunda, Verbrenner (chinesischer Markt) / Leicht-Lkw
-  - **ES**: Referencia AutoBridge para compradores de exportación — JMC Shunda, vehículo de combustión (mercado chino) / camión ligero
-  - **PT**: Referência AutoBridge para compradores de exportação — JMC Shunda, veículo a combustão (mercado chinês) / caminhão leve
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜JMC Shunda, 中国市場仕様 内燃機関車 / 小型トラック
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜JMC Shunda, 중국 시장 내연기관 차량 / 경트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — JMC Shunda, xe động cơ đốt trong (thị trường Trung Quốc) / xe tải nhẹ
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — JMC Shunda, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถบรรทุกขนาดเล็ก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — JMC Shunda, kendaraan mesin pembakaran (pasar Tiongkok) / truk ringan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — JMC Shunda, مركبة بمحرك احتراق (سوق الصين) / شاحنة خفيفة
-  - **ZH**: AutoBridge 出口采购参考｜JMC Shunda, 中国市场燃油车 / 轻卡
+  - **EN**: AutoBridge export-buyer reference — JMC Shunda, petrol/diesel Chinese-market vehicle light truck
+  - **FR**: Référence AutoBridge pour acheteurs export — JMC Shunda, véhicule thermique (marché chinois) camion léger
+  - **DE**: AutoBridge-Referenz für Exportkäufer — JMC Shunda, Verbrenner (chinesischer Markt) Leicht-Lkw
+  - **ES**: Referencia AutoBridge para compradores de exportación — JMC Shunda, vehículo de combustión (mercado chino) camión ligero
+  - **PT**: Referência AutoBridge para compradores de exportação — JMC Shunda, veículo a combustão (mercado chinês) caminhão leve
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜JMC Shunda, 中国市場仕様 内燃機関車 小型トラック
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜JMC Shunda, 중국 시장 내연기관 차량 경트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — JMC Shunda, xe động cơ đốt trong (thị trường Trung Quốc) xe tải nhẹ
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — JMC Shunda, รถเครื่องยนต์สันดาป (ตลาดจีน) รถบรรทุกขนาดเล็ก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — JMC Shunda, kendaraan mesin pembakaran (pasar Tiongkok) truk ringan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — JMC Shunda, مركبة بمحرك احتراق (سوق الصين) شاحنة خفيفة
+  - **ZH**: AutoBridge 出口采购参考｜JMC Shunda, 中国市场燃油车 轻卡
 
 ## المصدر: التحقق
 | عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
 | Shunda small truck JX493ZLQ6D 122PS compliant 2t | 360che (توتوياو) | CN | http://m.toutiao.com/group/7296380434664292918/ | 2026-09-04 | صرخات | المحرك، الطاقة، GVW، حمولة تجمّع |
 | سرير شاحنة صغيرة، وسيارة (غ.ف.و) | 360che (توتوياو) | CN | http://m.toutiao.com/group/6854066453151384075/ | 2026-09-04 | صرخات | 3700 سرير، 4.27 t، كبح الوزن |
-| Shunda cargo 3.7m 116PS (in-sale) | 58.com شاحنة | CN | https://m.58.com/sh/huochec/63510160324146x.shtml | 2026-09-04 | SINGLE OURCE | نسخة بديلة قدرها 116 PS نسخة (مستبعدة) |
-| قاعدة شوندا للعجلات/دورة | 360che (توتوياو) | CN | http://m.toutiao.com/group/6815508461468516878/ | 2026-09-04 | صرخات | 2800 mm WB, 5.5 m turn |
+| Shunda cargo 3.7m 116PS (in-sale) | شاحنة | CN | https://m.58.com/sh/huochec/63510160324146x.shtml | 2026-09-04 | SINGLE OURCE | نسخة بديلة قدرها 116 PS نسخة (مستبعدة) | 58.com
+| قاعدة شوندا | 360che (توتوياو) | CN | http://m.toutiao.com/group/6815508461468516878/ | 2026-09-04 | صرخات | 2800 mm WB, 5.5 m turn |
 | مصممو السيارات على الطرق - نظام الاستفسارات العامة | وزارة الصناعة وتكنولوجيا المعلومات في الصين | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | مفقود | التحقق من الصانع والنموذج المعتمد والهجوم (公告) |
 | GB 16735-2019 المركبات البرية - الاحتياجات من رقم تحديد المركبات | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | مفقود | تركيبة الشبكة وربطة بيانات مستعملة في نظام التحقق الخاص بالمشتري |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | مفقود | الشروط التقنية المتعلقة بسلامة المركبات في الصين والإطار الزمني الحالي/التنقيحي |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | مفقود | الشروط التقنية المتعلقة بسلامة المركبات في الصين والإطار الزمني |
 | 18352.6-2016 GB مع التعديل XG1-2026 (الصين - 6 من انبعاثات ملوثات المركبات الخفيفة) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | مفقود | الصين - 6 مرحلة انبعاثات المركبات الخفيفة ومواعيد تنفيذ التعديل البالغ 2026 |
-| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | مفقود | درجة وقود الديزل وقاعدة الكبريت لمطابقة تصميم المحركات/البعثة في الخارج |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | مفقود | درجة وقود الديزل وقاعدة الكبريت لمطابقة تصميم في الخارج |
 
-* ملاحظة: لا توجد صحيفة أولية للمنظمة؛ وفحص قاعدة البيانات التجارية. تم تأجيل الحمولة المُعاد دفعها صراحة إلى إعلان/شهادة شركة MIIT؛ وبقيت 2.499 L و 2.8 L محركا منفصلتين. إشارة السوق الصينية فقط ♪
+* ملاحظة: لا توجد صحيفة أولية للمنظمة؛ وفحص قاعدة البيانات التجارية. تم تأجيل الحمولة المُعاد دفعها صراحة إلى شركة MIIT؛ وبقيت 2.499 L و 2.8 L محركا منفصلتين. إشارة السوق الصينية فقط ♪
 
 ## استعراض التحرير
 - ** Author**: AutoBridge Export Editorial Team; method per our [Editorial Policy](/editorial-policy/)

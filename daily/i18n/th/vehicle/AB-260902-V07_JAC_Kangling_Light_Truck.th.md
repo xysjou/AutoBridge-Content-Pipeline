@@ -2,41 +2,41 @@
 ## เชา ข้อมูลกํากับภาพ
 - <seO ชื่อเพลง*: JC Kangling Lingpo L6 รถบรรทุกแสง: Chasis, GVW & Driveline for econserver
 - "Meta Date=" (อังกฤษ: JC 1Ka Langpao) L6 รถขนแสงที่อธิบายโดยครอบครัวชาซี — Anhui-Cummins 2.5 December, ขวานหลัง 4T/5T ลํา, ศพประกาศหลายคันใน MIT และวิธีตรึงโครงสร้างการส่งออกที่แน่นอน
-- ~ที่อยู่ URL ที่ถูกย่อ: / เวนิกส์/จาค-คาบี้-ไฟ-เบรค/
+- ~ที่อยู่ URL ที่ถูกย่อ: เวนิกส์/จาค-คาบี้-ไฟ-เบรค/
 - ** H1 **: JC Kangling Lingpao L6: ตรงกับ Chasis, เปิดตัวโมเดลและระบบการส่งออกสําหรับลําดับการส่งออก (PDF)
 - ~คําสําคัญในเอกสาร~ Kangling Lingpao L6 รถบรรทุกแสงกําหนดส่งออก
 - ~การค้นหาตามวาระ: JC Lingpo L6, HFC4DE3 Anhui Cummins 2.5, HFC1043 รถขนแสง ประเทศจีน 4.5t รถจีวีดับเบิลยู ดีเซล, ซีซี 1Ka รถบรรทุกแสง, รถขนแสงคังลิง รถบรรทุกจอดข้างทาง
-- ~ ข้อความเชื่อมโยงภายใน *: / Guides/commercial-range-princial-chincation-china/; / guides/import-chinish-sudi-saso/;////foton-aunkar-regrited-Rangution
-- ~คําแนะนําของ Imaces ~: มุมมองของทางลาด L6; ทางการ chasis-เฟรมและผังหลัง; เครื่องยนต์อ่าว HFC4DE3 2.5 ดีเซล; เปรียบเทียบของ ลดลง/กล่อง/ ลัง/ ลังจับ; รถแท็กซี่เดี่ยว 1920 mm
+- ~ ข้อความเชื่อมโยงภายใน *: Guides/commercial-range-princial-chincation-china/; guides/import-chinish-sudi-saso/;////foton-aunkar-regrited-Rangution
+- ~คําแนะนําของ Imaces ~: มุมมองของทางลาด L6; ทางการ chasis-เฟรมและผังหลัง; เครื่องยนต์อ่าว HFC4DE3 2.5 ดีเซล; เปรียบเทียบของ ลดลง/กล่อง/ ลังจับ; รถแท็กซี่เดี่ยว 1920 mm
 - ~~~~~~~~~ คําแนะนํา: "JAC Lingpao L6 4x2 รถบรรทุกส่งแสงจากดีเซล". "Lingpao L6 180 mm Chasis pople และ axle ด้านหลัง 4T/5T". "Anhui Cummins HFC4DE3 2.5-litre เครื่องยนต์ดีเซล"
 ## ทําไม จึง มี การ สั่ง ประมวล กฎหมาย ของ ชา ซิส L6 ฉบับ ไม่ ใช่ โดย ชื่อ แบบ
-รถพาณิชย์ไฟจีน ไม่ใช่รถโดยสารที่ซ่อมได้ The United-LingPao L6 (领跑 L6) ยอดขายภายใต้สายไฟ 1Ka ของเจซี 康铃) ~ ครอบครัวชาซิส* ที่เจซีสร้างด้วยเครื่องยนต์หลายเครื่อง สองล้อล้อ  two rear-axle ratings  and  โรงงานหรือโค้ชสร้างศพ (Drapide 栏板) กล่อง 厢式 ลิ่ม 仓栅 แช่เย็น  and  มากขึ้น) ส่วนผสมทางกฎหมายแต่ละอัน มีรุ่นประกาศ (公告型号) และน้ําหนักตามท้องถนนของมัน / เรตเตอร์โหลด " L6" จึงไม่พูดอะไรที่แม่นยํา จนกว่าจะมีการประกาศชื่อรุ่น เครื่องยนต์ และร่างกาย หน้านี้แยกสิ่งที่ JC ตีพิมพ์อย่างเป็นทางการเกี่ยวกับแพลตฟอร์ม จากอาคารประกาศเดียวที่ถูกจับในฐานข้อมูล สี่เหลี่ยมทางพาณิชย์ ดังนั้นผู้นําเข้าสามารถสั่งซื้อรถบรรทุกที่นิยามได้ แทนที่จะเป็นชื่อ
+รถพาณิชย์ไฟจีน ไม่ใช่รถโดยสารที่ซ่อมได้ The United-LingPao L6 (领跑 L6) ยอดขายภายใต้สายไฟ 1Ka ของเจซี 康铃) ~ ครอบครัวชาซิส* ที่เจซีสร้างด้วยเครื่องยนต์หลายเครื่อง สองล้อล้อ  two rear-axle ratings  and  โรงงานหรือโค้ชสร้างศพ (Drapide 栏板) กล่อง 厢式 ลิ่ม 仓栅 แช่เย็น  and  มากขึ้น) ส่วนผสมทางกฎหมายแต่ละอัน มีรุ่นประกาศ (公告型号) และน้ําหนักตามท้องถนนของมัน เรตเตอร์โหลด " L6" จึงไม่พูดอะไรที่แม่นยํา จนกว่าจะมีการประกาศชื่อรุ่น เครื่องยนต์ และร่างกาย หน้านี้แยกสิ่งที่ JC ตีพิมพ์อย่างเป็นทางการเกี่ยวกับแพลตฟอร์ม จากอาคารประกาศเดียวที่ถูกจับในฐานข้อมูล สี่เหลี่ยมทางพาณิชย์ ดังนั้นผู้นําเข้าสามารถสั่งซื้อรถบรรทุกที่นิยามได้ แทนที่จะเป็นชื่อ
 ## Plantiform ต่อตารางการปรับแต่งอย่างเป็นทางการ JC
-The following platform-level facts are taken from **JAC Commercial Vehicle's official Lingpao L6 configuration table (cv.jac.com.cn, ติดเชื้อ เช็ค 2026-09-03)  and  อยู่เหนือครอบครัว
+The following platform-level facts are taken from **JAC Commercial Vehicle's official Lingpao L6 configuration table ติดเชื้อ เช็ค 2026-09-03)  and  อยู่เหนือครอบครัว
 | รายการแพลตฟอร์ม | ค่าแบบ JC-official |
 |---|---|
-| ความกว้างรถ | 1920 mm (แท็กซี่มาตรฐาน-วิดด์ / 33-mid) พ.ศ. ซิงเกิล- โรว์  and  ครึ่งกะทัดรัด |
+| ความกว้างรถ | 1920 mm (แท็กซี่มาตรฐาน-วิดด์ 33-mid) พ.ศ. ซิงเกิล- โรว์  and  ครึ่งกะทัดรัด |
 | เบสของล้อหลัก | 3365 mm (รุ่นที่ยาว 3600 mm มีอยู่บนรถไฟไฟฟ้าที่ถูกเลือก) |
 | ส่วนเฟรมภาพ Chasis | 180 × 65 × 4.5 mm |
 | เพลาหน้า | 2 T |
 | เพลาหลัง | 4 T / 5 T (เสริม 10, 000 N / 13, 000 ตัวเลือก N บนบางบรรทัด) |
-| สัดส่วนการขับครั้งสุดท้าย | 4.875 / 4.33 (4.11 บนบรรทัดที่เลือก) |
-| ครอบครัว เชื้อเพลิง/ พลัง งาน เสนอ | Ziwei S25 (Q25A Plish- รูปแบบของ Propedic) ~Ankang 2.5 (Anhui-Cummins HFC4DE3 DECD) ~ Ankang 3.0 หวัด-จีน (Chold-chain) YN30 แก๊ส / เป็นคู่ครึ่ง เดคัง 160B/C DHE155 |
-DCDC ที่เกี่ยวข้องกับการส่งออกมากที่สุดคือ ~Ankang (安康) 2.5 ~ ใช้ครอบครัวอันฮุ่ย-คัมมินส์... HFC4DE3 JAC's table lists three suffixes — **HFC4DE3-2E5 / -2EA / -2E9 — at 111 / 117 / 125 kW**, # 360 ด้วยแรงบิดของแรงม้า #  and  458 N·m ~ สิ่งสําคัญก็คือ การขายใหม่มักยกคําร้อง " 160 hp/ 460 N·m" ที่ไม่ตรงกับทุกๆ ส่วน ขั้นบันไดและแรงบิดจะต้องอ่านออก เครื่องยนต์ที่แน่นอนและใบประกาศ
+| สัดส่วนการขับครั้งสุดท้าย | 4.875 4.33 (4.11 บนบรรทัดที่เลือก) |
+| ครอบครัว พลัง งาน เสนอ | Ziwei S25 (Q25A Plish- รูปแบบของ Propedic) ~Ankang 2.5 (Anhui-Cummins HFC4DE3 DECD) ~ Ankang 3.0 หวัด-จีน (Chold-chain) YN30 แก๊ส เป็นคู่ครึ่ง เดคัง 160B/C DHE155 |
+DCDC ที่เกี่ยวข้องกับการส่งออกมากที่สุดคือ ~Ankang (安康) 2.5 ~ ใช้ครอบครัวอันฮุ่ย-คัมมินส์... HFC4DE3 JAC's table lists three suffixes — **HFC4DE3-2E5 -2EA -2E9 — at 111 117 125 kW**, # 360 ด้วยแรงบิดของแรงม้า #  and  458 N·m ~ สิ่งสําคัญก็คือ การขายใหม่มักยกคําร้อง " 160 hp/ 460 N·m" ที่ไม่ตรงกับทุกๆ ส่วน ขั้นบันไดและแรงบิดจะต้องอ่านออก เครื่องยนต์ที่แน่นอนและใบประกาศ
 ## ผู้แทนคนหนึ่งทําการประกาศงานก่อสร้าง (Datatase, CROSS_CHECKED)
 เพื่อแสดงให้เห็นว่าแถวแพลตฟอร์มกลายเป็นรถบรรทุกคอนกรีต การก่อสร้างที่จับได้คือ "Dopside HFC1043P21K4C7S, 4 x 2" โดยมีตัวเลขจากข้อมูลประกาศ 360che/ 卡车之家 และ JC-ครอบครัวตรวจสอบ (CROS_CHCCEED); จับกุม 2026-09-02 ได้ ตรวจสอบอีกครั้งกับโต๊ะ JAC 2026-09-03):
 | รายการ | HFC1043P21K4C7S แบบวาง (ข้อมูลการประกาศชั่วคราว) |
 |---|---|
-| ไดรฟ์ / ล้อ | 4×2 / 3365 mm |
+| ไดรฟ์ ล้อ | 4×2 3365 mm |
 | โอเวอร์วาวาเกีย | 5.995 × 2.20 × 2.48 m |
 | แท็กซี่ | ซิงเกิล-โรว์ 1920 mm ที่นั่ง 3 ที่นั่ง |
 | กลไก | Anhui-Cummins HFC4DE3 ชุด 2.499 L ในสาย 4 ดีเซล (พ.ศ.  China VI |
 | กล่องปรับเลข | JAC ML645B 6-speed manual (a Fast 8-speed is used on certain other L6 variants) |
 | เบรก | เบรกเต็มอากาศกับเบรคฤดูใบไม้ผลิ |
-| เคอร์บ / อัตราการโหลด / จีวีดับเบิลยู | 2.565 t / 1.735 t / **4.495 t** |
-| เพลา หน้า / หลัง | 2 T (1600 kg อนุญาต) / 4 T (2895 kg กลุ่ม), สัดส่วน 4.875 |
+| เคอร์บ อัตราการโหลด จีวีดับเบิลยู | 2.565 t 1.735 t **4.495 t** |
+| เพลา หน้า หลัง | 2 T (1600 kg อนุญาต) 4 T (2895 kg กลุ่ม), สัดส่วน 4.875 |
 | ไทระ | 7.00R16LT 8PR (พ.ศ. หกล้อ |
-| ดอก กุหลาบ | 4 / 5+6 |
+| ดอก กุหลาบ | 4 5+6 |
 | ทิ้งศพ | 4.18 × 2.10 × 0.40 m |
 ### ทําไม " L6" แบบเดียวกันนี้ถึงแสดงน้ําหนักได้ต่างกัน
 การประกาศของซิสเตอร์ สร้างร่างกายที่แตกต่าง ดังนั้น ฝูงชนที่แตกต่างกัน กล่อง (厢式) HFC5043XY ชุด)  and  ลิ่ม (仓栅)  HFC5043CCY… series) bodies are heavier,  with curb weight around 2.7–2.8 t  and  อัตราการจ่ายที่ใกล้ 1.5 t ที่เหมือนกัน ~ 4.495 t GVW. ห้ามคัดลอกตัวเลขที่จ่ายได้จากค่าน้ําหยด บนกล่องหรืออาคารแนวปะการัง -- อ่านซ้ําอีกจากใบประกาศของร่างกายนั้น
@@ -48,7 +48,7 @@ DCDC ที่เกี่ยวข้องกับการส่งออก
 ## GVW, ร่างและซูเปอร์โครงสร้าง (แกนหลักของการซื้อเครื่องช็อตไฟฟ้า)
 At roughly 4.5 t GVW the L6 sits in the classic China light-truck class. สําหรับลําดับการส่งออก สี่ตัวเลขรวมกัน ที่เอกสารจีนรวมเข้าด้วยกัน: ** น้ําหนัก curb, ค่าใช้จ่ายที่เพิ่มขึ้น, GVW และค่าบริการที่ติดตั้งไว้แล้ว ~ (ซึ่งแตกต่างกันได้หลังจากร่างกายท้องถิ่นพอดี). การตัดสินใจวางข้างกล่อง vs scot vs preferer บันทึกมิติภายในของร่างกายและวัสดุ และรัฐว่า เครื่อง ทํา ความ เย็น หรือ กล่อง ที่ แช่ แข็ง ทาง วัตถุ จะ ยก น้ํา หนัก ตาม วินัย และ ลด น้ํา หนัก ใน มุ้ง — ดู หน้า ของ ฟ็อน อะ มาร์ก เอ อร์ เรส ซิส สําหรับ วิธี ที่ กล่อง และ หน่วย ความ เย็น ถูก กําหนด ไว้ ต่าง หาก.
 ## สิ่ง ที่ ออ โต บี ริดจ์ เพิ่ม ไว้ นอก ที่ นั่ง ของ นก กระสา
-เว็บไซต์ Public Public Public config list example at time และแทบจะไม่มีใครรู้ว่า ตัวเลขนั้นอยู่ที่ แบบจําลองประกาศ * กรอบบรรณาธิการของเราแนะนํา: 1) เชื่อมโยงรถที่อ้างถึงกลับไปเป็นรุ่นประกาศของเอ็มไอที และรถ HFC4DE3 คันเป๊ะ ๆ เลย " 160 hp" ป้ายไม่ได้ถูกปฏิบัติแบบเงียบๆเป็นอาคาร 150 hp; พ.ศ. 2) เตรียมบันทึกความสอดคล้องระหว่างเครื่อง/เครื่องยนต์ (VIN/NNFIVE) ก่อนการฝาก; and (3) re-computing payload for the *actual* body being shipped rather than reusing a dropside figure. ขั้นตอนที่จําแนกรุ่นเป็นสิ่งที่ป้องกันลําดับที่ทั่วไป L6 ผิดพลาด
+เว็บไซต์ Public Public Public config list example at time และแทบจะไม่มีใครรู้ว่า ตัวเลขนั้นอยู่ที่ แบบจําลองประกาศ * กรอบบรรณาธิการของเราแนะนํา: 1) เชื่อมโยงรถที่อ้างถึงกลับไปเป็นรุ่นประกาศของเอ็มไอที และรถ HFC4DE3 คันเป๊ะ ๆ เลย " 160 hp" ป้ายไม่ได้ถูกปฏิบัติแบบเงียบๆเป็นอาคาร 150 hp; พ.ศ. 2) (VIN/NNFIVE) ก่อนการฝาก; and (3) re-computing payload for the *actual* body being shipped rather than reusing a dropside figure. ขั้นตอนที่จําแนกรุ่นเป็นสิ่งที่ป้องกันลําดับที่ทั่วไป L6 ผิดพลาด
 ## การ รับรอง การ ซื้อ ผ่าน ทาง ไปรษณีย์ ก่อน จะ จ่าย
 - Obtain the ~JAC exact exact exact expression from the MIT for the example code" (e. g. HFC1043P21K4C7S) และปรับข้อมูลฐานข้อมูลทุกตัวให้เข้าที่
 - ยืนยัน ** เครื่องยนต์ → kW/NM ~, โมเดลชุดเกียร์, เรตติ้งหลัง-axle และสัดส่วนการขับสุดท้ายในการเขียน สืบค้นเมื่อ ค.ศ.
@@ -59,10 +59,10 @@ At roughly 4.5 t GVW the L6 sits in the classic China light-truck class. สํ�
 ## ต้องการการอ้างถึงการส่งออกแบบปัจจุบัน
 ไม่มีราคาในประเทศจีนถูกส่งเสริมให้เป็นคนส่งออก และไม่มีการคิดค้นที่นี่ ขอข้อมูลสดจาก News Entertaination language entry entery accessation parts/ ATH Suffix Sypericy sport s selp as s s s selp esle/ artiio as HD/RHD enter entry entry entry entry accessy (inc) และขอเอกสารรับรองอย่างเป็นทางการ JC และประกาศให้แนบมา
 ## โปรแกรมซื้อ FAQ
-"Lingpao L6". หนึ่งกําหนดคงที่? ~ ไม่ ใช่ — ครอบครัว ชา ซิส ซึ่ง มี เครื่อง ยนต์ หลาย เครื่อง, เพลา ล้อ, เรต เกรด และ ร่าง กาย; แต่ ละ แบบ มี แบบ พิมพ์ ออก มา และ น้ํา หนัก ตัว ของ ตน เอง.
-~โต๊ะของเจ้าหน้าที่เจซียืนยันอะไร ~ 1920 mm แท็กซี่ 3365 mm ล้อหลัก (Marcy Base) 180 × 65 × 4.5 กรอบ (พ.ศ.  2 T front / 4–5 T rear axles, 4.875/4.33 สัดส่วน  and  the HFC4DE3 Anhui-Cummins diesel at 111/117/125 kW steps.
-~ทําไมแหล่งข่าวถึงยกแรงม้าที่ต่างกัน สําหรับ "คนเดิม" L6* เพราะ HFC4DE3 มีสามส่วนซ้อนที่มีไฟฟ้า/ท็อกต่างกัน และบางครั้งผู้ขายที่ออกจําหน่ายก็ยกป้ายหนึ่งมาอ้างอิงรวมทั้งหมด ตรงกับเครื่องหมายการค้าในใบประกาศ
-~ อะไรคือ GVW และ passload? ~ ตึกข้างทางที่จับได้ 4.495 t GVW / 1.735 t บรรจุกระสุน; กล่องและโครงสร้างไม้หนักขึ้นด้วยภาระที่ต่ํากว่า คืออ่านใบประกอบการของแต่ละร่างกายเอง
+"Lingpao L6". ~ ไม่ ใช่ — ครอบครัว ชา ซิส ซึ่ง มี เครื่อง ยนต์ หลาย เครื่อง, เพลา ล้อ, เรต เกรด และ ร่าง กาย; แต่ ละ แบบ มี แบบ พิมพ์ ออก มา และ น้ํา หนัก ตัว ของ ตน เอง.
+~โต๊ะของเจ้าหน้าที่เจซียืนยันอะไร ~ 1920 mm แท็กซี่ 3365 mm ล้อหลัก (Marcy Base) 180 × 65 × 4.5 กรอบ (พ.ศ.  2 T front 4–5 T rear axles, 4.875/4.33 สัดส่วน  and  the HFC4DE3 Anhui-Cummins diesel at 111/117/125 kW steps.
+~ทําไมแหล่งข่าวถึงยกแรงม้าที่ต่างกัน สําหรับ "คนเดิม" L6* เพราะ HFC4DE3 และบางครั้งผู้ขายที่ออกจําหน่ายก็ยกป้ายหนึ่งมาอ้างอิงรวมทั้งหมด ตรงกับเครื่องหมายการค้าในใบประกาศ
+~ อะไรคือ GVW และ passload? ~ ตึกข้างทางที่จับได้ 4.495 t GVW 1.735 t บรรจุกระสุน; กล่องและโครงสร้างไม้หนักขึ้นด้วยภาระที่ต่ํากว่า คืออ่านใบประกอบการของแต่ละร่างกายเอง
 มีอัตโนมัติไหม ดีเซล ที่ จับ ได้ ใช้ คู่มือ เจ ซี 6-speed; เครื่อง มือ ที่ ใช้ ใน การ ทํา ความ ร้อน บาง ชนิด มี 8-speed เครื่อง — ยืน ยัน ว่า เส้น นั้น ถูก ต้อง ไม่ ใช่ การ คาด เดา.
 ## บันทึกรูปภาพ
 - _ปราสาท: ไม่มีความปลอดภัยในคลังเก็บ
@@ -72,40 +72,40 @@ At roughly 4.5 t GVW the L6 sits in the classic China light-truck class. สํ�
 - ลิขสิทธิ์: ไม่ยืนยัน
 - LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
 - _กําหนดวันที่: 2026-09-06
-- MERCUL_ TOPIC_ MATCH: ต้องตรงกับรุ่น/ การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
-- CHAR_SCPE_NOTE: ตรงกับโมเดลที่เป๊ะของครอบครัว/ topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
+- MERCUL_ TOPIC_ MATCH: การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
+- CHAR_SCPE_NOTE: topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
 - March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
 - BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
 - ALT ด้วยภาษา:
-  - **EN**: AutoBridge export-buyer reference — JAC Kangling Lingpao L6, petrol/diesel Chinese-market vehicle / light truck
-  - **FR**: Référence AutoBridge pour acheteurs export — JAC Kangling Lingpao L6, véhicule thermique (marché chinois) / camion léger
-  - **DE**: AutoBridge-Referenz für Exportkäufer — JAC Kangling Lingpao L6, Verbrenner (chinesischer Markt) / Leicht-Lkw
-  - **ES**: Referencia AutoBridge para compradores de exportación — JAC Kangling Lingpao L6, vehículo de combustión (mercado chino) / camión ligero
-  - **PT**: Referência AutoBridge para compradores de exportação — JAC Kangling Lingpao L6, veículo a combustão (mercado chinês) / caminhão leve
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜JAC Kangling Lingpao L6, 中国市場仕様 内燃機関車 / 小型トラック
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜JAC Kangling Lingpao L6, 중국 시장 내연기관 차량 / 경트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — JAC Kangling Lingpao L6, xe động cơ đốt trong (thị trường Trung Quốc) / xe tải nhẹ
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — JAC Kangling Lingpao L6, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถบรรทุกขนาดเล็ก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — JAC Kangling Lingpao L6, kendaraan mesin pembakaran (pasar Tiongkok) / truk ringan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — JAC Kangling Lingpao L6, مركبة بمحرك احتراق (سوق الصين) / شاحنة خفيفة
-  - **ZH**: AutoBridge 出口采购参考｜JAC Kangling Lingpao L6, 中国市场燃油车 / 轻卡
+  - **EN**: AutoBridge export-buyer reference — JAC Kangling Lingpao L6, petrol/diesel Chinese-market vehicle light truck
+  - **FR**: Référence AutoBridge pour acheteurs export — JAC Kangling Lingpao L6, véhicule thermique (marché chinois) camion léger
+  - **DE**: AutoBridge-Referenz für Exportkäufer — JAC Kangling Lingpao L6, Verbrenner (chinesischer Markt) Leicht-Lkw
+  - **ES**: Referencia AutoBridge para compradores de exportación — JAC Kangling Lingpao L6, vehículo de combustión (mercado chino) camión ligero
+  - **PT**: Referência AutoBridge para compradores de exportação — JAC Kangling Lingpao L6, veículo a combustão (mercado chinês) caminhão leve
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜JAC Kangling Lingpao L6, 中国市場仕様 内燃機関車 小型トラック
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜JAC Kangling Lingpao L6, 중국 시장 내연기관 차량 경트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — JAC Kangling Lingpao L6, xe động cơ đốt trong (thị trường Trung Quốc) xe tải nhẹ
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — JAC Kangling Lingpao L6, รถเครื่องยนต์สันดาป (ตลาดจีน) รถบรรทุกขนาดเล็ก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — JAC Kangling Lingpao L6, kendaraan mesin pembakaran (pasar Tiongkok) truk ringan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — JAC Kangling Lingpao L6, مركبة بمحرك احتراق (سوق الصين) شاحنة خفيفة
+  - **ZH**: AutoBridge 出口采购参考｜JAC Kangling Lingpao L6, 中国市场燃油车 轻卡
 
 ## ต้นฉบับและการตรวจสอบสิทธิ์
 | ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| Lingpao L6 ตารางการปรับแต่งอย่างเป็นทางการ | JAC Commercial Vehicle (JAC 江淮1卡, ~เจ้าหน้าที่ผู้จัดรายการ~~] | CN | https://cv.jac.com.cn/kllpL6/ | 2026-09-03 | ~"ผ่านเข้ามา" | แท็กซี่ 1920 WB 3365 (พ.ศ. กรอบ 180 × 65 x 4.5 เพลา 2T/4–5T สัดส่วน HFC4DE3 กรมไฟฟ้า/ท่ารถไฟ รายการครอบครัวที่มีอํานาจเต็มที่ |
-| L6 HFC5043XY… box/announcement parameters | 360che (卡车之家, DB พาณิชย์) พ.ศ. | CN | http://product.m.360che.com/m815/203872_param.html | 2026-09-02 | ROOS_ CHCKED | โมเดลประกาศ ครอบครัว, เครื่อง/ เครื่องใน, น้ําหนักตัว |
-| L6 ตัวแสดงพารามิเตอร์การปล่อยลง | 360che (卡车之家) (พ.ศ. | CN | http://product.m.360che.com/m815/203878_param.html | 2026-09-02 | ROOS_ CHCKED | HFC1043P21K4C7S มิติ, น้ําหนัก, เพลา, กล้ามเนื้อ, ยาง |
-| L6 เส้นด่วน- 8 / เส้นการลาก | 360che (卡车之家) (พ.ศ. | CN | https://product.360che.com/m772/193093_index.html | 2026-09-03 | ผู้โดยสาร_ปลายทาง | อุปกรณ์เสริม 8-speed, การกระจายของวัตถุ |
-* ความขัดแย้งต่อมาตรฐานออโตบิลริดจ์: ISIFIIIIG ต้องการผู้ผลิต/ สํานักงาน/ สํานักงานบุคคล; โต๊ะของเจซี พบกับบาร์นั้น เพื่อข้อเท็จจริง Detailed per-announcement weights from 360che are CROSS_CHECKED against the JAC family but still must be matched to the exact certificate. ไม่ มี การ กล่าว ถึง ราคา; ราคาในประเทศคือความไวของเวลา และไม่เคยถูกใช้เป็นบุคคลส่งออก *
+| Lingpao L6 ตารางการปรับแต่งอย่างเป็นทางการ | JAC Commercial Vehicle (JAC 江淮1卡, ~เจ้าหน้าที่ผู้จัดรายการ~~] | CN | https://cv.jac.com.cn/kllpL6/ | 2026-09-03 | ~"ผ่านเข้ามา" | แท็กซี่ 1920 WB 3365 (พ.ศ. กรอบ 180 × 65 x 4.5 เพลา 2T/4–5T สัดส่วน HFC4DE3 รายการครอบครัวที่มีอํานาจเต็มที่ |
+| L6 HFC5043XY… box/announcement parameters | (卡车之家, DB พาณิชย์) พ.ศ. | CN | http://product.m.360che.com/m815/203872_param.html | 2026-09-02 | ROOS_ CHCKED | โมเดลประกาศ ครอบครัว, เครื่องใน, น้ําหนักตัว | 360che
+| L6 ตัวแสดงพารามิเตอร์การปล่อยลง | (卡车之家) (พ.ศ. | CN | http://product.m.360che.com/m815/203878_param.html | 2026-09-02 | ROOS_ CHCKED | HFC1043P21K4C7S มิติ, น้ําหนัก, เพลา, กล้ามเนื้อ, ยาง | 360che
+| L6 เส้นด่วน- 8 เส้นการลาก | (卡车之家) (พ.ศ. | CN | https://product.360che.com/m772/193093_index.html | 2026-09-03 | ผู้โดยสาร_ปลายทาง | อุปกรณ์เสริม 8-speed, การกระจายของวัตถุ | 360che
+* ความขัดแย้งต่อมาตรฐานออโตบิลริดจ์: ISIFIIIIG สํานักงานบุคคล; โต๊ะของเจซี พบกับบาร์นั้น เพื่อข้อเท็จจริง Detailed per-announcement weights from are CROSS_CHECKED against the JAC family but still must be matched to the exact certificate. ไม่ มี การ กล่าว ถึง ราคา; ราคาในประเทศคือความไวของเวลา และไม่เคยถูกใช้เป็นบุคคลส่งออก * 360che
 | ผู้ ผลิต และ แคตตาล็อก ผลิตภัณฑ์ ถนน — ระบบ สอบ ถาม ของ ประชาชน |  MIT, กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูลจีน | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | เปิดใช้งาน | ตรวจสอบผู้ผลิต, โมเดลที่อนุญาต และการทําอัลบั้มแบบแบ่งประเภท (公告) ก่อนการสั่งซื้อหรือส่งออก |
-| ขนาด GB 16735-2019 รถ ที่ ใช้ ถนน — หมาย เลข รถ (VIN) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | เปิดใช้งาน | โครงสร้างและชื่อของ platt language ที่ใช้ในการตรวจสอบความถูกต้องของผู้ซื้อ/ ชื่อ |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน สภาวะความปลอดภัยทางเทคนิคและเวลาปัจจุบัน/การปรับปรุง |
+| ขนาด GB 16735-2019 รถ ที่ ใช้ ถนน — หมาย เลข รถ (VIN) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | เปิดใช้งาน | โครงสร้างและชื่อของ platt language ชื่อ |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน |
 | GB 18352.6-2016 ด้วยระบบไฟฟ้าลัดวงจร XG1-2026 (จีน- 6 ปริมาตรแสงโพลีเจนต์) | กระทรวง นิเวศ วิทยา และ สิ่ง แวด ล้อม (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | เปิดใช้งาน | จีน 6 ระดับแสงและน้ําใส และวันที่ดําเนินการ 2026 มาตราฐาน |
-| GB 19147 เครื่องยนต์ดีเซลมาตรฐานเชื้อเพลิงแห่งชาติ (ฐานเชื้อเพลิงต่ํา) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | เปิดใช้งาน | ระดับเชื้อเพลิงดีเซลและซัลเฟอร์พื้นฐานที่ตรงกับการออกแบบเครื่องยนต์/การให้บริการต่างประเทศ |
+| GB 19147 เครื่องยนต์ดีเซลมาตรฐานเชื้อเพลิงแห่งชาติ (ฐานเชื้อเพลิงต่ํา) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | เปิดใช้งาน | |
 
 ## การทบทวนแก้ไข
-- ~Uuthor/ retrieved~: [บีดริดจ์ ส่งออกทีมแก้ไข] (/ ผู้เขียน/) วิธีป้อนคําค้น [นโยบายแก้ไข] [/ diversal-policy/] ของเรา
+- ~Uuthor/ retrieved~: [บีดริดจ์ ส่งออกทีมแก้ไข] วิธีป้อนคําค้น [นโยบายแก้ไข] diversal-policy/] ของเรา
 - ~ถูกตรวจสอบแล้ว~: 2026-09-05
 - ~ ตลาดแห่งความไม่สงบ ~: จีนปัจจุบัน-ซาเล/ปรับแต่งการปล่อยเสียง (ไม่ใช่ปีโมเดลผู้โดยสาร)
 - ~ วิธีการสร้าง*: ตารางการวางจําหน่ายและบริการ + ฐานข้อมูลประกาศสินค้าเชิงพาณิชย์; ต่อตัวเลขที่ตรงกับรุ่นประกาศ ราคาที่จงใจหักออกไป

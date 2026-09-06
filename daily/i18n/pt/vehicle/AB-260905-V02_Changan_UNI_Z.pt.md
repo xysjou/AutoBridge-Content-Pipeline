@@ -4,10 +4,10 @@
 - ** Título SEO**: Changan UNI-Z PHEV 2026: Especificações de Mercado Chinês e Guia de Comprador de Exportação
 - ** Descrição do Meta**: China-mercado Changan UNI-Z novo Blue Whale PHEV: dimensões, linha de 18.4 kWh LFP, gama elétrica de 130 km CLTC, DC/ V2L, e nível de VIN para os importadores.
 - ** H1 **: Changan UNI-Z (2026, New Blue Whale PHEV) — Especificações do mercado chinês e Verificação das exportações
-- **Chaveword Primário**: Changan / 长安 UNI-Z specs export
+- **Chaveword Primário**: Changan 长安 UNI-Z specs export
 - ** Termos de pesquisa secundários**: Changan UNI-Z exportação; especificações UNI-Z PHEV; plug-in chinês híbrido SUV; V2L exportação; intervalo CLTC
 - ** URL sugerido**: /veículos/changan-uni-z/
-- **Intenção de pesquisa**: 了解 Changan / 长安 UNI-Z 中国版规格, 配置与出口适配性 (车型参数页)
+- **Intenção de pesquisa**: 了解 Changan 长安 UNI-Z 中国版规格, 配置与出口适配性 (车型参数页)
 - **As sugestões de ligação interna**: /veículos/changan-uni-z/, /guias/china-exportação-customs-declaração-única-janela/, /guias/ccc-certificação-exportação-isenção/
 - **Schema Scope**: Artigo + Veículo (sem Produto/Oferta/Revisão)
 
@@ -15,7 +15,7 @@
 O **Changan UNI-Z (2026)** coberto aqui é o mercado chinês **novo plug-in híbrido de baleia azul (Xin Lan Jing)** compacto SUV. É uma linha distinta de qualquer UNI-Z puro-petrol e de placas de exportação-mercado Changan pode usar em outro lugar; nenhuma equivalência de nome estrangeiro é reivindicada sem uma declaração OEM. O mercado de referência é **China**.
 
 ## Capacidade de energia, bateria e elétrica
-- *Dimensões**: 4730 / 1890 / 1660 (部分配置 1680) mm (algumas configurações 1680 mm de altura), distância entre eixos 2795 mm (verificados); volume de carga 638 L.
+- *Dimensões**: 4730 1890 1660 (部分配置 1680) mm (algumas configurações 1680 mm de altura), distância entre eixos 2795 mm (verificados); volume de carga 638 L.
 - ** Motor híbrido**: 72 (1.5L 混动专用发动机) kW motor híbrido dedicado; motor de acionamento 160 kW (cross-checked); E-CVT (电混传动).
 - **Bateria**: 磷酸铁锂, cerca de 约 18.4 kWh. O fornecedor de células aparece sob duas contas em fontes secundárias e é mantido como ** não confirmado** — não é afirmado aqui.
 - * Alcance elétrico**: 130 km CLTC (verificados); CLTC 1250 km combinado.
@@ -24,7 +24,7 @@ O **Changan UNI-Z (2026)** coberto aqui é o mercado chinês **novo plug-in híb
 ## Quadro de especificações verificados (referência do mercado chinês)
 | Especificação | Valor | Unidade | Mercado | Confiança | Nota de origem |
 |---|---|---|---|---|---|
-| largura de comprimento altura | 4730 / 1890 / 1660 (部分配置 1680) | mm | CHINA | CROSS_CHECKED | 汽车之家 + 搜狐 |
+| largura de comprimento altura | 4730 1890 1660 (部分配置 1680) | mm | CHINA | CROSS_CHECKED | 汽车之家 + 搜狐 |
 | distância entre eixos | 2795 | mm | CHINA | CROSS_CHECKED | 汽车之家 + 搜狐 |
 | volume de carga | 638 | L | CHINA | FONTE ÚNICA | 搜狐汽车 |
 | potência do motor | 72 (1.5L 混动专用发动机) | kW | CHINA | FONTE ÚNICA | 汽车之家车家号 |

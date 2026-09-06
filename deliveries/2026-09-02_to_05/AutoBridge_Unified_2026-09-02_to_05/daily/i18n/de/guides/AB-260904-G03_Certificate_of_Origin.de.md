@@ -32,11 +32,11 @@ Die beiden autorisierten Ausstellungskanäle sind **China Customs** und **CCPIT 
 ## Anwendung des Frameworks auf eine Fahrzeugsendung
 1. Bestätigen Sie das Ziel und ob eine **FTA-Präferenz** tatsächlich in Anspruch genommen wird; wenn nicht, ist ein nicht-präferentieller CO das übliche Instrument.
 2. Wenn Sie eine Präferenz beantragen, überprüfen Sie, ob das Fahrzeug die produktspezifische Ursprungsregel dieser Vereinbarung erfüllt, bevor Sie sich bewerben - gehen Sie nicht davon aus, dass "Made in China" allein qualifiziert ist.
-3. Matchen Sie den Emittenten an das, was der Importeur / Letter of Credit verlangt (offizielle Stelle → Zoll).
+3. Matchen Sie den Emittenten an das, was der Importeur Letter of Credit verlangt (offizielle Stelle → Zoll).
 4. Verwenden Sie das **aktuelle ** Formular und den Code unter Order 270 und die entsprechende Vereinbarung; Formulare ändern sich, wenn Vereinbarungen hinzugefügt werden.
 
 ## Was nicht zu versprechen ist
-- Diese Seite **nicht ** ordnet ein bestimmtes Ziel einer bestimmten Freihandelszone oder ihren Regeln zu - das ist länder- und vertragsspezifisch und muss pro Sendung mit Zoll / CCPIT überprüft werden.
+- Diese Seite **nicht ** ordnet ein bestimmtes Ziel einer bestimmten Freihandelszone oder ihren Regeln zu - das ist länder- und vertragsspezifisch und muss pro Sendung mit Zoll CCPIT überprüft werden.
 - Ein Ursprungszeugnis garantiert nicht, dass das Bestimmungsland einen ermäßigten Satz gewährt; der Bestimmungszoll trifft diese Bestimmung.
 
 ## Häufig gestellte Fragen
@@ -77,7 +77,7 @@ Die beiden autorisierten Ausstellungskanäle sind **China Customs** und **CCPIT 
 | GACC Order No. 270, Export CO Administrative Measures (in Kraft 2024-09-01) | Allgemeine Zollverwaltung von China (offizielles PDF) | CN | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6011613/2024073016391092032.pdf | 2026-09-04 | ÜBERPRÜFUNG | Regelversion, drei Typen, Emittenten |
 | Export CO Administrative Measures (zweite offizielle PDF) | GACC | CN | http://www.customs.gov.cn/eportal/fileDir/customs/resource/cms/2024/07/2024073110443252720.pdf | 2026-09-04 | ÜBERPRÜFUNG | Nicht-präferenzielle Verwendungen, drei Arten |
 | Nicht präferenzielle CO-Übersicht und ausstellende Stellen | ZGP Sichuan | CN | https://www.ccpit-sichuan.org/newshow.aspx?id=14630&mid=285 | 2026-09-04 | ÜBERPRÜFUNG | Emittenten, gewöhnliche CO ohne Gebühr |
-*Anwendungsbereich: China nur Ausgabeseite; spezifische FTA-Regeln und Destination Präferenz Entscheidungen sind außerhalb des Anwendungsbereichs und pro Vereinbarung / pro Land. *
+*Anwendungsbereich: China nur Ausgabeseite; spezifische FTA-Regeln und Destination Präferenz Entscheidungen sind außerhalb des Anwendungsbereichs und pro Vereinbarung pro Land. *
 
 | Verordnungen der VR China über Ursprungszeugnisse (Dekret des Staatsrates Nr. 416) | Staatsrat der VR China | CN | https://www.gov.cn/gongbao/content/2005/content_64193.htm | 2026-09-05 | ÜBERPRÜFUNG | Chinesische Rechtsgrundlage für die Ausstellung von Präferenzursprungszeugnissen und nichtpräferenziellen Ursprungsbescheinigungen |
 | Abkommen über Ursprungsregeln | Welthandelsorganisation (WTO) | INT'L | https://www.wto.org/english/tratop_e/roi_e/roi_e.htm | 2026-09-05 | ÜBERPRÜFUNG | Multilateraler Rahmen für Ursprungsregeln |

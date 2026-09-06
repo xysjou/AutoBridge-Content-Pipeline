@@ -18,7 +18,7 @@
 | アイテム | 中国語 1.5T (中国参考) |
 |---|---|
 | ボディ | コンパクトSUV |
-| 長さ/幅/高さ | 4472 / 1841 / 1619 mm **(単一中国構造データベース) |
+| 長さ/幅/高さ | 4472 1841 1619 mm **(単一中国構造データベース) |
 | ホイールベース | 2700 mm ** (単一中国ソース) |
 | 油圧エンジン | 1.5Tターボチャージガソリン |
 | 最高の力 | 110 kW ** (中国語データベース、海外1.5Tカバレッジ) |
@@ -29,12 +29,12 @@
 中国の次元、 エンジン  and  power rest mainly on one structured database; 工場のビルドシートに対して、正確なユニットの参照値として扱います。
 
 ## 海外版 — 列を分離し、中国データシートではなく
-- **オーストラリア 1.5T (オーストラリア・アウ)**: ** 210 N·m ** および ** 7-speed ウェット デュアル クラッチ **, 貨物の容積** 430 L / 1130 L ** (後部座席が折り畳まれた). これらは**オーストラリア市場**の数字です。中国車のトルク、ギアボックス、貨物の量を証明していません。
+- **オーストラリア 1.5T (オーストラリア・アウ)**: ** 210 N·m ** および ** 7-speed ウェット デュアル クラッチ **, 貨物の容積** 430 L 1130 L ** (後部座席が折り畳まれた). これらは**オーストラリア市場**の数字です。中国車のトルク、ギアボックス、貨物の量を証明していません。
 - **海外HEV(OVERSEAS・AU/TH/VN)**:1.5L DHTハイブリッド**、大体** 190 PS組み合わせ/375 N·mで報告 **。これは、選択した海外市場で販売されている**の差分パワートレインアーキテクチャです。それは独自の列に座って、中国1.5T.と合併してはならない
 
 ## 市場をブレンドすることなく選ぶ方法
 1. 問い合わせが**中国語 1.5T 行であるかどうかを決定**、**海外 1.5T **、または**海外のHEV**は、任意の番号を読んだ前に。
-2. あらゆるパワートレインと貨物の図に市場ラベルを取り付けます。 210 N·m / 7DCT / 税 税 税 税 税 税 税 税 税  税 税 税  税  税  税  税  税   税      税     税   税                                  税          分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分   and  430/1130 L are Australian, ・・・190 PS/375 N·m HEVは海外専用
+2. あらゆるパワートレインと貨物の図に市場ラベルを取り付けます。 210 N·m 7DCT 税 税 税 税 税 税 税 税 税  税 税 税  税  税  税  税  税   税      税     税   税                                  税          分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分   and  430/1130 L are Australian, ・・・190 PS/375 N·m HEVは海外専用
 3. VIN(VIN/ネームプレートガイドを参照)に対するレコードエンジン、電力、伝送。中国1.5Tユニットは、PI上でHEVまたはオーストラリア仕様を運ぶ必要はありません。
 4. ステアリング側と目的地の均質化を確認します。中国LHD 1.5T車は、購入者の市場でRHDまたはHEVの可用性の証拠ではありません。
 5. 名前のアイデンティティはOEM混同ですが、パワートレインは市場固有のため、クロスマーケットの同等性を想定するのではなく、正確なVINの**工場ビルドシート/OEMモデルコードマッピングを要求します。
@@ -43,15 +43,15 @@
 - 中国語1.5Tのため、 オーストラリア人 1.5T  and  HEVラインは異なります。 各マーケットラインのドライブ構成を独自の証明書で確認します。市場全体のレイアウトを別の市場に運ぶことはありません。
 - **モデルID**: GWM OEMはChullian↔Jolionの基底IDを確認します。VINレベルのトリム コードはまだ入手します。
 - **パワートレインマッチ**:ターボ対ハイブリッド、中国対海外1.5Tは、その市場の数字だけに明示的に述べた。
-- **未確認の中国値**:中国構造のソースがそれらを確認するまで、中国仕様として210 N·m / 7DCTを受け入れないでください。
+- **未確認の中国値**:中国構造のソースがそれらを確認するまで、中国仕様として210 N·m 7DCTを受け入れないでください。
 - **排出/燃料および文書**:排出ガイドごとの場所の標準/燃料の等級;文書パッケージ ガイドごとの製造業者の証明書、CoCおよびspecシート。
 
 ## 現在のエクスポート見積をリクエストする
 輸出価格が公開されず、ここで不当なものはありません。 **目的地の国・数量・1.5TまたはEVトライム・LHD/RHD・宛先ポート・インコターム**でライブ見積を依頼してください。
 
 ## よくある質問
-**騎士は、騎兵軍の同車ですか?** ベースネームプレートレベルではい — GWM の独自の歴史は、JOLION としてチュリアンの海外版を記録します(南アフリカ/サウジアラビアで公開)。しかし、市場固有のパワートレインは依然として異なり、交換できません。
-**ジョリオンはハイブリッド?** 海外のカバレッジは1.5L DHT HEV(〜190 PS / 375 N·m)を文書化します。 中国の参照車は1.5Tターボです。
+ベースネームプレートレベルではい — GWM の独自の歴史は、JOLION
+海外のカバレッジは1.5L DHT HEV(〜190 PS 375 N·m)を文書化します。 中国の参照車は1.5Tターボです。
 **中国1.5Tのトルクとギアボックスは何ですか?** 力は110 kWです; キャプチャされた210 N·m  and  7DCTはオーストラリアの市場図です、  so they are not stated as confirmed Chinese values pending a second Chinese source.
 **Can I quote Australian cargo volume for a Chinese unit?** No — 430/1130 L is the overseas version's figure; 中国の車は別々に確認して下さい。
 
@@ -63,43 +63,43 @@
 - 権利_ホルダー:未確認
 - LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
 - CHECKED_DATE: 2026-09-06(税抜き)
-- MODEL_TOPIC_MATCH: 上記の正確なモデル/バージョン(またはガイドトピック)と参照市場と一致しなければなりません
+- MODEL_TOPIC_MATCH:
 - IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
 - IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
 - ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
 - 言語によるALT:
-  - **EN**: AutoBridge export-buyer reference — GWM Haval Jolion, petrol/diesel Chinese-market vehicle / SUV
-  - **FR**: Référence AutoBridge pour acheteurs export — GWM Haval Jolion, véhicule thermique (marché chinois) / SUV
-  - **DE**: AutoBridge-Referenz für Exportkäufer — GWM Haval Jolion, Verbrenner (chinesischer Markt) / SUV
-  - **ES**: Referencia AutoBridge para compradores de exportación — GWM Haval Jolion, vehículo de combustión (mercado chino) / SUV
-  - **PT**: Referência AutoBridge para compradores de exportação — GWM Haval Jolion, veículo a combustão (mercado chinês) / SUV
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜GWM Haval Jolion, 中国市場仕様 内燃機関車 / SUV
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜GWM Haval Jolion, 중국 시장 내연기관 차량 / SUV
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — GWM Haval Jolion, xe động cơ đốt trong (thị trường Trung Quốc) / SUV
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — GWM Haval Jolion, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถเอสยูวี
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — GWM Haval Jolion, kendaraan mesin pembakaran (pasar Tiongkok) / SUV
-  - **AR**: مرجع AutoBridge لمشتري التصدير — GWM Haval Jolion, مركبة بمحرك احتراق (سوق الصين) / سيارة دفع رباعي
-  - **ZH**: AutoBridge 出口采购参考｜GWM Haval Jolion, 中国市场燃油车 / SUV
+  - **EN**: AutoBridge export-buyer reference — GWM Haval Jolion, petrol/diesel Chinese-market vehicle SUV
+  - **FR**: Référence AutoBridge pour acheteurs export — GWM Haval Jolion, véhicule thermique (marché chinois) SUV
+  - **DE**: AutoBridge-Referenz für Exportkäufer — GWM Haval Jolion, Verbrenner (chinesischer Markt) SUV
+  - **ES**: Referencia AutoBridge para compradores de exportación — GWM Haval Jolion, vehículo de combustión (mercado chino) SUV
+  - **PT**: Referência AutoBridge para compradores de exportação — GWM Haval Jolion, veículo a combustão (mercado chinês) SUV
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜GWM Haval Jolion, 中国市場仕様 内燃機関車 SUV
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜GWM Haval Jolion, 중국 시장 내연기관 차량 SUV
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — GWM Haval Jolion, xe động cơ đốt trong (thị trường Trung Quốc) SUV
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — GWM Haval Jolion, รถเครื่องยนต์สันดาป (ตลาดจีน) รถเอสยูวี
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — GWM Haval Jolion, kendaraan mesin pembakaran (pasar Tiongkok) SUV
+  - **AR**: مرجع AutoBridge لمشتري التصدير — GWM Haval Jolion, مركبة بمحرك احتراق (سوق الصين) سيارة دفع رباعي
+  - **ZH**: AutoBridge 出口采购参考｜GWM Haval Jolion, 中国市场燃油车 SUV
 
 ## ソースと検証
 | ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
 |---|---|---|---|---|---|---|
-| GWMの企業歴(中国海外版=JOLION、南アフリカ/サウジアラビア、HEVタイ) | 大きい壁モーター(OEM) | ブランドHQ | 以下は、 .gwm.com.cn/history.html のサイトをリニューアルしました。 | 2026-09-04 | 検証済み(プライマリ) | サム・モデラー ベースアイデンティティ | https://www.gwm.com.cn/history.html
+| GWMの企業歴(中国海外版=JOLION、南アフリカ/サウジアラビア、HEVタイ) | 大きい壁モーター(OEM) | ブランドHQ | 以下は、 のサイトをリニューアルしました。 | 2026-09-04 | 検証済み(プライマリ) | サム・モデラー ベースアイデンティティ | https://www.gwm.com.cn/history.html
 | ヘイヴァルチュリアン1.5Tオートパラメータ | シエナオートデータベース | CN の | 以下は、 https://db.auto.sina.cn/car/50026/ の | 2026-09-04 | シングル_ソース | 中国の次元、1.5T、110 kWのホイールベース |
 | オーストラリアのジョリオン1.5Tの電力と寸法 | テンセント(レビューを投稿) | ユウ | 担当: http://news.qq.com/rain/a/20210717A03BJX00 のファイル | 2026-09-04 | SINGLE_SOURCE(海外) | 210 N·mの 7DCTの  430/1130 L — AU only |
 | ジョリオン・プロ・ハイフ・オーストラリア・ローンチ | オートホーム・ケジアオ | ユウ | 以下は、 https://chejiahao.m.autohome.com.cn/info/15525734 | 2026-09-04 | SINGLE_SOURCE(海外) | 海外HEVシステム |
 | ジョリオン 2025 ベトナム (海外拠点) | iFeng自動 | サインイン | 以下は、 https://auto.ifeng.com/c/8ggPMnGNmuJ の | 2026-09-04 | SINGLE_SOURCE(海外) | 海外HEV腐食 |
 | ロードモーター車メーカーと製品カタログ — 公開クエリシステム | 工業情報技術省、中国情報技術省 | CN の | 以下は、 ................................................................................................................................ | 2026-09-05 | 検証済み | 注文するか、または輸出する前に製造業者、承認されたモデルおよび均質化(公告)のカタログの記入項目を確認して下さい | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html
 | ギガバイト16735-2019 道路車両 — 車両識別番号(VIN)要件 | SAMR全国規格全文プラットフォーム | CN の | 以下は、 https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 のリリース | 2026-09-05 | 検証済み | バイヤーのVIN/ネームプレート検証で使用されるVIN構造とネームプレートのデータフィールド |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | 市場規制のSAMR、州政局 | CN の | 以下は、 https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | 検証済み | ベースライン中国車安全技術条件と電流/改定タイムライン |
-| 改正XG1-2026(中国-6光車両汚染物質排出量)でGB 18352.6-2016 | エコロジー・環境省(MEE) | CN の | 以下は、 .mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html の | 2026-09-05 | 検証済み | 中国- 6 光車両排出ステージと2026 補正実装日 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | 市場規制のSAMR、州政局 | CN の | 以下は、 https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | 検証済み | |
+| 改正XG1-2026(中国-6光車両汚染物質排出量)でGB 18352.6-2016 | エコロジー・環境省(MEE) | CN の | 以下は、 の | 2026-09-05 | 検証済み | 中国- 6 光車両排出ステージと2026 補正実装日 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html
 
 ※本展は、研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究・研究 GWM OEM(SAME_MODEL)が基本レベルで認証する名前のアイデンティティ。中国トルク/トランスミッション値はブロックされています(オーストラリアのソースのみ)、中国仕様と記載されていません。海外のHEVは市場ラベルを厳密に保持しました。 輸出価格無し。 ふりがな
 
 ## 編集レビュー
 - **著者**: AutoBridge エクスポート 編集 チーム・方法・方法・方法・各社様 [編集ポリシー](/編集ポリシー/)
 - **最終審査**:2026-09-05
-- **参考市場**:中国1.5T = 中国;AU 1.5TとHEV =海外(分離;グローバルスペックなし)
+- **参考市場**:中国1.5T 中国;AU 1.5TとHEV
 - **検証方法**:OEM-confirmed名アイデンティティ;市場/トリム/パワートレイン分離;中国トルク/ギアボックスブロック中国第二ソースを保留
 - **透明性**:AI-assistedドラフトが使われていました。 本記事は、デスクリサーチと自動QAをベースとしています。 明示的に文書化されていない限り、最初のテストは要求されません。 トランスフォーメーションの前に時間感度と宛先固有の要件を確認します。
 - ** 編集規格**: 上記情報源(デスクリサーチ、片手運転、涙流、輸入)から研究・執筆 ソースの自信は行ごとに示されます。 私たちが独立して確認できない点は、事実として主張するのではなく、検証項目として提示されます。

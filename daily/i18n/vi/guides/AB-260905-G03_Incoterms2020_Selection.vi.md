@@ -7,15 +7,15 @@
 - ** Từ khoá mở rộng**: định giới 2020 hướng dẫn chọn
 - **Secondary Search termss**: Incoctes 2020; FOB chống lại FCA; CAIP chống lại CIP; DDP nguy hiểm; đa phân tử; chuyển giao rủi ro
 - ** URL đã gợi ý**: /guides/incocations- 2020-selection-guide/
-- **Tìm kiếm Intent**: 汽车出口合同如何按运输方式选择 Incoterms 2020 术语  明确风险转移点与费用 / 保险责任
-- **I nội bộ Link gợi ý*: //guides/export-methods-t-lc-pick/, /guides/marine-crin-curance-hince /, /guides/childs/cexport-t-dec-dec-sc-sating-windo/, /guides/lews/, / / / / / /guides/chies/chies/chiles-ex-decage-decage-decle-le-window/
+- **Tìm kiếm Intent**: 汽车出口合同如何按运输方式选择 Incoterms 2020 术语  明确风险转移点与费用 保险责任
+- **I nội bộ Link gợi ý*: /guides/marine-crin-curance-hince /guides/childs/cexport-t-dec-dec-sc-sating-windo/, /guides/lews/, /guides/chies/chies/chiles-ex-decage-decage-decle-le-window/
 - **Schema Scope**: Điều khoản (không có sản phẩm/ sản phẩm/ xuất/Rover)
 
 ## Bắt đầu từ chế độ vận chuyển, không phải thói quen
 Nội dung 2020 chứa **el even** quy tắc chia làm những quy tắc để vận chuyển và những quy tắc truyền thống cho việc vận chuyển biển/trong nước. Trong xuất khẩu xe, lựa chọn đầu tiên là việc di chuyển là biển cảng đối cảng (Roro/contaner) hay đa mô-tơ (trong đất liền xe tải/đường sắt cộng với biển, thông thường cho xe tải trung-Asia). Chọn một thuật ngữ chỉ biển cho một nước đa động tạo ra một khoảng trống trong khi rủi ro đi qua.
 
 ## Nơi rủi ro thực sự chuyển đổi
-- **FOB / FCA**: dưới đường thủy (sea/inland) nguy hiểm khi hàng hóa được đặt **on bảng**; dưới chế độ FCA (bất cứ chế độ nào) rủi ro được thông qua khi hàng hóa được giao cho người đưa hàng tại địa điểm đặt tên. Đối với các nước cờ công-te-ca và đa-ma là một nước đi sạch sẽ hơn bởi vì rủi ro và kiểm soát được thẳng hàng với giao phó thực tế, hơn là một khoảnh khắc trên bảng mà người bán không kiểm soát được.
+- **FOB FCA**: dưới đường thủy (sea/inland) nguy hiểm khi hàng hóa được đặt **on bảng**; dưới chế độ FCA (bất cứ chế độ nào) rủi ro được thông qua khi hàng hóa được giao cho người đưa hàng tại địa điểm đặt tên. Đối với các nước cờ công-te-ca và đa-ma là một nước đi sạch sẽ hơn bởi vì rủi ro và kiểm soát được thẳng hàng với giao phó thực tế, hơn là một khoảnh khắc trên bảng mà người bán không kiểm soát được.
 - **CFR/CPT và CIP/CIP**: người bán sắp xếp và trả tiền xe ngựa đến nơi, nhưng **s rot chuyển giao sớm hơn**, tại lô hàng/tover — chi phí và rủi ro là cố tình chia rẽ, điều này khiến người mua bất ngờ cho rằng việc cho rằng CFF có nghĩa là có nguy cơ đến đích.
 - **DDP/DP/DDDP**: đây là những điều khoản đến; người bán mạo hiểm hơn nữa. **DDP đặt nghĩa vụ tối đa cho người bán**, bao gồm quyền nhập khẩu, nhiệm vụ và thuế tại nơi đến — cho một người xuất khẩu xe Trung Quốc mà không có sự có mặt đích đến thường là không thực tế và tuân thủ-điều này.
 
@@ -40,7 +40,7 @@ Dưới sự quản lý của người bán, bảo hiểm biển được bảo 
 ## Nguồn và Định dạng
 | Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
-| 国际贸易术语图文精讲 (Incoterms2020 共 11 种 / 两大类) | 中国贸促会广西分会 | CN | T1 | VEII | https://www.ccpitgx.org/webcpitgx/2025/rcepjiedu_0624/15195.html | 11 术语. 按运输方式分类. 风险费用划分 |
+| 国际贸易术语图文精讲 (Incoterms2020 共 11 种 两大类) | 中国贸促会广西分会 | CN | T1 | VEII | https://www.ccpitgx.org/webcpitgx/2025/rcepjiedu_0624/15195.html | 11 术语. 按运输方式分类. 风险费用划分 |
 | 2020 国际贸易术语详解 (FOB 风险点改为装上船) | 浙江省贸促会 | CN | T1 | VEII | http://www.ccpitzj.gov.cn/art/2020/8/17/art_1229557691_11515.html | FOB/CFR/CFR/CFAT, 船舷 装上船 |
 | 跨境电子商务贸易术语 (风险转移教材) | 清华大学出版社 | CN | T3 | ĐÃ_ ĐÃ | https://www.tup.tsinghua.edu.cn/upload/books/yz/095136-01.pdf | 风险转移, 象征性交货 |
 | Ký hiệu 2020 quy tắc (ICC) | Phòng thương mại quốc tế | CN | T1 | VEII | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-rules-2020/ | Người công bố có thẩm quyền của Incocations 2020 |

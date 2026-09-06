@@ -17,8 +17,8 @@ Le Xintu V90 est une plateforme commerciale à large corps** vendue en minibus p
 | Point | V90 Référence Chine |
 |---|---|
 | Moteur | SAIC π ("PI") 2.0 L turbodiesel en ligne 4 |
-| Classes de puissance | 110 kW (≈150 PS) / 130 kW (≈177 PS) |
-| Classes de couple | 375 N·m / 400–420 N·m |
+| Classes de puissance | 110 kW (≈150 PS) 130 kW (≈177 PS) |
+| Classes de couple | 375 N·m 400–420 N·m |
 | Transmission | 6-speed automatique **ou** ZF 8-speed automatique |
 | Mise en page | Moteur avant, ** transmission des roues arrière**; ** roues arrière doubles en option** |
 | Carburant | Diesel — confirmer la tolérance à la qualité du carburant et le stade d'émission de destination |
@@ -26,8 +26,8 @@ Le Xintu V90 est une plateforme commerciale à large corps** vendue en minibus p
 Pour un véhicule commercial diesel, les acheteurs devraient comparer la qualité de couple et le choix d'essieu arrière/roue (pneumatique simple ou double arrière) avec la charge utile prévue, et non pas seulement la puissance maximale. La ZF 8AT est la transmission de niveau supérieur; ne présumez pas que chaque grade l'a.
 
 ## Châssis, base de roue et matrice du corps
-- Exemple de corps de longueur standard L×W×H: **5498 / 2062 / 2535–2545 mm**; Il existe aussi des corps plus longs.
-- Empattements: ** 3366 mm / 3760 mm **.
+- Exemple de corps de longueur standard L×W×H: **5498 2062 2535–2545 mm**; Il existe aussi des corps plus longs.
+- Empattements: ** 3366 mm 3760 mm **.
 - **Sièges en version passager: 9–15, strictement selon le modèle homologué (source unique; confirmation sur le code annonce/modèle)**.
 - La hauteur du toit, la disposition des portes coulissantes/rares, les variantes de l'intérieur du fret et du châssis-cabine changent la catégorie d'utilisation et de licence de la classe GVW.
 
@@ -68,25 +68,25 @@ Aucun prix à l'exportation statique et aucun PDSF chinois n'ont été saisis da
 - IMAGE_RIGHTS_STATUS: FAIL (aucun actif autorisé capturé; un détenteur de place ou -tain vieille image - Note n'est pas accepté)
 - C'est une question de "relation" Aucune image réutilisable ne peut être sécurisée: Wikimedia Commons/Flickr sont inaccessibles depuis l'environnement de recherche, les bibliothèques de stock nécessitent un accès authentifié API/licence, et une image de page web OEM n'est PAS une subvention de réutilisation commerciale; aucune photo appartenant à AutoBridge n'existe. Il a gardé la FAIL plutôt que de l'affirmer.
 - ALAT par langue:
-  - **EN**: AutoBridge export-buyer reference — SAIC Maxus Xintu V90, petrol/diesel Chinese-market vehicle / cargo van
-  - **FR**: Référence AutoBridge pour acheteurs export — SAIC Maxus Xintu V90, véhicule thermique (marché chinois) / fourgon
-  - **DE**: AutoBridge-Referenz für Exportkäufer — SAIC Maxus Xintu V90, Verbrenner (chinesischer Markt) / Kastenwagen
-  - **ES**: Referencia AutoBridge para compradores de exportación — SAIC Maxus Xintu V90, vehículo de combustión (mercado chino) / furgoneta de carga
-  - **PT**: Referência AutoBridge para compradores de exportação — SAIC Maxus Xintu V90, veículo a combustão (mercado chinês) / furgão de carga
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜SAIC Maxus Xintu V90, 中国市場仕様 内燃機関車 / 貨物バン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜SAIC Maxus Xintu V90, 중국 시장 내연기관 차량 / 카고 밴
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — SAIC Maxus Xintu V90, xe động cơ đốt trong (thị trường Trung Quốc) / xe van chở hàng
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — SAIC Maxus Xintu V90, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถตู้บรรทุก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — SAIC Maxus Xintu V90, kendaraan mesin pembakaran (pasar Tiongkok) / van kargo
-  - **AR**: مرجع AutoBridge لمشتري التصدير — SAIC Maxus Xintu V90, مركبة بمحرك احتراق (سوق الصين) / شاحنة فان للبضائع
-  - **ZH**: AutoBridge 出口采购参考｜SAIC Maxus Xintu V90, 中国市场燃油车 / 厢式货车
+  - **EN**: AutoBridge export-buyer reference — SAIC Maxus Xintu V90, petrol/diesel Chinese-market vehicle cargo van
+  - **FR**: Référence AutoBridge pour acheteurs export — SAIC Maxus Xintu V90, véhicule thermique (marché chinois) fourgon
+  - **DE**: AutoBridge-Referenz für Exportkäufer — SAIC Maxus Xintu V90, Verbrenner (chinesischer Markt) Kastenwagen
+  - **ES**: Referencia AutoBridge para compradores de exportación — SAIC Maxus Xintu V90, vehículo de combustión (mercado chino) furgoneta de carga
+  - **PT**: Referência AutoBridge para compradores de exportação — SAIC Maxus Xintu V90, veículo a combustão (mercado chinês) furgão de carga
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜SAIC Maxus Xintu V90, 中国市場仕様 内燃機関車 貨物バン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜SAIC Maxus Xintu V90, 중국 시장 내연기관 차량 카고 밴
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — SAIC Maxus Xintu V90, xe động cơ đốt trong (thị trường Trung Quốc) xe van chở hàng
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — SAIC Maxus Xintu V90, รถเครื่องยนต์สันดาป (ตลาดจีน) รถตู้บรรทุก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — SAIC Maxus Xintu V90, kendaraan mesin pembakaran (pasar Tiongkok) van kargo
+  - **AR**: مرجع AutoBridge لمشتري التصدير — SAIC Maxus Xintu V90, مركبة بمحرك احتراق (سوق الصين) شاحنة فان للبضائع
+  - **ZH**: AutoBridge 出口采购参考｜SAIC Maxus Xintu V90, 中国市场燃油车 厢式货车
 
 ## Sources et vérification
 | Titre de la source | Organisation | Marché | URL | Vérification | Confiance | Faits corroborés |
 |---|---|---|---|---|---|---|
 | Configuration de Xintu V90 (corps 5498) | Base de données Sohu Auto | NC | https://db.m.auto.sohu.com/model_5902/config?sliding=1&selectedTrimId=173112 | 2026-09-03 | _CHECTURE | Classe, dimensions de la caisse |
 | SAIC π 2.0T ligne de puissance diesel | Encyclopédie PCauto | NC | http://m.pcauto.com.cn/baike/806544/1579332/ | 2026-09-03 | _CHECTURE | 110/130 kW, 375 N·m, - Le moteur de propulsion, roue arrière double |
-| V90 2025 130 kW / 420 N·m | 16888 Automatique | NC | https://m.16888.com/news/2026/0728/24803230.html | 2026-09-03 | _CHECTURE | 130 kW / 420 N·m, ZF 8AT, 9–15 sièges (sièges à source unique) |
+| V90 2025 130 kW 420 N·m | Automatique | NC | https://m.16888.com/news/2026/0728/24803230.html | 2026-09-03 | _CHECTURE | 130 kW 420 N·m, ZF 8AT, 9–15 sièges (sièges à source unique) | 16888
 | Paramètres de Xintu V90 2024 | Base de données Sina Auto | NC | http://db.auto.sina.cn/car/71018/ | 2026-09-03 | _CHECTURE | 5498/2062/2545, empattements 3366/3760 |
 | Catalogue des constructeurs et des produits de véhicules automobiles routiers — système de requête publique | MIIT, Ministère chinois de l'industrie et des technologies de l'information | NC | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VÉRIFIER | Vérifier l'entrée du catalogue du fabricant, du modèle approuvé et de l'homologation (公告) avant de commander ou d'exporter |
 | GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Administration d'État chargée de la réglementation du marché | NC | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VÉRIFIER | Conditions techniques de référence en Chine en matière de sécurité des véhicules et calendrier de révision/révision |
@@ -96,7 +96,7 @@ Aucun prix à l'exportation statique et aucun PDSF chinois n'ont été saisis da
 *Note de confiance: aucune fiche de spécifications primaires SAIC Maxus n'a été capturée; les valeurs sont recoupées avec les bases de données chinoises, le nombre de sièges est une source unique et lié au code de modèle homologué. Aucun prix n'était disponible et aucun n'est affirmé. L'approbation de destination est spécifique à la configuration. *
 
 ## Révision de la rédaction
-- **Auteur / réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)
+- **Auteur réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)
 - **Dernière révision**: 2026-09-05
 - **Marché de référence**: Chine, plateforme Xintu V90 (référence du marché chinois; configuration spécifique)
 - **Méthode de vérification**: vérification croisée multibase; logique de configuration-matrix; sièges à source unique

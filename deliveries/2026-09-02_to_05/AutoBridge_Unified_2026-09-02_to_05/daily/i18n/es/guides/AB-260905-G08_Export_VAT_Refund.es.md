@@ -45,8 +45,8 @@ No se proporcionan tarifas, plazos como números fijos o cantidades específicas
 | Fuente | Organización | Mercado | Tier | Confianza | URL | Datos respaldados |
 |---|---|---|---|---|---|---|
 | 出口业务增值税和消费税退 (免) 税管理办法 (税务总局公告) | 中国政府网 | CN | T1 | VERIFIED | https://www.gov.cn/zhengce/zhengceku/202602/content_7056762.htm | 申报期限, 免抵退申报资料 |
-| 关于出口业务增值税和消费税政策的公告 | 中华人民共和国财政部 | CN | T1 | VERIFIED | https://www.mof.gov.cn/jrttts/202602/t20260203_3983176.htm | 免抵退 / 免退税办法定义 |
-| 出口货物劳务免抵退税和免退税如何计算 | 国家税务总局 | CN | T1 | VERIFIED | https://www.chinatax.gov.cn/chinatax/c102449/c5237525/content.html | 当期应退 / 免抵税额计算 |
+| 关于出口业务增值税和消费税政策的公告 | 中华人民共和国财政部 | CN | T1 | VERIFIED | https://www.mof.gov.cn/jrttts/202602/t20260203_3983176.htm | 免抵退 免退税办法定义 |
+| 出口货物劳务免抵退税和免退税如何计算 | 国家税务总局 | CN | T1 | VERIFIED | https://www.chinatax.gov.cn/chinatax/c102449/c5237525/content.html | 当期应退 免抵税额计算 |
 | 进出口税收热点问题 (2026 年 7 月) | 国家税务总局北京市税务局 | CN | T1 | VERIFIED | http://beijing.chinatax.gov.cn/bjswj/c105390/202608/ec1a021ae3af4c368e72684ca1bbe4df.shtml | 报关后申报与核销 |
 | State Taxation Administration (STA) | STA 国家税务总局 | CN | T1 | VERIFIED | https://www.chinatax.gov.cn/ | Exportar el reembolso del IVA/autoridad de exención |
 | GACC - declaración de exportación como base de verificación de los reembolsos del IVA | Administración General de Aduanas de China (海关总署 GACC) | CN | T1/T2 | VERIFIED | http://www.customs.gov.cn/ | Los datos de declaración de exportación de aduanas son igualados por las autoridades fiscales para verificar el reembolso de impuestos de exportación/reembolso de exención de reembolso |

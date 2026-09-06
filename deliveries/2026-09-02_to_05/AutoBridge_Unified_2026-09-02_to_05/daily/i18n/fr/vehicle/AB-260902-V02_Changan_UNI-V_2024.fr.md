@@ -13,7 +13,7 @@
 
 ## Qu'est-ce que cette voiture?
 
-La Berline compacte de Changan, un modèle essence monocoque à cinq portes, cinq places, est une berline compacte à dos rapide, avec une ligne de toit de style coupé et un spoiler arrière actif aux qualités supérieures. C'est une voiture **ICE (essence)**, destinée aux acheteurs qui veulent une silhouette sportive plutôt qu'un VUS ou une motorisation électrifiée. Cette page documente la ligne du marché chinois ** 2024 (Marché de la REFERENCE: CHINE)**; la garniture représentative est la 1.5T 尊贵型, avec 1.5T de haute énergie/ 尊享 / 智慧领航 de qualité et 2.0T versions supplémentaires. Changan expédie également un UNI-V d'exportation vers certains marchés étrangers, mais les spécifications d'exportation doivent être lues à partir du matériel officiel du marché de destination, non déduit des feuilles chinoises.
+La Berline compacte de Changan, un modèle essence monocoque à cinq portes, cinq places, est une berline compacte à dos rapide, avec une ligne de toit de style coupé et un spoiler arrière actif aux qualités supérieures. C'est une voiture **ICE (essence)**, destinée aux acheteurs qui veulent une silhouette sportive plutôt qu'un VUS ou une motorisation électrifiée. Cette page documente la ligne du marché chinois ** 2024 (Marché de la REFERENCE: CHINE)**; la garniture représentative est la 1.5T 尊贵型, avec 1.5T de haute énergie/ 尊享 智慧领航 de qualité et 2.0T versions supplémentaires. Changan expédie également un UNI-V d'exportation vers certains marchés étrangers, mais les spécifications d'exportation doivent être lues à partir du matériel officiel du marché de destination, non déduit des feuilles chinoises.
 
 ## Ligne de moteurs et décision 1.5T vs 2.0T
 
@@ -21,8 +21,8 @@ Contrairement à un EV à une seule motorisation, la décision d'achat d'UNI-V c
 
 | Groupe motopropulseur | Moteur | Puissance/couple | Transmission | Vitesse maximale | Combustible combiné WLTC |
 |---|---|---|---|---|---|
-| 1.5T (Blue Whale NE) | Turbo L4 essence | 138 kW (188 PS) / 300 N·m | 7-speed double embrayage humide (7DCT) | 205 km/h | 6.37 L / 100 km (尊贵型); 6.2 (高能版) |
-| 2.0T | Turbo L4 essence | 171 kW (233 PS) / 390 N·m | Convertisseur de couple automatique 8-speed (8AT) | 215 km/h | 6.9 L/100 km |
+| 1.5T (Blue Whale NE) | Turbo L4 essence | 138 kW (188 PS) 300 N·m | 7-speed double embrayage humide (7DCT) | 205 km/h | 6.37 L 100 km (尊贵型); 6.2 (高能版) |
+| 2.0T | Turbo L4 essence | 171 kW (233 PS) 390 N·m | Convertisseur de couple automatique 8-speed (8AT) | 215 km/h | 6.9 L/100 km |
 
 Le 1.5T Bleu Les chiffres de baleines et les 7DCT sont **VERIFIED** contre le site officiel de Changan et assortis des bases de données des véhicules. La sortie 2.0T, 8AT et son chiffre carburant sont CROSS_CHECKED sur PCauto et Autohome. Notez la différence de boîte de vitesses délibérée: le 1.5T utilise un double embrayage humide tandis que le 2.0T utilise un automatique 8-speed conventionnel — une distinction significative pour les acheteurs de flotte qui préfèrent la durabilité du convertisseur de couple, et quelque chose à indiquer explicitement sur le bon de commande plutôt que de supposer que « la boîte de vitesses automatique signifie la même ».
 
@@ -36,7 +36,7 @@ La longueur hors tout est la seule figure qui change par grade, de sorte qu'une 
 |---|---|
 | Longueur × Largeur × Hauteur | 4720 × 1838 × 1430 mm (1.5T 尊贵型); 4680 mm (高能版); 4705 mm (2.0T) |
 | Empattement | 2750 mm (toutes les garnitures, confirmées officiellement) |
-| Suspension | Front MacPherson indépendant / arrière multi-lien indépendant |
+| Suspension | Front MacPherson indépendant arrière multi-lien indépendant |
 | Corps | 5-door 5-seat fastback, monocoque |
 | Poids de la courbure | ~ 1415 kg pour le 1.5T 尊享型 (source unique: Autohome — confirmer sur la plaque VIN) |
 
@@ -44,7 +44,7 @@ L'empattement constant 2750 mm et la suspension arrière indépendante transport
 
 ## Classes de trim et d'équipement
 
-La gamme 2024 Chine couvre plusieurs grades 1.5T (高能, 尊贵, 尊享, 智慧领航) et 2.0T 高能 / 经典运动. Pour la commande d'exportation, l'approche pratique consiste à demander la chaîne **exacte de grade chinois plus une liste d'équipement** pour chaque unité: les paquets d'apparence sportive, le spoiler actif, les caractéristiques d'aide au conducteur et les tailles d'écran se déplacent entre les grades, et les noms de grade ne traduisent pas un pour un en noms de coupe outre-mer.
+La gamme 2024 Chine couvre plusieurs grades 1.5T (高能, 尊贵, 尊享, 智慧领航) et 2.0T 高能 经典运动. Pour la commande d'exportation, l'approche pratique consiste à demander la chaîne **exacte de grade chinois plus une liste d'équipement** pour chaque unité: les paquets d'apparence sportive, le spoiler actif, les caractéristiques d'aide au conducteur et les tailles d'écran se déplacent entre les grades, et les noms de grade ne traduisent pas un pour un en noms de coupe outre-mer.
 
 ## Carburant, émissions et entretien — Vérifier à destination
 
@@ -63,7 +63,7 @@ Les tables de configuration listent les moteurs et les grades mais cachent l'app
 
 ## Demande de contingentation à l'exportation actuelle
 
-Il n'y a pas de prix à l'exportation statique AutoBridge. Le RMB 108, 900–139, 900 Le prix d'orientation chinois est une référence nationale (en fonction du temps, pas une cote FOB/CIF)**. Demander une offre en direct avec **Pays de destination · Quantité · Groupe motopropulseur et trim · LHD/RHD · Port de destination · Incoterm**.
+Il n'y a pas de prix à l'exportation statique AutoBridge. Le RMB 108,900–139,900 Le prix d'orientation chinois est une référence nationale (en fonction du temps, pas une cote FOB/CIF)**. Demander une offre en direct avec **Pays de destination · Quantité · Groupe motopropulseur et trim · LHD/RHD · Port de destination · Incoterm**.
 
 ## FAQ de l'acheteur
 
@@ -90,34 +90,34 @@ Il n'y a pas de prix à l'exportation statique AutoBridge. Le RMB 108, 900–139
 - IMAGE_RIGHTS_STATUS: FAIL (aucun actif autorisé capturé; un détenteur de place ou -tain vieille image - Note n'est pas accepté)
 - C'est une question de "relation" Aucune image réutilisable ne peut être sécurisée: Wikimedia Commons/Flickr sont inaccessibles depuis l'environnement de recherche, les bibliothèques de stock nécessitent un accès authentifié API/licence, et une image de page web OEM n'est PAS une subvention de réutilisation commerciale; aucune photo appartenant à AutoBridge n'existe. Il a gardé la FAIL plutôt que de l'affirmer.
 - ALAT par langue:
-  - **EN**: AutoBridge export-buyer reference — Changan UNI-V, petrol/diesel Chinese-market vehicle / sedan
-  - **FR**: Référence AutoBridge pour acheteurs export — Changan UNI-V, véhicule thermique (marché chinois) / berline
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Changan UNI-V, Verbrenner (chinesischer Markt) / Limousine
-  - **ES**: Referencia AutoBridge para compradores de exportación — Changan UNI-V, vehículo de combustión (mercado chino) / berlina
-  - **PT**: Referência AutoBridge para compradores de exportação — Changan UNI-V, veículo a combustão (mercado chinês) / sedã
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Changan UNI-V, 中国市場仕様 内燃機関車 / セダン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Changan UNI-V, 중국 시장 내연기관 차량 / 세단
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Changan UNI-V, xe động cơ đốt trong (thị trường Trung Quốc) / sedan
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Changan UNI-V, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถเก๋งซีดาน
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Changan UNI-V, kendaraan mesin pembakaran (pasar Tiongkok) / sedan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Changan UNI-V, مركبة بمحرك احتراق (سوق الصين) / سيدان
-  - **ZH**: AutoBridge 出口采购参考｜Changan UNI-V, 中国市场燃油车 / 轿车
+  - **EN**: AutoBridge export-buyer reference — Changan UNI-V, petrol/diesel Chinese-market vehicle sedan
+  - **FR**: Référence AutoBridge pour acheteurs export — Changan UNI-V, véhicule thermique (marché chinois) berline
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Changan UNI-V, Verbrenner (chinesischer Markt) Limousine
+  - **ES**: Referencia AutoBridge para compradores de exportación — Changan UNI-V, vehículo de combustión (mercado chino) berlina
+  - **PT**: Referência AutoBridge para compradores de exportação — Changan UNI-V, veículo a combustão (mercado chinês) sedã
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Changan UNI-V, 中国市場仕様 内燃機関車 セダン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Changan UNI-V, 중국 시장 내연기관 차량 세단
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Changan UNI-V, xe động cơ đốt trong (thị trường Trung Quốc) sedan
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Changan UNI-V, รถเครื่องยนต์สันดาป (ตลาดจีน) รถเก๋งซีดาน
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Changan UNI-V, kendaraan mesin pembakaran (pasar Tiongkok) sedan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Changan UNI-V, مركبة بمحرك احتراق (سوق الصين) سيدان
+  - **ZH**: AutoBridge 出口采购参考｜Changan UNI-V, 中国市场燃油车 轿车
 
 ## Sources et vérification
 
 | Titre de la source | Organisation | Marché | URL | Vérification | Confiance | Faits corroborés |
 |---|---|---|---|---|---|---|
 | UNI-V 高能版 official page | Changan Automobile (officielle) | NC | https://www.changan.com.cn/car/UNI-V-high/ | 2026-09-02 | VÉRIFIER | Plage de dimensions, 2750 mm empattement, voie |
-| UNI-V 2nd-gen official page | Changan Automobile (officielle) | NC | https://www.changan.com.cn/car/UNI-V-2nd/ | 2026-09-02 | VÉRIFIER | Rorqual bleu 1.5T 138 kW / 300 N·m, 7DCT |
+| UNI-V 2nd-gen official page | Changan Automobile (officielle) | NC | https://www.changan.com.cn/car/UNI-V-2nd/ | 2026-09-02 | VÉRIFIER | Rorqual bleu 1.5T 138 kW 300 N·m, 7DCT |
 | 2024 1.5T 尊贵型 configuration | Auto-home (汽车之家) | NC | https://dealer.autohome.com.cn/2173671/spec_66852.html | 2026-09-02 | _CHECTURE | 1.5T sortie, 4720 mm longueur, WLTC 6.37 |
-| 2024 Tableau de configuration UNI-V | PCauto (太平洋汽车) | NC | https://car.pcauto.com.cn/360/m128895/config.html | 2026-09-02 | _CHECTURE | 2.0T 171 kW / 390 N·m, 8AT, consommation de carburant, prix intérieur |
+| 2024 Tableau de configuration UNI-V | PCauto (太平洋汽车) | NC | https://car.pcauto.com.cn/360/m128895/config.html | 2026-09-02 | _CHECTURE | 2.0T 171 kW 390 N·m, 8AT, consommation de carburant, prix intérieur |
 | Page spéciale UNI-V | Config autohome | NC | https://www.autohome.com.cn/config/spec/66851.html | 2026-09-02 | SOURCE UNIQUE | Poids de la courbe (source unique) |
 | Nouveau rapport de lancement UNI-V | Ifeng Auto (凤凰网汽车) | NC | https://auto.ifeng.com/c/8Y79qxCFD3L | 2026-09-02 | _CHECTURE | Suspension MacPherson/multi-lien, entraînement |
 
 * Note de confiance (standard AutoBridge): la motorisation 1.5T et l'empattement 2750 mm sont VÉRIFIÉS sur les pages de Changan (officiel fabricant). Les 2.0T chiffres sont CROSS_CHECKED dans les bases de données indépendantes; le poids de la limite est SINGLE_ SOURCE et doit être jumelée à la plaque de conformité. *
 
 ## Révision de la rédaction
-- **Auteur / réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)
+- **Auteur réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)
 - **Dernière révision**: 2026-09-05
 - **Marché de référence**: Chine, 2024 année de modèle (page modèle à jamais; exportation UNI-V régie par des feuilles de destination)
 - ** Méthode de vérification**: pages officielles croisées avec des bases de données indépendantes; éléments à source unique étiquetés

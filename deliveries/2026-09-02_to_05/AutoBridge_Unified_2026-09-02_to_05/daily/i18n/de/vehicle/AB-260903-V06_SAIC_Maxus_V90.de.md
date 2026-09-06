@@ -11,14 +11,14 @@
 - **ALT Vorschläge**: "SAIC Maxus V90 Langradstand Hochdach Van"; "V90 Dieselmotor und Hinterachse Optionen"
 
 ## Käuferkontext: Bestellen Sie einen Konfigurationscode, keinen Namen
-Der Xintu V90 ist eine ** leichte kommerzielle Plattform für den Großraumkörper **, die als Passagier-Minibus, Paneel / Frachtwagen und nacktes Fahrgestell-Fahrerhaus über mehrere Radstände, Dachhöhen, Sitzplätze und einzelne / zwei Hinterräder verkauft wird. Es gibt keine einzige "V90 spec". Die Aufgabe des Exporteurs besteht darin, den ** genauen homologierten Modellcode (公告型号)** zu fixieren und dann Motor, Getriebe, Achse, Karosserie und Sitze daran anzupassen - weil die Bestimmungsortzertifizierung für diese spezifische Konfiguration durchgeführt wird. REFERENZMARKT: **CHINA**.
+Der Xintu V90 ist eine ** leichte kommerzielle Plattform für den Großraumkörper **, die als Passagier-Minibus, Paneel Frachtwagen und nacktes Fahrgestell-Fahrerhaus über mehrere Radstände, Dachhöhen, Sitzplätze und einzelne zwei Hinterräder verkauft wird. Es gibt keine einzige "V90 spec". Die Aufgabe des Exporteurs besteht darin, den ** genauen homologierten Modellcode (公告型号)** zu fixieren und dann Motor, Getriebe, Achse, Karosserie und Sitze daran anzupassen - weil die Bestimmungsortzertifizierung für diese spezifische Konfiguration durchgeführt wird. REFERENZMARKT: **CHINA**.
 
 ## Motor und Antriebsstrang (kommerzieller Dieselfokus)
 | Position | V90 Bezugsnummer: China |
 |---|---|
 | Motor | SAIC π ("PI") 2.0 L Turbodiesel-Inline-4 |
-| Stromgrößen | 110 kW (≈150 PS) / 130 kW (≈177 PS) |
-| Drehmomentgrad | 375 N·m / 400–420 N·m |
+| Stromgrößen | 110 kW (≈150 PS) 130 kW (≈177 PS) |
+| Drehmomentgrad | 375 N·m 400–420 N·m |
 | Übertragung | 6-speed Automatik **oder ** ZF 8-speed automatisch |
 | Layout | Vorderer Motor, **Hinterradantrieb**; **Zweirad-Hinterräder optional** |
 | Kraftstoff | Dieselkraftstoff — Bestätigung der Toleranz der Kraftstoffqualität und der Bestimmungsemissionsstufe |
@@ -26,10 +26,10 @@ Der Xintu V90 ist eine ** leichte kommerzielle Plattform für den Großraumkörp
 Für einen Diesel-Werbespot sollten Käufer Drehmomentgrad und Hinterachs-Radwahl (Einzel- und Zweiradreifen) mit der beabsichtigten Nutzlast vergleichen, nicht nur mit der Spitzenleistung. Das ZF 8AT ist das übergeordnete Getriebe; nicht davon ausgehen, dass jede Klasse es hat.
 
 ## Fahrwerk, Radstand und Karosseriematrix
-- Beispielhafter Standard-Längenkörper L x W x H: **5498 / 2062 / 2535–2545 mm**; Es gibt auch längere Körper.
-- Radstände: ** 3366 mm / 3760 mm **.
-- ** Sitzplätze in der Passagierversion: 9–15, ausschließlich nach dem homologierten Modell (Single-Source; Bestätigung auf dem Ankündigungs- / Modellcode) **.
-- Dachhöhe, Schiebe- / Hecktürlayout, Fracht-gegen-Fahrgast-Innenraum und Fahrgestell-Fahrerhaus-Varianten ändern die Nutzungs- und Lizenzkategorie der GVW-Klasse.
+- Beispielhafter Standard-Längenkörper L x W x H: **5498 2062 2535–2545 mm**; Es gibt auch längere Körper.
+- Radstände: ** 3366 mm 3760 mm **.
+- ** Sitzplätze in der Passagierversion: 9–15, ausschließlich nach dem homologierten Modell (Single-Source; Bestätigung auf dem Ankündigungs- Modellcode) **.
+- Dachhöhe, Schiebe- Hecktürlayout, Fracht-gegen-Fahrgast-Innenraum und Fahrgestell-Fahrerhaus-Varianten ändern die Nutzungs- und Lizenzkategorie der GVW-Klasse.
 
 Da Radstand, Dach, Sitze und Hinterachswahl in viele homologierte Codes kombiniert werden, kann eine von einem V90 kopierte Spezifikationslinie nicht auf einen anderen angewendet werden - fordern Sie das Baublatt für den genauen Modellcode an, bevor Sie zitieren.
 
@@ -46,7 +46,7 @@ Da Radstand, Dach, Sitze und Hinterachswahl in viele homologierte Codes kombinie
 - Container vs RoRo: Bei ~ 5.5 m und hohem Dach bestätigen Sie die tatsächliche Verstauungsmethode aus einem Ladeplan, anstatt anzunehmen, dass 40HQ zu einem hohen Dach passt.
 
 ## Beantragen Sie eine aktuelle Ausfuhrquote
-Kein statischer Exportpreis und kein chinesischer MSRP wurden in diesem Forschungspaket erfasst; keiner ist erfunden. Erkundigen Sie sich bei **Zielland · Exakter Modellcode / Körper · Sitze · Power & Gearbox · LHD / RHD · Zielhafen · Incoterm **.
+Kein statischer Exportpreis und kein chinesischer MSRP wurden in diesem Forschungspaket erfasst; keiner ist erfunden. Erkundigen Sie sich bei **Zielland · Exakter Modellcode Körper · Sitze · Power & Gearbox · LHD RHD · Zielhafen · Incoterm **.
 
 ## Häufig gestellte Fragen
 **Wie viele Sitze hat ein V90?** Die Passagierversion reicht 9–15 Sitze abhängig vom homologierten Modellcode; Es gibt keine einzige Antwort ohne den Code.
@@ -68,35 +68,35 @@ Kein statischer Exportpreis und kein chinesischer MSRP wurden in diesem Forschun
 - IMAGE_RIGHTS_STATUS: FAIL (kein lizenziertes Asset erfasst; ein Platzhalter oder ein Hinweis „altes Bild behalten wird nicht akzeptiert)
 - BLOCK_REASON: Es konnte kein wiederverwendbares Bild gesichert werden: Wikimedia Commons/Flickr sind aus der Forschungsumgebung nicht erreichbar, Lagerbibliotheken erfordern authentifizierten API/Lizenzzugriff und ein OEM-Webseitenbild ist KEIN kommerzielles Wiederverwendungsstipendium; es gibt kein AutoBridge-eigenes Foto. Nein, aber nicht nur vereitelt.
 - ALT nach Sprache:
-  - **EN**: AutoBridge export-buyer reference — SAIC Maxus Xintu V90, petrol/diesel Chinese-market vehicle / cargo van
-  - **FR**: Référence AutoBridge pour acheteurs export — SAIC Maxus Xintu V90, véhicule thermique (marché chinois) / fourgon
-  - **DE**: AutoBridge-Referenz für Exportkäufer — SAIC Maxus Xintu V90, Verbrenner (chinesischer Markt) / Kastenwagen
-  - **ES**: Referencia AutoBridge para compradores de exportación — SAIC Maxus Xintu V90, vehículo de combustión (mercado chino) / furgoneta de carga
-  - **PT**: Referência AutoBridge para compradores de exportação — SAIC Maxus Xintu V90, veículo a combustão (mercado chinês) / furgão de carga
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜SAIC Maxus Xintu V90, 中国市場仕様 内燃機関車 / 貨物バン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜SAIC Maxus Xintu V90, 중국 시장 내연기관 차량 / 카고 밴
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — SAIC Maxus Xintu V90, xe động cơ đốt trong (thị trường Trung Quốc) / xe van chở hàng
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — SAIC Maxus Xintu V90, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถตู้บรรทุก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — SAIC Maxus Xintu V90, kendaraan mesin pembakaran (pasar Tiongkok) / van kargo
-  - **AR**: مرجع AutoBridge لمشتري التصدير — SAIC Maxus Xintu V90, مركبة بمحرك احتراق (سوق الصين) / شاحنة فان للبضائع
-  - **ZH**: AutoBridge 出口采购参考｜SAIC Maxus Xintu V90, 中国市场燃油车 / 厢式货车
+  - **EN**: AutoBridge export-buyer reference — SAIC Maxus Xintu V90, petrol/diesel Chinese-market vehicle cargo van
+  - **FR**: Référence AutoBridge pour acheteurs export — SAIC Maxus Xintu V90, véhicule thermique (marché chinois) fourgon
+  - **DE**: AutoBridge-Referenz für Exportkäufer — SAIC Maxus Xintu V90, Verbrenner (chinesischer Markt) Kastenwagen
+  - **ES**: Referencia AutoBridge para compradores de exportación — SAIC Maxus Xintu V90, vehículo de combustión (mercado chino) furgoneta de carga
+  - **PT**: Referência AutoBridge para compradores de exportação — SAIC Maxus Xintu V90, veículo a combustão (mercado chinês) furgão de carga
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜SAIC Maxus Xintu V90, 中国市場仕様 内燃機関車 貨物バン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜SAIC Maxus Xintu V90, 중국 시장 내연기관 차량 카고 밴
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — SAIC Maxus Xintu V90, xe động cơ đốt trong (thị trường Trung Quốc) xe van chở hàng
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — SAIC Maxus Xintu V90, รถเครื่องยนต์สันดาป (ตลาดจีน) รถตู้บรรทุก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — SAIC Maxus Xintu V90, kendaraan mesin pembakaran (pasar Tiongkok) van kargo
+  - **AR**: مرجع AutoBridge لمشتري التصدير — SAIC Maxus Xintu V90, مركبة بمحرك احتراق (سوق الصين) شاحنة فان للبضائع
+  - **ZH**: AutoBridge 出口采购参考｜SAIC Maxus Xintu V90, 中国市场燃油车 厢式货车
 
 ## Quellen & Verifizierung
 | Quelle: | Organisation | Markt | URL | Geprüft | Vertrauen | Belegte Fakten |
 |---|---|---|---|---|---|---|
 | Xintu V90 Konfiguration (5498 Körper) | Sohu Auto Datenbank | CN | https://db.m.auto.sohu.com/model_5902/config?sliding=1&selectedTrimId=173112 | 2026-09-03 | CROSS_CHECKED | Klasse, Abmessungen des Körpers |
 | SAIC π 2.0T Diesel-Triebwerkslinie | PCauto-Enzyklopädie | CN | http://m.pcauto.com.cn/baike/806544/1579332/ | 2026-09-03 | CROSS_CHECKED | 110/130 kW, 375 N·m; RWD, Doppelhinterrad |
-| V90 2025 130 kW / 420 N·m | 16888 Auto | CN | https://m.16888.com/news/2026/0728/24803230.html | 2026-09-03 | CROSS_CHECKED | 130 kW/420 N·m, ZF 8AT, 9–15 Sitzplätze Single-Source |
+| V90 2025 130 kW 420 N·m | Auto | CN | https://m.16888.com/news/2026/0728/24803230.html | 2026-09-03 | CROSS_CHECKED | 130 kW/420 N·m, ZF 8AT, 9–15 Sitzplätze Single-Source | 16888
 | Xintu V90 2024 Parameter | Sina Auto Datenbank | CN | http://db.auto.sina.cn/car/71018/ | 2026-09-03 | CROSS_CHECKED | 5498/2062/2545, Radstände 3366/3760 |
 | Straßenfahrzeughersteller und -produktkatalog — öffentliches Abfragesystem | MIIT, China Ministerium für Industrie und Informationstechnologie | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | ÜBERPRÜFUNG | Überprüfen Sie den Hersteller, das zugelassene Modell und die Homologation (公告) Katalogeintrag vor der Bestellung oder Export |
 | GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Staatliche Verwaltung für Marktregulierung | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | ÜBERPRÜFUNG | Technische Rahmenbedingungen für die Fahrzeugsicherheit in China und der aktuelle/revisionsbezogene Zeitplan |
 | GB 18352.6-2016 mit Änderung XG1-2026 (Schadstoffemissionen von leichten Fahrzeugen China-6) | Ministerium für Ökologie und Umwelt (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | ÜBERPRÜFUNG | China-6 Lichtfahrzeug-Emissionsstufe und die 2026 Änderungs-Umsetzungsdaten |
-| GB 19147 Automobildieselkraftstoff nationale Norm (Schwefelarmbasis) | SAMR nationale Standards Volltext-Plattform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | ÜBERPRÜFUNG | Dieselkraftstoffqualität und Schwefelbasis entsprechen dem Motor- / Emissionsdesign in Übersee |
+| GB 19147 Automobildieselkraftstoff nationale Norm (Schwefelarmbasis) | SAMR nationale Standards Volltext-Plattform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | ÜBERPRÜFUNG | Dieselkraftstoffqualität und Schwefelbasis entsprechen dem Motor- Emissionsdesign in Übersee |
 
 *Vertrauensbeweis: Es wurde kein primäres Spec-Sheet von SAIC Maxus erfasst; die Werte werden in chinesischen Datenbanken abgeglichen, die Sitzanzahl ist Single-Source und an den homologierten Modellcode gebunden. Es gab keinen Preis und es wird auch keiner behauptet. Die Bestimmungsgenehmigung ist konfigurationsspezifisch. *
 
 ## Editorial Review
-- **Autor / Rezensent**: [AutoBridge Export Editorial Team](/Autoren/) · Methode nach unserer [Editorial Policy](/editorial-policy/]
+- **Autor Rezensent**: [AutoBridge Export Editorial Team](/Autoren/) · Methode nach unserer [Editorial Policy](/editorial-policy/]
 - **Zuletzt überprüft**: 2026-09-05
 - **Referenzmarkt**: China, Xintu V90 Plattform (Chinesische Marktreferenz; konfigurationsspezifisch)
 - **Verifizierungsmethode**: Multi-Datenbank-Cross-Check; Konfigurationsmatrix-Logik; Single-Source-Sitze gekennzeichnet

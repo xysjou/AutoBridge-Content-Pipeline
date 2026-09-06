@@ -10,33 +10,33 @@
 - **Sugerencias de imagen**: vista lateral de una caída de L6; estructura oficial de chasis y trazado de eje trasero; motor de la bahía del diesel HFC4DE3 2.5; comparación de los cuerpos de deserción/recuadro/recepto; single-row 1920 mm cab
 - **Sugerencias de ALT**: "JAC Lingpao L6 4x2 camión de la deriva diésel"; "Lingpao L6 180 mm marco de chasis y eje trasero 4T/5T"; "Anhui Cummins HFC4DE3 2.5-litre motor diesel"
 ## Por qué un L6 está ordenado por el Código de Chasis, no por un nombre modelo
-Un camión comercial de luz china no es una especificación fija del coche de pasajeros: el **Lingpao L6 (领跑 L6, vendido bajo la línea de cable de luz 1Ka / 康铃 de JAC)** es una familia *chassis* que JAC construye con varios motores, dos base de ruedas, dos clasificaciones de eje trasero y muchos cuerpos de fábrica o de autos (dropside 栏板, caja 厢式, 仓栅 Cada combinación legal lleva su propio **MIIT modelo de anuncio (公告型号)** y su propio peso rizado / carga útil nominal. "Un L6 " por lo tanto no dice nada preciso hasta que se nombre el modelo de anuncio, sufijo de motor y cuerpo. Esta página separa lo que JAC publica oficialmente sobre la plataforma del anuncio único construido capturado en la base de datos comercial-vehículo, por lo que un importador puede ordenar un camión definido en lugar de un nombre.
+Un camión comercial de luz china no es una especificación fija del coche de pasajeros: el **Lingpao L6 (领跑 L6, vendido bajo la línea de cable de luz 1Ka 康铃 de JAC)** es una familia *chassis* que JAC construye con varios motores, dos base de ruedas, dos clasificaciones de eje trasero y muchos cuerpos de fábrica o de autos (dropside 栏板, caja 厢式, 仓栅 Cada combinación legal lleva su propio **MIIT modelo de anuncio (公告型号)** y su propio peso rizado carga útil nominal. "Un L6 " por lo tanto no dice nada preciso hasta que se nombre el modelo de anuncio, sufijo de motor y cuerpo. Esta página separa lo que JAC publica oficialmente sobre la plataforma del anuncio único construido capturado en la base de datos comercial-vehículo, por lo que un importador puede ordenar un camión definido en lugar de un nombre.
 ## La Plataforma, por Tabla de Configuración Oficial de JAC
 Los siguientes hechos a nivel de plataforma se toman de la tabla oficial de configuración Lingpao L6 del vehículo comercial **JAC (cv.jac.cn, VERIFIED, comprobado 2026-09-03)** y son estables en toda la familia:
 | Tema de la plataforma | Valor oficial del Comité Mixto |
 |---|---|
-| Ancho de cabina | 1920 mm (anchura estándar / 33-mid cabina), una sola hoja y mediana costra |
+| Ancho de cabina | 1920 mm (anchura estándar 33-mid cabina), una sola hoja y mediana costra |
 | Base de rueda principal | 3365 mm (una versión de 3600 mm largos existe en trenes de potencia seleccionados) |
 | Sección de marco de chasis | 180 × 65 × 4.5 mm |
 | Axila frontal | 2 T |
 | Axila trasera | 4 T / 5 T (a reinforced 10, 000 N / 13, 000 N opción en algunas líneas) |
-| Coeficientes de goteo final | 4.875 / 4.33 (4.11 en líneas seleccionadas) |
-| Familias de combustible/poder ofrecidas | Zhiwei S25 (Q25A al estilo de gasolina), **Ankang 2.5 (Anhui-Cummins HFC4DE3 diesel)**, Ankang 3.0 cadena fría, YN30 gas / combustible dual, Dekang 160B/C, DHE155 |
-El diesel más relevante para la exportación es el **Ankang (安康) 2.5 **, utilizando la familia Anhui-Cummins ** HFC4DE3 **. La tabla de JAC enumera tres sufijos — ** HFC4DE3-2E5 / - 2EA / - 2E9 — en 111 / 117 / 125 kW **, con pasos de par de ** 360 y 458 N·m **. Esto importa porque los revendedores suelen citar una sola figura " 160 hp / 460 N·m" que no coincide con cada sufijo; el paso de potencia y el par debe ser leído del sufijo exacto del motor y certificado de anuncio.
+| Coeficientes de goteo final | 4.875 4.33 (4.11 en líneas seleccionadas) |
+| Familias de combustible/poder ofrecidas | Zhiwei S25 (Q25A al estilo de gasolina), **Ankang 2.5 (Anhui-Cummins HFC4DE3 diesel)**, Ankang 3.0 cadena fría, YN30 gas combustible dual, Dekang 160B/C, DHE155 |
+El diesel más relevante para la exportación es el **Ankang (安康) 2.5 **, utilizando la familia Anhui-Cummins ** HFC4DE3 **. La tabla de JAC enumera tres sufijos — ** HFC4DE3-2E5 - 2EA - 2E9 — en 111 117 125 kW **, con pasos de par de ** 360 y 458 N·m **. Esto importa porque los revendedores suelen citar una sola figura " 160 hp 460 N·m" que no coincide con cada sufijo; el paso de potencia y el par debe ser leído del sufijo exacto del motor y certificado de anuncio.
 ## Un representante anunció la construcción (database, CROSS_CHECKED)
 Para mostrar cómo una fila de plataforma se convierte en un camión de hormigón, la construcción capturada es el **dropside HFC1043P21K4C7S, 4 × 2 **, con cifras de 360che/ 卡车之家 datos de anuncio y un cheque cruzado de la familia JAC (CROSS_CHECKED; capturado 2026-09-02, re-checked contra la tabla JAC 2026-09-03):
 | Tema | HFC1043P21K4C7S dropside (por datos de anuncio) |
 |---|---|
-| Conducir / rueda de la rueda | 4×2 / 3365 mm |
+| Conducir rueda de la rueda | 4×2 3365 mm |
 | L×W×H en general | 5.995 × 2.20 × 2.48 m |
 | Cab | Cumpleaños, 1920 mm, 3 asientos |
 | Motor | Serie Anhui-Cummins HFC4DE3, 2.499 L inline- 4 diesel, China VI |
 | Caja de cambios | Manual JAC ML645B 6-speed (un Fast 8-speed se utiliza en algunas otras L6 variantes) |
 | Frenos | Frenos al aire completo con freno de estacionamiento de primavera |
-| Curb / carga útil nominal / GVW | 2.565 t / 1.735 t / **4.495 t** |
-| Axila delantera / trasera | 2 T (1600 kg permitidos) / 4 T (2895 kg grupo), ratio 4.875 |
+| Curb carga útil nominal GVW | 2.565 t 1.735 t **4.495 t** |
+| Axila delantera trasera | 2 T (1600 kg permitidos) 4 T (2895 kg grupo), ratio 4.875 |
 | Tyres | 7.00R16LT 8PR, seis ruedas |
-| Manantiales de hoja | 4 / 5+6 |
+| Manantiales de hoja | 4 5+6 |
 | Cuerpo desplegable | 4.18 × 2.10 × 0.40 m |
 ### Por qué el mismo " L6" puede mostrar diferentes pesos
 El anuncio de la hermana construye diferentes cuerpos y por lo tanto diferentes masas: la caja (厢式,  HFC5043XY… series)  and  (仓栅,  HFC5043CCY… series) bodies are heavier,  with curb weight around 2.7–2.8 t  and  payload nominal cerca de 1.5 t en el mismo ~ 4.495 t GVW. Nunca copie una figura de carga útil desplegable en una caja o reefer build — releerla del certificado de anuncio de ese cuerpo.
@@ -60,9 +60,9 @@ Los sitios de parámetro público enumeran una configuración a la vez y rara ve
 No China se promueve el precio nacional a una cifra de exportación y no se inventa ninguno aquí. Solicitar presupuesto en directo con **Destination Country · Cantidad · Anuncio Modelo/Engine Suffix · Tipo de cuerpo · Axle/Ratio · LHD/RHD · Puerto de destino · Incoterm**, y pedir que se adjunta la hoja de especificación oficial del JAC y el certificado de anuncio.
 ## Preguntas frecuentes
 **¿Es "Lingpao L6 "una especificación fija?** No — es una familia de chasis con varios motores, base de ruedas, calificaciones de eje y cuerpos; cada combinación tiene su propio modelo de anuncio MIIT y pesos.
-**¿Qué confirma la tabla oficial del JAC?** 1920 mm taxi, 3365 mm base de rueda principal, 180 × 65 × 4.5 marco,  2 T front / 4–5 T rear axles, 4.875/4.33 ratios,  and  the HFC4DE3 Anhui-Cummins diesel at 111/117/125 kW steps.
-**¿Por qué las fuentes citan diferentes caballos de fuerza para "el mismo" L6 ?** Debido a que el HFC4DE3 tiene tres sufijos con diferentes potencia/torque, y los revendedores a veces citan una etiqueta a través de todos ellos; coinciden con el sufijo en el certificado de anuncio.
-**¿Qué es el GVW y la carga útil?** La construcción de la gota capturada es de 4.495 t GVW / 1.735 t carga útil; caja y construcción de la estaca son más pesados con una carga útil inferior — leer el certificado propio de cada cuerpo.
+**¿Qué confirma la tabla oficial del JAC?** 1920 mm taxi, 3365 mm base de rueda principal, 180 × 65 × 4.5 marco,  2 T front 4–5 T rear axles, 4.875/4.33 ratios,  and  the HFC4DE3 Anhui-Cummins diesel at 111/117/125 kW steps.
+**¿Por qué las fuentes citan diferentes caballos de fuerza para "el mismo" L6 Debido a que el HFC4DE3 tiene tres sufijos con diferentes potencia/torque, y los revendedores a veces citan una etiqueta a través de todos ellos; coinciden con el sufijo en el certificado de anuncio.
+**¿Qué es el GVW y la carga útil?** La construcción de la gota capturada es de 4.495 t GVW 1.735 t carga útil; caja y construcción de la estaca son más pesados con una carga útil inferior — leer el certificado propio de cada cuerpo.
 ¿Hay un automático? El diesel capturado utiliza un manual JAC 6-speed; un Fast 8-speed aparece en ciertas variantes — confirman para la línea exacta en lugar de asumirlo.
 ## Grabación de imagen
 - IMAGE_ASSET_PATH: ninguno asegurado en repositorio
@@ -77,27 +77,27 @@ No China se promueve el precio nacional a una cifra de exportación y no se inve
 - IMAGE_RIGHTS_STATUS: FAIL (no se acepta ningún activo con licencia; no se acepta un titular de posición o “retiene la imagen antigua”)
 - BLOCK_REASON: No se puede asegurar una imagen reutilizable: Wikimedia Commons/Flickr no son accesibles desde el entorno de investigación, las bibliotecas de stock requieren acceso a API/licencia autenticada, y una imagen de página web OEM NO es una subvención comercial de reutilización; no existe foto de propiedad de AutoBridge. Se quedó con la FAIL en lugar de afirmarse.
 - ALT por idioma:
-  - **EN**: AutoBridge export-buyer reference — JAC Kangling Lingpao L6, petrol/diesel Chinese-market vehicle / light truck
-  - **FR**: Référence AutoBridge pour acheteurs export — JAC Kangling Lingpao L6, véhicule thermique (marché chinois) / camion léger
-  - **DE**: AutoBridge-Referenz für Exportkäufer — JAC Kangling Lingpao L6, Verbrenner (chinesischer Markt) / Leicht-Lkw
-  - **ES**: Referencia AutoBridge para compradores de exportación — JAC Kangling Lingpao L6, vehículo de combustión (mercado chino) / camión ligero
-  - **PT**: Referência AutoBridge para compradores de exportação — JAC Kangling Lingpao L6, veículo a combustão (mercado chinês) / caminhão leve
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜JAC Kangling Lingpao L6, 中国市場仕様 内燃機関車 / 小型トラック
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜JAC Kangling Lingpao L6, 중국 시장 내연기관 차량 / 경트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — JAC Kangling Lingpao L6, xe động cơ đốt trong (thị trường Trung Quốc) / xe tải nhẹ
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — JAC Kangling Lingpao L6, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถบรรทุกขนาดเล็ก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — JAC Kangling Lingpao L6, kendaraan mesin pembakaran (pasar Tiongkok) / truk ringan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — JAC Kangling Lingpao L6, مركبة بمحرك احتراق (سوق الصين) / شاحنة خفيفة
-  - **ZH**: AutoBridge 出口采购参考｜JAC Kangling Lingpao L6, 中国市场燃油车 / 轻卡
+  - **EN**: AutoBridge export-buyer reference — JAC Kangling Lingpao L6, petrol/diesel Chinese-market vehicle light truck
+  - **FR**: Référence AutoBridge pour acheteurs export — JAC Kangling Lingpao L6, véhicule thermique (marché chinois) camion léger
+  - **DE**: AutoBridge-Referenz für Exportkäufer — JAC Kangling Lingpao L6, Verbrenner (chinesischer Markt) Leicht-Lkw
+  - **ES**: Referencia AutoBridge para compradores de exportación — JAC Kangling Lingpao L6, vehículo de combustión (mercado chino) camión ligero
+  - **PT**: Referência AutoBridge para compradores de exportação — JAC Kangling Lingpao L6, veículo a combustão (mercado chinês) caminhão leve
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜JAC Kangling Lingpao L6, 中国市場仕様 内燃機関車 小型トラック
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜JAC Kangling Lingpao L6, 중국 시장 내연기관 차량 경트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — JAC Kangling Lingpao L6, xe động cơ đốt trong (thị trường Trung Quốc) xe tải nhẹ
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — JAC Kangling Lingpao L6, รถเครื่องยนต์สันดาป (ตลาดจีน) รถบรรทุกขนาดเล็ก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — JAC Kangling Lingpao L6, kendaraan mesin pembakaran (pasar Tiongkok) truk ringan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — JAC Kangling Lingpao L6, مركبة بمحرك احتراق (سوق الصين) شاحنة خفيفة
+  - **ZH**: AutoBridge 出口采购参考｜JAC Kangling Lingpao L6, 中国市场燃油车 轻卡
 
 ## Fuentes " Verificación "
 | Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |
 |---|---|---|---|---|---|---|
 | Tabla oficial de configuración Lingpao L6 | JAC Commercial Vehicle (JAC 江淮 1 卡, **manufacturer official**) | CN | https://cv.jac.com.cn/kllpL6/ | 2026-09-03 | ################################################################################################################################################################################################################################################################ | Cab 1920, WB 3365, frame 180 × 65 × 4.5, ejes 2T/4–5T, ratios, HFC4DE3 pasos de potencia/torque, lista de potencia-familia completa |
-| L6 HFC5043XY… box/announcement parameters | 360che (卡车之家, DB comercial) | CN | http://product.m.360che.com/m815/203872_param.html | 2026-09-02 | CROSS_CHECKED | Familia modelo de anuncio, motor/gearbox, pesos corporales |
-| L6 parámetros de desplegable representativos | 360che (卡车之家) | CN | http://product.m.360che.com/m815/203878_param.html | 2026-09-02 | CROSS_CHECKED | HFC1043P21K4C7S dimensiones, pesos, ejes, cuerpo, neumáticos |
-| L6 Línea rápida 8 / variante | 360che (卡车之家) | CN | https://product.360che.com/m772/193093_index.html | 2026-09-03 | SINGLE_SOURCE | Caja de cambios alternativo 8-speed, diferencia de propagación |
-*Confianza por el estándar AutoBridge: VERIFIED requiere un cuerpo fabricante/gobierno/estándar; la propia mesa de JAC se reúne con esa barra para hechos de plataforma. Los pesos por denuncia detallados de 360che son CROSS_CHECKED contra la familia JAC, pero aún deben ser igualados al certificado exacto. No se indica ningún precio; el precio de la lista nacional es sensible al tiempo y nunca se utiliza como una cifra de exportación. *
+| L6 HFC5043XY… box/announcement parameters | (卡车之家, DB comercial) | CN | http://product.m.360che.com/m815/203872_param.html | 2026-09-02 | CROSS_CHECKED | Familia modelo de anuncio, motor/gearbox, pesos corporales | 360che
+| L6 parámetros de desplegable representativos | (卡车之家) | CN | http://product.m.360che.com/m815/203878_param.html | 2026-09-02 | CROSS_CHECKED | HFC1043P21K4C7S dimensiones, pesos, ejes, cuerpo, neumáticos | 360che
+| L6 Línea rápida 8 variante | (卡车之家) | CN | https://product.360che.com/m772/193093_index.html | 2026-09-03 | SINGLE_SOURCE | Caja de cambios alternativo 8-speed, diferencia de propagación | 360che
+*Confianza por el estándar AutoBridge: VERIFIED requiere un cuerpo fabricante/gobierno/estándar; la propia mesa de JAC se reúne con esa barra para hechos de plataforma. Los pesos por denuncia detallados de son CROSS_CHECKED contra la familia JAC, pero aún deben ser igualados al certificado exacto. No se indica ningún precio; el precio de la lista nacional es sensible al tiempo y nunca se utiliza como una cifra de exportación. * 360che
 | Fabricantes & catálogo de productos de vehículos de motor de carretera — sistema de consulta pública | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verificar el fabricante, modelo aprobado y homologación (公告) entrada de catálogo antes de ordenar o exportar |
 | GB 16735-2019 Vehículos de carretera - Número de identificación de vehículos (VIN) | SAMR plataforma de texto completo | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | Estructura VIN y campos de datos de placa de nombre utilizados en la verificación VIN/nameplate del comprador |
 | GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Base de referencia en China condiciones técnicas de seguridad del vehículo y el cronograma actual/revisión |

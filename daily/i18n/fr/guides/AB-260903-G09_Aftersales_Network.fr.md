@@ -80,8 +80,8 @@ Une garantie n'est crédible que dans la mesure où le réseau peut l'honorer:
 ## Sources et vérification
 | Titre de la source | Organisation | Marché | URL | Vérification | Confiance | Faits corroborés |
 |---|---|---|---|---|---|---|
-| Avis d'exportation de voiture usagée de quatre ministères (poste 6: système de soutien) | Bibliothèque de politique générale du Conseil d ' État | CN / Global | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | VÉRIFIER | Attentes en matière de politique concernant les ventes après vente/parties/appui technologique |
-| Même avis (système de soutien) | Ministère du commerce | CN / Global | http://www.mofcom.gov.cn/zcfb/dwmygl/art/2025/art_543d1fcc6a1048d5bf301a8d59ed723e.html | 2026-09-03 | VÉRIFIER | Texte de contrepartie du MOFCOM |
+| Avis d'exportation de voiture usagée de quatre ministères (poste 6: système de soutien) | Bibliothèque de politique générale du Conseil d ' État | CN Global | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | VÉRIFIER | Attentes en matière de politique concernant les ventes après vente/parties/appui technologique |
+| Même avis (système de soutien) | Ministère du commerce | CN Global | http://www.mofcom.gov.cn/zcfb/dwmygl/art/2025/art_543d1fcc6a1048d5bf301a8d59ed723e.html | 2026-09-03 | VÉRIFIER | Texte de contrepartie du MOFCOM |
 | Comment les constructeurs automobiles chinois peuvent combler le fossé après-vente outre-mer | Sina Finance | Mondial | https://finance.sina.com.cn/esg/2026-04-27/doc-inhvxpih9178870.shtml | 2026-09-03 | SOURCE UNIQUE | Chemin réseau multimarques; exemple de pièces Melbourne; exemple de garantie 7-yr |
 | Les pièces doivent être systématisées au niveau mondial | Nouvelles de Pékin | Mondial | https://m.bjnews.com.cn/detail/1779683581168283.html | 2026-09-03 | _CHECTURE | Faiblesse des ventes lourdes, du service léger; risque de délégation |
 *Note de portée: les attentes en matière de politique sont officielles; les modèles de réseau et les articles d'entrepôt/de garantie en Australie sont des exemples de l'industrie d'une seule entreprise utilisés à titre d'exemple, et non présentés comme des normes universelles. Ce guide traite des opérations de service et est distinct du groupe d'approvisionnement en pièces de rechange. *
@@ -90,7 +90,7 @@ Une garantie n'est crédible que dans la mesure où le réseau peut l'honorer:
 | Conseil chinois pour la promotion du commerce international (réseau de services commerciaux) | CCPIT | CN/INT'L | http://www.ccpit.org/ | 2026-09-05 | VÉRIFIER | Les canaux institutionnels qui soutiennent la mise en place de réseaux de services à l'étranger |
 
 ## Révision de la rédaction
-- **Auteur / réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)
+- **Auteur réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)
 - **Dernière révision**: 2026-09-05
 - ** Marché/étendue de référence**: Opérations après-vente mondiales (différentes des achats de pièces)
 - ** Méthode de vérification**: politique officielle + analyse de l'industrie; exemples d'entreprises étiquetés comme illustratifs; champ d'application appliqué

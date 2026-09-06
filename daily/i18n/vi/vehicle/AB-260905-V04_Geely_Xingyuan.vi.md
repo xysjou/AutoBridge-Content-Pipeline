@@ -1,13 +1,13 @@
-# Geely Xenguan / Thiên hà Xengyan (2025/2026) — Trung Quốc-Market BOV Spec và Xuất khẩu các hình thức
+# Geely Xenguan Thiên hà Xengyan (2025/2026) — Trung Quốc-Market BOV Spec và Xuất khẩu các hình thức
 
 ## SAO Siêu dữ liệu
 - **SEO Title**: Geely Xinguan (Galaxy Xenguan) BEV: Hướng dẫn xuất và quang cảnh Trung Quốc
 - **Meta Mô tả**: Thị trường Trung Quốc Geely Xenguan/Starwish nhỏ EV: Kiến trúc GEA, RWD,  58/85 kW motors,  310/410 km CLTC, 40.16 kWh dòng  and  xuất khẩu séc mua hàng.
-- ** H1 **: Geely Xengyan / Thiên hà Xenguan (2025/2026) — China-Market BOV Spec và Xuất khẩu
-- **Cuxy 星愿_: Geely / 吉利 Xenguan / 吉利星愿 (Galaxy 星愿) ra đời
+- ** H1 **: Geely Xengyan Thiên hà Xenguan (2025/2026) — China-Market BOV Spec và Xuất khẩu
+- **Cuxy 星愿_: Geely 吉利 Xenguan 吉利星愿 (Galaxy 星愿) ra đời
 - **Secondary Search termss**: Geely Xengyan xuất khẩu; Thiên hà Xengyan MMMM; Geely Starwish; Trung Quốc nhỏ sunpopback; CLTC thành phố EV
-- **Sudeest URL**: /vehicles/geely-xinguan /:
-- **Tìm kiếm ý định**: 了解 Geely / 吉利 Xingyuan / 吉利星愿（Galaxy 星愿） 中国版规格、配置与出口适配性（车型参数页）
+- **Sudeest URL**: /vehicles/geely-xinguan
+- **Tìm kiếm ý định**: 了解 Geely 吉利 Xingyuan 吉利星愿（Galaxy 星愿） 中国版规格、配置与出口适配性（车型参数页）
 - **I nội bộ Link gợi ý**: /vehcles/geely-xinguan/, /guides/ev-shipping- un3556-imdg-compliance-history/, /guides/portport-clictions-Send-user/
 - **Schema Scope**: Điều + xe cộ (không có sản phẩm/ sản phẩm/ văn bản/ Xem lại)
 
@@ -15,24 +15,24 @@
 **Geely Xenguan (Galaxy Xenguan, được bán ở một số thị trường xuất khẩu dưới một tên tiếng Anh riêng biệt)** là một ắc quy ắc quy A0 cửa trên trang web **GEEEA** kiến trúc EV, với **rear-motor/rear-ccar-ccar**. Trang này là đề cập đến thị trường Trung Hoa **; một tên mô hình nước ngoài không được đối xử giống hệt nhau nếu không có một tuyên bố OEM.
 
 ## Name
-- **Body**: 4135 / 1805 / 1570（STAR限定版车长4155） mm (STAR edition 4155 mm long), Bánh xe cơ sở 2650 mm. 5 门 5 座; 后置后驱.
-- **Motors**: 58 / 85 kW tùy chọn.
+- **Body**: 4135 1805 1570（STAR限定版车长4155） mm (STAR edition 4155 mm long), Bánh xe cơ sở 2650 mm. 5 门 5 座; 后置后驱.
+- **Motors**: 58 85 kW tùy chọn.
 - **Battery**: 磷酸铁锂; dòng năng lượng bị bắt là 40.16 kWh cho chiếc xe tầm xa hơn. Một nhà cung cấp tế bào đặc biệt chỉ xuất hiện trong các tài khoản encyclopedia/mmia và ** không phải là OEM- recidented**, do đó nó được giữ lại.
-- **Rage**: 310 / 410 km CLTC (được kiểm tra chéo) — chu kỳ thử nghiệm của Trung Quốc, không phải WLPP.
+- **Rage**: 310 410 km CLTC (được kiểm tra chéo) — chu kỳ thử nghiệm của Trung Quốc, không phải WLPP.
 - **Cargo**: 375 (前备厢 70). 后排放倒 1320) L; Nền tảng GEA 纯电架构.
 - **Peak sạc năng lượng không bị bắt và không được nói ra. **
 
 ## Bảng đặc tả có màu sắc (tham chiếu thị trường Trung Hoa)
 | Chi tiết | Giá trị | Đơn vị | Thị trường | Tin tưởng | Ghi chú nguồn |
 |---|---|---|---|---|---|
-| Chiều dài | 4135 / 1805 / 1570 (Lương số 限定版车长 4155) | mm | TRUNG QUỐC | ĐÃ_ ĐÃ | 搜狐双页 |
+| Chiều dài | 4135 1805 1570 (Lương số 限定版车长 4155) | mm | TRUNG QUỐC | ĐÃ_ ĐÃ | 搜狐双页 |
 | bánh xe cơ sở | 2650 | mm | TRUNG QUỐC | ĐÃ_ ĐÃ | 搜狐 + 腾讯 |
 | Ghế ngồi | 5门5座 | - | TRUNG QUỐC | SINGLE_SOURCE | 搜狐车型库 |
 | bố trí | 后置后驱 | - | TRUNG QUỐC | SINGLE_SOURCE | 腾讯新闻 |
-| Tùy chọn nguồn điện máy | 58 / 85 | kW | TRUNG QUỐC | SINGLE_SOURCE | 搜狐汽车 |
+| Tùy chọn nguồn điện máy | 58 85 | kW | TRUNG QUỐC | SINGLE_SOURCE | 搜狐汽车 |
 | kiểu ắc quy | 磷酸铁锂 | - | TRUNG QUỐC | SINGLE_SOURCE | 搜狐汽车 |
 | dung lượng pin 410 | 40.16 | k Wh | TRUNG QUỐC | SINGLE_SOURCE | 搜狐汽车 |
-| phạm vi cltc | 310 / 410 | km | TRUNG QUỐC | ĐÃ_ ĐÃ | 搜狐 + 腾讯 |
+| phạm vi cltc | 310 410 | km | TRUNG QUỐC | ĐÃ_ ĐÃ | 搜狐 + 腾讯 |
 | khối lượng hàng hóa | 375 (前备厢 70), 后排放倒 1320} | L | TRUNG QUỐC | SINGLE_SOURCE | 搜狐车型库 |
 | Nền | GEA 纯电架构 | - | TRUNG QUỐC | SINGLE_SOURCE | 腾讯新闻 |
 

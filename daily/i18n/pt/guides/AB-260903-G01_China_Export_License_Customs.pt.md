@@ -15,13 +15,13 @@ A maioria das primeiras remessas falha no lado **China, não no destino: o expor
 
 ## Passo 1 — Confirme qual o regime de licença de seu veículo cai abaixo
 A China não usa um cobertor "permissão de exportação de carro". Distinguir as faixas:
-- **Os veículos de passageiros de nova energia / BEV:** os veículos movidos exclusivamente por um motor de transmissão e que transportam um VIN (referência HS 8703801090) estão sob **a administração de licença de exportação** supervisionados conjuntamente pela MOFCOM, MIIT, GAC e SARM (TIME_SENSITIVE — confirmem o aviso atual e o código HS exato em relação ao calendário pautal do ano).
+- **Os veículos de passageiros de nova energia BEV:** os veículos movidos exclusivamente por um motor de transmissão e que transportam um VIN (referência HS 8703801090) estão sob **a administração de licença de exportação** supervisionados conjuntamente pela MOFCOM, MIIT, GAC e SARM (TIME_SENSITIVE — confirmem o aviso atual e o código HS exato em relação ao calendário pautal do ano).
 - ** Veículos usados:** o Estado opera um regime de licença de exportação administrado pela MOFCOM**, e os dados da licença devem corresponder ao certificado de matrícula do veículo (verified, aviso de quatro ministras).
-- ** Veículos novos convencionais / motocicletas:** manipulado através do ** anual exportação-licença de depósito** descrito em seguida.
+- ** Veículos novos convencionais motocicletas:** manipulado através do ** anual exportação-licença de depósito** descrito em seguida.
 O código exato de mercadorias e sua condição regulatória devem ser confirmados em relação à atual Tarifa de Importação e Exportação e ao último anúncio da MOFCOM — não reutilizem a suposição do HS do ano passado.
 
 ## Step 2 — The Annual Licence Filing (qualification before volume)
-MOFCOM emite um aviso anual ** organizando aplicações de exportação de automóveis e motocicletas-licença**. Arquivo de empresas para qualificação; **modificado / upfit veículos devem carregar provas de desempenho, como declarações aduaneiras de exportação e faturas de compra de chassis**. Implicação prática para um comerciante: a qualificação não é instantânea — alinha a janela de arquivamento anual com seu plano de transporte, e mantém a papelada chassis/upfit porque é evidência de desempenho real de exportação.
+MOFCOM emite um aviso anual ** organizando aplicações de exportação de automóveis e motocicletas-licença**. Arquivo de empresas para qualificação; **modificado upfit veículos devem carregar provas de desempenho, como declarações aduaneiras de exportação e faturas de compra de chassis**. Implicação prática para um comerciante: a qualificação não é instantânea — alinha a janela de arquivamento anual com seu plano de transporte, e mantém a papelada chassis/upfit porque é evidência de desempenho real de exportação.
 
 ## Step 3 — The Used-Car 180-Day Rule (a hard, Obrigação datada)
 Por meio da comunicação de quatro ministras sobre o reforço da gestão de exportação de veículos usados (verified): ** a partir de 1 Janeiro 2026, onde um veículo a ser pedido para exportação foi registado no máximo 180 dias antes, o requerente deve complementar o serviço de manutenção pós-venda do OEM; caso contrário, a licença não será emitida. **
@@ -43,7 +43,7 @@ As denominações, VINs, quantidades, valores e códigos SH devem acordar entre 
 O MIIT No. 50 divide fabricantes de veículos rodoviários e de veículos automóveis e produtos em **seis categorias de admissão: automóveis de passageiros, veículos de mercadorias, autocarros, veículos de uso especial, motociclos e reboques**. Por que motivo um exportador se importa: o âmbito de admissão do fabricante determina quais os produtos que podem ser declarados legitimamente. Para veículos de uso especial/reforço, confirme a admissão do chassi de base **e** a qualificação da entidade de superestrutura.
 
 ## O que este guia recomenda que você verifique antes da reserva
-- O regime de licença e o código HS atual** para o veículo exato (BEV / usado / convencional / especial).
+- O regime de licença e o código HS atual** para o veículo exato (BEV usado convencional especial).
 - **Estatuto anual de arquivamento** e, para ajustes, a prova de chassis-invoice/declaração.
 - Para unidades quase novas usadas, a confirmação ** ≤ 180-day OEM pós-venda** antes de aplicar.
 - Um passe de consistência ** (VIN, valor, HS, partes) antes da declaração.
@@ -87,7 +87,7 @@ O MIIT No. 50 divide fabricantes de veículos rodoviários e de veículos autom�
 |---|---|---|---|---|---|---|
 | 2026 Automóvel e motocicleta Aviso de apresentação de licenças de exportação | Ministério do Comércio (MOFCOM) | NC (lado de exportação) | https://www.mofcom.gov.cn/zcfb/zc/art/2025/art_1b1313c9c6da4a56874364b39e39c57d.html | 2026-09-03 | VERIFICADO | Arquivamento anual; comprovativo de desempenho de equipamento |
 | Aviso sobre o reforço da gestão da exportação de veículos usados | Biblioteca de políticas do Conselho de Estado (quatro ministérios) | NC (lado de exportação) | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | VERIFICADO | Regime de licença para veículos automóveis usados; Regra 180-day de 2026-01-01 |
-| Administração de licenças de exportação de passageiros e automóveis da BEV | Diário de Negócios Nacional / Toutiao | NC (lado de exportação) | http://m.toutiao.com/group/7554336546682323496/ | 2026-09-03 | TIM_SENSITIVO | Via de licenciamento BEV, referência HS |
+| Administração de licenças de exportação de passageiros e automóveis da BEV | Diário de Negócios Nacional Toutiao | NC (lado de exportação) | http://m.toutiao.com/group/7554336546682323496/ | 2026-09-03 | TIM_SENSITIVO | Via de licenciamento BEV, referência HS |
 | MIIT Ordem n.o 50 — Fabricante e entrada de produto | Ministério da Indústria e das Tecnologias da Informação | NC (lado de exportação) | https://www.miit.gov.cn/zcfg/jdcjxl/art/2018/art_72a4ad7ff2304a8c83199eac43f276fe.html | 2026-09-03 | VERIFICADO | Seis categorias de admissão; base de cadeia documental |
 * Nota de escopo: fontes oficiais aqui cobrem apenas o lado de exportação da China. Os códigos SH exactos, os pormenores da operação do sistema e qualquer revisão anual devem ser confirmados em relação aos actuais avisos pautais e MOFCOM; as regras de destino estão fora do âmbito de aplicação. *
 
@@ -95,9 +95,9 @@ O MIIT No. 50 divide fabricantes de veículos rodoviários e de veículos autom�
 | 商务部办公厅关于 2026 年度汽车和摩托车出口许可申报的通知 (2025-09-28; 引用 54 号公告, 系统填报 “ 乘用车 ”) | Departamento de Comércio Externo da MOFCOM (wms) | NC | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-04 | VERIFICADO |  |
 
 ## Revisão Editorial
-- **Autor / revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)
+- **Autor revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)
 - ** Última revisão**: 2026-09-05
-- ** Mercado de referência / escopo**: China lado de exportação
+- ** Mercado de referência escopo**: China lado de exportação
 - ** Método de verificação**: Revisão de fontes primárias chinesas (MOFCOM/Conselho de Estado/MIIT); itens sensíveis ao tempo marcados, não fixados
 - ** Norma editorial**: Pesquisado e escrito a partir das fontes listadas acima (pesquisa de mesa; nenhuma condução em primeira mão, demolição ou importação é reivindicada). A confiança na fonte é mostrada por linha; qualquer ponto que não podemos confirmar independentemente é apresentado como um item de verificação em vez de afirmado como fato.
 #AutoBridge #ExportLicence #CustomsDocuments #ChinaExport #ExportProcurement

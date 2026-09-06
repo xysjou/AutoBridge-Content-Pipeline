@@ -1,7 +1,7 @@
 # China-VI Vehículos en el extranjero: Normas de emisión, los compradores de la enmienda 2026 y la compatibilidad con combustible deben verificar
 
 ## SEO Metadatos
-- **SEO Título**: China VI Emissions & Overseas Fuel Compatibilidad Guía: GB18352.6 / GB17691
+- **SEO Título**: China VI Emissions & Overseas Fuel Compatibilidad Guía: GB18352.6 GB17691
 - **Meta Descripción**: Separar la luz-duty GB18352.6-2016 (XG1-2026 enmienda) de la carga pesada GB17691-2018, China-VI diésel límites de azufre y el riesgo DPF/SCR, y por qué China VI nunca auto-ecumple la aprobación de Euro o EPA.
 - ** URL agregada**: /guides/emission-fuel-compatibility-china-vehicles
 - ** H1 **: Tomar un vehículo China-VI en el extranjero: ¿Qué normas de emisiones se aplica, y ¿lo hará el combustible local?
@@ -12,13 +12,13 @@
 - **Sugerencias de ALT**: "Light-duty GB18352.6 y pesado GB17691 separados con cheques de compatibilidad con combustible"
 
 ## ¿Por qué "China VI" no es un número
-Los compradores suelen leer "China VI / 国六 " como un solo estándar. No es: ** vehículos de servicio ligero y pesado se sientan bajo diferentes estándares chinos**, y un estándar de emisión también es distinto de la compatibilidad **fuel** y de la aprobación ** tipo de descriminación**. Esta guía separa los tres y establece exactamente donde comienza la verificación oficial de destino y final de China.
+Los compradores suelen leer "China VI 国六 " como un solo estándar. No es: ** vehículos de servicio ligero y pesado se sientan bajo diferentes estándares chinos**, y un estándar de emisión también es distinto de la compatibilidad **fuel** y de la aprobación ** tipo de descriminación**. Esta guía separa los tres y establece exactamente donde comienza la verificación oficial de destino y final de China.
 
 ## Ligero contra el deber pesado — Dos normas actuales
 | Ámbito de aplicación | Estándar chino actual | Estado/horas |
 |---|---|---|
 | **Light-duty** (M1/M2/N1 gasolina & diesel) | **GB 18352.6-2016 ** (China 6) | Su **Enmienda No 1, GB18352.6-2016/XG1-2026 **, fue emitida por el **Ministerio de Ecología y Medio Ambiente (MEE) y SAMR en 2026-04 y tiene efecto 2026-05-01 ** (la parte de extensión HEV tipo-aprobada de ** 2026-07-01 **) |
-| ** Diésel de servicio pesado** (motores de motor de presión / gas) | **GB 17691-2018 ** (China 6) | Edición 2018-06-22, en vigor 2019-07-01, obligatorio; se emitió una enmienda 2026 en el mismo lote |
+| ** Diésel de servicio pesado** (motores de motor de presión gas) | **GB 17691-2018 ** (China 6) | Edición 2018-06-22, en vigor 2019-07-01, obligatorio; se emitió una enmienda 2026 en el mismo lote |
 
 No digas nada. Vehículo chino usando sólo la luz-duty GB18352.6: un camión de luz Shunda y una cabeza de tractor pesado Tianlong respuesta a diferentes estándares.
 
@@ -83,7 +83,7 @@ Los marcos de ultramar son principalmente **UNECE/Euro** (Europa) y **US EPA** (
 | MEE anuncio en GB17691-2018 China 6 | MEE | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-04 | VERIFIED (primaria) | Normas/fechas de servicio pesado |
 | GB17691-2018 PDF oficial | MEE | CN | https://www.mee.gov.cn/ywgz/fgbz/bz/bzwb/dqhjbh/dqydywrwpfbz/201807/W020260430500008289846.pdf | 2026-09-04 | VERIFIED (primaria) | Alcance de los servicios pesados |
 | GB19147-2016 diesel de carretera (corriente, con XG1-2018) | SAMR openstd | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-04 | VERIFIED (primaria) | Sulfuro ≤ 10 mg/kg |
-| DPF/SCR high-sulphur aftertreatment risk | 11467 cuerpo de prueba | CN | https://m.11467.com/product/d51123633.htm | 2026-09-04 | SINGLE_SOURCE | Riesgo cualitativo de post-tratamiento |
+| DPF/SCR high-sulphur aftertreatment risk | cuerpo de prueba | CN | https://m.11467.com/product/d51123633.htm | 2026-09-04 | SINGLE_SOURCE | Riesgo cualitativo de post-tratamiento | 11467
 *Evidence scope: Las normas/fechas chinas VERIFIED por fuentes primarias MEE/SAMR; límites euro/EPA en el extranjero, las especificaciones de combustible EN y cualquier conclusión de equivalencia están bloqueadas hasta que se produzcan fuentes primarias en el extranjero. *
 
 | 轻型车国六排放标准 GB18352.6-2016 (译文库条文) | ChinaAutoRegs(今日头条) | CN | http://m.toutiao.com/group/6758333762372633092/ | 2026-09-04 | SINGLE_SOURCE | GB18352.6-2016 背景 (不作现行版本核心依据) |

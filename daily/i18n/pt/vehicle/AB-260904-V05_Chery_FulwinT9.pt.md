@@ -17,8 +17,8 @@ O Fulwin T9 é o híbrido de plug-in médio C-DM da Chery, oferecido em cinco e 
 ## PHEV Powertrain: Motor dedicado + Motor + DHT de velocidade única
 | Item | Fulwin T9 C-DM (China reference) |
 |---|---|
-| Motor | 1.5 T gasolina híbrida dedicada (115 kW / 220 N·m motor-somente; China- 6b) |
-| Motor dianteiro | 150 kW / 310 N·m |
+| Motor | 1.5 T gasolina híbrida dedicada (115 kW 220 N·m motor-somente; China- 6b) |
+| Motor dianteiro | 150 kW 310 N·m |
 | Saída combinada do sistema | cerca de 265 kW/530 N·m |
 | Transmissão híbrida | DHT de velocidade única |
 | Bateria de longo alcance | ** 32.66 kWh ** |
@@ -29,13 +29,13 @@ O Fulwin T9 é o híbrido de plug-in médio C-DM da Chery, oferecido em cinco e 
 Para um PHEV o exportador fixa **motor, motor, bateria e carregamento** juntos. O 1.5T aqui é um motor híbrido-dedicado; sua figura de motor-somente 115 kW não é a saída do sistema — manter os dois separados em qualquer linha de especificação.
 
 ## Corpo, Assentos e Carga
-- Comprimento / largura / altura: ** 4795 / 1930 / 1738 mm ** (algumas fontes listam 1741 mm altura por corte)
+- Comprimento largura altura: ** 4795 1930 1738 mm ** (algumas fontes listam 1741 mm altura por corte)
 - Distância entre eixos: ** 2770 mm **
 - Assentos: ** 5 ou 7 ** — indicar qual na ordem
 - Carga: ** 650 L, cerca de 1775 L ** com assentos dobrados (single-source)
 
 ## Padrão T9 vs. Alongado T9L — Não Mesclar
-- **Esta página: padrão T9 **, 4795 mm / 2770 mm distância entre eixos.
+- **Esta página: padrão T9 **, 4795 mm 2770 mm distância entre eixos.
 - **Excluído: T9L **, cerca de 4870 mm com uma distância entre eixos 2920 mm. É um veículo de distância maior; misturar as suas dimensões ou reivindicações de assentos em uma ordem padrão- T9 é um erro de configuração.
 - Os passos e os layouts dos bancos variam de acordo com a guarnição; the 120–220 km spread is not a single number for one car.
 
@@ -47,10 +47,10 @@ Para um PHEV o exportador fixa **motor, motor, bateria e carregamento** juntos. 
 5. ** Classe de registro de emissão/híbrido** e conjunto de documentos completos para a lista de verificação do pacote de documentos de exportação.
 
 ## Solicitar uma Cotação de Exportação Atual
-Nenhum preço de exportação é publicado. A gama de guias chinês 2024 (cerca de RMB 129, 900–169, 900) é uma referência **doméstica, sensível ao tempo, não FOB/CIF**. Informe-se com **Destino País · Quantidade · Bateria/Seat Trim · LHD/RHD · Porto de Destino · Incoterm**.
+Nenhum preço de exportação é publicado. A gama de guias chinês 2024 (cerca de RMB 129,900–169,900) é uma referência **doméstica, sensível ao tempo, não FOB/CIF**. Informe-se com **Destino País · Quantidade · Bateria/Seat Trim · LHD/RHD · Porto de Destino · Incoterm**.
 
 ## Perguntas Mais Frequentes
-** O Fulwin T9 é o mesmo que o T9L ?** Não; o T9L é um veículo de base mais longa (cerca de 4870 mm/2920 mm)  and  is excluded from this standard-T9 sheet.
+** O Fulwin T9 é o mesmo que o T9L Não; o T9L é um veículo de base mais longa (cerca de 4870 mm/2920 mm)  and  is excluded from this standard-T9 sheet.
 ** Que bateria a longa gama T9 usa?** Um pacote de 32.66 kWh para as versões documentadas de longo alcance,  with 120–220 km CLTC electric range depending on trim.
 ** A gama de 1400 km é medida? É uma figura combinada WLTC, reivindicada pelo fabricante, apresentando-a como uma alegação de fábrica, não como um resultado de teste.
 ** Cinco ou sete lugares?** Ambos são oferecidos; especifique na ordem e corresponda ao VIN.
@@ -68,23 +68,23 @@ Nenhum preço de exportação é publicado. A gama de guias chinês 2024 (cerca 
 - IMAGEM_RIGHTS_STATUS: FALHA (não é aceita nenhuma propriedade licenciada capturada; uma nota de placeholder ou “reter imagem antiga”)
 - BLOCK_REASON: Nenhuma imagem reutilizável pode ser segura: Wikimedia Commons/Flickr são inalcançáveis do ambiente de pesquisa, bibliotecas de estoque requerem acesso autenticado API/licença, e uma imagem de página web OEM NÃO é uma concessão de reutilização comercial; nenhuma foto de propriedade da AutoBridge existe. Mantive-me em vez de afirmar.
 - ALT por língua:
-  - **EN**: AutoBridge export-buyer reference — Chery Fulwin T9, plug-in hybrid vehicle / SUV
-  - **FR**: Référence AutoBridge pour acheteurs export — Chery Fulwin T9, véhicule hybride rechargeable / SUV
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Chery Fulwin T9, Plug-in-Hybridfahrzeug / SUV
-  - **ES**: Referencia AutoBridge para compradores de exportación — Chery Fulwin T9, vehículo híbrido enchufable / SUV
-  - **PT**: Referência AutoBridge para compradores de exportação — Chery Fulwin T9, veículo híbrido plug-in / SUV
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Chery Fulwin T9, プラグインハイブリッド車 / SUV
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Chery Fulwin T9, 플러그인 하이브리드 차량 / SUV
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Chery Fulwin T9, xe hybrid sạc ngoài / SUV
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Chery Fulwin T9, รถปลั๊กอินไฮบริด / รถเอสยูวี
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Chery Fulwin T9, kendaraan hybrid plug-in / SUV
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Chery Fulwin T9, مركبة هجينة قابلة للشحن / سيارة دفع رباعي
-  - **ZH**: AutoBridge 出口采购参考｜Chery Fulwin T9, 插电混动车 / SUV
+  - **EN**: AutoBridge export-buyer reference — Chery Fulwin T9, plug-in hybrid vehicle SUV
+  - **FR**: Référence AutoBridge pour acheteurs export — Chery Fulwin T9, véhicule hybride rechargeable SUV
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Chery Fulwin T9, Plug-in-Hybridfahrzeug SUV
+  - **ES**: Referencia AutoBridge para compradores de exportación — Chery Fulwin T9, vehículo híbrido enchufable SUV
+  - **PT**: Referência AutoBridge para compradores de exportação — Chery Fulwin T9, veículo híbrido plug-in SUV
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Chery Fulwin T9, プラグインハイブリッド車 SUV
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Chery Fulwin T9, 플러그인 하이브리드 차량 SUV
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Chery Fulwin T9, xe hybrid sạc ngoài SUV
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Chery Fulwin T9, รถปลั๊กอินไฮบริด รถเอสยูวี
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Chery Fulwin T9, kendaraan hybrid plug-in SUV
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Chery Fulwin T9, مركبة هجينة قابلة للشحن سيارة دفع رباعي
+  - **ZH**: AutoBridge 出口采购参考｜Chery Fulwin T9, 插电混动车 SUV
 
 ## Fontes e Verificação
 | Título do código fonte | Organização | Mercado | URL | Verificado | Confiança | Factos corroborados |
 |---|---|---|---|---|---|---|
-| GB 38031 traction-battery safety requirement (national standard) | Administração de normalização / SARM | NC | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFICADO | Base de base de segurança da bateria de tração relevante para a embalagem de alta tensão C-DM |
+| GB 38031 traction-battery safety requirement (national standard) | Administração de normalização SARM | NC | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFICADO | Base de base de segurança da bateria de tração relevante para a embalagem de alta tensão C-DM |
 | GB 18352.6-2016/XG1-2026 limites de emissão de veículos ligeiros (China 6) | Ministério da Ecologia e do Ambiente | NC | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFICADO | China atual- quadro de emissão 6 para o motor dedicado 1.5T (China- 6b referência) |
 | Tabela oficial de configuração Fulwin T9 | Chery Fulwin (OEM) | NC | https://fulwin.chery.cn/vehicles/t9/config/ | 2026-09-04 | VERIFICADO (EMO) | Bateria, dimensões, bancos, carregamento, versões |
 | Fulwin T9 com uso manual (tamanho/ano modelo) | Dongchedi | NC | https://m.dongchedi.com/article/7506038314424730131 | 2026-09-04 | CROSS_CHECKED | Dimensões, limite modelo-ano |

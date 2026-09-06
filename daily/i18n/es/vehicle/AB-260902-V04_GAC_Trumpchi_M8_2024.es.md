@@ -21,7 +21,7 @@ China divide el M8 en tres series que difieren en tamaño, base de ruedas y cali
 
 | Serie | Longitud × Ancho × Altura | Base de ruedas | Motor | Torque |
 |---|---|---|---|---|
-| 宗师 Grandmaster / 大师 Maestro | 5212 × 1893 × 1823 mm | 3070 mm | 2.0T, 185 kW (252 PS) | **400 N·m** |
+| 宗师 Grandmaster 大师 Maestro | 5212 × 1893 × 1823 mm | 3070 mm | 2.0T, 185 kW (252 PS) | **400 N·m** |
 | 领秀 Lingxiu (390T) | 5089 × 1884 × 1822 mm | 3000 mm | 2.0T, 185 kW (252 PS) | **390 N·m** |
 
 La salida de potencia es idéntica a 185 kW, pero la calibración Grandmaster/Master alcanza los 400 N·m frente a 390 N·m para el Lingxiu 390T, una pequeña pero real diferencia que no debe ser aplanada en una sola figura de "M8 torque". Las dimensiones Grandmaster/Master y la base de ruedas son **VERIFIED** contra las páginas oficiales de GAC; los valores de Lingxiu se verifican a través de Autohome/Yiche.
@@ -30,13 +30,13 @@ La salida de potencia es idéntica a 185 kW, pero la calibración Grandmaster/Ma
 
 | Tema | Valor de referencia del mercado chino |
 |---|---|
-| Motor | 2.0T turbo L4, 185 kW (252 PS); 400 N·m (Grandmaster) / 390 N·m (Lingxiu) |
+| Motor | 2.0T turbo L4, 185 kW (252 PS); 400 N·m (Grandmaster) 390 N·m (Lingxiu) |
 | Transmisión | 8-speed automática (8AT) |
-| Comer / puertas | 5-door MPV, 7 asientos en todo el rango (también existe una variante 4-seat de atención/ 旗舰) |
-| Suspensión | MacPherson / multi-link trasero |
+| Comer puertas | 5-door MPV, 7 asientos en todo el rango (también existe una variante 4-seat de atención/ 旗舰) |
+| Suspensión | MacPherson multi-link trasero |
 | Peso de la curvatura | ~ 2060 kg (大师 尊贵版 reference, official) |
 | Velocidad superior | 200 km/h |
-| Uso del combustible WLTC | 8.85 L / 100 km (Lingxiu 390T 豪华版, cifra de la base de datos) |
+| Uso del combustible WLTC | 8.85 L 100 km (Lingxiu 390T 豪华版, cifra de la base de datos) |
 
 ## Comer e interior — El núcleo de una compra de MPV
 
@@ -72,7 +72,7 @@ AutoBridge emite citas en vivo en lugar de una lista de precios estática. Los p
 
 ## Preguntas frecuentes
 
-**¿Cuántos asientos tiene el M8?** La línea China estándar es un MPV de 7-seat, de tres filas; a 4-seat sala de estar / sala de cuidados también existe, por lo que confirmar la disposición por grado.
+**¿Cuántos asientos tiene el M8?** La línea China estándar es un MPV de 7-seat, de tres filas; a 4-seat sala de estar sala de cuidados también existe, por lo que confirmar la disposición por grado.
 
 **¿Son todas las versiones M8 del mismo tamaño?** No. Grandmaster/Master tienen 5212 mm largos con una base de 3070 mm ruedas; el Lingxiu es 5089 mm con una base de 3000 mm ruedas.
 
@@ -95,25 +95,25 @@ AutoBridge emite citas en vivo en lugar de una lista de precios estática. Los p
 - IMAGE_RIGHTS_STATUS: FAIL (no se acepta ningún activo con licencia; no se acepta un titular de posición o “retiene la imagen antigua”)
 - BLOCK_REASON: No se puede asegurar una imagen reutilizable: Wikimedia Commons/Flickr no son accesibles desde el entorno de investigación, las bibliotecas de stock requieren acceso a API/licencia autenticada, y una imagen de página web OEM NO es una subvención comercial de reutilización; no existe foto de propiedad de AutoBridge. Se quedó con la FAIL en lugar de afirmarse.
 - ALT por idioma:
-  - **EN**: AutoBridge export-buyer reference — GAC Trumpchi M8, petrol/diesel Chinese-market vehicle / MPV
-  - **FR**: Référence AutoBridge pour acheteurs export — GAC Trumpchi M8, véhicule thermique (marché chinois) / MPV
-  - **DE**: AutoBridge-Referenz für Exportkäufer — GAC Trumpchi M8, Verbrenner (chinesischer Markt) / Van (MPV)
-  - **ES**: Referencia AutoBridge para compradores de exportación — GAC Trumpchi M8, vehículo de combustión (mercado chino) / monovolumen
-  - **PT**: Referência AutoBridge para compradores de exportação — GAC Trumpchi M8, veículo a combustão (mercado chinês) / minivan
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜GAC Trumpchi M8, 中国市場仕様 内燃機関車 / MPV
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜GAC Trumpchi M8, 중국 시장 내연기관 차량 / MPV
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — GAC Trumpchi M8, xe động cơ đốt trong (thị trường Trung Quốc) / MPV
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — GAC Trumpchi M8, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถ MPV
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — GAC Trumpchi M8, kendaraan mesin pembakaran (pasar Tiongkok) / MPV
-  - **AR**: مرجع AutoBridge لمشتري التصدير — GAC Trumpchi M8, مركبة بمحرك احتراق (سوق الصين) / سيارة عائلية
-  - **ZH**: AutoBridge 出口采购参考｜GAC Trumpchi M8, 中国市场燃油车 / MPV
+  - **EN**: AutoBridge export-buyer reference — GAC Trumpchi M8, petrol/diesel Chinese-market vehicle MPV
+  - **FR**: Référence AutoBridge pour acheteurs export — GAC Trumpchi M8, véhicule thermique (marché chinois) MPV
+  - **DE**: AutoBridge-Referenz für Exportkäufer — GAC Trumpchi M8, Verbrenner (chinesischer Markt) Van (MPV)
+  - **ES**: Referencia AutoBridge para compradores de exportación — GAC Trumpchi M8, vehículo de combustión (mercado chino) monovolumen
+  - **PT**: Referência AutoBridge para compradores de exportação — GAC Trumpchi M8, veículo a combustão (mercado chinês) minivan
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜GAC Trumpchi M8, 中国市場仕様 内燃機関車 MPV
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜GAC Trumpchi M8, 중국 시장 내연기관 차량 MPV
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — GAC Trumpchi M8, xe động cơ đốt trong (thị trường Trung Quốc) MPV
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — GAC Trumpchi M8, รถเครื่องยนต์สันดาป (ตลาดจีน) รถ MPV
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — GAC Trumpchi M8, kendaraan mesin pembakaran (pasar Tiongkok) MPV
+  - **AR**: مرجع AutoBridge لمشتري التصدير — GAC Trumpchi M8, مركبة بمحرك احتراق (سوق الصين) سيارة عائلية
+  - **ZH**: AutoBridge 出口采购参考｜GAC Trumpchi M8, 中国市场燃油车 MPV
 
 ## Fuentes " Verificación "
 
 | Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |
 |---|---|---|---|---|---|---|
 | M8 大师 尊贵版 oficiales | GAC Trumpchi (oficial) | CN | https://www.gacmotor.com/m8xds_new/empow01.html | 2026-09-02 | VERIFIED | 5212 mm cuerpo, 3070 mm WB, 2060 kg, 2.0TGDI |
-| GAC M8 configuración exterior | Grupo de los Estados de África Central (oficial) | CN/Export | https://www.gacgroup.com/en-kw/configuration/gac-m8/2024 | 2026-09-02 | VERIFIED | 185 kW / 252 PS, 7 asientos, suspensión |
+| GAC M8 configuración exterior | Grupo de los Estados de África Central (oficial) | CN/Export | https://www.gacgroup.com/en-kw/configuration/gac-m8/2024 | 2026-09-02 | VERIFIED | 185 kW 252 PS, 7 asientos, suspensión |
 | Oficial de gasolina 2024 M8 宗师 | GAC Trumpchi (oficial) | CN | https://www.gacmotor.com/2024m8zs_new/ | 2026-09-02 | VERIFIED | 2.0TGDI + 8AT, 400 N·m, precio nacional |
 | Lingxiu 390T config | Autohome (汽车之家) | CN | https://dealer.autohome.com.cn/2133191/spec_68518.html | 2026-09-02 | CROSS_CHECKED | 5089 mm cuerpo, 3000 mm WB, 390 N·m, WLTC 8.85 |
 | Parámetros M8 | PCauto (太平洋汽车) | CN | https://price.pcauto.com.cn/m128883/config.html | 2026-09-02 | CROSS_CHECKED | Partida de rueda, asignación de serie |

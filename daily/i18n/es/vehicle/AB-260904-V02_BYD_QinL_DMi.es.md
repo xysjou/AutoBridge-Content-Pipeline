@@ -21,26 +21,26 @@ El Qin L DM-i es un saloon híbrido de tamaño medio construido sobre la arquite
 | Motor | 1.5 L motor de gasolina híbrido dedicado |
 | Transmisión | E-CVT (DHT de velocidad única, superhíbrido DM) |
 | Batería | LFP #Batería de novia # |
-| Capacidad de la batería | ** 10.08 kWh (80 km) / 15.87 kWh (120 km)** — versión específica |
-| Gama eléctrica (CLTC) | **80 km / 120 km** |
+| Capacidad de la batería | ** 10.08 kWh (80 km) 15.87 kWh (120 km)** — versión específica |
+| Gama eléctrica (CLTC) | **80 km 120 km** |
 | Ciclo de prueba | **CLTC** (no WLTP/NEDC) nunca citó una figura de CLTC en otro ciclo) |
 | Carga rápida | about 0.42 h for 30–80% on the 120 km car (single-source; confirma por OEM |
 | Peso de la curvatura (representante) | 1775 kg |
 | Tanque de combustible | 65 L |
 
-Un comprador de PHEV necesita cuatro respuestas para: **motor, motor de unidad, batería, modo de carga/operación**. Aquí el motor dedicado 1.5L genera / asistida principalmente a través de un DHT de una sola velocidad; el controlador cambia entre los modos eléctricos e híbridos en lugar de cambiar los engranajes. Combina la versión de la batería a la gama eléctrica en cada línea de pedido.
+Un comprador de PHEV necesita cuatro respuestas para: **motor, motor de unidad, batería, modo de carga/operación**. Aquí el motor dedicado 1.5L genera asistida principalmente a través de un DHT de una sola velocidad; el controlador cambia entre los modos eléctricos e híbridos en lugar de cambiar los engranajes. Combina la versión de la batería a la gama eléctrica en cada línea de pedido.
 
 ## La Reclamación de la Ranura — Mantener la etiqueta del fabricante unido
 - The 80/120 km figures are **CLTC** electric range.
 - Una figura combinada de encabezados de aproximadamente ** 2100 km en un tanque completo y carga completa** aparece en la cobertura china como un número **manufacturer-claimed**. Debe etiquetarse como una reclamación de fábrica, nunca presentada como resultado medido, y no es comparable a una cifra del ciclo de destino.
 
 ## Cuerpo y Cabina
-- Longitud / ancho / altura: ** 4830 / 1900 / 1495 mm **
+- Longitud ancho altura: ** 4830 1900 1495 mm **
 - Base de ruedas: ** 2790 mm **
 - Asientos: ** 5 ** (fuente individual para el recuento de asientos; confirme en la hoja de tríos)
 
 ## Diferencias de la versión que no deben ser desprendidas
-- ** 80 km vs 120 km ** = paquete de batería diferente (10.08 vs 15.87 kWh); hardware de carga y el borde también se incrementan. Diga la versión antes de cualquier frase de rango.
+- ** 80 km vs 120 km ** paquete de batería diferente (10.08 vs 15.87 kWh); hardware de carga y el borde también se incrementan. Diga la versión antes de cualquier frase de rango.
 - CLTC gama eléctrica y cualquier reclamación de rango combinado se sienta en diferentes bases de prueba; no añadir ni comparar directamente.
 - El equipo chino no es prueba de equipo de exportación sin una página de OEM en el extranjero.
 
@@ -53,7 +53,7 @@ Un comprador de PHEV necesita cuatro respuestas para: **motor, motor de unidad, 
 5. **Tipo de emisiones/combustibles** y clase de registro híbrido de destino; confirme el paquete de documentos de la lista de verificación de documentos de exportación.
 
 ## Solicitar una calificación de exportación actual
-No se publica precio de exportación. El rango de guía chino 2024 (proximadamente RMB 99, 800–139, 800) es una referencia **doméstica y sensible al tiempo, no FOB/CIF**. Request a live quote with **Destination Country · Quantity · Preferred Trim (80/120 km) · LHD/RHD · Destination Port · Incoterm**.
+No se publica precio de exportación. El rango de guía chino 2024 (proximadamente RMB 99,800–139,800) es una referencia **doméstica y sensible al tiempo, no FOB/CIF**. Request a live quote with **Destination Country · Quantity · Preferred Trim (80/120 km) · LHD/RHD · Destination Port · Incoterm**.
 
 ## Preguntas frecuentes
 **¿Cuál es la diferencia entre el Qin L DM-i 80 y 120?** Capacidad de batería (10.08 vs 15.87 kWh) y gama eléctrica CLTC (80 vs 120 km), más pasos de equipo - especificar la versión en el pedido.
@@ -74,18 +74,18 @@ No se publica precio de exportación. El rango de guía chino 2024 (proximadamen
 - IMAGE_RIGHTS_STATUS: FAIL (no se acepta ningún activo con licencia; no se acepta un titular de posición o “retiene la imagen antigua”)
 - BLOCK_REASON: No se puede asegurar una imagen reutilizable: Wikimedia Commons/Flickr no son accesibles desde el entorno de investigación, las bibliotecas de stock requieren acceso a API/licencia autenticada, y una imagen de página web OEM NO es una subvención comercial de reutilización; no existe foto de propiedad de AutoBridge. Se quedó con la FAIL en lugar de afirmarse.
 - ALT por idioma:
-  - **EN**: AutoBridge export-buyer reference — BYD Qin L DM-i, plug-in hybrid vehicle / sedan
-  - **FR**: Référence AutoBridge pour acheteurs export — BYD Qin L DM-i, véhicule hybride rechargeable / berline
-  - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Qin L DM-i, Plug-in-Hybridfahrzeug / Limousine
-  - **ES**: Referencia AutoBridge para compradores de exportación — BYD Qin L DM-i, vehículo híbrido enchufable / berlina
-  - **PT**: Referência AutoBridge para compradores de exportação — BYD Qin L DM-i, veículo híbrido plug-in / sedã
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜BYD Qin L DM-i, プラグインハイブリッド車 / セダン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜BYD Qin L DM-i, 플러그인 하이브리드 차량 / 세단
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — BYD Qin L DM-i, xe hybrid sạc ngoài / sedan
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — BYD Qin L DM-i, รถปลั๊กอินไฮบริด / รถเก๋งซีดาน
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — BYD Qin L DM-i, kendaraan hybrid plug-in / sedan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Qin L DM-i, مركبة هجينة قابلة للشحن / سيدان
-  - **ZH**: AutoBridge 出口采购参考｜BYD Qin L DM-i, 插电混动车 / 轿车
+  - **EN**: AutoBridge export-buyer reference — BYD Qin L DM-i, plug-in hybrid vehicle sedan
+  - **FR**: Référence AutoBridge pour acheteurs export — BYD Qin L DM-i, véhicule hybride rechargeable berline
+  - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Qin L DM-i, Plug-in-Hybridfahrzeug Limousine
+  - **ES**: Referencia AutoBridge para compradores de exportación — BYD Qin L DM-i, vehículo híbrido enchufable berlina
+  - **PT**: Referência AutoBridge para compradores de exportação — BYD Qin L DM-i, veículo híbrido plug-in sedã
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜BYD Qin L DM-i, プラグインハイブリッド車 セダン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜BYD Qin L DM-i, 플러그인 하이브리드 차량 세단
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — BYD Qin L DM-i, xe hybrid sạc ngoài sedan
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — BYD Qin L DM-i, รถปลั๊กอินไฮบริด รถเก๋งซีดาน
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — BYD Qin L DM-i, kendaraan hybrid plug-in sedan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Qin L DM-i, مركبة هجينة قابلة للشحن سيدان
+  - **ZH**: AutoBridge 出口采购参考｜BYD Qin L DM-i, 插电混动车 轿车
 
 ## Fuentes " Verificación "
 | Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |

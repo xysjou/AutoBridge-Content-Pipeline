@@ -1,14 +1,14 @@
 # DOD Yuan Plus (tiểu số đến 3) — Pin, khoảng vòng quay, nạp và xuất khẩu ghi chú
 ## SAO Siêu dữ liệu
-- **SEAO Title**: ByD Yuan Plus / Ato 3: ắc quy, Phạm vi & Xuất Nguồn Hướng dẫn
+- **SEAO Title**: ByD Yuan Plus Ato 3: ắc quy, Phạm vi & Xuất Nguồn Hướng dẫn
 - **Meta Mô tả**: Chinese-market BYD Yuan Plus (Atto 3) explained for exporters — 49.92/60.48 kWh Blade Battery, Sao lại là Trung Quốc? CLTC phải được giữ riêng biệt với con số WLP/NEEC của một điểm đến, GB/T tương ứng với việc sạc cục bộ,  and  những gì để xác minh bởi VA.
 - ** URL đã được đánh dấu**: /vehicles/byd-yan-plus/
 - ** H1 **: ByD Yuan Plus (tên xuất khẩu Atto 3): pin, Range Cccle, sạc và phần mềm cho Importers
 - ** Từ khoá bí mật **: BYD Yuan Plus Atto 3 specifications export
 - **Secondary Search Words**: DOD Atto 3 ắc quy 60.48 kWh, Viên Liệt, CLTC, DOD Súng định vị,  Atto 3 CCS2 charging, Viên Liệt, Đại Dương, Xuất EV gọn gàng SUV Hoa
-- **I nội bộ Link gợi ý*: //guides/chinese-charing-c tương thích-c; /guides/hand-chin-chinese-cars/; /guides/chin-chin-ev-pies/ / /
+- **I nội bộ Link gợi ý*: tương thích-c; /guides/hand-chin-chinese-cars/; /guides/chin-chin-ev-pies/
 - **Image gợi ý**: phía trước ba phần tư studio xem; 430/510 tương ứng biến thể WLP; sạc cổng đóng; ghế sau và khởi động; xoay màn hình DiLik
-- **LT gợi ý**: "BYD Yuan Plus / Atto 3 điện xe SUV," "Yuan Plus CLC so với số lượng Atto 3; "Blade ắc quy sạc cổng GB/T inlet"
+- **LT gợi ý**: "BYD Yuan Plus Atto 3 điện xe SUV," "Yuan Plus CLC so với số lượng Atto 3; "Blade ắc quy sạc cổng GB/T inlet"
 ## Văn cảnh: Một xe hơi, hai ngôn ngữ cụ thể
 BOD Yuan Plus (元 PLUS) là một chiếc SUV điện gọn gàng trên D của  nghiêng 3.0 với một chiếc máy định vị LFP Blade; bên ngoài Trung Quốc được bán như thị trường **BYDATE 3 ** khắp Âu Châu, Đông Nam Á, Châu Mỹ La - tinh và Dương Dương, trong đó có thị trường RHD như Thái Lan và Úc. Dòng ở Trung Quốc được bao phủ ở đây là bản in danh hiệu ** 2024 (荣耀版). Thói quen duy nhất quan trọng nhất là phải tách riêng hai ngôn ngữ đặc biệt: ** Dữ liệu xây dựng Trung Hoa sử dụng LTC phạm vi và một GB/T sạc vào, trong khi các tờ đặc trưng xuất khẩu của AD sử dụng dải WLPS/NEEC và các liên kết khu vực**. Đây là một trang mô hình màu xanh lá cây (không có năm trong URL): Nền tảng có thể trải qua nhiều năm mô hình, và những con số cụ thể ở dưới được đánh dấu bởi thị trường và chu kỳ hơn là một "sự bóng loáng".
 ## Pin và đa biến (Quyết định EV bắt đầu ở đây)
@@ -19,12 +19,12 @@ Xe Trung Quốc được chia ra bởi pin và ống nghe CTC, với một độ
 | 510 phiên bản (e.g., 510KM 领先型) | 60.48 kWh | 510 km CLTC | Cùng một lớp gói danh nghĩa như các khu vực cao hơn Ato 3 xây dựng; con số thị trường xuất khẩu phụ thuộc vào chu kỳ và mô hình năm và phải được đọc từ tờ chính thức hiện tại của thị trường đó, không bắt nguồn từ 510 CLTC |
 Năng lượng và loại LFP Blade được xác nhận trên các tờ đặc điểm xuất khẩu của **BYD (VERIEEEED)**; nhãn hiệu Trung Quốc CLTC 430/510 được kiểm tra chéo qua cơ sở dữ liệu Trung Quốc (CROSS_CCKED). **These Atto 3 figures are a regional reference matched only by nominal battery capacity — they are not one-to-one trim equivalents of the China 430/510 grades**: Xác nhận phạm vi, điện năng, thiết bị và cả số liệu tính toán khác nhau tùy theo quốc gia/dân số, vậy nên xác nhận chính xác là bảng số lượng thị trường đích đến cho VIN. Điểm cao hơn cộng gói hỗ trợ DiPilot và màn hình quay lớn hơn - ghi lại tên điểm trung Quốc chính xác, vì nhãn " 510" có thể gắn vào nhiều cấp độ thiết bị.
 ## Name
-Mỗi bản in danh dự Trung Quốc Yuan Plus sử dụng một mặt trận đồng bộ mamalent: ** 150 kW (204 PS) / 310 N·m **,  0–100 km/h 7.3 s, Tốc độ cao 160 km/h. Chỉ có ổ quay đầu (không có động cơ AWD/dal-motor trong dòng này). Tờ xuất khẩu của DOD xác nhận bố trí PMSM  and  the 49.92/60.48 kWh battery pair; Nếu một chiếc xe được trích dẫn tuyên bố là AWD, động cơ hai động cơ hoặc một sản phẩm khác, nó là một mô hình năm hoặc thị trường xây dựng và phải được tái sử dụng thay vì giả định.
+Mỗi bản in danh dự Trung Quốc Yuan Plus sử dụng một mặt trận đồng bộ mamalent: ** 150 kW (204 PS) 310 N·m **,  0–100 km/h 7.3 s, Tốc độ cao 160 km/h. Chỉ có ổ quay đầu (không có động cơ AWD/dal-motor trong dòng này). Tờ xuất khẩu của DOD xác nhận bố trí PMSM  and  the 49.92/60.48 kWh battery pair; Nếu một chiếc xe được trích dẫn tuyên bố là AWD, động cơ hai động cơ hoặc một sản phẩm khác, nó là một mô hình năm hoặc thị trường xây dựng và phải được tái sử dụng thay vì giả định.
 ## Phạm vi: Không bao giờ trình bày CLTC như WLPP
 Đây là nơi mà người nhập khẩu thường xuyên đánh lạc hướng xe hơi. Cùng một gói vật lý mang một số cao hơn dưới Trung Quốc CLC hơn dưới NEDC hoặc là một loại bảo thủ hơn được sử dụng ở Châu Âu/Australia, và con số đích đến chính xác cũng di chuyển với mô hình năm và điều chỉnh khu vực. Luôn luôn trích dẫn chu kỳ cạnh số, yêu cầu nhân vật được ghi rõ từ trang chính thức của BD,** và không bán một số CLTC đến một thị trường WLP. Sử dụng các con số Trung Quốc chỉ để xác định các tòa nhà Trung Quốc; không bao giờ trình bày một số CLTC đã cải tiến là phạm vi xuất khẩu chính thức.
 ## Nạp: Insect + giao thức
 - Xe hơi Trung Quốc dùng **GB/T** DC/Ac inlet và GB/T 27930, xuất khẩu Atto 3 thường dùng ** CCS2 ** (sự biến thể tập thể tồn tại). Ổ cắm là một sự thật cấp độ VIN - xác nhận nó trên xe thực sự.
-- Recorded China DC fast-charge peaks are 70 kW (49.92) / 80 kW (60.48); Tài liệu xuất khẩu BD liệt kê 110 kW DC cho một số thị trường xây dựng. Xử lý năng lượng nạp như là chi tiết thị trường/ Quay lại và xác nhận từ bảng đích, không phải từ cơ sở dữ liệu nào.
+- Recorded China DC fast-charge peaks are 70 kW (49.92) 80 kW (60.48); Tài liệu xuất khẩu BD liệt kê 110 kW DC cho một số thị trường xây dựng. Xử lý năng lượng nạp như là chi tiết thị trường/ Quay lại và xác nhận từ bảng đích, không phải từ cơ sở dữ liệu nào.
 - Đánh giá độ tăng và giới hạn thích nghi phải được xác định theo thứ tự; see the GB/T vs CCS2/CHAdeMO compatibility guide.
 ## Phần mềm và OTA (phần đồng nhất không sửa chữa)
 Điểm cao mang theo ByD **DiLik** với màn trình diễn 12.8/15.6-inch, OTA và 4G, cộng với **Dipilot** L2-class trợ giúp (AC, làn đường giữ đường AEB). Hàng Trung Quốc — hệ sinh thái ứng dụng, trợ lý giọng nói, máy chủ tài khoản và định vị — được xây dựng cho đất liền Trung Quốc, và sản xuất OTA ngoài Trung Quốc không đảm bảo cho một đơn vị được thông báo song song. Kiểm tra kỹ thuật HMI, bản đồ địa phương, ứng dụng sẵn có và các chức năng kết nối vẫn còn trực tiếp ở nước đích trước khi có một số lượng lớn; hướng dẫn thông tin/OTA cho một bài kiểm tra chấp nhận trên mỗiVIN.
@@ -45,7 +45,7 @@ Chưa xuất khẩu giá xuất khẩu cố định. Giá hướng dẫn nội �
 ## Những câu hỏi thường xuyên
 **Có phải Yuan Plus cùng chiếc xe với Atto 3? Đó là bản tương ứng với xuất khẩu Ato 3 của Trung Quốc, nhưng có kết nối, chu kỳ và phần mềm khác nhau tùy theo thị trường — xác nhận chính xác cấu trúc.
 Tại sao cùng một loại pin cho thấy một phạm vi ở Trung Quốc lâu hơn ở Châu Âu? Bởi vì Trung Quốc sử dụng CLTC trong khi xuất khẩu thị trường sử dụng NEEC/WLP, vốn bảo thủ hơn; luôn luôn nói về chu kỳ và trích dẫn con số chính thức hiện tại của đích đến thay vì chuyển đổi CLTC.
-**Có phải mỗi quan Plus đều có cùng một động cơ? Trong dòng dõi Trung Quốc này, một động cơ trước 150 kW / 310 N·m; Các biến thể khác nhau trong pin và thiết bị.
+**Có phải mỗi quan Plus đều có cùng một động cơ? Trong dòng dõi Trung Quốc này, một động cơ trước 150 kW 310 N·m; Các biến thể khác nhau trong pin và thiết bị.
 **Có thể nạp điện xe vào CCS2 không?** Chỉ với một số thông tin chính xác về việc nhập cư/tự do, xác nhận là có luật pháp và bắt tay; điểm đến là 3 đơn vị thường được xây dựng theo tiêu chuẩn địa phương — theo thứ tự.
 **Có phải Trung Quốc đòi hỏi một câu nói của FOB? Không, nó là một tài liệu tham khảo nội bộ. Yêu cầu một đoạn trích dẫn xuất khẩu có mục.
 ## Thu ảnh
@@ -61,37 +61,37 @@ Tại sao cùng một loại pin cho thấy một phạm vi ở Trung Quốc lâ
 - TRONG SÁCH TRONG LINH: FAIL (không có giấy phép lấy được tài sản; một người giữ chỗ hoặc “không chấp nhận lời nhắn cũ của hình ảnh ”
 - - Không. Không thể bảo đảm ảnh có thể tái tạo: Wikimedia Commons/Flickr không thể tới từ môi trường nghiên cứu, thư viện chứng khoán yêu cầu quyền truy cập hệ thống ARI/licence, và một trang web OEM không phải là một tài trợ tái sử dụng thương mại; không có ảnh tự động của AutoBridge. Giữ FAIL thay vì khẳng định.
 - Theo ngôn ngữ:
-  - **EN**: AutoBridge export-buyer reference — BYD Yuan Plus / Atto 3, battery-electric vehicle / SUV
-  - **FR**: Référence AutoBridge pour acheteurs export — BYD Yuan Plus / Atto 3, véhicule 100 % électrique / SUV
-  - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Yuan Plus / Atto 3, batterieelektrisches Fahrzeug / SUV
-  - **ES**: Referencia AutoBridge para compradores de exportación — BYD Yuan Plus / Atto 3, vehículo 100 % eléctrico / SUV
-  - **PT**: Referência AutoBridge para compradores de exportação — BYD Yuan Plus / Atto 3, veículo 100 % elétrico / SUV
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜BYD Yuan Plus / Atto 3, 純電気自動車 / SUV
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜BYD Yuan Plus / Atto 3, 순수 전기차 / SUV
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — BYD Yuan Plus / Atto 3, xe thuần điện / SUV
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — BYD Yuan Plus / Atto 3, รถยนต์ไฟฟ้า 100% / รถเอสยูวี
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — BYD Yuan Plus / Atto 3, kendaraan listrik murni / SUV
-  - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Yuan Plus / Atto 3, مركبة كهربائية بالبطارية / سيارة دفع رباعي
-  - **ZH**: AutoBridge 出口采购参考｜BYD Yuan Plus / Atto 3, 纯电动车 / SUV
+  - **EN**: AutoBridge export-buyer reference — BYD Yuan Plus Atto 3, battery-electric vehicle SUV
+  - **FR**: Référence AutoBridge pour acheteurs export — BYD Yuan Plus Atto 3, véhicule 100 % électrique SUV
+  - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Yuan Plus Atto 3, batterieelektrisches Fahrzeug SUV
+  - **ES**: Referencia AutoBridge para compradores de exportación — BYD Yuan Plus Atto 3, vehículo 100 % eléctrico SUV
+  - **PT**: Referência AutoBridge para compradores de exportação — BYD Yuan Plus Atto 3, veículo 100 % elétrico SUV
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜BYD Yuan Plus Atto 3, 純電気自動車 SUV
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜BYD Yuan Plus Atto 3, 순수 전기차 SUV
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — BYD Yuan Plus Atto 3, xe thuần điện SUV
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — BYD Yuan Plus Atto 3, รถยนต์ไฟฟ้า 100% รถเอสยูวี
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — BYD Yuan Plus Atto 3, kendaraan listrik murni SUV
+  - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Yuan Plus Atto 3, مركبة كهربائية بالبطارية سيارة دفع رباعي
+  - **ZH**: AutoBridge 出口采购参考｜BYD Yuan Plus Atto 3, 纯电动车 SUV
 
 ## Nguồn và Định dạng
 | Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
 | Trung Quốc chính thức là trung tâm mô hình Yuan (mạng lưới bẩn thỉu) | DOD Auto (** Nhân viên chính thức**) | CN | https://www.byd.com/cn/dynasty-home/models/yuan/3-yuan-plus | 2026-09-05 | VERFIED (OEM; model-line/ generation) | OEM neo cho dòng mẫu Yuan Plus. GHI CHÚ: trang Trung Quốc hiện nay của FD cho thấy thế hệ mới hơn sau lái xe; nó được dùng để ràng buộc mô hình nhân dạng và thế hệ và không phải là một nguồn cho 2024 vinh quang (FWD, 430/510 CLTC) được bao phủ ở đây |
 | Đường bộ sản xuất và sản xuất xe máy & sản phẩm danh mục — truy vấn công cộng | MIT, Bộ Công nghệ và Thông tin Trung Quốc | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VEII | Xác nhận mục nhập nhập mô hình/ cải cách và thống kê được chấp nhận bởi VIN/nonancment trước khi đặt |
-| GB 16735-2019 Xe cộ — số xe (VIN) | SA - RA / Quản trị chuẩn hóa (trật tiêu chuẩn quốc gia) | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VEII | Kiểm tra cấu trúc/ Quay số VIN dùng để khoá điểm trung Quốc chính xác và tránh cắt tỉa thay thế |
+| GB 16735-2019 Xe cộ — số xe (VIN) | SA - RA Quản trị chuẩn hóa (trật tiêu chuẩn quốc gia) | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VEII | Kiểm tra cấu trúc/ Quay số VIN dùng để khoá điểm trung Quốc chính xác và tránh cắt tỉa thay thế |
 | Yuan Plus 2024 parameter table | Tự động ZOL | CN | https://detail.zol.com.cn/series/2530/69565/param_10855221_0_1.html | 2026-09-02 | ĐÃ_ ĐÃ | Kích thước Trung Quốc, sạc điện, ADAS/Graination |
-| Name | Dongchedi (懂车帝) | CN | https://www-lf.dongchedi.com/article/7425573307363131931 | 2026-09-02 | ĐÃ_ ĐÃ | 150 kW / 310 N·m, 60.48 kWh, CLTC 510, 7.3 s |
-| Yuan Plus Q&A / model page | Tự động nhà (汽车之家) | CN | https://www.autohome.com.cn/ask/23350747.html | 2026-09-02 | ĐÃ_ ĐÃ | Động cơ, pin biến thể, ngữ cảnh phóng |
+| Name | Dongchedi (懂车帝) | CN | https://www-lf.dongchedi.com/article/7425573307363131931 | 2026-09-02 | ĐÃ_ ĐÃ | 150 kW 310 N·m, 60.48 kWh, CLTC 510, 7.3 s |
+| Yuan Plus Q&A model page | Tự động nhà (汽车之家) | CN | https://www.autohome.com.cn/ask/23350747.html | 2026-09-02 | ĐÃ_ ĐÃ | Động cơ, pin biến thể, ngữ cảnh phóng |
 | 太平洋汽车 参数页 | 太平洋汽车网 | CN | https://price.pcauto.com.cn/s48082/config.html | 2026-09-02 | SINGLE_SOURCE | 电机马力 204Ps  dám 快充 80% |
 | 汽车之家 (车家号) 荣耀版上市新闻 | 汽车之家 | CN | https://chejiahao.m.autohome.com.cn/info/14756991 | 2026-09-02 | SINGLE_SOURCE | 上市时间 2024-03、指导价 11.98-14.78 万、全系降价 1.6 万 |
 | 元 PLUS 2024 款荣耀版 参数配置表 | 太平洋汽车 PCauto | CN | https://price.pcauto.com.cn/m127136/config.html | 2026-09-05 | ĐÃ_ ĐÃ | 2024 Bảng độ trưng bày: 49.92/60.48 kWh, CLTC 430/510,  five Glory grades (independent DB #1, Đã xác nhận khả năng |
 | 元 PLUS 2024 款荣耀版 430KM 配置表 | 爱卡汽车 Xcar | CN | https://newcar.xcar.com.cn/m72729/config.htm | 2026-09-05 | ĐÃ_ ĐÃ | 2024 Bảng điểm vinh quang, bố trí FWD và 430 km dòng (phụ thuộc vào DB # 2, được xác nhận có thể truy cập; URL xe thật) |
 | 元 PLUS 参数配置 (2024 款). | 汽车之家 Tự động cấu hình loạt | CN | https://car.autohome.com.cn/config/series/6298-21793.html | 2026-09-05 | ĐÃ_ ĐÃ | Battery energy 49.92/60.48 kWh across the 2024 grades (independent DB #3, Bảng tham số — không phải là một trang Q&A phân loại A) |
 
-*Trích từ-nhìn-nhìn-là: Trung tâm mô hình chính thức của Trung Quốc (được liên kết) neo dòng mẫu quan Plus và thế hệ của nó; Trang hiện tại của AD trình bày thế hệ lái xe mới hơn, vì vậy nó được cố ý không được sử dụng như một nguồn cho 2024 giá trị in bằng vinh quang ở đây. The 2024 Glory figures — 49.92/60.48 kWh, 150 kW / 310 N·m  and  430/510 km CLTC — rest on a genuine same-fact cross-check by three independent Chinese parameter tables verified reachable on 2026-09-05 (PCauto m127136, Xcar m72729  and  tự động nhà 6298-21793 conchig series, (Tiếng Đức) Mỗi nguồn đều có cùng một nguồn lực, cùng một cặp, chứ không chia các dữ kiện khác nhau ra. Họ vẫn còn bị bắt (Không có bảng chính xác của chính sách tiêu biểu OEM cho 2024 giá trị vinh quang Trung Quốc — các BD khu vực PDFs trước đó trở lại 404), và phải được ràng buộc để có 2024 thông báo đồng nhất và VA. Giá trị đích của WLPP/NEC không được xác nhận và phải được đọc từ trang vùng chính thức của AD; Những hình ảnh của Trung Quốc và xuất khẩu được giữ riêng rẽ theo chu kỳ và không bao giờ hòa nhập vào một "sự quang phổ toàn cầu". Ghi-AI điều khiển  2026-09-05: Các giá trị vinh quang được đặt tên bây giờ là cùng một thực hiện kiểm tra bởi ba bảng cấu hình độc lập có thể đạt, di chuyển trang ra khỏi cần thiết_RECH (SCHED_ CROSS_CECKED, không OEM-VERIED). ♪
+*Trích từ-nhìn-nhìn-là: Trung tâm mô hình chính thức của Trung Quốc (được liên kết) neo dòng mẫu quan Plus và thế hệ của nó; Trang hiện tại của AD trình bày thế hệ lái xe mới hơn, vì vậy nó được cố ý không được sử dụng như một nguồn cho 2024 giá trị in bằng vinh quang ở đây. The 2024 Glory figures — 49.92/60.48 kWh, 150 kW 310 N·m  and  430/510 km CLTC — rest on a genuine same-fact cross-check by three independent Chinese parameter tables verified reachable on 2026-09-05 (PCauto Xcar  and  tự động nhà 6298-21793 conchig series, (Tiếng Đức) Mỗi nguồn đều có cùng một nguồn lực, cùng một cặp, chứ không chia các dữ kiện khác nhau ra. Họ vẫn còn bị bắt (Không có bảng chính xác của chính sách tiêu biểu OEM cho 2024 giá trị vinh quang Trung Quốc — các BD khu vực PDFs trước đó trở lại 404), và phải được ràng buộc để có 2024 thông báo đồng nhất và VA. Giá trị đích của WLPP/NEC không được xác nhận và phải được đọc từ trang vùng chính thức của AD; Những hình ảnh của Trung Quốc và xuất khẩu được giữ riêng rẽ theo chu kỳ và không bao giờ hòa nhập vào một "sự quang phổ toàn cầu". Ghi-AI điều khiển  2026-09-05: Các giá trị vinh quang được đặt tên bây giờ là cùng một thực hiện kiểm tra bởi ba bảng cấu hình độc lập có thể đạt, di chuyển trang ra khỏi cần thiết_RECH (SCHED_ CROSS_CECKED, không OEM-VERIED). ♪ m127136 m72729
 ## Xem lại tập tin
-- **Author / recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
+- **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
 - **Last xem lại**: 2026-09-05
 - ** chợ địa phương**: China 2024 Glo Edition; xuất khẩu tên BD Atto 3 (các tờ tiền định quản trị việc xây dựng xuất khẩu)
 - ** phương pháp xác định**: Các tờ xuất khẩu tự động + nhiều dữ liệu cơ sở dữ liệu Trung Quốc chéo; phạm vi luôn luôn được dán nhãn theo chu kỳ thử nghiệm

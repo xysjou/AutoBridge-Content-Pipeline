@@ -1,13 +1,13 @@
-# Foton General G9 / Dajiangjun G9 (2025) — Spécifications de retrait et contrôles à l'exportation sur le marché chinois
+# Foton General G9 Dajiangjun G9 (2025) — Spécifications de retrait et contrôles à l'exportation sur le marché chinois
 
 ## OEuvre Métadonnées
 - ** Titre du référencement**: Foton General G9 Pickup 2025: Spécifications diesel/pétrole du marché chinois et Guide d'exportation
 - **Meta Description**: Foton General G9 (大将军 G9) du marché chinois, ramassage: 2.0T lignes diesel et essence, 6MT/8AT, RWD/ 4WD, dimensions lit et empattement, et le couple diesel en conflit signalé.
-- ** H1 **: Foton General G9 / Dajiangjun G9 (2025) — Spécifications de retrait et contrôles à l'exportation sur le marché chinois
-- **Mot-clé principal**: Foton / 福田 Général G9 / 大将军 G9 皮卡 spécifications export
+- ** H1 **: Foton General G9 Dajiangjun G9 (2025) — Spécifications de retrait et contrôles à l'exportation sur le marché chinois
+- **Mot-clé principal**: Foton 福田 Général G9 大将军 G9 皮卡 spécifications export
 - ** Termes de recherche secondaires**: Foton General G9 export; ramassage Dajiangjun G9; ramassage diesel chinois; ramassage 4WD; cabine double
 - **URL suggérée**: /véhicules/foton-général- g9/
-- **Intention de la recherche**: 了解 Foton / 福田 Généralités G9 / 大将军 G9 皮卡 中国版规格 -配置与出口适配性 (车型参数页)
+- **Intention de la recherche**: 了解 Foton 福田 Généralités G9 大将军 G9 皮卡 中国版规格 -配置与出口适配性 (车型参数页)
 - **Suggestions de lien interne**: /véhicules/foton-général-g9/, /guides/véhicule-export-hs-code-histoire/, /guides/émission-compatibilité-carburant-histoire/
 - **Schema Champ d'application**: article + véhicule (aucun produit/offre/examen)
 
@@ -16,11 +16,11 @@ Le **Foton General G9 (大将军 G9, 2025)** est un pick-up sur châssis du marc
 
 ## Châssis, lit et groupe motopropulseur
 - **Diesel**: 2.0T 4F20 柴油, 120 (163Ps) kW; Le couple maximal est indiqué sous la forme ** 390 或 415 (版本差异, 未锁定) N·m — un conflit documenté entre les sources, verrouillant ainsi le modèle-année/trim avant de citer un seul chiffre**.
-- **Titre**: 175 kW / 360 N·m.
-- **Boîte de transmission**: 6MT / 8AT; 后驱 / 适时四驱.
+- **Titre**: 175 kW 360 N·m.
+- **Boîte de transmission**: 6MT 8AT; 后驱 适时四驱.
 - **Embase à roues courtes**: 约 5340 × 1980; 轴距 3110; 货箱 1520 × 1580 × 440 mm (cochée).
 - **Emballage à roues longues**: 5630 × 1980 × 1860; 轴距 3400; 货箱 1805 × 1580 × 440 mm (source unique — contre-vérification).
-- **Suspension**: 前双叉臂 / 后整体桥; émission 国 VI(0 # 柴油).
+- **Suspension**: 前双叉臂 后整体桥; émission 国 VI(0 # 柴油).
 
 ## Tableau des spécifications vérifiées (référence du marché chinois)
 | Spécification | Valeur | Unité | Marché | Confiance | Note de source |
@@ -30,11 +30,11 @@ Le **Foton General G9 (大将军 G9, 2025)** est un pick-up sur châssis du marc
 | Couple diesel | 390 或 415 (版本差异, 未锁定) | N°m | CHINE | CONFLITS | 太平洋 vs 懂车帝 2025 款详表 |
 | Puissance du moteur à essence | 175 | kW | CHINE | SOURCE UNIQUE | 太平洋汽车 |
 | couple essence | 360 | N°m | CHINE | SOURCE UNIQUE | 太平洋汽车 |
-| de transmission | 6MT / 8AT | - Je suis désolé. | CHINE | SOURCE UNIQUE | 太平洋汽车 |
-| options de groupe motopropulseur | 后驱 / 适时四驱 | - Je suis désolé. | CHINE | SOURCE UNIQUE | 太平洋汽车 |
+| de transmission | 6MT 8AT | - Je suis désolé. | CHINE | SOURCE UNIQUE | 太平洋汽车 |
+| options de groupe motopropulseur | 后驱 适时四驱 | - Je suis désolé. | CHINE | SOURCE UNIQUE | 太平洋汽车 |
 | ,dm courte wb | 约5340×1980；轴距3110；货箱1520×1580×440 | mm | CHINE | _CHECTURE | 太平洋 + 新浪 |
 | dim long wb | 5630×1980×1860；轴距3400；货箱1805×1580×440 | mm | CHINE | SOURCE UNIQUE | 太平洋汽车百科 |
-| suspension | 前双叉臂 / 后整体桥 | - Je suis désolé. | CHINE | SOURCE UNIQUE | 太平洋汽车 |
+| suspension | 前双叉臂 后整体桥 | - Je suis désolé. | CHINE | SOURCE UNIQUE | 太平洋汽车 |
 | norme d ' émission | 国 VI(0 # 柴油) | - Je suis désolé. | CHINE | SOURCE UNIQUE | 太平洋汽车 |
 
 ## Contrôles d'exportation de ramassage: lit, transmission et conflit de couple

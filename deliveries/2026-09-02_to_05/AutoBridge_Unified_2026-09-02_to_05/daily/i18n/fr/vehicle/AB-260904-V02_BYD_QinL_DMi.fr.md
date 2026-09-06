@@ -5,7 +5,7 @@
 - **Description détaillée**: BYD du marché chinois hybride rechargeable Qin L DM-i cinquième génération — moteur dédié 1.5L,  LFP Blade battery 10.08/15.87 kWh,  80/120 km CLTC electric range,  and  les contrôles auprès des exportateurs.
 - **URL suggérée**: /véhicules/byd-qin-l-dm-i/
 - ** H1 **: BYD Qin L DM-i (Cinquième génération DM): marché chinois PHEV Spécifications et notes d'exportation
-- **Mot-clé principal**:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+- **Mot-clé principal**:,
 - ** Termes de recherche secondaires**: Qin L DM-i 120km, DM de cinquième génération, BYD Lame batterie PHEV, Qin L CLTC gamme, 秦 L DM-i export
 - **Suggestions de lien interne**: /guides/ev-shipping- un3556-imdg-compliance/; /guides/emission-compatibilité-carburant-véhicules-chine/; /guides/export-véhicule-document-package/
 - **Suggestions d'image**: profil latéral Qin L DM-i; port de charge; diagramme de la batterie de la lame sous le plancher; badge 120km; cabine arrière
@@ -21,8 +21,8 @@ Le Qin L DM-i est un saloon hybride rechargeable de taille moyenne construit sur
 | Moteur | 1.5 L moteur à essence hybride dédié |
 | Transmission | E-CVT (VRD à une vitesse unique, superhybride DM) |
 | Batterie | LFP **Blade de batterie** |
-| Capacité de la batterie | ** 10.08 kWh (80 km) / 15.87 kWh (120 km)** — version spécifique |
-| Gamme électrique (CLTC) | **80 km / 120 km** |
+| Capacité de la batterie | ** 10.08 kWh (80 km) 15.87 kWh (120 km)** — version spécifique |
+| Gamme électrique (CLTC) | **80 km 120 km** |
 | Cycle d'essai | **CLTC** (non WLTP/NEDC — ne jamais citer un chiffre CLTC dans un autre cycle) |
 | Chargement rapide | about 0.42 h for 30–80% on the 120 km car (single-source; confirmer par OEM) |
 | Poids de la courbe (représentant) | 1775 kg |
@@ -35,12 +35,12 @@ Un acheteur de VÉHI a besoin de quatre réponses dans l'ordre: **moteur, moteur
 - Un chiffre global d'environ ** 2100 km sur un réservoir complet et une charge complète** apparaît dans la couverture chinoise sous la forme d'un nombre ** réclamé par le fabricant**. Il doit être étiqueté comme une revendication d'usine, jamais présentée comme un résultat mesuré, et il n'est pas comparable à un chiffre du cycle de destination.
 
 ## Corps et cabine
-- Longueur/largeur/la hauteur: ** 4830 / 1900 / 1495 mm **
+- Longueur/largeur/la hauteur: ** 4830 1900 1495 mm **
 - Empattement: ** 2790 mm **
 - Sièges: ** 5 ** (source unique pour le nombre de sièges; confirmer sur la feuille de garniture)
 
 ## Différences de version qui ne doivent pas être mélangées
-- ** 80 km vs 120 km ** = batterie différente (10.08 vs 15.87 kWh); recharger le matériel et les garnitures s'amplifient également. Indiquer la version avant toute phrase de plage.
+- ** 80 km vs 120 km ** batterie différente (10.08 vs 15.87 kWh); recharger le matériel et les garnitures s'amplifient également. Indiquer la version avant toute phrase de plage.
 - La gamme électrique CLTC et toute revendication de gamme combinée sont assises sur différentes bases d'essai; ne les ajoutez pas ou ne les comparez pas directement.
 - L'équipement de ligne chinoise ne constitue pas une preuve de l'exportation d'équipement du marché sans une page OEM outre-mer.
 
@@ -53,10 +53,10 @@ Un acheteur de VÉHI a besoin de quatre réponses dans l'ordre: **moteur, moteur
 5. **Emission/type de carburant** et classe d'enregistrement hybride de destination; confirmer le dossier de documentation à partir de la liste de contrôle des documents d'exportation.
 
 ## Demande de contingentation à l'exportation actuelle
-Aucun prix à l'exportation n'est publié. La gamme de guidages chinois 2024 (environ RMB 99, 800–139, 800) est une référence nationale sensible au temps, non FOB/CIF**. Request a live quote with **Destination Country · Quantity · Preferred Trim (80/120 km) · LHD/RHD · Destination Port · Incoterm**.
+Aucun prix à l'exportation n'est publié. La gamme de guidages chinois 2024 (environ RMB 99,800–139,800) est une référence nationale sensible au temps, non FOB/CIF**. Request a live quote with **Destination Country · Quantity · Preferred Trim (80/120 km) · LHD/RHD · Destination Port · Incoterm**.
 
 ## Foire aux questions
-**Quelle est la différence entre le DM-i 80 Qin L et 120 ?** Capacité de la batterie (10.08 vs 15.87 kWh) et portée électrique CLTC (80 vs 120 km) plus marches de l'équipement — spécifiez la version sur la commande.
+**Quelle est la différence entre le DM-i 80 Qin L et 120 Capacité de la batterie (10.08 vs 15.87 kWh) et portée électrique CLTC (80 vs 120 km) plus marches de l'équipement — spécifiez la version sur la commande.
 **La plage 2100 km est-elle une figure testée?** Non; il s'agit d'un chiffre de pleine charge et de plein-charnière revendiqué par le fabricant et doit être étiqueté comme tel.
 **Le quel cycle d'essai est utilisé?** Les chiffres chinois sont CLTC; ne les présentent pas comme WLTP ou NEDC.
 **Le connecteur de recharge chinois fonctionne-t-il à l'étranger?** Pas automatiquement — le matériel GB/T doit être vérifié par rapport au connecteur de destination.
@@ -74,18 +74,18 @@ Aucun prix à l'exportation n'est publié. La gamme de guidages chinois 2024 (en
 - IMAGE_RIGHTS_STATUS: FAIL (aucun actif autorisé capturé; un détenteur de place ou -tain vieille image - Note n'est pas accepté)
 - C'est une question de "relation" Aucune image réutilisable ne peut être sécurisée: Wikimedia Commons/Flickr sont inaccessibles depuis l'environnement de recherche, les bibliothèques de stock nécessitent un accès authentifié API/licence, et une image de page web OEM n'est PAS une subvention de réutilisation commerciale; aucune photo appartenant à AutoBridge n'existe. Il a gardé la FAIL plutôt que de l'affirmer.
 - ALAT par langue:
-  - **EN**: AutoBridge export-buyer reference — BYD Qin L DM-i, plug-in hybrid vehicle / sedan
-  - **FR**: Référence AutoBridge pour acheteurs export — BYD Qin L DM-i, véhicule hybride rechargeable / berline
-  - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Qin L DM-i, Plug-in-Hybridfahrzeug / Limousine
-  - **ES**: Referencia AutoBridge para compradores de exportación — BYD Qin L DM-i, vehículo híbrido enchufable / berlina
-  - **PT**: Referência AutoBridge para compradores de exportação — BYD Qin L DM-i, veículo híbrido plug-in / sedã
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜BYD Qin L DM-i, プラグインハイブリッド車 / セダン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜BYD Qin L DM-i, 플러그인 하이브리드 차량 / 세단
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — BYD Qin L DM-i, xe hybrid sạc ngoài / sedan
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — BYD Qin L DM-i, รถปลั๊กอินไฮบริด / รถเก๋งซีดาน
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — BYD Qin L DM-i, kendaraan hybrid plug-in / sedan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Qin L DM-i, مركبة هجينة قابلة للشحن / سيدان
-  - **ZH**: AutoBridge 出口采购参考｜BYD Qin L DM-i, 插电混动车 / 轿车
+  - **EN**: AutoBridge export-buyer reference — BYD Qin L DM-i, plug-in hybrid vehicle sedan
+  - **FR**: Référence AutoBridge pour acheteurs export — BYD Qin L DM-i, véhicule hybride rechargeable berline
+  - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Qin L DM-i, Plug-in-Hybridfahrzeug Limousine
+  - **ES**: Referencia AutoBridge para compradores de exportación — BYD Qin L DM-i, vehículo híbrido enchufable berlina
+  - **PT**: Referência AutoBridge para compradores de exportação — BYD Qin L DM-i, veículo híbrido plug-in sedã
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜BYD Qin L DM-i, プラグインハイブリッド車 セダン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜BYD Qin L DM-i, 플러그인 하이브리드 차량 세단
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — BYD Qin L DM-i, xe hybrid sạc ngoài sedan
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — BYD Qin L DM-i, รถปลั๊กอินไฮบริด รถเก๋งซีดาน
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — BYD Qin L DM-i, kendaraan hybrid plug-in sedan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Qin L DM-i, مركبة هجينة قابلة للشحن سيدان
+  - **ZH**: AutoBridge 出口采购参考｜BYD Qin L DM-i, 插电混动车 轿车
 
 ## Sources et vérification
 | Titre de la source | Organisation | Marché | URL | Vérification | Confiance | Faits corroborés |

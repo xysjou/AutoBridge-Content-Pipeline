@@ -7,12 +7,12 @@
 - **Primary Keyword**: tir transporte rodoviário china central asiática
 - ** Termos de pesquisa secundários**: caderneta TIR; China Central Asia trucking; certificado de homologação de veículos; selo aduaneiro; trânsito rodoviário
 - ** URL sugerida**: /guides/tir-road-transport-china-central-asia/
-- **Intenção de pesquisa**: 对中亚/欧洲卡航出口, 如何适用 TIR 公约, 办理 TIR 证与海关加封车辆批准证明, 2026 新规变化
+- **Intenção de pesquisa**: 如何适用 TIR 公约, 办理 TIR 证与海关加封车辆批准证明, 2026 新规变化（对中亚）（欧洲卡航出口）
 - **As sugestões de ligação interna**: /guias/caminho-estrada-transporte-china-central-asia/, /guias/veículo-exportação-hs-código-história/, /guias/quina-exportação-customs-declaração-única-janela/
 - **Schema Scope** Artigo (sem Produto/Oferta/Revisão)
 
 ## O que muda TIR para um exportador terrestre
-TIR é um sistema de trânsito aduaneiro internacional que permite que um veículo rodoviário ou contentor selado se mova através de partes contratantes com uma única caderneta ** TIR, mercadorias geralmente permanecendo selados e direitos / impostos garantidos ao longo da cadeia. Para os exportadores chineses, os veículos ou peças por terra para a Ásia Central e para a Europa, reduz a inspeção e as garantias de fronteiras repetidas. Trata-se de uma convenção-quadro; os pormenores operacionais são aplicados pelos costumes de cada parte contratante.
+TIR é um sistema de trânsito aduaneiro internacional que permite que um veículo rodoviário ou contentor selado se mova através de partes contratantes com uma única caderneta ** TIR, mercadorias geralmente permanecendo selados e direitos impostos garantidos ao longo da cadeia. Para os exportadores chineses, os veículos ou peças por terra para a Ásia Central e para a Europa, reduz a inspeção e as garantias de fronteiras repetidas. Trata-se de uma convenção-quadro; os pormenores operacionais são aplicados pelos costumes de cada parte contratante.
 
 ## Os dois documentos que não devem ser confundidos
 - ** caderneta TIR (TIR 证)**: o documento de garantia de trânsito apresentado à partida, nas estâncias aduaneiras de destino e de destino.
@@ -48,7 +48,7 @@ Este guia não lista todas as partes contratantes, taxa de garantia ou linha de 
 | 海关总署公告 2026 年第 2 号 (关于优化落实 TIR 公约有关事项) | 中华人民共和国海关总署 | NC | T1 | VERIFICADO | http://www.customs.gov.cn/customs/2026-01/05/article_2026010515561027770.html | 车辆批准证明书, TIR 证交验, 适用范围扩展 |
 | 海关总署公告 2026 年第 2 号 (PDF 原件) | 中华人民共和国海关总署 | NC | T1 | VERIFICADO | http://www.customs.gov.cn/customs/attachDir/2026/01/%E6%B5%B7%E5%85%B3%E6%80%BB%E7%BD%B2%E5%85%B3%E4%BA%8E%E4%BC%98%E5%8C%96%E8%90%BD%E5%AE%9ETIR%E5%85%AC%E7%BA%A6%E6%9C%89%E5%85%B3%E4%BA%8B%E9%A1%B9%E7%9A%84%E5%85%AC%E5%91%8A%20(1).pdf | 公告全文一致性核验 |
 | 海关总署公告 2026 年第 2 号 (国务院公报) | 中国政府网 | NC | T1 | VERIFICADO | https://www.gov.cn/gongbao/2026/issue_12666/202604/content_7065109.html | 公报核验 |
-| TIR 国际公路运输及服务指南 (政策解读) | 武汉市 (促进跨境贸易便利化, 搜狐转载) | NC | T3 | CROSS_CHECKED | https://m.sohu.com/a/1054225552_121106908/ | 中国 2016 加入 / 2019 全国实施 / 2026 扩展跨境电商保税 |
+| TIR 国际公路运输及服务指南 (政策解读) | 武汉市 (促进跨境贸易便利化, 搜狐转载) | NC | T3 | CROSS_CHECKED | https://m.sohu.com/a/1054225552_121106908/ | 中国 2016 加入 2019 全国实施 2026 扩展跨境电商保税 |
 | Convenção TIR,  1975 — UN Treaty Collection official text | Recolha do Tratado das Nações Unidas | INT | T1/T2 | VERIFICADO | https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XI-A-16&chapter=11 | Texto jurídico oficial da Convenção Aduaneira sobre o Transporte Internacional de Mercadorias, ao abrigo das cadernetas TIR |
 | IRU — Sistema de caderneta TIR e cadeia de garantia | União Internacional dos Transportes Rodoviários (URI) | INT | T1/T2 | VERIFICADO | https://www.iru.org/ | Federação emissora de caderneta TIR; explica a cadeia de garantia e os requisitos de operador controlado |
 ## Revisão Editorial

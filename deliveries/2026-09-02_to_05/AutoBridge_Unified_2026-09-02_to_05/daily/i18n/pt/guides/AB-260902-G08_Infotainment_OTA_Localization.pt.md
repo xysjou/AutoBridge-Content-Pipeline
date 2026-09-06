@@ -26,7 +26,7 @@ O material de marca cruzada deste artigo tem um teto duro: ** todas as cinco fon
 |---|---|---|---|
 | ** Língua UI 1. * | Língua de destino estável em todos os menus, avisos, voz | Chinês-apenas ou tradução de máquina parcial com erros de layout | Ensaio por VIN |
 | ** 2. Navegação/mapas ** | Mapas de ruas locais e, para EVs, dados do carregador local | Apenas mapas da China; nenhum POI/dados do carregador local | Ensaio por VIN |
-| ** 3. Espelhamento de telefone** | Carro confiável jogar / Android Auto | Ausente, instável ou bloqueado por região | Teste por VIN; varia de marca/corta |
+| ** 3. Espelhamento de telefone** | Carro confiável jogar Android Auto | Ausente, instável ou bloqueado por região | Teste por VIN; varia de marca/corta |
 | ** 4. Servidor de & conta do proprietário** | Aplica- se localmente; nuvem acessível no estrangeiro | Aplicativo indisponível localmente; conta/servidor bloqueado para a China | Marca específica – confirme com a marca |
 | ** 5. OTA ** | Endpoint OTA acessível; atualizações instalar de fora | Ponto final inacessível, carro congelado em construção antiga | Marca/VIN específica |
 Para ** scripts de direita para esquerda (árabe)**, a localização adequada precisa de gramática RTL/layout, não apenas tradução; uma unidade "capaz de Inglês" não é automaticamente pronta para árabe.
@@ -87,15 +87,15 @@ Os fornecedores de localização têm um incentivo para dizer que todos os probl
 | BYD Sea Lion 07 Ukraine localisation case | NEV Fix (serviço de localização) | CN→multi | https://nevfix.net/blog/byd-sealion-07-ukraine-localization-case.html | 2026-09-02 | FONTE ÚNICA | ** Exemplo específico da marca**: Problemas somente na China; BYD conta Inglês switch (re-confirmar por modelo) |
 | Denza Z Europeu Google/Gemini vs cabine doméstica | Xueqiu (libertação de citações) | CN→UE | https://xueqiu.com/9837237227/399831947 | 2026-09-02 | FONTE ÚNICA | **Exemplo** de exportação vs pilha doméstica (não universal) |
 | Lista de verificação de software Per-VIN | StarVia Auto (serviço de exportação) | CN→Global | https://www.starviaauto.com/en/blog/making-chinese-ev-software-work-locally | 2026-09-02 | FONTE ÚNICA | Método de aceitação de cinco verificações |
-| Padrão de exportação multilíngue/RTL | CID 赛迪 / Neusoft OneCore Cobertura de go (mídias industriais) | Global | http://www.ccidnet.com/hlw/93237.jhtml | 2026-09-02 | FONTE ÚNICA | RTL/Arabe relevation |
+| Padrão de exportação multilíngue/RTL | CID 赛迪 Neusoft OneCore Cobertura de go (mídias industriais) | Global | http://www.ccidnet.com/hlw/93237.jhtml | 2026-09-02 | FONTE ÚNICA | RTL/Arabe relevation |
 | Chinese Car OS English Version B2B Export Guide | Auto elétrico China | NC | https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-chinese-car-os-english-version/ | 2026-09-02 | FONTE ÚNICA | 英文 HMI, 刷机成本 (行业口径, 待官方核验) |
-| 中国汽车出海, 智能化为何 " 水土不服 " | 汽车之家 · 车家号 | NC | https://chejiahao.m.autohome.com.cn/info/26145241?isfrom=pc | 2026-09-02 | FONTE ÚNICA | 海外用户 UI 翻译 / 手机互联问题 |
+| 中国汽车出海, 智能化为何 " 水土不服 " | 汽车之家 · 车家号 | NC | https://chejiahao.m.autohome.com.cn/info/26145241?isfrom=pc | 2026-09-02 | FONTE ÚNICA | 海外用户 UI 翻译 手机互联问题 |
 
 * Nota de confiança: todo o material citado é indústria/serviço/media e é usado como ilustração de padrões ou casos de marca única — nunca como prova de que todos os veículos chineses compartilham o comportamento. Listas de idiomas de exportação por marca, política de região de servidor da OTA e a alegação de inspeção "HMI Inglês obrigatório" não foram confirmadas por um regulador primário e devem ser estabelecidas no canal ultramarino da marca para o VIN específico. *
 ## Revisão Editorial
-- **Autor / revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)
+- **Autor revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)
 - ** Última revisão**: 2026-09-05
-- ** Mercado de referência**: Global (exportação da China / importação paralela)
+- ** Mercado de referência**: Global (exportação da China importação paralela)
 - ** Método de verificação**: Casos industriais rotulados como exemplos; cada verificação decisiva encaminhada para um teste ao vivo per-VIN e o canal ultramarino da marca
 - ** Norma editorial**: Pesquisado e escrito a partir das fontes listadas acima (pesquisa de mesa; nenhuma condução em primeira mão, demolição ou importação é reivindicada). A confiança na fonte é mostrada por linha; qualquer ponto que não podemos confirmar independentemente é apresentado como um item de verificação em vez de afirmado como fato.
 #AutoBridge #InfotainmentLocalization #OTAUpdate #PerVINTest #VehicleExport

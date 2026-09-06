@@ -1,7 +1,7 @@
 # FAW Jiefang J6P Tracteur lourd: Moteur, boîte de vitesses, essieu et GCW Lire comme une décision de tracteur-spécifique
 ## OEuvre Métadonnées
 - ** Titre du référencement**: FAW Jiefang J6P Tracteur Caractéristiques: Moteur, GCW & Notes d'exportation
-- **Description détaillée**: Marché chinois Jiefang J6P tracteur lourd — Xichai CA6DM2 460 PS / 2300 N·m Diesel China-VI, 4 × 2/6 × 4/8 × 4 mises en page, 10–16-speed boîtes de vitesses, ~ 40 t GCW classe, et les acheteurs de contrôles d'exportation ont besoin.
+- **Description détaillée**: Marché chinois Jiefang J6P tracteur lourd — Xichai CA6DM2 460 PS 2300 N·m Diesel China-VI, 4 × 2/6 × 4/8 × 4 mises en page, 10–16-speed boîtes de vitesses, ~ 40 t GCW classe, et les acheteurs de contrôles d'exportation ont besoin.
 - **URL suggérée**: /véhicules/faw-jiefang- j6p-tractor-specs/
 - ** H1 **: FAW Jiefang J6P (Marché chinois): Groupe motopropulseur, châssis et vérification des exportations
 - **Mot-clé principal**: spécifications du tracteur faw jiefang j6p
@@ -20,12 +20,12 @@ Pour un tracteur à transport lourd, les champs décisifs sont **déplacement et
 | Émissions | Chine VI (国六) |
 | Puissance | 338–341 kW (≈460 PS) |
 | Couple maximal | 2300 N·m à 1000–1400 tr/min |
-| Après traitement | EGR + DOC + DPF + SCR (Chine VI / Chine VI-b) |
+| Après traitement | EGR + DOC + DPF + SCR (Chine VI Chine VI-b) |
 Le modèle moteur et son couple 2300 N·m sont recoupés entre deux sources chinoises de véhicules commerciaux. Un échelon supérieur ** CA6DM3 13 L  ↓ 560 PS (" 3.0 ")** avec un intervalle de fuite long de ~ 150,000 km est une source unique et doit être confirmé sur le code exact plutôt que supposé.
 
 ## Boîte de vitesses, essieux et GCW
 - **Boîtes de lecture:** 10- à 16-speed manuels (exemple ** CA12TAX260M 12-speed **), avec **AMT facultatif** — préciser le modèle exact et si AMT est nécessaire.
-- **La disposition des commandes:** 4 × 2 / 6 × 4 / 8 × 4; les commandes d'exportation linéaires évaluent le plus souvent 6 × 4.
+- **La disposition des commandes:** 4 × 2 6 × 4 8 × 4; les commandes d'exportation linéaires évaluent le plus souvent 6 × 4.
 - ** Classe GCW:** La 6 × 4 se situe dans la classe environ ** 40-tonne GCW** (source unique; confirmer la GCW cotée sur le certificat d'homologation, car elle change avec le choix de l'essieu/du pneu/du système de suspension).
 - Confirmer ** rapport final-drive/essieu, position de la cinquième roue, suspension (feuille/air), dimension des pneumatiques et capacité du réservoir de carburant** pour le terrain de la route et poids légaux.
 
@@ -46,7 +46,7 @@ Les diesels Chine-VI utilisent EGR+DOC+DPF+SCR et nécessitent un diesel ultra-f
 Aucun prix à l'exportation statique et aucun PDSF chinois n'ont été capturés; aucun n'est inventé. Demande avec **Pays de destination · Code modèle · Mise en forme du moteur · Moteur/Émission · LHD/RHD · Port de destination · Incoterm**.
 
 ## Foire aux questions
-**Quel est le moteur du J6P 460 ?** Le Xichai CA6DM2-46E6, un 11.05 L en ligne- 6 Chine-VI diesel à environ 460 PS et 2300 N·m.
+**Quel est le moteur du J6P 460 Le Xichai CA6DM2-46E6, un 11.05 L en ligne- 6 Chine-VI diesel à environ 460 PS et 2300 N·m.
 **Quels schémas existent?** 4 × 2, 6 × 4 et 8 × 4; 6 × 4 est le choix commun de ligne-courrier.
 **Une boîte de vitesses automatique est-elle disponible?** AMT est optionnel aux côtés des manuels 10–16-speed; nommez le modèle exact de boîte de vitesses.
 **Qu'est-ce que le GCW?** Le 6 × 4 est dans la classe ~ 40 t, mais la GCW nominale dépend de l'essieu/le pneu/la suspension — confirmer sur le certificat.
@@ -65,25 +65,25 @@ Aucun prix à l'exportation statique et aucun PDSF chinois n'ont été capturés
 - IMAGE_RIGHTS_STATUS: FAIL (aucun actif autorisé capturé; un détenteur de place ou -tain vieille image - Note n'est pas accepté)
 - C'est une question de "relation" Aucune image réutilisable ne peut être sécurisée: Wikimedia Commons/Flickr sont inaccessibles depuis l'environnement de recherche, les bibliothèques de stock nécessitent un accès authentifié API/licence, et une image de page web OEM n'est PAS une subvention de réutilisation commerciale; aucune photo appartenant à AutoBridge n'existe. Il a gardé la FAIL plutôt que de l'affirmer.
 - ALAT par langue:
-  - **EN**: AutoBridge export-buyer reference — FAW Jiefang J6P, petrol/diesel Chinese-market vehicle / heavy tractor truck
-  - **FR**: Référence AutoBridge pour acheteurs export — FAW Jiefang J6P, véhicule thermique (marché chinois) / tracteur routier lourd
-  - **DE**: AutoBridge-Referenz für Exportkäufer — FAW Jiefang J6P, Verbrenner (chinesischer Markt) / schwere Sattelzugmaschine
-  - **ES**: Referencia AutoBridge para compradores de exportación — FAW Jiefang J6P, vehículo de combustión (mercado chino) / cabeza tractora pesada
-  - **PT**: Referência AutoBridge para compradores de exportação — FAW Jiefang J6P, veículo a combustão (mercado chinês) / cavalo mecânico pesado
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜FAW Jiefang J6P, 中国市場仕様 内燃機関車 / 大型トラクターヘッド
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜FAW Jiefang J6P, 중국 시장 내연기관 차량 / 대형 트랙터 트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — FAW Jiefang J6P, xe động cơ đốt trong (thị trường Trung Quốc) / đầu kéo hạng nặng
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — FAW Jiefang J6P, รถเครื่องยนต์สันดาป (ตลาดจีน) / หัวลากบรรทุกหนัก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — FAW Jiefang J6P, kendaraan mesin pembakaran (pasar Tiongkok) / truk traktor berat
-  - **AR**: مرجع AutoBridge لمشتري التصدير — FAW Jiefang J6P, مركبة بمحرك احتراق (سوق الصين) / رأس قاطرة ثقيل
-  - **ZH**: AutoBridge 出口采购参考｜FAW Jiefang J6P, 中国市场燃油车 / 重型牵引车
+  - **EN**: AutoBridge export-buyer reference — FAW Jiefang J6P, petrol/diesel Chinese-market vehicle heavy tractor truck
+  - **FR**: Référence AutoBridge pour acheteurs export — FAW Jiefang J6P, véhicule thermique (marché chinois) tracteur routier lourd
+  - **DE**: AutoBridge-Referenz für Exportkäufer — FAW Jiefang J6P, Verbrenner (chinesischer Markt) schwere Sattelzugmaschine
+  - **ES**: Referencia AutoBridge para compradores de exportación — FAW Jiefang J6P, vehículo de combustión (mercado chino) cabeza tractora pesada
+  - **PT**: Referência AutoBridge para compradores de exportação — FAW Jiefang J6P, veículo a combustão (mercado chinês) cavalo mecânico pesado
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜FAW Jiefang J6P, 中国市場仕様 内燃機関車 大型トラクターヘッド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜FAW Jiefang J6P, 중국 시장 내연기관 차량 대형 트랙터 트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — FAW Jiefang J6P, xe động cơ đốt trong (thị trường Trung Quốc) đầu kéo hạng nặng
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — FAW Jiefang J6P, รถเครื่องยนต์สันดาป (ตลาดจีน) หัวลากบรรทุกหนัก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — FAW Jiefang J6P, kendaraan mesin pembakaran (pasar Tiongkok) truk traktor berat
+  - **AR**: مرجع AutoBridge لمشتري التصدير — FAW Jiefang J6P, مركبة بمحرك احتراق (سوق الصين) رأس قاطرة ثقيل
+  - **ZH**: AutoBridge 出口采购参考｜FAW Jiefang J6P, 中国市场燃油车 重型牵引车
 
 ## Sources et vérification
 | Titre de la source | Organisation | Marché | URL | Vérification | Confiance | Faits corroborés |
 |---|---|---|---|---|---|---|
-| Nouveau J6P 460 (CA6DM2-46E6 / 2300 N·m) | Maison de camion / Toutiao | NC | http://m.toutiao.com/group/7109372278135095819/ | 2026-09-03 | _CHECTURE | Modèle de moteur, puissance/torque, Chine VI |
-| Comparaison J6P (CA6DM2-46E61, 341 kW) | Maison de camion / Toutiao | NC | http://m.toutiao.com/group/7187639730950013444/ | 2026-09-03 | _CHECTURE | 338–341 kW cross-check, la disposition des disques |
-| J6P 3.0 (CA6DM3 13 L 560 PS) | Maison de camion / Toutiao | NC | http://m.toutiao.com/group/6919343124628374029/ | 2026-09-03 | SOURCE UNIQUE | 13 L 560 PS, intervalle de drainage long |
+| Nouveau J6P 460 (CA6DM2-46E6 2300 N·m) | Maison de camion Toutiao | NC | http://m.toutiao.com/group/7109372278135095819/ | 2026-09-03 | _CHECTURE | Modèle de moteur, puissance/torque, Chine VI |
+| Comparaison J6P (CA6DM2-46E61, 341 kW) | Maison de camion Toutiao | NC | http://m.toutiao.com/group/7187639730950013444/ | 2026-09-03 | _CHECTURE | 338–341 kW cross-check, la disposition des disques |
+| J6P 3.0 (CA6DM3 13 L 560 PS) | Maison de camion Toutiao | NC | http://m.toutiao.com/group/6919343124628374029/ | 2026-09-03 | SOURCE UNIQUE | 13 L 560 PS, intervalle de drainage long |
 | Jiefang J6 modèle/drive/power lineage | Douyin Encyclopédie | NC | https://m.baike.com/wiki/%E8%A7%A3%E6%94%BEJ6/2354654 | 2026-09-03 | SOURCE UNIQUE | Mise en page/plan de l'orientation |
 | Catalogue des constructeurs et des produits de véhicules automobiles routiers — système de requête publique | MIIT, Ministère chinois de l'industrie et des technologies de l'information | NC | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VÉRIFIER | Vérifier l'entrée du catalogue du fabricant, du modèle approuvé et de l'homologation (公告) avant de commander ou d'exporter |
 | BG 16735-2019 Véhicules routiers — Prescriptions relatives au numéro d'identification du véhicule (VIN) | Plateforme en texte intégral des normes nationales SAMR | NC | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VÉRIFIER | Les champs de données de la structure et de la plaque nominative du NIV utilisés dans la vérification du NIV/plaque nominative de l'acheteur |
@@ -94,7 +94,7 @@ Aucun prix à l'exportation statique et aucun PDSF chinois n'ont été capturés
 *Note de confiance: aucune fiche de spécifications primaires FAW n'a été capturée; le moteur/torque 460 est recoupé (CROSS_CHECKED), tandis que les 13 L 560 PS et ~ 40 t GCW sont une source unique et liés au code de modèle homologué. La compatibilité après traitement Chine-VI est une vérification technique/approbation, non supposée. *
 
 ## Révision de la rédaction
-- **Auteur / réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)
+- **Auteur réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)
 - **Dernière révision**: 2026-09-05
 - **Marché de référence**: Chine, tracteur J6P (référence du marché chinois; ligne d'entraînement spécifique à la commande)
 - ** Méthode de vérification**: vérification croisée des véhicules commerciaux; éléments à source unique et champ d'application signalé

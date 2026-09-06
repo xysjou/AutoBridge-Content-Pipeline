@@ -1,7 +1,7 @@
 # Farizon Xingxiang V6E Vanne électrique de fret: Verrouillage de l'année-batterie,  6 m³ Load Bay  and  a Exportation de Türkiye documentée
 ## OEuvre Métadonnées
 - **Référencement**: Farizon V6E Spécifications de fourgonnette électrique et notes d'achat à l'exportation
-- **Description détaillée**: marché chinois Farizon (Geely) Xingxiang V6E fourgonnette électrique — 60 kW / 220 N·m moteur,  6 m³ cargo volume, 35.2 kWh / 260 km base vs plus récent 51 kWh, limite de 90 km/h,  and  une expédition Türkiye de la spécification UE enregistrée.
+- **Description détaillée**: marché chinois Farizon (Geely) Xingxiang V6E fourgonnette électrique — 60 kW 220 N·m moteur,  6 m³ cargo volume, 35.2 kWh 260 km base vs plus récent 51 kWh, limite de 90 km/h,  and  une expédition Türkiye de la spécification UE enregistrée.
 - **URL suggérée**: /véhicules/farizon-xingxiang- v6e-specs/
 - ** H1 **: Farizon Xingxiang V6E (Marché chinois): Spécifications de fourgonnette électrique et vérification des exportations
 - **Mot-clé principal**: farizon v6e spécifications de fourgon électrique
@@ -16,11 +16,11 @@ Le Xingxiang V6E est le fourgon de livraison urbain de Farizon (marque de Geely 
 ## Ligne d'entraînement et de chargement (visage électrique)
 | Point | V6E Référence Chine |
 |---|---|
-| Moteur | Wolong-ZF ** TZ185XS022 ** aimant permanent, ** 60 kW / 220 N·m ** |
+| Moteur | Wolong-ZF ** TZ185XS022 ** aimant permanent, ** 60 kW 220 N·m ** |
 | Vitesse maximale | ** 90 km/h (électroniquement limité)** |
 | Volume de fret | **6 m³** (cargo bay ~1.6 m long reference) |
 | Suspension arrière | Essieu rigide avec ressorts à feuilles ** (orienté vers la charge) |
-| Batterie/fourchette de base | ** 35.2 kWh / 260 km plage de conditions de travail** |
+| Batterie/fourchette de base | ** 35.2 kWh 260 km plage de conditions de travail** |
 | Construction plus récente | A **plus grande batterie La construction de Xuanwu est listée dans les bases de données chinoises**, mais sa capacité exacte/étendue n'est pas affirmée ici — confirmer sur le catalogue MIIT et la feuille de construction de VIN (TIME_SENSITIVE) |
 
 Pour une fourgonnette logistique, les acheteurs devraient peser **volume de cargo, charge utile (confirmer sur le code homologué), l'essieu arrière à ressort à charge et la limite 90 km/h** par rapport aux besoins de vitesse de l'itinéraire — c'est un véhicule ville/dernier kilomètre, pas un camion long-courrier.
@@ -49,7 +49,7 @@ Aucun prix à l'exportation statique et aucun PDSF chinois n'ont été capturés
 ** Jusqu'où va-t-elle sur une charge?** Le paquet de base de référence est 35.2 kWh à environ 260 km (état de travail); une construction plus grande de batteries est répertoriée, mais son chiffre exact doit être confirmé sur le catalogue et le VIN plutôt que cité.
 **Quelle est la vitesse maximale?** 90 km/h, électroniquement limité — une caractéristique ville/dernier kilomètre.
 **Le V6E a-t-il été exporté?** Oui — un lot de la série «Spec» de l'UE a été enregistré à Türkiye en février 2024; ce lot d'exportation n'est pas automatiquement identique à la fourgonnette «Spec» de la série «Sino».
-** Quel moteur utilise-t-il?** Un moteur à aimant permanent Wolong-ZF TZ185XS022, 60 kW / 220 N·m.
+** Quel moteur utilise-t-il?** Un moteur à aimant permanent Wolong-ZF TZ185XS022, 60 kW 220 N·m.
 
 ## Enregistrement d'image
 - IMAGE_ASSET_PATH: aucun sécurisé dans le dépôt
@@ -64,23 +64,23 @@ Aucun prix à l'exportation statique et aucun PDSF chinois n'ont été capturés
 - IMAGE_RIGHTS_STATUS: FAIL (aucun actif autorisé capturé; un détenteur de place ou -tain vieille image - Note n'est pas accepté)
 - C'est une question de "relation" Aucune image réutilisable ne peut être sécurisée: Wikimedia Commons/Flickr sont inaccessibles depuis l'environnement de recherche, les bibliothèques de stock nécessitent un accès authentifié API/licence, et une image de page web OEM n'est PAS une subvention de réutilisation commerciale; aucune photo appartenant à AutoBridge n'existe. Il a gardé la FAIL plutôt que de l'affirmer.
 - ALAT par langue:
-  - **EN**: AutoBridge export-buyer reference — Farizon Xingxiang V6E, battery-electric vehicle / cargo van
-  - **FR**: Référence AutoBridge pour acheteurs export — Farizon Xingxiang V6E, véhicule 100 % électrique / fourgon
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Farizon Xingxiang V6E, batterieelektrisches Fahrzeug / Kastenwagen
-  - **ES**: Referencia AutoBridge para compradores de exportación — Farizon Xingxiang V6E, vehículo 100 % eléctrico / furgoneta de carga
-  - **PT**: Referência AutoBridge para compradores de exportação — Farizon Xingxiang V6E, veículo 100 % elétrico / furgão de carga
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Farizon Xingxiang V6E, 純電気自動車 / 貨物バン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Farizon Xingxiang V6E, 순수 전기차 / 카고 밴
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Farizon Xingxiang V6E, xe thuần điện / xe van chở hàng
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Farizon Xingxiang V6E, รถยนต์ไฟฟ้า 100% / รถตู้บรรทุก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Farizon Xingxiang V6E, kendaraan listrik murni / van kargo
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Farizon Xingxiang V6E, مركبة كهربائية بالبطارية / شاحنة فان للبضائع
-  - **ZH**: AutoBridge 出口采购参考｜Farizon Xingxiang V6E, 纯电动车 / 厢式货车
+  - **EN**: AutoBridge export-buyer reference — Farizon Xingxiang V6E, battery-electric vehicle cargo van
+  - **FR**: Référence AutoBridge pour acheteurs export — Farizon Xingxiang V6E, véhicule 100 % électrique fourgon
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Farizon Xingxiang V6E, batterieelektrisches Fahrzeug Kastenwagen
+  - **ES**: Referencia AutoBridge para compradores de exportación — Farizon Xingxiang V6E, vehículo 100 % eléctrico furgoneta de carga
+  - **PT**: Referência AutoBridge para compradores de exportação — Farizon Xingxiang V6E, veículo 100 % elétrico furgão de carga
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Farizon Xingxiang V6E, 純電気自動車 貨物バン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Farizon Xingxiang V6E, 순수 전기차 카고 밴
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Farizon Xingxiang V6E, xe thuần điện xe van chở hàng
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Farizon Xingxiang V6E, รถยนต์ไฟฟ้า 100% รถตู้บรรทุก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Farizon Xingxiang V6E, kendaraan listrik murni van kargo
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Farizon Xingxiang V6E, مركبة كهربائية بالبطارية شاحنة فان للبضائع
+  - **ZH**: AutoBridge 出口采购参考｜Farizon Xingxiang V6E, 纯电动车 厢式货车
 
 ## Sources et vérification
 | Titre de la source | Organisation | Marché | URL | Vérification | Confiance | Faits corroborés |
 |---|---|---|---|---|---|---|
-| V6E révélation (moteur/ limite 0–50/speed) | Maison de camion / Toutiao | NC | http://m.toutiao.com/group/7064810099012895240/ | 2026-09-03 | _CHECTURE | 60 kW / 220 N·m, limite 90 km/h, essieu à ressort |
+| V6E révélation (moteur/ limite 0–50/speed) | Maison de camion Toutiao | NC | http://m.toutiao.com/group/7064810099012895240/ | 2026-09-03 | _CHECTURE | 60 kW 220 N·m, limite 90 km/h, essieu à ressort |
 | V6E EU-spec export to Türkiye (6 m³) | Chine Transports Nouvelles (médias d'information de l'industrie) | Médias de la CN (enregistrement d'exportation: TR) | https://www.zgjtb.com/m/2024-02/01/content_398656.html | 2026-09-03 | _CHECTURE | Fév- 2024 lot de Türkiye de la spécification UE,  6 m³ (news record, non pas OEM/gouvernement; NON VÉRIFIS) |
 | Light-commercial report (35.2 kWh/260 km/6 m³) | Auto Sohu | NC | https://m.sohu.com/a/931378694_121823499/ | 2026-09-03 | _CHECTURE | Batterie/fourchette de base, volume de cargaison |
 | Catalogue des constructeurs et des produits de véhicules automobiles routiers — système de requête publique | MIIT, Ministère chinois de l'industrie et des technologies de l'information | NC | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VÉRIFIER | Vérifier l'entrée du catalogue du fabricant, du modèle approuvé et de l'homologation (公告) avant de commander ou d'exporter |
@@ -89,10 +89,10 @@ Aucun prix à l'exportation statique et aucun PDSF chinois n'ont été capturés
 | GB 38031 prescriptions de sécurité pour les batteries de traction (GB 38031-2025; nouvelles demandes de type obligatoires à partir de 2026-07-01) | Plateforme en texte intégral des normes nationales SAMR | NC | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VÉRIFIER | Base obligatoire des exigences de sécurité en matière de batteries de traction pour le groupe motopropulseur électrifié |
 | GB 18384 prescriptions de sécurité des véhicules électriques (GB 18384-2025) | Plateforme en texte intégral des normes nationales SAMR | NC | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VÉRIFIER | Base des exigences de sécurité électrique/fonctionnelle pour véhicules électriques |
 
-* Note de confiance: le record d'exportation de Türkiye est CROSS_CHECKED industrie-news reporting (news/industrie media n'est pas VÉRIFIER — seuls les OEM/gouvernement/régulateur/normes/documents techniques formels atteignent VÉRIFIER); traité strictement comme un record de livraison, pas comme une preuve modèle-alias. Le moteur/la portée de base sont recoupés; la construction 51 kWh plus récente est sensible au temps. Les constructions de GB/T et de spécification UE en Chine sont distinctes selon le MODEL_ ALIAS / SOURCE_SCOPE règles. *
+* Note de confiance: le record d'exportation de Türkiye est CROSS_CHECKED industrie-news reporting (news/industrie media n'est pas VÉRIFIER — seuls les OEM/gouvernement/régulateur/normes/documents techniques formels atteignent VÉRIFIER); traité strictement comme un record de livraison, pas comme une preuve modèle-alias. Le moteur/la portée de base sont recoupés; la construction 51 kWh plus récente est sensible au temps. Les constructions de GB/T et de spécification UE en Chine sont distinctes selon le MODEL_ ALIAS SOURCE_SCOPE règles. *
 
 ## Révision de la rédaction
-- **Auteur / réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)
+- **Auteur réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)
 - **Dernière révision**: 2026-09-05
 - **Marché de référence**: Chine, Xingxiang V6E (référence du marché chinois; construction d'exportations de la spécification UE tenue séparément)
 - **Méthode de vérification**: Contrôle croisé + dossier officiel d'exportation; année-batterie et champ d'application du marché isolé

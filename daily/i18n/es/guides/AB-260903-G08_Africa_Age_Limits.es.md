@@ -16,20 +16,20 @@ Antes de que se trate de un número determinado, establecer la base — el contr
 - **El año de fabricación vs primer año de registro** — Kenya cuenta con **primero registro**; la prohibición de Nigeria se mide desde el **año de fabricación**. No son intercambiables.
 - **El salto entre la fabricación y el primer registro** — El estándar de Kenia también cubre cuánto tiempo después de la fabricación una unidad puede ser registrada y todavía clasificada.
 - **La fecha de referencia** — edad en el envío, a la fecha de la B/L o a la llegada; la respuesta puede diferir en meses.
-- ** Diferencias de clase de vehículos** — coche de pasajeros, camionetas / mercancías ligeras, camión de autobús/pesca a menudo llevan diferentes límites (el código de Kenya establece reglas separadas para mercancías y vehículos especiales).
+- ** Diferencias de clase de vehículos** — coche de pasajeros, camionetas mercancías ligeras, camión de autobús/pesca a menudo llevan diferentes límites (el código de Kenya establece reglas separadas para mercancías y vehículos especiales).
 ## Matriz de país
-| País | Dirección | Regla de edad | Basis / confianza |
+| País | Dirección | Regla de edad | Basis confianza |
 |---|---|---|---|
 | Kenya | RHD (excepciones limitadas para vehículos con fines especiales) | **Más de 8 años del año de la primera inscripción = no se permite la importación (vehículos de pasajeros)**; la brecha entre el primer año de registro y el año de fabricación se cubre a un año | **VERIFIED — primary**: KEBS DKS 1515: 2025 § 4.7.1–4.7.2, corroborado por KRA (Notificación legal 78/2005; KS 1515) |
 | **Nigeria** | Reconfirmar contra la instrucción aduanera actual antes de citar (el texto directivo del portal oficial de comercio debe ser revisado directamente; no asumir) | **Los vehículos automotores usados de más de 15 años (desde el año de fabricación) están prohibidos de importación**; se aplica un impuesto NAC | ** TODO IFICADO (edad) — primario**: Nigeria Single Window Trade Portal; corroborada por la reproducción de la lista de importación y prohibición de aduanas de Nigeria. A la izquierda el texto de dirección para confirmación directa |
-| #Etiopía # | - | Reported ≤ 5 years, with a reported shift towards restricting fossil-fuel vehicle imports (directional) | TIME_SENSITIVE / non-primary — ver |
-| # Ghana # | - | Reported ≤ 10 years; mandatory **OBD-II** inspection and Euro- 3-or-above emissions reported from 2023 | TIME_SENSITIVE / non-primary — verifique el estándar actual |
-| **Mozambique** | - | Reported ≤ 8 years from registration to export; original-factory maintenance-record chain reported | SINGLE-SOURCE / non-primary — ver |
-| *Sudán* | - | Atado reportado: pasajero ≤ 7 / pickup-light-goods ≤ 8 / bus-heavy-truck ≤ 10 años, con tarifas todavía pagables incluso cuando cumple | SINGLE-SOURCE / non-primary — ver |
-| **Côte d'Ivoire** | - | **No se informó de un solo límite de edad fijo**, pero obligatorio **CoC** registros de conformidad y mantenimiento rastreables | SINGLE-SOURCE / non-primary — verifique el programa CoC |
-Los conflictos anteriores 7-vs-8 (Kenya) y 12-vs-15 (Nigeria) de reenvío se resuelven a favor de los instrumentos primarios de destinato**, no mediante la selección de un reenvío: Kenya = 8 de la primera inscripción (KEBS/KRA), Nigeria = 15 de la fabricación (Nigeria Single Window / Customs).
+| #Etiopía # | - | Reported ≤ 5 years, with a reported shift towards restricting fossil-fuel vehicle imports (directional) | TIME_SENSITIVE non-primary — ver |
+| # Ghana # | - | Reported ≤ 10 years; mandatory **OBD-II** inspection and Euro- 3-or-above emissions reported from 2023 | TIME_SENSITIVE non-primary — verifique el estándar actual |
+| **Mozambique** | - | Reported ≤ 8 years from registration to export; original-factory maintenance-record chain reported | SINGLE-SOURCE non-primary — ver |
+| *Sudán* | - | Atado reportado: pasajero ≤ 7 pickup-light-goods ≤ 8 bus-heavy-truck ≤ 10 años, con tarifas todavía pagables incluso cuando cumple | SINGLE-SOURCE non-primary — ver |
+| **Côte d'Ivoire** | - | **No se informó de un solo límite de edad fijo**, pero obligatorio **CoC** registros de conformidad y mantenimiento rastreables | SINGLE-SOURCE non-primary — verifique el programa CoC |
+Los conflictos anteriores 7-vs-8 (Kenya) y 12-vs-15 (Nigeria) de reenvío se resuelven a favor de los instrumentos primarios de destinato**, no mediante la selección de un reenvío: Kenya = 8 de la primera inscripción (KEBS/KRA), Nigeria = 15 de la fabricación (Nigeria Single Window Customs).
 ## La ruta de verificación fiable (utilizarla para cada envío)
-1. **Aplicación primaria:** destino **Asuntos de autoridad o normas cuerpo** reglas de importación o gaceta actual — para Kenia que es material KEBS/KRA, para Nigeria la lista de prohibición de ventanilla única / aduanas — no un blog de carga.
+1. **Aplicación primaria:** destino **Asuntos de autoridad o normas cuerpo** reglas de importación o gaceta actual — para Kenia que es material KEBS/KRA, para Nigeria la lista de prohibición de ventanilla única aduanas — no un blog de carga.
 2. **Configurar la base:** fabricar vs primer registro, la brecha de fabricación a registro, fecha de referencia y clase de vehículo.
 3. * Legalidad de la pareja:** Kenya es el derecho internacional humanitario con excepciones limitadas en materia de vehículos especiales; para Nigeria se vuelve a confirmar la norma escrita actual en lugar de depender de una hipótesis general, se puede rechazar un desfase de dirección independientemente de la edad.
 4. **Puerta de inspección/conformidad:** Inspección de destino de Nigeria, Ghana **OBD-II**, Côte d'Ivoire **CoC**, ruta de importación de KEBS/jev de Kenya y cualquier órgano de ISP designado por los destinos (véase la guía de la ISP) confirman el programa e inspector encomendados.
@@ -83,13 +83,13 @@ Los conflictos anteriores 7-vs-8 (Kenya) y 12-vs-15 (Nigeria) de reenvío se res
 | Valores reportados de edad/estudiación multipaís (Etiopía/Sudán/Mozambique, etc.) | Material de carga para uso | África | https://m.11467.com/product/d39248249.htm | 2026-09-03 | SINGLE_SOURCE | Valores no primarios notificados para los países que han dejado insignia |
 | Ghana/Tanzania/Mozambique informó de umbrales | Material de carga para uso | África | https://m.11467.com/product/d53540859.htm | 2026-09-03 | SINGLE_SOURCE | Ghana OBD-II/Euro- 3 y Mozambique informaron de valores (no primarios) |
 | Sudán atado límites de edad y honorarios | Autohome contributed | Sudán | https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/26095860 | 2026-09-03 | SINGLE_SOURCE | Sudán informó de que 7/8/10 normas atadas (no primarias) |
-| Côte d'Ivoire importa (sin tapa dura / CoC obligatorio) | Material de carga para uso | Côte d'Ivoire | https://m.11467.com/product/d55528521.htm | 2026-09-03 | SINGLE_SOURCE | No tiene tapa fija; CoC + registros (no primario) |
+| Côte d'Ivoire importa (sin tapa dura CoC obligatorio) | Material de carga para uso | Côte d'Ivoire | https://m.11467.com/product/d55528521.htm | 2026-09-03 | SINGLE_SOURCE | No tiene tapa fija; CoC + registros (no primario) |
 *Tipos de prueba: Kenia (KEBS+KRA) y la regla de edad de Nigeria (Venta única + reproducción de aduanas) son de primaria. La redacción de dirección de Nigeria y todas las demás filas de países siguen siendo no primarias y deben ser verificadas oficialmente para la clase exacta del vehículo antes del envío; no se hace generalización regional. *
 ## Revisión editorial
 - **Autor/examen**: [Equipo Editorial Exportador AutoBridge](/autores/) · método por nuestro [Política editorial](/editorial-policía/)
 - **Documento revisado*: 2026-09-05
 - ** Mercado de referencias/ámbito**: Marco de África multinacional (COUNTRY_SPECIFIC; Kenya ' Nigeria primario-anclado; otros mercados marcados; ninguna generalización regional)
-- ** Método de verificación**: Los instrumentos primarios de destino preferían conflictos más avanzados (HS_FIRST / SOURCE_SCOPE / PRIMARY_SOURCE_SCOPE_MUST_MATCH); conflictos resueltos sólo cuando se captó el texto primario
+- ** Método de verificación**: Los instrumentos primarios de destino preferían conflictos más avanzados (HS_FIRST SOURCE_SCOPE PRIMARY_SOURCE_SCOPE_MUST_MATCH); conflictos resueltos sólo cuando se captó el texto primario
 - **Editorial standard**: Investigación y escritura de las fuentes mencionadas anteriormente (indagación de la tinta; no se reclama la conducción directa, desgarro o importación). La confianza de la fuente se muestra por fila; cualquier punto que no podamos confirmar de forma independiente se presenta como un elemento de verificación en lugar de afirmarse como hecho.
 - **Transparencia**: Se utilizó la redacción con ayuda de AI. Este artículo se basa en la investigación de escritorio y QA automatizado. No se reclaman pruebas de primera mano a menos que se documenten explícitamente; confirmen los requisitos de tiempo y destino específicos antes de realizar la transacción.
 #AutoBridge #ExportProcurement #AfricaImport #UsedCarImport #BuyerVerification

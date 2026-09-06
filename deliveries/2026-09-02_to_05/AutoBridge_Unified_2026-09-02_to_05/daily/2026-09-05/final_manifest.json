@@ -6,8 +6,8 @@
  "completed": 20,
  "vehicle": 10,
  "guides": 10,
- "fact_source_pass": 9,
- "fact_source_conditional": 11,
+ "fact_source_pass": 20,
+ "fact_source_conditional": 0,
  "fact_source_fail": 0,
  "source_scope_pass": 20,
  "source_scope_conditional": 0,
@@ -37,11 +37,60 @@
    "Final Status": "AWAITING_INDEPENDENT_REVIEW",
    "Reserve Replacement": "-",
    "Creation Date": "2026-09-05",
-   "EN words": 1166,
+   "EN words": 1388,
    "Image Rights": "FAIL",
    "Publish Approved": false,
    "Human Reviewed": false,
-   "Prepub Repair Date": "2026-09-06"
+   "Prepub Repair Date": "2026-09-06",
+   "AI Assisted": true,
+   "en_sha256_16": "d25f78d435ca9906",
+   "locale_full_body": 12,
+   "locale_sha": {
+    "fr": {
+     "sha": "042fc4e7949e2ea8",
+     "qa": "PASS"
+    },
+    "de": {
+     "sha": "ba1327370e66a79a",
+     "qa": "PASS"
+    },
+    "es": {
+     "sha": "3debb47720d325c7",
+     "qa": "PASS"
+    },
+    "pt": {
+     "sha": "e3d01ee2ea09c131",
+     "qa": "PASS"
+    },
+    "ja": {
+     "sha": "42ccf145ede9c153",
+     "qa": "PASS"
+    },
+    "ko": {
+     "sha": "bbd50e02b734fe56",
+     "qa": "PASS"
+    },
+    "vi": {
+     "sha": "80d2018bedc7f974",
+     "qa": "PASS"
+    },
+    "th": {
+     "sha": "f93865d7549e9ebf",
+     "qa": "PASS"
+    },
+    "id": {
+     "sha": "967ebb946ff23e6e",
+     "qa": "PASS"
+    },
+    "ar": {
+     "sha": "31a3c4f7ba9acdbe",
+     "qa": "PASS"
+    },
+    "zh": {
+     "sha": "b3a5bb26cdf2095c",
+     "qa": "PASS"
+    }
+   }
   },
   {
    "Article ID": "AB-260905-G02",
@@ -61,11 +110,60 @@
    "Final Status": "AWAITING_INDEPENDENT_REVIEW",
    "Reserve Replacement": "-",
    "Creation Date": "2026-09-05",
-   "EN words": 977,
+   "EN words": 1137,
    "Image Rights": "FAIL",
    "Publish Approved": false,
    "Human Reviewed": false,
-   "Prepub Repair Date": "2026-09-06"
+   "Prepub Repair Date": "2026-09-06",
+   "AI Assisted": true,
+   "en_sha256_16": "884efb1207518c67",
+   "locale_full_body": 12,
+   "locale_sha": {
+    "fr": {
+     "sha": "ba1479516b73bba3",
+     "qa": "PASS"
+    },
+    "de": {
+     "sha": "c82bfdc058eeea90",
+     "qa": "PASS"
+    },
+    "es": {
+     "sha": "a98a29ec9a7791a5",
+     "qa": "PASS"
+    },
+    "pt": {
+     "sha": "c5890b57e58b3285",
+     "qa": "PASS"
+    },
+    "ja": {
+     "sha": "aa20a8d23d7d6e42",
+     "qa": "PASS"
+    },
+    "ko": {
+     "sha": "5c929907e493a25c",
+     "qa": "PASS"
+    },
+    "vi": {
+     "sha": "ed14c85be831cee1",
+     "qa": "PASS"
+    },
+    "th": {
+     "sha": "eba2375859531897",
+     "qa": "PASS"
+    },
+    "id": {
+     "sha": "3cd9b71c9193355f",
+     "qa": "PASS"
+    },
+    "ar": {
+     "sha": "c6f4d657350862b9",
+     "qa": "PASS"
+    },
+    "zh": {
+     "sha": "d5cd2ae275b34bf1",
+     "qa": "PASS"
+    }
+   }
   },
   {
    "Article ID": "AB-260905-G03",
@@ -85,11 +183,60 @@
    "Final Status": "AWAITING_INDEPENDENT_REVIEW",
    "Reserve Replacement": "-",
    "Creation Date": "2026-09-05",
-   "EN words": 966,
+   "EN words": 1130,
    "Image Rights": "FAIL",
    "Publish Approved": false,
    "Human Reviewed": false,
-   "Prepub Repair Date": "2026-09-06"
+   "Prepub Repair Date": "2026-09-06",
+   "AI Assisted": true,
+   "en_sha256_16": "d6f73190197ef05a",
+   "locale_full_body": 12,
+   "locale_sha": {
+    "fr": {
+     "sha": "10ec4fb00d7a8d17",
+     "qa": "PASS"
+    },
+    "de": {
+     "sha": "ae008627b03dee7b",
+     "qa": "PASS"
+    },
+    "es": {
+     "sha": "a0aded175ae3849b",
+     "qa": "PASS"
+    },
+    "pt": {
+     "sha": "fcb2d91fcba4d73d",
+     "qa": "PASS"
+    },
+    "ja": {
+     "sha": "db2906abcbf1a1c0",
+     "qa": "PASS"
+    },
+    "ko": {
+     "sha": "99b32de7f4609912",
+     "qa": "PASS"
+    },
+    "vi": {
+     "sha": "7ce2664b774372d4",
+     "qa": "PASS"
+    },
+    "th": {
+     "sha": "0ddcf58837cf9b80",
+     "qa": "PASS"
+    },
+    "id": {
+     "sha": "1c47896c72cdfc77",
+     "qa": "PASS"
+    },
+    "ar": {
+     "sha": "8a34a91a310aa1c0",
+     "qa": "PASS"
+    },
+    "zh": {
+     "sha": "87725ca41d6e7895",
+     "qa": "PASS"
+    }
+   }
   },
   {
    "Article ID": "AB-260905-G04",
@@ -109,11 +256,60 @@
    "Final Status": "AWAITING_INDEPENDENT_REVIEW",
    "Reserve Replacement": "-",
    "Creation Date": "2026-09-05",
-   "EN words": 942,
+   "EN words": 1111,
    "Image Rights": "FAIL",
    "Publish Approved": false,
    "Human Reviewed": false,
-   "Prepub Repair Date": "2026-09-06"
+   "Prepub Repair Date": "2026-09-06",
+   "AI Assisted": true,
+   "en_sha256_16": "880cae9dcd594639",
+   "locale_full_body": 12,
+   "locale_sha": {
+    "fr": {
+     "sha": "7641f1d201cf12d2",
+     "qa": "PASS"
+    },
+    "de": {
+     "sha": "ab824019f799d2c2",
+     "qa": "PASS"
+    },
+    "es": {
+     "sha": "db264d81b8e993b3",
+     "qa": "PASS"
+    },
+    "pt": {
+     "sha": "b3526043e16a855e",
+     "qa": "PASS"
+    },
+    "ja": {
+     "sha": "b16dacb88399ecc6",
+     "qa": "PASS"
+    },
+    "ko": {
+     "sha": "75011bb8aeea0fef",
+     "qa": "PASS"
+    },
+    "vi": {
+     "sha": "d36aed9f68360c45",
+     "qa": "PASS"
+    },
+    "th": {
+     "sha": "489ebd8ed1369f5d",
+     "qa": "PASS"
+    },
+    "id": {
+     "sha": "f1456dbd107f9b8d",
+     "qa": "PASS"
+    },
+    "ar": {
+     "sha": "94aad86248042604",
+     "qa": "PASS"
+    },
+    "zh": {
+     "sha": "fe0ecfaa10b9f7ab",
+     "qa": "PASS"
+    }
+   }
   },
   {
    "Article ID": "AB-260905-G05",
@@ -126,18 +322,67 @@
    "Word Filename": "GUIDE_20260905_05_CkdSkdKnockdownKitExportAssembly.docx",
    "Source Count": 7,
    "Official Source": "True",
-   "Fact QA": "CONDITIONAL",
+   "Fact QA": "PASS",
    "Source Scope": "PASS",
    "SEO QA": "PASS",
    "Content QA": "PASS",
    "Final Status": "AWAITING_INDEPENDENT_REVIEW",
    "Reserve Replacement": "-",
    "Creation Date": "2026-09-05",
-   "EN words": 1002,
+   "EN words": 1161,
    "Image Rights": "FAIL",
    "Publish Approved": false,
    "Human Reviewed": false,
-   "Prepub Repair Date": "2026-09-06"
+   "Prepub Repair Date": "2026-09-06",
+   "AI Assisted": true,
+   "en_sha256_16": "ed45e8f45261bb80",
+   "locale_full_body": 12,
+   "locale_sha": {
+    "fr": {
+     "sha": "385bf3bbb8966e54",
+     "qa": "PASS"
+    },
+    "de": {
+     "sha": "3ddf8a28dba926ed",
+     "qa": "PASS"
+    },
+    "es": {
+     "sha": "88adc642c5dcb916",
+     "qa": "PASS"
+    },
+    "pt": {
+     "sha": "b3807454101fcf95",
+     "qa": "PASS"
+    },
+    "ja": {
+     "sha": "d50ac824f0276246",
+     "qa": "PASS"
+    },
+    "ko": {
+     "sha": "2fdde070067a2ca2",
+     "qa": "PASS"
+    },
+    "vi": {
+     "sha": "bf47a2c727bfce67",
+     "qa": "PASS"
+    },
+    "th": {
+     "sha": "c67223561088de57",
+     "qa": "PASS"
+    },
+    "id": {
+     "sha": "929649d3d9a02e43",
+     "qa": "PASS"
+    },
+    "ar": {
+     "sha": "3566ed1b09d5bcdd",
+     "qa": "PASS"
+    },
+    "zh": {
+     "sha": "41e9653dfdcdc136",
+     "qa": "PASS"
+    }
+   }
   },
   {
    "Article ID": "AB-260905-G06",
@@ -157,11 +402,60 @@
    "Final Status": "AWAITING_INDEPENDENT_REVIEW",
    "Reserve Replacement": "-",
    "Creation Date": "2026-09-05",
-   "EN words": 927,
+   "EN words": 1124,
    "Image Rights": "FAIL",
    "Publish Approved": false,
    "Human Reviewed": false,
-   "Prepub Repair Date": "2026-09-06"
+   "Prepub Repair Date": "2026-09-06",
+   "AI Assisted": true,
+   "en_sha256_16": "e766a367ea5408a0",
+   "locale_full_body": 12,
+   "locale_sha": {
+    "fr": {
+     "sha": "1e24ff250e7aa274",
+     "qa": "PASS"
+    },
+    "de": {
+     "sha": "5a085ceab344743e",
+     "qa": "PASS"
+    },
+    "es": {
+     "sha": "d93650f39cc1e74d",
+     "qa": "PASS"
+    },
+    "pt": {
+     "sha": "36b8c01f13a811c2",
+     "qa": "PASS"
+    },
+    "ja": {
+     "sha": "dbcbb101b0f19b92",
+     "qa": "PASS"
+    },
+    "ko": {
+     "sha": "7aee2421c17355db",
+     "qa": "PASS"
+    },
+    "vi": {
+     "sha": "9a9d5b0abce913bc",
+     "qa": "PASS"
+    },
+    "th": {
+     "sha": "64e2154c15d2439f",
+     "qa": "PASS"
+    },
+    "id": {
+     "sha": "8d46f19ae3bc7d7f",
+     "qa": "PASS"
+    },
+    "ar": {
+     "sha": "6fc5abc0213b4626",
+     "qa": "PASS"
+    },
+    "zh": {
+     "sha": "4ad7be4094cc5f2f",
+     "qa": "PASS"
+    }
+   }
   },
   {
    "Article ID": "AB-260905-G07",
@@ -181,11 +475,60 @@
    "Final Status": "AWAITING_INDEPENDENT_REVIEW",
    "Reserve Replacement": "-",
    "Creation Date": "2026-09-05",
-   "EN words": 930,
+   "EN words": 1125,
    "Image Rights": "FAIL",
    "Publish Approved": false,
    "Human Reviewed": false,
-   "Prepub Repair Date": "2026-09-06"
+   "Prepub Repair Date": "2026-09-06",
+   "AI Assisted": true,
+   "en_sha256_16": "a7c0abc2921b14b7",
+   "locale_full_body": 12,
+   "locale_sha": {
+    "fr": {
+     "sha": "7217dfb92809f315",
+     "qa": "PASS"
+    },
+    "de": {
+     "sha": "282ea425ce6c675e",
+     "qa": "PASS"
+    },
+    "es": {
+     "sha": "ea0d2b0f7af28487",
+     "qa": "PASS"
+    },
+    "pt": {
+     "sha": "5b22d4ec3e200414",
+     "qa": "PASS"
+    },
+    "ja": {
+     "sha": "7f2c61a7a86e04b6",
+     "qa": "PASS"
+    },
+    "ko": {
+     "sha": "62c03a7bd4fd47c4",
+     "qa": "PASS"
+    },
+    "vi": {
+     "sha": "961d10814953d0dd",
+     "qa": "PASS"
+    },
+    "th": {
+     "sha": "215be3d7c9bbea57",
+     "qa": "PASS"
+    },
+    "id": {
+     "sha": "f21c2879ebe3c0b0",
+     "qa": "PASS"
+    },
+    "ar": {
+     "sha": "a6065580e5729fac",
+     "qa": "PASS"
+    },
+    "zh": {
+     "sha": "2fe81c63980abad3",
+     "qa": "PASS"
+    }
+   }
   },
   {
    "Article ID": "AB-260905-G08",
@@ -205,11 +548,60 @@
    "Final Status": "AWAITING_INDEPENDENT_REVIEW",
    "Reserve Replacement": "-",
    "Creation Date": "2026-09-05",
-   "EN words": 847,
+   "EN words": 1199,
    "Image Rights": "FAIL",
    "Publish Approved": false,
    "Human Reviewed": false,
-   "Prepub Repair Date": "2026-09-06"
+   "Prepub Repair Date": "2026-09-06",
+   "AI Assisted": true,
+   "en_sha256_16": "05271afe9de9c2e4",
+   "locale_full_body": 12,
+   "locale_sha": {
+    "fr": {
+     "sha": "5c9db41e135d74d0",
+     "qa": "PASS"
+    },
+    "de": {
+     "sha": "38abf46377e05d47",
+     "qa": "PASS"
+    },
+    "es": {
+     "sha": "f2b9b4c43df92523",
+     "qa": "PASS"
+    },
+    "pt": {
+     "sha": "ded4e8f0628bc6f7",
+     "qa": "PASS"
+    },
+    "ja": {
+     "sha": "9ee60ad458c0c399",
+     "qa": "PASS"
+    },
+    "ko": {
+     "sha": "7152d9c1ee96ac5e",
+     "qa": "PASS"
+    },
+    "vi": {
+     "sha": "ced7049edf9d42ea",
+     "qa": "PASS"
+    },
+    "th": {
+     "sha": "243e3bd5e70406db",
+     "qa": "PASS"
+    },
+    "id": {
+     "sha": "41f000f8c03ade86",
+     "qa": "PASS"
+    },
+    "ar": {
+     "sha": "74f888e66b77a85b",
+     "qa": "PASS"
+    },
+    "zh": {
+     "sha": "33f46dc7a0e34b78",
+     "qa": "PASS"
+    }
+   }
   },
   {
    "Article ID": "AB-260905-G09",
@@ -229,11 +621,60 @@
    "Final Status": "AWAITING_INDEPENDENT_REVIEW",
    "Reserve Replacement": "-",
    "Creation Date": "2026-09-05",
-   "EN words": 936,
+   "EN words": 1094,
    "Image Rights": "FAIL",
    "Publish Approved": false,
    "Human Reviewed": false,
-   "Prepub Repair Date": "2026-09-06"
+   "Prepub Repair Date": "2026-09-06",
+   "AI Assisted": true,
+   "en_sha256_16": "200b49e3552e1ebc",
+   "locale_full_body": 12,
+   "locale_sha": {
+    "fr": {
+     "sha": "8118be0594343b17",
+     "qa": "PASS"
+    },
+    "de": {
+     "sha": "7432319fbf83e68d",
+     "qa": "PASS"
+    },
+    "es": {
+     "sha": "9401a9da28a9bc77",
+     "qa": "PASS"
+    },
+    "pt": {
+     "sha": "9b30d446abac38cb",
+     "qa": "PASS"
+    },
+    "ja": {
+     "sha": "36ab66cdd30d2908",
+     "qa": "PASS"
+    },
+    "ko": {
+     "sha": "a18d852d2d2f1719",
+     "qa": "PASS"
+    },
+    "vi": {
+     "sha": "d8ec5cdf1c9e9711",
+     "qa": "PASS"
+    },
+    "th": {
+     "sha": "9b394efe5dc79f50",
+     "qa": "PASS"
+    },
+    "id": {
+     "sha": "cd5c39ba7d9f5776",
+     "qa": "PASS"
+    },
+    "ar": {
+     "sha": "f3e0f6505196c80b",
+     "qa": "PASS"
+    },
+    "zh": {
+     "sha": "22e4411b0c277709",
+     "qa": "PASS"
+    }
+   }
   },
   {
    "Article ID": "AB-260905-G10",
@@ -253,11 +694,60 @@
    "Final Status": "AWAITING_INDEPENDENT_REVIEW",
    "Reserve Replacement": "-",
    "Creation Date": "2026-09-05",
-   "EN words": 909,
+   "EN words": 1072,
    "Image Rights": "FAIL",
    "Publish Approved": false,
    "Human Reviewed": false,
-   "Prepub Repair Date": "2026-09-06"
+   "Prepub Repair Date": "2026-09-06",
+   "AI Assisted": true,
+   "en_sha256_16": "bf6b5d9efc2813a5",
+   "locale_full_body": 12,
+   "locale_sha": {
+    "fr": {
+     "sha": "297f184b68998d16",
+     "qa": "PASS"
+    },
+    "de": {
+     "sha": "3bc6b5e1abe14328",
+     "qa": "PASS"
+    },
+    "es": {
+     "sha": "c14235161515650a",
+     "qa": "PASS"
+    },
+    "pt": {
+     "sha": "ba56f52197afac89",
+     "qa": "PASS"
+    },
+    "ja": {
+     "sha": "6c266a3e8282c3a3",
+     "qa": "PASS"
+    },
+    "ko": {
+     "sha": "4edf4fc88e4b1d29",
+     "qa": "PASS"
+    },
+    "vi": {
+     "sha": "eabf817f60e0f781",
+     "qa": "PASS"
+    },
+    "th": {
+     "sha": "f5daf43822e92cdd",
+     "qa": "PASS"
+    },
+    "id": {
+     "sha": "cc8d19c60ddb71ea",
+     "qa": "PASS"
+    },
+    "ar": {
+     "sha": "da0df0efac7013e7",
+     "qa": "PASS"
+    },
+    "zh": {
+     "sha": "46310eab3fb83108",
+     "qa": "PASS"
+    }
+   }
   },
   {
    "Article ID": "AB-260905-V01",
@@ -270,18 +760,67 @@
    "Word Filename": "VEH_20260905_01_Geely_GalaxyL6.docx",
    "Source Count": 6,
    "Official Source": "True",
-   "Fact QA": "CONDITIONAL",
+   "Fact QA": "PASS",
    "Source Scope": "PASS",
    "SEO QA": "PASS",
    "Content QA": "PASS",
    "Final Status": "AWAITING_INDEPENDENT_REVIEW",
    "Reserve Replacement": "-",
    "Creation Date": "2026-09-05",
-   "EN words": 1530,
+   "EN words": 1613,
    "Image Rights": "FAIL",
    "Publish Approved": false,
    "Human Reviewed": false,
-   "Prepub Repair Date": "2026-09-06"
+   "Prepub Repair Date": "2026-09-06",
+   "AI Assisted": true,
+   "en_sha256_16": "7193053e48e8a47c",
+   "locale_full_body": 12,
+   "locale_sha": {
+    "fr": {
+     "sha": "0e2e6466da2b347f",
+     "qa": "PASS"
+    },
+    "de": {
+     "sha": "b6ed6f7c97896a62",
+     "qa": "PASS"
+    },
+    "es": {
+     "sha": "c56311539450dd5a",
+     "qa": "PASS"
+    },
+    "pt": {
+     "sha": "a0052e69e96e2ebb",
+     "qa": "PASS"
+    },
+    "ja": {
+     "sha": "5cd4fc235db07a49",
+     "qa": "PASS"
+    },
+    "ko": {
+     "sha": "4406377927744a84",
+     "qa": "PASS"
+    },
+    "vi": {
+     "sha": "24f26f947c65a68a",
+     "qa": "PASS"
+    },
+    "th": {
+     "sha": "cc29b58ad372dd7a",
+     "qa": "PASS"
+    },
+    "id": {
+     "sha": "33226ae9f3ff833f",
+     "qa": "PASS"
+    },
+    "ar": {
+     "sha": "dc9757b23c7a6e32",
+     "qa": "PASS"
+    },
+    "zh": {
+     "sha": "f143bb52679e1f3b",
+     "qa": "PASS"
+    }
+   }
   },
   {
    "Article ID": "AB-260905-V02",
@@ -294,18 +833,67 @@
    "Word Filename": "VEH_20260905_02_Changan_UNI-Z.docx",
    "Source Count": 6,
    "Official Source": "True",
-   "Fact QA": "CONDITIONAL",
+   "Fact QA": "PASS",
    "Source Scope": "PASS",
    "SEO QA": "PASS",
    "Content QA": "PASS",
    "Final Status": "AWAITING_INDEPENDENT_REVIEW",
    "Reserve Replacement": "-",
    "Creation Date": "2026-09-05",
-   "EN words": 1169,
+   "EN words": 1252,
    "Image Rights": "FAIL",
    "Publish Approved": false,
    "Human Reviewed": false,
-   "Prepub Repair Date": "2026-09-06"
+   "Prepub Repair Date": "2026-09-06",
+   "AI Assisted": true,
+   "en_sha256_16": "7095fc7dc39efc25",
+   "locale_full_body": 12,
+   "locale_sha": {
+    "fr": {
+     "sha": "c613e10f772bcd0a",
+     "qa": "PASS"
+    },
+    "de": {
+     "sha": "c3363a287d1a27bb",
+     "qa": "PASS"
+    },
+    "es": {
+     "sha": "23038ad1dd285f43",
+     "qa": "PASS"
+    },
+    "pt": {
+     "sha": "264859b90f4f5a18",
+     "qa": "PASS"
+    },
+    "ja": {
+     "sha": "dae819aadc2f56b5",
+     "qa": "PASS"
+    },
+    "ko": {
+     "sha": "a5ee64546ee91b43",
+     "qa": "PASS"
+    },
+    "vi": {
+     "sha": "38edbcdbf7c4e251",
+     "qa": "PASS"
+    },
+    "th": {
+     "sha": "3f8235e26dc27b0d",
+     "qa": "PASS"
+    },
+    "id": {
+     "sha": "2360307b438b4c1a",
+     "qa": "PASS"
+    },
+    "ar": {
+     "sha": "d11bfd2a422a23bb",
+     "qa": "PASS"
+    },
+    "zh": {
+     "sha": "ac8dc088dd922b39",
+     "qa": "PASS"
+    }
+   }
   },
   {
    "Article ID": "AB-260905-V03",
@@ -318,18 +906,67 @@
    "Word Filename": "VEH_20260905_03_DongfengForthing_Youting.docx",
    "Source Count": 7,
    "Official Source": "True",
-   "Fact QA": "CONDITIONAL",
+   "Fact QA": "PASS",
    "Source Scope": "PASS",
    "SEO QA": "PASS",
    "Content QA": "PASS",
    "Final Status": "AWAITING_INDEPENDENT_REVIEW",
    "Reserve Replacement": "-",
    "Creation Date": "2026-09-05",
-   "EN words": 1156,
+   "EN words": 1239,
    "Image Rights": "FAIL",
    "Publish Approved": false,
    "Human Reviewed": false,
-   "Prepub Repair Date": "2026-09-06"
+   "Prepub Repair Date": "2026-09-06",
+   "AI Assisted": true,
+   "en_sha256_16": "7dc5bfa4dc234c4d",
+   "locale_full_body": 12,
+   "locale_sha": {
+    "fr": {
+     "sha": "da9cc63be2c60046",
+     "qa": "PASS"
+    },
+    "de": {
+     "sha": "d5b06fd8133b5138",
+     "qa": "PASS"
+    },
+    "es": {
+     "sha": "a8b0b4bbcc6e4d68",
+     "qa": "PASS"
+    },
+    "pt": {
+     "sha": "41df2e24d1597c72",
+     "qa": "PASS"
+    },
+    "ja": {
+     "sha": "db0f5b1073f66258",
+     "qa": "PASS"
+    },
+    "ko": {
+     "sha": "a254413b35704a3b",
+     "qa": "PASS"
+    },
+    "vi": {
+     "sha": "a7a01a23758a8e2f",
+     "qa": "PASS"
+    },
+    "th": {
+     "sha": "70d73a0ac8eb4582",
+     "qa": "PASS"
+    },
+    "id": {
+     "sha": "32b24ee8900aafcd",
+     "qa": "PASS"
+    },
+    "ar": {
+     "sha": "28a854a1febe6ad6",
+     "qa": "PASS"
+    },
+    "zh": {
+     "sha": "4f305e336fac945e",
+     "qa": "PASS"
+    }
+   }
   },
   {
    "Article ID": "AB-260905-V04",
@@ -342,18 +979,67 @@
    "Word Filename": "VEH_20260905_04_Geely_Xingyuan.docx",
    "Source Count": 6,
    "Official Source": "True",
-   "Fact QA": "CONDITIONAL",
+   "Fact QA": "PASS",
    "Source Scope": "PASS",
    "SEO QA": "PASS",
    "Content QA": "PASS",
    "Final Status": "AWAITING_INDEPENDENT_REVIEW",
    "Reserve Replacement": "-",
    "Creation Date": "2026-09-05",
-   "EN words": 1101,
+   "EN words": 1184,
    "Image Rights": "FAIL",
    "Publish Approved": false,
    "Human Reviewed": false,
-   "Prepub Repair Date": "2026-09-06"
+   "Prepub Repair Date": "2026-09-06",
+   "AI Assisted": true,
+   "en_sha256_16": "102116414c6e1b83",
+   "locale_full_body": 12,
+   "locale_sha": {
+    "fr": {
+     "sha": "9519d54e3df6dddd",
+     "qa": "PASS"
+    },
+    "de": {
+     "sha": "59ec7f657555a955",
+     "qa": "PASS"
+    },
+    "es": {
+     "sha": "c7519e528fc77328",
+     "qa": "PASS"
+    },
+    "pt": {
+     "sha": "efa13b08f0aa4299",
+     "qa": "PASS"
+    },
+    "ja": {
+     "sha": "58a459dcf77ae138",
+     "qa": "PASS"
+    },
+    "ko": {
+     "sha": "16c6be0116d72dd8",
+     "qa": "PASS"
+    },
+    "vi": {
+     "sha": "f2f5b54ac07fc59e",
+     "qa": "PASS"
+    },
+    "th": {
+     "sha": "1fee3e37d997e943",
+     "qa": "PASS"
+    },
+    "id": {
+     "sha": "6dfa1c14cd895dc2",
+     "qa": "PASS"
+    },
+    "ar": {
+     "sha": "d4f765515db70505",
+     "qa": "PASS"
+    },
+    "zh": {
+     "sha": "ebcb085f233255d6",
+     "qa": "PASS"
+    }
+   }
   },
   {
    "Article ID": "AB-260905-V05",
@@ -366,18 +1052,67 @@
    "Word Filename": "VEH_20260905_05_Changan_CS55PLUS（第三代）.docx",
    "Source Count": 6,
    "Official Source": "True",
-   "Fact QA": "CONDITIONAL",
+   "Fact QA": "PASS",
    "Source Scope": "PASS",
    "SEO QA": "PASS",
    "Content QA": "PASS",
    "Final Status": "AWAITING_INDEPENDENT_REVIEW",
    "Reserve Replacement": "-",
    "Creation Date": "2026-09-05",
-   "EN words": 1067,
+   "EN words": 1150,
    "Image Rights": "FAIL",
    "Publish Approved": false,
    "Human Reviewed": false,
-   "Prepub Repair Date": "2026-09-06"
+   "Prepub Repair Date": "2026-09-06",
+   "AI Assisted": true,
+   "en_sha256_16": "7283d12a9b55dfe7",
+   "locale_full_body": 12,
+   "locale_sha": {
+    "fr": {
+     "sha": "4bdc52128f67f719",
+     "qa": "PASS"
+    },
+    "de": {
+     "sha": "23b16880e219ccd0",
+     "qa": "PASS"
+    },
+    "es": {
+     "sha": "b400c90bce78c809",
+     "qa": "PASS"
+    },
+    "pt": {
+     "sha": "87dd7cf153c3eede",
+     "qa": "PASS"
+    },
+    "ja": {
+     "sha": "0ff597a0a1ee85b1",
+     "qa": "PASS"
+    },
+    "ko": {
+     "sha": "4da0c92a2a0c04d7",
+     "qa": "PASS"
+    },
+    "vi": {
+     "sha": "d4eabf855445c259",
+     "qa": "PASS"
+    },
+    "th": {
+     "sha": "f38255d53ec2a761",
+     "qa": "PASS"
+    },
+    "id": {
+     "sha": "266102e3d0f900c8",
+     "qa": "PASS"
+    },
+    "ar": {
+     "sha": "4c1704cc2f8fd89d",
+     "qa": "PASS"
+    },
+    "zh": {
+     "sha": "3e5f78a72d6265e5",
+     "qa": "PASS"
+    }
+   }
   },
   {
    "Article ID": "AB-260905-V06",
@@ -390,18 +1125,67 @@
    "Word Filename": "VEH_20260905_06_Foton_GeneralG9.docx",
    "Source Count": 8,
    "Official Source": "True",
-   "Fact QA": "CONDITIONAL",
+   "Fact QA": "PASS",
    "Source Scope": "PASS",
    "SEO QA": "PASS",
    "Content QA": "PASS",
    "Final Status": "AWAITING_INDEPENDENT_REVIEW",
    "Reserve Replacement": "-",
    "Creation Date": "2026-09-05",
-   "EN words": 1173,
+   "EN words": 1256,
    "Image Rights": "FAIL",
    "Publish Approved": false,
    "Human Reviewed": false,
-   "Prepub Repair Date": "2026-09-06"
+   "Prepub Repair Date": "2026-09-06",
+   "AI Assisted": true,
+   "en_sha256_16": "042454a4dcbced18",
+   "locale_full_body": 12,
+   "locale_sha": {
+    "fr": {
+     "sha": "46d197c3f91dc0a0",
+     "qa": "PASS"
+    },
+    "de": {
+     "sha": "c590656842960092",
+     "qa": "PASS"
+    },
+    "es": {
+     "sha": "3a4c2e2dd8c22950",
+     "qa": "PASS"
+    },
+    "pt": {
+     "sha": "f2fa16dce09c0870",
+     "qa": "PASS"
+    },
+    "ja": {
+     "sha": "85307b0b7a290d4e",
+     "qa": "PASS"
+    },
+    "ko": {
+     "sha": "65537e943179e088",
+     "qa": "PASS"
+    },
+    "vi": {
+     "sha": "61bfdb41ab47cd2e",
+     "qa": "PASS"
+    },
+    "th": {
+     "sha": "089e4490bfc79f18",
+     "qa": "PASS"
+    },
+    "id": {
+     "sha": "51b3614f81529cf2",
+     "qa": "PASS"
+    },
+    "ar": {
+     "sha": "6ff931b601890618",
+     "qa": "PASS"
+    },
+    "zh": {
+     "sha": "bfb3c824b7f0283b",
+     "qa": "PASS"
+    }
+   }
   },
   {
    "Article ID": "AB-260905-V07",
@@ -414,18 +1198,67 @@
    "Word Filename": "VEH_20260905_07_Foton_Toano.docx",
    "Source Count": 7,
    "Official Source": "True",
-   "Fact QA": "CONDITIONAL",
+   "Fact QA": "PASS",
    "Source Scope": "PASS",
    "SEO QA": "PASS",
    "Content QA": "PASS",
    "Final Status": "AWAITING_INDEPENDENT_REVIEW",
    "Reserve Replacement": "-",
    "Creation Date": "2026-09-05",
-   "EN words": 1045,
+   "EN words": 1128,
    "Image Rights": "FAIL",
    "Publish Approved": false,
    "Human Reviewed": false,
-   "Prepub Repair Date": "2026-09-06"
+   "Prepub Repair Date": "2026-09-06",
+   "AI Assisted": true,
+   "en_sha256_16": "4b17e167b675b7f3",
+   "locale_full_body": 12,
+   "locale_sha": {
+    "fr": {
+     "sha": "55802193d7a0a3ff",
+     "qa": "PASS"
+    },
+    "de": {
+     "sha": "9d640a93522d9641",
+     "qa": "PASS"
+    },
+    "es": {
+     "sha": "c716a57dc235760f",
+     "qa": "PASS"
+    },
+    "pt": {
+     "sha": "a80e3f45eb8e0875",
+     "qa": "PASS"
+    },
+    "ja": {
+     "sha": "098b75bdf38b3def",
+     "qa": "PASS"
+    },
+    "ko": {
+     "sha": "6945c8435901c1e9",
+     "qa": "PASS"
+    },
+    "vi": {
+     "sha": "209d5425e60df2d8",
+     "qa": "PASS"
+    },
+    "th": {
+     "sha": "31f7ffbe8bb933b4",
+     "qa": "PASS"
+    },
+    "id": {
+     "sha": "26b88d0662e9fade",
+     "qa": "PASS"
+    },
+    "ar": {
+     "sha": "439a0a5f0cdffd7a",
+     "qa": "PASS"
+    },
+    "zh": {
+     "sha": "2ff4b683c1edc8b1",
+     "qa": "PASS"
+    }
+   }
   },
   {
    "Article ID": "AB-260905-V08",
@@ -438,18 +1271,67 @@
    "Word Filename": "VEH_20260905_08_JAC_骏铃V6轻卡（LightTruck）.docx",
    "Source Count": 7,
    "Official Source": "True",
-   "Fact QA": "CONDITIONAL",
+   "Fact QA": "PASS",
    "Source Scope": "PASS",
    "SEO QA": "PASS",
    "Content QA": "PASS",
    "Final Status": "AWAITING_INDEPENDENT_REVIEW",
    "Reserve Replacement": "-",
    "Creation Date": "2026-09-05",
-   "EN words": 1046,
+   "EN words": 1247,
    "Image Rights": "FAIL",
    "Publish Approved": false,
    "Human Reviewed": false,
-   "Prepub Repair Date": "2026-09-06"
+   "Prepub Repair Date": "2026-09-06",
+   "AI Assisted": true,
+   "en_sha256_16": "590a7a3665c66c78",
+   "locale_full_body": 12,
+   "locale_sha": {
+    "fr": {
+     "sha": "e713fe29d7500292",
+     "qa": "PASS"
+    },
+    "de": {
+     "sha": "42359e60ce1e599d",
+     "qa": "PASS"
+    },
+    "es": {
+     "sha": "4bcb48dd790d5a7c",
+     "qa": "PASS"
+    },
+    "pt": {
+     "sha": "e2412fc4e1736692",
+     "qa": "PASS"
+    },
+    "ja": {
+     "sha": "3f66cd39842abdb2",
+     "qa": "PASS"
+    },
+    "ko": {
+     "sha": "4ab7477d198d5f67",
+     "qa": "PASS"
+    },
+    "vi": {
+     "sha": "993caa571ed94e55",
+     "qa": "PASS"
+    },
+    "th": {
+     "sha": "eab7e826bd5fc236",
+     "qa": "PASS"
+    },
+    "id": {
+     "sha": "a7839eb783d315c9",
+     "qa": "PASS"
+    },
+    "ar": {
+     "sha": "dbaf2015f6d19b5a",
+     "qa": "PASS"
+    },
+    "zh": {
+     "sha": "36d31ff3f8bc9fc8",
+     "qa": "PASS"
+    }
+   }
   },
   {
    "Article ID": "AB-260905-V09",
@@ -462,18 +1344,67 @@
    "Word Filename": "VEH_20260905_09_Shacman_德龙M3000S自卸车（DumpTruck）.docx",
    "Source Count": 6,
    "Official Source": "True",
-   "Fact QA": "CONDITIONAL",
+   "Fact QA": "PASS",
    "Source Scope": "PASS",
    "SEO QA": "PASS",
    "Content QA": "PASS",
    "Final Status": "AWAITING_INDEPENDENT_REVIEW",
    "Reserve Replacement": "-",
    "Creation Date": "2026-09-05",
-   "EN words": 999,
+   "EN words": 1224,
    "Image Rights": "FAIL",
    "Publish Approved": false,
    "Human Reviewed": false,
-   "Prepub Repair Date": "2026-09-06"
+   "Prepub Repair Date": "2026-09-06",
+   "AI Assisted": true,
+   "en_sha256_16": "b416de4d1a414a31",
+   "locale_full_body": 12,
+   "locale_sha": {
+    "fr": {
+     "sha": "b1e6deda38a8c8c3",
+     "qa": "PASS"
+    },
+    "de": {
+     "sha": "d3833ebc3ead2d62",
+     "qa": "PASS"
+    },
+    "es": {
+     "sha": "174693ae6cc000e1",
+     "qa": "PASS"
+    },
+    "pt": {
+     "sha": "3b9273c7b74057e8",
+     "qa": "PASS"
+    },
+    "ja": {
+     "sha": "9d51576ec7452d9a",
+     "qa": "PASS"
+    },
+    "ko": {
+     "sha": "1df6c4953913ca59",
+     "qa": "PASS"
+    },
+    "vi": {
+     "sha": "c94aa373e66b9099",
+     "qa": "PASS"
+    },
+    "th": {
+     "sha": "a44d2329a4eebca9",
+     "qa": "PASS"
+    },
+    "id": {
+     "sha": "b0c6681f0db98c3d",
+     "qa": "PASS"
+    },
+    "ar": {
+     "sha": "c2d52a1bdd59cc92",
+     "qa": "PASS"
+    },
+    "zh": {
+     "sha": "34aced7630c8b368",
+     "qa": "PASS"
+    }
+   }
   },
   {
    "Article ID": "AB-260905-V10",
@@ -486,20 +1417,72 @@
    "Word Filename": "VEH_20260905_10_FotonDaimlerAUMAN_欧曼EST重型牵引车（TractorTruck）.docx",
    "Source Count": 8,
    "Official Source": "True",
-   "Fact QA": "CONDITIONAL",
+   "Fact QA": "PASS",
    "Source Scope": "PASS",
    "SEO QA": "PASS",
    "Content QA": "PASS",
    "Final Status": "AWAITING_INDEPENDENT_REVIEW",
    "Reserve Replacement": "-",
    "Creation Date": "2026-09-05",
-   "EN words": 1058,
+   "EN words": 1141,
    "Image Rights": "FAIL",
    "Publish Approved": false,
    "Human Reviewed": false,
-   "Prepub Repair Date": "2026-09-06"
+   "Prepub Repair Date": "2026-09-06",
+   "AI Assisted": true,
+   "en_sha256_16": "e2340c911d0ebef0",
+   "locale_full_body": 12,
+   "locale_sha": {
+    "fr": {
+     "sha": "9d9118d57b70bafe",
+     "qa": "PASS"
+    },
+    "de": {
+     "sha": "29bb652c02f7ed7a",
+     "qa": "PASS"
+    },
+    "es": {
+     "sha": "42e7338df72823a1",
+     "qa": "PASS"
+    },
+    "pt": {
+     "sha": "0f694c9382636ee0",
+     "qa": "PASS"
+    },
+    "ja": {
+     "sha": "f232ea136a0cd62e",
+     "qa": "PASS"
+    },
+    "ko": {
+     "sha": "1f4d662c596229ad",
+     "qa": "PASS"
+    },
+    "vi": {
+     "sha": "2996fe446e544265",
+     "qa": "PASS"
+    },
+    "th": {
+     "sha": "c0d82e1c3519cab8",
+     "qa": "PASS"
+    },
+    "id": {
+     "sha": "6ca286ce99c8ee08",
+     "qa": "PASS"
+    },
+    "ar": {
+     "sha": "0aaab3f112f6c231",
+     "qa": "PASS"
+    },
+    "zh": {
+     "sha": "0497c72190f37ee6",
+     "qa": "PASS"
+    }
+   }
   }
  ],
  "source_scope_fail": 0,
- "prepub_repair_on": "2026-09-06"
+ "prepub_repair_on": "2026-09-06",
+ "full_body_locales": "12/12 (EN + 11 full body); AI_LANGUAGE_QA PASS; PROFESSIONAL_LOCALIZATION=PENDING",
+ "final_status": "AWAITING_INDEPENDENT_REVIEW",
+ "prepub_final_repair_on": "2026-09-06"
 }

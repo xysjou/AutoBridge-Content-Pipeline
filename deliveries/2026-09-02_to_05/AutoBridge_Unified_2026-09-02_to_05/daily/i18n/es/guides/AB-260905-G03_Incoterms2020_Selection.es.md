@@ -7,7 +7,7 @@
 - **Primary Keyword**: guía de selección de incoterms 2020
 - **Segundary Search Terms**: Incoterms 2020; FOB vs FCA; CIF vs CIP; DDP risk; multimodal term; risk transfer
 - ** URL agregada**: /guides/incoterms- 2020-selection-guide/
-- **Intent de búsqueda**: 汽车出口合同如何按运输方式选择 Incoterms 2020 术语, 明确风险转移点与费用 / 保险责任
+- **Intent de búsqueda**: 汽车出口合同如何按运输方式选择 Incoterms 2020 术语, 明确风险转移点与费用 保险责任
 - **Sugerencias internas**: /guides/export-pago-métodos-t-lc-risk/, /guides/marine-cargo-insurance-history/, /guides/china-export-customs-declaration-single-window/
 - **Esquema Ámbito**: Artículo (sin Producto/Offer/Revisión)
 
@@ -15,7 +15,7 @@
 Incoterms 2020 contains **eleven** rules divided into those for any mode of transport and those traditionally for sea/inland-waterway transport. En la exportación de vehículos la primera opción es, por tanto, si el movimiento es oceánico puerto a puerto (RoRo/container) o multimodal (camino interior/rail más mar, común para el camionaje de Asia Central). Eligiendo un término solo para un movimiento multimodal crea una brecha en donde el riesgo pasa.
 
 ## Donde el riesgo realmente transfiere
-- **FOB / FCA**: bajo FOB (vía de agua del mar/inland) el riesgo pasa cuando se colocan mercancías **en la embarcación**; bajo FCA (cualquier modo) el riesgo pasa cuando las mercancías se entregan al portador del comprador en el lugar designado. Para los movimientos containerizzato y multimodal FCA es el ajuste más limpio porque el riesgo y el control se alinean con la entrega real, en lugar de un momento a bordo que el vendedor no controla.
+- **FOB FCA**: bajo FOB (vía de agua del mar/inland) el riesgo pasa cuando se colocan mercancías **en la embarcación**; bajo FCA (cualquier modo) el riesgo pasa cuando las mercancías se entregan al portador del comprador en el lugar designado. Para los movimientos containerizzato y multimodal FCA es el ajuste más limpio porque el riesgo y el control se alinean con la entrega real, en lugar de un momento a bordo que el vendedor no controla.
 - **CFR/CPT y CIF/CIP**: el vendedor organiza y paga el transporte al destino, pero ** transferencias de riesgo anteriores**, en envío/rendimiento, el costo y el riesgo se dividen deliberadamente, lo que sorprende a los compradores que asumen CIF significa riesgo para el destino.
 - **DAP/DPU/DDP**: estos son términos de llegada; el vendedor lleva el riesgo más allá. **DDP coloca la obligación máxima sobre el vendedor**, incluyendo la limpieza de importaciones, derechos e impuestos en el destino, para un exportador de vehículos chino sin una presencia de destino registrada, esto a menudo es poco práctico y de cumplimiento pesado.
 
@@ -40,7 +40,7 @@ Bajo CIF el vendedor organiza un seguro marítimo de cobertura mínima para el b
 ## Fuentes " Verificación "
 | Fuente | Organización | Mercado | Tier | Confianza | URL | Datos respaldados |
 |---|---|---|---|---|---|---|
-| 国际贸易术语图文精讲 (Incoterms2020 共 11 种 / 两大类) | 中国贸促会广西分会 | CN | T1 | VERIFIED | https://www.ccpitgx.org/webcpitgx/2025/rcepjiedu_0624/15195.html | 11 术语, 按运输方式分类, 风险费用划分 |
+| 国际贸易术语图文精讲 (Incoterms2020 共 11 种 两大类) | 中国贸促会广西分会 | CN | T1 | VERIFIED | https://www.ccpitgx.org/webcpitgx/2025/rcepjiedu_0624/15195.html | 11 术语, 按运输方式分类, 风险费用划分 |
 | 2020 国际贸易术语详解 (FOB 风险点改为装上船) | 浙江省贸促会 | CN | T1 | VERIFIED | http://www.ccpitzj.gov.cn/art/2020/8/17/art_1229557691_11515.html | FOB/CFR/CIF, 船舷 → 装上船 |
 | 跨境电子商务贸易术语 (风险转移教材) | 清华大学出版社 | CN | T3 | CROSS_CHECKED | https://www.tup.tsinghua.edu.cn/upload/books/yz/095136-01.pdf | 风险转移, 象征性交货 |
 | Incoterms 2020 rules (ICC) | Cámara de Comercio Internacional | CN | T1 | VERIFIED | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-rules-2020/ | autoritative publisher of Incoterms 2020 |

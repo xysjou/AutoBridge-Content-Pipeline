@@ -21,7 +21,7 @@ El exportador posee su propio registro aduanero y archivos a través de la Venta
 Las aduanas verifican que la declaración coincide con los documentos de apoyo y los bienes reales. Para los vehículos esto significa que el código HS (clasificado por el arancel actual por el código exacto 10-digit — véase la guía HS), cantidad, valor, modelo y cualquier licencia de exportación, inspección o requisito de certificado debe alinearse en todos los documentos de declaración, factura y transporte. Un desajuste es una razón común por la que se anula la declaración.
 
 ## El deber de la verdad y las declaraciones rechazadas
-El declarante tiene un deber legal de declaración veraz. Si se rechaza una declaración (退单 / 退改), la respuesta correcta es corregir los campos marcados y volver a presentar a través del mismo canal con documentos consistentes, no trabajar en torno al rechazo. Los estándares de llenado requieren descripciones estándar de productos, cantidad correcta/unidad y valor legal; adivinar un código HS o copiar el código de un envío anterior es una fuente de demora recurrente.
+El declarante tiene un deber legal de declaración veraz. Si se rechaza una declaración (退单 退改), la respuesta correcta es corregir los campos marcados y volver a presentar a través del mismo canal con documentos consistentes, no trabajar en torno al rechazo. Los estándares de llenado requieren descripciones estándar de productos, cantidad correcta/unidad y valor legal; adivinar un código HS o copiar el código de un envío anterior es una fuente de demora recurrente.
 
 ## Lista de comprobación de la presentación de un vehículo
 1. Confirme el código exacto 10-digit HS y cualquier condición de supervisión para ese código en el arancel del año actual.
@@ -48,7 +48,7 @@ No proporciona un código específico de HS o condición de supervisión (estos 
 | 海关总署令第 277 号 (国务院公报) | 中国政府网 | CN | T1 | VERIFIED | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 规定全文一致性核验 |
 | 进出口货物申报指南 (单一窗口录入与登录) | 中国贸促会宁夏委员会 | CN | T1 | VERIFIED | https://nxccpit.nx.gov.cn/xwzx/mcxx/202508/t20250829_5003010.html | 单一窗口 IC 卡 /USBKey 登录, 电子申报 |
 | 出口大型货物手续流程 (申报 - 缴税 - 放行) | 中华人民共和国海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/eportal/ui?pageId=374112&msgDataId=6e1b51cda6ff4057ab24852007a799c8 | 出口通关步骤, 报关单填制规范引用 |
-| OMA - Procedimientos y facilitación de aduanas (Venta única / Gestión Fronteriza Coordinada) | Organización Mundial de Aduanas | INT | T1/T2 | VERIFIED | https://www.wcoomd.org/en/topics/facilitation.aspx | Marco internacional de gestión de fronteras y coordinación que los portales nacionales de declaración aplican |
+| OMA - Procedimientos y facilitación de aduanas (Venta única Gestión Fronteriza Coordinada) | Organización Mundial de Aduanas | INT | T1/T2 | VERIFIED | https://www.wcoomd.org/en/topics/facilitation.aspx | Marco internacional de gestión de fronteras y coordinación que los portales nacionales de declaración aplican |
 | Acuerdo de Facilitación del Comercio de la OMC (artículo 10.4 Ventana Única) | Organización Mundial del Comercio | INT | T1/T2 | VERIFIED | https://www.wto.org/english/tratop_e/tradfa_e/tradfa_e.htm | TFA Article 10.4 obliga a los miembros a permitir a los comerciantes presentar documentación de importación/exportación a través de una sola ventana |
 ## Revisión editorial
 - **Autor**: Equipo Editorial AutoBridge Export · [autores](/autores/) · [Política editorial](/editorial-policía/)

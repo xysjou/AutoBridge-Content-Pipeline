@@ -1,7 +1,7 @@
 # Farizon Xingxiang V6E Van de carga eléctrica: Cerradura de la batería,  6 m³ Load Bay  and  a Exportación de Türkiye documentada
 ## SEO Metadatos
 - **SEO Título**: Farizon V6E Electric Cargo Van Specs & Export Buyer Notes
-- **Meta Descripción**: Ventilador de carga eléctrica Xingxiang V6E de mercado chino — 60 kW / 220 N·m motor,  6 m³ cargo volume, 35.2 kWh / 260 km base vs nuevo 51 kWh construcción, 90 km/h límite,  and  a envío registrado de Türkiye de la UE-specífica.
+- **Meta Descripción**: Ventilador de carga eléctrica Xingxiang V6E de mercado chino — 60 kW 220 N·m motor,  6 m³ cargo volume, 35.2 kWh 260 km base vs nuevo 51 kWh construcción, 90 km/h límite,  and  a envío registrado de Türkiye de la UE-specífica.
 - ** URL agregada**: /vehículos/farizon-xingxiang- v6e-specs/
 - ** H1 **: Farizon Xingxiang V6E (Chino-Market): Electric Cargo Van Specs and Export Verification
 - **Primary Keyword**: farizon v6e electric cargo van specs
@@ -16,11 +16,11 @@ El Xingxiang V6E es Farizon's (marca comercial de Geely) **battery-electric urba
 ## Línea de conducción y carga (centro de la televisiva)
 | Tema | V6E China referencia |
 |---|---|
-| Motor | Wolong-ZF ** TZ185XS022 ** imagen permanente, ** 60 kW / 220 N·m ** |
+| Motor | Wolong-ZF ** TZ185XS022 ** imagen permanente, ** 60 kW 220 N·m ** |
 | Velocidad superior | ** 90 km/h (electrónicamente limitada)** |
 | Volumen de carga | **6 m³** (cargo bay ~1.6 m long reference) |
 | Suspensión trasera | eje rígido con ** manantiales de hoja** (orientada a la carga) |
-| Batería de base/range | ** 35.2 kWh / 260 km rango de condiciones de trabajo** |
+| Batería de base/range | ** 35.2 kWh 260 km rango de condiciones de trabajo** |
 | Construcción más reciente | Una nutria más grande Xuanwu build está lista en bases de datos chinas**, pero su capacidad/rango exacta no se afirma aquí — confirma en el catálogo MIIT y la hoja de construcción VIN (TIME_SENSITIVE) |
 
 Para una camioneta logística, los compradores deben pesar ** volumen de carga, carga útil (confirmar en el código homologado), el eje trasero de hoja de carga y el límite 90 km/h** contra las necesidades de velocidad de ruta, este es un vehículo de la ciudad/última millas, no un camión de largo recorrido.
@@ -49,7 +49,7 @@ No se captó el precio de exportación estático y no se captó el MSRP de China
 ¿Hasta dónde va a cobrar?** El paquete base de referencia es de 35.2 kWh en aproximadamente 260 km (condicion de trabajo); una construcción de mayor caldo se enumera pero su figura exacta debe ser confirmada en el catálogo y VIN en lugar de citar.
 **¿Cuál es la velocidad máxima?** 90 km/h, electrónicamente limitada — una característica de la ciudad/último kilómetro.
 **¿Se ha exportado el V6E?** Sí — un lote de la UE-especie fue enviado a Türkiye en febrero 2024; ese edificio de exportación no es automáticamente idéntico a la camioneta China-especie.
-**¿Qué motor utiliza?** Un motor de señal permanente Wolong-ZF TZ185XS022, 60 kW / 220 N·m.
+**¿Qué motor utiliza?** Un motor de señal permanente Wolong-ZF TZ185XS022, 60 kW 220 N·m.
 
 ## Grabación de imagen
 - IMAGE_ASSET_PATH: ninguno asegurado en repositorio
@@ -64,23 +64,23 @@ No se captó el precio de exportación estático y no se captó el MSRP de China
 - IMAGE_RIGHTS_STATUS: FAIL (no se acepta ningún activo con licencia; no se acepta un titular de posición o “retiene la imagen antigua”)
 - BLOCK_REASON: No se puede asegurar una imagen reutilizable: Wikimedia Commons/Flickr no son accesibles desde el entorno de investigación, las bibliotecas de stock requieren acceso a API/licencia autenticada, y una imagen de página web OEM NO es una subvención comercial de reutilización; no existe foto de propiedad de AutoBridge. Se quedó con la FAIL en lugar de afirmarse.
 - ALT por idioma:
-  - **EN**: AutoBridge export-buyer reference — Farizon Xingxiang V6E, battery-electric vehicle / cargo van
-  - **FR**: Référence AutoBridge pour acheteurs export — Farizon Xingxiang V6E, véhicule 100 % électrique / fourgon
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Farizon Xingxiang V6E, batterieelektrisches Fahrzeug / Kastenwagen
-  - **ES**: Referencia AutoBridge para compradores de exportación — Farizon Xingxiang V6E, vehículo 100 % eléctrico / furgoneta de carga
-  - **PT**: Referência AutoBridge para compradores de exportação — Farizon Xingxiang V6E, veículo 100 % elétrico / furgão de carga
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Farizon Xingxiang V6E, 純電気自動車 / 貨物バン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Farizon Xingxiang V6E, 순수 전기차 / 카고 밴
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Farizon Xingxiang V6E, xe thuần điện / xe van chở hàng
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Farizon Xingxiang V6E, รถยนต์ไฟฟ้า 100% / รถตู้บรรทุก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Farizon Xingxiang V6E, kendaraan listrik murni / van kargo
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Farizon Xingxiang V6E, مركبة كهربائية بالبطارية / شاحنة فان للبضائع
-  - **ZH**: AutoBridge 出口采购参考｜Farizon Xingxiang V6E, 纯电动车 / 厢式货车
+  - **EN**: AutoBridge export-buyer reference — Farizon Xingxiang V6E, battery-electric vehicle cargo van
+  - **FR**: Référence AutoBridge pour acheteurs export — Farizon Xingxiang V6E, véhicule 100 % électrique fourgon
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Farizon Xingxiang V6E, batterieelektrisches Fahrzeug Kastenwagen
+  - **ES**: Referencia AutoBridge para compradores de exportación — Farizon Xingxiang V6E, vehículo 100 % eléctrico furgoneta de carga
+  - **PT**: Referência AutoBridge para compradores de exportação — Farizon Xingxiang V6E, veículo 100 % elétrico furgão de carga
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Farizon Xingxiang V6E, 純電気自動車 貨物バン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Farizon Xingxiang V6E, 순수 전기차 카고 밴
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Farizon Xingxiang V6E, xe thuần điện xe van chở hàng
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Farizon Xingxiang V6E, รถยนต์ไฟฟ้า 100% รถตู้บรรทุก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Farizon Xingxiang V6E, kendaraan listrik murni van kargo
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Farizon Xingxiang V6E, مركبة كهربائية بالبطارية شاحنة فان للبضائع
+  - **ZH**: AutoBridge 出口采购参考｜Farizon Xingxiang V6E, 纯电动车 厢式货车
 
 ## Fuentes " Verificación "
 | Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |
 |---|---|---|---|---|---|---|
-| V6E revelan (mínimo motor/ 0–50/speed) | Camión de casa / Toutiao | CN | http://m.toutiao.com/group/7064810099012895240/ | 2026-09-03 | CROSS_CHECKED | 60 kW / 220 N·m, 90 km/h límite, axila de la hoja de la proa |
+| V6E revelan (mínimo motor/ 0–50/speed) | Camión de casa Toutiao | CN | http://m.toutiao.com/group/7064810099012895240/ | 2026-09-03 | CROSS_CHECKED | 60 kW 220 N·m, 90 km/h límite, axila de la hoja de la proa |
 | V6E EU-spec export to Türkiye (6 m³) | China Transporte Noticias (medios de noticias industriales) | CN media (Registro de exportación: TR) | https://www.zgjtb.com/m/2024-02/01/content_398656.html | 2026-09-03 | CROSS_CHECKED | Febrero- 2024 U-especie de Türkiye lote,  6 m³ (news record, no OEM/gobierno; no VERIFIED) |
 | Light-commercial report (35.2 kWh/260 km/6 m³) | Sohu Auto | CN | https://m.sohu.com/a/931378694_121823499/ | 2026-09-03 | CROSS_CHECKED | Batería de base/rango, volumen de carga |
 | Fabricantes & catálogo de productos de vehículos de motor de carretera — sistema de consulta pública | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verificar el fabricante, modelo aprobado y homologación (公告) entrada de catálogo antes de ordenar o exportar |
@@ -89,7 +89,7 @@ No se captó el precio de exportación estático y no se captó el MSRP de China
 | GB 38031 requisitos de seguridad de la batería de tracción (GB 38031-2025; nuevas aplicaciones de tipo obligatorios de 2026-07-01) | SAMR plataforma de texto completo | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFIED | Base obligatoria de requisitos de seguridad de la tracción para el entrenamiento eléctrico |
 | GB 18384 requisitos de seguridad del vehículo eléctrico (GB 18384-2025) | SAMR plataforma de texto completo | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VERIFIED | Base de requisitos de seguridad eléctrica/funcional de vehículos eléctricos |
 
-* Nota de confianza: el registro de exportación de Türkiye es CROSS_CHECKED informes de noticias de la industria (no es VERIFIED, sólo OEM/gobierno/regulador/estándar/documentos técnicos formales llegan a VERIFIED); tratados estrictamente como un registro de entrega, no una prueba modelo-alias. El motor base/range se controlan cruzadamente; el nuevo 51 kWh de la construcción es sensible al tiempo. China GB/T y las construcciones de la UE se mantienen distintas por MODEL_ ALIAS / SOURCE_SCOPE reglas. *
+* Nota de confianza: el registro de exportación de Türkiye es CROSS_CHECKED informes de noticias de la industria (no es VERIFIED, sólo OEM/gobierno/regulador/estándar/documentos técnicos formales llegan a VERIFIED); tratados estrictamente como un registro de entrega, no una prueba modelo-alias. El motor base/range se controlan cruzadamente; el nuevo 51 kWh de la construcción es sensible al tiempo. China GB/T y las construcciones de la UE se mantienen distintas por MODEL_ ALIAS SOURCE_SCOPE reglas. *
 
 ## Revisión editorial
 - **Autor/examen**: [Equipo Editorial Exportador AutoBridge](/autores/) · método por nuestro [Política editorial](/editorial-policía/)

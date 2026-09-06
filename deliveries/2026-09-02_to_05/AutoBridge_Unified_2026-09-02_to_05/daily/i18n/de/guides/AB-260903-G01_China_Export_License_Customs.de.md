@@ -15,13 +15,13 @@ Die meisten gescheiterten Erstlieferungen scheitern auf der **China-Seite**, nic
 
 ## Schritt 1 - Bestätigen Sie, unter welches Lizenzregime Ihr Fahrzeug fällt
 China verwendet keine pauschale "Autoexportgenehmigung". Unterscheiden Sie die Gleise:
-- **Neue Energie / BEV Personenkraftwagen: ** Fahrzeuge, die ausschließlich von einem Antriebsmotor angetrieben werden und eine Fahrgestellnummer (Referenz HS 8703801090) tragen, unterliegen der **Exportlizenzverwaltung**, die gemeinsam von MOFCOM, MIIT, GAC und SAMR überwacht wird (TIME_SENSITIVE — bestätigen Sie die aktuelle Mitteilung und den genauen HS-Code mit dem Jahrestarifplan).
+- **Neue Energie BEV Personenkraftwagen: ** Fahrzeuge, die ausschließlich von einem Antriebsmotor angetrieben werden und eine Fahrgestellnummer (Referenz HS 8703801090) tragen, unterliegen der **Exportlizenzverwaltung**, die gemeinsam von MOFCOM, MIIT, GAC und SAMR überwacht wird (TIME_SENSITIVE — bestätigen Sie die aktuelle Mitteilung und den genauen HS-Code mit dem Jahrestarifplan).
 - ** Gebrauchtfahrzeuge:** Der Staat betreibt eine ** Exportlizenzregelung, die von MOFCOM** verwaltet wird, und die Lizenzdetails müssen mit der Kraftfahrzeug-Zulassungsbescheinigung (VERIFIED, Vier-Minister-Mitteilung) übereinstimmen.
-- ** Konventionelle Neufahrzeuge / Motorräder:** durch die **jährliche Exportlizenzanmeldung** behandelt, die als nächstes beschrieben wird.
+- ** Konventionelle Neufahrzeuge Motorräder:** durch die **jährliche Exportlizenzanmeldung** behandelt, die als nächstes beschrieben wird.
 Der genaue Warencode und seine regulatorischen Bedingungen müssen gegen den aktuellen Import & Export Tariff und die letzte MOFCOM-Ankündigung bestätigt werden — verwenden Sie die HS-Annahme des letzten Jahres nicht wieder.
 
 ## Schritt 2 — Die Einreichung der Jahreslizenz (Qualifikation vor Volumen)
-MOFCOM gibt eine **jährliche Bekanntmachung heraus, in der Exportlizenzanträge für Automobile und Motorrade arrangiert werden**. Unternehmen melden sich zur Qualifizierung an; **modifizierte / umgerüstete Fahrzeuge müssen Leistungsnachweise wie Exportzollerklärungen und Rechnungen für den Kauf von Fahrgestellen** hochladen. Praktische Implikation für einen Händler: Qualifizierung ist nicht sofort - richten Sie das jährliche Einreichungsfenster mit Ihrem Versandplan aus und behalten Sie den Chassis / den Ausrüstungspapierkram, weil dies ein Beweis für die tatsächliche Exportleistung ist.
+MOFCOM gibt eine **jährliche Bekanntmachung heraus, in der Exportlizenzanträge für Automobile und Motorrade arrangiert werden**. Unternehmen melden sich zur Qualifizierung an; **modifizierte umgerüstete Fahrzeuge müssen Leistungsnachweise wie Exportzollerklärungen und Rechnungen für den Kauf von Fahrgestellen** hochladen. Praktische Implikation für einen Händler: Qualifizierung ist nicht sofort - richten Sie das jährliche Einreichungsfenster mit Ihrem Versandplan aus und behalten Sie den Chassis den Ausrüstungspapierkram, weil dies ein Beweis für die tatsächliche Exportleistung ist.
 
 ## Schritt 3 - Das Gebrauchtwagen 180-Day Regel (eine harte, datierte Anforderung)
 Gemäß der Vier-Minister-Mitteilung zur Stärkung des Gebrauchtwagen-Exportmanagements (VERIFIED): **Ab 1 Januar 2026, wenn ein Fahrzeug, das für den Export beantragt wurde, nicht mehr als 180 Tage zuvor registriert wurde, muss der Antragsteller die After-Sales-Wartungsservice-Bestätigung des OEM ergänzen; Andernfalls wird die Lizenz nicht ausgestellt. **
@@ -36,14 +36,14 @@ Eine saubere Erklärung beruht auf einander konsistenten Dokumenten:
 4. **Verpackungsliste**;
 5. **Ursprungsbescheinigung**;
 6. **Prüfbericht von Dritten**, falls erforderlich;
-7. **Für EVs/Hybride:** Batterie ** UN38.3 Testbericht und MSDS **, plus die Ozeangefährdungspapiere. Unter IMDG Änderung 42-24 (obligatorisch von 2026-01-01) ein Lithium-Ionen-Batterie-Fahrzeug klassifiziert UN3556, nicht die Legacy-Generika UN3171; gelten Dokumentation / SOC Details pro aktuelle EV Versand Fact Sheet und der Träger (siehe EV Ocean-Compliance Guide).
+7. **Für EVs/Hybride:** Batterie ** UN38.3 Testbericht und MSDS **, plus die Ozeangefährdungspapiere. Unter IMDG Änderung 42-24 (obligatorisch von 2026-01-01) ein Lithium-Ionen-Batterie-Fahrzeug klassifiziert UN3556, nicht die Legacy-Generika UN3171; gelten Dokumentation SOC Details pro aktuelle EV Versand Fact Sheet und der Träger (siehe EV Ocean-Compliance Guide).
 Namen, VINs, Mengen, Werte und HS-Codes müssen sich über Rechnung, Packliste, B/L und Lizenz - Zoll und Zielbroker einig sein und inkonsistente Sätze ablehnen.
 
-## Schritt 5 - Unternehmens- / Produktzulassung hinter dem Papierkram
+## Schritt 5 - Unternehmens- Produktzulassung hinter dem Papierkram
 MIIT Order No. 50 unterteilt Straßenfahrzeughersteller und -produkte in **sechs Zulassungskategorien: Personenkraftwagen, Lastkraftwagen, Busse, Sonderfahrzeuge, Motorräder und Anhänger **. Warum ein Exporteur sich kümmert: Der Zulassungsumfang des Herstellers bestimmt, welche Produkte legitim deklariert werden können. Bei Fahrzeugen für besondere Zwecke/Ausrüstungen die Zulassung des Basisfahrgestells ** und die Qualifikation der tragenden Einheit bestätigen.
 
 ## Was dieser Leitfaden empfiehlt, den Sie vor der Buchung überprüfen
-- Das **Lizenzregime und der aktuelle HS-Code** für das genaue Fahrzeug (BEV / gebraucht / konventionell / speziell).
+- Das **Lizenzregime und der aktuelle HS-Code** für das genaue Fahrzeug (BEV gebraucht konventionell speziell).
 - **Jährlicher Anmeldestatus** und, für Upfits, der Chassis-Rechnungs-/Erklärungsnachweis.
 - Für fast neue gebrauchte Einheiten, die **≤ 180-day OEM After-Sales-Bestätigung** vor der Anwendung.
 - Ein **Cross-Dokument Konsistenz Pass** (VIN, Wert, HS, Parteien) vor der Erklärung.
@@ -87,7 +87,7 @@ MIIT Order No. 50 unterteilt Straßenfahrzeughersteller und -produkte in **sechs
 |---|---|---|---|---|---|---|
 | 2026 Automobile und Motorrad Anmeldung zur Einreichung von Ausfuhrlizenzen | Handelsministerium (MOFCOM) | KN (Ausfuhrseite) | https://www.mofcom.gov.cn/zcfb/zc/art/2025/art_1b1313c9c6da4a56874364b39e39c57d.html | 2026-09-03 | ÜBERPRÜFUNG | Jährliche Einreichung; Leistungsnachweise für die Anpassung |
 | Bekanntmachung zur weiteren Stärkung des Exportmanagements für Gebrauchtwagen | Staatsrats-Politikbibliothek (vier Ministerien) | KN (Ausfuhrseite) | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | ÜBERPRÜFUNG | Gebrauchtwagenlizenzregelung; 180-day Regel von 2026-01-01 |
-| BEV Verwaltung der Ausfuhrlizenzen für Personenkraftwagen | National Business Daily / Toutiao | KN (Ausfuhrseite) | http://m.toutiao.com/group/7554336546682323496/ | 2026-09-03 | ZEIT_SENSIATION | BEV-Lizenzgleis, Referenz HS |
+| BEV Verwaltung der Ausfuhrlizenzen für Personenkraftwagen | National Business Daily Toutiao | KN (Ausfuhrseite) | http://m.toutiao.com/group/7554336546682323496/ | 2026-09-03 | ZEIT_SENSIATION | BEV-Lizenzgleis, Referenz HS |
 | MIIT Order No. 50 — Manufacturer & Product Admission | Ministerium für Industrie und IT | KN (Ausfuhrseite) | https://www.miit.gov.cn/zcfg/jdcjxl/art/2018/art_72a4ad7ff2304a8c83199eac43f276fe.html | 2026-09-03 | ÜBERPRÜFUNG | Sechs Zulassungskategorien; Document-Chain-Basis |
 *Anwendungsbereich: Offizielle Quellen decken hier nur die Exportseite Chinas ab. Genaue HS-Codes, Einzelheiten zum Systembetrieb und jährliche Änderungen müssen anhand der aktuellen Tarif- und MOFCOM-Mitteilungen bestätigt werden; die Bestimmungsregeln sind nicht in den Anwendungsbereich gefallen. *
 
@@ -95,9 +95,9 @@ MIIT Order No. 50 unterteilt Straßenfahrzeughersteller und -produkte in **sechs
 | 商务部办公厅关于 2026 年度汽车和摩托车出口许可申报的通知 (2025-09-28; 引用 54 号公告, 系统填报 "乘用车") | MOFCOM Department of Foreign Trade (wms) | CN | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-04 | ÜBERPRÜFUNG |  |
 
 ## Editorial Review
-- **Autor / Rezensent**: [AutoBridge Export Editorial Team](/Autoren/) · Methode nach unserer [Editorial Policy](/editorial-policy/]
+- **Autor Rezensent**: [AutoBridge Export Editorial Team](/Autoren/) · Methode nach unserer [Editorial Policy](/editorial-policy/]
 - **Zuletzt überprüft**: 2026-09-05
-- **Referenzmarkt / Umfang**: Ausfuhrseite China
+- **Referenzmarkt Umfang**: Ausfuhrseite China
 - **Verifizierungsmethode**: Chinesische Primärquellenüberprüfung (MOFCOM/Staatsrat/MIIT); zeitkritische Elemente gekennzeichnet, nicht festgelegt
 - **Editorialstandard**: Recherchiert und geschrieben aus den oben aufgeführten Quellen (Desk-Recherche; kein Fahren aus erster Hand, Teardown oder Import wird beansprucht). Das Vertrauen in die Quelle wird pro Zeile angezeigt; jeder Punkt, den wir nicht unabhängig bestätigen können, wird als Verifizierungselement dargestellt und nicht als Tatsache behauptet.
 #AutoBridge #ExportLicence #CustomsDocuments #ChinaExport #ExportProcurement

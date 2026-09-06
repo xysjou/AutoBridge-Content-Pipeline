@@ -2,12 +2,12 @@
 
 ## SEO Metadata
 - ** عنوان المنظمة**: JAC T9 Hunter DieselIPup Specs " Export Guide (Bed, 4WD)
-- ** وصف البيانات**: JAC T9 Hunter / Hantu diesel pickup - standard and long beds, 2.0T diesel with ZF 8AT, BorgWarner part-time 4WD, export 3500 kg towing vs China-rated 1000 kg pay kept market-specific, with exporter verification.
+- ** وصف البيانات**: JAC T9 Hunter Hantu diesel pickup - standard and long beds, 2.0T diesel with ZF 8AT, BorgWarner part-time 4WD, export 3500 kg towing vs China-rated 1000 kg pay kept market-specific, with exporter verification.
 - ** URL المقتطع**: /مركبات/جج- t9-hunter/
 - ** H1 ** صياد JAC T9: ديزل بيكب سبيكس (Bed, Payload, Drivetrain, Chassis) لشراء مشتريات التصدير
 - ** كلمة مفتاحية رمزية**: جك t9 مطياف صياد ملتقطة
 - ** شروط البحث الثانية**: JAC T9 (هانتر ديزل) JAC هانتو بيكب T9 8AT 4x4 حمولة "جى سي" للشحن تصدير الديزل الصيني
-- ** مقترحات داخلية للربط**: /مبادئ توجيهية/تصنيف للمركبات/تصنيف رموز/تصنيفات؛/مبادئ توجيهية/تسميات متعددة - مقابر/مفاتيح صينية/؛ /مبادئ توجيهية/توجيهات/أجهزة لتجميع الوقود/أجهزة التكافل/
+- ** مقترحات داخلية للربط**: رموز/تصنيفات؛/مبادئ متعددة - توجيهية/توجيهات/أجهزة لتجميع
 - ** اقتراحات مقدمة**: T9 جانب الصيادين مع السرير؛ وبُعدا سرير البضائع؛ و4WD منتقاة 2H/4H/4L؛ وقفل منفذ؛ وإطار للفوضى؛
 - ** الاقتراحات**: "JAC T9" - ديزل هنتر 4x4 بيكب "T9 صياد قياسي ضد أبعاد السرير الطويلة"
 
@@ -18,7 +18,7 @@
 | البند | قاعدة العجلات الموحدة | قاعدة طويلة من المحركات |
 |---|---|---|
 | الطول الإجمالي | **5330 mm** | **5620 mm** |
-| الأرملة/الطول | 1965 / 1920 mm | 1965 / 1920 mm |
+| | 1965 1920 mm | 1965 1920 mm |
 | Wheelbase | **3110 mm** | **3400 mm** |
 | سرير قياسي (LxWH) | **1520 × 1590 × 470 mm** | سرير أطول على الـ3400 mm |
 وتتم التحقق من أبعاد قاعدة البيانات الموحدة بين موقع شركة النفط المشتركة المصدرة لمنظمة الدول الأمريكية ومصدر صيني منظم؛ ويجري فحص أرقام قاعدة العجلات الطويلة عبر مصدرين صينيين. وطول السرير هو أوضح طريقة لإخبار الفوضى عن بعضها البعض؛ وقاعدة العجلات والأبعاد الداخلية للسرير ضد شبكة معلومات فيينا.
@@ -27,39 +27,39 @@
 | البند | T9 الديزل الصيادين - الديزل الصيني - السوق المرجعية |
 |---|---|
 | المهندس | 2.0T inline- 4 turbo diesel |
-| السلطة/التورك | **125 kW / 410 N·m** |
+| | **125 kW 410 N·m** |
 | Gearbox | ** طائرة من طراز ZF 8-speed آلية (8AT)** |
 | 4WD | **BorgWarner part-time 4WD (2H/4H/4L) + rear differential lock** |
-| مطالبة استهلاك الوقود | 7.6 L / 100 km - ** مصانع مطالبة**، وليس نتيجة مقيسة |
+| مطالبة استهلاك الوقود | 7.6 L 100 km - ** مصانع مطالبة**، وليس نتيجة مقيسة |
 
-وترتكز هذه المواد في السوق الصينية حاليا على مصدر إعلامي صيني ملتوي إلى جانب موقع التصدير OEM**؛ for the *Chinese market* they are therefore **SINGLE_SOURCE** — quote them as "**to be finalised against the manufacturer's configuration sheet (以厂商配置单终核)**", ليس كشخصيات صينية ذات مصادر مزدوجة. إن وجود قيمة تصديرية - نظام إدارة المنتجات الاقتصادية لا يحسن ثقة السوق الصينية. الوقود/البعثة: الديزل؛ يؤكدون مدى التسامح إزاء الكبريت وطريق الانبعاث (لا تكون المعايرة الصينية - السادسة هي نفسها موافقة فيما وراء البحار).
+وترتكز هذه المواد في السوق الصينية حاليا على مصدر إعلامي صيني ملتوي إلى جانب موقع التصدير OEM**؛ for the *Chinese market* they are therefore **SINGLE_SOURCE** — quote them as "**to be finalised against the manufacturer's configuration sheet (以厂商配置单终核)**", ليس كشخصيات صينية ذات مصادر مزدوجة. إن وجود قيمة تصديرية - نظام إدارة المنتجات الاقتصادية لا يحسن ثقة السوق الصينية. الديزل؛ يؤكدون مدى التسامح إزاء الكبريت وطريق الانبعاث (لا تكون المعايرة الصينية - السادسة هي نفسها موافقة فيما وراء البحار).
 
 ## دراجات، وشحنات، وحمولات - مادة العلامات السوقية
-- ** قرص متحرك ذي أربع عجلات غير متقطع (BorgWarner)**، مع 2H ** 4H / 4L ** وقفل متمايز مُعلَّق** على الـ 4x4 (مصدر وحيد في السوق الصينية؛ وضع الصيغة النهائية على ورقة البناء).
-- ** الطاقة المضغوطة 3500 kg هي رقم مصنع للسوق المشتركة (السوق = الصادرات)** من موقع منظمة التجارة العالمية. ويجب أن لا يكون** مكتوباً كقيمة تماثل/إشعار صينية أو كرقم على نطاق المنظومة؛ فالتقدير المفاجئ على وثيقة تطويق الوجهة هو ما يحكم الاستخدام في الخارج.
+- ** قرص متحرك ذي أربع عجلات غير متقطع (BorgWarner)**، مع 2H ** 4H 4L ** وقفل متمايز مُعلَّق** على الـ 4x4 (مصدر وحيد في السوق الصينية؛ وضع الصيغة النهائية على ورقة البناء).
+- ** الطاقة المضغوطة 3500 kg هي رقم مصنع للسوق المشتركة (السوق الصادرات)** من موقع منظمة التجارة العالمية. ويجب أن لا يكون** مكتوباً كقيمة صينية أو كرقم على نطاق المنظومة؛ فالتقدير المفاجئ على وثيقة تطويق الوجهة هو ما يحكم الاستخدام في الخارج.
 - ** حمولة الشحن 1000 kg هي رقم سوقي للشركة، مصدق عليها** من خلال الموقع الرسمي الصيني للشركة المشتركة (بدعم من منظمة التصدير/الEM).
 - ويظهر توافر البيوتادايين السداسي الكلور في قوائم التصدير، ولكن مصفوفة الإمداد بالهرموز الرجعية يجب تأكيدها من خلال قناة رسمية تابعة للجنة المساعدة القانونية المشتركة، غير المفترضة.
 
 ## نقاط التصويب والتحكم
-1. ** الشقيق/البر**: standard (3110 mm) vs long (3400 mm) — bed length decides the line.
+1. ** standard (3110 mm) vs long (3400 mm) — bed length decides the line.
 2. **Drivetrain**: 4x4 مع 2H/4H/4L وقفل مركب مقابل أي 4x2 نسخة؛ وتذكر صراحة.
-3. ** بطاقة ماركت على القدرة**: 3500 kg طن مطروح = بيانات مصنع مبيدات الآفات؛ 1000 kg حمولة = مصنف في الصين؛ مطابقة لكل من تقدير المقصد.
+3. ** بطاقة ماركت على القدرة**: 3500 kg طن مطروح بيانات مصنع مبيدات الآفات؛ 1000 kg حمولة مصنف في الصين؛ مطابقة لكل من تقدير المقصد.
 4. ** ثقة السُلطة الصينية**: 125 kW/410 N·m/ZF 8AT/4WD are single-source for China — finalise against the manufacturer sheet.
-5. ** ديزيل بعد المعالجة والكبريت بالوقود**، حسب دليل قابلية الانبعاثات/التكافل بالوقود؛ ** تصنيف النظام المنسق عالميا** حسب دليل رموز التصدير HS.
+5. ** ديزيل بعد المعالجة والكبريت بالوقود**، حسب دليل قابلية بالوقود؛ ** تصنيف النظام المنسق عالميا** حسب دليل رموز التصدير HS.
 
 ## التحقق من صحة المشترين قبل الدفع
-- (ب) الأبعاد القياسية/المطولة) والأبعاد السريرية؛ 4WD نمط ووجود خلفي على ورقة البناء.
-- معالجة 3500 kg طن على شكل بيانات مصنع التصدير فقط؛ تأكيد تقدير حجم السحب/الشحن على الحرق**.
+- (ب) الأبعاد والأبعاد السريرية؛ 4WD نمط ووجود خلفي على ورقة البناء.
+- معالجة 3500 kg طن على شكل بيانات مصنع التصدير فقط؛ تأكيد تقدير حجم على الحرق**.
 - وأكد الجانب التوجيهي (LHD/RHD) رسمياً؛ وتوافق الانبعاثات والوقود الديزل.
 - (ب) وضع الوثيقة حسب قائمة مرجعية لحزم وثائق التصدير.
 
 ## طلب تخصيص موارد التصدير الحالية
-ولا يُنشر أي سعر ثابت للصادرات.: الاستفسار مع ** بلد الاستضافة؛ الكمية؛ المستوى/المستوى المتوسط؛ المستوى الأعلى/المستوى المتوسط؛ مدخل الوجهة الصحية؛ مرفأ الوجهة**.
+ولا يُنشر أي سعر ثابت للصادرات.: الاستفسار مع ** بلد الاستضافة؛ الكمية؛ المتوسط؛ المستوى المتوسط؛ مدخل الوجهة الصحية؛ مرفأ الوجهة**.
 
 ## الأسئلة المتكررة
 ** ما هو المحرك وجهاز التروس الذي يستخدمه الصيادون البالغ عددهم T9؟** A 2.0T diesel (125 kW/ 410 N·m) with a ZF 8-speed automatic; for the Chinese market these are single-source pending the factory formation sheet.
 ** هل لديها سيارة ذات أربعة أحزمة منخفضة المدى؟** نعم - BorgWarner parttime 4WD with 2H/4H/4L and a rear differential lock on the documented 4x4.
-**Standard أو سرير طويل** وكلاهما: 3110 mm قاعدة عجلة/ 5330 mm، إجمالية أو 3400 mm/ 5620 mm؛ ويختلف طول الأسرة تبعا لذلك.
+**Standard أو سرير طويل** وكلاهما: 3110 mm قاعدة 5330 mm، إجمالية أو 3400 mm/ 5620 mm؛ ويختلف طول الأسرة تبعا لذلك.
 ** هل هو رقم الـ 3500 kg طن من قيمة صينية مصدق عليها؟** لا - إنه رقم مصنع لسوق التصدير في منطقة التجارة المشتركة؛ والحمولة التي تبلغ 1000 kg هي القيمة التي تقدرها الصين، ويجب التأكد من تقييم المقصد على حدة.
 
 ## سجل الصور
@@ -73,36 +73,36 @@
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
 - IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
 - IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
-- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات ويكيميو/فلكر غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات المسبقة/الرخصة، وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
+- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
 - ALT by language:
-  - **EN**: AutoBridge export-buyer reference — JAC T9 Hunter, petrol/diesel Chinese-market vehicle / pickup truck
-  - **FR**: Référence AutoBridge pour acheteurs export — JAC T9 Hunter, véhicule thermique (marché chinois) / pick-up
-  - **DE**: AutoBridge-Referenz für Exportkäufer — JAC T9 Hunter, Verbrenner (chinesischer Markt) / Pick-up
-  - **ES**: Referencia AutoBridge para compradores de exportación — JAC T9 Hunter, vehículo de combustión (mercado chino) / camioneta pick-up
-  - **PT**: Referência AutoBridge para compradores de exportação — JAC T9 Hunter, veículo a combustão (mercado chinês) / picape
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜JAC T9 Hunter, 中国市場仕様 内燃機関車 / ピックアップトラック
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜JAC T9 Hunter, 중국 시장 내연기관 차량 / 픽업트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — JAC T9 Hunter, xe động cơ đốt trong (thị trường Trung Quốc) / xe bán tải
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — JAC T9 Hunter, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถกระบะ
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — JAC T9 Hunter, kendaraan mesin pembakaran (pasar Tiongkok) / truk pikap
-  - **AR**: مرجع AutoBridge لمشتري التصدير — JAC T9 Hunter, مركبة بمحرك احتراق (سوق الصين) / شاحنة بيك أب
-  - **ZH**: AutoBridge 出口采购参考｜JAC T9 Hunter, 中国市场燃油车 / 皮卡
+  - **EN**: AutoBridge export-buyer reference — JAC T9 Hunter, petrol/diesel Chinese-market vehicle pickup truck
+  - **FR**: Référence AutoBridge pour acheteurs export — JAC T9 Hunter, véhicule thermique (marché chinois) pick-up
+  - **DE**: AutoBridge-Referenz für Exportkäufer — JAC T9 Hunter, Verbrenner (chinesischer Markt) Pick-up
+  - **ES**: Referencia AutoBridge para compradores de exportación — JAC T9 Hunter, vehículo de combustión (mercado chino) camioneta pick-up
+  - **PT**: Referência AutoBridge para compradores de exportação — JAC T9 Hunter, veículo a combustão (mercado chinês) picape
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜JAC T9 Hunter, 中国市場仕様 内燃機関車 ピックアップトラック
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜JAC T9 Hunter, 중국 시장 내연기관 차량 픽업트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — JAC T9 Hunter, xe động cơ đốt trong (thị trường Trung Quốc) xe bán tải
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — JAC T9 Hunter, รถเครื่องยนต์สันดาป (ตลาดจีน) รถกระบะ
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — JAC T9 Hunter, kendaraan mesin pembakaran (pasar Tiongkok) truk pikap
+  - **AR**: مرجع AutoBridge لمشتري التصدير — JAC T9 Hunter, مركبة بمحرك احتراق (سوق الصين) شاحنة بيك أب
+  - **ZH**: AutoBridge 出口采购参考｜JAC T9 Hunter, 中国市场燃油车 皮卡
 
 ## المصدر: التحقق
 | عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
 | مواصفات رسمية من البند T9 من اتفاقية المساعدة المؤقتة | موقع تصدير محركات شركة JAC | EXPORT | https://jacen.jac.com.cn/t9-launch/specs.html | 2026-09-04 | مثقفة | SAME_MODEL identity; ** 3500 kg towing (EXPORT)**؛ الأبعاد الثابتة |
 | تشكيلة منتجات هانتو الجديدة | JAC مسؤول عن التعبئة | CN | https://pickup.jac.com.cn/qxht/index.html | 2026-09-04 | مثقفة | SAME -MODEL identity; ** 1000 kg الحمولة (CHINA)* ♪ |
-| أبعاد معيار هانتو/جسم طولي | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/6777343 | 2026-09-04 | صرخات | 5330/5620، قاعدة عجلات، سرير |
+| أبعاد معيار طولي | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/6777343 | 2026-09-04 | صرخات | 5330/5620، قاعدة عجلات، سرير |
 | : رصد T9 بعد لتقديم الطلبات (سرير طويل) | PCauto | CN | http://m.pcauto.com.cn/x/2947/29474511.html | 2026-09-04 | صرخات | الدعم الطويل الأجل |
 | هانتو (overseas T9) توليد الطاقة | Sohu Auto | CN/Export | https://www.sohu.com/a/1068531202_122480923 | 2026-09-04 | SINGLE OURCE (الصين) | 2.0T/125/410/ZF8AT/4WD، 7.6 مطالبة |
 | مصممو السيارات على الطرق - نظام الاستفسارات العامة | وزارة الصناعة وتكنولوجيا المعلومات في الصين | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | مفقود | التحقق من الصانع والنموذج المعتمد والهجوم (公告) |
 | GB 16735-2019 المركبات البرية - الاحتياجات من رقم تحديد المركبات | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | مفقود | تركيبة الشبكة وربطة بيانات مستعملة في نظام التحقق الخاص بالمشتري |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | مفقود | الشروط التقنية المتعلقة بسلامة المركبات في الصين والإطار الزمني الحالي/التنقيحي |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | مفقود | الشروط التقنية المتعلقة بسلامة المركبات في الصين والإطار الزمني |
 | 18352.6-2016 GB مع التعديل XG1-2026 (الصين - 6 من انبعاثات ملوثات المركبات الخفيفة) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | مفقود | الصين - 6 مرحلة انبعاثات المركبات الخفيفة ومواعيد تنفيذ التعديل البالغ 2026 |
-| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | مفقود | درجة وقود الديزل وقاعدة الكبريت لمطابقة تصميم المحركات/البعثة في الخارج |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | مفقود | درجة وقود الديزل وقاعدة الكبريت لمطابقة تصميم في الخارج |
 
-* ملاحظة: هوية SAME_MODEL عن طريق مواقع مزدوجة تابعة لمنظمة التعاون الدولي؛ وفحص أشعة فصية موحدة/طويلة؛ وجهاز كهرباء صينية هو SINGLE_SOURCE (الانتهاء من صحيفة الصانع)؛ و3500 kg طن هو كربون مستعمل فقط، ولا قيمة صينية للهواء؛ و1000 kg حمولة هي الصين موزعة على الجميع. RHD مصفوفة وأسعار التصدير غير مذكورة. ♪
+* ملاحظة: هوية SAME_MODEL عن طريق مواقع مزدوجة تابعة لمنظمة التعاون الدولي؛ وفحص أشعة فصية وجهاز كهرباء صينية هو SINGLE_SOURCE (الانتهاء من صحيفة الصانع)؛ و3500 kg طن هو كربون مستعمل فقط، ولا قيمة صينية للهواء؛ و1000 kg حمولة هي الصين موزعة على الجميع. RHD مصفوفة وأسعار التصدير غير مذكورة. ♪
 
 ## استعراض التحرير
 - ** Author**: AutoBridge Export Editorial Team; method per our [Editorial Policy](/editorial-policy/)

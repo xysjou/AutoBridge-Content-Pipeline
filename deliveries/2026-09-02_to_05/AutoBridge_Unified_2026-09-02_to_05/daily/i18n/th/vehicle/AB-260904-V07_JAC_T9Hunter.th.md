@@ -2,12 +2,12 @@
 
 ## เชา ข้อมูลกํากับภาพ
 - "SEO Talks": JC T9 ฮันเตอร์ ดีเซล เพ็กอัพ สเปคส์ & คู่มือส่งออก (Bed, 4WD)
-- "Meta Date=" (อังกฤษ: JC T9) นักล่า/ฮันตู ดีเซล ปิค (Hantu Derbook) — เตียงมาตรฐานและยาว 2.0T เดซิเบล (SF 8AT) เข้าร่วมแข่งขันของ Borg Warner (Borg Warner) เข้าร่วมใน 4WD ส่งส่งสาส์น 3500 kg ไปชิงเงินจากจีนที่เพิ่ม 1000 kg ค่าใช้จ่ายเก็บตลาดที่เก็บสินค้าไว้ โดยผู้ส่งออก พ.ศ.
-- ~ที่อยู่ URL ที่ถูกย่อ: / เวนิกส์/จาค- t9-hunter/ ~
+- "Meta Date=" (อังกฤษ: JC T9) ดีเซล ปิค (Hantu Derbook) — เตียงมาตรฐานและยาว 2.0T เดซิเบล (SF 8AT) เข้าร่วมแข่งขันของ Borg Warner (Borg Warner) เข้าร่วมใน 4WD ส่งส่งสาส์น 3500 kg ไปชิงเงินจากจีนที่เพิ่ม 1000 kg ค่าใช้จ่ายเก็บตลาดที่เก็บสินค้าไว้ โดยผู้ส่งออก พ.ศ.
+- ~ที่อยู่ URL ที่ถูกย่อ: เวนิกส์/จาค- t9-hunter/ ~
 - ** H1 **: JC T9 นักล่า: Diesel pickup Spects (Bed, pageload, Drivestrain, Chasis) สําหรับผู้ซื้อส่งออก
 - ~คําสําคัญในจดหมาย ~: พรานจับข้อมูล t9 – ชนิดของการส่งออก
 - ~การค้นหาตามวาระที่: ~JC T9 ฮันเตอร์ ดีเซล, เจซี Hantu ปิ๊กอัพ T9 8AT 4x4, JaC เบี้ยเลี้ยงรถลาก, ส่งออกรถปิกอัพดีเซลจีน
-- ** เชื่อมโยงภายใน **: / guides/ viides-export-hs-code-sportication/;//// guides/nvin-names-inclution-vis-Veecles/;// guides/ para-comportable-china-Veachys//
+- ** เชื่อมโยงภายใน **: guides/ viides-export-hs-code-sportication/;//// guides/nvin-names-inclution-vis-Veecles/;// guides/ para-comportable-china-Veachys//
 - ~คําแนะนําของกรมหมื่นฯ ~ T9 ~ ด้านข้างของนักล่ากับเตียง; ขนาดเตียงสินค้า 4WD เลือก 2H/4H/4L; หลังล็อค; กรอบ chasis
 - ข้อเสนอแนะ: "JAC T9". ฮันเตอร์ ดีเซล 4x4 รถกระบะ" T9" ขนาดเตียงยาวมาตรฐานของนักล่า"
 
@@ -18,7 +18,7 @@
 | รายการ | เบสของล้อมาตรฐาน | เบสล้อยาว |
 |---|---|---|
 | ความยาวตลอด | **5330 mm** | **5620 mm** |
-| ความกว้าง/ สูง | 1965 / 1920 mm | 1965 / 1920 mm |
+| สูง | 1965 1920 mm | 1965 1920 mm |
 | เบสของล้อ | **3110 mm** | **3400 mm** |
 | เตียงมาตรฐาน (Legwegh) | **1520 × 1590 × 470 mm** | เตียง นอน ที่ ยาว กว่า 3400 mm แชส ซี |
 ขนาดฐานล้อมาตรฐานจะตรวจสอบข้าม เชื่อมโยงระหว่างเว็บไซต์ที่ส่งออก JC OEM และแหล่งโครงสร้างของจีน ตัวเลขฐานล้อยาวถูกตรวจสอบข้ามสองแหล่งของจีน ระยะนอนเป็นวิธีชัดเจนที่สุดที่จะบอก chasis สองออกจากกัน; บันทึกล้อเบสและเตียงมิติภายในกับ VIN
@@ -27,29 +27,29 @@
 | รายการ | T9 ฮันเตอร์ ดีเซล — อ้างอิงของตลาดจีน |
 |---|---|
 | กลไก | 2.0T ในบรรทัด- 4 เครื่องดีเซลดีเซล |
-| พลัง / แรงบิด | **125 kW / 410 N·m** |
+| พลัง แรงบิด | **125 kW 410 N·m** |
 | กล่องปรับเลข | ~ZF 8-speed อัตโนมัติ (8AT) ~ |
 | 4WD | ~Borg Warner parts 4WD (2H/4H/4L) + ล็อกดิฟเฟอเรนเชียลหลัง** |
-| เรียกร้องการบริโภคเชื้อเพลิง | 7.6 L / 100 km — ~ผู้ควบคุมการกล่าวมา* (พ.ศ. |
+| เรียกร้องการบริโภคเชื้อเพลิง | 7.6 L 100 km — ~ผู้ควบคุมการกล่าวมา* (พ.ศ. |
 
-รายการพลังงานตลาดจีนเหล่านี้ในปัจจุบันได้หยุดใช้สื่อจีนที่ส่งมาจากเว็บไซต์ OEM ] for the *Chinese market* they are therefore **SINGLE_SOURCE** — quote them as "**to be finalised against the manufacturer's configuration sheet (以厂商配置单终核)**", ไม่ใช่ตัวเลขจีนสองระบบ การที่ค่าส่งออกของ EXIM ไม่ได้เพิ่มความมั่นใจของตลาดจีน เชื้อเพลิง/ การเติมเชื้อเพลิง: ดีเซล ยืนยันการทนทานของ กํามะถัน และเส้นทางปล่อยก๊าซ (การปรับอากาศของจีน-วีนั้น ไม่ได้ถูกอนุมัติจากต่างประเทศ)
+รายการพลังงานตลาดจีนเหล่านี้ในปัจจุบันได้หยุดใช้สื่อจีนที่ส่งมาจากเว็บไซต์ OEM ] for the *Chinese market* they are therefore **SINGLE_SOURCE** — quote them as "**to be finalised against the manufacturer's configuration sheet (以厂商配置单终核)**", ไม่ใช่ตัวเลขจีนสองระบบ การที่ค่าส่งออกของ EXIM ไม่ได้เพิ่มความมั่นใจของตลาดจีน การเติมเชื้อเพลิง: ดีเซล ยืนยันการทนทานของ กํามะถัน และเส้นทางปล่อยก๊าซ (การปรับอากาศของจีน-วีนั้น ไม่ได้ถูกอนุมัติจากต่างประเทศ)
 
 ## การ ขับ รถ, การ ลาก และ การ จ่าย — เป้า หมาย ของ ตลาด
-- **Part-time four-wheel drive (BorgWarner)** with **2H / 4H / 4L**  and  A-Rar Delectron Docky) บนเอกสาร 4x4 (Chense-smarket-source) เข้าสู่ขั้นสุดท้ายกับแผ่นไม้
-- ** ทรัพย์สินการแกว่ง 3500 kg เป็นบริษัท POPT-มาร์เก็ตเจซี (Market = PTVOORT) ** จากเว็บไซต์ส่งออก โออีเอ็ม (PDF). มันต้องไม่ -- ไม่เขียนด้วยอักษรจีน หรือค่าการออกเสียง หรือตัวเลขในระบบ; เรตติ้งเบรก-toling บนเอกสารการรักเกย์ปลายทาง คือสิ่งที่ผู้ปกครองใช้ต่างประเทศ
+- **Part-time four-wheel drive (BorgWarner)** with **2H 4H 4L**  and  A-Rar Delectron Docky) บนเอกสาร 4x4 (Chense-smarket-source) เข้าสู่ขั้นสุดท้ายกับแผ่นไม้
+- ** ทรัพย์สินการแกว่ง 3500 kg เป็นบริษัท POPT-มาร์เก็ตเจซี (Market PTVOORT) ** จากเว็บไซต์ส่งออก โออีเอ็ม (PDF). มันต้องไม่ -- ไม่เขียนด้วยอักษรจีน หรือค่าการออกเสียง หรือตัวเลขในระบบ; เรตติ้งเบรก-toling บนเอกสารการรักเกย์ปลายทาง คือสิ่งที่ผู้ปกครองใช้ต่างประเทศ
 - ** ดําเนินการ 1000 kg เป็นตัวเลขตลาด ISAV, ISIFIIID ** ผ่านเว็บไซต์รับของจีน (มีการส่ง เสริมการส่งออก-โออีเอ็ม).
 - RHD เปิดใช้งานปรากฏในรายการส่งออก แต่แน่นอน RIHD ต้นแบบต้องได้รับการยืนยันผ่านทางช่อง JC อย่างเป็นทางการ ไม่ได้สันนิษฐาน
 
 ## รุ่นและลําดับการอนุญาตสิทธิ์
-1. ~ชาซิส/เตียง ~: standard (3110 mm) vs long (3400 mm) — bed length decides the line.
+1. ~: standard (3110 mm) vs long (3400 mm) — bed length decides the line.
 2. ~รถไฟ~: 4x4 โดยมี 2H/4H/4L และล็อคหลัง (Vs 4x2) ทุกรุ่น; ระบุออกมาอย่างชัดเจน
-3. ** ตราสัญลักษณ์บนความจุ ~: 3500 kg Towing =ข้อมูลโรงงาน PAT; 1000 kg popload= china-rate; ประนีประนอมทั้งคู่กับการจัดอันดับปลายทาง (PDF).
+3. ** ตราสัญลักษณ์บนความจุ ~: 3500 kg Towing PAT; 1000 kg popload= china-rate; ประนีประนอมทั้งคู่กับการจัดอันดับปลายทาง (PDF).
 4. ~ความมั่นใจในพลังงานจีน~: 125 kW/ 410 N·m/ZF 8AT/4WD เป็นแหล่งข่าวเดี่ยวของประเทศจีน — รอบสุดท้ายต่อต้านแผ่นผู้ผลิตยา (PDF).
-5. ~ DIESel หลังจากการรักษาและเชื้อเพลิง~ ต่อคู่มือการปล่อยน้ํา/ความซับซ้อนของน้ํา; ~HHS จําแนกประเภท~ ต่อคู่มือการส่งออกของ HS-รหัส
+5. ~ DIESel หลังจากการรักษาและเชื้อเพลิง~ ~HHS จําแนกประเภท~ ต่อคู่มือการส่งออกของ HS-รหัส
 
 ## การ รับรอง การ ซื้อ ผ่าน ทาง ไปรษณีย์ ก่อน จะ จ่าย
-- VIN-to-chasis (มาตรฐาน/ยาว) และ ขนาดเตียง 4WD โหมด และล็อคหลังบนแผ่นไม้
-- รักษา 3500 kg การขยายวงเป็นข้อมูลโรงงานส่งออกเท่านั้น; ยืนยันอัตราการชัก/จ่ายของรายการ "DESTD"
+- VIN-to-chasis และ ขนาดเตียง 4WD โหมด และล็อคหลังบนแผ่นไม้
+- รักษา 3500 kg การขยายวงเป็นข้อมูลโรงงานส่งออกเท่านั้น; "DESTD"
 - ด้านการเลื่อน (LHD/RHD) ยืนยันอย่างเป็นทางการ การปล่อยก๊าซและดีเซล-ฟูลที่เข้ากันได้
 - ตั้งค่าเอกสารต่อรายการเอกสารแบบส่งออก
 
@@ -57,10 +57,10 @@
 ไม่มีการจัดพิมพ์ราคาการส่งออกแบบคงที่ Enquire with ~ ดินแดนที่เจริญพันธุ์ tha Quantity as Standard/ Long Beed HD/RHD ปลายทาง ท่าเรือ  Incceptember ~.
 
 ## คํา ถาม ที่ มัก จะ ถาม บ่อย ๆ
-** เครื่องยนต์อะไร  and  เกียร์กล่องที่ T9 นักล่าใช้หรือเปล่า?  2.0T ดีเซล (125 kW / 410 N·m) โดยมี ZF 8-speed อัตโนมัติ; สําหรับตลาดจีน นี่เป็นแหล่งเดียว ที่คอยรับช่วงการปรับแต่งโรงงาน
+** เครื่องยนต์อะไร  and  เกียร์กล่องที่ T9  2.0T ดีเซล (125 kW 410 N·m) โดยมี ZF 8-speed อัตโนมัติ; สําหรับตลาดจีน นี่เป็นแหล่งเดียว ที่คอยรับช่วงการปรับแต่งโรงงาน
 ♪ มีไดรฟ์สี่ล้อต่ํา~ ใช่ — บอร์ก วอร์เนอร์ พาร์ทไทม์ 4WD กับ 2H/4H/4L และล็อคหลังของดิฟเฟอเรนเชียล 4x4. เอกสาร
-♪ เตียงยาวหรือ ♪ ทั้ง 3110 mm ล้อเบส/ 5330 mm โดยรวม หรือ 3400 mm / 5620 mm; ระยะนอนต่างตามหลัก
-" 3500 kg" เป็นรถลากที่มีมูลค่าเป็นเงินจีนหรือเปล่า? ไม่ — มันเป็นตัวพิมพ์ของโรงงานผลิตยาอีที่ส่งออก 1000 kg ต่างหาก คือมูลค่าที่จีนจัด และอันดับปลายทางต้องได้รับการยืนยันแยกต่างหาก
+♪ เตียงยาวหรือ ♪ ทั้ง 3110 mm 5330 mm โดยรวม หรือ 3400 mm 5620 mm; ระยะนอนต่างตามหลัก
+" 3500 kg" ไม่ — มันเป็นตัวพิมพ์ของโรงงานผลิตยาอีที่ส่งออก 1000 kg ต่างหาก คือมูลค่าที่จีนจัด และอันดับปลายทางต้องได้รับการยืนยันแยกต่างหาก
 
 ## บันทึกรูปภาพ
 - _ปราสาท: ไม่มีความปลอดภัยในคลังเก็บ
@@ -70,39 +70,39 @@
 - ลิขสิทธิ์: ไม่ยืนยัน
 - LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
 - _กําหนดวันที่: 2026-09-06
-- MERCUL_ TOPIC_ MATCH: ต้องตรงกับรุ่น/ การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
-- CHAR_SCPE_NOTE: ตรงกับโมเดลที่เป๊ะของครอบครัว/ topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
+- MERCUL_ TOPIC_ MATCH: การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
+- CHAR_SCPE_NOTE: topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
 - March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
 - BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
 - ALT ด้วยภาษา:
-  - **EN**: AutoBridge export-buyer reference — JAC T9 Hunter, petrol/diesel Chinese-market vehicle / pickup truck
-  - **FR**: Référence AutoBridge pour acheteurs export — JAC T9 Hunter, véhicule thermique (marché chinois) / pick-up
-  - **DE**: AutoBridge-Referenz für Exportkäufer — JAC T9 Hunter, Verbrenner (chinesischer Markt) / Pick-up
-  - **ES**: Referencia AutoBridge para compradores de exportación — JAC T9 Hunter, vehículo de combustión (mercado chino) / camioneta pick-up
-  - **PT**: Referência AutoBridge para compradores de exportação — JAC T9 Hunter, veículo a combustão (mercado chinês) / picape
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜JAC T9 Hunter, 中国市場仕様 内燃機関車 / ピックアップトラック
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜JAC T9 Hunter, 중국 시장 내연기관 차량 / 픽업트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — JAC T9 Hunter, xe động cơ đốt trong (thị trường Trung Quốc) / xe bán tải
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — JAC T9 Hunter, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถกระบะ
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — JAC T9 Hunter, kendaraan mesin pembakaran (pasar Tiongkok) / truk pikap
-  - **AR**: مرجع AutoBridge لمشتري التصدير — JAC T9 Hunter, مركبة بمحرك احتراق (سوق الصين) / شاحنة بيك أب
-  - **ZH**: AutoBridge 出口采购参考｜JAC T9 Hunter, 中国市场燃油车 / 皮卡
+  - **EN**: AutoBridge export-buyer reference — JAC T9 Hunter, petrol/diesel Chinese-market vehicle pickup truck
+  - **FR**: Référence AutoBridge pour acheteurs export — JAC T9 Hunter, véhicule thermique (marché chinois) pick-up
+  - **DE**: AutoBridge-Referenz für Exportkäufer — JAC T9 Hunter, Verbrenner (chinesischer Markt) Pick-up
+  - **ES**: Referencia AutoBridge para compradores de exportación — JAC T9 Hunter, vehículo de combustión (mercado chino) camioneta pick-up
+  - **PT**: Referência AutoBridge para compradores de exportação — JAC T9 Hunter, veículo a combustão (mercado chinês) picape
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜JAC T9 Hunter, 中国市場仕様 内燃機関車 ピックアップトラック
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜JAC T9 Hunter, 중국 시장 내연기관 차량 픽업트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — JAC T9 Hunter, xe động cơ đốt trong (thị trường Trung Quốc) xe bán tải
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — JAC T9 Hunter, รถเครื่องยนต์สันดาป (ตลาดจีน) รถกระบะ
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — JAC T9 Hunter, kendaraan mesin pembakaran (pasar Tiongkok) truk pikap
+  - **AR**: مرجع AutoBridge لمشتري التصدير — JAC T9 Hunter, مركبة بمحرك احتراق (سوق الصين) شاحنة بيك أب
+  - **ZH**: AutoBridge 出口采购参考｜JAC T9 Hunter, 中国市场燃油车 皮卡
 
 ## ต้นฉบับและการตรวจสอบสิทธิ์
 | ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
 | JC T9 ข้อกําหนดอย่างเป็นทางการ | เว็บไซต์ส่งออก JACMOTORS (OEM) | ไมโครซอฟต์ | https://jacen.jac.com.cn/t9-launch/specs.html | 2026-09-04 | ISWIIE (OEM) | การแสดงตัวแบบเดียวกัน (Model); ** 3500 kg  towing (EXPORT)*; มิติมาตรฐาน (Sd) |
 | การปรับแต่งผลิตภัณฑ์ Hantu ตัวใหม่ | เจซี chickup อย่างเป็นทางการ (OEM) | CN | https://pickup.jac.com.cn/qxht/index.html | 2026-09-04 | ISWIIE (OEM) | การแสดงตัวแบบเดียวกัน (MACL); ** 1000 kg pageload (CHINA) ** |
-| ขนาดมาตรฐาน/ ยาวของตัว Hantu | ออโต้เซจิฮาว | CN | https://chejiahao.m.autohome.com.cn/info/6777343 | 2026-09-04 | ROOS_ CHCKED | 5330/5620, ล้อ, เตียง |
+| ยาวของตัว Hantu | ออโต้เซจิฮาว | CN | https://chejiahao.m.autohome.com.cn/info/6777343 | 2026-09-04 | ROOS_ CHCKED | 5330/5620, ล้อ, เตียง |
 | จุลภาค T9 ขนาดแฟ้ม (ยาว) | ปิซอโท | CN | http://m.pcauto.com.cn/x/2947/29474511.html | 2026-09-04 | ROOS_ CHCKED | การแบ่งส่วนแบบยาวๆ |
-| Hantu (overs as as T9) Powerrain & รุ่น | ซอยโซออโต้ | เครื่องพิมพ์/ เอ็กซ์พอร์ต | https://www.sohu.com/a/1068531202_122480923 | 2026-09-04 | ผู้โดยสาร_ปลายทาง (จีน) | 2.0T/125/410/ZF8AT/4WD, 7.6 อ้าง |
+| Hantu (overs as as T9) Powerrain & รุ่น | ซอยโซออโต้ | เอ็กซ์พอร์ต | https://www.sohu.com/a/1068531202_122480923 | 2026-09-04 | ผู้โดยสาร_ปลายทาง (จีน) | 2.0T/125/410/ZF8AT/4WD, 7.6 อ้าง |
 | ผู้ ผลิต และ แคตตาล็อก ผลิตภัณฑ์ ถนน — ระบบ สอบ ถาม ของ ประชาชน |  MIT, กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูลจีน | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | เปิดใช้งาน | ตรวจสอบผู้ผลิต, โมเดลที่อนุญาต และการทําอัลบั้มแบบแบ่งประเภท (公告) ก่อนการสั่งซื้อหรือส่งออก |
-| ขนาด GB 16735-2019 รถ ที่ ใช้ ถนน — หมาย เลข รถ (VIN) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | เปิดใช้งาน | โครงสร้างและชื่อของ platt language ที่ใช้ในการตรวจสอบความถูกต้องของผู้ซื้อ/ ชื่อ |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน สภาวะความปลอดภัยทางเทคนิคและเวลาปัจจุบัน/การปรับปรุง |
+| ขนาด GB 16735-2019 รถ ที่ ใช้ ถนน — หมาย เลข รถ (VIN) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | เปิดใช้งาน | โครงสร้างและชื่อของ platt language ชื่อ |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน |
 | GB 18352.6-2016 ด้วยระบบไฟฟ้าลัดวงจร XG1-2026 (จีน- 6 ปริมาตรแสงโพลีเจนต์) | กระทรวง นิเวศ วิทยา และ สิ่ง แวด ล้อม (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | เปิดใช้งาน | จีน 6 ระดับแสงและน้ําใส และวันที่ดําเนินการ 2026 มาตราฐาน |
-| GB 19147 เครื่องยนต์ดีเซลมาตรฐานเชื้อเพลิงแห่งชาติ (ฐานเชื้อเพลิงต่ํา) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | เปิดใช้งาน | ระดับเชื้อเพลิงดีเซลและซัลเฟอร์พื้นฐานที่ตรงกับการออกแบบเครื่องยนต์/การให้บริการต่างประเทศ |
+| GB 19147 เครื่องยนต์ดีเซลมาตรฐานเชื้อเพลิงแห่งชาติ (ฐานเชื้อเพลิงต่ํา) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | เปิดใช้งาน | |
 
-* อนุทิน: อัตลักษณ์เดียวกัน_Model โดยผ่านเว็บไซต์ JC OEM มาตรฐาน/ยาว Chasis cross-casty cross-curternation; enterlances an single_SEEE (instest arter board); 3500 kg trubling tropy (in อังกฤษ) เป็นโครงการวิเคราะห์และไม่เคยมีการอ้างอิงแบบรวมมูลค่าการแบ่งประเภทของจีน 1000 kg ราย จ่ายเงินเป็น ViFIIIIIIIIE. ไม่ระบุค่าเมทริกซ์ RHD และราคาส่งออก *
+* อนุทิน: อัตลักษณ์เดียวกัน_Model โดยผ่านเว็บไซต์ JC OEM Chasis cross-casty cross-curternation; enterlances an single_SEEE (instest arter board); 3500 kg trubling tropy (in อังกฤษ) เป็นโครงการวิเคราะห์และไม่เคยมีการอ้างอิงแบบรวมมูลค่าการแบ่งประเภทของจีน 1000 kg ราย จ่ายเงินเป็น ViFIIIIIIIIE. ไม่ระบุค่าเมทริกซ์ RHD และราคาส่งออก *
 
 ## การทบทวนแก้ไข
 - ** aultor*: AutoBridge ส่งออกวิธีการแก้ไขคําทีม (AutoBridge) ต่อ [นโยบายแก้ไข] ของเรา (/Dercial-policy/)

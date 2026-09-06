@@ -17,7 +17,7 @@ A Chinese-domestic EV that passes customs can still be effectively unusable if i
 
 ## The Standards Map (DC Fast Charging)
 
-| Standard | Primary deployment | Notes |
+| Standard | Primary use | Notes |
 |---|---|---|
 | **GB/T 20234.3** (DC) + **GB/T 27930** (CAN communication) | China (domestic Chinese vehicles) | GB/T 20234.3-2023 raises the upper limit to **1500 V / 800 A** (cross-checked industry sources) |
 | **CCS2 (Combo 2)** | Europe and many export markets | Combined AC/DC inlet; dominant in the EU |
@@ -101,7 +101,7 @@ For every model/trim you export, record in a sheet:
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
 | ChaoJi standard presentation (official) | CHAdeMO Association (standards body) | CN/JP/Global | https://www.chademo.com/wp2016/wp-content/uploads/ChaoJi202006/ChaoJi_Presenataion_EN.pdf | 2026-09-02 | VERIFIED | ChaoJi designed compatible with GB/T/CHAdeMO/CCS |
-| Charging-standard certification paths | Huayu Testing (certification body) | Global | http://www.huayutest.com/zixun/87747.html | 2026-09-02 | CROSS_CHECKED | CHAdeMO/CCS regional deployment, certification differences |
+| Charging-standard certification paths | Huayu Testing (certification body) | Global | http://www.huayutest.com/zixun/87747.html | 2026-09-02 | CROSS_CHECKED | CHAdeMO/CCS regional rollout, certification differences |
 | Charging connector standards | cehome (industry media) | CN | https://m.cehome.com/news/20260809/389612.shtml | 2026-09-02 | CROSS_CHECKED | GB/T 20234.3-2023 1500V/800A, GB/T 27930, ChaoJi |
 | GB/T, CCS2, Type 2, NACS, CHAdeMO compared | evse-chargers.com (industry) | Global | https://www.evse-chargers.com/news/understanding-ev-charging-standards-gb-t-ccs2-type-2-nacs-and-chademo-compared-283319.html | 2026-09-02 | CROSS_CHECKED | GB/T↔CCS2 requires adapter; compatibility matrix |
 | Guide to global EV charging standards | MARUIKEL (industry) | Global | https://www.maruikel.com/es/blog/guide-to-global-ev-charging-standards-type-1-type-2-ccs-chademo-gbt.html | 2026-09-02 | CROSS_CHECKED | Domestic GB/T vs export-version destination connector |
@@ -112,7 +112,7 @@ For every model/trim you export, record in a sheet:
 ## Editorial Review
 - **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
 - **Last reviewed**: 2026-09-05
-- **Reference market**: Global (China export side; EU/JP/NA deployment)
+- **Reference market**: Global (China export side; EU/JP/NA rollout)
 - **Verification method**: Standards-body document plus cross-checked industry sources; model-specific connectors left to official per-VIN confirmation
 - **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
 #AutoBridge #ChargingStandards #GBTvsCCS #EVExport #ConnectorCompatibility

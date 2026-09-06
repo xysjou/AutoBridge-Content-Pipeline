@@ -2,23 +2,23 @@
 
 ## SAO Siêu dữ liệu
 - **SEAO Title**: JAC T9 Hunter Dissel Pickup Spec & Elic Guide (Bed, 4WD)
-- **Meta Mô tả**: JAC T9 Hunter / Hantu diesel — tiêu chuẩn và giường dài, 2.0T diesel với ZF 8AT, Borg Warner bán thời gian 4WD, xuất khẩu 3500 kg để kéo 1000 kg quả bom được giữ nguyên thị trường, với sự xuất khẩu hóa.
+- **Meta Mô tả**: JAC T9 Hunter Hantu diesel — tiêu chuẩn và giường dài, 2.0T diesel với ZF 8AT, Borg Warner bán thời gian 4WD, xuất khẩu 3500 kg để kéo 1000 kg quả bom được giữ nguyên thị trường, với sự xuất khẩu hóa.
 - ** URL đã gợi ý**: /vehicles/jac- t9-hunter/
 - ** H1 **: JAC T9 Hunter: Diesel Pickup Spes (Bed, Payload, Drivetrain, Chassis) cho Elis Buyers
 - ** Từ khoá bí mật **: jac t9 thợ săn thu nhỏ eraw
 - **Secondary Search termss**: JAC T9 Thợ săn dầu diesel, JAC Xe tải Hantu, T9 8AT 4x4, xe tải tải tải của JAC, hàng xuất khẩu dầu diesel Trung Quốc
-- **I nội bộ Link gợi ý: //guides/vehic-ecport-hs-decification/; /guides/vin-Brade-child-tiles /;guides/fuel-fuel-chicha-vehicles/
+- **I nội bộ Link gợi ý: /guides/vin-Brade-child-tiles /;guides/fuel-fuel-chicha-vehicles/
 - **Image sus**: T9 Bên thợ săn với giường; kích thước giường hàng; 4WD bộ chọn 2H/4H/4L; phía sau khóa trục; khung khung khung khung
 - **LLT gợi ý**: "JAC T9 Xe tải của thợ săn 4x4; T9 Tiêu chuẩn của thợ săn là chống lại những chiều dài giường"
 
 ## Văn cảnh: Quyết định nhận thức bắt đầu với giường và xe hơi
-Đối với một chiếc xe tải, câu hỏi đầu tiên của người xuất khẩu là độ dài giường ngủ, tải, bố trí bốn bánh xe và khung gầm — chứ không phải là thông tin. T9 Thợ săn là chiếc xe bán tải dầu diesel cỡ trung; Ở Trung Quốc, nó được bán như **Hantu (悍途)**. The identity is settled by **two JAC-owned official sites** — the export site (jacen, tên " T9"  and  Trang web thu thập tiếng Trung Quốc (cắt ra.jac, Tên " 悍途 / Huantu" — vừa ý MODEL_LIS_OEM_PROOF: Sự quyết tâm nhận dạng cuối cùng giống nhau cho gia đình sản phẩm. Nhân dạng và cấu hình thị trường được đánh giá độc lập, nên mọi hình ảnh bên dưới vẫn mang nhãn hiệu thị trường và sự tự tin của nó.
+Đối với một chiếc xe tải, câu hỏi đầu tiên của người xuất khẩu là độ dài giường ngủ, tải, bố trí bốn bánh xe và khung gầm — chứ không phải là thông tin. T9 Thợ săn là chiếc xe bán tải dầu diesel cỡ trung; Ở Trung Quốc, nó được bán như **Hantu (悍途)**. The identity is settled by **two JAC-owned official sites** — the export site (jacen, tên " T9"  and  Trang web thu thập tiếng Trung Quốc (cắt ra.jac, Tên " 悍途 Huantu" — vừa ý MODEL_LIS_OEM_PROOF: Sự quyết tâm nhận dạng cuối cùng giống nhau cho gia đình sản phẩm. Nhân dạng và cấu hình thị trường được đánh giá độc lập, nên mọi hình ảnh bên dưới vẫn mang nhãn hiệu thị trường và sự tự tin của nó.
 
 ## Quấn và bánh xe: Chuẩn chống lại lâu
 | Mục | Cơ sở bánh xe chuẩn | Nền tảng bánh xe dài |
 |---|---|---|
 | Chiều dài | **5330 mm** | **5620 mm** |
-| Bề rộng/ chiều cao | 1965 / 1920 mm | 1965 / 1920 mm |
+| Bề rộng/ chiều cao | 1965 1920 mm | 1965 1920 mm |
 | Quay | **3110 mm** | **3400 mm** |
 | Giường chuẩn (L×WH) | **1520 × 1590 × 470 mm** | giường dài hơn trên khung gầm 3400 mm |
 Các chiều không gian bánh xe tiêu chuẩn được kiểm tra chéo giữa khu vực xuất khẩu hệ thống OEM và một nguồn gốc của Trung Quốc; các hình mẫu bánh xe dài được kiểm tra chéo qua hai nguồn gốc Trung Quốc. Chiều dài giường là cách rõ ràng nhất để phân biệt hai khung gầm; bánh xe và giường trong cơ sở dữ liệu chống lại VIN.
@@ -27,24 +27,24 @@ Các chiều không gian bánh xe tiêu chuẩn được kiểm tra chéo giữa
 | Mục | T9 dầu diesel Thợ săn — tham chiếu thị trường Trung Quốc |
 |---|---|
 | Máy | 2.0T trên 4 dầu diesel gia tốc |
-| Công suất/ Mô-men xoắn | **125 kW / 410 N·m** |
+| Công suất/ Mô-men xoắn | **125 kW 410 N·m** |
 | Hộp bánh răng | **ZF 8-speed tự động (8AT)** |
 | 4WD | **BorgWarner phần thời gian 4WD (2H/4H/4L) + hậu phương khóa vi phân* ♪ |
-| Yêu cầu nhiên liệu | 7.6 L / 100 km — **manuseuurer cho rằng**, không phải là một kết quả đo lường |
+| Yêu cầu nhiên liệu | 7.6 L 100 km — **manuseuurer cho rằng**, không phải là một kết quả đo lường |
 
 Những món đồ bán hàng hàng Trung Quốc hiện đang nằm trên một nguồn truyền thông **single bên cạnh xuất khẩu OEM; * Thị trường Trung Hoa* chúng là do đó **SINGLE_SOURCE** — trích dẫn chúng như "** để được hoàn tất đối với các bản cấu hình của nhà sản xuất (以厂商配置单终核)**, không phải là những con số kép của Trung Quốc. Sự tồn tại của một giá trị xuất khẩu OEM không nâng cao sự tự tin của thị trường Trung Quốc. Nhiên liệu/tải nhiên liệu: diesel; xác nhận tính dung nạp lưu huỳnh đích đến và đường xả (một sự cân chỉnh của Trung Quốc-VI không phải là chính nó chấp thuận ở nước ngoài).
 
 ## Huấn luyện viên, kéo và nạp lương — Nhãn hiệu thị trường quan trọng
-- **Part-time bốn bánh xe (BorgWarner)** với ** 2H / 4H / 4L **  and  một **rear vi phân khóa** trên tài liệu 4x4 (Trung Quốc-tiệm một nguồn; Cuối cùng là vào phần nền).
-- **Towing dung lượng 3500 kg là một nhà máy bán hàng EXOG JAC (seff = EXO)** từ trang web OEM xuất khẩu. Nó không cần phải được viết như là một giá trị đồng nhất/từ vựng tiếng Trung Quốc hoặc như một số hệ thống toàn diện; đánh giá phanh thây trên tài liệu đồng nhất đích là những gì chi phối ở nước ngoài.
+- **Part-time bốn bánh xe (BorgWarner)** với ** 2H 4H 4L **  and  một **rear vi phân khóa** trên tài liệu 4x4 (Trung Quốc-tiệm một nguồn; Cuối cùng là vào phần nền).
+- **Towing dung lượng 3500 kg là một nhà máy bán hàng EXOG JAC (seff EXO)** từ trang web OEM xuất khẩu. Nó không cần phải được viết như là một giá trị đồng nhất/từ vựng tiếng Trung Quốc hoặc như một số hệ thống toàn diện; đánh giá phanh thây trên tài liệu đồng nhất đích là những gì chi phối ở nước ngoài.
 - ** Chi trả 1000 kg là một con số thị trường CHINA, VERFIEED** thông qua trang web chính thức của Trung Quốc (với hỗ trợ xuất khẩu-OEM).
 - Có sẵn RHD trên danh sách xuất khẩu, nhưng ma trận cung cấp RHD phải được xác nhận thông qua kênh JCC chính thức, không giả định.
 
 ## Các điểm khuyến khích phiên bản và Thứ tự
 1. **Chasis/bed**: chuẩn (3110 mm) tương ứng với 3400 mm) — chiều dài giường quyết định dòng.
 2. **Drivetrain**: 4x4 với 2H/4H/4L và khóa sau với 4x2 phiên bản; bang rõ ràng.
-3. ** Nhãn nhãn nhãn hiệu về khả năng**: 3500 kg kéo = dữ liệu nhà máy EXOG; 1000 kg tải tải lên Trung Quốc; hòa giải cả hai với đánh giá đích đến.
-4. ** Sự tự tin của người Trung Hoa**: 125 kW / 410 N·m /ZF 8AT/4WD là nguồn đơn của Trung Quốc — cuối cùng là với các nhà sản xuất.
+3. ** Nhãn nhãn nhãn hiệu về khả năng**: 3500 kg kéo dữ liệu nhà máy EXOG; 1000 kg tải tải lên Trung Quốc; hòa giải cả hai với đánh giá đích đến.
+4. ** Sự tự tin của người Trung Hoa**: 125 kW 410 N·m /ZF 8AT/4WD là nguồn đơn của Trung Quốc — cuối cùng là với các nhà sản xuất.
 5. **Disel sau khi điều trị và tiếp nhiên liệu lưu huỳnh** trên hướng dẫn tương thích với nhau/fuel; **HS phân loại** trên một hướng dẫn xuất khẩu HS- mật mã.
 
 ## Người bán nước ngoài mua sắm trước khi trả tiền
@@ -59,7 +59,7 @@ Không có giá xuất khẩu tĩnh nào được xuất bản. Cần có **Dies
 ## Những câu hỏi thường xuyên
 **Cái gì cơ  and  gearbox does the T9 Hunter use?** A 2.0T diesel (125 kW/410 N·m) with a ZF 8-speed automatic; Thị trường Trung Quốc là những nguồn đơn này nằm trong bản cấu hình nhà máy.
 **Does it have low-range four-wheel drive?** Yes — BorgWarner part-time 4WD with 2H/4H/4L  and  một khóa chẩn đoán vi phân được ghi lại 4x4.
-** Standard hay dài giường? Cả hai: 3110 mm bánh xe cơ bản/ 5330 mm hoặc 3400 mm / 5620 mm; chiều dài giường khác nhau tùy theo cách.
+** Standard hay dài giường? Cả hai: 3110 mm bánh xe cơ bản/ 5330 mm hoặc 3400 mm 5620 mm; chiều dài giường khác nhau tùy theo cách.
 **Có phải 3500 kg người đang kéo xe ra giá trị của Trung Quốc?** Không, đó là một con số thương hiệu của hãng hàng không JC; tải 1000 kg là giá trị được đánh giá cao ở Trung Quốc, và tỷ lệ điểm đến phải được xác nhận riêng biệt.
 
 ## Thu ảnh
@@ -75,18 +75,18 @@ Không có giá xuất khẩu tĩnh nào được xuất bản. Cần có **Dies
 - TRONG SÁCH TRONG LINH: FAIL (không có giấy phép lấy được tài sản; một người giữ chỗ hoặc “không chấp nhận lời nhắn cũ của hình ảnh ”
 - - Không. Không thể bảo đảm ảnh có thể tái tạo: Wikimedia Commons/Flickr không thể tới từ môi trường nghiên cứu, thư viện chứng khoán yêu cầu quyền truy cập hệ thống ARI/licence, và một trang web OEM không phải là một tài trợ tái sử dụng thương mại; không có ảnh tự động của AutoBridge. Giữ FAIL thay vì khẳng định.
 - Theo ngôn ngữ:
-  - **EN**: AutoBridge export-buyer reference — JAC T9 Hunter, petrol/diesel Chinese-market vehicle / pickup truck
-  - **FR**: Référence AutoBridge pour acheteurs export — JAC T9 Hunter, véhicule thermique (marché chinois) / pick-up
-  - **DE**: AutoBridge-Referenz für Exportkäufer — JAC T9 Hunter, Verbrenner (chinesischer Markt) / Pick-up
-  - **ES**: Referencia AutoBridge para compradores de exportación — JAC T9 Hunter, vehículo de combustión (mercado chino) / camioneta pick-up
-  - **PT**: Referência AutoBridge para compradores de exportação — JAC T9 Hunter, veículo a combustão (mercado chinês) / picape
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜JAC T9 Hunter, 中国市場仕様 内燃機関車 / ピックアップトラック
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜JAC T9 Hunter, 중국 시장 내연기관 차량 / 픽업트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — JAC T9 Hunter, xe động cơ đốt trong (thị trường Trung Quốc) / xe bán tải
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — JAC T9 Hunter, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถกระบะ
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — JAC T9 Hunter, kendaraan mesin pembakaran (pasar Tiongkok) / truk pikap
-  - **AR**: مرجع AutoBridge لمشتري التصدير — JAC T9 Hunter, مركبة بمحرك احتراق (سوق الصين) / شاحنة بيك أب
-  - **ZH**: AutoBridge 出口采购参考｜JAC T9 Hunter, 中国市场燃油车 / 皮卡
+  - **EN**: AutoBridge export-buyer reference — JAC T9 Hunter, petrol/diesel Chinese-market vehicle pickup truck
+  - **FR**: Référence AutoBridge pour acheteurs export — JAC T9 Hunter, véhicule thermique (marché chinois) pick-up
+  - **DE**: AutoBridge-Referenz für Exportkäufer — JAC T9 Hunter, Verbrenner (chinesischer Markt) Pick-up
+  - **ES**: Referencia AutoBridge para compradores de exportación — JAC T9 Hunter, vehículo de combustión (mercado chino) camioneta pick-up
+  - **PT**: Referência AutoBridge para compradores de exportação — JAC T9 Hunter, veículo a combustão (mercado chinês) picape
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜JAC T9 Hunter, 中国市場仕様 内燃機関車 ピックアップトラック
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜JAC T9 Hunter, 중국 시장 내연기관 차량 픽업트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — JAC T9 Hunter, xe động cơ đốt trong (thị trường Trung Quốc) xe bán tải
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — JAC T9 Hunter, รถเครื่องยนต์สันดาป (ตลาดจีน) รถกระบะ
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — JAC T9 Hunter, kendaraan mesin pembakaran (pasar Tiongkok) truk pikap
+  - **AR**: مرجع AutoBridge لمشتري التصدير — JAC T9 Hunter, مركبة بمحرك احتراق (سوق الصين) شاحنة بيك أب
+  - **ZH**: AutoBridge 出口采购参考｜JAC T9 Hunter, 中国市场燃油车 皮卡
 
 ## Nguồn và Định dạng
 | Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |

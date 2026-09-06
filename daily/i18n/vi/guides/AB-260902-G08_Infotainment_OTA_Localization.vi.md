@@ -6,7 +6,7 @@
 - ** H1 Làm cho một chiếc xe hơi Trung Quốc làm việc trong thị trường của bạn: những gì để kiểm tra trên xe thực tế
 - ** Từ khoá bí mật **: Thông tin xe hơi của Trung Quốc OTA ra nước ngoài định vị trên mỗi VA
 - **Secondary Search termss**: tàu trưởng Trung Quốc đơn vị Anh, BORD Dilok ra nước ngoài, bản đồ EV của Trung Quốc ở nước ngoài, CarPlay Andero Auto ire ire ire ire ire i, ORADL HMI, được xây dựng phần mềm phiên bản
-- **I nội bộ Link gợi ý*: //guides/chinese-charing-c tương thích-c; //guides/hand-chin-chinese-car-plier/; /guides/verification-car-cuffer// / /
+- **I nội bộ Link gợi ý*: tương thích-c; /guides/verification-car-cuffer//
 - **Image gợi ý**: chỉ có tiếng Trung Quốc chống lại tiếng Anh HMI; năm kiểm tra phần mềm; trong nước chống lại việc xuất khẩu một đống phần mềm; sơ đồ OTA máy chủ-region
 - **LT Những gợi ý**: "Các thiết lập ngôn ngữ của đội trưởng Hoa Kỳ," "five infotainment localization checks"; "Tách nghiệp và kho phần mềm xuất khẩu"
 ## Bằng chứng về sự sửa phạt này
@@ -39,7 +39,7 @@ Vật liệu chiếu chéo của bài báo này có trần cứng: **Tất cả 
 Một nguồn tin công nghiệp cho rằng 2026 cuộc kiểm tra xuất khẩu có thể cần ảnh chụp màn hình của English-HMI. Đây là **industry-Chỉ được xác nhận chống lại một tài liệu chính thức/MOFCOM**, vì vậy nó không được ghi là một yêu cầu. Tuy nhiên, vẫn thận trọng giữ bằng chứng tiếng Anh trong tập tin xuất khẩu.
 ## Per-ViN Thử ra chấp nhận (chạy trước khi gửi)
 Trên trang web **actual VAN**, lý tưởng là trên một bộ phim SIM/Wigi-Fi-dow-Fi:
-- Hãy vòng quanh mỗi thực đơn/ xáo trộn vào ngôn ngữ đích; các vùng chưa được phát tán.
+- Hãy vòng quanh mỗi thực xáo trộn vào ngôn ngữ đích; các vùng chưa được phát tán.
 - Tải một đích đến cục bộ và (V) một bộ sạc gần đó.
 - Hãy nối điện thoại qua CarPlay/Aro và lặp lại cuộc gọi/msia.
 - Tải về ứng dụng chủ từ tài khoản đích; xác nhận tính năng đám mây.
@@ -87,15 +87,15 @@ Tiếng Anh có sẵn sàng chưa? Không, tiếng Ả Rập cần bố trí RTL
 | BIÊND Sea Lion 07 Vụ án cục bộ Ukraine | Sửa chữa NV (dịch vụ tính năng) | CNCNCUL | https://nevfix.net/blog/byd-sealion-07-ukraine-localization-case.html | 2026-09-02 | SINGLE_SOURCE | **Bran-and- cụ thể ví dụ**: vấn đề chỉ Trung Quốc; BOD tài khoản tiếng Anh (được xác nhận trên mỗi mô hình) |
 | Denza Z European Google/Gemini tương ứng buồng lái nội địa | Xueqiu (giải thoát) | CN CN CNU | https://xueqiu.com/9837237227/399831947 | 2026-09-02 | SINGLE_SOURCE | **Example** of eport vs house stuff (không phổ biến) |
 | Danh sách kiểm tra kiểm tra phần mềm Per-ViN | StarVia (dịch vụ xuất khẩu) | CNGlobal | https://www.starviaauto.com/en/blog/making-chinese-ev-software-work-locally | 2026-09-02 | SINGLE_SOURCE | Five-check acceptance method |
-| Tiêu chuẩn xuất đa ngôn ngữ/RL | CCID 赛迪 / Neusoft OneCoreGo coverage (industry media) | Toàn cục | http://www.ccidnet.com/hlw/93237.jhtml | 2026-09-02 | SINGLE_SOURCE | Xem xét bố trí RTL/Arabic |
+| Tiêu chuẩn xuất đa ngôn ngữ/RL | CCID 赛迪 Neusoft OneCoreGo coverage (industry media) | Toàn cục | http://www.ccidnet.com/hlw/93237.jhtml | 2026-09-02 | SINGLE_SOURCE | Xem xét bố trí RTL/Arabic |
 | Hướng dẫn Xuất Hình học Tiếng Anh Trung Hoa Phiên Bản B2B | Name | CN | https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-chinese-car-os-english-version/ | 2026-09-02 | SINGLE_SOURCE | 英文 HMI 刷机成本 (行业口径), 待官方核验 |
-| 中国汽车出海, 智能化为何 " 水土不服" | 汽车之家. 车家号 | CN | https://chejiahao.m.autohome.com.cn/info/26145241?isfrom=pc | 2026-09-02 | SINGLE_SOURCE | 海外用户 UI 翻译 / 手机互联问题 |
+| 中国汽车出海, 智能化为何 " 水土不服" | 汽车之家. 车家号 | CN | https://chejiahao.m.autohome.com.cn/info/26145241?isfrom=pc | 2026-09-02 | SINGLE_SOURCE | 海外用户 UI 翻译 手机互联问题 |
 
 * Canganence lưu ý: Tất cả tài liệu được viện dẫn đều là ngành công nghiệp/ Dịch vụ/ Lao động (Life/msia) và được dùng làm minh họa về các hình mẫu hoặc trường hợp riêng lẻ — không bao giờ chứng minh rằng tất cả các phương tiện Trung Quốc đều có cùng hành vi đó. Danh sách xuất khẩu hàng loạt, chính sách máy chủ-vô tội và yêu cầu kiểm tra "HMI đáng yêu" không được xác nhận bởi một chính sách chính và phải được giải quyết trên kênh nước ngoài thương hiệu cho các VIN. ♪
 ## Xem lại tập tin
-- **Author / recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
+- **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
 - **Last xem lại**: 2026-09-05
-- ** chờ thị trường**: Global (Trung bình xuất khẩu / tương đương)
+- ** chờ thị trường**: Global (Trung bình xuất khẩu tương đương)
 - Phương pháp xác thực **: Các trường hợp kỹ thuật nhãn như ví dụ, mỗi kiểm tra quyết định chuyển sang một trên VIN thử nghiệm trực tiếp và kênh ra nước ngoài thương hiệu
 - **Ku thích về tiêu chuẩn**: Nghiên cứu và viết từ những nguồn được liệt kê ở trên (các nghiên cứu ban đầu; không có ổ đĩa cầm tay, bỏ xuống hoặc nhập khẩu nào được xác nhận). Sự tự tin nguồn được thể hiện trên mỗi hàng; bất cứ điểm nào chúng ta không thể tự xác nhận được đều được trình bày như một vật chứng thực thay vì xác nhận là sự thật.
 #AutoBridge #InfotainmentLocalization #OTAUpdate #PerVINTest #VehicleExport

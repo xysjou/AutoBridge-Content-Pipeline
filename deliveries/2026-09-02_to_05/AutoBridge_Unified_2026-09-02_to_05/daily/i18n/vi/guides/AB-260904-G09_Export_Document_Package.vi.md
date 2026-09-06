@@ -7,7 +7,7 @@
 - ** H1 **: Nhờ có một gói tài liệu xuất khẩu của Trung Quốc — Những gì hiện có, vẫn là một cuộc tuyển chọn, những gì chúng tôi đề nghị
 - ** Từ khoá tiểu dụng**: xe xuất khẩu tài liệu chứng nhận nhà máy sản xuất GB/ T21085
 - **Secondary Search termss**: 机动车出厂合格证, GB/ T21085-2020 hiện tại, 20260041-Q-339 bản nháp, chứng chỉ xuất khẩu phù hợp, NV xuất khẩu tài liệu UN38.3
-- **I nội bộ Link gợi ý**: //guides/vin-Bel-verhicles-childies/; /guides/ev-shipping- un3556-imdg-compliance/; /guides/childa-excport-exifate-of-origin/ / / / / / / / /
+- **I nội bộ Link gợi ý**: /guides/ev-shipping- un3556-imdg-compliance/; /guides/childa-excport-exifate-of-origin/
 - **Image gợi ý**: bố trí tài liệu gói; thời gian chuẩn hiện tại-vs-draft; tập tin xuất khẩu vs trong nước bị tách
 - **LT gợi ý**: "Hiện tại, giấy chứng nhận GB/ T21085-2020 so với việc bắt buộc 20260041-Q-339"
 
@@ -16,18 +16,18 @@ Tài liệu hướng dẫn đóng gói thường trích dẫn một tiêu chuẩ
 
 ## Tiêu chuẩn chứng nhận hiện thời (được sửa)
 - **CURRENTTTTTTTT 21085-2020 Giấy chứng nhận xe cộ của người máy *** — một **recommted** chuẩn quốc gia, cấp 2020-04-28, trong lực 2020-11-01, và **re recited như hiện nay vào 2026-01-27 **. Chứng chỉ nhà máy được cấp bởi công ty sản xuất.
-- **FUFAT / DRAFT: bắt buộc *Vehlect lesss *, số 20260041-Q-339 ** — dự định thay thế GB/T 21085-2020, đặt 2026-01-27 với chu kỳ 16-month và hiện đang được chấp thuận; bản MIIT "GB 21085 —XXXX" là bản nháp **consution. Nó không được xuất bản, không hiệu quả, và không bao giờ được dán nhãn hiện tại hoặc bắt buộc** trong tài liệu mua.
+- **FUFAT DRAFT: bắt buộc *Vehlect lesss *, số 20260041-Q-339 ** — dự định thay thế GB/T 21085-2020, đặt 2026-01-27 với chu kỳ 16-month và hiện đang được chấp thuận; bản MIIT "GB 21085 —XXXX" là bản nháp **consution. Nó không được xuất bản, không hiệu quả, và không bao giờ được dán nhãn hiện tại hoặc bắt buộc** trong tài liệu mua.
 
 ## Bộ tài liệu trao đổi (đã kiểm tra chéo)
 Một phương tiện giao hàng nội địa thường đi kèm với: giấy chứng nhận bán hàng đầy đủ, (tiệm bán hàng), tờ kiểm tra hàng, ** chứng nhận của sự phù hợp**, bảo hành (ba-guarantee), Sổ tay bảo trì, sách hướng dẫn của chủ sở hữu, và danh sách công cụ trên tàu/ hai cửa hàng. Để bán được cổ phiếu mới, việc đăng ký xe trong nước đòi hỏi chứng nhận an toàn/công nghệ của ** và một bản sao của giấy phép xuất khẩu xe máy-vehic** (thường là luật đăng ký xe máy)
 
-## Đa trạng thái / Không hoàn chỉnh Nguyên tắc: Rút lui một nền tảng hiện tại
+## Đa trạng thái Không hoàn chỉnh Nguyên tắc: Rút lui một nền tảng hiện tại
 Một bản nháp trước đó mô tả cách mà xe cộ được hoàn tất từ những chiếc xe nhập khẩu không đầy đủ hoặc thông qua sản xuất đa sân khấu sẽ chỉ được cấp phát một chứng chỉ nguyên một nhà máy giấy tờ. Nguyên tắc đó chỉ là một bản thảo tham khảo; chưa được xác nhận bởi văn bản GB/T 21085-2020 hiện tại hoặc bất kỳ quy tắc nào hiện tại**, vì vậy nó không được nêu ra như là một yêu cầu hiện tại** ở đây. Xử lý mọi vụ án được sắp xếp từng vụ một cho đến khi có một căn bản không phải là việc hoàn thành.
 
 ## NV và các mục dịch — Sự đề nghị về việc soạn thảo, chứ không phải một ngày để điều khiển
 Những điều sau đây là **recommend** để chuẩn bị; mỗi điều cần thiết phụ thuộc vào nhà xuất bản/thời gian và cổng đích, do đó, họ được sắp đặt như một hướng dẫn thay vì một lệnh phổ biến:
 - Với một phương tiện năng lượng mới **: ắc quy ** UN38.3 tóm tắt**, những người có lợi nguy hiểm bao bọc chứng nhận có thể áp dụng, và MSDS (được liên lạc với hướng dẫn vận chuyển IMDG).
-- Đối với các giấy phép thông qua/sự phân phối **: một phiên bản ** Anh hay là địa chỉ của chứng nhận phù hợp / bảng tham số kỹ thuật, được thực hiện bởi Đảng phát hành; việc ký hiệu/ hợp pháp hóa là cần thiết phụ thuộc vào đích đến.
+- Đối với các giấy phép thông qua/sự phân phối **: một phiên bản ** Anh hay là địa chỉ của chứng nhận phù hợp bảng tham số kỹ thuật, được thực hiện bởi Đảng phát hành; việc ký hiệu/ hợp pháp hóa là cần thiết phụ thuộc vào đích đến.
 
 ## Chúng tôi khuyến khích trật tự hội nghị
 1. Xác nhận chứng nhận nhà máy được phát hành theo kinh doanh GB/T 21085-2020 ** — không yêu cầu các tiêu chuẩn chưa được xuất bản.
@@ -43,7 +43,7 @@ Những điều sau đây là **recommend** để chuẩn bị; mỗi điều c�
 
 ## Những câu hỏi thường xuyên
 ** Tiêu chuẩn nhà máy nào hiện nay đang được sử dụng? ** GB/T 21085-2020 (được kết hợp, hiện tại; xem xét 2026-01-27).
-20260041-Q-339 là bắt buộc à? Không, đó là một tiêu chuẩn bắt buộc vẫn còn đang được phát triển; GB 21085 —XXXX là một bản thảo tư vấn chứ không phải là bản thảo.
+20260041-Q-339 là bắt buộc Không, đó là một tiêu chuẩn bắt buộc vẫn còn đang được phát triển; GB 21085 —XXXX là một bản thảo tư vấn chứ không phải là bản thảo.
 ** UN38.3 tài liệu CoC có bắt buộc không? Họ được đề nghị chuẩn bị; thực tế cần phải có sự giúp đỡ của nhà cầm quyền và nơi đến.
 Tập tin thêm nào cần đăng ký thị trường xuất khẩu? Giấy chứng nhận kiểm tra công nghệ và giấy phép xuất khẩu xe máy.
 

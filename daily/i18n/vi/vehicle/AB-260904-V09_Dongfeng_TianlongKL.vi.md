@@ -7,7 +7,7 @@
 - ** H1 **: Dong Phong Thiên Long Đầu Đầu Đầu KL Heavy Tractor: Tàu Con dấu Quyền năng Trung Quốc và Đáy Tàu
 - **Cumpary Keyword**: dong Phong tianlong kl ercraw
 - **Secondary Search Words**: Thiên Long 465, DDi11E465 hộp số, Dong Phong 14-speed hộp số, đầu máy kéo Trung Quốc 6x4, 40t xe tải GCW xuất khẩu
-- **I nội bộ Link gợi ý: //guides/vehic-excport-hs-decification/; /guides/ecoff-fuel-chiel-china-vehcles /; /vehcles/jmc-shunda /;
+- **I nội bộ Link gợi ý: /guides/ecoff-fuel-chiel-china-vehcles /vehcles/jmc-shunda
 - **Image gợi ý**: KL head 6x4; DDi11 động cơ; 14-speed biến chuyển/AT; tắc xi nội thất; khung khung khung và bánh xe thứ năm
 - **LT Những gợi ý**: "Dong Phong Thiên Long KL 465 Đầu máy kéo nặng," "Tanlong KL DDi11 2240Nm 14-speed GCW 40t"
 
@@ -26,21 +26,21 @@ Những người mua xe tải nặng không liệt kê các thiết bị mua hà
 343 kW và 337 kW con số được đánh giá là chống lại mạng** điện trên các căn cứ khác nhau; hiện diện cả hai với nhãn của họ thay vì chọn một. Cao nguyên Torque (1100–1600 vòng) là điều quan trọng để kéo điểm.
 
 ## Hộp bánh răng, bình thường và trọng lượng tàu hỏa
-- **Gearbox**: Dong Feng ** DT1422 / DT14 14-speed ** (Volvo-techthry), với một tùy chọn **AMT** — Sbook vas AMT trong trật tự.
+- **Gearbox**: Dong Feng ** DT1422 DT14 14-speed ** (Volvo-techthry), với một tùy chọn **AMT** — Sbook vas AMT trong trật tự.
 - **Drive**: 6x4 đầu máy kéo; tỷ lệ đuôi xe phải được chọn để đi (đường cao tốc và điểm cao).
 - **GVWR (chỉ có người quay phim) **: ** 25 t **; **ccurb cân khoảng 8.8 t **.
 - **Gross cân nặng phối hợp (GCW) của tàu: ** 40 t ** — hình vẽ thiết kế cho xe moóc và tải.
 
 ## Kết nối đa dạng — Không trộn đường thẳng lên
 - ** Trang này: DDi11E465-60 (465 PS).**
-- Phạm vi KL rộng hơn cũng cung cấp ** 430 / 520 / 560 PS bộ máy và ** Tự nhiên-gas (LNG/CNG); đây là những bộ phận năng lượng riêng biệt với các mô-men xoắn khác nhau, hệ thống nhiên liệu và đặc trưng khung gầm. Trích dẫn một hình dạng biến thiên khí cho 465 dầu diesel là một sai lầm.
+- Phạm vi KL rộng hơn cũng cung cấp ** 430 520 560 PS bộ máy và ** Tự nhiên-gas (LNG/CNG); đây là những bộ phận năng lượng riêng biệt với các mô-men xoắn khác nhau, hệ thống nhiên liệu và đặc trưng khung gầm. Trích dẫn một hình dạng biến thiên khí cho 465 dầu diesel là một sai lầm.
 - Tỷ lệ Axle, hộp số (manal/AMT) và taxi (cao/low mái nhà, người ngủ) được chọn theo thứ tự và thay đổi đặc điểm giao hàng.
 
 ## Kiểm tra & Cab để xuất
 1. **Puwer cơ sở** — kỷ lục 343 kW và mạng 337 kW với nhãn; khớp mã động cơ 465 PS với VIN.
 2. **Transation** — 14-speed hướng dẫn chống lại AMT; tỷ lệ hậu trục cho địa hình đã định.
 3. **GCW que diêm** — xe moóc và đồ tải dự định bên trong 40 t xe lửa đánh giá; Chiều cao của bánh xe thứ năm và sự tương thích giữa kim cương và bánh xe.
-4. **Diesel nhiên liệu lưu huỳnh / sau khi điều trị** trên hướng dẫn sử dụng nhiên liệu thải; tỷ lệ dầu diesel Trung Quốc 6 tự nó không phải là sự đồng tính ở nước ngoài.
+4. **Diesel nhiên liệu lưu huỳnh sau khi điều trị** trên hướng dẫn sử dụng nhiên liệu thải; tỷ lệ dầu diesel Trung Quốc 6 tự nó không phải là sự đồng tính ở nước ngoài.
 5. **HS phân loại** — máy kéo rơi dưới 87.01 (trước khi có mã HS), khác với 87.04 xe cộ và 8716 xe moóc; toa xe được phân loại riêng biệt.
 
 ## Yêu cầu một trích dẫn Xuất hiện thời
@@ -65,18 +65,18 @@ Không có giá xuất khẩu được xuất bản. Cần có **Nhà máy Quố
 - TRONG SÁCH TRONG LINH: FAIL (không có giấy phép lấy được tài sản; một người giữ chỗ hoặc “không chấp nhận lời nhắn cũ của hình ảnh ”
 - - Không. Không thể bảo đảm ảnh có thể tái tạo: Wikimedia Commons/Flickr không thể tới từ môi trường nghiên cứu, thư viện chứng khoán yêu cầu quyền truy cập hệ thống ARI/licence, và một trang web OEM không phải là một tài trợ tái sử dụng thương mại; không có ảnh tự động của AutoBridge. Giữ FAIL thay vì khẳng định.
 - Theo ngôn ngữ:
-  - **EN**: AutoBridge export-buyer reference — Dongfeng Tianlong KL, petrol/diesel Chinese-market vehicle / heavy tractor truck
-  - **FR**: Référence AutoBridge pour acheteurs export — Dongfeng Tianlong KL, véhicule thermique (marché chinois) / tracteur routier lourd
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Dongfeng Tianlong KL, Verbrenner (chinesischer Markt) / schwere Sattelzugmaschine
-  - **ES**: Referencia AutoBridge para compradores de exportación — Dongfeng Tianlong KL, vehículo de combustión (mercado chino) / cabeza tractora pesada
-  - **PT**: Referência AutoBridge para compradores de exportação — Dongfeng Tianlong KL, veículo a combustão (mercado chinês) / cavalo mecânico pesado
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Dongfeng Tianlong KL, 中国市場仕様 内燃機関車 / 大型トラクターヘッド
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Dongfeng Tianlong KL, 중국 시장 내연기관 차량 / 대형 트랙터 트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Dongfeng Tianlong KL, xe động cơ đốt trong (thị trường Trung Quốc) / đầu kéo hạng nặng
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Dongfeng Tianlong KL, รถเครื่องยนต์สันดาป (ตลาดจีน) / หัวลากบรรทุกหนัก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Dongfeng Tianlong KL, kendaraan mesin pembakaran (pasar Tiongkok) / truk traktor berat
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Dongfeng Tianlong KL, مركبة بمحرك احتراق (سوق الصين) / رأس قاطرة ثقيل
-  - **ZH**: AutoBridge 出口采购参考｜Dongfeng Tianlong KL, 中国市场燃油车 / 重型牵引车
+  - **EN**: AutoBridge export-buyer reference — Dongfeng Tianlong KL, petrol/diesel Chinese-market vehicle heavy tractor truck
+  - **FR**: Référence AutoBridge pour acheteurs export — Dongfeng Tianlong KL, véhicule thermique (marché chinois) tracteur routier lourd
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Dongfeng Tianlong KL, Verbrenner (chinesischer Markt) schwere Sattelzugmaschine
+  - **ES**: Referencia AutoBridge para compradores de exportación — Dongfeng Tianlong KL, vehículo de combustión (mercado chino) cabeza tractora pesada
+  - **PT**: Referência AutoBridge para compradores de exportação — Dongfeng Tianlong KL, veículo a combustão (mercado chinês) cavalo mecânico pesado
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Dongfeng Tianlong KL, 中国市場仕様 内燃機関車 大型トラクターヘッド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Dongfeng Tianlong KL, 중국 시장 내연기관 차량 대형 트랙터 트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Dongfeng Tianlong KL, xe động cơ đốt trong (thị trường Trung Quốc) đầu kéo hạng nặng
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Dongfeng Tianlong KL, รถเครื่องยนต์สันดาป (ตลาดจีน) หัวลากบรรทุกหนัก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Dongfeng Tianlong KL, kendaraan mesin pembakaran (pasar Tiongkok) truk traktor berat
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Dongfeng Tianlong KL, مركبة بمحرك احتراق (سوق الصين) رأس قاطرة ثقيل
+  - **ZH**: AutoBridge 出口采购参考｜Dongfeng Tianlong KL, 中国市场燃油车 重型牵引车
 
 ## Nguồn và Định dạng
 | Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |

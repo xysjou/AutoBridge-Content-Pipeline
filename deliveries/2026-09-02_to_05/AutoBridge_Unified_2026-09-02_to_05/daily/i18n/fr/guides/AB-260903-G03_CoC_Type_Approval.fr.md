@@ -11,17 +11,17 @@
 - ** Suggestions concernant les ALT**: "homologation de type pour la hiérarchie du certificat de conformité"; "WVTA OTTS E-marke mark mark mark mark"
 
 ## La confusion fondamentale
-Les exportateurs traitent à plusieurs reprises **un document comme s'il s'agissait d'un autre**: ils présentent un marché intérieur chinois 合格证 / CoC comme un accès au marché outre-mer, ou supposent qu'un élément de la marque électronique certifie l'ensemble du véhicule. L'agrément de type et un certificat de conformité sont à différents niveaux — et le fait de se tromper est une raison courante pour laquelle l'enregistrement est refusé. Ce guide cartographie les systèmes. **Note de preuve:** le cadre chinois est fondé sur les documents MIIT; les descriptions des instruments UE/CEE/UE/CEE ci-dessous proviennent de prestataires de services de certification (secondaires), et les textes de réglementation eux-mêmes devraient être retirés de EUR-Lex/CEE/CEE/Commission EAEU avant une décision de conformité — ils ne sont pas cités ici comme statut principal.
+Les exportateurs traitent à plusieurs reprises **un document comme s'il s'agissait d'un autre**: ils présentent un marché intérieur chinois 合格证 CoC comme un accès au marché outre-mer, ou supposent qu'un élément de la marque électronique certifie l'ensemble du véhicule. L'agrément de type et un certificat de conformité sont à différents niveaux — et le fait de se tromper est une raison courante pour laquelle l'enregistrement est refusé. Ce guide cartographie les systèmes. **Note de preuve:** le cadre chinois est fondé sur les documents MIIT; les descriptions des instruments UE/CEE/UE/CEE ci-dessous proviennent de prestataires de services de certification (secondaires), et les textes de réglementation eux-mêmes devraient être retirés de EUR-Lex/CEE/CEE/Commission EAEU avant une décision de conformité — ils ne sont pas cités ici comme statut principal.
 
 ## Niveau 1 — Homologation de type (le modèle du véhicule est homologué)
 L'homologation de type certifie qu'un type/système de véhicule** satisfait aux exigences du marché. Il se produit au niveau du modèle et est une condition préalable pour les documents par véhicule:
-- **UE — Homologation de type de véhicule entier (WVTA):** accès obligatoire au marché de tout véhicule, décrit par les fournisseurs de certification comme étant fondé sur **Règlement (UE) 2018/858 **, qui s'est appliqué intégralement à partir du 1 septembre 2020 et a remplacé la directive 2007/46/EC; une homologation est reconnue dans tous les États membres. *Vérifier le texte consolidé actuel et tout acte successeur sur EUR-Lex avant de se fonder sur des dates ou des champs d'application. *
-- ** EAEU — OTTS / EAC:** pour l'Union économique eurasienne, les véhicules entiers doivent être munis d'une homologation de type (ou EAC)** sous **TR CU 018/2011 "Sur la sécurité des véhicules à roues"** et d'un représentant autorisé au sein de l'Union**. * Confirmer le texte actuel de la réglementation technique et les règles de représentation auprès de la commission EAEU. *
+- **UE — Homologation de type de véhicule entier (WVTA):** accès obligatoire au marché de tout véhicule, décrit par les fournisseurs de certification comme étant fondé sur **Règlement (UE) **, qui s'est appliqué intégralement à partir du 1 septembre 2020 et a remplacé la directive 2007/46/EC; une homologation est reconnue dans tous les États membres. *Vérifier le texte consolidé actuel et tout acte successeur sur EUR-Lex avant de se fonder sur des dates ou des champs d'application. * 2018/858
+- ** EAEU — OTTS EAC:** pour l'Union économique eurasienne, les véhicules entiers doivent être munis d'une homologation de type (ou EAC)** sous **TR CU 018/2011 "Sur la sécurité des véhicules à roues"** et d'un représentant autorisé au sein de l'Union**. * Confirmer le texte actuel de la réglementation technique et les règles de représentation auprès de la commission EAEU. *
 L'approbation de type est spécifique au marché: une WVTA de l'UE n'accorde pas l'accès à l'EAEU, et vice versa.
 
 ## Niveau 2 — Certificat de conformité (cette unité spécifique correspond au type homologué)
 Une fois qu'un type est homologué, ** chaque véhicule reçoit un CdC certifiant que l'unité correspond au type approuvé**; le CdC est le document qui voyage avec la voiture jusqu'au bureau d'inscription de destination. Deux pièges:
-- Le document d'enregistrement/d'admission (**) (chinois 合格证 / 一致性证书) est un document d'enregistrement/d'admission au Canada** (d'origine dans l'ordonnance MIIT no. 50 et règles connexes) — il ne s'agit pas d'un document UE WVTA CoC ou EAEU/EAC.
+- Le document d'enregistrement/d'admission (**) (chinois 合格证 一致性证书) est un document d'enregistrement/d'admission au Canada** (d'origine dans l'ordonnance MIIT no. 50 et règles connexes) — il ne s'agit pas d'un document UE WVTA CoC ou EAEU/EAC.
 - Une destination CoC ne peut être délivrée que **contre une approbation de type de destination valide**; vous ne pouvez pas fabriquer une CoC UE à partir de la seule paperasse chinoise.
 
 ## Niveau 3 — Marques de composants/systèmes (marque électronique vs marque électronique)
@@ -31,7 +31,7 @@ Ils fonctionnent en dessous du niveau du véhicule entier et sont souvent confl�
 Un sac de composants marqués E ne correspond pas à un WVTA pour véhicule entier et un seul e-mark sur un système n'approuve pas la voiture entière. Construisez le dossier des composants en parallèle avec l'homologation de tout le véhicule, et non pas au lieu de.
 
 ## Comment assembler le dossier sans mismat
-1. **Name le marché de destination d'abord** → identifier le régime de l'ensemble du véhicule (WVTA / OTTS / GCC / national).
+1. **Name le marché de destination d'abord** → identifier le régime de l'ensemble du véhicule (WVTA OTTS GCC national).
 2. ** Confirmer le titulaire de l'homologation et le représentant autorisé sur le marché** (l'UEA en exige explicitement un).
 3. **Séparer trois cheminées:** homologation de type pour tout le véhicule; CoC par véhicule; marques de composants/systèmes.
 4. **Gardez la Chine 合格证 dans la pile de Chine** – utilisez-la pour prouver la cohérence de construction, jamais comme accès à destination.
@@ -41,7 +41,7 @@ Un sac de composants marqués E ne correspond pas à un WVTA pour véhicule enti
 - Une matrice écrite **market→regime→document pour chaque destination, avec le nom du titulaire de l'homologation.
 - Confirmation de ** quelle entité émet le CoC de destination** et qu'elle fait référence à un numéro d'homologation valide.
 - Un inventaire **de marques de composants** qui ne se trompe pas pour l'homologation d'un véhicule entier.
-- Vérification de la source primaire de chaque règlement **daté** (2018/858, TR CU 018/2011, 1958 Entente) avant les réclamations faisant face au client.
+- Vérification de la source primaire de chaque règlement **daté** TR CU 018/2011, 1958 Entente) avant les réclamations faisant face au client. 2018/858
 
 ## Foire aux questions
 **Mon Cd chinois est-il suffisant pour s'inscrire en Europe?** Non — le 合格证 chinois est un document national; l'enregistrement UE nécessite une homologation de type UE et un CdUE.
@@ -79,15 +79,15 @@ Un sac de composants marqués E ne correspond pas à un WVTA pour véhicule enti
 ## Sources et vérification
 | Titre de la source | Organisation | Marché | URL | Vérification | Confiance | Faits corroborés |
 |---|---|---|---|---|---|---|
-| Décret MIIT n° 50 — cadre d'admission | MIIT / Conseil d'État | NC | https://www.gov.cn/gongbao/content/2019/content_5380357.htm | 2026-09-03 | _CHECTURE | Chinois Contexte du Comité des commissaires aux comptes/de l ' admission |
+| Décret MIIT n° 50 — cadre d'admission | MIIT Conseil d'État | NC | https://www.gov.cn/gongbao/content/2019/content_5380357.htm | 2026-09-03 | _CHECTURE | Chinois Contexte du Comité des commissaires aux comptes/de l ' admission |
 | Note de programme EU WVTA + FMVSS (2018/858) | Organisme de certification tiers | UE | https://m.11467.com/product/d53638850.htm | 2026-09-03 | SOURCE UNIQUE | WVTA/ 2018/858 description; rôle du CdC (secondaire) |
-| OTTS / TR CU 018/2011 Explicateur | Fournisseur de services de certification | EAUE | https://m.11467.com/product/d21445928.htm | 2026-09-03 | _CHECTURE | OTT/EAC, représentant autorisé (secondaire) |
+| OTTS TR CU 018/2011 Explicateur | Fournisseur de services de certification | EAUE | https://m.11467.com/product/d21445928.htm | 2026-09-03 | _CHECTURE | OTT/EAC, représentant autorisé (secondaire) |
 | E-mark vs E-mark expliqueur | Fournisseur de services de certification | Global/UE | https://m.11467.com/product/d55481671.htm | 2026-09-03 | SOURCE UNIQUE | E/marque électronique (secondaire) |
 * Plafond des preuves: les instruments UE/CEE/UEA sont décrits à partir de sources secondaires de certification-service; aucun texte primaire stable EUR-Lex/CEE/CEEA n'a été saisi. Les dates et le champ d'application de la réglementation doivent être vérifiés par rapport aux textes primaires avant l'utilisation de la conformité. Le cadre de soutien à la Chine est la seule partie qui soit soutenue par les pouvoirs publics. *
 
-| Règlement (UE) 2018/858 (consolidé 2021-09-26) relatif à la réception des véhicules à moteur — WVTA; véhicule entier vs | EUR-Lex (base de données juridiques officielles de l'UE) | NC | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02018R0858-20210926 | 2026-09-04 | VÉRIFIER |  |
-| Règlement (UE) 2018/858 (original), chapitre VI / article 36 — le constructeur délivre un Cd pour chaque véhicule en vrac | EUR-Lex | NC | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0858 | 2026-09-04 | VÉRIFIER |  |
-| 2018/858 Reproduction officielle au chapitre VI (CdC) | legislation.gov.uk (données officielles sur le droit britannique) | NC | https://www.legislation.gov.uk/eur/2018/858/chapter/VI/2018-05-30/data.pdf | 2026-09-04 | VÉRIFIER |  |
+| Règlement (UE) (consolidé 2021-09-26) relatif à la réception des véhicules à moteur — WVTA; véhicule entier vs | EUR-Lex (base de données juridiques officielles de l'UE) | NC | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02018R0858-20210926 | 2026-09-04 | VÉRIFIER |  | 2018/858
+| Règlement (UE) (original), chapitre VI article 36 — le constructeur délivre un Cd pour chaque véhicule en vrac | EUR-Lex | NC | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0858 | 2026-09-04 | VÉRIFIER |  | 2018/858
+| Reproduction officielle au chapitre VI (CdC) | (données officielles sur le droit britannique) | NC | https://www.legislation.gov.uk/eur/2018/858/chapter/VI/2018-05-30/data.pdf | 2026-09-04 | VÉRIFIER |  | 2018/858
 | 1958 Accord (Rev. 3), E/ECE/TRANS/ 505 — Cadre pour l'homologation de type des composants/systèmes/STU du Règlement de l'ONU | CEE (ONU) | NC | https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2017/E-ECE-TRANS-505-Rev.3e.pdf | 2026-09-04 | VÉRIFIER |  |
 | GRRF- 84-18 (marque d ' homologation/structure de numérotation, numéro E + pays) | Groupe de travail CEE-ONU WP. 29 GRRF | NC | https://unece.org/DAM/trans/doc/2017/wp29grrf/GRRF-84-18e.pdf | 2026-09-04 | VÉRIFIER |  |
 | État de l ' Accord 1958 et des Règlements de l ' ONU annexés | CEE-ONU | NC | https://unece.org/status-1958-agreement-and-annexed-regulations | 2026-09-04 | VÉRIFIER |  |
@@ -95,7 +95,7 @@ Un sac de composants marqués E ne correspond pas à un WVTA pour véhicule enti
 | CEE Règlement no 232 (09.12.2014) du Conseil pour remplir les formulaires OTS/OTTSH | Référence juridique Alta-Soft (T3); reproduit CEE de | NC | https://www.alta.ru/tamdoc/14kr0232/ | 2026-09-04 | SOURCE UNIQUE |  |
 
 ## Révision de la rédaction
-- **Auteur / réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)
+- **Auteur réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)
 - **Dernière révision**: 2026-09-05
 - **Marché/champ d'application de référence**: Systèmes mondiaux d'homologation (Chine, fonctionnaire chargé de la pile; UE/CEE/UEA, décrite à partir de sources secondaires)
 - **Méthode de vérification**: Cartographie du cadre avec écart explicite de source primaire signalé par PRIMARY_SOURCE_SCOPE règle

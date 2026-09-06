@@ -14,20 +14,20 @@
 两个证据层是分开的。 符合程度轨道目前依靠主要来源** —— 沙特阿拉伯通过沙特阿拉伯国家标准化组织/沙特阿拉伯国家标准化组织(SASO/SABER)和阿联酋通过内政部(ICAS)在全国适用的海湾合作委员会标准化组织(GSO)框架,来源中引用了这一轨道。 下述**工程改造项目(冷却、充电、空调、密封和EV热能)仍然以单一的上位/工程或工业来源为主,仍然是SINGLE_ 资源资源评价点,而非海湾法律要求. 没有任何单一的统一的"海湾谱":用OEM/upfitter确认每个项目用于模型和操作信封,并对照**目的地国家**对GSO文本的自身应用(沙特和阿联酋的路线不同,单独列示如下).
 
 ## 为何中国专用车不是自动的海湾状态
-一种为温带中国条件调制的车辆在海湾满足不同的热量和尘埃负荷. 一个上位源描述海湾夏季环境在**40–50 °C **,冬季接近20 °C,频繁出现**尘和高湿度**(单一来源). 持续高环境可以提高冷却剂/摄入温度,将空调置于近连续值勤,将细微的灰尘驱入电源和传感器舱,而且——对于电压——电压——使电池的热信封压力大。 某个中国的建筑是否已经覆盖了这个信封,是一个模型特定的工程问题,而不是一个假设.
+一种为温带中国条件调制的车辆在海湾满足不同的热量和尘埃负荷. 一个上位源描述海湾夏季环境在**40–50 °C **,冬季接近20 °C,频繁出现**尘和高湿度**(单一来源). 某个中国的建筑是否已经覆盖了这个信封,是一个模型特定的工程问题,而不是一个假设.
 
 ## ICE 电算计 车辆: 候选人点(不是强制性工具包)
 单一的上位源提出以下候选;每个源应当与OEM/upfitter讨论,并根据该模型的现有设计进行验证,而不是作为海湾标准处理:
 - ** 电容**——散热器/风扇组合是否足以进行低速,高负荷热操作;评价,不要假设需要扩大.
 - ** 电源**——连续的AC/Fan值是否有理由对换电机/电池进行不同的评级;根据实际电荷进行估价。
 - **空调** — 峰值环境的冷却能力;是否保留加热器核心是一个积分决定,而不是默认去除的东西.
-- ** 电线/连接器**——在申请需要时,热阻和尘封的评级。
-- ** 过滤**——发动机/卡宾过滤和缩短灰尘操作的服务间隔。
+- **
+- **
 这些是**评价点**,不是自动改变,也不是海湾地区普遍适用的适应要求;一个非常精确的中国建筑可能已经满足其中的一些要求。
 
 ## EV/混合:用于评价的热管理选项
 对于电气化车辆,电池是敏感热能系统。 一个工程来源讨论了**液热管理与细胞温平化**,并指出空气冷却包在持续高温(单一来源)下可能更容易受损害. 采购的正确理解:
-- ** 向臭氧气象站索取热数据** 比较其冷却方法与目标信封;** 液体冷却是评估的一个选择——不断然拒绝空气冷却,也不假定液体冷却是强制性的**,没有臭氧气象站/工程标准这一模型。
+- ** 向臭氧气象站索取热数据** 比较其冷却方法与目标信封;**
 - 讨论**BMS高温战略**——定值、电荷电流限制、热警报。
 - 评价**热气候 DC快速充电行为,机舱预冷**,以及连接器/机载充电器耐热,尘埃般操作.
 - 中国政策参考文献引用电池环境**目标为−30 °C至55 °C**(单一来源)——仅是设计目标,而不是海湾法律门槛.
@@ -39,7 +39,7 @@
 
 ## 本指南建议您如何与OEM/Upfitter一同提升
 1. 路线的**目标操作信封**(峰值环境、湿度、灰尘)。
-2. ** ICE候选人** ——冷却、交替/电池、空调、电机评级、过滤——作为问题,由模型的热数据支持,而不是假设升级。
+2. ** ICE候选人**
 3. ** EV**——要求进行热管理比较和房舍管理处的热气候战略;评价对证据的冷却方法,而不是一概规则。
 4. ** 连接器/传感器/自动识别系统及过滤器维护计划用尘封**。
 5. ** GCC/GSO符合**任何配置结果,引用了实际的GSO标准文本.
@@ -64,36 +64,36 @@
 - IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
 - 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
 - 按语言分列的低价竞标:
-  - **EN**: AutoBridge export-buyer reference — Gulf heat and dust vehicle specification, vehicle-export procurement guide
-  - **FR**: Référence AutoBridge pour acheteurs export — Gulf heat and dust vehicle specification, guide d’achat à l’export automobile
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Gulf heat and dust vehicle specification, Leitfaden für Fahrzeugexport-Einkauf
-  - **ES**: Referencia AutoBridge para compradores de exportación — Gulf heat and dust vehicle specification, guía de compras para exportación de vehículos
-  - **PT**: Referência AutoBridge para compradores de exportação — Gulf heat and dust vehicle specification, guia de compras para exportação de veículos
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Gulf heat and dust vehicle specification, 自動車輸出 調達ガイド
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Gulf heat and dust vehicle specification, 자동차 수출 조달 가이드
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Gulf heat and dust vehicle specification, hướng dẫn thu mua xuất khẩu xe
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Gulf heat and dust vehicle specification, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Gulf heat and dust vehicle specification, panduan pengadaan ekspor kendaraan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Gulf heat and dust vehicle specification, دليل مشتريات تصدير المركبات
-  - **ZH**: AutoBridge 出口采购参考｜Gulf heat and dust vehicle specification, 汽车出口采购指南
+ - **EN**: AutoBridge export-buyer reference — Gulf heat and dust vehicle specification, vehicle-export procurement guide
+ - **FR**: Référence AutoBridge pour acheteurs export — Gulf heat and dust vehicle specification, guide d’achat à l’export automobile
+ - **DE**: AutoBridge-Referenz für Exportkäufer — Gulf heat and dust vehicle specification, Leitfaden für Fahrzeugexport-Einkauf
+ - **ES**: Referencia AutoBridge para compradores de exportación — Gulf heat and dust vehicle specification, guía de compras para exportación de vehículos
+ - **PT**: Referência AutoBridge para compradores de exportação — Gulf heat and dust vehicle specification, guia de compras para exportação de veículos
+ - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Gulf heat and dust vehicle specification, 自動車輸出 調達ガイド
+ - **KO**: AutoBridge 수출 바이어 참고 자료｜Gulf heat and dust vehicle specification, 자동차 수출 조달 가이드
+ - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Gulf heat and dust vehicle specification, hướng dẫn thu mua xuất khẩu xe
+ - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Gulf heat and dust vehicle specification, คู่มือจัดซื้อเพื่อการส่งออกยานยนต์
+ - **ID**: Referensi AutoBridge untuk pembeli ekspor — Gulf heat and dust vehicle specification, panduan pengadaan ekspor kendaraan
+ - **AR**: مرجع AutoBridge لمشتري التصدير — Gulf heat and dust vehicle specification, دليل مشتريات تصدير المركبات
+ - **ZH**: AutoBridge 出口采购参考｜Gulf heat and dust vehicle specification, 汽车出口采购指南
 
 ## 源码验证(V)
 | 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
 |---|---|---|---|---|---|---|
-| 海湾合作委员会高时/干车辆适应适应性 | 认证/更新供应商 | 海湾 | https://m.11467.com/product/d15654879.htm 维基月球 | 2026-09-03 | 资源 | 气候范围; ICE 候选适应点(一个源) |
-| 全气候NEV(高温液体冷却/低温自热) | 中国工程/图提亚 | 全球 | http://m.toutiao.com/group/6868212100762698247/ 维基月球 | 2026-09-03 | 资源 | 液体与空气热管理讨论(一个来源) |
-| 电池高/低温性能(−30~55目标). | D1EV / 图提亚奥 | 氯化萘 | http://m.toutiao.com/group/6396788247036428802/ 维基月球 | 2026-09-03 | 资源 | - 30至55 °C项政策设计目标(一个来源) |
-| 2026 维基月球 吉达汽车配件交易会(热/灰部分,房舍管理处) | 苏虎 | 沙特语 | https://m.sohu.com/a/1056965136_122956666/ 维基月球 | 2026-09-03 | 资源 | 热/防尘部件;海湾合作委员会遵守说明(一个来源) |
+| | | 海湾 | https://m.11467.com/product/d15654879.htm 维基月球 | 2026-09-03 | 资源 | 气候范围; ICE 候选适应点(一个源) |
+| 全气候NEV(高温液体冷却/低温自热) | | 全球 | http://m.toutiao.com/group/6868212100762698247/ 维基月球 | 2026-09-03 | 资源 | 液体与空气热管理讨论(一个来源) |
+| 电池高/低温性能(−30~55目标). | D1EV 图提亚奥 | 氯化萘 | http://m.toutiao.com/group/6396788247036428802/ 维基月球 | 2026-09-03 | 资源 | - 30至55 °C项政策设计目标(一个来源) |
+| 2026 维基月球 | 苏虎 | 沙特语 | https://m.sohu.com/a/1056965136_122956666/ 维基月球 | 2026-09-03 | 资源 | |
 * 证据上限:每个适应事实都取决于单一来源(所有SINGLE_SOURCE);没有捕获到GSO主要标准或OEM工程规格。 这些项目被作为OEM/upfitter的评价点,而不是海湾普遍要求;没有提出法律门槛或强制性配置。 * 报告迟交是因为需要翻译。
 
-| 海合会机动车辆技术条例清单 | GCC 标准化组织(GSO) | 海合会 | https://www.gso.org.sa/ 维基月球 | 2026-09-05 | 实录 | 海湾合作委员会车辆技术条例,包括气候/排放时间表(国家适用情况各不相同) |
+| 海合会机动车辆技术条例清单 | GCC 标准化组织(GSO) | 海合会 | https://www.gso.org.sa/ 维基月球 | 2026-09-05 | 实录 | |
 | 沙特标准和符合性(SASO/Salem) | 沙特标准、计量和质量标准(SASO) | SA 萨 | https://www.saso.gov.sa/en/Pages/default.aspx 维基月球 | 2026-09-05 | 实录 | 沙特的具体标准和符合规定的范围 |
-| 签发受管制产品(包括车辆/部件)合格证书 | UAE 工业和先进技术部(MOIAT) | 阿联酋 | https://www.moiat.gov.ae/en/services/issue-conformity-certificates-for-regulated-products 维基月球 | 2026-09-05 | 实录 | 阿联酋特定符合路线;每个市场确认热/灰物品,不假定海合会统一 |
+| | UAE 工业和先进技术部(MOIAT) | 阿联酋 | https://www.moiat.gov.ae/en/services/issue-conformity-certificates-for-regulated-products 维基月球 | 2026-09-05 | 实录 | |
 
 ## 编辑评论
-- ** 授权/审查人**:[自动桥出口编辑组](/作者/) / 方法,按我们的[编辑政 (/编辑政策/)
+- ** 授权/审查人**:[自动桥出口编辑组](/作者/) 方法,按我们的[编辑政 (/编辑政策/)
 - ** 上次审查**:2026-09-05
 - ** 参考市场/范围**:海湾/中区 东方工程评价(不是法律标准摘要)
-- ** 核查方法**:每R4人有单一来源纪律;没有单一的更新条款符合一般要求。
+- ** 核查方法**:每 人有单一来源纪律;没有单一的更新条款符合一般要求。
 - ** 编辑标准**: 由上述来源研究和撰写(案头研究;没有声称直接驾驶、拆卸或进口)。 源头信任是一行的;我们不能独立确认的任何一点都作为核查项目而不是事实提出。
 #AutoBridge #GulfSpec #HeatAndDust #GSO #VehicleAdaptation

@@ -6,8 +6,8 @@
 - ** H1 Gửi các xe cộ sang biển: loại hàng hóa nguy hiểm hiện nay, tài liệu đặt và Đường kẻ Đỏ
 - **Criumary Keyword**: phương tiện điện đại dương vận chuyển un3556 di chuyển 42-24 tài liệu
 - **Secondary Search termss**: UN3556 ắc quy lic tính, UN3557 xe kim loại, UN3558 phương tiện truyền tải Natri, di sản UN3171, SP961 SP962 xe, loại 9 nhãn 9A, UN38.3 tóm tắt, vận chuyển xe điện SDS, mẫu thông tin yêu cầu EV SOC
-- **I nội bộ Link gợi ý**: /guides/ev-Fing- un3556-imdg-compliance/, /guides/china-vehicle-export-license-license-Dent-docunts/; /guides/contaner-vehing-lang-lang/; /guides/ndes/nyce-nych-new-cuff-pies-pis-pis/i/; / / /vyhleshles/by-dolphinn /
-- **Image gợi ý**: UN số/ class label biểu đồ; SP961-vs-SP962 quyết định lưu thông; đặt chuỗi tài liệu; class 9 / label 9A slacard
+- **I nội bộ Link gợi ý**: /guides/ev-Fing- un3556-imdg-compliance/, /guides/china-vehicle-export-license-license-Dent-docunts/; /guides/contaner-vehing-lang-lang/; /guides/ndes/nyce-nych-new-cuff-pies-pis-pis/i/; /vyhleshles/by-dolphinn
+- **Image gợi ý**: UN số/ class label biểu đồ; SP961-vs-SP962 quyết định lưu thông; đặt chuỗi tài liệu; class 9 label 9A slacard
 - **LT Gợi ý**: " UN3556 IMDG 42-24 Hạng 9 xe điện vận chuyển; "V vận chuyển đặt hàng các tài liệu dây chuyền"
 ## Bắt đầu từ đây: nguyên một hàng hóa nguy hiểm, và mục nhập đã thay đổi vào năm 42-24
 Một phương tiện điện nguyên vẹn được xây dựng ở nhà máy vẫn là những thứ nguy hiểm cho việc vận chuyển biển. Dưới thời **MIMG Code 42-24 (2024 Edition),  mandatory from 1 January 2026**, Xe có năng lượng pin được chia thành mục nhập dành riêng chứ không phải rơi theo một số chăn:
@@ -18,10 +18,10 @@ Tất cả ngồi ở **Class 9 **. The older blanket **UN3171 ("battery-powered
 ## Hai đường dẫn nguyên khối: SP961 đấu với SP962
 Các thiết bị đặc biệt ổ đĩa cả hai loại giấy tờ:
 - ** SP961 ** áp dụng vào nơi mà phương tiện này được nạp đầy, đặt sẵn, xử lý và tự dỡ hàng theo cách riêng ** (con đường tự điều khiển RoRo) và đáp ứng những điều kiện đã được nói ra; nó mang theo những sự cứu trợ cụ thể.
-- ** SP962 ** áp dụng cho đường dẫn **container / không tự chủ**, được coi là đầy đủ loại 9: một tuyên bố nguy hiểm-tốt (DDD), ** Loại A**, đào tạo yêu cầu và **Class 9 / label 9A đường đánh dấu áp dụng.
+- ** SP962 ** áp dụng cho đường dẫn **container không tự chủ**, được coi là đầy đủ loại 9: một tuyên bố nguy hiểm-tốt (DDD), ** Loại A**, đào tạo yêu cầu và **Class 9 label 9A đường đánh dấu áp dụng.
 Con đường bạn đang đi được quyết định bởi ** làm thế nào đơn vị thực sự di chuyển**, không phải theo ý thích - một phương tiện được sắp xếp cho xuất khẩu container không thể đòi hỏi sự cứu trợ tự chủ.
 ## Tài liệu đặt ra một mục tiêu
-1. ** UN38.3 tóm tắt / báo cáo** bao gồm **cả hai tế bào và bộ ắc quy/module** — một báo cáo chỉ có tế bào là không đủ cho cả đàn; chú ý sự hiệu chỉnh hiện tại mà người đưa thư chấp nhận.
+1. ** UN38.3 tóm tắt báo cáo** bao gồm **cả hai tế bào và bộ ắc quy/module** — một báo cáo chỉ có tế bào là không đủ cho cả đàn; chú ý sự hiệu chỉnh hiện tại mà người đưa thư chấp nhận.
 2. **SDS/MSDS (GHS)** Xác định mục nhập chính xác **cho Liên hợp quốc (UN3556 cho một phương tiện tăng cường), class 9 và lịch trình EmS** — Cập nhật bất cứ tài liệu cũ nào vẫn chỉ có UN3171.
 3. **Những tuyên bố có hại nguy hiểm  and  Các mẫu đặt hàng** hoàn tất đến tiêu chuẩn ** 42-24 ** (được yêu cầu trên SP962 con đường).
 4. **Sự tự do và sự tự do quyết định.** Pin hữu cơ hay pin li ti lỏng dưới ** UN3480/UN3481 **, chứ không phải UN3556, và cần đường đóng gói/documen riêng (bao gồm cả một chứng nhận có ích nguy hiểm có thể áp dụng). Cả thùng thuốc lá không bao giờ được bao bọc bên cạnh.
@@ -37,7 +37,7 @@ Những nhà xuất bản có tên là 42-24 cố vấn riêng của họ — v�
 - Đồng hồ cứu hỏa/sự chậm trễ và sự ngắt kết nối, và **damage/re catry Bans**.
 Đây là **carrier-và tuyến đường cụ thể và thời gian nhạy cảm** -- để được tên của những người có khả năng nguy hiểm hiện tại chấp nhận viết cho cặp cảng chính xác trước khi hứa hẹn một buồm; đừng tổng quát các điều khoản của một dòng với người khác.
 ## Những lời khuyên khôn ngoan mà bạn chuẩn bị trước khi đặt sách
-- Cell **và** gói UN38.3 (đã chấp nhận sửa đổi) cộng với một SDS đặt tên ** UN3556 / Class 9 / EmS**, với bất kỳ di sản UN3171 giấy tờ mới.
+- Cell **và** gói UN38.3 (đã chấp nhận sửa đổi) cộng với một SDS đặt tên ** UN3556 Class 9 EmS**, với bất kỳ di sản UN3171 giấy tờ mới.
 - Một văn bản ** SP961 (tự điều khiển) đấu với SP962 (contaner)** quyết định phù hợp với thực tế di chuyển; DGD và nhãn 9A đã sẵn sàng cho SP962.
 - Một con đường riêng biệt UN3480/UN3481 cho những người dự phòng.
 - Điều kiện thông tin và định kỳ của SOC hiện tại cho cặp cổng cụ thể, được chấp nhận trước khi giao hàng.
@@ -86,9 +86,9 @@ Số Liên hợp quốc nào là một chiếc xe điện li-ti-on được chuy
 | Nguy cơ xuất khẩu năng lượng mới (luật 2025 li-ti) | Sohu đồng ý phân tích | CN | https://m.sohu.com/a/1025837015_100159475/ | 2026-09-03 | SINGLE_SOURCE | Yêu cầu giao thông li-ti-ti-ti-a (cấu nguồn điện; xác nhận văn bản chính thức) |
 *Scope: sửa đổi hiện tại, UN3556/3557/3558 chia và SP961/SP962 được đặt vào ấn phẩm IMO và 42-24 mẫu vật/DG; nhà sản xuất mức độ SOC, được chấp nhận và bên Trung Quốc áp dụng quy tắc cụ thể và thời gian - xác nhận các điều khoản hiện tại của nhà xuất bản và văn bản chính thức cho mỗi việc đặt sách. ♪
 ## Xem lại tập tin
-- **Author / recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
+- **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
 - **Last xem lại**: 2026-09-05
-- ** chợ quan sát / phạm vi**: các điều tốt nguy hiểm đại dương tuân thủ, IMDG hiện tại 42-24; luật Trung Quốc đánh dấu riêng biệt; các thuật ngữ thực đặt tên và kính hiển vi
+- ** chợ quan sát phạm vi**: các điều tốt nguy hiểm đại dương tuân thủ, IMDG hiện tại 42-24; luật Trung Quốc đánh dấu riêng biệt; các thuật ngữ thực đặt tên và kính hiển vi
 - **Verification phương pháp**: xuất bản iMO tiểu học +-carrier protory + DG-c check; cảm biến thời gian và các mục riêng biệt; hướng dẫn phân loại đối chiếu để tránh ăn thịt người
 - **Ku thích về tiêu chuẩn**: Nghiên cứu và viết từ những nguồn được liệt kê ở trên (các nghiên cứu ban đầu; không có ổ đĩa cầm tay, bỏ xuống hoặc nhập khẩu nào được xác nhận). Sự tự tin nguồn được thể hiện trên mỗi hàng; bất cứ điểm nào chúng ta không thể tự xác nhận được đều được trình bày như một vật chứng thực thay vì xác nhận là sự thật.
 - **Sự khác biệt**: việc soạn thảo có hỗ trợ bởi Al-assed đã được sử dụng. Bài này dựa trên nghiên cứu bàn giấy và tự động QA. Không có thử nghiệm tay đầu tiên được xác nhận trừ khi được ghi lại rõ ràng; xác nhận yêu cầu thời gian và đích đến trước khi chuyển đổi.

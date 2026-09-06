@@ -25,16 +25,16 @@ CS75 PLUS ist Changans Kern-Mittelklasse-SUV-Familie. Diese Seite deckt die ** 3
 Für einen ICE SUV ist die Kaufentscheidung Motorcode, Drehmomentband, Getriebe und Emissionsstufe. Beide China-Motoren paaren sich mit einem Aisin 8AT; nehmen Sie keine Zweikupplungs- oder Allradantriebsvariante ohne das Zierblech an. Das 4th-generation Auto trägt einen überarbeiteten Blauwal 1.5T bei etwa 141 kW - eine andere Melodie, die nicht auf eine 3rd-gen VIN geschrieben werden darf.
 
 ## Abmessungen und Sitzgelegenheiten
-- Länge / Breite / Höhe: ** 4710 / 1865 / 1710 mm **
+- Länge Breite Höhe: ** 4710 1865 1710 mm **
 - Radstand: ** 2710 mm **
 - Sitze: ** 5 **
-Das 4th-generation Auto ist größer (berichtet 4770 / 1910 mm, 2800 mm Radstand). Halten Sie die beiden Dimensionssätze auf getrennten Linien; Mischen sie beschädigt sowohl Containerstauung und Kunden-orientierten Spec-Tabellen.
+Das 4th-generation Auto ist größer (berichtet 4770 1910 mm, 2800 mm Radstand). Halten Sie die beiden Dimensionssätze auf getrennten Linien; Mischen sie beschädigt sowohl Containerstauung und Kunden-orientierten Spec-Tabellen.
 
 ## Fahrerassistenz und Kabine
 Die 3rd-gen Champion Linie ist mit einem ** L2 Assistenzlevel auf den jeweiligen Klassen** ausgestattet, einschließlich ACC mit voller Geschwindigkeit, Spurhaltung und einem 540 ° Surround-View-Bild. Changan's 2024 annual report frames L2 as standardised across the newer platform; Bestätigen Sie dennoch die genaue Sensor-/Funktionsliste der Klasse - "L2 " ist eine Kategorie, kein garantiert identisches Feature-Set.
 
 ## Generationsgrenze (Order-Genauigkeit)
-- **Diese Seite: ** 3rd-generation Champion, MY2024 (4710 mm, 2710 mm; 1.5T 138 kW / 2.0T 171 kW).
+- **Diese Seite: ** 3rd-generation Champion, MY2024 (4710 mm, 2710 mm; 1.5T 138 kW 2.0T 171 kW).
 - **Neuer: ** 4th Generation von Sept 2024 (4770/1910, 2800 mm; überarbeitet 1.5T ≈ 141 kW).
 - Empfohlen: **generation + Motorcode + Produktionsmonat ** auf den PI setzen und die VIN vor der Einzahlung überprüfen.
 
@@ -42,7 +42,7 @@ Die 3rd-gen Champion Linie ist mit einem ** L2 Assistenzlevel auf den jeweiligen
 1. ** Generation ** (3rd vs 4th) und ** Motorcode/Power ** passend zur VIN.
 2. **Transmission** (Aisin 8AT) und **Drive Layout** (FWD) für die gewählte Klasse.
 3. **Emissionsstufe/Kraftstoff** und Bestimmungsort **Typgenehmigung** Pfad — China-6 ist keine Homologation in Übersee.
-4. **ADAS Feature Inventar** für die genaue Verkleidung; Cluster / Infotainment-Sprache.
+4. **ADAS Feature Inventar** für die genaue Verkleidung; Cluster Infotainment-Sprache.
 5. **LHD/RHD, Garantie** und **Container/RoRo** Stauung basierend auf dem 4710 mm 3rd-gen Footprint.
 
 ## Beantragen Sie eine aktuelle Ausfuhrquote
@@ -67,26 +67,26 @@ Es wird kein statischer Ausfuhrpreis veröffentlicht. Die ungefähr RMB 121, 900
 - IMAGE_RIGHTS_STATUS: FAIL (kein lizenziertes Asset erfasst; ein Platzhalter oder ein Hinweis „altes Bild behalten wird nicht akzeptiert)
 - BLOCK_REASON: Es konnte kein wiederverwendbares Bild gesichert werden: Wikimedia Commons/Flickr sind aus der Forschungsumgebung nicht erreichbar, Lagerbibliotheken erfordern authentifizierten API/Lizenzzugriff und ein OEM-Webseitenbild ist KEIN kommerzielles Wiederverwendungsstipendium; es gibt kein AutoBridge-eigenes Foto. Nein, aber nicht nur vereitelt.
 - ALT nach Sprache:
-  - **EN**: AutoBridge export-buyer reference — Changan CS75 PLUS, petrol/diesel Chinese-market vehicle / SUV
-  - **FR**: Référence AutoBridge pour acheteurs export — Changan CS75 PLUS, véhicule thermique (marché chinois) / SUV
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Changan CS75 PLUS, Verbrenner (chinesischer Markt) / SUV
-  - **ES**: Referencia AutoBridge para compradores de exportación — Changan CS75 PLUS, vehículo de combustión (mercado chino) / SUV
-  - **PT**: Referência AutoBridge para compradores de exportação — Changan CS75 PLUS, veículo a combustão (mercado chinês) / SUV
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Changan CS75 PLUS, 中国市場仕様 内燃機関車 / SUV
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Changan CS75 PLUS, 중국 시장 내연기관 차량 / SUV
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Changan CS75 PLUS, xe động cơ đốt trong (thị trường Trung Quốc) / SUV
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Changan CS75 PLUS, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถเอสยูวี
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Changan CS75 PLUS, kendaraan mesin pembakaran (pasar Tiongkok) / SUV
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Changan CS75 PLUS, مركبة بمحرك احتراق (سوق الصين) / سيارة دفع رباعي
-  - **ZH**: AutoBridge 出口采购参考｜Changan CS75 PLUS, 中国市场燃油车 / SUV
+  - **EN**: AutoBridge export-buyer reference — Changan CS75 PLUS, petrol/diesel Chinese-market vehicle SUV
+  - **FR**: Référence AutoBridge pour acheteurs export — Changan CS75 PLUS, véhicule thermique (marché chinois) SUV
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Changan CS75 PLUS, Verbrenner (chinesischer Markt) SUV
+  - **ES**: Referencia AutoBridge para compradores de exportación — Changan CS75 PLUS, vehículo de combustión (mercado chino) SUV
+  - **PT**: Referência AutoBridge para compradores de exportação — Changan CS75 PLUS, veículo a combustão (mercado chinês) SUV
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Changan CS75 PLUS, 中国市場仕様 内燃機関車 SUV
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Changan CS75 PLUS, 중국 시장 내연기관 차량 SUV
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Changan CS75 PLUS, xe động cơ đốt trong (thị trường Trung Quốc) SUV
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Changan CS75 PLUS, รถเครื่องยนต์สันดาป (ตลาดจีน) รถเอสยูวี
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Changan CS75 PLUS, kendaraan mesin pembakaran (pasar Tiongkok) SUV
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Changan CS75 PLUS, مركبة بمحرك احتراق (سوق الصين) سيارة دفع رباعي
+  - **ZH**: AutoBridge 出口采购参考｜Changan CS75 PLUS, 中国市场燃油车 SUV
 
 ## Quellen & Verifizierung
 | Quelle: | Organisation | Markt | URL | Geprüft | Vertrauen | Belegte Fakten |
 |---|---|---|---|---|---|---|
 | 2024 CS75 PLUS vollständige Parametertabelle | ZOL-Datenbank | CN | https://detail.zol.com.cn/series/2530/18680/param_10857147_0_1.html | 2026-09-03 | CROSS_CHECKED | Abmessungen, Motoren, 8AT, Ausrüstung, Preis (TIME_SENSITIVE) |
 | 4th-gen CS75 PLUS Bauart/Antrieb | PCauto/Toutiao | CN | http://m.toutiao.com/group/7413030203410940468/ | 2026-09-03 | ZEIT_SENSIATION | 4th-gen 4770/1910, 2800 mm |
-| 4th-gen Ultra 2.0T 171 kW / Aisin 8AT | People's Daily (Chongqing) | CN | http://cq.people.com.cn/BIG5/n2/2024/1228/c365412-41090987.html | 2026-09-03 | ÜBERPRÜFUNG | 2.0T power, Aisin 8AT (offizielle Medien) |
-| Changan Automobile 2024 Jahresbericht | Changan / Sina Finance | CN | http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/BOND/2025/2025-4/2025-04-11/22199876.PDF | 2026-09-03 | ÜBERPRÜFUNG | Neue Plattform, standardisiert L2 (Firmenanmeldung) |
+| 4th-gen Ultra 2.0T 171 kW Aisin 8AT | People's Daily (Chongqing) | CN | http://cq.people.com.cn/BIG5/n2/2024/1228/c365412-41090987.html | 2026-09-03 | ÜBERPRÜFUNG | 2.0T power, Aisin 8AT (offizielle Medien) |
+| Changan Automobile 2024 Jahresbericht | Changan Sina Finance | CN | http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/BOND/2025/2025-4/2025-04-11/22199876.PDF | 2026-09-03 | ÜBERPRÜFUNG | Neue Plattform, standardisiert L2 (Firmenanmeldung) |
 | Straßenfahrzeughersteller und -produktkatalog — öffentliches Abfragesystem | MIIT, China Ministerium für Industrie und Informationstechnologie | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | ÜBERPRÜFUNG | Überprüfen Sie den Hersteller, das zugelassene Modell und die Homologation (公告) Katalogeintrag vor der Bestellung oder Export |
 | GB 16735-2019 Straßenfahrzeuge — Anforderungen an die Fahrzeug-Identifizierungsnummer (VIN) | SAMR nationale Standards Volltext-Plattform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | ÜBERPRÜFUNG | VIN-Struktur und Typenschild-Datenfelder, die bei der Überprüfung der VIN/des Typenschilds des Käufers verwendet wurden |
 | GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Staatliche Verwaltung für Marktregulierung | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | ÜBERPRÜFUNG | Technische Rahmenbedingungen für die Fahrzeugsicherheit in China und der aktuelle/revisionsbezogene Zeitplan |
@@ -95,7 +95,7 @@ Es wird kein statischer Ausfuhrpreis veröffentlicht. Die ungefähr RMB 121, 900
 *Vertrauensbeweis: Motor/Getriebe  and  the 4th-gen boundary are supported by official media  and  Changans eigener Jahresbericht (VERIFIED); Parametertabellendetails werden abgeglichen. Der Inlandspreis und die Zahlen der neueren Generation sind zeitsensibel. Die Bestimmungshomologation bleibt eine separate Überprüfung. *
 
 ## Editorial Review
-- **Autor / Rezensent**: [AutoBridge Export Editorial Team](/Autoren/) · Methode nach unserer [Editorial Policy](/editorial-policy/]
+- **Autor Rezensent**: [AutoBridge Export Editorial Team](/Autoren/) · Methode nach unserer [Editorial Policy](/editorial-policy/]
 - **Zuletzt überprüft**: 2026-09-05
 - **Referenzmarkt**: China, 3rd-gen Champion MY2024 (Chinesischer Markt; 4th Gen isoliert)
 - **Verifizierungsmethode**: Offizielle Medien + Firmen-Filtierungs-Kreuzprüfung; Erzeugung und Umfang getrennt gehalten

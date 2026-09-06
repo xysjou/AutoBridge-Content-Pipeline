@@ -7,7 +7,7 @@
 - ** H1 Bác bỏ một công ty xuất khẩu xe cộ Trung Quốc: Điều gì cần kiểm tra trước khi người đầu tiên được trả tiền?
 - ** Từ khoá khóa bí mật**: kiểm tra xuất khẩu xe hơi Trung Quốc đúng mức giấy phép
 - **Scondary Search Wordss**: xe xuất khẩu chuẩn, nhà sản xuất xe MIIT thông báo, CCC chứng nhận xuất khẩu chứng nhận, kiểm tra doanh nghiệp gsxt, công ty xuất khẩu xe, công ty luật AEO
-- **I nội bộ Link gợi ý: //guides/vhic-import-t-vs-lc/; /guides/ sử dụng-chinese-vice-pection/;guides/commeral-cracover-cccate-cuffa-china / / / / / / / / / /guides
+- **I nội bộ Link gợi ý: sử dụng-chinese-vice-pection/;guides/commeral-cracover-cccate-cuffa-china
 - **Image gợi ý**: thời hạn kim tự tháp lớp; trường kiểm tra công nghệ gsxt; cho phép-chain biểu đồ; cảnh báo đếm số đối xứng ngân hàng
 - **LT gợi ý**: "Người xuất xe hơi Trung Quốc cần phải kiểm tra các lớp; "Các trường thông tin hệ thống tín dụng của Enterprise," "Tặng cho chuỗi cho phép nhà máy"
 
@@ -32,7 +32,7 @@ Dùng hệ thống tín dụng quốc gia ** của Enterprise thông tin công c
 - vốn đăng ký và văn cảnh trả tiền, ngày đặt nhà
 - ** Phạm vi kinh doanh** — nó nên bao gồm hoạt động bán xe hơi/ xuất khẩu liên quan
 - đại diện pháp lý
-- **Danh sách không có chủ đề / bạo lực nghiêm trọng (danh sách đen)
+- **Danh sách không có chủ đề bạo lực nghiêm trọng (danh sách đen)
 
 Bằng lái được trưng bày như một bức ảnh không phải là bằng chứng; người mua (hoặc đại diện của Trung Quốc) nên lấy hồ sơ gsxt một cách độc lập.
 
@@ -57,7 +57,7 @@ Nhiều người bán hàng hợp pháp là những công ty thương mại ch�
 Một trong những chỉ thị gian lận rõ ràng nhất là tên tài khoản của **người trả lương khác với tên của công ty hợp đồng**. Trước khi trả tiền:
 
 - Khớp tên hợp pháp với giấy phép kinh doanh, hợp đồng, hóa đơn giả, thực thể xuất khẩu và tên người hưởng lợi của ngân hàng** đều giống nhau.
-- Xử lý phút cuối "dùng tài khoản của chị / chị/em trai/ở ngoài" thay đổi như một sự kiện rủi ro cao cần phải xác thực mới; không bao giờ chuyển hướng quỹ dựa trên sự thay đổi duy nhất của email.
+- Xử lý phút cuối "dùng tài khoản của chị chị/em trai/ở ngoài" thay đổi như một sự kiện rủi ro cao cần phải xác thực mới; không bao giờ chuyển hướng quỹ dựa trên sự thay đổi duy nhất của email.
 - Thích những công cụ thanh toán tương ứng với rủi ro (xem hướng dẫn T/ T vs L/C); tránh trả trước đầy đủ cho một thực thể chưa được chứng minh.
 
 ## Tự độngBridge thêm gì ngoài một hình ảnh về kinh doanh
@@ -124,13 +124,13 @@ Cái gì chứng minh một nhà cung cấp xuất khẩu? (Tiếng 3-month) xu�
 | Làm thế nào để kiểm tra các nhà cung cấp kinh doanh chân thực | Kinh doanh thiện (try, điểm tới gsxt.gov.cn) | CN | https://goodcantrading.com/how-to-check-china-supplier-business-license-authenticity/ | 2026-09-02 | ĐÃ_ ĐÃ | Trường gsxt xác thực |
 | Làm sao để xác minh một nhà máy Trung Quốc là hợp pháp? | Sao Diêm Vương trên toàn cầu | CN/Global | https://www.plutoniaglobal.com/guides/verify-chinese-factory-legitimate | 2026-09-02 | ĐÃ_ ĐÃ | Tính toán theo tên, kiểm toán nhà máy |
 | 8-step hướng dẫn xuất khẩu tự động từ Trung Quốc | Hoa Gia Nội (try thử) | CN | https://www.huajiame.com/en-US/knowledge/how-verify-china-auto-export-supplier | 2026-09-02 | ĐÃ_ ĐÃ | Khung kiểm toán lớp, AAO |
-| Comment | 11467 (顺企网, ngành công nghiệp) | CN | https://m.11467.com/blog/d18906274.htm | 2026-09-02 | ĐÃ_ ĐÃ | Tối thiểu nghe phim trực tiếp, kiểm tra chéo khai báo |
-| Thủ tục xuất khẩu xe tải nội địa | Thương mại Quảng Châu (11467) | CN | https://guangzhou053049.11467.com/m/news/15260806.asp | 2026-09-02 | ĐÃ_ ĐÃ | Xuất qua thực thể có khả năng, chuỗi cho phép |
+| Comment | (顺企网, ngành công nghiệp) | CN | https://m.11467.com/blog/d18906274.htm | 2026-09-02 | ĐÃ_ ĐÃ | Tối thiểu nghe phim trực tiếp, kiểm tra chéo khai báo | 11467
+| Thủ tục xuất khẩu xe tải nội địa | Thương mại Quảng Châu | CN | https://guangzhou053049.11467.com/m/news/15260806.asp | 2026-09-02 | ĐÃ_ ĐÃ | Xuất qua thực thể có khả năng, chuỗi cho phép | 11467
 
 *BIDidence ghi chú (tự động Bridge: các quy tắc chuyên môn dựa trên nguồn gốc MOFCOM/MIIT chính (VERIED), bây giờ gồm 2026 thông báo ứng dụng (商办贸函  2025 408 号) và Information No. 54 trên giấy phép xuất khẩu phi hành khách thuần túy. Danh sách các khả năng trong năm hiện tại và các yêu cầu AAO rất năng động và cần phải được kiểm tra trực tiếp; các mục kiểm tra hoạt động được cung cấp từ công nghiệp và chỉ trở lại hệ thống chính thức. ♪
 
 ## Xem lại tập tin
-- **Author / recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
+- **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
 - **Last xem lại**: 2026-09-05
 - ** chợ địa phương**: Bên xuất khẩu Trung Quốc (vỗ tay toàn cầu)
 - **Verification phương pháp**: tài liệu chính của chính phủ cho cơ sở pháp lý; các hướng dẫn công nghiệp cho tiến trình hoạt động; danh sách động còn lại để xác thực

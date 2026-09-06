@@ -19,7 +19,7 @@ O MINIEV de Hongguang Macaron é um **micro carro elétrico urbano**, não um EV
 | Corpo/sedes | 3-door, 4-seat hatchback |
 | Motor traseiro | 20 kW (classe 170 km) |
 | Química da bateria | LFP; a classe 215 km tem cerca de 13.4 kWh (fonte única) |
-| Graus de gama CLTC | 170 km / 215 km |
+| Graus de gama CLTC | 170 km 215 km |
 | Velocidade máxima | 100 km/h (fonte única) |
 | Peso do Kerb | 777 kg (fonte única) |
 | A carregar | Principalmente ** carga lenta (DC)**; qualquer carga rápida DC no grau 215 é dependente de configuração (fonte única) — confirme no VIN |
@@ -32,7 +32,7 @@ Ambos os graus compartilham o mesmo micro corpo de 3064 mm e layout de quatro lu
 A armadilha de aquisição está a encomendar o preço de 170 graus para uma rota que necessita de coberturas de meio-dia, porque um micro-automóvel de carga lenta não pode recuperar durante uma paragem curta. Decida primeiro o laço diário, em seguida, escolha a nota; não reverta-a.
 
 ## Dimensões e Realidade de Embalagem
-- Comprimento / largura / altura: ** 3064 / 1493 / 1629 mm **
+- Comprimento largura altura: ** 3064 1493 1629 mm **
 - Distância entre eixos: ** 2010 mm **
 Com pouco mais de 3 m de comprimento, o Macaron é um dos menores EVs de quatro lugares no mercado chinês. Quatro lugares estão presentes, mas espaço traseiro e volume de bagagem são escala de micro-carros - " 4-seat " significa ocasional quatro-up uso urbano, não quatro-adult conforto. A pequena pegada é também a vantagem de carga: mais unidades por recipiente do que um carro convencional, mas a contagem exata ainda depende de um plano de carga **medida e do estocamento aprovado pelo transportador** (ver o guia de carga do recipiente) — não cite um número fixo do comprimento sozinho.
 
@@ -48,7 +48,7 @@ As linhas de Micro-EV mudam frequentemente de grau/combinações de carregamento
 3. ** Potência do motor e classificação de velocidade máxima** para o grau (20 kW/100 km/h).
 4. **Lado de aerossóis e linguagem de cluster/infotainment** — não assumam a RHD ou uma interface local em uma construção chinesa.
 5. **Homologação/conteúdo de segurança** status para o destino – um micro-EV deve ainda esclarecer as regras locais de acesso ao mercado (ver o guia de homologação CoC/tipo).
-6. ** Documentos de transporte de EV** (UN38.3/MSDS plus under IMDG Emenda 42-24 (obrigatório de 2026-01-01) um veículo movido a lítio-íon-bateria é classificado UN3556, não o legado genérico UN3171; aplicar documentação / detalhes SOC por a atual folha de fatos de transporte EV eo transportador (ver o guia de conformidade do oceano EV)) apesar da pequena bateria.
+6. ** Documentos de transporte de EV** (UN38.3/MSDS plus under IMDG Emenda 42-24 (obrigatório de 2026-01-01) um veículo movido a lítio-íon-bateria é classificado UN3556, não o legado genérico UN3171; aplicar documentação detalhes SOC por a atual folha de fatos de transporte EV eo transportador (ver o guia de conformidade do oceano EV)) apesar da pequena bateria.
 
 ## Solicitar uma Cotação de Exportação Atual
 Nenhum preço de exportação estático é publicado. O aproximadamente RMB 41, 800 / 46, 800 Os números chineses são ** referências domésticas, sensíveis ao tempo — não FOB/CIF**. Informe-se com **Destino País · Quantidade · Gama (170/215) · LHD/RHD · Carga de provisão · Destino Porto · Incoterm**.
@@ -93,7 +93,7 @@ Nenhum preço de exportação estático é publicado. O aproximadamente RMB 41, 
 | Macaron adiciona 170 km/20 kW | AutoHome | NC | https://chejiahao.m.autohome.com.cn/info/13878133 | 2026-09-03 | CROSS_CHECKED | 20 kW, 170 km, preço interno (TIME_SENSITIVE) |
 | MINIEV 2025 parâmetros/preços | Base de dados dongchedi | NC | https://m.dongchedi.com/auto/params-carIds-96348-79759-72934-72935-72308-72478-72466-72479-72467-72480-72468-72481-79929-79930-79931-79932-72476-72477-72475-72474-76902-76901-77162-77161-59192 | 2026-09-03 | CROSS_CHECKED | Ano modelo, graus de gama, MSRP doméstico (TIME_SENSITIVE) |
 | 2024 Macaron 215 (dimensões/kerb) | Base de dados NetEase Auto | NC | https://product.auto.163.com/product/000CQEGG.html | 2026-09-03 | FONTE ÚNICA | 3064/1493/1629, 2010 mm, 777 kg (media DB, não OEM) |
-| Bateria Macaron / carga lenta | Enciclopédia PCauto | NC | http://m.pcauto.com.cn/baike/941480/1848425/ | 2026-09-03 | FONTE ÚNICA | □ 13.4 kWh, método de carga |
+| Bateria Macaron carga lenta | Enciclopédia PCauto | NC | http://m.pcauto.com.cn/baike/941480/1848425/ | 2026-09-03 | FONTE ÚNICA | □ 13.4 kWh, método de carga |
 | Fabricantes de veículos automóveis e catálogo de produtos — sistema público de consulta | MIIT, China Ministério da Indústria e Tecnologia da Informação | NC | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFICADO | Verifique o fabricante, modelo aprovado e homologação (公告) entrada do catálogo antes de encomendar ou exportar |
 | GB 16735-2019 Veículos rodoviários — Requisitos de número de identificação do veículo (VIN) | Plataforma SAMR de texto completo | NC | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFICADO | Elementos de identificação e dados de identificação utilizados na verificação do comprador |
 | GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SARR, Administração do Estado para a regulação do mercado | NC | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFICADO | Condições técnicas de segurança do veículo em linha de base na China e o calendário atual/revisão |
@@ -103,7 +103,7 @@ Nenhum preço de exportação estático é publicado. O aproximadamente RMB 41, 
 * Nota de confiança: nenhuma folha de especificações primária Wuling/SAIC-GM-Wuling foi capturada; bases de dados de mídia não são VERIFIED. A gama/preço é verificada em conjunto, enquanto o peso do banco, a velocidade máxima e kWh são de fonte única. CLTC é apenas o ciclo da China. A disposição de cobrança deve ser confirmada no VIN exato. *
 
 ## Revisão Editorial
-- **Autor / revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)
+- **Autor revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)
 - ** Última revisão**: 2026-09-05
 - ** Mercado de referência**: China, 3rd-gen Macaron MY2024 (referência do mercado chinês)
 - ** Método de verificação**: Multi-database cross-check; itens de código único marcados; valor agregado de aquisição construído apenas sobre fatos já capturados, sem novas figuras externas

@@ -23,8 +23,8 @@ A continuación se muestra una instantánea de las ofertas de fábrica-RHD repor
 |---|---|---|---|
 | MG (SAIC) | MG4, MG ZS, MG HS, MG5, MG Extender (descrito por una fuente de servicio de exportación como entre las líneas de RHD más amplias de marca china) | Reino Unido, Australia, Tailandia, Sudáfrica, India, Sri Lanka | Fuente de la industria - verificar |
 | BYD | A la 3 (nombre de exportación Yuan Plus), Delfín, Sello | Australia, Reino Unido, Tailandia, Japón | Fuente de la industria - verificar |
-| GWM / Haval / ORA | Haval H6, Jolion, ORA 03, Tank 300 (mercados seleccionados) | Australia, Sudáfrica, Tailandia, Reino Unido, Kenya | Fuente de la industria - verificar |
-| Geely / Zeekr | Geely EX5 informó como ingeniero con líneas paralelas LHD/RHD del desarrollo; varios modelos Geely/Zeekr RHD | Reino Unido, Irlanda, Australia, Nueva Zelandia, Malasia, Hong Kong | Fuente de la industria - verificar |
+| GWM Haval ORA | Haval H6, Jolion, ORA 03, Tank 300 (mercados seleccionados) | Australia, Sudáfrica, Tailandia, Reino Unido, Kenya | Fuente de la industria - verificar |
+| Geely Zeekr | Geely EX5 informó como ingeniero con líneas paralelas LHD/RHD del desarrollo; varios modelos Geely/Zeekr RHD | Reino Unido, Irlanda, Australia, Nueva Zelandia, Malasia, Hong Kong | Fuente de la industria - verificar |
 | Hongqi | RHD de nueva energía empuja a través de 2026; Centro de experiencia de Hong Kong informó desde julio de 2026 | Reino Unido, Australia, Nueva Zelandia, Singapur, Tailandia, Malasia, Indonesia | Media/aggregator — verifique |
 | Dongfeng Forthing | **Oficialmente confirmado**: entró en Tailandia Marzo 2026 con RHD NEV SUV "FRIDAY" y V9 construidos para los mercados de RHD | Tailandia | **Oficial (Dongfeng)** |
 | Changan Qiyuan (como NEVO) | Q05 se muestra como NEVO Q05 en el programa de motor de marzo 2026 Bangkok (prospecto de Thai RHD) | Tailandia | Medios de comunicación: verificar |
@@ -94,10 +94,10 @@ Los vendedores aseguran la disponibilidad de RHD sin distinguir una línea de f�
 |---|---|---|---|---|---|---|
 | RHD China-cars markets guide | StarVia Auto (servicio de exportación) | Mercados de desarrollo humano | https://www.starviaauto.com/en/blog/right-hand-drive-chinese-cars-markets-guide | 2026-09-02 | CROSS_CHECKED | MG/GWM RHD line-ups and markets (industry; verify) |
 | Que vehículos chinos se adaptan a los compradores de RHD | StarVia Auto (servicio de exportación) | Mercados de desarrollo humano | https://www.starviaauto.com/en/faq/which-chinese-vehicles-are-suitable-for-buyers-who-need-right-hand-drive | 2026-09-02 | CROSS_CHECKED | BYD Atto 3/Dolphin/Seal RHD (industry; verify) |
-| RHD-ready Geely / Zeekr modelos | FOBEV (servicio de exportación) | Mercados de desarrollo humano | https://www.fobev.com/vehicles/rhd-ready/ | 2026-09-02 | CROSS_CHECKED | Geely EX5 paralela LHD/RHD, Zeekr RHD (industry; check) |
+| RHD-ready Geely Zeekr modelos | FOBEV (servicio de exportación) | Mercados de desarrollo humano | https://www.fobev.com/vehicles/rhd-ready/ | 2026-09-02 | CROSS_CHECKED | Geely EX5 paralela LHD/RHD, Zeekr RHD (industry; check) |
 | Dongfeng Forthing entra en Tailandia (oficial) | Dongfeng Motor Group (oficial) | TH | https://www.dfmc.com.cn/news/company/news_20260311_1142.html | 2026-09-02 | VERIFIED | Marzo-2026 Tailandia, RHD FRIDAY/ V9 (VERIFIED) |
 | Changan NEVO Q05 Debut de la demostración de Bangkok | Autohome 车家号 (media) | TH | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/25092921 | 2026-09-02 | CROSS_CHECKED | NEVO Q05 Thai RHD prospect (media; verifique) |
-| Estrategia de Hongqi RHD / contexto de mercado RHD | smzdm (aggregator); AutoReport (industria) | Mercados de desarrollo humano | https: //post.m.smzdm.com/p/ aqrp0mkp/; https://m.autoreport.cn/guoji/20260829/19112676566.html | 2026-09-02 | CROSS_CHECKED | Hongqi RHD push; ~ 35% ventas globales en los mercados RHD |
+| Estrategia de Hongqi RHD contexto de mercado RHD | smzdm (aggregator); AutoReport (industria) | Mercados de desarrollo humano | https://post.m.smzdm.com/p/aqrp0mkp/ https://m.autoreport.cn/guoji/20260829/19112676566.html | 2026-09-02 | CROSS_CHECKED | Hongqi RHD push; ~ 35% ventas globales en los mercados RHD |
 
 * Nota de confianza (Estandar AutoBridge): sólo el lanzamiento de Dongfeng de Tailandia RHD es VERIFIED (funcionario del fabricante). Las listas de modelos de marca son instantáneas de exportación-servicio/media (SINGLE_SOURCE) que cambian con frecuencia y deben ser confirmadas en canales oficiales de marca/comtributor local por VIN. La legalidad de conversión de mercado no fue verificada y se asume como riesgo. *
 

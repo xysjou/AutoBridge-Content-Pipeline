@@ -94,6 +94,6 @@ Adaptation does not replace market access: the vehicle and any changed component
 - **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
 - **Last reviewed**: 2026-09-05
 - **Reference market / scope**: Gulf/Middle East engineering evaluation (not a legal standard summary)
-- **Verification method**: Single-source discipline per R4; no single upfit article upgraded to a general requirement
+- **Verification method**: Single-source discipline; no single upfit article upgraded to a general requirement
 - **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
 #AutoBridge #GulfSpec #HeatAndDust #GSO #VehicleAdaptation

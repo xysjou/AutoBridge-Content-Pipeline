@@ -27,10 +27,10 @@ L'Emgrand est le saloon compact de Geely et un candidat naturel pour les marché
 Pour une voiture ICE, les questions de l'exportateur portent sur le code/tune moteur, le choix de la boîte de vitesses, la qualité du carburant et l'étape d'émission**. Un 5MT et un CVT ne sont pas interchangeables sur un format pro: fixer la transmission par rapport au VIN et confirmer si la destination accepte le niveau d'émission de la Chine- 6 ou demande sa propre certification (voir le guide du dossier d'approbation du CoC/type).
 
 ## Dimensions et cabine
-- Longueur/largeur/la hauteur: ** 4638 / 1820 / 1460 mm **
+- Longueur/largeur/la hauteur: ** 4638 1820 1460 mm **
 - Empattement: ** 2650 mm **
 - Sièges: ** 5 **
-These are China-reference dimensions for the 4th-gen car. La voiture 5th-generation est plus grande (rapportée 4815 / 1885 / 1480 mm, 2755 mm empattement) — ne mélangez pas les deux sur une ligne de spécifications ou dans du matériel de commercialisation.
+These are China-reference dimensions for the 4th-gen car. La voiture 5th-generation est plus grande (rapportée 4815 1885 1480 mm, 2755 mm empattement) — ne mélangez pas les deux sur une ligne de spécifications ou dans du matériel de commercialisation.
 
 ## Limite de l'année modèle (permettons cette image)
 - **Cette page:** 4th génération, année de modèle 2024.
@@ -66,24 +66,24 @@ Aucun prix à l'exportation statique n'est publié. Le RMB 69 environ, 900 Le ch
 - IMAGE_RIGHTS_STATUS: FAIL (aucun actif autorisé capturé; un détenteur de place ou -tain vieille image - Note n'est pas accepté)
 - C'est une question de "relation" Aucune image réutilisable ne peut être sécurisée: Wikimedia Commons/Flickr sont inaccessibles depuis l'environnement de recherche, les bibliothèques de stock nécessitent un accès authentifié API/licence, et une image de page web OEM n'est PAS une subvention de réutilisation commerciale; aucune photo appartenant à AutoBridge n'existe. Il a gardé la FAIL plutôt que de l'affirmer.
 - ALAT par langue:
-  - **EN**: AutoBridge export-buyer reference — Geely Emgrand, petrol/diesel Chinese-market vehicle / sedan
-  - **FR**: Référence AutoBridge pour acheteurs export — Geely Emgrand, véhicule thermique (marché chinois) / berline
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Geely Emgrand, Verbrenner (chinesischer Markt) / Limousine
-  - **ES**: Referencia AutoBridge para compradores de exportación — Geely Emgrand, vehículo de combustión (mercado chino) / berlina
-  - **PT**: Referência AutoBridge para compradores de exportação — Geely Emgrand, veículo a combustão (mercado chinês) / sedã
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Geely Emgrand, 中国市場仕様 内燃機関車 / セダン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Geely Emgrand, 중국 시장 내연기관 차량 / 세단
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Geely Emgrand, xe động cơ đốt trong (thị trường Trung Quốc) / sedan
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Geely Emgrand, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถเก๋งซีดาน
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Geely Emgrand, kendaraan mesin pembakaran (pasar Tiongkok) / sedan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Geely Emgrand, مركبة بمحرك احتراق (سوق الصين) / سيدان
-  - **ZH**: AutoBridge 出口采购参考｜Geely Emgrand, 中国市场燃油车 / 轿车
+  - **EN**: AutoBridge export-buyer reference — Geely Emgrand, petrol/diesel Chinese-market vehicle sedan
+  - **FR**: Référence AutoBridge pour acheteurs export — Geely Emgrand, véhicule thermique (marché chinois) berline
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Geely Emgrand, Verbrenner (chinesischer Markt) Limousine
+  - **ES**: Referencia AutoBridge para compradores de exportación — Geely Emgrand, vehículo de combustión (mercado chino) berlina
+  - **PT**: Referência AutoBridge para compradores de exportação — Geely Emgrand, veículo a combustão (mercado chinês) sedã
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Geely Emgrand, 中国市場仕様 内燃機関車 セダン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Geely Emgrand, 중국 시장 내연기관 차량 세단
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Geely Emgrand, xe động cơ đốt trong (thị trường Trung Quốc) sedan
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Geely Emgrand, รถเครื่องยนต์สันดาป (ตลาดจีน) รถเก๋งซีดาน
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Geely Emgrand, kendaraan mesin pembakaran (pasar Tiongkok) sedan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Geely Emgrand, مركبة بمحرك احتراق (سوق الصين) سيدان
+  - **ZH**: AutoBridge 出口采购参考｜Geely Emgrand, 中国市场燃油车 轿车
 
 ## Sources et vérification
 | Titre de la source | Organisation | Marché | URL | Vérification | Confiance | Faits corroborés |
 |---|---|---|---|---|---|---|
 | 4th-gen Emgrand 1.5L Feuille de garnitures CVT | Base de données Sohu Auto | NC | https://db.m.auto.sohu.com/trim_173890 | 2026-09-03 | _CHECTURE | Dimensions, empattement, sièges, prix de référence |
-| 2024 Config de cœur Emgrand (93 kW, 5MT/CVT) | Xcar / Les médias Toutiao | NC | http://m.toutiao.com/group/7372041648991961639/ | 2026-09-03 | _CHECTURE | 1.5L 93 kW, transmissions |
+| 2024 Config de cœur Emgrand (93 kW, 5MT/CVT) | Xcar Les médias Toutiao | NC | http://m.toutiao.com/group/7372041648991961639/ | 2026-09-03 | _CHECTURE | 1.5L 93 kW, transmissions |
 | Comparaison des paramètres de multi-version Emgrand | Base de données Dongchedi | NC | https://m.dongchedi.com/auto/params-carIds-110850-110851-110852-110853-100195-87624-87498-87499-80723-60266 | 2026-09-03 | _CHECTURE | Roue, versions, domestique MSRP (TIME_SENSITIVE) |
 | 5th-generation Lancement d'Emgrand (limite de génération) | Chine Net (médias officiels) | NC | http://auto.ce.cn/auto/gundong/202511/t20251120_2592304.shtml | 2026-09-03 | _SENSIBILISATION DU TEMPS | 5th-gen taille/base de roues/prix; distingue les générations |
 | Catalogue des constructeurs et des produits de véhicules automobiles routiers — système de requête publique | MIIT, Ministère chinois de l'industrie et des technologies de l'information | NC | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VÉRIFIER | Vérifier l'entrée du catalogue du fabricant, du modèle approuvé et de l'homologation (公告) avant de commander ou d'exporter |
@@ -94,7 +94,7 @@ Aucun prix à l'exportation statique n'est publié. Le RMB 69 environ, 900 Le ch
 *Note de confiance: aucune fiche de spécifications primaires d'OEM n'a été capturée pour ce modèle; les chiffres sont recoupés des valeurs de la base de données/média chinoise. Le couple 127 N·m est une seule source. Le prix intérieur et le lancement 5th-generation sont sensibles au temps. Les spécifications d'homologation et d'exportation de destination doivent être confirmées pour le NIV. *
 
 ## Révision de la rédaction
-- **Auteur / réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)
+- **Auteur réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)
 - **Dernière révision**: 2026-09-05
 - **Marché de référence**: Chine, 4th-generation 2024 Emgrand (spécification de référence du marché chinois; pas une spécification globale)
 - ** Méthode de vérification**: vérification croisée multibases de données; limite générationnelle isolée; aucune extrapolation de destination

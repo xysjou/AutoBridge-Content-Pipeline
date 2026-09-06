@@ -4,10 +4,10 @@
 - **SEOタイトル**: JAC Junling V6軽トラック:中国市場仕様&輸出バイヤーガイド
 - **メタ 記述**: 中国の市場JAC ジャンリングV6の青版ライト貨物トラック: ユンネイD25ディーゼル、アンカン160ライン、貨物箱、GVW/ペイロード、および単元質量洞窟。
 - H1 **: JAC Junling V6 (2024/2025) - 中国市場軽トラック仕様と輸出チェック
-- **主なキーワード**: JAC / 江淮 骏铃 V6 轻卡 (ライトトラック) スペックの輸出
+- **主なキーワード**: JAC 江淮 骏铃 V6 轻卡 (ライトトラック) スペックの輸出
 - **二次検索条件**:JACジャンリングV6輸出;江華光トラック;中国貨物トラック;青板トラック;Yunei D25
 - **混雑URL**: /vehicles/jac-junling- v6/
-- **Search Intent**: 了解 JAC / 江淮 骏铃 V6 轻卡 (Light Truck) 中国版规格、配置与出口适配性 (车型参数页)
+- **Search Intent**: 了解 JAC 江淮 骏铃 V6 轻卡 (Light Truck) 中国版规格、配置与出口适配性 (车型参数页)
 - **内部リンクの提案**: /vehicles/jac-junling- v6/、/guides/vehicle-export-hs-code-history/、/guides/china-export-customs-declaration-single-window/
 - **シュマスコープ**: 記事 + 車両 (製品/オファー/レビューなし)
 
@@ -37,9 +37,9 @@
 市配給業者は、最も頻繁に紛争を引き起こす秩序構成点を買います**これは、目的地の市場における法的ローディングを支配している。 中国の青版の評価、 工場のペイロード  and  a destination axle-load limit are three different numbers; the truck must be specified against the binding destination rule rather than the most generous of the three. ホイールベースと貨物箱の長さも回転サークルとローカルの長さ制限と相互作用するので、ボリュームを最大化するために選ばれたボックスは、狭い都市ルートに厄介な車を作成することができます。 GVW を、確認して下さい kerb の固まり, ペイロード, ホイールベース  and  box dimensions as one matched set on the pro forma,  and  沈殿物の前に各固まり図をソースに結びます製造者を要求して下さい。
 
 ## 支払の前に海外バイヤーの証明
-1. Confirm GVW 4.495 t / payload 1.735 t against the MIIT announcement or JAC OEM sheet.
+1. Confirm GVW 4.495 t payload 1.735 t against the MIIT announcement or JAC OEM sheet.
 2. 貨物箱の内部次元を意図したボディに一致して下さい。
-3. Confirm engine (Yunnei D25 / Ankang 160), ギアボックス  and  部品サポートのための後部車軸。
+3. Confirm engine (Yunnei D25 Ankang 160), ギアボックス  and  部品サポートのための後部車軸。
 4. ディーゼル排出ステージと目的地GVW/ライセンスクラスを確認します。
 5. 輸出見積依頼、未発表
 
@@ -57,9 +57,9 @@
 | 骏铃 V6 车型解析 (卡车之家、经今日头条镜像、按镜像域降一级 T3) | 卡车之家官方号 (今日头条镜像) | CN の | T3 | CROSS_CHECKED(クロス) | 担当: http://m.toutiao.com/group/7281117707461247523/ | 动力链、后桥、自重、总质量、载质量 |
 | 骏铃 V6 配置 (卡车之家镜像) | 卡车之家官方号 (今日头条镜像) | CN の | T3 | CROSS_CHECKED(クロス) | 担当: http://m.toutiao.com/group/6889691682774876685/ の | 云内 D25 参数、货厢 |
 | 骏铃 V6 车型 (卡车之家镜像) | 卡车之家官方号 (今日头条镜像) | CN の | T3 | CROSS_CHECKED(クロス) | 担当: http://m.toutiao.com/group/6807685915310293507/ の | 安康 160、变速箱 |
-| 骏铃 V6 二手信息 (仅线索 T4、不作参数依据) | 58同城二手车 | CN の | T4 | CROSS_CHECKED(クロス) | 以下は、 //m. 58.com/sz/huochec/59653082843796x.shtml | 市场存在性线索 | https://m.58.com/sz/huochec/59653082843796x.shtml
+| 骏铃 V6 二手信息 (仅线索 T4、不作参数依据) | 58同城二手车 | CN の | T4 | CROSS_CHECKED(クロス) | 以下は、 | 市场存在性线索 | https://m.58.com/sz/huochec/59653082843796x.shtml
 | ジャック モータ公式サイト | アンホイ江華井自動車JAC 江淮 (OEM) | CN の | T1 | 検証済み | 以下は、 日 時 分 時 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 分 | ブランド/モデルラインアイデンティティとOEMの権限 | https://www.jac.com.cn/
-| 産業界・情報技術省(MIIT) | ピット 工业和信息化部 | CN の | T1 | 検証済み | 以下は、 ................................................................................................................................ | 均質化/非警備権限; VIN/announcement による正確なモデル、固まりおよびコードを確認します | https://www.miit.gov.cn/
+| 産業界・情報技術省(MIIT) | ピット 工业和信息化部 | CN の | T1 | 検証済み | 以下は、 ................................................................................................................................ | VIN/announcement による正確なモデル、固まりおよびコードを確認します | https://www.miit.gov.cn/
 | 市場規制(SAMR)の州管理 | サーム 国家市场监督管理总局 | CN の | T1 | 検証済み | 以下は、 ................................................................................................................................ | 国家規格、認証、市場規制当局 | https://www.samr.gov.cn/
 ## 編集レビュー
 - **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)

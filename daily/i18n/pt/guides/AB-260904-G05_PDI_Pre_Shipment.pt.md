@@ -19,7 +19,7 @@ As disputas de danos no destino quase sempre remontam a uma pergunta: qual era a
 ## Políticas de transporte com nome (CARRIER_SPECÍFICO — cite o transportador pelo nome)
 | Tópico | Wallenius Wilhelmsen | Höegh Autoliners | Natureza |
 |---|---|---|---|
-| **Nível de combustível / gás ** | Tank about **one-quarter full** (enough to self-drive on/off) | Tanque cerca de **um quarto cheio** | Política do transportador; apenas para estas duas linhas designadas, não uma regra universal |
+| **Nível de combustível gás ** | Tank about **one-quarter full** (enough to self-drive on/off) | Tanque cerca de **um quarto cheio** | Política do transportador; apenas para estas duas linhas designadas, não uma regra universal |
 | ** Bateria ICE usada** | Para unidades usadas **sem um interruptor de desligamento de bateria**, desconecte o 12/24V após o amarramento (excepções por instrução WW) | — | Regra específica para WW; portador de código único |
 | ** SOC de alta tensão BEV ** | — | **SOC não mais de 50% **, mantendo carga suficiente para carga/descarregável/armazenagem; - Não. ≤¼ fuel plus SOC guidance | Höegh-específico; **not** um limite máximo global de SOC |
 | ** Operabilidade ** | As unidades RoRo devem se auto-drive com segurança ligada/desativada (move/fregar/velar); unidades com defeito ou fugas podem ser rejeitadas | Mesmo requisito de auto- condução | O portador que recebe a regra para estas duas linhas nomeadas |
@@ -36,14 +36,14 @@ O seguinte é ** nosso método de fornecimento/mandagem recomendado**, oferecido
 - ** Registro de entrega conjunta**: inspecionar o veículo junto com o terminal e assinar uma folha de entrega, mantendo uma cópia.
 
 ## Itens a confirmar com o portador ou OEM (sem valores fixos afirmados)
-Contagem de pontos de amarração, resistência à ruptura da precinta, esteiras antiderrapante, direção/cabeçamento do veículo no recipiente, ajuste de pressão do pneu e qualquer figura SOC uniforme: o lote obtido ** nenhum manual de modo de transporte OEM ou guia formal de transporte/terminal** estabelecendo valores fixos, portanto estes são apresentados apenas como ** itens para confirmar com o manual de modo de transporte reservado / OEM. Não é indicada uma percentagem fixa, uma classificação ou uma orientação da precinta como norma.
+Contagem de pontos de amarração, resistência à ruptura da precinta, esteiras antiderrapante, direção/cabeçamento do veículo no recipiente, ajuste de pressão do pneu e qualquer figura SOC uniforme: o lote obtido ** nenhum manual de modo de transporte OEM ou guia formal de transporte/terminal** estabelecendo valores fixos, portanto estes são apresentados apenas como ** itens para confirmar com o manual de modo de transporte reservado OEM. Não é indicada uma percentagem fixa, uma classificação ou uma orientação da precinta como norma.
 
 ## A sequência de entrega que recomendamos
 1. Execute o editorial PDI e capture fotos datadas (recomendação).
 2. Defina combustível/SOC para o nível ** registrado chamado transportadora** escrito (WW/Höegh como acima; caso contrário, obter o guia do transportador).
 3. Confirmar a operacionalidade (move/fregar/velar) e resolver fugas/luzes de aviso.
 4. No terminal, faça a inspeção conjunta e assine o registro de entrega (recomendação).
-5. Fotos de arquivo + folha de entrega com o B / L, então qualquer reivindicação de destino tem uma linha de base.
+5. Fotos de arquivo + folha de entrega com o B L, então qualquer reivindicação de destino tem uma linha de base.
 
 ## Limites deste Guia
 - Os itens WW/Höegh são **CARRIER_SPECÍFICO**, nunca generalizados para "todas as transportadoras" ou para regulação.
@@ -89,7 +89,7 @@ Contagem de pontos de amarração, resistência à ruptura da precinta, esteiras
 | WW Receber as unidades usadas (desligar 12/24V sem desligar) | Wallenius Wilhelmsen | INTL | https://cargohandlinginstruction.walleniuswilhelmsen.com/terminal/receiving-of-used-units-draft | 2026-09-04 | ORIGINAL ÚNICA (transportador primário) | Desligamento da bateria usada- ICE |
 | Höegh Automotive shipping (≤¼ fuel; BEV SOC; operacionalidade) | Höegh Autoliners | INTL | https://www.hoeghautoliners.com/what-we-ship/automotive | 2026-09-04 | ORIGINAL ÚNICA (transportador primário) | BEV ≤ 50% SOC, combustível, operabilidade |
 | Transporte de camiões/buses/reboques | Höegh Autoliners | INTL | https://www.hoeghautoliners.com/what-we-ship/trucks-buses-and-trailers-shipping | 2026-09-04 | ORIGINAL ÚNICA (transportador primário) | Unidade comercial que recebe |
-| Pré-envio inspeção & prática de entrega | 11467 páginas da indústria | NC | https://m.11467.com/product/d55278360.htm | 2026-09-04 | ORIGINAL ÚNICA (base editorial) | Lista de verificação/foto/mandagem recomendada |
+| Pré-envio inspeção & prática de entrega | páginas da indústria | NC | https://m.11467.com/product/d55278360.htm | 2026-09-04 | ORIGINAL ÚNICA (base editorial) | Lista de verificação/foto/mandagem recomendada | 11467
 *Evidencia: políticas de transporte de nomes verificados para guias primários WW/Höegh (política de transporte, não regulação, não universal); checklist é recomendação editorial; valores fixos de amarração/pressão/orientação bloqueados pendentes documentos OEM/carrier. *
 
 | OMI/OIT/UNECE CTU Código — unidades de transporte de carga de movimentação e de segurança | Organização Marítima Internacional (OMI) | INT' L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | VERIFICADO | Manuseamento geral/base de referência de segurança; as regras de transporte continuam a ser mais rigorosas e específicas da rota |

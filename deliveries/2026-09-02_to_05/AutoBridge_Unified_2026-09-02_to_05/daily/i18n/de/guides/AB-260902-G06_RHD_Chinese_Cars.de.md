@@ -17,14 +17,14 @@ In Rechtslenkungsmärkten (Großbritannien, Australien, Neuseeland, Thailand, Ma
 
 ## Marken mit Factory RHD-Programmen (Beispiele - Verifizieren vor der Bestellung)
 
-Das Folgende ist eine Momentaufnahme der gemeldeten Factory-RHD-Angebote. Die meisten Markenlisten stammen aus Export-Service-Quellen und ändern sich schnell, wenn die Modelle gestartet / zurückgezogen werden; behandeln Sie sie als Leads, um sie auf der offiziellen Website der Marke (oder des lokalen Distributors) zu bestätigen, nicht als festen Katalog.
+Das Folgende ist eine Momentaufnahme der gemeldeten Factory-RHD-Angebote. Die meisten Markenlisten stammen aus Export-Service-Quellen und ändern sich schnell, wenn die Modelle gestartet zurückgezogen werden; behandeln Sie sie als Leads, um sie auf der offiziellen Website der Marke (oder des lokalen Distributors) zu bestätigen, nicht als festen Katalog.
 
 | Marke (Gruppe) | Gemeldete Factory-RHD-Beispiele | Gemeldete RHD-Märkte | Nachweisniveau |
 |---|---|---|---|
 | MG (SAIC) | MG4, MG ZS, MG HS, MG5, MG Extender (von einer Export-Service-Quelle als eines der breitesten RHD-Line-ups der chinesischen Marke beschrieben) | Vereinigtes Königreich, Australien, Thailand, Südafrika, Indien, Sri Lanka | Quelle der Industrie — Überprüfung |
 | BYD | Atto 3 (Yuan Plus Exportname), Dolphin, Seal | Australien, Vereinigtes Königreich, Thailand, Japan | Quelle der Industrie — Überprüfung |
 | GWM/Haval/ORA | Haval H6, Jolion, ORA 03, Tank 300 (ausgewählte Märkte) | Australien, Südafrika, Thailand, Vereinigtes Königreich, Kenia | Quelle der Industrie — Überprüfung |
-| Geely/Zeekr | Geely EX5 berichtet als mit parallelen LHD / RHD-Linien aus der Entwicklung entwickelt; mehrere Geely / Zeekr-Modelle RHD | Großbritannien, Irland, Australien, Neuseeland, Malaysia, Hongkong | Quelle der Industrie — Überprüfung |
+| Geely/Zeekr | Geely EX5 berichtet als mit parallelen LHD RHD-Linien aus der Entwicklung entwickelt; mehrere Geely Zeekr-Modelle RHD | Großbritannien, Irland, Australien, Neuseeland, Malaysia, Hongkong | Quelle der Industrie — Überprüfung |
 | Hongqi | RHD New Energy Push durch 2026; Hong Kong Experience Center berichtet ab Juli 2026 | Vereinigtes Königreich, Australien, Neuseeland, Singapur, Thailand, Malaysia, Indonesien | Medien/Aggregatoren — überprüfen |
 | Dongfeng Forthing | **Amtsbestätigt**: Eingetragen in Thailand März 2026 mit RHD NEV SUV "FRIDAY" und V9 gebaut für RHD Märkte | Thailand | **Amtlicher (Dongfeng)** |
 | Changan Qiyuan (als NEVO) | Q05 gezeigt als NEVO Q05 auf der Motorshow in Bangkok im März 2026 (Thai RHD Prospektion) | Thailand | Medien — Überprüfung |
@@ -34,8 +34,8 @@ Beachten Sie, dass sich die Modell-**Namen zwischen China und den Exportmärkten
 ## Wie man eine echte Fabrik RHD-Einheit bestätigt
 
 1. Überprüfen Sie die offizielle Website der Marke ** für das Zielland und bestätigen Sie das Modell, die Ausstattung und den RHD-Build.
-2. Fragen Sie den Lieferanten nach dem **Fabrik-Build / Konfigurationsblatt von VIN **, das die Lenkseite (RHD) vor der Einzahlung zeigt - kein Versprechen, RHD zu "arrangieren".
-3. Bestätigen Sie die **Homologation für diesen RHD-Markt** (Beleuchtung, Instrumentierung, E-Call / Label-Regeln unterscheiden sich); ein RHD-Build für Thailand ist nicht automatisch für Großbritannien zertifiziert.
+2. Fragen Sie den Lieferanten nach dem **Fabrik-Build Konfigurationsblatt von VIN **, das die Lenkseite (RHD) vor der Einzahlung zeigt - kein Versprechen, RHD zu "arrangieren".
+3. Bestätigen Sie die **Homologation für diesen RHD-Markt** (Beleuchtung, Instrumentierung, E-Call Label-Regeln unterscheiden sich); ein RHD-Build für Thailand ist nicht automatisch für Großbritannien zertifiziert.
 4. Überprüfen Sie die RHD **Innenseite/Lokalisierung **: rechte Wischergeometrie, Richtung des Scheinwerferstrahls, Instrumentensprache, Infotainment und (für EV) Ladestecker für diesen Markt.
 5. Bestätigen Sie die Zuweisungs-/Vorlaufzeit – RHD-Chargen werden häufig in Kampagnen produziert und sind möglicherweise nicht auf Lager, wenn eine LHD-Einheit vorhanden ist.
 
@@ -44,10 +44,10 @@ Beachten Sie, dass sich die Modell-**Namen zwischen China und den Exportmärkten
 Die Rechtmäßigkeit und Export Machbarkeit der Umwandlung eines LHD chinesischen Autos in RHD wurden in dieser Forschung nicht überprüft, und solche Umwandlungen routinemäßig ungültig Typzulassung und Garantie, ändern Crash-Struktur und scheitern Registrierung in strengen RHD-Märkten. Behandeln Sie jeden Anbieter, der eine billige "RHD-Konvertierung" als Hochrisikosignal anbietet, und verlangen Sie einen Nachweis der behördlichen Genehmigung; In den meisten professionellen Beschaffungen ist die sichere Regel **factory RHD oder nicht versenden **.
 
 ## Was AutoBridge über einen "Wir können RHD" -Behauptung hinzufügt
-Verkäufer behaupten RHD-Verfügbarkeit, ohne eine Fabriklinie von einem Konvertierungsshop zu unterscheiden. Dieser Leitfaden empfiehlt **Fabrikliniennachweis für das genaue Modell (Baufotos, VIN, Bestätigung des lokalen Verteilers) **, Vorsichtsmaßnahmen gegen Aftermarket-LDD → RHD-Lenkungstausch und Überprüfung des gewählten Autos gegen die RHD-Registrierungs- / Inspektionsregel des **Zielorts und Wisch- / Spiegel- / Scheinwerferlichtanforderungen ** vor der Einzahlung.
+Verkäufer behaupten RHD-Verfügbarkeit, ohne eine Fabriklinie von einem Konvertierungsshop zu unterscheiden. Dieser Leitfaden empfiehlt **Fabrikliniennachweis für das genaue Modell (Baufotos, VIN, Bestätigung des lokalen Verteilers) **, Vorsichtsmaßnahmen gegen Aftermarket-LDD → RHD-Lenkungstausch und Überprüfung des gewählten Autos gegen die RHD-Registrierungs- Inspektionsregel des **Zielorts und Wisch- Spiegel- Scheinwerferlichtanforderungen ** vor der Einzahlung.
 ## Einkaufs-Checkliste für RHD-Bestellungen
 
-- Zielmarkt und seine RHD-Registrierung / Homologation Regeln benannt.
+- Zielmarkt und seine RHD-Registrierung Homologation Regeln benannt.
 - Factory RHD bestätigt auf der offiziellen Modelllinie und auf dem VIN-Baublatt.
 - Exportmarktmodellname, der dem chinesischen Namen zugeordnet ist (Vermeidung von Namensinkongruenzen).
 - RHD-spezifische Beleuchtung/Wischer/Instrumente/Lokalisierung bestätigt.
@@ -57,7 +57,7 @@ Verkäufer behaupten RHD-Verfügbarkeit, ohne eine Fabriklinie von einem Konvert
 ## Häufig gestellte Fragen
 
 ** Machen chinesische Marken echte RHD-Autos? ** Ja — MG, BYD, GWM/Haval, Geely/Zeekr und andere führen RHD-Fabrikprogramme durch, und Dongfeng hat im März 2026 in Thailand offiziell RHD-Modelle eingeführt; bestätigen Sie das genaue Modell auf offiziellen Kanälen, da sich die Listen ändern.
-**Ist BYD Atto 3 das gleiche wie Yuan Plus? ** Atto 3 ist der Exportmarktname für die Yuan Plus-Plattform; Match durch VIN / Spezifikation statt Name.
+**Ist BYD Atto 3 das gleiche wie Yuan Plus? ** Atto 3 ist der Exportmarktname für die Yuan Plus-Plattform; Match durch VIN Spezifikation statt Name.
 **Kann ich ein LHD-Auto bei der Ankunft in RHD umwandeln? ** Im Allgemeinen nicht sicher oder rechtlich - es wirkt sich auf Struktur, Genehmigung und Garantie aus; Quelle stattdessen ein Werk RHD Build.
 ** Funktioniert ein für Thailand gebautes RHD-Auto in Großbritannien/Australien?** Nicht automatisch – jeder RHD-Markt hat seine eigenen Homologations- und Lokalisierungsanforderungen.
 **Warum von VIN überprüfen?** Marketingmaterial kann sagen "RHD verfügbar", während der zugewiesene Bestand LHD ist; Das VIN-Buildsheet ist der zuverlässige Beweis.
@@ -97,12 +97,12 @@ Verkäufer behaupten RHD-Verfügbarkeit, ohne eine Fabriklinie von einem Konvert
 | RHD-fähige Geely/Zeekr-Modelle | FOBEV (Exportdienst) | RHD-Märkte | https://www.fobev.com/vehicles/rhd-ready/ | 2026-09-02 | CROSS_CHECKED | Geely EX5 parallel LHD/RHD, Zeekr RHD (Industrie; verifizieren) |
 | Dongfeng Forthing kommt nach Thailand (offiziell) | Dongfeng Motor Group (offiziell) | D | https://www.dfmc.com.cn/news/company/news_20260311_1142.html | 2026-09-02 | ÜBERPRÜFUNG | März-2026 Thailand Eintrag, RHD FREITAG/ V9 (VERIFIZIERT) |
 | Changan NEVO Q05 Bangkok Show Debüt | Autohome 车家号 (Medien) | D | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/25092921 | 2026-09-02 | CROSS_CHECKED | NEVO Q05 Thai RHD Prospekt (Medien; überprüfen) |
-| Hongqi RHD Strategie / RHD Marktkontext | smzdm (Aggregator); AutoReport (Industrie) | RHD-Märkte | https: //post.m.smzdm.com/p/ aqrp0mkp/; https://m.autoreport.cn/guoji/20260829/19112676566.html | 2026-09-02 | CROSS_CHECKED | Hongqi RHD Push; ~ 35% weltweite Verkäufe in RHD-Märkten |
+| Hongqi RHD Strategie RHD Marktkontext | smzdm (Aggregator); AutoReport (Industrie) | RHD-Märkte | https://post.m.smzdm.com/p/aqrp0mkp/ https://m.autoreport.cn/guoji/20260829/19112676566.html | 2026-09-02 | CROSS_CHECKED | Hongqi RHD Push; ~ 35% weltweite Verkäufe in RHD-Märkten |
 
 *Vertrauensbeweis (AutoBridge-Standard): Nur Dongfengs Thailand RHD-Start wird VERIFIZIERT (Hersteller offiziell). Markenmodelllisten sind Export-Service/Media-Snapshots (SINGLE_SOURCE), die sich häufig ändern und auf offiziellen Marken-/Local-Distributor-Kanälen pro VIN bestätigt werden müssen. Die Legalität der Aftermarket-Umwandlung wurde nicht überprüft und wird als Risiko gekennzeichnet. *
 
 ## Editorial Review
-- **Autor / Rezensent**: [AutoBridge Export Editorial Team](/Autoren/) · Methode nach unserer [Editorial Policy](/editorial-policy/]
+- **Autor Rezensent**: [AutoBridge Export Editorial Team](/Autoren/) · Methode nach unserer [Editorial Policy](/editorial-policy/]
 - **Zuletzt überprüft**: 2026-09-05
 - **Referenzmarkt**: Globale RHD-Märkte (Beschaffung aus China)
 - **Verifizierungsmethode**: Ein offizieller Start plus Branchen-Snapshots; Verfügbarkeit bewusst per VIN offiziell bestätigt

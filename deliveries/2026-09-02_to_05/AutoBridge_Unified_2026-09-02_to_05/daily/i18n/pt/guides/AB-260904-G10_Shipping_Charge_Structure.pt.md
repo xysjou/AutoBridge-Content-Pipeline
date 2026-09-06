@@ -20,7 +20,7 @@ Uma taxa de frete de manchete ganha reservas e perde dinheiro no destino. Os exp
 | **O/F (Carvão de Oceano)** | Frete marítimo de base; componente principal da cotação, flutuando com faixa/capacidade/temporada | Perna oceânica |
 | **THC (Carga de Tratamento Final) * | Lifting/manuseamento/armazenagem de terminais; difere pelo tamanho do recipiente | Origem **e destino ** (OTHC/DTHC) |
 | **DOC (taxa de documento) * | Documentação; origem ODOC e destino DDOC são separados | Ambas as extremidades |
-| ** SEAL / VGM ** | Taxa de selagem e taxa de pesagem bruta verificada — elementos de origem comum | Origem |
+| ** SEAL VGM ** | Taxa de selagem e taxa de pesagem bruta verificada — elementos de origem comum | Origem |
 | **BAF (ajustamento do bunker; semelhante ao EBS)** | Sobretaxa ligada ao combustível; juntamente com CAF (moeda), PSS (tempo de pico), PCS (congestão), WRS (risco de guerra) | Oceano/variável |
 
 ## Taxas de apresentação manifestas são específicas de rota (orientação editorial, não uma taxa universal)
@@ -28,7 +28,7 @@ Uma taxa de frete de manchete ganha reservas e perde dinheiro no destino. Os exp
 
 ## Origem vs Destino — Onde Discutem Ocultar
 - Dividir cada linha em **cargas de origem** (antes/a carga) e **cargas de destino** (a descarga/colecção). Os compradores de veículos são mais frequentemente surpreendidos com o destino THC, DDOC e taxas de entrega-ordem que não esperavam.
-- Peça ao encaminhador para ** nomear cada linha e sua unidade de faturamento** (por recipiente / por conta / por veículo), para que duas citações possam ser comparadas na mesma base.
+- Peça ao encaminhador para ** nomear cada linha e sua unidade de faturamento** (por recipiente por conta por veículo), para que duas citações possam ser comparadas na mesma base.
 - Observe as sobretaxas ** e "custos locais" sem unidade – estes são os locais onde uma taxa de título baixa é recuperada.
 
 ## Um método de citação-audito (sem números)
@@ -80,10 +80,10 @@ Uma taxa de frete de manchete ganha reservas e perde dinheiro no destino. Os exp
 | Discriminação por sobretaxas de exportação FCL | NetEase | INTL | https://www.163.com/dy/article/L3DE4MEL0556E2ZO.html | 2026-09-04 | CROSS_CHECKED | O/F, THC, DOC, BAF, método de auditoria |
 | Definição do THC | Sina Transportes marítimos financeiros | INTL | https://finance.sina.com.cn/roll/2026-07-31/doc-iniksair4574469.shtml.md | 2026-09-04 | CROSS_CHECKED | Cobertura de gestão de terminais |
 | Componentes de carga de exportação oceânica por via | Baike | INTL | https://m.baike.com/wiki/%E6%B5%B7%E8%BF%90%E5%87%BA%E5%8F%A3/7570444 | 2026-09-04 | CROSS_CHECKED | Taxonomia da sobretaxa, lógica de rota AMS/ACI/ENS |
-| Taxas FOB comuns (THC/reserva/caminhão) | 11467 | NC | https://m.11467.com/product/d24491409.htm | 2026-09-04 | FONTE ÚNICA | Nomeação de carga |
+| Taxas FOB comuns (THC/reserva/caminhão) | | NC | https://m.11467.com/product/d24491409.htm | 2026-09-04 | FONTE ÚNICA | Nomeação de carga | 11467
 * Âmbito de prova: estrutura de carga cruzada de fontes da indústria (sem fonte primária tarifária oficial); AMS/ACI/ENS enquadrado como orientação editorial específica para rotas; todos os montantes deliberadamente excluídos como sensíveis ao tempo. *
 
-| Incoterms 2020 regras (que organiza/paga transporte em cada termo) | Câmara de Comércio Internacional (CCI) | INT' L | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/ | 2026-09-05 | VERIFICADO | Qual frete / cargas caem para comprador vs vendedor por Incoterm |
+| Incoterms 2020 regras (que organiza/paga transporte em cada termo) | Câmara de Comércio Internacional (CCI) | INT' L | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/ | 2026-09-05 | VERIFICADO | Qual frete cargas caem para comprador vs vendedor por Incoterm |
 | Práticas e categorias de encargos para os transportadores | FIATA | INT' L | https://fiata.org/ | 2026-09-05 | VERIFICADO | Cotação/referência da estrutura de carga do expedidor |
 | Transporte de linha e contexto sobretaxa | Conselho Mundial da Navegação | INT' L | https://www.worldshipping.org/ | 2026-09-05 | VERIFICADO | Contexto industrial para o transporte marítimo e encargos acessórios |
 | China Internacional Associação dos Transitários de Carga | CIFA | NC/INT'L | http://www.cifa.org.cn/ | 2026-09-05 | VERIFICADO | Indústria de encaminhamento do lado da China e prática de cotação |

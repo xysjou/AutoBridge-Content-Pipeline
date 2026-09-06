@@ -7,7 +7,7 @@
 - ** H1 Chọn chứng chỉ đúng của Nguồn gốc cho một xe cộ Trung Quốc xuất khẩu
 - ** Từ khoá mật khẩu hoa/ xuất khẩu từ Trung Quốc
 - **Secondary Search termss**: không phải là tiền ngữ CO, chứng nhận GP từ nguồn gốc, CO ưu tiên FTA, GACC thứ tự 270, CCPIT gốc, tài liệu xuất khẩu xe
-- **I nội bộ Link gợi ý: //guides/vehic-ex-hs-decification/; /guides/export-vehicle-docucht- wrapt- wrap/; /guides/childa-port-statuary-inpoction-decation/ / /
+- **I nội bộ Link gợi ý: /guides/export-vehicle-docucht- wrapt- wrap/; /guides/childa-port-statuary-inpoction-decation/
 - **Image gợi ý**: ba loại CO; Tuỳ biến v. sơ đồ phát hành C.P.I.; FTA thích dòng chảy
 - **LT gợi ý**: " chứng nhận Trung Quốc có ba loại tập tục CCPIT"
 

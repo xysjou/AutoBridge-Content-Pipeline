@@ -7,7 +7,7 @@
 - ** H1 **: chuẩn bị xe hơi cho RoRo hoặc ver Engage: Những gì các nhà truyền giáo có tên yêu cầu và những gì chúng tôi đề nghị
 - **Criumary Keyword**: phương tiện xuất khẩu trước khi làm nhiệm vụ kiểm tra PDI giao cho RoRo
 - **Secondary Search Words**: - Tôi là một người tốt. - Tôi là một người tốt.  Hoegh BEV SOC 50 percent, Xe chở thuốc RoRo operable, ngắt kết nối 12V ắc quy sử dụng, Kỷ lục chụp hình trước thời kỳ định vị
-- **I nội bộ Link gợi ý**: //guides/vehic-exc-ecport-bill-lading-types/; /guides/ev-ping- un3556-imdg-compliance/; /guides/ec-fuel-cc tương thích-chicha-vecles/
+- **I nội bộ Link gợi ý**: /guides/ev-ping- un3556-imdg-compliance/; /guides/ec-fuel-cc tương thích-chicha-vecles/
 - **Image gợi ý**: tờ kiểm tra PDI; đường dốc tự lái; tên-carer vs phân chia sơ đồ
 - **LT gợi ý**: "Biểu thức phát thanh tên so với kiểm tra tính trước khi làm nhiệm vụ"
 
@@ -19,7 +19,7 @@
 ## Chính sách chính trị có tên (CARRIER_PECAFIIC — Giới thiệu nhà mang tên)
 | Mục lục | _Cuên- ni- u- ni- a- ni- a- niName | Các máy tự động Höegh | Tự nhiên |
 |---|---|---|---|
-| **Fuel / gas level** | Tank about **one-quarter full** (enough to self-drive on/off) | Tank about **one-quarter full** | Chính sách Carrier; kiểm tra chéo hai dòng này — không phải là một quy tắc phổ quát |
+| **Fuel gas level** | Tank about **one-quarter full** (enough to self-drive on/off) | Tank about **one-quarter full** | Chính sách Carrier; kiểm tra chéo hai dòng này — không phải là một quy tắc phổ quát |
 | ** Dùng pin ICE** | Đối với đơn vị sử dụng ** mà không có một ắc quy giết-switch**, ngắt kết nối 12/24V, sau khi đánh (trừ khi đánh một chỉ dẫn WW) | - | Quy tắc nhà cung cấp đơn |
 | **BVV cao tốc SOC** | - | **SOC không hơn 50% **, trong khi vẫn giữ đủ sạc cho việc nạp/nải/không tải; HOV: ≤¼ fuel plus SOC guidance | Höegh- cụ thể; ** not** trần SOC toàn cầu |
 | **Sự dễ bị tổn thương* ♪ | Đơn vị RoRo phải tự lái an toàn trên/tắt (move/brake/seer); lỗi hoặc rò rỉ đơn vị có thể bị từ chối | Cùng một yêu cầu tự lái | Bộ nhận quy tắc cho hai dòng tên |
@@ -31,12 +31,12 @@ Dưới đây là phương pháp cấp phép/người dùng được đề ngh�
 - Bên ngoài cơ thể và đi bộ về phía sau, chú ý mọi dấu hiệu đã có.
 - Kiểm tra bảng cảnh báo ánh sáng (ML/ABS/SRSSSSSSSSSS trước khi gửi tới.
 - Thiết bị phát minh, chìa khóa phụ, sạc cáp và phụ tùng trên tàu.
-- Ghi lại lượng đo lường đọc và nhiên liệu cấp độ / SOC đang được chuyển giao.
+- Ghi lại lượng đo lường đọc và nhiên liệu cấp độ SOC đang được chuyển giao.
 - ** Bức ảnh**: những tấm ảnh có ngày tháng mang theo hàng dặm và điều kiện, được giữ cho sự tương đồng với mục tiêu bị hỏng.
 - **Joint đã ghi lại kỷ lục: kiểm tra phương tiện cùng với thiết bị cuối và ký giấy giao hàng, giữ lại một bản sao.
 
 ## Mục cần xác nhận với Carrier hay OEM (không có giá trị cố định)
-Số điểm cao, dây buộc phá vỡ sức mạnh, chống trượt chiếu sáng, phương tiện dẫn đường đầu/sự định hướng trong container, điều chỉnh lốp xe và bất kỳ con số đồng phục SOC: lô hàng này có **no OEM-mode hướng dẫn vận chuyển hay chính thức là người đưa tin/chỉ dẫn viên/t cuối cùng** thiết lập các giá trị cố định, vì vậy những thứ này chỉ được trình bày như ** hàng hóa để xác nhận với người đưa thư / OEM vận chuyển qua đường vận chuyển. Không có tỷ lệ cố định, đánh giá hoặc hướng được ghi là tiêu chuẩn.
+Số điểm cao, dây buộc phá vỡ sức mạnh, chống trượt chiếu sáng, phương tiện dẫn đường đầu/sự định hướng trong container, điều chỉnh lốp xe và bất kỳ con số đồng phục SOC: lô hàng này có **no OEM-mode hướng dẫn vận chuyển hay chính thức là người đưa tin/chỉ dẫn viên/t cuối cùng** thiết lập các giá trị cố định, vì vậy những thứ này chỉ được trình bày như ** hàng hóa để xác nhận với người đưa thư OEM vận chuyển qua đường vận chuyển. Không có tỷ lệ cố định, đánh giá hoặc hướng được ghi là tiêu chuẩn.
 
 ## Chúng ta đề nghị giao nộp hàng loạt
 1. Chạy bài xã luận PDI và chụp ảnh có ngày tháng (tiểu thức).
@@ -89,8 +89,8 @@ Có phải kỷ lục chụp ảnh và trao đổi là bắt buộc không? Đó
 | WW Nhận các đơn vị đã dùng (diconnect 12/24V, không có định dạng giết phù thủy) | _Cuên- ni- u- ni- a- ni- a- niName | I - MI | https://cargohandlinginstruction.walleniuswilhelmsen.com/terminal/receiving-of-used-units-draft | 2026-09-04 | SINGLE_SOURCE (người đưa hàng chính) | ngắt kết nối pin dùng-ICE |
 | Höegh Automotive shipping (≤¼ fuel; BOV SOC; Khả năng dịch | Các máy tự động Höegh | I - MI | https://www.hoeghautoliners.com/what-we-ship/automotive | 2026-09-04 | SINGLE_SOURCE (người đưa hàng chính) | BÀI TIẾNG 50% SOC, nhiên liệu, năng lượng |
 | Xe tải Höegh/ Buses/Traster | Các máy tự động Höegh | I - MI | https://www.hoeghautoliners.com/what-we-ship/trucks-buses-and-trailers-shipping | 2026-09-04 | SINGLE_SOURCE (người đưa hàng chính) | Đơn vị thương mại nhận được |
-| Kiểm tra trước về & giao phó thực hành | 11467 trang công nghiệp | CN | https://m.11467.com/product/d55278360.htm | 2026-09-04 | SINGLE_SOURCE (cơ sở quan sát) | Khuyên kiểm tra/ ảnh |
-* Phạm vi tính từ: chính sách có tên-carrier được xác nhận cho các hướng dẫn chính của WW/Höegh (chính sách xe, không quy định, không phổ biến); kiểm tra là khuyến cáo biên tập; các giá trị đánh đập/ áp đảo/ đường dẫn cố định bị chặn lại trong tài liệu OEM/carrier. ♪
+| Kiểm tra trước về & giao phó thực hành | trang công nghiệp | CN | https://m.11467.com/product/d55278360.htm | 2026-09-04 | SINGLE_SOURCE (cơ sở quan sát) | Khuyên kiểm tra/ ảnh | 11467
+* Phạm vi tính từ: chính sách có tên-carrier được xác nhận cho các hướng dẫn chính của WW/Höegh (chính sách xe, không quy định, không phổ biến); kiểm tra là khuyến cáo biên tập; các giá trị đánh áp đảo/ đường dẫn cố định bị chặn lại trong tài liệu OEM/carrier. ♪
 
 | Đội cứu hộ Bộ mã — Các đơn vị vận chuyển hàng hóa đang được xử lý và bảo vệ | Tổ chức hải sản Quốc tế (MO) | IN'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | VEII | Chung |
 | Bảo hiểm giao thông và tham chiếu rủi ro biển | Liên minh quốc tế Bảo hiểm Thủy quân lục chiến (IURI) | IN'L | https://iumi.com/ | 2026-09-05 | VEII | Tại sao ghi chép lại vụ điều tra chứng cứ của cảnh sát đã được ghi nhận để xử lý việc kiện tụng hàng hóa |

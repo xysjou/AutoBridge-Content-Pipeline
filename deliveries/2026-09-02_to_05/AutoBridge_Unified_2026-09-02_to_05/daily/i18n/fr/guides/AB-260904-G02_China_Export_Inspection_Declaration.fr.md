@@ -30,8 +30,8 @@ Par **Arrêté no 277 du GACC (Dispositions relatives à la déclaration des mar
 ## Trois régimes parallèles: les garder à l'écart
 | Régime | Déclencheur | Remplace les autres ? |
 |---|---|---|
-| ** Inspection légale** | Code est dans le catalogue / loi actuel l'exige | — |
-| **L'ISP tiers de l'acheteur** | Contrat / L/C / demande d'acheteur | Non — L'ISP ne remplit jamais une obligation d'inspection légale |
+| ** Inspection légale** | Code est dans le catalogue loi actuel l'exige | — |
+| **L'ISP tiers de l'acheteur** | Contrat L/C demande d'acheteur | Non — L'ISP ne remplit jamais une obligation d'inspection légale |
 | ** Licence d'exportation de VEB** | Voitures particulières électriques à batterie (code de référence 8703801090) sous **administration de licence à partir de 2026-01-01 ** (annonce de quatre ministères) | Non — la licence et l'inspection légale sont des systèmes parallèles et ne se substituent jamais |
 
 Un PSI désigné par l'acheteur est un contrôle commercial, et non un contrôle réglementaire chinois; et la licence d'exportation BEV est un instrument d'administration commerciale, et non une inspection des marchandises.
@@ -79,7 +79,7 @@ Un PSI désigné par l'acheteur est un contrôle commercial, et non un contrôle
 | Règlement des douanes sur la déclaration des marchandises d'importation/exportation (arrêté no 277 du GACC, en vigueur 2025-05-01) | Administration générale des douanes de la Chine (GACC), via le gouvernement | NC | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 2026-09-05 | VÉRIFIER (primaire) | Cadre juridique actuel pour la déclaration d'exportation; si une ligne spécifique 10-digit HS est inspectée par voie réglementaire, elle est toujours vérifiée HS-par-HS |
 | Guide de service Internet+Customs (inspection réglementaire = catalogue/biens légalement requis) | GACC | NC | https://online.customs.gov.cn/static/pages/guides/000629010001/000629010001.html | 2026-09-04 | VÉRIFIER (primaire) | Règle de décision du catalogue |
 | Avis 2024 no 163 du GACC (inspection hors catalogue au hasard; exportations = jouets pour enfants) | GACC | NC | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6216518/2024112015221230619.pdf | 2026-09-04 | VÉRIFIER (primaire) | Portée de l'inspection aléatoire |
-| Ordonnance no 277 du GACC, Dispositions relatives à la déclaration | Journal officiel du Conseil d'État / gouvernement | NC | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 2026-09-04 | VÉRIFIER (primaire) | Docs accompagnants, responsabilité en matière de signature |
+| Ordonnance no 277 du GACC, Dispositions relatives à la déclaration | Journal officiel du Conseil d'État gouvernement | NC | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 2026-09-04 | VÉRIFIER (primaire) | Docs accompagnants, responsabilité en matière de signature |
 | Annonce de quatre ministères sur l'octroi de licences d'exportation de voitures de tourisme BEV (réf. 8703801090, à partir de 2026-01-01) | MOFCOM | NC | http://www.mofcom.gov.cn/zfxxgk/gkml/art/2025/art_98e16dc3acdb47568e054d292bd9609a.html | 2026-09-04 | TEMPS _ENSITIVE (primaire) | Distinction entre permis et inspection |
 | Avis 2025 no 138 du GACC (optimisation de la demande avant déclaration) | Dédouanement (reposte) | NC | http://m.toutiao.com/group/7520602188638159398/ | 2026-09-04 | SOURCE UNIQUE | Optimisation des processus |
 * Portée des preuves: cadre vérifié par les sources primaires; le résultat du catalogue pour tout code à dix chiffres spécifique doit être vérifié en direct et n'est pas généralisé. *

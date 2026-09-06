@@ -29,7 +29,7 @@ O primeiro carácter da WMI é atribuído por um organismo autorizado. Este guia
 Compare os mesmos 17 caracteres em quatro locais e confirme que não há moagem, re-faixa ou sobre-spray:
 1. **Pintura de fecho/filé no corpo** (chassis).
 2. **VIN na placa de identificação**.
-3. ** VIN no certificado de conformidade / certificado de fábrica**.
+3. ** VIN no certificado de conformidade certificado de fábrica**.
 4. ** VIN nos documentos de envio** (B/L, fatura, lista de embalagem).
 
 Qualquer diferença de caráter, refaixar evidências ou descompasso entre o documento e o corpo é um ponto de espera: resolva-o com o fornecedor e o registro de alocação do fabricante **antes de** pagamento e reserva, porque as autoridades de registro comparam os mesmos quatro lugares.
@@ -43,7 +43,7 @@ Qualquer diferença de caráter, refaixar evidências ou descompasso entre o doc
 
 ## Limites deste Guia
 - Não existe um directório WMI-prefix-to-fabricante (requer a tabela de atribuição autorizada).
-- Nenhuma regra absoluta de "carta inicial = país de fabrico".
+- Nenhuma regra absoluta de "carta inicial país de fabrico".
 - Formatos de VIN/registro de destino são tratados por país de destino.
 
 ## Perguntas Mais Frequentes
@@ -86,7 +86,7 @@ Qualquer diferença de caráter, refaixar evidências ou descompasso entre o doc
 | Plataforma SARR · GB16735-2019 detalhe | SARR | NC | https://std.samr.gov.cn/gb/search/gbDetailed?id=94E9AF238E3052A4E05397BE0A0AD366 | 2026-09-04 | VERIFIED (primário) | Estado- padrão |
 | Requisitos de revisão do acesso ao produto rodoviário-motor-veículo (citação obrigatória de GB16735) | PDF oficial MIIT | NC | https://wap.miit.gov.cn/cms_files/filemanager/1226211233/attach/20259/9d0824a8e8a84abf858f3cb96a6d7385.pdf | 2026-09-04 | VERIFIED (primário) | Estado obrigatório, exigência de coerência |
 | Explicação do segmento VIN | Pacific Auto | NC | http://m.pcauto.com.cn/x/5100/51002243.html | 2026-09-04 | FONTE ÚNICA | Explicador de nível de posição |
-* Nota bloqueada: "O WMI chinês começa com L / algum H" é UNVERIFIED e não é declarado como fato; WMI-prefix mapeamento fabricante e formatos de destino VIN estão fora de escopo. *
+* Nota bloqueada: "O WMI chinês começa com L algum H" é UNVERIFIED e não é declarado como fato; WMI-prefix mapeamento fabricante e formatos de destino VIN estão fora de escopo. *
 
 | 道路车辆 车辆识别代号 (VIN) GB16735-2019 条文 (百科载体) | 百科 (国标条文载体) | NC | https://m.baike.com/wiki/%E8%BD%A6%E8%BE%86%E8%AF%86%E5%88%AB%E5%8F%B7%E7%A0%81/1470666 | 2026-09-04 | FONTE ÚNICA | VIN=WMI+VDS+VIS 共 17 位 (以标准正文为准) |
 

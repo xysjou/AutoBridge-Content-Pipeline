@@ -43,7 +43,7 @@ Les noms, les numéros d'identification, les quantités, les valeurs et les code
 L'ordonnance MIIT n° 50 divise les constructeurs et les produits de véhicules automobiles routiers en ** six catégories d'admission: voitures particulières, véhicules utilitaires, autobus, véhicules spéciaux, motocyclettes et remorques**. Pourquoi un exportateur se soucie: le champ d'admission du fabricant détermine quels produits peuvent être déclarés légitimement. Pour les véhicules spéciaux/à équipement, confirmer l'admission au châssis de base ** et** la qualification de l'entité de superstructure.
 
 ## Ce que ce guide vous recommande Vérifiez avant de réserver
-- Le régime de **licence et le code SH actuel** pour le véhicule exact (BEV / utilisé / conventionnel / spécial).
+- Le régime de **licence et le code SH actuel** pour le véhicule exact (BEV utilisé conventionnel spécial).
 - ** État annuel des dépôts** et, pour les améliorations, la preuve de la facture ou de la déclaration du châssis.
 - Pour les unités presque neuves utilisées, la confirmation après-vente **-180-day OEM** avant de postuler.
 - A **passe de cohérence entre documents** (VIN, valeur, SH, parties) avant la déclaration.
@@ -87,7 +87,7 @@ L'ordonnance MIIT n° 50 divise les constructeurs et les produits de véhicules 
 |---|---|---|---|---|---|---|
 | 2026 Automobile et moto Avis de dépôt de licence d'exportation | Ministère du commerce (MOFCOM) | CN (du côté des exportations) | https://www.mofcom.gov.cn/zcfb/zc/art/2025/art_1b1313c9c6da4a56874364b39e39c57d.html | 2026-09-03 | VÉRIFIER | Dépôt annuel; preuves de rendement à la hauteur |
 | Avis sur le renforcement de la gestion des exportations de voitures usagées | Bibliothèque des politiques du Conseil d ' État (quatre ministères) | CN (du côté des exportations) | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | VÉRIFIER | Régime de permis de voiture d'occasion; règle 180-day à partir de 2026-01-01 |
-| Administration des licences d'exportation de voitures de tourisme BEV | National Business Daily / Toutiao | CN (du côté des exportations) | http://m.toutiao.com/group/7554336546682323496/ | 2026-09-03 | _SENSIBILISATION DU TEMPS | Voie de circulation BEV, référence SH |
+| Administration des licences d'exportation de voitures de tourisme BEV | National Business Daily Toutiao | CN (du côté des exportations) | http://m.toutiao.com/group/7554336546682323496/ | 2026-09-03 | _SENSIBILISATION DU TEMPS | Voie de circulation BEV, référence SH |
 | MIIT Order n° 50 — Entrée du fabricant et du produit | Ministère de l'Industrie et des Informatiques | CN (du côté des exportations) | https://www.miit.gov.cn/zcfg/jdcjxl/art/2018/art_72a4ad7ff2304a8c83199eac43f276fe.html | 2026-09-03 | VÉRIFIER | Six catégories d'admission; base de la chaîne de documents |
 *Note de portée: les sources officielles ici couvrent uniquement le côté exportation de la Chine. Les codes SH exacts, les détails de fonctionnement du système et toute révision annuelle doivent être confirmés par rapport aux avis tarifaires et MOFCOM actuels; les règles relatives à la destination sont hors de portée. *
 
@@ -95,7 +95,7 @@ L'ordonnance MIIT n° 50 divise les constructeurs et les produits de véhicules 
 | 商务部办公厅关于 2026 年度汽车和摩托车出口许可申报的通知（2025-09-28；引用54号公告，系统填报“乘用车”） | Ministère du Commerce extérieur du MOFCOM (en anglais) | NC | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-04 | VÉRIFIER |  |
 
 ## Révision de la rédaction
-- **Auteur / réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)
+- **Auteur réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)
 - **Dernière révision**: 2026-09-05
 - **Marché de référence/étendue**: côté exportation de la Chine
 - ** Méthode de vérification**: examen des sources primaires en Chine (MOFCOM/State Council/MIIT); éléments sensibles au temps, marqués, non fixés

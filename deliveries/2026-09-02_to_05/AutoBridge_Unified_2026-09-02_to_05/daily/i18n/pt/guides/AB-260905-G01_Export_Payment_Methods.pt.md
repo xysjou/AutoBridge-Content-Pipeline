@@ -7,7 +7,7 @@
 - **Chave principal**: métodos de pagamento de exportação t t lc risco
 - ** Termos de pesquisa secundários**: condições de pagamento de exportação; L/C irrevogável; depósito T/T; coleção documental; risco de conta aberta; UCP600
 - ** URL sugerido**: /guides/export-payment-methods-t-t-t-lc-risk/
-- **Intenção de pesquisa**: 出口商如何在汽车订单中选择并安全使用电汇/信用证等结算方式, 识别软条款与银行风险
+- **Intenção de pesquisa**: 识别软条款与银行风险（信用证等结算方式）（出口商如何在汽车订单中选择并安全使用电汇）
 - **As sugestões de ligação interna**: /guides/incoterms- 2020-selection-guide/, /guides/verify-chinese-car-export-supplier-history/, /guides/export-fx-settlement-trade-fx-registration/
 - **Schema Scope** Artigo (sem Produto/Oferta/Revisão)
 
@@ -50,7 +50,7 @@ Mesmo um L/C limpo não cura a exposição às sanções sobre o comprador/banco
 | Câmara de Comércio Internacional (CCI) | Câmara de Comércio Internacional | NC | T1 | VERIFICADO | https://iccwbo.org/ | Editor de UCP600 e regras de Incoterms; quadro de financiamento comercial autorizado |
 | Seguros de crédito e de exportação a curto prazo | China Export & Credit Insurance Corporation (SINOSURE 中国信保) | INT/CN | T1/T2 | VERIFICADO | https://www.sinosure.com.cn/ | O risco de crédito de conta aberta (O/A) e de recolha documental (D/P) é inseparável; contexto de seguro de crédito à exportação para escolha a prazo de pagamento |
 | Conselho da China para a Promoção do Comércio Internacional (CCPIT) | Conselho da China para a Promoção do Comércio Internacional (CCPIT 中国贸促会) | NC | T1/T2 | VERIFICADO | https://www.ccpit.org/ | Organismo nacional de promoção do comércio: L/C e orientação e certificação de documentos comerciais; distinto das reproduções da administração local |
-| ICC Soluções de finanças comerciais (UCP 600 / URC 522 / proprietário da regra URDG) | Câmara de Comércio Internacional | INT | T1/T2 | VERIFICADO | https://iccwbo.org/business-solutions/trade-finance/ | O ICC é o conjunto de regras para L/C (UCP 600), para as colecções (URC 522) e para as garantias (URDG); página mais profunda para além da página inicial |
+| ICC Soluções de finanças comerciais (UCP 600 URC 522 proprietário da regra URDG) | Câmara de Comércio Internacional | INT | T1/T2 | VERIFICADO | https://iccwbo.org/business-solutions/trade-finance/ | O ICC é o conjunto de regras para L/C (UCP 600), para as colecções (URC 522) e para as garantias (URDG); página mais profunda para além da página inicial |
 ## Revisão Editorial
 - **Autor**: AutoBridge Export Editorial Team · [autores](/autores/) · [Política editorial](/política editorial/)
 - ** Última revisão**: 2026-09-05

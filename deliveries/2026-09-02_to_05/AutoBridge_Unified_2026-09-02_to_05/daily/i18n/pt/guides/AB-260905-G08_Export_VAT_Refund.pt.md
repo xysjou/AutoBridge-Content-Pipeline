@@ -45,8 +45,8 @@ Não são aqui indicadas taxas, prazos fixados ou montantes específicos para ca
 | Origem | Organização | Mercado | Nível | Confiança | URL | Factos corroborados |
 |---|---|---|---|---|---|---|
 | 出口业务增值税和消费税退 (免) 税管理办法 (税务总局公告) | 中国政府网 | NC | T1 | VERIFICADO | https://www.gov.cn/zhengce/zhengceku/202602/content_7056762.htm | 申报期限, 免抵退申报资料 |
-| 关于出口业务增值税和消费税政策的公告 | 中华人民共和国财政部 | NC | T1 | VERIFICADO | https://www.mof.gov.cn/jrttts/202602/t20260203_3983176.htm | 免抵退 / 免退税办法定义 |
-| 出口货物劳务免抵退税和免退税如何计算 | 国家税务总局 | NC | T1 | VERIFICADO | https://www.chinatax.gov.cn/chinatax/c102449/c5237525/content.html | 当期应退 / 免抵税额计算 |
+| 关于出口业务增值税和消费税政策的公告 | 中华人民共和国财政部 | NC | T1 | VERIFICADO | https://www.mof.gov.cn/jrttts/202602/t20260203_3983176.htm | 免抵退 免退税办法定义 |
+| 出口货物劳务免抵退税和免退税如何计算 | 国家税务总局 | NC | T1 | VERIFICADO | https://www.chinatax.gov.cn/chinatax/c102449/c5237525/content.html | 当期应退 免抵税额计算 |
 | 进出口税收热点问题 (2026 年 7 月) | 国家税务总局北京市税务局 | NC | T1 | VERIFICADO | http://beijing.chinatax.gov.cn/bjswj/c105390/202608/ec1a021ae3af4c368e72684ca1bbe4df.shtml | 报关后申报与核销 |
 | Administração Fiscal do Estado (STA) | STA 国家税务总局 | NC | T1 | VERIFICADO | https://www.chinatax.gov.cn/ | Autoridade de reembolso/isenção do IVA para exportação |
 | GACC — declaração de exportação como base de verificação do IVA-reembolso | Administração Geral das Alfândegas da China (海关总署 GACC) | NC | T1/T2 | VERIFICADO | http://www.customs.gov.cn/ | Os dados relativos à declaração aduaneira de exportação são comparados pelas autoridades fiscais para verificar a elegibilidade da restituição/isenção do IVA à exportação |

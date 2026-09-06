@@ -9,7 +9,7 @@
   "status": "PASS"
  },
  "FR": {
-  "max": 0.4319,
+  "max": 0.4317,
   "pair": [
    "AB-260905-V02_Changan_UNI_Z.fr.md",
    "AB-260905-V05_Changan_CS55PLUS.fr.md"
@@ -18,16 +18,16 @@
   "status": "PASS"
  },
  "DE": {
-  "max": 0.4,
+  "max": 0.3981,
   "pair": [
    "AB-260903-V01_Geely_Emgrand_2024.de.md",
-   "AB-260903-V03_Changan_CS75PLUS_2024.de.md"
+   "AB-260904-V01_Chery_Arrizo8.de.md"
   ],
   "n": 80,
   "status": "PASS"
  },
  "ES": {
-  "max": 0.4202,
+  "max": 0.4201,
   "pair": [
    "AB-260905-V02_Changan_UNI_Z.es.md",
    "AB-260905-V05_Changan_CS55PLUS.es.md"
@@ -36,7 +36,7 @@
   "status": "PASS"
  },
  "PT": {
-  "max": 0.4241,
+  "max": 0.4242,
   "pair": [
    "AB-260905-V02_Changan_UNI_Z.pt.md",
    "AB-260905-V05_Changan_CS55PLUS.pt.md"
@@ -45,7 +45,7 @@
   "status": "PASS"
  },
  "JA": {
-  "max": 0.3492,
+  "max": 0.356,
   "pair": [
    "AB-260905-V02_Changan_UNI_Z.ja.md",
    "AB-260905-V05_Changan_CS55PLUS.ja.md"
@@ -54,7 +54,7 @@
   "status": "PASS"
  },
  "KO": {
-  "max": 0.3622,
+  "max": 0.3617,
   "pair": [
    "AB-260905-V02_Changan_UNI_Z.ko.md",
    "AB-260905-V05_Changan_CS55PLUS.ko.md"
@@ -63,7 +63,7 @@
   "status": "PASS"
  },
  "VI": {
-  "max": 0.3843,
+  "max": 0.3836,
   "pair": [
    "AB-260905-V02_Changan_UNI_Z.vi.md",
    "AB-260905-V05_Changan_CS55PLUS.vi.md"
@@ -72,7 +72,7 @@
   "status": "PASS"
  },
  "TH": {
-  "max": 0.3746,
+  "max": 0.3749,
   "pair": [
    "AB-260905-V02_Changan_UNI_Z.th.md",
    "AB-260905-V05_Changan_CS55PLUS.th.md"
@@ -81,7 +81,7 @@
   "status": "PASS"
  },
  "ID": {
-  "max": 0.4134,
+  "max": 0.4145,
   "pair": [
    "AB-260903-V01_Geely_Emgrand_2024.id.md",
    "AB-260904-V01_Chery_Arrizo8.id.md"
@@ -90,7 +90,7 @@
   "status": "PASS"
  },
  "AR": {
-  "max": 0.3764,
+  "max": 0.3692,
   "pair": [
    "AB-260905-V02_Changan_UNI_Z.ar.md",
    "AB-260905-V05_Changan_CS55PLUS.ar.md"
@@ -99,7 +99,7 @@
   "status": "PASS"
  },
  "ZH": {
-  "max": 0.3278,
+  "max": 0.3276,
   "pair": [
    "AB-260905-V02_Changan_UNI_Z.zh.md",
    "AB-260905-V05_Changan_CS55PLUS.zh.md"

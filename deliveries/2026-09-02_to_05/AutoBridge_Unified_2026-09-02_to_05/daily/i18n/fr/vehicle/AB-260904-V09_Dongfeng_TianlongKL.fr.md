@@ -2,7 +2,7 @@
 
 ## OEuvre Métadonnées
 - ** Titre du référencement**: Dongfeng Tianlong KL Tractor Specs & Export Guide (DDi11 465, GCW 40t)
-- **Description détaillée**: Dongfeng Tianlong KL 6x4 tête de tracteur — Longqing DDi11 10.8 L diesel 343 kW / 2240 N·m, 14-speed (option AMT), 40 t GCW, plus la puissance de la cote et les vérifications de la variante les exportateurs ont besoin.
+- **Description détaillée**: Dongfeng Tianlong KL 6x4 tête de tracteur — Longqing DDi11 10.8 L diesel 343 kW 2240 N·m, 14-speed (option AMT), 40 t GCW, plus la puissance de la cote et les vérifications de la variante les exportateurs ont besoin.
 - **URL suggérée**: /véhicules/dongfeng-tianlong-kl/
 - ** H1 **: Dongfeng Tianlong KL Tête de tracteur lourd: Caractéristiques de la motorisation et du châssis du marché chinois
 - **Mot-clé principal**: exportation de spécifications de tracteurs dongfeng tianlong kl
@@ -26,14 +26,14 @@ Les acheteurs de camions lourds ne font pas d'achats de listes d'équipement —
 Les chiffres 343 kW et 337 kW sont **réalisés par rapport à la puissance nette** sur différentes bases; présenter les deux avec leurs étiquettes plutôt que de les choisir. Le plateau du couple (1100–1600 tr/min) est ce qui compte pour le transport de la nuance.
 
 ## Boîte de vitesses, essieu et poids du train
-- **Gearbox**: Dongfeng ** DT1422 / DT14 14-speed ** (Ligne de technologie Volvo), avec une option **AMT** — état manuel vs AMT sur la commande.
+- **Gearbox**: Dongfeng ** DT1422 DT14 14-speed ** (Ligne de technologie Volvo), avec une option **AMT** — état manuel vs AMT sur la commande.
 - **Drive**: tête de tracteur 6x4; le rapport entre l'essieu arrière et la route doit être choisi (croisière en autoroute vs forte qualité).
 - **RTM (rétracteur seul)**: ** 25 t **; **poids de la courbe d'environ 8.8 t **.
 - ** Poids combiné brut (GCW) du train**: ** 40 t ** — le chiffre de conception pour la remorque et la charge utile correspondantes.
 
 ## Variante de la limite — Ne pas mélanger la ligne de démarcation
 - **Cette page: DDi11E465-60 (465 PS).**
-- La gamme KL plus large offre également des moteurs ** 430 / 520 / 560 PS ** et des versions **gaz naturel (LNG/CNG)**; ce sont des groupes motopropulseurs séparés avec des spécifications différentes en matière de couple, de carburant et de châssis. Citer un chiffre variable pour le gazole 465 est une erreur.
+- La gamme KL plus large offre également des moteurs ** 430 520 560 PS ** et des versions **gaz naturel (LNG/CNG)**; ce sont des groupes motopropulseurs séparés avec des spécifications différentes en matière de couple, de carburant et de châssis. Citer un chiffre variable pour le gazole 465 est une erreur.
 - Le rapport d'essieu, la boîte de vitesses (manuelle/AMT) et la cabine (haute/base toiture, sommier) sont sélectionnés et modifient les spécifications fournies.
 
 ## Chassis et contrôles de cabine pour l'exportation
@@ -65,18 +65,18 @@ Aucun prix à l'exportation n'est publié. Demande avec **Pays de destination ·
 - IMAGE_RIGHTS_STATUS: FAIL (aucun actif autorisé capturé; un détenteur de place ou -tain vieille image - Note n'est pas accepté)
 - C'est une question de "relation" Aucune image réutilisable ne peut être sécurisée: Wikimedia Commons/Flickr sont inaccessibles depuis l'environnement de recherche, les bibliothèques de stock nécessitent un accès authentifié API/licence, et une image de page web OEM n'est PAS une subvention de réutilisation commerciale; aucune photo appartenant à AutoBridge n'existe. Il a gardé la FAIL plutôt que de l'affirmer.
 - ALAT par langue:
-  - **EN**: AutoBridge export-buyer reference — Dongfeng Tianlong KL, petrol/diesel Chinese-market vehicle / heavy tractor truck
-  - **FR**: Référence AutoBridge pour acheteurs export — Dongfeng Tianlong KL, véhicule thermique (marché chinois) / tracteur routier lourd
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Dongfeng Tianlong KL, Verbrenner (chinesischer Markt) / schwere Sattelzugmaschine
-  - **ES**: Referencia AutoBridge para compradores de exportación — Dongfeng Tianlong KL, vehículo de combustión (mercado chino) / cabeza tractora pesada
-  - **PT**: Referência AutoBridge para compradores de exportação — Dongfeng Tianlong KL, veículo a combustão (mercado chinês) / cavalo mecânico pesado
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Dongfeng Tianlong KL, 中国市場仕様 内燃機関車 / 大型トラクターヘッド
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Dongfeng Tianlong KL, 중국 시장 내연기관 차량 / 대형 트랙터 트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Dongfeng Tianlong KL, xe động cơ đốt trong (thị trường Trung Quốc) / đầu kéo hạng nặng
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Dongfeng Tianlong KL, รถเครื่องยนต์สันดาป (ตลาดจีน) / หัวลากบรรทุกหนัก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Dongfeng Tianlong KL, kendaraan mesin pembakaran (pasar Tiongkok) / truk traktor berat
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Dongfeng Tianlong KL, مركبة بمحرك احتراق (سوق الصين) / رأس قاطرة ثقيل
-  - **ZH**: AutoBridge 出口采购参考｜Dongfeng Tianlong KL, 中国市场燃油车 / 重型牵引车
+  - **EN**: AutoBridge export-buyer reference — Dongfeng Tianlong KL, petrol/diesel Chinese-market vehicle heavy tractor truck
+  - **FR**: Référence AutoBridge pour acheteurs export — Dongfeng Tianlong KL, véhicule thermique (marché chinois) tracteur routier lourd
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Dongfeng Tianlong KL, Verbrenner (chinesischer Markt) schwere Sattelzugmaschine
+  - **ES**: Referencia AutoBridge para compradores de exportación — Dongfeng Tianlong KL, vehículo de combustión (mercado chino) cabeza tractora pesada
+  - **PT**: Referência AutoBridge para compradores de exportação — Dongfeng Tianlong KL, veículo a combustão (mercado chinês) cavalo mecânico pesado
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Dongfeng Tianlong KL, 中国市場仕様 内燃機関車 大型トラクターヘッド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Dongfeng Tianlong KL, 중국 시장 내연기관 차량 대형 트랙터 트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Dongfeng Tianlong KL, xe động cơ đốt trong (thị trường Trung Quốc) đầu kéo hạng nặng
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Dongfeng Tianlong KL, รถเครื่องยนต์สันดาป (ตลาดจีน) หัวลากบรรทุกหนัก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Dongfeng Tianlong KL, kendaraan mesin pembakaran (pasar Tiongkok) truk traktor berat
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Dongfeng Tianlong KL, مركبة بمحرك احتراق (سوق الصين) رأس قاطرة ثقيل
+  - **ZH**: AutoBridge 出口采购参考｜Dongfeng Tianlong KL, 中国市场燃油车 重型牵引车
 
 ## Sources et vérification
 | Titre de la source | Organisation | Marché | URL | Vérification | Confiance | Faits corroborés |

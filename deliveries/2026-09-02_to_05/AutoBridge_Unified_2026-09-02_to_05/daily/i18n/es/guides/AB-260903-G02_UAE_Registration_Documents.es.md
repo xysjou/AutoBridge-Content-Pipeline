@@ -33,7 +33,7 @@ Requisitos notificados (con orientación posterior, que se confirmarán con el e
 
 ## Función y IVA: Figuras reportadas, No Números fijos
 - Los guías de futuro citan comúnmente ** alrededor de 5% aranceles aduaneros sobre valor CIF (Contexto arancelario externo común GCC) y alrededor de 5% IVA**.
-- Tratar tanto como valores **reportados y sensibles al tiempo**: la tasa aplicable puede depender del tipo de vehículo, clasificación de SH, manejo de zona libre vs continental y reglas federales actuales. **Clasificar el código HS exacto → obtener la línea arancelaria actual → confirmar el tratamiento del IVA sobre la base aduanera aplicable.** No hornee 5% / 5% en una cotización del cliente como garantizado.
+- Tratar tanto como valores **reportados y sensibles al tiempo**: la tasa aplicable puede depender del tipo de vehículo, clasificación de SH, manejo de zona libre vs continental y reglas federales actuales. **Clasificar el código HS exacto → obtener la línea arancelaria actual → confirmar el tratamiento del IVA sobre la base aduanera aplicable.** No hornee 5% 5% en una cotización del cliente como garantizado.
 - La UAE ha señalado una política nacional de EV** con incentivos direccionales (por ejemplo, medidas de registro, estacionamiento y carga/tolones); son de orientación normativa y de tiempo sensibles, confirman oficialmente la disponibilidad actual y elegibilidad.
 
 ## El paso de registro de RTA (Mulkiya)
@@ -41,7 +41,7 @@ Después de la liberación de aduanas, el comprador aplica al ACR con (reportado
 
 ## Qué recomienda esta guía para confirmar antes de pago
 1. **Emirato de entrada** y el actual calendario de documentos aduaneros del emirato.
-2. **Exacto Código HS** y la línea de derechos/IVAs** corriente ** de las costumbres federales de los Emiratos Árabes Unidos, sustituyen el número de denuncias 5% / 5% por cifras verificadas.
+2. **Exacto Código HS** y la línea de derechos/IVAs** corriente ** de las costumbres federales de los Emiratos Árabes Unidos, sustituyen el número de denuncias 5% 5% por cifras verificadas.
 3. **GCC/GSO ruta de conformidad y certificado** para el modelo específico (y el papel actual del MoIAT).
 4. **Invoz/B/L/CO consistencia** (VIN, valor, partes, origen).
 5. **Insurance + inspection + identity** preparedness for the RTA Mulkiya step; EV incentives eligibility if relevant.
@@ -82,12 +82,12 @@ Después de la liberación de aduanas, el comprador aplica al ACR con (reportado
 ## Fuentes " Verificación "
 | Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |
 |---|---|---|---|---|---|---|
-| Oriente Medio (Saudi/Dubai) guía de impuestos | 11467 material de transporte | UAE | https://m.11467.com/product/d43094475.htm | 2026-09-03 | CROSS_CHECKED | Documentos de despeje; coherencia de factura/B/L/CO; secuencia de RTA/Mulkiya |
-| Lista de documentos NEV export-to-Dubai | 11467 material de transporte | UAE | https://m.11467.com/product/d31835834.htm | 2026-09-03 | TIEMPO_SENSITIVE | Reportado ~ 5% derechos/~ 5% IVA; GCC/GSO + ESMA/MoIAT nota |
-| Los EV chinos recibieron la bienvenida en el Oriente Medio (política nacional de EV de los Emiratos Árabes Unidos) | Haiwainet / Toutiao | UAE | http://m.toutiao.com/group/7392857722481410569/ | 2026-09-03 | TIEMPO_SENSITIVE | Incentivos nacionales de política de protección de los derechos de los niños |
+| Oriente Medio (Saudi/Dubai) guía de impuestos | material de transporte | UAE | https://m.11467.com/product/d43094475.htm | 2026-09-03 | CROSS_CHECKED | Documentos de despeje; coherencia de factura/B/L/CO; secuencia de RTA/Mulkiya | 11467
+| Lista de documentos NEV export-to-Dubai | material de transporte | UAE | https://m.11467.com/product/d31835834.htm | 2026-09-03 | TIEMPO_SENSITIVE | Reportado ~ 5% derechos/~ 5% IVA; GCC/GSO + ESMA/MoIAT nota | 11467
+| Los EV chinos recibieron la bienvenida en el Oriente Medio (política nacional de EV de los Emiratos Árabes Unidos) | Haiwainet Toutiao | UAE | http://m.toutiao.com/group/7392857722481410569/ | 2026-09-03 | TIEMPO_SENSITIVE | Incentivos nacionales de política de protección de los derechos de los niños |
 *Texto de la evidencia: las fuentes son guías de reenvío (T3) y medios chinos — no se captó ninguna página principal de UAE federal-costos/RTA. Por lo tanto, se presentan incentivos de deber/VAT/fees y EV como reportados y sensibles al tiempo, que se confirmarán con las costumbres federales de los Emiratos Árabes Unidos y el RTA del emirato de entrada. No se afirma una tasa fija. *
 
-| Limpieza de los efectos personales (importación de vehículos nuevos o utilizados; documentos necesarios; 5% arancel aduanero sobre los vehículos evaluados va | Dubai Customs (Gobierno de Dubai) | DUBAI | https://www.dubaicustoms.gov.ae/en/eServices/ServicesForIndividuals/Pages/ClearanceOfPersonalEffects.aspx | 2026-09-04 | VERIFIED | 5% derechos sobre el valor de la aduana; factura original / lista de embalaje / factura de embarque / pasaporte o copia de identificación de Emirates; inspección " valoración |
+| Limpieza de los efectos personales (importación de vehículos nuevos o utilizados; documentos necesarios; 5% arancel aduanero sobre los vehículos evaluados va | Dubai Customs (Gobierno de Dubai) | DUBAI | https://www.dubaicustoms.gov.ae/en/eServices/ServicesForIndividuals/Pages/ClearanceOfPersonalEffects.aspx | 2026-09-04 | VERIFIED | 5% derechos sobre el valor de la aduana; factura original lista de embalaje factura de embarque pasaporte o copia de identificación de Emirates; inspección " valoración |
 | Mecanismo para determinar el valor de la carga de pasajeros (depreciación por años) PDF | Dubai Customs | DUBAI | https://www.dubaicustoms.gov.ae/en/PoliciesAndNotices/Policies/mechanismfordeterminingthevalueofpassengerscargotr.pdf | 2026-09-04 | VERIFIED | vehículos usados valorados por el calendario de depreciación anual antes del servicio |
 | Guía de IVA de comercio electrónico (VATGEC1) § 3.5.1 — importación IVA 5% sobre valor aduanero incl. flete, seguro, aduanas, | UAE Federal Tax Authority (FTA) | UAE | https://tax.gov.ae/ | 2026-09-04 | VERIFIED | importación IVA 5%; base de IVA = valor de aduana (CIF) + servicio |
 | Vehículos registrados (certificación o transferencia/exportación/possesión de los clientes; identificación de los Emiratos; pasaporte/res | UAE Federal Government Portal (u.ae) | UAE | https://u.ae/en/information-and-services/transportation/driving-and-licensing/registering-vehicles | 2026-09-04 | VERIFIED | registro de documentos; certificado de aduanas es el puente de autorización a registro |

@@ -1,7 +1,7 @@
 # Autoexport-Verkaufsverträge: die Klauseln, die tatsächlich die Zahlung, Lieferung und Streitigkeiten kontrollieren
 ## SEO Metadaten
 - **SEO Titel **: Fahrzeug Export Sales Contract Clauses & Risk Guide
-- **Meta Description**: Was ein Fahrzeug-Ausfuhrkaufvertrag enthalten muss — VR China Civil Code Art 596 Essentials, Incoterms Risikoübertragung, Eigentumsvorbehalt, Verletzung / Reklamation Fenster, Streitbeilegung und Apostille, plus Fahrzeugzustand Offenlegung.
+- **Meta Description**: Was ein Fahrzeug-Ausfuhrkaufvertrag enthalten muss — VR China Civil Code Art 596 Essentials, Incoterms Risikoübertragung, Eigentumsvorbehalt, Verletzung Reklamation Fenster, Streitbeilegung und Apostille, plus Fahrzeugzustand Offenlegung.
 - **Vorgeschlagene URL**: /guides/vehicle-export-sales-contract-clauses/
 - ** H1 **: Schlüsselklauseln in einem Fahrzeugexport-Verkaufsvertrag: Zahlung, Titel, Risiko und Streitigkeiten
 - ** Primäres Keyword**: Schlüsselklauseln für den Fahrzeugexportkaufvertrag
@@ -21,29 +21,29 @@ Nach Artikel 596 des Zivilgesetzbuches der VR China** sollte ein Kaufvertrag Fol
 - **Sprachversionen** und welcher Text bei Zweisprachigkeit vorherrscht.
 
 ## Klausel Block 2 — Risikotransfer: Lassen Sie die Incoterms darüber entscheiden
-- Risiko von Verlust / Schaden geht nach der vereinbarten ** Handelsbedingungen (geben Sie die Incoterms-Version explizit an, z. B. Incoterms 2020) ** - FOB, CIF / CIP, DAP usw. setzen jeweils einen anderen Übertragungspunkt.
+- Risiko von Verlust Schaden geht nach der vereinbarten ** Handelsbedingungen (geben Sie die Incoterms-Version explizit an, z. B. Incoterms 2020) ** - FOB, CIF CIP, DAP usw. setzen jeweils einen anderen Übertragungspunkt.
 - Ohne eine vereinbarte Laufzeit geht das Risiko in der Regel ** bei Lieferung an den Käufer (oder seinen benannten Spediteur) **.
 Schreibe den Begriff, die Version und den **benannten Ort/Hafen** genau: "CIF" ohne benannten Hafen oder ein nicht spezifiziertes Incoterms-Jahr lädt zu einem Streit darüber ein, wer Transportschäden trägt - koordinieren Sie die Marine-Versicherung und die Ladeführer.
 
 ## Klausel Block 3 — Eigentumsvorbehalt (Schutz eines unbezahlten Verkäufers)
-Ein Verkäufer kann ** Titel reservieren, bis die vollständige Zahlung erhalten ist** (unterscheidet vom Risiko, das möglicherweise bereits bestanden hat): Bis zur vollständigen Bezahlung darf der Käufer ** die Fahrzeuge nicht verpfänden oder weiterverkaufen **. Diese Klausel ist besonders wertvoll gegen Verzug bei inszenierten Sendungen - aber beachten Sie, dass ihre Durchsetzbarkeit vom **governierenden Gesetz abhängt und ob die Eigentumsvorbehaltung in der Gerichtsbarkeit des Käufers * anerkannt / registriert ist, was der Anwalt bestätigen sollte.
+Ein Verkäufer kann ** Titel reservieren, bis die vollständige Zahlung erhalten ist** (unterscheidet vom Risiko, das möglicherweise bereits bestanden hat): Bis zur vollständigen Bezahlung darf der Käufer ** die Fahrzeuge nicht verpfänden oder weiterverkaufen **. Diese Klausel ist besonders wertvoll gegen Verzug bei inszenierten Sendungen - aber beachten Sie, dass ihre Durchsetzbarkeit vom **governierenden Gesetz abhängt und ob die Eigentumsvorbehaltung in der Gerichtsbarkeit des Käufers * anerkannt registriert ist, was der Anwalt bestätigen sollte.
 
 ## Klausel Block 4 - Breach, Late Performance und Claim Windows
-- **Verspätete Zahlung / verspätete Lieferung:** eine pro Tag liquidierte Schadensrate (oft ausgedrückt in pro mille, ‰, pro Tag) mit einer **maximalen überfälligen Frist, nach der der Vertrag beendet werden kann**.
-- **Qualitätsansprüche:** fixieren Sie eine ** Inspektionsfrist und ein Anspruchsfenster** nach der Ankunft; ohne einen, latent-defekten Streit wird he-said / she-said. Verbinden Sie das Fenster mit dem PSI und der realistischen Erkennung von Transit- oder Vorbestehenden Schäden.
-- Definieren Sie die **Abhilfehierarchie** (korrigieren → ersetzen → erstatten) und wer in jedem Fall die Rückgabe- / Versandkosten trägt.
+- **Verspätete Zahlung verspätete Lieferung:** eine pro Tag liquidierte Schadensrate (oft ausgedrückt in pro mille, ‰, pro Tag) mit einer **maximalen überfälligen Frist, nach der der Vertrag beendet werden kann**.
+- **Qualitätsansprüche:** fixieren Sie eine ** Inspektionsfrist und ein Anspruchsfenster** nach der Ankunft; ohne einen, latent-defekten Streit wird he-said she-said. Verbinden Sie das Fenster mit dem PSI und der realistischen Erkennung von Transit- oder Vorbestehenden Schäden.
+- Definieren Sie die **Abhilfehierarchie** (korrigieren → ersetzen → erstatten) und wer in jedem Fall die Rückgabe- Versandkosten trägt.
 
 ## Abschnitt Block 5 — Offenlegung des Fahrzeugzustands (Betrugsverhütung)
-Geben Sie wesentliche Fakten wahrheitsgemäß an: ** Version / Konfiguration, Softwareversion und jegliche Unfall- / Fluthistorie, Kilometerzähleranpassung oder Belastung / Hypothek **. Die Nicht-Offenlegung dieser ist eine häufige Quelle von Betrugsansprüchen - und interagiert mit dem PSI, was den offenbarten Zustand belegen sollte. Bei Elektrofahrzeugen sind dem Verkäufer bekannte Batteriegrad-/SOH-relevante Informationen anzugeben.
+Geben Sie wesentliche Fakten wahrheitsgemäß an: ** Version Konfiguration, Softwareversion und jegliche Unfall- Fluthistorie, Kilometerzähleranpassung oder Belastung Hypothek **. Die Nicht-Offenlegung dieser ist eine häufige Quelle von Betrugsansprüchen - und interagiert mit dem PSI, was den offenbarten Zustand belegen sollte. Bei Elektrofahrzeugen sind dem Verkäufer bekannte Batteriegrad-/SOH-relevante Informationen anzugeben.
 
 ## Klausel Block 6 — Geltendes Recht, Forum und Dokumenten-Legalisierung
 - Wählen Sie das **governierende Gesetz und Forum ** absichtlich; für grenzüberschreitende Geschäfte wird **internationales Schiedsverfahren (z. B. ICC) ** oft für die Vollstreckbarkeit nach dem New Yorker Übereinkommen vor einem ausländischen lokalen Gericht bevorzugt.
 - Dokumente, die im Ausland verwendet werden müssen (Bevollmächtigungen, Zertifikate) benötigen möglicherweise eine **Haage Apostille-Zertifizierung** (oder eine konsularische Legalisierung, wenn der Bestimmungsort keine Haager Partei ist) - Staat, der arrangiert und bezahlt.
-- Geben Sie **Anzeigeadressen, Währung, höhere Gewalt (einschließlich Hafen- / Versandunterbrechung) und die vorherrschende Sprache an **.
+- Geben Sie **Anzeigeadressen, Währung, höhere Gewalt (einschließlich Hafen- Versandunterbrechung) und die vorherrschende Sprache an **.
 
 ## Was dieser Leitfaden empfiehlt, lassen Sie nie leer
 1. **VIN/Konfigurationsanhang**, der dem Vertrag beigefügt ist (keine Mehrdeutigkeit "wie bei Mustern").
-2. **Incoterms Begriff + Version + benannter Ort ** und die übereinstimmende Risiko- / Versicherungsposition.
+2. **Incoterms Begriff + Version + benannter Ort ** und die übereinstimmende Risiko- Versicherungsposition.
 3. **Behalt des Eigentums** bis zur vollständigen Zahlung, geprüft auf Durchsetzbarkeit des Ziels.
 4. **Pro-Day-LDs, Terminierungstrigger und ein definiertes Qualitätsanspruchsfenster **, das an PSI gebunden ist.
 5. **Regierungsrecht, Schiedsgericht, Apostille Verantwortung ** und vorherrschende Sprache.
@@ -85,18 +85,18 @@ Geben Sie wesentliche Fakten wahrheitsgemäß an: ** Version / Konfiguration, So
 | Quelle: | Organisation | Markt | URL | Geprüft | Vertrauen | Belegte Fakten |
 |---|---|---|---|---|---|---|
 | VR China Zivilgesetz Art. 596 Kaufvertragsklauseln | FindLaw (Rechtsportal) | CN | https://www.findlaw.cn/wenda/q_60484893.html | 2026-09-03 | CROSS_CHECKED (statutischer Artikel wird über ein sekundäres Rechtsportal zitiert; keine offizielle NPC-Quelle) | Wesentlicher Vertragsinhalt |
-| Modell des Exportfahrzeug-Verkaufsvertrags (Risiko-/Titelbindung) | 110ask Legal | Global | https://m.110ask.com/fanben/601005122281423969.html | 2026-09-03 | CROSS_CHECKED | Risikoübertragung; Eigentumsvorbehalt; Offenlegung der Bedingungen |
+| Modell des Exportfahrzeug-Verkaufsvertrags (Risiko-/Titelbindung) | Legal | Global | https://m.110ask.com/fanben/601005122281423969.html | 2026-09-03 | CROSS_CHECKED | Risikoübertragung; Eigentumsvorbehalt; Offenlegung der Bedingungen | 110ask
 | Kernklauseln für den Kaufvertrag (Verstoß/Titel/Konfigurationsliste) | 66Law | CN | https://m.66law.cn/question/56427049.aspx | 2026-09-03 | CROSS_CHECKED | LDs, Claim-Fenster, Konfigurationsanhang |
 | Ausfuhrvertrag Incoterms/Disputes/Apostille | Gütertransportgut | Global | https://m.11467.com/product/d43019461.htm | 2026-09-03 | SINGLE_SOURCEN | Incoterms Versionierung, ICC Schiedsverfahren, Apostille |
 *Bezugspunkt: Art 596 Inhalt ist CROSS_ CHECKED nur über ein sekundäres Rechtsportal — VERIFIED benötigt den offiziellen Text des Zivilgesetzbuches der VR China (NPC/Regierung), der nicht erfasst wurde; etikettieren Sie ihn nicht VERIFIED. Die Durchsetzbarkeit von Eigentumsvorbehalt, Schiedsverfahren und Apostille hängt vom gewählten geltenden Recht und Ziel ab und muss von einem qualifizierten Anwalt bestätigt werden. Vertragsmodelle sind nur strukturelle Referenzen. *
 
-| 中华人民共和国民法典 》 第三编 合同 (第五百九十五 / 五百九十六 / 五百九十七条逐字) | 最高人民检察院 (Oberstes Volksstaatsanwaltschaft) — offic | CN | https://www.spp.gov.cn/spp/ssmfdyflvdtpgz/202008/t20200831_478413.shtml | 2026-09-04 | ÜBERPRÜFUNG |  |
-| 中华人民共和国民法典 全文 (政府门户转载) | 云南省司法厅 (sft.yn.gov.cn) / 开封市人大 (kfsrd.henanrd.go) | CN | https://sft.yn.gov.cn/pf/yunnan/PZhengCeFaGui/2020061631_2.shtml | 2026-09-04 | ÜBERPRÜFUNG |  |
+| 中华人民共和国民法典 》 第三编 合同 (第五百九十五 五百九十六 五百九十七条逐字) | 最高人民检察院 (Oberstes Volksstaatsanwaltschaft) — offic | CN | https://www.spp.gov.cn/spp/ssmfdyflvdtpgz/202008/t20200831_478413.shtml | 2026-09-04 | ÜBERPRÜFUNG |  |
+| 中华人民共和国民法典 全文 (政府门户转载) | 云南省司法厅 开封市人大 (kfsrd.henanrd.go) | CN | https://sft.yn.gov.cn/pf/yunnan/PZhengCeFaGui/2020061631_2.shtml | 2026-09-04 | ÜBERPRÜFUNG |  |
 
 ## Editorial Review
-- **Autor / Rezensent**: [AutoBridge Export Editorial Team](/Autoren/) · Methode nach unserer [Editorial Policy](/editorial-policy/]
+- **Autor Rezensent**: [AutoBridge Export Editorial Team](/Autoren/) · Methode nach unserer [Editorial Policy](/editorial-policy/]
 - **Zuletzt überprüft**: 2026-09-05
-- **Referenzmarkt / Umfang **: Globale Vertragsstruktur (PRC-Statuten identifiziert; Durchsetzbarkeitsgerichtsbarkeitsspezifisch)
+- **Referenzmarkt Umfang **: Globale Vertragsstruktur (PRC-Statuten identifiziert; Durchsetzbarkeitsgerichtsbarkeitsspezifisch)
 - **Verifizierungsmethode**: Statut + Synthese von Rechtspraxis; Vorbehalt der Beratung; keine gerichtsspezifische rechtliche Schlussfolgerung übererreicht
 - **Editorialstandard**: Recherchiert und geschrieben aus den oben aufgeführten Quellen (Desk-Recherche; kein Fahren aus erster Hand, Teardown oder Import wird beansprucht). Das Vertrauen in die Quelle wird pro Zeile angezeigt; jeder Punkt, den wir nicht unabhängig bestätigen können, wird als Verifizierungselement dargestellt und nicht als Tatsache behauptet.
 #AutoBridge #SalesContract #PaymentTerms #ExportProcurement #DisputeClause

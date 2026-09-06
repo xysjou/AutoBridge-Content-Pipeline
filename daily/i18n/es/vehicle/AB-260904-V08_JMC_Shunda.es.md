@@ -22,7 +22,7 @@ Para un camión ligero el comprador no está comparando los niveles de los borde
 | Cama de la deriva (L×W×H) | **3700 × 1850 × 380 mm** |
 | Peso bruto del vehículo (GVW) | **4.27 t** |
 | Peso de la curvatura | ** 2.145 t ** (la versión de la caja de 3.7 m es de unos 2.435 t) |
-| Carga de pago nominal | about **1.93–2.0 t — final value per the MIIT announcement / certificate** |
+| Carga de pago nominal | about **1.93–2.0 t — final value per the MIIT announcement certificate** |
 | Base de ruedas | **2800 mm** |
 | Volteando círculo | **5.5 m** |
 | Emission | China- 6 diesel |
@@ -30,7 +30,7 @@ Para un camión ligero el comprador no está comparando los niveles de los borde
 La carga es la cifra que más a menudo causa problemas de cumplimiento: una línea de marketing "sobre dos tonos" no es una calificación legal. La carga útil nominal autorizada es la que aparece en el anuncio público **MIIT y el certificado de conformidad del vehículo**, y cambia con el tipo de cuerpo (dropside vs box van) y el peso de la curva.
 
 ## Motor-Versión Boundary
-- ** JX493ZLQ6D (esta página): 2.499 L, 90 kW / 122 PS.**
+- ** JX493ZLQ6D (esta página): 2.499 L, 90 kW 122 PS.**
 - Un ** 2.8 L 493 ** y un ** 116 PS ** melodía existen en otras partes de la línea Shunda; citar 116 PS para una unidad 90 kW — o un desplazamiento de 2.8 L para un motor de 2.499 L — es un error de configuración.
 - El peso de la curva difiere entre los cuerpos de la ida y la tina de la caja, que se alimenta directamente en la carga útil; nunca reutiliza la carga útil de un cuerpo por otro.
 
@@ -39,7 +39,7 @@ La rueda de 2800 mm y el círculo de giro de 5.5 m se adaptan a la distribución
 
 ## Verificación del comprador de ultramar antes del pago
 - Para un camión ligero el formulario de unidad 4 × 2 (o otro) es un campo de certificado que afecta la capacidad de carga y la adaptación, confirme por anuncio de chasis; la prosa de referencia fija GVW/payload pero deja el formulario de unidad al certificado.
-1. **Exacto código motor/desplazamiento/poder** contra el VIN (2.499 L / 90 kW vs 2.8 L / 116 PS).
+1. **Exacto código motor/desplazamiento/poder** contra el VIN (2.499 L 90 kW vs 2.8 L 116 PS).
 2. **Carga de pago rota y GVW** del anuncio y certificado MIIT, no un folleto número de ronda.
 3. ** Tipo de cuerpo** (dropside/box/especial) y su peso en la curva; calificación de vehículo completa para cualquier ajuste.
 4. **Sulfuro de combustible de diesel y tratamiento posterior** compatibilidad por la guía de emisión/combustible; China- 6 no es en sí misma la aprobación en el extranjero.
@@ -50,7 +50,7 @@ No se publica precio de exportación. Consulta con **Destinación País · Canti
 
 ## Preguntas frecuentes
 *¿Qué es el GVW de Shunda?  and  payload?** GVW 4.27 t with rated payload around 1.93–2.0 t; confirmar la carga útil exacta en el anuncio MIIT/certificado para el cuerpo específico.
-**¿Qué motor cubre esta página?** El diesel JX493ZLQ6D 2.499 L a 90 kW (122 PS); una versión 2.8 L / 116 PS es una unidad diferente.
+**¿Qué motor cubre esta página?** El diesel JX493ZLQ6D 2.499 L a 90 kW (122 PS); una versión 2.8 L 116 PS es una unidad diferente.
 **¿Por qué importa el peso de la curva?** Se establece la carga útil usable y los cambios entre los cuerpos desplegable y de la caja-van — no compartan una carga útil en todos los cuerpos.
 **¿El camión China-6 está aprobado para mi mercado?** No automáticamente; la emisión de destino y la aprobación de tipo son separados.
 
@@ -67,26 +67,26 @@ No se publica precio de exportación. Consulta con **Destinación País · Canti
 - IMAGE_RIGHTS_STATUS: FAIL (no se acepta ningún activo con licencia; no se acepta un titular de posición o “retiene la imagen antigua”)
 - BLOCK_REASON: No se puede asegurar una imagen reutilizable: Wikimedia Commons/Flickr no son accesibles desde el entorno de investigación, las bibliotecas de stock requieren acceso a API/licencia autenticada, y una imagen de página web OEM NO es una subvención comercial de reutilización; no existe foto de propiedad de AutoBridge. Se quedó con la FAIL en lugar de afirmarse.
 - ALT por idioma:
-  - **EN**: AutoBridge export-buyer reference — JMC Shunda, petrol/diesel Chinese-market vehicle / light truck
-  - **FR**: Référence AutoBridge pour acheteurs export — JMC Shunda, véhicule thermique (marché chinois) / camion léger
-  - **DE**: AutoBridge-Referenz für Exportkäufer — JMC Shunda, Verbrenner (chinesischer Markt) / Leicht-Lkw
-  - **ES**: Referencia AutoBridge para compradores de exportación — JMC Shunda, vehículo de combustión (mercado chino) / camión ligero
-  - **PT**: Referência AutoBridge para compradores de exportação — JMC Shunda, veículo a combustão (mercado chinês) / caminhão leve
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜JMC Shunda, 中国市場仕様 内燃機関車 / 小型トラック
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜JMC Shunda, 중국 시장 내연기관 차량 / 경트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — JMC Shunda, xe động cơ đốt trong (thị trường Trung Quốc) / xe tải nhẹ
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — JMC Shunda, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถบรรทุกขนาดเล็ก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — JMC Shunda, kendaraan mesin pembakaran (pasar Tiongkok) / truk ringan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — JMC Shunda, مركبة بمحرك احتراق (سوق الصين) / شاحنة خفيفة
-  - **ZH**: AutoBridge 出口采购参考｜JMC Shunda, 中国市场燃油车 / 轻卡
+  - **EN**: AutoBridge export-buyer reference — JMC Shunda, petrol/diesel Chinese-market vehicle light truck
+  - **FR**: Référence AutoBridge pour acheteurs export — JMC Shunda, véhicule thermique (marché chinois) camion léger
+  - **DE**: AutoBridge-Referenz für Exportkäufer — JMC Shunda, Verbrenner (chinesischer Markt) Leicht-Lkw
+  - **ES**: Referencia AutoBridge para compradores de exportación — JMC Shunda, vehículo de combustión (mercado chino) camión ligero
+  - **PT**: Referência AutoBridge para compradores de exportação — JMC Shunda, veículo a combustão (mercado chinês) caminhão leve
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜JMC Shunda, 中国市場仕様 内燃機関車 小型トラック
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜JMC Shunda, 중국 시장 내연기관 차량 경트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — JMC Shunda, xe động cơ đốt trong (thị trường Trung Quốc) xe tải nhẹ
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — JMC Shunda, รถเครื่องยนต์สันดาป (ตลาดจีน) รถบรรทุกขนาดเล็ก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — JMC Shunda, kendaraan mesin pembakaran (pasar Tiongkok) truk ringan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — JMC Shunda, مركبة بمحرك احتراق (سوق الصين) شاحنة خفيفة
+  - **ZH**: AutoBridge 出口采购参考｜JMC Shunda, 中国市场燃油车 轻卡
 
 ## Fuentes " Verificación "
 | Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |
 |---|---|---|---|---|---|---|
 | Shunda pequeño camión JX493ZLQ6D 122PS compatible con el valor 2t | 360che (Toutiao) | CN | http://m.toutiao.com/group/7296380434664292918/ | 2026-09-04 | CROSS_CHECKED | Motor, potencia, GVW, carga de framing |
 | Shunda cama de pequeño camión, GVW, peso de la culata | 360che (Toutiao) | CN | http://m.toutiao.com/group/6854066453151384075/ | 2026-09-04 | CROSS_CHECKED | 3700 cama, 4.27 t, peso en la culata |
-| Shunda cargo 3.7m 116PS (en venta) | 58.com camiones | CN | https://m.58.com/sh/huochec/63510160324146x.shtml | 2026-09-04 | SINGLE_SOURCE | Versión alterna 116 PS (excluida) |
-| Shunda rueda de rodaje / círculo de giro | 360che (Toutiao) | CN | http://m.toutiao.com/group/6815508461468516878/ | 2026-09-04 | CROSS_CHECKED | 2800 mm WB, 5.5 m de giro |
+| Shunda cargo 3.7m 116PS (en venta) | camiones | CN | https://m.58.com/sh/huochec/63510160324146x.shtml | 2026-09-04 | SINGLE_SOURCE | Versión alterna 116 PS (excluida) | 58.com
+| Shunda rueda de rodaje círculo de giro | 360che (Toutiao) | CN | http://m.toutiao.com/group/6815508461468516878/ | 2026-09-04 | CROSS_CHECKED | 2800 mm WB, 5.5 m de giro |
 | Fabricantes & catálogo de productos de vehículos de motor de carretera — sistema de consulta pública | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verificar el fabricante, modelo aprobado y homologación (公告) entrada de catálogo antes de ordenar o exportar |
 | GB 16735-2019 Vehículos de carretera - Número de identificación de vehículos (VIN) | SAMR plataforma de texto completo | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | Estructura VIN y campos de datos de placa de nombre utilizados en la verificación VIN/nameplate del comprador |
 | GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Base de referencia en China condiciones técnicas de seguridad del vehículo y el cronograma actual/revisión |

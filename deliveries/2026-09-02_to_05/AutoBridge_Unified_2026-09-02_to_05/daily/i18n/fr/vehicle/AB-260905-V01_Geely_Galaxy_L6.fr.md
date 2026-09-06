@@ -4,10 +4,10 @@
 - **Référencement Titre**: Geely Galaxy L6 EM-i PHEV 2025: Guide de l'acheteur sur le marché chinois et l'exportation
 - **Description détaillée**: Marché chinois Geely Galaxy L6 hybride rechargeable EM-i: dimensions vérifiées, groupe motopropulseur EM-i, deux lignes de batterie/fourchette, et ce qu'un importateur doit confirmer par VIN.
 - ** H1 **: Geely Galaxy L6 EM-i (2025) — Spécifications du marché chinois et vérification des exportations
-- **Mot-clé principal**: Geely / 吉利银河 Galaxy L6 / 银河 L6 spécifications export
+- **Mot-clé principal**: Geely 吉利银河 Galaxy L6 银河 L6 spécifications export
 - ** Termes de recherche secondaires**: Exportation de Geely Galaxy L6; Galaxy L6 EM-i Spécifications du VHV; importations chinoises de berlines du VHV; DHT à une vitesse EM-i; plage CLTC vs WLTP
 - **URL suggérée**: /véhicules/geely-galaxy- l6/
-- **Intention de la recherche**: 了解 Geely / 吉利银河 Galaxy L6 / 银河 L6 中国版规格 -配置与出口适配性 (车型参数页)
+- **Intention de la recherche**: 了解 Geely 吉利银河 Galaxy L6 银河 L6 中国版规格 -配置与出口适配性 (车型参数页)
 - **Suggestions de lien interne**: /véhicules/geely-galaxy- l6/, /guides/incoterms- 2020-selection-guide/, /guides/export-payment-methods-t-t-lc-risk/
 - **Schema Champ d'application**: article + véhicule (aucun produit/offre/examen)
 
@@ -17,18 +17,18 @@ La Galaxy L6 EM-i (2025)** est une berline hybride rechargeable compacte constru
 La ligne EM-i est une traction avant et combine un moteur essence à aspiration naturelle 1.5 L avec un seul moteur avant grâce à une transmission hybride dédiée à une vitesse. Deux lignes de batterie/fourchette sont vendues en Chine; un importateur devrait les traiter comme des configurations différentes et commander plutôt qu ' une ligne de type < < L6 > > avec un seul numéro de gamme.
 
 ## Variantes et lignes de motorisation (marché chinois)
-- **Architecture**: FF (moteur avant/drive avant), 4-door 5-seat berline; corps 4782 / 1875 / 1489 mm, empattement 2752 mm (coché).
-- **Ingénieur**: BHE15-BFN 1.5 L naturellement aspirés, 1499 mL, 82 (112Ps) kW / 136 N·m (tableau des paramètres ZOL à source unique).
-- **Motor**: 160 kW / 262 N·m (puissance moteur contrôlée par contre; couple à source unique).
+- **Architecture**: FF (moteur avant/drive avant), 4-door 5-seat berline; corps 4782 1875 1489 mm, empattement 2752 mm (coché).
+- **Ingénieur**: BHE15-BFN 1.5 L naturellement aspirés, 1499 mL, 82 (112Ps) kW 136 N·m (tableau des paramètres ZOL à source unique).
+- **Motor**: 160 kW 262 N·m (puissance moteur contrôlée par contre; couple à source unique).
 - **Transmission**: 1 挡 DHT(EM-i 单挡混动专用变速) — un DHT à une seule vitesse, qui est la caractéristique EM-i définie par rapport à l'hybride multivitesse plus ancien.
-- **Lignes de batterie**: 8.5 / 19.09 kWh. Le fournisseur de piles à batterie n'est pas confirmé par Geely** et n'est pas intentionnellement indiqué.
-- **Taie électrique**: 60 / 140（对应8.5/19.09kWh） km CLTC for the two lines respectively; sur WLTC, la référence capturée est 48 / 115 km. Les CTTC et les CTML sont des cycles différents — ne jamais citer un numéro CLTC comme chiffre d'exportation WLTC/NEDC.
+- **Lignes de batterie**: 8.5 19.09 kWh. Le fournisseur de piles à batterie n'est pas confirmé par Geely** et n'est pas intentionnellement indiqué.
+- **Taie électrique**: 60 140（对应8.5/19.09kWh） km CLTC for the two lines respectively; sur WLTC, la référence capturée est 48 115 km. Les CTTC et les CTML sont des cycles différents — ne jamais citer un numéro CLTC comme chiffre d'exportation WLTC/NEDC.
 - **Combiné/performance**: gamme combinée CLTC jusqu'à 最高 2000 km; 0–100 km/h 7.4 s; vitesse maximale 180 km/h; réservoir de carburant 60 L; coefficient de traînée 0.26.
 
 ## Tableau des spécifications vérifiées (référence du marché chinois)
 | Spécification | Valeur | Unité | Marché | Confiance | Note de source |
 |---|---|---|---|---|---|
-| hauteur de largeur de longueur | 4782 / 1875 / 1489 | mm | CHINE | _CHECTURE | ZOL+ 搜狐双源一致 |
+| hauteur de largeur de longueur | 4782 1875 1489 | mm | CHINE | _CHECTURE | ZOL+ 搜狐双源一致 |
 | empattement | 2752 | mm | CHINE | _CHECTURE | ZOL+ 搜狐双源一致 |
 | style de corps | 4 门 5 座三厢轿车 | - Je suis désolé. | CHINE | SOURCE UNIQUE | 搜狐车型库 |
 | modèle du moteur | BHE15-BFN 1.5L 自然吸气 | - Je suis désolé. | CHINE | SOURCE UNIQUE | ZOL 参数表 |
@@ -38,9 +38,9 @@ La ligne EM-i est une traction avant et combine un moteur essence à aspiration 
 | Puissance du moteur | 160 | kW | CHINE | _CHECTURE | ZOL+ 太平洋 |
 | couple moteur | 262 | N°m | CHINE | SOURCE UNIQUE | ZOL 参数表 |
 | de transmission | 1 挡 DHT(EM-i 单挡混动专用变速) | - Je suis désolé. | CHINE | SOURCE UNIQUE | 搜狐车型库 |
-| Lignes de capacité de batterie | 8.5 / 19.09 | k Qu'est-ce que c'est ? | CHINE | SOURCE UNIQUE | ZOL 参数表 |
-| ev gamme cltc | 60 / 140（对应8.5/19.09kWh） | km | CHINE | SOURCE UNIQUE | ZOL 参数表 |
-| ev gamme wltc | 48 / 115 | km | CHINE | SOURCE UNIQUE | 太平洋汽车 |
+| Lignes de capacité de batterie | 8.5 19.09 | k Qu'est-ce que c'est ? | CHINE | SOURCE UNIQUE | ZOL 参数表 |
+| ev gamme cltc | 60 140（对应8.5/19.09kWh） | km | CHINE | SOURCE UNIQUE | ZOL 参数表 |
+| ev gamme wltc | 48 115 | km | CHINE | SOURCE UNIQUE | 太平洋汽车 |
 | gamme combinée | 最高 2000 | km | CHINE | SOURCE UNIQUE | 太平洋汽车 |
 | vitesse maximale | 180 | km/h | CHINE | SOURCE UNIQUE | ZOL 参数表 |
 | accel 0 100 | 7.4 | s | CHINE | SOURCE UNIQUE | 太平洋汽车 |

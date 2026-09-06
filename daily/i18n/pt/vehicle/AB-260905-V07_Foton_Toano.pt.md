@@ -1,13 +1,13 @@
-# Foton Toano / Tuyano (2026) — Especificações do mercado chinês de furgão grande (autocarro leve) e verificações de exportação
+# Foton Toano Tuyano (2026) — Especificações do mercado chinês de furgão grande (autocarro leve) e verificações de exportação
 
 ## SEO Meta- dados
 - ** Título SEO**: Foton Toano (Tuyano) Grande Van: Especificações de Mercado Chinês e Guia de Comprador de Exportação
-- ** Descrição do Meta**: China-mercado Foton Toano ônibus leve / van grande: distâncias curtas e longas, torque diesel, ampla faixa de assentos, e por que as conversões refrigeradas são avaliadas separadamente.
-- ** H1 **: Foton Toano / Tuyano (2026) — Especificações de comércio chinês de furgão grande (autocarro leve) e verificações de exportação
-- **Chave-chave primária**: Foton / 福田 Toano / 图雅诺 大 VAN(轻客) especificações de exportação
+- ** Descrição do Meta**: China-mercado Foton Toano ônibus leve van grande: distâncias curtas e longas, torque diesel, ampla faixa de assentos, e por que as conversões refrigeradas são avaliadas separadamente.
+- ** H1 **: Foton Toano Tuyano (2026) — Especificações de comércio chinês de furgão grande (autocarro leve) e verificações de exportação
+- **Chave-chave primária**: Foton 福田 Toano 图雅诺 大 VAN(轻客) especificações de exportação
 - ** Termos de pesquisa secundários**: Exportação de Foton Toano; Tuyano van; ônibus leve chinês; van de passageiros; conversão de van de carga
 - ** URL sugerida**: /veículos/foton-toano/
-- ** Intenção de pesquisa**: 了解 Foton / 福田 Toano / 图雅诺 大VAN（轻客） 中国版规格、配置与出口适配性（车型参数页）
+- ** Intenção de pesquisa**: 了解 Foton 福田 Toano 图雅诺 大VAN（轻客） 中国版规格、配置与出口适配性（车型参数页）
 - **As sugestões de ligação interna**: /veículos/fotão-toano/, /guias/ckd-skd-knockdown-kit-export-assembly/, /guias/tir-road-transport-china-central-asia/
 - **Schema Scope**: Artigo + Veículo (sem Produto/Oferta/Revisão)
 
@@ -16,7 +16,7 @@ O **Foton Toano (, 图雅诺, 2026) é um grande van/ônibus de grande porte do 
 
 ## Dimensões identificadas, grupo de potência e lugares sentados
 - **Ponto curto (X5)**: 4990 × 1980 × 1990, distância entre eixos 3070 mm.
-- ** Longas distâncias entre eixos**: 3510 (X5 长轴)/ 3750 (经典长轴, 车长 5990 × 2000) mm.
+- ** Longas distâncias entre eixos**: 3510 (X5 3750 (经典长轴, 车长 5990 × 2000) mm.
 - ** 2.5T torque diesel**: 400 N·m; caixa de velocidades 6MT.
 - **Sets**: 3/5/6/7/9/14/15/17 (随版本).
 - ** Nota de conversão**: F2.8NS6B177L：2780mL/130kW，属冷藏改装上装 — a refrigerated body is an upfit, Não é uma especificação de carrinha base.
@@ -33,7 +33,7 @@ O **Foton Toano (, 图雅诺, 2026) é um grande van/ônibus de grande porte do 
 | Nota de conversão refrigerada | F2.8NS6B177L：2780mL/130kW，属冷藏改装上装 | - Não, não, não. | CHINA | FONTE ÚNICA | 大众网 |
 
 ## Foco de aquisição Van: escolha uma configuração, separe a atualização
-Os compradores de furgão devem fixar distância entre eixos, altura do telhado, contagem de assentos (passageiro) ou layout de carga, e motor antes de comparar os preços. A matriz de potência completa de Cummins ISF2.8 e as massas de kerb/GVW por trim são **não capturadas e estão retidas** enquanto se aguarda uma folha OEM; entradas de enciclopédia foram tratadas apenas como leads. Um corpo refrigerado ou ambulância é uma superestrutura ** em um chassis** e precisa de sua própria carga útil / isolamento / refrigeração avaliação.
+Os compradores de furgão devem fixar distância entre eixos, altura do telhado, contagem de assentos (passageiro) ou layout de carga, e motor antes de comparar os preços. A matriz de potência completa de Cummins ISF2.8 e as massas de kerb/GVW por trim são **não capturadas e estão retidas** enquanto se aguarda uma folha OEM; entradas de enciclopédia foram tratadas apenas como leads. Um corpo refrigerado ou ambulância é uma superestrutura ** em um chassis** e precisa de sua própria carga útil isolamento refrigeração avaliação.
 
 ## Verificação do comprador no exterior antes do pagamento
 1. Nome distância entre eixos (3070/3510/3750), disposição do banco/carga e motor na ordem.
@@ -54,7 +54,7 @@ Os compradores de furgão devem fixar distância entre eixos, altura do telhado,
 | Origem | Organização | Mercado | Nível | Confiança | URL | Factos corroborados |
 |---|---|---|---|---|---|---|
 | 图雅诺 词条 (仅线索, T4 不作关键事实唯一依据) | 抖音百科 | NC | T4 | CROSS_CHECKED | https://m.baike.com/wiki/%E5%9B%BE%E9%9B%85%E8%AF%BA/10989664 | 型号谱系线索 |
-| 图雅诺 车型对比 | 搜狐汽车 | NC | T2 | CROSS_CHECKED | https://db.auto.sohu.com/compare-list?sliding=1&trimsid=156097,166576 | 短轴 / 长轴尺寸, 轴距 |
+| 图雅诺 车型对比 | 搜狐汽车 | NC | T2 | CROSS_CHECKED | https://db.auto.sohu.com/compare-list?sliding=1&trimsid=156097,166576 | 短轴 长轴尺寸, 轴距 |
 | 图雅诺 吉象流动服务车 | 大众网机械 | NC | T3 | CROSS_CHECKED | http://www.dzwww.com/jixie/f25184ea8b1340967.html | 2.5T 动力, 扭矩, 座位 |
 | 图雅诺 冷藏改装 (上装) | 大众网机械 | NC | T3 | CROSS_CHECKED | http://www.dzwww.com/jixie/e79925a2501247453.html | F2.8NS6B177L 改装上装, 非原厂 VAN 参数 |
 | Site oficial do Motor de Foton | Beiqi Foton Motor 福田汽车 (OEM) | NC | T1 | VERIFICADO | https://www.foton.com.cn/ | Identidade de marca/modelo-linha e autoridade OEM |
@@ -80,18 +80,18 @@ Os compradores de furgão devem fixar distância entre eixos, altura do telhado,
 - **IMAGEM_RIGHTS_STATUS**: FALHA
 - **BLOCK_REASON**: Nenhuma imagem reutilizável poderia ser segura: Wikimedia Commons/Flickr são inalcançáveis a partir do ambiente de pesquisa, bibliotecas de estoque requerem acesso autenticado API/licença, e uma imagem de página web OEM NÃO é uma concessão de reutilização comercial. Nenhuma foto do AutoBridge existe. O registro manteve FALHA em vez de afirmar.
 - **ALT (12 línguas)**:
-  - **EN**: Foton Toano van, Chinese-market large van / light bus export buyer reference
-  - **FR**: Foton Toano van, large van / light bus du marché chinois, référence acheteur export
-  - **DE**: Foton Toano van, Chinesischer large van / light bus, Referenz für Exportkäufer
-  - **ES**: Foton Toano van, large van / light bus del mercado chino, referencia para comprador de exportación
-  - **PT**: Foton Toano van, large van / light bus do mercado chinês, referência ao comprador de exportação
-  - **JA**: Foton Toano van, 中国市場large van / light bus・輸出バイヤー向けリファレンス
-  - **KO**: Foton Toano van, 중국 시장 large van / light bus, 수출 바이어 참고 자료
-  - **VI**: Foton Toano van, large van / light bus thị trường Trung Quốc, tham chiếu cho người mua xuất khẩu
-  - **TH**: Foton Toano van, large van / light bus ตลาดจีน เอกสารอ้างอิงสำหรับผู้ซื้อส่งออก
-  - **ID**: Foton Toano van, large van / light bus pasar Tiongkok, referensi pembeli ekspor
-  - **AR**: Foton Toano van, large van / light bus السوق الصيني، مرجع لمشتري التصدير
-  - **ZH**: Foton Toano van, 中国市场large van / light bus·出口采购参考
+  - **EN**: Foton Toano van, Chinese-market large van light bus export buyer reference
+  - **FR**: Foton Toano van, large van light bus du marché chinois, référence acheteur export
+  - **DE**: Foton Toano van, Chinesischer large van light bus, Referenz für Exportkäufer
+  - **ES**: Foton Toano van, large van light bus del mercado chino, referencia para comprador de exportación
+  - **PT**: Foton Toano van, large van light bus do mercado chinês, referência ao comprador de exportação
+  - **JA**: Foton Toano van, 中国市場large van light bus・輸出バイヤー向けリファレンス
+  - **KO**: Foton Toano van, 중국 시장 large van light bus, 수출 바이어 참고 자료
+  - **VI**: Foton Toano van, large van light bus thị trường Trung Quốc, tham chiếu cho người mua xuất khẩu
+  - **TH**: Foton Toano van, large van light bus ตลาดจีน เอกสารอ้างอิงสำหรับผู้ซื้อส่งออก
+  - **ID**: Foton Toano van, large van light bus pasar Tiongkok, referensi pembeli ekspor
+  - **AR**: Foton Toano van, large van light bus السوق الصيني، مرجع لمشتري التصدير
+  - **ZH**: Foton Toano van, 中国市场large van light bus·出口采购参考
 
 
 #AutoBridge #ChinaCarExport #ExportProcurement #FotonToano #LightBus

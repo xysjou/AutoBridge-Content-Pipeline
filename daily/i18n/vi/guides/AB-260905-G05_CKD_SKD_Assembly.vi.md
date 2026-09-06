@@ -8,14 +8,14 @@
 - **Secondary Search termss**: CKD SKD; knockt; hội nghị ở nước ngoài; GRI 2 (a) uncomped; thuế hội nghị địa phương
 - ** URL đã gợi ý**: /guides/ckd-kod-kew-kick-kit-sede-seble-able/
 - **Tìm kiếm Intent**: 区分 CBU/CKD/SKD 模式, 理解散件出口归类 原产地与目的国组装的关键合规问题
-- **I nội bộ Link gợi ý*: //guides/vehicle-ecport-hs-his-hi Story/, /guides/certifate-of-higin-hi story/, /guides/export-doment-history/
+- **I nội bộ Link gợi ý*: Story/, /guides/certifate-of-higin-hi story/, /guides/export-doment-history/
 - **Schema Scope**: Điều khoản (không có sản phẩm/ sản phẩm/ xuất/Rover)
 
 ## CKD và SKD có nghĩa gì trong quyết định hỗ trợ
 A **SKD (semi-ked-down)** Các con tàu có bộ phận lắp ráp mô- đun; một **CKD (hoàn toàn gõ cửa)** các con tàu có đầy đủ thành phần cho hội nghị địa phương. Cả hai đều thay thế một xuất khẩu hoàn thiện với một mô hình có thể lắp ráp được, thường là để đáp ứng các đích chính sách có quy mô địa phương. Việc quảng cáo là có thật, nhưng kết quả pháp luật/tiff được quyết định bởi nhà chức trách tiền định **, không phải bởi người xuất khẩu Trung Quốc gán cho một cái nhãn "kD".
 
 ## Cơ sở phân loại người xuất khẩu có thể kiểm soát
-Ở phía xuất khẩu Trung Quốc, phân loại được xây dựng trên hệ thống **Himomeized / nhập khẩu-triff** và cơ chế phân loại tập tục (WCO duy trì hệ thống hệ thống HS, liên kết bên dưới). Dù một tập hợp chưa được lắp ráp hay chưa được phân loại là tối mật vì bài báo sẽ bật lên các quy tắc giải thích chung và các dòng và các quy định cụ thể — ** Hướng dẫn này không cho biết RI 2 (a) như là một kết luận hợp pháp cho bộ dụng cụ vì một tập hợp chính jwI/customs quy định cho bộ dụng cụ chính xác không được ghi lại ở đây**. Phân loại từng bộ một và tìm cách phân loại một cách nhất định.
+Ở phía xuất khẩu Trung Quốc, phân loại được xây dựng trên hệ thống **Himomeized nhập khẩu-triff** và cơ chế phân loại tập tục (WCO duy trì hệ thống hệ thống HS, liên kết bên dưới). Dù một tập hợp chưa được lắp ráp hay chưa được phân loại là tối mật vì bài báo sẽ bật lên các quy tắc giải thích chung và các dòng và các quy định cụ thể — ** Hướng dẫn này không cho biết RI 2 (a) như là một kết luận hợp pháp cho bộ dụng cụ vì một tập hợp chính jwI/customs quy định cho bộ dụng cụ chính xác không được ghi lại ở đây**. Phân loại từng bộ một và tìm cách phân loại một cách nhất định.
 
 ## Phía đích là câu hỏi kiểm soát, đặc biệt là quốc gia
 Cho dù một bộ dụng cụ có đủ điều kiện cho việc giảm thuế thu nhập thấp hơn, một tỷ lệ địa phương-tỉ lệ nhất định, hoặc một khuyến khích đầu tư được quyết định bởi phong tục của ** tiền định quốc gia, thuế và đầu tư**. Các quy tắc xuất khẩu và các trang web thương mại của Trung Quốc không thể xác minh kết quả đó. Một điểm đến khác có thể đạt một kết quả khác nhau cho một bộ phận giống hệt nhau, và xử lý các bộ phận chưa lắp ráp như một toàn bộ phương tiện cho nhiệm vụ (hoặc ngược lại) phải được chứng minh bởi thẩm quyền của đất nước đó.
@@ -41,8 +41,8 @@ Trang này cố ý không** yêu cầu một định nghĩa chung về CND/SKD, 
 ## Nguồn và Định dạng
 | Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
-| 中华人民共和国海关进出口货物商品归类管理规定 | 中国政府网 | CN | T1 | VEII | https://www.gov.cn/zhengce/2021-09/06/content_5723370.htm | 归类以协调制度 / 进出口税则为基础. 归类裁定与决定 |
-| 汽车 CKD 散件出口原产地证填制 (行业流程), T4 仅线索). | 顺企网 | CN | T4 | ĐƯỢC XÃ KỂ LẠI | https://m.11467.com/product/d53830031.htm | 成套散件清单 / HS 逐项整理流程线索 |
+| 中华人民共和国海关进出口货物商品归类管理规定 | 中国政府网 | CN | T1 | VEII | https://www.gov.cn/zhengce/2021-09/06/content_5723370.htm | 归类以协调制度 进出口税则为基础. 归类裁定与决定 |
+| 汽车 CKD 散件出口原产地证填制 (行业流程), T4 仅线索). | 顺企网 | CN | T4 | ĐƯỢC XÃ KỂ LẠI | https://m.11467.com/product/d53830031.htm | 成套散件清单 HS 逐项整理流程线索 |
 | 成套散件 (SKD/CKD) 进口申请表说明 (反向参考, T4) | 顺企网 | CN | T4 | ĐƯỢC XÃ KỂ LẠI | https://m.11467.com/product/d14729353.htm | 成套散件申报要素线索 |
 | Không có đường cong hệ thống hợp nhất (WCO) | Tổ chức phong tục thế giới | CN | T1 | VEII | https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools/hs-nomenclature-2022-edition.aspx | Mật khẩu là cơ sở phân loại được duy trì bởi WCO |
 | Công cụ và công cụ gốc của WCO | Tổ chức phong tục thế giới | CN | T1 | VEII | https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx | khung và dụng cụ quy tắc cơ bản được WCO duy trì |

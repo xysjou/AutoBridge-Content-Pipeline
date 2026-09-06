@@ -2,12 +2,12 @@
 
 ## SEO Metadata
 - ** عنوان المنظمة**: Chery Arrizo 8 Specs " Export Buyer Guide (1.6TGDI, China Reference)
-- ** وصف البيانات**: السوق الصينية Chery Arrizo 8 — 1.6T Kunpeng 145 kW / 290 N·m, 7DCT, 4780 mm body, the trim distinctions that matter, and what importers verify before ordering.
+- ** وصف البيانات**: السوق الصينية Chery Arrizo 8 — 1.6T Kunpeng 145 kW 290 N·m, 7DCT, 4780 mm body, the trim distinctions that matter, and what importers verify before ordering.
 - ** URL المقترض**: /مركبات/أريزو- 8/
 - ** H1 **** Chery Arrizo 8: Chinese-Market Specifications and Export Verification Notes
 - ** كلمة رئيسية تصوّرية**: تصدير الكريسماس 8 عينة
 - ** شروط البحث الثانية**: Arrizo 8 1.6TGDI, Chery Arrizo 8 dimensions, 艾瑞泽 8 export, Kunpeng SQRF4J16, Chinese compact sedan export
-- ** مقترحات داخلية بشأن الربط**: /مبادئ توجيهية/مفردات/مواقع ذات اسم ملغى - مشغلات/أجزاء صينية/أفرقة/أفرقة/أفرقة/ألوحة/أفرقة/أدوات/أمتعة وثائقية/مركبة تصديرية/تجميع وثائق/تركيزات/تركيزات/توجيات/تات
+- ** مقترحات داخلية بشأن الربط**: توجيهية/مفردات/مواقع ذات اسم ملغى - صينية/أفرقة/أفرقة/أفرقة/ألوحة/أفرقة/أدوات/أمتعة وثائق/تركيزات/تركيزات/توجيات/تات
 - ** اقتراحات رمزية**: مقدمة من ثلاثة أرباع آريزو 8؛ وخط محرك 1.6TGDI شارة؛ وغرفة مدخل خلفية؛ و7DCT مختار
 - ** اقتراحات بشأن: "الكريس آريزو 8 1.6TGDI سيارة "السوق الصينية" "(أريزو 8)" "أبعد 4780mm قاعدة متحركة 2790mm"
 
@@ -23,14 +23,14 @@
 | التحويل | 7-speed مبللة ذات مركبين (7DCT) |
 | مخطط القيادة | محرك الجبهة، محرك الرأس الأمامي |
 | السرعة القصوى المطالب بها | 205 km/h (مصدر خارجي؛ تأكيد على صحيفة الترايم الدقيقة) |
-| مذكرة الوقود/البعثة | البنزين؛ China-6 level — confirm destination fuel grade  and  مسار الانبعاثات (الصين - 6 ليس بحد ذاته موافقة من النوع الخارجي) |
+| مذكرة | البنزين؛ China-6 level — confirm destination fuel grade  and  مسار الانبعاثات (الصين - 6 ليس بحد ذاته موافقة من النوع الخارجي) |
 
-وبالنسبة لصالون من شبكة المعلومات البيئية، تركز قرارات الشراء على الرمز **، نوع العتاد، ومرحلة الانبعاثات**. (أ) أن تصلح الثلاثة ضد شبكة المعلومات الشخصية بدلاً من اسم الكتيب؛ وأن ترى دليل الانبعاث/التوفيق بين الوقود، وذلك لضرورة أن يظل معيار الصين - 6 بحاجة إلى محرقة الوجهة.
+وبالنسبة لصالون من شبكة المعلومات البيئية، تركز قرارات الشراء على الرمز **، نوع العتاد، ومرحلة الانبعاثات**. (أ) أن تصلح الثلاثة ضد شبكة المعلومات الشخصية بدلاً من اسم الكتيب؛ وأن ترى دليل بين الوقود، وذلك لضرورة أن يظل معيار الصين - 6 بحاجة إلى محرقة الوجهة.
 
 ## الجسم والبعد والبحار
-- Length / width /طول: ** 4780 / 1843 / 1469 mm **
+- Length width ** 4780 1843 1469 mm **
 - Wheelbase: ** 2790 mm **
-- الأبواب/المقاعد: ** 4 باب/ 5 مقعد**
+- ** 4 5 مقعد**
 قاعدة العجلات الـ 2790 mm هي ما يضع السيارة فوق سيارة مدمجة موحدة؛ وفحص قاعدة العجلات من الرمز النموذجي على المبارزة لذلك لا يحل محل (أريزو) الأصغر.
 
 ## الفرز والترايم
@@ -46,7 +46,7 @@
 5. ** أسلوب الإيقاف** - حاوية من الصلون تبلغ مساحتها 4.78 متر أو مواقد رو رو رو رو؛ تأكيد عد خطة الحمولة بدلا من تقديرها.
 
 ## طلب تخصيص موارد التصدير الحالية
-ولا يُنشر أي سعر ثابت للصادرات. The Chinese guide price (a 2024 卓越 trim reference around RMB 99, 900) هو a مُتَوَلِّق، الرقم الذي يراعي الوقت فقط - ليس مقاصة من نوع FOB أو CIF  and  ويجب ألا يتحول إلى واحد**. : الاستفسار مع ** بلد الاستضافة؛ الكمية المفضَّلة؛ الترايم المُفضَّل؛ LHD/RHD؛ ميناء الوجهة؛ Incoterm**.
+ولا يُنشر أي سعر ثابت للصادرات. The Chinese guide price (a 2024 卓越 trim reference around RMB 99,900) هو a مُتَوَلِّق، الرقم الذي يراعي الوقت فقط - ليس مقاصة من نوع FOB أو CIF  and  ويجب ألا يتحول إلى واحد**. : الاستفسار مع ** بلد الاستضافة؛ الكمية المفضَّلة؛ الترايم المُفضَّل؛ LHD/RHD؛ ميناء الوجهة؛ Incoterm**.
 
 ## الأسئلة المتكررة
 ** هل الـ "أريزو 8" مُتعاظم أو منصات متوسطة الحجم؟** في 4780 mm لمدة طويلة مع 2790 mm قاعدة عجلة تجلس على الحافة العليا من حقل التعارف قرب أبعاد الجزء باء - تصنيفها حسب البصمة المقيسة ليس بطاقة التسويق
@@ -65,20 +65,20 @@
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
 - IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
 - IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
-- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات ويكيميو/فلكر غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات المسبقة/الرخصة، وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
+- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
 - ALT by language:
-  - **EN**: AutoBridge export-buyer reference — Chery Arrizo 8, petrol/diesel Chinese-market vehicle / sedan
-  - **FR**: Référence AutoBridge pour acheteurs export — Chery Arrizo 8, véhicule thermique (marché chinois) / berline
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Chery Arrizo 8, Verbrenner (chinesischer Markt) / Limousine
-  - **ES**: Referencia AutoBridge para compradores de exportación — Chery Arrizo 8, vehículo de combustión (mercado chino) / berlina
-  - **PT**: Referência AutoBridge para compradores de exportação — Chery Arrizo 8, veículo a combustão (mercado chinês) / sedã
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Chery Arrizo 8, 中国市場仕様 内燃機関車 / セダン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Chery Arrizo 8, 중국 시장 내연기관 차량 / 세단
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Chery Arrizo 8, xe động cơ đốt trong (thị trường Trung Quốc) / sedan
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Chery Arrizo 8, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถเก๋งซีดาน
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Chery Arrizo 8, kendaraan mesin pembakaran (pasar Tiongkok) / sedan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Chery Arrizo 8, مركبة بمحرك احتراق (سوق الصين) / سيدان
-  - **ZH**: AutoBridge 出口采购参考｜Chery Arrizo 8, 中国市场燃油车 / 轿车
+  - **EN**: AutoBridge export-buyer reference — Chery Arrizo 8, petrol/diesel Chinese-market vehicle sedan
+  - **FR**: Référence AutoBridge pour acheteurs export — Chery Arrizo 8, véhicule thermique (marché chinois) berline
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Chery Arrizo 8, Verbrenner (chinesischer Markt) Limousine
+  - **ES**: Referencia AutoBridge para compradores de exportación — Chery Arrizo 8, vehículo de combustión (mercado chino) berlina
+  - **PT**: Referência AutoBridge para compradores de exportação — Chery Arrizo 8, veículo a combustão (mercado chinês) sedã
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Chery Arrizo 8, 中国市場仕様 内燃機関車 セダン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Chery Arrizo 8, 중국 시장 내연기관 차량 세단
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Chery Arrizo 8, xe động cơ đốt trong (thị trường Trung Quốc) sedan
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Chery Arrizo 8, รถเครื่องยนต์สันดาป (ตลาดจีน) รถเก๋งซีดาน
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Chery Arrizo 8, kendaraan mesin pembakaran (pasar Tiongkok) sedan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Chery Arrizo 8, مركبة بمحرك احتراق (سوق الصين) سيدان
+  - **ZH**: AutoBridge 出口采购参考｜Chery Arrizo 8, 中国市场燃油车 轿车
 
 ## المصدر: التحقق
 | عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
@@ -88,7 +88,7 @@
 | Chery Arrizo 8 1.6T powertrain analysis | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/19508971?isfrom=pc | 2026-09-04 | صرخات | 145 kW/197 PS/290 N·m/7DCT |
 | مصممو السيارات على الطرق - نظام الاستفسارات العامة | وزارة الصناعة وتكنولوجيا المعلومات في الصين | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | مفقود | التحقق من الصانع والنموذج المعتمد والهجوم (公告) |
 | GB 16735-2019 المركبات البرية - الاحتياجات من رقم تحديد المركبات | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | مفقود | تركيبة الشبكة وربطة بيانات مستعملة في نظام التحقق الخاص بالمشتري |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | مفقود | الشروط التقنية المتعلقة بسلامة المركبات في الصين والإطار الزمني الحالي/التنقيحي |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | مفقود | الشروط التقنية المتعلقة بسلامة المركبات في الصين والإطار الزمني |
 | 18352.6-2016 GB مع التعديل XG1-2026 (الصين - 6 من انبعاثات ملوثات المركبات الخفيفة) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | مفقود | الصين - 6 مرحلة انبعاثات المركبات الخفيفة ومواعيد تنفيذ التعديل البالغ 2026 |
 
 * ملاحظة ملاءمة: لم تُسجل أي صحيفة نموذجية أولية للمنظمة؛ والأرقام مدققة بالقيم الصينية المهيكلة قاعدة بيانات. الأبواب، تخطيط القيادة و السرعة القصوى مصدر واحد والأسعار المحلية حساسة من حيث الوقت ولا تعتبر أبداً اقتباساً من الصادرات. ♪

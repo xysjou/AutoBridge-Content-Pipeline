@@ -21,8 +21,8 @@ Der Qin L DM-i ist eine mittelgroße Plug-in-Hybridlimousine, die auf der **fün
 | Motor | 1.5 L Hybrid-Benzinmotor |
 | Übertragung | E-CVT (Einstufen-DHT, Super-Hybrid-DM) |
 | Batterie | LFP **Blade-Batterie** |
-| Batteriekapazität | ** 10.08 kWh (80 km) / 15.87 kWh (120 km) ** — versionenspezifisch |
-| Elektrische Reichweite (CLTC) | **80 km / 120 km** |
+| Batteriekapazität | ** 10.08 kWh (80 km) 15.87 kWh (120 km) ** — versionenspezifisch |
+| Elektrische Reichweite (CLTC) | **80 km 120 km** |
 | Prüfzyklus | **CLTC** (nicht WLTP/NEFZ — niemals eine CLTC-Zahl unter einem anderen Zyklus angeben) |
 | Schnelles Laden | about 0.42 h for 30–80% on the 120 km car (single-source; Bestätigung pro OEM |
 | Leergewicht (repräsentativ) | 1775 kg |
@@ -35,17 +35,17 @@ Ein PHEV-Käufer benötigt vier Antworten in der Reihenfolge: **Motor, Antriebsm
 - Eine Schlagzeile kombinierte Zahl von ungefähr ** 2100 km auf einem vollen Tank und voller Ladung ** erscheint in der chinesischen Berichterstattung als ** Hersteller-behauptete ** Zahl. Es muss mit einem Fabrikanspruch gekennzeichnet werden, der niemals als Messergebnis dargestellt wird, und er ist nicht mit einer Bestimmungszykluszahl vergleichbar.
 
 ## Körper und Kabine
-- Länge / Breite / Höhe: ** 4830 / 1900 / 1495 mm **
+- Länge Breite Höhe: ** 4830 1900 1495 mm **
 - Radstand: ** 2790 mm **
 - Sitze: ** 5 ** (Single-Source für Sitzplatzzahl; bestätigen Sie auf dem Zierblatt)
 
 ## Versionsunterschiede, die nicht gemischt werden dürfen
-- ** 80 km vs 120 km ** = unterschiedlicher Akkupack (10.08 vs 15.87 kWh); Ladehardware und Trimmung werden ebenfalls verstärkt. Geben Sie die Version vor einem Entfernungssatz an.
+- ** 80 km vs 120 km ** unterschiedlicher Akkupack (10.08 vs 15.87 kWh); Ladehardware und Trimmung werden ebenfalls verstärkt. Geben Sie die Version vor einem Entfernungssatz an.
 - CLTC elektrische Reichweite und alle kombinierten Bereich Anspruch sitzen auf verschiedenen Testbasen; nicht hinzufügen oder vergleichen sie direkt.
 - Chinesische Ausrüstung ist kein Beweis für Exportmarktausrüstung ohne eine OEM-Überseeseite.
 
 ## Übersee-Käufer-Überprüfung vor Zahlung
-- Die DM-i-Transaxle-Position bestimmt die angetriebenen Räder - überprüfen Sie das Layout auf dem VIN-Baublatt / Zertifikat, anstatt den Frontantrieb wie vom Hybridsystem impliziert zu behandeln.
+- Die DM-i-Transaxle-Position bestimmt die angetriebenen Räder - überprüfen Sie das Layout auf dem VIN-Baublatt Zertifikat, anstatt den Frontantrieb wie vom Hybridsystem impliziert zu behandeln.
 1. **Batterieversion und Kapazität** gegen die VIN geschrieben (10.08 vs 15.87 kWh); akzeptieren Sie keine Bereichsnummer allein.
 2. **Testzyklus** — CLTC-gekennzeichnet halten; fragen Sie nach der Bestimmungszykluszahl separat, wenn der Markt eine veröffentlicht.
 3. **Ladestecker und AC/DC-Hardware** — Das chinesische GB/T-Laden passt nicht automatisch zum Zielstecker; bestätigen Sie, bevor Sie die Kompatibilität mit der Hausladung versprechen.
@@ -53,7 +53,7 @@ Ein PHEV-Käufer benötigt vier Antworten in der Reihenfolge: **Motor, Antriebsm
 5. **Emissions-/Kraftstoffart** und Bestimmungs-Hybrid-Registrierungsklasse; bestätigen Sie das Dokumentenpaket aus der Checkliste der Exportdokumente.
 
 ## Beantragen Sie eine aktuelle Ausfuhrquote
-Es wird kein Ausfuhrpreis veröffentlicht. The Chinese 2024 guide range (roughly RMB 99, 800–139; 800 ist ein **Haus, zeitempfindliche Referenz, nicht FOB/CIF**. Request a live quote with **Destination Country · Quantity · Preferred Trim (80/120 km) · LHD/RHD · Destination Port · Incoterm**.
+Es wird kein Ausfuhrpreis veröffentlicht. The Chinese 2024 guide range (roughly RMB 99,800–139; 800 ist ein **Haus, zeitempfindliche Referenz, nicht FOB/CIF**. Request a live quote with **Destination Country · Quantity · Preferred Trim (80/120 km) · LHD/RHD · Destination Port · Incoterm**.
 
 ## Häufig gestellte Fragen
 **Was ist der Unterschied zwischen dem Qin L DM-i 80 und 120? ** Batteriekapazität (10.08 vs 15.87 kWh) und CLTC Elektrobereich (80 vs 120 km), plus Ausrüstungsschritte — geben Sie die Version auf der Bestellung.
@@ -74,18 +74,18 @@ Es wird kein Ausfuhrpreis veröffentlicht. The Chinese 2024 guide range (roughly
 - IMAGE_RIGHTS_STATUS: FAIL (kein lizenziertes Asset erfasst; ein Platzhalter oder ein Hinweis „altes Bild behalten wird nicht akzeptiert)
 - BLOCK_REASON: Es konnte kein wiederverwendbares Bild gesichert werden: Wikimedia Commons/Flickr sind aus der Forschungsumgebung nicht erreichbar, Lagerbibliotheken erfordern authentifizierten API/Lizenzzugriff und ein OEM-Webseitenbild ist KEIN kommerzielles Wiederverwendungsstipendium; es gibt kein AutoBridge-eigenes Foto. Nein, aber nicht nur vereitelt.
 - ALT nach Sprache:
-  - **EN**: AutoBridge export-buyer reference — BYD Qin L DM-i, plug-in hybrid vehicle / sedan
-  - **FR**: Référence AutoBridge pour acheteurs export — BYD Qin L DM-i, véhicule hybride rechargeable / berline
-  - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Qin L DM-i, Plug-in-Hybridfahrzeug / Limousine
-  - **ES**: Referencia AutoBridge para compradores de exportación — BYD Qin L DM-i, vehículo híbrido enchufable / berlina
-  - **PT**: Referência AutoBridge para compradores de exportação — BYD Qin L DM-i, veículo híbrido plug-in / sedã
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜BYD Qin L DM-i, プラグインハイブリッド車 / セダン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜BYD Qin L DM-i, 플러그인 하이브리드 차량 / 세단
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — BYD Qin L DM-i, xe hybrid sạc ngoài / sedan
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — BYD Qin L DM-i, รถปลั๊กอินไฮบริด / รถเก๋งซีดาน
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — BYD Qin L DM-i, kendaraan hybrid plug-in / sedan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Qin L DM-i, مركبة هجينة قابلة للشحن / سيدان
-  - **ZH**: AutoBridge 出口采购参考｜BYD Qin L DM-i, 插电混动车 / 轿车
+  - **EN**: AutoBridge export-buyer reference — BYD Qin L DM-i, plug-in hybrid vehicle sedan
+  - **FR**: Référence AutoBridge pour acheteurs export — BYD Qin L DM-i, véhicule hybride rechargeable berline
+  - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Qin L DM-i, Plug-in-Hybridfahrzeug Limousine
+  - **ES**: Referencia AutoBridge para compradores de exportación — BYD Qin L DM-i, vehículo híbrido enchufable berlina
+  - **PT**: Referência AutoBridge para compradores de exportação — BYD Qin L DM-i, veículo híbrido plug-in sedã
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜BYD Qin L DM-i, プラグインハイブリッド車 セダン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜BYD Qin L DM-i, 플러그인 하이브리드 차량 세단
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — BYD Qin L DM-i, xe hybrid sạc ngoài sedan
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — BYD Qin L DM-i, รถปลั๊กอินไฮบริด รถเก๋งซีดาน
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — BYD Qin L DM-i, kendaraan hybrid plug-in sedan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Qin L DM-i, مركبة هجينة قابلة للشحن سيدان
+  - **ZH**: AutoBridge 出口采购参考｜BYD Qin L DM-i, 插电混动车 轿车
 
 ## Quellen & Verifizierung
 | Quelle: | Organisation | Markt | URL | Geprüft | Vertrauen | Belegte Fakten |

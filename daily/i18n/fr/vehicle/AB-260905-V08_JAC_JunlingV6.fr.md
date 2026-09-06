@@ -4,10 +4,10 @@
 - **Référencement**: JAC Junling V6 Camion léger: Spécifications du marché chinois et Guide d'achat à l'exportation
 - **Description détaillée**: Marché chinois Camion-cargo léger de ligne bleue V6: Yunnei D25 diesel, ligne Ankang 160, boîte à cargaison, GVW/charge utile, et la mise en garde de masse unique.
 - ** H1 **: JAC Junling V6 (2024/2025) — Spécifications des camions légers marché chinois et contrôles à l'exportation
-- **Mot-clé principal**: JAC / 江淮 骏铃 V6 轻卡 (camion léger) spécifications exportation
+- **Mot-clé principal**: JAC 江淮 骏铃 V6 轻卡 (camion léger) spécifications exportation
 - **Termes de recherche secondaires**: JAC Junling V6 exportation; Jianghuai camion léger; camion de fret chinois; camion de plaque bleue; Yunnei D25
 - **URL suggérée**: /véhicules/jac-junling- v6/
-- **Intention de la recherche**: 了解 JAC / 江淮 骏铃 V6 轻卡 (camion léger) 中国版规格 -配置与出口适配性 (车型参数页)
+- **Intention de la recherche**: 了解 JAC 江淮 骏铃 V6 轻卡 (camion léger) 中国版规格 -配置与出口适配性 (车型参数页)
 - **Suggestions de lien interne**: /véhicules/jac-junling- v6/, /guides/véhicule-export-hs-code-history/, /guides/chine-export-customs-declaration-simple-fenêtre/
 - **Schema Champ d'application**: article + véhicule (aucun produit/offre/examen)
 
@@ -37,9 +37,9 @@ Les données du moteur et de la boîte à cargaison proviennent d'une source de 
 Pour les acheteurs de distribution urbaine, le point de configuration des commandes qui provoque le plus souvent des litiges est **qui est le chiffre qui régit le chargement légal sur le marché de destination**. Une cote de plaque bleue chinoise, une charge utile en usine et une limite de charge par essieu de destination sont trois numéros différents; le camion doit être spécifié en fonction de la règle de destination contraignante plutôt que le plus généreux des trois. La longueur de l'empattement et de la boîte à cargaison interagit également avec les restrictions de la longueur locale et du cercle de virage, de sorte qu'une boîte choisie uniquement pour maximiser le volume peut créer un véhicule qui est gênant sur des routes urbaines étroites. Confirmer GVW, masse de la masse du kerb, charge utile, empattement et dimensions de la boîte comme un ensemble assorti sur le pro forma, et exiger du fournisseur qu'il relie chaque chiffre de masse à sa source avant le dépôt.
 
 ## Vérification de l ' acheteur étranger avant paiement
-1. Confirmez GVW 4.495 t / charge utile 1.735 t en fonction de l'annonce MIIT ou de la feuille JAC OEM.
+1. Confirmez GVW 4.495 t charge utile 1.735 t en fonction de l'annonce MIIT ou de la feuille JAC OEM.
 2. Correspond aux dimensions intérieures de la caisse à cargaison par rapport à la caisse prévue.
-3. Confirmer le moteur (Yunnei D25 / Ankang 160, boîte de vitesses et essieu arrière pour le support des pièces.
+3. Confirmer le moteur (Yunnei D25 Ankang 160, boîte de vitesses et essieu arrière pour le support des pièces.
 4. Vérifier l'étape d'émission du diesel et la classe de destination GVW/licence.
 5. Demander une cote d'exportation courante; aucune n'est publiée.
 
@@ -47,7 +47,7 @@ Pour les acheteurs de distribution urbaine, le point de configuration des comman
 **Les chiffres de la charge utile sont-ils définitifs?** Ils sont à source unique ici; confirmer par homologation avant de compter sur eux.
 **Y a-t-il une version RHD?** Non établie dans ces sources.
 **Qu'est-ce que la classe de plaque bleue?** Sous--4.5 t GVW camion ville en Chine; licences de destination diffère.
-**Engine?** Yunnei D25TCIF1 2.5 L diesel, 150 hp / 400 N·m sur la ligne capturée.
+**Engine?** Yunnei D25TCIF1 2.5 L diesel, 150 hp 400 N·m sur la ligne capturée.
 **Où sont les détails des pneumatiques/essieux?** Non capturé; demander la feuille de construction d'OEM.
 
 

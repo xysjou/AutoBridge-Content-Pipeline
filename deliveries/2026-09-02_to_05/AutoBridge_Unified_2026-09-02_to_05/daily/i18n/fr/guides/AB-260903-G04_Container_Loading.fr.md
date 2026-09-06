@@ -14,9 +14,9 @@
 « Combien de voitures dans un 40HQ ? » n'a pas de réponse universelle – il est fonction des dimensions du véhicule, du repliement des miroirs, du système de rack et du plan d'arrimage approuvé par le transporteur**. Ce guide donne des bandes réalistes et la méthode; il ne promet délibérément pas un décompte fixe. Confirmer chaque expédition en fonction d'un plan de charge réel mesuré.
 
 ## Bandes de chargement réalistes (d'après la pratique documentée)
-- **Pas de rack, conventionnel:** un 40HQ transporte généralement **deux VUS moyens/grands** (les exemples cités sont ~ 4.9 m de classe comme ID. 6 / Range-Rover / Prado / Li L7-scale véhicules) (diagramme de transitaire à source unique).
+- **Pas de rack, conventionnel:** un 40HQ transporte généralement **deux VUS moyens/grands** (les exemples cités sont ~ 4.9 m de classe comme ID. 6 Range-Rover Prado Li L7-scale véhicules) (diagramme de transitaire à source unique).
 - **Avec un rack à double pont coulissant:** un **"en haut 2 + 2" = quatre VUS** a été signalé dans un essai Yantai-port "RoRo-to-container" (source unique).
-- **Sedans / China-Europe rail:****trois véhicules par boîte** apparaît dans le rapport de pratiques rail/sedan Chine-Europe (source unique).
+- **Sedans China-Europe rail:****trois véhicules par boîte** apparaît dans le rapport de pratiques rail/sedan Chine-Europe (source unique).
 Ce sont des points de référence, non des droits: une fourgonnette à toit élevé, un pick-up ou un long wagon de service changent le nombre, et le chargement du rack nécessite un équipement certifié et un plan approuvé.
 
 ## Étalonnage: Correction Par les pneumatiques, pas par le corps
@@ -28,7 +28,7 @@ L'objectif est que sous le bateau roulant/emboutissage le wagon ne puisse pas d�
 
 ## Chargement de la séquence (où le travail de la grille se passe mal)
 Pour les charges rack/double pont, la pratique du port documentée est:
-1. **Enfiler les véhicules à crémaillère en premier / dans l'ordre prévu**, en utilisant un chariot élévateur pour faciliter la poussée et la reposition;
+1. **Enfiler les véhicules à crémaillère en premier dans l'ordre prévu**, en utilisant un chariot élévateur pour faciliter la poussée et la reposition;
 2. Un conteneur à deux portes (deux extrémités) permet de travailler simultanément des deux extrémités**, en shortening shit;
 3. Sécurisez chaque unité progressivement — ne laissez jamais un véhicule sans sécurité pendant la manœuvre suivante.
 Les erreurs de séquence (charger la voiture inférieure en premier et bloquer l'accès au rack) sont le retard le plus évitable dans les charges de quatre wagons.
@@ -37,7 +37,7 @@ Les erreurs de séquence (charger la voiture inférieure en premier et bloquer l
 Adapté de la méthode de chargement des conteneurs documentés:
 1. ** Liste des marchandises par rapport à la liste d'emballage** — NIV, quantités et état correspondant; PSI déjà complété (voir guide PSI).
 2. ** Ordre de chargement** — répartition du poids et positions de la grille par plan.
-3. **Centre de gravité / dégagement / hauteur** — aucun contact avec le toit, les murs ou les portes; même poids latéral.
+3. **Centre de gravité dégagement hauteur** — aucun contact avec le toit, les murs ou les portes; même poids latéral.
 4. ** Securing** — sangles, cales, bois, antidérapant tout en place et tendu; rien sur peinture/suspension.
 5. **Déglaçage de la porte** — marge suffisante pour fermer et sceller; enregistrer les photos de la cale avant sceller.
 
@@ -89,16 +89,16 @@ Un EV/hybride à l'intérieur d'un conteneur transporte toujours une batterie de
 | Titre de la source | Organisation | Marché | URL | Vérification | Confiance | Faits corroborés |
 |---|---|---|---|---|---|---|
 | Vue latérale du véhicule (2/box, 8 sangles) | Matériel de transport de marchandises | Mondial | https://m.11467.com/product/d42473652.htm | 2026-09-03 | SOURCE UNIQUE | 2-SUV sans fissure; ~ 8 sangles; méthode de roue (une source) |
-| Premier procès du port de Yantai 4-SUV "RoRo-to-container" | Nouvelles du soir de Qilu / Toutiao | NC | http://m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | SOURCE UNIQUE | Upper2+lower2 rack; séquence de chargement (un essai rapporté) |
-| Chargement des wagons Chine-Europe (3/box) | Chemin de fer Harbin / Toutiao | NC | http://m.toutiao.com/group/6748371578787987979/ | 2026-09-03 | SOURCE UNIQUE | Berline/rail de référence à trois fois par boîte (une source) |
+| Premier procès du port de Yantai 4-SUV "RoRo-to-container" | Nouvelles du soir de Qilu Toutiao | NC | http://m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | SOURCE UNIQUE | Upper2+lower2 rack; séquence de chargement (un essai rapporté) |
+| Chargement des wagons Chine-Europe (3/box) | Chemin de fer Harbin Toutiao | NC | http://m.toutiao.com/group/6748371578787987979/ | 2026-09-03 | SOURCE UNIQUE | Berline/rail de référence à trois fois par boîte (une source) |
 | Méthode de chargement en cinq étapes pour les conteneurs d'exportation | Montant net | Mondial | https://www.163.com/dy/article/L42056IP05568MR2.html | 2026-09-03 | SOURCE UNIQUE | Vérification de l'arrimage en cinq points (une source) |
-*Note de portée (R4): chaque chiffre de chargement provient d'une source unique et distincte (tous les SINGLE_SOURCE) — aucun fait n'est corroboré par deux sources indépendantes, donc aucun n'est étiqueté CROSS_ J'ai vérifié. Les dénombrements sont des références documentées de la pratique, pas un arrimage garanti; le nombre exact dépend toujours des dimensions mesurées et d'un plan de chargement approuvé, et les règles de transporteur/terminal doivent être confirmées lors de la réservation. *
+*Note de portée: chaque chiffre de chargement provient d'une source unique et distincte (tous les SINGLE_SOURCE) — aucun fait n'est corroboré par deux sources indépendantes, donc aucun n'est étiqueté CROSS_ J'ai vérifié. Les dénombrements sont des références documentées de la pratique, pas un arrimage garanti; le nombre exact dépend toujours des dimensions mesurées et d'un plan de chargement approuvé, et les règles de transporteur/terminal doivent être confirmées lors de la réservation. *
 
 | Code de pratique OMI/OIT/CEE pour l ' emballage des unités de transport de marchandises (code CTU) | Organisation maritime internationale (OMI) | INT'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | VÉRIFIER | Principes de distribution, d'arrimage et de fixation du fret pour les TCU, y compris les conteneurs |
 | Conteneurs/référence de l'équipement | Conseil mondial des transports maritimes | INT'L | https://www.worldshipping.org/ | 2026-09-05 | VÉRIFIER | Contexte standard de la conception des conteneurs et des équipements de ligne pour la planification des charges |
 
 ## Révision de la rédaction
-- **Auteur / réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)
+- **Auteur réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)
 - **Dernière révision**: 2026-09-05
 - **Marché de référence/étendue**: Opération logistique mondiale (méthode, pas une promesse de taux fixe)
 - ** Méthode de vérification**: orientation opérationnelle, aucun décompte universel affirmé

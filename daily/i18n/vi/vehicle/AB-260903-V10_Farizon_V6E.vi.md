@@ -1,12 +1,12 @@
 # Farizon Xengxiang V6E Xe tải điện: Khóa điện rồi.  6 m³ Load Bay  and  Một xuất dạng tài liệu
 ## SAO Siêu dữ liệu
 - **SEO Titry**: Farizon V6E Comment
-- **Meta Mô tả**: Chinese-market Farizon (Geely) Xingxiang V6E electric cargo van — 60 kW/220 N·m motor,  6 m³ cargo volume, 35.2 kWh / 260 km căn cứ với mẫu mẫu 51 kWh mới. Giới hạn 90 km/h.  and  Một chuyến hàng của EU-spec Türkiye đã được ghi âm.
+- **Meta Mô tả**: Chinese-market Farizon (Geely) Xingxiang V6E electric cargo van — 60 kW/220 N·m motor,  6 m³ cargo volume, 35.2 kWh 260 km căn cứ với mẫu mẫu 51 kWh mới. Giới hạn 90 km/h.  and  Một chuyến hàng của EU-spec Türkiye đã được ghi âm.
 - **Sudeest URL**: /vehicles/farizon-xiang- v6e-specs/
 - ** H1 **: Farizon Xengxiang V6E (Trung Quốc - Market): Cego Van Specis và Xuất khẩu Verification
 - **Custerary Keyword**: farizon v6e skys xe tải chở hàng điện
 - **Secondary Search termss**: Xe ngựa Xingxiang V6E, chiếc xe tải giao điện Farizon, 6m3 xe tải điện, V6E 35.2 kWh', Farizon Xuất khẩu Türkiye, xe tải điện thành phố
-- **I nội bộ Link gợi ý**: /vehcles/saic-maxus- v90-specs/; /vehicles/byd-dolbin /; /guides/ev-ship- un3171-imdg-compliance/
+- **I nội bộ Link gợi ý**: /vehcles/saic-maxus- v90-specs/; /vehicles/byd-dolbin /guides/ev-ship- un3171-imdg-compliance/
 - **Image gợi ý**: khoang hàng với kích thước; bên tải cửa; bố trí động cơ/barry; trục sau lá; lô xuất EU-spec
 - **LT gợi ý**: "Farizon V6E mét khối xe tải chở hàng điện," V6E điểm và phạm vi"
 
@@ -16,11 +16,11 @@ Xe ngựa Xingxiang V6E là của Farizon (Tiệm thương mại-vehic) **barry-
 ## Name
 | Mục | V6E Tham khảo Trung Quốc |
 |---|---|
-| Máy | Wolong-ZF ** TZ185XS022 ** thường xuyên magent, ** 60 kW / 220 N·m ** |
+| Máy | Wolong-ZF ** TZ185XS022 ** thường xuyên magent, ** 60 kW 220 N·m ** |
 | Tốc độ | ** 90 km/h (ít hơn một chút)* ♪ |
 | Name | **6 m³** (cargo bay ~1.6 m long reference) |
 | Ngưng nạp sau | Trục cứng với **leaf  Tiến trình  Dịch vụ:** (tách đạn) |
-| Name | ** 35.2 kWh / 260 km phạm vi làm việc điều chỉnh** |
+| Name | ** 35.2 kWh 260 km phạm vi làm việc điều chỉnh** |
 | Xây dựng mới | Một cuộc đấu súng lớn hơn ** Tòa nhà Xuanwu được liệt kê trong cơ sở dữ liệu Trung Quốc**, nhưng không xác nhận được ở đây — xác nhận trên danh mục MIT và tờ xây dựng VIN (TME_SENIITIVE) |
 
 Đối với một chiếc xe tải hậu cần, khách hàng nên cân nhắc số lượng **cargo, tải (được xác nhận trên mã số bị đồng tính), trục lá sau có độ cao 90 km/h và số lượng cầu thang** so với tốc độ cần thiết - đây là một phương tiện chạy xe tải thành phố/ dặm cuối cùng, không phải một chiếc xe tải dài.
@@ -49,7 +49,7 @@ Không có giá xuất khẩu tĩnh và không có bệnh xơ rải rác Trung Q
 **Nó sẽ đi bao xa với một vụ sạc? Bộ cơ sở tham khảo là 35.2 kWh tại khoảng 260 km (điều kiện làm việc); một nhà máy lớn hơn được liệt kê nhưng con số chính xác của nó phải được xác nhận trên danh mục và mã số, thay vì trích dẫn.
 ** Tốc độ tối đa là bao nhiêu?** 90 km/h, giới hạn điện tử — đặc điểm của thành phố/ dặm cuối cùng.
 **Có V6E được xuất khẩu không? Vâng, một mẻ EU-spec được ghi nhận đã được chuyển đến Türkiye ở Feb 2024; việc xuất khẩu không tự động giống chiếc xe tải Trung Quốc.
-Nó dùng động cơ nào? Một chiếc xe máy Wolong-ZF TZ185XS022 liên tục magent, 60 kW / 220 N·m.
+Nó dùng động cơ nào? Một chiếc xe máy Wolong-ZF TZ185XS022 liên tục magent, 60 kW 220 N·m.
 
 ## Thu ảnh
 - Không có bảo mật trong kho
@@ -64,23 +64,23 @@ Nó dùng động cơ nào? Một chiếc xe máy Wolong-ZF TZ185XS022 liên t�
 - TRONG SÁCH TRONG LINH: FAIL (không có giấy phép lấy được tài sản; một người giữ chỗ hoặc “không chấp nhận lời nhắn cũ của hình ảnh ”
 - - Không. Không thể bảo đảm ảnh có thể tái tạo: Wikimedia Commons/Flickr không thể tới từ môi trường nghiên cứu, thư viện chứng khoán yêu cầu quyền truy cập hệ thống ARI/licence, và một trang web OEM không phải là một tài trợ tái sử dụng thương mại; không có ảnh tự động của AutoBridge. Giữ FAIL thay vì khẳng định.
 - Theo ngôn ngữ:
-  - **EN**: AutoBridge export-buyer reference — Farizon Xingxiang V6E, battery-electric vehicle / cargo van
-  - **FR**: Référence AutoBridge pour acheteurs export — Farizon Xingxiang V6E, véhicule 100 % électrique / fourgon
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Farizon Xingxiang V6E, batterieelektrisches Fahrzeug / Kastenwagen
-  - **ES**: Referencia AutoBridge para compradores de exportación — Farizon Xingxiang V6E, vehículo 100 % eléctrico / furgoneta de carga
-  - **PT**: Referência AutoBridge para compradores de exportação — Farizon Xingxiang V6E, veículo 100 % elétrico / furgão de carga
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Farizon Xingxiang V6E, 純電気自動車 / 貨物バン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Farizon Xingxiang V6E, 순수 전기차 / 카고 밴
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Farizon Xingxiang V6E, xe thuần điện / xe van chở hàng
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Farizon Xingxiang V6E, รถยนต์ไฟฟ้า 100% / รถตู้บรรทุก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Farizon Xingxiang V6E, kendaraan listrik murni / van kargo
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Farizon Xingxiang V6E, مركبة كهربائية بالبطارية / شاحنة فان للبضائع
-  - **ZH**: AutoBridge 出口采购参考｜Farizon Xingxiang V6E, 纯电动车 / 厢式货车
+  - **EN**: AutoBridge export-buyer reference — Farizon Xingxiang V6E, battery-electric vehicle cargo van
+  - **FR**: Référence AutoBridge pour acheteurs export — Farizon Xingxiang V6E, véhicule 100 % électrique fourgon
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Farizon Xingxiang V6E, batterieelektrisches Fahrzeug Kastenwagen
+  - **ES**: Referencia AutoBridge para compradores de exportación — Farizon Xingxiang V6E, vehículo 100 % eléctrico furgoneta de carga
+  - **PT**: Referência AutoBridge para compradores de exportação — Farizon Xingxiang V6E, veículo 100 % elétrico furgão de carga
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Farizon Xingxiang V6E, 純電気自動車 貨物バン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Farizon Xingxiang V6E, 순수 전기차 카고 밴
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Farizon Xingxiang V6E, xe thuần điện xe van chở hàng
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Farizon Xingxiang V6E, รถยนต์ไฟฟ้า 100% รถตู้บรรทุก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Farizon Xingxiang V6E, kendaraan listrik murni van kargo
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Farizon Xingxiang V6E, مركبة كهربائية بالبطارية شاحنة فان للبضائع
+  - **ZH**: AutoBridge 出口采购参考｜Farizon Xingxiang V6E, 纯电动车 厢式货车
 
 ## Nguồn và Định dạng
 | Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
-| V6E tiết lộ (giới hạn hút thuốc/ 0–50/speed) | Xe tải về nhà / Toutao | CN | http://m.toutiao.com/group/7064810099012895240/ | 2026-09-03 | ĐÃ_ ĐÃ | 60 kW / 220 N·m, 90 km/h giới hạn, trục lá |
+| V6E tiết lộ (giới hạn hút thuốc/ 0–50/speed) | Xe tải về nhà Toutao | CN | http://m.toutiao.com/group/7064810099012895240/ | 2026-09-03 | ĐÃ_ ĐÃ | 60 kW 220 N·m, 90 km/h giới hạn, trục lá |
 | V6E EU-spec export to Türkiye (6 m³) | Vận chuyển Trung Quốc Tin tức mới | Phương tiện truyền thông CN (danh sách xuất bản: TR) | https://www.zgjtb.com/m/2024-02/01/content_398656.html | 2026-09-03 | ĐÃ_ ĐÃ | Feb- 2024 EU-spec Türkiye,  6 m³ (news record, Không phải OEM/Chính phủ; Không phải VERIEIED) |
 | Light-commercial report (35.2 kWh/260 km/6 m³) | Comment | CN | https://m.sohu.com/a/931378694_121823499/ | 2026-09-03 | ĐÃ_ ĐÃ | Name |
 | Name | MIT, Bộ Công nghệ và Thông tin Trung Quốc | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VEII | Kiểm tra nhà sản xuất, mô hình được phê chuẩn và mục liệt kê (公告) trước khi đặt hàng hoặc xuất |
@@ -89,10 +89,10 @@ Nó dùng động cơ nào? Một chiếc xe máy Wolong-ZF TZ185XS022 liên t�
 | GB 38031 an toàn về pin (GB 38031-2025); ứng dụng kiểu mới bắt buộc từ 2026-07-01) | Nền tảng chuẩn toàn quốc SAR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VEII | Điều kiện an toàn về sự quản lý-sự trì trệ của đàn ông cho chương trình điện năng |
 | Yêu cầu an toàn phương tiện điện GB 18384 (GB 18384-2025) | Nền tảng chuẩn toàn quốc SAR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VEII | Yêu cầu an toàn chức năng điện/ động cơ điện |
 
-*Bicker bại sản xuất giấy tờ: kỷ lục xuất khẩu Türkiye là các bản báo cáo kỹ thuật CROSS_CHED (các phương tiện truyền thông / công nghiệp thử nghiệm mới không phải là VERFIED — chỉ có OEM/ chính phủ/regulator/ tiêu chuẩn/formal file kỹ thuật đến VERIED); được coi là một kỷ lục phân phối, không phải là một bằng chứng mẫu. Động cơ cơ cơ/h được kiểm tra chéo; mẫu mới 51 kWh được thiết kế nhạy cảm hơn. Trung Quốc GB/T và EU-spec xây dựng được giữ riêng lẻ cho mỗi MODEL_ Luật củaSCOPE. ♪
+*Bicker bại sản xuất giấy tờ: kỷ lục xuất khẩu Türkiye là các bản báo cáo kỹ thuật CROSS_CHED (các phương tiện truyền thông công nghiệp thử nghiệm mới không phải là VERFIED — chỉ có OEM/ chính phủ/regulator/ tiêu chuẩn/formal file kỹ thuật đến VERIED); được coi là một kỷ lục phân phối, không phải là một bằng chứng mẫu. Động cơ cơ cơ/h được kiểm tra chéo; mẫu mới 51 kWh được thiết kế nhạy cảm hơn. Trung Quốc GB/T và EU-spec xây dựng được giữ riêng lẻ cho mỗi MODEL_ Luật củaSCOPE. ♪
 
 ## Xem lại tập tin
-- **Author / recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
+- **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
 - **Last xem lại**: 2026-09-05
 - ** Thị trường chăm sóc khách hàng**: China, Xengxiang V6E (tham khảo thị trường Trung Hoa; xuất khẩu EU-spec giữ riêng biệt)
 - Phương pháp xác thực **: Kiểm tra chéo + hồ sơ xuất khẩu chính thức; pin năm và phạm vi thị trường bị cô lập

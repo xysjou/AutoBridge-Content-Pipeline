@@ -1,13 +1,13 @@
-# Geely Xingyuan / Galaxy Xingyuan (2025/2026) — BEV-Spezifikationen für den chinesischen Markt und Exportprüfung
+# Geely Xingyuan Galaxy Xingyuan (2025/2026) — BEV-Spezifikationen für den chinesischen Markt und Exportprüfung
 
 ## SEO Metadaten
 - **SEO Titel**: Geely Xingyuan (Galaxy Xingyuan) BEV: Chinesisch-Markt Specs & Export Guide
-- **Meta Description**: Chinesischer Markt Geely Xingyuan / Starwish Small EV: GEA-Architektur, RWD,  58/85 kW motors,  310/410 km CLTC, 40.16 kWh-Linie  and  Exportkäuferkontrollen.
-- ** H1 **: Geely Xingyuan / Galaxy Xingyuan (2025/2026) - BEV-Spezifikationen für den chinesischen Markt und Exportprüfung
-- ** Primäres Keyword**: Geely / 吉利 Xingyuan / 吉利星愿 (Galaxy 星愿) Specs Export
+- **Meta Description**: Chinesischer Markt Geely Xingyuan Starwish Small EV: GEA-Architektur, RWD,  58/85 kW motors,  310/410 km CLTC, 40.16 kWh-Linie  and  Exportkäuferkontrollen.
+- ** H1 **: Geely Xingyuan Galaxy Xingyuan (2025/2026) - BEV-Spezifikationen für den chinesischen Markt und Exportprüfung
+- ** Primäres Keyword**: Geely 吉利 Xingyuan 吉利星愿 (Galaxy 星愿) Specs Export
 - **Secondary Search Terms**: Geely Xingyuan Export; Galaxy Xingyuan Specs; Geely Starwish; Chinesische kleine elektrische Heckklappe; CLTC Stadt EV
 - **Vorgeschlagene URL**: /Fahrzeuge/geely-xingyuan/
-- **Search Intent**: 了解 Geely / 吉利 Xingyuan / 吉利星愿（Galaxy 星愿） 中国版规格、配置与出口适配性（车型参数页）
+- **Search Intent**: 了解 Geely 吉利 Xingyuan 吉利星愿（Galaxy 星愿） 中国版规格、配置与出口适配性（车型参数页）
 - **Interne Linkvorschläge**: /Fahrzeuge/geely-xingyuan/, /guides/ev-shipping- un3556-imdg-compliance-history/, /guides/export-compliance-sanctions-screening-end-user/
 - **Schema-Scope**: Artikel + Fahrzeug (kein Produkt/Angebot/Bewertung)
 
@@ -15,29 +15,29 @@
 Der **Geely Xingyuan (Galaxy Xingyuan, in einigen Exportmärkten unter einem eigenen englischen Namen vermarktet) ** ist eine A0 fünftürige batterieelektrische Heckklappe auf Geelys **GEA ** EV-Architektur mit ** Hinterradantrieb **. Diese Seite ist die **Chinesische Markt** Referenz; ein ausländischer Modellname wird ohne OEM-Erklärung nicht als identisch behandelt.
 
 ## Elektrische Antriebsstrang- und Range-Strecken
-- **Körper**: 4135 / 1805 / 1570 (STAR 限定版车长 4155) mm (STAR-Ausgabe 4155 mm lang), Radstand 2650 mm, 5 门 5 座; 后置后驱.
-- **Motoren**: 58 / 85 kW Optionen.
+- **Körper**: 4135 1805 1570 (STAR 限定版车长 4155) mm (STAR-Ausgabe 4155 mm lang), Radstand 2650 mm, 5 门 5 座; 后置后驱.
+- **Motoren**: 58 85 kW Optionen.
 - **Batterie **: 磷酸铁锂; die eroberte Kapazitätslinie ist 40.16 kWh für das Langstreckenauto. Ein bestimmter Zelllieferant erscheint nur in Enzyklopädie-/Medienkonten und ist **nicht OEM-bestätigt**, so dass er zurückgehalten wird.
-- **Range**: 310 / 410 km CLTC (gekreuzt) - ein chinesischer Testzyklus, nicht WLTP.
+- **Range**: 310 410 km CLTC (gekreuzt) - ein chinesischer Testzyklus, nicht WLTP.
 - **Ladung**: 375 (前备厢 70, 后排放倒 1320) L; Plattform GEA 纯电架构.
 - **Peak Ladeleistung wird nicht zuverlässig erfasst und nicht angegeben. **
 
 ## Verifizierte Spezifikationstabelle (Referenz des chinesischen Marktes)
 | Spezifikation | Wert | Einheit | Markt | Vertrauen | Quelle: |
 |---|---|---|---|---|---|
-| Breitenbreitenhöhe | 4135 / 1805 / 1570 (STAR 限定版车长 4155) | mm | CHINA | CROSS_CHECKED | 搜狐双页 |
+| Breitenbreitenhöhe | 4135 1805 1570 (STAR 限定版车长 4155) | mm | CHINA | CROSS_CHECKED | 搜狐双页 |
 | Radstand | 2650 | mm | CHINA | CROSS_CHECKED | 搜狐 + 腾讯 |
 | Sitzplätze | 5门5座 | - | CHINA | SINGLE_SOURCEN | 搜狐车型库 |
 | Layout | 后置后驱 | - | CHINA | SINGLE_SOURCEN | 腾讯新闻 |
-| Motorleistungsoptionen | 58 / 85 | kW | CHINA | SINGLE_SOURCEN | 搜狐汽车 |
+| Motorleistungsoptionen | 58 85 | kW | CHINA | SINGLE_SOURCEN | 搜狐汽车 |
 | Batterietyp | 磷酸铁锂 | - | CHINA | SINGLE_SOURCEN | 搜狐汽车 |
 | Batteriekapazität 410 | 40.16 | k Whh | CHINA | SINGLE_SOURCEN | 搜狐汽车 |
-| Bereich cltc | 310 / 410 | km | CHINA | CROSS_CHECKED | 搜狐 + 腾讯 |
+| Bereich cltc | 310 410 | km | CHINA | CROSS_CHECKED | 搜狐 + 腾讯 |
 | Frachtvolumen | 375 (前备厢 70, 后排放倒 1320) | L | CHINA | SINGLE_SOURCEN | 搜狐车型库 |
 | Plattform | GEA 纯电架构 | - | CHINA | SINGLE_SOURCEN | 腾讯新闻 |
 
 ## Small-EV-Exportlogik: Batterieleitung, Zyklus und Versand
-Stadt Elektrofahrzeuge werden häufig falsch zitiert, indem eine Bereichsnummer für zwei Motor- / Batterieleitungen verwendet wird. Auf dem Xingyuan koppeln Sie den Motor (58 oder 85 kW) mit seiner passenden Batterie und CLTC-Reihe bei jeder Bestellung und konvertieren Sie ihn in den Zieltestzyklus, anstatt CLTC neu zu kennzeichnen. Als Lithium-Ionen-Batterie-EV folgt die Seefracht der aktuellen IMDG-Klassifizierung für batteriebetriebene Fahrzeuge (UN3556 für das intakte Fahrzeug) - siehe Versandleitfaden. Batterielieferant und Spitzenladeleistung bleiben unbestätigt, bis OEM-Daten vorliegen.
+Stadt Elektrofahrzeuge werden häufig falsch zitiert, indem eine Bereichsnummer für zwei Motor- Batterieleitungen verwendet wird. Auf dem Xingyuan koppeln Sie den Motor (58 oder 85 kW) mit seiner passenden Batterie und CLTC-Reihe bei jeder Bestellung und konvertieren Sie ihn in den Zieltestzyklus, anstatt CLTC neu zu kennzeichnen. Als Lithium-Ionen-Batterie-EV folgt die Seefracht der aktuellen IMDG-Klassifizierung für batteriebetriebene Fahrzeuge (UN3556 für das intakte Fahrzeug) - siehe Versandleitfaden. Batterielieferant und Spitzenladeleistung bleiben unbestätigt, bis OEM-Daten vorliegen.
 
 ## Überprüfung des ausländischen Käufers vor Zahlung
 1. Match Motor Option zu Batterie und CLTC-Bereich; erhalten Sie die VIN Build-Linie.

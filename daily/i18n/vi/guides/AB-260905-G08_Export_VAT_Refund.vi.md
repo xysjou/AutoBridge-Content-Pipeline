@@ -8,7 +8,7 @@
 - **Secondary Search termss**: xuất khẩu VAT; hoàn lại tín dụng; rút lại tín dụng; xuất khẩu rebate; trả lại lãi suất; Trung Quốc thuế
 - ** URL đã gợi ý**: /guides/china-eport-vat-refuld- compend- compor/
 - **Tìm kiếm Intent**: 生产企业与外贸企业如何办理出口货物增值税退 (免) 税  dám 申报流程 计算逻辑与退税率查询
-- **I nội bộ Link gợi ý**: //guides/childa-export-customs-decation-single-windo/, /guides/export-fx-settlement-fde-fx-regist/, /guides/vehle-cle-code-h-hhisec-h-h-hisesec/
+- **I nội bộ Link gợi ý**: /guides/export-fx-settlement-fde-fx-regist/, /guides/vehle-cle-code-h-hhisec-h-h-hisesec/
 - **Schema Scope**: Điều khoản (không có sản phẩm/ sản phẩm/ xuất/Rover)
 
 ## Hai phương pháp, phù hợp với kiểu doanh nghiệp
@@ -45,12 +45,12 @@ Khi nào tôi nộp hồ sơ? Sau khi xuất khẩu khai báo với tài liệu 
 | Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
 | 出口业务增值税和消费税退 (免) 税管理办法 (税务总局公告) | 中国政府网 | CN | T1 | VEII | https://www.gov.cn/zhengce/zhengceku/202602/content_7056762.htm | 申报期限, 免抵退申报资料 |
-| 关于出口业务增值税和消费税政策的公告 | 中华人民共和国财政部 | CN | T1 | VEII | https://www.mof.gov.cn/jrttts/202602/t20260203_3983176.htm | 免抵退 / 免退税办法定义 |
-| 出口货物劳务免抵退税和免退税如何计算 | 国家税务总局 | CN | T1 | VEII | https://www.chinatax.gov.cn/chinatax/c102449/c5237525/content.html | 当期应退 / 免抵税额计算 |
+| 关于出口业务增值税和消费税政策的公告 | 中华人民共和国财政部 | CN | T1 | VEII | https://www.mof.gov.cn/jrttts/202602/t20260203_3983176.htm | 免抵退 免退税办法定义 |
+| 出口货物劳务免抵退税和免退税如何计算 | 国家税务总局 | CN | T1 | VEII | https://www.chinatax.gov.cn/chinatax/c102449/c5237525/content.html | 当期应退 免抵税额计算 |
 | 进出口税收热点问题 (2026 年 7 月) | 国家税务总局北京市税务局 | CN | T1 | VEII | http://beijing.chinatax.gov.cn/bjswj/c105390/202608/ec1a021ae3af4c368e72684ca1bbe4df.shtml | 报关后申报与核销 |
-| Bộ quản lý thuế bang (STA) | STA 国家税务总局 | CN | T1 | VEII | https://www.chinatax.gov.cn/ | xuất khẩu thẩm quyền ợ trở lại / gỡ bỏ |
+| Bộ quản lý thuế bang (STA) | STA 国家税务总局 | CN | T1 | VEII | https://www.chinatax.gov.cn/ | xuất khẩu thẩm quyền ợ trở lại gỡ bỏ |
 | GACC — khai báo xuất dạng cơ sở kiểm tra mã nguồn VAT-refued | Tổng hành dinh Trung Quốc (海关总署 GACC) | CN | T1/T2 | VEII | http://www.customs.gov.cn/ | Tập tin khai báo của tập tin xuất khẩu theo tập tin nhập khẩu của tập tin nhập khẩu của tập tin có thẻ đã được kiểm tra để kiểm tra xuất khẩu VAT/refued-expion |
-| STA — xuất chỉ mục chính sách trả lại VT (trang sâu) | Bộ quản lý thuế bang (国家税务总局 STA) | CN | T1/T2 | VEII | https://www.chinatax.gov.cn/chinatax/n810341/n810755/ | Cột chính sách độc quyền thuế mang thông báo trả lại / gỡ bỏ hàng hóa VAT hiện tại (không có tỷ lệ tái sử dụng ở đây) |
+| STA — xuất chỉ mục chính sách trả lại VT (trang sâu) | Bộ quản lý thuế bang (国家税务总局 STA) | CN | T1/T2 | VEII | https://www.chinatax.gov.cn/chinatax/n810341/n810755/ | Cột chính sách độc quyền thuế mang thông báo trả lại gỡ bỏ hàng hóa VAT hiện tại (không có tỷ lệ tái sử dụng ở đây) |
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team* [các tác giả] (/các tác giả/)_* [Chính sách hiệu chỉnh] (/chính sách chính sách đối lập/)
 - **Last xem lại**: 2026-09-05

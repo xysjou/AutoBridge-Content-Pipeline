@@ -23,7 +23,7 @@ Um caminhão refrigerado não é uma especificação de fábrica única. O **cha
 | Item | Tianjin KR 6.8 m reefer (China reference) |
 |---|---|
 | Motor | Dongfeng Cummins ** B6.2NS6B245 **, inline- 6, 6.2 L diesel |
-| Potência / binário | **180 kW (245 PS) / 1000 N·m** |
+| Potência binário | **180 kW (245 PS) 1000 N·m** |
 | Caixa de velocidades | Rápido (Vestuário Rápido) ** 8JS105A/TA 8-speed ** |
 | Eixo traseiro | Dana ** 416 **, relação ** 4.11 ** |
 | GVW | **18 t** |
@@ -31,7 +31,7 @@ Um caminhão refrigerado não é uma especificação de fábrica única. O **cha
 
 ## Superestrutura: O que o Body Builder decide (não são dados fixos do chassis)
 A seguir são **upfit seleções especificadas na folha de construção do construtor de corpo**, e esta página deliberadamente não os codifica:
-- ** Unidade de refrigeração marca / modelo** e se é guiado por correia ou tem um motor elétrico standby.
+- ** Unidade de refrigeração marca modelo** e se é guiado por correia ou tem um motor elétrico standby.
 - **Número de zonas de temperatura** (intervalo único/multi-tempo) e intervalo de pontos de ajuste.
 - ** Material de isolamento e espessura do painel**, dimensões interiores e classificação de carga do piso.
 - Configuração da porta, portas laterais, montagem de carris/trilhos.
@@ -43,7 +43,7 @@ Solicitar a folha de configuração do construtor de corpo** como um documento s
 
 ## Verificação do comprador no exterior antes do pagamento
 - Confirmar o formulário de transmissão de eixo/chassi no certificado de chassis DFH antes de especificar a adaptação do requeijão; não é deliberadamente afirmado a partir das figuras de referência chinesas capturadas.
-1. **MIIT model code** (DFH5180XLC / DFH5180XLCG4) on the certificate; GVW e status de limitador de velocidade.
+1. **MIIT model code** (DFH5180XLC DFH5180XLCG4) on the certificate; GVW e status de limitador de velocidade.
 2. * Linha de transmissão de Chassis** — B6.2 245 PS, Fast 8-speed, Dana 416/4.11 — correspondeu ao VIN; KR Plus mantido separado.
 3. ** Construtor de corpo de folha de construção** para unidade de requebrador, zonas, isolamento e dimensões interiores.
 4. **Compatibilidade e homologação de destino de enxofre/pós-tratamento de Diesel de acordo com o guia de emissões-combustível.
@@ -71,18 +71,18 @@ Nenhum preço de exportação é publicado. Informe-se com **Destino País · Qu
 - IMAGEM_RIGHTS_STATUS: FALHA (não é aceita nenhuma propriedade licenciada capturada; uma nota de placeholder ou “reter imagem antiga”)
 - BLOCK_REASON: Nenhuma imagem reutilizável pode ser segura: Wikimedia Commons/Flickr são inalcançáveis do ambiente de pesquisa, bibliotecas de estoque requerem acesso autenticado API/licença, e uma imagem de página web OEM NÃO é uma concessão de reutilização comercial; nenhuma foto de propriedade da AutoBridge existe. Mantive-me em vez de afirmar.
 - ALT por língua:
-  - **EN**: AutoBridge export-buyer reference — Dongfeng Tianjin KR, petrol/diesel Chinese-market vehicle / refrigerated truck
-  - **FR**: Référence AutoBridge pour acheteurs export — Dongfeng Tianjin KR, véhicule thermique (marché chinois) / camion frigorifique
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Dongfeng Tianjin KR, Verbrenner (chinesischer Markt) / Kühl-Lkw
-  - **ES**: Referencia AutoBridge para compradores de exportación — Dongfeng Tianjin KR, vehículo de combustión (mercado chino) / camión frigorífico
-  - **PT**: Referência AutoBridge para compradores de exportação — Dongfeng Tianjin KR, veículo a combustão (mercado chinês) / caminhão refrigerado
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Dongfeng Tianjin KR, 中国市場仕様 内燃機関車 / 冷凍車
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Dongfeng Tianjin KR, 중국 시장 내연기관 차량 / 냉동·냉장 트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Dongfeng Tianjin KR, xe động cơ đốt trong (thị trường Trung Quốc) / xe tải lạnh
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Dongfeng Tianjin KR, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถบรรทุกห้องเย็น
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Dongfeng Tianjin KR, kendaraan mesin pembakaran (pasar Tiongkok) / truk berpendingin
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Dongfeng Tianjin KR, مركبة بمحرك احتراق (سوق الصين) / شاحنة مبردة
-  - **ZH**: AutoBridge 出口采购参考｜Dongfeng Tianjin KR, 中国市场燃油车 / 冷藏车
+  - **EN**: AutoBridge export-buyer reference — Dongfeng Tianjin KR, petrol/diesel Chinese-market vehicle refrigerated truck
+  - **FR**: Référence AutoBridge pour acheteurs export — Dongfeng Tianjin KR, véhicule thermique (marché chinois) camion frigorifique
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Dongfeng Tianjin KR, Verbrenner (chinesischer Markt) Kühl-Lkw
+  - **ES**: Referencia AutoBridge para compradores de exportación — Dongfeng Tianjin KR, vehículo de combustión (mercado chino) camión frigorífico
+  - **PT**: Referência AutoBridge para compradores de exportação — Dongfeng Tianjin KR, veículo a combustão (mercado chinês) caminhão refrigerado
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Dongfeng Tianjin KR, 中国市場仕様 内燃機関車 冷凍車
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Dongfeng Tianjin KR, 중국 시장 내연기관 차량 냉동·냉장 트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Dongfeng Tianjin KR, xe động cơ đốt trong (thị trường Trung Quốc) xe tải lạnh
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Dongfeng Tianjin KR, รถเครื่องยนต์สันดาป (ตลาดจีน) รถบรรทุกห้องเย็น
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Dongfeng Tianjin KR, kendaraan mesin pembakaran (pasar Tiongkok) truk berpendingin
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Dongfeng Tianjin KR, مركبة بمحرك احتراق (سوق الصين) شاحنة مبردة
+  - **ZH**: AutoBridge 出口采购参考｜Dongfeng Tianjin KR, 中国市场燃油车 冷藏车
 
 ## Fontes e Verificação
 | Título do código fonte | Organização | Mercado | URL | Verificado | Confiança | Factos corroborados |
@@ -94,7 +94,7 @@ Nenhum preço de exportação é publicado. Informe-se com **Destino País · Qu
 | Fabricantes de veículos automóveis e catálogo de produtos — sistema público de consulta | MIIT, China Ministério da Indústria e Tecnologia da Informação | NC | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFICADO | Verifique o fabricante, modelo aprovado e homologação (公告) entrada do catálogo antes de encomendar ou exportar |
 | GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SARR, Administração do Estado para a regulação do mercado | NC | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFICADO | Condições técnicas de segurança do veículo em linha de base na China e o calendário atual/revisão |
 | GB 17691-2018 emissões poluentes de veículos diesel pesados (China-VI) | Ministério da Ecologia e do Ambiente (MEE) | NC | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VERIFICADO | China-VI fase de emissão de ignição por compressão (diesel pesado) para caminhões/coaches |
-| GB 19147 diesel automóvel padrão nacional (base baixa-sulfur) | Plataforma SAMR de texto completo | NC | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFICADO | Nível de combustível diesel e base de enxofre para combinar motor / projeto de emissão no exterior |
+| GB 19147 diesel automóvel padrão nacional (base baixa-sulfur) | Plataforma SAMR de texto completo | NC | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFICADO | Nível de combustível diesel e base de enxofre para combinar motor projeto de emissão no exterior |
 
 * Nota de confiança: código do modelo ancorado ao lote MIIT- relatório 410, unidade de requebrador/zonas/isulação intencionalmente deixado para o construtor de corpo (sem valores codificados); KR Mais excluídos. Referência do mercado chinês; confirme a notação legal no anúncio/certificado. *
 

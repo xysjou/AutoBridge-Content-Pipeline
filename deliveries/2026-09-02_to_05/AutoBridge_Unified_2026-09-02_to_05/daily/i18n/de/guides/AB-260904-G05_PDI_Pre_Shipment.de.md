@@ -12,9 +12,9 @@
 - **ALT-Vorschläge**: "Nannte RoRo-Trägeranforderungen im Vergleich zur empfohlenen Checkliste vor dem Versand"
 
 ## Zwei Schichten, die nicht zusammengeführt werden dürfen
-Schadensstreitigkeiten am Bestimmungsort gehen fast immer auf eine Frage zurück: Wie war der Zustand des Fahrzeugs, der Kraftstoff- / Batteriezustand und die Funktionsfähigkeit ** bei der Übergabe **? Um es sauber zu beantworten, hält diese Anleitung zwei Schichten getrennt:
+Schadensstreitigkeiten am Bestimmungsort gehen fast immer auf eine Frage zurück: Wie war der Zustand des Fahrzeugs, der Kraftstoff- Batteriezustand und die Funktionsfähigkeit ** bei der Übergabe **? Um es sauber zu beantworten, hält diese Anleitung zwei Schichten getrennt:
 1. **Named-Carrier-Anforderungen (CARRIER_SPECIFIC)** – schriftliche Richtlinien bestimmter RoRo-Carrier, hier **Wallenius Wilhelmsen (WW)** und **Höegh Autoliners (Höegh)**. Dies sind ** Carrier-Richtlinien, keine internationalen Vorschriften **, sie sind nicht universell in allen Reedereien, und die schriftlichen Anweisungen des gebuchten Carriers gelten immer.
-2. ** AutoBridge empfohlene Checkliste vor dem Versand (EDITORIAL_RECOMMENDATION)** - eine Inspektions- / Aufzeichnungsmethode, die dieser Leitfaden für Beweise empfiehlt. Es ist **nicht ** ein industrieobligatorisches Verfahren und wird nicht als ein solches präsentiert.
+2. ** AutoBridge empfohlene Checkliste vor dem Versand (EDITORIAL_RECOMMENDATION)** - eine Inspektions- Aufzeichnungsmethode, die dieser Leitfaden für Beweise empfiehlt. Es ist **nicht ** ein industrieobligatorisches Verfahren und wird nicht als ein solches präsentiert.
 
 ## Named-Carrier Policies (CARRIER_SPECIFIC — Name des Carriers angeben)
 | Thema | Wallenius Wilhelmsen | Autoliner von Höegh | Natur |
@@ -24,10 +24,10 @@ Schadensstreitigkeiten am Bestimmungsort gehen fast immer auf eine Frage zurück
 | **BEV Hochspannungs-SOC** | — | **SOC nicht mehr als 50% **, während genügend Ladung für das Be-/Entladen/Lagern beibehalten wird; HEV: ≤¼ fuel plus SOC guidance | Höegh-spezifisch; **nicht** eine globale SOC-Obergrenze |
 | **Bedienbarkeit** | RoRo-Einheiten müssen sich selbst sicher ein-/ausfahren (Bewegung/Bremse/Lenkung); fehlerhafte oder undichte Einheiten können zurückgewiesen werden | Gleiche Anforderung an das selbstfahrende Fahren | Carrier-Empfangsregel für diese beiden benannten Zeilen |
 
-Diese Anforderungen werden den benannten Fluggesellschaften gerade deshalb genannt, weil sie **von Linie und von Reise variieren **: Ein chinesischer RoRo / Container-Carrier oder eine andere Linie kann unterschiedliche Niveaus festlegen. Geben Sie niemals "Carriers require X" an, ohne den Carrier zu benennen und seinen aktuellen schriftlichen Leitfaden zu überprüfen.
+Diese Anforderungen werden den benannten Fluggesellschaften gerade deshalb genannt, weil sie **von Linie und von Reise variieren **: Ein chinesischer RoRo Container-Carrier oder eine andere Linie kann unterschiedliche Niveaus festlegen. Geben Sie niemals "Carriers require X" an, ohne den Carrier zu benennen und seinen aktuellen schriftlichen Leitfaden zu überprüfen.
 
 ## AutoBridge Recommended Pre-Shipment Checkliste (redaktionelle Methode, nicht obligatorisch)
-Das Folgende ist **unsere empfohlene Sourcing / Handover-Methode **, die angeboten wird, um einen Beweispfad zu erstellen; es ist kein gesetzliches oder universelles Carrier-Verfahren:
+Das Folgende ist **unsere empfohlene Sourcing Handover-Methode **, die angeboten wird, um einen Beweispfad zu erstellen; es ist kein gesetzliches oder universelles Carrier-Verfahren:
 - Außenkörper und Farbe Walk-around; Notieren Sie jede vorhandene Markierung.
 - Dashboard-Warnlichtprüfung (MIL/ABS/SRS/TPMS) vor der Übergabe.
 - Verzeichnis der Werkzeuge, Ersatzschlüssel, Ladekabel und Bordzubehör.
@@ -40,15 +40,15 @@ Anzahl der Verkrustungen, Bruchfestigkeit des Gurtbandes, Rutschschutzmatten, Fa
 
 ## Die Übergabesequenz, die wir empfehlen
 1. Führen Sie die redaktionelle PDI aus und nehmen Sie datierte Fotos auf (Empfehlung).
-2. Setzen Sie Kraftstoff / SOC auf das **buchte schriftliche Niveau des benannten Spediteurs ** (WW / Höegh wie oben; ansonsten erhalten Sie den Leitfaden des Spediteurs).
+2. Setzen Sie Kraftstoff SOC auf das **buchte schriftliche Niveau des benannten Spediteurs ** (WW Höegh wie oben; ansonsten erhalten Sie den Leitfaden des Spediteurs).
 3. Bestätigen Sie die Bedienbarkeit (Zug/Bremse/Lenkung) und lösen Sie Lecks/Warnleuchten.
 4. Führen Sie am Terminal die gemeinsame Inspektion durch und unterschreiben Sie den Übergabeaufzeichnungsnachweis (Empfehlung).
-5. Dateifotos + Übergabeblatt mit dem B / L, so dass jeder Zielanspruch eine Baseline hat.
+5. Dateifotos + Übergabeblatt mit dem B L, so dass jeder Zielanspruch eine Baseline hat.
 
 ## Grenzen dieses Leitfadens
 - WW/Höegh-Artikel sind **CARRIER_SPECIFIC**, niemals verallgemeinert auf "alle Carrier" oder auf Regulierung.
 - Die Checkliste ist **Empfehlung**, kein obligatorisches Industrieverfahren.
-- Feste Verzurr- / Druck- / Orientierungs- / SOC-Nummern, die über die genannten Träger hinausgehen, sind **gesperrt, bis OEM / Carrier Primärdokumente ** vorliegen.
+- Feste Verzurr- Druck- Orientierungs- SOC-Nummern, die über die genannten Träger hinausgehen, sind **gesperrt, bis OEM Carrier Primärdokumente ** vorliegen.
 
 ## Häufig gestellte Fragen
 **Ist ein Vierteltank eine gesetzliche Anforderung?** Nein — es ist eine schriftliche Richtlinie von benannten RoRo-Fluggesellschaften wie Wallenius Wilhelmsen und Höegh; folgen Sie den Anweisungen des gebuchten Luftfahrtunternehmens.
@@ -89,11 +89,11 @@ Anzahl der Verkrustungen, Bruchfestigkeit des Gurtbandes, Rutschschutzmatten, Fa
 | WWW Empfang von gebrauchten Einheiten (Trennung 12/24V ohne Kill-Switch) | Wallenius Wilhelmsen | INTL | https://cargohandlinginstruction.walleniuswilhelmsen.com/terminal/receiving-of-used-units-draft | 2026-09-04 | SINGLE_SOURCE (Primärunternehmen) | Batterieabschaltung für gebrauchtes ICE |
 | Höegh Automotive shipping (≤¼ fuel; BEV SOC; Bedienbarkeit | Autoliner von Höegh | INTL | https://www.hoeghautoliners.com/what-we-ship/automotive | 2026-09-04 | SINGLE_SOURCE (Primärunternehmen) | BEV ≤ 50% SOC, Kraftstoff, Betriebsfähigkeit |
 | Höegh Trucks/Busse/Trailers Shipping | Autoliner von Höegh | INTL | https://www.hoeghautoliners.com/what-we-ship/trucks-buses-and-trailers-shipping | 2026-09-04 | SINGLE_SOURCE (Primärunternehmen) | Empfang von Handelseinheiten |
-| Vorversandkontrolle und Übergabepraxis | 11467 Branchenseiten | CN | https://m.11467.com/product/d55278360.htm | 2026-09-04 | SINGLE_SOURCE (Redaktionsbasis) | Empfohlene Checkliste/Foto/Übergabe |
+| Vorversandkontrolle und Übergabepraxis | Branchenseiten | CN | https://m.11467.com/product/d55278360.htm | 2026-09-04 | SINGLE_SOURCE (Redaktionsbasis) | Empfohlene Checkliste/Foto/Übergabe | 11467
 *Beweisumfang: Named-Carrier-Richtlinien, die nach WW/Höegh-Primärhandbüchern verifiziert wurden (Carrier-Richtlinien, nicht Regulierungen, nicht universell); Checkliste ist redaktionelle Empfehlung; feste Peitschen/Druck/Orientierungswerte sind blockiert, bis OEM/Carrier-Dokumente vorliegen. *
 
 | IMO/ILO/UNECE-ZTU Code — Umschlag und Sicherung von Frachttransporteinheiten | Internationale Seeschifffahrtsorganisation (IMO) | INT'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | ÜBERPRÜFUNG | Allgemeines Handling/Sicherung Baseline; Carrier-Regeln bleiben strenger und routenspezifisch |
-| Referenz für Fracht-/Transitversicherung und Seerisiko | Internationale Union für Seeversicherungen (IUMI) | INT'L | https://iumi.com/ | 2026-09-05 | ÜBERPRÜFUNG | Warum dokumentierte PDI / Übergabebeweise für die Handhabung von Frachtforderungen von Bedeutung sind |
+| Referenz für Fracht-/Transitversicherung und Seerisiko | Internationale Union für Seeversicherungen (IUMI) | INT'L | https://iumi.com/ | 2026-09-05 | ÜBERPRÜFUNG | Warum dokumentierte PDI Übergabebeweise für die Handhabung von Frachtforderungen von Bedeutung sind |
 
 ## Editorial Review
 - **AutoBridge Export Editorial Team · Methode nach unserer [Editorial Policy](/redaktionelle Politik/)

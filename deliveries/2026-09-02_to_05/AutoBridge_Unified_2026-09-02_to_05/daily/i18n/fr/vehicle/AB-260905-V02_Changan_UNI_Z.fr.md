@@ -4,10 +4,10 @@
 - ** Titre du référencement**: Changan UNI-Z PHEV 2026: Guide de l'acheteur sur le marché chinois et l'exportation
 - **Description détaillée**: Chine-marché Changan UNI-Z nouvelle baleine bleue PHEV: dimensions, 18.4 kWh ligne LFP, 130 km CLTC portée électrique, DC/ V2L, et VIN-niveau de contrôle pour les importateurs.
 - ** H1 **: Changan UNI-Z (2026, Nouvelle baleine bleue PHEV) — Spécifications du marché chinois et vérification des exportations
-- **Mot-clé principal**: Changan / 长安 UNI-Z spécifications export
+- **Mot-clé principal**: Changan 长安 UNI-Z spécifications export
 - ** Termes de recherche secondaires**: exportation de Changan UNI-Z; spécifications PHEV UNI-Z; SUV hybride rechargeable chinois; exportation V2L; gamme CLTC
 - **URL suggérée**: /véhicules/changan-uni-z/
-- **Intentité de la recherche**: 了解 Changan / 长安 UNI-Z 中国版规格 -配置与出口适配性 (车型参数页)
+- **Intentité de la recherche**: 了解 Changan 长安 UNI-Z 中国版规格 -配置与出口适配性 (车型参数页)
 - **Suggestions de lien interne**: /véhicules/changan-uni-z/, /guides/chine-export-customs-declaration-single-window/, /guides/ccc-certification-export-exemption/
 - **Schema Champ d'application**: article + véhicule (aucun produit/offre/examen)
 
@@ -15,7 +15,7 @@
 Le **Changan UNI-Z (2026)** couvert ici est le marché chinois ** nouveau hybride rechargeable de la baleine bleue (Xin Lan Jing)** SUV compact. C'est une ligne distincte de n'importe quel UNI-Z pur-pétrole et des plaques nominatives du marché d'exportation Changan peut utiliser ailleurs; aucune équivalence de nom à l'étranger n'est revendiquée sans une déclaration OEM. Le marché de référence est **Chine**.
 
 ## Puissance, batterie et capacité électrique
-- **Dimensions**: 4730 / 1890 / 1660 (部分配置 1680) mm (certaines configurations 1680 mm hauteur), empattement 2795 mm (transversal); volume de cargaison 638 L.
+- **Dimensions**: 4730 1890 1660 (部分配置 1680) mm (certaines configurations 1680 mm hauteur), empattement 2795 mm (transversal); volume de cargaison 638 L.
 - ** Moteur hybride**: 72 (1.5L 混动专用发动机) kW moteur hybride dédié; moteur d'entraînement 160 kW (contre-vérifié); E-CVT(电混传动).
 - **Batterie**: 磷酸铁锂 environ 约 18.4 kWh. Le fournisseur de cellules apparaît sous deux comptes dans des sources secondaires et est détenu comme **non confirmé** — il n'est pas affirmé ici.
 - **Plage électrique**: 130 km CLTC (cocher); CLTC 1250 km combiné.
@@ -24,7 +24,7 @@ Le **Changan UNI-Z (2026)** couvert ici est le marché chinois ** nouveau hybrid
 ## Tableau des spécifications vérifiées (référence du marché chinois)
 | Spécification | Valeur | Unité | Marché | Confiance | Note de source |
 |---|---|---|---|---|---|
-| hauteur de largeur de longueur | 4730 / 1890 / 1660（部分配置1680） | mm | CHINE | _CHECTURE | 汽车之家 + 搜狐 |
+| hauteur de largeur de longueur | 4730 1890 1660（部分配置1680） | mm | CHINE | _CHECTURE | 汽车之家 + 搜狐 |
 | empattement | 2795 | mm | CHINE | _CHECTURE | 汽车之家 + 搜狐 |
 | volume de chargement | 638 | L | CHINE | SOURCE UNIQUE | 搜狐汽车 |
 | Puissance du moteur | 72 (1.5L 混动专用发动机) | kW | CHINE | SOURCE UNIQUE | 汽车之家车家号 |

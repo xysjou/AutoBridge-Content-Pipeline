@@ -7,7 +7,7 @@
 - **主なキーワード**:インコターム 2020 選択ガイド
 - **二次検索条件**:インコターム2020; FOB対FCA; CIF対CIP; DDPリスク; 多項式; リスク転送
 - **混雑URL**: /ガイド/インコターム- 2020-selection-guide/
-- **Search Intent**: 汽车出口合同如何按运输方式选择 Incoterms 2020 术语、明确风险转移点与费用/保险责任
+- **Search Intent**: 汽车出口合同如何按运输方式选择 Incoterms 2020（保险责任）（明确风险转移点与费用）（术语）
 - **内部リンクの提案**: /guides/export-payment-methods-t-lc-risk/、/guides/marine-cargo-insurance-history/、/guides/china-export-customs-declaration-single-window/
 - **シュマスコープ**: 記事(製品/オファー/レビューなし)
 
@@ -24,14 +24,14 @@ CIF の下で売り手は、買い手の利益のために最小限の海上保�
 
 ## 車両注文のための選択パス
 1. 輸送チェーンを特定:純粋な海対多変量。
-2. 主役を制御する者と、最も確実に不確実/クリアできる人への用語を一致させます。
+2.
 3. 支払方法(L/Cの下のドキュメントフローは、Incotermと一致しなければなりません)で条件を合わせます。
 4. 売主が宛先のインポート、義務およびVAT/GSTを合法的に扱うことができる場合を除き、DDPを避けて下さい。
-5. 名前付き場所/ポートを正確に状態に — 正確なポイントのない用語は、起こりうる紛争です。
+5. — 正確なポイントのない用語は、起こりうる紛争です。
 
 ## よくある質問
 **FOBまたはFCAコンテナ?** FCAは一般的にコンテナ化/マルチモーダルがFOBよりも優れているのに適合しています。
-** CIF は、売主が目的地に危険を及ぼすという意味ですか?** いいえ。売り手が運送/保険を目的地に支払うにもかかわらず、リスクは出荷時に渡します。
+** CIF は、売主が目的地に危険を及ぼすという意味ですか?**
 **CIF 対 CIP カバーか。** CIP は、合意の対象となる CIF よりも高い保険レベルにデフォルトで設定します。
 **中国輸出業者のDDPリスクはなぜですか?** 目的地の輸入通関、関税、税金を担当する売り手になります。
 **How many Incoterms 2020 rules?** Eleven, in two transport-mode groups.
@@ -40,13 +40,13 @@ CIF の下で売り手は、買い手の利益のために最小限の海上保�
 ## ソースと検証
 | ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
 |---|---|---|---|---|---|---|
-| 国际贸易术语图文精讲 (Incoterms2020 共 11 种 / 两大类) の | 中国贸促会广西分会 | CN の | T1 | 検証済み | 以下は、 //www.ccpitgx.org/webcpitgx/2025/rcepjiedu_0624/15195.html のファイル | 11 术语、按运输方式分类、风险费用划分 |
-| 2020 国际贸易术语详解 (FOB 风险点改为装上船) | 浙江省贸促会 | CN の | T1 | 検証済み | 担当: //www.ccpitzj.gov.cn/art/2020/8/17/art_1229557691_11515.html | FOB/CFR/CIF、船舷 → 装上船 |
-| 跨境电子商务贸易术语 (风险转移教材) | 清华大学出版社 | CN の | T3 | CROSS_CHECKED(クロス) | 以下は、 //www.tup.tsinghua.edu.cn/upload/books/yz/095136-01.pdf の | 风险转移、象征性交货 |
-| 規約 2020 規則 (ICC) | 国際商取引の商工会議所 | CN の | T1 | 検証済み | 以下は、 //iccwbo.org/business-solutions/incoterms-rules/incoterms-rules-2020/ | Incoterms 2020の認証発行者 |
-| WCO 起源の機器とツール | 世界税関機関 | CN の | T1 | 検証済み | 以下は、 //www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx | WCOが維持するルール・オブ・オリジンフレームワークと機器 |
-| ICC規則(Incoterms 2020規則所有者 — 専用ページ) | 国際商取引の商工会議所 | エントリー | T1/T2 | 検証済み | 以下は、 //iccwbo.org/ビジネスソリューション/icc-rules/ | ICC規則は、現在の著作権条件のセットおよびICCによるメンテナンスとして、Incoterms 2020を確認するインデックス |
-| FIATA — 投資家がインコタームで練習する | 公益財団法人 貨物運送協会(FIATA) | エントリー | T1/T2 | 検証済み | 以下は、 担当: 藤田 宏 | 配送ポイントのフォワーダー・サイド・解釈、リスク・トランスファー、インコタームに基づく輸送義務 |
+| 国际贸易术语图文精讲 (Incoterms2020 共 11 种 两大类) の | 中国贸促会广西分会 | CN の | T1 | 検証済み | 以下は、 https://www.ccpitgx.org/webcpitgx/2025/rcepjiedu_0624/15195.html のファイル | 11 术语、按运输方式分类、风险费用划分 |
+| 2020 国际贸易术语详解 (FOB 风险点改为装上船) | 浙江省贸促会 | CN の | T1 | 検証済み | 担当: http://www.ccpitzj.gov.cn/art/2020/8/17/art_1229557691_11515.html | FOB/CFR/CIF、船舷 → 装上船 |
+| 跨境电子商务贸易术语 (风险转移教材) | 清华大学出版社 | CN の | T3 | CROSS_CHECKED(クロス) | 以下は、 https://www.tup.tsinghua.edu.cn/upload/books/yz/095136-01.pdf の | 风险转移、象征性交货 |
+| 規約 2020 規則 (ICC) | 国際商取引の商工会議所 | CN の | T1 | 検証済み | 以下は、 https://iccwbo.org/business-solutions/incoterms-rules/incoterms-rules-2020/ | Incoterms 2020の認証発行者 |
+| WCO 起源の機器とツール | 世界税関機関 | CN の | T1 | 検証済み | 以下は、 https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx | WCOが維持するルール・オブ・オリジンフレームワークと機器 |
+| ICC規則(Incoterms 2020規則所有者 — 専用ページ) | 国際商取引の商工会議所 | エントリー | T1/T2 | 検証済み | 以下は、 | ICC規則は、現在の著作権条件のセットおよびICCによるメンテナンスとして、Incoterms 2020を確認するインデックス | https://iccwbo.org/business-solutions/icc-rules/
+| FIATA — 投資家がインコタームで練習する | 公益財団法人 貨物運送協会(FIATA) | エントリー | T1/T2 | 検証済み | 以下は、 担当: 藤田 宏 | 配送ポイントのフォワーダー・サイド・解釈、リスク・トランスファー、インコタームに基づく輸送義務 | https://www.fiata.org/
 ## 編集レビュー
 - **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)
 - **最終審査**:2026-09-05

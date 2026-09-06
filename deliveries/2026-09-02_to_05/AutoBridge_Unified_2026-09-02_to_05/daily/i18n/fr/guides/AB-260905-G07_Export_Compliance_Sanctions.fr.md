@@ -7,7 +7,7 @@
 - **Mot-clé principal**: contrôle de l'utilisateur final
 - **Conditions de recherche secondaires**: contrôle des exportations; contrôle des sanctions; déclaration de l'utilisateur final; partie refusée; double usage; liste restreinte
 - **URL suggérée**: /guides/export-conformité-sanctions-screening-end-user/
-- **Intention de la recherche**: 汽车出口如何做最终用户 / 最终用途尽调 -管控 / 关注名单与境外制裁名单筛查, 规避出口管制与制裁风险
+- **Intention de la recherche**: 汽车出口如何做最终用户 最终用途尽调 -管控 关注名单与境外制裁名单筛查, 规避出口管制与制裁风险
 - **Suggestions de lien interne**: /guides/export-payment-methods-t-lc-risk/, /guides/vérify-chinese-car-export-fournisseur-histoire/, /guides/export-conformité-sanctions-screening-end-user/
 - **Schema Champ d'application**: article (pas de produit/offre/examen)
 
@@ -48,9 +48,9 @@ Ce guide ne dresse pas la liste des entités sanctionnées (elles changent) et n
 | 两用物项出口管制条例 (国务院令第 792 号) | 中华人民共和国商务部 | NC | T1 | VÉRIFIER | http://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2025/art_e63af2ce2c7e406394a2faf84a9b4738.html | 最终用户用途证明, 保存 5 年, 管控名单 |
 | 两用物项出口管制内部合规指南 | 中华人民共和国商务部 | NC | T1 | VÉRIFIER | https://www.mofcom.gov.cn/cms_files/filemanager/1077459795/attach/20239/2021070615181087.pdf | 订单筛查系统, 最终用途声明, 合规体系 |
 | 司法部 商务部负责人就两用物项出口管制条例答记者问 | 中国政府网 | NC | T1 | VÉRIFIER | https://www.gov.cn/zhengce/202410/content_6981660.htm | 全过程最终用户用途管理, 关注名单 |
-| 两用物项出口管制措施专题 (不予许可情形) | 中华人民共和国商务部 | NC | T1 | VÉRIFIER | https://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_148254ba99284928ae6e4f84d1d6f297.html | 军事用户 / 管控关注名单不予许可, ADM/ 恐怖主义 / 军事用途 |
+| 两用物项出口管制措施专题 (不予许可情形) | 中华人民共和国商务部 | NC | T1 | VÉRIFIER | https://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_148254ba99284928ae6e4f84d1d6f297.html | 军事用户 管控关注名单不予许可, ADM/ 恐怖主义 军事用途 |
 | Ministère du commerce (MOFCOM) | MOFCOM 商务部 | NC | T1 | VÉRIFIER | https://www.mofcom.gov.cn/ | autorité compétente pour l'octroi des licences d'exportation et le contrôle des exportations |
-| Règlement (UE) 2021/821 — Régime de contrôle des exportations à double usage de l'UE | Union européenne (EUR-Lex) | UE | T1/T2 | VÉRIFIER | https://eur-lex.europa.eu/eli/reg/2021/821/oj | Exemple de régime de contrôle à double usage et de contrôle à l'usage restreint/à l'usage final applicable à la conception du dépistage |
+| Règlement (UE) — Régime de contrôle des exportations à double usage de l'UE | Union européenne (EUR-Lex) | UE | T1/T2 | VÉRIFIER | https://eur-lex.europa.eu/eli/reg/2021/821/oj | Exemple de régime de contrôle à double usage et de contrôle à l'usage restreint/à l'usage final applicable à la conception du dépistage | 2021/821
 | Liste des entités de la BRI des États-Unis — exemple de contrôle par des parties restreintes | Bureau américain de l'industrie et de la sécurité (BIS) | États-Unis | T1/T2 | VÉRIFIER | https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern/entity-list | Liste publique des personnes à responsabilité limitée illustrant le dépistage de l'entité refusée avant l'expédition |
 | US OFAC SDN Liste — contrôle des sanctions | Bureau américain du contrôle des avoirs étrangers (OFAC) | États-Unis | T1/T2 | VÉRIFIER | https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists | Spécialement désigné Liste des nationaux comme source de données de contrôle des sanctions; liste noire propre à chaque juridiction et non mondiale |
 ## Révision de la rédaction

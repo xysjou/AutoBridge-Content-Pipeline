@@ -2,12 +2,12 @@
 
 ## เชา ข้อมูลกํากับภาพ
 - "SEO Town": Chery Arrizo 8 Spects & ส่งออกคู่มือซื้อ (1.6TGDI, China Reference)
-- ~คําบรรยาย] ~ตลาดจีน~ เชอ ร์ รี อา ริ โซ 8 — 1.6T กุน เปง 145 kW / 290 N·m, 7DCT ร่าง, 4780 mm สัดส่วนการตัดแต่ง, และสิ่งนําเข้ายืนยันก่อนสั่งพิมพ์.
+- ~คําบรรยาย] ~ตลาดจีน~ เชอ ร์ รี อา ริ โซ 8 — 1.6T กุน เปง 145 kW 290 N·m, 7DCT ร่าง, 4780 mm สัดส่วนการตัดแต่ง, และสิ่งนําเข้ายืนยันก่อนสั่งพิมพ์.
 - ~ที่อยู่ URL ที่ถูกรบกวน ~: / เวกซี่/เชอรี-อาริโซ- 8/
 - ** H1 ~: เชอรีย์ อาริโซ 8: ข้อกําหนดเฉพาะของจีนและส่งออกบันทึกอ้างอิง
 - ~คีย์เวิร์ดของกลุ่มคอลัมน์ ~: chry arrizo 8 sports
 - ~ การค้นหาโดยย่อ ~: Arrizo 8 1.6TGDI, เชอรีย์ อาริโซ 8 มิติ, ส่งออก 艾瑞泽 8, Kunpeng SQRF4J16, ส่งออกซีดานแบบจุฬาลงกรณ์จีน
-- ** เชื่อมโยงภายใน *: / Guides/ vin-names-verviewation-weelpics/; / guides/ful-compactition-china-Vicals/;//// guides/ verpics-vicicicic-document-comport-complect.
+- ** เชื่อมโยงภายใน *: Guides/ vin-names-verviewation-weelpics/; guides/ful-compactition-china-Vicals/;//// guides/ verpics-vicicicic-document-comport-complect.
 - ข้อเสนอแนะ: front three-quarter of Arrizo 8; เครื่องยนต์ครอบคลุม 1.6TGDI ตรา; ห้องโดยสารด้านหลัง 7DCT เลือก
 - ข้อเสนอแนะ: "เชอรี่ อาริโซะ 8 1.6TGDI" Schine-Market Cerse". arrizo 8 มิติ 4780mm ล้อเบส 2790mm".
 
@@ -23,14 +23,14 @@ The Arrizo 8 เป็นร้านเหล้าของเชอรีย�
 | การส่ง | 7-speed wet dual-clutch (7DCT) |
 | การจัดวางไดรฟ์ | เครื่องยนต์หน้า ไดรฟ์ล้อหน้า |
 | Claimed top speed | 205 km/h (single-sources; ได้รับการยืนยันว่าแผ่นลายตารางเป๊ะ) |
-| บันทึกช่วยจําที่ใช้ใน เชื้อเพลิง/ อัตโนมัติ | PTERl; จีน- 6 ระดับ — ยืนยันระดับเชื้อเพลิงปลายทางและเส้นทางการปล่อยก๊าซ (จีน- 6 ไม่ได้เป็นตัวเองอนุมัติประเภทต่างประเทศ) |
+| บันทึกช่วยจําที่ใช้ใน อัตโนมัติ | PTERl; จีน- 6 ระดับ — ยืนยันระดับเชื้อเพลิงปลายทางและเส้นทางการปล่อยก๊าซ (จีน- 6 ไม่ได้เป็นตัวเองอนุมัติประเภทต่างประเทศ) |
 
 สําหรับการตัดสินใจหาของที่จัดหามา ให้เน้นที่รหัสเครื่องจักร เกียร์ และเวทีปล่อยสารพิษ แก้ไขทั้งสามกับ VIN แทนชื่อโบรชัวร์ ดูคู่มือการปล่อยน้ํา/การรวมเข้ากับการช่วยคนได้ของจีน- 6 การปรับสภาพยังคงต้องการการกําหนดปลายทาง
 
 ## ร่างกาย ขนาด และ การ หา อาหาร
-- ความยาว/ ความกว้าง/ สูง: ~ 4780 / 1843 / 1469 mm ~
+- สูง: ~ 4780 1843 1469 mm ~
 - เบส: ~ 2790 mm~
-- ประตู / ที่นั่ง: ~ 4 ประตู / 5 ที่นั่ง ~
+- ประตู ที่นั่ง: ~ 4 ประตู 5 ที่นั่ง ~
 2790 mm ล้อเบสเป็นจุดที่วางรถเหนือรถซีดานแบบแบนมาตรฐาน; เปรียบเทียบล้อกับรหัสโปรฟ่าของอาร์ริโซที่มีขนาดเล็กกว่าจึงไม่มีการแทนที่
 
 ## ฉบับ แปล และ ข้อ แตก ต่าง ต่าง ที่ จะ แยก กัน
@@ -46,7 +46,7 @@ The Arrizo 8 เป็นร้านเหล้าของเชอรีย�
 5. ~โหมดการดูดน้ํา~ — ชุดชุดสูท 4.78 m สูท หรือโรโร แพ็ค; ยืนยันว่าแผนนับการโหลดไม่ใช่การประเมิน
 
 ## ต้องการการอ้างถึงการส่งออกแบบปัจจุบัน
-ไม่มีการจัดพิมพ์ราคาการส่งออกแบบคงที่ ราคานําร่องของจีน (2024 卓越 ตร. มาตราฐานอ้างอิงรอบ RMB 99) พ.ศ. 900) เป็นภาษาไทย พ.ศ. การ ใช้ เวลา อย่าง ว่องไว ไม่ ใช่ การ ใช้ เวลา มาก เกิน ไป  and  ต้องไม่แปลงเป็นหนึ่ง สืบค้นเมื่อ.... ดินแดนการปกครอง อําเภอ หม่อมเจ้าทมิฬ ไทรม – ลดี/อาร์เอชดี ท่าเรือ กรมขุนศึก".
+ไม่มีการจัดพิมพ์ราคาการส่งออกแบบคงที่ ราคานําร่องของจีน (2024 卓越 ตร. มาตราฐานอ้างอิงรอบ RMB 99) พ.ศ. 900) เป็นภาษาไทย พ.ศ. การ ใช้ เวลา อย่าง ว่องไว ไม่ ใช่ การ ใช้ เวลา มาก เกิน ไป  and  ต้องไม่แปลงเป็นหนึ่ง สืบค้นเมื่อ.... ดินแดนการปกครอง อําเภอ หม่อมเจ้าทมิฬ ไทรม – ท่าเรือ กรมขุนศึก".
 
 ## คํา ถาม ที่ มัก จะ ถาม บ่อย ๆ
 "เดอะอาร์ริโซะ 8 เป็นรถช่อดอกไม้ขนาดกลางหรือ" 4780 mm ยาว 2790 mm ล้อล้อที่อยู่บนขอบบนของสนาม ใกล้กับมิติ B -- จําแนกมันโดยรอยเท้าวัด ไม่ใช่ในชื่อการตลาด
@@ -62,33 +62,33 @@ The Arrizo 8 เป็นร้านเหล้าของเชอรีย�
 - ลิขสิทธิ์: ไม่ยืนยัน
 - LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
 - _กําหนดวันที่: 2026-09-06
-- MERCUL_ TOPIC_ MATCH: ต้องตรงกับรุ่น/ การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
-- CHAR_SCPE_NOTE: ตรงกับโมเดลที่เป๊ะของครอบครัว/ topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
+- MERCUL_ TOPIC_ MATCH: การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
+- CHAR_SCPE_NOTE: topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
 - March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
 - BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
 - ALT ด้วยภาษา:
-  - **EN**: AutoBridge export-buyer reference — Chery Arrizo 8, petrol/diesel Chinese-market vehicle / sedan
-  - **FR**: Référence AutoBridge pour acheteurs export — Chery Arrizo 8, véhicule thermique (marché chinois) / berline
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Chery Arrizo 8, Verbrenner (chinesischer Markt) / Limousine
-  - **ES**: Referencia AutoBridge para compradores de exportación — Chery Arrizo 8, vehículo de combustión (mercado chino) / berlina
-  - **PT**: Referência AutoBridge para compradores de exportação — Chery Arrizo 8, veículo a combustão (mercado chinês) / sedã
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Chery Arrizo 8, 中国市場仕様 内燃機関車 / セダン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Chery Arrizo 8, 중국 시장 내연기관 차량 / 세단
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Chery Arrizo 8, xe động cơ đốt trong (thị trường Trung Quốc) / sedan
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Chery Arrizo 8, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถเก๋งซีดาน
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Chery Arrizo 8, kendaraan mesin pembakaran (pasar Tiongkok) / sedan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Chery Arrizo 8, مركبة بمحرك احتراق (سوق الصين) / سيدان
-  - **ZH**: AutoBridge 出口采购参考｜Chery Arrizo 8, 中国市场燃油车 / 轿车
+  - **EN**: AutoBridge export-buyer reference — Chery Arrizo 8, petrol/diesel Chinese-market vehicle sedan
+  - **FR**: Référence AutoBridge pour acheteurs export — Chery Arrizo 8, véhicule thermique (marché chinois) berline
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Chery Arrizo 8, Verbrenner (chinesischer Markt) Limousine
+  - **ES**: Referencia AutoBridge para compradores de exportación — Chery Arrizo 8, vehículo de combustión (mercado chino) berlina
+  - **PT**: Referência AutoBridge para compradores de exportação — Chery Arrizo 8, veículo a combustão (mercado chinês) sedã
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Chery Arrizo 8, 中国市場仕様 内燃機関車 セダン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Chery Arrizo 8, 중국 시장 내연기관 차량 세단
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Chery Arrizo 8, xe động cơ đốt trong (thị trường Trung Quốc) sedan
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Chery Arrizo 8, รถเครื่องยนต์สันดาป (ตลาดจีน) รถเก๋งซีดาน
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Chery Arrizo 8, kendaraan mesin pembakaran (pasar Tiongkok) sedan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Chery Arrizo 8, مركبة بمحرك احتراق (سوق الصين) سيدان
+  - **ZH**: AutoBridge 出口采购参考｜Chery Arrizo 8, 中国市场燃油车 轿车
 
 ## ต้นฉบับและการตรวจสอบสิทธิ์
 | ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
 | อา ริ โซ 8 2024 1.6T DCT หน้าพารามิเตอร์ความเข้มสูง | ฐานข้อมูล SOL อัตโนมัติ | CN | https://detail.zol.com.cn/car/index2030152.shtml | 2026-09-04 | ROOS_ CHCKED | ขนาด, ล้อ, เครื่องยนต์, เกียร์, โครง สร้าง |
 | อา ริ โซ 8 1.6T DCT พารามิเตอร์ความเข้มสูง | ฐานข้อมูลของโซฮูออโต้ | CN | https://db.m.auto.sohu.com/trim_171975 | 2026-09-04 | ROOS_ CHCKED | อํานาจ, PS, มิติ, การอ้างอิงราคาในประเทศ |
-| เชอ ร์ รี อา ริ โซ 8 1.6T การวิเคราะห์พาวเวอร์เทรนซ์ | ออโต้เซจิฮาว | CN | https://chejiahao.m.autohome.com.cn/info/19508971?isfrom=pc | 2026-09-04 | ROOS_ CHCKED | 145 kW / 197 PS / 290 N·m / 7DCT |
+| เชอ ร์ รี อา ริ โซ 8 1.6T การวิเคราะห์พาวเวอร์เทรนซ์ | ออโต้เซจิฮาว | CN | https://chejiahao.m.autohome.com.cn/info/19508971?isfrom=pc | 2026-09-04 | ROOS_ CHCKED | 145 kW 197 PS 290 N·m 7DCT |
 | ผู้ ผลิต และ แคตตาล็อก ผลิตภัณฑ์ ถนน — ระบบ สอบ ถาม ของ ประชาชน |  MIT, กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูลจีน | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | เปิดใช้งาน | ตรวจสอบผู้ผลิต, โมเดลที่อนุญาต และการทําอัลบั้มแบบแบ่งประเภท (公告) ก่อนการสั่งซื้อหรือส่งออก |
-| ขนาด GB 16735-2019 รถ ที่ ใช้ ถนน — หมาย เลข รถ (VIN) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | เปิดใช้งาน | โครงสร้างและชื่อของ platt language ที่ใช้ในการตรวจสอบความถูกต้องของผู้ซื้อ/ ชื่อ |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน สภาวะความปลอดภัยทางเทคนิคและเวลาปัจจุบัน/การปรับปรุง |
+| ขนาด GB 16735-2019 รถ ที่ ใช้ ถนน — หมาย เลข รถ (VIN) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | เปิดใช้งาน | โครงสร้างและชื่อของ platt language ชื่อ |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน |
 | GB 18352.6-2016 ด้วยระบบไฟฟ้าลัดวงจร XG1-2026 (จีน- 6 ปริมาตรแสงโพลีเจนต์) | กระทรวง นิเวศ วิทยา และ สิ่ง แวด ล้อม (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | เปิดใช้งาน | จีน 6 ระดับแสงและน้ําใส และวันที่ดําเนินการ 2026 มาตราฐาน |
 
 * สมมุติฐานการไม่แสวงหาผล: ไม่มีแผ่นตัวอย่างหลัก โออีเอ็ม ถูกจับตัว; ตัวเลขถูกตรวจสอบจากโครงสร้างแบบจีน ประตู ผังขับ และความเร็วสูงสุด เป็นซิงเกิล ราคาบ้านเป็นระยะเวลาที่ไว และไม่เคยเป็นสินค้าส่งออก *

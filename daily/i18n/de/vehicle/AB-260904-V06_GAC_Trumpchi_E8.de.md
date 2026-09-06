@@ -11,14 +11,14 @@
 - **Bildvorschläge**: E8 Seitenprofil MPV; 2+2+3 Sitzlayout; Ladeanschluss vs. kein Port HEV; dritte Reihe; V2L Steckdose
 - **ALT Vorschläge**: "GAC Trumpchi E8 PHEV siebensitzige MPV" China spec"; "Trumpchi E8 2+2+3 Sitzgelegenheiten und Fracht
 
-## Käuferkontext: Ein MPV-Kauf wird durch Sitzen und durch den PHEV / HEV-Split entschieden
+## Käuferkontext: Ein MPV-Kauf wird durch Sitzen und durch den PHEV HEV-Split entschieden
 Für einen MPV-Exporteur sind die Fragen Kabinengeometrie und Sitzarchitektur zuerst, Antriebsstrang zweitens. Beim E8 gibt es eine Namensfalle: Der ** E8 New Energy ist ein Plug-in-Hybrid mit Ladeanschluss**, während der ** E8 Glory (荣耀) ein HEV ohne Ladeanschluss** ist. Es handelt sich um unterschiedliche Energietypen, die in getrennten Zeilen angegeben werden müssen. Dieses Blatt dokumentiert den **Chinesischen Markt PHEV (REFERENCE MARKET: CHINA)**; eine OEM-Konfigurationsseite wurde erfasst.
 
 ## MPV Kern: Sitz-, Raum- und Passagiercharakter
 | Position | Trumpchi E8 PHEV (China-Referenz) |
 |---|---|
 | Körper | Mittelgroße MPV |
-| Länge/Breite/Höhe | **4920 / 1900 / 1760 mm** |
+| Länge/Breite/Höhe | **4920 1900 1760 mm** |
 | Radstand | **2930 mm** |
 | Sitzplatzgestaltung | ** 2+2+3, sieben Sitze ** |
 | Plattform | GAC Global Platform Modular Architecture (GPMA 3.0 L); hochfester Stahl ca. 75% (Single-Source) |
@@ -30,8 +30,8 @@ Der 2930 mm Radstand  and  2+2+3 Layout sind die kommerzielle Geschichte: unabh�
 ## PHEV Powertrain (Ladeanschluss E8)
 | Position | Detaillierte Angaben |
 |---|---|
-| Motor | 2.0ATK dedizierter Hybrid (4B20L1), 103 kW / 180 N·m (etwa 140 PS nur für Motoren) |
-| Vordermotor | 134 kW / 300 N·m |
+| Motor | 2.0ATK dedizierter Hybrid (4B20L1), 103 kW 180 N·m (etwa 140 PS nur für Motoren) |
+| Vordermotor | 134 kW 300 N·m |
 | Hybridgetriebe | 2-speed DHT |
 | Batterie | Ternäres Lithium ** 25.57 kWh ** |
 | Elektrische Reichweite | ** 150 km CLTC** |
@@ -40,7 +40,7 @@ Der 2930 mm Radstand  and  2+2+3 Layout sind die kommerzielle Geschichte: unabh�
 ## PHEV vs Glory HEV - Halten Sie den Energietyp sichtbar
 - ** E8 Neue Energie (diese Seite): PHEV** — externer Ladeanschluss, 25.57 kWh Traktionsbatterie, 150 km CLTC elektrischer Betrieb.
 - ** E8 Glory (荣耀): HEV** – kein Ladeanschluss; er lädt sich selbst auf und kann nicht angeschlossen werden.
-- Die Angabe der elektrischen Reichweite von PHEV oder die Aufladung einer Glory-HEV-Einheit (oder die Preisgestaltung eines PHEV gegenüber HEV-Geräten) ist die wiederkehrende Diskrepanz auf diesem Typenschild. Chinesische Richtpreise unterscheiden sich ebenfalls (PHEV von etwa RMB 209, 800; Glory HEV von etwa RMB 166, 800 — nur inländische, zeitkritische Referenzen).
+- Die Angabe der elektrischen Reichweite von PHEV oder die Aufladung einer Glory-HEV-Einheit (oder die Preisgestaltung eines PHEV gegenüber HEV-Geräten) ist die wiederkehrende Diskrepanz auf diesem Typenschild. Chinesische Richtpreise unterscheiden sich ebenfalls (PHEV von etwa RMB 209,800; Glory HEV von etwa RMB 166,800— nur inländische, zeitkritische Referenzen).
 
 ## Übersee-Käufer-Überprüfung vor Zahlung
 1. ** Energietyp auf der VIN** – PHEV (Ladeanschluss) vs Glory HEV (kein Port), angegeben vor einem Entfernungssatz.
@@ -71,18 +71,18 @@ Es wird kein Ausfuhrpreis veröffentlicht. Chinesische leitpreise sind ** inlän
 - IMAGE_RIGHTS_STATUS: FAIL (kein lizenziertes Asset erfasst; ein Platzhalter oder ein Hinweis „altes Bild behalten wird nicht akzeptiert)
 - BLOCK_REASON: Es konnte kein wiederverwendbares Bild gesichert werden: Wikimedia Commons/Flickr sind aus der Forschungsumgebung nicht erreichbar, Lagerbibliotheken erfordern authentifizierten API/Lizenzzugriff und ein OEM-Webseitenbild ist KEIN kommerzielles Wiederverwendungsstipendium; es gibt kein AutoBridge-eigenes Foto. Nein, aber nicht nur vereitelt.
 - ALT nach Sprache:
-  - **EN**: AutoBridge export-buyer reference — GAC Trumpchi E8, plug-in hybrid vehicle / MPV
-  - **FR**: Référence AutoBridge pour acheteurs export — GAC Trumpchi E8, véhicule hybride rechargeable / MPV
-  - **DE**: AutoBridge-Referenz für Exportkäufer — GAC Trumpchi E8, Plug-in-Hybridfahrzeug / Van (MPV)
-  - **ES**: Referencia AutoBridge para compradores de exportación — GAC Trumpchi E8, vehículo híbrido enchufable / monovolumen
-  - **PT**: Referência AutoBridge para compradores de exportação — GAC Trumpchi E8, veículo híbrido plug-in / minivan
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜GAC Trumpchi E8, プラグインハイブリッド車 / MPV
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜GAC Trumpchi E8, 플러그인 하이브리드 차량 / MPV
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — GAC Trumpchi E8, xe hybrid sạc ngoài / MPV
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — GAC Trumpchi E8, รถปลั๊กอินไฮบริด / รถ MPV
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — GAC Trumpchi E8, kendaraan hybrid plug-in / MPV
-  - **AR**: مرجع AutoBridge لمشتري التصدير — GAC Trumpchi E8, مركبة هجينة قابلة للشحن / سيارة عائلية
-  - **ZH**: AutoBridge 出口采购参考｜GAC Trumpchi E8, 插电混动车 / MPV
+  - **EN**: AutoBridge export-buyer reference — GAC Trumpchi E8, plug-in hybrid vehicle MPV
+  - **FR**: Référence AutoBridge pour acheteurs export — GAC Trumpchi E8, véhicule hybride rechargeable MPV
+  - **DE**: AutoBridge-Referenz für Exportkäufer — GAC Trumpchi E8, Plug-in-Hybridfahrzeug Van (MPV)
+  - **ES**: Referencia AutoBridge para compradores de exportación — GAC Trumpchi E8, vehículo híbrido enchufable monovolumen
+  - **PT**: Referência AutoBridge para compradores de exportação — GAC Trumpchi E8, veículo híbrido plug-in minivan
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜GAC Trumpchi E8, プラグインハイブリッド車 MPV
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜GAC Trumpchi E8, 플러그인 하이브리드 차량 MPV
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — GAC Trumpchi E8, xe hybrid sạc ngoài MPV
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — GAC Trumpchi E8, รถปลั๊กอินไฮบริด รถ MPV
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — GAC Trumpchi E8, kendaraan hybrid plug-in MPV
+  - **AR**: مرجع AutoBridge لمشتري التصدير — GAC Trumpchi E8, مركبة هجينة قابلة للشحن سيارة عائلية
+  - **ZH**: AutoBridge 出口采购参考｜GAC Trumpchi E8, 插电混动车 MPV
 
 ## Quellen & Verifizierung
 | Quelle: | Organisation | Markt | URL | Geprüft | Vertrauen | Belegte Fakten |

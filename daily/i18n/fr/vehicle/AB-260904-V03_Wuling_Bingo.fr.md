@@ -15,27 +15,27 @@
 Le Bingo est le petit hayon électrique à cinq portes de Wuling, destiné à un usage personnel urbain et commercial léger. Pour un exportateur, la variable déterminante est **Step**, car la puissance du moteur, la batterie et la vitesse maximale changent toutes avec elle. Cette feuille couvre la ligne **Marché chinois 2024 (Marché de la référence: CHINE)**; sans page OEM outre-mer, les chiffres chinois sont une référence, pas une spécification globale.
 
 ## Core EV: Batterie, Cycle de portée, Chargement
-| Point | 203 km (entrée) | 333 / 410 km (moyenne/élevée) |
+| Point | 203 km (entrée) | 333 410 km (moyenne/élevée) |
 |---|---|---|
 | Chimie des batteries | LFP (phosphate de fer de lithium) | LFP |
 | Batterie d'entrée | 17.3 kWh | plus grands paquets (confirmer par version sur la feuille d'OEM) |
 | Puissance moteur | 30 kW | 50 kW (entrée est 30 kW — ne pas généraliser) |
 | Couple du moteur | 85 N·m | 125 N·m (source unique) |
-| Plage CLTC | 203 km | 333 km / 410 km |
+| Plage CLTC | 203 km | 333 km 410 km |
 | Vitesse maximale | 100 km/h | 130 km/h |
 | Charge rapide en courant continu | Toutes les versions DC sont à charge rapide; about 35 min for 30–80% (single-source; confirmer par OEM) | même |
 
 Tous les chiffres de la fourchette sont **CLTC**. Le moteur 30 kW du véhicule d'entrée ne doit pas être cité pour les garnitures supérieures, et vice versa.
 
 ## Dimensions, sièges et cargaison
-- Longueur/largeur/la hauteur: ** 3950 / 1708 / 1580 mm **
+- Longueur/largeur/la hauteur: ** 3950 1708 1580 mm **
 - Empattement: ** 2560 mm **
 - Sièges: documentés sous la forme ** 4 (layout 2+2)** pour le wagon d'entrée; certaines versions peuvent offrir cinq sièges — confirmer sur la feuille de garniture exacte.
 - Volume de chargement: ** 350 L, en expansion à environ 1240 L ** avec des sièges repliés (source unique).
 
 ## Carte de version (se tenir séparée de chaque ligne)
-- ** 203 轻享 (entrée)**: 17.3 kWh, 30 kW / 85 N·m, 100 km/h vitesse maximale.
-- ** 333 悦享 / 410 灵犀 (moyen/élevé)**: 50 kW moteur, 125 N·m, 130 km/h vitesse maximale.
+- ** 203 轻享 (entrée)**: 17.3 kWh, 30 kW 85 N·m, 100 km/h vitesse maximale.
+- ** 333 悦享 410 灵犀 (moyen/élevé)**: 50 kW moteur, 125 N·m, 130 km/h vitesse maximale.
 - La largeur, la disposition de quatre places et les minutes de chargement rapide reposent en partie sur des sources uniques; reconfirmer sur la liste de configuration de l'usine.
 
 ## Vérification de l'acheteur étranger avant paiement
@@ -51,7 +51,7 @@ Pas de prix à l'exportation statique. Le prix d'orientation de départ chinois 
 
 ## Foire aux questions
 **Combien de versions de gamme sont-elles?** Trois étapes du CLTC — 203, 333 et 410 km — avec des spécifications différentes pour le moteur et la batterie.
-**Tous les Bingo 50 kW ?** Non, la voiture d'entrée 203 km utilise un moteur 30 kW, tandis que les versions 333/410 utilisent 50 kW.
+**Tous les Bingo 50 kW Non, la voiture d'entrée 203 km utilise un moteur 30 kW, tandis que les versions 333/410 utilisent 50 kW.
 **Combien de sièges?** La disposition de l'entrée documentée est de quatre sièges (2+2); confirmer si la version choisie est cinq sièges.
 **What charging does it support?** All versions list DC fast charging (about 35 min 30–80%, par couverture chinoise); Le type de connecteur à l'étranger doit être vérifié.
 
@@ -84,10 +84,10 @@ Pas de prix à l'exportation statique. Le prix d'orientation de départ chinois 
 ## Sources et vérification
 | Titre de la source | Organisation | Marché | URL | Vérification | Confiance | Faits corroborés |
 |---|---|---|---|---|---|---|
-| Wuling Bingo 203km tableau de configuration | Config autohome | NC | https://car.m.autohome.com.cn/config/spec/61645.html | 2026-09-04 | _CHECTURE | 17.3 kWh, 30 kW / 85 N·m, portée, vitesse maximale |
+| Wuling Bingo 203km tableau de configuration | Config autohome | NC | https://car.m.autohome.com.cn/config/spec/61645.html | 2026-09-04 | _CHECTURE | 17.3 kWh, 30 kW 85 N·m, portée, vitesse maximale |
 | Paramètres du Bingo 2024 203km | Base de données Sohu Auto | NC | http://db.m.auto.sohu.com/trim_173261 | 2026-09-04 | _CHECTURE | Dimensions, empattement, batterie, sièges |
 | 2024 Gamme de Bingo & mise à jour rapide | Auto-home·Chejiahao | NC | https://chejiahao.m.autohome.com.cn/info/24300800 | 2026-09-04 | _CHECTURE | Étapes de la gamme, 50 kW, minutes de charge en courant continu, CLTC |
-| Dimensions du bingo et disposition des sièges | 16888 auto | NC | https://m.16888.com/news/2025/0708/23852156.html | 2026-09-04 | SOURCE UNIQUE | Largeur/hauteur, 2+2 places assises |
+| Dimensions du bingo et disposition des sièges | auto | NC | https://m.16888.com/news/2025/0708/23852156.html | 2026-09-04 | SOURCE UNIQUE | Largeur/hauteur, 2+2 places assises | 16888
 | Wuling Bingo 2025 configuration en ligne complète | Configuration PCauto | NC | https://car.pcauto.com.cn/360/m133517/config.html | 2026-09-04 | _CHECTURE | Moteur moyen/haut, portée |
 | Catalogue des constructeurs et des produits de véhicules automobiles routiers — système de requête publique | MIIT, Ministère chinois de l'industrie et des technologies de l'information | NC | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VÉRIFIER | Vérifier l'entrée du catalogue du fabricant, du modèle approuvé et de l'homologation (公告) avant de commander ou d'exporter |
 | BG 16735-2019 Véhicules routiers — Prescriptions relatives au numéro d'identification du véhicule (VIN) | Plateforme en texte intégral des normes nationales SAMR | NC | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VÉRIFIER | Les champs de données de la structure et de la plaque nominative du NIV utilisés dans la vérification du NIV/plaque nominative de l'acheteur |

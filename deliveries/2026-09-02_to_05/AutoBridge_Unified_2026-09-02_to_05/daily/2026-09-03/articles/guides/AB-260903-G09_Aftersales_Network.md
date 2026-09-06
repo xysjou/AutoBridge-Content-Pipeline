@@ -35,12 +35,12 @@ Match the model to **vehicles in operation**, not to optimism about next quarter
 A warranty is only credible to the extent the network can honour it:
 - Match **warranty duration/mileage and exclusions** to what local workshops can actually service and parts can actually reach.
 - Industry example (single-source, illustrative): a **7-year/unlimited-km OEM warranty** offered in Australia — credible only because a parts and service network backs it; offering similar terms without that network creates liability you cannot meet.
-- Define the **claim workflow, who pays freight/labour, goodwill boundaries**, and how battery/EV-specific claims (which need specialist capability) are handled.
+- Define the **claim process, who pays freight/labour, goodwill boundaries**, and how battery/EV-specific claims (which need specialist capability) are handled.
 
 ## What This Guide Recommends You Put in Place
 1. A written **installed-base → network-model** decision per market (independent/multi-brand first, authorised later).
 2. A **regional parts plan** with A/B/C stock tiers and published lead times.
-3. A **warranty policy matched to service capacity**, with a claim and cost-allocation workflow.
+3. A **warranty policy matched to service capacity**, with a claim and cost-allocation process.
 4. **Technical enablement** — manuals, diagnostics, training — for the workshops that represent you.
 5. A **feedback loop** from claims into specification (feeding the heat/dust and PSI guides), so recurring faults are designed out.
 

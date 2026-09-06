@@ -2,12 +2,12 @@
 
 ## SEO Metadaten
 - **SEO Titel**: Foton Daimler AUMAN EST Traktor: Chinesisch-Markt Specs & Export Guide
-- **Meta Description**: Foton Daimler auf dem chinesischen Markt Schwere Zugmaschine AUMAN EST: China-V ISG und China-VI X13 Linien, ZF / Fast Getriebe, ~ 40 t GCW Klasse, mit dem BEV als separate Linie gehalten.
+- **Meta Description**: Foton Daimler auf dem chinesischen Markt Schwere Zugmaschine AUMAN EST: China-V ISG und China-VI X13 Linien, ZF Fast Getriebe, ~ 40 t GCW Klasse, mit dem BEV als separate Linie gehalten.
 - ** H1 **: Foton Daimler AUMAN EST (China-V/VI) — Spezifikationen und Ausfuhrkontrollen für schwere Zugmaschinen auf dem chinesischen Markt
-- **Hauptschlüsselwort**: Foton Daimler AUMAN / 福田戴姆勒欧曼 欧曼 EST 重型牵引车 (Traktor-Truck) Specs Export
+- **Hauptschlüsselwort**: Foton Daimler AUMAN 福田戴姆勒欧曼 欧曼 EST 重型牵引车 (Traktor-Truck) Specs Export
 - **Secondary Search Terms**: AUMAN EST Export; Foton Daimler Traktorkopf; chinesischer Schwerlastzugmaschinen; X13 Motor; 6x4 Traktoren
 - **Vorgeschlagene URL**: /Fahrzeuge/foton-auman-est-tractor/
-- **Search Intent**: 了解 Foton Daimler AUMAN / 福田戴姆勒欧曼 欧曼EST 重型牵引车（Tractor Truck） 中国版规格、配置与出口适配性（车型参数页）
+- **Search Intent**: 了解 Foton Daimler AUMAN 福田戴姆勒欧曼 欧曼EST 重型牵引车（Tractor Truck） 中国版规格、配置与出口适配性（车型参数页）
 - **Interne Linkvorschläge**: /Fahrzeuge/Foton-auman-est-Traktor/, /Guides/Tir-Straßentransport-china-central-asia/, /Guides/Bill-of-Lade-Typen-Geschichte/
 - **Schema-Scope**: Artikel + Fahrzeug (kein Produkt/Angebot/Bewertung)
 
@@ -36,7 +36,7 @@ Geben Sie immer an, ob die Einheit China-V (historisch) oder aktuell ist China-V
 ## Überprüfung des ausländischen Käufers vor Zahlung
 1. Staat China-V (historisch) vs China-VI Strom; nie umbenennen alt als Strom.
 2. Beziehen Sie die genaue GCW/Fünftelradlast aus der Homologationsmeldung.
-3. Halten Sie Diesel- und BEV-Traktoren auf getrennten Bestellungen / Spezifikationen.
+3. Halten Sie Diesel- und BEV-Traktoren auf getrennten Bestellungen Spezifikationen.
 4. ZF AMT vs. Schnelles Handbuch, Emissionsstufe und Bestimmungsimportregel.
 5. Fordern Sie ein aktuelles Exportangebot an; keines wird veröffentlicht.
 
@@ -45,7 +45,7 @@ Geben Sie immer an, ob die Einheit China-V (historisch) oder aktuell ist China-V
 **Was ist die genaue GCW?** Über die 40 t-Klasse für 6x4; bestätigen Sie durch Homologation.
 **Gibt es eine elektrische EST?** Eine separate 2026 BEV-Einreichung existiert — nicht mit Diesel-Spezifikationen verschmelzen.
 **Welches Getriebe? ** ZF 12TX AMT oder Fast 16-speed, nach Bau.
-** X13 Ausgabe? ** 12.9 L, 412 kW / 560 hp, 2600 N·m auf der China-VI-Linie.
+** X13 Ausgabe? ** 12.9 L, 412 kW 560 hp, 2600 N·m auf der China-VI-Linie.
 
 
 ## Quellen & Verifizierung
@@ -53,8 +53,8 @@ Geben Sie immer an, ob die Einheit China-V (historisch) oder aktuell ist China-V
 |---|---|---|---|---|---|---|
 | 欧曼 EST 车型文章 | 汽车之家车家号 | CN | T3 | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/3133030?t=0x2233 | X12 动力 AMT |
 | 欧曼 EST-A 配置 | 汽车之家车家号 | CN | T3 | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/2914236?t=0x2233 | ISGe5-460, ZF 变速 |
-| 欧曼 合作动力 | 汽车之家车家号 | CN | T3 | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/partner/yidian/article/3450841 | 潍柴 / 法士特配置 |
-| 欧曼 EST 510 词条 (T4 线索) | 抖音百科 | CN | T4 | CROSS_CHECKED | https://m.baike.com/wiki/%E6%AC%A7%E6%9B%BCEST%20510/7562809276172075042 | 公告型号 / 国五参数线索 |
+| 欧曼 合作动力 | 汽车之家车家号 | CN | T3 | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/partner/yidian/article/3450841 | 潍柴 法士特配置 |
+| 欧曼 EST 510 词条 (T4 线索) | 抖音百科 | CN | T4 | CROSS_CHECKED | https://m.baike.com/wiki/%E6%AC%A7%E6%9B%BCEST%20510/7562809276172075042 | 公告型号 国五参数线索 |
 | 欧曼纯电 /LNG 牵引车申报 | 新浪财经 | CN | T3 | CROSS_CHECKED | https://cj.sina.cn/article/norm_detail?froms=ttmp&url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Faigc%2Fxcsb%2F2026-08-07%2Fdoc-inimnrai3221568.shtml%3Ffinpagefr=ttzz | 2026 纯电申报 (独立新能源线, 勿混入燃油) |
 | Foton Motor offizielle Website | Beiqi Foton Motor 福田汽车 (OEM) | CN | T1 | ÜBERPRÜFUNG | https://www.foton.com.cn/ | Marken-/Modelllinienidentität und OEM-Behörde |
 | Ministerium für Industrie und Informationstechnologie (MIIT) | MIIT 工业和信息化部 | CN | T1 | ÜBERPRÜFUNG | https://www.miit.gov.cn/ | Zulassungs-/Ankündigungsbehörde; genaues Modell, Massen und Code durch VIN/Ankündigung bestätigen |

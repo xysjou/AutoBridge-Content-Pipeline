@@ -17,8 +17,8 @@ Bên xuất viện xem sự lựa chọn hóa đơn như tài liệu. Đó là m
 ## Bốn công cụ được đặt cạnh nhau
 | Phương pháp | Ai vấn đề | Làm thế nào mà các con ký gửi nhận được giao hàng | Người vận chuyển có một tài liệu về tiêu đề? |
 |---|---|---|---|
-| ** Master B/L (MBL)* ♪ | Hàng vận chuyển / tác nhân của nó | Đầu hàng MBL gốc (hay theo thủ tục dòng) | Có — hợp đồng vận chuyển và tài liệu của danh hiệu chức năng |
-| ** Nhà B/L (HBL)* ♪ | NVOCC / Trao đổi hàng hóa | HBL conignee trao đổi HBL cho MBL thông qua đại lý đích của người tiếp theo | Vâng ở mức HBL, với một bên phụ trong chuỗi |
+| ** Master B/L (MBL)* ♪ | Hàng vận chuyển tác nhân của nó | Đầu hàng MBL gốc (hay theo thủ tục dòng) | Có — hợp đồng vận chuyển và tài liệu của danh hiệu chức năng |
+| ** Nhà B/L (HBL)* ♪ | NVOCC Trao đổi hàng hóa | HBL conignee trao đổi HBL cho MBL thông qua đại lý đích của người tiếp theo | Vâng ở mức HBL, với một bên phụ trong chuỗi |
 | **Telex ra mắt** | Bộ truyền sau khi tàu trở về/gones  originals | Hướng dẫn phát hành điện tử; thu thập trên bản sao + ID | **No** — tựa đề giấy được từ bỏ khi phát hành |
 | **Sea Waybell (SWB)* ♪ | Carrier | Tên conignee thu thập trên chứng minh danh tính; không thương lượng | ** Không** — không phải là một tài liệu về tiêu đề, không thể chuyển đổi |
 
@@ -35,9 +35,9 @@ Bộ luật hải quân hiệu chỉnh cung cấp kiến trúc pháp lý đằng
 - ** Sự chấp nhận của Bồ Đào Nha/dân tộc khác nhau** (một số điểm đến ở Nam Mỹ được báo cáo là không chấp nhận phát hành điện tín) — xác nhận với các nhà hộ lý và người đưa thư **người vận chuyển hàng, trên mỗi phương tiện giao hàng. 87 đường sẽ thực sự áp dụng.
 
 ## Phương pháp tương xứng để thanh toán các khoản tiền
-- **T/T trước / trả trước đầy đủ:  Telex hoặc SWB có thể hoạt động; không cần dùng đến đòn bẩy điều khiển nữa.
+- **T/T trước trả trước đầy đủ:  Telex hoặc SWB có thể hoạt động; không cần dùng đến đòn bẩy điều khiển nữa.
 - **L/C**: làm theo chính xác công trạng — thường đòi hỏi phải có một sự thương lượng B/L ký/tiểu dụng như đã nói; thay thế SWB tạo ra một sự khác biệt.
-- **Balance chống lại B/L / mở tài khoản**: keep the original negotiable MBL (Art.80 order/bearer control) until payment conditions are met; Không bao giờ truyền tin bằng phương tiện chưa được trả lương.
+- **Balance chống lại B/L mở tài khoản**: keep the original negotiable MBL (Art.80 order/bearer control) until payment conditions are met; Không bao giờ truyền tin bằng phương tiện chưa được trả lương.
 - **RoRo vas container**: cả hai đều được thả ra chống lại đại dương B/L; xác nhận quy trình của đường thẳng và tuyến đường Art 87 đường ký hiệu trước khi chọn dụng cụ.
 
 ## Những câu hỏi để đặt ra cho người tiến lên trước khi đặt ra
@@ -86,10 +86,10 @@ Bộ luật hải quân hiệu chỉnh cung cấp kiến trúc pháp lý đằng
 ## Nguồn và Định dạng
 | Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
-| Mã hải quân của bản hiệu đính PRC (2025, Tổng thống thứ tự 58, trong lực 2026-05-01) văn bản đầy đủ | Ủy ban Đứng trên NPC (npc.gov.cn) | CN | http://www.npc.gov.cn/c2/c30834/202510/t20251028_449061.html | 2026-09-04 | VEIID (TIẾNG) | Nghệ thuật. 80/81/87, phiên bản và ngày tháng hiệu quả |
-| Gốc B/L /  Telex / Sea Waybill giải thích | NetEase kinh doanh là bản năng kinh doanh | I - MI | https://www.163.com/dy/article/L0J4JN3F0556HN78.html | 2026-09-04 | ĐÃ_ ĐÃ | Định nghĩa MBL/SWB/telex |
+| Mã hải quân của bản hiệu đính PRC (2025, Tổng thống thứ tự 58, trong lực 2026-05-01) văn bản đầy đủ | Ủy ban Đứng trên NPC | CN | http://www.npc.gov.cn/c2/c30834/202510/t20251028_449061.html | 2026-09-04 | VEIID (TIẾNG) | Nghệ thuật. 80/81/87, phiên bản và ngày tháng hiệu quả |
+| Gốc B/L  Telex Sea Waybill giải thích | NetEase kinh doanh là bản năng kinh doanh | I - MI | https://www.163.com/dy/article/L0J4JN3F0556HN78.html | 2026-09-04 | ĐÃ_ ĐÃ | Định nghĩa MBL/SWB/telex |
 | Hóa đơn của ông chủ chống lại hóa đơn nhà | Tài chính Sina | I - MI | https://finance.sina.com.cn/roll/2026-08-15/doc-ininkrwq1888009.shtml | 2026-09-04 | ĐÃ_ ĐÃ | MBL/HBL TIẾNG S dâng hiến phương tiện |
-| Kiểu giải phóng và B/L | 11467 kiến thức công nghiệp | I - MI | https://m.11467.com/product/d15253354.htm | 2026-09-04 | ĐÃ_ ĐÃ | Four-method comparison |
+| Kiểu giải phóng và B/L | kiến thức công nghiệp | I - MI | https://m.11467.com/product/d15253354.htm | 2026-09-04 | ĐÃ_ ĐÃ | Four-method comparison | 11467
 | Four release methods  and  nguy cơ điện thoại (Ghi chú South America) | NetEase | I - MI | https://www.163.com/dy/article/K17GLBOG0556820S.html | 2026-09-04 | SINGLE_SOURCE | Giới hạn lệnh-bill, chấp nhận cổng |
 | Vận chuyển hàng hóa và luật lệ kiểu mẫu quốc tế | UCRITRAL | IN'L | https://uncitral.un.org/en/texts/transportgoods | 2026-09-05 | VEII | Khung lề luật cho tài liệu vận chuyển (Hague-Visby/Hamburg/Rotterdam) |
 | Tài liệu và điều khoản tiêu chuẩn | BIMCO | IN'L | https://www.bimco.org/ | 2026-09-05 | VEII | Tài liệu tham chiếu/giải tích công nghệ- tiêu chuẩn |

@@ -4,10 +4,10 @@
 - **SEO Título**: Changan CS55 PLUS (3rd Gen) 2024: Chinese-Market ICE Specs " Export Guide
 - **Meta Descripción**: Subo de gasolina Changan CS55 PLUS de tercera generación en el mercado chino: Blue Whale NE 1.5T, 7DCT, dimensiones, uso de combustible WLTC, y por qué el híbrido es una línea separada.
 - ** H1 **: Changan CS55 PLUS (3rd Generation, 2024) — Chinese-Market Petrol SUV Specs and Export Checks
-- **Primary Keyword**: Changan / 长安 CS55 PLUS(第三代) specs export
+- **Primary Keyword**: Changan 长安 CS55 PLUS(第三代) specs export
 - **Segundary Search Terms**: Changan CS55 PLUS export; tercera generación CS55; Blue Whale 1.5T; Chinese petrol SUV; 7DCT
 - ** URL agregada**: /vehicles/changan- cs55-plus/
-- **Intent de búsqueda**: 了解 Changan / 长安 CS55 PLUS(第三代) 中国版规格, 配置与出口适配性 (车型参数页)
+- **Intent de búsqueda**: 了解 Changan 长安 CS55 PLUS(第三代) 中国版规格, 配置与出口适配性 (车型参数页)
 - **Sugerencias de enlace interno**: /vehicles/changan- cs55-plus/, /guides/emission-fuel-compatibility-history/, /guides/china-used-car-export-license-process/
 - **Esquema de alcance**: Artículo + Vehículo (no Producto/Offer/Review)
 
@@ -15,7 +15,7 @@
 Esta página cubre sólo el **terreno de tercera generación Changan CS55 PLUS (2024) con el motor de gasolina (ICE)**. La versión **super-hibrid es una línea separada** con diferentes figuras de cuerpo y de potencia y no se fusiona aquí. El mercado de referencia es **China**.
 
 ## Fuerza de gasolina y dimensiones
-- *Body* 4539 / 1865 / 1680 mm, la base de ruedas 2656 mm; cargo 475–1415 L.
+- *Body* 4539 1865 1680 mm, la base de ruedas 2656 mm; cargo 475–1415 L.
 - **Engine**: 新蓝鲸 NE 1.5T, 141 (192Ps) kW.
 - **Transmisión**: 7DCT 湿式双离合.
 - **Desempeño/economía**: 0–100 km/h 7.9 s; Consumo de combustible WLTC 6.94.
@@ -25,7 +25,7 @@ Esta página cubre sólo el **terreno de tercera generación Changan CS55 PLUS (
 ## Tabla de especificación verificada (referencia del mercado chino)
 | Especificación | Valor | Dependencia | Mercado | Confianza | Nota de la fuente |
 |---|---|---|---|---|---|
-| longitud de la anchura | 4539 / 1865 / 1680 | mm | CHINA | SINGLE_SOURCE | 搜狐车型库 |
+| longitud de la anchura | 4539 1865 1680 | mm | CHINA | SINGLE_SOURCE | 搜狐车型库 |
 | Base de ruedas | 2656 | mm | CHINA | SINGLE_SOURCE | 搜狐车型库 |
 | motor | 新蓝鲸 NE 1.5T | - | CHINA | SINGLE_SOURCE | 搜狐车型库 |
 | motor de potencia | 141 (192Ps) | kW | CHINA | SINGLE_SOURCE | 搜狐车型库 |
@@ -43,13 +43,13 @@ Para un SUV de gasolina, los cheques críticos de orden son la etapa **emisión 
 1. Confirme la construcción de ICE de tercera generación y el borde exacto de VIN.
 2. Verificar la etapa de emisión China- 6 contra la admisión de destino y el grado de combustible.
 3. Figuras híbridas separadas; no mezclar líneas.
-4. Confirme la transmisión (7DCT) adecuado y los repuestos / canal de soporte.
+4. Confirme la transmisión (7DCT) adecuado y los repuestos canal de soporte.
 5. Tratar los precios de lanzamiento de RMB como referencia interna; solicitar una cotización de exportación actual.
 
 ## FAQ
 **¿Esto incluye el híbrido CS55?** No — el híbrido es una línea separada con diferentes especificaciones.
 **¿Qué estándar de emisión?** Confirme China- 6 contra las reglas de destino; vea la guía de emisiones/combustibles.
-**¿Es 6.94 L / 100 km una figura del mundo real?** Es un valor de laboratorio WLTC; el uso real varía.
+**¿Es 6.94 L 100 km una figura del mundo real?** Es un valor de laboratorio WLTC; el uso real varía.
 **¿Es 99, 900 RMB el precio de exportación?** No - referencia de lanzamiento nacional.
 **¿Cuál es la transmisión?** 7-speed de doble embrague húmedo (7DCT) en la línea capturada.
 

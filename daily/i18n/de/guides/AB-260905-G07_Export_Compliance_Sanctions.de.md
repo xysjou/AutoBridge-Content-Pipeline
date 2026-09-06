@@ -12,7 +12,7 @@
 - **Schema-Scope**: Artikel (kein Produkt/Angebot/Review)
 
 ## Compliance ist ein Transaktionsgate, kein Papierkram am Ende
-Fahrzeugexporteure sehen sich sowohl Chinas Exportkontrollregime als auch internationalen Sanktionsrahmen ausgesetzt. Das Kontrollprinzip ist das **Endbenutzer- und Endbenutzungsmanagement während der gesamten Transaktion **: Ein Exporteur muss wissen, wer die Waren erhält und wofür sie verwendet werden, und muss vor der Verpflichtung gegen eingeschränkte / verweigerte Listen abschirmen. Diese kann nicht an den Spediteur ausgelagert oder nach dem Versand fixiert werden.
+Fahrzeugexporteure sehen sich sowohl Chinas Exportkontrollregime als auch internationalen Sanktionsrahmen ausgesetzt. Das Kontrollprinzip ist das **Endbenutzer- und Endbenutzungsmanagement während der gesamten Transaktion **: Ein Exporteur muss wissen, wer die Waren erhält und wofür sie verwendet werden, und muss vor der Verpflichtung gegen eingeschränkte verweigerte Listen abschirmen. Diese kann nicht an den Spediteur ausgelagert oder nach dem Versand fixiert werden.
 
 ## Die Pflichten, die die Regeln tatsächlich auferlegen
 - **Endbenutzer-/Endbenutzernachweis**: Erhalt von Endbenutzer-/Endbenutzerdokumentationen, wenn kontrollierte Gegenstände oder sensible Verwendungen beteiligt sind.
@@ -22,13 +22,13 @@ Fahrzeugexporteure sehen sich sowohl Chinas Exportkontrollregime als auch intern
 - **Compliance-Maßnahmen**: Beibehaltung eines internen Screening-Schritts beim Auftragseingang (eine Auftragsüberprüfungsroutine, Endverwendungsaussagen, Eskalation bei Treffern).
 
 ## Wie man screent, ohne eine Liste von Hand zu kopieren
-Eingeschränkte Listen ändern sich, also pflegen Sie niemals eine handkopierte statische Liste. Verwenden Sie ein aktuelles Screening-Tool / Datenbank bei Auftragseingang und erneut vor dem Versand, screenen Sie alle Parteien (Käufer, Empfänger, Bank, Schiff-zu, wo relevant), halten Sie das Screening-Ergebnis mit der Datei und eskalieren Sie jeden Treffer für eine formelle Entscheidung, anstatt "Name-Tweaking", um den Matcher zu passieren.
+Eingeschränkte Listen ändern sich, also pflegen Sie niemals eine handkopierte statische Liste. Verwenden Sie ein aktuelles Screening-Tool Datenbank bei Auftragseingang und erneut vor dem Versand, screenen Sie alle Parteien (Käufer, Empfänger, Bank, Schiff-zu, wo relevant), halten Sie das Screening-Ergebnis mit der Datei und eskalieren Sie jeden Treffer für eine formelle Entscheidung, anstatt "Name-Tweaking", um den Matcher zu passieren.
 
 ## Eine praktische Order-Intake-Sequenz
 1. Erfassen Sie die vollständigen rechtlichen Namen und Adressen aller Gegenparteien.
 2. Bildschirm mit aktuellen China Export-Kontrolle und anwendbaren Sanktionslisten; Datum-Stempel das Ergebnis.
 3. Erhalten Sie eine Endverwendungs-/Endbenutzererklärung für jedes sensible Element oder Ziel.
-4. Eskalieren Treffer; nicht mit verweigert / Kontrolllisten Parteien zu handeln.
+4. Eskalieren Treffer; nicht mit verweigert Kontrolllisten Parteien zu handeln.
 5. Bewahren Sie die vollständige Datei für fünf Jahre auf.
 
 ## Grenzen
@@ -48,9 +48,9 @@ Dieser Leitfaden listet keine sanktionierten Unternehmen auf (sie ändern sich) 
 | 两用物项出口管制条例 (国务院令第 792 号) | 中华人民共和国商务部 | CN | T1 | ÜBERPRÜFUNG | http://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2025/art_e63af2ce2c7e406394a2faf84a9b4738.html | 最终用户用途证明, 保存 5 年, 管控名单 |
 | 两用物项出口管制内部合规指南 | 中华人民共和国商务部 | CN | T1 | ÜBERPRÜFUNG | https://www.mofcom.gov.cn/cms_files/filemanager/1077459795/attach/20239/2021070615181087.pdf | 订单筛查系统, 最终用途声明, 合规体系 |
 | 司法部、商务部负责人就两用物项出口管制条例答记者问 | 中国政府网 | CN | T1 | ÜBERPRÜFUNG | https://www.gov.cn/zhengce/202410/content_6981660.htm | 全过程最终用户用途管理, 关注名单 |
-| 两用物项出口管制措施专题 (不予许可情形) | 中华人民共和国商务部 | CN | T1 | ÜBERPRÜFUNG | https://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_148254ba99284928ae6e4f84d1d6f297.html | 军事用户/管控关注名单不予许可, WMD/恐怖主义/军事用途 |
+| 两用物项出口管制措施专题 (不予许可情形) | 中华人民共和国商务部 | CN | T1 | ÜBERPRÜFUNG | https://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_148254ba99284928ae6e4f84d1d6f297.html | WMD/恐怖主义/军事用途 |（管控关注名单不予许可）（军事用户）
 | Handelsministerium (MOFCOM) | MOFCOM 商务部 | CN | T1 | ÜBERPRÜFUNG | https://www.mofcom.gov.cn/ | zuständige Behörde für Ausfuhrgenehmigungen und Ausfuhrkontrollen |
-| Verordnung (EU) Nr. 2021/821 — EU-Regelung für die Ausfuhrkontrolle von Gütern mit doppeltem Verwendungszweck | Europäische Union (EUR-Lex) | EU | T1/T2 | ÜBERPRÜFUNG | https://eur-lex.europa.eu/eli/reg/2021/821/oj | Beispiel für ein System zur Kontrolle von doppeltem Verwendungszweck in der Hauptgerichtsbarkeit und Kontrollen der beschränkten Partei/Endverwendung, die für das Screening-Design relevant sind |
+| Verordnung (EU) Nr. — EU-Regelung für die Ausfuhrkontrolle von Gütern mit doppeltem Verwendungszweck | Europäische Union (EUR-Lex) | EU | T1/T2 | ÜBERPRÜFUNG | https://eur-lex.europa.eu/eli/reg/2021/821/oj | Beispiel für ein System zur Kontrolle von doppeltem Verwendungszweck in der Hauptgerichtsbarkeit und Kontrollen der beschränkten Partei/Endverwendung, die für das Screening-Design relevant sind | 2021/821
 | US BIZ Entity List — Beispiel für ein Screening mit eingeschränkter Partei | US Bureau of Industry and Security (BIS) | US | T1/T2 | ÜBERPRÜFUNG | https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern/entity-list | Öffentliche Liste mit eingeschränkten Parteien, die das Screening von Nicht-Einrichtungen vor dem Versand veranschaulicht |
 | US OFAC SDN Liste — Sanktions-Screening | US-amerikanisches Büro für ausländische Vermögenskontrolle (OFAC) | US | T1/T2 | ÜBERPRÜFUNG | https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists | Speziell bezeichnet Nationale Liste als Sanktions-Screening-Datenquelle; gerichtsspezifisch, keine globale Blacklist |
 ## Editorial Review

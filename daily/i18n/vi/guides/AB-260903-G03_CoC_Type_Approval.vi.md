@@ -6,22 +6,22 @@
 - ** H1 Xe hơi CoC và Whole-Vehic Type Approval: Khớp tài liệu thích hợp với thị trường đúng
 - **Crimaary Keyword**: giấy chứng nhận phương tiện của sự phù hợp với kiểu chấp thuận wvta ots emark
 - **Secondary Search termss**: China CoC xuất khẩu, EU toàn bộ loại xe được chấp thuận, EAEU OTTS EACAC, e-mark va e-mark, UNECE 1958 loại giấy phép đăng ký xe, giấy đăng ký xe
-- **I nội bộ Link gợi ý*: //guides/chine-vehic-export-license-customs-docuchts /; /guides/uue-vehic-dic-digic-digic-docust /; /vehcles/sac-maxus- v90-specs/
+- **I nội bộ Link gợi ý*: /guides/uue-vehic-dic-digic-digic-docust /vehcles/sac-maxus- v90-specs/
 - **Image gợi ý**: sơ đồ tài liệu- lẻn đi (kiểu chấp thuận C); thị trường phân loại bản đồ; Trung Quốc CoC tương ứng với đích CoC
 - **LT gợi ý**: "được chấp thuận kiểu như chứng nhận của hàng ngũ phù hợp" "WVTA DateS E-mark bản đồ thị trường"
 
 ## Sự lộn xộn ở giữa
-Bên xuất nhập khẩu liên tục điều trị **one tài liệu như thể là một**: họ trình bày một trang web nội địa Trung Quốc 合格证 /CoC như là truy cập thị trường nước ngoài, hoặc giả sử một thành phần E-mark certinif toàn bộ phương tiện. Việc nhập khẩu và chứng nhận tuân thủ theo nhiều cấp độ khác nhau — và việc làm sai là một lý do thông thường mà việc đăng ký bị từ chối. Điều này hướng dẫn bản đồ các hệ thống. ** Thư tình nguyện:** khung bên Trung Quốc được dựa trên vật liệu MIIT; mô tả của các dụng cụ EU/EU/UNECE bên dưới đến từ các nhà cung cấp dịch vụ certification (thư mục thứ hai), và các văn bản quy định nên được trích ra từ EUR-Lex / UNECE / EAU / iU trước khi có một quyết định nhất định — chúng không được trích dẫn ở đây như là luật chính.
+Bên xuất nhập khẩu liên tục điều trị **one tài liệu như thể là một**: họ trình bày một trang web nội địa Trung Quốc 合格证 /CoC như là truy cập thị trường nước ngoài, hoặc giả sử một thành phần E-mark certinif toàn bộ phương tiện. Việc nhập khẩu và chứng nhận tuân thủ theo nhiều cấp độ khác nhau — và việc làm sai là một lý do thông thường mà việc đăng ký bị từ chối. Điều này hướng dẫn bản đồ các hệ thống. ** Thư tình nguyện:** khung bên Trung Quốc được dựa trên vật liệu MIIT; mô tả của các dụng cụ EU/EU/UNECE bên dưới đến từ các nhà cung cấp dịch vụ certification (thư mục thứ hai), và các văn bản quy định nên được trích ra từ EUR-Lex UNECE EAU iU trước khi có một quyết định nhất định — chúng không được trích dẫn ở đây như là luật chính.
 
 ## Cấp 1 — Type Approval (kiểu xe được chấp thuận)
 Kiểu tán thành cho thấy kiểu **vehic/ System** đáp ứng yêu cầu của thị trường. Nó xảy ra ở cấp độ mô hình và là một điều kiện trước cho các tài liệu trên mỗi ve:
-- **EU — Cả xe hơi đều được chấp thuận (WVTA): ** Bắt buộc toàn bộ thị trường thị trường, Được mô tả bởi các nhà cung cấp chứng thực dựa trên **Regation (EU) 2018/858 **,  which applied fully from 1 September 2020  and  Thay thế Chỉ thị 2007/46/EC; Một sự chấp thuận được công nhận trên khắp các bang hội viên. Xác định văn bản đã thống nhất hiện thời và bất kỳ tác động nào lên EUR-Lex trước khi dựa vào ngày tháng hoặc phạm vi. ♪
-- **EAAU — OTTS / EAC:** dành cho Liên minh kinh tế Á Âu, toàn bộ xe cộ đòi hỏi sự chấp thuận kiểu **OTTS (hoặc EAC)** dưới **TR 018/2011 "Trên an toàn của xe đẩy,"** và một người đại diện được cho phép trong Liên Minh** thường là người đại diện. Xác nhận văn bản kỹ thuật và luật đại diện hiện tại với ủy ban EAEU. ♪
+- **EU — Cả xe hơi đều được chấp thuận (WVTA): ** Bắt buộc toàn bộ thị trường thị trường, Được mô tả bởi các nhà cung cấp chứng thực dựa trên **Regation (EU) **,  which applied fully from 1 September 2020  and  Thay thế Chỉ thị 2007/46/EC; Một sự chấp thuận được công nhận trên khắp các bang hội viên. Xác định văn bản đã thống nhất hiện thời và bất kỳ tác động nào lên EUR-Lex trước khi dựa vào ngày tháng hoặc phạm vi. ♪ 2018/858
+- **EAAU — OTTS EAC:** dành cho Liên minh kinh tế Á Âu, toàn bộ xe cộ đòi hỏi sự chấp thuận kiểu **OTTS (hoặc EAC)** dưới **TR 018/2011 "Trên an toàn của xe đẩy,"** và một người đại diện được cho phép trong Liên Minh** thường là người đại diện. Xác nhận văn bản kỹ thuật và luật đại diện hiện tại với ủy ban EAEU. ♪
 Sự chấp thuận kiểu như là đặc trưng thị trường: một EU WVTA không cho phép EAU truy cập, và ngược lại.
 
 ## Cấp 2 — Chứng nhận của sự hợp nhất (Đơn vị đặc biệt này khớp với kiểu được chấp nhận)
 Một khi đã chấp thuận một loại, **cle được cấp một chứng nhận rằng đơn vị này trùng với loại được chấp thuận**; và CC là tài liệu di chuyển với xe đến bàn đăng ký đích. Hai bẫy:
-- ** Trung Hoa 合格证 / 一致性证书 là một tài liệu đăng ký/ kỷ lục gia đình** (bắt nguồn từ trật tự MIIT số 50 và các quy tắc liên quan) — đó là **not** một U WVTA CoC hoặc một tài liệu EAEU/EAC.
+- ** Trung Hoa 合格证 一致性证书 là một tài liệu đăng ký/ kỷ lục gia đình** (bắt nguồn từ trật tự MIIT số 50 và các quy tắc liên quan) — đó là **not** một U WVTA CoC hoặc một tài liệu EAEU/EAC.
 - Một điểm đến của CoC chỉ có thể được phát hành **s tim một lần nữa một loại sự chấp thuận đích đích hợp lệ**; bạn không thể sản xuất một chiếc EU CoC chỉ từ giấy tờ Trung Quốc.
 
 ## Level 3 — Component/System Marks (e-mark vs E-mark)
@@ -41,7 +41,7 @@ Một túi các thành phần có dấu E không** bằng nguyên một loại x
 - Một ma trận giao thông được viết ra **Criregime drinent** cho mỗi đích đến, với người được chấp thuận tên.
 - Xác nhận thực thể ** nào gây ra đích CoC** và nó chỉ ra một số kiểu phổ biến hợp lệ.
 - Một kho hàng đặc biệt ** không nhầm lẫn khi được chấp thuận toàn thân.
-- Xác nhận nguồn gốc của mọi quy định đã được quy định** (2018/858, TRU 018/2011, 1958 thỏa thuận) trước khi khách hàng yêu cầu.
+- Xác nhận nguồn gốc của mọi quy định đã được quy định** TRU 018/2011, 1958 thỏa thuận) trước khi khách hàng yêu cầu. 2018/858
 
 ## Những câu hỏi thường xuyên
 **Người Trung Quốc của tôi có đủ để đăng ký ở Châu Âu không? Không — 合格证 Trung Quốc là một tài liệu nội bộ; đăng ký EU cần được cấp phép đánh máy EU và một hồ sơ cấp cứu.
@@ -79,25 +79,25 @@ Một túi các thành phần có dấu E không** bằng nguyên một loại x
 ## Nguồn và Định dạng
 | Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
-| Thứ tự MIT 50 — Căn cứ vào | MỘT CÂU CHUYỆN / CÂU CHUYỆN | CN | https://www.gov.cn/gongbao/content/2019/content_5380357.htm | 2026-09-03 | ĐÃ_ ĐÃ | Name & Kết nối |
+| Thứ tự MIT 50 — Căn cứ vào | MỘT CÂU CHUYỆN CÂU CHUYỆN | CN | https://www.gov.cn/gongbao/content/2019/content_5380357.htm | 2026-09-03 | ĐÃ_ ĐÃ | Name & Kết nối |
 | EU WVTA + sơ đồ FMVSS (2018/858) | Xác nhận cơ thể bên thứ ba | AI | https://m.11467.com/product/d53638850.htm | 2026-09-03 | SINGLE_SOURCE | Mô tả vai trò của OVTA/ 2018/858, CoC (thư mục) |
-| OTTS / TRCU 018/2011 giải thích | Trình cung cấp dịch vụ xác thực | EAEU | https://m.11467.com/product/d21445928.htm | 2026-09-03 | ĐÃ_ ĐÃ | Bộ xem tập tin âm thanhName |
+| OTTS TRCU 018/2011 giải thích | Trình cung cấp dịch vụ xác thực | EAEU | https://m.11467.com/product/d21445928.htm | 2026-09-03 | ĐÃ_ ĐÃ | Bộ xem tập tin âm thanhName |
 | E-mark vs-mark bộ giải thích | Trình cung cấp dịch vụ xác thực | Toàn cục/EU | https://m.11467.com/product/d55481671.htm | 2026-09-03 | SINGLE_SOURCE | Sự phân biệt e/E-mark (phụ) |
 Trần nhà từ thiện: các dụng cụ EU/EEEU/UNECE được mô tả từ các nguồn chứng thực thư thứ hai; không có văn bản chính nào ổn định EUR-Lex/UNECE/EU được lấy. Cần phải kiểm tra ngày tháng và phạm vi để xem các đoạn chính trước khi áp dụng. Khung hình bên Trung Quốc là phần được chính thức ủng hộ. ♪
 
-| Quy tắc (EU) 2018/858 (đã gắn kết 2021-09-26) trên các loại phương tiện giao thông — WVTA; toàn bộ các hộp và các loại | EUR-Lex (cơ sở dữ liệu pháp luật chính thức) | CN | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02018R0858-20210926 | 2026-09-04 | VEII |  |
-| Quy tắc (EU) 2018/858 (tiếng bản xứ), chương VI / Điều 36 — Nhà sản xuất có một số báo cáo về sự kết hợp giữa các phương tiện giao thông | EUR-Lex | CN | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0858 | 2026-09-04 | VEII |  |
-| 2018/858 Chương VI (CoC) chính thức sinh sản | Luật pháp.gov.uk (dữ liệu luật pháp chính thức của UK | CN | https://www.legislation.gov.uk/eur/2018/858/chapter/VI/2018-05-30/data.pdf | 2026-09-04 | VEII |  |
+| Quy tắc (EU) (đã gắn kết 2021-09-26) trên các loại phương tiện giao thông — WVTA; toàn bộ các hộp và các loại | EUR-Lex (cơ sở dữ liệu pháp luật chính thức) | CN | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02018R0858-20210926 | 2026-09-04 | VEII |  | 2018/858
+| Quy tắc (EU) (tiếng bản xứ), chương VI Điều 36 — Nhà sản xuất có một số báo cáo về sự kết hợp giữa các phương tiện giao thông | EUR-Lex | CN | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0858 | 2026-09-04 | VEII |  | 2018/858
+| Chương VI (CoC) chính thức sinh sản | Luật pháp.gov.uk (dữ liệu luật pháp chính thức của UK | CN | https://www.legislation.gov.uk/eur/2018/858/chapter/VI/2018-05-30/data.pdf | 2026-09-04 | VEII |  | 2018/858
 | 1958 Hiệp định (Rev. 3), E/ECE/TRANS/ 505 — khung cho phép kiểu quy luật của UN chấp thuận các thành phần/ hệ thống/ hệ thống/ sTT | UNECE (Các nước không theo lịch sử) | CN | https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2017/E-ECE-TRANS-505-Rev.3e.pdf | 2026-09-04 | VEII |  |
 | GRF- 84-18 (cơ cấu đánh số ban đầu/số, E + số quốc gia) | WP của UNECE 29 GRF | CN | https://unece.org/DAM/trans/doc/2017/wp29grrf/GRRF-84-18e.pdf | 2026-09-04 | VEII |  |
 | Status of the 1958 Agreement  and  Các quy luật của Liên Hiệp Quốc được phụ thêm | UNECE | CN | https://unece.org/status-1958-agreement-and-annexed-regulations | 2026-09-04 | VEII |  |
 | Quyết định của Ủy ban Liên bang Hải quan Số 877 (09.12.2011) Nhận luật pháp kỹ thuật TRU 018/2011 "Trên  | adilet.zan.kz — cơ sở dữ liệu pháp lý chính thức của M | CN | https://adilet.zan.kz/rus/docs/H11T0000877 | 2026-09-04 | VEII |  |
-| EEC Board Decision No.232 (09.12.2014) rules for completing OTTS / OTSH forms | tham chiếu pháp lý Alta-Soft (T3; sao chép EEC de | CN | https://www.alta.ru/tamdoc/14kr0232/ | 2026-09-04 | SINGLE_SOURCE |  |
+| EEC Board Decision No.232 (09.12.2014) rules for completing OTTS OTSH forms | tham chiếu pháp lý Alta-Soft (T3; sao chép EEC de | CN | https://www.alta.ru/tamdoc/14kr0232/ | 2026-09-04 | SINGLE_SOURCE |  |
 
 ## Xem lại tập tin
-- **Author / recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
+- **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
 - **Last xem lại**: 2026-09-05
-- ** Thị trường khảo sát / phạm vi**: Hệ thống chấp thuận toàn cầu (Trung tâm sắp xếp chính thức; EU/EEEU/UNECE được mô tả từ nguồn thứ cấp)
+- ** Thị trường khảo sát phạm vi**: Hệ thống chấp thuận toàn cầu (Trung tâm sắp xếp chính thức; EU/EEEU/UNECE được mô tả từ nguồn thứ cấp)
 - **Verification phương pháp**: khung làm việc bản đồ với khoảng cách mã nguồn chính rõ ràng đánh dấu trên mỗi PRIME_ SOURCE_SCOPE quy tắc
 - **Ku thích về tiêu chuẩn**: Nghiên cứu và viết từ những nguồn được liệt kê ở trên (các nghiên cứu ban đầu; không có ổ đĩa cầm tay, bỏ xuống hoặc nhập khẩu nào được xác nhận). Sự tự tin nguồn được thể hiện trên mỗi hàng; bất cứ điểm nào chúng ta không thể tự xác nhận được đều được trình bày như một vật chứng thực thay vì xác nhận là sự thật.
 #AutoBridge #CertificateOfConformity #TypeApproval #WVTA #ExportProcurement

@@ -23,26 +23,26 @@ Der chilenische Zoll gibt die allgemeine Regel klar an: Die Einfuhren zahlen ein
 Ein früherer Entwurf trug eine "1% Gebühr und eine US $ 30 De-minimis-Befreiung" in den Fahrzeugstapel. Diese Regel betrifft ** kleine/nicht gewerbliche Post- und Kuriersendungen, nicht die Einfuhren von Nutzfahrzeugen **, so dass sie aus der Fahrzeugkostenkonstruktion entfernt wurde. Wenden Sie keine Kurier-De-minimis-Logik auf ein versendetes Auto an.
 ## Ursprung Ist die Bedingung für 0% - Holen Sie sich das Zertifikat richtig
 Die FTA-Präferenz gilt nur für **Ursprungswaren **, die die produktspezifische Ursprungsregel erfüllen und eine gültige **Ursprungsbescheinigung ** tragen, die von der ermächtigten Stelle ausgestellt wurde und für Rechnung, Packliste, B/L und VIN einheitlich ist. Betrieblich:
-- Bestätigen Sie den **HS-Code des Fahrzeugs und seine FTA-Ursprungsregel (überprüfen Sie den aktuellen FTA-Text / SUBREI für diese Überschrift - gehen Sie nicht davon aus, dass jedes Fahrzeug automatisch qualifiziert ist).
+- Bestätigen Sie den **HS-Code des Fahrzeugs und seine FTA-Ursprungsregel (überprüfen Sie den aktuellen FTA-Text SUBREI für diese Überschrift - gehen Sie nicht davon aus, dass jedes Fahrzeug automatisch qualifiziert ist).
 - Erhalten Sie die FTA-Bescheinigung, in der die gleichen Ausführer/Empfänger- und Fahrzeugdaten wie die Handelspapiere angegeben sind.
 - Eine gebrochene oder fehlende Ursprungskette setzt die Sendung standardmäßig zur allgemeinen ** 6% ** Pflicht.
 ## 3CV Homologation ist vom Zoll getrennt
 Vehicles placed on the Chilean market require **3CV homologation** (the safety/emissions certification procedure overseen by the transport/vehicle-certification authorities) before registration. Dies ist ein Compliance-Prozess und eine Zeitleiste **, keine feste Gebühr: Es wurde keine zuverlässige offizielle Gebühr pro Einheit erhoben, so dass keine Nummer (z. B. eine zitierte ~ US $ 600) geltend gemacht wird ** - das aktuelle Angebot und die Vorlaufzeit des Zertifizierers erhalten und früh beginnen, weil es die erste Registrierung und nicht die Zollfreigabe einleitet.
 ## Punkte absichtlich unbestätigt
-- **Jeder "Luxus / Zusteuer" -Schwellenwert** (eine Industriequelle, die einen Prozentsatz über einem Wertband anführt): **nicht gegenüber dem Text der chilenischen Steuerbehörde (SII) bestätigt und aus dem Sachkostenstapel entfernt** - überprüfen Sie die Anwendbarkeit auf Ihr Modell / Ihren Preis mit einer chilenischen Steuerquelle vor der Budgetierung.
+- **Jeder "Luxus Zusteuer" -Schwellenwert** (eine Industriequelle, die einen Prozentsatz über einem Wertband anführt): **nicht gegenüber dem Text der chilenischen Steuerbehörde (SII) bestätigt und aus dem Sachkostenstapel entfernt** - überprüfen Sie die Anwendbarkeit auf Ihr Modell Ihren Preis mit einer chilenischen Steuerquelle vor der Budgetierung.
 - **ANACs Vorschlag vom Mai-2026, die 6%-Zollgebühr für Elektrofahrzeuge von Nicht-FTA-Partnern zu senken **: ein Handelsverband **Vorschlag, kein erlassenes Gesetz **. Beachten Sie auch, dass ein konformes EV chinesischen Ursprungs bereits den FTA 0%-Kanal verwendet, so dass die Nicht-FTA-Debatte eine andere Linie ist. Überprüfen Sie am Versanddatum erneut; zitieren Sie niemals einen Vorschlag als Richtlinie.
 ## Was AutoBridge über einen Tarifblog hinausfügt
-Generische Leitfäden mischen Kurier de-minimis Regeln, Vorschläge und erlassene Steuern in einer Zahl. Die empfohlene Methode ist die Erstellung eines **landgerechten Stacks für ein *Fahrzeug * (6% allgemeine / 0% FTA-Präferenz + 19% IVA auf den Zollwert einschließlich), das **Ursprungszertifikat mit der FIN verknüpft ist**,  and  Planen Sie die ** 3CV Timeline parallel zum Versand **, damit die 0% Präferenz nicht bei einer Papierkram-Mismatch verloren geht  and  Die erste Registrierung verzögert sich nicht.
+Generische Leitfäden mischen Kurier de-minimis Regeln, Vorschläge und erlassene Steuern in einer Zahl. Die empfohlene Methode ist die Erstellung eines **landgerechten Stacks für ein *Fahrzeug * (6% allgemeine 0% FTA-Präferenz + 19% IVA auf den Zollwert einschließlich), das **Ursprungszertifikat mit der FIN verknüpft ist**,  and  Planen Sie die ** 3CV Timeline parallel zum Versand **, damit die 0% Präferenz nicht bei einer Papierkram-Mismatch verloren geht  and  Die erste Registrierung verzögert sich nicht.
 ## Betriebsablauf
 1. Klassifizieren Sie den HS-Code und bestätigen Sie die Ursprungsregel für das Freihandelsabkommen vor der Preisfestsetzung.
 2. Ordnen Sie das FTA-Ursprungszertifikat mit Dokumenten, die mit der VIN übereinstimmen.
 3. Modell landete Kosten als ** 0% Präferenzzoll (oder 6% ohne sie) + 19% IVA + Logistik + 3CV **, ohne erfundene Gebühren.
 4. Starten Sie die Homologation 3CV frühzeitig; erhalten Sie die Live-Gebühr/Zeitleiste des Zertifizierers.
 5. Überprüfen Sie den ANAC-Vorschlag und jede Zuschlagssteuer am Versanddatum; halten Sie die Vorschläge aus dem Angebot heraus.
-6. Richten Sie die Incoterms / Zahlung aus und versichern Sie die Ozeanbeine (siehe die entsprechenden Anleitungen).
+6. Richten Sie die Incoterms Zahlung aus und versichern Sie die Ozeanbeine (siehe die entsprechenden Anleitungen).
 ## Vor Zahlung — Bestätigungsliste
 - HS-Code + FTA-Ursprungsregel; FTA-Zertifikat arrangiert und VIN-konsistent.
-- Steuerstack berechnet auf der Basis von aduana.gob.cl (6% allgemeine / 0% Präferenz; 19% IVA auf CIF + Zoll).
+- Steuerstack berechnet auf der Basis von aduana.gob.cl (6% allgemeine 0% Präferenz; 19% IVA auf CIF + Zoll).
 - Jede mit einer chilenischen Steuerquelle verifizierte Übersteuer, nicht angenommen.
 - 3CV Strecke, laufende Gebühr und vom Zertifizierer angegebener Zeitplan (keine Benchmark-Nummer wiederverwendet).
 - Änderung des Vorschlags/Status zum Versanddatum erneut überprüft.
@@ -50,7 +50,7 @@ Generische Leitfäden mischen Kurier de-minimis Regeln, Vorschläge und erlassen
 **Ist die Pflicht 0% für ein chinesisches Auto in Chile wirklich?** Für *Ursprungswaren unter dem China-Chile FTA, mit einem gültigen Ursprungszeugnis, ist der Wertzoll 0%; 19% IVA gilt weiterhin.
 **Was ist die Nicht-FTA-Zoll und IVA? ** Der chilenische Zoll legt einen allgemeinen Wertzoll von 6% auf CIF und einen allgemeinen Wertzoll von 19% IVA auf Zollwert plus Zoll fest.
 **Welches Dokument schaltet die Präferenz frei?** Eine gültige FTA-Ursprungsbescheinigung, die mit der Rechnung und der VIN übereinstimmt; ohne sie gilt die allgemeine Zollpflicht von 6%.
-**Was ist 3CV und was kostet es?** Chiles Fahrzeughomologationsprozess; es ist die Registrierung und seine Gebühr / Zeitleiste muss vom Zertifizierer angegeben werden - dieser Artikel gibt keine feste Nummer an.
+**Was ist 3CV und was kostet es?** Chiles Fahrzeughomologationsprozess; es ist die Registrierung und seine Gebühr Zeitleiste muss vom Zertifizierer angegeben werden - dieser Artikel gibt keine feste Nummer an.
 **Is the ANAC EV-duty cut in force?** No — it is a 2026 association proposal, nicht erlassenes Recht; erneute Kontrolle bei der Verbringung.
 ## Bildaufzeichnung
 - IMAGE_ASSET_PATH: keine gesicherte Datei
@@ -89,11 +89,11 @@ Generische Leitfäden mischen Kurier de-minimis Regeln, Vorschläge und erlassen
 | Jinyu Autos — 中国车进口智利指南 | Jinyu Autos(行业站) | CL | https://jinyuautos.com/blog/import-chinese-cars-to-chile/ | 2026-09-02 | SINGLE_SOURCEN | 中智 FTA 0% 关税通道 |
 | Huajiame — 全球汽车进口关税指南 | Huajiame(行业站) | CL | https://www.huajiame.com/pl/knowledge/global-auto-import-tariff-guide | 2026-09-02 | SINGLE_SOURCEN | 智利关税 6%（FTA 0%）、VAT 19%、奢侈品税 15%（>~$35k） |
 
-*Vertrauensbeweis: Die 6% allgemeine Zoll und 19% IVA sind auf chilenischen Zoll überprüft; die Präferenz FTA 0% ist offiziell, aber abhängig von der Herkunft. Die zuvor enthaltene 1% / US $ 30 Kurierregel (nicht anwendbar auf Fahrzeuge), eine unbestätigte Luxus-Zusteuerschwelle und eine feste 3CV Gebühr wurden aus dem sachlichen Körper entfernt; HS-Ebene Ursprungsregeln und jede Zusteuer müssen mit dem chilenischen Zoll / SII / SUBREI bestätigt werden. *
+*Vertrauensbeweis: Die 6% allgemeine Zoll und 19% IVA sind auf chilenischen Zoll überprüft; die Präferenz FTA 0% ist offiziell, aber abhängig von der Herkunft. Die zuvor enthaltene 1% US $ 30 Kurierregel (nicht anwendbar auf Fahrzeuge), eine unbestätigte Luxus-Zusteuerschwelle und eine feste 3CV Gebühr wurden aus dem sachlichen Körper entfernt; HS-Ebene Ursprungsregeln und jede Zusteuer müssen mit dem chilenischen Zoll SII SUBREI bestätigt werden. *
 ## Editorial Review
-- **Autor / Rezensent**: [AutoBridge Export Editorial Team](/Autoren/) · Methode nach unserer [Editorial Policy](/editorial-policy/]
+- **Autor Rezensent**: [AutoBridge Export Editorial Team](/Autoren/) · Methode nach unserer [Editorial Policy](/editorial-policy/]
 - **Zuletzt überprüft**: 2026-09-05
 - **Referenzmarkt**: Chile
-- **Verifizierungsmethode**: Staatliche Zoll primäre Quelle für Zoll / IVA; offizielle Handelsorganisation für die FTA Präferenz; Vorschläge und unbestätigte Gebühren aus dem sachlichen Stapel gehalten
+- **Verifizierungsmethode**: Staatliche Zoll primäre Quelle für Zoll IVA; offizielle Handelsorganisation für die FTA Präferenz; Vorschläge und unbestätigte Gebühren aus dem sachlichen Stapel gehalten
 - **Editorialstandard**: Recherchiert und geschrieben aus den oben aufgeführten Quellen (Desk-Recherche; kein Fahren aus erster Hand, Teardown oder Import wird beansprucht). Das Vertrauen in die Quelle wird pro Zeile angezeigt; jeder Punkt, den wir nicht unabhängig bestätigen können, wird als Verifizierungselement dargestellt und nicht als Tatsache behauptet.
 #AutoBridge #ChileImport #FTA #3CVHomologation #EVExport

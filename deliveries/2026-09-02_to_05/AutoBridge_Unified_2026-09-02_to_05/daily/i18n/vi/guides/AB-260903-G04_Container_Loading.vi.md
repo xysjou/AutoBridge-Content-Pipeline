@@ -6,7 +6,7 @@
 - ** H1 **: Xe cộ đang tải và ợ: Counts, Racks, chuỗi chuỗi và check Pre-sals
 - **Criumary Keyword**: bao nhiêu chiếc xe vừa với 40hq thùng chứa hàng
 - **Secondary Search Words**: 40HQ two SUV, Hai boong xe container, Xe bị trói chặt, buộc chặt tay lái. RoRo gọi container chuyển đổi, Comment
-- **I nội bộ Link gợi ý*: //guides/vehic-vehle- repection-psi /; /guides/ev-shipping- un3171-imdg-compliance/; /vehles/changan- cs75-plus/
+- **I nội bộ Link gợi ý*: repection-psi /guides/ev-shipping- un3171-imdg-compliance/; /vehles/changan- cs75-plus/
 - **Image gợi ý**: biểu đồ sóng âm bên; điểm đánh dấu bánh xe; giá đỡ hai lần kéo; thứ tự nạp trên+Cấp cao
 - **LT Những gợi ý**: "40HQ two SUV side stowage"; "wheel tyre lashing eight straps"
 
@@ -14,9 +14,9 @@
 "Có bao nhiêu chiếc xe trong 40HQ chiếc không có câu trả lời phổ quát - đó là chức năng của **vehcle kích thước, gương gấp, hệ thống giá treo và kế hoạch của nhà sản xuất và các nhà sản xuất được chấp thuận**. Sách hướng dẫn này đưa ra những ban nhạc và phương pháp thực tế; nó không cố ý ghi lại số lượng. Xác nhận mọi chuyến hàng chống lại một kế hoạch tải đo lường thực tế.
 
 ## Băng tải thực tế (từ thực hành đã ghi chép)
-- **Không có giá trị, Thông thường: ** a 40HQ typically carries **two mid/large SUVs** (examples cited are ~4.9 m class such as ID.6 / Range-Rover / Prado / Li L7-scale vehicles) (single-source forwarder diagram).
+- **Không có giá trị, Thông thường: ** a 40HQ typically carries **two mid/large SUVs** (examples cited are ~4.9 m class such as ID.6 Range-Rover Prado Li L7-scale vehicles) (single-source forwarder diagram).
 - **Với một cái giá treo hai lần: ** an **"upper 2 + thấp hơn 2 " = bốn SUV** đã được báo cáo trong một phiên tòa "RoRo-to-to-container" (single-source).
-- **Sedans / China-Europe lan can: ****three vehicles per box** appears in China-Europe rail/sedan practice reporting (single-source).
+- **Sedans China-Europe lan can: ****three vehicles per box** appears in China-Europe rail/sedan practice reporting (single-source).
 Đây là những điểm tham khảo, chứ không phải quyền lợi: một chiếc xe tải chở hàng cao cấp, một chiếc xe tải hoặc một chiếc xe cán bộ dài thay đổi mức độ đếm và nạp tải cần thiết bị và một kế hoạch được phê duyệt.
 
 ## Độ mạnh: Sửa Qua thành Ty - rơ, chứ không phải qua thân thể
@@ -28,7 +28,7 @@ Mục tiêu là dưới tàu lăn xe lăn hoặc khoan không thể dịch chuy�
 
 ## Đang nạp chuỗi (nơi khó xử)
 Đối với khung/tách ba lần tải, thực hành cổng được ghi nhận là:
-1. **Load các phương tiện treo trên đỉnh đầu / theo thứ tự kế hoạch**, sử dụng một chiếc xe nâng để hỗ trợ đẩy và đặt hàng;
+1. **Load các phương tiện treo trên đỉnh đầu theo thứ tự kế hoạch**, sử dụng một chiếc xe nâng để hỗ trợ đẩy và đặt hàng;
 2. Một container hai cánh cho phép làm việc từ cả hai đầu cùng một lúc, ngắn lại;
 3. Bảo vệ từng đơn vị một — không bao giờ để xe không an toàn trong khi lái xe kế tiếp.
 Lỗi hàng loạt (nếu tải xe thấp hơn trước và chặn lối vào) là sự chậm trễ dễ tránh nhất trong bốn toa.
@@ -37,7 +37,7 @@ Lỗi hàng loạt (nếu tải xe thấp hơn trước và chặn lối vào) l
 Đã thích nghi từ phương pháp tải container đã được ghi chép:
 1. ** Những người tốt đấu với danh sách đóng gói** — ViINs, số lượng và điều kiện khớp; PSI đã hoàn tất (xem hướng dẫn PSI).
 2. ** Thứ tự phát triển** — phân phối trọng lượng và giá trị mỗi lần lên kế hoạch.
-3. **Crere trọng lực / rõ ràng / cao** — không liên lạc với mái nhà, tường hay cửa; thậm chí trọng lượng từ bên này sang bên kia.
+3. **Crere trọng lực rõ ràng cao** — không liên lạc với mái nhà, tường hay cửa; thậm chí trọng lượng từ bên này sang bên kia.
 4. **Cắt dây — dây buộc, buộc, gỗ, chống căng mọi thứ ở chỗ và căng thẳng; không có gì về sơn hoặc chà xát.
 5. ** Giấy phép để đóng và niêm phong** — đủ lề để đóng; ảnh của cây cọc trước khi được đóng ấn.
 
@@ -90,17 +90,17 @@ Sao lại phải nạp đạn cho cái giá đầu tiên? Phải đặt các xe 
 |---|---|---|---|---|---|---|
 | Xem phụ xe hơi (2/box, 8 dây buộc) | Vật liệu tua lại Freight | Toàn cục | https://m.11467.com/product/d42473652.htm | 2026-09-03 | SINGLE_SOURCE | 2-SUV không có đường ray; ~ 8 dây; phương pháp bánh xe (một nguồn) |
 | Yantai port first 4-SUV "RoRo-to-container" trial | Tin tức buổi chiều Qillu | CN | http://m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | SINGLE_SOURCE | Upper2+lower2 khung; đang nạp dãy (một phiên tòa đã báo cáo) |
-| Xe chở hàng Tàu điện ngầm China-Europe (3/box) | Harbin Railway / Tnotao | CN | http://m.toutiao.com/group/6748371578787987979/ | 2026-09-03 | SINGLE_SOURCE | Xe sedan/rail giới thiệu ba hộp (một nguồn) |
+| Xe chở hàng Tàu điện ngầm China-Europe (3/box) | Harbin Railway Tnotao | CN | http://m.toutiao.com/group/6748371578787987979/ | 2026-09-03 | SINGLE_SOURCE | Xe sedan/rail giới thiệu ba hộp (một nguồn) |
 | Export container five-step loading method | NetEase | Toàn cục | https://www.163.com/dy/article/L42056IP05568MR2.html | 2026-09-03 | SINGLE_SOURCE | Five-point stowage check (one source) |
-*Scope (R4): Mỗi hình tải đến từ một nguồn riêng lẻ (tất cả SINGLE_SOURCE) — không có sự kiện nào được chứng thực bởi hai nguồn độc lập, do đó không có nguồn nào được dán nhãn là CROSS Kiểm tra. Số lượng là tham khảo có ghi chép, không đảm bảo độ cao; số chính xác luôn phụ thuộc vào chiều không gian đo đạc và một kế hoạch tải được chấp nhận, và các quy tắc mẫu/ kì hạn phải được xác nhận tại đặt chỗ. ♪
+*Scope: Mỗi hình tải đến từ một nguồn riêng lẻ (tất cả SINGLE_SOURCE) — không có sự kiện nào được chứng thực bởi hai nguồn độc lập, do đó không có nguồn nào được dán nhãn là CROSS Kiểm tra. Số lượng là tham khảo có ghi chép, không đảm bảo độ cao; số chính xác luôn phụ thuộc vào chiều không gian đo đạc và một kế hoạch tải được chấp nhận, và các quy tắc mẫu/ kì hạn phải được xác nhận tại đặt chỗ. ♪
 
 | Bộ mã thực hành cho các đơn vị vận chuyển xe tải. | Tổ chức hải sản Quốc tế (MO) | IN'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | VEII | Phân phối hàng hóa, đánh đập và bảo vệ nguyên tắc cho CTU bao gồm các thùng chứa |
 | Comment | Hội đồng vận chuyển thế giới | IN'L | https://www.worldshipping.org/ | 2026-09-05 | VEII | Chuẩn hóa chuyển hàng và chuẩn trong bối cảnh sắp xếp dòng để nạp kế hoạch lên kế hoạch |
 
 ## Xem lại tập tin
-- **Author / recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
+- **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
 - **Last xem lại**: 2026-09-05
-- **Trible market / pul**: Thao tác hậu cần toàn cầu (method, không phải một lời hứa cố định)
+- **Trible market pul**: Thao tác hậu cần toàn cầu (method, không phải một lời hứa cố định)
 - ** phương pháp xác định**: hướng dẫn hoạt động, không có số đếm phổ quát khẳng định
 - **Ku thích về tiêu chuẩn**: Nghiên cứu và viết từ những nguồn được liệt kê ở trên (các nghiên cứu ban đầu; không có ổ đĩa cầm tay, bỏ xuống hoặc nhập khẩu nào được xác nhận). Sự tự tin nguồn được thể hiện trên mỗi hàng; bất cứ điểm nào chúng ta không thể tự xác nhận được đều được trình bày như một vật chứng thực thay vì xác nhận là sự thật.
 #AutoBridge #ContainerLoading #40HQ #VehicleLashing #CTUCode

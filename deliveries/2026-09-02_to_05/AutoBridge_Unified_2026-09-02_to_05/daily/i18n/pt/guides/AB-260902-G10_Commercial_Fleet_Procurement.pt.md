@@ -47,7 +47,7 @@ Pin contratualmente: preço unitário vs nível de especificação, peças sobre
 - Ciclo de funcionamento, GVW/carga, combustível e fase de emissão de destino, fixados por escrito.
 - Quadro/eixo/suspensão/materiais corporais e espessuras para grau de concurso.
 - Exportador verificado na lista ** 2026 ** qualificada com a licença de exportação da categoria correta + autorização OEM (ou condições de carro usado).
-- Cobertura local de OEM / peças de papel confirmado.
+- Cobertura local de OEM peças de papel confirmado.
 - A cadeia de documentos (número VIN/motor, Incoterm, valor segurado, licença) tem um modelo.
 - Restrições de destino de RHD/idade/emissão/importação eliminadas.
 - Método de aceitação/inspecção e pós-venda incorporado no contrato.
@@ -89,12 +89,12 @@ Pin contratualmente: preço unitário vs nível de especificação, peças sobre
 | 2026 automobile/motorcycle export-licence application notice (商办贸函〔2025〕408号) | MOFCOM (**funcionário do governo**) | NC | https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_7c50d6688ca34d1786a1bfd2ccde7d19.html | 2026-09-03 | ** VERIFIFICADO** | Sistema de aplicação online, revisão local, processo de lista qualificada |
 | Licença de exportação de passageiros puro-EV a partir de 2026-01-01 (Anúncio n.o 54; HS 8703801090) | MOFCOM/MIIT/GAC/SAMR (**funcionário do governo**) | NC | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-03 | ** VERIFIFICADO** | 2026 regime de licença de exportação de passageiros NEV |
 | 2026 lista de empresas qualificadas para a licença de exportação | Departamento de Comércio Externo da MOFCOM (** funcionário do governo**) | NC | http://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_6685d244c4f4429e9a749a1a9f34bf19.html | 2026-09-03 | ** VERIFIFICADO** | Empresas qualificadas do corrente ano |
-| Reforçar ainda mais a gestão das exportações de automóveis usados (nov 2025) | MOFCOM/MIIT/MPS/GAC via gov.cn (** funcionário do governo**) | NC | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | ** VERIFIFICADO** | Campo de licença de exportação/consistência de registo-certificado utilizado |
+| Reforçar ainda mais a gestão das exportações de automóveis usados (nov 2025) | MOFCOM/MIIT/MPS/GAC via (** funcionário do governo**) | NC | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | ** VERIFIFICADO** | Campo de licença de exportação/consistência de registo-certificado utilizado |
 | 15-unit concurso público para camiões de descarga (indicadores técnicos vinculativos) | Hunan Road & Bridge Group (proposta real) | CN→Ásia Central | http://www.hnrb.cn/2025/zhaobiaogonggao_0925/9717.html | 2026-09-02 | ** VERIFIFICADO** | ≥15 m³, aço T700, piso ≥ 10 mm, lado ≥ 8 mm, Tipo de elevador |
 | Guia de ciclo de serviço/costumização (quadro de dupla camada, eixos com taxa de serviço) | Fabricantes de CV (orientação Chary/FAW; fluxo Chengli 12-step) | CN→Global | https://www.charymachinery.com/the-step-by-step-guide-for-international-buyers-sourcing-commercial-vehicles-from-china.html | 2026-09-02 | CROSS_CHECKED | Orientação de engenharia/processo |
 * Nota de confiança: o regime de licença de exportação de 2026 e os indicadores de aceitação de propostas são VERIFIED em fontes de governo/tender real. A orientação de engenharia/processo é fabricante/indústria (CROSS_CHECKED); as listas de anos atuais, as redes OEM no exterior e todos os termos comerciais (descontagem/MOQ/tempo de liderança) são obtidos ao vivo e nunca estimados. *
 ## Revisão Editorial
-- **Autor / revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)
+- **Autor revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)
 - ** Última revisão**: 2026-09-05
 - ** Mercado de referência**: Global (veículos comerciais provenientes da China)
 - ** Método de verificação**: Fontes primárias do Governo para o regime de licenças de 2026, um concurso real para critérios de aceitação, dados comerciais deixados à negociação

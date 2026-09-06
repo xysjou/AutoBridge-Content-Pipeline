@@ -58,7 +58,57 @@
    "Image Rights": "FAIL",
    "Publish Approved": false,
    "Human Reviewed": false,
-   "Prepub Repair Date": "2026-09-06"
+   "Prepub Repair Date": "2026-09-06",
+   "EN words": 2434,
+   "AI Assisted": true,
+   "en_sha256_16": "4a96409ea7b947eb",
+   "locale_full_body": 12,
+   "locale_sha": {
+    "fr": {
+     "sha": "ebd83a4da6724bb6",
+     "qa": "PASS"
+    },
+    "de": {
+     "sha": "a5ec869a30545ed9",
+     "qa": "PASS"
+    },
+    "es": {
+     "sha": "d98bee70ee25ceda",
+     "qa": "PASS"
+    },
+    "pt": {
+     "sha": "dfe158712d4c414f",
+     "qa": "PASS"
+    },
+    "ja": {
+     "sha": "6c1fbf4ab35834b4",
+     "qa": "PASS"
+    },
+    "ko": {
+     "sha": "13d3deea1e9c63c3",
+     "qa": "PASS"
+    },
+    "vi": {
+     "sha": "70219bd8a42a0627",
+     "qa": "PASS"
+    },
+    "th": {
+     "sha": "05b5ad8cd9d6e126",
+     "qa": "PASS"
+    },
+    "id": {
+     "sha": "b28f5ac1aa13ca90",
+     "qa": "PASS"
+    },
+    "ar": {
+     "sha": "951bd4bea59b407c",
+     "qa": "PASS"
+    },
+    "zh": {
+     "sha": "53aedd41627fdf52",
+     "qa": "PASS"
+    }
+   }
   },
   {
    "Article ID": "AB-260902-V02",
@@ -106,7 +156,57 @@
    "Image Rights": "FAIL",
    "Publish Approved": false,
    "Human Reviewed": false,
-   "Prepub Repair Date": "2026-09-06"
+   "Prepub Repair Date": "2026-09-06",
+   "EN words": 1777,
+   "AI Assisted": true,
+   "en_sha256_16": "fbe7825e3728824d",
+   "locale_full_body": 12,
+   "locale_sha": {
+    "fr": {
+     "sha": "b4b982ade821a235",
+     "qa": "PASS"
+    },
+    "de": {
+     "sha": "78a7c1891e274d6e",
+     "qa": "PASS"
+    },
+    "es": {
+     "sha": "d97d9ac5ce95bbbd",
+     "qa": "PASS"
+    },
+    "pt": {
+     "sha": "49ff14d25d024165",
+     "qa": "PASS"
+    },
+    "ja": {
+     "sha": "a98ef9a0ba0c2ad5",
+     "qa": "PASS"
+    },
+    "ko": {
+     "sha": "6e9ec1a65acc92a7",
+     "qa": "PASS"
+    },
+    "vi": {
+     "sha": "12d372876940f9a5",
+     "qa": "PASS"
+    },
+    "th": {
+     "sha": "f6e780806d327512",
+     "qa": "PASS"
+    },
+    "id": {
+     "sha": "9b7b5c6d2a9fcba1",
+     "qa": "PASS"
+    },
+    "ar": {
+     "sha": "14152cf2d8e67e1c",
+     "qa": "PASS"
+    },
+    "zh": {
+     "sha": "f911954599c1c00a",
+     "qa": "PASS"
+    }
+   }
   },
   {
    "Article ID": "AB-260902-V03",
@@ -156,7 +256,57 @@
    "Image Rights": "FAIL",
    "Publish Approved": false,
    "Human Reviewed": false,
-   "Prepub Repair Date": "2026-09-06"
+   "Prepub Repair Date": "2026-09-06",
+   "EN words": 1798,
+   "AI Assisted": true,
+   "en_sha256_16": "b23f45d148ffd8c2",
+   "locale_full_body": 12,
+   "locale_sha": {
+    "fr": {
+     "sha": "f72089ed108a7c95",
+     "qa": "PASS"
+    },
+    "de": {
+     "sha": "04cacc40bd307d05",
+     "qa": "PASS"
+    },
+    "es": {
+     "sha": "d4a20e6dfbb55413",
+     "qa": "PASS"
+    },
+    "pt": {
+     "sha": "49e9cb5ad744bb71",
+     "qa": "PASS"
+    },
+    "ja": {
+     "sha": "bec6f0646e57d49b",
+     "qa": "PASS"
+    },
+    "ko": {
+     "sha": "68e6b1d33b028569",
+     "qa": "PASS"
+    },
+    "vi": {
+     "sha": "43f7dc7ab5a48bb8",
+     "qa": "PASS"
+    },
+    "th": {
+     "sha": "b51936de075c7c2d",
+     "qa": "PASS"
+    },
+    "id": {
+     "sha": "a6706b0203b8a14d",
+     "qa": "PASS"
+    },
+    "ar": {
+     "sha": "3b144a620517b18c",
+     "qa": "PASS"
+    },
+    "zh": {
+     "sha": "89d500fb0c7742dd",
+     "qa": "PASS"
+    }
+   }
   },
   {
    "Article ID": "AB-260902-V04",
@@ -204,7 +354,57 @@
    "Image Rights": "FAIL",
    "Publish Approved": false,
    "Human Reviewed": false,
-   "Prepub Repair Date": "2026-09-06"
+   "Prepub Repair Date": "2026-09-06",
+   "EN words": 1800,
+   "AI Assisted": true,
+   "en_sha256_16": "533eb5f1f6cfe5fd",
+   "locale_full_body": 12,
+   "locale_sha": {
+    "fr": {
+     "sha": "da51ace43d3f92cb",
+     "qa": "PASS"
+    },
+    "de": {
+     "sha": "6cdd689bdf42f7a1",
+     "qa": "PASS"
+    },
+    "es": {
+     "sha": "1294b6a52a590760",
+     "qa": "PASS"
+    },
+    "pt": {
+     "sha": "3548ebd3d270c573",
+     "qa": "PASS"
+    },
+    "ja": {
+     "sha": "7b06ebc0c5170759",
+     "qa": "PASS"
+    },
+    "ko": {
+     "sha": "dc1b5dafac999688",
+     "qa": "PASS"
+    },
+    "vi": {
+     "sha": "9b2886c7f38f32bf",
+     "qa": "PASS"
+    },
+    "th": {
+     "sha": "859ead4a1209af2f",
+     "qa": "PASS"
+    },
+    "id": {
+     "sha": "2ec0c2d8f42826cf",
+     "qa": "PASS"
+    },
+    "ar": {
+     "sha": "bc5ad211fa076c9d",
+     "qa": "PASS"
+    },
+    "zh": {
+     "sha": "6d930d9f85f60b55",
+     "qa": "PASS"
+    }
+   }
   },
   {
    "Article ID": "AB-260902-V05",
@@ -252,7 +452,57 @@
    "Image Rights": "FAIL",
    "Publish Approved": false,
    "Human Reviewed": false,
-   "Prepub Repair Date": "2026-09-06"
+   "Prepub Repair Date": "2026-09-06",
+   "EN words": 1761,
+   "AI Assisted": true,
+   "en_sha256_16": "9ec44e2645ff9aa2",
+   "locale_full_body": 12,
+   "locale_sha": {
+    "fr": {
+     "sha": "0241c63be16e5c1b",
+     "qa": "PASS"
+    },
+    "de": {
+     "sha": "0c2142f95abe3861",
+     "qa": "PASS"
+    },
+    "es": {
+     "sha": "c62c0d342d2b2be0",
+     "qa": "PASS"
+    },
+    "pt": {
+     "sha": "7f5336917c548a2c",
+     "qa": "PASS"
+    },
+    "ja": {
+     "sha": "1f782ab6522eb93c",
+     "qa": "PASS"
+    },
+    "ko": {
+     "sha": "427eaeff87465889",
+     "qa": "PASS"
+    },
+    "vi": {
+     "sha": "6cd35762d9ad3206",
+     "qa": "PASS"
+    },
+    "th": {
+     "sha": "ea739d6434825ca7",
+     "qa": "PASS"
+    },
+    "id": {
+     "sha": "3dec53037dbc3c94",
+     "qa": "PASS"
+    },
+    "ar": {
+     "sha": "40b948cf970351d7",
+     "qa": "PASS"
+    },
+    "zh": {
+     "sha": "57b9088df979b3a7",
+     "qa": "PASS"
+    }
+   }
   },
   {
    "Article ID": "AB-260902-V06",
@@ -299,7 +549,57 @@
    "Image Rights": "FAIL",
    "Publish Approved": false,
    "Human Reviewed": false,
-   "Prepub Repair Date": "2026-09-06"
+   "Prepub Repair Date": "2026-09-06",
+   "EN words": 1911,
+   "AI Assisted": true,
+   "en_sha256_16": "5cb0cf4c589bd799",
+   "locale_full_body": 12,
+   "locale_sha": {
+    "fr": {
+     "sha": "0f10f9ddb5760e8d",
+     "qa": "PASS"
+    },
+    "de": {
+     "sha": "cc6cca3137165eb3",
+     "qa": "PASS"
+    },
+    "es": {
+     "sha": "94427711b23c8fdc",
+     "qa": "PASS"
+    },
+    "pt": {
+     "sha": "c5d0ce3f99addde5",
+     "qa": "PASS"
+    },
+    "ja": {
+     "sha": "312451f748084880",
+     "qa": "PASS"
+    },
+    "ko": {
+     "sha": "90dbe70096375d65",
+     "qa": "PASS"
+    },
+    "vi": {
+     "sha": "30f8c6ad829670b4",
+     "qa": "PASS"
+    },
+    "th": {
+     "sha": "84364e2c9f5560c5",
+     "qa": "PASS"
+    },
+    "id": {
+     "sha": "b952a4e4661326a9",
+     "qa": "PASS"
+    },
+    "ar": {
+     "sha": "1fee8d07f7a10e0a",
+     "qa": "PASS"
+    },
+    "zh": {
+     "sha": "7ec54be3e4c56bf0",
+     "qa": "PASS"
+    }
+   }
   },
   {
    "Article ID": "AB-260902-V07",
@@ -346,7 +646,57 @@
    "Image Rights": "FAIL",
    "Publish Approved": false,
    "Human Reviewed": false,
-   "Prepub Repair Date": "2026-09-06"
+   "Prepub Repair Date": "2026-09-06",
+   "EN words": 2334,
+   "AI Assisted": true,
+   "en_sha256_16": "b757f21d2074a43d",
+   "locale_full_body": 12,
+   "locale_sha": {
+    "fr": {
+     "sha": "81109bd3fbefda07",
+     "qa": "PASS"
+    },
+    "de": {
+     "sha": "f28036c2dfba9dda",
+     "qa": "PASS"
+    },
+    "es": {
+     "sha": "5a529f8d0cd2b5eb",
+     "qa": "PASS"
+    },
+    "pt": {
+     "sha": "0806dedafad8342c",
+     "qa": "PASS"
+    },
+    "ja": {
+     "sha": "481a4bcad84f52a3",
+     "qa": "PASS"
+    },
+    "ko": {
+     "sha": "b49b18ba2631fb8e",
+     "qa": "PASS"
+    },
+    "vi": {
+     "sha": "ffbc84fa8f189a66",
+     "qa": "PASS"
+    },
+    "th": {
+     "sha": "51dfff0ec8e1c7a6",
+     "qa": "PASS"
+    },
+    "id": {
+     "sha": "65e80b7127c791fa",
+     "qa": "PASS"
+    },
+    "ar": {
+     "sha": "97477ed1a4255df7",
+     "qa": "PASS"
+    },
+    "zh": {
+     "sha": "786eb9306f1cb69d",
+     "qa": "PASS"
+    }
+   }
   },
   {
    "Article ID": "AB-260902-V08",
@@ -393,7 +743,57 @@
    "Image Rights": "FAIL",
    "Publish Approved": false,
    "Human Reviewed": false,
-   "Prepub Repair Date": "2026-09-06"
+   "Prepub Repair Date": "2026-09-06",
+   "EN words": 1830,
+   "AI Assisted": true,
+   "en_sha256_16": "38153108d2df8a78",
+   "locale_full_body": 12,
+   "locale_sha": {
+    "fr": {
+     "sha": "0ebb6d386bf10508",
+     "qa": "PASS"
+    },
+    "de": {
+     "sha": "f16fb4e2d5ee216a",
+     "qa": "PASS"
+    },
+    "es": {
+     "sha": "4baa4bc8f700b01e",
+     "qa": "PASS"
+    },
+    "pt": {
+     "sha": "6dd85d57ebef9e53",
+     "qa": "PASS"
+    },
+    "ja": {
+     "sha": "4393c84eabefb6a0",
+     "qa": "PASS"
+    },
+    "ko": {
+     "sha": "8ee5670bedda49ea",
+     "qa": "PASS"
+    },
+    "vi": {
+     "sha": "e8834e20ea26b5a1",
+     "qa": "PASS"
+    },
+    "th": {
+     "sha": "5680736f2c365228",
+     "qa": "PASS"
+    },
+    "id": {
+     "sha": "5d4cb9805029d469",
+     "qa": "PASS"
+    },
+    "ar": {
+     "sha": "7a07fd6cae178cdd",
+     "qa": "PASS"
+    },
+    "zh": {
+     "sha": "4ce134b7e77f6160",
+     "qa": "PASS"
+    }
+   }
   },
   {
    "Article ID": "AB-260902-V09",
@@ -440,7 +840,57 @@
    "Image Rights": "FAIL",
    "Publish Approved": false,
    "Human Reviewed": false,
-   "Prepub Repair Date": "2026-09-06"
+   "Prepub Repair Date": "2026-09-06",
+   "EN words": 1838,
+   "AI Assisted": true,
+   "en_sha256_16": "4d5202f2f7b7eb11",
+   "locale_full_body": 12,
+   "locale_sha": {
+    "fr": {
+     "sha": "0ec956f27d9ab90a",
+     "qa": "PASS"
+    },
+    "de": {
+     "sha": "ce1e098c9027432c",
+     "qa": "PASS"
+    },
+    "es": {
+     "sha": "e8baf50524e79ae1",
+     "qa": "PASS"
+    },
+    "pt": {
+     "sha": "0e35bdf643583524",
+     "qa": "PASS"
+    },
+    "ja": {
+     "sha": "5fe424b783223456",
+     "qa": "PASS"
+    },
+    "ko": {
+     "sha": "f3412d3b029a7f98",
+     "qa": "PASS"
+    },
+    "vi": {
+     "sha": "05840a8d8b9ece3e",
+     "qa": "PASS"
+    },
+    "th": {
+     "sha": "a5b5fd22bfbd5726",
+     "qa": "PASS"
+    },
+    "id": {
+     "sha": "e2ac44471d59d71a",
+     "qa": "PASS"
+    },
+    "ar": {
+     "sha": "7392387cb6b42d14",
+     "qa": "PASS"
+    },
+    "zh": {
+     "sha": "a38a4a11a198d876",
+     "qa": "PASS"
+    }
+   }
   },
   {
    "Article ID": "AB-260902-V10",
@@ -487,7 +937,57 @@
    "Image Rights": "FAIL",
    "Publish Approved": false,
    "Human Reviewed": false,
-   "Prepub Repair Date": "2026-09-06"
+   "Prepub Repair Date": "2026-09-06",
+   "EN words": 1881,
+   "AI Assisted": true,
+   "en_sha256_16": "981821fc96b735f0",
+   "locale_full_body": 12,
+   "locale_sha": {
+    "fr": {
+     "sha": "fbfe20219f69e486",
+     "qa": "PASS"
+    },
+    "de": {
+     "sha": "379282467f294b24",
+     "qa": "PASS"
+    },
+    "es": {
+     "sha": "65eccedb691faa2e",
+     "qa": "PASS"
+    },
+    "pt": {
+     "sha": "1c6d9a9d8dc78d82",
+     "qa": "PASS"
+    },
+    "ja": {
+     "sha": "4d8a829e2e736b63",
+     "qa": "PASS"
+    },
+    "ko": {
+     "sha": "77c55bd9ef178f5d",
+     "qa": "PASS"
+    },
+    "vi": {
+     "sha": "098e5518048ecba3",
+     "qa": "PASS"
+    },
+    "th": {
+     "sha": "148e22952959a21d",
+     "qa": "PASS"
+    },
+    "id": {
+     "sha": "ad7d4d22a93f302b",
+     "qa": "PASS"
+    },
+    "ar": {
+     "sha": "28065af06bae113f",
+     "qa": "PASS"
+    },
+    "zh": {
+     "sha": "2f2dce28fe6801f1",
+     "qa": "PASS"
+    }
+   }
   },
   {
    "Article ID": "AB-260902-G01",
@@ -536,7 +1036,57 @@
    "Image Rights": "FAIL",
    "Publish Approved": false,
    "Human Reviewed": false,
-   "Prepub Repair Date": "2026-09-06"
+   "Prepub Repair Date": "2026-09-06",
+   "EN words": 2360,
+   "AI Assisted": true,
+   "en_sha256_16": "124dd0af257cab84",
+   "locale_full_body": 12,
+   "locale_sha": {
+    "fr": {
+     "sha": "afb371205ea89c80",
+     "qa": "PASS"
+    },
+    "de": {
+     "sha": "9fa7b6687dda0f79",
+     "qa": "PASS"
+    },
+    "es": {
+     "sha": "69705c86edd849e9",
+     "qa": "PASS"
+    },
+    "pt": {
+     "sha": "884a4ab0cfc2b093",
+     "qa": "PASS"
+    },
+    "ja": {
+     "sha": "4f3e7f1092a491af",
+     "qa": "PASS"
+    },
+    "ko": {
+     "sha": "f3c6141488388196",
+     "qa": "PASS"
+    },
+    "vi": {
+     "sha": "a92a52bdea3da407",
+     "qa": "PASS"
+    },
+    "th": {
+     "sha": "5c81084b0faeb0d1",
+     "qa": "PASS"
+    },
+    "id": {
+     "sha": "feb422a8f9fcfbaf",
+     "qa": "PASS"
+    },
+    "ar": {
+     "sha": "3515d7392a9d250c",
+     "qa": "PASS"
+    },
+    "zh": {
+     "sha": "c7633f23b5238991",
+     "qa": "PASS"
+    }
+   }
   },
   {
    "Article ID": "AB-260902-G02",
@@ -585,7 +1135,57 @@
    "Image Rights": "FAIL",
    "Publish Approved": false,
    "Human Reviewed": false,
-   "Prepub Repair Date": "2026-09-06"
+   "Prepub Repair Date": "2026-09-06",
+   "EN words": 2293,
+   "AI Assisted": true,
+   "en_sha256_16": "12ab5251cec5cac3",
+   "locale_full_body": 12,
+   "locale_sha": {
+    "fr": {
+     "sha": "2fe3c810318c9b1c",
+     "qa": "PASS"
+    },
+    "de": {
+     "sha": "9c8666a113c6bced",
+     "qa": "PASS"
+    },
+    "es": {
+     "sha": "6f720a8122e90a91",
+     "qa": "PASS"
+    },
+    "pt": {
+     "sha": "df6f6d6711b2226a",
+     "qa": "PASS"
+    },
+    "ja": {
+     "sha": "ac12a30915f5a553",
+     "qa": "PASS"
+    },
+    "ko": {
+     "sha": "2a1d4d35b96c9c1b",
+     "qa": "PASS"
+    },
+    "vi": {
+     "sha": "1f0a22cd1b4c130b",
+     "qa": "PASS"
+    },
+    "th": {
+     "sha": "885c06d62de55e93",
+     "qa": "PASS"
+    },
+    "id": {
+     "sha": "19d23f73691dde51",
+     "qa": "PASS"
+    },
+    "ar": {
+     "sha": "6286cee1855cbb6a",
+     "qa": "PASS"
+    },
+    "zh": {
+     "sha": "50f3d30063821639",
+     "qa": "PASS"
+    }
+   }
   },
   {
    "Article ID": "AB-260902-G03",
@@ -632,7 +1232,57 @@
    "Image Rights": "FAIL",
    "Publish Approved": false,
    "Human Reviewed": false,
-   "Prepub Repair Date": "2026-09-06"
+   "Prepub Repair Date": "2026-09-06",
+   "EN words": 1923,
+   "AI Assisted": true,
+   "en_sha256_16": "49bf4e7663e9cd4c",
+   "locale_full_body": 12,
+   "locale_sha": {
+    "fr": {
+     "sha": "9395feb6f5ae3dc3",
+     "qa": "PASS"
+    },
+    "de": {
+     "sha": "9a65cdc2e364d7d7",
+     "qa": "PASS"
+    },
+    "es": {
+     "sha": "95a620a3c97c3818",
+     "qa": "PASS"
+    },
+    "pt": {
+     "sha": "a7bd0c39321d2471",
+     "qa": "PASS"
+    },
+    "ja": {
+     "sha": "4beb66627727bc23",
+     "qa": "PASS"
+    },
+    "ko": {
+     "sha": "ce2f2aff94e69dfb",
+     "qa": "PASS"
+    },
+    "vi": {
+     "sha": "124dadd668d1dbec",
+     "qa": "PASS"
+    },
+    "th": {
+     "sha": "5a7c70a54c705047",
+     "qa": "PASS"
+    },
+    "id": {
+     "sha": "d3641f4403bc1eb5",
+     "qa": "PASS"
+    },
+    "ar": {
+     "sha": "79f3ebd1b014ebf5",
+     "qa": "PASS"
+    },
+    "zh": {
+     "sha": "9ad9d000c3df6fd0",
+     "qa": "PASS"
+    }
+   }
   },
   {
    "Article ID": "AB-260902-G04",
@@ -681,7 +1331,57 @@
    "Image Rights": "FAIL",
    "Publish Approved": false,
    "Human Reviewed": false,
-   "Prepub Repair Date": "2026-09-06"
+   "Prepub Repair Date": "2026-09-06",
+   "EN words": 2374,
+   "AI Assisted": true,
+   "en_sha256_16": "9673d6228c148a92",
+   "locale_full_body": 12,
+   "locale_sha": {
+    "fr": {
+     "sha": "ea77f67f32e7c17a",
+     "qa": "PASS"
+    },
+    "de": {
+     "sha": "f7ac2520e45f51b5",
+     "qa": "PASS"
+    },
+    "es": {
+     "sha": "3761f9995ace8395",
+     "qa": "PASS"
+    },
+    "pt": {
+     "sha": "90a6fbe1bf0639ba",
+     "qa": "PASS"
+    },
+    "ja": {
+     "sha": "d6813b65a09dbf19",
+     "qa": "PASS"
+    },
+    "ko": {
+     "sha": "a1012f40319e4c0e",
+     "qa": "PASS"
+    },
+    "vi": {
+     "sha": "40169c814528e7b1",
+     "qa": "PASS"
+    },
+    "th": {
+     "sha": "de078ff96a052763",
+     "qa": "PASS"
+    },
+    "id": {
+     "sha": "517d14192d75772a",
+     "qa": "PASS"
+    },
+    "ar": {
+     "sha": "e6993c64b11125e8",
+     "qa": "PASS"
+    },
+    "zh": {
+     "sha": "abcd7da873e37a3c",
+     "qa": "PASS"
+    }
+   }
   },
   {
    "Article ID": "AB-260902-G05",
@@ -728,7 +1428,57 @@
    "Image Rights": "FAIL",
    "Publish Approved": false,
    "Human Reviewed": false,
-   "Prepub Repair Date": "2026-09-06"
+   "Prepub Repair Date": "2026-09-06",
+   "EN words": 1748,
+   "AI Assisted": true,
+   "en_sha256_16": "2e8d9d84287996b5",
+   "locale_full_body": 12,
+   "locale_sha": {
+    "fr": {
+     "sha": "677c4cf8a858fe1e",
+     "qa": "PASS"
+    },
+    "de": {
+     "sha": "7cdbc308f29b75e6",
+     "qa": "PASS"
+    },
+    "es": {
+     "sha": "0df7353e397f8787",
+     "qa": "PASS"
+    },
+    "pt": {
+     "sha": "95b0ea12f1226b72",
+     "qa": "PASS"
+    },
+    "ja": {
+     "sha": "425adf6c202ac99f",
+     "qa": "PASS"
+    },
+    "ko": {
+     "sha": "8a80b3554c6885e3",
+     "qa": "PASS"
+    },
+    "vi": {
+     "sha": "89120ac2b0e4495d",
+     "qa": "PASS"
+    },
+    "th": {
+     "sha": "038419eebed83b75",
+     "qa": "PASS"
+    },
+    "id": {
+     "sha": "7361c1d164c67aea",
+     "qa": "PASS"
+    },
+    "ar": {
+     "sha": "949dd9f91d45e2d0",
+     "qa": "PASS"
+    },
+    "zh": {
+     "sha": "a6cac99c1de830da",
+     "qa": "PASS"
+    }
+   }
   },
   {
    "Article ID": "AB-260902-G06",
@@ -775,7 +1525,57 @@
    "Image Rights": "FAIL",
    "Publish Approved": false,
    "Human Reviewed": false,
-   "Prepub Repair Date": "2026-09-06"
+   "Prepub Repair Date": "2026-09-06",
+   "EN words": 1712,
+   "AI Assisted": true,
+   "en_sha256_16": "a9b7c5c822ed8ded",
+   "locale_full_body": 12,
+   "locale_sha": {
+    "fr": {
+     "sha": "f5da7173ab897397",
+     "qa": "PASS"
+    },
+    "de": {
+     "sha": "95d198fcf7eeae47",
+     "qa": "PASS"
+    },
+    "es": {
+     "sha": "2dc8ee3f69be9a49",
+     "qa": "PASS"
+    },
+    "pt": {
+     "sha": "3bbae59438dcf08e",
+     "qa": "PASS"
+    },
+    "ja": {
+     "sha": "01753775296155ad",
+     "qa": "PASS"
+    },
+    "ko": {
+     "sha": "7d0d76261a7ff737",
+     "qa": "PASS"
+    },
+    "vi": {
+     "sha": "eefb0ec2f1da4756",
+     "qa": "PASS"
+    },
+    "th": {
+     "sha": "71b543f056b65545",
+     "qa": "PASS"
+    },
+    "id": {
+     "sha": "adcfd8b5df504bd3",
+     "qa": "PASS"
+    },
+    "ar": {
+     "sha": "65c6bfae0e09a4ce",
+     "qa": "PASS"
+    },
+    "zh": {
+     "sha": "b73624f1f7cdc864",
+     "qa": "PASS"
+    }
+   }
   },
   {
    "Article ID": "AB-260902-G07",
@@ -824,7 +1624,57 @@
    "Image Rights": "FAIL",
    "Publish Approved": false,
    "Human Reviewed": false,
-   "Prepub Repair Date": "2026-09-06"
+   "Prepub Repair Date": "2026-09-06",
+   "EN words": 2163,
+   "AI Assisted": true,
+   "en_sha256_16": "484be61ab64e190a",
+   "locale_full_body": 12,
+   "locale_sha": {
+    "fr": {
+     "sha": "9fc8896a71610e04",
+     "qa": "PASS"
+    },
+    "de": {
+     "sha": "7422e0a0fb583112",
+     "qa": "PASS"
+    },
+    "es": {
+     "sha": "5e90fc4cd02e8dbe",
+     "qa": "PASS"
+    },
+    "pt": {
+     "sha": "c791da54041193f3",
+     "qa": "PASS"
+    },
+    "ja": {
+     "sha": "117e86d87affaa93",
+     "qa": "PASS"
+    },
+    "ko": {
+     "sha": "7b1ef3968e26852b",
+     "qa": "PASS"
+    },
+    "vi": {
+     "sha": "f4b419d3b8a7bb5f",
+     "qa": "PASS"
+    },
+    "th": {
+     "sha": "6eb2b7f62d07254b",
+     "qa": "PASS"
+    },
+    "id": {
+     "sha": "1c95aab85811bc38",
+     "qa": "PASS"
+    },
+    "ar": {
+     "sha": "edff47b207d3e320",
+     "qa": "PASS"
+    },
+    "zh": {
+     "sha": "7e804b318aa15ae4",
+     "qa": "PASS"
+    }
+   }
   },
   {
    "Article ID": "AB-260902-G08",
@@ -873,7 +1723,57 @@
    "Image Rights": "FAIL",
    "Publish Approved": false,
    "Human Reviewed": false,
-   "Prepub Repair Date": "2026-09-06"
+   "Prepub Repair Date": "2026-09-06",
+   "EN words": 1966,
+   "AI Assisted": true,
+   "en_sha256_16": "50bf841fbba1f754",
+   "locale_full_body": 12,
+   "locale_sha": {
+    "fr": {
+     "sha": "d29054596ab86a3d",
+     "qa": "PASS"
+    },
+    "de": {
+     "sha": "edba0a78fbefd72d",
+     "qa": "PASS"
+    },
+    "es": {
+     "sha": "0a1f43f306686efd",
+     "qa": "PASS"
+    },
+    "pt": {
+     "sha": "d3cad83489fcf0c6",
+     "qa": "PASS"
+    },
+    "ja": {
+     "sha": "e4461d9cd1a55d87",
+     "qa": "PASS"
+    },
+    "ko": {
+     "sha": "0688c76c3126f099",
+     "qa": "PASS"
+    },
+    "vi": {
+     "sha": "1cb0c0c1ada2fd52",
+     "qa": "PASS"
+    },
+    "th": {
+     "sha": "270a7a40666cde3e",
+     "qa": "PASS"
+    },
+    "id": {
+     "sha": "f6658afe7d25cb1c",
+     "qa": "PASS"
+    },
+    "ar": {
+     "sha": "e86994a11c0be906",
+     "qa": "PASS"
+    },
+    "zh": {
+     "sha": "25301785046a355c",
+     "qa": "PASS"
+    }
+   }
   },
   {
    "Article ID": "AB-260902-G09",
@@ -920,7 +1820,57 @@
    "Image Rights": "FAIL",
    "Publish Approved": false,
    "Human Reviewed": false,
-   "Prepub Repair Date": "2026-09-06"
+   "Prepub Repair Date": "2026-09-06",
+   "EN words": 1894,
+   "AI Assisted": true,
+   "en_sha256_16": "32099120f8922c0c",
+   "locale_full_body": 12,
+   "locale_sha": {
+    "fr": {
+     "sha": "d0143eeab9916c5a",
+     "qa": "PASS"
+    },
+    "de": {
+     "sha": "3adfb77121009134",
+     "qa": "PASS"
+    },
+    "es": {
+     "sha": "55d667f7ed50ce4f",
+     "qa": "PASS"
+    },
+    "pt": {
+     "sha": "34b2fff720da82b9",
+     "qa": "PASS"
+    },
+    "ja": {
+     "sha": "77ceff9692bdf519",
+     "qa": "PASS"
+    },
+    "ko": {
+     "sha": "d9596f79739d0939",
+     "qa": "PASS"
+    },
+    "vi": {
+     "sha": "6cb91340a265cb29",
+     "qa": "PASS"
+    },
+    "th": {
+     "sha": "146c67d970fbc0a7",
+     "qa": "PASS"
+    },
+    "id": {
+     "sha": "455623819af9999b",
+     "qa": "PASS"
+    },
+    "ar": {
+     "sha": "01d41d067f04fd90",
+     "qa": "PASS"
+    },
+    "zh": {
+     "sha": "5d0571e70cf5e797",
+     "qa": "PASS"
+    }
+   }
   },
   {
    "Article ID": "AB-260902-G10",
@@ -967,7 +1917,57 @@
    "Image Rights": "FAIL",
    "Publish Approved": false,
    "Human Reviewed": false,
-   "Prepub Repair Date": "2026-09-06"
+   "Prepub Repair Date": "2026-09-06",
+   "EN words": 1814,
+   "AI Assisted": true,
+   "en_sha256_16": "69c23d721e40318a",
+   "locale_full_body": 12,
+   "locale_sha": {
+    "fr": {
+     "sha": "48815110723d3d79",
+     "qa": "PASS"
+    },
+    "de": {
+     "sha": "7f9d2b05ce8fe233",
+     "qa": "PASS"
+    },
+    "es": {
+     "sha": "6f34b4efde8cd3e6",
+     "qa": "PASS"
+    },
+    "pt": {
+     "sha": "c6141502ba3d0ab8",
+     "qa": "PASS"
+    },
+    "ja": {
+     "sha": "49fa499e15527c30",
+     "qa": "PASS"
+    },
+    "ko": {
+     "sha": "cb3bcc7a562dd93c",
+     "qa": "PASS"
+    },
+    "vi": {
+     "sha": "883db28f9b1ec484",
+     "qa": "PASS"
+    },
+    "th": {
+     "sha": "9dacc44cb7415707",
+     "qa": "PASS"
+    },
+    "id": {
+     "sha": "5a90134a8bea9f22",
+     "qa": "PASS"
+    },
+    "ar": {
+     "sha": "c2fcb730c5d1f1af",
+     "qa": "PASS"
+    },
+    "zh": {
+     "sha": "f3ac2ed2ef4495f1",
+     "qa": "PASS"
+    }
+   }
   }
  ],
  "second_round_revision": "2026-09-03",
@@ -1007,5 +2007,13 @@
  "image_rights_pass": 0,
  "image_rights_fail": 20,
  "human_reviewed": false,
- "prepub_repair_on": "2026-09-06"
+ "prepub_repair_on": "2026-09-06",
+ "fact_source_pass": 20,
+ "fact_source_conditional": 0,
+ "fact_source_fail": 0,
+ "editorial_qa_pass": 20,
+ "seo_pass": 20,
+ "full_body_locales": "12/12 (EN + 11 full body); AI_LANGUAGE_QA PASS; PROFESSIONAL_LOCALIZATION=PENDING",
+ "final_status": "AWAITING_INDEPENDENT_REVIEW",
+ "prepub_final_repair_on": "2026-09-06"
 }

@@ -1,26 +1,26 @@
-# Foton General G9 / Dajiangjun G9 (2025) — Pickup-Spezifikationen und Exportschecks auf dem chinesischen Markt
+# Foton General G9 Dajiangjun G9 (2025) — Pickup-Spezifikationen und Exportschecks auf dem chinesischen Markt
 
 ## SEO Metadaten
-- **SEO Titel**: Foton General G9 Pickup 2025: Chinesisch-Markt Diesel / Petroleum Specs & Export Guide
+- **SEO Titel**: Foton General G9 Pickup 2025: Chinesisch-Markt Diesel Petroleum Specs & Export Guide
 - **Meta Beschreibung **: Chinesischer Markt Foton General G9 (大将军 G9) Pickup: 2.0T Diesel- und Benzinleitungen, 6MT/8AT, RWD/4WD, Bett- und Radstandsabmessungen und das widersprüchliche Dieselmoment gekennzeichnet.
-- ** H1 **: Foton General G9 / Dajiangjun G9 (2025) — Chinesisch-Markt Pickup Specs und Export-Checks
-- **Hauptschlüsselwort**: Foton / 福田 General G9 / 大将军 G9 皮卡 specs export
+- ** H1 **: Foton General G9 Dajiangjun G9 (2025) — Chinesisch-Markt Pickup Specs und Export-Checks
+- **Hauptschlüsselwort**: Foton 福田 General G9 大将军 G9 皮卡 specs export
 - **Secondary Search Terms**: Foton General G9 export; Dajiangjun G9 Pickup; Chinese diesel pickup; 4WD Pickup; double cab
 - **Vorgeschlagene URL**: /Fahrzeuge/foton-general- g9/
-- **Search Intent**: 了解 Foton / 福田 General G9 / 大将军G9 皮卡 中国版规格、配置与出口适配性（车型参数页）
+- **Search Intent**: 了解 Foton 福田 General G9 大将军G9 皮卡 中国版规格、配置与出口适配性（车型参数页）
 - **Interne Linkvorschläge**: /Fahrzeuge/Foton-General-g9/, /GuideS/Fahrzeug-Export-hs-Code-Historie/, /GuideS/Emissionskraftstoff-Kompatibilität-Historie/
 - **Schema-Scope**: Artikel + Fahrzeug (kein Produkt/Angebot/Bewertung)
 
 ## Käuferkontext: eine Arbeitsabholung mit zwei Kraftstoffleitungen
-Der **Foton General G9 (大将军 G9, 2025) ** ist ein chinesischer Markt Body-on-Frame-Pickup in **Diesel- und Benzinleitungen ** mit manuellen / Autogetrieben und Hinterrad- oder Allradantrieb. Für Exportkäufer sind Bettgröße, Radstand, Antriebsstrang und der genaue Motor die entscheidenden Felder - keine einzige "G9" Spezifikation. Referenzmarkt ist **China**.
+Der **Foton General G9 (大将军 G9, 2025) ** ist ein chinesischer Markt Body-on-Frame-Pickup in **Diesel- und Benzinleitungen ** mit manuellen Autogetrieben und Hinterrad- oder Allradantrieb. Für Exportkäufer sind Bettgröße, Radstand, Antriebsstrang und der genaue Motor die entscheidenden Felder - keine einzige "G9" Spezifikation. Referenzmarkt ist **China**.
 
 ## Fahrgestell, Bett und Antriebsstrang
-- **Diesel**: 2.0T 4F20 柴油, 120 (163Ps) kW; Spitzendrehmoment wird als ** 390 或 415 (版本差异, 未锁定) N · m angezeigt - ein dokumentierter Konflikt zwischen Quellen, also sperren Sie das Modelljahr / trim, bevor Sie eine einzelne Zahl ** zitieren.
-- **Petrol **: 175 kW / 360 N·m.
-- **Getriebe/Antriebsstrang**: 6MT / 8AT; 后驱/适时四驱.
+- **Diesel**: 2.0T 4F20 柴油, 120 (163Ps) kW; Spitzendrehmoment wird als ** 390 或 415 (版本差异, 未锁定) N · m angezeigt - ein dokumentierter Konflikt zwischen Quellen, also sperren Sie das Modelljahr trim, bevor Sie eine einzelne Zahl ** zitieren.
+- **Petrol **: 175 kW 360 N·m.
+- **Getriebe/Antriebsstrang**: 6MT 8AT; 后驱/适时四驱.
 - **Kurzradstand**: 约 5340 × 1980; 轴距 3110; 货箱 1520 × 1580 × 440 mm (gegenübergestellt).
 - **Langradstand**: 5630 × 1980 × 1860; 轴距 3400; 货箱 1805 × 1580 × 440 mm (Einzelstrahler — Gegenprüfung).
-- **Suspension **: 前双叉臂 / 后整体桥; Emission 国 VI (0 # 柴油).
+- **Suspension **: 前双叉臂 后整体桥; Emission 国 VI (0 # 柴油).
 
 ## Verifizierte Spezifikationstabelle (Referenz des chinesischen Marktes)
 | Spezifikation | Wert | Einheit | Markt | Vertrauen | Quelle: |
@@ -30,19 +30,19 @@ Der **Foton General G9 (大将军 G9, 2025) ** ist ein chinesischer Markt Body-o
 | Dieseldrehmoment | 390 或 415 (版本差异, 未锁定) | N·m | CHINA | KONFLIKT | 太平洋 vs. 懂车帝 2025 款详表 |
 | Benzinmotorleistung | 175 | kW | CHINA | SINGLE_SOURCEN | 太平洋汽车 |
 | Benzindrehmoment | 360 | N·m | CHINA | SINGLE_SOURCEN | 太平洋汽车 |
-| Übertragung | 6MT / 8AT | - | CHINA | SINGLE_SOURCEN | 太平洋汽车 |
-| Optionen für den Antriebsstrang | 后驱 / 适时四驱 | - | CHINA | SINGLE_SOURCEN | 太平洋汽车 |
+| Übertragung | 6MT 8AT | - | CHINA | SINGLE_SOURCEN | 太平洋汽车 |
+| Optionen für den Antriebsstrang | 后驱 适时四驱 | - | CHINA | SINGLE_SOURCEN | 太平洋汽车 |
 | schwache kurze wb | 约5340×1980；轴距3110；货箱1520×1580×440 | mm | CHINA | CROSS_CHECKED | 太平洋 + 新浪 |
 | Dim long wb | 5630×1980×1860；轴距3400；货箱1805×1580×440 | mm | CHINA | SINGLE_SOURCEN | 太平洋汽车百科 |
-| Suspension | 前双叉臂 / 后整体桥 | - | CHINA | SINGLE_SOURCEN | 太平洋汽车 |
+| Suspension | 前双叉臂 后整体桥 | - | CHINA | SINGLE_SOURCEN | 太平洋汽车 |
 | Emissionsnorm | 国 VI(0 # 柴油) | - | CHINA | SINGLE_SOURCEN | 太平洋汽车 |
 
 ## Pickup Export Checks: Bett, Antriebsstrang und Drehmomentkonflikt
-Pickup-Aufträge scheitern am häufigsten auf Bettlänge und Antriebsstrang. Wählen Sie einen kurzen oder langen Radstand und passen Sie ihn den Bettabmessungen an; Wählen Sie 4WD nur dort, wo der Build einen Übertragungsfall / eine niedrige Reichweite bestätigt. Der Diesel-Peak-Momente-Konflikt (390 vs 415 N·m) ist **vom Hersteller absichtlich ungelöst ** – erhalten Sie das OEM-Konfigurationsblatt für die genaue VIN, anstatt die günstige Nummer auszuwählen. Die Zugmasse wird nicht erfasst und darf nicht geschätzt werden. Bestätigen Sie die Emissionsstufe (China-VI-Diesel, 0 # Kraftstoff) gegenüber den Bestimmungskraftstoffqualitäts- und Zulassungsregeln.
+Pickup-Aufträge scheitern am häufigsten auf Bettlänge und Antriebsstrang. Wählen Sie einen kurzen oder langen Radstand und passen Sie ihn den Bettabmessungen an; Wählen Sie 4WD nur dort, wo der Build einen Übertragungsfall eine niedrige Reichweite bestätigt. Der Diesel-Peak-Momente-Konflikt (390 vs 415 N·m) ist **vom Hersteller absichtlich ungelöst ** – erhalten Sie das OEM-Konfigurationsblatt für die genaue VIN, anstatt die günstige Nummer auszuwählen. Die Zugmasse wird nicht erfasst und darf nicht geschätzt werden. Bestätigen Sie die Emissionsstufe (China-VI-Diesel, 0 # Kraftstoff) gegenüber den Bestimmungskraftstoffqualitäts- und Zulassungsregeln.
 
 ## Überprüfung des ausländischen Käufers vor Zahlung
 1. Wählen Sie Diesel oder Benzin  and  the exact power/torque by VIN (resolve the 390/415 conflict).
-2. Wählen Sie kurzen / langen Radstand und passen Sie das Bett; Zustand RWD oder 4WD.
+2. Wählen Sie kurzen langen Radstand und passen Sie das Bett; Zustand RWD oder 4WD.
 3. Bestätigen Sie das Getriebe (6MT/8AT) und die Differenzial-/Achsenspezifikation für den Bestimmungsort.
 4. Prüfung der Dieselemission/Kraftstoffverträglichkeit; Abschleppen/Zuglast aus Homologation, nicht Abschätzung.
 5. Fordern Sie ein aktuelles Exportangebot an; keines wird hier veröffentlicht.

@@ -4,10 +4,10 @@
 - ** Titre du référencement**: Forthing Youting MPV: Chinese-Market Lignes ICE & PHEV, spécifications et guide d'exportation
 - **Meta Description**: Dongfeng Forthing Youting marché chinois (游艇) MPV: gardez les lignes ICE et PHEV séparées; dimensions, 7-seat cabine, groupe motopropulseur PHEV et points de vérification d'exportation.
 - ** H1 **: Dongfeng Forthing Youting (2025/2026) — MPV marché chinois Spécifications, lignes ICE/PHEV et contrôles d'exportation
-- **Mot-clé principal**: Dongfeng Forthing / 东风风行 Déchirage / 风行游艇 spécifications export
+- **Mot-clé principal**: Dongfeng Forthing 东风风行 Déchirage 风行游艇 spécifications export
 - **Termes de recherche secondaires**: Forthing Youting export; 游艇 spécifications MPV; chinois 7-seat MPV; MPV PHEV; importation de fourgons de passagers
 - **URL suggérée**: /véhicules/de la création de la marchandise/
-- **Intention de la recherche**: 了解 Dongfeng Forthing / 东风风行 Thing / 风行游艇 中国版规格 -配置与出口适配性 (车型参数页)
+- **Intention de la recherche**: 了解 Dongfeng Forthing 东风风行 Thing 风行游艇 中国版规格 -配置与出口适配性 (车型参数页)
 - **Suggestions de lien interne**: /véhicules/de-foyer/, /guides/ckd-skd-knockdown-kit-export-assemblement/, /guides/export-document-package-history/
 - **Schema Champ d'application**: article + véhicule (aucun produit/offre/examen)
 
@@ -16,8 +16,8 @@ Le **Donggeng Forthing Youting (游艇)** est un MPV de taille moyenne offert su
 
 ## Cabine, dimensions et les deux lignes
 - ** Base de roue/siège**: 2900 mm, 7 (5 门, 平开门) (cinq portes, charnières/glissantes telles qu'elles ont été construites — confirmés par des garnitures).
-- ** Corps de l'ICE**: 4850 / 1900 / 1715 mm (cocher).
-- ** Corps du VHB**: 4850 / 1900 / 1740 mm (coché entre deux parties; notez la ligne de toit plus haute).
+- ** Corps de l'ICE**: 4850 1900 1715 mm (cocher).
+- ** Corps du VHB**: 4850 1900 1740 mm (coché entre deux parties; notez la ligne de toit plus haute).
 - ** Groupe motopropulseur PHEV**: 1.5T 154 马力 L4, couple moteur 230 N·m, couple moteur 310 N·m, 1 挡 DHT, vitesse maximale 180 km/h.
 - **Note de charge**: par le compte AutoHome capturé, le PHEV ** ne supporte pas la charge rapide en courant continu** — confirmez sur la taille exacte.
 - **Prix de référence chinois (temps-sensible)**: à partir de 15.49 RMB; un PDSF chinois seulement, jamais un prix à l'exportation.
@@ -25,8 +25,8 @@ Le **Donggeng Forthing Youting (游艇)** est un MPV de taille moyenne offert su
 ## Tableau des spécifications vérifiées (référence du marché chinois)
 | Spécification | Valeur | Unité | Marché | Confiance | Note de source |
 |---|---|---|---|---|---|
-| longueur largeur hauteur glace | 4850 / 1900 / 1715 | mm | CHINE | _CHECTURE | 太平洋 + 搜狐 |
-| longueur largeur hauteur phev | 4850 / 1900 / 1740 | mm | CHINE | _CHECTURE | 汽车之家 + 太平洋 |
+| longueur largeur hauteur glace | 4850 1900 1715 | mm | CHINE | _CHECTURE | 太平洋 + 搜狐 |
+| longueur largeur hauteur phev | 4850 1900 1740 | mm | CHINE | _CHECTURE | 汽车之家 + 太平洋 |
 | empattement | 2900 | mm | CHINE | _CHECTURE | 太平洋 + 搜狐 |
 | Sièges | 7 (5 门, 平开门) | - Je suis désolé. | CHINE | SOURCE UNIQUE | 搜狐车型库 |
 | moteur à moteur à moteur | 1.5T 154马力 L4 | - Je suis désolé. | CHINE | SOURCE UNIQUE | 汽车之家车家号 |
@@ -62,7 +62,7 @@ Pour les importateurs de VPM, les champs critiques pour la commande sont le nomb
 | 风行游艇 车型信息 | 汽车之家车家号 | NC | T3 | _CHECTURE | https://chejiahao.m.autohome.com.cn/info/23897205?isfrom=pc | PHEV 动力, 快充, 价格 |
 | 风行游艇 参数配置 | 搜狐汽车车型库 | NC | T2 | _CHECTURE | https://db.auto.sohu.com/model_6769/config | 尺寸, 座位, 动力 |
 | 风行游艇 新车资讯 | 车主之家 | NC | T3 | _CHECTURE | https://m.16888.com/news/2026/0807/24830307.html | VÉHICULE 上市信息 |
-| Dongfeng Forthing site officiel mondial | Moteur Dongfeng Liuzhou / Forthing 东风风行 (OEM) | NC | T1 | VÉRIFIER | https://www.forthingmotor.com/ | identité de marque/modèle-ligne et autorité d'OEM |
+| Dongfeng Forthing site officiel mondial | Moteur Dongfeng Liuzhou Forthing 东风风行 (OEM) | NC | T1 | VÉRIFIER | https://www.forthingmotor.com/ | identité de marque/modèle-ligne et autorité d'OEM |
 | Ministère de l ' industrie et des technologies de l ' information (MIIT) | MOYENNE 工业和信息化部 | NC | T1 | VÉRIFIER | https://www.miit.gov.cn/ | Autorité d'homologation/annonce; confirmer le modèle exact, les masses et le code par le code VIN/annonce |
 | Administration d'État chargée de la réglementation du marché (SAMR) | RAM 国家市场监督管理总局 | NC | T1 | VÉRIFIER | https://www.samr.gov.cn/ | les normes nationales, l'autorité de certification et de régulation du marché |
 ## Révision de la rédaction

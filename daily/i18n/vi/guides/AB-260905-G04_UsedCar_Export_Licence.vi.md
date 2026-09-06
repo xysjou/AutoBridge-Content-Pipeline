@@ -8,7 +8,7 @@
 - **Secondary Search termss**: sử dụng xe xuất khẩu Trung Quốc; sử dụng giấy phép xuất khẩu xe hơi; khu vực thí điểm; xuất khẩu xe cũ; MOFCOM bằng lái
 - ** URL đã gợi ý**: /guides/china-car-export-license-liense-squix-quible-squid-squible-squix/
 - **Tìm kiếm Intent**: 企业如何取得二手车出口资质  办理转让登记 申领出口许可证并完成通关 (含 2026 年新规).
-- **I nội bộ Link gợi ý**: //guides/china-export-customs-decation-sting-window/, /guides/ use-chin-ev-pies-hiction-hise /, /guides/verify-chin-cuff-ex-plier-hilier- tầng /, /guides/
+- **I nội bộ Link gợi ý**: /guides/ use-chin-ev-pies-hiction-hise /guides/verify-chin-cuff-ex-plier-hilier- tầng /guides/
 - **Schema Scope**: Điều khoản (không có sản phẩm/ sản phẩm/ xuất/Rover)
 
 ## Xuất khẩu xe hơi cũ là một doanh nghiệp có bằng lái, có bằng lái

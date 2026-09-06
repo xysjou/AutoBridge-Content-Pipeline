@@ -4,10 +4,10 @@
 - ** 道德操守办公室名称**:福顿·达姆勒 AUMAN EST 拖拉机:中马标本和导出指南
 - ** 金属说明**: 中国市场福顿·戴姆勒 AUMAN EST重型拖拉机头: 中国-V 互联网络  and  中六X13线, ZF/快变速箱, ~40 t GCW级, 将BEV作为单独的一行保留.
 - ** H1 **:福顿·戴姆勒 AUMAN EST(中国-V/VI)——中马重拖拉机车样板及出口检查.
-- ** 基本关键词**:Foton Daimler AUMAN / 福田戴姆勒欧曼 欧曼 EST 重型牵引车(卡车)
+- ** 基本关键词**:Foton Daimler AUMAN 福田戴姆勒欧曼 欧曼 EST 重型牵引车(卡车)
 - ** 二级搜索术语**:AUMAN EST出口;福顿·戴姆勒拖拉机头;中国重型卡车拖拉机;X13发动机;6x4拖拉机
 - ** 建议的URL**:车辆/最远电路/电路/电路
-- ** 搜查内特**:了解 Foton Daimler AUMAN / 福田戴姆勒欧曼 欧曼 EST 重型牵引车(卡车) 中国版规格 – 配置与出口适配性 (车型参数页)
+- ** 搜查内特**:了解 Foton Daimler AUMAN 福田戴姆勒欧曼 欧曼 EST 重型牵引车(卡车) 中国版规格 – 配置与出口适配性 (车型参数页)
 - ** 内部链接建议**:车辆/福顿-欧曼-最远的交通/、指南/铁道运输-钦那-中阿西亚/、指南/线条-车型-历史/
 - ** 范围**:第+条车辆(无产品/产出/审查)
 
@@ -53,8 +53,8 @@
 |---|---|---|---|---|---|---|
 | 欧曼 东斯泰克车型文章 | 汽车之家车家号 维基月球 | 氯化萘 | T3 | 横跨 | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/3133030?t=0x2233 维基月球 | X12 动力,AMT(美国) |
 | 欧曼 EST-A 配置 数据 | 汽车之家车家号 维基月球 | 氯化萘 | T3 | 横跨 | https://chejiahao.m.autohome.com.cn/uc/chejiahao/article/2914236?t=0x2233 维基月球 | ISGe5-460, ZF 变速 (单位:千美元) |
-| 欧曼 合作动力 (单位:千美元) | 汽车之家车家号 维基月球 | 氯化萘 | T3 | 横跨 | https://chejiahao.m.autohome.com.cn/partner/yidian/article/3450841 维基月球 | 潍柴/法士特配置 (中文(简体)). |
-| 欧曼 EST 510 词条 (T4 线索) (中文(简体)). | 抖音百科 维基月球 | 氯化萘 | T4 | 横跨 | https://m.baike.com/wiki/%E6%AC%A7%E6%9B%BCEST%20510/7562809276172075042 维基月球 | 公告型号/国五参数线索 (中文(简体)). |
+| 欧曼 合作动力 (单位:千美元) | 汽车之家车家号 维基月球 | 氯化萘 | T3 | 横跨 | https://chejiahao.m.autohome.com.cn/partner/yidian/article/3450841 维基月球 | (中文(简体)). |（潍柴）（法士特配置）
+| 欧曼 EST 510 词条 (T4 线索) (中文(简体)). | 抖音百科 维基月球 | 氯化萘 | T4 | 横跨 | https://m.baike.com/wiki/%E6%AC%A7%E6%9B%BCEST%20510/7562809276172075042 维基月球 | (中文(简体)). |（国五参数线索）（公告型号）
 | 欧曼纯电 /LNG 牵引车申报 电话 | 新浪财经 维基月球 | 氯化萘 | T3 | 横跨 | https://cj.sina.cn/article/norm_detail?froms=ttmp&url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Faigc%2Fxcsb%2F2026-08-07%2Fdoc-inimnrai3221568.shtml%3Ffinpagefr=ttzz 维基月球 | 2026 纯电申报 (独立新能源线, 勿混入燃油) (中文(简体)). |
 | 福顿汽车官方网站 | 北齐福通福田汽车型机车(OEM) | 氯化萘 | T1 | 实录 | https://www.foton.com.cn/ 维基月球 | 品牌/模范线路身份和OEM授权 |
 | 工业和信息化部(MIIT) | 军事情报处 工业和信息化部 | 氯化萘 | T1 | 实录 | https://www.miit.gov.cn/ 维基月球 | 统一/通知权限;通过VIN/通知确认准确的模型、质量和代码 |

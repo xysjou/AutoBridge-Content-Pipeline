@@ -12,22 +12,22 @@
 - **ALT 제안**: "Named RoRo 캐리어 요구 사항 versus 권장 선행 검사 목록"
 
 ## Two Layers That Must Not Be Merged
-대상에서 손상은 거의 항상 한 가지 질문에 다시 추적: 차량의 상태, 연료 / 배터리 상태 및 운전성 ** 핸드 오버 **는 무엇입니까? 깨끗하게 답변하려면이 가이드는 두 개의 레이어를 분리합니다.
+대상에서 손상은 거의 항상 한 가지 질문에 다시 추적: 차량의 상태, 연료 배터리 상태 및 운전성 ** 핸드 오버 **는 무엇입니까? 깨끗하게 답변하려면이 가이드는 두 개의 레이어를 분리합니다.
 1. **Named-carrier requirements (CARRIER_SPECIFIC)** - 특정 RoRo 캐리어의 서면 정책, 여기 **Wallenius Wilhelmsen (WW)** 및 **Höegh Autoliners (Höegh)**. 이들은 ** 자동차 정책, 국제 규정**, 그들은 모든 선박 라인에 걸쳐 보편적이지 않습니다, 그리고 책 캐리어의 서면 지침은 항상 지배.
 2. **AutoBridge 권장 사전 선적 검사 목록 (EDITORIAL_RECOMMENDATION) ** -이 가이드는 증거를 권장합니다. ****not** 산업 필수 절차는 표시되지 않습니다.
 
 ## Named-Carrier Policies (CARRIER_SPECIFIC - 이름에 의해 캐리어를 인용)
 | 팟캐스트 | 월터스 윌헬름 | Höegh 오토라이너 | 의 특징 |
 |---|---|---|---|
-| ** 연료 / 가스 레벨 ** | Tank about **one-quarter full** (enough to self-drive on/off) | Tank about **one-quarter full** | 캐리어 정책;이 두 개의 이름을 줄에 대 한 교차 검사 — 보편적인 규칙 |
+| ** 연료 가스 레벨 ** | Tank about **one-quarter full** (enough to self-drive on/off) | Tank about **one-quarter full** | 캐리어 정책;이 두 개의 이름을 줄에 대 한 교차 검사 — 보편적인 규칙 |
 | **사용된 얼음 배터리 ** | 중고 단위 ** 배터리 킬 스위치 없음 **, 멸균 후 12/24V을 분리 (WW 지시 당 출구) | - - - | WW-specific; 단일 소스 캐리어 규칙 |
 | ** BEV 고전압 SOC ** | - - - | **SOC는 50% 이상 **, 적재/내부/저장에 충분한 책임을 유지하면서; 공급 능력: ≤¼ fuel plus SOC guidance | Höegh-specific; ** 글로벌 SOC 천장 |
-| **영업 시간***************************************************************************************************************************************************************************************************************************************************************** | RoRo 단위는 안전하게 온/오프 (move/brake/steer); 결함 또는 새는 단위가 거부될지도 모릅니다 | 동일한 각자 건조 필요조건 | 이 두 개의 명 줄에 대한 캐리어 수신 규칙 |
+| **영업 시간***************************************************************************************************************************************************************************************************************************************************************** | RoRo 단위는 안전하게 (move/brake/steer); 결함 또는 새는 단위가 거부될지도 모릅니다 | 동일한 각자 건조 필요조건 | 이 두 개의 명 줄에 대한 캐리어 수신 규칙 |
 
-이러한 요구 사항은 라인과 항해에 의해 **의 경우, 정확히 캐리어를 지명하는 것으로 인용됩니다 **: 중국 RoRo / 컨테이너 또는 다른 라인 다른 수준을 설정할 수 있습니다. 캐리어를 naming하지 않고 "carriers require X"를 주지 않고 현재의 서면 가이드를 검사하십시오.
+이러한 요구 사항은 라인과 항해에 의해 **의 경우, 정확히 캐리어를 지명하는 것으로 인용됩니다 **: 중국 RoRo 컨테이너 또는 다른 라인 다른 수준을 설정할 수 있습니다. 캐리어를 naming하지 않고 "carriers require X"를 주지 않고 현재의 서면 가이드를 검사하십시오.
 
 ## AutoBridge 권장 사전 검사 목록 (편집 방법, 필수)
-다음은 ** 우리의 권장 sourcing / handover 방법 **, 증거 흔적을 구축 할 제안; 그것은 법령 또는 보편적 인 캐리어 절차가 아닙니다:
+다음은 ** 우리의 권장 sourcing handover 방법 **, 증거 흔적을 구축 할 제안; 그것은 법령 또는 보편적 인 캐리어 절차가 아닙니다:
 - 외부 몸과 페인트 산책 주위; 각 기존의 표 참고.
 - 수로의 앞에 대쉬보드 경고 빛 체크 (MIL/ABS/SRS/TPMS).
 - 공구, 예비 열쇠, 위탁 케이블 및 내장 부속품의 Inventory.
@@ -36,14 +36,14 @@
 - **Joint handover record**: 터미널과 함께 차량을 검사하고 복사를 유지, 손전등 시트를 서명합니다.
 
 ## 캐리어 또는 OEM로 확인하는 항목 (고정 값은 제거되지 않음)
-래싱 포인트 카운트, 스트랩 파괴 강도, 미끄럼 방지 매트, 컨테이너에 차량 헤드 / 오리엔테이션, 타이어 압력 조정 및 모든 균일 한 SOC 수치: 일괄 얻은 ** OEM 운송 모드 매뉴얼 또는 공식 캐리어 / 종료 가이드 ** 고정 값 설정, 그래서 이것은 단지 ** 책 캐리어 / OEM 운송 모드 매뉴얼**를 확인하기 위해 항목 만 표시됩니다. 고정 비율 없음, 결박 등급 또는 오리엔테이션은 기준으로 진술됩니다.
+래싱 포인트 카운트, 스트랩 파괴 강도, 미끄럼 방지 매트, 컨테이너에 차량 헤드 오리엔테이션, 타이어 압력 조정 및 모든 균일 한 SOC 수치: 일괄 얻은 ** OEM 운송 모드 매뉴얼 또는 공식 캐리어 종료 가이드 ** 고정 값 설정, 그래서 이것은 단지 ** 책 캐리어 OEM 운송 모드 매뉴얼**를 확인하기 위해 항목 만 표시됩니다. 고정 비율 없음, 결박 등급 또는 오리엔테이션은 기준으로 진술됩니다.
 
 ## Handover Sequence 우리는 추천한다
 1. PDI를 실행하고 날짜 사진 캡처 (recommendation).
 2. 연료/SOC를 **부설된 캐리어**에 명시된 레벨(WW/Höegh 위와 같이; 그렇지 않으면 그 캐리어 가이드를 얻으십시요).
-3. 의례(move/brake/steer)를 확인하고 누출/방출을 해결합니다.
+3. 의례(move/brake/steer)를 확인하고 해결합니다.
 4. 터미널에서 합동 검사를 하고, 수로 기록 (recommendation)를 서명하십시오.
-5. 파일 사진 + B / L이있는 손 오버 시트 그래서 어떤 목적지 주장은 기본이있다.
+5. 파일 사진 + B L이있는 손 오버 시트 그래서 어떤 목적지 주장은 기본이있다.
 
 ## 이 가이드의 경계
 - WW/Höegh 항목은 **CARRIER_SPECIFIC **, "모든 캐리어"또는 규정에 전형되지 않습니다.
@@ -53,8 +53,8 @@
 ## 자주 묻는 질문
 ** 법적 요구 사항이 분기 탱크입니까? ** No — Wallenius Wilhelmsen 및 Höegh와 같은 RoRo 캐리어의 서면 정책입니다; 책 캐리어의 지시를 따르십시오.
 ** 50% SOC에서 모든 EV 선박을 초과합니까? ** 즉, Höegh Autoliners 정책은 보편적 인 모자가 아닙니다. 책가방의 SOC 요구 사항의 구절을 확인하십시오.
-** 사진/핸드 오버 레코드 필수? ** AutoBridge의 권장된 증거 방법이지만, 법령 요구 사항이 아닙니다. 그러나 그것은 물질적으로 대상 손상 청구를 강화합니다.
-**호는 포인트와 스트랩 등급을 채우고 결정합니까?** 캐리어/terminal 및 OEM 수송 모드 설명서; 그들의 문서 없이 조정 값을 가정하지 마십시오.
+** 오버 레코드 필수? ** AutoBridge의 권장된 증거 방법이지만, 법령 요구 사항이 아닙니다. 그러나 그것은 물질적으로 대상 손상 청구를 강화합니다.
+**호는 포인트와 스트랩 등급을 채우고 결정합니까?** 및 OEM 수송 모드 설명서; 그들의 문서 없이 조정 값을 가정하지 마십시오.
 
 ## 이미지 기록
 - IMAGE_ASSET_PATH: 저장소에 보안되지 않음
@@ -64,8 +64,8 @@
 - permission_HOLDER: 확인되지 않은
 - 라이센스_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: 정확한 모델/버전 (또는 가이드 항목)과 참고 시장과 일치해야 합니다.
-- IMAGE_SCOPE_NOTE: 정확한 모델 가족/토닉에만 일치; 특정 트림/모형, 실제 VIN, 인-인 검사 또는 실제 거래에 실패하지 않아야 합니다.
+- MODEL_TOPIC_MATCH: 정확한 (또는 가이드 항목)과 참고 시장과 일치해야 합니다.
+- IMAGE_SCOPE_NOTE: 정확한 모델 일치; 특정 실제 VIN, 인-인 검사 또는 실제 거래에 실패하지 않아야 합니다.
 - IMAGE_RIGHTS_STATUS: FAIL (허가 된 자산 없음; placeholder 또는 "이전 이미지 유지"주의 허용되지 않음)
 - BLOCK_REASON: 재사용 가능한 이미지는 보안되지 않았습니다. Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 없으며, 주식 라이브러리는 인증된 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 존재하지 않습니다. Kept FAIL 오히려 asserted 보다는.
 - 언어 별 ALT:
@@ -88,12 +88,12 @@
 | WW Cargo Handling Instructions (fuel ≤¼) | Wallenius Wilhelmsen (로로 캐리어) | INTL의 | https://cargohandlinginstruction.walleniuswilhelmsen.com/pdf-files/WW-CHI-250731-1.31.pdf 사용하십시오. | 2026-09-04 | CROSS_CHECKED (기본 캐리어) | 연료 수준, operability |
 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 사용 단위의 수신 (죽이 스위치 없이 12/24V 분리) | 월터스 윌헬름 | INTL의 | https://cargohandlinginstruction.walleniuswilhelmsen.com/terminal/receiving-of-used-units-draft 호출합니다. | 2026-09-04 | SINGLE_SOURCE (기본 캐리어) | 중고 배터리 단자 |
 | Höegh Automotive shipping (≤¼ fuel; 빔 SOC; 작동성) | Höegh 오토라이너 | INTL의 | https://www.hoeghautoliners.com/what-we-ship/automotive 사용하십시오 | 2026-09-04 | SINGLE_SOURCE (기본 캐리어) | BEV ≤ 50% SOC의 연료, 가동 가능 |
-| Höegh 트럭/벤더/트레일러 선박 | Höegh 오토라이너 | INTL의 | https://www.hoeghautoliners.com/what-we-ship/trucks-buses-and-trailers-shipping //www.hoeghautoliners.com/what-we-ship/trucks-buses-and-trailers-shipping를 //www.hoeghautoliners.com/what-we-ship/trucks-buses-and-trailers-shipping를 위한 | 2026-09-04 | SINGLE_SOURCE (기본 캐리어) | 상업 단위 수신 |
-| 전선 검사 및 수복 연습 | 11467 산업 페이지 | 담당자: Mr. wang | https: //m. 11467.com/product/d55278360.htm의 | 2026-09-04 | SINGLE_SOURCE (편집 기준) | 추천된 체크리스트/사진/핸드오버 | https://m.11467.com/product/d55278360.htm
+| Höegh 트럭/벤더/트레일러 선박 | Höegh 오토라이너 | INTL의 | https://www.hoeghautoliners.com/what-we-ship/trucks-buses-and-trailers-shipping 위한 | 2026-09-04 | SINGLE_SOURCE (기본 캐리어) | 상업 단위 수신 |
+| 전선 검사 및 수복 연습 | 산업 페이지 | 담당자: Mr. wang | https: | 2026-09-04 | SINGLE_SOURCE (편집 기준) | 추천된 체크리스트/사진/핸드오버 | https://m.11467.com/product/d55278360.htm 11467
 *Evidence 범위: WW/Höegh 기본 가이드 (카리어 정책, 규정이 아닌, 보편적인); 체크리스트는 편집 권고입니다; 고정 lashing/pressure/orientation 값 차단된 구부러진 OEM/carrier 문서. ****************************************************************************************************************************************************************************************************************************************************************
 
-| IMO/ILO/UNECE CTU에 대한 정보 Code — 화물 운송 단위 취급 및 확보 | 국제 해상기구 (IMO) | INT'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx 대한 자세한 정보 | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 일반 취급/보안 기본; 캐리어 규칙은 엄격한 및 경로 별 유지 |
-| 화물/운송 보험 및 해상 위험 참고 | 해양 보험 (IUMI)의 국제 연합 | INT'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L | https://iumi.com/ 경우 | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 왜 PDI/handover 증거를 문서화한 것은 화물의 취급에 대한 |
+| IMO/ILO/UNECE CTU에 대한 정보 Code — 화물 운송 단위 취급 및 확보 | 국제 해상기구 (IMO) | INT'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx 대한 자세한 정보 | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 일반 기본; 캐리어 규칙은 엄격한 및 경로 별 유지 |
+| 보험 및 해상 위험 참고 | 해양 보험 (IUMI)의 국제 연합 | INT'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L | https://iumi.com/ 경우 | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 왜 PDI/handover 증거를 문서화한 것은 화물의 취급에 대한 |
 
 ## 편집 리뷰
 - **Author**: AutoBridge 수출 편집팀 · 우리 당 방법 [편집 정책](/editorial-policy/)

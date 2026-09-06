@@ -7,8 +7,8 @@
 - ** Từ khoá mật khẩu hoa văn**: cc certification erade
 - **Secondary Search termss**: CCC certification; 3C chứng nhận; xuất ngoại miễn dịch; bắt buộc chứng nhận sản phẩm; CCC Chonation chữ cái miễn dịch
 - ** URL đã gợi ý**: /guides/cccccc-ccccc chứng minh-expion/
-- **Tìm kiếm Intent**: 厘清 CCC 适用范围 (出厂 / 销售 / 进口 / 经营使用), 纯出口产品与免办证明的边界与办理
-- **I nội bộ Link gợi ý*: //guides/china-export-customs-decation-single-window/, /guides/certe-of-ocract-ocraval-hipal-hical-hince /, - Không. - Không.
+- **Tìm kiếm Intent**: 厘清 CCC 适用范围 (出厂 销售 进口 经营使用), 纯出口产品与免办证明的边界与办理
+- **I nội bộ Link gợi ý*: /guides/certe-of-ocract-ocraval-hipal-hical-hince - Không. - Không.
 - **Schema Scope**: Điều khoản (không có sản phẩm/ sản phẩm/ xuất/Rover)
 
 ## Tách thị trường nước Trung Quốc ra khỏi các giao dịch xuất khẩu

@@ -6,7 +6,7 @@
 - ** H1 **: Key Clauses trong một hợp đồng bán hàng xuất bản xe hơi: Lương, Tựa đề, rủi ro và thất vọng
 - ** Từ khoá bí mật**: xe xuất khẩu các điều khoản quan trọng về rủi ro
 - **Secondary Search Wordss**: recition of title port ports, Incoterms locport loctport canvece, xuất khẩu các hình phạt vi phạm hợp đồng, thương mại giao thông lưu thông, kiện tài liệu nước ngoài, điều kiện xe cộ tiết lộ
-- **I nội bộ Link gợi ý**: //guides/china-vehic-export-license-customs-docutes /; /guides/ overseseles-parts-warty-network/; /guides/vech-consci-conspope-pies-psi/; /guides/
+- **I nội bộ Link gợi ý**: /guides/ overseseles-parts-warty-network/; /guides/vech-consci-conspope-pies-psi/; /guides/
 - **Image gợi ý**: bản đồ có thể rủi ro; mạo hiểm/ tựa thời gian truyền tải; biểu đồ hiệu ứng thanh công cụ-vs-vs
 - **LT gợi ý**: "sự rủi ro hợp đồng xuất khẩu và chuyển đổi dòng thời gian; "tiểu thức bán hàng chìa khóa"
 
@@ -85,18 +85,18 @@ Trả tiền trễ thì sao? Một tỷ lệ thanh toán hàng ngày cộng vớ
 | Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
 | PRC Mã dân sự Thuật ngữ doanh số 596 | Tìm Law (cửa vào hình thức) | CN | https://www.findlaw.cn/wenda/q_60484893.html | 2026-09-03 | ĐÃ_ ĐÃ (Tiếng nguyên quán được trích dẫn qua một cổng pháp lý thứ hai; không phải một nguồn tin chính thức của NPC) | Nội dung hợp đồng thiết yếu |
-| Xuất khẩu mô hình hợp đồng bán hàng phương tiện (ghi nhớ rủi ro/ tựa đề) | Hợp pháp 110ask | Toàn cục | https://m.110ask.com/fanben/601005122281423969.html | 2026-09-03 | ĐÃ_ ĐÃ | Sự chuyển giao mạo hiểm; sự chú ý của tiêu đề; điều kiện tiết lộ |
+| Xuất khẩu mô hình hợp đồng bán hàng phương tiện (ghi nhớ rủi ro/ tựa đề) | Hợp pháp | Toàn cục | https://m.110ask.com/fanben/601005122281423969.html | 2026-09-03 | ĐÃ_ ĐÃ | Sự chuyển giao mạo hiểm; sự chú ý của tiêu đề; điều kiện tiết lộ | 110ask
 | Những điều khoản chính Purchase (danh sách/ tựa đề/config) | 66Law | CN | https://m.66law.cn/question/56427049.aspx | 2026-09-03 | ĐÃ_ ĐÃ | LD, Cửa sổ xác nhận, Phụ cấu hình |
 | Xuất hợp đồng Ký hiệu/ Phân cách/ bội số | Vật liệu tua lại Freight | Toàn cục | https://m.11467.com/product/d43019461.htm | 2026-09-03 | SINGLE_SOURCE | Phân loại, định dạng ICC, aposille |
 *Scope ghi chú: Nghệ thuật 596 nội dung là CROSS_ Được kiểm tra qua một cổng pháp lý thứ hai — VERIEID đòi hỏi phải có bản PEC chính thức của Bộ luật Công dân (NPC/Chính phủ), không bị bắt; đừng gọi nó là VERID. Cần có quyền đặt trước tước vị, lệnh bãi bỏ và Sứ Giả tùy thuộc vào luật pháp và đích đến đã được chọn, và phải được xác nhận bởi các luật sư có khả năng. Mô hình hợp đồng chỉ là những tài liệu tham khảo cấu trúc. ♪
 
 | 《中华人民共和国民法典》第三编 合同（第五百九十五/五百九十六/五百九十七条逐字） | 最高人民检察院 (Nhà bình dân của Supreme) — offic | CN | https://www.spp.gov.cn/spp/ssmfdyflvdtpgz/202008/t20200831_478413.shtml | 2026-09-04 | VEII |  |
-| 中华人民共和国民法典 全文 (政府门户转载) | 云南省司法厅 (sft.yn.gov.cn) / 开封市人大 (kfsrd.henanrd.go | CN | https://sft.yn.gov.cn/pf/yunnan/PZhengCeFaGui/2020061631_2.shtml | 2026-09-04 | VEII |  |
+| 中华人民共和国民法典 全文 (政府门户转载) | 云南省司法厅 开封市人大 (kfsrd.henanrd.go | CN | https://sft.yn.gov.cn/pf/yunnan/PZhengCeFaGui/2020061631_2.shtml | 2026-09-04 | VEII |  |
 
 ## Xem lại tập tin
-- **Author / recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
+- **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
 - **Last xem lại**: 2026-09-05
-- **Trible market / pul**: Xây dựng hợp đồng toàn cầu (tiện pháp công khai; xác định quyền hạn)
+- **Trible market pul**: Xây dựng hợp đồng toàn cầu (tiện pháp công khai; xác định quyền hạn)
 - ** phương pháp tự xác định**: Thống kê + hợp pháp- hành động; luật sư hang động tuyên bố; không có kết luận pháp lý cụ thể nào vượt quá quyền hạn pháp lý
 - **Ku thích về tiêu chuẩn**: Nghiên cứu và viết từ những nguồn được liệt kê ở trên (các nghiên cứu ban đầu; không có ổ đĩa cầm tay, bỏ xuống hoặc nhập khẩu nào được xác nhận). Sự tự tin nguồn được thể hiện trên mỗi hàng; bất cứ điểm nào chúng ta không thể tự xác nhận được đều được trình bày như một vật chứng thực thay vì xác nhận là sự thật.
 #AutoBridge #SalesContract #PaymentTerms #ExportProcurement #DisputeClause

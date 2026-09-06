@@ -32,7 +32,7 @@ Utilisez le système chinois d'information sur le crédit aux entreprises (gsxt.
 - Capital enregistré et payé dans son contexte, date d'établissement
 - ** Champ d'application** — il devrait inclure l'activité pertinente de vente/exportation de véhicules
 - Représentant légal
-- ** Liste des anomalies opérationnelles / enregistrements de violations graves (liste noire)**
+- ** Liste des anomalies opérationnelles enregistrements de violations graves (liste noire)**
 
 Une licence montrée comme une photo n'est pas une preuve; l'acheteur (ou un représentant basé en Chine) devrait tirer le dossier gsxt indépendamment.
 
@@ -124,13 +124,13 @@ Une analyse de licence prouve qu'une entreprise existe, et non qu'elle peut expo
 | Comment vérifier l'authenticité des licences d'entreprise du fournisseur chinois | Goodcan Trading (industrie, points à gsxt.gov.cn) | NC | https://goodcantrading.com/how-to-check-china-supplier-business-license-authenticity/ | 2026-09-02 | _CHECTURE | Champs de vérification gsxt |
 | Comment vérifier une usine chinoise est légitime | Plutonia Logistique mondiale | CN/Global | https://www.plutoniaglobal.com/guides/verify-chinese-factory-legitimate | 2026-09-02 | _CHECTURE | Cohérence des noms de compte, vérification des usines |
 | Guide 8-step pour vérifier les fournisseurs d'exportation de la Chine | huajiame (industrie) | NC | https://www.huajiame.com/en-US/knowledge/how-verify-china-auto-export-supplier | 2026-09-02 | _CHECTURE | Cadre d ' audit en couches, AEO |
-| Notes d ' achat de véhicules | 11467 (顺企网, industrie) | NC | https://m.11467.com/blog/d18906274.htm | 2026-09-02 | _CHECTURE | Vérification vidéo minimale en direct, vérification croisée des déclarations |
-| Procédures d'exportation des camions nationaux | Commerce de Guangzhou Pujiang (11467) | NC | https://guangzhou053049.11467.com/m/news/15260806.asp | 2026-09-02 | _CHECTURE | Exportation par l'intermédiaire d'une entité qualifiée, chaîne d'autorisation |
+| Notes d ' achat de véhicules | (顺企网, industrie) | NC | https://m.11467.com/blog/d18906274.htm | 2026-09-02 | _CHECTURE | Vérification vidéo minimale en direct, vérification croisée des déclarations | 11467
+| Procédures d'exportation des camions nationaux | Commerce de Guangzhou Pujiang | NC | https://guangzhou053049.11467.com/m/news/15260806.asp | 2026-09-02 | _CHECTURE | Exportation par l'intermédiaire d'une entité qualifiée, chaîne d'autorisation | 11467
 
 * Note de confiance (norme AutoBridge): les règles de qualification reposent sur les sources primaires MOFCOM/MIIT (VERIFIED), comprenant désormais l'avis de demande 2026 (商办贸函 -2025 -408 号) et l'annonce conjointe no 54 sur les licences d'exportation de passagers VR. La liste des personnes qualifiées de l'année en cours et la requête AEO sont dynamiques et doivent être vérifiées en direct; les éléments de la liste de contrôle opérationnelle sont fournis par l'industrie et renvoient aux systèmes officiels. *
 
 ## Révision de la rédaction
-- **Auteur / réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)
+- **Auteur réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)
 - **Dernière révision**: 2026-09-05
 - **Marché de référence**: côté exportation de la Chine (s'applique à l'échelle mondiale)
 - ** Méthode de vérification**: principaux documents gouvernementaux pour le niveau de référence juridique; guides de l'industrie pour le processus opérationnel; listes dynamiques laissées à la vérification en direct

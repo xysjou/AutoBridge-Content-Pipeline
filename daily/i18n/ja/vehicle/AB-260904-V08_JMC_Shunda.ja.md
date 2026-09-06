@@ -22,7 +22,7 @@
 | ドロップサイドベッド(L×W×H) | **3700 × 1850 × 380 mm** |
 | 総車両重量(GVW) | **4.27 t** |
 | 車両重量 | について ** 2.145 t ** (3.7 m box-van version は 2.435 t です) |
-| 評価されるペイロード | about **1.93–2.0 t — final value per the MIIT announcement / certificate** |
+| 評価されるペイロード | about **1.93–2.0 t — final value per the MIIT announcement certificate** |
 | ホイールベース | **2800 mm** |
 | ターンサークル | **5.5 m** |
 | ミッション | 中国- 6 ディーゼル |
@@ -38,11 +38,11 @@ Payloadは、最も頻繁にコンプライアンスの問題を引き起こす�
 2800 mm ホイールベースと 5.5 m ターン サークル スーツ 都市分布. 買い手が箱、冷凍された単位または他のスーパー構造を加えるところ、**最終的なGVW/ペイロードは完了した車のために再調整されなければなりません** — シャーシ図だけでは、終了トラックの評価ではありません。
 
 ## 海外バイヤー お支払い前の検証
-- 軽トラックの場合、4×2(または他の)ドライブフォームは、アップフィットとロードに影響を与える証明書フィールドです。 シャーシの通知ごとに確認します。 参照のプロースは、GVW /ペイロードを修正しましたが、ドライブフォームを証明書に残します。
-1. **エンジンコード/変位/パワー** VIN(2.499 L / 90 kW vs 2.8 L / 116 PS)に対して。
+- 軽トラックの場合、4×2(または他の)ドライブフォームは、アップフィットとロードに影響を与える証明書フィールドです。 シャーシの通知ごとに確認します。 参照のプロースは、GVW
+1. **エンジンコード/変位/パワー** VIN(2.499 L 90 kW vs 2.8 L 116 PS)に対して。
 2. ※MIIT発表と証明書から、所定のペイロードとGVW**は、パンフレットのラウンドナンバーではありません。
 3. **ボディタイプ**(ドロップサイド/ボックス/スペシャル)およびそのカーブ重量;任意のアップフィットのための完全な車両評価。
-4. **ディーゼル燃料硫黄と過熱量** 排出/燃料ガイドごとの互換性; 中国- 6は、海外の承認ではありません。
+4. **ディーゼル燃料硫黄と過熱量** 中国- 6は、海外の承認ではありません。
 5. ※HS分類**(87.04商品車両、特殊ボディはHSコードガイドごとに見出しを動かす場合があります)。
 
 ## 現在のエクスポート見積をリクエストする
@@ -50,8 +50,8 @@ Payloadは、最も頻繁にコンプライアンスの問題を引き起こす�
 
 ## よくある質問
 **旬田のGVWとは  and  payload?** GVW 4.27 t with rated payload around 1.93–2.0 t; MIIT発表/認証の正確なペイロードを特定のボディに確認します。
-**Which engine does this page cover?** The JX493ZLQ6D 2.499 L diesel at 90 kW (122 PS); 2.8 L / 116 PSバージョンは異なるユニットです。
-**カーブの重み問題はなぜですか?** 使用可能なペイロードを設定します  and  ドロップサイド間の変化  and  box-van bodies — do not share one payload across bodies.
+**Which engine does this page cover?** The JX493ZLQ6D 2.499 L diesel at 90 kW (122 PS); 2.8 L 116 PSバージョンは異なるユニットです。
+使用可能なペイロードを設定します  and  ドロップサイド間の変化  and  box-van bodies — do not share one payload across bodies.
 **中国- 6 のトラックは私の市場のために承認しましたか。** 自動的に、目的地の排出とタイプ承認は別々です。
 
 ## 映像の記録
@@ -62,36 +62,36 @@ Payloadは、最も頻繁にコンプライアンスの問題を引き起こす�
 - 権利_ホルダー:未確認
 - LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
 - CHECKED_DATE: 2026-09-06(税抜き)
-- MODEL_TOPIC_MATCH: 上記の正確なモデル/バージョン(またはガイドトピック)と参照市場と一致しなければなりません
+- MODEL_TOPIC_MATCH:
 - IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
 - IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
 - ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
 - 言語によるALT:
-  - **EN**: AutoBridge export-buyer reference — JMC Shunda, petrol/diesel Chinese-market vehicle / light truck
-  - **FR**: Référence AutoBridge pour acheteurs export — JMC Shunda, véhicule thermique (marché chinois) / camion léger
-  - **DE**: AutoBridge-Referenz für Exportkäufer — JMC Shunda, Verbrenner (chinesischer Markt) / Leicht-Lkw
-  - **ES**: Referencia AutoBridge para compradores de exportación — JMC Shunda, vehículo de combustión (mercado chino) / camión ligero
-  - **PT**: Referência AutoBridge para compradores de exportação — JMC Shunda, veículo a combustão (mercado chinês) / caminhão leve
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜JMC Shunda, 中国市場仕様 内燃機関車 / 小型トラック
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜JMC Shunda, 중국 시장 내연기관 차량 / 경트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — JMC Shunda, xe động cơ đốt trong (thị trường Trung Quốc) / xe tải nhẹ
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — JMC Shunda, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถบรรทุกขนาดเล็ก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — JMC Shunda, kendaraan mesin pembakaran (pasar Tiongkok) / truk ringan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — JMC Shunda, مركبة بمحرك احتراق (سوق الصين) / شاحنة خفيفة
-  - **ZH**: AutoBridge 出口采购参考｜JMC Shunda, 中国市场燃油车 / 轻卡
+  - **EN**: AutoBridge export-buyer reference — JMC Shunda, petrol/diesel Chinese-market vehicle light truck
+  - **FR**: Référence AutoBridge pour acheteurs export — JMC Shunda, véhicule thermique (marché chinois) camion léger
+  - **DE**: AutoBridge-Referenz für Exportkäufer — JMC Shunda, Verbrenner (chinesischer Markt) Leicht-Lkw
+  - **ES**: Referencia AutoBridge para compradores de exportación — JMC Shunda, vehículo de combustión (mercado chino) camión ligero
+  - **PT**: Referência AutoBridge para compradores de exportação — JMC Shunda, veículo a combustão (mercado chinês) caminhão leve
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜JMC Shunda, 中国市場仕様 内燃機関車 小型トラック
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜JMC Shunda, 중국 시장 내연기관 차량 경트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — JMC Shunda, xe động cơ đốt trong (thị trường Trung Quốc) xe tải nhẹ
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — JMC Shunda, รถเครื่องยนต์สันดาป (ตลาดจีน) รถบรรทุกขนาดเล็ก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — JMC Shunda, kendaraan mesin pembakaran (pasar Tiongkok) truk ringan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — JMC Shunda, مركبة بمحرك احتراق (سوق الصين) شاحنة خفيفة
+  - **ZH**: AutoBridge 出口采购参考｜JMC Shunda, 中国市场燃油车 轻卡
 
 ## ソースと検証
 | ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
 |---|---|---|---|---|---|---|
 | 俊田小型トラック JX493ZLQ6D 122PS 準拠 2t | 360che (Toutiao) | CN の | 担当: http://m.toutiao.com/group/7296380434664292918/ | 2026-09-04 | CROSS_CHECKED(クロス) | エンジン、力、GVWのペイロードの組み立て |
 | シュンダ小型トラックベッド、GVW、カーブ重量 | 360che (Toutiao) | CN の | 担当: http://m.toutiao.com/group/6854066453151384075/ の | 2026-09-04 | CROSS_CHECKED(クロス) | 3700 ベッド、4.27 t、縁の重量 |
-| 俊田貨物 3.7m 116PS(販売中) | 58.com トラック | CN の | 以下は、 //m. 58.com/sh/huochec/63510160324146x.shtml | 2026-09-04 | シングル_ソース | 代替116 PSバージョン(除外) | https://m.58.com/sh/huochec/63510160324146x.shtml
-| シュンダホイールベース/旋回輪 | 360che (Toutiao) | CN の | 担当: http://m.toutiao.com/group/6815508461468516878/ の | 2026-09-04 | CROSS_CHECKED(クロス) | 2800 mm WB, 5.5 m turning |
+| 俊田貨物 3.7m 116PS(販売中) | トラック | CN の | 以下は、 | 2026-09-04 | シングル_ソース | 代替116 PSバージョン(除外) | https://m.58.com/sh/huochec/63510160324146x.shtml 58.com
+| | 360che (Toutiao) | CN の | 担当: http://m.toutiao.com/group/6815508461468516878/ の | 2026-09-04 | CROSS_CHECKED(クロス) | 2800 mm WB, 5.5 m turning |
 | ロードモーター車メーカーと製品カタログ — 公開クエリシステム | 工業情報技術省、中国情報技術省 | CN の | 以下は、 ................................................................................................................................ | 2026-09-05 | 検証済み | 注文するか、または輸出する前に製造業者、承認されたモデルおよび均質化(公告)のカタログの記入項目を確認して下さい | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html
 | ギガバイト16735-2019 道路車両 — 車両識別番号(VIN)要件 | SAMR全国規格全文プラットフォーム | CN の | 以下は、 https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 のリリース | 2026-09-05 | 検証済み | バイヤーのVIN/ネームプレート検証で使用されるVIN構造とネームプレートのデータフィールド |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | 市場規制のSAMR、州政局 | CN の | 以下は、 https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | 検証済み | ベースライン中国車安全技術条件と電流/改定タイムライン |
-| 改正XG1-2026(中国-6光車両汚染物質排出量)でGB 18352.6-2016 | エコロジー・環境省(MEE) | CN の | 以下は、 .mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html の | 2026-09-05 | 検証済み | 中国- 6 光車両排出ステージと2026 補正実装日 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html
-| GB 19147の自動車ディーゼル燃料の国民の標準(低硫黄の基礎) | SAMR全国規格全文プラットフォーム | CN の | 以下は、 https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A のリリース | 2026-09-05 | 検証済み | ディーゼル燃料グレードと硫黄ベースでエンジン/排出設計を海外に合わせる |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | 市場規制のSAMR、州政局 | CN の | 以下は、 https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | 検証済み | |
+| 改正XG1-2026(中国-6光車両汚染物質排出量)でGB 18352.6-2016 | エコロジー・環境省(MEE) | CN の | 以下は、 の | 2026-09-05 | 検証済み | 中国- 6 光車両排出ステージと2026 補正実装日 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html
+| GB 19147の自動車ディーゼル燃料の国民の標準(低硫黄の基礎) | SAMR全国規格全文プラットフォーム | CN の | 以下は、 https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A のリリース | 2026-09-05 | 検証済み | |
 
 ※本会議ノート:OEMの第一次シート無し、取引データベースの横断面チェック。 定格ペイロードは、MIIT発表/認証に明示的に決定; 2.499 L と 2.8 L エンジンは別々に保持しました。 中国語市場参照のみ。 ふりがな
 

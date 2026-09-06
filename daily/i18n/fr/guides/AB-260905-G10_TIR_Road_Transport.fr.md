@@ -7,7 +7,7 @@
 - ** Mot-clé principal**: le transport routier de la Chine Asie centrale
 - ** Termes de recherche secondaire**: carnet TIR; Chine Centrale Transport par camion en Asie; certificat d'agrément des véhicules; sceau douanier; transit routier
 - **URL suggérée**: /guides/tir-road-transport-chine-central-asia/
-- **Intention de la recherche**: 对中亚/欧洲卡航出口, 如何适用 TIR 公约, 办理 TIR 证与海关加封车辆批准证明, 2026 新规变化
+- **Intention de la recherche**: 如何适用 TIR 公约, 办理 TIR 证与海关加封车辆批准证明, 2026 新规变化（欧洲卡航出口）（对中亚）
 - **Suggestions de lien interne**: /guides/tir-route-transport-chine-central-asie/, /guides/véhicule-export-hs-code-histoire/, /guides/chine-export-douanes-déclaration-single-window/
 - **Schema Champ d'application**: article (pas de produit/offre/examen)
 
@@ -48,7 +48,7 @@ Ce guide ne énumère pas toutes les parties contractantes, ni les frais de cha�
 | 海关总署公告 2026 年第 2 号 (关于优化落实 TIR 公约有关事项) | 中华人民共和国海关总署 | NC | T1 | VÉRIFIER | http://www.customs.gov.cn/customs/2026-01/05/article_2026010515561027770.html | 车辆批准证明书, TIR 证交验, 适用范围扩展 |
 | 海关总署公告 2026 年第 2 号 (PDF 原件) | 中华人民共和国海关总署 | NC | T1 | VÉRIFIER | Les données sont disponibles sur le site Web de l'Agence. http://www.customs.gov.cn/customs/attachDir/2026/01/%E6%B5%B7%E5%85%B3%E6%80%BB%E7%BD%B2%E5%85%B3%E4%BA%8E%E4%BC%98%E5%8C%96%E8%90%BD%E5%AE%9ETIR%E5%85%AC%E7%BA%A6%E6%9C%89%E5%85%B3%E4%BA%8B%E9%A1%B9%E7%9A%84%E5%85%AC%E5%91%8A%20(1 | 公告全文一致性核验 |
 | 海关总署公告 2026 年第 2 号 (国务院公报) | 中国政府网 | NC | T1 | VÉRIFIER | https://www.gov.cn/gongbao/2026/issue_12666/202604/content_7065109.html | 公报核验 |
-| TIR 国际公路运输及服务指南 (政策解读) | 武汉市 (促进跨境贸易便利化, 搜狐转载) | NC | T3 | _CHECTURE | https://m.sohu.com/a/1054225552_121106908/ | 中国 2016 加入 / 2019 全国实施 / 2026 扩展跨境电商保税 |
+| TIR 国际公路运输及服务指南 (政策解读) | 武汉市 (促进跨境贸易便利化, 搜狐转载) | NC | T3 | _CHECTURE | https://m.sohu.com/a/1054225552_121106908/ | 中国 2016 加入 2019 全国实施 2026 扩展跨境电商保税 |
 | Convention TIR, 1975 — Texte officiel de la Collection des traités des Nations Unies | Recueil des traités des Nations Unies | ANNEXE | T1/T2 | VÉRIFIER | https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XI-A-16&chapter=11 | Texte juridique officiel de la Convention douanière relative au transport international de marchandises sous le couvert de carnets TIR |
 | IRU — Système de carnet TIR et chaîne de garantie | Union internationale des transports routiers (IRU) | ANNEXE | T1/T2 | VÉRIFIER | https://www.iru.org/ | Fédération de délivrance de carnets TIR; explique la chaîne de garantie et les exigences de l ' opérateur contrôlé |
 ## Révision de la rédaction

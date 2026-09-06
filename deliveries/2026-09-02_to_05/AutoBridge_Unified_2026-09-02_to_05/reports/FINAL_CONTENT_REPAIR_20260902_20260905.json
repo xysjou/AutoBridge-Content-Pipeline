@@ -5,10 +5,10 @@
  "FULL_BODY_LOCALE_EXPECTED": 960,
  "FULL_BODY_LOCALE_COMPLETE": 960,
  "FULL_BODY_LOCALE_INCOMPLETE": 0,
- "FULL_BODY_LOCALE_QA_PASS": 509,
- "FULL_BODY_LOCALE_QA_FAIL": 451,
- "AI_LANGUAGE_QA_PASS": 509,
- "AI_LANGUAGE_QA_FAIL": 451,
+ "FULL_BODY_LOCALE_QA_PASS": 960,
+ "FULL_BODY_LOCALE_QA_FAIL": 0,
+ "AI_LANGUAGE_QA_PASS": 960,
+ "AI_LANGUAGE_QA_FAIL": 0,
  "PROFESSIONAL_LOCALIZATION_PASS": 0,
  "EN_LENGTH_LT900": {},
  "SOURCE_SCOPE_PASS": 80,
@@ -34,17 +34,17 @@
  "SIMILARITY_FAIL_LANGUAGES": [],
  "SIMILARITY_MAX_BY_LANGUAGE": {
   "EN": 0.1836,
-  "FR": 0.4319,
-  "DE": 0.4,
-  "ES": 0.4202,
-  "PT": 0.4241,
-  "JA": 0.3492,
-  "KO": 0.3622,
-  "VI": 0.3843,
-  "TH": 0.3746,
-  "ID": 0.4134,
-  "AR": 0.3764,
-  "ZH": 0.3278
+  "FR": 0.4317,
+  "DE": 0.3981,
+  "ES": 0.4201,
+  "PT": 0.4242,
+  "JA": 0.356,
+  "KO": 0.3617,
+  "VI": 0.3836,
+  "TH": 0.3749,
+  "ID": 0.4145,
+  "AR": 0.3692,
+  "ZH": 0.3276
  },
  "NEEDS_RESEARCH": 0,
  "NEEDS_RESEARCH_RESOLVED": [
@@ -62,5 +62,28 @@
  "CODEX_ELIGIBLE": false,
  "WAITING_FOR": "INDEPENDENT_REVIEW_AI",
  "TRANSLATION_METHOD": "Offline Argos OpenNMT beam1 MT-draft; numeric/unit/URL/term tokens masked and integrity-verified per segment (source-fallback on any mismatch); PROFESSIONAL_LOCALIZATION=PENDING; AI_ASSISTED=true; evidence.first_hand=false",
- "leak_files": []
+ "leak_files": [],
+ "P0_WORKFLOW_LEAKAGE_FAIL": 0,
+ "SUMMARY_DUPLICATION_FAIL": 0,
+ "SUMMARY_DUPLICATION_MAX": {
+  "TITLE": 0.54,
+  "H1": 0.57,
+  "META": 0.42,
+  "INTRO": 0.0
+ },
+ "NEEDS_RESEARCH_WRITING_PATCH_RESOLVED": [
+  "AB-260905-G01",
+  "AB-260905-G02",
+  "AB-260905-G03",
+  "AB-260905-G04",
+  "AB-260905-G05",
+  "AB-260905-G06",
+  "AB-260905-G07",
+  "AB-260905-G08",
+  "AB-260905-G09",
+  "AB-260905-G10"
+ ],
+ "REVIEW_BASELINE_COMMIT": "5d167befa9b037fbd35bf823fecc41b9f09b6b36",
+ "REVIEW_HANDOFF": "reviews/2026-09-06/review_handoff_20260902_20260905_5d167bef_GATE.json",
+ "REPAIR_SCOPE": "IN_PLACE_REPAIR; EN master frozen except factual/leak fixes; 11-locale full body rebuilt and fact-verified"
 }

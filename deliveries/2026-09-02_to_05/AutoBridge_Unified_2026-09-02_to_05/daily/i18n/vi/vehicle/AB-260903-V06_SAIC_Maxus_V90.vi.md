@@ -17,8 +17,8 @@ Xe Xintu V90 là một nền tảng thương mại rộng cho cơ thể **-amer-
 | Mục | V90 Tham khảo Trung Quốc |
 |---|---|
 | Máy | SaRIC  gốc (PI") 2.0 L ise-diel inline- 4 |
-| Điểm năng lượng | 110 kW (≈150 PS) / 130 kW (≈177 PS) |
-| Điểm số Torque | 375 N·m / 400–420 N·m |
+| Điểm năng lượng | 110 kW (≈150 PS) 130 kW (≈177 PS) |
+| Điểm số Torque | 375 N·m 400–420 N·m |
 | Truyền: | Tự động 6-speed **or** ZF 8-speed tự động |
 | Bố trí | Động cơ trước, **rear-cra rym**; bánh xe sau thường được tùy chọn** |
 | Nhiên liệu | Chị ước lượng được mức độ chịu đựng chất lượng nhiên liệu và điểm đến |
@@ -26,9 +26,9 @@ Xe Xintu V90 là một nền tảng thương mại rộng cho cơ thể **-amer-
 Để quảng cáo dầu diesel, Người mua nên so sánh cấp mô-men xoắn  and  rear-axle/wheel choice (single vs dual rear tyre) against intended payload, Không chỉ là năng lượng cao nhất. ZF 8AT là sự truyền tải cao hơn; Không phải mỗi lớp đều có nó.
 
 ## Ma trận thân thể, chân quay và cơ thể
-- Ví dụ cơ thể tiêu chuẩn L×WH: **5498 / 2062 / 2535–2545 mm**; Thân xác còn tồn tại lâu hơn.
-- Bánh xe: ** 3366 mm / 3760 mm **.
-- **Crangeer phiên bản ghế: 9–15, hoàn toàn theo mô hình đồng tính (single-source; xác nhận trên thông báo /model code**.
+- Ví dụ cơ thể tiêu chuẩn L×WH: **5498 2062 2535–2545 mm**; Thân xác còn tồn tại lâu hơn.
+- Bánh xe: ** 3366 mm 3760 mm **.
+- **Crangeer phiên bản ghế: 9–15, hoàn toàn theo mô hình đồng tính (single-source; xác nhận trên thông báo code**.
 - Cao độ, trượt/ra bố trí cửa, kiện hàng chống lại bên trong hành khách và biến thể khung gầm thay đổi loại sử dụng và bản quyền.
 
 Vì bánh xe, mái nhà, ghế ngồi và sự lựa chọn sau cùng kết hợp với nhiều mã đồng nhất, một dòng số được sao chép từ V90 không thể áp dụng cho một cái khác — yêu cầu tấm bản cấu trúc cho các mã chính xác trước khi trích dẫn.
@@ -68,25 +68,25 @@ Sao tôi phải trích dẫn một quy tắc? Cơ sở quay xe, mái nhà, ghế
 - TRONG SÁCH TRONG LINH: FAIL (không có giấy phép lấy được tài sản; một người giữ chỗ hoặc “không chấp nhận lời nhắn cũ của hình ảnh ”
 - - Không. Không thể bảo đảm ảnh có thể tái tạo: Wikimedia Commons/Flickr không thể tới từ môi trường nghiên cứu, thư viện chứng khoán yêu cầu quyền truy cập hệ thống ARI/licence, và một trang web OEM không phải là một tài trợ tái sử dụng thương mại; không có ảnh tự động của AutoBridge. Giữ FAIL thay vì khẳng định.
 - Theo ngôn ngữ:
-  - **EN**: AutoBridge export-buyer reference — SAIC Maxus Xintu V90, petrol/diesel Chinese-market vehicle / cargo van
-  - **FR**: Référence AutoBridge pour acheteurs export — SAIC Maxus Xintu V90, véhicule thermique (marché chinois) / fourgon
-  - **DE**: AutoBridge-Referenz für Exportkäufer — SAIC Maxus Xintu V90, Verbrenner (chinesischer Markt) / Kastenwagen
-  - **ES**: Referencia AutoBridge para compradores de exportación — SAIC Maxus Xintu V90, vehículo de combustión (mercado chino) / furgoneta de carga
-  - **PT**: Referência AutoBridge para compradores de exportação — SAIC Maxus Xintu V90, veículo a combustão (mercado chinês) / furgão de carga
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜SAIC Maxus Xintu V90, 中国市場仕様 内燃機関車 / 貨物バン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜SAIC Maxus Xintu V90, 중국 시장 내연기관 차량 / 카고 밴
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — SAIC Maxus Xintu V90, xe động cơ đốt trong (thị trường Trung Quốc) / xe van chở hàng
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — SAIC Maxus Xintu V90, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถตู้บรรทุก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — SAIC Maxus Xintu V90, kendaraan mesin pembakaran (pasar Tiongkok) / van kargo
-  - **AR**: مرجع AutoBridge لمشتري التصدير — SAIC Maxus Xintu V90, مركبة بمحرك احتراق (سوق الصين) / شاحنة فان للبضائع
-  - **ZH**: AutoBridge 出口采购参考｜SAIC Maxus Xintu V90, 中国市场燃油车 / 厢式货车
+  - **EN**: AutoBridge export-buyer reference — SAIC Maxus Xintu V90, petrol/diesel Chinese-market vehicle cargo van
+  - **FR**: Référence AutoBridge pour acheteurs export — SAIC Maxus Xintu V90, véhicule thermique (marché chinois) fourgon
+  - **DE**: AutoBridge-Referenz für Exportkäufer — SAIC Maxus Xintu V90, Verbrenner (chinesischer Markt) Kastenwagen
+  - **ES**: Referencia AutoBridge para compradores de exportación — SAIC Maxus Xintu V90, vehículo de combustión (mercado chino) furgoneta de carga
+  - **PT**: Referência AutoBridge para compradores de exportação — SAIC Maxus Xintu V90, veículo a combustão (mercado chinês) furgão de carga
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜SAIC Maxus Xintu V90, 中国市場仕様 内燃機関車 貨物バン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜SAIC Maxus Xintu V90, 중국 시장 내연기관 차량 카고 밴
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — SAIC Maxus Xintu V90, xe động cơ đốt trong (thị trường Trung Quốc) xe van chở hàng
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — SAIC Maxus Xintu V90, รถเครื่องยนต์สันดาป (ตลาดจีน) รถตู้บรรทุก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — SAIC Maxus Xintu V90, kendaraan mesin pembakaran (pasar Tiongkok) van kargo
+  - **AR**: مرجع AutoBridge لمشتري التصدير — SAIC Maxus Xintu V90, مركبة بمحرك احتراق (سوق الصين) شاحنة فان للبضائع
+  - **ZH**: AutoBridge 出口采购参考｜SAIC Maxus Xintu V90, 中国市场燃油车 厢式货车
 
 ## Nguồn và Định dạng
 | Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
 | Cấu hình Xintu V90 (5498 cơ thể) | Comment | CN | https://db.m.auto.sohu.com/model_5902/config?sliding=1&selectedTrimId=173112 | 2026-09-03 | ĐÃ_ ĐÃ | Lớp học, kích thước cơ thể |
 | SAIC π 2.0T diesel power lineage | Bách khoa toàn thư PCauto | CN | http://m.pcauto.com.cn/baike/806544/1579332/ | 2026-09-03 | ĐÃ_ ĐÃ | 110/130 kW, 375 N·m, RWD, Hai bánh sau |
-| V90 2025 130 kW / 420 N·m | 16888 Tự động | CN | https://m.16888.com/news/2026/0728/24803230.html | 2026-09-03 | ĐÃ_ ĐÃ | 130 kW / 420 N·m, ZF 8AT, 9–15 ghế (ăn một nguồn) |
+| V90 2025 130 kW 420 N·m | Tự động | CN | https://m.16888.com/news/2026/0728/24803230.html | 2026-09-03 | ĐÃ_ ĐÃ | 130 kW 420 N·m, ZF 8AT, 9–15 ghế (ăn một nguồn) | 16888
 | Tham số Xentu V90 2024 | Cơ sở dữ liệu tự động Sina | CN | http://db.auto.sina.cn/car/71018/ | 2026-09-03 | ĐÃ_ ĐÃ | 5498/2062/2545, bánh xe cơ sở 3366/3760 |
 | Name | MIT, Bộ Công nghệ và Thông tin Trung Quốc | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VEII | Kiểm tra nhà sản xuất, mô hình được phê chuẩn và mục liệt kê (公告) trước khi đặt hàng hoặc xuất |
 | GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Bộ điều hành thị trường | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VEII | Đường dây cơ bản trong Trung Quốc điều kiện an toàn của phương tiện và dòng thời gian/xem hiện tại |
@@ -96,7 +96,7 @@ Sao tôi phải trích dẫn một quy tắc? Cơ sở quay xe, mái nhà, ghế
 *B đồng ý: không có tờ thông tin sơ bộ nào của SIC Maxus bị ghi lại; giá trị được kiểm tra chéo cơ sở dữ liệu Trung Quốc, số lượng chỗ ngồi là một nguồn và gắn liền với mã số tương đồng. Không có giá nào và cũng không ai được xác nhận. Chấp thuận đích đến là một sự cấu hình cụ thể. ♪
 
 ## Xem lại tập tin
-- **Author / recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
+- **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
 - **Last xem lại**: 2026-09-05
 - ** chợ địa phương**: China, Xentu V90 acle (thư mục thị trường Trung Hoa; cấu hình cụ thể)
 - ** phương pháp xác thực**: đa cơ sở dữ liệu chéo kiểm tra; cấu hình-max logic; ghế nguồn đơn được đánh dấu

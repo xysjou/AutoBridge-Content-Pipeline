@@ -1,18 +1,18 @@
 # Xe cộ Trung Quốc trên biển: tiêu chuẩn tiết kiệm nhiên liệu, 2026 tu chính án và người mua tương thích nhiên liệu phải kiểm tra
 
 ## SAO Siêu dữ liệu
-- **SEAO Titry**: China VI Ects & Overseas Clingel Coution Hướng dẫn — GB18352.6 / GB17691
+- **SEAO Titry**: China VI Ects & Overseas Clingel Coution Hướng dẫn — GB18352.6 GB17691
 - **Meta Mô tả**: Phân biệt GB18352.6-2016 (XG1-2026 tu chính án) từ GB17691-2018 trường đại học, giới hạn dầu diesel của Trung Quốc và rủi ro DPF/SCR, và tại sao Trung Quốc VI không bao giờ tự động làm việc với Euro hay EPA.
 - ** URL đã gợi ý**: /guides/eation-fuel-c tương thích-china-vehicles
 - ** H1 Đi đường giao thông Trung Quốc: chương trình nào cho phép sử dụng tiêu chuẩn tiêu chuẩn, và nhiên liệu địa phương có phù hợp với nó không?
 - ** Từ khoá bí mật **: china 6 emission standard overseas fuel compatibility GB18352.6 GB17691
 - **Secondary Search Words**: GB18352.6-2016 XG1-2026, GB17691-2018 nhiệm vụ nặng nề của Trung Hoa 6, GB19147 lưu huỳnh dầu diesel 10ppm, Nhiên liệu lưu huỳnh cao DPF Trung Quốc VI đấu với Euro equalice
-- **I nội bộ Link gợi ý**: //guides/vehic-excport-pdi-Pdi-P-pon-pon- saver /; /vehcles/jmc-shunda /; /vehcles/dong Phong-tangngng-kl/
+- **I nội bộ Link gợi ý**: saver /vehcles/jmc-shunda /vehcles/dong Phong-tangngng-kl/
 - **Image gợi ý**: ánh sáng chống lại sự tách chuẩn nặng; DPF/SCR sau khi xử lý sơ đồ; đo độ tương phản lưu huỳnh; vòng lặp xác thực đích
 - **LT Những gợi ý**: "Light-duty GB18352.6 and heavy-duty GB17691 separated with fuel compatibility checks"
 
 ## Tại sao "Trung Quốc VI" không phải là một số
-Người mua thường đọc "Trung sĩ VI / 国六" như một tiêu chuẩn đơn. Không phải: **Chuyến xe nhẹ và nhiều xe nặng nề ngồi dưới những tiêu chuẩn khác nhau của Trung Quốc**, và một tiêu chuẩn tiết ra cũng khác với **fuel clition** và từ loại số mệnh chấp thuận**. Hướng dẫn này phân chia cả ba và các bang chính xác nơi mà tiêu chuẩn chính thức của Trung Quốc kết thúc và xác nhận đích đến bắt đầu.
+Người mua thường đọc "Trung sĩ VI 国六" như một tiêu chuẩn đơn. Không phải: **Chuyến xe nhẹ và nhiều xe nặng nề ngồi dưới những tiêu chuẩn khác nhau của Trung Quốc**, và một tiêu chuẩn tiết ra cũng khác với **fuel clition** và từ loại số mệnh chấp thuận**. Hướng dẫn này phân chia cả ba và các bang chính xác nơi mà tiêu chuẩn chính thức của Trung Quốc kết thúc và xác nhận đích đến bắt đầu.
 
 ## Trách nhiệm ánh sáng và trách nhiệm nặng nề — Hai tiêu chuẩn hiện nay
 | Phạm vi | Tiêu chuẩn Trung Quốc hiện thời | Trạng thái/ Ngày tháng |
@@ -83,7 +83,7 @@ Trung Quốc VI có nghĩa là xe được bảo quản bởi Euro không? Khôn
 | Thông báo trên GB17691-2018 Trung Quốc có nhiệm vụ nặng nề 6 | ME | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-04 | VEIID (TIẾNG) | Chuẩn/ngày hạn nặng |
 | GB17691-2018 official PDF | ME | CN | https://www.mee.gov.cn/ywgz/fgbz/bz/bzwb/dqhjbh/dqydywrwpfbz/201807/W020260430500008289846.pdf | 2026-09-04 | VEIID (TIẾNG) | Phạm vi giao thức nặng |
 | GB19147-2016 road diesel (hiện tại, với XG1-2018) | SAMR mở rộng | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-04 | VEIID (TIẾNG) | Sulphir  thể hiện 10 mg/kg |
-| Nguy cơ chạy bộ khi điều trị | 11467 thử nghiệm cơ thể | CN | https://m.11467.com/product/d51123633.htm | 2026-09-04 | SINGLE_SOURCE | Nguy cơ điều trị sau khi điều trị |
+| Nguy cơ chạy bộ khi điều trị | thử nghiệm cơ thể | CN | https://m.11467.com/product/d51123633.htm | 2026-09-04 | SINGLE_SOURCE | Nguy cơ điều trị sau khi điều trị | 11467
 Phạm vi tính: Tiêu chuẩn/ngày của Trung Quốc được dùng để đánh dấu thông qua các nguồn chính của MEE/SAMR; giới hạn Euro/EPA ở nước ngoài, thông số nhiên liệu EE và bất kỳ kết luận cân bằng nào đang bị chặn đứng ở các nguồn nước ngoài chính. ♪
 
 | 轻型车国六排放标准 GB18352.6-2016 (译文库条文) | Trung QuốcRegs (今日头条) | CN | http://m.toutiao.com/group/6758333762372633092/ | 2026-09-04 | SINGLE_SOURCE | GB18352.6-2016 背景 (不作现行版本核心依据) |

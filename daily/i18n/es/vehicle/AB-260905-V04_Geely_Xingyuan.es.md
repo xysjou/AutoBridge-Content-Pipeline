@@ -1,13 +1,13 @@
-# Geely Xingyuan / Galaxy Xingyuan (2025/2026) — Chino-Marco Especies BEV y verificación de exportación
+# Geely Xingyuan Galaxy Xingyuan (2025/2026) — Chino-Marco Especies BEV y verificación de exportación
 
 ## SEO Metadatos
 - **SEO Título**: Geely Xingyuan (Galaxy Xingyuan) BEV: Guía de Exportaciones de Especies de Marcas Chinas
-- **Meta Descripción**: Geely Xingyuan / EV de la estrella: Arquitectura GEA, RWD,  58/85 kW motors,  310/410 km CLTC, 40.16 kWh línea  and  cheques de comprador de exportación.
-- ** H1 **: Geely Xingyuan / Galaxy Xingyuan (2025/2026) — Chinese-Market BEV Specs and Export Verification
-- **Primary Keyword**: Geely / 吉利 Xingyuan / 吉利星愿 (Galaxy 星愿) specs export
+- **Meta Descripción**: Geely Xingyuan EV de la estrella: Arquitectura GEA, RWD,  58/85 kW motors,  310/410 km CLTC, 40.16 kWh línea  and  cheques de comprador de exportación.
+- ** H1 **: Geely Xingyuan Galaxy Xingyuan (2025/2026) — Chinese-Market BEV Specs and Export Verification
+- **Primary Keyword**: Geely 吉利 Xingyuan 吉利星愿 (Galaxy 星愿) specs export
 - **Secondary Search Terms**: Geely Xingyuan export; Galaxy Xingyuan specs; Geely Starwish; Chinese small electric hatchback; CLTC city EV
 - ** URL suggested**: /vehicles/geely-xingyuan/
-- **Búsqueda Intent**: 了解 Geely / 吉利 Xingyuan / 吉利星愿 (Galaxy 星愿) 中国版规格, 配置与出口适配性 (车型参数页)
+- **Búsqueda Intent**: 了解 Geely 吉利 Xingyuan 吉利星愿 (Galaxy 星愿) 中国版规格, 配置与出口适配性 (车型参数页)
 - **Sugerencias de Enlace Interno**: /vehicles/geely-xingyuan/, /guides/ev-shipping- un3556-imdg-compliance-history/, /guides/export-cumpli-sanctions-screening-end-user/
 - **Esquema de alcance**: Artículo + Vehículo (no Producto/Offer/Review)
 
@@ -15,24 +15,24 @@
 El **Geely Xingyuan (Galaxy Xingyuan, comercializado en algunos mercados de exportación bajo un nombre inglés separado)** es un contrabandista eléctrico de baterías de A0 en la arquitectura EV de Geely **GEA**, con ** motor de rear/impulsión de rueda de rear**. Esta página es la referencia **Chino-mercado**; un nombre de modelo en el extranjero no se trata como idéntico sin una declaración OEM.
 
 ## Electric powertrain y líneas de rango
-- **Cuenta**: 4135 / 1805 / 1570 (STAR 限定版车长 4155) mm (STAR Edition 4155 mm long), rueda 2650 mm, 5 门 5 座; 后置后驱.
-- **Motores**: 58 / 85 kW opciones.
+- **Cuenta**: 4135 1805 1570 (STAR 限定版车长 4155) mm (STAR Edition 4155 mm long), rueda 2650 mm, 5 门 5 座; 后置后驱.
+- **Motores**: 58 85 kW opciones.
 - **Batería**: 磷酸铁锂; la línea de capacidad capturada es de 40.16 kWh para el coche de más largo alcance. Un proveedor específico de celdas aparece sólo en las cuentas de enciclopedia/media y es ** no confirmado por OEM**, por lo que se retiene.
-- **Range**: 310 / 410 km CLTC (cruzado) — un ciclo de prueba chino, no WLTP.
+- **Range**: 310 410 km CLTC (cruzado) — un ciclo de prueba chino, no WLTP.
 - **Cargo**: 375 (前备厢 70, 后排放倒 1320) L; plataforma GEA 纯电架构.
 - **El poder de carga de pico no es capturado fiablemente y no se declara. ################################################################################################################################################################################################################################################################
 
 ## Tabla de especificación verificada (referencia del mercado chino)
 | Especificación | Valor | Dependencia | Mercado | Confianza | Nota de la fuente |
 |---|---|---|---|---|---|
-| longitud de la anchura | 4135 / 1805 / 1570 (STAR 限定版车长 4155) | mm | CHINA | CROSS_CHECKED | 搜狐双页 |
+| longitud de la anchura | 4135 1805 1570 (STAR 限定版车长 4155) | mm | CHINA | CROSS_CHECKED | 搜狐双页 |
 | Base de ruedas | 2650 | mm | CHINA | CROSS_CHECKED | 搜狐 + 腾讯 |
 | asientos | 5门5座 | - | CHINA | SINGLE_SOURCE | 搜狐车型库 |
 | diseño | 后置后驱 | - | CHINA | SINGLE_SOURCE | 腾讯新闻 |
-| opciones de potencia motor | 58 / 85 | kW | CHINA | SINGLE_SOURCE | 搜狐汽车 |
+| opciones de potencia motor | 58 85 | kW | CHINA | SINGLE_SOURCE | 搜狐汽车 |
 | Tipo de batería | 磷酸铁锂 | - | CHINA | SINGLE_SOURCE | 搜狐汽车 |
 | Capacidad de batería 410 | 40.16 | k Wh | CHINA | SINGLE_SOURCE | 搜狐汽车 |
-| rango cltc | 310 / 410 | km | CHINA | CROSS_CHECKED | 搜狐 + 腾讯 |
+| rango cltc | 310 410 | km | CHINA | CROSS_CHECKED | 搜狐 + 腾讯 |
 | volumen de carga | 375 (前备厢 70, 后排放倒 1320) | L | CHINA | SINGLE_SOURCE | 搜狐车型库 |
 | plataforma | GEA 纯电架构 | - | CHINA | SINGLE_SOURCE | 腾讯新闻 |
 

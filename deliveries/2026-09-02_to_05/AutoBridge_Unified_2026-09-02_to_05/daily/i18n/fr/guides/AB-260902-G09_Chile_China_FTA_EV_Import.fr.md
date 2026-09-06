@@ -12,7 +12,7 @@
 ## L'opportunité et l'erreur de calcul récurrente
 Le Chili applique des accords de libre-échange avec ses principaux partenaires, y compris la Chine**. Un véhicule d'origine chinoise conforme peut utiliser la préférence de l'ALE (ad-valorem **dust 0% **), tandis que le droit ad-valorem général du Chili est de 6% de la valeur en douane du CAF** pour l'origine non préférentielle — les deux étant maintenant ancrés dans des sources officielles (ci-dessous). L'erreur récurrente de l'acheteur est la lecture de «droit FTA 0%» comme «coût 0% à l'importation». Il n'est pas: ** 19% IVA s'applique toujours, le 0% dépend de l'origine prouvant, et l'homologation est un flux de travail séparé.** Ce guide est spécifique au **Chili**.
 ## La Tax Stack, Ligne par Ligne (officiellement fondée)
-| Élément | Traitement | Base / confiance |
+| Élément | Traitement | Base confiance |
 |---|---|---|
 | Fonction générale ad-valorem | ** 6% de CIF (valeur en douane)** pour l'origine non préférentielle | ** VÉRIFIÉ — Service national des douanes chilien (aduana.gob.cl)** |
 | IVA (TVA) | ** 19% sur la valeur en douane CAF + droit** — facturé même lorsque le droit est de 0% en vertu de l'ALE | **VÉRIFIÉ — aduana.gob.cl** |
@@ -23,7 +23,7 @@ Les douanes chiliennes déclarent clairement la règle générale: les importati
 Un avant-projet a porté une « taxe 1% et une exemption de déminimis de 30 $ US » dans la pile de véhicules. Cette règle concerne ** les envois postaux et de messagerie de petite taille ou non commerciaux, et non les importations de véhicules commerciaux**, de sorte qu'elle a été retirée du coût de construction du véhicule. Ne pas appliquer la logique de minimis de messagerie à une voiture expédiée.
 ## Origine La condition pour 0% — Obtenez le certificat
 La préférence pour l'ALE s'applique uniquement aux ** produits originaires** qui satisfont à la règle d'origine spécifique au produit et qui portent un **certificat d'origine** valide délivré par l'organisme autorisé, conforme à la facture, à la liste d'emballage, au code B/L et au code VIN. Sur le plan opérationnel:
-- Confirmer le code du véhicule **HS** et sa règle d'origine de l'ALE (vérifiez le texte de l'ALE actuel / SUBREI pour cette rubrique — ne présumez pas que chaque véhicule est admissible automatiquement).
+- Confirmer le code du véhicule **HS** et sa règle d'origine de l'ALE (vérifiez le texte de l'ALE actuel SUBREI pour cette rubrique — ne présumez pas que chaque véhicule est admissible automatiquement).
 - Obtenir le certificat de l'ALE qui donne le même nom aux exportateurs/consignes et aux véhicules que les documents commerciaux.
 - Une chaîne d'origine cassée ou manquante par défaut l'expédition à la ** 6% ** service général.
 ## 3CV L'homologation est séparée des douanes
@@ -32,7 +32,7 @@ Les véhicules mis sur le marché chilien exigent une homologation ** 3CV** (pro
 - **Tout seuil de «luxury/surtax»** (une source industrielle a cité un pourcentage au-dessus d'une fourchette de valeur): **non confirmé contre le texte de l'autorité fiscale chilienne (SII) et retiré de la pile de coûts factuels** — vérifier l'applicabilité à votre modèle/prix avec une source fiscale chilienne avant de budgétiser.
 - ** Proposition de l'ANAC, en mai-2026, de réduire le droit de 6% pour les véhicules électriques de la part de partenaires non membres de l'ALE**: une association commerciale ** proposition, non pas adoptée de loi**. Notez également qu'un véhicule de transport d'origine chinoise conforme utilise déjà le canal FTA 0%, de sorte que le débat sur les non-ALE est une ligne différente. Revérifier à la date d'expédition; ne jamais citer une proposition comme politique.
 ## Ce qu'autoBridge ajoute au-delà d'un blog de tarif
-Guides génériques mélangent les règles de de-minimis de messagerie, les propositions et l'imposition adoptée en un seul numéro. La méthode recommandée consiste à construire une pile **correcte pour un véhicule*** (6% général / 0% préférence FTA + 19% IVA sur la valeur hors taxes), à lier le document **certificat d'origine au NIV** et à planifier le délai ** 3CV en parallèle avec l'expédition**, de sorte que la préférence 0% ne soit pas perdue en cas d'inadéquation de la paperasserie et que l'enregistrement initial ne soit pas retardé.
+Guides génériques mélangent les règles de de-minimis de messagerie, les propositions et l'imposition adoptée en un seul numéro. La méthode recommandée consiste à construire une pile **correcte pour un véhicule*** (6% général 0% préférence FTA + 19% IVA sur la valeur hors taxes), à lier le document **certificat d'origine au NIV** et à planifier le délai ** 3CV en parallèle avec l'expédition**, de sorte que la préférence 0% ne soit pas perdue en cas d'inadéquation de la paperasserie et que l'enregistrement initial ne soit pas retardé.
 ## Séquence de fonctionnement
 1. Classer le code SH et confirmer sa règle d'origine avant l'établissement des prix.
 2. Disposer le certificat d'origine de l'ALE avec des documents correspondant au NIV.
@@ -42,7 +42,7 @@ Guides génériques mélangent les règles de de-minimis de messagerie, les prop
 6. Aligner Incoterms/paiement et assurer la jambe de l'océan (voir les guides pertinents).
 ## Avant le paiement — Liste de confirmation
 - Code SH + règle d'origine de l'ALE; certificat de l'ALE arrangé et conforme au RIV.
-- Fenture d'impôt calculée sur la base aduana.gob.cl (6% général / 0% préférence; 19% IVA sur CIF+droit).
+- Fenture d'impôt calculée sur la base aduana.gob.cl (6% général 0% préférence; 19% IVA sur CIF+droit).
 - Toute surtaxe vérifiée avec une source d'impôt chilienne, non supposée.
 - 3CV, frais courants et échéanciers cités par le certificateur (aucun numéro de référence réutilisé).
 - Changements proposés/états à nouveau vérifiés à la date d'expédition.
@@ -89,9 +89,9 @@ Guides génériques mélangent les règles de de-minimis de messagerie, les prop
 | Jinyu Autos — 中国车进口智利指南 | Autos Jinyu(行业站) | CL | https://jinyuautos.com/blog/import-chinese-cars-to-chile/ | 2026-09-02 | SOURCE UNIQUE | 中智 ALE 0% 关税通道 |
 | huajiame — 全球汽车进口关税指南 | huajiame(行业站) | CL | https://www.huajiame.com/pl/knowledge/global-auto-import-tariff-guide | 2026-09-02 | SOURCE UNIQUE | 智利关税 6%（FTA 0%）、VAT 19%、奢侈品税 15%（>~$35k） |
 
-*Note de confiance: les droits généraux 6% et 19% IVA sont VÉRIFIÉS sur les douanes chiliennes; la préférence de l'ALE 0% est officielle mais conditionnelle à l'origine. La règle du service de messagerie 1% / 30 $US (non applicable aux véhicules), un seuil de surtaxe de luxe non confirmé et un droit fixe de 3CV ont été supprimés de l'organisme de fait; les règles d'origine du niveau SH et toute surtaxe doivent être confirmées auprès des douanes/SII/SUBREI chiliennes. *
+*Note de confiance: les droits généraux 6% et 19% IVA sont VÉRIFIÉS sur les douanes chiliennes; la préférence de l'ALE 0% est officielle mais conditionnelle à l'origine. La règle du service de messagerie 1% 30 $US (non applicable aux véhicules), un seuil de surtaxe de luxe non confirmé et un droit fixe de 3CV ont été supprimés de l'organisme de fait; les règles d'origine du niveau SH et toute surtaxe doivent être confirmées auprès des douanes/SII/SUBREI chiliennes. *
 ## Révision de la rédaction
-- **Auteur / réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)
+- **Auteur réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)
 - **Dernière révision**: 2026-09-05
 - **Marché de référence**: Chili
 - **Méthode de vérification**: Source primaire des droits de douane/IVA du gouvernement; organisme officiel du commerce pour la préférence de l'ALE; propositions et frais non confirmés maintenus hors de la pile factuelle

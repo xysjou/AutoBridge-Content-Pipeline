@@ -7,7 +7,7 @@
 - **Primary Keyword**: usuario final de control de las sanciones de cumplimiento de las exportaciones
 - ** Términos de búsqueda de datos secundarios**: control de las exportaciones; examen de las sanciones; declaración de usuario final; parte negada; lista restringida de doble uso;
 - ** URL agregada**: /guides/export-cumplimiento-sanctions-screening-end-user/
-- **Búsqueda Intent**: 汽车出口如何做最终用户 / 最终用途尽调, 管控 / 关注名单与境外制裁名单筛查, 规避出口管制与制裁风险
+- **Búsqueda Intent**: 汽车出口如何做最终用户 最终用途尽调, 管控 关注名单与境外制裁名单筛查, 规避出口管制与制裁风险
 - **Sugerencias internas**: /guides/export-pago-métodos-t-lc-risk/, /guides/verify-chinese-car-export-supplier-history/, /guides/export-cumpli-de-de cumplimiento-sanctions-screening-end-user/
 - **Esquema Ámbito**: Artículo (sin Producto/Offer/Revisión)
 
@@ -22,7 +22,7 @@ Los exportadores de vehículos se enfrentan tanto al régimen de control de expo
 - ** Medidas de cumplimiento**: mantener un paso de detección interno a la entrada de pedidos (una rutina de revisión de pedidos, declaraciones de uso final, escalada de golpes).
 
 ## Cómo se puede ver sin copiar una lista a mano
-Las listas restringidas cambian, así que nunca mantengan una lista estática copiada a mano. Utilice una herramienta de detección actual / base de datos a la entrada de pedido y otra vez antes del envío, revise todas las partes (comprador, consignario, banco, buque a donde relevante), mantenga el resultado de la prueba con el archivo, y escalar cualquier golpe para una decisión formal en lugar de "rededor de nombre" para pasar el emparejado.
+Las listas restringidas cambian, así que nunca mantengan una lista estática copiada a mano. Utilice una herramienta de detección actual base de datos a la entrada de pedido y otra vez antes del envío, revise todas las partes (comprador, consignario, banco, buque a donde relevante), mantenga el resultado de la prueba con el archivo, y escalar cualquier golpe para una decisión formal en lugar de "rededor de nombre" para pasar el emparejado.
 
 ## Una secuencia práctica de toma de orden
 1. Capture nombres y direcciones legales completos de todos los contrapartes.
@@ -48,9 +48,9 @@ Esta guía no incluye a las entidades sancionadas (cambian) ni da conclusiones e
 | 两用物项出口管制条例 (国务院令第 792 号) | 中华人民共和国商务部 | CN | T1 | VERIFIED | http://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2025/art_e63af2ce2c7e406394a2faf84a9b4738.html | 最终用户用途证明, 保存 5 年, 管控名单 |
 | 两用物项出口管制内部合规指南 | 中华人民共和国商务部 | CN | T1 | VERIFIED | https://www.mofcom.gov.cn/cms_files/filemanager/1077459795/attach/20239/2021070615181087.pdf | 订单筛查系统, 最终用途声明, 合规体系 |
 | 司法部, 商务部负责人就两用物项出口管制条例答记者问 | 中国政府网 | CN | T1 | VERIFIED | https://www.gov.cn/zhengce/202410/content_6981660.htm | 全过程最终用户用途管理, 关注名单 |
-| 两用物项出口管制措施专题 (不予许可情形) | 中华人民共和国商务部 | CN | T1 | VERIFIED | https://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_148254ba99284928ae6e4f84d1d6f297.html | 军事用户 / 管控关注名单不予许可, WMD/ 恐怖主义 / 军事用途 |
+| 两用物项出口管制措施专题 (不予许可情形) | 中华人民共和国商务部 | CN | T1 | VERIFIED | https://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_148254ba99284928ae6e4f84d1d6f297.html | 军事用户 管控关注名单不予许可, WMD/ 恐怖主义 军事用途 |
 | Ministerio de Comercio (MOFCOM) | MOFCOM 商务部 | CN | T1 | VERIFIED | https://www.mofcom.gov.cn/ | autoridad competente para la concesión de licencias de exportación y el control de las exportaciones |
-| Reglamento (UE) 2021/821 - Régimen de control de las exportaciones de doble uso de la UE | Unión Europea (EUR-Lex) | UE | T1/T2 | VERIFIED | https://eur-lex.europa.eu/eli/reg/2021/821/oj | Ejemplo de un régimen de control de doble uso de lesiones importantes y controles de partido/final restringidos pertinentes para la detección del diseño |
+| Reglamento (UE) - Régimen de control de las exportaciones de doble uso de la UE | Unión Europea (EUR-Lex) | UE | T1/T2 | VERIFIED | https://eur-lex.europa.eu/eli/reg/2021/821/oj | Ejemplo de un régimen de control de doble uso de lesiones importantes y controles de partido/final restringidos pertinentes para la detección del diseño | 2021/821
 | Lista de Entidades de la BIS de los Estados Unidos - ejemplo de selección de partes restringidas | Oficina de Industria y Seguridad de los Estados Unidos (BIS) | EE.UU. | T1/T2 | VERIFIED | https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern/entity-list | Lista pública de partes restringidas que ilustra la detección de la entidad denegada antes del envío |
 | US OFAC SDN Lista - selección de sanciones | Oficina de Control de Activos Extranjeros (OFAC) | EE.UU. | T1/T2 | VERIFIED | https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists | Especialmente designado Los nacionales enumeran como fuente de datos de la detección de sanciones; la jurisdicción específica, no una lista negra global |
 ## Revisión editorial

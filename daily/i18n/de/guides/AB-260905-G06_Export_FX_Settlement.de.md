@@ -12,17 +12,17 @@
 - **Schema-Scope**: Artikel (kein Produkt/Angebot/Review)
 
 ## Der eine Schritt, der vor dem ersten Empfang erfolgen muss
-Bevor ein chinesischer Exporteur seine erste Exportzahlung erhalten kann, muss er sich im **Handels-Devisen-Unternehmensverzeichnis** befinden. Im aktuellen Rahmen wurde der vorherige SAFE-Genehmigungsschritt aufgehoben: Das Unternehmen schließt die Registrierung des **Verzeichnisses bei seiner inländischen Bank** nach Erhalt der Außenhandels-Betriebsrechte ab, und diese Registrierung geht dem ersten Erhalt / der ersten Zahlung voraus. Ein Unternehmen, das seinen ersten Fahrzeugexport ohne diesen Schritt unterschreibt, wird das Problem in dem Moment entdecken, in dem Geld ankommen sollte.
+Bevor ein chinesischer Exporteur seine erste Exportzahlung erhalten kann, muss er sich im **Handels-Devisen-Unternehmensverzeichnis** befinden. Im aktuellen Rahmen wurde der vorherige SAFE-Genehmigungsschritt aufgehoben: Das Unternehmen schließt die Registrierung des **Verzeichnisses bei seiner inländischen Bank** nach Erhalt der Außenhandels-Betriebsrechte ab, und diese Registrierung geht dem ersten Erhalt der ersten Zahlung voraus. Ein Unternehmen, das seinen ersten Fahrzeugexport ohne diesen Schritt unterschreibt, wird das Problem in dem Moment entdecken, in dem Geld ankommen sollte.
 
 ## Abwicklung, Umwandlung und Übereinstimmung von Waren/Geldern
 Exporteinnahmen werden über den Bankenkanal abgewickelt; Die Umwandlung in RMB folgt den Kontoregeln. SAFE überwacht den Handel mit Devisen durch eine **Aggregate (总量)-Verifizierung **, die den **Warenfluss ** (Zollerklärungen) mit dem **Geldfluss ** (Eingängen) abgleicht, anstatt jede Transaktion im Voraus zu genehmigen. Unternehmen werden dynamisch klassifiziert; Inkongruenzen zwischen dem, was als ausgeführt gemeldet wurde, und dem, was empfangen wurde, ziehen eine Überprüfung nach sich.
 
 ## Wo die Arbeit erledigt wird
-Routine-Registrierung und Berichterstattung werden bei der Bank und über die digitale Devisenplattform (ASOne / 数字外管) abgewickelt; regionale SAFE-Filialen geben Leitlinien heraus, aber sie sind alle eine Behörde - die Zweigstelle ist keine separate Regulierungsbehörde. Halten Sie die Zollanmeldung, den Bankbeleg und die Rechnung so aufeinander abgestimmt, dass der Gesamtvergleich über den Zeitraum hinweg abgleicht.
+Routine-Registrierung und Berichterstattung werden bei der Bank und über die digitale Devisenplattform (ASOne 数字外管) abgewickelt; regionale SAFE-Filialen geben Leitlinien heraus, aber sie sind alle eine Behörde - die Zweigstelle ist keine separate Regulierungsbehörde. Halten Sie die Zollanmeldung, den Bankbeleg und die Rechnung so aufeinander abgestimmt, dass der Gesamtvergleich über den Zeitraum hinweg abgleicht.
 
 ## Betriebskontrollliste
 1. Erhalten Sie Außenhandelsrechte, dann vollständige Trade-FX-Registrierung bei der Bank **vor dem ersten Empfang **.
-2. Verwenden Sie konsistente Entitätsnamen und Vertrags- / Rechnungsnummern für Zoll-, Bank- und FX-Datensätze.
+2. Verwenden Sie konsistente Entitätsnamen und Vertrags- Rechnungsnummern für Zoll-, Bank- und FX-Datensätze.
 3. Übereinstimmen Sie Warenfluss und Geldfluss in jedem Zeitraum; erklären Sie die zeitlichen Unterschiede (Einlagen, gestaffelte Sendungen) mit Dokumenten.
 4. Datei über die digitale Plattform nach Bedarf; reagieren Sie umgehend auf jede Überprüfungsabfrage.
 5. Koordinieren Sie sich mit den Zahlungsmethoden und Mehrwertsteuer-Rückerstattungsprozessen, damit dieselbe Transaktion konsistent gemeldet wird.
@@ -43,7 +43,7 @@ Spezifische Kontoprodukte, Bankgebühren und aktuelle Betriebsbildschirme sind z
 |---|---|---|---|---|---|---|
 | 关于进一步优化贸易外汇业务管理的通知 (名录登记改由银行办理) | 国家外汇管理局 | CN | T1 | ÜBERPRÜFUNG | http://www.safe.gov.cn/yunnan/2024/0408/1537.html | 取消外汇局核准, 境内银行办理名录登记, 首笔收支前登记 |
 | 货物贸易外汇业务办事指南 (名录登记条件) | 国家外汇管理局吉林省分局 | CN | T1 | ÜBERPRÜFUNG | https://www.safe.gov.cn/jilin/file/file/20190617/91d454729ccc456c9b2e6a92cd6bcc51.pdf | 取得对外贸易经营权后办名录 |
-| 货物贸易外汇管理 (非现场总量核查 / 分类管理) | 国家外汇管理局文告 | CN | T1 | ÜBERPRÜFUNG | https://www.safe.gov.cn/safe/file/file/20170726/e97561d6d9ca4ba881d275fcb62bad2e.pdf | 总量核查, 货物流资金流匹配, 动态分类 |
+| 货物贸易外汇管理 (非现场总量核查 分类管理) | 国家外汇管理局文告 | CN | T1 | ÜBERPRÜFUNG | https://www.safe.gov.cn/safe/file/file/20170726/e97561d6d9ca4ba881d275fcb62bad2e.pdf | 总量核查, 货物流资金流匹配, 动态分类 |
 | 名录登记网上办理操作指引 (ASOne 平台) | 国家外汇管理局广东省分局 | CN | T1 | ÜBERPRÜFUNG | https://www.safe.gov.cn/guangdong/file/file/20210429/babf0a6020e84b4585a7ba6737bb2c41.pdf | 数字外管平台 ASOne 操作 |
 | Staatliche Verwaltung für Devisen (SAFE) | SAFE 国家外汇管理局 | CN | T1 | ÜBERPRÜFUNG | https://www.safe.gov.cn/en/ | Handels-FX-Registrierung und aggregierte Prüfstelle |
 | Staatliche Verwaltung für Devisen (SAFE) | SAFE (Regulator) | CN | T1 | ÜBERPRÜFUNG | https://www.safe.gov.cn/ | Zuständige Behörde für die Registrierung von Handels-FX und die Prüfung der Gesamtmenge |

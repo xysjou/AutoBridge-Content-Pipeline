@@ -1,38 +1,38 @@
-# Geely Xingyuan / Galaxy Xingyuan (2025/2026) — Chinese-Market BEV Specs  and  التحقق من الصادرات
+# Geely Xingyuan Galaxy Xingyuan (2025/2026) — Chinese-Market BEV Specs  and  التحقق من الصادرات
 
 ## SEO Metadata
 - ** عنوان المنظمة**: غيلي زانغيوان (غالاكسي زانغيوان) دليل التصدير الصيني - المريخ
-- ** وصف البيانات**: شركة جيلي إكينغيان/ستارويش الصغيرة (جي أي) RWD،  58/85 kW motors,  310/410 km CLTC, 40.16 kWh خط  and  -مشتري التصدير
-- ** H1 **: Geely Xingyuan / Galaxy Xingyuan (2025/2026) — Chinese-Market BEV Specs  and  التحقق من الصادرات
-- ** كلمة رئيسية رمزية**: غيلي/ 吉利 Xingyuan / 吉利星愿 (Galaxy 星愿)
+- ** وصف البيانات**: شركة جيلي الصغيرة (جي أي) RWD،  58/85 kW motors,  310/410 km CLTC, 40.16 kWh خط  and  -مشتري التصدير
+- ** H1 **: Geely Xingyuan Galaxy Xingyuan (2025/2026) — Chinese-Market BEV Specs  and  التحقق من الصادرات
+- ** كلمة رئيسية رمزية**: 吉利 Xingyuan 吉利星愿 (Galaxy 星愿)
 - **Secondary search Terms**: Geely Xingyuan export; Galaxy Xingyuan specs; Geely Starwish; Chinese small electric hatchback; CLTC city EV
 - ** URL المقتطع**: /مركبات/جيغالين/غين/
-- ** الحلقة الدراسية**: 了解 Geely / 吉利 Xingyuan / 吉利星愿（Galaxy 星愿） 中国版规格、配置与出口适配性（车型参数页）
+- ** الحلقة الدراسية**: 了解 Geely 吉利 Xingyuan 吉利星愿（Galaxy 星愿） 中国版规格、配置与出口适配性（车型参数页）
 - ** Internal Link Suggestions**: /vehicles/geely-xingyuan/, /guides/ev-shipping- un3556-imdg-compliance-history/, /guides/export-compliance-sanctions-screening-end-user/
 - ** نطاق الشيمة**: المادة + المركبات (لا منتج/منتج/مراجعة)
 
 ## سياق الشراء والهوية النموذجية
-"الـ "إكسينجي إكينغيون  marketed in some export markets under a separate English name)** is an A0 five-door battery-electric hatchback on Geely's **GEA** EV architecture, مع سيارة متحركة/محركة عجلات متحركة**. وهذه الصفحة هي المرجع** - السوق الصينية**؛ ولا يُعامل اسم نموذجي في الخارج على أنه متطابق دون بيان صادر عن منظمة أوم.
+"الـ "إكسينجي إكينغيون  marketed in some export markets under a separate English name)** is an A0 five-door battery-electric hatchback on Geely's **GEA** EV architecture, مع سيارة عجلات متحركة**. وهذه الصفحة هي المرجع** - السوق الصينية**؛ ولا يُعامل اسم نموذجي في الخارج على أنه متطابق دون بيان صادر عن منظمة أوم.
 
 ## كهرباء وخطوط النطاق
-- ** Body**: 4135 / 1805 / 1570 (STAR 限定版车长 4155) mm (STAR edition 4155 mm long), wheelbase 2650 mm, 5 门 5 座; 后置后驱).
-- ** المحركات**: 58 / 85 kW options.
-- ** باتيري**: 磷酸铁锂؛ خط القدرة المأخوذ به هو 40.16 kWh للسيارة البعيدة المدى. ولا يظهر مورد خلايا محدد إلا في حسابات التصفيق/الوسائط، وهو ** ليس مؤكّداً من منظمة أوم إي إم**، ولذلك فهو معلق.
-- ** رانج**: 310 / 410 km CLTC (cross-checked) — a Chinese test cycle, ليس دبليو إل بي.
+- ** Body**: 4135 1805 1570 (STAR 限定版车长 4155) mm (STAR edition 4155 mm long), wheelbase 2650 mm, 5 门 5 座; 后置后驱).
+- ** المحركات**: 58 85 kW options.
+- ** باتيري**: 磷酸铁锂؛ خط القدرة المأخوذ به هو 40.16 kWh للسيارة البعيدة المدى. ولا يظهر مورد خلايا محدد إلا في حسابات وهو ** ليس مؤكّداً من منظمة أوم إي إم**، ولذلك فهو معلق.
+- ** رانج**: 310 410 km CLTC (cross-checked) — a Chinese test cycle, ليس دبليو إل بي.
 - ** كارغو**: 375（前备厢70，后排放倒1320） L; منصة (A GEA 纯电架构)
 - ** لا يُستَولى على السلطة التي تفرضها شركة باك بشكل موثوق، ولا يُذكر. "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـسـمـسـمـنـيـنـيـنـيـنـيـمـة
 
 ## جدول مواصفات مصدق عليه (مراجع السوق الصينية)
 | المواصفات | القيمة | الوحدة | السوق | الثقة | مذكرة المصدر |
 |---|---|---|---|---|---|
-| طول الاستطلاع | 4135 / 1805 / 1570 (STAR 限定版车长 4155) | مم | CHINA | صرخات | 搜狐双页 |
+| طول الاستطلاع | 4135 1805 1570 (STAR 限定版车长 4155) | مم | CHINA | صرخات | 搜狐双页 |
 | قاعدة عجلات | 2650 | مم | CHINA | صرخات | 搜狐 + 腾讯 |
 | المقاعد | 5门5座 | - | CHINA | SINGLE OURCE | 搜狐车型库 |
 | مخطط | 后置后驱 | - | CHINA | SINGLE OURCE | 腾讯新闻 |
-| خيارات الطاقة | 58 / 85 | kW | CHINA | SINGLE OURCE | 搜狐汽车 |
+| خيارات الطاقة | 58 85 | kW | CHINA | SINGLE OURCE | 搜狐汽车 |
 | نوع البطاريات | 磷酸铁锂 | - | CHINA | SINGLE OURCE | 搜狐汽车 |
 | القدرة على البطارية 410 | 40.16 | k ماذا؟ | CHINA | SINGLE OURCE | 搜狐汽车 |
-| النطاق (ج) | 310 / 410 | كيلومتراً | CHINA | صرخات | 搜狐 + 腾讯 |
+| النطاق (ج) | 310 410 | كيلومتراً | CHINA | صرخات | 搜狐 + 腾讯 |
 | حجم البضائع | 375（前备厢70，后排放倒1320） | L | CHINA | SINGLE OURCE | 搜狐车型库 |
 | منصة | GEA 纯电架构 | - | CHINA | SINGLE OURCE | 腾讯新闻 |
 
@@ -60,8 +60,8 @@
 | 吉利星愿 车型参数 | 搜狐汽车 | CN | T2 | صرخات | http://db.auto.sohu.com/model_7477/a/1058252073_120590677 | 尺寸, 电机, 电池, 续航 |
 | 吉利星愿 配置库 | 搜狐汽车车型库 | CN | T2 | صرخات | http://db.auto.sohu.com/model_7477/config | 尺寸, 轴距, 储物 |
 | 星愿 上市报道 | 腾讯新闻 | CN | T3 | صرخات | http://news.qq.com/rain/a/20260329A04ZLQ00 | 续航版本, 架构 |
-| الموقع العالمي الرسمي للشؤون الجغرافية | Geely Auto Group 吉利 (OEM) | CN | T1 | مفقود | https://global.geely.com/ | الهوية التجارية/النموذجية وسلطة منظمة أوغ |
-| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | T1 | مفقود | https://www.miit.gov.cn/ | سلطة التشريح/الإلغاء؛ تأكيد النموذج الدقيق، والكتل، والرمز حسب الرقم القياسي/الإشعار |
+| الموقع العالمي الرسمي للشؤون الجغرافية | Geely Auto Group 吉利 (OEM) | CN | T1 | مفقود | https://global.geely.com/ | الهوية وسلطة منظمة أوغ |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | T1 | مفقود | https://www.miit.gov.cn/ | سلطة تأكيد النموذج الدقيق، والكتل، والرمز حسب الرقم |
 | State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | مفقود | https://www.samr.gov.cn/ | المعايير الوطنية، ومنح الشهادات، والضوابط التنظيمية السوقية |
 ## استعراض التحرير
 - ** Author**: AutoBridge Export Editorial Team · [authors](/authors) · [Editorial Policy](editorial-policy/)
@@ -79,9 +79,9 @@
 - ** لا يوجد أي من هذه الصفحات مضمونة - ليس من حق المنظمة الحصول على ترخيص تجاري لإعادة الاستخدام
 - ** CHECKED_DATE**: 2026-09-06
 - ** بالضبط غيلي شينغيان
-- ** MEIMAGE_SCOPE_NOTE**: يجب أن تتطابق الصورة مع النموذج المحدد للأسرة/المنظر فقط؛ ويجب ألا تنطوي على ثلاثية محددة، أو سنة نموذجية، أو تفتيش فعلي، أو عملية فعلية
+- ** MEIMAGE_SCOPE_NOTE**: يجب أن تتطابق الصورة مع النموذج المحدد فقط؛ ويجب ألا تنطوي على ثلاثية محددة، أو سنة نموذجية، أو تفتيش فعلي، أو عملية فعلية
 - **MAGE_Rights_STATUS**: FAIL
-- ** BLOCK_REASON**: لا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: لا يمكن الوصول إلى الشائعات/الفلك من بيئة البحوث، ولا تحتاج مكتبات المخزون إلى الوصول إلى نظام تسجيل الدخول/الرخصة الموثق، وصورة الموقع الشبكي لمنظمة أوم ليست منحة إعادة استخدام تجارية. لا توجد صورة مملوكة لـ(أوتومبريدج) وظل التسجيل في القوات المسلحة الفلسطينية بدلا من التأكيد عليه.
+- ** BLOCK_REASON**: لا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: لا يمكن الوصول إلى من بيئة البحوث، ولا تحتاج مكتبات المخزون إلى الوصول إلى نظام تسجيل الموثق، وصورة الموقع الشبكي لمنظمة أوم ليست منحة إعادة استخدام تجارية. لا توجد صورة مملوكة لـ(أوتومبريدج) وظل التسجيل في القوات المسلحة الفلسطينية بدلا من التأكيد عليه.
 - **ALT (12 languages)**:
   - **EN**: Geely Xingyuan, Chinese-market BEV hatchback export buyer reference
   - **FR**: Geely Xingyuan, BEV hatchback du marché chinois, référence acheteur export

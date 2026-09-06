@@ -30,9 +30,9 @@
 
 - 登録番号(必須の契約、請求書、銀行口座)
 - 資本金及び有給の状況、設立日
-- **事業規模** — 車両販売/輸出関連活動を含める必要があります。
+- **事業規模** —
 - 法務代表者
-- **オペレーション異常リスト/重篤な紫外線(ブラックリスト)レコード**
+-
 
 写真として示されているライセンスは証拠ではありません。 買い手(または中国ベースの代表者)は、独立してgsxtレコードを引っ張る必要があります。
 
@@ -43,13 +43,13 @@
 1. 実際の**メーカーを識別し、有効なCCCでMIIT発表にあることを確認します。
 2. 売り手がトレーダーである場合,**承認文書** 資格のある輸出業者/メーカーをパートナーにリンクします.
 3. **逆検証**:可能であれば、OEM/修飾されたエンティティティティティティティティティティティに戻って承認を確認します。 OEM tier- 1/tier-2 認可規則は内部で未公開なので、紙の証明書だけでは不十分です。発行するパーティーでそれを確認するように依頼してください。
-4. 不定形会社は*スルー*を上場修飾会社に輸出することができます。それは、協力/承認チェーンが文書化され、輸出宣言のエンティティティが本物的に修飾されている場合にのみ許可されます。
+4.
 
 ## レイヤー3 — 運用現実(工場、税関履歴、クレジット)
 
 - **税関信用グレード**:**AEO(認定経済オペレーター)**ステータスシグナル高い習慣クレジット;証拠を求め、中立的ではなく、不満を治療する。 (中国税関の公正なAEOクエリ方向を使用する;正確なポータルエントリの変更、したがって、公式の税関サイトを介して移動します。)
 - ** 歴史的輸出宣言**: request export customs declarations from roughly the last three months (sensitive commercial fields may be redacted)  and  相互点検プロダクト、 委託先のパターン  and  サプライヤーの主張に対する日付。
-- **ライブビデオ監査 — 最小標準**: リアルタイム (事前録画されていない) 生産ライン、車両在庫、QCステーション、ロードドックを示すウォークスルー; 同じ日に時間キューを尋ね、要求に応じてVIN /ユニットを参照してください。
+- **ライブビデオ監査 — 最小標準**: リアルタイム (事前録画されていない) 生産ライン、車両在庫、QCステーション、ロードドックを示すウォークスルー; 同じ日に時間キューを尋ね、要求に応じてVIN
 - ボリュームの前に** 'sample または小トライアル注文' で開始し、その試行契約に妥協の期待を書いてください。
 
 ## 層4 — 契約、請求書、銀行口座の一貫性
@@ -97,7 +97,7 @@ One of the clearest fraud indicators is a **payee account name that differs from
 - 権利_ホルダー:未確認
 - LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
 - CHECKED_DATE: 2026-09-06(税抜き)
-- MODEL_TOPIC_MATCH: 上記の正確なモデル/バージョン(またはガイドトピック)と参照市場と一致しなければなりません
+- MODEL_TOPIC_MATCH:
 - IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
 - IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
 - ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
@@ -119,15 +119,15 @@ One of the clearest fraud indicators is a **payee account name that differs from
 
 | ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
 |---|---|---|---|---|---|---|
-| 自動車・モーターサイクルの輸出注文をさらに調整する | MOFCOM ら. (ファイブミニストリーズ、公式T1) | CN の | 以下は、 //www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2012/art_bc15755f9b1642b99eac7cc212cce54b.html | 2026-09-02 | 検証済み | MIIT発表+CCC輸出資格ベース |
-| 2024 Announcement No. 6(中古車輸出企業条件) | MOFCOM(公式T1) | CN の | 以下は、 // dcj.mofcom.gov.cn/article/zcfb/zcwg/ 202405/20240503510039.shtml | 2026-09-02 | 検証済み | 中古車輸出業者 法的エンティティ/資格条件 |
-| 中国サプライヤーのビジネスライセンス認証を確認する方法 | グッドカン取引(業界、gsxt.gov.cnへのポイント) | CN の | 以下は、 //goodcantrading.com/how-to-check-china-supplier-ビジネスライセンス認証/ | 2026-09-02 | CROSS_CHECKED(クロス) | gsxt 検証フィールド |
-| 中国工場の認証方法は正当化 | プルトニアグローバル・ロジスティクス | CN/グローバル | 以下は、 //www.plutoniaglobal.com/guides/verify-chinese-factory-legitimate | 2026-09-02 | CROSS_CHECKED(クロス) | 口座名一貫性、工場監査 |
-| 中国自動車輸出サプライヤーを確認する8-stepガイド | huajiame (工業) | CN の | 以下は、 //www.huajiame.com/en-US/knowledge/how-verify-china-auto-export-supplier/ja/ja/ja/knowledge/how-verify-china-auto-export-supplier/ja/how-verify-china-auto-export-supplier/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ja/ | 2026-09-02 | CROSS_CHECKED(クロス) | レイヤ監査フレームワーク、AEO |
-| 車両輸出調達ノート | 11467 (顺企网の企業) | CN の | 以下は、 //m. 11467.com/blog/d18906274.htm | 2026-09-02 | CROSS_CHECKED(クロス) | ライブビデオ監査最小限、宣言クロスチェック |
-| 国内トラック輸出手順 | 広州Pujiangの貿易(11467) | CN の | 以下は、 //guangzhou053049.11467.com/m/news/15260806.asp | 2026-09-02 | CROSS_CHECKED(クロス) | 認定機関、認可チェーンによるエクスポート |
+| 自動車・モーターサイクルの輸出注文をさらに調整する | MOFCOM ら. (ファイブミニストリーズ、公式T1) | CN の | 以下は、 https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2012/art_bc15755f9b1642b99eac7cc212cce54b.html | 2026-09-02 | 検証済み | MIIT発表+CCC輸出資格ベース |
+| 2024 Announcement No. 6(中古車輸出企業条件) | MOFCOM(公式T1) | CN の | 以下は、 https://dcj.mofcom.gov.cn/article/zcfb/zcwg/202405/20240503510039.shtml | 2026-09-02 | 検証済み | 中古車輸出業者 |
+| 中国サプライヤーのビジネスライセンス認証を確認する方法 | グッドカン取引(業界、gsxt.gov.cnへのポイント) | CN の | 以下は、 | 2026-09-02 | CROSS_CHECKED(クロス) | gsxt 検証フィールド | https://goodcantrading.com/how-to-check-china-supplier-business-license-authenticity/
+| 中国工場の認証方法は正当化 | プルトニアグローバル・ロジスティクス | CN/グローバル | 以下は、 https://www.plutoniaglobal.com/guides/verify-chinese-factory-legitimate | 2026-09-02 | CROSS_CHECKED(クロス) | 口座名一貫性、工場監査 |
+| 中国自動車輸出サプライヤーを確認する8-stepガイド | huajiame (工業) | CN の | 以下は、 https://www.huajiame.com/en-US/knowledge/how-verify-china-auto-export-supplier | 2026-09-02 | CROSS_CHECKED(クロス) | レイヤ監査フレームワーク、AEO |
+| 車両輸出調達ノート | (顺企网の企業) | CN の | 以下は、 | 2026-09-02 | CROSS_CHECKED(クロス) | ライブビデオ監査最小限、宣言クロスチェック | https://m.11467.com/blog/d18906274.htm 11467
+| 国内トラック輸出手順 | 広州Pujiangの貿易(11467) | CN の | 以下は、 https://guangzhou053049.11467.com/m/news/15260806.asp | 2026-09-02 | CROSS_CHECKED(クロス) | 認定機関、認可チェーンによるエクスポート |
 
-*Confidenceのノート(AutoBridgeの標準): 資格規則は、現在2026の申請通知(商办贸函 〔 2025 〕 408 号)および共同発表番号を含む主要なMOFCOM / MIITソース(検証済み)に残ります。 純粋なEV乗客の輸出ライセンスの54。 現年有効なリストとAEOクエリは動的であり、ライブをチェックアウトする必要があります。 業務チェックリスト項目は業界を調達し、公式システムに戻って位置付けられます。 ふりがな
+*Confidenceのノート(AutoBridgeの標準): 資格規則は、現在2026の申請通知(商办贸函 〔 2025 〕 408 号)および共同発表番号を含む主要なMOFCOM MIITソース(検証済み)に残ります。 純粋なEV乗客の輸出ライセンスの54。 現年有効なリストとAEOクエリは動的であり、ライブをチェックアウトする必要があります。 業務チェックリスト項目は業界を調達し、公式システムに戻って位置付けられます。 ふりがな
 
 ## 編集レビュー
 - **著者/査読者**:【AutoBridge 輸出編集チーム】(/authors/)・方法による【編集ポリシー】(/editorial-policy/)

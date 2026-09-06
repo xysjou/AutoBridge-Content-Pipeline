@@ -3,11 +3,11 @@
 ## SAO Siêu dữ liệu
 - **SEO title**: Wuling Bingo EV Specs & Export Buyer Guide (203/333/410 km CLTC)
 - **Meta Mô tả**: Trung Quốc-tạp Wuling Bingo nhỏ OV - pin LFP,  203/333/410 km CLTC steps,  30/50 kW motors, DC sạc nhanh, Kích thước,  and  những người nhập khẩu phải xác minh mỗi lần cắt tỉa.
-- ** URL đã được đánh dấu**: /vehicles/wuling-bingo /
+- ** URL đã được đánh dấu**: /vehicles/wuling-bingo
 - ** H1 **: Wuling Bingo: China-Market Small EV Specs và Xuất khẩu
 - ** Từ khoá mật khẩu hoa văn **: wuling Bingo ev ex ews erag
 - **Secondary Search termss**: Wuling Bingo 203km, Wuling Bingo 333km, Wuling Bingo 410km, xuất khẩu EV nhỏ của Trung Quốc, 五菱缤果  Wem
-- **I nội bộ Link gợi ý*: //guides/ev-shipping- un3556-imdg-compliance/; /guides/vehic-excport-pdi-Pdi-P-Pi-P-P-P-ment-ship over /; /vehcles/byd-qin-l-dm/
+- **I nội bộ Link gợi ý*: un3556-imdg-compliance/; /guides/vehic-excport-pdi-Pdi-P-Pi-P-P-P-ment-ship over /vehcles/byd-qin-l-dm/
 - **Image gợi ý**: năm cửa Bên Bingo; 203 đấu với 333/410 huy hiệu; Hàng sau với ghế xếp lại; Cổng sạc; Căn nhà nhỏ bốn phần
 - **LT Những gợi ý**: "Thỉnh thoảng, một cái cửa nhỏ bằng điện của Trung Quốc được dự đoán," "Wuling Bingo CLTC range 203 333 410 km"
 
@@ -15,27 +15,27 @@
 The Bingo is Wuling's five-door small electric hatchback, Nhắm vào thành phố  and  Sử dụng ánh sáng-công nghệ cá nhân. Đối với một người xuất khẩu biến số quyết định là **range Step**, bởi vì năng lượng động, pin và tốc độ cao nhất tất cả thay đổi với nó. Tờ này bao gồm 2024 đường cao tốc của thị trường Trung Hoa. Chloe; Không có trang OEM ở nước ngoài, các hình ảnh Trung Quốc là một tài liệu tham khảo, chứ không phải là một đặc điểm toàn cầu.
 
 ## Điện não đồ: pin, khoảng cách, nạp
-| Mục | 203 km (vào) | 333 / 410 km (mid/ high) |
+| Mục | 203 km (vào) | 333 410 km (mid/ high) |
 |---|---|---|
 | Comment | LFP (lithium sắt phosphate) | LFP |
 | Name | 17.3 kWh | Gói lớn (ấn chứng trên mỗi phiên bản trên tờ OEM) |
 | Nguồn năng lượng | 30 kW | 50 kW (vào là 30 kW — không nói chung) |
 | Mô-men xoắn động cơ | 85 N·m | 125 N·m (tài nguyên điện) |
-| Phạm vi CLTC | 203 km | 333 km / 410 km |
+| Phạm vi CLTC | 203 km | 333 km 410 km |
 | Tốc độ | 100 km/h | 130 km/h |
 | Bộ công cụ điện toán nhanh DC | Tất cả phiên bản DC sạc nhanh; about 35 min for 30–80% (single-source; xác nhận trên OEM) | Tương tự |
 
 Tất cả các hình thể phạm vi đều là **CLTC**. Động cơ của chiếc xe hơi 30 kW không được phép được trích dẫn để cắt tỉa, ngược lại.
 
 ## Các chiều, biển và chợ
-- Chiều dài / chiều rộng / chiều cao: ** 3950 / 1708 / 1580 mm **
+- Chiều dài chiều rộng chiều cao: ** 3950 1708 1580 mm **
 - Bánh xe: ** 2560 mm **
 - Ghế: được ghi nhận là ** 4 (2+2 bố trí)** dành cho xe hơi; một số bản dịch có thể cung cấp năm chỗ ngồi — xác nhận trên tờ giấy cắt đích.
 - Âm lượng của xe: ** 350 L, mở rộng lên khoảng 1240 L ** với các chỗ ngồi xếp lại (cấu nước).
 
 ## Sơ đồ Phiên bản (giữ mỗi dòng riêng biệt)
-- ** 203 轻享 (vào)**: 17.3 kWh, 30 kW / 85 N·m, 100 km/h tốc độ cao nhất.
-- ** 333 悦享 / 410 灵犀 (mid/gh)**: 50 kW động cơ, 125 N·m, 130 km/h tốc độ cao nhất.
+- ** 203 轻享 (vào)**: 17.3 kWh, 30 kW 85 N·m, 100 km/h tốc độ cao nhất.
+- ** 333 悦享 410 灵犀 (mid/gh)**: 50 kW động cơ, 125 N·m, 130 km/h tốc độ cao nhất.
 - Độ dài, Bố trí bốn thịt  and  Một phần của các nguồn tin đơn lẻ, còn lại một phần là phút sạc nhanh; Xác nhận danh sách cấu hình nhà máy.
 
 ## Người bán nước ngoài mua sắm trước khi trả tiền
@@ -47,7 +47,7 @@ Tất cả các hình thể phạm vi đều là **CLTC**. Động cơ của chi
 5. **PDI và SOC để chuyển hàng** - theo hướng dẫn chuẩn bị trước và yêu cầu nhà sản xuất phải có giá trị cao nhất (không có phần trăm cố định trên toàn cầu).
 
 ## Yêu cầu một trích dẫn Xuất hiện thời
-Không có giá xuất khẩu tĩnh. Giá hướng dẫn của Trung Quốc là 2024 (khoảng RMB 56, 800) là một tham khảo **doterestic, nhạy cảm về thời gian, không phải FOB/CF**. Cần có **Diestination Country*Gution ·Guity · Range Step/Trim* LHD/RHD_ styng* Incate**.
+Không có giá xuất khẩu tĩnh. Giá hướng dẫn của Trung Quốc là 2024 (khoảng RMB 56,800) là một tham khảo **doterestic, nhạy cảm về thời gian, không phải FOB/CF**. Cần có **Diestination Country*Gution ·Guity · Range Step/Trim* LHD/RHD_ styng* Incate**.
 
 ## Những câu hỏi thường xuyên
 Có bao nhiêu phiên bản trong phạm vi? Ba bước CLTC được ghi nhận — 203, 333 và 410 km — với các đặc điểm khác nhau về động cơ và pin.
@@ -84,10 +84,10 @@ Có phải mọi cái Bingo 50 kW không? Không; chiếc xe 203 km dùng máy 3
 ## Nguồn và Định dạng
 | Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
-| Bàn xoay 203km | Tự động cấu hình nhà | CN | https://car.m.autohome.com.cn/config/spec/61645.html | 2026-09-04 | ĐÃ_ ĐÃ | 17.3 kWh, 30 kW / 85 N·m, tầm cao nhất, tốc độ cao nhất |
+| Bàn xoay 203km | Tự động cấu hình nhà | CN | https://car.m.autohome.com.cn/config/spec/61645.html | 2026-09-04 | ĐÃ_ ĐÃ | 17.3 kWh, 30 kW 85 N·m, tầm cao nhất, tốc độ cao nhất |
 | Bingo 2024 203km parameters | Comment | CN | http://db.m.auto.sohu.com/trim_173261 | 2026-09-04 | ĐÃ_ ĐÃ | Kích thước, cơ sở bánh xe, pin, ghế |
 | 2024 Cập nhật phạm vi & sạc nhanh Bingo | Autohome·Chejiaao | CN | https://chejiahao.m.autohome.com.cn/info/24300800 | 2026-09-04 | ĐÃ_ ĐÃ | Khoảng cách, 50 kW, DC phút sạc điện, CLTC |
-| Name | Tự động 16888 | CN | https://m.16888.com/news/2025/0708/23852156.html | 2026-09-04 | SINGLE_SOURCE | Bề ngang/h, 2+2 chỗ ngồi |
+| Name | Tự động | CN | https://m.16888.com/news/2025/0708/23852156.html | 2026-09-04 | SINGLE_SOURCE | Bề ngang/h, 2+2 chỗ ngồi | 16888
 | Con lắc Bingo 2025 đường dây liên kết đầy đủ | PCauto conig | CN | https://car.pcauto.com.cn/360/m133517/config.html | 2026-09-04 | ĐÃ_ ĐÃ | Động cơ giữa/ Thượng, phạm vi |
 | Name | MIT, Bộ Công nghệ và Thông tin Trung Quốc | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VEII | Kiểm tra nhà sản xuất, mô hình được phê chuẩn và mục liệt kê (公告) trước khi đặt hàng hoặc xuất |
 | GB 16735-2019 Xe cộ — Số nhận diện xe hơi (VIN) | Nền tảng chuẩn toàn quốc SAR | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VEII | Cấu trúc và trường dữ liệu bảng tên VIN và được dùng trong kiểm tra bảng tên của người mua |
@@ -101,7 +101,7 @@ Có phải mọi cái Bingo 50 kW không? Không; chiếc xe 203 km dùng máy 3
 - **Author**: AutoBridge Eportal Team_· phương pháp trên mỗi [chính sách] (/tách-chính trị/)
 - **Last xem lại**: 2026-09-05
 - **Trible market**: China, 2024 Wuling Bingo (tham chiếu thị trường Trung Hoa; CLC tuyên bố, không phải một ma trận toàn cầu)
-- ** phương pháp xác định**: đa cơ sở dữ liệu chéo kiểm tra; động cơ/ xa nhau trên một đường / tầm; các mục nguồn riêng được đánh dấu
+- ** phương pháp xác định**: đa cơ sở dữ liệu chéo kiểm tra; động cơ/ xa nhau trên một đường tầm; các mục nguồn riêng được đánh dấu
 - **Sự khác biệt**: việc soạn thảo có hỗ trợ bởi Al-assed đã được sử dụng. Bài này dựa trên nghiên cứu bàn giấy và tự động QA. Không có thử nghiệm tay đầu tiên được xác nhận trừ khi được ghi lại rõ ràng; xác nhận yêu cầu thời gian và đích đến trước khi chuyển đổi.
 - **Ku thích về tiêu chuẩn**: Nghiên cứu và viết từ những nguồn được liệt kê ở trên (các nghiên cứu ban đầu; không có ổ đĩa cầm tay, bỏ xuống hoặc nhập khẩu nào được xác nhận). Sự tự tin nguồn được thể hiện trên mỗi hàng; bất cứ điểm nào chúng ta không thể tự xác nhận được đều được trình bày như một vật chứng thực thay vì xác nhận là sự thật.
 

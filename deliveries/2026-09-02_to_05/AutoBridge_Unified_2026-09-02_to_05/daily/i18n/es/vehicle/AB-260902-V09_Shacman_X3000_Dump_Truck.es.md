@@ -13,27 +13,27 @@
 
 ## Papel y aumento de la línea
 
-El Delong (德龙) X3000 es el volumen de Shacman ** plataforma pesada de dump/tipper**, exportado ampliamente a través de África, Oriente Medio y mercados de habla rusa. La referencia China build es el ** 430 PS 8 × 4 con un cuerpo de 7.6 m, anuncio SX33105C406B **; la familia también abarca 6 × 4/8 × 4  and  roughly 375–550 PS, con China V/China VI  and  menor emisión (por ejemplo, Euro II-clase) construye coexistencia para diferentes mercados de destino. Un oficial ** 400 PS 6 × 4 export** versión es confirmado por Shacman. Las cifras detalladas de anuncios de China provienen de 360che (fuente individual donde se marcan); Las calificaciones de exportación son oficiales.
+El Delong (德龙) X3000 es el volumen de Shacman ** plataforma pesada de dump/tipper**, exportado ampliamente a través de África, Oriente Medio y mercados de habla rusa. La referencia China build es el ** 430 PS 8 × 4 con un cuerpo de 7.6 m, anuncio SX33105C406B **; la familia también abarca 6 × 4/8 × 4  and  roughly 375–550 PS, con China V/China VI  and  menor emisión (por ejemplo, Euro II-clase) construye coexistencia para diferentes mercados de destino. Un oficial ** 400 PS 6 × 4 export** versión es confirmado por Shacman. Las cifras detalladas de anuncios de China provienen de (fuente individual donde se marcan); Las calificaciones de exportación son oficiales. 360che
 
 ## Referencia: 430 PS 8 × 4 (China)
 
 | Tema | Valor | Pruebas |
 |---|---|---|
-| Anuncio / unidad | SX33105C406B, 8 × 4,  wheelbase 1800+3975+1400 mm | 360che (single) |
-| L×W×H en general | 10.55 × 2.55 × 3.45 m | 360che (single) |
-| Motor | Weichai WP12.430E50, 11.596 L inline- 6 diesel | 360che (single) |
-| Potencia / par de par | 316 kW (430 PS) / 2060 N·m @ 1000–1400 rpm | 360che (single) |
-| Caja de cambios | Rápido (法士特) 12JSD200T-B ** 12-speed manual** (2 inverso); 460 PS China VI utiliza un Acelerador 13-speed | 360che (single) |
-| Curb / carga útil nominal / GVW | 15.5 t / 15.37 t / **31 t** | 360che (single) |
-| Cuerpo de atraque | ** 7.6 × 2.35 × 1.5 m, retrete (后翻)** | 360che (single) |
-| Axles frontales | Hombre tipo 9.5 t,  allowable 6500/6500 kg | 360che (single) |
-| Rear bogie | 16 t doble-reducción tipo MAN, 18,000 kg grupo; ratio 5.262 | 360che (single) |
-| Neumáticos / combustible | 12.00R20 × 12; tanque de aluminio 400 L | 360che (single) |
+| Anuncio unidad | SX33105C406B, 8 × 4,  wheelbase 1800+3975+1400 mm | (single) | 360che
+| L×W×H en general | 10.55 × 2.55 × 3.45 m | (single) | 360che
+| Motor | Weichai WP12.430E50, 11.596 L inline- 6 diesel | (single) | 360che
+| Potencia par de par | 316 kW (430 PS) 2060 N·m @ 1000–1400 rpm | (single) | 360che
+| Caja de cambios | Rápido (法士特) 12JSD200T-B ** 12-speed manual** (2 inverso); 460 PS China VI utiliza un Acelerador 13-speed | (single) | 360che
+| Curb carga útil nominal GVW | 15.5 t 15.37 t **31 t** | (single) | 360che
+| Cuerpo de atraque | ** 7.6 × 2.35 × 1.5 m, retrete (后翻)** | (single) | 360che
+| Axles frontales | Hombre tipo 9.5 t,  allowable 6500/6500 kg | (single) | 360che
+| Rear bogie | 16 t doble-reducción tipo MAN, 18,000 kg grupo; ratio 5.262 | (single) | 360che
+| Neumáticos combustible | 12.00R20 × 12; tanque de aluminio 400 L | (single) | 360che
 
 ## Motor de exportación oficial y otras clasificaciones
 
-- ** Exportación oficial 6 × 4 (VERIFIED)**: Weichai 11.6 L inline- 6, ** 400 PS (294 kW) / 2000 N·m, China VI** por el sitio del Grupo Shacman; Shacman International lists 385/400/430 PS options  and  una velocidad máxima gobernada 80 km/h.
-- Las calificaciones más altas de China incluyen un 460 PS WP12.460E62 (338 kW / 2200 N·m, China VI) y un 480 PS WP13.480E50 (353 kW, 12.54 L) — referencias de bases de datos de un solo proveedor para la comparación solamente.
+- ** Exportación oficial 6 × 4 (VERIFIED)**: Weichai 11.6 L inline- 6, ** 400 PS (294 kW) 2000 N·m, China VI** por el sitio del Grupo Shacman; Shacman International lists 385/400/430 PS options  and  una velocidad máxima gobernada 80 km/h.
+- Las calificaciones más altas de China incluyen un 460 PS WP12.460E62 (338 kW 2200 N·m, China VI) y un 480 PS WP13.480E50 (353 kW, 12.54 L) — referencias de bases de datos de un solo proveedor para la comparación solamente.
 
 Al ordenar, equiparar la fuerza de caballo al modelo **motor sufijo y etapa de emisión**: un 430 PS China- El motor V no es el mismo producto certificado como un motor de exportación de 400 PS, aunque las salidas se ven cercanas.
 
@@ -58,8 +58,8 @@ No se captó ningún precio autorizado y no se calcula que se haya efectuado nin
 
 ## Preguntas frecuentes
 
-**¿Qué incluye la referencia 8 × 4 430?** Un motor Weichai 11.596 L 430 PS, manual Fast 12-speed, 31 t GVW y un cuerpo de 7.6 × 2.35 × 1.5 m de retrete, por 360che datos del anuncio.
-**¿Hay una versión oficial de exportación?** Sí — Shacman confirma un 400 PS 6 × 4 (294 kW / 2000 N·m, China VI)  and  lists 385/400/430 PS options internationally.
+**¿Qué incluye la referencia 8 × 4 430?** Un motor Weichai 11.596 L 430 PS, manual Fast 12-speed, 31 t GVW y un cuerpo de 7.6 × 2.35 × 1.5 m de retrete, por datos del anuncio. 360che
+**¿Hay una versión oficial de exportación?** Sí — Shacman confirma un 400 PS 6 × 4 (294 kW 2000 N·m, China VI)  and  lists 385/400/430 PS options internationally.
 **¿Por qué las versiones de emisión varían tanto?** Los mercados difieren en el contenido de azufre de combustible y las reglas de importación, por lo que coexisten China V/VI y calibraciones de clase Euro inferior; coinciden con el motor con el destino.
 **¿Cuál es la carga útil nominal?** Alrededor de 15.37 t para la referencia 8 × 4 (fuente individual), sujeto a las reglas de axle/GVW destino y la construcción final del cuerpo.
 ¿Manual o automática? Las construcciones capturadas utilizan transmisiones manuales rápidas (12/13-speed); confirman en lugar de asumir un automático.
@@ -77,26 +77,26 @@ No se captó ningún precio autorizado y no se calcula que se haya efectuado nin
 - IMAGE_RIGHTS_STATUS: FAIL (no se acepta ningún activo con licencia; no se acepta un titular de posición o “retiene la imagen antigua”)
 - BLOCK_REASON: No se puede asegurar una imagen reutilizable: Wikimedia Commons/Flickr no son accesibles desde el entorno de investigación, las bibliotecas de stock requieren acceso a API/licencia autenticada, y una imagen de página web OEM NO es una subvención comercial de reutilización; no existe foto de propiedad de AutoBridge. Se quedó con la FAIL en lugar de afirmarse.
 - ALT por idioma:
-  - **EN**: AutoBridge export-buyer reference — Shacman Delong X3000, petrol/diesel Chinese-market vehicle / dump/tipper truck
-  - **FR**: Référence AutoBridge pour acheteurs export — Shacman Delong X3000, véhicule thermique (marché chinois) / camion benne
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Shacman Delong X3000, Verbrenner (chinesischer Markt) / Kipper
-  - **ES**: Referencia AutoBridge para compradores de exportación — Shacman Delong X3000, vehículo de combustión (mercado chino) / camión volqueta
-  - **PT**: Referência AutoBridge para compradores de exportação — Shacman Delong X3000, veículo a combustão (mercado chinês) / caminhão basculante
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Shacman Delong X3000, 中国市場仕様 内燃機関車 / ダンプカー
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Shacman Delong X3000, 중국 시장 내연기관 차량 / 덤프트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Shacman Delong X3000, xe động cơ đốt trong (thị trường Trung Quốc) / xe ben
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Shacman Delong X3000, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถดั๊มพ์
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Shacman Delong X3000, kendaraan mesin pembakaran (pasar Tiongkok) / truk dump
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Shacman Delong X3000, مركبة بمحرك احتراق (سوق الصين) / شاحنة قلابة
-  - **ZH**: AutoBridge 出口采购参考｜Shacman Delong X3000, 中国市场燃油车 / 自卸车
+  - **EN**: AutoBridge export-buyer reference — Shacman Delong X3000, petrol/diesel Chinese-market vehicle dump/tipper truck
+  - **FR**: Référence AutoBridge pour acheteurs export — Shacman Delong X3000, véhicule thermique (marché chinois) camion benne
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Shacman Delong X3000, Verbrenner (chinesischer Markt) Kipper
+  - **ES**: Referencia AutoBridge para compradores de exportación — Shacman Delong X3000, vehículo de combustión (mercado chino) camión volqueta
+  - **PT**: Referência AutoBridge para compradores de exportação — Shacman Delong X3000, veículo a combustão (mercado chinês) caminhão basculante
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Shacman Delong X3000, 中国市場仕様 内燃機関車 ダンプカー
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Shacman Delong X3000, 중국 시장 내연기관 차량 덤프트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Shacman Delong X3000, xe động cơ đốt trong (thị trường Trung Quốc) xe ben
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Shacman Delong X3000, รถเครื่องยนต์สันดาป (ตลาดจีน) รถดั๊มพ์
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Shacman Delong X3000, kendaraan mesin pembakaran (pasar Tiongkok) truk dump
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Shacman Delong X3000, مركبة بمحرك احتراق (سوق الصين) شاحنة قلابة
+  - **ZH**: AutoBridge 出口采购参考｜Shacman Delong X3000, 中国市场燃油车 自卸车
 
 ## Fuentes " Verificación "
 
 | Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |
 |---|---|---|---|---|---|---|
-| X3000 430 8 × 4 parámetros | 360che (卡车之家) | CN | https://product.m.360che.com/m355/88939_param.html | 2026-09-02 | CROSS_CHECKED | Anuncio, WP12.430, caja de cambios, pesos, cuerpo, ejes, neumáticos |
-| X3000 6 × 4 oficial del vertedero | Grupo SHACMAN (oficial) | CN/Export | https://www.shacman-group.com/products/shacman-x3000-6x4-dump-truck/ | 2026-09-02 | VERIFIED | 11.6 L 400 PS / 294 kW / 2000 N·m, China VI |
-| Comparación de X3000 multiversión | 360che (卡车之家) | CN | https://product.m.360che.com/m299/74922_param.html | 2026-09-02 | CROSS_CHECKED | 375–550 PS versions, China V/VI torque |
+| X3000 430 8 × 4 parámetros | (卡车之家) | CN | https://product.m.360che.com/m355/88939_param.html | 2026-09-02 | CROSS_CHECKED | Anuncio, WP12.430, caja de cambios, pesos, cuerpo, ejes, neumáticos | 360che
+| X3000 6 × 4 oficial del vertedero | Grupo SHACMAN (oficial) | CN/Export | https://www.shacman-group.com/products/shacman-x3000-6x4-dump-truck/ | 2026-09-02 | VERIFIED | 11.6 L 400 PS 294 kW 2000 N·m, China VI |
+| Comparación de X3000 multiversión | (卡车之家) | CN | https://product.m.360che.com/m299/74922_param.html | 2026-09-02 | CROSS_CHECKED | 375–550 PS versions, China V/VI torque | 360che
 | X3000 internacionales | Shacman International (official) | Exportación | https://www.shacmaninternational.cn/product-38.html | 2026-09-02 | VERIFIED | 80 km/h velocidad máxima, carril de ruedas, 385/400/430 opciones |
 
 | Fabricantes & catálogo de productos de vehículos de motor de carretera — sistema de consulta pública | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verificar el fabricante, modelo aprobado y homologación (公告) entrada de catálogo antes de ordenar o exportar |

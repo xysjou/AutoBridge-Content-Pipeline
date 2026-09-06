@@ -7,7 +7,7 @@
 - ** H1 Mua xe hơi Trung Quốc phải là một công trình xây dựng hệ thống RHD
 - ** Từ khoá bí mật **: Xe hơi Trung Quốc điều khiển các mô hình RHD xuất khẩu
 - **Secondary Search termss**: factory RHD Name Xe Trung Quốc Thái Lan, LHD đến hệ thống chuyển đổi RHD
-- **I nội bộ Link gợi ý*: //guides/chinese-charing-c tương thích-c; /guides/verify-china-car- replier /; /vehicles/hongqi-e hs9-2024/
+- **I nội bộ Link gợi ý*: tương thích-c; /guides/verify-china-car- replier /vehicles/hongqi-e hs9-2024/
 - **Image gợi ý**: buồng lái RHD (đặt bên phải) đấu với LHD; thế giới bản đồ RHD; nhà máy sản xuất dòng sản xuất RHD; cảnh báo rủi ro chuyển đổi
 - **LT gợi ý**: "Bể lái xe Trung Quốc tay phải," "Bản đồ xe cánh tay phải," "LHD chuyển đổi thành phần cảnh báo"
 
@@ -23,8 +23,8 @@ Dưới đây là một bức ảnh chụp các đề nghị của nhà máy RHD
 |---|---|---|---|
 | MG (SIC) | MG4, MG ZS, MG HS, MG5, MG opener (được phân phối bởi một nguồn xuất khẩu như một trong những công cụ truyền thông rộng nhất của Trung Quốc RHD-up) | Anh, Úc, Thái Lan, Nam Phi, Ấn Độ, Sri Lanka | Nguồn kỹ thuật — Xác minh |
 | DOD | Atto 3 (Tên xuất khẩu Yuan Plus), Dolphin, Seal | Úc, Anh, Thái Lan, Nhật Bản | Nguồn kỹ thuật — Xác minh |
-| GWM / Haval / ARA | Haval H6, Jolion, ASA 03, Tank 300 (phố được bầu) | Úc, Nam Phi, Thái Lan, Anh Quốc, Kenya | Nguồn kỹ thuật — Xác minh |
-| Geely / Zeekr | Geely EX5 báo cáo được thiết kế song song với đường LHD/RHD từ phát triển; một số mô hình RHD của Geely/Zeekr | Anh Quốc, Ireland, Úc, New Zealand, Malaysia, Hồng Kông | Nguồn kỹ thuật — Xác minh |
+| GWM Haval ARA | Haval H6, Jolion, ASA 03, Tank 300 (phố được bầu) | Úc, Nam Phi, Thái Lan, Anh Quốc, Kenya | Nguồn kỹ thuật — Xác minh |
+| Geely Zeekr | Geely EX5 báo cáo được thiết kế song song với đường LHD/RHD từ phát triển; một số mô hình RHD của Geely/Zeekr | Anh Quốc, Ireland, Úc, New Zealand, Malaysia, Hồng Kông | Nguồn kỹ thuật — Xác minh |
 | Hồng Kỳ | Động cơ đẩy mới của RHD qua 2026; Hong Kong experience centre reported from July 2026 | Anh, Úc, New Zealand, Singapore, Thái Lan, Malaysia, Indonesia | Phương tiện/grime — Xác minh |
 | Phong Phong làm việc | ** Xác nhận một cách chính thức**: entered Thailand March 2026 with RHD NEV SUV "FRIDAY"  and  V9 xây dựng cho thị trường RHD | Thái Lan | **Sự phản kháng* (Dong Phong)* ♪ |
 | Changan Quyan (như là NVO) | Q05 shown as NEVO Q05 at the March 2026 Bangkok motor show (Thai RHD prospect) | Thái Lan | Phương tiện — Xác nhận |
@@ -97,12 +97,12 @@ Những người bán xác nhận là có thể sử dụng RHD mà không phân
 | Mô hình RHD-ready/Zeekr | FOBV (Dịch vụ xuất khẩu) | Thị trường RHD | https://www.fobev.com/vehicles/rhd-ready/ | 2026-09-02 | ĐÃ_ ĐÃ | Geely EX5 song song LHD/RHD, Zeekr RHD (industry; xác minh) |
 | Phong Phong Tài vào Thái Lan (chính thức) | Nhóm lưu trữ lưu lượng | TH | https://www.dfmc.com.cn/news/company/news_20260311_1142.html | 2026-09-02 | VEII | Tháng Ba năm 2026 Mục nhập Thái Lan, ngày thứ Bảy/ V9 (VERFIED) |
 | Changan NVO Q05 Show ra mắt Bangkok | Tự động  车家号 (media) | TH | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/25092921 | 2026-09-02 | ĐÃ_ ĐÃ | OVO Q05 Triển vọng RHD Thái Lan (media; xác minh) |
-| Chiến lược của Hồng Kỳ RHD/ RHD | smzdm (gritor); AutoReport (ndry) | Thị trường RHD | https: //Ppost.m.smzdm.com/p/ aqrp0mkp/; https://m.autoreport.cn/guoji/20260829/19112676566.html | 2026-09-02 | ĐÃ_ ĐÃ | Hồng Kỳ RHD đẩy; ~ 35% phiên chợ toàn cầu tại RHD | https://post.m.smzdm.com/p/aqrp0mkp/
+| Chiến lược của Hồng Kỳ RHD/ RHD | smzdm (gritor); AutoReport (ndry) | Thị trường RHD | https: https://m.autoreport.cn/guoji/20260829/19112676566.html | 2026-09-02 | ĐÃ_ ĐÃ | Hồng Kỳ RHD đẩy; ~ 35% phiên chợ toàn cầu tại RHD | https://post.m.smzdm.com/p/aqrp0mkp/
 
 *BIDidence (Chính sách tự động Bridge: chỉ có sự khởi động của Dong Phong Phong là VERFIEED (chính thức của nhân viên sản xuất). Danh sách mẫu được xuất khẩu các hình ảnh/gli (SINGLE_SOURCE) mà thay đổi thường xuyên và phải được xác nhận trên các kênh phân phối chính thức trên VIN. Sau khi cải đạo thị trường, việc hợp pháp hóa không được xác nhận và được đánh dấu là mối nguy hiểm. ♪
 
 ## Xem lại tập tin
-- **Author / recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
+- **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
 - **Last xem lại**: 2026-09-05
 - ** Thị trường khảo sát chủ đề tài chính**: Thị trường RHD toàn cầu (được cung cấp từ Trung Quốc)
 - Phương pháp xác thực **: Một chính thức phóng cộng với hình ảnh công nghiệp, có sẵn cố ý trái để chính thức xác nhận

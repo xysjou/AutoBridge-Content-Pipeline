@@ -4,12 +4,12 @@
 - ** 道德操守办公室名称**: GAC Trumpchi E8 PHEV MPV Specs & Export Guide (7-Seat,). 中国)
 - ** 金属说明**: 中国市场特朗普奇E8新能源PHEV MPV — 2.0ATK引擎,134 kW引擎,25.57 kWh电池,150 kmCLTC,2+2+3座,与无充电光荣HEV有何区别.
 - ** 建议的URL**:/车辆/gac-trumpchi-e8/
-- ** H1 **: GAC Trumpchi E8 (英语). 菲夫: 谢天谢地,你觉得怎么样? 中国市场七席MPV 光谱和导出注释
+- ** H1 **: GAC Trumpchi E8 (英语). 菲夫: 中国市场七席MPV 光谱和导出注释
 - ** 基本关键词**:gac cruewchi e8 phev 光谱导出
 - ** 二级搜索术语**: 特朗普奇 E8 MPV 传祺 E8 电磁波 平时,E8 荣耀HEV差异 Trumpchi E8 7-seat,中文 PHEV MPV 导出
 - ** 内部链接建议**: 指南/前期装运-un3556-imdg-compliance/; 指南/出口-车辆-文件包装/; 车辆/切里-富尔温-t9/
 - **图像建议**:E8个侧面图 MPV;2+2+3个座位布局;充电端口对无端口HEV;第三行;V2L出口
-- ** ALT(美国) 建议**: "GAC特朗普奇E8 PHEV七座MPV" 中国谱;; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱谱; 中华谱分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分 "Trumpchi E8 2+2+3 seating  and  货物"
+- ** ALT(美国) 建议**: "GAC特朗普奇E8 PHEV七座MPV" 中国谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱; 中华谱谱; 中华谱分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分分 "Trumpchi E8 2+2+3 seating  and  货物"
 
 ## 买方背景:由座席和PHEV/HEV Split决定的MPV采购
 对于一个MPV出口商来说,问题首先是舱位几何和座椅结构,其次是动力列车。 E8号上有一个命名陷阱:**E8新能源是带有充电端口的插件混合体**,而**E8光荣号(荣耀)是无充电端口**的HEV. 它们属于不同的能量类型,必须单独引用。 本表记录了**中国市场PHEV(REFERENCE MANKET:CHINA)**;一个OEM配置页面被捕获.
@@ -18,7 +18,7 @@
 | 项目 | 川普奇E8 PHEV(中国参考文献). |
 |---|---|
 | 体质 | 中型MPV |
-| 长度/ 宽度/ 高度 | **4920 / 1900 / 1760 mm** |
+| 高度 | **4920 1900 1760 mm** |
 | 轮式基地 | **2930 mm** |
 | 席位布局 | ** 2+2+3,(a)  seven seats** |
 | 平台 | GAC全球平台模块架构(GPMA 3.0 L);高强度钢约75%(单源) |
@@ -31,7 +31,7 @@
 | 项目 | 细节 |
 |---|---|
 | 引擎 | 2.0ATK专用混合动力(4B20L1),103 kW/180 N·m(约140 PS只发动机) |
-| 前马达 | 134 kW / 300 N·m |
+| 前马达 | 134 kW 300 N·m |
 | 混合传输 | 2-speed DHT (韩语). |
 | 电池 | 特长锂,** 25.57 kWh ** |
 | 电距 | ** 150 km CLTC** 数据来自以下数据: |
@@ -50,11 +50,11 @@
 5. ** 出口文件包装清单的混合登记类别和文件**。
 
 ## 请求当前导出提示
-不公布出口价格. 中国指南价格为**国内,时间性参考,而非离岸价格/CIF**. 请求与**Destination Country = 数量 = PHEV 或 HEV Trim = LHD/RHD = 目标港 = Incoterm**.
+不公布出口价格. 中国指南价格为**国内,时间性参考,而非离岸价格/CIF**. 请求与**Destination Country 数量 PHEV 或 HEV Trim LHD/RHD 目标港 Incoterm**.
 
 ## 经常被问到的问题
 **特朗普奇E8型是插座式混合动力还是自充式混合动力?** E8新能源是带有充电端口的PHEV;E8光荣号是无充电的HEV——指定哪个.
-有多少个席位? 2+2+3型七座MPV在2930 mm轮式基地上.
+2+2+3型七座MPV在2930 mm轮式基地上.
 ** 电场是多少?**150 km CLTC,用于有文件证明的PHEV.
 ** E8型电力外置装置能用吗? ** 中国覆盖列表 3.3 kW V2L 和 5.5 kW V2V;在准确的OEM剪贴板上确认.
 
@@ -71,18 +71,18 @@
 - IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
 - 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
 - 按语言分列的低价竞标:
-  - **EN**: AutoBridge export-buyer reference — GAC Trumpchi E8, plug-in hybrid vehicle / MPV
-  - **FR**: Référence AutoBridge pour acheteurs export — GAC Trumpchi E8, véhicule hybride rechargeable / MPV
-  - **DE**: AutoBridge-Referenz für Exportkäufer — GAC Trumpchi E8, Plug-in-Hybridfahrzeug / Van (MPV)
-  - **ES**: Referencia AutoBridge para compradores de exportación — GAC Trumpchi E8, vehículo híbrido enchufable / monovolumen
-  - **PT**: Referência AutoBridge para compradores de exportação — GAC Trumpchi E8, veículo híbrido plug-in / minivan
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜GAC Trumpchi E8, プラグインハイブリッド車 / MPV
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜GAC Trumpchi E8, 플러그인 하이브리드 차량 / MPV
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — GAC Trumpchi E8, xe hybrid sạc ngoài / MPV
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — GAC Trumpchi E8, รถปลั๊กอินไฮบริด / รถ MPV
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — GAC Trumpchi E8, kendaraan hybrid plug-in / MPV
-  - **AR**: مرجع AutoBridge لمشتري التصدير — GAC Trumpchi E8, مركبة هجينة قابلة للشحن / سيارة عائلية
-  - **ZH**: AutoBridge 出口采购参考｜GAC Trumpchi E8, 插电混动车 / MPV
+  - **EN**: AutoBridge export-buyer reference — GAC Trumpchi E8, plug-in hybrid vehicle MPV
+  - **FR**: Référence AutoBridge pour acheteurs export — GAC Trumpchi E8, véhicule hybride rechargeable MPV
+  - **DE**: AutoBridge-Referenz für Exportkäufer — GAC Trumpchi E8, Plug-in-Hybridfahrzeug Van (MPV)
+  - **ES**: Referencia AutoBridge para compradores de exportación — GAC Trumpchi E8, vehículo híbrido enchufable monovolumen
+  - **PT**: Referência AutoBridge para compradores de exportação — GAC Trumpchi E8, veículo híbrido plug-in minivan
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜GAC Trumpchi E8, プラグインハイブリッド車 MPV
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜GAC Trumpchi E8, 플러그인 하이브리드 차량 MPV
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — GAC Trumpchi E8, xe hybrid sạc ngoài MPV
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — GAC Trumpchi E8, รถปลั๊กอินไฮบริด รถ MPV
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — GAC Trumpchi E8, kendaraan hybrid plug-in MPV
+  - **AR**: مرجع AutoBridge لمشتري التصدير — GAC Trumpchi E8, مركبة هجينة قابلة للشحن سيارة عائلية
+  - **ZH**: AutoBridge 出口采购参考｜GAC Trumpchi E8, 插电混动车 MPV
 
 ## 源码验证(V)
 | 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
@@ -94,15 +94,15 @@
 | 特朗普奇 E8 (英语). 新能源全线配置 | PCauto 配置 | 氯化萘 | https://car.pcauto.com.cn/360/s47354/r1/config.html 维基月球 | 2026-09-04 | 横跨 | 25.57 kWh,CLTC范围尺寸 |
 | 道路汽车制造商和产品目录——公共查询系统 | MIIT,中国工业和信息化部 | 氯化萘 | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html 维基月球 | 2026-09-05 | 实录 | 在订购或出口前核查制造商、核准的型号和同级(公告)目录条目 |
 | GB 16735-2019 维基百科中的相关条目: 维基百科 道路车辆——车辆识别编号(VIN)要求 | SAMR 国家标准全文平台 | 氯化萘 | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 维基月球 | 2026-09-05 | 实录 | 购买者VIN/名牌验证中使用的VIN结构和名牌数据字段 |
-| GB 7258 机动车安全技术条件(GB 7258-2017 电流;GB 7258-2026 适用2027-07-01). | SAMR, 国家市场监管管理局 | 氯化萘 | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 维基月球 | 2026-09-05 | 实录 | 中国境内车辆安全技术条件基线和现行/修订时间表 |
+| GB 7258 机动车安全技术条件(GB 7258-2017 电流;GB 7258-2026 适用2027-07-01). | SAMR, 国家市场监管管理局 | 氯化萘 | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 维基月球 | 2026-09-05 | 实录 | |
 | GB 38031牵引电池安全要求(GB 38031-2025;2026-07-01年新类型的应用强制规定). | SAMR 国家标准全文平台 | 氯化萘 | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 维基月球 | 2026-09-05 | 实录 | 电气化电动火车的强制牵引-电池安全要求基础 |
-| GB 18384 电力机车安全要求(GB 18384-2025). | SAMR 国家标准全文平台 | 氯化萘 | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C 维基月球 | 2026-09-05 | 实录 | 电动车辆/功能安全要求 |
+| GB 18384 电力机车安全要求(GB 18384-2025). | SAMR 国家标准全文平台 | 氯化萘 | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C 维基月球 | 2026-09-05 | 实录 | |
 | GB 18352.6-2016, 修正XG1-2026(中国-6轻型车辆污染物排放) | 生态和环境部 | 氯化萘 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html 维基月球 | 2026-09-05 | 实录 | 中国-6轻型车辆排放阶段和2026修正执行日期. |
 
 * 说明:OEM页被捕获;平台钢比和V2L/V2V数字为单源. PHEV和光荣HEV故意分离;仅限中国市场参考. * 报告迟交是因为需要翻译。
 
 ## 编辑评论
-- ** 授权人**:自动桥出口编辑组 / 方法,按我们的[编辑政 (/编辑政策/)
+- ** 授权人**:自动桥出口编辑组 方法,按我们的[编辑政 (/编辑政策/)
 - ** 上次审查**:2026-09-05
 - **参考市场**:中国,E8新能源 PHEV(中国市场参考文献;CLTC声明;荣耀HEV分离;不是全局谱)
 - ** 验证方法**: OEM 配置锁定; 能量类型分割执行; 标注单源项目

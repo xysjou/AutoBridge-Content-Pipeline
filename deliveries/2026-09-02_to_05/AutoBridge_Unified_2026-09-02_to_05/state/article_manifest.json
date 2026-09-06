@@ -2161,5 +2161,8 @@
  "second_repair_status": "WAITING_INDEPENDENT_REVIEW",
  "publish_approved": false,
  "unified_repair_on": "2026-09-05",
- "prepub_repair_on": "2026-09-06"
+ "prepub_repair_on": "2026-09-06",
+ "prepub_final_repair_on": "2026-09-06",
+ "prepub_final_repair_note": "80 articles in-place repaired; 960/960 full-body locales AI_QA PASS; source scope 80/80; image rights honestly 0/80; P0 leakage 0; awaiting independent Review AI; PUBLISH_APPROVED=false",
+ "human_reviewed": false
 }

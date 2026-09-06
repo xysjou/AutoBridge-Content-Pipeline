@@ -2,7 +2,7 @@
 
 ## 道德操守办公室 元数据
 - ** SIO标题**:Chery Arrizo 8 Specs & Export Buyer Guide(1.6TGDI,中国参考)
-- **Meta 描述**:中国市场 切里·阿里佐 8 — 1.6T 昆鹏 145 kW / 290 N·m, 7DCT, 4780 mm 尸体,这很重要的修饰区别,以及进口商在订购前核实的是什么.
+- **Meta 描述**:中国市场 切里·阿里佐 8 — 1.6T 昆鹏 145 kW 290 N·m, 7DCT, 4780 mm 尸体,这很重要的修饰区别,以及进口商在订购前核实的是什么.
 - ** 提议URL**:车辆/干燥-Arrizo-8/
 - ** H1 资源需求。 **:切里·阿里佐 8:中国市场规格和出口核查说明
 - ** 初级关键词**:chery arrizo 8 光谱导出
@@ -23,14 +23,14 @@
 | 传送 | 7-speed 湿双脂板 (7DCT) |
 | 驱动布局 | 前引擎前轮驱动器 |
 | 声称最高速度 | 205 km/h(单一来源;在精确的剪切表上确认) |
-| 燃料/排放说明 | 汽油;中-6级——确认目的地燃料等级和排放路线(中-6号本身不是海外类型批准). |
+| | 汽油;中-6级——确认目的地燃料等级和排放路线(中-6号本身不是海外类型批准). |
 
 对于一个ICE沙龙,采购决定集中于**发动机编码、变速箱类型和排放阶段**。 将所有三个校准都与VIN而不是小册子名称对照;见排放/燃料兼容性指南,说明为什么中国-6校准仍需要目的地同位化。
 
 ## 体积、尺寸和座位
-- 长度 / 宽度 / 高度: **4780 / 1843 / 1469 mm**
+- 长度 宽度 高度: **4780 1843 1469 mm**
 - 轮基地:** 2790 mm **
-- 门/座:** 4门/5个座椅**
+- 4门/5个座椅**
 2790 mm轮式车基是将车体置于标准紧凑轿车之上的车基;对照车体的模型代号交叉检查轮式车基,因此小一点的Arrizo不换车.
 
 ## 要单独持有的版本和三角差异
@@ -46,7 +46,7 @@
 5. ** 抽水模式**——一个4.78米的轿装集装箱或罗罗积;确认载荷计划数而不是估计数。
 
 ## 请求当前导出提示
-不公布静态出口价格. 中国导价(2024卓越 trim参考,约合人民币99元,900元)是**国内,时间性强的数字,仅是——它不是离岸价格或CIF报价,不得转换为**. 查询** 目的地港 / 目的地港 / 内部术语 / 数量 / 首选 Trim / LHD/RHD / 目的地港 / 内部术语 / 内容 / 内容 / 内容 / 内容 / 内容 / 内容 / 内容 / 内容 / 内容 / 内容 / 内容 / 内容 / 内容 / 内容 / 内容 / 内容 / 内容 内容 / 内容 内容 / 内容 内容 / 内容 内容 / 内容 内容 / 内容 / 内容 内容 / 内容 / 内容 内容 / 内容 内容 / 内容 内容 / 内容 / 内容 / 内容 内容 / 内容 / 内容 / 内容 内容 / 内容 / 内容 / 内容 / / 内容 内容 / 内容 内容 / 内容 内容 / / 内容 / / 内容 内容 / 内容 内容 / /
+不公布静态出口价格. 中国导价(2024卓越 trim参考,约合人民币99元,900元)是**国内,时间性强的数字,仅是——它不是离岸价格或CIF报价,不得转换为**. 查询** 目的地港 目的地港 内部术语 数量 首选 Trim LHD/RHD 目的地港 内部术语 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容 内容
 
 ## 经常被问到的问题
 ** Arrizo 8号是紧凑型还是中型沙龙型? ** 其长4780 mm,有一个2790 mm个轮基,坐落在紧凑场的上缘,靠近B-块尺寸——按测量的足迹,而不是营销标签来分类.
@@ -67,18 +67,18 @@
 - IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
 - 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
 - 按语言分列的低价竞标:
-  - **EN**: AutoBridge export-buyer reference — Chery Arrizo 8, petrol/diesel Chinese-market vehicle / sedan
-  - **FR**: Référence AutoBridge pour acheteurs export — Chery Arrizo 8, véhicule thermique (marché chinois) / berline
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Chery Arrizo 8, Verbrenner (chinesischer Markt) / Limousine
-  - **ES**: Referencia AutoBridge para compradores de exportación — Chery Arrizo 8, vehículo de combustión (mercado chino) / berlina
-  - **PT**: Referência AutoBridge para compradores de exportação — Chery Arrizo 8, veículo a combustão (mercado chinês) / sedã
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Chery Arrizo 8, 中国市場仕様 内燃機関車 / セダン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Chery Arrizo 8, 중국 시장 내연기관 차량 / 세단
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Chery Arrizo 8, xe động cơ đốt trong (thị trường Trung Quốc) / sedan
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Chery Arrizo 8, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถเก๋งซีดาน
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Chery Arrizo 8, kendaraan mesin pembakaran (pasar Tiongkok) / sedan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Chery Arrizo 8, مركبة بمحرك احتراق (سوق الصين) / سيدان
-  - **ZH**: AutoBridge 出口采购参考｜Chery Arrizo 8, 中国市场燃油车 / 轿车
+  - **EN**: AutoBridge export-buyer reference — Chery Arrizo 8, petrol/diesel Chinese-market vehicle sedan
+  - **FR**: Référence AutoBridge pour acheteurs export — Chery Arrizo 8, véhicule thermique (marché chinois) berline
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Chery Arrizo 8, Verbrenner (chinesischer Markt) Limousine
+  - **ES**: Referencia AutoBridge para compradores de exportación — Chery Arrizo 8, vehículo de combustión (mercado chino) berlina
+  - **PT**: Referência AutoBridge para compradores de exportação — Chery Arrizo 8, veículo a combustão (mercado chinês) sedã
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Chery Arrizo 8, 中国市場仕様 内燃機関車 セダン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Chery Arrizo 8, 중국 시장 내연기관 차량 세단
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Chery Arrizo 8, xe động cơ đốt trong (thị trường Trung Quốc) sedan
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Chery Arrizo 8, รถเครื่องยนต์สันดาป (ตลาดจีน) รถเก๋งซีดาน
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Chery Arrizo 8, kendaraan mesin pembakaran (pasar Tiongkok) sedan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Chery Arrizo 8, مركبة بمحرك احتراق (سوق الصين) سيدان
+  - **ZH**: AutoBridge 出口采购参考｜Chery Arrizo 8, 中国市场燃油车 轿车
 
 ## 源码验证(V)
 | 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
@@ -88,13 +88,13 @@
 | 切里·阿里佐 8 1.6T 动力火车分析 | 自动家居 Chejiahao | 氯化萘 | https://chejiahao.m.autohome.com.cn/info/19508971?isfrom=pc 维基月球 | 2026-09-04 | 横跨 | 145 kW/197 PS/290 N·m/7DCT 维基月球在线解说-维基百科中的相关条目: 维基月球在线解说-维基百科中的相关条目: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的相关条目: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的内容: 维基文库中相关的原始文献: 维基文库中相关的原始文献: 维基文库中相关的文献 |
 | 道路汽车制造商和产品目录——公共查询系统 | MIIT,中国工业和信息化部 | 氯化萘 | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html 维基月球 | 2026-09-05 | 实录 | 在订购或出口前核查制造商、核准的型号和同级(公告)目录条目 |
 | GB 16735-2019 维基百科中的相关条目: 维基百科 道路车辆——车辆识别编号(VIN)要求 | SAMR 国家标准全文平台 | 氯化萘 | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 维基月球 | 2026-09-05 | 实录 | 购买者VIN/名牌验证中使用的VIN结构和名牌数据字段 |
-| GB 7258 机动车安全技术条件(GB 7258-2017 电流;GB 7258-2026 适用2027-07-01). | SAMR, 国家市场监管管理局 | 氯化萘 | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 维基月球 | 2026-09-05 | 实录 | 中国境内车辆安全技术条件基线和现行/修订时间表 |
+| GB 7258 机动车安全技术条件(GB 7258-2017 电流;GB 7258-2026 适用2027-07-01). | SAMR, 国家市场监管管理局 | 氯化萘 | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 维基月球 | 2026-09-05 | 实录 | |
 | GB 18352.6-2016, 修正XG1-2026(中国-6轻型车辆污染物排放) | 生态和环境部 | 氯化萘 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html 维基月球 | 2026-09-05 | 实录 | 中国-6轻型车辆排放阶段和2026修正执行日期. |
 
 * 说明:没有捕获到OEM主谱表;数字是中国结构数据库的数值。 门,驱动器布局和最高速度均为单源. 国内价格是时间敏感的,从来不是出口报价。 * 报告迟交是因为需要翻译。
 
 ## 编辑评论
-- ** 授权人**:自动桥出口编辑组 / 方法,按我们的[编辑政 (/编辑政策/)
+- ** 授权人**:自动桥出口编辑组 方法,按我们的[编辑政 (/编辑政策/)
 - ** 上次审查**:2026-09-05
 - **参考市场**:中国2024/2025 Arrizo 8 1.6TGDI(中国市场参考规格;不是全球规格)
 - ** 核查方法**: 双数据库交叉检查;标出单一来源项目;没有目的地推断

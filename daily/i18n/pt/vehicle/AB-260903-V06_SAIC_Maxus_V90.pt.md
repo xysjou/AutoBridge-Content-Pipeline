@@ -17,8 +17,8 @@ O Xintu V90 é uma plataforma comercial ** de luz de corpo ** vendida como mini-
 | Item | V90 Referência da China |
 |---|---|
 | Motor | SAIC π ("PI") 2.0 L turbodiesel em linha- 4 |
-| Classes de potência | 110 kW (≈150 PS) / 130 kW (≈177 PS) |
-| Classes de torque | 375 N·m / 400–420 N·m |
+| Classes de potência | 110 kW (≈150 PS) 130 kW (≈177 PS) |
+| Classes de torque | 375 N·m 400–420 N·m |
 | Transmissão | 6-speed automático **ou** ZF 8-speed automático |
 | Disposição | Motor dianteiro, ** tração traseira-roda**; ** rodas traseiras duplas opcional** |
 | Combustível | Diesel — confirmar a tolerância à qualidade do combustível e a fase de emissão de destino |
@@ -26,15 +26,15 @@ O Xintu V90 é uma plataforma comercial ** de luz de corpo ** vendida como mini-
 Para um anúncio comercial a diesel, os compradores devem comparar o grau de binário e a escolha do eixo traseiro/roda (pneu único/dupla traseira) com a carga útil pretendida, não apenas a potência máxima. O ZF 8AT é a transmissão de nível superior; não assuma que cada grau o tenha.
 
 ## Chassi, base de roda e matriz corporal
-- Exemplo de corpo padrão L×W×H: **5498 / 2062 / 2535–2545 mm**; existem também corpos mais longos.
+- Exemplo de corpo padrão L×W×H: **5498 2062 2535–2545 mm**; existem também corpos mais longos.
 - Distância entre eixos: ** 3366 mm/3760 mm **.
-- **Sede da versão do passageiro: 9–15, estritamente de acordo com o modelo homologado (single-source; confirm on the anuncio / model code)**.
+- **Sede da versão do passageiro: 9–15, estritamente de acordo com o modelo homologado (single-source; confirm on the anuncio model code)**.
 - Altura do telhado, disposição da porta deslizante/rear, carga vs interior do passageiro e variantes chassi-cab mudar a categoria de uso e licenciamento da classe GVW.
 
 Como a distância entre eixos, o teto, os bancos e a escolha do eixo traseiro combinam-se em muitos códigos homologados, uma linha específica copiada de um V90 não pode ser aplicada a outro — peça a folha de construção para o código do modelo preciso antes de citar.
 
 ## Especificações comerciais para Reconciliar por Unidade
-1. ** Modelo exato / código de anúncio** → potência do motor, GVW, assentos, tipo de corpo.
+1. ** Modelo exato código de anúncio** → potência do motor, GVW, assentos, tipo de corpo.
 2. **Payload/GVW e eixo traseiro** (roda traseira única vs dupla) para a carga pretendida.
 3. ** Fase de emissão** (padrão diesel China) vs exigência de destino; tolerância à qualidade do combustível diesel.
 4. ** Categoria de licenciamento do tipo corpo** no destino (passenger minibus vs mercadorias van vs chassis para conversão).
@@ -68,35 +68,35 @@ Nenhum preço de exportação estático e nenhum MSRP China foram capturados nes
 - IMAGEM_RIGHTS_STATUS: FALHA (não é aceita nenhuma propriedade licenciada capturada; uma nota de placeholder ou “reter imagem antiga”)
 - BLOCK_REASON: Nenhuma imagem reutilizável pode ser segura: Wikimedia Commons/Flickr são inalcançáveis do ambiente de pesquisa, bibliotecas de estoque requerem acesso autenticado API/licença, e uma imagem de página web OEM NÃO é uma concessão de reutilização comercial; nenhuma foto de propriedade da AutoBridge existe. Mantive-me em vez de afirmar.
 - ALT por língua:
-  - **EN**: AutoBridge export-buyer reference — SAIC Maxus Xintu V90, petrol/diesel Chinese-market vehicle / cargo van
-  - **FR**: Référence AutoBridge pour acheteurs export — SAIC Maxus Xintu V90, véhicule thermique (marché chinois) / fourgon
-  - **DE**: AutoBridge-Referenz für Exportkäufer — SAIC Maxus Xintu V90, Verbrenner (chinesischer Markt) / Kastenwagen
-  - **ES**: Referencia AutoBridge para compradores de exportación — SAIC Maxus Xintu V90, vehículo de combustión (mercado chino) / furgoneta de carga
-  - **PT**: Referência AutoBridge para compradores de exportação — SAIC Maxus Xintu V90, veículo a combustão (mercado chinês) / furgão de carga
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜SAIC Maxus Xintu V90, 中国市場仕様 内燃機関車 / 貨物バン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜SAIC Maxus Xintu V90, 중국 시장 내연기관 차량 / 카고 밴
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — SAIC Maxus Xintu V90, xe động cơ đốt trong (thị trường Trung Quốc) / xe van chở hàng
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — SAIC Maxus Xintu V90, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถตู้บรรทุก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — SAIC Maxus Xintu V90, kendaraan mesin pembakaran (pasar Tiongkok) / van kargo
-  - **AR**: مرجع AutoBridge لمشتري التصدير — SAIC Maxus Xintu V90, مركبة بمحرك احتراق (سوق الصين) / شاحنة فان للبضائع
-  - **ZH**: AutoBridge 出口采购参考｜SAIC Maxus Xintu V90, 中国市场燃油车 / 厢式货车
+  - **EN**: AutoBridge export-buyer reference — SAIC Maxus Xintu V90, petrol/diesel Chinese-market vehicle cargo van
+  - **FR**: Référence AutoBridge pour acheteurs export — SAIC Maxus Xintu V90, véhicule thermique (marché chinois) fourgon
+  - **DE**: AutoBridge-Referenz für Exportkäufer — SAIC Maxus Xintu V90, Verbrenner (chinesischer Markt) Kastenwagen
+  - **ES**: Referencia AutoBridge para compradores de exportación — SAIC Maxus Xintu V90, vehículo de combustión (mercado chino) furgoneta de carga
+  - **PT**: Referência AutoBridge para compradores de exportação — SAIC Maxus Xintu V90, veículo a combustão (mercado chinês) furgão de carga
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜SAIC Maxus Xintu V90, 中国市場仕様 内燃機関車 貨物バン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜SAIC Maxus Xintu V90, 중국 시장 내연기관 차량 카고 밴
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — SAIC Maxus Xintu V90, xe động cơ đốt trong (thị trường Trung Quốc) xe van chở hàng
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — SAIC Maxus Xintu V90, รถเครื่องยนต์สันดาป (ตลาดจีน) รถตู้บรรทุก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — SAIC Maxus Xintu V90, kendaraan mesin pembakaran (pasar Tiongkok) van kargo
+  - **AR**: مرجع AutoBridge لمشتري التصدير — SAIC Maxus Xintu V90, مركبة بمحرك احتراق (سوق الصين) شاحنة فان للبضائع
+  - **ZH**: AutoBridge 出口采购参考｜SAIC Maxus Xintu V90, 中国市场燃油车 厢式货车
 
 ## Fontes e Verificação
 | Título do código fonte | Organização | Mercado | URL | Verificado | Confiança | Factos corroborados |
 |---|---|---|---|---|---|---|
 | Configuração do Xintu V90 (5498 corpo) | Sohu Auto base de dados | NC | https://db.m.auto.sohu.com/model_5902/config?sliding=1&selectedTrimId=173112 | 2026-09-03 | CROSS_CHECKED | Classe, dimensões do corpo |
 | SAIC π 2.0T linhagem de potência diesel | Enciclopédia PCauto | NC | http://m.pcauto.com.cn/baike/806544/1579332/ | 2026-09-03 | CROSS_CHECKED | 110/130 kW, 375 N·m, RWD, roda traseira dupla |
-| V90 2025 130 kW / 420 N·m | 16888 Automático | NC | https://m.16888.com/news/2026/0728/24803230.html | 2026-09-03 | CROSS_CHECKED | 130 kW / 420 N·m, ZF 8AT, 9–15 lugares (lugares de fonte única) |
+| V90 2025 130 kW 420 N·m | Automático | NC | https://m.16888.com/news/2026/0728/24803230.html | 2026-09-03 | CROSS_CHECKED | 130 kW 420 N·m, ZF 8AT, 9–15 lugares (lugares de fonte única) | 16888
 | Parâmetros Xintu V90 2024 | Banco de dados Sina Auto | NC | http://db.auto.sina.cn/car/71018/ | 2026-09-03 | CROSS_CHECKED | 5498/2062/2545, distâncias entre eixos 3366/3760 |
 | Fabricantes de veículos automóveis e catálogo de produtos — sistema público de consulta | MIIT, China Ministério da Indústria e Tecnologia da Informação | NC | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFICADO | Verifique o fabricante, modelo aprovado e homologação (公告) entrada do catálogo antes de encomendar ou exportar |
 | GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SARR, Administração do Estado para a regulação do mercado | NC | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFICADO | Condições técnicas de segurança do veículo em linha de base na China e o calendário atual/revisão |
 | GB 18352.6-2016 com a alteração XG1-2026 (China- 6 emissões poluentes de veículos leves) | Ministério da Ecologia e do Ambiente (MEE) | NC | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFICADO | China- Fase de emissão de veículos leves de 6  and  as datas de aplicação da alteração 2026 |
-| GB 19147 diesel automóvel padrão nacional (base baixa-sulfur) | Plataforma SAMR de texto completo | NC | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFICADO | Nível de combustível diesel e base de enxofre para combinar motor / projeto de emissão no exterior |
+| GB 19147 diesel automóvel padrão nacional (base baixa-sulfur) | Plataforma SAMR de texto completo | NC | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFICADO | Nível de combustível diesel e base de enxofre para combinar motor projeto de emissão no exterior |
 
 * Nota de confiança: nenhuma folha de especificações primárias SAIC Maxus foi capturada; os valores são cruzados bancos de dados chineses, contagem de assentos é de fonte única e ligado ao código de modelo homologado. Nenhum preço estava disponível e nenhum é afirmado. A aprovação do destino é específica da configuração. *
 
 ## Revisão Editorial
-- **Autor / revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)
+- **Autor revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)
 - ** Última revisão**: 2026-09-05
 - ** Mercado de referência**: China, plataforma Xintu V90 (referência do mercado chinês; configuração específica)
 - ** Método de verificação**: Multi-database cross-check; configuração-matriz lógica; assentos de fonte única sinalizados

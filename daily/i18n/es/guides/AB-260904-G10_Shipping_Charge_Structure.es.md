@@ -27,8 +27,8 @@ Una tarifa de flete de titular gana reservas y pierde dinero en destino. Los exp
 **AMS, ACI, ENS** y tasas similares de presentación automáticas generalmente surgen **sólo cuando el enrutamiento pasa por la región de cumplimiento obligatorio correspondiente** (por ejemplo, los regímenes de avanzada de Estados Unidos/Canadá/UE). Si se cobra una cuota depende del **lane y del transportista**, y se resuelve en la factura de ese envío. Esta es la guía específica para viajes**, no un calendario universal de carga internacional: un carril que nunca toque esos regímenes no debe llevar la cuota, y la guía afirma que no tiene arancel fijo para él.
 
 ## Origen vs Destino — Donde Controversias Escóndete.
-- Dividir cada línea en **origentes** (antes de / en carga) y ** cargos de descriminación** (en descarga/colección). Los compradores de vehículos se sorprenden más a menudo por los honorarios de destino THC, DDOC y de entrega que no esperaban.
-- Pregunte al reenvío a **nombre cada línea y su unidad de facturación** (por contenedor / por factura / por vehículo), por lo que dos cotizaciones pueden compararse en la misma base.
+- Dividir cada línea en **origentes** (antes de en carga) y ** cargos de descriminación** (en descarga/colección). Los compradores de vehículos se sorprenden más a menudo por los honorarios de destino THC, DDOC y de entrega que no esperaban.
+- Pregunte al reenvío a **nombre cada línea y su unidad de facturación** (por contenedor por factura por vehículo), por lo que dos cotizaciones pueden compararse en la misma base.
 - Vea los recargos ** no llamados** y "cargas locales" sin unidad, son donde se recupera una baja tasa de encabezado.
 
 ## Un método de la calificación-audito (sin cifras)
@@ -80,10 +80,10 @@ Una tarifa de flete de titular gana reservas y pierde dinero en destino. Los exp
 | Desglose de las exportaciones de FCL | NetEase | INTL | https://www.163.com/dy/article/L3DE4MEL0556E2ZO.html | 2026-09-04 | CROSS_CHECKED | O/F, THC, DOC, BAF, método de auditoría |
 | Definición de THC | Sina Transporte financiero | INTL | https://finance.sina.com.cn/roll/2026-07-31/doc-iniksair4574469.shtml.md | 2026-09-04 | CROSS_CHECKED | Cobertura de manipulación terminal |
 | Componentes de carga de exportación de océano por vía marítima | Baike | INTL | https://m.baike.com/wiki/%E6%B5%B7%E8%BF%90%E5%87%BA%E5%8F%A3/7570444 | 2026-09-04 | CROSS_CHECKED | Taxonomía de carga, lógica de ruta AMS/ACI/ENS |
-| Gastos comunes de FOB (THC/booking/trucking) | 11467 | CN | https://m.11467.com/product/d24491409.htm | 2026-09-04 | SINGLE_SOURCE | Carga de nombres |
+| Gastos comunes de FOB (THC/booking/trucking) | | CN | https://m.11467.com/product/d24491409.htm | 2026-09-04 | SINGLE_SOURCE | Carga de nombres | 11467
 *Ámbito de evaluación: estructura de cargas cruzada de fuentes industriales (no hay fuente primaria arancelaria oficial); AMS/ACI/ENS enmarcada como guía editorial específica para la ruta; todas las cantidades deliberadamente excluidas como sensibles al tiempo. *
 
-| Incoterms 2020 rules (who arregla/pays transport at each term) | Cámara de Comercio Internacional (CCI) | INT'L | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/ | 2026-09-05 | VERIFIED | Que fletes / cargas corresponden al comprador vs vendedor por Incoterm |
+| Incoterms 2020 rules (who arregla/pays transport at each term) | Cámara de Comercio Internacional (CCI) | INT'L | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/ | 2026-09-05 | VERIFIED | Que fletes cargas corresponden al comprador vs vendedor por Incoterm |
 | Prácticas de carga y categorías de carga | FIATA | INT'L | https://fiata.org/ | 2026-09-05 | VERIFIED | Referencia de presupuesto/estructura de gastos de los interesados |
 | Contexto de envío y recarga de líneas | World Shipping Council | INT'L | https://www.worldshipping.org/ | 2026-09-05 | VERIFIED | Contexto industrial para fletes oceánicos y gastos auxiliares |
 | China International Freight Forwarders Association | CIFA | CN/INT'L | http://www.cifa.org.cn/ | 2026-09-05 | VERIFIED | China-side reenvío de la industria y práctica de cotizaciones |

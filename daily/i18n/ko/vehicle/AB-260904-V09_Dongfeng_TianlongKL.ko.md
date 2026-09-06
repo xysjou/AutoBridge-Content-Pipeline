@@ -26,31 +26,31 @@
 343 kW과 337 kW 숫자는 ** 다른 기초에 대한 정격 대 net** 힘입니다; 그들 모두는 하나 선택 보다는 오히려 그들의 상표를 둘 다. 토크 플래타우 (1100–1600 rpm)은 등급을 운반하는 데 중요한 요소입니다.
 
 ## 기어 박스, 차축 및 기차 무게
-- ** 기어 박스 **: Dongfeng ** DT1422 / DT14 14-speed ** (볼보 기술 선량), ** AMT 옵션 ** - 주문시 상태 매뉴얼 대 AMT.
+- ** 기어 박스 **: Dongfeng ** DT1422 DT14 14-speed ** (볼보 기술 선량), ** AMT 옵션 ** - 주문시 상태 매뉴얼 대 AMT.
 - ** 드라이브**: 6x4 트랙터 헤드; 후방 차축 비율은 경로 (고속도 순항 대 중급)에 선택되어야 합니다.
 - ** GVWR (단독자) **: ** 25 t **; **curb weight about 8.8 t**.
 - ** 기차의 Gross 조합 무게 (GCW) **: ** 40 t ** - 트레일러 및 페이로드 일치를위한 디자인 인물.
 
 ## Variant Boundary — 라인업을 혼합하지 마십시오
 - **이 페이지: DDi11E465-60 (465 PS).**
-- The wider KL range also offers **430 / 520 / 560 PS** engines  and  ** 천연 가스 (LNG / CNG) 버전 **; 이 다른 토크, 연료 시스템 및 섀시 사양을 가진 분리되는 파워 트레인입니다. 465 디젤의 가스 가변 수치를 인용하는 것은 오류입니다.
+- The wider KL range also offers **430 520 560 PS** engines  and  ** 천연 가스 (LNG CNG) 버전 **; 이 다른 토크, 연료 시스템 및 섀시 사양을 가진 분리되는 파워 트레인입니다. 465 디젤의 가스 가변 수치를 인용하는 것은 오류입니다.
 - 차축 비율, 변속기 (manual/AMT)와 택시 (high/low 지붕, 슬리퍼)는 주문 선택되고 전달된 명세를 바꾸고 있습니다.
 
 ## 섀시 및 택시 수출 검사
 1. ** Power base** - 레이블이 있는 343 kW과 net 337 kW을 기록합니다. 465 PS 엔진 코드를 VIN에 일치합니다.
 2. **송금** - 14-speed 매뉴얼 대 AMT; 임계형 지형의 후방 액면.
 3. **GCW 경기** - 트레일러 및 40 t 열차 등급 내부의 페이로드; 다섯 바퀴 높이와 킹핀 호환성.
-4. ** 디젤 연료 sulphur / 후처리 ** 배출 연료 가이드 당; 중국- 6 디젤 캘리브레이션은 해외 균질화가 아닙니다.
+4. ** 디젤 연료 sulphur 후처리 ** 배출 연료 가이드 당; 중국- 6 디젤 캘리브레이션은 해외 균질화가 아닙니다.
 5. **HS 분류** - 트랙터는 87.04 상품 차량과 8716 트레일러와 구별되는 87.01 (HS 코드 가이드 당)의 밑에 떨어졌습니다; 트레일러는 따로따로 분류됩니다.
 
 ## 현재 수출 견적 요청
-수출 가격은 발행되지 않습니다. ** 파생 국가 · 수량 · 엔진 힘 (465) · 수동 / AMT와 문의 · 차축 비율 · LHD/RHD · 목적지 항구 · Incoterm **.
+수출 가격은 발행되지 않습니다. ** 파생 국가 · 수량 · 엔진 힘 (465) · 수동 AMT와 문의 · 차축 비율 · LHD/RHD · 목적지 항구 · Incoterm **.
 
 ## 자주 묻는 질문
 **왜 두 가지 힘 그림이 있습니다 (343 및 337 kW)?** 343 kW는 정격 출력 및 337 kW 순 힘 - 동일한 465 PS 엔진을 위한 다른 측정 기초입니다.
-**차중량은 무엇입니까?** 문서화 된 트랙터는 40 t 총 조합 무게에 대한 평가, 25 t 트랙터 자체에 대한 GVWR.
-** 수동 또는 자동? ** 14-speed DT14 기어 박스는 수동 및 AMT 형태로 제공됩니다.
-** 520/560 및 가스 버전은 동일한 트럭입니까? ** 그들은 KL 택시 가족을 공유하지만 다른 엔진 / 연료 시스템을 사용 - 별도의 사양으로 유지.
+**차중량은 문서화 된 트랙터는 40 t 총 조합 무게에 대한 평가, 25 t 트랙터 자체에 대한 GVWR.
+** 수동 또는 ** 14-speed DT14 기어 박스는 수동 및 AMT 형태로 제공됩니다.
+** 520/560 및 가스 버전은 동일한 ** 그들은 KL 택시 가족을 공유하지만 다른 엔진 연료 시스템을 사용 - 별도의 사양으로 유지.
 
 ## 이미지 기록
 - IMAGE_ASSET_PATH: 저장소에 보안되지 않음
@@ -60,34 +60,34 @@
 - permission_HOLDER: 확인되지 않은
 - 라이센스_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: 정확한 모델/버전 (또는 가이드 항목)과 참고 시장과 일치해야 합니다.
-- IMAGE_SCOPE_NOTE: 정확한 모델 가족/토닉에만 일치; 특정 트림/모형, 실제 VIN, 인-인 검사 또는 실제 거래에 실패하지 않아야 합니다.
+- MODEL_TOPIC_MATCH: 정확한 (또는 가이드 항목)과 참고 시장과 일치해야 합니다.
+- IMAGE_SCOPE_NOTE: 정확한 모델 일치; 특정 실제 VIN, 인-인 검사 또는 실제 거래에 실패하지 않아야 합니다.
 - IMAGE_RIGHTS_STATUS: FAIL (허가 된 자산 없음; placeholder 또는 "이전 이미지 유지"주의 허용되지 않음)
 - BLOCK_REASON: 재사용 가능한 이미지는 보안되지 않았습니다. Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 없으며, 주식 라이브러리는 인증된 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 존재하지 않습니다. Kept FAIL 오히려 asserted 보다는.
 - 언어 별 ALT:
-  - **EN**: AutoBridge export-buyer reference — Dongfeng Tianlong KL, petrol/diesel Chinese-market vehicle / heavy tractor truck
-  - **FR**: Référence AutoBridge pour acheteurs export — Dongfeng Tianlong KL, véhicule thermique (marché chinois) / tracteur routier lourd
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Dongfeng Tianlong KL, Verbrenner (chinesischer Markt) / schwere Sattelzugmaschine
-  - **ES**: Referencia AutoBridge para compradores de exportación — Dongfeng Tianlong KL, vehículo de combustión (mercado chino) / cabeza tractora pesada
-  - **PT**: Referência AutoBridge para compradores de exportação — Dongfeng Tianlong KL, veículo a combustão (mercado chinês) / cavalo mecânico pesado
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Dongfeng Tianlong KL, 中国市場仕様 内燃機関車 / 大型トラクターヘッド
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Dongfeng Tianlong KL, 중국 시장 내연기관 차량 / 대형 트랙터 트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Dongfeng Tianlong KL, xe động cơ đốt trong (thị trường Trung Quốc) / đầu kéo hạng nặng
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Dongfeng Tianlong KL, รถเครื่องยนต์สันดาป (ตลาดจีน) / หัวลากบรรทุกหนัก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Dongfeng Tianlong KL, kendaraan mesin pembakaran (pasar Tiongkok) / truk traktor berat
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Dongfeng Tianlong KL, مركبة بمحرك احتراق (سوق الصين) / رأس قاطرة ثقيل
-  - **ZH**: AutoBridge 出口采购参考｜Dongfeng Tianlong KL, 中国市场燃油车 / 重型牵引车
+  - **EN**: AutoBridge export-buyer reference — Dongfeng Tianlong KL, petrol/diesel Chinese-market vehicle heavy tractor truck
+  - **FR**: Référence AutoBridge pour acheteurs export — Dongfeng Tianlong KL, véhicule thermique (marché chinois) tracteur routier lourd
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Dongfeng Tianlong KL, Verbrenner (chinesischer Markt) schwere Sattelzugmaschine
+  - **ES**: Referencia AutoBridge para compradores de exportación — Dongfeng Tianlong KL, vehículo de combustión (mercado chino) cabeza tractora pesada
+  - **PT**: Referência AutoBridge para compradores de exportação — Dongfeng Tianlong KL, veículo a combustão (mercado chinês) cavalo mecânico pesado
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Dongfeng Tianlong KL, 中国市場仕様 内燃機関車 大型トラクターヘッド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Dongfeng Tianlong KL, 중국 시장 내연기관 차량 대형 트랙터 트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Dongfeng Tianlong KL, xe động cơ đốt trong (thị trường Trung Quốc) đầu kéo hạng nặng
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Dongfeng Tianlong KL, รถเครื่องยนต์สันดาป (ตลาดจีน) หัวลากบรรทุกหนัก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Dongfeng Tianlong KL, kendaraan mesin pembakaran (pasar Tiongkok) truk traktor berat
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Dongfeng Tianlong KL, مركبة بمحرك احتراق (سوق الصين) رأس قاطرة ثقيل
+  - **ZH**: AutoBridge 出口采购参考｜Dongfeng Tianlong KL, 中国市场燃油车 重型牵引车
 
 ## 소스 및 검증
 | 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
 |---|---|---|---|---|---|---|
-| Tianlong KL465년 Longqing powertrain & 질 | 오토홈·장자오 | 담당자: Mr. wang | https://chejiahao.m.autohome.com.cn/info/23626143 | 2026-09-04 | CROSS_체크 | DDi11의 힘/토크, 14-speed |
+| Tianlong KL465년 Longqing powertrain & 질 | 오토홈·장자오 | 담당자: Mr. wang | https://chejiahao.m.autohome.com.cn/info/23626143 | 2026-09-04 | CROSS_체크 | DDi11의 14-speed |
 | Tianlong KL 465 AMT 모수 | Tencent 뉴스 | 담당자: Mr. wang | http://news.qq.com/rain/a/20231120A0697W00 을 | 2026-09-04 | SINGLE_SOURCE(싱글) | AMT 옵션, 토크 밴드 |
 | Tianlong KL 465 포좌 & 변속기 | 360che (토피아노) | 담당자: Mr. wang | http://m.toutiao.com/group/7342432889952895507/ | 2026-09-04 | CROSS_체크 | DT1422, GVWR의 커브, GCW |
 | Dongfeng Tianlong 힘 (자전거를 교차하는 도둑질) | PCauto 백과 사전 | 담당자: Mr. wang | http://m.pcauto.com.cn/baike/1124005/2143996/ 경우 | 2026-09-04 | SINGLE_SOURCE(싱글) | 힘 배합 십자가 체크 |
 | 도로 모터 차량 제조 업체 및 제품 카탈로그 - Public 쿼리 시스템 | MIIT, 중국 산업 및 정보 기술부 | 담당자: Mr. wang | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html 호출합니다. | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 제조업체, 승인 된 모델 및 균질화 (公告) 주문 또는 수출 전에 카탈로그 항목을 검증 |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, 시장 규제에 대한 국가 관리 | 담당자: Mr. wang | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 대한 자세한 정보 | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | Baseline in-China 차량 안전 기술 조건 및 현재/위치 타임라인 |
-| GB 17691-2018 중장비 디젤 차량 오염 배출 (중국 - VI) | 환경부 장관 (MEE) | 담당자: Mr. wang | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 중국-VI 압축-ignition (무거운 디젤) 트럭/코시용 배출 단계 |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, 시장 규제에 대한 국가 관리 | 담당자: Mr. wang | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 대한 자세한 정보 | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | Baseline in-China 차량 안전 기술 조건 및 타임라인 |
+| GB 17691-2018 중장비 디젤 차량 오염 배출 (중국 - VI) | 환경부 장관 (MEE) | 담당자: Mr. wang | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 중국-VI 압축-ignition (무거운 디젤) 배출 단계 |
 | GB 19147 자동차 디젤 연료 국가 표준 (낮은 - sulphur 기초) | SAMR 국가 표준 전체 텍스트 플랫폼 | 담당자: Mr. wang | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A 엽니다. | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 디젤 연료 등급 및 sulphur는 엔진/emission 디자인 해외 경기에 기초를 둡니다 |
 
 *Confidence 참고: no OEM primary brochure; 거래 크로스 체크. 정격/net 힘 둘 다 레테르를 붙였습니다; 다른 힘 및 가스 버전 제외. 중국 시장 참고; MIIT 발표에 대해 확인. ****************************************************************************************************************************************************************************************************************************************************************
@@ -95,7 +95,7 @@
 ## 편집 리뷰
 - **Author**: AutoBridge 수출 편집팀 · 우리 당 방법 [편집 정책](/editorial-policy/)
 - **마지막 검토**: 2026-09-05
-- **참고 시장 **: 중국, Tianlong KL DDi11E465-60 트랙터 (중국 시장 참고; 정격 / 그물 라벨; 글로벌 사양이 아닙니다)
+- **참고 시장 **: 중국, Tianlong KL DDi11E465-60 트랙터 (중국 시장 참고; 정격 그물 라벨; 글로벌 사양이 아닙니다)
 - **Verification 방법 **: 무역 자료 기초 십자가 검사; 힘 기초는 분리했습니다; 분리되는 변종 선
 - **Transparency**: AI-assisted 초안 사용. 이 문서는 책상 연구 및 자동화 QA에 근거합니다. 명시적으로 문서화되지 않는 한, 첫 번째 손 테스트가 주장되지 않습니다. transacting 전에 시간 과민하고 대상 특정 요구 사항을 확인하십시오.
 - **Editorial 표준 **: 위에 나열된 소스에서 연구 및 작성 (책상 연구; 첫 번째 직접 운전, 눈물 또는 수입은 주장). 소스 신뢰는 행당 표시됩니다. 독립적으로 확인 할 수없는 점은 사실로 asserted보다 검증 항목으로 표시됩니다.

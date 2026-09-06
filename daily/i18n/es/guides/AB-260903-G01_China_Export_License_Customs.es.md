@@ -15,9 +15,9 @@ La mayoría de los primeros envíos fallidos en la parte **China**, no el destin
 
 ## Paso 1 — Confirme qué regimiento de licencia su vehículo cae bajo
 China no utiliza un "permiso de exportación de automóviles". Destinguir las pistas:
-- ** Coches de pasajeros de nueva energía / VV:** vehículos propulsados únicamente por un motor de conducción y por un VIN (referencia HS 8703801090) están bajo **Administración de licencias de exportación** supervisados conjuntamente por MOFCOM, MIIT, GAC y SAMR (TIME_SENSITIVE) confirman el aviso actual y el código HS exacto contra el calendario arancelario del año.
+- ** Coches de pasajeros de nueva energía VV:** vehículos propulsados únicamente por un motor de conducción y por un VIN (referencia HS 8703801090) están bajo **Administración de licencias de exportación** supervisados conjuntamente por MOFCOM, MIIT, GAC y SAMR (TIME_SENSITIVE) confirman el aviso actual y el código HS exacto contra el calendario arancelario del año.
 - ** Vehículos usados:** el Estado opera un régimen de exportación ** administrado por MOFCOM**, y los detalles de la licencia deben coincidir con el certificado de registro de vehículos motorizados (VERIFIED, aviso de cuatro entradas).
-- ** Nuevos vehículos / motocicletas convencionales:** manejados a través de la presentación anual de licencias de exportación** descritos a continuación.
+- ** Nuevos vehículos motocicletas convencionales:** manejados a través de la presentación anual de licencias de exportación** descritos a continuación.
 El código de mercancía exacto y su condición reglamentaria deben confirmarse contra el actual Arancel de Exportación de Importación y el último anuncio de MOFCOM — no reutilizar la suposición de HS del año pasado.
 
 ## Paso 2 - La presentación anual de licencias (calificación antes del volumen)
@@ -43,7 +43,7 @@ Los nombres, las VIN, las cantidades, los valores y los códigos HS deben estar 
 MIIT Orden No 50 divide a fabricantes y productos de vehículos de motor de carretera en seis categorías de admisión: vehículos de pasajeros, vehículos de mercancías, autobuses, vehículos de uso especial, motocicletas y remolques**. Por qué un exportador se preocupa: el alcance de admisión del fabricante determina qué productos pueden ser declarados legítimamente. Para vehículos especiales/beneficios, confirme la admisión de chasis base **y** la calificación de la entidad de superestructura.
 
 ## Lo que esta guía le recomienda comprobar antes de reservar
-- El régimen de **licencia y el código actual HS** para el vehículo exacto (BEV / utilizado / convencional / especial).
+- El régimen de **licencia y el código actual HS** para el vehículo exacto (BEV utilizado convencional especial).
 - **Estado anual de presentación** y, para los beneficios, las pruebas de autosuficiencia/declaración.
 - Para unidades de uso cercano, la confirmación de post-venta **≤ 180-day OEM** antes de aplicar.
 - Un pase de consistencia entre documentos** (VIN, valor, HS, partes) antes de la declaración.
@@ -87,7 +87,7 @@ MIIT Orden No 50 divide a fabricantes y productos de vehículos de motor de carr
 |---|---|---|---|---|---|---|
 | 2026 Automóviles & Motocicleta Aviso de presentación de licencias de exportación | Ministerio de Comercio (MOFCOM) | CN (parte exportadora) | https://www.mofcom.gov.cn/zcfb/zc/art/2025/art_1b1313c9c6da4a56874364b39e39c57d.html | 2026-09-03 | VERIFIED | Presentación anual; pruebas de rendimiento de los beneficios |
 | Aviso sobre el fortalecimiento de la gestión de las exportaciones de vehículos usados | Biblioteca de políticas del Consejo de Estado (cuatro ministerios) | CN (parte exportadora) | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | VERIFIED | Régimen de licencia de autos usados; 180-day regla de 2026-01-01 |
-| BEV, gestión de la exportación de automóviles | National Business Daily / Toutiao | CN (parte exportadora) | http://m.toutiao.com/group/7554336546682323496/ | 2026-09-03 | TIEMPO_SENSITIVE | Carril de licencia BEV, referencia HS |
+| BEV, gestión de la exportación de automóviles | National Business Daily Toutiao | CN (parte exportadora) | http://m.toutiao.com/group/7554336546682323496/ | 2026-09-03 | TIEMPO_SENSITIVE | Carril de licencia BEV, referencia HS |
 | MIIT Order No. 50 — Fabricante " Producto Admission | Ministry of Industry and IT | CN (parte exportadora) | https://www.miit.gov.cn/zcfg/jdcjxl/art/2018/art_72a4ad7ff2304a8c83199eac43f276fe.html | 2026-09-03 | VERIFIED | Seis categorías de admisión; base de documentos |
 * Nota de la encuesta: las fuentes oficiales cubren aquí sólo el lado de exportación de China. Los códigos HS, los detalles de la cooperación con el sistema y cualquier revisión anual deben confirmarse contra los avisos arancelarios y MOFCOM actuales; las reglas de destino-sex están fuera de alcance. *
 

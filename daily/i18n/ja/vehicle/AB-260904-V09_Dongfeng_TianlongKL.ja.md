@@ -26,14 +26,14 @@
 343 kW と 337 kW の数字は、異なるベースで許容対正**の電力です。 ラベルを一つではなく、ラベルを両方提示します。 Torque plateau (1100–1600 rpm) is what matters for hauling gradeability.
 
 ## ギアボックス、車軸、車両重量
-- **Gearbox**: Dongfeng ** DT1422 / DT14 14-speed ** (ボルボテクノロジーのリネン)、**AMTオプション** - 注文に関するAMTの取扱説明書。
+- **Gearbox**: Dongfeng ** DT1422 DT14 14-speed ** (ボルボテクノロジーのリネン)、**AMTオプション** - 注文に関するAMTの取扱説明書。
 - **ドライブ**:6x4トラクターヘッド; リアアクスル比は、ルート(ハイウェイクルージング対ヘビーグレード)のために選択する必要があります。
 - **GVWR (トラクター単独)**: ** 25 t **; ** 車両重量 約8.8 t...
 - **列車のGrossの組み合わせ重量(GCW)**: ** 40 t ** — トレーラーとペイロードをマッチングするための設計図。
 
 ## 変種境界 — 線上をブレンドしないでください
 - **このページは DDi11E465-60 (465 PS) です。**
-- KL の範囲は、** 430 / 520 / 560 PS **エンジンと**天然ガス(LNG / CNG)バージョンも提供しています。これらは、異なるトルク、燃料システム、およびシャーシ仕様の別のパワートレインです。 465ディーゼルのガス-variant の数値を引用することは間違いです。
+- KL の範囲は、** 430 520 560 PS **エンジンと**天然ガス(LNG CNG)バージョンも提供しています。これらは、異なるトルク、燃料システム、およびシャーシ仕様の別のパワートレインです。 465ディーゼルのガス-variant の数値を引用することは間違いです。
 - 軸比、ギアボックス(マニュアル/AMT)、キャブ(ハイ/ロールーフ、スリーパー)は、注文選択され、納品された仕様を変更します。
 
 ## シャーシとカブは輸出のためのチェック
@@ -50,7 +50,7 @@
 **Why are there two power figures (343  and  337 kW)?** 343 kW は定格電力  and  337 kW純力 — 同じ465 PSエンジンの異なる測定ベース。
 **What is the train weight?** The documented tractor is rated for a 40 t gross combination weight, トラクター自体の25 t GVWRを使って。
 **マニュアルか自動か。** 14-speed DT14ギアボックスは、マニュアルとATMフォームで提供されます。 どちらを指定します。
-**520/560とガスバージョンの同トラックですか?** KL のタクシー家族を共有しますが、異なるエンジン/燃料システムを使用して、別の仕様として保管します。
+**520/560とガスバージョンの同トラックですか?** KL
 
 ## 映像の記録
 - IMAGE_ASSET_PATH:リポジトリで保護されていない
@@ -60,23 +60,23 @@
 - 権利_ホルダー:未確認
 - LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
 - CHECKED_DATE: 2026-09-06(税抜き)
-- MODEL_TOPIC_MATCH: 上記の正確なモデル/バージョン(またはガイドトピック)と参照市場と一致しなければなりません
+- MODEL_TOPIC_MATCH:
 - IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
 - IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
 - ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
 - 言語によるALT:
-  - **EN**: AutoBridge export-buyer reference — Dongfeng Tianlong KL, petrol/diesel Chinese-market vehicle / heavy tractor truck
-  - **FR**: Référence AutoBridge pour acheteurs export — Dongfeng Tianlong KL, véhicule thermique (marché chinois) / tracteur routier lourd
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Dongfeng Tianlong KL, Verbrenner (chinesischer Markt) / schwere Sattelzugmaschine
-  - **ES**: Referencia AutoBridge para compradores de exportación — Dongfeng Tianlong KL, vehículo de combustión (mercado chino) / cabeza tractora pesada
-  - **PT**: Referência AutoBridge para compradores de exportação — Dongfeng Tianlong KL, veículo a combustão (mercado chinês) / cavalo mecânico pesado
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Dongfeng Tianlong KL, 中国市場仕様 内燃機関車 / 大型トラクターヘッド
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Dongfeng Tianlong KL, 중국 시장 내연기관 차량 / 대형 트랙터 트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Dongfeng Tianlong KL, xe động cơ đốt trong (thị trường Trung Quốc) / đầu kéo hạng nặng
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Dongfeng Tianlong KL, รถเครื่องยนต์สันดาป (ตลาดจีน) / หัวลากบรรทุกหนัก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Dongfeng Tianlong KL, kendaraan mesin pembakaran (pasar Tiongkok) / truk traktor berat
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Dongfeng Tianlong KL, مركبة بمحرك احتراق (سوق الصين) / رأس قاطرة ثقيل
-  - **ZH**: AutoBridge 出口采购参考｜Dongfeng Tianlong KL, 中国市场燃油车 / 重型牵引车
+  - **EN**: AutoBridge export-buyer reference — Dongfeng Tianlong KL, petrol/diesel Chinese-market vehicle heavy tractor truck
+  - **FR**: Référence AutoBridge pour acheteurs export — Dongfeng Tianlong KL, véhicule thermique (marché chinois) tracteur routier lourd
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Dongfeng Tianlong KL, Verbrenner (chinesischer Markt) schwere Sattelzugmaschine
+  - **ES**: Referencia AutoBridge para compradores de exportación — Dongfeng Tianlong KL, vehículo de combustión (mercado chino) cabeza tractora pesada
+  - **PT**: Referência AutoBridge para compradores de exportação — Dongfeng Tianlong KL, veículo a combustão (mercado chinês) cavalo mecânico pesado
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Dongfeng Tianlong KL, 中国市場仕様 内燃機関車 大型トラクターヘッド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Dongfeng Tianlong KL, 중국 시장 내연기관 차량 대형 트랙터 트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Dongfeng Tianlong KL, xe động cơ đốt trong (thị trường Trung Quốc) đầu kéo hạng nặng
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Dongfeng Tianlong KL, รถเครื่องยนต์สันดาป (ตลาดจีน) หัวลากบรรทุกหนัก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Dongfeng Tianlong KL, kendaraan mesin pembakaran (pasar Tiongkok) truk traktor berat
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Dongfeng Tianlong KL, مركبة بمحرك احتراق (سوق الصين) رأس قاطرة ثقيل
+  - **ZH**: AutoBridge 出口采购参考｜Dongfeng Tianlong KL, 中国市场燃油车 重型牵引车
 
 ## ソースと検証
 | ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
@@ -86,11 +86,11 @@
 | Tianlong KL 465 のシャーシ及び変速機 | 360che (Toutiao) | CN の | 担当: http://m.toutiao.com/group/7342432889952895507/ | 2026-09-04 | CROSS_CHECKED(クロス) | DT1422、GVWR、縁、GCW |
 | Dongfeng Tianlong力(encyclopediaの交差逆止) | PCauto 百科事典 | CN の | 担当: http://m.pcauto.com.cn/baike/1124005/2143996/ の | 2026-09-04 | シングル_ソース | パワーベースクロスチェック |
 | ロードモーター車メーカーと製品カタログ — 公開クエリシステム | 工業情報技術省、中国情報技術省 | CN の | 以下は、 ................................................................................................................................ | 2026-09-05 | 検証済み | 注文するか、または輸出する前に製造業者、承認されたモデルおよび均質化(公告)のカタログの記入項目を確認して下さい | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | 市場規制のSAMR、州政局 | CN の | 以下は、 https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | 検証済み | ベースライン中国車安全技術条件と電流/改定タイムライン |
-| GB 17691-2018の頑丈なディーゼル車の汚染物質の放出(中国VI) | エコロジー・環境省(MEE) | CN の | 以下は、 .mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html の | 2026-09-05 | 検証済み | 中国のVI 圧縮点火(重力ディーゼル)のトラック/コハスの排出の段階 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html
-| GB 19147の自動車ディーゼル燃料の国民の標準(低硫黄の基礎) | SAMR全国規格全文プラットフォーム | CN の | 以下は、 https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A のリリース | 2026-09-05 | 検証済み | ディーゼル燃料グレードと硫黄ベースでエンジン/排出設計を海外に合わせる |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | 市場規制のSAMR、州政局 | CN の | 以下は、 https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | 検証済み | |
+| GB 17691-2018の頑丈なディーゼル車の汚染物質の放出(中国VI) | エコロジー・環境省(MEE) | CN の | 以下は、 の | 2026-09-05 | 検証済み | 中国のVI | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html
+| GB 19147の自動車ディーゼル燃料の国民の標準(低硫黄の基礎) | SAMR全国規格全文プラットフォーム | CN の | 以下は、 https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A のリリース | 2026-09-05 | 検証済み | |
 
-※本会議ノート:OEMの第一次パンフレット、貿易の交差チェック無し。 定格/ネットパワー ラベル付き。その他の電力およびガスバージョンを除く。 中国語市場参照; MIIT発表で確認して下さい。 ふりがな
+※本会議ノート:OEMの第一次パンフレット、貿易の交差チェック無し。 ラベル付き。その他の電力およびガスバージョンを除く。 中国語市場参照; MIIT発表で確認して下さい。 ふりがな
 
 ## 編集レビュー
 - **著者**: AutoBridge エクスポート 編集 チーム・方法・方法・方法・各社様 [編集ポリシー](/編集ポリシー/)

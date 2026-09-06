@@ -32,7 +32,7 @@ Os dois canais autorizados são **Alfândega da China** e **CCPIT (Conselho de P
 ## Aplicação do quadro a uma remessa de veículos
 1. Confirmar o destino e se uma preferência **FTA** está realmente sendo reivindicada; caso contrário, um CO não preferencial é o instrumento usual.
 2. Se reivindicar preferência, verificar se o veículo cumpre ** que o acordo** específica do produto regra de origem antes de aplicar - não assumir "feito na China" sozinho qualifica.
-3. Coincidir o emitente com o que o importador / carta de pedidos de crédito (organismo oficial → Alfândegas).
+3. Coincidir o emitente com o que o importador carta de pedidos de crédito (organismo oficial → Alfândegas).
 4. Use o formulário e código **current** sob a Ordem 270 e o acordo relevante; formulários mudam conforme os acordos são adicionados.
 
 ## O que não prometer

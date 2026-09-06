@@ -7,7 +7,7 @@
 - ** H1 Dong Phong Thiên Tân Xe tải được giữ lạnh: Name
 - **Cumpary Keywomwond**: dong Phong Thiên Tân kr er er er er ercricerated eraw
 - **Secondary Search termss**: Thiên Tân KR DFH5180XLC, Dong Phong Cummins B6.2, 6.8m xe tải bán đá ngầm, xe tải đông lạnh của Trung Quốc xuất khẩu, 18t GVW
-- **I nội bộ Link gợi ý: //guides/vehic-ecport-hs-decification/; /guides/export-vehic-docucht- wrapt/; /vehcles/jmc-shunda /
+- **I nội bộ Link gợi ý: /guides/export-vehic-docucht- wrapt/; /vehcles/jmc-shunda
 - **Image gợi ý**: KR crackter bên 6.8m hộp; khung khung khung; động cơ Cummins B6.2; bộ phận làm lạnh; cửa sau và nội thất
 - **LT gợi ý**: "Dong Phong Thiên Tân 6.8m chiếc xe đông lạnh 18t "; "Taanjin KR cravers superweaper"
 
@@ -23,7 +23,7 @@ Một xe tải đông lạnh không phải là một đặc điểm của nhà m
 | Mục | Thiên Tân KR 6.8 m đá ngầm (tham chiếu Trung Quốc) |
 |---|---|
 | Máy | Dong Phong Phong Cemmins ** B6.2NS6B245 **, trực tiếp 6, 6.2 L diesel |
-| Công suất/ Mô-men xoắn | **180 kW (245 PS) / 1000 N·m** |
+| Công suất/ Mô-men xoắn | **180 kW (245 PS) 1000 N·m** |
 | Hộp bánh răng | Nhanh (Chuyến bay nhanh) ** 8JS105A/TA 8-speed ** |
 | Trục sau | Dana ** 416 **, tỷ lệ ** 4.11 ** |
 | GVW | **18 t** |
@@ -39,11 +39,11 @@ Yêu cầu tờ hình của **người xây dựng cơ thể** như là tài li�
 
 ## Kết nối phiên bản: KR vs KR Plus
 - ** Trang này: Thiên Tân KR, B6.2 245 PS, 6.8 m hộp, 5000 mm bánh xe. **
-- **KR Plus** sử dụng một động cơ ** D7.0NS6B330 (243 kW / 330 PS)  a **7.88 m box**  and  ** 5800 mm bánh xe cở** — một chiếc xe lớn hơn. Không pha trộn chiều KR Plus hay năng lượng vào thứ tự KR.
+- **KR Plus** sử dụng một động cơ ** D7.0NS6B330 (243 kW 330 PS)  a **7.88 m box**  and  ** 5800 mm bánh xe cở** — một chiếc xe lớn hơn. Không pha trộn chiều KR Plus hay năng lượng vào thứ tự KR.
 
 ## Người bán nước ngoài mua sắm trước khi trả tiền
 - Xác nhận mẫu ổ đĩa chạy bằng tay/csis trên giấy chứng nhận khung gầm DFH trước khi xác định đường ngầm ngầm; nó được cố tình không xác nhận từ các hình vẽ tham khảo Trung Quốc bị bắt.
-1. **MIIT model code** (DFH5180XLC / DFH5180XLCG4) trên chứng nhận; GVW và arrow- relinder.
+1. **MIIT model code** (DFH5180XLC DFH5180XLCG4) trên chứng nhận; GVW và arrow- relinder.
 2. **Chasis r hư cấu** — B6.2 245 PS, Fast 8-speed, Dana 416/4.11 — tương đương với VIN; KR Plus giữ riêng rẽ.
 3. **Body Xây dựng tấm vải** cho các đơn vị san hô, khu vực, cách nhiệt và không gian nội thất.
 4. **Diesel snyel/sau khi điều trị** tương thích và đích đến chấp thuận theo hướng dẫn sử dụng.
@@ -71,18 +71,18 @@ Bộ phận làm lạnh của Đông Phong có phải là một phần của b�
 - TRONG SÁCH TRONG LINH: FAIL (không có giấy phép lấy được tài sản; một người giữ chỗ hoặc “không chấp nhận lời nhắn cũ của hình ảnh ”
 - - Không. Không thể bảo đảm ảnh có thể tái tạo: Wikimedia Commons/Flickr không thể tới từ môi trường nghiên cứu, thư viện chứng khoán yêu cầu quyền truy cập hệ thống ARI/licence, và một trang web OEM không phải là một tài trợ tái sử dụng thương mại; không có ảnh tự động của AutoBridge. Giữ FAIL thay vì khẳng định.
 - Theo ngôn ngữ:
-  - **EN**: AutoBridge export-buyer reference — Dongfeng Tianjin KR, petrol/diesel Chinese-market vehicle / refrigerated truck
-  - **FR**: Référence AutoBridge pour acheteurs export — Dongfeng Tianjin KR, véhicule thermique (marché chinois) / camion frigorifique
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Dongfeng Tianjin KR, Verbrenner (chinesischer Markt) / Kühl-Lkw
-  - **ES**: Referencia AutoBridge para compradores de exportación — Dongfeng Tianjin KR, vehículo de combustión (mercado chino) / camión frigorífico
-  - **PT**: Referência AutoBridge para compradores de exportação — Dongfeng Tianjin KR, veículo a combustão (mercado chinês) / caminhão refrigerado
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Dongfeng Tianjin KR, 中国市場仕様 内燃機関車 / 冷凍車
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Dongfeng Tianjin KR, 중국 시장 내연기관 차량 / 냉동·냉장 트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Dongfeng Tianjin KR, xe động cơ đốt trong (thị trường Trung Quốc) / xe tải lạnh
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Dongfeng Tianjin KR, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถบรรทุกห้องเย็น
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Dongfeng Tianjin KR, kendaraan mesin pembakaran (pasar Tiongkok) / truk berpendingin
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Dongfeng Tianjin KR, مركبة بمحرك احتراق (سوق الصين) / شاحنة مبردة
-  - **ZH**: AutoBridge 出口采购参考｜Dongfeng Tianjin KR, 中国市场燃油车 / 冷藏车
+  - **EN**: AutoBridge export-buyer reference — Dongfeng Tianjin KR, petrol/diesel Chinese-market vehicle refrigerated truck
+  - **FR**: Référence AutoBridge pour acheteurs export — Dongfeng Tianjin KR, véhicule thermique (marché chinois) camion frigorifique
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Dongfeng Tianjin KR, Verbrenner (chinesischer Markt) Kühl-Lkw
+  - **ES**: Referencia AutoBridge para compradores de exportación — Dongfeng Tianjin KR, vehículo de combustión (mercado chino) camión frigorífico
+  - **PT**: Referência AutoBridge para compradores de exportação — Dongfeng Tianjin KR, veículo a combustão (mercado chinês) caminhão refrigerado
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Dongfeng Tianjin KR, 中国市場仕様 内燃機関車 冷凍車
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Dongfeng Tianjin KR, 중국 시장 내연기관 차량 냉동·냉장 트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Dongfeng Tianjin KR, xe động cơ đốt trong (thị trường Trung Quốc) xe tải lạnh
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Dongfeng Tianjin KR, รถเครื่องยนต์สันดาป (ตลาดจีน) รถบรรทุกห้องเย็น
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Dongfeng Tianjin KR, kendaraan mesin pembakaran (pasar Tiongkok) truk berpendingin
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Dongfeng Tianjin KR, مركبة بمحرك احتراق (سوق الصين) شاحنة مبردة
+  - **ZH**: AutoBridge 出口采购参考｜Dongfeng Tianjin KR, 中国市场燃油车 冷藏车
 
 ## Nguồn và Định dạng
 | Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |

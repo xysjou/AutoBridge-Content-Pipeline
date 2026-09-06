@@ -18,7 +18,7 @@ Pour un exportateur de MPV, les questions sont la géométrie de la cabine et l'
 | Point | Trumpchi E8 PHEV (référence de la Chine) |
 |---|---|
 | Corps | VPM de taille moyenne |
-| Longueur/largeur/hauteur | **4920 / 1900 / 1760 mm** |
+| Longueur/largeur/hauteur | **4920 1900 1760 mm** |
 | Empattement | **2930 mm** |
 | Disposition des sièges | ** 2+2+3, sept sièges** |
 | Plateforme | GAC Global Platform Architecture modulaire (GPMA 3.0 L); acier à haute résistance environ 75% (source unique) |
@@ -30,8 +30,8 @@ L'empattement 2930 mm et la disposition 2+2+3 sont les histoires commerciales: d
 ## Groupe motopropulseur PHEV (port de recharge E8)
 | Point | Détail |
 |---|---|
-| Moteur | 2.0ATK hybride dédié (4B20L1), 103 kW / 180 N·m (environ 140 PS moteurs seulement) |
-| Moteur avant | 134 kW / 300 N·m |
+| Moteur | 2.0ATK hybride dédié (4B20L1), 103 kW 180 N·m (environ 140 PS moteurs seulement) |
+| Moteur avant | 134 kW 300 N·m |
 | Transmission hybride | 2-speed DHT |
 | Batterie | lithium terne, ** 25.57 kWh ** |
 | Gamme électrique | ** 150 km CLTC** |
@@ -71,18 +71,18 @@ Aucun prix à l'exportation n'est publié. Les prix d'orientation chinois sont *
 - IMAGE_RIGHTS_STATUS: FAIL (aucun actif autorisé capturé; un détenteur de place ou -tain vieille image - Note n'est pas accepté)
 - C'est une question de "relation" Aucune image réutilisable ne peut être sécurisée: Wikimedia Commons/Flickr sont inaccessibles depuis l'environnement de recherche, les bibliothèques de stock nécessitent un accès authentifié API/licence, et une image de page web OEM n'est PAS une subvention de réutilisation commerciale; aucune photo appartenant à AutoBridge n'existe. Il a gardé la FAIL plutôt que de l'affirmer.
 - ALAT par langue:
-  - **EN**: AutoBridge export-buyer reference — GAC Trumpchi E8, plug-in hybrid vehicle / MPV
-  - **FR**: Référence AutoBridge pour acheteurs export — GAC Trumpchi E8, véhicule hybride rechargeable / MPV
-  - **DE**: AutoBridge-Referenz für Exportkäufer — GAC Trumpchi E8, Plug-in-Hybridfahrzeug / Van (MPV)
-  - **ES**: Referencia AutoBridge para compradores de exportación — GAC Trumpchi E8, vehículo híbrido enchufable / monovolumen
-  - **PT**: Referência AutoBridge para compradores de exportação — GAC Trumpchi E8, veículo híbrido plug-in / minivan
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜GAC Trumpchi E8, プラグインハイブリッド車 / MPV
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜GAC Trumpchi E8, 플러그인 하이브리드 차량 / MPV
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — GAC Trumpchi E8, xe hybrid sạc ngoài / MPV
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — GAC Trumpchi E8, รถปลั๊กอินไฮบริด / รถ MPV
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — GAC Trumpchi E8, kendaraan hybrid plug-in / MPV
-  - **AR**: مرجع AutoBridge لمشتري التصدير — GAC Trumpchi E8, مركبة هجينة قابلة للشحن / سيارة عائلية
-  - **ZH**: AutoBridge 出口采购参考｜GAC Trumpchi E8, 插电混动车 / MPV
+  - **EN**: AutoBridge export-buyer reference — GAC Trumpchi E8, plug-in hybrid vehicle MPV
+  - **FR**: Référence AutoBridge pour acheteurs export — GAC Trumpchi E8, véhicule hybride rechargeable MPV
+  - **DE**: AutoBridge-Referenz für Exportkäufer — GAC Trumpchi E8, Plug-in-Hybridfahrzeug Van (MPV)
+  - **ES**: Referencia AutoBridge para compradores de exportación — GAC Trumpchi E8, vehículo híbrido enchufable monovolumen
+  - **PT**: Referência AutoBridge para compradores de exportação — GAC Trumpchi E8, veículo híbrido plug-in minivan
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜GAC Trumpchi E8, プラグインハイブリッド車 MPV
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜GAC Trumpchi E8, 플러그인 하이브리드 차량 MPV
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — GAC Trumpchi E8, xe hybrid sạc ngoài MPV
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — GAC Trumpchi E8, รถปลั๊กอินไฮบริด รถ MPV
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — GAC Trumpchi E8, kendaraan hybrid plug-in MPV
+  - **AR**: مرجع AutoBridge لمشتري التصدير — GAC Trumpchi E8, مركبة هجينة قابلة للشحن سيارة عائلية
+  - **ZH**: AutoBridge 出口采购参考｜GAC Trumpchi E8, 插电混动车 MPV
 
 ## Sources et vérification
 | Titre de la source | Organisation | Marché | URL | Vérification | Confiance | Faits corroborés |

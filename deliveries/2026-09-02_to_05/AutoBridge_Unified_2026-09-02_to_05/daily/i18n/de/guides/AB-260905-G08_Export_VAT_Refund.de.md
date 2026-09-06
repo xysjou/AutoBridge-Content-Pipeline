@@ -15,7 +15,7 @@
 Chinas Ausfuhr-Mehrwertsteuerregelungen verwenden zwei Hauptmethoden. Ein **Produktions-/Herstellungsunternehmen** wendet **Befreiung–Kredit–Rückerstattung (免抵退)** an: Die Ausfuhrleistungs-Mehrwertsteuer ist befreit, die Vorsteuer wird mit der inländischen Produktionsleistungs-Mehrwertsteuer gutgeschrieben und der Restbetrag wird erstattet. Ein **ausländisches/gewerbliches Unternehmen**, das für den Export kauft und weiterverkauft, gilt in der Regel **Ausnahme–Rückerstattung (免退)**: Der Exportverkauf ist steuerbefreit und die entsprechende Vorsteuer wird erstattet. Die Verwendung der falschen Methode für den Entity-Typ ist ein grundlegender Dateifehler.
 
 ## Berechnungs- und Anmeldeauftrag
-Der Zeitraum Erstattung/Gutschrift wird aus Ausfuhrverkäufen, der anrechenbaren Vorsteuer und dem anwendbaren Erstattungssatz berechnet. Die Einreichung folgt dem Exportereignis: Nach der Zollanmeldung und mit der entsprechenden Rechnung, den FX-Beleg- und Erklärungsdaten reicht das Unternehmen die Erstattungs- / Befreiungserklärung innerhalb der vorgeschriebenen Frist ein und schließt dann die Überprüfung / Abschreibung ab. Dokumente müssen sich über Zoll, Steuern und FX hinweg abgleichen.
+Der Zeitraum Erstattung/Gutschrift wird aus Ausfuhrverkäufen, der anrechenbaren Vorsteuer und dem anwendbaren Erstattungssatz berechnet. Die Einreichung folgt dem Exportereignis: Nach der Zollanmeldung und mit der entsprechenden Rechnung, den FX-Beleg- und Erklärungsdaten reicht das Unternehmen die Erstattungs- Befreiungserklärung innerhalb der vorgeschriebenen Frist ein und schließt dann die Überprüfung Abschreibung ab. Dokumente müssen sich über Zoll, Steuern und FX hinweg abgleichen.
 
 ## Der Erstattungssatz ist je HS-Code — und wird nicht geschätzt
 Der Ausfuhr-Mehrwertsteuer-Rückerstattungssatz wird durch **HS-Code/Produkt** festgelegt und ändert sich im Laufe der Zeit. In diesem Leitfaden wird bewusst **keine numerische Rate** angegeben: Schauen Sie sich die aktuelle Rate für den genauen 10-digit HS-Code am Tag an, da das Zitieren einer abgestandenen Rate das Landed-Cost-Modell verzerrt. Zeitkritische Einreichungsfristen ergeben sich ebenfalls aus der aktuellen STA-Mitteilung.
@@ -27,11 +27,11 @@ Rückerstattungsverzögerungen beim Fahrzeugexport betreffen selten die Rate; es
 1. Identifizieren Sie den Entitätstyp und die richtige Methode (免抵退 vs 免退).
 2. Klassifizieren Sie den genauen HS-Code und schauen Sie sich die **aktuelle** Rückerstattungsrate an.
 3. Sammeln Sie die Erklärung, spezielle Mehrwertsteuerrechnung und FX-Empfangsbeweise, damit sie sich versöhnen.
-4. Datei innerhalb der vorgeschriebenen Frist; vollständige Überprüfung / Abschreibung.
+4. Datei innerhalb der vorgeschriebenen Frist; vollständige Überprüfung Abschreibung.
 5. Halten Sie den Berechnungspfad für die Steuerprüfung.
 
 ## Grenzen
-Hier werden keine Tarife, Termine-as-fixed-numbers oder fallspezifische Beträge angegeben; alle sind HS- und zeitspezifisch und stammen aus aktuellen STA / MOF-Mitteilungen.
+Hier werden keine Tarife, Termine-as-fixed-numbers oder fallspezifische Beträge angegeben; alle sind HS- und zeitspezifisch und stammen aus aktuellen STA MOF-Mitteilungen.
 
 ## FAQ
 **Welche Methode verwendet eine Fabrik?** Im Allgemeinen Befreiung von der Körperschaftsteuer — Kreditrückerstattung (免抵退).
@@ -45,8 +45,8 @@ Hier werden keine Tarife, Termine-as-fixed-numbers oder fallspezifische Beträge
 | Quelle | Organisation | Markt | Tier | Vertrauen | URL | Belegte Fakten |
 |---|---|---|---|---|---|---|
 | 出口业务增值税和消费税退 (免) 税管理办法 (税务总局公告) | 中国政府网 | CN | T1 | ÜBERPRÜFUNG | https://www.gov.cn/zhengce/zhengceku/202602/content_7056762.htm | 申报期限, 免抵退申报资料 |
-| 关于出口业务增值税和消费税政策的公告 | 中华人民共和国财政部 | CN | T1 | ÜBERPRÜFUNG | https://www.mof.gov.cn/jrttts/202602/t20260203_3983176.htm | 免抵退 / 免退税办法定义 |
-| 出口货物劳务免抵退税和免退税如何计算 | 国家税务总局 | CN | T1 | ÜBERPRÜFUNG | https://www.chinatax.gov.cn/chinatax/c102449/c5237525/content.html | 当期应退 / 免抵税额计算 |
+| 关于出口业务增值税和消费税政策的公告 | 中华人民共和国财政部 | CN | T1 | ÜBERPRÜFUNG | https://www.mof.gov.cn/jrttts/202602/t20260203_3983176.htm | 免抵退 免退税办法定义 |
+| 出口货物劳务免抵退税和免退税如何计算 | 国家税务总局 | CN | T1 | ÜBERPRÜFUNG | https://www.chinatax.gov.cn/chinatax/c102449/c5237525/content.html | 当期应退 免抵税额计算 |
 | 进出口税收热点问题 (2026 年 7 月) | 国家税务总局北京市税务局 | CN | T1 | ÜBERPRÜFUNG | http://beijing.chinatax.gov.cn/bjswj/c105390/202608/ec1a021ae3af4c368e72684ca1bbe4df.shtml | 报关后申报与核销 |
 | Staatliche Steuerverwaltung (STA) | STA 国家税务总局 | CN | T1 | ÜBERPRÜFUNG | https://www.chinatax.gov.cn/ | MwSt.-Erstattung/Befreiungsbehörde für Ausfuhren |
 | GACC — Ausfuhranmeldung als Grundlage für die Überprüfung der Mehrwertsteuererstattung | Allgemeine Zollverwaltung von China (海关总署 GACC) | CN | T1/T2 | ÜBERPRÜFUNG | http://www.customs.gov.cn/ | Die Daten der Zollausfuhranmeldung werden von den Steuerbehörden abgeglichen, um die Erstattungs-/Rückerstattungsberechtigung für Ausfuhren zu überprüfen. |

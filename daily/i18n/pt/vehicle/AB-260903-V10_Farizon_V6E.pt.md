@@ -20,7 +20,7 @@ O Xingxiang V6E é uma van de entrega urbana elétrica de bateria da marca comer
 | Velocidade máxima | ** 90 km/h (eletrónicamente limitado)** |
 | Volume de carga | **6 m³** (cargo bay ~1.6 m long reference) |
 | Suspensão da retaguarda | Eixo rígido com molas de folhas** (orientadas para carga) |
-| Bateria/intervalo de base | ** 35.2 kWh / 260 km intervalo de condições de trabalho |
+| Bateria/intervalo de base | ** 35.2 kWh 260 km intervalo de condições de trabalho |
 | Compilação mais recente | A ** maior bateria Xuanwu build está listado em bases de dados chinesas**, mas sua capacidade/gama exata não é afirmada aqui — confirme no catálogo MIIT e na folha de compilação VIN (TIME_SENSITIVE) |
 
 Para uma carrinha logística, os compradores devem pesar ** volume de carga, carga útil (confirmar no código homólogo), o eixo traseiro de mola foliar orientado para a carga e o limite de 90 km/h** contra as necessidades de velocidade da rota — este é um veículo de cidade/última milha, não um camião de longo curso.
@@ -39,7 +39,7 @@ Transporte da China Notícias (um canal de notícias da indústria) informa que 
 2. **Payload, GVW, volume de carga e eixo traseiro** no código homólogo; passeio de molas de folha vs necessidades de carga.
 3. ** Interface de carga** (GB/T em construções da China) vs padrão de destino; provisão AC/DC.
 4. ** diferenças UE-spec vs China-spec** para qualquer ordem Türkiye/Europe-bound (iluminação, conformidade, software).
-5. ** Limite de velocidade de 90 km/h** adequação; ** UN38.3/MSDS e sob a Emenda 42-24 do IMDG (obrigatório de 2026-01-01) um veículo movido a lítio-íon-bateria é classificado UN3556, não o legado genérico UN3171; aplicar documentação / detalhes SOC por a atual Folha de Fato de Transporte EV eo transportador (ver o guia de conformidade do oceano EV)** Documentos de envio EV por a atual Ficha de Fatos; cluster / linguagem telemática.
+5. ** Limite de velocidade de 90 km/h** adequação; ** UN38.3/MSDS e sob a Emenda 42-24 do IMDG (obrigatório de 2026-01-01) um veículo movido a lítio-íon-bateria é classificado UN3556, não o legado genérico UN3171; aplicar documentação detalhes SOC por a atual Folha de Fato de Transporte EV eo transportador (ver o guia de conformidade do oceano EV)** Documentos de envio EV por a atual Ficha de Fatos; cluster linguagem telemática.
 
 ## Solicitar uma Cotação de Exportação Atual
 Nenhum preço de exportação estático e nenhum MSRP da China foram capturados; nenhum é inventado. Informe-se com **Destino País · Construção de bateria · Quantidade · LHD/RHD · Porto de Destino · Incoterm**.
@@ -64,23 +64,23 @@ Nenhum preço de exportação estático e nenhum MSRP da China foram capturados;
 - IMAGEM_RIGHTS_STATUS: FALHA (não é aceita nenhuma propriedade licenciada capturada; uma nota de placeholder ou “reter imagem antiga”)
 - BLOCK_REASON: Nenhuma imagem reutilizável pode ser segura: Wikimedia Commons/Flickr são inalcançáveis do ambiente de pesquisa, bibliotecas de estoque requerem acesso autenticado API/licença, e uma imagem de página web OEM NÃO é uma concessão de reutilização comercial; nenhuma foto de propriedade da AutoBridge existe. Mantive-me em vez de afirmar.
 - ALT por língua:
-  - **EN**: AutoBridge export-buyer reference — Farizon Xingxiang V6E, battery-electric vehicle / cargo van
-  - **FR**: Référence AutoBridge pour acheteurs export — Farizon Xingxiang V6E, véhicule 100 % électrique / fourgon
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Farizon Xingxiang V6E, batterieelektrisches Fahrzeug / Kastenwagen
-  - **ES**: Referencia AutoBridge para compradores de exportación — Farizon Xingxiang V6E, vehículo 100 % eléctrico / furgoneta de carga
-  - **PT**: Referência AutoBridge para compradores de exportação — Farizon Xingxiang V6E, veículo 100 % elétrico / furgão de carga
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Farizon Xingxiang V6E, 純電気自動車 / 貨物バン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Farizon Xingxiang V6E, 순수 전기차 / 카고 밴
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Farizon Xingxiang V6E, xe thuần điện / xe van chở hàng
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Farizon Xingxiang V6E, รถยนต์ไฟฟ้า 100% / รถตู้บรรทุก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Farizon Xingxiang V6E, kendaraan listrik murni / van kargo
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Farizon Xingxiang V6E, مركبة كهربائية بالبطارية / شاحنة فان للبضائع
-  - **ZH**: AutoBridge 出口采购参考｜Farizon Xingxiang V6E, 纯电动车 / 厢式货车
+  - **EN**: AutoBridge export-buyer reference — Farizon Xingxiang V6E, battery-electric vehicle cargo van
+  - **FR**: Référence AutoBridge pour acheteurs export — Farizon Xingxiang V6E, véhicule 100 % électrique fourgon
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Farizon Xingxiang V6E, batterieelektrisches Fahrzeug Kastenwagen
+  - **ES**: Referencia AutoBridge para compradores de exportación — Farizon Xingxiang V6E, vehículo 100 % eléctrico furgoneta de carga
+  - **PT**: Referência AutoBridge para compradores de exportação — Farizon Xingxiang V6E, veículo 100 % elétrico furgão de carga
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Farizon Xingxiang V6E, 純電気自動車 貨物バン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Farizon Xingxiang V6E, 순수 전기차 카고 밴
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Farizon Xingxiang V6E, xe thuần điện xe van chở hàng
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Farizon Xingxiang V6E, รถยนต์ไฟฟ้า 100% รถตู้บรรทุก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Farizon Xingxiang V6E, kendaraan listrik murni van kargo
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Farizon Xingxiang V6E, مركبة كهربائية بالبطارية شاحنة فان للبضائع
+  - **ZH**: AutoBridge 出口采购参考｜Farizon Xingxiang V6E, 纯电动车 厢式货车
 
 ## Fontes e Verificação
 | Título do código fonte | Organização | Mercado | URL | Verificado | Confiança | Factos corroborados |
 |---|---|---|---|---|---|---|
-| V6E revelar (limite motor/ 0–50/speed) | Camião Casa / Toutiao | NC | http://m.toutiao.com/group/7064810099012895240/ | 2026-09-03 | CROSS_CHECKED | 60 kW / 220 N·m, limite 90 km/h, eixo de molas de folhas |
+| V6E revelar (limite motor/ 0–50/speed) | Camião Casa Toutiao | NC | http://m.toutiao.com/group/7064810099012895240/ | 2026-09-03 | CROSS_CHECKED | 60 kW 220 N·m, limite 90 km/h, eixo de molas de folhas |
 | V6E EU-spec export to Türkiye (6 m³) | Transporte da China Notícias (media de notícias da indústria) | Meios de comunicação NC (registro de exportação: TR) | https://www.zgjtb.com/m/2024-02/01/content_398656.html | 2026-09-03 | CROSS_CHECKED | Feb- 2024 EU-spec Türkiye lote,  6 m³ (news record, Não OEM/governação; não VERIFIED) |
 | Light-commercial report (35.2 kWh/260 km/6 m³) | Sohu Auto | NC | https://m.sohu.com/a/931378694_121823499/ | 2026-09-03 | CROSS_CHECKED | Bateria/intervalo de base, volume de carga |
 | Fabricantes de veículos automóveis e catálogo de produtos — sistema público de consulta | MIIT, China Ministério da Indústria e Tecnologia da Informação | NC | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFICADO | Verifique o fabricante, modelo aprovado e homologação (公告) entrada do catálogo antes de encomendar ou exportar |
@@ -92,7 +92,7 @@ Nenhum preço de exportação estático e nenhum MSRP da China foram capturados;
 * Nota de confiança: o registro de exportação Türkiye é CROSS_CHECKED indústria-notícias relatórios (news/industry media não é VERIFIED — apenas OEM/governo/regulador/normas/documentos técnicos formais chegam VERIFIED); tratado estritamente como um registro de entrega, não uma prova modelo-alias. O motor/intervalo base são verificados em cruz; a nova construção de 51 kWh é sensível ao tempo. China GB/T e construções UE-spec são mantidas distintas por MODEL_ Regras de ALIAS/ FONTE_ÂMBITO DE APLICAÇÃO. *
 
 ## Revisão Editorial
-- **Autor / revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)
+- **Autor revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)
 - ** Última revisão**: 2026-09-05
 - **Mercado de referência**: China, Xingxiang V6E (referência do mercado chinês; construção de exportação UE-spec mantida separada)
 - ** Método de verificação**: Controlo cruzado + registo oficial de exportação; ano-bateria e âmbito de mercado isolado

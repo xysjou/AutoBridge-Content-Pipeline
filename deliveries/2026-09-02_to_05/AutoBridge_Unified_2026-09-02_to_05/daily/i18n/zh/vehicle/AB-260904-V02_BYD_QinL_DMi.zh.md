@@ -22,7 +22,7 @@
 | 传送 | 电子CVT(单速DHT,DM超高速) |
 | 电池 | LFP 语言 ** 电池** |
 | 电池容量 | ** 10.08 kWh(80 km)/15.87 kWh(120 km)**——特定版本 |
-| 电程(CLTC) | **80 km / 120 km** |
+| 电程(CLTC) | **80 km 120 km** |
 | 测试周期 | ** CLTC**(不是WLTP/NEDC——从不引用另一个周期下的CLTC数字) |
 | 快速充电 | about 0.42 h for 30–80% on the 120 km car (single-source; 单位 EM 确认数) |
 | 曲线重量(代表) | 1775 kg |
@@ -35,7 +35,7 @@
 - 头条数字加起来大约**2100 km,装满坦克和满载**,在中国的覆盖中作为**制造商声称**号出现. 它必须贴上工厂索赔的标签,绝不作为衡量结果提出,它与目的周期数字不相上下。
 
 ## 身体和小屋
-- 长度 / 宽度 / 高度: **4830 / 1900 / 1495 mm**
+- 长度 宽度 高度: **4830 1900 1495 mm**
 - 轮基地:** 2790 mm **
 - 座椅:** 5 ** (单源座椅数;在剪切图上确认)
 
@@ -50,7 +50,7 @@
 2. ** 试验周期**——保持CLTC的标签;如果市场公布目的地周期数字,则单独询问。
 3. **Charging连接器和AC/DC硬件**——中国GB/T充电不自动匹配目的地连接器;在承诺家电兼容之前确认.
 4. ** IMD 42-24电池装运指南中的UN38.3份电池装运文件摘要和任何危险物品。
-5. ** 排放/燃料类型** 和目的地混合登记类别;确认出口文件清单中的成套文件。
+5. ** 和目的地混合登记类别;确认出口文件清单中的成套文件。
 
 ## 请求当前导出提示
 不公布出口价格. 中华2024指南范围(约人民币99元,800–139元,800元)是**国内,时间性参考,而非FOB/CIF**. Request a live quote with **Destination Country · Quantity · Preferred Trim (80/120 km) · LHD/RHD · Destination Port · Incoterm**.
@@ -58,8 +58,8 @@
 ## 经常被问到的问题
 ** 秦L DM-i 80与120有什么区别? ** 电池容量(10.08 vs 15.87 kWh)和CLTC电机范围(80 vs 120 km),加上设备步骤——在订单上指定版本.
 ** 2100 km范围是否为测试数字? ** 不,它是制造商声称的全坦克加全装填数字,必须贴上这样的标签。
-** 采用哪个试验周期? ** 中国数字是CLTC;不要将其表述为WLTP或NEDC.
-** 中国充电连接器在国外工作吗? ** 不自动——GB/T硬件必须对照目的地连接器进行检查.
+** ** 中国数字是CLTC;不要将其表述为WLTP或NEDC.
+** ** 不自动——GB/T硬件必须对照目的地连接器进行检查.
 
 ## 图像记录
 - IMAGE_ASST_PATH: 没有在仓库中安全
@@ -74,18 +74,18 @@
 - IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
 - 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
 - 按语言分列的低价竞标:
-  - **EN**: AutoBridge export-buyer reference — BYD Qin L DM-i, plug-in hybrid vehicle / sedan
-  - **FR**: Référence AutoBridge pour acheteurs export — BYD Qin L DM-i, véhicule hybride rechargeable / berline
-  - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Qin L DM-i, Plug-in-Hybridfahrzeug / Limousine
-  - **ES**: Referencia AutoBridge para compradores de exportación — BYD Qin L DM-i, vehículo híbrido enchufable / berlina
-  - **PT**: Referência AutoBridge para compradores de exportação — BYD Qin L DM-i, veículo híbrido plug-in / sedã
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜BYD Qin L DM-i, プラグインハイブリッド車 / セダン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜BYD Qin L DM-i, 플러그인 하이브리드 차량 / 세단
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — BYD Qin L DM-i, xe hybrid sạc ngoài / sedan
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — BYD Qin L DM-i, รถปลั๊กอินไฮบริด / รถเก๋งซีดาน
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — BYD Qin L DM-i, kendaraan hybrid plug-in / sedan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Qin L DM-i, مركبة هجينة قابلة للشحن / سيدان
-  - **ZH**: AutoBridge 出口采购参考｜BYD Qin L DM-i, 插电混动车 / 轿车
+  - **EN**: AutoBridge export-buyer reference — BYD Qin L DM-i, plug-in hybrid vehicle sedan
+  - **FR**: Référence AutoBridge pour acheteurs export — BYD Qin L DM-i, véhicule hybride rechargeable berline
+  - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Qin L DM-i, Plug-in-Hybridfahrzeug Limousine
+  - **ES**: Referencia AutoBridge para compradores de exportación — BYD Qin L DM-i, vehículo híbrido enchufable berlina
+  - **PT**: Referência AutoBridge para compradores de exportação — BYD Qin L DM-i, veículo híbrido plug-in sedã
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜BYD Qin L DM-i, プラグインハイブリッド車 セダン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜BYD Qin L DM-i, 플러그인 하이브리드 차량 세단
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — BYD Qin L DM-i, xe hybrid sạc ngoài sedan
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — BYD Qin L DM-i, รถปลั๊กอินไฮบริด รถเก๋งซีดาน
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — BYD Qin L DM-i, kendaraan hybrid plug-in sedan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Qin L DM-i, مركبة هجينة قابلة للشحن سيدان
+  - **ZH**: AutoBridge 出口采购参考｜BYD Qin L DM-i, 插电混动车 轿车
 
 ## 源码验证(V)
 | 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
@@ -96,15 +96,15 @@
 | 第五源DM范围及燃料使用分析 | 自动家居 Chejiahao | 氯化萘 | https://chejiahao.m.autohome.com.cn/info/18596386? 维基月球 | 2026-09-04 | 资源 | 专用发动机,快速充电时间,索赔综合范围 |
 | 道路汽车制造商和产品目录——公共查询系统 | MIIT,中国工业和信息化部 | 氯化萘 | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html 维基月球 | 2026-09-05 | 实录 | 在订购或出口前核查制造商、核准的型号和同级(公告)目录条目 |
 | GB 16735-2019 维基百科中的相关条目: 维基百科 道路车辆——车辆识别编号(VIN)要求 | SAMR 国家标准全文平台 | 氯化萘 | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 维基月球 | 2026-09-05 | 实录 | 购买者VIN/名牌验证中使用的VIN结构和名牌数据字段 |
-| GB 7258 机动车安全技术条件(GB 7258-2017 电流;GB 7258-2026 适用2027-07-01). | SAMR, 国家市场监管管理局 | 氯化萘 | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 维基月球 | 2026-09-05 | 实录 | 中国境内车辆安全技术条件基线和现行/修订时间表 |
+| GB 7258 机动车安全技术条件(GB 7258-2017 电流;GB 7258-2026 适用2027-07-01). | SAMR, 国家市场监管管理局 | 氯化萘 | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 维基月球 | 2026-09-05 | 实录 | |
 | GB 38031牵引电池安全要求(GB 38031-2025;2026-07-01年新类型的应用强制规定). | SAMR 国家标准全文平台 | 氯化萘 | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 维基月球 | 2026-09-05 | 实录 | 电气化电动火车的强制牵引-电池安全要求基础 |
-| GB 18384 电力机车安全要求(GB 18384-2025). | SAMR 国家标准全文平台 | 氯化萘 | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C 维基月球 | 2026-09-05 | 实录 | 电动车辆/功能安全要求 |
+| GB 18384 电力机车安全要求(GB 18384-2025). | SAMR 国家标准全文平台 | 氯化萘 | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C 维基月球 | 2026-09-05 | 实录 | |
 | GB 18352.6-2016, 修正XG1-2026(中国-6轻型车辆污染物排放) | 生态和环境部 | 氯化萘 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html 维基月球 | 2026-09-05 | 实录 | 中国-6轻型车辆排放阶段和2026修正执行日期. |
 
 * 说明:尺寸和范围步骤在两个数据库中交叉核对;引擎细节、快速充电时间和2100 km索赔单源/要素索赔。 无OEM海外页面抓获——仅限中国市场参考. * 报告迟交是因为需要翻译。
 
 ## 编辑评论
-- ** 授权人**:自动桥出口编辑组 / 方法,按我们的[编辑政 (/编辑政策/)
+- ** 授权人**:自动桥出口编辑组 方法,按我们的[编辑政 (/编辑政策/)
 - ** 上次审查**:2026-09-05
 - ** 参考市场**: 中国,2024 秦L DM-i 第五源(中国市场参考; 秦LDM-i). 法律、法律和培训中心指出; 不是一个全局的光谱)
 - ** 核查方法**: 双数据库交叉核对;电池版本分离;制造商索赔标签

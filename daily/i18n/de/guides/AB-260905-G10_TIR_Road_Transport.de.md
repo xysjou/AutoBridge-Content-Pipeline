@@ -12,7 +12,7 @@
 - **Schema-Scope**: Artikel (kein Produkt/Angebot/Review)
 
 ## Was TIR für einen Überlandexporteur ändert
-TIR ist ein internationales Zolltransitsystem, das es einem versiegelten Straßenfahrzeug oder Container ermöglicht, sich mit einem einzigen Carnet **TIR ** über Vertragsparteien zu bewegen, wobei die Waren im Allgemeinen versiegelt bleiben und Zölle / Steuern entlang der Kette garantiert sind. Für chinesische Exporteure, die Fahrzeuge oder Teile über Land nach Zentralasien und weiter nach Europa versenden, reduziert dies die wiederholten Grenzkontrollen und Garantien. Es ist ein Rahmenabkommen; die operativen Details werden von den Gepflogenheiten jeder Vertragspartei umgesetzt.
+TIR ist ein internationales Zolltransitsystem, das es einem versiegelten Straßenfahrzeug oder Container ermöglicht, sich mit einem einzigen Carnet **TIR ** über Vertragsparteien zu bewegen, wobei die Waren im Allgemeinen versiegelt bleiben und Zölle Steuern entlang der Kette garantiert sind. Für chinesische Exporteure, die Fahrzeuge oder Teile über Land nach Zentralasien und weiter nach Europa versenden, reduziert dies die wiederholten Grenzkontrollen und Garantien. Es ist ein Rahmenabkommen; die operativen Details werden von den Gepflogenheiten jeder Vertragspartei umgesetzt.
 
 ## Die beiden Dokumente, die nicht verwechselt werden dürfen
 - ** Carnet TIR (TIR 证)**: das Versandsicherheitsdokument, das bei den Zollstellen für Abgang, Durchgang und Bestimmung vorgelegt wird.
@@ -48,7 +48,7 @@ Dieser Leitfaden listet nicht jede Vertragspartei, Garantiekettengebühr oder 20
 | 海关总署公告 2026 年第 2 号 (关于优化落实 TIR 公约有关事项) | 中华人民共和国海关总署 | CN | T1 | ÜBERPRÜFUNG | http://www.customs.gov.cn/customs/2026-01/05/article_2026010515561027770.html | 车辆批准证明书, TIR 证交验, 适用范围扩展 |
 | 海关总署公告 2026 年第 2 号 (PDF 原件) | 中华人民共和国海关总署 | CN | T1 | ÜBERPRÜFUNG | http://www.customs.gov.cn/customs/attachDir/2026/01/%E6%B5%B7%E5%85%B3%E6%80%BB%E7%BD%B2%E5%85%B3%E4%BA%8E%E4%BC%98%E5%8C%96%E8%90%BD%E5%AE%9ETIR%E5%85%AC%E7%BA%A6%E6%9C%89%E5%85%B3%E4%BA%8B%E9%A1%B9%E7%9A%84%E5%85%AC%E5%91%8A%20(1 | 公告全文一致性核验 |
 | 海关总署公告 2026 年第 2 号 (国务院公报) | 中国政府网 | CN | T1 | ÜBERPRÜFUNG | https://www.gov.cn/gongbao/2026/issue_12666/202604/content_7065109.html | 公报核验 |
-| TIR 国际公路运输及服务指南 (政策解读) | 武汉市 (促进跨境贸易便利化, 搜狐转载) | CN | T3 | CROSS_CHECKED | https://m.sohu.com/a/1054225552_121106908/ | 中国 2016 加入 / 2019 全国实施 / 2026 扩展跨境电商保税 |
+| TIR 国际公路运输及服务指南 (政策解读) | 武汉市 (促进跨境贸易便利化, 搜狐转载) | CN | T3 | CROSS_CHECKED | https://m.sohu.com/a/1054225552_121106908/ | 中国 2016 加入 2019 全国实施 2026 扩展跨境电商保税 |
 | TIR-Übereinkommen, 1975 — VN-Vertrag Sammlung offizieller Text | Vertragssammlung der Vereinten Nationen | INT | T1/T2 | ÜBERPRÜFUNG | https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XI-A-16&chapter=11 | Offizieller Rechtstext des Zollübereinkommens über den internationalen Warentransport mit Carnets TIR |
 | IRU — Carnet TIR und Garantiekette | Internationale Straßentransportunion (IRU) | INT | T1/T2 | ÜBERPRÜFUNG | https://www.iru.org/ | Verband der Carnetaussteller TIR, erläutert die Garantiekette und die kontrollierten Anforderungen des Betreibers |
 ## Editorial Review

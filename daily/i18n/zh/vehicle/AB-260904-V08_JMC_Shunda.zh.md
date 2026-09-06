@@ -22,7 +22,7 @@
 | 卧床(L×W×H) | **3700 × 1850 × 380 mm** |
 | 总车辆重量(GVW) | **4.27 t** |
 | 曲线重量 | 大约**2.145 t **(3.7米盒式车型约为2.435 t). |
-| 定载荷 | about **1.93–2.0 t — final value per the MIIT announcement / certificate** |
+| 定载荷 | about **1.93–2.0 t — final value per the MIIT announcement certificate** |
 | 轮式基地 | **2800 mm** |
 | 转圈 | **5.5 m** |
 | 排放 | 中国-6型柴油机 |
@@ -30,7 +30,7 @@
 有效载荷是造成遵约问题最多的数字: 营销"约两吨"线不是法律评级. 权威的额定有效载荷是**MIIT公示上和车辆合格证书**上的载荷,随车体类型(滴对箱车)和节制重量而变化.
 
 ## 引擎- 虚拟边界
-- ** JX493ZLQ6D (本页): 2.499 L, 90 kW / 122 PS。 **
+- ** JX493ZLQ6D (本页): 2.499 L, 90 kW 122 PS。 **
 - A **2.8 L 493**  and  a** 116 PS** 曲调存在于Shunda线的其他地方; quoting 116 PS for a 90 kW unit — or a 2.8 L displacement for a 2.499 L engine — is a configuration error.
 - 排水面和箱式车体之间的曲线重量不同,它们直接输入有效载荷;从不将一个车体的有效载荷再用于另一个车体。
 
@@ -46,12 +46,12 @@
 5. ** HS分类**(87.04辆货车;特殊用途机构可移动标题),按HS编码指南进行。
 
 ## 请求当前导出提示
-不公布出口价格. 查询** 目的地口 = 数量 = 引擎版本 = 机体类型 = LHD/RHD = 目的地港 = 编码**。
+不公布出口价格. 查询** 目的地口 数量 引擎版本 机体类型 LHD/RHD 目的地港 编码**。
 
 ## 经常被问到的问题
 圣达的GVW是什么?  and  payload?** GVW 4.27 t with rated payload around 1.93–2.0 t; 证实特定尸体在MIIT公告/证书上的确切有效载荷。
 **Which engine does this page cover?** The JX493ZLQ6D 2.499 L diesel at 90 kW (122 PS); a 2.8 L/116 PS版本是一个不同的单位。
-*为什么减肥很重要? * 它设定了可用有效载荷和在下水面和箱型车体之间的变化——不具有一个不同机体之间的有效载荷。
+* 它设定了可用有效载荷和在下水面和箱型车体之间的变化——不具有一个不同机体之间的有效载荷。
 **中国6货车批准我市吗? ** 并非自动;目的地排放和类型批准是分开的。
 
 ## 图像记录
@@ -67,36 +67,36 @@
 - IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
 - 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
 - 按语言分列的低价竞标:
-  - **EN**: AutoBridge export-buyer reference — JMC Shunda, petrol/diesel Chinese-market vehicle / light truck
-  - **FR**: Référence AutoBridge pour acheteurs export — JMC Shunda, véhicule thermique (marché chinois) / camion léger
-  - **DE**: AutoBridge-Referenz für Exportkäufer — JMC Shunda, Verbrenner (chinesischer Markt) / Leicht-Lkw
-  - **ES**: Referencia AutoBridge para compradores de exportación — JMC Shunda, vehículo de combustión (mercado chino) / camión ligero
-  - **PT**: Referência AutoBridge para compradores de exportação — JMC Shunda, veículo a combustão (mercado chinês) / caminhão leve
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜JMC Shunda, 中国市場仕様 内燃機関車 / 小型トラック
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜JMC Shunda, 중국 시장 내연기관 차량 / 경트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — JMC Shunda, xe động cơ đốt trong (thị trường Trung Quốc) / xe tải nhẹ
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — JMC Shunda, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถบรรทุกขนาดเล็ก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — JMC Shunda, kendaraan mesin pembakaran (pasar Tiongkok) / truk ringan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — JMC Shunda, مركبة بمحرك احتراق (سوق الصين) / شاحنة خفيفة
-  - **ZH**: AutoBridge 出口采购参考｜JMC Shunda, 中国市场燃油车 / 轻卡
+  - **EN**: AutoBridge export-buyer reference — JMC Shunda, petrol/diesel Chinese-market vehicle light truck
+  - **FR**: Référence AutoBridge pour acheteurs export — JMC Shunda, véhicule thermique (marché chinois) camion léger
+  - **DE**: AutoBridge-Referenz für Exportkäufer — JMC Shunda, Verbrenner (chinesischer Markt) Leicht-Lkw
+  - **ES**: Referencia AutoBridge para compradores de exportación — JMC Shunda, vehículo de combustión (mercado chino) camión ligero
+  - **PT**: Referência AutoBridge para compradores de exportação — JMC Shunda, veículo a combustão (mercado chinês) caminhão leve
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜JMC Shunda, 中国市場仕様 内燃機関車 小型トラック
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜JMC Shunda, 중국 시장 내연기관 차량 경트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — JMC Shunda, xe động cơ đốt trong (thị trường Trung Quốc) xe tải nhẹ
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — JMC Shunda, รถเครื่องยนต์สันดาป (ตลาดจีน) รถบรรทุกขนาดเล็ก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — JMC Shunda, kendaraan mesin pembakaran (pasar Tiongkok) truk ringan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — JMC Shunda, مركبة بمحرك احتراق (سوق الصين) شاحنة خفيفة
+  - **ZH**: AutoBridge 出口采购参考｜JMC Shunda, 中国市场燃油车 轻卡
 
 ## 源码验证(V)
 | 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
 |---|---|---|---|---|---|---|
 | Shunda小卡车 JX493ZLQ6D 122PS辆符合2t标准 | 360che (图提奥语). | 氯化萘 | http://m.toutiao.com/group/7296380434664292918/ 维基月球 | 2026-09-04 | 横跨 | 发动机、动力、GVW、有效载荷框架 |
 | 沙达小卡车床,GVW, 压重 | 360che (图提奥语). | 氯化萘 | http://m.toutiao.com/group/6854066453151384075/ 维基月球 | 2026-09-04 | 横跨 | 床3700张  4.27 t, 缩放重量 |
-| Shunda货物 3.7m 116PS (售后) | 58.com辆卡车 | 氯化萘 | https://m.58.com/sh/huochec/63510160324146x.shtml 维基月球 | 2026-09-04 | 资源 | 备用116 PS版本(不包括) |
-| 申达轮基/转圈 | 360che (图提奥语). | 氯化萘 | http://m.toutiao.com/group/6815508461468516878/ 维基月球 | 2026-09-04 | 横跨 | 2800 mm 维基月球 世行,5.5米转弯 |
+| Shunda货物 3.7m 116PS (售后) | | 氯化萘 | https://m.58.com/sh/huochec/63510160324146x.shtml 维基月球 | 2026-09-04 | 资源 | 备用116 PS版本(不包括) | 58.com
+| | 360che (图提奥语). | 氯化萘 | http://m.toutiao.com/group/6815508461468516878/ 维基月球 | 2026-09-04 | 横跨 | 2800 mm 维基月球 世行,5.5米转弯 |
 | 道路汽车制造商和产品目录——公共查询系统 | MIIT,中国工业和信息化部 | 氯化萘 | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html 维基月球 | 2026-09-05 | 实录 | 在订购或出口前核查制造商、核准的型号和同级(公告)目录条目 |
 | GB 16735-2019 维基百科中的相关条目: 维基百科 道路车辆——车辆识别编号(VIN)要求 | SAMR 国家标准全文平台 | 氯化萘 | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 维基月球 | 2026-09-05 | 实录 | 购买者VIN/名牌验证中使用的VIN结构和名牌数据字段 |
-| GB 7258 机动车安全技术条件(GB 7258-2017 电流;GB 7258-2026 适用2027-07-01). | SAMR, 国家市场监管管理局 | 氯化萘 | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 维基月球 | 2026-09-05 | 实录 | 中国境内车辆安全技术条件基线和现行/修订时间表 |
+| GB 7258 机动车安全技术条件(GB 7258-2017 电流;GB 7258-2026 适用2027-07-01). | SAMR, 国家市场监管管理局 | 氯化萘 | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 维基月球 | 2026-09-05 | 实录 | |
 | GB 18352.6-2016, 修正XG1-2026(中国-6轻型车辆污染物排放) | 生态和环境部 | 氯化萘 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html 维基月球 | 2026-09-05 | 实录 | 中国-6轻型车辆排放阶段和2026修正执行日期. |
-| GB 19147 汽车柴油国家标准(低硫基) | SAMR 国家标准全文平台 | 氯化萘 | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A 维基月球 | 2026-09-05 | 实录 | 柴油等级和硫基,以配合海外的发动机/排放设计 |
+| GB 19147 汽车柴油国家标准(低硫基) | SAMR 国家标准全文平台 | 氯化萘 | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A 维基月球 | 2026-09-05 | 实录 | |
 
 * 说明: 没有OEM主页; 贸易数据库交叉核对。 定速有效载荷明确推迟到MIIT宣布/证书; 2.499 L 维基月球  and  2.8 L engines kept separate. 仅限中国市场参考. * 报告迟交是因为需要翻译。
 
 ## 编辑评论
-- ** 授权人**:自动桥出口编辑组 / 方法,按我们的[编辑政 (/编辑政策/)
+- ** 授权人**:自动桥出口编辑组 方法,按我们的[编辑政 (/编辑政策/)
 - ** 上次审查**:2026-09-05
 - ** 参考市场**:中国、 Shunda JX493ZLQ6D小型卡车(中国市场参考;每个证书的有效载荷;不是全球规格)
 - ** 核查方法**:贸易数据库交叉核对;引擎版本分离;法律评级推迟到正式宣布

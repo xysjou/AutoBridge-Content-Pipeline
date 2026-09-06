@@ -7,7 +7,7 @@
 - **Chave Primária**: isenção de exportação de certificação ccc
 - ** Termos de pesquisa secundários**: Certificação CCC; certificado 3C; isenção de exportação; certificação obrigatória de produto; carta de isenção CCC
 - ** URL sugerido**: /guides/ccc-certificação-exportação-isenção/
-- **Intenção de pesquisa**: 厘清 CCC 适用范围 (出厂 / 销售 / 进口 / 经营使用), 纯出口产品与免办证明的边界与办理
+- **Intenção de pesquisa**: 厘清 CCC 适用范围 (出厂 销售 进口 经营使用), 纯出口产品与免办证明的边界与办理
 - **As sugestões de ligação interna**: /guias/china-exportação-customs-declaração-única-janela/, /guias/certificado-de-conformidade-tipo-aprovação-história/, /guias/ckd-skd-knockdown-kit-export-assembly/
 - **Schema Scope** Artigo (sem Produto/Oferta/Revisão)
 
@@ -44,7 +44,7 @@ As categorias de catálogo e isenção CCC são atualizadas; use o texto atual d
 | 强制性产品认证管理规定 | 国家市场监督管理总局 | NC | T1 | VERIFICADO | https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_1fb2082e0cca45cbb8e70b4a33e15e99.html | CCC 适用范围, 入境验证, 免办情形 |
 | 强制性产品认证管理规定 (认监委) | 国家认证认可监督管理委员会 | NC | T1 | VERIFICADO | https://www.cnca.gov.cn/zwxx/bmgz/art/2015/art_e211a67d9e4d4a8ea25a5c2390a417f0.html | 主管部门, 认证后方可出厂销售进口使用 |
 | 企业申请 CCC 免办业务 (条件与系统) | 国家认证认可监督管理委员会 | NC | T1 | VERIFICADO | https://www.cnca.gov.cn/hlwfw/ywxt/rzjgxxbszn/rzjghqyxybsnxxx/rzjghqyxybsnxxx/xzspsx/art/2021/art_0d573f87af7d4b4586ef7e5b7dcbf28d.html | 免办条件, cccmb.cnca.cn 系统 |
-| 认监委 2005 年第 3 号公告 (无需 / 免办 CCC 条件) | 国家认证认可监督管理委员会 | NC | T1 | VERIFICADO | https://www.cnca.gov.cn/hlwfw/ywzl/qzxcprz/CCCmb/art/2013/art_8feb350f605e4c9da85d8a4a203f30ff.html | 免办具体情形 |
+| 认监委 2005 年第 3 号公告 (无需 免办 CCC 条件) | 国家认证认可监督管理委员会 | NC | T1 | VERIFICADO | https://www.cnca.gov.cn/hlwfw/ywzl/qzxcprz/CCCmb/art/2013/art_8feb350f605e4c9da85d8a4a203f30ff.html | 免办具体情形 |
 | 免予办理强制性产品认证证明 (受理条件示例) | 安徽省人民政府 | NC | T1 | VERIFICADO | https://www.ah.gov.cn/site/tpl/7091?cswd=2222&ssqdId=4028e69f84d033380185c7c09c5058fa&ssqdCode=521edb32dd8c45938651ec2edce21ddc&activeId=6785131 | 以整机全数出口为目的进口的零部件免办等 |
 | SAMER (regime CCC) | SARR 国家市场监督管理总局 | NC | T1 | VERIFICADO | https://www.samr.gov.cn/ | Autoridade do regime de certificação obrigatória CCC |
 | Administração de Certificação e Acreditação (CNCA) | CNCA 国家认证认可监督管理委员会 | NC | T1 | VERIFICADO | https://www.cnca.gov.cn/ | Sistema de gestão e de isenção do CCC |

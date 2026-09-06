@@ -3,11 +3,11 @@
 ## SAO Siêu dữ liệu
 - **SEEO Titry**: ByD Tần L DM-i PHV Spec & Xuất Hướng dẫn (5th-Gen DM, CLTC)
 - **Meta Mô tả**: Chứng khoán Trung Quốc Tần L DM-i thứ năm gen bổ sung cho người lai - 1.5L động cơ chuyên dụng,  LFP Blade battery 10.08/15.87 kWh,  80/120 km CLTC electric range,  and  Kiểm tra xuất khẩu.
-- **Sudeest URL**: /vehicles/byd-qin-l-dm-i /
+- **Sudeest URL**: /vehicles/byd-qin-l-dm-i
 - ** H1 **: BOD Tần L DM-i (Fifth-generation DM): China-Market PHV Comment
 - ** Từ khoá bí mật **: byd qin I dm-i ecraw
 - **Secondary Search termss**: Tần L DM 120km, thế hệ thứ năm DM, BORD Blade ắc quy PHV, Tần LLC, 秦 L DM-i xuất khẩu
-- **I nội bộ Link gợi ý**: //guides/ev-shipping- un3556-imdg-compliance/; /guides/ecation-fuel-chiel-cchilda-vehicles /; /guides/export-vecle-docucht- wrap/
+- **I nội bộ Link gợi ý**: un3556-imdg-compliance/; /guides/ecation-fuel-chiel-cchilda-vehicles /guides/export-vecle-docucht- wrap/
 - **Image gợi ý**: bên hồ sơ Tần L DM-i; cổng sạc điện; pin Blade dưới sàn; 120km phù hiệu phía sau cabin
 - **LT Những gợi ý**: "BYD Tần L DM-i thế hệ thứ năm PHV sedan," "Qin L DM-i 15.87kWh Blade battery 120km CLTC"
 
@@ -21,8 +21,8 @@ The Qin L DM-i is a mid-size plug-in hybrid saloon built on BYD's **fifth-genera
 | Máy | Động cơ nhiên liệu lai dành riêng 1.5 L |
 | Truyền: | E-CVT (single- speed DHT, DM super-hybrid) |
 | Pin | LFP **Blade ắc quy** |
-| Công suất pin | ** 10.08 kWh (80 km) / 15.87 kWh (120 km) — phiên bản- cụ thể |
-| Phạm vi điện (CLTC) | **80 km / 120 km** |
+| Công suất pin | ** 10.08 kWh (80 km) 15.87 kWh (120 km) — phiên bản- cụ thể |
+| Phạm vi điện (CLTC) | **80 km 120 km** |
 | Name | **CLTC** (không phải WLP/NEDC — không bao giờ trích dẫn một con số CLTC dưới một chu kỳ khác) |
 | Nạp nhanh | about 0.42 h for 30–80% on the 120 km car (single-source; xác nhận trên OEM) |
 | Độ nặng cong (hiện đại) | 1775 kg |
@@ -35,12 +35,12 @@ A PHEV buyer needs four answers in order: **cơ chế, động cơ, pin, chế �
 - Một tiêu đề tổng hợp khoảng 2100 km trên một chiếc xe tăng đầy đủ và sạc đầy nhiên liệu** xuất hiện trong tin tức Trung Quốc như một số người nhận là **manuuuuseer**. Nó phải được gán nhãn hiệu cho một tuyên bố nhà máy, chưa bao giờ được trình bày như một kết quả đo lường, và nó không tương đương với một con số xe đạp đích đến.
 
 ## Comment
-- Chiều dài / chiều rộng / chiều cao: ** 4830 / 1900 / 1495 mm **
+- Chiều dài chiều rộng chiều cao: ** 4830 1900 1495 mm **
 - Bánh xe: ** 2790 mm **
 - Ghế: ** 5 ** (tin nhắn cho việc đếm chỗ ngồi; xác nhận trên tờ cắt)
 
 ## Những sự khác biệt trong Kinh Thánh không nên được trộn lẫn
-- ** 80 km kiện 120 km ** = bộ ắc quy khác nhau (10.08 chống 15.87 kWh); sạc phần cứng và tỉa cũng tăng lên. Nói phiên bản trước khi có án tù.
+- ** 80 km kiện 120 km ** bộ ắc quy khác nhau (10.08 chống 15.87 kWh); sạc phần cứng và tỉa cũng tăng lên. Nói phiên bản trước khi có án tù.
 - TLTC quang và bất kỳ yêu cầu tổng hợp nào ngồi trên các cơ sở thí nghiệm khác nhau; không thêm hoặc so sánh trực tiếp.
 - Thiết bị điện tử Trung Quốc không phải là bằng chứng của thiết bị thị trường xuất khẩu mà không có trang OEM.
 
@@ -53,7 +53,7 @@ A PHEV buyer needs four answers in order: **cơ chế, động cơ, pin, chế �
 5. **Ect/fuel type** và port irise class; xác nhận gói tài liệu từ danh sách kiểm tra xuất khẩu.
 
 ## Yêu cầu một trích dẫn Xuất hiện thời
-Không có giá xuất khẩu được xuất bản. Phạm vi hướng dẫn 2024 Trung Quốc (theo góc độ RMB 99, 800–139, 800 là một **dodostic, Tham khảo thời gian nhạy cảm, Không phải FOB/CIF**. Request a live quote with **Destination Country · Quantity · Preferred Trim (80/120 km) · LHD/RHD · Destination Port · Incoterm**.
+Không có giá xuất khẩu được xuất bản. Phạm vi hướng dẫn 2024 Trung Quốc (theo góc độ RMB 99,800–139,800 là một **dodostic, Tham khảo thời gian nhạy cảm, Không phải FOB/CIF**. Request a live quote with **Destination Country · Quantity · Preferred Trim (80/120 km) · LHD/RHD · Destination Port · Incoterm**.
 
 ## Những câu hỏi thường xuyên
 ** Khác biệt giữa Tần L DM-i 80 và 120 là gì?** Năng lượng (10.08 so với 15.87 kWh, và LTC  phơi điện (80 so với 120 km), cộng với các bước thiết bị — xác định phiên bản theo thứ tự.
@@ -74,18 +74,18 @@ Bộ sạc điện của Trung Quốc có hoạt động ở nước ngoài khô
 - TRONG SÁCH TRONG LINH: FAIL (không có giấy phép lấy được tài sản; một người giữ chỗ hoặc “không chấp nhận lời nhắn cũ của hình ảnh ”
 - - Không. Không thể bảo đảm ảnh có thể tái tạo: Wikimedia Commons/Flickr không thể tới từ môi trường nghiên cứu, thư viện chứng khoán yêu cầu quyền truy cập hệ thống ARI/licence, và một trang web OEM không phải là một tài trợ tái sử dụng thương mại; không có ảnh tự động của AutoBridge. Giữ FAIL thay vì khẳng định.
 - Theo ngôn ngữ:
-  - **EN**: AutoBridge export-buyer reference — BYD Qin L DM-i, plug-in hybrid vehicle / sedan
-  - **FR**: Référence AutoBridge pour acheteurs export — BYD Qin L DM-i, véhicule hybride rechargeable / berline
-  - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Qin L DM-i, Plug-in-Hybridfahrzeug / Limousine
-  - **ES**: Referencia AutoBridge para compradores de exportación — BYD Qin L DM-i, vehículo híbrido enchufable / berlina
-  - **PT**: Referência AutoBridge para compradores de exportação — BYD Qin L DM-i, veículo híbrido plug-in / sedã
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜BYD Qin L DM-i, プラグインハイブリッド車 / セダン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜BYD Qin L DM-i, 플러그인 하이브리드 차량 / 세단
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — BYD Qin L DM-i, xe hybrid sạc ngoài / sedan
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — BYD Qin L DM-i, รถปลั๊กอินไฮบริด / รถเก๋งซีดาน
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — BYD Qin L DM-i, kendaraan hybrid plug-in / sedan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Qin L DM-i, مركبة هجينة قابلة للشحن / سيدان
-  - **ZH**: AutoBridge 出口采购参考｜BYD Qin L DM-i, 插电混动车 / 轿车
+  - **EN**: AutoBridge export-buyer reference — BYD Qin L DM-i, plug-in hybrid vehicle sedan
+  - **FR**: Référence AutoBridge pour acheteurs export — BYD Qin L DM-i, véhicule hybride rechargeable berline
+  - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Qin L DM-i, Plug-in-Hybridfahrzeug Limousine
+  - **ES**: Referencia AutoBridge para compradores de exportación — BYD Qin L DM-i, vehículo híbrido enchufable berlina
+  - **PT**: Referência AutoBridge para compradores de exportação — BYD Qin L DM-i, veículo híbrido plug-in sedã
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜BYD Qin L DM-i, プラグインハイブリッド車 セダン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜BYD Qin L DM-i, 플러그인 하이브리드 차량 세단
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — BYD Qin L DM-i, xe hybrid sạc ngoài sedan
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — BYD Qin L DM-i, รถปลั๊กอินไฮบริด รถเก๋งซีดาน
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — BYD Qin L DM-i, kendaraan hybrid plug-in sedan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Qin L DM-i, مركبة هجينة قابلة للشحن سيدان
+  - **ZH**: AutoBridge 出口采购参考｜BYD Qin L DM-i, 插电混动车 轿车
 
 ## Nguồn và Định dạng
 | Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |

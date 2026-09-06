@@ -2,12 +2,12 @@
 
 ## SAO Siêu dữ liệu
 - **SEEO Titry Arizo 8 Specs & Elier Guide (1.6TGDI), China igre)
-- **Meta Mô tả**: Trung Quốc-tiệm Chery Arizo 8 — 1.6T Kunpeng 145 kW / 290 N·m, 7DCT cơ thể, 4780 mm người phân biệt rõ ràng vấn đề, và những người nhập khẩu xác nhận điều gì trước khi đặt hàng.
+- **Meta Mô tả**: Trung Quốc-tiệm Chery Arizo 8 — 1.6T Kunpeng 145 kW 290 N·m, 7DCT cơ thể, 4780 mm người phân biệt rõ ràng vấn đề, và những người nhập khẩu xác nhận điều gì trước khi đặt hàng.
 - ** URL đã được đánh dấu**: /vehicles/chery-arizo- 8/
 - ** H1 **: Chery Arizo 8: Trung Quốc-Market chi tiết và Xuất Ghi chú
 - **Crimary Keyword**: chery erzo 8 ercras effe
 - **Secondary Search Words**: Arrzo 8 1.6TGDI, Chery Arizo 8 chiều, 艾瑞泽 8 xuất khẩu, Kunpeng SQRF4J16, Xuất sedan gọn gàng ở Trung Quốc
-- **I nội bộ Link gợi ý*: //guides/vin-lade-verchildation-chin-vehicles/; /guides/ imution-fuel-cchile-chicha-vehicles /; /guides/export-vecle-docle-docle-docition/
+- **I nội bộ Link gợi ý*: /guides/ imution-fuel-cchile-chicha-vehicles /guides/export-vecle-docle-docle-docition/
 - **Image gợi ý**: phía trước ba phần tư của Arizo 8; động cơ bao gồm 1.6TGDI phù hiệu; phía sau phòng chân lý phía sau; 7DCT người chọn
 - **LT Những gợi ý**: "Chery Arrizo 8 1.6TGDI Chinese-market sedan"; "Arrizo 8 dimensions 4780mm wheelbase 2790mm"
 
@@ -28,9 +28,9 @@ Tòa nhà Arizo 8 là quán rượu tăng thêm của Chery, kích thước gi�
 Đối với một quán rượu CE, quyết định mua sắm tập trung vào mã **, loại hộp số và giai đoạn phát hành**. Sửa chữa cả ba chống lại VIN thay vì tên sách mỏng; xem hướng dẫn tương thích với nhau để biết tại sao một thuật toán đối chiếu Trung Quốc 6 vẫn cần phải có sự đồng nhất đích đến.
 
 ## Thân thể, các chiều và sự biển động
-- Chiều dài / chiều rộng / chiều cao: ** 4780 / 1843 / 1469 mm **
+- Chiều dài chiều rộng chiều cao: ** 4780 1843 1469 mm **
 - Bánh xe: ** 2790 mm **
-- Cửa ra vào / ghế: ** 4 cửa / 5 ghế**
+- Cửa ra vào ghế: ** 4 cửa 5 ghế**
 Cơ sở bánh xe 2790 mm là những gì đặt chiếc xe trên một chiếc xe sedan nhỏ gọn; kiểm tra chéo các bánh xe với các mã bánh xe mô hình trên hình nhân rộng vì vậy một harzo nhỏ hơn không được thay thế.
 
 ## Những sự khác biệt trong bản dịch và thử thách
@@ -46,7 +46,7 @@ Cơ sở bánh xe 2790 mm là những gì đặt chiếc xe trên một chiếc 
 5. **Shipping mode** — a 4.78 m saloon suits container or RoRo stowage; xác nhận kế hoạch nạp tải thay vì ước tính.
 
 ## Yêu cầu một trích dẫn Xuất hiện thời
-Không có giá xuất khẩu tĩnh nào được xuất bản. Giá hướng dẫn của Trung Quốc (khoảng 2024 卓越 lần giới thiệu về RMB 99, 900) chỉ là một con số nhạy cảm về thời gian, chưa được đổi thành một trong *. Cần có **Diestination Country*Gution ·Guity · Preferred Trim* LHD/RHD_ stD Port # Incoternated**.
+Không có giá xuất khẩu tĩnh nào được xuất bản. Giá hướng dẫn của Trung Quốc (khoảng 2024 卓越 lần giới thiệu về RMB 99,900) chỉ là một con số nhạy cảm về thời gian, chưa được đổi thành một trong *. Cần có **Diestination Country*Gution ·Guity · Preferred Trim* LHD/RHD_ stD Port # Incoternated**.
 
 ## Những câu hỏi thường xuyên
 **Là quán rượu Arizo 8 một quán rượu cỡ trung hay nhỏ? Ở 4780 mm chiều dài với 2790 mm bánh xe nó ngồi ở rìa trên của trường co đặc, gần chiều B - tích phân loại nó bằng dấu chân đo, chứ không phải nhãn hiệu tiếp thị.
@@ -67,25 +67,25 @@ Không có giá xuất khẩu tĩnh nào được xuất bản. Giá hướng d�
 - TRONG SÁCH TRONG LINH: FAIL (không có giấy phép lấy được tài sản; một người giữ chỗ hoặc “không chấp nhận lời nhắn cũ của hình ảnh ”
 - - Không. Không thể bảo đảm ảnh có thể tái tạo: Wikimedia Commons/Flickr không thể tới từ môi trường nghiên cứu, thư viện chứng khoán yêu cầu quyền truy cập hệ thống ARI/licence, và một trang web OEM không phải là một tài trợ tái sử dụng thương mại; không có ảnh tự động của AutoBridge. Giữ FAIL thay vì khẳng định.
 - Theo ngôn ngữ:
-  - **EN**: AutoBridge export-buyer reference — Chery Arrizo 8, petrol/diesel Chinese-market vehicle / sedan
-  - **FR**: Référence AutoBridge pour acheteurs export — Chery Arrizo 8, véhicule thermique (marché chinois) / berline
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Chery Arrizo 8, Verbrenner (chinesischer Markt) / Limousine
-  - **ES**: Referencia AutoBridge para compradores de exportación — Chery Arrizo 8, vehículo de combustión (mercado chino) / berlina
-  - **PT**: Referência AutoBridge para compradores de exportação — Chery Arrizo 8, veículo a combustão (mercado chinês) / sedã
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Chery Arrizo 8, 中国市場仕様 内燃機関車 / セダン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Chery Arrizo 8, 중국 시장 내연기관 차량 / 세단
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Chery Arrizo 8, xe động cơ đốt trong (thị trường Trung Quốc) / sedan
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Chery Arrizo 8, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถเก๋งซีดาน
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Chery Arrizo 8, kendaraan mesin pembakaran (pasar Tiongkok) / sedan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Chery Arrizo 8, مركبة بمحرك احتراق (سوق الصين) / سيدان
-  - **ZH**: AutoBridge 出口采购参考｜Chery Arrizo 8, 中国市场燃油车 / 轿车
+  - **EN**: AutoBridge export-buyer reference — Chery Arrizo 8, petrol/diesel Chinese-market vehicle sedan
+  - **FR**: Référence AutoBridge pour acheteurs export — Chery Arrizo 8, véhicule thermique (marché chinois) berline
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Chery Arrizo 8, Verbrenner (chinesischer Markt) Limousine
+  - **ES**: Referencia AutoBridge para compradores de exportación — Chery Arrizo 8, vehículo de combustión (mercado chino) berlina
+  - **PT**: Referência AutoBridge para compradores de exportação — Chery Arrizo 8, veículo a combustão (mercado chinês) sedã
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Chery Arrizo 8, 中国市場仕様 内燃機関車 セダン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Chery Arrizo 8, 중국 시장 내연기관 차량 세단
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Chery Arrizo 8, xe động cơ đốt trong (thị trường Trung Quốc) sedan
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Chery Arrizo 8, รถเครื่องยนต์สันดาป (ตลาดจีน) รถเก๋งซีดาน
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Chery Arrizo 8, kendaraan mesin pembakaran (pasar Tiongkok) sedan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Chery Arrizo 8, مركبة بمحرك احتراق (سوق الصين) سيدان
+  - **ZH**: AutoBridge 出口采购参考｜Chery Arrizo 8, 中国市场燃油车 轿车
 
 ## Nguồn và Định dạng
 | Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
 | Arrizo 8 2024 1.6T DCT Excellence parameter page | Comment | CN | https://detail.zol.com.cn/car/index2030152.shtml | 2026-09-04 | ĐÃ_ ĐÃ | Kích thước, cơ sở bánh xe, động cơ, hộp số, cấu trúc |
 | Arrzo 8 1.6T DCT Tham số ngoại lệ | Comment | CN | https://db.m.auto.sohu.com/trim_171975 | 2026-09-04 | ĐÃ_ ĐÃ | Quyền lực, PS, kích thước, tham khảo giá cả trong nước |
-| Phân tích tuyến điện Chery Arizo 8 1.6T | Autohome·Chejiaao | CN | https://chejiahao.m.autohome.com.cn/info/19508971?isfrom=pc | 2026-09-04 | ĐÃ_ ĐÃ | 145 kW / 197 PS / 290 N·m / 7DCT |
+| Phân tích tuyến điện Chery Arizo 8 1.6T | Autohome·Chejiaao | CN | https://chejiahao.m.autohome.com.cn/info/19508971?isfrom=pc | 2026-09-04 | ĐÃ_ ĐÃ | 145 kW 197 PS 290 N·m 7DCT |
 | Name | MIT, Bộ Công nghệ và Thông tin Trung Quốc | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VEII | Kiểm tra nhà sản xuất, mô hình được phê chuẩn và mục liệt kê (公告) trước khi đặt hàng hoặc xuất |
 | GB 16735-2019 Xe cộ — Số nhận diện xe hơi (VIN) | Nền tảng chuẩn toàn quốc SAR | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VEII | Cấu trúc và trường dữ liệu bảng tên VIN và được dùng trong kiểm tra bảng tên của người mua |
 | GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Bộ điều hành thị trường | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VEII | Đường dây cơ bản trong Trung Quốc điều kiện an toàn của phương tiện và dòng thời gian/xem hiện tại |

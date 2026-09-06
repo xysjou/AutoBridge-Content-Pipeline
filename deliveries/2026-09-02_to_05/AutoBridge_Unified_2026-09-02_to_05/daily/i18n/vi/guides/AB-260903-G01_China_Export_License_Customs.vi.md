@@ -6,7 +6,7 @@
 - ** H1 **: xe cộ Trung Quốc xuất đường, điều kiện và Phong tục Chain
 - ** Từ khoá bí mật hoa **: tài liệu tuyên bố hải quan Trung Quốc
 - **Secondary Search termss**: Trung Quốc sử dụng giấy phép xuất khẩu xe hơi, giấy phép xuất khẩu BOV, Bộ xuất khẩu xe hơi, xuất khẩu tài liệu, 180 ngày sử dụng quy tắc xuất khẩu xe
-- **I nội bộ Link gợi ý**: //guides/vehic-coc-approval-dchier/; /guides/ev-shipping- un3171-imdg-compliance/; /guides/vehle-exc-sales-contrac-cuses/ / / / /
+- **I nội bộ Link gợi ý**: /guides/ev-shipping- un3171-imdg-compliance/; /guides/vehle-exc-sales-contrac-cuses/
 - **Image gợi ý**: chứng nhận sơ đồ lưu trữ của Hội thảo giao thức; kiểm tra tài liệu; dòng thời gian lưu trữ hàng năm
 - **LT gợi ý**: "Cina port road to clean stream," "vehicce eng ice ice ice ice ice ice ice ice"
 
@@ -15,9 +15,9 @@ Hầu hết các chuyến hàng đầu tiên thất bại ở phía **Trung Qu�
 
 ## Bước 1 — Xác nhận xem xe cộ của bạn rơi xuống nhờ sự điều khiển nào
 Trung Quốc không dùng một cái chăn "cho phép xuất khẩu xe hơi". Đánh dấu:
-- ** New-Ecence / iV xe hành khách:** phương tiện được đẩy chỉ bằng một động cơ lái và mang một VIN (tham khảo HS 8703801090) nằm dưới dưới bộ quản lý báo cáo ** tương ứng với tập đoàn MOFCOM, MIIT, GAC và SAMR (TME_SENTIVE — xác nhận mã hiện tại và HS ngược lại lịch sử thuế khóa học năm).
+- ** New-Ecence iV xe hành khách:** phương tiện được đẩy chỉ bằng một động cơ lái và mang một VIN (tham khảo HS 8703801090) nằm dưới dưới bộ quản lý báo cáo ** tương ứng với tập đoàn MOFCOM, MIIT, GAC và SAMR (TME_SENTIVE — xác nhận mã hiện tại và HS ngược lại lịch sử thuế khóa học năm).
 - ** Xe cộ dùng: ** Tiểu bang đang điều hành một chế độ quốc tế do MOFCOM**,  and  Chi tiết về giấy phép phải khớp với chứng nhận đăng ký xe máy (VERFIEEED,  four-ministry notice).
-- **Các phương tiện mới liên tục / xe mô tô:** Xử lý thông qua các hồ sơ xuất khẩu ** của năm** được miêu tả tiếp theo.
+- **Các phương tiện mới liên tục xe mô tô:** Xử lý thông qua các hồ sơ xuất khẩu ** của năm** được miêu tả tiếp theo.
 Mã hàng hóa chính xác và điều kiện điều chỉnh của nó phải được xác nhận chống lại hiện tại Import & Eliff và thông báo MOFCOM mới nhất — không tái sử dụng giả định của HS năm ngoái.
 
 ## Bước 2 — Sự công bằng thường niên bị lỗi (sự công bằng trước âm lượng)
@@ -43,7 +43,7 @@ Tên, VINs, số lượng, giá trị và mã nguồn của hệ thống máy t�
 MIIT Order No. 50 nhà sản xuất đường-motor-vehic  and  products into **six admission categories: Xe chở khách, xe hơi, xe buýt, xe đặc biệt, xe mô tô và xe moóc. Tại sao một người xuất khẩu quan tâm: Phạm vi nhập viện của nhà sản xuất quyết định sản phẩm nào có thể được công bố một cách hợp pháp. Để có xe đặc biệt/người dùng, hãy xác nhận việc nhập viện cơ bản **và** khả năng của thực thể siêu cấu trúc.
 
 ## Bạn nên kiểm tra những gì sách hướng dẫn này khuyên bạn trước khi đặt chỗ
-- Chế độ **licence và mã hệ thống hiện tại của hệ thống hệ thống hệ thống h(BV / sử dụng / đặc biệt).
+- Chế độ **licence và mã hệ thống hiện tại của hệ thống hệ thống hệ thống h(BV sử dụng đặc biệt).
 - **Annal refect** và, cho các bản sao, các bằng chứng giả mạo/công bố.
 - Cho những đơn vị được sử dụng gần như mới,  the **≤180-day OEM after-sales confirmation** before applying.
 - Một giấy thông hành nhất quán ** (VIN, giá trị, HS, Đảng) trước khi tuyên bố.
@@ -87,7 +87,7 @@ Mã của hệ thống mật mã là từ đâu ra? Xác nhận chính xác mã 
 |---|---|---|---|---|---|---|
 | 2026 Xe đạp và & tự động Xuất danh sách thông báo lỗi khi lưu | Bộ Thương mại (MOCOM) | CN (bên ngoài cửa xuất) | https://www.mofcom.gov.cn/zcfb/zc/art/2025/art_1b1313c9c6da4a56874364b39e39c57d.html | 2026-09-03 | VEII | Tập tin thường niên; bằng chứng hiệu suất tăng dần |
 | Thông báo về việc tăng cường sự quản lý xuất thẻ dùng | Thư viện chính sách của Hội đồng tiểu bang (bốn công ti) | CN (bên ngoài cửa xuất) | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | VEII | Chế độ bằng lái xe; 180-day quy tắc từ 2026-01-01 |
-| Bộ quản lý xuất khẩu xe hơi hành khách BEV | Quốc gia mỗi ngày / Toutao | CN (bên ngoài cửa xuất) | http://m.toutiao.com/group/7554336546682323496/ | 2026-09-03 | T_ TIẾNG TÂM | Theo dõi chứng nhận, tham chiếu HS |
+| Bộ quản lý xuất khẩu xe hơi hành khách BEV | Quốc gia mỗi ngày Toutao | CN (bên ngoài cửa xuất) | http://m.toutiao.com/group/7554336546682323496/ | 2026-09-03 | T_ TIẾNG TÂM | Theo dõi chứng nhận, tham chiếu HS |
 | MIIT Order No. 50 — Sản xuất & sản xuất | Bộ công nghệ và kỹ thuật | CN (bên ngoài cửa xuất) | https://www.miit.gov.cn/zcfg/jdcjxl/art/2018/art_72a4ad7ff2304a8c83199eac43f276fe.html | 2026-09-03 | VEII | Sáu loại nhập học; tài liệu-chain cơ bản |
 *Scope ghi chú: Các nguồn tin chính thức ở đây chỉ bao gồm bên xuất khẩu ở Trung Quốc. Các mã nguồn mở, chi tiết hoạt động hệ thống và bất kỳ bản sửa đổi hàng năm nào phải được xác nhận chống lại thông báo thuế và MOFCOM hiện tại; các quy tắc bên đích đã ra khỏi phạm vi. ♪
 
@@ -95,9 +95,9 @@ Mã của hệ thống mật mã là từ đâu ra? Xác nhận chính xác mã 
 | 商务部办公厅关于 2026 年度汽车和摩托车出口许可申报的通知（2025-09-28；引用54号公告，系统填报“乘用车”） | Bộ Thương mại Ngoại giao MOFCOM (wms) | CN | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-04 | VEII |  |
 
 ## Xem lại tập tin
-- **Author / recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
+- **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
 - **Last xem lại**: 2026-09-05
-- **Trible market / pul**: China seport Side
+- **Trible market pul**: China seport Side
 - **Verification phương pháp**: rectity-source recition (MFCOM/State Council/MIIT); các mục nhạy thời gian được đánh dấu, chưa cố định
 - **Ku thích về tiêu chuẩn**: Nghiên cứu và viết từ những nguồn được liệt kê ở trên (các nghiên cứu ban đầu; không có ổ đĩa cầm tay, bỏ xuống hoặc nhập khẩu nào được xác nhận). Sự tự tin nguồn được thể hiện trên mỗi hàng; bất cứ điểm nào chúng ta không thể tự xác nhận được đều được trình bày như một vật chứng thực thay vì xác nhận là sự thật.
 #AutoBridge #ExportLicence #CustomsDocuments #ChinaExport #ExportProcurement

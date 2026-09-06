@@ -29,9 +29,9 @@ Escreva o termo, versão e **nomeado lugar/port** precisamente: "CIF" sem um por
 Um vendedor pode **reservar o título até que o pagamento completo seja recebido** (distinto do risco, que pode já ter passado): até que seja pago na totalidade, o comprador ** não pode hipotecar ou revender** os veículos. Esta cláusula é especialmente valiosa contra o incumprimento em transferências encenadas — mas note que a sua aplicabilidade depende da lei **governing e se a reserva de título é reconhecida/registável na jurisdição do comprador**, que o advogado deve confirmar.
 
 ## Bloco 4 da cláusula — Violação, Desempenho tardio e Reivindicação de janelas
-- ** Pagamento tardio / entrega tardia:** taxa de danos liquidados por dia (muitas vezes expressa em per-mille,.., por dia) com um prazo máximo de **excesso após o qual o contrato pode ser rescindido**.
+- ** Pagamento tardio entrega tardia:** taxa de danos liquidados por dia (muitas vezes expressa em per-mille,.., por dia) com um prazo máximo de **excesso após o qual o contrato pode ser rescindido**.
 - **Alegações de qualidade:** fixar um período de inspeção e uma janela de reclamação** após a chegada; sem um, as disputas latente-defeito tornam-se he-said/she-said. Ligar a janela ao PSI e à detecção realista de danos em trânsito vs danos pré-existentes.
-- Defina ** hierarquia de remédio** (retificar → substituir → reembolso) e quem suporta retorno / custo de envio em cada caso.
+- Defina ** hierarquia de remédio** (retificar → substituir → reembolso) e quem suporta retorno custo de envio em cada caso.
 
 ## Cláusula 5 — Divulgação de condições de veículos (prevenção da fraude)
 Divulgue fatos materiais com veracidade: **versão/configuração, versão de software, e qualquer acidente/história de inundação, ajuste de odômetro ou sobrecarga/mortgage**. A não divulgação destes dados é uma fonte frequente de alegações de fraude — e interage com o PSI, que deve evidenciar a condição divulgada. Para EVs, divulgue informações relevantes para o grau de bateria/SOH conhecidas do vendedor.
@@ -85,18 +85,18 @@ Divulgue fatos materiais com veracidade: **versão/configuração, versão de so
 | Título do código fonte | Organização | Mercado | URL | Verificado | Confiança | Factos corroborados |
 |---|---|---|---|---|---|---|
 | PRC Civil Code Art 596 sales-contract terms | FindLaw (portal legal) | NC | https://www.findlaw.cn/wenda/q_60484893.html | 2026-09-03 | CROSS_CHECKED (artigo citado através de um portal jurídico secundário; não uma fonte oficial do NPC) | Conteúdo essencial do contrato |
-| Modelo de contrato de venda de veículos de exportação (risco/retenção de títulos) | 110ask legais | Global | https://m.110ask.com/fanben/601005122281423969.html | 2026-09-03 | CROSS_CHECKED | Transferência de risco; retenção do título; divulgação da condição |
+| Modelo de contrato de venda de veículos de exportação (risco/retenção de títulos) | legais | Global | https://m.110ask.com/fanben/601005122281423969.html | 2026-09-03 | CROSS_CHECKED | Transferência de risco; retenção do título; divulgação da condição | 110ask
 | Cláusulas principais de compra-contrato (lista de violação/título/configuração) | 66Law | NC | https://m.66law.cn/question/56427049.aspx | 2026-09-03 | CROSS_CHECKED | LDs, janela de reivindicação, anexo de configuração |
 | Contrato de exportação Incoterms/disputas/Apostille | Material para transporte de mercadorias | Global | https://m.11467.com/product/d43019461.htm | 2026-09-03 | FONTE ÚNICA | Incoterms versioning, arbitragem ICC, Apostille |
 * Nota de escopo: O conteúdo do artigo 596 é CRUSS_ VERIFIED requer o texto oficial do Código Civil da RPC (PCN/governo), que não foi capturado; não rotule VERIFIED. A aplicabilidade da reserva de título, arbitragem e Apostolise depende da lei e destino de governo escolhido, e deve ser confirmada por um advogado qualificado. Os modelos de contrato são apenas referências estruturais. *
 
 | 《中华人民共和国民法典》第三编 合同（第五百九十五/五百九十六/五百九十七条逐字） | 最高人民检察院 (Procurador Supremo das Pessoas) — fórmico | NC | https://www.spp.gov.cn/spp/ssmfdyflvdtpgz/202008/t20200831_478413.shtml | 2026-09-04 | VERIFICADO |  |
-| 中华人民共和国民法典 全文 (政府门户转载) | 云南省司法厅 (sft.yn.gov.cn) / 开封市人大 (kfsrd.henanrd.go | NC | https://sft.yn.gov.cn/pf/yunnan/PZhengCeFaGui/2020061631_2.shtml | 2026-09-04 | VERIFICADO |  |
+| 中华人民共和国民法典 全文 (政府门户转载) | 云南省司法厅 开封市人大 (kfsrd.henanrd.go | NC | https://sft.yn.gov.cn/pf/yunnan/PZhengCeFaGui/2020061631_2.shtml | 2026-09-04 | VERIFICADO |  |
 
 ## Revisão Editorial
-- **Autor / revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)
+- **Autor revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)
 - ** Última revisão**: 2026-09-05
-- **Mercado de referência / escopo**: Estrutura global do contrato (estatuto do PRC identificado; jurisdição de executoriedade específica)
+- **Mercado de referência escopo**: Estrutura global do contrato (estatuto do PRC identificado; jurisdição de executoriedade específica)
 - ** Método de verificação**: Estatuto + síntese de práticas legais; ressalva de consulta; nenhuma conclusão legal específica de jurisdição ultrapassada
 - ** Norma editorial**: Pesquisado e escrito a partir das fontes listadas acima (pesquisa de mesa; nenhuma condução em primeira mão, demolição ou importação é reivindicada). A confiança na fonte é mostrada por linha; qualquer ponto que não podemos confirmar independentemente é apresentado como um item de verificação em vez de afirmado como fato.
 #AutoBridge #SalesContract #PaymentTerms #ExportProcurement #DisputeClause

@@ -4,10 +4,10 @@
 - **Référencement**: Changan CS55 PLUS (3rd Gen) 2024: Marché Chinois ICE Spécifications et Guide d'exportation
 - **Description détaillée**: SUV essence Changan CS55 PLUS de troisième génération sur le marché chinois: Blue Whale NE 1.5T, 7DCT, dimensions, utilisation de carburant WLTC, et pourquoi l'hybride est une ligne séparée.
 - ** H1 **: Changan CS55 PLUS (3rd Génération, 2024) — Spécifications des VUS à essence et contrôles à l'exportation sur le marché chinois
-- **Mot-clé principal**: Changan / 长安 CS55 PLUS(第三代) spécifications exportation
+- **Mot-clé principal**: Changan 长安 CS55 PLUS(第三代) spécifications exportation
 - ** Termes de recherche secondaires**: Changan CS55 PLUS export; troisième génération CS55; Baleine bleue 1.5T; VUS chinois à essence; 7DCT
 - **URL suggérée**: /véhicules/changan- cs55-plus/
-- **Intention de la recherche**: 了解 Changan / 长安 CS55 PLUS(第三代) 中国版规格 -配置与出口适配性 (车型参数页)
+- **Intention de la recherche**: 了解 Changan 长安 CS55 PLUS(第三代) 中国版规格 -配置与出口适配性 (车型参数页)
 - **Suggestions de lien interne**: /véhicules/changan- cs55-plus/, /guides/émissions-compatibilité-histoire/, /guides/chine-utilisé-automobile-exportation-licence-processus/
 - **Schema Champ d'application**: article + véhicule (aucun produit/offre/examen)
 
@@ -15,7 +15,7 @@
 Cette page ne couvre que le ** troisième Changan CS55 PLUS (2024) avec le groupe motopropulseur essence (ICE)**. La version ** super hybride est une ligne distincte** avec des figures différentes de la carrosserie et du groupe motopropulseur et n'est pas fusionnée ici. Le marché de référence est **Chine**.
 
 ## Groupe motopropulseur à essence et dimensions
-- **Body**: 4539 / 1865 / 1680 mm, empattement 2656 mm; cargo 475–1415 L.
+- **Body**: 4539 1865 1680 mm, empattement 2656 mm; cargo 475–1415 L.
 - ** Moteur**: 新蓝鲸 NE 1.5T, 141 (192Ps) kW.
 - **Transmission**: 7DCT 湿式双离合.
 - **Performance/économie**: 0–100 km/h 7.9 s; Consommation de carburant WLTC 6.94.
@@ -25,7 +25,7 @@ Cette page ne couvre que le ** troisième Changan CS55 PLUS (2024) avec le group
 ## Tableau des spécifications vérifiées (référence du marché chinois)
 | Spécification | Valeur | Unité | Marché | Confiance | Note de source |
 |---|---|---|---|---|---|
-| hauteur de largeur de longueur | 4539 / 1865 / 1680 | mm | CHINE | SOURCE UNIQUE | 搜狐车型库 |
+| hauteur de largeur de longueur | 4539 1865 1680 | mm | CHINE | SOURCE UNIQUE | 搜狐车型库 |
 | empattement | 2656 | mm | CHINE | SOURCE UNIQUE | 搜狐车型库 |
 | moteur | 新蓝鲸 NE 1.5T | - Je suis désolé. | CHINE | SOURCE UNIQUE | 搜狐车型库 |
 | Puissance du moteur | 141 (192Ps) | kW | CHINE | SOURCE UNIQUE | 搜狐车型库 |
@@ -47,9 +47,9 @@ Pour un VUS essence, les contrôles critiques de la commande sont le stade **ém
 5. Traiter les prix de lancement RMB comme une référence nationale; demander une cote d'exportation courante.
 
 ## FAQ
-**Est-ce que cela inclut l'hybride CS55 ?** Non — l'hybride est une ligne séparée avec des spécifications différentes.
+**Est-ce que cela inclut l'hybride CS55 Non — l'hybride est une ligne séparée avec des spécifications différentes.
 **Quelle norme d'émission?** Confirmer la Chine- 6 par rapport aux règles de destination; voir le guide des émissions/carburants.
-**Est-ce que 6.94 L / 100 km est un chiffre réel?** C'est une valeur de laboratoire WLTC; l'utilisation réelle varie.
+**Est-ce que 6.94 L 100 km est un chiffre réel?** C'est une valeur de laboratoire WLTC; l'utilisation réelle varie.
 **Le prix à l'exportation est-il de 99 à 900 RMB?** Non — référence de lancement national.
 ** Quelle transmission?** 7-speed double embrayage humide (7DCT) sur la ligne capturée.
 

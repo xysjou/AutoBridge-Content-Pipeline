@@ -2,11 +2,11 @@
 ## SAO Siêu dữ liệu
 - **SEEO Titry**: Wuling Hongguang MIIV Macaron 2024 Spec & Xuất Ghi chú
 - **Meta Mô tả**: Trung Quốc thị trường 3rd-gen Wuling MIIEV Macaron — 3-door 4-seat EV, 20 kW động cơ,  170/215 km CLTC, Pin LFP, Chủ yếu là sạc chậm, Tốc độ tối đa 100 km/h. lô- gi- ri phân cấp  and  Kiểm tra xuất khẩu.
-- **Sudeest URL**: /vehcles/wuling-Hongguang-minev / (Người mẫu xanh lá cây trang; năm giữ trong H1/body, không phải URL)
+- **Sudeest URL**: /vehcles/wuling-Hongguang-minev (Người mẫu xanh lá cây trang; năm giữ trong H1/body, không phải URL)
 - ** H1 **: Wuling Hongguang MIIV Macaron 2024 (Trung Quốc - Market): Micro-V Spects và Xuất Kiểm tra
 - ** Từ khoá tiểu học **: hongguang miniev macaron 2024 es
 - **Secondary Search Words**: MIIV Phạm vi Macaron, Xuất khẩu EV vi tính, MENV 20kW, 170 215 xe thành phố CLTC, Name
-- **I nội bộ Link gợi ý**: /vehcles/byd-dolbin/; /vehicles/farizon-xiang- v6e-specs/; /guides/ev-shipping- un3171-imdg-compliance/; /guides/contaner-vehile-lang-lang/hling// / / / / / / / / /guides/guides/contather/contaner-vechle-lang-lang/
+- **I nội bộ Link gợi ý**: /vehcles/byd-dolbin/; /vehicles/farizon-xiang- v6e-specs/; /guides/ev-shipping- un3171-imdg-compliance/; /guides/contaner-vehile-lang-lang/hling// /guides/guides/contather/contaner-vechle-lang-lang/
 - **Image gợi ý**: 3-door cơ thể với cửa mở; 4-seat cabin vi tính; cổng sạc (lắp điện); kích cỡ so sánh trong một vịnh đậu xe
 - **LT Những gợi ý**: "Lấp lánh MIIV Kích thước EV cực nhỏ Macaron; "MINIV Macaron 170 215 CLTC"
 
@@ -16,10 +16,10 @@ Hồng diệp Phi Macaron là một chiếc xe điện thành thị **, không p
 ## Comment
 | Mục | 3rd-gen Macaron 2024 (tham chiếu Hoa Kỳ) |
 |---|---|
-| Thân hình / ghế | 3-door, 4-seat cửa sau |
+| Thân hình ghế | 3-door, 4-seat cửa sau |
 | Động cơ sau | 20 kW (170 km) |
 | Comment | LFP; 215 km lớp mang khoảng 13.4 kWh (tài nguyên) |
-| Điểm ảnh | 170 km / 215 km |
+| Điểm ảnh | 170 km 215 km |
 | Tốc độ | 100 km/h (tài nguyên điện) |
 | Lớp mịn | 777 kg (tài nguyên điện) |
 | Đang nạp | **slow (AC) sạc**; bất kỳ DC nào tính nhanh trên lớp 215 là cấu hình (cưới) — xác nhận trên băng thông |
@@ -27,12 +27,12 @@ Hai tiêu đề người mua nhầm lẫn là điểm số **range (170 so với
 
 ## Lập luận cấp: 170 đấu 215 cho một hệ thống Hạm đội
 Cả hai điểm đều có chung 3064 mm cơ thể vi mô  and  Bố trí bốn thịt, Nên lựa chọn là quyết định về xe đạp, không phải là một quyết định kích thước:
-- ** 170 km lớp / 20 kW ** — tham chiếu thu nhập thấp nhất (thường là RMB 41, 800 độ nhạy trong nước; thích hợp để sửa chữa, ngắn vòng lặp mỗi ngày nơi mà xe quay về cơ sở và nạp chậm hơn một đêm (tách, cộng đồng cổng, khu nghỉ dưỡng, thuê xe ngắn, cuối cùng với bán kính nhỏ).
-- ** 215 km lớp / ~ 13.4 kWh LFP** — xấp xỉ RMB 46, 800 tham khảo nội địa; thừa năng lực mua đầu xe đạp công tác, và đó là điểm duy nhất mà bất kỳ thiết bị DC nào cũng có thể xuất hiện — và ngay cả ở đó nó là **configuration- phụ thuộc và phải được xác nhận trên mỗi VIN**, không giả định.
+- ** 170 km lớp 20 kW ** — tham chiếu thu nhập thấp nhất (thường là RMB 41,800độ nhạy trong nước; thích hợp để sửa chữa, ngắn vòng lặp mỗi ngày nơi mà xe quay về cơ sở và nạp chậm hơn một đêm (tách, cộng đồng cổng, khu nghỉ dưỡng, thuê xe ngắn, cuối cùng với bán kính nhỏ).
+- ** 215 km lớp ~ 13.4 kWh LFP** — xấp xỉ RMB 46,800 tham khảo nội địa; thừa năng lực mua đầu xe đạp công tác, và đó là điểm duy nhất mà bất kỳ thiết bị DC nào cũng có thể xuất hiện — và ngay cả ở đó nó là **configuration- phụ thuộc và phải được xác nhận trên mỗi VIN**, không giả định.
 The procurement trap is ordering the 170 grade on price for a route that needs mid-day top-ups, Bởi vì một chiếc xe vi mô chỉ có sức nặng không thể phục hồi trong một thời gian ngắn. Quyết định vòng lặp hàng ngày trước, rồi chọn điểm; Đừng đảo ngược nó.
 
 ## Các chiều và sự thật thu thập
-- Chiều dài / chiều rộng / chiều cao: ** 3064 / 1493 / 1629 mm **
+- Chiều dài chiều rộng chiều cao: ** 3064 1493 1629 mm **
 - Bánh xe: ** 2010 mm **
 At just over 3 m long, Macarron là một trong những EV nhỏ nhất trên thị trường Trung Quốc. Four seats are present, nhưng phía sau không gian  and  luggage volume are micro-car scale — "4-seat" means occasional four-up urban use,  not four-adult comfort. Dấu chân nhỏ cũng là lợi thế tải lên: nhiều đơn vị trên một container hơn một chiếc xe thông thường, nhưng số lượng chính xác vẫn còn phụ thuộc vào một kế hoạch tải ** và số lượng hàng được chấp thuận của nhà sản xuất** (xem hộp đựng hàng) - không trích dẫn một số cố định từ chiều dài.
 
@@ -45,7 +45,7 @@ At just over 3 m long, Macarron là một trong những EV nhỏ nhất trên th
 Các đường vi tính thường xuyên thay đổi cấp/găn, nên khóa các trường này chống lại các tờ xây dựng ** cụ thể VIN**, chứ không phải tên sách mỏng:
 1. **Raget grade (170/215) và ắc quy kWh** — chỉ riêng tên "Macaron" không có nói như vậy.
 2. **Crang proctment** — AC-p điện chậm chỉ, hoặc bất kỳ DC nào trên 215 lớp; cộng với tiêu chuẩn kết nối vật lý cho đích đến.
-3. **Motor power và đánh giá tốc độ cao** để tham khảo lớp 20 kW / 100 km/h.
+3. **Motor power và đánh giá tốc độ cao** để tham khảo lớp 20 kW 100 km/h.
 4. **Steering và ngôn ngữ in/infotainment** - không cho rằng RHD hoặc một UI địa phương trên một công trình xây dựng Trung Quốc.
 5. **Homologation/safety-content** Trạng thái cho đích đến — vi ô-V phải làm rõ quy tắc thị trường địa phương (xem hướng dẫn tập tin/kiểu CoC/ type-approval).
 6. **V vận chuyển tài liệu** (UN38.3/MSDS cộng với tu chính IMDG 42-24 (từ 2026-01-01) một phương tiện bán kính li-on-batry-bater là tối mật UN3556, không phải di sản chung UN3171; áp dụng tài liệu hướng dẫn/SOC trên mỗi thư mục EV vận chuyển Chân thực và các nhà xuất bản (xem hệ thống dẫn bán kính đại dương) mặc dù có pin nhỏ.
@@ -90,7 +90,7 @@ Bao nhiêu ghế? Bốn ghế trong một cơ thể 3-door, 3064 mm micro; phía
 ## Nguồn và Định dạng
 | Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
-| Macaron cộng 170 km / 20 kW | Tự động về nhà | CN | https://chejiahao.m.autohome.com.cn/info/13878133 | 2026-09-03 | ĐÃ_ ĐÃ | 20 kW, 170 km, giá nội địa (TIM_SENIIIVE) |
+| Macaron cộng 170 km 20 kW | Tự động về nhà | CN | https://chejiahao.m.autohome.com.cn/info/13878133 | 2026-09-03 | ĐÃ_ ĐÃ | 20 kW, 170 km, giá nội địa (TIM_SENIIIVE) |
 | Tham số/ phụ lục MIIIV 2025 | Cơ sở dữ liệu Dongchedi | CN | https://m.dongchedi.com/auto/params-carIds-96348-79759-72934-72935-72308-72478-72466-72479-72467-72480-72468-72481-79929-79930-79931-79932-72476-72477-72475-72474-76902-76901-77162-77161-59192 | 2026-09-03 | ĐÃ_ ĐÃ | Năm mô hình, điểm số, SMPP nội địa (TIME_SEEITIVE) |
 | 2024 Macaron 215 (dimenions/kerb) | Comment | CN | https://product.auto.163.com/product/000CQEGG.html | 2026-09-03 | SINGLE_SOURCE | 3064/1493/1629, 2010 mm, 777 kg (msia DB, không phải OEM) |
 | Name | Bách khoa toàn thư PCauto | CN | http://m.pcauto.com.cn/baike/941480/1848425/ | 2026-09-03 | SINGLE_SOURCE | _ 13.4 kWh, phương pháp sạc điện |
@@ -103,7 +103,7 @@ Bao nhiêu ghế? Bốn ghế trong một cơ thể 3-door, 3064 mm micro; phía
 *Bribleence ghi chú: không có bài báo chính nào về Wuling/SAIC-GM-Wuling được ghi lại; cơ sở dữ liệu truyền thông không được dùng VERIFIE. Phạm vi/prim được kiểm tra chéo trong khi trọng lượng kerb, tốc độ tối đa và kWh là một nguồn tin đơn. CLTC chỉ là xe đạp Trung Quốc. Cần phải xác nhận lại quy trình nạp điện chính xác. ♪
 
 ## Xem lại tập tin
-- **Author / recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
+- **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
 - **Last xem lại**: 2026-09-05
 - ** chợ khảo sát**: China, 3rd-gen Macaron MY2024 (tham khảo thị trường Trung Quốc)
 - **Verification phương pháp**: multi-database cross-check; các mục riêng được đánh dấu; thêm giá trị được xây dựng chỉ trên các sự kiện đã được xác nhận, không có hình mới bên ngoài

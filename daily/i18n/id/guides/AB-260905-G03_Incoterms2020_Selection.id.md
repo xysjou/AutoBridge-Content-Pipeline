@@ -2,36 +2,36 @@
 
 ## SEO Metadata
 - ** Judul SEO **: Incoterms 2020 Pemilihan Panduan untuk Expor Kendaraan: FOB, CIF, FCA, CIP, DDP dan More
-- ** Meta Description **: Pilih hak Incoterms 2020 aturan untuk pengiriman kendaraan: di mana resiko dan biaya transfer, laut - hanya melawan istilah multimodal, asuransi di bawah CIF / CIP, dan mengapa DDP maxastivable seller beban.
+- ** Meta Description **: Pilih hak Incoterms 2020 aturan untuk pengiriman kendaraan: di mana resiko dan biaya transfer, laut - hanya melawan istilah multimodal, asuransi di bawah CIF CIP, dan mengapa DDP maxastivable seller beban.
 - ♪ ♪ H1 **: Memilih Incoterms 2020 dalam Canada Expor - Risk and Cost Allocation
 - ** Primary Keyword **: incoterms 2020 selection guiding guide
 - ** Akhir Pencarian Second **: Incoterms 2020; FCA vs FCA; CIF vs CIP; DDP risiko; multimodal istilah; transfer risiko
-- ** Sugested URL **: / guide / incoterm- 2020-selection-guide/
-- ** Cari Intent **: 汽车出口合同如何按运输方式选择 Incoterms 2020 术语: 明确风险转移点与费用 / 保险责任
-- *** Internal Link Sugestions **: / guide / exports / page -methog -t-tlc -risk /, / guide / marine- cargo asuransi-history /, / guide / china -export-traustment -t-s- disitionationship -single-window / /
-- ** Skema Scope **: Artikel (tidak ada Produk / Offer / Review)
+- ** Sugested URL **: guide incoterm- 2020-selection-guide/
+- ** Cari Intent **: 汽车出口合同如何按运输方式选择 Incoterms 2020 术语: 明确风险转移点与费用 保险责任
+- *** Internal Link Sugestions **: guide exports page -methog -t-tlc -risk guide marine- cargo asuransi-history guide china -export-traustment -t-s- disitionationship -single-window
+- ** Skema Scope **: Artikel (tidak ada Produk Offer Review)
 
 ## Mulai dari mode transportasi, bukan kebiasaan
-Incoterms 2020 berisi aturan yang dibagi menjadi mereka untuk setiap mode transportasi dan mereka tradisional untuk laut / inland-jalur air transportasi. Dalam ekspor kendaraan pilihan pertama adalah oleh karena itu apakah bergerak port-port laut (RoRo / kontainer) atau multimodal (truk inland / kereta api ditambah laut, umum untuk truk Sentral- Asia). Memilih sebuah istilah laut - hanya untuk bergerak multimodal menciptakan celah di mana risiko berlalu.
+Incoterms 2020 berisi aturan yang dibagi menjadi mereka untuk setiap mode transportasi dan mereka tradisional untuk laut inland-jalur air transportasi. Dalam ekspor kendaraan pilihan pertama adalah oleh karena itu apakah bergerak port-port laut (RoRo kontainer) atau multimodal (truk inland kereta api ditambah laut, umum untuk truk Sentral- Asia). Memilih sebuah istilah laut - hanya untuk bergerak multimodal menciptakan celah di mana risiko berlalu.
 
 ## Dimana resiko sebenarnya dipindahkan
-- ** FOB / FCA **: di bawah FOB (laut / pedalaman jalur air) risiko lewat ketika barang ditempatkan di kapal ** kapal tersebut; di bawah FCA (mode apapun) risiko melewati ketika barang diserahkan ke kapal induk pembeli di tempat bernama. Untuk gerakan maju dan multimodal FCA adalah yang cocok karena resiko dan kontrol sejajar dengan barang bekas, daripada saat satu papan penjual tidak mengontrol.
-- ** CFR / CPT dan CIF / CIP **: penjual arranges dan membayar kereta ke tujuan, tapi *** transfer risiko sebelumnya **, pada pengiriman / handover - biaya dan risiko sengaja terbagi, yang mengejutkan pembeli yang menganggap CIF berarti risiko ke tujuan.
-- ** DAP / DPU / DDP *: ini adalah istilah kedatangan; penjual membawa risiko lebih lanjut. ** DDDP menempatkan kewajiban maksimum pada penjual **, termasuk ijin impor, tugas dan pajak di tujuan - untuk eksportir kendaraan Cina tanpa tujuan terdaftar ini sering tidak praktis dan compligency-berat.
+- ** FOB FCA **: di bawah FOB (laut pedalaman jalur air) risiko lewat ketika barang ditempatkan di kapal ** kapal tersebut; di bawah FCA (mode apapun) risiko melewati ketika barang diserahkan ke kapal induk pembeli di tempat bernama. Untuk gerakan maju dan multimodal FCA adalah yang cocok karena resiko dan kontrol sejajar dengan barang bekas, daripada saat satu papan penjual tidak mengontrol.
+- ** CFR CPT dan CIF CIP **: penjual arranges dan membayar kereta ke tujuan, tapi *** transfer risiko sebelumnya **, pada pengiriman handover - biaya dan risiko sengaja terbagi, yang mengejutkan pembeli yang menganggap CIF berarti risiko ke tujuan.
+- ** DAP DPU DDP *: ini adalah istilah kedatangan; penjual membawa risiko lebih lanjut. ** DDDP menempatkan kewajiban maksimum pada penjual **, termasuk ijin impor, tugas dan pajak di tujuan - untuk eksportir kendaraan Cina tanpa tujuan terdaftar ini sering tidak praktis dan compligency-berat.
 
 ## Catatan asuransi untuk CIF dan CIP
-Berdasarkan CIF penjual arrange minimum asuransi laut cover untuk keuntungan pembeli; di bawah CIP baku adalah ** tingkat penutup * lebih tinggi * (tunduk kepada aturan dan variasi yang disepakati). Tepat jumlah dan clause yang diasuransikan telah disepakati dalam kontrak / kebijakan - panduan ini tidak mereproduksi teks ICC A1–A10, yang tetap dijuginkan publikasi ICC yang terhubung di bawah, dan ia mengutip tidak ada barang atau premium.
+Berdasarkan CIF penjual arrange minimum asuransi laut cover untuk keuntungan pembeli; di bawah CIP baku adalah ** tingkat penutup * lebih tinggi * (tunduk kepada aturan dan variasi yang disepakati). Tepat jumlah dan clause yang diasuransikan telah disepakati dalam kontrak kebijakan - panduan ini tidak mereproduksi teks ICC A1–A10, yang tetap dijuginkan publikasi ICC yang terhubung di bawah, dan ia mengutip tidak ada barang atau premium.
 
 ## Jalur pilihan untuk perintah kendaraan
 1. Identifikasi rantai transportasi: laut murni versus multimodal.
-2. Cocokkan istilah untuk siapa yang mengendalikan kereta utama dan yang dapat memastikan / jelas paling diandalkan.
-3. Sejajarkan istilah dengan metode pembayaran (aliran dokumen di bawah L / C harus cocok dengan Incotererm).
-4. Hindari DDP kecuali penjual secara legal dapat menangani impor tujuan, tugas dan VAT / GST.
-5. Sebutkan nama tempat / pelabuhan tepat - istilah tanpa titik yang tepat adalah sengketa menunggu untuk terjadi.
+2. Cocokkan istilah untuk siapa yang mengendalikan kereta utama dan yang dapat memastikan jelas paling diandalkan.
+3. Sejajarkan istilah dengan metode pembayaran (aliran dokumen di bawah L C harus cocok dengan Incotererm).
+4. Hindari DDP kecuali penjual secara legal dapat menangani impor tujuan, tugas dan VAT GST.
+5. Sebutkan nama tempat pelabuhan tepat - istilah tanpa titik yang tepat adalah sengketa menunggu untuk terjadi.
 
 ## PSD
-** FOB atau FCA untuk sebuah kontainer? ** FCA umumnya cocok diprogerised / multimodal bergerak lebih baik daripada FOB.
-** Apakah CIF berarti penjual menanggung risiko ke tujuan? ** Tidak ada - risiko melewati pada pengiriman meskipun penjual membayar kereta / asuransi ke tujuan.
+** FOB atau FCA untuk sebuah kontainer? ** FCA umumnya cocok diprogerised multimodal bergerak lebih baik daripada FOB.
+** Apakah CIF berarti penjual menanggung risiko ke tujuan? ** Tidak ada - risiko melewati pada pengiriman meskipun penjual membayar kereta asuransi ke tujuan.
 ** CIF vs. CIP cover? ** CIP default ke tingkat asuransi yang lebih tinggi daripada CIF, subjek perjanjian.
 Mengapa DDP berisiko untuk eksportir Cina? Ini membuat penjual bertanggung jawab untuk tujuan izin impor, tugas dan pajak.
 Berapa banyak Incoterms 2020 aturan? Sebelas, dalam dua kelompok transport-mode.
@@ -40,8 +40,8 @@ Berapa banyak Incoterms 2020 aturan? Sebelas, dalam dua kelompok transport-mode.
 ## Sumber & Verifikasi
 | Sumber | Organisasi | Pasar | Tier | Percaya diri | URL | Fakta yang didukung |
 |---|---|---|---|---|---|---|
-| 国际贸易术语图文精讲 = Incoterms2020 共 11 种 / 两大类 | 中国贸促会广西分会 | CN | T1 | TERBATAI | https://www.ccpitgx.org/webcpitgx/2025/rcepjiedu_0624/15195.html | 11 术语, 按运输方式分类, 风险费用划分 |
-| 2020 国际贸易术语详解 FOB 风险点改为装上船 | 浙江省贸促会 | CN | T1 | TERBATAI | http://www.ccpitzj.gov.cn/art/2020/8/17/art_1229557691_11515.html | FOB / CFR / CIF, 船舷 GRA装上船 |
+| 国际贸易术语图文精讲 = Incoterms2020 共 11 种 两大类 | 中国贸促会广西分会 | CN | T1 | TERBATAI | https://www.ccpitgx.org/webcpitgx/2025/rcepjiedu_0624/15195.html | 11 术语, 按运输方式分类, 风险费用划分 |
+| 2020 国际贸易术语详解 FOB 风险点改为装上船 | 浙江省贸促会 | CN | T1 | TERBATAI | http://www.ccpitzj.gov.cn/art/2020/8/17/art_1229557691_11515.html | FOB CFR CIF, 船舷 GRA装上船 |
 | 跨境电子商务贸易术语: 风险转移教材 | 清华大学出版社 | CN | T3 | _ BERDECAT | https://www.tup.tsinghua.edu.cn/upload/books/yz/095136-01.pdf | 风险转移, 象征性交货 |
 | Incoterms 2020 rules (ICC) | Kamar Perdagangan Internasional | CN | T1 | TERBATAI | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-rules-2020/ | penerbit otoritatif dari Incotaerms 2020 |
 | WCO Origin instrumen dan alat | Organisasi Bea Cukai Dunia | CN | T1 | TERBATAI | https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx | rule-of-earth framework dan instrumen yang dijaga oleh WCO |
@@ -63,9 +63,9 @@ Berapa banyak Incoterms 2020 aturan? Sebelas, dalam dua kelompok transport-mode.
 - ** LICENSE _ OR _ USAGE _ BASIS **: tidak ada yang aman - kehadiran halaman web OEM bukan sebuah lisensi penggunaan ulang komersial
 - ** CHECTD _ DATE **: 2026-09-06
 - ** MODEL _ TOPIC _ MATCH *: exactIy Choosing Incooterms 2020 dalam Chinese Vehicle Expor
-- ** IMAGE _ SCOPE _ CATATAN **: gambar harus cocok dengan model yang sama saja keluarga / topik; tidak boleh menyiratkan trim, model tahun, VIN, in- orang pemeriksaan atau transaksi aktual
+- ** IMAGE _ SCOPE _ CATATAN **: gambar harus cocok dengan model yang sama saja keluarga topik; tidak boleh menyiratkan trim, model tahun, VIN, in- orang pemeriksaan atau transaksi aktual
 - FAIL
-- ** BLOCK _ REASON **: Tidak ada gambar yang dapat digunakan ulang yang dapat diamankan: Wikimedia Commons / Flickr tidak dapat dicapai dari lingkungan penelitian, perpustakaan saham memerlukan akses API / license yang dikonfirmasi, dan gambar laman web OEM TIDAK sebuah hibah komersial. Tak ada foto AutoBridge- milik mereka. Catatan tetap FAIL daripada menegaskan.
+- ** BLOCK _ REASON **: Tidak ada gambar yang dapat digunakan ulang yang dapat diamankan: Wikimedia Commons Flickr tidak dapat dicapai dari lingkungan penelitian, perpustakaan saham memerlukan akses API license yang dikonfirmasi, dan gambar laman web OEM TIDAK sebuah hibah komersial. Tak ada foto AutoBridge- milik mereka. Catatan tetap FAIL daripada menegaskan.
 - ** ALT (12 bahasa) *:
   - **EN**: Incoterms selection, Chinese-market procurement guide export buyer reference
   - **FR**: Incoterms selection, procurement guide du marché chinois, référence acheteur export

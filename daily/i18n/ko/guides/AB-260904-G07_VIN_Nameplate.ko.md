@@ -17,7 +17,7 @@ VIN 잡화는 등록 ** 이후 차단 몇 가지 결함 중 하나입니다 ** �
 ## GB 16735-2019의 밑에 17-Character 구조
 차량 식별 번호는 ** 17 문자 **, 세 부분으로 나뉩니다.
 - ** WMI (1–3 위치) - 세계 제조업체 Identifier**: GB 16737.를 가진 선에서 있는 국가의 허가한 몸에 의해 제조자에 전 할당된
-- **VDS (4–9 위치) - 차량 디지터 섹션**: 모델/엔진 및 기타 특성을 설명합니다. ** 위치 9는 체크 문자**입니다.
+- **VDS (4–9 위치) - 차량 디지터 섹션**: 및 기타 특성을 설명합니다. ** 위치 9는 체크 문자**입니다.
 - **VIS (위치 10–17) - 차량 지표 섹션**: 모델 년, 조립 공장 및 생산 일련 번호를 운반합니다.
 
 **GB 16735-2019 *Road 차량 - 차량 식별 번호 (VIN) ***는 현재 중국 표준 (2004 판을 대체)이며 도로 모터 차량 제품 액세스 검토 **에 대한 ** 필수 인용 표준으로 나열됩니다. 그 필수 상태는 왜 VIN, 명찰, 인증서 및 면허 문서가 일관되게되어야 합니다.
@@ -27,10 +27,10 @@ WMI 첫 번째 문자는 공인 된 몸에 의해 할당됩니다. 이 가이드
 
 ## The Four-Place Match Before Balance Payment
 Compare the same 17 characters across four locations  and  연삭이 없으면 재감상 또는 과 살포:
-1. ** 몸에 스탬프 / 치셀 VIN ** (카시스).
+1. ** 몸에 스탬프 치셀 VIN ** (카시스).
 2. **명판에 있는 VIN **.
-3. ** 적합성 / 공장 인증서의 인증서에 대한 VIN **.
-4. ** 배송 서류에 VIN ** (B / L, 송장, 포장 목록).
+3. ** 적합성 공장 인증서의 인증서에 대한 VIN **.
+4. ** 배송 서류에 VIN ** (B L, 송장, 포장 목록).
 
 어떤 문자 차이, 쉼표 증거, 또는 문서-vs-body mismatch는 보유점입니다: 공급 업체로 해결  and  제조업체의 할당 기록 **before** 결제  and  예약,  because registration authorities compare the same four places.
 
@@ -43,14 +43,14 @@ Compare the same 17 characters across four locations  and  연삭이 없으면 �
 
 ## 이 가이드의 경계
 - WMI-prefix-to-manufacturer 디렉토리 없음 (허가 된 할당 테이블 필요).
-- 절대 "니셜 편지 = 제조 국가" 규칙.
+- 절대 "니셜 편지 제조 국가" 규칙.
 - Destination VIN/registration 형식은 대상 국가마다 취급됩니다.
 
 ## 자주 묻는 질문
-**중국 VIN 구조?** 17 문자: WMI (1–3), VDS (9의 체크 문자와 더불어 4–9), VIS (10–17의 모형 년/식물/동물).
-** 어느 표준이 그것을 지배합니까? ** GB 16735-2019, 차량 제품 접근 검토에 있는 필수 인용된 기준.
-**첫 글자에서 기원을 말할 수 있습니까?** 자신의 것에 의존하지 마십시오 - 공인 WMI 할당을 사용합니다. 이 가이드는 사실로 L / H 규칙을 주장하지 않습니다.
-**결제 전에 어떤 경기가 필요하나요?** 탬프 바디 VIN, 명찰 VIN, 인증서 VIN 및 배송 문서 VIN - 모든 동일, 재 샘플없이.
+**중국 VIN 17 문자: WMI (1–3), VDS (9의 체크 문자와 더불어 4–9), VIS (10–17의 모형 년/식물/동물).
+** 어느 표준이 그것을 ** GB 16735-2019, 차량 제품 접근 검토에 있는 필수 인용된 기준.
+**첫 글자에서 기원을 말할 수 자신의 것에 의존하지 마십시오 - 공인 WMI 할당을 사용합니다. 이 가이드는 사실로 L H 규칙을 주장하지 않습니다.
+**결제 전에 어떤 경기가 탬프 바디 VIN, 명찰 VIN, 인증서 VIN 및 배송 문서 VIN - 모든 동일, 재 샘플없이.
 
 ## 이미지 기록
 - IMAGE_ASSET_PATH: 저장소에 보안되지 않음
@@ -60,8 +60,8 @@ Compare the same 17 characters across four locations  and  연삭이 없으면 �
 - permission_HOLDER: 확인되지 않은
 - 라이센스_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
 - CHECKED_DATE: 2026-09-06
-- MODEL_TOPIC_MATCH: 정확한 모델/버전 (또는 가이드 항목)과 참고 시장과 일치해야 합니다.
-- IMAGE_SCOPE_NOTE: 정확한 모델 가족/토닉에만 일치; 특정 트림/모형, 실제 VIN, 인-인 검사 또는 실제 거래에 실패하지 않아야 합니다.
+- MODEL_TOPIC_MATCH: 정확한 (또는 가이드 항목)과 참고 시장과 일치해야 합니다.
+- IMAGE_SCOPE_NOTE: 정확한 모델 일치; 특정 실제 VIN, 인-인 검사 또는 실제 거래에 실패하지 않아야 합니다.
 - IMAGE_RIGHTS_STATUS: FAIL (허가 된 자산 없음; placeholder 또는 "이전 이미지 유지"주의 허용되지 않음)
 - BLOCK_REASON: 재사용 가능한 이미지는 보안되지 않았습니다. Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 없으며, 주식 라이브러리는 인증된 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 존재하지 않습니다. Kept FAIL 오히려 asserted 보다는.
 - 언어 별 ALT:
@@ -85,8 +85,8 @@ Compare the same 17 characters across four locations  and  연삭이 없으면 �
 | GB 16735-2019 표준 상태 페이지 | SAMR 오픈 | 담당자: Mr. wang | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 엽니다. | 2026-09-04 | 인증 (기본) | 현재 상태, 2004 대체 |
 | SAMR 플랫폼 · GB16735-2019 세부 사항 | 의논하기 | 담당자: Mr. wang | https://std.samr.gov.cn/gb/search/gbDetailed?id=94E9AF238E3052A4E05397BE0A0AD366 | 2026-09-04 | 인증 (기본) | 표준 상태 |
 | Road-motor-vehicle 제품 접근 검토 필요조건 (GB16735의 필수 인용) | MIIT 공식 PDF | 담당자: Mr. wang | https://wap.miit.gov.cn/cms_files/filemanager/1226211233/attach/20259/9d0824a8e8a84abf858f3cb96a6d7385.pdf 뺍니다. | 2026-09-04 | 인증 (기본) | 필수 상태, 일관성 요구 사항 |
-| VIN 세그먼트 설명 | Pacific 자동차 | 담당자: Mr. wang | HTTP: .pcauto.com.cn/x/ 5100/51002243.html 의 경우 | 2026-09-04 | SINGLE_SOURCE(싱글) | 위치 수준 설명자 | http://m.pcauto.com.cn/x/5100/51002243.html
-*Blocked 참고: "중국 WMI는 L / 일부 H"로 시작되고 사실로 명시되지 않습니다. WMI-prefix 제조업체 매핑 및 목적지 VIN 형식은 범위가 있습니다. ****************************************************************************************************************************************************************************************************************************************************************
+| VIN 세그먼트 설명 | Pacific 자동차 | 담당자: Mr. wang | HTTP: 의 경우 | 2026-09-04 | SINGLE_SOURCE(싱글) | 위치 수준 설명자 | http://m.pcauto.com.cn/x/5100/51002243.html
+*Blocked 참고: "중국 WMI는 L 일부 H"로 시작되고 사실로 명시되지 않습니다. WMI-prefix 제조업체 매핑 및 목적지 VIN 형식은 범위가 있습니다. ****************************************************************************************************************************************************************************************************************************************************************
 
 | 道路车辆 车辆识别代号 (빈) GB16735-2019 条文 (百科载体) | 百科 (国标条文载体년) | 담당자: Mr. wang | https://m.baike.com/wiki/%E8%BD%A6%E8%BE%86%E8%AF%86%E5%88%AB%E5%8F%B7%E7%A0%81/1470666 | 2026-09-04 | SINGLE_SOURCE(싱글) | VIN=WMI+VDS+VIS 共 17 位 (以标准正文为准) |
 

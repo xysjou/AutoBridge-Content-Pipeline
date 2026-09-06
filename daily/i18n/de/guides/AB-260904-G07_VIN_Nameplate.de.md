@@ -27,9 +27,9 @@ Das erste Zeichen des WMI wird von einer autorisierten Stelle vergeben. Dieser L
 
 ## Das Vier-Platz-Match vor der Balance-Zahlung
 Vergleichen Sie die gleichen 17 Zeichen an vier Stellen und bestätigen Sie, dass es kein Schleifen, erneutes Stempeln oder Überspray gibt:
-1. ** Gestempelte / gechieselte VIN auf dem Körper ** (Chassis).
+1. ** Gestempelte gechieselte VIN auf dem Körper ** (Chassis).
 2. **VIN auf dem Typenschild**.
-3. **VIN auf der Konformitätsbescheinigung / Fabrikbescheinigung**.
+3. **VIN auf der Konformitätsbescheinigung Fabrikbescheinigung**.
 4. **VIN auf den Versanddokumenten** (B/L, Rechnung, Packliste).
 
 Jeder Zeichenunterschied, jeder Restamping-Beweis oder jede Dokument-gegen-Körper-Missanpassung ist ein Wartepunkt: Beheben Sie ihn mit dem Lieferanten und dem Allokationsprotokoll des Herstellers **vor ** Zahlung und Buchung, da die Zulassungsbehörden die gleichen vier Plätze vergleichen.
@@ -43,13 +43,13 @@ Jeder Zeichenunterschied, jeder Restamping-Beweis oder jede Dokument-gegen-Körp
 
 ## Grenzen dieses Leitfadens
 - Kein WMI-Präfix-zu-Hersteller-Verzeichnis (erfordert die autorisierte Zuordnungstabelle).
-- Keine absolute "Anfangsbuchstabe = Herstellungsland" Regel.
+- Keine absolute "Anfangsbuchstabe Herstellungsland" Regel.
 - Ziel-VIN/Registrierungsformate werden pro Zielland bearbeitet.
 
 ## Häufig gestellte Fragen
 **Wie ist eine chinesische VIN strukturiert?** 17 Zeichen: WMI (1–3), VDS (4–9, mit Prüfzeichen bei 9), VIS (10–17, Modelljahr/Anlage/Serien).
 **Welcher Standard regelt ihn?** GB 16735-2019, ein obligatorischer zitierter Standard in der Überprüfung des Zugangs zu Fahrzeugprodukten.
-**Kann ich den Ursprung vom ersten Buchstaben an erkennen?** Nicht zuverlässig allein — verwenden Sie die autorisierte WMI-Zuweisung; Dieser Leitfaden behauptet keine L / H-Regel als Tatsache.
+**Kann ich den Ursprung vom ersten Buchstaben an erkennen?** Nicht zuverlässig allein — verwenden Sie die autorisierte WMI-Zuweisung; Dieser Leitfaden behauptet keine L H-Regel als Tatsache.
 **Was muss vor der Zahlung übereinstimmen?** VIN, VIN, Typenschild, Bescheinigungs-VIN und Versanddokument-VIN — alle identisch, ohne erneutes Abstempeln.
 
 ## Bildaufzeichnung
@@ -86,7 +86,7 @@ Jeder Zeichenunterschied, jeder Restamping-Beweis oder jede Dokument-gegen-Körp
 | SAMR-Plattform · GB16735-2019 Details | SAMR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=94E9AF238E3052A4E05397BE0A0AD366 | 2026-09-04 | VERIFIZIERT (primär) | Standardstatus |
 | Anforderungen an den Zugang zu Straßenfahrzeugen (obligatorische Angabe von GB16735) | MIIT offizielles PDF | CN | https://wap.miit.gov.cn/cms_files/filemanager/1226211233/attach/20259/9d0824a8e8a84abf858f3cb96a6d7385.pdf | 2026-09-04 | VERIFIZIERT (primär) | Obligatorischer Status, Kohärenzanforderung |
 | VIN-Segmenterklärung | Pazifisches Auto | CN | http://m.pcauto.com.cn/x/5100/51002243.html | 2026-09-04 | SINGLE_SOURCEN | Positionserklärer |
-*Blockierte Anmerkung: "Chinesisches WMI beginnt mit L / einigen H" ist UNVERIFIZIERT und nicht als Tatsache angegeben; WMI-Präfix-Hersteller-Mapping- und Ziel-VIN-Formate sind nicht in den Anwendungsbereich. *
+*Blockierte Anmerkung: "Chinesisches WMI beginnt mit L einigen H" ist UNVERIFIZIERT und nicht als Tatsache angegeben; WMI-Präfix-Hersteller-Mapping- und Ziel-VIN-Formate sind nicht in den Anwendungsbereich. *
 
 | 道路车辆 车辆识别代号 (VIN) GB16735-2019 条文 (百科载体) | 百科 (国标条文载体) | CN | https://m.baike.com/wiki/%E8%BD%A6%E8%BE%86%E8%AF%86%E5%88%AB%E5%8F%B7%E7%A0%81/1470666 | 2026-09-04 | SINGLE_SOURCEN | VIN=WMI+VDS+VIS 共 17 位 (以标准正文为准) |
 

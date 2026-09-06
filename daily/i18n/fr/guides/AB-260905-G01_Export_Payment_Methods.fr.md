@@ -7,7 +7,7 @@
 - ** Mot-clé principal**: méthodes de paiement à l'exportation t t lc risque
 - **Conditions de recherche secondaires**: modalités de paiement à l'exportation; paiement irrévocable en L/C; dépôt en T/T; collecte de documents; risque de compte ouvert; UCP600
 - **URL suggérée**: /guides/export-payment-methods-t-t-lc-risk/
-- **Intention de la recherche**: 出口商如何在汽车订单中选择并安全使用电汇 / 信用证等结算方式  -识别软条款与银行风险
+- **Intention de la recherche**: 出口商如何在汽车订单中选择并安全使用电汇 信用证等结算方式  -识别软条款与银行风险
 - **Suggestions de lien interne**: /guides/incoterms- 2020-selection-guide/, /guides/vérify-chine-car-export-fournisseur-histoire/, /guides/export-fx-settlement-trade-fx-registration/
 - **Schema Champ d'application**: article (pas de produit/offre/examen)
 
@@ -50,7 +50,7 @@ Même un L/C propre ne guérit pas l'exposition aux sanctions sur l'acheteur/ban
 | Chambre de commerce internationale (CCI) | Chambre de commerce internationale | NC | T1 | VÉRIFIER | https://iccwbo.org/ | éditeur de règles UCP600 et Incoterms; cadre de financement commercial faisant autorité |
 | Assurance-crédit à l'exportation et à l'exportation (SINOSURE) — assurance-crédit à l'exportation à court terme | Société d'assurance-exportation et crédit de la Chine (SINOSURE 中国信保) | INT/CN | T1/T2 | VÉRIFIER | https://www.sinosure.com.cn/ | Le risque de créance à compte ouvert (O/A) et de collecte de documents (D/P) est assurable; contexte d'assurance-crédit à l'exportation pour le choix de la durée de paiement |
 | Conseil chinois pour la promotion du commerce international (CCPIT) | Conseil chinois pour la promotion du commerce international (CCPIT 中国贸促会) | NC | T1/T2 | VÉRIFIER | https://www.ccpit.org/ | Organisme national de promotion du commerce: L/C et orientation et certification des documents commerciaux; distinct des reproductions des administrations locales |
-| ICC Solutions de financement du commerce (UCP 600 / URC 522 / URDG) | Chambre de commerce internationale | ANNEXE | T1/T2 | VÉRIFIER | https://iccwbo.org/business-solutions/trade-finance/ | ICC est le régulateur pour L/C (UCP 600), les collections (URC 522) et les garanties (URDG); page profonde au-delà de la page d'accueil |
+| ICC Solutions de financement du commerce (UCP 600 URC 522 URDG) | Chambre de commerce internationale | ANNEXE | T1/T2 | VÉRIFIER | https://iccwbo.org/business-solutions/trade-finance/ | ICC est le régulateur pour L/C (UCP 600), les collections (URC 522) et les garanties (URDG); page profonde au-delà de la page d'accueil |
 ## Révision de la rédaction
 - **Auteur**: Équipe de rédaction d'AutoBridge Export · [auteurs](/auteurs/) · [Politique éditoriale](/politique éditoriale/)
 - **Dernière révision**: 2026-09-05

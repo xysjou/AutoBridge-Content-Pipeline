@@ -2,12 +2,12 @@
 
 ## เชา ข้อมูลกํากับภาพ
 - **SEO Title**: Dongfang Tianjin KR Refrigered Taker Spects & guides (18t)
-- ""คําอธิบาย" Schan-schang Tiang Tijin KR 6.8 M proder — Cummins B6.2 180 kW / 1000 N·m, รวดเร็ว 8-speed, Davia axle, 18 t GVW, รหัสรุ่น MIT และวิธี chasis ต่างจากระบบปรับความเย็น (Cerfrited contricy).
-- ~ที่อยู่ URL ที่ถูกย่อ: / เวกซี่/ ดองฟัน-ทีอานจิน-เกอร์/
+- ""คําอธิบาย" Schan-schang Tiang Tijin KR 6.8 M proder — Cummins B6.2 180 kW 1000 N·m, รวดเร็ว 8-speed, Davia axle, 18 t GVW, รหัสรุ่น MIT และวิธี chasis ต่างจากระบบปรับความเย็น (Cerfrited contricy).
+- ~ที่อยู่ URL ที่ถูกย่อ: ดองฟัน-ทีอานจิน-เกอร์/
 - ** H1 ~: ดงฟัน เทียนจิน KR~ รถบรรทุกที่ถูกปรับให้กลับไป: Chasis + สเปกต์แบบ Superfect สําหรับผู้ซื้อส่งออก
 - ~คําค้น: Dongfang tianjin kr curririted sports search
 - ~ การค้นหาโดยแพทย์~: เทียนจิน KR DFH5180XLC ดงฟรัง คูมีนส์ B6.2 รถบรรทุกปะการัง 6.8m รถส่งน้ํามันแช่แข็งจีน, 18t GVWchasis
-- ~ ลิงก์ภายในแนะนํา~: / guides/ wehicial-export-back-code-grofile/; / guides/ exporticer-document-duccess//jmc-sunda/
+- ~ ลิงก์ภายในแนะนํา~: guides/ wehicial-export-back-code-grofile/; guides/ exporticer-document-duccess//jmc-sunda/
 - ~คําแนะนําจากหน่วยย่อย~: KR Preferer ด้าน 6.8m กล่อง; กรอบ chasis; เครื่องยนต์ Cummins B6.2; หน่วยทําความเย็น; ประตูหลังและภายใน
 - ข้อเสนอแนะ: "Dongfishiin KR 6.8m รถบรรทุกแช่แข็ง 18t"; "Tianjin KRchasis vsopers Crafter Brofile".
 
@@ -23,7 +23,7 @@
 | รายการ | Tianjin KR 6.8 m propeder (อ้างอิงจีน) |
 |---|---|
 | กลไก | Dongfang Cummins ~ B6.2NS6B245~. ออนไลน์- 6, 6.2 L DEC |
-| พลัง / แรงบิด | **180 kW (245 PS) / 1000 N·m** |
+| พลัง แรงบิด | **180 kW (245 PS) 1000 N·m** |
 | กล่องปรับเลข | รวดเร็ว (เกียร์หลัก) ** 8JS105A/TA 8-speed ** |
 | เพลาหลัง | Dana ~ 416 ~, สัดส่วน ~ 4.11~ |
 | แบบ GVW | **18 t** |
@@ -31,7 +31,7 @@
 
 ## โครงสร้างสูงสุด: สิ่ง ที่ ผู้ สร้าง ร่าง กาย ตัดสิน ใจ ทํา (ไม่ ได้ กําหนด ข้อมูล ชา ซิส)
 รายการต่อไปนี้เป็น ~ตัวเลือกเพิ่มเติมที่ระบุไว้บนแผ่นพับของผู้สร้างร่างกาย~ และหน้านี้ไม่ได้ตั้งใจกําหนดรหัสมัน:
-- "เครื่องปรับโครงสร้างแบรนด์/โหมด" และเป็นสายพานสายพาน หรือมอเตอร์ไฟฟ้าที่รอเครื่อง
+- และเป็นสายพานสายพาน หรือมอเตอร์ไฟฟ้าที่รอเครื่อง
 - ** อาณาเขตอุณหภูมิที่เพิ่มขึ้น* (Single/Multi-tamp) และ cap-point sport.
 - ~การฉีดสารและแผ่นกระดาษหนา~, มิติภายในและพื้นโหลดเรตติ้ง
 - การปรับแต่งประตู ประตูด้านข้าง ชิ้นส่วนเนื้อและร่อง
@@ -43,19 +43,19 @@
 
 ## การ รับรอง การ ซื้อ ผ่าน ทาง ไปรษณีย์ ก่อน จะ จ่าย
 - ยืนยันการแปลงไดรฟ์แบบ DFHH chasis ก่อนระบุข้อมูล Proider Upfit; มันไม่ได้ตั้งใจยืนยันจากตัวเลขอ้างอิงที่จับได้ของจีน
-1. ** รหัสรุ่น MIT ~ (DFH5180XLC / DFH5180XLCG4) บนใบรับรอง; GVW และสถานะตัวเร่ง (Milmet).
+1. ** รหัสรุ่น MIT ~ (DFH5180XLC DFH5180XLCG4) บนใบรับรอง; GVW และสถานะตัวเร่ง (Milmet).
 2. ~ชาซิส ไดรฟ์ไลน์ ~ — B6.2 245 PS, สปีด 8-speed ดาน่า 416/4.11 — ตรงกับวีเอ็น; เคอาร์ บวก แยกตัวออกมา.
 3. ~ช่างก่อสร้างทําแผ่นไม้ ~ สําหรับหน่วยปะการัง เขตกันน้ํา และมิติภายใน
-4. ~DESIELE กํามะถัน/หลังการรักษา~ ~ความเข้ากันได้และการอนุมัติของปลายทาง ต่อคู่มือการปล่อยก๊าซ
-5. "สปอร์ตซีชัน" – นักกีฬาปะการังเป็นรถสินค้าพิเศษ; ยืนยันการนํา/ การลบเอกสาร (87.04 vs 87.05 ขอบเขต) ต่อคู่มือของ HS-รหัส และรวบรวมแพ็คเกจเต็มเอกสารต่อรายการรายการส่งออกเอกสาร
+4. ~DESIELE ~ความเข้ากันได้และการอนุมัติของปลายทาง ต่อคู่มือการปล่อยก๊าซ
+5. "สปอร์ตซีชัน" – นักกีฬาปะการังเป็นรถสินค้าพิเศษ; การลบเอกสาร (87.04 vs 87.05 ขอบเขต) ต่อคู่มือของ HS-รหัส และรวบรวมแพ็คเกจเต็มเอกสารต่อรายการรายการส่งออกเอกสาร
 
 ## ต้องการการอ้างถึงการส่งออกแบบปัจจุบัน
 ไม่มีการจัดพิมพ์ราคาส่งออก Enquire with **Destination Country · Quantity · Chassis (KR/KR Plus) · Reefer Unit & Temperature Requirement · LHD/RHD · Destination Port · Incoterm**.
 
 ## คํา ถาม ที่ มัก จะ ถาม บ่อย ๆ
 "ห้องทําความเย็นเป็นส่วนหนึ่งของดงเฟ็ง แชสซิสรึเปล่า" ไม่ chasis is Dongfang; กล่องที่รวมเข้ากับเครื่องทําปะการังเป็น builder upfit และต้องการแผ่นกําหนดของตัวเอง
-~ความยาว GVW และกล่องคืออะไร? ~ 18 t GVW กับกล่อง 6.8 เมตร บนฐานล้อ 5000 mm สําหรับบันทึกการเคอาร์ (PDF).
-เครื่องยนต์ไหน? Dongfang Cummins B6.2NS6B245 ที่ 180 kW (245 PS)/ 1000 N·m ผ่านชุดเกียร์เร็ว 8-speed ไปที่ ดาน่า 416 axle.
+~ความยาว GVW ~ 18 t GVW กับกล่อง 6.8 เมตร บนฐานล้อ 5000 mm สําหรับบันทึกการเคอาร์ (PDF).
+Dongfang Cummins B6.2NS6B245 ที่ 180 kW (245 PS)/ 1000 N·m ผ่านชุดเกียร์เร็ว 8-speed ไปที่ ดาน่า 416 axle.
 ~เคอาร์ต่างจากเคอาร์บวกอย่างไร~ The KR Plus มีขนาดใหญ่กว่า: 330 PS D7.0 เครื่องยนต์, 7.88 มิล, 5800 mm ล้อเบส — แยกมันออกจากกัน
 
 ## บันทึกรูปภาพ
@@ -66,37 +66,37 @@
 - ลิขสิทธิ์: ไม่ยืนยัน
 - LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
 - _กําหนดวันที่: 2026-09-06
-- MERCUL_ TOPIC_ MATCH: ต้องตรงกับรุ่น/ การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
-- CHAR_SCPE_NOTE: ตรงกับโมเดลที่เป๊ะของครอบครัว/ topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
+- MERCUL_ TOPIC_ MATCH: การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
+- CHAR_SCPE_NOTE: topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
 - March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
 - BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
 - ALT ด้วยภาษา:
-  - **EN**: AutoBridge export-buyer reference — Dongfeng Tianjin KR, petrol/diesel Chinese-market vehicle / refrigerated truck
-  - **FR**: Référence AutoBridge pour acheteurs export — Dongfeng Tianjin KR, véhicule thermique (marché chinois) / camion frigorifique
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Dongfeng Tianjin KR, Verbrenner (chinesischer Markt) / Kühl-Lkw
-  - **ES**: Referencia AutoBridge para compradores de exportación — Dongfeng Tianjin KR, vehículo de combustión (mercado chino) / camión frigorífico
-  - **PT**: Referência AutoBridge para compradores de exportação — Dongfeng Tianjin KR, veículo a combustão (mercado chinês) / caminhão refrigerado
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Dongfeng Tianjin KR, 中国市場仕様 内燃機関車 / 冷凍車
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Dongfeng Tianjin KR, 중국 시장 내연기관 차량 / 냉동·냉장 트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Dongfeng Tianjin KR, xe động cơ đốt trong (thị trường Trung Quốc) / xe tải lạnh
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Dongfeng Tianjin KR, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถบรรทุกห้องเย็น
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Dongfeng Tianjin KR, kendaraan mesin pembakaran (pasar Tiongkok) / truk berpendingin
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Dongfeng Tianjin KR, مركبة بمحرك احتراق (سوق الصين) / شاحنة مبردة
-  - **ZH**: AutoBridge 出口采购参考｜Dongfeng Tianjin KR, 中国市场燃油车 / 冷藏车
+  - **EN**: AutoBridge export-buyer reference — Dongfeng Tianjin KR, petrol/diesel Chinese-market vehicle refrigerated truck
+  - **FR**: Référence AutoBridge pour acheteurs export — Dongfeng Tianjin KR, véhicule thermique (marché chinois) camion frigorifique
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Dongfeng Tianjin KR, Verbrenner (chinesischer Markt) Kühl-Lkw
+  - **ES**: Referencia AutoBridge para compradores de exportación — Dongfeng Tianjin KR, vehículo de combustión (mercado chino) camión frigorífico
+  - **PT**: Referência AutoBridge para compradores de exportação — Dongfeng Tianjin KR, veículo a combustão (mercado chinês) caminhão refrigerado
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Dongfeng Tianjin KR, 中国市場仕様 内燃機関車 冷凍車
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Dongfeng Tianjin KR, 중국 시장 내연기관 차량 냉동·냉장 트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Dongfeng Tianjin KR, xe động cơ đốt trong (thị trường Trung Quốc) xe tải lạnh
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Dongfeng Tianjin KR, รถเครื่องยนต์สันดาป (ตลาดจีน) รถบรรทุกห้องเย็น
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Dongfeng Tianjin KR, kendaraan mesin pembakaran (pasar Tiongkok) truk berpendingin
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Dongfeng Tianjin KR, مركبة بمحرك احتراق (سوق الصين) شاحنة مبردة
+  - **ZH**: AutoBridge 出口采购参考｜Dongfeng Tianjin KR, 中国市场燃油车 冷藏车
 
 ## ต้นฉบับและการตรวจสอบสิทธิ์
 | ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| Tianjin KR 6.8m รีฟเซอร์ B6.2 โรงไฟฟ้า/จอก | 360che (ทัฒนโญ) พ.ศ. | CN | http://m.toutiao.com/group/7031465452756828703/ | 2026-09-04 | ROOS_ CHCKED | B6.2 245PS, สปีด 8-speed ดาน่า แอคเซิล |
+| Tianjin KR 6.8m รีฟเซอร์ B6.2 | 360che (ทัฒนโญ) พ.ศ. | CN | http://m.toutiao.com/group/7031465452756828703/ | 2026-09-04 | ROOS_ CHCKED | B6.2 245PS, สปีด 8-speed ดาน่า แอคเซิล |
 | Nine 6.8m cargo trucks: ปรับแต่ง KR | 360che (ทัฒนโญ) พ.ศ. | CN | http://m.toutiao.com/group/6961327956664779271/ | 2026-09-04 | ROOS_ CHCKED | 6.8m, กงล้อ, อัตราส่วนแกน |
 | Tianjin KR 6.8m กล่องล้อและสินค้า | 360che (ทัฒนโญ) พ.ศ. | CN | http://m.toutiao.com/group/7155750645675377152/ | 2026-09-04 | ROOS_ CHCKED | 5000 WB, ความกว้างภายใน, GVW |
 | DFH5180XLCG4 เครื่องฉายภาพ ไมโครซอฟต์ รุ่น MIT 410 | เงิน ตรา สินา (อ้างอิง) | CN | https://cj.sina.cn/article/norm_detail?froms=ttmp&url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Faigc%2Fxcsb%2F2026-08-07%2Fdoc-inimnrac4126512.shtml%3Ffinpagefr%3Dttzz | 2026-09-04 | ROOS_ CHCKED | รหัสการกรอกข้อมูลใหม่ ตัวจํากัดความเร็ว |
 | ผู้ ผลิต และ แคตตาล็อก ผลิตภัณฑ์ ถนน — ระบบ สอบ ถาม ของ ประชาชน |  MIT, กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูลจีน | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | เปิดใช้งาน | ตรวจสอบผู้ผลิต, โมเดลที่อนุญาต และการทําอัลบั้มแบบแบ่งประเภท (公告) ก่อนการสั่งซื้อหรือส่งออก |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน สภาวะความปลอดภัยทางเทคนิคและเวลาปัจจุบัน/การปรับปรุง |
-| GB 17691-2018 พาหนะดีเซลหนักดีเซล โพลอัลโตเลต พ่นออก (จีน-วี) | กระทรวง นิเวศ วิทยา และ สิ่ง แวด ล้อม (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | เปิดใช้งาน | จีน- วี. การบีบข้อมูล (อีดีเซล) สาธิตการปล่อยก๊าซสําหรับรถบรรทุก/โคช |
-| GB 19147 เครื่องยนต์ดีเซลมาตรฐานเชื้อเพลิงแห่งชาติ (ฐานเชื้อเพลิงต่ํา) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | เปิดใช้งาน | ระดับเชื้อเพลิงดีเซลและซัลเฟอร์พื้นฐานที่ตรงกับการออกแบบเครื่องยนต์/การให้บริการต่างประเทศ |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน |
+| GB 17691-2018 พาหนะดีเซลหนักดีเซล โพลอัลโตเลต พ่นออก (จีน-วี) | กระทรวง นิเวศ วิทยา และ สิ่ง แวด ล้อม (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | เปิดใช้งาน | จีน- วี. การบีบข้อมูล (อีดีเซล) |
+| GB 19147 เครื่องยนต์ดีเซลมาตรฐานเชื้อเพลิงแห่งชาติ (ฐานเชื้อเพลิงต่ํา) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | เปิดใช้งาน | |
 
-* ข้อสังเกตแบบคอซิเฟอเรนซ์: รหัสต้นแบบที่ยึดยึดยึดอยู่กับ MIIT- 410 รายงาน; หน่วยปะการัง/โซน/ข้อมูล ที่จงใจทิ้งไว้ให้กับผู้สร้างร่างกาย (ไม่มีรหัส; KR) บวกกับการกีดกัน อ้างอิงตลาดจีน ยืนยันการจัดอันดับตามกฎหมายในการประกาศ/ sertieveted *
+* ข้อสังเกตแบบคอซิเฟอเรนซ์: รหัสต้นแบบที่ยึดยึดยึดอยู่กับ MIIT- 410 รายงาน; หน่วยปะการัง/โซน/ข้อมูล ที่จงใจทิ้งไว้ให้กับผู้สร้างร่างกาย (ไม่มีรหัส; KR) บวกกับการกีดกัน อ้างอิงตลาดจีน sertieveted *
 
 ## การทบทวนแก้ไข
 - ** aultor*: AutoBridge ส่งออกวิธีการแก้ไขคําทีม (AutoBridge) ต่อ [นโยบายแก้ไข] ของเรา (/Dercial-policy/)

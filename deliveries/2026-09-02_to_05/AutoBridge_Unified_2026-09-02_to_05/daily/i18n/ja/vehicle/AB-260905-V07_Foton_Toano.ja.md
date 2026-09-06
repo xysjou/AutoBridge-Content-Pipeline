@@ -1,8 +1,8 @@
-# Foton Toano / Tuyano (2026) — 中国市場大型バン(ライトバス)仕様と輸出チェック
+# Foton Toano Tuyano (2026) — 中国市場大型バン(ライトバス)仕様と輸出チェック
 
 ## ツイート メタデータ
 - **SEOタイトル**: フォートン・トアノ(チュヤノ)大バン: 中国の市場仕様と輸出バイヤーガイド
-- **メタ 記述**: 中国の市場 Foton Toano 軽バス/大広帯域: 短く、長いホイールベース、ディーゼル トルク、広い座席範囲、およびなぜ冷蔵変換が別途評価されるか。
+- **メタ 記述**: 中国の市場 Foton Toano 短く、長いホイールベース、ディーゼル トルク、広い座席範囲、およびなぜ冷蔵変換が別途評価されるか。
 - H1 ホテル **: フォートン・トアノ/チュヤノ(2026) — 中国・マーケット・大型バン(軽バス)仕様と輸出チェック
 - **主なキーワード**: Foton/福田 Toano/图雅诺 大 VAN (轻客)の仕様の輸出
 - **二次検索条件**: Foton Toano輸出; Tuyano van; 中国軽バス; 旅客バン; 貨物バン変換
@@ -16,7 +16,7 @@
 
 ## 識別された次元、パワートレインおよび座席
 - **短いボディ(X5)**:4990の× 1980の× 1990のホイールベース3070 mm。
-- *ロングホイールベース**:3510(X5 长轴)/ 3750(经典长轴、车长 5990×2000) mm。
+- *ロングホイールベース**:3510(X5 3750(经典长轴、车长 5990×2000) mm。
 - ** 2.5T ディーゼル トルク**: 400 N·m;変速機 6MT.
 - **シーツ**:3/5/6/7/9/14/15/17 (随版本))..
 - **変換ノート**: F2.8NS6B177L：2780mL/130kW，属冷藏改装上装 — a refrigerated body is an upfit, ベースバン仕様ではありません。
@@ -26,7 +26,7 @@
 |---|---|---|---|---|---|
 | x5 ショートダイム | 4990×1980×1990 | ミリメートル | 日 時 分 | シングル_ソース | 搜狐对比 |
 | x5 ショートホイールベース | 3070 | ミリメートル | 日 時 分 | シングル_ソース | 搜狐对比 |
-| 長いホイールベースオプション | 3510 (X5 长轴)/ 3750 (经典长轴、车长 5990の× 2000) | ミリメートル | 日 時 分 | シングル_ソース | 搜狐对比 |
+| 長いホイールベースオプション | 3510 (X5 3750 (经典长轴、车长 5990の× 2000) | ミリメートル | 日 時 分 | シングル_ソース | 搜狐对比 |
 | エンジン 2 5t トルク | 400 | ナ・ム | 日 時 分 | シングル_ソース | 大众网 |
 | トランスミッション | 6MT | ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????? | 日 時 分 | シングル_ソース | 大众网 |
 | シートオプション | 3/5/6/7/9/14/15/17 (随版本) | ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????? | 日 時 分 | CROSS_CHECKED(クロス) | 大众网+搜狐 |
@@ -38,14 +38,14 @@
 ## 支払の前に海外バイヤーの証明
 1. 名称 ホイールベース(3070/3510/3750)、シート/カルゴレイアウト、エンジンの順番
 2. フォートンOEM/homologationからGVW/kerbの固まりそして完全なエンジンのマトリックスを得て下さい。
-3. 冷房/その他のコンバージョンを別々のアップフィットプロジェクトとして扱う。
+3.
 4. ディーゼル排出・燃料、中央アジアへの道路経路確認、TIR適合性を別途確認
 5. 輸出見積依頼、未発表
 
 ## よくある質問
-定員は?** ビルドのビルドを行なうには、バージョン(3–17) を 範囲で います。
-**Why no full ISF2.8 power list?** The variant matrix needs an OEM lock; とりあえず。
-**工場モデルの冷凍バンはありますか?** 東海道新幹線の乗り換え・乗り継ぎです。
+ビルドのビルドを行なうには、バージョン(3–17) を 範囲で います。
+**Why no full ISF2.8 power The variant matrix needs an OEM lock; とりあえず。
+東海道新幹線の乗り換え・乗り継ぎです。
 **What wheelbase for a minibus?** Choose from 3070/3510/3750 mm by layout.
 **GVWの数字は?** 確実に捕獲しないように、均質化から入手してください。
 
@@ -53,13 +53,13 @@
 ## ソースと検証
 | ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
 |---|---|---|---|---|---|---|
-| 图雅诺 词条 (仅线索、T4 不作关键事实唯一依据) | 抖音百科 | CN の | T4 | CROSS_CHECKED(クロス) | 以下は、 //m.baike.com/wiki/%E5%9B%BE%E9%9B%85%E8%AF%BA/10989664 | 型号谱系线索 |
-| 图雅诺 车型对比 | 搜狐汽车 | CN の | T2 | CROSS_CHECKED(クロス) | 以下は、 //db.auto.sohu.com/compare-list?sliding=1 &trimsid=156097, 166576 | 短轴 / 长轴尺寸、轴距 |
-| 图雅诺 吉象流动服务车 | 大众网机械 | CN の | T3 | CROSS_CHECKED(クロス) | 担当: //www.dzwww.com/jixie/f25184ea8b1340967.html の仕様 | 2.5T 动力、扭矩、座位 |
-| 图雅诺 冷藏改装 (上装) | 大众网机械 | CN の | T3 | CROSS_CHECKED(クロス) | 担当: //www.dzwww.com/jixie/e79925a2501247453.html の仕様 | F2.8NS6B177L 改装上装、非原厂 VAN 参数 |
-| フォントンモーター公式サイト | ベイク・フォトン モーター 福田汽车 (OEM) | CN の | T1 | 検証済み | 以下は、 電子メール: info@foton.com | ブランド/モデルラインアイデンティティとOEMの権限 |
-| 産業界・情報技術省(MIIT) | ピット 工业和信息化部 | CN の | T1 | 検証済み | 以下は、 ................................................................................................................................ | 均質化/非警備権限; VIN/announcement による正確なモデル、固まりおよびコードを確認します |
-| 市場規制(SAMR)の州管理 | サーム 国家市场监督管理总局 | CN の | T1 | 検証済み | 以下は、 ................................................................................................................................ | 国家規格、認証、市場規制当局 |
+| 图雅诺 词条 (仅线索、T4 不作关键事实唯一依据) | 抖音百科 | CN の | T4 | CROSS_CHECKED(クロス) | 以下は、 https://m.baike.com/wiki/%E5%9B%BE%E9%9B%85%E8%AF%BA/10989664 | 型号谱系线索 |
+| 图雅诺 车型对比 | 搜狐汽车 | CN の | T2 | CROSS_CHECKED(クロス) | 以下は、 | 短轴 长轴尺寸、轴距 | https://db.auto.sohu.com/compare-list?sliding=1&trimsid=156097,166576
+| 图雅诺 吉象流动服务车 | 大众网机械 | CN の | T3 | CROSS_CHECKED(クロス) | 担当: http://www.dzwww.com/jixie/f25184ea8b1340967.html の仕様 | 2.5T 动力、扭矩、座位 |
+| 图雅诺 冷藏改装 (上装) | 大众网机械 | CN の | T3 | CROSS_CHECKED(クロス) | 担当: http://www.dzwww.com/jixie/e79925a2501247453.html の仕様 | F2.8NS6B177L 改装上装、非原厂 VAN 参数 |
+| フォントンモーター公式サイト | ベイク・フォトン モーター 福田汽车 (OEM) | CN の | T1 | 検証済み | 以下は、 電子メール: info@foton.com | ブランド/モデルラインアイデンティティとOEMの権限 | https://www.foton.com.cn/
+| 産業界・情報技術省(MIIT) | ピット 工业和信息化部 | CN の | T1 | 検証済み | 以下は、 ................................................................................................................................ | VIN/announcement による正確なモデル、固まりおよびコードを確認します | https://www.miit.gov.cn/
+| 市場規制(SAMR)の州管理 | サーム 国家市场监督管理总局 | CN の | T1 | 検証済み | 以下は、 ................................................................................................................................ | 国家規格、認証、市場規制当局 | https://www.samr.gov.cn/
 ## 編集レビュー
 - **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)
 - **最終審査**:2026-09-05
@@ -80,18 +80,18 @@
 - **IMAGE_RIGHTS_STATUS**: FAIL(ファイル)
 - **ブロック解除**:再利用可能な画像は保護できません:Wikimedia Commons/Flickrは、研究環境から到達不能であり、ストックライブラリは認証されたAPI /ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。 AutoBridge 所有のフォトが存在しません。 記録は、主張するよりもFAILを保持しました。
 - **ALT (12の言語)**:
-  - **EN**: Foton Toano van, Chinese-market large van / light bus export buyer reference
-  - **FR**: Foton Toano van, large van / light bus du marché chinois, référence acheteur export
-  - **DE**: Foton Toano van, Chinesischer large van / light bus, Referenz für Exportkäufer
-  - **ES**: Foton Toano van, large van / light bus del mercado chino, referencia para comprador de exportación
-  - **PT**: Foton Toano van, large van / light bus do mercado chinês, referência ao comprador de exportação
-  - **JA**: Foton Toano van, 中国市場large van / light bus・輸出バイヤー向けリファレンス
-  - **KO**: Foton Toano van, 중국 시장 large van / light bus, 수출 바이어 참고 자료
-  - **VI**: Foton Toano van, large van / light bus thị trường Trung Quốc, tham chiếu cho người mua xuất khẩu
-  - **TH**: Foton Toano van, large van / light bus ตลาดจีน เอกสารอ้างอิงสำหรับผู้ซื้อส่งออก
-  - **ID**: Foton Toano van, large van / light bus pasar Tiongkok, referensi pembeli ekspor
-  - **AR**: Foton Toano van, large van / light bus السوق الصيني، مرجع لمشتري التصدير
-  - **ZH**: Foton Toano van, 中国市场large van / light bus·出口采购参考
+  - **EN**: Foton Toano van, Chinese-market large van light bus export buyer reference
+  - **FR**: Foton Toano van, large van light bus du marché chinois, référence acheteur export
+  - **DE**: Foton Toano van, Chinesischer large van light bus, Referenz für Exportkäufer
+  - **ES**: Foton Toano van, large van light bus del mercado chino, referencia para comprador de exportación
+  - **PT**: Foton Toano van, large van light bus do mercado chinês, referência ao comprador de exportação
+  - **JA**: Foton Toano van, 中国市場large van light bus・輸出バイヤー向けリファレンス
+  - **KO**: Foton Toano van, 중국 시장 large van light bus, 수출 바이어 참고 자료
+  - **VI**: Foton Toano van, large van light bus thị trường Trung Quốc, tham chiếu cho người mua xuất khẩu
+  - **TH**: Foton Toano van, large van light bus ตลาดจีน เอกสารอ้างอิงสำหรับผู้ซื้อส่งออก
+  - **ID**: Foton Toano van, large van light bus pasar Tiongkok, referensi pembeli ekspor
+  - **AR**: Foton Toano van, large van light bus السوق الصيني، مرجع لمشتري التصدير
+  - **ZH**: Foton Toano van, 中国市场large van light bus·出口采购参考
 
 
 #AutoBridge #ChinaCarExport #ExportProcurement #FotonToano #LightBus

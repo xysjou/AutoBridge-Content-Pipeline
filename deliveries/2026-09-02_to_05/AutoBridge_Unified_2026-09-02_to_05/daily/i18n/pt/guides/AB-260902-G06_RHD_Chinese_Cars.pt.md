@@ -23,8 +23,8 @@ A seguir, uma foto das ofertas de RHD de fábrica relatadas. A maioria das lista
 |---|---|---|---|
 | MG (SAIC) | MG4, MG ZS, MG HS, MG5, MG Extender (descrito por uma fonte de serviço de exportação como entre as linhas mais amplas de RHD de marca chinesa) | Reino Unido, Austrália, Tailândia, África do Sul, Índia, Sri Lanka | Fonte da indústria — verificar |
 | BYD | Atto 3 (Yuan Plus export name), Golfinho, Selo | Austrália, Reino Unido, Tailândia, Japão | Fonte da indústria — verificar |
-| GWM / Haval / ORA | Haval H6, Jolion, ORA 03, Tank 300 (mercados selecionados) | Austrália, África do Sul, Tailândia, Reino Unido, Quénia | Fonte da indústria — verificar |
-| Geely / Zeekr | Geely EX5 relatou como projetado com linhas paralelas LHD/RHD do desenvolvimento; vários modelos Geely/Zeekr RHD | Reino Unido, Irlanda, Austrália, Nova Zelândia, Malásia, Hong Kong | Fonte da indústria — verificar |
+| GWM Haval ORA | Haval H6, Jolion, ORA 03, Tank 300 (mercados selecionados) | Austrália, África do Sul, Tailândia, Reino Unido, Quénia | Fonte da indústria — verificar |
+| Geely Zeekr | Geely EX5 relatou como projetado com linhas paralelas LHD/RHD do desenvolvimento; vários modelos Geely/Zeekr RHD | Reino Unido, Irlanda, Austrália, Nova Zelândia, Malásia, Hong Kong | Fonte da indústria — verificar |
 | Hongqi | RHD nova energia empurra através 2026; Centro de experiências de Hong Kong reportado a partir de Julho de 2026 | Reino Unido, Austrália, Nova Zelândia, Singapura, Tailândia, Malásia, Indonésia | Meios/agregadores — verificar |
 | Dongfeng Forthing | ** Confirmado oficialmente**: entrou na Tailândia Março 2026 com RHD NEV SUV "FRIDAY" e V9 construído para os mercados de RHD | Tailândia | **Official (Dongfeng)** |
 | Changan Qiyuan (como NEVO) | Q05 shown as NEVO Q05 at the March 2026 Bangkok motor show (Thai RHD prospect) | Tailândia | Meios de comunicação social — verificar |
@@ -44,7 +44,7 @@ Note-se que os nomes ** diferem entre a China e os mercados de exportação** (p
 A legalidade e viabilidade de exportação da conversão de um carro chinês LHD para RHD foram **não verificadas** nesta pesquisa, e tais conversões rotineiramente nulas aprovação e garantia de tipo, alterar a estrutura de colisão e falha de registro em mercados rígidos de RHD. Trate qualquer fornecedor que ofereça "conversão RHD" barata como um sinal de alto risco e exija evidência de aprovação regulatória; na maioria dos contratos profissionais a regra segura é ** RHD fabril ou não envia**.
 
 ## O que AutoBridge adiciona além de uma reivindicação "Podemos fazer RHD"
-Os vendedores afirmam disponibilidade RHD sem distinguir uma linha de fábrica de uma loja de conversão. Este guia recomenda ** evidência da linha de fábrica para o modelo exato (fotos de construção, VIN, confirmação local-distribuidor)**, alerta contra troca de direção LHD→RHD aftermarket, e verificando o carro escolhido contra a regra de registro / inspeção de RHD da **destino e wiper/mirror/headlamp-beam requisitos** antes do depósito.
+Os vendedores afirmam disponibilidade RHD sem distinguir uma linha de fábrica de uma loja de conversão. Este guia recomenda ** evidência da linha de fábrica para o modelo exato (fotos de construção, VIN, confirmação local-distribuidor)**, alerta contra troca de direção LHD→RHD aftermarket, e verificando o carro escolhido contra a regra de registro inspeção de RHD da **destino e wiper/mirror/headlamp-beam requisitos** antes do depósito.
 ## Lista de verificação de aquisição para ordens RHD
 
 - Mercado de destino e suas regras de registro/homologação RHD nomeadas.
@@ -97,12 +97,12 @@ Os vendedores afirmam disponibilidade RHD sem distinguir uma linha de fábrica d
 | Modelos Geely/Zeekr prontos para RHD | FOBEV (serviço de exportação) | Mercados de RHD | https://www.fobev.com/vehicles/rhd-ready/ | 2026-09-02 | CROSS_CHECKED | Geely EX5 paralelo LHD/RHD, Zeekr RHD (indústria; verificar) |
 | Dongfeng Forthing entra na Tailândia (oficial) | Grupo Motor Dongfeng (oficial) | TH | https://www.dfmc.com.cn/news/company/news_20260311_1142.html | 2026-09-02 | VERIFICADO | Março- 2026 Entrada na Tailândia, RHD SEXTA-FEIRA/ V9 (verIFIED) |
 | Changan NEVO Q05 Debut show de Bangkok | Autohome 车家号 (mídia) | TH | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/25092921 | 2026-09-02 | CROSS_CHECKED | NEVO Q05 Prospecção de RHD tailandesa (media; verificar) |
-| Estratégia de Hongqi RHD / contexto de mercado de RHD | smzdm (agregador); AutoReport (indústria) | Mercados de RHD | https: //post.m.smzdm.com/p/ aqrp0mkp/; https://m.autoreport.cn/guoji/20260829/19112676566.html | 2026-09-02 | CROSS_CHECKED | Hongqi RHD push; ~ 35% vendas globais em mercados de RHD |
+| Estratégia de Hongqi RHD contexto de mercado de RHD | smzdm (agregador); AutoReport (indústria) | Mercados de RHD | https://post.m.smzdm.com/p/aqrp0mkp/ https://m.autoreport.cn/guoji/20260829/19112676566.html | 2026-09-02 | CROSS_CHECKED | Hongqi RHD push; ~ 35% vendas globais em mercados de RHD |
 
 * Nota de confiança (padrão AutoBridge): apenas o lançamento de RHD da Tailândia é VERIFIED (oficial do fabricante). Listas de modelos de marca são fotos de exportação/serviço/media (SINGLE_SOURCE) que mudam frequentemente e devem ser confirmadas em canais oficiais de marca/distribuidor local por VIN. A legalidade da conversão pós-mercado não foi verificada e é assinalada como risco. *
 
 ## Revisão Editorial
-- **Autor / revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)
+- **Autor revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)
 - ** Última revisão**: 2026-09-05
 - **Mercado de referência**: Mercados globais de RHD (consumo da China)
 - ** Método de verificação**: Um lançamento oficial mais instantâneos da indústria; disponibilidade deliberadamente deixada para confirmação oficial por VIN

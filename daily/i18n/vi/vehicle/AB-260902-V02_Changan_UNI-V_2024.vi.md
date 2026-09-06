@@ -7,13 +7,13 @@
 - ** H1 **: Changan UNI-V 2024 (Trung Quốc): Động cơ, sự khác biệt Trim và những người nhập khẩu nên kiểm tra
 - **Cumpary Keyword**: Changan UNI-V 2024 đặc tả xuất khẩu
 - **Secondary Search Words**: Changan UNI-V 1.5T Cá voi xanh, URI-V 2.0T 8AT, Nồng độ nhiên liệu của Liên Hợp Quốc, Xe sedan chạy nhanh của Changan xuất Trung Quốc
-- **I nội bộ Link gợi ý*: //guides/ right-hand-chinese-cars/; /guides/verify-china-car- replier /; /vehcles/byd-qin-plus-din/
+- **I nội bộ Link gợi ý*: right-hand-chinese-cars/; /guides/verify-china-car- replier /vehcles/byd-qin-plus-din/
 - **Image gợi ý**: hồ sơ bên cho thấy mái nhà nhanh; động cơ vịnh 1.5T; 1.5T đấu với 2.0T thẻ số; bộ khuếch tán/ hoạt động; bảng điều khiển cabin
 - **LT Những gợi ý**: " 2024 Changan UNI-V gọn gàng hồ sơ xe sedan, Trung Quốc ma trận; "Chahangan Blue Fishe 1.5T động cơ vịnh," "UNI-V 1.5T so với 2.0T bảng đặc trưng"
 
 ## Xe này là gì?
 
-The UNI-V is Changan's compact fastback sedan — a five-door,  five-seat, Mô hình xăng đơn với một đường mái kiểu máy đảo  and  một người có thể làm hỏng phần sau của lớp. Nó là một chiếc xe **ICE (gasoline)**, nhắm vào những người mua muốn có bóng thể thao hơn là một chiếc SUV hoặc một tàu điện. Trang này tài liệu của dòng thị trường Trung Quốc ** 2024 (REFERCE MORT: Chloe; người tiêu biểu là 1.5T 尊贵型, với số điểm cao hơn 1.5T năng lượng cao/ 尊享 / 智慧领航  and  2.0T phiên bản. Changan cũng vận chuyển một xuất khẩu UNI-V để chọn thị trường nước ngoài, nhưng các chi tiết xuất khẩu phải được đọc từ tài liệu chính thức thị trường đích đến, chứ không phải từ các tờ Trung Quốc.
+The UNI-V is Changan's compact fastback sedan — a five-door,  five-seat, Mô hình xăng đơn với một đường mái kiểu máy đảo  and  một người có thể làm hỏng phần sau của lớp. Nó là một chiếc xe **ICE (gasoline)**, nhắm vào những người mua muốn có bóng thể thao hơn là một chiếc SUV hoặc một tàu điện. Trang này tài liệu của dòng thị trường Trung Quốc ** 2024 (REFERCE MORT: Chloe; người tiêu biểu là 1.5T 尊贵型, với số điểm cao hơn 1.5T năng lượng cao/ 尊享 智慧领航  and  2.0T phiên bản. Changan cũng vận chuyển một xuất khẩu UNI-V để chọn thị trường nước ngoài, nhưng các chi tiết xuất khẩu phải được đọc từ tài liệu chính thức thị trường đích đến, chứ không phải từ các tờ Trung Quốc.
 
 ## Sắp hàng cơ chế  and  the 1.5T vs 2.0T Decision
 
@@ -21,8 +21,8 @@ Không giống như một EV đơn quyền, quyết định mua hàng của UNI-
 
 | Name | Máy | Công suất/ Mô-men xoắn | Truyền: | Tốc độ | Nhiên liệu kết hợp WLTC |
 |---|---|---|---|---|---|
-| 1.5T (Tiếng cá voi xanh) | Turbo L4 xăng | 138 kW (188 PS) / 300 N·m | 7-speed wet dual-clutch (7DCT) | 205 km/h | 6.37 L / 100 km (尊贵型); 6.2 (高能版) |
-| 2.0T | Turbo L4 xăng | 171 kW (233 PS) / 390 N·m | 8-speed mô-men xoắn tự động (8AT) | 215 km/h | 6.9 L/100 km |
+| 1.5T (Tiếng cá voi xanh) | Turbo L4 xăng | 138 kW (188 PS) 300 N·m | 7-speed wet dual-clutch (7DCT) | 205 km/h | 6.37 L 100 km (尊贵型); 6.2 (高能版) |
+| 2.0T | Turbo L4 xăng | 171 kW (233 PS) 390 N·m | 8-speed mô-men xoắn tự động (8AT) | 215 km/h | 6.9 L/100 km |
 
 Xanh lá 1.5T Hình vẽ cá voi và 7DCT là **VERFIEEEEEEEE** đối với trang web chính thức của Changan và được khớp với cơ sở dữ liệu phương tiện. Mẫu đầu ra 2.0T, 8AT và số nhiên liệu của nó được cấp qua PCauto và Autohome. Lưu ý sự khác biệt hộp số chủ ý: 1.5T sử dụng một loại nước đôi ướt trong khi 2.0T sử dụng tự động thông thường 8-speed -- một sự khác biệt có ý nghĩa đối với những người mua hạm đội thích sự bền bỉ mô-men xoắn,  and  một cái gì đó để nói rõ ràng về thứ tự mua hàng hơn là giả sử "tự động nghĩa là cùng một hộp số."
 
@@ -36,7 +36,7 @@ Chiều dài tổng thể là một con số thay đổi theo lớp, do đó, m�
 |---|---|
 | Chiều dài | 4720 × 1838 × 1430 mm (1.5T 尊贵型); 4680 mm (高能版); 4705 mm (2.0T) |
 | Quay | 2750 mm (tất cả đều được tỉa, được chính thức xác nhận) |
-| Comment | Front MacPherson độc lập / hậu phương đa liên kết |
+| Comment | Front MacPherson độc lập hậu phương đa liên kết |
 | Thân | 5-door 5-seat nhanh chóng, đơn giản |
 | Độ nặng cong | - 1415 kg cho 1.5T 尊享型 (cơ quan tự động: Xe hơi — xác nhận trên đĩa VIN) |
 
@@ -44,7 +44,7 @@ Các bánh xe liên tục 2750 mm bánh xe và sau treo riêng biệt mang trong
 
 ## Lớp học về ba lần và trang bị
 
-Số điểm của Trung Quốc là 2024, 1.5T, 尊贵, 尊享, 智慧领航), và 2.0T 高能 / 经典运动 điểm. Để xuất khẩu, phương pháp thực tế là yêu cầu chuỗi lớp Trung Quốc **xexct và một danh sách thiết bị** cho mỗi đơn vị: các gói thể thao, các tính năng gây rối, hỗ trợ tài xế và kích cỡ màn hình chuyển giữa điểm số, và tên cấp một không dịch sang tên cắt tỉa ở nước ngoài.
+Số điểm của Trung Quốc là 2024, 1.5T, 尊贵, 尊享, 智慧领航), và 2.0T 高能 经典运动 điểm. Để xuất khẩu, phương pháp thực tế là yêu cầu chuỗi lớp Trung Quốc **xexct và một danh sách thiết bị** cho mỗi đơn vị: các gói thể thao, các tính năng gây rối, hỗ trợ tài xế và kích cỡ màn hình chuyển giữa điểm số, và tên cấp một không dịch sang tên cắt tỉa ở nước ngoài.
 
 ## Nhiên liệu, lương thực và sự giảm nhẹ — Kiểm tra tại đích đến
 
@@ -90,34 +90,34 @@ Có phải LHQ là xe điện hay xe xăng? Ở đây có 2024 máy bay URI-V c�
 - TRONG SÁCH TRONG LINH: FAIL (không có giấy phép lấy được tài sản; một người giữ chỗ hoặc “không chấp nhận lời nhắn cũ của hình ảnh ”
 - - Không. Không thể bảo đảm ảnh có thể tái tạo: Wikimedia Commons/Flickr không thể tới từ môi trường nghiên cứu, thư viện chứng khoán yêu cầu quyền truy cập hệ thống ARI/licence, và một trang web OEM không phải là một tài trợ tái sử dụng thương mại; không có ảnh tự động của AutoBridge. Giữ FAIL thay vì khẳng định.
 - Theo ngôn ngữ:
-  - **EN**: AutoBridge export-buyer reference — Changan UNI-V, petrol/diesel Chinese-market vehicle / sedan
-  - **FR**: Référence AutoBridge pour acheteurs export — Changan UNI-V, véhicule thermique (marché chinois) / berline
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Changan UNI-V, Verbrenner (chinesischer Markt) / Limousine
-  - **ES**: Referencia AutoBridge para compradores de exportación — Changan UNI-V, vehículo de combustión (mercado chino) / berlina
-  - **PT**: Referência AutoBridge para compradores de exportação — Changan UNI-V, veículo a combustão (mercado chinês) / sedã
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Changan UNI-V, 中国市場仕様 内燃機関車 / セダン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Changan UNI-V, 중국 시장 내연기관 차량 / 세단
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Changan UNI-V, xe động cơ đốt trong (thị trường Trung Quốc) / sedan
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Changan UNI-V, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถเก๋งซีดาน
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Changan UNI-V, kendaraan mesin pembakaran (pasar Tiongkok) / sedan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Changan UNI-V, مركبة بمحرك احتراق (سوق الصين) / سيدان
-  - **ZH**: AutoBridge 出口采购参考｜Changan UNI-V, 中国市场燃油车 / 轿车
+  - **EN**: AutoBridge export-buyer reference — Changan UNI-V, petrol/diesel Chinese-market vehicle sedan
+  - **FR**: Référence AutoBridge pour acheteurs export — Changan UNI-V, véhicule thermique (marché chinois) berline
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Changan UNI-V, Verbrenner (chinesischer Markt) Limousine
+  - **ES**: Referencia AutoBridge para compradores de exportación — Changan UNI-V, vehículo de combustión (mercado chino) berlina
+  - **PT**: Referência AutoBridge para compradores de exportação — Changan UNI-V, veículo a combustão (mercado chinês) sedã
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Changan UNI-V, 中国市場仕様 内燃機関車 セダン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Changan UNI-V, 중국 시장 내연기관 차량 세단
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Changan UNI-V, xe động cơ đốt trong (thị trường Trung Quốc) sedan
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Changan UNI-V, รถเครื่องยนต์สันดาป (ตลาดจีน) รถเก๋งซีดาน
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Changan UNI-V, kendaraan mesin pembakaran (pasar Tiongkok) sedan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Changan UNI-V, مركبة بمحرك احتراق (سوق الصين) سيدان
+  - **ZH**: AutoBridge 出口采购参考｜Changan UNI-V, 中国市场燃油车 轿车
 
 ## Nguồn và Định dạng
 
 | Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
 | URI-V 高能版 trang chính thức | Máy tự động Changan (chính thức) | CN | https://www.changan.com.cn/car/UNI-V-high/ | 2026-09-02 | VEII | Phạm vi quay, 2750 mm bánh xe, theo dõi |
-| URI-V 2nd-gen trang chính thức | Máy tự động Changan (chính thức) | CN | https://www.changan.com.cn/car/UNI-V-2nd/ | 2026-09-02 | VEII | Cá voi xanh 1.5T 138 kW / 300 N·m, 7DCT |
+| URI-V 2nd-gen trang chính thức | Máy tự động Changan (chính thức) | CN | https://www.changan.com.cn/car/UNI-V-2nd/ | 2026-09-02 | VEII | Cá voi xanh 1.5T 138 kW 300 N·m, 7DCT |
 | 2024 1.5T 尊贵型 cấu hình | Tự động nhà (汽车之家) | CN | https://dealer.autohome.com.cn/2173671/spec_66852.html | 2026-09-02 | ĐÃ_ ĐÃ | 1.5T đầu ra, 4720 mm chiều dài, WLTC 6.37 |
-| Bàn cấu hình 2024 UNI-V | PCauto (太平洋汽车) | CN | https://car.pcauto.com.cn/360/m128895/config.html | 2026-09-02 | ĐÃ_ ĐÃ | 2.0T 171 kW / 390 N·m, 8AT, sử dụng nhiên liệu, giá gia đình |
+| Bàn cấu hình 2024 UNI-V | PCauto (太平洋汽车) | CN | https://car.pcauto.com.cn/360/m128895/config.html | 2026-09-02 | ĐÃ_ ĐÃ | 2.0T 171 kW 390 N·m, 8AT, sử dụng nhiên liệu, giá gia đình |
 | Trang số thụ tinh UNI-V | Tự động cấu hình nhà | CN | https://www.autohome.com.cn/config/spec/66851.html | 2026-09-02 | SINGLE_SOURCE | Độ nặng cong (các nguồn sáng) |
 | Báo cáo phóng mới của UNI-V | Phong Tự (凤凰网汽车) | CN | https://auto.ifeng.com/c/8Y79qxCFD3L | 2026-09-02 | ĐÃ_ ĐÃ | MacPherson/Ble kết nối, ivetrain |
 
 *BIDidence (Chính sách tự động Bridge: 1.5T powertrain and 2750 mm roads được thực hiện trên trang web của Changan (chính thức làm việc). 2.0T con số được tạo ra từ cơ sở dữ liệu độc lập; trọng lượng lề đường là SINGLE_ NHỮNG NGƯỜI ĐỂ ĐƯỢC ĐỂ ĐƯỢC THỂ VỚI NHỮNG NGƯỜI TRONG SỰ THỂ. ♪
 
 ## Xem lại tập tin
-- **Author / recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
+- **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
 - **Last xem lại**: 2026-09-05
 - ** chợ chăm sóc**: China, 2024 model year (vergreen model page; xuất khẩu UNI-V cai trị bởi các tờ đích)
 - ** phương pháp xác thực**: trang thương hiệu đối xứng với cơ sở dữ liệu độc lập; các mục nguồn đơn có nhãn

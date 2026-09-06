@@ -4,10 +4,10 @@
 - **SEO Título**: Changan CS55 PLUS (3rd Gen) 2024: ICE de mercado chinês Guia de Especificações e Exportação
 - ** Descrição do Meta**: China-mercado terceira geração Changan CS55 PLUS gasolina SUV: Blue Whale NE 1.5T, 7DCT, dimensões, WLTC uso de combustível, e por que o híbrido é uma linha separada.
 - ** H1 **: Changan CS55 PLUS (3rd Geração, 2024) — Especificações de SUV de mercado chinês e verificações de exportação
-- **Chave-palavra primária**: Changan / 长安 CS55 PLUS(第三代) specs export
+- **Chave-palavra primária**: Changan 长安 CS55 PLUS(第三代) specs export
 - ** Termos de pesquisa secundários**: Changan CS55 PLUS export; terceira geração CS55; Baleia Azul 1.5T; China gasolina SUV; 7DCT
 - ** URL sugerido**: /veículos/changan- cs55-plus/
-- ** Intenção de pesquisa**: 了解 Changan / 长安 CS55 PLUS（第三代） 中国版规格、配置与出口适配性（车型参数页）
+- ** Intenção de pesquisa**: 了解 Changan 长安 CS55 PLUS（第三代） 中国版规格、配置与出口适配性（车型参数页）
 - **As sugestões de ligação interna**: /veículos/changan- cs55-plus/, /guias/emissão-combustível-compatibilidade-história/, /guias/china-usado-carro-exportação-licença-processo/
 - **Schema Scope**: Artigo + Veículo (sem Produto/Oferta/Revisão)
 
@@ -15,7 +15,7 @@
 Esta página abrange apenas o **terceira geração Changan CS55 PLUS (2024) com o motor de gasolina (ICE)**. A versão **super-híbrida é uma linha separada** com diferentes figuras de corpo e poder de tração e não é fundida aqui. O mercado de referência é **China**.
 
 ## Comboios de potência e dimensões do combustível
-- ** Corpo**: 4539 / 1865 / 1680 mm, distância entre eixos 2656 mm; cargo 475–1415 L.
+- ** Corpo**: 4539 1865 1680 mm, distância entre eixos 2656 mm; cargo 475–1415 L.
 - **Motor**: 新蓝鲸 NE 1.5T, 141 (192Ps) kW.
 - **Transmissão**: 7DCT 湿式双离合.
 - ** Desempenho/economia**: 0–100 km/h 7.9 s; Consumo de combustível WLTC 6.94.
@@ -25,7 +25,7 @@ Esta página abrange apenas o **terceira geração Changan CS55 PLUS (2024) com 
 ## Quadro de especificações verificados (referência do mercado chinês)
 | Especificação | Valor | Unidade | Mercado | Confiança | Nota de origem |
 |---|---|---|---|---|---|
-| largura de comprimento altura | 4539 / 1865 / 1680 | mm | CHINA | FONTE ÚNICA | 搜狐车型库 |
+| largura de comprimento altura | 4539 1865 1680 | mm | CHINA | FONTE ÚNICA | 搜狐车型库 |
 | distância entre eixos | 2656 | mm | CHINA | FONTE ÚNICA | 搜狐车型库 |
 | motor | 新蓝鲸 NE 1.5T | - Não, não, não. | CHINA | FONTE ÚNICA | 搜狐车型库 |
 | potência do motor | 141 (192Ps) | kW | CHINA | FONTE ÚNICA | 搜狐车型库 |
@@ -47,7 +47,7 @@ Para um SUV a gasolina, os controlos críticos de ordem são o estágio de emiss
 5. Tratar o preço de lançamento RMB como referência nacional; solicitar uma cotação de exportação atual.
 
 ## Perguntas Frequentes
-**Isto inclui o híbrido CS55 ?** Não — o híbrido é uma linha separada com diferentes especificações.
+**Isto inclui o híbrido CS55 Não — o híbrido é uma linha separada com diferentes especificações.
 ** Qual é o padrão de emissão?** Confirme China- 6 contra as regras de destino; veja o guia de emissões/combustível.
 ** É 6.94 L/100 km uma figura do mundo real?** É um valor de laboratório WLTC; o uso real varia.
 ** É o preço de exportação de 99, 900 RMB? Não — referência de lançamento nacional.

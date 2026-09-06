@@ -7,7 +7,7 @@
 - **Primary Keyword**: métodos de pago de exportación t t t lc risk
 - **Segundary Search Terms**: términos de pago de exportación; depósito irrevocable L/C; T/T; colección documental; riesgo de cuenta abierta; UCP600
 - ** URL agregada**: /guides/export-pago-métodos-t-lc-risk/
-- **Intent de búsqueda**: 出口商如何在汽车订单中选择并安全使用电汇 / 信用证等结算方式, 识别软条款与银行风险
+- **Intent de búsqueda**: 出口商如何在汽车订单中选择并安全使用电汇 信用证等结算方式, 识别软条款与银行风险
 - **Sugerencias de Enlace Interno**: /guides/incoterms- 2020-selection-guide/, /guides/verify-chinese-car-export-supplier-history/, /guides/export-fx-settlement-trade-fx-registration/
 - **Esquema Ámbito**: Artículo (sin Producto/Offer/Revisión)
 
@@ -15,7 +15,7 @@
 Para un exportador chino de vehículos el método de pago es un instrumento de asignación de riesgos, no un detalle administrativo. Los vehículos son de gran valor, a menudo construidos para ordenar, y pueden necesitar homologación o conversión antes del envío, por lo que la brecha entre producción, carga y pago es donde ocurren pérdidas. Esta guía explica las cinco rutas comunes de asentamiento y los cheques que pertenecen antes, no después, firma de contrato. Es un marco de asentamiento internacional, no la norma bancaria de ningún país único.
 
 ## Cómo los cinco instrumentos cambian de riesgo
-- **T/T (transferencia logística)** es una remesas directas. En el comercio de vehículos normalmente se divide en un depósito antes de la producción y un equilibrio contra una copia / liberación de la factura de embarque. El depósito protege al exportador contra la cancelación en una unidad construida a pedido; el tiempo de equilibrio protege al comprador de pagar un coche no cargado.
+- **T/T (transferencia logística)** es una remesas directas. En el comercio de vehículos normalmente se divide en un depósito antes de la producción y un equilibrio contra una copia liberación de la factura de embarque. El depósito protege al exportador contra la cancelación en una unidad construida a pedido; el tiempo de equilibrio protege al comprador de pagar un coche no cargado.
 - **L/C (carta de crédito)** sustituye el crédito bancario por crédito del comprador. Bajo UCP600 se presume irrevocable un crédito a menos que diga expresamente lo contrario, y el pago se activa **completa presentación** — documentos que coinciden con los términos del crédito en su cara.
 - **D/P (documentos contra el pago)** y **D/A (documentos contra la aceptación)** son colecciones documentales a través de bancos; los bancos manejan documentos pero no** dan una empresa de pago de estilo L/C. Bajo D/A el comprador lleva las mercancías en una promesa de pagar más adelante, que está cerca de riesgo de venta libre.
 - **O/A (cuenta abierta)** significa que el comprador paga después de recibir las mercancías; es el más favorable al comprador y la mayor exposición para el exportador.
@@ -50,7 +50,7 @@ Incluso un L/C limpio no cura la exposición a las sanciones en el comprador/ban
 | Cámara de Comercio Internacional (CCI) | Cámara de Comercio Internacional | CN | T1 | VERIFIED | https://iccwbo.org/ | editor de las normas UCP600 e Incoterms; marco de financiación del comercio autorizado |
 | China Exportar " Seguro de Crédito (SINOSURE) - seguro de crédito a corto plazo para la exportación | China Exportar " Credit Insurance Corporation (SINOSURE 中国信保) | INT/CN | T1/T2 | VERIFIED | https://www.sinosure.com.cn/ | Es insurable el riesgo de cobrar de venta libre (O/A) y de reunión documental (D/P); el contexto del seguro de crédito a la exportación para la elección a plazo de pago |
 | China Council for the Promotion of International Trade (CCPIT) | China Council for the Promotion of International Trade (CCPIT 中国贸促会) | CN | T1/T2 | VERIFIED | https://www.ccpit.org/ | Órgano nacional de promoción del comercio: L/C y orientación y certificación de documentos comerciales; distintos de las reproducciones de los gobiernos locales |
-| ICC Soluciones de finanzas comerciales (UCP 600 / URC 522 / URDG rule owner) | Cámara de Comercio Internacional | INT | T1/T2 | VERIFIED | https://iccwbo.org/business-solutions/trade-finance/ | ICC es la regla para L/C (UCP 600), colecciones (URC 522) y garantías (URDG); página profunda más allá de la página principal |
+| ICC Soluciones de finanzas comerciales (UCP 600 URC 522 URDG rule owner) | Cámara de Comercio Internacional | INT | T1/T2 | VERIFIED | https://iccwbo.org/business-solutions/trade-finance/ | ICC es la regla para L/C (UCP 600), colecciones (URC 522) y garantías (URDG); página profunda más allá de la página principal |
 ## Revisión editorial
 - **Autor**: Equipo Editorial AutoBridge Export · [autores](/autores/) · [Política editorial](/editorial-policía/)
 - **Documento revisado*: 2026-09-05

@@ -21,7 +21,7 @@ O exportador tem o seu próprio registo aduaneiro e os seus ficheiros através d
 Controlo aduaneiro de que a declaração corresponde aos documentos comprovativos e às mercadorias em causa. Para os veículos, entende-se por código SH (classificado pela tarifa actual pelo código exato 10-digit), quantidade, valor, modelo e qualquer requisito de licença de exportação, inspeção ou certificado devem ser alinhados entre os documentos de declaração, fatura e transporte. Um desencontro é uma razão comum para que a declaração seja posta de lado.
 
 ## Dever de veracidade e declarações rejeitadas
-O declarante tem o dever legal de uma declaração verdadeira. Se uma declaração for rejeitada (退单/退改), a resposta correta é corrigir os campos marcados e reenviar através do mesmo canal com documentos consistentes — não para trabalhar em torno da rejeição. Os padrões de preenchimento exigem descrições padrão de mercadorias, quantidade/unidade correta e valor legal; adivinhar um código HS ou copiar o código de uma remessa anterior é uma fonte recorrente de atraso.
+O declarante tem o dever legal de uma declaração verdadeira. Se uma declaração for rejeitada a resposta correta é corrigir os campos marcados e reenviar através do mesmo canal com documentos consistentes — não para trabalhar em torno da rejeição. Os padrões de preenchimento exigem descrições padrão de mercadorias, quantidade/unidade correta e valor legal; adivinhar um código HS ou copiar o código de uma remessa anterior é uma fonte recorrente de atraso.（退单）（退改）
 
 ## Uma lista de verificação de apresentação de uma remessa de veículos
 1. Confirmar o código SH exato de 10-digit e qualquer condição de supervisão desse código na tarifa do ano em curso.

@@ -19,7 +19,7 @@ Un EV de dominio chino que pasa aduanas puede ser inutilizable si su entrada de 
 
 | Estándar | Despliegue primario | Notas |
 |---|---|---|
-| **GB/T 20234.3 ** (DC) + **GB/T 27930 ** (comunicación de la CAN) | China (vehículos chinos dométicos) | GB/T 20234.3-2023 eleva el límite superior a ** 1500 V / 800 A** (fuentes de industrias verificadas) |
+| **GB/T 20234.3 ** (DC) + **GB/T 27930 ** (comunicación de la CAN) | China (vehículos chinos dométicos) | GB/T 20234.3-2023 eleva el límite superior a ** 1500 V 800 A** (fuentes de industrias verificadas) |
 | ** CCS2 (Combo 2)** | Europa y muchos mercados de exportación | Entrada AC/DC combinada; dominante en la UE |
 | ** CCS1 (Combo 1)** | América del Norte | Variación regional del SAC |
 | **Chademo* | Japón y mercados seleccionados | Originado en Japón |
@@ -48,7 +48,7 @@ Un gráfico de estándares le dice GB/T difiere de CCS2; no le dice si *este VIN
 Para cada modelo/trim que exporte, regístrese en una hoja:
 
 - Entrada nacional: GB/T DC + tipo de entrada AC
-- Disponibles en la venta de fábricas: CCS2 / CHAdeMO / NACS / CCS1 por VIN
+- Disponibles en la venta de fábricas: CCS2 CHAdeMO NACS CCS1 por VIN
 - Protocolo de comunicación y si el firmware de exportación apoya el control de destino
 - Si se basa en adaptador: modelo de adaptador, certificación, máxima corriente/voltaje y legalidad local
 - Realidad de redes públicas en el destino (estándar D.C. dominante; estándar de toma de corriente AC)
@@ -103,7 +103,7 @@ Does Chao ¿Ji hace que todos los conectores sean compatibles ahora?** ChaoJi es
 | Presentación estándar ChaoJi (oficial) | Asociación de CHAdeMO (órgano de calidad) | CN/JP/Global | https://www.chademo.com/wp2016/wp-content/uploads/ChaoJi202006/ChaoJi_Presenataion_EN.pdf | 2026-09-02 | VERIFIED | ChaoJi diseñó compatible con GB/T/CHAdeMO/CCS |
 | Carga-carriles de certificación estándar | Huayu Testing (cuerpo de certificación) | Global | http://www.huayutest.com/zixun/87747.html | 2026-09-02 | CROSS_CHECKED | Despliegue regional del CHAdeMO/CCS, diferencias de certificación |
 | Normas de conexión de carga | cehome (medios industriales) | CN | https://m.cehome.com/news/20260809/389612.shtml | 2026-09-02 | CROSS_CHECKED | GB/T 20234.3-2023 1500V/800A, GB/T 27930, ChaoJi |
-| GB/T, CCS2, Tipo 2, NACS, CHAdeMO en comparación | evse-chargers.com (industria) | Global | https://www.evse-chargers.com/news/understanding-ev-charging-standards-gb-t-ccs2-type-2-nacs-and-chademo-compared-283319.html | 2026-09-02 | CROSS_CHECKED | GB/T Product CCS2 requiere adaptador; matriz de compatibilidad |
+| GB/T, CCS2, Tipo 2, NACS, CHAdeMO en comparación | (industria) | Global | https://www.evse-chargers.com/news/understanding-ev-charging-standards-gb-t-ccs2-type-2-nacs-and-chademo-compared-283319.html | 2026-09-02 | CROSS_CHECKED | GB/T Product CCS2 requiere adaptador; matriz de compatibilidad |
 | Guía para estándares globales de carga EV | MARUIKEL (industria) | Global | https://www.maruikel.com/es/blog/guide-to-global-ev-charging-standards-type-1-type-2-ccs-chademo-gbt.html | 2026-09-02 | CROSS_CHECKED | Conector de destino de exportación de GB/T vs |
 | Adaptador GB/T-to-CHAdeMO B2B guía | Electric Auto China (industria) | Global | https://www.electricautochina.com/comprehensive-b2b-guide-to-gbt-to-chademo-adapters-for-exported-chines/ | 2026-09-02 | CROSS_CHECKED | Botella de compatibilidad de exportación |
 

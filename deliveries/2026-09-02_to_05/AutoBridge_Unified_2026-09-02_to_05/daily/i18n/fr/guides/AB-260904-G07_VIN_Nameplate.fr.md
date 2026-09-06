@@ -43,7 +43,7 @@ Toute différence de caractère, preuve de restauration ou inadéquation de docu
 
 ## Limites du présent guide
 - Aucun répertoire WMI-préfix-à-fabricant (exige le tableau d'allocation autorisé).
-- Aucune règle absolue de "lettre initiale = pays de fabrication".
+- Aucune règle absolue de "lettre initiale pays de fabrication".
 - Les formats de VIN/enregistrement de destination sont traités par pays de destination.
 
 ## Foire aux questions
@@ -86,7 +86,7 @@ Toute différence de caractère, preuve de restauration ou inadéquation de docu
 | Plateforme SAMR · GB16735-2019 détail | RAM | NC | https://std.samr.gov.cn/gb/search/gbDetailed?id=94E9AF238E3052A4E05397BE0A0AD366 | 2026-09-04 | VÉRIFIER (primaire) | État standard |
 | Exigences relatives à l'examen des produits d'accès aux véhicules routiers (référence obligatoire de GB16735) | MIIT officiel PDF | NC | https://wap.miit.gov.cn/cms_files/filemanager/1226211233/attach/20259/9d0824a8e8a84abf858f3cb96a6d7385.pdf | 2026-09-04 | VÉRIFIER (primaire) | Statut obligatoire, exigence de cohérence |
 | Explication du segment VIN | Pacific Auto | NC | http://m.pcauto.com.cn/x/5100/51002243.html | 2026-09-04 | SOURCE UNIQUE | Expliqueur de niveau de poste |
-*Note verrouillée: "L'IMU chinois commence par L / un certain H" est NON VÉRIFIÉ et n'est pas indiqué comme fait; les formats VIN du fabricant de préfixe WMI et de destination sont hors de portée. *
+*Note verrouillée: "L'IMU chinois commence par L un certain H" est NON VÉRIFIÉ et n'est pas indiqué comme fait; les formats VIN du fabricant de préfixe WMI et de destination sont hors de portée. *
 
 | 道路车辆 车辆识别代号 (VIN) GB16735-2019 条文 (百科载体) | 百科 (国标条文载体) | NC | https://m.baike.com/wiki/%E8%BD%A6%E8%BE%86%E8%AF%86%E5%88%AB%E5%8F%B7%E7%A0%81/1470666 | 2026-09-04 | SOURCE UNIQUE | VIN=WMI+VDS+VIS 共 17 位 (以标准正文为准) |
 

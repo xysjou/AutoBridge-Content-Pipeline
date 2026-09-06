@@ -27,10 +27,10 @@ Der Emgrand ist Geelys volumenstarke Kompaktlimousine und ein natürlicher Kandi
 Bei einem ICE-Auto konzentrieren sich die Fragen des Exporteurs auf ** Motorcode/-tune, Getriebewahl, Kraftstoffqualität und Emissionsstufe **. Eine 5MT und eine CVT sind nicht pro forma austauschbar: Das Übertragungsgerät wird mit der Fahrzeug-Identifizierungsnummer verglichen und es wird bestätigt, ob der Bestimmungsort die Emissionsstufe China-6 akzeptiert oder eine eigene Zertifizierung erfordert (siehe Leitfaden für das CoC-/Typgenehmigungsdossier).
 
 ## Abmessungen und Kabine
-- Länge / Breite / Höhe: ** 4638 / 1820 / 1460 mm **
+- Länge Breite Höhe: ** 4638 1820 1460 mm **
 - Radstand: ** 2650 mm **
 - Sitze: ** 5 **
-These are China-reference dimensions for the 4th-gen car. Das 5th-generation Auto ist größer (berichtet 4815 / 1885 / 1480 mm, 2755 mm Radstand) - mischen Sie die beiden nicht auf einer Spec-Linie oder in Marketingmaterial.
+These are China-reference dimensions for the 4th-gen car. Das 5th-generation Auto ist größer (berichtet 4815 1885 1480 mm, 2755 mm Radstand) - mischen Sie die beiden nicht auf einer Spec-Linie oder in Marketingmaterial.
 
 ## Model-Year Boundary (halten Sie diese sichtbar)
 - **Diese Seite:** 4th Generation, Modelljahr 2024.
@@ -39,10 +39,10 @@ These are China-reference dimensions for the 4th-gen car. Das 5th-generation Aut
 
 ## Was Importeure vor der Zahlung überprüfen sollten
 1. ** Generation/Jahr/Trim** auf der PI geschrieben und mit der VIN abgestimmt – kein Mischen von 4th-gen Körper mit 5th-gen Ansprüchen.
-2. **Übertragung ** (5MT vs CVT) und **exakte Kraft / Drehmoment ** für diese Trimmung.
+2. **Übertragung ** (5MT vs CVT) und **exakte Kraft Drehmoment ** für diese Trimmung.
 3. **Emissions-/Kraftstoff-Kompatibilität und Bestimmungsort **Typgenehmigung/CoC** Route; eine chinesische Konformitätsbescheinigung ist ein inländisches Dokument, nicht der Marktzugang in Übersee.
 4. **Lenkseite, Clustersprache, Infotainmentregion** und Garantieabdeckung am Zielort.
-5. **Ladeplan** - eine 4.64 m lange Limousine lädt normalerweise effizient in Container / RoRo; bestätigen Sie die tatsächliche Stauzahl aus einem Ladeplan (siehe Containerladeführer).
+5. **Ladeplan** - eine 4.64 m lange Limousine lädt normalerweise effizient in Container RoRo; bestätigen Sie die tatsächliche Stauzahl aus einem Ladeplan (siehe Containerladeführer).
 
 ## Beantragen Sie eine aktuelle Ausfuhrquote
 Es wird kein statischer Ausfuhrpreis veröffentlicht. Die ungefähr RMB 69, 900 chinesische Ausgangszahl ist eine ** inländische, zeitsensitive Referenz nur - nicht ein FOB / CIF Zitat **. Erkundigen Sie sich bei **Zielland · Menge · Trim & Transmission · LHD/RHD · Destination Port · Incoterm**.
@@ -66,24 +66,24 @@ Es wird kein statischer Ausfuhrpreis veröffentlicht. Die ungefähr RMB 69, 900 
 - IMAGE_RIGHTS_STATUS: FAIL (kein lizenziertes Asset erfasst; ein Platzhalter oder ein Hinweis „altes Bild behalten wird nicht akzeptiert)
 - BLOCK_REASON: Es konnte kein wiederverwendbares Bild gesichert werden: Wikimedia Commons/Flickr sind aus der Forschungsumgebung nicht erreichbar, Lagerbibliotheken erfordern authentifizierten API/Lizenzzugriff und ein OEM-Webseitenbild ist KEIN kommerzielles Wiederverwendungsstipendium; es gibt kein AutoBridge-eigenes Foto. Nein, aber nicht nur vereitelt.
 - ALT nach Sprache:
-  - **EN**: AutoBridge export-buyer reference — Geely Emgrand, petrol/diesel Chinese-market vehicle / sedan
-  - **FR**: Référence AutoBridge pour acheteurs export — Geely Emgrand, véhicule thermique (marché chinois) / berline
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Geely Emgrand, Verbrenner (chinesischer Markt) / Limousine
-  - **ES**: Referencia AutoBridge para compradores de exportación — Geely Emgrand, vehículo de combustión (mercado chino) / berlina
-  - **PT**: Referência AutoBridge para compradores de exportação — Geely Emgrand, veículo a combustão (mercado chinês) / sedã
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Geely Emgrand, 中国市場仕様 内燃機関車 / セダン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Geely Emgrand, 중국 시장 내연기관 차량 / 세단
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Geely Emgrand, xe động cơ đốt trong (thị trường Trung Quốc) / sedan
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Geely Emgrand, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถเก๋งซีดาน
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Geely Emgrand, kendaraan mesin pembakaran (pasar Tiongkok) / sedan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Geely Emgrand, مركبة بمحرك احتراق (سوق الصين) / سيدان
-  - **ZH**: AutoBridge 出口采购参考｜Geely Emgrand, 中国市场燃油车 / 轿车
+  - **EN**: AutoBridge export-buyer reference — Geely Emgrand, petrol/diesel Chinese-market vehicle sedan
+  - **FR**: Référence AutoBridge pour acheteurs export — Geely Emgrand, véhicule thermique (marché chinois) berline
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Geely Emgrand, Verbrenner (chinesischer Markt) Limousine
+  - **ES**: Referencia AutoBridge para compradores de exportación — Geely Emgrand, vehículo de combustión (mercado chino) berlina
+  - **PT**: Referência AutoBridge para compradores de exportação — Geely Emgrand, veículo a combustão (mercado chinês) sedã
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Geely Emgrand, 中国市場仕様 内燃機関車 セダン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Geely Emgrand, 중국 시장 내연기관 차량 세단
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Geely Emgrand, xe động cơ đốt trong (thị trường Trung Quốc) sedan
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Geely Emgrand, รถเครื่องยนต์สันดาป (ตลาดจีน) รถเก๋งซีดาน
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Geely Emgrand, kendaraan mesin pembakaran (pasar Tiongkok) sedan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Geely Emgrand, مركبة بمحرك احتراق (سوق الصين) سيدان
+  - **ZH**: AutoBridge 出口采购参考｜Geely Emgrand, 中国市场燃油车 轿车
 
 ## Quellen & Verifizierung
 | Quelle: | Organisation | Markt | URL | Geprüft | Vertrauen | Belegte Fakten |
 |---|---|---|---|---|---|---|
 | 4th-gen Emrand 1.5L CVT-Verkleidungsstück | Sohu Auto Datenbank | CN | https://db.m.auto.sohu.com/trim_173890 | 2026-09-03 | CROSS_CHECKED | Abmessungen, Radstand, Sitze, Preisreferenz |
-| 2024 Emgrand core config (93 kW, 5MT/CVT) | Xcar / Toutiao media | CN | http://m.toutiao.com/group/7372041648991961639/ | 2026-09-03 | CROSS_CHECKED | 1.5L 93 kW, Getriebe |
+| 2024 Emgrand core config (93 kW, 5MT/CVT) | Xcar Toutiao media | CN | http://m.toutiao.com/group/7372041648991961639/ | 2026-09-03 | CROSS_CHECKED | 1.5L 93 kW, Getriebe |
 | Emgrand Multiversion Parameter Vergleich | Dongchedi-Datenbank | CN | https://m.dongchedi.com/auto/params-carIds-110850-110851-110852-110853-100195-87624-87498-87499-80723-60266 | 2026-09-03 | CROSS_CHECKED | Radstand, Versionen, inländische Fassungen MSRP (TIME_SENSITIVE) |
 | 5th-generation Emgrand Launch (Generationengrenze) | Chinas Wirtschaft Netz (offizielle Medien) | CN | http://auto.ce.cn/auto/gundong/202511/t20251120_2592304.shtml | 2026-09-03 | ZEIT_SENSIATION | 5th-gen Größe/Radstand/Preis; unterscheidet Generationen |
 | Straßenfahrzeughersteller und -produktkatalog — öffentliches Abfragesystem | MIIT, China Ministerium für Industrie und Informationstechnologie | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | ÜBERPRÜFUNG | Überprüfen Sie den Hersteller, das zugelassene Modell und die Homologation (公告) Katalogeintrag vor der Bestellung oder Export |
@@ -94,7 +94,7 @@ Es wird kein statischer Ausfuhrpreis veröffentlicht. Die ungefähr RMB 69, 900 
 *Vertrauensbeweis: kein OEM-Primärspezifikationsblatt für dieses Modell erfasst wurde; Zahlen sind überprüfte chinesische Datenbank-/Medienwerte. Das 127 N·m-Drehmoment ist Single-Source. Inlandspreis  and  the 5th-generation launch are time-sensitive. Zielhomologation und Exportspezifikationen müssen für die VIN bestätigt werden. *
 
 ## Editorial Review
-- **Autor / Rezensent**: [AutoBridge Export Editorial Team](/Autoren/) · Methode nach unserer [Editorial Policy](/editorial-policy/]
+- **Autor Rezensent**: [AutoBridge Export Editorial Team](/Autoren/) · Methode nach unserer [Editorial Policy](/editorial-policy/]
 - **Zuletzt überprüft**: 2026-09-05
 - **Referenzmarkt**: China, 4th-generation 2024 Emgrand (Chinesische Marktreferenzspezifikation; keine globale Spezifikation)
 - **Verifizierungsmethode**: Multi-Datenbank-Cross-Check; Generationsgrenze isoliert; kein Ziel extrapoliert

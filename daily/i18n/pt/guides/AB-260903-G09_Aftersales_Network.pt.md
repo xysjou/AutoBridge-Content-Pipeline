@@ -14,7 +14,7 @@
 Este guia abrange **manter-se pós-venda, fornecimento de peças e cumprimento da garantia** em um mercado de destino. É deliberadamente distinto do tópico separado de *procureing* peças de reposição na China (um cluster de conteúdo de peças de reposição existente) — componentes de fornecimento é uma entrada; esta página é sobre a capacidade de operação** que transforma essas peças em tempo de serviço do cliente.
 
 ## Por que decide repetir negócios
-Uma fraqueza documentada da indústria é **"pesada em vendas, leve em pós-venda"**: delegando tudo para um agente produz oficinas irregulares, estoques e qualidade de reparo inconsistente, e a marca / exportador, em última análise, paga o custo de reputação. Para um novo exportador, o modo de falha é previsível — veículos vendem, a primeira garantia reivindica chegar, e não há rede ou peças para respondê-los, dirigindo retornos, disputas e reordens perdidas.
+Uma fraqueza documentada da indústria é **"pesada em vendas, leve em pós-venda"**: delegando tudo para um agente produz oficinas irregulares, estoques e qualidade de reparo inconsistente, e a marca exportador, em última análise, paga o custo de reputação. Para um novo exportador, o modo de falha é previsível — veículos vendem, a primeira garantia reivindica chegar, e não há rede ou peças para respondê-los, dirigindo retornos, disputas e reordens perdidas.
 
 ## A expectativa política por trás dela
 O aviso de exportação de quatro ministrys usado-carro (itens sobre a melhoria do sistema de apoio à exportação, VERIFIED) ** orienta exportadores, OEMs e importadores no exterior para entregar conjuntamente pós-venda, fornecimento seguro de peças de reparação e suporte técnico**. MOFCOM carrega o mesmo aviso. Na prática, isto significa que o pós-venda não é um polimento opcional: faz parte de operações de exportação sustentáveis e conformes e faz cada vez mais parte da gravidade dos compradores de fornecedores veterinários.
@@ -27,7 +27,7 @@ Não compilar uma rede proprietária antes que o volume a justifique. A progress
 Combine o modelo com **veículos em operação**, não com otimismo sobre as vendas do próximo trimestre.
 
 ## Fornecimento de peças: estoque onde pode ser alcançado rapidamente
-- Um armazém de peças **local ou regional com estoque de segurança de componentes de núcleo / movimento rápido** é a principal alavanca no tempo de resposta.
+- Um armazém de peças **local ou regional com estoque de segurança de componentes de núcleo movimento rápido** é a principal alavanca no tempo de resposta.
 - Exemplo de indústria (single-source, ilustrative not universal): um fabricante chinês de NEV **Melbourne OEM-parts warehouse alegadamente oferece entrega no próximo dia de negócios para os principais estados** — um exemplo de como boa meia regional parece, não um padrão que todos os mercados alcançam.
 - Define uma lista de acções ** tiered**: Partes A (crítico-downtime, local), partes B (hub regional), partes C (indentação da China com um prazo de entrega declarado), e comunicar os tempos de chumbo honestamente.
 
@@ -80,8 +80,8 @@ Uma garantia só é credível na medida em que a rede a possa honrar:
 ## Fontes e Verificação
 | Título do código fonte | Organização | Mercado | URL | Verificado | Confiança | Factos corroborados |
 |---|---|---|---|---|---|---|
-| Aviso de exportação de quatro ministérios usados para automóveis (item 6: sistema de suporte) | Biblioteca de políticas do Conselho de Estado | NC / Global | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | VERIFICADO | Expectativa política de apoio pós-venda/partes/tecnologia |
-| Mesmo aviso (sistema de suporte) | Ministério do Comércio | NC / Global | http://www.mofcom.gov.cn/zcfb/dwmygl/art/2025/art_543d1fcc6a1048d5bf301a8d59ed723e.html | 2026-09-03 | VERIFICADO | Texto de contrapartida MOFCOM |
+| Aviso de exportação de quatro ministérios usados para automóveis (item 6: sistema de suporte) | Biblioteca de políticas do Conselho de Estado | NC Global | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | VERIFICADO | Expectativa política de apoio pós-venda/partes/tecnologia |
+| Mesmo aviso (sistema de suporte) | Ministério do Comércio | NC Global | http://www.mofcom.gov.cn/zcfb/dwmygl/art/2025/art_543d1fcc6a1048d5bf301a8d59ed723e.html | 2026-09-03 | VERIFICADO | Texto de contrapartida MOFCOM |
 | Como as montadoras chinesas podem fechar o gap pós-venda no exterior | Sina Finance | Global | https://finance.sina.com.cn/esg/2026-04-27/doc-inhvxpih9178870.shtml | 2026-09-03 | FONTE ÚNICA | Caminho de rede multimarca; exemplo de peças de Melbourne; exemplo de garantia de 7-yr |
 | As peças que vão a nível global devem ser sistematizadas | Beijing News | Global | https://m.bjnews.com.cn/detail/1779683581168283.html | 2026-09-03 | CROSS_CHECKED | Fraqueza das vendas pesadas, serviço leve; risco de delegação |
 * Nota de escopo: a expectativa política é oficial; modelos de rede e os itens de garantia da Austrália são exemplos de indústria de uma única empresa utilizados ilustrativamente, não apresentados como padrões universais. Este guia aborda a operação de serviço e é mantido distinto do cluster de compras de peças de reposição. *
@@ -90,9 +90,9 @@ Uma garantia só é credível na medida em que a rede a possa honrar:
 | Conselho da China para a Promoção do Comércio Internacional (rede de serviços comerciais) | CCPIT | NC/INT'L | http://www.ccpit.org/ | 2026-09-05 | VERIFICADO | Canais institucionais que apoiam a construção de redes de serviços no estrangeiro |
 
 ## Revisão Editorial
-- **Autor / revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)
+- **Autor revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)
 - ** Última revisão**: 2026-09-05
-- **Mercado de referência / escopo**: Operações pós-venda globais (distintas de compras de peças)
+- **Mercado de referência escopo**: Operações pós-venda globais (distintas de compras de peças)
 - ** Método de verificação**: Política oficial + análise do setor; exemplos de empresas rotulados ilustrativos; limite de escopo aplicado
 - ** Norma editorial**: Pesquisado e escrito a partir das fontes listadas acima (pesquisa de mesa; nenhuma condução em primeira mão, demolição ou importação é reivindicada). A confiança na fonte é mostrada por linha; qualquer ponto que não podemos confirmar independentemente é apresentado como um item de verificação em vez de afirmado como fato.
 #AutoBridge #AfterSalesNetwork #PartsSupply #Warranty #OverseasService

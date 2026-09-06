@@ -2,7 +2,7 @@
 
 ## SEO Metadatos
 - **SEO Título**: Dongfeng Tianjin KR Refrigerated Truck Specs " Export Guide (18t)
-- **Meta Descripción**: Reefer de Dongfeng Tianjin KR 6.8 m del mercado chino — Cummins B6.2 180 kW / 1000 N·m, Fast 8-speed, Dana axle, 18 t GVW, MIIT modelo código, y cómo el chasis difiere de la superestructura refrigerada.
+- **Meta Descripción**: Reefer de Dongfeng Tianjin KR 6.8 m del mercado chino — Cummins B6.2 180 kW 1000 N·m, Fast 8-speed, Dana axle, 18 t GVW, MIIT modelo código, y cómo el chasis difiere de la superestructura refrigerada.
 - ** URL agregada**: /vehicles/dongfeng-tianjin-kr/
 - ** H1 **: Dongfeng Tianjin KR Camión refrigerada: Chasis + Especies de superestructura para los compradores de exportación
 - **Primary Keyword**: dongfeng tianjin kr refrigerado espectros de camiones export
@@ -23,7 +23,7 @@ Un camión refrigerado no es una especificación de fábrica única. La **chassi
 | Tema | Tianjin KR 6.8 m reefer (referencia china) |
 |---|---|
 | Motor | Cummins Dongfeng ** B6.2NS6B245 **, inline- 6, 6.2 L diesel |
-| Potencia / par de par | **180 kW (245 PS) / 1000 N·m** |
+| Potencia par de par | **180 kW (245 PS) 1000 N·m** |
 | Caja de cambios | Fast (Fast Gear) ** 8JS105A/TA 8-speed ** |
 | Axila trasera | Dana ** 416 **, ratio ** 4.11 ** |
 | GVW | **18 t** |
@@ -39,11 +39,11 @@ Solicite la hoja de configuración ** del constructor de cuerpos** como document
 
 ## Versión en inglés: KR vs KR Plus
 - **Esta página: Tianjin KR, B6.2 245 PS, 6.8 m caja, 5000 mm carril. ################################################################################################################################################################################################################################################################
-- El **KR Plus** utiliza un motor ** D7.0NS6B330 (243 kW / 330 PS)**, una caja ** 7.88 m** y ** 5800 mm carriles** — un vehículo más grande. No mezclar dimensiones KR Plus ni potencia en una orden KR.
+- El **KR Plus** utiliza un motor ** D7.0NS6B330 (243 kW 330 PS)**, una caja ** 7.88 m** y ** 5800 mm carriles** — un vehículo más grande. No mezclar dimensiones KR Plus ni potencia en una orden KR.
 
 ## Verificación del comprador de ultramar antes del pago
 - Confirme el formulario de transmisión de ejes/chassis en el certificado de chasis DFH antes de especificar el ajuste de reefer; no se afirma deliberadamente de las cifras de referencia chinas capturadas.
-1. ** Código modelo MIIT** (DFH5180XLC / DFH5180XLCG4) en el certificado; GVW y estado de limitación de velocidad.
+1. ** Código modelo MIIT** (DFH5180XLC DFH5180XLCG4) en el certificado; GVW y estado de limitación de velocidad.
 2. **Chasis driveline** — B6.2 245 PS, Fast 8-speed, Dana 416/4.11 — coincida con el VIN; KR Plus se mantuvo separado.
 3. **Body constructor de chapa** para reefer unidad, zonas, aislamiento y dimensiones interiores.
 4. **Sulfuro de Diesel/tratamiento** compatibilidad y aprobación de tipo de destino por la guía de combustible de emisión.
@@ -71,18 +71,18 @@ No se publica precio de exportación. Consulta con **Destinación País · Canti
 - IMAGE_RIGHTS_STATUS: FAIL (no se acepta ningún activo con licencia; no se acepta un titular de posición o “retiene la imagen antigua”)
 - BLOCK_REASON: No se puede asegurar una imagen reutilizable: Wikimedia Commons/Flickr no son accesibles desde el entorno de investigación, las bibliotecas de stock requieren acceso a API/licencia autenticada, y una imagen de página web OEM NO es una subvención comercial de reutilización; no existe foto de propiedad de AutoBridge. Se quedó con la FAIL en lugar de afirmarse.
 - ALT por idioma:
-  - **EN**: AutoBridge export-buyer reference — Dongfeng Tianjin KR, petrol/diesel Chinese-market vehicle / refrigerated truck
-  - **FR**: Référence AutoBridge pour acheteurs export — Dongfeng Tianjin KR, véhicule thermique (marché chinois) / camion frigorifique
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Dongfeng Tianjin KR, Verbrenner (chinesischer Markt) / Kühl-Lkw
-  - **ES**: Referencia AutoBridge para compradores de exportación — Dongfeng Tianjin KR, vehículo de combustión (mercado chino) / camión frigorífico
-  - **PT**: Referência AutoBridge para compradores de exportação — Dongfeng Tianjin KR, veículo a combustão (mercado chinês) / caminhão refrigerado
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Dongfeng Tianjin KR, 中国市場仕様 内燃機関車 / 冷凍車
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Dongfeng Tianjin KR, 중국 시장 내연기관 차량 / 냉동·냉장 트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Dongfeng Tianjin KR, xe động cơ đốt trong (thị trường Trung Quốc) / xe tải lạnh
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Dongfeng Tianjin KR, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถบรรทุกห้องเย็น
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Dongfeng Tianjin KR, kendaraan mesin pembakaran (pasar Tiongkok) / truk berpendingin
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Dongfeng Tianjin KR, مركبة بمحرك احتراق (سوق الصين) / شاحنة مبردة
-  - **ZH**: AutoBridge 出口采购参考｜Dongfeng Tianjin KR, 中国市场燃油车 / 冷藏车
+  - **EN**: AutoBridge export-buyer reference — Dongfeng Tianjin KR, petrol/diesel Chinese-market vehicle refrigerated truck
+  - **FR**: Référence AutoBridge pour acheteurs export — Dongfeng Tianjin KR, véhicule thermique (marché chinois) camion frigorifique
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Dongfeng Tianjin KR, Verbrenner (chinesischer Markt) Kühl-Lkw
+  - **ES**: Referencia AutoBridge para compradores de exportación — Dongfeng Tianjin KR, vehículo de combustión (mercado chino) camión frigorífico
+  - **PT**: Referência AutoBridge para compradores de exportação — Dongfeng Tianjin KR, veículo a combustão (mercado chinês) caminhão refrigerado
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Dongfeng Tianjin KR, 中国市場仕様 内燃機関車 冷凍車
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Dongfeng Tianjin KR, 중국 시장 내연기관 차량 냉동·냉장 트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Dongfeng Tianjin KR, xe động cơ đốt trong (thị trường Trung Quốc) xe tải lạnh
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Dongfeng Tianjin KR, รถเครื่องยนต์สันดาป (ตลาดจีน) รถบรรทุกห้องเย็น
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Dongfeng Tianjin KR, kendaraan mesin pembakaran (pasar Tiongkok) truk berpendingin
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Dongfeng Tianjin KR, مركبة بمحرك احتراق (سوق الصين) شاحنة مبردة
+  - **ZH**: AutoBridge 出口采购参考｜Dongfeng Tianjin KR, 中国市场燃油车 冷藏车
 
 ## Fuentes " Verificación "
 | Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |

@@ -19,7 +19,7 @@ La MINIEV de Hongguang Macaron est une voiture électrique ** micro-urbaine**, p
 | Corps/sièges | 3-door, 4-seat hayon |
 | Moteur arrière | 20 kW (classe 170 km) |
 | Chimie des batteries | LFP; la catégorie 215 km porte environ 13.4 kWh (source unique) |
-| Classes CLTC | 170 km / 215 km |
+| Classes CLTC | 170 km 215 km |
 | Vitesse maximale | 100 km/h (source unique) |
 | Poids de la kérosène | 777 kg (source unique) |
 | Chargement | Charge principalement **faible (AC)**; toute charge rapide en courant continu sur la qualité 215 dépend de la configuration (source unique) — confirmer sur le VIN |
@@ -27,12 +27,12 @@ Les deux gros acheteurs confondent les grades **range (170 vs 215 km CLTC)** et 
 
 ## Logique de sélection de grade: 170 vs 215 pour un ordre de la flotte
 Les deux grades partagent le même corps de 3064 mm micro et la même disposition de quatre places, de sorte que le choix est une décision de cycle de service, et non une décision de taille:
-- ** 170 km grade / 20 kW ** — référence d'acquisition la plus basse (environ 41 RMB, 800 domestique, sensible au temps); adapté aux boucles fixes et courtes quotidiennes où le véhicule retourne à la base et à des charges lentes pendant la nuit (campus, communauté fermée, station balnéaire, location courte, dernier-mille avec un petit rayon).
-- ** 215 km grade / ~ 13.4 kWh LFP** — environ 46 RMB, 800 référence nationale; la capacité supplémentaire achète l'avance du cycle de service, et c'est la seule catégorie sur laquelle toute disposition de DC peut apparaître — et même là il est ** dépendant de la configuration et doit être confirmé par VIN**, non supposé.
+- ** 170 km grade 20 kW ** — référence d'acquisition la plus basse (environ 41 RMB, 800 domestique, sensible au temps); adapté aux boucles fixes et courtes quotidiennes où le véhicule retourne à la base et à des charges lentes pendant la nuit (campus, communauté fermée, station balnéaire, location courte, dernier-mille avec un petit rayon).
+- ** 215 km grade ~ 13.4 kWh LFP** — environ 46 RMB, 800 référence nationale; la capacité supplémentaire achète l'avance du cycle de service, et c'est la seule catégorie sur laquelle toute disposition de DC peut apparaître — et même là il est ** dépendant de la configuration et doit être confirmé par VIN**, non supposé.
 Le piège d'approvisionnement commande la catégorie 170 sur le prix d'un itinéraire qui nécessite des suppléments de mi-journée, car une micro-voiture à recharge lente ne peut pas se remettre pendant un arrêt court. Décidez d'abord la boucle quotidienne, puis choisissez la note; ne l'inversez pas.
 
 ## Dimensions et réalité de l'emballage
-- Longueur/largeur/la hauteur: ** 3064 / 1493 / 1629 mm **
+- Longueur/largeur/la hauteur: ** 3064 1493 1629 mm **
 - Empattement: ** 2010 mm **
 À un peu plus de 3 m de long, le Macaron est l'un des plus petits véhicules électriques à quatre places du marché chinois. Quatre sièges sont présents, mais l ' espace arrière et le volume des bagages sont à l ' échelle des microvoitures. < < 4-seat > > signifie une utilisation urbaine occasionnelle à quatre niveaux, et non un confort à quatre adultes. La petite empreinte est aussi l'avantage de chargement: plus d'unités par conteneur qu'un wagon conventionnel, mais le nombre exact dépend toujours d'un plan de chargement **mesuré et du rangement approuvé du transporteur** (voir le guide de chargement du conteneur) — ne pas citer un nombre fixe de la seule longueur.
 
@@ -45,13 +45,13 @@ Le piège d'approvisionnement commande la catégorie 170 sur le prix d'un itiné
 Les lignes micro-EV changent fréquemment de grade/chargement, alors verrouillez ces champs contre la feuille de construction du VIN spécifique ****, et non le nom de la brochure:
 1. **Niveau de rang (170/215) et batterie correspondante kWh** — le nom "Macaron" seul ne précise pas qui.
 2. **Disposition de charge** — Charges à courant alternatif seulement ou tout courant continu sur la catégorie 215; plus la norme de raccordement physique pour la destination.
-3. ** Puissance motrice et vitesse maximale** pour la qualité (de référence 20 kW / 100 km/h).
+3. ** Puissance motrice et vitesse maximale** pour la qualité (de référence 20 kW 100 km/h).
 4. ** Côté direction et langage cluster/infodivertissement** — ne supposez pas le RHD ou une interface utilisateur locale sur une construction en Chine.
 5. **Homologation/contenu de sécurité** pour la destination — un micro-EV doit encore clarifier les règles locales d'accès au marché (voir le guide d'approbation du CdC/type).
 6. ** Documents d'expédition du VE** (UN38.3/MSDS plus sous IMDG Amendement 42-24 (obligatoire de 2026-01-01) Un véhicule alimenté au lithium-ion-batterie est classé UN3556, et non le générique UN3171 existant; appliquer la documentation/détails de la COS sur le feuillet d'information actuel sur le transport du VE et sur le transporteur (voir le guide de conformité du VE pour les océans) malgré la petite batterie.
 
 ## Demande de contingentation à l'exportation actuelle
-Aucun prix à l'exportation statique n'est publié. La RMB 41 environ, 800 / 46, 800 Les chiffres chinois sont **des références nationales, sensibles au temps — et non FOB/CIF**. Demande avec **Pays de destination · Quantité · Classe de l'étendue (170/215) · LHD/RHD · Disposition de recharge · Port de destination · Incoterm**.
+Aucun prix à l'exportation statique n'est publié. La RMB 41 environ, 800 46,800 Les chiffres chinois sont **des références nationales, sensibles au temps — et non FOB/CIF**. Demande avec **Pays de destination · Quantité · Classe de l'étendue (170/215) · LHD/RHD · Disposition de recharge · Port de destination · Incoterm**.
 
 ## Foire aux questions
 ** Jusqu'où va le Macaron MINIEV sur une charge?** 170 km ou 215 km CLTC selon le grade; ce sont des chiffres de la ville de Chine, pas de la gamme de routes.
@@ -90,10 +90,10 @@ Aucun prix à l'exportation statique n'est publié. La RMB 41 environ, 800 / 46,
 ## Sources et vérification
 | Titre de la source | Organisation | Marché | URL | Vérification | Confiance | Faits corroborés |
 |---|---|---|---|---|---|---|
-| Macaron ajoute 170 km / 20 kW | Auto-home | NC | https://chejiahao.m.autohome.com.cn/info/13878133 | 2026-09-03 | _CHECTURE | 20 kW, 170 km, prix intérieur (TIME_SENSITIVE) |
+| Macaron ajoute 170 km 20 kW | Auto-home | NC | https://chejiahao.m.autohome.com.cn/info/13878133 | 2026-09-03 | _CHECTURE | 20 kW, 170 km, prix intérieur (TIME_SENSITIVE) |
 | MINIEV 2025 paramètres/prix | Base de données Dongchedi | NC | https://m.dongchedi.com/auto/params-carIds-96348-79759-72934-72935-72308-72478-72466-72479-72467-72480-72468-72481-79929-79930-79931-79932-72476-72477-72475-72474-76902-76901-77162-77161-59192 | 2026-09-03 | _CHECTURE | Année de modèle, grades de gamme, MSRP domestique (TIME_SENSITIVE) |
 | 2024 Macaron 215 (dimensions/kerb) | Base de données NetEase Auto | NC | https://product.auto.163.com/product/000CQEGG.html | 2026-09-03 | SOURCE UNIQUE | 3064/1493/1629, 2010 mm, 777 kg (média DB, non OEM) |
-| Batterie Macaron / à recharge lente | Encyclopédie PCauto | NC | http://m.pcauto.com.cn/baike/941480/1848425/ | 2026-09-03 | SOURCE UNIQUE | - - 13.4 kWh, méthode de charge |
+| Batterie Macaron à recharge lente | Encyclopédie PCauto | NC | http://m.pcauto.com.cn/baike/941480/1848425/ | 2026-09-03 | SOURCE UNIQUE | - - 13.4 kWh, méthode de charge |
 | Catalogue des constructeurs et des produits de véhicules automobiles routiers — système de requête publique | MIIT, Ministère chinois de l'industrie et des technologies de l'information | NC | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VÉRIFIER | Vérifier l'entrée du catalogue du fabricant, du modèle approuvé et de l'homologation (公告) avant de commander ou d'exporter |
 | BG 16735-2019 Véhicules routiers — Prescriptions relatives au numéro d'identification du véhicule (VIN) | Plateforme en texte intégral des normes nationales SAMR | NC | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VÉRIFIER | Les champs de données de la structure et de la plaque nominative du NIV utilisés dans la vérification du NIV/plaque nominative de l'acheteur |
 | GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Administration d'État chargée de la réglementation du marché | NC | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VÉRIFIER | Conditions techniques de référence en Chine en matière de sécurité des véhicules et calendrier de révision/révision |
@@ -103,7 +103,7 @@ Aucun prix à l'exportation statique n'est publié. La RMB 41 environ, 800 / 46,
 *Note de confiance: aucune fiche de spécifications primaires Wuling/SAIC-GM-Wuling n'a été capturée; les bases de données des médias ne sont pas VÉRIFIÉES. Les distances/prix sont recoupés, tandis que le poids du kerb, la vitesse maximale et le kWh sont des sources uniques. CLTC est seulement le cycle chinois. La disposition relative à la charge doit être confirmée sur le code VIN exact. *
 
 ## Révision de la rédaction
-- **Auteur / réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)
+- **Auteur réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)
 - **Dernière révision**: 2026-09-05
 - **Marché de référence**: Chine, 3rd-gen Macaron MY2024 (Marché de référence chinois)
 - ** Méthode de vérification**: vérification croisée multibases de données; identification des éléments à source unique; valeur ajoutée des achats uniquement sur la base de faits déjà saisis, pas de nouveaux chiffres externes

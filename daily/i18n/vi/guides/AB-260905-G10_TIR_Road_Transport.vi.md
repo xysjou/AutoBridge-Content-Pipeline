@@ -8,7 +8,7 @@
 - **Secondary Search Words**: TIR carnet; Trung Quốc Á Châu xe tải; giấy chứng nhận xe hơi; hải quan; giao thông đường phố
 - ** URL đã gợi ý**: /guides/tir-road-port-china- cental-asia/
 - **Tìm kiếm ý định**: 对中亚/欧洲卡航出口，如何适用TIR公约、办理TIR证与海关加封车辆批准证明、2026新规变化
-- **I nội bộ Link gợi ý*: //guides/tir-port-china- cental-asia/, /guides/vehicle-hs-hise-hise /, /guides/childa-export-decation-decle-windo/, / /guides/chiles-decra-decle-windo/
+- **I nội bộ Link gợi ý*: cental-asia/, /guides/vehicle-hs-hise-hise /guides/childa-export-decation-decle-windo/, /guides/chiles-decra-decle-windo/
 - **Schema Scope**: Điều khoản (không có sản phẩm/ sản phẩm/ xuất/Rover)
 
 ## Điều mà TIR thay đổi cho một người xuất khẩu trên đất liền
@@ -48,7 +48,7 @@ Nó có che chở hàng hải không? Nó là một đường (và hệ thống 
 | 海关总署公告2026年第2号（关于优化落实TIR公约有关事项） | 中华人民共和国海关总署 | CN | T1 | VEII | http://www.customs.gov.cn/customs/2026-01/05/article_2026010515561027770.html | 车辆批准证明书, TIR 证交验, 适用范围扩展 |
 | 海关总署公告2026年第2号（PDF原件） | 中华人民共和国海关总署 | CN | T1 | VEII | http://www.customs.gov.cn/customs/attachDir/2026/01/%E6%B5%B7%E5%85%B3%E6%80%BB%E7%BD%B2%E5%85%B3%E4%BA%8E%E4%BC%98%E5%8C%96%E8%90%BD%E5%AE%9ETIR%E5%85%AC%E7%BA%A6%E6%9C%89%E5%85%B3%E4%BA%8B%E9%A1%B9%E7%9A%84%E5%85%AC%E5%91%8A%20(1 | 公告全文一致性核验 |
 | 海关总署公告2026年第2号（国务院公报） | 中国政府网 | CN | T1 | VEII | https://www.gov.cn/gongbao/2026/issue_12666/202604/content_7065109.html | 公报核验 |
-| TIR 国际公路运输及服务指南 (政策解读) | 武汉市 (促进跨境贸易便利化), 搜狐转载) | CN | T3 | ĐÃ_ ĐÃ | https://m.sohu.com/a/1054225552_121106908/ | 中国 2016 加入 / 2019 全国实施 / 2026 扩展跨境电商保税 |
+| TIR 国际公路运输及服务指南 (政策解读) | 武汉市 (促进跨境贸易便利化), 搜狐转载) | CN | T3 | ĐÃ_ ĐÃ | https://m.sohu.com/a/1054225552_121106908/ | 中国 2016 加入 2019 全国实施 2026 扩展跨境电商保税 |
 | Hội nghị TIR, 1975 — Bản chính thức của Bộ sưu tập Hiệp ước Liên Hiệp Quốc | Bộ sưu tập Hiệp ước Liên Hiệp Quốc | I - MI | T1/T2 | VEII | https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XI-A-16&chapter=11 | Văn bản hợp pháp chính thức của Công ước Hải quan về việc vận chuyển hàng hóa quốc tế dưới bìa TIR Carnets |
 | IRU — Hệ thống mạng TIR và bảo đảm dây chuyền | Liên minh lưu thông quốc tế (T.U) | I - MI | T1/T2 | VEII | https://www.iru.org/ | TIR carnet phát hành liên minh; giải thích các yêu cầu bảo đảm dây chuyền và điều khiển điều khiển |
 ## Xem lại tập tin

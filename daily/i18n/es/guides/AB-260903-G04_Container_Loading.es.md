@@ -14,9 +14,9 @@
 "¿Cuántos coches en un 40HQ?" no tiene respuesta universal — es una función de ** dimensiones de vehículos, espejo de desplazamiento, sistema de rack y el plan de estiba aprobado por el transportista**. Esta guía da bandas realistas y el método; deliberadamente no promete un recuento fijo. Confirme cada envío contra un plan de carga medido real.
 
 ## Bandas de carga realistas (de la práctica documentada)
-- **No hay rack, convencional:** un 40HQ normalmente lleva **dos SUVs de media/grande** (los ejemplos citados son ~ 4.9 m clase como ID. 6 / Rango-Rover / Prado / Li L7-scale vehículos) (esquema de reenvío de fuentes individuales).
+- **No hay rack, convencional:** un 40HQ normalmente lleva **dos SUVs de media/grande** (los ejemplos citados son ~ 4.9 m clase como ID. 6 Rango-Rover Prado Li L7-scale vehículos) (esquema de reenvío de fuentes individuales).
 - **Con un estante de doble cubierta desplegable: ** un **"upper 2 + 2 " = cuatro SUVs**" se reportó en un juicio "Ro-to-container" de Yantai-port (fuente individual).
-- **Sedans / China-Europe rail:**** Tres vehículos por caja** aparece en China-Europe rail/sedan practice reporting (fuente único).
+- **Sedans China-Europe rail:**** Tres vehículos por caja** aparece en China-Europe rail/sedan practice reporting (fuente único).
 Estos son puntos de referencia, no derechos: una camioneta de alta altura, una camioneta o un coche ejecutivo largo cambia el conteo, y la carga de rack necesita equipo certificado y un plan aprobado.
 
 ## Lashing: Fix A través de los Tiros, no el Cuerpo
@@ -28,7 +28,7 @@ El objetivo es que bajo el rodaje del buque/pitching el coche no puede cambiar, 
 
 ## Carga Secuencia (donde el trabajo de rack va mal)
 Para cargas de rack/doble-deck, la práctica portuaria documentada es:
-1. **Carguen los vehículos atornillados primero / en el orden planeado**, utilizando un elevador de horquilla para ayudar a la presión y la reposición;
+1. **Carguen los vehículos atornillados primero en el orden planeado**, utilizando un elevador de horquilla para ayudar a la presión y la reposición;
 2. Un recipiente **doble (ambos extremos) permite trabajar de ambos extremos** simultáneamente, acortando la morada;
 3. Asegure cada unidad progresivamente — nunca deje un vehículo sin garantía mientras maneuving el siguiente.
 Los errores de secuencia (cargando el coche inferior primero y bloqueando el acceso de rack) son el retraso más evitable en las cargas de cuatro coches.
@@ -37,7 +37,7 @@ Los errores de secuencia (cargando el coche inferior primero y bloqueando el acc
 Adaptado del método documentado de carga de contenedores:
 1. ** Lista de embalaje Goods vs** — VINs, cantidades y concordancia con las condiciones; PSI ya ha finalizado (ver guía PSI).
 2. ** Orden de carga**: distribución de peso y puestos de rack por plan.
-3. **Centro de gravedad / despacho / altura** — no hay contacto con techo, paredes o puertas; incluso peso lateral a lado.
+3. **Centro de gravedad despacho altura** — no hay contacto con techo, paredes o puertas; incluso peso lateral a lado.
 4. **Aseguramiento** - tirantes, chocks, madera, antideslizante todo en su lugar y tensado; nada en pintura/suspensión.
 5. **Despejado de la puerta** — suficiente margen para cerrar y sellar; grabar fotos del tacto antes de sellar.
 
@@ -89,18 +89,18 @@ Un EV/hibrid dentro de un contenedor todavía lleva una batería de tracción: s
 | Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |
 |---|---|---|---|---|---|---|
 | Vista lateral del vehículo (2/box, 8 tirantes) | Material de carga para uso | Global | https://m.11467.com/product/d42473652.htm | 2026-09-03 | SINGLE_SOURCE | 2-SUV sin barra; ~ 8 tirantes; método de rueda (una fuente) |
-| Puerto Yantai primero 4-SUV "Ro-to-container" prueba | Qilu Evening News / Toutiao | CN | http://m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | SINGLE_SOURCE | Upper2+lower2 rack; secuencia de carga (un juicio reportado) |
-| Carga de coche de ferrocarril China-Europa (3/box) | Ferrocarril de Harbin / Toutiao | CN | http://m.toutiao.com/group/6748371578787987979/ | 2026-09-03 | SINGLE_SOURCE | Referencia de tres por caja (una fuente) |
+| Puerto Yantai primero 4-SUV "Ro-to-container" prueba | Qilu Evening News Toutiao | CN | http://m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | SINGLE_SOURCE | Upper2+lower2 rack; secuencia de carga (un juicio reportado) |
+| Carga de coche de ferrocarril China-Europa (3/box) | Ferrocarril de Harbin Toutiao | CN | http://m.toutiao.com/group/6748371578787987979/ | 2026-09-03 | SINGLE_SOURCE | Referencia de tres por caja (una fuente) |
 | Exportar contenedor método de carga de cinco pasos | NetEase | Global | https://www.163.com/dy/article/L42056IP05568MR2.html | 2026-09-03 | SINGLE_SOURCE | Control de la propiedad de cinco puntos (una fuente) |
-* Nota de la encuesta (R4): cada figura de carga viene de una fuente única y distinta (todo SINGLE_SOURCE) — ningún hecho es corroborado por dos fuentes independientes, por lo que ninguna se etiqueta CROSS_ - ¡Crepa! Los conteos son referencias de práctica documentada, no estiba garantizada; el número exacto siempre depende de las dimensiones medidas y un plan de carga aprobado, y las reglas de porteador/terminal deben ser confirmadas en la reserva. *
+* Nota de la encuesta: cada figura de carga viene de una fuente única y distinta (todo SINGLE_SOURCE) — ningún hecho es corroborado por dos fuentes independientes, por lo que ninguna se etiqueta CROSS_ - ¡Crepa! Los conteos son referencias de práctica documentada, no estiba garantizada; el número exacto siempre depende de las dimensiones medidas y un plan de carga aprobado, y las reglas de porteador/terminal deben ser confirmadas en la reserva. *
 
 | Código de prácticas de la OMI/OIT/CEPE para el embalaje de las unidades de transporte de carga (Código de la UAT) | Organización Marítima Internacional (OMI) | INT'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | VERIFIED | Distribución de carga, enjuague y garantía de principios para las UAT, incluidos los contenedores |
-| Containers / referencia de equipos | World Shipping Council | INT'L | https://www.worldshipping.org/ | 2026-09-05 | VERIFIED | Contador de carga estándar y contexto de liquidación de líneas para la planificación de carga |
+| Containers referencia de equipos | World Shipping Council | INT'L | https://www.worldshipping.org/ | 2026-09-05 | VERIFIED | Contador de carga estándar y contexto de liquidación de líneas para la planificación de carga |
 
 ## Revisión editorial
 - **Autor/examen**: [Equipo Editorial Exportador AutoBridge](/autores/) · método por nuestro [Política editorial](/editorial-policía/)
 - **Documento revisado*: 2026-09-05
-- ** Mercado de referencias / alcance**: Operación logística global (método, no una promesa de cuenta fija)
+- ** Mercado de referencias alcance**: Operación logística global (método, no una promesa de cuenta fija)
 - **Método de verificación**: orientación operacional, no se afirma un recuento universal
 - **Editorial standard**: Investigación y escritura de las fuentes mencionadas anteriormente (indagación de la tinta; no se reclama la conducción directa, desgarro o importación). La confianza de la fuente se muestra por fila; cualquier punto que no podamos confirmar de forma independiente se presenta como un elemento de verificación en lugar de afirmarse como hecho.
 #AutoBridge #ContainerLoading #40HQ #VehicleLashing #CTUCode

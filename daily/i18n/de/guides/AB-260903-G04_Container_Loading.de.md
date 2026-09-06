@@ -14,21 +14,21 @@
 "Wie viele Autos in einem 40HQ?" hat keine universelle Antwort - es ist eine Funktion von Fahrzeugabmessungen, Spiegelfaltung, Regalsystem und dem vom Träger genehmigten Stauplan **. Dieser Leitfaden gibt realistische Bänder und die Methode; es verspricht absichtlich keine feste Zählung. Bestätigen Sie jede Sendung mit einem tatsächlichen gemessenen Ladeplan.
 
 ## Realistische Ladebänder (aus dokumentierter Praxis)
-- **Kein Rack, konventionell:** Ein 40HQ trägt typischerweise **zwei mittlere / große SUVs ** (zitierte Beispiele sind ~ 4.9 m Klasse wie ID). 6 / Range-Rover / Prado / Li L7-scale Fahrzeuge) (Single-Source-Weiterleitungsdiagramm).
+- **Kein Rack, konventionell:** Ein 40HQ trägt typischerweise **zwei mittlere große SUVs ** (zitierte Beispiele sind ~ 4.9 m Klasse wie ID). 6 Range-Rover Prado Li L7-scale Fahrzeuge) (Single-Source-Weiterleitungsdiagramm).
 - **Mit einem Schiebeauszug Doppeldeck-Rack: ** ein **"oberes 2 + unteres 2 " = vier SUVs ** Anordnung wurde in einem Yantai-Port "RoRo-to-Container" Versuch (Single-Source) gemeldet.
-- **Limousinen / China-Europa-Bahn:****drei Fahrzeuge pro Box** erscheint in China-Europa-Bahn / Limousine Praxis Berichterstattung (Single-Source).
+- **Limousinen China-Europa-Bahn:****drei Fahrzeuge pro Box** erscheint in China-Europa-Bahn Limousine Praxis Berichterstattung (Single-Source).
 Dies sind Bezugspunkte, keine Ansprüche: Ein Hochdachwagen, ein Pickup oder ein langes Executive-Auto ändert die Anzahl, und die Regalladung benötigt zertifizierte Ausrüstung und einen genehmigten Plan.
 
 ## Verschleiern: Fix Durch die Reifen, nicht durch den Körper
 Dokumentierte Vorgehensweise bei der Sicherung im Posteingang:
 - **Etwa acht Gurtbänder pro Fahrzeug**, überwiegend ein **Rad-/Reifen-Abbindeverfahren** mit mehrdirektionalen (fünfdirektionalen) Lastpfaden.
-- Straps wirken auf die ** Reifen / Radpunkte **, nicht auf Karosserieteile, Farbe oder Aufhängungskomponenten - Verzurren an der Federung oder am Fahrgestell an der falschen Stelle kann das Auto beschädigen und sich immer noch unter Seebewegung bewegen.
-- Verwenden Sie ** Antirutschmatten / Stäbe und Holzsperren **, stellen Sie die richtige Gurtspannung ein und schützen Sie jeden Kontaktpunkt.
+- Straps wirken auf die ** Reifen Radpunkte **, nicht auf Karosserieteile, Farbe oder Aufhängungskomponenten - Verzurren an der Federung oder am Fahrgestell an der falschen Stelle kann das Auto beschädigen und sich immer noch unter Seebewegung bewegen.
+- Verwenden Sie ** Antirutschmatten Stäbe und Holzsperren **, stellen Sie die richtige Gurtspannung ein und schützen Sie jeden Kontaktpunkt.
 Das Ziel ist, dass sich das Fahrzeug unter dem rollenden/aufspringenden Schiff nicht bewegen, drehen oder die Kastenwand oder das zweite Fahrzeug berühren kann.
 
 ## Ladesequenz (wo Rack-Arbeit schief geht)
 Für Rack-/Doppeldeck-Ladungen ist die dokumentierte Hafenpraxis:
-1. **Laden Sie die gerackten Fahrzeuge zuerst oben / in der geplanten Reihenfolge **, mit einem Gabelstapler, um Push-and-Reposition zu unterstützen;
+1. **Laden Sie die gerackten Fahrzeuge zuerst oben in der geplanten Reihenfolge **, mit einem Gabelstapler, um Push-and-Reposition zu unterstützen;
 2. Ein **doppeltüriger (beide Enden) Container ermöglicht das gleichzeitige Arbeiten von beiden Enden** und verkürzt das Verweilen;
 3. Sichern Sie jede Einheit schrittweise - lassen Sie ein Fahrzeug niemals ungesichert, während Sie das nächste manövrieren.
 Sequenzfehler (das Laden des unteren Autos zuerst und das Blockieren des Regalzugangs) sind die vermeidbarste Verzögerung bei Lasten mit vier Autos.
@@ -37,12 +37,12 @@ Sequenzfehler (das Laden des unteren Autos zuerst und das Blockieren des Regalzu
 Angepasst an die dokumentierte Containerlademethode:
 1. **Ware vs. Packliste ** - VINs, Mengen und Zustand Übereinstimmung; PSI bereits abgeschlossen (siehe PSI-Guide).
 2. **Ladeauftrag** — Gewichtsverteilung und Rackpositionen pro Plan.
-3. **Schwerpunkt / Abstand / Höhe ** - kein Kontakt mit Dach, Wänden oder Türen; sogar Gewicht von Seite zu Seite.
-4. **Sicherung ** — Riemen, Teile, Holz, Antirutsch alle an Ort und Stelle und gespannt; nichts auf Farbe / Suspension.
+3. **Schwerpunkt Abstand Höhe ** - kein Kontakt mit Dach, Wänden oder Türen; sogar Gewicht von Seite zu Seite.
+4. **Sicherung ** — Riemen, Teile, Holz, Antirutsch alle an Ort und Stelle und gespannt; nichts auf Farbe Suspension.
 5. ** Türfreiheit ** - genug Rand zum Schließen und Versiegeln; Aufnahmen des Staus vor dem Versiegeln.
 
 ## EV-Spezifische Anmerkung
-Ein EV/Hybrid in einem Container trägt immer noch eine Traktionsbatterie: Folgen Sie der Gefahrgutdokumentation des Ozeans und jeder SOC/Ladezustandsanweisung des Trägers. gemäß IMDG-Änderung 42-24 (obligatorisch von 2026-01-01) wird ein Lithium-Ionen-Batterie-betriebenes Fahrzeug als UN3556 eingestuft, nicht als das ältere generische UN3171; wenden Sie Dokumentation / SOC-Details gemäß dem aktuellen EV-Versand-Fact Sheet und dem Carrier an (siehe den EV-Ocean-Compliance-Leitfaden) Trennen / Vorbereiten der 12 V-System pro Träger und nicht davon ausgehen, dass eine Verbrennerstauung SOP deckt ein EV.
+Ein EV/Hybrid in einem Container trägt immer noch eine Traktionsbatterie: Folgen Sie der Gefahrgutdokumentation des Ozeans und jeder SOC/Ladezustandsanweisung des Trägers. gemäß IMDG-Änderung 42-24 (obligatorisch von 2026-01-01) wird ein Lithium-Ionen-Batterie-betriebenes Fahrzeug als UN3556 eingestuft, nicht als das ältere generische UN3171; wenden Sie Dokumentation SOC-Details gemäß dem aktuellen EV-Versand-Fact Sheet und dem Carrier an (siehe den EV-Ocean-Compliance-Leitfaden) Trennen Vorbereiten der 12 V-System pro Träger und nicht davon ausgehen, dass eine Verbrennerstauung SOP deckt ein EV.
 
 ## Was dieser Leitfaden empfiehlt, sperren Sie vor der Buchung
 - Ein **gemessener Ladeplan** für die genauen Modelle (Länge/Breite/Höhe, gefaltete Spiegel), kein generisches "Zwei oder Vier" Versprechen.
@@ -53,7 +53,7 @@ Ein EV/Hybrid in einem Container trägt immer noch eine Traktionsbatterie: Folge
 - ** Hafen, Route, Transportunternehmen und Terminalabnahme schriftlich:** Name des tatsächlichen **Ladehafens und Terminals** (die dokumentierten Versuche oben sind China-Hafenreferenzen wie Yantai, kein universeller Standard), des ** Ozeantransportunternehmens und seines Containerbetreibers** und ob dieses Terminal **Doppeldeck-Autogestelle und In-Rack-Verzurrungen** auf dem gebuchten Segeln akzeptiert. Akzeptanzbedingungen und jede Änderung des effektiven Datums unterscheiden sich je nach Terminal und Spediteur, also notieren Sie das **Datum, an dem jede Bedingung bestätigt wurde ** gegen die Sicherungsprinzipien des CTU-Codes, anstatt anzunehmen, dass die Methode eines Lagers überall akzeptiert wird.
 
 ## Häufig gestellte Fragen
-**Kann ein 40HQ immer vier SUVs nehmen? ** Nein - vier benötigen ein zertifiziertes ausziehbares Doppelgestell und einen genehmigten Plan; Die konventionelle No-Rack-Beladung von mittleren / großen SUVs ist typischerweise zwei.
+**Kann ein 40HQ immer vier SUVs nehmen? ** Nein - vier benötigen ein zertifiziertes ausziehbares Doppelgestell und einen genehmigten Plan; Die konventionelle No-Rack-Beladung von mittleren großen SUVs ist typischerweise zwei.
 **Wo sollten Gurte anbringen?** Zu den Reifen/Rad-Abstützpunkten — etwa acht pro Fahrzeug — nicht zu Aufbau oder Aufhängung.
 **Wie unterscheiden sich Limousinen?** Ledane und China-Europa Schienenlasten erreichen gewöhnlich drei pro Box; Dimensionen entscheiden noch.
 **Warum das Rack Top-First laden?** Die oberen Fahrzeuge müssen vor den unteren Blockregalzugängen positioniert werden; die Staplerhilfe positioniert sie sicher.
@@ -89,18 +89,18 @@ Ein EV/Hybrid in einem Container trägt immer noch eine Traktionsbatterie: Folge
 | Quelle: | Organisation | Markt | URL | Geprüft | Vertrauen | Belegte Fakten |
 |---|---|---|---|---|---|---|
 | Fahrzeugstauung (2/box, 8 Gurte) | Gütertransportgut | Global | https://m.11467.com/product/d42473652.htm | 2026-09-03 | SINGLE_SOURCEN | 2-SUV No-Rack; ~ 8 Riemen; Radmethode (eine Quelle) |
-| Yantai-Hafen erste 4-SUV "RoRo-to-Container"-Test | Qilu Abend News / Toutiao | CN | http://m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | SINGLE_SOURCEN | Upper2+lower2 Rack; Ladesequenz (eine berichtete Studie) |
-| China-Europa-Bahnwagenverladung (3/box) | Harbin Railway / Toutiao | CN | http://m.toutiao.com/group/6748371578787987979/ | 2026-09-03 | SINGLE_SOURCEN | Drei-pro-Box-Limousine / Schiene Referenz (eine Quelle) |
+| Yantai-Hafen erste 4-SUV "RoRo-to-Container"-Test | Qilu Abend News Toutiao | CN | http://m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | SINGLE_SOURCEN | Upper2+lower2 Rack; Ladesequenz (eine berichtete Studie) |
+| China-Europa-Bahnwagenverladung (3/box) | Harbin Railway Toutiao | CN | http://m.toutiao.com/group/6748371578787987979/ | 2026-09-03 | SINGLE_SOURCEN | Drei-pro-Box-Limousine Schiene Referenz (eine Quelle) |
 | Fünfstufiges Beladeverfahren für Exportbehälter | NetEase | Global | https://www.163.com/dy/article/L42056IP05568MR2.html | 2026-09-03 | SINGLE_SOURCEN | Fünf-Punkt-Staukontrolle (eine Quelle) |
-*Scope note (R4): Jede Ladefigur stammt aus einer einzigen, eindeutigen Quelle (alle SINGLE_SOURCE) – keine Tatsache wird durch zwei unabhängige Quellen bestätigt, so dass keine als CROSS_ gekennzeichnet ist. KONTROLLE. Zählungen sind dokumentierte Praxisreferenzen, keine garantierte Stauung; Die genaue Anzahl hängt immer von den gemessenen Abmessungen und einem genehmigten Ladeplan ab, und die Regeln des Spediteurs / Terminals müssen bei der Buchung bestätigt werden. *
+*Scope note: Jede Ladefigur stammt aus einer einzigen, eindeutigen Quelle (alle SINGLE_SOURCE) – keine Tatsache wird durch zwei unabhängige Quellen bestätigt, so dass keine als CROSS_ gekennzeichnet ist. KONTROLLE. Zählungen sind dokumentierte Praxisreferenzen, keine garantierte Stauung; Die genaue Anzahl hängt immer von den gemessenen Abmessungen und einem genehmigten Ladeplan ab, und die Regeln des Spediteurs Terminals müssen bei der Buchung bestätigt werden. *
 
 | IMO/ILO/UNECE-Verhaltenskodex für die Verpackung von Frachttransporteinheiten (CTU-Code) | Internationale Seeschifffahrtsorganisation (IMO) | INT'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | ÜBERPRÜFUNG | Grundsätze für die Verteilung, die Verzurrung und die Sicherung von Ladungen für CTUs, einschließlich Containern |
 | Container/Ausrüstungsreferenz | World Shipping Council | INT'L | https://www.worldshipping.org/ | 2026-09-05 | ÜBERPRÜFUNG | Standard-Frachtcontainer- und -leinausrüstungskontext für die Ladeplanung |
 
 ## Editorial Review
-- **Autor / Rezensent**: [AutoBridge Export Editorial Team](/Autoren/) · Methode nach unserer [Editorial Policy](/editorial-policy/]
+- **Autor Rezensent**: [AutoBridge Export Editorial Team](/Autoren/) · Methode nach unserer [Editorial Policy](/editorial-policy/]
 - **Zuletzt überprüft**: 2026-09-05
-- **Referenzmarkt / Umfang**: Globaler Logistikbetrieb (Methode, kein Festzinsversprechen)
+- **Referenzmarkt Umfang**: Globaler Logistikbetrieb (Methode, kein Festzinsversprechen)
 - **Verifizierungsmethode**: Betriebsführung, keine universelle Zählung geltend gemacht
 - **Editorialstandard**: Recherchiert und geschrieben aus den oben aufgeführten Quellen (Desk-Recherche; kein Fahren aus erster Hand, Teardown oder Import wird beansprucht). Das Vertrauen in die Quelle wird pro Zeile angezeigt; jeder Punkt, den wir nicht unabhängig bestätigen können, wird als Verifizierungselement dargestellt und nicht als Tatsache behauptet.
 #AutoBridge #ContainerLoading #40HQ #VehicleLashing #CTUCode

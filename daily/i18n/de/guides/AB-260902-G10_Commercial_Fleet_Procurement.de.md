@@ -7,7 +7,7 @@
 - **Hauptschlüsselwort**: Massengutbeschaffung von Nutzfahrzeugen in China Spezifikation Exportlizenz
 - **Secondary Search Terms**: China Dump Truck 6x4 8x4 Export, 2026 Fahrzeug Exportlizenz MOFCOM, reine EV Passagier Exportlizenz HS 8703801090, verstärkter Achsrahmen, Flottentender Annahme, Nutzfahrzeug Exportdokumente
 - **Interne Linkvorschläge**: /Fahrzeuge/Shacman- x3000-dump-truck/; /Fahrzeuge/Sinotruk-howo- t7h-tractor/; /Fahrzeuge/Foton-aumark-refrigerated-truck/; /guides/verify-china-car-export-supplier/
-- **Bildvorschläge**: Duty-Cycle-to-Spec-Arbeitsblatt; verstärkter Rahmen / Achse; Tenderannahmekontrolle; Exportdokumentenkette
+- **Bildvorschläge**: Duty-Cycle-to-Spec-Arbeitsblatt; verstärkter Rahmen Achse; Tenderannahmekontrolle; Exportdokumentenkette
 - **ALT Vorschläge**: "Lkw-Flottendienstzyklus-Spezifikations-Arbeitsblatt"; "Doppelschichtrahmen und verstärkte Antriebsachse"; "Flottentenderabnahme im Werk"
 ## Eine Flotte ist auf Bestellung ausgelegt, nicht aus einem Regal gegriffen
 Ein 6 × 4 Mining Kipper, ein 8 × 4 On-Highway-Dump, ein Langstreckentraktor und ein Kühl- oder Tanker erfordern unterschiedliche Antriebsstränge, Rahmen, Achsen und Karosserieauswahl, und Großaufträge müssen zusätzlich Chinas **aktuelles (2026) Exportlizenzregime, eine enge Dokumentenkette und Tender-Akzeptanz erfüllen. Dieser Leitfaden gibt Flottenkäufern, Auftragnehmern und CV-Importeuren einen wiederholbaren Weg. Es zitiert keine Rabatte, MOQs oder Vorlaufzeiten - diese werden pro Projekt ausgehandelt und es gibt keine maßgeblichen Persönlichkeiten des öffentlichen Lebens.
@@ -15,7 +15,7 @@ Ein 6 × 4 Mining Kipper, ein 8 × 4 On-Highway-Dump, ein Langstreckentraktor un
 Bitte geben Sie die Betriebswirklichkeit (nach den Leitlinien für die Beschaffung von Nutzfahrzeugen) an:
 - **Anwendung/Konfiguration**: 6 × 4 Steinbruchstrecke vs. 8 × 4 Autobahnkippe vs. 4 × 2 Traktor; Stadtverkehr vs. Langstrecken.
 - **Payload/GVW-Ziel**, Gelände (Gradient, unbefestigte Straßen), Jahreskilometerzahl, Klima.
-- **Kraftstoff**: Diesel vs LNG / CNG, gewählt nach lokalen Kraftstoffverfügbarkeit und Emissionsregeln, nicht chinesische inländische Gewohnheiten.
+- **Kraftstoff**: Diesel vs LNG CNG, gewählt nach lokalen Kraftstoffverfügbarkeit und Emissionsregeln, nicht chinesische inländische Gewohnheiten.
 - **Ziel akzeptierte Emissionsstufe** (z. B. Euro II vs. Euro V-Klasse) — zu hohe Spezifizierung erhöht die Kosten; zu niedrige Spezifizierung Blockimport.
 - **Reifen**, plus RHD/LHD, Kühlung/Hydraulik, Zapfwellenantrieb und andere Ausstattungen.
 ## Schritt 2 - Ingenieur der Spezifikation für die Arbeit
@@ -38,24 +38,24 @@ CV-spezifische Sorgfalt:
 ## Schritt 5 — Zusammenstellen der Exportdokumentkette
 Zollausfuhrerklärung; Handelsrechnung mit Angabe von Incoterm und Versicherungswert; Packliste mit **VIN, Motornummer und Einheits-/Containernummer**; Außenhandelsvertrag mit technischem Anhang, Abnahmestandard und Kundendienstbedingungen; Ursprungszeugnis; OEM-Genehmigung; Ausfuhrlizenz, sofern die Kategorie dies erfordert; und gegebenenfalls Bescheinigungen von Drittanbietern/Gebrauchtfahrzeugen.
 ## Schritt 6 — Einhaltung des Bestimmungsorts vor der Produktion
-Erforschen Sie den Bestimmungsort **vor** Werkzeugen: verbotene / eingeschränkte Modelle, RHD / LHD, Fahrzeugaltersregeln, Unfall- / Modifizierte-Einheiten-Behandlung und die akzeptierte Emissionsstufe - länderspezifisch (siehe die saudischen, russischen und chilenischen Führer). Eine China-Inlandsflotte ist nicht automatisch importierbar.
+Erforschen Sie den Bestimmungsort **vor** Werkzeugen: verbotene eingeschränkte Modelle, RHD LHD, Fahrzeugaltersregeln, Unfall- Modifizierte-Einheiten-Behandlung und die akzeptierte Emissionsstufe - länderspezifisch (siehe die saudischen, russischen und chilenischen Führer). Eine China-Inlandsflotte ist nicht automatisch importierbar.
 ## Was AutoBridge über eine Sourcing-Agent-Vorlage hinausfügt
-Agenten zitieren einen LKW; Der empfohlene Rahmen ist, den ** Dienstzyklus des Käufers in einen messbaren technischen Anhang zu übersetzen **, den Exporteur anhand der ** 2026 qualifizierten Liste und der neuen reinen EV-Passagierlizenzregelung nach Kategorie ** zu überprüfen und ** Tender-Grade, inspizierbare Akzeptanzkriterien ** (Stahlqualität, Plattendicke, benannte Achsen / Getriebe) anzugeben, damit eine Flotte nicht in einem schwächeren Build geliefert werden kann, der immer noch "dem Modellnamen entspricht".
+Agenten zitieren einen LKW; Der empfohlene Rahmen ist, den ** Dienstzyklus des Käufers in einen messbaren technischen Anhang zu übersetzen **, den Exporteur anhand der ** 2026 qualifizierten Liste und der neuen reinen EV-Passagierlizenzregelung nach Kategorie ** zu überprüfen und ** Tender-Grade, inspizierbare Akzeptanzkriterien ** (Stahlqualität, Plattendicke, benannte Achsen Getriebe) anzugeben, damit eine Flotte nicht in einem schwächeren Build geliefert werden kann, der immer noch "dem Modellnamen entspricht".
 ## Verhandlungsdimensionen (keine erfundenen Zahlen)
-PIN vertraglich: Stückpreis vs. Spezifikationsniveau, Ersatzteile / Common-Wear-Kit, Technikerschulung / Garantie, Meilenstein-gebundener Lieferplan, Inspektionsrechte und schrittweise Zahlung gegen Produktions- / Inspektionsnachweis. Erhalten Sie reale Zahlen pro Projekt; niemals einen Prozentsatz von Massenrabatten annehmen.
+PIN vertraglich: Stückpreis vs. Spezifikationsniveau, Ersatzteile Common-Wear-Kit, Technikerschulung Garantie, Meilenstein-gebundener Lieferplan, Inspektionsrechte und schrittweise Zahlung gegen Produktions- Inspektionsnachweis. Erhalten Sie reale Zahlen pro Projekt; niemals einen Prozentsatz von Massenrabatten annehmen.
 ## Vorvertrags-Checkliste
 - Duty Cycle, GVW/Nutzlast, Kraftstoff und Bestimmungsemissionsstufe schriftlich festgelegt.
 - Werkstoffe und Stärken von Rahmen/Achse/Suspension/Körper, zart
 - Exporteur verifiziert auf der ** 2026 ** qualifizierten Liste mit der korrekten Kategorie Exportlizenz + OEM-Genehmigung (oder Gebrauchtwagenbedingungen).
-- Lokale OEM-Service / Ersatzteile Abdeckung bestätigt.
+- Lokale OEM-Service Ersatzteile Abdeckung bestätigt.
 - Dokumentkette (FIN/Motornummer, Incoterm, Versicherungswert, Lizenz) vorgebildet.
 - Bestimmungsort RHD/Alter/Emission/Einfuhrbeschränkungen genehmigt.
 - Annahme-/Prüfmethode und Kundendienst, die im Vertrag verankert sind.
 ## Häufig gestellte Fragen
 **What changed in China's export rules for 2026?** The 2026 application round runs under 商办贸函〔2025〕408号,  and  von 1 Jan 2026 rein elektrische Personenkraftwagen (HS 8703801090) erfordern eine Ausfuhrgenehmigung unter der gemeinsamen Bekanntmachung Nr. 54; die Liste der qualifizierten Personen des laufenden Jahres verwenden.
-**Wie kann ich verhindern, dass schwächerer Stahl / Achsen ersetzt werden? ** Schreibe messbare Kriterien (Stahlqualität, Plattendicke, benannte Achs-/Getriebemodelle, Karosserievolumen) in den Vertrag und inspiziere sie, wie es bei echten Ausschreibungen der Fall ist.
+**Wie kann ich verhindern, dass schwächerer Stahl Achsen ersetzt werden? ** Schreibe messbare Kriterien (Stahlqualität, Plattendicke, benannte Achs-/Getriebemodelle, Karosserievolumen) in den Vertrag und inspiziere sie, wie es bei echten Ausschreibungen der Fall ist.
 **Neue vs. verwendete Exportbedingung?** Neue Einheiten benötigen eine OEM-Genehmigung und eine Kategorielizenzierung; gebrauchte Einheiten müssen die Vier-Ministerien-Regeln vom Nov-2025 (Konsistenz von Registrierungs-Zertifikaten) sowie die Inspektion durch Dritte erfüllen.
-**Preis- oder Lokalteileunterstützung?** Für eine funktionierende Flotte legt die lokale Service- / Ersatzteilabdeckung oft die Gesamtbetriebskosten fest - überprüfen Sie das OEM-Netzwerk, bevor Sie den Preis wählen.
+**Preis- oder Lokalteileunterstützung?** Für eine funktionierende Flotte legt die lokale Service- Ersatzteilabdeckung oft die Gesamtbetriebskosten fest - überprüfen Sie das OEM-Netzwerk, bevor Sie den Preis wählen.
 **Sind Bulk-Rabatte/MOQs veröffentlicht?** Nein — es handelt sich um projektspezifische kommerzielle Begriffe; verhandeln Sie gegen einen streng spezifizierten technischen Anhang.
 ## Bildaufzeichnung
 - IMAGE_ASSET_PATH: keine gesicherte Datei
@@ -89,12 +89,12 @@ PIN vertraglich: Stückpreis vs. Spezifikationsniveau, Ersatzteile / Common-Wear
 | 2026 automobile/motorcycle export-licence application notice (商办贸函〔2025〕408号) | MOFCOM (** Regierungsbeamter**) | CN | https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_7c50d6688ca34d1786a1bfd2ccde7d19.html | 2026-09-03 | ** ÜBERPRÜFUNG** | Online-Bewerbungssystem, lokale Überprüfung, Qualified-List-Prozess |
 | Rein-EV-Passagierexportlizenzen ab 2026-01-01 (Ankündigung Nr. 54; HS 8703801090) | MOFCOM/MIIT/GAC/SAMR (** Regierungsbeamter**) | CN | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-03 | ** ÜBERPRÜFUNG** | 2026 Exportlizenzregelung für NEV-Passagier |
 | 2026 Liste der qualifizierten Exportlizenzunternehmen | MOFCOM Außenhandelsabteilung (** Regierungsbeamter**) | CN | http://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_6685d244c4f4429e9a749a1a9f34bf19.html | 2026-09-03 | ** ÜBERPRÜFUNG** | Im laufenden Jahr qualifizierte Unternehmen |
-| Weitere Stärkung des Exportmanagements für Gebrauchtwagen (Nov 2025) | MOFCOM/MIIT/MPS/GAC via gov.cn (** Regierungsbeamter**) | CN | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | ** ÜBERPRÜFUNG** | Feld „Exportlizenz für Gebrauchtwagen/Konsistenz des Registrierungszertifikats |
+| Weitere Stärkung des Exportmanagements für Gebrauchtwagen (Nov 2025) | MOFCOM/MIIT/MPS/GAC via (** Regierungsbeamter**) | CN | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | ** ÜBERPRÜFUNG** | Feld „Exportlizenz für Gebrauchtwagen/Konsistenz des Registrierungszertifikats |
 | 15-unit Kipptender (verbindliche technische Indikatoren) | Hunan Road & Bridge Group (echte Ausschreibung) | CN→Zentralasien | http://www.hnrb.cn/2025/zhaobiaogonggao_0925/9717.html | 2026-09-02 | ** ÜBERPRÜFUNG** | ≥15 m³, T700 Stahl, Boden ≥ 10 mm, Seite ≥ 8 mm Auftriebstyp |
 | Duty-Cycle-/Customization-Guide (Doppelschichtrahmen, Achsen mit zolltarifierter Funktion) | CV-Hersteller (Chary/FAW-Leitfaden; Chengli 12-step flow) | CN→Global | https://www.charymachinery.com/the-step-by-step-guide-for-international-buyers-sourcing-commercial-vehicles-from-china.html | 2026-09-02 | CROSS_CHECKED | Engineering/Prozessführung |
-*Vertrauensbeweis: Das System der Ausfuhrlizenzen 2026 und die Indikatoren für die Annahme von Ausschreibungen werden auf Regierungs-/Echtausschreibungsquellen überprüft. Engineering / Prozessleitfaden ist Hersteller / Industrie (CROSS_CHECKED); aktuelle Jahreslisten, OEM-Überseenetze und alle kommerziellen Bedingungen (Rabatt / MOQ / Lead-Zeit) werden live erhalten und nie geschätzt. *
+*Vertrauensbeweis: Das System der Ausfuhrlizenzen 2026 und die Indikatoren für die Annahme von Ausschreibungen werden auf Regierungs-/Echtausschreibungsquellen überprüft. Engineering Prozessleitfaden ist Hersteller Industrie (CROSS_CHECKED); aktuelle Jahreslisten, OEM-Überseenetze und alle kommerziellen Bedingungen (Rabatt MOQ Lead-Zeit) werden live erhalten und nie geschätzt. *
 ## Editorial Review
-- **Autor / Rezensent**: [AutoBridge Export Editorial Team](/Autoren/) · Methode nach unserer [Editorial Policy](/editorial-policy/]
+- **Autor Rezensent**: [AutoBridge Export Editorial Team](/Autoren/) · Methode nach unserer [Editorial Policy](/editorial-policy/]
 - **Zuletzt überprüft**: 2026-09-05
 - **Referenzmarkt**: Global (Nutzfahrzeuge aus China bezogen)
 - **Verifizierungsmethode**: Government primary sources for the 2026 licence regime; ein echtes Angebot für Annahmekriterien; Handelszahlen bleiben zu verhandeln

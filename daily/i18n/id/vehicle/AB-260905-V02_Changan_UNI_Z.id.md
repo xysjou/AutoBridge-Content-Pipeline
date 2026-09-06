@@ -2,20 +2,20 @@
 
 ## SEO Metadata
 - *** Judul SEO **: Changan UNIZ PHIEV 2026: Petunjuk Specs Pasar & Ekspor Pembeli
-- ** Meta Description **: Dimensi Blue Whale PHIV baru, garis 18.4 kWh LFP, jangkauan listrik CLPO 130 km CLTC, DC / V2L, dan VIN-level cek untuk para importir.
+- ** Meta Description **: Dimensi Blue Whale PHIV baru, garis 18.4 kWh LFP, jangkauan listrik CLPO 130 km CLTC, DC V2L, dan VIN-level cek untuk para importir.
 - ** H1 **: Chanka UNI-Z (2026, New Blue Whale PHIV) - Chinice-Market Specs dan Ekspor Verifikasi
-- ** Primary Keyword **: Changan / 长安 Unil-Z ekspor spesifikasi
+- ** Primary Keyword **: Changan 长安 Unil-Z ekspor spesifikasi
 - ** Akhir Pencarian Second **: SANG ekspor UNI-Z; spesifikasi UNI-Z PHIV; Cina plugly-in hybrida SUV; V2L ekspor; CLTC jangkauan
-- ** Sugested URL **: / kendaraan / changan -uni- z /
-- ** Cari Intent **: 了解 Changan / 长安 UNIZ 中国版规格: 配置与出口适配性 车型参数页
-- ** Internal Link Sugestions **: / wirates / changan-uniz /, / guign / china- export -commissions -single-window /, / guide / ccc-certification- exports / excepts /
-- ** Schema Scope **: Pasal + Kendaraan (tidak Ada Produk / Offer / Review)
+- ** Sugested URL **: kendaraan changan -uni- z
+- ** Cari Intent **: 了解 Changan 长安 UNIZ 中国版规格: 配置与出口适配性 车型参数页
+- ** Internal Link Sugestions **: wirates changan-uniz guign china- export -commissions -single-window guide ccc-certification- exports excepts
+- ** Schema Scope **: Pasal + Kendaraan (tidak Ada Produk Offer Review)
 
 ## Identitas konteks dan model pembeli
 ** Changan UNI-Z (2026) ** Tertutupi di sini adalah Cinese- pasar ** Paus Biru baru (Xin Lan Jing) * Hybrid- * SUV kompak. Ini adalah baris yang berbeda dari setiap bensin murni UNIZ dan dari ekspor-plat nama pasar Chanangan dapat menggunakan tempat lain; tidak ada ekuivalen nama overseas- diklaim tanpa pernyataan OEM. Referensi pasar adalah ** China **.
 
 ## Powertrain, baterai dan kemampuan listrik
-- ** Dimensi **: 4730 / 1890 / 1660 部分配置 1680 pymm (beberapa konfigurasi 1680 mm tinggi), roda 2795 mm (silang); volume kargo 638 L.
+- ** Dimensi **: 4730 1890 1660 部分配置 1680 pymm (beberapa konfigurasi 1680 mm tinggi), roda 2795 mm (silang); volume kargo 638 L.
 - ** Mesin hibrid **: 72 GlM 1.5L 混动专用发动机 mesin hybrid berdedikasi; drive motor 160 kW (cross- check); E-CVT 电混传动.
 - Baterai sekitar 磷酸铁锂 约 18.4 kWh. Pemasok sel muncul di bawah dua akun dalam sumber sekunder dan ditahan sebagai ** belum dikonfirmasi ** - itu tidak asserted di sini.
 - ** Jangkauan listrik **: 130 km CLTC (silang); gabungan CLTC 1250 km.
@@ -24,7 +24,7 @@
 ## Tabel spesifikasi terverifikasi (Referensi pasar Cinese-)
 | Spesifikasi | Nilai | Unit | Pasar | Percaya diri | Catatan sumber |
 |---|---|---|---|---|---|
-| tinggi lebar panjang | 4730 / 1890 / 1660: 部分配置 1680 | mm | CHINA | _ BERDECAT | 汽车之家 + 搜狐 |
+| tinggi lebar panjang | 4730 1890 1660: 部分配置 1680 | mm | CHINA | _ BERDECAT | 汽车之家 + 搜狐 |
 | pangkalan roda | 2795 | mm | CHINA | _ BERDECAT | 汽车之家 + 搜狐 |
 | Volume muatan | 638 | L | CHINA | SINGLE _ SOURCE | 搜狐汽车 |
 | daya mesin | 72: 1.5L 混动专用发动机 | kW | CHINA | SINGLE _ SOURCE | 汽车之家车家号 |
@@ -39,14 +39,14 @@
 | layar tengah | 14.6 | 英寸 | CHINA | SINGLE _ SOURCE | 汽车之家车家号 |
 
 ## Mengapa garis baterai dan V2L materi untuk perintah ekspor
-Perintah UniZ mudah untuk dilewatkan karena lencana yang sama mencakup tingkat listrik yang berbeda. Sebutkan ** kapasitas baterai dan jalur jangkauan listrik ** pada proforma, dan perlakukan 85 DC dan 3.3 V2L angka sebagai peralatan pasar Cinese- dikonfirmasi untuk standar kabel / grid tujuan. Jangkauan listrik CLTC bukan tokoh WLTP, dan nama ekspor-pasar, kalibrasi kuat atau garansi tidak didirikan oleh sumber-sumber Cina yang ditangkap di sini.
+Perintah UniZ mudah untuk dilewatkan karena lencana yang sama mencakup tingkat listrik yang berbeda. Sebutkan ** kapasitas baterai dan jalur jangkauan listrik ** pada proforma, dan perlakukan 85 DC dan 3.3 V2L angka sebagai peralatan pasar Cinese- dikonfirmasi untuk standar kabel grid tujuan. Jangkauan listrik CLTC bukan tokoh WLTP, dan nama ekspor-pasar, kalibrasi kuat atau garansi tidak didirikan oleh sumber-sumber Cina yang ditangkap di sini.
 
 ## Pembeli luar negeri verifikasi sebelum pembayaran
 1. Konfirmasi konfigurasi PHIEV yang tepat dan kapasitas baterai oleh VIN; pisahkan dari ICE UNI- Z membangun.
 2. CLTC Reconcile 130 km melawan siklus uji tujuan.
-3. Verifikasi DC charge connector / protokol dan V2L ekspor sesuai untuk pasar tujuan.
-4. Mencegah tujuan PHIV jenis dokumentasi persetujuan / emisi daripada memasukkan dari spesifikasi Cina.
-5. Meminta kutipan ekspor saat ini (tujuan, kuantitas, trim, LHD / RHD, port, lncotarm) - tidak ada harga yang diterbitkan di sini.
+3. Verifikasi DC charge connector protokol dan V2L ekspor sesuai untuk pasar tujuan.
+4. Mencegah tujuan PHIV jenis dokumentasi persetujuan emisi daripada memasukkan dari spesifikasi Cina.
+5. Meminta kutipan ekspor saat ini (tujuan, kuantitas, trim, LHD RHD, port, lncotarm) - tidak ada harga yang diterbitkan di sini.
 
 ## PSD
 ** Apakah UNI-Z dijual di luar negeri dengan nama yang sama? ** Tidak didirikan oleh pernyataan OEM dalam sumber-sumber ini; jangan asumsikan nama atau spec equvalence.
@@ -62,8 +62,8 @@ Does V2L work in my market? Angka 3.3 kW adalah spesifikasi pasar Cinese-; konfi
 | 长安 UNI-Z 2026 款解析 | 汽车之家车家号 | CN | T3 | _ BERDECAT | https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/24892811 | 尺寸, 电机, 电池, 续航, 屏幕 |
 | UNI- Z 配置信息 | 汽车之家车家号 | CN | T3 | _ BERDECAT | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26106686 | 快充, 外放电 |
 | 长安 UNI-Z 参数 | 搜狐汽车 | CN | T2 | _ BERDECAT | http://db.m.auto.sohu.com/model_7339/a/991290424_121117078 | 尺寸, 轴距, 后备厢, 动力 |
-| ChanganName Situs global resmi otomatis | Changan Autoemone 长安汽车 (OEM) | CN | T1 | TERBATAI | https://www.globalchangan.com/ | merek / model-baris identitas dan Otoritas OEM |
-| Kementerian Industri dan Teknologi Informasi (MIIT) | MIIT 工业和信息化部 | CN | T1 | TERBATAI | https://www.miit.gov.cn/ | otoritas homologasi / pengumuman; konfirmasi model yang tepat, massa, dan kode oleh VIN / pengumuman |
+| ChanganName Situs global resmi otomatis | Changan Autoemone 长安汽车 (OEM) | CN | T1 | TERBATAI | https://www.globalchangan.com/ | merek model-baris identitas dan Otoritas OEM |
+| Kementerian Industri dan Teknologi Informasi (MIIT) | MIIT 工业和信息化部 | CN | T1 | TERBATAI | https://www.miit.gov.cn/ | otoritas homologasi pengumuman; konfirmasi model yang tepat, massa, dan kode oleh VIN pengumuman |
 | Administrasi Negara untuk Peraturan Pasar (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | TERBATAI | https://www.samr.gov.cn/ | standar nasional, sertifikasi dan pasar-otoritas peraturan |
 ## Editorial Review
 - ** Penulis **: Tim Editorial AutoBridge Ekspor
@@ -81,9 +81,9 @@ Does V2L work in my market? Angka 3.3 kW adalah spesifikasi pasar Cinese-; konfi
 - ** LICENSE _ OR _ USAGE _ BASIS **: tidak ada yang aman - kehadiran halaman web OEM bukan sebuah lisensi penggunaan ulang komersial
 - ** CHECTD _ DATE **: 2026-09-06
 - ** MODEL _ TOPIC _ MATCH *: tepat Chanangan UNI-Z 2026
-- ** IMAGE _ SCOPE _ CATATAN **: gambar harus cocok dengan model yang sama saja keluarga / topik; tidak boleh menyiratkan trim, model tahun, VIN, in- orang pemeriksaan atau transaksi aktual
+- ** IMAGE _ SCOPE _ CATATAN **: gambar harus cocok dengan model yang sama saja keluarga topik; tidak boleh menyiratkan trim, model tahun, VIN, in- orang pemeriksaan atau transaksi aktual
 - FAIL
-- ** BLOCK _ REASON **: Tidak ada gambar yang dapat digunakan ulang yang dapat diamankan: Wikimedia Commons / Flickr tidak dapat dicapai dari lingkungan penelitian, perpustakaan saham memerlukan akses API / license yang dikonfirmasi, dan gambar laman web OEM TIDAK sebuah hibah komersial. Tak ada foto AutoBridge- milik mereka. Catatan tetap FAIL daripada menegaskan.
+- ** BLOCK _ REASON **: Tidak ada gambar yang dapat digunakan ulang yang dapat diamankan: Wikimedia Commons Flickr tidak dapat dicapai dari lingkungan penelitian, perpustakaan saham memerlukan akses API license yang dikonfirmasi, dan gambar laman web OEM TIDAK sebuah hibah komersial. Tak ada foto AutoBridge- milik mereka. Catatan tetap FAIL daripada menegaskan.
 - ** ALT (12 bahasa) *:
   - **EN**: Changan UNI-Z 2026, Chinese-market PHEV SUV export buyer reference
   - **FR**: Changan UNI-Z 2026, PHEV SUV du marché chinois, référence acheteur export

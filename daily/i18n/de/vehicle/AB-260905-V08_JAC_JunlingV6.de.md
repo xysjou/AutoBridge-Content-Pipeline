@@ -2,12 +2,12 @@
 
 ## SEO Metadaten
 - **SEO Titel **: JAC Junling V6 Light Truck: Chinesisch-Markt Specs & Export Käufer Guide
-- **Meta Description**: JAC für den chinesischen Markt Junling V6 Blue-Plate leichte Lastwagen: Yunnei D25 Diesel, Ankang 160 Linie, Frachtbox, GVW / Nutzlast und die Single-Source-Massenverzicht.
+- **Meta Description**: JAC für den chinesischen Markt Junling V6 Blue-Plate leichte Lastwagen: Yunnei D25 Diesel, Ankang 160 Linie, Frachtbox, GVW Nutzlast und die Single-Source-Massenverzicht.
 - ** H1 **: JAC Junling V6 (2024/2025) — Light Truck Specs und Exportschecks auf dem chinesischen Markt
-- **Hauptschlüsselwort**: JAC / 江淮 骏铃 V6 轻卡 (Light Truck) Specs Export
+- **Hauptschlüsselwort**: JAC 江淮 骏铃 V6 轻卡 (Light Truck) Specs Export
 - **Secondary Search Terms**: JAC Junling V6 export; Jianghuai light truck; Chinese cargo truck; blue plate truck; Yunnei D25
 - **Vorgeschlagene URL**: /Fahrzeuge/jac-junling- v6/
-- **Search Intent**: 了解 JAC / 江淮 骏铃V6 轻卡（Light Truck） 中国版规格、配置与出口适配性（车型参数页）
+- **Search Intent**: 了解 JAC 江淮 骏铃V6 轻卡（Light Truck） 中国版规格、配置与出口适配性（车型参数页）
 - **Interne Linkvorschläge**: /Fahrzeuge/jac-junling- v6/, /Guides/Fahrzeug-export-hs-code-history/, /Guides/china-export-Zoll-Erklärung-Single-Fenster/
 - **Schema-Scope**: Artikel + Fahrzeug (kein Produkt/Angebot/Bewertung)
 
@@ -37,9 +37,9 @@ Der Motor  and  Frachtboxendaten stammen aus einer gespiegelten Datenbankquelle 
 Für Käufer von Stadtvertrieben ist der Bestellkonfigurationspunkt, der am häufigsten zu Streitigkeiten führt, **, welche Zahl die legale Belastung auf dem Zielmarkt bestimmt **. Eine chinesische Blauplatte, eine Werksnutzlast und eine Zielachslastgrenze sind drei verschiedene Zahlen; Der LKW muss gegen die verbindliche Zielregel und nicht gegen die großzügigste der drei angegeben werden. Radstand und Laderaumlänge interagieren auch mit Drehkreis- und lokalen Längenbeschränkungen, so dass eine Box, die nur zur Maximierung des Volumens ausgewählt wurde, ein Fahrzeug schaffen kann, das auf engen Stadtrouten umständlich ist. Bestätigen Sie GVW, Leermasse, Nutzlast, Radstand und Boxabmessungen als eine auf der Pro-forma-Einstellung festgelegte und verlangen Sie, dass der Lieferant jede Masse vor der Ablagerung an seine Quelle bindet.
 
 ## Überprüfung des ausländischen Käufers vor Zahlung
-1. Bestätigen Sie GVW 4.495 t / Nutzlast 1.735 t gegen die MIIT-Ankündigung oder JAC OEM-Blatt.
+1. Bestätigen Sie GVW 4.495 t Nutzlast 1.735 t gegen die MIIT-Ankündigung oder JAC OEM-Blatt.
 2. Passen Sie die Innenabmessungen der Frachtbox an den vorgesehenen Körper an.
-3. Bestätigen Sie den Motor (Yunnei D25 / Ankang 160) Getriebe  and  Hinterachse für Teileträger.
+3. Bestätigen Sie den Motor (Yunnei D25 Ankang 160) Getriebe  and  Hinterachse für Teileträger.
 4. Prüfung der Diesel-Emissionsstufe und der Bestimmungs-GVW/Lizenzklasse.
 5. Fordern Sie ein aktuelles Exportangebot an; keines wird veröffentlicht.
 
@@ -47,7 +47,7 @@ Für Käufer von Stadtvertrieben ist der Bestellkonfigurationspunkt, der am häu
 **Sind die Nutzlastzahlen endgültig?** Sie sind hier single-source; bestätigen sie durch homologation, bevor sie sich auf sie verlassen.
 **Gibt es eine RHD-Version?** Nicht in diesen Quellen etabliert.
 **Was ist die Blue-Plate-Klasse?** Sub- 4.5 t GVW Stadt-LKW in China; Ziel Lizenzierung unterscheidet.
-**Motor? ** Yunnei D25TCIF1 2.5 L Diesel, 150 hp / 400 N·m auf der eroberten Linie.
+**Motor? ** Yunnei D25TCIF1 2.5 L Diesel, 150 hp 400 N·m auf der eroberten Linie.
 **Wo sind Reifen-/Achsendetails?** Nicht erfasst; fordern Sie das OEM-Baublatt an.
 
 

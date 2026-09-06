@@ -1,70 +1,70 @@
-# Forthing Lingzhi M5 2024 - Work Van / Commercial MPV: Seating Layouts, Powertrains and Export checks
+# Forthing Lingzhi M5 2024 - Work Van Commercial MPV: Seating Layouts, Powertrains and Export checks
 
 ## SEO Metadata
 - ** عنوان المنظمة**: Forthing Lingzhi M5 2024 Van Specs, Seating " CNG/Petrol Export Guide
 - ** وصف البيانات**: 2024 دونغفنغ لينغزي M5 (M5L) الصين تُلمّح: 5/7/9-seat مخطط، وقاعدة عجلتين، و 1.5T البنزين 6MT و 1.6L CNG 5MT، والأبعاد، ونقاط التحقق من المشترين التجاريين.
 - ** URL المقتطع**: /المركبات/لينغزي - m5/
-- ** H1 **: بالنسبة لـ (لينغيزي) M5 / M5L 2024 (الصين): خريطة فان سبيك للمشتريات التجارية
+- ** H1 **: بالنسبة لـ (لينغيزي) M5 M5L 2024 (الصين): خريطة فان سبيك للمشتريات التجارية
 - ** كلمة رئيسية**: Forthing Lingzhi M5 van specifications export
 - ** شروط البحث الثانية**: دونغفنغ لينغزي M5L 9-seat، لحوالي M5 من طراز CNG 1.6 - تصدير شاحنة مدفعية مدفعية مدفعية مدفعية تجارية صينية، قاعدة متحركة من طراز Lingzhi M5، شاحنة ركاب من طراز Dongfeng
 - ** Internal Link Suggestions**: /vehicles/gac-trumpchi- m8/; /guides/commercial-truck-fleet-procurement-china/;guides/right-drive-chinese-cars/
-- ** اقتراحات تتعلق بالنص**: - جانبي للجسد M5L؛ 9-seat تخطيط داخلي؛ 1.5T ضد 1.6 بطاقة النفثالينات؛ - ثني الشحنات/السيارات؛ الباب الجانبي المُنزلق
+- ** اقتراحات تتعلق بالنص**: - جانبي للجسد M5L؛ 9-seat تخطيط داخلي؛ 1.5T ضد 1.6 بطاقة النفثالينات؛ - ثني الباب الجانبي المُنزلق
 - ** الاقتراحات**: "2024 Forthing Lingzhi M5L nine-seat commercial van, مطياف الصين "Lingzhi M5 5/7/9 seat layout options"; "Lingzhi M5 1.5T البنزين مقابل 1.6 CNG"
 
 ## دور المركبات
 
-The Lingzhi M5 is a **utilitarian front-wheel-drive van / commercial MPV** built for people-moving and light multi-use duty rather than instalment comfort. وهو يهم المستوردين، ومشغلي المكوك، والملاك الصغار الذين يحتاجون إلى مقاعد كثيرة، وصندوق كبير بتكلفة منخفضة للاقتناء. The reference line is the **2024 M5L 1.5T 舒适型 9-seater (REFERENCE MARKET: الصين**؛ وتوجد أيضا نسخة أقصر من المادة M5 وصيغة " سي إن جي " (غاز طبيعي مكتظ)**. فالشيء (دونغفنغ ليوزو) يبيع بالفعل في بعض أسواق التنمية البشرية في تايلند، مثل تايلند، تحت ملصقات أخرى (مثلاً، الجمعة/ V9) ولكن هذه منتجات مختلفة - يجب أن تؤكد لينجزي M5 من المواصفات التصديرية لكل مقصد، ولا تستخلص من الخط الصيني أو من شاحنات فورينغ الأخرى في الخارج.
+The Lingzhi M5 is a **utilitarian front-wheel-drive van commercial MPV** built for people-moving and light multi-use duty rather than instalment comfort. وهو يهم المستوردين، ومشغلي المكوك، والملاك الصغار الذين يحتاجون إلى مقاعد كثيرة، وصندوق كبير بتكلفة منخفضة للاقتناء. The reference line is the **2024 M5L 1.5T 舒适型 9-seater (REFERENCE MARKET: الصين**؛ وتوجد أيضا نسخة أقصر من المادة M5 وصيغة " سي إن جي " (غاز طبيعي مكتظ)**. فالشيء (دونغفنغ ليوزو) يبيع بالفعل في بعض أسواق التنمية البشرية في تايلند، مثل تايلند، تحت ملصقات أخرى (مثلاً، V9) ولكن هذه منتجات مختلفة - يجب أن تؤكد لينجزي M5 من المواصفات التصديرية لكل مقصد، ولا تستخلص من الخط الصيني أو من شاحنات فورينغ الأخرى في الخارج.
 
 ## حجم الجسم وعجلات
 
 | البند | M5L (طول) | M5 (النقصان) |
 |---|---|---|
-| Length × Width / Height | 5135 × 1720 × 1970 mm | نفس الوادر/الطول، الجسم الأقصر |
+| Length × Width Height | 5135 × 1720 × 1970 mm | نفس الجسم الأقصر |
 | Wheelbase | 3000 mm | 2800 mm |
-| مخططات المقاعد المعروضة | 7 / 9 seats | 5 / 7 / 8 seats |
+| مخططات المقاعد المعروضة | 7 9 seats | 5 7 8 seats |
 
 المذكرات، وقواعد العجلات، ومخططات المقاعد هي ** مصدقة** على صفحة مقياس فورث الرسمية ومطابقة بقواعد البيانات. الطويل  near-vertical body (1970 mm height) is a deliberate cargo/people box — useful interior volume is the design goal. تأكد من عدد المقاعد بالضبط، لأن نفس "M5L" علامة تغطي كل من 7- و9-seat بنواة.
 
 ## Powertrains - Petrol Turbo vs Naturally Aspirated CNG
 
-| بــاء - الطاقة | المهندس | السلطة/التورك | التحويل |
+| بــاء - الطاقة | المهندس | | التحويل |
 |---|---|---|---|
-| 1.5T البنزين (M5L) | Turbo L4 | 140 kW (190 PS) / 300 N·m | ** 6-speed دليل** |
-| 1.6L CNG | الطبيعي الطموح البالغ L4 (غاز طبيعي) | 75 kW (102 PS) / 140 N·m | ** 5-speed دليل** |
+| 1.5T البنزين (M5L) | Turbo L4 | 140 kW (190 PS) 300 N·m | ** 6-speed دليل** |
+| 1.6L CNG | الطبيعي الطموح البالغ L4 (غاز طبيعي) | 75 kW (102 PS) 140 N·m | ** 5-speed دليل** |
 
-وهناك نقطتان للمشتريات. أولاً  **both lines are manual** — there is no automatic in the captured 2024 range, لذا يجب على المشترين الذين يحتاجون إلى آلية/مراقبة نقل البضائع أن ينظروا إلى مكان آخر أو يؤكدوا بناء تصدير محدد. ثانياً نسخة المؤتمر الوطني المعني بالتغييرات والتعدين النوويين* أقل بكثير (75 kW)  and  لا يكون ذا صلة إلا عندما تُعادد الغاز الطبيعي الوقود  and  (أ) دعم تسجيل المجلس الوطني؛ فبالنسبة لأسواق البنية التحتية للغاز، يمكن أن تخفض تكاليف التشغيل، ولكنها ليست بديلاً شبيهاً بـ 1.5T. The 1.5T records a WLTC combined figure around 8.4 L/100 km  and  سرعة قصوى 160 km/h Curb weight for the M5L 1.5T 9-seater is ~1700 kg (single source, دونغشيدي - يؤكد على لوحة الامتثال.
+وهناك نقطتان للمشتريات. أولاً  **both lines are manual** — there is no automatic in the captured 2024 range, لذا يجب على المشترين الذين يحتاجون إلى نقل البضائع أن ينظروا إلى مكان آخر أو يؤكدوا بناء تصدير محدد. ثانياً نسخة المؤتمر الوطني المعني بالتغييرات والتعدين النوويين* أقل بكثير (75 kW)  and  لا يكون ذا صلة إلا عندما تُعادد الغاز الطبيعي الوقود  and  (أ) دعم تسجيل المجلس الوطني؛ فبالنسبة لأسواق البنية التحتية للغاز، يمكن أن تخفض تكاليف التشغيل، ولكنها ليست بديلاً شبيهاً بـ 1.5T. The 1.5T records a WLTC combined figure around 8.4 L/100 km  and  سرعة قصوى 160 km/h Curb weight for the M5L 1.5T 9-seater is ~1700 kg (single source, دونغشيدي - يؤكد على لوحة الامتثال.
 
 ## الشغل بالبحار واستخدام المصادرة
 
-ونظراً لأن هذا هو منصة تجارية للأشخاص/الكارجو، فإن تحديدها داخلها بعناية كما هو محركها:
+ونظراً لأن هذا هو منصة تجارية فإن تحديدها داخلها بعناية كما هو محركها:
 
 - ** مكوك باسينغر**: 9-seat M5L maximises fare-paying capacity — verify local rules on which vehicle categories may carry 9 occupants  and  -الرخصة المطلوبة
-- ** Crew + cargo / convertible use**: confirm whether seats are removable/folding and whether the destination registers the unit as passenger or commercial (this affects taxation and inspection).
+- ** Crew + cargo convertible use**: confirm whether seats are removable/folding and whether the destination registers the unit as passenger or commercial (this affects taxation and inspection).
 - ** Access**: confirm sliding side door count and tailgate type for your operation.
 - ** تكييف الهواء**: ينبغي تأكيد تعيين المصابين بالعدوى المكشوفة من الفئة ألف إلى 9-seat من الخدمة حسب الرتبة.
 
-ولم يتم تسجيل تقديرات الحمولة وحجم البضائع في المرحلة 1، ولا تقدر هنا؛ وطلبها من المواصفات التجارية الرسمية لبناء قاعدة العجلات/المقعد بدقة.
+ولم يتم تسجيل تقديرات الحمولة وحجم البضائع في المرحلة 1، ولا تقدر هنا؛ وطلبها من المواصفات التجارية الرسمية لبناء قاعدة بدقة.
 
 ## China Reference vs Export Reality
 
 - والوحدات الصينية هي: **LHD، يدويا، صينيا**. Confirm whether a factory RHD or an export-specific Lingzhi M5 exists for the destination rather than assuming conversion.
 - التحقق من صحة قواعد المقصد و الوقود و الـ (CNG) و السيارة تحتاج إلى شهادة وقود و مُعترفة بـ (غاز) و معايير إعادة الوقود
-- دعم قطع الغيار والقطع/الصندوق الهضمي لشاحنة تجارية يدوية، بالإضافة إلى الضمان (مراجع الصين: خمس سنوات/ 100,000 km - التغطية المحلية، والاعتماد على الموزع في الخارج).
+- دعم قطع الغيار الهضمي لشاحنة تجارية يدوية، بالإضافة إلى الضمان (مراجع الصين: خمس 100,000 km - التغطية المحلية، والاعتماد على الموزع في الخارج).
 - تحققي مما إذا كانت الوجهة تعامل 9-seater كمركبة صغيرة تتطلب ترخيصا إضافيا من السائقين/المشغلين.
 
 ## ما يضيفه التابوت بريدج إلى ما بعد الصفحة
-أمر بالشاحنات يفشل في أخطاء صغيرة: "9-seater" مسجلة كفئة مختلفة، أو وحدة من الـ"CNG" تباع حيث لا توجد شهادة غاز. هذا الدليل يوصي بقفل قاعدة العجلات (2800/3000) وحساب المقاعد بدقة ونوع الوقود كمجموعة واحدة** على مذكرة البناء، والتحقق من فئة المقصد من حيث الرخصة/العاملة إلى 9-seater **، وبالنسبة للشبكة الوطنية للغاز - يتطلب مساراً مشهوداً به من أجل إصدار شهادات الملوّد بالموجات الغازية** قبل الإيداع بدلاً من افتراض عمليات تحويل معايرة البنزين.
+أمر بالشاحنات يفشل في أخطاء صغيرة: "9-seater" مسجلة كفئة مختلفة، أو وحدة من الـ"CNG" تباع حيث لا توجد شهادة غاز. هذا الدليل يوصي بقفل قاعدة العجلات (2800/3000) وحساب المقاعد بدقة ونوع الوقود كمجموعة واحدة** على مذكرة البناء، والتحقق من فئة المقصد من حيث إلى 9-seater **، وبالنسبة للشبكة الوطنية للغاز - يتطلب مساراً مشهوداً به من أجل إصدار شهادات الملوّد بالموجات الغازية** قبل الإيداع بدلاً من افتراض عمليات تحويل معايرة البنزين.
 ## التحقق قبل انتهاء الخدمة القائمة
 
 - Pin down M5 vs M5L (2800 vs 3000 mm wheelbase) and exact seat count (5/7/8/9)
 - Pin down powertrain (1.5T petrol 6MT vs 1.6L CNG 5MT); confirm manual is acceptable for the end client.
 - وبالنسبة إلى المجلس الوطني للغاز، التحقق من التصديق على خط البنزين، ودرجة إعادة الوقود، ودرجة التسجيل في المقصد.
 - Confirm LHD/RHD, emission acceptance, rear AC and door formation by grade.
-- الحصول على أرقام الشحن/الشحن الرسمية ووزن كبح لوحات شبكة المعلومات الشخصية قبل التسجيل.
+- الحصول على أرقام الرسمية ووزن كبح لوحات شبكة المعلومات الشخصية قبل التسجيل.
 
 ## طلب تخصيص موارد التصدير الحالية
 
-(أ) اقتباسات " أوت بريدج " عند الطلب بدلاً من نشر أسعار تصدير ثابتة. Chinese domestic references — M5L 1.5T around RMB 74, 900–96 800  and  CNG من حوالي RMB 67، 900 — are **domestic, إشارات مراعية للوقت لا أسعار التصدير**. : الاستفسار مع ** بلد الاستضافة؛ الكمية؛ M5/M5L " أُسْر النفط/اللغة القومية؛ ميناء الترسب/الشحنة؛ ميناء الترسب**.
+(أ) اقتباسات " أوت بريدج " عند الطلب بدلاً من نشر أسعار تصدير ثابتة. Chinese domestic references — M5L 1.5T around RMB 74,900–96 800  and  CNG من حوالي RMB 67، 900 — are **domestic, إشارات مراعية للوقت لا أسعار التصدير**. : الاستفسار مع ** بلد الاستضافة؛ الكمية؛ M5/M5L " أُسْر القومية؛ ميناء ميناء الترسب**.
 
 ## Buyer FAQ
 
@@ -85,39 +85,39 @@ The Lingzhi M5 is a **utilitarian front-wheel-drive van / commercial MPV** built
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
 - IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
 - IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
-- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات ويكيميو/فلكر غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات المسبقة/الرخصة، وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
+- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
 - ALT by language:
-  - **EN**: AutoBridge export-buyer reference — Forthing Lingzhi M5, petrol/diesel Chinese-market vehicle / MPV
-  - **FR**: Référence AutoBridge pour acheteurs export — Forthing Lingzhi M5, véhicule thermique (marché chinois) / MPV
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Forthing Lingzhi M5, Verbrenner (chinesischer Markt) / Van (MPV)
-  - **ES**: Referencia AutoBridge para compradores de exportación — Forthing Lingzhi M5, vehículo de combustión (mercado chino) / monovolumen
-  - **PT**: Referência AutoBridge para compradores de exportação — Forthing Lingzhi M5, veículo a combustão (mercado chinês) / minivan
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Forthing Lingzhi M5, 中国市場仕様 内燃機関車 / MPV
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Forthing Lingzhi M5, 중국 시장 내연기관 차량 / MPV
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Forthing Lingzhi M5, xe động cơ đốt trong (thị trường Trung Quốc) / MPV
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Forthing Lingzhi M5, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถ MPV
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Forthing Lingzhi M5, kendaraan mesin pembakaran (pasar Tiongkok) / MPV
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Forthing Lingzhi M5, مركبة بمحرك احتراق (سوق الصين) / سيارة عائلية
-  - **ZH**: AutoBridge 出口采购参考｜Forthing Lingzhi M5, 中国市场燃油车 / MPV
+  - **EN**: AutoBridge export-buyer reference — Forthing Lingzhi M5, petrol/diesel Chinese-market vehicle MPV
+  - **FR**: Référence AutoBridge pour acheteurs export — Forthing Lingzhi M5, véhicule thermique (marché chinois) MPV
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Forthing Lingzhi M5, Verbrenner (chinesischer Markt) Van (MPV)
+  - **ES**: Referencia AutoBridge para compradores de exportación — Forthing Lingzhi M5, vehículo de combustión (mercado chino) monovolumen
+  - **PT**: Referência AutoBridge para compradores de exportação — Forthing Lingzhi M5, veículo a combustão (mercado chinês) minivan
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Forthing Lingzhi M5, 中国市場仕様 内燃機関車 MPV
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Forthing Lingzhi M5, 중국 시장 내연기관 차량 MPV
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Forthing Lingzhi M5, xe động cơ đốt trong (thị trường Trung Quốc) MPV
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Forthing Lingzhi M5, รถเครื่องยนต์สันดาป (ตลาดจีน) รถ MPV
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Forthing Lingzhi M5, kendaraan mesin pembakaran (pasar Tiongkok) MPV
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Forthing Lingzhi M5, مركبة بمحرك احتراق (سوق الصين) سيارة عائلية
+  - **ZH**: AutoBridge 出口采购参考｜Forthing Lingzhi M5, 中国市场燃油车 MPV
 
 ## المصدر: التحقق
 
 | عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
 | لينجزي البارامترات الرسمية | دونغفنغ لوث (رسمي) | CN | https://www.fxauto.com.cn/index.php/car/parameter?cid=37 | 2026-09-02 | مفقود | 2800/3000 مقعد، 5/7/9 مقعد، إطار عمل للفوضى |
-| نموذجي قدره 1.5T 9-seat M5L | دونغشيدي (懂车帝) | CN | https://www-hl.dongchedi.com/auto/series/445/model-92416 | 2026-09-02 | صرخات | 1.5T 140 kW / 300 N·m, 3000 mm WB, curb 1700 kg |
+| نموذجي قدره 1.5T 9-seat M5L | دونغشيدي (懂车帝) | CN | https://www-hl.dongchedi.com/auto/series/445/model-92416 | 2026-09-02 | صرخات | 1.5T 140 kW 300 N·m, 3000 mm WB, curb 1700 kg |
 | منضدة لينغزي | PCauto (太平洋汽车) | CN | https://car.pcauto.com.cn/360/m124835/config.html | 2026-09-02 | صرخات | Dimensions, CNG powertrain, WLTC 8.4, warranty, price |
 | لينجزي M5 مادة | Yiche (易车) | CN | https://m.yiche.com/zhai/261903/ | 2026-09-02 | صرخات | الطلقات، قاعدة العجلات، 7/9-seat مخطط |
 
 | مصممو السيارات على الطرق - نظام الاستفسارات العامة | وزارة الصناعة وتكنولوجيا المعلومات في الصين | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | مفقود | التحقق من الصانع والنموذج المعتمد والهجوم (公告) |
 | GB 16735-2019 المركبات البرية - الاحتياجات من رقم تحديد المركبات | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | مفقود | تركيبة الشبكة وربطة بيانات مستعملة في نظام التحقق الخاص بالمشتري |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | مفقود | الشروط التقنية المتعلقة بسلامة المركبات في الصين والإطار الزمني الحالي/التنقيحي |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | مفقود | الشروط التقنية المتعلقة بسلامة المركبات في الصين والإطار الزمني |
 | 18352.6-2016 GB مع التعديل XG1-2026 (الصين - 6 من انبعاثات ملوثات المركبات الخفيفة) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | مفقود | الصين - 6 مرحلة انبعاثات المركبات الخفيفة ومواعيد تنفيذ التعديل البالغ 2026 |
 
-* ملاحظة مُناسبة (معيار (أوتوبريدج): الأبعاد/مخططات العجلات/المقعد مُنقَط على صفحة (فورينغ) الرسمية، 1.5T/CNG مُتجرّد طاقة هي (كروس - CHECKED)... بالطبع ولم يكن حجم الحمولة/الشحن في قاعدة الوقائع، بل ترك للصحيفة الرسمية؛ ولم يتم تأكيد المواصفات التصديرية/الواردة على أساس الصحة الإنجابية. ♪
+* ملاحظة مُناسبة (معيار (أوتوبريدج): مُنقَط على صفحة (فورينغ) الرسمية، 1.5T/CNG مُتجرّد طاقة هي (كروس - CHECKED)... بالطبع ولم يكن حجم في قاعدة الوقائع، بل ترك للصحيفة الرسمية؛ ولم يتم تأكيد المواصفات على أساس الصحة الإنجابية. ♪
 
 ## استعراض التحرير
-- ** مستعرض/مراجع**: [فريق تحرير تصدير أوتو بريدج] (/مؤلف/) - طريقة لكل [سياستنا الانتخابية] (/سياسة التحرير/)
+- ** [فريق تحرير تصدير أوتو بريدج] (/مؤلف/) - طريقة لكل [سياستنا الانتخابية]
 - ** لم يُستعرض بعد**: 2026-09-05
 - ** سوق الإحالة**: الصين M5/M5L (صفحة نموذجية مخضرمة؛ وتختلف نماذج أسماء الصادرات وتتأكد في كل جهة مقصد)
 - ** طريقة التأهيل**: صفحة البارامترات الرسمية براند، بالإضافة إلى فحص البيانات المستقلة؛ ودليل/CNG وأصناف ذات مصدر واحد معبّدة

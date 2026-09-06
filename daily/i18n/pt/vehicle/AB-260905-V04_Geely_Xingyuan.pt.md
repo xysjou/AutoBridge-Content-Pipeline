@@ -1,13 +1,13 @@
-# Geely Xinguan / Galaxy Xinguan (2025/2026) — Especificações do BEV do mercado chinês e verificação da exportação
+# Geely Xinguan Galaxy Xinguan (2025/2026) — Especificações do BEV do mercado chinês e verificação da exportação
 
 ## SEO Meta- dados
 - ** Título SEO**: Geely Xingyuan (Galaxy Xingyuan) BEV: Especificações de mercado chinês e Guia de exportação
 - ** Descrição do Meta**: Geely Xinguan/Starwish pequeno EV: Arquitetura GEA, RWD,  58/85 kW motors,  310/410 km CLTC, Linha 40.16 kWh  and  Controlos de exportação de compradores.
-- ** H1 **: Geely Xinguan / Galaxy Xinguuan (2025/2026) — Especificações do BEV do mercado chinês e verificação da exportação
-- **Chave principal**: Geely / 吉利 Xingyuan / 吉利星愿 (Galaxy 星愿) especificações de exportação
+- ** H1 **: Geely Xinguan Galaxy Xinguuan (2025/2026) — Especificações do BEV do mercado chinês e verificação da exportação
+- **Chave principal**: Geely 吉利 Xingyuan 吉利星愿 (Galaxy 星愿) especificações de exportação
 - ** Termos de pesquisa secundários**: exportação geely Xinguuan; especificações de Galaxy Xinguuan; Geely Starwish; chinês pequeno hatchback elétrico; CLTC cidade EV
 - ** URL sugerida**: /veículos/geely-xinguan/
-- ** Intenção de pesquisa**: 了解 Geely / 吉利 Xingyuan / 吉利星愿（Galaxy 星愿） 中国版规格、配置与出口适配性（车型参数页）
+- ** Intenção de pesquisa**: 了解 Geely 吉利 Xingyuan 吉利星愿（Galaxy 星愿） 中国版规格、配置与出口适配性（车型参数页）
 - **As sugestões de ligação interna**: /veículos/geely-xinguan/, /guias/ev-shipping- un3556-imdg-compliance-history/, /guias/exportações-conformidade-sanções-sálvia-utilizador final/
 - **Schema Scope**: Artigo + Veículo (sem Produto/Oferta/Revisão)
 
@@ -15,24 +15,24 @@
 O ** Geely Xingyuan (Galaxy Xingyuan, comercializado em alguns mercados de exportação com um nome inglês separado)** é um hatchback elétrico de bateria de cinco portas de A0 na arquitetura **GEA de Geely, com **rear-motor/rear-wheel drive**. Esta página é a referência **Chinese-market**; um nome de modelo no exterior não é tratado como idêntico sem uma instrução OEM.
 
 ## Linhas elétricas de potência e gama
-- ** Corpo**: 4135 / 1805 / 1570 (STAR 限定版车长 4155) mm (edição STAR 4155 mm de comprimento), distância entre eixos 2650 mm, 5 门 5 座; 后置后驱.
-- **Motores**: 58 / 85 kW opções.
+- ** Corpo**: 4135 1805 1570 (STAR 限定版车长 4155) mm (edição STAR 4155 mm de comprimento), distância entre eixos 2650 mm, 5 门 5 座; 后置后驱.
+- **Motores**: 58 85 kW opções.
 - **Bateria**: 磷酸铁锂; a linha de capacidade capturada é 40.16 kWh para o carro de longo alcance. Um fornecedor específico de células aparece apenas em contas de enciclopédia/media e é **não confirmado pelo OEM**, por isso é retido.
-- * Range**: 310 / 410 km CLTC (verificados de forma cruzada) — um ciclo de teste chinês, não WLTP.
+- * Range**: 310 410 km CLTC (verificados de forma cruzada) — um ciclo de teste chinês, não WLTP.
 - ** Carga**: 375 (前备厢 70, 后排放倒 1320) L; plataforma GEA 纯电架构.
 - ** A potência de carregamento de Peak não é capturada de forma confiável e não é declarada. **
 
 ## Quadro de especificações verificados (referência do mercado chinês)
 | Especificação | Valor | Unidade | Mercado | Confiança | Nota de origem |
 |---|---|---|---|---|---|
-| largura de comprimento altura | 4135 / 1805 / 1570 (STAR 限定版车长 4155) | mm | CHINA | CROSS_CHECKED | 搜狐双页 |
+| largura de comprimento altura | 4135 1805 1570 (STAR 限定版车长 4155) | mm | CHINA | CROSS_CHECKED | 搜狐双页 |
 | distância entre eixos | 2650 | mm | CHINA | CROSS_CHECKED | 搜狐 + 腾讯 |
 | bancos | 5门5座 | - Não, não, não. | CHINA | FONTE ÚNICA | 搜狐车型库 |
 | disposição | 后置后驱 | - Não, não, não. | CHINA | FONTE ÚNICA | 腾讯新闻 |
-| opções de potência do motor | 58 / 85 | kW | CHINA | FONTE ÚNICA | 搜狐汽车 |
+| opções de potência do motor | 58 85 | kW | CHINA | FONTE ÚNICA | 搜狐汽车 |
 | tipo de bateria | 磷酸铁锂 | - Não, não, não. | CHINA | FONTE ÚNICA | 搜狐汽车 |
 | capacidade da bateria 410 | 40.16 | k Wh | CHINA | FONTE ÚNICA | 搜狐汽车 |
-| intervalo cltc | 310 / 410 | km | CHINA | CROSS_CHECKED | 搜狐 + 腾讯 |
+| intervalo cltc | 310 410 | km | CHINA | CROSS_CHECKED | 搜狐 + 腾讯 |
 | volume de carga | 375 (前备厢 70, 后排放倒 1320) | L | CHINA | FONTE ÚNICA | 搜狐车型库 |
 | plataforma | GEA 纯电架构 | - Não, não, não. | CHINA | FONTE ÚNICA | 腾讯新闻 |
 

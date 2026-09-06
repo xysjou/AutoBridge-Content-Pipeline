@@ -3,28 +3,28 @@
 ## เชา ข้อมูลกํากับภาพ
 - < secontinuation*: โฟทัน ออมาร์ก รีฟรีเกร์ก เอค เอคเอคส์ แอนด์ รีฟเวอร์ ไมโครซอฟต์
 - ** คําอธิบายของเมตา*: โฟตัน ออมาร์ก (Ollin) ฟอสเตอร์: 150 PS Jiayun Chasis, 4.085 m ประกอบด้วยร่างกาย GVW 4.495 t, Thermo King/Domestic Case และวิธีระบุรถที่อุ่นเครื่องสําหรับส่งออก
-- ~ที่อยู่ URL ที่ถูกย่อ: / เวกซี่/โฟตัน-อารีเอค
+- ~ที่อยู่ URL ที่ถูกย่อ: เวกซี่/โฟตัน-อารีเอค
 - ** H1 ~: โฟตัน ออมาร์ก รีฟรีเกร์กเจอร์ รถบรรทุก: แยกชาซิส, ร่างที่รวมเข้ากับเครื่องปฏิรูปและเครื่องปฏิรูป
 - ~ คําสําคัญในคอลัมน์ ~: Foton Audarmurreted carbooks expression
 - ~การค้นหาตามวาระที่: ~ รถบรรทุกโอลิน รีฟเฟอร์ ประเทศจีน โฟตัน คัมมินส์ 2.8 แช่เย็น เท อร์ โม กษัตริย์ T880 รถPro รถบรรทุก 4.5t รถขนดินส่งออก รถขนขยะจีนเย็น
-- ~ ลิงก์ภายในที่แนะนํา~ ~/ viohics/jac-king-light-hach/;////commercial-range - prink-raint-china/ chinishs/main-cargo-inzure-car-morts/
+- ~ ลิงก์ภายในที่แนะนํา~ viohics/jac-king-light-hach/;////commercial-range - prink-raint-china/ chinishs/main-cargo-inzure-car-morts/
 - ~คําแนะนําของโครงการ ~: มองเห็นร่างกายด้านข้าง; ห้องทําความเย็นบนหลังคารถแท็กซี่; กล่องบรรจุเนื้อภายในด้วยตะขอ; แผ่นชาสซี; ตัวควบคุมอุณหภูมิ
 - "รถบรรทุกแช่แข็งรุ่นฟลายตั้ม 4x4 ที่บรรจุกล่องบรรจุสารจีน" "Truck-mounted Themo King Creririgeration". "Reeffer Facter in in and Teal".
 
 ## วิธี ตรวจ ดู รถ บรรทุก ที่ ปรับ ตัว ได้
 
-A reefer is really **three products in one**: ผู้ บริจาค ฌาส ซี, กล่อง สินค้า ที่ เคลือบ ไว้, และ ห้อง ทํา ความ เย็น — มัก ทํา โดย ผู้ ผลิต คน ละ คน. Comparing "reefer truck prices" without naming all three is misleading. The reference vehicle is the **Aumark Jieyun (捷运) 150 PS 4×2, ประกาศเรื่องทางรถไฟทั้งลํา BJ5041XLC8JDA-AB1 (chasis BJ1041V9JDA-AB1) ~ด้วยศพแนวปะการัง 4.085 m m; โฟตันยังขายซูยยอน (速运) ด้วยอํานาจโฟตัน คูมมินส์ Detailed Jieyun figures are single-source (360che); Cummins Suyun รายละเอียดของการตรวจสอบกับ Folton ข้อมูลอย่างเป็นทางการ
+A reefer is really **three products in one**: ผู้ บริจาค ฌาส ซี, กล่อง สินค้า ที่ เคลือบ ไว้, และ ห้อง ทํา ความ เย็น — มัก ทํา โดย ผู้ ผลิต คน ละ คน. Comparing "reefer truck prices" without naming all three is misleading. The reference vehicle is the **Aumark Jieyun (捷运) 150 PS 4×2, ประกาศเรื่องทางรถไฟทั้งลํา BJ5041XLC8JDA-AB1 (chasis BJ1041V9JDA-AB1) ~ด้วยศพแนวปะการัง 4.085 m m; โฟตันยังขายซูยยอน (速运) ด้วยอํานาจโฟตัน คูมมินส์ Detailed Jieyun figures are single-source Cummins Suyun รายละเอียดของการตรวจสอบกับ Folton ข้อมูลอย่างเป็นทางการ 360che
 
 ## Chasis and Driveline
 
-| รายการ | Jiayun 150 อ้างอิง (Per 360che) |
+| รายการ | Jiayun 150 อ้างอิง (Per | 360che
 |---|---|
-| ประกาศ / ไดรฟ์ | BJ5041XLC8JDA-AB1 / BJ1041V9JDA-AB1, 4 × 2 เบสล้อ 3360 mm |
+| ประกาศ ไดรฟ์ | BJ5041XLC8JDA-AB1 BJ1041V9JDA-AB1, 4 × 2 เบสล้อ 3360 mm |
 | โอเวอร์วาวาเกีย | 5.995 × 2.32 × 3.42 m |
-| กลไก | ยุนไน D25TCIF1 2.5 L ในสาย 4 ดีเซล (พ.ศ. 110 kW (150 PS) / 400 N·m (พ.ศ.  China VI |
+| กลไก | ยุนไน D25TCIF1 2.5 L ในสาย 4 ดีเซล (พ.ศ. 110 kW (150 PS) 400 N·m (พ.ศ.  China VI |
 | กล่องปรับเลข | ZF 6-speed |
-| เคอร์บ / อัตราการโหลด / จีวีดับเบิลยู | 3.2 t / 1.1 t / **4.495 t** |
-| ไทระ / ความเร็วสูงสุด | 7.00R16LT 8PR ×6; 95 km/h |
+| เคอร์บ อัตราการโหลด จีวีดับเบิลยู | 3.2 t 1.1 t **4.495 t** |
+| ไทระ ความเร็วสูงสุด | 7.00R16LT 8PR ×6; 95 km/h |
 
 Out position=-suyun" พลังอํานาจ (official/cross-clook) Foton Cummins 2.8 L ที่ 156 PS โดยมีรุ่น 163 PS ที่ 470 N·m. ถ้าการให้บริการของบริษัทคอมมินส์มีความยาวมาก และมีค่านิยมระดับโลก มากกว่าค่าใช้จ่ายที่ซื้อได้ ก็เปรียบเทียบกันกับบริษัทซุมมินที่มีอํานาจกับยุนนีจียอน มากกว่าเลือกใช้แรงม้าอย่างเดียว
 
@@ -35,7 +35,7 @@ Out position=-suyun" พลังอํานาจ (official/cross-clook) Foton
 | กล่องปรับแนวปะการังของ Jeyun | 4.085 × 2.10 × 2.30 m |
 | กล่องซูยอน | 4.08 × 2.10 × 2.10 m  about **18 m³** |
 
-การแสดงของกล่องขึ้นอยู่กับความหนาและแผงควบคุม (แผงแผงจับของแผ่นไม้, ชนิดของโฟม และความหนาแน่น), การโหลดระดับชั้น, ตราประตูและว่าภายในเนื้อขาหรือเนื้อขา จะติดตั้ง — ร่าง proped-hook สําหรับส่งออก, ระบุ: ต้องการอุณหภูมิภายใน, องค์ประกอบ/ ความไม่สมดุล, ชนิดพื้น (แผ่นยาง) ด้านข้าง/ด้านประตู, และเนื้อ-ตะขอ หรือชั้นวาง These change payload (the insulated body is heavy — note the reference payload is only ~1.1 t at 4.495 t GVW)  and  ราคาสูงมาก
+การแสดงของกล่องขึ้นอยู่กับความหนาและแผงควบคุม (แผงแผงจับของแผ่นไม้, ชนิดของโฟม และความหนาแน่น), การโหลดระดับชั้น, ตราประตูและว่าภายในเนื้อขาหรือเนื้อขา จะติดตั้ง — ร่าง proped-hook สําหรับส่งออก, ระบุ: ต้องการอุณหภูมิภายใน, ความไม่สมดุล, ชนิดพื้น (แผ่นยาง) และเนื้อ-ตะขอ หรือชั้นวาง These change payload (the insulated body is heavy — note the reference payload is only ~1.1 t at 4.495 t GVW)  and  ราคาสูงมาก
 
 ## ตัวเลือกการไล่ระดับสี
 
@@ -45,16 +45,16 @@ Out position=-suyun" พลังอํานาจ (official/cross-clook) Foton
 - หน่วยช่วย เหลือ: Sanfang (三丰) 590 เรตติ้ง รอบ ๆ − 18 °C ** สําหรับสินค้าแช่แข็ง
 - ซีซี ชิปปิ้งกล่องสําหรับเคลื่อนย้ายซาก
 
-คําถามสําหรับตัดสินหน่วย: จําต้องการการตั้งค่าและลดเวลา (พิมพ์เมื่อ 0 ถึง + 5 °C vsแช่แข็ง SO 18 °C vs anfig-low), ยืนอยู่ (เครื่องยนตร์) vs ขับเคลื่อนรถ/คอมเพรสเซอร์ เตรียมปฏิบัติการไฟฟ้าสําหรับเสียบรถบรรทุก และ — วิกฤตสําหรับผู้นําเข้า -- transferer — per และสํารองอะไหล่สําหรับแบรนด์ทําความเย็น (ค.ศ. การนําเข้า Themo King/Ander หน่วยได้ง่ายกว่าในการให้บริการในประเทศหลาย ๆ ประเทศ แต่ต้นทุนมากขึ้น หน่วยในประเทศต้องการเส้นทางส่วนที่ยืนยันได้
+คําถามสําหรับตัดสินหน่วย: จําต้องการการตั้งค่าและลดเวลา (พิมพ์เมื่อ 0 ถึง + 5 °C vsแช่แข็ง SO 18 °C vs anfig-low), ยืนอยู่ (เครื่องยนตร์) vs เตรียมปฏิบัติการไฟฟ้าสําหรับเสียบรถบรรทุก และ — วิกฤตสําหรับผู้นําเข้า -- transferer — per และสํารองอะไหล่สําหรับแบรนด์ทําความเย็น (ค.ศ. การนําเข้า Themo King/Ander หน่วยได้ง่ายกว่าในการให้บริการในประเทศหลาย ๆ ประเทศ แต่ต้นทุนมากขึ้น หน่วยในประเทศต้องการเส้นทางส่วนที่ยืนยันได้
 
 ## สิ่งที่ออโตไบดเพิ่มเกินส่วนที่อ้างถึง
-นัก เดิน เรือ มัก จะ เรียก ราคา ชะมด และ ปล่อย กล่อง ไว้ และ ทํา ให้ เครื่อง เย็น ตัว เย็น เยือก. วิธีการที่แนะนําคือเก็บ... Chasis / resized box / resenterurations value เป็นสามบรรทัดที่แยกต่างหาก, แถวราคา *, ตรงกับค่าของ </ took/thicks and ค่าของ K บวกกับค่าอุณหภูมิของหน่วย และค่ารักษาอุณหภูมิ (ไฟฟ้า) ร่วมกับอุณหภูมิที่ทํางานอยู่ และตรวจสอบการรวมกันทั้งหมด กับอาหารที่ขายได้/ caterma capillation ก่อนการวาง
+นัก เดิน เรือ มัก จะ เรียก ราคา ชะมด และ ปล่อย กล่อง ไว้ และ ทํา ให้ เครื่อง เย็น ตัว เย็น เยือก. วิธีการที่แนะนําคือเก็บ... Chasis resized box resenterurations value เป็นสามบรรทัดที่แยกต่างหาก, แถวราคา *, ตรงกับค่าของ took/thicks and ค่าของ K บวกกับค่าอุณหภูมิของหน่วย และค่ารักษาอุณหภูมิ (ไฟฟ้า) ร่วมกับอุณหภูมิที่ทํางานอยู่ และตรวจสอบการรวมกันทั้งหมด caterma capillation ก่อนการวาง
 ## การตรวจสอบก่อนจ่ายเงิน
 
-- Obtain an University/coachener speck for Chasis, กล่องและห้องแช่เย็นแยกกัน! มีหมายเลขโมเดล; ตัวเลข 360che เป็นซิงเกิล-source.
+- Obtain an University/coachener speck for Chasis, กล่องและห้องแช่เย็นแยกกัน! มีหมายเลขโมเดล; ตัวเลข เป็นซิงเกิล-source. 360che
 - ยืนยัน **GW (อ้างอิง 4.495 t)  and  เก็บเงินจากเครือข่ายเมื่อกล่องที่บรรจุ  and  หน่วยนี้ติดตั้งไว้ ซากศพปะการังกินกระสุน  and  ปลายทางเริ่มเลินเล่อที่คลาส GVW นี้จะต้องตรวจสอบ
 - Confirm engine emission acceptance at destination (China VI is not automatic proof of local compliance)  and  เหมาะสมกับพลังงาน
-- ระบุอุณหภูมิที่ตั้ง, สเปกของแผงฉนวน ประตู/ทางเดิน และแบรนด์/ด้านเดียวของหน่วย ในการเขียน
+- ระบุอุณหภูมิที่ตั้ง, สเปกของแผงฉนวน ในการเขียน
 - ยืนยันการรับประกันความเย็นและพื้นที่หลังการสิ้นสุด ยืนยันว่าชาสซีสหลังการล้าง สําหรับ ยุนนี vs Cummins เครื่องยนต์
 - ยืนยัน LHD/RHD, tyreable (7.00R16LT 8PR) และไม่ว่าร่างกายของเครื่องปะการังจะเป็นโรงงานหรือติดตั้งภายใน ค.ศ.
 
@@ -64,8 +64,8 @@ Out position=-suyun" พลังอํานาจ (official/cross-clook) Foton
 
 ## โปรแกรมซื้อ FAQ
 
-~ทําไมปริมาณรถถึงมี 1.1 t คัน บนรถบรรทุก 4.495 t คัน~ กล่องที่ฝังและเครื่องทําความเย็น เพิ่มน้ําหนักการควบคุมอย่างมหาศาล (~ 3.2 t) ออกจาก ~ 1.1 t; เสมอคํานวณค่าตัว/หน่วยที่แน่นอน
-~ "หน่วยเดียว/ไม่พึ่งใคร" หมายความว่ายังไง? ~ รถ บรรทุก มี เครื่อง ยนต์ และ ความ เย็น ของ รถ เอง โดย ไม่ ต้อง พึ่ง เครื่อง ยนต์ — ที่ ใช้ ได้ กับ การ ขน ส่ง ที่ ยาว นาน และ เมื่อ จอด รถ; หน่วย ขับ รถ ถูก กว่า แต่ หยุด ทํา ความ เย็น ด้วย เครื่อง ยนต์.
+~ทําไมปริมาณรถถึงมี 1.1 t คัน บนรถบรรทุก 4.495 t คัน~ กล่องที่ฝังและเครื่องทําความเย็น เพิ่มน้ําหนักการควบคุมอย่างมหาศาล (~ 3.2 t) ออกจาก ~ 1.1 t;
+~ ~ รถ บรรทุก มี เครื่อง ยนต์ และ ความ เย็น ของ รถ เอง โดย ไม่ ต้อง พึ่ง เครื่อง ยนต์ — ที่ ใช้ ได้ กับ การ ขน ส่ง ที่ ยาว นาน และ เมื่อ จอด รถ; หน่วย ขับ รถ ถูก กว่า แต่ หยุด ทํา ความ เย็น ด้วย เครื่อง ยนต์.
 ~ซึ่งดีกว่า  Yunnei or Cummins power?** The reference Jieyun uses a Yunnei 2.5 L 150 PS; the Suyun offers a Foton Cummins 2.8 L (156/163 PS) with a global service footprint — choose by service network  and  งบประมาณ
 **What temperature can it hold?** The listed domestic Sanfeng 590 targets −18 °C frozen work; จุดเซตที่สามารถวัดได้ ขึ้นอยู่กับหน่วยที่เลือกและฉนวน, ดังนั้นระบุมัน
 ทําไมราคาไม่ต้องจ่าย ราคา เครื่อง ลาด ตระเวน ขึ้น อยู่ กับ กล่อง และ หน่วย ทํา ความ เย็น อย่าง มาก; ไม่ มี การ จับ จ่าย ราคา ที่ เชื่อ ถือ ได้ 2026-09-02 ดอลลาร์ และ จะ ไม่ มี การ กะ ประมาณ.
@@ -78,43 +78,43 @@ Out position=-suyun" พลังอํานาจ (official/cross-clook) Foton
 - ลิขสิทธิ์: ไม่ยืนยัน
 - LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
 - _กําหนดวันที่: 2026-09-06
-- MERCUL_ TOPIC_ MATCH: ต้องตรงกับรุ่น/ การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
-- CHAR_SCPE_NOTE: ตรงกับโมเดลที่เป๊ะของครอบครัว/ topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
+- MERCUL_ TOPIC_ MATCH: การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
+- CHAR_SCPE_NOTE: topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
 - March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
 - BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
 - ALT ด้วยภาษา:
-  - **EN**: AutoBridge export-buyer reference — Foton Aumark, petrol/diesel Chinese-market vehicle / refrigerated truck
-  - **FR**: Référence AutoBridge pour acheteurs export — Foton Aumark, véhicule thermique (marché chinois) / camion frigorifique
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Foton Aumark, Verbrenner (chinesischer Markt) / Kühl-Lkw
-  - **ES**: Referencia AutoBridge para compradores de exportación — Foton Aumark, vehículo de combustión (mercado chino) / camión frigorífico
-  - **PT**: Referência AutoBridge para compradores de exportação — Foton Aumark, veículo a combustão (mercado chinês) / caminhão refrigerado
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Foton Aumark, 中国市場仕様 内燃機関車 / 冷凍車
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Foton Aumark, 중국 시장 내연기관 차량 / 냉동·냉장 트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Foton Aumark, xe động cơ đốt trong (thị trường Trung Quốc) / xe tải lạnh
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Foton Aumark, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถบรรทุกห้องเย็น
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Foton Aumark, kendaraan mesin pembakaran (pasar Tiongkok) / truk berpendingin
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Foton Aumark, مركبة بمحرك احتراق (سوق الصين) / شاحنة مبردة
-  - **ZH**: AutoBridge 出口采购参考｜Foton Aumark, 中国市场燃油车 / 冷藏车
+  - **EN**: AutoBridge export-buyer reference — Foton Aumark, petrol/diesel Chinese-market vehicle refrigerated truck
+  - **FR**: Référence AutoBridge pour acheteurs export — Foton Aumark, véhicule thermique (marché chinois) camion frigorifique
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Foton Aumark, Verbrenner (chinesischer Markt) Kühl-Lkw
+  - **ES**: Referencia AutoBridge para compradores de exportación — Foton Aumark, vehículo de combustión (mercado chino) camión frigorífico
+  - **PT**: Referência AutoBridge para compradores de exportação — Foton Aumark, veículo a combustão (mercado chinês) caminhão refrigerado
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Foton Aumark, 中国市場仕様 内燃機関車 冷凍車
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Foton Aumark, 중국 시장 내연기관 차량 냉동·냉장 트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Foton Aumark, xe động cơ đốt trong (thị trường Trung Quốc) xe tải lạnh
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Foton Aumark, รถเครื่องยนต์สันดาป (ตลาดจีน) รถบรรทุกห้องเย็น
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Foton Aumark, kendaraan mesin pembakaran (pasar Tiongkok) truk berpendingin
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Foton Aumark, مركبة بمحرك احتراق (سوق الصين) شاحنة مبردة
+  - **ZH**: AutoBridge 出口采购参考｜Foton Aumark, 中国市场燃油车 冷藏车
 
 ## ต้นฉบับและการตรวจสอบสิทธิ์
 
 | ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| Aumark Jieyun 150 reefer parameters | 360che (卡车之家) (พ.ศ. | CN | http://product.m.360che.com/m441/110460_param.html | 2026-09-02 | ROOS_ CHCKED | สํานักพิมพ์, เครื่องยนต์ยุนไน, ZF6, น้ําหนัก, กล่อง, ตัวเลือกหน่วย |
+| Aumark Jieyun 150 reefer parameters | (卡车之家) (พ.ศ. | CN | http://product.m.360che.com/m441/110460_param.html | 2026-09-02 | ROOS_ CHCKED | สํานักพิมพ์, เครื่องยนต์ยุนไน, ZF6, น้ําหนัก, กล่อง, ตัวเลือกหน่วย | 360che
 | หน้าเครื่องฉายภาพแบบทางการของโอลิน | โฟตอนโอลิน (พ.ศ. | CN | https://ollin.foton.com.cn/car/zycshow/TaTn7qVL6p26qu6p7FrF5q | 2026-09-02 | เปิดใช้งาน | ตัวเลือกของเครื่องยนต์ pread-crack, อนุกรมกล่องแบบหนา |
 | เคสของซอยอนฟราเออร์ | โฟตอนโอลิน (พ.ศ. | CN | https://ollin.foton.com.cn/ollin/static/html/8CLv714yzXPaamAd6STbfe.html | 2026-09-02 | เปิดใช้งาน | 4.2 เม.ฟรอนเซอร์ (พ.ศ. คัมมิน 2.8  18 m³, 3360 WB |
 | บทความ ของ โอ ล ลิน ฟ อร์ เทน เซอร์ | ดองแมดติ (懂车帝) | CN | https://www-lq.dongchedi.com/article/7579095048919908888 | 2026-09-02 | ROOS_ CHCKED | Cummins 150/163 PS, 470 N·m |
 
 | ผู้ ผลิต และ แคตตาล็อก ผลิตภัณฑ์ ถนน — ระบบ สอบ ถาม ของ ประชาชน |  MIT, กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูลจีน | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | เปิดใช้งาน | ตรวจสอบผู้ผลิต, โมเดลที่อนุญาต และการทําอัลบั้มแบบแบ่งประเภท (公告) ก่อนการสั่งซื้อหรือส่งออก |
-| ขนาด GB 16735-2019 รถ ที่ ใช้ ถนน — หมาย เลข รถ (VIN) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | เปิดใช้งาน | โครงสร้างและชื่อของ platt language ที่ใช้ในการตรวจสอบความถูกต้องของผู้ซื้อ/ ชื่อ |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน สภาวะความปลอดภัยทางเทคนิคและเวลาปัจจุบัน/การปรับปรุง |
+| ขนาด GB 16735-2019 รถ ที่ ใช้ ถนน — หมาย เลข รถ (VIN) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | เปิดใช้งาน | โครงสร้างและชื่อของ platt language ชื่อ |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน |
 | GB 18352.6-2016 ด้วยระบบไฟฟ้าลัดวงจร XG1-2026 (จีน- 6 ปริมาตรแสงโพลีเจนต์) | กระทรวง นิเวศ วิทยา และ สิ่ง แวด ล้อม (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | เปิดใช้งาน | จีน 6 ระดับแสงและน้ําใส และวันที่ดําเนินการ 2026 มาตราฐาน |
-| GB 19147 เครื่องยนต์ดีเซลมาตรฐานเชื้อเพลิงแห่งชาติ (ฐานเชื้อเพลิงต่ํา) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | เปิดใช้งาน | ระดับเชื้อเพลิงดีเซลและซัลเฟอร์พื้นฐานที่ตรงกับการออกแบบเครื่องยนต์/การให้บริการต่างประเทศ |
+| GB 19147 เครื่องยนต์ดีเซลมาตรฐานเชื้อเพลิงแห่งชาติ (ฐานเชื้อเพลิงต่ํา) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | เปิดใช้งาน | |
 
 *บันทึกการยอมรับ (มาตรฐานของ ออโตริด): Cummins/Susyun true transact are verviewed on Faton-official file and cross-cossed; รายละเอียดการประกาศของจียอนคือ Single_sEOE (360che). เครื่องสํารวจโมเดลและราคาเป็นการสร้างความพึ่งพา และไม่สามารถดําเนินการได้ด้วยราคา ยืนยันในการเขียน *
 
 ## การทบทวนแก้ไข
-- ~Uuthor/ retrieved~: [บีดริดจ์ ส่งออกทีมแก้ไข] (/ ผู้เขียน/) วิธี [แก้ไข] ของเรา [นโยบายการเลือ [/ การแก้ไข- policy/]
+- ~Uuthor/ retrieved~: [บีดริดจ์ ส่งออกทีมแก้ไข] วิธี [แก้ไข] ของเรา [นโยบายการเลือ การแก้ไข- policy/]
 - ~ถูกตรวจสอบแล้ว~: 2026-09-05
 - ~ตลาดแห่งความรุ่งเรือง: จีน การตั้งค่าประกาศผลปัจจุบัน
 - ~ วิธีการสร้าง ♪: faon วัสดุอย่างเป็นทางการ บวกฐานข้อมูลการค้าอิสระ chasis/body/ยูนิโค้ดถูกแยกไว้ ช่องว่างของทรัพยากรและราคาเปิดเผย

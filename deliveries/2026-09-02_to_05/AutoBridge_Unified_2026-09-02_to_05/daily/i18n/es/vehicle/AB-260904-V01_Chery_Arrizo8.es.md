@@ -2,7 +2,7 @@
 
 ## SEO Metadatos
 - **SEO Título**: Chery Arrizo 8 Specs & Export Buyer Guide (1.6TGDI, China Reference)
-- **Meta Descripción**: Mercado chino Chery Arrizo 8 — 1.6T Kunpeng 145 kW / 290 N·m, 7DCT, 4780 mm cuerpo, las distinciones de borde que importa, y lo que los importadores verifican antes de ordenar.
+- **Meta Descripción**: Mercado chino Chery Arrizo 8 — 1.6T Kunpeng 145 kW 290 N·m, 7DCT, 4780 mm cuerpo, las distinciones de borde que importa, y lo que los importadores verifican antes de ordenar.
 - ** URL agregada**: /vehículos/chery-arrizo- 8/
 - ** H1 **: Chery Arrizo 8: Especificaciones de China-Marco y Notas de Verificación de Exportaciones
 - **Primary Keyword**: chery arrizo 8 specs export
@@ -28,9 +28,9 @@ El Arrizo 8 es el salón de paso de Chery, tamaño entre los campos tradicionale
 Para un salón de ICE las decisiones de adquisición se concentran en ** código de ingeniería, tipo de caja de cambios y etapa de emisión**. Fijar los tres contra el VIN en lugar del nombre del folleto; vea la guía de la compatibilidad con emisiones/compulsores por qué una calibración China- 6 todavía necesita homologación de destino.
 
 ## Cuerpo, Dimensiones y Comedor
-- Longitud / ancho / altura: ** 4780 / 1843 / 1469 mm **
+- Longitud ancho altura: ** 4780 1843 1469 mm **
 - Base de ruedas: ** 2790 mm **
-- Puertas / asientos: ** 4 puertas / 5 asientos**
+- Puertas asientos: ** 4 puertas 5 asientos**
 La base de ruedas 2790 mm es lo que coloca el coche por encima de un sedán compacto estándar; cruza la base de rueda contra el código modelo en la forma pro por lo que un Arrizo más pequeño no es sustituido.
 
 ## Diferencias de la versión y el Trim para mantener
@@ -46,7 +46,7 @@ La base de ruedas 2790 mm es lo que coloca el coche por encima de un sedán comp
 5. **Modo de envío** — un recipiente de 4.78 m de saloon o estiba RoRo; confirme el recuento de plan de carga en lugar de estimar.
 
 ## Solicitar una calificación de exportación actual
-No se publica ningún precio de exportación estático. El precio de la guía china (una referencia de 2024 卓越 trim alrededor de RMB 99, 900) es una figura **doméstica y sensible al tiempo solamente — no es una cita FOB o CIF y no debe convertirse en uno**. Consulta con ** País de destino · Cantidad · Trim preferido · LHD/RHD · Puerto de destino · Incoterm**.
+No se publica ningún precio de exportación estático. El precio de la guía china (una referencia de 2024 卓越 trim alrededor de RMB 99,900) es una figura **doméstica y sensible al tiempo solamente — no es una cita FOB o CIF y no debe convertirse en uno**. Consulta con ** País de destino · Cantidad · Trim preferido · LHD/RHD · Puerto de destino · Incoterm**.
 
 ## Preguntas frecuentes
 **¿El Arrizo 8 es un salón compacto o de tamaño medio?** A 4780 mm largo con una base de 2790 mm ruedas se encuentra en el borde superior del campo compacto, cerca de dimensiones de Ejecución B - clasificarla por la huella medida, no por la etiqueta de marketing.
@@ -67,25 +67,25 @@ No se publica ningún precio de exportación estático. El precio de la guía ch
 - IMAGE_RIGHTS_STATUS: FAIL (no se acepta ningún activo con licencia; no se acepta un titular de posición o “retiene la imagen antigua”)
 - BLOCK_REASON: No se puede asegurar una imagen reutilizable: Wikimedia Commons/Flickr no son accesibles desde el entorno de investigación, las bibliotecas de stock requieren acceso a API/licencia autenticada, y una imagen de página web OEM NO es una subvención comercial de reutilización; no existe foto de propiedad de AutoBridge. Se quedó con la FAIL en lugar de afirmarse.
 - ALT por idioma:
-  - **EN**: AutoBridge export-buyer reference — Chery Arrizo 8, petrol/diesel Chinese-market vehicle / sedan
-  - **FR**: Référence AutoBridge pour acheteurs export — Chery Arrizo 8, véhicule thermique (marché chinois) / berline
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Chery Arrizo 8, Verbrenner (chinesischer Markt) / Limousine
-  - **ES**: Referencia AutoBridge para compradores de exportación — Chery Arrizo 8, vehículo de combustión (mercado chino) / berlina
-  - **PT**: Referência AutoBridge para compradores de exportação — Chery Arrizo 8, veículo a combustão (mercado chinês) / sedã
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Chery Arrizo 8, 中国市場仕様 内燃機関車 / セダン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Chery Arrizo 8, 중국 시장 내연기관 차량 / 세단
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Chery Arrizo 8, xe động cơ đốt trong (thị trường Trung Quốc) / sedan
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Chery Arrizo 8, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถเก๋งซีดาน
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Chery Arrizo 8, kendaraan mesin pembakaran (pasar Tiongkok) / sedan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Chery Arrizo 8, مركبة بمحرك احتراق (سوق الصين) / سيدان
-  - **ZH**: AutoBridge 出口采购参考｜Chery Arrizo 8, 中国市场燃油车 / 轿车
+  - **EN**: AutoBridge export-buyer reference — Chery Arrizo 8, petrol/diesel Chinese-market vehicle sedan
+  - **FR**: Référence AutoBridge pour acheteurs export — Chery Arrizo 8, véhicule thermique (marché chinois) berline
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Chery Arrizo 8, Verbrenner (chinesischer Markt) Limousine
+  - **ES**: Referencia AutoBridge para compradores de exportación — Chery Arrizo 8, vehículo de combustión (mercado chino) berlina
+  - **PT**: Referência AutoBridge para compradores de exportação — Chery Arrizo 8, veículo a combustão (mercado chinês) sedã
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Chery Arrizo 8, 中国市場仕様 内燃機関車 セダン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Chery Arrizo 8, 중국 시장 내연기관 차량 세단
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Chery Arrizo 8, xe động cơ đốt trong (thị trường Trung Quốc) sedan
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Chery Arrizo 8, รถเครื่องยนต์สันดาป (ตลาดจีน) รถเก๋งซีดาน
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Chery Arrizo 8, kendaraan mesin pembakaran (pasar Tiongkok) sedan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Chery Arrizo 8, مركبة بمحرك احتراق (سوق الصين) سيدان
+  - **ZH**: AutoBridge 出口采购参考｜Chery Arrizo 8, 中国市场燃油车 轿车
 
 ## Fuentes " Verificación "
 | Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |
 |---|---|---|---|---|---|---|
 | Arrizo 8 2024 1.6T DCT página del parámetro Excellence | Base de datos ZOL Auto | CN | https://detail.zol.com.cn/car/index2030152.shtml | 2026-09-04 | CROSS_CHECKED | Dimensiones, rueda de rueda, motor, caja de cambios, estructura |
 | Arrizo 8 1.6T DCT Parámetros de Excelencia | Base de datos Sohu Auto | CN | https://db.m.auto.sohu.com/trim_171975 | 2026-09-04 | CROSS_CHECKED | Power, PS, dimensiones, referencia a precios nacionales |
-| Chery Arrizo 8 1.6T análisis de potencia | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/19508971?isfrom=pc | 2026-09-04 | CROSS_CHECKED | 145 kW / 197 PS / 290 N·m / 7DCT |
+| Chery Arrizo 8 1.6T análisis de potencia | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/19508971?isfrom=pc | 2026-09-04 | CROSS_CHECKED | 145 kW 197 PS 290 N·m 7DCT |
 | Fabricantes & catálogo de productos de vehículos de motor de carretera — sistema de consulta pública | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verificar el fabricante, modelo aprobado y homologación (公告) entrada de catálogo antes de ordenar o exportar |
 | GB 16735-2019 Vehículos de carretera - Número de identificación de vehículos (VIN) | SAMR plataforma de texto completo | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | Estructura VIN y campos de datos de placa de nombre utilizados en la verificación VIN/nameplate del comprador |
 | GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Base de referencia en China condiciones técnicas de seguridad del vehículo y el cronograma actual/revisión |

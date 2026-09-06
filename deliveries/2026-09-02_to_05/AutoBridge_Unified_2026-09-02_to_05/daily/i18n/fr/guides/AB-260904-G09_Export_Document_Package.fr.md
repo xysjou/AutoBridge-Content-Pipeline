@@ -16,12 +16,12 @@ Les guides de documentation citent souvent une norme de certificat obligatoire c
 
 ## La norme de certificat actuelle (vérifiée)
 - ** NORME DU CURRENT: GB/T 21085-2020 * Certificat d'usine de véhicules automobiles*** — norme nationale recommandée**, délivrée 2020-04-28, en vigueur 2020-11-01, et **revue comme étant toujours en vigueur sur 2026-01-27 **. Le certificat d'usine est délivré par l'entreprise de fabrication.
-- **FUTURE / PROJET: obligatoire * Certificat d'usine de véhicules*, numéro de plan 20260041-Q-339 ** — destiné à remplacer GB/T 21085-2020, attribué 2026-01-27 par un cycle 16-month et actuellement sous approbation; le texte du MIIT "GB 21085 —XXXX" est un projet de consultation**. Il est **non publié, non efficace et ne doit jamais être étiqueté à jour ou obligatoire** dans un document faisant appel à l'acheteur.
+- **FUTURE PROJET: obligatoire * Certificat d'usine de véhicules*, numéro de plan 20260041-Q-339 ** — destiné à remplacer GB/T 21085-2020, attribué 2026-01-27 par un cycle 16-month et actuellement sous approbation; le texte du MIIT "GB 21085 —XXXX" est un projet de consultation**. Il est **non publié, non efficace et ne doit jamais être étiqueté à jour ou obligatoire** dans un document faisant appel à l'acheteur.
 
 ## Le jeu de documents de remise (transversé)
 Un véhicule neuf livré au pays voyage normalement avec: facture de vente complète, certificat d'usine (national), feuille d'inspection des marchandises, **certificat de conformité**, bon de garantie (trois garanties), manuel d'entretien, manuel du propriétaire et liste des outils et des espares embarqués. Pour **les ventes à l'exportation de véhicules neufs**, l'étape d'immatriculation nationale exige en outre le certificat de sécurité/inspection technique du fabricant (original)** et une copie de la licence d'exportation de véhicules automobiles de l'autorité commerciale** (selon les règles d'immatriculation des véhicules automobiles).
 
-## Multi-étape / véhicule incomplet Règle: Retiré en attendant une base actuelle
+## Multi-étape véhicule incomplet Règle: Retiré en attendant une base actuelle
 Un avant-projet a décrit comment les véhicules achevés à partir de véhicules incomplets importés ou par le biais de la fabrication en plusieurs étapes ne seraient délivrés qu'un certificat d'usine de véhicules entiers. La seule source de cette règle est un projet de consultation**; elle n'est pas confirmée par le texte actuel du GB/T 21085-2020 ou par tout règlement actuel**, de sorte qu'elle n'est pas indiquée comme une exigence actuelle** ici. Traiter chaque cas de ce genre jusqu'à ce qu'il existe une base non-ébauche.
 
 ## Questions relatives à la VAN et à la traduction — Recommandation éditoriale, pas un mandat

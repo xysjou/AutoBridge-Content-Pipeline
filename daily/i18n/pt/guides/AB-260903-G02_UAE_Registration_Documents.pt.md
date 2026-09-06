@@ -33,11 +33,11 @@ Requisitos comunicados (orientação prévia, a confirmar com o emirado de compe
 
 ## Direito e IVA: Números reportados, não números fixos
 - Os guias de encaminhamento citam **cerca de 5% direitos aduaneiros sobre o valor CIF (contexto pautal comum externo do CCG) e cerca de 5% IVA**.
-- Tratar tanto como **reported, time-sensível valores**: a taxa aplicável pode depender do tipo de veículo, classificação HS, zona livre vs movimentação continental e regras federais atuais. **Classifique o código HS exato → obter a atual linha de pauta aduaneira → confirmar o tratamento do IVA na base aduaneira aplicável.** Não cozer 5% / 5% em uma cotação de cliente como garantido.
+- Tratar tanto como **reported, time-sensível valores**: a taxa aplicável pode depender do tipo de veículo, classificação HS, zona livre vs movimentação continental e regras federais atuais. **Classifique o código HS exato → obter a atual linha de pauta aduaneira → confirmar o tratamento do IVA na base aduaneira aplicável.** Não cozer 5% 5% em uma cotação de cliente como garantido.
 - Os EAU indicaram uma política nacional de EV** com incentivos direcionais (por exemplo, medidas de registro/estacionamento e cobrança/toll); estas são políticas-direção e sensíveis ao tempo – confirmam oficialmente a disponibilidade atual e elegibilidade.
 
 ## O passo de registo RTA (Mulkiya)
-Após a liberação aduaneira, o comprador aplica-se ao RTA com (referido): válido **seguro**, uma inspeção ** veículo**, e **identidade / documentos de licença de comércio**, então recebe o Mulkiya. Os registos das frotas/empresas diferem dos registos individuais; confirmam se uma entidade continental ou de zona franca altera a papelada.
+Após a liberação aduaneira, o comprador aplica-se ao RTA com (referido): válido **seguro**, uma inspeção ** veículo**, e **identidade documentos de licença de comércio**, então recebe o Mulkiya. Os registos das frotas/empresas diferem dos registos individuais; confirmam se uma entidade continental ou de zona franca altera a papelada.
 
 ## O que este Guia Recomenda que você confirme antes do pagamento
 1. **Emirado da entrada** e do atual documento aduaneiro/escritório das taxas desse emirado.
@@ -82,12 +82,12 @@ Após a liberação aduaneira, o comprador aplica-se ao RTA com (referido): vál
 ## Fontes e Verificação
 | Título do código fonte | Organização | Mercado | URL | Verificado | Confiança | Factos corroborados |
 |---|---|---|---|---|---|---|
-| Guia de desembaraço e Impostos do Médio Oriente (Saudi/Dubai) | 11467 material de transporte de mercadorias | EAU | https://m.11467.com/product/d43094475.htm | 2026-09-03 | CROSS_CHECKED | Documentos de autorização; consistência factura/B/L/CO; sequência RTA/Mulkiya |
-| Lista de documentos NEV export-to-Dubai | 11467 material de transporte de mercadorias | EAU | https://m.11467.com/product/d31835834.htm | 2026-09-03 | TIM_SENSITIVO | Notificado ~ 5% direitos/~ 5% IVA; GCC/GSO + Nota ESMA/MoIAT |
-| EVs chineses receberam no Oriente Médio (política nacional EV dos Emirados Árabes Unidos) | Haiwainet / Toutiao | EAU | http://m.toutiao.com/group/7392857722481410569/ | 2026-09-03 | TIM_SENSITIVO | Incentivos nacionais direccionais à política EV |
+| Guia de desembaraço e Impostos do Médio Oriente (Saudi/Dubai) | material de transporte de mercadorias | EAU | https://m.11467.com/product/d43094475.htm | 2026-09-03 | CROSS_CHECKED | Documentos de autorização; consistência factura/B/L/CO; sequência RTA/Mulkiya | 11467
+| Lista de documentos NEV export-to-Dubai | material de transporte de mercadorias | EAU | https://m.11467.com/product/d31835834.htm | 2026-09-03 | TIM_SENSITIVO | Notificado ~ 5% direitos/~ 5% IVA; GCC/GSO + Nota ESMA/MoIAT | 11467
+| EVs chineses receberam no Oriente Médio (política nacional EV dos Emirados Árabes Unidos) | Haiwainet Toutiao | EAU | http://m.toutiao.com/group/7392857722481410569/ | 2026-09-03 | TIM_SENSITIVO | Incentivos nacionais direccionais à política EV |
 *Teto de evidência: fontes são guias de encaminhamento (T3) e mídia chinesa — nenhuma página principal dos EAU-customs/RTA foi capturada. Por conseguinte, os direitos/IVA/fees e os incentivos à EV são apresentados como comunicados e sensíveis ao tempo, a confirmar com os costumes federais dos EAU e os ATT do emirado de entrada. Não é afirmada nenhuma taxa fixa. *
 
-| Apuramento de efeitos pessoais (importação de veículos novos/utilizados); Documentos necessários; 5% direitos aduaneiros sobre os produtos objecto de apreciação | Alfândega de Dubai (Governo de Dubai) | DUBAI | https://www.dubaicustoms.gov.ae/en/eServices/ServicesForIndividuals/Pages/ClearanceOfPersonalEffects.aspx | 2026-09-04 | VERIFICADO | 5% direitos sobre o valor aduaneiro; fatura original / lista de embalagem / conhecimento de embarque / passaporte ou cópia de ID da Emirates; inspeção & avaliação |
+| Apuramento de efeitos pessoais (importação de veículos novos/utilizados); Documentos necessários; 5% direitos aduaneiros sobre os produtos objecto de apreciação | Alfândega de Dubai (Governo de Dubai) | DUBAI | https://www.dubaicustoms.gov.ae/en/eServices/ServicesForIndividuals/Pages/ClearanceOfPersonalEffects.aspx | 2026-09-04 | VERIFICADO | 5% direitos sobre o valor aduaneiro; fatura original lista de embalagem conhecimento de embarque passaporte ou cópia de ID da Emirates; inspeção & avaliação |
 | Mecanismo para determinar o valor da carga de passageiros (depreciação por anos) PDF | Alfândega de Dubai | DUBAI | https://www.dubaicustoms.gov.ae/en/PoliciesAndNotices/Policies/mechanismfordeterminingthevalueofpassengerscargotr.pdf | 2026-09-04 | VERIFICADO | veículos utilizados avaliados por um calendário de amortização baseado no ano antes do serviço |
 | Guia do IVA sobre comércio electrónico (VATGEC1) § 3.5.1 — IVA sobre as importações 5% sobre o valor aduaneiro, incl. frete, seguro, taxas aduaneiras, | Autoridade Fiscal Federal dos EAU (ACL) | EAU | https://tax.gov.ae/ | 2026-09-04 | VERIFICADO | IVA de importação 5%; base IVA = valor aduaneiro (CIF) + direito |
 | Veículos registados (certificado aduaneiro ou transferência/exportação/certificado de posse; Emirates ID; passaporte/res | Portal do Governo Federal dos Emirados Árabes Unidos (u.ae) | EAU | https://u.ae/en/information-and-services/transportation/driving-and-licensing/registering-vehicles | 2026-09-04 | VERIFICADO | Documento de registo definido; certificado aduaneiro é a ponte do desalfandegamento ao desalfandegamento |
@@ -95,9 +95,9 @@ Após a liberação aduaneira, o comprador aplica-se ao RTA com (referido): vál
 | Lista de regulamentos técnicos GSO para veículos a motor (MY2027-D3), incl. Linha temporal dos EAU Euro- 6b | Organização de Normalização do GCC (GSO) | GCC | https://www.gso.org.sa/ | 2026-09-04 | FONTE ÚNICA | Novo tipo de EAU Euro- 6b de 2026-01-01; todas as importações de 2027-07-01 |
 
 ## Revisão Editorial
-- **Autor / revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)
+- **Autor revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)
 - ** Última revisão**: 2026-09-05
-- **Mercado de referência / âmbito de aplicação**: exemplo de trabalho dos EAU (método transferível para o CCG; especificidades de país não generalizadas)
+- **Mercado de referência âmbito de aplicação**: exemplo de trabalho dos EAU (método transferível para o CCG; especificidades de país não generalizadas)
 - ** Método de verificação**: Síntese de fontes de encaminhamento com limite máximo de evidência explícito; taxas comunicadas sinalizadas para confirmação oficial por PRIMARY_SOURCE_SCOPE regra
 - ** Norma editorial**: Pesquisado e escrito a partir das fontes listadas acima (pesquisa de mesa; nenhuma condução em primeira mão, demolição ou importação é reivindicada). A confiança na fonte é mostrada por linha; qualquer ponto que não podemos confirmar independentemente é apresentado como um item de verificação em vez de afirmado como fato.
 #AutoBridge #UAEImport #VehicleRegistration #CustomsClearance #ExportProcurement

@@ -1,10 +1,10 @@
-# Forthing Lingzhi M5 2024 — Vanne de travail / MPV commercial: Assise, motorisations et contrôles d'exportation
+# Forthing Lingzhi M5 2024 — Vanne de travail MPV commercial: Assise, motorisations et contrôles d'exportation
 
 ## OEuvre Métadonnées
 - **Référencement**: Forthing Lingzhi M5 2024 Van Specs, Sièges & Guide d'exportation de GNC/Pétrol
 - **Description de la Méta**: 2024 Dongfeng Forthing Lingzhi M5 (M5L) Spécifications de la Chine: 5/7/9-seat plans, deux empattements, 1.5T essence 6MT et 1.6L GNC 5MT, dimensions et points de vérification des acheteurs commerciaux.
 - **URL suggérée**: /véhicules/forthing-lingzhi- m5/
-- ** H1 **: Forthing Lingzhi M5 / M5L 2024 (Chine): Carte de spécifications Van pour les acheteurs commerciaux
+- ** H1 **: Forthing Lingzhi M5 M5L 2024 (Chine): Carte de spécifications Van pour les acheteurs commerciaux
 - **Mot-clé principal**: Forthing Lingzhi M5 spécifications de fourgon exportation
 - ** Termes de recherche secondaires**: Dongfeng Lingzhi M5L 9-seat, Forthing M5 GNC 1.6, exportation de camionnettes MPV commerciales chinoises, Lingzhi M5, fourgonnettes de passagers Dongfeng
 - **Suggestions de lien interne**: /véhicules/gac-trompchi-m8/; /guides/trafic commercial-pneumatique-approvisionnement-china/; /guides/drive-droite-chinois-cars/
@@ -21,7 +21,7 @@ Le Lingzhi M5 est un véhicule à moteur avant/commercial MPV**, conçu pour le 
 |---|---|---|
 | Longueur × Largeur × Hauteur | 5135 × 1720 × 1970 mm | Même largeur/hauteur, corps plus court |
 | Empattement | 3000 mm | 2800 mm |
-| Disposition des sièges | 7 9 sièges | 5 / 7 / 8 sièges |
+| Disposition des sièges | 7 9 sièges | 5 7 8 sièges |
 
 Dimensions, empattements et disposition des sièges sont **VÉRIFIÉ** par rapport à la page de paramètres officiels de Forthing et appariés par les bases de données. Le corps grand et proche de la verticale (1970 mm hauteur) est une boîte de chargement/personnes délibérée - le volume intérieur utile est l'objectif de conception. Confirmer le nombre exact de sièges, car le même label " M5L " couvre à la fois 7- et 9-seat constructions.
 
@@ -29,17 +29,17 @@ Dimensions, empattements et disposition des sièges sont **VÉRIFIÉ** par rappo
 
 | Groupe motopropulseur | Moteur | Puissance/couple | Transmission |
 |---|---|---|---|
-| 1.5T essence (M5L) | Turbo L4 | 140 kW (190 PS) / 300 N·m | ** Manuel 6-speed** |
-| 1.6L GNC | Aspiration naturelle L4 (gaz naturel) | 75 kW (102 PS) / 140 N·m | ** Manuel 5-speed** |
+| 1.5T essence (M5L) | Turbo L4 | 140 kW (190 PS) 300 N·m | ** Manuel 6-speed** |
+| 1.6L GNC | Aspiration naturelle L4 (gaz naturel) | 75 kW (102 PS) 140 N·m | ** Manuel 5-speed** |
 
-Deux points d'approvisionnement se distinguent. Premièrement, ** les deux lignes sont manuelles** — il n'y a pas d'automatique dans la gamme 2024, de sorte que les acheteurs qui ont besoin d'auto/AMT doivent chercher ailleurs ou confirmer une construction d'exportation spécifique. Deuxièmement, la version **CNG est sensiblement moins performante** (75 kW) et n'est pertinente que lorsque le ravitaillement en gaz naturel et l'enregistrement du GNC sont pris en charge; pour les marchés des infrastructures gazières, il peut réduire les coûts de fonctionnement, mais il n'est pas un substitut similaire pour le 1.5T. Le 1.5T enregistre une WLTC combinée de la figure autour de 8.4 L / 100 km et une vitesse supérieure de 160 km/h. Le poids de la courbe pour le M5L 1.5T 9-seater est de ~ 1700 kg (source unique, Dongchedi — confirmer sur la plaque de conformité).
+Deux points d'approvisionnement se distinguent. Premièrement, ** les deux lignes sont manuelles** — il n'y a pas d'automatique dans la gamme 2024, de sorte que les acheteurs qui ont besoin d'auto/AMT doivent chercher ailleurs ou confirmer une construction d'exportation spécifique. Deuxièmement, la version **CNG est sensiblement moins performante** (75 kW) et n'est pertinente que lorsque le ravitaillement en gaz naturel et l'enregistrement du GNC sont pris en charge; pour les marchés des infrastructures gazières, il peut réduire les coûts de fonctionnement, mais il n'est pas un substitut similaire pour le 1.5T. Le 1.5T enregistre une WLTC combinée de la figure autour de 8.4 L 100 km et une vitesse supérieure de 160 km/h. Le poids de la courbe pour le M5L 1.5T 9-seater est de ~ 1700 kg (source unique, Dongchedi — confirmer sur la plaque de conformité).
 
 ## Configuration de l'assise et utilisation
 
 Parce qu'il s'agit d'une plateforme commerciale people/cargo, spécifiez l'intérieur aussi soigneusement que le moteur:
 
 - ** Navette passagers**: 9-seat M5L maximise la capacité de paiement des tarifs — vérifier les règles locales sur les catégories de véhicules pouvant transporter 9 occupants et la classe de licence requise.
-- **Crew + fret / utilisation convertible**: confirmer si les sièges sont amovibles/pliants et si la destination enregistre l'unité comme passager ou commercial (ceci affecte la taxation et l'inspection).
+- **Crew + fret utilisation convertible**: confirmer si les sièges sont amovibles/pliants et si la destination enregistre l'unité comme passager ou commercial (ceci affecte la taxation et l'inspection).
 - **Accès**: confirmez le type de porte latérale coulissante et de hayon pour votre fonctionnement.
 - **Climat**: AC-cabine arrière pour les fonctions 9-seat doit être confirmé par grade.
 
@@ -49,7 +49,7 @@ Les cotes de charge utile et de volume de fret n'ont pas été saisies à l'éta
 
 - Les unités chinoises sont **LHD, manuel, certifié en Chine**. Confirmer si une usine RHD ou un Lingzhi M5 spécifique à l'exportation existe pour la destination plutôt que d'envisager la conversion.
 - Vérifier les règles d'émission et de carburant de la destination**: un wagon GNC doit être homologué et être conforme aux normes de ravitaillement en gaz et en carburant reconnues, et un étalonnage de l'essence en Chine doit satisfaire à l'acceptation locale des émissions.
-- Confirmez les pièces de rechange et le support d'embrayage/boîte à gaz pour une fourgonnette commerciale manuelle, plus la garantie (Référence Chine: cinq ans / 100,000 km — couverture nationale, distributeur dépendant outre-mer).
+- Confirmez les pièces de rechange et le support d'embrayage/boîte à gaz pour une fourgonnette commerciale manuelle, plus la garantie (Référence Chine: cinq ans 100,000 km — couverture nationale, distributeur dépendant outre-mer).
 - Vérifier si la destination traite un 9-seater comme un minibus nécessitant un permis de conduire/exploitant supplémentaire.
 
 ## Ce qu'autoBridge ajoute au-delà de la page de paramètres
@@ -87,25 +87,25 @@ AutoBridge offre sur demande plutôt que de publier des prix à l'exportation fi
 - IMAGE_RIGHTS_STATUS: FAIL (aucun actif autorisé capturé; un détenteur de place ou -tain vieille image - Note n'est pas accepté)
 - C'est une question de "relation" Aucune image réutilisable ne peut être sécurisée: Wikimedia Commons/Flickr sont inaccessibles depuis l'environnement de recherche, les bibliothèques de stock nécessitent un accès authentifié API/licence, et une image de page web OEM n'est PAS une subvention de réutilisation commerciale; aucune photo appartenant à AutoBridge n'existe. Il a gardé la FAIL plutôt que de l'affirmer.
 - ALAT par langue:
-  - **EN**: AutoBridge export-buyer reference — Forthing Lingzhi M5, petrol/diesel Chinese-market vehicle / MPV
-  - **FR**: Référence AutoBridge pour acheteurs export — Forthing Lingzhi M5, véhicule thermique (marché chinois) / MPV
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Forthing Lingzhi M5, Verbrenner (chinesischer Markt) / Van (MPV)
-  - **ES**: Referencia AutoBridge para compradores de exportación — Forthing Lingzhi M5, vehículo de combustión (mercado chino) / monovolumen
-  - **PT**: Referência AutoBridge para compradores de exportação — Forthing Lingzhi M5, veículo a combustão (mercado chinês) / minivan
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Forthing Lingzhi M5, 中国市場仕様 内燃機関車 / MPV
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Forthing Lingzhi M5, 중국 시장 내연기관 차량 / MPV
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Forthing Lingzhi M5, xe động cơ đốt trong (thị trường Trung Quốc) / MPV
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Forthing Lingzhi M5, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถ MPV
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Forthing Lingzhi M5, kendaraan mesin pembakaran (pasar Tiongkok) / MPV
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Forthing Lingzhi M5, مركبة بمحرك احتراق (سوق الصين) / سيارة عائلية
-  - **ZH**: AutoBridge 出口采购参考｜Forthing Lingzhi M5, 中国市场燃油车 / MPV
+  - **EN**: AutoBridge export-buyer reference — Forthing Lingzhi M5, petrol/diesel Chinese-market vehicle MPV
+  - **FR**: Référence AutoBridge pour acheteurs export — Forthing Lingzhi M5, véhicule thermique (marché chinois) MPV
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Forthing Lingzhi M5, Verbrenner (chinesischer Markt) Van (MPV)
+  - **ES**: Referencia AutoBridge para compradores de exportación — Forthing Lingzhi M5, vehículo de combustión (mercado chino) monovolumen
+  - **PT**: Referência AutoBridge para compradores de exportação — Forthing Lingzhi M5, veículo a combustão (mercado chinês) minivan
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Forthing Lingzhi M5, 中国市場仕様 内燃機関車 MPV
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Forthing Lingzhi M5, 중국 시장 내연기관 차량 MPV
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Forthing Lingzhi M5, xe động cơ đốt trong (thị trường Trung Quốc) MPV
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Forthing Lingzhi M5, รถเครื่องยนต์สันดาป (ตลาดจีน) รถ MPV
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Forthing Lingzhi M5, kendaraan mesin pembakaran (pasar Tiongkok) MPV
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Forthing Lingzhi M5, مركبة بمحرك احتراق (سوق الصين) سيارة عائلية
+  - **ZH**: AutoBridge 出口采购参考｜Forthing Lingzhi M5, 中国市场燃油车 MPV
 
 ## Sources et vérification
 
 | Titre de la source | Organisation | Marché | URL | Vérification | Confiance | Faits corroborés |
 |---|---|---|---|---|---|---|
 | Paramètres officiels de Lingzhi | Dongfeng Forthing (officiel) | NC | https://www.fxauto.com.cn/index.php/car/parameter?cid=37 | 2026-09-02 | VÉRIFIER | Roue 2800/3000, 5/7/9 sièges, châssis |
-| M5L 1.5T 9-seat modèle | Dongchedi (懂车帝) | NC | https://www-hl.dongchedi.com/auto/series/445/model-92416 | 2026-09-02 | _CHECTURE | 1.5T 140 kW / 300 N·m, 3000 mm WB, bordure 1700 kg |
+| M5L 1.5T 9-seat modèle | Dongchedi (懂车帝) | NC | https://www-hl.dongchedi.com/auto/series/445/model-92416 | 2026-09-02 | _CHECTURE | 1.5T 140 kW 300 N·m, 3000 mm WB, bordure 1700 kg |
 | Tableau des paramètres de Lingzhi | PCauto (太平洋汽车) | NC | https://car.pcauto.com.cn/360/m124835/config.html | 2026-09-02 | _CHECTURE | Dimensions, Groupe motopropulseur GNC, WLTC 8.4, garantie, prix |
 | Lingzhi M5 article | Yiche (易车) | NC | https://m.yiche.com/zhai/261903/ | 2026-09-02 | _CHECTURE | Dimensions, empattement, disposition 7/9-seat |
 
@@ -117,7 +117,7 @@ AutoBridge offre sur demande plutôt que de publier des prix à l'exportation fi
 * Note de confiance (standard AutoBridge): dimensions/base de roue/siège sont VÉRIFIÉS sur la page de paramètre officiel de Forting; 1.5T/CNG motorisations sont CROSS_CHECKED; poids de bordure est SINGLE_ - Oui. Le volume de charge utile/de cargaison n'était pas dans la base de faits et est laissé pour la feuille officielle; les spécifications d'exportation/RHD ne sont pas déclarées. *
 
 ## Révision de la rédaction
-- **Auteur / réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)
+- **Auteur réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)
 - **Dernière révision**: 2026-09-05
 - **Marché de référence**: Chine M5/M5L (page modèle à jamais; les plaques signalétiques d'exportation diffèrent et sont confirmées par destination)
 - ** Méthode de vérification**: page de paramètres officiels de marque et vérification croisée de la base de données indépendante; étiquetage des éléments manuels/CNG et des éléments à source unique

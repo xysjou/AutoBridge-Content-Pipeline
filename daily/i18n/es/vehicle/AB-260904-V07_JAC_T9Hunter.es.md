@@ -2,7 +2,7 @@
 
 ## SEO Metadatos
 - **SEO Título**: JAC T9 Hunter Diesel Pickup Specs & Export Guide (Bed, 4WD)
-- **Meta Descripción**: JAC T9 Hunter / camioneta diesel Hantu - camas estándar y largas, 2.0T diesel con ZF 8AT, BorgWarner a tiempo parcial 4WD, exportar 3500 kg remolque vs China-retención 1000 kg carga útil del mercado específico, con verificación del exportador.
+- **Meta Descripción**: JAC T9 Hunter camioneta diesel Hantu - camas estándar y largas, 2.0T diesel con ZF 8AT, BorgWarner a tiempo parcial 4WD, exportar 3500 kg remolque vs China-retención 1000 kg carga útil del mercado específico, con verificación del exportador.
 - ** URL agregada**: /vehicles/jac- t9-hunter/
 - ** H1 **: JAC T9 Hunter: Diesel Pickup Specs (Bed, Payload, Drivetrain, Chassis) para los compradores de exportación
 - **Primary Keyword**: jac t9 cazador pickup specs export
@@ -18,7 +18,7 @@ Para una recogida las primeras preguntas del exportador son la longitud de la ca
 | Tema | Base de rueda estándar | Long wheelbase |
 |---|---|---|
 | Longitud general | **5330 mm** | **5620 mm** |
-| Ancho / altura | 1965 / 1920 mm | 1965 / 1920 mm |
+| Ancho altura | 1965 1920 mm | 1965 1920 mm |
 | Base de ruedas | **3110 mm** | **3400 mm** |
 | Cama estándar (L×W×H) | **1520 × 1590 × 470 mm** | cama más larga en el chasis 3400 mm |
 Las dimensiones estándar de la base de datos se revisan entre el sitio OEM de exportación JAC y una fuente estructurada china; las cifras de la base de larga data se revisan en dos fuentes chinas. La longitud de la cama es la manera más clara de distinguir los dos chasis; grabar la base de rueda y cama dimensiones internas contra el VIN.
@@ -27,24 +27,24 @@ Las dimensiones estándar de la base de datos se revisan entre el sitio OEM de e
 | Tema | T9 Hunter diesel — referencia del mercado chino |
 |---|---|
 | Motor | 2.0T inline- 4 turbo diesel |
-| Potencia / par de par | **125 kW / 410 N·m** |
+| Potencia par de par | **125 kW 410 N·m** |
 | Caja de cambios | **ZF 8-speed automatic (8AT)** |
 | 4WD | **BorgWarner tiempo parcial 4WD (2H/4H/4L) + bloqueo diferencial trasero** |
-| Reclamación por consumo de combustible | 7.6 L / 100 km — **Reclamación del fabricante**, no resultado medido |
+| Reclamación por consumo de combustible | 7.6 L 100 km — **Reclamación del fabricante**, no resultado medido |
 
 Estos artículos de alimentación del mercado chino se encuentran actualmente en una fuente de medios chinos **single junto al sitio OEM de exportación**; para el *mercado chino* son por lo tanto **SINGLE_SOURCE** — tótelos como "** para ser finalizados contra la hoja de configuración del fabricante (以厂商配置单终核)**", no como cifras chinas de doble fuente. La existencia de un valor exportador-OEM no mejora la confianza del mercado chino. Combustible/emisión: diesel; confirmar la tolerancia al azufre de destino y la ruta de emisión (una calibración China-VI no es la aprobación en el extranjero).
 
 ## Entrenamiento, remolque y carga de pago — Labeldes de mercado
-- **Accionamiento parcial de cuatro ruedas (BorgWarner)** con ** 2H / 4H / 4L ** y una cerradura diferencial ** rear** en el documento 4x4 (fuente único del mercado chino; finalizar contra la hoja de construcción).
-- **La capacidad de remolque 3500 kg es una figura de fábrica JAC de mercado EXPORT (mercado = EXPORT)** del sitio OEM de exportación. Debe **no** ser escrito como un valor de homologación/anuncio chino o como un número de todo el sistema; calificación de remolque de freno en el documento de homologación de destino es lo que rige el uso en el extranjero.
+- **Accionamiento parcial de cuatro ruedas (BorgWarner)** con ** 2H 4H 4L ** y una cerradura diferencial ** rear** en el documento 4x4 (fuente único del mercado chino; finalizar contra la hoja de construcción).
+- **La capacidad de remolque 3500 kg es una figura de fábrica JAC de mercado EXPORT (mercado EXPORT)** del sitio OEM de exportación. Debe **no** ser escrito como un valor de homologación/anuncio chino o como un número de todo el sistema; calificación de remolque de freno en el documento de homologación de destino es lo que rige el uso en el extranjero.
 - **Payload 1000 kg es una figura de mercado de CHINA, VERIFIED** a través del sitio oficial de recogida de JAC chino (con soporte de exportación-OEM).
 - La disponibilidad de RHD aparece en las listas de exportación, pero la matriz de suministro exacta de RHD debe confirmarse mediante un canal oficial de JAC, no asumido.
 
 ## Puntos de Versión y Orden-Configuración
 1. **Chasis/cama**: estándar (3110 mm) vs largo (3400 mm) — longitud de la cama decide la línea.
 2. **Drivetrain**: 4x4 con 2H/4H/4L y cierre trasero vs cualquier versión 4x2; estado explícitamente.
-3. **Etiqueta de marca en capacidad**: 3500 kg remolque = datos de fábrica de EXPORT; 1000 kg carga útil = China-rated; reconciliar ambos con la calificación de destino.
-4. ** Confianza china de la potencia**: 125 kW / 410 N·m /ZF 8AT/4WD son una fuente única para China — finaliza contra la hoja del fabricante.
+3. **Etiqueta de marca en capacidad**: 3500 kg remolque datos de fábrica de EXPORT; 1000 kg carga útil China-rated; reconciliar ambos con la calificación de destino.
+4. ** Confianza china de la potencia**: 125 kW 410 N·m /ZF 8AT/4WD son una fuente única para China — finaliza contra la hoja del fabricante.
 5. **Proteccionamiento de combustible y post-tratamiento** por la guía de la compatibilidad con emisiones/combustibles; ** Clasificación del SMA** por la guía de código HS de exportación.
 
 ## Verificación del comprador de ultramar antes del pago
@@ -57,9 +57,9 @@ Estos artículos de alimentación del mercado chino se encuentran actualmente en
 No se publica ningún precio de exportación estático. Consulta con ** País de destino · Cantidad · Cama estándar/larga · LHD/RHD · Puerto de destino · Incoterm**.
 
 ## Preguntas frecuentes
-**¿Qué motor y caja de cambios utiliza el Hunter T9?** Un diesel 2.0T (125 kW / 410 N·m) con un automático ZF 8-speed; para el mercado chino son de una sola fuente en espera de la hoja de configuración de fábrica.
+**¿Qué motor y caja de cambios utiliza el Hunter T9?** Un diesel 2.0T (125 kW 410 N·m) con un automático ZF 8-speed; para el mercado chino son de una sola fuente en espera de la hoja de configuración de fábrica.
 ¿Tiene un disco de cuatro ruedas de baja gama? Sí — BorgWarner a tiempo parcial 4WD con 2H/4H/4L y un bloqueo diferencial trasero en el documento 4x4.
-¿Tandard o cama larga? Ambos: 3110 mm rueda base/ 5330 mm total o 3400 mm / 5620 mm; la longitud de la cama difiere en consecuencia.
+¿Tandard o cama larga? Ambos: 3110 mm rueda base/ 5330 mm total o 3400 mm 5620 mm; la longitud de la cama difiere en consecuencia.
 **¿Es la figura de remolque de 3500 kg un valor certificado por China?** No — es una figura de fábrica JAC de mercado de exportación; la carga útil 1000 kg es el valor de valor de China, y las calificaciones de destino deben ser confirmadas por separado.
 
 ## Grabación de imagen
@@ -75,18 +75,18 @@ No se publica ningún precio de exportación estático. Consulta con ** País de
 - IMAGE_RIGHTS_STATUS: FAIL (no se acepta ningún activo con licencia; no se acepta un titular de posición o “retiene la imagen antigua”)
 - BLOCK_REASON: No se puede asegurar una imagen reutilizable: Wikimedia Commons/Flickr no son accesibles desde el entorno de investigación, las bibliotecas de stock requieren acceso a API/licencia autenticada, y una imagen de página web OEM NO es una subvención comercial de reutilización; no existe foto de propiedad de AutoBridge. Se quedó con la FAIL en lugar de afirmarse.
 - ALT por idioma:
-  - **EN**: AutoBridge export-buyer reference — JAC T9 Hunter, petrol/diesel Chinese-market vehicle / pickup truck
-  - **FR**: Référence AutoBridge pour acheteurs export — JAC T9 Hunter, véhicule thermique (marché chinois) / pick-up
-  - **DE**: AutoBridge-Referenz für Exportkäufer — JAC T9 Hunter, Verbrenner (chinesischer Markt) / Pick-up
-  - **ES**: Referencia AutoBridge para compradores de exportación — JAC T9 Hunter, vehículo de combustión (mercado chino) / camioneta pick-up
-  - **PT**: Referência AutoBridge para compradores de exportação — JAC T9 Hunter, veículo a combustão (mercado chinês) / picape
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜JAC T9 Hunter, 中国市場仕様 内燃機関車 / ピックアップトラック
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜JAC T9 Hunter, 중국 시장 내연기관 차량 / 픽업트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — JAC T9 Hunter, xe động cơ đốt trong (thị trường Trung Quốc) / xe bán tải
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — JAC T9 Hunter, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถกระบะ
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — JAC T9 Hunter, kendaraan mesin pembakaran (pasar Tiongkok) / truk pikap
-  - **AR**: مرجع AutoBridge لمشتري التصدير — JAC T9 Hunter, مركبة بمحرك احتراق (سوق الصين) / شاحنة بيك أب
-  - **ZH**: AutoBridge 出口采购参考｜JAC T9 Hunter, 中国市场燃油车 / 皮卡
+  - **EN**: AutoBridge export-buyer reference — JAC T9 Hunter, petrol/diesel Chinese-market vehicle pickup truck
+  - **FR**: Référence AutoBridge pour acheteurs export — JAC T9 Hunter, véhicule thermique (marché chinois) pick-up
+  - **DE**: AutoBridge-Referenz für Exportkäufer — JAC T9 Hunter, Verbrenner (chinesischer Markt) Pick-up
+  - **ES**: Referencia AutoBridge para compradores de exportación — JAC T9 Hunter, vehículo de combustión (mercado chino) camioneta pick-up
+  - **PT**: Referência AutoBridge para compradores de exportação — JAC T9 Hunter, veículo a combustão (mercado chinês) picape
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜JAC T9 Hunter, 中国市場仕様 内燃機関車 ピックアップトラック
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜JAC T9 Hunter, 중국 시장 내연기관 차량 픽업트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — JAC T9 Hunter, xe động cơ đốt trong (thị trường Trung Quốc) xe bán tải
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — JAC T9 Hunter, รถเครื่องยนต์สันดาป (ตลาดจีน) รถกระบะ
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — JAC T9 Hunter, kendaraan mesin pembakaran (pasar Tiongkok) truk pikap
+  - **AR**: مرجع AutoBridge لمشتري التصدير — JAC T9 Hunter, مركبة بمحرك احتراق (سوق الصين) شاحنة بيك أب
+  - **ZH**: AutoBridge 出口采购参考｜JAC T9 Hunter, 中国市场燃油车 皮卡
 
 ## Fuentes " Verificación "
 | Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |

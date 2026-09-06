@@ -7,7 +7,7 @@
 - ** H1 Liệu một chiếc EV sạc điện từ Trung Quốc có ra biển không? GB/T, CCS2, CHAdeM và NACS tương thích được giải thích
 - ** Từ khoá riêng **: GB/T CCS2 CHAdeMG chuẩn xuất khẩu tương thích
 - **Secondary Search termss**: China eV xuất khẩu bộ thích nghi sạc, GB/T 20234.3 DC sạc nhanh, giao thức GB/T 27930, CCS2 phiên bản EV, ChaoJi tiêu chuẩn
-- **I nội bộ Link gợi ý**: /vehcles/byd-yan-plus/; /guides/hand-dive-chinese-cars/; /guides/d-chinese-ev-pies/ / / /
+- **I nội bộ Link gợi ý**: /vehcles/byd-yan-plus/; /guides/hand-dive-chinese-cars/; /guides/d-chinese-ev-pies/
 - **Image gợi ý**: bản đồ kết nối-có tiêu chuẩn thế giới; GB/T tương ứng CCS2 trong việc so sánh; hiệu ứng xuất khẩu từ nhà máy; cảnh báo thích nghi với bộ ứng
 - **LT gợi ý**: "Bản đồ thế giới của các tiêu chuẩn kết nối nhanh DC," "GB/T và CCS2 sạc các con nhỏ từng bên," "Chuyến xuất khẩu CCS2 trong tờ giấy"
 
@@ -19,7 +19,7 @@ Một EV của Trung Quốc truyền qua các hải quan vẫn có thể không 
 
 | Chuẩn | Tiểu triển khai | Ghi chú |
 |---|---|---|
-| **GB/T 20234.3 ** (DC) + **GB/T 27930 ** (giao tiếp CN) | Trung Quốc (xe của người Hoa) | GB/T 20234.3-2023 tăng giới hạn trên ** 1500 V / 800 A** (các nguồn công nghiệp kiểm tra chéo) |
+| **GB/T 20234.3 ** (DC) + **GB/T 27930 ** (giao tiếp CN) | Trung Quốc (xe của người Hoa) | GB/T 20234.3-2023 tăng giới hạn trên ** 1500 V 800 A** (các nguồn công nghiệp kiểm tra chéo) |
 | ** CCS2 (Cbo 2)** | Châu Âu và nhiều thị trường xuất khẩu | Điều khiển AC/DC nhập nội bộ; chiếm ưu thế trong EU |
 | ** CCS1 (Cbo 1)** | Bắc Mỹ | Biến thể vùng của CCS |
 | **CHAdeM** | Nhật Bản và thị trường được chọn | Xuất xứ ở Nhật Bản |
@@ -48,7 +48,7 @@ Một biểu đồ tiêu chuẩn cho bạn biết GB/T khác với CCS2, nó kh�
 Với mỗi mô hình/trim bạn xuất khẩu, ghi chép trong một tờ giấy:
 
 - Inlet nội thất: GB/T DC + AC kiểu inlet
-- Inlet nhà máy sẵn sàng: CCS2 / CHAdeM / NACS / CCS1 bởi VAN
+- Inlet nhà máy sẵn sàng: CCS2 CHAdeM NACS CCS1 bởi VAN
 - Giao thức liên lạc và phần mềm công ty xuất khẩu hỗ trợ bắt tay đích
 - Nếu bộ thích nghi: Mô hình thích nghi, chứng nhận, tối đa/tạp chí hiện tại và địa phương
 - Thực tế công việc mạng ở điểm đến (thường xuyên DC; tiêu chuẩn ổ cắm AC)
@@ -110,7 +110,7 @@ Với mỗi mô hình/trim bạn xuất khẩu, ghi chép trong một tờ giấ
 *BIDidce ghi chú (tự động Bridge: sự thật cấp tiêu chuẩn là VERFIED/CROSS_CCKED (CHAdeMOO) Sự kết hợp là một cơ quan tiêu chuẩn). Các kết nối xuất khẩu từng mẫu, hợp pháp hóa bởi quốc gia và thời điểm giao lưu của Hiệp hội Súng Quốc gia không bị bắt và phải được xác nhận trên mỗi máy bay và mỗi người có thẩm quyền đích. ♪
 
 ## Xem lại tập tin
-- **Author / recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
+- **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
 - **Last xem lại**: 2026-09-05
 - ** chợ hạ giá**: Global (Trung Quốc; EU/JP/NA triển khai)
 - Phương pháp xác thực **: Tài liệu tiêu chuẩn-người, và các nguồn công nghiệp đã kiểm tra chéo; kết nối đặc trưng mô hình để xác nhận chính thức trên VIN

@@ -18,18 +18,18 @@ Antes de qualquer número de questões, estabelecer a base — o contraste Quên
 - **A data de referência** — idade na expedição, na data B/L, ou à chegada; a resposta pode diferir por meses.
 - *Diferenças de classe de veículos** — carro de passageiros, mercadorias leves, ônibus/caminhão pesado muitas vezes carregam limites diferentes (o código de Kenya estabelece regras separadas para mercadorias e veículos especiais).
 ## Matriz de País
-| País | Direção | Regra da idade | Base / confiança |
+| País | Direção | Regra da idade | Base confiança |
 |---|---|---|---|
 | * Kenya** | RHD (excepções limitadas para veículos com finalidade especial) | ** Mais de 8 anos a contar do ano da primeira matrícula = não autorizado para importação (veículos de passageiros)**; o intervalo entre o primeiro ano de registo e o ano de fabrico é limitado a um ano | ** VERIFIED — primário**: KEBS DKS 1515: 2025 § 4.7.1–4.7.2, corroborado pelo KRA (Comunicação Legal 78/2005; KS 1515) |
 | **Nigéria** | Confirmar de novo contra a instrução aduaneira em vigor antes de citar (a redação do portal comercial oficial deve ser verificada diretamente; não assumir) | ** Os veículos a motor utilizados com mais de 15 anos (a partir do ano de fabrico) são proibidos de importar**; aplica-se um direito nivelador NAC | ** VERIFIED (idade) — primário**: Nigéria Portal de Comércio de Janelas Únicas; corroborado pela lista de reprodução da lista de importações e proibições aduaneiras da Nigéria. Texto da direcção deixado para confirmação directa |
 | **Etiopia** | — | Relatado ≤ 5 anos, com uma mudança relatada para restringir as importações de veículos com combustível fóssil (direcional) | TIME_SENSITIVO/não primário — verificar |
-| **Ghana** | — | Reported ≤10 years; **OBD-II** inspecção e emissões Euro- 3-or-above comunicadas a partir de 2023 | TIME_SENSITIVE / não primário — verificar a norma actual |
-| * Mozambique ** | — | Relatado ≤ 8 anos desde o registo até à exportação; | FONTE ÚNICA / não primário — verificar |
-| *Sudan** | — | Indicado em camadas: passageiro ≤ 7 / mercadorias leves de recolha ≤ 8 / camião pesado de autocarro ≤ 10 anos, com taxas ainda a pagar, mesmo quando conformes | FONTE ÚNICA / não primário — verificar |
-| ** Côte d'Ivoire** | — | ** Não foi reportado qualquer limite de idade fixo **, mas obrigatório **CdC** registos de conformidade e manutenção rastreáveis | FONTE ÚNICA / não primário — verificar o programa CdC |
-Os conflitos anteriores de 7-vs-8 (Quênia) e 12-vs-15 (Nigeria) são resolvidos a favor dos **instrumentos primários de destino**, não escolhendo um transitário: Quênia = 8 do primeiro registro (KEBS/KRA), Nigéria = 15 do fabrico (Nigeria Single Window / Alfândega).
+| **Ghana** | — | Reported ≤10 years; **OBD-II** inspecção e emissões Euro- 3-or-above comunicadas a partir de 2023 | TIME_SENSITIVE não primário — verificar a norma actual |
+| * Mozambique ** | — | Relatado ≤ 8 anos desde o registo até à exportação; | FONTE ÚNICA não primário — verificar |
+| *Sudan** | — | Indicado em camadas: passageiro ≤ 7 mercadorias leves de recolha ≤ 8 camião pesado de autocarro ≤ 10 anos, com taxas ainda a pagar, mesmo quando conformes | FONTE ÚNICA não primário — verificar |
+| ** Côte d'Ivoire** | — | ** Não foi reportado qualquer limite de idade fixo **, mas obrigatório **CdC** registos de conformidade e manutenção rastreáveis | FONTE ÚNICA não primário — verificar o programa CdC |
+Os conflitos anteriores de 7-vs-8 (Quênia) e 12-vs-15 (Nigeria) são resolvidos a favor dos **instrumentos primários de destino**, não escolhendo um transitário: Quênia = 8 do primeiro registro (KEBS/KRA), Nigéria = 15 do fabrico (Nigeria Single Window Alfândega).
 ## A Rota de Verificação Confiável (use-a para cada envio)
-1. ** Instrumento primordial:** o destino ** autoridade aduaneira ou padrão do corpo** regra de importação atual ou gazeta — para o Quênia que é material KEBS/KRA, para a Nigéria a única janela / lista de proibição alfandegária — não um blog de carga.
+1. ** Instrumento primordial:** o destino ** autoridade aduaneira ou padrão do corpo** regra de importação atual ou gazeta — para o Quênia que é material KEBS/KRA, para a Nigéria a única janela lista de proibição alfandegária — não um blog de carga.
 2. **Resolva a base:** fabricação vs primeiro registro, o intervalo de fabricação-para-registo, data de referência e classe de veículo.
 3. ** legalidade do lado de trás:** O Quênia é RHD com exceções de veículos especiais estreitas; para a Nigéria reconfirmar a regra escrita atual, em vez de confiar em uma suposição geral – um descompasso de direção pode ser rejeitado independentemente da idade.
 4. **Portão de inspeção/conformidade: ** Inspeção de destino da Nigéria, Gana **OBD-II**, Costa do Marfim **CoC**, rota de importação de qualidade KEBS/jev do Quénia e qualquer organismo PSI designado para o destino (ver guia PSI) — confirme o programa e o inspetor mandatados.
@@ -83,13 +83,13 @@ Os conflitos anteriores de 7-vs-8 (Quênia) e 12-vs-15 (Nigeria) são resolvidos
 | Valores comunicados em função da idade/detecção de vários países (Etiopia/Sudan/Mozambique, etc.) | Material para transporte de mercadorias | África | https://m.11467.com/product/d39248249.htm | 2026-09-03 | FONTE ÚNICA | Valores não primários comunicados para os países que deixaram de ser marcados |
 | Gana/Tanzania/Mozambique | Material para transporte de mercadorias | África | https://m.11467.com/product/d53540859.htm | 2026-09-03 | FONTE ÚNICA | Gana OBD-II/Euro- 3 e Moçambique comunicaram valores (não primários) |
 | Limites e taxas de idade em camadas sudanesas | Contribuição para o AutoHome | Sudão | https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/26095860 | 2026-09-03 | FONTE ÚNICA | Sudão informou 7/8/10 regras de nível (não primário) |
-| Importação da Costa do Marfim (sem tampa dura / CoC obrigatório) | Material para transporte de mercadorias | Costa do Marfim | https://m.11467.com/product/d55528521.htm | 2026-09-03 | FONTE ÚNICA | Sem tampa fixa; CdC + registos (não primários) |
+| Importação da Costa do Marfim (sem tampa dura CoC obrigatório) | Material para transporte de mercadorias | Costa do Marfim | https://m.11467.com/product/d55528521.htm | 2026-09-03 | FONTE ÚNICA | Sem tampa fixa; CdC + registos (não primários) |
 * Níveis de evidência: Kenya (KEBS+KRA) e Nigéria regra de idade (Modelo Único + Reprodução Aduaneira) são primários-ancorados. A designação da direcção da Nigéria e todas as linhas de outros países permanecem não primárias e devem ser oficialmente verificadas para a classe de veículos exacta antes da expedição; não é feita uma generalização regional. *
 ## Revisão Editorial
-- **Autor / revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)
+- **Autor revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)
 - ** Última revisão**: 2026-09-05
-- **Mercado de referência / âmbito de aplicação**: Quadro multi-país em África (COUNTRY_SPECIFC; Quénia e Nigéria: ancorado primário; outros mercados marcados; sem generalização regional)
-- ** Método de verificação**: Destino instrumentos primários preferidos sobre conflitos de encaminhadores (HS_FIRST / ORIGINAL_SCOPE / PRIMARY_SOURCE_SCOPE_MUST_MATCH); conflitos resolvidos apenas onde o texto primário foi capturado
+- **Mercado de referência âmbito de aplicação**: Quadro multi-país em África (COUNTRY_SPECIFC; Quénia e Nigéria: ancorado primário; outros mercados marcados; sem generalização regional)
+- ** Método de verificação**: Destino instrumentos primários preferidos sobre conflitos de encaminhadores (HS_FIRST ORIGINAL_SCOPE PRIMARY_SOURCE_SCOPE_MUST_MATCH); conflitos resolvidos apenas onde o texto primário foi capturado
 - ** Norma editorial**: Pesquisado e escrito a partir das fontes listadas acima (pesquisa de mesa; nenhuma condução em primeira mão, demolição ou importação é reivindicada). A confiança na fonte é mostrada por linha; qualquer ponto que não podemos confirmar independentemente é apresentado como um item de verificação em vez de afirmado como fato.
 - ** Transparência**: Foi utilizada a elaboração assistida por IA. Este artigo é baseado em pesquisa documental e QA automatizado. Não é exigido qualquer ensaio em primeira mão, a menos que explicitamente documentado; confirmar os requisitos sensíveis ao tempo e específicos do destino antes de proceder à sua transformação.
 #AutoBridge #ExportProcurement #AfricaImport #UsedCarImport #BuyerVerification

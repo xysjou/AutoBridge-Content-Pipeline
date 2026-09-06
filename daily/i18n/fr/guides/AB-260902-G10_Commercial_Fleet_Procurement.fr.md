@@ -94,7 +94,7 @@ Pin contractuellement: prix unitaire par rapport au niveau de spécification, pi
 | Guide du cycle de service/de la personnalisation (cadre à double couche, essieux à taux de droit) | Fabricants de CV (ligne directrice Chary/FAW; Chengli 12-step) | CN→Global | https://www.charymachinery.com/the-step-by-step-guide-for-international-buyers-sourcing-commercial-vehicles-from-china.html | 2026-09-02 | _CHECTURE | Ingénierie/conseil en matière de procédés |
 *Note de confiance: le régime 2026 de licences d'exportation et les indicateurs d'acceptation des appels d'offres sont VÉRIFIÉS sur les sources gouvernementales/de l'appel d'offres réel. Les directives techniques et de procédés sont les fabricants/industries (CROSS_CHECKED); les listes de l'année en cours, les réseaux OEM outre-mer et tous les termes commerciaux (déduction/moyen/temps de pointe) sont obtenus en direct et jamais estimés. *
 ## Révision de la rédaction
-- **Auteur / réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)
+- **Auteur réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)
 - **Dernière révision**: 2026-09-05
 - **Marché de référence**: mondial (véhicules commerciaux provenant de Chine)
 - **Méthode de vérification**: Sources principales du gouvernement pour le régime de licence 2026; un appel d'offres réel pour les critères d'acceptation; les chiffres commerciaux laissés à la négociation

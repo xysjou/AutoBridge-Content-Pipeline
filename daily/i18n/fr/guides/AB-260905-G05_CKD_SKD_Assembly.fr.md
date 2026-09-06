@@ -41,7 +41,7 @@ Cette page ne demande pas intentionnellement **** une définition universelle de
 ## Sources et vérification
 | Source | Organisation | Marché | Niveau | Confiance | URL | Faits corroborés |
 |---|---|---|---|---|---|---|
-| 中华人民共和国海关进出口货物商品归类管理规定 | 中国政府网 | NC | T1 | VÉRIFIER | https://www.gov.cn/zhengce/2021-09/06/content_5723370.htm | 归类以协调制度 / 进出口税则为基础, 归类裁定与决定 |
+| 中华人民共和国海关进出口货物商品归类管理规定 | 中国政府网 | NC | T1 | VÉRIFIER | https://www.gov.cn/zhengce/2021-09/06/content_5723370.htm | 归类以协调制度 进出口税则为基础, 归类裁定与决定 |
 | 汽车 CKD 散件出口原产地证填制 (行业流程, T4 仅线索) | 顺企网 | NC | T4 | NON VÉRIFIS | https://m.11467.com/product/d53830031.htm | 成套散件清单/HS 逐项整理流程线索 |
 | 成套散件 (SKD/CKD) 进口申请表说明 (反向参考, T4) | 顺企网 | NC | T4 | NON VÉRIFIS | https://m.11467.com/product/d14729353.htm | 成套散件申报要素线索 |
 | Nomenclature du système harmonisé (OMD) | Organisation mondiale des douanes | NC | T1 | VÉRIFIER | https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools/hs-nomenclature-2022-edition.aspx | La nomenclature SH est la base de classification maintenue par l'OMD |

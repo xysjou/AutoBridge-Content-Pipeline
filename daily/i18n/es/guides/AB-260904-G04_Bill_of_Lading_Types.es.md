@@ -17,8 +17,8 @@ Los exportadores tratan la elección de factura de embarque como documentación.
 ## Los cuatro instrumentos se unen a la cara
 | Método | ¿Quiénes son los problemas? | Cómo se lleva el envío el destinatario | ¿El cargador tiene un documento de papel de título? |
 |---|---|---|---|
-| **Maestro B/L (MBL)** | Línea de envío / su agente | Entregar MBL original (o seguir el procedimiento de línea) | Sí - contrato de transporte + función de documento de derecho |
-| **House B/L (HBL)** | NVOCC / remitente de carga | HBL intercambia HBL para MBL a través del agente de destino del remitente | Sí a nivel HBL, con una fiesta extra en la cadena |
+| **Maestro B/L (MBL)** | Línea de envío su agente | Entregar MBL original (o seguir el procedimiento de línea) | Sí - contrato de transporte + función de documento de derecho |
+| **House B/L (HBL)** | NVOCC remitente de carga | HBL intercambia HBL para MBL a través del agente de destino del remitente | Sí a nivel HBL, con una fiesta extra en la cadena |
 | **El texto de la versión** | Transportador después de que el cargador regrese/paragoes originales | Instrucción electrónica de liberación; recopilar una copia + identidad | **No** - El título de papel se entrega al estreno |
 | **Sea Waybill (SWB)** | Carrier | El destinatario nombrado recoge la prueba de identidad; no negociable | **No** — no documento de título, no transferible |
 
@@ -35,9 +35,9 @@ El Código Marítimo revisado proporciona la arquitectura jurídica detrás de e
 - **La aceptación por país/país varía** (algunas destinaciones sudamericanas se informan de no aceptar la liberación de télex) — confirme con el agente de transporte y destino **por envío**, por la ruta de entrega del Art. 87 que se aplicará efectivamente.
 
 ## Método de emparejamiento de los términos de pago
-- **T/T por adelantado / totalmente pre-pagado**: el télex o SWB es viable; el control de la palanca ya no es necesario.
+- **T/T por adelantado totalmente pre-pagado**: el télex o SWB es viable; el control de la palanca ya no es necesario.
 - **L/C**: seguir el crédito exactamente — generalmente exige un B/L negociable consignado/endorsed como se ha indicado; sustituir el SWB crea una discrepancia.
-- **Balance against B/L / open account**: keep the original negotiable MBL (Art. 80 order/bearer control) until payment conditions are met; never telex-release an unpaid vehicle.
+- **Balance against B/L open account**: keep the original negotiable MBL (Art. 80 order/bearer control) until payment conditions are met; never telex-release an unpaid vehicle.
 - **RoRo vs container**: ambos se liberan contra el océano B/L; confirman el procedimiento de la línea y la ruta del consignen Art. 87 antes de elegir el instrumento.
 
 ## Preguntas para poner al futuro antes de reservar
@@ -86,10 +86,10 @@ Which Maritime ¿Los artículos del Código rigen la transferencia y entrega de 
 ## Fuentes " Verificación "
 | Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |
 |---|---|---|---|---|---|---|
-| Código Marítimo de la República Popular Democrática de Corea (Revisión 2025, Orden Presidencial 58, en vigor 2026-05-01) texto completo | NPC Standing Committee (npc.gov.cn) | CN | http://www.npc.gov.cn/c2/c30834/202510/t20251028_449061.html | 2026-09-04 | VERIFIED (primaria) | Artes. 80/81/87, versión y fecha efectiva |
-| Original B/L / telex / Sea Waybill explicado | NetEase negocio wiki | INTL | https://www.163.com/dy/article/L0J4JN3F0556HN78.html | 2026-09-04 | CROSS_CHECKED | Definiciones MBL/SWB/telex |
+| Código Marítimo de la República Popular Democrática de Corea (Revisión 2025, Orden Presidencial 58, en vigor 2026-05-01) texto completo | NPC Standing Committee | CN | http://www.npc.gov.cn/c2/c30834/202510/t20251028_449061.html | 2026-09-04 | VERIFIED (primaria) | Artes. 80/81/87, versión y fecha efectiva |
+| Original B/L telex Sea Waybill explicado | NetEase negocio wiki | INTL | https://www.163.com/dy/article/L0J4JN3F0556HN78.html | 2026-09-04 | CROSS_CHECKED | Definiciones MBL/SWB/telex |
 | Master bill vs casa factura | Sina Finance | INTL | https://finance.sina.com.cn/roll/2026-08-15/doc-ininkrwq1888009.shtml | 2026-09-04 | CROSS_CHECKED | BMBL/HBL chain, vehicle practice |
-| Métodos de liberación y tipos B/L | 11467 conocimiento industrial | INTL | https://m.11467.com/product/d15253354.htm | 2026-09-04 | CROSS_CHECKED | Comparación de cuatro meses |
+| Métodos de liberación y tipos B/L | conocimiento industrial | INTL | https://m.11467.com/product/d15253354.htm | 2026-09-04 | CROSS_CHECKED | Comparación de cuatro meses | 11467
 | Cuatro métodos de liberación y riesgo de teléx (nota de América del Sur) | NetEase | INTL | https://www.163.com/dy/article/K17GLBOG0556820S.html | 2026-09-04 | SINGLE_SOURCE | Limite de orden-bill, aceptación portuaria |
 | Transporte internacional de las convenciones sobre bienes y leyes modelo | CNUDMI | INT'L | https://uncitral.un.org/en/texts/transportgoods | 2026-09-05 | VERIFIED | Marco jurídico comparativo para los documentos de transporte (Contexto de Hague-Visby/Hamburg/Rotterdam) |
 | Referencias de documentos y cláusulas de envío estándar | BIMCO | INT'L | https://www.bimco.org/ | 2026-09-05 | VERIFIED | Documento marítimo estándar de la industria/referencia de la ley |

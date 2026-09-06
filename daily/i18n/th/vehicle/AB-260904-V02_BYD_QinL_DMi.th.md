@@ -3,11 +3,11 @@
 ## เชา ข้อมูลกํากับภาพ
 - < secontinuation*: byD Qin L DM-i Profiles & ทิศทางส่งออก (5th-Gen DM, CLTC)
 - ""คําอธิบาย" Chinese-market BYD Qin L DM-i fifth-gen plug-in hybrid — 1.5L dedicated engine,  LFP Blade battery 10.08/15.87 kWh,  80/120 km CLTC electric range,  and  เช็คผู้ส่งออก
-- ~ที่อยู่ URL ที่ถูกย่อ: / verycles/ bid-chin-l-dm-i/
+- ~ที่อยู่ URL ที่ถูกย่อ: verycles/ bid-chin-l-dm-i/
 - **H1**: BYD Qin L DM-i (Fifth-Generation DM): แฟ้มภาพประเภทภาษาจีนName สเปกตรัมและส่งออกบันทึกช่วยจํา
 - ~คําสําคัญ~ ส่งออกเป็น id_ ident
 - ~การค้นหาตามวาระที่: ~ จิน ห ห ห ห ห ห ห ห  120km  fifth generation DM, ขนาดไบต์ แบตเตอรี่เบลด ppEV ช่วงของ Qin LCLTC L. 秦 ส่งออกเป็น LDM- i
-- ~ ลิงก์ภายในที่แนะนํา~ ~/gides/vive-sing- un3556-imdg-compliance/]; / guides/ful-computifition-china-Vholics/;///guides/ exportic-Vocycument-comport-commubt.
+- ~ ลิงก์ภายในที่แนะนํา~ ~/gides/vive-sing- un3556-imdg-compliance/]; guides/ful-computifition-china-Vholics/;///guides/ exportic-Vocycument-comport-commubt.
 - ~คําแนะนําของ Imaction ~: โพรไฟล์ด้าน QI L DM-i; ชาร์จแบตเตอรี; แบตเตอรีเบลดใต้แผนภาพพื้น; 120km ตรา; หลังกระท่อม
 - ~~~~~~~~~ คําแนะนํา: "BYD Qin L DM-i fifth generation PHEV sedan"; "In L DM-i 15.87kWh". แบตเตอรี่เบลด 120km CLTC"
 
@@ -21,44 +21,44 @@ Kin L M-I เป็นเครื่องปรุงผสมผสมผส�
 | กลไก | 1.5 L เครื่องยนต์ลูกผสมที่อุทิศ |
 | การส่ง | E-CVT (Single-สปีด DHT, DM Super-hibrad) |
 | แบตเตอรี | แบบ LFP ~แบตเตอรี่~ |
-| แบตเตอรี | **10.08 kWh (80 km) / 15.87 kWh (120 km)** — version-specific |
-| ช่วงของไฟฟ้า (CLTC) | **80 km / 120 km** |
+| แบตเตอรี | **10.08 kWh (80 km) 15.87 kWh (120 km)** — version-specific |
+| ช่วงของไฟฟ้า (CLTC) | **80 km 120 km** |
 | วัฏจักรการทดสอบ | ICTCOU (ไม่ WLTP/NEDC — ไม่เคยอ้างถึงตัวเลข CLTC ภายใต้วงจรอื่น) |
 | ชาร์จเร็ว | about 0.42 h for 30–80% on the 120 km car (single-source; ยืนยันต่อเครื่อง (OEM) |
 | น้ําหนักของเส้นโค้ง (แสดงเป็น) | 1775 kg |
 | ถัง เชื้อ เพลิง | 65 L |
 
-A PHEV buyer needs four answers in order: ** เครื่องยนต์ มอเตอร์ แบตเตอรี่ ชาร์จ/ดําเนินการ ** ที่นี่ เครื่องยนต์ 1.5L ที่ทุ่มเท พื้นฐานสร้างและสนับสนุนขับเคลื่อนแบบดีเอชทีแบบเดี่ยว คน ขับ จะ เปลี่ยน ระบบ ไฟฟ้า และ ระบบ ผสม แทน ที่ จะ เปลี่ยน เกียร์. ตรงกับรุ่นแบตเตอรี่ที่เข้าสู่ช่วงไฟฟ้า ในทุกสายสั่งซื้อ
+A PHEV buyer needs four answers in order: ** เครื่องยนต์ มอเตอร์ แบตเตอรี่ ** ที่นี่ เครื่องยนต์ 1.5L ที่ทุ่มเท พื้นฐานสร้างและสนับสนุนขับเคลื่อนแบบดีเอชทีแบบเดี่ยว คน ขับ จะ เปลี่ยน ระบบ ไฟฟ้า และ ระบบ ผสม แทน ที่ จะ เปลี่ยน เกียร์. ตรงกับรุ่นแบตเตอรี่ที่เข้าสู่ช่วงไฟฟ้า ในทุกสายสั่งซื้อ
 
 ## ช่วง ที่ อ้าง — ให้ ติด ป้าย ที่ ติด ไว้
 - The 80/120 km figures are **CLTC** electric range.
 - พาดหัวข่าวรวมกันของประมาณ..." 2100 km ในถังเต็ม และชาร์จเต็ม" ปรากฏในภาษาจีนเป็นการอ้างอิง "ผู้ควบคุม" จํานวน มันจะต้องถูกตราหน้าว่าเป็นโรงงาน ไม่เคยแสดงออกมาเป็นผลวัด และไม่ได้เทียบได้กับรูปรถยนต์ปลายทาง
 
 ## ร่าง กาย และ กระท่อม
-- ความยาว/ ความกว้าง/ สูง: ~ 4830 / 1900 / 1495 mm ~
+- สูง: ~ 4830 1900 1495 mm ~
 - เบส: ~ 2790 mm~
 - เบาะ: **5** (single-source for seat count; ยืนยันการปูลาย
 
 ## ข้อ แตก ต่าง ที่ ไม่ ต้อง แก้ไข
-- **80 km vs 120 km** = different battery pack (10.08 vs 15.87 kWh); ชาร์จฮาร์ดแวร์และตัดแต่งยังก้าวขึ้น แจ้งรุ่นก่อนช่วงใด ๆ ของประโยค
+- **80 km vs 120 km** different battery pack (10.08 vs 15.87 kWh); ชาร์จฮาร์ดแวร์และตัดแต่งยังก้าวขึ้น แจ้งรุ่นก่อนช่วงใด ๆ ของประโยค
 - CLTC ช่วงไฟฟ้าและคํากล่าวอ้างใด ๆ รวมกันอยู่บนฐานการทดสอบที่แตกต่างกัน อย่าเพิ่มหรือเปรียบเทียบโดยตรง
 - อุปกรณ์สายภาษาจีน ไม่มีหลักฐานของอุปกรณ์ส่งออกของตลาด โดยไม่ต้องหน้า OEM
 
 ## การ รับรอง การ ซื้อ ผ่าน ทาง ไปรษณีย์ ก่อน จะ จ่าย
-- ตําแหน่ง DM-i ทรานเซกเซิล กําหนดล้อขับเคลื่อน — ตรวจสอบผังบนแผ่นพับ/ sertieveted แทนที่จะปฏิบัติต่อไดรฟ์ด้านหน้าเป็นสัญลักษณ์ของระบบไฮบริด
+- ตําแหน่ง DM-i ทรานเซกเซิล กําหนดล้อขับเคลื่อน — sertieveted แทนที่จะปฏิบัติต่อไดรฟ์ด้านหน้าเป็นสัญลักษณ์ของระบบไฮบริด
 1. ~และความสามารถของแบตเตอรี่~ เขียนไว้ต่อ VIN (10.08 vs 15.87 kWh); อย่ารับช่วงหมายเลขเท่านั้น.
 2. **Test cycle** — keep CLTC labelled; ขอตัวเลขวงจรปลายทางแยกออกมา ถ้าตลาดตีพิมพ์
 3. ** เชื่อมต่อและ AC/DC ฮาร์ดแวร์ ** — GB/TP ชาร์จของจีนไม่ตรงกับตัวเชื่อมต่อปลายทางอัตโนมัติ; ยืนยันก่อนที่จะมีการสัญญาที่ จะเข้ากันได้กับเครื่องควบคุมภายในเครื่อง
 4. "เอกสารการจัดส่งแบตเตอรี่" — UN38.3 อนุมาน และเอกสารที่อันตรายใดๆ ต่อคู่มือการส่งแบตเตอรี IMDG 42-24
-5. ** ชนิดของการรับ/ fuel ~ และคลาสลงทะเบียนปลายทาง; ได้รับการยืนยันเอกสารจากรายการตรวจสอบการส่งออก
+5. ** fuel ~ และคลาสลงทะเบียนปลายทาง; ได้รับการยืนยันเอกสารจากรายการตรวจสอบการส่งออก
 
 ## ต้องการการอ้างถึงการส่งออกแบบปัจจุบัน
-ไม่มีการจัดพิมพ์ราคาส่งออก The Chinese 2024 guide range (roughly RMB 99, 800–139 (พ.ศ. 800) เป็นภาษาไทย พ.ศ. การอ้างอิงที่ไวต่อเวลา ไม่ใช่ FOB/CIF Request a live quote with **Destination Country · Quantity · Preferred Trim (80/120 km) · LHD/RHD · Destination Port · Incoterm**.
+ไม่มีการจัดพิมพ์ราคาส่งออก The Chinese 2024 guide range (roughly RMB 99,800–139 (พ.ศ. 800) เป็นภาษาไทย พ.ศ. การอ้างอิงที่ไวต่อเวลา ไม่ใช่ FOB/CIF Request a live quote with **Destination Country · Quantity · Preferred Trim (80/120 km) · LHD/RHD · Destination Port · Incoterm**.
 
 ## คํา ถาม ที่ มัก จะ ถาม บ่อย ๆ
 ~ ความแตกต่างระหว่างจิน หลิน-หม่า-ห-i 80 และ 120 ต่างกันอย่างไร ~ 10.08 vs 15.87 kWh) และ CLTC sport (80 vs 120 km) รวมขั้นตอนอุปกรณ์ด้วย — ระบุรุ่นตามลําดับ.
 " 2100 km เป็นระยะของตัวเลขที่ทดสอบแล้ว" ไม่ มันเป็นตัวเลขที่ผู้ผลิตอ้างรวมทั้งเงินบวกและค่าใช้จ่าย และต้องตราตราหน้าว่าอย่างนั้น
-~ วงจรการทดสอบแบบใด? ~ ตัวเลขของจีนคือ CLTC; ไม่ต้องแสดงเป็น WLTP หรือ NEDC.
+~ ~ ตัวเลขของจีนคือ CLTC; ไม่ต้องแสดงเป็น WLTP หรือ NEDC.
 ~ เครือข่ายการชาร์จของจีน ทํางานในต่างประเทศหรือเปล่า~ ไม่โดยอัตโนมัติ — ฮาร์ดแวร์ GB/T ต้องตรวจสอบกับตัวเชื่อมต่อปลายทาง
 
 ## บันทึกรูปภาพ
@@ -69,23 +69,23 @@ A PHEV buyer needs four answers in order: ** เครื่องยนต์ �
 - ลิขสิทธิ์: ไม่ยืนยัน
 - LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
 - _กําหนดวันที่: 2026-09-06
-- MERCUL_ TOPIC_ MATCH: ต้องตรงกับรุ่น/ การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
-- CHAR_SCPE_NOTE: ตรงกับโมเดลที่เป๊ะของครอบครัว/ topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
+- MERCUL_ TOPIC_ MATCH: การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
+- CHAR_SCPE_NOTE: topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
 - March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
 - BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
 - ALT ด้วยภาษา:
-  - **EN**: AutoBridge export-buyer reference — BYD Qin L DM-i, plug-in hybrid vehicle / sedan
-  - **FR**: Référence AutoBridge pour acheteurs export — BYD Qin L DM-i, véhicule hybride rechargeable / berline
-  - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Qin L DM-i, Plug-in-Hybridfahrzeug / Limousine
-  - **ES**: Referencia AutoBridge para compradores de exportación — BYD Qin L DM-i, vehículo híbrido enchufable / berlina
-  - **PT**: Referência AutoBridge para compradores de exportação — BYD Qin L DM-i, veículo híbrido plug-in / sedã
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜BYD Qin L DM-i, プラグインハイブリッド車 / セダン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜BYD Qin L DM-i, 플러그인 하이브리드 차량 / 세단
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — BYD Qin L DM-i, xe hybrid sạc ngoài / sedan
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — BYD Qin L DM-i, รถปลั๊กอินไฮบริด / รถเก๋งซีดาน
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — BYD Qin L DM-i, kendaraan hybrid plug-in / sedan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Qin L DM-i, مركبة هجينة قابلة للشحن / سيدان
-  - **ZH**: AutoBridge 出口采购参考｜BYD Qin L DM-i, 插电混动车 / 轿车
+  - **EN**: AutoBridge export-buyer reference — BYD Qin L DM-i, plug-in hybrid vehicle sedan
+  - **FR**: Référence AutoBridge pour acheteurs export — BYD Qin L DM-i, véhicule hybride rechargeable berline
+  - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Qin L DM-i, Plug-in-Hybridfahrzeug Limousine
+  - **ES**: Referencia AutoBridge para compradores de exportación — BYD Qin L DM-i, vehículo híbrido enchufable berlina
+  - **PT**: Referência AutoBridge para compradores de exportação — BYD Qin L DM-i, veículo híbrido plug-in sedã
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜BYD Qin L DM-i, プラグインハイブリッド車 セダン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜BYD Qin L DM-i, 플러그인 하이브리드 차량 세단
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — BYD Qin L DM-i, xe hybrid sạc ngoài sedan
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — BYD Qin L DM-i, รถปลั๊กอินไฮบริด รถเก๋งซีดาน
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — BYD Qin L DM-i, kendaraan hybrid plug-in sedan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Qin L DM-i, مركبة هجينة قابلة للشحن سيدان
+  - **ZH**: AutoBridge 出口采购参考｜BYD Qin L DM-i, 插电混动车 轿车
 
 ## ต้นฉบับและการตรวจสอบสิทธิ์
 | ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
@@ -95,13 +95,13 @@ A PHEV buyer needs four answers in order: ** เครื่องยนต์ �
 | Qin L DM-i 2024 120km การ ตัด ไม้ | ฐานข้อมูลของโซฮูออโต้ | CN | https://db.m.auto.sohu.com/trim_173018 | 2026-09-04 | ROOS_ CHCKED | 120 km CLTC อ้างอิงราคาในประเทศ พ.ศ. |
 | Fifth-gen DM range & fuel-use analysis | ออโต้เซจิฮาว | CN | https://chejiahao.m.autohome.com.cn/info/18596386? | 2026-09-04 | ผู้โดยสาร_ปลายทาง | เครื่องยนต์ที่สละแล้ว, เวลาชาร์จเร็ว, อ้างว่าช่วงรวม |
 | ผู้ ผลิต และ แคตตาล็อก ผลิตภัณฑ์ ถนน — ระบบ สอบ ถาม ของ ประชาชน |  MIT, กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูลจีน | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | เปิดใช้งาน | ตรวจสอบผู้ผลิต, โมเดลที่อนุญาต และการทําอัลบั้มแบบแบ่งประเภท (公告) ก่อนการสั่งซื้อหรือส่งออก |
-| ขนาด GB 16735-2019 รถ ที่ ใช้ ถนน — หมาย เลข รถ (VIN) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | เปิดใช้งาน | โครงสร้างและชื่อของ platt language ที่ใช้ในการตรวจสอบความถูกต้องของผู้ซื้อ/ ชื่อ |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน สภาวะความปลอดภัยทางเทคนิคและเวลาปัจจุบัน/การปรับปรุง |
+| ขนาด GB 16735-2019 รถ ที่ ใช้ ถนน — หมาย เลข รถ (VIN) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | เปิดใช้งาน | โครงสร้างและชื่อของ platt language ชื่อ |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน |
 | GB 38031 structive about safe (GB 38031-2025); โปรแกรมรุ่นใหม่ที่บังคับจาก 2026-07-01) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | เปิดใช้งาน | ความปลอดภัยเชิงรุก-บาทีเรียพื้นฐานสําหรับไฟฟ้าที่ขับเคลื่อนได้ |
 | GB 18384 ความปลอดภัยรถไฟฟ้า (GB 18384-2025)) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | เปิดใช้งาน | ความปลอดภัยไฟฟ้า-แรงโน้มถ่วง/ระบบไฟฟ้า |
 | GB 18352.6-2016 ด้วยระบบไฟฟ้าลัดวงจร XG1-2026 (จีน- 6 ปริมาตรแสงโพลีเจนต์) | กระทรวง นิเวศ วิทยา และ สิ่ง แวด ล้อม (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | เปิดใช้งาน | จีน 6 ระดับแสงและน้ําใส และวันที่ดําเนินการ 2026 มาตราฐาน |
 
-* convidence ข้อสังเกต: มิติและระยะถูกตรวจสอบข้ามฐานข้อมูลสองฐานข้อมูล รายละเอียดเครื่องยนต์ เวลาชาร์จเร็ว และ 2100 km เรียกร้องเป็นซิงเกิล/ตัวประกอบที่อ้างอิง ไม่ มี การ จัด พิมพ์ หนังสือ โอ อี เอ็ม ใน ต่าง ประเทศ — เฉพาะ การ อ้างอิง ถึง ตลาด จีน. *
+* convidence ข้อสังเกต: มิติและระยะถูกตรวจสอบข้ามฐานข้อมูลสองฐานข้อมูล รายละเอียดเครื่องยนต์ เวลาชาร์จเร็ว และ 2100 km ไม่ มี การ จัด พิมพ์ หนังสือ โอ อี เอ็ม ใน ต่าง ประเทศ — เฉพาะ การ อ้างอิง ถึง ตลาด จีน. *
 
 ## การทบทวนแก้ไข
 - ** aultor*: AutoBridge ส่งออกวิธีการแก้ไขคําทีม (AutoBridge) ต่อ [นโยบายแก้ไข] ของเรา (/Dercial-policy/)

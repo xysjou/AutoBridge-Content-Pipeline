@@ -7,33 +7,33 @@
 - ** H1 **: Shacman Delong X3000 Xe tải thải: Chassis, Cơ thể đang nạp và Xuất khẩu sự lựa chọn xây dựng
 - **Crimary Keyword**: Shacman X3000 đặc tả xe tải thải ra
 - **Secondary Search Words**: Shacman X3000 8x4 botper, Xe tải tải tải tải hàng dài 430, Weichai WP12 430, Nhanh 12-speed boper, Xuất khẩu xe tải của Trung Quốc 31t, Sarman 6x4 st
-- **I nội bộ Link gợi ý**: /vehcles/sinoruk- howo- t7h-tractor/; /guides/commercial-cial-crial-criet-criet-china /; /guides/import-chinese-silar-sso /
+- **I nội bộ Link gợi ý**: /vehcles/sinoruk- howo- t7h-tractor/; /guides/commercial-cial-crial-criet-criet-china /guides/import-chinese-silar-sso
 - **Image gợi ý**: 8x4 tipper xem bên; 7.6 m phía sau-tip cơ thể được nâng lên; trục và đình chỉ kiểu của người đàn ông; Weichai WP12 động cơ; khung chi tiết chi tiết
 - **LT Những gợi ý**: "Shacman Delong X3000 8x4 xe tải đổ rác, xây dựng Trung Quốc." " X3000 7.6 mét phía sau cơ thể được nâng lên." "Shacman X3000 trục giảm phân chia"
 
 ## Vai trò và Sắp hàng
 
-Delong (德龙) X3000 là khối lượng của Shacman **Heavy sp/tpperform**, xuất khẩu rộng rãi khắp châu Phi, Trung Đông và thị trường nói tiếng Nga. The reference China build is the **430 PS 8×4 with a 7.6 m body, Thông báo SX33105C406B **; gia đình cũng có số tiền 6 × 4/8 × 4  and  roughly 375–550 PS, với Trung Quốc V/Trung Quốc VI  and  giảm phân nửa (v. Euro II có thể tồn tại cùng một lúc với thị trường đích đến khác nhau. Một bản xuất khẩu ** 400 PS 6 × 4 chính thức được Shacman xác nhận. Thông báo chi tiết của Trung Quốc đến từ 360che (tài nguyên nơi đánh dấu); tỷ lệ xuất khẩu chính thức.
+Delong (德龙) X3000 là khối lượng của Shacman **Heavy sp/tpperform**, xuất khẩu rộng rãi khắp châu Phi, Trung Đông và thị trường nói tiếng Nga. The reference China build is the **430 PS 8×4 with a 7.6 m body, Thông báo SX33105C406B **; gia đình cũng có số tiền 6 × 4/8 × 4  and  roughly 375–550 PS, với Trung Quốc V/Trung Quốc VI  and  giảm phân nửa (v. Euro II có thể tồn tại cùng một lúc với thị trường đích đến khác nhau. Một bản xuất khẩu ** 400 PS 6 × 4 chính thức được Shacman xác nhận. Thông báo chi tiết của Trung Quốc đến từ (tài nguyên nơi đánh dấu); tỷ lệ xuất khẩu chính thức. 360che
 
 ## Xây cất tham khảo: 430 PS 8 × 4 (Trung Quốc)
 
 | Mục | Giá trị | Bằng chứng |
 |---|---|---|
-| Thông báo / lái | SX33105C406B, 8 × 4,  wheelbase 1800+3975+1400 mm | 360che (sngle) |
-| Toàn bộ L×WH | 10.55 × 2.55 × 3.45 m | 360che (sngle) |
-| Máy | Weichai WP12.430E50, 11.596 L inline- 6 diesel | 360che (sngle) |
-| Công suất/ Mô-men xoắn | 316 kW (430 PS) / 2060 N·m @ 1000–1400 rpm | 360che (sngle) |
-| Hộp bánh răng | Nhanh (法士特) 12JSD200T-B ** 12-speed hướng dẫn sử dụng** (2 đảo ngược); 460 PS China VI uses a 13-speed Fast | 360che (sngle) |
-| cong / Tốc độ tải / GVW | 15.5 t / 15.37 t / **31 t** | 360che (sngle) |
-| Cơ thể đang sôi sục. | **7.6 × 2.35 × 1.5 m, Tai sau (后翻)** | 360che (sngle) |
-| Trục trước | Kiểu nam, 9.5 t,  allowable 6500/6500 kg | 360che (sngle) |
-| Đáy sau | 16 t kiểu người đàn ông, 18,000 kg nhóm; tỷ lệ 5.262 | 360che (sngle) |
-| Ty - rơ / nhiên liệu | 12.00R20 × 12; 400 L thùng chất nổ | 360che (sngle) |
+| Thông báo lái | SX33105C406B, 8 × 4,  wheelbase 1800+3975+1400 mm | (sngle) | 360che
+| Toàn bộ L×WH | 10.55 × 2.55 × 3.45 m | (sngle) | 360che
+| Máy | Weichai WP12.430E50, 11.596 L inline- 6 diesel | (sngle) | 360che
+| Công suất/ Mô-men xoắn | 316 kW (430 PS) 2060 N·m @ 1000–1400 rpm | (sngle) | 360che
+| Hộp bánh răng | Nhanh (法士特) 12JSD200T-B ** 12-speed hướng dẫn sử dụng** (2 đảo ngược); 460 PS China VI uses a 13-speed Fast | (sngle) | 360che
+| cong Tốc độ tải GVW | 15.5 t 15.37 t **31 t** | (sngle) | 360che
+| Cơ thể đang sôi sục. | **7.6 × 2.35 × 1.5 m, Tai sau (后翻)** | (sngle) | 360che
+| Trục trước | Kiểu nam, 9.5 t,  allowable 6500/6500 kg | (sngle) | 360che
+| Đáy sau | 16 t kiểu người đàn ông, 18,000 kg nhóm; tỷ lệ 5.262 | (sngle) | 360che
+| Ty - rơ nhiên liệu | 12.00R20 × 12; 400 L thùng chất nổ | (sngle) | 360che
 
 ## Cơ chế xuất chính thức và các đánh giá khác
 
-- ** Xuất khẩu 6 × 4 (VERIEEEEEEEEEETETEEEE)**: Weichai 11.6 L inline- 6, ** 400 PS (294 kW) / 2000 N·m, China VI** on the Shacman Group; Shacman International lists 385/400/430 PS options and an 80 km/h governed top speed.
-- Số người Trung Quốc cao hơn bao gồm 460 PS WP12.460E62 (338 kW / 2200 N·m, China VI)  and  a 480 PS WP13.480E50 (353 kW, 12.54 L) — chỉ tham khảo cơ sở dữ liệu một nguồn để so sánh.
+- ** Xuất khẩu 6 × 4 (VERIEEEEEEEEEETETEEEE)**: Weichai 11.6 L inline- 6, ** 400 PS (294 kW) 2000 N·m, China VI** on the Shacman Group; Shacman International lists 385/400/430 PS options and an 80 km/h governed top speed.
+- Số người Trung Quốc cao hơn bao gồm 460 PS WP12.460E62 (338 kW 2200 N·m, China VI)  and  a 480 PS WP13.480E50 (353 kW, 12.54 L) — chỉ tham khảo cơ sở dữ liệu một nguồn để so sánh.
 
 Khi đặt hàng, khớp mã lực với hậu tố cơ khí ** và giai đoạn nhả ra**: 430 PS Trung Quốc- Động cơ V không giống với sản phẩm được chứng nhận bằng với động cơ xuất khẩu 400 PS, mặc dù kết quả xuất gần giống nhau.
 
@@ -58,7 +58,7 @@ Người ta không lấy được giá nào và cũng không ước tính giá n
 
 ## Người mua FAQ
 
-** Thư mục tham khảo 8 × 4 430 bao gồm những gì? Động cơ Weichai 11.596 L 430 PS, Nhanh 12-speed hướng dẫn sử dụng. 31 t GVW  and  a 7.6 × 2.35 × 1.5 m rear-tip body, Theo số liệu của 360che thông báo.
+** Thư mục tham khảo 8 × 4 430 bao gồm những gì? Động cơ Weichai 11.596 L 430 PS, Nhanh 12-speed hướng dẫn sử dụng. 31 t GVW  and  a 7.6 × 2.35 × 1.5 m rear-tip body, Theo số liệu của thông báo. 360che
 **Is there an official export version?** Yes — Shacman confirms a 400 PS 6×4 (294 kW/2000 N·m, China VI)  and  lists 385/400/430 PS options internationally.
 Tại sao phiên bản tiết ra lại khác nhau nhiều đến thế? Thị trường khác nhau về chất đốt và quy tắc nhập khẩu, nên Trung Quốc V/VI và các dự đoán cấp Euro thấp cùng tồn tại; khớp với động cơ đến đích.
 ♪ Hàng hạng nặng là bao nhiêu? ♪ Khoảng 15.37 t cho tham chiếu 8 × 4 (tài nguyên của máy tính), bị ảnh hưởng bởi các quy tắc trục chính/GVW và cơ thể cuối cùng được xây dựng.
@@ -77,26 +77,26 @@ Tại sao phiên bản tiết ra lại khác nhau nhiều đến thế? Thị tr
 - TRONG SÁCH TRONG LINH: FAIL (không có giấy phép lấy được tài sản; một người giữ chỗ hoặc “không chấp nhận lời nhắn cũ của hình ảnh ”
 - - Không. Không thể bảo đảm ảnh có thể tái tạo: Wikimedia Commons/Flickr không thể tới từ môi trường nghiên cứu, thư viện chứng khoán yêu cầu quyền truy cập hệ thống ARI/licence, và một trang web OEM không phải là một tài trợ tái sử dụng thương mại; không có ảnh tự động của AutoBridge. Giữ FAIL thay vì khẳng định.
 - Theo ngôn ngữ:
-  - **EN**: AutoBridge export-buyer reference — Shacman Delong X3000, petrol/diesel Chinese-market vehicle / dump/tipper truck
-  - **FR**: Référence AutoBridge pour acheteurs export — Shacman Delong X3000, véhicule thermique (marché chinois) / camion benne
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Shacman Delong X3000, Verbrenner (chinesischer Markt) / Kipper
-  - **ES**: Referencia AutoBridge para compradores de exportación — Shacman Delong X3000, vehículo de combustión (mercado chino) / camión volqueta
-  - **PT**: Referência AutoBridge para compradores de exportação — Shacman Delong X3000, veículo a combustão (mercado chinês) / caminhão basculante
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Shacman Delong X3000, 中国市場仕様 内燃機関車 / ダンプカー
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Shacman Delong X3000, 중국 시장 내연기관 차량 / 덤프트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Shacman Delong X3000, xe động cơ đốt trong (thị trường Trung Quốc) / xe ben
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Shacman Delong X3000, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถดั๊มพ์
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Shacman Delong X3000, kendaraan mesin pembakaran (pasar Tiongkok) / truk dump
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Shacman Delong X3000, مركبة بمحرك احتراق (سوق الصين) / شاحنة قلابة
-  - **ZH**: AutoBridge 出口采购参考｜Shacman Delong X3000, 中国市场燃油车 / 自卸车
+  - **EN**: AutoBridge export-buyer reference — Shacman Delong X3000, petrol/diesel Chinese-market vehicle dump/tipper truck
+  - **FR**: Référence AutoBridge pour acheteurs export — Shacman Delong X3000, véhicule thermique (marché chinois) camion benne
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Shacman Delong X3000, Verbrenner (chinesischer Markt) Kipper
+  - **ES**: Referencia AutoBridge para compradores de exportación — Shacman Delong X3000, vehículo de combustión (mercado chino) camión volqueta
+  - **PT**: Referência AutoBridge para compradores de exportação — Shacman Delong X3000, veículo a combustão (mercado chinês) caminhão basculante
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Shacman Delong X3000, 中国市場仕様 内燃機関車 ダンプカー
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Shacman Delong X3000, 중국 시장 내연기관 차량 덤프트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Shacman Delong X3000, xe động cơ đốt trong (thị trường Trung Quốc) xe ben
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Shacman Delong X3000, รถเครื่องยนต์สันดาป (ตลาดจีน) รถดั๊มพ์
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Shacman Delong X3000, kendaraan mesin pembakaran (pasar Tiongkok) truk dump
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Shacman Delong X3000, مركبة بمحرك احتراق (سوق الصين) شاحنة قلابة
+  - **ZH**: AutoBridge 出口采购参考｜Shacman Delong X3000, 中国市场燃油车 自卸车
 
 ## Nguồn và Định dạng
 
 | Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
-| X3000 430 8×4 parameters | 360che (卡车之家) | CN | https://product.m.360che.com/m355/88939_param.html | 2026-09-02 | ĐÃ_ ĐÃ | Thông báo, WP12.430, hộp số, tạ, cơ thể, trục, lốp |
-| X3000 6 × 4 chính thức đổ rác | Nhóm  nằm vùng (chính thức) | Trình gửi/ thả thư | https://www.shacman-group.com/products/shacman-x3000-6x4-dump-truck/ | 2026-09-02 | VEII | 11.6 L 400 PS / 294 kW / 2000 N·m, Trung Quốc VI |
-| So sánh X3000 đa dạng | 360che (卡车之家) | CN | https://product.m.360che.com/m299/74922_param.html | 2026-09-02 | ĐÃ_ ĐÃ | 375–550 PS versions, Name |
+| X3000 430 8×4 parameters | (卡车之家) | CN | https://product.m.360che.com/m355/88939_param.html | 2026-09-02 | ĐÃ_ ĐÃ | Thông báo, WP12.430, hộp số, tạ, cơ thể, trục, lốp | 360che
+| X3000 6 × 4 chính thức đổ rác | Nhóm  nằm vùng (chính thức) | Trình gửi/ thả thư | https://www.shacman-group.com/products/shacman-x3000-6x4-dump-truck/ | 2026-09-02 | VEII | 11.6 L 400 PS 294 kW 2000 N·m, Trung Quốc VI |
+| So sánh X3000 đa dạng | (卡车之家) | CN | https://product.m.360che.com/m299/74922_param.html | 2026-09-02 | ĐÃ_ ĐÃ | 375–550 PS versions, Name | 360che
 | X3000 international | Shacman Quốc tế (chính thức) | Xuất | https://www.shacmaninternational.cn/product-38.html | 2026-09-02 | VEII | Tốc độ tối đa 80 km/h. cơ sở bánh xe,  385/400/430 options |
 
 | Name | MIT, Bộ Công nghệ và Thông tin Trung Quốc | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VEII | Kiểm tra nhà sản xuất, mô hình được phê chuẩn và mục liệt kê (公告) trước khi đặt hàng hoặc xuất |
@@ -108,7 +108,7 @@ Tại sao phiên bản tiết ra lại khác nhau nhiều đến thế? Thị tr
 *Briendence Note (tự động Bridge: Động cơ xuất 400 PS được VERFIED trên kênh hành chính Shacman; chi tiết 430 PS 8 × 4 con số thông báo là SINGLE_SOURCE (360che). Giá cả không được xác định và bị lãng quên. Xác nhận tòa nhà cuối cùng trên tờ quốc tế Shacman. ♪
 
 ## Xem lại tập tin
-- **Author / recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
+- **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
 - **Last xem lại**: 2026-09-05
 - ** Thị trường khảo sát**: Trung Quốc tham khảo xây dựng + chính thức cấu hình xuất khẩu
 - **Verification phương pháp**: chính thức Shacman kênh cộng với một cơ sở dữ liệu thương mại độc lập; các mục nguồn đơn có nhãn

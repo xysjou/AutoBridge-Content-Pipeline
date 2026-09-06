@@ -19,7 +19,7 @@ Um EV chinês-doméstico que passa pela alfândega ainda pode ser efetivamente i
 
 | Padrão | Implementação primária | Notas |
 |---|---|---|
-| **GB/T 20234.3 ** (DC) + **GB/T 27930 ** (comunicação CAN) | China (veículos chineses domésticos) | GB/T 20234.3-2023 eleva o limite superior para ** 1500 V / 800 A** (fontes da indústria verificadas cruzadas) |
+| **GB/T 20234.3 ** (DC) + **GB/T 27930 ** (comunicação CAN) | China (veículos chineses domésticos) | GB/T 20234.3-2023 eleva o limite superior para ** 1500 V 800 A** (fontes da indústria verificadas cruzadas) |
 | ** CCS2 (Combo 2)** | A Europa e muitos mercados de exportação | Entrada combinada AC/DC; dominante na UE |
 | ** CCS1 (Combo 1)** | América do Norte | Variante regional da CCS |
 | **CHAdeMO** | Japão e mercados seleccionados | Originado no Japão |
@@ -33,7 +33,7 @@ EVs chineses domésticos geralmente enviam com **GB/T** carregamento DC e o aper
 
 ## Três maneiras de resolver — em ordem de preferência
 
-1. ** Ordenar a versão de exportação de fábrica com a entrada de destino.** Muitos fabricantes chineses constroem variantes do mercado de exportação equipadas com o conector alvo (por exemplo, CCS2) em vez da entrada nacional GB / T. Esta é a rota mais limpa porque entrada, software a bordo e certificação estão alinhados. Confirme o conector exato **por VIN/modelo na configuração oficial de exportação da marca** — versões nacionais e de exportação do modelo "mesmo" diferem.
+1. ** Ordenar a versão de exportação de fábrica com a entrada de destino.** Muitos fabricantes chineses constroem variantes do mercado de exportação equipadas com o conector alvo (por exemplo, CCS2) em vez da entrada nacional GB T. Esta é a rota mais limpa porque entrada, software a bordo e certificação estão alinhados. Confirme o conector exato **por VIN/modelo na configuração oficial de exportação da marca** — versões nacionais e de exportação do modelo "mesmo" diferem.
 2. **Use um adaptador certificado (destino GB/T ↔). ** Quando uma versão de exportação de fábrica não está disponível, um adaptador liga diferenças físicas/comunicação. Trate isso como uma questão de conformidade, não apenas hardware: ** alguns mercados restringem o uso do adaptador**, e a certificação do adaptador/estado legal não foi capturada de uma fonte oficial — verifique localmente e carregue os documentos de certificação do adaptador. A velocidade de carregamento do adaptador e a confiabilidade do aperto de mão devem ser testadas antes da implantação da frota.
 3. ** Solucione-o no lado da infra-estrutura.** Os operadores de depósitos/carregadores podem instalar carregadores com capacidade GB/T nas suas próprias instalações, eliminando a dependência da rede pública — viáveis para frotas fechadas, não para clientes de retalho que dependem de estações públicas.
 
@@ -48,7 +48,7 @@ Um gráfico de padrões diz que GB/T difere de CCS2; não lhe diz se *este VIN* 
 Para cada modelo/paragem que você exporta, registre em uma folha:
 
 - Entrada doméstica: GB/T DC + AC tipo de entrada
-- Entrada(s) de exportação de fábrica disponível(s): CCS2 / CHAdeMO / NACS / CCS1 por VIN
+- Entrada(s) de exportação de fábrica disponível(s): CCS2 CHAdeMO NACS CCS1 por VIN
 - Protocolo de comunicação e se o firmware de exportação suporta o aperto de mão de destino
 - Se adaptador baseado: modelo adaptador, certificação, corrente/tensão máxima e legalidade local
 - Realidade da rede pública no destino (padrão dominante DC; padrão AC)
@@ -64,7 +64,7 @@ Para cada modelo/paragem que você exporta, registre em uma folha:
 
 ## Perguntas Mais Frequentes
 
-** Pode um chinês GB / T EV cobrar diretamente em Europeu CCS2 ?** Não — GB/T e CCS2 são fisicamente incompatíveis; você precisa de uma versão de exportação CCS2 fábrica ou um adaptador adequado, compatível localmente.
+** Pode um chinês GB T EV cobrar diretamente em Europeu CCS2 ?** Não — GB/T e CCS2 são fisicamente incompatíveis; você precisa de uma versão de exportação CCS2 fábrica ou um adaptador adequado, compatível localmente.
 ** O que é GB/T 27930 ?** É o protocolo de comunicação baseado em CAN usado ao lado do conector GB/T 20234.3 DC na China; o aperto de mão importa tanto quanto a forma do plug.
 ** Um adaptador é uma solução permanente?** Pode colmatar a lacuna, mas a legalidade do adaptador varia de acordo com o mercado e a velocidade/confiança deve ser testada; a entrada de exportação de fábrica é preferida.
 **As marcas chinesas vendem CCS2 versões?** Muitas variantes de exportação de compilação com o conector de destino – confirmar por modelo/VIN na configuração oficial de exportação em vez de assumir.
@@ -103,14 +103,14 @@ Para cada modelo/paragem que você exporta, registre em uma folha:
 | Apresentação padrão ChaoJi (oficial) | Associação CHAdeMO (organismo de normas) | CN/JP/Global | https://www.chademo.com/wp2016/wp-content/uploads/ChaoJi202006/ChaoJi_Presenataion_EN.pdf | 2026-09-02 | VERIFICADO | ChaoJi projetado compatível com GB/T/CHAdeMO/CCS |
 | Caminhos de certificação padrão de carregamento | Testes Huayu (corpo de certificação) | Global | http://www.huayutest.com/zixun/87747.html | 2026-09-02 | CROSS_CHECKED | CHAdeMO/CCS implantação regional, diferenças de certificação |
 | Normas de ligação de carregamento | cehome (meios de produção) | NC | https://m.cehome.com/news/20260809/389612.shtml | 2026-09-02 | CROSS_CHECKED | GB/T 20234.3-2023 1500V/800A,  GB/T 27930, ChaoJi |
-| GB/T, CCS2, Tipo 2, NACS, CHAdeMO comparado | evse-chargers.com (indústria) | Global | https://www.evse-chargers.com/news/understanding-ev-charging-standards-gb-t-ccs2-type-2-nacs-and-chademo-compared-283319.html | 2026-09-02 | CROSS_CHECKED | GB/T↔ CCS2 requer adaptador; matriz de compatibilidade |
+| GB/T, CCS2, Tipo 2, NACS, CHAdeMO comparado | (indústria) | Global | https://www.evse-chargers.com/news/understanding-ev-charging-standards-gb-t-ccs2-type-2-nacs-and-chademo-compared-283319.html | 2026-09-02 | CROSS_CHECKED | GB/T↔ CCS2 requer adaptador; matriz de compatibilidade |
 | Guia para padrões globais de carregamento EV | MARUIKEL (indústria) | Global | https://www.maruikel.com/es/blog/guide-to-global-ev-charging-standards-type-1-type-2-ccs-chademo-gbt.html | 2026-09-02 | CROSS_CHECKED | Conector de destino GB/T doméstico vs exportação-versão |
 | Guia do adaptador GB/T-para-CHAdeMO B2B | Auto China elétrica (indústria) | Global | https://www.electricautochina.com/comprehensive-b2b-guide-to-gbt-to-chademo-adapters-for-exported-chines/ | 2026-09-02 | CROSS_CHECKED | Bloqueio de compatibilidade das exportações |
 
 * Nota de confiança (padrão AutoBridge): fatos de nível padrão são VERIFIED/CROSS_CHECKED (CHAdeMO A associação é um organismo de normas). Os conectores de exportação por modelo, a legalidade do adaptador por país e o tempo de implantação do NACS não foram capturados e devem ser confirmados por VIN e por autoridade de destino. *
 
 ## Revisão Editorial
-- **Autor / revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)
+- **Autor revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)
 - ** Última revisão**: 2026-09-05
 - **Mercado de referência**: Global (China export side; EU/JP/NA implantation)
 - ** Método de verificação**: Documento de corpo padrão mais fontes de indústria verificadas cruzadas; conectores específicos para modelos deixados para confirmação oficial por VIN

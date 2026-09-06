@@ -6,7 +6,7 @@
 - ** H1 **: Thời đại xe hơi sử dụng giới hạn qua các thị trường Châu Phi: ma trận được xây dựng để được sinh ra, không phải ghi nhớ
 - **Cumpary Keyword**: africa sử dụng độ tuổi nhập khẩu xe hơi giới hạn bởi quốc gia ma trận
 - **Secondary Search Wordss**: Kenya sử dụng tuổi xe hơi giới hạn 8 năm đầu tiên đăng ký xe hơi, nhập khẩu xe hơi 15 năm, Ethiopia sử dụng lệnh cấm xe hơi, nhập khẩu Ghana, tuổi lái xe, hạn chế xe cộ Sudan, Côte d'C, KEBS DKS 1515
-- **I nội bộ Link gợi ý: //guides/vehic-consment-i-pies-psi /; /guides/vehle-coc-approval-Bilter / / / /guides/childa-ecle-ex-ex-cense-cis-Dient-doc-doc-dotttttt/ /; / / / /guides/
+- **I nội bộ Link gợi ý: /guides/vehle-coc-approval-Bilter /guides/childa-ecle-ex-ex-cense-cis-Dient-doc-doc-dotttttt/ /guides/
 - **Image gợi ý**: bàn ma trận quốc gia; sản xuất năm chống lại dòng thời gian đầu tiên của năm; biểu đồ đường chính thức xác
 - **LT gợi ý**: "Arican sử dụng tuổi xe giới hạn ma trận xác thực," "năm kiến trúc so với năm đăng ký đầu tiên"
 ## Đọc bằng chứng được khắc trên bảng
@@ -18,18 +18,18 @@ Trước bất cứ vấn đề nào, hãy xác định căn bản — sự tư�
 - ** Ngày tham khảo** — tuổi ở chuyến hàng, ngày B/L, hoặc khi đến; câu trả lời có thể khác nhau hàng tháng.
 - **Vehile-tli khác nhau-- xe chở khách, hàng nhẹ, xe buýt/hai chỗ thường có giới hạn khác nhau (Kenya là luật riêng biệt cho hàng hóa và xe đặc biệt).
 ## Comment
-| Nước | Thiết bị lái | Quy tắc tuổi tác | Căn bản / tự tin |
+| Nước | Thiết bị lái | Quy tắc tuổi tác | Căn bản tự tin |
 |---|---|---|---|
 | **Kenya** | RHD (ngoại lệ hạn chế cho phương tiện đặc biệt) | ** Hơn 8 năm kể từ năm đăng ký đầu tiên = không cho phép nhập khẩu (xe qua)**; khoảng cách giữa năm đầu tiên và năm sản xuất được bao bọc trong một năm | **VERIEIE — chính**: KEBS DKS 1515: 2025 ♪ 4.7.1–4.7.2, được chứng thực bởi KRA (Legal Note 78/2005); KS 1515) |
 | **Nigeria** | Xác nhận lại chống lại hướng dẫn quan hệ hiện tại trước khi trích dẫn (cửa lái chính thức của cánh cổng lái nên được kiểm tra trực tiếp; không giả sử) | ** Dùng xe hơi hơn 15 (từ năm sản xuất) bị cấm không cho nhập khẩu**; một chiếc xe hơi của Nac được áp dụng | **VERIEEEEEEEEEEEEEEEEEEEEEEEEEEEE (age) — chính: Cửa sổ độc quyền Nigeria; được chứng thực bởi danh sách nhập khẩu của các tập đoàn hải quan Nigeria. Bắt buộc từ trái để xác nhận trực tiếp |
-| **Ethiopia** | - | Reported ≤5 years, với một thông báo chuyển hướng đến việc hạn chế việc nhập khẩu xe tải bằng nhiên liệu hóa thạch (theo hướng) | TIẾNG _ DỐI / không phải là nguyên nhân — xác minh |
-| **Ghana** | - | Báo cáo _ 10 năm; bắt buộc **OBD-II** kiểm tra và khí thải Euro 3-or-above báo cáo từ 2023 | TIẾNG _ DỐI / không phải là nguyên tắc — Xác minh tiêu chuẩn hiện thời |
-| **Mozbique* ♪ | - | Reported ≤8 years from registration to export; chuỗi bảo trì-có ích đã báo cáo | SINGLE-SOURCE / phi nguyên tử — xác nhận |
-| **Sudan** | - | Báo cáo có cột: hành khách 7 / sever-light-goods 8 / bus-heavy 10 năm, với phí vẫn có thể trả ngay cả khi tính tiền | SINGLE-SOURCE / phi nguyên tử — xác nhận |
-| **Côte d'S braft** | - | **Không có một cái nón cố định nào báo cáo**, nhưng bắt buộc **CoC** tuân theo và ghi chép bảo trì theo dõi | SINGLE-SOURCE / phi nguyên tử — xác minh chương trình CoC |
-Các cuộc xung đột trước đây 7-vs-8 (Kenya) và 12-vs-15 (Nigeria) được giải quyết để ủng hộ các công cụ chính **, không phải bằng cách chọn một người tiếp theo: Kenya = 8 từ đăng ký đầu tiên (KEBS/KRA), Nigeria = 15 từ việc sản xuất (cửa sổ độc nhất / Phong tục).
+| **Ethiopia** | - | Reported ≤5 years, với một thông báo chuyển hướng đến việc hạn chế việc nhập khẩu xe tải bằng nhiên liệu hóa thạch (theo hướng) | TIẾNG _ DỐI không phải là nguyên nhân — xác minh |
+| **Ghana** | - | Báo cáo _ 10 năm; bắt buộc **OBD-II** kiểm tra và khí thải Euro 3-or-above báo cáo từ 2023 | TIẾNG _ DỐI không phải là nguyên tắc — Xác minh tiêu chuẩn hiện thời |
+| **Mozbique* ♪ | - | Reported ≤8 years from registration to export; chuỗi bảo trì-có ích đã báo cáo | SINGLE-SOURCE phi nguyên tử — xác nhận |
+| **Sudan** | - | Báo cáo có cột: hành khách 7 sever-light-goods 8 bus-heavy 10 năm, với phí vẫn có thể trả ngay cả khi tính tiền | SINGLE-SOURCE phi nguyên tử — xác nhận |
+| **Côte d'S braft** | - | **Không có một cái nón cố định nào báo cáo**, nhưng bắt buộc **CoC** tuân theo và ghi chép bảo trì theo dõi | SINGLE-SOURCE phi nguyên tử — xác minh chương trình CoC |
+Các cuộc xung đột trước đây 7-vs-8 (Kenya) và 12-vs-15 (Nigeria) được giải quyết để ủng hộ các công cụ chính **, không phải bằng cách chọn một người tiếp theo: Kenya = 8 từ đăng ký đầu tiên (KEBS/KRA), Nigeria = 15 từ việc sản xuất (cửa sổ độc nhất Phong tục).
 ## Đường đi đáng tin cậy (hãy dùng nó cho mỗi chuyến hàng)
-1. ** Công cụ chính:** Điểm đến ** là quyền hạn hay tiêu chuẩn của cơ thể gốc cũ** của chủ đề hoặc là cái nhìn của người nhập khẩu hiện tại — cho Kenya là tài liệu KEBS/KRA, cho Nigeria Cửa sổ độc lập / Tập tục — chứ không phải là blog hàng hóa.
+1. ** Công cụ chính:** Điểm đến ** là quyền hạn hay tiêu chuẩn của cơ thể gốc cũ** của chủ đề hoặc là cái nhìn của người nhập khẩu hiện tại — cho Kenya là tài liệu KEBS/KRA, cho Nigeria Cửa sổ độc lập Tập tục — chứ không phải là blog hàng hóa.
 2. **Fix cơ sở:** sản xuất chống lại đăng ký đầu tiên, khoảng cách sản xuất để tái lập, ngày tháng và lớp học xe cộ.
 3. **Steering-side crixity:** Kenya là RHD với ngoại lệ đặc biệt hẹp, đối với Nigeria tái xác nhận lại quy tắc văn bản hiện tại thay vì dựa trên giả định chung — một sự so sánh sai trái về tay lái có thể bị từ chối bất kể tuổi tác.
 4. **Sự mâu thuẫn/sự hòa hợp cổng:** Kiểm tra đích đến Nigeria, Ghana **OBD-II**, Côte d'CoC**, đường nhập khẩu chất lượng KEBS/jev, và bất kỳ đường dẫn PSI được thiết kế đích đến nào (xem hướng dẫn PSI) — xác nhận chương trình và thanh tra.
@@ -83,13 +83,13 @@ Các cuộc xung đột trước đây 7-vs-8 (Kenya) và 12-vs-15 (Nigeria) đ�
 | Tuổi đa quốc gia/ thời trang báo cáo các giá trị (Ethiopia/ Sudan/Mozambique etc.) | Vật liệu tua lại Freight | Phi | https://m.11467.com/product/d39248249.htm | 2026-09-03 | SINGLE_SOURCE | Giá trị báo cáo không chính xác cho quốc gia còn lại đánh dấu |
 | Các ngưỡng báo cáo Ghana/Tanzania/Mozbique | Vật liệu tua lại Freight | Phi | https://m.11467.com/product/d53540859.htm | 2026-09-03 | SINGLE_SOURCE | Ghana OBD-II/Euro- 3 và Mozambique đã báo cáo các giá trị (không phải là nguyên tố) |
 | Giới hạn và mức phí của Sudan | Đóng góp tự động | Mặt trời | https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/26095860 | 2026-09-03 | SINGLE_SOURCE | Sudan reported 7/8/10 tiered rule (non-primary) |
-| Nhập & Côte d'SQUD (không có nút cứng / bắt buộc CoC) | Vật liệu tua lại Freight | Cote d'SSQU | https://m.11467.com/product/d55528521.htm | 2026-09-03 | SINGLE_SOURCE | Không có nắp cố định; coC + đĩa (không phải nguyên tố) |
+| Nhập & Côte d'SQUD (không có nút cứng bắt buộc CoC) | Vật liệu tua lại Freight | Cote d'SSQU | https://m.11467.com/product/d55528521.htm | 2026-09-03 | SINGLE_SOURCE | Không có nắp cố định; coC + đĩa (không phải nguyên tố) |
 *Evidence tieers: Kenya (KEBS+KRA) và quy tắc tuổi Nigeria (Sinle window + ancers sumps) được chọn chính. Nigeria lái xe và mọi hàng ghế quốc gia khác vẫn chưa được ưu tiên và phải được chính thức kiểm tra cho lớp xe chính xác trước khi vận chuyển; không có tổng quát khu vực được thực hiện. ♪
 ## Xem lại tập tin
-- **Author / recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
+- **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
 - **Last xem lại**: 2026-09-05
-- ** Thị trường khảo sát / phạm vi**: khung đa quốc gia Châu Phi (CRIR_PCIFC; Kenya & Nigeria chính-anchored; các thị trường khác đánh dấu; không tổng quát khu vực)
-- ** phương pháp thông tin**: các công cụ chính được ưu tiên hơn xung đột trước (HS_FIRST / SOURCE_SCOPE / PRIME_ SOPCE_SCOPE_MAPRRRRRRRRR); xung đột được giải quyết chỉ khi văn bản chính bị bắt
+- ** Thị trường khảo sát phạm vi**: khung đa quốc gia Châu Phi (CRIR_PCIFC; Kenya & Nigeria chính-anchored; các thị trường khác đánh dấu; không tổng quát khu vực)
+- ** phương pháp thông tin**: các công cụ chính được ưu tiên hơn xung đột trước (HS_FIRST SOURCE_SCOPE PRIME_ SOPCE_SCOPE_MAPRRRRRRRRR); xung đột được giải quyết chỉ khi văn bản chính bị bắt
 - **Ku thích về tiêu chuẩn**: Nghiên cứu và viết từ những nguồn được liệt kê ở trên (các nghiên cứu ban đầu; không có ổ đĩa cầm tay, bỏ xuống hoặc nhập khẩu nào được xác nhận). Sự tự tin nguồn được thể hiện trên mỗi hàng; bất cứ điểm nào chúng ta không thể tự xác nhận được đều được trình bày như một vật chứng thực thay vì xác nhận là sự thật.
 - **Sự khác biệt**: việc soạn thảo có hỗ trợ bởi Al-assed đã được sử dụng. Bài này dựa trên nghiên cứu bàn giấy và tự động QA. Không có thử nghiệm tay đầu tiên được xác nhận trừ khi được ghi lại rõ ràng; xác nhận yêu cầu thời gian và đích đến trước khi chuyển đổi.
 #AutoBridge #ExportProcurement #AfricaImport #UsedCarImport #BuyerVerification

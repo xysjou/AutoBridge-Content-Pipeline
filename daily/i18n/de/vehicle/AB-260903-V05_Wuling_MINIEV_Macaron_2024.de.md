@@ -11,7 +11,7 @@
 - **ALT Vorschläge**: "Wuling MINIEV Macaron micro EV dimensions"; "MINIEV Macaron 170 215 CLTC range"
 
 ## Käuferkontext: Passen Sie das Produkt an den Use Case an
-Der Hongguang Miniev Macaron ist ein ** micro urban electric car**, kein kompaktes EV. ** 3064 mm lang  and  777 kg Kerb**, es sitzt eine volle Klasse unter einer kleinen Heckklappe — für die Skala,  the BYD Dolphin on this same catalogue is around **4125 mm long** with 420/520 km CLTC grades. Diese Lücke ist die gesamte Kaufentscheidung: Der Wert von Macaron ist die Mobilität in der Stadt zu einem sehr niedrigen chinesischen Preis; seine Grenzen sind die Höchstgeschwindigkeit (** 100 km/h **),  range (**170/215 km CLTC**), Ladegeschwindigkeit  and  Kabinengröße. Ein Exporteur, der es gegen B-Segment-EVs positioniert, wird Rückgabeprobleme verursachen; Wer es als definiertes urbanes / Last-Mile-Produkt verkauft, wird es nicht tun. Diese Seite deckt die ** 3rd-generation Macaron, Modelljahr 2024 (REFERENZMARKT): CHINA**.
+Der Hongguang Miniev Macaron ist ein ** micro urban electric car**, kein kompaktes EV. ** 3064 mm lang  and  777 kg Kerb**, es sitzt eine volle Klasse unter einer kleinen Heckklappe — für die Skala,  the BYD Dolphin on this same catalogue is around **4125 mm long** with 420/520 km CLTC grades. Diese Lücke ist die gesamte Kaufentscheidung: Der Wert von Macaron ist die Mobilität in der Stadt zu einem sehr niedrigen chinesischen Preis; seine Grenzen sind die Höchstgeschwindigkeit (** 100 km/h **),  range (**170/215 km CLTC**), Ladegeschwindigkeit  and  Kabinengröße. Ein Exporteur, der es gegen B-Segment-EVs positioniert, wird Rückgabeprobleme verursachen; Wer es als definiertes urbanes Last-Mile-Produkt verkauft, wird es nicht tun. Diese Seite deckt die ** 3rd-generation Macaron, Modelljahr 2024 (REFERENZMARKT): CHINA**.
 
 ## Antriebsstrang und Batterie (Mikro-EV-Fokus)
 | Position | 3rd-gen Macaron 2024 (China-Referenz) |
@@ -19,7 +19,7 @@ Der Hongguang Miniev Macaron ist ein ** micro urban electric car**, kein kompakt
 | Körper/Sitze | 3-door, 4-seat Heckklappe |
 | Hinterer Motor | 20 kW (Klasse 170 km) |
 | Batteriechemie | LFP; die 215 km-Klasse trägt etwa 13.4 kWh (Single-Source) |
-| CLTC-Range-Grades | 170 km / 215 km |
+| CLTC-Range-Grades | 170 km 215 km |
 | Höchstgeschwindigkeit | 100 km/h (Single-Source) |
 | Kerbgewicht | 777 kg (Single-Source) |
 | Gebühren | Hauptsächlich **langsames (AC) Laden **; any DC fast-charge on the 215 grade is configuration-dependent (single-source) — confirm on the VIN |
@@ -27,12 +27,12 @@ Die beiden Überschriften, die Käufer verwechseln, sind die ** Range-Noten (170
 
 ## Grade-Selection Logic: 170 vs 215 für einen Flottenbefehl
 Beide Klassen teilen sich das gleiche 3064 mm Mikrokörper- und Viersitzer-Layout, so dass die Wahl eine Duty-Cycle-Entscheidung ist, keine Größenentscheidung:
-- ** 170 km Grad / 20 kW ** - niedrigste Bezugspunkt für den Erwerb (ungefähr 41 RMB, 800 inländische, zeitsensibel); geeignet für feste, kurze Tagesschleifen, in denen das Fahrzeug über Nacht zur Basis zurückkehrt und langsam aufgeladen wird (Campus, Gated Community, Resort, kurze Miete, letzte Meile mit einem kleinen Radius).
+- ** 170 km Grad 20 kW ** - niedrigste Bezugspunkt für den Erwerb (ungefähr 41 RMB, 800 inländische, zeitsensibel); geeignet für feste, kurze Tagesschleifen, in denen das Fahrzeug über Nacht zur Basis zurückkehrt und langsam aufgeladen wird (Campus, Gated Community, Resort, kurze Miete, letzte Meile mit einem kleinen Radius).
 - ** 215 km Grad / ~ 13.4 kWh LFP * - ungefähr RMB 46, 800 inländische Referenz; die zusätzliche Kapazität kauft Duty-Cycle-Fortschritt, und es ist die einzige Klasse, auf der eine DC-Bereitstellung erscheinen kann - und selbst dort ist es **konfigurationsabhängig und muss pro VIN * bestätigt werden, nicht angenommen.
 The procurement trap is ordering the 170 grade on price for a route that needs mid-day top-ups, Weil ein Kleinstauto mit langsamer Ladung sich während eines kurzen Stopps nicht erholen kann. Entscheiden Sie zuerst die tägliche Schleife und wählen Sie dann die Note aus; Wenden Sie es nicht um.
 
 ## Dimensionen und Verpackungsrealität
-- Länge / Breite / Höhe: ** 3064 / 1493 / 1629 mm **
+- Länge Breite Höhe: ** 3064 1493 1629 mm **
 - Radstand: ** 2010 mm **
 Mit knapp über 3 m Länge ist der Macaron eines der kleinsten viersitzigen EVs auf dem chinesischen Markt. Vier Sitze sind vorhanden, aber Rückraum und Gepäckvolumen sind Mikro-Auto-Skala - "4-seat" bedeutet gelegentliche vier-up-städtische Nutzung, nicht vier-Erwachsenen Komfort. Der geringe Stellplatz ist auch der Ladevorteil: Mehr Einheiten pro Container als ein herkömmliches Auto, aber die genaue Anzahl hängt immer noch von einem **gemessenen Ladeplan und der genehmigten Verstauung des Spediteurs ab ** (siehe Containerladeführer) - geben Sie keine feste Zahl aus der Länge an.
 
@@ -45,10 +45,10 @@ Mit knapp über 3 m Länge ist der Macaron eines der kleinsten viersitzigen EVs 
 Micro-EV-Linien ändern häufig die Grade-/Ladekombinationen, sperren Sie diese Felder also gegen das **spezifische VIN-Baublatt **, nicht den Broschürennamen:
 1. **Range Grad (170/215) und passende Batterie kWh** - der Name "Macaron" allein sagt nicht, welche.
 2. **Ladevorkehrung** — AC nur langsam aufladen, oder ein DC auf der 215 Grad; plus die physische Stecker-Standard für das Ziel.
-3. ** Motorleistung und Höchstgeschwindigkeit** für die Klasse (20 kW / 100 km/h Referenz).
+3. ** Motorleistung und Höchstgeschwindigkeit** für die Klasse (20 kW 100 km/h Referenz).
 4. **Seit der Lenkung und Cluster/Infotainmentsprache** – nehmen Sie keine RHD oder eine lokale Sprach-Benutzeroberfläche auf einem China-Build an.
 5. **Homologation/Sicherheits-Inhalt** Status für das Ziel – ein Micro-EV muss noch klare lokale Marktzugangsregeln (siehe CoC/Typgenehmigungsleitfaden) festlegen.
-6. ** EV Versanddokumente ** (UN38.3/MSDS plus unter IMDG Änderung 42-24 (obligatorisch von 2026-01-01) ein Lithium-Ionen-Batterie-Fahrzeug klassifiziert UN3556, nicht die Legacy-Generika UN3171; gelten Dokumentation / SOC Details nach dem aktuellen EV Versand Fact Sheet und der Träger (siehe EV Ocean-Compliance Guide)) trotz der kleinen Batterie.
+6. ** EV Versanddokumente ** (UN38.3/MSDS plus unter IMDG Änderung 42-24 (obligatorisch von 2026-01-01) ein Lithium-Ionen-Batterie-Fahrzeug klassifiziert UN3556, nicht die Legacy-Generika UN3171; gelten Dokumentation SOC Details nach dem aktuellen EV Versand Fact Sheet und der Träger (siehe EV Ocean-Compliance Guide)) trotz der kleinen Batterie.
 
 ## Beantragen Sie eine aktuelle Ausfuhrquote
 Es wird kein statischer Ausfuhrpreis veröffentlicht. Die ungefähr RMB 41, 800 / 46, 800 Chinesische Zahlen sind ** inländische, zeitsensible Referenzen - nicht FOB / CIF **. Erkundigen Sie sich bei **Zielland · Menge · Range Grade (170/215) · LHD/RHD · Ladevorrat · Zielhafen · Incoterm**.
@@ -90,10 +90,10 @@ Es wird kein statischer Ausfuhrpreis veröffentlicht. Die ungefähr RMB 41, 800 
 ## Quellen & Verifizierung
 | Quelle: | Organisation | Markt | URL | Geprüft | Vertrauen | Belegte Fakten |
 |---|---|---|---|---|---|---|
-| Macaron fügt 170 km / 20 kW hinzu | Autohome | CN | https://chejiahao.m.autohome.com.cn/info/13878133 | 2026-09-03 | CROSS_CHECKED | 20 kW, 170 km, Inlandspreis (TIME_SENSITIVE) |
+| Macaron fügt 170 km 20 kW hinzu | Autohome | CN | https://chejiahao.m.autohome.com.cn/info/13878133 | 2026-09-03 | CROSS_CHECKED | 20 kW, 170 km, Inlandspreis (TIME_SENSITIVE) |
 | MINIEV 2025 Parameter/Preise | Dongchedi-Datenbank | CN | https://m.dongchedi.com/auto/params-carIds-96348-79759-72934-72935-72308-72478-72466-72479-72467-72480-72468-72481-79929-79930-79931-79932-72476-72477-72475-72474-76902-76901-77162-77161-59192 | 2026-09-03 | CROSS_CHECKED | Modelljahr, Range Grades, inländischer MSRP (TIME_SENSITIVE) |
 | 2024 Macaron 215 (Dimensionen/Kerb) | NetEase Auto Datenbank | CN | https://product.auto.163.com/product/000CQEGG.html | 2026-09-03 | SINGLE_SOURCEN | 3064/1493/1629, 2010 mm, 777 kg (Medien DB, nicht OEM) |
-| Macaron Batterie / langsam aufladen | PCauto-Enzyklopädie | CN | http://m.pcauto.com.cn/baike/941480/1848425/ | 2026-09-03 | SINGLE_SOURCEN | ≈ 13.4 kWh, Ladeverfahren |
+| Macaron Batterie langsam aufladen | PCauto-Enzyklopädie | CN | http://m.pcauto.com.cn/baike/941480/1848425/ | 2026-09-03 | SINGLE_SOURCEN | ≈ 13.4 kWh, Ladeverfahren |
 | Straßenfahrzeughersteller und -produktkatalog — öffentliches Abfragesystem | MIIT, China Ministerium für Industrie und Informationstechnologie | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | ÜBERPRÜFUNG | Überprüfen Sie den Hersteller, das zugelassene Modell und die Homologation (公告) Katalogeintrag vor der Bestellung oder Export |
 | GB 16735-2019 Straßenfahrzeuge — Anforderungen an die Fahrzeug-Identifizierungsnummer (VIN) | SAMR nationale Standards Volltext-Plattform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | ÜBERPRÜFUNG | VIN-Struktur und Typenschild-Datenfelder, die bei der Überprüfung der VIN/des Typenschilds des Käufers verwendet wurden |
 | GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Staatliche Verwaltung für Marktregulierung | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | ÜBERPRÜFUNG | Technische Rahmenbedingungen für die Fahrzeugsicherheit in China und der aktuelle/revisionsbezogene Zeitplan |
@@ -103,7 +103,7 @@ Es wird kein statischer Ausfuhrpreis veröffentlicht. Die ungefähr RMB 41, 800 
 *Vertrauensbeweis: kein Wuling/SAIC-GM-Wuling primäres Spec Sheet wurde erfasst; Mediendatenbanken werden nicht VERIFIZIERT. Reichweite/Preis werden abgeglichen, während Leergewicht, Höchstgeschwindigkeit und kWh Single-Source sind. CLTC ist nur China-Zyklus. Die Gebührenbestimmung muss auf der genauen VIN bestätigt werden. *
 
 ## Editorial Review
-- **Autor / Rezensent**: [AutoBridge Export Editorial Team](/Autoren/) · Methode nach unserer [Editorial Policy](/editorial-policy/]
+- **Autor Rezensent**: [AutoBridge Export Editorial Team](/Autoren/) · Methode nach unserer [Editorial Policy](/editorial-policy/]
 - **Zuletzt überprüft**: 2026-09-05
 - **Referenzmarkt**: China, 3rd-gen Macaron MY2024 (Chinesischer Marktreferenz)
 - **Verifizierungsmethode**: Multi-Datenbank-Cross-Check; Single-Source-Elemente gekennzeichnet; zusätzlicher Beschaffungswert, der nur auf bereits erfassten Fakten basiert, keine neuen externen Zahlen

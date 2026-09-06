@@ -11,18 +11,18 @@
 - **Sugerencias de ALT**: "Delfín de BYD 2025 dos grados de batería"; " rango de Delfín CLTC versus ciclo de ultramar"
 
 ## Contexto del comprador: una decisión EV comienza con batería y ciclo
-El Delfín es el recubrimiento compacto de la batería de BYD en el e-platform 3.0 con una batería de la hoja LFP. Para un EV, el pedido es batería → rango **ciclo** → grado motor → carga / software, no un solo número de encabezado. Esta página cubre la línea ** 2025 de mercado chino (REFERENCIA MARKET: CHINA)**. BYD también vende un coche etiquetado "Delphin" en mercados extranjeros; es decir, continuidad de nombre, **no** un partido de 1: 1 espectros — tamaños de baterías en el extranjero, ciclos de gama certificados (WLTP/NEDC) y equipo difieren y deben leerse en la hoja de destino, nunca inferidos de estos números de China.
+El Delfín es el recubrimiento compacto de la batería de BYD en el e-platform 3.0 con una batería de la hoja LFP. Para un EV, el pedido es batería → rango **ciclo** → grado motor → carga software, no un solo número de encabezado. Esta página cubre la línea ** 2025 de mercado chino (REFERENCIA MARKET: CHINA)**. BYD también vende un coche etiquetado "Delphin" en mercados extranjeros; es decir, continuidad de nombre, **no** un partido de 1: 1 espectros — tamaños de baterías en el extranjero, ciclos de gama certificados (WLTP/NEDC) y equipo difieren y deben leerse en la hoja de destino, nunca inferidos de estos números de China.
 
 ## Dos Grados Motor, Dos Baterías (referencia China)
-| Tema | Grados estándar (活力 / 自由 / 时尚) | grado de caballero (骑士版) |
+| Tema | Grados estándar (活力 自由 时尚) | grado de caballero (骑士版) |
 |---|---|---|
-| Motor de conducción | 70 kW / 180 N·m | 150 kW / 310 N·m |
+| Motor de conducción | 70 kW 180 N·m | 150 kW 310 N·m |
 | Batería de la vajilla (LFP) | 44.928 kWh | 60.48 kWh |
 | CLTC range | 420 km | 520 km |
-| Body L×W×H | 4125 / 1770 / 1570 mm | 4150 / 1770 / 1570 mm |
+| Body L×W×H | 4125 1770 1570 mm | 4150 1770 1570 mm |
 | Base de ruedas | 2700 mm (tanto) | 2700 mm |
 
-Fijar **Battery y motor juntos**: los 150 kW / 310 N·m pares de transmisión con el paquete más grande 60.48 kWh en el grado de Caballero. Presentar "un delfín" sin nombrar deja tanto el poder como el rango ambiguo.
+Fijar **Battery y motor juntos**: los 150 kW 310 N·m pares de transmisión con el paquete más grande 60.48 kWh en el grado de Caballero. Presentar "un delfín" sin nombrar deja tanto el poder como el rango ambiguo.
 
 ## Disciplina del ciclo de rango (CLTC no es WLTP/EPA)
 The 420/520 km figures are **China CLTC**. Siempre cito el ciclo junto al número:
@@ -40,11 +40,11 @@ The 420/520 km figures are **China CLTC**. Siempre cito el ciclo junto al númer
 - Recipiente de cinco puertas compacta, 2700 mm de la base de ruedas; longitud estándar 4125 mm, Caballero 4150 mm; width/height 1770/1570 mm. Una pequeña huella y un círculo de giro ajustado se adaptan a las flotas urbanas, pero las expectativas de la cabina trasera y la carga deben fijarse de estas dimensiones, no de un BYD más grande en el extranjero.
 
 ## Qué importadores deben verificar antes de pago
-1. **Grado + batería + motor como una combinación bloqueada** (70 kW / 44.928 kWh vs 150 kW / 60.48 kWh).
+1. **Grado + batería + motor como una combinación bloqueada** (70 kW 44.928 kWh vs 150 kW 60.48 kWh).
 2. ** Ciclo de borde** etiquetado CLTC; destino WLTP/NEDC tomado sólo de la hoja de destino.
 3. **GB/T vs destination connector**, AC/DC provision and any adapter legality.
 4. ** Lista de características de DiPilot** para el grado exacto; **Idioma/OTA** probado en el VIN.
-5. **EV shipping paperwork** — UN38.3 / MSDS plus the ocean dangerous-goods classification, under IMDG Amendment 42-24 (mandatory from 2026-01-01) a lithium-ion-battery-powered vehicle is classified UN3556, not the legacy generic UN3171; aplique documentación/SOC details per the current EV shipping Fact Sheet and the transport (see the EV ocean-compliance guide).
+5. **EV shipping paperwork** — UN38.3 MSDS plus the ocean dangerous-goods classification, under IMDG Amendment 42-24 (mandatory from 2026-01-01) a lithium-ion-battery-powered vehicle is classified UN3556, not the legacy generic UN3171; aplique documentación/SOC details per the current EV shipping Fact Sheet and the transport (see the EV ocean-compliance guide).
 
 ## Solicitar una calificación de exportación actual
 No se publica ningún precio de exportación estático. La RMB 99, 800 China figura de inicio es una referencia **doméstica, sensible al tiempo, no un precio FOB/CIF**. Consulta con **Destinación País · Cantidad · Grado (batería/motor) · LHD/RHD · Puerto de destino · Incoterm**.
@@ -84,10 +84,10 @@ No se publica ningún precio de exportación estático. La RMB 99, 800 China fig
 ## Fuentes " Verificación "
 | Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |
 |---|---|---|---|---|---|---|
-| 2025 El lanzamiento de delfines (precio, parámetros) | IT Home / Toutiao | CN | http://m.toutiao.com/group/7389073901650723378/ | 2026-09-03 | CROSS_CHECKED | 44.928 kWh, 70 kW, 420 CLTC, precio nacional (TIME_SENSITIVE) |
-| Dolphin powertrain/battery/range | Enciclopedia PCauto | CN | https://m.pcauto.com.cn/baike/1551886/ | 2026-09-03 | CROSS_CHECKED | 60.48 kWh, 150 kW / 310 N·m, 520 CLTC |
-| Delfín 1, 000, 000th unidad (dimensiones) | NetEase Auto | CN | https://www.163.com/dy/article/KH3NHD5F0552EGI8.html | 2026-09-03 | CROSS_CHECKED | 4125/4150 × 1770 × 1570, base de ruedas 2700 |
-| 2025 Delfines DiPilot | Xincheping / Toutiao | CN | http://m.toutiao.com/group/7389115620090053159/ | 2026-09-03 | SINGLE_SOURCE | ACC/AEB/LDA descripción de las características |
+| 2025 El lanzamiento de delfines (precio, parámetros) | IT Home Toutiao | CN | http://m.toutiao.com/group/7389073901650723378/ | 2026-09-03 | CROSS_CHECKED | 44.928 kWh, 70 kW, 420 CLTC, precio nacional (TIME_SENSITIVE) |
+| Dolphin powertrain/battery/range | Enciclopedia PCauto | CN | https://m.pcauto.com.cn/baike/1551886/ | 2026-09-03 | CROSS_CHECKED | 60.48 kWh, 150 kW 310 N·m, 520 CLTC |
+| Delfín 1,000, 000th unidad (dimensiones) | NetEase Auto | CN | https://www.163.com/dy/article/KH3NHD5F0552EGI8.html | 2026-09-03 | CROSS_CHECKED | 4125/4150 × 1770 × 1570, base de ruedas 2700 |
+| 2025 Delfines DiPilot | Xincheping Toutiao | CN | http://m.toutiao.com/group/7389115620090053159/ | 2026-09-03 | SINGLE_SOURCE | ACC/AEB/LDA descripción de las características |
 | Fabricantes & catálogo de productos de vehículos de motor de carretera — sistema de consulta pública | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verificar el fabricante, modelo aprobado y homologación (公告) entrada de catálogo antes de ordenar o exportar |
 | GB 16735-2019 Vehículos de carretera - Número de identificación de vehículos (VIN) | SAMR plataforma de texto completo | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | Estructura VIN y campos de datos de placa de nombre utilizados en la verificación VIN/nameplate del comprador |
 | GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Base de referencia en China condiciones técnicas de seguridad del vehículo y el cronograma actual/revisión |
@@ -100,12 +100,12 @@ No se publica ningún precio de exportación estático. La RMB 99, 800 China fig
 | 海豚 参数配置 (2025 款) | 汽车之家 Serie de config de autohome | CN | https://m.autohome.com.cn/config/series/6139.html | 2026-09-05 | CROSS_CHECKED | Tabla de parámetro adecuada (no una página de AI Q con A), alcanzable verificada: 2025 grado/batería/ matriz de LTC — pierna de comprobación cruzada decisiva # 2 |
 | BYD Dolphin 2025 folleto oficial | BYD Automotive Australia (OEM/distributor official) | AU | https://bydautomotive.com.au/brochures/BYD-DOLPHIN-2025.pdf | 2026-09-05 | VERIFIED (OEM; alcance del mercado de exportación) | OEM brochure confirms Blade LFP 44.9/60.48 kWh  and  70/150 kW motor lines  and  Dimensiones; sus NEDC 410/490 y WLTP 340/427 son cifras de ciclo de exportación y NO se utilizan como China CLTC 420/520 |
 
-* Nota de vídeo-scopio: Las páginas oficiales de China de BYD (enlazados arriba) anclan la identidad modelo de Delfín de 2025, Bateria de la bomba de avelladura  and  e-platform 3.0,  and  the official BYD Australia 2025 brochure independently confirms the 44.9/60.48 kWh battery  and  70/150 kW motor lines (on export NEDC/WLTP cycles, mantenido separado de las cifras de China). Valores de la categoría de China — 70 kW / 44.928 kWh / 420 km CLTC y 150 kW / 60.48 kWh / 520 km CLTC — descansa en un verdadero control cruzado de un mismo hecho por dos tablas independientes de parámetro chino verificables alcanzables en 2026-09-05 (PCauto s48492 config y la serie Autohome 6139 config), apoyado por la enciclopedia IT Home/PCauto; la página Autohome *ask* es agregada por IA y no se utiliza deliberadamente como una pierna decisiva. Un borrador anterior llamado "Xcar" sin una URL — que cita no soportada ha sido eliminado (no se captó la página de Xcar accesible). Ajustar la nota exacta al catálogo MIIT y VIN antes de ordenar. CLTC es sólo el ciclo de China y nunca se equipara a WLTP/NEDC en el extranjero; el mismo nombre en el extranjero Los delfines son diferentes constructores de mercado. Pache controlado por la escritura-AI 2026-09-05: batería/líneas motoras ahora compatibles con OEM (folleto de la UA, alcance de exportación) y China CLTC valora el mismo hecho cruzado por dos tablas de configuración independientes, moviendo la página de NEEDS_ RESEARCH (China CLTC confianza CROSS_CHECKED, no OEM-VERIFIED). *
+* Nota de vídeo-scopio: Las páginas oficiales de China de BYD (enlazados arriba) anclan la identidad modelo de Delfín de 2025, Bateria de la bomba de avelladura  and  e-platform 3.0,  and  the official BYD Australia 2025 brochure independently confirms the 44.9/60.48 kWh battery  and  70/150 kW motor lines (on export NEDC/WLTP cycles, mantenido separado de las cifras de China). Valores de la categoría de China — 70 kW 44.928 kWh 420 km CLTC y 150 kW 60.48 kWh 520 km CLTC — descansa en un verdadero control cruzado de un mismo hecho por dos tablas independientes de parámetro chino verificables alcanzables en 2026-09-05 (PCauto config y la serie Autohome 6139 config), apoyado por la enciclopedia IT Home/PCauto; la página Autohome *ask* es agregada por IA y no se utiliza deliberadamente como una pierna decisiva. Un borrador anterior llamado "Xcar" sin una URL — que cita no soportada ha sido eliminado (no se captó la página de Xcar accesible). Ajustar la nota exacta al catálogo MIIT y VIN antes de ordenar. CLTC es sólo el ciclo de China y nunca se equipara a WLTP/NEDC en el extranjero; el mismo nombre en el extranjero Los delfines son diferentes constructores de mercado. Pache controlado por la escritura-AI 2026-09-05: batería/líneas motoras ahora compatibles con OEM (folleto de la UA, alcance de exportación) y China CLTC valora el mismo hecho cruzado por dos tablas de configuración independientes, moviendo la página de NEEDS_ RESEARCH (China CLTC confianza CROSS_CHECKED, no OEM-VERIFIED). * s48492
 
 ## Revisión editorial
 - **Autor/examen**: [Equipo Editorial Exportador AutoBridge](/autores/) · método por nuestro [Política editorial](/editorial-policía/)
 - **Documento revisado*: 2026-09-05
 - **Mercadillo de referencia**: China, 2025 Delfín (referencia del mercado chino; construye el mismo nombre en el extranjero separada)
-- **Método de verificación**: Comprobación multifunción; ciclo de rango y alcance de mercado se mantuvo distinto por MODEL_ALIAS / SOURCE_SCOPE reglas
+- **Método de verificación**: Comprobación multifunción; ciclo de rango y alcance de mercado se mantuvo distinto por MODEL_ALIAS SOURCE_SCOPE reglas
 - **Editorial standard**: Investigación y escritura de las fuentes mencionadas anteriormente (indagación de la tinta; no se reclama la conducción directa, desgarro o importación). La confianza de la fuente se muestra por fila; cualquier punto que no podamos confirmar de forma independiente se presenta como un elemento de verificación en lugar de afirmarse como hecho.
 #AutoBridge #VehicleExport #BYD #Dolphin #ElectricHatchback

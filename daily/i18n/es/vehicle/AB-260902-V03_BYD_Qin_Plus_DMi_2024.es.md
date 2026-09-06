@@ -14,18 +14,18 @@ El Qin Plus DM-i es un sedán compacto ** de gran alcance (PHEV), ni un EV puro 
 ## Las dos versiones están a la lados
 | Tema | Versión 55 | Versión 120 |
 |---|---|---|
-| Motor de propulsión frontal (PMSM) | 132 kW (180 PS) / 316 N·m | 145 kW (197 PS) / 325 N·m |
+| Motor de propulsión frontal (PMSM) | 132 kW (180 PS) 316 N·m | 145 kW (197 PS) 325 N·m |
 | LFP Batería de cuchilla | 8.32 kWh | 18.32 kWh |
-| Gama eléctrica-únicamente | 55 km NEDC / 46 km WLTC | 120 km NEDC / 101 km WLTC |
+| Gama eléctrica-únicamente | 55 km NEDC 46 km WLTC | 120 km NEDC 101 km WLTC |
 | 0–100 km/h | 7.9 s | 7.3 s |
-La salida 145 kW / 197 PS del coche más grande y su ~ 18.3 kWh pack son corroborados en la página Qin Plus DM-i regional de BYD para Bahréin (en-bh, VERIFIED, alcance limitado a ese modelo nombrado)**; China version figures (8.32/18.32 kWh,  132/145 kW, NEDC/WLTC) se revisan en varias bases de datos chinas (CROSS_CHECKED). El 120 es más rápido y más pesado (curb ~ 1620 kg para el 120KM 领先型).
+La salida 145 kW 197 PS del coche más grande y su ~ 18.3 kWh pack son corroborados en la página Qin Plus DM-i regional de BYD para Bahréin (en-bh, VERIFIED, alcance limitado a ese modelo nombrado)**; China version figures (8.32/18.32 kWh,  132/145 kW, NEDC/WLTC) se revisan en varias bases de datos chinas (CROSS_CHECKED). El 120 es más rápido y más pesado (curb ~ 1620 kg para el 120KM 领先型).
 ## Modo de motor y de funcionamiento (preguntas específicas de PHEV)
-- **Engine**: 1.5L naturalmente aspirado L4, 81 kW (110 PS) / 135 N·m; es principalmente un generador / unidad asistida en lugar del motor de la unidad principal.
+- **Engine**: 1.5L naturalmente aspirado L4, 81 kW (110 PS) 135 N·m; es principalmente un generador unidad asistida en lugar del motor de la unidad principal.
 - **Transmisión**: E-CVT unidad variable eléctrica de velocidad única y continua — no hay una caja de cambios de varios pasos para la especificaciones.
-- **Modos**: EV (que agota la carga) y operación híbrida (que soporta); el consumo de combustible que soporta la carga se cita alrededor de 3.8 L / 100 km (NEDC). Para una flota de exportación, explique a los clientes que el uso de combustible en el mundo real depende de comportamiento de carga: un PHEV impulsado sin carga se comporta como un híbrido, no un EV.
+- **Modos**: EV (que agota la carga) y operación híbrida (que soporta); el consumo de combustible que soporta la carga se cita alrededor de 3.8 L 100 km (NEDC). Para una flota de exportación, explique a los clientes que el uso de combustible en el mundo real depende de comportamiento de carga: un PHEV impulsado sin carga se comporta como un híbrido, no un EV.
 - ** Velocidad de la operación**: 185 km/h.
 ## Batería, carga y disciplina de dos vías
-Un PHEV lleva **dos** números de rango que los compradores conflan: **El rango electrónico-únicamente** (estado el ciclo: 120 NEDC = 101 WLTC) y un rango de combustible combinado ** separado + batería** (un ~ 1245 km figura de la placa china descansa en una sola fuente y debe ser presentado como un número combinado chino citado, nunca como rango eléctrico). El cargamento difiere según la versión y la categoría: confirmar a bordo de la capacidad de AC, **si la carga rápida DC está incluida en el grado elegido**, la infraestructura de conexión GB/T versus destino, y el grado de combustible que el motor 1.5L espera - un PHEV necesita tanto una ruta de carga como un motor de servicio / ruta de combustible.
+Un PHEV lleva **dos** números de rango que los compradores conflan: **El rango electrónico-únicamente** (estado el ciclo: 120 NEDC = 101 WLTC) y un rango de combustible combinado ** separado + batería** (un ~ 1245 km figura de la placa china descansa en una sola fuente y debe ser presentado como un número combinado chino citado, nunca como rango eléctrico). El cargamento difiere según la versión y la categoría: confirmar a bordo de la capacidad de AC, **si la carga rápida DC está incluida en el grado elegido**, la infraestructura de conexión GB/T versus destino, y el grado de combustible que el motor 1.5L espera - un PHEV necesita tanto una ruta de carga como un motor de servicio ruta de combustible.
 ## Dimensiones y Cabina
 4765 × 1837 × 1495 mm, base de ruedas 2718 mm, sedán monocoque de cuatro puertas; neumáticos 225/60 R16 en grados capturados. Confirme el peso del freno por la versión de la batería en la placa de cumplimiento.
 ## Lo que AutoBridge añade más allá de una tabla de especies
@@ -35,7 +35,7 @@ Sitios de parámetros lista 55 y 120 filas pero dejar al importador para desenre
 - Grabar el ciclo ** de rango eléctrico** (NEDC vs WLTC)  and  obtain destination-certified PHEV range/CO₂ where tax or incentives depend on it.
 - Conéctese conector y capacidad AC/DC **por grado**; no asuman las tomas de destino de los partidos GB/T.
 - Confirme el lado de dirección, el idioma infotainment/OTA fuera de China, y la garantía que cubre el motor **y** batería **y** motor.
-- Verificar la clasificación de PHEV del destino — incentivos híbridos / homologación difieren de los EV puros.
+- Verificar la clasificación de PHEV del destino — incentivos híbridos homologación difieren de los EV puros.
 ## Solicitar una calificación de exportación actual
 No se publica precio de exportación estático; el RMB 79, 800–125, 800 China Glory Edition guide price is a **domestic, time-sen reference, not an FOB/CIF figure**. Consulta con **Destinación País · Cantidad · Versión (55/120) " Grado · LHD/RHD · Puerto de destino · Incoterm**.
 ## Preguntas frecuentes
@@ -57,26 +57,26 @@ No se publica precio de exportación estático; el RMB 79, 800–125, 800 China 
 - IMAGE_RIGHTS_STATUS: FAIL (no se acepta ningún activo con licencia; no se acepta un titular de posición o “retiene la imagen antigua”)
 - BLOCK_REASON: No se puede asegurar una imagen reutilizable: Wikimedia Commons/Flickr no son accesibles desde el entorno de investigación, las bibliotecas de stock requieren acceso a API/licencia autenticada, y una imagen de página web OEM NO es una subvención comercial de reutilización; no existe foto de propiedad de AutoBridge. Se quedó con la FAIL en lugar de afirmarse.
 - ALT por idioma:
-  - **EN**: AutoBridge export-buyer reference — BYD Qin Plus DM-i, plug-in hybrid vehicle / sedan
-  - **FR**: Référence AutoBridge pour acheteurs export — BYD Qin Plus DM-i, véhicule hybride rechargeable / berline
-  - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Qin Plus DM-i, Plug-in-Hybridfahrzeug / Limousine
-  - **ES**: Referencia AutoBridge para compradores de exportación — BYD Qin Plus DM-i, vehículo híbrido enchufable / berlina
-  - **PT**: Referência AutoBridge para compradores de exportação — BYD Qin Plus DM-i, veículo híbrido plug-in / sedã
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜BYD Qin Plus DM-i, プラグインハイブリッド車 / セダン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜BYD Qin Plus DM-i, 플러그인 하이브리드 차량 / 세단
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — BYD Qin Plus DM-i, xe hybrid sạc ngoài / sedan
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — BYD Qin Plus DM-i, รถปลั๊กอินไฮบริด / รถเก๋งซีดาน
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — BYD Qin Plus DM-i, kendaraan hybrid plug-in / sedan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Qin Plus DM-i, مركبة هجينة قابلة للشحن / سيدان
-  - **ZH**: AutoBridge 出口采购参考｜BYD Qin Plus DM-i, 插电混动车 / 轿车
+  - **EN**: AutoBridge export-buyer reference — BYD Qin Plus DM-i, plug-in hybrid vehicle sedan
+  - **FR**: Référence AutoBridge pour acheteurs export — BYD Qin Plus DM-i, véhicule hybride rechargeable berline
+  - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Qin Plus DM-i, Plug-in-Hybridfahrzeug Limousine
+  - **ES**: Referencia AutoBridge para compradores de exportación — BYD Qin Plus DM-i, vehículo híbrido enchufable berlina
+  - **PT**: Referência AutoBridge para compradores de exportação — BYD Qin Plus DM-i, veículo híbrido plug-in sedã
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜BYD Qin Plus DM-i, プラグインハイブリッド車 セダン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜BYD Qin Plus DM-i, 플러그인 하이브리드 차량 세단
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — BYD Qin Plus DM-i, xe hybrid sạc ngoài sedan
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — BYD Qin Plus DM-i, รถปลั๊กอินไฮบริด รถเก๋งซีดาน
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — BYD Qin Plus DM-i, kendaraan hybrid plug-in sedan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Qin Plus DM-i, مركبة هجينة قابلة للشحن سيدان
+  - **ZH**: AutoBridge 出口采购参考｜BYD Qin Plus DM-i, 插电混动车 轿车
 
 ## Fuentes " Verificación "
 | Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |
 |---|---|---|---|---|---|---|
-| BYD QIN PLUS DM-i página regional oficial (en-bh = Bahréin sitio) | BYD (**fabricante oficial**) | Exportar / **Bahrein (página regional en-bh; no UAE)** | https://www.byd.com/en-bh/car/qin-plus-dmi | 2026-09-03 | **VERIFIED (scopio: este llamado Qin Plus DM-i solamente)** | 18.3 kWh pack, hasta 197 hp / 145 kW, 7.3 s para el llamado Qin Plus DM-i |
+| BYD QIN PLUS DM-i página regional oficial (en-bh = Bahréin sitio) | BYD (**fabricante oficial**) | Exportar **Bahrein (página regional en-bh; no UAE)** | https://www.byd.com/en-bh/car/qin-plus-dmi | 2026-09-03 | **VERIFIED (scopio: este llamado Qin Plus DM-i solamente)** | 18.3 kWh pack, hasta 197 hp 145 kW, 7.3 s para el llamado Qin Plus DM-i |
 | Glory Edition 55/120 config | Autohome (汽车之家) | CN | http://dealer.autohome.com.cn/2116572/spec_66744.html | 2026-09-02 | CROSS_CHECKED | Dimensiones, 1.5L 81 kW, 132 kW motor, E-CVT, rango |
-| Glory Edition lanzamiento / detalle | Autohome Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/18481020 | 2026-09-02 | CROSS_CHECKED | 145 kW / 325 N·m, 18.32 kWh, cita de rango combinado |
-| Qin Plus config | Xcar (爱卡) / PCauto / Guazi | CN | https://newcar.xcar.com.cn/m72508/config.htm | 2026-09-02 | CROSS_CHECKED | Peso de la palanca, freno de ruedas, NEDC/WLTC, batería |
+| Glory Edition lanzamiento detalle | Autohome Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/18481020 | 2026-09-02 | CROSS_CHECKED | 145 kW 325 N·m, 18.32 kWh, cita de rango combinado |
+| Qin Plus config | Xcar (爱卡) PCauto Guazi | CN | https://newcar.xcar.com.cn/m72508/config.htm | 2026-09-02 | CROSS_CHECKED | Peso de la palanca, freno de ruedas, NEDC/WLTC, batería |
 | 汽车之家 (车家号) 秦 PLUS DM-i 荣耀版上市 | 汽车之家 | CN | https://chejiahao.m.autohome.com.cn/info/14654247 | 2026-09-02 | SINGLE_SOURCE | 发动机 81kW/135N·m、电机 132kW/145kW、指导价 7.98-12.58 万 |
 | 瓜子二手车 参数页 | 瓜子二手车 | CN | https://m.guazi.com/qichecanshu/c163518812263347.html | 2026-09-02 | SINGLE_SOURCE | 55KM 版电池 8.32kWh、电机 132kW/316N·m、电耗 11.4 |
 | 太平洋汽车 参数页 | 太平洋汽车网 | CN | https://price.pcauto.com.cn/m126873/config.html | 2026-09-02 | SINGLE_SOURCE | 轴距 2718mm、油耗、0-100 加速 |

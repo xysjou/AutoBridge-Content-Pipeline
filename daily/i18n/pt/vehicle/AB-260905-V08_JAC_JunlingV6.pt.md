@@ -2,12 +2,12 @@
 
 ## SEO Meta- dados
 - ** Título SEO**: JAC Junling V6 caminhão leve: especificações de mercado chinês e Guia de exportação do comprador
-- ** Descrição do Meta**: Mercado chinês JAC Junling V6 caminhão de carga leve de placa azul: Yunnei D25 diesel, linha Ankang 160, caixa de carga, GVW / carga, ea ressalva de massa de uma fonte única.
+- ** Descrição do Meta**: Mercado chinês JAC Junling V6 caminhão de carga leve de placa azul: Yunnei D25 diesel, linha Ankang 160, caixa de carga, GVW carga, ea ressalva de massa de uma fonte única.
 - ** H1 **: JAC Junling V6 (2024/2025) — Especificações do camião ligeiro de mercado chinês e verificações de exportação
-- **Chave-chave primária**: JAC / 江淮 骏铃 V6 轻卡 (Caminhão de luz) especificações de exportação
+- **Chave-chave primária**: JAC 江淮 骏铃 V6 轻卡 (Caminhão de luz) especificações de exportação
 - ** Termos de pesquisa secundários**: JAC Junling V6 exportação; Jianghuai caminhão leve; caminhão de carga chinês; caminhão de placa azul; Yunnei D25
 - ** URL sugerido**: /veículos/jac-junling- v6/
-- **Intenção de pesquisa**: 了解 JAC / 江淮 骏铃 V6 轻卡 (caminhão de luz) 中国版规格, 配置与出口适配性 (车型参数页)
+- **Intenção de pesquisa**: 了解 JAC 江淮 骏铃 V6 轻卡 (caminhão de luz) 中国版规格, 配置与出口适配性 (车型参数页)
 - **As sugestões de ligação interna**: /veículos/jac-junling- v6/, /guias/veículo-exportação-hs-código-história/, /guias/china-exportação-customs-declaração-única-janela/
 - **Schema Scope**: Artigo + Veículo (sem Produto/Oferta/Revisão)
 
@@ -37,9 +37,9 @@ Os dados do motor e da caixa de carga vêm de uma fonte espelhada de base de dad
 Para os compradores de distribuição da cidade, o ponto de configuração de ordem que mais frequentemente causa disputas é ** que figura governa o carregamento legal no mercado de destino**. Uma classificação de placa azul chinesa, uma carga útil de fábrica e um limite de carga de eixo de destino são três números diferentes; o caminhão deve ser especificado contra a regra de destino vinculante em vez do mais generoso dos três. A base de roda e o comprimento da caixa de carga também interagem com as restrições de giro e comprimento local, de modo que uma caixa escolhida apenas para maximizar o volume pode criar um veículo que é estranho em rotas urbanas estreitas. Confirme as dimensões GVW, kerb mass, carga útil, distância entre eixos e caixa como um conjunto combinado no pro forma, e exija que o fornecedor ligue cada massa à sua fonte antes do depósito.
 
 ## Verificação do comprador no exterior antes do pagamento
-1. Confirme GVW 4.495 t / carga útil 1.735 t contra o anúncio MIIT ou folha de OEM JAC.
+1. Confirme GVW 4.495 t carga útil 1.735 t contra o anúncio MIIT ou folha de OEM JAC.
 2. Coincidir as dimensões internas da caixa de carga com o corpo pretendido.
-3. Confirme o motor (Yunnei D25 / Ankang 160), caixa de velocidades e eixo traseiro para suporte de peças.
+3. Confirme o motor (Yunnei D25 Ankang 160), caixa de velocidades e eixo traseiro para suporte de peças.
 4. Verificar o estádio de emissão de diesel e a classe de licenciamento GVW/destino.
 5. Solicitar uma cotação de exportação atual; nenhuma é publicada.
 
@@ -47,7 +47,7 @@ Para os compradores de distribuição da cidade, o ponto de configuração de or
 ** Os valores de carga útil são finais? ** Eles são de uma única fonte aqui; confirmar via homologação antes de confiar neles.
 ** Existe uma versão RHD?** Não estabelecido nestas fontes.
 ** O que é a classe da placa azul?** Sub- 4.5 t GVW caminhão da cidade na China; licenciamento de destino difere.
-**Motor? Yunnei D25TCIF1 2.5 L diesel, 150 hp / 400 N·m na linha capturada.
+**Motor? Yunnei D25TCIF1 2.5 L diesel, 150 hp 400 N·m na linha capturada.
 ** Onde estão os detalhes do pneu/eixo? Não capturado; solicite a folha de construção do OEM.
 
 

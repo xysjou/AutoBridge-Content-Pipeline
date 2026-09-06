@@ -17,8 +17,8 @@ Les exportateurs traitent le choix du connaissement comme une documentation. Il 
 ## Les quatre instruments côte à côte
 | Méthode | Qui délivre | Comment le destinataire prend livraison | L'expéditeur détient un document papier de titre? |
 |---|---|---|---|
-| **Master B/L (MBL)** | Ligne d'expédition / son agent | Renvoyez le MBL original (ou suivez la procédure en ligne) | Oui — contrat de transport + fonction document de propriété |
-| **Maison B/L (HBL)** | NVOCC / transitaire | Le destinataire de la LHB échange la LHB contre la LMB par l'intermédiaire de l'agent de destination du transitaire | Oui au niveau de la HBL, avec une partie supplémentaire dans la chaîne |
+| **Master B/L (MBL)** | Ligne d'expédition son agent | Renvoyez le MBL original (ou suivez la procédure en ligne) | Oui — contrat de transport + fonction document de propriété |
+| **Maison B/L (HBL)** | NVOCC transitaire | Le destinataire de la LHB échange la LHB contre la LMB par l'intermédiaire de l'agent de destination du transitaire | Oui au niveau de la HBL, avec une partie supplémentaire dans la chaîne |
 | **Communiqué de télécomex** | Transporteur après le retour/l'abandon des originaux de l'expéditeur | Instructions de libération électronique; collecte sur une copie + identité | **Non** — le titre papier est abandonné à la sortie |
 | **Bill de mer (BSF)** | Transporteur | Le destinataire désigné perçoit sur la preuve d'identité; non négociable | **Non** — non un titre, non transférable |
 
@@ -35,9 +35,9 @@ Le Code maritime révisé fournit l'architecture juridique qui sous-tend ces dif
 - ** L'acceptation du port/pays varie** (certaines destinations sud-américaines ne seraient pas autorisées à se procurer du télex) - confirmer auprès du transporteur et de l'agent de destination **par expédition**, selon l'itinéraire de livraison prévu à l'article 87 qui s'appliquera effectivement.
 
 ## Méthode de couplage avec les modalités de paiement
-- **T/T à l'avance / entièrement prépayé**: télex ou SWB est utilisable; le levier de contrôle n'est plus nécessaire.
+- **T/T à l'avance entièrement prépayé**: télex ou SWB est utilisable; le levier de contrôle n'est plus nécessaire.
 - **L/C**: suivre le crédit exactement – il exige généralement un B/L négociable expédié/endormé comme indiqué; remplacer SWB crée une divergence.
-- **Balance contre B/L / compte ouvert**: conserver le MBL négociable original (art. 80) en attendant que les conditions de paiement soient remplies; ne jamais libérer un véhicule non payé par télex.
+- **Balance contre B/L compte ouvert**: conserver le MBL négociable original (art. 80) en attendant que les conditions de paiement soient remplies; ne jamais libérer un véhicule non payé par télex.
 - **RoRo versus conteneur**: les deux relâchent contre l'océan B/L; confirment la procédure de la ligne et l'itinéraire du destinataire Art. 87 avant de choisir l'instrument.
 
 ## Questions à mettre au transitaire avant la réservation
@@ -86,10 +86,10 @@ Le Code maritime révisé fournit l'architecture juridique qui sous-tend ces dif
 ## Sources et vérification
 | Titre de la source | Organisation | Marché | URL | Vérification | Confiance | Faits corroborés |
 |---|---|---|---|---|---|---|
-| Code maritime de la RPC (révision 2025, ordonnance présidentielle 58, en vigueur 2026-05-01) texte complet | Comité permanent du PNC (npc.gov.cn) | NC | http://www.npc.gov.cn/c2/c30834/202510/t20251028_449061.html | 2026-09-04 | VÉRIFIER (primaire) | Art. 80/81/87, version et date d'entrée en vigueur |
-| B/L / télex / Sea Waybill expliqué | NetEase wiki d'affaires | INTL | https://www.163.com/dy/article/L0J4JN3F0556HN78.html | 2026-09-04 | _CHECTURE | Définitions MBL/SWB/telex |
+| Code maritime de la RPC (révision 2025, ordonnance présidentielle 58, en vigueur 2026-05-01) texte complet | Comité permanent du PNC | NC | http://www.npc.gov.cn/c2/c30834/202510/t20251028_449061.html | 2026-09-04 | VÉRIFIER (primaire) | Art. 80/81/87, version et date d'entrée en vigueur |
+| B/L télex Sea Waybill expliqué | NetEase wiki d'affaires | INTL | https://www.163.com/dy/article/L0J4JN3F0556HN78.html | 2026-09-04 | _CHECTURE | Définitions MBL/SWB/telex |
 | Projet de loi principal contre projet de loi de la Chambre | Sina Finance | INTL | https://finance.sina.com.cn/roll/2026-08-15/doc-ininkrwq1888009.shtml | 2026-09-04 | _CHECTURE | Chaîne MBL/HBL, pratique du véhicule |
-| Méthodes de libération et types B/L | 11467 connaissances de l'industrie | INTL | https://m.11467.com/product/d15253354.htm | 2026-09-04 | _CHECTURE | Comparaison par quatre méthodes |
+| Méthodes de libération et types B/L | connaissances de l'industrie | INTL | https://m.11467.com/product/d15253354.htm | 2026-09-04 | _CHECTURE | Comparaison par quatre méthodes | 11467
 | Quatre méthodes de libération et risque télex (Note de l'Amérique du Sud) | Montant net | INTL | https://www.163.com/dy/article/K17GLBOG0556820S.html | 2026-09-04 | SOURCE UNIQUE | Limite de la facture, acceptation du port |
 | Conventions et lois types relatives au transport international de marchandises | CNUDCI | INT'L | https://uncitral.un.org/en/texts/transportgoods | 2026-09-05 | VÉRIFIER | Cadre juridique comparé pour les documents de transport (contexte de la Haye-Visby/Hambourg/Rotterdam) |
 | Référence des documents d'expédition et des clauses standard | BIMCO | INT'L | https://www.bimco.org/ | 2026-09-05 | VÉRIFIER | Référence de l'industrie et des normes maritimes |

@@ -1,7 +1,7 @@
 # GWM Haval Jolion: Un plato de nombres, Powertrains de mercado-específico un comprador no debe de mezclar
 
 ## SEO Metadatos
-- **SEO Título**: Haval Jolion / Haval Chulian Identity " Market-Specific Specs ", Guía de exportación
+- **SEO Título**: Haval Jolion Haval Chulian Identity " Market-Specific Specs ", Guía de exportación
 - **Meta Descripción**: La historia de GWM confirma que el Haval Chulian chino (哈弗初恋) se vende en el extranjero como el Haval Jolion a nivel de la base-model, pero los trenes de energía HEV chinos 1.5T y ultramar difieren y se enumeran por el mercado, nunca fusionados.
 - ** URL agregada**: /vehicles/haval-jolion/
 - ** H1 **: GWM Haval Jolion: OEM-Confirmed Name Identity, con chino y ultramar Powertrains Kept Apart
@@ -18,7 +18,7 @@
 | Tema | Chino 1.5T (Referencia de la CHINA) |
 |---|---|
 | Cuerpo | SUV compacto |
-| Longitud / ancho / altura | ** 4472 / 1841 / 1619 mm ** (single Chinese structured database) |
+| Longitud ancho altura | ** 4472 1841 1619 mm ** (single Chinese structured database) |
 | Base de ruedas | ** 2700 mm ** (fuente china única) |
 | Motor | 1.5T gasolina turbocompresiva |
 | Poder Max | ** 110 kW ** (Base de datos china; la cobertura de 1.5T países del extranjero corrobora) |
@@ -29,21 +29,21 @@
 Las dimensiones chinas, motor y potencia descansan principalmente en una base de datos estructurada; tratarlas como valores de referencia para reconfirmar contra la hoja de construcción de fábrica para la unidad exacta.
 
 ## Versiones en el extranjero — Columnas separadas, no la hoja de datos china
-- ** Australiano 1.5T (OVERSEAS · AU)**: ** 210 N·m ** y un ** 7-speed de doble embrague húmedo**, con volumen de carga ** 430 L / 1130 L ** (sólidos de retaguardia). Son ** figuras del mercado australiano** — no son evidencia del par de coches, caja de cambios o volumen de carga chino.
-- **Overseas HEV (OVERSEAS · AU/TH/VN)**: un híbrido ** 1.5L DHT**, reportado en aproximadamente ** 190 PS combinados / 375 N·m **. Esta es una arquitectura **diferente de la potencia**, vendida en mercados extranjeros seleccionados; debe sentarse en su propia columna y nunca ser fusionada con los chinos 1.5T.
+- ** Australiano 1.5T (OVERSEAS · AU)**: ** 210 N·m ** y un ** 7-speed de doble embrague húmedo**, con volumen de carga ** 430 L 1130 L ** (sólidos de retaguardia). Son ** figuras del mercado australiano** — no son evidencia del par de coches, caja de cambios o volumen de carga chino.
+- **Overseas HEV (OVERSEAS · AU/TH/VN)**: un híbrido ** 1.5L DHT**, reportado en aproximadamente ** 190 PS combinados 375 N·m **. Esta es una arquitectura **diferente de la potencia**, vendida en mercados extranjeros seleccionados; debe sentarse en su propia columna y nunca ser fusionada con los chinos 1.5T.
 
 ## Cómo seleccionar sin mercados de amortiguación
 1. Decide si la investigación es la línea **Chino 1.5T**, un **sobreseas 1.5T ** o un **sobreseas HEV** antes de leer cualquier número.
-2. Adjuntar una etiqueta de mercado a todas las figuras de alimentación y carga; 210 N·m / 7DCT  and  430/1130 L are Australian, el ~ 190 PS / 375 N·m HEV es sólo en el extranjero.
+2. Adjuntar una etiqueta de mercado a todas las figuras de alimentación y carga; 210 N·m 7DCT  and  430/1130 L are Australian, el ~ 190 PS 375 N·m HEV es sólo en el extranjero.
 3. Motor de grabación, potencia y transmisión contra el VIN (ver la guía VIN/nameplate); una unidad china 1.5T no debe llevar HEV o especificaciones australianas en su PI.
 4. Confirme la homologación del lado de dirección y destino; un coche chino LHD 1.5T no es evidencia de RHD o disponibilidad HEV en el mercado del comprador.
-5. Debido a que la identidad de nombre es OEM-confirmada pero el entrenamiento de potencia es específico del mercado, solicite la hoja de construcción **factoria / OEM modelo de asignación** para el VIN exacto en lugar de asumir equivalencia de mercado cruzado.
+5. Debido a que la identidad de nombre es OEM-confirmada pero el entrenamiento de potencia es específico del mercado, solicite la hoja de construcción **factoria OEM modelo de asignación** para el VIN exacto en lugar de asumir equivalencia de mercado cruzado.
 
 ## Verificación del comprador de ultramar antes del pago
 - Debido a que las líneas Chinas 1.5T, Australia 1.5T y HEV difieren, confirman la configuración de cada línea de mercado en su propio certificado — nunca llevan el diseño de un mercado a otro.
 - **Identidad modelo**: GWM OEM confirma la identidad base Chulian↔Jolion; aún obtiene el código de ajuste de nivel VIN.
 - **El partido de potencia**: turbo vs híbrido, y chino vs ultramar 1.5T, se declaró explícitamente con las cifras de ese mercado solamente.
-- **Los valores chinos no confirmados**: no acepten 210 N·m / 7DCT como especificaciones chinas hasta que una fuente estructurada china los confirme.
+- **Los valores chinos no confirmados**: no acepten 210 N·m 7DCT como especificaciones chinas hasta que una fuente estructurada china los confirme.
 - **Emisión/fuel y documentos**: nivel de destino/fuel por la guía de emisión; certificado de fabricante, hoja de coC y especificaciones por la guía de empaquetado de documentos.
 
 ## Solicitar una calificación de exportación actual
@@ -51,7 +51,7 @@ No se publica precio de exportación y no se infiere aquí. Solicitar presupuest
 
 ## Preguntas frecuentes
 ¿Es el Jolion el mismo coche que el Haval Chulian? En el nivel de placa base sí — la historia de GWM registra la versión de Chulian en el extranjero como el JOLION (enlazado en Sudáfrica/Arabia Saudita); pero los cursos de potencia específicos del mercado todavía difieren y no son intercambiables.
-¿El Jolion viene como un híbrido? Los documentos de cobertura en el extranjero a 1.5L DHT HEV (~ 190 PS / 375 N·m); el coche de referencia chino aquí es un turbo 1.5T - mantenerlos en columnas separadas.
+¿El Jolion viene como un híbrido? Los documentos de cobertura en el extranjero a 1.5L DHT HEV (~ 190 PS 375 N·m); el coche de referencia chino aquí es un turbo 1.5T - mantenerlos en columnas separadas.
 **¿Cuál es el par de par y caja de cambios chinos de 1.5T?** El poder es 110 kW; los 210 N·m y 7DCT capturados son figuras del mercado australiano, por lo que no se declaran como valores chinos confirmados hasta que una segunda fuente china.
 **Can I quote Australian cargo volume for a Chinese unit?** No — 430/1130 L is the overseas version's figure; confirmar el coche chino por separado.
 
@@ -68,23 +68,23 @@ No se publica precio de exportación y no se infiere aquí. Solicitar presupuest
 - IMAGE_RIGHTS_STATUS: FAIL (no se acepta ningún activo con licencia; no se acepta un titular de posición o “retiene la imagen antigua”)
 - BLOCK_REASON: No se puede asegurar una imagen reutilizable: Wikimedia Commons/Flickr no son accesibles desde el entorno de investigación, las bibliotecas de stock requieren acceso a API/licencia autenticada, y una imagen de página web OEM NO es una subvención comercial de reutilización; no existe foto de propiedad de AutoBridge. Se quedó con la FAIL en lugar de afirmarse.
 - ALT por idioma:
-  - **EN**: AutoBridge export-buyer reference — GWM Haval Jolion, petrol/diesel Chinese-market vehicle / SUV
-  - **FR**: Référence AutoBridge pour acheteurs export — GWM Haval Jolion, véhicule thermique (marché chinois) / SUV
-  - **DE**: AutoBridge-Referenz für Exportkäufer — GWM Haval Jolion, Verbrenner (chinesischer Markt) / SUV
-  - **ES**: Referencia AutoBridge para compradores de exportación — GWM Haval Jolion, vehículo de combustión (mercado chino) / SUV
-  - **PT**: Referência AutoBridge para compradores de exportação — GWM Haval Jolion, veículo a combustão (mercado chinês) / SUV
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜GWM Haval Jolion, 中国市場仕様 内燃機関車 / SUV
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜GWM Haval Jolion, 중국 시장 내연기관 차량 / SUV
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — GWM Haval Jolion, xe động cơ đốt trong (thị trường Trung Quốc) / SUV
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — GWM Haval Jolion, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถเอสยูวี
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — GWM Haval Jolion, kendaraan mesin pembakaran (pasar Tiongkok) / SUV
-  - **AR**: مرجع AutoBridge لمشتري التصدير — GWM Haval Jolion, مركبة بمحرك احتراق (سوق الصين) / سيارة دفع رباعي
-  - **ZH**: AutoBridge 出口采购参考｜GWM Haval Jolion, 中国市场燃油车 / SUV
+  - **EN**: AutoBridge export-buyer reference — GWM Haval Jolion, petrol/diesel Chinese-market vehicle SUV
+  - **FR**: Référence AutoBridge pour acheteurs export — GWM Haval Jolion, véhicule thermique (marché chinois) SUV
+  - **DE**: AutoBridge-Referenz für Exportkäufer — GWM Haval Jolion, Verbrenner (chinesischer Markt) SUV
+  - **ES**: Referencia AutoBridge para compradores de exportación — GWM Haval Jolion, vehículo de combustión (mercado chino) SUV
+  - **PT**: Referência AutoBridge para compradores de exportação — GWM Haval Jolion, veículo a combustão (mercado chinês) SUV
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜GWM Haval Jolion, 中国市場仕様 内燃機関車 SUV
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜GWM Haval Jolion, 중국 시장 내연기관 차량 SUV
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — GWM Haval Jolion, xe động cơ đốt trong (thị trường Trung Quốc) SUV
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — GWM Haval Jolion, รถเครื่องยนต์สันดาป (ตลาดจีน) รถเอสยูวี
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — GWM Haval Jolion, kendaraan mesin pembakaran (pasar Tiongkok) SUV
+  - **AR**: مرجع AutoBridge لمشتري التصدير — GWM Haval Jolion, مركبة بمحرك احتراق (سوق الصين) سيارة دفع رباعي
+  - **ZH**: AutoBridge 出口采购参考｜GWM Haval Jolion, 中国市场燃油车 SUV
 
 ## Fuentes " Verificación "
 | Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |
 |---|---|---|---|---|---|---|
-| GWM historial corporativo (versión en el extranjero de California = JOLION, Sudáfrica/Saudi; HEV Tailandia) | Gran motor de pared (OEM) | Marca HQ | https://www.gwm.com.cn/history.html | 2026-09-04 | VERIFIED (primaria) | SAME_MODEL Identidad básica |
+| GWM historial corporativo (versión en el extranjero de California JOLION, Sudáfrica/Saudi; HEV Tailandia) | Gran motor de pared (OEM) | Marca HQ | https://www.gwm.com.cn/history.html | 2026-09-04 | VERIFIED (primaria) | SAME_MODEL Identidad básica |
 | Haval Chulian 1.5T parámetros de auto | Base de datos Sina Auto | CN | https://db.auto.sina.cn/car/50026/ | 2026-09-04 | SINGLE_SOURCE | dimensiones chinas, 1.5T, 110 kW, rueda de rodadura |
 | Australiano Jolion 1.5T potencia & dimensiones | Tencent (revisión repostada) | AU | http://news.qq.com/rain/a/20210717A03BJX00 | 2026-09-04 | SINGLE_SOURCE (overseas) | 210 N·m, 7DCT,  430/1130 L — AU only |
 | lanzamiento de Jolion Pro HEV Australia | Autohome·Chejiahao | AU | https://chejiahao.m.autohome.com.cn/info/15525734 | 2026-09-04 | SINGLE_SOURCE (overseas) | Sistema de salud de ultramar |
@@ -99,7 +99,7 @@ No se publica precio de exportación y no se infiere aquí. Solicitar presupuest
 ## Revisión editorial
 - **Autor**: Equipo Editorial AutoBridge Export · método por nuestro [Política editorial](/editorial-policía/)
 - **Documento revisado*: 2026-09-05
-- **Mercadillo de referencia**: chino 1.5T = CHINA; UA 1.5T y HEV = extranjero (separado; sin espectro global)
+- **Mercadillo de referencia**: chino 1.5T CHINA; UA 1.5T y HEV extranjero (separado; sin espectro global)
 - ** Método de verificación**: identidad de nombre confirmada por OEM; mercado/trim/powertrain separados; torque/gearbox chino bloqueado hasta que una segunda fuente china
 - **Transparencia**: Se utilizó la redacción con ayuda de AI. Este artículo se basa en la investigación de escritorio y QA automatizado. No se reclaman pruebas de primera mano a menos que se documenten explícitamente; confirmen los requisitos de tiempo y destino específicos antes de realizar la transacción.
 - **Editorial standard**: Investigación y escritura de las fuentes mencionadas anteriormente (indagación de la tinta; no se reclama la conducción directa, desgarro o importación). La confianza de la fuente se muestra por fila; cualquier punto que no podamos confirmar de forma independiente se presenta como un elemento de verificación en lugar de afirmarse como hecho.

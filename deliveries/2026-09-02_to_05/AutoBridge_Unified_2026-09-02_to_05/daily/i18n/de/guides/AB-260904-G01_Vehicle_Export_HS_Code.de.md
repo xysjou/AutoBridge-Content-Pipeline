@@ -31,8 +31,8 @@ Zwei Grenzen verursachen die meisten Streitigkeiten:
 ## Das elektrische Dreirad Edge Case
 Zollliche Anleitung unterscheidet elektrische Dreiräder durch Verwendung und Identifikation: Ein **Personen tragendes ** Dreirad ** mit einer VIN ** fällt unter die Linie 8703.8010, **ohne VIN ** unter 8703.8090, während ein **Ladung ** Dreirad ** zu ** 8704.6000 ** geht. Dies ist eine Zoll Q & A-Level-Interpretation (Single Source); der örtliche Hafenzoll und der derzeitige Tarif 2026 bleiben maßgeblich.
 
-## Der HS-First Workflow, den wir empfehlen
-1. ** Staatliche Hauptverwendung** (Traktion / Personen / Waren / Sonderfunktion / nicht angetriebener Anhänger) - dies wählt die Überschrift aus.
+## Der HS-First Prozess, den wir empfehlen
+1. ** Staatliche Hauptverwendung** (Traktion Personen Waren Sonderfunktion nicht angetriebener Anhänger) - dies wählt die Überschrift aus.
 2. **Landsitze** für Personenkraftwagen (≤ 9 → 87.03; 10+ → 87.02); Zugmaschinen unter 87.01.
 3. **Separater Zugmaschinenzug vom Anhänger**: einem 87.01 Zugmaschinenkopf  and  an 8716 semi-trailer are classified independently.
 4. **Drill zur aktuellen zehnstelligen nationalen Unterposition** im ** 2026 Tarif** für das Jahr der Anmeldung.
@@ -44,7 +44,7 @@ Zollliche Anleitung unterscheidet elektrische Dreiräder durch Verwendung und Id
 
 ## Vorab-Checkliste
 - Hauptverwendung niedergeschrieben und vertretbar.
-- Sitzanzahl / Frachtrolle / Sonderfunktion / Traktionsrolle, die durch das Spec Sheet belegt wird.
+- Sitzanzahl Frachtrolle Sonderfunktion Traktionsrolle, die durch das Spec Sheet belegt wird.
 - Zugmaschine und Anhänger sind getrennt zu ordnen, wenn beide Schiffe
 - Aktuelles Jahr (2026) nationale Unterposition, die mit dem offiziellen Tarif überprüft wurde.
 - Klassifizierungsgrundsätze, die vor der Buchung beim Zollbroker eingereicht wurden.
@@ -87,11 +87,11 @@ Zollliche Anleitung unterscheidet elektrische Dreiräder durch Verwendung und Id
 | Import and Export Tariff of the PRC (2026), Tariff Commission of the State Council | Finanzministerium (VR China) | CN | https://bgt.mof.gov.cn/zhuantilanmu/rdwyh/czyw/202512/P020251231607833453633.pdf | 2026-09-04 | VERIFIZIERT (primär) | 87.01–87.05/8716 derzeitige Überschriften |
 | GACC announcement on implementing the 2026 tariff adjustment programme | Allgemeine Zollverwaltung von China | CN | http://www.customs.gov.cn/customs/2025-12/31/article_2026010717460235831.html | 2026-09-04 | VERIFIZIERT (primär) | 2026 Vollstreckungsgrundlage, Regel für die Jahresunterposition |
 | 2026 HS-Anfrage · Positionen des Kapitels 87 | i5a6 HS-Abfragesystem | CN | https://www.i5a6.com/hsCategory/c17 | 2026-09-04 | CROSS_CHECKED | Kursführung |
-| Zoll Q&A auf elektrischen Dreirädern (8703.80 / 8704.60) | Zollfreigabe (Repost) | CN | http://m.toutiao.com/group/7518145509672993315/ | 2026-09-04 | SINGLE_SOURCEN | Dreirad-Split, 8704.6000 |
+| Zoll Q&A auf elektrischen Dreirädern (8703.80 8704.60) | Zollfreigabe (Repost) | CN | http://m.toutiao.com/group/7518145509672993315/ | 2026-09-04 | SINGLE_SOURCEN | Dreirad-Split, 8704.6000 |
 *Bezugspunkt: die derzeitige Grundlage ist der Tarif 2026 und seine Ankündigung zur Durchführung des GACC; older 2018/2020 tables are no longer used as the primary basis. Bestimmungszoll und die genaue zehnstellige Unterposition sind nicht in den Anwendungsbereich und müssen pro Land/pro Zolljahr überprüft werden. *
 
-| 进口汽车及零部件最惠国税率调整表 (含 8703 各子目官方名称) | 中国政府网 (国务院) | CN | https://www.gov.cn/zhengce/zhengceku/2018-12/31/5439526/files/62498c5520b84fc68a5960799fe12353.pdf | 2026-09-04 | ÜBERPRÜFUNG | 870340 等子目官方归类名称 / 混合动力 / 排量座位分目 |
-| 海南零关税交通工具清单 (8702 客车电动 / 混动分目官方名称) | 国家税务总局 (北京市税务局)PDF | CN | http://beijing.chinatax.gov.cn/bjswj/sszc/zxwj/202012/cf5c916d2def4bd69f2a229bf60a35a3/files/d159fcb1991d48b8a2be4d2c90a7a717.pdf | 2026-09-04 | ÜBERPRÜFUNG | 870230/870240 大中型 / 小型客车电动混动分目 |
+| 进口汽车及零部件最惠国税率调整表 (含 8703 各子目官方名称) | 中国政府网 (国务院) | CN | https://www.gov.cn/zhengce/zhengceku/2018-12/31/5439526/files/62498c5520b84fc68a5960799fe12353.pdf | 2026-09-04 | ÜBERPRÜFUNG | 870340 等子目官方归类名称 混合动力 排量座位分目 |
+| 海南零关税交通工具清单 (8702 客车电动 混动分目官方名称) | 国家税务总局 (北京市税务局)PDF | CN | http://beijing.chinatax.gov.cn/bjswj/sszc/zxwj/202012/cf5c916d2def4bd69f2a229bf60a35a3/files/d159fcb1991d48b8a2be4d2c90a7a717.pdf | 2026-09-04 | ÜBERPRÜFUNG | 870230/870240 大中型 小型客车电动混动分目 |
 
 ## Editorial Review
 - **AutoBridge Export Editorial Team · Methode nach unserer [Editorial Policy](/redaktionelle Politik/)

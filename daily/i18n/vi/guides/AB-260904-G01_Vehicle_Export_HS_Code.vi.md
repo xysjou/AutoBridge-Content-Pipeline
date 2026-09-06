@@ -7,7 +7,7 @@
 - ** H1 Xe nào của tôi? Một hướng dẫn xuất khẩu được xây dựng trên 2026 Tariff
 - ** Từ khoá bí mật **: vehicle export hs code classification 8702 8703 8704 8705
 - **Secondary Search termss**: 8701 máy kéo HS, 8703 xe chở khách HS, 8704 xe chở hàng, 8705 phương tiện đặc biệt có mục đích, 8716 xe moóc HS, 2026 xe xuất khẩu thuế xuất khẩu ở Trung Quốc, chương 87
-- **I nội bộ Link gợi ý**: /guides/china-export-criate-of-origin /; /vehicles/dong Phong Phong-tanlong-kl /; /vehicles/dong Phong-tang-tonjin-kr/
+- **I nội bộ Link gợi ý**: /guides/china-export-criate-of-origin /vehicles/dong Phong Phong-tanlong-kl /vehicles/dong Phong-tang-tonjin-kr/
 - **Image gợi ý**: _HS đang đi về cây quyết định; xe tải chống máy kéo chống lại biểu tượng xe moóc được thiết lập; việc tuyên bố tập hợp tập tin hải quan
 - **LT Những gợi ý**: "Vehicle HS heading decision tree 8701 8702 8703 8704 8705 8716"
 
@@ -19,7 +19,7 @@ Những người xuất khẩu thường bắt đầu bằng một câu Kinh Th�
 |---|---|---|
 | **87.01** | Máy kéo (ngoài máy kéo hướng 87.09, ** bao gồm cả máy kéo bán ống nước* ♪ | Đầu máy kéo kiểu KL theo kiểu Thiên Long |
 | **87.02** | Xe hơi cho ** 10+ người** (buses/coaches), bao gồm cả các tiểu đoàn điện/hybrid | Xe buýt thành phố, huấn luyện viên |
-| **87.03** | Xe hơi cho người,  thể hiện 9 ghế — quán rượu, SUV, MPVs, lai  and  Xe chở khách điện | ĐÃ TIẾNG / GWM Xe hành khách |
+| **87.03** | Xe hơi cho người,  thể hiện 9 ghế — quán rượu, SUV, MPVs, lai  and  Xe chở khách điện | ĐÃ TIẾNG GWM Xe hành khách |
 | **87.04** | **Goods xe** (bao gồm các phương tiện chở hàng điện; ba bánh xe dưới 8704.6000) | Xe tải nhẹ Shunda, xe chở hàng |
 | **87.05** | ** Mục đích đặc biệt** xe cộ có vai trò chính không phải là chở người hay hàng hóa (crane, khoan,  dung, cứu hộ) | bơm bê tông, xe cứu hộ/ đặc biệt |
 | **87.16** | **Traler và bán ống dẫn** (và những phương tiện không phải cơ giới lái) | hộp/critain bán thanh tác vụ |
@@ -32,7 +32,7 @@ Hai ranh giới gây ra nhiều tranh chấp nhất:
 Theo tập tục, sự phân biệt xe ba bánh bằng cách sử dụng và nhận diện: một người đàn ông, ba bánh xe, với một chiếc xe VIN** rơi dưới 8703.8010, ** mà không có một chiếc xe VIN** dưới 8703.8090, trong khi một chiếc xe ba bánh chạy đến ** 8704.6000 **. Đây là một giải thích tập tục Q&A cấp độ Q (các nguồn gốc); các hải quan cảng địa phương và 2026 thuế hiện tại vẫn còn có thẩm quyền.
 
 ## Chúng tôi khuyến khích dòng chảy công việc đầu tiên của HS
-1. **Stet sử dụng** (traction / người / hàng hóa / chức năng đặc biệt / không có sức mạnh) — điều này chọn tiêu đề.
+1. **Stet sử dụng** (traction người hàng hóa chức năng đặc biệt không có sức mạnh) — điều này chọn tiêu đề.
 2. **Count sings** cho xe chở khách (Gorm 9 87.03; 10+ 87.02); xác định máy kéo dưới 87.01.
 3. **Separate errater from crime**: một đầu máy kéo 87.01 và một chiếc bán tải 8716 được phân loại độc lập.
 4. **Drill to the current ten-digit national subheading** in the **2026 tariff** for the year of declaration.
@@ -44,7 +44,7 @@ Theo tập tục, sự phân biệt xe ba bánh bằng cách sử dụng và nh�
 
 ## Danh sách kiểm tra trước công việc
 - Hiệu trưởng sử dụng và bảo vệ bản thân.
-- Số đếm số / hàng hóa / chức năng đặc biệt / độ kéo bằng chứng của tấm vải tối thiểu.
+- Số đếm số hàng hóa chức năng đặc biệt độ kéo bằng chứng của tấm vải tối thiểu.
 - Máy kéo và xe moóc phân loại riêng biệt nơi cả hai tàu.
 - Năm nay (2026) tiểu đoàn quốc gia đã được xác nhận chống lại thuế chính thức.
 - Giải thích lý lẽ phân loại với nhà môi giới hải quan trước khi đặt chỗ.
@@ -87,11 +87,11 @@ Cái đầu máy kéo bán tải đi đâu rồi? Dưới 87.01 (có nghĩa rõ 
 | Nhập khẩu và Xuất khẩu Tariff của PRC (2026), Ủy ban Tariff của Hội đồng Nhà nước | Bộ Tài chính (PRC) | CN | https://bgt.mof.gov.cn/zhuantilanmu/rdwyh/czyw/202512/P020251231607833453633.pdf | 2026-09-04 | VEIID (TIẾNG) | 87.01–87.05/8716 tên tiêu đề hiện thời |
 | GCC thông báo về việc thực hiện chương trình điều chỉnh 2026 thuế | Tổng quản trị tập quán Trung Quốc | CN | http://www.customs.gov.cn/customs/2025-12/31/article_2026010717460235831.html | 2026-09-04 | VEIID (TIẾNG) | 2026 cơ sở thực thi pháp luật, quy tắc hàng năm |
 | 2026 HS query · Chapter 87 headings | i5a6 Hệ thống truy vấn hệ thống | CN | https://www.i5a6.com/hsCategory/c17 | 2026-09-04 | ĐÃ_ ĐÃ | Hướng |
-| Phong tục Q&A cho xe ba bánh điện (8703.80 / 8704.60) | Tuỳ biến | CN | http://m.toutiao.com/group/7518145509672993315/ | 2026-09-04 | SINGLE_SOURCE | Three-wheeler split, 8704.6000 |
+| Phong tục Q&A cho xe ba bánh điện (8703.80 8704.60) | Tuỳ biến | CN | http://m.toutiao.com/group/7518145509672993315/ | 2026-09-04 | SINGLE_SOURCE | Three-wheeler split, 8704.6000 |
 *Scope: Cơ sở hiện nay là 2026 thuế má và thông báo quảng cáo GACC; 2018/2020 bảng cũ hơn không còn được dùng làm căn bản chính nữa. Nhiệm vụ đích đến và chính xác mười số đầu đề đã vượt quá phạm vi và phải được kiểm tra mỗi quốc gia/năm thuế. ♪
 
-| 进口汽车及零部件最惠国税率调整表 (含 8703 各子目官方名称) | 中国政府网 (国务院) | CN | https://www.gov.cn/zhengce/zhengceku/2018-12/31/5439526/files/62498c5520b84fc68a5960799fe12353.pdf | 2026-09-04 | VEII | 870340 等子目官方归类名称 / 混合动力 / 排量座位分目 |
-| 海南零关税交通工具清单 (8702 客车电动 / 混动分目官方名称) | 国家税务总局 (北京市税务局) tan | CN | http://beijing.chinatax.gov.cn/bjswj/sszc/zxwj/202012/cf5c916d2def4bd69f2a229bf60a35a3/files/d159fcb1991d48b8a2be4d2c90a7a717.pdf | 2026-09-04 | VEII | 870230/870240 大中型 / 小型客车电动混动分目 |
+| 进口汽车及零部件最惠国税率调整表 (含 8703 各子目官方名称) | 中国政府网 (国务院) | CN | https://www.gov.cn/zhengce/zhengceku/2018-12/31/5439526/files/62498c5520b84fc68a5960799fe12353.pdf | 2026-09-04 | VEII | 870340 等子目官方归类名称 混合动力 排量座位分目 |
+| 海南零关税交通工具清单 (8702 客车电动 混动分目官方名称) | 国家税务总局 (北京市税务局) tan | CN | http://beijing.chinatax.gov.cn/bjswj/sszc/zxwj/202012/cf5c916d2def4bd69f2a229bf60a35a3/files/d159fcb1991d48b8a2be4d2c90a7a717.pdf | 2026-09-04 | VEII | 870230/870240 大中型 小型客车电动混动分目 |
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team_· phương pháp trên mỗi [chính sách] (/tách-chính trị/)

@@ -12,7 +12,7 @@
 ## La oportunidad y la modificación de la Miscalculación
 Chile opera acuerdos de libre comercio con sus principales socios, **incluyendo a China**. Un vehículo chino-origen compatible puede utilizar la preferencia del TLC (ad-valorem **duty 0% **), mientras que el deber ad-valorem de Chile **general es 6% de valor aduanero del CIF** para origen no preferencial — ambos ahora anclados a fuentes oficiales (bajo). El error recurrente del comprador es leer "FTA 0% deber" como " 0% costo para importar". No es: ** 19% IVA sigue vigente, el 0% depende de la prueba de origen, y la homologación es un flujo de trabajo separado.** Esta guía es específica para **Chile**.
 ## The Tax Stack, Line by Line (officially grounded)
-| Elemento | Tratamiento | Basis / confianza |
+| Elemento | Tratamiento | Basis confianza |
 |---|---|---|
 | Función general de la Asamblea General | ** 6% de CIF (valor de los átomos)** para el origen no preference | **VERIFIED - Servicio Nacional de Aduanas de Chile (aduana.gob.cl)** |
 | IVA (IVA) | ** 19% sobre valor aduanero CIF + deber** - cobrado incluso cuando el deber es de 0% bajo el TLC | ** TODOS LOS FILDOS — aduana.gob.cl** |
@@ -23,7 +23,7 @@ La aduana chilena establece claramente la norma general: las importaciones pagan
 Un borrador anterior llevó una "1% cuota y una exención de 30 dólares de los EE.UU. de los automóviles" en la pila de vehículos. Esa norma se refiere a los envíos postales y de mensajería pequeños y no comerciales**, y no a las importaciones de vehículos comerciales**, por lo que se ha eliminado de la construcción de los costos del vehículo. No aplique la lógica de mensajería de memoria a un coche enviado.
 ## Origen Es la condición para 0% — Obtener el derecho del certificado
 La preferencia del TLC se aplica únicamente a los productos **originados** que cumplen con la regla de origen específica del producto y llevan un certificado de origen válido ** emitido por el organismo autorizado, consistente en factura, lista de embalaje, B/L y VIN. Operacionalmente:
-- Confirme el código **HS** del vehículo y su regla de origen del TLC (ver el texto actual del TLC / SUBREI para esa partida) no asuma que cada vehículo califica automáticamente.
+- Confirme el código **HS** del vehículo y su regla de origen del TLC (ver el texto actual del TLC SUBREI para esa partida) no asuma que cada vehículo califica automáticamente.
 - Obtenga el certificado de TLC que nombra los mismos detalles de exportadores/consignados y vehículos que los documentos comerciales.
 - Una cadena de origen rota o desaparecida predetermina el envío al ** 6% ** deber general.
 ## 3CV Homologación es separada de las aduanas
@@ -32,7 +32,7 @@ Los vehículos colocados en el mercado chileno requieren ** 3CV homologación** 
 - **Cualquier umbral de "lujo/surtaxis"** (una fuente de la industria citó un porcentaje por encima de una banda de valor): **No confirmado contra el texto de la autoridad tributaria chilena (SII) y eliminado de la pila de costos fácticos** — verifique la aplicabilidad a su modelo/precio con una fuente de impuestos chilena antes de presupuestar.
 - **ANAC's May-2026 proposal to cut the 6% duty for EVs from non-FTA partners**: a trade-association **proposal, not enacted law**. Tenga en cuenta también que un EV de origen chino compatible ya utiliza el canal de TLC 0%, por lo que el debate no TLC es una línea diferente. Reequilibrio en la fecha de envío; nunca cites una propuesta como política.
 ## Lo que AutoBridge añade Más allá de un Blog Arancel
-Las guías genéricas mezclan reglas, propuestas y impuestos promulgados en un número. El método recomendado es construir una pila **correo-correo para un *vehicle*** (6% general / 0% preferencia del TLC + 19% IVA en el valor incluido en el deber), empate el documento **certificado de origen establecido en el VIN**, y planifique el ** 3CV línea de tiempo en paralelo con el envío** por lo que la preferencia 0% no se pierde en un desajuste de papeleo y el primer registro no se retrasa.
+Las guías genéricas mezclan reglas, propuestas y impuestos promulgados en un número. El método recomendado es construir una pila **correo-correo para un *vehicle*** (6% general 0% preferencia del TLC + 19% IVA en el valor incluido en el deber), empate el documento **certificado de origen establecido en el VIN**, y planifique el ** 3CV línea de tiempo en paralelo con el envío** por lo que la preferencia 0% no se pierde en un desajuste de papeleo y el primer registro no se retrasa.
 ## Secuencia de funcionamiento
 1. Clasifique el código HS y confirme su regla de origen de FTA antes de fijar precios.
 2. Arregle el certificado de origen de la ALC con documentos que coincidan con el VIN.
@@ -42,7 +42,7 @@ Las guías genéricas mezclan reglas, propuestas y impuestos promulgados en un n
 6. Alinear los Incoterms/pago y asegurar la pierna oceánica (ver las guías pertinentes).
 ## Antes del pago — Lista de confirmación
 - Código HS + regla de origen del TLC; certificado FTA arreglado y VIN-consistente.
-- Montaje de impuestos calculado sobre la base de la aduana.gob.cl (6% preferencia general / 0%; 19% IVA sobre la cuota CIF+).
+- Montaje de impuestos calculado sobre la base de la aduana.gob.cl (6% preferencia general 0%; 19% IVA sobre la cuota CIF+).
 - Cualquier superávit verificado con una fuente de impuestos chilena, no asumido.
 - Ruta 3CV, tarifa actual y cronograma citado por el certificador (no se reutiliza el número de referencia).
 - Cambios de propuesta/estatal re-checked as of shipment date.

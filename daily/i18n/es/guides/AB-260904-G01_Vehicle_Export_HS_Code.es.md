@@ -32,7 +32,7 @@ Dos límites causan la mayoría de las controversias:
 La guía de aduanas distingue a los tres ruedas eléctricos por uso e identificación: un **carrying persona** de tres ruedas **con un VIN** cae bajo la línea 8703.8010, **sin un VIN** bajo 8703.8090, mientras que un **cargo** de tres ruedas va a ** 8704.6000 ** Esta es una interpretación aduanera de nivel Q анта (fuente individual); las costumbres portuarias locales y el arancel actual 2026 siguen siendo autorizados.
 
 ## El primer flujo de trabajo de HS Recomendar
-1. ** Uso principal del Estado** (tracción / personas / bienes / función especial / remolque no alimentado) - esto selecciona el encabezado.
+1. ** Uso principal del Estado** (tracción personas bienes función especial remolque no alimentado) - esto selecciona el encabezado.
 2. ** Asientos para pasajeros** (≤ 9 → 87.03; 10+ → 87.02); identificar tractores menores de 87.01.
 3. **Tractor separado del remolque**: una cabeza tractor 87.01 y un semi-trailer 8716 se clasifican independientemente.
 4. **Perforación con la actual subpartida nacional de diez dígitos** en el arancel ** 2026** para el año de declaración.
@@ -44,7 +44,7 @@ La guía de aduanas distingue a los tres ruedas eléctricos por uso e identifica
 
 ## Lista de verificación previa a la declaración
 - Uso principal escrito y defensible.
-- Cuento de asiento / papel de carga / función especial / función de tracción evidenciada por la hoja de espec.
+- Cuento de asiento papel de carga función especial función de tracción evidenciada por la hoja de espec.
 - Tractor y remolque clasificados por separado donde ambos buques.
 - Año actual (2026) subpartida nacional verificada contra el arancel oficial.
 - Racionalidad de clasificación presentada con el corredor de aduanas antes de reservar.
@@ -87,11 +87,11 @@ La guía de aduanas distingue a los tres ruedas eléctricos por uso e identifica
 | Importación y exportación del Tribunal de la República Popular Democrática de Corea (2026), Comisión de Aranceles Aduaneros del Consejo de Estado | Ministerio de Finanzas (PRC) | CN | https://bgt.mof.gov.cn/zhuantilanmu/rdwyh/czyw/202512/P020251231607833453633.pdf | 2026-09-04 | VERIFIED (primaria) | 87.01–87.05/8716 current heading names |
 | Anuncio del GACC sobre la aplicación del programa de ajuste arancelario 2026 | Administración General de Aduanas de China | CN | http://www.customs.gov.cn/customs/2025-12/31/article_2026010717460235831.html | 2026-09-04 | VERIFIED (primaria) | 2026 enforcement basis, annual-subheading rule |
 | 2026 Consultas de HS · Capítulo 87 encabezados | i5a6 Sistema de consultas HS | CN | https://www.i5a6.com/hsCategory/c17 | 2026-09-04 | CROSS_CHECKED | Navegación de dirección |
-| Personalidades Q concursante en tres ruedas eléctricas (8703.80 / 8704.60) | Comunicado de aduana (repost) | CN | http://m.toutiao.com/group/7518145509672993315/ | 2026-09-04 | SINGLE_SOURCE | Tres ruedas divididas, 8704.6000 |
+| Personalidades Q concursante en tres ruedas eléctricas (8703.80 8704.60) | Comunicado de aduana (repost) | CN | http://m.toutiao.com/group/7518145509672993315/ | 2026-09-04 | SINGLE_SOURCE | Tres ruedas divididas, 8704.6000 |
 * Nota de la encuesta: la base actual es el arancel 2026 y su anuncio de ejecución GACC; los más antiguos 2018/2020 cuadros ya no se utilizan como base principal. El derecho de destino y la subpartida exacta de diez dígitos están fuera de alcance y deben ser revisados por país/por año arancelario. *
 
-| 进口汽车及零部件最惠国税率调整表 (含 8703 各子目官方名称) | 中国政府网 (国务院) | CN | https://www.gov.cn/zhengce/zhengceku/2018-12/31/5439526/files/62498c5520b84fc68a5960799fe12353.pdf | 2026-09-04 | VERIFIED | 870340 等子目官方归类名称 / 混合动力 / 排量座位分目 |
-| 海南零关税交通工具清单 (8702 客车电动 / 混动分目官方名称) | 国家税务总局 (北京市税务局)PDF | CN | http://beijing.chinatax.gov.cn/bjswj/sszc/zxwj/202012/cf5c916d2def4bd69f2a229bf60a35a3/files/d159fcb1991d48b8a2be4d2c90a7a717.pdf | 2026-09-04 | VERIFIED | 870230/870240 大中型 / 小型客车电动混动分目 |
+| 进口汽车及零部件最惠国税率调整表 (含 8703 各子目官方名称) | 中国政府网 (国务院) | CN | https://www.gov.cn/zhengce/zhengceku/2018-12/31/5439526/files/62498c5520b84fc68a5960799fe12353.pdf | 2026-09-04 | VERIFIED | 870340 等子目官方归类名称 混合动力 排量座位分目 |
+| 海南零关税交通工具清单 (8702 客车电动 混动分目官方名称) | 国家税务总局 (北京市税务局)PDF | CN | http://beijing.chinatax.gov.cn/bjswj/sszc/zxwj/202012/cf5c916d2def4bd69f2a229bf60a35a3/files/d159fcb1991d48b8a2be4d2c90a7a717.pdf | 2026-09-04 | VERIFIED | 870230/870240 大中型 小型客车电动混动分目 |
 
 ## Revisión editorial
 - **Autor**: Equipo Editorial AutoBridge Export · método por nuestro [Política editorial](/editorial-policía/)

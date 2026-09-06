@@ -14,7 +14,7 @@
 ## The Classification Changed — Old UN3171 Habits Are Now Wrong
 Eine gängige Praxis vor 2026 war es, jedes batteriebetriebene Fahrzeug unter ** UN3171 ** zu buchen. Unter dem **aktuellen verbindlichen IMDG-Code, Änderung 42-24 ** (angenommen durch IMO-Entschließung **MSC. 556 (108) ** und **obligatorisch in China von 2026-01-01 ** gemäß dem offiziellen Text der China Maritime Safety Administration), ist das für Mainstream-Lithiumfahrzeuge nicht mehr korrekt. Using the old number on a 2026 declaration is a classification error that stops dangerous-goods paperwork at booking.
 
-## Ganzes Fahrzeug (Batterie installiert): UN3556 / UN3557 / UN3558
+## Ganzes Fahrzeug (Batterie installiert): UN3556 UN3557 UN3558
 Für ein **Fahrzeug, das mit eingebauter Batterie transportiert wird**:
 - ** UN3556 — Lithium-Ionen-Batterie-Fahrzeug**
 - ** UN3557 — Lithium-Metall-Batterie-Fahrzeug**
@@ -22,7 +22,7 @@ Für ein **Fahrzeug, das mit eingebauter Batterie transportiert wird**:
 
 Die neue **Packing Instruction P912 ** regelt die Verstauung und Sicherung für diese Einträge. Where a UN3556 vehicle is **not fully enclosed** by packaging or a crate, **Sonderbestimmung SP405 ** legt die Kennzeichnungsanforderungen fest. Der Umfang des Legacy-Eintrags ** UN3171 ** wurde **verengt** auf Fahrzeuge/Geräte mit **Wet-Batterien, Natrium-Metall- oder Natrium-Legierungsbatterien **. Mainstream-Lithium-Fahrzeuge müssen **nicht ** unter UN3171 von 2026. deklariert werden Dies sind Eintragungen der Klasse 9; Dokumentation und Markierung/Plakatierung folgen dem IMDG 42-24 Text und der zusätzlichen Schicht des gebuchten Trägers.
 
-## Spare / Lose Batterien sind ein anderer Eintrag
+## Spare Lose Batterien sind ein anderer Eintrag
 Verwechseln Sie die Gesamtfahrzeugnummer nicht mit losen Zellen und Packungen:
 - ** UN3480 — Lithium-Ionen-Batterien, die alleine transportiert werden** (lose/ersatz).
 - ** UN3481 — Lithium-Ionen-Batterien, die mit Geräten gepackt sind oder in solchen enthalten sind**.
@@ -35,7 +35,7 @@ Vor dem Transport müssen Lithium- (Metall-/Ionen-) und jetzt Natrium-Ionen-Batt
 Mengen-/Zustandsgrenzen wie ein fester **State-of-Charge-Prozentsatz** werden durch den **IMDG-Text und darüber hinaus durch jeden Carrier** festgelegt. Auf dieser Seite ist **kein fester SOC-Prozentsatz ohne offizielle Grundlage** angegeben; erhalten Sie die schriftliche DG-Anweisung des gebuchten Luftfahrtunternehmens Reise für Reise (Fluggesellschaften können strengere Bedingungen als das IMDG-Minimum festlegen). Beschädigte/defekte Batterieregeln folgen ebenfalls dem aktuellen Code und der Carrier-Zulassung und sind hier nicht verallgemeinert.
 
 ## Buchungs-Checkliste
-1. Bestätigen Sie die Chemie (Lithium-Ionen / Lithium-Metall / Natrium-Ionen / nass) → Wählen Sie UN3556/3557/3558 (oder die verengte UN3171 nur, wenn sie wirklich gilt).
+1. Bestätigen Sie die Chemie (Lithium-Ionen Lithium-Metall Natrium-Ionen nass) → Wählen Sie UN3556/3557/3558 (oder die verengte UN3171 nur, wenn sie wirklich gilt).
 2. Bestätigen Sie, dass die Batterie **installiert ** (Fahrzeugeintrag) vs **lose ** (UN3480/3481) ist.
 3. Tragen Sie ** P912 **; tragen Sie ** SP405 ** Kennzeichnung an, wenn nicht vollständig beiliegen.
 4. Montage ** UN38.3 (Rev. 8+Amd.1) T. 1–T.8 Testzusammenfassung ** für die Batterie.
@@ -48,8 +48,8 @@ Mengen-/Zustandsgrenzen wie ein fester **State-of-Charge-Prozentsatz** werden du
 
 ## Häufig gestellte Fragen
 **Welche UN-Nummer ist ein Lithium-Ionen-EV, das mit installierter Batterie ausgeliefert wird? ** UN3556 gemäß IMDG Amendment 42-24 (Lithium-Metall UN3557, Natrium-Ion UN3558).
-**Kann ich noch UN3171 verwenden? ** Nur für den verengten Nassbatterie- / Natriummetall- oder Legierungsumfang; nicht für Mainstream-Lithiumfahrzeuge von 2026.
-**Was ist mit einem Ersatzakku im selben Container? ** Lose Lithium-Ionen-Batterien verwenden UN3480 (oder UN3481 wenn mit / in Geräten verpackt), nicht UN3556.
+**Kann ich noch UN3171 verwenden? ** Nur für den verengten Nassbatterie- Natriummetall- oder Legierungsumfang; nicht für Mainstream-Lithiumfahrzeuge von 2026.
+**Was ist mit einem Ersatzakku im selben Container? ** Lose Lithium-Ionen-Batterien verwenden UN3480 (oder UN3481 wenn mit in Geräten verpackt), nicht UN3556.
 **Welche UN38.3 Edition gilt?** Das aktuelle Handbuch der Prüfungen und Kriterien, Rev. 8 mit Änderung 1, prüft T. 1–T.8 mit einer Zusammenfassung der Prüfung.
 
 ## Bildaufzeichnung
@@ -83,7 +83,7 @@ Mengen-/Zustandsgrenzen wie ein fester **State-of-Charge-Prozentsatz** werden du
 |---|---|---|---|---|---|---|
 | IMDG Code Änderung 42-24 offizieller chinesischer Text PDF | China Maritime Safety Administration | Durchsetzung des INTL/KN | https://www.msa.gov.cn/public/documents/document/mdiw/mjqw/~edisp/20251201020240683.pdf | 2026-09-04 | VERIFIZIERT (primär) | 42-24, MSC. 556 (108), 2026-01-01, UN3556-3558, P912, Klasse 9 |
 | UN-Handbuch über Prüfungen und Kriterien (Rev. 8 + Änderung 1), Abschnitt 38.3 (SCETDG-66 INF. 30) | UNECE/UN-Unterausschuss | INTL | https://unece.org/sites/default/files/2025-06/UN-SCETDG-66-INF30e.pdf | 2026-09-04 | VERIFIZIERT (primär) | Rev. 8+Amd.1,  UN38.3 T.1–T.8, Natrium-Ion |
-| UN/SCETDG-64 INF 29 Lithium-Batterie-Kennzeichnung / 38.3 Kennzeichnung Änderung | UNECE | INTL | https://www.unece.org/sites/default/files/2024-06/UN-SCETDG-64-INF29e.pdf | 2026-09-04 | VERIFIZIERT (primär) | 38.3 Kennzeichnungsänderungen |
+| UN/SCETDG-64 INF 29 Lithium-Batterie-Kennzeichnung 38.3 Kennzeichnung Änderung | UNECE | INTL | https://www.unece.org/sites/default/files/2024-06/UN-SCETDG-64-INF29e.pdf | 2026-09-04 | VERIFIZIERT (primär) | 38.3 Kennzeichnungsänderungen |
 | US 49 CFR § 173.185 (übernimmt UN38.3 von IBR) | US GovInfo (CFR) | US | https://www.govinfo.gov/content/pkg/CFR-2024-title49-vol2/xml/CFR-2024-title49-vol2-sec173-185.xml | 2026-09-04 | VERIFIZIERT (primär) | UN3480/3481, gesetzlich vorgeschriebene UN38.3 Referenz |
 | IMDG 42-24 Interpretation (MSC. 556 (108), Stichtag) | China Maritime (Repost) | INTL/CN | http://m.toutiao.com/group/7585883173825921546/ | 2026-09-04 | CROSS_CHECKED (unterstützend) | Interpretation zum effektiven Datum |
 | UN3556 SP405 Kennzeichnungsinterpretation | Jiupai News (Repost) | INTL | http://m.toutiao.com/group/7598735209990734370/ | 2026-09-04 | SINGLE_SOURCE (unterstützt) | SP405 Kennzeichnung |

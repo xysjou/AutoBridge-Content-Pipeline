@@ -1,26 +1,26 @@
-# Foton General G9 / Dajiangjun G9 (2025) — Chinese-Market Pickup Specs  and  Xuất danh sách kiểm tra
+# Foton General G9 Dajiangjun G9 (2025) — Chinese-Market Pickup Specs  and  Xuất danh sách kiểm tra
 
 ## SAO Siêu dữ liệu
 - **SEAO Tittry**: Foton General G9 pickup 2025: China-Market Diesel/Pet Spect & Elict Guide
 - **Meta Mô tả**: thương mại Trung Quốc G9 (大将军 G9). Xe tải: 2.0T dầu diesel và xăng, 6MT/8AT đường, RWD/ 4WD, giường ngủ và các kích thước cơ sở dữ liệu, và các mô-men xoắn động cơ diesel mâu thuẫn.
-- ** H1 **: Foton General G9 / Dajiangjun G9 (2025) — Chinese-Market Pickup Specs  and  Xuất danh sách kiểm tra
-- ** Từ khoá bí mật **: Foton / 福田 General G9 / 大将军G9 皮卡 specs export
+- ** H1 **: Foton General G9 Dajiangjun G9 (2025) — Chinese-Market Pickup Specs  and  Xuất danh sách kiểm tra
+- ** Từ khoá bí mật **: Foton 福田 General G9 大将军G9 皮卡 specs export
 - **Secondary Search termss**: Foton General G9 xuất khẩu; Dajingjun G9 xe thu nhỏ; xe bán dầu diesel Trung Quốc; 4WD xe kéo; taxi đôi
 - ** URL đã gợi ý**: /vehicles/foton- nhớ đến g9/
-- **Tìm kiếm ý định**: 了解 Foton / 福田 General G9 / 大将军G9 皮卡 中国版规格、配置与出口适配性（车型参数页）
-- **I nội bộ Link gợi ý**: //vehcles/foton- eracal- g9/, /guides/vehicle-export-hs-hise-hise-hise /, /guides/fuel-c-c tương thích-hi Story/
+- **Tìm kiếm ý định**: 了解 Foton 福田 General G9 大将军G9 皮卡 中国版规格、配置与出口适配性（车型参数页）
+- **I nội bộ Link gợi ý**: eracal- g9/, /guides/vehicle-export-hs-hise-hise-hise /guides/fuel-c-c tương thích-hi Story/
 - **Schema Scope**: Điều + xe cộ (không có sản phẩm/ sản phẩm/ văn bản/ Xem lại)
 
 ## Văn cảnh người mua: một công việc lấy với hai ống nhiên liệu
 **Foton General G9 (大将军 G9, 2025)** là một chiếc xe bán trên xe bán trên thị trường Trung Quốc trong **diel và các đường ống xăng**, với những hộp số hướng dẫn/auto và động cơ sau hoặc bốn bánh xe. Đối với người mua hàng xuất khẩu, những cánh đồng quyết định là kích thước giường, cơ sở bánh xe, khoang lái và động cơ chính xác -- không phải là một " G9" chỉ là một dự đoán. Thị trường tham khảo là **Trung Quốc**.
 
 ## Chassis, ngủ và huấn luyện viên năng lượng
-- **Disel**: 2.0T 4F20 柴油, 120 (163Ps) kW; peak torque is shown as **390 或 415（版本差异，未锁定） N·m — a documented conflict between sources, Vậy hãy khóa mô hình năm / năm trước khi trích dẫn một số đơn**.
-- **Petrol**: 175 kW / 360 N·m.
-- **Gearbox/divetrain**: 6MT / 8AT; 后驱 / 适时四驱.
+- **Disel**: 2.0T 4F20 柴油, 120 (163Ps) kW; peak torque is shown as **390 或 415（版本差异，未锁定） N·m — a documented conflict between sources, Vậy hãy khóa mô hình năm năm trước khi trích dẫn một số đơn**.
+- **Petrol**: 175 kW 360 N·m.
+- **Gearbox/divetrain**: 6MT 8AT; 后驱 适时四驱.
 - **Short-hort-crise**: 约 5340 × 1980; 轴距 3110; 货箱 1520 × 1580 × 440 mm (đã kiểm tra chéo).
 - ** Vòng quay dài **: 5630×1980×1860；轴距3400；货箱1805×1580×440 mm (single source — cross-check).
-- **Suspensition**: 前双叉臂 / 后整体桥; tiết 国 VI(0 # 柴油).
+- **Suspensition**: 前双叉臂 后整体桥; tiết 国 VI(0 # 柴油).
 
 ## Bảng đặc tả có màu sắc (tham chiếu thị trường Trung Hoa)
 | Chi tiết | Giá trị | Đơn vị | Thị trường | Tin tưởng | Ghi chú nguồn |
@@ -30,11 +30,11 @@
 | Name | 390 或 415（版本差异，未锁定） | N·m | TRUNG QUỐC | CONFLICT | 太平洋 đấu 懂车帝 2025 款详表 |
 | Năng lượng động cơ xăng | 175 | kW | TRUNG QUỐC | SINGLE_SOURCE | 太平洋汽车 |
 | Mô-men xoắn xăng | 360 | N·m | TRUNG QUỐC | SINGLE_SOURCE | 太平洋汽车 |
-| gửi | 6MT / 8AT | - | TRUNG QUỐC | SINGLE_SOURCE | 太平洋汽车 |
-| Tùy chọn đĩa | 后驱 / 适时四驱 | - | TRUNG QUỐC | SINGLE_SOURCE | 太平洋汽车 |
+| gửi | 6MT 8AT | - | TRUNG QUỐC | SINGLE_SOURCE | 太平洋汽车 |
+| Tùy chọn đĩa | 后驱 适时四驱 | - | TRUNG QUỐC | SINGLE_SOURCE | 太平洋汽车 |
 | wb ngắn mờ | 约5340×1980；轴距3110；货箱1520×1580×440 | mm | TRUNG QUỐC | ĐÃ_ ĐÃ | 太平洋 + 新浪 |
 | wb dài mờ | 5630×1980×1860；轴距3400；货箱1805×1580×440 | mm | TRUNG QUỐC | SINGLE_SOURCE | 太平洋汽车百科 |
-| đình chỉ | 前双叉臂 / 后整体桥 | - | TRUNG QUỐC | SINGLE_SOURCE | 太平洋汽车 |
+| đình chỉ | 前双叉臂 后整体桥 | - | TRUNG QUỐC | SINGLE_SOURCE | 太平洋汽车 |
 | thải chuẩn | 国 VI(0 # 柴油) | - | TRUNG QUỐC | SINGLE_SOURCE | 太平洋汽车 |
 
 ## Kiểm tra xuất khẩu: giường, khoang lái và xung đột mô-men xoắn

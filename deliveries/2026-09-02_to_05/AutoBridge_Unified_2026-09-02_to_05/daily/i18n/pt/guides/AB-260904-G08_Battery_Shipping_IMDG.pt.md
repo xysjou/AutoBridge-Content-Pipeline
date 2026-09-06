@@ -14,7 +14,7 @@
 ## A classificação mudou — os antigos UN3171 hábitos estão agora errados
 Uma prática comum pré- 2026 era reservar qualquer veículo a bateria em ** UN3171 **. Nos termos do Código IMDG obrigatório atual, emenda 42-24 ** (adoptada pela Resolução IMO ** MSC. 556 (108)** e **mandatory na China a partir de 2026-01-01 ** pelo texto oficial da Administração de Segurança Marítima da China), que não está mais correto para veículos principais de lítio. Usar o número antigo em uma declaração 2026 é um erro de classificação que pára a papelada de produtos perigosos na reserva.
 
-## Veículo inteiro (bateria instalada): UN3556 / UN3557 / UN3558
+## Veículo inteiro (bateria instalada): UN3556 UN3557 UN3558
 Para um veículo ** transportado com a sua bateria instalada**:
 - ** UN3556 — veículo movido a lítio-ion-bateria *
 - ** UN3557 — veículo movido a lítio-metal-bateria *
@@ -22,7 +22,7 @@ Para um veículo ** transportado com a sua bateria instalada**:
 
 A nova **Instrução de Pacotes P912 ** governa o estivamento e a segurança para estas entradas. Se um veículo UN3556 estiver **não totalmente fechado** por embalagem ou uma caixa, **Disposição especial SP405 ** define os requisitos de marcação. O âmbito do legado ** UN3171 ** entrada foi **atrelada** a veículos/equipamento alimentado por ** baterias molhadas, sódio-metal ou baterias de liga de sódio**; veículos principais de lítio não deve ** ser declarado abaixo de UN3171 a partir de 2026. São entradas da Classe 9; a documentação e a marcação/placarte seguem o texto do IMDG 42-24 e a camada adicional do transportador reservado.
 
-## Baterias Sobressalentes / Soltas são uma entrada diferente
+## Baterias Sobressalentes Soltas são uma entrada diferente
 Não confunda o número do veículo inteiro com células soltas e embalagens:
 - ** UN3480 — baterias de iões de lítio transportadas por conta própria** (perde/espalha).
 - ** UN3481 — baterias de iões de lítio embaladas com ou contidas em equipamento**.
@@ -35,7 +35,7 @@ Antes do transporte, as baterias de lítio (metal/ion) — e agora de ião-sódi
 Os limites de quantidade/estado, tais como uma percentagem fixa de estado de carga** são fixados pelo texto de **IMDG e, acima dele, por cada transportadora**. Esta página indica ** nenhuma percentagem fixa de SOC sem base oficial**; obter a viagem escrita da DG de instrução da transportadora reservada por viagem (as transportadoras podem impor condições mais rigorosas do que o mínimo IMDG). As regras relativas à bateria danificada/defeituosa seguem igualmente o Código e a aprovação do transportador em vigor e não são generalizadas neste domínio.
 
 ## Lista de Verificação de Reservas
-1. Confirmar química (lítio-íon / lítio-metal / sódio-íon / molhado) → selecione UN3556/3557/3558 (ou o estreitado UN3171 apenas onde realmente se aplica).
+1. Confirmar química (lítio-íon lítio-metal sódio-íon molhado) → selecione UN3556/3557/3558 (ou o estreitado UN3171 apenas onde realmente se aplica).
 2. Confirmar bateria é ** instalado** (entrada do veículo) vs ** solta** (UN3480/3481).
 3. Aplicar ** P912 **; aplicar ** SP405 ** marcação se não estiver totalmente fechada.
 4. Montar ** UN38.3 (Rev. 8+Amd.1) T. 1–T.8 resumo de teste** para a bateria.
@@ -82,8 +82,8 @@ Os limites de quantidade/estado, tais como uma percentagem fixa de estado de car
 | Título do código fonte | Organização | Mercado | URL | Verificado | Confiança | Factos corroborados |
 |---|---|---|---|---|---|---|
 | IMDG Code Amendment 42-24 official Chinese text PDF | Administração de Segurança Marítima da China | Execução INTL/CN | https://www.msa.gov.cn/public/documents/document/mdiw/mjqw/~edisp/20251201020240683.pdf | 2026-09-04 | VERIFIED (primário) | 42-24, MSC. 556 (108), 2026-01-01, UN3556-3558, P912, Classe 9 |
-| Manual de Ensaios e Critérios da ONU (Rev. 8 + Alteração 1), secção 38.3 (SCETDG- 66 INF. 30) | Subcomité UNECE / ONU | INTL | https://unece.org/sites/default/files/2025-06/UN-SCETDG-66-INF30e.pdf | 2026-09-04 | VERIFIED (primário) | Rev.8+Amd.1,  UN38.3 T.1–T.8, iões de sódio |
-| UN/SCETDG- 64 INF. 29 identificação da bateria de lítio / 38.3 alteração da marcação | UNECE | INTL | https://www.unece.org/sites/default/files/2024-06/UN-SCETDG-64-INF29e.pdf | 2026-09-04 | VERIFIED (primário) | 38.3 alterações na marcação |
+| Manual de Ensaios e Critérios da ONU (Rev. 8 + Alteração 1), secção 38.3 (SCETDG- 66 INF. 30) | Subcomité UNECE ONU | INTL | https://unece.org/sites/default/files/2025-06/UN-SCETDG-66-INF30e.pdf | 2026-09-04 | VERIFIED (primário) | Rev.8+Amd.1,  UN38.3 T.1–T.8, iões de sódio |
+| UN/SCETDG- 64 INF. 29 identificação da bateria de lítio 38.3 alteração da marcação | UNECE | INTL | https://www.unece.org/sites/default/files/2024-06/UN-SCETDG-64-INF29e.pdf | 2026-09-04 | VERIFIED (primário) | 38.3 alterações na marcação |
 | CFR 49 dos EUA § 173.185 (incorpora UN38.3 pelo IBR) | US GovInfo (CFR) | EUA | https://www.govinfo.gov/content/pkg/CFR-2024-title49-vol2/xml/CFR-2024-title49-vol2-sec173-185.xml | 2026-09-04 | VERIFIED (primário) | UN3480/3481, referência legal UN38.3 |
 | Interpretação IMDG 42-24 (MSC. 556 (108), data de eficácia) | China Marítima (reposta) | INTL/CN | http://m.toutiao.com/group/7585883173825921546/ | 2026-09-04 | CROSS_CHECKED (suporte) | Interpretação da data de eficácia |
 | UN3556 SP405 interpretação da marcação | Jiupai news (reposta) | INTL | http://m.toutiao.com/group/7598735209990734370/ | 2026-09-04 | ORIGINAL ÚNICA (suportando) | Marcação SP405 |

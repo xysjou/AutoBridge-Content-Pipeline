@@ -19,7 +19,7 @@
 
 | 标准 | 主要部署 | Notes |
 |---|---|---|
-| **GB/T 20234.3 ** (DC) + **GB/T 27930 ** (CAN通信) | 中国(中国国内车辆) | GB/T 20234.3-2023将上限提高到** 1500 V / 800 A**(交叉检查的行业来源) |
+| **GB/T 20234.3 ** (DC) + **GB/T 27930 ** (CAN通信) | 中国(中国国内车辆) | GB/T 20234.3-2023将上限提高到** 1500 V 800 A**(交叉检查的行业来源) |
 | ** CCS2(Combo 2)** | 欧洲和许多出口市场 | AC/DC综合进口;在欧盟占主导地位 |
 | ** CCS1(Combo 1)** | 北美 | CCS的区域变体 |
 | ** 乍得** | 日本和一些市场 | 原产于日本 |
@@ -45,14 +45,14 @@
 标准图表显示 GB/T 与 CCS2 不同; 它没有告诉你 * 这个VIN* 是否收费 。 建议的方法是将**物理内输入,握手协议和机载充电器评分为一个VIN绑定的注**,在购买文件中区分一个**硬件适配器(仅机械)和协议网关(GB/T 27930握手)**,并在寄存前而不是到达后确认**适应器在目的地的合法性和保修效果**.
 ## 每台车辆核查矩阵
 
-您要导出每个模型/图解, 请在工作表中记录:
+请在工作表中记录:
 
 - 国内输入: GB/T DC + AC 输入类型
-- 现有工厂出口进口:CCS2 /CHADEMO / NACS / CCS1 由VIN公司出口
+- 现有工厂出口进口:CCS2 /CHADEMO NACS CCS1 由VIN公司出口
 - 通信协议和出口固件是否支持目的握手
-- 如果基于适配器:适配器模型,认证,最大电流/电压以及本地合法性
+-
 - 目的地的公共网络现实(主要DC标准;AC套接字标准)
-- 任何入项/调整的确定性影响
+-
 
 ## 付款前
 
@@ -103,14 +103,14 @@
 | ChaoJi标准演示(官方) | CHADEMO协会(标准机构) | 氯化萘/持久性有机污染物/全球 | https://www.chademo.com/wp2016/wp-content/uploads/ChaoJi202006/ChaoJi_Presenataion_EN.pdf 维基月球 | 2026-09-02 | 实录 | ChaoJi设计与GB/T/CHAdeMO/CCS兼容 |
 | 充电标准认证路径 | 华玉检测(认证机构). | 全球 | http://www.huayutest.com/zixun/87747.html 维基月球 | 2026-09-02 | 横跨 | CHADEMO/CCS区域部署、认证差异 |
 | 充电连接器标准 | cehome(工业媒体) | 氯化萘 | https://m.cehome.com/news/20260809/389612.shtml 维基月球 | 2026-09-02 | 横跨 | GB/T 20234.3-2023 1500V/800A, GB/T 27930, ChaoJi (英语:ChaoJi) (英文). |
-| GB/T,CCS2,2型,NACS,CHAdeMO比较 | evse-chargers.com (industry) | 全球 | https://www.evse-chargers.com/news/understanding-ev-charging-standards-gb-t-ccs2-type-2-nacs-and-chademo-compared-283319.html 维基月球 | 2026-09-02 | 横跨 | GB/TQQ CCS2 需要适配器; 兼容矩阵 |
+| GB/T,CCS2,2型,NACS,CHAdeMO比较 | (industry) | 全球 | https://www.evse-chargers.com/news/understanding-ev-charging-standards-gb-t-ccs2-type-2-nacs-and-chademo-compared-283319.html 维基月球 | 2026-09-02 | 横跨 | GB/TQQ CCS2 需要适配器; 兼容矩阵 |
 | 全球电磁波充电标准指南 | 马里克尔(工业) | 全球 | https://www.maruikel.com/es/blog/guide-to-global-ev-charging-standards-type-1-type-2-ccs-chademo-gbt.html 维基月球 | 2026-09-02 | 横跨 | 国内GB/T对导出- 版本目的地连接器 |
 | GB/T-to-CHAdeMO 适配器 B2B 指南 | 中国电动汽车(工业) | 全球 | https://www.electricautochina.com/comprehensive-b2b-guide-to-gbt-to-chademo-adapters-for-exported-chines/ 维基月球 | 2026-09-02 | 横跨 | 导出兼容性瓶颈 |
 
 * 说明(AutoBridge标准):标准层面的事实是VIFIED/CROSS_CHECKED(CHAdeMO) 协会是一个标准机构)。 按国家分列的按型号出口连接器、适配器的合法性和全国审计与监督局推出时间没有记录,必须按国际化学品安全网络和目的地当局确认。 * 报告迟交是因为需要翻译。
 
 ## 编辑评论
-- ** 授权/审查人**:[自动桥出口编辑组](/作者/) / 方法,按我们的[编辑政 (/编辑政策/)
+- ** 授权/审查人**:[自动桥出口编辑组](/作者/) 方法,按我们的[编辑政 (/编辑政策/)
 - ** 上次审查**:2026-09-05
 - ** 参考市场**:全球(中国出口方;欧盟/联合伙伴关系/NA部署)
 - ** 核查方法**: 标准机构文件加上交叉检查的行业来源;模式特定连接器留给官方按VIN确认

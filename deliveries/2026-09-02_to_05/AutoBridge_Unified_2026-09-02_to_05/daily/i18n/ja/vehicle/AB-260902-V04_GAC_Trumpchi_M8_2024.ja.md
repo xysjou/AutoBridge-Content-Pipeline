@@ -21,7 +21,7 @@ China splits the M8 into three series that differ in size, ホイールベース
 
 | 系列系列 | 全長×幅×高さ | ホイールベース | 油圧エンジン | トルク |
 |---|---|---|---|---|
-| 宗师 Grandmaster / 大师 Master | 5212 × 1893 × 1823 mm | 3070 mm | 2.0T, 185 kW (252 PS) | **400 N·m** |
+| 宗师 Grandmaster 大师 Master | 5212 × 1893 × 1823 mm | 3070 mm | 2.0T, 185 kW (252 PS) | **400 N·m** |
 | 领秀 リンギュ (390T) | 5089 × 1884 × 1822 mm | 3000 mm | 2.0T, 185 kW (252 PS) | **390 N·m** |
 
 出力は185 kWと同一ですが、Lingxiu 390Tの400 N·m 対390 N·mのグランドマスター/マスターキャリブレーションピークは、単一の「M8トルク」の数値に平らにならない、小型で実質的な違いです。 グランマスター/マスターの寸法とホイールベースは、GACの公式ページから**VERIFIED **です。Lingxiu値は、Autohome/Yicheを介してクロスチェックされます。
@@ -32,11 +32,11 @@ China splits the M8 into three series that differ in size, ホイールベース
 |---|---|
 | 油圧エンジン | 2.0TターボL4、185 kW (252 PS));400 N·m (グランドマスター)/390 N·m (Lingxiu) |
 | トランスミッション | 8-speed 自動(8AT) |
-| 座席/ドア | 5-door MPV、7 席(4-seat ケア/旗舰 種類) |
-| サスペンション | フロントマックファーソン/リアマルチリンク |
+| | 5-door MPV、7 席(4-seat 種類) |（旗舰）
+| サスペンション | |
 | 車両重量 | 〜2060 kg(大师 尊贵版参照、公式) |
 | トップスピード | 200 km/h |
-| WLTC燃料使用 | 8.85 L / 100 km (Lingxiu 390T 豪华版、データベース図) |
+| WLTC燃料使用 | 8.85 L 100 km (Lingxiu 390T 豪华版、データベース図) |
 
 ## 座席とインテリア — MPV購入のコア
 
@@ -53,7 +53,7 @@ China splits the M8 into three series that differ in size, ホイールベース
 - 対象国でLHD/RHD** の可用性と、そのステアリングレイアウトで特定のシリーズが生成されるかどうかを確認します。
 - 中国のスペクトロロールMPVの排出標準的な受諾、燃料の等級および目的地の均質化を確かめて下さい。
 - チェック言語、ナビゲーション、および接続されたサービスがメインランド中国外で確認し、並列インポートされたユニットの保証範囲。
-- お客様が「**hybrid (双擎)」を特に望んでいる場合は、その別の公式仕様をリクエストしてください。このページは、ガソリン車からハイブリッドバッテリー/モーターフィギュアを侵入しません。
+- お客様が「**hybrid（双擎）
 
 ## AutoBridgeがパンフレットを超えて追加するもの
 MPV buyers are sold a "luxury seven-seater" label that hides three different series  and  シートレイアウト。 このガイドは、注文で**シリーズ固有のホイールベースとトルクキャリブレーション(400対390 N·m)**を記録することを推奨しています。**(換気/加熱/マッサージ、レッグレスト、動力を与えられたドア)ので、トリムは、誤って置換されず、GACの**オーバーシーM8シート**に対する中国ビルドを比較して、VINに中国寸法をコピーするのではなく、堆積する前に。
@@ -68,11 +68,11 @@ MPV buyers are sold a "luxury seven-seater" label that hides three different ser
 
 ## 現在のエクスポート見積をリクエストする
 
-AutoBridge は静的な価格表ではなく、ライブ見積りを発行します。 中国の国内価格 — RMB 179、800、RMB 269、800のGrandmasterガソリンからLingxiu 豪华版は**国内基準のみです(時間感度、FOB / CIFをエクスポートしない)**。 **目的地の国・数量・シリーズ・グレード・シートレイアウト・LHD/RHD・デスティネーションポート・インコターム**で見積り依頼
+AutoBridge は静的な価格表ではなく、ライブ見積りを発行します。 中国の国内価格 — RMB 179、800、RMB 269、800のGrandmasterガソリンからLingxiu 豪华版は**国内基準のみです(時間感度、FOB CIFをエクスポートしない)**。 **目的地の国・数量・シリーズ・グレード・シートレイアウト・LHD/RHD・デスティネーションポート・インコターム**で見積り依頼
 
 ## バイヤーFAQ
 
-**M8席はいくつですか?** 標準的な中国ラインは7-seatです、  three-row MPV; 4-seat ラウンジ/ケアのバリエーションも存在しているので、グレード別にレイアウトを確認します。
+**M8席はいくつですか?** 標準的な中国ラインは7-seatです、  three-row MPV; 4-seat
 
 **M8版は同じサイズですか?** グランマスター/マスターは3070 mmのホイールベースで5212 mmロングです。 Lingxiuは3000 mmのホイールベースで5089 mmです。
 
@@ -80,7 +80,7 @@ AutoBridge は静的な価格表ではなく、ライブ見積りを発行しま
 
 **ハイブリッドM8はありますか?** 中国のハイブリッドは双擎ですが、その仕様は別です。ガソリンモデルからそれらを与えるのではなく、公式のハイブリッドシートを要求します。
 
-**海外でM8を販売しているのは?** はい、GACグループでは、海外のGAC M8(中東市場を含む)をリストアップし、公式のエクスポート設定を使用して、LHD / RHDを国に確認します。
+**海外でM8を販売しているのは?** はい、GACグループでは、海外のGAC M8(中東市場を含む)をリストアップし、公式のエクスポート設定を使用して、LHD RHDを国に確認します。
 
 ## 映像の記録
 - IMAGE_ASSET_PATH:リポジトリで保護されていない
@@ -90,34 +90,34 @@ AutoBridge は静的な価格表ではなく、ライブ見積りを発行しま
 - 権利_ホルダー:未確認
 - LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
 - CHECKED_DATE: 2026-09-06(税抜き)
-- MODEL_TOPIC_MATCH: 上記の正確なモデル/バージョン(またはガイドトピック)と参照市場と一致しなければなりません
+- MODEL_TOPIC_MATCH:
 - IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
 - IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
 - ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
 - 言語によるALT:
-  - **EN**: AutoBridge export-buyer reference — GAC Trumpchi M8, petrol/diesel Chinese-market vehicle / MPV
-  - **FR**: Référence AutoBridge pour acheteurs export — GAC Trumpchi M8, véhicule thermique (marché chinois) / MPV
-  - **DE**: AutoBridge-Referenz für Exportkäufer — GAC Trumpchi M8, Verbrenner (chinesischer Markt) / Van (MPV)
-  - **ES**: Referencia AutoBridge para compradores de exportación — GAC Trumpchi M8, vehículo de combustión (mercado chino) / monovolumen
-  - **PT**: Referência AutoBridge para compradores de exportação — GAC Trumpchi M8, veículo a combustão (mercado chinês) / minivan
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜GAC Trumpchi M8, 中国市場仕様 内燃機関車 / MPV
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜GAC Trumpchi M8, 중국 시장 내연기관 차량 / MPV
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — GAC Trumpchi M8, xe động cơ đốt trong (thị trường Trung Quốc) / MPV
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — GAC Trumpchi M8, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถ MPV
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — GAC Trumpchi M8, kendaraan mesin pembakaran (pasar Tiongkok) / MPV
-  - **AR**: مرجع AutoBridge لمشتري التصدير — GAC Trumpchi M8, مركبة بمحرك احتراق (سوق الصين) / سيارة عائلية
-  - **ZH**: AutoBridge 出口采购参考｜GAC Trumpchi M8, 中国市场燃油车 / MPV
+  - **EN**: AutoBridge export-buyer reference — GAC Trumpchi M8, petrol/diesel Chinese-market vehicle MPV
+  - **FR**: Référence AutoBridge pour acheteurs export — GAC Trumpchi M8, véhicule thermique (marché chinois) MPV
+  - **DE**: AutoBridge-Referenz für Exportkäufer — GAC Trumpchi M8, Verbrenner (chinesischer Markt) Van (MPV)
+  - **ES**: Referencia AutoBridge para compradores de exportación — GAC Trumpchi M8, vehículo de combustión (mercado chino) monovolumen
+  - **PT**: Referência AutoBridge para compradores de exportação — GAC Trumpchi M8, veículo a combustão (mercado chinês) minivan
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜GAC Trumpchi M8, 中国市場仕様 内燃機関車 MPV
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜GAC Trumpchi M8, 중국 시장 내연기관 차량 MPV
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — GAC Trumpchi M8, xe động cơ đốt trong (thị trường Trung Quốc) MPV
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — GAC Trumpchi M8, รถเครื่องยนต์สันดาป (ตลาดจีน) รถ MPV
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — GAC Trumpchi M8, kendaraan mesin pembakaran (pasar Tiongkok) MPV
+  - **AR**: مرجع AutoBridge لمشتري التصدير — GAC Trumpchi M8, مركبة بمحرك احتراق (سوق الصين) سيارة عائلية
+  - **ZH**: AutoBridge 出口采购参考｜GAC Trumpchi M8, 中国市场燃油车 MPV
 
 ## ソースと検証
 
 | ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
 |---|---|---|---|---|---|---|
-| M8 大师 尊贵版 オフィシャルウェブサイト | GAC トランチ(公式) | CN の | 以下は、 //www.gacmotor.com/m8xds_new/empow01.html | 2026-09-02 | 検証済み | 5212 mm ボディ、3070 mm WB、2060 kg、2.0TGDI |
-| GAC M8 海外設定 | GACグループ(公式) | CN/輸出 | 以下は、 //www.gacgroup.com/en-kw/configuration/gac- m8/2024 の | 2026-09-02 | 検証済み | 185 kW / 252 PS、7座席、懸濁液 |
-| 2024 M8 宗师ガソリン 公式 | GAC トランチ(公式) | CN の | 以下は、 //www.gacmotor.com/2024m8zs_new/ | 2026-09-02 | 検証済み | 2.0TGDI + 8AT、400 N·mの国内価格 |
-| Lingxiu 390T 設定 | オートホーム (汽车之家) | CN の | 以下は、 //dealer.autohome.com.cn/2133191/spec_68518.html | 2026-09-02 | CROSS_CHECKED(クロス) | 5089 mm ボディ、3000 mm WB、390 N·m、WLTC 8.85 |
-| M8 パラメータ | PCauto (太平洋汽车) | CN の | 以下は、 //price.pcauto.com.cn/m128883/config.html の | 2026-09-02 | CROSS_CHECKED(クロス) | ホイールベース分割、シリーズマッピング |
-| Lingxiu の設定 | イーチェ (易车) | CN の | 以下は、 //car.yiche.com/ chuanqigm8/m173683/peizhi/ の | 2026-09-02 | CROSS_CHECKED(クロス) | リンギョウの寸法、国内価格 |
+| M8 大师 尊贵版 オフィシャルウェブサイト | GAC トランチ(公式) | CN の | 以下は、 https://www.gacmotor.com/m8xds_new/empow01.html | 2026-09-02 | 検証済み | 5212 mm ボディ、3070 mm WB、2060 kg、2.0TGDI |
+| GAC M8 海外設定 | GACグループ(公式) | CN/輸出 | 以下は、 の | 2026-09-02 | 検証済み | 185 kW 252 PS、7座席、懸濁液 | https://www.gacgroup.com/en-kw/configuration/gac-m8/2024
+| 2024 M8 宗师ガソリン 公式 | GAC トランチ(公式) | CN の | 以下は、 https://www.gacmotor.com/2024m8zs_new/ | 2026-09-02 | 検証済み | 2.0TGDI + 8AT、400 N·mの国内価格 |
+| Lingxiu 390T 設定 | オートホーム (汽车之家) | CN の | 以下は、 https://dealer.autohome.com.cn/2133191/spec_68518.html | 2026-09-02 | CROSS_CHECKED(クロス) | 5089 mm ボディ、3000 mm WB、390 N·m、WLTC 8.85 |
+| M8 パラメータ | PCauto (太平洋汽车) | CN の | 以下は、 https://price.pcauto.com.cn/m128883/config.html の | 2026-09-02 | CROSS_CHECKED(クロス) | ホイールベース分割、シリーズマッピング |
+| Lingxiu の設定 | イーチェ (易车) | CN の | 以下は、 https://car.yiche.com/chuanqigm8/m173683/peizhi/ の | 2026-09-02 | CROSS_CHECKED(クロス) | リンギョウの寸法、国内価格 |
 
 *Confidence Note(AutoBridge標準):グランドマスター/マスターコアスペックは、GAC独自のページ(メーカー公式)でVERIFIEDです。 Lingxiu値は、独立したデータベース全体でCROSS_CHECKEDです。 400 対 390 N·m 校正は、意図的にシリーズによって分離され続ける; ハイブリッド (双擎) 仕様は主張されていません。 ふりがな
 

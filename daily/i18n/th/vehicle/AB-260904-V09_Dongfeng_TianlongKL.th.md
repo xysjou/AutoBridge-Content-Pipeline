@@ -2,12 +2,12 @@
 
 ## เชา ข้อมูลกํากับภาพ
 - < secontinuation*: Dongfang Tianong KLGOOR Specs & ไกด์ (DDi11 465, GCW 40t)
-- ""คําอธิบาย" Schan-Markets Dongfang Tianong KL 6x4 หัวรถแทรกเตอร์ — Longqing DDi11 10.8 L Design 343 kW / 2240 N·m (ค.ศ. 14-speed (ตัวเลือก AMT) 40 t จีซีดับเบิลยู (GCW) บวกพลังงาน  and  ต้องการผู้ส่งออกผู้ส่งถ่าย
-- ~ที่อยู่ URL ที่ถูกย่อ: / เวกซี่/ ดองฟัน-ลอง-เคล/
+- ""คําอธิบาย" Schan-Markets Dongfang Tianong KL 6x4 หัวรถแทรกเตอร์ — Longqing DDi11 10.8 L Design 343 kW 2240 N·m (ค.ศ. 14-speed (ตัวเลือก AMT) 40 t จีซีดับเบิลยู (GCW) บวกพลังงาน  and  ต้องการผู้ส่งออกผู้ส่งถ่าย
+- ~ที่อยู่ URL ที่ถูกย่อ: ดองฟัน-ลอง-เคล/
 - **H1**: ดงฟง เทียนลอง KL Heads Head: เครื่องราชอิสริยาภรณ์และเครื่องราชอิสริยาภรณ์
 - ~ คําหลัก ๆ ~: Dongfang tianong klouch สเปกต์
 - ~การค้นหาตามวาระที่: ~ Tianong KL 465 (พ.ศ. DDi11E465 (พ.ศ. กล่องเกียร์ดองเฟ็ง 14-speed ประเทศจีน 6x4 หัวรถแทรกเตอร์ ส่งออกเป็นรถบรรทุก GCW 40t
-- ~ เชื่อมโยงภายในที่แนะนํา~: / guides/ wehicial-export-h-code-sclassive/;//guides/ful-fulution-compatition-china-Vicles/;///// viohics/jc-swodda/
+- ~ เชื่อมโยงภายในที่แนะนํา~: guides/ wehicial-export-h-code-sclassive/;//guides/ful-fulution-compatition-china-Vicles/;///// viohics/jc-swodda/
 - ** คําแนะนําการย้ายรถ **: KL RV เฮด 6x4 เครื่องยนต์ DDi11; 14-speed ชิฟเตอร์/AMT; แท็กซี่ภายใน; กรอบ chasis และล้อที่ห้า (พ.ศ.
 - ~~~~~~~~~ คําแนะนํา: "Dongfong Tianong KL 465 หัวรถแทรกเตอร์หนัก". "Tianlong KL DDi11 2240Nm 14-speed GCW 40t"
 
@@ -26,21 +26,21 @@
 343 kW และ 337 kW ตัวเลข มีพลังงานจากเครือข่ายที่เรียงกันบนฐานที่แตกต่างกัน นําเสนอทั้งด้วยฉลากของพวกเขาแทนการเลือกหนึ่ง ที่ ราบ ทอร์เค (1100–1600 รอบ ต่อ ปี) เป็น สิ่ง สําคัญ สําหรับ การ ทํา ให้ ระดับ ความ เป็น ไป ได้.
 
 ## เกียร์บ็อกซ์ แอ็กเซล และรถไฟเวท
-- ~กล่อง~: Dongfeng **DT1422 / DT14 14-speed** (Volvo-technology lineage), ด้วยตัวเลือก AMT – คู่มือรัฐ vs AMT ตามลําดับ
+- ~กล่อง~: Dongfeng **DT1422 DT14 14-speed** (Volvo-technology lineage), ด้วยตัวเลือก AMT – คู่มือรัฐ vs AMT ตามลําดับ
 - เดินหน้า # 6x4 หัวรถแทรกเตอร์; ต้องเลือกสัดส่วนหลังก่อนถึงเส้นทาง (Highway vs Edictions)
 - ~GWR (ผู้บังคับการคนเดียว) ~ ~ 25 t~; ~น้ําหนักประมาณ 8.8 t ~
 - ~ น้ําหนักรวม (GCW) ของรถไฟ ~ 40 t ~ — ตัวเลขออกแบบสําหรับรถพ่วงที่เข้ากันได้และจ่ายหนัก
 
 ## การ เกี่ยว พัน ระหว่าง ญาติ — อย่า บิด เส้น
 - ~หน้านี้: DDi11E465-60 (465 PS) ~
-- เรนจ์ KL ที่กว้างขึ้นยังเสนอ ** 430 / 520 / 560 PS ** เครื่องยนต์  and  ~ รุ่นใหม่ ๆ* นี่เป็นเครื่องขับเคลื่อนพลังงานที่แยกกัน ซึ่งมีแรงบิดที่แตกต่างกัน ระบบเชื้อเพลิงและเครื่องเร่งพลังงาน การอ้างอิงค่าของแก๊สสําหรับ 465 ดีเซลเป็นข้อผิดพลาด
-- สัดส่วน แอ็กเซล เกียร์ และ แท็กซี่ (หลังคาสูง/ต่ํา) เป็นลําดับที่ถูกเลือก และเปลี่ยนข้อกําหนดการส่งมอบ
+- เรนจ์ KL ที่กว้างขึ้นยังเสนอ ** 430 520 560 PS ** เครื่องยนต์  and  ~ รุ่นใหม่ ๆ* นี่เป็นเครื่องขับเคลื่อนพลังงานที่แยกกัน ซึ่งมีแรงบิดที่แตกต่างกัน ระบบเชื้อเพลิงและเครื่องเร่งพลังงาน การอ้างอิงค่าของแก๊สสําหรับ 465 ดีเซลเป็นข้อผิดพลาด
+- สัดส่วน แอ็กเซล เกียร์ และ แท็กซี่ เป็นลําดับที่ถูกเลือก และเปลี่ยนข้อกําหนดการส่งมอบ
 
 ## Chasis และเช็ครถสําหรับส่งออก
 1. "Power พื้นฐาน" — สถิติ rated 343 kW และ net 337 kW ด้วยฉลาก; ตรงกับรหัสเครื่องยนต์ 465 PS ที่ VIN.
 2. ~ กรมทหาร~ — ลัดวงจร 14-speed เล่ม vs AMT; สัดส่วนด้านหลัง-axle สําหรับพื้นที่เป้าหมาย
 3. ~GCW ตรงกับ~ — รถพ่วงและตั้งใจบรรจุกระสุน ในอันดับที่ 40 t รถไฟ; สูงห้าล้อและสมบูรณภาพ.
-4. ~ กํามะถันในเชื้อเพลิง DECEL / การบําบัด ~ ต่อกับคู่มือการปล่อยก๊าซ ประเทศจีน- 6 ดีเซล ไม่ได้เป็นการแบ่งประเภทต่างประเทศ
+4. ~ กํามะถันในเชื้อเพลิง DECEL การบําบัด ~ ต่อกับคู่มือการปล่อยก๊าซ ประเทศจีน- 6 ดีเซล ไม่ได้เป็นการแบ่งประเภทต่างประเทศ
 5. ~HSS จําแนกประเภท ~ — รถแทรกเตอร์ตกต่ํากว่า 87.01 (ผู้บังคับหน่วยย่อย PD-Code) แตกต่างจากรถสินค้า 87.04 คัน และรถพ่วง 8716 คัน; รถพ่วงแยกทางกัน
 
 ## ต้องการการอ้างถึงการส่งออกแบบปัจจุบัน
@@ -60,37 +60,37 @@
 - ลิขสิทธิ์: ไม่ยืนยัน
 - LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
 - _กําหนดวันที่: 2026-09-06
-- MERCUL_ TOPIC_ MATCH: ต้องตรงกับรุ่น/ การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
-- CHAR_SCPE_NOTE: ตรงกับโมเดลที่เป๊ะของครอบครัว/ topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
+- MERCUL_ TOPIC_ MATCH: การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
+- CHAR_SCPE_NOTE: topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
 - March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
 - BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
 - ALT ด้วยภาษา:
-  - **EN**: AutoBridge export-buyer reference — Dongfeng Tianlong KL, petrol/diesel Chinese-market vehicle / heavy tractor truck
-  - **FR**: Référence AutoBridge pour acheteurs export — Dongfeng Tianlong KL, véhicule thermique (marché chinois) / tracteur routier lourd
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Dongfeng Tianlong KL, Verbrenner (chinesischer Markt) / schwere Sattelzugmaschine
-  - **ES**: Referencia AutoBridge para compradores de exportación — Dongfeng Tianlong KL, vehículo de combustión (mercado chino) / cabeza tractora pesada
-  - **PT**: Referência AutoBridge para compradores de exportação — Dongfeng Tianlong KL, veículo a combustão (mercado chinês) / cavalo mecânico pesado
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Dongfeng Tianlong KL, 中国市場仕様 内燃機関車 / 大型トラクターヘッド
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Dongfeng Tianlong KL, 중국 시장 내연기관 차량 / 대형 트랙터 트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Dongfeng Tianlong KL, xe động cơ đốt trong (thị trường Trung Quốc) / đầu kéo hạng nặng
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Dongfeng Tianlong KL, รถเครื่องยนต์สันดาป (ตลาดจีน) / หัวลากบรรทุกหนัก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Dongfeng Tianlong KL, kendaraan mesin pembakaran (pasar Tiongkok) / truk traktor berat
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Dongfeng Tianlong KL, مركبة بمحرك احتراق (سوق الصين) / رأس قاطرة ثقيل
-  - **ZH**: AutoBridge 出口采购参考｜Dongfeng Tianlong KL, 中国市场燃油车 / 重型牵引车
+  - **EN**: AutoBridge export-buyer reference — Dongfeng Tianlong KL, petrol/diesel Chinese-market vehicle heavy tractor truck
+  - **FR**: Référence AutoBridge pour acheteurs export — Dongfeng Tianlong KL, véhicule thermique (marché chinois) tracteur routier lourd
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Dongfeng Tianlong KL, Verbrenner (chinesischer Markt) schwere Sattelzugmaschine
+  - **ES**: Referencia AutoBridge para compradores de exportación — Dongfeng Tianlong KL, vehículo de combustión (mercado chino) cabeza tractora pesada
+  - **PT**: Referência AutoBridge para compradores de exportação — Dongfeng Tianlong KL, veículo a combustão (mercado chinês) cavalo mecânico pesado
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Dongfeng Tianlong KL, 中国市場仕様 内燃機関車 大型トラクターヘッド
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Dongfeng Tianlong KL, 중국 시장 내연기관 차량 대형 트랙터 트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Dongfeng Tianlong KL, xe động cơ đốt trong (thị trường Trung Quốc) đầu kéo hạng nặng
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Dongfeng Tianlong KL, รถเครื่องยนต์สันดาป (ตลาดจีน) หัวลากบรรทุกหนัก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Dongfeng Tianlong KL, kendaraan mesin pembakaran (pasar Tiongkok) truk traktor berat
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Dongfeng Tianlong KL, مركبة بمحرك احتراق (سوق الصين) رأس قاطرة ثقيل
+  - **ZH**: AutoBridge 出口采购参考｜Dongfeng Tianlong KL, 中国市场燃油车 重型牵引车
 
 ## ต้นฉบับและการตรวจสอบสิทธิ์
 | ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| เทียนลอง KL465 คุณภาพการใช้พลังงานแบบยาว | ออโต้เซจิฮาว | CN | https://chejiahao.m.autohome.com.cn/info/23626143 | 2026-09-04 | ROOS_ CHCKED | DDi11, ไฟ/ตอร์ก, 14-speed |
+| เทียนลอง KL465 คุณภาพการใช้พลังงานแบบยาว | ออโต้เซจิฮาว | CN | https://chejiahao.m.autohome.com.cn/info/23626143 | 2026-09-04 | ROOS_ CHCKED | DDi11, 14-speed |
 | พารามิเตอร์ของ KL 465 MET | Tencent News | CN | http://news.qq.com/rain/a/20231120A0697W00 | 2026-09-04 | ผู้โดยสาร_ปลายทาง | ตัวเลือก AMT, แถบปรับเสียง |
 | Tianong KL 465 Chasis & เกียร์ | 360che (ทัฒนโญ) พ.ศ. | CN | http://m.toutiao.com/group/7342432889952895507/ | 2026-09-04 | ROOS_ CHCKED | DT1422, GVWR, out, GCW |
 | ดงเฟ็งไทอันลอง (ตรวจสอบเมื่อไซโคลนพีเดีย) | ส่วนเสริม PCauto | CN | http://m.pcauto.com.cn/baike/1124005/2143996/ | 2026-09-04 | ผู้โดยสาร_ปลายทาง | Champ-basis Check cross |
 | ผู้ ผลิต และ แคตตาล็อก ผลิตภัณฑ์ ถนน — ระบบ สอบ ถาม ของ ประชาชน |  MIT, กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูลจีน | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | เปิดใช้งาน | ตรวจสอบผู้ผลิต, โมเดลที่อนุญาต และการทําอัลบั้มแบบแบ่งประเภท (公告) ก่อนการสั่งซื้อหรือส่งออก |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน สภาวะความปลอดภัยทางเทคนิคและเวลาปัจจุบัน/การปรับปรุง |
-| GB 17691-2018 พาหนะดีเซลหนักดีเซล โพลอัลโตเลต พ่นออก (จีน-วี) | กระทรวง นิเวศ วิทยา และ สิ่ง แวด ล้อม (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | เปิดใช้งาน | จีน- วี. การบีบข้อมูล (อีดีเซล) สาธิตการปล่อยก๊าซสําหรับรถบรรทุก/โคช |
-| GB 19147 เครื่องยนต์ดีเซลมาตรฐานเชื้อเพลิงแห่งชาติ (ฐานเชื้อเพลิงต่ํา) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | เปิดใช้งาน | ระดับเชื้อเพลิงดีเซลและซัลเฟอร์พื้นฐานที่ตรงกับการออกแบบเครื่องยนต์/การให้บริการต่างประเทศ |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน |
+| GB 17691-2018 พาหนะดีเซลหนักดีเซล โพลอัลโตเลต พ่นออก (จีน-วี) | กระทรวง นิเวศ วิทยา และ สิ่ง แวด ล้อม (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | เปิดใช้งาน | จีน- วี. การบีบข้อมูล (อีดีเซล) |
+| GB 19147 เครื่องยนต์ดีเซลมาตรฐานเชื้อเพลิงแห่งชาติ (ฐานเชื้อเพลิงต่ํา) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | เปิดใช้งาน | |
 
-* continuation ข้อสังเกต: ไม่มีโบรชัวร์หลักโออีเอ็ม; การซื้อขายการตรวจสอบ เรต/เน็ตพลังงานทั้งสองตราหน้า; พลังงานและก๊าซรุ่นอื่น ๆ ที่ตัดออก อ้างอิงตลาดจีน ยืนยันในประกาศของ MIT *
+* continuation ข้อสังเกต: ไม่มีโบรชัวร์หลักโออีเอ็ม; การซื้อขายการตรวจสอบ พลังงานและก๊าซรุ่นอื่น ๆ ที่ตัดออก อ้างอิงตลาดจีน ยืนยันในประกาศของ MIT *
 
 ## การทบทวนแก้ไข
 - ** aultor*: AutoBridge ส่งออกวิธีการแก้ไขคําทีม (AutoBridge) ต่อ [นโยบายแก้ไข] ของเรา (/Dercial-policy/)

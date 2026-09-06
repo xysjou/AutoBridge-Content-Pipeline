@@ -4,18 +4,18 @@
 - **SEEO Titt**: Changan UNI-Z PHV 2026: China-Market Speck & Elier Guide
 - **Meta Mô tả**: Thị trường chợ Trung Quốc Changan UNI-Z mới, cá voi xanh PHV: kích thước, 18.4 kWh đường LFP, 130 km LTC, DC/ V2L, và kiểm tra mức độ VIN cho người nhập cư.
 - ** H1 **: Changan UNI-Z (2026, New Blue whale PHV) — Trung Quốc-Market Spes và Xuất khẩu Verification
-- **Cumpary Keyword**: Changan / 长安 Thống kê UNI-Z xuất khẩu
+- **Cumpary Keyword**: Changan 长安 Thống kê UNI-Z xuất khẩu
 - **Secondary Search termss**: Changan UNI-Z xuất khẩu; UNI-Z MV MV; harpists Trung Quốc bổ sung SUV; V2L xuất khẩu; LTC itude
 - ** URL đã được đánh dấu**: /vehicles/changan-uni-z/
-- **Tìm kiếm ý định**: 了解 Changan / 长安 UNI-Z 中国版规格 配置与出口适配性 (车型参数页)
-- **I nội bộ Link gợi ý**: //vehicles/changan-uni-z/, /guides/china-export-customs-decclaration-ssingle-window/, /guides/cccccccc-expation-expion/
+- **Tìm kiếm ý định**: 了解 Changan 长安 UNI-Z 中国版规格 配置与出口适配性 (车型参数页)
+- **I nội bộ Link gợi ý**: /guides/china-export-customs-decclaration-ssingle-window/, /guides/cccccccc-expation-expion/
 - **Schema Scope**: Điều + xe cộ (không có sản phẩm/ sản phẩm/ văn bản/ Xem lại)
 
 ## Nhận diện người mua và mô hình ngữ cảnh
 **Chahangan UNI-Z (2026) được bảo vệ ở đây là cá voi xanh mới (Xin Lan Jing) plug-in mib** nhỏ SUV. Nó là một dòng khác biệt từ bất kỳ danh sách nguyên chất UNI-Z và từ các bảng tên thị trường xuất khẩu Changan có thể sử dụng ở nơi khác; không có sự công bằng tên nước ngoài được tuyên bố mà không có một tuyên bố OEM. Thị trường tham khảo là **Trung Quốc**.
 
 ## Name
-- **Dimensions**: 4730 / 1890 / 1660（部分配置1680） mm (some configurations 1680 mm tall), bánh xe cơ sở 2795 mm (đã kiểm tra chéo); Tập hàng 638 L.
+- **Dimensions**: 4730 1890 1660（部分配置1680） mm (some configurations 1680 mm tall), bánh xe cơ sở 2795 mm (đã kiểm tra chéo); Tập hàng 638 L.
 - **Hybrid  engine**: 72 (1.5L 混动专用发动机) kW dành riêng cho động cơ lai; lái mô tô 160 kW (được kiểm tra chéo); E-CVT(电混传动).
 - **Battery**: 磷酸铁锂, khoảng 约 18.4 kWh. Người cung cấp tế bào xuất hiện dưới hai tài khoản ở các nguồn thứ hai và được giữ như **un xác nhận** — nó không được xác nhận ở đây.
 - **Electric**: 130 km CLTC (được kiểm tra chéo); cộng với cLTC 1250 km.
@@ -24,7 +24,7 @@
 ## Bảng đặc tả có màu sắc (tham chiếu thị trường Trung Hoa)
 | Chi tiết | Giá trị | Đơn vị | Thị trường | Tin tưởng | Ghi chú nguồn |
 |---|---|---|---|---|---|
-| Chiều dài | 4730 / 1890 / 1660（部分配置1680） | mm | TRUNG QUỐC | ĐÃ_ ĐÃ | 汽车之家 + 搜狐 |
+| Chiều dài | 4730 1890 1660（部分配置1680） | mm | TRUNG QUỐC | ĐÃ_ ĐÃ | 汽车之家 + 搜狐 |
 | bánh xe cơ sở | 2795 | mm | TRUNG QUỐC | ĐÃ_ ĐÃ | 汽车之家 + 搜狐 |
 | khối lượng hàng hóa | 638 | L | TRUNG QUỐC | SINGLE_SOURCE | 搜狐汽车 |
 | Nguồn động cơ | 72 (1.5L 混动专用发动机) | kW | TRUNG QUỐC | SINGLE_SOURCE | 汽车之家车家号 |

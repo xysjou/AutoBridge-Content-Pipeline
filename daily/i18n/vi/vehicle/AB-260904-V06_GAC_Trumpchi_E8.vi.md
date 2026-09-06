@@ -7,7 +7,7 @@
 - ** H1 **: GAC Trumpchi E8 - Không. MPV - Trung Quốc Comment
 - ** Từ khoá nguyên tử**: gacmatchchi e8 macev xuất khẩu
 - **Secondary Search Words**: Thumpchi E8 MPV, 传祺 E8 - Ohh, E8 Sự khác biệt vinh quang HV, Thumpchi E8 7-seat, Xuất khẩu MPV kiểu Hoa
-- **I nội bộ Link gợi ý*: //guides/ev-shipping- un3556-imdg-compliance/; /guides/export-vehicle-docucht- wrapt/; /vehcles/chery-fulwin- t9/
+- **I nội bộ Link gợi ý*: un3556-imdg-compliance/; /guides/export-vehicle-docucht- wrapt/; /vehcles/chery-fulwin- t9/
 - **Image gợi ý**: E8 hồ sơ bên MPV; 2+2+3 bố trí chỗ ngồi; cổng sạc chống lại không có dịch vụ HV; hàng thứ ba; V2L lượt ra
 - **LT Những gợi ý**: "GAC Trumpchi E8 PHEV seven-seat MPV China spec"; "Trumpchi E8 2+2+3 chỗ ngồi và hàng hóa"
 
@@ -18,7 +18,7 @@
 | Mục | Truchi E8 PHV (tham chiếu Trung Quốc) |
 |---|---|
 | Thân | MPV cỡ trung bình |
-| Chiều dài/ Chiều rộng/ Chiều cao | **4920 / 1900 / 1760 mm** |
+| Chiều dài/ Chiều rộng/ Chiều cao | **4920 1900 1760 mm** |
 | Quay | **2930 mm** |
 | Name | ** 2+2+3, bảy ghế** |
 | Nền tảng | Nền tảng toàn cầu của nền kiến trúc kiểu Modular (GPMA 3.0 L,); thép mạnh khoảng 75% (các nguồn điện) |
@@ -30,8 +30,8 @@ Ba lô 2930 mm và 2+2+3 bố trí thương mại là những câu chuyện thư
 ## Huấn luyện viên điện lực PHV (Chuyến bay E8)
 | Mục | Chi tiết |
 |---|---|
-| Máy | 2.0ATK người lai tận tụy (4B20L1), 103 kW / 180 N·m (khoảng 140 PS máy) |
-| Động cơ trước | 134 kW / 300 N·m |
+| Máy | 2.0ATK người lai tận tụy (4B20L1), 103 kW 180 N·m (khoảng 140 PS máy) |
+| Động cơ trước | 134 kW 300 N·m |
 | Truyền thống lai | 2-speed DHT |
 | Pin | Li-ti-ti, ** 25.57 kWh ** |
 | Phạm vi điện | ** 150 km CLTC** |
@@ -40,7 +40,7 @@ Ba lô 2930 mm và 2+2+3 bố trí thương mại là những câu chuyện thư
 ## PHEV v vinh quang HV — Hãy nhìn thấy loại năng lượng
 - ** E8 Năng lượng mới (trang này): PHV** — cổng sạc bên ngoài, 25.57 kWh bộ ắc quy, 150 km điện áp.
 - ** E8 Glory (荣耀): HV** — không có cảng sạc điện; nó tự nạp điện và không thể cắm điện vào.
-- Trích dẫn phạm vi điện PHV hoặc nạp điện cho đơn vị HV vinh quang (hoặc giá một PHV chống lại các thiết bị HV) là sự trùng khớp thường xuyên xảy ra trên bảng tên này. Chinese guide prices also differ (PHEV from about RMB 209, 800; Vinh quang của RMB 166, 800 — trong nước, Chỉ tham khảo về thời gian nhạy cảm thôi.
+- Trích dẫn phạm vi điện PHV hoặc nạp điện cho đơn vị HV vinh quang (hoặc giá một PHV chống lại các thiết bị HV) là sự trùng khớp thường xuyên xảy ra trên bảng tên này. Chinese guide prices also differ (PHEV from about RMB 209,800; Vinh quang của RMB 166,800— trong nước, Chỉ tham khảo về thời gian nhạy cảm thôi.
 
 ## Người bán nước ngoài mua sắm trước khi trả tiền
 1. **Người đàn ông lịch sự đánh máy VIN** — PHV (Bản thu thập) đấu với Glory HV (không có cảng), được nói trước khi có câu nào trong phạm vi.
@@ -71,18 +71,18 @@ Không có giá xuất khẩu được xuất bản. Giá hướng dẫn của T
 - TRONG SÁCH TRONG LINH: FAIL (không có giấy phép lấy được tài sản; một người giữ chỗ hoặc “không chấp nhận lời nhắn cũ của hình ảnh ”
 - - Không. Không thể bảo đảm ảnh có thể tái tạo: Wikimedia Commons/Flickr không thể tới từ môi trường nghiên cứu, thư viện chứng khoán yêu cầu quyền truy cập hệ thống ARI/licence, và một trang web OEM không phải là một tài trợ tái sử dụng thương mại; không có ảnh tự động của AutoBridge. Giữ FAIL thay vì khẳng định.
 - Theo ngôn ngữ:
-  - **EN**: AutoBridge export-buyer reference — GAC Trumpchi E8, plug-in hybrid vehicle / MPV
-  - **FR**: Référence AutoBridge pour acheteurs export — GAC Trumpchi E8, véhicule hybride rechargeable / MPV
-  - **DE**: AutoBridge-Referenz für Exportkäufer — GAC Trumpchi E8, Plug-in-Hybridfahrzeug / Van (MPV)
-  - **ES**: Referencia AutoBridge para compradores de exportación — GAC Trumpchi E8, vehículo híbrido enchufable / monovolumen
-  - **PT**: Referência AutoBridge para compradores de exportação — GAC Trumpchi E8, veículo híbrido plug-in / minivan
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜GAC Trumpchi E8, プラグインハイブリッド車 / MPV
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜GAC Trumpchi E8, 플러그인 하이브리드 차량 / MPV
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — GAC Trumpchi E8, xe hybrid sạc ngoài / MPV
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — GAC Trumpchi E8, รถปลั๊กอินไฮบริด / รถ MPV
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — GAC Trumpchi E8, kendaraan hybrid plug-in / MPV
-  - **AR**: مرجع AutoBridge لمشتري التصدير — GAC Trumpchi E8, مركبة هجينة قابلة للشحن / سيارة عائلية
-  - **ZH**: AutoBridge 出口采购参考｜GAC Trumpchi E8, 插电混动车 / MPV
+  - **EN**: AutoBridge export-buyer reference — GAC Trumpchi E8, plug-in hybrid vehicle MPV
+  - **FR**: Référence AutoBridge pour acheteurs export — GAC Trumpchi E8, véhicule hybride rechargeable MPV
+  - **DE**: AutoBridge-Referenz für Exportkäufer — GAC Trumpchi E8, Plug-in-Hybridfahrzeug Van (MPV)
+  - **ES**: Referencia AutoBridge para compradores de exportación — GAC Trumpchi E8, vehículo híbrido enchufable monovolumen
+  - **PT**: Referência AutoBridge para compradores de exportação — GAC Trumpchi E8, veículo híbrido plug-in minivan
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜GAC Trumpchi E8, プラグインハイブリッド車 MPV
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜GAC Trumpchi E8, 플러그인 하이브리드 차량 MPV
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — GAC Trumpchi E8, xe hybrid sạc ngoài MPV
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — GAC Trumpchi E8, รถปลั๊กอินไฮบริด รถ MPV
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — GAC Trumpchi E8, kendaraan hybrid plug-in MPV
+  - **AR**: مرجع AutoBridge لمشتري التصدير — GAC Trumpchi E8, مركبة هجينة قابلة للشحن سيارة عائلية
+  - **ZH**: AutoBridge 出口采购参考｜GAC Trumpchi E8, 插电混动车 MPV
 
 ## Nguồn và Định dạng
 | Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |

@@ -16,35 +16,35 @@ Dokumentenpaketführer zitieren oft einen bevorstehenden obligatorischen Zertifi
 
 ## Der aktuelle Zertifikatsstandard (verifiziert)
 - **WÄHRENDES STANDARD: GB/T 21085-2020 *Kraftfahrzeug-Fabrikzertifikat*** — eine **empfohlene ** nationale Norm, ausgestellt 2020-04-28, in Kraft 2020-11-01, und **bewertet als noch aktuell auf 2026-01-27 **. Das Fabrikzertifikat wird vom produzierenden Unternehmen ausgestellt.
-- ** ZUKUNFT / ENTWURF: obligatorische *Fahrzeugfabrikbescheinigung*, Plannummer 20260041-Q-339 ** — soll GB/T 21085-2020 ersetzen;  assigned 2026-01-27 with a 16-month cycle  and  derzeit unter Zulassung; Der MIIT "GB 21085 -XXXX" Text ist ein **Konsultationsentwurf**. Es ist **nicht veröffentlicht, nicht wirksam und darf niemals als aktuell oder obligatorisch in einem käuferorientierten Dokument gekennzeichnet werden.
+- ** ZUKUNFT ENTWURF: obligatorische *Fahrzeugfabrikbescheinigung*, Plannummer 20260041-Q-339 ** — soll GB/T 21085-2020 ersetzen;  assigned 2026-01-27 with a 16-month cycle  and  derzeit unter Zulassung; Der MIIT "GB 21085 -XXXX" Text ist ein **Konsultationsentwurf**. Es ist **nicht veröffentlicht, nicht wirksam und darf niemals als aktuell oder obligatorisch in einem käuferorientierten Dokument gekennzeichnet werden.
 
 ## Das Handover Document Set (gekreuzt)
-Ein im Inland geliefertes neues Fahrzeug reist normalerweise mit: vollständige Verkaufsrechnung, (inländisches) Werkszertifikat, Wareninspektionsblatt, ** Konformitätsbescheinigung **, Garantie (drei Garantie) Gutschein, Wartungshandbuch, Eigentümerhandbuch und die Bordwerkzeuge / Ersatzteilliste. Für Exportverkäufe von **Neufahrzeugen** erfordert die nationale Zulassungsstufe zusätzlich die Sicherheits-/Prüfbescheinigung des **Herstellers (Original)** und eine **Kopie der Ausfuhrlizenz für Handelsfahrzeuge** (gemäß den Arbeitsvorschriften für die Zulassung von Kraftfahrzeugen).
+Ein im Inland geliefertes neues Fahrzeug reist normalerweise mit: vollständige Verkaufsrechnung, (inländisches) Werkszertifikat, Wareninspektionsblatt, ** Konformitätsbescheinigung **, Garantie (drei Garantie) Gutschein, Wartungshandbuch, Eigentümerhandbuch und die Bordwerkzeuge Ersatzteilliste. Für Exportverkäufe von **Neufahrzeugen** erfordert die nationale Zulassungsstufe zusätzlich die Sicherheits-/Prüfbescheinigung des **Herstellers (Original)** und eine **Kopie der Ausfuhrlizenz für Handelsfahrzeuge** (gemäß den Arbeitsvorschriften für die Zulassung von Kraftfahrzeugen).
 
 ## Mehrstufiges/unvollständiges Fahrzeug Regel: Zurückgezogen, bis eine aktuelle Basis vorliegt
-In einem früheren Entwurf wurde beschrieben, wie Fahrzeuge, die aus importierten unvollständigen Fahrzeugen oder über mehrstufige Fertigung fertiggestellt wurden, nur eine Fabrikbescheinigung für ganze Fahrzeuge erhalten würden. Die ** einzige Quelle dieser Regel ist ein Konsultationsentwurf **; es wird ** nicht durch den aktuellen Text GB / T 21085-2020 oder eine aktuelle Verordnung ** bestätigt, so dass es ** nicht als aktuelle Anforderung ** angegeben wird. Behandeln Sie eine solche Vereinbarung von Fall zu Fall, bis ein nicht entwurfsgebundener Entwurf vorliegt.
+In einem früheren Entwurf wurde beschrieben, wie Fahrzeuge, die aus importierten unvollständigen Fahrzeugen oder über mehrstufige Fertigung fertiggestellt wurden, nur eine Fabrikbescheinigung für ganze Fahrzeuge erhalten würden. Die ** einzige Quelle dieser Regel ist ein Konsultationsentwurf **; es wird ** nicht durch den aktuellen Text GB T 21085-2020 oder eine aktuelle Verordnung ** bestätigt, so dass es ** nicht als aktuelle Anforderung ** angegeben wird. Behandeln Sie eine solche Vereinbarung von Fall zu Fall, bis ein nicht entwurfsgebundener Entwurf vorliegt.
 
 ## NEV und Übersetzungselemente - redaktionelle Empfehlung, kein Mandat
-Die folgenden sind ** empfohlen ** vorzubereiten; ob jeder erforderlich ist, hängt von der Fluggesellschaft / Seebehörde und dem Zielhafen ab, so dass sie als Orientierung und nicht als universelles Mandat gerahmt werden:
+Die folgenden sind ** empfohlen ** vorzubereiten; ob jeder erforderlich ist, hängt von der Fluggesellschaft Seebehörde und dem Zielhafen ab, so dass sie als Orientierung und nicht als universelles Mandat gerahmt werden:
 - Für ein **neues Energiefahrzeug**: die Batterie ** UN38.3 Prüfzusammenfassung **, gegebenenfalls Gefahrgut-Verpackungszertifikat und MSDS (verlinkt mit dem IMDG-Versandführer).
 - Für die **Übersee-Abfertigung/Registrierung**: eine **Englische oder Zielsprache** des Konformitätszertifikats/des technischen Parameterblatts, abgestempelt von der ausstellenden Partei; ob eine Beglaubigung/Konsularlegalisierung erforderlich ist, hängt vom Zielort ab.
 
 ## Assembly Order Wir empfehlen
 1. Bestätigen Sie, dass das Werkszertifikat unter **aktuellem GB/T 21085-2020 ** ausgestellt wird – fordern Sie nicht den noch nicht veröffentlichten verbindlichen Standard.
 2. Sammeln Sie das Standard-Übergabe-Set; für die Registrierung des Exportverkaufs fügen Sie das Original der Herstellerinspektionsbescheinigung und die Kopie der Exportlizenz hinzu.
-3. Gegenüberstellen Sie die Zertifikats-VIN mit Körper / Namensschild (siehe VIN-Anleitung).
+3. Gegenüberstellen Sie die Zertifikats-VIN mit Körper Namensschild (siehe VIN-Anleitung).
 4. Für NEVs UN38.3/MSDS pro gebuchtem Carrier vorbereiten (Empfehlung).
 5. Bereiten Sie gestempelte Übersetzungen nur in dem Maße vor, in dem das Ziel es erfordert.
 
 ## Grenzen dieses Leitfadens
-- Die mehrstufige / unvollständige Fahrzeugausgaberegel ist **DRAFT_ONLY und wird von der aktuellen Anforderungsformulierung blockiert **.
+- Die mehrstufige unvollständige Fahrzeugausgaberegel ist **DRAFT_ONLY und wird von der aktuellen Anforderungsformulierung blockiert **.
 - Die genauen Klauseln/das Datum des Inkrafttretens der zukünftigen verbindlichen Norm sind bis zur Veröffentlichung unbekannt.
 - Ob ein Bestimmungsort den chinesischen CoC als Registrierungs-CoC akzeptiert, ist länderspezifisch und wird nicht behauptet.
 
 ## Häufig gestellte Fragen
 **Welcher Factory-Certificate-Standard ist aktuell? ** GB/T 21085-2020 (empfohlen, aktuell; überprüft 2026-01-27).
 **Ist 20260041-Q-339 obligatorisch?** Nein — es ist ein verbindlicher Standard, der sich noch in der Entwicklung befindet; GB 21085 —XXXX ist ein Konsultationsentwurf, der nicht in Kraft ist.
-**Sind UN38.3 und übersetzte CoC-Dokumente obligatorisch?** Es werden Vorbereitungen empfohlen; der tatsächliche Bedarf hängt vom Spediteur / der Seebehörde und dem Bestimmungsort ab.
+**Sind UN38.3 und übersetzte CoC-Dokumente obligatorisch?** Es werden Vorbereitungen empfohlen; der tatsächliche Bedarf hängt vom Spediteur der Seebehörde und dem Bestimmungsort ab.
 **Welche zusätzliche Datei benötigt eine Exportverkaufsregistrierung?** Die Bescheinigung des Herstellers über die Sicherheit/technische Prüfung (Original) und eine Kopie der Ausfuhrlizenz für Kraftfahrzeuge.
 
 ## Bildaufzeichnung

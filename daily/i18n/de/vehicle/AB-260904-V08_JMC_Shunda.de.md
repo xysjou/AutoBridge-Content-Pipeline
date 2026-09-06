@@ -22,7 +22,7 @@ Für einen leichten LKW vergleicht der Käufer keine Trimmebenen - sie passen **
 | Fallbett (L × W × H) | **3700 × 1850 × 380 mm** |
 | Bruttogewicht des Fahrzeugs (GVW) | **4.27 t** |
 | Gewicht der Bordsteine | ca. ** 2.145 t ** (die 3.7 m Box-Van-Version ist ca. 2.435 t) |
-| Nennzuladung | about **1.93–2.0 t — final value per the MIIT announcement / certificate** |
+| Nennzuladung | about **1.93–2.0 t — final value per the MIIT announcement certificate** |
 | Radstand | **2800 mm** |
 | Wendekreis | **5.5 m** |
 | Emission | China-6 diesel |
@@ -30,7 +30,7 @@ Für einen leichten LKW vergleicht der Käufer keine Trimmebenen - sie passen **
 Payload ist die Zahl, die am häufigsten Compliance-Probleme verursacht: Eine Marketing-Linie "etwa zwei Tonnen" ist keine rechtliche Bewertung. Die maßgebliche Nutzlast ist diejenige auf der öffentlichen **MIIT-Ankündigung und der Konformitätsbescheinigung des Fahrzeugs **, und sie ändert sich mit dem Körpertyp (Dropside vs Box Van) und dem Gewicht.
 
 ## Motorversionsgrenze
-- ** JX493ZLQ6D (diese Seite): 2.499 L, 90 kW / 122 PS.**
+- ** JX493ZLQ6D (diese Seite): 2.499 L, 90 kW 122 PS.**
 - Ein ** 2.8 L 493 ** und ein ** 116 PS ** Tune existieren an anderer Stelle in der Shunda-Linie; das Zitieren von 116 PS für eine 90 kW-Einheit - oder ein 2.8 L-Verdränger für einen 2.499 L-Motor - ist ein Konfigurationsfehler.
 - Das Gewicht der Bordsteine unterscheidet sich zwischen Dropside- und Box-Van-Körpern, die sich direkt in die Nutzlast einspeisen; Verwenden Sie niemals die Nutzlast eines Körpers für einen anderen.
 
@@ -67,31 +67,31 @@ Es wird kein Ausfuhrpreis veröffentlicht. Erkundigen Sie sich bei **Zielland ·
 - IMAGE_RIGHTS_STATUS: FAIL (kein lizenziertes Asset erfasst; ein Platzhalter oder ein Hinweis „altes Bild behalten wird nicht akzeptiert)
 - BLOCK_REASON: Es konnte kein wiederverwendbares Bild gesichert werden: Wikimedia Commons/Flickr sind aus der Forschungsumgebung nicht erreichbar, Lagerbibliotheken erfordern authentifizierten API/Lizenzzugriff und ein OEM-Webseitenbild ist KEIN kommerzielles Wiederverwendungsstipendium; es gibt kein AutoBridge-eigenes Foto. Nein, aber nicht nur vereitelt.
 - ALT nach Sprache:
-  - **EN**: AutoBridge export-buyer reference — JMC Shunda, petrol/diesel Chinese-market vehicle / light truck
-  - **FR**: Référence AutoBridge pour acheteurs export — JMC Shunda, véhicule thermique (marché chinois) / camion léger
-  - **DE**: AutoBridge-Referenz für Exportkäufer — JMC Shunda, Verbrenner (chinesischer Markt) / Leicht-Lkw
-  - **ES**: Referencia AutoBridge para compradores de exportación — JMC Shunda, vehículo de combustión (mercado chino) / camión ligero
-  - **PT**: Referência AutoBridge para compradores de exportação — JMC Shunda, veículo a combustão (mercado chinês) / caminhão leve
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜JMC Shunda, 中国市場仕様 内燃機関車 / 小型トラック
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜JMC Shunda, 중국 시장 내연기관 차량 / 경트럭
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — JMC Shunda, xe động cơ đốt trong (thị trường Trung Quốc) / xe tải nhẹ
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — JMC Shunda, รถเครื่องยนต์สันดาป (ตลาดจีน) / รถบรรทุกขนาดเล็ก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — JMC Shunda, kendaraan mesin pembakaran (pasar Tiongkok) / truk ringan
-  - **AR**: مرجع AutoBridge لمشتري التصدير — JMC Shunda, مركبة بمحرك احتراق (سوق الصين) / شاحنة خفيفة
-  - **ZH**: AutoBridge 出口采购参考｜JMC Shunda, 中国市场燃油车 / 轻卡
+  - **EN**: AutoBridge export-buyer reference — JMC Shunda, petrol/diesel Chinese-market vehicle light truck
+  - **FR**: Référence AutoBridge pour acheteurs export — JMC Shunda, véhicule thermique (marché chinois) camion léger
+  - **DE**: AutoBridge-Referenz für Exportkäufer — JMC Shunda, Verbrenner (chinesischer Markt) Leicht-Lkw
+  - **ES**: Referencia AutoBridge para compradores de exportación — JMC Shunda, vehículo de combustión (mercado chino) camión ligero
+  - **PT**: Referência AutoBridge para compradores de exportação — JMC Shunda, veículo a combustão (mercado chinês) caminhão leve
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜JMC Shunda, 中国市場仕様 内燃機関車 小型トラック
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜JMC Shunda, 중국 시장 내연기관 차량 경트럭
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — JMC Shunda, xe động cơ đốt trong (thị trường Trung Quốc) xe tải nhẹ
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — JMC Shunda, รถเครื่องยนต์สันดาป (ตลาดจีน) รถบรรทุกขนาดเล็ก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — JMC Shunda, kendaraan mesin pembakaran (pasar Tiongkok) truk ringan
+  - **AR**: مرجع AutoBridge لمشتري التصدير — JMC Shunda, مركبة بمحرك احتراق (سوق الصين) شاحنة خفيفة
+  - **ZH**: AutoBridge 出口采购参考｜JMC Shunda, 中国市场燃油车 轻卡
 
 ## Quellen & Verifizierung
 | Quelle: | Organisation | Markt | URL | Geprüft | Vertrauen | Belegte Fakten |
 |---|---|---|---|---|---|---|
 | Shunda Kleinstlaster JX493ZLQ6D 122PS konform 2t | 360che (Toutiao) | CN | http://m.toutiao.com/group/7296380434664292918/ | 2026-09-04 | CROSS_CHECKED | Motor, Leistung, GVW, Nutzlastrahmen |
 | Shunda Kleinbett, GVW, Bordsteingewicht | 360che (Toutiao) | CN | http://m.toutiao.com/group/6854066453151384075/ | 2026-09-04 | CROSS_CHECKED | 3700 Betten, 4.27 t, Bordsteingewicht |
-| Shunda cargo 3.7m 116PS (im Verkauf) | 58.com LKW | CN | https://m.58.com/sh/huochec/63510160324146x.shtml | 2026-09-04 | SINGLE_SOURCEN | Alternative Version 116 PS (ausgenommen) |
+| Shunda cargo 3.7m 116PS (im Verkauf) | LKW | CN | https://m.58.com/sh/huochec/63510160324146x.shtml | 2026-09-04 | SINGLE_SOURCEN | Alternative Version 116 PS (ausgenommen) | 58.com
 | Radstand/Winkelkreis | 360che (Toutiao) | CN | http://m.toutiao.com/group/6815508461468516878/ | 2026-09-04 | CROSS_CHECKED | 2800 mm WB, 5.5 m drehend |
 | Straßenfahrzeughersteller und -produktkatalog — öffentliches Abfragesystem | MIIT, China Ministerium für Industrie und Informationstechnologie | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | ÜBERPRÜFUNG | Überprüfen Sie den Hersteller, das zugelassene Modell und die Homologation (公告) Katalogeintrag vor der Bestellung oder Export |
 | GB 16735-2019 Straßenfahrzeuge — Anforderungen an die Fahrzeug-Identifizierungsnummer (VIN) | SAMR nationale Standards Volltext-Plattform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | ÜBERPRÜFUNG | VIN-Struktur und Typenschild-Datenfelder, die bei der Überprüfung der VIN/des Typenschilds des Käufers verwendet wurden |
 | GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Staatliche Verwaltung für Marktregulierung | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | ÜBERPRÜFUNG | Technische Rahmenbedingungen für die Fahrzeugsicherheit in China und der aktuelle/revisionsbezogene Zeitplan |
 | GB 18352.6-2016 mit Änderung XG1-2026 (Schadstoffemissionen von leichten Fahrzeugen China-6) | Ministerium für Ökologie und Umwelt (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | ÜBERPRÜFUNG | China-6 Lichtfahrzeug-Emissionsstufe und die 2026 Änderungs-Umsetzungsdaten |
-| GB 19147 Automobildieselkraftstoff nationale Norm (Schwefelarmbasis) | SAMR nationale Standards Volltext-Plattform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | ÜBERPRÜFUNG | Dieselkraftstoffqualität und Schwefelbasis entsprechen dem Motor- / Emissionsdesign in Übersee |
+| GB 19147 Automobildieselkraftstoff nationale Norm (Schwefelarmbasis) | SAMR nationale Standards Volltext-Plattform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | ÜBERPRÜFUNG | Dieselkraftstoffqualität und Schwefelbasis entsprechen dem Motor- Emissionsdesign in Übersee |
 
 *Vertrauenserklärung: kein OEM-Primärblatt; Handelsdatenbank-Gegenkontrollen. Nenn-Nutzlast ausdrücklich auf MIIT-Ankündigung/-bescheinigung verschoben; 2.499 L und 2.8 L Motoren getrennt gehalten. Nur chinesische Marktreferenz. *
 

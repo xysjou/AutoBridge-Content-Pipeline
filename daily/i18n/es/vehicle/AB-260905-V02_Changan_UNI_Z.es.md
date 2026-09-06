@@ -4,10 +4,10 @@
 - **SEO Título**: Changan UNI-Z PHEV 2026: Chinese-Market Specs & Export Buyer Guide
 - **Meta Descripción**: Nueva gama de luz de la ballena azul Changan UNI-Z: dimensiones, línea 18.4 kWh LFP, rango eléctrico 130 km CLTC, DC/ V2L y controles de nivel VIN para importadores.
 - ** H1 **: Changan UNI-Z (2026, New Blue Whale PHEV) — Chinese-Market Specs and Export Verification
-- **Primary Keyword**: Changan / 长安 UNI-Z specs export
+- **Primary Keyword**: Changan 长安 UNI-Z specs export
 - **Segundary Search Terms**: Changan UNI-Z export; UNI-Z PHEV specs; SUV híbrido enchufable chino; V2L export; CLTC range
 - ** URL agregada**: /vehicles/changan-uni-z/
-- **Intent de búsqueda**: 了解 Changan / 长安 UNI-Z 中国版规格, 配置与出口适配性 (车型参数页)
+- **Intent de búsqueda**: 了解 Changan 长安 UNI-Z 中国版规格, 配置与出口适配性 (车型参数页)
 - **Sugerencias de Enlace Interno**: /vehicles/changan-uni-z/, /guides/china-export-costos-declaración-ventana-single/, /guides/ccc-certification-export-exemption/
 - **Esquema de alcance**: Artículo + Vehículo (no Producto/Offer/Review)
 
@@ -15,7 +15,7 @@
 El **Changan UNI-Z (2026)** cubierto aquí es el mercado chino **nuevo Blue Whale (Xin Lan Jing) híbrido plug-in** SUV compacto. Es una línea distinta de cualquier UNI-Z de pura peluquería y de las placas de nombre de mercado de exportación que Changan puede utilizar en otros lugares; no se reclama equivalencia de nombre de ultramar sin una declaración de OEM. El mercado de referencia es **China**.
 
 ## Powertrain, batería y capacidad eléctrica
-- **Dimensiones**: 4730 / 1890 / 1660 (部分配置 1680) mm (algunas configuraciones 1680 mm de alto), rueda 2795 mm (cruzado); volumen de carga 638 L.
+- **Dimensiones**: 4730 1890 1660 (部分配置 1680) mm (algunas configuraciones 1680 mm de alto), rueda 2795 mm (cruzado); volumen de carga 638 L.
 - ** Motor de alta velocidad**: 72 (1.5L 混动专用发动机) kW motor híbrido dedicado; motor de tracción 160 kW (cruzado); E-CVT(电混传动).
 - **Batería**: 磷酸铁锂, alrededor de 约 18.4 kWh. El proveedor celular aparece bajo dos cuentas en fuentes secundarias y se mantiene como **sin confirmar** — no se afirma aquí.
 - **Grupo eléctrico**: 130 km CLTC (comprobados cruzados); combinado CLTC 1250 km.
@@ -24,7 +24,7 @@ El **Changan UNI-Z (2026)** cubierto aquí es el mercado chino **nuevo Blue Whal
 ## Tabla de especificación verificada (referencia del mercado chino)
 | Especificación | Valor | Dependencia | Mercado | Confianza | Nota de la fuente |
 |---|---|---|---|---|---|
-| longitud de la anchura | 4730 / 1890 / 1660 (部分配置 1680) | mm | CHINA | CROSS_CHECKED | 汽车之家 + 搜狐 |
+| longitud de la anchura | 4730 1890 1660 (部分配置 1680) | mm | CHINA | CROSS_CHECKED | 汽车之家 + 搜狐 |
 | Base de ruedas | 2795 | mm | CHINA | CROSS_CHECKED | 汽车之家 + 搜狐 |
 | volumen de carga | 638 | L | CHINA | SINGLE_SOURCE | 搜狐汽车 |
 | motor de potencia | 72 (1.5L 混动专用发动机) | kW | CHINA | SINGLE_SOURCE | 汽车之家车家号 |

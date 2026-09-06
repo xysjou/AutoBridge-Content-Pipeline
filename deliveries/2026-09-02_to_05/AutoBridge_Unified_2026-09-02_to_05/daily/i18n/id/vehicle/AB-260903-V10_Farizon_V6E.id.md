@@ -1,13 +1,13 @@
 # Farizon Xingxiang V6E Kunci Tahun Battery-, 6 m Load Bay dan Documented Türkiye Export
 ## SEO Metadata
 - ** SEO Judul **: Farizon V6E Cargo listrik Van Specs & Ekspor Catatan Pembeli
-- ** Meta Deskripsi **: Cinese- pasar Farizon (Geely) Xingxiang V6E kargo listrik van - 60 kW / 220 N·m motor, volume kargo 6 m, 35.2 kWh / 260 km dasar vs baru 51 kWh membangun, batas 90 km/h, dan rekaman EU-spec Türkiye pengiriman.
-- ** Sugesti URL **: / kendaraan / farizon -xingxiang- v6e-specs/
+- ** Meta Deskripsi **: Cinese- pasar Farizon (Geely) Xingxiang V6E kargo listrik van - 60 kW 220 N·m motor, volume kargo 6 m, 35.2 kWh 260 km dasar vs baru 51 kWh membangun, batas 90 km/h, dan rekaman EU-spec Türkiye pengiriman.
+- ** Sugesti URL **: kendaraan farizon -xingxiang- v6e-specs/
 - ** H1 **: Farizon Xingxiang V6E (Cinese- Market): Cargo Electric Van Specs dan Verifikasi Ekspor
 - ** Primary Keyword **: farizon v6e electric cargo van specics
 - Xingxiang V6E, Farizon pengiriman van listrik 6m3, V6E 35.2 kWh, Farizon Ekpor Türkiye, Kota Elektrik logistik van
-- ** Internal Link Sugestions **: / wiraceers / saic- maxus-v90-specs/; / circle / byd-dolphs /; / guide / ev- shippping- un3171-imdg-compliance/
-- *** Sugestions Gambar **: teluk kargo dengan dimensi; pintu memuat sisi; motor / baterai; poros belakang leaf- musim semi; batch ekspor EU- spec
+- ** Internal Link Sugestions **: wiraceers saic- maxus-v90-specs/; circle byd-dolphs guide ev- shippping- un3171-imdg-compliance/
+- *** Sugestions Gambar **: teluk kargo dengan dimensi; pintu memuat sisi; motor baterai; poros belakang leaf- musim semi; batch ekspor EU- spec
 - ** ALT Saran **: "Farizon V6E enam meter kubik kargo listrik van"; "V6E kelas baterai dan jangkauan"
 
 ## Penjual Konteks: Kunci Tahun Baterai Sebelum Apapun Lainnya
@@ -16,30 +16,30 @@ Xingxiang V6E adalah milik Farizon (merek kendaraan elektronik Geely) ** van pen
 ## Driveline dan Cargo (fokus listrik-van)
 | Butir | V6E Referensi Cina |
 |---|---|
-| Motor | Wolong- ZF ** TZ185XS022 ** magnet permanen, ** 60 kW / 220 N·m ** |
+| Motor | Wolong- ZF ** TZ185XS022 ** magnet permanen, ** 60 kW 220 N·m ** |
 | Kecepatan tertinggi | 90 km/h (terbatas elektronik) ♪ |
 | Volume kargo | ** 6 m engkau ** (kargo teluk ~ 1.6 m panjang referensi) |
 | Penskorsan belakang | Axle rigid dengan ** pegas daun ** (load-oriented) |
-| Baterai / jangkauan dasar | ** 35.2 kWh / 260 km working- kondisi range ** |
-| Baru membangun | Baterai larger- A ** largerbattery Xuanwu build terdaftar dalam database Cina **, tapi kapasitas yang tepat / jangkauan tidak disebutkan di sini - konfirmasi pada katalog MIIT dan VIN build sheet (TIME _ SENSITIVE) |
+| Baterai jangkauan dasar | ** 35.2 kWh 260 km working- kondisi range ** |
+| Baru membangun | Baterai larger- A ** largerbattery Xuanwu build terdaftar dalam database Cina **, tapi kapasitas yang tepat jangkauan tidak disebutkan di sini - konfirmasi pada katalog MIIT dan VIN build sheet (TIME _ SENSITIVE) |
 
-Untuk sebuah van logistik, pembeli harus menimbang volume kargo, muatan (konfirmasikan pada kode homologat), kaki berorientasi pada poros belakang musim semi dan batas 90 km/h ** terhadap kecepatan rute kebutuhan - ini adalah kota / mil kendaraan, bukan truk panjang.
+Untuk sebuah van logistik, pembeli harus menimbang volume kargo, muatan (konfirmasikan pada kode homologat), kaki berorientasi pada poros belakang musim semi dan batas 90 km/h ** terhadap kecepatan rute kebutuhan - ini adalah kota mil kendaraan, bukan truk panjang.
 
 ## Disiplin Battery- Tahun
 - ** Dasar (jangkar halaman ini): ** 35.2 kWh, ~ 260 km wilayah kerja-kondisi (seberangi-diperiksa).
 - ** Pembuatan baru: ** sebuah pembuatan baterai Xuanwu yang lebih besar ada dalam daftar Cina; jangan kutip sebuah nomor tetap - konfirmasi kapasitas dan jangkauan pada katalog MIIT dan oleh VIN (waktu -sensitive).
-- Kutipan pak kWh **** range ** dan ** range cycle / condition bersama; jangan pernah melampirkan nomor 51 kWh yang lebih baru ke basis VIN. Konfirmasi AC / DC pengisian penyediaan dan waktu pengisian setiap bangunan.
+- Kutipan pak kWh **** range ** dan ** range cycle condition bersama; jangan pernah melampirkan nomor 51 kWh yang lebih baru ke basis VIN. Konfirmasi AC DC pengisian penyediaan dan waktu pengisian setiap bangunan.
 
 ## Dokumentasi Catatan Ekspor (fakta, bukan alias)
 Transportasi China Berita (berita industri) melaporkan bahwa dalam ** 2024 Februari sebuah batch dari spesifikasi EU V6E van diekspor ke Türkiye **, digambarkan sebagai masuk pertama Florizon ke pasar itu, dalam 6 m. Ini adalah rekaman pengiriman ** export- *: itu menegaskan Eropa - standar bangunan dikirim,  but it does **not** make the Türkiye EU-spec van identical to the China 35.2/51 kWh builds — treat export configuration separately  and  meminta lembar spec nya.
 
 ## Apa yang seharusnya Diverifikasi Importers Sebelum Pembayaran
 - Konfirmasi pengaturan angkutan kargo listrik - axle pada sertifikat; data referensi Cina yang tertangkap tidak memperbaikinya, jadi jangan baku ke depan drive untuk sebuah load- chassis membawa.
-1. ** Battery build (35.2 vs ~ 51 kWh) dan siklus jangkauan ** cocokkan dengan VIN / model tahun.
+1. ** Battery build (35.2 vs ~ 51 kWh) dan siklus jangkauan ** cocokkan dengan VIN model tahun.
 2. ** Payload, GVW, volume kargo dan putar ulang-axle ** pada kode homologated; leaf-spring ride vs cargo kebutuhan.
-3. ** Charge interface ** (GB / T di Cina membangun) vs tujuan standar; AC / DC penyediaan.
-4. ** EU-spec vs Cina - spec perbedaan ** untuk urutan Türkiye / white- terikat (pencahayaan, konformitas, perangkat lunak).
-5. ** Batas kecepatan 90 km/h ** Kokoh yang cocok; * UN38.3/MSDS dan di bawah Amandemen IMDG 42-24 (wajib dari 2026-01-01) sebuah lithium-ion- battery- kendaraan didukung UN3556, bukan dokumen rahasia UN3171; menerapkan dokumentasi / SOC per detail EV pengiriman Fakta Sheet dan operator (lihat panduan ekonomi) * EV pengiriman dokumen per klab / telegles / telancri.
+3. ** Charge interface ** (GB T di Cina membangun) vs tujuan standar; AC DC penyediaan.
+4. ** EU-spec vs Cina - spec perbedaan ** untuk urutan Türkiye white- terikat (pencahayaan, konformitas, perangkat lunak).
+5. ** Batas kecepatan 90 km/h ** Kokoh yang cocok; * UN38.3/MSDS dan di bawah Amandemen IMDG 42-24 (wajib dari 2026-01-01) sebuah lithium-ion- battery- kendaraan didukung UN3556, bukan dokumen rahasia UN3171; menerapkan dokumentasi SOC per detail EV pengiriman Fakta Sheet dan operator (lihat panduan ekonomi) * EV pengiriman dokumen per klab telegles telancri.
 
 ## Meminta Kuotasi Ekspor Saat Ini
 Tidak ada harga ekspor statis dan tidak ada MSRP Cina yang ditangkap; tidak ada yang ditemukan. Bertanyalah dengan ** Negara Tujuan Pembangunan
@@ -47,9 +47,9 @@ Tidak ada harga ekspor statis dan tidak ada MSRP Cina yang ditangkap; tidak ada 
 ## Pertanyaan Yang Sering Muncul
 ** Apa kapasitas kargo V6E? ** Sebuah teluk kargo 6 m (sekitar 1.6 m panjang referensi), dengan kaki-berorientasi leaf-musim semi poros belakang.
 ** Seberapa jauh itu pergi pada biaya? ** Paket dasar referensi adalah 35.2 kWh di sekitar 260 km (kondisi kerja); sebuah larger- pembuatan baterai terdaftar tetapi angka yang tepat harus dikonfirmasi pada katalog dan VIN daripada dikutip.
-90 km/h, terbatas elektronik - kota / last- mil karakteristik.
+90 km/h, terbatas elektronik - kota last- mil karakteristik.
 ** Apakah V6E telah diekspor? ** Ya - batch EU-spec direkam dikirim ke Türkiye di Feb 2024; bahwa pembangunan ekspor secara otomatis tidak identik dengan van Cina - spec.
-Motor mana yang digunakan? Wolong- ZF TZ185XS022 permanen-magnet motor, 60 kW / 220 N·m.
+Motor mana yang digunakan? Wolong- ZF TZ185XS022 permanen-magnet motor, 60 kW 220 N·m.
 
 ## Rekor Gambar
 - IMAGE _ ASSET _ PATH: tak ada yang aman di repositori
@@ -59,40 +59,40 @@ Motor mana yang digunakan? Wolong- ZF TZ185XS022 permanen-magnet motor, 60 kW / 
 - RIGHTS _ HOLDER: belum dikonfirmasi
 - LICENSE _ OR _ USAGE _ BASIS: tidak ada yang aman - tidak ada gambar pihak ketiga dapat diterbitkan sampai hak-hak dibersihkan
 - CHECTED _ DATE: 2026-09-06
-- MODEL _ TOPIC _ MATCH: harus cocok dengan model / versi yang tepat (atau topik panduan) dan referensi pasar di atas
-- IMAGE _ SCOPE _ CATATAN: cocokkan model yang tepat dari keluarga / topik saja; jangan mengimplikasikan sebuah trim / model khusus / tahun, VIN, in- orang inspeksi atau transaksi aktual
+- MODEL _ TOPIC _ MATCH: harus cocok dengan model versi yang tepat (atau topik panduan) dan referensi pasar di atas
+- IMAGE _ SCOPE _ CATATAN: cocokkan model yang tepat dari keluarga topik saja; jangan mengimplikasikan sebuah trim model khusus tahun, VIN, in- orang inspeksi atau transaksi aktual
 - IMAGE _ RIGHTS _ STATUS: FAIL (tidak ada aset berlisensi yang ditangkap; pemegang tempat atau catatan "mempertahankan gambar lama" tidak diterima)
-- BLOK _ REASON: Tidak ada gambar yang dapat digunakan kembali yang dapat diamankan: Wikimedia Commons / Flickr tidak dapat dihubungi oleh lingkungan penelitian, perpustakaan saham memerlukan akses API / license yang telah dikonfirmasi, dan gambar laman OEM bukanlah hibah reuse komersil; tidak ada foto AutoBridgeg yang dimiliki. Disimpan FAIL daripada menegaskan.
+- BLOK _ REASON: Tidak ada gambar yang dapat digunakan kembali yang dapat diamankan: Wikimedia Commons Flickr tidak dapat dihubungi oleh lingkungan penelitian, perpustakaan saham memerlukan akses API license yang telah dikonfirmasi, dan gambar laman OEM bukanlah hibah reuse komersil; tidak ada foto AutoBridgeg yang dimiliki. Disimpan FAIL daripada menegaskan.
 - ALT dengan bahasa:
-  - **EN**: AutoBridge export-buyer reference — Farizon Xingxiang V6E, battery-electric vehicle / cargo van
-  - **FR**: Référence AutoBridge pour acheteurs export — Farizon Xingxiang V6E, véhicule 100 % électrique / fourgon
-  - **DE**: AutoBridge-Referenz für Exportkäufer — Farizon Xingxiang V6E, batterieelektrisches Fahrzeug / Kastenwagen
-  - **ES**: Referencia AutoBridge para compradores de exportación — Farizon Xingxiang V6E, vehículo 100 % eléctrico / furgoneta de carga
-  - **PT**: Referência AutoBridge para compradores de exportação — Farizon Xingxiang V6E, veículo 100 % elétrico / furgão de carga
-  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Farizon Xingxiang V6E, 純電気自動車 / 貨物バン
-  - **KO**: AutoBridge 수출 바이어 참고 자료｜Farizon Xingxiang V6E, 순수 전기차 / 카고 밴
-  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Farizon Xingxiang V6E, xe thuần điện / xe van chở hàng
-  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Farizon Xingxiang V6E, รถยนต์ไฟฟ้า 100% / รถตู้บรรทุก
-  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Farizon Xingxiang V6E, kendaraan listrik murni / van kargo
-  - **AR**: مرجع AutoBridge لمشتري التصدير — Farizon Xingxiang V6E, مركبة كهربائية بالبطارية / شاحنة فان للبضائع
-  - **ZH**: AutoBridge 出口采购参考｜Farizon Xingxiang V6E, 纯电动车 / 厢式货车
+  - **EN**: AutoBridge export-buyer reference — Farizon Xingxiang V6E, battery-electric vehicle cargo van
+  - **FR**: Référence AutoBridge pour acheteurs export — Farizon Xingxiang V6E, véhicule 100 % électrique fourgon
+  - **DE**: AutoBridge-Referenz für Exportkäufer — Farizon Xingxiang V6E, batterieelektrisches Fahrzeug Kastenwagen
+  - **ES**: Referencia AutoBridge para compradores de exportación — Farizon Xingxiang V6E, vehículo 100 % eléctrico furgoneta de carga
+  - **PT**: Referência AutoBridge para compradores de exportação — Farizon Xingxiang V6E, veículo 100 % elétrico furgão de carga
+  - **JA**: AutoBridge 輸出バイヤー向けリファレンス｜Farizon Xingxiang V6E, 純電気自動車 貨物バン
+  - **KO**: AutoBridge 수출 바이어 참고 자료｜Farizon Xingxiang V6E, 순수 전기차 카고 밴
+  - **VI**: Tài liệu tham khảo AutoBridge cho người mua xuất khẩu — Farizon Xingxiang V6E, xe thuần điện xe van chở hàng
+  - **TH**: เอกสารอ้างอิง AutoBridge สำหรับผู้ซื้อเพื่อการส่งออก — Farizon Xingxiang V6E, รถยนต์ไฟฟ้า 100% รถตู้บรรทุก
+  - **ID**: Referensi AutoBridge untuk pembeli ekspor — Farizon Xingxiang V6E, kendaraan listrik murni van kargo
+  - **AR**: مرجع AutoBridge لمشتري التصدير — Farizon Xingxiang V6E, مركبة كهربائية بالبطارية شاحنة فان للبضائع
+  - **ZH**: AutoBridge 出口采购参考｜Farizon Xingxiang V6E, 纯电动车 厢式货车
 
 ## Sumber & Verifikasi
 | Judul sumber | Organisasi | Pasar | URL | Diperiksa | Percaya diri | Fakta yang didukung |
 |---|---|---|---|---|---|---|
-| V6E mengungkapkan (batas motor / 0–50/speed) | Truck Home / Toutiao | CN | http://m.toutiao.com/group/7064810099012895240/ | 2026-09-03 | _ BERDECAT | 60 kW / 220 N·m, batas 90 km/h, leaf- poros musim semi |
-| ekspor V6E EU-spec ke Türkiye (6 m) | Transportasi China Berita (media berita industri) | CN media (catatan ekspor: TR) | https://www.zgjtb.com/m/2024-02/01/content_398656.html | 2026-09-03 | _ BERDECAT | Feb- 2024 EU- spec Türkiye batch, 6 m complain (catatan berita, bukan OEM / pemerintah; bukan VERIFIED) |
-| Laporan komersial Light- (35.2 kWh / 260 km / 6 m) | Sohu Auto | CN | https://m.sohu.com/a/931378694_121823499/ | 2026-09-03 | _ BERDECAT | Baterai dasar / jangkauan, volume kargo |
+| V6E mengungkapkan (batas motor 0–50/speed) | Truck Home Toutiao | CN | http://m.toutiao.com/group/7064810099012895240/ | 2026-09-03 | _ BERDECAT | 60 kW 220 N·m, batas 90 km/h, leaf- poros musim semi |
+| ekspor V6E EU-spec ke Türkiye (6 m) | Transportasi China Berita (media berita industri) | CN media (catatan ekspor: TR) | https://www.zgjtb.com/m/2024-02/01/content_398656.html | 2026-09-03 | _ BERDECAT | Feb- 2024 EU- spec Türkiye batch, 6 m complain (catatan berita, bukan OEM pemerintah; bukan VERIFIED) |
+| Laporan komersial Light- (35.2 kWh 260 km 6 m) | Sohu Auto | CN | https://m.sohu.com/a/931378694_121823499/ | 2026-09-03 | _ BERDECAT | Baterai dasar jangkauan, volume kargo |
 | Jalan kendaraan & katalog produk - sistem permintaan publik | MIIT, Kementerian Industri dan Teknologi Informasi Cina | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | TERBATAI | Verifikasi produsen, model yang disetujui dan homologasi (公告) entri katalog sebelum memesan atau ekspor |
-| GB 16735-2019 Kendaraan jalan - nomor identifikasi kendaraan (VIN) persyaratan | Standar nasional SAMR platform penuh teks | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | TERBATAI | Ladang data struktur dan plat nama yang digunakan dalam verifikasi VIN / nameplate pembeli |
+| GB 16735-2019 Kendaraan jalan - nomor identifikasi kendaraan (VIN) persyaratan | Standar nasional SAMR platform penuh teks | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | TERBATAI | Ladang data struktur dan plat nama yang digunakan dalam verifikasi VIN nameplate pembeli |
 | GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Administrasi Negara untuk Peraturan Pasar | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | TERBATAI | Baseline in- China kendaraan kondisi keamanan teknis dan garis waktu revisi saat ini |
 | Komponen keselamatan baterai gongo 38031 (GB 38031-2025; aplikasi tipe baru wajib dari 2026-07-01) | Standar nasional SAMR platform penuh teks | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | TERBATAI | Cakram wajib. Baterai keselamatan diperlukan untuk daya listrik kereta api. |
-| GB 18384 kebutuhan keamanan kendaraan listrik (GB 18384-2025) | Standar nasional SAMR platform penuh teks | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | TERBATAI | Listrik kendaraan kebutuhan keselamatan listrik / fungsional |
+| GB 18384 kebutuhan keamanan kendaraan listrik (GB 18384-2025) | Standar nasional SAMR platform penuh teks | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | TERBATAI | Listrik kendaraan kebutuhan keselamatan listrik fungsional |
 
-* Catatan kepercayaan: catatan ekspor Türkiye adalah catatan ekspor CROSS _ CHECYING yang dianjurkan berita-berita yang melaporkan (media berita / industri tidak terVERIFIED - hanya OEM / pemerintah / regulator / standar / standar / dokumen teknis formal mencapai VERIFIED); diperlakukan secara ketat sebagai catatan pengiriman, bukan sebuah model bukti alias. Jarak motor dasar adalah titik silang; yang lebih baru 51 kWh build adalah waktu - sensitif. Cina GB / T dan EU-spec membangun tetap berbeda per MODEL _ Peraturan AIAS / SOURCE _ SCOPE. ♪
+* Catatan kepercayaan: catatan ekspor Türkiye adalah catatan ekspor CROSS _ CHECYING yang dianjurkan berita-berita yang melaporkan (media berita industri tidak terVERIFIED - hanya OEM pemerintah regulator standar standar dokumen teknis formal mencapai VERIFIED); diperlakukan secara ketat sebagai catatan pengiriman, bukan sebuah model bukti alias. Jarak motor dasar adalah titik silang; yang lebih baru 51 kWh build adalah waktu - sensitif. Cina GB T dan EU-spec membangun tetap berbeda per MODEL _ Peraturan AIAS SOURCE _ SCOPE. ♪
 
 ## Editorial Review
-- *** Penulis / Penilik **: [AutoBridge Ekspor Editorial Tim] (/ penulis /)
+- *** Penulis Penilik **: [AutoBridge Ekspor Editorial Tim] penulis
 - ** Terakhir ditinjau **: 2026-09-05
 - ** Referensi pasar **: Cina, Xingxiang V6E (Referensi pasar Cinese-; EU- spec ekspor bangunan tetap terpisah)
 - ** Metode Verifikasi **: Cek silang + catatan ekspor resmi; tahun-battery- dan lingkup pasar terisolasi

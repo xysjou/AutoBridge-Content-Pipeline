@@ -29,12 +29,12 @@ Escribe el término, la versión y **nombre lugar/puerto** precisamente: "CIF" s
 Un vendedor puede **reservar el título hasta que se reciba el pago completo** (distinto del riesgo, que puede haber pasado ya): hasta que se pague en su totalidad, el comprador ** no puede hipotecar o revender** los vehículos. Esta cláusula es especialmente valiosa contra el incumplimiento de los envíos escalonados, pero tenga en cuenta que su aplicabilidad depende de la ley ** dominante y si la reserva de título es reconocida/regitable en la jurisdicción del comprador**, que el abogado debe confirmar.
 
 ## Clause Block 4 — Breach, Rendimiento tardío y Reclamar Windows
-- **Pago tardío / entrega tardía:** una tasa de liquidación por día (a menudo expresada en per-mille, μ, por día) con un período de atraso máximo ** después del cual el contrato puede ser terminado**.
+- **Pago tardío entrega tardía:** una tasa de liquidación por día (a menudo expresada en per-mille, μ, por día) con un período de atraso máximo ** después del cual el contrato puede ser terminado**.
 - **Reclamaciones de calidad:** fijar un período de inspección ** y una ventana de reclamación** después de la llegada; sin una, las controversias de defecto latente se convierten en he-said/she-said. Vincular la ventana a la PSI y detectar de forma realista el tránsito vs daño preexistente.
 - Definir ** jerarquía de remedios** (rectificar → reemplazar → reembolso) y que soporta el costo de devolución/bordo en cada caso.
 
 ## Clause Block 5 — Disclosure (prevención del fraude)
-Discutar hechos materiales con veracidad: **versión/configuración, versión de software, y cualquier historial de accidentes/floods, ajuste del odómetro, o encumbrancia/mortgage**. La falta de divulgación de estas denuncias es una fuente frecuente de denuncias de fraude, y interactúa con la PSI, que debe evidenciar la condición revelada. Para los VE, divulgar la batería grado / información relevante de la SOH conocido por el vendedor.
+Discutar hechos materiales con veracidad: **versión/configuración, versión de software, y cualquier historial de accidentes/floods, ajuste del odómetro, o encumbrancia/mortgage**. La falta de divulgación de estas denuncias es una fuente frecuente de denuncias de fraude, y interactúa con la PSI, que debe evidenciar la condición revelada. Para los VE, divulgar la batería grado información relevante de la SOH conocido por el vendedor.
 
 ## Clause Block 6 — Ley de Gobierno, Foro y Legalización de Documentos
 - Elija el **gobernante derecho y foro** deliberadamente; para acuerdos transfronterizos ** el arbitraje internacional (por ejemplo, el ICC)** es a menudo preferido por la aplicabilidad en virtud de la Convención de Nueva York sobre litigios en un tribunal local extranjero.
@@ -85,13 +85,13 @@ Discutar hechos materiales con veracidad: **versión/configuración, versión de
 | Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |
 |---|---|---|---|---|---|---|
 | PRC Código Civil Art 596 términos de contrato de ventas | FindLaw (portal jurídico) | CN | https://www.findlaw.cn/wenda/q_60484893.html | 2026-09-03 | CROSS_CHECKED (artículo de la Ley citado por un portal jurídico secundario; no fuente oficial de la Comisión Nacional de Protección de los Niños) | Contenidos esenciales de los contratos |
-| Modelo de contrato de venta de vehículos de exportación (retención de riesgo/títulos) | 110ask legales | Global | https://m.110ask.com/fanben/601005122281423969.html | 2026-09-03 | CROSS_CHECKED | Transferencia de riesgos; retención de título; declaración de condiciones |
+| Modelo de contrato de venta de vehículos de exportación (retención de riesgo/títulos) | legales | Global | https://m.110ask.com/fanben/601005122281423969.html | 2026-09-03 | CROSS_CHECKED | Transferencia de riesgos; retención de título; declaración de condiciones | 110ask
 | Cláusulas básicas de contrato de compra (lista de parra y título/config) | 66Law | CN | https://m.66law.cn/question/56427049.aspx | 2026-09-03 | CROSS_CHECKED | LDs, ventana de reclamación, anexo de configuración |
 | Contrato de exportación Incoterms/disputes/Apostille | Material de carga para uso | Global | https://m.11467.com/product/d43019461.htm | 2026-09-03 | SINGLE_SOURCE | Versión de los incoterms, arbitraje de la CPI, Apostille |
 * Nota de la encuesta: Contenido del art 596 es CROSS_ CHECKED via a secondary legal portal only — VERIFIED requiere el texto oficial del Código Civil de PRC (NPC/government), que no fue capturado; no lo etiqueta VERIFIED. La aplicabilidad de la reserva de títulos, el arbitraje y la Apostille depende del derecho y el destino que se elijan, y debe ser confirmada por un abogado calificado. Los modelos de contrato son referencias estructurales solamente. *
 
-| ■ 中华人民共和国民法典, Gr 第三编 合同 (第五百九十五 / 五百九十六 / 五百九十七条逐字) | 最高人民检察院 (procuraduría General de la Gente Suprema) — offic | CN | https://www.spp.gov.cn/spp/ssmfdyflvdtpgz/202008/t20200831_478413.shtml | 2026-09-04 | VERIFIED |  |
-| 中华人民共和国民法典 全文 (政府门户转载) | 云南省司法厅 (sft.yn.gov.cn) / 开封市人大 (kfsrd.henanrd.go | CN | https://sft.yn.gov.cn/pf/yunnan/PZhengCeFaGui/2020061631_2.shtml | 2026-09-04 | VERIFIED |  |
+| ■ 中华人民共和国民法典, Gr 第三编 合同 (第五百九十五 五百九十六 五百九十七条逐字) | 最高人民检察院 (procuraduría General de la Gente Suprema) — offic | CN | https://www.spp.gov.cn/spp/ssmfdyflvdtpgz/202008/t20200831_478413.shtml | 2026-09-04 | VERIFIED |  |
+| 中华人民共和国民法典 全文 (政府门户转载) | 云南省司法厅 开封市人大 (kfsrd.henanrd.go | CN | https://sft.yn.gov.cn/pf/yunnan/PZhengCeFaGui/2020061631_2.shtml | 2026-09-04 | VERIFIED |  |
 
 ## Revisión editorial
 - **Autor/examen**: [Equipo Editorial Exportador AutoBridge](/autores/) · método por nuestro [Política editorial](/editorial-policía/)

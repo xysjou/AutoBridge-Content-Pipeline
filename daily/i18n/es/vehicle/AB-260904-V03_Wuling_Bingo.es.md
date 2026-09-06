@@ -15,27 +15,27 @@
 El Bingo es el pequeño hacha eléctrica de cinco puertas de Wuling, dirigido a uso personal urbano y lumínico. Para un exportador la variable decisiva es **range step**, porque la potencia motora, la batería y la velocidad máxima cambian con ella. Esta hoja cubre la línea **Mercadillo chino 2024 (REFERENCIA: CHINA)**; sin una página de OEM en el extranjero, las figuras chinas son una referencia, no una especificación global.
 
 ## núcleo EV: batería, ciclo de rango, carga
-| Tema | 203 km (entrada) | 333 / 410 km (medio/alto) |
+| Tema | 203 km (entrada) | 333 410 km (medio/alto) |
 |---|---|---|
 | Química de la batería | LFP (fosfato de hierro de litio) | LFP |
 | Batería de entrada | 17.3 kWh | paquetes más grandes (confirme por versión en la hoja OEM) |
 | Potencia motora | 30 kW | 50 kW (la entrada es de 30 kW — no generalizar) |
 | Motor de par motor | 85 N·m | 125 N·m (fuente individual) |
-| CLTC range | 203 km | 333 km / 410 km |
+| CLTC range | 203 km | 333 km 410 km |
 | Velocidad superior | 100 km/h | 130 km/h |
 | DC carga rápida | Todas las versiones DC de carga rápida; about 35 min for 30–80% (single-source; confirma por OEM | igual |
 
 Todas las cifras de rango son **CLTC**. El motor de entrada 30 kW no debe ser citado para los bordes superiores, y viceversa.
 
 ## Dimensiones, asientos y carga
-- Longitud / ancho / altura: ** 3950 / 1708 / 1580 mm **
+- Longitud ancho altura: ** 3950 1708 1580 mm **
 - Base de ruedas: ** 2560 mm **
 - Asientos: documentados como ** 4 (2+2 distribuciones)** para el coche de entrada; algunas versiones pueden ofrecer cinco asientos — confirman en la hoja de trim exacta.
 - Volumen de carga: ** 350 L, expandiéndose a alrededor de 1240 L ** con asientos plegados (fuente individual).
 
 ## Mapa de la versión (contiene cada línea separada)
-- ** 203 轻享 (entrada)**: 17.3 kWh, 30 kW / 85 N·m, 100 km/h velocidad superior.
-- ** 333 悦享 / 410 灵犀 (medio/alto)**: motor 50 kW, 125 N·m, 130 km/h velocidad superior.
+- ** 203 轻享 (entrada)**: 17.3 kWh, 30 kW 85 N·m, 100 km/h velocidad superior.
+- ** 333 悦享 410 灵犀 (medio/alto)**: motor 50 kW, 125 N·m, 130 km/h velocidad superior.
 - La anchura, el diseño de cuatro asientos y los minutos de carga rápida descansan en parte en fuentes individuales; reconfirmen en la lista de configuración de fábrica.
 
 ## Verificación del comprador de ultramar antes del pago
@@ -47,7 +47,7 @@ Todas las cifras de rango son **CLTC**. El motor de entrada 30 kW no debe ser ci
 5. **PDI y SOC para envío** — seguir la guía de preparación previa al envío y el requisito declarado de estado de carga del transportista (sin porcentaje fijo universal).
 
 ## Solicitar una calificación de exportación actual
-No hay precio de exportación estático. El precio de la guía de inicio de China 2024 (respecto RMB 56, 800) es una referencia **doméstica y sensible al tiempo, no FOB/CIF**. Consulta con ** País de destino · Cantidad · Rango Paso/Trim · LHD/RHD · Puerto de destino · Incoterm**.
+No hay precio de exportación estático. El precio de la guía de inicio de China 2024 (respecto RMB 56,800) es una referencia **doméstica y sensible al tiempo, no FOB/CIF**. Consulta con ** País de destino · Cantidad · Rango Paso/Trim · LHD/RHD · Puerto de destino · Incoterm**.
 
 ## Preguntas frecuentes
 **¿Cuántas versiones de gama hay?** Tres pasos documentados de CLTC — 203, 333 y 410 km — con diferentes especificaciones de motor y batería.
@@ -84,10 +84,10 @@ No hay precio de exportación estático. El precio de la guía de inicio de Chin
 ## Fuentes " Verificación "
 | Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |
 |---|---|---|---|---|---|---|
-| Mesa de configuración Wuling Bingo 203km | Autohome config | CN | https://car.m.autohome.com.cn/config/spec/61645.html | 2026-09-04 | CROSS_CHECKED | 17.3 kWh, 30 kW / 85 N·m, rango, velocidad superior |
+| Mesa de configuración Wuling Bingo 203km | Autohome config | CN | https://car.m.autohome.com.cn/config/spec/61645.html | 2026-09-04 | CROSS_CHECKED | 17.3 kWh, 30 kW 85 N·m, rango, velocidad superior |
 | Parámetros Bingo 2024 203km | Base de datos Sohu Auto | CN | http://db.m.auto.sohu.com/trim_173261 | 2026-09-04 | CROSS_CHECKED | Dimensiones, base de ruedas, batería, asientos |
 | 2024 Actualización de carga rápida y rango de Bingo | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/24300800 | 2026-09-04 | CROSS_CHECKED | Rango de 50 kW, DC minutos de carga, CLTC |
-| Googleo dimensiones & diseño de asientos | 16888 auto | CN | https://m.16888.com/news/2025/0708/23852156.html | 2026-09-04 | SINGLE_SOURCE | Ancho/altura, 2+2 asientos |
+| Googleo dimensiones & diseño de asientos | auto | CN | https://m.16888.com/news/2025/0708/23852156.html | 2026-09-04 | SINGLE_SOURCE | Ancho/altura, 2+2 asientos | 16888
 | Wuling Bingo 2025 confín de línea completa | PCauto config | CN | https://car.pcauto.com.cn/360/m133517/config.html | 2026-09-04 | CROSS_CHECKED | Motor medio/alto, rango |
 | Fabricantes & catálogo de productos de vehículos de motor de carretera — sistema de consulta pública | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verificar el fabricante, modelo aprobado y homologación (公告) entrada de catálogo antes de ordenar o exportar |
 | GB 16735-2019 Vehículos de carretera - Número de identificación de vehículos (VIN) | SAMR plataforma de texto completo | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | Estructura VIN y campos de datos de placa de nombre utilizados en la verificación VIN/nameplate del comprador |
@@ -95,7 +95,7 @@ No hay precio de exportación estático. El precio de la guía de inicio de Chin
 | GB 38031 requisitos de seguridad de la batería de tracción (GB 38031-2025; nuevas aplicaciones de tipo obligatorios de 2026-07-01) | SAMR plataforma de texto completo | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFIED | Base obligatoria de requisitos de seguridad de la tracción para el entrenamiento eléctrico |
 | GB 18384 requisitos de seguridad del vehículo eléctrico (GB 18384-2025) | SAMR plataforma de texto completo | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VERIFIED | Base de requisitos de seguridad eléctrica/funcional de vehículos eléctricos |
 
-* Nota de confianza: batería de entrada / potencia cruzada; par motor, volumen de carga, conteo de asientos y minutos de carga son de una sola fuente y señalización. No OEM página de ultramar — referencia del mercado chino solamente. *
+* Nota de confianza: batería de entrada potencia cruzada; par motor, volumen de carga, conteo de asientos y minutos de carga son de una sola fuente y señalización. No OEM página de ultramar — referencia del mercado chino solamente. *
 
 ## Revisión editorial
 - **Autor**: Equipo Editorial AutoBridge Export · método por nuestro [Política editorial](/editorial-policía/)

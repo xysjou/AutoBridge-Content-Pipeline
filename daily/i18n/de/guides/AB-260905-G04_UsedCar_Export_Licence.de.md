@@ -28,7 +28,7 @@ Gebrauchtwagenexport scheitert am häufigsten an einer inkonsistenten Identität
 2. Beantragen und erhalten Sie die Ausfuhrlizenz nach dem richtigen Fahrplan des Fahrzeugs.
 3. Für Übersee-Projektfahrzeuge, verwenden Sie den Projekt-Vertragskanal und Dokumente.
 4. VIN/Registrierung/Lizenz/Zoll/Transportdaten in Einklang bringen; die Konsistenzregel 2026 und jede Kundenbestätigung für kurze Zeiträume erfüllen.
-5. Melden Sie sich durch das Single Window an und behalten Sie die Kette für die FX / Steuerbehandlung.
+5. Melden Sie sich durch das Single Window an und behalten Sie die Kette für die FX Steuerbehandlung.
 
 ## Grenzen
 Die aktuelle Pilot-Stadt-Liste und die genauen Systembildschirme sind zeitsensibel und werden nicht wiedergegeben; die Schnittstelle zum Lizenzportal ändert sich. Die Importregeln für Gebrauchtwagen (Altersgrenzen, Lenkung, Inspektion) sind länderspezifisch und werden hier nicht behandelt.

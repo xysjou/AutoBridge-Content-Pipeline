@@ -4,10 +4,10 @@
 - **SEO Titel**: Changan UNI-Z PHEV 2026: Chinesisch-Markt Specs & Export Käufer Guide
 - **Meta Description**: Chinesischer Markt Changan UNI-Z neue Blauwal-PHEV: Abmessungen, 18.4 kWh LFP-Linie, 130 km CLTC elektrische Reichweite, DC/V2L und VIN-Level-Checks für Importeure.
 - ** H1 **: Changan UNI-Z (2026, New Blue Whale PHEV) — chinesische Marktspezifikationen und Exportverifizierung
-- **Hauptschlüsselwort**: Changan / 长安 UNI-Z specs export
+- **Hauptschlüsselwort**: Changan 长安 UNI-Z specs export
 - **Secondary Search Terms**: Changan UNI-Z export; UNI-Z PHEV specs; Chinese Plug-in Hybrid SUV; V2L export; CLTC range
 - **Vorgeschlagene URL**: /Fahrzeuge/changan-uni-z/
-- **Search Intent**: 了解 Changan / 长安 UNI-Z 中国版规格、配置与出口适配性（车型参数页）
+- **Search Intent**: 了解 Changan 长安 UNI-Z 中国版规格、配置与出口适配性（车型参数页）
 - **Interne Linkvorschläge**: /Fahrzeuge/changan-uni-z/, /guides/china-export-zollanmeldung-einzelfenster/, /guides/ccc-zertifizierung-export-ausnahme/
 - **Schema-Scope**: Artikel + Fahrzeug (kein Produkt/Angebot/Bewertung)
 
@@ -15,7 +15,7 @@
 Der hier abgedeckte **Changan UNI-Z (2026) ** ist der chinesische Markt **neue Blue Whale (Xin Lan Jing) Plug-in-Hybrid** Kompakt-SUV. Es ist eine andere Linie als bei reinen UNI-Z-Benzinern und bei Exportmarkt-Namensschildern, die Changan woanders verwenden kann; ohne eine OEM-Erklärung wird keine Äquivalenz von ausländischen Namen geltend gemacht. Referenzmarkt ist **China**.
 
 ## Antriebsstrang, Batterie und elektrische Leistungsfähigkeit
-- **Abmessungen **: 4730 / 1890 / 1660 (部分配置 1680) mm (einige Konfigurationen 1680 mm hoch), Radstand 2795 mm (gegenübergestellt); Frachtvolumen 638 L.
+- **Abmessungen **: 4730 1890 1660 (部分配置 1680) mm (einige Konfigurationen 1680 mm hoch), Radstand 2795 mm (gegenübergestellt); Frachtvolumen 638 L.
 - **Hybridmotor**: 72 (1.5L 混动专用发动机) kW Hybridmotor; Antriebsmotor 160 kW (gegenübergestellt); E-CVT(电混传动).
 - **Batterie**: 磷酸铁锂, ca. 约 18.4 kWh. Der Zelllieferant erscheint unter zwei Konten in sekundären Quellen und wird als **unbestätigt** gehalten - es wird hier nicht behauptet.
 - **Elektrische Reichweite**: 130 km CLTC (gekreuzt); kombiniertes CLTC 1250 km.
@@ -24,7 +24,7 @@ Der hier abgedeckte **Changan UNI-Z (2026) ** ist der chinesische Markt **neue B
 ## Verifizierte Spezifikationstabelle (Referenz des chinesischen Marktes)
 | Spezifikation | Wert | Einheit | Markt | Vertrauen | Quelle: |
 |---|---|---|---|---|---|
-| Breitenbreitenhöhe | 4730 / 1890 / 1660 (部分配置 1680) | mm | CHINA | CROSS_CHECKED | 汽车之家 + 搜狐 |
+| Breitenbreitenhöhe | 4730 1890 1660 (部分配置 1680) | mm | CHINA | CROSS_CHECKED | 汽车之家 + 搜狐 |
 | Radstand | 2795 | mm | CHINA | CROSS_CHECKED | 汽车之家 + 搜狐 |
 | Frachtvolumen | 638 | L | CHINA | SINGLE_SOURCEN | 搜狐汽车 |
 | Motorleistung | 72 (1.5L 混动专用发动机) | kW | CHINA | SINGLE_SOURCEN | 汽车之家车家号 |
@@ -39,13 +39,13 @@ Der hier abgedeckte **Changan UNI-Z (2026) ** ist der chinesische Markt **neue B
 | Mittelbildschirm | 14.6 | 英寸 | CHINA | SINGLE_SOURCEN | 汽车之家车家号 |
 
 ## Warum die Batterieleitung und V2L für Exportaufträge wichtig sind
-UNI-Z-Aufträge sind leicht falsch zu spezifizieren, da das gleiche Abzeichen verschiedene Elektrifizierungsstufen abdeckt. Nennen Sie die Batteriekapazität und die elektrische Reichweite auf den Proforma und behandeln Sie die 85 DC- und 3.3 V2L Zahlen als chinesische Geräte, die für den Zielverdrahtungs- / Netzstandard erneut bestätigt werden. Eine CLTC-Elektrostrecke ist keine WLTP-Figur, und ein Exportmarktname, eine Kalibrierung des Antriebsstrangs oder eine Garantie werden nicht von den hier erfassten chinesischen Quellen festgelegt.
+UNI-Z-Aufträge sind leicht falsch zu spezifizieren, da das gleiche Abzeichen verschiedene Elektrifizierungsstufen abdeckt. Nennen Sie die Batteriekapazität und die elektrische Reichweite auf den Proforma und behandeln Sie die 85 DC- und 3.3 V2L Zahlen als chinesische Geräte, die für den Zielverdrahtungs- Netzstandard erneut bestätigt werden. Eine CLTC-Elektrostrecke ist keine WLTP-Figur, und ein Exportmarktname, eine Kalibrierung des Antriebsstrangs oder eine Garantie werden nicht von den hier erfassten chinesischen Quellen festgelegt.
 
 ## Überprüfung des ausländischen Käufers vor Zahlung
 1. Bestätigen Sie die genaue PHEV-Konfiguration und Batteriekapazität durch VIN; trennen Sie sie von ICE UNI-Z-Builds.
 2. Abgleich des CLTC 130 km mit dem Bestimmungsprüfzyklus.
 3. Überprüfen Sie DC-Ladeanschluss/Protokoll und die Exporteignung V2L für den Zielmarkt.
-4. Erhalten Sie die PHEV-Typgenehmigungs- / Emissionsdokumentation für das Bestimmungsland, anstatt aus China-Spezifikationen zu schließen.
+4. Erhalten Sie die PHEV-Typgenehmigungs- Emissionsdokumentation für das Bestimmungsland, anstatt aus China-Spezifikationen zu schließen.
 5. Fordern Sie ein aktuelles Exportangebot an (Ziel, Menge, Trimm, LHD/RHD, Port, Incoterm) - hier wird kein Preis veröffentlicht.
 
 ## FAQ
