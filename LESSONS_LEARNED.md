@@ -239,3 +239,26 @@ Use **must / prohibited / required** only where a cited regulation or official d
 
 ### Numbers and commercial data (no guessing)
 Never compute or estimate FOB, CIF, export margin, insurance rate, ocean freight, tax rate, certification fee, destination licensing fee, sales volume, market share, residual value, "real-world range", or any payload/GVW/towing figure not present in a reliable source. Absent a reliable source → NOT VERIFIED, never an experience-based estimate.
+
+---
+
+## PART 6 — EVIDENCE-BASELINE CHARTER: 15 PERMANENT RESEARCH RULES (installed by project-owner directive 2026-09-06)
+*Installed directly by the project owner on 2026-09-06; already confirmed, therefore permanent (not NEW_LESSON_CANDIDATE). Sits on top of PART 0–5 and never weakens them. Where a rule restates an earlier LESSON, the stricter reading governs. Governing objective: build a fact baseline that can withstand an independent Review — NOT one that merely keeps Writing supplied.*
+
+1. **COUNT_IS_NOT_SUPPORT** — source count never substitutes for fact support; a fact is not established merely because many sources are listed (do not "凑来源数").
+2. **DIRECT_SUPPORT_TRACEABILITY** — every key fact must trace to a source that DIRECTLY supports that specific fact; tangential/background pages do not support it.
+3. **CROSS_CHECKED_SAME_FACT** — CROSS_CHECKED requires the SAME fact independently supported by two or more independent sources; different facts across different sources never cross-check (mirrors CONFIDENCE_IS_FACT_LEVEL).
+4. **ORGANIZATION_NORMALIZATION** — multiple pages of one parent organization count as ONE organization; same-publisher pages are deduplicated and never treated as independent corroboration.
+5. **VEHICLE_FACT_BINDING** — every vehicle parameter MUST be bound to Market + Model Year + Generation + Trim + Powertrain + Test Cycle; an unbound parameter is not a usable fact (mirrors VEHICLE_IDENTITY_LOCK_BEFORE_SPECS).
+6. **NO_GLOBAL_SPEC_FABRICATION** — never manufacture a "Global spec"; a China-market figure stays China-market and must never be rewritten as global (mirrors SOURCE_MARKET_PATH_CHECK).
+7. **TEST_CYCLE_NO_MIX** — CLTC / WLTP / NEDC / EPA range and energy figures are never mixed or presented as comparable; the test cycle must always be labelled.
+8. **REGIONAL_MULTI_COUNTRY_EVIDENCE** — a regional article requires multi-country evidence; one country must never stand for a whole region (mirrors REGIONAL_GUIDE_REPRESENTATIVE_COUNTRIES).
+9. **LOGISTICS_SPECIFICS_FIRST** — transport/logistics articles prioritize Port / Route / Carrier / Terminal / effective Date; generic international frameworks cannot replace these (mirrors LOGISTICS_GUIDE_SPECIFICITY).
+10. **CURRENT_OEM_PAGE_NOT_HISTORICAL_PROOF** — an OEM's current-model page cannot prove a previous model year's / generation's parameters; historical specs require period-correct sources.
+11. **CONFLICT_MAY_BE_OMITTED_NEVER_FORCED** — when facts conflict you MAY omit the fact; you must never force-pick, average or guess a value (mirrors CONFLICT handling).
+12. **NO_PASS_WHEN_SCOPE_FAILS** — if SOURCE_SCOPE does not hold, never grant PASS merely to complete the task (mirrors EVIDENCE_CEILING_IS_NOT_RESEARCH_PASS / PRIMARY_SOURCE_SCOPE_MUST_MATCH).
+13. **IMAGE_RIGHTS_DOCUMENTED** — image research MUST record the real copyright source AND its license/permission terms, not merely provide image suggestions.
+14. **EXPLICIT_ALLOWED_VS_BLOCKED** — every Research output MUST state FACTS_ALLOWED_IN_BODY and BLOCKED_FACTS explicitly.
+15. **STOP_AT_CONDITIONAL_OR_FAIL_NO_GUESS** — if the core vehicle / regulation / market identity cannot be confirmed, stop at RESEARCH_CONDITIONAL or RESEARCH_FAIL; never guess to keep production moving.
+
+> These 15 rules are audited in each batch's Research QA and machine gates; a violation is a REPEATED_ERROR with the corresponding RULE_ID above and SEVERITY=HIGH.
