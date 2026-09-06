@@ -1,0 +1,36 @@
+{
+  "review_type": "BATCH_GATE_REVIEW",
+  "reviewed_content_commit_sha": "5d167befa9b037fbd35bf823fecc41b9f09b6b36",
+  "total_articles": 80,
+  "review_pass": 0,
+  "revision_required": 70,
+  "needs_research": 10,
+  "reject": 0,
+  "publication_candidates": [],
+  "needs_research_articles": [
+    "AB-260905-G01","AB-260905-G02","AB-260905-G03","AB-260905-G04","AB-260905-G05",
+    "AB-260905-G06","AB-260905-G07","AB-260905-G08","AB-260905-G09","AB-260905-G10"
+  ],
+  "batch_blockers": {
+    "image_rights": {"pass": 0, "fail": 80},
+    "source_scope": {"pass": 70, "conditional": 10, "fail": 0},
+    "full_body_locales": {"complete": 960, "expected": 960, "machine_qa_pass": 960, "independent_language_review_complete": false},
+    "professional_localization": "PENDING",
+    "p0_public_workflow_leakage_patterns": [
+      "The working question is",
+      "The staged evidence note",
+      "The terms ... deliberately kept together",
+      "deployment or sales team",
+      "without forcing every page into the same public article structure",
+      "Do not make the page",
+      "Freeze the scope",
+      "Build a primary-evidence ledger"
+    ]
+  },
+  "publish_approved": false,
+  "human_reviewed": false,
+  "reviewed_by": "AI_REVIEWER",
+  "codex_eligible": false,
+  "hash_binding_complete": false,
+  "hash_note": "No article is REVIEW_PASS in this gate review, so release hash binding is intentionally not issued. Recompute hashes after remediation and return for independent review."
+}
