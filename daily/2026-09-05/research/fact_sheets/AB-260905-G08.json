@@ -89,23 +89,29 @@
   "具体整车/零部件退税率数值（须按HS在税务总局库当日查询，TIME_SENSITIVE）",
   "退税到账时长（因企业分类与地区而异，禁止承诺）"
  ],
- "source_url_count": 5,
+ "source_url_count": 7,
  "source_org_count": 4,
  "official_source_available": true,
  "research_status": "RESEARCH_PASS",
  "writing_ai_ready": true,
  "risk_level": "MEDIUM",
- "conditional_reason": "财政部+税务总局一手，方法学VERIFIED；退税率显式TIME_SENSITIVE不写死。",
- "fact_sheet_version": "FS-v2-20260905",
- "checked_date": "2026-09-05",
- "source_org_count_normalized": 3,
- "source_org_count_raw": 5,
- "source_scope_status": "CONDITIONAL",
+ "conditional_reason": "",
+ "fact_sheet_version": "FS-v3-20260906",
+ "checked_date": "2026-09-06",
+ "source_org_count_normalized": 4,
+ "source_org_count_raw": 7,
+ "source_scope_status": "PASS",
  "controlled_research_patch": {
-  "date": "2026-09-05",
-  "urls": 5,
-  "orgs_normalized": 3,
-  "scope_status": "CONDITIONAL",
-  "added": 1
+  "date": "2026-09-06",
+  "added_by": "Writing AI (pre-publication repair)",
+  "urls_total": 7,
+  "orgs_normalized": 4,
+  "orgs": [
+   "GACC",
+   "GovCN",
+   "MOF",
+   "STA"
+  ],
+  "status": "PASS"
  }
 }

@@ -1,70 +1,75 @@
-# Chinese Used-Car Export — Pilot Qualification, Licence and Clearance Process
+# تصدير السلع المستعملة الصينية - عملية التأهيل والتأهيل والتخليص
 
 ## SEO Metadata
-- **SEO Title**: China Used-Car Export: Pilot Qualification, Export Licence and Clearance (2026 Rules)
-- **Meta Description**: How a Chinese enterprise exports used cars: pilot-zone qualification, the export licence, project-contracting exception, information consistency and the 2026 registration-consistency rule.
-- ** H1 **: Chinese Used-Car Export — Pilot Qualification, Licence and Clearance Process
-- **Primary Keyword**: china used car export license process
-- **Secondary Search Terms**: used car export China; used vehicle export licence; pilot zone; second-hand car export; MOFCOM licence
-- **Suggested URL**: /guides/china-used-car-export-license-process/
-- **Search Intent**: 企业如何取得二手车出口资质、办理转让登记、申领出口许可证并完成通关（含2026年新规）
+- ** عنوان الحلقة**: الصين الصادرات المستعملة - التصدير: المؤهلات التجريبية، ورخص التصدير، والتطهير (2026 قواعد)
+- ** وصف البيانات**::: كيف تستخدم صادرات المؤسسة الصينية السيارات: مؤهلات المناطق التجريبية، ورخص التصدير، والاستثناء من تعاقد المشاريع، واتساق المعلومات، وقاعدة الـ 2026 للتسجيل - الاتساق.
+- ** H1 **** تصدير الكاراتين الصينيين - عملية التأهيل والرخص والتخليص
+- ** كلمة رئيسية رمزية**: استخدمت الصين عملية ترخيص تصدير السيارات
+- ** شروط البحث الثانية**: تصدير السيارات المستعملة في الصين؛ استخدام رخصة تصدير المركبات؛ المنطقة التجريبية؛ تصدير السيارات من جهة أخرى؛ ترخيص من حركة الطيران المدني
+- ** اقتراح مقدم من الاتحاد الأوروبي**: /إرشادات/أجهزة تستخدم السيارات - تجهيزات تصدير/
+- ** الحلقة الدراسية**: 企业如何取得二手车出口资质、办理转让登记、申领出口许可证并完成通关（含2026年新规）
 - ** Internal Link Suggestions**: /guides/china-export-customs-declaration-single-window/, /guides/used-chinese-ev-inspection-history/, /guides/verify-chinese-car-export-supplier-history/
-- **Schema Scope**: Article (no Product/Offer/Review)
+- ** نطاق الشيمة**: المادة (لا منتج/منتج/مراجعة)
 
-## Used-car export is a licensed, pilot-based business
-Unlike ordinary new-car export, used-vehicle export from China is restricted to **qualified enterprises in approved pilot areas** selected through the pilot mechanism, and it operates under an **export licence** regime. An enterprise cannot start exporting used cars simply because it has general trading rights. The pilot-area list expands over time and must be read from the current MOFCOM/government notice rather than a fixed list.
+## تصدير السيارات المستعملة هو مشروع تجاري مرخص ومستند إلى تجريبي
+وخلافاً لصادرات السيارات الجديدة العادية، تقتصر الصادرات من الصين إلى مشاريع مؤهلة في مجالات تجريبية معتمدة** تختار من خلال الآلية التجريبية، وتعمل في إطار نظام ترخيص التصدير**. ولا يمكن أن تبدأ المؤسسة في تصدير السيارات المستعملة لمجرد أنها تتمتع بحقوق تجارية عامة. وتتوسع قائمة المناطق التجريبية بمرور الوقت ويجب قراءتها من الإشعار الحالي الصادر عن اللجنة/الحكومة بدلا من قائمة ثابتة.
 
-## Qualification and the licence process
-The route runs through pilot-enterprise selection, obtaining the export licence (applied through the MOFCOM licensing system), then customs declaration and clearance. There is a defined **project-contracting exception** for used equipment/vehicles sent abroad under overseas contracted projects, which follows its own rules rather than the standard used-car trade licence.
+## المؤهلات وعملية الترخيص
+ويمر هذا المسار باختيار المؤسسات الرائدة، والحصول على رخصة التصدير (التي تطبق من خلال نظام الترخيص الخاص بلجنة البلدان الأفريقية لرصد الحدود)، ثم الإعلان الجمركي والتطهير. وهناك استثناء محدد ** تعاقد على المشاريع** فيما يتعلق بالمعدات/المركبات المستعملة المرسلة إلى الخارج في إطار مشاريع متعاقدة فيما وراء البحار، وهو ما يتبع قواعده الخاصة بدلا من الترخيص التجاري الموحد للسيارات المستعملة.
 
-## The 2026 information-consistency requirement
-Under the newer rule effective from 2026-01-01, registration and licence information must be **consistent**, and the licence carries a schedule of vehicles. A separate captured rule concerns units held for less than a defined period, which require an after-sales/maintenance-service confirmation; treat the exact threshold and form as time-sensitive and confirm against the current MOFCOM notice before relying on it.
+## الاحتياج إلى اتساق المعلومات البالغ 2026
+وبموجب القاعدة الجديدة التي تسري من 2026-01-01، يجب أن تكون المعلومات المتعلقة بالتسجيل والتراخيص متوافقة**، وأن يحمل الترخيص جدولا زمنيا للمركبات. وتتعلق قاعدة منفصلة مأخوذة بوحدات محتفظ بها لمدة تقل عن فترة محددة، وهي تتطلب تأكيدا بعد انتهاء الخدمة/الاستمرارية؛ وتعالج العتبة والشكل الدقيقين باعتبارهما مراعيين للوقت، وتتأكد من عدم الإخطار الحالي للجنة البحرية الدولية قبل الاعتماد عليه.
 
-## Consistency checks across the whole file
-Used-car export fails most often on inconsistent identity across the purchase/transfer record, the licence schedule, the customs declaration and the transport documents. VIN, model, mileage/condition documents and the consignee must line up. Because used units are unique (one VIN each), there is no "copy the last shipment" shortcut.
+## فحص المواظبة عبر الملف بأكمله
+وتفشل صادرات السيارات المستعملة في معظم الأحيان في عدم الاتساق في الهوية عبر سجل المشتريات/النقل، والجدول الزمني للتراخيص، والإعلان الجمركي، ووثائق النقل. يجب أن يصطف المرسل إليه، ونموذجه، ووثائقه المتعلقة بالكميات/الوضع. لأن الوحدات المستعملة فريدة (فردة من الشخصيات المهمة) لا يوجد طريق مختصر "استنساخ الشحنة الأخيرة"
 
-## Operating checklist
-1. Confirm the enterprise is a selected pilot-area qualified used-car exporter (current list).
-2. Apply for and obtain the export licence with the correct vehicle schedule.
-3. For overseas-project vehicles, use the project-contracting channel and documents.
+## قائمة مرجعية عن العمليات
+1. التأكد من أن المؤسسة هي منطقة نموذجية مختارة من البلدان المصدرة للسيارات المستعملة (قائمة جارية).
+2. تطبيق الحصول على رخصة التصدير مع الجدول الزمني الصحيح للمركبات.
+3. وبالنسبة لمركبات المشاريع الخارجية، تستخدم قناة ووثائق التعاقد مع المشاريع.
 4. Reconcile VIN/registration/customs/transport data; satisfy the 2026 consistency rule and any short-tenure after-sales confirmation.
-5. Declare through the Single Window and keep the chain for FX/tax handling.
+5. نقطع النافذة الوحيدة ونبقي السلسلة من أجل الـ (فاكس)
 
-## Boundaries
-The current pilot-city list and exact system screens are time-sensitive and are not reproduced; the licensing portal interface changes. Destination-country used-car import rules (age limits, steering, inspection) are country-specific and are not covered here.
+## الحدود
+والقائمة الحالية للمدن التجريبية وشاشات النظم الدقيقة مراعية للوقت ولا تستنسخ؛ وتغير واجهة بوابة الترخيص. وقواعد استيراد السيارات المستخدمة في بلد المقصد (حدود العمر، التوجيه، التفتيش) محددة في بلد معين ولا تشملها هذه القواعد.
 
 ## FAQ
-**Can any trading company export used cars?** No — it requires pilot-area qualified-enterprise status and an export licence.
-**What changes from 2026?** Stronger registration/licence information consistency and a scheduled-vehicle licence; confirm details in the current notice.
-**Is there an exception for overseas projects?** Yes, a project-contracting route exists with its own documents.
-**Where is the pilot-city list?** In the latest MOFCOM/government notice — do not rely on a static list.
-**Does this cover destination import rules?** No — those are separate and country-specific.
+** هل من أي شركة تجارية تُصدّر سيارات تستخدم؟** لا - يتطلب الأمر وضعاً تجريبياً من المؤسسات المؤهلة ورخصة تصدير.
+** ما هي التغييرات من 2026؟** (ج) زيادة اتساق المعلومات المتعلقة بالتسجيل/الرخصة، ورخصة مناظرة؛ وتأكيد التفاصيل في الإشعار الحالي.
+** هل هناك استثناء من المشاريع الخارجية؟** نعم، هناك طريق تعاقدي مع المشروع مع وثائقه الخاصة
+** أين قائمة المدينة التجريبية؟** وفي آخر إشعار من اللجنة/الحكومة - لا تعتمد على قائمة ثابتة.
+** هل تغطي هذه القواعد المتعلقة باستيراد الوجهة**؟ لا - تلك منفصلة ومحددة ببلدان محددة.
 
 
-## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
+## المصدر: التحقق
+| المصدر | المنظمة | السوق | النمور | الثقة | URL | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
-| 商务部等5部门关于二手车出口有关事项的公告 | 中华人民共和国商务部 | CN | T1 | VERIFIED | https://www.mofcom.gov.cn/zcfb/blgg/art/2024/art_20567344ed0a40059d338aa2114ab932.html | 许可证管理, 申领流程, 工程承包例外, 清关后2个月 |
-| 关于进一步扩大二手车出口业务地区范围的通知 | 中国政府网 | CN | T1 | VERIFIED | https://www.gov.cn/zhengce/zhengceku/2022-12/06/content_5730345.htm | 试点地区, 企业遴选与退出 |
-| 关于进一步加强二手车出口管理工作的通知（2025-11） | 中国政府网 | CN | T1 | VERIFIED | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-01-01新规, 登记一致性, 许可证附表 |
-| 二手车出口管理新政专题（2026-01-01起180天规则） | 中华人民共和国商务部 | CN | T1 | TIME_SENSITIVE | http://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_776097802fa640c38e45808ce98559e8.html | 不满180天须售后维修服务确认书 |
-| Ministry of Commerce (MOFCOM) | MOFCOM 商务部 | CN | T1 | VERIFIED | https://www.mofcom.gov.cn/ | competent authority for export licensing and export control |
-## Editorial Review
+| 商务部等5部门关于二手车出口有关事项的公告 | 中华人民共和国商务部 | CN | T1 | مفقود | https://www.mofcom.gov.cn/zcfb/blgg/art/2024/art_20567344ed0a40059d338aa2114ab932.html | 许可证管理, 申领流程, 工程承包例外, 清关后 2 个月 |
+| 关于进一步扩大二手车出口业务地区范围的通知 | 中国政府网 | CN | T1 | مفقود | https://www.gov.cn/zhengce/zhengceku/2022-12/06/content_5730345.htm | 试点地区, 企业遴选与退出 |
+| 关于进一步加强二手车出口管理工作的通知（2025-11） | 中国政府网 | CN | T1 | مفقود | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-01-01 新规, 登记一致性, 许可证附表 |
+| 二手车出口管理新政专题（2026-01-01起180天规则） | 中华人民共和国商务部 | CN | T1 | الوقت - | http://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_776097802fa640c38e45808ce98559e8.html | 不满180天须售后维修服务确认书 |
+| Ministry of Commerce (MOFCOM) | MOFCOM 商务部 | CN | T1 | مفقود | https://www.mofcom.gov.cn/ | السلطة المختصة بإصدار تراخيص التصدير ومراقبة الصادرات |
+| الإدارة العامة للجمارك الصينية - الإشراف على تصدير السيارات المستعملة | General Administration of Customs of China (海关总署 GACC) | CN | T1/T2 | مفقود | http://www.customs.gov.cn/ | الجمارك هي سلطة الإعلان/التطهير لشحنات تصدير السيارات المستعملة، مكمِّلة لترخيص حركة المركبات الجوية |
+| الرابطة الصينية لمتعهدي السيارات - هيئة صناعة تصدير السيارات المستعملة | China Automobile Dealers Association (中国汽车流通协会 CADA) | CN | T1/T2 | مفقود | http://www.cada.cn/ | سياق رابطة الصناعة بشأن تطوير تصدير السيارات المستعملة وممارسات المؤسسات (T2، وليس منظماً) |
+## استعراض التحرير
 - ** Author**: AutoBridge Export Editorial Team · [authors](/authors) · [Editorial Policy](editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: CN（中国出口侧）
-- **Verification method**: Desk research against the sources below; Chinese-market reference specification only unless a separate export market is explicitly cited.
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
+- ** لم يُستعرض بعد**: 2026-09-05
+- ** سوق الإحالة**: CN(中国出口侧)
+- ** طريقة الفرز**: بحوث مكتبية ضد المصادر الواردة أدناه؛ والمواصفات المرجعية للسوق الصينية فقط ما لم يُستشهد صراحة بسوق تصدير منفصلة.
+- ** الشفافية**: استُخدمت الصياغة المدعومة من منظمة العفو الدولية. وتستند هذه المادة إلى البحوث المكتبية وآلية الجودة. ولا يُزعم إجراء أي اختبار مباشر إلا إذا تم توثيقه بشكل صريح؛ ويؤكد متطلبات مراعية للوقت ومحددة للمقصد قبل التحول.
 
-## Image Record
-- ** none secured in repository
-- ** not captured
-- **SOURCE_PAGE**: not captured
-- ** unconfirmed
-- ** none secured — OEM webpage presence is not a commercial reuse licence
-- ** CHECKED_DATE**: 2026-09-05
-- ** exact Chinese Used-Car Export
+## سجل الصور
+- ** لم يُكفل أي شيء في مستودع
+- ** غير مسبوقة **
+- ** الموارد: لم يُقبض عليها
+- ** المصدر: الدليل: لا ينطبق - لم يحدد أي ملف إعلامي مرشح (لا رخصة للتأكيد)
+- ** مسلسل هولدر**: غير مؤكد
+- ** لا يوجد أي من هذه الصفحات مضمونة - ليس من حق المنظمة الحصول على ترخيص تجاري لإعادة الاستخدام
+- ** CHECKED_DATE**: 2026-09-06
+- ** موديل - توبيتش**: تصدير صينية مستعملة تماماً
+- ** MEIMAGE_SCOPE_NOTE**: يجب أن تتطابق الصورة مع النموذج المحدد للأسرة/المنظر فقط؛ ويجب ألا تنطوي على ثلاثية محددة، أو سنة نموذجية، أو تفتيش فعلي، أو عملية فعلية
 - **MAGE_Rights_STATUS**: FAIL
+- ** BLOCK_REASON**: لا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: لا يمكن الوصول إلى الشائعات/الفلك من بيئة البحوث، ولا تحتاج مكتبات المخزون إلى الوصول إلى نظام تسجيل الدخول/الرخصة الموثق، وصورة الموقع الشبكي لمنظمة أوم ليست منحة إعادة استخدام تجارية. لا توجد صورة مملوكة لـ(أوتومبريدج) وظل التسجيل في القوات المسلحة الفلسطينية بدلا من التأكيد عليه.
 - **ALT (12 languages)**:
   - **EN**: used car export licence, Chinese-market procurement guide export buyer reference
   - **FR**: used car export licence, procurement guide du marché chinois, référence acheteur export

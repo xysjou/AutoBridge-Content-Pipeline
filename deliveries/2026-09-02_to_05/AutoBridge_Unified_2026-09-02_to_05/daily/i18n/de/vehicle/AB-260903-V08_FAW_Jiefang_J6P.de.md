@@ -1,36 +1,36 @@
-# FAW Jiefang J6P Schwerer Traktor: Motor, Getriebe, Achse und GCW als Traktor-Spezifisch-Entscheidung gelesen
+# FAW Jiefang J6P Schwerzugmaschine: Motor, Getriebe, Achse und GCW als Traktor-Spezialentscheidung gelesen
 ## SEO Metadaten
 - **SEO Titel**: FAW Jiefang J6P Traktor Spezifikationen: Motor, GCW & Export Notes
-- **Meta Description**: Chinese-market FAW Jiefang J6P heavy tractor — Xichai CA6DM2 460 PS/2300 N·m China-VI diesel, 4×2/6×4/8×4 layouts, 10–16-speed gearboxes, ~40 t GCW class, and the export checks buyers need.
+- **Meta Description**: VR China Jiefang J6P schwerer Traktor — Xichai CA6DM2 460 PS / 2300 N·m China-VI Diesel, 4 × 2/6 × 4/8 × 4 Layouts, 10–16-speed Getriebe, ~ 40 t GCW Klasse, und die Export-Checks Käufer benötigen.
 - **Vorgeschlagene URL**: /Fahrzeuge/faw-jiefang- j6p-tractor-specs/
 - ** H1 **: FAW Jiefang J6P (Chinesischer Markt): Schwerer Traktorantrieb, Fahrwerk und Exportverifizierung
 - **Hauptschlüsselwort**: faw jiefang j6p Traktorspezifikationen
-- **Secondary Search Terms**: Jiefang J6P 460, CA6DM2 Motor, J6P 6x4 Traktor GCW, China VI Heavy Truck Export, J6P AMT Getriebe, Xichai 11 Liter Diesel
+- **Secondary Search Terms**: Jiefang J6P 460, CA6DM2 Motor, J6P 6x4 Traktor GCW, China VI Schwerlastwagenexport, J6P AMT Getriebe, Xichai 11 Liter Diesel
 - **Interne Linkvorschläge**: /Fahrzeuge/yutong- zk6122-coach-specs/; /Fahrzeuge/sany-concrete-mixer-truck-specs/; /guides/china-vehicle-export-license-Zoll-Dokumente/
-- **Bildvorschläge**: 6 × 4 Traktorseite; Xichai CA6DM2 Motor; 12-speed Getriebe; Tandemantriebsachse; Fahrerhausinnenraum
+- **Bildvorschläge**: 6 × 4 Traktorseite; Xichai CA6DM2 Motor; 12-speed Getriebe; Tandemantriebsachse; Innenraum des Fahrerhauses
 - **ALT Vorschläge**: "FAW Jiefang J6P 6x4 schwerer Traktor"; "J6P Xichai CA6DM2 Dieselmotor"
 
 ## Käuferkontext: Spec a Tractor by Driveline und GCW, nicht durch Badge
 Für einen schweren Zugmaschinen sind die entscheidenden Felder ** Motorhubraum und Drehmoment, Getriebe, Antriebsachsen, GCW-Klasse, Fahrerhaus und Chassis ** - keine trimmende Ausrüstung. Der J6P ist FAW Jiefangs lang laufende schwere Traktorserie, die in ** 4 × 2, 6 × 4 und 8 × 4 ** Antriebslayouts angeboten wird. Diese Seite ist eine **Chinesische Marktreferenz (REFERENCE MARKET: CHINA)**; jeder Traktor ist nach einem homologierten Modellcode konfiguriert und die Export-Emissions-/Achsenverhältnisse sind auftragsspezifisch.
 
 ## Motor (Anker eines Zugmaschinen-Anzeige)
-| Position | J6P " 460" China Referenz |
+| Position | J6P "460" China Referenz |
 |---|---|
-| Motor | Xichai **CA6DM2-46E6**, 11.05 L inline-6 diesel |
+| Motor | Xichai ** CA6DM2-46E6 **, 11.05 L Inline-6 Diesel |
 | Emission | China VI (国六) |
 | Strom | 338–341 kW (≈460 PS) |
-| Spitzendrehmoment | 2300 N·m @ 1000–1400 rpm |
+| Spitzendrehmoment | 2300 N·m bei 1000–1400 U/min |
 | Nachbehandlung | AGR + DOC + DPF + SCR (China VI / China VI-b) |
-The engine model and its 2300 N·m torque are cross-checked across two Chinese commercial-vehicle sources. A higher-tier **CA6DM3 13 L ≈560 PS ("3.0")** with a reported ~150,000 km long-drain interval is single-source and must be confirmed on the exact code rather than assumed.
+Das Motormodell und sein Drehmoment 2300 N·m werden über zwei chinesische Nutzfahrzeugquellen hinweg überprüft. Ein höherstufiges ** CA6DM3 13 L ≈ 560 PS ("3.0 ")** mit einem gemeldeten ~ 150,000 km Long-Drain-Intervall ist Single-Source und muss auf dem genauen Code bestätigt werden, anstatt angenommen zu werden.
 
 ## Getriebe, Achsen und GCW
-- **Getriebe: ** 10- bis 16-speed Handbücher (Beispiel ** CA12TAX260M 12-speed **), mit **AMT optional ** - geben Sie das genaue Modell an und ob AMT erforderlich ist.
-- **Antriebslayouts:** 4 × 2 / 6 × 4 / 8 × 4; Linienstrecken-Exportaufträge bewerten am häufigsten 6 × 4.
-- **GCW-Klasse:** die 6 × 4 befindet sich in der ungefähr ** 40-tonne GCW**-Klasse (Einzelquelle; bestätigen Sie die bewertete GCW auf dem Homologationszertifikat, da sie sich mit der Wahl der Achse / Reifen / Federung ändert).
+- **Getriebe: ** 10- bis 16-speed Handbücher (Beispiel ** CA12TAX260M 12-speed **), mit **AMT optional ** — geben Sie das genaue Modell an und ob AMT erforderlich ist.
+- **Antriebsanordnungen: ** 4 × 2 / 6 × 4 / 8 × 4; Ausfuhraufträge auf Strecken werden am häufigsten mit 6 × 4. bewertet
+- **GCW-Klasse:** der 6 × 4 befindet sich in der Klasse ** 40-tonne GCW** (Einzelquelle; bestätigen Sie die Bemessung des GCW auf der Homologationsurkunde, da sie sich mit der Wahl der Achse/Reifen/Aufhängung ändert).
 - Bestätigen Sie **das Verhältnis zwischen Endantrieb und Achse, Sattelradposition, Aufhängung (Blatt/Luft), Reifengröße und Tankkapazität** für das Gelände und die gesetzlichen Gewichte der Strecke.
 
 ## Fahrerhaus und Fahrwerk
-J6P bietet mehrere Kabinenvarianten (Tag/Schlaf, Dachhöhe) für Langstrecken- und Regionalarbeiten. Fahrwerk und Radstand unterscheiden sich durch die Antriebsanordnung und die vorgesehene Übereinstimmung des Sattelanhängers. Da die Kompatibilität von Zugmaschine + Anhänger marktspezifisch ist (Kingpin, Sattelkupplung, Sattelkupplung), notieren Sie diese auf dem Baublatt.
+J6P bietet mehrere Kabinenvarianten (Tag/Schlaf, Dachhöhe) für Langstrecken- und Regionalarbeiten an. Fahrwerk und Radstand unterscheiden sich durch die Antriebsanordnung und die vorgesehene Übereinstimmung des Sattelanhängers. Da die Kompatibilität von Zugmaschine + Anhänger marktspezifisch ist (Kingpin, Sattelkupplung, Sattelkupplung), notieren Sie diese auf dem Baublatt.
 
 ## Emissions- und Kraftstoffrealität
 China-VI-Dieselmotoren verwenden EGR + DOC + DPF + SCR und erfordern **ultra-schwefelarmen Diesel und DEF (AdBlue) **. Vor der Ausfuhr ist zu überprüfen, a ob der Schwefelgehalt des Bestimmungskraftstoffs das Abgasnachbehandlungssystem unterstützt, b ob China-VI akzeptiert wird oder ob eine andere Emissionsmessung erforderlich ist, und c die Bedingungen für die Partikelfilter-Regeneration unter Betriebsbedingungen. Ein China-VI-Traktor kann nicht einfach ohne eine technische / Zulassungsgrundlage "abgewichen" werden.
@@ -46,21 +46,24 @@ China-VI-Dieselmotoren verwenden EGR + DOC + DPF + SCR und erfordern **ultra-sch
 Es wurden kein statischer Ausfuhrpreis und kein chinesischer MEP erfasst; keiner wird erfunden. Erkundigen Sie sich bei **Zielland · Modellcode · Antriebslayout · Motor/Emission · LHD/RHD · Zielhafen · Incoterm**.
 
 ## Häufig gestellte Fragen
-**What engine is in the J6P 460?** The Xichai CA6DM2-46E6, an 11.05 L inline-6 China-VI diesel at about 460 PS and 2300 N·m.
-**Welche Laufwerkslayouts gibt es? ** 4 × 2, 6 × 4 und 8 × 4; 6 × 4 ist die gemeinsame Leitungsverbindung.
+**Welcher Motor ist im J6P 460? ** Der Xichai CA6DM2-46E6, ein 11.05 L Inline-6 China-VI Diesel bei etwa 460 PS und 2300 N·m.
+**Welche Antriebsanordnungen gibt es?** 4 × 2, 6 × 4 und 8 × 4; 6 × 4 ist die gemeinsame Leitungszugwahl.
 **Ist ein Automatikgetriebe verfügbar?** AMT ist optional neben 10–16-speed Handbücher; Nennen Sie das genaue Getriebemodell.
-**What is the GCW?** The 6×4 is in the ~40 t class, but rated GCW depends on axle/tyre/suspension — confirm on the certificate.
+**Was ist die GCW?** Der 6 × 4 ist in der Klasse ~ 40 t, aber bewertet GCW hängt von Achse / Reifen / Federung ab — auf der Bescheinigung bestätigen.
 **Kann ein China-VI-Traktor mit einem Diesel fahren?** Es benötigt ultraschwefelarmen Diesel plus DEF und ordnungsgemäße DPF-Bedingungen; Überprüfen Sie die Bestimmungskraftstoff- und Emissionsannahme vor der Bestellung.
 
 ## Bildaufzeichnung
 - IMAGE_ASSET_PATH: keine gesicherte Datei
 - ORIGINAL_IMAGE_URL: nicht erfasst
 - SOURCE_PAGE: nicht erfasst
+- SOURCE_FILE_PAGE: Entfällt — keine Kandidaten-Mediendatei identifiziert (keine Lizenz zur Geltendmachung)
 - RIGHTS_HOLDER: nicht bestätigt
 - LICENSE_OR_USAGE_BASIS: keine gesicherte — kein Bild von Dritten darf veröffentlicht werden, bis die Rechte gelöscht sind
-- CHECKED_DATUM: 2026-09-05
+- CHECKED_DATUM: 2026-09-06
 - MODEL_TOPIC_MATCH: muss mit dem genauen Modell/der genauen Version (oder dem Leitthema) und dem Referenzmarkt oben übereinstimmen
+- IMAGE_SCOPE_NOTE: nur die genaue Modellfamilie/das genaue Thema angeben; darf keine spezifische Trimm-/Modelljahr-, echte VIN-, persönliche Inspektion oder tatsächliche Transaktion implizieren
 - IMAGE_RIGHTS_STATUS: FAIL (kein lizenziertes Asset erfasst; ein Platzhalter oder ein Hinweis „altes Bild behalten wird nicht akzeptiert)
+- BLOCK_REASON: Es konnte kein wiederverwendbares Bild gesichert werden: Wikimedia Commons/Flickr sind aus der Forschungsumgebung nicht erreichbar, Lagerbibliotheken erfordern authentifizierten API/Lizenzzugriff und ein OEM-Webseitenbild ist KEIN kommerzielles Wiederverwendungsstipendium; es gibt kein AutoBridge-eigenes Foto. Nein, aber nicht nur vereitelt.
 - ALT nach Sprache:
   - **EN**: AutoBridge export-buyer reference — FAW Jiefang J6P, petrol/diesel Chinese-market vehicle / heavy tractor truck
   - **FR**: Référence AutoBridge pour acheteurs export — FAW Jiefang J6P, véhicule thermique (marché chinois) / tracteur routier lourd
@@ -78,17 +81,17 @@ Es wurden kein statischer Ausfuhrpreis und kein chinesischer MEP erfasst; keiner
 ## Quellen & Verifizierung
 | Quelle: | Organisation | Markt | URL | Geprüft | Vertrauen | Belegte Fakten |
 |---|---|---|---|---|---|---|
-| New J6P 460 (CA6DM2-46E6 / 2300 N·m) | Truck Home / Toutiao | CN | http://m.toutiao.com/group/7109372278135095819/ | 2026-09-03 | CROSS_CHECKED | Motormodell, Leistung/Drehmoment, China VI |
-| J6P comparison (CA6DM2-46E61, 341 kW) | Truck Home / Toutiao | CN | http://m.toutiao.com/group/7187639730950013444/ | 2026-09-03 | CROSS_CHECKED | 338–341 kW cross-check, drive layouts |
-| J6P 3.0 (CA6DM3 13 L 560 PS) | Truck Home / Toutiao | CN | http://m.toutiao.com/group/6919343124628374029/ | 2026-09-03 | SINGLE_SOURCEN | 13 L 560 PS, long-drain interval |
+| Neu J6P 460 (CA6DM2-46E6 / 2300 N·m) | Truck Home / Toutiao | CN | http://m.toutiao.com/group/7109372278135095819/ | 2026-09-03 | CROSS_CHECKED | Motormodell, Leistung/Drehmoment, China VI |
+| J6P Vergleich (CA6DM2-46E61, 341 kW) | Truck Home / Toutiao | CN | http://m.toutiao.com/group/7187639730950013444/ | 2026-09-03 | CROSS_CHECKED | 338–341 kW cross-check, Antriebsanordnungen |
+| J6P 3.0 (CA6DM3 13 L 560 PS) | Truck Home / Toutiao | CN | http://m.toutiao.com/group/6919343124628374029/ | 2026-09-03 | SINGLE_SOURCEN | 13 L 560 PS, Langablaufintervall |
 | Jiefang J6 Modell/Antrieb/Power Line | Douyin Encyclopedia | CN | https://m.baike.com/wiki/%E8%A7%A3%E6%94%BEJ6/2354654 | 2026-09-03 | SINGLE_SOURCEN | Layout/Linienhintergrund |
-| Straßenfahrzeughersteller und -produktkatalog — öffentliches Abfragesystem | MIIT, China Ministerium für Industrie und Informationstechnologie | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | ÜBERPRÜFUNG | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| Straßenfahrzeughersteller und -produktkatalog — öffentliches Abfragesystem | MIIT, China Ministerium für Industrie und Informationstechnologie | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | ÜBERPRÜFUNG | Überprüfen Sie den Hersteller, das zugelassene Modell und die Homologation (公告) Katalogeintrag vor der Bestellung oder Export |
 | GB 16735-2019 Straßenfahrzeuge — Anforderungen an die Fahrzeug-Identifizierungsnummer (VIN) | SAMR nationale Standards Volltext-Plattform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | ÜBERPRÜFUNG | VIN-Struktur und Typenschild-Datenfelder, die bei der Überprüfung der VIN/des Typenschilds des Käufers verwendet wurden |
-| GB 7258 Sicherheitstechnische Bedingungen (GB 7258-2017 aktuell; GB 7258-2026 gilt ab 2027-07-01) | SAMR, Staatliche Verwaltung für Marktregulierung | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | ÜBERPRÜFUNG | Technische Rahmenbedingungen für die Fahrzeugsicherheit in China und der aktuelle/revisionsbezogene Zeitplan |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Staatliche Verwaltung für Marktregulierung | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | ÜBERPRÜFUNG | Technische Rahmenbedingungen für die Fahrzeugsicherheit in China und der aktuelle/revisionsbezogene Zeitplan |
 | GB 17691-2018 Schadstoffemissionen schwerer Nutzfahrzeuge (China-VI) | Ministerium für Ökologie und Umwelt (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | ÜBERPRÜFUNG | Emissionsstufe China-VI (Schwerdiesel) für Lastkraftwagen/Kutschen |
-| GB 19147 Automobildieselkraftstoff nationaler Standard (Schwefelarme Basis) | SAMR nationale Standards Volltext-Plattform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | ÜBERPRÜFUNG | Dieselkraftstoffqualität und Schwefelbasis entsprechen dem Motor- / Emissionsdesign in Übersee |
+| GB 19147 Automobildieselkraftstoff nationale Norm (Schwefelarmbasis) | SAMR nationale Standards Volltext-Plattform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | ÜBERPRÜFUNG | Dieselkraftstoffqualität und Schwefelbasis entsprechen dem Motor- / Emissionsdesign in Übersee |
 
-*Vertrauensbeweis: kein FAW-Primärspezifikationsblatt erfasst wurde; the 460 engine/torque are cross-checked (CROSS_CHECKED), while the 13 L 560 PS and ~40 t GCW are single-source and bound to the homologated model code. China-VI Nachbehandlung Kompatibilität ist eine technische / Zulassungsprüfung, nicht angenommen. *
+*Vertrauensbeweis: kein FAW-Primärspezifikationsblatt erfasst wurde; Der Motor/das Drehmoment 460 wird abgeglichen (CROSS_CHECKED), während der 13 L 560 PS und ~ 40 t GCW Single-Source sind und an den homologierten Modellcode gebunden sind. China-VI Nachbehandlung Kompatibilität ist eine technische / Zulassungsprüfung, nicht angenommen. *
 
 ## Editorial Review
 - **Autor / Rezensent**: [AutoBridge Export Editorial Team](/Autoren/) · Methode nach unserer [Editorial Policy](/editorial-policy/]

@@ -1,84 +1,87 @@
-# Chinese EV Charging Standards Abroad: GB/T vs CCS2 vs CHAdeMO vs NACS Compatibility
+# الصينية المعايير التعريفية في الخارج: GB/T vs CCS2 vs CHAdeMO vs NACS Compatibility
 
 ## SEO Metadata
-- **SEO Title**: GB/T vs CCS2 vs CHAdeMO vs NACS: Chinese EV Export Compatibility
-- **Meta Description**: Will a Chinese-market EV charge in Europe, Japan or North America? GB/T 20234.3/27930 explained, the connector map by region, export-version inlets, adapters and the ChaoJi direction.
-- **Suggested URL**: /guides/chinese-ev-charging-standard-compatibility/
-- ** H1 **: Will a Chinese EV Charge Overseas? GB/T, CCS2, CHAdeMO and NACS Compatibility Explained
-- **Primary Keyword**: GB/T CCS2 CHAdeMO charging standard export compatibility
-- **Secondary Search Terms**: Chinese EV export charging adapter, GB/T 20234.3 DC fast charge, GB/T 27930 protocol, CCS2 export version EV, ChaoJi standard
-- **Internal Link Suggestions**: /vehicles/byd-yuan-plus/ ; /guides/right-hand-drive-chinese-cars/ ; /guides/used Chinese-ev-inspection/
-- **Image Suggestions**: world connector-standard map; GB/T vs CCS2 inlet comparison; factory export-version inlet; adapter compliance warning
-- **ALT Suggestions**: "World map of DC fast-charging connector standards"; "GB/T and CCS2 charging inlets side by side"; "Chinese EV export-version CCS2 inlet"
+- ** عنوان المنظمة**: GB/T vs CCS2 vs CHAdeMO vs NACS: Chinese EV Export Compibility
+- ** وصف البيانات**: هل سيكلف شركة "إي في" في السوق الصينية في أوروبا أو "اليابان" أو "أمريكا الشمالية"؟ وشرحت الوثيقة GB/T 20234.3/27930 خريطة الموصل حسب المنطقة، وخطوط تحويل الصادرات، ومكيفات، وتوجه تشاو جي.
+- ** اقتراح مقدم من الاتحاد الأوروبي**: /إرشادات/مطابقة معالم الدين الصيني/الدفع
+- ** H1 ** هل سيشحن "إي في" صيني في الخارج؟ GB/T, CCS2, CHAdeMO and NACS Compatibility Explained
+- ** كلمة رئيسية رمزية**: GB/T CCS2 CHAdeMO تحمل تطابقاً معيارياً للصادرات
+- ** شروط البحث الثانية**: مكيف التصدير الصيني من طراز EV، وشحنة سريعة من طراز GB/T 20234.3 DC، وبروتوكول GB/T 27930، وCCS2 نسخة تصديرية من طراز EV، ومقياس تشاوجاي
+- ** مقترحات داخلية للربط**: /حلقات/حلقات دراسية/مزيدة/؛ و/أو مبادئ توجيهية/محركة صينية مباشرة/سيارات/أغويل/مفتشية/مستعملة من الصين
+- ** اقتراحات بشأن الشكل**: خريطة عالمية معيارية للربط؛ مقارنات بين GB/T و CCS2 من الحرف؛ مدخل تحويل الصادرات في المصنع؛ تحذير بشأن الامتثال
+- ** اقتراحات بشأن " خريطة عالمية لمعايير الربط السريع في العاصمة " ؛ و " GB/T و CCS2 شحنة من الجانحين " ؛ و " Chinese EV export-version CCS2 inlet "
 
-## Why the Connector Decides Whether the Car Is Usable
+## لماذا يقرر المُدير ما إذا كانت السيارة صالحة للاستعمال
 
-A Chinese-domestic EV that passes customs can still be effectively unusable if its charging inlet does not match the public charging network. Charging compatibility is a **physical connector plus communication-protocol** problem, not a brand preference, and it must be resolved **before** the vehicle is specified for export — retrofitting an inlet after arrival is costly and sometimes non-compliant.
+ولا يزال من غير الممكن استخدام أي جهاز تصويري صيني محلي يجتاز الجمارك بشكل فعال إذا لم يطابق شاحنته للشبكة العامة للشحن. والتوافق بين الشحنات هو مشكلة اتصال كيميائي زائد مشكلة الاتصالات - بروتوكول التراسل**، وليس أفضلية تجارية، ويجب حلها ** قبل** أن تحدد السيارة لأغراض التصدير - إعادة تجهيز مدخل بعد الوصول مكلفة وأحيانا غير ممتثلة.
 
-## The Standards Map (DC Fast Charging)
+## خريطة المعايير (الرسم السريع)
 
-| Standard | Primary deployment | Notes |
+| المعيار | النشر الابتدائي | الحواشي |
 |---|---|---|
-| ** GB/T 20234.3 ** (DC) + **GB/T 27930 ** (CAN communication) | China (domestic Chinese vehicles) | GB/T 20234.3-2023 raises the upper limit to **1500 V / 800 A** (cross-checked industry sources) |
-| ** CCS2 (Combo 2)* ♪ | Europe and many export markets | Combined AC/DC inlet; dominant in the EU |
-| ** CCS1 (Combo 1)* ♪ | North America | Regional variant of CCS |
-| ** CHAdeMO** | Japan and selected markets | Originated in Japan |
-| ** | North America | Deploying across North America (2026 rollout timing not officially verified here) |
+| ** GB/T 20234.3 ** (DC) + **GB/T 27930 ** (CAN communication) | الصين (مركبات صينية محلية) | GB/T 20234.3-2023 raises the upper limit to **1500 V / 800 A** (cross-checked industry sources) |
+| ** CCS2 (Combo 2)** | أوروبا والعديد من أسواق التصدير | مدخل مجمع لمركبات الكربون المصفحة/التجمعات المتعددة الأطراف؛ مهيمن في الاتحاد الأوروبي |
+| ** CCS1 (Combo 1)** | أمريكا الشمالية | البديل الإقليمي لدائرة حفظ الموارد البحرية الحية في أنتاركتيكا |
+| ** CHAdeMO** | اليابان وأسواق مختارة | منشأ في اليابان |
+| ** | أمريكا الشمالية | النشر في أنحاء أمريكا الشمالية (لم يتم التحقق رسميا من 2026 توقيت بدء التشغيل) |
 
-These DC connectors are **physically mutually incompatible**: you cannot plug a GB/T gun into a CCS2 socket. The AC (slow/overnight) inlet likewise differs by market and must be checked separately — a car may fast-charge on one standard while its AC inlet still needs attention.
+هذه الموصلة في العاصمة غير متوافقة بشكل ظاهر**: لا يمكنك أن تسحب مسدساً من نوع جي بي تي إلى جوربة CCS2 كما تختلف هذه المجموعة (الناظرة/الليلوية) عن السوق ويجب فحصها بصورة منفصلة - ويمكن أن تشحن سيارة بسرعة على معيار واحد بينما لا تزال مركبتها بحاجة إلى الاهتمام.
 
-## What "Chinese-Market GB/T" Means in Practice
+## ما معنى "المريخ الصيني" "جي بي" و"تي" في الممارسة العملية
 
-Domestic Chinese EVs generally ship with **GB/T** DC charging and the GB/T 27930 CAN-based communication handshake. When the destination network predominantly runs **CCS2 (Europe), CHAdeMO (Japan) or NACS/CCS1 (North America)**, this creates the compatibility bottleneck an importer must design around. Crucially, **GB/T and CCS2 have no direct physical compatibility — an adapter is required to bridge them** (per an EVSE industry comparison), and an adapter must also make the communication handshake work, not merely fit mechanically.
+وتشحن المركبات الإلكترونية الصينية المحلية عموماً بشحنات من طراز **GB/T**، وشحنات من طراز GB/T 27930 التي يمكن أن تستند إلى الاتصالات. وعندما تدار شبكة المقصد في معظمها ** CCS2 (أوروبا)، أو شياديو (اليابان) أو NACS/ CCS1 (أمريكا الشمالية)**، فإن ذلك يخلق اختناقات التوافق التي يجب على المستورد أن يصممها. ومن الناحية النظرية، لا يوجد توافق فعلي مباشر بين الجنسين وثنائي الفينيل العشاري البروم وCCS2 - بل يلزم أن يربطها المكيف** (في إطار مقارنة لصناعة EVSE)، ويجب على المكيِّف أيضا أن يجعل من عمل المصافحة اليدوية في الاتصالات لا مجرد عمل ميكانيكي.
 
-## Three Ways to Solve It — in Order of Preference
+## ثلاث طرق لـ "سولف" - في ترتيب التفوق
 
-1. **Order the factory export version with the destination inlet.** Many Chinese manufacturers build export-market variants fitted with the target connector (e.g., CCS2) rather than the domestic GB/T inlet. This is the cleanest route because inlet, onboard software and certification are aligned. Confirm the exact connector **per VIN/model on the brand's official export configuration** — domestic and export versions of the "same" model differ.
-2. **Use a certified adapter (GB/T ↔ destination).** Where a factory export version is unavailable, an adapter bridges physical/communication differences. Treat this as a compliance question, not just hardware: **some markets restrict adapter use**, and adapter certification/legal status was not captured from an official source — verify locally and carry the adapter's certification documents. Adapter charging speed and handshake reliability should be tested before fleet rollout.
-3. **Solve it on the infrastructure side.** Depot/fleet operators can install GB/T-capable chargers at their own premises, removing dependence on the public network — viable for closed fleets, not for retail customers who rely on public stations.
+1. ** نسخة تصدير المصنع مع مدخل المقصد**. ويقوم العديد من الصانعين الصينيين ببناء متغيرات سوق التصدير المجهزة بالوصل المستهدف (مثلاً، CCS2) بدلاً من مدخل GB/T المحلي. هذا هو أنظف طريق لأن البرمجيات المتحركة والمعتمدة على متن السفينة متوائمة. تأكد من الموصل الدقيق لـ (فاي إن) و (موديل) على شكل التصدير الرسمي للعلامة التجارية** نسخ محلية وصادرة من نموذج "سام" تختلف
+2. ** استخدام مكيف معتمد (مقصد GB/T ↔)**. وفي الحالات التي لا تتوفر فيها نسخة تصديرية من المصنع، يُحدث المكيّف فروقاً مادية/عملية. تعامل هذا كسؤال عن الامتثال، ليس فقط المعدات: الأسواق التي تُقيّد استخدام المكيّف**، وشهادة المكيّف/الوضع القانوني لم تُستَرَد من مصدر رسمي - التحقق من محليّة وحمل وثائق تصديق المُتطوّر. يجب اختبار درجة المصافحة و المصافحة قبل بدء تشغيل الأسطول
+3. ** عزله على جانب الهياكل الأساسية**. ويمكن لمشغلي المستودعات/الكميات أن يركّزوا أجهزة الشحن ذات القدرة على الدفع من نوع GB/T في أماكن عملهم، مما يزيل الاعتماد على الشبكة العامة - وهي صالحة للأساطيل المغلقة، وليس للعملاء التجزئة الذين يعتمدون على المحطات العامة.
 
-## ChaoJi: the Future Direction, Not Today's Default
+## "تشو جي" "المستقبل" "التوجه" "ليس اليوم"
 
-The China–Japan **ChaoJi** ultra-fast-charging project is designed so that a common physical interface is compatible across **GB/T, CHAdeMO and CCS** systems, and is regarded as a future DC standardisation direction (per an official CHAdeMO Association document). It is forward-looking context: do **not** assume a current production GB/T vehicle already benefits from ChaoJi — verify model support officially before using it as a selling point.
+الصين - اليابان ** صمم مشروع تشاو جي** الذي يُدفع على أعلى وجه لكي يكون هناك تفاعل مادي مشترك متوافقاً مع نظم الـ **GB/T، وCAdeMO، وCCS**، ويعتبر هذا المشروع بمثابة اتجاه لتوحيد المقاييس في المستقبل في البلدان النامية (في وثيقة رسمية من وثائق رابطة كومنولث شواديمو). وهو سياق تطلعي: يفترض أن تكون مركبة إنتاجية من طراز GB/T تستفيد بالفعل من شاو جي - تحقق من الدعم النموذجي رسميا قبل استخدامها كنقطة بيع.
 
-## What AutoBridge Adds Beyond a Connector Chart
-A standards chart tells you GB/T differs from CCS2; it does not tell you whether *this VIN* will charge. The recommended method is to record **physical inlet, handshake protocol and onboard-charger rating as one VIN-bound note**, distinguish a **hardware adapter (mechanical only) from a protocol gateway (GB/T 27930 handshake)** in the purchase file, and confirm the **adapter's legality and warranty effect in the destination** before deposit rather than after arrival.
-## Per-Vehicle Verification Matrix
+## ما يضيفه (أوت بريدج) إلى أبعد من مُدير (كونيكتور)
+ويُخبرك مخطط المعايير أن (جي بي)/تي) تختلف عن CCS2؛ ولا يُخبرك ما إذا كان هذا الرقم سيُحمّل. الطريقة الموصى بها هي تسجيل مدخل فيزياء، وبروتوكول المصافحة اليدوية، وتصنيف الشحنات على متن الطائرة كمذكرة واحدة تحمل الرقم السري**، والتمييز بين مكيف البرمجيات (الميكانيكية فقط) من بوابة بروتوكول (GB/T 27930)** في ملف الشراء، وتأكيد شرعية المسافر وأثره الأكيد في الوجهة** قبل الإيداع وليس بعد الوصول.
+## مصفوفة التحقق من بعد المركبات
 
-For every model/trim you export, record in a sheet:
+لكل نموذج/رات تُصدرها، سجل في ورقة:
 
-- Domestic inlet: GB/T DC + AC inlet type
-- Available factory export inlet(s): CCS2 / CHAdeMO / NACS / CCS1 by VIN
-- Communication protocol and whether the export firmware supports the destination handshake
-- If adapter-based: adapter model, certification, max current/voltage and local legality
-- Public-network reality in the destination (dominant DC standard; AC socket standard)
-- Warranty implications of any inlet/adapter modification
+- منصة محلية: GB/T DC + AC في شكل حرف
+- مدخل (ملحقات) التصدير المتاحة للمصنع: CCS2 / CHAdeMO / NACS / CCS1 by VIN
+- بروتوكول الاتصالات وما إذا كانت شركة التصدير تدعم المصافحة اليدوية للمقصد
+- إذا كان المكيّف قائماً على: نموذج المكيّف، التصديق، الحد الأقصى للجواز/الفولطية، والشرعية المحلية
+- واقع الشبكة العامة في المقصد (معيار البلدان النامية المهيمنة؛ معيار المجموعة AC)
+- الآثار المترتبة على أي تعديل في الخيوط/المعدلات
 
-## Before Payment
+## قبل الدفع
 
-- Confirm the destination's dominant DC **and** AC connector standards.
-- Obtain the brand's official export-version connector confirmation for the exact VIN — do not infer from the domestic spec.
-- If relying on an adapter, confirm local legality/certification and test a real fast-charge session.
-- For fleets, decide whether depot chargers remove public-network dependence.
-- Treat ChaoJi claims as future-facing unless officially confirmed for the unit.
+- تأكد من مقصد المُسيطر على العاصمة **و**و معايير التواصل لـ "أي سي
+- الحصول على تأكيد الوصل الرسمي لتحول الصادرات للفي إن - لا يُستدل من المواصفات المحلية.
+- وإذا ما اعتمد على مكيف، يؤكد المشروعية/التصديق على الصعيد المحلي ويختبر دورة سريعة جدا.
+- بالنسبة للأسطول، يقرروا ما إذا كان مستأجرو المستودعات يزيلون تبعية الشبكة العامة.
+- تعاملي مع (تشو جي) وتدعي أنها ستواجه مستقبلاً ما لم يتم تأكيدها رسمياً للوحدة
 
-## Frequently Asked Questions
+## الأسئلة المتكررة
 
-**Can a Chinese GB/T EV charge directly on European CCS2?** No — GB/T and CCS2 are physically incompatible; you need a factory CCS2 export version or a suitable, locally compliant adapter.
-**What is GB/T 27930?** It is the CAN-based communication protocol used alongside the GB/T 20234.3 DC connector in China; the handshake matters as much as the plug shape.
-**Is an adapter a permanent solution?** It can bridge the gap, but adapter legality varies by market and speed/reliability should be tested; the factory export inlet is preferred.
-**Do Chinese brands sell CCS2 versions?** Many build export variants with the destination connector — confirm per model/VIN on official export configuration rather than assuming.
-**Does ChaoJi make all connectors compatible now?** ChaoJi is a designed-for-compatibility future direction; current production cars still need per-model confirmation.
+** هل تحمل رسوماً صينية من نوع GB/T EV مباشرة على CCS2 أوروبي؟** لا - إن GB/T و CCS2 غير متوافقين ماديا؛ تحتاج إلى مصنع CCS2 نسخة تصديرية أو مكيف مناسب ومتوافق مع المحلي.
+** ما هو GB/T 27930؟** وهو بروتوكول اتصال قائم على أساس مجموعة الـ (Ca) يستخدم إلى جانب موصل (GB/T 20234.3 DC) في الصين؛ والمصافحة اليدوية هي التي تُعدّ بقدر ما هي شكل الثقوب.
+** هل هو مكيف حل دائم؟** ويمكن أن يُسد الفجوة، ولكن تتفاوت شرعية التكييف بالسوق، وينبغي اختبار السرعة/الاعتماد؛ ويُفضل أن يكون مدخل التصدير في المصنع.
+** هل تبيع العلامات التجارية الصينية CCS2 نسخة؟** ويبني العديد من متغيرات التصدير مع موصل الوجهة - يؤكدون على النموذج/الشبكة المالية للصادرات الرسمية بدلا من افتراض ذلك.
+** هل تُدعى "شاو" جي) تجعل جميع الموصلات متوافقة الآن؟) وتشاو جي هو اتجاه مصمم لتحقيق التوافق في المستقبل؛ ولا تزال سيارات الإنتاج الحالية بحاجة إلى تأكيدات في النموذج الواحد.
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
+## سجل الصور
+- لم يُؤمن أي منها في مستودع
 - ORIGINAL: IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
+- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
+- الحقوق - حقوق غير مؤكدة
+- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
+- CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
+- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات ويكيميو/فلكر غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات المسبقة/الرخصة، وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
 - ALT by language:
   - **EN**: AutoBridge export-buyer reference — EV charging-standard compatibility GB/T CCS CHAdeMO NACS, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — EV charging-standard compatibility GB/T CCS CHAdeMO NACS, guide d’achat à l’export automobile
@@ -93,23 +96,23 @@ For every model/trim you export, record in a sheet:
   - **AR**: مرجع AutoBridge لمشتري التصدير — EV charging-standard compatibility GB/T CCS CHAdeMO NACS, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜EV charging-standard compatibility GB/T CCS CHAdeMO NACS, 汽车出口采购指南
 
-## Sources & Verification
+## المصدر: التحقق
 
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
-| ChaoJi standard presentation (official) | CHAdeMO Association (standards body) | CN/JP/Global | https://www.chademo.com/wp2016/wp-content/uploads/ChaoJi202006/ChaoJi_Presenataion_EN.pdf | 2026-09-02 | VERIFIED | ChaoJi designed compatible with GB/T/CHAdeMO/CCS |
-| Charging-standard certification paths | Huayu Testing (certification body) | Global | http://www.huayutest.com/zixun/87747.html | 2026-09-02 | CROSS_CHECKED | CHAdeMO/CCS regional deployment, certification differences |
-| Charging connector standards | cehome (industry media) | CN | https://m.cehome.com/news/20260809/389612.shtml | 2026-09-02 | CROSS_CHECKED | GB/T 20234.3-2023 1500V/800A, GB/T 27930, ChaoJi |
-| GB/T, CCS2, Type 2, NACS, CHAdeMO compared | evse-chargers.com (industry) | Global | https://www.evse-chargers.com/news/understanding-ev-charging-standards-gb-t-ccs2-type-2-nacs-and-chademo-compared-283319.html | 2026-09-02 | CROSS_CHECKED | GB/T/ CCS2 requires adapter; compatibility specmel |
-| Guide to global EV charging standards | MARUIKEL (industry) | Global | https://www.maruikel.com/es/blog/guide-to-global-ev-charging-standards-type-1-type-2-ccs-chademo-gbt.html | 2026-09-02 | CROSS_CHECKED | Domestic GB/T vs export-version destination connector |
-| GB/T-to-CHAdeMO adapter B2B guide | Electric Auto China (industry) | Global | https://www.electricautochina.com/comprehensive-b2b-guide-to-gbt-to-chademo-adapters-for-exported-chines/ | 2026-09-02 | CROSS_CHECKED | Export compatibility bottleneck |
+| عرض معياري لـ تشاو جي (رسمي) | رابطة السامو (هيئة المعايير) | CN/JP/Global | https://www.chademo.com/wp2016/wp-content/uploads/ChaoJi202006/ChaoJi_Presenataion_EN.pdf | 2026-09-02 | مفقود | صُممت (شاو جي) متوافقة مع GB/T/CHAdeMO/CCS |
+| مسارات التصديق على المستوى المعياري | اختبار هويو (هيئة التصديق) | Global | http://www.huayutest.com/zixun/87747.html | 2026-09-02 | صرخات | النشر الإقليمي للرابطة/المركز الاستشاري للشؤون الاقتصادية والاجتماعية، الفروق في التصديق |
+| معايير الربط | سيهوم (وسائط الصناعة) | CN | https://m.cehome.com/news/20260809/389612.shtml | 2026-09-02 | صرخات | GB/T 20234.3-2023 1500V/800A, GB/T 27930, ChaoJi |
+| GB/T, CCS2, Type 2, NACS, CHAdeMO compared | evse-chargers.com (industry) | Global | https://www.evse-chargers.com/news/understanding-ev-charging-standards-gb-t-ccs2-type-2-nacs-and-chademo-compared-283319.html | 2026-09-02 | صرخات | GB/T/ CCS2تطلب مكيّفا؛ مصفوفة التوافق |
+| دليل المعايير العالمية لشحنات الغلاف الجوي | مارويكل)الصناعة( | Global | https://www.maruikel.com/es/blog/guide-to-global-ev-charging-standards-type-1-type-2-ccs-chademo-gbt.html | 2026-09-02 | صرخات | موصل بين مقصد تحويل الصادرات وثنائي الفينيل العشاري المحلي/التي ضد مقصد تحويل الصادرات |
+| GB/T-to-CHAdeMO adapter B2B guide | كهرباء صين (صناعات) | Global | https://www.electricautochina.com/comprehensive-b2b-guide-to-gbt-to-chademo-adapters-for-exported-chines/ | 2026-09-02 | صرخات | ازاء اختناقات التوافق في الصادرات |
 
-*Confidence note (AutoBridge standard): standard-level facts are VERIFIED/CROSS_CHECKED (CHAdeMO Association is a standards body). Per-model export connectors, adapter legality by country and NACS rollout timing were not captured and must be confirmed per VIN and per destination authority.*
+* مذكرة مصداقية (معيار أوتوبيريدج): الحقائق القياسية هي: الرابطة هي هيئة معايير. ولم يتم القبض على موصلات التصدير ذات النموذج الأولي، وتوقيت بدء التنفيذ في البلد وتوقيت بدء تطبيق نظام مراقبة الصادرات الوطنية، ويجب تأكيدها حسب شبكة المعلومات الخاصة بالخطر وسلطة المقصد. ♪
 
-## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: Global (China export side; EU/JP/NA deployment)
-- **Verification method**: Standards-body document plus cross-checked industry sources; model-specific connectors left to official per-VIN confirmation
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+## استعراض التحرير
+- ** مستعرض/مراجع**: [فريق تحرير تصدير أوتو بريدج] (/مؤلف/) - طريقة لكل [سياستنا الانتخابية] (/سياسة التحرير/)
+- ** لم يُستعرض بعد**: 2026-09-05
+- ** سوق الإحالة**: عالمي (جانب التصدير في الصين؛ نشر الاتحاد الأوروبي/الحزب الجامايكي/الناخب الجديد)
+- ** طريقة الفرز**: وثيقة مجموعة المعايير بالإضافة إلى مصادر صناعية مدققة؛ ووصلات نموذجية محددة تركها عملية إقرار رسمية لكل شبكة معلومات عن المعلومات
+- ** المعيار الإفريقي**: باحثة ومحررة من المصادر المذكورة أعلاه (بحوث مكتبية؛ ولا يُدَّعى عن أي قيادة مباشرة أو تمزق أو استيراد). وتظهر الثقة في المصدر في الصف الواحد؛ وأي نقطة لا يمكننا تأكيدها بشكل مستقل تعرض كبند تحقق بدلا من التأكيد على أنها حقيقة.
 #AutoBridge #ChargingStandards #GBTvsCCS #EVExport #ConnectorCompatibility

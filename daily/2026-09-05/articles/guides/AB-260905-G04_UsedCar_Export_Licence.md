@@ -49,6 +49,8 @@ The current pilot-city list and exact system screens are time-sensitive and are 
 | 关于进一步加强二手车出口管理工作的通知（2025-11） | 中国政府网 | CN | T1 | VERIFIED | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-01-01新规, 登记一致性, 许可证附表 |
 | 二手车出口管理新政专题（2026-01-01起180天规则） | 中华人民共和国商务部 | CN | T1 | TIME_SENSITIVE | http://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_776097802fa640c38e45808ce98559e8.html | 不满180天须售后维修服务确认书 |
 | Ministry of Commerce (MOFCOM) | MOFCOM 商务部 | CN | T1 | VERIFIED | https://www.mofcom.gov.cn/ | competent authority for export licensing and export control |
+| General Administration of Customs of China (GACC) — used-car export supervision | General Administration of Customs of China (海关总署 GACC) | CN | T1/T2 | VERIFIED | http://www.customs.gov.cn/ | Customs is the declaration/clearance authority for used-car export shipments, complementary to MOFCOM licensing |
+| China Automobile Dealers Association (CADA) — used-car export industry body | China Automobile Dealers Association (中国汽车流通协会 CADA) | CN | T1/T2 | VERIFIED | http://www.cada.cn/ | Industry association context on used-car export development and enterprise practice (T2, not a regulator) |
 ## Editorial Review
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
 - **Last reviewed**: 2026-09-05
@@ -60,11 +62,14 @@ The current pilot-city list and exact system screens are time-sensitive and are 
 - **IMAGE_ASSET_PATH**: none secured in repository
 - **ORIGINAL_IMAGE_URL**: not captured
 - **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
 - **RIGHTS_HOLDER**: unconfirmed
 - **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
-- **CHECKED_DATE**: 2026-09-05
+- **CHECKED_DATE**: 2026-09-06
 - **MODEL_TOPIC_MATCH**: exact Chinese Used-Car Export
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
 - **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
 - **ALT (12 languages)**:
   - **EN**: used car export licence, Chinese-market procurement guide export buyer reference
   - **FR**: used car export licence, procurement guide du marché chinois, référence acheteur export

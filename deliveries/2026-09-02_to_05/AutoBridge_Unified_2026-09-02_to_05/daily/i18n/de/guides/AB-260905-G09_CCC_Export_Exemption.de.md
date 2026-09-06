@@ -3,11 +3,11 @@
 ## SEO Metadaten
 - **SEO-Titel**: CCC-Zertifizierung und Fahrzeugexport: Braucht ein exportiertes Auto China CCC und wann die Freistellung gilt
 - **Meta Description**: Ob die China CCC-Zeugnispflicht für Fahrzeuge gilt: CCC-Anwendungsbereich und Einreiseverifizierung, warum Produkte, die ausschließlich für den Export hergestellt werden, außerhalb der inländischen Marktregelung liegen, und die Kategorien der Freistellungsscheine.
-- ** H1 **: CCC Obligatorische Zertifizierung und Exportierte Fahrzeuge - Anwendungsbereich und Freistellung
+- ** H1 **: CCC Obligatorische Zertifizierung und Exportierte Fahrzeuge — Anwendungsbereich und Freistellung
 - **Hauptschlüsselwort**: ccc-Zertifizierung Exportbefreiung
-- **Secondary Search Terms**: CCC-Zertifizierung; 3C certificate; Ausfuhrbefreiung; obligatorische Produktzertifizierung; CCC-Befreiungsschreiben
+- **Secondary Search Terms**: CCC-Zertifizierung; 3C Bescheinigung; Ausfuhrbefreiung; obligatorische Produktzertifizierung; CCC-Befreiungsschreiben
 - **Vorgeschlagene URL**: /guides/ccc-certification-export-exemption/
-- **Search Intent**: 厘清CCC适用范围（出厂/销售/进口/经营使用），纯出口产品与免办证明的边界与办理
+- **Search Intent**: 厘清 CCC 适用范围 (出厂 / 销售 / 进口 / 经营使用), 纯出口产品与免办证明的边界与办理
 - **Interne Linkvorschläge**: /guides/china-export-zoll-deklaration-single-window/, /guides/certificate-of-conformity-type-approval-history/, /guides/ckd-skd-knockdown-kit-export-assembly/
 - **Schema-Scope**: Artikel (kein Produkt/Angebot/Review)
 
@@ -17,7 +17,7 @@ CCC (China Compulsory Certification) ist Chinas **Inlandsmarkt** obligatorisches
 ## Die Ausfuhrgrenze
 Waren, die **völlig für den Export** hergestellt wurden, gelangen nicht auf den chinesischen Inlandsmarkt und werden nicht auf ihn gebracht; das CCC-Regime zielt auf die Platzierung des Inlandsmarktes und den Import nach China ab. Die Bestimmungsmarktzertifizierung (Ganzfahrzeug-Typgenehmigung, e-mark/GCC/etc.) ist eine **separate, ausländische Anforderung** und wird niemals durch ein chinesisches CCC-Zertifikat erfüllt.
 
-## When an exemption (免办) is the correct instrument
+## Wenn eine Befreiung (免办) das richtige Instrument ist
 Wenn ein in der CCC-Liste aufgeführtes Produkt vorübergehend oder zu einem von den Vorschriften ausgenommenen Zweck in China eintrifft — beispielsweise für Komponenten, die zum Zwecke der vollständigen Aufnahme und Wiederausfuhr eingeführt werden, bestimmte Ausstellungs-/Prüf-/Reparaturwarensituationen — wird ein **Befreiungsantrag** über das CNCA-Befreiungssystem (cccmb.cnca.cn) unter den definierten Kategorien gestellt. Die Befreiung ist kategoriebasiert und dokumentiert; es ist kein verbaler Verzicht.
 
 ## Entscheidungssequenz für einen Ausführer
@@ -41,17 +41,19 @@ Der CCC-Katalog und die Ausnahmekategorien werden aktualisiert; verwenden Sie de
 ## Quellen & Verifizierung
 | Quelle | Organisation | Markt | Tier | Vertrauen | URL | Belegte Fakten |
 |---|---|---|---|---|---|---|
-| 强制性产品认证管理规定 | 国家市场监督管理总局 | CN | T1 | ÜBERPRÜFUNG | https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_1fb2082e0cca45cbb8e70b4a33e15e99.html | CCC适用范围, 入境验证, 免办情形 |
-| 强制性产品认证管理规定（认监委） | 国家认证认可监督管理委员会 | CN | T1 | ÜBERPRÜFUNG | https://www.cnca.gov.cn/zwxx/bmgz/art/2015/art_e211a67d9e4d4a8ea25a5c2390a417f0.html | 主管部门, 认证后方可出厂销售进口使用 |
-| 企业申请CCC免办业务（条件与系统） | 国家认证认可监督管理委员会 | CN | T1 | ÜBERPRÜFUNG | https://www.cnca.gov.cn/hlwfw/ywxt/rzjgxxbszn/rzjghqyxybsnxxx/rzjghqyxybsnxxx/xzspsx/art/2021/art_0d573f87af7d4b4586ef7e5b7dcbf28d.html | 免办条件, cccmb.cnca.cn系统 |
-| 认监委2005年第3号公告（无需/免办CCC条件） | 国家认证认可监督管理委员会 | CN | T1 | ÜBERPRÜFUNG | https://www.cnca.gov.cn/hlwfw/ywzl/qzxcprz/CCCmb/art/2013/art_8feb350f605e4c9da85d8a4a203f30ff.html | 免办具体情形 |
-| 免予办理强制性产品认证证明（受理条件示例） | 安徽省人民政府 | CN | T1 | ÜBERPRÜFUNG | https://www.ah.gov.cn/site/tpl/7091?cswd=2222&ssqdId=4028e69f84d033380185c7c09c5058fa&ssqdCode=521edb32dd8c45938651ec2edce21ddc&activeId=6785131 | 以整机全数出口为目的进口的零部件免办等 |
+| 强制性产品认证管理规定 | 国家市场监督管理总局 | CN | T1 | ÜBERPRÜFUNG | https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_1fb2082e0cca45cbb8e70b4a33e15e99.html | CCC 适用范围, 入境验证, 免办情形 |
+| 强制性产品认证管理规定 (认监委) | 国家认证认可监督管理委员会 | CN | T1 | ÜBERPRÜFUNG | https://www.cnca.gov.cn/zwxx/bmgz/art/2015/art_e211a67d9e4d4a8ea25a5c2390a417f0.html | 主管部门, 认证后方可出厂销售进口使用 |
+| 企业申请 CCC 免办业务 (条件与系统) | 国家认证认可监督管理委员会 | CN | T1 | ÜBERPRÜFUNG | https://www.cnca.gov.cn/hlwfw/ywxt/rzjgxxbszn/rzjghqyxybsnxxx/rzjghqyxybsnxxx/xzspsx/art/2021/art_0d573f87af7d4b4586ef7e5b7dcbf28d.html | 免办条件, cccmb.cnca.cn 系统 |
+| 认监委 2005 年第 3 号公告 (无需 / 免办 CCC 条件) | 国家认证认可监督管理委员会 | CN | T1 | ÜBERPRÜFUNG | https://www.cnca.gov.cn/hlwfw/ywzl/qzxcprz/CCCmb/art/2013/art_8feb350f605e4c9da85d8a4a203f30ff.html | 免办具体情形 |
+| 免予办理强制性产品认证证明 (受理条件示例) | 安徽省人民政府 | CN | T1 | ÜBERPRÜFUNG | https://www.ah.gov.cn/site/tpl/7091?cswd=2222&ssqdId=4028e69f84d033380185c7c09c5058fa&ssqdCode=521edb32dd8c45938651ec2edce21ddc&activeId=6785131 | 以整机全数出口为目的进口的零部件免办等 |
 | SAMR (CCC-Regelung) | SAMR 国家市场监督管理总局 | CN | T1 | ÜBERPRÜFUNG | https://www.samr.gov.cn/ | CCC obligatorische Zertifizierungsregimebehörde |
 | Zertifizierungs- und Akkreditierungsverwaltung (CNCA) | CNCA 国家认证认可监督管理委员会 | CN | T1 | ÜBERPRÜFUNG | https://www.cnca.gov.cn/ | CCC-Verwaltungs- und -Befreiungssystem |
+| WTO-Übereinkommen über technische Handelshemmnisse (TBT) | Welthandelsorganisation | INT | T1/T2 | ÜBERPRÜFUNG | https://www.wto.org/english/tratop_e/tbt_e/tbt_e.htm | TBT-Rahmen für die obligatorische Konformitätsbewertung wie CCC und zur Vermeidung unnötiger Barrieren (Ausnahmelogik) |
+| Normen der Internationalen Elektrotechnischen Kommission (IEC) | Internationale Elektrotechnische Kommission (IEC) | INT | T1/T2 | ÜBERPRÜFUNG | https://www.iec.ch/home | Internationale Normen, auf die in der Konformitätsbewertung verwiesen wird; CCC verwendet GB-Normen, die häufig mit der IEC übereinstimmen |
 ## Editorial Review
 - **AutoBridge Export Editorial Team · [Autoren](/Autoren/) · [Editorial Policy](/Editorial-Policy/]
 - **Zuletzt überprüft**: 2026-09-05
-- **Referenzmarkt**: CN（中国认证制度侧）
+- **Referenzmarkt**: CN(中国认证制度侧)
 - **Verifizierungsmethode**: Desk-Recherche mit den unten genannten Quellen; Referenzspezifikation für den chinesischen Markt nur, sofern nicht ausdrücklich ein separater Exportmarkt angegeben wird.
 - **Transparenz**: KI-unterstütztes Zeichnen wurde verwendet. Dieser Artikel basiert auf Desk Research und automatisierter QA. Es werden keine Tests aus erster Hand beansprucht, es sei denn, sie sind explizit dokumentiert; zeitsensible und zielspezifische Anforderungen vor der Transaktion bestätigen.
 
@@ -59,11 +61,14 @@ Der CCC-Katalog und die Ausnahmekategorien werden aktualisiert; verwenden Sie de
 - **IMAGE_ASSET_PATH**: keine gesicherte im Repository
 - **ORIGINAL_IMAGE_URL**: nicht erfasst
 - **SOURCE_PAGE**: nicht erfasst
+- **SOURCE_FILE_PAGE**: Entfällt — keine Kandidaten-Mediendatei identifiziert (keine Lizenz zur Geltendmachung)
 - **RIGHTS_HOLDER**: nicht bestätigt
 - **LICENSE_OR_USAGE_BASIS**: keine gesicherte — OEM-Webseitenpräsenz ist keine kommerzielle Wiederverwendungslizenz
-- **CHECKED_DATE**: 2026-09-05
+- **CHECKED_DATE**: 2026-09-06
 - **MODEL_TOPIC_MATCH**: exakter CCC Vorgeschriebene Zertifizierung und Exportfahrzeuge
+- **IMAGE_SCOPE_NOTE**: Das Bild muss nur mit der genauen Modellfamilie/dem genauen Thema übereinstimmen; darf keine bestimmte Trimmung, kein Modelljahr, keine echte VIN, keine persönliche Inspektion oder keine tatsächliche Transaktion implizieren.
 - **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: Es konnte kein wiederverwendbares Bild gesichert werden: Wikimedia Commons/Flickr sind aus der Forschungsumgebung nicht erreichbar, Lagerbibliotheken erfordern authentifizierten API/Lizenzzugriff und ein OEM-Webseitenbild ist KEIN kommerzielles Wiederverwendungsstipendium. Es gibt kein AutoBridge-eigenes Foto. Record Keeped FAIL statt behauptet.
 - **ALT (12 Sprachen)**:
   - **EN**: CCC certification export, Chinese-market procurement guide export buyer reference
   - **FR**: CCC certification export, procurement guide du marché chinois, référence acheteur export

@@ -4,20 +4,20 @@
 - ** Título SEO**: Certificado de Origem da China para Exportação de Veículos — Tipos e Emissores de CO
 - ** Descrição do Meta**: Os três tipos de certificados de origem chineses, que devem ser solicitados, quer se trate da utilização de alfândegas ou de CCPIT, quando se aplica um CO preferencial de ACL, e o que um exportador não deve prometer sobre o direito de destino.
 - ** URL sugerido**: /guides/china-export-certificate-of-origin
-- ** H1 **: Escolhendo o Certificado de Origem Direito para uma Exportação de Veículos Chineses
+- ** H1 **: Escolher o Certificado de Origem Direito para uma Exportação de Veículos Chineses
 - **Chave principal**: certificado de exportação de origem da China
-- ** Termos de pesquisa secundários**: não preferencial CO, certificado de origem SPG, FTA preferencial CO, encomenda GACC 270, origem do certificado CCPIT, documentos de exportação de veículos
+- ** Termos de pesquisa secundários**: não preferencial CO, certificado de origem SPG, FTA preferencial CO, GACC encomenda 270, origem do certificado CCPIT, documentos de exportação de veículos
 - **As sugestões de ligação interna**: /guias/veículo-exportação-hs-código-classificação/; /guias/exportação-veículo-documento-pacote/; /guias/china-exportação-estatuto-inspecção-declaração/
 - **Image Suggestions**: comparação de três tipos de CO; Diagrama aduaneiro contra o emitente do CCPIT; fluxo de preferência do ACL
 - **ALT Sugestões**: "Certificado de origem da China de três tipos CCPIT Alfândega"
 
 ## A decisão escondida num documento de rotina
-Importadores pedem rotineiramente "o CO" como se fosse um papel. Não é. China emite **três famílias** de certificado de origem, e escolher o errado significa que o comprador não pode esclarecer preferência ou recebe um documento que sua autoridade não espera. A regra atual é **GACC Order No. 270, *Medidas administrativas para certificados de origem para mercadorias de exportação*, publicado 2024-07-30 e em vigor a partir de 2024-09-01 **. Esta página abrange o lado ** da emissão da China**; se um destino específico concede uma preferência é a decisão desse país.
+Importadores pedem rotineiramente "o CO" como se fosse um papel. Não é. China emite **três famílias** de certificado de origem, e escolher o errado significa que o comprador não pode esclarecer preferência ou recebe um documento que sua autoridade não espera. A regra atual é **GACC Ordem No. 270, *Medidas administrativas para certificados de origem para mercadorias de exportação*, publicado 2024-07-30 e em vigor a partir de 2024-09-01 **. Esta página abrange o lado ** da emissão da China**; se um destino específico concede uma preferência é a decisão desse país.
 
 ## As Três Famílias de Certificados
 | Tipo | Objecto | Quando um exportador de veículos o utiliza |
 |---|---|---|
-| ** Não preferencial CO** | MFN treatment, anti-dumping/countervailing/safeguard cases, origin marking, quantitative limits, tariff quotas, government procurement, trade statistics | O valor normal do CO que prova a origem chinesa quando não é solicitada preferência por acordo comercial |
+| ** Não preferencial CO** | Tratamento da NMF, Processos anti-dumping/contra-agentes/de salvaguarda, marcação de origem, limites quantitativos, contingentes pautais, contratos públicos, Estatísticas comerciais | O valor normal do CO que prova a origem chinesa quando não é solicitada preferência por acordo comercial |
 | **GSP (sistema de preferências generalizadas) CO** | Preferências ao abrigo do regime de concessão de subvenções SPG | Só quando o destino ainda concede SPG e exige a sua forma específica |
 | ** CO regional/preferencial (FTA) * | Taxa preferencial do acordo no destino | Apenas quando um ACL entre a China e o destino se aplica **e ** as mercadorias cumprem as regras de origem desse acordo |
 
@@ -33,14 +33,14 @@ Os dois canais autorizados são **Alfândega da China** e **CCPIT (Conselho de P
 1. Confirmar o destino e se uma preferência **FTA** está realmente sendo reivindicada; caso contrário, um CO não preferencial é o instrumento usual.
 2. Se reivindicar preferência, verificar se o veículo cumpre ** que o acordo** específica do produto regra de origem antes de aplicar - não assumir "feito na China" sozinho qualifica.
 3. Coincidir o emitente com o que o importador / carta de pedidos de crédito (organismo oficial → Alfândegas).
-4. Use o **current** formulário e código sob Ordem 270 eo acordo relevante; formulários mudam conforme os acordos são adicionados.
+4. Use o formulário e código **current** sob a Ordem 270 e o acordo relevante; formulários mudam conforme os acordos são adicionados.
 
 ## O que não prometer
 - Esta página não ** mapeia um determinado destino para um determinado ACL ou suas regras — ou seja, país e acordo específico e deve ser verificada por remessa contra Alfândega/CCPIT.
 - Um certificado de origem não garante ** o destino concederá uma taxa reduzida; as alfândegas de destino determinam-no.
 
 ## Perguntas Mais Frequentes
-**Qual é a regra atual para os COs de exportação chineses?** GACC Order No. 270, em vigor desde 1 setembro 2024, governa certificados de exportação de origem.
+**Qual é a regra atual para os COs de exportação chineses?** Ordem GACC No. 270, em vigor desde 1 de setembro de 2024, regula certificados de exportação de origem.
 **Eu vou para a Alfândega ou CCPIT?** Se o comprador necessitar de um organismo oficial, utilize a Alfândega; caso contrário, qualquer canal pode emitir, e o CO comum da CCPIT é geralmente gratuito.
 **Qual é a diferença entre um CO comum e um CO de ACL?** O CO comum só prova a origem para fins não preferenciais; o CO ACL só apoia uma taxa preferencial acordada se as mercadorias cumprirem as regras de origem desse acordo.
 ** Um FTA CO garante um imposto mais baixo no estrangeiro? Não — as alfândegas do país de importação decidem se concedem a preferência.
@@ -49,11 +49,14 @@ Os dois canais autorizados são **Alfândega da China** e **CCPIT (Conselho de P
 - IMAGEM_ASSET_PATH: nenhum protegido no repositório
 - ORIGINAL_ IMAGE_ URL: não capturado
 - ORIGINAL_PAGE: não capturado
+- ORIGINAL_FILE_PAGE: não aplicável — nenhum ficheiro de mídia candidato identificado (sem licença para afirmar)
 - DIREITOS_OLDER: não confirmado
 - LICENSE_OR_USAGE_BASIS: nenhuma imagem segura — nenhuma imagem de terceiros pode ser publicada até que os direitos sejam compensados
-- Data_ Marcada: 2026-09-05
+- Data_ Marcada: 2026-09-06
 - MODEL_TOPIC_ MATCH: deve corresponder ao modelo/versão exato (ou ao tópico guia) e ao mercado de referência acima
+- IMAGEM_SCOPE_NOTE: corresponde à família/tópico do modelo exato; não deve implicar uma aparação/modelo-ano específico, VIN real, inspeção em pessoa ou transação real
 - IMAGEM_RIGHTS_STATUS: FALHA (não é aceita nenhuma propriedade licenciada capturada; uma nota de placeholder ou “reter imagem antiga”)
+- BLOCK_REASON: Nenhuma imagem reutilizável pode ser segura: Wikimedia Commons/Flickr são inalcançáveis do ambiente de pesquisa, bibliotecas de estoque requerem acesso autenticado API/licença, e uma imagem de página web OEM NÃO é uma concessão de reutilização comercial; nenhuma foto de propriedade da AutoBridge existe. Mantive-me em vez de afirmar.
 - ALT por língua:
   - **EN**: AutoBridge export-buyer reference — Certificate of origin for vehicle export, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Certificate of origin for vehicle export, guide d’achat à l’export automobile
@@ -71,7 +74,7 @@ Os dois canais autorizados são **Alfândega da China** e **CCPIT (Conselho de P
 ## Fontes e Verificação
 | Título do código fonte | Organização | Mercado | URL | Verificado | Confiança | Factos corroborados |
 |---|---|---|---|---|---|---|
-| GACC N.o de ordem 270, Medidas administrativas de exportação de CO (em vigor 2024-09-01) | Administração Geral das Alfândegas da China (PDF oficial) | NC | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6011613/2024073016391092032.pdf | 2026-09-04 | VERIFICADO | Versão de regras, três tipos, emitentes |
+| Número de ordem GACC 270, Exportar CO Medidas Administrativas (em vigor 2024-09-01) | Administração Geral das Alfândegas da China (PDF oficial) | NC | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6011613/2024073016391092032.pdf | 2026-09-04 | VERIFICADO | Versão de regras, três tipos, emitentes |
 | Exportar medidas administrativas de CO (segundo PDF oficial) | GACC | NC | http://www.customs.gov.cn/eportal/fileDir/customs/resource/cms/2024/07/2024073110443252720.pdf | 2026-09-04 | VERIFICADO | Usos não preferenciais, três tipos |
 | Visão geral do CO não preferencial e organismos emissores | CCPIT Sichuan | NC | https://www.ccpit-sichuan.org/newshow.aspx?id=14630&mid=285 | 2026-09-04 | VERIFICADO | Emissores, CO normal sem direitos |
 * Nota de rodapé: China emite apenas lado; regras específicas de ACL e decisões de preferência de destino estão fora de alcance e por acordo/por país. *

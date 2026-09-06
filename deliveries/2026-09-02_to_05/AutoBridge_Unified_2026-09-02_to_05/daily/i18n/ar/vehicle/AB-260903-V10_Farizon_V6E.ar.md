@@ -1,65 +1,68 @@
-# Farizon Xingxiang V6E Electric Cargo Van: Battery-Year Lock, 6 m³ Load Bay and a Documented Türkiye Export
+# Farizon Xingxiang V6E شاحنة نقل كهربائية (باتري-يال) 6 متر مكعب من طراز Load Bay  and  (أ) تصدير توركيي
 ## SEO Metadata
-- **SEO Title**: Farizon V6E Electric Cargo Van Specs & Export Buyer Notes
-- **Meta Description**: Chinese-market Farizon (Geely) Xingxiang V6E electric cargo van — 60 kW/220 N·m motor, 6 m³ cargo volume, 35.2 kWh/260 km base vs newer 51 kWh build, 90 km/h limit, and a recorded EU-spec Türkiye shipment.
-- **Suggested URL**: /vehicles/farizon-xingxiang-v6e-specs/
-- ** H1 **: Farizon Xingxiang V6E (Chinese-Market): Electric Cargo Van Specs and Export Verification
-- **Primary Keyword**: farizon v6e electric cargo van specs
-- **Secondary Search Terms**: Xingxiang V6E range, Farizon electric delivery van, 6m3 electric van, V6E 35.2 kWh, Farizon Türkiye export, electric city logistics van
-- ** Internal Link Suggestions**: /vehicles/saic-maxus- v90-specs/; /vehicles/byd-dolphin/;/guides/ev-shipping- un3171-imdg-compliance/
-- **Image Suggestions**: cargo bay with dimensions; side loading door; motor/battery layout; leaf-spring rear axle; EU-spec export batch
-- **ALT Suggestions**: "Farizon V6E six cubic metre electric cargo van"; "V6E battery grades and range"
+- ** عنوان الحلقة**: Farizon V6E شاحنات التصدير الخاصة بفان سبيك
+- ** وصف البيانات**: Chinese-market Farizon (Geely) Xingxiang V6E electric cargo van — 60 kW/220 N·m motor,  6 m³ cargo volume, 35.2 kWh / 260 km قاعدة مقابل بناء أكثر من 51 kWh حدّه 90 km/h  and  (أ) شحنة مسجلة من الاتحاد الأوروبي - سبيك توركيي.
+- ** URL المقترض**: /مركبات/farizon-xingxiang- v6e-specs/
+- ** H1 **: فاريزون شينغكسيانغ V6E (مريخ الصين): كهرباء شاحنة نفاثة والتحقق من الصادرات
+- ** كلمة رئيسية**: farizon v6e electric cargo van specs
+- ** محطات البحث الثانية**: مسافات مركب Xingxiang V6E، شاحنة توصيل كهربائية فيريزون، 6m3 شاحنة كهربائية، V6E 35.2 kWh، فاريزون تصدير توركيي، شاحنة لوجستيات المدن الكهربائية
+- ** Internal Link Suggestions**: /vehicles/saic-maxus- v90-specs/; /vehicles/byd-dolphin/;guides/ev-shipping- un3171-imdg-compliance/
+- ** اقتراحات تتعلق بالشحن**: خليج الشحنات ذات الأبعاد؛ وباب التحميل الجانبي؛ وتركيب السيارات/البطارية؛ ورف مركب الورق؛ ودفعة التصدير المشتركة بين الاتحاد الأوروبي والاتحاد الأوروبي
+- ** الاقتراحات**: "Farizon V6E six cubic metre electric cargo van"; "V6E درجة بطارية ودرجة"
 
-## Buyer Context: Lock the Battery Year Before Anything Else
-The Xingxiang V6E is Farizon's (Geely's commercial-vehicle brand) **battery-electric urban delivery van**. The single biggest spec risk is model year: the base build uses a **35.2 kWh** pack while a **newer build uses about 51 kWh**, and range changes accordingly. A purchase order that says only "V6E" can be filled with either. This page covers the **Chinese-market V6E (REFERENCE MARKET: CHINA)** and keeps the base and newer builds separate.
+## "أغلقوا "السنة البطارية قبل أي شيء
+"الـ "إكسينج سيغ V6E" هي "فاريزون" (مركبة (جيلي) التجارية" والأكبر مخاطرة في المواصفات هي السنة النموذجية: فالبناء الأساسي يستخدم مجموعة من الـ 35.2 kWh ** بينما يستخدم المتجدد حوالي 51 kWh **، ويتغير النطاق تبعا لذلك. طلب شراء يقول فقط "V6E" يمكن ملئه أيضاً وتغطي هذه الصفحة السوق الصينية رقم V6E ** (REFERENCE MARKET: CHINA)** وتبقي القاعدة والأحدث مبنيين منفصلين.
 
-## Driveline and Cargo (electric-van focus)
-| Item | V6E China reference |
+## خط القيادة وكارغو (تركيز على المركبات)
+| البند | V6E الصين |
 |---|---|
-| Motor | Wolong-ZF **TZ185XS022** permanent-magnet, **60 kW / 220 N·m** |
-| Top speed | **90 km/h (electronically limited)** |
-| Cargo volume | **6 m³** (cargo bay ~1.6 m long reference) |
-| Rear suspension | Rigid axle with **leaf springs** (load-oriented) |
-| Base battery/range | **35.2 kWh / 260 km working-condition range** |
-| Newer build | A **larger-battery Xuanwu build is listed in Chinese databases**, but its exact capacity/range is not asserted here — confirm on the MIIT catalog and the VIN build sheet (TIME_SENSITIVE) |
+| Motor | Wolong-ZF ** TZ185XS022 ** دائمة المغناطيس، ** 60 kW / 220 N·m ** |
+| السرعة القصوى | ** 90 km/h (محددة بشكل متعمد)* ♪ |
+| حجم السيارة | ** 6 متر مكعب** (الكرغو باي = 1.6 متراً مرجعياً طويلاً) |
+| التعليق | محور مركب مع ربيع متخفي** (موجه نحو الحمولة) |
+| بطارية قاعدية/براعة | ** 35.2 kWh / 260 km من نطاق شروط العمل** |
+| بناء جديد | A **larger-battery يُدرج بناء الشوانوو في قواعد البيانات الصينية**، ولكن قدرته/براعه الدقيق غير مؤكد هنا - يؤكد على مفهرس تكنولوجيا المعلومات والاتصالات وورقة البناء الخاصة بالشبكة (TIME_SENSITIVE) |
 
-For a logistics van, buyers should weigh **cargo volume, payload (confirm on the homologated code), the load-oriented leaf-spring rear axle and the 90 km/h limit** against route speed needs — this is a city/last-mile vehicle, not a long-haul truck.
+وبالنسبة لشاحنة لوجستية، ينبغي للمشترين أن يزنوا حجم الشاحنات، والحمولة (يؤكدون على الرمز الملغوم)، ورفوف الورق المتجه نحو الحمولة، والحد الأقصى البالغ 90 km/h** مقابل احتياجات سرعة الطرق - هذه مركبة من طراز المدينة/الصغيرة، وليست شاحنة طويلة الأجل.
 
-## Battery-Year Discipline
-- **Base (this page's anchor):** 35.2 kWh, ~260 km working-condition range (cross-checked).
-- **Newer build:** a larger Xuanwu battery build exists in Chinese listings; do not quote a fixed number — confirm capacity and range on the MIIT catalog and by VIN (time-sensitive).
-- Quote pack kWh **and** range **and** range cycle/condition together; never attach the newer 51 kWh number to a base VIN. Confirm AC/DC charging provision and charge time per build.
+## كتيبة - تأديبية
+- -35.2 kWh، 260 km من نطاق شروط العمل (مُراجعة)
+- ** بناء أحدث:** يوجد بناء أكبر لبطارية زوانو في قوائم الصينية؛ ولا يقتبس رقم ثابت - يؤكد القدرة على استخدام مفهرس تكنولوجيا المعلومات والاتصالات ونطاقه، كما يؤكده شبكة المعلومات الخاصة بالشبكة (العامل الذي يراعي الوقت).
+- علبة كوي ** و** النطاق ** و** دورة/ترتيب** معا؛ ولا يرفق رقم الـ 51 kWh الجديد برقم أساسي فين. تأكيد أن شركة AC/DC تفرض على كل مبنى مدة حكم ورسوم.
 
-## Documented Export Record (fact, not an alias)
-China Transport News (an industry news outlet) reports that in **February 2024 an initial batch of EU-specification V6E vans was exported to Türkiye**, described as Farizon's first entry into that market, in 6 m³ form. This is an **export-delivery record**: it confirms a European-standard build was shipped, but it does **not** make the Türkiye EU-spec van identical to the China 35.2/51 kWh builds — treat export configuration separately and request its spec sheet.
+## سجل التصدير الموثق (مصنع، وليس اسم مستعار)
+الصين الأخبار (منفذ أخبار صناعي) تفيد أنّه في عام **February 2024 شاحنة مُصَدّرة من الاتحاد الأوروبي V6E شاحنة صُدّرت إلى توركيي**، ووصفت بأنها أول دخول لفاريزون إلى تلك السوق، في شكل 6 متر مكعب. هذا سجل تسليم مُتعدّل**: يؤكد أن بناء المُستويات الأوروبية تم شحنه  but it does **not** make the Türkiye EU-spec van identical to the China 35.2/51 kWh builds — treat export configuration separately  and  أطلب ورقة عينة
 
-## What Importers Should Verify Before Payment
-- Confirm the electric cargo van's drive-axle arrangement on the certificate; the captured Chinese reference data does not fix it, so do not default to front drive for a load-carrying chassis.
-1. **Battery build (35.2 vs ~51 kWh) and range cycle** matched to VIN/model year.
-2. **Payload, GVW, cargo volume and rear-axle** on the homologated code; leaf-spring ride vs cargo needs.
-3. **Charge interface** (GB/T on China builds) vs destination standard; AC/DC provision.
-4. **EU-spec vs China-spec differences** for any Türkiye/Europe-bound order (lighting, conformity, software).
-5. **90 km/h speed limit** suitability; **UN38.3/MSDS and under IMDG Amendment 42-24 (mandatory from 2026-01-01) a lithium-ion-battery-powered vehicle is classified UN3556, not the legacy generic UN3171; apply documentation/SOC details per the current EV shipping Fact Sheet and the carrier (see the EV ocean-compliance guide)** EV shipping documents per the current Fact Sheet; cluster/telematics language.
+## ما يجب على المستوردين أن يتأكدوا منه قبل الدفع
+- تأكدي من ترتيب شاحنة الشحن الكهربائي على الشهادة البيانات المرجعية الصينية المأخوذة لا تصلحها لذا لا تفشلي في القيادة الأمامية لفوضى الحمل
+1. ** تطابقت دورة بناء البطاريات (35.2 مقابل 51 kWh) ودورة النطاق** مع السنة النموذجية للشبكة.
+2. ** حمولة، وGVW، وحجم الشحنات، وضريبة الشحن** على الرمز الملغى؛ ورحلة رفّق الورق مقابل احتياجات الشحن.
+3. ** واجهة كبيرة** (GB/T on China builds) مقابل معيار المقصد؛ حكم اتفاقية مكافحة التصحر/الاتفاقية المتعلقة بالتلوث البحري.
+4. ** الاتحاد الأوروبي - سبيك ضد الصين - سبيكة** لأي ترتيب من أوامر توركيي/أوروبية (الإنارة، المطابقة، البرمجيات).
+5. ** حد السرعة البالغ 90 km/h**؛ ** UN38.3/MSDS، وبموجب التعديل 42-24 (الطلب من 2026-01-01) يصنف مركبة تعمل بالبطانة الليثيومية UN3556 مركبة، وليس الإرث العام UN3171؛ ويطبق تفاصيل الوثائق/المكتب على كل صحيفة وقائع الشحن الإلكترونية الحالية والناقل (انظر دليل الامتثال للمحيطات)** وثائق الشحن الإلكترونية لكل صحيفة وقائعية؛
 
-## Request a Current Export Quotation
-No static export price and no China MSRP were captured; none is invented. Enquire with **Destination Country · Battery Build · Quantity · LHD/RHD · Destination Port · Incoterm**.
+## طلب تخصيص موارد التصدير الحالية
+ولم يُقبض على أي سعر تصدير ثابت ولا على شركة الصين المحدودة لموارد السلع؛ ولم يُخترع أي منها.:: إجراء تحقيقات مع البلدان التي تستضيفها الحكومة؛ بناء البطارية؛ الكمية؛ ميناء الوجهة الصحية؛ ميناء الوجهة**.
 
-## Frequently Asked Questions
-**What is the V6E's cargo capacity?** A 6 m³ cargo bay (about 1.6 m long reference), with a load-oriented leaf-spring rear axle.
-**How far does it go on a charge?** The reference base pack is 35.2 kWh at about 260 km (working condition); a larger-battery build is listed but its exact figure must be confirmed on the catalog and VIN rather than quoted.
-**What is the top speed?** 90 km/h, electronically limited — a city/last-mile characteristic.
-**Has the V6E been exported?** Yes — an EU-spec batch was recorded shipped to Türkiye in Feb 2024; that export build is not automatically identical to the China-spec van.
-**Which motor does it use?** A Wolong-ZF TZ185XS022 permanent-magnet motor, 60 kW/220 N·m.
+## الأسئلة المتكررة
+**What is the V6E's cargo capacity?** A 6 m³ cargo bay (about 1.6 m long reference), مع فأس مُركّب من الورق مُوجّه نحو الحمّل.
+** إلى أي مدى يُوجه إليه اتهام؟** وتبلغ مجموعة القاعدة المرجعية 35.2 kWh في حوالي 260 km (حالة العمل)؛ ويُدرج بناء أكبر من البطاريات، ولكن يجب تأكيد رقمه الدقيق على المكتال وعلى شبكة المعلومات الشخصية بدلا من الاستشهاد به.
+** ما هي السرعة القصوى؟** 90 km/h، محدودة إلكترونيا - سمة مدينة/مدنية.
+**Has the V6E been exported?** Yes — an EU-spec batch was recorded shipped to Türkiye in Feb 2024; ولا يتطابق بناء الصادرات تلقائيا مع شاحنة الصين - سبيك.
+** أي محرك يستخدمه؟ ** محرك ثابت من طراز Wolong-ZF TZ185XS022، 60 kW / 220 N·m.
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
+## سجل الصور
+- لم يُؤمن أي منها في مستودع
 - ORIGINAL: IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
+- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
+- الحقوق - حقوق غير مؤكدة
+- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
+- CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
+- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات ويكيميو/فلكر غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات المسبقة/الرخصة، وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
 - ALT by language:
   - **EN**: AutoBridge export-buyer reference — Farizon Xingxiang V6E, battery-electric vehicle / cargo van
   - **FR**: Référence AutoBridge pour acheteurs export — Farizon Xingxiang V6E, véhicule 100 % électrique / fourgon
@@ -74,24 +77,24 @@ No static export price and no China MSRP were captured; none is invented. Enquir
   - **AR**: مرجع AutoBridge لمشتري التصدير — Farizon Xingxiang V6E, مركبة كهربائية بالبطارية / شاحنة فان للبضائع
   - **ZH**: AutoBridge 出口采购参考｜Farizon Xingxiang V6E, 纯电动车 / 厢式货车
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## المصدر: التحقق
+| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
-| V6E reveal (motor/ 0–50/speed limit) | Truck Home / Toutiao | CN | http://m.toutiao.com/group/7064810099012895240/ | 2026-09-03 | CROSS_CHECKED | 60 kW/220 N·m, 90 km/h limit, leaf-spring axle |
-| V6E EU-spec export to Türkiye (6 m³) | China Transport News (industry news media) | CN media (export record: TR) | https://www.zgjtb.com/m/2024-02/01/content_398656.html | 2026-09-03 | CROSS_CHECKED | Feb-2024 EU-spec Türkiye batch, 6 m³ (news record, not OEM/government; not VERIFIED) |
-| Light-commercial report (35.2 kWh/260 km/6 m³) | Sohu Auto | CN | https://m.sohu.com/a/931378694_121823499/ | 2026-09-03 | CROSS_CHECKED | Base battery/range, cargo volume |
-| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
-| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
-| GB 38031 traction battery safety requirements (GB 38031-2025; new type applications mandatory from 2026-07-01) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFIED | Mandatory traction-battery safety requirement basis for the electrified powertrain |
-| GB 18384 electric vehicle safety requirements (GB 18384-2025) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VERIFIED | Electric-vehicle electrical/functional safety requirement basis |
+| كشف V6E (حد أقصى قدره 0–50/speed) | دار شاحنة/توتوياو | CN | http://m.toutiao.com/group/7064810099012895240/ | 2026-09-03 | صرخات | 60 kW / 220 N·m, 90 km/h limit, leaf-spring axle |
+| V6E EU-spec export to Türkiye (6 m³) | الصين أخبار (وسائط إخبارية صناعية) | CN media (export record: TR) | https://www.zgjtb.com/m/2024-02/01/content_398656.html | 2026-09-03 | صرخات | Feb- 2024 EU-spec Türkiye batch, 6 متر مكعب (سجل الأخبار، (أ) ليس مكتب الشؤون الاقتصادية/الحكومة؛ لا يُصدّقُ |
+| Light-commercial report (35.2 kWh/260 km/6 m³) | Sohu Auto | CN | https://m.sohu.com/a/931378694_121823499/ | 2026-09-03 | صرخات | بطارية/براعة قاعدة، حجم البضائع |
+| مصممو السيارات على الطرق - نظام الاستفسارات العامة | وزارة الصناعة وتكنولوجيا المعلومات في الصين | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | مفقود | التحقق من الصانع والنموذج المعتمد والهجوم (公告) |
+| GB 16735-2019 المركبات البرية - الاحتياجات من رقم تحديد المركبات | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | مفقود | تركيبة الشبكة وربطة بيانات مستعملة في نظام التحقق الخاص بالمشتري |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | مفقود | الشروط التقنية المتعلقة بسلامة المركبات في الصين والإطار الزمني الحالي/التنقيحي |
+| GB 38031 traction battery safety requirements (GB 38031-2025; تطبيقات جديدة من النوع إلزامية من 2026-07-01 | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | مفقود | قاعدة متطلبات السلامة في إطار نظام الرواسب الرواسب الإلزامية في مجال الطاقة الكهربائية |
+| GB 18384 electric vehicle safety requirements (GB 18384-2025) | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | مفقود | الأساس الذي يُحتَج به توفير السلامة الكهربائية/المهمة |
 
-*Confidence note: the Türkiye export record is CROSS_CHECKED industry-news reporting (news/industry media is not VERIFIED — only OEM/government/regulator/standards/formal technical documents reach VERIFIED); treated strictly as a delivery record, not a model-alias proof. Base motor/range are cross-checked; the newer 51 kWh build is time-sensitive. China GB/T and EU-spec builds are kept distinct per MODEL_ALIAS / SOURCE_SCOPE rules.*
+* ملاحظة: سجل صادرات توركييي هو تقرير شركة CROSS-CHECKED للخبرات الصناعية (وسائط الإعلام/الصناعة ليست محررة - فقط OEM/government/regulator/standards/formal technical documents reach VERIFIED)؛ وتُعامل معاملة تامة كسجل تسليم، وليس كدليل على وجود نماذج. ويتم فحص محركات/براعة القاعدة؛ ويراعى في البناء الجديد البالغ 51 kWh من الزمن. وتُبقي البنايات المميزة لكل من حركة تحرير الكونغو/الوحدة الإنمائية التابعة للصين وشركة الاتحاد الأوروبي الخاصة التابعة للأمم المتحدة متميزة عن هذه البنى. قواعد (آلياس) ♪
 
-## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: China, Xingxiang V6E (Chinese-market reference; EU-spec export build kept separate)
-- **Verification method**: Cross-check + official export record; battery-year and market scope isolated
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+## استعراض التحرير
+- ** مستعرض/مراجع**: [فريق تحرير تصدير أوتو بريدج] (/مؤلف/) - طريقة لكل [سياستنا الانتخابية] (/سياسة التحرير/)
+- ** لم يُستعرض بعد**: 2026-09-05
+- ** سوق الإحالة**: الصين، شينغكسيانغ V6E (المراجع المتعلقة بالسوق الصينية؛ وحافظ بناء الصادرات بين الاتحاد الأوروبي وشركة سيك على انفصال)
+- ** طريقة الفرز**: سجل الصادرات الرسمي؛ وحجم البطاريات والنطاق السوقي المعزول
+- ** المعيار الإفريقي**: باحثة ومحررة من المصادر المذكورة أعلاه (بحوث مكتبية؛ ولا يُدَّعى عن أي قيادة مباشرة أو تمزق أو استيراد). وتظهر الثقة في المصدر في الصف الواحد؛ وأي نقطة لا يمكننا تأكيدها بشكل مستقل تعرض كبند تحقق بدلا من التأكيد على أنها حقيقة.
 #AutoBridge #VehicleExport #Farizon #V6E #ElectricCargoVan

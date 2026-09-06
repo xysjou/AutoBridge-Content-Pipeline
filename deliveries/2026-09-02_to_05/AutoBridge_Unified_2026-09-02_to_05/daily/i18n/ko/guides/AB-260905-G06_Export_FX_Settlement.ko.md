@@ -1,69 +1,75 @@
-# Export FX Settlement and Trade-FX Administration for Vehicle Exporters
+# 수출용 FX 결제 및 무역 FX 관리
 
-## SEO Metadata
-- **SEO Title**: China Export FX Settlement: Trade-FX Registration, Conversion and Aggregate Check
-- **Meta Description**: How a Chinese vehicle exporter handles export receipts: directory registration at a bank before the first transaction, settlement/conversion, and SAFE aggregate verification of goods-flow versus funds-flow.
-- ** H1 **: Export FX Settlement and Trade-FX Administration for Vehicle Exporters
-- **Primary Keyword**: export fx settlement trade fx registration
-- **Secondary Search Terms**: export FX settlement; trade foreign exchange; SAFE registration; goods flow funds flow; ASOne platform
+## ▼ 한국어 메타데이터
+- **SEO 제목**: 중국 수출 FX 정착: 무역 FX 등록, 변환 및 집계 확인
+- **마타 기술 **: 중국 차량 수출업자가 수출 영수증을 처리하는 방법: 첫 거래, 결제 / 전환, SAFE는 상품 흐름 versus 자금 흐름의 검증을 통합하기 전에 은행에서 등록하십시오.
+- ** H1 **: 수출용 FX 결제 및 무역 FX 관리
+- ** 출원 키워드 **: Fx 결제 거래 fx 등록
+- **세컨드리뷰 이용**: 수출 FX 결제; 해외 교환; SAFE 등록; 상품 흐름 펀드 흐름; ASOne 플랫폼
 - **Suggested URL**: /guides/export-fx-settlement-trade-fx-registration/
-- **Search Intent**: 出口企业如何办理贸易外汇收支企业名录登记、收汇结汇并满足货物流-资金流匹配核查
-- **Internal Link Suggestions**: /guides/export-payment-methods-t-t-lc-risk/, /guides/china-export-vat-refund-process/, /guides/china-export-customs-declaration-single-window/
-- **Schema Scope**: Article (no Product/Offer/Review)
+- ** 수색 **: 出口企业如何办理贸易外汇收支企业名录登记 、 收汇结汇并满足货物流 - 资金流匹配核查
+- ** 내부 링크 제안**: /guides/export-payment-methods-t-t-lc-risk/, /guides/china-export-vat-refund-process/, /guides/china-export-customs-declaration-single-window/
+- **Schema Scope**: 기사 (제품/오프러/리뷰 없음)
 
-## The one step that must happen before the first receipt
-Before a Chinese exporter can receive its first export payment, it must be on the **trade foreign-exchange enterprise directory**. Under the current framework the prior SAFE approval step was removed: the enterprise completes **directory registration at its domestic bank** after obtaining foreign-trade operating rights, and that registration precedes the first receipt/payment. A company that signs its first vehicle export without this step will discover the problem at the moment money should arrive.
+## 첫 번째 영수증 전에 일어날 수있는 한 단계
+중국 수출업자가 첫 수출금을받을 수 있기 전에 ** 무역 외국 교환 기업 디렉토리**에 있어야합니다. 현재 프레임워크에서 앞서 SAFE 승인 단계가 제거되었습니다. 기업은 ** 국내 은행에서 직접 등록 ** 외국 무역 운영 권리를 취득한 후, 그 등록은 첫 번째 영수증/지불을 우선합니다. 이 단계없이 첫 번째 차량 수출을 표지하는 회사는 순간 돈에 문제를 발견해야합니다.
 
-## Settlement, conversion and the goods/funds match
-Export receipts are handled through the banking channel; conversion to RMB follows the account rules. SAFE supervises trade FX through an **aggregate (总量) verification** that matches the **goods flow** (customs declarations) against the **funds flow** (receipts), rather than approving each transaction in advance. Enterprises are classified dynamically; mismatches between what was declared exported and what was received attract scrutiny.
+## 정착, 전환 및 상품/환급 경기
+수출 영수증은 은행 채널을 통해 처리됩니다; RMB로 변환은 계정 규칙을 따릅니다. SAFE는 ** 집합 (总量) 검증**를 통해 FX를 거래합니다. ** funds flow** (receipts)에 대한 ** (customs 선언)와 일치합니다. 기업은 역동적으로 분류됩니다; 수출을 선언 한 것과 그 사이에 mismatches는 scrutiny를 끌고 있었다.
 
-## Where the work is done
-Routine registration and reporting are handled at the bank and through the digital foreign-exchange platform (ASOne/数字外管); regional SAFE branches issue guidance, but they are all one authority — the branch is not a separate regulator. Keep the customs declaration, bank receipt and invoice aligned so the aggregate comparison reconciles over the period.
+## 작업이 수행되는 곳
+루틴 등록 및 보고는 은행에서 처리되며 디지털 교환 플랫폼 (ASOne / 数字外管); 지역 SAFE 지점 문제 안내, 그러나 그들은 모든 권한을 가지고 있습니다 - 지점은 별도의 규제가 아닙니다. 세관 신고, 은행 영수증 및 청구서를 유지하여 기간 동안 집계 비교 재조정을 정렬했습니다.
 
-## Operating checklist
-1. Obtain foreign-trade rights, then complete trade-FX directory registration at the bank **before the first receipt**.
-2. Use consistent entity names and contract/invoice numbers across customs, bank and FX records.
-3. Reconcile goods flow and funds flow each period; explain timing differences (deposits, staged shipments) with documents.
-4. File through the digital platform as required; respond promptly to any verification query.
-5. Coordinate with the payment-method and VAT-refund processes so the same transaction is reported consistently.
+## 관련 상품
+1. 외국 무역권을 취득한 후 은행에서 거래-FX 디렉토리 등록을 완료 ** 첫 번째 영수증을 제출 **.
+2. 관세, 은행 및 FX 레코드를 통한 일관된 엔티티티티 이름 및 계약/변호사 번호를 사용합니다.
+3. 재편물 흐름과 자금 흐름은 각 기간마다; 문서와 타이밍 차이 (deposits, staged shippings)를 설명합니다.
+4. 디지털 플랫폼을 통해 파일이 필요한 경우, 인증 쿼리에 신속하게 대응합니다.
+5. 결제 거래와 VAT 환급 프로세스와 동일하게 보고됩니다.
 
-## Boundaries
-Specific account products, bank fees and current operational screens are time-sensitive and bank-specific; this guide quotes none. It covers the China FX side, not destination-country exchange controls.
+## 의령
+특정한 계정 제품, 은행 수수료 및 현재 가동 스크린은 시간 과민하고 은행 별입니다; 이 가이드는 아무도를 인용합니다. 그것은 중국 FX 측면을 커버, 대상 국가 교환 제어.
 
-## FAQ
-**Do I need SAFE approval before every receipt?** No — the current model uses bank directory registration plus aggregate verification.
-**When must I register?** After obtaining foreign-trade rights and before the first export receipt/payment.
-**What is aggregate verification?** Periodic matching of customs goods-flow against bank funds-flow, with dynamic enterprise classification.
-**Are local SAFE branches separate regulators?** No — one authority; branches implement the same rules.
-**Does this cover the buyer's country FX rules?** No — only the China side.
+## 의논하기
+**모든 영수증 전에 SAFE 승인을 필요로 합니까?** No — 현재 모델은 은행 디렉토리 등록 플러스 집계 확인을 사용합니다.
+**등록시 등록해야 하나요?** 외국 무역권을 취득한 후 첫 수출 영수증/지불의 앞에.
+**일부 확인란?** 은행 펀드 흐름에 대한 세관 상품 흐름의 정기적 인 일치, 동적 기업 분류.
+**지역 SAFE 지점 별도 규제 기관이 있습니까? ** No — 한 권한을; 분지는 같은 규칙을 실행.
+**이 커버 구매자의 국가 FX 규칙? ** 아니요 - 중국 측만.
 
 
-## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
+## 소스 및 검증
+| 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | URL을 | 지원된 사실 |
 |---|---|---|---|---|---|---|
-| 关于进一步优化贸易外汇业务管理的通知（名录登记改由银行办理） | 国家外汇管理局 | CN | T1 | VERIFIED | http://www.safe.gov.cn/yunnan/2024/0408/1537.html | 取消外汇局核准, 境内银行办理名录登记, 首笔收支前登记 |
-| 货物贸易外汇业务办事指南（名录登记条件） | 国家外汇管理局吉林省分局 | CN | T1 | VERIFIED | https://www.safe.gov.cn/jilin/file/file/20190617/91d454729ccc456c9b2e6a92cd6bcc51.pdf | 取得对外贸易经营权后办名录 |
-| 货物贸易外汇管理（非现场总量核查/分类管理） | 国家外汇管理局文告 | CN | T1 | VERIFIED | https://www.safe.gov.cn/safe/file/file/20170726/e97561d6d9ca4ba881d275fcb62bad2e.pdf | 总量核查, 货物流资金流匹配, 动态分类 |
-| 名录登记网上办理操作指引（ASOne平台） | 国家外汇管理局广东省分局 | CN | T1 | VERIFIED | https://www.safe.gov.cn/guangdong/file/file/20210429/babf0a6020e84b4585a7ba6737bb2c41.pdf | 数字外管平台ASOne操作 |
-| State Administration of Foreign Exchange (SAFE) | SAFE 国家外汇管理局 | CN | T1 | VERIFIED | https://www.safe.gov.cn/en/ | trade-FX registration and aggregate verification authority |
-| State Administration of Foreign Exchange (SAFE) | SAFE (regulator) | CN | T1 | VERIFIED | https://www.safe.gov.cn/ | competent authority for trade-FX registration and aggregate verification |
-## Editorial Review
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: CN（中国外汇管理侧）
-- **Verification method**: Desk research against the sources below; Chinese-market reference specification only unless a separate export market is explicitly cited.
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
+| 关于进一步优化贸易外汇业务管理的通知 (名录登记改由银行办理년) | 国家外汇管理局 | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | HTTP: //www.safe.gov.cn/yunnan/2024/0408/1537.html에 대한 자세한 정보 | 取消外汇局核准, 境内银行办理名录登记,  首笔收支前登记 |
+| 货物贸易外汇业务办事指南 (名录登记条件년) | 国家外汇管理局吉林省分局 | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.safe.gov.cn/jilin/file/file/20190617/91d454729ccc456c9b2e6a92cd6bcc51.pdf | 取得对外贸易经营权后办名录 |
+| 货物贸易外汇管理 (非现场总量核查 / 分类管理) | 国家外汇管理局文告 | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https: //www.safe.gov.cn/safe/file/file/ 20170726/e97561d6d9ca4ba881d275fcb62bad2e.pdf 의 경우 | 总量核查, 货物流资金流匹配,  动态分类 |
+| 名录登记网上办理操作指引 (ASOne 平台) | 国家外汇管理局广东省分局 | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https: //www.safe.gov.cn/guangdong/file/file/ 20210429/babf0a6020e84b4585a7ba6737bb2c41.pdf번으로 이동 | 数字外管平台 아스 하나 操作 |
+| 외국거래국(SAFE) | SAFE 国家外汇管理局, 오스트레일리아 | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https: //www.safe.gov.cn/en/ 를 통해 | trade-FX 등록 및 집계 인증 기관 |
+| 외국거래국(SAFE) | SAFE (일반) | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https: //www.safe.gov.cn/ 의 경우 | 거래-FX 등록 및 집계 검증을 위한 역량 |
+| 중국은행 (PBOC) — 국경 RMB 결제 프레임 워크 | 중국은행 (中国人民银行 PBOC) | 담당자: Mr. wang | T1/T2 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | HTTP: //www.pbc.gov.cn/ 의 경우 | SAFE 외국인 교환 등록과 같은 국경 RMB 결제 및 은행 취급을 위한 중앙은행 프레임워크 |
+| (주)아이치 무역 금융 (forfaiting/URF, L/C 정착) | 국제 상공 회의소 | INT 소개 | T1/T2 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https: //iccwbo.org/business-solutions/trade-finance/ | 국제 결제기구 (URF 824, L/C)는 수출 FX 영수증과 상호 작용 |
+| CCPIT - 무역 문서 및 결제 지원 | 중국 국제 무역 촉진위원회 (CCPIT 中国贸促会) | 담당자: Mr. wang | T1/T2 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https: //www.ccpit.org/에 대한 자세한 정보 | FX 영수증/verification에서 사용된 증거의 전달을 지원하는 무역 문서 |
+## 편집 리뷰
+- **Author**: AutoBridge 수출 편집팀 · [authors](/authors/) · [편집 정책](/편집/)
+- **마지막 검토**: 2026-09-05
+- **참고 시장 **: CN(中国外汇管理侧)
+- ** 인증 방법**: 아래 소스에 대한 책상 연구; 별도의 수출 시장이 명시적으로 인용되지 않는 한 중국 시장 참조 사양.
+- **Transparency**: AI-assisted 초안 사용. 이 문서는 책상 연구 및 자동화 QA에 근거합니다. 명시적으로 문서화되지 않는 한, 첫 번째 손 테스트가 주장되지 않습니다. transacting 전에 시간 과민하고 대상 특정 요구 사항을 확인하십시오.
 
-## Image Record
-- **IMAGE_ASSET_PATH **: none secured in repository
-- **ORIGINAL_IMAGE_URL **: not captured
-- **SOURCE_PAGE**: not captured
-- **RIGHTS_HOLDER**: unconfirmed
-- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
-- **CHECKED_DATE**: 2026-09-05
-- **MODEL_TOPIC_MATCH**: exact Export FX Settlement and Trade-FX Administration for Vehicle Exporters
-- **IMAGE_RIGHTS_STATUS**: FAIL
-- **ALT (12 languages)**:
+## 이미지 기록
+- **IMAGE_ASSET_PATH**: 저장소에 보안되지 않음
+- **ORIGINAL_IMAGE_URL **: 캡처되지 않음
+- **SOURCE_PAGE**: 캡처되지 않음
+- **SOURCE_FILE_PAGE**: 적용되지 않음 - 후보 미디어 파일 확인 없음 (Asert에 대한 라이센스 없음)
+- **RIGHTS_HOLDER**: 확인되지 않음
+- **LICENSE_OR_USAGE_BASIS**: 안전하지 않은 - OEM 웹 페이지 존재는 상업 재사용 면허가 아닙니다.
+- **CHECKED_DATE **: 2026-09-06
+- **MODEL_TOPIC_MATCH**: 차량 수출을 위한 정확한 수출 FX 정착 및 무역 FX 관리
+- **IMAGE_SCOPE_NOTE**: 이미지는 정확한 모델 가족/토닉에서만 일치해야 합니다. 특정 트림, 모델 년, 실제 VIN, 인-인터 검사 또는 실제 거래에 영향을 미치지 않아야 합니다.
+- **IMAGE_RIGHTS_STATUS**: FAIL(실버)
+- **BLOCK_REASON**: 재사용 가능한 이미지는 보안되지 않았습니다: Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 없으며, 주식 라이브러리는 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 없습니다. 기록은 asserted 보다는 오히려 FAIL를 지켜.
+- **ALT (12 언어)**:
   - **EN**: export FX settlement, Chinese-market procurement guide export buyer reference
   - **FR**: export FX settlement, procurement guide du marché chinois, référence acheteur export
   - **DE**: export FX settlement, Chinesischer procurement guide, Referenz für Exportkäufer

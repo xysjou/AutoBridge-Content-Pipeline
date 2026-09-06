@@ -1,61 +1,64 @@
-# The Vehicle Export Document Package: Current Certificate Standard vs the Mandatory Standard Still in Draft
+# مجموعة وثائق تصدير المركبات: معيار الشهادة الحالي مقابل المعيار الإلزامي لا يزال في مشروع
 
 ## SEO Metadata
-- **SEO Title**: China Vehicle Export Document Package Guide — GB/T 21085-2020 Current Standard
-- **Meta Description**: Build the export document set around the current GB/T 21085-2020 factory certificate, distinguish it from the mandatory 20260041-Q-339 standard still under development, and treat NEV/translation items as recommendations.
-- **Suggested URL**: /guides/export-vehicle-document-package
-- ** H1 **: Assembling a Chinese Vehicle's Export Document Package — What Is Current, What Is Still a Draft, What We Recommend
-- **Primary Keyword**: vehicle export document package factory certificate GB/T21085
-- **Secondary Search Terms**: 机动车出厂合格证, GB/T21085-2020 current, 20260041-Q-339 draft, certificate of conformity export, NEV export documents UN38.3
-- ** Internal Link Suggestions**: /guides/vin-nameplate-verification-chinese-vehicles/; /guides/ev-shipping- un3556-imdg-compliance/ /guides/china-export-certificate-oforigin/
-- **Image Suggestions**: document bundle layout; current-vs-draft standard timeline; domestic vs export file split
-- **ALT Suggestions**: "Current GB/T21085-2020 certificate versus mandatory 20260041-Q-339 draft"
+- ** عنوان الحلقة**: دليل مجموعة وثائق تصدير المركبات في الصين - GB/T 21085-2020
+- ** وصف البيانات**: (ب) بناء وثيقة التصدير التي حُددت حول شهادة مصنع الـ 21085-2020 الحالية، والتمييز بينها وبين المعيار الإلزامي البالغ 20260041-Q-339 الذي لا يزال قيد التطوير، ومعاملة بنود الإنشاء والترجمة على أساس المقياس الجديد كتوصيات.
+- ** المبلغ المشترَك في إطار جولة أوروغواي**: /الإرشادات/التغطية المرفوعة على وثائق المركبات
+- ** H1 ** "تدمج مجموعة وثائق تصدير السيارات الصينية "ما هي "تيك ما الذي لا يزال مشروع ما نوصي به
+- ** كلمة رئيسية تصوّر**: شهادة مصنع لحزم وثائق تصدير المركبات GB/ T21085
+- ** شروط البحث الثانية**: 机动车出厂合格证، GB/ T21085-2020 الحالية، 20260041-Q-339 مشروع، شهادة تصدير المطابقة، وثائق تصدير الأجسام القريبة من الأرض UN38.3
+- ** مقترحات داخلية بشأن " لينك "**: /مبادئ توجيهية/مفردة - التحقق من صحة المعلومات - المركبات الصينية/؛ /مبادئ توجيهية/رفع مستوى الشحن - un3556-imdg-compliance/؛ /مبادئ توجيهية/آلية - شهادة المنشأ
+- ** اقتراحات بشأن الشكل**: مخططات حزم الوثائق؛ الجدول الزمني الموحد للمسار الحالي؛ توزيع ملفات التصدير المحلية مقابل
+- ** اقتراحات بشأن المادة الثالثة**: شهادة الـT21085-2020 من طراز GB مقابل 20260041-Q-339 مشروع إلزامي
 
 ## The Trap: Treating a Draft Standard as Current
-Document-package guides often cite a forthcoming mandatory certificate standard as if it were already in force. That creates paperwork expectations no current rule supports. This page draws a hard line: the **current** standard for the motor-vehicle factory certificate is **GB/T 21085-2020**; a mandatory replacement (plan **20260041-Q-339**) is **under development and neither published nor in force**, and must not be presented as a current requirement.
+وكثيرا ما تشير أدلة التغليف الوثائقي إلى معيار إلزامي للشهادة الوشيك كما لو كان ساريا بالفعل. وهذا يخلق توقعات أوراقية لا تؤيدها القواعد الحالية. وترسم هذه الصفحة خطاً صلباً: المعيار ** الجاري إصداره** لشهادة مصنع المركبات هو **GB/T 21085-2020 **؛ والاستبدال الإلزامي (الخط = 20260041-Q-339 **) هو ** التنمية دون النشر أو النافذ**، ويجب عدم تقديمه كشرط حالي.
 
-## The Current Certificate Standard (verified)
-- **CURRENT STANDARD: GB/T 21085-2020 *Motor vehicle factory certificate*** — a **recommended** national standard, issued 2020-04-28, in force 2020-11-01, and **reviewed as still current on 2026-01-27**. The factory certificate is issued by the manufacturing enterprise.
-- **FUTURE / DRAFT: mandatory *Vehicle factory certificate*, plan number 20260041-Q-339** — intended to replace GB/T 21085-2020, assigned 2026-01-27 with a 16-month cycle and currently under approval; the MIIT "GB 21085—XXXX" text is a **consultation draft**. It is **not published, not effective, and must never be labelled current or mandatory** in a buyer-facing document.
+## معيار الشهادة الحالية (محدد)
+- ** ستاندرزون: GB/T 21085-2020 *Motor vehicle factory certificate*** — a **recommended** national standard, (أصدرت (2020-04-28 في القوة 2020-11-01  and  ** أعيد النظر فيها على أنها لا تزال جارية في 2026-01-27 **. وتصدر شهادة المصنع من قبل مؤسسة التصنيع.
+- ** FUTURE /DRAFT: mandatory *Vehicle factory certificate*, plan number 20260041-Q-339 ** - intended to replace GB/T 21085-2020, assigned 2026-01-27 with a 16-month cycle and currently under approval; the MIIT "GB 21085 —XXXX" text is a **consultation draft**. وهو ** غير منشور، وليس فعالا، ولا يجب أبدا أن يُسمّى بالوضع الحالي أو الإلزامي** في وثيقة تُثبّت المشتري.
 
-## The Handover Document Set (cross-checked)
-A domestically delivered new vehicle normally travels with: full sales invoice, (domestic) factory certificate, commodity inspection sheet, **certificate of conformity**, warranty (three-guarantee) voucher, maintenance manual, owner's manual, and the onboard tools/spares list. For **new-vehicle export sales**, the domestic registration stage additionally requires the **manufacturer's safety/technical inspection certificate (original)** and a **copy of the commerce-authority motor-vehicle export licence** (per the motor-vehicle registration work rules).
+## مجموعة وثائق التسليم (مراجعة)
+وتسافر مركبة جديدة تُسلّم محلياً عادةً مع: فواتير البيع الكاملة، وشهادة مصنع (ناشي) وصحيفة تفتيش السلع الأساسية، وشهادة المطابقة**، وقسائم الضمان (ثلاثة غوارانت)، ودليل الصيانة، ودليل المالك، وقائمة الأدوات/الصفوفات على متن السفينة. بالنسبة لمبيعات التصدير الجديدة**، فإن مرحلة التسجيل المحلي تتطلب أيضاً شهادة السلامة/التفتيش التقني (المسبق)**، ونسخة من رخصة تصدير السيارات التجارية - الصلاحية** (لائحة قواعد تسجيل السيارات)
 
-## Multi-Stage / Incomplete-Vehicle Rule: Withdrawn Pending a Current Basis
-An earlier draft described how vehicles completed from imported incomplete vehicles or via multi-stage manufacture would be issued only a whole-vehicle factory certificate. That rule's **only source is a consultation draft**; it is **not confirmed by the current GB/T 21085-2020 text or any current regulation**, so it is **not stated as a current requirement** here. Treat any such arrangement case-by-case until a non-draft basis exists.
+## المرحلتان المتعددتان/القطع غير المكتملة القاعدة: سحبت لحين إنشاء منطقة في الحوض الحالي
+ووصف مشروع سابق كيف ستصدر المركبات المكتملة من المركبات المستوردة غير المكتملة أو عن طريق الصنع المتعدد المراحل شهادة مصنع شامل. هذا المصدر الوحيد للتشاور ** لم يؤكده النص الحالي للدليل العام/النص الحالي البالغ 21085-2020، أو أي لائحة حالية**، ولذلك فإنه لا يُذكر كمطلب حالي** هنا. معالجة أي ترتيب من هذا القبيل على أساس كل حالة على حدة إلى أن يتم وضع أساس غير قائم على مشروع القرار.
 
-## NEV and Translation Items — Editorial Recommendation, Not a Mandate
-The following are **recommended** to prepare; whether each is required depends on the carrier/maritime authority and the destination port, so they are framed as guidance rather than a universal mandate:
-- For a **new-energy vehicle**: the battery **UN38.3 test summary**, dangerous-goods packaging certificate where applicable, and MSDS (linked to the IMDG shipping guide).
-- For **overseas clearance/registration**: an **English or destination-language version** of the certificate of conformity / technical parameter sheet, stamped by the issuing party; whether notarization/consular legalization is needed depends on the destination.
+## بنود جديدة وترجمة - توصية تحريرية، لا ولاية
+تُوصى بما يلي** للتحضير؛ أما إذا كان كل منها مطلوباً فيتوقف على سلطة الناقل/الرحلات وميناء المقصد، بحيث تُصاغ كتوجيه وليس على ولاية عالمية:
+- بالنسبة لمركبة الطاقة الجديدة**: موجز اختباري للبطارية ** UN38.3**، وشهادة تعبئة البضائع الخطرة عند الاقتضاء، وMSDS (المتصل بدليل النقل البحري الدولي للبضائع الخطرة).
+- بالنسبة إلى التطهير/التسجيل**: نسخة باللغة الإنكليزية أو لغة المقصد** من شهادة المطابقة/صحيفة البارامترات التقنية، التي ختمها الطرف المُصدر؛ أما إذا كان من الضروري التوثيق/الإضفاء الشرعية القنصلية، فيتوقف على الوجهة.
 
-## Assembly Order We Recommend
-1. Confirm the factory certificate is issued under **current GB/T 21085-2020** — do not demand the not-yet-published mandatory standard.
-2. Collect the standard handover set; for export-sale registration add the manufacturer inspection certificate original and export-licence copy.
-3. Cross-check the certificate VIN against body/nameplate (see the VIN guide).
-4. For NEVs, prepare UN38.3/MSDS per the booked carrier (recommendation).
-5. Prepare stamped translations only to the extent the destination requires them.
+## قرار الجمعية العامة نوصي به
+1. وتتأكد من أن شهادة المصنع تصدر تحت الرمز GB/T 21085-2020 ** - لا تطلب المعيار الإلزامي غير المنشور.
+2. (ب) جمع مجموعة التسليم الموحدة؛ وللاطلاع على تسجيل التصدير - البيع، تضاف شهادة التفتيش الصانع الأصلية ونسخة الترخيص بالتصدير.
+3. فحص شهادة فين ضد الجسد/الاسم (انظر دليل شبكة المعلومات الشخصية).
+4. وبالنسبة للمركبات القريبة من الأرض، تعد UN38.3/MSDS لكل ناقل محجوز (التوصية).
+5. إعداد ترجمات مطروحة فقط إلى الحد الذي تحتاج إليه الجهة.
 
-## Boundaries of This Guide
-- The multi-stage/incomplete-vehicle issuance rule is **DRAFT_ONLY and blocked** from current-requirement wording.
-- The future mandatory standard's exact clauses/effective date are unknown until publication.
-- Whether a destination accepts the Chinese CoC as a registration CoC is country-specific and not asserted.
+## حدود هذا الدليل
+- قاعدة إصدارات متعددة المراحل/غير كاملة هي: **DRAFT_ONLY ومسدودة** من صيغة الاحتياج الحالية.
+- شروط المعيار الإجباري في المستقبل وتاريخ فعال غير معروف حتى نشره
+- وسواء قبلت جهة ما لجنة التنسيق الصينية كشركة تسجيل، فهي بلد محدد ولا تؤكد.
 
-## Frequently Asked Questions
-**Which factory-certificate standard is current now?** GB/T 21085-2020 (recommended, current; reviewed 2026-01-27).
-**Is 20260041-Q-339 mandatory?** No — it is a mandatory standard still under development; GB 21085—XXXX is a consultation draft, not in force.
-**Are UN38.3 and translated CoC documents mandatory?** They are recommended preparations; actual need depends on the carrier/maritime authority and destination.
-**What extra file does an export-sale registration need?** The manufacturer's safety/technical inspection certificate (original) and a copy of the motor-vehicle export licence.
+## الأسئلة المتكررة
+** أي معيار شهادة المصانع هو الآن؟ ** GB/T 21085-2020 (recommended, current; reviewed 2026-01-27)
+** هل هو إلزامي 20260041-Q-339؟** لا - إنه معيار إلزامي لا يزال قيد التطوير؛ ودليل التراكمي 21085 -XXXX هو مشروع تشاور، وليس ساريا.
+** مبلغ UN38.3 وترجمة وثائق لجنة التنسيق المركزية الإلزامية** وتوصى بإعدادها؛ وتتوقف الحاجة الفعلية على سلطة الناقل/الرحلات الجوية والمقصد.
+** ما هو الملف الإضافي الذي يحتاجه تسجيل التصدير؟** شهادة المُصنع (المُنشأة) ونسخة من رخصة تصدير السيارات
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
+## سجل الصور
+- لم يُؤمن أي منها في مستودع
 - ORIGINAL: IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
+- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
+- الحقوق - حقوق غير مؤكدة
+- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
+- CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
+- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات ويكيميو/فلكر غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات المسبقة/الرخصة، وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
 - ALT by language:
   - **EN**: AutoBridge export-buyer reference — Vehicle export document package, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Vehicle export document package, guide d’achat à l’export automobile
@@ -70,24 +73,24 @@ The following are **recommended** to prepare; whether each is required depends o
   - **AR**: مرجع AutoBridge لمشتري التصدير — Vehicle export document package, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Vehicle export document package, 汽车出口采购指南
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## المصدر: التحقق
+| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
-| GB/T 21085-2020 factory certificate (current) | SAMR openstd | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=1FBD2FBDA2AAFED7B856221F3FF5EFFB | 2026-09-04 | VERIFIED (primary) | Current standard/status/dates |
-| SAMR platform; GB/T 21085-2020 detail | SAMR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=A47A713B75CF14ABE05397BE0A0ABB25 | 2026-09-04 | VERIFIED (primary) | Issue/effective/review dates |
-| Mandatory standard plan 20260041-Q-339 (future, under development) | SAMR | CN | https://std.samr.gov.cn/noc/search/nocPlanDetailed?id=49850161EF55CEAEE06397BE0A0AC481 | 2026-09-04 | TIME_SENSITIVE (primary) | Draft/future status |
-| SAMR notice assigning 24 mandatory standard plans | SAMR/SAC | CN | https://www.samr.gov.cn/cms_files/filemanager/1647978232/attach/20261/82b38302792642c083f8d8ff5144fd7f.pdf | 2026-09-04 | VERIFIED (primary) | Plan assignment |
-| MIIT GB21085 —XXXX consultation draft (non-current) | MIIT | CN | https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20263/0bc57c477169401e840a5a60c06b5d83.pdf | 2026-09-04 | DRAFT (primary) | Draft-only multi-stage text (blocked from current wording) |
-| Motor-vehicle registration work rules (export-sale files) | Xiantao municipal gov | CN | https://www.xiantao.gov.cn/ztzl/zcwj1/zc1/202510/t20251029_5800319.shtml | 2026-09-04 | VERIFIED (primary) | Inspection certificate + licence copy |
-| Whole-vehicle export file list | NetEase | CN | https://www.163.com/dy/article/KJSNGPO20556820S.html | 2026-09-04 | CROSS_CHECKED | Handover set, NEV/translation recommendations |
-*Draft gate: multi-stage issuance rule and the mandatory replacement are DRAFT/FUTURE and excluded from current-requirement statements; NEV/translation items are editorial recommendations.*
+| GB/T 21085-2020 factory certificate (current) | SAMR openstd | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=1FBD2FBDA2AAFED7B856221F3FF5EFFB | 2026-09-04 | مثقفة)بالمرتبة الأولى( | المعيار/الحالات/التاريخات الحالية |
+| SAMR platform · GB/T 21085-2020 detail | SAMR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=A47A713B75CF14ABE05397BE0A0ABB25 | 2026-09-04 | مثقفة)بالمرتبة الأولى( | مواعيد إصدار الطلبات/فعاليتها/استعراضها |
+| Mandatory standard plan 20260041-Q-339 (future, قيد التنمية) | SAMR | CN | https://std.samr.gov.cn/noc/search/nocPlanDetailed?id=49850161EF55CEAEE06397BE0A0AC481 | 2026-09-04 | الوقت - الظروف)الأساسية( | حالة المشروع/الأثاث |
+| إشعار الرابطة بتخصيص 24 خطة معيارية إلزامية | SAMR/SAC | CN | https://www.samr.gov.cn/cms_files/filemanager/1647978232/attach/20261/82b38302792642c083f8d8ff5144fd7f.pdf | 2026-09-04 | مثقفة)بالمرتبة الأولى( | مهمة الخطة |
+| MIIT GB21085—XXXX consultation draft (non-current) | MIIT | CN | https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20263/0bc57c477169401e840a5a60c06b5d83.pdf | 2026-09-04 | مشروع القرار (الأساسي) | نص مشروع متعدد المراحل فقط (مغلق على الصياغة الحالية) |
+| قواعد عمل التسجيل في الوحدات (ملفات بيع الصادرات) | Xiantao municipal gov | CN | https://www.xiantao.gov.cn/ztzl/zcwj1/zc1/202510/t20251029_5800319.shtml | 2026-09-04 | مثقفة)بالمرتبة الأولى( | شهادة التفتيش + نسخة الترخيص |
+| قائمة ملفات التصدير بكاملها | NetEase | CN | https://www.163.com/dy/article/KJSNGPO20556820S.html | 2026-09-04 | صرخات | مجموعة تسليم، توصيات بشأن الأجسام القريبة من الأرض/الترجمة |
+* بوابة البرمجيات: قاعدة الإصدار المتعدد المراحل والاستبدال الإلزامي هي مشروع تجديد موارد المؤسسة/النظام الإلكتروني للمستقبل، ويُستبعد من بيانات الاحتياجات الحالية؛ أما بنود الإنشاء والتعمير/الترجمة فهي توصيات تحريرية. ♪
 
-## Editorial Review
+## استعراض التحرير
 - ** Author**: AutoBridge Export Editorial Team; method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: Chinese vehicle documents (destination CoC acceptance excluded)
-- **Verification method**: Current GB/T21085-2020 anchored on SAMR; draft/future standard explicitly quarantined
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+- ** لم يُستعرض بعد**: 2026-09-05
+- ** سوق الإحالة**: وثائق المركبات الصينية (مستبعدة قبول الشركة)
+- ** طريقة التحقق**: القائمة الحالية للدليل العام/ T21085-2020 على النتائج الاستراتيجية؛ مشروع/معيار محمول صراحة
+- ** الشفافية**: استُخدمت الصياغة المدعومة من منظمة العفو الدولية. وتستند هذه المادة إلى البحوث المكتبية وآلية الجودة. ولا يُزعم إجراء أي اختبار مباشر إلا إذا تم توثيقه بشكل صريح؛ ويؤكد متطلبات مراعية للوقت ومحددة للمقصد قبل التحول.
+- ** المعيار الإفريقي**: باحثة ومحررة من المصادر المذكورة أعلاه (بحوث مكتبية؛ ولا يُدَّعى عن أي قيادة مباشرة أو تمزق أو استيراد). وتظهر الثقة في المصدر في الصف الواحد؛ وأي نقطة لا يمكننا تأكيدها بشكل مستقل تعرض كبند تحقق بدلا من التأكيد على أنها حقيقة.
 
 **Tags**: #ExportDocuments #GBT21085 #VehicleCertificate #DraftStandard #ExportCompliance

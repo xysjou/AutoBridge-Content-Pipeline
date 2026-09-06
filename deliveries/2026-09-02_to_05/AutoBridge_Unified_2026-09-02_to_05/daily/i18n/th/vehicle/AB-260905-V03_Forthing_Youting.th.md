@@ -1,87 +1,90 @@
-# Dongfeng Forthing Youting (2025/2026) — Chinese-Market MPV Specs, ICE/PHEV Lines and Export Checks
+# Dongfang Forth Youting (2025/2026) — ภาษาจีน-Maget MPV สเปกส์ ICE/ HIV เส้น  and  Check ของส่งออก
 
-## SEO Metadata
-- **SEO Title**: Forthing Youting MPV: Chinese-Market ICE & PHEV Lines, Specs and Export Guide
-- **Meta Description**: Chinese-market Dongfeng Forthing Youting (游艇) MPV: keep the ICE and PHEV lines separate; dimensions, 7-seat cabin, PHEV powertrain and export verification points.
-- ~ H1~: Dongfeng Forthing Youting (2025/2026) — Chinese-Market MPV Specs, ICE/PHEV Lines and Export Checks
-- **Primary Keyword**: Dongfeng Forthing / 东风风行 Youting / 风行游艇 specs export
-- **Secondary Search Terms**: Forthing Youting export; 游艇 MPV specs; Chinese 7-seat MPV; DEFLE (MPV); passenger van import
-- **Suggested URL**: /vehicles/forthing-youting/
-- **Search Intent**: 了解 Dongfeng Forthing / 东风风行 Youting / 风行游艇 中国版规格、配置与出口适配性（车型参数页）
-- **Internal Link Suggestions**: / viohles/ position-Worning////guides/knd-skd-known-kt-kart-asport-assably/////guides/export-document-history-History/
-- ~Schema Scope~: Article + Vehicle (no Product/Offer/Review)
+## เชา ข้อมูลกํากับภาพ
+- < secontinuation*: ฟอร์ตใด ๆ ที่ Yourting MPV: ภาษาจีน- image ICE & PhEVLLS, Specs และคู่มือส่งออก
+- ""คําอธิบาย" Chinese-market Dongfeng Forthing Youting (游艇) MPV: เก็บ ICE และสาย PhEV แยก; ขนาด กระท่อม 7-seat กระท่อม โรงไฟฟ้า และจุดตรวจการส่งออก
+- **H1**: Dongfang Forth Youting (2025/2026) — ภาษาจีน-Maget MPV สเปกส์ ICE/ HIV เส้น  and  Check ของส่งออก
+- ดงฟัน ฟอร์ทูธ 东风风行 ส่วนขยายของคุณ / 风行游艇 สเปกตรัมส่งออก
+- ~การค้นหาตามวาระที่: ~ สําหรับสิ่งที่คุณส่งออก 游艇 สเปกตรัม MPV; ภาษาจีน 7-seat MPV; DEFLE (MPV); นําเข้ารถตู้ผู้โดยสาร
+- ~ที่อยู่ URL ที่ถูกย่อ: / สืบค้น/ สําหรับทุกอย่าง-คุณ/
+- สืบค้นเมื่อ 了解 ดงเฟ็ง สําหรับทุกอย่าง 东风风行 ซิงเกิล / 风行游艇 中国版规格 、 配置与出口适配性 (车型参数页)
+- ** ลิงก์ภายใน ข้อเสนอ: / สืบค้น/ แก้ไขทุกอย่าง// guides/skd-skd-chockd-chown-kit-export-asplib////// guides/ docort-documn-History/
+- ~Schema Scop~: มาตรา + moft (ไม่มี Production/Offer/Review)
 
-## Buyer context: one MPV nameplate, two energy lines
-The **Dongfeng Forthing Youting (游艇)** is a mid-size Chinese-market MPV offered in **ICE and PHEV lines that must be quoted separately**. They share a 2900 mm wheelbase and 7-seat, hinged-door cabin but differ in height and powertrain. Reference market is **China**; no export-line specification is claimed.
+## บริบทของตัวซื้อ: ป้ายชื่อ MPV หนึ่งตัว, สายพลังงานสองสาย
+The **Dongfeng Forthing Youting (游艇)** is a mid-size Chinese-market MPV offered in **ICE  and  ppel ที่จะต้องอ้างถึงกัน! พวกเขาใช้ล้อล้อร่วมกัน 2900 mm คัน  and  7-seat (พ.ศ. Hinged - ประตูกระท่อม แต่แตกต่างกันในความสูง  and  เครื่องยนต์ ตลาดอ้างอิงคือ.... ประเทศจีน ไม่มีส่วนกําหนดของบรรทัดส่งออก
 
-## Cabin, dimensions and the two lines
-- **Wheelbase/seating**: 2900 mm, 7（5门，平开门） (five doors, hinged/sliding as built — confirm by trim).
-- **ICE body**: 4850 / 1900 / 1715 mm (cross-checked).
-- **PHEV body**: 4850 / 1900 / 1740 mm (cross-checked; note the taller roofline).
-- **PHEV powertrain**: 1.5T 154马力 L4, engine torque 230 N·m, motor torque 310 N·m, 1挡DHT, top speed 180 km/h.
-- **Charging note**: per the captured AutoHome account the PHEV **does not support DC fast charging** — confirm on the exact trim.
-- **Chinese domestic reference price (time-sensitive)**: from 15.49 RMB; a Chinese domestic MSRP only, never an export price.
+## กระท่อม ขนาด และเส้นตรงสองเส้น
+- ~โวเซลเบส/กิน ~ 2900 mm (พ.ศ.  7（5门，平开门） (five doors, hinged/slidge as breed — ได้รับการยืนยันโดยการตัด).
+- "ศพ" 4850 / 1900 / 1715 mm (ตรวจสอบก่อน).
+- **PHEV body**: 4850 / 1900 / 1740 mm (ตรวจสอบการข้าม; พ.ศ. โน้ตสายหลังคาสูง).
+- ♪ พลังอํานาจที่ DEE ♪: 1.5T 154 马力 L4 เครื่องยนต์แรงสูง 230 N·m มอเตอร์แรงสูง 310 N·m, 1 挡 DHT, ความเร็วสูงสุด 180 km/h.
+- ~จดหมายเข้าจังหวะ ~: ต่อบัญชีที่จับได้ของออโตไฮอม... ไม่รองรับ DC ชาร์จเร็ว~ -- ได้รับการยืนยันค่าปรับที่แน่นอน
+- ~ราคาอ้างอิงภายในประเทศ (ความไวในการใช้งาน) ~: จาก 15.49 RMB; MSRP ภาษาจีนเฉพาะในประเทศเท่านั้น ไม่เคยจ่ายส่งออก
 
-## Verified specification table (Chinese-market reference)
-| Specification | Value | Unit | Market | Confidence | Source note |
+## ตารางกําหนดเพิ่มเติมเพิ่มเติม (อ้างอิงของ Chinese- market)
+| การกําหนด | ค่า | หน่วย | ตลาด | ความมั่นใจ | บันทึกช่วยจําต้นฉบับ |
 |---|---|---|---|---|---|
-| length width height ice | 4850 / 1900 / 1715 | mm | CHINA | ROOS_ CHCKED | 太平洋+搜狐 |
-| length width height phev | 4850 / 1900 / 1740 | mm | CHINA | ROOS_ CHCKED | 汽车之家+太平洋 |
-| wheelbase | 2900 | mm | CHINA | ROOS_ CHCKED | 太平洋+搜狐 |
-| seats | 7（5门，平开门） | - | CHINA | SINGLE_SOURCE | 搜狐车型库 |
-| phev engine | 1.5T 154马力 L4 | - | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
-| phev engine torque | 230 | N·m | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
-| phev motor torque | 310 | N·m | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
-| phev transmission | 1挡DHT | - | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
-| phev top speed | 180 | kmi/h | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
-| phev dc fast charge | 不支持快充（汽车之家口径） | - | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
-| phev china msrp start | 15.49 | 万元人民币 | CHINA | TIME_SENSITIVE | 车主之家 |
+| ความหนาของน้ําแข็ง | 4850 / 1900 / 1715 | อืม | จีน | ROOS_ CHCKED | 太平洋 + 搜狐 |
+| ความสูง: | 4850 / 1900 / 1740 | อืม | จีน | ROOS_ CHCKED | 汽车之家 + 太平洋 |
+| เบสล้อ | 2900 | อืม | จีน | ROOS_ CHCKED | 太平洋 + 搜狐 |
+| ที่นั่ง | 7（5门，平开门） | - | จีน | ผู้โดยสาร_ปลายทาง | 搜狐车型库 |
+| เครื่องยนต์ Feb | 1.5T 154马力 L4 | - | จีน | ผู้โดยสาร_ปลายทาง | 汽车之家车家号 |
+| เครื่องยนต์ Feb | 230 | น. ม. | จีน | ผู้โดยสาร_ปลายทาง | 汽车之家车家号 |
+| มอเตอร์ phav | 310 | น. ม. | จีน | ผู้โดยสาร_ปลายทาง | 汽车之家车家号 |
+| การส่งข้อมูลแบบ Feb | 1 挡 DHT | - | จีน | ผู้โดยสาร_ปลายทาง | 汽车之家车家号 |
+| ความเร็วสูงสุดของ phv | 180 | kmi/h | จีน | ผู้โดยสาร_ปลายทาง | 汽车之家车家号 |
+| ชาร์จเร็วของ phv dc | 不支持快充 (汽车之家口径). | - | จีน | ผู้โดยสาร_ปลายทาง | 汽车之家车家号 |
+| เริ่มงาน mpv hav Msrp | 15.49 | 万元人民币 | จีน | เวลา | 车主之家 |
 
-## MPV procurement focus: seating, conversion and what is deliberately missing
-For MPV importers the order-critical fields are seat count/configuration, door type, cabin length and whether the unit is ICE or PHEV. The PHEV **battery capacity and pure-electric range are not reliably captured and are withheld**, and fast-charging rests on a single source; do not fill these from assumption. Any ambulance, VIP shuttle or wheelchair conversion is an upfit built on this MPV and belongs to a separate special-vehicle assessment.
+## โฟกัสของ MPV การจัดหา: การนั่ง, การเปลี่ยน และสิ่ง ที่จงใจพลาด
+สําหรับผู้นําเข้า MPV สนามลําดับ- วิกฤต นับ/ การปรับแต่งที่นั่ง, ชนิดของประตู, ความยาวห้องโดยสาร และหน่วยคือ IEE หรือ PhEV ความจุของยา และช่วงพลังงานบริสุทธิ์ ไม่สามารถถูกกักและถูกกักไว้ และพลังงานที่เร่งความเร็วจะไหลมาตกที่แหล่งเดียว อย่าเติมมันจากข้อสันนิษฐาน รถพยาบาล, กระสวยยานวีไอพี หรือ รถเข็น เปลี่ยน เป็นรถที่สร้างขึ้นบนรถ MPV และเป็นการประเมินพิเศษ
 
-## Overseas buyer verification before payment
-1. State ICE or PHEV explicitly and record the matching dimensions/height.
-2. Confirm 7-seat layout, door type and any conversion scope.
-3. Obtain PHEV battery/electric-range and charging data from OEM before quoting them — they are blocked here.
-4. Confirm destination emissions/type-approval and (for PHEV) charging standard.
-5. Treat the RMB figure as domestic reference only; request a current export quotation.
+## ผู้ซื้อที่ดูแลการขออนุมัติก่อนจะจ่ายเงิน
+1. ICE หรือ PhEV โดยตรงและบันทึกมิติที่เข้ากันได้/ความสูง
+2. ยืนยันผังผัง 7-seat, ประเภทประตู และขอบเขตการแปลงใดๆ
+3. Obtain แบตเตอรี่ PhEV/ electicial-range และชาร์จข้อมูลจากโออีเอ็มก่อนที่จะอ้างถึงมัน มันถูกบล็อกที่นี่
+4. ยืนยันปลายทาง/ ประเภท approval และ (สําหรับ PhED) มาตรฐาน
+5. ปฏิบัติกับตัวเลข RMB เป็นอ้างอิงภายในประเทศเท่านั้น ร้องขอการส่งออกแบบปัจจุบัน
 
-## FAQ
-**Are the ICE and PHEV Youting the same size?** Same wheelbase, but the PHEV is slightly taller; quote each line separately.
-**What is the PHEV electric range?** Not reliably sourced here and intentionally omitted.
-**Does it fast-charge?** One source says no DC fast charging; confirm by exact trim.
-**Is 154,900 RMB the export price?** No — Chinese domestic reference only.
-**Can it be converted to a shuttle/ambulance?** As an upfit; assess separately from the base MPV.
+## ขนาด FAQ
+~ ICE และ PhEV areting ขนาดเดียวกัน? ~ ล้อเดียวกัน แต่ PhEV สูงหน่อย ยกมาแต่ละบรรทัดแยกกัน
+~แล้วช่วงพลังงาน PhEV มีอะไรบ้าง~ ไม่มีข้อมูลที่นี่ และจงใจละทิ้ง
+♪ มันชาร์จเร็วหรือไม่ ♪ แหล่งข่าวคนหนึ่งบอกว่า ไม่มี ดีซี ชาร์จเร็ว ได้รับการยืนยันด้วยค่าปรับที่แน่นอน
+~ 154, 900 RMB ราคาส่งออก? ~ ไม่ — เฉพาะ แต่ การ อ้างอิง ใน ประเทศ จีน เท่า นั้น.
+~มันจะถูกเปลี่ยนเป็นกระสวยยาน/ยานชูชีพได้ไหม~ เป็น upfit; ประเมินแยกจากเบส MPV
 
 
-## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
+## ต้นฉบับและการตรวจสอบสิทธิ์
+| แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| 风行游艇 车型百科 | 太平洋汽车百科 | CN | T3 | ROOS_ CHCKED | http://m.pcauto.com.cn/baike/1542347/2562358/ | 尺寸, 轴距, 座椅, 车门形式 |
-| 风行游艇 车型信息 | 汽车之家车家号 | CN | T3 | ROOS_ CHCKED | https://chejiahao.m.autohome.com.cn/info/23897205?isfrom=pc | PHEV动力, 快充, 价格 |
+| 风行游艇 车型百科 | 太平洋汽车百科 | CN | T3 | ROOS_ CHCKED | http://m.pcauto.com.cn/baike/1542347/2562358/ | 尺寸 轴距 轴距 座椅 车门形式 (พ.ศ. |
+| 风行游艇 车型信息 | 汽车之家车家号 | CN | T3 | ROOS_ CHCKED | https://chejiahao.m.autohome.com.cn/info/23897205?isfrom=pc | PhEV 动力 快充 价格 (พ.ศ. |
 | 风行游艇 参数配置 | 搜狐汽车车型库 | CN | T2 | ROOS_ CHCKED | https://db.auto.sohu.com/model_6769/config | 尺寸, 座位, 动力 |
-| 风行游艇 新车资讯 | 车主之家 | CN | T3 | ROOS_ CHCKED | https://m.16888.com/news/2026/0807/24830307.html | PHEV上市信息 |
-| Dongfeng Forthing official global site | Dongfeng Liuzhou Motor / Forthing 东风风行 (OEM) | CN | T1 | VERIFIED | https://www.forthingmotor.com/ | brand/model-line identity and OEM authority |
-| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | T1 | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
-| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
-## Editorial Review
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: China (Chinese-market reference specification; not a global spec)
-- **Verification method**: Desk research against the sources below; Chinese-market reference specification only unless a separate export market is explicitly cited.
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
+| 风行游艇 新车资讯 | 车主之家 | CN | T3 | ROOS_ CHCKED | https://m.16888.com/news/2026/0807/24830307.html | PhEV 上市信息 |
+| ดงเฟ็ง ดินแดนใด ๆ อย่างเป็นทางการ | Dongfang Tuxoo Motor / Forthing 东风风行 (OEM) | CN | T1 | เปิดใช้งาน | https://www.forthingmotor.com/ | แบรนด์/ แบบไลน์และหน่วยงานโออีเอ็ม |
+| กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูล (MIT) | MIT 工业和信息化部 | CN | T1 | เปิดใช้งาน | https://www.miit.gov.cn/ | การออกเสียง/ การปล่อยเสียง; ยืนยันการจําลองที่แน่นอน, มวลและรหัสโดย VIN/ language |
+| กรมการต่างประเทศสําหรับกําหนดตลาด (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | เปิดใช้งาน | https://www.samr.gov.cn/ | มาตรฐานประเทศ, การจัดตั้ง และ อํานาจในการยึดตลาด |
+## การทบทวนแก้ไข
+- ~Uuthor ♪: AutoBridge ส่งออกทีมแก้ไข [ผู้เขียน](/ ผู้เขียน/) สืบค้นเมื่อ [ใช้ในการแก้ไขนโยบาย] [/Di-policy/]
+- ~ถูกตรวจสอบแล้ว~: 2026-09-05
+- ~ ตลาดแห่งความอิ่มเอิบ: จีน (กําหนดตลาดหลักทรัพย์-ตลาด); ไม่ใช่สเปก (พ.ศ.
+- ~วิธีการสร้างความสัมพันธ์ ~: งานวิจัยที่ขัดกับแหล่งย่อยด้านล่างนี้; การอ้างอิงตลาดจีน-มาร์เก็ต ก็ต่อเมื่อมีการอ้างอิงตลาดส่งออกอย่างตรงไปตรงมา
+- การร่างแบบ AI-assisted ถูกใช้ บทความนี้ตั้งอยู่บนพื้นฐานของงานวิจัยในตาราง และอัตโนมัติ QA ไม่มีการอ้างอิงการทดสอบก่อน จนกว่าจะมีการระบุรายละเอียดอย่างชัดเจน ยืนยันความต้องการที่ต้องใช้เวลาและกําหนดปลายทาง ก่อนทําการข้ามเวลา
 
-## Image Record
-- **IMAGE_ASSET_PATH**: none secured in repository
-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ not captured
-- **SOURCE_PAGE**: not captured
-- **RIGHTS_HOLDER**: unconfirmed
-- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
-- ~ECHCKKED_DATE ~: 2026-09-05
-- ~CRL/TOPIC_MATCH~: exact Dongfeng Forthing Youting
-- **IMAGE_RIGHTS_STATUS**: FAIL
-- **ALT (12 languages)**:
+## บันทึกรูปภาพ
+- ~ประกาศ_BAR_ PATH ~ ~ ไม่มีคนปลอดภัยในห้องเก็บของ
+- ~~~~~ไม่ถูกจับ~
+- ~ประกาศจับ~: ไม่ถูกจับ
+- ** UNTER_FELE_ PATE*: ใช้ไม่ได้ — ไม่มีเอกสารผู้สมัครใด ๆ ที่ระบุ (ไม่มีใบรับรองที่จะยืนยัน)
+- ~ห้ามยืนยัน~
+- **LICENSE_OR_USAGE_BASIS**: ไม่ มี ใคร ปลอด ภัย — การ มี เว็บไซต์ อยู่ ใน เวลา นี้ ไม่ ใช่ การ ลง ทะเบียน ทํา ซ้ํา อีก ครั้ง ใน การ ค้า
+- ~CKND_DATE ~ 2026-09-06
+- ~FTL_TOPIC_MATCH~: แน่นอนดงเฟนสําหรับสิ่งที่คุณ
+- MEDIAN_SCPE_NOTE: ภาพต้องตรงกับครอบครัว/ โตปิกที่ถูกต้องเท่านั้น; ต้องไม่หมายถึงการตัด, ปีตัวอย่าง, เรียลวีน, การตรวจสอบหรือการทําธุรกรรมจริง
+- หม่อมเจ้า หม่อมเจ้า
+- ~ ล็อก-รีซัน~: ไม่มีภาพใดสามารถใช้ได้โดยปลอดภัย: Wikited Commons/Flickr ไม่สามารถทํางานได้จากสภาพแวดล้อมการวิจัย ห้องสมุดหลักต้องการสิทธิ์ในการเข้าถึง API/CIFF และภาพเว็บเพจของ OEM ก็ไม่ใช่การให้ทุนใช้อีกครั้งในโฆษณา ไม่มีภาพถ่ายที่บรรจุออโต้ไบด์อยู่ บันทึกเก็บ FAIL แทนการยืนยัน
+- ~ALT (12 ภาษา) ~:
   - **EN**: Dongfeng Forthing Youting, Chinese-market MPV export buyer reference
   - **FR**: Dongfeng Forthing Youting, MPV du marché chinois, référence acheteur export
   - **DE**: Dongfeng Forthing Youting, Chinesischer MPV, Referenz für Exportkäufer

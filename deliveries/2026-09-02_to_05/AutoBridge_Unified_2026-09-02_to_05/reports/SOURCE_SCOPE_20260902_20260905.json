@@ -1,7 +1,7 @@
 {
  "total": 80,
- "pass": 70,
- "conditional": 10,
+ "pass": 80,
+ "conditional": 0,
  "fail": 0,
  "rule": ">=6 distinct URLs AND >=4 normalized parent organizations; same-agency branches/country sites count once.",
  "per_article": {
@@ -367,63 +367,63 @@
   },
   "AB-260905-G01": {
    "date": "2026-09-05",
-   "urls": 4,
-   "orgs_norm": 3,
-   "status": "CONDITIONAL"
+   "urls": 7,
+   "orgs_norm": 5,
+   "status": "PASS"
   },
   "AB-260905-G02": {
    "date": "2026-09-05",
-   "urls": 4,
-   "orgs_norm": 3,
-   "status": "CONDITIONAL"
+   "urls": 6,
+   "orgs_norm": 5,
+   "status": "PASS"
   },
   "AB-260905-G03": {
    "date": "2026-09-05",
-   "urls": 5,
-   "orgs_norm": 4,
-   "status": "CONDITIONAL"
+   "urls": 7,
+   "orgs_norm": 5,
+   "status": "PASS"
   },
   "AB-260905-G04": {
    "date": "2026-09-05",
-   "urls": 5,
-   "orgs_norm": 2,
-   "status": "CONDITIONAL"
+   "urls": 7,
+   "orgs_norm": 4,
+   "status": "PASS"
   },
   "AB-260905-G05": {
    "date": "2026-09-05",
-   "urls": 5,
-   "orgs_norm": 3,
-   "status": "CONDITIONAL"
+   "urls": 7,
+   "orgs_norm": 4,
+   "status": "PASS"
   },
   "AB-260905-G06": {
    "date": "2026-09-05",
-   "urls": 6,
-   "orgs_norm": 1,
-   "status": "CONDITIONAL"
+   "urls": 9,
+   "orgs_norm": 4,
+   "status": "PASS"
   },
   "AB-260905-G07": {
    "date": "2026-09-05",
-   "urls": 5,
-   "orgs_norm": 2,
-   "status": "CONDITIONAL"
+   "urls": 8,
+   "orgs_norm": 5,
+   "status": "PASS"
   },
   "AB-260905-G08": {
    "date": "2026-09-05",
-   "urls": 5,
-   "orgs_norm": 3,
-   "status": "CONDITIONAL"
+   "urls": 7,
+   "orgs_norm": 4,
+   "status": "PASS"
   },
   "AB-260905-G09": {
    "date": "2026-09-05",
-   "urls": 7,
-   "orgs_norm": 3,
-   "status": "CONDITIONAL"
+   "urls": 9,
+   "orgs_norm": 5,
+   "status": "PASS"
   },
   "AB-260905-G10": {
    "date": "2026-09-05",
-   "urls": 4,
-   "orgs_norm": 3,
-   "status": "CONDITIONAL"
+   "urls": 6,
+   "orgs_norm": 5,
+   "status": "PASS"
   },
   "AB-260905-V01": {
    "date": "2026-09-05",

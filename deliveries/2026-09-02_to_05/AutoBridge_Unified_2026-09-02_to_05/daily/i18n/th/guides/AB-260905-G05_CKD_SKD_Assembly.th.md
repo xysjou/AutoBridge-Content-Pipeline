@@ -1,68 +1,73 @@
-# CKD/SKD Knockdown Export and Overseas Assembly — Model, Classification and Compliance
+# แบบ CKD/ แบบ SKD การ รณรงค์ ส่ง ออก และ การ ประชุม ใหญ่ ทาง ศาสนา — แบบ จําลอง, การ แบ่ง แยก และ ความ ร่วม มือ
 
-## SEO Metadata
-- **SEO Title**: CKD/SKD Knockdown Kit Export and Overseas Assembly: Classification and Compliance
-- **Meta Description**: How CKD/SKD vehicle kit export works: classification built on the Harmonized System, why destination tariff/local-assembly treatment is country-specific, and what a Chinese exporter must verify before shipping kits.
-- ~ H1~: CKD/SKD Knockdown Export and Overseas Assembly — Model, Classification and Compliance
-- **Primary Keyword**: ckd skd knockdown kit export assembly
-- **Secondary Search Terms**: CKD SKD export; knockdown kit; overseas assembly; GRI 2 (a) Unknown local assembly tariff
-- **Suggested URL**: / guides/ckd-sclkd-chockd-kart-export-assemiby/
-- **Search Intent**: 区分CBU/CKD/SKD模式，理解散件出口归类、原产地与目的国组装的关键合规问题
-- **Internal Link Suggestions**: /guides/vehicle-export-hs-code-history/, /guides/certificate-of-origin-history/, /guides/export-document-package-history/
-- ~Schema Scope~: Article (no Product/Offer/Review)
+## เชา ข้อมูลกํากับภาพ
+- < seO text: CKD/SKD Cockd Kitz Expl และ overseas Completion: จําแนกประเภทและความซับซ้อน
+- ""คําอธิบาย" วิธีที่ชุดรถ CKD/SKD ทํางานในการส่งออก: การจําแนกประเภทที่สร้างขึ้นบนระบบฮาร์มอนส์ ทําไมปลายทางทาริฟ/พื้นที่ท้องถิ่นถึงมีผลบังคับใช้อย่างเหมาะสม
+- ** H1 **: CKD/SKD แคปดาวน์ ส่งออกและจัดการจัดการจัดการจัดการจัดการจัดการแทนการให้บริการ — รุ่น, จําแนกประเภท และความซับซ้อน (PDF) (PDF) (PDF) (PDF).
+- ~คําสําคัญ~ การส่งออกเครื่องมือแบบ Skd แบบเคาะเสียงเตือน
+- ~ การค้นหาในภาควิชาอื่น ๆ ~: CKD SKD Explish; เคาะชุด; การชุมนุมต่างประเทศ; GRI 2 (a) Unknownd; การชุมนุมท้องถิ่น tragition
+- ~ที่อยู่ URL ที่ถูกย่อ: / guides/ccd-skd-chockd-known-kit-export-assembly/
+- ~ การค้นหาที่เชื่อมโยง~: 区分 CBU/CKD/SKD 模式, 理解散件出口归类   原产地与目的国组装的关键合规问题
+- ** เชื่อมโยงภายใน **: / guides/ viohs-exic-excort-bode- hs- his-h overn/, / guides/ sertievete-Origin-history/////// guides/ocort-document-History/
+- ~Schema Scop~: บทความ (ไม่มี Production/Offer/Review)
 
-## What CKD and SKD mean in a sourcing decision
-A **SKD (semi-knocked-down)** kit ships partly assembled modules; a **CKD (completely-knocked-down)** kit ships a fuller set of components for local assembly. Both replace a finished-vehicle export with a parts-and-assembly model, usually to meet destination local-assembly policy. The commercial appeal is real, but the legal/tariff outcome is decided by the **destination customs authority**, not by the Chinese exporter labelling a consignment "CKD".
+## CKD และ SKD หมายถึงอะไรในการตัดสินใจที่สั่นคลอน
+A*SKD (Secmi-chocked-down) ~ เรือเครื่องมือบางส่วนประกอบโมดูล A*CKD (เสร็จ-เคาะ-ลง) ~ เครื่องมือบรรจุอุปกรณ์ชุดส่วนประกอบเต็มสําหรับการประชุมท้องถิ่น Both replace a finished-vehicle export with a parts-and-assembly model, ปกติจะตรงกับจุดหมายปลายทาง อุทธรณ์เชิงพาณิชย์เป็นของจริง แต่ผลทางกฎหมาย/ทาริฟ ถูกตัดสินโดยกรมศุลกากร ~ ไม่ใช่โดยผู้ส่งออกชาวจีน
 
-## The classification basis the exporter can control
-On the China export side, classification is built on the **Harmonized System / import-export tariff** and the customs classification-decision mechanism (WCO maintains the HS, linked below). Whether an unassembled/disassembled set is classified as the article it will become turns on the general rules of interpretation and the specific tariff lines and rulings — **this guide does not state GRI 2(a) as a settled legal conclusion for kits because a primary WCO/customs ruling for the exact kit is not captured here**. Classify each kit line by line and, where material, seek a binding classification ruling.
+## หมวดหมู่พื้นฐานผู้ส่งออกสามารถควบคุมได้
+ทางด้านการส่งออกของประเทศจีน การจัดหมวดหมู่สร้างบนระบบไฟฟ้า/นําเข้าข้อมูล และกลไกการจําแนกประเภทของศุลกากร (WCO) ที่เชื่อมต่ออยู่ด้านล่าง การตั้งค่าที่ยังไม่ได้รวม/ distribution ถูกจําแนกเป็นบทความหรือไม่ ที่จะกลายเป็นการเปิดกฎทั่วไปในการตีความ และระเบียบการแปลแบบทาลีและการปกครองที่แน่นอน --* มัคคุเทศก์นี้ไม่ได้ระบุว่า GRI 2 (ก) เป็นข้อสรุปทางกฎหมายสําหรับชุดชุดชุด เนื่องจากกฎพื้นฐานของ WCO/LS สําหรับชุดที่แน่นอนไม่ได้ถูกจับที่นี่ จําแนกแต่ละบรรทัดตามบรรทัด และที่วัสดุ แสวงหาการจําแนกประเภท
 
-## The destination side is the controlling, country-specific question
-Whether a kit qualifies for lower "local assembly" tariff treatment, a required local-content ratio, or an investment incentive is decided by the **destination country's customs, tax and investment authorities**. China export-side rules and commercial web pages cannot establish that outcome. A different destination can reach a different result for an identical kit, and treating unassembled parts as a whole vehicle for duty (or vice versa) must be evidenced by that country's authority.
+## จุดหมายปลายทางคือ คําถามควบคุม จําแนกประเทศ
+ไม่ว่าจะเป็นชุดที่เหมาะสมสําหรับการรักษา "การชุมนุมภายใน" แบบลดระดับ สัดส่วนท้องถิ่นที่ต้องการ หรือแรงจูงใจการลงทุนถูกตัดสินโดย ศุภกกรของประเทศ การเสียภาษีและการลงทุน กฎของจีนและเว็บเพจโฆษณา ไม่สามารถยืนยันผลได้ จุดหมายปลายทางที่แตกต่าง สามารถเข้าถึงผลที่แตกต่าง สําหรับชุดที่เหมือนกัน และปฏิบัติต่อชิ้นส่วนที่ไม่รวมเข้าด้วยกันเป็นพาหนะสําหรับปฏิบัติหน้าที่ (หรือในทางกลับกัน) ต้องมีหลักฐานจากอํานาจของประเทศนั้น
 
-## What to assemble before quoting a kit programme
-1. **Bill of materials by HS line** — list every module/component with its own HS code, origin and value.
-2. **Chinese export classification** — apply the HS/tariff and obtain a ruling where ambiguity is material.
-3. **Destination ruling** — obtain the destination customs/tax position on kit classification, duty, local-content and assembly conditions before committing investment.
-4. **Origin documentation** — determine whether the assembled vehicle qualifies for preferential origin (see the certificate-of-origin guide).
-5. **Contract split** — separate goods supply, assembly technology/tooling and after-sales so scope and payment are clear.
+## จะ ประกอบ อะไร ก่อน ยก ข้อ ความ มา กล่าว ใน โครงการ ทดลอง
+1. ** ส่วนประกอบต่างๆ โดย HS Line ~ — แสดงรายการทุกโมดูล/องค์ประกอบ ที่มีรหัส HS ต้นกําเนิดและคุณค่าเป็นของตัวเอง
+2. ~การจําแนกประเภทการส่งออกของจีน' -- ใช้ HS/Tarif และได้รับคําพิพากษาที่ความคลุมเครือเป็นวัสดุ~
+3. ~กฎการแบ่งเขต -- ได้รับกําหนดกําหนดกําหนดกําหนดกําหนดกําหนดกําหนด ศุภรณ์/ภาษีค่าธรรมเนียมในการจัดหมวดหมู่, หน้าที่, เงื่อนไขท้องถิ่นและเงื่อนไขการชุมนุม ก่อนการลงทุน พ.ศ.
+4. ~เอกสารของออริจิน~ -- ระบุว่ารถที่ประกอบกันนั้น มีคุณสมบัติสําหรับต้นกําเนิดที่โดดเด่นหรือไม่ (ดูคู่มือการขอใบอนุญาติ-ออริจิน).
+5. ~แยกชิ้นส่วน~ — เสบียงแยก เทคโนโลยี/เครื่องมือรวม และหลังการแบ่งเขตและจ่ายเงินนั้นชัดเจน
 
-## Evidence ceiling (read before promising tariff savings)
-This page intentionally does **not** claim a universal CKD/SKD definition, a fixed duty advantage, or a local-content threshold. Those are blocked pending primary WCO/destination-authority evidence; without it, present them as items to confirm, not facts.
+## เพดานหลัก (อ่านก่อนจะออมทาริฟ)
+หน้านี้ไม่ได้ตั้งใจ </i> ไม่อ้างสิทธิ์ของ CKD/SKD ผลประโยชน์ของหน้าที่คงที่ หรือการจํากัดขอบเขตท้องถิ่น สิ่งเหล่านั้นถูกปิดกั้นไว้ อยู่ระหว่างหลักฐานหลักของ WCO/Destination-hostation-hoventation ไม่มีมัน ให้นําเสนอพวกเขาเป็นรายการเพื่อยืนยัน, ไม่ใช่ข้อเท็จจริง
 
-## FAQ
-**Does labelling a shipment "CKD" lower duty automatically?** No — destination customs decides classification and treatment.
-**Is GRI 2(a) a guaranteed basis for kit classification?** It must be assessed against the exact goods with a primary ruling; it is not asserted as settled here.
-**Who sets local-content rules?** The destination country's authorities; they vary by market.
-**Can one kit design work in every market?** No — classification and assembly conditions are country-specific.
-**What should the BOM do?** Assign an HS line, origin and value to every component before classification.
+## ขนาด FAQ
+** กําหนดให้ส่ง "CKD" ทํางานต่ํากว่าโดยอัตโนมัติหรือไม่? ~ ไม่ — ธรรมเนียม ที่ กําหนด ไว้ ใน ที่ สุด จะ กําหนด ประเภท และ วิธี รักษา.
+"GRI 2 (ก) เป็นฐานการันตีของชุดชุดหรือเปล่า" การ ทํา เช่น นี้ ต้อง ประเมิน ดู ว่า อะไร ถูก อะไร ผิด และ อะไร คือ กฎ พื้น ฐาน; ไม่ มี การ ยืน ยัน ว่า เป็น การ ตั้ง รกราก ที่ นี่.
+~ใครตั้งกฏท้องถิ่นกัน~ เจ้าหน้าที่ของดินแดนปลายทาง พวกเขาแตกต่างกันตามตลาด
+~การออกแบบชุดเดียว สามารถใช้ได้ในตลาดทุกแห่งไหม~ ไม่ — การแบ่งชนชั้นและสภาพการประกอบกิจการ เป็นประเทศเฉพาะ
+หน้าอกเขาควรจะทําอะไร # กําหนดเส้น HS, จุดกําเนิดและค่าไปยังทุกองค์ประกอบก่อนที่จะจําแนกประเภท
 
 
-## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
+## ต้นฉบับและการตรวจสอบสิทธิ์
+| แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| 中华人民共和国海关进出口货物商品归类管理规定 | 中国政府网 | CN | T1 | VERIFIED | https://www.gov.cn/zhengce/2021-09/06/content_5723370.htm | 归类以协调制度/进出口税则为基础, 归类裁定与决定 |
-| 汽车CKD散件出口原产地证填制（行业流程，T4仅线索） | 顺企网 | CN | T4 | UNVERIFIED | https://m.11467.com/product/d53830031.htm | 成套散件清单/HS逐项整理流程线索 |
-| 成套散件(SKD/CKD)进口申请表说明（反向参考，T4） | 顺企网 | CN | T4 | UNVERIFIED | https://m.11467.com/product/d14729353.htm | 成套散件申报要素线索 |
-| Harmonized System Nomenclature (WCO) | World Customs Organization | CN | T1 | VERIFIED | https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools/hs-nomenclature-2022-edition.aspx | Hs Noncloative is searchation searchations ressociation by WCO |
-| WCO Origin instruments and tools | World Customs Organization | CN | T1 | VERIFIED | https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx | rules-of-origin framework and instruments maintained by WCO |
-## Editorial Review
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: CN出口侧框架+目的国（目的国税率须另核）
-- **Verification method**: Desk research against the sources below; Chinese-market reference specification only unless a separate export market is explicitly cited.
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
+| 中华人民共和国海关进出口货物商品归类管理规定 | 中国政府网 | CN | T1 | เปิดใช้งาน | https://www.gov.cn/zhengce/2021-09/06/content_5723370.htm | 归类以协调制度 / 进出口税则为基础 归类裁定与决定 |
+| 汽车 CKD 散件出口原产地证填制 (行业流程, T4 仅线索) พ.ศ. | 顺企网 | CN | T4 | ไม่ได้รับมอบ | https://m.11467.com/product/d53830031.htm | 成套散件清单 / HS 逐项整理流程线索 |
+| 成套散件 (SKD/CKD) 进口申请表说明 (反向参考, T4). | 顺企网 | CN | T4 | ไม่ได้รับมอบ | https://m.11467.com/product/d14729353.htm | 成套散件申报要素线索 |
+| Hampingd ระบบ Nonmecode (WCO) | องค์กรกําหนดเองของ โลก | CN | T1 | เปิดใช้งาน | https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools/hs-nomenclature-2022-edition.aspx | Hs Noncloative is searchation searchations ressociation by WCO |
+| เครื่องมือและเครื่องมือของ WCO ต้นฉบับ | องค์กรกําหนดเองของ โลก | CN | T1 | เปิดใช้งาน | https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx | กฎของการลองเฟรมเวิร์กและอุปกรณ์ที่ เก็บรักษาโดย WCO |
+| WTO ข้อเสนอเกี่ยวกับศุลกากร | องค์การ การ ค้า โลก | INT | T1/T2 | เปิดใช้งาน | https://www.wto.org/english/tratop_e/valuation_e/valuation_e.htm | กําหนดรูปแบบกรอบเอง เมื่อใช้ชุดชุดการเคาะและรวมหน่วยต่าง ๆ กัน ส่วนเองแล้ว ไม่ตั้งค่าการวนแสดงปลายทางที่สัมพันธ์กัน |
+| WCO HS Nunclabrictict — อุปกรณ์จําแนกประเภท (GRI) | องค์กรกําหนดเองของ โลก | INT | T1/T2 | เปิดใช้งาน | https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools.aspx | กฎทั่วไป (inclip. gRI 2 (ก) ควบคุมการจัดประเภทของสินค้าที่รวม/ butdown; หน้าลึก |
+## การทบทวนแก้ไข
+- ~Uuthor ♪: AutoBridge ส่งออกทีมแก้ไข [ผู้เขียน](/ ผู้เขียน/) สืบค้นเมื่อ [ใช้ในการแก้ไขนโยบาย] [/Di-policy/]
+- ~ถูกตรวจสอบแล้ว~: 2026-09-05
+- ~ตลาดแห่งความเสมอภาค ~: CN 出口侧框架 + 目的国 (目的国税率须另核)
+- ~วิธีการสร้างความสัมพันธ์ ~: งานวิจัยที่ขัดกับแหล่งย่อยด้านล่างนี้; การอ้างอิงตลาดจีน-มาร์เก็ต ก็ต่อเมื่อมีการอ้างอิงตลาดส่งออกอย่างตรงไปตรงมา
+- การร่างแบบ AI-assisted ถูกใช้ บทความนี้ตั้งอยู่บนพื้นฐานของงานวิจัยในตาราง และอัตโนมัติ QA ไม่มีการอ้างอิงการทดสอบก่อน จนกว่าจะมีการระบุรายละเอียดอย่างชัดเจน ยืนยันความต้องการที่ต้องใช้เวลาและกําหนดปลายทาง ก่อนทําการข้ามเวลา
 
-## Image Record
-- **IMAGE_ASSET_PATH**: none secured in repository
-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ not captured
-- **SOURCE_PAGE**: not captured
-- **RIGHTS_HOLDER**: unconfirmed
-- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
-- ~ECHCKKED_DATE ~: 2026-09-05
-- ~CRL/TOPIC_MATCH~: exact CKD/SKD Knockdown Export and Overseas Assembly
-- **IMAGE_RIGHTS_STATUS**: FAIL
-- **ALT (12 languages)**:
+## บันทึกรูปภาพ
+- ~ประกาศ_BAR_ PATH ~ ~ ไม่มีคนปลอดภัยในห้องเก็บของ
+- ~~~~~ไม่ถูกจับ~
+- ~ประกาศจับ~: ไม่ถูกจับ
+- ** UNTER_FELE_ PATE*: ใช้ไม่ได้ — ไม่มีเอกสารผู้สมัครใด ๆ ที่ระบุ (ไม่มีใบรับรองที่จะยืนยัน)
+- ~ห้ามยืนยัน~
+- **LICENSE_OR_USAGE_BASIS**: ไม่ มี ใคร ปลอด ภัย — การ มี เว็บไซต์ อยู่ ใน เวลา นี้ ไม่ ใช่ การ ลง ทะเบียน ทํา ซ้ํา อีก ครั้ง ใน การ ค้า
+- ~CKND_DATE ~ 2026-09-06
+- ** PDF_TOPIC_MATCH~: ตรงกับ CKD/SKD Plancown Explation และ Overseses Complete
+- MEDIAN_SCPE_NOTE: ภาพต้องตรงกับครอบครัว/ โตปิกที่ถูกต้องเท่านั้น; ต้องไม่หมายถึงการตัด, ปีตัวอย่าง, เรียลวีน, การตรวจสอบหรือการทําธุรกรรมจริง
+- หม่อมเจ้า หม่อมเจ้า
+- ~ ล็อก-รีซัน~: ไม่มีภาพใดสามารถใช้ได้โดยปลอดภัย: Wikited Commons/Flickr ไม่สามารถทํางานได้จากสภาพแวดล้อมการวิจัย ห้องสมุดหลักต้องการสิทธิ์ในการเข้าถึง API/CIFF และภาพเว็บเพจของ OEM ก็ไม่ใช่การให้ทุนใช้อีกครั้งในโฆษณา ไม่มีภาพถ่ายที่บรรจุออโต้ไบด์อยู่ บันทึกเก็บ FAIL แทนการยืนยัน
+- ~ALT (12 ภาษา) ~:
   - **EN**: CKD SKD knockdown, Chinese-market procurement guide export buyer reference
   - **FR**: CKD SKD knockdown, procurement guide du marché chinois, référence acheteur export
   - **DE**: CKD SKD knockdown, Chinesischer procurement guide, Referenz für Exportkäufer

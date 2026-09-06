@@ -1,21 +1,21 @@
-# Carregando carros em um recipiente 40HQ: Conta que depende de um plano de carga, e Estiva que mantém no mar
+# Carregar carros em um recipiente de 40HQ: Conta que depende de um plano de carga, e Estiva que se mantém no mar
 ## SEO Meta- dados
-- ** Título SEO**: Quantos são? Carros cabem em um 40HQ? Guia de carregamento e enxurrada de contentores
-- ** Descrição do Meta**: Um guia prático de carregamento de veículos 40HQ – típico 2-SUV sem carga de rack vs 4-vehicle sistemas de dupla rack, ~ 8 tiras por carro em pneus, sequência de carregamento e uma verificação de estiva de cinco pontos antes do selo.
+- ** Título SEO**: Quantos são? Carros Caber num 40HQ? Guia de carregamento e enxurrada de contentores
+- ** Descrição do Meta**: Um guia prático de carga de veículos 40HQ – típico 2-SUV sem carga de rack vs 4-vehicle sistemas de dupla rack, ~ 8 tiras por carro em pneus, sequência de carga e uma verificação de estiva de cinco pontos antes do selo.
 - ** URL sugerido**: /guides/container-veículo-carregando-lagar/
-- ** H1 **: Carregamento e Esmagamento de Veículos de Containers: Contagens, Racks, Sequência e Verificação Pré-Seal
+- ** H1 **: Carregamento e Esmagamento de Veículos Container: Contagens, Racks, Sequência e Verificação Pré-Seal
 - **Primary Keyword**: quantos carros cabem 40hq container carregando amarração
-- ** Termos de pesquisa secundários**: 40HQ dois SUV, recipiente de rack de carro de convés duplo, amarrar correias veículo roda amarrar, RoRo para conversão de recipiente, seqüência de carga de carro de recipiente
-- ** Sugestões de ligação interna**: /guias/veículo-pré-navio-inspecção-psi/; /guias/ev-navegação- un3171-imdg-compliance/; /veículos/changan- cs75-plus/
+- ** Termos de pesquisa secundários**: 40HQ dois SUV, recipiente de rack de carro de convés duplo, amarrar o veículo amarrar as tiras da roda amarrar, RoRo conversão de recipiente, seqüência de carga do carro de recipiente
+- ** Sugestões de ligação interna**: /guias/veículo-pré-navio-inspecção-psi/; /guias/ev-navio- un3171-imdg-compliance/; /veículos/changan- cs75-plus/
 - **Image Suggestions**: diagrama de estiva lateral; pontos de amarração da roda; rack duplo pull-out; ordem de carregamento superior + inferior
-- **ALT Sugestões**: " 40HQ dois SUV slowage lado"; "roda pneu amarrando oito tiras"
+- **ALT Sugestões**: " 40HQ dois SUV slowage lateral"; "roda pneu amarrando oito tiras"
 
 ## A pergunta que todos fazem primeiro
-"Quantos carros em um 40HQ?" não tem resposta universal — é uma função de ** dimensões do veículo, dobra de espelho, sistema de rack e plano de estofamento aprovado do transportador**. Este guia dá bandas realistas e o método; deliberadamente não promete uma contagem fixa. Confirme cada remessa contra um plano de carga medido.
+"Quantos carros em um 40HQ ?" não tem resposta universal — é uma função de ** dimensões do veículo, espelho-dobramento, sistema de rack e plano de estofamento aprovado do transportador**. Este guia dá bandas realistas e o método; deliberadamente não promete uma contagem fixa. Confirme cada remessa contra um plano de carga medido.
 
 ## Bandas de Carregamento Realistas (da prática documentada)
-- **No rack, convencional:** um 40HQ normalmente carrega ** dois SUVs médios/grandes** (exemplos citados são ~ 4.9 classe m, como ID. 6 / Range-Rover / Prado / Li L7-scale veículos) (digrama de encaminhamento de fonte única).
-- **Com um rack de dois andares deslizantes:** um **"upper 2 + 2 inferior " = quatro SUVs** arranjo foi relatado em um Yantai-port "Ro-to-container" julgamento (única fonte).
+- ** Nenhum rack, convencional:** um 40HQ normalmente carrega ** dois SUVs médios / grandes** (exemplos citados são ~ 4.9 m classe, como ID. 6 / Range-Rover / Prado / Li L7-scale veículos) (digrama de encaminhamento de fonte única).
+- **Com um rack de dois andares deslizantes:** um **"upper 2 + inferior 2 " = quatro SUVs** arranjo foi relatado em um Yantai-port "Ro-to-container" julgamento (única fonte).
 - **Sedans / China-Europa rail:**** três veículos por caixa** aparece no relatório de prática de trem / sedan China-Europa (fonte única).
 Estes são pontos de referência, não direitos: uma van de teto alto, uma pickup ou um carro executivo longo muda a contagem, e carga rack precisa de equipamentos certificados e um plano aprovado.
 
@@ -42,7 +42,7 @@ Adaptado ao método de carga de contentores documentados:
 5. ** Depuração da porta** — margem suficiente para fechar e selar; gravar fotos da estiva antes de selar.
 
 ## Nota Específica do EV
-Um EV/híbrido dentro de um recipiente ainda carrega uma bateria de tração: siga a documentação de produtos perigosos do oceano e qualquer instrução de SOC/estado de carga do transportador. sob a emenda do IMDG 42-24 (o mandatório de 2026-01-01) um veículo movido a lítio-ion-bateria é classificado UN3556, não o legado genérico UN3171; aplicar documentação / detalhes SOC por a folha atual de fatos de transporte EV eo transportador (ver o guia EV oceano-compliance) Desconectar/preparar o 12 Sistema V por portador e não assumir um SOP de estocamento de combustão interna cobre um EV.
+Um EV/híbrido dentro de um recipiente ainda carrega uma bateria de tração: siga a documentação de produtos perigosos do oceano e qualquer instrução de SOC/estado de carga do transportador. Nos termos da Emenda 42-24 do IMDG (obrigatório de 2026-01-01), um veículo movido a baterias de lítio com íon é classificado em UN3556, não como o legado genérico UN3171; aplicar documentação/detalhes SOC por cada folha de dados de transporte EV e o transportador (ver o guia EV ocean-compliance) Desconectar/preparar o 12 Sistema V por portador e não assumir um SOP de estocamento de combustão interna cobre um EV.
 
 ## O que este guia recomenda que você bloqueie antes de reservar
 - Um plano de carga ** medido** para os modelos exatos (comprimento/largura/altura, espelhos dobrados), não uma promessa genérica "dois ou quatro".
@@ -63,11 +63,14 @@ Um EV/híbrido dentro de um recipiente ainda carrega uma bateria de tração: si
 - IMAGEM_ASSET_PATH: nenhum protegido no repositório
 - ORIGINAL_ IMAGE_ URL: não capturado
 - ORIGINAL_PAGE: não capturado
+- ORIGINAL_FILE_PAGE: não aplicável — nenhum ficheiro de mídia candidato identificado (sem licença para afirmar)
 - DIREITOS_OLDER: não confirmado
 - LICENSE_OR_USAGE_BASIS: nenhuma imagem segura — nenhuma imagem de terceiros pode ser publicada até que os direitos sejam compensados
-- Data_ Marcada: 2026-09-05
+- Data_ Marcada: 2026-09-06
 - MODEL_TOPIC_ MATCH: deve corresponder ao modelo/versão exato (ou ao tópico guia) e ao mercado de referência acima
+- IMAGEM_SCOPE_NOTE: corresponde à família/tópico do modelo exato; não deve implicar uma aparação/modelo-ano específico, VIN real, inspeção em pessoa ou transação real
 - IMAGEM_RIGHTS_STATUS: FALHA (não é aceita nenhuma propriedade licenciada capturada; uma nota de placeholder ou “reter imagem antiga”)
+- BLOCK_REASON: Nenhuma imagem reutilizável pode ser segura: Wikimedia Commons/Flickr são inalcançáveis do ambiente de pesquisa, bibliotecas de estoque requerem acesso autenticado API/licença, e uma imagem de página web OEM NÃO é uma concessão de reutilização comercial; nenhuma foto de propriedade da AutoBridge existe. Mantive-me em vez de afirmar.
 - ALT por língua:
   - **EN**: AutoBridge export-buyer reference — Loading cars into a 40HQ container, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Loading cars into a 40HQ container, guide d’achat à l’export automobile
@@ -85,11 +88,11 @@ Um EV/híbrido dentro de um recipiente ainda carrega uma bateria de tração: si
 ## Fontes e Verificação
 | Título do código fonte | Organização | Mercado | URL | Verificado | Confiança | Factos corroborados |
 |---|---|---|---|---|---|---|
-| Vista lateral do veículo (precintas 2/box, 8) | Material para transporte de mercadorias | Global | https://m.11467.com/product/d42473652.htm | 2026-09-03 | FONTE ÚNICA | 2-SUV sem rack; ~ Correias 8; método de roda (uma fonte) |
-| Yantai porto primeiro julgamento 4-SUV "Ro-to-container" | Notícias da Noite de Qilu / Toutiao | NC | http://m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | FONTE ÚNICA | Rack Upper2+lower2; sequência de carregamento (uma tentativa notificada) |
-| China-Europa carga de carro ferroviário (3/box) | Caminho de ferro Harbin / Toutiao | NC | http://m.toutiao.com/group/6748371578787987979/ | 2026-09-03 | FONTE ÚNICA | Sedan/rail de referência tri-por-box (uma fonte) |
+| Vista lateral do veículo (2/box, 8 precintas) | Material para transporte de mercadorias | Global | https://m.11467.com/product/d42473652.htm | 2026-09-03 | FONTE ÚNICA | 2-SUV sem rack; ~ 8 precintas; método de roda (uma fonte) |
+| Yantai primeiro teste de "Ro-to-container" de 4-SUV | Notícias da Noite de Qilu / Toutiao | NC | http://m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | FONTE ÚNICA | Upper2+lower2 rack; sequência de carga (um ensaio notificado) |
+| Carga de carro ferroviário China-Europa (3/box) | Caminho de ferro Harbin / Toutiao | NC | http://m.toutiao.com/group/6748371578787987979/ | 2026-09-03 | FONTE ÚNICA | Sedan/rail de referência tri-por-box (uma fonte) |
 | Método de carregamento em cinco etapas do contentor de exportação | NetEase | Global | https://www.163.com/dy/article/L42056IP05568MR2.html | 2026-09-03 | FONTE ÚNICA | Verificação de estiva de cinco pontos (uma fonte) |
-* Nota de escopo (R4): cada figura de carregamento vem de uma única fonte distinta (todos os SINGLE_SOURCE) — nenhum fato é corroborado por duas fontes independentes, então nenhuma é rotulada de CROSS_ Verificado. As contas são referências de práticas documentadas, não garantidas de estocagem; o número exato sempre depende das dimensões medidas e de um plano de carga aprovado, e as regras de transporte/terminal devem ser confirmadas na reserva. *
+* Nota de escopo (R4): cada figura de carregamento vem de uma única fonte distinta (todos SINGLE_SOURCE) — nenhum fato é corroborado por duas fontes independentes, então nenhuma é rotulada CRUSS_ Verificado. As contas são referências de práticas documentadas, não garantidas de estocagem; o número exato sempre depende das dimensões medidas e de um plano de carga aprovado, e as regras de transporte/terminal devem ser confirmadas na reserva. *
 
 | Código de conduta da OMI/OIT/UNECE para a embalagem de unidades de transporte de carga (Código CTU) | Organização Marítima Internacional (OMI) | INT' L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | VERIFICADO | Princípios de distribuição, amarração e segurança de cargas para CTU, incluindo contentores |
 | Containers / referência de equipamento | Conselho Mundial da Navegação | INT' L | https://www.worldshipping.org/ | 2026-09-05 | VERIFICADO | Contexto normal de transporte de mercadorias e equipamento de linha para planeamento de carga |

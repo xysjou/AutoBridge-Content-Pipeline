@@ -1,62 +1,65 @@
-# The Vehicle Export Document Package: Current Certificate Standard vs the Mandatory Standard Still in Draft
+# 车辆出口文件包:当前证书标准与仍在起草中的强制性标准
 
-## SEO Metadata
-- **SEO Title**: China Vehicle Export Document Package Guide — GB/T 21085-2020 Current Standard
-- **Meta Description**: Build the export document set around the current GB/T 21085-2020 factory certificate, distinguish it from the mandatory 20260041-Q-339 standard still under development, and treat NEV/translation items as recommendations.
-- **Suggested URL**: /guides/export-vehicle-document-package
-- **H1**: Assembling a Chinese Vehicle's Export Document Package — What Is Current, What Is Still a Draft, What We Recommend
-- **Primary Keyword**: vehicle export document package factory certificate GB/T21085
-- **Secondary Search Terms**: 机动车出厂合格证, GB/T21085-2020 current, 20260041-Q-339 draft, certificate of conformity export, NEV export documents UN38.3
-- **Internal Link Suggestions**: /guides/vin-nameplate-verification-chinese-vehicles/ ; /guides/ev-shipping-un3556-imdg-compliance/ ; /guides/china-export-certificate-of-origin/
-- **Image Suggestions**: document bundle layout; current-vs-draft standard timeline; domestic vs export file split
-- **ALT Suggestions**: "Current GB/T21085-2020 certificate versus mandatory 20260041-Q-339 draft"
+## 道德操守办公室 元数据
+- ** 道德操守办公室名称**: 中国车辆出口文件包指南——GB/T 21085-2020 现行标准
+- ** 金属说明**: 围绕现行GB/T 21085-2020工厂证书构建出口文件,将其与仍在开发的强制性20260041-Q-339标准区分开来,并将NEV/译码项目作为建议处理.
+- ** 建议的URL**: 指南/出口-车辆-文件包
+- ** H1 资源需求。 **: 编集中国车辆出口文件包——什么是当前,什么仍然是草案,什么是我们的建议
+- ** 基本关键词**:车辆出口文件包工厂证书 GB/T21085
+- ** 二级搜索术语**:机动车出厂合格证,GB/T21085-2020 现值,20260041-Q-339 草案,合格出口证明,NEV出口文件UN38.3
+- ** 内部链接建议**: /指南/vin-名牌核查-钦那车辆/;/指南/前发货-un3556-imdg-compliance/;/指南/钦那-出口-原产地证书/证书
+- ** 图像建议**:文档捆绑布局;当前-vs-草案标准时间表;国内对导文件分割
+- ** ALT建议**:“当前GB/T21085-2020证书与强制性20260041-Q-339草案”
 
-## The Trap: Treating a Draft Standard as Current
-Document-package guides often cite a forthcoming mandatory certificate standard as if it were already in force. That creates paperwork expectations no current rule supports. This page draws a hard line: the **current** standard for the motor-vehicle factory certificate is **GB/T 21085-2020**; a mandatory replacement (plan **20260041-Q-339**) is **under development and neither published nor in force**, and must not be presented as a current requirement.
+## 陷阱:将标准草案视为当前
+文档包装指南常常引用即将出台的强制性证书标准,似乎该标准已经生效。 这就产生了目前规则所支持的对文书工作的期待。 本页绘制硬线:**当前**机动车厂证书标准为**GB/T 21085-2020**;强制更换(计划** 20260041-Q-339**)正在开发中,既不公布也不生效**,不得作为现行要求提出.
 
-## The Current Certificate Standard (verified)
-- **CURRENT STANDARD: GB/T 21085-2020 *Motor vehicle factory certificate*** — a **recommended** national standard, issued 2020-04-28, in force 2020-11-01, and **reviewed as still current on 2026-01-27**. The factory certificate is issued by the manufacturing enterprise.
-- **FUTURE / DRAFT: mandatory *Vehicle factory certificate*, plan number 20260041-Q-339** — intended to replace GB/T 21085-2020, assigned 2026-01-27 with a 16-month cycle and currently under approval; the MIIT "GB 21085—XXXX" text is a **consultation draft**. It is **not published, not effective, and must never be labelled current or mandatory** in a buyer-facing document.
+## 当前证书标准(已验证)
+- ** 标准:GB/T 21085-2020 *机动车工厂证书***——推荐**国家标准,2020-04-28号,2020-11-01号生效,**审查为2026-01-27号仍然有效**. 工厂证书由制造企业核发.
+- ** 今后/草案: * 车辆工厂证书*,计划编号20260041-Q-339**——打算取代GB/T 21085-2020,指定2026-01-27为16-month周期,目前正在核准中; MIIT"GB 21085 QQ"文本是**协商草案**. 合同**未公布,无效,绝不能在买方开具的文件中标注现行或强制性**。
 
-## The Handover Document Set (cross-checked)
-A domestically delivered new vehicle normally travels with: full sales invoice, (domestic) factory certificate, commodity inspection sheet, **certificate of conformity**, warranty (three-guarantee) voucher, maintenance manual, owner's manual, and the onboard tools/spares list. For **new-vehicle export sales**, the domestic registration stage additionally requires the **manufacturer's safety/technical inspection certificate (original)** and a **copy of the commerce-authority motor-vehicle export licence** (per the motor-vehicle registration work rules).
+## 移交文件集(交叉检查)
+国内交付的新车辆通常携带:销售发票、(国内)工厂证书、商品检验单、**合格证书**、保修(三保)凭证、维修手册、所有人手册和船上工具/车辆清单。 对于**新车出口销售**,国内登记阶段还需要**制造商的安全/技术检验证书(原件)**和**商业授权机动车出口许可证副本**(按机动车登记工作规则)。
 
-## Multi-Stage / Incomplete-Vehicle Rule: Withdrawn Pending a Current Basis
-An earlier draft described how vehicles completed from imported incomplete vehicles or via multi-stage manufacture would be issued only a whole-vehicle factory certificate. That rule's **only source is a consultation draft**; it is **not confirmed by the current GB/T 21085-2020 text or any current regulation**, so it is **not stated as a current requirement** here. Treat any such arrangement case-by-case until a non-draft basis exists.
+## 多层/ 不完整车辆 规则:在目前的基础上撤回
+早先的草案描述了从进口的不完整车辆或通过多阶段制造完成的车辆将如何只发给整车工厂证书。 该规则**仅来源是一份协商草案**;目前GB/T 21085-2020案文或任何现行条例**均未确认,因此此处没有**作为现行要求**。 在非草案基础存在之前,逐个处理任何此类安排。
 
-## NEV and Translation Items — Editorial Recommendation, Not a Mandate
-The following are **recommended** to prepare; whether each is required depends on the carrier/maritime authority and the destination port, so they are framed as guidance rather than a universal mandate:
-- For a **new-energy vehicle**: the battery **UN38.3 test summary**, dangerous-goods packaging certificate where applicable, and MSDS (linked to the IMDG shipping guide).
-- For **overseas clearance/registration**: an **English or destination-language version** of the certificate of conformity / technical parameter sheet, stamped by the issuing party; whether notarization/consular legalization is needed depends on the destination.
+## NEV和翻译项目——编辑建议,不是任务
+建议**编写下列文件;是否需要每项文件取决于承运人/海事当局和目的地港口,因此,这些文件是作为指导而不是一项普遍任务拟订的:
+- 用于**新能源车辆**:电池** UN38.3试验摘要**、适用情况下的危险货物包装证书和MSDS(与IMD运输指南有关)。
+- 对于**海外许可/登记**:由签发方盖章的符合证书/技术参数表的**英文或目的地语言版本;是否需要公证/领事合法化取决于目的地。
 
-## Assembly Order We Recommend
-1. Confirm the factory certificate is issued under **current GB/T 21085-2020** — do not demand the not-yet-published mandatory standard.
-2. Collect the standard handover set; for export-sale registration add the manufacturer inspection certificate original and export-licence copy.
-3. Cross-check the certificate VIN against body/nameplate (see the VIN guide).
-4. For NEVs, prepare UN38.3/MSDS per the booked carrier (recommendation).
-5. Prepare stamped translations only to the extent the destination requires them.
+## 我们建议执行的集会命令
+1. 确认工厂证书是根据**当前GB/T 21085-2020**签发的——不要求未公布的强制性标准。
+2. 收集标准交接件;出口销售登记时,增加制造商检验证书原件和出口许可证副本。
+3. 对照体/名牌对证书进行交叉核对(见VIN指南)。
+4. 对于NEV,每架预定的承运人准备UN38.3/MSDS辆(建议)。
+5. 只在目的地需要时,才编写盖章的译文。
 
-## Boundaries of This Guide
-- The multi-stage/incomplete-vehicle issuance rule is **DRAFT_ONLY and blocked** from current-requirement wording.
-- The future mandatory standard's exact clauses/effective date are unknown until publication.
-- Whether a destination accepts the Chinese CoC as a registration CoC is country-specific and not asserted.
+## 本指南的边界
+- 多阶段/不完全车辆签发规则为**DRAFT_ONLY, 被当前要求的措辞所阻断**。
+- 今后强制性标准的确切条款/生效日期在公布之前不得而知。
+- 目的地是否接受中国证监会作为注册证,是针对具体国家的,没有断言.
 
-## Frequently Asked Questions
-**Which factory-certificate standard is current now?** GB/T 21085-2020 (recommended, current; reviewed 2026-01-27).
-**Is 20260041-Q-339 mandatory?** No — it is a mandatory standard still under development; GB 21085—XXXX is a consultation draft, not in force.
-**Are UN38.3 and translated CoC documents mandatory?** They are recommended preparations; actual need depends on the carrier/maritime authority and destination.
-**What extra file does an export-sale registration need?** The manufacturer's safety/technical inspection certificate (original) and a copy of the motor-vehicle export licence.
+## 经常被问到的问题
+** 工厂证书的标准是哪一种? ** GB/T 21085-2020(建议,当前;审查2026-01-27)。
+** 20260041-Q-339是强制性的? ** 不——这是仍在拟订中的强制性标准;GB 21085 QQ是一份协商草案,没有生效。
+** UN38.3和翻译的《公约》文件是强制性的? ** 它们是建议准备的;实际需要取决于承运人/海事当局和目的地。
+** 出口销售登记需要何种额外文件? ** 制造商的安全/技术检查证书(原件)和机动车辆出口许可证副本。
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
-- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- ALT by language:
+## 图像记录
+- IMAGE_ASST_PATH: 没有在仓库中安全
+- 原型:未抓获
+- 资源_页:未捕获
+- UNURCE_FILE_PAGE:不适用——未确定候选媒体文件(无申述许可证).
+- 权利:未经证实
+- LICENSE_OR_USAGE_BASIS:没有担保——在权利被清除之前,不得公布第三方图像
+- 检查日期: 2026-09-06
+- MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
+- IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
+- IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
+- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
+- 按语言分列的低价竞标:
   - **EN**: AutoBridge export-buyer reference — Vehicle export document package, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Vehicle export document package, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Vehicle export document package, Leitfaden für Fahrzeugexport-Einkauf
@@ -70,24 +73,24 @@ The following are **recommended** to prepare; whether each is required depends o
   - **AR**: مرجع AutoBridge لمشتري التصدير — Vehicle export document package, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Vehicle export document package, 汽车出口采购指南
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## 源码验证(V)
+| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
 |---|---|---|---|---|---|---|
-| GB/T 21085-2020 factory certificate (current) | SAMR openstd | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=1FBD2FBDA2AAFED7B856221F3FF5EFFB | 2026-09-04 | VERIFIED (primary) | Current standard/status/dates |
-| SAMR platform · GB/T 21085-2020 detail | SAMR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=A47A713B75CF14ABE05397BE0A0ABB25 | 2026-09-04 | VERIFIED (primary) | Issue/effective/review dates |
-| Mandatory standard plan 20260041-Q-339 (future, under development) | SAMR | CN | https://std.samr.gov.cn/noc/search/nocPlanDetailed?id=49850161EF55CEAEE06397BE0A0AC481 | 2026-09-04 | TIME_SENSITIVE (primary) | Draft/future status |
-| SAMR notice assigning 24 mandatory standard plans | SAMR/SAC | CN | https://www.samr.gov.cn/cms_files/filemanager/1647978232/attach/20261/82b38302792642c083f8d8ff5144fd7f.pdf | 2026-09-04 | VERIFIED (primary) | Plan assignment |
-| MIIT GB21085—XXXX consultation draft (non-current) | MIIT | CN | https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20263/0bc57c477169401e840a5a60c06b5d83.pdf | 2026-09-04 | DRAFT (primary) | Draft-only multi-stage text (blocked from current wording) |
-| Motor-vehicle registration work rules (export-sale files) | Xiantao municipal gov | CN | https://www.xiantao.gov.cn/ztzl/zcwj1/zc1/202510/t20251029_5800319.shtml | 2026-09-04 | VERIFIED (primary) | Inspection certificate + licence copy |
-| Whole-vehicle export file list | NetEase | CN | https://www.163.com/dy/article/KJSNGPO20556820S.html | 2026-09-04 | CROSS_CHECKED | Handover set, NEV/translation recommendations |
-*Draft gate: multi-stage issuance rule and the mandatory replacement are DRAFT/FUTURE and excluded from current-requirement statements; NEV/translation items are editorial recommendations.*
+| GB/T 21085-2020工厂证书(现行) | SAMR 打开 | 氯化萘 | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=1FBD2FBDA2AAFED7B856221F3FF5EFFB 维基月球 | 2026-09-04 | 已核实(小学) | 目前的标准/状况/日期 |
+| SAMR平台 ^ GB/T 21085-2020 细节 | 萨马 | 氯化萘 | https://std.samr.gov.cn/gb/search/gbDetailed?id=A47A713B75CF14ABE05397BE0A0ABB25 维基月球 | 2026-09-04 | 已核实(小学) | 问题/有效/审查日期 |
+| 强制性标准计划20260041-Q-339(未来,正在拟订中) | 萨马 | 氯化萘 | https://std.samr.gov.cn/noc/search/nocPlanDetailed?id=49850161EF55CEAEE06397BE0A0AC481 维基月球 | 2026-09-04 | 时间(_S) | 草稿/未来状况 |
+| SAMR通知,指定24项强制性标准计划 | 萨马雷/萨马雷 | 氯化萘 | https://www.samr.gov.cn/cms_files/filemanager/1647978232/attach/20261/82b38302792642c083f8d8ff5144fd7f.pdf 维基月球 | 2026-09-04 | 已核实(小学) | 计划任务 |
+| MIIT GB21085 QQ 协商草案(非现行) | 军事 | 氯化萘 | https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20263/0bc57c477169401e840a5a60c06b5d83.pdf 维基月球 | 2026-09-04 | 草案(主要) | 仅限多阶段草案案文(从目前的措辞中解开) |
+| 机动车辆登记工作规则(出口-销售档案) | X岛市政府 | 氯化萘 | https://www.xiantao.gov.cn/ztzl/zcwj1/zc1/202510/t20251029_5800319.shtml 维基月球 | 2026-09-04 | 已核实(小学) | 检查证书+许可证副本 |
+| 全车导出文件列表 | 净值 | 氯化萘 | https://www.163.com/dy/article/KJSNGPO20556820S.html 维基月球 | 2026-09-04 | 横跨 | 移交、国家调查/翻译建议 |
+* 大门草案:多阶段印发规则和强制性替换是草案/未来,不列入当前要求说明;NEV/翻译项目是编辑建议。 * 报告迟交是因为需要翻译。
 
-## Editorial Review
-- **Author**: AutoBridge Export Editorial Team · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: Chinese vehicle documents (destination CoC acceptance excluded)
-- **Verification method**: Current GB/T21085-2020 anchored on SAMR; draft/future standard explicitly quarantined
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+## 编辑评论
+- ** 授权人**:自动桥出口编辑组 / 方法,按我们的[编辑政 (/编辑政策/)
+- ** 上次审查**:2026-09-05
+- **参考市场**:中国车辆单据(目的地CoC接受排除)
+- ** 验证方法**:当前GB/T21085-2020系基于SAMR;草案/未来标准明确隔离
+- ** 透明度**:使用了大赦国际协助的起草。 本条以案头研究和自动化质量保证为基础。 除非有明确文件证明,否则不声称进行第一手测试;在交易前确认时间敏感和目的地特定的要求。
+- ** 编辑标准**: 由上述来源研究和撰写(案头研究;没有声称直接驾驶、拆卸或进口)。 源头信任是一行的;我们不能独立确认的任何一点都作为核查项目而不是事实提出。
 
 **Tags**: #ExportDocuments #GBT21085 #VehicleCertificate #DraftStandard #ExportCompliance

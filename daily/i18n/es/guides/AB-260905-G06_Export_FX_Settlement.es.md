@@ -7,7 +7,7 @@
 - **Primary Keyword**: exportación de fx liquidación de comercio de fx registro
 - **Segundary Search Terms**: Exportar liquidación FX; cambio comercial de divisas; registro SAFE; flujo de fondos de flujo de mercancías; plataforma ASOne
 - ** URL agregada**: /guides/export-fx-settlement-trade-fx-registration/
-- **Intent de búsqueda**: 出口企业如何办理贸易外汇收支企业名录登记、收汇结汇并满足货物流-资金流匹配核查
+- **Intent de búsqueda**: 出口企业如何办理贸易外汇收支企业名录登记, 收汇结汇并满足货物流 - 资金流匹配核查
 - **Sugerencias de Enlace Interno**: /guides/export-pago-métodos-t-lc-riesgo/, /guides/china-export-vat-refund-process/, /guides/china-export-costos-declaración-ventana-ventana-single-ventana/
 - **Esquema Ámbito**: Artículo (sin Producto/Offer/Revisión)
 
@@ -15,10 +15,10 @@
 Antes de que un exportador chino pueda recibir su primer pago de exportación, debe estar en el directorio de empresas de intercambio **. En el marco actual se removió el paso previo de aprobación de SAFE: la empresa completa ** registro de directorios en su banco nacional** después de obtener derechos de operación de comercio exterior, y que el registro precede al primer recibo/pago. Una empresa que firma su primera exportación de vehículos sin este paso descubrirá el problema en el momento en que el dinero debe llegar.
 
 ## Solución, conversión y los bienes/fondos coinciden
-Los recibos de exportación se manejan a través del canal bancario; La conversión a RMB sigue las reglas de la cuenta. SAFE supervises trade FX through an **aggregate (总量) verification** that matches the **goods flow** (customs declarations) against the **funds flow** (receipts), rather than approving each transaction in advance. Las empresas se clasifican dinámicamente; los desfase entre lo declarado exportado y lo que se recibió atraen el escrutinio.
+Los recibos de exportación se manejan a través del canal bancario; la conversión a RMB sigue las reglas de la cuenta. SAFE supervisa el comercio FX a través de una verificación **aggregate (总量)** que coincide con el flujo ** de bienes** (declaraciones de los clientes) contra el flujo ** fondos** (recibos), en lugar de aprobar cada transacción por adelantado. Las empresas se clasifican dinámicamente; las diferencias entre lo que se declaró exportado y lo que se recibió atraen el escrutinio.
 
 ## Donde se realiza el trabajo
-Routine registration and reporting are handled at the bank and through the digital foreign-exchange platform (ASOne/数字外管); regional SAFE ramas emiten guía, pero todas son una autoridad, la rama no es un regulador separado. Mantenga la declaración aduanera, la recepción bancaria y la factura alineada para que la comparación agregada se reconcilie durante el período.
+El registro de rutina y la presentación de informes se manejan en el banco y a través de la plataforma digital de cambio exterior (ASOne/ 数字外管); las ramas regionales de SAFE emiten orientación, pero todas son una autoridad, la rama no es un regulador separado. Mantenga la declaración aduanera, la recepción bancaria y la factura alineada para que la comparación agregada se reconcilie durante el período.
 
 ## Lista de verificación de funcionamiento
 1. Obtenga derechos de comercio exterior, luego complete el registro de directorios de comercio-FX en el banco **antes del primer recibo**.
@@ -41,16 +41,19 @@ Los productos de cuenta específicos, los honorarios bancarios y las pantallas o
 ## Fuentes " Verificación "
 | Fuente | Organización | Mercado | Tier | Confianza | URL | Datos respaldados |
 |---|---|---|---|---|---|---|
-| 关于进一步优化贸易外汇业务管理的通知（名录登记改由银行办理） | 国家外汇管理局 | CN | T1 | VERIFIED | http://www.safe.gov.cn/yunnan/2024/0408/1537.html | 取消外汇局核准, 境内银行办理名录登记, 首笔收支前登记 |
-| 货物贸易外汇业务办事指南（名录登记条件） | 国家外汇管理局吉林省分局 | CN | T1 | VERIFIED | https://www.safe.gov.cn/jilin/file/file/20190617/91d454729ccc456c9b2e6a92cd6bcc51.pdf | 取得对外贸易经营权后办名录 |
-| 货物贸易外汇管理（非现场总量核查/分类管理） | 国家外汇管理局文告 | CN | T1 | VERIFIED | https://www.safe.gov.cn/safe/file/file/20170726/e97561d6d9ca4ba881d275fcb62bad2e.pdf | 总量核查, 货物流资金流匹配, 动态分类 |
-| 名录登记网上办理操作指引（ASOne平台） | 国家外汇管理局广东省分局 | CN | T1 | VERIFIED | https://www.safe.gov.cn/guangdong/file/file/20210429/babf0a6020e84b4585a7ba6737bb2c41.pdf | 数字外管平台ASOne操作 |
+| 关于进一步优化贸易外汇业务管理的通知 (名录登记改由银行办理) | 国家外汇管理局 | CN | T1 | VERIFIED | http://www.safe.gov.cn/yunnan/2024/0408/1537.html | 取消外汇局核准, 境内银行办理名录登记, 首笔收支前登记 |
+| 货物贸易外汇业务办事指南 (名录登记条件) | 国家外汇管理局吉林省分局 | CN | T1 | VERIFIED | https://www.safe.gov.cn/jilin/file/file/20190617/91d454729ccc456c9b2e6a92cd6bcc51.pdf | 取得对外贸易经营权后办名录 |
+| 货物贸易外汇管理 (非现场总量核查 / 分类管理) | 国家外汇管理局文告 | CN | T1 | VERIFIED | https://www.safe.gov.cn/safe/file/file/20170726/e97561d6d9ca4ba881d275fcb62bad2e.pdf | 总量核查, 货物流资金流匹配, 动态分类 |
+| 名录登记网上办理操作指引 (ASOne 平台) | 国家外汇管理局广东省分局 | CN | T1 | VERIFIED | https://www.safe.gov.cn/guangdong/file/file/20210429/babf0a6020e84b4585a7ba6737bb2c41.pdf | 数字外管平台 ASOne 操作 |
 | State Administration of Foreign Exchange (SAFE) | SAFE 国家外汇管理局 | CN | T1 | VERIFIED | https://www.safe.gov.cn/en/ | Trade-FX registration and aggregate verification authority |
 | State Administration of Foreign Exchange (SAFE) | SAFE (regulador) | CN | T1 | VERIFIED | https://www.safe.gov.cn/ | autoridad competente para el registro de FX y la verificación agregada |
+| Banco Popular de China (PBOC) — marco de liquidación transfronteriza de RMB | Banco Popular de China (中国人民银行 PBOC) | CN | T1/T2 | VERIFIED | http://www.pbc.gov.cn/ | Marco bancario central para la liquidación transfronteriza de las RMB y la gestión de bancos, distintos de la inscripción de divisas de la SAFE |
+| ICC Finanzas comerciales (reparación/represión de la deuda pública, liquidación de la categoría L/C) | Cámara de Comercio Internacional | INT | T1/T2 | VERIFIED | https://iccwbo.org/business-solutions/trade-finance/ | Instrumentos de asentamiento internacional (reforfaiting URF 824, L/C) que interactúan con la recepción FX de exportación |
+| CCPIT - documentación comercial y apoyo a los asentamientos | China Council for the Promotion of International Trade (CCPIT 中国贸促会) | CN | T1/T2 | VERIFIED | https://www.ccpit.org/ | Documentación comercial que justifica la prueba de transacción utilizada en la recepción/verificación FX |
 ## Revisión editorial
 - **Autor**: Equipo Editorial AutoBridge Export · [autores](/autores/) · [Política editorial](/editorial-policía/)
 - **Documento revisado*: 2026-09-05
-- **Mercadeo de referencia**: CN（中国外汇管理侧）
+- **Mercadeo de referencia**: CN(中国外汇管理侧)
 - **Método de verificación**: Investigación de escritorio contra las fuentes siguientes; especificación de referencia del mercado chino solamente a menos que se mencione explícitamente un mercado de exportación separado.
 - **Transparencia**: Se utilizó la redacción con ayuda de AI. Este artículo se basa en la investigación de escritorio y QA automatizado. No se reclaman pruebas de primera mano a menos que se documenten explícitamente; confirmen los requisitos de tiempo y destino específicos antes de realizar la transacción.
 
@@ -58,12 +61,15 @@ Los productos de cuenta específicos, los honorarios bancarios y las pantallas o
 - **IMAGE_ASSET_PATH**: ninguno asegurado en el repositorio
 - **ORIGINAL_IMAGE_URL**: no capturado
 - **SOURCE_PAGE**: no capturado
+- **SOURCE_FILE_PAGE**: no aplicable — ningún archivo de medios de comunicación candidato identificado (sin licencia para afirmar)
 - RIGHTS_HOLDER # #######################################################################################################################################################################################################################################################
 - **LICENSE_OR_USAGE_BASIS**: ninguna asegurada — La presencia de OEM en la página web no es una licencia comercial de reutilización
-- **CHECKED_DATE**: 2026-09-05
+- **CHECKED_DATE**: 2026-09-06
 - **MODEL_TOPIC_MATCH**: exactamente Exportar FX Settlement y Trade-FX Administration for Vehicle Exporters
+- **IMAGE_SCOPE_NOTE**: la imagen debe coincidir con el modelo exacto de familia/topic solamente; no debe implicar un ajuste específico, año modelo, VIN real, inspección en persona o una transacción real
 - IMAGE_RIGHTS_STATUS #
-- **ALT (idiomas 12)**:
+- **BLOCK_REASON**: No se puede asegurar una imagen reutilizable: Wikimedia Commons/Flickr no son accesibles desde el entorno de investigación, las bibliotecas de stock requieren acceso a API/licencia autenticada, y una imagen de página web OEM NO es una subvención comercial de reutilización. No existe foto de propiedad de AutoBridge. El registro se mantuvo FAIL en lugar de afirmarse.
+- **ALT (12 idiomas)**:
   - **EN**: export FX settlement, Chinese-market procurement guide export buyer reference
   - **FR**: export FX settlement, procurement guide du marché chinois, référence acheteur export
   - **DE**: export FX settlement, Chinesischer procurement guide, Referenz für Exportkäufer

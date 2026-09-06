@@ -14,7 +14,7 @@
 Dos capas de evidencia se mantienen separadas. El tema **conformidad ahora descansa en fuentes primarias** —el marco de la Organización de Normalización del CCG (OMG), aplicado a nivel nacional por Arabia Saudita a través de SASO/SABER y por la UAE a través del Ministerio de Comercio (ECAS)— y se cita en Fuentes. Los artículos de adaptación **ingenierantes** abajo (cooling, charge, AC, sellling y EV térmicas candidatas) siguen descansando en una sola fuente de upfit/ingeniería o industria y permanecen SINGLE_ Puntos de evaluación de la CORRECCIÓN, no requisitos legales del Golfo. No hay un único uniforme "Espección de golf": confirmar cada artículo con el OEM/upfitter para el modelo y el sobre operativo, y contra la aplicación del texto de la GSO del país ** (Las rutas de Saudi y UAE difieren y se muestran por separado a continuación).
 
 ## ¿Por qué un coche China-Spec no está automáticamente en el Golfo-Ley
-Un vehículo afinado para las condiciones templadas chinas cumple con una carga térmica y de polvo diferente en el Golfo. One upfit source describes Gulf summer ambient around **40–50 °C**, winters near 20 °C, with frequent **dust and high humidity** (single-source). El ambiente alto sostenido puede elevar temperaturas de refrigerante/toma, poner aire acondicionado en servicio casi continuo, conducir polvo fino en viviendas eléctricas y sensor, y —para VE— enfatizar el sobre térmico de la batería. Si una determinada construcción de China-spec ya cubre ese sobre es una cuestión de ingeniería específica modelo, no una suposición.
+Un vehículo afinado para las condiciones templadas chinas cumple con una carga térmica y de polvo diferente en el Golfo. One upfit source describes Gulf summer ambient around **40–50 °C**, inviernos cerca de 20 °C, con frecuencia **  and  alta humedad** (fuente individual). El ambiente alto sostenido puede elevar temperaturas de refrigerante/toma, poner aire acondicionado en servicio casi continuo, conducir polvo fino en viviendas eléctricas y sensor, y —para VE— enfatizar el sobre térmico de la batería. Si una determinada construcción de China-spec ya cubre ese sobre es una cuestión de ingeniería específica modelo, no una suposición.
 
 ## ICE Vehículos: Puntos de Candidato para Evaluar (no un kit obligatorio)
 Una única fuente de beneficio eleva a los siguientes candidatos; cada uno debe ser discutido con el OEM/upfitter y validado contra el diseño existente del modelo en lugar de tratar como un estándar requerido del Golfo:
@@ -30,7 +30,7 @@ Para vehículos electrificados la batería es el sistema sensible al calor. Una 
 - **Pide el OEM para datos térmicos** comparando su enfoque de refrigeración contra el sobre objetivo; **El enfriamiento líquido es una opción para evaluar — no rechazar el enfriamiento del aire categóricamente, y no asumir que el enfriamiento líquido es obligatorio**, sin una base estándar de OEM/ingeniería para ese modelo.
 - Discuss **BMS estrategia de alta temperatura** — desgarrando, cargando límites corrientes, advertencias térmicas.
 - Evaluar **-calor Comportamiento de carga rápida DC, pre-cooling de cabina**, y tolerancia de conector/cargador a bordo de la operación caliente y polvorienta.
-- A Chinese policy reference cites a battery-environment **target of −30 °C to 55 °C** (single-source) — a design target only, not a Gulf legal threshold.
+- Una referencia de política china cita un dispositivo de batería **objetivo de − 30 °C a 55 °C ** (fuente individual) — un objetivo de diseño solamente, no un umbral legal del Golfo.
 
 ## Corresponde al cumplimiento en paralelo con la ingeniería
 La adaptación no sustituye el acceso al mercado: el vehículo y cualquier componente modificado (**háreas, sensores, unidades ADAS**) todavía tienen que satisfacer **GCC/GSO conformity**, y las partes modificadas deben llevar la certificación adecuada. La evaluación de ingeniería y la homologación deben converger en la misma VIN/configuración, una parte ajustada que anula la conformidad es una pérdida neta.
@@ -48,18 +48,21 @@ La adaptación no sustituye el acceso al mercado: el vehículo y cualquier compo
 **¿Necesita cada coche China-spec un kit de adaptación del Golfo?** No automáticamente, los elementos aquí son puntos para evaluar con el OEM/upfitter por modelo; algunos China construye ya cubren el sobre.
 **¿Es inaceptable el enfriamiento aéreo para los vehículos del Golfo?** No decida por regla general — pida al OEM datos térmicos para el sobre objetivo; el enfriamiento líquido es una opción para evaluar, no un requisito universal declarado.
 **¿La adaptación de ingeniería es igual que la homologación?** No — la adaptación es la evaluación de ingeniería; la conformidad GCC/GSO es un flujo de trabajo independiente y obligatorio y ambos deben coincidir con el mismo edificio.
-**What temperature should the vehicle handle?** One source describes ~40–50 °C Gulf summers; a Chinese policy reference cites a −30 to 55 °C design target — neither is a Gulf legal limit.
+**What temperature should the vehicle handle?** One source describes ~40–50 °C Gulf summers; a La referencia de la política china cita un objetivo de diseño de 30 a 55 °C, y tampoco es un límite legal del Golfo.
 **¿Dónde encuentro exactamente los estándares de calor/AC de GSO?** Comience de la lista de regulaciones técnicas de la OSG, a continuación, abra la ruta nacional ** del país de la descriminación** — SASO/SABER para Arabia Saudita, MoIAT para los EAU — porque el texto de la OSG se aplica a nivel nacional. Esta guía no cita ningún número específico de calor/AC estándar que no podía verificar directamente; los candidatos de ingeniería aquí todavía requieren confirmación de OEM/upfitter.
 
 ## Grabación de imagen
 - IMAGE_ASSET_PATH: ninguno asegurado en repositorio
 - ORIGINAL_IMAGE_URL: no capturado
 - SOURCE_PAGE: no capturado
+- SOURCE_FILE_PAGE: no aplicable — ningún archivo de medios de comunicación candidato identificado (sin licencia para afirmar)
 - RIGHTS_HOLDER: unconfirmed
 - LICENSE_OR_USAGE_BASIS: ninguna garantizada, ninguna imagen de terceros puede ser publicada hasta que se despejen los derechos
-- CHECKED_DATE: 2026-09-05
+- CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: debe coincidir con el modelo/versión exacto (o el tema guía) y el mercado de referencia por encima
+- IMAGE_SCOPE_NOTE: se corresponde con el modelo exacto familia/topic solamente; no debe implicar un trím o modelo específico, VIN real, inspección en persona o transacción real
 - IMAGE_RIGHTS_STATUS: FAIL (no se acepta ningún activo con licencia; no se acepta un titular de posición o “retiene la imagen antigua”)
+- BLOCK_REASON: No se puede asegurar una imagen reutilizable: Wikimedia Commons/Flickr no son accesibles desde el entorno de investigación, las bibliotecas de stock requieren acceso a API/licencia autenticada, y una imagen de página web OEM NO es una subvención comercial de reutilización; no existe foto de propiedad de AutoBridge. Se quedó con la FAIL en lugar de afirmarse.
 - ALT por idioma:
   - **EN**: AutoBridge export-buyer reference — Gulf heat and dust vehicle specification, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Gulf heat and dust vehicle specification, guide d’achat à l’export automobile
@@ -79,7 +82,7 @@ La adaptación no sustituye el acceso al mercado: el vehículo y cualquier compo
 |---|---|---|---|---|---|---|
 | GCC de alta temperatura/inversión de la adaptación industrial | Certificación/proveedor de prestaciones | Golfo | https://m.11467.com/product/d15654879.htm | 2026-09-03 | SINGLE_SOURCE | Gama climática; puntos de adaptación de los candidatos ICE (una fuente) |
 | NEV de todo el cliente (enfriamiento líquido de alta temperatura / auto-calentado de baja temperatura) | Ingeniería en China / Toutiao | Global | http://m.toutiao.com/group/6868212100762698247/ | 2026-09-03 | SINGLE_SOURCE | Discusión de gestión térmica y aérea (una fuente) |
-| Rendimiento de batería de alta temperatura (− 30 ~ 55 target) | D1EV / Toutiao | CN | http://m.toutiao.com/group/6396788247036428802/ | 2026-09-03 | SINGLE_SOURCE | −30 to 55 °C policy design target (one source) |
+| Rendimiento de batería de alta temperatura/bajo temperatura (− 30 ~ 55 objetivo) | D1EV / Toutiao | CN | http://m.toutiao.com/group/6396788247036428802/ | 2026-09-03 | SINGLE_SOURCE | −30 to 55 °C policy design target (one source) |
 | 2026 Jeddah feria de autopartes (partes de trigo/polvo, BMS) | Sohu | Saudi Arabia | https://m.sohu.com/a/1056965136_122956666/ | 2026-09-03 | SINGLE_SOURCE | Componentes resistentes al calor y al polvo; nota de cumplimiento del CCG (una fuente) |
 *Texto de la prueba: cada hecho de adaptación descansa en una sola fuente (todo SINGLE_SOURCE); no se captó ninguna norma primaria de GSO o espectro de ingeniería OEM. Los artículos se enmarcan como puntos de evaluación para el OEM/upfitter, no requisitos universales del Golfo; no se afirma ningún umbral legal o configuración obligatoria. *
 
@@ -91,6 +94,6 @@ La adaptación no sustituye el acceso al mercado: el vehículo y cualquier compo
 - **Autor/examen**: [Equipo Editorial Exportador AutoBridge](/autores/) · método por nuestro [Política editorial](/editorial-policía/)
 - **Documento revisado*: 2026-09-05
 - ** Mercado de referencias/ámbito**: Golfo/Middle Evaluación de ingeniería oriental (no un resumen legal estándar)
-- ** Método de verificación**: disciplina de un solo recurso por R4; ningún artículo de ajuste único se actualiza a un requisito general
+- ** Método de verificación**: disciplina de un solo recurso por R4; ningún artículo de ajuste único se ha actualizado a un requisito general
 - **Editorial standard**: Investigación y escritura de las fuentes mencionadas anteriormente (indagación de la tinta; no se reclama la conducción directa, desgarro o importación). La confianza de la fuente se muestra por fila; cualquier punto que no podamos confirmar de forma independiente se presenta como un elemento de verificación en lugar de afirmarse como hecho.
 #AutoBridge #GulfSpec #HeatAndDust #GSO #VehicleAdaptation

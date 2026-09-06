@@ -52,11 +52,14 @@ Un prix de fret global gagne les réservations et perd de l'argent à destinatio
 - IMAGE_ASSET_PATH: aucun sécurisé dans le dépôt
 - ORIGINAL_IMAGE_URL: non capturé
 - SOURCE_PAGE: non capturé
+- SOURCE_FILE_PAGE: sans objet — aucun fichier multimédia candidat identifié (aucune licence pour affirmer)
 - HÔTEL DE DROITS: NON CONfirmÉ
 - LICENSE_OR_USAGE_BASIS: aucune image sécurisée — aucune image de tiers ne peut être publiée jusqu'à ce que les droits soient effacés
-- _DATE DE CHERCHE: 2026-09-05
+- _DATE DE CONTRÔLE: 2026-09-06
 - MODEL_TOPIC_MATCH: doit correspondre au modèle exact/version (ou au sujet du guide) et au marché de référence ci-dessus
+- IMAGE_SCOPE_NOTE: correspond à la famille/sujet du modèle exact seulement; ne doit pas impliquer une taille/modèle spécifique-année, VIN réel, inspection en personne ou transaction réelle
 - IMAGE_RIGHTS_STATUS: FAIL (aucun actif autorisé capturé; un détenteur de place ou -tain vieille image - Note n'est pas accepté)
+- C'est une question de "relation" Aucune image réutilisable ne peut être sécurisée: Wikimedia Commons/Flickr sont inaccessibles depuis l'environnement de recherche, les bibliothèques de stock nécessitent un accès authentifié API/licence, et une image de page web OEM n'est PAS une subvention de réutilisation commerciale; aucune photo appartenant à AutoBridge n'existe. Il a gardé la FAIL plutôt que de l'affirmer.
 - ALAT par langue:
   - **EN**: AutoBridge export-buyer reference — Ocean freight quotation charge structure, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Ocean freight quotation charge structure, guide d’achat à l’export automobile
@@ -80,14 +83,14 @@ Un prix de fret global gagne les réservations et perd de l'argent à destinatio
 | Frais communs de FOB (THC/réservation/camionnage) | 11467 | NC | https://m.11467.com/product/d24491409.htm | 2026-09-04 | SOURCE UNIQUE | Nom de l'accusation |
 * Portée des preuves: structure des frais recoupée de sources industrielles (aucune source officielle de tarifs primaires); AMS/ACI/ENS encadrée comme une ligne directrice éditoriale spécifique à chaque itinéraire; tous les montants délibérément exclus comme une mesure de temps. *
 
-| Incoterms 2020 règles (qui organise/paie le transport à chaque terme) | Chambre de commerce internationale (CCI) | INT'L | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/ | 2026-09-05 | VÉRIFIER | Quelles sont les charges/frais pour l'acheteur par rapport au vendeur par Incoterm |
+| Incoterms 2020 règles (qui organise/ paie le transport à chaque terme) | Chambre de commerce internationale (CCI) | INT'L | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/ | 2026-09-05 | VÉRIFIER | Quelles sont les charges/frais pour l'acheteur par rapport au vendeur par Incoterm |
 | Catégories de pratiques et de frais pour les transitaires | FIATA | INT'L | https://fiata.org/ | 2026-09-05 | VÉRIFIER | Référence de la cote de l'expéditeur/de la structure de charge |
 | Contexte de l'expédition de lingots et des suppléments | Conseil mondial des transports maritimes | INT'L | https://www.worldshipping.org/ | 2026-09-05 | VÉRIFIER | Contexte industriel du fret maritime et des redevances accessoires |
 | Chine International Association des transitaires | CIFA | CN/INT'L | http://www.cifa.org.cn/ | 2026-09-05 | VÉRIFIER | Industrie de la transmission côté Chine et pratique de cotation |
 
 ## Révision de la rédaction
 - **Auteur**: Équipe éditoriale d'AutoBridge Export · méthode selon notre [Politique éditoriale](/Politique éditoriale/)
-- **Dernière revue**: 2026-09-05
+- **Dernière révision**: 2026-09-05
 - **Marché de référence**: Structure internationale du fret maritime (pas de montants, pas de tarif spécifique à la voie)
 - **Méthode de vérification**: Structure recoupée; affichage des frais par voie de communication; zéro chiffre fixe affirmé
 - **Transparence**: La rédaction assistée par AI a été utilisée. Cet article est basé sur la recherche sur le bureau et l'AQ automatisée. Aucun essai de première main n'est revendiqué sauf documenté explicitement; confirmer les exigences en matière de temps et de destination avant d'agir.

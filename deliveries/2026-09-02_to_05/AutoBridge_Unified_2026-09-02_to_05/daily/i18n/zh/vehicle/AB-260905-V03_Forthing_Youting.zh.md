@@ -1,87 +1,90 @@
-# Dongfeng Forthing Youting (2025/2026) — Chinese-Market MPV Specs, ICE/PHEV Lines and Export Checks
+# 东风福兴·尤廷(2025/2026年)——中马MPV. 光谱、 ICE/ PHEV 线和导出检查
 
-## SEO Metadata
-- **SEO Title**: Forthing Youting MPV: Chinese-Market ICE & PHEV Lines, Specs and Export Guide
-- **Meta Description**: Chinese-market Dongfeng Forthing Youting (游艇) MPV: keep the ICE and PHEV lines separate; dimensions, 7-seat cabin, PHEV powertrain and export verification points.
-- **H1**: Dongfeng Forthing Youting (2025/2026) — Chinese-Market MPV Specs, ICE/PHEV Lines and Export Checks
-- **Primary Keyword**: Dongfeng Forthing / 东风风行 Youting / 风行游艇 specs export
-- **Secondary Search Terms**: Forthing Youting export; 游艇 MPV specs; Chinese 7-seat MPV; MPV PHEV; passenger van import
-- **Suggested URL**: /vehicles/forthing-youting/
-- **Search Intent**: 了解 Dongfeng Forthing / 东风风行 Youting / 风行游艇 中国版规格、配置与出口适配性（车型参数页）
-- **Internal Link Suggestions**: /vehicles/forthing-youting/, /guides/ckd-skd-knockdown-kit-export-assembly/, /guides/export-document-package-history/
-- **Schema Scope**: Article + Vehicle (no Product/Offer/Review)
+## 道德操守办公室 元数据
+- **SEO标题**:Forthing Youting MPV:中马ICE & PHEV线,光谱和出口指南
+- **Meta Dision**:中国市场东风福建青(游艇)MPV:将ICE和PHEV线路分开;尺寸7-seat舱,PHEV电源列车和出口验证点.
+- ** H1 资源需求。 **:东风福兴·尤廷(2025/2026年)——中马MPV. 光谱、 ICE/ PHEV 线和导出检查
+- ** 基本关键词**:东风堡/东风风行 Youting / 风行游艇 光谱导出
+- ** 二级搜索术语**: 用于出口Youting;游艇 MPV规格;中国7-seat MPV;MPV PHEV;旅客面包车进口
+- ** 提议URL**:车辆/未来青年/
+- ** 搜索内特**:了解 东风堡 / 东风风行 Youting / 风行游艇 中国版规格 / 配置与出口适配性(车型参数页)).
+- ** 内部链接建议**:车辆/前期-青年/、指南/ckd-skd-knockdown-kit-export-assembly/、指南/出口-文件包装-历史/
+- ** 范围**:第+条车辆(无产品/产出/审查)
 
-## Buyer context: one MPV nameplate, two energy lines
-The **Dongfeng Forthing Youting (游艇)** is a mid-size Chinese-market MPV offered in **ICE and PHEV lines that must be quoted separately**. They share a 2900 mm wheelbase and 7-seat, hinged-door cabin but differ in height and powertrain. Reference market is **China**; no export-line specification is claimed.
+## 购买者上下文:一个MPV名牌,两个能量线
+东风福尔丁(游艇)**是中国中超市场MPV在**ICE提供的一种中超产品.  and  必须单独引用的PHEV线**。 他们共用2900 mm个轮式基地和7-seat个, 门锁舱,但高度和动力列车不同。 参考市场为**中国**; 没有声称出口线规格。
 
-## Cabin, dimensions and the two lines
-- **Wheelbase/seating**: 2900 mm, 7（5门，平开门） (five doors, hinged/sliding as built — confirm by trim).
-- **ICE body**: 4850 / 1900 / 1715 mm (cross-checked).
-- **PHEV body**: 4850 / 1900 / 1740 mm (cross-checked; note the taller roofline).
-- **PHEV powertrain**: 1.5T 154马力 L4, engine torque 230 N·m, motor torque 310 N·m, 1挡DHT, top speed 180 km/h.
-- **Charging note**: per the captured AutoHome account the PHEV **does not support DC fast charging** — confirm on the exact trim.
-- **Chinese domestic reference price (time-sensitive)**: from 15.49 RMB; a Chinese domestic MSRP only, never an export price.
+## 客厅、尺寸和两条线
+- ** 温室/隔离**: 2900 mm,  7（5门，平开门） (five doors, 已建成的系链/滑动——通过修剪确认)。
+- 身体状况: 4850 / 1900 / 1715 mm (交叉核对).
+- ** PHEV 车身**:4850 / 1900 / 1740 mm(交叉检查;注意更高的屋顶线)。
+- ** PHEV 动力列车**: 1.5T 154 马力 L4 号, 发动机扭矩230 N·m,, 发动机扭矩310 N·m,  1挡DHT, 最高速度180 km/h 。
+- ** 标记**:根据缴获的AutoHome账户,PHEV**不支持DC快速充电**——确认精确的剪切。
+- **中国国内参考价格(时准)**:来源于15.49人民币;仅是中国国内的管理系统更新项目,从未有出口价格.
 
-## Verified specification table (Chinese-market reference)
-| Specification | Value | Unit | Market | Confidence | Source note |
+## 验证规格表(中市参考文献).
+| 规格 | 数值 | 单位 | 市场 | 信心 | 来源说明 |
 |---|---|---|---|---|---|
-| length width height ice | 4850 / 1900 / 1715 | mm | CHINA | CROSS_CHECKED | 太平洋+搜狐 |
-| length width height phev | 4850 / 1900 / 1740 | mm | CHINA | CROSS_CHECKED | 汽车之家+太平洋 |
-| wheelbase | 2900 | mm | CHINA | CROSS_CHECKED | 太平洋+搜狐 |
-| seats | 7（5门，平开门） | - | CHINA | SINGLE_SOURCE | 搜狐车型库 |
-| phev engine | 1.5T 154马力 L4 | - | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
-| phev engine torque | 230 | N·m | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
-| phev motor torque | 310 | N·m | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
-| phev transmission | 1挡DHT | - | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
-| phev top speed | 180 | km/h | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
-| phev dc fast charge | 不支持快充（汽车之家口径） | - | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
-| phev china msrp start | 15.49 | 万元人民币 | CHINA | TIME_SENSITIVE | 车主之家 |
+| 长度宽度高度冰 | 4850 / 1900 / 1715 | 毫米 | 中国 | 横跨 | 太平洋+搜狐 (单位:千美元) |
+| 长度宽度高度 | 4850 / 1900 / 1740 | 毫米 | 中国 | 横跨 | 汽车之家+太平洋 (单位:千美元) |
+| 轮式基座 | 2900 | 毫米 | 中国 | 横跨 | 太平洋+搜狐 (单位:千美元) |
+| 席位 | 7(5 门,平开门) (中文(简体)). | - 说吧 | 中国 | 资源 | 搜狐车型库 维基月球 |
+| 光圈引擎 | 1.5T 154马力 L4 | - 说吧 | 中国 | 资源 | 汽车之家车家号 维基月球 |
+| phev 引擎扭矩 | 230 | 不详 | 中国 | 资源 | 汽车之家车家号 维基月球 |
+| 电流电动机扭矩 | 310 | 不详 | 中国 | 资源 | 汽车之家车家号 维基月球 |
+| 电流传输 | 1 挡 DHT 电话 | - 说吧 | 中国 | 资源 | 汽车之家车家号 维基月球 |
+| 顶速 | 180 | 公里/小时 | 中国 | 资源 | 汽车之家车家号 维基月球 |
+| 电流 dc 快电 | 不支持快充(汽车之家口径) (中文(简体)). | - 说吧 | 中国 | 资源 | 汽车之家车家号 维基月球 |
+| 叶片瓷器 磁带开始 | 15.49 | 万元人民币 维基月球 | 中国 | 时间(_S) | 车主之家 维基月球 |
 
-## MPV procurement focus: seating, conversion and what is deliberately missing
-For MPV importers the order-critical fields are seat count/configuration, door type, cabin length and whether the unit is ICE or PHEV. The PHEV **battery capacity and pure-electric range are not reliably captured and are withheld**, and fast-charging rests on a single source; do not fill these from assumption. Any ambulance, VIP shuttle or wheelchair conversion is an upfit built on this MPV and belongs to a separate special-vehicle assessment.
+## 管理、管理和支助事务
+对MPV进口商来说,订单关键字段是座椅计数/配置,门型,机舱长度以及单元是ICE还是PHEV. PHEV **电池容量和纯电源范围不可靠地捕获和扣动**,快速充电依赖于单一来源;不要从假设中填充这些容量和电源. 任何救护车、VIP穿梭机或轮椅改装都是在这种多管电视上建造的,属于单独的特别车辆评估。
 
-## Overseas buyer verification before payment
-1. State ICE or PHEV explicitly and record the matching dimensions/height.
-2. Confirm 7-seat layout, door type and any conversion scope.
-3. Obtain PHEV battery/electric-range and charging data from OEM before quoting them — they are blocked here.
-4. Confirm destination emissions/type-approval and (for PHEV) charging standard.
-5. Treat the RMB figure as domestic reference only; request a current export quotation.
+## 付款前对海外买方的核实
+1. 明确记录匹配的尺寸/高度。
+2. 确认7-seat布局,门类型和任何转换范围.
+3. 引用这些电池/电程和充电数据之前,
+4. 确认目的地排放/类型核准和(针对PHEV)充电标准。
+5. 仅将人民币数字作为国内参考;请提供当前出口报价.
 
-## FAQ
-**Are the ICE and PHEV Youting the same size?** Same wheelbase, but the PHEV is slightly taller; quote each line separately.
-**What is the PHEV electric range?** Not reliably sourced here and intentionally omitted.
-**Does it fast-charge?** One source says no DC fast charging; confirm by exact trim.
-**Is 154,900 RMB the export price?** No — Chinese domestic reference only.
-**Can it be converted to a shuttle/ambulance?** As an upfit; assess separately from the base MPV.
+## 财务问题
+** ICE和PHEV Youting的尺寸相同吗? ** 相同的轮基,但PHEV稍高;分别引用每行.
+电场是什么? 此处来源不可靠,故意省略.
+快速充电吗? 一个消息来源说没有DC快速充电,通过精确的修剪确认.
+** 154、900人民币是出口价格吗? ** 否 ——仅中国国内参考.
+** 能否转换成穿梭/救护车? ** 以上调形式进行;与基数的MPV分开评估。
 
 
-## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
+## 源码验证(V)
+| 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
 |---|---|---|---|---|---|---|
-| 风行游艇 车型百科 | 太平洋汽车百科 | CN | T3 | CROSS_CHECKED | http://m.pcauto.com.cn/baike/1542347/2562358/ | 尺寸, 轴距, 座椅, 车门形式 |
-| 风行游艇 车型信息 | 汽车之家车家号 | CN | T3 | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/info/23897205?isfrom=pc | PHEV动力, 快充, 价格 |
-| 风行游艇 参数配置 | 搜狐汽车车型库 | CN | T2 | CROSS_CHECKED | https://db.auto.sohu.com/model_6769/config | 尺寸, 座位, 动力 |
-| 风行游艇 新车资讯 | 车主之家 | CN | T3 | CROSS_CHECKED | https://m.16888.com/news/2026/0807/24830307.html | PHEV上市信息 |
-| Dongfeng Forthing official global site | Dongfeng Liuzhou Motor / Forthing 东风风行 (OEM) | CN | T1 | VERIFIED | https://www.forthingmotor.com/ | brand/model-line identity and OEM authority |
-| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | T1 | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
-| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
-## Editorial Review
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: China (Chinese-market reference specification; not a global spec)
-- **Verification method**: Desk research against the sources below; Chinese-market reference specification only unless a separate export market is explicitly cited.
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
+| 风行游艇 车型百科 (单位:千美元) | 太平洋汽车百科 维基月球 | 氯化萘 | T3 | 横跨 | http://m.pcauto.com.cn/baike/1542347/2562358/ 维基月球 | 尺寸,  轴距,  座椅, 车门形式 维基月球 |
+| 风行游艇 车型信息 (单位:千美元) | 汽车之家车家号 维基月球 | 氯化萘 | T3 | 横跨 | https://chejiahao.m.autohome.com.cn/info/23897205?isfrom=pc 维基月球 | 电话:动力、快充、价格 |
+| 风行游艇 参数配置 (单位:千美元) | 搜狐汽车车型库 维基月球 | 氯化萘 | T2 | 横跨 | https://db.auto.sohu.com/model_6769/config 维基月球 | 尺寸,  座位, 动力 维基月球 |
+| 风行游艇 新车资讯 (单位:千美元) | 车主之家 维基月球 | 氯化萘 | T3 | 横跨 | https://m.16888.com/news/2026/0807/24830307.html 维基月球 | 电话上市信息 |
+| 东风福兴全球官方网站 | 东风柳州汽车/福建东风风行(OEM)  Liu州汽车. | 氯化萘 | T1 | 实录 | https://www.forthingmotor.com/ 维基月球 | 品牌/模范线路身份和OEM授权 |
+| 工业和信息化部(MIIT) | 军事情报处 工业和信息化部 | 氯化萘 | T1 | 实录 | https://www.miit.gov.cn/ 维基月球 | 统一/通知权限;通过VIN/通知确认准确的模型、质量和代码 |
+| 国家市场监管管理局(SAMR) | 萨马国家市场监督管理总局 | 氯化萘 | T1 | 实录 | https://www.samr.gov.cn/ 维基月球 | 国家标准、认证和市场监管当局 |
+## 编辑评论
+- ** 作者**:自动桥出口编辑组 · [作者](/作者/) · [编辑政策](/编辑政策/)
+- ** 上次审查**:2026-09-05
+- **参考市场**:中国(中国市场参考规格;不是全球规格)
+- ** 核查方法**: 案头研究对照以下来源;中国市场参考规格仅需明确引用单独的出口市场.
+- ** 透明度**:使用了大赦国际协助的起草。 本条以案头研究和自动化质量保证为基础。 除非有明确文件证明,否则不声称进行第一手测试;在交易前确认时间敏感和目的地特定的要求。
 
-## Image Record
-- **IMAGE_ASSET_PATH**: none secured in repository
-- **ORIGINAL_IMAGE_URL**: not captured
-- **SOURCE_PAGE**: not captured
-- ! ! ! ! ! ! ! ! ! ! unconfirmed
-- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
-- **CHECKED_DATE**: 2026-09-05
-- **MODEL_TOPIC_MATCH**: exact Dongfeng Forthing Youting
-- **IMAGE_RIGHTS_STATUS**: FAIL
-- **ALT (12 languages)**:
+## 图像记录
+- **IMAGE_ASST_PATH**:没有在仓库中安全
+- ** ORIGINAL_IMAGE_URL**:未捕获
+- ** 资源:未捕获
+- ** UNURCE_FILE_PAGE**:不适用——未确定候选媒体档案(无执业许可).
+- 霍德尔:未经证实
+- ** LICENSE_OR_USAGE_BASIS**:没有保证——OEM网页的存在不是商业再利用许可证
+- ** 日期:2026-09-06
+- 东风 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青春 青 青春 青春 青春 青春 青春 青春 青 青春 青 青 青春 青 青 青春 青 青春 青春 青 青 青春 青 青 青 青 青 青 青 青 青 青 青 青 青 青 青 
+- **IMAGE_SCOPE_NOTE**:图像必须只与确切的模型家族/主题相符;不得暗示特定的修饰,模型年份,真实的VIN,当面检查或实际交易.
+- 错误
+- **BLOCK_REASON**:无法保证可重复使用的图像:维基媒体Commons/Flickr无法从研究环境中获取,股票库需要认证API/许可证访问,OEM网页图像不是商业再利用的赠款. 不存在自动包头拥有的照片 。 记录保留了FAIL,而不是断言。
+- ** ALT(12种语言)**:
   - **EN**: Dongfeng Forthing Youting, Chinese-market MPV export buyer reference
   - **FR**: Dongfeng Forthing Youting, MPV du marché chinois, référence acheteur export
   - **DE**: Dongfeng Forthing Youting, Chinesischer MPV, Referenz für Exportkäufer

@@ -3,11 +3,11 @@
 ## SEO Metadatos
 - **SEO Título**: CCC Certificación y Exportación de Vehículos: ¿Necesita un coche exportado China CCC, y cuando la exención se aplica
 - **Meta Descripción**: Si la certificación obligatoria de China CCC se aplica a los vehículos: verificación de alcance y entrada de la CCC, por qué los productos fabricados únicamente para la exportación están fuera del régimen del mercado interno y las categorías de exención de límites.
-- ** H1 **: CCC Certificación y Vehículos Exportados - Alcance y Exención
+- ** H1 **: CCC Certificación Obligatoria y Vehículos Exportados - Alcance y Exención
 - **Primary Keyword**: exención de exportación de certificación ccc
-- ** Términos de búsqueda de segundo orden**: certificación CCC; certificado 3C; exención de exportación; certificación obligatoria del producto; carta de exención de CCC
+- ** Términos de búsqueda de la segunda reunión**: certificación de CCC; certificado 3C; exención de exportación; certificación obligatoria del producto; carta de exención de CCC
 - ** URL agregada**: /guides/ccc-certification-export-exemption/
-- **Intent de búsqueda**: 厘清CCC适用范围（出厂/销售/进口/经营使用），纯出口产品与免办证明的边界与办理
+- **Intent de búsqueda**: 厘清 CCC 适用范围 (出厂 / 销售 / 进口 / 经营使用), 纯出口产品与免办证明的边界与办理
 - **Sugerencias internas**: /guides/china-export-costos-declaración-ventana-single-ventana/, /guides/certificate-of-conformity-type-approval-history/, /guides/ckd-skd-knockdown-kit-export-assembly/
 - **Esquema Ámbito**: Artículo (sin Producto/Offer/Revisión)
 
@@ -17,7 +17,7 @@ CCC (China Certificación obligatoria) es el régimen obligatorio de certificaci
 ## El límite de exportación
 Los bienes fabricados **totalmente para la exportación** no entran en el mercado nacional chino y no se están colocando en él; el régimen de la CCC se dirige a la colocación del mercado interno y a la importación en China. La certificación del mercado de destino (probación de tipo vehículo completo, marca electrónica/GCC/etc.) es un requisito **separado y extranjero** y nunca se satisface con un certificado de CCC chino.
 
-## When an exemption (免办) is the correct instrument
+## Cuando una exención (免办) es el instrumento correcto
 Cuando un producto con lista de CCC entra en China temporalmente o con el fin de que las reglas eximien —por ejemplo, componentes importados con el fin de ser plenamente incorporados y reexportados, ciertas situaciones de exposición/testing/repaired-goods— se hace una aplicación **exención** a través del sistema de exención de CNCA (cccmb.cnca.cn) bajo las categorías definidas. La exención es basada en la categoría y documentada; no es una renuncia verbal.
 
 ## Secuencia de decisión para un exportador
@@ -41,17 +41,19 @@ Se actualizan las categorías de catálogo y exención de la CCC; utilice el tex
 ## Fuentes " Verificación "
 | Fuente | Organización | Mercado | Tier | Confianza | URL | Datos respaldados |
 |---|---|---|---|---|---|---|
-| 强制性产品认证管理规定 | 国家市场监督管理总局 | CN | T1 | VERIFIED | https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_1fb2082e0cca45cbb8e70b4a33e15e99.html | CCC适用范围, 入境验证, 免办情形 |
-| 强制性产品认证管理规定（认监委） | 国家认证认可监督管理委员会 | CN | T1 | VERIFIED | https://www.cnca.gov.cn/zwxx/bmgz/art/2015/art_e211a67d9e4d4a8ea25a5c2390a417f0.html | 主管部门, 认证后方可出厂销售进口使用 |
-| 企业申请CCC免办业务（条件与系统） | 国家认证认可监督管理委员会 | CN | T1 | VERIFIED | https://www.cnca.gov.cn/hlwfw/ywxt/rzjgxxbszn/rzjghqyxybsnxxx/rzjghqyxybsnxxx/xzspsx/art/2021/art_0d573f87af7d4b4586ef7e5b7dcbf28d.html | 免办条件, cccmb.cnca.cn系统 |
-| 认监委2005年第3号公告（无需/免办CCC条件） | 国家认证认可监督管理委员会 | CN | T1 | VERIFIED | https://www.cnca.gov.cn/hlwfw/ywzl/qzxcprz/CCCmb/art/2013/art_8feb350f605e4c9da85d8a4a203f30ff.html | 免办具体情形 |
-| 免予办理强制性产品认证证明（受理条件示例） | 安徽省人民政府 | CN | T1 | VERIFIED | https://www.ah.gov.cn/site/tpl/7091?cswd=2222&ssqdId=4028e69f84d033380185c7c09c5058fa&ssqdCode=521edb32dd8c45938651ec2edce21ddc&activeId=6785131 | 以整机全数出口为目的进口的零部件免办等 |
+| 强制性产品认证管理规定 | 国家市场监督管理总局 | CN | T1 | VERIFIED | https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_1fb2082e0cca45cbb8e70b4a33e15e99.html | CCC 适用范围, 入境验证, 免办情形 |
+| 强制性产品认证管理规定 (认监委) | 国家认证认可监督管理委员会 | CN | T1 | VERIFIED | https://www.cnca.gov.cn/zwxx/bmgz/art/2015/art_e211a67d9e4d4a8ea25a5c2390a417f0.html | 主管部门, 认证后方可出厂销售进口使用 |
+| 企业申请 CCC 免办业务 (条件与系统) | 国家认证认可监督管理委员会 | CN | T1 | VERIFIED | https://www.cnca.gov.cn/hlwfw/ywxt/rzjgxxbszn/rzjghqyxybsnxxx/rzjghqyxybsnxxx/xzspsx/art/2021/art_0d573f87af7d4b4586ef7e5b7dcbf28d.html | 免办条件, cccmb.cnca.cn 系统 |
+| 认监委 2005 年第 3 号公告 (无需 / 免办 CCC 条件) | 国家认证认可监督管理委员会 | CN | T1 | VERIFIED | https://www.cnca.gov.cn/hlwfw/ywzl/qzxcprz/CCCmb/art/2013/art_8feb350f605e4c9da85d8a4a203f30ff.html | 免办具体情形 |
+| 免予办理强制性产品认证证明 (受理条件示例) | 安徽省人民政府 | CN | T1 | VERIFIED | https://www.ah.gov.cn/site/tpl/7091?cswd=2222&ssqdId=4028e69f84d033380185c7c09c5058fa&ssqdCode=521edb32dd8c45938651ec2edce21ddc&activeId=6785131 | 以整机全数出口为目的进口的零部件免办等 |
 | SAMR (regimen del CCC) | SAMR 国家市场监督管理总局 | CN | T1 | VERIFIED | https://www.samr.gov.cn/ | CCC mandatory Certification regime authority |
 | Administración de certificación y acreditación (CNCA) | CNCA 国家认证认可监督管理委员会 | CN | T1 | VERIFIED | https://www.cnca.gov.cn/ | Sistema de administración y exención del CCC |
+| Acuerdo sobre Obstáculos Técnicos al Comercio (TBT) | Organización Mundial del Comercio | INT | T1/T2 | VERIFIED | https://www.wto.org/english/tratop_e/tbt_e/tbt_e.htm | Marco de TBT para la evaluación obligatoria de la conformidad, como el CCC, y para evitar barreras innecesarias (lógica de la exención) |
+| Normas de la Comisión Electrotécnica Internacional (CIE) | Comisión Electrotécnica Internacional (IEC) | INT | T1/T2 | VERIFIED | https://www.iec.ch/home | Normas internacionales referenciadas en la evaluación de la conformidad; el CCC utiliza normas de GB que a menudo se ajustan a la CEI |
 ## Revisión editorial
 - **Autor**: Equipo Editorial AutoBridge Export · [autores](/autores/) · [Política editorial](/editorial-policía/)
 - **Documento revisado*: 2026-09-05
-- **Mercadeo de referencia**: CN（中国认证制度侧）
+- **Mercadeo de referencia**: CN(中国认证制度侧)
 - **Método de verificación**: Investigación de escritorio contra las fuentes siguientes; especificación de referencia del mercado chino solamente a menos que se mencione explícitamente un mercado de exportación separado.
 - **Transparencia**: Se utilizó la redacción con ayuda de AI. Este artículo se basa en la investigación de escritorio y QA automatizado. No se reclaman pruebas de primera mano a menos que se documenten explícitamente; confirmen los requisitos de tiempo y destino específicos antes de realizar la transacción.
 
@@ -59,12 +61,15 @@ Se actualizan las categorías de catálogo y exención de la CCC; utilice el tex
 - **IMAGE_ASSET_PATH**: ninguno asegurado en el repositorio
 - **ORIGINAL_IMAGE_URL**: no capturado
 - **SOURCE_PAGE**: no capturado
+- **SOURCE_FILE_PAGE**: no aplicable — ningún archivo de medios de comunicación candidato identificado (sin licencia para afirmar)
 - RIGHTS_HOLDER # #######################################################################################################################################################################################################################################################
 - **LICENSE_OR_USAGE_BASIS**: ninguna asegurada — La presencia de OEM en la página web no es una licencia comercial de reutilización
-- **CHECKED_DATE**: 2026-09-05
+- **CHECKED_DATE**: 2026-09-06
 - **MODEL_TOPIC_MATCH**: exacta CCC Certificación y vehículos exportados obligatorios
+- **IMAGE_SCOPE_NOTE**: la imagen debe coincidir con el modelo exacto de familia/topic solamente; no debe implicar un ajuste específico, año modelo, VIN real, inspección en persona o una transacción real
 - IMAGE_RIGHTS_STATUS #
-- **ALT (idiomas 12)**:
+- **BLOCK_REASON**: No se puede asegurar una imagen reutilizable: Wikimedia Commons/Flickr no son accesibles desde el entorno de investigación, las bibliotecas de stock requieren acceso a API/licencia autenticada, y una imagen de página web OEM NO es una subvención comercial de reutilización. No existe foto de propiedad de AutoBridge. El registro se mantuvo FAIL en lugar de afirmarse.
+- **ALT (12 idiomas)**:
   - **EN**: CCC certification export, Chinese-market procurement guide export buyer reference
   - **FR**: CCC certification export, procurement guide du marché chinois, référence acheteur export
   - **DE**: CCC certification export, Chinesischer procurement guide, Referenz für Exportkäufer

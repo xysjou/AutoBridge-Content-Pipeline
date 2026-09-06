@@ -1,67 +1,70 @@
-# Importing a Vehicle Into the UAE: Clearance-to-Registration Sequence and What You Must Re-Verify
+# استيراد مركبة إلى جامعة الدول العربية: تصفية السجلات وما يجب أن تعيد التحقق
 ## SEO Metadata
-- **SEO Title**: UAE Vehicle Import ' RTA Registration Documents Guide
-- **Meta Description**: Sequence a UAE vehicle import correctly -- customs clearance documents, GCC/GSO conformity, then RTA registration (Mulkiya). Reported duty/VAT figures are flagged for official UAE confirmation rather than stated as fixed.
-- **Suggested URL**: /guides/uae-vehicle-import-registration-documents/
-- ** H1 **: UAE Vehicle Import: From Port Clearance to RTA Registration - Documents and Verification
-- **Primary Keyword**: uae vehicle import registration documents rta process
-- **Secondary Search Terms**: Dubai customs vehicle import, UAE Mulkiya registration, GCC GSO vehicle conformity, UAE car import duty VAT, MoIAT vehicle import
+- ** المصدر: العنوان**: " دليل وثائق تسجيل استيراد المركبات "
+- ** وصف البيانات**: Sequence a UAE vehicle import correctly -- customs clearance documents, GCC/GSO conformity, then RTA registration (Mulkiya). ويُشار إلى أرقام الرسوم/الرسوم المرفوعة على أساس الموافقة الرسمية للشركة بدلاً من أن تُدرج على أنها ثابتة.
+- ** URL المقترض**: /guides/uae-vehicle-import-registration-documents/
+- ** H1 **: UAE استيراد المركبات: من نظام تصاريح الموانئ إلى تسجيل اتفاق التجارة الإقليمية - الوثائق والتحقق
+- ** كلمة رئيسية**: عملية تسجيل وثائق استيراد المركبات
+- ** شروط البحث الثانية**: استيراد مركبات دبي الجمارك، تسجيل حركة أوغا إي مولكيا، مطابقة مركبات شركة سي جي أو جي أو جي أو جي أو جي أو إي، ورسوم استيراد السيارات في أوغا أو، وواردات مركبات موليت
 - ** Internal Link Suggestions**: /guides/vehicle-coc-type-approval-dosssier/;guides/china-vehicle-export-license-customs/;/guides/vehicle-preshipment-inspection-psi/
-- **Image Suggestions**: clearance→RTA sequence diagram; UAE document checklist; emirate/federal authority map
-- **ALT Suggestions**: "UAE customs to RTA registration sequence"; "UAE vehicle import document checklist"
+- ** اقتراحات بشأن: الموافقة** مخطط تسلسل الاتفاق الإقليمي؛ قائمة مرجعية بوثائق الاتحاد الأوروبي؛ خريطة بالسلطة الشبهية/الفيدرالية
+- ** اقتراحات بشأن: " الجمارك في منطقة التجارة الإقليمية إلى تسلسل تسجيلها " ؛ قائمة مرجعية بوثائق استيراد المركبات في منطقة أو إيه
 
-## Scope and Evidence Boundary (read first)
-This guide uses the **UAE as the worked example**; The sequencing logical transfers to other GCC markets, but each emirate and each GCC state applies its own forms and fees. **No UAE federal-customs or RTA primary page was captured in this package.** Accordingly, concrete duty/VAT/fee figures below are **reported by freight-forwarder guides and are TIME-SENSITIVE verification items, not fixed facts** — obtain the current values from the UAE federal customs authority and the relevant emirate's RTA before committing a landed-cost model.
+## الحدود الدنيا (الخط الأول)
+ويستخدم هذا الدليل نظام المعلومات البيئية الموسَّع كمثال عملي**؛ ويُطبِّق المنطق المتسلسل الذي ينتقل إلى أسواق أخرى تابعة لمجلس التعاون الخليجي، ولكن كل إيميلي وكل دولة من دول مجلس التعاون الخليجي أشكالها ورسومها الخاصة. ** لم تُدرج في هذه المجموعة أي ذرات اتحادية أو صفحة أولية من طراز UAE. وبناء على ذلك، فإن أرقام الرسوم/الرسوم/الرسوم البيانية الواردة أدناه تُبلغ عنها أدلة الشحن المرسلة، وهي أصناف تحقق ذات صلة بالمشروع، وليست وقائع ثابتة** - تحصل على القيم الحالية من سلطة الجمارك الاتحادية في جامعة الدول العربية واتفاقات التوريد ذات الصلة قبل أن ترتكب نموذجاً لتكاليف الهبوط.
 
-## The Sequence Buyers Most Often Get Backwards
-The correct order is **clear customs first, register second**:
-1. **Port/customs clearance** — present trade documents and pay applicable customs charges;
-2. **Conformity/compliance** — the vehicle is expected to meet GCC/GSO standardization requirements to proceed (note: the former ESMA functions were folded into **MoIAT**; confirm the current conformity route officially);
-3. **RTA registration** — only after release does the buyer apply to the Roads & Transport Authority for registration and the **Mulkiya** (vehicle registration card), requiring insurance, vehicle inspection and identity documents.
-Registering before clearing customs is not possible; under-preparing conformity documents is what most often stalls step 1→2.
+## "المشتريات" "أكثر من أي وقت مضى"
+الأمر الصحيح هو:
+1. ** تطهير الدول/الذرات** - وثائق التجارة الحالية ودفع الرسوم الجمركية المنطبقة؛
+2. ** التطابق/الامتثال** - يتوقع أن تفي المركبة بمتطلبات توحيد النظام العالمي لمراقبة المناخ/منظمة رصد الأرض (ملاحظة: تم ربط المهام السابقة لوكالة الفضاء الأوروبية إلى ** وزارة الطيران المدني**؛ تأكيد مسار المطابقة الحالي رسميا)؛
+3. ** تسجيل وكالة RTA** - لا يقدم المشتري طلباً إلى هيئة النقل للطرق لتسجيله، ولا ينطبق على بطاقة تسجيل المركبات**، ويشترط ذلك وثائق التأمين، وتفتيش المركبات، والهوية.
+التسجيل قبل التخلي عن الجمارك غير ممكن؛ وثائق المطابقة الناقصة الإعداد هي ما يعطل في معظم الأحيان الخطوة 1 → 2.
 
 ## The Clearance Document Set
-Reported requirements (forwarder guidance, to be confirmed with the clearing emirate):
-- **Commercial invoice, packing list, bill of lading, certificate of origin.**
-- Forwarder guidance for Dubai clearance recommends keeping the **invoice consistent with the B/L and certificate of origin** (party names, VIN, value, origin) — reconcile these documents to reduce the risk of a hold.
-- Export-side documents from China (licence, declaration, EV battery papers) support, but do not replace, UAE-side filings.
+(أ) الاحتياجات المبلغ عنها (توجيهات آجلة، التي ستتأكد مع نسق تبادل المعلومات):
+- ** الفواتير التجارية، قائمة التعبئة، سند الشحن، شهادة المنشأ. "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـسـمـسـمـنـيـنـيـنـيـنـيـمـة
+- ويوصي التوجيه المقدم بشأن تصاريح دبي بأن تحافظ على الفواتير التي تتوافق مع الوثيقة B/L وشهادة المنشأ** (أسماء الأحزاب، القيمة، المصدر) - على التوفيق بين هذه الوثائق للحد من خطر عقد.
+- (ب) دعم وثائق جانب الصادرات من الصين (الرخصة، الإعلان، بطاقات البطارية الإلكترونية)، ولكنها لا تحل محل الملفات الجانبية للشركة.
 
-## GCC/GSO Conformity: the Gate Between Clearance and Registration
-- Vehicles are expected to meet **GCC Standardization (GSO)** conformity requirements; understand which body now issues/oversees the relevant certificate after the ESMA→MoIAT reorganisation.
-- A **Chinese domestic certificate of conformity is not GCC market access** — confirm the exact GCC certificate/type-approval route for the model before shipment (see the CoC/type-approval dossier guide).
-- For EVs, confirm charger/plug and standards expectations separately; do not assume China-spec hardware satisfies local requirements.
+## GCC/GSO التوحيد: البوابة بين التطهير والتسجيل
+- ومن المتوقع أن تستوفي المركبات ** معايير اللجنة الخاصة**؛ وتفهم أي هيئة الآن تصدر/تتوقع الشهادة ذات الصلة بعد إعادة تنظيم نظام الإدارة البيئية والاجتماعية المتكاملة.
+- وشهادة المطابقة المحلية الصينية ليست متاحة لسوق مجلس التعاون الخليجي** - تؤكد على وجه الدقة شهادة مجلس التعاون الخليجي/طريق الموافقة على النموذج قبل الشحن (انظر دليل الجرائد الخاص باتفاقية التعاون بين بلدان الجنوب/نوعية الموافقة).
+- وبالنسبة للمركبات الإلكترونية، فإن تأكيد الشحنات/الرقائق والتوقعات المتعلقة بالمعايير على حدة؛ ولا يفترض أن معدات الحواسيب الخاصة بالصين تفي بالمتطلبات المحلية.
 
-## Duty and VAT: Reported Figures, Not Fixed Numbers
-- Forwarder guides commonly cite **about 5% customs duty on CIF value (GCC common external tariff context) and about 5% VAT**.
-- Treat both as **reported, time-sensitive values**: the applicable rate can depend on vehicle type, HS classification, free-zone vs mainland handling and current federal rules. **Classify the exact HS code → obtain the current customs tariff line → confirm VAT treatment on the applicable customs basis.** Do not bake 5%/5% into a customer quote as guaranteed.
-- The UAE has signalled a **national EV policy** with directional incentives (e.g., registration/parking and charging/toll measures); these are policy-direction and time-sensitive — confirm current availability and eligibility officially.
+## الواجب وضد القيمة المضافة: الأرقام المبلَّغ عنها، لا الأرقام الثابتة
+- وتشير الأدلة المقدمة عموما إلى ما يقارب 5% من الرسوم الجمركية على قيمة الإطار التعريفي الموحد (سياق التعريفات الخارجية المشترك بين لجنة التنسيق بين الحكومات) ونحو 5% من ضريبة القيمة المضافة**.
+- معالجة القيم المبلغ عنها والمراعية للوقت**: يمكن أن يعتمد المعدل الواجب التطبيق على نوع المركبات، وتصنيف الخدمة الميدانية، والزون الحر ضد المناولة القارية، والقواعد الاتحادية الحالية. ** يرجى توضيح الرمز HS بالضبط، والحصول على خط التعريفات الجمركية الحالي، وتؤكد المعاملة التي تُعامل على أساس الجمارك المنطبقة على ضريبة القيمة المضافة**. لا تخبز 5%/ 5% إلى زبون على النحو المكفول.
+- وقد أشارت الإمارات العربية المتحدة إلى سياسة عامة وطنية بشأن العنف الجنسي**، مع حوافز توجيهية (مثل تدابير التسجيل/الإعداد والشحن/الرسوم)؛ وهذه سياسات تراعي الاعتبارات المتعلقة بالوقت - تؤكد توافرها حالياً وأهلية الحصول عليها رسمياً.
 
 ## The RTA Registration Step (Mulkiya)
-After customs release, the buyer applies to the RTA with (reported): valid **insurance**, a **vehicle inspection**, and **identity/trade-licence documents**, then receives the Mulkiya. Fleet/company registrations differ from individual registrations; confirm whether a mainland or free-zone entity changes the paperwork.
+وبعد الإفراج عن الجمارك، ينطبق المشتري على اتفاق التجارة الإقليمية (المبلغ عنه): التأمين الصحيح**، التفتيش المرفوع**، ** وثائق الهوية/التراخيص**، ثم يتلقى المُلكية. وتختلف تسجيلات الأسطول/الشركات عن التسجيلات الفردية؛ وتأكيد ما إذا كان كيان البر الرئيسي أو القطاع الحر يغير الأعمال الورقية.
 
-## What This Guide Recommends You Confirm Before Payment
-1. **Emirate of entry** and that emirate's current customs document/fee schedule.
-2. **Exact HS code** and the **current duty/VAT line** from UAE federal customs — replace the reported 5%/5% with verified figures.
-3. **GCC/GSO conformity route and certificate** for the specific model (and MoIAT's current role).
-4. **Invoice/B/L/CO consistency** (VIN, value, parties, origin).
-5. **Insurance + inspection + identity** readiness for the RTA Mulkiya step; EV incentive eligibility if relevant.
+## ما يوصي به هذا الدليل لك قبل الدفع
+1. ** يُذكر الدخول** ووثيقة (هارات) الجمركية الحالية والجدول الزمني للمرافقة.
+2. ** رمز HS بالضبط**  and  * يُستعاض عن خط العمل/الرسوم الجمركية المؤقتة* الجاري حالياً من الجمارك الاتحادية في اتحاد أوروبا الشرقية - بأرقام متحقق منها بلغ عددها 5% / 5%.
+3. ** خط سير وشهادة تطابق بين مقياس و ميغاواط للنموذج المحدد (ودور (موليت) الحالي
+4. ** فواتير/B/L/CO الاتساق** (VIN, value, parties, origin).
+5. ** التأمين + التفتيش + الهوية** استعداد لخطوة منطقة التجارة الحرة الإقليمية؛ أهلية الحوافز للحوافز على أساس نوع الجنس إذا كان ذلك مناسبا.
 
-## Frequently Asked Questions
-**Do I register with RTA before or after customs?** After — clear customs and satisfy conformity first, then apply to the RTA for the Mulkiya.
-**Is UAE customs duty exactly 5%?** About 5% on CIF is widely reported, but it is time- and classification-sensitive; confirm the current federal tariff line for your exact HS code before quoting.
-**Does a Chinese CoC work in the UAE?** No — a Chinese domestic certificate is not GCC/GSO market access; arrange the correct GCC conformity route.
-**What happened to ESMA?** Its relevant functions were folded into MoIAT; confirm the current certificate-issuing route.
-**Does this guide apply to Saudi/Qatar too?** The sequence transfers conceptually, but forms, fees and authorities differ by GCC state — verify each country separately.
+## الأسئلة المتكررة
+** هل أسجل لدى شركة ريا تا قبل الجمارك أو بعدها**؟ وبعد - الجمارك الواضحة والتطابق أولا، ثم تنطبق على اتفاق التجارة الإقليمية في المولكية.
+** هل واجب الجمارك في جامعة يو إي بالضبط 5%؟** وقد أبلغ عن حوالي 5% على نموذج التصنيف المركزي الموحد على نطاق واسع، ولكنه مرن للوقت والتصنيف؛ ويؤكد خط التعريفات الاتحادية الحالي لرمز تحديد الدخل قبل اقتباسه.
+** هل يعمل مجلس تنسيق الصين في جامعة الدول العربية**؟ لا - لا توجد شهادة محلية صينية ليست منفذة إلى السوق لدى مجلس التعاون الخليجي/منظمة المجتمع المدني؛ وترتيب الطريق الصحيح للامتثال لدى المجلس.
+** ماذا حدث لـ "إسما"؟ وقد طُوِّرت وظائفها ذات الصلة إلى وزارة الشؤون الإدارية؛ وأكدت الطريق الحالي لإصدار الشهادات.
+** هل ينطبق هذا الدليل على السعودية/قطر أيضاً**؟ وتنتقل هذه التسلسلات من الناحية المفاهيمية، ولكن الأشكال والرسوم والسلطات تختلف باختلاف ولاية مجلس التعاون الخليجي - التحقق من كل بلد على حدة.
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
+## سجل الصور
+- لم يُؤمن أي منها في مستودع
 - ORIGINAL: IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
+- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
+- الحقوق - حقوق غير مؤكدة
+- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
+- CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
+- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات ويكيميو/فلكر غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات المسبقة/الرخصة، وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
 - ALT by language:
   - **EN**: AutoBridge export-buyer reference — UAE vehicle clearance and registration, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — UAE vehicle clearance and registration, guide d’achat à l’export automobile
@@ -76,25 +79,25 @@ After customs release, the buyer applies to the RTA with (reported): valid **ins
   - **AR**: مرجع AutoBridge لمشتري التصدير — UAE vehicle clearance and registration, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜UAE vehicle clearance and registration, 汽车出口采购指南
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## المصدر: التحقق
+| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
-| Middle East (Saudi/Dubai) clearance & taxes guide | 11467 freight-forwarder material | UAE | https://m.11467.com/product/d43094475.htm | 2026-09-03 | CROSS_CHECKED | Clearance documents; invoice/B/L/CO consistency; RTA/Mulkiya sequence |
-| NEV export-to-Dubai document list | 11467 freight-forwarder material | UAE | https://m.11467.com/product/d31835834.htm | 2026-09-03 | TIME_SENSITIVE | Reported ~5% duty/~5% VAT; GCC/GSO + ESMA/MoIAT note |
-| Chinese EVs welcomed in the Middle East (UAE national EV policy) | Haiwainet / Toutiao | UAE | http://m.toutiao.com/group/7392857722481410569/ | 2026-09-03 | TIME_SENSITIVE | Directional national EV-policy incentives |
-*Evidence ceiling: sources are forwarder guides (T3) and Chinese media — no UAE federal-customs/RTA primary page was captured. Duty/VAT/fees and EV incentives are therefore presented as reported and time-sensitive, to be confirmed with UAE federal customs and the entry emirate's RTA. No fixed rate is asserted.*
+| دليل ضرائب التخليص في الشرق الأوسط (سانتي/دبي) | 11467 من المواد المتعلقة بالشحن | UAE | https://m.11467.com/product/d43094475.htm | 2026-09-03 | صرخات | وثائق التطهير؛ الفواتير/الاتساق/النظام باء/ل/المكتب؛ تسلسل ريتا/مولكيا |
+| قائمة وثائق تصدير إلى دبي | 11467 من المواد المتعلقة بالشحن | UAE | https://m.11467.com/product/d31835834.htm | 2026-09-03 | الوقت - | Reported ~ 5% duty/~ 5% VAT; GCC/GSO + ESMA/MoIAT note |
+| الصين، ورحّبت بالآلاف في الشرق الأوسط (سياسة عامة وطنية بشأن العنف الجنسي) | Haiwainet / Toutiao | UAE | http://m.toutiao.com/group/7392857722481410569/ | 2026-09-03 | الوقت - | الحوافز الوطنية المباشرة على سياسات العنف القائم على نوع الجنس |
+* سقف الأدلة: المصادر هي أدلة أسلم (T3)  and  وسائط الإعلام الصينية - لم يتم إلقاء القبض على أي من الأعراف الاتحادية في اتحادات الولايات المتحدة/الصفحة الأولى من " RTA ". لذا تقدم رسوم/رسوم/رسومات/إف وحوافز للرسوم على الأشعة السينية كما هو مُبلّغ عنه وحساس للوقت، لتتأكد من الجمارك الاتحادية في جامعة يو أي إي إي إيه ووكالة إيميلي للشحنات المُعادية ولا يوجد أي معدل ثابت مؤكد. ♪
 
-| Clearance of Personal Effects (import of new/used vehicles; required documents; 5% customs duty on assessed va | Dubai Customs (Government of Dubai) | DUBAI | https://www.dubaicustoms.gov.ae/en/eServices/ServicesForIndividuals/Pages/ClearanceOfPersonalEffects.aspx | 2026-09-04 | VERIFIED | 5% duty on customs-assessed value; original invoice / packing list / bill of lading / passport or Emirates ID copy; inspection & valuation |
-| Mechanism for determining the value of passengers' cargo (depreciation by years) PDF | Dubai Customs | DUBAI | https://www.dubaicustoms.gov.ae/en/PoliciesAndNotices/Policies/mechanismfordeterminingthevalueofpassengerscargotr.pdf | 2026-09-04 | VERIFIED | used vehicles valued by year-based depreciation schedule before duty |
-| E-Commerce VAT Guide (VATGEC1) §3.5.1 — import VAT 5% on customs value incl. freight, insurance, customs fees, | UAE Federal Tax Authority (FTA) | UAE | https://tax.gov.ae/ | 2026-09-04 | VERIFIED | import VAT 5%; VAT base = customs value (CIF) + duty |
-| Registering vehicles (customs certificate or transfer/export/possession certificate; Emirates ID; passport/res | UAE Federal Government Portal (u.ae) | UAE | https://u.ae/en/information-and-services/transportation/driving-and-licensing/registering-vehicles | 2026-09-04 | VERIFIED | registration document set; customs certificate is the bridge from clearance to registration |
-| Issue UAE Certificates of Conformity for products subject to technical regulations (ECAS; successor to ESMA) | Ministry of Industry and Advanced Technology (Mo | UAE | https://www.moiat.gov.ae/en/services/issue-conformity-certificates-for-regulated-products | 2026-09-04 | VERIFIED | MoIAT issues UAE CoC for regulated products incl. vehicles/parts; absorbed ESMA |
-| List of GSO Technical Regulations for Motor Vehicles (MY2027-D3), incl. UAE Euro- 6b | GCC Standardization Organization (GSO) | GCC | https://www.gso.org.sa/ | 2026-09-04 | SINGLE OURCE | UAE new-type Euro-6b from 2026-01-01; all imports from 2027-07-01 |
+| إزالة الآثار الشخصية (واردة المركبات الجديدة/المستخدمة؛ الوثائق المطلوبة؛ 5% من الرسوم الجمركية على المزهرة المقسَّرة | دبي جمارك (حكومة دبي) | DUBAI | https://www.dubaicustoms.gov.ae/en/eServices/ServicesForIndividuals/Pages/ClearanceOfPersonalEffects.aspx | 2026-09-04 | مفقود | 5% واجب على القيمة المقومة بالجمارك؛ وقائمة الفواتير الأصلية/التعبئة/ سند الشحن/جواز السفر أو نسخة من بطاقة الهوية في الإمارات؛ والتفتيش والتقييم |
+| آلية لتحديد قيمة شحنات الركاب (الاستهلاك حسب السنوات) | دبي جمارك | DUBAI | https://www.dubaicustoms.gov.ae/en/PoliciesAndNotices/Policies/mechanismfordeterminingthevalueofpassengerscargotr.pdf | 2026-09-04 | مفقود | المركبات المستعملة التي تقدر بالجدول الزمني للنقصان على أساس سنوي قبل العمل |
+| دليل التجارة الإلكترونية (VATGEC1) §3.5.1 - استيراد ضريبة القيمة المضافة 5% على القيمة الجمركية. الشحن والتأمين والرسوم الجمركية | UAE Federal Tax Authority (FTA) | UAE | https://tax.gov.ae/ | 2026-09-04 | مفقود | الواردات من ضريبة القيمة المضافة 5%؛ قاعدة ضريبة القيمة المضافة = القيمة الجمركية (الصندوق الاستئماني المشترك) + الرسوم الجمركية |
+| المركبات المسجلة (شهادة الجمارك أو شهادة النقل/التصدير/الحيازة؛ بطاقة هوية الإمارات؛ جواز السفر/الإعادة | ميناء الحكومة الاتحادية (ش) | UAE | https://u.ae/en/information-and-services/transportation/driving-and-licensing/registering-vehicles | 2026-09-04 | مفقود | مجموعة وثائق التسجيل؛ شهادة الجمارك هي الجسر من مرحلة التصاريح إلى مرحلة التسجيل |
+| شهادة مطابقة المنتجات الخاضعة للوائح التقنية (اللجنة الاقتصادية لأفريقيا؛ خلف الهيئة الفرعية للمشورة العلمية والتكنولوجية) | Ministry of Industry and Advanced Technology (Mo | UAE | https://www.moiat.gov.ae/en/services/issue-conformity-certificates-for-regulated-products | 2026-09-04 | مفقود | MoIAT issues UAE CoC for regulated products incl. مركبات/قطع؛ مستوعبة |
+| List of GSO Technical Regulations for Motor Vehicles (MY2027-D3), incl. الجدول الزمني لليورو - 6b | منظمة توحيد المعايير التابعة لمجلس التعاون الخليجي | GCC | https://www.gso.org.sa/ | 2026-09-04 | SINGLE OURCE | من طراز UAE New-,6b from 2026-01-01; all imports from 2027-07-01 |
 
-## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market / scope**: UAE worked example (method transferable to GCC; country specifics not generalised)
-- **Verification method**: Forwarder-source synthesis with explicit evidence ceiling; reported fees flagged for official confirmation per PRIMARY_SOURCE_SCOPE rule
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+## استعراض التحرير
+- ** مستعرض/مراجع**: [فريق تحرير تصدير أوتو بريدج] (/مؤلف/) - طريقة لكل [سياستنا الانتخابية] (/سياسة التحرير/)
+- ** لم يُستعرض بعد**: 2026-09-05
+- ** سوق الإحالة/الحجم**: عملت جامعة الدول العربية على سبيل المثال (قابلة للتحويل إلى مجلس التعاون الخليجي؛ لم تُعمم التفاصيل القطرية)
+- ** طريقة الفرز**: توليف الموارد الأمامية مع حد أقصى واضح للأدلة؛ والرسوم المبلغ عنها التي تم تحديدها رسمياً لكل تقدير من موارد فترة السنتين. القاعدة
+- ** المعيار الإفريقي**: باحثة ومحررة من المصادر المذكورة أعلاه (بحوث مكتبية؛ ولا يُدَّعى عن أي قيادة مباشرة أو تمزق أو استيراد). وتظهر الثقة في المصدر في الصف الواحد؛ وأي نقطة لا يمكننا تأكيدها بشكل مستقل تعرض كبند تحقق بدلا من التأكيد على أنها حقيقة.
 #AutoBridge #UAEImport #VehicleRegistration #CustomsClearance #ExportProcurement

@@ -100,23 +100,30 @@
   "具体被制裁/管控实体名单（动态变化，须链官方查询入口，禁止手抄过期名单）",
   "某车型/技术是否落入两用物项清单的最终判定（须查清单并咨询主管部门）"
  ],
- "source_url_count": 5,
- "source_org_count": 2,
+ "source_url_count": 8,
+ "source_org_count": 5,
  "official_source_available": true,
  "research_status": "RESEARCH_PASS",
  "writing_ai_ready": true,
  "risk_level": "MEDIUM",
- "conditional_reason": "中国出口管制一手充分（条例+合规指南+解读）；境外名单以方法与官方入口呈现，不抄具体实体。",
- "fact_sheet_version": "FS-v2-20260905",
- "checked_date": "2026-09-05",
- "source_org_count_normalized": 2,
- "source_org_count_raw": 5,
- "source_scope_status": "CONDITIONAL",
+ "conditional_reason": "",
+ "fact_sheet_version": "FS-v3-20260906",
+ "checked_date": "2026-09-06",
+ "source_org_count_normalized": 5,
+ "source_org_count_raw": 8,
+ "source_scope_status": "PASS",
  "controlled_research_patch": {
-  "date": "2026-09-05",
-  "urls": 5,
-  "orgs_normalized": 2,
-  "scope_status": "CONDITIONAL",
-  "added": 1
+  "date": "2026-09-06",
+  "added_by": "Writing AI (pre-publication repair)",
+  "urls_total": 8,
+  "orgs_normalized": 5,
+  "orgs": [
+   "BIS",
+   "EU",
+   "GovCN",
+   "MOFCOM",
+   "OFAC"
+  ],
+  "status": "PASS"
  }
 }

@@ -19,12 +19,12 @@ Los compradores extranjeros de vehículos chinos en primera instancia se han con
 
 Dos documentos oficiales chinos definen la columna vertebral de calificación (ambas fuentes principales del gobierno):
 
-- Per the **five-ministry notice on further regulating the export order of automobiles and motorcycles** (MOFCOM et al.), a manufacturer declaring vehicles for export must be listed in the **MIIT "Vehicle Manufacturers and Products Announcement" (车辆生产企业及产品公告)** and hold valid **CCC compulsory certification**.
+- Per the ** Five-ministry notice on further regulating the export order of cars and motocicletas** (MOFCOM et al.), a manufacturer declaring vehicles for export must be listed in the **MIIT "Vehicle Manufacturers and Products Announcement" (车辆生产企业及产品公告)** and hold valid **CCC compulsory certification**.
 - Per **MOFCOM et al. 2024 Anuncio No. 6 ** sobre empresas exportadoras de automóviles usados, un exportador de automóviles usados debe ser una persona jurídica independiente registrada internamente que reúna condiciones establecidas (los fabricantes deben estar en el anuncio MIIT; los comerciantes deben cumplir los criterios publicados).
 
 Implicación para los compradores: pregunte *que* entidad jurídica es el exportador de registros y confirme que se encuentra en la lista de clasificación de exportación-interanual de ** publicada por MOFCOM** (la lista se actualiza dinámicamente — utilice la versión actual del año; esta guía no enumera los nombres de las empresas). Una empresa que no puede colocarse en esa cadena es una señal de parada.
 
-## Layer 1 — Verificar la Licencia de Negocios
+## Capa 1 — Verificar la Licencia de Negocios
 
 Utilice el sistema nacional de información de crédito empresarial de China ** (gsxt.gov.cn)** para comprobar, contra el código de crédito social unificado del proveedor:
 
@@ -61,7 +61,7 @@ Uno de los indicadores más claros del fraude es un nombre de cuenta **payee que
 - Preferir los instrumentos de pago que coincidan con el riesgo (véase la guía T/T vs L/C); evitar el pago completo a una entidad no verificada.
 
 ## What AutoBridge Adds Beyond a Business-License Captura de Pantalla
-Un escáner de licencia demuestra que existe una empresa, no que puede exportar * su vehículo*. This guide recommends checking the counterparty against the **current-year MOFCOM qualified list** (2026 application under 商办贸函〔2025〕408号; Licencia de pasajeros de vehículos puros de 2026-01-01 en el anuncio conjunto No. 54), reconstruye la cadena ** de autorización de marca a la OEM**, y ejecuta un **contrato/invocación / nombre de cuenta bancaria** antes del depósito — los tres cheques que distinguen a un exportador autorizado de una cáscara de comercio.
+Un escáner de licencia demuestra que existe una empresa, no que puede exportar * su vehículo*. Esta guía recomienda comprobar la contraparte contra la lista calificada de MOFCOM de **ayer-year MOFCOM** (2026 application under 商办贸函  economías 2025 Ø 408 号; Licencia de pasajeros de vehículos puros de 2026-01-01 bajo el anuncio conjunto No. 54), reconstruye la cadena ** de autorización de marca al OEM**, y ejecuta un **contrato/invocación/nombre de cuenta bancaria** antes del depósito — los tres cheques que distinguen a un exportador autorizado de un shell comercial.
 ## Un secuencial práctico de ocho pasos
 
 1. Tire el registro de licencia de negocios de gsxt independientemente.
@@ -87,17 +87,20 @@ Un escáner de licencia demuestra que existe una empresa, no que puede exportar 
 **¿Cómo comprobé la licencia de una empresa china?** Consulta independiente gsxt.gov.cn utilizando el Código de Crédito Social Unificado; verifica el nombre, alcance, derecho de repudio y cualquier registro de anomalía.
 **¿Un certificado de CCC prueba derechos de exportación?** No. CCC es certificación de productos; la calificación de exportación también descansa en el anuncio MIIT y la lista de clasificación de exportación MOFCOM actual.
 **La cuenta beneficiaria es un nombre de empresa diferente — ¿es normal?** Es una de las señales de riesgo más claras; parar y reverificar antes de pagar.
-**¿Qué prueba que un proveedor exporta realmente?** Recientemente (conocido 3-month) declaraciones de exportación más una auditoría en vivo de línea, stock, QC y muelle de carga, verificada cruzadamente contra reclamaciones.
+**¿Qué prueba que un proveedor exporta realmente?** Recientemente (Entendido 3-month) declaraciones de exportación más una auditoría en vivo de línea, stock, QC y muelle de carga, verificada cruzada contra reclamaciones.
 
 ## Grabación de imagen
 - IMAGE_ASSET_PATH: ninguno asegurado en repositorio
 - ORIGINAL_IMAGE_URL: no capturado
 - SOURCE_PAGE: no capturado
+- SOURCE_FILE_PAGE: no aplicable — ningún archivo de medios de comunicación candidato identificado (sin licencia para afirmar)
 - RIGHTS_HOLDER: unconfirmed
 - LICENSE_OR_USAGE_BASIS: ninguna garantizada, ninguna imagen de terceros puede ser publicada hasta que se despejen los derechos
-- CHECKED_DATE: 2026-09-05
+- CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: debe coincidir con el modelo/versión exacto (o el tema guía) y el mercado de referencia por encima
+- IMAGE_SCOPE_NOTE: se corresponde con el modelo exacto familia/topic solamente; no debe implicar un trím o modelo específico, VIN real, inspección en persona o transacción real
 - IMAGE_RIGHTS_STATUS: FAIL (no se acepta ningún activo con licencia; no se acepta un titular de posición o “retiene la imagen antigua”)
+- BLOCK_REASON: No se puede asegurar una imagen reutilizable: Wikimedia Commons/Flickr no son accesibles desde el entorno de investigación, las bibliotecas de stock requieren acceso a API/licencia autenticada, y una imagen de página web OEM NO es una subvención comercial de reutilización; no existe foto de propiedad de AutoBridge. Se quedó con la FAIL en lugar de afirmarse.
 - ALT por idioma:
   - **EN**: AutoBridge export-buyer reference — Chinese export supplier vetting, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Chinese export supplier vetting, guide d’achat à l’export automobile
@@ -117,14 +120,14 @@ Un escáner de licencia demuestra que existe una empresa, no que puede exportar 
 | Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |
 |---|---|---|---|---|---|---|
 | Aviso sobre la regulación de la orden de exportación de automóviles/motores | MOFCOM et al. (cinco ministerios, oficial T1) | CN | https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2012/art_bc15755f9b1642b99eac7cc212cce54b.html | 2026-09-02 | VERIFIED | MIIT anuncio + CCC base de clasificación de exportaciones |
-| 2024 Anuncio No. 6 (condiciones de empresas exportadoras de automóviles usados) | MOFCOM (oficial T1) | CN | https://dcj.mofcom.gov.cn/article/zcfb/zcwg/202405/20240503510039.shtml | 2026-09-02 | VERIFIED | Condiciones de calidad/entidad jurídica de exportador de automóviles usados |
+| 2024 Anuncio No 6 (condiciones de empresas exportadoras de automóviles usados) | MOFCOM (oficial T1) | CN | https://dcj.mofcom.gov.cn/article/zcfb/zcwg/202405/20240503510039.shtml | 2026-09-02 | VERIFIED | Condiciones de calidad/entidad jurídica de exportador de automóviles usados |
 | Cómo comprobar la autenticidad del proveedor de China | Goodcan Trading (industria, apunta a gsxt.gov.cn) | CN | https://goodcantrading.com/how-to-check-china-supplier-business-license-authenticity/ | 2026-09-02 | CROSS_CHECKED | gsxt campos de verificación |
 | Cómo verificar una fábrica china es legítima | Plutonia Global Logistics | CN/Global | https://www.plutoniaglobal.com/guides/verify-chinese-factory-legitimate | 2026-09-02 | CROSS_CHECKED | Congruencia con el nombre de cuenta, auditoría de fábrica |
-| Guía 8-step para verificar proveedores de exportación de automóviles de China | huajiame (industria) | CN | https://www.huajiame.com/en-US/knowledge/how-verify-china-auto-export-supplier | 2026-09-02 | CROSS_CHECKED | Marco de auditoría de la capa de capa, AEO |
-| Notas sobre adquisiciones de vehículos | 11467 (顺企网, industry) | CN | https://m.11467.com/blog/d18906274.htm | 2026-09-02 | CROSS_CHECKED | mínimo de video-audita en vivo, declaración de comprobación cruzada |
+| 8-step guía para verificar proveedores de exportación de automóviles de China | huajiame (industria) | CN | https://www.huajiame.com/en-US/knowledge/how-verify-china-auto-export-supplier | 2026-09-02 | CROSS_CHECKED | Marco de auditoría de la capa de capa, AEO |
+| Notas sobre adquisiciones de vehículos | 11467 (顺企网, industria) | CN | https://m.11467.com/blog/d18906274.htm | 2026-09-02 | CROSS_CHECKED | mínimo de video-audita en vivo, declaración de comprobación cruzada |
 | Procedimientos de exportación de camiones nacionales | Guangzhou Pujiang Trade (11467) | CN | https://guangzhou053049.11467.com/m/news/15260806.asp | 2026-09-02 | CROSS_CHECKED | Exportar por entidad calificada, cadena de autorización |
 
-* Nota de confianza (estándar AutoBridge): qualification rules rest on primary MOFCOM/MIIT sources (VERIFIED), now including the 2026 application notice (商办贸函〔2025〕408号) and joint Announcement No. 54 sobre licencias de exportación de pasajeros de vehículos puros. La lista de los años actuales y las consultas AEO son dinámicas y deben ser revisadas en directo; Los artículos de la lista de verificación operacional son de la industria y se remiten a los sistemas oficiales. *
+* Nota de confianza (Estado AutoBridge): las reglas de calificación descansan en las fuentes primarias MOFCOM/MIIT (VERIFIED), ahora incluyendo el aviso de aplicación 2026 (商办贸函 ÷ 2025 Ø 408 号) y el anuncio conjunto No 54 sobre licencias de exportación de pasajeros de vehículos puros. La lista de expertos y la consulta AEO son dinámicas y deben ser verificadas en directo; los artículos de la lista de verificación operacional son financiados por la industria y se remiten a los sistemas oficiales. *
 
 ## Revisión editorial
 - **Autor/examen**: [Equipo Editorial Exportador AutoBridge](/autores/) · método por nuestro [Política editorial](/editorial-policía/)

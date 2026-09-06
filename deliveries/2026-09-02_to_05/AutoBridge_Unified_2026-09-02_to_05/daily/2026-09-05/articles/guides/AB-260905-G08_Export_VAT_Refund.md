@@ -20,6 +20,9 @@ The period refund/credit is computed from export sales, creditable input tax and
 ## The refund rate is per HS code — and is not guessed
 The export VAT refund rate is set by **HS code/product** and changes over time. This guide deliberately states **no numeric rate**: look up the current rate for the exact 10-digit HS code on the day, because quoting a stale rate distorts the landed-cost model. Time-sensitive filing deadlines likewise come from the current STA notice.
 
+## Why refund claims stall: the consistency traps
+Refund delays in vehicle export are rarely about the rate; they are about three records telling different stories. First, the **name, quantity and HS code on the VAT special invoice must match the customs declaration and the bill of lading** — a truck described on the invoice by a trade nickname but declared under a different commodity code breaks the comparison tax authorities run against customs data. Second, **funds flow must correspond to goods flow**: the export FX receipt should reconcile with the declared value and the counterparty, which is why payment terms and the FX-settlement record cannot be treated as unrelated paperwork. Third, **timing must be internally consistent** — invoice issue, declaration, departure and receipt should form a plausible sequence; out-of-order dates trigger manual review even when every paper exists. For an overseas buyer these matter because a Chinese exporter whose refund is blocked on consistency grounds may slow the order or re-open pricing to recover tied-up input tax. Confirming entity type, exact HS classification and that invoice–customs–FX records reconcile is therefore a legitimate pre-payment diligence question.
+
 ## Operating checklist
 1. Identify entity type and the correct method (免抵退 vs 免退).
 2. Classify the exact HS code and look up the **current** refund rate.
@@ -46,6 +49,8 @@ No rates, deadlines-as-fixed-numbers or case-specific amounts are provided here;
 | 出口货物劳务免抵退税和免退税如何计算 | 国家税务总局 | CN | T1 | VERIFIED | https://www.chinatax.gov.cn/chinatax/c102449/c5237525/content.html | 当期应退/免抵税额计算 |
 | 进出口税收热点问题（2026年7月） | 国家税务总局北京市税务局 | CN | T1 | VERIFIED | http://beijing.chinatax.gov.cn/bjswj/c105390/202608/ec1a021ae3af4c368e72684ca1bbe4df.shtml | 报关后申报与核销 |
 | State Taxation Administration (STA) | STA 国家税务总局 | CN | T1 | VERIFIED | https://www.chinatax.gov.cn/ | export VAT refund/exemption authority |
+| GACC — export declaration as VAT-refund verification basis | General Administration of Customs of China (海关总署 GACC) | CN | T1/T2 | VERIFIED | http://www.customs.gov.cn/ | Customs export declaration data is matched by tax authorities to verify export VAT refund/refund-exemption eligibility |
+| STA — export VAT refund policy index (deep page) | State Taxation Administration (国家税务总局 STA) | CN | T1/T2 | VERIFIED | https://www.chinatax.gov.cn/chinatax/n810341/n810755/ | Tax-authority policy column carrying current export VAT refund/exemption announcements (no rebate rate asserted here) |
 ## Editorial Review
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
 - **Last reviewed**: 2026-09-05
@@ -57,11 +62,14 @@ No rates, deadlines-as-fixed-numbers or case-specific amounts are provided here;
 - **IMAGE_ASSET_PATH**: none secured in repository
 - **ORIGINAL_IMAGE_URL**: not captured
 - **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
 - **RIGHTS_HOLDER**: unconfirmed
 - **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
-- **CHECKED_DATE**: 2026-09-05
+- **CHECKED_DATE**: 2026-09-06
 - **MODEL_TOPIC_MATCH**: exact China Export VAT Refund
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
 - **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
 - **ALT (12 languages)**:
   - **EN**: export VAT refund, Chinese-market procurement guide export buyer reference
   - **FR**: export VAT refund, procurement guide du marché chinois, référence acheteur export

@@ -1,67 +1,72 @@
-# CKD/SKD Knockdown Export and Overseas Assembly — Model, Classification and Compliance
+# CKD/SKD جمعية التصدير والخارج - النموذج والتصنيف والامتثال
 
 ## SEO Metadata
-- **SEO Title**: CKD/SKD Knockdown Kit Export and Overseas Assembly: Classification and Compliance
-- **Meta Description**: How CKD/SKD vehicle kit export works: classification built on the Harmonized System, why destination tariff/local-assembly treatment is country-specific, and what a Chinese exporter must verify before shipping kits.
-- ** H1 **: CKD/SKD Accessdown Export and Overseas Assembly - Model, Classification and Compliance
-- **Primary Keyword**: ckd skd knockdown kit export assembly
-- **Secondary Search Terms**: CKD SKD export; knockdown kit; overseas assembly; GRI 2 (a) unassembled; local assembly tariff
-- **Suggested URL**: /guides/ckd-skd-knockdown-kit-export-assembly/
-- **Search Intent**: 区分CBU/CKD/SKD模式，理解散件出口归类、原产地与目的国组装的关键合规问题
+- ** عنوان الحلقة**: CKD/SKD جمعية تصدير المواد وما وراء البحار: التصنيف والامتثال
+- ** وصف البيانات**::: كيفية عمل مجموعة أدوات تصدير مركبات CKD/SKD: تصنيف مبني على النظام المنسق، ولماذا تكون تعريفات الوجهة/المعاملة المحلية محددة قطريا، وما يجب على المصدر الصيني أن يتحقق منه قبل مجموعات الشحن.
+- ** H1 **: جمعية تصدير السلع الأساسية/الصادرات والطرقات الخارجية - نموذج تصنيفها والامتثال لها
+- ** كلمة رئيسية**: مجموعة مواد التصدير
+- ** شروط البحث الثانية**: تصدير أسلحة الدمار الشامل؛ مجموعة مواد الإغراق؛ التجمع في الخارج؛ 2 (أ) غير مجمعة؛ تعريفة التجمع المحلي
+- ** URL المقترض**: /guides/ckd-knockdown-kit-export-assembly/
+- ** الحلقة الدراسية**: 区分 وحدة من وحدات التراكم والاختراق/التجمعات الكرواتية/الحزب الديمقراطي الكردي 模式، 理解散件出口归类 بيزو 原产地与目的国组装的关键合规问题
 - ** Internal Link Suggestions**: /guides/vehicle-export-hs-code-history/, /guides/certificate-of-origin-history/, /guides/export-document-package-history/
-- **Schema Scope**: Article (no Product/Offer/Review)
+- ** نطاق الشيمة**: المادة (لا منتج/منتج/مراجعة)
 
-## What CKD and SKD mean in a sourcing decision
-A **SKD (semi-knocked-down)** a **CKD (completely-knocked-down)** kit ships a fuller set of components for local assembly. Both replace a finished-vehicle export with a parts-and-assembly model, usually to meet destination local-assembly policy. The commercial appeal is real, but the legal/tariff outcome is decided by the **destination customs authority**, not by the Chinese exporter labelling a consignment "CKD".
+## ما تعنيه شرطة (كي دي) و(سكا دي) في قرار مصادر
+A **SKD (semi-knocked-down)** (أ) ** CKD (إغلاق كامل)** سفن مجموعة مواد مكتملة من المكونات للتجمع المحلي. ويحل كلاهما محل تصدير من المركبات المنتهية بنموذج قطع الغيار والأجزاء، عادة ما يلبي سياسة المقصد المحلية. النداء التجاري حقيقي، لكن النتيجة القانونية/التعريفية تقررها هيئة الجمارك**، وليس من قبل المصدر الصيني الذي يسمي شحنة "CKD".
 
-## The classification basis the exporter can control
-On the China export side, classification is built on the **Harmonized System / import-export tariff** and the customs classification-decision mechanism (WCO maintains the HS, linked below). Whether an unassembled/disassembled set is classified as the article it will become turns on the general rules of interpretation and the specific tariff lines and rulings — **this guide does not state GRI 2(a) as a settled legal conclusion for kits because a primary WCO/customs ruling for the exact kit is not captured here**. Classify each kit line by line and, where material, seek a binding classification ruling.
+## أساس التصنيف الذي يمكن للمصدر أن يتحكم فيه
+وعلى الجانب التصديري الصيني، يستند التصنيف إلى تعريفة النظام المنسق/الواردات**، وآلية تقرير التصنيف الجمركي (تحتفظ المنظمة بقائمة التصنيفات، والمتصلة أدناه). ما إذا كانت مجموعة غير مجمعة/مفككة تصنف على أنها مادة ستتحول إلى قواعد تفسير عامة  and  الخطوط التعريفية المحددة  and  rulings — **this guide does not state GRI 2(a) as a settled legal conclusion for kits because a primary WCO/customs ruling for the exact kit is not captured here**. صف كل خط من مجموعات المواد حسب الخط، وحيثما كان ذلك خامسا، التماسا لقرار تصنيف ملزم.
 
-## The destination side is the controlling, country-specific question
-Whether a kit qualifies for lower "local assembly" tariff treatment, a required local-content ratio, or an investment incentive is decided by the **destination country's customs, tax and investment authorities**. China export-side rules and commercial web pages cannot establish that outcome. A different destination can reach a different result for an identical kit, and treating unassembled parts as a whole vehicle for duty (or vice versa) must be evidenced by that country's authority.
+## الجانب المقصدي هو السؤال المتعلق بالتحكم، ومسألة البلد
+ما إذا كانت مجموعة الأدوات تُمهل لمعاملة تعريفية أقل "تجمع محلي" أو نسبة مطلوبة من المحتوى المحلي أو حافز استثماري تقرره سلطات الجمارك والضرائب والاستثمار في البلد المُقدّم** ولا يمكن أن تُحدِد تلك النتيجة قواعد جانب الصادرات في الصين وصفحة شبكية تجارية. الوجهة المختلفة يمكن أن تصل إلى نتيجة مختلفة لمجموعة متطابقة، ومعالجة الأجزاء غير المجمعة كعربة كاملة للواجب (أو العكس) يجب أن تثبتها سلطة ذلك البلد.
 
-## What to assemble before quoting a kit programme
-1. **Bill of materials by HS line** — list every module/component with its own HS code, origin and value.
-2. **Chinese export classification** — apply the HS/tariff and obtain a ruling where ambiguity is material.
-3. **Destination ruling** — obtain the destination customs/tax position on kit classification, duty, local-content and assembly conditions before committing investment.
-4. **Origin documentation** — determine whether the assembled vehicle qualifies for preferential origin (see the certificate-of-origin guide).
-5. **Contract split** — separate goods supply, assembly technology/tooling and after-sales so scope and payment are clear.
+## ما الذي سيجمع قبل اقتباس برنامج مجموعة
+1. ** قائمة بالمواد حسب خط HS** - قائمة بكل وحدة/مكونة من رموزها الخاصة بجهاز الأمن البشري والأصل والقيمة.
+2. ** تصنيف الصادرات الصينية** - تطبيق التعريفة الجمركية والتحكيم في الحالات التي يكون فيها الغموض ماديا.
+3. ** قرار السحب** - الحصول على مركز الجمارك/الضرائب في المقصد بشأن تصنيف المجموعات، والواجب، والمراقبة المحلية، وشروط التجمع قبل القيام بالاستثمار.
+4. ** وثائق مبدئية** - تحدد ما إذا كانت المركبات المجمعة مؤهلة للحصول على مصدر تفضيلي (انظر دليل شهادة المنشأ).
+5. ** انقسمت العقود** - إمداد سلع منفصلة، وتكنولوجيا التجمع/التجميع، وما بعد البيع، بحيث يكون نطاقها ودفعها واضحا.
 
-## Evidence ceiling (read before promising tariff savings)
-This page intentionally does **not** claim a universal CKD/SKD definition, a fixed duty advantage, or a local-content threshold. Those are blocked pending primary WCO/destination-authority evidence; without it, present them as items to confirm, not facts.
+## الحد الأقصى للأدلة (الخُط قبل تحقيق وفورات تعريفية واعدة)
+وتطالب هذه الصفحة عن قصد** بتعريف شامل للديون الكردستاني/الدينام النيجيري، أو ميزة ثابتة للعمل، أو عتبة للمحتوى المحلي. وتُحجب هذه الأدلة في انتظار أدلة الإثبات الأولية التي قدمتها المنظمة العالمية للجمارك/الموجهة إلى السلطة؛ وبدونها، تعرضها كبنود تؤكدها، وليس حقائق.
 
 ## FAQ
-**Does labelling a shipment "CKD" lower duty automatically?** No — destination customs decides classification and treatment.
-**Is GRI 2(a) a guaranteed basis for kit classification?** It must be assessed against the exact goods with a primary ruling; it is not asserted as settled here.
-**Who sets local-content rules?** The destination country's authorities; they vary by market.
-**Can one kit design work in every market?** No — classification and assembly conditions are country-specific.
-**What should the BOM do?** Assign an HS line, origin and value to every component before classification.
+هل تصنف شحنة "CKD" في الخدمة السفلية تلقائياً؟ لا - تقرر الجمارك في المقصد التصنيف والعلاج.
+** هل هو مبلغ 2 (أ) أساس مضمون لتصنيف مجموعات المواد؟** ويجب تقييمه على البضائع التي لها حكم أولي؛ ولا يُزعم أنه مستوطن هنا.
+** من يضع قواعد محلية؟** سلطات بلد المقصد، تتفاوت حسب السوق.
+** هل يمكن لتصميم مجموعة واحدة أن يعمل في كل سوق**؟ لا - إن شروط التصنيف والتجمع هي شروط خاصة بكل بلد.
+** ماذا ينبغي أن تفعل المنظمة؟** (ب) أن يُعين خطاً من فئة الخدمة البشرية، ومصدراً وقيمة لكل عنصر قبل التصنيف.
 
 
-## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
+## المصدر: التحقق
+| المصدر | المنظمة | السوق | النمور | الثقة | URL | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
-| 中华人民共和国海关进出口货物商品归类管理规定 | 中国政府网 | CN | T1 | VERIFIED | https://www.gov.cn/zhengce/2021-09/06/content_5723370.htm | 归类以协调制度/进出口税则为基础, 归类裁定与决定 |
-| 汽车CKD散件出口原产地证填制（行业流程，T4仅线索） | 顺企网 | CN | T4 | UNVERIFIED | https://m.11467.com/product/d53830031.htm | 成套散件清单/HS逐项整理流程线索 |
-| 成套散件(SKD/CKD)进口申请表说明（反向参考，T4） | 顺企网 | CN | T4 | UNVERIFIED | https://m.11467.com/product/d14729353.htm | 成套散件申报要素线索 |
-| Harmonized System Nomenclature (WCO) | World Customs Organization | CN | T1 | VERIFIED | https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools/hs-nomenclature-2022-edition.aspx | HS nomenclature is the classification basis maintained by WCO |
-| WCO Origin instruments and tools | World Customs Organization | CN | T1 | VERIFIED | https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx | rules-of-origin framework and instruments maintained by WCO |
-## Editorial Review
+| 中华人民共和国海关进出口货物商品归类管理规定 | 中国政府网 | CN | T1 | مفقود | https://www.gov.cn/zhengce/2021-09/06/content_5723370.htm | 归类以协调制度 / 进出口税则为基础, 归类裁定与决定 |
+| 汽车 CKD 散件出口原产地证填制 (行业流程, T4 仅线索) | 顺企网 | CN | T4 | UNVERIFIED | https://m.11467.com/product/d53830031.htm | 成套散件清单 /HS 逐项整理流程线索 |
+| 成套散件 (SKD/CKD) 进口申请表说明 (反向参考، T4) | 顺企网 | CN | T4 | UNVERIFIED | https://m.11467.com/product/d14729353.htm | 成套散件申报要素线索 |
+| النظام المنسق | منظمة الجمارك العالمية | CN | T1 | مفقود | https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools/hs-nomenclature-2022-edition.aspx | تعيينات الخدمة الميدانية هي أساس التصنيف الذي تتعهده منظمة الجمارك العالمية |
+| الأدوات والأدوات الأصلية للمنظمة العالمية للجمارك | منظمة الجمارك العالمية | CN | T1 | مفقود | https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx | إطار وقواعد المنشأ والصكوك التي تحتفظ بها المنظمة العالمية للجمارك |
+| اتفاق منظمة التجارة العالمية بشأن تقييم الجمارك | منظمة التجارة العالمية | INT | T1/T2 | مفقود | https://www.wto.org/english/tratop_e/valuation_e/valuation_e.htm | :: إطار تقييم الجمارك ذي الصلة عند تقييم مجموعات المواد المخفضة والوحدات المجمعة تقييما مختلفا؛ ولا يحدد بحد ذاته تعريفات تجميع الوجهات |
+| WCO HS Nomenclature - classification instruments (GRI) | منظمة الجمارك العالمية | INT | T1/T2 | مفقود | https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools.aspx | الترجمة الشفوية العامة القواعد (بما في ذلك) GRI 2(a)) govern classification of unassembled/disassembled knockdown goods; في الصفحة |
+## استعراض التحرير
 - ** Author**: AutoBridge Export Editorial Team · [authors](/authors) · [Editorial Policy](editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: CN出口侧框架+目的国（目的国税率须另核）
-- **Verification method**: Desk research against the sources below; Chinese-market reference specification only unless a separate export market is explicitly cited.
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
+- ** لم يُستعرض بعد**: 2026-09-05
+- ** سوق الإحالة**: CN 出口侧框架 + 目的国 (目的国税率须另核)
+- ** طريقة الفرز**: بحوث مكتبية ضد المصادر الواردة أدناه؛ والمواصفات المرجعية للسوق الصينية فقط ما لم يُستشهد صراحة بسوق تصدير منفصلة.
+- ** الشفافية**: استُخدمت الصياغة المدعومة من منظمة العفو الدولية. وتستند هذه المادة إلى البحوث المكتبية وآلية الجودة. ولا يُزعم إجراء أي اختبار مباشر إلا إذا تم توثيقه بشكل صريح؛ ويؤكد متطلبات مراعية للوقت ومحددة للمقصد قبل التحول.
 
-## Image Record
-- ** none secured in repository
-- ** not captured
-- **SOURCE_PAGE**: not captured
-- ** unconfirmed
-- ** none secured — OEM webpage presence is not a commercial reuse licence
-- ** CHECKED_DATE**: 2026-09-05
-- ** exact CKD/SKD Knockdown Export and Overseas Assembly
+## سجل الصور
+- ** لم يُكفل أي شيء في مستودع
+- ** غير مسبوقة **
+- ** الموارد: لم يُقبض عليها
+- ** المصدر: الدليل: لا ينطبق - لم يحدد أي ملف إعلامي مرشح (لا رخصة للتأكيد)
+- ** مسلسل هولدر**: غير مؤكد
+- ** لا يوجد أي من هذه الصفحات مضمونة - ليس من حق المنظمة الحصول على ترخيص تجاري لإعادة الاستخدام
+- ** CHECKED_DATE**: 2026-09-06
+- ** موديل توبيتش**: بالضبط CKD/SKD طرق التصدير وتسويق ما وراء البحار
+- ** MEIMAGE_SCOPE_NOTE**: يجب أن تتطابق الصورة مع النموذج المحدد للأسرة/المنظر فقط؛ ويجب ألا تنطوي على ثلاثية محددة، أو سنة نموذجية، أو تفتيش فعلي، أو عملية فعلية
 - **MAGE_Rights_STATUS**: FAIL
+- ** BLOCK_REASON**: لا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: لا يمكن الوصول إلى الشائعات/الفلك من بيئة البحوث، ولا تحتاج مكتبات المخزون إلى الوصول إلى نظام تسجيل الدخول/الرخصة الموثق، وصورة الموقع الشبكي لمنظمة أوم ليست منحة إعادة استخدام تجارية. لا توجد صورة مملوكة لـ(أوتومبريدج) وظل التسجيل في القوات المسلحة الفلسطينية بدلا من التأكيد عليه.
 - **ALT (12 languages)**:
   - **EN**: CKD SKD knockdown, Chinese-market procurement guide export buyer reference
   - **FR**: CKD SKD knockdown, procurement guide du marché chinois, référence acheteur export

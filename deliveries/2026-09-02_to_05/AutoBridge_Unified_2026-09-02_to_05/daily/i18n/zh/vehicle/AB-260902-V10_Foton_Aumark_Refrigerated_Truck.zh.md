@@ -1,85 +1,88 @@
-# Foton Aumark (奥铃) Refrigerated Truck — Chassis, Reefer Body and Cooling-Unit Buyer Guide
+# Foton Aummark(奥铃) 冷藏车——Cassis、Reefer体和冷却-单体采购指南
 
-## SEO Metadata
-- **SEO Title**: Foton Aumark Refrigerated Truck Specs & Reefer Build Export Guide
-- **Meta Description**: Foton Aumark (Ollin) reefer: 150 PS Jieyun chassis, 4.085 m insulated body, GVW 4.495 t, Thermo King/domestic unit options, and how to specify a refrigerated truck for export.
-- **Suggested URL**: /vehicles/foton-aumark-refrigerated-truck/
-- **H1**: Foton Aumark Refrigerated Truck: Separating Chassis, Insulated Body and Refrigeration Unit
-- **Primary Keyword**: Foton Aumark refrigerated truck specifications export
-- **Secondary Search Terms**: Ollin reefer truck China, Foton Cummins 2.8 refrigerated, Thermo King T880 Pro truck, 4.5t reefer truck export, Chinese cold chain truck
-- **Internal Link Suggestions**: /vehicles/jac-kangling-light-truck/ ; /guides/commercial-truck-fleet-procurement-china/ ; /guides/marine-cargo-insurance-car-import/
-- **Image Suggestions**: side view reefer body; refrigeration unit on cab roof; insulated box interior with meat hooks; chassis plate; temperature controller
-- **ALT Suggestions**: "Foton Aumark 4x4 refrigerated truck with insulated box, China spec"; "Truck-mounted Thermo King refrigeration unit"; "Reefer box interior and meat-rail"
+## 道德操守办公室 元数据
+- ** 标准电子标准标题**:福顿·奥马克冷藏车样和Reecer 建筑出口指南
+- **Meta 说明**:福顿·奥马克(奥林) 冷藏器:150 PS 吉云底盘,4.085米绝缘体,GVW 4.495 t,热金/国内单元选项,以及如何指定出口的冷藏车.
+- ** 提议URL**:车辆/福顿-aumar-冷冻-卡车/
+- ** H1 资源需求。 **:福顿奥马克冷冻车:分离底盘、隔热体和冷冻股
+- ** 基本关键词**:福顿·奥马克冷藏卡车规格出口
+- ** 二级搜索术语**:中国的Ollin号冷藏车,Foton Cummins 2.8冷藏车, 热力金刚 T880 Pro卡车,4.5t 冷藏车出口,中国冷链卡车
+- ** 内部链接建议**:车辆/贾克-吊车-轻便卡车/;指南/商业-卡车-卡车-采购-钦纳/;指南/海运-货物保险-汽车-进口/
+- **图像建议**:侧视暗礁机体;驾驶室屋顶上的冷藏装置;有肉钩的隔热箱内置;底盘;温度控制器
+- **ALT建议**: "Foton Aumark 4x4冷藏卡车,带有隔热箱,中国规格"; "卡车装车的热金冷藏装置"; "Reefer盒子内置和肉铁"
 
-## How to Spec a Refrigerated Truck
+## 如何用冷藏车
 
-A reefer is really **three products in one**: a donor chassis, an insulated cargo box, and a refrigeration unit — often made by different manufacturers. Comparing "reefer truck prices" without naming all three is misleading. The reference vehicle is the **Aumark Jieyun (捷运) 150 PS 4×2, whole-vehicle announcement BJ5041XLC8JDA-AB1 (chassis BJ1041V9JDA-AB1)** with a 4.085 m reefer body; Foton also sells the Suyun (速运) with Foton Cummins power. Detailed Jieyun figures are single-source (360che); Cummins Suyun details are cross-checked with Foton official material.
+冷藏器是一款中三款产品: 捐助者底盘、绝缘货物箱和制冷装置——通常由不同的制造商制造。 比较"参考卡车价格"而不点名这三者,都是误导. The reference vehicle is the **Aumark Jieyun (捷运) 150 PS 4×2, 装有4.085米暗礁机体的BJ5041XLC8JDA-AB1(Cassis BJ1041V9JDA-AB1)**; 福通还以福通库明斯的功劳出售苏云号(速运). 详细数据为单源(360che); 库姆明斯苏云的细节与福顿官方材料交叉核对.
 
-## Chassis and Driveline
+## 底盘和驱动线
 
-| Item | Jieyun 150 reference (per 360che) |
+| 项目 | 吉云150参考文献(每360che人). |
 |---|---|
-| Announcement / drive | BJ5041XLC8JDA-AB1 / BJ1041V9JDA-AB1, 4×2, wheelbase 3360 mm |
-| Overall L×W×H | 5.995 × 2.32 × 3.42 m |
-| Engine | Yunnei D25TCIF1, 2.5 L inline-4 diesel, 110 kW (150 PS) / 400 N·m, China VI |
-| Gearbox | ZF 6-speed QX |
-| Curb / rated payload / GVW | 3.2 t / 1.1 t / **4.495 t** |
-| Tyres / top speed | 7.00R16LT 8PR ×6; 95 km/h |
+| 通知/驱动器 | BJ5041XLC8JDA-AB1 / BJ1041V9JDA-AB1, 4 × 2,轮基3360 mm |
+| 总体情况 | 5.995 × 2.32 × 3.42 m |
+| 引擎 | 云内D25TCIF1,2.5 L 内燃-4型柴油机车,110 kW(150 PS)/400 N·m 中国六中 |
+| 齿轮 | 兹罗浮6-speed |
+| 曲线/额定有效载荷/GVW | 3.2 t / 1.1 t / **4.495 t** |
+| 轮胎/最高速度 | 7.00R16LT 8PR ×6; 95 km/h |
 
-Alternative **Suyun** power (official/cross-checked): Foton Cummins 2.8 L at 156 PS, with a 163 PS version at 470 N·m. If long-haul reliability and global Cummins service matter more than acquisition cost, compare the Cummins-powered Suyun against the Yunnei Jieyun rather than choosing on horsepower alone.
+替代品**苏云**功率(官方/交叉检查):Foton Cummins 2.8 L at 156 PS,163 PS版本为470 N·m. 如果长途可靠性和全球Cummins服务比收购成本更重要,那么就把Cummins动力的Suyun与Yunnei Jieun相比较,而不是单凭马力选择.
 
-## The Insulated Box (the part buyers overlook)
+## 隔热箱(买方忽略的部分)
 
-| Item | Reference value |
+| 项目 | 参考价值 |
 |---|---|
-| Jieyun reefer box | 4.085 × 2.10 × 2.30 m |
-| Suyun box | 4.08 × 2.10 × 2.10 m, about **18 m³** |
+| 吉云暗箱(吉云暗箱) | 4.085 × 2.10 × 2.30 m |
+| 苏云盒 | 4.08×2.10×2.10米,约**18立方米** |
 
-Box performance depends on insulation thickness and panel process (sandwich panels, foam type and density), floor load rating, door seals and whether a meat-rail/meat-hook interior is fitted — a CIMC meat-hook reefer body is one listed option. For export, specify: required internal temperature set-point, panel material/thickness, floor type (aluminium tread plate etc.), side/rear door arrangement, and meat-hook or shelf fitment. These change payload (the insulated body is heavy — note the reference payload is only ~1.1 t at 4.495 t GVW) and price substantially.
+盒内性能取决于绝缘厚度和面板工艺(沙网板、泡沫类型和密度)、地板载荷评级、门封以及是否安装了肉-肉/肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉-肉 出口请具体说明:需要的内部温度设置点、面板材料/厚度、地板类型(铝制胎盘等)、侧/背门安排、肉皮或架子的装配。 这些变化载荷(绝缘体为重-注意参考载荷在4.495 t GVW时只有~1.1 t)和价格相当大.
 
-## Refrigeration Unit Options
+## 冷冻单元选项
 
-The captured reference lists three fitment routes (single-source, to be confirmed with the builder):
+所捕获的参考文献列出了三条适配路线(单源,待与建造者确认):
 
-- **Imported standalone unit**: Thermo King T880 Pro independent refrigeration unit — independent units have their own engine and keep cooling when the truck engine is off, preferred for long-haul/pharma/deep-frozen work.
-- **Domestic unit**: Sanfeng (三丰) 590, rated to around **−18 °C** for frozen goods.
-- **Specialised body**: CIMC meat-hook reefer box for carcass transport.
+- ** 进口独立单位**:热金T880 提倡独立的制冷装置——独立的装置有自己的发动机,在卡车发动机关闭时保持冷却,更喜欢长呼/药品/深冻的工作.
+- ** 家庭单位**:三丰(三丰)590,因冻结货物被评为18 °C左右。
+- ** 专门体**:CIMC肉钩式冷藏箱,用于运输尸体。
 
-Procurement questions that decide the unit: required set-point and pull-down time (chilled ~0 to +5 °C vs frozen −18 °C vs ultra-low), standalone (own engine) vs vehicle-driven/compressor, standby electric operation for depot plug-in, and — critically for an importer — **local service and spare parts for the refrigeration brand**. An imported Thermo King/Carrier unit is easier to service in many countries but costs more; a domestic unit needs a confirmed parts route.
+决定该单位的采购问题:需要设置点和拉动时间(千金~0至+5 °C vs 冻结−18 °C vs 超低),独立(自备发动机) vs 车辆驱动/压缩机,备用电动操作,仓库插座,以及——对进口商来说——** 制冷品牌的当地服务和备件**。 进口的热金/Carrier单元在许多国家更容易服务,但成本更高;国内单元需要确认的零件路线。
 
-## What AutoBridge Adds Beyond a Chassis Quote
-Reefer quotes often price a chassis and leave the box and cooling unit vague. The recommended method is to keep **chassis / insulated box / refrigeration unit as three separately specified, separately priced lines**, match the **box material/thickness and K-value plus the unit's temperature range and standby (electric) option** to the operating climate, and check the whole combination against the **destination food/pharma cold-chain certification** before deposit.
-## Verification Before Payment
+## 光碟后面的自动桥添加什么
+Reefer经常引用底盘的价格,并留下盒子和冷却单位模糊. 建议的方法是将**cassis / 绝缘盒/冷藏单元作为三条单独规定,分别定价的线**,与**box 材料/厚度和K值加上该单元的温度范围及备用(电)选项**与操作环境相匹配,并在存放前与**定点食品/药品冷链认证**对照检查整件组合.
+## 付款前的核实
 
-- Obtain the **factory/coachbuilder spec for chassis, box and refrigeration unit separately**, with model numbers; the 360che figures are single-source.
-- Confirm **GVW (4.495 t reference) and net payload** once the insulated box and unit are fitted — reefer bodies eat payload, and destination licensing at this GVW class must be checked.
-- Confirm engine emission acceptance at destination (China VI is not automatic proof of local compliance) and fuel quality suitability.
-- Specify temperature set-point, insulation panel spec, door/meat-rail layout and unit brand/standalone capability in writing.
-- Confirm refrigeration-unit warranty and local after-sales; confirm chassis after-sales for Yunnei vs Cummins engines.
-- Confirm LHD/RHD, tyre availability (7.00R16LT 8PR) and whether the reefer body is factory-fitted or locally installed.
+- 单独获得底盘、箱和冷藏装置的**构件/制造器规格**,并附有型号;360che数字为单一来源。
+- Confirm **GVW (4.495 t reference)  and  净有效载荷** 一旦绝缘箱  and  装配了-冷藏机体吃有效载荷,  and  必须检查此 GVW 类的目的地许可 。
+- 确认目的地(中国六国并非当地合规的自动证明)和燃料质量适宜性.
+- 书面指定温度设置点、隔热板规格、门/肉-铁路布局和单位品牌/独立能力。
+- 确认冷藏单位保修和本地售后;确认云奈对Cummins发动机的售后底盘。
+- 确认LHD/RHD、轮胎可用性(7.00R16LT 8PR)以及冷藏机车体是工厂装配的还是当地安装的。
 
-## Request a Current Export Quotation
+## 请求当前导出提示
 
-No authoritative price was captured — reefer pricing varies widely with box construction and cooling-unit brand, so no figure is invented. Enclose **Destination Country · Quantity · Chassis/Engine (Yunnei 150 vs Cummins 156/163) · Box Size & Interior · Required Temperature · Refrigeration Unit Brand/Standalone · LHD/RHD · Destination Port · Incoterm**, and request itemised chassis/body/unit pricing.
+没有捕获到权威价格——与箱型构造和冷却单位品牌相比,冷藏器定价差异很大,因此没有发明出数字. 封装** 定点国 ● 数量 □ 底盘/发动机(云尼150对Cummins 156/163) · 箱大小和内置 · 所需温度 · 冷藏单位 品牌/固态 · LHD/RHD · 目的地港口 · 编码 **,并要求分项目计底盘/机身/机身定价。
 
-## Buyer FAQ
+## 买家 FAQ
 
-**Why is the payload only about 1.1 t on a 4.495 t truck?** The insulated box and refrigeration unit add substantial curb weight (~3.2 t), leaving ~1.1 t; always re-calculate payload for the exact body/unit.
-**What does "standalone/independent unit" mean?** It has its own engine and cools independently of the truck engine — useful for long transit and when parked; vehicle-driven units are cheaper but stop cooling with the engine.
-**Which is better, Yunnei or Cummins power?** The reference Jieyun uses a Yunnei 2.5 L 150 PS; the Suyun offers a Foton Cummins 2.8 L (156/163 PS) with a global service footprint — choose by service network and budget.
-**What temperature can it hold?** The listed domestic Sanfeng 590 targets −18 °C frozen work; achievable set-point depends on the chosen unit and insulation, so specify it.
-**Why is no price given?** Reefer cost depends heavily on the box and cooling unit; no reliable 2026-09-02 price was captured, and one will not be estimated.
+**Why is the payload only about 1.1 t on a 4.495 t truck?** The insulated box  and  制冷装置增加大量阻塞重量(~3.2 t), 离开~1.1 t; 始终对确切的机体/单位的有效载荷进行重新计算。
+** “独立/独立单位”是什么意思? ** 它拥有独立于卡车发动机的自身发动机和冷却器——对于长途运输以及停放时有用;车辆驱动的装置价格较低,但停止与发动机冷却.
+最好还是这样  Yunnei or Cummins power?** The reference Jieyun uses a Yunnei 2.5 L 150 PS; the Suyun offers a Foton Cummins 2.8 L (156/163 PS) with a global service footprint — choose by service network  and  预算。
+温度能维持多久? 列出的国内三丰590目标——18 °C个冻结工作;可实现的设定点取决于选定的单元和绝缘,请具体说明。
+** 为什么没有给价? ** 珊瑚礁的成本严重依赖箱和冷却装置;没有掌握可靠的2026-09-02价格,也不会估计一个价格。
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
-- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- ALT by language:
+## 图像记录
+- IMAGE_ASST_PATH: 没有在仓库中安全
+- 原型:未抓获
+- 资源_页:未捕获
+- UNURCE_FILE_PAGE:不适用——未确定候选媒体文件(无申述许可证).
+- 权利:未经证实
+- LICENSE_OR_USAGE_BASIS:没有担保——在权利被清除之前,不得公布第三方图像
+- 检查日期: 2026-09-06
+- MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
+- IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
+- IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
+- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
+- 按语言分列的低价竞标:
   - **EN**: AutoBridge export-buyer reference — Foton Aumark, petrol/diesel Chinese-market vehicle / refrigerated truck
   - **FR**: Référence AutoBridge pour acheteurs export — Foton Aumark, véhicule thermique (marché chinois) / camion frigorifique
   - **DE**: AutoBridge-Referenz für Exportkäufer — Foton Aumark, Verbrenner (chinesischer Markt) / Kühl-Lkw
@@ -93,27 +96,27 @@ No authoritative price was captured — reefer pricing varies widely with box co
   - **AR**: مرجع AutoBridge لمشتري التصدير — Foton Aumark, مركبة بمحرك احتراق (سوق الصين) / شاحنة مبردة
   - **ZH**: AutoBridge 出口采购参考｜Foton Aumark, 中国市场燃油车 / 冷藏车
 
-## Sources & Verification
+## 源码验证(V)
 
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
 |---|---|---|---|---|---|---|
-| Aumark Jieyun 150 reefer parameters | 360che (卡车之家) | CN | http://product.m.360che.com/m441/110460_param.html | 2026-09-02 | CROSS_CHECKED | Announcement, Yunnei engine, ZF6, weights, box, unit options |
-| Ollin official reefer page | Foton Ollin (official) | CN | https://ollin.foton.com.cn/car/zycshow/TaTn7qVL6p26qu6p7FrF5q | 2026-09-02 | VERIFIED | Mid-truck reefer engine options, box-length series |
-| Suyun reefer delivery case | Foton Ollin (official) | CN | https://ollin.foton.com.cn/ollin/static/html/8CLv714yzXPaamAd6STbfe.html | 2026-09-02 | VERIFIED | 4.2 m reefer, Cummins 2.8, 18 m³, 3360 WB |
-| Ollin reefer article | Dongchedi (懂车帝) | CN | https://www-lq.dongchedi.com/article/7579095048919908888 | 2026-09-02 | CROSS_CHECKED | Cummins 150/163 PS, 470 N·m |
+| Aummark Jieyun 150 暗算器参数 | 360che (卡车之家) (中文(简体)). | 氯化萘 | http://product.m.360che.com/m441/110460_param.html 维基月球 | 2026-09-02 | 横跨 | 公告,云奈引擎,ZF6,重量,盒,单元选项 |
+| 奥尔林官方暗礁页面 | 福顿·奥尔林(官方) | 氯化萘 | https://ollin.foton.com.cn/car/zycshow/TaTn7qVL6p26qu6p7FrF5q 维基月球 | 2026-09-02 | 实录 | 中拖车的缓冲引擎选项, 箱长系列 |
+| 苏云冷藏箱交付案 | 福顿·奥尔林(官方) | 氯化萘 | https://ollin.foton.com.cn/ollin/static/html/8CLv714yzXPaamAd6STbfe.html 维基月球 | 2026-09-02 | 实录 | 4.2米的冷藏机, 内燃机 库明斯2.8, 18立方米, 3360 世行 |
+| 奥尔林·科勒的文章 | 东赫迪(懂车帝) | 氯化萘 | https://www-lq.dongchedi.com/article/7579095048919908888 维基月球 | 2026-09-02 | 横跨 | 库姆明斯150/163 PS, 470 N·m 维基月球 |
 
-| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
-| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
-| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
-| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
+| 道路汽车制造商和产品目录——公共查询系统 | MIIT,中国工业和信息化部 | 氯化萘 | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html 维基月球 | 2026-09-05 | 实录 | 在订购或出口前核查制造商、核准的型号和同级(公告)目录条目 |
+| GB 16735-2019 维基百科中的相关条目: 维基百科 道路车辆——车辆识别编号(VIN)要求 | SAMR 国家标准全文平台 | 氯化萘 | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 维基月球 | 2026-09-05 | 实录 | 购买者VIN/名牌验证中使用的VIN结构和名牌数据字段 |
+| GB 7258 机动车安全技术条件(GB 7258-2017 电流;GB 7258-2026 适用2027-07-01). | SAMR, 国家市场监管管理局 | 氯化萘 | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html 维基月球 | 2026-09-05 | 实录 | 中国境内车辆安全技术条件基线和现行/修订时间表 |
+| GB 18352.6-2016, 修正XG1-2026(中国-6轻型车辆污染物排放) | 生态和环境部 | 氯化萘 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html 维基月球 | 2026-09-05 | 实录 | 中国-6轻型车辆排放阶段和2026修正执行日期. |
+| GB 19147 汽车柴油国家标准(低硫基) | SAMR 国家标准全文平台 | 氯化萘 | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A 维基月球 | 2026-09-05 | 实录 | 柴油等级和硫基,以配合海外的发动机/排放设计 |
 
-*Confidence note (AutoBridge standard): Cummins/Suyun facts are VERIFIED on Foton-official material and cross-checked; detailed Jieyun announcement figures are SINGLE_SOURCE (360che). Reefer unit models and price are builder-dependent and UNVERIFIED for price; confirm in writing.*
+* 说明(AutoBridge标准): Cummins/Suyun的事实在Foton官方材料上得到了证实,并经过交叉核对;详细吉云宣布数字为SINGLE_SURCE(360che). 珊瑚礁单元模型和价格取决于建筑商和价格,而且价格是核查和核实的;书面确认。 * 报告迟交是因为需要翻译。
 
-## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: China, current-sale announcement configuration
-- **Verification method**: Official Foton material plus an independent commercial database; chassis/body/unit kept separate; single-source and price gaps disclosed
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+## 编辑评论
+- ** 授权/审查人**:[自动桥出口编辑组](/作者/) / 方法,按我们的[编辑政 (/编辑政策/)
+- ** 上次审查**:2026-09-05
+- **参考市场**:中国,现货公告配置.
+- ** 核查方法**:正式福顿材料加一个独立的商业数据库;底盘/机身/单元分开;披露单一来源和价格差距
+- ** 编辑标准**: 由上述来源研究和撰写(案头研究;没有声称直接驾驶、拆卸或进口)。 源头信任是一行的;我们不能独立确认的任何一点都作为核查项目而不是事实提出。
 #AutoBridge #VehicleExport #Foton #Aumark #RefrigeratedTruck

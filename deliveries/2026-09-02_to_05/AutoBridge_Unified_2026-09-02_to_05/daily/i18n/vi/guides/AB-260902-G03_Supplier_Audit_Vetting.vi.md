@@ -4,7 +4,7 @@
 - **SEAO Title**: Kiểm tra một xe xuất khẩu Trung Quốc: Due-Diliglist
 - **Meta Mô tả**: Một khuôn khổ tiền thưởng cho việc kiểm duyệt xuất khẩu xe Trung Quốc - kiểm tra thông báo cá nhân/CCC, kiểm tra kinh doanh, xuất khẩu chuỗi cho phép, AEO, tiêu chuẩn tính toán số lượng và tiêu chuẩn quảng cáo.
 - ** URL đã gợi ý**: /guides/verification-china-car-explier-Supplier/
-- ** H1 **: Bác bỏ một nhà xuất bản xe cộ Trung Quốc: Điều gì cần kiểm tra trước khi người đầu tiên được trả tiền?
+- ** H1 Bác bỏ một công ty xuất khẩu xe cộ Trung Quốc: Điều gì cần kiểm tra trước khi người đầu tiên được trả tiền?
 - ** Từ khoá khóa bí mật**: kiểm tra xuất khẩu xe hơi Trung Quốc đúng mức giấy phép
 - **Scondary Search Wordss**: xe xuất khẩu chuẩn, nhà sản xuất xe MIIT thông báo, CCC chứng nhận xuất khẩu chứng nhận, kiểm tra doanh nghiệp gsxt, công ty xuất khẩu xe, công ty luật AEO
 - **I nội bộ Link gợi ý: //guides/vhic-import-t-vs-lc/; /guides/ sử dụng-chinese-vice-pection/;guides/commeral-cracover-cccate-cuffa-china / / / / / / / / / /guides
@@ -19,12 +19,12 @@ Những người mua xe hơi Trung Quốc lần đầu tiên ở nước ngoài 
 
 Hai tài liệu chính thức của Trung Quốc định nghĩa xương sống có thẩm quyền (cả hai nguồn chính phủ chính phủ):
 
-- Per the **five-ministry notice on further regulating the export order of automobiles and motorcycles** (MOFCOM et al.), a manufacturer declaring vehicles for export must be listed in the **MIIT "Vehicle Manufacturers and Products Announcement" (车辆生产企业及产品公告)** and hold valid **CCC compulsory certification**.
-- Per **MOFCOM et al. 2024 Thông báo là không. 6** on used-car export enterprises, a used-car exporter must be a domestically registered independent legal person meeting stated conditions (manufacturers must be in the MIIT announcement; Các nhà buôn phải hội đủ các tiêu chuẩn đã được công bố.
+- Theo thông báo năm năm của nhà sản xuất cần phải liệt kê trong tập đoàn **MIIT "Vehucle Manuuurment" (车辆生产企业及产品公告) thông báo thông báo xe hơi và giữ thông báo thông báo thông tin hợp lệ **CCC xác thực**.
+- Per **MOFCOM et al. 2024 Thông báo số không. 6 ** về các doanh nghiệp xuất khẩu xe hơi đã sử dụng, một người xuất khẩu xe hơi được đăng ký trong nước là một người hợp pháp độc lập hội nghị (người sản xuất phải có trong thông báo MIIT; các nhà giao dịch phải đáp ứng các tiêu chuẩn đã được công bố).
 
 Ứng dụng cho người mua: yêu cầu * Hỏi *** thực thể pháp lý là người xuất khẩu hồ sơ và xác nhận nó nằm trong danh sách xuất khẩu của ** năm nay được xuất bản bởi MOFCOM** (danh sách này được cập nhật một cách năng động - sử dụng phiên bản hiện tại của năm; hướng dẫn này không liệt kê tên công ty). Một công ty không thể tự đặt mình vào chuỗi đó là tín hiệu dừng lại.
 
-## Lớp 1 — Kiểm tra giấy phép kinh doanh
+## Layer 1 — Verify the Business License
 
 Dùng hệ thống tín dụng quốc gia ** của Enterprise thông tin công cộng (gsxt.gov.cn) để kiểm tra, chống lại mã tín dụng xã hội hợp nhất của nhà cung cấp:
 
@@ -36,16 +36,16 @@ Dùng hệ thống tín dụng quốc gia ** của Enterprise thông tin công c
 
 Bằng lái được trưng bày như một bức ảnh không phải là bằng chứng; người mua (hoặc đại diện của Trung Quốc) nên lấy hồ sơ gsxt một cách độc lập.
 
-## Lớp 2 — Xuất khẩu Khả năng và Lệnh Thẩm quyền Bị xiềng
+## Lớp 2 — Khả năng xuất  and  chuỗi quyền hạn
 
 Nhiều người bán hàng hợp pháp là những công ty thương mại chứ không phải là các nhà máy. Điều này là bình thường — nhưng dây xích phải là có thật:
 
 1. Xác định nhà sản xuất ** và xác nhận nó nằm trong thông báo MIIT với CCC hợp lệ.
 2. Nếu người bán là một nhà buôn, yêu cầu tài liệu ** ủy quyền** kết nối nhà xuất khẩu/ Nhân viên xuất khẩu có khả năng với thực thể bạn hợp tác.
-3. **Reverth-verify**: nếu có thể, xác nhận lại cho phép trở lại thực thể OEM/có thẩm quyền. OEM tier- 1/tier-2 quy tắc cho phép là nội bộ và không được xuất bản, vì vậy chỉ một giấy chứng nhận giấy tờ là không đủ — yêu cầu kiểm tra nó với các bên phát hành.
+3. **Reverth-verify**: nếu có thể, xác nhận lại cho phép trở lại thực thể OEM/có thẩm quyền. OEM - 1/tier-2 quy tắc cho phép là nội bộ và chưa được công bố, nên chỉ một giấy chứng nhận giấy thôi thì chưa đủ - yêu cầu kiểm tra lại với bên phát hành.
 4. Một công ty không đủ tiêu chuẩn xuất khẩu thông qua * một công ty được liệt kê; đó là chỉ có thể chấp nhận nếu các chuỗi hợp tác/ quyền sử dụng được ghi lại và thực thể trên tuyên bố xuất khẩu là đủ khả năng thực sự.
 
-## Lớp 3 — Chiến dịch thực tế (Factry, tập tục, Lịch sử, Nguồn tư liệu)
+## Lớp 3 — Thực tế chiến dịch (Lịch sử tập tục, danh sách)
 
 - **Custiss credit class**: an **AAO (một tổng đài kinh tế học)** tín hiệu cho thấy sự tín dụng của các phong tục cao; yêu cầu bằng chứng và xem sự vắng mặt của nó là trung lập chứ không phải là không cần thiết. (Sử dụng phương tiện truy vấn AAO của Trung Quốc; chính xác là cổng vào thay đổi, vì vậy di chuyển thông qua trang web của hải quan chính thức.)
 - ** Các tuyên bố xuất khẩu lịch sử**: yêu cầu xuất khẩu các tuyên bố hải quan từ khoảng ba tháng trước (những trường thương mại nhạy cảm có thể được biên dịch lại) và kiểm tra chéo sản phẩm, các mẫu ký hiệu và ngày tháng chống lại yêu cầu của nhà cung cấp.
@@ -61,7 +61,7 @@ Một trong những chỉ thị gian lận rõ ràng nhất là tên tài khoả
 - Thích những công cụ thanh toán tương ứng với rủi ro (xem hướng dẫn T/ T vs L/C); tránh trả trước đầy đủ cho một thực thể chưa được chứng minh.
 
 ## Tự độngBridge thêm gì ngoài một hình ảnh về kinh doanh
-Chụp quét bằng lái chứng minh rằng công ty tồn tại, chứ không phải xuất khẩu xe của bạn. This guide recommends checking the counterparty against the **current-year MOFCOM qualified list** (2026 application under 商办贸函〔2025〕408号; Hành khách hoàn toàn xuất bản từ 2026-01-01 trong thông báo chung. 54, tái tạo chuỗi **brand- repection to the OEM**, và chạy một họ **contract/inct/invot/bank-actsote** trước khi gửi tiền — ba kiểm tra phân biệt người xuất khẩu có thẩm quyền với vỏ buôn bán.
+Chụp quét bằng lái chứng minh rằng công ty tồn tại, chứ không phải xuất khẩu xe của bạn. Hướng dẫn này khuyên nên kiểm tra sự tương tác với danh sách các chức năng của năm nay của MOFCOM** (2026 ứng dụng dưới 商办贸函  2025  nghiêng 408 号) pure-EV passenger licensing from 2026-01-01 under joint Announcement No. 54), tái tạo chuỗi quản lý bản quyền **brand- rebration đến OEM**, và chạy một họ **contract/inract/invot/bank-c Count ♪ trước khi gửi tiền — ba kiểm tra phân biệt người xuất khẩu có thẩm quyền với vỏ buôn bán.
 ## Một chuỗi tám bước thực tế
 
 1. Lấy hồ sơ kinh doanh gsxt một cách độc lập.
@@ -87,17 +87,20 @@ Chụp quét bằng lái chứng minh rằng công ty tồn tại, chứ không 
 Làm sao để kiểm tra giấy phép của công ty Trung Quốc? Truy vấn gsxt.gov.cn bằng cách sử dụng mã tín dụng xã hội không xác định; xác minh tên, phạm vi, đại diện pháp lý và bất thường hồ sơ.
 ** Chứng nhận CCC có chứng minh quyền xuất khẩu không? Không, CCC là chứng thực sản phẩm; xuất khẩu các khả năng phụ thêm vào thông báo của MIIT và danh sách công bố hiện thời của MOFCOM.
 ** Tài khoản thừa kế là tên công ty khác nhau — có bình thường không? Nó là một trong những tín hiệu rủi ro rõ ràng nhất; dừng lại và tái lập trình trước khi trả tiền.
-**What proves a supplier actually exports?** Recent (≈3-month) export declarations plus a live audit of line, stock, QC and loading dock, cross-checked against claims.
+Cái gì chứng minh một nhà cung cấp xuất khẩu? (Tiếng 3-month) xuất khẩu các bản tuyên bố cộng với việc kiểm toán đường dây trực tiếp, cổ phần, QC  and  Đang tải bến tàu. Kiểm tra chéo các yêu cầu.
 
 ## Thu ảnh
 - Không có bảo mật trong kho
 - _NHỮNG _I HÌNH: chưa được thu
 - Không được lấy
+- SOURCE_FLE_PAGE: không thích hợp — không có tập tin phương tiện ứng cử viên nào được xác định (không có giấy phép để xác nhận)
 - Chưa xác nhận
 - LICENSE_OR_USAGE_BAAY: không bảo mật — không có ảnh bên thứ ba có thể được xuất bản cho đến khi quyền được xoá
-- CÂU_DATE: 2026-09-05
+- CÂU_ lẫn nhau: 2026-09-06
 - MODEL_TOPIC_MASP: cần phải khớp với mô hình/ Quay chính xác (hoặc chủ đề hướng dẫn) và thị trường tham chiếu bên trên
+- ITH_SCOPE_NOTE: phù hợp với chính xác mô hình gia đình/tic duy nhất; không phải ngụ ý một cụ thể cắt/mdel năm, thực sự VIN, kiểm tra người trong người hoặc thực sự giao dịch
 - TRONG SÁCH TRONG LINH: FAIL (không có giấy phép lấy được tài sản; một người giữ chỗ hoặc “không chấp nhận lời nhắn cũ của hình ảnh ”
+- - Không. Không thể bảo đảm ảnh có thể tái tạo: Wikimedia Commons/Flickr không thể tới từ môi trường nghiên cứu, thư viện chứng khoán yêu cầu quyền truy cập hệ thống ARI/licence, và một trang web OEM không phải là một tài trợ tái sử dụng thương mại; không có ảnh tự động của AutoBridge. Giữ FAIL thay vì khẳng định.
 - Theo ngôn ngữ:
   - **EN**: AutoBridge export-buyer reference — Chinese export supplier vetting, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Chinese export supplier vetting, guide d’achat à l’export automobile
@@ -116,19 +119,19 @@ Làm sao để kiểm tra giấy phép của công ty Trung Quốc? Truy vấn g
 
 | Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
-| Thông báo về thứ tự xuất khẩu khác của xe hơi/ xe đạp | MOFCOM et al. (five ministries, official T1) | CN | https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2012/art_bc15755f9b1642b99eac7cc212cce54b.html | 2026-09-02 | VEII | Thông báo MIT + CCC xuất khẩu- mật độ |
-| 2024 Thông báo Không. 6 (Điều kiện xuất khẩu xe hơi) | MOFCOM (Chính thức T1) | CN | https://dcj.mofcom.gov.cn/article/zcfb/zcwg/202405/20240503510039.shtml | 2026-09-02 | VEII | Điều kiện xuất khẩu xe hơi hợp pháp/ số hoá |
+| Thông báo về thứ tự xuất khẩu khác của xe hơi/ xe đạp | MOFCOM et al. (five ministries, Chính thức T1) | CN | https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2012/art_bc15755f9b1642b99eac7cc212cce54b.html | 2026-09-02 | VEII | Thông báo MIT + CCC xuất khẩu- mật độ |
+| 2024 Thông báo Không. 6 (Điều kiện xuất khẩu xe hơi) | MOFCOM (chính thức T1) | CN | https://dcj.mofcom.gov.cn/article/zcfb/zcwg/202405/20240503510039.shtml | 2026-09-02 | VEII | Điều kiện xuất khẩu xe hơi hợp pháp/ số hoá |
 | Làm thế nào để kiểm tra các nhà cung cấp kinh doanh chân thực | Kinh doanh thiện (try, điểm tới gsxt.gov.cn) | CN | https://goodcantrading.com/how-to-check-china-supplier-business-license-authenticity/ | 2026-09-02 | ĐÃ_ ĐÃ | Trường gsxt xác thực |
 | Làm sao để xác minh một nhà máy Trung Quốc là hợp pháp? | Sao Diêm Vương trên toàn cầu | CN/Global | https://www.plutoniaglobal.com/guides/verify-chinese-factory-legitimate | 2026-09-02 | ĐÃ_ ĐÃ | Tính toán theo tên, kiểm toán nhà máy |
-| Hướng dẫn xuất khẩu 8-step để xác minh các nhà cung cấp tự động ở Trung Quốc | Hoa Gia Nội (try thử) | CN | https://www.huajiame.com/en-US/knowledge/how-verify-china-auto-export-supplier | 2026-09-02 | ĐÃ_ ĐÃ | Khung kiểm toán lớp, AAO |
-| Comment | 11467 (顺企网, industry) | CN | https://m.11467.com/blog/d18906274.htm | 2026-09-02 | ĐÃ_ ĐÃ | Tối thiểu nghe phim trực tiếp, kiểm tra chéo khai báo |
-| Thủ tục xuất khẩu xe tải nội địa | Guangzhou Pujiang Trade (11467) | CN | https://guangzhou053049.11467.com/m/news/15260806.asp | 2026-09-02 | ĐÃ_ ĐÃ | Xuất qua thực thể có khả năng, chuỗi cho phép |
+| 8-step hướng dẫn xuất khẩu tự động từ Trung Quốc | Hoa Gia Nội (try thử) | CN | https://www.huajiame.com/en-US/knowledge/how-verify-china-auto-export-supplier | 2026-09-02 | ĐÃ_ ĐÃ | Khung kiểm toán lớp, AAO |
+| Comment | 11467 (顺企网, ngành công nghiệp) | CN | https://m.11467.com/blog/d18906274.htm | 2026-09-02 | ĐÃ_ ĐÃ | Tối thiểu nghe phim trực tiếp, kiểm tra chéo khai báo |
+| Thủ tục xuất khẩu xe tải nội địa | Thương mại Quảng Châu (11467) | CN | https://guangzhou053049.11467.com/m/news/15260806.asp | 2026-09-02 | ĐÃ_ ĐÃ | Xuất qua thực thể có khả năng, chuỗi cho phép |
 
-*Briendence Note (tự động Bridge: qualification rules rest on primary MOFCOM/MIIT sources (VERIFIED), now including the 2026 application notice (商办贸函〔2025〕408号) and joint Announcement No. 54 trên bản sao của hành khách-V. Danh sách có khả năng trong năm hiện tại và các yêu cầu AAO rất năng động và cần phải được kiểm tra trực tiếp; Những thứ được cấp nguồn cho công nghiệp và chỉ về hệ thống chính thức. ♪
+*BIDidence ghi chú (tự động Bridge: các quy tắc chuyên môn dựa trên nguồn gốc MOFCOM/MIIT chính (VERIED), bây giờ gồm 2026 thông báo ứng dụng (商办贸函  2025 408 号) và Information No. 54 trên giấy phép xuất khẩu phi hành khách thuần túy. Danh sách các khả năng trong năm hiện tại và các yêu cầu AAO rất năng động và cần phải được kiểm tra trực tiếp; các mục kiểm tra hoạt động được cung cấp từ công nghiệp và chỉ trở lại hệ thống chính thức. ♪
 
 ## Xem lại tập tin
 - **Author / recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
-- **Last xem xét**: 2026-09-05
+- **Last xem lại**: 2026-09-05
 - ** chợ địa phương**: Bên xuất khẩu Trung Quốc (vỗ tay toàn cầu)
 - **Verification phương pháp**: tài liệu chính của chính phủ cho cơ sở pháp lý; các hướng dẫn công nghiệp cho tiến trình hoạt động; danh sách động còn lại để xác thực
 - **Ku thích về tiêu chuẩn**: Nghiên cứu và viết từ những nguồn được liệt kê ở trên (các nghiên cứu ban đầu; không có ổ đĩa cầm tay, bỏ xuống hoặc nhập khẩu nào được xác nhận). Sự tự tin nguồn được thể hiện trên mỗi hàng; bất cứ điểm nào chúng ta không thể tự xác nhận được đều được trình bày như một vật chứng thực thay vì xác nhận là sự thật.

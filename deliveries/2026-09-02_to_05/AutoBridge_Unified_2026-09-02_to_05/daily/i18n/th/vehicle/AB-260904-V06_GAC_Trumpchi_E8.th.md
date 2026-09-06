@@ -1,73 +1,76 @@
-# GAC Trumpchi E8 (传祺E8): a Seven-Seat PHEV MPV — China Specs and Export Checks
+# GAC ทรัมพ์ชิ E8 (传祺 E8): หม่อมเจ้าพระยา หม่อมเจ้า (พ.ศ. เครื่อง มือ ที่ ใช้ ใน การ พิมพ์ ดีด เจ็ด ตัว — เครื่อง ตรวจ สอบ และ เครื่อง พิมพ์ ดีด ของ จีน
 
-## SEO Metadata
-- **SEO Title**: GAC Trumpchi E8 PHEV MPV Specs & Export Guide (7-Seat, China)
-- **Meta Description**: Chinese-market Trumpchi E8 new-energy PHEV MPV — 2.0ATK engine, 134 kW motor, 25.57 kWh battery, 150 km CLTC, 2+2+3 seating, and how it differs from the non-charging Glory HEV.
-- **Suggested URL**: / vehines/gac-tumchi- e8/
-- ~ H1~: GAC Trumpchi E8 PHEV: Chinese-Market Seven-Seat MPV Specs and Export Notes
-- **Primary Keyword**: gac trumpchi e8 phev specs export
-- **Secondary Search Terms**: Trumpchi E8 MPV, 传祺E8 PHEV, E8 Glory HEV difference, Trumpchi E8 7-seat, Chinese PHEV MPV export
-- **Internal Link Suggestions**: / Guides/v-helping- un3556-imdg-compliance/; /guides/export-vehicle-document-package/ ; / Viohles/ Chery-folwin- t9/
-- **Image Suggestions**: E8 side profile MPV; 2+2+3 seat layout; charging port vs no-port HEV; third row; V2L outlet
-- **ALT Suggestions**: "GAC Trumpchi E8 PHEV seven-seat MPV China spec"; "Trumpchi E8 2+2+3 seating and cargo"
+## เชา ข้อมูลกํากับภาพ
+- < secontinuation*: GAC ทรัมพ์ชิ E8 PhEV Spects & ไกด์ส่งออก (7-Seat, จีน)
+- ""คําอธิบาย" ประเทศจีน-ตลาดทรัมชิ E8 ใหม่-จีเอชวี เครื่องยนต์ 2.0ATK 134 kW มอเตอร์ (พ.ศ. 25.57 kWh แบตเตอรี่ 150 km CLTC (ค.ศ. 2+2+3 ที่นั่ง  and  และส่วนความโปรดปรานนั้นจะถูกแบ่งส่วนได้เท่าไร ?
+- ~ที่อยู่ URL ที่ถูกย่อ: / เวนิกส์/แกค-ทรัมชิ- e8/
+- ** H1 **: GAC ทรัมพ์ชิ E8 ** PhEV: สแกนและส่งออกบันทึก
+- ~ คําหลัก ๆ ~: gac perchi e8 piff spects
+- ~การค้นหาตามวาระที่: ~ ทรัมชิ E8 MPV 传祺 E8 PhEV, E8 ผลต่างของ HEV, ทรัมชิ E8 7-seat, จีน ส่งออกไปยัง MPV แบบ PEV
+- ** เชื่อมโยงภายใน **/ guides/v- parints- un3556-imdg-compliance/; / guides/export-Vocument-document-duccess/vicles/fewy-fwin- t9/*
+- ข้อเสนอแนะ: E8 โพรไฟล์ด้าน MPV; 2+2+3 ผังที่นั่ง; ชาร์จพอร์ต vs ไม่มีพอร์ต HV; แถวที่สาม V2L outlet
+- ~~~~~~~~~ คําแนะนํา: "GAC Trumpchi E8 PHEV seven-seat MPV China spec"; "Tumpi E8 2+2+3 ที่นั่งและสินค้า"
 
-## Buyer Context: an MPV Purchase Is Decided by Seating and by the PHEV/HEV Split
-For an MPV exporter the questions are cabin geometry and seat architecture first, powertrain second. On the E8 there is a naming trap: the **E8 New Energy is a plug-in hybrid with a charging port**, while the **E8 Glory (荣耀) is an HEV with no charging port**. They are different energy types and must be quoted on separate lines. This sheet documents the **Chinese-market PHEV (REFERENCE MARKET: CHINA)**; an OEM configuration page was captured.
+## คอนเท็กซ์ของตัวซื้อ: ผู้ซื้อ MPV ถูกกําหนดโดย Seathing และโดย PhEV/HE parts
+สําหรับผู้ส่งออก MPV คําถามคือเรขาคณิตห้องโดยสารและสถาปัตยกรรมที่นั่งแรก รองพาวเวอร์เทรน E8 มีกับดักตั้งชื่อ: The ~ E8 พลังงานใหม่คือลูกผสมเสียบด้วยเครื่องชาร์จ  while the **E8 Glory (荣耀) is an HEV with no charging port**. พวกมันเป็นพลังงานชนิดต่างๆ และต้องอ้างถึงสายที่แยกกัน เอกสารนี้ยังเป็น... หอบ) ~ หน้าการปรับแต่งของ OEM ถูกจับ
 
-## MPV Core: Seating, Space and Passenger Character
-| Item | Trumpchi E8 PHEV (China reference) |
+## ขนาด MPV ปากกา: การนั่งเรือ, ช่องว่าง และอักขระในทะเบียน
+| รายการ | Tumpi E8 PhEV (อ้างอิงจีน) |
 |---|---|
-| Body | Mid-size MPV |
-| Length / width / height | **4920 / 1900 / 1760 mm** |
-| Wheelbase | **2930 mm** |
-| Seating layout | **2+2+3, seven seats** |
-| Platform | GAC Global Platform Modular Architecture (GPMA 3.0 L); high-strength steel about 75% (single-source) |
-| Curb weight | 2175 kg |
-| Fuel tank | 50 L |
+| ร่างกาย | ขนาดกลาง MPV |
+| ความยาว/ ความกว้าง/ ความสูง | **4920 / 1900 / 1760 mm** |
+| เบสของล้อ | **2930 mm** |
+| การจัดวางแบบกองเรียง | # 2+2+3 #  seven seats** |
+| แพลตฟอร์ม | GAC Global Platriphm Modiarment (GMMA 3.0 L); เหล็กกล้าที่แข็งแรงประมาณ 75% (single-source). |
+| น้ําหนักของเส้นโค้ง | 2175 kg |
+| ถัง เชื้อ เพลิง | 50 L |
 
-The 2930 mm wheelbase and 2+2+3 layout are the commercial story: independent middle-row captain seats and a usable third row. Confirm the exact seat configuration on the VIN, since MPV trim changes often alter middle-row specification.
+2930 mm ล้อล้อและ 2+2+3 ผังเป็นเรื่องราวเชิงพาณิชย์: อําเภอกลางอิสระ และแถวที่สามที่ใช้ได้ ยืนยันการตั้งค่าที่นั่งที่แน่นอนบน VIN เนื่องจากการเปลี่ยนแปลง mPV difference มักจะเปลี่ยนค่าค่ากลาง
 
-## PHELE Powerrent (Hoting-port E8).
-| Item | Detail |
+## PEVE Powerrentrence (ชาร์จ-พอสปอร์ต E8)
+| รายการ | รายละเอียด |
 |---|---|
-| Engine | 2.0ATK dedicated hybrid (4B20L1), 103 kW / 180 N·m (about 140 PS engine-only) |
-| Front motor | 134 kW / 300 N·m |
-| Hybrid transmission | 2-speed DHT |
-| Battery | Ternary lithium, **25.57 kWh** |
-| Electric range | **150 km CLTC** |
-| Power export | 3.3 kW external discharge (V2L) and 5.5 kW V2V (single-source; confirm per OEM) |
+| กลไก | 2.0ATK ลูกผสมที่อุทิศตัว (4B20L1 ง.), 103 kW / 180 N·m (ประมาณ 140 PS เครื่องเท่านั้น) |
+| มอเตอร์ด้านหน้า | 134 kW / 300 N·m |
+| การส่งภาพแบบผสม | 2-speed DHT |
+| แบตเตอรี | Ternary Lilium,= 25.57 kWh ~ |
+| ช่วงของไฟฟ้า | " 150 km CLTC" |
+| ส่งออกเป็น Power | 3.3 kW ไล่ออกภายนอก (V2L) พ.ศ.  and  5.5 kW V2V (single-source; ยืนยันต่อเครื่อง (OEM) |
 
-## PHEV vs Glory HEV — Keep the Energy Type Visible
-- **E8 New Energy (this page): PHEV** — external charging port, 25.57 kWh traction battery, 150 km CLTC electric running.
-- **E8 Glory (荣耀): HEV** — no charging port; it self-charges and cannot be plugged in.
-- Quoting PHEV electric range or charging for a Glory HEV unit (or pricing a PHEV against HEV equipment) is the recurring mismatch on this nameplate. Chinese guide prices also differ (PHEV from about RMB 209,800; Glory HEV from about RMB 166,800 — domestic, time-sensitive references only).
+## ความ งาม ของ ร่าง กาย — ทํา ให้ ชนิด พลัง งาน มอง เห็น ได้
+- **. E8 พลังงานใหม่ (หน้านี้): PhEVD) — พอร์ตชาร์จภายนอก 25.57 kWh แบตเตอรี่แทรคเตอร์ 150 km CLTC ขับเคลื่อน
+- " E8" เกียรติยศ (荣耀): HEV" — ไม่มีพอร์ตชาร์จไฟ; มันชาร์จไฟด้วยตนเองและไม่สามารถเสียบปลั๊กได้
+- การอ้างอิงช่วงไฟฟ้า PhEV หรือชาร์จสําหรับหน่วย HEV รุ่งโรจน์ (หรือการบังคับ pages กับเครื่องมือ HeV) เป็นความ ผิดเกิดขึ้นซ้ําบนแผ่นชื่อนี้ ราคานําร่องจีนก็ต่างกันด้วย (จากประมาณ RMB 209, 800;;;; EV;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; EV EV EV;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;  Glory HEV from about RMB 166, 800 — กรมเกษตรศาสตร์ พ.ศ. อ้างอิงที่ต้องใช้เวลาเท่านั้น)
 
-## Overseas Buyer Verification Before Payment
+## การ รับรอง การ ซื้อ ผ่าน ทาง ไปรษณีย์ ก่อน จะ จ่าย
 1. """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-2. **Seat layout** — 2+2+3 seven-seat and middle-row specification confirmed per trim.
-3. **Charging connector** vs destination standard; ternary-lithium battery shipping documents (UN38.3 summary) per the IMDG 42-24 guide.
-4. **V2L/V2V export power** claims confirmed on the OEM sheet (single-source here).
-5. **Destination hybrid registration class and documents** per the export document-package checklist.
+2. **Seat layout** — 2+2+3 seven-seat  and  มาตรากลางยืนยันค่าต่อค่าเฉลิม
+3. ** กําลังเชื่อมต่อ ** ternary-lithium battery shipping documents (UN38.3 summary) per the IMDG 42-24 guide.
+4. **. V2L/V2V พลังส่งออก ** ได้รับการยืนยันในแผ่น OEM (แหล่งกําเนิดที่นี่).
+5. ~ ห้องเรียนลูกผสมและเอกสาร~ ~ต่อรายการเอกสารส่งออก
 
-## Request a Current Export Quotation
-No export price is published. Chinese guide prices are **domestic, time-sensitive references, not FOB/CIF**. Request a live quote with **Destination Country · Quantity · PHEV or HEV Trim · LHD/RHD · Destination Port · Incoterm**.
+## ต้องการการอ้างถึงการส่งออกแบบปัจจุบัน
+ไม่มีการจัดพิมพ์ราคาส่งออก ราคานําร่องจีนเป็น.... อ้างอิงเวลา,ไม่ใช่ FOB/CIF ขออ้างอิงสดกับ.... ท่าเรือ จุดหมายปลายทาง ท่าเรือ อินโคเลดี้
 
-## Frequently Asked Questions
-**Is the Trumpchi E8 a plug-in hybrid or a self-charging hybrid?** The E8 New Energy is a PHEV with a charging port; the E8 Glory is a non-charging HEV — specify which one.
+## คํา ถาม ที่ มัก จะ ถาม บ่อย ๆ
+"ทรัมชิ E8 เป็นไฮบริดที่เสียบปลั๊กหรือไฮบริดที่เติมตัวเอง" E8 พลังงานใหม่เป็น PhEV กับพอร์ตชาร์จ; E8 เกียรติเป็น uni-champing HeV — ระบุว่าอันไหน.
 **How many seats?** A 2+2+3 seven-seat MPV on a 2930 mm wheelbase.
-**What is the electric range?** 150 km CLTC for the documented PHEV.
-**Can the E8 power external devices?** Chinese coverage lists 3.3 kW V2L and 5.5 kW V2V; confirm on the exact OEM trim sheet.
+** เรนจ์ไฟฟ้าคืออะไร? ~ 150 km CLTC สําหรับเอกสาร PEV
+** สามารถไฟฟ้าจากภายนอก E8 ได้หรือไม่ ** รายงานข่าวจีนลงรายการ 3.3 kW V2L และ 5.5 kW V2V; ยืนยันการวางแผ่นโออีเอ็ม
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICNE_OR_USARIAND_BALE: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
-- RODL_TOIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- ALT by language:
+## บันทึกรูปภาพ
+- _ปราสาท: ไม่มีความปลอดภัยในคลังเก็บ
+- ส่วนตัว_ปลายทาง: ไม่ได้จับ
+- ผู้โดยสาร: ไม่ถูกจับ
+- HOURS_ PDFAGE: ไม่มีผล — ไม่มีชื่อแฟ้มสําหรับเลือกสื่อ (ไม่มีใบรับรองที่จะยืนยัน)
+- ลิขสิทธิ์: ไม่ยืนยัน
+- LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
+- _กําหนดวันที่: 2026-09-06
+- MERCUL_ TOPIC_ MATCH: ต้องตรงกับรุ่น/ การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
+- CHAR_SCPE_NOTE: ตรงกับโมเดลที่เป๊ะของครอบครัว/ topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
+- March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
+- BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
+- ALT ด้วยภาษา:
   - **EN**: AutoBridge export-buyer reference — GAC Trumpchi E8, plug-in hybrid vehicle / MPV
   - **FR**: Référence AutoBridge pour acheteurs export — GAC Trumpchi E8, véhicule hybride rechargeable / MPV
   - **DE**: AutoBridge-Referenz für Exportkäufer — GAC Trumpchi E8, Plug-in-Hybridfahrzeug / Van (MPV)
@@ -81,29 +84,29 @@ No export price is published. Chinese guide prices are **domestic, time-sensitiv
   - **AR**: مرجع AutoBridge لمشتري التصدير — GAC Trumpchi E8, مركبة هجينة قابلة للشحن / سيارة عائلية
   - **ZH**: AutoBridge 出口采购参考｜GAC Trumpchi E8, 插电混动车 / MPV
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## ต้นฉบับและการตรวจสอบสิทธิ์
+| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| Trumpchi E8+ official configuration table | GAC Trumpchi (OEM) | CN | https://www.gacmotor.com/configtable?id=811 | 2026-09-04 | ISWIIE (OEM) | PHEV powertrain, battery, dimensions, seats |
-| E8 (PHEV) launch, size & electrification | Southern Metropolis Daily | CN | http://m.toutiao.com/group/7281953819724988991/ | 2026-09-04 | ROOS_ CHCKED | Dimensions, motor, battery |
-| E8 showroom: size/motor/battery | YouCheYiHou | CN | http://m.toutiao.com/group/7282038365669982759/ | 2026-09-04 | ROOS_ CHCKED | Motor, weight, V2L/V2V |
-| E8 GPMA architecture & high-strength steel | Yangcheng Evening News PDF | CN | https://ep.ycwb.com/epaper/ycwb/resfile/2023-12-13/A11/ycwb20231213A11.pdf | 2026-09-04 | SINGLE_SOURCE | Platform, ~75% HSS |
-| Trumpchi E8 New Energy full-line config | PCauto config | CN | https://car.pcauto.com.cn/360/s47354/r1/config.html | 2026-09-04 | ROOS_ CHCKED | Dimensions, 25.57 kWh, CLTC range |
-| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
-| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
-| GB 38031 traction battery safety requirements (GB 38031-2025; new type applications mandatory from 2026-07-01) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFIED | Mandatory traction-battery safety requirement basis for the electrified powertrain |
-| GB 18384 electric vehicle safety requirements (GB 18384-2025) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VERIFIED | Electric-vehicle electrical/functional safety requirement basis |
-| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
+| Tumpi E8+ ตารางการปรับแต่งอย่างเป็นทางการ | GAC ทรัมพ์ชิ (OEM) | CN | https://www.gacmotor.com/configtable?id=811 | 2026-09-04 | ISWIIE (OEM) | เครื่องยนต์ PEV, แบตเตอรี่, มิติ, ที่นั่ง |
+| E8 (PHIV) เปิดตัว, ขนาดและกําหนดค่าเสียง | เมโทรโพลิสตอนใต้ | CN | http://m.toutiao.com/group/7281953819724988991/ | 2026-09-04 | ROOS_ CHCKED | มิติ มอเตอร์ แบตเตอรี่ |
+| E8 ห้องแสดงดนตรี: ขนาด/ โมโต/ บัตเทอรี่ | คุณ | CN | http://m.toutiao.com/group/7282038365669982759/ | 2026-09-04 | ROOS_ CHCKED | มอเตอร์ น้ําหนัก V2L/V2V |
+| E8 สถาปัตยกรรม GPMA และเหล็กกล้าสูง | PDF ข่าวเกี่ยวกับ แยงเชียง | CN | https://ep.ycwb.com/epaper/ycwb/resfile/2023-12-13/A11/ycwb20231213A11.pdf | 2026-09-04 | ผู้โดยสาร_ปลายทาง | Plantegraph, ~ 75% HSS |
+| ทรัมชิ E8 ตั้งค่าการใช้พลังงานแบบเต็มบรรทัดใหม่ | ปรับแต่ง PCauto | CN | https://car.pcauto.com.cn/360/s47354/r1/config.html | 2026-09-04 | ROOS_ CHCKED | ขนาด 25.57 kWh ช่วง CLTC |
+| ผู้ ผลิต และ แคตตาล็อก ผลิตภัณฑ์ ถนน — ระบบ สอบ ถาม ของ ประชาชน |  MIT, กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูลจีน | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | เปิดใช้งาน | ตรวจสอบผู้ผลิต, โมเดลที่อนุญาต และการทําอัลบั้มแบบแบ่งประเภท (公告) ก่อนการสั่งซื้อหรือส่งออก |
+| ขนาด GB 16735-2019 รถ ที่ ใช้ ถนน — หมาย เลข รถ (VIN) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | เปิดใช้งาน | โครงสร้างและชื่อของ platt language ที่ใช้ในการตรวจสอบความถูกต้องของผู้ซื้อ/ ชื่อ |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน สภาวะความปลอดภัยทางเทคนิคและเวลาปัจจุบัน/การปรับปรุง |
+| GB 38031 structive about safe (GB 38031-2025); โปรแกรมรุ่นใหม่ที่บังคับจาก 2026-07-01) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | เปิดใช้งาน | ความปลอดภัยเชิงรุก-บาทีเรียพื้นฐานสําหรับไฟฟ้าที่ขับเคลื่อนได้ |
+| GB 18384 ความปลอดภัยรถไฟฟ้า (GB 18384-2025)) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | เปิดใช้งาน | ความปลอดภัยไฟฟ้า-แรงโน้มถ่วง/ระบบไฟฟ้า |
+| GB 18352.6-2016 ด้วยระบบไฟฟ้าลัดวงจร XG1-2026 (จีน- 6 ปริมาตรแสงโพลีเจนต์) | กระทรวง นิเวศ วิทยา และ สิ่ง แวด ล้อม (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | เปิดใช้งาน | จีน 6 ระดับแสงและน้ําใส และวันที่ดําเนินการ 2026 มาตราฐาน |
 
-*Confidence note: OEM page captured; platform steel ratio and V2L/V2V figures are single-source. PHEV and Glory HEV deliberately separated; Chinese-market reference only.*
+* convidence ข้อสังเกต: OEM page ถูกจับ; อัตราส่วนเหล็กแพลตฟอร์ม และ V2L/V2V ตัวเลข เป็นซิงเกิล-ซอร์ส (อังกฤษ: OEM). PhEV และพระเกียรติ HeV จงใจแยก; อ้างอิงตลาดจีนเท่านั้น *
 
-## Editorial Review
-- **Author**: AutoBridge Export Editorial Team · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: China, E8 New Energy PHEV (Chinese-market reference; CLTC stated; Glory HEV separated; not a global spec)
-- **Verification method**: OEM config anchored; energy-type split enforced; single-source items flagged
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+## การทบทวนแก้ไข
+- ** aultor*: AutoBridge ส่งออกวิธีการแก้ไขคําทีม (AutoBridge) ต่อ [นโยบายแก้ไข] ของเรา (/Dercial-policy/)
+- ~ถูกตรวจสอบแล้ว~: 2026-09-05
+- ~ตลาดแห่งความรุ่งเรือง: จีน E8 พลังงานใหม่ ~ PhEV (Chinese- market; CLTC กล่าว; เกียรติ HeV แยกกัน; ไม่ใช่สเปก
+- ** วิธีการปรับตั้ง **: ยึดค่าปรับแต่ง OEM; ชนิดของพลังงานต่าง ๆ ถูกบังคับใช้; รายการทรัพยากรแบบเดียวที่ระบุ
+- การร่างแบบ AI-assisted ถูกใช้ บทความนี้ตั้งอยู่บนพื้นฐานของงานวิจัยในตาราง และอัตโนมัติ QA ไม่มีการอ้างอิงการทดสอบก่อน จนกว่าจะมีการระบุรายละเอียดอย่างชัดเจน ยืนยันความต้องการที่ต้องใช้เวลาและกําหนดปลายทาง ก่อนทําการข้ามเวลา
+- ~มาตรฐานการแบ่งส่วน ~: Research and med from the source address address (Desk Research; ไม่มีการขับรถมือหนึ่ง, runchown หรือนําเข้า). ความมั่นใจของแหล่งแสดงต่อแถว; จุดใด ๆ ที่เราไม่สามารถยืนยันได้ด้วยตัวเอง ถูกนําเสนอเป็นรายการตรวจสอบแทนการยืนยันว่าเป็นความจริง
 
 **Tags**: #TrumpchiE8 #PHEVMPV #SevenSeat #ChinaReferenceSpec #ExportBuyerGuide

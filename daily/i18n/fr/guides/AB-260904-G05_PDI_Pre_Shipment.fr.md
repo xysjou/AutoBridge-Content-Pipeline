@@ -4,10 +4,10 @@
 - ** Titre du référencement**: IDP et préexpédition pour l'exportation de véhicules Guide de remise — Règles du transporteur désigné
 - **Description détaillée**: Les politiques de porte-avions RoRo distinctes (Wallenius Wilhelmsen, Höegh Autoliners) — carburant, batterie, SOC et opérabilité — de la liste de contrôle recommandée par AutoBridge pour les inspections avant expédition; aucune valeur fixe universelle.
 - **URL suggérée**: /guides/véhicule-export-pdi-préexpédition-transmission
-- ** H1 **: Préparation d'un véhicule pour l'exportation de RoRo ou de Container: ce que les transporteurs désignés exigent et ce que nous recommandons
+- ** H1 **: Préparation d'un véhicule pour l'exportation de RoRo ou de Container: Ce que les transporteurs désignés exigent et ce que nous recommandons
 - **Mot-clé principal**: inspection avant expédition des véhicules
-- ** Termes de recherche secondaires**: réservoir de quartier carburant de Wallenius Wilhelmsen, Hoegh BEV SOC 50 pour cent, RoRo véhicule opérationnel, déconnecter 12V batterie voiture utilisée, pré-expédition photo record
-- **Suggestions de liens internes**: /guides/véhicule-exportation-type de lettre de transport/; /guides/ev-shipping- un3556-imdg-compliance/; /guides/émissions-compatibilité-carburant-véhicules-chine/
+- ** Termes de recherche secondaires**: réservoir de quartier carburant de Wallenius Wilhelmsen, Hoegh BEV SOC 50 pour cent, Voiture roRo, déconnexion 12V batterie voiture d'occasion, enregistrement photo avant expédition
+- **Suggestions de lien interne**: /guides/véhicule-exportation-type de lettre de transport/; /guides/ev-shipping-un3556-imdg-compliance/; /guides/émissions-compatibilité-carburant-véhicules-chine/
 - **Suggestions d'image**: feuille de liste de contrôle PDI; rampe d'autoconduite RoRo; diagramme de division du transporteur nommé vs de la recommandation éditoriale
 - ** Suggestions concernant les ALT**: « Exigences du transporteur RoRo par rapport à la liste de contrôle recommandée avant expédition »
 
@@ -20,8 +20,8 @@ Les litiges de dommages à destination remontent presque toujours à une questio
 | Thème | La famille Wallenius Wilhelmsen | Autoliners de Höegh | Nature |
 |---|---|---|---|
 | ** Niveau de carburant/gaz** | Réservoir environ **un quart plein** (assez pour se conduire automatiquement) | Réservoir à environ ** un quart de plein** | Politique du transporteur; recoupement de ces deux lignes nommées seulement — pas une règle universelle |
-| **Compatibilité avec les batteries ICE utilisées** | Pour les unités d'occasion **sans interrupteur de batterie**, débrancher le 12/24V après l'arrimage (exceptions par instruction WW) | — | Spécifique WW; règle du transporteur à source unique |
-| **BEV haute tension SOC** | — | **SOC no more than 50%**, while retaining enough charge for loading/unloading/storage; - Oui. ≤¼ fuel plus SOC guidance | Un plafond global pour la COS |
+| **Compatibilité avec les batteries ICE utilisées** | Pour les unités d'occasion **sans interrupteur de batterie**, débranchez le 12/24V après l'arrimage (exceptions par instruction WW) | — | Spécifique WW; règle du transporteur à source unique |
+| **BEV haute tension SOC** | — | **COU pas plus de 50% **, tout en conservant suffisamment de charge pour le chargement/déchargement/stockage; - Oui. ≤¼ fuel plus SOC guidance | Un plafond global pour la COS |
 | **Operabilité** | Les unités RoRo doivent se conduire en toute sécurité (déplacement/freinage/virage); les unités défectueuses ou les unités de fuite peuvent être rejetées. | Même exigence d'autoconduite | Règle de réception du transporteur pour ces deux lignes nommées |
 
 Ces exigences sont citées aux transporteurs désignés précisément parce qu'ils **varient par ligne et par voyage**: un transporteur chinois RoRo/conteneur ou une autre ligne peut fixer des niveaux différents. Ne jamais déclarer « les transporteurs ont besoin de X » sans nommer le transporteur et vérifier son guide écrit actuel.
@@ -52,7 +52,7 @@ Compte de point d'arrimage, résistance à la rupture de la sangle, tapis antid�
 
 ## Foire aux questions
 **Un quart de réservoir est-il une exigence légale?** Non — c'est une politique écrite de transporteurs RoRo nommés tels que Wallenius Wilhelmsen et Höegh; suivre les instructions du transporteur réservé.
-**Must every EV ship at 50% SOC?** That figure is a Höegh Autoliners policy, not a universal cap; confirmer le voyage obligatoire du transporteur réservé par voyage.
+**Faire tous les navires EV à 50% SOC?** Ce chiffre est une politique Höegh Autoliners, pas un plafond universel; confirmer le voyage obligatoire SOC du transporteur réservé par voyage.
 **Le dossier photo/transmission est-il obligatoire?** Il s'agit de la méthode de preuve recommandée par AutoBridge, et non d'une exigence légale, mais elle renforce sensiblement une réclamation de dommages à destination.
 **Qui décide des points d'arrimage et des cotes de la sangle?** Le transporteur/terminal et le manuel de mode de transport OEM; ne supposent pas de valeurs fixes sans leurs documents.
 
@@ -60,11 +60,14 @@ Compte de point d'arrimage, résistance à la rupture de la sangle, tapis antid�
 - IMAGE_ASSET_PATH: aucun sécurisé dans le dépôt
 - ORIGINAL_IMAGE_URL: non capturé
 - SOURCE_PAGE: non capturé
+- SOURCE_FILE_PAGE: sans objet — aucun fichier multimédia candidat identifié (aucune licence pour affirmer)
 - HÔTEL DE DROITS: NON CONfirmÉ
 - LICENSE_OR_USAGE_BASIS: aucune image sécurisée — aucune image de tiers ne peut être publiée jusqu'à ce que les droits soient effacés
-- _DATE DE CHERCHE: 2026-09-05
+- _DATE DE CONTRÔLE: 2026-09-06
 - MODEL_TOPIC_MATCH: doit correspondre au modèle exact/version (ou au sujet du guide) et au marché de référence ci-dessus
+- IMAGE_SCOPE_NOTE: correspond à la famille/sujet du modèle exact seulement; ne doit pas impliquer une taille/modèle spécifique-année, VIN réel, inspection en personne ou transaction réelle
 - IMAGE_RIGHTS_STATUS: FAIL (aucun actif autorisé capturé; un détenteur de place ou -tain vieille image - Note n'est pas accepté)
+- C'est une question de "relation" Aucune image réutilisable ne peut être sécurisée: Wikimedia Commons/Flickr sont inaccessibles depuis l'environnement de recherche, les bibliothèques de stock nécessitent un accès authentifié API/licence, et une image de page web OEM n'est PAS une subvention de réutilisation commerciale; aucune photo appartenant à AutoBridge n'existe. Il a gardé la FAIL plutôt que de l'affirmer.
 - ALAT par langue:
   - **EN**: AutoBridge export-buyer reference — Pre-shipment PDI and handover for RoRo/container, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Pre-shipment PDI and handover for RoRo/container, guide d’achat à l’export automobile
@@ -83,10 +86,10 @@ Compte de point d'arrimage, résistance à la rupture de la sangle, tapis antid�
 | Titre de la source | Organisation | Marché | URL | Vérification | Confiance | Faits corroborés |
 |---|---|---|---|---|---|---|
 | WW Cargo Handling Instructions (fuel ≤¼) | Wallenius Wilhelmsen (transporteur roRo) | INTL | https://cargohandlinginstruction.walleniuswilhelmsen.com/pdf-files/WW-CHI-250731-1.31.pdf | 2026-09-04 | CHOCÉ (porteur principal) | Niveau de carburant, fonctionnement |
-| WW Réception des unités d'occasion (déconnecter 12/24V sans interrupteur de kill) | La famille Wallenius Wilhelmsen | INTL | https://cargohandlinginstruction.walleniuswilhelmsen.com/terminal/receiving-of-used-units-draft | 2026-09-04 | SOURCE UNIQUE (porteur principal) | Débranchement de la batterie ICE usagée |
-| Höegh Automotive shipping (≤¼ fuel; BEV SOC; fonctionnement) | Autoliners de Höegh | INTL | https://www.hoeghautoliners.com/what-we-ship/automotive | 2026-09-04 | SOURCE UNIQUE (porteur principal) | BEV ≤50% SOC, fuel, operability |
+| WW Réception des unités usagées (déconnecter 12/24V sans interrupteur de kill) | La famille Wallenius Wilhelmsen | INTL | https://cargohandlinginstruction.walleniuswilhelmsen.com/terminal/receiving-of-used-units-draft | 2026-09-04 | SOURCE UNIQUE (porteur principal) | Débranchement de la batterie ICE usagée |
+| Höegh Automotive shipping (≤¼ fuel; BEV SOC; fonctionnement) | Autoliners de Höegh | INTL | https://www.hoeghautoliners.com/what-we-ship/automotive | 2026-09-04 | SOURCE UNIQUE (porteur principal) | BEV ≤ 50% SOC, combustible, fonctionnement |
 | Camions/Buses/Remorques | Autoliners de Höegh | INTL | https://www.hoeghautoliners.com/what-we-ship/trucks-buses-and-trailers-shipping | 2026-09-04 | SOURCE UNIQUE (porteur principal) | Unité commerciale |
-| Inspection avant expédition et pratique de remise | Pages industrielles 11467 | NC | https://m.11467.com/product/d55278360.htm | 2026-09-04 | SOURCE UNIQUE (base éditoriale) | Liste de contrôle/photo/transmission recommandée |
+| Inspection avant expédition et pratique de remise | 11467 pages industrielles | NC | https://m.11467.com/product/d55278360.htm | 2026-09-04 | SOURCE UNIQUE (base éditoriale) | Liste de contrôle/photo/transmission recommandée |
 * Portée des preuves: politiques de transporteur nommées vérifiées aux guides primaires WW/Höegh (politique de transporteur, pas de réglementation, pas universel); liste de contrôle est une recommandation éditoriale; valeurs fixes d'arrimage/pression/orientation bloquées en attendant les documents OEM/transporteur. *
 
 | OMI/OIT/CEE/CTU Code — manutention et sécurisation des engins de transport de marchandises | Organisation maritime internationale (OMI) | INT'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | VÉRIFIER | Manipulation générale/sécurisation de la base de référence; les règles du transporteur restent plus strictes et spécifiques à l'itinéraire |
@@ -94,7 +97,7 @@ Compte de point d'arrimage, résistance à la rupture de la sangle, tapis antid�
 
 ## Révision de la rédaction
 - **Auteur**: Équipe éditoriale d'AutoBridge Export · méthode selon notre [Politique éditoriale](/Politique éditoriale/)
-- **Dernière revue**: 2026-09-05
+- **Dernière révision**: 2026-09-05
 - **Marché de référence**: Exportation internationale de RoRo/conteneur (politiques de transporteur) + liste de contrôle éditoriale
 - **Méthode de vérification**: Guides primaires nommés séparés de la recommandation éditoriale; aucune valeur fixe universelle
 - **Transparence**: La rédaction assistée par AI a été utilisée. Cet article est basé sur la recherche sur le bureau et l'AQ automatisée. Aucun essai de première main n'est revendiqué sauf documenté explicitement; confirmer les exigences en matière de temps et de destination avant d'agir.

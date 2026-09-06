@@ -1,72 +1,75 @@
-# Bulk Commercial-Truck Fleet Procurement From China: Duty-Cycle Engineering, 2026 Export-Licence Rules and Acceptance
-## SEO Metadata
-- **SEO Title**: Buying a Chinese Truck Fleet in Bulk: Spec, Licence & Acceptance
-- **Meta Description**: Engineer and bulk-procure Chinese heavy/dump/specialised trucks — duty-cycle spec, axles/frame/body, the official 2026 China vehicle export-licence regime, tender-grade acceptance and the document chain.
+# 중국에서 대량 상업적-트럭 Fleet 조달: 의무-공동 공학, 2026 수출 면허 규칙 및 합격
+## ▼ 한국어 메타데이터
+- **SEO Title**: 중국 트럭 함대를 대량으로 구매: Spec, Licence & Acceptance
+- **마타 기술 **: 엔지니어 및 대량 조달 중국 중장비 / 특수 트럭 - 의무 사이클 사양, 차축 / 프레임 / 바디, 공식 2026 중국 차량 수출 면허 요법, 입찰 등급 합격 및 문서 체인.
 - **Suggested URL**: /guides/commercial-truck-fleet-procurement-china/
-- ** H1 **: Procuring a Commercial-Truck Fleet From China: Duty Cycle, Exporter Licence and Acceptance
-- **Primary Keyword**: bulk commercial truck fleet procurement China specification export licence
-- **Secondary Search Terms**: China dump truck 6x4 8x4 export, 2026 vehicle export licence MOFCOM, pure-EV passenger export licence HS 8703801090, reinforced axle frame, fleet tender acceptance, commercial vehicle export documents
-- **Internal Link Suggestions**: /vehicles/shacman- x3000-dump-truck/; /vehicles/sinotruk-howo-t7h-tractor/ ; /vehicles/foton-aumark-refrigerated-truck/ ; /guides/verify-china-car-export-supplier/
-- **Image Suggestions**: duty-cycle-to-spec worksheet; reinforced frame/axle; tender acceptance inspection; export document chain
-- **ALT Suggestions**: "Truck fleet duty-cycle specification worksheet"; "double-layer frame and reinforced drive axle"; "fleet tender acceptance at factory"
-## A Fleet Is Engineered to Order, Not Picked Off a Shelf
-A 6×4 mining tipper, an 8×4 on-highway dump, a long-haul tractor and a reefer or tanker demand different powertrain, frame, axles and body choices, and bulk orders must additionally satisfy China's **current (2026) export-licence regime**, a tight document chain and tender-style acceptance. This guide gives fleet buyers, contractors and CV importers a repeatable path. It quotes no discounts, MOQs or lead times — those are negotiated per project and no authoritative public figures exist.
-## Step 1 — Define the Duty Cycle Before Price
-Specify, in writing, the operating reality (per commercial-vehicle procurement guidance):
-- **Application/configuration**: 6×4 quarry haul vs 8×4 highway dump vs 4×2 tractor; urban distribution vs long-haul.
-- **Payload/GVW target**, terrain (gradient, unpaved roads), annual mileage, climate.
-- **Fuel**: diesel vs LNG/CNG, chosen against local fuel availability and emission rules, not Chinese domestic habits.
-- **Destination-accepted emission stage** (e.g., Euro II vs Euro V class) — over-specifying raises cost; under-specifying blocks import.
-- **Tyres**, plus RHD/LHD, refrigeration/hydraulics, PTO and other fitments.
-## Step 2 — Engineer the Specification to the Work
-- **Frame**: double-layer (reinforced) chassis for overload-prone/rough work.
-- **: reinforced drive axles for traction/load; final-drive ratio matched to grade and GVW.
-- **Suspension, brakes, tyres** sized to GVW/terrain; cooling/intake for hot/dusty environments.
-- **Superstructure **: for dump/tanker/reefer/sweeper, the body is a separate engineering decision from the chassis — specify material, thickness and lift/pump system (see the Foton reefer page for chassis/box/unit separation).
-## Step 3 — Write Tender-Grade Acceptance Criteria
-Avoid "looks the same, built weaker" disputes with hard, measurable contract parameters. A **real Chinese tender** for dump trucks (Hunan Road & Bridge, Dushanbe-Tajikistan project, 15 units; VERIFIED tender document) bound the supplier to: cargo body **≥15 m³**, **T700 high-strength wear-resistant steel**, floor **≥10 mm**, side **≥8 mm**, specified gear count and hoist type. Apply the same discipline: name engine/gearbox/axle brands and models, steel grade and plate thicknesses, body volume, tyre brand, paint/weld standards, and the inspection method (factory witness, third-party inspection, or arrival acceptance).
-## Step 4 — Vet the Exporter Against the **2026** Licence Regime (official)
-China's vehicle export rules are now anchored in current primary documents (VERIFIED):
-- **MOFCOM General Office Notice on the 2026 automobile/motorcycle export-licence application (商办贸函〔2025〕408号, 28 Sep 2025)** moves applications online (ecomp.licence.org.cn), with local-commerce preliminary review and a published qualified-enterprise list.
-- **Joint Announcement No. 54 (2025, MOFCOM/MIIT/GAC/SAMR)** places **pure-electric passenger vehicles (reference HS 8703801090) under an export-licence regime from 1 January 2026**.
-- The **2026 qualified-enterprise list** was published 30 Dec 2025; a separate **four-ministry notice (Nov 2025) tightens used-car export management**, requiring export-licence fields (brand, model, registration and transfer-for-export dates) to match the vehicle registration certificate.
-CV-specific diligence:
-- Prefer a **tier-1 authorised dealer or the factory**; verify years in business, certifications, references and capacity (method in the supplier-vetting guide).
-- Confirm the exporter is on the **current-year** qualified list and holds the correct export licence for the category (new-energy passenger licensing is new for 2026).
-- **New** trucks need OEM authorisation; **used** trucks must meet the current used-car export conditions (including the registration-certificate consistency rules) and third-party inspection.
-- For FAW/Sinotruk/Shacman/Foton/Dongfeng, verify the **overseas authorised service/spare-parts network** in the destination — a cheap truck without local parts is a fleet liability.
-## Step 5 — Assemble the Export Document Chain
-Customs export declaration; commercial invoice stating Incoterm and insured value; packing list carrying **VIN, engine number and unit/container numbers**; foreign-trade contract with technical annex, acceptance standard and after-sales terms; certificate of origin; OEM authorisation; the export licence where the category requires it; and third-party/used-vehicle certificates where applicable.
-## Step 6 — Destination Compliance Before Production
-Research the destination **before** tooling: banned/restricted models, RHD/LHD, vehicle-age rules, accident/modified-unit treatment and the accepted emission stage — country-specific (see the Saudi, Russia and Chile guides). A China-domestic-spec fleet is not automatically importable.
-## What AutoBridge Adds Beyond a Sourcing-Agent Template
-Agents quote a truck; The recommended framework is to translate the buyer's **duty cycle into a measurable technical annex**, check the exporter against the **2026 qualified list and the new pure-EV passenger licensing rule by category**, and specify **tender-grade, inspectable acceptance criteria** (steel grade, plate thickness, named axles/gearbox) so a fleet cannot be delivered in a weaker build that still "matches the model name."
-## Negotiation Dimensions (no invented numbers)
-Pin contractually: unit price vs specification level, spare-parts/common-wear kit, technician training/warranty, milestone-tied delivery schedule, inspection rights and phased payment against production/inspection evidence. Obtain real figures per project; never assume a bulk-discount percentage.
-## Pre-Contract Checklist
-- Duty cycle, GVW/payload, fuel and destination emission stage fixed in writing.
-- Frame/axle/suspension/body materials and thicknesses to tender grade.
-- Exporter verified on the **2026** qualified list with the correct category export licence + OEM authorisation (or used-car conditions).
-- Local OEM service/spare-parts coverage confirmed.
-- Document chain (VIN/engine number, Incoterm, insured value, licence) templated.
-- Destination RHD/age/emission/import restrictions cleared.
-- Acceptance/inspection method and after-sales embedded in the contract.
-## Frequently Asked Questions
-**What changed in China's export rules for 2026?** The 2026 application round runs under 商办贸函〔2025〕408号, and from 1 Jan 2026 pure-electric passenger vehicles (HS 8703801090) require an export licence under joint Announcement No. 54; use the current-year qualified list.
-**How do I stop weaker steel/axles being substituted?** Write measurable criteria (steel grade, plate thickness, named axle/gearbox models, body volume) into the contract and inspect against them, as real tenders do.
-**New vs used export condition?** New units need OEM authorisation and category licensing; used units must meet the Nov-2025 four-ministry rules (registration-certificate consistency) plus third-party inspection.
-**Price or local parts support?** For a working fleet, local service/spare-parts coverage often sets total cost of ownership — verify the OEM network before choosing on price.
-**Are bulk discounts/MOQs published?** No — they are per-project commercial terms; negotiate against a tightly specified technical annex.
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE:: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE:: 2026-09-05
-- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- ALT by language:
+- ** H1 **: 중국에서 상업적 트랙 함침: 의무 주기, 수출상 면허 및 합격
+- ** 물류 키워드 **: 대량 상업 트럭 함대 조달 중국 사양 수출 면허
+- ** 보조 검색 조건 **: 중국 덤프 트럭 6x4 8x4 수출, 2026 차량 수출 면허 MOFCOM, 순수 EVA 여객 수출 면허 HS 8703801090, 강화 차축 프레임, 함대 입찰 합격, 상용 차량 수출 서류
+- ** 내부 링크 제안**: /vehicles/shacman- x3000-dump-truck/; /vehicles/sinotruk-howo- t7h-tractor/; /vehicles/foton-aumark-refrigerated-truck/; /guides/verify-china-car-export-supplier/
+- **Image 제안**: 의무 주기에 spec worksheet; 강화된 구조/아크릴; 단단한 합격 검사; 수출 문서 사슬
+- **ALT 제안**: "트럭 함대 의무 주기 명세 worksheet"; "두 배 층 구조와 강화된 드라이브 차축"; "공장에 깃털 부드러운 합격"
+## Fleet는 주문 설계, 선반에서 선택되지 않음
+6 × 4 광산 팁 주는 사람, 8 × 4 고속도로 덤프, 장거리 트랙터 및 암초 또는 유조선 수요 다른 파워 트레인, 프레임, 차축 및 신체 선택, 대량 주문은 중국 ** 현재 (2026) 수출 면허증**, 단단한 문서 체인 및 부드러운 스타일 수용을 충족해야합니다. 이 가이드는 함대 구매자, 계약자 및 CV 수입업자에게 반복적인 경로를 줍니다. 그것은 할인, MOQ 또는 리드 타임을 인용합니다. 프로젝트 당 협상되며 권한이없는 공공 인물이 존재합니다.
+## 단계 1 - 가격 전에 의무주기 정의
+작성에서, 운영 현실 (상업 차량 조달 지침 당):
+- **출원/구성**: 6 × 4 채석장 운반대 8 × 4 고속도로 덤프 대 4 × 2 트랙터; 도시 배포 대 장거리.
+- **Payload/GVW Target**, 지형(급, 비파형 도로), 연평균, 기후.
+- ** 연료 **: 디젤 대 LNG / CNG, 지역 연료 가용성 및 배출 규칙에 대해 선택, 중국 국내 습관이 아닙니다.
+- **Destination-accepted 배출 단계 ** (예: 유로 II vs 유로 V 클래스) - over-specifying raise cost; under-specifying block import.
+- ****, RHD/LHD, 냉동/수압, PTO 및 기타 피팅 플러스.
+## 단계 2 - 작업에 대한 사양을 설계
+- **Frame**: 더블 레이어(강렬) 섀시(overload-prone/rough work)
+- **Axles**: 견인/부하를 위한 강화된 드라이브 차축; 급료와 GVW에 일치된 마지막 드라이브 비율.
+- **Suspension, Brake, Tires** GVW/terrain에 사이즈; 냉/흡입 온도/건조 온도.
+- **Superstructure**: Dump/tanker/reefer/sweeper의 경우, 본체는 포좌에서 분리된 기술설계 결정입니다 — 물자, 간격 및 lift/pump 체계를 지정하십시오 (섀시/box/unit 별거를 위한 Foton 화가 페이지를 보십시오).
+## 단계 3 - Tender-Grade 수용 성 표준을 작성
+"과 같은 것, 내장 된 약점"의 분쟁을 방지, measurable 계약 매개 변수. 덤프 트럭 (한난 도로 & 교량, Dushanbe-Tajikistan 프로젝트, 15 단위를 위한 ** 진짜 중국인 단단한 **; VERIFIED 입찰 문서) 공급 업체를 다음과 같이 바인딩하십시오. cargo body **≥15 m³**, ** T700 고강도 내마모성 스틸**, ** ≥ 10 mm **, ** ≥ 8 mm **, 지정된 기어 카운트  and  호이스트 유형. 동일한 분야를 적용하십시오: 이름 엔진/gearbox/axle 상표  and  모델, 강철 급료  and  판 간격, 몸 양, 타이어 상표, 페인트/용접된 기준,  and  검사 방법 (공장 증인,  third-party inspection, 또는 도착 합격).
+## 단계 4 - 수출상에 대한 *** 2026 ** 면허 (공식)
+중국의 차량 수출 규칙은 현재 기본 문서 (VERIFIED)에서 닻됩니다:
+- **MOFCOM 일반 사무실은 2026 자동차 / 오토바이 수출 면허 응용 프로그램에 대한 통지 (商办贸函 〔 2025 〕 408 号,  28 Sep 2025)** moves applications online (ecomp.licence.org.cn), 현지화 사전 검토  and  등록된 자격있는 기업 목록.
+- **Joint 발표... 54 (2025년,  MOFCOM/MIIT/GAC/SAMR)** places **pure-electric passenger vehicles (reference HS 8703801090) under an export-licence regime from 1 January 2026**.
+- ** 2026 인증 기관 목록**는 30 Dec 2025를 출판했습니다. a separate **four-ministry notice (Nov 2025) tightens used-car export management**, 수출 면허 분야 (상표, 모델, 의정부  and  차량 등록 증명서와 일치하기 위해 Transfer-for-export 날짜).
+CV 별 diligence:
+- ** Tier- 1 승인 딜러 또는 공장 **; 사업, 인증, 참조 및 용량 (공급 업체 - 팁 가이드에서 메달)에서 년을 확인합니다.
+- 수출업자는 ** 현재 년** 자격이 된 명부에 있고 종류 (새로운 에너지 여객 면허는 2026를 위해 새로운)를 위한 정확한 수출 면허를 붙듭니다.
+- ** 새로운 ** 트럭은 OEM 허가를 필요로 합니다; ** 사용** 트럭은 현재 중고차 수출 조건을 충족해야 합니다 (등록 증명 일관성 규칙 포함)  and  third-party inspection.
+- FAW/Sinotruk/Shacman/Foton/Dongfeng를 위해, 허가한 서비스/스파르 부품 네트워크**를 인도하는 것을 확인합니다 — 국부적으로 부속 없이 싼 트럭은 함대 책임입니다.
+## 단계 5 - 수출 문서 사슬을 조립
+세관 수출 선언; 상업 송장은 Incoterm 및 보험 가치를 평가; 포장 목록 운반 ** VIN, 엔진 번호 및 단위 / 컨테이너 번호 **; 기술 별관, 합격 표준 및 판매 후 조건과 외국 무역 계약; 원산지 증명서; OEM 허가; 범주가 그것을 필요로하는 수출 면허; 그리고 적용 가능한 타사 / 사용 차량 인증서.
+## 단계 6 - 생산 전에 목적지 준수
+대상을 연구 ** 도구화: 금지 / 제한 모델, RHD / LHD, 차량 - 룰, 사고 / 단위 처리 및 허용 배출 단계 - 국가 별 (사우디, 러시아 및 칠레 가이드 참조). 중국-domestic-spec 함대는 자동으로 수입되지 않습니다.
+## AutoBridge는 Sourcing-Agent Template을 넘어 추가합니다.
+대리인은 트럭을 인용합니다; 권장 프레임 워크는 구매자의 ** 두드 사이클을 measurable 기술 별**로 번역하는 것입니다, ** 2026 자격을 갖춘 목록과 범주에 의해 새로운 순수 EV 여객 라이센스 규칙을 확인**, 그리고 ** 입찰 등급, 검사 가능한 수용 기준** (강철 급료, 판 간격, 액슬/가버 박스 이름) 그래서 함대는 여전히 "모델 이름의 매칭"이 약한 빌드에서 전달 될 수 없습니다.
+## 협상 차원 (발명 번호 없음)
+Pin 수축가능: 단위 가격 대 명세 수준, 예비 품목/복사 장비, 기술 훈련/방사, 이정표 묶인 납품 계획, 검사 권리 및 생산/검사 증거에 대하여 단계적인 지불. 프로젝트 당 실제 인물을 얻을; 대량 할인 비율을 가정하지 마십시오.
+## Pre-Contract Checklist의 사전 계약
+- 의무 주기, GVW/payload, 연료 및 목적지 방출 단계는 쓰기에서 고쳐졌습니다.
+- Frame/axle/suspension/body 물자 및 경도를 연화하는 간격.
+- ** 2026 ** 정확한 카테고리 수출 면허 + OEM 허가 (또는 중고 자동차 조건)를 가진 자격이 된 명부.
+- 국부적으로 OEM 서비스/스파이어 부속 적용은 확인했습니다.
+- 문서 사슬 (VIN/engine 수, Incoterm, 보험 가치, 면허)는 템플렛을 덧댑니다.
+- RHD/age/emission/import 제한을 지우십시오.
+- 수락/관측 방법 및 판매 후는 계약에 끼워넣었습니다.
+## 자주 묻는 질문
+**2026에 대한 중국의 수출 규칙에서 변경? ** 2026 응용 프로그램 라운드 商办贸函 〔 2025 〕 408 号, 1 월부터 2026 순수 전기 여객 차량 (HS 8703801090)는 합동 발표 No.의 밑에 수출 면허를 요구합니다. 54; 현재 년 자격있는 목록을 사용하십시오.
+**약강/축구를 대체하는 방법은?** Measurable 표준 (강철 급료, 판 간격, 액슬/gearbox 모형, 몸 양)를 계약으로 씁니다 그리고 그들에 대하여, 진짜 입찰으로 검열하십시오.
+**새로운 대 사용 수출 조건?** 새로운 단위는 OEM 허가 및 종류 면허를 필요로 합니다; used units must meet the Nov-2025 four-ministry rules (registration-certificate consistency) plus third-party inspection.
+** 가격 또는 지역 부품 지원?** 작업대의 경우, 로컬 서비스/스파어 부품 적용은 종종 소유권의 총 비용을 설정 — 가격 선택하기 전에 OEM 네트워크를 확인.
+** 대량 할인 / MOQ가 게시됩니까? ** No - 그들은 프로젝트 상업적인 기간입니다; 단단히 지정된 기술적인 별개를 협상하십시오.
+## 이미지 기록
+- IMAGE_ASSET_PATH: 저장소에 보안되지 않음
+- ORIGINAL_IMAGE_URL: 캡처되지 않음
+- SOURCE_PAGE: 캡처되지 않음
+- SOURCE_FILE_PAGE: 적용되지 않음 - 확인된 후보자 미디어 파일 없음 (Asert에 대한 라이센스 없음)
+- permission_HOLDER: 확인되지 않은
+- 라이센스_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE:: 2026-09-06
+- MODEL_TOPIC_MATCH: 정확한 모델/버전 (또는 가이드 항목)과 참고 시장과 일치해야 합니다.
+- IMAGE_SCOPE_NOTE: 정확한 모델 가족/토닉에만 일치; 특정 트림/모형, 실제 VIN, 인-인 검사 또는 실제 거래에 실패하지 않아야 합니다.
+- IMAGE_RIGHTS_STATUS: FAIL (허가 된 자산 없음; placeholder 또는 "이전 이미지 유지"주의 허용되지 않음)
+- BLOCK_REASON:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: 재사용 가능한 이미지는 보안되지 않았습니다. Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 없으며, 주식 라이브러리는 인증된 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 존재하지 않습니다. Kept FAIL 오히려 asserted 보다는.
+- 언어 별 ALT:
   - **EN**: AutoBridge export-buyer reference — Commercial-truck fleet procurement from China, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Commercial-truck fleet procurement from China, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Commercial-truck fleet procurement from China, Leitfaden für Fahrzeugexport-Einkauf
@@ -80,20 +83,20 @@ Pin contractually: unit price vs specification level, spare-parts/common-wear ki
   - **AR**: مرجع AutoBridge لمشتري التصدير — Commercial-truck fleet procurement from China, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Commercial-truck fleet procurement from China, 汽车出口采购指南
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## 소스 및 검증
+| 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
 |---|---|---|---|---|---|---|
-| 2026 automobile/motorcycle export-licence application notice (商办贸函〔2025〕408号) | MOFCOM (**government official**) | CN | https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_7c50d6688ca34d1786a1bfd2ccde7d19.html | 2026-09-03 | **VERIFIED** | Online application system, local review, qualified-list process |
-| Pure-EV passenger export licensing from 2026-01-01 (Announcement No. 54; HS 8703801090) | MOFCOM/MIIT/GAC/SAMR (**government official**) | CN | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-03 | **VERIFIED** | 2026 NEV-passenger export-licence regime |
-| 2026 qualified export-licence enterprise list | MOFCOM Foreign Trade Dept (**government official**) | CN | http://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_6685d244c4f4429e9a749a1a9f34bf19.html | 2026-09-03 | **VERIFIED** | Current-year qualified enterprises |
-| Further strengthening used-car export management (Nov 2025) | MOFCOM/MIIT/MPS/GAC via gov.cn (**government official**) | CN | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | **VERIFIED** | Used-car export-licence field/registration-certificate consistency |
-| 15-unit dump-truck tender (binding technical indicators) | Hunan Road & Bridge Group (real tender) | CN→Central Asia | http://www.hnrb.cn/2025/zhaobiaogonggao_0925/9717.html | 2026-09-02 | **VERIFIED** | ≥15 m³, T700 steel, floor ≥10 mm, side ≥8 mm, lift type |
-| Duty-cycle/customisation guidance (double-layer frame, duty-rated axles) | CV manufacturers (Chary/FAW guidance; Chengli 12-step flow) | CN→Global | https://www.charymachinery.com/the-step-by-step-guide-for-international-buyers-sourcing-commercial-vehicles-from-china.html | 2026-09-02 | CROSS_CHECKED | Engineering/process guidance |
-*Confidence note: the 2026 export-licence regime and the tender acceptance indicators are VERIFIED on government/real-tender sources. Engineering/process guidance is manufacturer/industry (CROSS_CHECKED); current-year lists, OEM overseas networks and all commercial terms (discount/MOQ/lead time) are obtained live and never estimated.*
-## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: Global (commercial vehicles sourced from China)
-- **Verification method**: Government primary sources for the 2026 licence regime; a real tender for acceptance criteria; commercial figures left to negotiation
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+| 2026 자동차/모터 사이클 수출 면허 신청 고시 (商办贸函 〔 2025 〕 408 号) | MOFCOM (**정부 공식**) | 담당자: Mr. wang | https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_7c50d6688ca34d1786a1bfd2ccde7d19.html | 2026-09-03 | ** 인증** | 온라인 신청 시스템, 현지 검토, 자격있는 목록 과정 |
+| 2026-01-01에서 licensing 순수한 EVA 여객 수출 (발표 아니오 54; HS 8703801090) | MOFCOM/MIIT/GAC/SAMR (**정부 공식**) | 담당자: Mr. wang | https: //wms.mofcom.gov.cn/zcfb/wmgl/art/ 2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-03 | ** 인증** | 2026 NEV-passenger 수출 면허 |
+| 2026 인증 수출 면허 기업 목록 | MOFCOM 외국인 무역 부 (**government Official**) | 담당자: Mr. wang | HTTP: //wms.mofcom.gov.cn/zcfb/wmgl/art/ 2025/art_6685d244c4f4429e9a749a1a9f34bf19.html | 2026-09-03 | ** 인증** | 현재 년 자격있는 기업 |
+| 중고차 수출 관리 강화 (Nov 2025) | MOFCOM/MIIT/MPS/GAC gov.cn (**government 공식**) | 담당자: Mr. wang | https: //www.gov.cn/zhengce/zhengceku/ 202511/content_7048644.htm번으로 | 2026-09-03 | ** 인증** | 중고차 수출 면허 분야/재류 증명 견실함 |
+| 15-unit 덤프 트럭 입찰 (기술 지표) | 후난도로 & 브리지 그룹 (실내 입찰) | CN→중앙 아시아 | HTTP: //www.hnrb.cn/ 2025/zhaobiaogonggao_0925/9717.html번 | 2026-09-02 | ** 인증** | ≥15 m³, T700 강철, 층 ≥ 10 mm, 측 ≥ 8 mm, 리프트 타입 |
+| 의무 주기/주문 지도 (두 배 층 구조, 의무 정격 차축) | CV 제조업체 (Chary/FAW 안내; Chengli 12-step 흐름) | CN→글로벌 | https: //www.charymachinery.com/the-step-by-step-guide-for-international-buyers-sourcing-commercial-vehicles-from-china.html에 대한 자세한 정보 | 2026-09-02 | CROSS_체크 | 공학/공정 지도 |
+*Confidence 참고: 2026 수출 면허권 및 입찰 합격 지시자는 정부/실내 종료 근원에 VERIFIEDEDED입니다. 엔지니어링 / 공정 지침은 제조업체 / 산업 (CROSS_CHECKED); 현재 년 목록, OEM 해외 네트워크 및 모든 상업 용어 (discount / MOQ / 리드 타임)는 라이브를 얻고 결코 예상되지 않습니다. ****************************************************************************************************************************************************************************************************************************************************************
+## 편집 리뷰
+- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · [편집 정책](/편집/) 당 방법
+- **마지막 검토**: 2026-09-05
+- **참가 시장 **: Global (중국에서 공급되는 상업용 차량)
+- ** 인증 방법**: 2026 면허권 정부의 기본 소스; 합격 기준을 위한 진짜 입찰; 협상에 좌측 상업적인 숫자
+- **Editorial 표준 **: 위에 나열된 소스에서 연구 및 작성 (책상 연구; 첫 번째 직접 운전, 눈물 또는 수입은 주장). 소스 신뢰는 행당 표시됩니다. 독립적으로 확인 할 수없는 점은 사실로 asserted보다 검증 항목으로 표시됩니다.
 #AutoBridge #FleetProcurement #CommercialTruck #ExportLicence #DutyCycle

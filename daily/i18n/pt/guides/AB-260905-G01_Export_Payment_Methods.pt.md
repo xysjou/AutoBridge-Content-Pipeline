@@ -7,8 +7,8 @@
 - **Chave principal**: métodos de pagamento de exportação t t lc risco
 - ** Termos de pesquisa secundários**: condições de pagamento de exportação; L/C irrevogável; depósito T/T; coleção documental; risco de conta aberta; UCP600
 - ** URL sugerido**: /guides/export-payment-methods-t-t-t-lc-risk/
-- ** Intenção de pesquisa**: 出口商如何在汽车订单中选择并安全使用电汇/信用证等结算方式、识别软条款与银行风险
-- **As sugestões de ligação interna**: /guias/incoterms- 2020-selection-guide/, /guias/verify-chinese-car-export-supplier-history/, /guias/export-fx-settlement-trade-fx-registration/
+- **Intenção de pesquisa**: 出口商如何在汽车订单中选择并安全使用电汇/信用证等结算方式, 识别软条款与银行风险
+- **As sugestões de ligação interna**: /guides/incoterms- 2020-selection-guide/, /guides/verify-chinese-car-export-supplier-history/, /guides/export-fx-settlement-trade-fx-registration/
 - **Schema Scope** Artigo (sem Produto/Oferta/Revisão)
 
 ## Por que a estrutura de pagamento decide se um veículo é seguro
@@ -16,7 +16,7 @@ Para um exportador de veículos chinês, o método de pagamento é uma ferrament
 
 ## Como os cinco instrumentos realmente mudam de risco
 - **T/T (transferência telegráfica)** é uma remessa direta. No comércio de veículos, é normalmente dividido em um depósito antes da produção e um saldo contra uma cópia/telex-libertação do conhecimento de embarque. O depósito protege o exportador contra cancelamento em uma unidade de compra; o tempo de saldo protege o comprador de pagar por um carro não enviado.
-- **L/C (carta de crédito)** substitui o crédito bancário pelo crédito comprador. Em UCP600 um crédito é presumido irrevogável, a menos que expressamente diga o contrário, e o pagamento liga-se **compliing presentation** — documentos que correspondem às condições do crédito em seu rosto.
+- **L/C (carta de crédito)** substitui o crédito bancário pelo crédito comprador. Em UCP600, um crédito é presumido irrevogável, a menos que expressamente diga o contrário, e o pagamento liga-se **cumprindo apresentação** — documentos que correspondem às condições do crédito em seu rosto.
 - **D/P (documentos contra pagamento)** e **D/A (documentos contra aceitação)** são coleções documentais através de bancos; os bancos lidam com documentos, mas não ** dão um compromisso de pagamento tipo L/C. Em D/A, o comprador assume a mercadoria com uma promessa de pagar mais tarde, que está perto de risco de conta aberta.
 - **O/A (conta aberta)** significa que o comprador paga após receber os bens; é o mais favorável ao comprador e a maior exposição para o exportador.
 
@@ -38,20 +38,23 @@ Mesmo um L/C limpo não cura a exposição às sanções sobre o comprador/banco
 ** O que é uma separação segura T/T?** Um depósito de produção mais saldo contra provas de transporte; as percentagens exactas são uma decisão comercial, não uma regra fixa.
 **D/P versus D/A?** No âmbito do D/P, o comprador paga para obter documentos; no D/A aceita e paga mais tarde — risco muito mais elevado de exportador.
 ** Devo aceitar O/A para um primeiro comprador?** Geralmente não sem seguro de crédito, segurança ou uma relação estabelecida.
-** A UCP600 substitui o meu contrato?** Não — A UCP600 rege o crédito quando é constituída; o contrato de venda e a Incoterm ainda fixam o acordo.
+** O UCP600 anula o meu contrato?** Não — UCP600 rege o crédito quando incorporado; o contrato de venda e Incoterm ainda fixam o negócio.
 
 
 ## Fontes e Verificação
 | Origem | Organização | Mercado | Nível | Confiança | URL | Factos corroborados |
 |---|---|---|---|---|---|---|
-| 跨境收款：信用证法律逻辑与风险防线（二） | 东莞市人民政府（转国际经贸业务） | NC | T1 | VERIFICADO | https://www.dg.gov.cn/zwgk/zfxxgkml/smch/qt/gjmyyj/content/post_4407585.html | UCP600不可撤销, 信用证分类与风险 |
-| 信用证核心特点（UCP600第二条定义） | 东莞市贸促会（CCPIT） | NC | T1 | VERIFICADO | https://www.dg.gov.cn/ccpit/hd/ywzsk/gjjmyj/content/post_4405133.html | 信用证定义, 银行信用, 相符交单 |
-| 国际贸易单证业务（教材，流程佐证） | 清华大学出版社 | NC | T3 | CROSS_CHECKED | http://www.tup.tsinghua.edu.cn/upload/books/yz/037271-01.pdf | 单证相符, 审单流程 |
-| Câmara de Comércio Internacional (CCI) | Câmara de Comércio Internacional | NC | T1 | VERIFICADO | https://iccwbo.org/ | Editor das regras UCP600 e Incoterms; Quadro de financiamento comercial autorizado |
+| 跨境收款: 信用证法律逻辑与风险防线 (二) | 东莞市人民政府 (转国际经贸业务) | NC | T1 | VERIFICADO | https://www.dg.gov.cn/zwgk/zfxxgkml/smch/qt/gjmyyj/content/post_4407585.html | UCP600 不可撤销, 信用证分类与风险 |
+| 信用证核心特点 (UCP600 第二条定义) | 东莞市贸促会 (CCPIT) | NC | T1 | VERIFICADO | https://www.dg.gov.cn/ccpit/hd/ywzsk/gjjmyj/content/post_4405133.html | 信用证定义, 银行信用, 相符交单 |
+| 国际贸易单证业务 (教材, 流程佐证) | 清华大学出版社 | NC | T3 | CROSS_CHECKED | http://www.tup.tsinghua.edu.cn/upload/books/yz/037271-01.pdf | 单证相符, 审单流程 |
+| Câmara de Comércio Internacional (CCI) | Câmara de Comércio Internacional | NC | T1 | VERIFICADO | https://iccwbo.org/ | Editor de UCP600 e regras de Incoterms; quadro de financiamento comercial autorizado |
+| Seguros de crédito e de exportação a curto prazo | China Export & Credit Insurance Corporation (SINOSURE 中国信保) | INT/CN | T1/T2 | VERIFICADO | https://www.sinosure.com.cn/ | O risco de crédito de conta aberta (O/A) e de recolha documental (D/P) é inseparável; contexto de seguro de crédito à exportação para escolha a prazo de pagamento |
+| Conselho da China para a Promoção do Comércio Internacional (CCPIT) | Conselho da China para a Promoção do Comércio Internacional (CCPIT 中国贸促会) | NC | T1/T2 | VERIFICADO | https://www.ccpit.org/ | Organismo nacional de promoção do comércio: L/C e orientação e certificação de documentos comerciais; distinto das reproduções da administração local |
+| ICC Soluções de finanças comerciais (UCP 600 / URC 522 / proprietário da regra URDG) | Câmara de Comércio Internacional | INT | T1/T2 | VERIFICADO | https://iccwbo.org/business-solutions/trade-finance/ | O ICC é o conjunto de regras para L/C (UCP 600), para as colecções (URC 522) e para as garantias (URDG); página mais profunda para além da página inicial |
 ## Revisão Editorial
 - **Autor**: AutoBridge Export Editorial Team · [autores](/autores/) · [Política editorial](/política editorial/)
 - ** Última revisão**: 2026-09-05
-- **Mercado de referência**: 通用（国际结算框架，非单一国家法规）
+- **Mercado de referência**: 通用 (国际结算框架, 非单一国家法规)
 - ** Método de verificação**: Investigação de escritório contra as fontes abaixo indicadas; especificação de referência do mercado chinês apenas se for explicitamente citado um mercado de exportação separado.
 - ** Transparência**: Foi utilizada a elaboração assistida por IA. Este artigo é baseado em pesquisa documental e QA automatizado. Não é exigido qualquer ensaio em primeira mão, a menos que explicitamente documentado; confirmar os requisitos sensíveis ao tempo e específicos do destino antes de proceder à sua transformação.
 
@@ -59,12 +62,15 @@ Mesmo um L/C limpo não cura a exposição às sanções sobre o comprador/banco
 - **IMAGE_ASSET_PATH**: nenhum protegido no repositório
 - ** ORIGINAL_ IMAGE_ URL**: não capturado
 - ** ORIGINAL_ PAGE**: não capturado
+- **SOURCE_FILE_PAGE**: não aplicável — nenhum arquivo de mídia candidato identificado (sem licença para afirmar)
 - **RIGHTS_ HOLDER**: não confirmado
 - **LICENSE_OR_USAGE_BASIS**: nenhuma protegida — A presença na página web do OEM não é uma licença de reutilização comercial
-- **CHECKED_DATE**: 2026-09-05
+- **CHECKED_DATE**: 2026-09-06
 - **MODEL_TOPIC_ MATCH**: Métodos de pagamento exatos na exportação de veículos chineses
+- **IMAGE_SCOPE_NOTE**: a imagem deve corresponder apenas à família/tópico do modelo exato; não deve implicar uma guarnição específica, ano do modelo, VIN real, inspeção presencial ou uma transação real
 - **IMAGEM_RIGHTS_STATUS**: FALHA
-- **ALT (línguas 12)**:
+- **BLOCK_REASON**: Nenhuma imagem reutilizável poderia ser segura: Wikimedia Commons/Flickr são inalcançáveis a partir do ambiente de pesquisa, bibliotecas de estoque requerem acesso autenticado API/licença, e uma imagem de página web OEM NÃO é uma concessão de reutilização comercial. Nenhuma foto do AutoBridge existe. O registro manteve FALHA em vez de afirmar.
+- **ALT (12 línguas)**:
   - **EN**: export payment methods, Chinese-market procurement guide export buyer reference
   - **FR**: export payment methods, procurement guide du marché chinois, référence acheteur export
   - **DE**: export payment methods, Chinesischer procurement guide, Referenz für Exportkäufer

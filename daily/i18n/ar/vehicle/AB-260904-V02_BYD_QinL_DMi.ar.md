@@ -1,75 +1,78 @@
-# BYD Qin L DM-i (秦L DM-i): Fifth-Generation PHEV Saloon — China Specs for Exporters
+# (بحسب الـ (كين ل دي إم آي (秦 ل DM-i): صالون مهرجان الجيل الخامس - الصين
 
 ## SEO Metadata
-- **SEO Title**: BYD Qin L DM-i PHEV Specs & Export Guide (5th-Gen DM, CLTC)
-- **Meta Description**: Chinese-market BYD Qin L DM-i fifth-gen plug-in hybrid — 1.5L dedicated engine, LFP Blade battery 10.08/15.87 kWh, 80/120 km CLTC electric range, and exporter checks.
-- **Suggested URL**: /vehicles/byd-qin-l-dm-i/
-- ** H1 **: BYD Qin L DM-i (Fifth-Generation DM): Chinese-Market PHEV Specs and Export Notes
-- **Primary Keyword**: byd qin l dm-i specs export
-- **Secondary Search Terms**: Qin L DM-i 120km, fifth generation DM, BYD Blade battery PHEV, Qin L CLTC range, 秦L DM-i export
-- ** Internal Link Suggestions**: /guides/ev-shipping- un3556-imdg-compliance/; /guides/emission-compatibility-china-vehicles/;guides/export-vecle-document-package/
-- **Image Suggestions**: side profile Qin L DM-i; charging port; Blade battery underfloor diagram; 120km badge; rear cabin
-- **ALT Suggestions**: "BYD Qin L DM-i fifth generation PHEV sedan"; "Qin L DM-i 15.87kWh Blade battery 120km CLTC"
+- ** عنوان الحلقة**: دليل التصدير المقدم من شركة Qin L DM-i PHEV Specs (5th-Gen DM, CLTC)
+- ** وصف البيانات**: السوق الصينية حسب Qin L DM-i fifth-gen plug-in hybrid — 1.5L محرك مكرس،  LFP Blade battery 10.08/15.87 kWh,  80/120 km CLTC electric range,  and  -مصدرة
+- ** URL المقتطع**: /مركبات/قنبلة مدمجة/متر م/
+- ** H1 ** حسب رتبة كين ل. دي. إي (Fifth-Generation DM): الصينية - Market PHEV مذكرات سبيس وصادرات
+- ** كلمة رئيسية**: تصدير بواسطة قين l dm-i
+- ** مصطلحات البحث الثانية**: Qin L DM-i 120km، الجيل الخامس من إدارة الشؤون الإدارية، بطارية بضائع الصدر، نطاق Qin L CLTC، 秦 L DM-i export
+- ** مقترحات داخلية بشأن الربط**: /مبادئ توجيهية/رفع مستوى الشحن إلى un3556-imdg-compliance/؛ /مبادئ توجيهية/أجهزة متوافقة مع الوقود/المركبات/؛ /مبادئ توجيهية/تجميع وثائق المركبات/الصادرات
+- ** اقتراحات تتعلق بالصور الجانبية: Qin L DM-i؛ وشحن الموانئ؛ ورسوم البطارية البلاستيكية تحت سطح الأرض؛ و120km شارة؛ وكوخ خلفية
+- ** اقتراحات**: "BYD Qin L DM-i الجيل الخامس من PHEV sedan، "Qin L DM-i 15.87kWh بطارية بليد 120km CLTC
 
-## Buyer Context: Read It as a PHEV, Not an EV and Not a Conventional Hybrid
-The Qin L DM-i is a mid-size plug-in hybrid saloon built on BYD's **fifth-generation DM** architecture. Exporters most often mis-handle this car in one way: treating the two battery versions as interchangeable. They are not — the 80 km and 120 km electric-range cars carry different battery capacities and different use cases. This page documents the **Chinese-market line (REFERENCE MARKET: CHINA)**; no BYD overseas specification page was captured, so nothing here should be presented as a global or destination spec.
+## Buyer Context: اقرأ "إنه "بي في إي في" وليس "إي في" و ليس "هجينة تقليدية
+"كين إل دي إم آي" هو صالون مختلط في منتصف الحجم مبني على هيكل "بي دي" المصدرون في أغلب الأحيان يسيئون استخدام هذه السيارة بطريقة واحدة: معالجة نسختي البطارية كغير قابلين للتبادل They are not — the 80 km  and  120 km سيارة ذات برتقال كهربائي تحمل قدرات بطارية مختلفة  and  حالات مختلفة للاستعمال هذه الصفحة توثق خط السوق الصيني الصين**؛ ولم يتم تسجيل أي صفحة من مواصفات البيانات الخارجية، لذا لا ينبغي تقديم أي شيء هنا كنموذج عالمي أو مقصدي.
 
 ## PHEV Powertrain: Engine + Motor + Operating Mode
-| Item | Qin L DM-i (China reference) |
+| البند | Qin L DM-i (China reference) |
 |---|---|
-| Energy type | Plug-in hybrid (PHEV), fifth-gen DM |
-| Engine | 1.5 L dedicated hybrid petrol engine |
-| Transmission | E-CVT (Single-speed DHT, DM super-hybrid) |
-| Battery | LFP **Blade battery** |
-| Battery capacity | **10.08 kWh (80 km) / 15.87 kWh (120 km)** — version-specific |
-| Electric range (CLTC) | **80 km / 120 km** |
-| Test cycle | **CLTC** (not WLTP/NEDC — never quote a CLTC figure under another cycle) |
-| Fast charging | about 0.42 h for 30–80% on the 120 km car (single-source; confirm per OEM) |
-| Curb weight (representative) | 1775 kg |
-| Fuel tank | 65 L |
+| نوع الطاقة | Plug-in hybrid (PHEV), fifth-gen DM |
+| المهندس | 1.5 L محرك هجين مكرس للوقود |
+| التحويل | E-CVT (Single-speed DHT, DM super-hybrid) |
+| البطارية | LFP ** بطارية البليد** |
+| قدرة البطاريات | **10.08 kWh (80 km) / 15.87 kWh (120 km)** — version-specific |
+| النطاق الكهربائي (CLTC) | **80 km / 120 km** |
+| دورة الاختبار | ** CLTC** (ليس WLTP/NEDC - أبداً لاقتباس رقم لجنة مكافحة الإرهاب في إطار دورة أخرى) |
+| الشحن السريع | about 0.42 h for 30–80% on the 120 km car (single-source; (أ) يؤكد على كل عضو من أعضاء مكتب إدارة الشؤون الاقتصادية والاجتماعية |
+| وزن العملات (ممثل) | 1775 kg |
+| صهاريج الوقود | 65 L |
 
-A PHEV buyer needs four answers in order: **engine, drive motor, battery, charging/operating mode**. Here the dedicated 1.5L engine primarily generates/assists drive through a single-speed DHT; the driver switches between electric and hybrid modes rather than shifting gears. Match battery version to electric range on every order line.
+يحتاج مشترٍ من طراز PHEV إلى أربعة أجوبة من أجل: ** محرك، محرك، بطارية، شحن/عمل**. وهنا يولد المحركات المكرّسة البالغ عددها 1.5L في المقام الأول/المساعدون الذين يحركون خلال جهاز درائي واحد السرعة؛ ويبدل السائق بين العتاد الكهربائي والمهجن بدلا من نقل المعدات. طباعة البطارية المتطابقة إلى المدى الكهربائي على كل خط طلب
 
-## The Range Claim — Keep the Manufacturer Label Attached
+## مطالبة الرنج - إبقاء المصانع المتحركة
 - The 80/120 km figures are **CLTC** electric range.
-- A headline combined figure of roughly **2100 km on a full tank and full charge** appears in Chinese coverage as a **manufacturer-claimed** number. It must be labelled a factory claim, never presented as a measured result, and it is not comparable to a destination-cycle figure.
+- ويظهر في التغطية الصينية رقماً مدمجاً يبلغ نحو 2100 km ** على دبابة كاملة وشحنة كاملة** كمنتج مسموع**. ويجب أن يُسمّى بمطالبة مصنع، لا تقدم أبداً كنتيجة مقاسية، ولا يمكن مقارنة ذلك برقم دورة الوجهة.
 
-## Body and Cabin
-- Length / width / height: **4830 / 1900 / 1495 mm**
-- Wheelbase: **2790 mm**
-- Seats: **5** (single-source for seat count; confirm on trim sheet)
+## الجسم والكابين
+- Length / width /طول: ** 4830 / 1900 / 1495 mm **
+- Wheelbase: ** 2790 mm **
+- المقاعد: ** 5 ** (المصدر الرئيسي للعد على المقاعد؛ التأكيد على صفحة ثلاثية)
 
-## Version Differences That Must Not Be Blended
-- **80 km vs 120 km** = different battery pack (10.08 vs 15.87 kWh); charging hardware and trim also step up. State the version before any range sentence.
-- CLTC electric range and any combined-range claim sit on different test bases; do not add or compare them directly.
-- Chinese-line equipment is not evidence of export-market equipment without an OEM overseas page.
+## فروق في الفِرق لا يجب أن تكون مُتَزَوَّلة
+- ** 80 km مقابل 120 km ** = مجموعة بطارية مختلفة (10.08 مقابل 15.87 kWh)؛ وشحن معدات وقطع ثلاثية أيضا. يرجى تقديم النص قبل أي حكم من أحكام النطاق.
+- وتُعقد النطاق الكهربائي للجنة المعنية بمكافحة غسل الأموال وأي مطالبة مشتركة النطاق على قواعد اختبار مختلفة؛ ولا تضيفها أو تقارنها مباشرة.
+- ولا توجد معدات خطية صينية دليل على معدات سوق التصدير دون صفحة من طراز OEM في الخارج.
 
-## Overseas Buyer Verification Before Payment
+## التحقق من صحة المشترين قبل الدفع
 - The DM-i transaxle position determines the driven wheels — verify the layout on the VIN build sheet/certificate instead of treating front drive as implied by the hybrid system.
-1. **Battery version and capacity** written against the VIN (10.08 vs 15.87 kWh); do not accept a range number alone.
-2. **Test cycle** — keep CLTC labelled; ask for the destination cycle figure separately if the market publishes one.
-3. **Charging connector and AC/DC hardware** — Chinese GB/T charging does not automatically match the destination connector; confirm before promising home-charge compatibility.
-4. **PHEV battery shipping paperwork** — UN38.3 summary and any dangerous-goods documents per the IMDG 42-24 battery-shipping guide.
-5. **Emission/fuel type** and destination hybrid registration class; confirm the documents package from the export-document checklist.
+1. ** نسخة مطبوعة على متن شبكة فيينا الدولية (10.08 ضد 15.87 kWh) وقدرتها على ذلك**؛ ولا تقبل رقماً من مجموعة المواد وحدها.
+2. ** دورة الاختبار** - إبقاء لجنة التجارة الحرة لأمريكا اللاتينية ومنطقة البحر الكاريبي على علم؛ وطلب رقم دورة المقصد على حدة إذا كانت السوق تنشر واحدا.
+3. ** إقامة موصلات وأجهزة اتصال متصلة بالمعيار AC/DC** - لا تضاهي رسوم الشحن الصينية من نوع GB/T ربطا تلقائيا موصل الوجهة؛ وتؤكد قبل أن تبشر بالتوافق في رسوم السفر المنزلية.
+4. ** ورقة شحن بطاريات PHEV** - UN38.3  and  any dangerous-goods documents per the IMDG 42-24 battery-shipping guide.
+5. ** نوع الانبعاثات/الوقود** وفئة التسجيل الهجينة في المقصد؛ يؤكد مجموعة الوثائق الواردة من قائمة وثائق التصدير.
 
-## Request a Current Export Quotation
-No export price is published. The Chinese 2024 guide range (roughly RMB 99, 800–139, 800) is a **domestic, time-sensitive reference, not FOB/CIF**. Request a live quote with **Destination Country · Quantity · Preferred Trim (80/120 km) · LHD/RHD · Destination Port · Incoterm**.
+## طلب تخصيص موارد التصدير الحالية
+ولا يُنشر أي سعر تصدير. The Chinese 2024 guide range (roughly RMB 99, 800–139, 800) is a **domestic, time-sensitive reference, not FOB/CIF**. Request a live quote with **Destination Country · Quantity · Preferred Trim (80/120 km) · LHD/RHD · Destination Port · Incoterm**.
 
-## Frequently Asked Questions
-**What is the difference between the Qin L DM-i 80 and 120?** Battery capacity (10.08 vs 15.87 kWh) and CLTC electric range (80 vs 120 km), plus equipment steps — specify the version on the order.
-**Is the 2100 km range a tested figure?** No; it is a manufacturer-claimed full-tank-plus-full-charge figure and must be labelled as such.
-**Which test cycle is used?** The Chinese figures are CLTC; do not present them as WLTP or NEDC.
-**Does the Chinese charging connector work abroad?** Not automatically — GB/T hardware must be checked against the destination connector.
+## الأسئلة المتكررة
+** ما الفرق بين كين إل دي إم - آي 80  and  120؟** قدرة البطارية (10.08 ضد 15.87 kWh)  and  النطاق الكهربائي للشبكة (80 ضد 120 km) وبالإضافة إلى الخطوات المتعلقة بالمعدات - تحدد النسخة المطلوبة.
+** هل هو الرقم المُختبر في نطاق 2100 km؟ ** لا؛ إنه رقم مصنّع يُطلب منه رسماً كاملاً، ويجب أن يُسمّى على هذا النحو.
+** أي دورة اختبار تستخدم؟** والأرقام الصينية هي لجنة مكافحة الإرهاب؛ ولا تقدم هذه الأرقام بوصفها الهيئة العالمية للدبابات أو شركة ندبل.
+** هل يعمل الموصل الصيني في الخارج؟** ولا ينبغي تلقائياً فحص معدات GB/T على موصل الوجهة.
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
+## سجل الصور
+- لم يُؤمن أي منها في مستودع
 - ORIGINAL: IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
+- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
+- الحقوق - حقوق غير مؤكدة
+- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
+- CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
+- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات ويكيميو/فلكر غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات المسبقة/الرخصة، وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
 - ALT by language:
   - **EN**: AutoBridge export-buyer reference — BYD Qin L DM-i, plug-in hybrid vehicle / sedan
   - **FR**: Référence AutoBridge pour acheteurs export — BYD Qin L DM-i, véhicule hybride rechargeable / berline
@@ -84,28 +87,28 @@ No export price is published. The Chinese 2024 guide range (roughly RMB 99, 800�
   - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Qin L DM-i, مركبة هجينة قابلة للشحن / سيدان
   - **ZH**: AutoBridge 出口采购参考｜BYD Qin L DM-i, 插电混动车 / 轿车
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## المصدر: التحقق
+| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
-| Qin L DM parameter master table | Dongchedi database | CN | https://m.dongchedi.com/auto/params-carIds-x-9796 | 2026-09-04 | CROSS_CHECKED | Dimensions, wheelbase, battery, DHT, weight, tank |
-| Qin L DM configuration | Sohu Auto database | CN | https://db.m.auto.sohu.com/model_7361/config?sliding=1&selectedTrimId=176155 | 2026-09-04 | CROSS_CHECKED | Dimensions, CLTC range |
-| Qin L DM-i 2024 120km Leading trim | Sohu Auto database | CN | https://db.m.auto.sohu.com/trim_173018 | 2026-09-04 | CROSS_CHECKED | 120 km CLTC, domestic price reference |
-| Fifth-gen DM range & fuel-use analysis | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/18596386? | 2026-09-04 | SINGLE OURCE | Dedicated engine, fast-charge time, claimed combined range |
-| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
-| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
-| GB 38031 traction battery safety requirements (GB 38031-2025; new type applications mandatory from 2026-07-01) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFIED | Mandatory traction-battery safety requirement basis for the electrified powertrain |
-| GB 18384 electric vehicle safety requirements (GB 18384-2025) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VERIFIED | Electric-vehicle electrical/functional safety requirement basis |
-| GB 18352.6-2016 with amendment XG1-2026 (China- 6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
+| مطاول مظلة قين LM | قاعدة بيانات دونغشيدي | CN | https://m.dongchedi.com/auto/params-carIds-x-9796 | 2026-09-04 | صرخات | الطلقات، قاعدة العجلات، البطارية، الـ دي.إتش تي، الوزن، الدبابة |
+| تشكيلة إدارة الجودة | قاعدة بيانات سوهو | CN | https://db.m.auto.sohu.com/model_7361/config?sliding=1&selectedTrimId=176155 | 2026-09-04 | صرخات | الأبعاد، نطاق لجنة مكافحة الإرهاب |
+| Qin L DM-i 2024 120km الترميز | قاعدة بيانات سوهو | CN | https://db.m.auto.sohu.com/trim_173018 | 2026-09-04 | صرخات | 120 km من دولارات الولايات المتحدة، المرجع المحلي للأسعار |
+| تحليل استخدام الوقود في إطار النطاق الخامس - الجيل الخامس من نظام إدارة مخاطر الكوارث | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/18596386? | 2026-09-04 | SINGLE OURCE | محرك مخصص، وقت الشحن السريع، مطالَب به بحجم مشترك |
+| مصممو السيارات على الطرق - نظام الاستفسارات العامة | وزارة الصناعة وتكنولوجيا المعلومات في الصين | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | مفقود | التحقق من الصانع والنموذج المعتمد والهجوم (公告) |
+| GB 16735-2019 المركبات البرية - الاحتياجات من رقم تحديد المركبات | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | مفقود | تركيبة الشبكة وربطة بيانات مستعملة في نظام التحقق الخاص بالمشتري |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | مفقود | الشروط التقنية المتعلقة بسلامة المركبات في الصين والإطار الزمني الحالي/التنقيحي |
+| GB 38031 traction battery safety requirements (GB 38031-2025; تطبيقات جديدة من النوع إلزامية من 2026-07-01 | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | مفقود | قاعدة متطلبات السلامة في إطار نظام الرواسب الرواسب الإلزامية في مجال الطاقة الكهربائية |
+| GB 18384 electric vehicle safety requirements (GB 18384-2025) | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | مفقود | الأساس الذي يُحتَج به توفير السلامة الكهربائية/المهمة |
+| 18352.6-2016 GB مع التعديل XG1-2026 (الصين - 6 من انبعاثات ملوثات المركبات الخفيفة) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | مفقود | الصين - 6 مرحلة انبعاثات المركبات الخفيفة ومواعيد تنفيذ التعديل البالغ 2026 |
 
-*Confidence note: dimensions and range steps are cross-checked across two databases; engine detail, fast-charge time and the 2100 km claim are single-source/factory-claimed. No OEM overseas page captured — Chinese-market reference only.*
+* ملاحظة الملاءمة: يتم فحص الأبعاد وخطوات النطاق عبر قاعدتي بيانات؛ وتفصيل المحركات، والوقت السريع للشحن، والمطالبة البالغ عددها 2100 km، من مصادر واحدة/مطالبة ذات قيمة. ولم تُسجل أي صفحة من صفحة مكتب تنظيم الأسرة في الخارج - وهي مرجع من السوق الصينية فقط. ♪
 
-## Editorial Review
+## استعراض التحرير
 - ** Author**: AutoBridge Export Editorial Team; method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: China, 2024 Qin L DM-i fifth-gen (Chinese-market reference; CLTC stated; not a global spec)
-- **Verification method**: Two-database cross-check; battery versions separated; manufacturer claims labelled
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+- ** لم يُستعرض بعد**: 2026-09-05
+- ** سوق الإحالة**: الصين، 2024 شين ل م-ي من الفئة الخامسة (المرجع المتعلق بالسوق الصينية؛ ذكرت لجنة التجارة الحرة لأمريكا اللاتينية ومنطقة البحر الكاريبي؛ وليس مواصفات عالمية)
+- ** طريقة الفرز**: فحص قاعدة بيانات متطابقة؛ ونسخ البطاريات منفصلة؛ ومطالبات الصانع التي تحمل بطاقات تعريفية
+- ** الشفافية**: استُخدمت الصياغة المدعومة من منظمة العفو الدولية. وتستند هذه المادة إلى البحوث المكتبية وآلية الجودة. ولا يُزعم إجراء أي اختبار مباشر إلا إذا تم توثيقه بشكل صريح؛ ويؤكد متطلبات مراعية للوقت ومحددة للمقصد قبل التحول.
+- ** المعيار الإفريقي**: باحثة ومحررة من المصادر المذكورة أعلاه (بحوث مكتبية؛ ولا يُدَّعى عن أي قيادة مباشرة أو تمزق أو استيراد). وتظهر الثقة في المصدر في الصف الواحد؛ وأي نقطة لا يمكننا تأكيدها بشكل مستقل تعرض كبند تحقق بدلا من التأكيد على أنها حقيقة.
 
 **Tags**: #BYDQinLDMi #PHEVExport #FifthGenDM #BladeBattery #CLTCReference

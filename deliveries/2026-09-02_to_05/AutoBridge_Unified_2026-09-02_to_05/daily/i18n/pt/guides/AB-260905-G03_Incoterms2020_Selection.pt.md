@@ -1,18 +1,18 @@
-# Escolha dos incotermos 2020 na exportação de veículos chineses — Atribuição de risco e custos
+# Escolha dos incotermos 2020 na exportação de veículos chineses — atribuição de riscos e custos
 
 ## SEO Meta- dados
-- ** Título SEO**: Guia de Seleção de Incoterms 2020 para Exportação de Veículos: FOB, CIF, FCA, CIP, DDP e Mais
-- ** Descrição do Meta**: Escolha a regra certa do Incoterms 2020 para uma remessa de veículos: onde o risco e a transferência de custos, apenas para o mar versus termos multimodais, seguro sob CIF/CIP, e porque DDP maximiza o fardo do vendedor.
-- ** H1 **: Escolha dos incoterms 2020 na exportação de veículos chineses — Atribuição de risco e custos
-- **Chave principal**: incoterms Guia de seleção 2020
+- ** Título SEO**: Incoterms 2020 Guia de Seleção para Exportação de Veículos: FOB, CIF, FCA, CIP, DDP e Mais
+- ** Descrição do Meta**: Escolha a regra certa Incoterms 2020 para uma remessa de veículos: onde o risco e a transferência de custos, somente para o mar versus termos multimodais, seguro sob CIF/CIP, e por que DDP maximiza o fardo do vendedor.
+- ** H1 **: Escolha dos incotermos 2020 na exportação de veículos chineses — Atribuição de risco e custos
+- **Chave Primária**: incoterms 2020 guia de seleção
 - ** Termos de pesquisa secundários**: Incoterms 2020; FOB vs FCA; CIF vs CIP; Risco DDP; Termo multimodal; Transferência de risco
 - ** URL sugerido**: /guides/incoterms- 2020-selection-guide/
-- ** Intenção de pesquisa**: 汽车出口合同如何按运输方式选择Incoterms 2020术语、明确风险转移点与费用/保险责任
+- **Intenção de pesquisa**: 汽车出口合同如何按运输方式选择 Incoterms 2020 术语, 明确风险转移点与费用 / 保险责任
 - ** Ligações internas Sugestões**: /guias/exportações-pagamento-métodos-t-t-t-lc-risco/, /guias/marinho-carga-seguro-história/, /guias/quina-exportação-customs-declaração-única-janela/
 - **Schema Scope** Artigo (sem Produto/Oferta/Revisão)
 
 ## Iniciar a partir do modo de transporte, não hábito
-Incoterms 2020 contém **Eleven** regras divididas em aquelas para qualquer modo de transporte e aquelas tradicionalmente para transporte marítimo/fluvial. Na exportação de veículos, a primeira escolha é, portanto, se a mudança é de porto para porto oceano (RoRo/container) ou multimodal (caminhão-de-ferro/ferro mais mar, comum para o transporte de mercadorias na Ásia Central). Escolher um termo apenas para o mar para uma mudança multimodal cria uma lacuna em onde o risco passa.
+Incoterms 2020 contains **eleven** rules divided into those for any mode of transport  and  Os que são tradicionalmente destinados ao transporte marítimo/fluvial. Na exportação de veículos, a primeira escolha é, portanto, se a mudança é de porto para porto oceano (RoRo/container) ou multimodal (caminhão-de-ferro/ferro mais mar, comum para o transporte de mercadorias na Ásia Central). Escolher um termo apenas para o mar para uma mudança multimodal cria uma lacuna em onde o risco passa.
 
 ## Quando o risco realmente transfere
 - **FOB / FCA**: sob FOB (mar/via navegável) o risco passa quando as mercadorias são colocadas ** a bordo do navio; sob FCA (qualquer modo) o risco passa quando as mercadorias são entregues ao transportador do comprador no local nomeado. Para movimentos multimodal e em containerizado AFC é o ajuste mais limpo porque o risco e o controle se alinham com a entrega real, em vez de um momento de bordo que o vendedor não controla.
@@ -34,21 +34,23 @@ O vendedor organiza, sob CIF, um seguro marítimo mínimo para o benefício do c
 ** O CIF significa que o vendedor corre risco de destino?** Não — os riscos passam na expedição, embora o vendedor pague o transporte/seguro até ao destino.
 **CIF versus cobertura CIP?** CIP não é aplicável a seguros de nível superior ao CIF, sujeito a acordo.
 ** Por que é o DDP arriscado para um exportador chinês?** Torna o vendedor responsável pela liberação de importação de destino, direitos e impostos.
-** Quantas regras do Incoterms 2020?** Onze, em dois grupos de modo de transporte.
+** Quantas regras Incoterms 2020?** Onze, em dois grupos de modo de transporte.
 
 
 ## Fontes e Verificação
 | Origem | Organização | Mercado | Nível | Confiança | URL | Factos corroborados |
 |---|---|---|---|---|---|---|
-| 国际贸易术语图文精讲（Incoterms2020共11种/两大类） | 中国贸促会广西分会 | NC | T1 | VERIFICADO | https://www.ccpitgx.org/webcpitgx/2025/rcepjiedu_0624/15195.html | 11术语, 按运输方式分类, 风险费用划分 |
-| 2020国际贸易术语详解（FOB风险点改为装上船） | 浙江省贸促会 | NC | T1 | VERIFICADO | http://www.ccpitzj.gov.cn/art/2020/8/17/art_1229557691_11515.html | FOB/CFR/CIF, 船舷→装上船 |
-| 跨境电子商务贸易术语（风险转移教材） | 清华大学出版社 | NC | T3 | CROSS_CHECKED | https://www.tup.tsinghua.edu.cn/upload/books/yz/095136-01.pdf | 风险转移, 象征性交货 |
-| Regras de incoterms 2020 (ICC) | Câmara de Comércio Internacional | NC | T1 | VERIFICADO | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-rules-2020/ | autoritário editor de Incoterms 2020 |
+| 国际贸易术语图文精讲 (Incoterms2020 共 11 种 / 两大类) | 中国贸促会广西分会 | NC | T1 | VERIFICADO | https://www.ccpitgx.org/webcpitgx/2025/rcepjiedu_0624/15195.html | 11 术语, 按运输方式分类, 风险费用划分 |
+| 2020 国际贸易术语详解 (FOB 风险点改为装上船) | 浙江省贸促会 | NC | T1 | VERIFICADO | http://www.ccpitzj.gov.cn/art/2020/8/17/art_1229557691_11515.html | FOB/CFR/CIF, 船舷 → 装上船 |
+| 跨境电子商务贸易术语 (风险转移教材) | 清华大学出版社 | NC | T3 | CROSS_CHECKED | https://www.tup.tsinghua.edu.cn/upload/books/yz/095136-01.pdf | 风险转移, 象征性交货 |
+| Incoterms 2020 regras (ICC) | Câmara de Comércio Internacional | NC | T1 | VERIFICADO | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-rules-2020/ | autoritário editor de Incoterms 2020 |
 | WCO Instrumentos e ferramentas de origem | Organização Mundial das Alfândegas | NC | T1 | VERIFICADO | https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx | Regras de origem e instrumentos mantidos pela WCO |
+| Regras ICC (Proprietário da regra Incoterms 2020 — página dedicada) | Câmara de Comércio Internacional | INT | T1/T2 | VERIFICADO | https://iccwbo.org/business-solutions/icc-rules/ | Índice de regras do ICC Autoritativo confirmando Incoterms 2020 como o termo atual definido com direitos autorais e sua manutenção pelo ICC |
+| FIATA — Prática de transitários de mercadorias no âmbito dos incoterms | Federação Internacional das Associações de Transitários de Carga (FIATA) | INT | T1/T2 | VERIFICADO | https://www.fiata.org/ | Interpretação do ponto de entrega, transferência de risco e obrigações de transporte no âmbito dos incoterms |
 ## Revisão Editorial
 - **Autor**: AutoBridge Export Editorial Team · [autores](/autores/) · [Política editorial](/política editorial/)
 - ** Última revisão**: 2026-09-05
-- **Mercado de referência**: INT（国际商会规则框架）
+- **Mercado de referência**: INT(国际商会规则框架)
 - ** Método de verificação**: Investigação de escritório contra as fontes abaixo indicadas; especificação de referência do mercado chinês apenas se for explicitamente citado um mercado de exportação separado.
 - ** Transparência**: Foi utilizada a elaboração assistida por IA. Este artigo é baseado em pesquisa documental e QA automatizado. Não é exigido qualquer ensaio em primeira mão, a menos que explicitamente documentado; confirmar os requisitos sensíveis ao tempo e específicos do destino antes de proceder à sua transformação.
 
@@ -56,12 +58,15 @@ O vendedor organiza, sob CIF, um seguro marítimo mínimo para o benefício do c
 - **IMAGE_ASSET_PATH**: nenhum protegido no repositório
 - ** ORIGINAL_ IMAGE_ URL**: não capturado
 - ** ORIGINAL_ PAGE**: não capturado
+- **SOURCE_FILE_PAGE**: não aplicável — nenhum arquivo de mídia candidato identificado (sem licença para afirmar)
 - **RIGHTS_ HOLDER**: não confirmado
 - **LICENSE_OR_USAGE_BASIS**: nenhuma protegida — A presença na página web do OEM não é uma licença de reutilização comercial
-- **CHECKED_DATE**: 2026-09-05
-- **MODEL_TOPIC_MATCH**: Escolha exata de Incoterms 2020 na exportação de veículos chineses
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: exato escolhendo Incoterms 2020 na exportação de veículos chineses
+- **IMAGE_SCOPE_NOTE**: a imagem deve corresponder apenas à família/tópico do modelo exato; não deve implicar uma guarnição específica, ano do modelo, VIN real, inspeção presencial ou uma transação real
 - **IMAGEM_RIGHTS_STATUS**: FALHA
-- **ALT (línguas 12)**:
+- **BLOCK_REASON**: Nenhuma imagem reutilizável poderia ser segura: Wikimedia Commons/Flickr são inalcançáveis a partir do ambiente de pesquisa, bibliotecas de estoque requerem acesso autenticado API/licença, e uma imagem de página web OEM NÃO é uma concessão de reutilização comercial. Nenhuma foto do AutoBridge existe. O registro manteve FALHA em vez de afirmar.
+- **ALT (12 línguas)**:
   - **EN**: Incoterms selection, Chinese-market procurement guide export buyer reference
   - **FR**: Incoterms selection, procurement guide du marché chinois, référence acheteur export
   - **DE**: Incoterms selection, Chinesischer procurement guide, Referenz für Exportkäufer

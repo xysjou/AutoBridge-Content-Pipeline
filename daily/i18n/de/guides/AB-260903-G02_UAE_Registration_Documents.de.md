@@ -3,7 +3,7 @@
 - **SEO Titel **: UAE Vehicle Import & RTA Registration Documents Guide
 - **Meta Description**: Sequenzieren Sie einen Fahrzeugimport der VAE korrekt - Zollabfertigungsdokumente, GCC / GSO-Konformität, dann RTA-Registrierung (Mulkiya). Die gemeldeten Zoll- / Mehrwertsteuerzahlen werden für die offizielle Bestätigung der VAE gekennzeichnet und nicht als fest angegeben.
 - **Vorgeschlagene URL**: /guides/uae-vehicle-import-registration-documents/
-- ** H1 **: VAE-Fahrzeugimport: Von der Hafenfreigabe bis zur RTA-Registrierung - Dokumente und Überprüfung
+- ** H1 **: VAE Fahrzeugimport: Von der Hafenfreigabe bis zur RTA-Registrierung - Dokumente und Überprüfung
 - ** Primäres Keyword**: uae Fahrzeugimportregistrierungsdokumente rta process
 - **Secondary Search Terms**: Dubai Zoll Fahrzeugimport, UAE Mulkiya Registrierung, GCC GSO Fahrzeugkonformität, UAE Autoimportzoll Mehrwertsteuer, MoIAT Fahrzeugimport
 - **Interne Linkvorschläge**: /guides/vehicle-coc-type Approval-dossier/; /guides/china-vehicle-export-license-Customs-documents/; /guides/vehicle-pre-shipment-inspection-psi/
@@ -32,8 +32,8 @@ Meldeanforderungen (Forwarder Guidance, mit dem Clearing-Emirat zu bestätigen):
 - Für EVs, bestätigen Ladegerät / Stecker und Standards Erwartungen separat; nicht davon ausgehen, China-spec Hardware erfüllt lokale Anforderungen.
 
 ## Zoll und Mehrwertsteuer: Gemeldete Zahlen, keine festen Zahlen
-- Forwarder guides commonly cite **about 5% customs duty on CIF value (GCC common external tariff context) and about 5% VAT**.
-- Behandeln Sie beide als **berichtete, zeitsensitive Werte**: Der anwendbare Tarif kann vom Fahrzeugtyp, der HS-Klassifizierung, der Freizone im Vergleich zum Festlandverkehr und den geltenden Bundesvorschriften abhängen. **Classify the exact HS code → obtain the current customs tariff line → confirm VAT treatment on the applicable customs basis.** Do not bake 5%/5% into a customer quote as guaranteed.
+- Forwarder Guides zitieren üblicherweise **etwa 5% Zoll auf CIF-Wert (GCC gemeinsame Außenzoll Kontext) und etwa 5% Mehrwertsteuer **.
+- Behandeln Sie beide als **berichtete, zeitkritische Werte **: Der anwendbare Tarif kann vom Fahrzeugtyp, der HS-Klassifizierung, der Freizone im Vergleich zum Festlandhandling und den aktuellen Bundesregeln abhängen. **Klassifizieren Sie den genauen HS-Code → erhalten Sie die aktuelle Zolltariflinie → bestätigen Sie die Mehrwertsteuerbehandlung auf der geltenden Zollbasis.** Backen Sie 5%/5% nicht wie garantiert in ein Kundenangebot.
 - Die VAE haben eine ** nationale EV-Politik** mit gerichteten Anreizen (z. B. Registrierungs- / Park- und Gebühren- / Mautmaßnahmen) signalisiert; diese sind richtliniengerichtet und zeitsensibel - bestätigen Sie die aktuelle Verfügbarkeit und Förderfähigkeit offiziell.
 
 ## Der RTA-Registrierungsschritt (Mulkiya)
@@ -41,14 +41,14 @@ Nach der Zollfreigabe beantragt der Käufer die RTA mit (gemeldet): gültige **V
 
 ## Was dieser Leitfaden empfiehlt, bestätigen Sie vor der Zahlung
 1. **Einreiseemirat** und der aktuelle Zolldokument-/Gebührenplan dieses Emirats.
-2. **Exact HS code** and the **current duty/VAT line** from UAE federal customs — replace the reported 5%/5% with verified figures.
+2. **Genauer HS-Code** und die **aktuelle Zoll- / Mehrwertsteuerlinie** aus dem Bundeszoll der VAE — ersetzen Sie die gemeldeten 5% / 5% durch verifizierte Zahlen.
 3. **GCC/GSO-Konformitätsroute und Zertifikat** für das spezifische Modell (und die aktuelle Rolle von MoIAT).
 4. **Rechnung/B/L/CO Konsistenz** (VIN, Wert, Parteien, Herkunft).
 5. **Versicherung + Inspektion + Identität** Bereitschaft für den RTA Mulkiya Schritt; EV Anreiz Förderfähigkeit, falls relevant.
 
 ## Häufig gestellte Fragen
 ** Registriere ich mich vor oder nach dem Zoll bei RTA?** Danach - klare Bräuche und Konformität zuerst erfüllen, dann gelten für die RTA für die Mulkiya.
-**Is UAE customs duty exactly 5%?** About 5% on CIF is widely reported, but it is time- and classification-sensitive; Bestätigen Sie die aktuelle Bundestariflinie für Ihren genauen HS-Code, bevor Sie zitieren.
+**Ist die UAE-Zollgebühr genau 5% ?** Über 5% auf CIF wird weit berichtet, aber es ist zeit- und klassifikationssensibel; bestätigen Sie die aktuelle Bundestariflinie für Ihren genauen HS-Code, bevor Sie zitieren.
 **Arbeitet ein chinesischer CoC in den VAE?** Nein — ein chinesisches inländisches Zertifikat ist kein GCC/GSO-Marktzugang; vereinbaren Sie den korrekten GCC-Konformitätsweg.
 **Was ist mit der ESMA passiert?** Seine relevanten Funktionen wurden in MoIAT gefaltet; bestätigen Sie die aktuelle Zertifikats-Ausgaberoute.
 ** Gilt dieser Leitfaden auch für Saudi/Katar?** Die Sequenz überträgt sich konzeptionell, aber Formulare, Gebühren und Behörden unterscheiden sich je nach GCC-Staat - überprüfen Sie jedes Land separat.
@@ -57,11 +57,14 @@ Nach der Zollfreigabe beantragt der Käufer die RTA mit (gemeldet): gültige **V
 - IMAGE_ASSET_PATH: keine gesicherte Datei
 - ORIGINAL_IMAGE_URL: nicht erfasst
 - SOURCE_PAGE: nicht erfasst
+- SOURCE_FILE_PAGE: Entfällt — keine Kandidaten-Mediendatei identifiziert (keine Lizenz zur Geltendmachung)
 - RIGHTS_HOLDER: nicht bestätigt
 - LICENSE_OR_USAGE_BASIS: keine gesicherte — kein Bild von Dritten darf veröffentlicht werden, bis die Rechte gelöscht sind
-- CHECKED_DATUM: 2026-09-05
+- CHECKED_DATUM: 2026-09-06
 - MODEL_TOPIC_MATCH: muss mit dem genauen Modell/der genauen Version (oder dem Leitthema) und dem Referenzmarkt oben übereinstimmen
+- IMAGE_SCOPE_NOTE: nur die genaue Modellfamilie/das genaue Thema angeben; darf keine spezifische Trimm-/Modelljahr-, echte VIN-, persönliche Inspektion oder tatsächliche Transaktion implizieren
 - IMAGE_RIGHTS_STATUS: FAIL (kein lizenziertes Asset erfasst; ein Platzhalter oder ein Hinweis „altes Bild behalten wird nicht akzeptiert)
+- BLOCK_REASON: Es konnte kein wiederverwendbares Bild gesichert werden: Wikimedia Commons/Flickr sind aus der Forschungsumgebung nicht erreichbar, Lagerbibliotheken erfordern authentifizierten API/Lizenzzugriff und ein OEM-Webseitenbild ist KEIN kommerzielles Wiederverwendungsstipendium; es gibt kein AutoBridge-eigenes Foto. Nein, aber nicht nur vereitelt.
 - ALT nach Sprache:
   - **EN**: AutoBridge export-buyer reference — UAE vehicle clearance and registration, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — UAE vehicle clearance and registration, guide d’achat à l’export automobile
@@ -80,16 +83,16 @@ Nach der Zollfreigabe beantragt der Käufer die RTA mit (gemeldet): gültige **V
 | Quelle: | Organisation | Markt | URL | Geprüft | Vertrauen | Belegte Fakten |
 |---|---|---|---|---|---|---|
 | Naher Osten (Saudi/Dubai) Clearance & Tax Guide | 11467 Speditionsgut | VAE | https://m.11467.com/product/d43094475.htm | 2026-09-03 | CROSS_CHECKED | Clearing-Dokumente; Rechnung/B/L/CO-Konsistenz; RTA/Mulkiya-Sequenz |
-| NEV Export-to-Dubai Dokumentliste | 11467 Speditionsgut | VAE | https://m.11467.com/product/d31835834.htm | 2026-09-03 | ZEIT_SENSIATION | Reported ~5% duty/~5% VAT; GCC/GSO + ESMA/MoIAT-Anmerkung |
+| NEV Export-to-Dubai Dokumentliste | 11467 Speditionsgut | VAE | https://m.11467.com/product/d31835834.htm | 2026-09-03 | ZEIT_SENSIATION | Berichtigt ~ 5% Zoll / ~ 5% Mehrwertsteuer; GCC / GSO + ESMA / MoIAT-Anmerkung |
 | Chinesische EVs im Nahen Osten begrüßt (UAE nationale EV-Politik) | Haiwainet/Toutiao | VAE | http://m.toutiao.com/group/7392857722481410569/ | 2026-09-03 | ZEIT_SENSIATION | Direktionale nationale EV-Politik Anreize |
-*Evidenzgrenze: Quellen sind Forwarder Guides (T3) und chinesische Medien - keine UAE-Bundeszoll / RTA-Primärseite wurde erfasst. Duty / MwSt / Gebühren und EV-Anreize werden daher als gemeldet und zeitsensibel dargestellt, um mit dem Bundeszoll der VAE und der RTA des Eintragsemirats bestätigt zu werden. Es wird kein fester Satz geltend gemacht. *
+*Beweisgrenze: Quellen sind Speditionsführer (T3) und chinesische Medien - keine UAE-Bundeszoll / RTA-Primärseite wurde erfasst. Duty / MwSt / Gebühren und EV-Anreize werden daher als gemeldet und zeitsensibel dargestellt, um mit dem Bundeszoll der VAE und der RTA des Eintragsemirats bestätigt zu werden. Es wird kein fester Satz geltend gemacht. *
 
-| Freigabe von persönlichen Effekten (Import von neuen / gebrauchten Fahrzeugen); erforderliche Unterlagen; 5% customs duty on assessed va | Dubai Customs (Regierung von Dubai) | DUBAI | https://www.dubaicustoms.gov.ae/en/eServices/ServicesForIndividuals/Pages/ClearanceOfPersonalEffects.aspx | 2026-09-04 | ÜBERPRÜFUNG | 5% duty on customs-assessed value; Originalrechnung / Packliste / Konnossement / Reisepass oder Emirates ID-Kopie; Inspektion und Bewertung |
+| Freigabe von persönlichen Effekten (Import von neuen / gebrauchten Fahrzeugen; erforderliche Dokumente; 5% Zoll auf bewertete va) | Dubai Customs (Regierung von Dubai) | DUBAI | https://www.dubaicustoms.gov.ae/en/eServices/ServicesForIndividuals/Pages/ClearanceOfPersonalEffects.aspx | 2026-09-04 | ÜBERPRÜFUNG | 5% Zoll auf zollbewerteten Wert; Originalrechnung / Packliste / Konnossement / Reisepass oder Emirates ID Kopie; Inspektion & Bewertung |
 | Mechanismus zur Bestimmung des Wertes der Fracht von Passagieren (Abschreibung nach Jahren) PDF | Dubai Zoll | DUBAI | https://www.dubaicustoms.gov.ae/en/PoliciesAndNotices/Policies/mechanismfordeterminingthevalueofpassengerscargotr.pdf | 2026-09-04 | ÜBERPRÜFUNG | Gebrauchtfahrzeuge, die nach dem Jahresabschreibungsplan vor dem Dienst bewertet werden |
-| E-Commerce VAT Guide (VATGEC1) §3.5.1 — import VAT 5% on customs value incl. Fracht-, Versicherungs-, Zollgebühren, | Bundessteuerbehörde der Vereinigten Arabischen Emirate (FTA) | VAE | https://tax.gov.ae/ | 2026-09-04 | ÜBERPRÜFUNG | import VAT 5%; MwSt.-Bemessungsgrundlage = Zollwert (CIF) + Zoll |
+| E-Commerce VAT Guide (VATGEC1) § 3.5.1 — Einfuhr MwSt. 5% auf Zollwert inkl. Fracht-, Versicherungs-, Zollgebühren, | Bundessteuerbehörde der Vereinigten Arabischen Emirate (FTA) | VAE | https://tax.gov.ae/ | 2026-09-04 | ÜBERPRÜFUNG | Einfuhr MwSt. 5%; MwSt.-Bemessungsgrundlage = Zollwert (CIF) + Zoll |
 | Registrierende Fahrzeuge (Zollbescheinigung oder Transfer-/Export-/Besitzbescheinigung; Emirates ID; Reisepass/Res) | UAE Federal Government Portal (u.ae) | VAE | https://u.ae/en/information-and-services/transportation/driving-and-licensing/registering-vehicles | 2026-09-04 | ÜBERPRÜFUNG | Registrierungsdokumentsatz; Zollbescheinigung ist die Brücke von der Freigabe zur Registrierung |
 | Ausstellung von Konformitätsbescheinigungen der VAE für Produkte, die den technischen Vorschriften unterliegen (ECAS; Nachfolger der ESMA) | Ministerium für Industrie und fortschrittliche Technologie (Mo) | VAE | https://www.moiat.gov.ae/en/services/issue-conformity-certificates-for-regulated-products | 2026-09-04 | ÜBERPRÜFUNG | MoIAT stellt UAE CoC für regulierte Produkte inkl. Fahrzeuge/Teile; absorbiert ESMA |
-| Liste der GSO Technischen Vorschriften für Kraftfahrzeuge (MY2027-D3), inkl. UAE Euro-6b Timeline | GCC Standardization Organization (GSO) | GCC | https://www.gso.org.sa/ | 2026-09-04 | SINGLE_SOURCEN | UAE neuer Typ Euro- 6b von 2026-01-01; alle Einfuhren von 2027-07-01 |
+| Liste der GSO Technical Regulations for Motor Vehicles (MY2027-D3), incl. UAE Euro-6b Timeline | GCC Standardization Organization (GSO) | GCC | https://www.gso.org.sa/ | 2026-09-04 | SINGLE_SOURCEN | VAE neuer Typ Euro- 6b von 2026-01-01; alle Importe von 2027-07-01 |
 
 ## Editorial Review
 - **Autor / Rezensent**: [AutoBridge Export Editorial Team](/Autoren/) · Methode nach unserer [Editorial Policy](/editorial-policy/]

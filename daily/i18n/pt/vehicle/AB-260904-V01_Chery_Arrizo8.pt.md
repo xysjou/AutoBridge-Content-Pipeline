@@ -1,68 +1,71 @@
-# Chery Arrizo 8 (艾瑞泽8): uma folha de especificações do saloon 1.6T do mercado chinês para compradores da exportação
+# Chery Arrizo 8 (艾瑞泽 8): a Chinese-Market 1.6T Saloon Spec Sheet for Export Buyers
 
 ## SEO Meta- dados
-- ** Título SEO**: Chery Arrizo 8 Especificações e Guia de Comprador de Exportação (1.6TGDI, China Referência)
-- ** Descrição do Meta**: Chinese-market Chery Arrizo 8 — 1.6T Kunpeng 145 kW/290 N·m, 7DCT, 4780 mm body, the trim distinctions that matter, and what importers verify before ordering.
+- ** Título SEO**: Chery Arrizo 8 Especificações e Guia de Comprador de Exportação (1.6TGDI, Referência China)
+- ** Descrição do Meta**: Mercado chinês Chery Arrizo 8 — 1.6T Kunpeng 145 kW/290 N·m, 7DCT, 4780 mm corpo, as distinções de corte que importa, e que os importadores verificar antes de encomendar.
 - ** URL sugerido**: /veículos/cereja-arrizo- 8/
-- ** H1 **: Chery Arrizo 8: Especificações do mercado chinês e Notas de verificação da exportação
+- ** H1 **: Chery Arrizo 8: Especificações de Mercado Chinês e Notas de Verificação de Exportação
 - **Chave-chave primária**: chery arrizo 8 specs export
-- ** Termos de pesquisa secundários**: Arrizo 8 1.6TGDI, Chery Arrizo 8 dimensions, 艾瑞泽8 export, Kunpeng SQRF4J16, Chinese compact sedan export
+- ** Termos de pesquisa secundários**: Arrizo 8 1.6TGDI, Chery Arrizo 8 dimensões, 艾瑞泽 8 exportação, Kunpeng SQRF4J16, exportação compacta chinesa sedan
 - ** Sugestões de ligação interna**: /guias/vínculo-chapéu-verificação-veículos-chinês/; /guias/combustível-combinação-combustível-combinação-veículos-china/; /guias/exportação-veículo-documento-pacote/
-- *Imagem Sugestões**: frente três quartos de Arrizo 8; capa do motor 1.6TGDI emblema; cabine traseira; selector 7DCT
-- **ALT Sugestões**: "Chery Arrizo 8 1.6TGDI Sedan do mercado chinês"; "Arrizo 8 dimensions 4780mm wheelbase 2790mm"
+- **Image Suggestions**: frente três quartos de Arrizo 8; capa do motor 1.6TGDI emblema; cabine traseira legroom; 7DCT selector
+- **ALT Sugestões**: "Chery Arrizo 8 1.6TGDI Chinese-market sedan"; "Arrizo 8 dimensões 4780mm distância entre eixos 2790mm"
 
 ## Contexto do comprador: um salão próximo ao segmento B fica acima do campo de pequenos carros
-O Arrizo 8 é o salão de step-up da Chery, dimensionado entre os campos compactos tradicionais e B-segment e arremessado aos compradores que querem mais espaço traseiro do que um sedan de entrada. Para um exportador, a questão de abertura não é o preço, mas ** que linha de trem de potência está sendo citado**: a gama chinesa é construída em torno de um 1.6-litre turbo, e esta página documenta o ** 1.6TGDI DCT carro de mercado chinês (mercado de referência: CHINA)**. Cada número abaixo é uma especificação de referência do mercado chinês**, não uma especificação global — melodia de destino, homologação de emissões e equipamentos são definidos pelo mercado local, e nenhuma folha de especificação OEM no exterior foi capturada para este modelo no pacote de pesquisa.
+O Arrizo 8 é o salão de step-up de Chery, dimensionado entre os campos compactos tradicionais e B-segmento e arremessado em compradores que querem mais espaço traseiro do que um sedan de entrada. Para um exportador, a questão de abertura não é o preço, mas ** que linha de trem de potência está sendo citada**: a gama chinesa é construída em torno de um turbo 1.6-litre, e esta página documenta o carro de mercado chinês ** 1.6TGDI DCT (mercado de referência: CHINA)**. Cada número abaixo é uma especificação de referência do mercado chinês**, não uma especificação global — melodia de destino, homologação de emissões e equipamentos são definidos pelo mercado local, e nenhuma folha de especificação OEM no exterior foi capturada para este modelo no pacote de pesquisa.
 
 ## Linha de transmissão (foco ICE: motor, caixa de velocidades, combustível, emissão)
 | Item | 1.6TGDI DCT (Referência China) |
 |---|---|
-| Motor | 1.6 T Kunpeng turbocharged inline-4 (SQRF4J16 family) |
+| Motor | 1.6 T Kunpeng turboalimentado em linha- 4 (família SQRF4J16) |
 | Potência máxima | 145 kW (≈197 PS) |
 | Torque máximo | 290 N·m |
-| Transmissão | 7-speed em dupla enregelação húmida (7DCT) |
+| Transmissão | 7-speed embreagem dupla húmida (7DCT) |
 | Disposição da unidade | Motor dianteiro, tracção dianteira |
-| Velocidade máxima declarada | 205 km/h (single-source; confirmar na folha exata da guarnição) |
-| Nota relativa ao combustível/emissão | Gasolina; China-6 level — confirm destination fuel grade and emission route (China-6 is not itself an overseas type approval) |
+| Velocidade máxima declarada | 205 km/h (fonte única; confirmar na folha exata) |
+| Nota relativa ao combustível/emissão | Gasolina; China- Nível 6 – confirmar o grau de combustível de destino e a rota de emissão (China- 6 não é, em si, uma homologação no exterior) |
 
-Para um salão ICE, as decisões de adjudicação de contratos concentram-se em **código de motor, tipo de caixa de velocidades e fase de emissão**. Corrija todos os três contra o VIN em vez do nome do folheto; veja o guia de compatibilidade emissão/combustível para saber por que uma calibração 6 China ainda precisa de homologação de destino.
+Para um salão ICE, as decisões de adjudicação de contratos concentram-se em **código de motor, tipo de caixa de velocidades e fase de emissão**. Corrigir todos os três contra o VIN em vez do nome do folheto; consulte o guia de compatibilidade emissão/combustível para saber por que uma calibração China- 6 ainda precisa de homologação de destino.
 
 ## Corpo, Dimensões e Assentos
-- Comprimento / largura / altura: **4780 / 1843 / 1469 mm**
-- Distância entre eixos: **2790 mm**
-- Portas/sedes: ** Portas 4 / Assentos 5 **
-The 2790 mm wheelbase is what places the car above a standard compact sedan; verificar a distância entre eixos em relação ao código do modelo no pro forma para que um Arrizo menor não seja substituído.
+- Comprimento / largura / altura: ** 4780 / 1843 / 1469 mm **
+- Distância entre eixos: ** 2790 mm **
+- Portas / lugares: ** 4 portas / 5 lugares
+A distância entre eixos 2790 mm é o que coloca o carro acima de um sedan compacto padrão; cruze a distância entre eixos contra o código do modelo no pro forma para que um Arrizo menor não seja substituído.
 
 ## Diferenças de versão e aparar para manter separadamente
-- The representative configuration in this sheet is the **1.6TGDI DCT 卓越 (Excellence)** trim; outros equipamentos chineses de corte mudam, rodas e opções de interior, mas compartilham a pegada documentada.
+- A configuração representativa nesta folha é a ** 1.6TGDI DCT 卓越 (Excelência)** aparar; outros aparas chineses trocam equipamentos, rodas e opções interiores, mas compartilham a pegada documentada.
 - As figuras de potência e torque são verificadas em duas bases de dados estruturadas chinesas; **portas, layout de acionamento e velocidade máxima são de fonte única** e devem ser confirmadas novamente na folha de configuração da fábrica para a unidade exata.
 - Não fundir equipamentos de linha chinesa com qualquer pacote de mercado de exportação Arrizo: sem uma página OEM no exterior, a declaração de segurança é que o equipamento de exportação é específico do mercado.
 
 ## Verificação do comprador no exterior antes do pagamento
-1. * VIN-to-trim match** - motor SQRF4J16-family código, 7DCT, eo nome exato chinês apara gravado no PI (veja o guia VIN / placa).
-2. ** Emissão e combustível** – padrão de emissão de destino e grau de gasolina exigido; um carro China- 6 não é automaticamente aceito no exterior.
+1. **VIN-to-trim match** — motor SQRF4J16-family código, 7DCT, eo nome exato chinês aparado gravado no PI (veja o guia VIN / placa).
+2. ** Emissão e combustível** — padrão de emissão de destino e grau de gasolina exigido; um automóvel China- 6 não é automaticamente aceite no estrangeiro.
 3. ** Linguagem de aeromotores e clusters** — o carro chinês é LHD; confirme a disponibilidade de RHD apenas através de um canal autorizado pelo OEM, nunca por suposição.
 4. ** Conjunto de documentos** — certificado do fabricante, certificado de conformidade, folha de especificações e (para linhas NEV adjacentes) qualquer papelada de bateria; use a lista de verificação documento-pacote de exportação.
-5. ** Modo de expedição** — um recipiente de trajes 4.78 m ou RoRo stowage; confirme a contagem do plano de carga em vez de estimar.
+5. ** Modo de expedição** — um recipiente de 4.78 m de trajes de bar ou RoRo stowage; confirmar a contagem do plano de carga em vez de estimar.
 
 ## Solicitar uma Cotação de Exportação Atual
-Nenhum preço de exportação estático é publicado. The Chinese guide price (a 2024 卓越 trim reference around RMB 99,900) is a **domestic, time-sensitive figure only — it is not an FOB or CIF quotation and must not be converted into one**. Informe-se com **Destino País · Quantidade · Trim preferido · LHD/RHD · Destino Porto · Incoterm**.
+Nenhum preço de exportação estático é publicado. O preço de orientação chinês (uma referência de 2024 卓越 cortes em torno de RMB 99, 900) é um valor **doméstico, sensível apenas ao tempo — não é uma cotação FOB ou CIF e não deve ser convertido em uma**. Informe-se com **Destino País · Quantidade · Trim preferido · LHD/RHD · Destino Porto · Incoterm**.
 
 ## Perguntas Mais Frequentes
-**Is the Arrizo 8 a compact or mid-size saloon?** At 4780 mm long with a 2790 mm wheelbase it sits at the upper edge of the compact field, near B-segment dimensions — classify it by the measured footprint, not the marketing label.
-**How much power does the 1.6T make?** The Chinese 1.6TGDI is documented at 145 kW (about 197 PS) and 290 N·m, paired with a 7-speed wet DCT.
+** O Arrizo 8 é um bar compacto ou de tamanho médio?** Com 4780 mm de comprimento com uma distância entre eixos 2790 mm ele se senta na borda superior do campo compacto, perto das dimensões do segmento B — classifique-o pela pegada medida, não pela etiqueta de marketing.
+** Quanta potência faz o 1.6T?** O 1.6TGDI chinês está documentado em 145 kW (cerca de 197 PS)  and  290 N·m,  paired with a 7-speed wet DCT.
 ** A especificação chinesa é idêntica à exportação de modelos Arrizo 8?** Não presumido — esta folha é uma referência ao mercado chinês; afinação e equipamento de destino exigem a especificação local do OEM.
-** A emissão de China- 6 significa que o carro é certificado para o meu mercado?** Não; a homologação de destino é um processo separado.
+** A emissão da China- 6 significa que o carro é certificado para o meu mercado?** Não; a homologação de destino é um processo separado.
 
 ## Gravação de Imagens
 - IMAGEM_ASSET_PATH: nenhum protegido no repositório
 - ORIGINAL_ IMAGE_ URL: não capturado
 - ORIGINAL_PAGE: não capturado
+- ORIGINAL_FILE_PAGE: não aplicável — nenhum ficheiro de mídia candidato identificado (sem licença para afirmar)
 - DIREITOS_OLDER: não confirmado
 - LICENSE_OR_USAGE_BASIS: nenhuma imagem segura — nenhuma imagem de terceiros pode ser publicada até que os direitos sejam compensados
-- Data_ Marcada: 2026-09-05
+- Data_ Marcada: 2026-09-06
 - MODEL_TOPIC_ MATCH: deve corresponder ao modelo/versão exato (ou ao tópico guia) e ao mercado de referência acima
+- IMAGEM_SCOPE_NOTE: corresponde à família/tópico do modelo exato; não deve implicar uma aparação/modelo-ano específico, VIN real, inspeção em pessoa ou transação real
 - IMAGEM_RIGHTS_STATUS: FALHA (não é aceita nenhuma propriedade licenciada capturada; uma nota de placeholder ou “reter imagem antiga”)
+- BLOCK_REASON: Nenhuma imagem reutilizável pode ser segura: Wikimedia Commons/Flickr são inalcançáveis do ambiente de pesquisa, bibliotecas de estoque requerem acesso autenticado API/licença, e uma imagem de página web OEM NÃO é uma concessão de reutilização comercial; nenhuma foto de propriedade da AutoBridge existe. Mantive-me em vez de afirmar.
 - ALT por língua:
   - **EN**: AutoBridge export-buyer reference — Chery Arrizo 8, petrol/diesel Chinese-market vehicle / sedan
   - **FR**: Référence AutoBridge pour acheteurs export — Chery Arrizo 8, véhicule thermique (marché chinois) / berline
@@ -82,11 +85,11 @@ Nenhum preço de exportação estático é publicado. The Chinese guide price (a
 |---|---|---|---|---|---|---|
 | Arrizo 8 2024 1.6T DCT Página de parâmetro de excelência | Base de dados ZOL Auto | NC | https://detail.zol.com.cn/car/index2030152.shtml | 2026-09-04 | CROSS_CHECKED | Dimensões, distância entre eixos, motor, caixa de velocidades, estrutura |
 | Arrizo 8 1.6T DCT Parâmetros de excelência | Sohu Auto base de dados | NC | https://db.m.auto.sohu.com/trim_171975 | 2026-09-04 | CROSS_CHECKED | Potência, PS, dimensões, referência de preços domésticos |
-| Análise da corrente elétrica Chery Arrizo 8 1.6T | Auto- casa·Chejiahao | NC | https://chejiahao.m.autohome.com.cn/info/19508971?isfrom=pc | 2026-09-04 | CROSS_CHECKED | 145 kW/197 PS/290 N·m/7DCT |
-| Fabricantes de veículos automóveis e catálogo de produtos — sistema público de consulta | MIIT, China Ministério da Indústria e Tecnologia da Informação | NC | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFICADO | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| Chery Arrizo 8 1.6T powertrain analysis | Auto- casa·Chejiahao | NC | https://chejiahao.m.autohome.com.cn/info/19508971?isfrom=pc | 2026-09-04 | CROSS_CHECKED | 145 kW / 197 PS / 290 N·m / 7DCT |
+| Fabricantes de veículos automóveis e catálogo de produtos — sistema público de consulta | MIIT, China Ministério da Indústria e Tecnologia da Informação | NC | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFICADO | Verifique o fabricante, modelo aprovado e homologação (公告) entrada do catálogo antes de encomendar ou exportar |
 | GB 16735-2019 Veículos rodoviários — Requisitos de número de identificação do veículo (VIN) | Plataforma SAMR de texto completo | NC | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFICADO | Elementos de identificação e dados de identificação utilizados na verificação do comprador |
-| GB 7258 condições técnicas de segurança do veículo motorizado (corrente GB 7258-2017; GB 7258-2026 aplica-se a partir de 2027-07-01) | SARR, Administração do Estado para a regulação do mercado | NC | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFICADO | Condições técnicas de segurança do veículo em linha de base na China e o calendário atual/revisão |
-| GB 18352.6-2016 com emenda XG1-2026 (China- 6 emissões poluentes de veículos leves) | Ministério da Ecologia e do Ambiente (MEE) | NC | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFICADO | China- 6 fase de emissão de veículos leves e as datas de implementação da emenda 2026 |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SARR, Administração do Estado para a regulação do mercado | NC | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFICADO | Condições técnicas de segurança do veículo em linha de base na China e o calendário atual/revisão |
+| GB 18352.6-2016 com a alteração XG1-2026 (China- 6 emissões poluentes de veículos leves) | Ministério da Ecologia e do Ambiente (MEE) | NC | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFICADO | China- Fase de emissão de veículos leves de 6  and  as datas de aplicação da alteração 2026 |
 
 * Nota de confiança: nenhuma folha de especificações primárias do OEM foi capturada; as figuras são valores cruzados de base de dados estruturados chineses. Portas, layout de unidade e velocidade máxima são de fonte única. O preço interno é sensível ao tempo e nunca é uma cotação de exportação. *
 

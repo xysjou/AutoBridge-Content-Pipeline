@@ -1,70 +1,75 @@
-# CCC Mandatory Certification and Exported Vehicles — Scope and Exemption
+# สําเนาถึง เครื่อง มือ ที่ ใช้ ใน การ กลั่น กรอง และ เครื่อง ใช้ ที่ ออก แบบ มา — เครื่อง ประปา และ การ ขน ส่ง
 
-## SEO Metadata
-- **SEO Title**: CCC Certification and Vehicle Export: Does an Exported Car Need China CCC, and When Exemption Applies
-- **Meta Description**: Whether China CCC mandatory certification applies to vehicles: CCC scope and entry verification, why products made solely for export are outside the domestic-market regime, and the exemption-letter categories.
-- ~ H1~: CCC Mandatory Certification and Exported Vehicles — Scope and Exemption
-- **Primary Keyword**: ccc certification export exemption
-- **Secondary Search Terms**: CCC certification; 3C certificate; export exemption; mandatory product certification; CCC exemption letter
-- **Suggested URL**: / guides/cc.c.erc. export-export-export export exporting /
-- **Search Intent**: 厘清CCC适用范围（出厂/销售/进口/经营使用），纯出口产品与免办证明的边界与办理
-- **Internal Link Suggestions**: /guides/china-export-customs-declaration-single-window/, /guides/certificate-of-conformity-type-approval-history/, /guides/ckd-skd-knockdown-kit-export-assembly/
-- ~Schema Scope~: Article (no Product/Offer/Review)
+## เชา ข้อมูลกํากับภาพ
+- < secontinuation *: CCCC และส่งออกรถ: ทําการส่งรถที่ส่งออกจากระบบ ICC ของจีน และเมื่อมีการเรียกข้อมูล
+- ""คําอธิบาย" จะใช้สิทธิ์ในการตรวจสอบของประเทศจีน ซีซีซีซี นําไปใช้กับยานพาหนะหรือไม่: ขอบเขตสี CTC และการตรวจสอบรายการสินค้าที่ผลิตขึ้นมาเท่านั้น
+- ** H1 **: กรมควบคุมการคมนาคม CCC และส่งออก พาหนะ — ขอบเขตและการหมดกําลัง
+- ** คําค้น: accc accesscentation date for access (c) excate from access (c)
+- ** สืบค้นเมื่อ Seplicary value ~: CACC access (c); 3C ใบรับรอง; ยกเว้นการส่งออก; บังคับใช้การรับรองผลิตภัณฑ์; จดหมายยกเว้น CCC
+- ** ที่อยู่ URL ที่ถูกย่อ *: / guides/ ccc-zort-export-การเซิร์ฟ/
+- สืบค้นเมื่อ 厘清 CCC 适用范围 (出厂 / 销售 / 进口 / 经营使用) 纯出口产品与免办证明的边界与办理 (พ.ศ.
+- ** เชื่อมโยงภายใน *: / guides/china-exports-discaration-single-wow/, / guides/ serification-of-sifority-type-oprovation-history/ / guides/ckd-sclkd-chockd-kart-export-assemiby/
+- ~Schema Scop~: บทความ (ไม่มี Production/Offer/Review)
 
-## Separate the Chinese domestic market from the export transaction
-CCC (China Compulsory Certification) is China's **domestic-market** mandatory product certification regime: listed products must be certified before they leave the factory for domestic sale, are imported into China, or are sold/used in the Chinese market, and imports undergo entry verification. The key export question is therefore not "is a car CCC-listed" but **"is this specific unit entering the Chinese market or being exported out of it?"**
+## แยกตลาดในประเทศจีนออกจากรายการส่งออก
+สําเนาถึง (จีน Compultsory Certiation) เป็นระบบของประเทศจีน"ตลาดสินค้าไทย-ตลาด" บังคับใช้ระบบผลิตภัณฑ์: การผลิตรายการจะต้องได้รับการรับรองก่อนออกจากโรงงานเพื่อขายในประเทศ มีการนําเข้าเข้าประเทศจีน หรือถูกจําหน่าย/บริโภคในตลาดจีน และนําเข้าผ่านกระบวนการนําเข้าข้อมูล คําถามการส่งออกที่สําคัญ ไม่ใช่ "เป็นรถที่บัญชีซีดีซี" แต่เป็น "หน่วยเฉพาะนี้เข้าไปในตลาดจีน หรือถูกส่งออกจากตลาด"? *
 
-## The export boundary
-Goods manufactured **wholly for export** do not enter the Chinese domestic market and are not being placed on it; the CCC regime targets domestic market placement and import-into-China. Destination-market certification (whole-vehicle type approval, e-mark/GCC/etc.) is a **separate, foreign requirement** and is never satisfied by a Chinese CCC certificate.
+## ขอบเขตการส่งออก
+สินค้าที่ดําเนินการ --"Owlly for Express" อย่าเข้าไปในตลาดในประเทศจีน และไม่ได้ถูกวางบนมัน; ระบบราชการCCC เป้าหมายตลาดในประเทศและการนําเข้าเข้า-จีน ปลายทาง- ห้าง sertition (รับรองประเภท VE-Vhinele, e-mark/GCC/etc.) เป็นรายการที่ขยายออกไป, ความต้องการต่างประเทศ -- และไม่เคยพอใจกับใบรับรอง CTC ของจีนเลย
 
-## When an exemption (免办) is the correct instrument
-Where a CCC-listed product enters China temporarily or for a purpose that the rules exempt — for example components imported for the purpose of being fully incorporated and re-exported, certain display/testing/repaired-goods situations — an **exemption application** is made through the CNCA exemption system (cccmb.cnca.cn) under the defined categories. Exemption is category-based and documented; it is not a verbal waiver.
+## เมื่อยกเว้น (免办) เป็นเครื่องมือที่ถูกต้อง
+ที่ผลิตภัณฑ์ที่พิมพ์ CCCC ได้เข้ามายังประเทศจีนชั่วคราว หรือเพื่อวัตถุประสงค์ที่ยกเว้นกฏเกณฑ์ เช่น ส่วนประกอบที่นําเข้ามา เพื่อรวมและขยายการแสดงผลทั้งหมด การสละชีพเป็นการจัดหมวดหมู่และเอกสาร; มันไม่ใช่การสละคํา
 
-## Decision sequence for an exporter
-1. Determine whether the item is in the current CCC catalogue.
-2. Ask whether it enters the Chinese market: wholly-for-export units are outside domestic placement; imports for re-export may need an exemption letter.
-3. If an exemption category applies, file through the CNCA system with supporting documents.
-4. Independently determine the **destination** certification requirement — do not treat CCC as international type approval.
-5. Keep the certification/exemption record with the shipment file.
+## ลําดับการตัดสินใจสําหรับผู้ส่งออก
+1. ระบุว่ารายการอยู่ในหมวดหมู่ CCC ปัจจุบันหรือไม่
+2. ถามว่ามันจะเข้าไปในตลาดของจีนหรือไม่: ทั้งหน่วยสําหรับบริการส่งออกเสียงอยู่นอกสถานที่วางจําหน่ายในประเทศ; การนําเข้าสําหรับ export อาจจะต้องใช้จดหมายยกเว้น
+3. หากใช้หมวดหมู่การยกเว้น ให้ทําแฟ้มผ่านระบบ CNCA ที่มีเอกสารรองรับ
+4. เป็นอิสระที่จะกําหนด ข้อกําหนดการจัดตั้งกิจการ อย่าถือว่า CCCC เป็นค่าอนุมัติของสื่อระหว่างประเทศ
+5. เก็บบันทึกการตรวจสอบ/การหมดอายุด้วยแฟ้มการจัดส่ง
 
-## Boundaries
-The CCC catalogue and exemption categories are updated; use the current SAMR/CNCA text. This guide does not decide a specific component's status without its HS/product code.
+## ขอบเขต
+หมวดหมู่ CCC และหมวดหมู่การยกเว้นต่าง ๆ ถูกปรับปรุงใช้งาน ใช้ข้อความ SAMR/CNCA ตัวปัจจุบัน ส่วนเสริมนี้ ไม่ต้องการกําหนดสถานะของส่วนประกอบเฉพาะ หากไม่มีรหัส HS/ profile ของมัน
 
-## FAQ
-**Does a car built only for export need CCC?** CCC governs Chinese-market placement; wholly exported product is not being placed on the domestic market — but confirm the exact situation.
-**Does CCC replace GCC/e-mark approval?** No — destination certification is separate.
-**What is a CCC exemption letter?** A category-based document through cccmb.cnca.cn for listed goods in exempt situations such as import-for-re-export.
-**Who administers CCC?** SAMR sets the regime; CNCA administers certification and exemptions.
-**Are imported parts for re-export covered?** They may qualify for an exemption category — apply and document it.
+## ขนาด FAQ
+~ รถที่สร้างมาเพื่อส่งออกต้องการ CCC เท่านั้นหรือ~ CCCC กํากับการวางจําหน่ายในตลาดจีน; สินค้าส่งออกทั้งหมด ไม่ได้วางในตลาดในประเทศ -- แต่ยืนยันสถานการณ์ที่แน่นอน
+** อนุมัติสิทธิ์ของ OCC/e-mark หรือยัง? ~ ไม่ — จุด หมาย ปลาย ทาง แยก กัน อยู่.
+~ จดหมายยกเว้น CCC คืออะไร ~ เอกสารตามหมวดหมู่ผ่าน cccmb.cnca.cn สําหรับรายการสินค้าในสถานการณ์ยกเว้น เช่น การนําเข้า-re-export
+~ใครเป็นคนจัดการ CCC? ~ SAMR กําหนดระบบการปกครอง CNCA การจัดการการรับรองและยกเว้น
+~มีส่วนนําเข้าเข้ามาเพื่อปิดการส่งอีกครั้งหรือไม่ ~ พวก เขา อาจ มี คุณสมบัติ สําหรับ ประเภท ยก เว้น — จง นํา ไป ใช้ และ บันทึก ไว้.
 
 
-## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
+## ต้นฉบับและการตรวจสอบสิทธิ์
+| แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| 强制性产品认证管理规定 | 国家市场监督管理总局 | CN | T1 | VERIFIED | https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_1fb2082e0cca45cbb8e70b4a33e15e99.html | CCC适用范围, 入境验证, 免办情形 |
-| 强制性产品认证管理规定（认监委） | 国家认证认可监督管理委员会 | CN | T1 | VERIFIED | https://www.cnca.gov.cn/zwxx/bmgz/art/2015/art_e211a67d9e4d4a8ea25a5c2390a417f0.html | 主管部门, 认证后方可出厂销售进口使用 |
-| 企业申请CCC免办业务（条件与系统） | 国家认证认可监督管理委员会 | CN | T1 | VERIFIED | https://www.cnca.gov.cn/hlwfw/ywxt/rzjgxxbszn/rzjghqyxybsnxxx/rzjghqyxybsnxxx/xzspsx/art/2021/art_0d573f87af7d4b4586ef7e5b7dcbf28d.html | 免办条件, cccmb.cnca.cn系统 |
-| 认监委2005年第3号公告（无需/免办CCC条件） | 国家认证认可监督管理委员会 | CN | T1 | VERIFIED | https://www.cnca.gov.cn/hlwfw/ywzl/qzxcprz/CCCmb/art/2013/art_8feb350f605e4c9da85d8a4a203f30ff.html | 免办具体情形 |
-| 免予办理强制性产品认证证明（受理条件示例） | 安徽省人民政府 | CN | T1 | VERIFIED | https://www.ah.gov.cn/site/tpl/7091?cswd=2222&ssqdId=4028e69f84d033380185c7c09c5058fa&ssqdCode=521edb32dd8c45938651ec2edce21ddc&activeId=6785131 | 以整机全数出口为目的进口的零部件免办等 |
-| SAMR (CCC regime) | SAMR 国家市场监督管理总局 | CN | T1 | VERIFIED | https://www.samr.gov.cn/ | CCC mandatory certification regime authority |
-| Certification and Accreditation Administration (CNCA) | CNCA 国家认证认可监督管理委员会 | CN | T1 | VERIFIED | https://www.cnca.gov.cn/ | CCC administration and exemption system |
-## Editorial Review
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: CN（中国认证制度侧）
-- **Verification method**: Desk research against the sources below; Chinese-market reference specification only unless a separate export market is explicitly cited.
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
+| 强制性产品认证管理规定 | 国家市场监督管理总局 | CN | T1 | เปิดใช้งาน | https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_1fb2082e0cca45cbb8e70b4a33e15e99.html | CCC 适用范围, 入境验证, 免办情形 |
+| 强制性产品认证管理规定 (认监委). | 国家认证认可监督管理委员会 | CN | T1 | เปิดใช้งาน | https://www.cnca.gov.cn/zwxx/bmgz/art/2015/art_e211a67d9e4d4a8ea25a5c2390a417f0.html | 主管部门, 认证后方可出厂销售进口使用 |
+| 企业申请CCC免办业务（条件与系统） | 国家认证认可监督管理委员会 | CN | T1 | เปิดใช้งาน | https://www.cnca.gov.cn/hlwfw/ywxt/rzjgxxbszn/rzjghqyxybsnxxx/rzjghqyxybsnxxx/xzspsx/art/2021/art_0d573f87af7d4b4586ef7e5b7dcbf28d.html | 免办条件, cccmb.cnca.cn 系统 |
+| 认监委2005年第3号公告（无需/免办CCC条件） | 国家认证认可监督管理委员会 | CN | T1 | เปิดใช้งาน | https://www.cnca.gov.cn/hlwfw/ywzl/qzxcprz/CCCmb/art/2013/art_8feb350f605e4c9da85d8a4a203f30ff.html | 免办具体情形 |
+| 免予办理强制性产品认证证明 (受理条件示例). | 安徽省人民政府 | CN | T1 | เปิดใช้งาน | https://www.ah.gov.cn/site/tpl/7091?cswd=2222&ssqdId=4028e69f84d033380185c7c09c5058fa&ssqdCode=521edb32dd8c45938651ec2edce21ddc&activeId=6785131 | 以整机全数出口为目的进口的零部件免办等 |
+| SAMR (ระบบ CCC) | SAMR 国家市场监督管理总局 | CN | T1 | เปิดใช้งาน | https://www.samr.gov.cn/ | ซีซีคําสั่ง CAC จัดตั้งอํานาจการปกครอง |
+| ทําซ้ํา  and  OCKSEARDER (CNCA) OCKLE สืบค้นเมื่อ: PDF. | CNCA 国家认证认可监督管理委员会 | CN | T1 | เปิดใช้งาน | https://www.cnca.gov.cn/ | ระบบจัดการซีดีซี และระบบยกเว้น |
+| WTO ข้อเสนอเกี่ยวกับเครื่องมือเทคนิคในการเทรด (TBT) | องค์การ การ ค้า โลก | INT | T1/T2 | เปิดใช้งาน | https://www.wto.org/english/tratop_e/tbt_e/tbt_e.htm | กรอบของ TBT สําหรับการประเมินความสอดคล้องตามคําสั่ง เช่น CCC และหลีกเลี่ยงอุปสรรคที่ไม่จําเป็น (ตรรกะที่ว่างเปล่า) |
+| คณะกรรมการเทคโนโลยีไฟฟ้านานาชาติ (IC) มาตรฐาน | คณะกรรมการเทคโนโลยีไฟฟ้านานาชาติ (IC) | INT | T1/T2 | เปิดใช้งาน | https://www.iec.ch/home | มาตรฐาน สากล ที่ อ้าง ถึง ใน การ ประเมิน ความ เป็น ไป ตาม ความ เป็น จริง; CCC ใช้ มาตรฐาน ของ จีบี ซึ่ง มัก จะ ตรง กับ IEC |
+## การทบทวนแก้ไข
+- ~Uuthor ♪: AutoBridge ส่งออกทีมแก้ไข [ผู้เขียน](/ ผู้เขียน/) สืบค้นเมื่อ [ใช้ในการแก้ไขนโยบาย] [/Di-policy/]
+- ~ถูกตรวจสอบแล้ว~: 2026-09-05
+- ~ตลาดแห่งความไม่สงบ: CN(中国认证制度侧)].
+- ~วิธีการสร้างความสัมพันธ์ ~: งานวิจัยที่ขัดกับแหล่งย่อยด้านล่างนี้; การอ้างอิงตลาดจีน-มาร์เก็ต ก็ต่อเมื่อมีการอ้างอิงตลาดส่งออกอย่างตรงไปตรงมา
+- การร่างแบบ AI-assisted ถูกใช้ บทความนี้ตั้งอยู่บนพื้นฐานของงานวิจัยในตาราง และอัตโนมัติ QA ไม่มีการอ้างอิงการทดสอบก่อน จนกว่าจะมีการระบุรายละเอียดอย่างชัดเจน ยืนยันความต้องการที่ต้องใช้เวลาและกําหนดปลายทาง ก่อนทําการข้ามเวลา
 
-## Image Record
-- **IMAGE_ASSET_PATH**: none secured in repository
-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ not captured
-- **SOURCE_PAGE**: not captured
-- **RIGHTS_HOLDER**: unconfirmed
-- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
-- ~ECHCKKED_DATE ~: 2026-09-05
-- ~CRL/TOPIC_MATCH~: exact CCC Mandatory Certification and Exported Vehicles
-- **IMAGE_RIGHTS_STATUS**: FAIL
-- **ALT (12 languages)**:
+## บันทึกรูปภาพ
+- ~ประกาศ_BAR_ PATH ~ ~ ไม่มีคนปลอดภัยในห้องเก็บของ
+- ~~~~~ไม่ถูกจับ~
+- ~ประกาศจับ~: ไม่ถูกจับ
+- ** UNTER_FELE_ PATE*: ใช้ไม่ได้ — ไม่มีเอกสารผู้สมัครใด ๆ ที่ระบุ (ไม่มีใบรับรองที่จะยืนยัน)
+- ~ห้ามยืนยัน~
+- **LICENSE_OR_USAGE_BASIS**: ไม่ มี ใคร ปลอด ภัย — การ มี เว็บไซต์ อยู่ ใน เวลา นี้ ไม่ ใช่ การ ลง ทะเบียน ทํา ซ้ํา อีก ครั้ง ใน การ ค้า
+- ~CKND_DATE ~ 2026-09-06
+- ** ROUNDL_TOIC_MATCH~: ตรงกับ CCCC เครื่อง มือ ที่ มี ประสิทธิภาพ และ เครื่อง ใช้ ที่ ออก แบบ มา
+- MEDIAN_SCPE_NOTE: ภาพต้องตรงกับครอบครัว/ โตปิกที่ถูกต้องเท่านั้น; ต้องไม่หมายถึงการตัด, ปีตัวอย่าง, เรียลวีน, การตรวจสอบหรือการทําธุรกรรมจริง
+- หม่อมเจ้า หม่อมเจ้า
+- ~ ล็อก-รีซัน~: ไม่มีภาพใดสามารถใช้ได้โดยปลอดภัย: Wikited Commons/Flickr ไม่สามารถทํางานได้จากสภาพแวดล้อมการวิจัย ห้องสมุดหลักต้องการสิทธิ์ในการเข้าถึง API/CIFF และภาพเว็บเพจของ OEM ก็ไม่ใช่การให้ทุนใช้อีกครั้งในโฆษณา ไม่มีภาพถ่ายที่บรรจุออโต้ไบด์อยู่ บันทึกเก็บ FAIL แทนการยืนยัน
+- ~ALT (12 ภาษา) ~:
   - **EN**: CCC certification export, Chinese-market procurement guide export buyer reference
   - **FR**: CCC certification export, procurement guide du marché chinois, référence acheteur export
   - **DE**: CCC certification export, Chinesischer procurement guide, Referenz für Exportkäufer

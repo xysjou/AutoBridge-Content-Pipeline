@@ -3,7 +3,7 @@
 ## SEO Metadaten
 - **SEO Titel**: Incoterms 2020 Selection Guide für den Fahrzeugexport: FOB, CIF, FCA, CIP, DDP und mehr
 - **Meta Description**: Choose the right Incoterms 2020 rule for a vehicle shipment: wo Risiko- und Kostentransfer, nur auf See im Vergleich zu multimodalen Bedingungen, Versicherung nach CIF/CIP und warum DDP die Verkäuferbelastung maximiert.
-- ** H1 **: Wahl der Incoterms 2020 im chinesischen Fahrzeugexport - Risiko- und Kostenallokation
+- ** H1 **: Auswahl der Incoterms 2020 im chinesischen Fahrzeugexport - Risiko- und Kostenallokation
 - ** Primäres Keyword**: incoterms 2020 Auswahlhandbuch
 - **Secondary Search Terms**: Incoterms 2020; FOB vs FCA; CIF vs CIP; DDP-Risiko; multimodaler Begriff; Risikotransfer
 - **Vorgeschlagene URL**: /guides/incoterms- 2020-selection-guide/
@@ -20,7 +20,7 @@ Incoterms 2020 enthält **elf** Regeln, die in die für alle Verkehrsträger und
 - **DAP/DPU/DDP**: Dies sind Ankunftsbedingungen; der Verkäufer trägt das Risiko weiter. **DDP verpflichtet den Verkäufer** maximal, einschließlich Einfuhrabfertigung, Zölle und Steuern am Bestimmungsort – für einen chinesischen Fahrzeugexporteur ohne registrierte Zielpräsenz ist dies oft unpraktisch und Compliance-lastig.
 
 ## Versicherungsschein für CIF und CIP
-Unter CIF arrangiert der Verkäufer eine Mindestdeckungs-Schiffsversicherung zum Vorteil des Käufers; Unter CIP ist der Ausfall ein **höheres ** Deckungsniveau (vorbehaltlich der Regel und einer vereinbarten Änderung). Genaue Versicherungssumme und Klauseln sind im Vertrag / Politik vereinbart - dieser Leitfaden nicht die ICC A1–A10 Texte, die die urheberrechtlich geschützte ICC-Veröffentlichung unten verlinkt bleiben, wiedergeben, und es zitiert keine Fracht oder Premium.
+Unter CIF arrangiert der Verkäufer eine Mindestdeckungs-Schiffsversicherung zum Vorteil des Käufers; Unter CIP ist der Ausfall ein **höheres ** Deckungsniveau (vorbehaltlich der Regel und einer vereinbarten Änderung). Genaue Versicherungssumme und Klauseln werden im Vertrag / Politik vereinbart - dieser Leitfaden reproduziert nicht die ICC A1–A10 Texte, die die urheberrechtlich geschützte ICC-Veröffentlichung bleiben, die unten verlinkt ist, und er zitiert keine Fracht oder Prämie.
 
 ## Ein Auswahlpfad für Fahrzeugaufträge
 1. Identifizieren Sie die Transportkette: reiner Ozean versus multimodal.
@@ -40,15 +40,17 @@ Unter CIF arrangiert der Verkäufer eine Mindestdeckungs-Schiffsversicherung zum
 ## Quellen & Verifizierung
 | Quelle | Organisation | Markt | Tier | Vertrauen | URL | Belegte Fakten |
 |---|---|---|---|---|---|---|
-| 国际贸易术语图文精讲（Incoterms2020共11种/两大类） | 中国贸促会广西分会 | CN | T1 | ÜBERPRÜFUNG | https://www.ccpitgx.org/webcpitgx/2025/rcepjiedu_0624/15195.html | 11术语, 按运输方式分类, 风险费用划分 |
-| 2020国际贸易术语详解（FOB风险点改为装上船） | 浙江省贸促会 | CN | T1 | ÜBERPRÜFUNG | http://www.ccpitzj.gov.cn/art/2020/8/17/art_1229557691_11515.html | FOB/CFR/CIF, 船舷→装上船 |
-| 跨境电子商务贸易术语（风险转移教材） | 清华大学出版社 | CN | T3 | CROSS_CHECKED | https://www.tup.tsinghua.edu.cn/upload/books/yz/095136-01.pdf | 风险转移, 象征性交货 |
-| Incoterms 2020 Regeln (ICC) | Internationale Handelskammer | CN | T1 | ÜBERPRÜFUNG | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-rules-2020/ | Autoritativer Herausgeber von Incoterms 2020 |
+| 国际贸易术语图文精讲 (Incoterms2020 共 11 种 / 两大类) | 中国贸促会广西分会 | CN | T1 | ÜBERPRÜFUNG | https://www.ccpitgx.org/webcpitgx/2025/rcepjiedu_0624/15195.html | 11 术语, 按运输方式分类, 风险费用划分 |
+| 2020 国际贸易术语详解 (FOB 风险点改为装上船) | 浙江省贸促会 | CN | T1 | ÜBERPRÜFUNG | http://www.ccpitzj.gov.cn/art/2020/8/17/art_1229557691_11515.html | FOB/CFR/CIF, 船舷 → 装上船 |
+| 跨境电子商务贸易术语 (风险转移教材) | 清华大学出版社 | CN | T3 | CROSS_CHECKED | https://www.tup.tsinghua.edu.cn/upload/books/yz/095136-01.pdf | 风险转移, 象征性交货 |
+| Incoterms 2020 Regeln (ICC) | Internationale Handelskammer | CN | T1 | ÜBERPRÜFUNG | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-rules-2020/ | Autorisierter Herausgeber von Incoterms 2020 |
 | WZO Origin Instrumente und Werkzeuge | Weltzollorganisation | CN | T1 | ÜBERPRÜFUNG | https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx | Ursprungsregeln und -instrumente der WZO |
+| ICC-Regeln (Incoterms 2020 Rule Owner — dedizierte Seite) | Internationale Handelskammer | INT | T1/T2 | ÜBERPRÜFUNG | https://iccwbo.org/business-solutions/icc-rules/ | Autoritativer ICC-Regelnindex bestätigt Incoterms 2020 als aktuelles Copyright-Begriffsset und dessen Aufrechterhaltung durch ICC |
+| FIATA — Speditionspraxis unter Incoterms | International Federation of Freight Forwarders Associations (FIATA) (Deutsche Ausgabe) | INT | T1/T2 | ÜBERPRÜFUNG | https://www.fiata.org/ | Forwarder-seitige Interpretation von Lieferpunkt-, Risikotransfer- und Transportverpflichtungen nach Incoterms |
 ## Editorial Review
 - **AutoBridge Export Editorial Team · [Autoren](/Autoren/) · [Editorial Policy](/Editorial-Policy/]
 - **Zuletzt überprüft**: 2026-09-05
-- **Referenzmarkt**: INT（国际商会规则框架）
+- **Referenzmarkt**: INT(国际商会规则框架)
 - **Verifizierungsmethode**: Desk-Recherche mit den unten genannten Quellen; Referenzspezifikation für den chinesischen Markt nur, sofern nicht ausdrücklich ein separater Exportmarkt angegeben wird.
 - **Transparenz**: KI-unterstütztes Zeichnen wurde verwendet. Dieser Artikel basiert auf Desk Research und automatisierter QA. Es werden keine Tests aus erster Hand beansprucht, es sei denn, sie sind explizit dokumentiert; zeitsensible und zielspezifische Anforderungen vor der Transaktion bestätigen.
 
@@ -56,11 +58,14 @@ Unter CIF arrangiert der Verkäufer eine Mindestdeckungs-Schiffsversicherung zum
 - **IMAGE_ASSET_PATH**: keine gesicherte im Repository
 - **ORIGINAL_IMAGE_URL**: nicht erfasst
 - **SOURCE_PAGE**: nicht erfasst
+- **SOURCE_FILE_PAGE**: Entfällt — keine Kandidaten-Mediendatei identifiziert (keine Lizenz zur Geltendmachung)
 - **RIGHTS_HOLDER**: nicht bestätigt
 - **LICENSE_OR_USAGE_BASIS**: keine gesicherte — OEM-Webseitenpräsenz ist keine kommerzielle Wiederverwendungslizenz
-- **CHECKED_DATE**: 2026-09-05
+- **CHECKED_DATE**: 2026-09-06
 - **MODEL_TOPIC_MATCH**: Genaue Wahl der Incoterms 2020 im chinesischen Fahrzeugexport
+- **IMAGE_SCOPE_NOTE**: Das Bild muss nur mit der genauen Modellfamilie/dem genauen Thema übereinstimmen; darf keine bestimmte Trimmung, kein Modelljahr, keine echte VIN, keine persönliche Inspektion oder keine tatsächliche Transaktion implizieren.
 - **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: Es konnte kein wiederverwendbares Bild gesichert werden: Wikimedia Commons/Flickr sind aus der Forschungsumgebung nicht erreichbar, Lagerbibliotheken erfordern authentifizierten API/Lizenzzugriff und ein OEM-Webseitenbild ist KEIN kommerzielles Wiederverwendungsstipendium. Es gibt kein AutoBridge-eigenes Foto. Record Keeped FAIL statt behauptet.
 - **ALT (12 Sprachen)**:
   - **EN**: Incoterms selection, Chinese-market procurement guide export buyer reference
   - **FR**: Incoterms selection, procurement guide du marché chinois, référence acheteur export

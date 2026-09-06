@@ -1,66 +1,69 @@
-# Importing a Chinese EV Into Russia / the EAEU: Type Approval, ERA-GLONASS and the Documents That Must Agree
+# استيراد سيارة كهربية صينية إلى روسيا/الاتحاد الأوروبي: نوع الموافقة، ووكالة الطاقة الأوروبية - غلوناس، والوثائق التي يجب أن توافق عليها
 ## SEO Metadata
-- **SEO Title**: Import a Chinese EV to Russia: EAEU Type Approval ' Customs Path '
-- **Meta Description**: The Russia/EAEU conformity route for a Chinese EV — TR CU 018/2011 OTTC vs SBKTS, ERA-GLONASS under the regulation, EPTS, the China 2026 export-licence rule, and exactly what to confirm before paying.
-- **Suggested URL**: /guides/import-chinese-ev-to-russia-eac-ottc/
-- ** H1 **: How a Chinese Electric Vehicle Clears Russia / the EAEU: Conformity Route and Customs Paperwork
-- **Primary Keyword**: import Chinese EV to Russia EAEU OTTC SBKTS customs
-- **Secondary Search Terms**: TR CU 018/2011 wheeled vehicles, EAEU vehicle type approval, SBKTS single vehicle certificate, ERA-GLONASS requirement, EPTS electronic passport, China EV export license 2026
+- ** عنوان المنظمة**: استيراد سيارة كهربية صينية إلى روسيا: طراز EAEU Approval الجمركي EAEU
+- ** وصف البيانات**: The Russia/EAEU conformity route for a Chinese EV — TR CU 018/2011 OTTC vs SBKTS, ERA-GLONASS under the regulation, EPTS rule of China 2026 export-licence rule, and exactly what to confirm before paying.
+- ** اقتراح مقدم من الاتحاد الأوروبي**: /إرشاد/مستوردة - صينية - مقابل صدى - إيك - تتش/
+- ** H1 **** كيف تُخليص مركبات كهربائية صينية من روسيا/الاتحاد الأوروبي: طريق التوحيد والأوراق الجمركية
+- ** كلمة رئيسية**: استيراد الأشعة فوق البنفسجية الصينية إلى روسيا جمارك الاتحاد الأوروبي
+- ** شروط البحث الثانية**: مركبة من طراز TR CU 018/2011 الموافقة على نوع مركبات الإيو، شهادة مركبة واحدة من طراز SBKTS (إرا غلوناس) جواز السفر الإلكتروني لـ (إي بي إس)  China EV export license 2026
 - ** Internal Link Suggestions**: /guides/vehicle-import-payment-tt-vs-lc/;guides/marine-cargo-insurance-car-import/; /guides/verify-china-car-export-supplier/
-- **Image Suggestions**: OTTC-versus-SBKTS route diagram; EAC conformity mark; ERA-GLONASS terminal and SOS button; document-name consistency flow
-- **ALT Suggestions**: "EAEU OTTC versus SBKTS vehicle certification routes"; "EAC conformity mark"; "documents that must name the same importer and VIN"
-## The Actual Problem for a B2B Importer
-A Chinese EV reaches a Russian buyer only after three things line up: a **valid EAEU conformity document**, an **emergency-call provision accepted for registration**, and a **customs/document package whose legal entities are reconciled across the conformity certificate, the importer of record and the invoice**. In practice, shipments most often run into trouble when those documents name different parties, or when a per-unit certificate is expected to behave like a batch type approval. This is presented as a procurement risk-control step; the precise legal-entity requirements for a given route should be confirmed with the accredited body and a customs broker. This guide is specific to **Russia within the Eurasian Economic Union (EAEU)**; it is not a generic "CIS" statement, and it deliberately separates regulation that is settled from cost/process points that change and must be confirmed live.
+- ** اقتراحات مُثلية**: مخطط مسارات OTTC-versus-SBKTS؛ علامة مطابقة EAC؛ محطة طرفية تابعة للشبكة الأوروبية - غلوناس وزر SOS؛ واسم التدفق المُتسمّى بالثبات
+- ** اقتراحات بشأن: "موقع تليفزيون الاتحاد الأوروبي ضد طرق تصديق المركبات الخاصة بـ "س بي كي تي إس "، "علامة مطابقة "EAC" و "وثائق يجب أن تسمي نفس المستورد وVN"
+## المشكلة الفعلية لـ B2B مستورد
+ولا تصل شركة كهرباء صينية إلى مشتر روسي إلا بعد ثلاثة أشياء: وثيقة مطابقة لمنظمة EAEU**، حكم يتعلق بالاحتياطات المخففة مقبول للتسجيل**، وعلامة " ** " أو مجموعة وثائقية تُطابق كياناتها القانونية عبر شهادة المطابقة، ومستورد السجل، والفاتورة**. وفي الممارسة العملية، كثيرا ما تصطدم الشحنات بمشكلة عندما تُسمي تلك الوثائق أطرافا مختلفة، أو عندما يُتوقع أن تتصرف شهادة الوحدة الواحدة على أنها موافقة من نوع الدفعة. ويُعرض هذا الأمر كخطوة لمراقبة مخاطر المشتريات؛ وينبغي تأكيد الشروط المحددة للوجود القانوني لطريق معين لدى الهيئة المعتمدة وسماسرة الجمارك. وهذا الدليل محدد لـ ** روسيا داخل الاتحاد الاقتصادي للمنطقة الأوروبية الآسيوية**؛ وهو ليس بيانا عاما باسم " دائرة التحقيقات الجنائية " ، وهو يفصل عمدا بين اللوائح التي تُسوى من نقاط التكلفة/العمليات التي يطرأ عليها التغيير ويجب تأكيدها على الهواء.
 ## The Settled Backbone: TR CU 018/2011
-Electric, plug-in hybrid and hybrid road vehicles fall within the **mandatory scope of EAEU technical regulation TR CU 018/2011 "On the safety of wheeled vehicles"**. The regulation was **adopted by Decision of the Customs Union Commission No. 877 of 9 December 2011 and entered into force on 1 January 2015** (the official legal register of the EAEU carries the consolidated text; VERIFIED). It applies to L/M/N/O-category vehicles; ordinary road EVs do not qualify for the narrow exemptions (racing, military, certain agricultural machinery). Two conformity routes follow from it:
-| Route | What it is | When it fits |
+وتقع مركبات الطرق الكهربائية والهجينة والمهجنة ضمن النطاق الراغب للقاعدة التقنية للاتحاد الأوروبي للوحدة رقم TR CU 018/2011، وعن سلامة المركبات المتحركة**. وقد اعتُمد هذا البند بقرار لجنة الاتحاد الجمركي رقم 877 المؤرخ 9 كانون الأول/ديسمبر 2011 ودخل حيز النفاذ في 1 كانون الثاني/يناير 2015 ** (يحمل السجل القانوني الرسمي للاتحاد الأوروبي النص الموحد؛ VERIFIED). وينطبق هذا على مركبات L/M/N/O-category؛ ولا تستوفى المركبات الإلكترونية العادية للطرق شروط الإعفاءات الضيقة (العمليات، والجهاز العسكري، وبعض الآليات الزراعية). وتلي ذلك طريقان من مسارات المطابقة:
+| الطريق | ما هو عليه | عندما يلائم |
 |---|---|---|
-| ** TOTTC** - Vehicle Type Approval (Одобрение типа С) | Whole-type approval for a series, held by a manufacturer or an importer of record established in the EAEU | Repeated B2B shipments of the same model; the scalable path |
-| **SBKTS** — Single-Vehicle Safety Certificate (Свидетельство безопасности конструкции ТС) | Per-vehicle design-safety assessment, with an EPTS issued on that basis | Single units and used vehicles, where no OTTC covers the model |
-An EV then receives an **EPTS (electronic vehicle passport)** and can only be registered with the traffic authority on a valid EPTS. For a fleet programme, budget for an OTTC held by a properly established EAEU entity; per-unit SBKTS is slow and does not scale. Engage an **EAEU-accredited certification body/laboratory** early — testing and documentation lead time usually exceeds ocean transit.
+| ** TOTTC** - Vehicle Type Approval (Одобрение типа С) | الموافقة على مجموعة من النماذج الكاملة، يحتفظ بها مصنّع أو مستورد للسجلات المنشأة في الاتحاد الأوروبي | إعادة شحن B2B شحنة من نفس النموذج؛ المسار القابل للاتساع |
+| ** شهادة السلامة الوحيدة في كل مركبة** (الشهادة التي تُمنح من البلدان النامية) | تقييم السلامة في التصميمات في كل دورة، مع إصدار نظام تقييم الأداء البيئي على هذا الأساس | وحدات وحيدة ومركبات مستخدمة، لا تغطي أي مركبات ثلاثية بوتيل القصدير النموذج |
+وبعد ذلك يتلقى أي في تي في تي إس تي تي تي تي تي (جواز سفر المركبات الإلكترونية)** ولا يمكن تسجيله إلا لدى سلطة المرور على نظام إي بي تي (EPTS) صحيح. وبالنسبة لبرنامج الأسطول، فإن ميزانية لجنة النقل البري المميت الذي يحتفظ به كيان منشأ على نحو سليم في الاتحاد الأوروبي؛ وميزانية الوحدة الواحدة للشبكة هي بطيئة ولا تُضخ. وعادة ما يتجاوز الوقت الذي يستغرقه الاختبار والتوثيق في مرحلة الاختبارات والمرور العابر للمحيطات.
 ## ERA-GLONASS: a Regulation Requirement with Changing Implementation details
-The emergency-call system (**ERA-GLONASS / УВЭОС**) is part of the TR CU 018/2011 framework for M/N-category vehicles placed on the EAEU market — that requirement is regulatory and durable. What has **changed repeatedly is the treatment of single / personally imported vehicles**: temporary exemptions for individual imports have been introduced, tightened and re-imposed at different dates. Because those exemption windows are set by separate implementing decisions and were not captured from an official Russian source for this article, do **not** rely on a media-stated reinstatement date. Before ordering, obtain from the accredited body a written answer to three concrete questions: (1) whether your specific unit/route requires a fitted, activated terminal; (2) which devices and fitting centres are approved; and (3) how the requirement differs between a legal-entity batch import and a personal single import. Do not assume that a Chinese-market e-call unit satisfies ERA-GLONASS/УВЭОС requirements — confirm compatibility and acceptance with the accredited body for the specific route rather than treating a domestic e-call system as equivalent.
-## Duties, VAT, Utilisation Fee and Routing: Verify — Do Not Quote Media Numbers
-Several cost and routing points circulate in Russian-language industry media with **mutually inconsistent figures**, which is itself the warning:
-- **Import duty for EVs**: outlets disagree sharply, with some citing a zero rate for HS 8703.80 and others a high percentage from a given 2026 date. No Russian Federal Customs Service (FTS) or Eurasian Economic Commission primary decision was captured here, so **no duty percentage is stated as fact**. Classify the exact HS code and read the current EAEU Common Customs Tariff plus any temporary decision before building a landed-cost sheet.
-- **Import VAT and recycling/utilisation fee (утильсбор)**: VAT is governed by the Russian Tax Code and the utilisation fee by a separate schedule that is revised periodically; confirm the current rates and the importer category with FTS / an accredited customs broker rather than copying a press figure.
-- **"Direct import only / no transit via Belarus, Kazakhstan, Kyrgyzstan"**: this claim appears in a single 2026 industry guide with no captured customs-instruction primary source. Treat triangular EAEU routing as a **point to confirm in writing with customs counsel**, never as a settled prohibition or a settled permission.
-Build landed cost as an **FTS-confirmed stack** — duty + VAT + utilisation fee + certification + ERA-GLONASS fitment + logistics + insurance — not as a single borrowed percentage.
-## The China Side: the 2026 Export-Licence Rule Is Now Official
-Unlike the cost points above, the Chinese export-control side is now anchored in primary documents (VERIFIED):
-- **MOFCOM General Office Notice on the 2026 automobile/motorcycle export-licence application (商办贸函〔2025〕408号, 28 Sep 2025)** sets the online application system (ecomp.licence.org.cn), local-commerce preliminary review and the published qualified-enterprise list.
-- **Joint Announcement No. 54 (2025) of MOFCOM, MIIT, GAC and SAMR** puts **pure-electric passenger vehicles (reference HS 8703801090) under an export-licence regime from 1 January 2026 **.
+ونظام الطوارئ (**ERA-GLONASS/ Instituto de bagis) هو جزء من إطار وحدة التجارة العالمية الذي يبلغ 018/2011 لمركبات من الفئة M/N-category، التي توضع في سوق الاتحاد الأوروبي - وهذا الشرط تنظيمي ودائم. وما جرى تغييره مرارا هو معالجة المركبات الوحيدة/المستوردة شخصيا**: استحدثت إعفاءات مؤقتة لفرادى الواردات، وشدّدت واستعادت في تواريخ مختلفة. ونظراً لأن نوافذ الإعفاء هذه تُحدَّد بقرارات تنفيذ منفصلة ولم تُستَرَد من مصدر روسي رسمي لهذه المادة، فإنها لا تعتمد** على تاريخ إعادة إقرارها في وسائط الإعلام. وقبل أن تأمر الهيئة المعتمدة، تحصل على إجابة خطية على ثلاثة أسئلة محددة: (1) ما إذا كانت وحدتك/الطريق المحددة تتطلب محطة طرفية مجهزة ومنشطة؛ (2) أي أجهزة ومراكز تجهيز يتم إقرارها؛ (3) كيف يختلف الاحتياج بين استيراد دفعة دخول قانونية ووارد شخصي واحد. ولا تفترض أن وحدة السوق الإلكترونية الصينية تفي بمتطلبات نظام ERA-GLONASS/ ESTIAС - تؤكد التوافق والقبول مع الهيئة المعتمدة للطريق المحدد بدلا من معاملة نظام محلي للبيع الإلكتروني على أنه معادل.
+## الواجبات، ضريبة القيمة المضافة، استخدام الرسوم والرسوم: التحقق - لا رقما لوسائل الإعلام
+وهناك عدة نقاط للتكلفة والطرق التي توزع في وسائط الإعلام باللغة الروسية مع ** أرقام غير متسقة باطراد**، وهو ما يشكل في حد ذاته التحذير التالي:
+- ** واجب تقديم التقارير عن المركبات الإلكترونية**: المنافذ لا توافق بشكل حاد  with some citing a zero rate for HS 8703.80  and  others a high percentage from a given 2026 date. ولم يُسجل هنا أي قرار رئيسي من دائرة الجمارك الاتحادية الروسية أو اللجنة الاقتصادية للمنطقة الأوروبية الآسيوية، ولذلك لا يُذكر أن نسبة مئوية من الرسوم هي حقيقة**. صف الرمز HS الدقيق وقراءة التعريف الجمركي المشترك الحالي للاتحاد الأوروبي زائدا أي قرار مؤقت قبل بناء صحيفة تكلفة هبوطية.
+- ** رسوم ضريبة القيمة المضافة وإعادة التدوير/التدريب (الرسوم المخففة لسقوط الأرض، التي تُدفع في حالة الارتفاع بالبقاء)**: وينظم قانون الضرائب الروسي ورسوم الاستخدام جدولاً منفصلاً ينقح دورياً؛ ويؤكّد المعدلات الحالية وفئة المستوردين الذين لديهم سماسرة في الجمارك معتمدة بدلاً من نسخ رقم صحفي.
+- ** استيراد حشري فقط/لا تعبر عن طريق بيلاروس وكازاخستان وقيرغيزستان**: يرد هذا الادعاء في دليل صناعي واحد قدره 2026 دون وجود مصدر رئيسي مأخوذ من توجيه الجمارك. معالجة مسارات الاتحاد الأوروبي الثلاثية كنقطة حرجة لتأكيدها خطياً مع مستشار الجمارك**، لا كحظر ثابت أو إذن ثابت.
+تكلفة البناء المهبطة كمجموعة مؤيدة من طراز **FTS-confirmed** - واجب + رسوم استخدام مكافئة للأفضليات + شهادة + مواصفات برمجية + لوجستيات + تأمين، وليس كنسبة مئوية واحدة مقترضة.
+## الجانب الصيني: قاعدة التصدير والرخصة التي تبلغ 2026 أصبحت الآن رسمية
+وعلى عكس نقاط التكلفة المذكورة أعلاه، فإن الجانب الصيني لمراقبة الصادرات مرسَك الآن في الوثائق الأولية (الصادرات:
+- ** لاحظ المكتب العام للجنة البحرية الدولية بشأن تطبيق تصدير السيارات/التدريب على المركبات البالغ عددها 2026 (商办贸函 〔 2025, 408, 号) 28 Sep 2025)** sets the online application system (ecomplicence.org.cn), الاستعراض الأولي للتجارة المحلية  and  قائمة المؤسسات المؤهلة المنشورة.
+- ** جونت أنونشيون لا 54 (2025) of MOFCOM, (ميت) GAC  and  يضع الفريق العامل المخصص المعني بالركاب** مركبات ركاب كهربية (المرجع HS 8703801090) في إطار نظام لرخص التصدير اعتبارا من 1 كانون الثاني/يناير 2026 **.
 - The **2026 list of enterprises qualified to apply for vehicle export licences** was published on 30 Dec 2025.
-Operationally this means your Chinese counterparty must be able to show, for the exact model: valid export qualification / a place on the current list, brand authorisation, and battery transport documentation (e.g., UN38.3). See the supplier-vetting guide for the authorisation-chain method.
-## What AutoBridge Adds Beyond a Compliance Summary
-Generic guides quote the same acronyms without resolving the deal. Our editorial procurement framework recommends (i) a single-page reconciliation of the conformity holder, customs importer of record and invoice party, (ii) deciding OTTC-or-SBKTS for each VIN before the PI is signed, and (iii) checking the Chinese exporter against the current-year MOFCOM licence list and the 2026 pure-EV passenger licensing rule — the points at which a mismatch (importer of record; unlicensed EV exporter) most often blocks a shipment.
-## Operating Sequence
-1. Fix model/variant and decide OTTC (batch) vs SBKTS (single/used); contract an EAEU-accredited body and obtain a written scope/timeline.
-2. Establish the EAEU importer of record and reconcile that entity across the OTTC/SBKTS, contract, invoice and customs filing (seek written confirmation where the conformity holder differs from the consignee).
-3. Obtain written confirmation of the ERA-GLONASS requirement, approved device/fitter and cost for your import category.
-4. Classify HS 8703.80 and obtain the **current** duty/VAT/utilisation-fee figures from FTS/EEC sources before signing.
-5. Verify the Chinese exporter's 2026 export-licence status, brand authorisation and battery documents.
-6. Confirm in writing whether any third-EAEU-country transit is permissible for your shipment; align Incoterms, payment schedule and marine insurance with the certification lead time.
-## Points to Hold Back From a Customer Quote Until Confirmed
-- Any specific EV import-duty percentage (sources conflict; No FTS primary captured).
-- Any specific date on which a personal-import ERA-GLONASS exemption began or ended.
-- Any blanket statement that EAEU transit routing is prohibited (or permitted).
-- A final landed cost built from press percentages rather than the current tariff and fee schedule.
-## Frequently Asked Questions
-**Does a Chinese EV need EAEU type approval?** Yes — ordinary road EVs are within the mandatory scope of TR CU 018/2011 (Customs Union Commission Decision No. 877, 2011); choose OTTC for batches or SBKTS for single/used units.
-**Is ERA-GLONASS mandatory?** The emergency-call requirement for M/N vehicles sits in TR CU 018/2011; the exact treatment of single/personal imports changes by implementing decision, so confirm the current requirement and approved fitment with an accredited body for your route.
-**What is the EV import duty?** This article does not state a percentage: Russian-language sources conflict (zero vs a high 2026 rate) and no FTS/EEC primary decision was captured. Classify HS 8703.80 and confirm the live rate before pricing.
-**What changed on the China side in 2026?** From 1 January 2026 pure-electric passenger vehicles are under an export-licence regime (joint Announcement No. 54), and exporters must qualify under the 2026 MOFCOM application/list process.
-**Why reconcile the importer name across documents?** As a risk-control matter, aligning the OTTC/SBKTS holder, customs importer of record and invoice consignee avoids clearance/registration disputes; where they cannot be identical, obtain written guidance from the accredited body or customs broker on the acceptable arrangement.
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
+وهذا يعني عملياً أن طرفك الصيني المضاد يجب أن يكون قادراً على أن يظهر، بالنسبة للنموذج الدقيق: مؤهلات التصدير الصحيحة/مكان على القائمة الحالية، والترخيص بالعلامات التجارية، ووثائق النقل بالبطارية (مثل UN38.3). انظر دليل فحص الموردين لطريقة الترخيص - سلاسل.
+## ما يضيفه (أوت بريدج) إلى ما بعد موجز الامتثال
+وتقتبس الأدلة العامة نفس الاختصارات دون حل الصفقة. Our editorial procurement framework recommends (i) a single-page reconciliation of the conformity holder, مستورد الجمارك  and  حفلة فواتير  (ii) deciding OTTC-or-SBKTS for each VIN before the PI is signed,  and  (iii) checking the Chinese exporter against the current-year MOFCOM licence list  and  قاعدة الترخيص للمسافرين من طراز EV، التي تبلغ 2026 قاعدة، وهي النقاط التي يُعتبر فيها خطأ (مصدر التسجيل)؛ (أ) المصدر غير المرخص له للمركبات الإلكترونية) يحجب في معظم الأحيان الشحنة.
+## تواتر التشغيل
+1. (ب) نموذج/متغير، وبت في قضية " توت " ضد شركة SBKTS (Single/used)؛ وعقد عقد هيئة معتمدة من الاتحاد الأوروبي والحصول على نطاق/خط زمني خطي.
+2. (ب) أن تُنشئ مستوردة الاتحاد الأوروبي للسجلات وأن تُطابق ذلك الكيان عبر OTTC/SBKTS، والعقود، والفواتير، والودائع الجمركية (انظر تأكيد خطي عندما يختلف حائز المطابقة عن المرسل إليه).
+3. الحصول على تأكيد خطي لشرط " إيرا - غلوناس " ، وجهاز/مربّع معتمد، وتكلفة لفئة استيرادك.
+4. صفّر 8703.80 من فئة الخدمة البشرية والحصول على أرقام الرسوم/الرسوم/الرسوم/الرسومات المستعملة/الاستعمالية من مصادر FTS/EEC قبل التوقيع.
+5. تحقق من حالة المصدر الصيني 2026 حالة التصدير، ورخصة العلامة التجارية ووثائق البطاريات.
+6. التأكد كتابةً مما إذا كان أي عبور من بلدان ثالثة إلى بلدان الاتحاد الأوروبي مسموحاً به لشحنتك؛ ومواءمة مواعيد الإرسال، والجدول الزمني للدفع والتأمين البحري مع فترة التأشير.
+## نقاط لإيقاف العودة من ملجأ العملاء حتى تأكيد
+- (أ) أي نسبة مئوية محددة من رسوم الاستيراد (المنازعات المتعلقة بالمصادر؛ لا توجد معاملات في القطاع الخاص مأخوذة في المقام الأول).
+- (أ) أي تاريخ محدد يبدأ فيه أو ينتهي الإعفاء من الإعفاء من الإعفاء من الإعفاء من الموارد الاقتصادية - غير الميسرة.
+- ويحظر أي بيان شامل بأن مسار المرور العابر في الاتحاد الأوروبي (أو يُسمح به).
+- (أ) التكلفة النهائية المهبطة التي تم بناؤها من النسب المئوية للصحافة بدلاً من الجدول الحالي للتعريفات والرسوم.
+## الأسئلة المتكررة
+** هل يحتاج أي حرف كهربي صيني إلى موافقة من نوع EAEU؟** نعم - تقع المركبات الإلكترونية العادية على نطاق إلزامي قدره 018/2011 وحدة استرجاع البيانات (قرار لجنة اتحاد الجمارك رقم 877، 2011)؛ اختيار OTTC للضربات أو SBKTS للوحدات الوحيدة/المستخدمة.
+** هل الإيرا غلوناس إلزامية؟ ** وتشتمل الاحتياجات من المركبات من طراز M/N على مبلغ 018/2011 من وحدات التخفيض المعتمد للانبعاثات؛ وعلى المعالجة الدقيقة للواردات الفردية/الشخصية من خلال اتخاذ قرار تنفيذي، مما يؤكد الحاجة الحالية والتجهيز المعتمد مع هيئة معتمدة لطريقك.
+** ما هو واجب الاستيراد في منطقة البحر الأبيض المتوسط**؟ ولا تذكر هذه المادة نسبة مئوية: Russian-language sources conflict (zero vs a high 2026 rate)  and  ولم يُستَرَ أي قرار أولي من جانب شركة FTS/EEC. صفّي (HS 8703.80) وتأكدي المعدل الحي قبل التسعير
+**What changed on the China side in 2026?** From 1 January 2026 pure-electric passenger vehicles are under an export-licence regime (joint Announcement No. 54  and  exporters must qualify under the 2026 MOFCOM application/list process.
+** لماذا تسوي اسم المستورد عبر الوثائق؟** وكمسألة تتعلق بمكافحة المخاطر، فإن مواءمة حاملي هذه المركبات، ومستوردي السجلات والفواتير المرسل إليهم، يتجنبون المنازعات المتعلقة بالتخليص/التسجيل؛ وحيثما لا يمكن أن تكون متطابقة، يحصلون على توجيه خطي من الهيئة المعتمدة أو من سمسار الجمارك بشأن الترتيب المقبول.
+## سجل الصور
+- لم يُؤمن أي منها في مستودع
 - ORIGINAL: IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
+- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
+- الحقوق - حقوق غير مؤكدة
+- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
+- CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
+- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات ويكيميو/فلكر غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات المسبقة/الرخصة، وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
 - ALT by language:
   - **EN**: AutoBridge export-buyer reference — Russia / EAEU EV import approval, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Russia / EAEU EV import approval, guide d’achat à l’export automobile
@@ -75,20 +78,20 @@ Generic guides quote the same acronyms without resolving the deal. Our editorial
   - **AR**: مرجع AutoBridge لمشتري التصدير — Russia / EAEU EV import approval, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Russia / EAEU EV import approval, 汽车出口采购指南
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## المصدر: التحقق
+| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
-| TR CU 018/2011 consolidated regulation (index; adopted by Customs Union Commission Decision No. 877, 09.12.2011 | Eurasian Economic Union legal register (**regulator official**) | EAEU | https://regulation.eaeunion.org/ (search "ТР ТС 018/2011" / Decision 877) | 2026-09-03 | **VERIFIED** | Regulation scope (L/M/N/O), adoption decision, in-force date, ERA-GLONASS framework |
-| Decision No. 877 + TR CU 018/2011 - Direct unified full text (amended through 2026) | GARANT legal database (direct reviewable document page of the official decision) | EAEU/RU | https://base.garant.ru/483421115/ | 2026-09-03 | CROSS_CHECKED | Direct, article-by-article text of Decision 877 / TR CU 018 incl. OTTC form annexes and amendments |
-| 2026 automobile/motorcycle export-licence application notice (商办贸函〔2025〕408号) | MOFCOM (**government official**) | CN | https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_7c50d6688ca34d1786a1bfd2ccde7d19.html | 2026-09-03 | **VERIFIED** | 2026 application system/process, local review, qualified list |
-| Pure-EV passenger export licensing (Announcement No. 54, 2025; from 2026-01-01, HS 8703801090) | MOFCOM / MIIT / GAC / SAMR (**government official**) | CN | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-03 | **VERIFIED** | 2026 EV export-licence regime and HS reference |
-| 2026 qualified export-licence enterprise list | MOFCOM Foreign Trade Dept (**government official**) | CN | http://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_6685d244c4f4429e9a749a1a9f34bf19.html | 2026-09-03 | **VERIFIED** | Current-year qualified-enterprise list |
-| EV customs clearance / SBKTS / EPTS process (background) | Russian-language industry outlets (BATTKA, FindCert; media) | RU | https://findcert.ru/news/rastamozhka-elektromobilya-v-rossii/ | 2026-09-03 | SINGLE OURCE | OTTC/SBKTS/EPTS process background; duty figures NOT adopted (conflict) |
-*Confidence note: the regulatory backbone (TR CU 018 / Decision 877) and the China 2026 export-licence rule are VERIFIED from regulator/government sources. Specific EV duty percentages, VAT/utilisation-fee numbers, personal-import ERA-GLONASS reinstatement dates and any no-transit rule were NOT supported by a captured FTS/EEC primary source, conflict across media, and are deliberately left as verification items rather than stated as fact.*
-## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: Russia / EAEU
-- **Verification method**: Regulator/government primary sources for settled rules; conflicting media figures withheld rather than asserted; every time-sensitive item routed to a named authority for live confirmation
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+| TR CU 018/2011 consolidated regulation (index; قرار لجنة الاتحاد الجمركي رقم 877, 09.12.2011) | السجل القانوني للاتحاد الاقتصادي الأوروبي (** مسؤول عن التنظيم**) | EAEU | https: ///إعادة التنظيم.eaeunion.org/ (search "IANO LIС 018/2011" / Decision 877) | 2026-09-03 | ** مصدق عليه** | نطاق اللائحة (L/M/N/O)، قرار التبني، في تاريخ النفاذ، إطار الجماعة الاقتصادية لدول غرب أفريقيا | https://regulation.eaeunion.org/
+| القرار رقم 877 + TR CU 018/2011 — direct consolidated full text (amended through 2026) | قاعدة بيانات قانونية عن " غرانت " (صفحة وثيقة قابلة للاستعراض مباشرة من القرار الرسمي) | EAEU/RU | https://base.garant.ru/483421115/ | 2026-09-03 | صرخات | مباشرة  article-by-article text of Decision 877 / TR CU 018 incl. : تشكل لجنة التكنولوجيا والتقييم الاقتصادي مرفقات وتعديلات |
+| 2026 إشعار بطلبات تصدير/تدريب السيارات (商办贸函 〔 2025 〕 408 号) | اللجنة الخاصة المعنية بالإجراءات المالية المتعلقة بالألغام (**مسؤول حكومي**) | CN | https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_7c50d6688ca34d1786a1bfd2ccde7d19.html | 2026-09-03 | ** مصدق عليه** | 2026 نظام/عمليات تطبيق، استعراض محلي، قائمة مؤهلة |
+| ترخيص تصدير الركاب من طراز EV (Announcement No. 54, 2025; from 2026-01-01, HS 8703801090) | حركة عدم الانحياز/ميتي/الحركة الدولية للمساعدة التقنية/الفريق الاستشاري المعني بالنقل البحري (**مسؤول حكومي**) | CN | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-03 | ** مصدق عليه** | 2026 نظام تصدير وإحالة نظام الضمان الاجتماعي |
+| 2026 qualified export-licence enterprise list | وزارة الخارجية والتجارة الخارجية (** مسؤول حكومي**) | CN | http://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_6685d244c4f4429e9a749a1a9f34bf19.html | 2026-09-03 | ** مصدق عليه** | قائمة المؤسسات المؤهلة للسنة الحالية |
+| تصاريح الجمارك الإلكترونية/عملية SBKTS/ EPTS (منافذ خلفية) | منافذ صناعة اللغة الروسية (BATTKA, FindCert; media) | RU | https://findcert.ru/news/rastamozhka-elektromobilya-v-rossii/ | 2026-09-03 | SINGLE OURCE | خلفية العمليات المتعلقة بمراكز العمل/المعاملات التجارية/العمليات؛ أرقام الرسوم غير المعتمدة (الصراع) |
+* ملاحظة بشأن الملاءمة: العمود الفقري التنظيمي (TR CU 018 /المقرر 877) وقاعدة التصدير 2026 الصينية مستنسخة من مصادر التنظيم/الحكومة. ولم تدعم النسب المئوية المحددة لواجبات الاستحقاق الإلكتروني، وأرقام ضريبة القيمة المضافة/الاستعمال، ومواعيد إعادة الاستيراد الشخصي إلى منطقة البحيرات الكبرى، وأي قاعدة لعدم الانتقال، مصدر رئيسي مأساوي من طراز FTS/EEC، وصراع عبر وسائط الإعلام، وتُترك عمداً كبنود تحقق بدلاً من أن تُذكر على أنها حقيقة. ♪
+## استعراض التحرير
+- ** مستعرض/مراجع**: [فريق تحرير تصدير أوتو بريدج] (/مؤلف/) - طريقة لكل [سياستنا الانتخابية] (/سياسة التحرير/)
+- ** لم يُستعرض بعد**: 2026-09-05
+- ** سوق الإحالة**: روسيا/الاتحاد الأوروبي
+- ** طريقة الفرز**: المصادر الرئيسية للنظام/الحكومة للقواعد المستقرة؛ وأرقام وسائط الإعلام المتضاربة التي تحجب بدلا من التأكيد عليها؛ وكل بند يراعي الوقت يتجه إلى سلطة معينة للحصول على تأكيد حي
+- ** المعيار الإفريقي**: باحثة ومحررة من المصادر المذكورة أعلاه (بحوث مكتبية؛ ولا يُدَّعى عن أي قيادة مباشرة أو تمزق أو استيراد). وتظهر الثقة في المصدر في الصف الواحد؛ وأي نقطة لا يمكننا تأكيدها بشكل مستقل تعرض كبند تحقق بدلا من التأكيد على أنها حقيقة.
 #AutoBridge #ExportProcurement #RussiaImport #EAEUTypeApproval #EVCompliance

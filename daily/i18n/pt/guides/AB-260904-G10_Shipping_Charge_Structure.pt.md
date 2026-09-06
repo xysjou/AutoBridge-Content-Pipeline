@@ -4,7 +4,7 @@
 - ** Título SEO**: Estrutura de carga marítima para exportação de veículos — O/F, THC, DOC, BAF explicado
 - ** Descrição do Meta**: Compreender O/F, THC, DOC/SEAL/VGM, BAF e sobretaxas, origem vs taxas de destino, e porque as taxas de manifesto AMS/ACI/ENS são específicas de rota – um guia de estrutura que deliberadamente não declara valores fixos.
 - ** URL sugerido**: /guides/ocean-freight-carga-estrutura-veículo-exportação
-- ** H1 **: Decodificação de uma Quota de Frete de Exportação de Veículos: Que Cobra Existe, Quem Cobra deles, e O que Verificar
+- ** H1 **: Decodificação de uma Quota de Transporte de Veículos: Que Cobra Existe, Quem Cobra deles, e O que Verificar
 - **Primary Keyword**: ocean carry estrutura veículo exportação THC DOC BAF
 - ** Termos de pesquisa secundários**: frete O/F oceano, taxa de manipulação de terminal, taxa de documento DOC, taxa SEAL VGM, sobretaxa BAF EBS, taxa de manifesto AMS ACI ENS, origem vs taxas de destino
 - ** Sugestões de ligação interna**: /guias/veículo-exportação-bill-of-lading-types/; /guias/veículo-exportação-pdi-pré-navio-manufação/; /guias/veículo-exportação-hs-código-classificação/
@@ -52,11 +52,14 @@ Uma taxa de frete de manchete ganha reservas e perde dinheiro no destino. Os exp
 - IMAGEM_ASSET_PATH: nenhum protegido no repositório
 - ORIGINAL_ IMAGE_ URL: não capturado
 - ORIGINAL_PAGE: não capturado
+- ORIGINAL_FILE_PAGE: não aplicável — nenhum ficheiro de mídia candidato identificado (sem licença para afirmar)
 - DIREITOS_OLDER: não confirmado
 - LICENSE_OR_USAGE_BASIS: nenhuma imagem segura — nenhuma imagem de terceiros pode ser publicada até que os direitos sejam compensados
-- Data_ Marcada: 2026-09-05
+- Data_ Marcada: 2026-09-06
 - MODEL_TOPIC_ MATCH: deve corresponder ao modelo/versão exato (ou ao tópico guia) e ao mercado de referência acima
+- IMAGEM_SCOPE_NOTE: corresponde à família/tópico do modelo exato; não deve implicar uma aparação/modelo-ano específico, VIN real, inspeção em pessoa ou transação real
 - IMAGEM_RIGHTS_STATUS: FALHA (não é aceita nenhuma propriedade licenciada capturada; uma nota de placeholder ou “reter imagem antiga”)
+- BLOCK_REASON: Nenhuma imagem reutilizável pode ser segura: Wikimedia Commons/Flickr são inalcançáveis do ambiente de pesquisa, bibliotecas de estoque requerem acesso autenticado API/licença, e uma imagem de página web OEM NÃO é uma concessão de reutilização comercial; nenhuma foto de propriedade da AutoBridge existe. Mantive-me em vez de afirmar.
 - ALT por língua:
   - **EN**: AutoBridge export-buyer reference — Ocean freight quotation charge structure, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Ocean freight quotation charge structure, guide d’achat à l’export automobile
@@ -80,7 +83,7 @@ Uma taxa de frete de manchete ganha reservas e perde dinheiro no destino. Os exp
 | Taxas FOB comuns (THC/reserva/caminhão) | 11467 | NC | https://m.11467.com/product/d24491409.htm | 2026-09-04 | FONTE ÚNICA | Nomeação de carga |
 * Âmbito de prova: estrutura de carga cruzada de fontes da indústria (sem fonte primária tarifária oficial); AMS/ACI/ENS enquadrado como orientação editorial específica para rotas; todos os montantes deliberadamente excluídos como sensíveis ao tempo. *
 
-| Incoterms 2020 regras (que organiza / paga transporte em cada termo) | Câmara de Comércio Internacional (CCI) | INT' L | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/ | 2026-09-05 | VERIFICADO | Qual frete / cargas caem para comprador vs vendedor por Incoterm |
+| Incoterms 2020 regras (que organiza/paga transporte em cada termo) | Câmara de Comércio Internacional (CCI) | INT' L | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/ | 2026-09-05 | VERIFICADO | Qual frete / cargas caem para comprador vs vendedor por Incoterm |
 | Práticas e categorias de encargos para os transportadores | FIATA | INT' L | https://fiata.org/ | 2026-09-05 | VERIFICADO | Cotação/referência da estrutura de carga do expedidor |
 | Transporte de linha e contexto sobretaxa | Conselho Mundial da Navegação | INT' L | https://www.worldshipping.org/ | 2026-09-05 | VERIFICADO | Contexto industrial para o transporte marítimo e encargos acessórios |
 | China Internacional Associação dos Transitários de Carga | CIFA | NC/INT'L | http://www.cifa.org.cn/ | 2026-09-05 | VERIFICADO | Indústria de encaminhamento do lado da China e prática de cotação |

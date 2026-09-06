@@ -1,61 +1,64 @@
-# SANY Concrete Mixer Truck (SY Series): Read It as Chassis + Superstructure + Drum Capacity
-## SEO Metadata
-- **SEO Title**: SANY Concrete Mixer Truck Specs: Drum Capacity, Chassis & Export
-- **Meta Description**: Chinese-market SANY SY-series mixer trucks — 6–10 m³ drums, SY310C-8S(V) 10 m³ with 400 L water tank, Hino/Yuchai/Weichai/Sany Power engines, integrated frame, and an 8×4 BEV option.
-- **Suggested URL**: /vehicles/sany-concrete-mixer-truck-specs/
-- **H1**: SANY SY-Series Concrete Mixer Truck (Chinese-Market): Superstructure, Chassis and Export Checks
-- **Primary Keyword**: sany concrete mixer truck specifications
-- **Secondary Search Terms**: SANY SY310C mixer, 10m3 mixer truck, concrete mixer chassis superstructure, Sany Power D09C5, electric mixer truck 8x4, mixer drum capacity
-- **Internal Link Suggestions**: /vehicles/faw-jiefang- j6p-tractor-specs/; /vehicles/yutong- zk6122-coach-specs/; /guides/vehicle-pre-shipment-inspection-psi/
-- **Image Suggestions**: mixer drum and chute; chassis + superstructure side; integrated frame; water tank; 8×4 electric mixer
-- **ALT Suggestions**: "SANY SY310C ten cubic metre mixer truck"; "mixer truck chassis and drum superstructure"
+# セイント 具体的なミキサーのトラック(SYシリーズ): 読む シャーシとして+超構造+ドラム容量
+## ツイート メタデータ
+- ** SEO のタイトル**: SANY のトラックのミキサーのトラックのSpecs: ドラム容量、シャーシ及び輸出
+- **メタ 記述**: Chinese-market SANY SY-series mixer trucks — 6–10 m³ drums,  SY310C-8S(V) 10 m³ with 400 L water tank, 日野・夕日・水海・山 パワーエンジン, 統合されたフレーム,  and  8×4 BEVオプション
+- **混雑URL**: /vehicles/sany-concrete-mixer-truck-specs/
+- H1 **: SANY SYシリーズコンクリートミキサートラック(中国市場): 構造、シャーシおよび輸出点検
+- **主なキーワード**: sany コンクリートミキサー車仕様
+- **二次検索条件**:SANY SY310Cミキサー、10m3ミキサートラック、コンクリートミキサーシャーシのスーパー構造、SanyパワーD09C5、電動ミキサートラック8x4、ミキサードラム容量
+- **内部リンクの提案**: /vehicles/faw-jiefang- j6p-tractor-specs/; /vehicles/yutong- zk6122-coach-specs/; /guides/vehicle-pre-shipment-inspection-psi/
+- **イメージ提案**:ミキサードラムとシュート;シャシ+上部構造面;一体型フレーム;水漕;8×4電動ミキサー
+- アルト 提案**: "SANY SY310C ten cubic metre mixer truck"; 「ミキサートラックのシャーシおよびドラム上部構造」
 
-## Buyer Context: a Special Vehicle Is Two Products Bolted Together
-A mixer truck is a **special-purpose vehicle**: a truck **chassis** plus a rotating-drum **superstructure** with its own hydraulic drive, water system and discharge equipment. Spec it by **drum capacity → chassis/engine → GVW/axles → superstructure equipment**, and confirm the whole combination against a homologated model code. This page covers SANY's **Chinese-market SY series (REFERENCE MARKET: CHINA)**; SANY product-line and model pages are the OEM source, while the electric variant is reported via trade media.
+## バイヤーのコンテキスト: a Special Vehicle Is Two Products Bolted Together
+ミキサー車は、**専用車**:トラック**シャーシ**と回転ドラム**のスーパー構造**独自の油圧ドライブ、水システム、放電装置。 **ドラム容量→シャーシ/エンジン→GVW/アキル→スーパー構造機器**でそれをスペックし、均質なモデルコードに対する全組み合わせを確認します。 このページでは、SANYの**中国市場SYシリーズ(REFERENCE MARKET: CHINA)**をカバーしています。 SANYの製品ラインとモデルページはOEMのソースであり、電気的変種は取引媒体を介して報告されています。
 
-## Drum Capacity Line (the first decision)
-SANY's line spans three drum-size bands: **6–7 m³ / 8–9 m³ / 10 m³** (OEM product line). The named reference unit **SY310C-8S(V)** carries a **10 m³ drum and a 400 L water tank** (OEM model page). Choose drum size against local axle-load/GVW law — a larger drum is not legal on every chassis or in every market.
+## ドラム容量ライン(最初の決定)
+SANY's line spans three drum-size bands: **6–7 m³ / 8–9 m³ / 10 m³** (OEM product line). The named reference unit **SY310C-8S(V)** carries a **10 m³ drum  and  400 L ウォータータンク**(OEM モデルページ) ローカルアクスルロード/ GVW 法に対するドラムサイズを選択すると、より大きなドラムは、すべてのシャシやあらゆる市場では法的ではありません。
 
-## Chassis and Engine Options
-- Reference engine on the SY310C: **Sany Power D09C5-380E3** (OEM model page).
-- Across the line, engines are offered from **Hino / Yuchai / Weichai / Sany Power** (OEM product line) — name the brand and model on the order; parts availability differs sharply by engine family in the destination.
-- Confirm **drive layout (e.g., 8×4), GVW/axle load, gearbox and PTO-driven hydraulic pump** for the drum.
+## シャーシおよびエンジンのオプション
+- SY310Cのリファレンスエンジン:**Sany Power D09C5-380E3 ** (OEMモデルページ)。
+- ライン全体で、エンジンは**ハイノ/ユチャイ/ウィーチャイ/サンイパワー**(OEM製品ライン)から提供されています。 注文にブランドとモデルの名前。 部品在庫は、目的地のエンジンファミリーによってシャープに異なります。
+- **ドライブレイアウト(例、8×4)、GVW /アコールロード、ギアボックス、PTO駆動油圧ポンプ**ドラム用。
 
-## Superstructure and Frame
-- Some models use an **integrated frame without a separate subframe (无副车架一体化结构)** — single-source; verify the exact model and its weight/centre-of-gravity implications.
-- Specify **drum rotation drive, chute/extension length, water-system capacity and pump, discharge direction and operator controls**. These define on-site usability more than the badge.
-- Chinese coverage also references a large **20 m³** class mixer and integrated-frame engineering (party-media report) — a different size class, not to be conflated with the 6–10 m³ line.
+## 構造とフレーム
+- 一部のモデルは、別々のサブフレーム(无副车架一体化结构)** - 単元ではなく、*一体化されたフレームを使用します。 正確なモデルと重量/重度の影響を確認します。
+- **ドラム回転ドライブ、シュート/延長長さ、水システム容量およびポンプ、排出の方向およびオペレータ制御**を指定して下さい。 これらは、バッジよりもオンサイトのユーザビリティを定義します。
+- Chinese coverage also references a large **20 m³** class mixer  and  統合型フレームエンジニアリング(パーティ・メディア・レポート) — 異なるサイズのクラス、  not to be conflated with the 6–10 m³ line.
 
-## Electric (BEV) Mixer Variant
-An **8×4 all-electric mixer** is reported with a Fast (法士特) TZ368XSSFD01 permanent-magnet motor at **350 kW peak / 215 kW rated** (single-source trade-media/announcement report). Treat this as a configuration to confirm against the current announcement and battery/charging spec — do not merge it with the diesel line's figures.
+## 電動(BEV)ミキサーバリアント
+** 8×4オール電ミキサー**は、Fast(法士特)TZ368XSSFD01永続的なマグネットモーターと報告されています** 350 kWピーク/215 kW定格**(単一ソースの取引媒体/お知らせ報告)。 現発表とバッテリー/充電仕様に反する設定として、ディーゼルラインの数値と統合しないでください。
 
-## What Importers Should Verify Before Payment
-1. **Drum m³ and the exact model code** → chassis, GVW, axle count, legal payload in the destination.
-2. **Engine brand/model** (Hino/Yuchai/Weichai/Sany Power), emission stage and local parts/service.
-3. **Superstructure equipment**: hydraulic drive, water tank, chute, discharge side, controls.
-4. **Frame type** (integrated vs subframe) and **weight distribution**; special-vehicle type approval.
-5. For the BEV: **battery, charging interface, UN38.3/MSDS and EV shipping route**; PSI of drum rotation and hydraulics before loading.
+## 支払い前に輸入業者が確認すべきこと
+1. **Drum m³  and  厳密なモデル コード** → シャーシ、 GVWの アクスルカウント, 目的地の法的ペイロード。
+2. **エンジンブランド/モデル**(ハイノ/ユナイア/ウィーシャ/サニーパワー)、エミッションステージ、ローカルパーツ/サービス。
+3. **Superstructor装置**:油圧ドライブ、水漕、シュート、排出の側面、制御。
+4. **フレームタイプ**(統合対サブフレーム)および**重量分布**;特殊車両タイプ承認。
+5. ビーブの場合:**バテリ、充電インタフェース、UN38.3/MSDS、EV出荷ルート**; ドラム回転のPSIとロード前に油圧。
 
-## Request a Current Export Quotation
-No static export price and no China MSRP were captured; none is invented. Enquire with **Destination Country · Drum m³ · Model Code · Engine Brand/Emission · LHD/RHD · Destination Port · Incoterm**.
+## 現在のエクスポート見積をリクエストする
+静的な輸出価格無しおよび中国MSRPは捕獲されませんでした; 発明されたものはありません。 Enquire with **Destination Country · Drum m³ · Model Code · Engine Brand/Emission · LHD/RHD · Destination Port · Incoterm**.
 
-## Frequently Asked Questions
-**What drum sizes does SANY offer?** Three bands: 6–7, 8–9 and 10 m³; the SY310C-8S(V) is the 10 m³ reference with a 400 L water tank.
-**Which engines are available?** Hino, Yuchai, Weichai or Sany Power (the SY310C reference uses Sany Power D09C5-380E3); confirm per order.
-**Why spec chassis and superstructure separately?** They are distinct products — the chassis sets GVW/axles/power while the drum, hydraulics and water system define concrete-carrying capability.
-**Is there an electric mixer?** An 8×4 BEV with a 350 kW peak/215 kW rated motor is reported (single-source); confirm current specs and EV shipping documents.
-**Does a bigger drum always mean more payload?** No — legal payload is set by GVW and destination axle-load rules, not drum volume alone.
+## よくある質問
+**What drum sizes does SANY offer?** Three bands: 6–7の  8–9  and  10 m³; the SY310C-8S(V) is the 10 m³ reference with a 400 L water tank.
+**エンジンはどのエンジンも利用できますか?** 日野、ユチャイ、ウィーチャイ、またはSany Power(SY310C参照はSany Power D09C5-380E3を使用しています)。 注文ごとに確認します。
+**スペックシャシとスーパー構造は別々に?** それらは、ドラム、油圧および水システムはコンクリート運送の機能を定義する間、シャシはGVW/車軸/力を置きます。
+**電気ミキサーはありますか?** 350 kWピーク/ 215 kW定格モーターを搭載した8×4 BEVが報告されています(単一ソース)。 現在のスペックとEVの出荷文書を確認します。
+**ドラムが大きいので、常にペイロードが大きいか?** いいえ — 法的ペイロードは GVW と目的地のアクスルロードルールによって設定されます。ドラムのボリュームだけではありません。
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
-- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- ALT by language:
+## 映像の記録
+- IMAGE_ASSET_PATH:リポジトリで保護されていない
+- ORIGINAL_IMAGE_URL: キャプチャされていない
+- SOURCE_PAGE: キャプチャされていない
+- SOURCE_FILE_PAGE: 該当なし — 特定候補のメディアファイル (アサートするライセンスなし)
+- 権利_ホルダー:未確認
+- LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
+- CHECKED_DATE: 2026-09-06(税抜き)
+- MODEL_TOPIC_MATCH: 上記の正確なモデル/バージョン(またはガイドトピック)と参照市場と一致しなければなりません
+- IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
+- IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
+- ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
+- 言語によるALT:
   - **EN**: AutoBridge export-buyer reference — SANY SY-series, petrol/diesel Chinese-market vehicle / concrete mixer truck
   - **FR**: Référence AutoBridge pour acheteurs export — SANY SY-series, véhicule thermique (marché chinois) / camion malaxeur à béton
   - **DE**: AutoBridge-Referenz für Exportkäufer — SANY SY-series, Verbrenner (chinesischer Markt) / Betonmisch-Lkw
@@ -69,24 +72,24 @@ No static export price and no China MSRP were captured; none is invented. Enquir
   - **AR**: مرجع AutoBridge لمشتري التصدير — SANY SY-series, مركبة بمحرك احتراق (سوق الصين) / شاحنة خلط خرسانة
   - **ZH**: AutoBridge 出口采购参考｜SANY SY-series, 中国市场燃油车 / 混凝土搅拌车
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## ソースと検証
+| ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
 |---|---|---|---|---|---|---|
-| SANY mixer-truck product line (capacities/engine brands) | SANY Group (OEM official, CN-language site) | CN / global product | https://www.sanyglobal.com/cn/product/concrete_machinery/truck_mixer/ | 2026-09-03 | VERIFIED | 6–7/8–9/10 m³ bands; Hino/Yuchai/Weichai/Sany Power |
-| SY310C-8S(V) 10 m³ model parameters | SANY Group (OEM official) | CN / global product | https://www.sanyglobal.com/cn/product/concrete_machinery/truck_mixer/122/1610/ | 2026-09-03 | VERIFIED | 10 m³ drum, 400 L water, D09C5-380E3 engine |
-| SANY electric mixer announcement (350 kW) | Truck Home / Toutiao | CN | http://m.toutiao.com/group/6877415697362715147/ | 2026-09-03 | SINGLE_SOURCE | 8×4 BEV, 350 peak/215 rated kW |
-| SANY integrated frame / 20 m³ mixer | Hunan Daily / Toutiao | CN | http://m.toutiao.com/group/6705156123395097102/ | 2026-09-03 | CROSS_CHECKED | Integrated-frame engineering, large-size class context |
-| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
-| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VERIFIED | China-VI compression-ignition (heavy diesel) emission stage for trucks/coaches |
-| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
+| サイネージミキサートラック製品ライン(容量/エンジンブランド) | サイネージグループ(OEM公式、CN-言語サイト) | CN/グローバル製品 | 以下は、 //www.sanyglobal.com/cn/product/concrete_machinery/truck_mixer/ は、 | 2026-09-03 | 検証済み | 6–7/8–9/10 m³ bands; 日野/中国/Weichai/Sany力 |
+| SY310C-8S(V) 10 m³ model parameters | サンアイグループ(OEM公式) | CN/グローバル製品 | 以下は、 //www.sanyglobal.com/cn/product/concrete_machinery/truck_mixer/122/1610/ の | 2026-09-03 | 検証済み | 10 m³ drum, 400 L 水, D09C5-380E3 エンジン |
+| サンイ電気ミキサー発表(350 kW) | トラック ホーム / トゥーティーアオ | CN の | 担当: //m.toutiao.com/group/ 6877415697362715147/ の | 2026-09-03 | シングル_ソース | 8×4 BEV、350ピーク/ 215定格kW |
+| SANY integrated frame / 20 m³ mixer | フーナンデイリー/トウティアオ | CN の | 担当: //m.toutiao.com/group/ 6705156123395097102/ の | 2026-09-03 | CROSS_CHECKED(クロス) | 統合フレームエンジニアリング、大型クラスコンテクスト |
+| ロードモーター車メーカーと製品カタログ — 公開クエリシステム | 工業情報技術省、中国情報技術省 | CN の | 以下は、 ................................................................................................................................ | 2026-09-05 | 検証済み | 注文するか、または輸出する前に製造業者、承認されたモデルおよび均質化(公告)のカタログの記入項目を確認して下さい |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | 市場規制のSAMR、州政局 | CN の | 以下は、 //www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | 検証済み | ベースライン中国車安全技術条件と電流/改定タイムライン |
+| GB 17691-2018の頑丈なディーゼル車の汚染物質の放出(中国VI) | エコロジー・環境省(MEE) | CN の | 以下は、 .mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html の | 2026-09-05 | 検証済み | 中国のVI 圧縮点火(重力ディーゼル)のトラック/コハスの排出の段階 |
+| GB 19147の自動車ディーゼル燃料の国民の標準(低硫黄の基礎) | SAMR全国規格全文プラットフォーム | CN の | 以下は、 //openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A のリリース | 2026-09-05 | 検証済み | ディーゼル燃料グレードと硫黄ベースでエンジン/排出設計を海外に合わせる |
 
-*Confidence note: drum capacities and engine brands are VERIFIED on SANY's own OEM pages (scope = product specification). Integrated-frame detail and the BEV motor are single-source and require confirmation on the current homologated model code. No price is asserted.*
+※本機能:ドラム容量やエンジンブランドは、SANY社のOEMページ(スコープ=製品仕様)にて検証されています。 一体型フレームのディテールとBEVモーターは、単一ソースで、現在の均質なモデルコードの確認が必要です。 価格は主張しません。 ふりがな
 
-## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: China, SANY SY series (OEM product-line reference; configuration-specific)
-- **Verification method**: OEM primary pages + trade cross-check; single-source and scope flagged per SOURCE_SCOPE rule
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+## 編集レビュー
+- **著者/査読者**:【AutoBridge 輸出編集チーム】(/authors/)・方法による【編集ポリシー】(/editorial-policy/)
+- **最終審査**:2026-09-05
+- **参考市場**: 中国、SANY SYシリーズ(OEM製品ラインリファレンス、構成固有の)
+- **検証方法**:OEMの第一次ページ+貿易交差チェック;単一ソースとスコープはSOURCE_SCOPEルールごとにフラグ
+- ** 編集規格**: 上記情報源(デスクリサーチ、片手運転、涙流、輸入)から研究・執筆 ソースの自信は行ごとに示されます。 私たちが独立して確認できない点は、事実として主張するのではなく、検証項目として提示されます。
 #AutoBridge #VehicleExport #SANY #ConcreteMixer #SpecialTruck

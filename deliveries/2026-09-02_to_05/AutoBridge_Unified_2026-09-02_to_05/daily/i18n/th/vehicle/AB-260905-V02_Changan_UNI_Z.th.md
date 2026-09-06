@@ -1,87 +1,90 @@
-# Changan UNI-Z (2026, New Blue Feblies) — New-Muset Specess and Excertation
+# Changan Uni-Z (2026, New Blue FailEV) — New-Magnet Specs and Exccess Recordation
 
-## SEO Metadata
-- **SEO Title**: Changan UNI-Z PHEV 2026: Chinese-Market Specs & Export Buyer Guide
-- **Meta Description**: Chinese-market Changan UNI-Z new Blue Whale PHEV: dimensions, 18.4 kWh LFP line, 130 km CLTC electric range, DC/V2L, and VIN-level checks for importers.
-- ~ H1~: Changan UNI-Z (2026, New Blue Feblies) — New-Muset Specess and Excertation
-- **Primary Keyword**: Changan / 长安 UNI-Z specs export
-- **Secondary Search Terms**: Changan UNI-Z export; UNI-Z PHEV specs; Chinese plug-in hybrid SUV; V2L export; CLTC range
-- **Suggested URL**: /vehicles/changan-uni-z/
-- **Search Intent**: 了解 Changan / 长安 UNI-Z 中国版规格、配置与出口适配性（车型参数页）
-- **Internal Link Suggestions**: / Viohless/ Chaangan-uni-z////gides/china-exports-discentation-sing-single-wow////guides/cccccc-cccccc-cort-exporting-exporting/
-- ~Schema Scope~: Article + Vehicle (no Product/Offer/Review)
+## เชา ข้อมูลกํากับภาพ
+- < secontinuation*: Changan-Z febef 2026: ภาษาจีน-kark Specs & ส่งออกคู่มือผู้ซื้อ
+- ""คําอธิบาย" จีน-มาร์เก็ต เชียงนัน ยูเอ็น-ซี ใหม่ ฟอร์เวล: มิติ, 18.4 kWh LFP สาย, 130 km CLTC เรนจ์, DC/ V2L และตรวจระดับ VIN-v.
+- **H1**: Changan Uni-Z (2026, New Blue FailEV) — New-Magnet Specs and Exccess Recordation
+- ~คําสําคัญในเอกสาร ~: เชียงนา / 长安 UNI-Z สเปกตรัม
+- ** สืบค้นเมื่อ September ~: changan UNI-Z Express; UNI-Z PEV สเปก; จีนเสียบปลั๊ก SUV; V2L Explect; CLTC เรนจ์
+- ~ที่อยู่ URL ที่ถูกย่อ: / เวกนิกส์/ ชาแกน-อูนี-ซ/
+- ~ การค้นหาที่เชื่อมโยง~: 了解 เชียงนาง / 长安 ยูเอ็นไอ-ซี 中国版规格 、 配置与出口适配性 (车型参数页) (พ.ศ.
+- ** เชื่อมโยงภายใน *: / viohics/ Chani-z/////guides/china-export-declatation-sing-single-wow//////guides/cccccccc-cortcentation-export exportation/
+- ~Schema Scop~: มาตรา + moft (ไม่มี Production/Offer/Review)
 
-## Buyer context and model identity
-The **Changan UNI-Z (2026)** covered here is the Chinese-market **new Blue Whale (Xin Lan Jing) plug-in hybrid** compact SUV. It is a distinct line from any pure-petrol UNI-Z and from export-market nameplates Changan may use elsewhere; no overseas-name equivalence is claimed without an OEM statement. Reference market is **China**.
+## แก้ไขโครงการหลัก...
+The Changan UNI-Z (2026) ครอบคลุมที่นี่ คือ ห้างใหม่จีน-มาร์เก็ต ปลาวาฬสีน้ําเงิน (จีนลัน เจิง) ปลั๊กลูกผสมผสมผสมผสม มันเป็นสายที่แตกต่างกันจาก UNI-Z บริสุทธิ์ และจากชื่อตลาดส่งออก แชงอันอาจจะใช้ที่อื่นก็ได้ ไม่มีชื่อต่างประเทศว่า quience ถูกอ้างโดยไม่มีการแถลงของโออีเอ็ม ตลาดอ้างอิงคือ.... จีน
 
-## Powertrain, battery and electric capability
-- **Dimensions**: 4730 / 1890 / 1660（部分配置1680） mm (some configurations 1680 mm tall), wheelbase 2795 mm (cross-checked); cargo volume 638 L.
-- **Hybrid engine**: 72（1.5L混动专用发动机） kW dedicated hybrid engine; drive motor 160 kW (cross-checked); E-CVT（电混传动）.
-- ~Battery ~: 磷酸铁锂, about 约18.4 kWh. The cell supplier appears under two accounts in secondary sources and is held as **unconfirmed** — it is not asserted here.
-- **Electric range**: 130 km CLTC (cross-checked); combined CLTC 1250 km.
-- **Electrical features buyers ask about**: DC fast-charge power 85 kW; vehicle-to-load 3.3 kW; centre screen 14.6.
+## แบตเตอรี่ และพลังงานไฟฟ้า
+- ~ ความแตกต่าง~: 4730 / 1890 / 1660 (部分配置 1680) mm (บางรูปแบบสูง 1680 mm)  wheelbase 2795 mm (cross-checked); cargo volume 638 L.
+- ** Hybrid เครื่องยนต์ ~: 72 (1.5L 混动专用发动机) kW อุทิศเครื่องยนต์ลูกผสม; ไดรฟ์ 160 kW (ข้ามเวลา); E-CVT(电混传动).
+- ~Battery ~: 磷酸铁锂 ประมาณ 约 18.4 kWh. ผู้ผลิตเซลล์ปรากฏภายใต้สองบัญชีในแหล่งย่อย และถือเป็น ~ยืนยัน~ — ที่นี้ยังไม่ได้รับการยืนยัน
+- ~ช่วงของไฟฟ้า~: 130 km CLTC (ข้ามการตรวจสอบ; ค.ศ. ผนวก CLTC 1250 km.
+- ~ผู้ซื้อคุณสมบัติทางไฟฟ้าถามเกี่ยวกับ ~: DC ชาร์จไฟเร็ว 85 kW; พาหนะต่อการโหลด 3.3 kW; หน้าจอกลาง 14.6.
 
-## Verified specification table (Chinese-market reference)
-| Specification | Value | Unit | Market | Confidence | Source note |
+## ตารางกําหนดเพิ่มเติมเพิ่มเติม (อ้างอิงของ Chinese- market)
+| การกําหนด | ค่า | หน่วย | ตลาด | ความมั่นใจ | บันทึกช่วยจําต้นฉบับ |
 |---|---|---|---|---|---|
-| length width height | 4730 / 1890 / 1660（部分配置1680） | mm | CHINA | ROOS_ CHCKED | 汽车之家+搜狐 |
-| wheelbase | 2795 | mm | CHINA | ROOS_ CHCKED | 汽车之家+搜狐 |
-| cargo volume | 638 | L | CHINA | SINGLE_SOURCE | 搜狐汽车 |
-| engine power | 72（1.5L混动专用发动机） | kW | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
-| motor power | 160 | kW | CHINA | ROOS_ CHCKED | 汽车之家+搜狐 |
-| transmission | E-CVT（电混传动） | - | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
-| battery type | 磷酸铁锂 | - | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
-| battery capacity | 约18.4 | kWh | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
-| ev range cltc | 130 | km | CHINA | ROOS_ CHCKED | 汽车之家+搜狐 |
-| combined range cltc | 1250 | km | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
-| dc fast charge power | 85 | kW | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
-| v2l export power | 3.3 | kW | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
-| center screen | 14.6 | 英寸 | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
+| ความสูงของความกว้าง | 4730 / 1890 / 1660 (部分配置 1680) พ.ศ. | อืม | จีน | ROOS_ CHCKED | 汽车之家 + 搜狐 |
+| เบสล้อ | 2795 | อืม | จีน | ROOS_ CHCKED | 汽车之家 + 搜狐 |
+| ระดับเสียงของสินค้า | 638 | L | จีน | ผู้โดยสาร_ปลายทาง | 搜狐汽车 |
+| พลังของเครื่องยนต์ | 72 (1.5L 混动专用发动机) พ.ศ. | kW | จีน | ผู้โดยสาร_ปลายทาง | 汽车之家车家号 |
+| พลังมอเตอร์ | 160 | kW | จีน | ROOS_ CHCKED | 汽车之家 + 搜狐 |
+| การส่ง | E-CVT(电混传动). | - | จีน | ผู้โดยสาร_ปลายทาง | 汽车之家车家号 |
+| ชนิดของแบตเตอรี | 磷酸铁锂 | - | จีน | ผู้โดยสาร_ปลายทาง | 汽车之家车家号 |
+| แบตเตอรี | 约18.4 | k อื | จีน | ผู้โดยสาร_ปลายทาง | 汽车之家车家号 |
+| ช่วงของค่า cltc | 130 | กิโลเมตร | จีน | ROOS_ CHCKED | 汽车之家 + 搜狐 |
+| เพิ่มช่วง cltc | 1250 | กิโลเมตร | จีน | ผู้โดยสาร_ปลายทาง | 汽车之家车家号 |
+| ชาร์จเร็ว dc | 85 | kW | จีน | ผู้โดยสาร_ปลายทาง | 汽车之家车家号 |
+| v2l อํานาจส่งออก | 3.3 | kW | จีน | ผู้โดยสาร_ปลายทาง | 汽车之家车家号 |
+| ตรงกลางจอ | 14.6 | 英寸 | จีน | ผู้โดยสาร_ปลายทาง | 汽车之家车家号 |
 
-## Why the battery line and V2L matter for export orders
-UNI-Z orders are easy to mis-specify because the same badge covers different electrification levels. Name the **battery capacity and electric range line** on the proforma, and treat the 85 DC and 3.3 V2L figures as Chinese-market equipment to be re-confirmed for the destination wiring/grid standard. A CLTC electric range is not a WLTP figure, and an export-market name, powertrain calibration or warranty is not established by the China sources captured here.
+## ทําไมสายแบตเตอรีและ V2L สสารสําหรับคําสั่งส่งออก
+คําสั่งของUNI-Z ง่ายที่จะระบุข้อมูลผิดๆ เพราะตราแบบเดียวกันครอบคลุม ระดับการเลือกตั้งที่แตกต่างกัน ตั้งชื่อความจุของ # แบตเตอรีและสายไฟฟ้า 'บนโปรฟอร์มตา' และรักษา 85 DC และ 3.3 V2L ตัวเลข เป็นอุปกรณ์ตลาดจีนเพื่อยืนยันอีกครั้ง สําหรับตําแหน่งเชื่อมต่อเส้นทางปลายทาง/มาตรฐานการกริด CLTC เรนจ์ไม่ใช่เลข WLTP และชื่อตลาดส่งออก กรมไฟฟ้าหรือการรับประกันไม่ได้ก่อตั้งขึ้นโดยแหล่งผลิตของจีนที่ถูกจับไว้ที่นี่
 
-## Overseas buyer verification before payment
-1. Confirm the exact PHEV configuration and battery capacity by VIN; separate it from ICE UNI-Z builds.
-2. Reconcile CLTC 130 km against the destination test cycle.
-3. Verify DC charge connector/protocol and V2L export suitability for the destination market.
-4. Obtain destination PHEV type-approval/emissions documentation rather than inferring from China specs.
-5. Request a current export quotation (destination, quantity, trim, LHD/RHD, port, Incoterm) — no price is published here.
+## ผู้ซื้อที่ดูแลการขออนุมัติก่อนจะจ่ายเงิน
+1. ยืนยันการตั้งค่า PhEV และ ความสามารถในการแบตเตอรี่ที่แน่นอนโดย VIN แยกมันจาก IEEI-Z สร้างขึ้น
+2. Reconcyle CLTC 130 km ร่วมกับวงจรการทดสอบปลายทาง
+3. ตรวจสอบค่าการเชื่อมต่อ/ การเชื่อมต่อของ ดีซี/ protol และค่าส่งออก V2L ที่เหมาะสมสําหรับตลาดปลายทาง
+4. Obtain ปลายทาง PEV ประเภท approval/evation เอกสาร แทนการนําเข้าจากจีนสเปกส์
+5. ต้องการการออกเสียงส่งออกในปัจจุบัน (จํานวนการจําหน่าย, ค่าตัด, LHD/RHD, พอร์ต, Incceptegration) — ไม่มีการตีพิมพ์ราคาที่นี่
 
-## FAQ
-**Is UNI-Z sold abroad under the same name?** Not established by an OEM statement in these sources; do not assume name or spec equivalence.
-**Who supplies the battery?** Two secondary accounts conflict, so the supplier is left unconfirmed.
-**Does V2L work in my market?** The 3.3 kW figure is a Chinese-market spec; confirm connector and grid compatibility locally.
-**Is 130 km a WLTP range?** No — it is CLTC.
-**Where is the export price?** Request a current quotation; this page publishes none.
+## ขนาด FAQ
+~ยูไอซีขายต่างประเทศภายใต้ชื่อเดียวกันหรือเปล่า~ ไม่ได้รับการจัดตั้งขึ้นโดยประโยค OEM ในแหล่งเหล่านี้; อย่าตั้งชื่อหรือสเปกตรัม
+**Who supplies the battery?** Two secondary accounts conflict, งั้นคนจัดหาก็ยังไม่มีการยืนยัน
+~ V2L ทํางานในตลาดของฉันหรือเปล่า~ 3.3 kW ตัวเลขเป็นสเปกตรัมของตลาดจีน ยืนยันการเชื่อมต่อและระบบที่เข้ากันได้ภายในพื้นที่
+~ 130 km เป็นช่วง WLTP หรือเปล่า~ ไม่ — มันคือ CLTC
+~ราคาส่งออกอยู่ที่ไหน ~ ต้องการข้อความอ้างอิงปัจจุบัน; หน้านี้ไม่เผยแพร่เลย
 
 
-## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
+## ต้นฉบับและการตรวจสอบสิทธิ์
+| แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| 长安UNI-Z 2026款解析 | 汽车之家车家号 | CN | T3 | ROOS_ CHCKED | https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/24892811 | 尺寸, 电机, 电池, 续航, 屏幕 |
+| 长安 ยูเอ็นไอ-ซี 2026 款解析 | 汽车之家车家号 | CN | T3 | ROOS_ CHCKED | https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/24892811 | 尺寸, 电机 电池, 电池, 续航, 屏幕 |
 | UNI-Z 配置信息 | 汽车之家车家号 | CN | T3 | ROOS_ CHCKED | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26106686 | 快充, 外放电 |
-| 长安UNI-Z 参数 | 搜狐汽车 | CN | T2 | ROOS_ CHCKED | http://db.m.auto.sohu.com/model_7339/a/991290424_121117078 | 尺寸, 轴距, 后备厢, 动力 |
-| Changan Automobile official global site | Changan Automobile 长安汽车 (OEM) | CN | T1 | VERIFIED | https://www.globalchangan.com/ | brand/model-line identity and OEM authority |
-| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | T1 | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
-| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
-## Editorial Review
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: China (Chinese-market reference specification; not a global spec)
-- **Verification method**: Desk research against the sources below; Chinese-market reference specification only unless a separate export market is explicitly cited.
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
+| 长安 ยูเอ็นไอ-ซี 参数 | 搜狐汽车 | CN | T2 | ROOS_ CHCKED | http://db.m.auto.sohu.com/model_7339/a/991290424_121117078 | 尺寸 轴距 轴距 后备厢 动力 (พ.ศ. |
+| เชียงาน ไซต์ Automocal อย่างเป็นทางการทั่วโลก | Changan Automolic 长安汽车 (OEM) | CN | T1 | เปิดใช้งาน | https://www.globalchangan.com/ | แบรนด์/ แบบไลน์และหน่วยงานโออีเอ็ม |
+| กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูล (MIT) | MIT 工业和信息化部 | CN | T1 | เปิดใช้งาน | https://www.miit.gov.cn/ | การออกเสียง/ การปล่อยเสียง; ยืนยันการจําลองที่แน่นอน, มวลและรหัสโดย VIN/ language |
+| กรมการต่างประเทศสําหรับกําหนดตลาด (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | เปิดใช้งาน | https://www.samr.gov.cn/ | มาตรฐานประเทศ, การจัดตั้ง และ อํานาจในการยึดตลาด |
+## การทบทวนแก้ไข
+- ~Uuthor ♪: AutoBridge ส่งออกทีมแก้ไข [ผู้เขียน](/ ผู้เขียน/) สืบค้นเมื่อ [ใช้ในการแก้ไขนโยบาย] [/Di-policy/]
+- ~ถูกตรวจสอบแล้ว~: 2026-09-05
+- ~ ตลาดแห่งความอิ่มเอิบ: จีน (กําหนดตลาดหลักทรัพย์-ตลาด); ไม่ใช่สเปก (พ.ศ.
+- ~วิธีการสร้างความสัมพันธ์ ~: งานวิจัยที่ขัดกับแหล่งย่อยด้านล่างนี้; การอ้างอิงตลาดจีน-มาร์เก็ต ก็ต่อเมื่อมีการอ้างอิงตลาดส่งออกอย่างตรงไปตรงมา
+- การร่างแบบ AI-assisted ถูกใช้ บทความนี้ตั้งอยู่บนพื้นฐานของงานวิจัยในตาราง และอัตโนมัติ QA ไม่มีการอ้างอิงการทดสอบก่อน จนกว่าจะมีการระบุรายละเอียดอย่างชัดเจน ยืนยันความต้องการที่ต้องใช้เวลาและกําหนดปลายทาง ก่อนทําการข้ามเวลา
 
-## Image Record
-- **IMAGE_ASSET_PATH**: none secured in repository
-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ not captured
-- **SOURCE_PAGE**: not captured
-- **RIGHTS_HOLDER**: unconfirmed
-- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
-- ~ECHCKKED_DATE ~: 2026-09-05
-- ~CRL/TOPIC_MATCH~: exact Changan UNI-Z 2026
-- **IMAGE_RIGHTS_STATUS**: FAIL
-- **ALT (12 languages)**:
+## บันทึกรูปภาพ
+- ~ประกาศ_BAR_ PATH ~ ~ ไม่มีคนปลอดภัยในห้องเก็บของ
+- ~~~~~ไม่ถูกจับ~
+- ~ประกาศจับ~: ไม่ถูกจับ
+- ** UNTER_FELE_ PATE*: ใช้ไม่ได้ — ไม่มีเอกสารผู้สมัครใด ๆ ที่ระบุ (ไม่มีใบรับรองที่จะยืนยัน)
+- ~ห้ามยืนยัน~
+- **LICENSE_OR_USAGE_BASIS**: ไม่ มี ใคร ปลอด ภัย — การ มี เว็บไซต์ อยู่ ใน เวลา นี้ ไม่ ใช่ การ ลง ทะเบียน ทํา ซ้ํา อีก ครั้ง ใน การ ค้า
+- ~CKND_DATE ~ 2026-09-06
+- ~FRELLTOICIC_MATCH~: เชียงอันนนนนน็อง-Z 2026 เป๊ะ
+- MEDIAN_SCPE_NOTE: ภาพต้องตรงกับครอบครัว/ โตปิกที่ถูกต้องเท่านั้น; ต้องไม่หมายถึงการตัด, ปีตัวอย่าง, เรียลวีน, การตรวจสอบหรือการทําธุรกรรมจริง
+- หม่อมเจ้า หม่อมเจ้า
+- ~ ล็อก-รีซัน~: ไม่มีภาพใดสามารถใช้ได้โดยปลอดภัย: Wikited Commons/Flickr ไม่สามารถทํางานได้จากสภาพแวดล้อมการวิจัย ห้องสมุดหลักต้องการสิทธิ์ในการเข้าถึง API/CIFF และภาพเว็บเพจของ OEM ก็ไม่ใช่การให้ทุนใช้อีกครั้งในโฆษณา ไม่มีภาพถ่ายที่บรรจุออโต้ไบด์อยู่ บันทึกเก็บ FAIL แทนการยืนยัน
+- ~ALT (12 ภาษา) ~:
   - **EN**: Changan UNI-Z 2026, Chinese-market PHEV SUV export buyer reference
   - **FR**: Changan UNI-Z 2026, PHEV SUV du marché chinois, référence acheteur export
   - **DE**: Changan UNI-Z 2026, Chinesischer PHEV SUV, Referenz für Exportkäufer

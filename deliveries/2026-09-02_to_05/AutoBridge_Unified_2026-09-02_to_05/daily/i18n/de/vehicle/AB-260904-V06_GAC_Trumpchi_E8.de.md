@@ -1,52 +1,52 @@
-# GAC Trumpchi E8 (传祺E8): a Siebensitziges PHEV MPV — China Specs und Export-Checks
+# GAC Trumpchi E8 (传祺 E8): ein siebensitziges PHEV MPV — China Specs und Export Checks
 
 ## SEO Metadaten
 - **SEO Titel**: GAC Trumpchi E8 PHEV MPV Specs & Export Guide (7-Seat, China)
-- **Meta Description**: Chinese-market Trumpchi E8 new-energy PHEV MPV — 2.0ATK engine, 134 kW motor, 25.57 kWh battery, 150 km CLTC, 2+2+3 seating, and how it differs from the non-charging Glory HEV.
+- **Meta Description**: Der chinesische Markt Trumpchi E8 neue Energie PHEV MPV - 2.0ATK Motor, 134 kW Motor, 25.57 kWh Batterie, 150 km CLTC, 2+2+3 Sitzgelegenheiten und wie es sich von dem nicht aufladenden Glory HEV unterscheidet.
 - **Vorgeschlagene URL**: /Fahrzeuge/gac-trumpchi- e8/
 - ** H1 **: GAC Trumpchi E8 PHEV: Chinesisch-Markt Sieben-Seat MPV Specs und Export Notes
 - ** Primäres Keyword**: gac trumpchi e8 phev specs export
-- **Secondary Search Terms**: Trumpchi E8 MPV, 传祺E8 PHEV, E8 Glory HEV difference, Trumpchi E8 7-seat, Chinese PHEV MPV export
+- **Secondary Search Terms**: Trumpchi E8 MPV, 传祺 E8 PHEV, E8 Glory HEV Differenz, Trumpchi E8 7-seat, Chinesisch PHEV MPV-Ausfuhren
 - **Interne Linkvorschläge**: /guides/ev-shipping- un3556-imdg-compliance/; /guides/export-vehicle-document-package/; /vehicles/chery-fulwin- t9/
-- **Bildvorschläge**: E8 Seitenprofil MPV; 2+2+3 Sitzlayout; Ladeanschluss vs. kein Port HEV; dritte Reihe; V2L Ausgang
-- **ALT Vorschläge**: "GAC Trumpchi E8 PHEV siebensitzige MPV" China spec"; "Trumpchi E8 2+2+3 Sitzgelegenheiten und Fracht"
+- **Bildvorschläge**: E8 Seitenprofil MPV; 2+2+3 Sitzlayout; Ladeanschluss vs. kein Port HEV; dritte Reihe; V2L Steckdose
+- **ALT Vorschläge**: "GAC Trumpchi E8 PHEV siebensitzige MPV" China spec"; "Trumpchi E8 2+2+3 Sitzgelegenheiten und Fracht
 
 ## Käuferkontext: Ein MPV-Kauf wird durch Sitzen und durch den PHEV / HEV-Split entschieden
-Für einen MPV-Exporteur sind die Fragen Kabinengeometrie und Sitzarchitektur zuerst, Antriebsstrang zweitens. Auf dem E8 gibt es eine Namensfalle: the **E8 New Energy is a plug-in hybrid with a charging port**, while the **E8 Glory (荣耀) is an HEV with no charging port**. Es handelt sich um unterschiedliche Energietypen, die in getrennten Zeilen angegeben werden müssen. Dieses Blatt dokumentiert den **Chinesischen Markt PHEV (REFERENZMARKT): CHINA**; eine OEM-Konfigurationsseite wurde erfasst.
+Für einen MPV-Exporteur sind die Fragen Kabinengeometrie und Sitzarchitektur zuerst, Antriebsstrang zweitens. Beim E8 gibt es eine Namensfalle: Der ** E8 New Energy ist ein Plug-in-Hybrid mit Ladeanschluss**, während der ** E8 Glory (荣耀) ein HEV ohne Ladeanschluss** ist. Es handelt sich um unterschiedliche Energietypen, die in getrennten Zeilen angegeben werden müssen. Dieses Blatt dokumentiert den **Chinesischen Markt PHEV (REFERENCE MARKET: CHINA)**; eine OEM-Konfigurationsseite wurde erfasst.
 
 ## MPV Kern: Sitz-, Raum- und Passagiercharakter
-| Position | Trumpchi E8 PHEV (China Referenz) |
+| Position | Trumpchi E8 PHEV (China-Referenz) |
 |---|---|
 | Körper | Mittelgroße MPV |
 | Länge/Breite/Höhe | **4920 / 1900 / 1760 mm** |
 | Radstand | **2930 mm** |
-| Sitzplatzgestaltung | ** 2+2+3, sieben Sitze** |
-| Plattform | GAC Global Platform Modular Architecture (GPMA 3.0 L); high-strength steel about 75% (single-source) |
+| Sitzplatzgestaltung | ** 2+2+3, sieben Sitze ** |
+| Plattform | GAC Global Platform Modular Architecture (GPMA 3.0 L); hochfester Stahl ca. 75% (Single-Source) |
 | Gewicht der Bordsteine | 2175 kg |
 | Kraftstoffbehälter | 50 L |
 
-The 2930 mm wheelbase and 2+2+3 layout are the commercial story: unabhängige mittelreihige Kapitänssitze und eine nutzbare dritte Reihe. Bestätigen Sie die genaue Sitzkonfiguration auf der VIN, da Änderungen an der MPV-Verkleidung häufig die Spezifikation in der mittleren Reihe ändern.
+Der 2930 mm Radstand  and  2+2+3 Layout sind die kommerzielle Geschichte: unabhängige mittelreihige Kapitänssitze und eine nutzbare dritte Reihe. Bestätigen Sie die genaue Sitzkonfiguration auf der VIN, da Änderungen an der MPV-Verkleidung häufig die Spezifikation in der mittleren Reihe ändern.
 
 ## PHEV Powertrain (Ladeanschluss E8)
 | Position | Detaillierte Angaben |
 |---|---|
-| Motor | 2.0ATK dedicated hybrid (4B20L1), 103 kW / 180 N·m (about 140 PS engine-only) |
+| Motor | 2.0ATK dedizierter Hybrid (4B20L1), 103 kW / 180 N·m (etwa 140 PS nur für Motoren) |
 | Vordermotor | 134 kW / 300 N·m |
 | Hybridgetriebe | 2-speed DHT |
-| Batterie | Ternary lithium, **25.57 kWh** |
-| Elektrische Reichweite | **150 km CLTC** |
-| Stromexport | 3.3 kW external discharge (V2L) and 5.5 kW V2V (single-source; Bestätigung pro OEM |
+| Batterie | Ternäres Lithium ** 25.57 kWh ** |
+| Elektrische Reichweite | ** 150 km CLTC** |
+| Stromexport | 3.3 kW externe Entladung (V2L) und 5.5 kW V2V (Single-Source; Bestätigung pro OEM) |
 
 ## PHEV vs Glory HEV - Halten Sie den Energietyp sichtbar
-- ** E8 New Energy (diese Seite): PHEV** — external charging port, 25.57 kWh traction battery, 150 km CLTC electric running.
-- **E8 Glory (荣耀): HEV** — kein Ladeanschluss; Es lädt sich selbst auf und kann nicht eingesteckt werden.
-- Die Angabe der elektrischen Reichweite von PHEV oder die Aufladung einer Glory-HEV-Einheit (oder die Preisgestaltung eines PHEV gegenüber HEV-Geräten) ist die wiederkehrende Diskrepanz auf diesem Typenschild. Chinesische Guide-Preise unterscheiden sich auch (PHEV von etwa RMB 209, 800; Glory HEV von etwa RMB 166, 800 - nur inländische, zeitkritische Referenzen).
+- ** E8 Neue Energie (diese Seite): PHEV** — externer Ladeanschluss, 25.57 kWh Traktionsbatterie, 150 km CLTC elektrischer Betrieb.
+- ** E8 Glory (荣耀): HEV** – kein Ladeanschluss; er lädt sich selbst auf und kann nicht angeschlossen werden.
+- Die Angabe der elektrischen Reichweite von PHEV oder die Aufladung einer Glory-HEV-Einheit (oder die Preisgestaltung eines PHEV gegenüber HEV-Geräten) ist die wiederkehrende Diskrepanz auf diesem Typenschild. Chinesische Richtpreise unterscheiden sich ebenfalls (PHEV von etwa RMB 209, 800; Glory HEV von etwa RMB 166, 800 — nur inländische, zeitkritische Referenzen).
 
 ## Übersee-Käufer-Überprüfung vor Zahlung
 1. ** Energietyp auf der VIN** – PHEV (Ladeanschluss) vs Glory HEV (kein Port), angegeben vor einem Entfernungssatz.
-2. **Seat-Layout** — 2+2+3 siebensitzige und mittlere Reihenspezifikation pro Trimm bestätigt.
-3. **Ladestecker** vs. Zielstandard; ternary-lithium battery shipping documents (UN38.3 summary) per the IMDG 42-24 guide.
-4. ** V2L/V2V Exportstrom** Ansprüche bestätigt auf dem OEM-Blatt (Single-Source hier).
+2. **Seat-Layout** — 2+2+3 siebensitzige und mittlere Reihenspezifikationen pro Trimm bestätigt.
+3. **Ladestecker** vs. Zielstandard; Versanddokumente für ternäre Lithium-Batterien (UN38.3 Zusammenfassung) gemäß IMDG 42-24 Guide.
+4. ** V2L/V2V Exportstrom**-Ansprüche bestätigt auf dem OEM-Blatt (Single-Source hier).
 5. **Hybridregistrierungsklasse und Dokumente** pro Checkliste des Exportdokumentpakets.
 
 ## Beantragen Sie eine aktuelle Ausfuhrquote
@@ -54,19 +54,22 @@ Es wird kein Ausfuhrpreis veröffentlicht. Chinesische leitpreise sind ** inlän
 
 ## Häufig gestellte Fragen
 **Ist der Trumpchi E8 ein Plug-in-Hybrid oder ein selbstaufladender Hybrid?** Der E8 New Energy ist ein PHEV mit einem Ladeanschluss; der E8 Glory ist ein nicht aufladendes HEV - geben Sie an, welches.
-**How many seats?** A 2+2+3 seven-seat MPV on a 2930 mm wheelbase.
-**What is the electric range?** 150 km CLTC for the documented PHEV.
-**Can the E8 power external devices?** Chinese coverage lists 3.3 kW V2L and 5.5 kW V2V; Bestätigen Sie das genaue OEM-Ziegelblatt.
+**Wie viele Sitzplätze?** Ein 2+2+3 siebensitziges MPV auf einem 2930 mm Radstand.
+**Wie hoch ist die elektrische Reichweite?** 150 km CLTC für die dokumentierte PHEV.
+**Können die E8 externe Geräte mit Strom versorgen?** Chinesische Abdeckung Listen 3.3 kW V2L und 5.5 kW V2V; bestätigen Sie auf dem genauen OEM-Verkleidungsblatt.
 
 ## Bildaufzeichnung
 - IMAGE_ASSET_PATH: keine gesicherte Datei
 - ORIGINAL_IMAGE_URL: nicht erfasst
 - SOURCE_PAGE: nicht erfasst
+- SOURCE_FILE_PAGE: Entfällt — keine Kandidaten-Mediendatei identifiziert (keine Lizenz zur Geltendmachung)
 - RIGHTS_HOLDER: nicht bestätigt
 - LICENSE_OR_USAGE_BASIS: keine gesicherte — kein Bild von Dritten darf veröffentlicht werden, bis die Rechte gelöscht sind
-- CHECKED_DATUM: 2026-09-05
+- CHECKED_DATUM: 2026-09-06
 - MODEL_TOPIC_MATCH: muss mit dem genauen Modell/der genauen Version (oder dem Leitthema) und dem Referenzmarkt oben übereinstimmen
+- IMAGE_SCOPE_NOTE: nur die genaue Modellfamilie/das genaue Thema angeben; darf keine spezifische Trimm-/Modelljahr-, echte VIN-, persönliche Inspektion oder tatsächliche Transaktion implizieren
 - IMAGE_RIGHTS_STATUS: FAIL (kein lizenziertes Asset erfasst; ein Platzhalter oder ein Hinweis „altes Bild behalten wird nicht akzeptiert)
+- BLOCK_REASON: Es konnte kein wiederverwendbares Bild gesichert werden: Wikimedia Commons/Flickr sind aus der Forschungsumgebung nicht erreichbar, Lagerbibliotheken erfordern authentifizierten API/Lizenzzugriff und ein OEM-Webseitenbild ist KEIN kommerzielles Wiederverwendungsstipendium; es gibt kein AutoBridge-eigenes Foto. Nein, aber nicht nur vereitelt.
 - ALT nach Sprache:
   - **EN**: AutoBridge export-buyer reference — GAC Trumpchi E8, plug-in hybrid vehicle / MPV
   - **FR**: Référence AutoBridge pour acheteurs export — GAC Trumpchi E8, véhicule hybride rechargeable / MPV
@@ -87,21 +90,21 @@ Es wird kein Ausfuhrpreis veröffentlicht. Chinesische leitpreise sind ** inlän
 | Trumpchi E8+ Offizielle Konfigurationstabelle | GAC Trumpchi (OEM) | CN | https://www.gacmotor.com/configtable?id=811 | 2026-09-04 | ÜBERPRÜFUNG (OEM) | PHEV Antriebsstrang, Batterie, Abmessungen, Sitze |
 | E8 (PHEV) Start, Größe und Elektrifizierung | Südliche Metropole täglich | CN | http://m.toutiao.com/group/7281953819724988991/ | 2026-09-04 | CROSS_CHECKED | Abmessungen, Motor, Batterie |
 | E8 Showroom: Größe/Motor/Batterie | YouCheYiHou | CN | http://m.toutiao.com/group/7282038365669982759/ | 2026-09-04 | CROSS_CHECKED | Motor, Gewicht, V2L/V2V |
-| E8 GPMA Architektur & hochfester Stahl | Yangcheng Abend News PDF | CN | https://ep.ycwb.com/epaper/ycwb/resfile/2023-12-13/A11/ycwb20231213A11.pdf | 2026-09-04 | SINGLE_SOURCEN | Platform, ~75% HSS |
-| Trumpchi E8 New Energy Fullline-Konfiguration | PCauto-Konfiguration | CN | https://car.pcauto.com.cn/360/s47354/r1/config.html | 2026-09-04 | CROSS_CHECKED | Dimensions, 25.57 kWh, CLTC range |
-| Straßenfahrzeughersteller und -produktkatalog — öffentliches Abfragesystem | MIIT, China Ministerium für Industrie und Informationstechnologie | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | ÜBERPRÜFUNG | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
+| E8 GPMA Architektur & hochfester Stahl | Yangcheng Abend News PDF | CN | https://ep.ycwb.com/epaper/ycwb/resfile/2023-12-13/A11/ycwb20231213A11.pdf | 2026-09-04 | SINGLE_SOURCEN | Plattform, ~ 75% HSS |
+| Trumpchi E8 New Energy Fullline-Konfiguration | PCauto-Konfiguration | CN | https://car.pcauto.com.cn/360/s47354/r1/config.html | 2026-09-04 | CROSS_CHECKED | Abmessungen, 25.57 kWh, CLTC-Bereich |
+| Straßenfahrzeughersteller und -produktkatalog — öffentliches Abfragesystem | MIIT, China Ministerium für Industrie und Informationstechnologie | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | ÜBERPRÜFUNG | Überprüfen Sie den Hersteller, das zugelassene Modell und die Homologation (公告) Katalogeintrag vor der Bestellung oder Export |
 | GB 16735-2019 Straßenfahrzeuge — Anforderungen an die Fahrzeug-Identifizierungsnummer (VIN) | SAMR nationale Standards Volltext-Plattform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | ÜBERPRÜFUNG | VIN-Struktur und Typenschild-Datenfelder, die bei der Überprüfung der VIN/des Typenschilds des Käufers verwendet wurden |
-| GB 7258 Sicherheitstechnische Bedingungen (GB 7258-2017 aktuell; GB 7258-2026 gilt ab 2027-07-01) | SAMR, Staatliche Verwaltung für Marktregulierung | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | ÜBERPRÜFUNG | Technische Rahmenbedingungen für die Fahrzeugsicherheit in China und der aktuelle/revisionsbezogene Zeitplan |
-| GB 38031 Sicherheitsanforderungen an Traktionsbatterien (GB 38031-2025; neue Typenanwendungen obligatorisch ab 2026-07-01) | SAMR nationale Standards Volltext-Plattform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | ÜBERPRÜFUNG | Obligatorische Sicherheitsanforderung an die Antriebsbatterien für den elektrifizierten Antriebsstrang |
-| GB 18384 Sicherheitsanforderungen für Elektrofahrzeuge (GB 18384-2025) | SAMR nationale Standards Volltext-Plattform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | ÜBERPRÜFUNG | Basis der elektrischen/funktionalen Sicherheitsanforderungen an Elektrofahrzeuge |
-| GB 18352.6-2016 mit Änderung XG1-2026 (China- 6 Schadstoffemissionen von Leichtfahrzeugen) | Ministerium für Ökologie und Umwelt (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | ÜBERPRÜFUNG | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Staatliche Verwaltung für Marktregulierung | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | ÜBERPRÜFUNG | Technische Rahmenbedingungen für die Fahrzeugsicherheit in China und der aktuelle/revisionsbezogene Zeitplan |
+| GB 38031 Sicherheitsanforderungen an die Traktionsbatterie (GB 38031-2025; neue Typenanwendungen ab 2026-07-01 obligatorisch) | SAMR nationale Standards Volltext-Plattform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | ÜBERPRÜFUNG | Obligatorische Sicherheitsanforderung an die Antriebsbatterien für den elektrifizierten Antriebsstrang |
+| GB 18384 Sicherheitsanforderungen an Elektrofahrzeuge (GB 18384-2025) | SAMR nationale Standards Volltext-Plattform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | ÜBERPRÜFUNG | Basis der elektrischen/funktionalen Sicherheitsanforderungen an Elektrofahrzeuge |
+| GB 18352.6-2016 mit Änderung XG1-2026 (Schadstoffemissionen von leichten Fahrzeugen China-6) | Ministerium für Ökologie und Umwelt (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | ÜBERPRÜFUNG | China-6 Lichtfahrzeug-Emissionsstufe und die 2026 Änderungs-Umsetzungsdaten |
 
 *Vertrauensbeweis: OEM-Seite erfasst; Plattform Stahl-Verhältnis und V2L/V2V Zahlen sind Single-Source. PHEV und Glory HEV bewusst getrennt; nur chinesische Marktreferenz. *
 
 ## Editorial Review
 - **AutoBridge Export Editorial Team · Methode nach unserer [Editorial Policy](/redaktionelle Politik/)
 - **Zuletzt überprüft**: 2026-09-05
-- **Referenzmarkt**: China, E8 New Energy PHEV (Chinesischer Markt; CLTC angegeben; Ruhm HEV getrennt; keine globale Spezifikation)
+- **Referenzmarkt**: China, E8 New Energy PHEV (Chinesischer Markt; CLTC angegeben; Glory HEV getrennt; keine globale Spezifikation)
 - **Verifizierungsmethode**: OEM-Konfiguration verankert; Energie-Typ-Split erzwungen; Single-Source-Artikel gekennzeichnet
 - **Transparenz**: KI-unterstütztes Zeichnen wurde verwendet. Dieser Artikel basiert auf Desk Research und automatisierter QA. Es werden keine Tests aus erster Hand beansprucht, es sei denn, sie sind explizit dokumentiert; zeitsensible und zielspezifische Anforderungen vor der Transaktion bestätigen.
 - **Editorialstandard**: Recherchiert und geschrieben aus den oben aufgeführten Quellen (Desk-Recherche; kein Fahren aus erster Hand, Teardown oder Import wird beansprucht). Das Vertrauen in die Quelle wird pro Zeile angezeigt; jeder Punkt, den wir nicht unabhängig bestätigen können, wird als Verifizierungselement dargestellt und nicht als Tatsache behauptet.

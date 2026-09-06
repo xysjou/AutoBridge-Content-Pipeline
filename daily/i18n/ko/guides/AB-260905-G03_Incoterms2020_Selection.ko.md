@@ -1,67 +1,72 @@
-# Choosing Incoterms 2020 in Chinese Vehicle Export — Risk and Cost Allocation
+# 중국 차량 수출의 2020을 선택하는 이유 - 위험과 비용 할당
 
-## SEO Metadata
-- **SEO Title**: Incoterms 2020 Selection Guide for Vehicle Export: FOB, CIF, FCA, CIP, DDP and More
-- **Meta Description**: Choose the right Incoterms 2020 rule for a vehicle shipment: where risk and cost transfer, sea-only versus multimodal terms, insurance under CIF/CIP, and why DDP maximises seller burden.
-- ** H1 **: Choosing Incoterms 2020 in Chinese Vehicle Export — Risk and Cost Allocation
-- **Primary Keyword**: incoterms 2020 selection guide
-- **Secondary Search Terms**: Incoterms 2020; FOB vs FCA; CIF vs CIP; DDP risk; multimodal term; risk transfer
-- **Suggested URL**: /guides/incoterms- 2020-selection-guide/
-- **Search Intent**: 汽车出口合同如何按运输方式选择Incoterms 2020术语、明确风险转移点与费用/保险责任
-- **Internal Link Suggestions**: /guides/export-payment-methods-t-t-lc-risk/, /guides/marine-cargo-insurance-history/, /guides/china-export-customs-declaration-single-window/
-- **Schema Scope**: Article (no Product/Offer/Review)
+## ▼ 한국어 메타데이터
+- **SEO 제목 **: 차량 수출을 위한 Incoterms 2020 선택 가이드: FOB, CIF, FCA, CIP, DDP 및 더 많은 것
+- **마타 기술 **: 차량 선적에 대한 올바른 Incoterms 2020 규칙을 선택하십시오: 위험과 비용 전송, 바다 전용 병렬, CIF / CIP의 보험, 왜 DDP가 판매자 부담을 극소화하는 이유.
+- ** H1 **: 중국 차량 수출의 2020을 선택하는 이유 - 위험과 비용 할당
+- **기본 키워드**: Incoterms 2020 선택 가이드
+- ** 보조 검색 조건 **: Incoterms 2020; FOB 대 FCA; CIF 대 CIP; DDP 위험; 다소 기간; 위험 이동
+- **수입 URL**: /guides/incoterms- 2020-selection-guide/
+- ** 수색 **: 汽车出口合同如何按运输方式选择 Incoterms 2020 术语, 明确风险转移点与费用 / 保险责任
+- ** 내부 링크 제안**: /guides/export-payment-methods-t-t-lc-risk/, /guides/marine-cargo-insurance-history/, /guides/china-export-customs-declaration-single-window/
+- **Schema Scope**: 기사 (제품/오프러/리뷰 없음)
 
-## Start from transport mode, not habit
-Incoterms 2020 contains **eleven** rules divided into those for any mode of transport and those traditionally for sea/inland-waterway transport. In vehicle export the first choice is therefore whether the move is port-to-port ocean (RoRo/container) or multimodal (inland truck/rail plus sea, common for Central-Asia trucking). Picking a sea-only term for a multimodal move creates a gap in where risk passes.
+## 수송 형태에서 시작, 습관이 아닙니다
+Incoterms 2020은 **일부 ** 규칙을 포함해 어떤 형태의 수송과 그 전통적으로 바다/해안-수도 수송을 위해 나뉩니다. 차량 수출에서 첫 번째 선택은 이동이 항구에 항구 항구 바다 (RoRoRo/container) 또는 다모달 (섬 트럭/철도 플러스 바다, 중앙 아시아 트럭을 위해 일반적인)인지 여부는. 다모탈 이동의 바다 전용 용어를 선택하면 위험이 통과되는 간격을 만듭니다.
 
-## Where risk actually transfers
-- ** FOB / FCA **: under FOB (sea/inland waterway) risk passes when goods are placed **on board** the vessel; under FCA (any mode) risk passes when the goods are handed to the buyer's carrier at the named place. For containerised and multimodal moves FCA is the cleaner fit because risk and control align with actual handover, rather than an on-board moment the seller does not control.
-- **CFR/CPT and CIF/CIP**: the seller arranges and pays carriage to the destination, but **risk transfers earlier**, at shipment/handover — cost and risk are deliberately split, which surprises buyers who assume CIF means risk to destination.
-- **DAP/DPU/DDP **: these are arrival terms; the seller carries risk further. **DDP places the maximum obligation on the seller**, including import clearance, duties and taxes in the destination — for a Chinese vehicle exporter without a registered destination presence this is often impractical and compliance-heavy.
+## 위험이 실제로 전송되는 곳
+- ** FOB / FCA **: FOB (바다 / 내수) 위험이 물품이 ** 보드 ** 선박에 배치 될 때 통과; FCA (모든 모드) 위험이 물품이 명명 된 장소에 구매자의 캐리어에 넣을 때 패스. 컨테이너 및 멀티모드 이동 FCA는 위험하고 제어가 실제적으로 손수레와 일치하기 때문에 클리너 적합하다. 즉, 판매자가 통제하지 않습니다.
+- **CFR/CPT 및 CIF/CIP**: 판매자는 목적지로 운송 및 지불, 그러나 **risk는 선적/핸드 오버에서 이전 **, 비용 및 위험은 CIF가 목적지에 위험을 의미하는 구매자를 놀라게하는 deliberately 쪼개집니다.
+- **DAP/DPU/DDP**: 이 도착 조건입니다. 판매자는 더 위험을 나릅니다. **DDP는 수입 통관, 업무 및 세금을 포함한 판매자**의 최대 의무를 배치합니다. 등록 된 목적지가없는 중국 차량 수출 업체는 종종 실종 및 준수 - 중개입니다.
 
-## Insurance note for CIF and CIP
-Under CIF the seller arranges minimum-cover marine insurance for the buyer's benefit; under CIP the default is a **higher** level of cover (subject to the rule and any agreed variation). Precise insured amount and clauses are agreed in the contract/policy — this guide does not reproduce the ICC A1–A10 texts, which remain the copyrighted ICC publication linked below, and it quotes no freight or premium.
+## CIF 및 CIP 보험
+CIF 아래 판매자는 구매자의 이익을 위해 최소 표지의 해상 보험을 준비; CIP 아래 기본은 ** 높은 ** 커버의 수준 (규정 및 합의 된 변형에 따라). 정확한 보험료 및 조항은 계약 / 수입에 합의됩니다. 이 가이드는 아래 링크 된 저작권 ICC 출판을 유지하고화물 또는 프리미엄을 인용하지 않는 ICC A1–A10 텍스트를 재현하지 않습니다.
 
-## A selection path for vehicle orders
-1. Identify the transport chain: pure ocean versus multimodal.
-2. Match the term to who controls the main carriage and who can insure/clear most reliably.
-3. Align the term with the payment method (document flow under L/C must match the Incoterm).
-4. Avoid DDP unless the seller can lawfully handle destination import, duty and VAT/GST.
-5. State the named place/port precisely — a term without a precise point is a dispute waiting to happen.
+## 차량 주문 선택
+1. 수송 체인 식별: 순수한 바다 versus 멀티 모달.
+2. 주요 포가를 통제하는 것을 돕는 용어를 일치하고/확실하게 가장 믿을 수 있는 것을.
+3. 지불 방법 (문서 흐름 L / C 아래 Incoterm에 일치해야합니다)과 용어를 정렬합니다.
+4. 판매자가 법을 완전히 대상 수입, 의무 및 VAT / GST를 처리 할 수없는 DDP를 피하십시오.
+5. 지정된 장소/포트를 정확하게 입력합니다. 정확한 포인트가 없는 용어는 발생하기 위한 분쟁입니다.
 
-## FAQ
-**FOB or FCA for a container?** FCA generally fits containerised/multimodal moves better than FOB.
-**Does CIF mean the seller bears risk to destination?** No — risk passes at shipment even though the seller pays carriage/insurance to destination.
-**CIF versus CIP cover?** CIP defaults to a higher insurance level than CIF, subject to agreement.
-**Why is DDP risky for a Chinese exporter?** It makes the seller responsible for destination import clearance, duties and taxes.
-**How many Incoterms 2020 rules?** Eleven, in two transport-mode groups.
+## 의논하기
+** 컨테이너에 대한 FOB 또는 FCA? ** FCA는 일반적으로 containerised/multimodal를 FOB 보다는 더 나은 움직입니다.
+** CIF는 판매자가 목적지에 위험을 부담합니까? ** 판매인이 운송/보험을 운송하는 경우에도 위험이 운송되지 않습니다.
+** CIF는 CIP 커버를 versus? ** CIP는 CIF보다 높은 보험 수준으로 기본으로 계약에 따라 달라질 수 있습니다.
+**왜 중국 수출업자에 대한 DDP 위험? ** 그것은 목적지 수입 통관, 의무 및 세금에 책임있는 판매자를 만듭니다.
+** 2020 규칙은 몇 가지입니까? **, 일  in two transport-mode groups.
 
 
-## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
+## 소스 및 검증
+| 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | URL을 | 지원된 사실 |
 |---|---|---|---|---|---|---|
-| 国际贸易术语图文精讲（Incoterms2020共11种/两大类） | 中国贸促会广西分会 | CN | T1 | VERIFIED | https://www.ccpitgx.org/webcpitgx/2025/rcepjiedu_0624/15195.html | 11术语, 按运输方式分类, 风险费用划分 |
-| 2020国际贸易术语详解（FOB风险点改为装上船） | 浙江省贸促会 | CN | T1 | VERIFIED | http://www.ccpitzj.gov.cn/art/2020/8/17/art_1229557691_11515.html | FOB/CFR/CIF, 船舷→装上船 |
-| 跨境电子商务贸易术语（风险转移教材） | 清华大学出版社 | CN | T3 | CROSS_CHECKED | https://www.tup.tsinghua.edu.cn/upload/books/yz/095136-01.pdf | 风险转移, 象征性交货 |
-| Incoterms 2020 rules (ICC) | International Chamber of Commerce | CN | T1 | VERIFIED | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-rules-2020/ | authoritative publisher of Incoterms 2020 |
-| WCO Origin instruments and tools | World Customs Organization | CN | T1 | VERIFIED | https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx | rules-of-origin framework and instruments maintained by WCO |
-## Editorial Review
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: INT（国际商会规则框架）
-- **Verification method**: Desk research against the sources below; Chinese-market reference specification only unless a separate export market is explicitly cited.
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
+| 国际贸易术语图文精讲 (Incoterms2020 共 11 种 / 两大类) | 中国贸促会广西分会 | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.ccpitgx.org/webcpitgx/2025/rcepjiedu_0624/15195.html 대한 자세한 정보 | 11 术语, 按运输方式分类, 风险费用划分 |
+| 2020 国际贸易术语详解 (FOB 风险点改为装上船) | 浙江省贸促会 | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | http://www.ccpitzj.gov.cn/art/2020/8/17/art_1229557691_11515.html 대한 자세한 정보 | FOB/CFR/CIF, 船舷 → 装上船 |
+| 跨境电子商务贸易术语 (风险转移教材년) | 清华大学出版社 | 담당자: Mr. wang | T3 | CROSS_체크 | https://www.tup.tsinghua.edu.cn/upload/books/yz/095136-01.pdf 대한 자세한 정보 | 风险转移,  象征性交货 |
+| Incoterms 2020 규칙 (ICC) | 국제 상공 회의소 | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-rules-2020/ | Incoterms 2020의 저자 출판사 |
+| WCO Origin 장비 및 도구 | 세계관람기구 | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx 통해 | WCO에 의해 유지되는 규칙의 논리 구조 및 계기 |
+| ICC 규칙 (Incoterms 2020 규칙 소유자 - 전용 페이지) | 국제 상공 회의소 | INT 소개 | T1/T2 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://iccwbo.org/business-solutions/icc-rules/ | Incoterms 2020를 현재 저작권이 있는 용어로 확인하는 권한 ICC 규칙 색인 및 ICC의 유지 보수 |
+| FIATA - Incoterms의화물 운송업자 연습 | 국제 화물 운송 협회 (FIATA) | INT 소개 | T1/T2 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https://www.fiata.org/ 대한 자세한 정보 | Incoterms의 운송 및 운송 의무 |
+## 편집 리뷰
+- **Author**: AutoBridge 수출 편집팀 · [authors](/authors/) · [편집 정책](/편집/)
+- **마지막 검토**: 2026-09-05
+- **참고 시장 **: INT(国际商会规则框架)
+- ** 인증 방법**: 아래 소스에 대한 책상 연구; 별도의 수출 시장이 명시적으로 인용되지 않는 한 중국 시장 참조 사양.
+- **Transparency**: AI-assisted 초안 사용. 이 문서는 책상 연구 및 자동화 QA에 근거합니다. 명시적으로 문서화되지 않는 한, 첫 번째 손 테스트가 주장되지 않습니다. transacting 전에 시간 과민하고 대상 특정 요구 사항을 확인하십시오.
 
-## Image Record
-- **IMAGE_ASSET_PATH **: none secured in repository
-- **ORIGINAL_IMAGE_URL **: not captured
-- **SOURCE_PAGE**: not captured
-- **RIGHTS_HOLDER**: unconfirmed
-- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
-- **CHECKED_DATE**: 2026-09-05
-- **MODEL_TOPIC_MATCH**: exact Choosing Incoterms 2020 in Chinese Vehicle Export
-- **IMAGE_RIGHTS_STATUS**: FAIL
-- **ALT (12 languages)**:
+## 이미지 기록
+- **IMAGE_ASSET_PATH**: 저장소에 보안되지 않음
+- **ORIGINAL_IMAGE_URL **: 캡처되지 않음
+- **SOURCE_PAGE**: 캡처되지 않음
+- **SOURCE_FILE_PAGE**: 적용되지 않음 - 후보 미디어 파일 확인 없음 (Asert에 대한 라이센스 없음)
+- **RIGHTS_HOLDER**: 확인되지 않음
+- **LICENSE_OR_USAGE_BASIS**: 안전하지 않은 - OEM 웹 페이지 존재는 상업 재사용 면허가 아닙니다.
+- **CHECKED_DATE **: 2026-09-06
+- **MODEL_TOPIC_MATCH**: 중국 차량 수출에서 정확한 Choosing Incoterms 2020
+- **IMAGE_SCOPE_NOTE**: 이미지는 정확한 모델 가족/토닉에서만 일치해야 합니다. 특정 트림, 모델 년, 실제 VIN, 인-인터 검사 또는 실제 거래에 영향을 미치지 않아야 합니다.
+- **IMAGE_RIGHTS_STATUS**: FAIL(실버)
+- **BLOCK_REASON**: 재사용 가능한 이미지는 보안되지 않았습니다: Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 없으며, 주식 라이브러리는 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 없습니다. 기록은 asserted 보다는 오히려 FAIL를 지켜.
+- **ALT (12 언어)**:
   - **EN**: Incoterms selection, Chinese-market procurement guide export buyer reference
   - **FR**: Incoterms selection, procurement guide du marché chinois, référence acheteur export
   - **DE**: Incoterms selection, Chinesischer procurement guide, Referenz für Exportkäufer

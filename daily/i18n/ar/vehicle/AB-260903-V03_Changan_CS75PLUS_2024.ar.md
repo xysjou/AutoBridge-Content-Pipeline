@@ -1,68 +1,71 @@
-# Changan CS75 PLUS (3rd-Gen Champion) 2024: Two Turbo Engines and the 4th-Gen Boundary
+# Changan CS75 PLUS (3rd-Gen Champion) 2024: Two Turbo Engines  and  4th-Gen Boundary
 ## SEO Metadata
-- **SEO Title**: Changan CS75 PLUS 2024 (3rd Gen) Specs & Export Buyer Notes
-- **Meta Description**: Chinese-market 3rd-gen Changan CS75 PLUS Champion 2024 — 1.5T 138 kW vs 2.0T 171 kW, Aisin 8AT, dimensions, L2 driver aids, and the 4th-generation distinction exporters must keep straight.
-- **Suggested URL**: /vehicles/changan-cs75-plus/
-- ** H1 **: Changan CS75 PLUS 2024 (3rd-Generation Champion): Chinese-Market Specs for Exporters
-- **Primary Keyword**: changan cs75 plus 2024 specs 1.5t 2.0t
-- **Secondary Search Terms**: CS75 PLUS JL473ZQ7, CS75 PLUS 2.0T Aisin 8AT, Changan SUV export, third generation CS75 PLUS dimensions, Blue Whale engine
-- ** Internal Link Suggestions**: /vehicles/geely-emgrand/; /vehicles/li-auto- l6/;/guides/vehicle-coc-approval-dossier/
-- **Image Suggestions**: 1.5T vs 2.0T comparison; Aisin 8AT card; 540° camera display; side profile showing 4710 mm length
-- **ALT Suggestions**: "Changan CS75 PLUS third generation 2024"; "CS75 PLUS 1.5T versus 2.0T engine"
+- ** عنوان المنظمة**: شركة تشانغان CS75 PLUS 2024 (3rd Gen) Secs " Export Buyer Notes
+- ** وصف البيانات**: Chinese-market 3rd-gen Changan CS75 PLUS Champion 2024 — 1.5T 138 kW vs 2.0T 171 kW, Aisin 8AT، الأبعاد L2 من معونة السائقين  and  ويجب أن يظل المصدرون المميزون البالغ عددهم 4th-generation معتدلين.
+- ** URL المقتطع**: /مركبات/شانغان - cs75-plus/
+- ** H1 **: Changan CS75 PLUS 2024 (3rd-Generation Champion): مراكت سبيكات الصينية للمصدرين
+- ** كلمة مفتاحية برية**: changan cs75 plus 2024 specs 1.5t 2.0t
+- ** شروط البحث الثانية**: CS75 من دولارات الولايات المتحدة، JL473ZQ7 من دولارات الولايات المتحدة، CS75 من دولارات الولايات المتحدة، 2.0T من طراز Aisin 8AT، تصدير مركبة سيف تشانغان، الجيل الثالث CS75 من أبعاد نظام الأفضليات والبدلات، محرك الحوت الأزرق
+- ** Internal Link Suggestions**: /vehicles/geely-emgrand/; /vehicles/li-auto- l6/; /guides/vehicle-coc-type-approval-dossier/
+- ** اقتراحان مجازيان**: 1.5T مقابل 2.0T مقارنة؛ Aisin 8AT card; 540 ° camera display; side profile showing 4710 mm length
+- ** اقتراحات بشأن: "شانغان CS75 من طراز PLUS الجيل الثالث 2024، CS75 من طراز PLUS 1.5T مقابل 2.0T محرك"
 
 ## Buyer Context: Separate the 3rd-Gen Champion from the 4th Generation
-CS75 PLUS is Changan's core mid-size SUV family. This page covers the **3rd-generation Champion line, model year 2024 (REFERENCE MARKET: **. A **4th generation entered the China market from September 2024** with a longer body and wheelbase and a revised 1.5T tune. Because both generations traded under the CS75 PLUS name in overlapping months, an order note that says only "CS75 PLUS 2024" is ambiguous — lock generation, engine and gearbox against the VIN.
+CS75 PLUS هو جوهر تشانجان في منتصف حجم الأسرة السو في. وتغطي هذه الصفحة خط الطول البالغ 3rd-generation **، وهو نموذج عام 2024 (الإنعاش ماركيت: **. دخل جيل من الـ 4th ** إلى السوق الصينية من أيلول/سبتمبر 2024 ** مع هيئة أطول  and  قاعدة عجلات  and  a revised 1.5T tune. لأن كلا الجيلين تاجرا تحت اسم CS75 من حزب التحرير الشعبي في الأشهر المتداخلة مذكرة أمر تقول فقط "CS75 من حزب التحرير الوطني 2024" غامضة - توليد القفل والمحرك وجهاز التروس ضد شبكة المعلومات
 
 ## Powertrain: 1.5T vs 2.0T (ICE focus)
-| Item | 1.5T (JL473ZQ7, Blue Whale) | 2.0T (JL486ZQ5) |
+| البند | 1.5T (JL473ZQ7، الحوت الأزرق) | 2.0T (JL486ZQ5) |
 |---|---|---|
-| Max power | 138 kW (≈188 PS) | 171 kW (≈233 PS) |
-| Max torque | 300 N·m | 390 N·m |
-| Transmission | Aisin 8-speed | Aisin 8-speed |
-| Drive | Front-wheel drive | Front-wheel drive |
-| Fuel | Petrol (turbo); confirm grade and destination fuel/emission stage | Petrol (turbo) |
+| (ماكس) | 138 kW (≈188 PS) | 171 kW (≈233 PS) |
+| ماكس تورك | 300 N·m | 390 N·m |
+| التحويل | Aisin 8-speed automatic | Aisin 8-speed automatic |
+| قُد | "العجلة الأمامية" | "العجلة الأمامية" |
+| الوقود | البنزين (توربو)؛ تأكيد مرحلة وقود/وقود/بعثة الدرجة والمقصد | البنزين (توربو) |
 
-For an ICE SUV the buying decision is engine code, torque band, gearbox and emission stage. Both China engines pair with an Aisin 8AT; do not assume a dual-clutch or all-wheel-drive variant without the trim sheet. The 4th-generation car carries a revised Blue Whale 1.5T at about 141 kW — a different tune that must not be written onto a 3rd-gen VIN.
+من أجل سيارة إس يو إس سي سي سي سي سي سي سي سي سي سي سي سي سي سي سي سي سي سي....... محركات الصين مركبتين بـ 8AT أيسين لا تفترضي متغيراً مزدوجاً أو مُطلقاً من كل العجلات بدون ورقة الترايم The 4th-generation car carries a revised Blue Whale 1.5T at about 141 kW — a different tune that must not be written onto a 3rd-gen VIN.
 
-## Dimensions and Seating
-- Length / width / height: **4710 / 1865 / 1710 mm**
-- Wheelbase: **2710 mm**
-- Seats: ** 5 **
-The 4th-generation car is larger (reported 4770 / 1910 mm, 2800 mm wheelbase). Keep the two dimension sets on separate lines; mixing them corrupts both container stowage and customer-facing spec tables.
+## الأبعاد والبحار
+- Length / width /طول: ** 4710 / 1865 / 1710 mm **
+- Wheelbase: ** 2710 mm **
+- المقاعد: ** 5 **
+The 4th-generation car is larger (reported 4770 / 1910 mm, 2800 mm wheelbase). إبقاء البُعدين على خطوط منفصلة؛ وخلطهما يفسد كلا من طاولات الحاويات وأجهزة التكهن التي تُستخدم في العملاء.
 
-## Driver Assistance and Cabin
-The 3rd-gen Champion line is equipped to an **L2 assistance level on applicable grades**, including full-speed-range ACC, lane-keeping and a 540° surround-view image. Changan's 2024 annual report frames L2 as standardised across the newer platform; still, confirm the exact grade's sensor/feature list — "L2" is a category, not a guaranteed identical feature set.
+## مساعدة السائقين وكابين
+خط الـ 3rd-gen للبطلان مجهز بمستوى L2 ** للمساعدة على الدرجات المنطبقة**، بما في ذلك لجنة التنسيق الإدارية ذات النطاق السريع الكامل، ومسك الممرات، وصورة ذات رؤية محيطية تبلغ 540 درجة. Changan's 2024 annual report frames L2 as standardised across the newer platform; لا يزال، تأكيد قائمة مستشعرات/مرشحات الدرجة بالضبط "L2" هي فئة، وليس مجموعة متطابقة مضمونة.
 
-## Generation Boundary (order accuracy)
-- **This page:** 3rd-generation Champion, MY2024 (4710 mm, 2710 mm; 1.5T 138 kW / 2.0T 171 kW).
-- **Newer:** 4th generation from Sept 2024 (4770/1910, 2800 mm; revised 1.5T ≈141 kW).
+## مقياس التوليد (دقة الطلبة)
+- ** هذه الصفحة: 3rd-generation بطل، MY2024 (4710 mm، 2710 mm؛ 1.5T 138 kW/ 2.0T 171 kW).
+- ** أحدث: 4th جيل من 2024 سبت (4770/1910، 2800 mm؛ تنقيح 1.5T فوز 141 kW)
 - Recommended: put **generation + motor code + production month** on the PI and cross- check the VIN before deposit.
 
-## What Importers Should Verify Before Payment
-1. **Generation** (3rd vs 4th) and **engine code/power** matched to the VIN.
-2. **Transmission** (Aisin 8AT) and **drive layout** (FWD) for the chosen grade.
-3. **Emission stage/fuel** and destination **type-approval** path — China-6 is not overseas homologation.
-4. **ADAS feature inventory** for the exact trim; cluster/infotainment language.
-5. **LHD/RHD, warranty** and **container/RoRo** stowage based on the 4710 mm 3rd-gen footprint.
+## ما يجب على المستوردين أن يتأكدوا منه قبل الدفع
+1. ** الجيل** (3rd ضد 4th) ** الرمز/القوى المحرك** مطابقان للشبكة.
+2. ** البعث** (Aisin 8AT) و ** مخطّط محرك** (FWD) للصف المختار.
+3. ** مرحلة الانبعاثات/الوقود**  and  المقصد ** طريق الموافقة** - الصين 6 ليس مُتطوّراً في الخارج.
+4. ** قائمة جرد البيانات الخاصة بالدراسات الاستقصائية**، بالنسبة للثلاثة المحددة؛ لغة المجموعات/الاحتواء.
+5. **LHD/RHD، أمر الإحضار* ♪  and  **container/RoRo** stowage based on the 4710 mm 3rd-gen footprint.
 
-## Request a Current Export Quotation
-No static export price is published. The roughly RMB 121,900 Chinese starting figure is a **domestic, time-sensitive reference only — not an FOB/CIF quote**. Enquire with **Destination Country · Quantity · Trim & Engine · LHD/RHD · Destination Port · Incoterm**.
+## طلب تخصيص موارد التصدير الحالية
+ولا يُنشر أي سعر ثابت للصادرات. RMB تقريبا 121، 900 إن الرقم البادئ الصيني هو مرجع غير محسوس زمنياً - وليس إشارة من نوع FOB/CIF**. : الاستفسار مع ** بلد الاستضافة؛ الكمية؛ المحركات الثلاثية؛ ميناء الوجهة؛ ميناء الوجهة**.
 
-## Frequently Asked Questions
-**What is the difference between the 1.5T and 2.0T CS75 PLUS?** The 1.5T produces 138 kW/300 N·m; the 2.0T produces 171 kW/390 N·m; both use an Aisin 8AT.
-**Is the 2024 CS75 PLUS the same as the 4th-generation car?** No — the 4th generation launched in China from September 2024 with a larger body and a revised 1.5T; this page covers the 3rd-gen Champion.
-**Does CS75 PLUS have all-wheel drive?** The China 3rd-gen line referenced here is front-wheel drive; confirm any AWD claim against the specific trim.
-**Is the L2 package identical on every grade?** Treat it as grade-specific; verify ACC/lane/540° camera content on the exact VIN.
+## الأسئلة المتكررة
+** ما الفرق بين الـ 1.5T  and  2.0T CS75 PLUS?** The 1.5T produces 138 kW/300 N·m; the 2.0T produces 171 kW/390 N·m; كلاهما يستخدمان "أيسين 8AT."
+**Is the 2024 CS75 PLUS the same as the 4th-generation car?** No — the 4th generation launched in China from September 2024 with a larger body  and  (أ) 1.5T منقح؛ هذه الصفحة تغطي 3rd-gen بطل
+** هل لدى "CS75" من "البيسبول" قيادة على جميع العجلات**؟ خط الصين 3rd-gen المشار إليه هنا هو محرك الدفع الأمامي؛ يؤكد أي مطالبة من شركة AWD ضد الترايم المحددة.
+** هل حزمة الـ L2 متطابقة في كل رتب؟** معالجة ذلك على أنه صنف محدد؛ والتحقق من محتوى الكاميرا على الرقم الفعلي المحدد للجنة التنسيق الإدارية/الطائرة/ 540 درجة.
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
+## سجل الصور
+- لم يُؤمن أي منها في مستودع
 - ORIGINAL: IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
+- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
+- الحقوق - حقوق غير مؤكدة
+- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
+- CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
+- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات ويكيميو/فلكر غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات المسبقة/الرخصة، وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
 - ALT by language:
   - **EN**: AutoBridge export-buyer reference — Changan CS75 PLUS, petrol/diesel Chinese-market vehicle / SUV
   - **FR**: Référence AutoBridge pour acheteurs export — Changan CS75 PLUS, véhicule thermique (marché chinois) / SUV
@@ -77,24 +80,24 @@ No static export price is published. The roughly RMB 121,900 Chinese starting fi
   - **AR**: مرجع AutoBridge لمشتري التصدير — Changan CS75 PLUS, مركبة بمحرك احتراق (سوق الصين) / سيارة دفع رباعي
   - **ZH**: AutoBridge 出口采购参考｜Changan CS75 PLUS, 中国市场燃油车 / SUV
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## المصدر: التحقق
+| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
-| 2024 CS75 PLUS full parameter table | ZOL database | CN | https://detail.zol.com.cn/series/2530/18680/param_10857147_0_1.html | 2026-09-03 | CROSS_CHECKED | Dimensions, engines, 8AT, equipment, price (TIME_SENSITIVE) |
-| 4th-gen CS75 PLUS size/powertrain | PCauto / Toutiao | CN | http://m.toutiao.com/group/7413030203410940468/ | 2026-09-03 | TIME_SENSITIVE | 4th-gen 4770/1910, 2800 mm |
-| 4th-gen Ultra 2.0T 171 kW / Aisin 8AT | People's Daily (Chongqing) | CN | http://cq.people.com.cn/BIG5/n2/2024/1228/c365412-41090987.html | 2026-09-03 | VERIFIED | 2.0T power, Aisin 8AT (official media) |
-| Changan Automobile 2024 Annual Report | Changan / Sina Finance | CN | http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/BOND/2025/2025-4/2025-04-11/22199876.PDF | 2026-09-03 | VERIFIED | New platform, standardised L2 (company filing) |
-| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
-| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
-| GB 18352.6-2016 with amendment XG1-2026 (China- 6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
+| 2024 CS75 من جدول البارامترات الكاملة | قاعدة بيانات ZOL | CN | https://detail.zol.com.cn/series/2530/18680/param_10857147_0_1.html | 2026-09-03 | صرخات | الطلقات، المحركات، 8AT، المعدات، السعر (TIME -SENSITIVE) |
+| 4th-gen CS75 من حجم/قوة القوة | PCauto / Toutiao | CN | http://m.toutiao.com/group/7413030203410940468/ | 2026-09-03 | الوقت - | 4th-gen 4770/1910, 2800 mm |
+| 4th-gen Ultra 2.0T 171 kW / Aisin 8AT | الناس يومياً | CN | http://cq.people.com.cn/BIG5/n2/2024/1228/c365412-41090987.html | 2026-09-03 | مفقود | 2.0T قوة، أيسين 8AT (وسائط الإعلام الرسمية) |
+| Changan Automobile 2024 Annual Report | Changan / Sina Finance | CN | http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/BOND/2025/2025-4/2025-04-11/22199876.PDF | 2026-09-03 | مفقود | منصة جديدة، موحدة قدرها L2 (إقرار المرافقة) |
+| مصممو السيارات على الطرق - نظام الاستفسارات العامة | وزارة الصناعة وتكنولوجيا المعلومات في الصين | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | مفقود | التحقق من الصانع والنموذج المعتمد والهجوم (公告) |
+| GB 16735-2019 المركبات البرية - الاحتياجات من رقم تحديد المركبات | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | مفقود | تركيبة الشبكة وربطة بيانات مستعملة في نظام التحقق الخاص بالمشتري |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | مفقود | الشروط التقنية المتعلقة بسلامة المركبات في الصين والإطار الزمني الحالي/التنقيحي |
+| 18352.6-2016 GB مع التعديل XG1-2026 (الصين - 6 من انبعاثات ملوثات المركبات الخفيفة) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | مفقود | الصين - 6 مرحلة انبعاثات المركبات الخفيفة ومواعيد تنفيذ التعديل البالغ 2026 |
 
-*Confidence note: engine/gearbox and the 4th-gen boundary are supported by official media and Changan's own annual report (VERIFIED); parameter-table detail is cross-checked. Domestic price and the newer generation's figures are time-sensitive. Destination homologation remains a separate check.*
+* ملاحظة المصداقية: محرك/صندوق جيار والحدود 4th-gen مدعومة من وسائل الإعلام الرسمية وتقرير تشانغان السنوي الخاص بها؛ وتفاصيل المظلات متداخلة. السعر المحلي وأرقام الجيل الجديد حساسة للوقت ولا يزال التلويث الوجهي يمثل شيكا منفصلا. ♪
 
-## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: China, 3rd-gen Champion MY2024 (Chinese-market reference; 4th gen isolated)
-- **Verification method**: Official-media + company-filing cross-check; generation and scope kept distinct
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+## استعراض التحرير
+- ** مستعرض/مراجع**: [فريق تحرير تصدير أوتو بريدج] (/مؤلف/) - طريقة لكل [سياستنا الانتخابية] (/سياسة التحرير/)
+- ** لم يُستعرض بعد**: 2026-09-05
+- ** سوق الإحالة**: الصين، 3rd-gen بطلان (MY2024 (مراجع السوق الصينية؛ 4th جن معزول)
+- ** طريقة التحقق**: التحقق الشامل من أداء مهام وسائط الإعلام الرسمية + تصفية الشركات؛ ويظل الجيل والنطاق متميزين
+- ** المعيار الإفريقي**: باحثة ومحررة من المصادر المذكورة أعلاه (بحوث مكتبية؛ ولا يُدَّعى عن أي قيادة مباشرة أو تمزق أو استيراد). وتظهر الثقة في المصدر في الصف الواحد؛ وأي نقطة لا يمكننا تأكيدها بشكل مستقل تعرض كبند تحقق بدلا من التأكيد على أنها حقيقة.
 #AutoBridge #VehicleExport #Changan #CS75Plus #PetrolSUV

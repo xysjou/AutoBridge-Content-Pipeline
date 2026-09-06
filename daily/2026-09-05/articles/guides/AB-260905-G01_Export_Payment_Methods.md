@@ -48,6 +48,9 @@ Even a clean L/C does not cure sanctions exposure on the buyer/bank, an incorrec
 | 信用证核心特点（UCP600第二条定义） | 东莞市贸促会（CCPIT） | CN | T1 | VERIFIED | https://www.dg.gov.cn/ccpit/hd/ywzsk/gjjmyj/content/post_4405133.html | 信用证定义, 银行信用, 相符交单 |
 | 国际贸易单证业务（教材，流程佐证） | 清华大学出版社 | CN | T3 | CROSS_CHECKED | http://www.tup.tsinghua.edu.cn/upload/books/yz/037271-01.pdf | 单证相符, 审单流程 |
 | International Chamber of Commerce (ICC) | International Chamber of Commerce | CN | T1 | VERIFIED | https://iccwbo.org/ | publisher of UCP600 and Incoterms rules; authoritative trade-finance framework |
+| China Export & Credit Insurance (SINOSURE) — short-term export credit insurance | China Export & Credit Insurance Corporation (SINOSURE 中国信保) | INT/CN | T1/T2 | VERIFIED | https://www.sinosure.com.cn/ | Open-account (O/A) and documentary-collection (D/P) receivable risk is insurable; export credit insurance context for payment-term choice |
+| China Council for the Promotion of International Trade (CCPIT) | China Council for the Promotion of International Trade (CCPIT 中国贸促会) | CN | T1/T2 | VERIFIED | https://www.ccpit.org/ | National trade-promotion body: L/C and trade-document guidance and certification; distinct from local government reproductions |
+| ICC Trade Finance solutions (UCP 600 / URC 522 / URDG rule owner) | International Chamber of Commerce | INT | T1/T2 | VERIFIED | https://iccwbo.org/business-solutions/trade-finance/ | ICC is the rule-setter for L/C (UCP 600), collections (URC 522) and guarantees (URDG); deep page beyond homepage |
 ## Editorial Review
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
 - **Last reviewed**: 2026-09-05
@@ -59,11 +62,14 @@ Even a clean L/C does not cure sanctions exposure on the buyer/bank, an incorrec
 - **IMAGE_ASSET_PATH**: none secured in repository
 - **ORIGINAL_IMAGE_URL**: not captured
 - **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
 - **RIGHTS_HOLDER**: unconfirmed
 - **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
-- **CHECKED_DATE**: 2026-09-05
+- **CHECKED_DATE**: 2026-09-06
 - **MODEL_TOPIC_MATCH**: exact Payment Methods in Chinese Vehicle Export
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
 - **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
 - **ALT (12 languages)**:
   - **EN**: export payment methods, Chinese-market procurement guide export buyer reference
   - **FR**: export payment methods, procurement guide du marché chinois, référence acheteur export

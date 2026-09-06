@@ -3,7 +3,7 @@
 - **SEO Titel**: Chinesisch-Auto-Infotainment & OTA im Ausland: eine Pro-VIN Kontrollleitfaden
 - **Meta Description**: Wird eine China-spec Head Unit in Ihrem Markt funktionieren? Überprüfen Sie die UI-Sprache, lokale Karten, Telefonspiegelung, App / Server-Erreichbarkeit und OTA auf der tatsächlichen VIN - mit markenspezifischen Fakten, die von Branchenbeispielen getrennt sind.
 - **Vorgeschlagene URL**: /guides/chinesische-car-infotainment-ota-Lokalisierung/
-- ** H1 **: Machen Sie die Software eines chinesischen Autos in Ihrem Markt: Was Sie am tatsächlichen Auto testen sollten
+- ** H1 **: Machen Sie die Software eines chinesischen Autos in Ihrem Markt: Was Sie am eigentlichen Auto testen sollten
 - **Hauptschlüsselwort**: Chinesisches Auto Infotainment Englisch OTA Übersee Lokalisierung nach VIN
 - **Secondary Search Terms**: China-spec Head Unit Englisch UI, BYD DiLink im Ausland, chinesische EV-Karten im Ausland, CarPlay Android Auto Chinesisches Auto, OTA Server Region, Arabisches RTL HMI, Exportversion Software Build
 - **Interne Linkvorschläge**: /guides/chinese-ev-charging-standard-compatibility/; /guides/right-hand-drive-chinese-cars/; /guides/verify-china-car-export-supplier/
@@ -36,7 +36,7 @@ Für **Rechts-nach-Links-Skripte (Arabisch)** benötigt die richtige Lokalisieru
 3. **Professionelle, garantiesichere Lokalisierung**, wo die Marke sie unterstützt, dokumentiert.
 4. **Vermeiden Sie nicht autorisiertes "Blinken". ** Aftermarket-Reflashing kann die Garantie aufheben und mit den Regeln für die Einhaltung von Funk- / Software-Vorschriften in Konflikt stehen; seine Rechtmäßigkeit wurde nicht von einer offiziellen Quelle bestätigt. Behandeln Sie "Wir können es auf Englisch knacken" als Risikoflagge.
 ## Der Bericht „English-HMI for Export Inspection Claim — Not Settled Regulation
-Eine Quelle aus der Industrie schlägt vor, dass die Exportinspektion von 2026 möglicherweise englische HMI-Screenshots erfordert. Dies ist ** nur für die Industrie und wurde nicht gegen ein offizielles Zoll- / MOFCOM-Dokument bestätigt **, so dass es nicht als Anforderung angegeben wird. Es ist jedoch ratsam, die Beweise für die englische Schnittstelle in der Exportakte zu behalten.
+Eine Quelle aus der Industrie schlägt vor, dass 2026 Exportinspektionen möglicherweise englische HMI-Screenshots erfordern. Dies ist ** nur für die Industrie und wurde nicht gegen ein offizielles Zoll- / MOFCOM-Dokument bestätigt **, so dass es nicht als Anforderung angegeben wird. Es ist jedoch ratsam, die Beweise für die englische Schnittstelle in der Exportakte zu behalten.
 ## Per VIN Akzeptanztest (laufen vor der Entbindung)
 Auf der **aktuellen VIN**, idealerweise auf einer Zielnetzwerk-SIM/Wi-Fi:
 - Radieren Sie jedes Menü/jede Warnung in die Zielsprache; Screenshots nicht übersetzte Bereiche.
@@ -45,7 +45,7 @@ Auf der **aktuellen VIN**, idealerweise auf einer Zielnetzwerk-SIM/Wi-Fi:
 - Download/Log in die Owner-App von einem Zielkonto; Cloud-Funktionen bestätigen.
 - Überprüfen Sie die Verfügbarkeit von OTA aus Übersee und notieren Sie die Softwareversion.
 - Überprüfen Sie für RTL-Märkte die Layoutrichtung, nicht nur das Vokabular.
-- Setzen Sie Ergebnisse in den Vertrag: Wenn die Prüfungen 1–5 nicht nachgewiesen werden können, nehmen Sie den Export Build oder gehen Sie weg.
+- Setzen Sie Ergebnisse in den Vertrag: Wenn Schecks 1–5 nicht nachgewiesen werden können, nehmen Sie den Export Build oder gehen Sie weg.
 ## Was AutoBridge über das Lokalisierungs-Shop-Marketing hinausfügt
 Lokalisierungsanbieter haben einen Anreiz zu sagen, dass jedes Problem behoben werden kann (gegen eine Gebühr). Dieser Leitfaden empfiehlt stattdessen einen markenneutralen, VIN-gebundenen Akzeptanztest: Beachten Sie, welche Fehler Hardware/Region-gesperrt im Vergleich zu Sprach-only sind, und halten Sie die **dokumentierte Markenfähigkeit getrennt von Anekdote** in der Kaufdatei - so dass ein Käufer weder für eine "vollständige englische Konvertierung" bezahlt, die ein Factory-Export-Build bereitgestellt hätte, noch verlässt er sich auf eine Fallstudie aus einem anderen Modell.
 ## Häufig gestellte Fragen
@@ -58,11 +58,14 @@ Lokalisierungsanbieter haben einen Anreiz zu sagen, dass jedes Problem behoben w
 - IMAGE_ASSET_PATH: keine gesicherte Datei
 - ORIGINAL_IMAGE_URL: nicht erfasst
 - SOURCE_PAGE: nicht erfasst
+- SOURCE_FILE_PAGE: Entfällt — keine Kandidaten-Mediendatei identifiziert (keine Lizenz zur Geltendmachung)
 - RIGHTS_HOLDER: nicht bestätigt
 - LICENSE_OR_USAGE_BASIS: keine gesicherte — kein Bild von Dritten darf veröffentlicht werden, bis die Rechte gelöscht sind
-- CHECKED_DATUM: 2026-09-05
+- CHECKED_DATUM: 2026-09-06
 - MODEL_TOPIC_MATCH: muss mit dem genauen Modell/der genauen Version (oder dem Leitthema) und dem Referenzmarkt oben übereinstimmen
+- IMAGE_SCOPE_NOTE: nur die genaue Modellfamilie/das genaue Thema angeben; darf keine spezifische Trimm-/Modelljahr-, echte VIN-, persönliche Inspektion oder tatsächliche Transaktion implizieren
 - IMAGE_RIGHTS_STATUS: FAIL (kein lizenziertes Asset erfasst; ein Platzhalter oder ein Hinweis „altes Bild behalten wird nicht akzeptiert)
+- BLOCK_REASON: Es konnte kein wiederverwendbares Bild gesichert werden: Wikimedia Commons/Flickr sind aus der Forschungsumgebung nicht erreichbar, Lagerbibliotheken erfordern authentifizierten API/Lizenzzugriff und ein OEM-Webseitenbild ist KEIN kommerzielles Wiederverwendungsstipendium; es gibt kein AutoBridge-eigenes Foto. Nein, aber nicht nur vereitelt.
 - ALT nach Sprache:
   - **EN**: AutoBridge export-buyer reference — Chinese-car infotainment and OTA localization, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Chinese-car infotainment and OTA localization, guide d’achat à l’export automobile
@@ -84,9 +87,9 @@ Lokalisierungsanbieter haben einen Anreiz zu sagen, dass jedes Problem behoben w
 | BYD Sea Lion 07 Ortsbestimmung in der Ukraine | NEV Fix (Lokalisierungsdienst) | CN → multipliziert | https://nevfix.net/blog/byd-sealion-07-ukraine-localization-case.html | 2026-09-02 | SINGLE_SOURCEN | **Markenspezifisches Beispiel**: Nur in China Probleme; BYD-Konto Englisch wechseln (neu bestätigen pro Modell) |
 | Denza Z European Google/Gemini vs. heimisches Cockpit | Xueqiu (mit Veröffentlichung) | CN→EU | https://xueqiu.com/9837237227/399831947 | 2026-09-02 | SINGLE_SOURCEN | **Beispiel** Export vs Inlandsstack (nicht universell) |
 | Prüfungsliste für die VIN-Software | StarVia Auto (Exportservice) | CN→Global | https://www.starviaauto.com/en/blog/making-chinese-ev-software-work-locally | 2026-09-02 | SINGLE_SOURCEN | Annahmemethode mit fünf Prüfungen |
-| Mehrsprachiger Exportstandard | CCID 赛迪 / Neusoft OneCoreGo coverage (industry media) | Global | http://www.ccidnet.com/hlw/93237.jhtml | 2026-09-02 | SINGLE_SOURCEN | RTL/Arabische Layout-Betrachtung |
-| Chinesisches Auto OS Englische Version B2B Ausfuhrleitfaden | Elektrisches Auto China | CN | https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-chinese-car-os-english-version/ | 2026-09-02 | SINGLE_SOURCEN | 英文 HMI、刷机成本（行业口径，待官方核验） |
-| 中国汽车出海，智能化为何"水土不服" | 汽车之家·车家号 | CN | https://chejiahao.m.autohome.com.cn/info/26145241?isfrom=pc | 2026-09-02 | SINGLE_SOURCEN | 海外用户 UI 翻译/手机互联问题 |
+| Mehrsprachiger Exportstandard | CCID 赛迪 / Neusoft OneCore Go Berichterstattung (Industriemedien) | Global | http://www.ccidnet.com/hlw/93237.jhtml | 2026-09-02 | SINGLE_SOURCEN | RTL/Arabische Layout-Betrachtung |
+| Chinesisches Auto OS Englisch Version B2B Export Guide | Elektrisches Auto China | CN | https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-chinese-car-os-english-version/ | 2026-09-02 | SINGLE_SOURCEN | 英文 HMI、刷机成本（行业口径，待官方核验） |
+| 中国汽车出海, 智能化为何 "水土不服" | 汽车之家 · 车家号 | CN | https://chejiahao.m.autohome.com.cn/info/26145241?isfrom=pc | 2026-09-02 | SINGLE_SOURCEN | 海外用户 UI 翻译 / 手机互联问题 |
 
 *Vertrauensbeweis: Alle zitierten Materialien sind Industrie / Service / Medien und werden als Illustration von Mustern oder Einzelmarkenfällen verwendet - niemals als Beweis dafür, dass alle chinesischen Fahrzeuge das Verhalten teilen. Pro-Marken-Export-Sprachlisten, OTA-Server-Region-Richtlinie und der "obligatorische englische HMI" -Inspektionsanspruch wurden von einer primären Regulierungsbehörde nicht bestätigt und müssen auf dem Überseekanal der Marke für die spezifische VIN abgerechnet werden. *
 ## Editorial Review

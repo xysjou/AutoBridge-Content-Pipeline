@@ -6,7 +6,7 @@
 - **Vorgeschlagene URL**: /guides/vehicle-export-pdi-pre-shipment-handover
 - ** H1 **: Vorbereitung eines Fahrzeugs für RoRo oder Containerexport: Was die benannten Carrier benötigen und was wir empfehlen
 - **Hauptschlüsselwort**: PDI-Übergabe von PDI für die Vorversandprüfung von Fahrzeugen RoRo
-- **Secondary Search Terms**: Wallenius Wilhelmsen fuel quarter tank, Hoegh BEV SOC 50 percent, RoRo operable vehicle, disconnect 12V battery used car, pre-shipment photo record
+- **Secondary Search Terms**: Wallenius Wilhelmsen Kraftstoffvierteltank, Hoegh BEV SOC 50 Prozent, RoRo-betriebenes Fahrzeug, trennen Sie 12V Batterie Gebrauchtwagen, Vorversand Fotoaufzeichnung
 - **Interne Linkvorschläge**: /guides/vehicle-export-bill-of-lading-types/; /guides/ev-shipping- un3556-imdg-compliance/; /guides/emission-fuel-compatibility-china-vehicles/
 - **Bildvorschläge**: PDI-Checklistenblatt; RoRo selbstfahrende Rampe; Named Carrier vs Editorial-Recommendation Split Diagramm
 - **ALT-Vorschläge**: "Nannte RoRo-Trägeranforderungen im Vergleich zur empfohlenen Checkliste vor dem Versand"
@@ -20,8 +20,8 @@ Schadensstreitigkeiten am Bestimmungsort gehen fast immer auf eine Frage zurück
 | Thema | Wallenius Wilhelmsen | Autoliner von Höegh | Natur |
 |---|---|---|---|
 | **Kraftstoff/Gasstand** | Tank etwa ** ein Viertel voll ** (genug zum Selbstfahren ein/aus) | Tank etwa ** ein Viertel voll ** | Carrier-Politik; nur für diese beiden benannten Linien überprüft - keine universelle Regel |
-| **Verwendete ICE-Batterie** | Für gebrauchte Geräte **ohne Batterie-Kill-Switch** trennen Sie den 12/24V nach dem Verzurren (Ausnahmen pro WW-Anweisung) | — | WW-spezifisch; Single-Source-Carrier-Regel |
-| **BEV Hochspannungs-SOC** | — | **SOC no more than 50%**, while retaining enough charge for loading/unloading/storage; HEV: ≤¼ fuel plus SOC guidance | Höegh-spezifisch; **nicht** eine globale SOC-Obergrenze |
+| **Verwendete ICE-Batterie** | Für gebrauchte Geräte **ohne Batterie-Kill-Switch ** trennen Sie den 12/24V nach dem Verzurren (Ausnahmen pro WW-Anweisung) | — | WW-spezifisch; Single-Source-Carrier-Regel |
+| **BEV Hochspannungs-SOC** | — | **SOC nicht mehr als 50% **, während genügend Ladung für das Be-/Entladen/Lagern beibehalten wird; HEV: ≤¼ fuel plus SOC guidance | Höegh-spezifisch; **nicht** eine globale SOC-Obergrenze |
 | **Bedienbarkeit** | RoRo-Einheiten müssen sich selbst sicher ein-/ausfahren (Bewegung/Bremse/Lenkung); fehlerhafte oder undichte Einheiten können zurückgewiesen werden | Gleiche Anforderung an das selbstfahrende Fahren | Carrier-Empfangsregel für diese beiden benannten Zeilen |
 
 Diese Anforderungen werden den benannten Fluggesellschaften gerade deshalb genannt, weil sie **von Linie und von Reise variieren **: Ein chinesischer RoRo / Container-Carrier oder eine andere Linie kann unterschiedliche Niveaus festlegen. Geben Sie niemals "Carriers require X" an, ohne den Carrier zu benennen und seinen aktuellen schriftlichen Leitfaden zu überprüfen.
@@ -52,7 +52,7 @@ Anzahl der Verkrustungen, Bruchfestigkeit des Gurtbandes, Rutschschutzmatten, Fa
 
 ## Häufig gestellte Fragen
 **Ist ein Vierteltank eine gesetzliche Anforderung?** Nein — es ist eine schriftliche Richtlinie von benannten RoRo-Fluggesellschaften wie Wallenius Wilhelmsen und Höegh; folgen Sie den Anweisungen des gebuchten Luftfahrtunternehmens.
-**Must every EV ship at 50% SOC?** That figure is a Höegh Autoliners policy, not a universal cap; die SOC-Anforderung des gebuchten Luftfahrtunternehmens Reise für Reise zu bestätigen.
+**Must jedes EV-Schiff bei 50% SOC? ** Diese Zahl ist eine Höegh Autoliners Politik, nicht eine universelle Obergrenze; bestätigen Sie die SOC Anforderung des gebuchten Luftfahrtunternehmens Reise für Reise.
 **Ist das Foto/die Übergabeaufzeichnung obligatorisch?** Es ist die von AutoBridge empfohlene Beweismethode, keine gesetzliche Anforderung - aber es stärkt einen Zielschadensanspruch wesentlich.
 **Wer entscheidet über die Wimpernpunkte und Gurtbewertungen?** Das Transportunternehmen/Terminal und das OEM-Transporthandbuch; nehmen Sie keine festen Werte ohne ihre Dokumente an.
 
@@ -60,11 +60,14 @@ Anzahl der Verkrustungen, Bruchfestigkeit des Gurtbandes, Rutschschutzmatten, Fa
 - IMAGE_ASSET_PATH: keine gesicherte Datei
 - ORIGINAL_IMAGE_URL: nicht erfasst
 - SOURCE_PAGE: nicht erfasst
+- SOURCE_FILE_PAGE: Entfällt — keine Kandidaten-Mediendatei identifiziert (keine Lizenz zur Geltendmachung)
 - RIGHTS_HOLDER: nicht bestätigt
 - LICENSE_OR_USAGE_BASIS: keine gesicherte — kein Bild von Dritten darf veröffentlicht werden, bis die Rechte gelöscht sind
-- CHECKED_DATUM: 2026-09-05
+- CHECKED_DATUM: 2026-09-06
 - MODEL_TOPIC_MATCH: muss mit dem genauen Modell/der genauen Version (oder dem Leitthema) und dem Referenzmarkt oben übereinstimmen
+- IMAGE_SCOPE_NOTE: nur die genaue Modellfamilie/das genaue Thema angeben; darf keine spezifische Trimm-/Modelljahr-, echte VIN-, persönliche Inspektion oder tatsächliche Transaktion implizieren
 - IMAGE_RIGHTS_STATUS: FAIL (kein lizenziertes Asset erfasst; ein Platzhalter oder ein Hinweis „altes Bild behalten wird nicht akzeptiert)
+- BLOCK_REASON: Es konnte kein wiederverwendbares Bild gesichert werden: Wikimedia Commons/Flickr sind aus der Forschungsumgebung nicht erreichbar, Lagerbibliotheken erfordern authentifizierten API/Lizenzzugriff und ein OEM-Webseitenbild ist KEIN kommerzielles Wiederverwendungsstipendium; es gibt kein AutoBridge-eigenes Foto. Nein, aber nicht nur vereitelt.
 - ALT nach Sprache:
   - **EN**: AutoBridge export-buyer reference — Pre-shipment PDI and handover for RoRo/container, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Pre-shipment PDI and handover for RoRo/container, guide d’achat à l’export automobile
@@ -83,8 +86,8 @@ Anzahl der Verkrustungen, Bruchfestigkeit des Gurtbandes, Rutschschutzmatten, Fa
 | Quelle: | Organisation | Markt | URL | Geprüft | Vertrauen | Belegte Fakten |
 |---|---|---|---|---|---|---|
 | WW Cargo Handling Instructions (fuel ≤¼) | Wallenius Wilhelmsen (RoRo-Träger) | INTL | https://cargohandlinginstruction.walleniuswilhelmsen.com/pdf-files/WW-CHI-250731-1.31.pdf | 2026-09-04 | CROSS_CHECKED (Primärunternehmen) | Kraftstoffstand, Betriebsfähigkeit |
-| WWW Empfang von gebrauchten Einheiten (12/24V ohne Kill-Switch trennen) | Wallenius Wilhelmsen | INTL | https://cargohandlinginstruction.walleniuswilhelmsen.com/terminal/receiving-of-used-units-draft | 2026-09-04 | SINGLE_SOURCE (Primärunternehmen) | Batterieabschaltung für gebrauchtes ICE |
-| Höegh Automotive shipping (≤¼ fuel; BEV SOC; Bedienbarkeit | Autoliner von Höegh | INTL | https://www.hoeghautoliners.com/what-we-ship/automotive | 2026-09-04 | SINGLE_SOURCE (Primärunternehmen) | BEV ≤50% SOC, fuel, operability |
+| WWW Empfang von gebrauchten Einheiten (Trennung 12/24V ohne Kill-Switch) | Wallenius Wilhelmsen | INTL | https://cargohandlinginstruction.walleniuswilhelmsen.com/terminal/receiving-of-used-units-draft | 2026-09-04 | SINGLE_SOURCE (Primärunternehmen) | Batterieabschaltung für gebrauchtes ICE |
+| Höegh Automotive shipping (≤¼ fuel; BEV SOC; Bedienbarkeit | Autoliner von Höegh | INTL | https://www.hoeghautoliners.com/what-we-ship/automotive | 2026-09-04 | SINGLE_SOURCE (Primärunternehmen) | BEV ≤ 50% SOC, Kraftstoff, Betriebsfähigkeit |
 | Höegh Trucks/Busse/Trailers Shipping | Autoliner von Höegh | INTL | https://www.hoeghautoliners.com/what-we-ship/trucks-buses-and-trailers-shipping | 2026-09-04 | SINGLE_SOURCE (Primärunternehmen) | Empfang von Handelseinheiten |
 | Vorversandkontrolle und Übergabepraxis | 11467 Branchenseiten | CN | https://m.11467.com/product/d55278360.htm | 2026-09-04 | SINGLE_SOURCE (Redaktionsbasis) | Empfohlene Checkliste/Foto/Übergabe |
 *Beweisumfang: Named-Carrier-Richtlinien, die nach WW/Höegh-Primärhandbüchern verifiziert wurden (Carrier-Richtlinien, nicht Regulierungen, nicht universell); Checkliste ist redaktionelle Empfehlung; feste Peitschen/Druck/Orientierungswerte sind blockiert, bis OEM/Carrier-Dokumente vorliegen. *

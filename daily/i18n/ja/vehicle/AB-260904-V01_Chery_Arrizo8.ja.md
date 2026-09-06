@@ -1,69 +1,72 @@
-# Chery Arrizo 8 (艾瑞泽8): a Chinese-Market 1.6T Saloon Spec Sheet for Export Buyers
+# チェリー・アリゾ 8 (艾瑞泽 8): 中国の市場1.6T 輸出バイヤーのためのSaloonのSpecシート
 
-## SEO Metadata
-- **SEO Title**: Chery Arrizo 8 Specs & Export Buyer Guide (1.6TGDI, China Reference)
-- **Meta Description**: Chinese-market Chery Arrizo 8 — 1.6T Kunpeng 145 kW/290 N·m, 7DCT, 4780 mm body, the trim distinctions that matter, and what importers verify before ordering.
-- **Suggested URL**: /vehicles/chery-arrizo- 8/
-- **H1**: Chery Arrizo 8: Chinese-Market Specifications and Export Verification Notes
-- **Primary Keyword**: chery arrizo 8 specs export
-- **Secondary Search Terms**: Arrizo 8 1.6TGDI, Chery Arrizo 8 dimensions, 艾瑞泽8 export, Kunpeng SQRF4J16, Chinese compact sedan export
-- **Internal Link Suggestions**: /guides/vin-nameplate-verification-chinese-vehicles/;; /guides/emission-fuel-compatibility-china-vehicles/ ; /guides/export-vehicle-document-package/
-- **Image Suggestions**: front three-quarter of Arrizo 8; engine cover 1.6TGDI badge; rear cabin legroom; 7DCT selector
-- **ALT Suggestions**: "Chery Arrizo 8 1.6TGDI Chinese-market sedan"; "Arrizo 8 dimensions 4780mm wheelbase 2790mm"
+## ツイート メタデータ
+- **SEOタイトル**:Chery Arrizo 8仕様&輸出バイヤーガイド(1.6TGDI、中国参考)
+- **メタ 説明**:中国市場 チェリーアリゾ8 — 1.6T ケンペン 145 kW / 290 N·m、7DCT、4780 mm ボディ、問題のトリムの区別、および注文前に輸入業者が確認する。
+- **混雑URL**: /vehicles/chery-arrizo- 8/
+- H1 ホテル **: チェリーアリゾ8: 中国の市場仕様と輸出検証ノート
+- **主なキーワード**: チェリーアリゾ8スペックス輸出
+- **二次検索条件**:Arrizo 8 1.6TGDI、Chery Arrizo 8寸法、艾瑞泽 8輸出、Kunpeng SQRF4J16、中国のコンパクトなセダン輸出
+- **内部リンクの提案**: /guides/vin-nameplate-verification-chinese-vehicles/; /guides/emission-fuel-compatibility-china-vehicles/; /guides/export-vehicle-document-package/
+- **イメージ提案**: front three-quarter of Arrizo 8; エンジンカバー 1.6TGDI バッジ; 後部小屋の足場; 7DCT セレクター
+- **ALT 提案**: "Chery Arrizo 8 1.6TGDI 中国の市場セダン「Arrizo 8次元4780mmのホイールベース2790mm」
 
-## Buyer Context: a Near-B-Segment Saloon Sits Above the Small-Car Field
-The Arrizo 8 is Chery's step-up saloon, sized between the traditional compact and B-segment fields and pitched at buyers who want more rear space than an entry sedan. For an exporter the opening question is not price but **which powertrain line is being quoted**: the Chinese range is built around a 1.6-litre turbo, and this page documents the **1.6TGDI DCT Chinese-market car (REFERENCE MARKET: CHINA)**. Every number below is a **Chinese-market reference specification**, not a global spec — destination tune, emission homologation and equipment are set by the local market, and no OEM overseas specification sheet was captured for this model in the research pack.
+## バイヤーのコンテキスト: 小さい車の分野上のBセグメントのSaloonのSits
+アリゾ8は、伝統的なコンパクトとBセグメントのフィールド間でサイズを上げて、エントリーセダンよりも多くのリアスペースを望むバイヤーでピッチアップされたCheryのステップアップサロンです。 輸出業者にとって、開口部の問題は価格ではなく、パワートレインラインが引用されている**:中国の範囲は1.6-litreターボの周りに構築され、このページは** 1.6TGDI DCT中国市場車(REFERENCE MARKET: CHINA)**を文書化しています。 以下は、**中国市場参照仕様**で、グローバルスペックではなく、目的地のチューン、排出の均質化、機器はローカル市場によって設定され、OEM海外仕様シートは研究パックでこのモデルのためにキャプチャされていない。
 
-## Driveline (ICE focus: engine, gearbox, fuel, emission)
-| Item | 1.6TGDI DCT (China reference) |
+## 駆動線(ICEフォーカス:エンジン、ギアボックス、燃料、排出)
+| アイテム | 電圧: 1.6TGDI DCT (中国参考) |
 |---|---|
-| Engine | 1.6 T Kunpeng turbocharged inline-4 (SQRF4J16 family) |
-| Max power | 145 kW (≈197 PS) |
-| Max torque | 290 N·m |
-| Transmission | 7-speed wet dual-clutch (7DCT) |
-| Drive layout | Front-engine, front-wheel drive |
-| Claimed top speed | 205 km/h (single-source; confirm on the exact trim sheet) |
-| Fuel/emission note | Petrol; China-6 level — confirm destination fuel grade and emission route (China-6 is not itself an overseas type approval) |
+| 油圧エンジン | 1.6 T Kunpeng turbocharged inline-4 (SQRF4J16 family) |
+| 最高の力 | 145 kW (≈197 PS) |
+| 最高のトルク | 290 N·m |
+| トランスミッション | 7-speed ぬれた二重クラッチ(7DCT) |
+| ドライブレイアウト | フロントエンジン、フロントホイール駆動 |
+| クレームトップスピード | 205 km/h(単一ソース;正確なトリムシートで確認) |
+| 燃料/排出のノート | ガソリン;中国- 6 レベル — 目的地の燃料グレードと排出経路を確認します(中国- 6 は、海外の型承認ではありません) |
 
-For an ICE saloon the procurement decisions concentrate on **engine code, gearbox type and emission stage**. Fix all three against the VIN rather than the brochure name; see the emission/fuel-compatibility guide for why a China-6 calibration still needs destination homologation.
+ICE の調達の決定は、**Engine コード、ギアボックスの種類、および排出ステージに集中します**。 Fix all three against the VIN rather than the brochure name; 中国の6校正が目的地の均質化を必要とする理由については、排出/燃料互換性ガイドを参照してください。
 
-## Body, Dimensions and Seating
-- Length / width / height: **4780 / 1843 / 1469 mm**
-- Wheelbase: **2790 mm**
-- Doors / seats: **4 doors / 5 seats**
-The 2790 mm wheelbase is what places the car above a standard compact sedan; cross-check the wheelbase against the model code on the pro forma so a smaller Arrizo is not substituted.
+## ボディ、次元および座席
+- 長さ/幅/高さ:** 4780 / 1843 / 1469 mm **
+- ホイールベース: ** 2790 mm **
+- ドア/座席:** 4のドア/5席**
+2790 mm ホイールベースは、標準のコンパクトなセダンの上に車を置くものです。 ホイールベースをプロ・フォーマのモデルコードに交差チェックすることで、より小さいArrizoは代替されません。
 
-## Version and Trim Differences to Hold Separately
-- The representative configuration in this sheet is the **1.6TGDI DCT 卓越 (Excellence)** trim; other Chinese trims change equipment, wheels and interior options but share the documented footprint.
-- Power and torque figures are cross-checked across two Chinese structured databases; **doors, drive layout and top speed are single-source** and should be re-confirmed on the factory configuration sheet for the exact unit.
-- Do not merge Chinese-line equipment with any export-market Arrizo package: without an OEM overseas page, the safe statement is that export equipment is market-specific.
+## バージョンとトリムの差分を分離して保持する
+- このシートの代表的な構成は** 1.6TGDI DCT 卓越(Excellence)**のトリムです。他の中国のトリムは、機器、ホイール、インテリアのオプションを変更しますが、文書化されたフットプリントを共有します。
+- パワーパワー  and  torque figures are cross-checked across two Chinese structured databases; **ドア、ドライブレイアウト、トップスピードは単一ソース**で、工場構成シートに正確なユニットを再確認する必要があります。
+- 中国のライン機器を輸出市場Arrizoパッケージと統合しないでください。OEMの海外ページなしで、安全ステートメントは、輸出機器が市場固有のものであるということです。
 
-## Overseas Buyer Verification Before Payment
-1. **VIN-to-trim match** — engine SQRF4J16-family code, 7DCT, and the exact Chinese trim name recorded on the PI (see the VIN/nameplate guide).
-2. **Emission and fuel** — destination emission standard and required petrol grade; a China-6 car is not automatically accepted abroad.
-3. **Steering and cluster language** — the Chinese car is LHD; confirm RHD availability only through an OEM-authorised channel, never by assumption.
-4. **Document set** — manufacturer certificate, certificate of conformity, spec sheet and (for NEV-adjacent lines) any battery paperwork; use the export document-package checklist.
-5. **Shipping mode** — a 4.78 m saloon suits container or RoRo stowage; confirm the load plan count rather than estimating.
+## 海外バイヤー お支払い前の検証
+1. **VIN-to-trim match** — エンジンSQRF4J16-familyコード、7DCT、PI上で録画された正確な中国トリム名(VIN/nameplateガイド参照)。
+2. **排出および燃料** — 目的地の排出基準および必要なガソリングレード; 中国- 6車は海外で自動的に受け入れられません。
+3. ** ステアリングとクラスター言語** - 中国車はLHDです。 OEM認証チャネルでのみRHDの可用性を確認し、仮定してはなりません。
+4. **Document set** — メーカーの証明書、適合証明書、スペックシート、(NEV-adjacent lineの場合)バッテリーの製紙作業。 輸出文書パッケージチェックリストを使用してください。
+5. **配送モード** — 4.78 m のサロンはコンテナまたは RoRo の保管に適しています。 見積もりではなく、荷物の計画番号を確認します。
 
-## Request a Current Export Quotation
-No static export price is published. The Chinese guide price (a 2024 卓越 trim reference around RMB 99,900) is a **domestic, time-sensitive figure only — it is not an FOB or CIF quotation and must not be converted into one**. Enquire with **Destination Country · Quantity · Preferred Trim · LHD/RHD · Destination Port · Incoterm**.
+## 現在のエクスポート見積をリクエストする
+静的輸出価格が公開されていない。 中国のガイド価格(RMB 99のまわりの2024 卓越のトリムの参照)、 900)は、**国内の 時間の感度図だけ — FOB や CIF の引用語句ではありません  and  must not be converted into one**. **目的地の国・数量・優先トリム・LHD/RHD・宛先ポート・インコターム**を装備。
 
-## Frequently Asked Questions
-**Is the Arrizo 8 a compact or mid-size saloon?** At 4780 mm long with a 2790 mm wheelbase it sits at the upper edge of the compact field, near B-segment dimensions — classify it by the measured footprint, not the marketing label.
-**How much power does the 1.6T make?** The Chinese 1.6TGDI is documented at 145 kW (about 197 PS) and 290 N·m, paired with a 7-speed wet DCT.
-**Is the Chinese spec identical to export Arrizo 8 models?** Not assumed — this sheet is a Chinese-market reference; destination tune and equipment require the local OEM specification.
-**Does China-6 emission mean the car is certified for my market?** No; destination type approval is a separate process.
+## よくある質問
+**Arrizo 8は、コンパクトまたは中サイズのサルーンですか?** 4780 mm は、2790 mm ホイールベースで、Bセグメントの寸法の近くで、コンパクトなフィールドの上部の端に座っています。それは、マーケティングラベルではなく、測定されたフットプリントによって分類されます。
+**1.6Tは、どのくらいの電力が作っているのですか?** 中国語 1.6TGDI は 145 kW (197 PS について) および 290 N·m の 7-speed ぬれた DCT と結合される文書化されます。
+**Arrizo 8モデルをエクスポートするのと同じ中国仕様ですか?** 想定されていない — このシートは中国市場参照です。 宛先のチューンと機器は、ローカルOEM仕様が必要です。
+**中国- 6 排出物は、車が私の市場のために認定されることを意味しますか?** いいえ。 宛先タイプ承認は別のプロセスです。
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
-- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- ALT by language:
+## 映像の記録
+- IMAGE_ASSET_PATH:リポジトリで保護されていない
+- ORIGINAL_IMAGE_URL: キャプチャされていない
+- SOURCE_PAGE: キャプチャされていない
+- SOURCE_FILE_PAGE: 該当なし — 特定候補のメディアファイル (アサートするライセンスなし)
+- 権利_ホルダー:未確認
+- LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
+- CHECKED_DATE: 2026-09-06(税抜き)
+- MODEL_TOPIC_MATCH: 上記の正確なモデル/バージョン(またはガイドトピック)と参照市場と一致しなければなりません
+- IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
+- IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
+- ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
+- 言語によるALT:
   - **EN**: AutoBridge export-buyer reference — Chery Arrizo 8, petrol/diesel Chinese-market vehicle / sedan
   - **FR**: Référence AutoBridge pour acheteurs export — Chery Arrizo 8, véhicule thermique (marché chinois) / berline
   - **DE**: AutoBridge-Referenz für Exportkäufer — Chery Arrizo 8, Verbrenner (chinesischer Markt) / Limousine
@@ -77,25 +80,25 @@ No static export price is published. The Chinese guide price (a 2024 卓越 trim
   - **AR**: مرجع AutoBridge لمشتري التصدير — Chery Arrizo 8, مركبة بمحرك احتراق (سوق الصين) / سيدان
   - **ZH**: AutoBridge 出口采购参考｜Chery Arrizo 8, 中国市场燃油车 / 轿车
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## ソースと検証
+| ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
 |---|---|---|---|---|---|---|
-| Arrizo 8 2024 1.6T DCT Excellence parameter page | ZOL Auto database | CN | https://detail.zol.com.cn/car/index2030152.shtml | 2026-09-04 | CROSS_CHECKED | Dimensions, wheelbase, engine, gearbox, structure |
-| Arrizo 8 1.6T DCT Excellence parameters | Sohu Auto database | CN | https://db.m.auto.sohu.com/trim_171975 | 2026-09-04 | CROSS_CHECKED | Power, PS, dimensions, domestic price reference |
-| Chery Arrizo 8 1.6T powertrain analysis | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/19508971?isfrom=pc | 2026-09-04 | CROSS_CHECKED | 145 kW/197 PS/290 N·m/7DCT |
-| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
-| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
-| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
+| アリゾ 8 2024 1.6T DCT エクセレンスパラメータページ | ZOL 自動データベース | CN の | 以下は、 https://detail.zol.com.cn/car/index2030152.shtml の | 2026-09-04 | CROSS_CHECKED(クロス) | 寸法、ホイールベース、エンジン、ギアボックス、構造 |
+| アリゾ 8 1.6T DCT 卓越性パラメータ | Sohu Autoデータベース | CN の | 以下は、 https://db.m.auto.sohu.com/trim_171975 の | 2026-09-04 | CROSS_CHECKED(クロス) | 力、PS、次元、国内価格の参照 |
+| チェリーアリゾ 8 1.6T パワートレイン解析 | オートホーム・ケジアオ | CN の | 以下は、 //chejiahao.m.autohome.com.cn/info/ 19508971 ?is=pc から | 2026-09-04 | CROSS_CHECKED(クロス) | 145 kW / 197 PS / 290 N·m / 7DCT | https://chejiahao.m.autohome.com.cn/info/19508971?isfrom=pc
+| ロードモーター車メーカーと製品カタログ — 公開クエリシステム | 工業情報技術省、中国情報技術省 | CN の | 以下は、 ................................................................................................................................ | 2026-09-05 | 検証済み | 注文するか、または輸出する前に製造業者、承認されたモデルおよび均質化(公告)のカタログの記入項目を確認して下さい | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html
+| ギガバイト16735-2019 道路車両 — 車両識別番号(VIN)要件 | SAMR全国規格全文プラットフォーム | CN の | 以下は、 https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 のリリース | 2026-09-05 | 検証済み | バイヤーのVIN/ネームプレート検証で使用されるVIN構造とネームプレートのデータフィールド |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | 市場規制のSAMR、州政局 | CN の | 以下は、 https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | 検証済み | ベースライン中国車安全技術条件と電流/改定タイムライン |
+| 改正XG1-2026(中国-6光車両汚染物質排出量)でGB 18352.6-2016 | エコロジー・環境省(MEE) | CN の | 以下は、 .mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html の | 2026-09-05 | 検証済み | 中国- 6 光車両排出ステージと2026 補正実装日 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html
 
-*Confidence note: no OEM primary spec sheet was captured; figures are cross-checked Chinese structured-database values. Doors, drive layout and top speed are single-source. Domestic price is time-sensitive and is never an export quotation.*
+※本会議ノート:OEMの第一次仕様シートがキャプチャされていない、図は中国構造データベースのクロスチェック値である。 ドア、ドライブレイアウト、トップスピードはシングルソースです。 国内価格は時間感度で、輸出引用語句ではありません。 ふりがな
 
-## Editorial Review
-- **Author**: AutoBridge Export Editorial Team · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: China, 2024/2025 Arrizo 8 1.6TGDI (Chinese-market reference specification; not a global spec)
-- **Verification method**: Two-database cross-check; single-source items flagged; no destination extrapolation
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+## 編集レビュー
+- **著者**: AutoBridge エクスポート 編集 チーム・方法・方法・方法・各社様 [編集ポリシー](/編集ポリシー/)
+- **最終審査**:2026-09-05
+- **参考市場**:中国、2024/2025 Arrizo 8 1.6TGDI (中国市場参照仕様;グローバル仕様ではありません)
+- **検証方法**: Two-database cross-check; シングルソース項目はフラグが付けられました。 目的地の外出禁止
+- **透明性**:AI-assistedドラフトが使われていました。 本記事は、デスクリサーチと自動QAをベースとしています。 明示的に文書化されていない限り、最初のテストは要求されません。 トランスフォーメーションの前に時間感度と宛先固有の要件を確認します。
+- ** 編集規格**: 上記情報源(デスクリサーチ、片手運転、涙流、輸入)から研究・執筆 ソースの自信は行ごとに示されます。 私たちが独立して確認できない点は、事実として主張するのではなく、検証項目として提示されます。
 
 **Tags**: #CheryArrizo8 #ChineseSedanExport #1.6TGDI #ExportBuyerGuide #ChinaReferenceSpec

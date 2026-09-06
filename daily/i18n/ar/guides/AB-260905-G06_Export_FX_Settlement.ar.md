@@ -1,68 +1,74 @@
-# Export FX Settlement and Trade-FX Administration for Vehicle Exporters
+# إدارة الصادرات من السلع الأساسية
 
 ## SEO Metadata
-- **SEO Title**: China Export FX Settlement: Trade-FX Registration, Conversion and Aggregate Check
-- **Meta Description**: How a Chinese vehicle exporter handles export receipts: directory registration at a bank before the first transaction, settlement/conversion, and SAFE aggregate verification of goods-flow versus funds-flow.
-- ** H1 **: Export FX Settlement and Trade-FX Administration for Vehicle Exporters
-- **Primary Keyword**: export fx settlement trade fx registration
-- **Secondary Search Terms**: export FX settlement; trade foreign exchange; SAFE registration; goods flow funds flow; ASOne platform
-- **Suggested URL**: /guides/export-fx-settlement-trade-fx-registration/
-- **Search Intent**: 出口企业如何办理贸易外汇收支企业名录登记、收汇结汇并满足货物流-资金流匹配核查
-- **Internal Link Suggestions**: /guides/export-payment-methods-t-t-lc-risk/, /guides/china-export-vat-refund-process/, /guides/china-export-customs-declaration-single-window/
-- **Schema Scope**: Article (no Product/Offer/Review)
+- ** عنوان المنظمة**: الصين، مستوطنة فاكس: تسجيل التجارة والفوائد والتحويل والفحص التجميعي
+- ** وصف البيانات**: كيفية تعامل مصدر المركبات الصيني مع إيصالات التصدير: تسجيل الدليل في مصرف قبل أول معاملة، وتسوية/تحويل، والتحقق الكلي من تدفق السلع مقابل تدفق الأموال.
+- ** H1 **** إدارة الصادرات من السلع الأساسية والمركبات
+- ** كلمة رئيسية رمزية**: تسجيل التجارة في فوكس مستوطنة التصدير
+- ** شروط البحث الثانية**: تسوية تصدير المواد الانشطارية؛ والعملات الأجنبية التجارية؛ وتسجيل السلع؛ وتدفقات الأموال؛ ومنصة " أوزوين "
+- ** المبلغ المشترَك في إطار جولة أوروغواي**: /الإرشادات/التصدير - إعادة التوطين - التجارة - التدفق/
+- **Search Intent**: 出口企业如何办理贸易外汇收支企业名录登记 ھ / 收汇结汇并满足货物流 - 资金流匹配核查
+- ** مقترحات داخلية بشأن الروابط**:/مبادئ توجيهية/مقتطفات من الرصاص في الصادرات/مخاطر/إرشادات/آلية للتصدير - فائض - عمليات الصناديق/، و/أو مبادئ توجيهية/آلية - ذرات التصدير - الريح/
+- ** نطاق الشيمة**: المادة (لا منتج/منتج/مراجعة)
 
-## The one step that must happen before the first receipt
-Before a Chinese exporter can receive its first export payment, it must be on the **trade foreign-exchange enterprise directory**. Under the current framework the prior SAFE approval step was removed: the enterprise completes **directory registration at its domestic bank** after obtaining foreign-trade operating rights, and that registration precedes the first receipt/payment. A company that signs its first vehicle export without this step will discover the problem at the moment money should arrive.
+## الخطوة الوحيدة التي يجب أن تحدث قبل أول إيصال
+وقبل أن يحصل المصدر الصيني على أول دفعة تصديرية له، يجب أن يكون على دليل مؤسسة التبادل الأجنبي**. وفي الإطار الحالي، ألغيت خطوة الموافقة المسبقة التي اتخذتها المؤسسة: إذ تستكمل المؤسسة تسجيلاً توجيهياً في مصرفها المحلي** بعد الحصول على حقوق تشغيل التجارة الخارجية، وأن التسجيل يسبق أول عملية استلام/دفع. شركة تُوقع على أول تصدير لسياراتها بدون هذه الخطوة ستكتشف المشكلة في اللحظة التي يجب أن يصل فيها المال
 
-## Settlement, conversion and the goods/funds match
-Export receipts are handled through the banking channel; conversion to RMB follows the account rules. SAFE supervises trade FX through an **aggregate (总量) verification** that matches the **goods flow** (customs declarations) against the **funds flow** (receipts), rather than approving each transaction in advance. Enterprises are classified dynamically; mismatches between what was declared exported and what was received attract scrutiny.
+## تسوية وتحويل السلع/الصناديق
+ويجري التعامل مع إيصالات التصدير من خلال القنوات المصرفية؛ ويتبع التحويل إلى مصرف إدارة المخاطر المؤسسية قواعد الحساب. وتشرف اللجنة على التجارة في التدفق التراكمي من خلال التحقق من مجموعة مُشعَرة (总量)** الذي يطابق التدفق المُشعَر** (إعلانات الجمارك) من التدفق ** للأموال** (المقبوضات)، بدلاً من الموافقة على كل معاملة مقدماً. وتصنف المؤسسات بصورة دينامية؛ وتجتذب الأخطاء بين ما أعلن عن تصديره وما تم تلقيه من فحص.
 
-## Where the work is done
-Routine registration and reporting are handled at the bank and through the digital foreign-exchange platform (ASOne/数字外管); regional SAFE branches issue guidance, but they are all one authority — the branch is not a separate regulator. Keep the customs declaration, bank receipt and invoice aligned so the aggregate comparison reconciles over the period.
+## حيث يتم العمل
+ويجري التعامل مع تسجيل الروتين والإبلاغ عنه في المصرف ومن خلال منصة التبادل الأجنبي الرقمية (ASOne/ 数字外管)؛ وتصدر الفروع الإقليمية التابعة للجنة التوجيه، ولكنها جميعاً سلطة واحدة - وهذا الفرع ليس منظماً مستقلاً. (ب) إبقاء الإعلان الجمركي، وتلقي المصارف والفواتير متوائمة بحيث تتوافق المقارنة الإجمالية على مدى الفترة.
 
-## Operating checklist
-1. Obtain foreign-trade rights, then complete trade-FX directory registration at the bank **before the first receipt**.
-2. Use consistent entity names and contract/invoice numbers across customs, bank and FX records.
-3. Reconcile goods flow and funds flow each period; explain timing differences (deposits, staged shipments) with documents.
-4. File through the digital platform as required; respond promptly to any verification query.
-5. Coordinate with the payment-method and VAT-refund processes so the same transaction is reported consistently.
+## قائمة مرجعية عن العمليات
+1. الحصول على حقوق التجارة الخارجية، ثم استكمال تسجيل دليل التجارة والتدفقات المالية في المصرف** قبل أول استلام**.
+2. (ج) استخدام أسماء الكيانات المتسقة وأرقام العقود/الفواتير في جميع سجلات الجمارك والمصرف وسجلات الاكس.
+3. : إعادة مطابقة تدفق السلع وتدفق الأموال كل فترة؛ وتوضيح الفروق في التوقيت (الودائع، والشحنات المرحل) مع الوثائق.
+4. (ج) أن تطير عبر المنصة الرقمية حسب الاقتضاء؛ وأن تستجيب بسرعة لأي استفسار بشأن التحقق.
+5. (ج) التنسيق مع عمليات استرداد المدفوعات واسترداد ضريبة القيمة المضافة، بحيث يتم الإبلاغ عن نفس المعاملة بصورة متسقة.
 
-## Boundaries
-Specific account products, bank fees and current operational screens are time-sensitive and bank-specific; this guide quotes none. It covers the China FX side, not destination-country exchange controls.
+## الحدود
+ومنتجات الحسابات المحددة والرسوم المصرفية والشاشات التشغيلية الحالية هي منتجات حساسة من حيث الوقت ومحددة من الناحية المصرفية؛ وهذا الدليل لا يقتبس أي منها. وهو يغطي الجانب الصيني من الـ (ف إكس) وليس ضوابط تبادل البلدان المقصد.
 
 ## FAQ
-**Do I need SAFE approval before every receipt?** No — the current model uses bank directory registration plus aggregate verification.
-**When must I register?** After obtaining foreign-trade rights and before the first export receipt/payment.
-**What is aggregate verification?** Periodic matching of customs goods-flow against bank funds-flow, with dynamic enterprise classification.
-**Are local SAFE branches separate regulators?** No — one authority; branches implement the same rules.
-**Does this cover the buyer's country FX rules?** No — only the China side.
+** هل أحتاج إلى موافقة القوات المسلحة السودانية قبل كل إيصال؟** لا - يستخدم النموذج الحالي تسجيل الدليل المصرفي بالإضافة إلى التحقق الكلي.
+** متى يجب أن أسجل؟ ** بعد الحصول على حقوق التجارة الخارجية وقبل أول عملية لاسترداد/دفع الصادرات.
+** ما هو التحقق الكلي؟**: المواءمة الدورية لتدفق السلع الجمركية مقابل تدفق الأموال المصرفية، مع التصنيف المركزي الدينامي.
+** هل توجد فروع محلية تابعة لمنظمة جنوب شرق المحيط الأطلسي مستقلة عن الهيئات التنظيمية؟** لا - سلطة واحدة؛ تنفذ الفروع نفس القواعد.
+هل هذا يغطي قواعد (إكس) في بلد المشتري؟ لا فقط الجانب الصيني
 
 
-## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
+## المصدر: التحقق
+| المصدر | المنظمة | السوق | النمور | الثقة | URL | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
-| 关于进一步优化贸易外汇业务管理的通知（名录登记改由银行办理） | 国家外汇管理局 | CN | T1 | VERIFIED | http://www.safe.gov.cn/yunnan/2024/0408/1537.html | 取消外汇局核准, 境内银行办理名录登记, 首笔收支前登记 |
-| 货物贸易外汇业务办事指南（名录登记条件） | 国家外汇管理局吉林省分局 | CN | T1 | VERIFIED | https://www.safe.gov.cn/jilin/file/file/20190617/91d454729ccc456c9b2e6a92cd6bcc51.pdf | 取得对外贸易经营权后办名录 |
-| 货物贸易外汇管理（非现场总量核查/分类管理） | 国家外汇管理局文告 | CN | T1 | VERIFIED | https://www.safe.gov.cn/safe/file/file/20170726/e97561d6d9ca4ba881d275fcb62bad2e.pdf | 总量核查, 货物流资金流匹配, 动态分类 |
-| 名录登记网上办理操作指引（ASOne平台） | 国家外汇管理局广东省分局 | CN | T1 | VERIFIED | https://www.safe.gov.cn/guangdong/file/file/20210429/babf0a6020e84b4585a7ba6737bb2c41.pdf | 数字外管平台ASOne操作 |
-| State Administration of Foreign Exchange (SAFE) | SAFE 国家外汇管理局 | CN | T1 | VERIFIED | https://www.safe.gov.cn/en/ | trade-FX registration and aggregate verification authority |
-| State Administration of Foreign Exchange (SAFE) | SAFE (regulator) | CN | T1 | VERIFIED | https://www.safe.gov.cn/ | competent authority for trade-FX registration and aggregate verification |
-## Editorial Review
+| 关于进一步优化贸易外汇业务管理的通知（名录登记改由银行办理） | 国家外汇管理局 | CN | T1 | مفقود | http://www.safe.gov.cn/yunnan/2024/0408/1537.html | 取消外汇局核准, 境内银行办理名录登记, 首笔收支前登记 |
+| 货物贸易外汇业务办事指南（名录登记条件） | 国家外汇管理局吉林省分局 | CN | T1 | مفقود | https://www.safe.gov.cn/jilin/file/file/20190617/91d454729ccc456c9b2e6a92cd6bcc51.pdf | 取得对外贸易经营权后办名录 |
+| 货物贸易外汇管理 (非现场总量核查/ 分类管理) | 国家外汇管理局文告 | CN | T1 | مفقود | https://www.safe.gov.cn/safe/file/file/20170726/e97561d6d9ca4ba881d275fcb62bad2e.pdf | 总量核查, 货物流资金流匹配, 动态分类 |
+| 名录登记网上办理操作指引 (ASOne 平台) | 国家外汇管理局广东省分局 | CN | T1 | مفقود | https://www.safe.gov.cn/guangdong/file/file/20210429/babf0a6020e84b4585a7ba6737bb2c41.pdf | 数字外管平台 ASOne 操作 |
+| State Administration of Foreign Exchange (SAFE) | SAFE 国家外汇管理局 | CN | T1 | مفقود | https://www.safe.gov.cn/en/ | تسجيل السلع الأساسية التجارية وسلطة التحقق الكلي |
+| State Administration of Foreign Exchange (SAFE) | SAFE (regulator) | CN | T1 | مفقود | https://www.safe.gov.cn/ | السلطة المختصة بتسجيل التجارة والاشتراك في معاملات التكتل والتحقّق الكلي |
+| مصرف الصين الشعبي - إطار تسوية RMB عبر الحدود | مصرف الصين الشعبي (中国人民银行 PBOC) | CN | T1/T2 | مفقود | http://www.pbc.gov.cn/ | إطار المصرف المركزي لتسوية الممتلكات المصرفية عبر الحدود والمناولة المصرفية، المتميز عن تسجيل الصرف الأجنبي في شركة SAFE |
+| ICC تمويل التجارة (للحصول على الرخص/الاستيطان من أجل التجارة) | غرفة التجارة الدولية | INT | T1/T2 | مفقود | https://iccwbo.org/business-solutions/trade-finance/ | صكوك التسوية الدولية (لتعويض عن 824 فرنك سويسري، L/C) التي تتفاعل مع إيصالات التصدير |
+| CCPIT - وثائق التجارة ودعم المستوطنات | مجلس الصين لتعزيز التجارة الدولية)CCPIT 中国贸促会( | CN | T1/T2 | مفقود | https://www.ccpit.org/ | وثائق تجارية تدعم إثبات المعاملات المستخدمة في إيصال/تدقيق اكس |
+## استعراض التحرير
 - ** Author**: AutoBridge Export Editorial Team · [authors](/authors) · [Editorial Policy](editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: CN（中国外汇管理侧）
-- **Verification method**: Desk research against the sources below; Chinese-market reference specification only unless a separate export market is explicitly cited.
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
+- ** لم يُستعرض بعد**: 2026-09-05
+- ** سوق الإحالة**: CN(中国外汇管理侧)
+- ** طريقة الفرز**: بحوث مكتبية ضد المصادر الواردة أدناه؛ والمواصفات المرجعية للسوق الصينية فقط ما لم يُستشهد صراحة بسوق تصدير منفصلة.
+- ** الشفافية**: استُخدمت الصياغة المدعومة من منظمة العفو الدولية. وتستند هذه المادة إلى البحوث المكتبية وآلية الجودة. ولا يُزعم إجراء أي اختبار مباشر إلا إذا تم توثيقه بشكل صريح؛ ويؤكد متطلبات مراعية للوقت ومحددة للمقصد قبل التحول.
 
-## Image Record
-- ** none secured in repository
-- ** not captured
-- **SOURCE_PAGE**: not captured
-- ** unconfirmed
-- ** none secured — OEM webpage presence is not a commercial reuse licence
-- ** CHECKED_DATE**: 2026-09-05
+## سجل الصور
+- ** لم يُكفل أي شيء في مستودع
+- ** غير مسبوقة **
+- ** الموارد: لم يُقبض عليها
+- ** المصدر: الدليل: لا ينطبق - لم يحدد أي ملف إعلامي مرشح (لا رخصة للتأكيد)
+- ** مسلسل هولدر**: غير مؤكد
+- ** لا يوجد أي من هذه الصفحات مضمونة - ليس من حق المنظمة الحصول على ترخيص تجاري لإعادة الاستخدام
+- ** CHECKED_DATE**: 2026-09-06
 - ** MMODEL_TOPIC_MATCH**: exact Export FX Settlement and Trade-FX Administration for Vehicle Exporters
+- ** MEIMAGE_SCOPE_NOTE**: يجب أن تتطابق الصورة مع النموذج المحدد للأسرة/المنظر فقط؛ ويجب ألا تنطوي على ثلاثية محددة، أو سنة نموذجية، أو تفتيش فعلي، أو عملية فعلية
 - **MAGE_Rights_STATUS**: FAIL
+- ** BLOCK_REASON**: لا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: لا يمكن الوصول إلى الشائعات/الفلك من بيئة البحوث، ولا تحتاج مكتبات المخزون إلى الوصول إلى نظام تسجيل الدخول/الرخصة الموثق، وصورة الموقع الشبكي لمنظمة أوم ليست منحة إعادة استخدام تجارية. لا توجد صورة مملوكة لـ(أوتومبريدج) وظل التسجيل في القوات المسلحة الفلسطينية بدلا من التأكيد عليه.
 - **ALT (12 languages)**:
   - **EN**: export FX settlement, Chinese-market procurement guide export buyer reference
   - **FR**: export FX settlement, procurement guide du marché chinois, référence acheteur export

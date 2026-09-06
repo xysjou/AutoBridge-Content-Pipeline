@@ -4,7 +4,7 @@
 - **SEO Título**: ¿Qué autos chinos vienen en la unidad de derecha y derecha (RHD)? Guía de la utilización
 - **Meta Descripción**: Cómo fuente de vehículos chinos RHD para el Reino Unido, Australia, Tailandia, Malasia, Sudáfrica y más allá —que marcas construyen RHD, cómo confirmar por VIN, y por qué la conversión de LHD a RHD es arriesgada.
 - ** URL agregada**: /guides/derecho-mano-conducto-chinese-cars/
-- ** H1 **: Comprar coches chinos de alta derecha y surgida: Por qué debe ser una fábrica de RHD Build
+- ** H1 **: Comprar coches chinos de alta derecha y surgida: Por qué debe ser una fábrica de desarrollo de RHD
 - **Primary Keyword**: China coches derecha mano derecha de la unidad RHD modelos export
 - ** Términos de búsqueda de segundo orden**: fábrica RHD EV chino, unidad de mano derecha BYD, modelos MG RHD, GWM Haval RHD, RHD Tailandia coche chino, LHD a riesgo de conversión RHD
 - **Sugerencias de enlace interno**: /guides/chinese-ev-charging-standard-compatibilidad/; /guides/verify-china-car-export-supplier/; /vehicles/hongqi-e- hs9-2024/
@@ -22,14 +22,14 @@ A continuación se muestra una instantánea de las ofertas de fábrica-RHD repor
 | Marca (grupo) | Ejemplos de fábrica reportados-RHD | Mercados de RHD notificados | Nivel de prueba |
 |---|---|---|---|
 | MG (SAIC) | MG4, MG ZS, MG HS, MG5, MG Extender (descrito por una fuente de servicio de exportación como entre las líneas de RHD más amplias de marca china) | Reino Unido, Australia, Tailandia, Sudáfrica, India, Sri Lanka | Fuente de la industria - verificar |
-| BYD | Atto 3 (Nombre de exportación Yuan Plus), Delfín, Sello | Australia, Reino Unido, Tailandia, Japón | Fuente de la industria - verificar |
+| BYD | A la 3 (nombre de exportación Yuan Plus), Delfín, Sello | Australia, Reino Unido, Tailandia, Japón | Fuente de la industria - verificar |
 | GWM / Haval / ORA | Haval H6, Jolion, ORA 03, Tank 300 (mercados seleccionados) | Australia, Sudáfrica, Tailandia, Reino Unido, Kenya | Fuente de la industria - verificar |
-| Geely / Zeekr | Geely EX5 reported as engineered with parallel LHD/RHD lines from development; varios modelos Geely/Zeekr RHD | Reino Unido, Irlanda, Australia, Nueva Zelandia, Malasia, Hong Kong | Fuente de la industria - verificar |
-| Hongqi | RHD nuevo impulso de energía a través de 2026; Centro de experiencia de Hong Kong reportado desde julio 2026 | Reino Unido, Australia, Nueva Zelandia, Singapur, Tailandia, Malasia, Indonesia | Media/aggregator — verifique |
-| Dongfeng Forthing | **Oficialmente confirmado**: entró en Tailandia March 2026 con RHD NEV SUV "FRIDAY" y V9 construidos para los mercados de RHD | Tailandia | **Oficial (Dongfeng)** |
-| Changan Qiyuan (como NEVO) | Q05 se muestra como NEVO Q05 en el show de motor de marzo 2026 Bangkok (prospecto de Thai RHD) | Tailandia | Medios de comunicación: verificar |
+| Geely / Zeekr | Geely EX5 informó como ingeniero con líneas paralelas LHD/RHD del desarrollo; varios modelos Geely/Zeekr RHD | Reino Unido, Irlanda, Australia, Nueva Zelandia, Malasia, Hong Kong | Fuente de la industria - verificar |
+| Hongqi | RHD de nueva energía empuja a través de 2026; Centro de experiencia de Hong Kong informó desde julio de 2026 | Reino Unido, Australia, Nueva Zelandia, Singapur, Tailandia, Malasia, Indonesia | Media/aggregator — verifique |
+| Dongfeng Forthing | **Oficialmente confirmado**: entró en Tailandia Marzo 2026 con RHD NEV SUV "FRIDAY" y V9 construidos para los mercados de RHD | Tailandia | **Oficial (Dongfeng)** |
+| Changan Qiyuan (como NEVO) | Q05 se muestra como NEVO Q05 en el programa de motor de marzo 2026 Bangkok (prospecto de Thai RHD) | Tailandia | Medios de comunicación: verificar |
 
-Note que el modelo **nombres difieren entre China y mercados de exportación** (por ejemplo, Yuan Plus → Atto 3); partido por plataforma/VIN, no por nombre de mercado chino. Roughly **35% of global vehicle sales are in RHD markets** per an industry estimate — a contextual figure, not a demand forecast for any specific model.
+Tenga en cuenta que el modelo ** los nombres difieren entre China y los mercados de exportación** (por ejemplo, Yuan Plus → Atto 3); el partido por plataforma/VIN, no por nombre de mercado chino. Aproximadamente ** 35% de las ventas mundiales de vehículos están en los mercados de RHD** por una estimación de la industria, una cifra contextual, no una previsión de demanda para ningún modelo específico.
 
 ## Cómo confirmar una unidad de RHD de fábrica genuina
 
@@ -56,8 +56,8 @@ Los vendedores aseguran la disponibilidad de RHD sin distinguir una línea de f�
 
 ## Preguntas frecuentes
 
-**¿Las marcas chinas hacen coches reales RHD?** Sí — MG, BYD, GWM/Haval, Geely/Zeekr y otros ejecutan programas de RHD de fábrica, y Dongfeng lanzó oficialmente modelos RHD en Tailandia en marzo 2026; confirma el modelo exacto en los canales oficiales porque las listas cambian.
-**¿Es BYD Atto 3 igual que Yuan Plus?** Atto 3 es el nombre de mercado de exportación para la plataforma Yuan Plus; partido por VIN/spec en lugar de nombre.
+**¿Las marcas chinas hacen coches reales RHD?** Sí — MG, BYD, GWM/Haval, Geely/Zeekr y otros ejecutan programas de RHD de fábrica, y Dongfeng lanzó oficialmente modelos RHD en Tailandia en marzo de 2026; confirma el modelo exacto en los canales oficiales porque las listas cambian.
+**¿Es BYD hasta 3 igual que Yuan Plus?** Atto 3 es el nombre de mercado de exportación de la plataforma Yuan Plus; partido por VIN/spec en lugar de nombre.
 **¿Puedo convertir un coche LHD a RHD a la llegada?** Generalmente no de forma segura o legal — afecta a la estructura, aprobación y garantía; genera una fábrica de RHD construir en su lugar.
 **¿Tiene un coche RHD construido para Tailandia trabajo en el Reino Unido/Australia?** No automáticamente, cada mercado de RHD tiene sus propios requisitos de homologación y localización.
 **¿Por qué verificarlo por VIN?** El material de marketing puede decir "RHD disponible" mientras que el stock asignado es LHD; la hoja de construcción VIN es la prueba confiable.
@@ -66,11 +66,14 @@ Los vendedores aseguran la disponibilidad de RHD sin distinguir una línea de f�
 - IMAGE_ASSET_PATH: ninguno asegurado en repositorio
 - ORIGINAL_IMAGE_URL: no capturado
 - SOURCE_PAGE: no capturado
+- SOURCE_FILE_PAGE: no aplicable — ningún archivo de medios de comunicación candidato identificado (sin licencia para afirmar)
 - RIGHTS_HOLDER: unconfirmed
 - LICENSE_OR_USAGE_BASIS: ninguna garantizada, ninguna imagen de terceros puede ser publicada hasta que se despejen los derechos
-- CHECKED_DATE: 2026-09-05
+- CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: debe coincidir con el modelo/versión exacto (o el tema guía) y el mercado de referencia por encima
+- IMAGE_SCOPE_NOTE: se corresponde con el modelo exacto familia/topic solamente; no debe implicar un trím o modelo específico, VIN real, inspección en persona o transacción real
 - IMAGE_RIGHTS_STATUS: FAIL (no se acepta ningún activo con licencia; no se acepta un titular de posición o “retiene la imagen antigua”)
+- BLOCK_REASON: No se puede asegurar una imagen reutilizable: Wikimedia Commons/Flickr no son accesibles desde el entorno de investigación, las bibliotecas de stock requieren acceso a API/licencia autenticada, y una imagen de página web OEM NO es una subvención comercial de reutilización; no existe foto de propiedad de AutoBridge. Se quedó con la FAIL en lugar de afirmarse.
 - ALT por idioma:
   - **EN**: AutoBridge export-buyer reference — Right-hand-drive Chinese-car sourcing, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Right-hand-drive Chinese-car sourcing, guide d’achat à l’export automobile
@@ -90,11 +93,11 @@ Los vendedores aseguran la disponibilidad de RHD sin distinguir una línea de f�
 | Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |
 |---|---|---|---|---|---|---|
 | RHD China-cars markets guide | StarVia Auto (servicio de exportación) | Mercados de desarrollo humano | https://www.starviaauto.com/en/blog/right-hand-drive-chinese-cars-markets-guide | 2026-09-02 | CROSS_CHECKED | MG/GWM RHD line-ups and markets (industry; verify) |
-| Que vehículos chinos se adaptan a los compradores de RHD | StarVia Auto (servicio de exportación) | Mercados de desarrollo humano | https://www.starviaauto.com/en/faq/which-chinese-vehicles-are-suitable-for-buyers-who-need-right-hand-drive | 2026-09-02 | CROSS_CHECKED | BYD Atto 3/Dolphin/Seal RHD (industry; verifique) |
-| RHD-ready Geely / Zeekr modelos | FOBEV (servicio de exportación) | Mercados de desarrollo humano | https://www.fobev.com/vehicles/rhd-ready/ | 2026-09-02 | CROSS_CHECKED | Geely EX5 paralelo LHD/RHD, Zeekr RHD (industry; verifique) |
-| Dongfeng Forthing entra en Tailandia (oficial) | Dongfeng Motor Group (oficial) | TH | https://www.dfmc.com.cn/news/company/news_20260311_1142.html | 2026-09-02 | VERIFIED | March- 2026 Tailandia, RHD FRIDAY/ V9 (VERIFIED) |
+| Que vehículos chinos se adaptan a los compradores de RHD | StarVia Auto (servicio de exportación) | Mercados de desarrollo humano | https://www.starviaauto.com/en/faq/which-chinese-vehicles-are-suitable-for-buyers-who-need-right-hand-drive | 2026-09-02 | CROSS_CHECKED | BYD Atto 3/Dolphin/Seal RHD (industry; verify) |
+| RHD-ready Geely / Zeekr modelos | FOBEV (servicio de exportación) | Mercados de desarrollo humano | https://www.fobev.com/vehicles/rhd-ready/ | 2026-09-02 | CROSS_CHECKED | Geely EX5 paralela LHD/RHD, Zeekr RHD (industry; check) |
+| Dongfeng Forthing entra en Tailandia (oficial) | Dongfeng Motor Group (oficial) | TH | https://www.dfmc.com.cn/news/company/news_20260311_1142.html | 2026-09-02 | VERIFIED | Marzo-2026 Tailandia, RHD FRIDAY/ V9 (VERIFIED) |
 | Changan NEVO Q05 Debut de la demostración de Bangkok | Autohome 车家号 (media) | TH | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/25092921 | 2026-09-02 | CROSS_CHECKED | NEVO Q05 Thai RHD prospect (media; verifique) |
-| Estrategia de Hongqi RHD / contexto de mercado RHD | smzdm (aggregator); AutoReport (industria) | Mercados de desarrollo humano | https://post.m.smzdm.com/p/aqrp0mkp/ ; https://m.autoreport.cn/guoji/20260829/19112676566.html | 2026-09-02 | CROSS_CHECKED | Hongqi RHD push; ~35% global sales in RHD markets |
+| Estrategia de Hongqi RHD / contexto de mercado RHD | smzdm (aggregator); AutoReport (industria) | Mercados de desarrollo humano | https: //post.m.smzdm.com/p/ aqrp0mkp/; https://m.autoreport.cn/guoji/20260829/19112676566.html | 2026-09-02 | CROSS_CHECKED | Hongqi RHD push; ~ 35% ventas globales en los mercados RHD |
 
 * Nota de confianza (Estandar AutoBridge): sólo el lanzamiento de Dongfeng de Tailandia RHD es VERIFIED (funcionario del fabricante). Las listas de modelos de marca son instantáneas de exportación-servicio/media (SINGLE_SOURCE) que cambian con frecuencia y deben ser confirmadas en canales oficiales de marca/comtributor local por VIN. La legalidad de conversión de mercado no fue verificada y se asume como riesgo. *
 

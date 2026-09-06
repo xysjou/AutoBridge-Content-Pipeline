@@ -71,11 +71,14 @@ Van buyers must fix wheelbase, roof height, seat count (passenger) or cargo layo
 - **IMAGE_ASSET_PATH**: none secured in repository
 - **ORIGINAL_IMAGE_URL**: not captured
 - **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
 - **RIGHTS_HOLDER**: unconfirmed
 - **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
-- **CHECKED_DATE**: 2026-09-05
+- **CHECKED_DATE**: 2026-09-06
 - **MODEL_TOPIC_MATCH**: exact Foton Toano van
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
 - **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
 - **ALT (12 languages)**:
   - **EN**: Foton Toano van, Chinese-market large van / light bus export buyer reference
   - **FR**: Foton Toano van, large van / light bus du marché chinois, référence acheteur export

@@ -2,66 +2,66 @@
 
 ## SEO Metadaten
 - **SEO Titel**: Changan UNI-Z PHEV 2026: Chinesisch-Markt Specs & Export Käufer Guide
-- **Meta Description**: Chinesischer Markt Changan UNI-Z neuer Blauwal PHEV: dimensions, 18.4 kWh LFP line, 130 km CLTC electric range, DC/V2L, and VIN-level checks for importers.
+- **Meta Description**: Chinesischer Markt Changan UNI-Z neue Blauwal-PHEV: Abmessungen, 18.4 kWh LFP-Linie, 130 km CLTC elektrische Reichweite, DC/V2L und VIN-Level-Checks für Importeure.
 - ** H1 **: Changan UNI-Z (2026, New Blue Whale PHEV) — chinesische Marktspezifikationen und Exportverifizierung
 - **Hauptschlüsselwort**: Changan / 长安 UNI-Z specs export
-- **Secondary Search Terms**: Changan UNI-Z Export; UNI-Z PHEV Spezifikationen; Chinese Plug-in Hybrid SUV; V2L Export; CLTC-Reihe
+- **Secondary Search Terms**: Changan UNI-Z export; UNI-Z PHEV specs; Chinese Plug-in Hybrid SUV; V2L export; CLTC range
 - **Vorgeschlagene URL**: /Fahrzeuge/changan-uni-z/
 - **Search Intent**: 了解 Changan / 长安 UNI-Z 中国版规格、配置与出口适配性（车型参数页）
 - **Interne Linkvorschläge**: /Fahrzeuge/changan-uni-z/, /guides/china-export-zollanmeldung-einzelfenster/, /guides/ccc-zertifizierung-export-ausnahme/
 - **Schema-Scope**: Artikel + Fahrzeug (kein Produkt/Angebot/Bewertung)
 
 ## Käuferkontext und Modellidentität
-Der hier behandelte **Changan UNI-Z (2026) ** ist der chinesische Markt **neue Blue Whale (Xin Lan Jing) Plug-in-Hybrid** Kompakt-SUV. Es ist eine andere Linie als bei reinen UNI-Z-Benzinern und bei Exportmarkt-Namensschildern, die Changan woanders verwenden kann; ohne eine OEM-Erklärung wird keine Äquivalenz von ausländischen Namen geltend gemacht. Referenzmarkt ist **China**.
+Der hier abgedeckte **Changan UNI-Z (2026) ** ist der chinesische Markt **neue Blue Whale (Xin Lan Jing) Plug-in-Hybrid** Kompakt-SUV. Es ist eine andere Linie als bei reinen UNI-Z-Benzinern und bei Exportmarkt-Namensschildern, die Changan woanders verwenden kann; ohne eine OEM-Erklärung wird keine Äquivalenz von ausländischen Namen geltend gemacht. Referenzmarkt ist **China**.
 
 ## Antriebsstrang, Batterie und elektrische Leistungsfähigkeit
-- **Dimensionen**: 4730 / 1890 / 1660（部分配置1680） mm (some configurations 1680 mm tall), wheelbase 2795 mm (cross-checked); cargo volume 638 L.
-- **Hybridmotor**: 72（1.5L混动专用发动机） kW dedicated hybrid engine; drive motor 160 kW (cross-checked); E-CVT（电混传动）.
-- ** Batterie**: 磷酸铁锂, about 约18.4 kWh. Der Zelllieferant erscheint unter zwei Konten in sekundären Quellen und wird als **unbestätigt** gehalten - es wird hier nicht behauptet.
-- **Elektrische Reichweite**: 130 km CLTC (cross-checked); combined CLTC 1250 km.
-- **Elektronische Funktionen, nach denen Käufer fragen**: DC fast-charge power 85 kW; vehicle-to-load 3.3 kW; Mittelbildschirm 14.6.
+- **Abmessungen **: 4730 / 1890 / 1660 (部分配置 1680) mm (einige Konfigurationen 1680 mm hoch), Radstand 2795 mm (gegenübergestellt); Frachtvolumen 638 L.
+- **Hybridmotor**: 72 (1.5L 混动专用发动机) kW Hybridmotor; Antriebsmotor 160 kW (gegenübergestellt); E-CVT(电混传动).
+- **Batterie**: 磷酸铁锂, ca. 约 18.4 kWh. Der Zelllieferant erscheint unter zwei Konten in sekundären Quellen und wird als **unbestätigt** gehalten - es wird hier nicht behauptet.
+- **Elektrische Reichweite**: 130 km CLTC (gekreuzt); kombiniertes CLTC 1250 km.
+- **Elektrische Funktionen, nach denen Käufer fragen **: DC-Schnellladeleistung 85 kW; Fahrzeug-zu-Lade 3.3 kW; Mittelbildschirm 14.6.
 
 ## Verifizierte Spezifikationstabelle (Referenz des chinesischen Marktes)
 | Spezifikation | Wert | Einheit | Markt | Vertrauen | Quelle: |
 |---|---|---|---|---|---|
-| Breitenbreitenhöhe | 4730 / 1890 / 1660（部分配置1680） | mm | CHINA | CROSS_CHECKED | 汽车之家+搜狐 |
-| Radstand | 2795 | mm | CHINA | CROSS_CHECKED | 汽车之家+搜狐 |
+| Breitenbreitenhöhe | 4730 / 1890 / 1660 (部分配置 1680) | mm | CHINA | CROSS_CHECKED | 汽车之家 + 搜狐 |
+| Radstand | 2795 | mm | CHINA | CROSS_CHECKED | 汽车之家 + 搜狐 |
 | Frachtvolumen | 638 | L | CHINA | SINGLE_SOURCEN | 搜狐汽车 |
-| Motorleistung | 72（1.5L混动专用发动机） | kW | CHINA | SINGLE_SOURCEN | 汽车之家车家号 |
-| Motorleistung | 160 | kW | CHINA | CROSS_CHECKED | 汽车之家+搜狐 |
-| Übertragung | E-CVT（电混传动） | - | CHINA | SINGLE_SOURCEN | 汽车之家车家号 |
+| Motorleistung | 72 (1.5L 混动专用发动机) | kW | CHINA | SINGLE_SOURCEN | 汽车之家车家号 |
+| Motorleistung | 160 | kW | CHINA | CROSS_CHECKED | 汽车之家 + 搜狐 |
+| Übertragung | E-CVT(电混传动) | - | CHINA | SINGLE_SOURCEN | 汽车之家车家号 |
 | Batterietyp | 磷酸铁锂 | - | CHINA | SINGLE_SOURCEN | 汽车之家车家号 |
 | Batteriekapazität | 约18.4 | k Whh | CHINA | SINGLE_SOURCEN | 汽车之家车家号 |
-| ev range cltc | 130 | km | CHINA | CROSS_CHECKED | 汽车之家+搜狐 |
+| ev range cltc | 130 | km | CHINA | CROSS_CHECKED | 汽车之家 + 搜狐 |
 | kombinierter Bereich cltc | 1250 | km | CHINA | SINGLE_SOURCEN | 汽车之家车家号 |
 | Gleichstrom-Schnellladestrom | 85 | kW | CHINA | SINGLE_SOURCEN | 汽车之家车家号 |
-| Exportleistung v2l | 3.3 | kW | CHINA | SINGLE_SOURCEN | 汽车之家车家号 |
+| v2l Exportleistung | 3.3 | kW | CHINA | SINGLE_SOURCEN | 汽车之家车家号 |
 | Mittelbildschirm | 14.6 | 英寸 | CHINA | SINGLE_SOURCEN | 汽车之家车家号 |
 
 ## Warum die Batterieleitung und V2L für Exportaufträge wichtig sind
-UNI-Z-Aufträge sind leicht falsch zu spezifizieren, da das gleiche Abzeichen verschiedene Elektrifizierungsstufen abdeckt. Nennen Sie die Batteriekapazität und die elektrische Reichweite auf den Proforma und behandeln Sie die 85 DC und 3.3 V2L Zahlen als chinesische Marktausrüstung, die für den Zielverdrahtungs- / Netzstandard erneut bestätigt wird. Eine CLTC-Elektrostrecke ist keine WLTP-Figur, und ein Exportmarktname, eine Kalibrierung des Antriebsstrangs oder eine Garantie werden nicht von den hier erfassten chinesischen Quellen festgelegt.
+UNI-Z-Aufträge sind leicht falsch zu spezifizieren, da das gleiche Abzeichen verschiedene Elektrifizierungsstufen abdeckt. Nennen Sie die Batteriekapazität und die elektrische Reichweite auf den Proforma und behandeln Sie die 85 DC- und 3.3 V2L Zahlen als chinesische Geräte, die für den Zielverdrahtungs- / Netzstandard erneut bestätigt werden. Eine CLTC-Elektrostrecke ist keine WLTP-Figur, und ein Exportmarktname, eine Kalibrierung des Antriebsstrangs oder eine Garantie werden nicht von den hier erfassten chinesischen Quellen festgelegt.
 
 ## Überprüfung des ausländischen Käufers vor Zahlung
 1. Bestätigen Sie die genaue PHEV-Konfiguration und Batteriekapazität durch VIN; trennen Sie sie von ICE UNI-Z-Builds.
-2. Reconcile CLTC 130 km against the destination test cycle.
-3. Überprüfen Sie DC-Ladeanschluss/Protokoll und V2L Export-Eignung für den Zielmarkt.
+2. Abgleich des CLTC 130 km mit dem Bestimmungsprüfzyklus.
+3. Überprüfen Sie DC-Ladeanschluss/Protokoll und die Exporteignung V2L für den Zielmarkt.
 4. Erhalten Sie die PHEV-Typgenehmigungs- / Emissionsdokumentation für das Bestimmungsland, anstatt aus China-Spezifikationen zu schließen.
 5. Fordern Sie ein aktuelles Exportangebot an (Ziel, Menge, Trimm, LHD/RHD, Port, Incoterm) - hier wird kein Preis veröffentlicht.
 
 ## FAQ
 **Ist UNI-Z unter dem gleichen Namen im Ausland verkauft?** Nicht durch eine OEM-Erklärung in diesen Quellen festgelegt; nehmen Sie keinen Namen oder eine spezifische Äquivalenz an.
 **Wer liefert die Batterie?** Zwei sekundäre Konten stehen in Konflikt, so dass der Lieferant unbestätigt bleibt.
-**Does V2L work in my market?** The 3.3 kW figure is a Chinese-market spec; Verbinder- und Netzkompatibilität lokal bestätigen.
-**Is 130 km a WLTP range?** No — it is CLTC.
+** Funktioniert V2L auf meinem Markt?** Die Zahl 3.3 kW ist eine chinesische Marktspezifikation; bestätigen Sie die Steckverbinder- und Netzkompatibilität vor Ort.
+**Ist 130 km ein WLTP-Bereich?** Nein - es ist CLTC.
 **Wo ist der Exportpreis?** Fordern Sie ein aktuelles Angebot an; diese Seite veröffentlicht keine.
 
 
 ## Quellen & Verifizierung
 | Quelle | Organisation | Markt | Tier | Vertrauen | URL | Belegte Fakten |
 |---|---|---|---|---|---|---|
-| 长安UNI-Z 2026款解析 | 汽车之家车家号 | CN | T3 | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/24892811 | 尺寸, 电机, 电池, 续航, 屏幕 |
+| 长安 UNI-Z 2026 款解析 | 汽车之家车家号 | CN | T3 | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/24892811 | 尺寸, 电机, 电池, 续航, 屏幕 |
 | UNI-Z 配置信息 | 汽车之家车家号 | CN | T3 | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26106686 | 快充, 外放电 |
-| 长安UNI-Z 参数 | 搜狐汽车 | CN | T2 | CROSS_CHECKED | http://db.m.auto.sohu.com/model_7339/a/991290424_121117078 | 尺寸, 轴距, 后备厢, 动力 |
+| 长安 UNI-Z 参数 | 搜狐汽车 | CN | T2 | CROSS_CHECKED | http://db.m.auto.sohu.com/model_7339/a/991290424_121117078 | 尺寸, 轴距, 后备厢, 动力 |
 | Changan Automobile offizielle globale Website | Changan Automobile 长安汽车 (OEM) | CN | T1 | ÜBERPRÜFUNG | https://www.globalchangan.com/ | Marken-/Modelllinienidentität und OEM-Behörde |
 | Ministerium für Industrie und Informationstechnologie (MIIT) | MIIT 工业和信息化部 | CN | T1 | ÜBERPRÜFUNG | https://www.miit.gov.cn/ | Zulassungs-/Ankündigungsbehörde; genaues Modell, Massen und Code durch VIN/Ankündigung bestätigen |
 | Staatliche Verwaltung für Marktregulierung (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | ÜBERPRÜFUNG | https://www.samr.gov.cn/ | nationale Normen, Zertifizierungs- und Marktregulierungsbehörden |
@@ -76,11 +76,14 @@ UNI-Z-Aufträge sind leicht falsch zu spezifizieren, da das gleiche Abzeichen ve
 - **IMAGE_ASSET_PATH**: keine gesicherte im Repository
 - **ORIGINAL_IMAGE_URL**: nicht erfasst
 - **SOURCE_PAGE**: nicht erfasst
+- **SOURCE_FILE_PAGE**: Entfällt — keine Kandidaten-Mediendatei identifiziert (keine Lizenz zur Geltendmachung)
 - **RIGHTS_HOLDER**: nicht bestätigt
 - **LICENSE_OR_USAGE_BASIS**: keine gesicherte — OEM-Webseitenpräsenz ist keine kommerzielle Wiederverwendungslizenz
-- **CHECKED_DATE**: 2026-09-05
-- **MODEL_TOPIC_MATCH**: exakt Changan UNI-Z 2026
+- **CHECKED_DATE**: 2026-09-06
+- **MODEL_TOPIC_MATCH**: genau Changan UNI-Z 2026
+- **IMAGE_SCOPE_NOTE**: Das Bild muss nur mit der genauen Modellfamilie/dem genauen Thema übereinstimmen; darf keine bestimmte Trimmung, kein Modelljahr, keine echte VIN, keine persönliche Inspektion oder keine tatsächliche Transaktion implizieren.
 - **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: Es konnte kein wiederverwendbares Bild gesichert werden: Wikimedia Commons/Flickr sind aus der Forschungsumgebung nicht erreichbar, Lagerbibliotheken erfordern authentifizierten API/Lizenzzugriff und ein OEM-Webseitenbild ist KEIN kommerzielles Wiederverwendungsstipendium. Es gibt kein AutoBridge-eigenes Foto. Record Keeped FAIL statt behauptet.
 - **ALT (12 Sprachen)**:
   - **EN**: Changan UNI-Z 2026, Chinese-market PHEV SUV export buyer reference
   - **FR**: Changan UNI-Z 2026, PHEV SUV du marché chinois, référence acheteur export

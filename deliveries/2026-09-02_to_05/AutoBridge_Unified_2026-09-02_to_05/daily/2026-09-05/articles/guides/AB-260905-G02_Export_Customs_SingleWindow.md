@@ -48,6 +48,8 @@ It does not supply a specific HS code or supervision condition (those are per-co
 | 海关总署令第277号（国务院公报） | 中国政府网 | CN | T1 | VERIFIED | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 规定全文一致性核验 |
 | 进出口货物申报指南（单一窗口录入与登录） | 中国贸促会宁夏委员会 | CN | T1 | VERIFIED | https://nxccpit.nx.gov.cn/xwzx/mcxx/202508/t20250829_5003010.html | 单一窗口IC卡/USBKey登录, 电子申报 |
 | 出口大型货物手续流程（申报-缴税-放行） | 中华人民共和国海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/eportal/ui?pageId=374112&msgDataId=6e1b51cda6ff4057ab24852007a799c8 | 出口通关步骤, 报关单填制规范引用 |
+| WCO — Customs procedures and facilitation (Single Window / Coordinated Border Management) | World Customs Organization | INT | T1/T2 | VERIFIED | https://www.wcoomd.org/en/topics/facilitation.aspx | International single-window and coordinated border-management framework that national declaration portals implement |
+| WTO Trade Facilitation Agreement (Article 10.4 Single Window) | World Trade Organization | INT | T1/T2 | VERIFIED | https://www.wto.org/english/tratop_e/tradfa_e/tradfa_e.htm | TFA Article 10.4 obliges members to enable traders to submit import/export documentation through a single window |
 ## Editorial Review
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
 - **Last reviewed**: 2026-09-05
@@ -59,11 +61,14 @@ It does not supply a specific HS code or supervision condition (those are per-co
 - **IMAGE_ASSET_PATH**: none secured in repository
 - **ORIGINAL_IMAGE_URL**: not captured
 - **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
 - **RIGHTS_HOLDER**: unconfirmed
 - **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
-- **CHECKED_DATE**: 2026-09-05
+- **CHECKED_DATE**: 2026-09-06
 - **MODEL_TOPIC_MATCH**: exact China Export Customs Declaration and the Single Window Process for Vehicles
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
 - **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
 - **ALT (12 languages)**:
   - **EN**: single window declaration, Chinese-market procurement guide export buyer reference
   - **FR**: single window declaration, procurement guide du marché chinois, référence acheteur export

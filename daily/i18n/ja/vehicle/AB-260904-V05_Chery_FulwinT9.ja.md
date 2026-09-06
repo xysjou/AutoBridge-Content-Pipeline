@@ -1,70 +1,73 @@
-# Chery Fulwin T9 (风云T9): a C-DM Plug-in Hybrid Mid-Size SUV — China Specs for Export
+# Chery Fulwin T9 (风云 T9)): C-DM のプラグインの雑種の中間サイズの SUV — 輸出のための中国Specs
 
-## SEO Metadata
-- **SEO Title**: Chery Fulwin T9 C-DM PHEV Specs & Export Guide (China Reference)
-- **Meta Description**: Chinese-market Chery Fulwin T9 C-DM plug-in hybrid SUV — 1.5T dedicated engine, 150 kW front motor, 32.66 kWh battery, 120–220 km CLTC, 5/7 seats, and exporter checks.
-- **Suggested URL**: /vehicles/chery-fulwin- t9/
-- **H1**: Chery Fulwin T9 C-DM: Chinese-Market PHEV SUV Specs and Export Verification
-- **Primary Keyword**: chery fulwin t9 specs export
-- **Secondary Search Terms**: Fulwin T9 C-DM, 风云T9 plug-in hybrid, Chery T9 32.66kWh, Fulwin T9 7-seat, Chinese PHEV SUV export
-- **Internal Link Suggestions**: /guides/ev-shipping- un3556-imdg-compliance/; /vehicles/byd-qin-l-dm-i/;; /guides/export-vehicle-document-package/
-- **Image Suggestions**: Fulwin T9 three-quarter; charging port; 5 vs 7 seat layout; 1.5T C-DM badge; cargo area
-- **ALT Suggestions**: "Chery Fulwin T9 C-DM plug-in hybrid SUV"; "Fulwin T9 32.66kWh battery CLTC range"
+## ツイート メタデータ
+- **SEOのタイトル**:Chery Fulwin T9 C-DM PHEVの仕様と輸出ガイド(中国参考)
+- **メタ 記述**: 中国語市場 Chery Fulwin T9 C-DM のプラグインの雑種 SUV — 1.5T の熱心なエンジン、 150 kW フロント モーター, 32.66 kWh電池,  120–220 km CLTC, 5/7席、  and  輸出業者の点検。
+- **混雑URL**: /vehicles/chery-fulwin- t9/
+- H1 ホテル **: チェリー フルウィン T9 C-DM: 中国の市場 PHEV SUV のSpecs および輸出確認
+- **主なキーワード**: チェリーフルウィンt9スペックのエクスポート
+- **二次検索条件**: フーウィンT9 C-DM、风云 T9 プラグインハイブリッド、 チェリーT9 32.66kWh、フルウィンT9 7-seat、中国 PHEV SUVの輸出
+- **内部リンクの提案**: /guides/ev-shipping- un3556-imdg-compliance/; /vehicles/byd-qin-l-dm-i/; /guides/export-vehicle-document-package/
+- **イメージ提案**: Fulwin T9 three-quarter; 充満港; 5対7シートレイアウト; 1.5T C-DM バッジ; 貨物エリア
+- **ALTの提案**:「Chery Fulwin T9 C-DMのプラグインの雑種SUV」;「Fulwin T9 32.66kWh電池CLTCの範囲」
 
-## Buyer Context: a PHEV Family SUV With a Long-Battery Version
-The Fulwin T9 is Chery's C-DM mid-size plug-in hybrid SUV, offered in five- and seven-seat forms. Two order errors dominate this model: mixing the **standard T9 with the stretched T9L**, and quoting electric range without naming the battery. This page documents **only the standard Fulwin T9 (REFERENCE MARKET: CHINA)**; the longer T9L (roughly 4870 mm / 2920 mm wheelbase) is a different body and is deliberately excluded. An OEM configuration page was captured for this model, which strengthens the spec base.
+## バイヤーのコンテキスト: PHEV 家族の SUV と 長電池バージョン
+フーウィンT9はChery's C-DMの中型のプラグインの雑種SUVです、  offered in five-  and  seven-seat forms. Two order errors dominate this model: ** T9 を伸ばした T9L ** と混合して下さい、  and  電池を命名することなく電気範囲を引用します。 このページの文書は、標準のフルウィンT9のみ(参考市場)です。 中国の**; T9L(4870 mm/2920 mmのホイールベース)は、異なるボディで、意図的に除外されます。 仕様ベースを強化するモデルをOEM設定ページとして捉えました。
 
-## PHEV Powertrain: Dedicated Engine + Motor + Single-Speed DHT
-| Item | Fulwin T9 C-DM (China reference) |
+## パワー パワートレイン: 専用エンジン + モーター + シングルスピード DHT
+| アイテム | フーウィンT9 C-DM (中国参考) |
 |---|---|
-| Engine | 1.5 T dedicated hybrid petrol (115 kW / 220 N·m engine-only; China-6b) |
-| Front motor | 150 kW / 310 N·m |
-| Combined system output | about 265 kW / 530 N·m |
-| Hybrid transmission | Single-speed DHT |
-| Long-range battery | **32.66 kWh** |
-| Electric range | **120–220 km CLTC** (version-dependent; a WLTC figure of about 160 km is also cited for one version) |
-| Combined range | about 1400 km **WLTC, manufacturer-claimed** — label as a factory claim, not measured |
-| Charging | DC about 20 min for 30–80%; AC slow charge about 3 h (single-source; confirm per OEM) |
+| 油圧エンジン | 1.5 T 専用ハイブリッドガソリン (115 kW / 220 N·m エンジンのみ; 中国 - 6b) |
+| フロントモーター | 150 kW / 310 N·m |
+| 結合されたシステム出力 | およそ265 kW/530 N·m |
+| ハイブリッドトランスミッション | シングルスピード DHT |
+| ロングレンジバッテリー | 32.66 kWh ** |
+| 電気範囲 | **120–220 km CLTC** (version-dependent; a WLTC figure of about 160 km is also cited for one version) |
+| 組み合わせた範囲 | 1400 km * WLTC、メーカーが要求する** - 工場のクレームとしてラベル、測定されない |
+| 充電 | DC about 20 min for 30–80%; AC は 3 h について充満を遅らせます(単一ソース; OEMによって確認して下さい) |
 
-For a PHEV the exporter fixes **engine, motor, battery and charging** together. The 1.5T here is a hybrid-dedicated engine; its 115 kW engine-only figure is not the system output — keep the two apart on any spec line.
+PHEV 用 輸出業者は、**エンジン、モーター、バッテリー、充電を共に固定します。 1.5T はハイブリッド専用エンジンです。 its 115 kW engine-only figure is not the system output — keep the two apart on any spec line.
 
-## Body, Seating and Cargo
-- Length / width / height: **4795 / 1930 / 1738 mm** (some sources list 1741 mm height by trim)
-- Wheelbase: **2770 mm**
-- Seats: **5 or 7** — state which on the order
-- Cargo: **650 L, about 1775 L** with seats folded (single-source)
+## ボディ、座席および貨物
+- 長さ/幅/高さ:** 4795 / 1930 / 1738 mm ** (一部ソースリスト1741 mm高さトリム)
+- ホイールベース: ** 2770 mm **
+- 座席: * 5か7 ** — 注文に置かれる状態
+- 貨物: 650 L の座席によって折られる (単一ソース)の 1775 L についての**
 
-## Standard T9 vs Stretched T9L — Do Not Merge
-- **This page: standard T9**, 4795 mm / 2770 mm wheelbase.
-- **Excluded: T9L**, about 4870 mm with a 2920 mm wheelbase. It is a longer wheelbase vehicle; mixing its dimensions or seating claims into a standard-T9 order is a configuration error.
-- Range steps and seat layouts vary by trim; the 120–220 km spread is not a single number for one car.
+## スタンダードT9対ストレッチT9L - マージしない
+- **このページ: 標準 T9 **, 4795 mm / 2770 mm ホイールベース.
+- **除外:T9L **、2920 mmホイールベースで約4870 mm。 ホイールベース車両は長持ちします。寸法やシートのクレームを標準に混ぜる- T9 注文は構成エラーです。
+- 範囲のステップとシートのレイアウトは、トリムによって異なります。 the 120–220 km spread is not a single number for one car.
 
-## Overseas Buyer Verification Before Payment
-1. **Body version** — standard T9, never silently substituted with T9L.
-2. **Battery capacity and range cycle** — 32.66 kWh long-range vs smaller versions; label CLTC vs WLTC and keep manufacturer combined-range claims attributed.
-3. **Seat count** (5 vs 7) matched to the VIN.
-4. **Charging connector and DC/AC hardware** vs the destination standard; PHEV battery shipping documents (UN38.3 summary) per the IMDG 42-24 guide.
-5. **Emission/hybrid registration class** and full document set per the export document-package checklist.
+## 海外バイヤー お支払い前の検証
+1. **ボディ版** —標準T9、無声T9L.と取り替えられる
+2. **バッテリー容量とレンジサイクル** — 32.66 kWhのロングレンジとより小さなバージョン。 CLTCとWLTCをラベル化し、メーカーのコンバインド・レンジ・クレームを属性として保持します。
+3. **座席数** (5対7) VINにマッチした。
+4. **コネクタとDC / ACハードウェアを充電**と宛先標準; IMDG 42-24ガイドごとのPHEVバッテリー出荷文書(UN38.3サマリー)。
+5. **排出/ハイブリッド登録クラス**と輸出文書パッケージチェックリストごとに設定された完全な文書。
 
-## Request a Current Export Quotation
-No export price is published. The Chinese 2024 guide range (roughly RMB 129,900–169,900) is a **domestic, time-sensitive reference, not FOB/CIF**. Enquire with **Destination Country · Quantity · Battery/Seat Trim · LHD/RHD · Destination Port · Incoterm**.
+## 現在のエクスポート見積をリクエストする
+輸出価格が公開されていない 中国語2024ガイドの範囲(RMB 129、900–169、900)は、FOB/CIF**ではなく、**国内、時間感度基準です。 **目的地の国・数量・電池・シートトリム・LHD/RHD・デスティネーションポート・インコターム**を装備。
 
-## Frequently Asked Questions
-**Is the Fulwin T9 the same as the T9L?** No; the T9L is a longer-wheelbase vehicle (about 4870 mm / 2920 mm) and is excluded from this standard-T9 sheet.
-**What battery does the long-range T9 use?** A 32.66 kWh pack for the documented long-range versions, with 120–220 km CLTC electric range depending on trim.
-**Is the 1400 km range measured?** It is a manufacturer-claimed WLTC combined figure; present it as a factory claim, not a test result.
-**Five or seven seats?** Both are offered; specify on the order and match to the VIN.
+## よくある質問
+**Fulwin T9 と同じ T9L ?** いいえ。T9Lは、ホイールベース車両(4870 mm/2920 mm程度)で、この標準T9シートから除外されます。
+**長距離T9のバッテリーはどのようなものがありますか?** ドキュメントの長いバージョンの32.66 kWhパック、  with 120–220 km CLTC electric range depending on trim.
+**1400 kmの範囲は測定されますか。** 製造メーカーに求められるWLTCの複合図です。工場のクレームとして、試験結果ではありません。
+**Five or seven seats?** Both are offered; 注文に指定し、VIN に一致します。
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
-- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- ALT by language:
+## 映像の記録
+- IMAGE_ASSET_PATH:リポジトリで保護されていない
+- ORIGINAL_IMAGE_URL: キャプチャされていない
+- SOURCE_PAGE: キャプチャされていない
+- SOURCE_FILE_PAGE: 該当なし — 特定候補のメディアファイル (アサートするライセンスなし)
+- 権利_ホルダー:未確認
+- LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
+- CHECKED_DATE: 2026-09-06(税抜き)
+- MODEL_TOPIC_MATCH: 上記の正確なモデル/バージョン(またはガイドトピック)と参照市場と一致しなければなりません
+- IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
+- IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
+- ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
+- 言語によるALT:
   - **EN**: AutoBridge export-buyer reference — Chery Fulwin T9, plug-in hybrid vehicle / SUV
   - **FR**: Référence AutoBridge pour acheteurs export — Chery Fulwin T9, véhicule hybride rechargeable / SUV
   - **DE**: AutoBridge-Referenz für Exportkäufer — Chery Fulwin T9, Plug-in-Hybridfahrzeug / SUV
@@ -78,26 +81,26 @@ No export price is published. The Chinese 2024 guide range (roughly RMB 129,900�
   - **AR**: مرجع AutoBridge لمشتري التصدير — Chery Fulwin T9, مركبة هجينة قابلة للشحن / سيارة دفع رباعي
   - **ZH**: AutoBridge 出口采购参考｜Chery Fulwin T9, 插电混动车 / SUV
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## ソースと検証
+| ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
 |---|---|---|---|---|---|---|
-| GB 38031 traction-battery safety requirement (national standard) | SAMR / Standardization Administration | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFIED | Traction-battery safety baseline relevant to the C-DM high-voltage pack |
-| GB 18352.6-2016/XG1-2026 light-vehicle emission limits (China 6) | Ministry of Ecology and Environment | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | Current China-6 emission frame for the 1.5T dedicated engine (China-6b reference) |
-| Fulwin T9 official configuration table | Chery Fulwin (OEM) | CN | https://fulwin.chery.cn/vehicles/t9/config/ | 2026-09-04 | VERIFIED (OEM) | Battery, dimensions, seats, charging, versions |
-| Fulwin T9 hands-on (size/model year) | Dongchedi | CN | https://m.dongchedi.com/article/7506038314424730131 | 2026-09-04 | CROSS_CHECKED | Dimensions, model-year boundary |
-| Fulwin T9 120 long-range flagship config | Autohome config | CN | https://m.autohome.com.cn/config/spec/70272.html | 2026-09-04 | CROSS_CHECKED | 32.66 kWh, electric range, motor |
-| Fulwin T9 battery & EV-range analysis | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26113006 | 2026-09-04 | SINGLE_SOURCE | Battery, CLTC/WLTC range, charge times |
-| Fulwin T9 launch & dimensions | Sohu Auto database | CN | http://db.m.auto.sohu.com/model_7322/a/1019838375_120590677 | 2026-09-04 | CROSS_CHECKED | Mid-size PHEV SUV size, domestic price |
-| 风云T9 官方配置表(品牌官网) | 奇瑞风云(奇瑞官方) | CN | https://fulwin.chery.cn/vehicles/t9/config/ | 2026-09-04 | VERIFIED | 发动机115kW/220N·m/国VIb/无级超级电混DHT |
+| GB 38031 の牽引電池の安全条件(国民の標準) | SAMR/標準化管理 | CN の | 以下は、 https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 の | 2026-09-05 | 検証済み | C-DMの高圧パックに関連するトラクションバッテリー安全ベースライン |
+| GB 18352.6-2016/XG1-2026の軽車排出の限界(中国6) | エコロジー・環境省 | CN の | 以下は、 .mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html の | 2026-09-05 | 検証済み | 現在の中国- 1.5T 専用エンジン(中国- 6b 参照)のための 6 の放出フレーム | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html
+| フォルウィンT9公式設定テーブル | チェリー フーウィン (OEM) | CN の | 以下は、 https://fulwin.chery.cn/vehicles/t9/config/ の一覧 | 2026-09-04 | 検証済み(OEM) | 電池、次元、座席、充満、版 |
+| ファーウィンT9 ハンドオン (サイズ/モデル年) | ドンケディ | CN の | 以下は、 https://m.dongchedi.com/article/7506038314424730131 | 2026-09-04 | CROSS_CHECKED(クロス) | 寸法、モデル年境界 |
+| フォルウィンT9 120 ロングレンジフラッグシップ config | Autohome 設定 | CN の | 以下は、 https://m.autohome.com.cn/config/spec/70272.html | 2026-09-04 | CROSS_CHECKED(クロス) | 32.66 kWhの電気範囲、モーター |
+| フルウィンT9バッテリー&EVレンジ解析 | オートホーム・ケジアオ | CN の | 以下は、 https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26113006 | 2026-09-04 | シングル_ソース | 電池、CLTC/WLTCの範囲、充満時間 |
+| ウルウィンT9の発売と寸法 | Sohu Autoデータベース | CN の | 担当: http://db.m.auto.sohu.com/model_7322/a/1019838375_120590677 の | 2026-09-04 | CROSS_CHECKED(クロス) | 中型 PHEV SUV サイズ、国内価格 |
+| 风云 T9 官方配置表 (品牌官网) | 奇瑞风云 (奇瑞官方) | CN の | 以下は、 https://fulwin.chery.cn/vehicles/t9/config/ の一覧 | 2026-09-04 | 検証済み | 发动机115kW/220N·m/国VIb/无级超级电混DHT |
 
-*Confidence note: OEM configuration page captured (VERIFIED anchor); charge times and cargo volume are single-source; combined range is a manufacturer claim. Standard T9 only — T9L excluded.*
+※本会議ノート:OEM構成ページ(VerIFIEDアンカー)、充電時間と貨物の量は単元です。組み合わせた範囲はメーカーのクレームです。 スタンダードT9のみ — T9L は除外されます。 ふりがな
 
-## Editorial Review
-- **Author**: AutoBridge Export Editorial Team · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: China, standard Fulwin T9 C-DM (Chinese-market reference; CLTC/WLTC labelled; not a global spec)
-- **Verification method**: OEM config anchored; standard vs long-wheelbase isolated; factory claims attributed
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+## 編集レビュー
+- **著者**: AutoBridge エクスポート 編集 チーム・方法・方法・方法・各社様 [編集ポリシー](/編集ポリシー/)
+- **最終審査**:2026-09-05
+- **参考市場**:中国、標準のフルウィンT9 C-DM(中国市場参照; CLTC/WLTC ラベル付き; グローバルな仕様ではありません)
+- **検証方法**: OEM の構成は固定しました; 標準的な対の長輪基は隔離しました; 工場要求は属性しました
+- **透明性**:AI-assistedドラフトが使われていました。 本記事は、デスクリサーチと自動QAをベースとしています。 明示的に文書化されていない限り、最初のテストは要求されません。 トランスフォーメーションの前に時間感度と宛先固有の要件を確認します。
+- ** 編集規格**: 上記情報源(デスクリサーチ、片手運転、涙流、輸入)から研究・執筆 ソースの自信は行ごとに示されます。 私たちが独立して確認できない点は、事実として主張するのではなく、検証項目として提示されます。
 
 **Tags**: #CheryFulwinT9 #CDM #PHEVSUV #ChinaReferenceSpec #ExportBuyerGuide

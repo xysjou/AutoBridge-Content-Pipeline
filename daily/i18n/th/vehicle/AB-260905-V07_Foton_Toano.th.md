@@ -1,82 +1,85 @@
-# Foton Toano / Tuyano (2026) — Chinese-Market Large Van (Light Bus) Specs and Export Checks
+# โฟทัน โตโน / ตูยาโนะ (2026) — ฟอนใหญ่จีน-มาร์เก็ต (รถไลท์บัส) สเปคส์ และ เอ็กซ์เพรสเช็ค
 
-## SEO Metadata
-- **SEO Title**: Foton Toano (Tuyano) Large Van: Chinese-Market Specs & Export Buyer Guide
-- **Meta Description**: Chinese-market Foton Toano light bus/large van: short and long wheelbases, diesel torque, wide seat range, and why refrigerated conversions are assessed separately.
-- ~ H1~: Foton Toano / Tuyano (2026) — Chinese-Market Large Van (Light Bus) Specs and Export Checks
-- **Primary Keyword**: Foton / 福田 Toano / 图雅诺 大VAN（轻客） specs export
-- **Secondary Search Terms**: Foton Toano export; Tuyano van; Chinese light bus; passenger van; cargo van conversion
-- **Suggested URL**: /vehicles/foton-toano/
-- **Search Intent**: 了解 Foton / 福田 Toano / 图雅诺 大VAN（轻客） 中国版规格、配置与出口适配性（车型参数页）
-- **Internal Link Suggestions**: / Viohles/foton-too///guides/knd-skd-known-kt-kart-asport-asbly/////guides/tird-road-Transport-china-central-asia/
-- ~Schema Scope~: Article + Vehicle (no Product/Offer/Review)
+## เชา ข้อมูลกํากับภาพ
+- < secontinuation*: โฟตัน โตโน่ (Tuyoo) รถตู้ใหญ่: ประเทศจีน- Market Specs & ส่งออกคู่มือผู้ซื้อ
+- ""คําอธิบาย" รถแวนขนาดใหญ่: รถล้อสั้นและยาว กังหันดีเซล, ที่จอดรถกว้าง และทําไมการเปลี่ยนแปลงแช่แข็งถูกประเมินแยก
+- ** H1 ~: โฟทัน โทโนะ / ตูยาโนะ (2026) — ประเทศจีน-มาร์เก็ต ฟอน (รถเบา) สเปคส์ และเครื่องตรวจการส่งออก
+- ~คําสําคัญในจดหมาย *: โฟตัน/ 福田 Tono / 图雅诺 大 VAN (轻客) สเปค เอ็กซ์เพรส
+- ~การค้นหาตามชื่อเดิม~: โฟตัน โทโนะ ส่งออกเสียง; รถตู้ทูยาโนะ; รถโดยสารจีน; รถโดยสาร; รถแวนสินค้า
+- ~ที่อยู่ URL ที่ถูกย่อ: / เวกซี่/โฟตัน-โทโนะ/
+- ~ การค้นหาที่เชื่อมโยง~: 了解 โฟตัน/ 福田 โตนาโน / 图雅诺 大 VAN (轻客) 中国版规格 、配置与出口适配性 (车型参数页).
+- ~ ลิงก์ภายในแนะนํา~ ~/ Vichales/foton-too/////guides/skd-known-known-kit-export-asselped-assiby///////////turd-tir-trosport-toan-sentral-asia/
+- ~Schema Scop~: มาตรา + moft (ไม่มี Production/Offer/Review)
 
-## Buyer context: a configurable light bus, not one fixed spec
-The **Foton Toano (图雅诺, 2026)** is a Chinese-market diesel large van/light bus offered across many wheelbases and seat counts. Because the variant matrix is wide, this page is written around **identified configurations only** rather than a single implied "Toano" spec. Reference market is **China**.
+## บริบท: รถ โดยสาร ไฟฟ้า ที่ ปรับ ตัว ได้ ไม่ ใช่ แบบ ที่ กระชับ
+The Foton Tonoo (图雅诺, 2026) ~ เป็นรถขายดีเซลขนาดใหญ่ของจีน รถตู้/สถานีแสง เสนอผ่านรถล้อและที่นั่งหลายคัน เพราะเมทริกซ์ไม่แน่นอนกว้างมาก หน้านี้จึงเขียนได้รอบ ๆ ~การปรับแต่งที่ปรากฏเท่านั้น~ แทนที่จะเขียนเฉพาะเฉพาะ สเปก "โทโนะ" ตลาดอ้างอิงคือ.... จีน
 
-## Identified dimensions, powertrain and seating
-- **Short body (X5)**: 4990×1980×1990, wheelbase 3070 mm.
-- **Long wheelbases**: 3510（X5长轴）/3750（经典长轴，车长5990×2000） mm.
-- **2.5T diesel torque**: 400 N·m; gearbox 6MT.
-- **Seats**: 3/5/6/7/9/14/15/17（随版本）.
-- **Conversion note**: F2.8NS6B177L：2780mL/130kW，属冷藏改装上装 — a refrigerated body is an upfit, not a base-van specification.
+## มิติที่ถูกทําให้ไม่สมบูรณ์, พลังงานและที่นั่ง
+- ~ศพของซอร์ท (X5) ~ 4990 x 1980 x 1990, ล้อเบส 3070 mm.
+- ~ มวยล้อที่ขาดหาย~: 3510 (X5 长轴)/3750 (经典长轴, 车长 5990 x 2000) mm.
+- ~ 2.5T ของเหลวดีเซล ~: 400 N·m; เกียร์ 6MT.
+- ~อาหาร ~: 3/5/6/7/9/14/15/17 (随版本.)
+- โน้ตซ้ํากัน: F2.8NS6B177L：2780mL/130kW，属冷藏改装上装 — a refrigerated body is an upfit, ไม่ใช่ความชอบของฐาน
 
-## Verified specification table (Chinese-market reference)
-| Specification | Value | Unit | Market | Confidence | Source note |
+## ตารางกําหนดเพิ่มเติมเพิ่มเติม (อ้างอิงของ Chinese- market)
+| การกําหนด | ค่า | หน่วย | ตลาด | ความมั่นใจ | บันทึกช่วยจําต้นฉบับ |
 |---|---|---|---|---|---|
-| x5 short dim | 4990×1980×1990 | mm | CHINA | SINGLE_SOURCE | 搜狐对比 |
-| x5 short wheelbase | 3070 | mm | CHINA | SINGLE_SOURCE | 搜狐对比 |
-| long wheelbase options | 3510（X5长轴）/3750（经典长轴，车长5990×2000） | mm | CHINA | SINGLE_SOURCE | 搜狐对比 |
-| engine 2 5t torque | 400 | N·m | CHINA | SINGLE_SOURCE | 大众网 |
-| transmission | 6MT | - | CHINA | SINGLE_SOURCE | 大众网 |
-| seat options | 3/5/6/7/9/14/15/17（随版本） | - | CHINA | ROOS_ CHCKED | 大众网+搜狐 |
-| refrigerated conversion note | F2.8NS6B177L：2780mL/130kW，属冷藏改装上装 | - | CHINA | SINGLE_SOURCE | 大众网 |
+| x5 หรี่เสียงสั้น | 4990×1980×1990 | อืม | จีน | ผู้โดยสาร_ปลายทาง | 搜狐对比 |
+| x5 ล้อสั้น | 3070 | อืม | จีน | ผู้โดยสาร_ปลายทาง | 搜狐对比 |
+| ตัวเลือกฐานล้อยาว | 3510 (X5 长轴)/3750 (经典长轴, 车长 5990 x 2000). | อืม | จีน | ผู้โดยสาร_ปลายทาง | 搜狐对比 |
+| เครื่องยนต์ 2 5t แรงบิด | 400 | น. ม. | จีน | ผู้โดยสาร_ปลายทาง | 大众网 |
+| การส่ง | 6MT | - | จีน | ผู้โดยสาร_ปลายทาง | 大众网 |
+| ตัวเลือกของที่นั่ง | 3/5/6/7/9/14/15/17 (随版本) (พ.ศ. | - | จีน | ROOS_ CHCKED | 大众网 + 搜狐 |
+| บันทึกการแปลงที่ปรับตั้งไว้เรียบร้อยแล้ว | F2.8NS6B177L：2780mL/130kW，属冷藏改装上装 | - | จีน | ผู้โดยสาร_ปลายทาง | 大众网 |
 
-## Van procurement focus: pick one configuration, separate the upfit
-Van buyers must fix wheelbase, roof height, seat count (passenger) or cargo layout, and engine before comparing prices. The full Cummins ISF2.8 power matrix and per-trim kerb/GVW masses are **not captured and are withheld** pending an OEM sheet; encyclopaedia entries were treated only as leads. A refrigerated or ambulance body is a **superstructure on a chassis** and needs its own payload/insulation/refrigeration assessment.
+## โฟกัสของศูนย์รับส่งข้อมูล: เลือกการปรับแต่งหนึ่งแยก upfilt
+ผู้ ซื้อ รถ บรรทุก ต้อง ซ่อม เบส ล้อ, ความ สูง หลังคา, จํานวน ที่ นั่ง (ผู้ ส่ง สินค้า) หรือ ผัง รถ สินค้า, และ เครื่อง ยนต์ ก่อน จะ เทียบ ราคา. คัมมินส์เต็มดวง ไมโครเซนเตอร์ ISF2.8  and  per-trrim Kerb/GVW มหาชนถูกเก็บไป < br />ไม่ได้ถูกจับ  and  (ขณะนั้น) สิ่งที่ยึดมาได้ก็ไร้ผล เบาะแสการเข้าสารไซโคลพาเดีย ถูกปฏิบัติเป็นเบาะแสเท่านั้น ร่างที่เย็นหรือรถพยาบาล เป็นระบบควบคุมการไฟฟ้าแบบอัตโนมัติ และต้องการการประเมินค่าตัวของมันเอง
 
-## Overseas buyer verification before payment
-1. Name wheelbase (3070/3510/3750), seat/cargo layout and engine on the order.
-2. Obtain GVW/kerb mass and the full engine matrix from Foton OEM/homologation.
-3. Treat refrigerated/other conversions as separate upfit projects.
-4. Confirm diesel emission/fuel and (for road routes to Central Asia) TIR suitability separately.
-5. Request a current export quotation; none is published.
+## ผู้ซื้อที่ดูแลการขออนุมัติก่อนจะจ่ายเงิน
+1. ชื่อล้อ (3070/3510/3750) ผังที่นั่ง/รถลาก และเครื่องยนต์ตามลําดับ
+2. Obtain GVW/เคอร์บ มวลและเมทริกซ์เครื่องยนต์เต็มจาก โฟตัน โอเอ็มแอนด์โอโมล็อกชั่น
+3. รักษาความเย็น/การเปลี่ยนแปลงอื่น ๆ เป็นโครงการแยกขึ้น
+4. ยืนยันการปล่อยก๊าซดีเซล/ไฟล และ (สําหรับเส้นทางไปยังเอเชียกลาง) TIR เหมาะสมแยกต่างหาก
+5. ต้องการอ้างอิงการส่งออกในปัจจุบัน; ไม่มีการพิมพ์
 
-## FAQ
-**How many seats?** It ranges across versions (3–17); specify the exact build.
-**Why no full ISF2.8 power list?** The variant matrix needs an OEM lock; it is withheld.
-**Is the refrigerated van a factory model?** It is a conversion/upfit on the Toano chassis.
+## ขนาด FAQ
+**How many seats?** It ranges across versions (3–17); ระบุการสร้างที่แน่นอน
+~ทําไมไม่มีรายการพลังงาน ISF2.8 เต็มเลย~ เมทริกซ์ที่แยกไม่ได้ต้องการล็อคโออีเอ็ม มันถูกระงับ
+"รถแวนทําความเย็น เป็นโมเดลโรงงานรึเปล่า" มันเป็นการแปลง/ upfit บน Toanochasis
 **What wheelbase for a minibus?** Choose from 3070/3510/3750 mm by layout.
-**Where are GVW figures?** Not reliably captured; obtain from homologation.
+แล้วตัวเลข GVW หายไปไหน # ไม่น่าจะถูกจับได้ รับจากพวกนอกรีต
 
 
-## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
+## ต้นฉบับและการตรวจสอบสิทธิ์
+| แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| 图雅诺 词条（仅线索，T4不作关键事实唯一依据） | 抖音百科 | CN | T4 | ROOS_ CHCKED | https://m.baike.com/wiki/%E5%9B%BE%E9%9B%85%E8%AF%BA/10989664 | 型号谱系线索 |
-| 图雅诺 车型对比 | 搜狐汽车 | CN | T2 | ROOS_ CHCKED | https://db.auto.sohu.com/compare-list?sliding=1&trimsid=156097,166576 | 短轴/长轴尺寸, 轴距 |
-| 图雅诺 吉象流动服务车 | 大众网机械 | CN | T3 | ROOS_ CHCKED | http://www.dzwww.com/jixie/f25184ea8b1340967.html | 2.5T动力, 扭矩, 座位 |
-| 图雅诺 冷藏改装（上装） | 大众网机械 | CN | T3 | ROOS_ CHCKED | http://www.dzwww.com/jixie/e79925a2501247453.html | F2.8NS6B177L改装上装，非原厂VAN参数 |
-| Foton Motor official site | Beiqi Foton Motor 福田汽车 (OEM) | CN | T1 | VERIFIED | https://www.foton.com.cn/ | brand/model-line identity and OEM authority |
-| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | T1 | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
-| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
-## Editorial Review
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: China (Chinese-market reference; commercial masses must be confirmed by homologation/VIN)
-- **Verification method**: Desk research against the sources below; Chinese-market reference specification only unless a separate export market is explicitly cited.
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
+| 图雅诺 词条 (仅线索, T4 不作关键事实唯一依据) พ.ศ. | 抖音百科 | CN | T4 | ROOS_ CHCKED | https://m.baike.com/wiki/%E5%9B%BE%E9%9B%85%E8%AF%BA/10989664 | 型号谱系线索 |
+| 图雅诺 车型对比 | 搜狐汽车 | CN | T2 | ROOS_ CHCKED | https://db.auto.sohu.com/compare-list?sliding=1&trimsid=156097,166576 | 短轴 / 长轴尺寸 轴距 |
+| 图雅诺 吉象流动服务车 | 大众网机械 | CN | T3 | ROOS_ CHCKED | http://www.dzwww.com/jixie/f25184ea8b1340967.html | 2.5T 动力 扭矩 扭矩 座位 (พ.ศ. |
+| 图雅诺 冷藏改装 (上装) พ.ศ. | 大众网机械 | CN | T3 | ROOS_ CHCKED | http://www.dzwww.com/jixie/e79925a2501247453.html | F2.8NS6B177L 改装上装 非原厂, 非原厂 VAN 参数 |
+| โฟตอนมอเตอร์ เว็บไซต์อย่างเป็นทางการ | Beigi Foton มอเตอร์ 福田汽车 (OEM) | CN | T1 | เปิดใช้งาน | https://www.foton.com.cn/ | แบรนด์/ แบบไลน์และหน่วยงานโออีเอ็ม |
+| กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูล (MIT) | MIT 工业和信息化部 | CN | T1 | เปิดใช้งาน | https://www.miit.gov.cn/ | การออกเสียง/ การปล่อยเสียง; ยืนยันการจําลองที่แน่นอน, มวลและรหัสโดย VIN/ language |
+| กรมการต่างประเทศสําหรับกําหนดตลาด (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | เปิดใช้งาน | https://www.samr.gov.cn/ | มาตรฐานประเทศ, การจัดตั้ง และ อํานาจในการยึดตลาด |
+## การทบทวนแก้ไข
+- ~Uuthor ♪: AutoBridge ส่งออกทีมแก้ไข [ผู้เขียน](/ ผู้เขียน/) สืบค้นเมื่อ [ใช้ในการแก้ไขนโยบาย] [/Di-policy/]
+- ~ถูกตรวจสอบแล้ว~: 2026-09-05
+- ~ ตลาดแห่งความไม่สงบ~: จีน (อ้างอิงตลาดจีน; มวลชนพาณิชย์ต้องได้รับการยืนยันโดย Homologion/VIN)
+- ~วิธีการสร้างความสัมพันธ์ ~: งานวิจัยที่ขัดกับแหล่งย่อยด้านล่างนี้; การอ้างอิงตลาดจีน-มาร์เก็ต ก็ต่อเมื่อมีการอ้างอิงตลาดส่งออกอย่างตรงไปตรงมา
+- การร่างแบบ AI-assisted ถูกใช้ บทความนี้ตั้งอยู่บนพื้นฐานของงานวิจัยในตาราง และอัตโนมัติ QA ไม่มีการอ้างอิงการทดสอบก่อน จนกว่าจะมีการระบุรายละเอียดอย่างชัดเจน ยืนยันความต้องการที่ต้องใช้เวลาและกําหนดปลายทาง ก่อนทําการข้ามเวลา
 
-## Image Record
-- **IMAGE_ASSET_PATH**: none secured in repository
-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ not captured
-- **SOURCE_PAGE**: not captured
-- **RIGHTS_HOLDER**: unconfirmed
-- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
-- ~ECHCKKED_DATE ~: 2026-09-05
-- ~CRL/TOPIC_MATCH~: exact Foton Toano van
-- **IMAGE_RIGHTS_STATUS**: FAIL
-- **ALT (12 languages)**:
+## บันทึกรูปภาพ
+- ~ประกาศ_BAR_ PATH ~ ~ ไม่มีคนปลอดภัยในห้องเก็บของ
+- ~~~~~ไม่ถูกจับ~
+- ~ประกาศจับ~: ไม่ถูกจับ
+- ** UNTER_FELE_ PATE*: ใช้ไม่ได้ — ไม่มีเอกสารผู้สมัครใด ๆ ที่ระบุ (ไม่มีใบรับรองที่จะยืนยัน)
+- ~ห้ามยืนยัน~
+- **LICENSE_OR_USAGE_BASIS**: ไม่ มี ใคร ปลอด ภัย — การ มี เว็บไซต์ อยู่ ใน เวลา นี้ ไม่ ใช่ การ ลง ทะเบียน ทํา ซ้ํา อีก ครั้ง ใน การ ค้า
+- ~CKND_DATE ~ 2026-09-06
+- ~DPLNIVER/TOPICN_MATCH~: รถตู้โฟตัน โตโน
+- MEDIAN_SCPE_NOTE: ภาพต้องตรงกับครอบครัว/ โตปิกที่ถูกต้องเท่านั้น; ต้องไม่หมายถึงการตัด, ปีตัวอย่าง, เรียลวีน, การตรวจสอบหรือการทําธุรกรรมจริง
+- หม่อมเจ้า หม่อมเจ้า
+- ~ ล็อก-รีซัน~: ไม่มีภาพใดสามารถใช้ได้โดยปลอดภัย: Wikited Commons/Flickr ไม่สามารถทํางานได้จากสภาพแวดล้อมการวิจัย ห้องสมุดหลักต้องการสิทธิ์ในการเข้าถึง API/CIFF และภาพเว็บเพจของ OEM ก็ไม่ใช่การให้ทุนใช้อีกครั้งในโฆษณา ไม่มีภาพถ่ายที่บรรจุออโต้ไบด์อยู่ บันทึกเก็บ FAIL แทนการยืนยัน
+- ~ALT (12 ภาษา) ~:
   - **EN**: Foton Toano van, Chinese-market large van / light bus export buyer reference
   - **FR**: Foton Toano van, large van / light bus du marché chinois, référence acheteur export
   - **DE**: Foton Toano van, Chinesischer large van / light bus, Referenz für Exportkäufer

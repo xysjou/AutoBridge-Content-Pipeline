@@ -1,63 +1,66 @@
-# Booking an Electrified Vehicle for Ocean Export: the Dangerous-Goods Paperwork a Carrier Actually Checks
-## SEO Metadata
-- **SEO Title**: EV Export Booking Documents Under IMDG 42-24: UN3556 Paperwork & Carrier Checks
-- **Meta Description**: How lithium-battery vehicles are classified for ocean freight under current IMDG Amendment 42-24 (UN3556/3557/3558; legacy UN3171 transition ended), the SP961/SP962 paths, UN38.3 and SDS paperwork, and carrier-specific booking conditions.
-- **Suggested URL**: / guides/v-reving- un3171-imdg-compliance/
-- ~ H1~: Shipping Electrified Vehicles by Sea: Current Dangerous-Goods Classification, the Booking Document Set and Red Lines
-- **Primary Keyword**: electric vehicle ocean shipping un3556 imdg 42-24 documents
-- **Secondary Search Terms**: UN3556 lithium ion battery vehicle, UN3557 lithium metal vehicle, UN3558 sodium ion vehicle, legacy UN3171 transition, SP961 SP962 vehicle, Class 9 label 9A, UN38.3 test summary, SDS electric car shipping, EV SOC requirement carrier
-- **Internal Link Suggestions**: / Guides/v-helping- un3556-imdg-compliance/; /guides/china-vehicle-export-license-customs-documents/ ; /guides/container-vehicle-loading-lashing/ ; /guides/vehicle-pre-shipment-inspection-psi/ ; /vehicles/byd-dolphin/
-- **Image Suggestions**: UN number/class label diagram; SP961-vs-SP962 decision flow; booking document chain; Class 9 / label 9A placard
-- **ALT Suggestions**: "UN3556 IMDG 42-24 Class 9 electric vehicle shipping"; "EV shipping booking document chain"
-## Start Here: a Whole EV Is Dangerous Goods, and the Entry Changed in 42-24
-An intact, factory-built electrified vehicle is still dangerous goods for sea transport. Under **IMDG Code Amendment 42-24 (2024 Edition), mandatory from 1 January 2026**, battery-powered vehicles are split into dedicated entries rather than falling under one blanket number:
-- **UN3556 — Vehicle, lithium-ion-battery-powered** (the case for a BEV or a PHEV/EREV whose traction battery is lithium-ion);
-- **UN3557 — Vehicle, lithium-metal-battery-powered**;
-- **UN3558 — Vehicle, sodium-ion-battery-powered**.
-All sit in **Class 9**. The older blanket **UN3171 ("battery-powered vehicle/equipment") sea transition ended on 31 December 2025**; do not build a 2026 booking on UN3171 for a lithium-ion car. For the full classification matrix and the loose-battery entries (UN3480/UN3481), see the companion guide [Shipping an EV under IMDG 42-24: the classification matrix](/guides/ev-shipping-un3556-imdg-compliance/); this page focuses on **what a forwarder/carrier needs at booking and what makes a file bookable**.
-## The Two Whole-Vehicle Paths: SP961 vs SP962
-The special provision drives both stowage and paperwork:
-- **SP961** applies where the vehicle is **loaded, stowed, handled and unloaded under its own power** (the self-driven RoRo-style path) and meets the stated conditions; it carries specific reliefs.
-- **SP962** applies to the **container / non-self-driven path**, which is treated as full Class 9: a **dangerous-goods declaration (DGD)**, **stowage category A**, training requirements and the **Class 9 / label 9A** marking route apply.
-Which path you are on is decided by **how the unit actually moves**, not by preference — a vehicle planned for container export cannot claim the self-driven relief.
-## The Document Set a Booking Rests On
-1. **UN38.3 test summary / report** covering **both the cells and the battery pack/module** — a cell-only report is insufficient for the pack; note the current revision your carrier accepts.
-2. **SDS/MSDS (GHS)** identifying the **correct UN entry (UN3556 for a lithium-ion vehicle), Class 9 and the EmS schedule** — update any old document that still names only UN3171.
-3. **Dangerous-goods declaration and carrier booking forms** completed to the **42-24** standard (required on the SP962 path).
-4. **Installed-battery vs loose/spare-battery decision.** Spare or loose lithium batteries move under **UN3480/UN3481**, not UN3556, and need their own packaging/document route (including a dangerous-goods packaging certificate where applicable). The whole-vehicle relief never covers spares packed alongside.
-5. **Damaged/defective or recalled units** are a separate case: they require **explicit carrier approval**, often cannot move on ordinary terms, and must never be relabelled as a normal UN3556 shipment.
-## Version and Timeliness (state these on every file)
-- **Current amendment:** IMDG **42-24 (2024 Edition), mandatory from 2026-01-01**; state the amendment on the booking instead of assuming a carrier's old template.
-- **UN38.3 revision:** confirm the revision your line and destination accept (time-sensitive).
-- **China-side lithium transport requirements:** confirm the current official text and how it applies to **whole vehicles vs loose batteries** rather than quoting a 2025 compliance article as settled law.
-## Carrier-Specific Layer (the Code is the floor, never the ceiling)
-Named carriers publish their own 42-24 advisories — for example **Maersk's customer advisory on Amendment 42-24** confirms the 2026-01-01 applicability, the UN3556 entry and the SP962 placard/label change. On top of the Code, lines commonly set, per **route and terminal**:
-- a maximum **state of charge (SOC)** and evidence of the 12 V/traction system state;
-- whether the unit moves **RoRo (self-driven) or only in a container**, and **terminal acceptance conditions**;
-- firewatch/stowage and disconnect instructions, and **damaged/recalled-battery bans**.
-These are **carrier- and route-specific and time-sensitive** — obtain the named carrier's current dangerous-goods acceptance in writing for the exact port pair before promising a sailing; do not generalise one line's terms to another.
-## What This Guide Recommends You Prepare Before Booking
-- Cell **and** pack UN38.3 (accepted revision) plus an SDS naming **UN3556 / Class 9 / EmS**, with any legacy UN3171 paperwork refreshed.
-- A written **SP961 (self-driven) vs SP962 (container)** decision matched to the actual move; DGD and label 9A ready for SP962.
-- A clear **installed vs loose battery** split, with the separate UN3480/UN3481 route for spares.
-- The **named carrier's current SOC/stowage/route/terminal conditions** for the specific port pair, approved before delivery.
-- A **damage/defect screen** (no warning lights, no impact/flood/recall history) fed into the PSI — see the pre-shipment inspection guide.
-## Frequently Asked Questions
-**What UN number is a lithium-ion electric car shipped under now?** Under IMDG 42-24 (mandatory 2026-01-01) it is **UN3556** (lith-ion-battery-powered vehicle), Class 9; UN3557 is lithium-metal and UN3558 sodium-ion. The old blanket UN3171 sea transition ended 31 December 2025.
-**What is the difference between SP961 and SP962?** SP961 covers the self-driven/own-power handling path with specific reliefs; SP962 covers the container/non-self-driven path as full Class 9 (DGD, stowage A, label 9A and training). The actual move decides which applies.
-**Does an EV need dangerous-goods packaging?** A complete, intact vehicle is not crated like loose cells, but only on the applicable special-provision path; loose/spare batteries follow UN3480/UN3481 with their own packaging and documents.
-**Is a cell-level UN38.3 report enough?** No — both the cells and the pack/module must be covered.
-**Can a damaged or recalled EV ship normally?** No — damaged/defective/recalled units need explicit carrier approval and are often refused; never disguise one as a standard UN3556 shipment.
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICNE_OR_USARIAND_BALE: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
-- RODL_TOIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- ALT by language:
+# การจองรถที่ตกแต่งแล้วสําหรับส่งออกทางทะเล: งานเอกสารที่อันตรายและอันตราย
+## เชา ข้อมูลกํากับภาพ
+- < ESEO ชื่อเพลง ~: เอกสารส่งออกเป็นเอกสารการลงหนังสือ EV ภายใต้ IMDG 42-24: UN3556 กระดาษและกระดาษคํานวณ Check
+- ""คําอธิบาย" พาหนะลิเธียน-บาทิตรี่ ถูกจัดเป็นสินค้าทะเล ภายใต้ระบบไฟฟ้า IMDG ปัจจุบัน 42-24 (UN3556/3557/3558); สืบค้นเมื่อ พ.ศ. UN3171 การเปลี่ยนมรดกสิ้นสุดลง, SP961/SP962 เส้นทาง UN38.3 และเอกสาร SDS และ parending language-title.
+- ~ที่อยู่ URL ที่ถูกย่อ: / guides/ev-sing- un3171-imdg-compliance/ ~
+- ** H1 **: พาหนะที่นําร่องโดยทะเล: หมวดหมู่ อันตรายในปัจจุบัน เอกสารการจองและเส้นสีแดง
+- ~จดหมายสําคัญ ~: พาหนะไฟฟ้าทะเล ส่งเอกสาร un3556 Imdeg 42-24 ~
+- ~การค้นหาตามวาระที่: ~ UN3556 รถบัสลิเทียมไอออน (Monium ion) UN3557 รถโลหะลิเทียม (Monteine Model) UN3558 รถโซเดียมไอออน (Sidium ion) ความเปลี่ยนแปลงของ UN3171  SP961 SP962 vehicle, ห้องเรียน 9 ตรา 9A UN38.3 สรุปการทดสอบ การขนส่งรถไฟฟ้าของ SDS การใช้งาน SOC จําเป็น
+- ** ลิงก์ภายใน ***. guides/vive-sing- un3556-imdg-compliance/; / guides/china-weetleps-excorts-excustics-documents/; / Guides/Vider-Velcing-slain-slain-process-protion-ps/;/felcys/dolfin/dolphin - phin
+- ~คําแนะนําการบันทึก ~: แผนภาพตัวเลข/ คลาสของUNC; SP961-vs-SP962 การไหลของการตัดสินใจ การจองบันทึกห่วงโซ่เอกสาร; รุ่น 9 / ป้าย 9A ป้าย
+- ~~~~~~~~~ คําแนะนํา: "UN3556 IMDG 42-24 Class 9 electric vehicle shipping"; "เอกสารการจัดส่ง "SEII"
+## เริ่ม ที่ นี่: เครื่อง บิน ไอ วี ทั้ง ลํา เป็น สินค้า อันตราย และ เครื่อง บิน ที่ เปลี่ยน แปลง ใน ปี 42-24
+พาหนะที่สมบูรณ์และสร้างจากโรงงาน ก็ยังคงเป็นสินค้าอันตรายสําหรับการขนส่งทะเล ภายใต้ระบบ AMDG มาตรา 42-24 (2024 ฉบับ) บังคับใช้จาก 1 January 2026 พาหนะพลังงานแบตเตอรี่จะถูกแยกเป็นรายการที่อุทิศตนแทนการลดลง ภายใต้หมายเลขหนึ่งผ้าห่ม: เหตุการณ์ที่เกิดขึ้นใน ค.ศ.
+- UN3556 — รถลาก แบตเตอรี-บาติเออรี่-พาวเวอร์ (คดี BEV หรือเครื่องตรวจจับไฟฟ้าที่มีแบตเตอรีไนเต็ด)
+- UN3557 — รถ, เชื้อเพลิง, เชื้อเพลิง-พลังงาน-พลังงาน-
+- UN3558 — รถโซเดียม-บาทีเรีย พลัง-พลังงาน-
+นั่งใน ~ คราส 9 ~ The older blanket **UN3171 ("battery-powered vehicle/equipment") sea transition ended on 31 December 2025**; อย่าสร้างหนังสือ 2026 เล่ม ลงบนรถลิเทียม UN3171 คัน สําหรับเมทริกซ์การจําแนกประเภทเต็มรูปแบบ  and  รายการงานไม้หลวม (UN3480/UN3481) ดูคู่มือคู่สมรส [Shapped EV ภายใต้ IMDG 42-24: ไมโครเซชันเมทริกต์ (///ไกด์/ดับเบิลยู- un3556-imdg-compliance/); หน้านี้เน้นที่ ~ สิ่งที่ expresser/cariers ต้องการในการจอง และสิ่งที่ทําให้แฟ้มจองได้ ~.
+## ทางเดินสองเส้น SP961 vs SP962
+อุปทานพิเศษที่ขับเคลื่อนทั้งการเก็บและเอกสาร
+- ** SP961 ** ใช้ที่ที่รถถูกโหลด ** บรรจุ ดําเนินการ และบรรจุลงใต้อํานาจของมันเอง ~ (เส้นทางโรโรโรฟอร์ม) และตรงกับเงื่อนไขที่ระบุไว้ มันดําเนินการบรรเทาความเจ็บหนักที่ระบุไว้
+- **. SP962 ** ใช้กับเส้นทางของ </ November/not-frivn-wrvning ~ ซึ่งถูกมองว่าเป็นเส้นทางเต็มรุ่น 9: enward: offices (DGD) ~, ~ A*, จําเป็นต้องฝึกฝนและ ~Clas 9 / ป้ายชื่อ 9A*. กําหนดการเส้นทาง
+ทิศทางไหนที่คุณอยู่ตัดสินใจโดย ~ วิธีที่หน่วยนี้เคลื่อนตัวจริง -- ไม่ใช่ตามชอบ — พาหนะที่วางผังสําหรับส่งออกคอนเทนเนอร์ ไม่สามารถเรียกร้องการบรรเทาอัตโนมัติได้
+## เอกสาร นั้น วาง หนังสือ ไว้
+1. **UN38.3 test summary / report** covering **both the cells  and  แบตเตอรี่แพค/โมดยูล์ เคสเดียวของเซลล์ ไม่เพียงพอสําหรับแพ็ค โปรด สังเกต การ ปรับ ปรุง แก้ไข ที่ คุณ รับ ไว้ ใน ขณะ นี้.
+2. ** PDS/MSDS (GHS)* ระบุรายการยูเอ็นที่ถูกต้อง (UN3556 สําหรับรถลิเทนเมนต์), รุ่น 9 และตารางเอ็มเอส (MES) -- ปรับปรุงเอกสารเก่าใดๆ ที่ยังมีชื่อแค่ UN3171.
+3. ~สัญญาชําระหนี้และบันทึกการให้บริการ~ ~ถึง 42-24 ~มาตรฐาน (ขอแสดงบนเส้นทาง SP962).
+4. ~การตัดสินใจเรื่องงานไม้ที่ล้มเหลว/งานบาทีเรีย~ แบตเตอรี่สํารองหรือหลวมลิเทียมย้ายภายใต้ < UN3480/UN3481 ** ไม่ใช่ UN3556 และต้องการเส้นทางบรรจุแพ็คเกจ/เอกสารของตนเอง (รวมถึงใบรับรองการบรรจุพัสดุที่อันตราย ซึ่งใช้ได้). การบรรเทาเนื้อลูกวัวทั้งหมด ไม่เคยครอบคลุมสํารองที่ แพ็คที่ด้านข้าง
+5. ~ หน่วยงานย่อย/ ปกปิด หรือเรียกคืน ' หน่วยงาน' เป็นคดีแยก: พวกมันต้องการการอนุมัติจากผู้ส่งสินค้าด่วน~ บ่อยครั้งที่ไม่สามารถดําเนินการได้ตามเงื่อนไขทั่วไป และต้องไม่มีการกําหนดค่าเป็นสินค้าธรรมดา UN3556
+## รุ่นและเวลา (ระบุเหล่านี้ทุกแฟ้ม)
+- ** การแก้ไขอัตโนมัติ: ** IMDG **42-24 (2024 Edition), บังคับใช้จาก 2026-01-01 ~ ระบุว่าการแก้ไขในการจองแทนการถือต้นแบบเก่าของ
+- ** UN38.3 รุ่น: ** ได้รับการยืนยันการแก้ไขบรรทัดและปลายทางของคุณ (ความไวต่อเวลา).
+- ~ จําเป็นต้องเคลื่อนย้ายของจีนข้าง ๆ: ~ ยืนยันข้อความอย่างเป็นทางการในปัจจุบัน และวิธีการใช้ใน ** พาหนะที่เสียแบตเตอรี * แทนการอ้างถึงบทความที่ปฏิบัติตาม 2025 เป็นกฎหมายที่ตกลงแล้ว
+## ชั้นชั้น Carir-Secortific (รหัสเป็นพื้นไม่เคยเพดาน)
+ผู้ส่งรายชื่อประกาศที่ปรึกษา 42-24 ของพวกเขาเอง ตัวอย่างเช่น... ที่ปรึกษาลูกค้า Maersk เรื่องมาตรา 42-24 ** ยืนยันว่า 2026-01-01 applicition, ทางเข้า UN3556 และรายการ SP962 โพสต์บอร์ด/แท็กเปลี่ยนแปลง. บนโค๊ด, บรรทัดที่มักตั้งค่า, prote และ เทอร์มินัล:
+- สูงสุด ~ ค่าใช้จ่ายสูงสุด (SOC)**  and  evidence of the 12 V/traction system state;
+- หรือแค่อยู่ในตู้คอนเทนเนอร์เท่านั้น # และเงื่อนไขการยอมรับในระยะยาว #
+- ไฟร์วอทช์/สทรอว์ชัน และคําสั่งที่ขาดไป และ...
+นี่คือ ~Carriy-และเส้นทางที่ระบุและเวลา-ความไว -- เข้าถึงชื่อพาหะที่ในปัจจุบันชื่อการยอมรับที่ดีอันตรายในการเขียนสําหรับคู่พอร์ตที่แน่นอน ก่อนที่จะสัญญาแล่นเรือ; ไม่ได้ทั่วไปเงื่อนไขสายหนึ่งไปยังอื่น
+## สิ่ง ที่ ชี้ นํา นี้ แนะ คุณ ให้ เตรียม ตัว ก่อน จะ ทํา การ จด บันทึก
+- เซลล์ ** และ*แพ็ค UN38.3 (รับการแก้ไขเพิ่มเติม) บวกกับ SDS ตั้งชื่อใหม่ ** UN3556 / รุ่น 9 / เอ็มเอส* โดยมีเอกสารที่เป็นมรดก UN3171 ฉบับใหม่
+- A เขียน ** SP961 (เครื่องขับขี่) vs SP962 (พาเนล) ~ การตัดสินใจที่ตรงกับการเคลื่อนไหวจริง; DGD และป้าย 9A พร้อมสําหรับ SP962.
+- ล้าง ~ ติดตั้ง vs หลวมแบตเตอรี่ ~ แบ่งด้วยเส้นทาง UN3480/UN3481 สําหรับสํารอง
+- ~ ผู้ให้บริการปัจจุบันชื่อ SOC/Stowage/ Ruet/terminal language ~ สําหรับคู่พอร์ตที่ระบุไว้ อนุมัติก่อนส่ง
+- A-damage/screens (ไม่มีไฟเตือน ไม่มีผลกระทบ/ประวัติการโทร/การโทร) ป้อนข้อมูลเข้าไปในเครื่อง PSI ดูที่คู่มือการตรวจสอบก่อนการรับราชการ
+## คํา ถาม ที่ มัก จะ ถาม บ่อย ๆ
+**What UN number is a lithium-ion electric car shipped under now?** Under IMDG 42-24 (mandatory 2026-01-01) it is **UN3556** (lith-ion-battery-powered vehicle), ห้อง 9 UN3557 เป็นธาตุลิเธียม และ UN3558 โซเดียม-ไอออน (พ.ศ. ผ้า ห่ม เก่า UN3171 การ เปลี่ยน แปลง ทาง ทะเล สิ้น สุด ลง 31 ธันวาคม 2025.
+** ความแตกต่างระหว่าง SP961 ถึง SP962* SP961 ครอบคลุมเส้นทางขับเคลื่อนด้วยตนเอง/อํานาจตัวเอง ด้วยเส้นทางการบรรเทาทุกข์ที่เจาะจง SP962ครอบคลุมเส้นทางบังคับบังคับบังคับบังคับบังคับบังคับบังคับตัวเองเป็นเต็ม 9 (DGD, DRD, A, แท็ก 9A และการฝึก)  พ.ศ. การย้ายจริงตัดสินว่าใช้อันไหน
+~ อีวีต้องการกล่องที่อันตรายหรือเปล่า~ รถที่สมบูรณ์สมบูรณ์ไม่สมบูรณ์ ลังเช่นเซลล์หลวม แต่เฉพาะบนเส้นทางการจัดอันดับพิเศษ; แบตเตอรี่หลวม/ sport ตาม UN3480/UN3481 ด้วยบรรจุของและเอกสารของตัวเอง
+**Is a cell-level UN38.3 report enough?** No — both the cells  and  แพ็ค/โมดอลล์ต้องครอบคลุม
+♪ สามารถเสียหายหรือเรียกคืนเรือ EV ปกติ? ♪ ไม่ – ความเสียหาย/ หน่วยงาน เรียกค่าอนุมัติของบริการ โดยตรง และมักถูกปฏิเสธ ไม่เคยปลอมตัวเป็นมาตรฐาน UN3556 สินค้า
+## บันทึกรูปภาพ
+- _ปราสาท: ไม่มีความปลอดภัยในคลังเก็บ
+- ส่วนตัว_ปลายทาง: ไม่ได้จับ
+- ผู้โดยสาร: ไม่ถูกจับ
+- HOURS_ PDFAGE: ไม่มีผล — ไม่มีชื่อแฟ้มสําหรับเลือกสื่อ (ไม่มีใบรับรองที่จะยืนยัน)
+- ลิขสิทธิ์: ไม่ยืนยัน
+- LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
+- _กําหนดวันที่: 2026-09-06
+- MERCUL_ TOPIC_ MATCH: ต้องตรงกับรุ่น/ การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
+- CHAR_SCPE_NOTE: ตรงกับโมเดลที่เป๊ะของครอบครัว/ topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
+- March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
+- BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
+- ALT ด้วยภาษา:
   - **EN**: AutoBridge export-buyer reference — Shipping an electric vehicle by sea (IMDG), vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Shipping an electric vehicle by sea (IMDG), guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Shipping an electric vehicle by sea (IMDG), Leitfaden für Fahrzeugexport-Einkauf
@@ -71,22 +74,22 @@ These are **carrier- and route-specific and time-sensitive** — obtain the name
   - **AR**: مرجع AutoBridge لمشتري التصدير — Shipping an electric vehicle by sea (IMDG), دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Shipping an electric vehicle by sea (IMDG), 汽车出口采购指南
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## ต้นฉบับและการตรวจสอบสิทธิ์
+| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| IMDG Code (2024 Records). Amendment 42-24), official publication page | International Maritime Organization (IMO) | Global | https://www.imo.org/en/publications/pages/imdg%20code.aspx | 2026-09-05 | VERIFIED | Current edition/amendment and mandatory-from date; Class 9 framework |
-| Customer Advisory — Regulatory Changes, IMDG Code Amendment 42-24 | Maersk (named ocean carrier) | Global | https://www.maersk.com.cn/~/media_sc9/maersk/local-information/files/asia-pacific/japan/export/advisory---others-and-document/maersk-customer-advisory-regulatory-changes-imdg-code-amendment-42-24-japanese.pdf | 2026-09-05 | ROOS_ CHCKED | Perger- expression: application from 2026-01-01; UN3556 ession; SP962 Project/ translate |
-| Guidance — UN3556 (ADR/RID 2025, IMDG Amdt 42-24): classification, SP388/666/961/962, UN38.3 | SäkerhetsRådgivarna (DG safety adviser) | Global | https://sakerhetsradgivarna.se/farligt-gods/guide/un-3556-adr-rid-imdg | 2026-09-05 | ROOS_ CHCKED | UN3556 Class 9/label 9A; UN3171 sea transition to 2025-12-31; SP961 self-driven vs SP962 container paths |
-| Shipping Vehicles Under IMDG Amendment 42-24 (ebook): UN3556/3557/3558 vs legacy UN3171 | IMDG Code Compliance Centre / Shashi Kallada | Global | https://shashikallada.com/wp-content/uploads/2026/07/Ebook-Shipping-Vehicles-Under-IMDG-Code-Amendment-42-24.pdf | 2026-09-05 | ROOS_ CHCKED | UN3557 lithium-metal and UN3558 sodium-ion entries; distinction from UN3171 |
-| Dangerous Goods on China–UAE Routes 2026: IMDG booking checklist | Shenzhen Top Way International Forwarding | CN–UAE route | https://www.topwayshipping.com/dangerous-goods-on-china-uae-routes-2026-imdg-compliance-checklist-before-you-load/ | 2026-09-05 | SINGLE_SOURCE | Route/carrier booking-stage application; SOC/ documentation (instative, not lobal) |
-| Lithium-battery export documents (UN38.3/SDS/packaging cert) | Dingzhou News | CN | https://www.dzxww.cn/article/293251787800392.shtml | 2026-09-03 | SINGLE_SOURCE | UN38.3 cell+pack, SDS, loose-battery certificate context |
-| New-energy export customs risk (China 2025 lithium rule) | Sohu compliance analysis | CN | https://m.sohu.com/a/1025837015_100159475/ | 2026-09-03 | SINGLE_SOURCE | China-side lithium transport requirement (single-source; confirm official text) |
-*Scope note: the current amendment, UN3556/3557/3558 split and SP961/SP962 structure are anchored to the IMO publication and 42-24 carrier/DG-adviser material; carrier SOC levels, terminal acceptance and China-side rule application are carrier-/route-specific and time-sensitive — confirm the named carrier's current terms and the official text for every booking.*
-## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market / scope**: Global ocean dangerous-goods compliance, current IMDG 42-24; China-side rule flagged separately; carrier terms named and route-scoped
-- **Verification method**: Primary IMO publication + named-carrier advisory + DG-specialist cross-check; time-sensitive and carrier-specific items isolated; companion classification guide cross-linked to avoid cannibalisation
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
+| ISDG Code (2024 เว็บ เว็บ เว็บ อินเตอร์ลิเคชัน 42-24) หน้าหนังสืออย่างเป็นทางการ พ.ศ. | องค์กรมาริไทม์ระหว่างประเทศ (IMO) | สากล | https://www.imo.org/en/publications/pages/imdg%20code.aspx | 2026-09-05 | เปิดใช้งาน | พิมพ์/ ปรับปรุงปัจจุบัน และกําหนดวันจากวันที่; กรอบรุ่น 9 |
+| คํา แนะ นํา ของ ผู้ ซื้อ — การ เปลี่ยน แปลง ทาง การ แพทย์, การ ปรับ ปรุง แก้ไข รหัส ไอ เอ็ม ดี จี 42-24 | เมียร์ก (ชื่อเรือบรรทุกน้ําทะเล) | สากล | https://www.maersk.com.cn/~/media_sc9/maersk/local-information/files/asia-pacific/japan/export/advisory---others-and-document/maersk-customer-advisory-regulatory-changes-imdg-code-amendment-42-24-japanese.pdf | 2026-09-05 | ROOS_ CHCKED | Carir- ident: application from 2026-01-01 application; UN3556 language; SP962 Protograph/ translate เปลี่ยนแปลง |
+| ทิศทาง — UN3556 (ADR/RID 2025, IMDG amdt 42-24): จําแนกประเภท, SP388/666/961/962, UN38.3 | ชะงัด Richidivarina (ที่ปรึกษาความปลอดภัยดีจี). | สากล | https://sakerhetsradgivarna.se/farligt-gods/guide/un-3556-adr-rid-imdg | 2026-09-05 | ROOS_ CHCKED | UN3556 Legar 9/label 9A; UN3171 เปลี่ยนแปลงเส้นทางทะเลเป็น 2025-12-31; SP961 ขับเครื่องบังคับตัวเอง vs SP962 เส้นทางตู้คอนเทนเนอร์ |
+| การขนส่งภายใต้ ISDG มาตรา 42-24 (หนังสือ: UN3556/3557/3558 vs มรดก UN3171 | โค้ด Code Complex Center / ชาชี คาลาดา | สากล | https://shashikallada.com/wp-content/uploads/2026/07/Ebook-Shipping-Vehicles-Under-IMDG-Code-Amendment-42-24.pdf | 2026-09-05 | ROOS_ CHCKED | UN3557 ลิมเปียนเมทัล และ UN3558 โซเดียม; แบ่งแยกจาก UN3171 |
+| สินค้าอันตรายในประเทศจีน เส้น ทาง 2026: รายการจองหนังสือ IMDG | เฉินเชน ท็อปเวย์อินเตอร์เนชันแนล ส่งต่อ | เส้นทาง CN-UAE | https://www.topwayshipping.com/dangerous-goods-on-china-uae-routes-2026-imdg-compliance-checklist-before-you-load/ | 2026-09-05 | ผู้โดยสาร_ปลายทาง | พาธ/ แครี โปรแกรมจองหน้า; OSC/ documentation (ไม่สากล) |
+| เอกสารส่งออกของลิเทียมบาตินา (UN38.3/SDS/packaging Curt) | ดิงโจว News | CN | https://www.dzxww.cn/article/293251787800392.shtml | 2026-09-03 | ผู้โดยสาร_ปลายทาง | UN38.3 แพ็คเซลล์+แพ็ค, SDS, ใบรับรองการวางจําหน่ายแบบหลวม |
+| ความเสี่ยงของการส่งออกใหม่ (กฎของชินา 2025 ไมโครนีเซียม) | การวิเคราะห์การปฏิบัติตามของโซฮู | CN | https://m.sohu.com/a/1025837015_100159475/ | 2026-09-03 | ผู้โดยสาร_ปลายทาง | จําเป็นต้องขนส่งแบบลิเทียมจากจีน (Single-sources; ยืนยันข้อความอย่างเป็นทางการ) |
+*สโคป หมายเหตุ: โครงสร้างปัจจุบันคือ มาตรา UN3556/3557/3558 ชิ้นส่วนและโครงสร้าง SP961/SP962 ถูกฝังไว้กับ ISM ตีพิมพ์และวัสดุบรรทุกสินค้า 42-24 พาหนะ/ดีจี-ดีพีอีสเลเวล SOซี เข้าสู่ระบบการรับส่งสินค้า และโปรแกรมควบคุมการรับสมัครและด้านการปกครองจีน เป็นตัวดําเนินการ/แบ่งเวลา และเวลาที่สั้นกว่า -- ยืนยันว่าเป็นเงื่อนไขปัจจุบันของบริการและข้อความอย่างเป็นทางการสําหรับทุกหนังสือ *
+## การทบทวนแก้ไข
+- ~Uuthor/ retrieved~: [บีดริดจ์ ส่งออกทีมแก้ไข] (/ ผู้เขียน/) วิธี [แก้ไข] ของเรา [นโยบายการเลือ [/ การแก้ไข- policy/]
+- ~ถูกตรวจสอบแล้ว~: 2026-09-05
+- ~ ตลาด/ ขอบเขตการบริโภค ~: มหาสมุทรโลก อันตรายการปฏิบัติตาม, ISDG ปัจจุบัน 42-24; กฎจีน-ด้านที่ทําเครื่องหมายแยก; เทอมดําเนินการชื่อและเส้นทางที่
+- ~ วิธีการสร้างโปรแกรม~: หลัก IOMO ตีพิมพ์ + ชื่อที่ปรึกษาชื่อ DG-พิเศษตรวจสอบ etwest-check; เวลาและค่าเฉพาะของสินค้าแยกต่าง ๆ; แนวทางการจําแนกคู่มิตร เชื่อมโยงเพื่อหลีกเลี่ยงการกินคน
+- ~มาตรฐานการแบ่งส่วน ~: Research and med from the source address address (Desk Research; ไม่มีการขับรถมือหนึ่ง, runchown หรือนําเข้า). ความมั่นใจของแหล่งแสดงต่อแถว; จุดใด ๆ ที่เราไม่สามารถยืนยันได้ด้วยตัวเอง ถูกนําเสนอเป็นรายการตรวจสอบแทนการยืนยันว่าเป็นความจริง
+- การร่างแบบ AI-assisted ถูกใช้ บทความนี้ตั้งอยู่บนพื้นฐานของงานวิจัยในตาราง และอัตโนมัติ QA ไม่มีการอ้างอิงการทดสอบก่อน จนกว่าจะมีการระบุรายละเอียดอย่างชัดเจน ยืนยันความต้องการที่ต้องใช้เวลาและกําหนดปลายทาง ก่อนทําการข้ามเวลา
 #AutoBridge #EVShipping #IMDG4224 #UN3556 #ExportCompliance

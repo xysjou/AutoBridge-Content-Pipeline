@@ -1,77 +1,80 @@
-# JAC T9 Hunter (悍途): a Diesel Mid-Size Pickup — Bed, Payload, Drivetrain and Export Checks
+# JAC T9ハンター(悍途):ディーゼル中規模ピックアップ - ベッド、ペイロード、ドライブトレイン、輸出チェック
 
-## SEO Metadata
-- **SEO Title**: JAC T9 Hunter Diesel Pickup Specs & Export Guide (Bed, 4WD)
-- **Meta Description**: JAC T9 Hunter / Hantu diesel pickup — standard and long beds, 2.0T diesel with ZF 8AT, BorgWarner part-time 4WD, export 3500 kg towing vs China-rated 1000 kg payload kept market-specific, with exporter verification.
-- **Suggested URL**: /vehicles/jac-t9-hunter/
-- **H1**: JAC T9 Hunter: Diesel Pickup Specs (Bed, Payload, Drivetrain, Chassis) for Export Buyers
-- **Primary Keyword**: jac t9 hunter pickup specs export
-- **Secondary Search Terms**: JAC T9 Hunter diesel, JAC Hantu pickup, T9 8AT 4x4, JAC pickup payload towing, Chinese diesel pickup export
-- **Internal Link Suggestions**: /guides/vehicle-export-hs-code-classification/;; /guides/vin-nameplate-verification-chinese-vehicles/;; /guides/emission-fuel-compatibility-china-vehicles/
-- **Image Suggestions**: T9 Hunter side with bed; cargo bed dimensions; 4WD selector 2H/4H/4L; rear diff lock; chassis frame
-- **ALT Suggestions**: "JAC T9 Hunter diesel 4x4 pickup"; "T9 Hunter standard vs long bed dimensions"
+## ツイート メタデータ
+- **SEOのタイトル**:JAC T9ハンターのディーゼル積み込みのSpecs及び輸出ガイド(ベッド、4WD)
+- **メタ 記述**: JAC T9ハンター/Hantuのディーゼル ピックアップ — 標準および長いベッド、ZF 8ATの2.0Tディーゼル、BorgWarnerのパートタイム4WDの輸出3500 kgの牽引の対の中国評価される1000 kgのペイロードは輸出者の確認と市場固有の保たれました。
+- **混雑URL**: /vehicles/jac- t9-hunter/
+- H1 **: JAC T9ハンター: ディーゼルピックアップ仕様(Bed、ペイロード、ドライブトレイン、Chassis)輸出バイヤー
+- **主なキーワード**:jac t9ハンターピックアップ仕様輸出
+- **二次検索条件**:JAC T9 ハンターのディーゼル、JAC Hantuの積み込み、T9 8AT 4x4のJACの積み込みの積み込みの牽引、中国のディーゼル ピックアップの輸出
+- **内部リンク提案**: /guides/vehicle-export-hs-code-classification/; /guides/vin-nameplate-verification-chinese-vehicles/; /guides/emission-fuel-compatibility-china-vehicles/
+- **画像の提案**:T9 ハンターの側面ベッド;貨物ベッド次元;4WDセレクター2H/4H/4L;後部差分ロック;シャーシ フレーム
+- **ALT 提案**:「JAC T9」 ハンターディーゼル4x4ピックアップ「T9 ハンター規格対ロングベッド寸法」
 
-## Buyer Context: Pickup Decisions Start With the Bed and the Drivetrain
-For a pickup the exporter's first questions are bed length, payload, four-wheel-drive layout and chassis — not infotainment. The T9 Hunter is JAC's mid-size diesel pickup; in China it is marketed as the **Hantu (悍途)**. The identity is settled by **two JAC-owned official sites** — the export site (jacen, name "T9") and the Chinese pickup site (pickup.jac, name "悍途/Hantu") — which satisfy MODEL_ALIAS_REQUIRES_OEM_PROOF: the **final identity determination is SAME_MODEL** for the product family. Identity and per-market configuration are judged independently, so every figure below still carries its market and confidence label.
+## バイヤーのコンテキスト:ピックアップの決定はベッドとドライブトレインから始まります
+輸出業者のファースト質問は、ベッドの長さ、ペイロード、四輪駆動レイアウト、およびシャシです。 T9ハンターはJACの中型のディーゼル ピックアップです; 中国の**Hantu(悍途)**として販売されています。 The identity is settled by **two JAC-owned official sites** — the export site (jacen, 名称「T9」  and  中国のピックアップサイト(pickup.jac) 名称 ”悍途 /Hantu” — 満足 モデル_ALIAS_REQUIRES_OEM_PROOF: ※最終本人確認は、商品ファミリーのSAME_MODEL**です。 アイデンティティと市場ごとの構成は独立して判断されるので、下図の全ての図は依然として市場と自信のラベルを運びます。
 
-## Chassis and Wheelbase: Standard vs Long
-| Item | Standard wheelbase | Long wheelbase |
+## シャーシとホイールベース:標準対ロング
+| アイテム | 標準的なホイールベース | ロングホイールベース |
 |---|---|---|
-| Overall length | **5330 mm** | **5620 mm** |
-| Width / height | 1965 / 1920 mm | 1965 / 1920 mm |
-| Wheelbase | **3110 mm** | **3400 mm** |
-| Standard bed (L×W×H) | **1520 × 1590 × 470 mm** | longer bed on the 3400 mm chassis |
-The standard-wheelbase dimensions are cross-checked between the JAC export OEM site and a Chinese structured source; the long-wheelbase figures are cross-checked across two Chinese sources. Bed length is the clearest way to tell the two chassis apart; record wheelbase and bed internal dimensions against the VIN.
+| 全長 | **5330 mm** | **5620 mm** |
+| 幅/高さ | 1965 / 1920 mm | 1965 / 1920 mm |
+| ホイールベース | **3110 mm** | **3400 mm** |
+| スタンダードベッド(L×W×H) | **1520 × 1590 × 470 mm** | 3400 mm のシャーシの長いベッド |
+標準的なホイールベース寸法は、JAC輸出OEMサイトと中国構造のソース間で交差チェックされます。 the long-wheelbase figures are cross-checked across two Chinese sources. ベッドの長さは、別々のシャーシを指示するための最も明確な方法です。 VINに対するホイールベースとベッド内部寸法を記録します。
 
-## Powertrain (diesel focus: engine, gearbox, fuel, emission)
-| Item | T9 Hunter diesel — Chinese-market reference |
+## パワートレイン(ディーゼルフォーカス:エンジン、ギアボックス、燃料、排出)
+| アイテム | T9 Hunter diesel — Chinese-market reference |
 |---|---|
-| Engine | 2.0T inline-4 turbo diesel |
-| Power / torque | **125 kW / 410 N·m** |
-| Gearbox | **ZF 8-speed automatic (8AT)** |
-| 4WD | **BorgWarner part-time 4WD (2H/4H/4L) + rear differential lock** |
-| Fuel consumption claim | 7.6 L/100 km — **manufacturer claim**, not a measured result |
+| 油圧エンジン | 2.0Tインライン4ターボディーゼル |
+| 力/トルク | **125 kW / 410 N·m** |
+| ギアボックス | **ZF 8-speed 自動(8AT)** |
+| 4WD | **ボルグワーナーパートタイム4WD(2H/4H/4L)+リアの差動ロック* ふりがな |
+| 燃料消費量の要求 | 7.6 L / 100 km — **メーカーのクレーム**、測定結果ではない |
 
-These Chinese-market powertrain items currently rest on a **single Chinese media source alongside the export OEM site**; for the *Chinese market* they are therefore **SINGLE_SOURCE** — quote them as "**to be finalised against the manufacturer's configuration sheet (以厂商配置单终核)**", not as dual-source-verified Chinese figures. The existence of an export-OEM value does not upgrade Chinese-market confidence. Fuel/emission: diesel; confirm destination sulphur tolerance and the emission route (a China-VI calibration is not itself overseas approval).
+これら中国市場パワートレインアイテムは、現在、輸出OEMサイトと一緒に**単一中国メディアソースに残ります**。 *中国市場*のために、彼らはしたがって、**SINGLE_SOURCE** - それらが「**メーカーの構成シート(以厂商配置单终核)**に対して最終決定される」と引用し、二重のソースの検証された中国数字ではありません。 輸出OEMの価値の存在は中国市場の信任をアップグレードしません。 燃料/排出:ディーゼル; 目的地の硫黄耐性と排出経路(中国-VI 校正自体海外承認ではありません)を確認します。
 
-## Drivetrain, Towing and Payload — Market Labels Matter
-- **Part-time four-wheel drive (BorgWarner)** with **2H / 4H / 4L** and a **rear differential lock** on the documented 4x4 (Chinese-market single-source; finalise against the build sheet).
-- **Towing capacity 3500 kg is an EXPORT-market JAC factory figure (market = EXPORT)** from the export OEM site. It must **not** be written as a Chinese homologation/announcement value or as a system-wide number; braked-towing rating on the destination homologation document is what governs use abroad.
-- **Payload 1000 kg is a CHINA-market figure, VERIFIED** through the Chinese JAC pickup official site (with export-OEM support).
-- RHD availability appears on export lists, but the exact RHD supply matrix must be confirmed through an official JAC channel, not assumed.
+## ドライブトレイン、トウイング、ペイロード — マーケットラベル マット
+- **Part-time four-wheel drive (BorgWarner)** with **2H / 4H / 4L**  and  a ** 実際の差動ロック** 文書化された 4x4 (中国市場単一ソース; ビルドシートに対してファイナライズします。
+- **牽引能力3500 kgは輸出OEMの場所からの輸出市場のJACの工場図(市場=輸出)**です。 中国の同等物記/お知らせ値またはシステム全体番号として記述されていない**。 目的地の同等誌化文書に対するブレーキド・トーイングの評価は、海外での使用を規制するものです。
+- **ペイロード1000 kgは中国JACピックアップ公式サイト(輸出OEMサポート付き)を通じて中国市場図、VERIFIED**です。
+- RHD の可用性はエクスポートリストに表示されますが、正確な RHD 供給行列は、想定されていない公式の JAC チャネルで確認する必要があります。
 
-## Version and Order-Configuration Points
-1. **Chassis/bed**: standard (3110 mm) vs long (3400 mm) — bed length decides the line.
-2. **Drivetrain**: 4x4 with 2H/4H/4L and rear lock vs any 4x2 version; state explicitly.
-3. **Market label on capacity**: 3500 kg towing = EXPORT factory data; 1000 kg payload = China-rated; reconcile both with the destination rating.
-4. **Chinese powertrain confidence**: 125 kW/410 N·m/ZF 8AT/4WD are single-source for China — finalise against the manufacturer sheet.
-5. **Diesel after-treatment and fuel sulphur** per the emission/fuel-compatibility guide; **HS classification** per the export HS-code guide.
+## バージョンとオーダー設定ポイント
+1. **シャーシ/ベッド**:標準(3110 mm)と長(3400 mm) - ベッドの長さはラインを決めます。
+2. **ドライブトレイン**:2H/4H/4Lおよびリアロックと4x2バージョンの任意の4x4。 明示的に状態。
+3. **容量の市場ラベル**:3500 kg牽引=輸出工場データ;1000 kgペイロード=中国評価;目的地の評価との両方を一致させます。
+4. **中国パワートレインの自信**:125 kW / 410 N·m / ZF 8AT/4WDは、中国のための単一のソースです - 製造業者シートに仕上げます。
+5. **ディーゼル過熱および燃料硫黄** 排出/燃料適合ガイド;**HS分類** 輸出HSコードガイドあたり。
 
-## Overseas Buyer Verification Before Payment
-- VIN-to-chassis (standard/long) and bed dimensions; 4WD mode and rear-lock presence on the build sheet.
-- Treat 3500 kg towing as export factory data only; confirm rated towing/payload on the **destination** homologation.
-- Steering side (LHD/RHD) confirmed officially; emission and diesel-fuel compatibility.
-- Document set per the export document-package checklist.
+## 海外バイヤー お支払い前の検証
+- 対シャーシ(標準/長)とベッドの寸法;4WDモードとビルドシート上のリアロックの存在。
+- 3500 kg のトッピングをエクスポート工場データとしてのみ処理します。定格トウイング/ペイロードを **宛先** の均質化で確認します。
+- ステアリング側(LHD/RHD)が正式に確認; 排出およびディーゼル燃料の互換性。
+- エクスポート文書パッケージチェックリストごとに設定されたドキュメント。
 
-## Request a Current Export Quotation
-No static export price is published. Enquire with **Destination Country · Quantity · Standard/Long Bed · LHD/RHD · Destination Port · Incoterm**.
+## 現在のエクスポート見積をリクエストする
+静的輸出価格が公開されていない。 **目的地の国・数量・スタンダード/ロングベッド・LHD/RHD・デスティネーションポート・インコターム**を装備。
 
-## Frequently Asked Questions
-**What engine and gearbox does the T9 Hunter use?** A 2.0T diesel (125 kW/410 N·m) with a ZF 8-speed automatic; for the Chinese market these are single-source pending the factory configuration sheet.
-**Does it have low-range four-wheel drive?** Yes — BorgWarner part-time 4WD with 2H/4H/4L and a rear differential lock on the documented 4x4.
-**Standard or long bed?** Both: 3110 mm wheelbase/5330 mm overall or 3400 mm/5620 mm; bed length differs accordingly.
-**Is the 3500 kg towing figure a Chinese-certified value?** No — it is an export-market JAC factory figure; payload 1000 kg is the China-rated value, and destination ratings must be confirmed separately.
+## よくある質問
+**T9ハンターは、エンジンとギアボックスがどのような機能を使用していますか?** ZF 8-speed自動の2.0Tディーゼル(125 kW/410 N·m)。中国市場では、これらは工場構成シートを埋め立てるのが一元です。
+**Does it have low-range four-wheel drive?** Yes — BorgWarner part-time 4WD with 2H/4H/4L  and  文書化された4x4.の後部差動ロック
+**スタンダードまたはロングベッド?** 両方:3110 mmのホイールベース/5330 mm全体か3400 mm/5620 mm;ベッドの長さはそれに応じて異なります。
+**中国認証値3500 kgのトウイング図はありますか?** いいえ。輸出市場JAC工場の図です。ペイロード1000 kgは中国評価値であり、目的地の評価は別途確認しなければなりません。
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
-- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- ALT by language:
+## 映像の記録
+- IMAGE_ASSET_PATH:リポジトリで保護されていない
+- ORIGINAL_IMAGE_URL: キャプチャされていない
+- SOURCE_PAGE: キャプチャされていない
+- SOURCE_FILE_PAGE: 該当なし — 特定候補のメディアファイル (アサートするライセンスなし)
+- 権利_ホルダー:未確認
+- LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
+- CHECKED_DATE: 2026-09-06(税抜き)
+- MODEL_TOPIC_MATCH: 上記の正確なモデル/バージョン(またはガイドトピック)と参照市場と一致しなければなりません
+- IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
+- IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
+- ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
+- 言語によるALT:
   - **EN**: AutoBridge export-buyer reference — JAC T9 Hunter, petrol/diesel Chinese-market vehicle / pickup truck
   - **FR**: Référence AutoBridge pour acheteurs export — JAC T9 Hunter, véhicule thermique (marché chinois) / pick-up
   - **DE**: AutoBridge-Referenz für Exportkäufer — JAC T9 Hunter, Verbrenner (chinesischer Markt) / Pick-up
@@ -85,28 +88,28 @@ No static export price is published. Enquire with **Destination Country · Quant
   - **AR**: مرجع AutoBridge لمشتري التصدير — JAC T9 Hunter, مركبة بمحرك احتراق (سوق الصين) / شاحنة بيك أب
   - **ZH**: AutoBridge 出口采购参考｜JAC T9 Hunter, 中国市场燃油车 / 皮卡
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## ソースと検証
+| ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
 |---|---|---|---|---|---|---|
-| JAC T9 official specifications | JAC MOTORS export site (OEM) | EXPORT | https://jacen.jac.com.cn/t9-launch/specs.html | 2026-09-04 | VERIFIED (OEM) | SAME_MODEL identity; **3500 kg towing (EXPORT)**; std dimensions |
-| New Hantu product configuration | JAC Pickup official (OEM) | CN | https://pickup.jac.com.cn/qxht/index.html | 2026-09-04 | VERIFIED (OEM) | SAME_MODEL identity; **1000 kg payload (CHINA)** |
-| Hantu standard/long body & bed dimensions | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/6777343 | 2026-09-04 | CROSS_CHECKED | 5330/5620, wheelbase, bed |
-| Shuailing T9 filing dimensions (long bed) | PCauto | CN | http://m.pcauto.com.cn/x/2947/29474511.html | 2026-09-04 | CROSS_CHECKED | Long-bed corroboration |
-| Hantu (overseas T9) powertrain & generation | Sohu Auto | CN/Export | https://www.sohu.com/a/1068531202_122480923 | 2026-09-04 | SINGLE_SOURCE (China) | 2.0T/125/410/ZF8AT/4WD, 7.6 claim |
-| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
-| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
-| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
-| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
+| JAC T9 仕様書 | JAC MOTORSの輸出現場(OEM) | エクスポーター | 以下は、 //jacen.jac.com.cn/t9-launch/specs.html | 2026-09-04 | 検証済み(OEM) | SAME_MODEL アイデンティティ;** 3500 kg 牽引(EXPORT)**; std 次元 |
+| 新製品ハンツ製品構成 | ジャック ピックアップ 公式(OEM) | CN の | 以下は、 ................................................................................................................................ | 2026-09-04 | 検証済み(OEM) | SAME_MODEL 本人;** 1000 kg ペイロード(中国)* ふりがな |
+| Hantu標準/長いボディ及びベッド次元 | オートホーム・ケジアオ | CN の | 以下は、 //chejiahao.m.autohome.com.cn/info/6777343 | 2026-09-04 | CROSS_CHECKED(クロス) | 5330/5620、ホイールベース、ベッド |
+| 引っ越し T9 の線径(長いベッド) | PCautoの特長 | CN の | 担当: .pcauto.com.cn/x/2947/29474511.html の | 2026-09-04 | CROSS_CHECKED(クロス) | ロングベッドの腐食 |
+| ハンツ(海外 T9) パワートレイン&生成 | ソーフオート | CN/輸出 | 以下は、 //www.sohu.com/a/1068531202_122480923 の一覧 | 2026-09-04 | シングル_ソース (中国) | 2.0T/125/410/ZF8AT/4WD、7.6 クレーム |
+| ロードモーター車メーカーと製品カタログ — 公開クエリシステム | 工業情報技術省、中国情報技術省 | CN の | 以下は、 ................................................................................................................................ | 2026-09-05 | 検証済み | 注文するか、または輸出する前に製造業者、承認されたモデルおよび均質化(公告)のカタログの記入項目を確認して下さい |
+| ギガバイト16735-2019 道路車両 — 車両識別番号(VIN)要件 | SAMR全国規格全文プラットフォーム | CN の | 以下は、 //openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 のリリース | 2026-09-05 | 検証済み | バイヤーのVIN/ネームプレート検証で使用されるVIN構造とネームプレートのデータフィールド |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | 市場規制のSAMR、州政局 | CN の | 以下は、 //www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | 検証済み | ベースライン中国車安全技術条件と電流/改定タイムライン |
+| 改正XG1-2026(中国-6光車両汚染物質排出量)でGB 18352.6-2016 | エコロジー・環境省(MEE) | CN の | 以下は、 .mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html の | 2026-09-05 | 検証済み | 中国- 6 光車両排出ステージと2026 補正実装日 |
+| GB 19147の自動車ディーゼル燃料の国民の標準(低硫黄の基礎) | SAMR全国規格全文プラットフォーム | CN の | 以下は、 //openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A のリリース | 2026-09-05 | 検証済み | ディーゼル燃料グレードと硫黄ベースでエンジン/排出設計を海外に合わせる |
 
-*Confidence note: identity SAME_MODEL via dual JAC OEM sites; standard/long chassis cross-checked; Chinese powertrain is SINGLE_SOURCE (finalise against the manufacturer sheet); 3500 kg towing is EXPORT-only and never a Chinese homologation value; 1000 kg payload is China VERIFIED. RHD matrix and export price not stated.*
+*Confidence Note: 同一のJAC OEMサイト経由でのSAME_MODEL; 標準/長のシャーシは交差チェック; 中国パワートレインは、SINGLE_SOURCE(メーカーシートに対するfinalise)です。 3500 kgの牽引は輸出のみであり、中国の均質化値ではありません。 1000 kgのペイロードは中国VERIFIEDです。 RHDのマトリックスおよび輸出価格は述べていません。 ふりがな
 
-## Editorial Review
-- **Author**: AutoBridge Export Editorial Team · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: Identity CHINA+EXPORT; towing EXPORT; payload CHINA; Chinese powertrain single-source
-- **Verification method**: Dual-OEM SAME_MODEL identity; per-market confidence labels; export figures not upgraded to Chinese homologation
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+## 編集レビュー
+- **著者**: AutoBridge エクスポート 編集 チーム・方法・方法・方法・各社様 [編集ポリシー](/編集ポリシー/)
+- **最終審査**:2026-09-05
+- **参考市場**:アイデンティティ中国+輸出;輸出を牽引;中国ペイロード;中国のパワートレイン単元
+- **検証方法**: デュアルOEM SAME_MODELアイデンティティ; 市場ごとの自信ラベル; 輸出図は中国の均質にアップグレードされていない
+- **透明性**:AI-assistedドラフトが使われていました。 本記事は、デスクリサーチと自動QAをベースとしています。 明示的に文書化されていない限り、最初のテストは要求されません。 トランスフォーメーションの前に時間感度と宛先固有の要件を確認します。
+- ** 編集規格**: 上記情報源(デスクリサーチ、片手運転、涙流、輸入)から研究・執筆 ソースの自信は行ごとに示されます。 私たちが独立して確認できない点は、事実として主張するのではなく、検証項目として提示されます。
 
 **Tags**: #JACT9Hunter #DieselPickup #4x4 #SameModel #BedAndPayload

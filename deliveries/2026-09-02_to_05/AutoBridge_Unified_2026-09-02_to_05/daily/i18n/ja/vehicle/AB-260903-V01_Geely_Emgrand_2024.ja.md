@@ -1,68 +1,71 @@
-# Geely Emgrand (4th Gen) 2024: a Chinese-Market Entry Sedan Spec Sheet for Exporters
-## SEO Metadata
-- **SEO Title**: Geely Emgrand 2024 (4th Gen) Specs & Export Buyer Guide
-- **Meta Description**: Chinese-market 4th-generation Geely Emgrand 2024 — 1.5L 93 kW engine, 5MT/CVT, dimensions, the 4th-gen vs all-new 5th-gen distinction, and what importers must verify before ordering.
-- **Suggested URL**: /vehicles/geely-emgrand/
-- **H1**: Geely Emgrand 2024 (4th Generation): Chinese-Market Specs and Export Checks
-- **Primary Keyword**: geely emgrand 2024 specs export
-- **Secondary Search Terms**: Geely Emgrand 1.5L CVT, 4th generation Emgrand dimensions, Chinese entry sedan export, Geely Emgrand 93kW, Emgrand model year difference
-- **Internal Link Suggestions**: /vehicles/changan- cs75-plus/; /guides/vehicle-coc-type-approval-dosier/;; /guides/container-vehicle-loading-lashing/
-- **Image Suggestions**: front three-quarter of 4th-gen Emgrand; 5MT vs CVT drivetrain note; rear-seat and boot space; engine bay 1.5L badge
-- **ALT Suggestions**: "Geely Emgrand fourth generation 1.5L sedan"; "Emgrand 2024 dimensions and wheelbase"
+# ジーリー・エングランド(4th Gen)2024: 輸出業者向け中国市場参入セダン仕様シート
+## ツイート メタデータ
+- **SEOタイトル**: ジーリー・エングレード2024(4th Gen)仕様&輸出バイヤーガイド
+- **メタ 説明**: 中国の市場 4th-generation ジーリー・エングランド2024 — 1.5L 93 kWエンジン、5MT/CVT、寸法、4th-gen対全く新しい5th-genの区別、および輸入業者は注文する前に確認しなければなりません。
+- **混雑したURL**: /vehicles/geely-emgrand/
+- H1 **: ジーリー・エングレード 2024 (4th 世代): 中国の市場仕様と輸出チェック
+- **主なキーワード**: ジーリー・エマグランド2024の仕様の輸出
+- **二次検索条件**: ジーリー・エングレード1.5L CVT、4th世代 刻まれた次元、中国の記入項目の輸出、Geely Emgrand 93kWのEmgrandモデル年相違
+- **内部リンク提案**: /vehicles/changan- cs75-plus/; /guides/vehicle-coc-type-approval-dosier/; /guides/container-vehicle-loading-lashing/
+- **イメージ提案**: front three-quarter of 4th-gen Emgrand; 5MT対CVTドライブトレントノート; 後部座席およびブーツ スペース; エンジンベイ 1.5L バッジ
+- アルト 提案**: "Geely Emgrand fourth generation 1.5L sedan"; 「Emgrand 2024の寸法とホイールベース」
 
-## Buyer Context: Pin the Generation Before You Pin the Price
-The Emgrand is Geely's high-volume compact saloon and a natural candidate for price-sensitive entry-car markets. The trap for an importer is generational: this page covers the **4th-generation 2024 Chinese-market car (REFERENCE MARKET: CHINA)**, while an **all-new 5th generation launched in China in November 2025** with a longer body, longer wheelbase and a lower starting price. Quoting a 2024 unit against 5th-gen dimensions — or vice versa — is the single most common order error on this nameplate. Treat every figure below as a **Chinese-market reference specification**; destination-market engine tune, emission stage and equipment are governed by the local homologation, not by this sheet.
+## バイヤーのコンテキスト: 値にピンする前に生成をピン留め
+エムグレインは、高ボリュームのコンパクトサロンと価格感度エントリーカー市場のための自然な候補です。 輸入業者のトラップは世代別です。 このページは** 4th-generation 2024中国市場車(REFERENCE MARKET)をカバーしています。 中国の**、  while an **all-new 5th generation launched in China in November 2025** with a longer body, ホイールベース  and  より低い開始価格。 Quoting a 2024 unit against 5th-gen dimensions — or vice versa — is the single most common order error on this nameplate. ※中国市場参照仕様の下の図を扱います** 市場エンジンのチューン、排出段階および装置はこのシートによって、ローカルの均質化によって、管理されます。
 
-## Chinese-Market Variant and Driveline (ICE focus: engine, gearbox, fuel, emission)
-| Item | 4th-gen Emgrand 2024 (China reference) |
+## 中国の市場の変化とドライブライン(ICEフォーカス:エンジン、ギアボックス、燃料、排出)
+| アイテム | 4th-gen Emgrand 2024 (China reference) |
 |---|---|
-| Body style | 4-door, 5-seat saloon |
-| Engine | 1.5L naturally aspirated inline-4 petrol |
-| Max power | 93 kW (≈127 PS) |
-| Max torque | 127 N·m (single-source; confirm on the exact trim sheet) |
-| Transmission | 5-speed manual **or** CVT |
-| Drive | Front-wheel drive |
-| Fuel / note | Petrol; confirm the fuel grade and the destination emission stage (China-6 spec is not, by itself, Euro certification) |
+| ボディスタイル | 4-door、5-seat サルーン |
+| 油圧エンジン | 1.5L 自然に吸引インライン - 4 ガソリン |
+| 最高の力 | 93 kW (≈127 PS) |
+| 最高のトルク | 127 N·m(単一ソース;正確なトリムシートで確認) |
+| トランスミッション | 5-speed マニュアル **か**CVT |
+| ドライブ | フロントホイール駆動 |
+| 燃料/ノート | ガソリン;燃料グレードと目的地の排出ステージ(中国-6仕様は、それ自体、ユーロ認証によって、確認) |
 
-For an ICE car the exporter's questions concentrate on **engine code/tune, gearbox choice, fuel grade and emission stage**. A 5MT and a CVT are not interchangeable on a pro forma: fix the transmission against the VIN, and confirm whether the destination accepts the China-6 emission level or requires its own certification (see the CoC/type-approval dossier guide).
+ICE車の場合、輸出業者の質問は、**エンジンコード/チューン、ギアボックスの選択、燃料グレード、排出ステージ**に集中します。 5MT と CVT は、プロ・フォマでは変更できません。VIN に対する送信を固定し、宛先が中国- 6 の排出レベルを受け入れるか、独自の認証を必要とするかを確認します(CoC/type-approval の dossier ガイドを参照してください)。
 
-## Dimensions and Cabin
-- Length / width / height: **4638 / 1820 / 1460 mm**
-- Wheelbase: **2650 mm**
-- Seats: **5**
-These are China-reference dimensions for the 4th-gen car. The 5th-generation car is larger (reported 4815 / 1885 / 1480 mm, 2755 mm wheelbase) — do not blend the two on a spec line or in marketing material.
+## 寸法とキャビン
+- 長さ/幅/高さ:** 4638 / 1820 / 1460 mm **
+- ホイールベース: ** 2650 mm **
+- 座席: ** 5 **
+これらは、4th-gen車のための中国環境の寸法です。 The 5th-generation car is larger (reported 4815 / 1885 / 1480 mm, 2755 mm wheelbase) — do not blend the two on a spec line or in marketing material.
 
-## Model-Year Boundary (keep this visible)
-- **This page:** 4th generation, model year 2024.
-- **Newer:** 5th generation, China launch November 2025 (TIME_SENSITIVE; availability and specs change by market).
-- Recommended practice: state generation **and** model year **and** production date on the PI. A "Geely Emgrand" label alone is ambiguous across 2024–2026.
+## 年式境界(可視)
+- **このページ:** 4th 生成、モデル年 2024.
+- 新規登録: 5th の生成、  China launch November 2025 (TIME_SENSITIVE; 市場による可用性と仕様変更
+- 推奨練習: ステート生成**と**モデル年**と** PIの生産日。 ラベルだけで「Geely Emgrand」は、2024–2026.年を越えてあいまいです。
 
-## What Importers Should Verify Before Payment
-1. **Generation/year/trim** written on the PI and matched to the VIN — no mixing 4th-gen body with 5th-gen claims.
-2. **Transmission** (5MT vs CVT) and **exact power/torque** for that trim.
-3. **Emission/fuel** compatibility and the destination **type-approval/CoC** route; a Chinese certificate of conformity is a domestic document, not overseas market access.
-4. **Steering side, cluster language, infotainment region** and warranty coverage in the destination.
-5. **Loading plan** — a 4.64 m saloon typically loads efficiently in container/RoRo; confirm the actual stowage count from a load plan (see container-loading guide).
+## 支払い前に輸入業者が確認すべきこと
+1. ** PI に書かれ、VIN に一致したGeneration/year/trim** は 5th-gen の主張と 4th-gen の混合ボディ無し。
+2. **トランスミッション**(5MT対CVT)およびそのトリムの**正確な電力/トルク**。
+3. **排出/燃料**の互換性と目的地**タイプ承認/CoC**ルート;適合の中国証明書は、海外市場アクセスではなく、国内文書です。
+4. ** ステアリング側、クラスター言語、インフォテイメント領域**、および目的地の保証範囲。
+5. **積込みプラン** — 4.64 m のサルーンは、通常コンテナ/ロロで効率的にロードします。 実際の貯留回数をロードプランから確認します(コンテナ積込みガイドを参照してください)。
 
-## Request a Current Export Quotation
-No static export price is published. The roughly RMB 69,900 Chinese starting figure is a **domestic, time-sensitive reference only — not an FOB/CIF quotation**. Enquire with **Destination Country · Quantity · Trim & Transmission · LHD/RHD · Destination Port · Incoterm**.
+## 現在のエクスポート見積をリクエストする
+静的輸出価格が公開されていない。 およそRMB 69、900中国出発点は、FOB/CIFの引用語句**だけでなく、**の非日常的、時間感度参照です。 **目的地の国・数量・トリム・トランスミッション・LHD/RHD・宛先ポート・インコターム**を装備。
 
-## Frequently Asked Questions
-**Is the 2024 Emgrand the same as the newest Emgrand?** No — the 4th-generation 2024 car and the all-new 5th generation (China, Nov 2025) differ in size, wheelbase and pricing; confirm which generation a VIN belongs to.
-**Does the Emgrand come with automatic transmission?** The Chinese line offers a CVT alongside a 5-speed manual; specify which one on the order.
-**Is a China-6 car automatically Euro-certified?** No — China emission approval and destination type approval are different processes; confirm the required CoC/approval for the importing market.
-**How powerful is the 1.5L engine?** 93 kW (about 127 PS) with 127 N·m on the Chinese reference sheet; verify the exact trim.
+## よくある質問
+**2024は、最新のエングランドと同じ刻印ですか?** いいえ。4th-generation 2024車と全く新しい5th世代(中国、No. 2025)は、サイズ、ホイールベース、価格が異なります。 VINがどの世代に所属しているかを確認します。
+**エマグランドは自動伝達と来ますか。** 中国語のラインは5-speedマニュアルとCVTを提供しています。 注文時にどれかを指定します。
+**中国- 6 車は自動的にユーロ-証明しましたか。** いいえ。中国排出承認と宛先タイプ承認は異なるプロセスです。 輸入市場に必要なCoC /承認を確認してください。
+**1.5Lエンジンは、どのように強力ですか?** 93 kW(約127 PS)は、中国基準シートに127 N·m、正確なトリムを確認します。
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
-- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- ALT by language:
+## 映像の記録
+- IMAGE_ASSET_PATH:リポジトリで保護されていない
+- ORIGINAL_IMAGE_URL: キャプチャされていない
+- SOURCE_PAGE: キャプチャされていない
+- SOURCE_FILE_PAGE: 該当なし — 特定候補のメディアファイル (アサートするライセンスなし)
+- 権利_ホルダー:未確認
+- LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
+- CHECKED_DATE: 2026-09-06(税抜き)
+- MODEL_TOPIC_MATCH: 上記の正確なモデル/バージョン(またはガイドトピック)と参照市場と一致しなければなりません
+- IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
+- IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
+- ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
+- 言語によるALT:
   - **EN**: AutoBridge export-buyer reference — Geely Emgrand, petrol/diesel Chinese-market vehicle / sedan
   - **FR**: Référence AutoBridge pour acheteurs export — Geely Emgrand, véhicule thermique (marché chinois) / berline
   - **DE**: AutoBridge-Referenz für Exportkäufer — Geely Emgrand, Verbrenner (chinesischer Markt) / Limousine
@@ -76,24 +79,24 @@ No static export price is published. The roughly RMB 69,900 Chinese starting fig
   - **AR**: مرجع AutoBridge لمشتري التصدير — Geely Emgrand, مركبة بمحرك احتراق (سوق الصين) / سيدان
   - **ZH**: AutoBridge 出口采购参考｜Geely Emgrand, 中国市场燃油车 / 轿车
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## ソースと検証
+| ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
 |---|---|---|---|---|---|---|
-| 4th-gen Emgrand 1.5L CVT trim sheet | Sohu Auto database | CN | https://db.m.auto.sohu.com/trim_173890 | 2026-09-03 | CROSS_CHECKED | Dimensions, wheelbase, seats, price reference |
-| 2024 Emgrand core config (93 kW, 5MT/CVT) | Xcar / Toutiao media | CN | http://m.toutiao.com/group/7372041648991961639/ | 2026-09-03 | CROSS_CHECKED | 1.5L 93 kW, transmissions |
-| Emgrand multi-version parameter comparison | Dongchedi database | CN | https://m.dongchedi.com/auto/params-carIds-110850-110851-110852-110853-100195-87624-87498-87499-80723-60266 | 2026-09-03 | CROSS_CHECKED | Wheelbase, versions, domestic MSRP (TIME_SENSITIVE) |
-| 5th-generation Emgrand launch (generational boundary) | China Economic Net (official media) | CN | http://auto.ce.cn/auto/gundong/202511/t20251120_2592304.shtml | 2026-09-03 | TIME_SENSITIVE | 5th-gen size/wheelbase/price; distinguishes generations |
-| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
-| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
-| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
+| 4th-gen Emgrand 1.5L CVT trim sheet | Sohu Autoデータベース | CN の | 以下は、 //db.m.auto.sohu.com/ trim_173890 の | 2026-09-03 | CROSS_CHECKED(クロス) | 寸法、ホイールベース、シート、価格参照 |
+| 2024 Emgrand core config (93 kW, 5MT/CVT) | Xcar / トゥーティアオメディア | CN の | 担当: //m.toutiao.com/group/7372041648991961639/ | 2026-09-03 | CROSS_CHECKED(クロス) | 1.5L 93 kWの伝達 |
+| 複数のバージョンパラメータの比較を Emgrand | 東ケディデータベース | CN の | 以下は、 //m.dongchedi.com/auto/params-carIds-110850-110851-110852-110853-100195-87624-87498-87499-80723-60266 | 2026-09-03 | CROSS_CHECKED(クロス) | ホイールベース、バージョン、国内 MSRP(タイム・センシブ) |
+| 5th-generation Emgrand launch (generational boundary) | 中国経済 ネット(公式メディア) | CN の | 担当: //auto.ce.cn/auto/gundong/202511/t20251120_2592304.shtml の | 2026-09-03 | タイム _ センシブ | 5th-genサイズ/ホイールベース/価格; 世代を区別します |
+| ロードモーター車メーカーと製品カタログ — 公開クエリシステム | 工業情報技術省、中国情報技術省 | CN の | 以下は、 ................................................................................................................................ | 2026-09-05 | 検証済み | 注文するか、または輸出する前に製造業者、承認されたモデルおよび均質化(公告)のカタログの記入項目を確認して下さい |
+| ギガバイト16735-2019 道路車両 — 車両識別番号(VIN)要件 | SAMR全国規格全文プラットフォーム | CN の | 以下は、 //openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 のリリース | 2026-09-05 | 検証済み | バイヤーのVIN/ネームプレート検証で使用されるVIN構造とネームプレートのデータフィールド |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | 市場規制のSAMR、州政局 | CN の | 以下は、 //www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | 検証済み | ベースライン中国車安全技術条件と電流/改定タイムライン |
+| 改正XG1-2026(中国-6光車両汚染物質排出量)でGB 18352.6-2016 | エコロジー・環境省(MEE) | CN の | 以下は、 .mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html の | 2026-09-05 | 検証済み | 中国- 6 光車両排出ステージと2026 補正実装日 |
 
-*Confidence note: no OEM primary spec sheet was captured for this model; figures are cross-checked Chinese database/media values. The 127 N·m torque is single-source. Domestic price and the 5th-generation launch are time-sensitive. Destination homologation and export specs must be confirmed for the VIN.*
+※本モデルではOEMのプライマリスペックシートがキャプチャされていないため、図は中国データベース/メディアのクロスチェック値です。 127 N·mトルクは単元です。 国内価格と5th-generationの発売は時間感度が向上します。 宛先の均質化とエクスポート仕様は、VIN の仕様を確認する必要があります。 ふりがな
 
-## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: China, 4th-generation 2024 Emgrand (Chinese-market reference specification; not a global spec)
-- **Verification method**: Multi-database cross-check; generational boundary isolated; no destination extrapolation
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+## 編集レビュー
+- **著者/査読者**:【AutoBridge 輸出編集チーム】(/authors/)・方法による【編集ポリシー】(/editorial-policy/)
+- **最終審査**:2026-09-05
+- **参考市場**:中国、4th-generation 2024 彫刻(中国市場参照仕様、グローバルスペックではない)
+- **検証方法**: 多重データベースの横断面検査; 分離された世代別境界; 余分沈殿物無し
+- ** 編集規格**: 上記情報源(デスクリサーチ、片手運転、涙流、輸入)から研究・執筆 ソースの自信は行ごとに示されます。 私たちが独立して確認できない点は、事実として主張するのではなく、検証項目として提示されます。
 #AutoBridge #VehicleExport #Geely #Emgrand #PetrolSedan

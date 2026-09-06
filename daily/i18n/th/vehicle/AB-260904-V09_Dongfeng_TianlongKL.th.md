@@ -1,67 +1,70 @@
-# Dongfeng Tianlong KL (天龙KL) Heavy Tractor: Engine, Gearbox, Axle and GCW for Export
+# Dongfang Tianong KL (天龙 KL) Hivegandor: เครื่องยนต์, Bicklebox, แอ็กเซล และ GCW สําหรับส่งออก
 
-## SEO Metadata
-- **SEO Title**: Dongfeng Tianlong KL Tractor Specs & Export Guide (DDi11 465, GCW 40t)
-- **Meta Description**: Chinese-market Dongfeng Tianlong KL 6x4 tractor head — Longqing DDi11 10.8 L diesel 343 kW/2240 N·m, 14-speed (AMT option), 40 t GCW, plus the power-rating and variant checks exporters need.
-- **Suggested URL**: /vehicles/dongfeng-tianlong-kl/
-- ~ H1~: Dongfeng Tianlong KL Heavy Tractor Head: Chinese-Market Powertrain and Chassis Specs
-- **Primary Keyword**: dongfeng tianlong kl tractor specs export
-- **Secondary Search Terms**: Tian Long KL 465, DDi11E465, Dongfong 14-speed February February, Jean 6x4 Rogram, 40t GCW About
-- **Internal Link Suggestions**: /guides/vehicle-export-hs-code-classification/ ; china-Vineics/;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle icle /vehicles/jmc-shunda/
-- **Image Suggestions**: KL tractor head 6x4; DDi11 engine; 14-speed shifter/AMT; cab interior; chassis frame and fifth wheel
-- **ALT Suggestions**: "Dongfeng Tianlong KL 465 heavy tractor head"; "Tianlong KL DDi11 2240Nm 14-speed GCW 40t"
+## เชา ข้อมูลกํากับภาพ
+- < secontinuation*: Dongfang Tianong KLGOOR Specs & ไกด์ (DDi11 465, GCW 40t)
+- ""คําอธิบาย" Schan-Markets Dongfang Tianong KL 6x4 หัวรถแทรกเตอร์ — Longqing DDi11 10.8 L Design 343 kW / 2240 N·m (ค.ศ. 14-speed (ตัวเลือก AMT) 40 t จีซีดับเบิลยู (GCW) บวกพลังงาน  and  ต้องการผู้ส่งออกผู้ส่งถ่าย
+- ~ที่อยู่ URL ที่ถูกย่อ: / เวกซี่/ ดองฟัน-ลอง-เคล/
+- **H1**: ดงฟง เทียนลอง KL Heads Head: เครื่องราชอิสริยาภรณ์และเครื่องราชอิสริยาภรณ์
+- ~ คําหลัก ๆ ~: Dongfang tianong klouch สเปกต์
+- ~การค้นหาตามวาระที่: ~ Tianong KL 465 (พ.ศ. DDi11E465 (พ.ศ. กล่องเกียร์ดองเฟ็ง 14-speed ประเทศจีน 6x4 หัวรถแทรกเตอร์ ส่งออกเป็นรถบรรทุก GCW 40t
+- ~ เชื่อมโยงภายในที่แนะนํา~: / guides/ wehicial-export-h-code-sclassive/;//guides/ful-fulution-compatition-china-Vicles/;///// viohics/jc-swodda/
+- ** คําแนะนําการย้ายรถ **: KL RV เฮด 6x4 เครื่องยนต์ DDi11; 14-speed ชิฟเตอร์/AMT; แท็กซี่ภายใน; กรอบ chasis และล้อที่ห้า (พ.ศ.
+- ~~~~~~~~~ คําแนะนํา: "Dongfong Tianong KL 465 หัวรถแทรกเตอร์หนัก". "Tianlong KL DDi11 2240Nm 14-speed GCW 40t"
 
-## Buyer Context: a Tractor Head Is Specified by Powertrain Chain and Train Weight
-Heavy-truck buyers do not shop equipment lists — they specify an **engine–gearbox–axle chain matched to a gross combination weight**. The Tianlong KL is Dongfeng's China-6 heavy semi-tractor. The recurring error on this model is confusing the **rated power with the net power** figure, or blending the 465 PS tractor with the 430/520/560 PS and gas variants. This page documents the **Chinese-market DDi11E465-60 tractor (REFERENCE MARKET: CHINA)**; no OEM primary brochure was captured, so cross-checked trade values should be confirmed against the MIIT announcement.
+## คอนเท็กซ์ของบายเออร์: หัวแบบตัวหมาก ได้รับการกําหนดโดยพาวเวอร์เทรนช็องและเทรนเวท
+ผู้ซื้อที่ขายหนัก ไม่ได้ลงรายการอุปกรณ์ร้านค้า -- พวกเขาระบุสายรัดเครื่องจักร-จีอาร์-axle ที่ตรงกับน้ําหนักรวมขั้นต่ํา Tianong KL เป็นของดงเฟ็งจีน- 6 หนักกึ่งทหารราบ ความผิดพลาดที่เกิดขึ้นบนโมเดลนี้ ทําให้พลังงานที่เพิ่มขึ้นมาสับสน  or blending the 465 PS tractor with the 430/520/560 PS  and  แก๊สรั่ว หน้านี้เอกสาร ~จีน-มาร์เก็ต DDi11E465-60 รถแทรกเตอร์ (REFEREST Market: หอบ) ~ ไม่มีโบรชัวร์หลักของ OEM ถูกจับ ดังนั้น การตรวจสอบค่าการค้าข้ามการตรวจสอบ ควรได้รับการยืนยันจากการประกาศของ MIIT
 
-## Engine (heavy-truck focus: engine, gearbox, axle, GCW, cab, chassis)
-| Item | Tianlong KL 465 (China reference) |
+## เครื่องยนต์ (โฟกัสรถบังคับ: เครื่องยนต์, เกียร์, เพลา, จีซีดับเบิลยู, แท็กซี่, แชนส์)
+| รายการ | Tianong KL 465 (อ้างอิงจีน) |
 |---|---|
-| Engine | Longqing **DDi11E465-60**, inline-6 diesel, 10.8 L |
-| Rated power | **343 kW (≈465 PS)** |
-| Net power | **337 kW** — a different measurement basis, not a contradiction |
-| Peak torque | **2240 N·m @ 1100–1600 rpm** |
-| Emission | China-6 diesel |
+| กลไก | Longcing ~ DDi11E465-60 **, line- 6 Description, 10.8 L |
+| อํานาจที่มีเรต | **343 kW (≈465 PS)** |
+| พลังของเน็ต | ** 337 kW ** — ฐานวัดที่แตกต่าง ไม่ขัดกัน |
+| แรงบิดของยอด | ~ 2240 N·m @ 1100–1600 rpm~ |
+| การ ปลด ปล่อย | จีน- 6 ดีเซล |
 
-The 343 kW and 337 kW figures are **rated vs net** power on different bases; present both with their labels rather than picking one. Torque plateau (1100–1600 rpm) is what matters for hauling gradeability.
+343 kW และ 337 kW ตัวเลข มีพลังงานจากเครือข่ายที่เรียงกันบนฐานที่แตกต่างกัน นําเสนอทั้งด้วยฉลากของพวกเขาแทนการเลือกหนึ่ง ที่ ราบ ทอร์เค (1100–1600 รอบ ต่อ ปี) เป็น สิ่ง สําคัญ สําหรับ การ ทํา ให้ ระดับ ความ เป็น ไป ได้.
 
-## Gearbox, Axle and Train Weight
-- **Gearbox**: Dongfeng **DT1422 / DT14 14-speed** (Volvo-technology lineage), with an **AMT option** — state manual vs AMT on the order.
-- **Drive**: 6x4 tractor head; rear-axle ratio must be selected for the route (highway cruising vs heavy grade).
-- **GVWR (tractor alone)**: **25 t**; **curb weight about 8.8 t**.
-- **Gross combination weight (GCW) of the train**: **40 t** — the design figure for matching trailer and payload.
+## เกียร์บ็อกซ์ แอ็กเซล และรถไฟเวท
+- ~กล่อง~: Dongfeng **DT1422 / DT14 14-speed** (Volvo-technology lineage), ด้วยตัวเลือก AMT – คู่มือรัฐ vs AMT ตามลําดับ
+- เดินหน้า # 6x4 หัวรถแทรกเตอร์; ต้องเลือกสัดส่วนหลังก่อนถึงเส้นทาง (Highway vs Edictions)
+- ~GWR (ผู้บังคับการคนเดียว) ~ ~ 25 t~; ~น้ําหนักประมาณ 8.8 t ~
+- ~ น้ําหนักรวม (GCW) ของรถไฟ ~ 40 t ~ — ตัวเลขออกแบบสําหรับรถพ่วงที่เข้ากันได้และจ่ายหนัก
 
-## Variant Boundary — Do Not Blend the Line-Up
-- **This page: DDi11E465-60 (465 PS).**
-- The wider KL range also offers **430 / 520 / 560 PS** engines and **natural-gas (LNG/CNG) versions**; these are separate powertrains with different torque, fuel system and chassis specification. Quoting a gas-variant figure for the 465 diesel is an error.
-- Axle ratio, gearbox (manual/AMT) and cab (high/low roof, sleeper) are order-selected and change the delivered specification.
+## การ เกี่ยว พัน ระหว่าง ญาติ — อย่า บิด เส้น
+- ~หน้านี้: DDi11E465-60 (465 PS) ~
+- เรนจ์ KL ที่กว้างขึ้นยังเสนอ ** 430 / 520 / 560 PS ** เครื่องยนต์  and  ~ รุ่นใหม่ ๆ* นี่เป็นเครื่องขับเคลื่อนพลังงานที่แยกกัน ซึ่งมีแรงบิดที่แตกต่างกัน ระบบเชื้อเพลิงและเครื่องเร่งพลังงาน การอ้างอิงค่าของแก๊สสําหรับ 465 ดีเซลเป็นข้อผิดพลาด
+- สัดส่วน แอ็กเซล เกียร์ และ แท็กซี่ (หลังคาสูง/ต่ํา) เป็นลําดับที่ถูกเลือก และเปลี่ยนข้อกําหนดการส่งมอบ
 
-## Chassis and Cab Checks for Export
-1. **Power basis** — record rated 343 kW and net 337 kW with labels; match the 465 PS engine code to the VIN.
-2. **Transmission** — 14-speed manual vs AMT; rear-axle ratio for the intended terrain.
-3. **GCW match** — trailer and intended payload inside the 40 t train rating; fifth-wheel height and kingpin compatibility.
-4. **Diesel fuel sulphur / after-treatment** per the emission-fuel guide; China-6 diesel calibration is not itself overseas homologation.
-5. **HS classification** — tractors fall under 87.01 (per the HS-code guide), distinct from 87.04 goods vehicles and 8716 trailers; the trailer is classified separately.
+## Chasis และเช็ครถสําหรับส่งออก
+1. "Power พื้นฐาน" — สถิติ rated 343 kW และ net 337 kW ด้วยฉลาก; ตรงกับรหัสเครื่องยนต์ 465 PS ที่ VIN.
+2. ~ กรมทหาร~ — ลัดวงจร 14-speed เล่ม vs AMT; สัดส่วนด้านหลัง-axle สําหรับพื้นที่เป้าหมาย
+3. ~GCW ตรงกับ~ — รถพ่วงและตั้งใจบรรจุกระสุน ในอันดับที่ 40 t รถไฟ; สูงห้าล้อและสมบูรณภาพ.
+4. ~ กํามะถันในเชื้อเพลิง DECEL / การบําบัด ~ ต่อกับคู่มือการปล่อยก๊าซ ประเทศจีน- 6 ดีเซล ไม่ได้เป็นการแบ่งประเภทต่างประเทศ
+5. ~HSS จําแนกประเภท ~ — รถแทรกเตอร์ตกต่ํากว่า 87.01 (ผู้บังคับหน่วยย่อย PD-Code) แตกต่างจากรถสินค้า 87.04 คัน และรถพ่วง 8716 คัน; รถพ่วงแยกทางกัน
 
-## Request a Current Export Quotation
-No export price is published. Enquire with **Destination Country · Quantity · Engine Power (465) · Manual/AMT · Axle Ratio · LHD/RHD · Destination Port · Incoterm**.
+## ต้องการการอ้างถึงการส่งออกแบบปัจจุบัน
+ไม่มีการจัดพิมพ์ราคาส่งออก Enquire with **Destination Country · Quantity · Engine Power (465) · Manual/AMT · Axle Ratio · LHD/RHD · Destination Port · Incoterm**.
 
-## Frequently Asked Questions
-**Why are there two power figures (343 and 337 kW)?** 343 kW is rated power and 337 kW net power — different measurement bases for the same 465 PS engine.
-**What is the train weight?** The documented tractor is rated for a 40 t gross combination weight, with 25 t GVWR for the tractor itself.
-**Manual or automatic?** The 14-speed DT14 gearbox is offered in manual and AMT forms; specify which.
-**Are the 520/560 and gas versions the same truck?** They share the KL cab family but use different engines/fuel systems — keep them as separate specifications.
+## คํา ถาม ที่ มัก จะ ถาม บ่อย ๆ
+ทําไมมีตัวเลขสองตัว (343 และ 337 kW)? 343 kW มีอัตราพลังงานและพลังงานจากตาข่าย 337 kW เบสที่แตกต่างกันสําหรับเครื่องยนต์ขนาด 465 PS เครื่องเดียวกัน.
+♪ น้ําหนักรถไฟคืออะไร ♪ รถ แทรกเตอร์ ที่ มี เอกสาร บันทึก ไว้ มี อัตรา การ รวม น้ํา หนัก สํารอง สัดส่วน 40 t คน โดย มี เครื่อง รถ แทรกเตอร์ อยู่ 25 t คัน.
+~ผู้ชายหรือออโตเมติก ~ 14-speed DT14 กล่องเกียร์ นําเสนอในรูปแบบคู่มือและ AMT; ระบุชุดที่
+~ 520/560 และน้ํามัน รุ่นเดียวกันหรือเปล่า~ พวก เขา ร่วม วง แท็กซี่ ของ เค แอล แต่ ใช้ ระบบ เครื่อง ยนต์ หรือ ระบบ ประปา ต่าง ๆ กัน — เก็บ ไว้ เป็น ข้อ กําหนด ที่ แยก ต่าง หาก กัน.
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICNE_OR_USARIAND_BALE: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
-- RODL_TOIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- ALT by language:
+## บันทึกรูปภาพ
+- _ปราสาท: ไม่มีความปลอดภัยในคลังเก็บ
+- ส่วนตัว_ปลายทาง: ไม่ได้จับ
+- ผู้โดยสาร: ไม่ถูกจับ
+- HOURS_ PDFAGE: ไม่มีผล — ไม่มีชื่อแฟ้มสําหรับเลือกสื่อ (ไม่มีใบรับรองที่จะยืนยัน)
+- ลิขสิทธิ์: ไม่ยืนยัน
+- LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
+- _กําหนดวันที่: 2026-09-06
+- MERCUL_ TOPIC_ MATCH: ต้องตรงกับรุ่น/ การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
+- CHAR_SCPE_NOTE: ตรงกับโมเดลที่เป๊ะของครอบครัว/ topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
+- March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
+- BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
+- ALT ด้วยภาษา:
   - **EN**: AutoBridge export-buyer reference — Dongfeng Tianlong KL, petrol/diesel Chinese-market vehicle / heavy tractor truck
   - **FR**: Référence AutoBridge pour acheteurs export — Dongfeng Tianlong KL, véhicule thermique (marché chinois) / tracteur routier lourd
   - **DE**: AutoBridge-Referenz für Exportkäufer — Dongfeng Tianlong KL, Verbrenner (chinesischer Markt) / schwere Sattelzugmaschine
@@ -75,26 +78,26 @@ No export price is published. Enquire with **Destination Country · Quantity · 
   - **AR**: مرجع AutoBridge لمشتري التصدير — Dongfeng Tianlong KL, مركبة بمحرك احتراق (سوق الصين) / رأس قاطرة ثقيل
   - **ZH**: AutoBridge 出口采购参考｜Dongfeng Tianlong KL, 中国市场燃油车 / 重型牵引车
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## ต้นฉบับและการตรวจสอบสิทธิ์
+| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| Tianlong KL465 Longqing powertrain & quality | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/23626143 | 2026-09-04 | ROOS_ CHCKED | DDi11, power/torque, 14-speed |
-| Tianlong KL 465 AMT parameters | Tencent News | CN | http://news.qq.com/rain/a/20231120A0697W00 | 2026-09-04 | SINGLE_SOURCE | AMT option, torque band |
-| Tianong KL 465 Chasis & leback | 360che (Toutiao) | CN | http://m.toutiao.com/group/7342432889952895507/ | 2026-09-04 | ROOS_ CHCKED | DT1422, GVWR, out, GCW |
-| Dongfeng Tianlong power (encyclopedia cross-check) | PCauto encyclopedia | CN | http://m.pcauto.com.cn/baike/1124005/2143996/ | 2026-09-04 | SINGLE_SOURCE | Champ-basis Check cross |
-| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
-| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VERIFIED | China-VI compression-ignition (heavy diesel) emission stage for trucks/coaches |
-| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
+| เทียนลอง KL465 คุณภาพการใช้พลังงานแบบยาว | ออโต้เซจิฮาว | CN | https://chejiahao.m.autohome.com.cn/info/23626143 | 2026-09-04 | ROOS_ CHCKED | DDi11, ไฟ/ตอร์ก, 14-speed |
+| พารามิเตอร์ของ KL 465 MET | Tencent News | CN | http://news.qq.com/rain/a/20231120A0697W00 | 2026-09-04 | ผู้โดยสาร_ปลายทาง | ตัวเลือก AMT, แถบปรับเสียง |
+| Tianong KL 465 Chasis & เกียร์ | 360che (ทัฒนโญ) พ.ศ. | CN | http://m.toutiao.com/group/7342432889952895507/ | 2026-09-04 | ROOS_ CHCKED | DT1422, GVWR, out, GCW |
+| ดงเฟ็งไทอันลอง (ตรวจสอบเมื่อไซโคลนพีเดีย) | ส่วนเสริม PCauto | CN | http://m.pcauto.com.cn/baike/1124005/2143996/ | 2026-09-04 | ผู้โดยสาร_ปลายทาง | Champ-basis Check cross |
+| ผู้ ผลิต และ แคตตาล็อก ผลิตภัณฑ์ ถนน — ระบบ สอบ ถาม ของ ประชาชน |  MIT, กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูลจีน | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | เปิดใช้งาน | ตรวจสอบผู้ผลิต, โมเดลที่อนุญาต และการทําอัลบั้มแบบแบ่งประเภท (公告) ก่อนการสั่งซื้อหรือส่งออก |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน สภาวะความปลอดภัยทางเทคนิคและเวลาปัจจุบัน/การปรับปรุง |
+| GB 17691-2018 พาหนะดีเซลหนักดีเซล โพลอัลโตเลต พ่นออก (จีน-วี) | กระทรวง นิเวศ วิทยา และ สิ่ง แวด ล้อม (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | เปิดใช้งาน | จีน- วี. การบีบข้อมูล (อีดีเซล) สาธิตการปล่อยก๊าซสําหรับรถบรรทุก/โคช |
+| GB 19147 เครื่องยนต์ดีเซลมาตรฐานเชื้อเพลิงแห่งชาติ (ฐานเชื้อเพลิงต่ํา) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | เปิดใช้งาน | ระดับเชื้อเพลิงดีเซลและซัลเฟอร์พื้นฐานที่ตรงกับการออกแบบเครื่องยนต์/การให้บริการต่างประเทศ |
 
-*Confidence note: no OEM primary brochure; trade cross-checks. Rated/net power both labelled; other power and gas versions excluded. Chinese-market reference; confirm on MIIT announcement.*
+* continuation ข้อสังเกต: ไม่มีโบรชัวร์หลักโออีเอ็ม; การซื้อขายการตรวจสอบ เรต/เน็ตพลังงานทั้งสองตราหน้า; พลังงานและก๊าซรุ่นอื่น ๆ ที่ตัดออก อ้างอิงตลาดจีน ยืนยันในประกาศของ MIT *
 
-## Editorial Review
-- **Author**: AutoBridge Export Editorial Team · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: China, Tianlong KL DDi11E465-60 tractor (Chinese-market reference; rated/net labelled; not a global spec)
-- **Verification method**: Trade-database cross-check; power bases disambiguated; variant line-up separated
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+## การทบทวนแก้ไข
+- ** aultor*: AutoBridge ส่งออกวิธีการแก้ไขคําทีม (AutoBridge) ต่อ [นโยบายแก้ไข] ของเรา (/Dercial-policy/)
+- ~ถูกตรวจสอบแล้ว~: 2026-09-05
+- ~ ตลาดแห่งความอิ่มตัว ~: จีน, Tianong KL DDi11E465-60 Tail (Chinese-Market; rated/net taged; ไม่ใช่สเปกตรัม (plobal secture)
+- ** วิธีการปรับตั้ง **: trade-datatabase cross- check; ฐานพลังงาน disambiguate; seline-up section
+- การร่างแบบ AI-assisted ถูกใช้ บทความนี้ตั้งอยู่บนพื้นฐานของงานวิจัยในตาราง และอัตโนมัติ QA ไม่มีการอ้างอิงการทดสอบก่อน จนกว่าจะมีการระบุรายละเอียดอย่างชัดเจน ยืนยันความต้องการที่ต้องใช้เวลาและกําหนดปลายทาง ก่อนทําการข้ามเวลา
+- ~มาตรฐานการแบ่งส่วน ~: Research and med from the source address address (Desk Research; ไม่มีการขับรถมือหนึ่ง, runchown หรือนําเข้า). ความมั่นใจของแหล่งแสดงต่อแถว; จุดใด ๆ ที่เราไม่สามารถยืนยันได้ด้วยตัวเอง ถูกนําเสนอเป็นรายการตรวจสอบแทนการยืนยันว่าเป็นความจริง
 
 **Tags**: #DongfengTianlongKL #HeavyTractor #GCW40t #DDi11 #CommercialVehicleExport

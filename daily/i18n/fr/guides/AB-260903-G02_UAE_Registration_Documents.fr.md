@@ -18,7 +18,7 @@ La bonne commande est **douane libre d'abord, registre deuxième**:
 1. ** Dédouanement du port/douane** — présente les documents commerciaux et paie les droits de douane applicables;
 2. ** Conformité/conformité** — le véhicule devrait satisfaire aux exigences de normalisation du GCC/GSO pour procéder (note: les anciennes fonctions ESMA ont été repliées dans **MoIAT**; confirmer officiellement la route de conformité actuelle);
 3. ** Enregistrement par l'RTA** — L'acheteur ne demande à l'Autorité des routes et des transports qu'après sa libération et à la Mulkiya** (carte d'immatriculation du véhicule), qui exige l'assurance, l'inspection du véhicule et les documents d'identité.
-L'enregistrement avant dédouanement n'est pas possible; sous-préparer les documents de conformité est ce qui bloque le plus souvent l'étape 1 → 2.
+L'enregistrement avant dédouanement n'est pas possible; sous-préparer les documents de conformité est ce qui s'arrête le plus souvent étape 1 → 2.
 
 ## L'ensemble de documents d'autorisation
 Exigences déclarées (orientations à l'avance, à confirmer avec l'émirate de compensation):
@@ -32,8 +32,8 @@ Exigences déclarées (orientations à l'avance, à confirmer avec l'émirate de
 - Pour les véhicules électriques, confirmer séparément les attentes en matière de chargeur/branche et de normes; ne pas supposer que le matériel de spécification Chine satisfait aux exigences locales.
 
 ## Droits et TVA: chiffres déclarés, non fixes
-- Forwarder guides commonly cite **about 5% customs duty on CIF value (GCC common external tariff context) and about 5% VAT**.
-- Traiter les deux sous la forme de valeurs **déclarées, sensibles au temps**: le taux applicable peut dépendre du type de véhicule, de la classification du SH, de la gestion en zone libre ou continentale et des règles fédérales actuelles. **Classify the exact HS code → obtain the current customs tariff line → confirm VAT treatment on the applicable customs basis.** Do not bake 5%/5% into a customer quote as guaranteed.
+- Les guides des transitaires citent généralement ** environ 5% droits de douane sur la valeur CAF (contexte tarifaire commun extérieur de la CCG) et environ 5% TVA**.
+- Traiter les deux sous la forme de valeurs **déclarées et sensibles au temps**: le taux applicable peut dépendre du type de véhicule, du classement SH, de la manutention en zone libre ou continentale et des règles fédérales actuelles. **Classifier le code SH exact → obtenir la ligne tarifaire douanière actuelle → confirmer le traitement de la TVA sur la base douanière applicable.** Ne pas faire cuire 5% / 5% dans un devis client garanti.
 - Les Émirats arabes unis ont signalé une politique nationale en matière de VE** assortie d'incitations directionnelles (par exemple, l'enregistrement/parking et les mesures de tarification/taxe); il s'agit d'une orientation politique et d'une prise en compte du temps — confirmer officiellement la disponibilité actuelle et l'admissibilité.
 
 ## L'étape d'enregistrement de la RTA (Mulkiya)
@@ -41,14 +41,14 @@ Après la mainlevée en douane, l'acheteur s'applique à la RTA avec (déclarée
 
 ## Ce que le présent guide vous recommande de confirmer avant le paiement
 1. **Émirat d'entrée** et horaire actuel des douanes/droits de douane de cet émirat.
-2. **Exact HS code** and the **current duty/VAT line** from UAE federal customs — replace the reported 5%/5% with verified figures.
+2. **Code SH exact** et ligne **du droit/TVA actuel** des douanes fédérales des EAU – remplacer le 5%/5% déclaré par des chiffres vérifiés.
 3. ** Voie et certificat de conformité GCC/OSG** pour le modèle spécifique (et le rôle actuel du Ministère de l'intérieur).
 4. **Conformité de la facture/B/L/CO** (VIN, valeur, parties, origine).
 5. **Assurance + inspection + identité** préparation à l'étape de la RTA Mulkiya; admissibilité aux incitatifs pour les véhicules électriques, le cas échéant.
 
 ## Foire aux questions
 **Dois-je m'inscrire auprès de la RTA avant ou après les douanes?** Après — des douanes claires et satisfaire d'abord la conformité, puis appliquer à la RTA pour le Mulkiya.
-**Is UAE customs duty exactly 5%?** About 5% on CIF is widely reported, but it is time- and classification-sensitive; confirmer la ligne tarifaire fédérale actuelle pour votre code SH exact avant de citer.
+**Les droits de douane des EAU sont-ils exactement 5% ?** Environ 5% sur le CIF sont largement signalés, mais il est sensible au temps et à la classification; confirmer la ligne tarifaire fédérale actuelle pour votre code SH exact avant de citer.
 **Est-ce qu'un CdC chinois travaille aux Émirats arabes unis?** Non — un certificat national chinois n'est pas un accès au marché du CCG/OSG; organiser la bonne route de conformité du CCG.
 **Qu'est-il arrivé à l'AEMF?** Ses fonctions pertinentes ont été repliées dans le MOIAT; confirmer la route actuelle d'émission de certificats.
 **Ce guide s'applique-t-il aussi à l'Arabie saoudite/Qatar?** La séquence transfère conceptuellement, mais les formulaires, les frais et les autorités diffèrent selon les États du CCG — vérifier chaque pays séparément.
@@ -57,11 +57,14 @@ Après la mainlevée en douane, l'acheteur s'applique à la RTA avec (déclarée
 - IMAGE_ASSET_PATH: aucun sécurisé dans le dépôt
 - ORIGINAL_IMAGE_URL: non capturé
 - SOURCE_PAGE: non capturé
+- SOURCE_FILE_PAGE: sans objet — aucun fichier multimédia candidat identifié (aucune licence pour affirmer)
 - HÔTEL DE DROITS: NON CONfirmÉ
 - LICENSE_OR_USAGE_BASIS: aucune image sécurisée — aucune image de tiers ne peut être publiée jusqu'à ce que les droits soient effacés
-- _DATE DE CHERCHE: 2026-09-05
+- _DATE DE CONTRÔLE: 2026-09-06
 - MODEL_TOPIC_MATCH: doit correspondre au modèle exact/version (ou au sujet du guide) et au marché de référence ci-dessus
+- IMAGE_SCOPE_NOTE: correspond à la famille/sujet du modèle exact seulement; ne doit pas impliquer une taille/modèle spécifique-année, VIN réel, inspection en personne ou transaction réelle
 - IMAGE_RIGHTS_STATUS: FAIL (aucun actif autorisé capturé; un détenteur de place ou -tain vieille image - Note n'est pas accepté)
+- C'est une question de "relation" Aucune image réutilisable ne peut être sécurisée: Wikimedia Commons/Flickr sont inaccessibles depuis l'environnement de recherche, les bibliothèques de stock nécessitent un accès authentifié API/licence, et une image de page web OEM n'est PAS une subvention de réutilisation commerciale; aucune photo appartenant à AutoBridge n'existe. Il a gardé la FAIL plutôt que de l'affirmer.
 - ALAT par langue:
   - **EN**: AutoBridge export-buyer reference — UAE vehicle clearance and registration, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — UAE vehicle clearance and registration, guide d’achat à l’export automobile
@@ -82,18 +85,18 @@ Après la mainlevée en douane, l'acheteur s'applique à la RTA avec (déclarée
 | Guide des taxes et des apurements au Moyen-Orient (Saudi/Dubai) | 11467 matériel de transport de marchandises | EAU | https://m.11467.com/product/d43094475.htm | 2026-09-03 | _CHECTURE | Documents d ' approbation; facture/cohérence B/L/CO; séquence RTA/Mulkiyé |
 | Liste des documents d ' exportation de VAN vers Dubai | 11467 matériel de transport de marchandises | EAU | https://m.11467.com/product/d31835834.htm | 2026-09-03 | _SENSIBILISATION DU TEMPS | Reported ~5% duty/~5% VAT; GCC/GSO + ESMA/MoIAT note |
 | Les VE chinoises sont accueillies au Moyen-Orient (politique nationale des EV des EAU) | Haiwainet / Toutiao | EAU | http://m.toutiao.com/group/7392857722481410569/ | 2026-09-03 | _SENSIBILISATION DU TEMPS | Incitations nationales à la politique des véhicules électriques |
-* Plafond des preuves: les sources sont des guides d'expédition (T3) et des médias chinois. Les droits/TVA/taxes et les incitations pour les véhicules électriques sont donc présentés comme étant déclarés et en fonction du temps, à confirmer auprès des douanes fédérales des EAU et de la RTA de l'émirat d'entrée. Aucun taux fixe n'est retenu. *
+* Plafond des preuves: les sources sont des guides d'expédition (T3) et des médias chinois — aucune page principale des douanes et de l'ART des EAU n'a été saisie. Les droits/TVA/taxes et les incitations pour les véhicules électriques sont donc présentés comme étant déclarés et en fonction du temps, à confirmer auprès des douanes fédérales des EAU et de la RTA de l'émirat d'entrée. Aucun taux fixe n'est retenu. *
 
-| Agrément des effets personnels (importation de véhicules neufs/utilisés); les documents requis; 5% customs duty on assessed va | Douanes de Dubaï (Gouvernement de Dubaï) | DUBAI | https://www.dubaicustoms.gov.ae/en/eServices/ServicesForIndividuals/Pages/ClearanceOfPersonalEffects.aspx | 2026-09-04 | VÉRIFIER | 5% duty on customs-assessed value; facture originale / liste d'emballage / connaissement / passeport ou copie d'identité d'Émirats; inspection et évaluation |
+| Dédouanement des effets personnels (importation de véhicules neufs/utilisés; documents requis; 5% droits de douane sur les droits de douane | Douanes de Dubaï (Gouvernement de Dubaï) | DUBAI | https://www.dubaicustoms.gov.ae/en/eServices/ServicesForIndividuals/Pages/ClearanceOfPersonalEffects.aspx | 2026-09-04 | VÉRIFIER | 5% droit sur la valeur établie en douane; facture originale / liste d'emballage / connaissement / passeport ou copie d'identité d'Emirates; inspection et évaluation |
 | Mécanisme de détermination de la valeur du fret des passagers (amortissement par année) PDF | Douanes de Dubaï | DUBAI | https://www.dubaicustoms.gov.ae/en/PoliciesAndNotices/Policies/mechanismfordeterminingthevalueofpassengerscargotr.pdf | 2026-09-04 | VÉRIFIER | véhicules d'occasion évalués selon le calendrier d'amortissement fondé sur l'année avant le dédouanement |
-| E-Commerce VAT Guide (VATGEC1) §3.5.1 — import VAT 5% on customs value incl. fret, assurance, frais de douane, | Autorité fiscale fédérale des Émirats arabes unis (ALÉ) | EAU | https://tax.gov.ae/ | 2026-09-04 | VÉRIFIER | import VAT 5%; Base TVA = valeur en douane (CIF) + droit |
+| Guide TVA sur le commerce électronique (VATGEC1) § 3.5.1 — TVA sur les importations 5% en valeur en douane incl. fret, assurance, frais de douane, | Autorité fiscale fédérale des Émirats arabes unis (ALÉ) | EAU | https://tax.gov.ae/ | 2026-09-04 | VÉRIFIER | TVA à l'importation 5%; assiette TVA = valeur en douane (CIF) + droit |
 | Véhicules d'immatriculation (certificat de douane ou certificat de transfert/exportation/dépossession; carte d'identité Emirates; passeport/rés | Portail du gouvernement fédéral des Émirats arabes unis (u.ae) | EAU | https://u.ae/en/information-and-services/transportation/driving-and-licensing/registering-vehicles | 2026-09-04 | VÉRIFIER | le document d'enregistrement; le certificat douanier est le pont entre le dédouanement et l'enregistrement; |
 | Délivrance de certificats de conformité des EAU pour les produits soumis à des réglementations techniques (ECAS; successeur de l'AEMF) | Ministère de l'Industrie et des Technologies de pointe (Mo | EAU | https://www.moiat.gov.ae/en/services/issue-conformity-certificates-for-regulated-products | 2026-09-04 | VÉRIFIER | Le Ministère de l'environnement et de l'environnement délivre des CdE des EAU pour les produits réglementés, y compris les produits de la pêche. véhicules/pièces; ESMA absorbé |
-| Liste des Règlements techniques du GSO pour les véhicules à moteur (MY2027-D3), y compris: EAU Euro- 6b chronologie | Organisation de normalisation du CCG (OSG) | GCC | https://www.gso.org.sa/ | 2026-09-04 | SOURCE UNIQUE | EAU nouveau type Euro- 6b de 2026-01-01; toutes les importations de 2027-07-01 |
+| Liste des Règlements techniques du GSO pour les véhicules à moteur (MY2027-D3), y compris: EAU - Calendrier Euro 6b | Organisation de normalisation du CCG (OSG) | GCC | https://www.gso.org.sa/ | 2026-09-04 | SOURCE UNIQUE | EAU nouveau type Euro- 6b à partir de 2026-01-01; toutes les importations à partir de 2027-07-01 |
 
 ## Révision de la rédaction
 - **Auteur / réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)
-- **Dernière revue**: 2026-09-05
+- **Dernière révision**: 2026-09-05
 - **Marché de référence/étendue**: exemple de travail des EAU (méthode transférable au CCG; pays non généralisé)
 - **Méthode de vérification**: Synthèse des sources d'envoi avec plafond explicite des preuves; frais déclarés signalés pour confirmation officielle par PRIMARY_SOURCE_SCOPE règle
 - **Norme de rédaction**: Recherches et écrits provenant des sources énumérées ci-dessus (recherches de bureau; aucune conduite directe, démontage ou importation n'est revendiquée). La confiance de la source est affichée par ligne; tout point que nous ne pouvons confirmer indépendamment est présenté comme un élément de vérification plutôt que comme un fait.

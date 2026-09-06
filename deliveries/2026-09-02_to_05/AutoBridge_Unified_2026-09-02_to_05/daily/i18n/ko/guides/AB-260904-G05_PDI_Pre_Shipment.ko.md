@@ -1,71 +1,74 @@
-# Pre-Shipment PDI and Handover for Vehicle Export: Carrier Rules vs AutoBridge's Recommended Checklist
+# 차량 수출을 위한 전 선적 PDI 및 Handover: AutoBridge의 추천된 검사표 대 운반대 규칙
 
-## SEO Metadata
-- **SEO Title**: Vehicle Export PDI & Pre-Shipment Handover Guide — Named Carrier Rules
-- **Meta Description**: Separate named RoRo carrier policies (Wallenius Wilhelmsen, Höegh Autoliners) — fuel, battery, SOC and operability — from AutoBridge's recommended pre-shipment inspection checklist; no universal fixed values.
+## ▼ 한국어 메타데이터
+- **SEO 제목**: 차량 수출 PDI 및 사전 판매 Handover Guide - 이름 캐리어 규칙
+- **마타 기술 **: RoRo 캐리어 정책 (Wallenius Wilhelmsen, Höegh Autoliners) - 연료, 배터리, SOC 및 operability - AutoBridge의 권장 선행 검사 검사 목록에서; 보편적 인 고정 값 없음.
 - **Suggested URL**: /guides/vehicle-export-pdi-pre-shipment-handover
-- ** H1 **: Preparing a Vehicle for RoRo or Container Export: What the Named Carriers Require and What We Recommend
-- **Primary Keyword**: vehicle export pre-shipment inspection PDI handover RoRo
-- **Secondary Search Terms**: Wallenius Wilhelmsen fuel quarter tank, Hoegh BEV SOC 50 percent, RoRo operable vehicle, disconnect 12V battery used car, pre-shipment photo record
-- **Internal Link Suggestions**: /guides/vehicle-export-bill-of-lading-types/ ; /guides/ev-shipping- un3556-imdg-compliance/; /guides/emission-fuel-compatibility-china-vehicles/
-- **Image Suggestions**: PDI checklist sheet; RoRo self-driving ramp; named-carrier vs editorial-recommendation split diagram
-- **ALT Suggestions**: "Named RoRo carrier requirements versus recommended pre-shipment checklist"
+- ** H1 **: RoRo 또는 Container 수출용 차량 준비: 어떤 Named 캐리어 요구와 우리가 추천하는 것
+- ** 출원 키워드 **: 차량 수출 전 선적 검사 PDI 수로 RoRo
+- **세컨드리뷰 이용 약관**: Wallenius Wilhelmsen 연료 분무 탱크,  Hoegh BEV SOC 50 percent, RoRo operable 차량, 12V 배터리 사용 자동차, 사전 선적 사진 기록
+- ** 내부 링크 제안**: /guides/vehicle-export-bill-of-lading-types/; /guides/ev-shipping- un3556-imdg-compliance/; /guides/emission-fuel-compatibility-china-vehicles/
+- ** 이미지 제안 **: PDI 체크리스트 시트; RoRo 자체 건조 램프; 이름 - 자동차 대 편집 분할 다이어그램
+- **ALT 제안**: "Named RoRo 캐리어 요구 사항 versus 권장 선행 검사 목록"
 
 ## Two Layers That Must Not Be Merged
-Damage disputes at destination almost always trace back to one question: what was the vehicle's condition, fuel/battery state and operability **at handover**? To answer it cleanly, this guide keeps two layers separate:
-1. **Named-carrier requirements (CARRIER_SPECIFIC)** — written policies of specific RoRo carriers, here **Wallenius Wilhelmsen (WW)** and **Höegh Autoliners (Höegh)**. These are **carrier policies, not international regulations**, they are not universal across all shipping lines, and the booked carrier's written instructions always govern.
-2. **AutoBridge recommended pre-shipment checklist (EDITORIAL_RECOMMENDATION)** — an inspection/record-keeping method this guide recommends for evidence. It is **not** an industry-mandatory procedure and is not presented as one.
+대상에서 손상은 거의 항상 한 가지 질문에 다시 추적: 차량의 상태, 연료 / 배터리 상태 및 운전성 ** 핸드 오버 **는 무엇입니까? 깨끗하게 답변하려면이 가이드는 두 개의 레이어를 분리합니다.
+1. **Named-carrier requirements (CARRIER_SPECIFIC)** - 특정 RoRo 캐리어의 서면 정책, 여기 **Wallenius Wilhelmsen (WW)** 및 **Höegh Autoliners (Höegh)**. 이들은 ** 자동차 정책, 국제 규정**, 그들은 모든 선박 라인에 걸쳐 보편적이지 않습니다, 그리고 책 캐리어의 서면 지침은 항상 지배.
+2. **AutoBridge 권장 사전 선적 검사 목록 (EDITORIAL_RECOMMENDATION) ** -이 가이드는 증거를 권장합니다. ****not** 산업 필수 절차는 표시되지 않습니다.
 
-## Named-Carrier Policies (CARRIER_SPECIFIC — cite the carrier by name)
-| Topic | Wallenius Wilhelmsen | Höegh Autoliners | Nature |
+## Named-Carrier Policies (CARRIER_SPECIFIC - 이름에 의해 캐리어를 인용)
+| 팟캐스트 | 월터스 윌헬름 | Höegh 오토라이너 | 의 특징 |
 |---|---|---|---|
-| **Fuel / gas level** | Tank about **one-quarter full** (enough to self-drive on/off) | Tank about **one-quarter full** | Carrier policy; cross-checked for these two named lines only — not a universal rule |
-| **Used ICE battery** | For used units **without a battery kill-switch**, disconnect the 12/24V after lashing (exceptions per WW instruction) | - - - | WW-specific; single-source carrier rule |
-| **BEV high-voltage SOC** | - - - | **SOC no more than 50%**, while retaining enough charge for loading/unloading/storage; HEV: ≤¼ fuel plus SOC guidance | Höegh-specific; **not** a global SOC ceiling |
-| **Operability** | RoRo units must self-drive safely on/off (move/brake/steer); faulty or leaking units may be rejected | Same self-driving requirement | Carrier receiving rule for these two named lines |
+| ** 연료 / 가스 레벨 ** | Tank about **one-quarter full** (enough to self-drive on/off) | Tank about **one-quarter full** | 캐리어 정책;이 두 개의 이름을 줄에 대 한 교차 검사 — 보편적인 규칙 |
+| **사용된 얼음 배터리 ** | 중고 단위 ** 배터리 킬 스위치 없음 **, 멸균 후 12/24V을 분리 (WW 지시 당 출구) | - - - | WW-specific; 단일 소스 캐리어 규칙 |
+| ** BEV 고전압 SOC ** | - - - | **SOC는 50% 이상 **, 적재/내부/저장에 충분한 책임을 유지하면서; 공급 능력: ≤¼ fuel plus SOC guidance | Höegh-specific; ** 글로벌 SOC 천장 |
+| **영업 시간***************************************************************************************************************************************************************************************************************************************************************** | RoRo 단위는 안전하게 온/오프 (move/brake/steer); 결함 또는 새는 단위가 거부될지도 모릅니다 | 동일한 각자 건조 필요조건 | 이 두 개의 명 줄에 대한 캐리어 수신 규칙 |
 
-These requirements are quoted to named carriers precisely because they **vary by line and by voyage**: a Chinese RoRo/container carrier or another line may set different levels. Never state "carriers require X" without naming the carrier and checking its current written guide.
+이러한 요구 사항은 라인과 항해에 의해 **의 경우, 정확히 캐리어를 지명하는 것으로 인용됩니다 **: 중국 RoRo / 컨테이너 또는 다른 라인 다른 수준을 설정할 수 있습니다. 캐리어를 naming하지 않고 "carriers require X"를 주지 않고 현재의 서면 가이드를 검사하십시오.
 
-## AutoBridge Recommended Pre-Shipment Checklist (editorial method, not mandatory)
-The following is **our recommended sourcing/handover method**, offered to build an evidence trail; it is not a statutory or universal carrier procedure:
-- Exterior body and paint walk-around; note every existing mark.
-- Dashboard warning-light check (MIL/ABS/SRS/TPMS) before handover.
-- Inventory of tools, spare key, charging cable and onboard accessories.
-- Record odometer reading and fuel/SOC level at handover.
-- **Photo record**: dated photos carrying mileage and condition, kept for destination damage comparison.
-- **Joint handover record**: inspect the vehicle together with the terminal and sign a handover sheet, retaining a copy.
+## AutoBridge 권장 사전 검사 목록 (편집 방법, 필수)
+다음은 ** 우리의 권장 sourcing / handover 방법 **, 증거 흔적을 구축 할 제안; 그것은 법령 또는 보편적 인 캐리어 절차가 아닙니다:
+- 외부 몸과 페인트 산책 주위; 각 기존의 표 참고.
+- 수로의 앞에 대쉬보드 경고 빛 체크 (MIL/ABS/SRS/TPMS).
+- 공구, 예비 열쇠, 위탁 케이블 및 내장 부속품의 Inventory.
+- 기록 거리계 독서와 연료/SOC 수준은 handover에.
+- **사진 기록**: 마일리지 및 조건을 수용하는 날짜 사진, 대상 손상 비교를 위해 보관.
+- **Joint handover record**: 터미널과 함께 차량을 검사하고 복사를 유지, 손전등 시트를 서명합니다.
 
-## Items to Confirm With Carrier or OEM (no fixed values asserted)
-Lashing point count, strap breaking strength, anti-slip mats, vehicle heading/orientation in the container, tyre-pressure adjustment and any uniform SOC figure: the batch obtained **no OEM transport-mode manual or formal carrier/terminal guide** establishing fixed values, so these are presented only as **items to confirm with the booked carrier / OEM transport-mode manual**. No fixed percentage, strap rating or orientation is stated as a standard.
+## 캐리어 또는 OEM로 확인하는 항목 (고정 값은 제거되지 않음)
+래싱 포인트 카운트, 스트랩 파괴 강도, 미끄럼 방지 매트, 컨테이너에 차량 헤드 / 오리엔테이션, 타이어 압력 조정 및 모든 균일 한 SOC 수치: 일괄 얻은 ** OEM 운송 모드 매뉴얼 또는 공식 캐리어 / 종료 가이드 ** 고정 값 설정, 그래서 이것은 단지 ** 책 캐리어 / OEM 운송 모드 매뉴얼**를 확인하기 위해 항목 만 표시됩니다. 고정 비율 없음, 결박 등급 또는 오리엔테이션은 기준으로 진술됩니다.
 
-## The Handover Sequence We Recommend
-1. Run the editorial PDI and capture dated photos (recommendation).
-2. Set fuel/SOC to the **booked named carrier's** written level (WW/Höegh as above; otherwise obtain that carrier's guide).
-3. Confirm operability (move/brake/steer) and resolve leaks/warning lights.
-4. At the terminal, do the joint inspection and sign the handover record (recommendation).
-5. File photos + handover sheet with the B/L so any destination claim has a baseline.
+## Handover Sequence 우리는 추천한다
+1. PDI를 실행하고 날짜 사진 캡처 (recommendation).
+2. 연료/SOC를 **부설된 캐리어**에 명시된 레벨(WW/Höegh 위와 같이; 그렇지 않으면 그 캐리어 가이드를 얻으십시요).
+3. 의례(move/brake/steer)를 확인하고 누출/방출을 해결합니다.
+4. 터미널에서 합동 검사를 하고, 수로 기록 (recommendation)를 서명하십시오.
+5. 파일 사진 + B / L이있는 손 오버 시트 그래서 어떤 목적지 주장은 기본이있다.
 
-## Boundaries of This Guide
-- WW/Höegh items are **CARRIER_SPECIFIC**, never generalized to "all carriers" or to regulation.
-- The checklist is **editorial recommendation**, not a mandatory industry procedure.
-- Fixed lashing/pressure/orientation/SOC numbers beyond the named carriers are **blocked pending OEM/carrier primary documents**.
+## 이 가이드의 경계
+- WW/Höegh 항목은 **CARRIER_SPECIFIC **, "모든 캐리어"또는 규정에 전형되지 않습니다.
+- checklist는 ** 편집 권고**, 필수 산업 절차가 아닙니다.
+- 지정된 캐리어를 초과하는 고정 lashing/pressure/orientation/SOC 번호는 **블록된 pending OEM/carrier 기본 문서**입니다.
 
-## Frequently Asked Questions
-**Is a quarter tank a legal requirement?** No — it is a written policy of named RoRo carriers such as Wallenius Wilhelmsen and Höegh; follow the booked carrier's instruction.
-**Must every EV ship at 50% SOC?** That figure is a Höegh Autoliners policy, not a universal cap; confirm the booked carrier's SOC requirement voyage by voyage.
-**Is the photo/handover record mandatory?** It is AutoBridge's recommended evidence method, not a statutory requirement — but it materially strengthens a destination damage claim.
-**Who decides lashing points and strap ratings?** The carrier/terminal and the OEM transport-mode manual; do not assume fixed values without their documents.
+## 자주 묻는 질문
+** 법적 요구 사항이 분기 탱크입니까? ** No — Wallenius Wilhelmsen 및 Höegh와 같은 RoRo 캐리어의 서면 정책입니다; 책 캐리어의 지시를 따르십시오.
+** 50% SOC에서 모든 EV 선박을 초과합니까? ** 즉, Höegh Autoliners 정책은 보편적 인 모자가 아닙니다. 책가방의 SOC 요구 사항의 구절을 확인하십시오.
+** 사진/핸드 오버 레코드 필수? ** AutoBridge의 권장된 증거 방법이지만, 법령 요구 사항이 아닙니다. 그러나 그것은 물질적으로 대상 손상 청구를 강화합니다.
+**호는 포인트와 스트랩 등급을 채우고 결정합니까?** 캐리어/terminal 및 OEM 수송 모드 설명서; 그들의 문서 없이 조정 값을 가정하지 마십시오.
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE:: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE:: 2026-09-05
-- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- ALT by language:
+## 이미지 기록
+- IMAGE_ASSET_PATH: 저장소에 보안되지 않음
+- ORIGINAL_IMAGE_URL: 캡처되지 않음
+- SOURCE_PAGE: 캡처되지 않음
+- SOURCE_FILE_PAGE: 적용되지 않음 - 확인된 후보자 미디어 파일 없음 (Asert에 대한 라이센스 없음)
+- permission_HOLDER: 확인되지 않은
+- 라이센스_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE:: 2026-09-06
+- MODEL_TOPIC_MATCH: 정확한 모델/버전 (또는 가이드 항목)과 참고 시장과 일치해야 합니다.
+- IMAGE_SCOPE_NOTE: 정확한 모델 가족/토닉에만 일치; 특정 트림/모형, 실제 VIN, 인-인 검사 또는 실제 거래에 실패하지 않아야 합니다.
+- IMAGE_RIGHTS_STATUS: FAIL (허가 된 자산 없음; placeholder 또는 "이전 이미지 유지"주의 허용되지 않음)
+- BLOCK_REASON:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: 재사용 가능한 이미지는 보안되지 않았습니다. Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 없으며, 주식 라이브러리는 인증된 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 존재하지 않습니다. Kept FAIL 오히려 asserted 보다는.
+- 언어 별 ALT:
   - **EN**: AutoBridge export-buyer reference — Pre-shipment PDI and handover for RoRo/container, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Pre-shipment PDI and handover for RoRo/container, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Pre-shipment PDI and handover for RoRo/container, Leitfaden für Fahrzeugexport-Einkauf
@@ -79,25 +82,25 @@ Lashing point count, strap breaking strength, anti-slip mats, vehicle heading/or
   - **AR**: مرجع AutoBridge لمشتري التصدير — Pre-shipment PDI and handover for RoRo/container, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Pre-shipment PDI and handover for RoRo/container, 汽车出口采购指南
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## 소스 및 검증
+| 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
 |---|---|---|---|---|---|---|
-| WW Cargo Handling Instructions (fuel ≤¼) | Wallenius Wilhelmsen (RoRo carrier) | INTL | https://cargohandlinginstruction.walleniuswilhelmsen.com/pdf-files/WW-CHI-250731-1.31.pdf | 2026-09-04 | CROSS_CHECKED (primary carrier) | Fuel level, operability |
-| WW Receiving of used units (disconnect 12/24V without kill-switch) | Wallenius Wilhelmsen | INTL | https://cargohandlinginstruction.walleniuswilhelmsen.com/terminal/receiving-of-used-units-draft | 2026-09-04 | SINGLE_SOURCE (primary carrier) | Used-ICE battery disconnect |
-| Höegh Automotive shipping (≤¼ fuel; BEV SOC; operability) | Höegh Autoliners | INTL | https://www.hoeghautoliners.com/what-we-ship/automotive | 2026-09-04 | SINGLE_SOURCE (primary carrier) | BEV ≤50% SOC, fuel, operability |
-| Höegh Trucks/Buses/Trailers shipping | Höegh Autoliners | INTL | https://www.hoeghautoliners.com/what-we-ship/trucks-buses-and-trailers-shipping | 2026-09-04 | SINGLE_SOURCE (primary carrier) | Commercial-unit receiving |
-| Pre-shipment inspection & handover practice | 11467 industry pages | CN | https://m.11467.com/product/d55278360.htm | 2026-09-04 | SINGLE_SOURCE (editorial basis) | Recommended checklist/photo/handover |
-*Evidence scope: named-carrier policies verified to WW/Höegh primary guides (carrier policy, not regulation, not universal); checklist is editorial recommendation; fixed lashing/pressure/orientation values blocked pending OEM/carrier documents.*
+| WW Cargo Handling Instructions (fuel ≤¼) | Wallenius Wilhelmsen (로로 캐리어) | INTL의 | https: //cargohandlinginstruction.walleniuswilhelmsen.com/pdf-files/WW-CHI-250731-1.31.pdf를 사용하십시오. | 2026-09-04 | CROSS_CHECKED (기본 캐리어) | 연료 수준, operability |
+| 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 사용 단위의 수신 (죽이 스위치 없이 12/24V 분리) | 월터스 윌헬름 | INTL의 | https: //cargohandlinginstruction.walleniuswilhelmsen.com/terminal/receiving-of-used-units-draft를 호출합니다. | 2026-09-04 | SINGLE_SOURCE (기본 캐리어) | 중고 배터리 단자 |
+| Höegh Automotive shipping (≤¼ fuel; 빔 SOC; 작동성) | Höegh 오토라이너 | INTL의 | https: //www.hoeghautoliners.com/what-we-ship/automotive를 사용하십시오 | 2026-09-04 | SINGLE_SOURCE (기본 캐리어) | BEV ≤ 50% SOC의 연료, 가동 가능 |
+| Höegh 트럭/벤더/트레일러 선박 | Höegh 오토라이너 | INTL의 | https: //www.hoeghautoliners.com/what-we-ship/trucks-buses-and-trailers-shipping를 //www.hoeghautoliners.com/what-we-ship/trucks-buses-and-trailers-shipping를 //www.hoeghautoliners.com/what-we-ship/trucks-buses-and-trailers-shipping를 위한 | 2026-09-04 | SINGLE_SOURCE (기본 캐리어) | 상업 단위 수신 |
+| 전선 검사 및 수복 연습 | 11467 산업 페이지 | 담당자: Mr. wang | https: //m. 11467.com/product/d55278360.htm의 | 2026-09-04 | SINGLE_SOURCE (편집 기준) | 추천된 체크리스트/사진/핸드오버 |
+*Evidence 범위: WW/Höegh 기본 가이드 (카리어 정책, 규정이 아닌, 보편적인); 체크리스트는 편집 권고입니다; 고정 lashing/pressure/orientation 값 차단된 구부러진 OEM/carrier 문서. ****************************************************************************************************************************************************************************************************************************************************************
 
-| IMO/ILO/UNECE CTU Code — handling and securing cargo transport units | International Maritime Organization (IMO) | INT'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | VERIFIED | General handling/securing baseline; carrier rules remain stricter and route-specific |
-| Cargo/transit insurance and marine risk reference | International Union of Marine Insurance (IUMI) | INT'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L | https://iumi.com/ | 2026-09-05 | VERIFIED | Why documented PDI/handover evidence matters for cargo-claims handling |
+| IMO/ILO/UNECE CTU에 대한 정보 Code — 화물 운송 단위 취급 및 확보 | 국제 해상기구 (IMO) | INT'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L | https: //www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx에 대한 자세한 정보 | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 일반 취급/보안 기본; 캐리어 규칙은 엄격한 및 경로 별 유지 |
+| 화물/운송 보험 및 해상 위험 참고 | 해양 보험 (IUMI)의 국제 연합 | INT'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L'L | https: //iumi.com/의 경우 | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 왜 PDI/handover 증거를 문서화한 것은 화물의 취급에 대한 |
 
-## Editorial Review
-- **Author**: AutoBridge Export Editorial Team · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: International RoRo/container export (named-carrier policies) + editorial checklist
-- **Verification method**: Named-carrier primary guides separated from editorial recommendation; no universal fixed values
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+## 편집 리뷰
+- **Author**: AutoBridge 수출 편집팀 · 우리 당 방법 [편집 정책](/editorial-policy/)
+- **마지막 검토**: 2026-09-05
+- **참가 시장 **: 국제 RoRo/콘테이너 수출(이름-카리어 정책) + 편집 체크리스트
+- ** 인증 방법**: Named-carrier primary guides separated from editorial recommendation; 없음 보편적인 고정 값
+- **Transparency**: AI-assisted 초안 사용. 이 문서는 책상 연구 및 자동화 QA에 근거합니다. 명시적으로 문서화되지 않는 한, 첫 번째 손 테스트가 주장되지 않습니다. transacting 전에 시간 과민하고 대상 특정 요구 사항을 확인하십시오.
+- **Editorial 표준 **: 위에 나열된 소스에서 연구 및 작성 (책상 연구; 첫 번째 직접 운전, 눈물 또는 수입은 주장). 소스 신뢰는 행당 표시됩니다. 독립적으로 확인 할 수없는 점은 사실로 asserted보다 검증 항목으로 표시됩니다.
 
 **Tags**: #PDI #PreShipment #RoRo #CarrierRules #VehicleExport

@@ -1,97 +1,100 @@
-# Geely Galaxy L6 EM-i (2025) — Chinese-Market Specs and Export Verification
+# Geely Galaxy L6 EM-i (2025) - 중국 시장 사양 및 수출 검증
 
-## SEO Metadata
-- **SEO Title**: Geely Galaxy L6 EM-i PHEV 2025: Chinese-Market Specs & Export Buyer Guide
-- **Meta Description**: Chinese-market Geely Galaxy L6 EM-i plug-in hybrid: verified dimensions, EM-i powertrain, two battery/range lines, and what an importer must confirm by VIN.
-- ** H1 **: Geely Galaxy L6 EM-i (2025) — Chinese-Market Specs and Export Verification
-- **Primary Keyword**: Geely / 吉利银河 Galaxy L6 / 银河L6 specs export
-- **Secondary Search Terms**: Geely Galaxy L6 export; Galaxy L6 EM-i PHEV specs; Chinese PHEV sedan import; EM-i single-speed DHT; CLTC vs WLTP range
+## ▼ 한국어 메타데이터
+- **SEO 제목**: Geely Galaxy L6 EM-i PHEV 2025: 중국 시장 사양 및 수출 구매자 가이드
+- **마타 기술 **: 중국 시장 Geely 갤럭시 L6 EM-i 플러그 인 하이브리드: 검증 된 크기, EM-i 파워 트레인, 두 개의 배터리 / 범위 라인, 그리고 수입자가 VIN에 의해 확인해야하는지.
+- ** H1 **: Geely Galaxy L6 EM-i (2025) - 중국 시장 사양 및 수출 검증
+- ** 출원 키워드 **: Geely / 吉利银河 갤럭시 L6 / 银河 L6 사양 수출
+- **세컨드 검색 조건**: Geely Galaxy L6 수출; Galaxy L6 EM-i PHEV specs; 중국 PHEV 세단 수입품; EM-i 단 하나 속도 DHT; WLTP 범위를 가진 CLTC 대
 - **Suggested URL**: /vehicles/geely-galaxy- l6/
-- **Search Intent**: 了解 Geely / 吉利银河 Galaxy L6 / 银河L6 中国版规格、配置与出口适配性（车型参数页）
-- **Internal Link Suggestions**: /vehicles/geely-galaxy- l6/, /guides/incoterms- 2020-selection-guide/, /guides/export-payment-methods-t-lc-risk/
-- **Schema Scope**: Article + Vehicle (no Product/Offer/Review)
+- ** 수색 **: 了解 게릴리 / 吉利银河 갤럭시 L6 / 银河 L6 中国版规格, 配置与出口适配性 (车型参数页)
+- ** 내부 링크 제안**: /vehicles/geely-galaxy- l6/, /guides/incoterms- 2020-selection-guide/, /guides/export-payment-methods-t-lc-risk/
+- **Schema Scope**: 기사 + 차량 (제품/오프러/리뷰 없음)
 
-## Buyer context and model identity
-The **Geely Galaxy L6 EM-i (2025)** is a compact plug-in hybrid sedan built for the Chinese market. This page uses the **2025 EM-i facelift line only**; the older Thor/8848 three-speed DHT versions are a different powertrain generation and must not be mixed with the EM-i single-speed cars described here. Reference market is **China**, and every figure below is a **Chinese-market reference specification**, not a global or export homologation value.
+## 구매자 컨텍스트 및 모델 ID
+**Geely Galaxy L6 EM-i (2025) **는 중국 시장을 위해 건설된 소형 플러그 인 하이브리드 세단입니다. 이 페이지는 ** 2025 EM-i facelift line 만 **; 이전 Thor/8848 세 속도 DHT 버전은 다른 동력 발전이며 여기에 설명 된 EM-i 단일 속도 자동차와 혼합되지 않아야합니다. 참고 시장은 ** 중국**이며, 아래 모든 숫자는 ** 중국 시장 참조 사양**, 글로벌 또는 수출 균질 값이 아닙니다.
 
-The EM-i line is front-wheel drive and pairs a 1.5 L naturally aspirated petrol engine with a single front motor through a one-speed dedicated hybrid transmission. Two battery/range lines are sold in China; an importer should treat them as distinct orderable configurations rather than one "L6" with a single range number.
+EM-i 라인은 전면 휠 드라이브이며 1.5 L 명을 단일 프론트 모터로 한 번 전용 하이브리드 전송을 통해 자연적으로 발음 된 가솔린 엔진을 쌍합니다. Two battery/range lines are sold in China; 수입자는 하나의 "L6"보다는 별도의 주문 가능한 구성으로 취급해야합니다.
 
-## Variant and powertrain lines (Chinese market)
-- **Architecture**: FF (front-engine/front-drive), 4-door 5-seat sedan; body 4782 / 1875 / 1489 mm, wheelbase 2752 mm (cross-checked).
-- **Engine**: BHE15-BFN 1.5 L naturally aspirated, 1499 mL, 82 (112Ps) kW / 136 N·m (single-source ZOL parameter table).
-- **Motor**: 160 kW / 262 N·m (motor power cross-checked; torque single-source).
-- **Transmission**: 1挡 DHT（EM-i 单挡混动专用变速） — a single-speed DHT, which is the defining EM-i feature versus the older multi-speed hybrid.
-- **Battery lines**: 8.5 / 19.09 kWh. Battery cell supplier is **not confirmed by Geely** and is intentionally not stated.
-- **Electric range**: 60 / 140（对应8.5/19.09kWh） km CLTC for the two lines respectively; on WLTC the captured reference is 48 / 115 km. CLTC and WLTC are different cycles — never quote a CLTC number as a WLTC/NEDC export figure.
-- **Combined/performance**: combined CLTC range up to 最高 2000 km; 0–100 km/h 7.4 s; top speed 180 km/h; fuel tank 60 L; drag coefficient 0.26.
+## 채식 및 파워 트레인 라인 (중국 시장)
+- **Architecture**: FF (전동 엔진/전동 드라이브), 4-door 5-seat 세단; 본체 4782 / 1875 / 1489 mm, 휠베이스 2752 mm (전방 검사).
+- ** 엔진**: BHE15-BFN 1.5 L 자연적으로 발음되는 1499 mL, 82 (112Ps) kW/136 N·m (단일 자원 ZOL 모수 테이블).
+- ** 모터**: 160 kW / 262 N·m (모터 파워 크로스 검사; 토크 단일 소스).
+- **송금**: 1 挡 DHT(EM-i 单挡混动专用变速) — 이전의 멀티 스피드 하이브리드를 versus하는 EM-i 기능의 정의인 단일 속도 DHT.
+- **건조 라인 **: 8.5 / 19.09 kWh. 배터리 셀 공급 업체는 ** Geely**에 의해 확인되지 않고 의도적으로 명시되지 않습니다.
+- ** 전기 범위 **: 60 / 140（对应8.5/19.09kWh） km CLTC for the two lines respectively; 캡처 된 참조는 48 / 115 km입니다. CLTC 및 WLTC는 다른 사이클입니다. CLTC 번호를 WLTC/NEDC 수출 그림으로 인용하지 마십시오.
+- **컴/기능**: 결합된 CLTC 범위 最高 2000 km까지; 0–100 km/h 7.4 s; 최고 속도 180 km/h; 연료 탱크 60 L; drag coefficient 0.26.
 
-## Verified specification table (Chinese-market reference)
-| Specification | Value | Unit | Market | Confidence | Source note |
+## 인증 사양 표 (중국 시장 참조)
+| 제품 정보 | 의 값 | 제품정보 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 의논문 |
 |---|---|---|---|---|---|
-| length width height | 4782 / 1875 / 1489 | mm (mm) mm (mm) mm | CHINA | CROSS_CHECKED | ZOL+搜狐双源一致 |
-| wheelbase | 2752 | mm (mm) mm (mm) mm | CHINA | CROSS_CHECKED | ZOL+搜狐双源一致 |
-| body style | 4门5座三厢轿车 | - - - | CHINA | SINGLE_SOURCE | 搜狐车型库 |
-| engine model | BHE15-BFN 1.5L 自然吸气 | - - - | CHINA | SINGLE_SOURCE | ZOL参数表 |
-| engine displacement | 1499 | mL | CHINA | SINGLE_SOURCE | ZOL参数表 |
-| engine power | 82 (112Ps) | kW | CHINA | SINGLE_SOURCE | ZOL参数表 |
-| engine torque | 136 | · | CHINA | SINGLE_SOURCE | ZOL参数表 |
-| motor power | 160 | kW | CHINA | CROSS_CHECKED | ZOL+太平洋 |
-| motor torque | 262 | · | CHINA | SINGLE_SOURCE | ZOL参数表 |
-| transmission | 1挡 DHT（EM-i 单挡混动专用变速） | - - - | CHINA | SINGLE_SOURCE | 搜狐车型库 |
-| battery capacity lines | 8.5 / 19.09 | kWh | CHINA | SINGLE_SOURCE | ZOL参数表 |
-| ev range cltc | 60 / 140（对应8.5/19.09kWh） | km | CHINA | SINGLE_SOURCE | ZOL参数表 |
-| ev range wltc | 48 / 115 | km | CHINA | SINGLE_SOURCE | 太平洋汽车 |
-| combined range cltc | 最高 2000 | km | CHINA | SINGLE_SOURCE | 太平洋汽车 |
-| top speed | 180 | km/h | CHINA | SINGLE_SOURCE | ZOL参数表 |
-| accel 0 100 | 7.4 | ss s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s  | CHINA | SINGLE_SOURCE | 太平洋汽车 |
-| fuel tank | 60 | L | CHINA | SINGLE_SOURCE | 太平洋汽车 |
-| drag coefficient | 0.26 | Cd | CHINA | SINGLE_SOURCE | 太平洋汽车 |
+| 길이 폭 고도 | 4782 / 1875 / 1489 | mm (mm) mm (mm) mm | 담당자: Mr. Li | CROSS_체크 | ZOL+ 搜狐双源一致년 |
+| 휠베이스 | 2752 | mm (mm) mm (mm) mm | 담당자: Mr. Li | CROSS_체크 | ZOL+ 搜狐双源一致년 |
+| 몸 작풍 | 4 门 5 座三厢轿车 | - - - | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 搜狐车型库 |
+| 엔진 모형 | BHE15-BFN 1.5L 自然吸气년 | - - - | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | ZOL 参数表의 |
+| 엔진 진지변환 | 1499 | mL의 | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | ZOL 参数表의 |
+| 엔진 힘 | 82 (112Ps) | 램 | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | ZOL 参数表의 |
+| 엔진 토크 | 136 | · | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | ZOL 参数表의 |
+| 모터 힘 | 160 | 램 | 담당자: Mr. Li | CROSS_체크 | ZOL+ 太平洋년 |
+| 모터 토크 | 262 | · | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | ZOL 参数表의 |
+| 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 1 挡 DHT (EM-i 单挡混动专用变速) | - - - | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 搜狐车型库 |
+| 배터리 용량 라인 | 8.5 / 19.09 | ₢ 킹 뚱 베어 | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | ZOL 参数表의 |
+| ev 범위 cltc | 60 / 140（对应8.5/19.09kWh） | km | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | ZOL 参数表의 |
+| ev 범위 wltc | 48 / 115 | km | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 太平洋汽车 |
+| 결합된 범위 cltc | 最高 2000 | km | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 太平洋汽车 |
+| 최고 속도 | 180 | 의 도시 | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | ZOL 参数表의 |
+| 비틀 0 100 | 7.4 | ss s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s  | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 太平洋汽车 |
+| 연료 탱크 | 60 | ₢ 킹 | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 太平洋汽车 |
+| 공급 능력 | 0.26 | ₢ 킹 | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 太平洋汽车 |
 
-## Battery, range cycle and charging logic for buyers
-The two battery lines drive both electric-only range and charging time, so an order should always name the battery capacity, not just the trim badge. Report range with its **test cycle**: the Chinese figures are CLTC, which reads higher than WLTP for the same hardware. Export-market powertrain output, battery chemistry certification and overseas range are **not evidenced by an OEM export source here** and stay unclaimed; request the destination-market homologation sheet instead of assuming the China EM-i calibration applies abroad. Infotainment chipset and overseas OTA availability are not confirmed and are excluded.
+## 배터리, 범위 사이클 및 충전 로직 구매자
+전기 전용 범위 두 개의 배터리 라인 드라이브  and  위탁 시간, 그래서 순서는 항상 건전지 수용량을 명명해야 합니다, 그냥 트림 배지. **test Cycle**를 가진 범위 보고: 중국 그림은 CLTC이며, 이는 동일한 하드웨어에 대한 WLTP보다 더 높은 것을 읽습니다. 수출 시장 동력선 산출, 건전지 화학 증명서 및 해외 범위는 ** 여기에서 OEM 수출 근원에 의해 증거되지 않습니다 **는 불평을 얻지 않습니다; 중국 EM-i 캘리브레이션 대신 대상 시장 균질화 시트를 요청하십시오. 인포테인먼트 칩셋 및 해외 OTA 가용성은 확인되지 않으며 제외됩니다.
 
-## Overseas buyer verification before payment
-1. **Lock the line**: 8.5 kWh or 19.09 kWh; record the exact EM-i trim and obtain its VIN-level build line.
-2. **Cycle, not just number**: ask which cycle any quoted range uses; reconcile CLTC vs the destination standard.
-3. **Powertrain generation**: confirm EM-i single-speed DHT, not an older Thor hybrid.
-4. **Charging/connector**: verify AC charge connector and any DC capability against the destination grid — do not assume China charging hardware.
-5. **Homologation & emissions**: confirm PHEV type-approval, OBD/emissions stage and warranty territory for the destination country.
-6. **Quotation fields**: destination country, quantity, exact battery line, LHD/RHD (China line is LHD), destination port and Incoterm. There is no AutoBridge export price list; **request a current export quotation**.
+## 결제 전 해외 구매자 검증
+1. ** 줄을 잠금 **: 8.5 kWh 또는 19.09 kWh; 정확한 EM-i 트림을 기록하고 VIN-level 빌드 라인을 얻습니다.
+2. **Cycle, not just number**: 어떤 인용된 범위 사용; 대상 표준을 다시 CLTC.
+3. **Powertrain 발생**: EM-i 단일 속도 DHT를 확인, 이전 Thor 하이브리드.
+4. **Charging/connector**: AC 충전 커넥터와 대상 그리드에 대한 모든 DC 기능을 확인 - 중국 충전 하드웨어를 가정하지 않습니다.
+5. **Homologation & 배출량**: PHEV 유형 승인, OBD/emissions 단계 및 보증 영역에서 대상 국가를 확인합니다.
+6. **Quotation 필드 **: 목적지 국가, 수량, 정확한 배터리 라인, LHD / RHD (중국 라인은 LHD), 목적지 포트 및 Incoterm입니다. AutoBridge 수출 가격 목록이 없습니다. ** 현재 수출 견적을 요청 **.
 
-## FAQ
-**Is the Galaxy L6 EM-i the same car as the older Galaxy L6 hybrid?** It is the same nameplate but a newer EM-i single-speed powertrain generation; do not merge specifications across them.
-**Why are two electric ranges quoted?** They map to the 8.5 kWh and 19.09 kWh battery lines; both are CLTC Chinese-market figures.
-**Can I use the CLTC range in my market brochure?** Not as a WLTP/NEDC figure — present it as Chinese-market CLTC and obtain the destination-cycle value.
-**Who makes the battery cells?** Not OEM-confirmed in the captured sources, so this page does not name a supplier.
-**Does AutoBridge publish an export price?** No — request a current quotation with destination, quantity, trim line, LHD/RHD, port and Incoterm.
+## 의논하기
+** 갤럭시 L6 EM-i 이전 갤럭시 L6 하이브리드와 같은 차를? ** 동일한 명찰이지만 새로운 EM-i 단일 속도 동력 발전; 그들 전체에 걸쳐 사양을 병합하지 마십시오.
+** 견적된 두 개의 전기 범위는 무엇입니까? ** 그들은 8.5 kWh 및 19.09 kWh 배터리 라인에 맵; 모두 CLTC 중국 시장 수치입니다.
+** 내 시장 브로셔에서 CLTC 범위를 사용할 수 있습니까? ** WLTP/NEDC 수치가 아닌 - 중국 시장 CLTC로 제시하고 목적지 사이클 가치를 얻습니다.
+**호는 배터리 셀을 만들 수 있습니까?** 캡처 된 소스에서 OEM 확인되지 않기 때문에이 페이지는 공급자를 지명하지 않습니다.
+**Does AutoBridge는 수출 가격을 발행합니까?** 아니 — 목적지, 수량, 트림 라인, LHD / RHD, 포트 및 Incoterm와 현재 인용을 요청합니다.
 
 
-## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
+## 소스 및 검증
+| 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | URL을 | 지원된 사실 |
 |---|---|---|---|---|---|---|
-| 银河L6 系列参数 | 中关村在线 ZOL 产品库 | CN | T2 | CROSS_CHECKED | https://detail.zol.com.cn/series/2530/69637/param_10910168_0_1.html | 尺寸, 轴距, 动力, 电池, 续航 |
-| 吉利银河L6 参数配置 | 搜狐汽车车型库 | CN | T2 | CROSS_CHECKED | https://db.auto.sohu.com/model_7163/config | 尺寸, 动力, 变速箱, 座位 |
-| 银河L6 车型百科 | 太平洋汽车百科 | CN | T3 | CROSS_CHECKED | http://m.pcauto.com.cn/baike/1424735/2444736/ | 风阻, 油箱, 综合续航, 加速 |
-| Geely official global site | Geely Auto Group 吉利 (OEM) | CN | T1 | VERIFIED | https://global.geely.com/ | brand/model-line identity and OEM authority |
-| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | T1 | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
-| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
-## Editorial Review
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: China (Chinese-market reference specification; not a global spec)
-- **Verification method**: Desk research against the sources below; Chinese-market reference specification only unless a separate export market is explicitly cited.
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
+| 银河 L6 系列参数년 | 中关村在线 ZOL 产品库년 | 담당자: Mr. wang | T2 | CROSS_체크 | https: //detail.zol.com.cn/series/2530/69637/param_10910168_0_1.html에 대한 자세한 정보 | 尺寸, 轴距, 动力, 电池, 续航 |
+| 吉利银河 L6 参数配置년 | 搜狐汽车车型库 | 담당자: Mr. wang | T2 | CROSS_체크 | https: //db.auto.sohu.com/ model_7163/config의 경우 | 尺寸, 动力, 变速箱,  座位 |
+| 银河 L6 车型百科년 | 太平洋汽车百科 | 담당자: Mr. wang | T3 | CROSS_체크 | HTTP: //m.pcauto.com.cn/baike/1424735/2444736/의 경우 | 风阻, 油箱, 综合续航,  加速 |
+| Geely 공식 글로벌 사이트 | 글리 자동차 그룹 吉利 (OEM) | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https: //global.geely.com/에 | 상표/모형 선 ID와 OEM 권위 |
+| 산업 및 정보 기술부 (MIIT) | 미트 工业和信息化部 | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https: //www.miit.gov.cn/ 를 | 균질화/발표 권위; VIN/announcement에 의하여 정확한 모형, 질량 및 부호를 확인하십시오 |
+| 시장 규제 (SAMR)의 국가 관리 | 삼성 国家市场监督管理总局 | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https: //www.samr.gov.cn/ 의 경우 | 국가 표준, 인증 및 시장 규제 기관 |
+## 편집 리뷰
+- **Author**: AutoBridge 수출 편집팀 · [authors](/authors/) · [편집 정책](/편집/)
+- **마지막 검토**: 2026-09-05
+- **참고 시장 **: 중국 (중국 시장 참고 명세; 세계 spec)
+- ** 인증 방법**: 아래 소스에 대한 책상 연구; 별도의 수출 시장이 명시적으로 인용되지 않는 한 중국 시장 참조 사양.
+- **Transparency**: AI-assisted 초안 사용. 이 문서는 책상 연구 및 자동화 QA에 근거합니다. 명시적으로 문서화되지 않는 한, 첫 번째 손 테스트가 주장되지 않습니다. transacting 전에 시간 과민하고 대상 특정 요구 사항을 확인하십시오.
 
-## Image Record
-- **IMAGE_ASSET_PATH **: none secured in repository
-- **ORIGINAL_IMAGE_URL **: not captured
-- **SOURCE_PAGE**: not captured
-- **RIGHTS_HOLDER**: unconfirmed
-- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
-- **CHECKED_DATE**: 2026-09-05
-- **MODEL_TOPIC_MATCH**: exact Geely Galaxy L6 EM-i 2025
-- **IMAGE_RIGHTS_STATUS**: FAIL
-- **ALT (12 languages)**:
+## 이미지 기록
+- **IMAGE_ASSET_PATH**: 저장소에 보안되지 않음
+- **ORIGINAL_IMAGE_URL **: 캡처되지 않음
+- **SOURCE_PAGE**: 캡처되지 않음
+- **SOURCE_FILE_PAGE**: 적용되지 않음 - 후보 미디어 파일 확인 없음 (Asert에 대한 라이센스 없음)
+- **RIGHTS_HOLDER**: 확인되지 않음
+- **LICENSE_OR_USAGE_BASIS**: 안전하지 않은 - OEM 웹 페이지 존재는 상업 재사용 면허가 아닙니다.
+- **CHECKED_DATE **: 2026-09-06
+- **MODEL_TOPIC_MATCH**: 정확한 지리 갤럭시 L6 EM-i 2025
+- **IMAGE_SCOPE_NOTE**: 이미지는 정확한 모델 가족/토닉에서만 일치해야 합니다. 특정 트림, 모델 년, 실제 VIN, 인-인터 검사 또는 실제 거래에 영향을 미치지 않아야 합니다.
+- **IMAGE_RIGHTS_STATUS**: FAIL(실버)
+- **BLOCK_REASON**: 재사용 가능한 이미지는 보안되지 않았습니다: Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 없으며, 주식 라이브러리는 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 없습니다. 기록은 asserted 보다는 오히려 FAIL를 지켜.
+- **ALT (12 언어)**:
   - **EN**: Geely Galaxy L6 EM-i 2025, Chinese-market PHEV sedan export buyer reference
   - **FR**: Geely Galaxy L6 EM-i 2025, PHEV sedan du marché chinois, référence acheteur export
   - **DE**: Geely Galaxy L6 EM-i 2025, Chinesischer PHEV sedan, Referenz für Exportkäufer

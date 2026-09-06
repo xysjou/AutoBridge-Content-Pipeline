@@ -1,68 +1,73 @@
-# CKD/SKD Knockdown Export and Overseas Assembly — Model, Classification and Compliance
+# 捷克/斯洛伐克 取缔出口和海外大会——模式、分类和遵守
 
-## SEO Metadata
-- **SEO Title**: CKD/SKD Knockdown Kit Export and Overseas Assembly: Classification and Compliance
-- **Meta Description**: How CKD/SKD vehicle kit export works: classification built on the Harmonized System, why destination tariff/local-assembly treatment is country-specific, and what a Chinese exporter must verify before shipping kits.
-- **H1**: CKD/SKD Knockdown Export and Overseas Assembly — Model, Classification and Compliance
-- **Primary Keyword**: ckd skd knockdown kit export assembly
-- **Secondary Search Terms**: CKD SKD export; knockdown kit; overseas assembly; GRI 2(a) unassembled; local assembly tariff
-- **Suggested URL**: /guides/ckd-skd-knockdown-kit-export-assembly/
-- **Search Intent**: 区分CBU/CKD/SKD模式，理解散件出口归类、原产地与目的国组装的关键合规问题
-- **Internal Link Suggestions**: /guides/vehicle-export-hs-code-history/, /guides/certificate-of-origin-history/, /guides/export-document-package-history/
-- **Schema Scope**: Article (no Product/Offer/Review)
+## 道德操守办公室 元数据
+- ** 道德操守办公室标题**:CKD/SKD 击倒 克特出口和海外大会:分类和遵守
+- ** 金属说明**: CKD/SKD车辆包出口如何运作:分类建立在协调制度之上,目的地关税/地方组装处理为何是针对具体国家的,以及中国出口商在运输包之前必须核实什么。
+- ** H1 **:CKD/SKD 敲击出口和海外大会——模式、分类和遵守
+- ** 关键词**: ckd skd 压缩装配导出工具箱
+- ** 二级搜索术语**:CKD SKD出口;倒装包;海外装配;GRI 2(a)未装配;地方装配关税
+- ** 推荐的URL**:/导线/ckd-skd-knockdown-kit-export-assembly/ / 引线/驱动器/驱动器/驱动器/驱动器/驱动器/驱动器/驱动器/驱动器/驱动器/驱动器/驱动器/驱动器/驱动器/驱动器/驱动器/驱动器/驱动器/驱动器/驱动器/驱动器/驱动器/驱动器/驱动器/驱动器/驱动器/驱动器/驱动器/驱动器/驱动器/驱动器/驱动器/驱动器/驱动器/驱动器/驱动器/驱动器/驱动器/驱动器/组件/组件/组件/组件/组件/组件/组件/组件/组件/组件/组件/组件/组件/组件/组件/组件/组件/组件/组件/组件/组件/组件/组件/组件/组件/组件/组件/组件/组件/组件/组件/组件/组件/组件/组件/组件/组件/组件/组件/组件/组件/组件/组件/组件/组件/组件/组件/组件/组件/组件/
+- ** 搜索意向**:区分 CBU/CKD/SKD 模式, 理解散件出口归类, 原产地与目的国组装的关键合规问题
+- ** 内部链接建议**: /指南/车辆-出口-hs-code-history/,/指南/原产地-历史证书/,/指南/出口-文件-包装-历史/
+- ** 范围**:第(无产品/产出/审查)条
 
-## What CKD and SKD mean in a sourcing decision
-A **SKD (semi-knocked-down)** kit ships partly assembled modules; a **CKD (completely-knocked-down)** kit ships a fuller set of components for local assembly. Both replace a finished-vehicle export with a parts-and-assembly model, usually to meet destination local-assembly policy. The commercial appeal is real, but the legal/tariff outcome is decided by the **destination customs authority**, not by the Chinese exporter labelling a consignment "CKD".
+## 科学、技术和科学研究在 一项来源决定中的含义
+装箱船**(半箱式)** 部分组装模块;装箱船**(完全箱式)** 全套组件供当地组装。 两者都用零件和组装模型取代成品车辆出口,通常是为了达到目的地本地组装政策. 商业吸引力是真实的,但法律/关税结果由**目的地海关当局**决定,而不是由中国出口商标注货物"CKD".
 
-## The classification basis the exporter can control
-On the China export side, classification is built on the **Harmonized System / import-export tariff** and the customs classification-decision mechanism (WCO maintains the HS, linked below). Whether an unassembled/disassembled set is classified as the article it will become turns on the general rules of interpretation and the specific tariff lines and rulings — **this guide does not state GRI 2(a) as a settled legal conclusion for kits because a primary WCO/customs ruling for the exact kit is not captured here**. Classify each kit line by line and, where material, seek a binding classification ruling.
+## 出口商可以控制的分类基础
+中国出口方面,分类依据**统一制度/进出口关税**和海关分类决定机制(海关总署维持统一制度,以下链接)进行。 尚未组装/拆卸的成套物品是否被归类为文章,它将变成解释的一般规则和具体关税细目和裁决的转折——** 本指南没有将GRI 2(a)作为包件的确定的法律结论,因为此处没有记录海关组织/海关对确切包件的主要裁决**。 按行对每套包进行分类,在材料方面,寻求具有约束力的分类裁定。
 
-## The destination side is the controlling, country-specific question
-Whether a kit qualifies for lower "local assembly" tariff treatment, a required local-content ratio, or an investment incentive is decided by the **destination country's customs, tax and investment authorities**. China export-side rules and commercial web pages cannot establish that outcome. A different destination can reach a different result for an identical kit, and treating unassembled parts as a whole vehicle for duty (or vice versa) must be evidenced by that country's authority.
+## 目的地是控制国家的问题
+成套工具是否有资格享受较低的“地方集会”关税待遇、规定的当地含量比例或投资奖励,由**目的地国家的海关、税务和投资当局决定。 中国出口侧规则和商业网页不能确定这一结果。 不同的目的地可以对一个相同的包取得不同的结果,而将未组装的部件作为整车处理以作为值班工具(反之亦然),必须由该国的权威加以证明。
 
-## What to assemble before quoting a kit programme
-1. **Bill of materials by HS line** — list every module/component with its own HS code, origin and value.
-2. **Chinese export classification** — apply the HS/tariff and obtain a ruling where ambiguity is material.
-3. **Destination ruling** — obtain the destination customs/tax position on kit classification, duty, local-content and assembly conditions before committing investment.
-4. **Origin documentation** — determine whether the assembled vehicle qualifies for preferential origin (see the certificate-of-origin guide).
-5. **Contract split** — separate goods supply, assembly technology/tooling and after-sales so scope and payment are clear.
+## 在引用工具包方案之前,要集合什么?
+1. ** 按统一制度线分列的材料清单**——列出每个模块/组件,并列出其自己的统一制度代码、来源和价值。
+2. ** 中国出口分类**——适用统一制度/关税,并在含糊不清的情况下作出裁定。
+3. ** 招标裁决**——在进行投资之前,获得关于货包分类、关税、当地含量和装配条件的目的地海关/税务地位。
+4. ** 奥里金文件**——确定组装车辆是否有资格优先使用原产地(见原产地证书指南)。
+5. ** 合同分割**——单独的货物供应、装配技术/工具及售后,因此范围和付款是明确的。
 
-## Evidence ceiling (read before promising tariff savings)
-This page intentionally does **not** claim a universal CKD/SKD definition, a fixed duty advantage, or a local-content threshold. Those are blocked pending primary WCO/destination-authority evidence; without it, present them as items to confirm, not facts.
+## 证据上限(在有希望的关税节省之前查阅)
+本页故意****不要求通用的CKD/SKD定义、固定的关税优势或当地含量阈值。 这些证据被冻结,等待海关组织/目的地授权主要证据;没有证据,则作为确认物品而不是事实。
 
-## FAQ
-**Does labelling a shipment "CKD" lower duty automatically?** No — destination customs decides classification and treatment.
-**Is GRI 2(a) a guaranteed basis for kit classification?** It must be assessed against the exact goods with a primary ruling; it is not asserted as settled here.
-**Who sets local-content rules?** The destination country's authorities; they vary by market.
-**Can one kit design work in every market?** No — classification and assembly conditions are country-specific.
-**What should the BOM do?** Assign an HS line, origin and value to every component before classification.
+## 财务问题
+** 是否自动标注“CKD”的较低关税? ** 否-目的地海关决定分类和处理。
+** 全球RI 2(a)是否是成套资料分类的保证基础? ** 必须根据有主要裁决的准确货物进行评估;此处没有断言它已经解决。
+** 谁制定本地内容规则? ** 目的地国当局因市场而异。
+** 每个市场都有一个工具包设计工作吗? ** 不——分类和组装条件因国家而异.
+* 管理局应做什么? ** 在分类前为每个组成部分指定一个HS线,来源和值.
 
 
-## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
+## 源码验证(V)
+| 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
 |---|---|---|---|---|---|---|
-| 中华人民共和国海关进出口货物商品归类管理规定 | 中国政府网 | CN | T1 | VERIFIED | https://www.gov.cn/zhengce/2021-09/06/content_5723370.htm | 归类以协调制度/进出口税则为基础, 归类裁定与决定 |
-| 汽车CKD散件出口原产地证填制（行业流程，T4仅线索） | 顺企网 | CN | T4 | UNVERIFIED | https://m.11467.com/product/d53830031.htm | 成套散件清单/HS逐项整理流程线索 |
-| 成套散件(SKD/CKD)进口申请表说明（反向参考，T4） | 顺企网 | CN | T4 | UNVERIFIED | https://m.11467.com/product/d14729353.htm | 成套散件申报要素线索 |
-| Harmonized System Nomenclature (WCO) | World Customs Organization | CN | T1 | VERIFIED | https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools/hs-nomenclature-2022-edition.aspx | HS nomenclature is the classification basis maintained by WCO |
-| WCO Origin instruments and tools | World Customs Organization | CN | T1 | VERIFIED | https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx | rules-of-origin framework and instruments maintained by WCO |
-## Editorial Review
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: CN出口侧框架+目的国（目的国税率须另核）
-- **Verification method**: Desk research against the sources below; Chinese-market reference specification only unless a separate export market is explicitly cited.
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
+| 中华人民共和国海关进出口货物商品归类管理规定 维基月球 | 中国政府网 维基月球 | 氯化萘 | T1 | 实录 | https://www.gov.cn/zhengce/2021-09/06/content_5723370.htm 维基月球 | 归类以协调制度 / 进出口税则为基础, 归类裁定与决定 (中文(简体)). |
+| 汽车捷克克朗 散件出口原产地证填制(行业流程,T4,仅线索) | 顺企网 维基月球 | 氯化萘 | T4 | 未证实 | https://m.11467.com/product/d53830031.htm 维基月球 | 成套散件清单 / 卫生制度 逐项整理流程线索 |
+| 成套散件 (SKD/CKD) 进口申请表说明 (反向参考, T4) (中文(简体)). | 顺企网 维基月球 | 氯化萘 | T4 | 未证实 | https://m.11467.com/product/d14729353.htm 维基月球 | 成套散件申报要素线索 维基月球 |
+| 统一系统名称表(WCO) | 世界海关组织 | 氯化萘 | T1 | 实录 | https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools/hs-nomenclature-2022-edition.aspx 维基月球 | 统一制度术语是海关组织维持的分类基础。 |
+| 原产文书和工具 | 世界海关组织 | 氯化萘 | T1 | 实录 | https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx 维基月球 | 海关组织维持的原产地规则框架和文书 |
+| 世贸组织海关估价协定 | 世界贸易组织 | INT 信息技术 | T1/T2 | 实录 | https://www.wto.org/english/tratop_e/valuation_e/valuation_e.htm 维基月球 | 与倒闭装箱和组装装置有关的海关估价框架的价值不同;其本身没有规定目的地装配关税 |
+| 海关 HS 名词——分类工具(GRI) | 世界海关组织 | INT 信息技术 | T1/T2 | 实录 | https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools.aspx 维基月球 | 《解释通则》(包括GRI 2(a))规范未组装/拆卸的倒闭货物的分类;深页 |
+## 编辑评论
+- ** 作者**:自动桥出口编辑组 · [作者](/作者/) · [编辑政策](/编辑政策/)
+- ** 上次审查**:2026-09-05
+- **参考市场**:氯化萘出口侧框架 + 目的国 (目的国税率须另核)
+- ** 核查方法**: 案头研究对照以下来源;中国市场参考规格仅需明确引用单独的出口市场.
+- ** 透明度**:使用了大赦国际协助的起草。 本条以案头研究和自动化质量保证为基础。 除非有明确文件证明,否则不声称进行第一手测试;在交易前确认时间敏感和目的地特定的要求。
 
-## Image Record
-- **IMAGE_ASSET_PATH**: none secured in repository
-- **ORIGINAL_IMAGE_URL**: not captured
-- **SOURCE_PAGE**: not captured
-- ! ! ! ! ! ! ! ! ! ! unconfirmed
-- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
-- **CHECKED_DATE**: 2026-09-05
-- **MODEL_TOPIC_MATCH**: exact CKD/SKD Knockdown Export and Overseas Assembly
-- **IMAGE_RIGHTS_STATUS**: FAIL
-- **ALT (12 languages)**:
+## 图像记录
+- **IMAGE_ASST_PATH**:没有在仓库中安全
+- ** ORIGINAL_IMAGE_URL**:未捕获
+- ** 资源:未捕获
+- ** UNURCE_FILE_PAGE**:不适用——未确定候选媒体档案(无执业许可).
+- 霍德尔:未经证实
+- ** LICENSE_OR_USAGE_BASIS**:没有保证——OEM网页的存在不是商业再利用许可证
+- ** 日期:2026-09-06
+- ** MODEL_TOPIC_MATCH**: 准确的CKD/SKD 敲击出口和海外集会
+- **IMAGE_SCOPE_NOTE**:图像必须只与确切的模型家族/主题相符;不得暗示特定的修饰,模型年份,真实的VIN,当面检查或实际交易.
+- 错误
+- **BLOCK_REASON**:无法保证可重复使用的图像:维基媒体Commons/Flickr无法从研究环境中获取,股票库需要认证API/许可证访问,OEM网页图像不是商业再利用的赠款. 不存在自动包头拥有的照片 。 记录保留了FAIL,而不是断言。
+- ** ALT(12种语言)**:
   - **EN**: CKD SKD knockdown, Chinese-market procurement guide export buyer reference
   - **FR**: CKD SKD knockdown, procurement guide du marché chinois, référence acheteur export
   - **DE**: CKD SKD knockdown, Chinesischer procurement guide, Referenz für Exportkäufer

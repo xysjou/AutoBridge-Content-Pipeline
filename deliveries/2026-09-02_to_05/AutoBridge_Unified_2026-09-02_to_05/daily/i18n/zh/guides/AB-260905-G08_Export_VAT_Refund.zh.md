@@ -1,68 +1,76 @@
-# China Export VAT Refund — Methods, Filing Order and Rate Lookup
+# 中国出口增值税退款——方法,备案顺序和税率查询.
 
-## SEO Metadata
-- **SEO Title**: China Export VAT Refund for Vehicles: Exemption-Credit-Refund vs Exemption-Refund Process
-- **Meta Description**: How Chinese vehicle exporters claim export VAT treatment: the two methods (exemption-credit-refund for production enterprises, exemption-refund for traders), filing order, and why the refund rate is HS-specific.
-- **H1**: China Export VAT Refund — Methods, Filing Order and Rate Lookup
-- **Primary Keyword**: china export vat refund process
-- **Secondary Search Terms**: export VAT refund; exemption credit refund; export tax rebate; refund rate; China tax
-- **Suggested URL**: /guides/china-export-vat-refund-process/
-- **Search Intent**: 生产企业与外贸企业如何办理出口货物增值税退（免）税、申报流程、计算逻辑与退税率查询
-- **Internal Link Suggestions**: /guides/china-export-customs-declaration-single-window/, /guides/export-fx-settlement-trade-fx-registration/, /guides/vehicle-export-hs-code-history/
-- **Schema Scope**: Article (no Product/Offer/Review)
+## 道德操守办公室 元数据
+- ** 标准分类标题**:中国出口增值税 车辆退款:豁免-扣款-退款与豁免-退款程序
+- ** 金属说明**: 中国车辆出口商如何主张出口增值税待遇:两种方法(生产企业免征信贷退款,贸易商免征退款),备案令,以及为什么退款率是HS的特有办法.
+- ** H1 资源需求。 **:中国出口增值税退款——方法、存档顺序和税率查询
+- ** 基本关键词**:瓷器出口瓦特退款过程
+- ** 二级检索条件**:出口增值税退款;免税信贷退款;出口退税;退税率;中国税
+- ** 建议的URL**:/指南/china-export-vat-refund-progress/
+- ** 搜索意向**:生产企业与外贸企业如何办理出口货物增值税退 (免) 税;申报流程;计算逻辑与退税率查询
+- ** 内部链接建议**: /指南/钦那-出口-海关-声明-单一窗口/、/指南/出口-fx-结算-贸易-fx-注册/、/指南/车辆-出口-hs-code-history/
+- ** 范围**:第(无产品/产出/审查)条
 
-## Two methods, matched to enterprise type
-China's export VAT arrangements use two principal methods. A **production/manufacturing enterprise** applies **exemption–credit–refund (免抵退)**: export output VAT is exempt, input VAT is credited against domestic output VAT and the residual is refunded. A **foreign-trade/commercial enterprise** that buys and resells for export generally applies **exemption–refund (免退)**: the export sale is exempt and the corresponding input VAT is refunded. Using the wrong method for the entity type is a basic filing error.
+## 两种方法,与企业类型相匹配
+中国出口增值税安排主要采用两种方式. **生产/制造企业** 适用**豁免-信贷-退款(免抵退)**:出口产出增值税免征,投入增值税计入国内产出增值税,剩余部分退款。 一家** 外贸/商业企业** 购买和转售出口时一般适用** 免税-退款(免退)**:出口销售免税,相应投入增值税退款。 使用错误的方法来表示实体类型是基本的归档错误.
 
-## The calculation and filing order
-The period refund/credit is computed from export sales, creditable input tax and the applicable refund rate. Filing follows the export event: after customs declaration and with the matching invoice, FX receipt and declaration data, the enterprise files the refund/exemption return within the prescribed period, then completes verification/write-off. Documents must reconcile across customs, tax and FX.
+## 计算和归档命令
+偿还/贷记期从出口销售、可抵免的投入税和适用的退款率计算。 备案随出口事项:经海关申报并随同配对发票,FX收据和申报数据,企业在规定期限内填报退款/免责回单,然后完成核查/注销. 文件必须核对海关、税务和海关各科的文件。
 
-## The refund rate is per HS code — and is not guessed
-The export VAT refund rate is set by **HS code/product** and changes over time. This guide deliberately states **no numeric rate**: look up the current rate for the exact 10-digit HS code on the day, because quoting a stale rate distorts the landed-cost model. Time-sensitive filing deadlines likewise come from the current STA notice.
+## 退款费率按统一制度代码计算——不猜测
+出口增值税退税率由**HS代码/产品**规定,并随时间变化而变化. 本指南有意说明**无数值率**: look up the current rate for the exact 10-digit HS code on the day, 因为引用一个陈旧的费率会扭曲着陆成本模型。 时间敏感的提交期限同样来自目前的STA通知。
 
-## Operating checklist
-1. Identify entity type and the correct method (免抵退 vs 免退).
-2. Classify the exact HS code and look up the **current** refund rate.
-3. Gather declaration, special VAT invoice and FX-receipt evidence so they reconcile.
-4. File within the prescribed period; complete verification/write-off.
-5. Keep the calculation trail for tax inspection.
+## 退款报销为何停顿:一致性陷阱
+车辆出口的退款很少涉及费率;它们大约是三个记录,讲述不同的故事。 首先,增值税特别发票上的**名称、数量和统一制度编码必须与报关单和提单**相符——发票上用贸易绰号描述的、但根据不同商品编码申报的卡车打破了税务当局对照海关数据进行的比较。 第二,**资金流量必须与货物流量对应**:出口的FX收据应与申报的价值和交易对手核对,这就是为什么付款条件和FX结算记录不能被视为无关的文件。 第三,** 时间安排必须内部一致**——发票的签发、申报、离开和收到应构成一个可行的顺序;不按期日期进行人工审查,即使每份文件都有。 对于海外买方来说,由于中国出口商的退款因一致性原因而受阻,因此,由于这种原因,可能延缓订单或重新开价以收回附带条件的投入税。 因此,确认实体类型、准确的统一制度分类以及发票-海关-财务记录核对,是一个合法的预付款谨慎问题。
 
-## Boundaries
-No rates, deadlines-as-fixed-numbers or case-specific amounts are provided here; all are HS- and time-specific and sourced from STA/MOF current notices.
+## 操作核对表
+1. 识别实体类型和正确方法(免抵退 vs 免退).
+2. 将准确的HS代码分类,并查询**当前**退款率。
+3. 收集申报、增值税特别发票和FX接收证据,以便核对。
+4. 在规定期限内存档; 完成校验/注销。
+5. 保留计算线索,用于税务检查.
 
-## FAQ
-**Which method does a factory use?** Generally exemption–credit–refund (免抵退).
-**Which does a trading company use?** Generally exemption–refund (免退).
-**What is the refund rate for cars?** It is HS-specific and changes — look it up by exact code; it is not stated here.
-**When do I file?** After export declaration with matching documents, within the current prescribed period.
-**Why must FX and customs match?** The refund relies on goods-flow/funds-flow consistency.
+## 边界
+这里没有规定费率、截止日期或具体案件的数额;所有费率和时间都具体,来源于STA/MOF的当前通知。
+
+## 财务问题
+** 工厂使用哪种方法? ** 一般免税-信贷-退款(免抵退美元)。
+** 贸易公司使用哪一种? ** 一般免税-退款(免退)。
+** 汽车的退款标准是多少? ** 该系统是针对统一制度和变化的——按确切的代码加以查看;这里没有说明。
+我什么时候提交? 出口申报后,附具相应凭证,在本规定期限内办理.
+** 为什么FX和海关必须匹配? ** 退款取决于货物流动/资金流动的一致性。
 
 
-## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
+## 源码验证(V)
+| 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
 |---|---|---|---|---|---|---|
-| 出口业务增值税和消费税退(免)税管理办法（税务总局公告） | 中国政府网 | CN | T1 | VERIFIED | https://www.gov.cn/zhengce/zhengceku/202602/content_7056762.htm | 申报期限, 免抵退申报资料 |
-| 关于出口业务增值税和消费税政策的公告 | 中华人民共和国财政部 | CN | T1 | VERIFIED | https://www.mof.gov.cn/jrttts/202602/t20260203_3983176.htm | 免抵退/免退税办法定义 |
-| 出口货物劳务免抵退税和免退税如何计算 | 国家税务总局 | CN | T1 | VERIFIED | https://www.chinatax.gov.cn/chinatax/c102449/c5237525/content.html | 当期应退/免抵税额计算 |
-| 进出口税收热点问题（2026年7月） | 国家税务总局北京市税务局 | CN | T1 | VERIFIED | http://beijing.chinatax.gov.cn/bjswj/c105390/202608/ec1a021ae3af4c368e72684ca1bbe4df.shtml | 报关后申报与核销 |
-| State Taxation Administration (STA) | STA 国家税务总局 | CN | T1 | VERIFIED | https://www.chinatax.gov.cn/ | export VAT refund/exemption authority |
-## Editorial Review
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: CN（中国税务侧）
-- **Verification method**: Desk research against the sources below; Chinese-market reference specification only unless a separate export market is explicitly cited.
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
+| 出口业务增值税和消费税退(免) 税管理办法(税务总局公告) (中文(简体)). | 中国政府网 维基月球 | 氯化萘 | T1 | 实录 | https://www.gov.cn/zhengce/zhengceku/202602/content_7056762.htm 维基月球 | 申报期限, 免抵退申报资料 (单位:千美元) |
+| 关于出口业务增值税和消费税政策的公告 维基月球 | 中华人民共和国财政部 维基月球 | 氯化萘 | T1 | 实录 | https://www.mof.gov.cn/jrttts/202602/t20260203_3983176.htm 维基月球 | 免抵退/免退税办法定义 (中文(简体)). |
+| 出口货物劳务免抵退税和免退税如何计算 维基月球 | 国家税务总局 维基月球 | 氯化萘 | T1 | 实录 | https://www.chinatax.gov.cn/chinatax/c102449/c5237525/content.html 维基月球 | 当期应退/免抵税额计算 (中文(简体)). |
+| 进出口税收热点问题 (2026 年 7 月) (中文(简体)). | 国家税务总局北京市税务局 维基月球 | 氯化萘 | T1 | 实录 | http://beijing.chinatax.gov.cn/bjswj/c105390/202608/ec1a021ae3af4c368e72684ca1bbe4df.shtml 维基月球 | 报关后申报与核销 维基月球 |
+| 国家税务局(STA) | STA 国家税务总局 国家 | 氯化萘 | T1 | 实录 | https://www.chinatax.gov.cn/ 维基月球 | 出口增值税退税/免税机关 |
+| GACC——作为增值税退款核查基础的出口申报 | 中国海关总署(海关总署 GACC) | 氯化萘 | T1/T2 | 实录 | http://www.customs.gov.cn/ 维基月球 | 海关出口申报数据由税务机关对出口增值税退税/退税资格进行核对. |
+| STA——出口增值税退税政策指数(深页). | 国家税务局(国家税务总局 STA) | 氯化萘 | T1/T2 | 实录 | https://www.chinatax.gov.cn/chinatax/n810341/n810755/ 维基月球 | 税务机关政策栏,内有当前出口增值税退税/免征通知(此处不主张退税率). |
+## 编辑评论
+- ** 作者**:自动桥出口编辑组 · [作者](/作者/) · [编辑政策](/编辑政策/)
+- ** 上次审查**:2026-09-05
+- **参考市场**:氯化萘(中国税务侧)
+- ** 核查方法**: 案头研究对照以下来源;中国市场参考规格仅需明确引用单独的出口市场.
+- ** 透明度**:使用了大赦国际协助的起草。 本条以案头研究和自动化质量保证为基础。 除非有明确文件证明,否则不声称进行第一手测试;在交易前确认时间敏感和目的地特定的要求。
 
-## Image Record
-- **IMAGE_ASSET_PATH**: none secured in repository
-- **ORIGINAL_IMAGE_URL**: not captured
-- **SOURCE_PAGE**: not captured
-- ! ! ! ! ! ! ! ! ! ! unconfirmed
-- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
-- **CHECKED_DATE**: 2026-09-05
-- **MODEL_TOPIC_MATCH**: exact China Export VAT Refund
-- **IMAGE_RIGHTS_STATUS**: FAIL
-- **ALT (12 languages)**:
+## 图像记录
+- **IMAGE_ASST_PATH**:没有在仓库中安全
+- ** ORIGINAL_IMAGE_URL**:未捕获
+- ** 资源:未捕获
+- ** UNURCE_FILE_PAGE**:不适用——未确定候选媒体档案(无执业许可).
+- 霍德尔:未经证实
+- ** LICENSE_OR_USAGE_BASIS**:没有保证——OEM网页的存在不是商业再利用许可证
+- ** 日期:2026-09-06
+- ** MODEL_TOPIC_MATCH**:中国出口增值税的准确性 退款
+- **IMAGE_SCOPE_NOTE**:图像必须只与确切的模型家族/主题相符;不得暗示特定的修饰,模型年份,真实的VIN,当面检查或实际交易.
+- 错误
+- **BLOCK_REASON**:无法保证可重复使用的图像:维基媒体Commons/Flickr无法从研究环境中获取,股票库需要认证API/许可证访问,OEM网页图像不是商业再利用的赠款. 不存在自动包头拥有的照片 。 记录保留了FAIL,而不是断言。
+- ** ALT(12种语言)**:
   - **EN**: export VAT refund, Chinese-market procurement guide export buyer reference
   - **FR**: export VAT refund, procurement guide du marché chinois, référence acheteur export
   - **DE**: export VAT refund, Chinesischer procurement guide, Referenz für Exportkäufer

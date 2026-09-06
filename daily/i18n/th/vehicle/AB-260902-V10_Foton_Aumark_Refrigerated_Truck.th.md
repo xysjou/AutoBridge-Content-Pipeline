@@ -1,85 +1,88 @@
-# Foton Aumark (奥铃) Refrigerated Truck — Chassis, Reefer Body and Cooling-Unit Buyer Guide
+# โฟตัน ออมาร์ก (奥铃) รถบรรทุกที่ตกแต่งใหม่ — ฌาสซิส, ร่างไม้เลื้อย และ คู่มือ Cooling-Oit Buyer
 
-## SEO Metadata
-- **SEO Title**: Foton Aumark Refrigerated Truck Specs & Reefer Build Export Guide
-- **Meta Description**: Foton Aumark (Ollin) reefer: 150 PS Jieyun chassis, 4.085 m insulated body, GVW 4.495 t, Thermo King/domestic unit options, and how to specify a refrigerated truck for export.
-- **Suggested URL**: /vehicles/foton-aumark-refrigerated-truck/
-- ~ H1~: Foton Aumark Refrigerated Truck: Separating Chassis, Insulated Body and Refrigeration Unit
-- **Primary Keyword**: Foton Aumark refrigerated truck specifications export
-- **Secondary Search Terms**: Ollin reefer truck China, Foton Cummins 2.8 refrigerated, Thermo King T880 Pro truck, 4.5t reefer truck export, Chinese cold chain truck
-- **Internal Link Suggestions**: /vehicles/jac-kangling-light-truck/ ; /guides/commercial-truck-fleet-procurement-china/ ; /guides/marine-cargo-insurance-car-import/
-- **Image Suggestions**: side view reefer body; refrigeration unit on cab roof; insulated box interior with meat hooks; chassis plate; temperature controller
-- **ALT Suggestions**: "Foton Aumark 4x4 refrigerated truck with insulated box, China spec"; "Truck-mounted Thermo King refrigeration unit"; "Reefer box interior and meat-rail"
+## เชา ข้อมูลกํากับภาพ
+- < secontinuation*: โฟทัน ออมาร์ก รีฟรีเกร์ก เอค เอคเอคส์ แอนด์ รีฟเวอร์ ไมโครซอฟต์
+- ** คําอธิบายของเมตา*: โฟตัน ออมาร์ก (Ollin) ฟอสเตอร์: 150 PS Jiayun Chasis, 4.085 m ประกอบด้วยร่างกาย GVW 4.495 t, Thermo King/Domestic Case และวิธีระบุรถที่อุ่นเครื่องสําหรับส่งออก
+- ~ที่อยู่ URL ที่ถูกย่อ: / เวกซี่/โฟตัน-อารีเอค
+- ** H1 ~: โฟตัน ออมาร์ก รีฟรีเกร์กเจอร์ รถบรรทุก: แยกชาซิส, ร่างที่รวมเข้ากับเครื่องปฏิรูปและเครื่องปฏิรูป
+- ~ คําสําคัญในคอลัมน์ ~: Foton Audarmurreted carbooks expression
+- ~การค้นหาตามวาระที่: ~ รถบรรทุกโอลิน รีฟเฟอร์ ประเทศจีน โฟตัน คัมมินส์ 2.8 แช่เย็น เท อร์ โม กษัตริย์ T880 รถPro รถบรรทุก 4.5t รถขนดินส่งออก รถขนขยะจีนเย็น
+- ~ ลิงก์ภายในที่แนะนํา~ ~/ viohics/jac-king-light-hach/;////commercial-range - prink-raint-china/ chinishs/main-cargo-inzure-car-morts/
+- ~คําแนะนําของโครงการ ~: มองเห็นร่างกายด้านข้าง; ห้องทําความเย็นบนหลังคารถแท็กซี่; กล่องบรรจุเนื้อภายในด้วยตะขอ; แผ่นชาสซี; ตัวควบคุมอุณหภูมิ
+- "รถบรรทุกแช่แข็งรุ่นฟลายตั้ม 4x4 ที่บรรจุกล่องบรรจุสารจีน" "Truck-mounted Themo King Creririgeration". "Reeffer Facter in in and Teal".
 
-## How to Spec a Refrigerated Truck
+## วิธี ตรวจ ดู รถ บรรทุก ที่ ปรับ ตัว ได้
 
-A reefer is really **three products in one**: a donor chassis, an insulated cargo box, and a refrigeration unit — often made by different manufacturers. Comparing "reefer truck prices" without naming all three is misleading. The reference vehicle is the **Aumark Jieyun (捷运) 150 PS 4×2, whole-vehicle announcement BJ5041XLC8JDA-AB1 (chassis BJ1041V9JDA-AB1)** with a 4.085 m reefer body; Foton also sells the Suyun (速运) with Foton Cummins power. Detailed Jieyun figures are single-source (360che); Cummins Suyun details are cross-checked with Foton official material.
+A reefer is really **three products in one**: ผู้ บริจาค ฌาส ซี, กล่อง สินค้า ที่ เคลือบ ไว้, และ ห้อง ทํา ความ เย็น — มัก ทํา โดย ผู้ ผลิต คน ละ คน. Comparing "reefer truck prices" without naming all three is misleading. The reference vehicle is the **Aumark Jieyun (捷运) 150 PS 4×2, ประกาศเรื่องทางรถไฟทั้งลํา BJ5041XLC8JDA-AB1 (chasis BJ1041V9JDA-AB1) ~ด้วยศพแนวปะการัง 4.085 m m; โฟตันยังขายซูยยอน (速运) ด้วยอํานาจโฟตัน คูมมินส์ Detailed Jieyun figures are single-source (360che); Cummins Suyun รายละเอียดของการตรวจสอบกับ Folton ข้อมูลอย่างเป็นทางการ
 
 ## Chasis and Driveline
 
-| Item | Jieyun 150 reference (per 360che) |
+| รายการ | Jiayun 150 อ้างอิง (Per 360che) |
 |---|---|
-| Announcement / drive | BJ5041XLC8JDA-AB1 / BJ1041V9JDA-AB1, 4×2, wheelbase 3360 mm |
-| Overall L×W×H | 5.995 × 2.32 × 3.42 m |
-| Engine | Yunnei D25TCIF1, 2.5 L inline-4 diesel, 110 kW (150 PS) / 400 N·m, China VI |
-| Gearbox | ZF 6-speed |
-| Curb / rated payload / GVW | 3.2 t / 1.1 t / **4.495 t** |
-| Tyres / top speed | 7.00R16LT 8PR ×6; 95 km/h |
+| ประกาศ / ไดรฟ์ | BJ5041XLC8JDA-AB1 / BJ1041V9JDA-AB1, 4 × 2 เบสล้อ 3360 mm |
+| โอเวอร์วาวาเกีย | 5.995 × 2.32 × 3.42 m |
+| กลไก | ยุนไน D25TCIF1 2.5 L ในสาย 4 ดีเซล (พ.ศ. 110 kW (150 PS) / 400 N·m (พ.ศ.  China VI |
+| กล่องปรับเลข | ZF 6-speed |
+| เคอร์บ / อัตราการโหลด / จีวีดับเบิลยู | 3.2 t / 1.1 t / **4.495 t** |
+| ไทระ / ความเร็วสูงสุด | 7.00R16LT 8PR ×6; 95 km/h |
 
-Alternative **Suyun** power (official/cross-checked): Foton Cummins 2.8 L at 156 PS, with a 163 PS version at 470 N·m. If long-haul reliability and global Cummins service matter more than acquisition cost, compare the Cummins-powered Suyun against the Yunnei Jieyun rather than choosing on horsepower alone.
+Out position=-suyun" พลังอํานาจ (official/cross-clook) Foton Cummins 2.8 L ที่ 156 PS โดยมีรุ่น 163 PS ที่ 470 N·m. ถ้าการให้บริการของบริษัทคอมมินส์มีความยาวมาก และมีค่านิยมระดับโลก มากกว่าค่าใช้จ่ายที่ซื้อได้ ก็เปรียบเทียบกันกับบริษัทซุมมินที่มีอํานาจกับยุนนีจียอน มากกว่าเลือกใช้แรงม้าอย่างเดียว
 
-## The Insulated Box (the part buyers overlook)
+## กล่อง ที่ ถูก เก็บ รักษา ไว้ (ส่วน ที่ ผู้ ซื้อ มอง ข้าม)
 
-| Item | Reference value |
+| รายการ | ค่าอ้างอิง |
 |---|---|
-| Jieyun reefer box | 4.085 × 2.10 × 2.30 m |
-| Suyun box | 4.08 × 2.10 × 2.10 m, about **18 m³** |
+| กล่องปรับแนวปะการังของ Jeyun | 4.085 × 2.10 × 2.30 m |
+| กล่องซูยอน | 4.08 × 2.10 × 2.10 m  about **18 m³** |
 
-Box performance depends on insulation thickness and panel process (sandwich panels, foam type and density), floor load rating, door seals and whether a meat-rail/meat-hook interior is fitted — a CIMC meat-hook reefer body is one listed option. For export, specify: required internal temperature set-point, panel material/thickness, floor type (aluminium tread plate etc.), side/rear door arrangement, and meat-hook or shelf fitment. These change payload (the insulated body is heavy — note the reference payload is only ~1.1 t at 4.495 t GVW) and price substantially.
+การแสดงของกล่องขึ้นอยู่กับความหนาและแผงควบคุม (แผงแผงจับของแผ่นไม้, ชนิดของโฟม และความหนาแน่น), การโหลดระดับชั้น, ตราประตูและว่าภายในเนื้อขาหรือเนื้อขา จะติดตั้ง — ร่าง proped-hook สําหรับส่งออก, ระบุ: ต้องการอุณหภูมิภายใน, องค์ประกอบ/ ความไม่สมดุล, ชนิดพื้น (แผ่นยาง) ด้านข้าง/ด้านประตู, และเนื้อ-ตะขอ หรือชั้นวาง These change payload (the insulated body is heavy — note the reference payload is only ~1.1 t at 4.495 t GVW)  and  ราคาสูงมาก
 
-## Refrigeration Unit Options
+## ตัวเลือกการไล่ระดับสี
 
-The captured reference lists three fitment routes (single-source, to be confirmed with the builder):
+การอ้างอิงที่ถูกจับได้ระบุว่ามีเส้นทางสามเส้นทางที่พอดี (แหล่งกําเนิดการรับรองกับผู้สร้าง):
 
-- **Imported standalone unit**: Thermo King T880 Pro independent refrigeration unit — independent units have their own engine and keep cooling when the truck engine is off, preferred for long-haul/pharma/deep-frozen work.
-- **Domestic unit**: Sanfeng (三丰) 590, rated to around **−18 °C** for frozen goods.
-- **Specialised body**: CIMC meat-hook reefer box for carcass transport.
+- ~หน่วยทหารเดี่ยว: ธีโรโมคิง T880 ~ หน่วยทําความเย็นอิสระ อิสระมีเครื่องยนต์ของตัวเอง และให้เย็นเมื่อเครื่องยนต์รถบรรทุกปิด
+- หน่วยช่วย เหลือ: Sanfang (三丰) 590 เรตติ้ง รอบ ๆ − 18 °C ** สําหรับสินค้าแช่แข็ง
+- ซีซี ชิปปิ้งกล่องสําหรับเคลื่อนย้ายซาก
 
-Procurement questions that decide the unit: required set-point and pull-down time (chilled ~0 to +5 °C vs frozen −18 °C vs ultra-low), standalone (own engine) vs vehicle-driven/compressor, standby electric operation for depot plug-in, and — critically for an importer — **local service and spare parts for the refrigeration brand**. An imported Thermo King/Carrier unit is easier to service in many countries but costs more; a domestic unit needs a confirmed parts route.
+คําถามสําหรับตัดสินหน่วย: จําต้องการการตั้งค่าและลดเวลา (พิมพ์เมื่อ 0 ถึง + 5 °C vsแช่แข็ง SO 18 °C vs anfig-low), ยืนอยู่ (เครื่องยนตร์) vs ขับเคลื่อนรถ/คอมเพรสเซอร์ เตรียมปฏิบัติการไฟฟ้าสําหรับเสียบรถบรรทุก และ — วิกฤตสําหรับผู้นําเข้า -- transferer — per และสํารองอะไหล่สําหรับแบรนด์ทําความเย็น (ค.ศ. การนําเข้า Themo King/Ander หน่วยได้ง่ายกว่าในการให้บริการในประเทศหลาย ๆ ประเทศ แต่ต้นทุนมากขึ้น หน่วยในประเทศต้องการเส้นทางส่วนที่ยืนยันได้
 
-## What AutoBridge Adds Beyond a Chassis Quote
-Reefer quotes often price a chassis and leave the box and cooling unit vague. The recommended method is to keep **chassis / insulated box / refrigeration unit as three separately specified, separately priced lines**, match the **box material/thickness and K-value plus the unit's temperature range and standby (electric) option** to the operating climate, and check the whole combination against the **destination food/pharma cold-chain certification** before deposit.
-## Verification Before Payment
+## สิ่งที่ออโตไบดเพิ่มเกินส่วนที่อ้างถึง
+นัก เดิน เรือ มัก จะ เรียก ราคา ชะมด และ ปล่อย กล่อง ไว้ และ ทํา ให้ เครื่อง เย็น ตัว เย็น เยือก. วิธีการที่แนะนําคือเก็บ... Chasis / resized box / resenterurations value เป็นสามบรรทัดที่แยกต่างหาก, แถวราคา *, ตรงกับค่าของ </ took/thicks and ค่าของ K บวกกับค่าอุณหภูมิของหน่วย และค่ารักษาอุณหภูมิ (ไฟฟ้า) ร่วมกับอุณหภูมิที่ทํางานอยู่ และตรวจสอบการรวมกันทั้งหมด กับอาหารที่ขายได้/ caterma capillation ก่อนการวาง
+## การตรวจสอบก่อนจ่ายเงิน
 
-- Obtain the **factory/coachbuilder spec for chassis, box and refrigeration unit separately**, with model numbers; the 360che figures are single-source.
-- Confirm **GVW (4.495 t reference) and net payload** once the insulated box and unit are fitted — reefer bodies eat payload, and destination licensing at this GVW class must be checked.
-- Confirm engine emission acceptance at destination (China VI is not automatic proof of local compliance) and fuel quality suitability.
-- Specify temperature set-point, insulation panel spec, door/meat-rail layout and unit brand/standalone capability in writing.
-- Confirm refrigeration-unit warranty and local after-sales; confirm chassis after-sales for Yunnei vs Cummins engines.
-- Confirm LHD/RHD, tyre availability (7.00R16LT 8PR) and whether the reefer body is factory-fitted or locally installed.
+- Obtain an University/coachener speck for Chasis, กล่องและห้องแช่เย็นแยกกัน! มีหมายเลขโมเดล; ตัวเลข 360che เป็นซิงเกิล-source.
+- ยืนยัน **GW (อ้างอิง 4.495 t)  and  เก็บเงินจากเครือข่ายเมื่อกล่องที่บรรจุ  and  หน่วยนี้ติดตั้งไว้ ซากศพปะการังกินกระสุน  and  ปลายทางเริ่มเลินเล่อที่คลาส GVW นี้จะต้องตรวจสอบ
+- Confirm engine emission acceptance at destination (China VI is not automatic proof of local compliance)  and  เหมาะสมกับพลังงาน
+- ระบุอุณหภูมิที่ตั้ง, สเปกของแผงฉนวน ประตู/ทางเดิน และแบรนด์/ด้านเดียวของหน่วย ในการเขียน
+- ยืนยันการรับประกันความเย็นและพื้นที่หลังการสิ้นสุด ยืนยันว่าชาสซีสหลังการล้าง สําหรับ ยุนนี vs Cummins เครื่องยนต์
+- ยืนยัน LHD/RHD, tyreable (7.00R16LT 8PR) และไม่ว่าร่างกายของเครื่องปะการังจะเป็นโรงงานหรือติดตั้งภายใน ค.ศ.
 
-## Request a Current Export Quotation
+## ต้องการการอ้างถึงการส่งออกแบบปัจจุบัน
 
-No authoritative price was captured — reefer pricing varies widely with box construction and cooling-unit brand, so no figure is invented. Enclose **Destination Country · Quantity · Chassis/Engine (Yunnei 150 vs Cummins 156/163) · Box Size & Interior · Required Temperature · Refrigeration Unit Brand/Standalone · LHD/RHD · Destination Port · Incoterm**, and request itemised chassis/body/unit pricing.
+ไม่มีราคาตามพระราชบัญญัติการจับ, ราคาของปะการัง แตกต่างกันอย่างกว้างขวางกับแบรนด์การก่อสร้างกล่อง และเครื่องหมายหน่วยเย็น ดังนั้น ไม่ตัวเลขถูกคิดค้นขึ้น Enclose **Destination Country · Quantity · Chassis/Engine (Yunnei 150 vs Cummins 156/163) · Box Size & Interior · Required Temperature · Refrigeration Unit Brand/Standalone · LHD/RHD · Destination Port · Incoterm**,  and  รายการที่ร้องขอมา chasis/body/ยูนิโค้ด pregion
 
-## Buyer FAQ
+## โปรแกรมซื้อ FAQ
 
-**Why is the payload only about 1.1 t on a 4.495 t truck?** The insulated box and refrigeration unit add substantial curb weight (~3.2 t), leaving ~1.1 t; always re-calculate payload for the exact body/unit.
-**What does "standalone/independent unit" mean?** It has its own engine and cools independently of the truck engine — useful for long transit and when parked; vehicle-driven units are cheaper but stop cooling with the engine.
-**Which is better, Yunnei or Cummins power?** The reference Jieyun uses a Yunnei 2.5 L 150 PS; the Suyun offers a Foton Cummins 2.8 L (156/163 PS) with a global service footprint — choose by service network and budget.
-**What temperature can it hold?** The listed domestic Sanfeng 590 targets −18 °C frozen work; achievable set-point depends on the chosen unit and insulation, so specify it.
-**Why is no price given?** Reefer cost depends heavily on the box and cooling unit; no reliable 2026-09-02 price was captured, and one will not be estimated.
+~ทําไมปริมาณรถถึงมี 1.1 t คัน บนรถบรรทุก 4.495 t คัน~ กล่องที่ฝังและเครื่องทําความเย็น เพิ่มน้ําหนักการควบคุมอย่างมหาศาล (~ 3.2 t) ออกจาก ~ 1.1 t; เสมอคํานวณค่าตัว/หน่วยที่แน่นอน
+~ "หน่วยเดียว/ไม่พึ่งใคร" หมายความว่ายังไง? ~ รถ บรรทุก มี เครื่อง ยนต์ และ ความ เย็น ของ รถ เอง โดย ไม่ ต้อง พึ่ง เครื่อง ยนต์ — ที่ ใช้ ได้ กับ การ ขน ส่ง ที่ ยาว นาน และ เมื่อ จอด รถ; หน่วย ขับ รถ ถูก กว่า แต่ หยุด ทํา ความ เย็น ด้วย เครื่อง ยนต์.
+~ซึ่งดีกว่า  Yunnei or Cummins power?** The reference Jieyun uses a Yunnei 2.5 L 150 PS; the Suyun offers a Foton Cummins 2.8 L (156/163 PS) with a global service footprint — choose by service network  and  งบประมาณ
+**What temperature can it hold?** The listed domestic Sanfeng 590 targets −18 °C frozen work; จุดเซตที่สามารถวัดได้ ขึ้นอยู่กับหน่วยที่เลือกและฉนวน, ดังนั้นระบุมัน
+ทําไมราคาไม่ต้องจ่าย ราคา เครื่อง ลาด ตระเวน ขึ้น อยู่ กับ กล่อง และ หน่วย ทํา ความ เย็น อย่าง มาก; ไม่ มี การ จับ จ่าย ราคา ที่ เชื่อ ถือ ได้ 2026-09-02 ดอลลาร์ และ จะ ไม่ มี การ กะ ประมาณ.
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICNE_OR_USARIAND_BALE: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
-- RODL_TOIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- ALT by language:
+## บันทึกรูปภาพ
+- _ปราสาท: ไม่มีความปลอดภัยในคลังเก็บ
+- ส่วนตัว_ปลายทาง: ไม่ได้จับ
+- ผู้โดยสาร: ไม่ถูกจับ
+- HOURS_ PDFAGE: ไม่มีผล — ไม่มีชื่อแฟ้มสําหรับเลือกสื่อ (ไม่มีใบรับรองที่จะยืนยัน)
+- ลิขสิทธิ์: ไม่ยืนยัน
+- LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
+- _กําหนดวันที่: 2026-09-06
+- MERCUL_ TOPIC_ MATCH: ต้องตรงกับรุ่น/ การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
+- CHAR_SCPE_NOTE: ตรงกับโมเดลที่เป๊ะของครอบครัว/ topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
+- March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
+- BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
+- ALT ด้วยภาษา:
   - **EN**: AutoBridge export-buyer reference — Foton Aumark, petrol/diesel Chinese-market vehicle / refrigerated truck
   - **FR**: Référence AutoBridge pour acheteurs export — Foton Aumark, véhicule thermique (marché chinois) / camion frigorifique
   - **DE**: AutoBridge-Referenz für Exportkäufer — Foton Aumark, Verbrenner (chinesischer Markt) / Kühl-Lkw
@@ -93,27 +96,27 @@ No authoritative price was captured — reefer pricing varies widely with box co
   - **AR**: مرجع AutoBridge لمشتري التصدير — Foton Aumark, مركبة بمحرك احتراق (سوق الصين) / شاحنة مبردة
   - **ZH**: AutoBridge 出口采购参考｜Foton Aumark, 中国市场燃油车 / 冷藏车
 
-## Sources & Verification
+## ต้นฉบับและการตรวจสอบสิทธิ์
 
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| Aumark Jieyun 150 reefer parameters | 360che (卡车之家) | CN | http://product.m.360che.com/m441/110460_param.html | 2026-09-02 | ROOS_ CHCKED | Announcement, Yunnei engine, ZF6, weights, box, unit options |
-| Ollin official reefer page | Foton Ollin (official) | CN | https://ollin.foton.com.cn/car/zycshow/TaTn7qVL6p26qu6p7FrF5q | 2026-09-02 | VERIFIED | Mid-truck reefer engine options, box-length series |
-| Suyun reefer delivery case | Foton Ollin (official) | CN | https://ollin.foton.com.cn/ollin/static/html/8CLv714yzXPaamAd6STbfe.html | 2026-09-02 | VERIFIED | 4.2 m reefer, Cummins 2.8, 18 m³, 3360 WB |
-| Ollin reefer article | Dongchedi (懂车帝) | CN | https://www-lq.dongchedi.com/article/7579095048919908888 | 2026-09-02 | ROOS_ CHCKED | Cummins 150/163 PS, 470 N·m |
+| Aumark Jieyun 150 reefer parameters | 360che (卡车之家) (พ.ศ. | CN | http://product.m.360che.com/m441/110460_param.html | 2026-09-02 | ROOS_ CHCKED | สํานักพิมพ์, เครื่องยนต์ยุนไน, ZF6, น้ําหนัก, กล่อง, ตัวเลือกหน่วย |
+| หน้าเครื่องฉายภาพแบบทางการของโอลิน | โฟตอนโอลิน (พ.ศ. | CN | https://ollin.foton.com.cn/car/zycshow/TaTn7qVL6p26qu6p7FrF5q | 2026-09-02 | เปิดใช้งาน | ตัวเลือกของเครื่องยนต์ pread-crack, อนุกรมกล่องแบบหนา |
+| เคสของซอยอนฟราเออร์ | โฟตอนโอลิน (พ.ศ. | CN | https://ollin.foton.com.cn/ollin/static/html/8CLv714yzXPaamAd6STbfe.html | 2026-09-02 | เปิดใช้งาน | 4.2 เม.ฟรอนเซอร์ (พ.ศ. คัมมิน 2.8  18 m³, 3360 WB |
+| บทความ ของ โอ ล ลิน ฟ อร์ เทน เซอร์ | ดองแมดติ (懂车帝) | CN | https://www-lq.dongchedi.com/article/7579095048919908888 | 2026-09-02 | ROOS_ CHCKED | Cummins 150/163 PS, 470 N·m |
 
-| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
-| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
-| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
-| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
+| ผู้ ผลิต และ แคตตาล็อก ผลิตภัณฑ์ ถนน — ระบบ สอบ ถาม ของ ประชาชน |  MIT, กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูลจีน | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | เปิดใช้งาน | ตรวจสอบผู้ผลิต, โมเดลที่อนุญาต และการทําอัลบั้มแบบแบ่งประเภท (公告) ก่อนการสั่งซื้อหรือส่งออก |
+| ขนาด GB 16735-2019 รถ ที่ ใช้ ถนน — หมาย เลข รถ (VIN) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | เปิดใช้งาน | โครงสร้างและชื่อของ platt language ที่ใช้ในการตรวจสอบความถูกต้องของผู้ซื้อ/ ชื่อ |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน สภาวะความปลอดภัยทางเทคนิคและเวลาปัจจุบัน/การปรับปรุง |
+| GB 18352.6-2016 ด้วยระบบไฟฟ้าลัดวงจร XG1-2026 (จีน- 6 ปริมาตรแสงโพลีเจนต์) | กระทรวง นิเวศ วิทยา และ สิ่ง แวด ล้อม (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | เปิดใช้งาน | จีน 6 ระดับแสงและน้ําใส และวันที่ดําเนินการ 2026 มาตราฐาน |
+| GB 19147 เครื่องยนต์ดีเซลมาตรฐานเชื้อเพลิงแห่งชาติ (ฐานเชื้อเพลิงต่ํา) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | เปิดใช้งาน | ระดับเชื้อเพลิงดีเซลและซัลเฟอร์พื้นฐานที่ตรงกับการออกแบบเครื่องยนต์/การให้บริการต่างประเทศ |
 
-*Confidence note (AutoBridge standard): Cummins/Suyun facts are VERIFIED on Foton-official material and cross-checked; detailed Jieyun announcement figures are SINGLE_SOURCE (360che). Reefer unit models and price are builder-dependent and UNVERIFIED for price; confirm in writing.*
+*บันทึกการยอมรับ (มาตรฐานของ ออโตริด): Cummins/Susyun true transact are verviewed on Faton-official file and cross-cossed; รายละเอียดการประกาศของจียอนคือ Single_sEOE (360che). เครื่องสํารวจโมเดลและราคาเป็นการสร้างความพึ่งพา และไม่สามารถดําเนินการได้ด้วยราคา ยืนยันในการเขียน *
 
-## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: China, current-sale announcement configuration
-- **Verification method**: Official Foton material plus an independent commercial database; chassis/body/unit kept separate; single-source and price gaps disclosed
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+## การทบทวนแก้ไข
+- ~Uuthor/ retrieved~: [บีดริดจ์ ส่งออกทีมแก้ไข] (/ ผู้เขียน/) วิธี [แก้ไข] ของเรา [นโยบายการเลือ [/ การแก้ไข- policy/]
+- ~ถูกตรวจสอบแล้ว~: 2026-09-05
+- ~ตลาดแห่งความรุ่งเรือง: จีน การตั้งค่าประกาศผลปัจจุบัน
+- ~ วิธีการสร้าง ♪: faon วัสดุอย่างเป็นทางการ บวกฐานข้อมูลการค้าอิสระ chasis/body/ยูนิโค้ดถูกแยกไว้ ช่องว่างของทรัพยากรและราคาเปิดเผย
+- ~มาตรฐานการแบ่งส่วน ~: Research and med from the source address address (Desk Research; ไม่มีการขับรถมือหนึ่ง, runchown หรือนําเข้า). ความมั่นใจของแหล่งแสดงต่อแถว; จุดใด ๆ ที่เราไม่สามารถยืนยันได้ด้วยตัวเอง ถูกนําเสนอเป็นรายการตรวจสอบแทนการยืนยันว่าเป็นความจริง
 #AutoBridge #VehicleExport #Foton #Aumark #RefrigeratedTruck

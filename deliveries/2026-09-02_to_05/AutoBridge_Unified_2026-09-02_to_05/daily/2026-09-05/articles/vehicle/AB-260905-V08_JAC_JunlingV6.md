@@ -34,6 +34,8 @@ The **JAC Junling V6 (骏铃V6, 2024/2025)** is a Chinese-market diesel light ca
 ## Light-truck export checks: masses need a canonical source
 The engine and cargo-box data come from a mirrored truck-database source, while **GVW/kerb/payload rest on a single mirror and must be confirmed against the 360che canonical page, JAC OEM material or the MIIT announcement** before they are used for loading or homologation. Tyres, rear-axle ratio and fuel-tank size are not captured. Export and right-hand-drive specifications are not established here.
 
+For city-distribution buyers the order-configuration point that most often causes disputes is **which figure governs legal loading in the destination market**. A Chinese blue-plate rating, a factory payload and a destination axle-load limit are three different numbers; the truck must be specified against the binding destination rule rather than the most generous of the three. Wheelbase and cargo-box length also interact with turning circle and local length restrictions, so a box chosen only to maximise volume can create a vehicle that is awkward on narrow urban routes. Confirm GVW, kerb mass, payload, wheelbase and box dimensions as one matched set on the pro forma, and require the supplier to tie each mass figure to its source before deposit.
+
 ## Overseas buyer verification before payment
 1. Confirm GVW 4.495 t / payload 1.735 t against the MIIT announcement or JAC OEM sheet.
 2. Match the cargo box inner dimensions to the intended body.
@@ -70,11 +72,14 @@ The engine and cargo-box data come from a mirrored truck-database source, while 
 - **IMAGE_ASSET_PATH**: none secured in repository
 - **ORIGINAL_IMAGE_URL**: not captured
 - **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
 - **RIGHTS_HOLDER**: unconfirmed
 - **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
-- **CHECKED_DATE**: 2026-09-05
+- **CHECKED_DATE**: 2026-09-06
 - **MODEL_TOPIC_MATCH**: exact JAC Junling V6 light truck
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
 - **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
 - **ALT (12 languages)**:
   - **EN**: JAC Junling V6 light truck, Chinese-market light cargo truck export buyer reference
   - **FR**: JAC Junling V6 light truck, light cargo truck du marché chinois, référence acheteur export

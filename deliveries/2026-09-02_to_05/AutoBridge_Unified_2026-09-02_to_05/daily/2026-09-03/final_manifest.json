@@ -36,7 +36,7 @@
    "SEO_PASS": "PASS",
    "CODEX_REVIEW_PASS": "PENDING",
    "PUBLISH_APPROVED": false,
-   "Final Status": "CODEX_REVIEW_PENDING",
+   "Final Status": "AWAITING_INDEPENDENT_REVIEW",
    "Reserve Replacement": "None",
    "Creation Date": "2026-09-03",
    "Approx Words": 995,
@@ -53,7 +53,12 @@
    "Author_Field": "AutoBridge Export Editorial Team",
    "Image_Rights": "FAIL_NO_LICENSED_ASSET",
    "Locale_FrontMatter": "12/12",
-   "Locale_QA": "PASS"
+   "Locale_QA": "PASS",
+   "Source Scope": "PASS",
+   "Image Rights": "FAIL",
+   "Publish Approved": false,
+   "Human Reviewed": false,
+   "Prepub Repair Date": "2026-09-06"
   },
   {
    "Article ID": "AB-260903-V02",
@@ -65,7 +70,7 @@
    "Search Intent": "vehicle-model-spec",
    "Suggested URL": "/vehicles/byd-dolphin/",
    "Word Filename": "VEH_20260903_02_BYD_Dolphin_2025.docx",
-   "Source Count": 9,
+   "Source Count": 15,
    "Official Source": "No",
    "Confidence in article (V/C/S/TS/CF)": "0/3/1/1/0",
    "Fact QA": "PASS",
@@ -76,7 +81,7 @@
    "SEO_PASS": "PASS",
    "CODEX_REVIEW_PASS": "PENDING",
    "PUBLISH_APPROVED": false,
-   "Final Status": "CODEX_REVIEW_PENDING",
+   "Final Status": "AWAITING_INDEPENDENT_REVIEW",
    "Reserve Replacement": "None",
    "Creation Date": "2026-09-03",
    "Approx Words": 1104,
@@ -93,7 +98,12 @@
    "Author_Field": "AutoBridge Export Editorial Team",
    "Image_Rights": "FAIL_NO_LICENSED_ASSET",
    "Locale_FrontMatter": "12/12",
-   "Locale_QA": "PASS"
+   "Locale_QA": "PASS",
+   "Source Scope": "PASS",
+   "Image Rights": "FAIL",
+   "Publish Approved": false,
+   "Human Reviewed": false,
+   "Prepub Repair Date": "2026-09-06"
   },
   {
    "Article ID": "AB-260903-V03",
@@ -116,7 +126,7 @@
    "SEO_PASS": "PASS",
    "CODEX_REVIEW_PASS": "PENDING",
    "PUBLISH_APPROVED": false,
-   "Final Status": "CODEX_REVIEW_PENDING",
+   "Final Status": "AWAITING_INDEPENDENT_REVIEW",
    "Reserve Replacement": "None",
    "Creation Date": "2026-09-03",
    "Approx Words": 1015,
@@ -133,7 +143,12 @@
    "Author_Field": "AutoBridge Export Editorial Team",
    "Image_Rights": "FAIL_NO_LICENSED_ASSET",
    "Locale_FrontMatter": "12/12",
-   "Locale_QA": "PASS"
+   "Locale_QA": "PASS",
+   "Source Scope": "PASS",
+   "Image Rights": "FAIL",
+   "Publish Approved": false,
+   "Human Reviewed": false,
+   "Prepub Repair Date": "2026-09-06"
   },
   {
    "Article ID": "AB-260903-V04",
@@ -156,7 +171,7 @@
    "SEO_PASS": "PASS",
    "CODEX_REVIEW_PASS": "PENDING",
    "PUBLISH_APPROVED": false,
-   "Final Status": "CODEX_REVIEW_PENDING",
+   "Final Status": "AWAITING_INDEPENDENT_REVIEW",
    "Reserve Replacement": "None",
    "Creation Date": "2026-09-03",
    "Approx Words": 1103,
@@ -173,7 +188,12 @@
    "Author_Field": "AutoBridge Export Editorial Team",
    "Image_Rights": "FAIL_NO_LICENSED_ASSET",
    "Locale_FrontMatter": "12/12",
-   "Locale_QA": "PASS"
+   "Locale_QA": "PASS",
+   "Source Scope": "PASS",
+   "Image Rights": "FAIL",
+   "Publish Approved": false,
+   "Human Reviewed": false,
+   "Prepub Repair Date": "2026-09-06"
   },
   {
    "Article ID": "AB-260903-V05",
@@ -196,7 +216,7 @@
    "SEO_PASS": "PASS",
    "CODEX_REVIEW_PASS": "PENDING",
    "PUBLISH_APPROVED": false,
-   "Final Status": "CODEX_REVIEW_PENDING",
+   "Final Status": "AWAITING_INDEPENDENT_REVIEW",
    "Reserve Replacement": "None",
    "Creation Date": "2026-09-03",
    "Approx Words": 1387,
@@ -213,7 +233,12 @@
    "Author_Field": "AutoBridge Export Editorial Team",
    "Image_Rights": "FAIL_NO_LICENSED_ASSET",
    "Locale_FrontMatter": "12/12",
-   "Locale_QA": "PASS"
+   "Locale_QA": "PASS",
+   "Source Scope": "PASS",
+   "Image Rights": "FAIL",
+   "Publish Approved": false,
+   "Human Reviewed": false,
+   "Prepub Repair Date": "2026-09-06"
   },
   {
    "Article ID": "AB-260903-V06",
@@ -236,7 +261,7 @@
    "SEO_PASS": "PASS",
    "CODEX_REVIEW_PASS": "PENDING",
    "PUBLISH_APPROVED": false,
-   "Final Status": "CODEX_REVIEW_PENDING",
+   "Final Status": "AWAITING_INDEPENDENT_REVIEW",
    "Reserve Replacement": "None",
    "Creation Date": "2026-09-03",
    "Approx Words": 1020,
@@ -253,7 +278,12 @@
    "Author_Field": "AutoBridge Export Editorial Team",
    "Image_Rights": "FAIL_NO_LICENSED_ASSET",
    "Locale_FrontMatter": "12/12",
-   "Locale_QA": "PASS"
+   "Locale_QA": "PASS",
+   "Source Scope": "PASS",
+   "Image Rights": "FAIL",
+   "Publish Approved": false,
+   "Human Reviewed": false,
+   "Prepub Repair Date": "2026-09-06"
   },
   {
    "Article ID": "AB-260903-V07",
@@ -276,7 +306,7 @@
    "SEO_PASS": "PASS",
    "CODEX_REVIEW_PASS": "PENDING",
    "PUBLISH_APPROVED": false,
-   "Final Status": "CODEX_REVIEW_PENDING",
+   "Final Status": "AWAITING_INDEPENDENT_REVIEW",
    "Reserve Replacement": "None",
    "Creation Date": "2026-09-03",
    "Approx Words": 1061,
@@ -293,7 +323,12 @@
    "Author_Field": "AutoBridge Export Editorial Team",
    "Image_Rights": "FAIL_NO_LICENSED_ASSET",
    "Locale_FrontMatter": "12/12",
-   "Locale_QA": "PASS"
+   "Locale_QA": "PASS",
+   "Source Scope": "PASS",
+   "Image Rights": "FAIL",
+   "Publish Approved": false,
+   "Human Reviewed": false,
+   "Prepub Repair Date": "2026-09-06"
   },
   {
    "Article ID": "AB-260903-V08",
@@ -316,7 +351,7 @@
    "SEO_PASS": "PASS",
    "CODEX_REVIEW_PASS": "PENDING",
    "PUBLISH_APPROVED": false,
-   "Final Status": "CODEX_REVIEW_PENDING",
+   "Final Status": "AWAITING_INDEPENDENT_REVIEW",
    "Reserve Replacement": "None",
    "Creation Date": "2026-09-03",
    "Approx Words": 1024,
@@ -333,7 +368,12 @@
    "Author_Field": "AutoBridge Export Editorial Team",
    "Image_Rights": "FAIL_NO_LICENSED_ASSET",
    "Locale_FrontMatter": "12/12",
-   "Locale_QA": "PASS"
+   "Locale_QA": "PASS",
+   "Source Scope": "PASS",
+   "Image Rights": "FAIL",
+   "Publish Approved": false,
+   "Human Reviewed": false,
+   "Prepub Repair Date": "2026-09-06"
   },
   {
    "Article ID": "AB-260903-V09",
@@ -356,7 +396,7 @@
    "SEO_PASS": "PASS",
    "CODEX_REVIEW_PASS": "PENDING",
    "PUBLISH_APPROVED": false,
-   "Final Status": "CODEX_REVIEW_PENDING",
+   "Final Status": "AWAITING_INDEPENDENT_REVIEW",
    "Reserve Replacement": "None",
    "Creation Date": "2026-09-03",
    "Approx Words": 1003,
@@ -373,7 +413,12 @@
    "Author_Field": "AutoBridge Export Editorial Team",
    "Image_Rights": "FAIL_NO_LICENSED_ASSET",
    "Locale_FrontMatter": "12/12",
-   "Locale_QA": "PASS"
+   "Locale_QA": "PASS",
+   "Source Scope": "PASS",
+   "Image Rights": "FAIL",
+   "Publish Approved": false,
+   "Human Reviewed": false,
+   "Prepub Repair Date": "2026-09-06"
   },
   {
    "Article ID": "AB-260903-V10",
@@ -396,7 +441,7 @@
    "SEO_PASS": "PASS",
    "CODEX_REVIEW_PASS": "PENDING",
    "PUBLISH_APPROVED": false,
-   "Final Status": "CODEX_REVIEW_PENDING",
+   "Final Status": "AWAITING_INDEPENDENT_REVIEW",
    "Reserve Replacement": "None",
    "Creation Date": "2026-09-03",
    "Approx Words": 1097,
@@ -413,7 +458,12 @@
    "Author_Field": "AutoBridge Export Editorial Team",
    "Image_Rights": "FAIL_NO_LICENSED_ASSET",
    "Locale_FrontMatter": "12/12",
-   "Locale_QA": "PASS"
+   "Locale_QA": "PASS",
+   "Source Scope": "PASS",
+   "Image Rights": "FAIL",
+   "Publish Approved": false,
+   "Human Reviewed": false,
+   "Prepub Repair Date": "2026-09-06"
   },
   {
    "Article ID": "AB-260903-G01",
@@ -436,7 +486,7 @@
    "SEO_PASS": "PASS",
    "CODEX_REVIEW_PASS": "PENDING",
    "PUBLISH_APPROVED": false,
-   "Final Status": "CODEX_REVIEW_PENDING",
+   "Final Status": "AWAITING_INDEPENDENT_REVIEW",
    "Reserve Replacement": "None",
    "Creation Date": "2026-09-03",
    "Approx Words": 1231,
@@ -453,7 +503,12 @@
    "Author_Field": "AutoBridge Export Editorial Team",
    "Image_Rights": "FAIL_NO_LICENSED_ASSET",
    "Locale_FrontMatter": "12/12",
-   "Locale_QA": "PASS"
+   "Locale_QA": "PASS",
+   "Source Scope": "PASS",
+   "Image Rights": "FAIL",
+   "Publish Approved": false,
+   "Human Reviewed": false,
+   "Prepub Repair Date": "2026-09-06"
   },
   {
    "Article ID": "AB-260903-G02",
@@ -476,7 +531,7 @@
    "SEO_PASS": "PASS",
    "CODEX_REVIEW_PASS": "FALSE",
    "PUBLISH_APPROVED": false,
-   "Final Status": "CODEX_REVIEW_PENDING",
+   "Final Status": "AWAITING_INDEPENDENT_REVIEW",
    "Reserve Replacement": "None",
    "Creation Date": "2026-09-03",
    "Approx Words": 1192,
@@ -493,7 +548,12 @@
    "Author_Field": "AutoBridge Export Editorial Team",
    "Image_Rights": "FAIL_NO_LICENSED_ASSET",
    "Locale_FrontMatter": "12/12",
-   "Locale_QA": "PASS"
+   "Locale_QA": "PASS",
+   "Source Scope": "PASS",
+   "Image Rights": "FAIL",
+   "Publish Approved": false,
+   "Human Reviewed": false,
+   "Prepub Repair Date": "2026-09-06"
   },
   {
    "Article ID": "AB-260903-G03",
@@ -516,7 +576,7 @@
    "SEO_PASS": "PASS",
    "CODEX_REVIEW_PASS": "FALSE",
    "PUBLISH_APPROVED": false,
-   "Final Status": "CODEX_REVIEW_PENDING",
+   "Final Status": "AWAITING_INDEPENDENT_REVIEW",
    "Reserve Replacement": "None",
    "Creation Date": "2026-09-03",
    "Approx Words": 1243,
@@ -533,7 +593,12 @@
    "Author_Field": "AutoBridge Export Editorial Team",
    "Image_Rights": "FAIL_NO_LICENSED_ASSET",
    "Locale_FrontMatter": "12/12",
-   "Locale_QA": "PASS"
+   "Locale_QA": "PASS",
+   "Source Scope": "PASS",
+   "Image Rights": "FAIL",
+   "Publish Approved": false,
+   "Human Reviewed": false,
+   "Prepub Repair Date": "2026-09-06"
   },
   {
    "Article ID": "AB-260903-G04",
@@ -556,7 +621,7 @@
    "SEO_PASS": "PASS",
    "CODEX_REVIEW_PASS": "PENDING",
    "PUBLISH_APPROVED": false,
-   "Final Status": "CODEX_REVIEW_PENDING",
+   "Final Status": "AWAITING_INDEPENDENT_REVIEW",
    "Reserve Replacement": "None",
    "Creation Date": "2026-09-03",
    "Approx Words": 1225,
@@ -573,7 +638,12 @@
    "Author_Field": "AutoBridge Export Editorial Team",
    "Image_Rights": "FAIL_NO_LICENSED_ASSET",
    "Locale_FrontMatter": "12/12",
-   "Locale_QA": "PASS"
+   "Locale_QA": "PASS",
+   "Source Scope": "PASS",
+   "Image Rights": "FAIL",
+   "Publish Approved": false,
+   "Human Reviewed": false,
+   "Prepub Repair Date": "2026-09-06"
   },
   {
    "Article ID": "AB-260903-G05",
@@ -596,7 +666,7 @@
    "SEO_PASS": "PASS",
    "CODEX_REVIEW_PASS": "FALSE",
    "PUBLISH_APPROVED": false,
-   "Final Status": "CODEX_REVIEW_PENDING",
+   "Final Status": "AWAITING_INDEPENDENT_REVIEW",
    "Reserve Replacement": "None",
    "Creation Date": "2026-09-03",
    "Approx Words": 1362,
@@ -613,7 +683,12 @@
    "Author_Field": "AutoBridge Export Editorial Team",
    "Image_Rights": "FAIL_NO_LICENSED_ASSET",
    "Locale_FrontMatter": "12/12",
-   "Locale_QA": "PASS"
+   "Locale_QA": "PASS",
+   "Source Scope": "PASS",
+   "Image Rights": "FAIL",
+   "Publish Approved": false,
+   "Human Reviewed": false,
+   "Prepub Repair Date": "2026-09-06"
   },
   {
    "Article ID": "AB-260903-G06",
@@ -636,7 +711,7 @@
    "SEO_PASS": "PASS",
    "CODEX_REVIEW_PASS": "PENDING",
    "PUBLISH_APPROVED": false,
-   "Final Status": "CODEX_REVIEW_PENDING",
+   "Final Status": "AWAITING_INDEPENDENT_REVIEW",
    "Reserve Replacement": "None",
    "Creation Date": "2026-09-03",
    "Approx Words": 1027,
@@ -653,7 +728,12 @@
    "Author_Field": "AutoBridge Export Editorial Team",
    "Image_Rights": "FAIL_NO_LICENSED_ASSET",
    "Locale_FrontMatter": "12/12",
-   "Locale_QA": "PASS"
+   "Locale_QA": "PASS",
+   "Source Scope": "PASS",
+   "Image Rights": "FAIL",
+   "Publish Approved": false,
+   "Human Reviewed": false,
+   "Prepub Repair Date": "2026-09-06"
   },
   {
    "Article ID": "AB-260903-G07",
@@ -676,7 +756,7 @@
    "SEO_PASS": "PASS",
    "CODEX_REVIEW_PASS": "PENDING",
    "PUBLISH_APPROVED": false,
-   "Final Status": "CODEX_REVIEW_PENDING",
+   "Final Status": "AWAITING_INDEPENDENT_REVIEW",
    "Reserve Replacement": "None",
    "Creation Date": "2026-09-03",
    "Approx Words": 1390,
@@ -693,7 +773,12 @@
    "Author_Field": "AutoBridge Export Editorial Team",
    "Image_Rights": "FAIL_NO_LICENSED_ASSET",
    "Locale_FrontMatter": "12/12",
-   "Locale_QA": "PASS"
+   "Locale_QA": "PASS",
+   "Source Scope": "PASS",
+   "Image Rights": "FAIL",
+   "Publish Approved": false,
+   "Human Reviewed": false,
+   "Prepub Repair Date": "2026-09-06"
   },
   {
    "Article ID": "AB-260903-G08",
@@ -716,7 +801,7 @@
    "SEO_PASS": "PASS",
    "CODEX_REVIEW_PASS": "FALSE",
    "PUBLISH_APPROVED": false,
-   "Final Status": "CODEX_REVIEW_PENDING",
+   "Final Status": "AWAITING_INDEPENDENT_REVIEW",
    "Reserve Replacement": "None",
    "Creation Date": "2026-09-03",
    "Approx Words": 1357,
@@ -733,7 +818,12 @@
    "Author_Field": "AutoBridge Export Editorial Team",
    "Image_Rights": "FAIL_NO_LICENSED_ASSET",
    "Locale_FrontMatter": "12/12",
-   "Locale_QA": "PASS"
+   "Locale_QA": "PASS",
+   "Source Scope": "PASS",
+   "Image Rights": "FAIL",
+   "Publish Approved": false,
+   "Human Reviewed": false,
+   "Prepub Repair Date": "2026-09-06"
   },
   {
    "Article ID": "AB-260903-G09",
@@ -756,7 +846,7 @@
    "SEO_PASS": "PASS",
    "CODEX_REVIEW_PASS": "PENDING",
    "PUBLISH_APPROVED": false,
-   "Final Status": "CODEX_REVIEW_PENDING",
+   "Final Status": "AWAITING_INDEPENDENT_REVIEW",
    "Reserve Replacement": "None",
    "Creation Date": "2026-09-03",
    "Approx Words": 1127,
@@ -773,7 +863,12 @@
    "Author_Field": "AutoBridge Export Editorial Team",
    "Image_Rights": "FAIL_NO_LICENSED_ASSET",
    "Locale_FrontMatter": "12/12",
-   "Locale_QA": "PASS"
+   "Locale_QA": "PASS",
+   "Source Scope": "PASS",
+   "Image Rights": "FAIL",
+   "Publish Approved": false,
+   "Human Reviewed": false,
+   "Prepub Repair Date": "2026-09-06"
   },
   {
    "Article ID": "AB-260903-G10",
@@ -796,7 +891,7 @@
    "SEO_PASS": "PASS",
    "CODEX_REVIEW_PASS": "PENDING",
    "PUBLISH_APPROVED": false,
-   "Final Status": "CODEX_REVIEW_PENDING",
+   "Final Status": "AWAITING_INDEPENDENT_REVIEW",
    "Reserve Replacement": "None",
    "Creation Date": "2026-09-03",
    "Approx Words": 1234,
@@ -813,7 +908,12 @@
    "Author_Field": "AutoBridge Export Editorial Team",
    "Image_Rights": "FAIL_NO_LICENSED_ASSET",
    "Locale_FrontMatter": "12/12",
-   "Locale_QA": "PASS"
+   "Locale_QA": "PASS",
+   "Source Scope": "PASS",
+   "Image Rights": "FAIL",
+   "Publish Approved": false,
+   "Human Reviewed": false,
+   "Prepub Repair Date": "2026-09-06"
   }
  ],
  "r5_repair_on": "2026-09-05",
@@ -823,5 +923,12 @@
  "r5_image_rights": "60 FAIL (no licensed asset captured; record+12 ALT present)",
  "second_repair_on": "2026-09-05",
  "second_repair_baseline": "a7cc1f99087c5bdbf7a83ea08815b7d03672eeb2",
- "second_repair_note": "In-place public-clean + source-scope + 12-locale front-matter; PUBLISH_APPROVED=false; awaiting independent Review AI"
+ "second_repair_note": "In-place public-clean + source-scope + 12-locale front-matter; PUBLISH_APPROVED=false; awaiting independent Review AI",
+ "source_scope_pass": 20,
+ "source_scope_conditional": 0,
+ "source_scope_fail": 0,
+ "image_rights_pass": 0,
+ "image_rights_fail": 20,
+ "human_reviewed": false,
+ "prepub_repair_on": "2026-09-06"
 }

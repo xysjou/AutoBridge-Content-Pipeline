@@ -54,11 +54,14 @@ A bag of E-marked components does **not** equal a whole-vehicle WVTA, and a sing
 - IMAGE_ASSET_PATH: none secured in repository
 - ORIGINAL_IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
+- SOURCE_FILE_PAGE: not applicable — no candidate media file identified (no licence to assert)
 - RIGHTS_HOLDER: unconfirmed
 - LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
+- CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
 - IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- BLOCK_REASON: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant; no AutoBridge-owned photo exists. Kept FAIL rather than asserted.
 - ALT by language:
   - **EN**: AutoBridge export-buyer reference — Certificate of Conformity vs type approval, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Certificate of Conformity vs type approval, guide d’achat à l’export automobile

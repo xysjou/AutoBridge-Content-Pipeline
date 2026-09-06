@@ -1,66 +1,69 @@
-# Dongfeng Tianlong KL (天龙KL) Heavy Tractor: Mesin, Gearbox, Axle, dan GCW untuk Ekspor
+# Dongfeng Tianlong KL (天龙 KL) Heavy Tractor: Mesin, Gearbox, Axle dan GCW untuk Ekspor
 
 ## SEO Metadata
-- ** Judul SEO **: Dongfeng Tianlong KL Tractor Specter & Ekspor Guide (DDi11 465, GCW 40t)
-- ** Meta Description **: Chinese-market Dongfeng Tianlong KL 6x4 tractor head — Longqing DDi11 10.8 L diesel 343 kW/2240 N·m, 14-speed (AMT option), 40 t GCW, plus the power-rating and variant checks exporters need.
+- ** Judul SEO **: Dongfeng Tianlong KL Tractor Spectors & Ekspor Panduan (DDi11 465, GCW 40t)
+- ** Meta Description **: Cina - pasar Dongfeng Tianlong KL 6x4 traktor head - Longqing DDi11 10.8 L diesel 343 kW / 2240 N·m, 14-speed (pilihan AMT), 40 t GCGW, ditambah daya-rating dan variant cek eksportir perlu.
 - ** Sugested URL **: / kendaraan / dongfeng-tianlong- kl /
-- ** H1 **: Dongfeng Tianlong KL Heavy Tractor Head: Chinese- Market Powertrain dan Chassis Specs
+- ** H1 **: Dongfeng Tianlong KL Heavy Tractor Head: Cine- Market Powertrain dan Chassis Specs
 - ** Primary Keyword **: dongfeng tianlong kl spesifikasi ekspor
-- ** Secondary Search Terms **: Tianlong KL 465, DDi11E465, Dongfeng 14-speed gearbox, Chinese 6x4 tractor head, 40t GCW truck export
+- ** Akhir Pencarian Second **: Tianlong KL 465, DDi11E465, Dongfeng 14-speed gearbox, kepala traktor Cina 6x4, 40t GCW ekspor truk
 - ** Internal Link Sugestions **: / guide / moolcle-exports -hs- codefication /; / guide / emision- fueld- compatibilizy- kendaraan /; / kendaraan / jmc-shunda /
-- *** Saran Gambar **: KL traktor kepala 6x4; mesin DDi11; 14-speed shifter / AMT; interior taksi; frame chassis dan roda kelima
-- ** ALT Saran **: "Dongfeng Tianlong KL 465 kepala traktor berat"; "Tianlong KL DDi11 2240Nm 14-speed GCW 40t"
+- ** Sugestions Gambar **: KL traktor kepala 6x4; DDi11 mesin; 14-speed shifter / AMT; interior taksi; frame chassis dan roda kelima
+- ** ALT Saran: "Dongfeng Tianlong KL 465 kepala traktor berat"; "Tianlong KL DDi11 2240Nm 14-speed GCW 40t"
 
 ## Konteks Pembeli: Kepala Traktor Dispesifikasikan oleh Powertrain Chain dan Kereta Berat
-Pembeli truk tidak menjual daftar peralatan - mereka menentukan sebuah ** gearbox- gearbox- rantai axle cocok dengan berat kombinasi kotor **. The Tianlong KL is Dongfeng's China-6 heavy semi-tractor. The recurring error on this model is confusing the **rated power with the net power** figure, or blending the 465 PS tractor with the 430/520/560 PS and gas variants. Halaman ini mendokumentasikan traktor ** Cinese- pasar DDi11E465-60 (REFERENCE MARKET: CHINA) *; tidak ada brosur utama OEM ditangkap, sehingga nilai perdagangan yang dicentang harus dikonfirmasi terhadap pengumuman MIIT.
+Pembeli truk tidak menjual daftar peralatan - mereka menentukan sebuah ** gearbox- gearbox- rantai axle cocok dengan berat kombinasi kotor **. Tianlong KL adalah Cina Dongfeng - 6 berat semi - traktor. Kesalahan berulang pada model ini membingungkan daya dengan angka ** bersih,  or blending the 465 PS tractor with the 430/520/560 PS  and  Gas varians. Halaman ini mendokumentasikan traktor ** Cinese- pasar DDi11E465-60 (REFERENCE MARKET: CHINA) *; tidak ada brosur utama OEM ditangkap, sehingga nilai perdagangan yang dicentang harus dikonfirmasi terhadap pengumuman MIIT.
 
 ## Mesin (fokus truk): mesin, gearbox, poros, GCW, taksi, chassis)
-| Butir | Tianlong KL 465 (referensi Cina) |
+| Butir | Tianlong KL 465 (China referensi) |
 |---|---|
-| Mesin | Longqing **DDi11E465-60**, inline-6 diesel, 10.8 L |
+| Mesin | Longqing ** DDi11E465-60 **, inline- 6 diesel, 10.8 L |
 | Daya rated | **343 kW (≈465 PS)** |
-| Daya jaringan | **337 kW** — a different measurement basis, not a contradiction |
-| Torsi puncak | **2240 N·m @ 1100–1600 rpm** |
-| Emisi | China- 6 diesel |
+| Daya jaringan | ** 337 kW ** - pengukuran yang berbeda dasar, bukan kontradiksi |
+| Torsi puncak | 2240 N·m @ 1100–1600 rpm |
+| Emisi | Cina - 6 diesel |
 
-The 343 kW and 337 kW figures are **rated vs net** power on different bases; tampilkan keduanya dengan label mereka daripada memilih satu. Dataran tinggi Torque (Rpm 1100–1600) adalah yang penting untuk mengangkut gradeabilitas.
+Angka 343 kW dan 337 kW adalah kekuatan ved vs net ** yang dinilai pada basis berbeda; hadir keduanya dengan label mereka daripada memilih satu. Torque plateau (1100–1600 rpm) adalah yang penting untuk mengangkut gradeabilitas.
 
 ## Gearbox, Axle and Train Weight
-- ** Gearbox **: Dongfeng ** DT1422 / DT14 14-speed ** (Garis keturunan teknologi Volvo-), dengan *** pilihan AMT * - manual negara vs AMT pada urutan.
-- ** Drive **: kepala traktor 6x4; rasio return-axle harus dipilih untuk rute (jalan raya jelajah vs kelas berat).
-- ** GVWR (traktor saja) **: **25 t**; **curb weight about 8.8 t**.
-- ** Beratnya kombinasi GCW) dari kereta api **: **40 t** — the design figure for matching trailer and payload.
+- ** Gearbox **: Dongfeng ** DT1422 / DT14 14-speed ** (Garis keturunan teknologi Volvo-), dengan *** pilihan AMT ** - manual negara vs AMT pada urutan.
+- ** Drive **: 6x4 kepala traktor; rasio as belakang harus dipilih untuk rute (jelajah jalan raya vs kelas berat).
+- ** GVWR (traktor saja) *: ** 25 t *** bobot di pinggir jalan sekitar 8.8 t **.
+- ** Beratnya kombinasi GCW) dari kereta api **: * 40 t ** - angka desain untuk pencocokan trailer dan muatan.
 
 ## Batas Varian - Jangan Blend Line- Up
-- Halaman ini: DDi11E465-60 (465 PS).**
-- The wider KL range also offers **430 / 520 / 560 PS** engines and **natural-gas (LNG/CNG) versions**; Ini adalah powertrains terpisah dengan torsi yang berbeda, sistem bahan bakar dan spesifikasi chassis. Mengkueri angka gas-varian untuk diesel 465 adalah kesalahan.
+- Halaman ini: DDi11E465-60 (465 PS).
+- Jangkauan KL lebih luas juga menawarkan ** 430 / 520 / 560 PS ** mesin dan ** naturall-gas (LNG / CNG) versi **; ini adalah powertrains terpisah dengan torque yang berbeda, sistem bahan bakar dan spesifikasi chassis. Mengutip angka gas-varian untuk 465 diesel adalah kesalahan.
 - Rasio poros, gearbox (manual / AMT) dan taksi (atap tinggi / rendah, sleeper) adalah perintah-dipilih dan mengubah spesifikasi yang disampaikan.
 
 ## Chassis dan Cab Checks untuk Ekspor
-1. **Power basis** — record rated 343 kW and net 337 kW with labels; match the 465 PS engine code to the VIN.
-2. ** Transmission ** - 14-speed manual vs AMT; belakang-axle rasio untuk medan yang dimaksudkan.
-3. **GCW match** — trailer and intended payload inside the 40 t train rating; Tinggi roda lima dan kompatibilitas gembong.
-4. ** Diesel bahan bakar sulfur / after- pengobatan ** per emisi-panduan bahan bakar; Cina - 6 kalibrasi diesel tidak sendiri luar negeri homologasi.
-5. ** klasifikasi HS ** - traktor jatuh di bawah 87.01 (panduan kode HS-), berbeda dari kendaraan barang 87.04 dan kendaraan bermobil 8716; trailer diklasifikasikan secara terpisah.
+1. ** Daya dasar ** - record dinilai 343 kW dan bersih 337 kW dengan label; cocok 465 PS kode mesin ke VIN.
+2. ** Transmission ** - 14-speed manual vs AMT; return-axle rasio untuk medan yang dimaksudkan.
+3. Trailer dan muatan yang dimaksudkan di dalam rating kereta 40 t; tinggi roda lima dan kompatibilitas kingpin.
+4. ** Disel bahan bakar sulfur / after- pengobatan ** setiap emisi-panduan bahan bakar; Cina - 6 kalibrasi diesel tidak sendiri luar negeri homologasi.
+5. ** klasifikasi HS ** - traktor jatuh di bawah 87.01 (per panduan HS-code), berbeda dari 87.04 kendaraan barang dan 8716 trailer; trailer diklasifikasikan secara terpisah.
 
 ## Meminta Kuotasi Ekspor Saat Ini
 Tidak ada harga ekspor yang diterbitkan. Enquire with **Destination Country · Quantity · Engine Power (465) · Manual/AMT · Axle Ratio · LHD/RHD · Destination Port · Incoterm**.
 
 ## Pertanyaan Yang Sering Muncul
-**Why are there two power figures (343 and 337 kW)?** 343 kW is rated power and 337 kW net power — different measurement bases for the same 465 PS engine.
-**What is the train weight?** The documented tractor is rated for a 40 t gross combination weight, with 25 t GVWR for the tractor itself.
-**Manual or automatic?** The 14-speed DT14 gearbox is offered in manual and AMT forms; menentukan mana.
-** Apakah 520/560 dan versi gas truk yang sama? * Mereka berbagi keluarga taksi KL tetapi menggunakan berbeda mesin / sistem bahan bakar - membuat mereka sebagai spesifikasi terpisah.
+Kenapa ada dua angka kekuatan (343 dan 337 kW)? 343 kW adalah peringkat kekuasaan dan 337 kW tenaga bersih - pengukuran yang berbeda basis untuk mesin 465 PS yang sama.
+** Apa berat kereta api? ** Kontraktor yang didokumentasikan dinilai untuk 40 t berat kombinasi yang kotor, dengan 25 t GVWR untuk traktor itu sendiri.
+** Manual atau otomatis? ** 14-speed DT14 gearbox ditawarkan dalam manual dan formulir AMT; menentukan mana.
+** Apakah 520/560 dan gas versi truk yang sama? ** Mereka berbagi keluarga taksi KL tetapi menggunakan berbeda mesin / sistem bahan bakar - membuat mereka sebagai spesifikasi terpisah.
 
 ## Rekor Gambar
 - IMAGE _ ASSET _ PATH: tak ada yang aman di repositori
 - _ URL ORIGINAL _ IMAGE: tidak ditangkap
 - SUMBER _ PAGE: tidak ditangkap
+- SOURCE _ FILE _ PAGE: tidak dapat diterapkan - tidak ada berkas media kandidat diidentifikasi (tidak ada lisensi untuk menegaskan)
 - RIGHTS _ HOLDER: belum dikonfirmasi
 - LICENSE _ OR _ USAGE _ BASIS: tidak ada yang aman - tidak ada gambar pihak ketiga dapat diterbitkan sampai hak-hak dibersihkan
-- CHECTED _ DATE: 2026-09-05
+- CHECTED _ DATE: 2026-09-06
 - MODEL _ TOPIC _ MATCH: harus cocok dengan model / versi yang tepat (atau topik panduan) dan referensi pasar di atas
+- IMAGE _ SCOPE _ CATATAN: cocokkan model yang tepat dari keluarga / topik saja; jangan mengimplikasikan sebuah trim / model khusus / tahun, VIN, in- orang inspeksi atau transaksi aktual
 - IMAGE _ RIGHTS _ STATUS: FAIL (tidak ada aset berlisensi yang ditangkap; pemegang tempat atau catatan "mempertahankan gambar lama" tidak diterima)
+- BLOK _ REASON: Tidak ada gambar yang dapat digunakan kembali yang dapat diamankan: Wikimedia Commons / Flickr tidak dapat dihubungi oleh lingkungan penelitian, perpustakaan saham memerlukan akses API / license yang telah dikonfirmasi, dan gambar laman OEM bukanlah hibah reuse komersil; tidak ada foto AutoBridgeg yang dimiliki. Disimpan FAIL daripada menegaskan.
 - ALT dengan bahasa:
   - **EN**: AutoBridge export-buyer reference — Dongfeng Tianlong KL, petrol/diesel Chinese-market vehicle / heavy tractor truck
   - **FR**: Référence AutoBridge pour acheteurs export — Dongfeng Tianlong KL, véhicule thermique (marché chinois) / tracteur routier lourd
@@ -78,21 +81,21 @@ Tidak ada harga ekspor yang diterbitkan. Enquire with **Destination Country · Q
 ## Sumber & Verifikasi
 | Judul sumber | Organisasi | Pasar | URL | Diperiksa | Percaya diri | Fakta yang didukung |
 |---|---|---|---|---|---|---|
-| KL465 Tianlong & Kualitas Daya Longqing | Rumah otomatis | CN | https://chejiahao.m.autohome.com.cn/info/23626143 | 2026-09-04 | _ BERDECAT | DDi11, daya / torsi, 14-speed |
+| Tianlong KL465 & Kualitas Daya Longqing | Rumah otomatis | CN | https://chejiahao.m.autohome.com.cn/info/23626143 | 2026-09-04 | _ BERDECAT | DDi11, tenaga / torsi, 14-speed |
 | Parameter KL 465 AMT | Berita Tencent | CN | http://news.qq.com/rain/a/20231120A0697W00 | 2026-09-04 | SINGLE _ SOURCE | Pilihan AMT, torsi band |
 | Tianlong KL 465 chassis & gearbox | 360che (Toutiao) | CN | http://m.toutiao.com/group/7342432889952895507/ | 2026-09-04 | _ BERDECAT | DT1422, GVWR, trotoar, GCW |
 | Dongfeng Tianlong power (ensiklopedia cross- check) | Ensiklopedia PCauto | CN | http://m.pcauto.com.cn/baike/1124005/2143996/ | 2026-09-04 | SINGLE _ SOURCE | Uji daya-basis |
-| Jalan kendaraan & katalog produk - sistem permintaan publik | MIIT, Kementerian Industri dan Teknologi Informasi Cina | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | TERBATAI | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
-| GB 7258 kendaraan keamanan kondisi teknis yang aman (GB 7258-2017 saat ini; GB 7258-2026 diterapkan dari 2027-07-01) | SAMR, Administrasi Negara untuk Peraturan Pasar | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | TERBATAI | Baseline in- China kendaraan kondisi keamanan teknis dan garis waktu revisi saat ini |
-| GB 17691-2018 Suply-duty diesel kendaraan pencemaran emisi (China- VI) | Kementerian Ekologi dan Lingkungan (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | TERBATAI | China- VI kompresi- pengapian (berat diesel) tahap emisi untuk truk / pelatih |
-| GB 19147 mobil diesel bahan bakar nasional standar (low-sulphur dasar) | Standar nasional SAMR platform penuh teks | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | TERBATAI | Kelas bahan bakar Diesel dan sulfur dasar untuk mencocokkan desain mesin / emisi di luar negeri |
+| Jalan kendaraan & katalog produk - sistem permintaan publik | MIIT, Kementerian Industri dan Teknologi Informasi Cina | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | TERBATAI | Verifikasi produsen, model yang disetujui dan homologasi (公告) entri katalog sebelum memesan atau ekspor |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Administrasi Negara untuk Peraturan Pasar | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | TERBATAI | Baseline in- China kendaraan kondisi keamanan teknis dan garis waktu revisi saat ini |
+| GB 17691-2018 juta - tugas kendaraan diesel pencemaran emisi (China- VI) | Kementerian Ekologi dan Lingkungan (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | TERBATAI | China- VI kompresi- pengapian (berat diesel) tahap emisi untuk truk / pelatih |
+| GB 19147 mobil yang diesel bahan bakar nasional standar (low-sulfur basis) | Standar nasional SAMR platform penuh teks | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | TERBATAI | Kelas bahan bakar Diesel dan sulfur dasar untuk mencocokkan desain mesin / emisi di luar negeri |
 
 * Catatan kepercayaan: tidak ada brosur utama OEM; pemeriksaan perdagangan. Laju / bersih keduanya berlabel; versi daya dan gas lainnya tidak termasuk. Referensi pasar, konfirmasi dari pengumuman MIIT. ♪
 
 ## Editorial Review
 - ** Penulis **: Tim Editorial Expor AutoBridge
-- 2026-09-05
-- *** Pasar Referensi **: Cina, KL DDi11E465-60 traktor (Referensi pasar Chinese-; dinilai / net, bukan spesifikasi global)
+- ** Terakhir ditinjau **: 2026-09-05
+- *** Pasar Referensi **: Cina, KL Tianlong traktor DDi11E465-60 (Referensi pasar Cinese-; dinilai / bersih, bukan spesifikasi global)
 - ** Metode verifikasi **: Trade- database lintas-check; daya basis berbeda; varian line- up dipisahkan
 - ** Transparansi **: penggambaran bantuan digunakan. Artikel ini didasarkan pada penelitian meja dan otomatis QA. Tidak ada pengujian pertama-tangan diklaim kecuali secara eksplisit didokumentasikan; konfirmasi waktu - sensitif dan destination- persyaratan spesifik sebelum mengubah.
 - ** Standar Editorial **: Penelitian dan ditulis dari sumber yang terdaftar di atas (penelitian meja; tidak ada mengemudi tangan pertama, menangis atau impor diklaim). Kepercayaan sumber ditampilkan per baris; setiap titik yang tidak dapat secara independen dikonfirmasi sebagai item verifikasi daripada yang dinyatakan sebagai fakta.

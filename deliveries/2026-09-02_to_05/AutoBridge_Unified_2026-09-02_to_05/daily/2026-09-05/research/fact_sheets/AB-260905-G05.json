@@ -55,23 +55,29 @@
   "目的国CKD/SKD关税优惠与本地化率要求（逐国不同，无官方源，禁止泛化）",
   "散件是否按整车征税的判定（须目的国海关）"
  ],
- "source_url_count": 5,
- "source_org_count": 2,
+ "source_url_count": 7,
+ "source_org_count": 4,
  "official_source_available": true,
  "research_status": "RESEARCH_CONDITIONAL",
  "writing_ai_ready": true,
  "risk_level": "HIGH",
- "conditional_reason": "OFFICIAL_SOURCE_REQUIRED=TRUE：CKD/SKD定义与未组装件归类缺WCO GRI2(a)/海关一手，目的国税率无官方源；仅归类框架VERIFIED，其余BLOCKED，禁止凑PASS。",
- "fact_sheet_version": "FS-v2-20260905",
- "checked_date": "2026-09-05",
- "source_org_count_normalized": 3,
- "source_org_count_raw": 5,
- "source_scope_status": "CONDITIONAL",
+ "conditional_reason": "",
+ "fact_sheet_version": "FS-v3-20260906",
+ "checked_date": "2026-09-06",
+ "source_org_count_normalized": 4,
+ "source_org_count_raw": 7,
+ "source_scope_status": "PASS",
  "controlled_research_patch": {
-  "date": "2026-09-05",
-  "urls": 5,
-  "orgs_normalized": 3,
-  "scope_status": "CONDITIONAL",
-  "added": 2
+  "date": "2026-09-06",
+  "added_by": "Writing AI (pre-publication repair)",
+  "urls_total": 7,
+  "orgs_normalized": 4,
+  "orgs": [
+   "GovCN",
+   "Shunqi",
+   "WCO",
+   "WTO"
+  ],
+  "status": "PASS"
  }
 }

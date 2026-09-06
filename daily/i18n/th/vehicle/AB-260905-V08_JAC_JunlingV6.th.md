@@ -1,81 +1,86 @@
-# JC Joncling V6 (2024/2025) — China-Magnet Taver Specs and epress Check
+# JC Juling V6 (2024/2025) — Sish-Market Taver Spects and ept cecks
 
-## SEO Metadata
-- **SEO Title**: JAC Junling V6 Light Truck: Chinese-Market Specs & Export Buyer Guide
-- **Meta Description**: Chinese-market JAC Junling V6 blue-plate light cargo truck: Yunnei D25 diesel, Ankang 160 line, cargo box, GVW/payload, and the single-source mass caveat.
-- ~ H1~: JC Joncling V6 (2024/2025) — China-Magnet Taver Specs and epress Check
-- **Primary Keyword**: JAC / 江淮 骏铃V6 轻卡（Light Truck） specs export
-- **Secondary Search Terms**: JAC Junling V6 export; Jianghuai light truck; Chinese cargo truck; blue plate truck; Yunnei D25
-- **Suggested URL**: /vehicles/jac-junling-v6/
-- **Search Intent**: 了解 JAC / 江淮 骏铃V6 轻卡（Light Truck） 中国版规格、配置与出口适配性（车型参数页）
-- **Internal Link Suggestions**: /vehicles/jac-junling-v6/, /guides/vehicle-export-hs-code-history/, /guides/china-export-customs-declaration-single-window/
-- ~Schema Scope~: Article + Vehicle (no Product/Offer/Review)
+## เชา ข้อมูลกํากับภาพ
+- < secontinuation*: JC Junling V6 รถบรรทุกแสง: ไมโครซอฟต์ของจีน & ส่งออกคู่มือผู้ซื้อ
+- ""คําอธิบาย" Chinese-market JAC Junling V6 blue-plate light cargo truck: ยุนไน D25 ดีเซล, Ankang 160 สาย, กล่องสินค้า, GVW/loadbook และก้อนสารยูเนชัน
+- ~ H1 ~: JC Juling V6 (2024/2025) — ภาษาจีน-Magnet Taver Profiles and epiccck
+- ~คําสําคัญในราชการ ~: JC / 江淮 骏铃 V6 轻卡 ชนิดของการส่งออก
+- ~การค้นหาโดยระบบย่อย~: JC Juni V6 ส่งออก; รถขนแสงจีอังฮ้วย; รถขนส่งสินค้าจีน; รถโดยสารสีฟ้า; ยุนไน D25
+- ~ที่อยู่ URL ที่ถูกย่อ: / เวนิกส์/จาค-จันนิ่ง- v6/
+- ~ การค้นหาที่เชื่อมโยง~: 了解 จ.ค. / 江淮 骏铃 V6 轻卡 中国版规格 、 配置与出口适配性 (车型参数页).
+- ** ลิงก์ภายใน **. สืบค้นเมื่อ: / viohics/jac-junling- v6/*/ guides/Viides-export-Hs-Hs hyriter//////////////////// guides/ china-exports-de-sceptures-s-sing-s-sing-single-dwindow/
+- ~Schema Scop~: มาตรา + moft (ไม่มี Production/Offer/Review)
 
-## Buyer context: a blue-plate city distribution truck
-The **JAC Junling V6 (骏铃V6, 2024/2025)** is a Chinese-market diesel light cargo truck in the sub-4.5 t blue-plate class used for city/regional distribution. Commercial-vehicle buyers should anchor on GVW, payload and cargo box before cab trim. Reference market is **China**; masses require homologation confirmation.
+## บริบทของตัวซื้อ: รถขนถ่ายจําหน่ายของเมือง
+The JAC Juling V6 (骏铃 V6, 2024/2025)) รถบรรทุกส่งแสงจากตลาดจีน กรมขนส่งแสง ในชั้นย่อย 4.5 t สีฟ้า ใช้สําหรับการกระจายของเมือง/ประเทศไทย (พ.ศ. ผู้ซื้อสินค้า-วัวน้ํา ควรประกาศจับ GVW, จ่ายเงินและกล่องสินค้า ก่อนเข้าชิงรถ ตลาดอ้างอิงคือ... จีน มวลชนต้องการการยืนยันการรักมนุษย์
 
-## Chassis and powertrain identified
-- ~... ~: 云内 D25TCIF1 2.5L 柴油 150马力; torque 400 N·m.
-- **Powertrain line**: 安康160 + 6挡全铝变速箱 + AAM后桥.
-- **Masses (single-source mirror)**: kerb 2.565, GVW 4.495, rated payload 1.735.
-- **Cargo box inner**: 约4220×2075×400.
+## Chasis and chasportrain ระบุว่า
+- ** เสียชีวิต: 云内 D25TCIF1 2.5L 柴油 150 马力 **; บิด 400 N·m (พ.ศ.
+- ~Poverturn line ~: 安康 160 + 6 挡全铝变速箱 + AAM 后桥.
+- ~Marses (กระจกจากแหล่งข่าว) ~: kurb 2.565, GVW 4.495, เรตต์โหลด 1.735.
+- ~กล่องลากใน~: 约 4220 x 2075 x 400.
 
-## Verified specification table (Chinese-market reference)
-| Specification | Value | Unit | Market | Confidence | Source note |
+## ตารางกําหนดเพิ่มเติมเพิ่มเติม (อ้างอิงของ Chinese- market)
+| การกําหนด | ค่า | หน่วย | ตลาด | ความมั่นใจ | บันทึกช่วยจําต้นฉบับ |
 |---|---|---|---|---|---|
-| engine d25 | 云内 D25TCIF1 2.5L 柴油 150马力 | - | CHINA | SINGLE_SOURCE | 卡车之家镜像 |
-| engine d25 torque | 400 | N·m | CHINA | SINGLE_SOURCE | 卡车之家镜像 |
-| powertrain ankang160 | 安康160 + 6挡全铝变速箱 + AAM后桥 | - | CHINA | SINGLE_SOURCE | 卡车之家镜像 |
-| curb weight | 2.565 | t | CHINA | SINGLE_SOURCE | 卡车之家镜像 |
-| gvw | 4.495 | t | CHINA | SINGLE_SOURCE | 卡车之家镜像 |
-| rated payload | 1.735 | t | CHINA | SINGLE_SOURCE | 卡车之家镜像 |
-| cargo box inner | 约4220×2075×400 | mm | CHINA | SINGLE_SOURCE | 卡车之家镜像 |
+| เครื่องยนต์ d25 | 云内 D25TCIF1 2.5L 柴油 150马力 | - | จีน | ผู้โดยสาร_ปลายทาง | 卡车之家镜像 |
+| เครื่องยนต์ d25 แรงบิด | 400 | น. ม. | จีน | ผู้โดยสาร_ปลายทาง | 卡车之家镜像 |
+| เครื่องยนต์ ankang160 | 安康 160 + 6 挡全铝变速箱 + AAM 后桥 | - | จีน | ผู้โดยสาร_ปลายทาง | 卡车之家镜像 |
+| น้ําหนัก | 2.565 | t | จีน | ผู้โดยสาร_ปลายทาง | 卡车之家镜像 |
+| กราฟแสดงความถี่ | 4.495 | t | จีน | ผู้โดยสาร_ปลายทาง | 卡车之家镜像 |
+| จํานวนดาวน์โหลดที่จัดอันดับ | 1.735 | t | จีน | ผู้โดยสาร_ปลายทาง | 卡车之家镜像 |
+| กล่องสินค้าอยู่ข้างใน | 约4220×2075×400 | อืม | จีน | ผู้โดยสาร_ปลายทาง | 卡车之家镜像 |
 
-## Light-truck export checks: masses need a canonical source
-The engine and cargo-box data come from a mirrored truck-database source, while **GVW/kerb/payload rest on a single mirror and must be confirmed against the 360che canonical page, JAC OEM material or the MIIT announcement** before they are used for loading or homologation. Tyres, rear-axle ratio and fuel-tank size are not captured. Export and right-hand-drive specifications are not established here.
+## เช็คการส่งออกแบบชลประทาน: มหาชนต้องการแหล่งกําเนิด
+เครื่องยนต์และกล่องสินค้า มาจากแหล่งผลิตรถบรรทุกแบบสะท้อนแสง ในขณะที่......จีจีดับเบิลยู/เคอร์บ/โหลด...บนกระจกบานเดียว และต้องได้รับการยืนยันว่าต่อต้านหน้ารายการ 360che เล่ม, เจซี โออีเอ็ม หรือประกาศของ MIIT ไทส์ อัตราส่วนหลังและขนาดน้ํามันเชื้อเพลิงไม่ได้ถูกบันทึก ไม่รองรับการส่งออกและไดรฟ์แบบขวามือ
 
-## Overseas buyer verification before payment
-1. Confirm GVW 4.495 t / payload 1.735 t against the MIIT announcement or JAC OEM sheet.
-2. Match the cargo box inner dimensions to the intended body.
-3. Confirm engine (Yunnei D25 / Ankang 160), gearbox and rear axle for parts support.
-4. Verify diesel emission stage and destination GVW/licensing class.
-5. Request a current export quotation; none is published.
+สําหรับผู้ซื้อผู้ซื้อที่ซื้อตัวเมือง จุดที่ผู้กําหนดลําดับที่มักจะก่อให้เกิดการโต้แย้ง คือ... ซึ่งตัวเลขควบคุมการโหลดทางกฎหมายในตลาดปลายทาง เรตติ้งสีฟ้าจีน การดาวน์โหลดจากโรงงาน  and  ขีดจํากัดการโหลดลูกรัง คือเลขสามหมายเลขที่แตกต่างกัน รถบรรทุกต้องถูกกําหนด ต่อต้านกฎข้อบังคับของจุดหมาย ที่ผูกขาด มากกว่าการใจกว้างที่สุด ในสาม ความยาวของล้อรถและกล่องสินค้า ก็มีปฏิสัมพันธ์กับการหมุนวงกลม และข้อจํากัดความยาวท้องถิ่น กล่องที่ถูกเลือกให้เพิ่มปริมาณเท่านั้น ยืนยัน GVW มวลเคอร์บ ค่าจ้าง เบสล้อ  and  ขนาดกล่องเป็นหนึ่งที่ตรงกับงานแสดง  and  ต้อง มี ผู้ จัด หา เพื่อ ผูก ตัว เลข แต่ ละ ตัว เข้า กับ แหล่ง กําเนิด ก่อน จะ มี เงิน ฝาก.
 
-## FAQ
-**Are the payload figures final?** They are single-source here; confirm via homologation before relying on them.
-**Is there an RHD version?** Not established in these sources.
-**What is the blue-plate class?** Sub-4.5 t GVW city truck in China; destination licensing differs.
-**Engine?** Yunnei D25TCIF1 2.5 L diesel, 150 hp / 400 N·m on the captured line.
-**Where are tyre/axle details?** Not captured; request the OEM build sheet.
+## ผู้ซื้อที่ดูแลการขออนุมัติก่อนจะจ่ายเงิน
+1. ยืนยัน GVW 4.495 t / จ่าย 1.735 t ต่อประกาศของ MIT หรือ JC OEM.
+2. ตรงกับกล่องสินค้าในมิติที่อยู่ภายใน กับร่างที่ตั้งใจ
+3. ยืนยันเครื่องยนต์ (Yunni D25 / Ankang 160), เกียร์และเพลาหลังสําหรับการสนับสนุนส่วนต่างๆ
+4. ตรวจสอบการปล่อยก๊าซดีเซล และปลายทางของคลาส GVW/licensing
+5. ต้องการอ้างอิงการส่งออกในปัจจุบัน; ไม่มีการพิมพ์
+
+## ขนาด FAQ
+~ จ่ายค่าตัวสุดท้ายหรือเปล่า ~ เป็นซิงเกิลซอร์สที่นี่ ยืนยันผ่านทางการรักร่วมเพศก่อนที่จะพึ่งพาพวกเขา
+มี RHD รุ่นไหม? ไม่ได้รับการจัดตั้งในแหล่งเหล่านี้
+**What is the blue-plate class?** Sub-4.5 t GVW city truck in China; การ รุกราน ของ พวก เขา แตก ต่าง กัน ไป.
+ด้วย ? # ยุนไน D25TCIF1 2.5 L December 150 hp / 400 N·m ในสายที่จับได้
+~ แล้วรายละเอียดในยางอยู่ไหน ~ ไม่ถูกจับ ขอแผ่นพับ
 
 
-## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
+## ต้นฉบับและการตรวจสอบสิทธิ์
+| แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| 骏铃V6 车型解析（卡车之家，经今日头条镜像，按镜像域降一级T3） | 卡车之家官方号（今日头条镜像） | CN | T3 | ROOS_ CHCKED | http://m.toutiao.com/group/7281117707461247523/ | 动力链, 后桥, 自重, 总质量, 载质量 |
-| 骏铃V6 配置（卡车之家镜像） | 卡车之家官方号（今日头条镜像） | CN | T3 | ROOS_ CHCKED | http://m.toutiao.com/group/6889691682774876685/ | 云内D25参数, 货厢 |
-| 骏铃V6 车型（卡车之家镜像） | 卡车之家官方号（今日头条镜像） | CN | T3 | ROOS_ CHCKED | http://m.toutiao.com/group/6807685915310293507/ | 安康160, 变速箱 |
-| 骏铃V6 二手信息（仅线索T4，不作参数依据） | 58同城二手车 | CN | T4 | ROOS_ CHCKED | https://m.58.com/sz/huochec/59653082843796x.shtml | 市场存在性线索 |
-| JAC Motors official site | Anhui Jianghuai Automobile JAC 江淮 (OEM) | CN | T1 | VERIFIED | https://www.jac.com.cn/ | brand/model-line identity and OEM authority |
-| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | T1 | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
-| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
-## Editorial Review
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: China (Chinese-market reference; commercial masses must be confirmed by homologation/VIN)
-- **Verification method**: Desk research against the sources below; Chinese-market reference specification only unless a separate export market is explicitly cited.
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
+| 骏铃 V6 车型解析 (卡车之家, 经今日头条镜像, 按镜像域降一级 T3) | 卡车之家官方号 (今日头条镜像). | CN | T3 | ROOS_ CHCKED | http://m.toutiao.com/group/7281117707461247523/ | 动力链, 后桥 自重, 自重, 总质量, 载质量 |
+| 骏铃V6 配置（卡车之家镜像） | 卡车之家官方号 (今日头条镜像). | CN | T3 | ROOS_ CHCKED | http://m.toutiao.com/group/6889691682774876685/ | 云内D25参数, 货厢 |
+| 骏铃V6 车型（卡车之家镜像） | 卡车之家官方号 (今日头条镜像). | CN | T3 | ROOS_ CHCKED | http://m.toutiao.com/group/6807685915310293507/ | 安康 160 (พ.ศ. 变速箱 |
+| 骏铃 V6 二手信息 (仅线索 T4, 不作参数依据) พ.ศ. | 58 同城二手车 | CN | T4 | ROOS_ CHCKED | https://m.58.com/sz/huochec/59653082843796x.shtml | 市场存在性线索 |
+| เจซี เว็บไซต์อย่างเป็นทางการของมอเตอร์ | Anhui Jianghuai อัตโนมัติ JACC 江淮 (OEM) | CN | T1 | เปิดใช้งาน | https://www.jac.com.cn/ | แบรนด์/ แบบไลน์และหน่วยงานโออีเอ็ม |
+| กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูล (MIT) | MIT 工业和信息化部 | CN | T1 | เปิดใช้งาน | https://www.miit.gov.cn/ | การออกเสียง/ การปล่อยเสียง; ยืนยันการจําลองที่แน่นอน, มวลและรหัสโดย VIN/ language |
+| กรมการต่างประเทศสําหรับกําหนดตลาด (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | เปิดใช้งาน | https://www.samr.gov.cn/ | มาตรฐานประเทศ, การจัดตั้ง และ อํานาจในการยึดตลาด |
+## การทบทวนแก้ไข
+- ~Uuthor ♪: AutoBridge ส่งออกทีมแก้ไข [ผู้เขียน](/ ผู้เขียน/) สืบค้นเมื่อ [ใช้ในการแก้ไขนโยบาย] [/Di-policy/]
+- ~ถูกตรวจสอบแล้ว~: 2026-09-05
+- ~ ตลาดแห่งความไม่สงบ~: จีน (อ้างอิงตลาดจีน; มวลชนพาณิชย์ต้องได้รับการยืนยันโดย Homologion/VIN)
+- ~วิธีการสร้างความสัมพันธ์ ~: งานวิจัยที่ขัดกับแหล่งย่อยด้านล่างนี้; การอ้างอิงตลาดจีน-มาร์เก็ต ก็ต่อเมื่อมีการอ้างอิงตลาดส่งออกอย่างตรงไปตรงมา
+- การร่างแบบ AI-assisted ถูกใช้ บทความนี้ตั้งอยู่บนพื้นฐานของงานวิจัยในตาราง และอัตโนมัติ QA ไม่มีการอ้างอิงการทดสอบก่อน จนกว่าจะมีการระบุรายละเอียดอย่างชัดเจน ยืนยันความต้องการที่ต้องใช้เวลาและกําหนดปลายทาง ก่อนทําการข้ามเวลา
 
-## Image Record
-- **IMAGE_ASSET_PATH**: none secured in repository
-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ not captured
-- **SOURCE_PAGE**: not captured
-- **RIGHTS_HOLDER**: unconfirmed
-- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
-- ~ECHCKKED_DATE ~: 2026-09-05
-- ~CRL/TOPIC_MATCH~: exact JAC Junling V6 light truck
-- **IMAGE_RIGHTS_STATUS**: FAIL
-- **ALT (12 languages)**:
+## บันทึกรูปภาพ
+- ~ประกาศ_BAR_ PATH ~ ~ ไม่มีคนปลอดภัยในห้องเก็บของ
+- ~~~~~ไม่ถูกจับ~
+- ~ประกาศจับ~: ไม่ถูกจับ
+- ** UNTER_FELE_ PATE*: ใช้ไม่ได้ — ไม่มีเอกสารผู้สมัครใด ๆ ที่ระบุ (ไม่มีใบรับรองที่จะยืนยัน)
+- ~ห้ามยืนยัน~
+- **LICENSE_OR_USAGE_BASIS**: ไม่ มี ใคร ปลอด ภัย — การ มี เว็บไซต์ อยู่ ใน เวลา นี้ ไม่ ใช่ การ ลง ทะเบียน ทํา ซ้ํา อีก ครั้ง ใน การ ค้า
+- ~CKND_DATE ~ 2026-09-06
+- ~CRL/TOPIC_MATCH~: แม่นตรง JaC Junling V6 รถขนแสง
+- MEDIAN_SCPE_NOTE: ภาพต้องตรงกับครอบครัว/ โตปิกที่ถูกต้องเท่านั้น; ต้องไม่หมายถึงการตัด, ปีตัวอย่าง, เรียลวีน, การตรวจสอบหรือการทําธุรกรรมจริง
+- หม่อมเจ้า หม่อมเจ้า
+- ~ ล็อก-รีซัน~: ไม่มีภาพใดสามารถใช้ได้โดยปลอดภัย: Wikited Commons/Flickr ไม่สามารถทํางานได้จากสภาพแวดล้อมการวิจัย ห้องสมุดหลักต้องการสิทธิ์ในการเข้าถึง API/CIFF และภาพเว็บเพจของ OEM ก็ไม่ใช่การให้ทุนใช้อีกครั้งในโฆษณา ไม่มีภาพถ่ายที่บรรจุออโต้ไบด์อยู่ บันทึกเก็บ FAIL แทนการยืนยัน
+- ~ALT (12 ภาษา) ~:
   - **EN**: JAC Junling V6 light truck, Chinese-market light cargo truck export buyer reference
   - **FR**: JAC Junling V6 light truck, light cargo truck du marché chinois, référence acheteur export
   - **DE**: JAC Junling V6 light truck, Chinesischer light cargo truck, Referenz für Exportkäufer

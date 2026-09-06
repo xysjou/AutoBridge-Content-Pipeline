@@ -1,70 +1,73 @@
-# Vehicle Export Sales Contracts: the Clauses That Actually Control Payment, Delivery and Disputes
-## SEO Metadata
-- **SEO Title**: Vehicle Export Sales Contract Clauses & Risk Guide
-- **Meta Description**: What a vehicle export sales contract must contain — PRC Civil Code Art 596 essentials, Incoterms risk transfer, retention of title, breach/claim windows, dispute resolution and Apostille, plus vehicle-condition disclosure.
-- **Suggested URL**: /guides/vehicle-export-sales-contract-clauses/
-- **H1**: Key Clauses in a Vehicle Export Sales Contract: Payment, Title, Risk and Disputes
-- **Primary Keyword**: vehicle export sales contract key clauses risk title
-- **Secondary Search Terms**: retention of title export contract, Incoterms risk transfer vehicle, export contract breach penalty, ICC arbitration vehicle trade, Apostille overseas documents, vehicle condition disclosure
-- **Internal Link Suggestions**: /guides/china-vehicle-export-license-customs-documents/;;;; /guides/overseas-aftersales-parts-warranty-network/ ; /guides/vehicle-pre-shipment-inspection-psi/
-- **Image Suggestions**: clause-to-risk map; risk/title transfer timeline; payment-vs-delivery milestone chart
-- **ALT Suggestions**: "export contract risk and title transfer timeline"; "vehicle sales contract key clauses"
+# 車両輸出販売契約:実際に支払い、配送、紛争を管理する条項
+## ツイート メタデータ
+- **SEOタイトル**:車両輸出販売契約条項とリスクガイド
+- **メタ 記述**: 車両輸出販売契約には、PRC民法596の本質、インコタームズリスク移転、タイトルの保持、侵害/免責窓、紛争解決、およびアポティーユ、車両条件の開示が含まれます。
+- **混雑したURL**: /guides/vehicle-export-sales-contract-clauses/
+- H1 ホテル **: 車両輸出販売契約における主要条項: 支払い、タイトル、リスクおよび紛争
+- **主なキーワード**:車両輸出販売契約キー条項リスクタイトル
+- **二次検索条件**:タイトル輸出契約の保持、インコタームリスク譲渡車両、輸出契約違反ペナルティ、ICC仲裁車取引、アポティーユ海外文書、車両条件開示
+- **内部リンクの提案**: /guides/china-vehicle-export-license-customs-documents/; /guides/overseas-aftersales-parts-warranty-network/; /guides/vehicle-pre-shipment-inspection-psi/
+- **画像提案**: 条項にリスクマップ、リスク/タイトル転送タイムライン、支払い-vs-deliveryマイルストーンチャート
+- **ALT 提案**:「輸出契約リスクとタイトル転送タイムライン」;「車両販売契約キー条項」
 
-## Who This Is For
-A first-time vehicle exporter often signs a deal on price and quantity alone, then discovers the contract never fixed **when risk passes, who holds title before full payment, or where a dispute is heard**. This guide maps the clauses that control those outcomes. The PRC Civil Code Art 596 is described here through **secondary legal portals (FindLaw etc.), which cap at CROSS_CHECKED/SINGLE_SOURCE**; VERIFIED would require the official Civil Code text from an NPC/government source. The rest is legal-practice synthesis. **A template is not legal advice — have a qualified lawyer review the executed contract under its chosen governing law.**
+## 誰がこのために
+初めての車両輸出業者は、価格と数量だけに取引を署名し、その後、契約が完全に支払いの前にタイトルを保持する*しかし、または紛争が聞かれる場所を固定しない*henリスクパスを発見します**。 このガイドでは、これらの結果を制御する句をマップします。 PRC 民法 アール596は、CROSS_ にキャップする**秒単位の法的ポータル(FindLawなど)を通じて、ここに記述されています。 CHECKED/SINGLE_SOURCE**; VERIFIEDは、NPC/governmentソースから公式の民法テキストを必要とする。 残りは法的に実践的な統合です。 **テンプレートは法的助言ではありません。資格のある弁護士は、選択した準拠法に基づく実行契約を見直しています。 アパート
 
-## Clause Block 1 — The Essential Contents (Civil Code Art 596)
-Under **Article 596 of the PRC Civil Code**, a sales contract should cover: **name, quantity, quality, price, time/place/method of performance, packaging, inspection standards and method, settlement, and the effective-language/text provisions**. Translated for a vehicle deal, the minimum is:
-- Exact **vehicle identity** (VIN, model/trim, model year, configuration list), **quantity and unit price**;
-- **Quality/condition standard** and the **inspection standard/method** (tie this to the PSI report);
-- **Packaging/protection** for ocean transit and the **settlement/payment method**;
-- **Language versions** and which text prevails if bilingual.
+## 条項ブロック1 — 必須コンテンツ(シビルコードアート596)
+PRC民法**の**の**Article 596の下で、販売契約はカバーする必要があります:**名前、量、品質、価格、性能、パッケージ、検査基準、方法、決済、および効果的な言語/テキスト規定**の時間/場所/方法。 車両の取引に翻訳される最小値は次のとおりです。
+- 正確な**vehicle ID** (VIN、モデル/トリム、モデル年、構成リスト)、**quantityおよび単価**;
+- **品質/条件規格**および**検査基準/方法**(PSI報告書にこれを結ぶ)
+- **海運輸および**settlement/payment方法のための包装/保護****;
+- **言語** およびバイリンガルの場合、どのテキストが優先する。
 
-## Clause Block 2 — Risk Transfer: Let Incoterms Decide It
-- Risk of loss/damage passes according to the **agreed trade term (state the Incoterms version explicitly, e.g., Incoterms 2020)** — FOB, CIF/CIP, DAP etc. each set a different transfer point.
-- Absent an agreed term, risk generally passes **on delivery to the buyer (or its nominated carrier)**.
-Write the term, version and **named place/port** precisely: "CIF" without a named port, or an unspecified Incoterms year, invites a fight over who bears in-transit damage — coordinate with the marine-insurance and loading guides.
+## 条項ブロック2 — リスク転送: それを決定するインコタームをしましょう
+- 損失/損害のリスクは、** の取引条件(Incoterms バージョンを明示的に、例えば、Incoterms 2020)に従って渡します** — FOB、CIF/CIP、DAP など、それぞれ異なる転送ポイントを設定します。
+- 合意された用語を欠如し、一般的に購入者に**オン配達(またはそのノミネートされたキャリア)を渡すリスクが一般的にあります**。
+用語、バージョン、** は、名前付きポートのない「CIF」、または未指定のインコターム年を記述し、譲渡不能な損傷を抱える人々を乗り越える戦いを招待します。 船舶保険とロードガイドと調整します。
 
-## Clause Block 3 — Retention of Title (protect an unpaid seller)
-A seller may **reserve title until full payment is received** (distinct from risk, which may already have passed): until paid in full, the buyer **may not mortgage or resell** the vehicles. This clause is especially valuable against default on staged shipments — but note its enforceability depends on the **governing law and whether title reservation is recognised/registrable in the buyer's jurisdiction**, which the lawyer should confirm.
+## 条項ブロック3 — タイトルの保持(未払いの売り手を保護する)
+売り手は**全額の支払いが受けられるまで、タイトルを支持することができます**(すでに渡された可能性があるリスクから除外する): 買い手が全額支払われるまで**車は死亡または再販売しない。 この条項は、特に段階的な出荷時にデフォルトで価値があります。しかし、その執行性は、**準拠法に依存し、弁護士が確認すべきバイヤーの管轄区域**でタイトル予約が認め/登録可能であるかどうかに依ります。
 
-## Clause Block 4 — Breach, Late Performance and Claim Windows
-- **Late payment / late delivery:** a per-day liquidated-damages rate (often expressed in per-mille, ‰, per day) with a **maximum overdue period after which the contract may be terminated**.
-- **Quality claims:** fix an **inspection period and a claim window** after arrival; without one, latent-defect disputes become he-said/she-said. Link the window to the PSI and to realistic detection of transit vs pre-existing damage.
-- Define **remedy hierarchy** (rectify → replace → refund) and who bears return/shipping cost in each case.
+## ブラウスブロック4 — ブレア、レイトパフォーマンス、クレームWindows
+- **支払/遅れ配達を支払って下さい: ** 一日あたりの清算損害率(多くの場合、パーマイユで表現) 、‰ 日)契約が終了する可能性がある**以降、**maximumの期限が過ぎた場合。
+- **品質要求:** 到着後、** 点検期間およびクレームウィンドウを固定する。 一方、潜伏争議は、彼・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ・ザ PSIにウィンドウをリンクし、トランジットと既存の損傷の現実的な検出に。
+- **救済階層**(→→→→払い戻しを交換)を定義し、各ケースで返送費用を負担する。
 
-## Clause Block 5 — Vehicle-Condition Disclosure (fraud prevention)
-Disclose material facts truthfully: **version/configuration, software version, and any accident/flood history, odometer adjustment, or encumbrance/mortgage**. Non-disclosure of these is a frequent source of fraud claims — and it interacts with the PSI, which should evidence the disclosed condition. For EVs, disclose battery grade/SOH-relevant information known to the seller.
+## 条項ブロック5 — 車両の状態のディスクロージャー(不正防止)
+素材の事実を真摯に解き放ちます。**バージョン/構成、ソフトウェアバージョン、および事故/変動履歴、測定器調整、または囲み/監視**。 これらを非開示することは、不正主張の頻繁なソースです。そして、それはPSIと相互作用し、開示された状態を証明する必要があります。 EV用、電池グレード/SOH関連情報を売主に開示します。
 
-## Clause Block 6 — Governing Law, Forum and Document Legalisation
-- Choose the **governing law and forum** deliberately; for cross-border deals, **international arbitration (e.g., ICC)** is often preferred for enforceability under the New York Convention over litigating in a foreign local court.
-- Documents that must be used overseas (powers of attorney, certificates) may need **Hague Apostille certification** (or consular legalisation where the destination is not a Hague party) — state who arranges and pays.
-- Specify **notice addresses, currency, force majeure (including port/shipping disruption), and the language that prevails**.
+## 条項ブロック6 — 準拠法、フォーラムおよび文書の合法化
+- 法律とフォーラム**を審議的に選択してください。 国境を超えた取引については、国際仲裁(ICCなど)**は、外国の地方裁判所で訴訟を提起するニューヨーク条約に基づく執行性を好むことが多いです。
+- 海外(弁護士、証明書)を使用する必要のある書類は、**Hague Apostilleの認証**(または目的地がハグパーティーでない領事) - 手配と支払いを要求する状態である。
+- **通知アドレス、通貨、強制的なマージ(ポート/シップの中断を含む)、および優先する言語**を指定します。
 
-## What This Guide Recommends You Never Leave Blank
-1. **VIN/configuration annex** attached to the contract (no "same as sample" ambiguity).
-2. **Incoterms term + version + named place**, and the matching risk/insurance position.
-3. **Retention of title** until full payment, checked for destination enforceability.
-4. **Per-day LDs, termination trigger, and a defined quality-claim window** tied to PSI.
-5. **Governing law, arbitration forum, Apostille responsibility**, and prevailing language.
+## このガイドが空白のままにしないとおすすめするもの
+1. **契約に付随するVIN/configuration annex**(「サンプルとして同じ」包囲無し)。
+2. **規約+バージョン+名付けられた場所**、マッチングリスク/保険ポジション。
+3. **全支払まで、宛先の執行性をチェックするタイトル**の保持。
+4. ** 日単位LD、終了トリガー、および定義された品質宣言ウィンドウ** はPSIに結び付けられます。
+5. **法令、仲裁フォーラム、使徒責任**、および優先言語の準拠。
 
-## Frequently Asked Questions
-**What must a vehicle sales contract contain under Chinese law?** PRC Civil Code Art 596 lists name, quantity, quality, price, performance time/place/method, packaging, inspection standard/method, settlement and language effectiveness — map each to the vehicle deal.
-**When does risk pass to the buyer?** Per the agreed Incoterms term (state the version and place); without agreement, generally on delivery to the buyer or its nominated carrier.
-**Can I keep ownership until I'm fully paid?** Yes, via a retention-of-title clause, subject to recognition under the governing/destination law.
-**How should late payment be handled?** A per-day liquidated-damages rate plus a maximum overdue period that allows termination.
-**Do overseas documents need legalisation?** Often an Apostille (Hague) or consular legalisation is required; state responsibility in the contract and verify the destination's status.
+## よくある質問
+**中国法で車輌販売契約が含まれているもの?** プロモーション 民法の規範 アール596は、名前、量、品質、価格、性能時間/場所/方法、パッケージ、検査基準/方法、決済および言語の有効性をリストします。車両の取引にそれぞれマップします。
+**買い手にリスクが渡る時?** 合意されたインコタームの用語(バージョンと場所を状態に)。 合意なし、一般的に買い手またはそのノミネートされたキャリアへの配送。
+**全額支払われるまで所有権を保持できますか?** はい、保持資格条項を介して、準拠法に基づく認識を受けています。
+**遅刻の支払いはどのように処理されるべきか?** 一日あたりの液状ダメージ率と、終端を可能にする最大残留期間。
+**海外の書類は合法化が必要ですか?** 多くの場合、アポジユ(ハグ)または領事の合法化が必要です。契約の責任を負い、目的地のステータスを確認します。
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
-- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- ALT by language:
+## 映像の記録
+- IMAGE_ASSET_PATH:リポジトリで保護されていない
+- ORIGINAL_IMAGE_URL: キャプチャされていない
+- SOURCE_PAGE: キャプチャされていない
+- SOURCE_FILE_PAGE: 該当なし — 特定候補のメディアファイル (アサートするライセンスなし)
+- 権利_ホルダー:未確認
+- LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
+- CHECKED_DATE: 2026-09-06(税抜き)
+- MODEL_TOPIC_MATCH: 上記の正確なモデル/バージョン(またはガイドトピック)と参照市場と一致しなければなりません
+- IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
+- IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
+- ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
+- 言語によるALT:
   - **EN**: AutoBridge export-buyer reference — Vehicle export sales contract clauses, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Vehicle export sales contract clauses, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Vehicle export sales contract clauses, Leitfaden für Fahrzeugexport-Einkauf
@@ -78,22 +81,22 @@ Disclose material facts truthfully: **version/configuration, software version, a
   - **AR**: مرجع AutoBridge لمشتري التصدير — Vehicle export sales contract clauses, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Vehicle export sales contract clauses, 汽车出口采购指南
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## ソースと検証
+| ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
 |---|---|---|---|---|---|---|
-| PRC Civil Code Art 596 sales-contract terms | FindLaw (legal portal) | CN | https://www.findlaw.cn/wenda/q_60484893.html | 2026-09-03 | CROSS_CHECKED (statute article cited via a secondary legal portal; not an official NPC source) | Essential contract contents |
-| Export vehicle sales contract model (risk/title retention) | 110ask legal | Global | https://m.110ask.com/fanben/601005122281423969.html | 2026-09-03 | CROSS_CHECKED | Risk transfer; retention of title; condition disclosure |
-| Purchase-contract core clauses (breach/title/config list) | 66Law | CN | https://m.66law.cn/question/56427049.aspx | 2026-09-03 | CROSS_CHECKED | LDs, claim window, configuration annex |
-| Export contract Incoterms/disputes/Apostille | Freight-forwarder material | Global | https://m.11467.com/product/d43019461.htm | 2026-09-03 | SINGLE_SOURCE | Incoterms versioning, ICC arbitration, Apostille |
-*Scope note: Art 596 content is CROSS_CHECKED via a secondary legal portal only — VERIFIED requires the official PRC Civil Code (NPC/government) text, which was not captured; do not label it VERIFIED. Enforceability of title reservation, arbitration and Apostille depends on the chosen governing law and destination, and must be confirmed by qualified counsel. Contract models are structural references only.*
+| プロモーション 民法の規範 アール596 セールス契約条件 | FindLaw (法的ポータル) | CN の | 以下は、 //www.findlaw.cn/wenda/q_60484893.html の仕様 | 2026-09-03 | CROSS_CHECKED(クロス) (二次法ポータルで引用された統計記事;NPC公式ソースではない) | 必須の契約内容 |
+| 車両販売契約モデル(リスク/タイトル保持) | 110ask 法的 | 営業拠点 | 以下は、 //m. 110ask.com/fanben/601005122281423969.html | 2026-09-03 | CROSS_CHECKED(クロス) | リスク移転、タイトル保持、条件開示 |
+| 購入契約コア句(breach/title/configリスト) | 66Law | CN の | 以下は、 //m. 66law.cn/question/56427049.aspx | 2026-09-03 | CROSS_CHECKED(クロス) | LD、クレームウィンドウ、コンフィグ |
+| 輸出契約 不coterms/disputes/Apostille | 貨物用材料 | 営業拠点 | 以下は、 //m. 11467.com/product/d43019461.htm | 2026-09-03 | シングル_ソース | ICC仲裁, 使徒 |
+* スコープノート: アール596 内容が CROSS_ 二次リーガルポータルでチェック — VERIFIED は、キャプチャされていない公式 PRC 民法 (NPC/政府) テキストを要求します。 それを検証しないでください。 タイトル予約、仲裁および使徒の執行可能性は、選択された準拠法および宛先に依存し、資格のある弁護士によって確認する必要があります。 契約モデルは構造的参照のみです。 ふりがな
 
-| 《中华人民共和国民法典》第三编 合同（第五百九十五/五百九十六/五百九十七条逐字） | 最高人民检察院 (Supreme People's Procuratorate) — offic | CN | https://www.spp.gov.cn/spp/ssmfdyflvdtpgz/202008/t20200831_478413.shtml | 2026-09-04 | VERIFIED |  |
-| 中华人民共和国民法典 全文（政府门户转载） | 云南省司法厅 (sft.yn.gov.cn) / 开封市人大 (kfsrd.henanrd.go | CN | https://sft.yn.gov.cn/pf/yunnan/PZhengCeFaGui/2020061631_2.shtml | 2026-09-04 | VERIFIED |  |
+| 《中华人民共和国民法典》 第三编 合同 (第五百九十五 / 五百九十六 / 五百九十七条逐字) | 最高人民检察院(要人民の預言者) — オフ | CN の | 以下は、 //www.spp.gov.cn/spp/ssmfdyflvdtpgz/202008/t20200831_478413.shtml | 2026-09-04 | 検証済み |  |
+| 中华人民共和国民法典 全文 (政府门户转载) | 云南省司法厅 (sft.yn.gov.cn) / 开封市人大 (kfsrd.henanrd.go) | CN の | 以下は、 //sft.yn.gov.cn/pf/yunnan/PZhengCeFaGui/2020061631_2.shtml | 2026-09-04 | 検証済み |  |
 
-## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market / scope**: Global contract structure (PRC statute identified; enforceability jurisdiction-specific)
-- **Verification method**: Statute + legal-practice synthesis; counsel-review caveat stated; no jurisdiction-specific legal conclusion overreached
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+## 編集レビュー
+- **著者/査読者**:【AutoBridge 輸出編集チーム】(/authors/)・方法による【編集ポリシー】(/editorial-policy/)
+- **最終審査**:2026-09-05
+- **参考市場/スコープ**:グローバル契約構造(PRC 統計特定、執行性管轄特化)
+- **検証方法**: 法令+法定の統合; 弁護士レビューの洞窟は述べた; 管轄権特異的な法的結論は上回らない
+- ** 編集規格**: 上記情報源(デスクリサーチ、片手運転、涙流、輸入)から研究・執筆 ソースの自信は行ごとに示されます。 私たちが独立して確認できない点は、事実として主張するのではなく、検証項目として提示されます。
 #AutoBridge #SalesContract #PaymentTerms #ExportProcurement #DisputeClause

@@ -1,67 +1,70 @@
-# FAW Jiefang J6P Heavy Tractor: Engine, Gearbox, Axle and GCW Read as a Tractor-Spec Decision
-## SEO Metadata
-- **SEO Title**: FAW Jiefang J6P Tractor Specs: Engine, GCW & Export Notes
-- **Meta Description**: Chinese-market FAW Jiefang J6P heavy tractor — Xichai CA6DM2 460 PS/2300 N·m China-VI diesel, 4×2/6×4/8×4 layouts, 10–16-speed gearboxes, ~40 t GCW class, and the export checks buyers need.
-- **Suggested URL**: /vehicles/faw-jiefang- j6p-tractor-specs/
-- **H1**: FAW Jiefang J6P (Chinese-Market): Heavy Tractor Powertrain, Chassis and Export Verification
-- **Primary Keyword**: faw jiefang j6p tractor specifications
-- **Secondary Search Terms**: Jiefang J6P 460, CA6DM2 engine, J6P 6x4 tractor GCW, China VI heavy truck export, J6P AMT gearbox, Xichai 11 litre diesel
-- **Internal Link Suggestions**: /vehicles/yutong- zk6122-coach-specs/; /vehicles/sany-concrete-mixer-truck-specs/;; /guides/china-vehicle-export-license-customs-documents/
-- **Image Suggestions**: 6×4 tractor side; Xichai CA6DM2 engine; 12-speed gearbox; tandem drive axle; cab interior
-- **ALT Suggestions**: "FAW Jiefang J6P 6x4 heavy tractor"; "J6P Xichai CA6DM2 diesel engine"
+# FAW Jiefang J6P重いトラクター:エンジン、ギアボックス、車軸およびGCWはトラクター仕様の決定として読む
+## ツイート メタデータ
+- ** SEO タイトル**: FAW Jiefang J6P トラクター仕様: エンジン、GCW およびエクスポートノート
+- **メタ 記述**: 中国の市場 FAW ジファング J6P 重いトラクター — Xichai CA6DM2 460 PS / 2300 N·m 中国VI ディーゼル、4 の × 2/6 の × 4/8 の × 4 のレイアウト、10–16-speed の変速機、~ 40 t の GCW のクラスおよび輸出点検はバイヤーの必要性を点検します。
+- **混雑URL**: /vehicles/faw-jiefang- j6p-tractor-specs/
+- H1 **: FAW Jiefang J6P (中国市場): 重いトラクターのパワートレイン、シャーシおよび輸出確認
+- **主なキーワード**:faw jiefang j6pトラクター仕様
+- **二次検索条件**:Jeefang J6P 460、CA6DM2エンジン、J6P 6x4トラクターGCW、中国VI大型トラック輸出、J6P AMTギアボックス、Xichai 11リットルディーゼル
+- **内部リンク提案**: /vehicles/yutong- zk6122-coach-specs/; /vehicles/sany-concrete-mixer-truck-specs/; /guides/china-vehicle-export-license-customs-documents/
+- **画像提案**:6×4トラクター側;Xichai CA6DM2エンジン;12-speedギアボックス;タンデムドライブ車軸;タクシーインテリア
+- **ALTの提案**:「FAW Jiefang J6P 6x4の重トラクター」;「J6P Xichai CA6DM2のディーゼル機関」
 
-## Buyer Context: Spec a Tractor by Driveline and GCW, Not by Badge
-For a heavy haulage tractor the decisive fields are **engine displacement and torque, gearbox, drive axles, GCW class, cab and chassis** — not trim-level equipment. The J6P is FAW Jiefang's long-running heavy tractor series, offered in **4×2, 6×4 and 8×4** drive layouts. This page is a **Chinese-market reference (REFERENCE MARKET: CHINA)**; every tractor is configured to a homologated model code, and export emission/axle ratios are order-specific.
+## バイヤーのコンテキスト: ドライブラインとGCWによるトラクターをスペックします。, バッジではなく
+重い運搬船トラクターのために、決定的な分野は**エンジンの変位とトルク、ギアボックス、ドライブ車軸、GCWクラス、タクシーおよびシャーシ**です。トリムレベルの機器ではありません。 J6PはFAW Jiefangの長期走行式大型トラクタシリーズで、4 × 2、6 × 4、8 × 4 ** ドライブレイアウト。 このページは**中国市場参照(REFERENCE MARKET: CHINA)**です。すべてのトラクターは、均質なモデルコードに構成され、排出/車軸比率は注文固有のものです。
 
-## Engine (the anchor of a tractor quote)
-| Item | J6P "460" China reference |
+## エンジン(トラクターの引用のアンカー)
+| アイテム | J6P "460" 中国参考 |
 |---|---|
-| Engine | Xichai **CA6DM2-46E6**, 11.05 L inline-6 diesel |
-| Emission | China VI (国六) |
-| Power | 338–341 kW (≈460 PS) |
-| Peak torque | 2300 N·m @ 1000–1400 rpm |
-| After-treatment | EGR + DOC + DPF + SCR (China VI / China VI-b) |
-The engine model and its 2300 N·m torque are cross-checked across two Chinese commercial-vehicle sources. A higher-tier **CA6DM3 13 L ≈560 PS ("3.0")** with a reported ~150,000 km long-drain interval is single-source and must be confirmed on the exact code rather than assumed.
+| 油圧エンジン | キシタイ ** CA6DM2-46E6 **,  11.05 L inline-6 diesel |
+| ミッション | 中国VI (国六) |
+| パワーパワー | 338–341 kW (≈460 PS) |
+| ピークトルク | 回転数:2300 N·m @ 1000–1400 rpm |
+| アフタートリートメント | EGR + DOC + DPF + SCR(中国VI / 中国VI-b) |
+エンジンモデルと2300 N·mトルクは、中国産の商用車ソースを横断的にチェックされます。 より高層** CA6DM3 13 L ≈ 560 PS (3.0 ")** 報告されたと〜150、 000 km 長距離の間隔は単一ソースです  and  想定されるよりも、正確なコードで確認する必要があります。
 
-## Gearbox, Axles and GCW
-- **Gearboxes:** 10- to 16-speed manuals (example **CA12TAX260M 12-speed**), with **AMT optional** — specify the exact model and whether AMT is required.
-- **Drive layouts:** 4×2 / 6×4 / 8×4; line-haul export orders most commonly evaluate 6×4.
-- **GCW class:** the 6×4 sits in the approximately **40-tonne GCW** class (single-source; confirm the rated GCW on the homologation certificate, as it changes with axle/tyre/suspension choice).
-- Confirm **final-drive/axle ratio, fifth-wheel position, suspension (leaf/air), tyre size and fuel-tank capacity** for the route's terrain and legal weights.
+## ギアボックス、アクスル、GCW
+- **Gearboxes:** 10-〜16-speedのマニュアル(例:CA12TAX260M 12-speed **)、**AMTオプション** - 正確なモデルとATMが要求されるかどうかを指定します。
+- **ドライブレイアウト:** 4 × 2 / 6 × 4 / 8 × 4; ライン運搬船の輸出注文は最も一般的に6 × 4.を評価する
+- **GCWクラス:** 6×4は、約 ** 40-tonne GCW**クラス(単一ソース;同等)で評価されたGCWを、軸/タイヤ/サスペンションの選択と変更するので、同等記証明書で確認します。
+- **最終的なドライブ/車軸の比率を確認して下さい、  fifth-wheel position, 懸濁液(葉/空気)、 タイヤのサイズ  and  燃料タンク容量** ルートの地形  and  法的重量。
 
-## Cab and Chassis
-J6P offers multiple cab variants (day/sleeper, roof height) for long-haul vs regional work. Chassis and wheelbase differ with drive layout and intended semi-trailer match. Because tractor + trailer compatibility is market-specific (kingpin, fifth-wheel height, brake coupling), record these on the build sheet.
+## キャベツとシャーシ
+J6Pは、長距離対地域の作業のための複数のキャブの変形(日/眠る人、屋根の高さ)を提供しています。 シャーシとホイールベースはドライブレイアウトと意図したセミトレーラーのマッチと異なる。 トラクター+トレーラーの両立性が市場固有の(キングピン、 五輪高さ、 ブレーキ カップリング), ビルドシートにこれらをレコードします。
 
-## Emission and Fuel Reality
-China-VI diesels use EGR+DOC+DPF+SCR and require **ultra-low-sulphur diesel and DEF (AdBlue)**. Before export, verify (a) the destination fuel sulphur level supports the after-treatment system, (b) whether China-VI is accepted or a different emission build is needed, and (c) DPF regeneration conditions in the operating climate. A China-VI tractor cannot simply be "derogated" without an engineering/approval basis.
+## 排出および燃料の現実
+中国VI ディーゼルは EGR + DOC + DPF + SCR を使用し、**ultra 低い硫黄ディーゼルおよび DEF (AdBlue)** を要求します。 輸出前に、中国-VI が受け入れられているか、異なる排出ビルドが必要であるかどうか、(a) の宛先燃料硫黄レベルは、後処理システム、(b)、および(c) 動作気候における DPF 再生条件をサポートします。 中国のVI トラクターは、単にエンジニアリング/承認ベースなしで「脱着」することはできません。
 
-## What Importers Should Verify Before Payment
-1. **Exact model code → engine (CA6DM2 vs CA6DM3), power, emission stage.**
-2. **Drive layout and rated GCW** on the certificate; axle ratio and suspension.
-3. **Gearbox model and AMT/manual**, clutch and PTO needs.
-4. **Fuel sulphur / DEF / DPF** compatibility and destination type approval.
-5. **Fifth-wheel/trailer coupling, LHD/RHD, cab spec, parts and service** for Xichai engines in-market; PSI of VIN/engine number before shipment.
+## 支払い前に輸入業者が確認すべきこと
+1. ※モデルコード→エンジン(CA6DM2対CA6DM3)、パワー、エミッションステージ。 ふりがな ふりがな
+2. ** ドライブレイアウトと認定されたGCW**証明書;車軸比とサスペンション。
+3. **GearboxモデルとAMT/manual**、クラッチ、PTOニーズ。
+4. **燃料硫黄/DEF/DPF**の両立性および先の型式の承認。
+5. **Fifth-wheel/trailer coupling, LHD/RHD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, タクシーの指定, パーツ  and  サービス** Xichaiエンジンの市場で; 出荷前のVIN/engine番号のPSI。
 
-## Request a Current Export Quotation
-No static export price and no China MSRP were captured; none is invented. Enquire with **Destination Country · Model Code · Drive Layout · Engine/Emission · LHD/RHD · Destination Port · Incoterm**.
+## 現在のエクスポート見積をリクエストする
+静的輸出価格と中国MSRPが捕獲されていない。 どれも発明されていない。 **目的地の国・モデルコード・ドライブレイアウト・エンジン・エミッション・LHD/RHD・デスティネーションポート・インコターム**を装備。
 
-## Frequently Asked Questions
-**What engine is in the J6P 460?** The Xichai CA6DM2-46E6, an 11.05 L inline-6 China-VI diesel at about 460 PS and 2300 N·m.
-**What drive layouts exist?** 4×2, 6×4 and 8×4; 6×4 is the common line-haul choice.
-**Is an automatic gearbox available?** AMT is optional alongside 10–16-speed manuals; name the exact gearbox model.
-**What is the GCW?** The 6×4 is in the ~40 t class, but rated GCW depends on axle/tyre/suspension — confirm on the certificate.
-**Can a China-VI tractor run on any diesel?** It needs ultra-low-sulphur diesel plus DEF and proper DPF conditions; verify destination fuel and emission acceptance before ordering.
+## よくある質問
+**J6P 460 のエンジンは?** ジッキー・CA6DM2-46E6、  an 11.05 L inline-6 China-VI diesel at about 460 PS  and  2300 N·m.
+**ドライブレイアウトは?** 4×2、6×4、8×4、6×4は、一般的なラインホールの選択です。
+**自動ギアボックスはありますか?** AMTは10–16-speedマニュアルとオプションです。 正確なギアボックスモデルの名前。
+**What is the GCW?** The 6×4 is in the ~40 t class, しかし、GCWは、アクスル/タイヤ/サスペンションに依存しています。
+**中国-VI トラクターはディーゼルで動くことができますか。** 超低硫黄ディーゼルとDEFと適切なDPF条件が必要です。注文する前に、目的地の燃料と排出受け入れを確認します。
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
-- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- ALT by language:
+## 映像の記録
+- IMAGE_ASSET_PATH:リポジトリで保護されていない
+- ORIGINAL_IMAGE_URL: キャプチャされていない
+- SOURCE_PAGE: キャプチャされていない
+- SOURCE_FILE_PAGE: 該当なし — 特定候補のメディアファイル (アサートするライセンスなし)
+- 権利_ホルダー:未確認
+- LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
+- CHECKED_DATE: 2026-09-06(税抜き)
+- MODEL_TOPIC_MATCH: 上記の正確なモデル/バージョン(またはガイドトピック)と参照市場と一致しなければなりません
+- IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
+- IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
+- ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
+- 言語によるALT:
   - **EN**: AutoBridge export-buyer reference — FAW Jiefang J6P, petrol/diesel Chinese-market vehicle / heavy tractor truck
   - **FR**: Référence AutoBridge pour acheteurs export — FAW Jiefang J6P, véhicule thermique (marché chinois) / tracteur routier lourd
   - **DE**: AutoBridge-Referenz für Exportkäufer — FAW Jiefang J6P, Verbrenner (chinesischer Markt) / schwere Sattelzugmaschine
@@ -75,25 +78,25 @@ No static export price and no China MSRP were captured; none is invented. Enquir
   - **AR**: مرجع AutoBridge لمشتري التصدير — FAW Jiefang J6P, مركبة بمحرك احتراق (سوق الصين) / رأس قاطرة ثقيل
   - **ZH**: AutoBridge 出口采购参考｜FAW Jiefang J6P, 中国市场燃油车 / 重型牵引车
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## ソースと検証
+| ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
 |---|---|---|---|---|---|---|
-| New J6P 460 (CA6DM2-46E6 / 2300 N·m) | Truck Home / Toutiao | CN | http://m.toutiao.com/group/7109372278135095819/ | 2026-09-03 | CROSS_CHECKED | Engine model, power/torque, China VI |
-| J6P comparison (CA6DM2-46E61, 341 kW) | Truck Home / Toutiao | CN | http://m.toutiao.com/group/7187639730950013444/ | 2026-09-03 | CROSS_CHECKED | 338–341 kW cross-check, drive layouts |
-| J6P 3.0 (CA6DM3 13 L 560 PS) | Truck Home / Toutiao | CN | http://m.toutiao.com/group/6919343124628374029/ | 2026-09-03 | SINGLE_SOURCE | 13 L 560 PS, long-drain interval |
-| Jiefang J6 model/drive/power lineage | Douyin Encyclopedia | CN | https://m.baike.com/wiki/%E8%A7%A3%E6%94%BEJ6/2354654 | 2026-09-03 | SINGLE_SOURCE | Layout/lineage background |
-| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
-| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
-| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VERIFIED | China-VI compression-ignition (heavy diesel) emission stage for trucks/coaches |
-| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
+| 新規 J6P 460 (CA6DM2-46E6 / 2300 N·m) | トラック ホーム / トゥーティーアオ | CN の | 担当: //m.toutiao.com/group/7109372278135095819/ | 2026-09-03 | CROSS_CHECKED(クロス) | エンジンモデル、パワー/トルク、中国VI |
+| J6P 比較 (CA6DM2-46E61, 341 kW) | トラック ホーム / トゥーティーアオ | CN の | 担当: //m.toutiao.com/group/7187639730950013444/ | 2026-09-03 | CROSS_CHECKED(クロス) | 338–341 kW cross-check, ドライブレイアウト |
+| J6P 3.0 (CA6DM3 13 L 560 PS) | トラック ホーム / トゥーティーアオ | CN の | 担当: //m.toutiao.com/group/ 6919343124628374029/ の | 2026-09-03 | シングル_ソース | 13 L 560 PSの長距離の間隔 |
+| Jiefang J6モデル/ドライブ/パワー系統 | ドイイン 百科事典 | CN の | 以下は、 //m.baike.com/wiki/%E8%A7%A3%E6%94%BEJ6/2354654 | 2026-09-03 | シングル_ソース | レイアウト/ライン 背景 |
+| ロードモーター車メーカーと製品カタログ — 公開クエリシステム | 工業情報技術省、中国情報技術省 | CN の | 以下は、 ................................................................................................................................ | 2026-09-05 | 検証済み | 注文するか、または輸出する前に製造業者、承認されたモデルおよび均質化(公告)のカタログの記入項目を確認して下さい |
+| ギガバイト16735-2019 道路車両 — 車両識別番号(VIN)要件 | SAMR全国規格全文プラットフォーム | CN の | 以下は、 //openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 のリリース | 2026-09-05 | 検証済み | バイヤーのVIN/ネームプレート検証で使用されるVIN構造とネームプレートのデータフィールド |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | 市場規制のSAMR、州政局 | CN の | 以下は、 //www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | 検証済み | ベースライン中国車安全技術条件と電流/改定タイムライン |
+| GB 17691-2018の頑丈なディーゼル車の汚染物質の放出(中国VI) | エコロジー・環境省(MEE) | CN の | 以下は、 .mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html の | 2026-09-05 | 検証済み | 中国のVI 圧縮点火(重力ディーゼル)のトラック/コハスの排出の段階 |
+| GB 19147の自動車ディーゼル燃料の国民の標準(低硫黄の基礎) | SAMR全国規格全文プラットフォーム | CN の | 以下は、 //openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A のリリース | 2026-09-05 | 検証済み | ディーゼル燃料グレードと硫黄ベースでエンジン/排出設計を海外に合わせる |
 
-*Confidence note: no FAW primary spec sheet was captured; the 460 engine/torque are cross-checked (CROSS_CHECKED), while the 13 L 560 PS and ~40 t GCW are single-source and bound to the homologated model code. China-VI after-treatment compatibility is an engineering/approval check, not assumed.*
+*Confidence Note: FAW のプライマリスペックシートがキャプチャされていない。 460 エンジン/トルクは、クロスチェック(CROSS_CHECKED)であり、13 L 560 PS と 40 t GCW は、単一ソースであり、同等なモデルコードにバインドされている。 中国-VI の後処理互換性は、想定されていないエンジニアリング/承認チェックです。 ふりがな
 
-## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: China, J6P tractor (Chinese-market reference; order-specific driveline)
-- **Verification method**: Commercial-vehicle cross-check; single-source items and scope flagged
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+## 編集レビュー
+- **著者/査読者**:【AutoBridge 輸出編集チーム】(/authors/)・方法による【編集ポリシー】(/editorial-policy/)
+- **最終審査**:2026-09-05
+- **参考市場**:中国、J6Pトラクター(中国市場参照、注文固有のドライブライン)
+- **検証方法**: 商用車クロスチェック; 単品およびスコープフラグド
+- ** 編集規格**: 上記情報源(デスクリサーチ、片手運転、涙流、輸入)から研究・執筆 ソースの自信は行ごとに示されます。 私たちが独立して確認できない点は、事実として主張するのではなく、検証項目として提示されます。
 #AutoBridge #VehicleExport #FAWJiefang #J6P #HeavyTractor

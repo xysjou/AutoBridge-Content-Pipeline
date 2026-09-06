@@ -4,10 +4,10 @@
 - **Titre du référencement**: Quelles voitures chinoises entrent dans la main droite (RHD)? Guide d'approvisionnement
 - **Description détaillée**: Comment trouver des véhicules chinois pour le Royaume-Uni, l'Australie, la Thaïlande, la Malaisie, l'Afrique du Sud et au-delà, quelles marques construisent le RHD, comment confirmer par VIN, et pourquoi la conversion LHD-to-RHD est risquée.
 - **URL suggérée**: /guides/drive-droite-chinois-cars/
-- ** H1 **: Acheter des voitures chinoises à main droite: Pourquoi cela doit être une construction RHD d'usine
+- ** H1 **: Acheter des voitures chinoises à main droite: Pourquoi ça doit être une construction RHD d'usine
 - **Mot-clé principal**: Voitures chinoises conduite droite modèles RHD exportation
 - ** Termes de recherche secondaires**: RHD d'usine VE chinois, lecteur à droite BYD, modèles MG RHD, GWM Haval RHD, RHD Thaïlande voiture chinoise, LHD à risque de conversion RHD
-- **Suggestions de lien interne**: /guides/chinese-ev-charge-standard-compatibilité/; /guides/verify-china-car-export-fournisseur/; /véhicules/hongqi-e- hs9-2024/
+- **Suggestions de lien interne**: /guides/chine-ev-charge-norme-compatibilité/; /guides/verify-china-car-export-fournisseur/; /véhicules/hongqi-e- hs9-2024/
 - **Suggestions d'image**: Cockpit RHD (direction à droite) vs LHD; carte du marché RHD mondial; ligne de production RHD usine; avertissement de risque de conversion
 - ** Suggestions d'ALT**: "Cockpit de voiture à droite en mode dynamique chinois"; "Plan des marchés mondiaux de la droite en mode alternatif"; "LHD to RHD conversion components alerting"
 
@@ -21,15 +21,15 @@ Voici un instantané des offres d'usine-RHD. La plupart des listes de marques pr
 
 | Marque (groupe) | Exemples déclarés d'usine-RHD | Marchés de la HDD signalés | Niveau de preuve |
 |---|---|---|---|
-| MG (SAIC) | MG4, MG ZS, MG HS, MG5, MG Extender (décrit par une source de service d'exportation comme l'un des plus grands groupes RHD de marque chinoise) | Afrique du Sud, Royaume-Uni, Australie, Thaïlande, Inde, Sri Lanka | Source de l'industrie — vérifier |
-| BUDGET | Atto 3 (nom d'exportation Yuan Plus), Dolphin, Sceau | Australie, Royaume-Uni, Thaïlande, Japon | Source de l'industrie — vérifier |
+| MG (SAIC) | MG4, MG ZS, MG HS, MG5, MG Extender (décrit par une source de services d'exportation comme l'une des gammes RHD de marque la plus large de Chine) | Afrique du Sud, Royaume-Uni, Australie, Thaïlande, Inde, Sri Lanka | Source de l'industrie — vérifier |
+| BUDGET | A 3 (Yuan Plus) nom d'exportation, Dolphin, Sceau | Australie, Royaume-Uni, Thaïlande, Japon | Source de l'industrie — vérifier |
 | GWM / Haval / ORA | Haval H6, Jolion, ORA 03, Tank 300 (marchés sélectionnés) | Afrique du Sud, Australie, Thaïlande, Royaume-Uni, Kenya | Source de l'industrie — vérifier |
-| Geely / Zeekr | Geely EX5 reported as engineered with parallel LHD/RHD lines from development; plusieurs modèles Geely/Zeekr RHD | Royaume-Uni, Irlande, Australie, Nouvelle-Zélande, Malaisie, Hong Kong | Source de l'industrie — vérifier |
-| Hongqi | RHD nouvelle énergie poussée à travers 2026; Hong Kong experience centre rapporté de juillet 2026 | Royaume-Uni, Australie, Nouvelle-Zélande, Singapour, Thaïlande, Malaisie, Indonésie | Médias/agrégateur — vérifier |
-| Dongfeng Forthing | ** Confirmé officiellement**: entré en Thaïlande Mars 2026 avec RHD NEV VUS "FRIDAY" et V9 construit pour les marchés RHD | Thaïlande | ** Fonctionnaires (Dongfeng)** |
-| Changan Qiyuan (en tant que NEVO) | Q05 montré sous la marque NEVO Q05 lors du salon moteur de Bangkok de mars 2026 (prospection RHD de Thaïlande) | Thaïlande | Médias — vérifier |
+| Geely / Zeekr | Geely EX5 a été rapporté comme étant conçu avec des lignes parallèles LHD/RHD depuis le développement; plusieurs modèles Geely/Zeekr RHD | Royaume-Uni, Irlande, Australie, Nouvelle-Zélande, Malaisie, Hong Kong | Source de l'industrie — vérifier |
+| Hongqi | RHD nouvelle énergie poussée à travers 2026; Centre d'expérience de Hong Kong rapporté à partir de juillet 2026 | Royaume-Uni, Australie, Nouvelle-Zélande, Singapour, Thaïlande, Malaisie, Indonésie | Médias/agrégateur — vérifier |
+| Dongfeng Forthing | **Données officielles**: entrée en Thaïlande Mars 2026 avec VUS NEV RHD "FRIDAY" et V9 construits pour les marchés RHD | Thaïlande | ** Fonctionnaires (Dongfeng)** |
+| Changan Qiyuan (en tant que NEVO) | Q05 shown as NEVO Q05 at the March 2026 Bangkok motor show (Thai RHD prospect) | Thaïlande | Médias — vérifier |
 
-Notez que les noms de modèle ** diffèrent entre la Chine et les marchés d'exportation** (par exemple, Yuan Plus → Atto 3); match par plate-forme/VIN, pas par nom de marché chinois. Roughly **35% of global vehicle sales are in RHD markets** per an industry estimate — a contextual figure, not a demand forecast for any specific model.
+Notez que le modèle **les noms diffèrent entre la Chine et les marchés d'exportation** (par exemple, Yuan Plus → Atto 3); match par plate-forme/VIN, pas par nom de marché chinois. Environ ** 35% des ventes mondiales de véhicules se trouvent sur les marchés de la HDR** par estimation de l'industrie, un chiffre contextuel, et non une prévision de la demande pour un modèle donné.
 
 ## Comment confirmer une usine authentique RHD Unit
 
@@ -66,11 +66,14 @@ Les vendeurs affirment la disponibilité de la RHD sans distinguer une ligne d'u
 - IMAGE_ASSET_PATH: aucun sécurisé dans le dépôt
 - ORIGINAL_IMAGE_URL: non capturé
 - SOURCE_PAGE: non capturé
+- SOURCE_FILE_PAGE: sans objet — aucun fichier multimédia candidat identifié (aucune licence pour affirmer)
 - HÔTEL DE DROITS: NON CONfirmÉ
 - LICENSE_OR_USAGE_BASIS: aucune image sécurisée — aucune image de tiers ne peut être publiée jusqu'à ce que les droits soient effacés
-- _DATE DE CHERCHE: 2026-09-05
+- _DATE DE CONTRÔLE: 2026-09-06
 - MODEL_TOPIC_MATCH: doit correspondre au modèle exact/version (ou au sujet du guide) et au marché de référence ci-dessus
+- IMAGE_SCOPE_NOTE: correspond à la famille/sujet du modèle exact seulement; ne doit pas impliquer une taille/modèle spécifique-année, VIN réel, inspection en personne ou transaction réelle
 - IMAGE_RIGHTS_STATUS: FAIL (aucun actif autorisé capturé; un détenteur de place ou -tain vieille image - Note n'est pas accepté)
+- C'est une question de "relation" Aucune image réutilisable ne peut être sécurisée: Wikimedia Commons/Flickr sont inaccessibles depuis l'environnement de recherche, les bibliothèques de stock nécessitent un accès authentifié API/licence, et une image de page web OEM n'est PAS une subvention de réutilisation commerciale; aucune photo appartenant à AutoBridge n'existe. Il a gardé la FAIL plutôt que de l'affirmer.
 - ALAT par langue:
   - **EN**: AutoBridge export-buyer reference — Right-hand-drive Chinese-car sourcing, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Right-hand-drive Chinese-car sourcing, guide d’achat à l’export automobile
@@ -92,15 +95,15 @@ Les vendeurs affirment la disponibilité de la RHD sans distinguer une ligne d'u
 | Guide des marchés de voitures chinoises RHD | StarVia Auto (service d'exportation) | Marchés de la RHD | https://www.starviaauto.com/en/blog/right-hand-drive-chinese-cars-markets-guide | 2026-09-02 | _CHECTURE | MG/GWM RHDL et marchés (industrie; vérifier) |
 | Quels véhicules chinois conviennent aux acheteurs RHD | StarVia Auto (service d'exportation) | Marchés de la RHD | https://www.starviaauto.com/en/faq/which-chinese-vehicles-are-suitable-for-buyers-who-need-right-hand-drive | 2026-09-02 | _CHECTURE | BYD Atto 3/Dolphin/Seal RHD (industrie; vérifier) |
 | Modèles Geely/Zeekr prêts à l'emploi pour la RHD | FOBEV (service à l'exportation) | Marchés de la RHD | https://www.fobev.com/vehicles/rhd-ready/ | 2026-09-02 | _CHECTURE | Geely EX5 parallèle LHD/RHD, Zeekr RHD (industrie; vérifier) |
-| Dongfeng Forthing entre en Thaïlande (officiel) | Groupe moteur Dongfeng (officiel) | TH | https://www.dfmc.com.cn/news/company/news_20260311_1142.html | 2026-09-02 | VÉRIFIER | Mars- 2026 Entrée en Thaïlande, RHD VENDRAI/V9 (VÉRIFIÉ) |
-| Changan NEVO Q05 Début du spectacle de Bangkok | Autohome 车家号 (media) | TH | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/25092921 | 2026-09-02 | _CHECTURE | NEVO Q05 Thai RHD prospect (média; vérifier) |
-| Stratégie RHD de Hongqi / contexte du marché RHD | smzdm (agrégateur); AutoReport (industrie) | Marchés de la RHD | https://post.m.smzdm.com/p/aqrp0mkp/ ; https://m.autoreport.cn/guoji/20260829/19112676566.html | 2026-09-02 | _CHECTURE | Poussoir Hongqi RHD; ~35% global sales in RHD markets |
+| Dongfeng Forthing entre en Thaïlande (officiel) | Groupe moteur Dongfeng (officiel) | TH | https://www.dfmc.com.cn/news/company/news_20260311_1142.html | 2026-09-02 | VÉRIFIER | Mars- 2026 Entrée en Thaïlande, VENDREDI/ V9 (VÉRIFIÉ) |
+| Changan NEVO Q05 Début du spectacle de Bangkok | Autohome 车家号 (médias) | TH | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/25092921 | 2026-09-02 | _CHECTURE | NÉVO Q05 Thai RHD prospect (média; vérifier) |
+| Stratégie RHD de Hongqi / contexte du marché RHD | smzdm (agrégateur); AutoReport (industrie) | Marchés de la RHD | https: //post.m.smzdm.com/p/ aqrp0mkp/; https://m.autoreport.cn/guoji/20260829/19112676566.html | 2026-09-02 | _CHECTURE | Hongqi RHD pouss; ~ 35% ventes mondiales sur les marchés de la RHD |
 
 * Note de confiance (standard AutoBridge): seul le lancement de Dongfeng en Thaïlande RHD est VERIFIED (officiel fabricant). Les listes de modèles de marque sont des instantanés de services d'exportation/médias (SINGLE_SOURCE) qui changent fréquemment et doivent être confirmés sur les canaux officiels de marque/distributeurs locaux par VIN. La légalité de la conversion après le marché n'a pas été vérifiée et est considérée comme un risque. *
 
 ## Révision de la rédaction
 - **Auteur / réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)
-- **Dernière revue**: 2026-09-05
+- **Dernière révision**: 2026-09-05
 - **Marché de référence**: marchés mondiaux de la RDT (sourcing de la Chine)
 - **Méthode de vérification**: Un lancement officiel plus des instantanés de l'industrie; disponibilité délibérément laissé à la confirmation officielle par VIN
 - **Norme de rédaction**: Recherches et écrits provenant des sources énumérées ci-dessus (recherches de bureau; aucune conduite directe, démontage ou importation n'est revendiquée). La confiance de la source est affichée par ligne; tout point que nous ne pouvons confirmer indépendamment est présenté comme un élément de vérification plutôt que comme un fait.

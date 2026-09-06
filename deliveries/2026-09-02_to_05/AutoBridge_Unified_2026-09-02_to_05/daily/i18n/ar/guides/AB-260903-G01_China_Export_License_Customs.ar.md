@@ -1,70 +1,73 @@
 # China-Side Vehicle Export Licence and Customs Documents: the Order an Exporter must follow
 ## SEO Metadata
-- **SEO Title**: China Vehicle Export Licence " Customs Documents Guide (2026)
-- **Meta Description**: How Chinese-side vehicle export qualification works — annual MOFCOM licence filing, BEV passenger-car export licensing, the used-car 180-day rule, and the full export document chain before customs declaration.
-- **Suggested URL**: /guides/china-vecle-export-license-customs-documents/
-- ** H1 **: China-Side Vehicle Export Licence, Qualification and Customs Document Chain
-- **Primary Keyword**: china vehicle export license customs declaration documents
-- **Secondary Search Terms**: China used car export licence, BEV export license China, MOFCOM vehicle export filing, vehicle export document chain, 180 day used car export rule
-- ** Internal Link Suggestions**: /guides/vehicle-coc-approval-dosssier/;guides/ev-shipping- un3171-imdg-compliance/ /guides/vehicle-export-sales-contract-clauses/
-- **Image Suggestions**: licence→document→customs flow diagram; document-chain checklist; annual filing timeline
-- **ALT Suggestions**: "China vehicle export licence to customs flow"; "vehicle export document chain checklist"
+- ** عنوان الحلقة**: دليل الوثائق الجمركية (2026)
+- ** وصف البيانات**::: كيفية عمل مؤهلات تصدير المركبات من الجانب الصيني - تقديم رخص سنوية من اللجنة المالية لشمال أفريقيا، ومنح تراخيص تصدير مركبات المركبات من طراز BEV، وقاعدة السيارة المستعملة 180-day، وسلسلة وثائق التصدير الكاملة قبل الإعلان الجمركي.
+- ** اقتراح مقدم من الاتحاد الأوروبي**: /إرشادات/اتحاد الأطراف - وثائق - وثائق - ذرات - مركبات/أعراف
+- ** H1 **** رخصة تصدير المركبات من الصين إلى الجانب الجنوبي، المؤهلات، ووثيقة الجمارك
+- ** كلمة رئيسية**: وثائق إعلانات تصدير مركبات الصين الصينية
+- ** شروط البحث الثانية**: استخدمت الصين ترخيص تصدير السيارات، ورخصة تصدير المركبات، والصين، ورخصة تصدير المركبات، مرفوعة من طراز MOFCOM للتصدير، سلسلة وثائق تصدير المركبات، 180 يوم من قواعد تصدير السيارات
+- ** Internal Link Suggestions**: /guides/vehicle-coc-approval-dosssier/;guides/ev-shipping- un3171-imdg-compliance/; /guides/vehicle-export-sales-contract-clauses/
+- ** اقتراحات بشأن إصدار التراخيص**: رسم بياني لتدفقات الرخصة؛ قائمة مرجعية لسلسلة الوثائق؛ الجدول الزمني السنوي للإحالة
+- ** اقتراحات بشأن: " رخصة تصدير السيارات الصينية إلى التدفق الجمركي " ؛ قائمة مرجعية لسلسلة وثائق التصدير المتحركة
 
-## Why This Page Exists
-Most failed first shipments fail on the **China side**, not the destination: the exporter lacks the right qualification category, the licence does not cover the product, or the document chain is inconsistent at declaration. This guide sets out the order to follow. It is grounded in Chinese government documents (MOFCOM, the State Council policy library, MIIT); where a rule is revised annually or time-sensitive, it is flagged rather than treated as permanent.
+## لماذا هذه الصفحة
+وتفشل معظم الشحنات الأولى المفقودة في الجانب الصيني**، وليس في الوجهة: فالمصدر يفتقر إلى فئة المؤهلات الصحيحة، ولا يغطي الترخيص المنتج، أو أن سلسلة الوثائق لا تتمشى مع الإعلان. ويعرض هذا الدليل الأمر الذي ينبغي اتباعه. وهي قائمة على وثائق الحكومة الصينية (المنظمة البحرية الدولية، ومكتبة مجلس الدولة المعنية بالسياسات، وشركة MIIT)؛ وفي الحالات التي يجري فيها تنقيح قاعدة ما سنويا أو على نحو يراعي الوقت، تكون هذه القاعدة مثبتة بدلا من اعتبارها دائمة.
 
-## Step 1 — Confirm Which Licence Regime Your Vehicle Falls Under
-China does not use one blanket "car export permit". Distinguish the tracks:
-- **New-energy / BEV passenger cars:** vehicles propelled solely by a drive motor and carrying a VIN (reference HS 8703801090) are under **export-licence administration** jointly overseen by MOFCOM, MIIT, GAC and SAMR (TIME_SENSITIVE — confirm the current notice and exact HS code against the year's tariff schedule).
-- **Used vehicles:** the State operates an **export-licence regime administered by MOFCOM**, and licence details must match the motor-vehicle registration certificate (VERIFIED, four-ministry notice).
-- **Conventional new vehicles / motorcycles:** handled through the **annual export-licence filing** described next.
-The exact commodity code and its regulatory condition must be confirmed against the current Import & Export Tariff and the latest MOFCOM announcement — do not reuse last year's HS assumption.
+## الخطوة 1 - تأكيد أيّ ترخيص يُنظّمُ مركباتك تحت
+الصين لا تستخدم بطانية واحدة "رخصة تصدير السيارات". تعطل المسارات:
+- ** السيارات الجديدة/مركبات الركاب الشاحنات التي تحملها فقط محرك قيادة وحملة شبكة معلومات شخصية (المرجع HS 8703801090) هي أقل من ** إدارة تصدير** تشرف عليها بصورة مشتركة اللجنة الخاصة المعنية بالإجراءات المالية المتعلقة بالألغام، وشركة MIIT، وGAC، وشركة SAMR (TIME_SENSITIVE - تؤكد الإشعار الحالي ورمز HS الدقيق ضد الجدول الزمني للتعريفات العامة للسنة.
+- ** تستخدم الدولة نظاماً للترخيص ** يشرف عليه فريق الرصد الدولي**، ويجب أن تتطابق تفاصيل الترخيص مع شهادة تسجيل المركبات (السجلات المرخصة، إشعار من أربع دوائر).
+- ** مركبات جديدة / دراجة نارية جديدة تداولت عن طريق الملفات السنوية ** التي تقدم كل سنة عن التصدير**، والتي يرد وصفها في وقت لاحق.
+يجب تأكيد رمز السلعة الدقيق وحالته التنظيمية ضد تعريف التصدير الحالي للواردات وآخر إعلان لـ (موفوك) لا يعيد استخدام افتراض العام الماضي
 
 ## Step 2 — The Annual Licence Filing (qualification before volume)
-MOFCOM issues an **annual notice arranging automobile and motorcycle export-licence applications**. Enterprises file for qualification; **modified/upfit vehicles must upload performance evidence such as export customs declarations and chassis purchase invoices**. Practical implication for a trader: qualification is not instant — align the annual filing window with your shipping plan, and keep chassis/upfit paperwork because it is evidence of real export performance.
+وتصدر اللجنة مذكرة سنوية ** تُنظم تطبيقات تصدير السيارات والدراجات النارية**.:: يجب على المركبات الآلية/المناسبة تحميل أدلة أداء مثل الإعلانات الجمركية التصديرية وفواتير الشراء التالفة**. الآثار العملية بالنسبة لتاجر: التأهل غير فوري - مواءمة نافذة الملفات السنوية مع خطتك للنقل البحري، والحفاظ على الأوراق الفوضوية/الأفضلية لأنها دليل على الأداء الحقيقي للصادرات.
 
-## Step 3 — The Used-Car 180-Day Rule (a hard, dated requirement)
-Per the four-ministry notice on strengthening used-car export management (VERIFIED): **from 1 January 2026, where a vehicle being applied for export was registered no more than 180 days earlier, the applicant must supplement the OEM's After-Sales Maintenance Service Confirmation; otherwise the licence will not be issued.**
-- This is a China-side, dated requirement — quote it with the date and re-verify the notice before relying on it.
-- The licence information must be consistent with the vehicle's registration certificate; mismatches block issuance.
+## الخطوة 3 - قاعدة استخدام القارب 180-Day (صعبة، مطلب مؤرخ)أ(
+بعد إشعار بأربعة أعلام عن تعزيز إدارة تصدير السيارات المستعملة ** من 1 يناير 2026، حيث تم تسجيل مركبة في التصدير قبل أكثر من 180 يوم، يجب على مقدم الطلب أن يكمل تأكيد دائرة الصيانة بعد انتهاء الخدمة التابعة لمنظمة أو إم. "الـ "مـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـوسـم الـمـسـمـسـمـسـمـنـيـنـيـنـيـنـيـمـة
+- وهذا هو جانب الصين، وهو شرط مؤرخ - اقتبس منه التاريخ، وأعاد التحقق من الإشعار قبل الاعتماد عليه.
+- يجب أن تكون معلومات الترخيص متسقة مع شهادة تسجيل السيارة؛ إصدارات غير دقيقة
 
 ## Step 4 — Build the Export Document Chain in a Consistent Order
-A clean declaration rests on mutually consistent documents:
-1. **Export licence** covering the exact product/HS;
-2. **Customs export declaration form**;
-3. **Commercial invoice**;
-4. **Packing list**;
-5. **Certificate of origin**;
-6. **Third-party inspection report** where required;
-7. **For EVs/hybrids:** battery **UN38.3 test report and MSDS**, plus the ocean dangerous-goods paperwork. Under IMDG Amendment 42-24 (mandatory from 2026-01-01) a lithium-ion-battery-powered vehicle is classified UN3556, not the legacy generic UN3171; apply documentation/SOC details per the current EV shipping Fact Sheet and the carrier (see the EV ocean-compliance guide).
-Names, VINs, quantities, values and HS codes must agree across invoice, packing list, B/L and licence — customs and the destination broker both reject inconsistent sets.
+ويرتكز الإعلان النظيف على وثائق متسقة فيما بينها:
+1. ** رخصة التصدير** التي تغطي المنتج/الخدمة الصحية على وجه الدقة؛
+2. ** استمارة إعلان التصدير الخاص بالذرات**؛
+3. ** فاتورة تجارية**؛
+4. ** قائمة التعبئة**؛
+5. ** شهادة المنشأ**؛
+6. ** تقرير تفتيش الأطراف الثالثة**، عند الاقتضاء؛
+7. ** بالنسبة للمركبات/المهجنة:**، تقرير اختبار للبطارية ** UN38.3، و MSDS**، بالإضافة إلى الأوراق المتعلقة بالمحيطات الخطرة. وبموجب تعديل IMDG 42-24 (الطلب من 2026-01-01) تصنف مركبة ذات طاقة الليثيوم من البطاريات UN3556 مركبة، وليس التركة العامة UN3171؛ وتطبق تفاصيل الوثائق/مجلس المركبات على كل صحيفة وقائع الشحن الإلكترونية الحالية والناقل (انظر دليل الامتثال للمحيطات).
+ويجب أن تتفق الأسماء، والأرقام الشخصية، والكميات، والقيم، ومدونات الصدر على جميع الفواتير، وقائمة التعبئة، و B/L، والرخص - الجمارك وسماسرة الوجهة على السواء يرفضان مجموعات غير متسقة.
 
-## Step 5 — Enterprise/Product Admission Behind the Paperwork
-MIIT Order No. 50 divides road-motor-vehicle manufacturers and products into **six admission categories: passenger cars, goods vehicles, buses, special-purpose vehicles, motorcycles and trailers**. Why an exporter cares: the manufacturer's admission scope determines which products can legitimately be declared. For special-purpose/upfit vehicles, confirm the base chassis admission **and** the superstructure entity's qualification.
+## الخطوة 5 - قبول المشاريع/المنتجات خلف الأعمال الورقية
+وتقسم وزارة الداخلية رقم 50 شركات تصنيع ومنتجات المركبات المتحركة إلى ست فئات قبول: سيارات الركاب، ومركبات السلع، والحافلات، والمركبات ذات الأغراض الخاصة، والدراجات النارية، والمقطورات**. لماذا يرعى المصدر: نطاق قبول الصانع يحدد أي منتجات يمكن إعلانها بشكل شرعي. للمركبات الخاصة الغرض/الملفات تؤكد دخول الفوضى الأساسية**و مؤهلات الكيان الخارق
 
-## What This Guide Recommends You Check Before Booking
-- The **licence regime and current HS code** for the exact vehicle (BEV / used / conventional / special).
-- **Annual filing status** and, for upfits, the chassis-invoice/declaration evidence.
-- For near-new used units, the **≤180-day OEM after-sales confirmation** before applying.
-- A **cross-document consistency pass** (VIN, value, HS, parties) before declaration.
-- **EV battery documents** early, since UN38.3/MSDS lead times gate booking.
+## ما يوصي به هذا الدليل لك التحقق قبل الحجز
+- نظام التسلية والرمز الحالي HS** للسيارة بالضبط (BEV/ used / conventional / special).
+- ** حالة تقديم الإقرارات السنوية**، وإثباتات الشرح/الإعلان، بالنسبة للارتفاعات.
+- بالنسبة للوحدات التي تستخدم حديثاً، فإن " تأكيد " أو " بعد البيع "** قبل التطبيق هو " 180-day أوم أوم أوم ".
+- ** تمرُّر للاتساق عبر الوثائق** (القيمة، القيمة، الخدمة الميدانية، الأطراف) قبل الإعلان.
+- ** وثائق البطاريات الإلكترونية** في وقت مبكر، منذ UN38.3/MSDS مرة حجز البوابة.
 
-## Frequently Asked Questions
-**Does every car exporter need the same permit?** No — BEV passenger cars, used cars and conventional vehicles sit under different tracks; confirm the regime and HS code for the product.
-**What is the 180-day used-car rule?** From 1 Jan 2026, a vehicle registered ≤180 days before the export-licence application needs the OEM's after-sales maintenance confirmation or the licence will not be issued (per the four-ministry notice; re-verify before use).
-**Which documents form the export chain?** Licence, customs declaration, commercial invoice, packing list, certificate of origin, inspection report where required, plus UN38.3/MSDS for electrified vehicles.
-**Why does the manufacturer's admission category matter to a trader?** MIIT Order 50 splits vehicles into six admission categories; the product must sit within the manufacturer's admitted scope to be declared cleanly.
-**Where do HS codes come from?** Confirm the exact code and regulatory condition against the current tariff schedule and latest MOFCOM notice — don't carry over an old code.
+## الأسئلة المتكررة
+** هل يحتاج كل مصدر للسيارات إلى نفس الرخصة؟** لا - سيارات الركاب من طراز بي في، السيارات المستعملة والمركبات التقليدية تتواجد تحت مسارات مختلفة؛ يؤكد النظام ورمز HS للمنتج.
+** ما هي قاعدة السيارة المستعملة البالغ عددها 180-day؟** من 1 (يان 2026) مركبة مسجلة سعة 180 يوم قبل طلب التصدير تحتاج إلى تأكيد صيانة بعد البيع
+** أي وثائق تشكل سلسلة التصدير؟** الرخصة، والإعلان الجمركي، والفاتورة التجارية، وقائمة التعبئة، وشهادة المنشأ، وتقرير التفتيش عند الاقتضاء، بالإضافة إلى UN38.3/MSDS للمركبات المكهربة.
+لماذا تهم فئة قبول الصانع إلى تاجر؟ MIIT الأمر 50 يقسم المركبات إلى ست فئات قبول، المنتج يجب أن يجلس في نطاق الصانع المقبول ليعلن نظيفاً
+** من أين تأتي رموز HS؟** تأكدي من الرمز الدقيق والشرط التنظيمي على الجدول التعريفي الحالي وآخر إشعار من وزارة المالية لا تحملي رمز قديم
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
+## سجل الصور
+- لم يُؤمن أي منها في مستودع
 - ORIGINAL: IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
+- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
+- الحقوق - حقوق غير مؤكدة
+- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
+- CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
+- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات ويكيميو/فلكر غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات المسبقة/الرخصة، وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
 - ALT by language:
   - **EN**: AutoBridge export-buyer reference — China vehicle export licence and customs documents, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — China vehicle export licence and customs documents, guide d’achat à l’export automobile
@@ -79,22 +82,22 @@ MIIT Order No. 50 divides road-motor-vehicle manufacturers and products into **s
   - **AR**: مرجع AutoBridge لمشتري التصدير — China vehicle export licence and customs documents, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜China vehicle export licence and customs documents, 汽车出口采购指南
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## المصدر: التحقق
+| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
-| 2026 Automobile & Motorcycle Export Licence Filing Notice | Ministry of Commerce (MOFCOM) | CN (export side) | https://www.mofcom.gov.cn/zcfb/zc/art/2025/art_1b1313c9c6da4a56874364b39e39c57d.html | 2026-09-03 | VERIFIED | Annual filing; upfit performance evidence |
-| Notice on Further Strengthening Used-Car Export Management | State Council policy library (four ministries) | CN (export side) | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | VERIFIED | Used-car licence regime; 180-day rule from 2026-01-01 |
-| BEV passenger-car export-licence administration | National Business Daily / Toutiao | CN (export side) | http://m.toutiao.com/group/7554336546682323496/ | 2026-09-03 | TIME_SENSITIVE | BEV licence track, reference HS |
-| MIIT Order No. 50 - Manufacturer ' Product Admission | Ministry of Industry and IT | CN (export side) | https://www.miit.gov.cn/zcfg/jdcjxl/art/2018/art_72a4ad7ff2304a8c83199eac43f276fe.html | 2026-09-03 | VERIFIED | Six admission categories; document-chain basis |
-*Scope note: official sources here cover the China export side only. Exact HS codes, system-operation details and any annual revision must be confirmed against the current tariff and MOFCOM notices; destination-side rules are out of scope.*
+| 2026 دراجة نارية الإشعار بإثبات الترخيص بالتصدير | Ministry of Commerce (MOFCOM) | CN (export side) | https://www.mofcom.gov.cn/zcfb/zc/art/2025/art_1b1313c9c6da4a56874364b39e39c57d.html | 2026-09-03 | مفقود | تقديم التقارير السنوية؛ أدلة الأداء المستوفية للفوائد |
+| إشعار بشأن مواصلة تعزيز إدارة الصادرات من البلدان المستعملـة | مكتبة سياسات مجلس الدولة (أربع وزارات) | CN (export side) | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | مفقود | نظام تراخيص السيارات المستعملة؛ 180-day قاعدة من 2026-01-01 |
+| إدارة تصدير المركبات | National Business Daily / Toutiao | CN (export side) | http://m.toutiao.com/group/7554336546682323496/ | 2026-09-03 | الوقت - | مسار ترخيص المركبات، المرجع HS |
+| أمر "ميت" رقم 50 - Manufacturer ' Product Admission | Ministry of Industry and IT | CN (export side) | https://www.miit.gov.cn/zcfg/jdcjxl/art/2018/art_72a4ad7ff2304a8c83199eac43f276fe.html | 2026-09-03 | مفقود | ست فئات قبول؛ على أساس سلسلة الوثائق |
+* ملاحظة: المصادر الرسمية هنا تغطي الجانب الصيني من الصادرات فقط. ويجب تأكيد رموز نظام المنسق وتفاصيل التشغيل النظامي وأي تنقيح سنوي على الإشعارات الحالية المتعلقة بالتعريفات الجمركية واتفاقية مراقبة الأصول المالية؛ وقواعد الوجهة غير قابلة للنطاق. ♪
 
-| 商务部 工业和信息化部 海关总署 市场监管总局公告 2025 年第 54 号（对纯电动乘用车实施出口许可证管理，2026-01-01 施行；参考 HS 8703801090） | Ministry of Commerce (MOFCOM) official announcem | CN | https://www.mofcom.gov.cn/zcfb/blgg/gg/2025/art/2025/art_b483d5aaebbb46e1999748d569d1ca99.html | 2026-09-04 | VERIFIED |  |
-| 商务部办公厅关于 2026 年度汽车和摩托车出口许可申报的通知（2025-09-28；引用54号公告，系统填报“乘用车”） | MOFCOM Department of Foreign Trade (wms) | CN | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-04 | VERIFIED |  |
+| 商务部 工业和信息化部 海关总署 市场监管总局公告 2025 年第 54 号 (对纯电动乘用车实施出口许可证管理، 对纯电动乘用车实施出口许可证管理، 施行 2026-01-01، 参考 HS 8703801090) | إعلان رسمي لوزارة التجارة | CN | https://www.mofcom.gov.cn/zcfb/blgg/gg/2025/art/2025/art_b483d5aaebbb46e1999748d569d1ca99.html | 2026-09-04 | مفقود |  |
+| 商务部办公厅关于 2026 年度汽车和摩托车出口许可申报的通知（2025-09-28；引用54号公告，系统填报“乘用车”） | وزارة التجارة الخارجية | CN | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-04 | مفقود |  |
 
-## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market / scope**: China export side
-- **Verification method**: Chinese primary-source review (MOFCOM/State Council/MIIT); time-sensitive items flagged, not fixed
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+## استعراض التحرير
+- ** مستعرض/مراجع**: [فريق تحرير تصدير أوتو بريدج] (/مؤلف/) - طريقة لكل [سياستنا الانتخابية] (/سياسة التحرير/)
+- ** لم يُستعرض بعد**: 2026-09-05
+- ** سوق الإحالة/الحجم**: الجانب الصيني من الصادرات
+- ** طريقة التحقق**: الاستعراض الصيني للمصادر الرئيسية (الفريق العامل المعني بالجيش/المجلس الحكومي/الصندوق)؛ البنود الحساسة من حيث الوقت التي أُشير إليها، غير محددة
+- ** المعيار الإفريقي**: باحثة ومحررة من المصادر المذكورة أعلاه (بحوث مكتبية؛ ولا يُدَّعى عن أي قيادة مباشرة أو تمزق أو استيراد). وتظهر الثقة في المصدر في الصف الواحد؛ وأي نقطة لا يمكننا تأكيدها بشكل مستقل تعرض كبند تحقق بدلا من التأكيد على أنها حقيقة.
 #AutoBridge #ExportLicence #CustomsDocuments #ChinaExport #ExportProcurement

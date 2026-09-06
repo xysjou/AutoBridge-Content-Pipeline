@@ -1,71 +1,76 @@
-# TIR International Road Transport for China Exporters — Carnet, Vehicle Approval, 2026 Rules
+# TIR อินเตอร์เนชันแนลโรด ขนส่งสําหรับผู้ส่งออกชาวจีน — คาร์เน็ต, มอเตอร์ แอปพอต, 2026 กฎ
 
-## SEO Metadata
-- **SEO Title**: TIR Road Transport from China to Central Asia/Europe: Carnet, Vehicle Approval and 2026 Expansion
-- **Meta Description**: How TIR international road freight works for Chinese vehicle/parts exporters: the TIR carnet, the vehicle approval certificate, sealed load compartment, China timeline and the 2026 scope expansion.
-- ~ H1~: TIR International Road Transport for China Exporters — Carnet, Vehicle Approval, 2026 Rules
-- **Primary Keyword**: tir road transport china central asia
-- **Secondary Search Terms**: TIR Carnet; China Central Asia trucking; vehicle approval certificate; customs seal; road transit
-- **Suggested URL**: /guides/tir-road-transport-china-central-asia/
-- **Search Intent**: 对中亚/欧洲卡航出口，如何适用TIR公约、办理TIR证与海关加封车辆批准证明、2026新规变化
-- **Internal Link Suggestions**: / Guides/Tird-Troad-Transport-china-entral-asia / // guides/Viide-export-Hs-Hs-Hs History / / // Guides/china-exports-exports-declamation-sing-window/
-- ~Schema Scope~: Article (no Product/Offer/Review)
+## เชา ข้อมูลกํากับภาพ
+- การขนส่งรถรางจากจีนไปยังเอเชียกลาง/ยุโรป: Carnet, moft approval และ 2026 pproading
+- ""คําอธิบาย" วิธี TIR สินค้าระหว่างประเทศสินค้าสําหรับรถและพาร์ทเนอร์จีน: TIR carnet, ใบอนุญาตรับรองรถ, ผนึกส่วนโหลด, จีนไทม์ไลน์ และ 2026 การขยายขอบเขต
+- **H1**: TIR อินเตอร์เนชันแนลโรด ขนส่งสําหรับผู้ส่งออกชาวจีน — คาร์เน็ต, มอเตอร์ แอปพอต, 2026 กฎ
+- ~คําสําคัญ~: Tr ถนนขนส่งประเทศจีนกลาง Asia
+- ~การค้นหาตามวาระ: TIR Carnet; ประเทศจีนกลาง เอเชีย รถบรรทุก; ประกาศนียบัตร พาหนะ; ตรา ศุลกากร; การ เดิน ทาง ถนน
+- ~ที่อยู่ URL ที่ถูกย่อ: / guides/Tir-road-Transport-china-entral-asia/
+- สืบค้นเมื่อ 对中亚/ 欧洲卡航出口, 如何适用 TIR 公约 、 办理 TRIR 证与海关加封车辆批准证明 、 2026 新规变化.
+- ** ลิงก์ภายใน **. guides/Tird-trans-transl-tota-sentral-asia/, / guides/vehicles-export-hs-Hs-Hs his/////guides/ china-export-ceport-de-s-scleports-sing-swinds-swinds-winds/
+- ~Schema Scop~: บทความ (ไม่มี Production/Offer/Review)
 
-## What TIR changes for an overland exporter
-TIR is an international customs transit system that lets a sealed road vehicle or container move across contracting parties with a single **TIR carnet**, goods generally remaining sealed and duties/taxes guaranteed along the chain. For Chinese exporters shipping vehicles or parts overland to Central Asia and onward to Europe, it reduces repeated border inspection and guarantees. It is a framework convention; operational detail is implemented by each contracting party's customs.
+## สิ่งที่ TIR เปลี่ยนแปลงสําหรับผู้ส่งออกจากต่างประเทศ
+TIR เป็นระบบขนส่งศุลกากรระหว่างประเทศ ที่ปล่อยให้รถรางที่ถูกปิดหรือตู้คอนเทนเนอร์ที่เคลื่อนผ่านงานสัญญาเดียว*TIR Carnet* สินค้าที่มักจะถูกผนึก และหน้าที่/ภาษีรับประกันว่าอยู่พร้อมโซ่ สําหรับ คน จีน ที่ ส่ง ออก สินค้า หรือ บาง ส่วน ที่ อยู่ ไกล ออก ไป จน ถึง เอเชีย กลาง และ ต่อ มา ก็ ลด การ ตรวจ ตรา ชายแดน และ การ รับ ประกัน. มันเป็นการประชุมทางเฟรม รายละเอียดของการทํางานถูกปฏิบัติโดย ศุลกากรของแต่ละพรรค
 
-## The two documents that must not be confused
-- **TIR carnet (TIR证)**: the transit guarantee document presented at departure, en route and destination customs offices.
-- **Vehicle/container approval certificate (车辆批准证明书)**: certifies that the road vehicle or container meets the construction requirements (notably the load compartment's ability to be sealed). A vehicle that cannot be reliably sealed does not qualify. These are distinct: approving the vehicle is not the same as issuing a carnet for a shipment.
+## เอกสารสองฉบับที่จะต้องไม่สับสน
+- "TIR Carnet (TIR 证)" "เอกสารรับรองการคมนาคม นําเสนอเมื่อเดินทาง ระหว่างเส้นทางและสถานที่ตรวจการศุลกากร"
+- ~ ใบรับรองรับรองการรับรองการรับฝากของ Vechelex/september (车辆批准证明书) ~: ยืนยันว่ารถหรือตู้คอนเทนเนอร์ ตรงกับความต้องการก่อสร้าง (ซึ่งไม่ใช่ความสามารถของตู้สินค้าที่จะปิด). รถ ที่ ไม่ สามารถ ผนึก ไว้ ได้ นั้น ไม่ มี คุณสมบัติ. นี่ต่างกับ การอนุมัติรถ ไม่เหมือนกับการส่งอินเตอร์เน็ต
 
-## Sealed-compartment control
-Once customs affixes seals, the load compartment must remain sealed in transit; any break, trans-loading or damage must be handled under the TIR procedure rather than informally. This is why load-security and compartment construction matter before departure.
+## ควบคุมการมีส่วนร่วมที่ถูกปิดแล้ว
+เมื่อศุลกากรผนึกการโหลดแล้ว ช่องโหลดจะต้องถูกปิดไว้ในการขนส่ง; การแตกใด ๆ การโหลดหรือความเสียหาย จะต้องดําเนินการภายใต้กระบวนการของ TIR แทนการไม่เป็นทางการ นี่คือเหตุผลว่าทําไม การรักษาความปลอดภัยและส่วนต่างๆ ก่อนการจากไป
 
-## China timeline and the 2026 expansion
-China acceded in 2016, moved to nationwide implementation in 2019, and the captured 2026 China customs measures **expand the applicable scope** (including additional scenarios such as cross-border e-commerce bonded traffic). Treat the precise 2026 scope list and effective detail as time-sensitive and confirm against the current GACC announcement.
+## จีนไทม์ไลน์และการขยาย 2026
+China acceded in 2016, ย้ายไปดําเนินการทั่วประเทศใน 2019  and  the captured 2026 China customs measures **expand the applicable scope** (including additional scenarios such as cross-border e-commerce bonded traffic). รักษาความแม่นยํา 2026 รายการ และรายละเอียดที่มีประสิทธิภาพ เป็นเวลาที่ไว และยืนยันการประกาศ CAC ปัจจุบัน
 
-## Operating checklist
-1. Confirm the route crosses TIR contracting parties and choose a TIR-authorised operator/association.
-2. Ensure the vehicle/container qualifies and obtain the approval certificate.
-3. Prepare the TIR carnet and align it with the export declaration.
-4. Preserve customs seals in transit; handle exceptions through the TIR procedure.
-5. Confirm the current 2026 scope for your cargo type with GACC before booking.
+## รายการที่เรียกดู
+1. ยืนยันเส้นทางที่ TIR เซ็นสัญญา และเลือกผู้ดําเนินการ/ร่วมรบที่ร่วมดําเนินการกับ TIR
+2. เพื่อให้แน่ใจว่ารถ/ ผู้จัดทํา จะมีคุณสมบัติและได้รับใบรับรองรับรอง
+3. เตรียมอุปกรณ์ทีอาร์ และจัดลําดับให้เป็นระเบียบตามประกาศการส่งออก
+4. รักษาผนึกศุลกากรไว้ในการขนส่ง; จัดการยกเว้นผ่านทางขั้นตอน TIR
+5. ยืนยันขอบเขต 2026 ปัจจุบัน สําหรับชนิดของสินค้าของคุณด้วย GCC ก่อนทําการจอง
 
-## Boundaries
-This guide does not list every contracting party, guarantee-chain fee or 2026 scope line; those are time-sensitive and route-specific, and no fees are quoted.
+## ขอบเขต
+มัคคุเทศก์นี้ไม่ได้ระบุถึงทุกพรรคสัญญา รับประกันค่าธรรมเนียม หรือ 2026 ขอบเขต; เหล่านั้นคือเส้นเวลาที่จํากัดและกําหนดเส้นทาง และไม่มีค่าธรรมเนียมใด ๆ ที่ถูกอ้างถึง
 
-## FAQ
-**TIR carnet vs vehicle approval?** The carnet is the shipment guarantee; the approval certifies the sealable vehicle/container.
-**Why is sealing so important?** Sealed compartments underpin the transit guarantee; breaks must follow TIR procedure.
-**When did China join?** 2016 accession, nationwide implementation from 2019, with a 2026 scope expansion.
-**Does TIR replace the export declaration?** No — it works alongside the China export declaration.
-**Does it cover sea freight?** It is a road (and road-intermodal) transit system; confirm modal scope for the route.
+## ขนาด FAQ
+~TIR carnet vs exception~ มุ้ง เป็น สิ่ง รับ ประกัน ว่า จะ ส่ง ออก; การ รับรอง ว่า จะ ผ่าน การ ผนึก รถ หรือ เครื่อง อุปโภค บริโภค.
+~ทําไมการปิดผนึกจึงสําคัญ~ ห้องปิดตาย คอยคุมการขนส่งไว้ จําเป็นต้องตามขั้นตอนของ TIR
+~จีนเข้าร่วมเมื่อไหร ~ 2016 เข้าร่วมแข่งขันกีฬาสากล จาก 2019 โดยมีการขยายพื้นที่ 2026
+** ทีอาร์จะแทนที่การส่งออกหรือไม่? ~ ไม่ — มันทํางานตามประกาศการส่งออกของจีน
+~มันครอบคลุมสินค้าในทะเลหรือเปล่า~ เป็นเส้นทาง (และถนน) ระบบขนส่ง; ยืนยันขอบเขตการเคลื่อนที่สําหรับเส้นทาง
 
 
-## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
+## ต้นฉบับและการตรวจสอบสิทธิ์
+| แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| 海关总署公告2026年第2号（关于优化落实TIR公约有关事项） | 中华人民共和国海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2026-01/05/article_2026010515561027770.html | 车辆批准证明书, TIR证交验, 适用范围扩展 |
-| 海关总署公告2026年第2号（PDF原件） | 中华人民共和国海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/attachDir/2026/01/%E6%B5%B7%E5%85%B3%E6%80%BB%E7%BD%B2%E5%85%B3%E4%BA%8E%E4%BC%98%E5%8C%96%E8%90%BD%E5%AE%9ETIR%E5%85%AC%E7%BA%A6%E6%9C%89%E5%85%B3%E4%BA%8B%E9%A1%B9%E7%9A%84%E5%85%AC%E5%91%8A%20(1).pdf | 公告全文一致性核验 |
-| 海关总署公告2026年第2号（国务院公报） | 中国政府网 | CN | T1 | VERIFIED | https://www.gov.cn/gongbao/2026/issue_12666/202604/content_7065109.html | 公报核验 |
-| TIR国际公路运输及服务指南（政策解读） | 武汉市（促进跨境贸易便利化，搜狐转载） | CN | T3 | ROOS_ CHCKED | https://m.sohu.com/a/1054225552_121106908/ | 中国2016加入/2019全国实施/2026扩展跨境电商保税 |
-## Editorial Review
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: CN出境+TIR缔约国（国际公约框架）
-- **Verification method**: Desk research against the sources below; Chinese-market reference specification only unless a separate export market is explicitly cited.
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
+| 海关总署公告2026年第2号（关于优化落实TIR公约有关事项） | 中华人民共和国海关总署 | CN | T1 | เปิดใช้งาน | http://www.customs.gov.cn/customs/2026-01/05/article_2026010515561027770.html | 车辆批准证明书, TIR 证交验, 适用范围扩展 |
+| 海关总署公告 2026 年第 2 号 (PDF 原件) พ.ศ. | 中华人民共和国海关总署 | CN | T1 | เปิดใช้งาน | http://www.customs.gov.cn/customs/attachDir/2026/01/%E6%B5%B7%E5%85%B3%E6%80%BB%E7%BD%B2%E5%85%B3%E4%BA%8E%E4%BC%98%E5%8C%96%E8%90%BD%E5%AE%9ETIR%E5%85%AC%E7%BA%A6%E6%9C%89%E5%85%B3%E4%BA%8B%E9%A1%B9%E7%9A%84%E5%85%AC%E5%91%8A%20(1). พ.ศ. | 公告全文一致性核验 |
+| 海关总署公告2026年第2号（国务院公报） | 中国政府网 | CN | T1 | เปิดใช้งาน | https://www.gov.cn/gongbao/2026/issue_12666/202604/content_7065109.html | 公报核验 |
+| TIR 国际公路运输及服务指南 (政策解读). | 武汉市 (促进跨境贸易便利化, 搜狐转载) พ.ศ. | CN | T3 | ROOS_ CHCKED | https://m.sohu.com/a/1054225552_121106908/ | 中国2016加入/2019全国实施/2026扩展跨境电商保税 |
+| อนุ สัญญา ที ไอ อาร์ 1975 — ข้อ ความ ทาง การ ของ คณะ กรรมการ ปกครอง แห่ง สหประชาชาติ | คอลเลคชั่นสนธิสัญญาของสหประชาชาติ | INT | T1/T2 | เปิดใช้งาน | https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XI-A-16&chapter=11 | ข้อ ความ ทาง กฎหมาย ของ อนุ สัญญา ศุลกากร เรื่อง การ ขน ส่ง สินค้า ระหว่าง ประเทศ ภาย ใต้ การ ปก คลุม ของ ที ไอ อาร์ คาร์ เนต ส์ |
+| IRU — ระบบอินเตอร์เน็ตและการันตี | Union Tailing Media (IRU) ระหว่างประเทศ | INT | T1/T2 | เปิดใช้งาน | https://www.iru.org/ | TIR Carnet is proferation; อธิบายการรักษาความปลอดภัยและความต้องการผู้ดําเนินการที่ถูกควบคุม |
+## การทบทวนแก้ไข
+- ~Uuthor ♪: AutoBridge ส่งออกทีมแก้ไข [ผู้เขียน](/ ผู้เขียน/) สืบค้นเมื่อ [ใช้ในการแก้ไขนโยบาย] [/Di-policy/]
+- ~ถูกตรวจสอบแล้ว~: 2026-09-05
+- ~ตลาดแห่งความไม่สงบ ~: CN 出境 + TIR 缔约国 (国际公约框架)
+- ~วิธีการสร้างความสัมพันธ์ ~: งานวิจัยที่ขัดกับแหล่งย่อยด้านล่างนี้; การอ้างอิงตลาดจีน-มาร์เก็ต ก็ต่อเมื่อมีการอ้างอิงตลาดส่งออกอย่างตรงไปตรงมา
+- การร่างแบบ AI-assisted ถูกใช้ บทความนี้ตั้งอยู่บนพื้นฐานของงานวิจัยในตาราง และอัตโนมัติ QA ไม่มีการอ้างอิงการทดสอบก่อน จนกว่าจะมีการระบุรายละเอียดอย่างชัดเจน ยืนยันความต้องการที่ต้องใช้เวลาและกําหนดปลายทาง ก่อนทําการข้ามเวลา
 
-## Image Record
-- **IMAGE_ASSET_PATH**: none secured in repository
-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ not captured
-- **SOURCE_PAGE**: not captured
-- **RIGHTS_HOLDER**: unconfirmed
-- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
-- ~ECHCKKED_DATE ~: 2026-09-05
-- ~CRL/TOPIC_MATCH~: exact TIR International Road Transport for China Exporters
-- **IMAGE_RIGHTS_STATUS**: FAIL
-- **ALT (12 languages)**:
+## บันทึกรูปภาพ
+- ~ประกาศ_BAR_ PATH ~ ~ ไม่มีคนปลอดภัยในห้องเก็บของ
+- ~~~~~ไม่ถูกจับ~
+- ~ประกาศจับ~: ไม่ถูกจับ
+- ** UNTER_FELE_ PATE*: ใช้ไม่ได้ — ไม่มีเอกสารผู้สมัครใด ๆ ที่ระบุ (ไม่มีใบรับรองที่จะยืนยัน)
+- ~ห้ามยืนยัน~
+- **LICENSE_OR_USAGE_BASIS**: ไม่ มี ใคร ปลอด ภัย — การ มี เว็บไซต์ อยู่ ใน เวลา นี้ ไม่ ใช่ การ ลง ทะเบียน ทํา ซ้ํา อีก ครั้ง ใน การ ค้า
+- ~CKND_DATE ~ 2026-09-06
+- ** ROUNDLPICIC_MATCH~: การขนส่งรถรางนานาชาติ TIR ตรงเป๊ะ สําหรับผู้ส่งออกชาวจีน
+- MEDIAN_SCPE_NOTE: ภาพต้องตรงกับครอบครัว/ โตปิกที่ถูกต้องเท่านั้น; ต้องไม่หมายถึงการตัด, ปีตัวอย่าง, เรียลวีน, การตรวจสอบหรือการทําธุรกรรมจริง
+- หม่อมเจ้า หม่อมเจ้า
+- ~ ล็อก-รีซัน~: ไม่มีภาพใดสามารถใช้ได้โดยปลอดภัย: Wikited Commons/Flickr ไม่สามารถทํางานได้จากสภาพแวดล้อมการวิจัย ห้องสมุดหลักต้องการสิทธิ์ในการเข้าถึง API/CIFF และภาพเว็บเพจของ OEM ก็ไม่ใช่การให้ทุนใช้อีกครั้งในโฆษณา ไม่มีภาพถ่ายที่บรรจุออโต้ไบด์อยู่ บันทึกเก็บ FAIL แทนการยืนยัน
+- ~ALT (12 ภาษา) ~:
   - **EN**: TIR road transport, Chinese-market procurement guide export buyer reference
   - **FR**: TIR road transport, procurement guide du marché chinois, référence acheteur export
   - **DE**: TIR road transport, Chinesischer procurement guide, Referenz für Exportkäufer

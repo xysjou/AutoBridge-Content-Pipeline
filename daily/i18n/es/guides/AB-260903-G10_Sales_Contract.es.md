@@ -1,7 +1,7 @@
 # Contratos de ventas de vehículos exportados: las cláusulas que controlan realmente el pago, la entrega y los litigios
 ## SEO Metadatos
 - **SEO Título**: Guía de riesgo de las cláusulas de contrato de venta de vehículos
-- **Meta Descripción**: Lo que un contrato de venta de vehículos debe contener: PRC Código Civil Art 596 esenciales, Incoterms risk transfer, retention of title, breach/claim windows, dispute resolution and Apostille, plus vehicle-condition disclosure.
+- **Meta Descripción**: Lo que debe contener un contrato de venta de vehículos de exportación — PRC Código Civil Art 596 esencial, Incoterms risk transfer, retention of title, breach/claim windows, dispute resolution and Apostille, plus vehicle-condition disclosure.
 - ** URL agregada**: /guides/vehicle-export-sales-contract-clauses/
 - ** H1 **: Cláusulas clave en un contrato de venta de vehículos: Pago, Título, Riesgo y Controversias
 - **Primary Keyword**: contrato de venta de vehículos cláusulas clave de riesgo
@@ -11,17 +11,17 @@
 - **Sugerencias de ALT**: "Cláusulas clave de riesgo de exportación y transferencia de títulos"; "Cláusulas clave de contrato de ventas de vehículos"
 
 ## ¿Quién es?
-Un exportador de vehículos de primera vez a menudo firma un acuerdo sobre precio y cantidad solo, luego descubre el contrato nunca fijo **cuando el riesgo pasa, que tiene título antes del pago completo, o donde se escucha una disputa**. Esta guía mapea las cláusulas que controlan esos resultados. The PRC Civil Code Art 596 is described here through **secondary legal portals (FindLaw etc.), which cap at CROSS_CHECKED/SINGLE_SOURCE**; El VERIFIED exigiría el texto oficial del Código Civil de una fuente nacional de gobierno. El resto es una síntesis de práctica legal. **Una plantilla no es un asesoramiento jurídico: tener un abogado calificado revisa el contrato ejecutado en virtud de su ley rector elegida. ################################################################################################################################################################################################################################################################
+Un exportador de vehículos de primera vez a menudo firma un acuerdo sobre precio y cantidad solo, luego descubre el contrato nunca fijo **cuando el riesgo pasa, que tiene título antes del pago completo, o donde se escucha una disputa**. Esta guía mapea las cláusulas que controlan esos resultados. Código Civil de la República Popular Democrática de Corea El artículo 596 se describe aquí a través de ** portales legales secundarios (FindLaw, etc.), que capten en CROSS_ CHECKED/SINGLE_SOURCE**; VERIFIED requeriría el texto oficial del Código Civil de una fuente NPC/gobierno. El resto es una síntesis de práctica legal. **Una plantilla no es un asesoramiento jurídico: tener un abogado calificado revisa el contrato ejecutado en virtud de su ley rector elegida. ################################################################################################################################################################################################################################################################
 
 ## Clause Block 1 — El contenido esencial (Código Civil Art 596)
-Según ** Artículo 596 del Código Civil de PRC**, un contrato de ventas debe abarcar: **Nombre, cantidad, calidad, precio, tiempo/lugar/método de rendimiento, embalaje, normas de inspección y método, liquidación y disposiciones de lenguaje/texto eficaces**. Traducido para un acuerdo de vehículo, el mínimo es:
+Según ** El artículo 596 del Código Civil de la República Checa**, un contrato de venta debe abarcar: **Nombre, cantidad, calidad, precio, tiempo/lugar/método de rendimiento, embalaje, normas de inspección y método, arreglo y disposiciones de lenguaje/texto eficaces**. Traducido para un acuerdo de vehículo, el mínimo es:
 - * Identidad de vehículos* (VIN, modelo/trim, año modelo, lista de configuración), **cuantidad y precio unitario**;
 - **Norma de calidad/condición** y norma/método ** de la inspección** (tágalo al informe de la Comisión de Investigación sobre la Ejecución de la Lucha contra la Desertificación);
 - **Paquete/protección** para el tránsito oceánico y el método **settlement/pago**;
 - **Ver versiones de idiomas** y qué texto prevalece si es bilingüe.
 
-## Clause Block 2 — Transferencia de Riesgo: Deje que los Incoterms lo decidan
-- El riesgo de pérdida/prestación pasa según el término **acordado (establece explícitamente la versión Incoterms, por ejemplo, Incoterms 2020)** — FOB, CIF/CIP, DAP, etc. cada uno establece un punto de transferencia diferente.
+## Clause Block 2 — Transferencia de Riesgo: Deje que los Incoterms decidan
+- El riesgo de pérdida/prestación pasa de acuerdo con el término **acordado (establece la versión de Incoterms explícitamente, por ejemplo, Incoterms 2020)** — FOB, CIF/CIP, DAP, etc. cada uno establece un punto de transferencia diferente.
 - Si no se acepta un plazo acordado, el riesgo generalmente pasa **en entrega al comprador (o su transportista nominado)**.
 Escribe el término, la versión y **nombre lugar/puerto** precisamente: "CIF" sin un puerto llamado, o un año de Incoterms no especificado, invita a una lucha sobre quién tiene daños en tránsito — coordine con las guías de carga y aseguramiento marítimo.
 
@@ -33,10 +33,10 @@ Un vendedor puede **reservar el título hasta que se reciba el pago completo** (
 - **Reclamaciones de calidad:** fijar un período de inspección ** y una ventana de reclamación** después de la llegada; sin una, las controversias de defecto latente se convierten en he-said/she-said. Vincular la ventana a la PSI y detectar de forma realista el tránsito vs daño preexistente.
 - Definir ** jerarquía de remedios** (rectificar → reemplazar → reembolso) y que soporta el costo de devolución/bordo en cada caso.
 
-## Clause Block 5 — Disclosure (prevención de fraude)
+## Clause Block 5 — Disclosure (prevención del fraude)
 Discutar hechos materiales con veracidad: **versión/configuración, versión de software, y cualquier historial de accidentes/floods, ajuste del odómetro, o encumbrancia/mortgage**. La falta de divulgación de estas denuncias es una fuente frecuente de denuncias de fraude, y interactúa con la PSI, que debe evidenciar la condición revelada. Para los VE, divulgar la batería grado / información relevante de la SOH conocido por el vendedor.
 
-## Clause Block 6 — Derecho de gobierno, Foro y Legalización de documentos
+## Clause Block 6 — Ley de Gobierno, Foro y Legalización de Documentos
 - Elija el **gobernante derecho y foro** deliberadamente; para acuerdos transfronterizos ** el arbitraje internacional (por ejemplo, el ICC)** es a menudo preferido por la aplicabilidad en virtud de la Convención de Nueva York sobre litigios en un tribunal local extranjero.
 - Los documentos que deben ser utilizados en el extranjero (poderes de abogado, certificados) pueden necesitar ** Certificación de la Hague Apostille** (o legalización consular donde el destino no es parte de La Haya) — estado que organiza y paga.
 - Especifique ** direcciones de notificaciones, moneda, fuerza mayor (incluyendo la interrupción portuaria/transportación), y el lenguaje que prevalece**.
@@ -49,7 +49,7 @@ Discutar hechos materiales con veracidad: **versión/configuración, versión de
 5. ** Derecho de gobierno, foro de arbitraje, responsabilidad de la Apostille** y lenguaje prevaleciente.
 
 ## Preguntas frecuentes
-**¿Qué debe contener un contrato de venta de vehículos en virtud de la legislación china?** PRC Código Civil Art 596 enumera nombre, cantidad, calidad, precio, tiempo de rendimiento/lugar/método, embalaje, estándar de inspección/método, solución y eficacia del lenguaje — mapea cada uno al acuerdo del vehículo.
+**¿Qué debe contener un contrato de venta de vehículos en virtud de la legislación china?** PRC Código Civil El artículo 596 enumera el nombre, la cantidad, la calidad, el precio, el tiempo de rendimiento/lugar/método, el embalaje, el estándar de inspección/método, el arreglo y la eficacia del lenguaje, mapa cada uno al acuerdo del vehículo.
 **¿Cuándo el riesgo pasa al comprador?** Por el término acordado Incoterms (establece la versión y lugar); sin acuerdo, generalmente en el envío al comprador o su transportista nominado.
 **¿Puedo mantener la propiedad hasta que me paguen por completo?** Sí, mediante una cláusula de retención de la titularidad, con sujeción al reconocimiento en virtud de la ley de gobierno/destinación.
 **¿Cómo se debe manejar el pago tardío?** Un índice de liquidaciones por día más un período máximo de retraso que permite la terminación.
@@ -59,11 +59,14 @@ Discutar hechos materiales con veracidad: **versión/configuración, versión de
 - IMAGE_ASSET_PATH: ninguno asegurado en repositorio
 - ORIGINAL_IMAGE_URL: no capturado
 - SOURCE_PAGE: no capturado
+- SOURCE_FILE_PAGE: no aplicable — ningún archivo de medios de comunicación candidato identificado (sin licencia para afirmar)
 - RIGHTS_HOLDER: unconfirmed
 - LICENSE_OR_USAGE_BASIS: ninguna garantizada, ninguna imagen de terceros puede ser publicada hasta que se despejen los derechos
-- CHECKED_DATE: 2026-09-05
+- CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: debe coincidir con el modelo/versión exacto (o el tema guía) y el mercado de referencia por encima
+- IMAGE_SCOPE_NOTE: se corresponde con el modelo exacto familia/topic solamente; no debe implicar un trím o modelo específico, VIN real, inspección en persona o transacción real
 - IMAGE_RIGHTS_STATUS: FAIL (no se acepta ningún activo con licencia; no se acepta un titular de posición o “retiene la imagen antigua”)
+- BLOCK_REASON: No se puede asegurar una imagen reutilizable: Wikimedia Commons/Flickr no son accesibles desde el entorno de investigación, las bibliotecas de stock requieren acceso a API/licencia autenticada, y una imagen de página web OEM NO es una subvención comercial de reutilización; no existe foto de propiedad de AutoBridge. Se quedó con la FAIL en lugar de afirmarse.
 - ALT por idioma:
   - **EN**: AutoBridge export-buyer reference — Vehicle export sales contract clauses, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Vehicle export sales contract clauses, guide d’achat à l’export automobile
@@ -82,13 +85,13 @@ Discutar hechos materiales con veracidad: **versión/configuración, versión de
 | Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |
 |---|---|---|---|---|---|---|
 | PRC Código Civil Art 596 términos de contrato de ventas | FindLaw (portal jurídico) | CN | https://www.findlaw.cn/wenda/q_60484893.html | 2026-09-03 | CROSS_CHECKED (artículo de la Ley citado por un portal jurídico secundario; no fuente oficial de la Comisión Nacional de Protección de los Niños) | Contenidos esenciales de los contratos |
-| Modelo de contrato de venta de vehículos de exportación (retención de riesgo/títulos) | 110ask legal | Global | https://m.110ask.com/fanben/601005122281423969.html | 2026-09-03 | CROSS_CHECKED | Transferencia de riesgos; retención de título; declaración de condiciones |
+| Modelo de contrato de venta de vehículos de exportación (retención de riesgo/títulos) | 110ask legales | Global | https://m.110ask.com/fanben/601005122281423969.html | 2026-09-03 | CROSS_CHECKED | Transferencia de riesgos; retención de título; declaración de condiciones |
 | Cláusulas básicas de contrato de compra (lista de parra y título/config) | 66Law | CN | https://m.66law.cn/question/56427049.aspx | 2026-09-03 | CROSS_CHECKED | LDs, ventana de reclamación, anexo de configuración |
 | Contrato de exportación Incoterms/disputes/Apostille | Material de carga para uso | Global | https://m.11467.com/product/d43019461.htm | 2026-09-03 | SINGLE_SOURCE | Versión de los incoterms, arbitraje de la CPI, Apostille |
-* Nota de la encuesta: El contenido de Art 596 es CROSS_ CHECKED via a secondary legal portal only — VERIFIED requiere el texto oficial del Código Civil de PRC (NPC/government), que no fue capturado; no lo etiqueta VERIFIED. La aplicabilidad de la reserva de títulos, el arbitraje y la Apostille depende del derecho y el destino que se elijan, y debe ser confirmada por un abogado calificado. Los modelos de contrato son referencias estructurales solamente. *
+* Nota de la encuesta: Contenido del art 596 es CROSS_ CHECKED via a secondary legal portal only — VERIFIED requiere el texto oficial del Código Civil de PRC (NPC/government), que no fue capturado; no lo etiqueta VERIFIED. La aplicabilidad de la reserva de títulos, el arbitraje y la Apostille depende del derecho y el destino que se elijan, y debe ser confirmada por un abogado calificado. Los modelos de contrato son referencias estructurales solamente. *
 
-| 《中华人民共和国民法典》第三编 合同（第五百九十五/五百九十六/五百九十七条逐字） | 最高人民检察院 (Supreme People's Procuratorate) — offic | CN | https://www.spp.gov.cn/spp/ssmfdyflvdtpgz/202008/t20200831_478413.shtml | 2026-09-04 | VERIFIED |  |
-| 中华人民共和国民法典 全文（政府门户转载） | 云南省司法厅 (sft.yn.gov.cn) / 开封市人大 (kfsrd.henanrd.go | CN | https://sft.yn.gov.cn/pf/yunnan/PZhengCeFaGui/2020061631_2.shtml | 2026-09-04 | VERIFIED |  |
+| ■ 中华人民共和国民法典, Gr 第三编 合同 (第五百九十五 / 五百九十六 / 五百九十七条逐字) | 最高人民检察院 (procuraduría General de la Gente Suprema) — offic | CN | https://www.spp.gov.cn/spp/ssmfdyflvdtpgz/202008/t20200831_478413.shtml | 2026-09-04 | VERIFIED |  |
+| 中华人民共和国民法典 全文 (政府门户转载) | 云南省司法厅 (sft.yn.gov.cn) / 开封市人大 (kfsrd.henanrd.go | CN | https://sft.yn.gov.cn/pf/yunnan/PZhengCeFaGui/2020061631_2.shtml | 2026-09-04 | VERIFIED |  |
 
 ## Revisión editorial
 - **Autor/examen**: [Equipo Editorial Exportador AutoBridge](/autores/) · método por nuestro [Política editorial](/editorial-policía/)

@@ -1,63 +1,66 @@
-# China-VI Vehicles Overseas: Emission Standards, the 2026 Amendment and Fuel Compatibility Buyers Must Verify
+# จีน-VI พาหนะโอเวอร์ซีซ่า: มาตรฐานการดําเนินงาน 2026 ระบบการแก้ไขและบํารุงรักษาเชื้อเพลิงต้องตรวจสอบ
 
-## SEO Metadata
+## เชา ข้อมูลกํากับภาพ
 - **SEO Title**: China VI Emissions & Overseas Fuel Compatibility Guide — GB18352.6 / GB17691
-- **Meta Description**: Separate light-duty GB18352.6-2016 (XG1-2026 amendment) from heavy-duty GB17691-2018, China-VI diesel sulphur limits and DPF/SCR risk, and why China VI never auto-equals Euro or EPA approval.
-- **Suggested URL**: china-wehines/ semission-compactable-china-Vheachys
-- ~ H1~: Taking a China-VI Vehicle Abroad: Which Emission Standard Applies, and Will the Local Fuel Suit It?
-- **Primary Keyword**: china 6 emission standard overseas fuel compatibility GB18352.6 GB17691
-- **Secondary Search Terms**: GB18352.6-2016 XG1-2026, GB17691-2018 heavy duty china 6, GB19147 diesel sulfur 10ppm, DPF SCR high sulfur fuel, China VI vs Euro equivalence
-- **Internal Link Suggestions**: /guides/vehicle-export-pdi-pre-shipment-handover/ ; /vehicles/jmc-shunda/ ; /vehicles/dongfeng-tianlong-kl/
-- **Image Suggestions**: light vs heavy standard split; DPF/SCR aftertreatment diagram; sulphur-content gauge; destination verification loop
-- **ALT Suggestions**: "Light-duty GB18352.6 and heavy-duty GB17691 separated with fuel compatibility checks"
+- ""คําอธิบาย" แยกแสง GB18352.6-2016 (XG1-2026 การแก้ไข) จากหนัก- GB17691-2018 ขอบเขตกํามะถันของจีน-VI  and  ความเสี่ยงของ DPF/SCR  and  why China VI never auto-equals Euro or EPA approval.
+- ~ที่อยู่ URL ที่ถูกย่อ: / guides/ eportcut-compactable-china-Vhinegs
+- ** H1 ~: การขับรถจีน-VI บนถนน: เว็บมาตรฐานการให้บริการ และชุดเชื้อเพลิงท้องถิ่นหรือไม่?
+- ~คําสําคัญในชื่อรายการ ~: จีน 6 ปลดปล่อยเชื้อเพลิงสากล GB18352.6 GB17691
+- ~การค้นหาตามวาระที่: ~ GB18352.6-2016 XG1-2026 (พ.ศ. GB17691-2018 หน้าที่หนักจีน 6 (พ.ศ. GB19147 ดีเซลซัลเฟอร์ 10ppm (พ.ศ. DPF SCR เชื้อเพลิงซัลเฟอร์สูง  China VI vs Euro equivalence
+- ~ ข้อความเชื่อมโยงภายใน~: / guides/ wehineic-export-pdi-prination-pendover/; / vicals/jmc-swanda/; / viphicles/ ong-tong-klong-kl/
+- ** คําแนะนําการลดเสียงต่ํา **: ลดเสียงเบามาตรฐาน; เฟรมต่อเสียง (DPF/SCR) หลังการรักษาเสียง; ตัววัด กํามะถัน-คอนเทนต์; วงจรการตรวจความถูกต้องของปลายทาง
+- ~~~~~~~~~ คําแนะนํา: "แสง-เงา GB18352.6  and  heavy-duty GB17691 separated with fuel compatibility checks"
 
 ## Why "China VI" Is Not One Number
-Buyers often read "China VI / 国六" as a single standard. It is not: **light-duty and heavy-duty vehicles sit under different Chinese standards**, and an emission standard is also distinct from **fuel compatibility** and from **destination type approval**. This guide separates all three and states exactly where China's official standards end and destination verification begins.
+Buyers often read "China VI / 国六" as a single standard. มันไม่ใช่... ~รถที่เบาและหนัก นั่งอยู่ใต้มาตรฐานจีนที่แตกต่างกัน~ และมาตรฐานการปล่อยน้ําก็แตกต่างจากความเข้ากันได้~ ~และจาก~ มัคคุเทศก์คนนี้แยกทั้งสามรัฐ และระบุตําแหน่งที่มาตรฐานอย่างเป็นทางการของจีน สิ้นสุดลงและกําหนดปลายทางเริ่มต้น
 
-## Light Duty vs Heavy Duty — Two Current Standards
-| Scope | Current Chinese standard | Status / dates |
+## หน้า ที่ รับ ผิด ชอบ ที่ สําคัญ — มาตรฐาน สอง อย่าง ใน ปัจจุบัน
+| ขอบเขต | มาตรฐานของภาษาจีนปัจจุบัน | สถานะ/ วันที่ |
 |---|---|---|
-| **Light-duty** (M1/M2/N1 petrol & diesel) | **GB 18352.6-2016** (China 6) | Its **Amendment No.1, GB18352.6-2016/XG1-2026**, was issued by the **Ministry of Ecology and Environment (MEE) and SAMR in 2026-04 and takes effect 2026-05-01** (the HEV type-approval extension portion from **2026-07-01**) |
-| **Heavy-duty diesel** (compression-ignition / gas-fuelled engine vehicles) | **GB 17691-2018** (China 6) | Issued 2018-06-22, in force 2019-07-01, mandatory; a 2026 amendment was issued in the same batch |
+| ** – ดัตติ ** (M1/M2/N1 plass & DEC) | ~GB 18352.6-2016~ (จีน 6)] | Its **Amendment No.1, GB18352.6-2016/XG1-2026 ** ออกโดย การประชุมเกี่ยวกับนิเวศวิทยา  and  สภาพแวดล้อม (MEE)  and  SAMR ใน 2026-04  and  ส่งผลถึง 2026-05-01 ** (ส่วนส่วนขยาย HEV-ประเภท approofal from ~ 2026-07-01 **) |
+| ~ฮีฟตี้-ดีเซล~ (เครื่องยนต์ที่กดอากาศ / เครื่องยนต์แก๊ส) | ~GB 17691-2018~ (จีน 6)] | 2018-06-22 ในบังคับ 2019-07-01 บังคับ; มาตรา 2026 มาตราเดียวกัน พ.ศ. |
 
-Do **not** describe every Chinese vehicle using only the light-duty GB18352.6: a Shunda light truck and a Tianlong heavy tractor head answer to different standards.
+ไม่ให้อธิบายทุกอย่าง รถจีนใช้แค่รถรางเบา GB18352.6 คัน รถบรรทุกของชุนดาและรถแทรกเตอร์หนักขนาดเทียนลอง ตอบตามมาตรฐานที่แตกต่างกัน
 
-## Fuel Compatibility: The Diesel-Sulphur Risk
-- China-VI road diesel follows **GB 19147-2016** (with XG1-2018, current), whose China-VI grade caps **sulphur at ≤10 mg/kg (10 ppm)**.
-- China-VI **diesel vehicles carry DPF/SCR after-treatment**. Running such an engine for long periods on **high-sulphur fuel can poison and disable the after-treatment system**. Before shipping a diesel, confirm the destination's diesel sulphur level and the engine manufacturer's fuel requirement.
-- For petrol, check the destination's octane rating; for diesel, cetane number and sulphur content against the owner's manual. This compatibility advice is qualitative — exact EN228/EN590 figures are not asserted without primary CEN/UNECE sources.
+## ความเข้ากันได้ของเชื้อเพลิง: ความเสี่ยงของดีเซล-ซัลเฟอร์
+- Tina-VI ถนนดีเซลตาม~GB 19147-2016" (พร้อม XG1-2018) ปัจจุบัน) ที่ประเทศจีน Vi เกรด cap ~ sultfur ที่ ≤ 10 mg/kg (10 minom) ~
+- รถจีน-วี-วาเซล บรรทุก DPF/SCR หลังการเลี้ยง การใช้เครื่องยนต์ดังกล่าวเป็นเวลานาน เชื้อเพลิงแรงสูงสามารถเป็นพิษ และปิดระบบการรักษาหลังการรักษา ก่อนส่งดีเซลไปยืนยัน ระดับสารซัลเฟอร์ดีเซลของปลายทาง และความต้องการเชื้อเพลิงของผู้ผลิต
+- สําหรับ PTL ให้ตรวจสอบเรตติ้ง octen ของปลายทาง; สําหรับดีเซล, ซีเทน และสารซัลเฟอร์ที่ขัดกับคู่มือของเจ้าของร้าน คํา แนะ นํา ที่ ให้ ความ ร่วม มือ นี้ เป็น เรื่อง ที่ น่า ทึ่ง — ไม่ มี การ ยืน ยัน ว่า มี ตัว เลข ที่ แน่นอน ถึง EN228/EN590 ตัว โดย ไม่ มี แหล่ง ข้อมูล หลัก ของ ศูนย์ ศึกษา และ องค์การ สหประชาชาติ.
 
-## Emission Approval ≠ Destination Type Approval
-Overseas frameworks are principally **UNECE/Euro** (Europe) and **US EPA** (United States), among others. China VI **drew on the European framework but does not constitute approval under any overseas regime** — destination conformity must be handled separately. This guide makes **no "China VI equals Euro X" claim**: equivalence would require an official mutual-recognition document, which is not available here; precise UNECE R83/R49 limits and EN fuel specs are out of scope pending primary sources.
+## ≠ ประเภท ที่ เหมาะ กับ จุด หมาย ปลาย ทาง
+University boths is perfect overnations= UNEEEEE/EOORO* (UURP) และ (อังกฤษ) ในหมู่คนอื่นๆ China VI **drew on the European framework but does not constitute approval under any overseas regime** — destination conformity must be handled separately. This guide makes **no "China VI equals Euro X" claim**: ความพึงพอใจต้องการเอกสารการจดจําร่วมกันอย่างเป็นทางการ ซึ่งไม่สามารถใช้งานได้ที่นี่; UNEE ID R83/R49 จํากัด และ สเปกตรัมเชื้อเพลิงเอ็นมีขอบเขตที่ อยู่ระหว่างแหล่งกําเนิดหลัก
 
-## The Buyer Verification Sequence
-1. Identify light vs heavy duty and cite the **correct current standard** (GB18352.6-2016 + XG1-2026, or GB17691-2018).
-2. Confirm the vehicle's after-treatment type (DPF/SCR for diesel).
-3. Verify destination **fuel sulphur/cetane/octane** against the manual.
-4. Run **destination type approval** as a separate workstream — never assume China VI is accepted as Euro/EPA.
-5. Cite versions and date; these are time-sensitive.
+## การ ยืน ยัน ความ ถูก ต้อง ของ ผู้ ซื้อ
+1. ระบุว่าแสง vs ทําหน้าที่หนักและอ้างอิงค่ามาตรฐานปัจจุบันที่ถูกต้อง ~ (GB18352.6-2016 + XG1-2026 หรือ GB17691-2018).
+2. ยืนยันชนิดของการรักษาหลังการใช้รถ (DPF/SCR สําหรับดีเซล)
+3. ปลายทางตรวจสอบ ** กํามะถัน/ เซเซน/อ็อกเทน* สู้กับคู่มือ
+4. การวิ่ง- - การอนุมัติประเภทดีทีเอ็ม-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-ดี-สวี-
+5. Cite versions and date; นี่มันเวลาที่ไว
 
-## Boundaries of This Guide
-- No exact UNECE/Euro limit values or EN228/EN590 specifications (primary source not obtained).
-- No China-VI-to-Euro equivalence conclusion.
-- Destination fuel specs and admission rules are time-sensitive and country-specific.
+## ผู้ รับ ใช้ ของ พระ ยะ โฮ วา ใน สมัย โบราณ
+- ไม่มีค่าจํากัด UNEEEE/ยูโรเป๊ะๆ หรือ EN228/EN590 ข้อกําหนด (แหล่งกําเนิดหลัก).
+- ไม่มีจีน-วิ-ถึงอีโระ อองซ์เอนเตอร์เทนเนสส์สรุป
+- สเปคของเชื้อเพลิงปลายทางและกฏการรับสมัคร คือความไวของเวลา และระบุเวลาของประเทศ
 
-## Frequently Asked Questions
-**Is China VI the same standard for cars and heavy trucks?** No — light duty is GB18352.6-2016 (with the 2026 Amendment No.1), heavy-duty diesel is GB17691-2018.
-**When does GB18352.6/XG1-2026 apply?** Issued 2026-04, effective 2026-05-01 (HEV type-approval extension from 2026-07-01).
-**Why does diesel sulphur matter?** China-VI diesel uses DPF/SCR; sustained high-sulphur fuel can poison the after-treatment.
-**Does China VI mean the car is Euro-approved?** No; overseas conformity is a separate process and no equivalence is claimed.
+## คํา ถาม ที่ มัก จะ ถาม บ่อย ๆ
+**Is China VI the same standard for cars  and  รถบรรทุกหนัก? ไม่ หน้าที่เบา GB18352.6-2016 (ด้วยมาตรา 2026 มาตรา 1) DEC ขนาดหนักคือ GB17691-2018.
+~ GB18352.6/XG1-2026 จะใช้ได้เมื่อไหร่ ~ 2026-04 ได้ผล 2026-05-01 (รุ่นพิมพ์ดีดจาก 2026-07-01).
+~ทําไมดีเซลซัลเฟอร์สําคัญ~ จีน-VI DCD ใช้ DPF/SCR เชื้อเพลิงที่ยั่งยืนสูงสามารถเป็นพิษต่อการรักษาหลังการรักษา
+**Does China VI mean the car is Euro-approved?** No; การเชื่อฟังต่างประเทศเป็นกระบวนการแยกต่างหาก และไม่มีความไม่สงบถูกอ้าง
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICNE_OR_USARIAND_BALE: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
-- RODL_TOIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- ALT by language:
+## บันทึกรูปภาพ
+- _ปราสาท: ไม่มีความปลอดภัยในคลังเก็บ
+- ส่วนตัว_ปลายทาง: ไม่ได้จับ
+- ผู้โดยสาร: ไม่ถูกจับ
+- HOURS_ PDFAGE: ไม่มีผล — ไม่มีชื่อแฟ้มสําหรับเลือกสื่อ (ไม่มีใบรับรองที่จะยืนยัน)
+- ลิขสิทธิ์: ไม่ยืนยัน
+- LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
+- _กําหนดวันที่: 2026-09-06
+- MERCUL_ TOPIC_ MATCH: ต้องตรงกับรุ่น/ การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
+- CHAR_SCPE_NOTE: ตรงกับโมเดลที่เป๊ะของครอบครัว/ topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
+- March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
+- BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
+- ALT ด้วยภาษา:
   - **EN**: AutoBridge export-buyer reference — China-VI emissions and fuel compatibility overseas, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — China-VI emissions and fuel compatibility overseas, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — China-VI emissions and fuel compatibility overseas, Leitfaden für Fahrzeugexport-Einkauf
@@ -71,28 +74,28 @@ Overseas frameworks are principally **UNECE/Euro** (Europe) and **US EPA** (Unit
   - **AR**: مرجع AutoBridge لمشتري التصدير — China-VI emissions and fuel compatibility overseas, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜China-VI emissions and fuel compatibility overseas, 汽车出口采购指南
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## ต้นฉบับและการตรวจสอบสิทธิ์
+| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| MEE announcement issuing GB18352.6-2016 Amendment No.1 (2026-04, eff. 2026-05-01) | Ministry of Ecology and Environment | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-04 | VERIFIED (primary) | XG1-2026 version/dates |
-| GB18352.6-2016 Amendment No.1 official PDF | MEE | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/W020260430505281593651.pdf | 2026-09-04 | VERIFIED (primary) | Light-duty amendment |
-| SAMR standard platform · GB18352.6-2016 XG1 | SAMR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=4E492C30BCCC59A0E06397BE0A0A9C5E | 2026-09-04 | VERIFIED (primary) | Standard status/date |
-| MEE announcement on GB17691-2018 heavy-duty China 6 | MEE | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-04 | VERIFIED (primary) | Heavy-duty standard/dates |
-| GB17691-2018 official PDF | MEE | CN | https://www.mee.gov.cn/ywgz/fgbz/bz/bzwb/dqhjbh/dqydywrwpfbz/201807/W020260430500008289846.pdf | 2026-09-04 | VERIFIED (primary) | Heavy-duty scope |
-| GB19147-2016 road diesel (current, with XG1-2018) | SAMR openstd | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-04 | VERIFIED (primary) | Sulfur ≤ 10 mg/kg |
-| DPF/SCR high-sulphur after-treatment risk | 11467 body | CN | https://m.11467.com/product/d51123633.htm | 2026-09-04 | SINGLE_SOURCE | Qualitative after-treatment risk |
-*Evidence scope: Chinese standards/dates VERIFIED via MEE/SAMR primary sources; overseas Euro/EPA limits, EN fuel specs and any equivalence conclusion are blocked pending primary overseas sources.*
+| สํานักพิมพ์มีล ออก GB18352.6-2016 เครื่องแก้ไข หมายเลข 1 (2026-04, Val. 2026-05-01) | กระทรวง นิเวศ วิทยา และ สิ่ง แวด ล้อม | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-04 | ISIFIE (เมษายน) | XG1-2026 รุ่น/ อินทผลัม |
+| GB18352.6-2016 แก้ไขหมายเลข PDF อย่างเป็นทางการ 1 | เม. ย. | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/W020260430505281593651.pdf | 2026-09-04 | ISIFIE (เมษายน) | ปรับแก้ความเข้มสี |
+| SAMR เวทีมาตรฐาน.. GB18352.6-2016 XG1 | SAMR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=4E492C30BCCC59A0E06397BE0A0A9C5E | 2026-09-04 | ISIFIE (เมษายน) | สถานะ/ วันที่มาตรฐาน |
+| MEE announcement on GB17691-2018 heavy-duty China 6 | เม. ย. | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-04 | ISIFIE (เมษายน) | วันที่มาตรฐาน/ วันแบบธรรมดาแบบหนัก |
+| GB17691-2018 PDF อย่างเป็นทางการ | เม. ย. | CN | https://www.mee.gov.cn/ywgz/fgbz/bz/bzwb/dqhjbh/dqydywrwpfbz/201807/W020260430500008289846.pdf | 2026-09-04 | ISIFIE (เมษายน) | ขอบเขตการไล่ระดับสี |
+| GB19147-2016 ถนนดีเซล (ปัจจุบันคือ XG1-2018) | เปิดใช้ SAMR | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-04 | ISIFIE (เมษายน) | Sulfur ≤ 10 mg/kg |
+| DPF/SCR มีความเสี่ยงสูงหลังจากการรักษา | 11467 ร่างทดสอบ | CN | https://m.11467.com/product/d51123633.htm | 2026-09-04 | ผู้โดยสาร_ปลายทาง | ความเสี่ยงหลังการรักษาแบบคุณภาพ |
+*ขอบเขตการมองเห็น: มาตรฐาน/ วัน-วันจีน เปิดใช้งานผ่านทางแหล่งกําเนิดของเมย/เอสเอ็มอาร์; ยูโร/อีพีเอ จํากัด สเปกตรัมของเชื้อเพลิงเอ็น และข้อสรุปใด ๆ elquiencence ถูกปิดกั้นไว้ชั่วคราว แหล่งที่มาหลักของต่างประเทศ *
 
-| 轻型车国六排放标准 GB18352.6-2016(译文库条文) | ChinaAutoRegs(今日头条) | CN | http://m.toutiao.com/group/6758333762372633092/ | 2026-09-04 | SINGLE_SOURCE | GB18352.6-2016背景(不作现行版本核心依据) |
-| 辽宁省车用柴油产品质量监督抽查实施细则(引GB19147-2016) | 盘锦市人民政府 | CN | http://www.panjin.gov.cn/html/2731/2026-07-29/content-152533.html | 2026-09-04 | VERIFIED | 硫含量等项目检验依据GB19147-2016 |
-| GB19147-2016《车用柴油》标准正文(含第1号修改单,政府托管PDF) | 横峰县人民政府办公室(托管国家标准文本) | CN | http://www.hfzf.gov.cn/hfzf/yshj/202312/eae4056035e34b2bb17b894d5d28c311/files/759187b489ce46a088e99d4a505e68d0.pdf | 2026-09-04 | VERIFIED | 国VI车用柴油硫含量≤10mg/kg |
+| 轻型车国六排放标准 GB18352.6-2016(译文库条文) | จีน แอร์ริกส์ (今日头条) | CN | http://m.toutiao.com/group/6758333762372633092/ | 2026-09-04 | ผู้โดยสาร_ปลายทาง | GB18352.6-2016 背景 (不作现行版本核心依据). |
+| 辽宁省车用柴油产品质量监督抽查实施细则 (引 GB19147-2016) พ.ศ. | 盘锦市人民政府 | CN | http://www.panjin.gov.cn/html/2731/2026-07-29/content-152533.html | 2026-09-04 | เปิดใช้งาน | 硫含量等项目检验依据 GB19147-2016 |
+| GB19147-2016 《 车用柴油 》 标准正文 (含第 1 号修改单) พ.ศ. 政府托管 PDF) | 横峰县人民政府办公室 (托管国家标准文本). | CN | http://www.hfzf.gov.cn/hfzf/yshj/202312/eae4056035e34b2bb17b894d5d28c311/files/759187b489ce46a088e99d4a505e68d0.pdf | 2026-09-04 | เปิดใช้งาน | 国 Vi 车用柴油硫含量 ≤ 10mg/kg |
 
-## Editorial Review
-- **Author**: AutoBridge Export Editorial Team · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: Chinese standards (light/heavy separated) + qualitative overseas fuel guidance
-- **Verification method**: MEE/SAMR primary standards; light/heavy split; no equivalence or exact overseas limits asserted
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+## การทบทวนแก้ไข
+- ** aultor*: AutoBridge ส่งออกวิธีการแก้ไขคําทีม (AutoBridge) ต่อ [นโยบายแก้ไข] ของเรา (/Dercial-policy/)
+- ~ถูกตรวจสอบแล้ว~: 2026-09-05
+- ~ ตลาดแห่งความไม่สงบ: มาตรฐานจีน (การแยกจากกัน) + แนวทางนําเชื้อเพลิงต่างประเทศที่แพร่หลาย
+- ** วิธีการปรับทุกข์สุข **: มาตรฐานหลัก ๆ ของ MME/SAMR; แสงสว่าง/ parts; ไม่มีการรองรับหรือยืนยันข้อจํากัดในต่างประเทศที่แน่นอน
+- การร่างแบบ AI-assisted ถูกใช้ บทความนี้ตั้งอยู่บนพื้นฐานของงานวิจัยในตาราง และอัตโนมัติ QA ไม่มีการอ้างอิงการทดสอบก่อน จนกว่าจะมีการระบุรายละเอียดอย่างชัดเจน ยืนยันความต้องการที่ต้องใช้เวลาและกําหนดปลายทาง ก่อนทําการข้ามเวลา
+- ~มาตรฐานการแบ่งส่วน ~: Research and med from the source address address (Desk Research; ไม่มีการขับรถมือหนึ่ง, runchown หรือนําเข้า). ความมั่นใจของแหล่งแสดงต่อแถว; จุดใด ๆ ที่เราไม่สามารถยืนยันได้ด้วยตัวเอง ถูกนําเสนอเป็นรายการตรวจสอบแทนการยืนยันว่าเป็นความจริง
 
 **Tags**: #China6 #Emissions #FuelCompatibility #GB18352 #GB17691

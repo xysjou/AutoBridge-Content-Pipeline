@@ -4,9 +4,9 @@
 - ** Título SEO**: Exportação de veículos PDI e pré-navio Guia de entrega — Regras de transporte nomeadas
 - ** Descrição do Meta**: As políticas de transporte RoRo (Wallenius Wilhelmsen, Höegh Autoliners) — combustível, bateria, SOC e operabilidade — da lista de verificação de inspeção pré-expedição recomendada pela AutoBridge; não existem valores fixos universais.
 - ** URL sugerido**: /guides/veículo-exportação-pdi-pré-navio-manda-manda-manda-manda-madeira
-- ** H1 **: Preparando um veículo para RoRo ou Container Exportar: O que os porta-aviões nomeados exigem e o que recomendamos
+- ** H1 **: Preparando um veículo para RoRo ou Container Export: O que os Portadores Nomeados Requerem e O que Nós Recomendo
 - **Primary Keyword**: veículo exportação pré-envio inspeção PDI entrega RoRo
-- ** Termos de pesquisa secundários**: tanque de combustível Wallenius Wilhelmsen, Hoegh BEV SOC 50 por cento, RoRo veículo operable, desligar bateria 12V usado carro, pré-envio registro de fotos
+- ** Termos de pesquisa secundários**: tanque de combustível Wallenius Wilhelmsen, Hoegh BEV SOC 50 por cento, RoRo veículo operable, desligar 12V bateria usado carro, pré-envio registro de fotos
 - ** Sugestões de ligação interna**: /guias/veículo-exportação-bill-of-lading-types/; /guias/ev-shipping- un3556-imdg-compliance/; /guias/emissão-combustível-compatibilidade-china-veículos/
 - **Image Suggestions**: Lista de verificação PDI; RoRo auto-dirige rampa; chamado-carrier vs editorial-recomendação diagrama dividido
 - ** Sugestões ALT**: "Nomeado RoRo exigências de transporte versus lista de verificação pré-expedição recomendada"
@@ -20,8 +20,8 @@ As disputas de danos no destino quase sempre remontam a uma pergunta: qual era a
 | Tópico | Wallenius Wilhelmsen | Höegh Autoliners | Natureza |
 |---|---|---|---|
 | **Nível de combustível / gás ** | Tank about **one-quarter full** (enough to self-drive on/off) | Tanque cerca de **um quarto cheio** | Política do transportador; apenas para estas duas linhas designadas, não uma regra universal |
-| ** Bateria ICE usada** | Para unidades usadas **sem um interruptor de bateria**, desconecte o 12/24V após o chicoteamento (excepções por instrução WW) | — | Regra específica para WW; portador de código único |
-| ** SOC de alta tensão BEV ** | — | **SOC no more than 50%**, while retaining enough charge for loading/unloading/storage; - Não. ≤¼ fuel plus SOC guidance | Höegh-específico; **not** um limite máximo global de SOC |
+| ** Bateria ICE usada** | Para unidades usadas **sem um interruptor de desligamento de bateria**, desconecte o 12/24V após o amarramento (excepções por instrução WW) | — | Regra específica para WW; portador de código único |
+| ** SOC de alta tensão BEV ** | — | **SOC não mais de 50% **, mantendo carga suficiente para carga/descarregável/armazenagem; - Não. ≤¼ fuel plus SOC guidance | Höegh-específico; **not** um limite máximo global de SOC |
 | ** Operabilidade ** | As unidades RoRo devem se auto-drive com segurança ligada/desativada (move/fregar/velar); unidades com defeito ou fugas podem ser rejeitadas | Mesmo requisito de auto- condução | O portador que recebe a regra para estas duas linhas nomeadas |
 
 Estes requisitos são citados para as transportadoras nomeadas precisamente porque elas **Varia por linha e por viagem**: uma transportadora RoRo/contentor chinesa ou outra linha podem definir diferentes níveis. Nunca declare "carregadores exigem X" sem nomear o portador e verificar seu guia escrito atual.
@@ -52,7 +52,7 @@ Contagem de pontos de amarração, resistência à ruptura da precinta, esteiras
 
 ## Perguntas Mais Frequentes
 ** Um quarto de tanque é uma exigência legal?** Não — é uma política escrita de transportadoras RoRo, tais como Wallenius Wilhelmsen e Höegh; siga as instruções da transportadora reservada.
-**Must every EV ship at 50% SOC?** That figure is a Höegh Autoliners policy, not a universal cap; Confirmar a viagem de viagem obrigatória do transportador reservado.
+** Deve cada nave EV em 50% SOC?** Este valor é uma política Höegh Autoliners, não uma tampa universal; confirmar a viagem de serviço reservado da transportadora SOC requisito por viagem.
 **O registo de fotografias/manutenção é obrigatório?** É o método de evidência recomendado pela AutoBridge, não uma exigência legal — mas reforça materialmente uma alegação de danos ao destino.
 ** Quem decide pontos de amarração e classificações de alça?** O transportador/terminal e o manual de modo de transporte OEM; não assuma valores fixos sem os seus documentos.
 
@@ -60,11 +60,14 @@ Contagem de pontos de amarração, resistência à ruptura da precinta, esteiras
 - IMAGEM_ASSET_PATH: nenhum protegido no repositório
 - ORIGINAL_ IMAGE_ URL: não capturado
 - ORIGINAL_PAGE: não capturado
+- ORIGINAL_FILE_PAGE: não aplicável — nenhum ficheiro de mídia candidato identificado (sem licença para afirmar)
 - DIREITOS_OLDER: não confirmado
 - LICENSE_OR_USAGE_BASIS: nenhuma imagem segura — nenhuma imagem de terceiros pode ser publicada até que os direitos sejam compensados
-- Data_ Marcada: 2026-09-05
+- Data_ Marcada: 2026-09-06
 - MODEL_TOPIC_ MATCH: deve corresponder ao modelo/versão exato (ou ao tópico guia) e ao mercado de referência acima
+- IMAGEM_SCOPE_NOTE: corresponde à família/tópico do modelo exato; não deve implicar uma aparação/modelo-ano específico, VIN real, inspeção em pessoa ou transação real
 - IMAGEM_RIGHTS_STATUS: FALHA (não é aceita nenhuma propriedade licenciada capturada; uma nota de placeholder ou “reter imagem antiga”)
+- BLOCK_REASON: Nenhuma imagem reutilizável pode ser segura: Wikimedia Commons/Flickr são inalcançáveis do ambiente de pesquisa, bibliotecas de estoque requerem acesso autenticado API/licença, e uma imagem de página web OEM NÃO é uma concessão de reutilização comercial; nenhuma foto de propriedade da AutoBridge existe. Mantive-me em vez de afirmar.
 - ALT por língua:
   - **EN**: AutoBridge export-buyer reference — Pre-shipment PDI and handover for RoRo/container, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Pre-shipment PDI and handover for RoRo/container, guide d’achat à l’export automobile
@@ -83,10 +86,10 @@ Contagem de pontos de amarração, resistência à ruptura da precinta, esteiras
 | Título do código fonte | Organização | Mercado | URL | Verificado | Confiança | Factos corroborados |
 |---|---|---|---|---|---|---|
 | WW Cargo Handling Instructions (fuel ≤¼) | Wallenius Wilhelmsen (transportador RoRo) | INTL | https://cargohandlinginstruction.walleniuswilhelmsen.com/pdf-files/WW-CHI-250731-1.31.pdf | 2026-09-04 | CRUSS_CHECKED (transportador primário) | Nível de combustível, operacionalidade |
-| WW Receber as unidades usadas (desconectar 12/24V sem desligar) | Wallenius Wilhelmsen | INTL | https://cargohandlinginstruction.walleniuswilhelmsen.com/terminal/receiving-of-used-units-draft | 2026-09-04 | ORIGINAL ÚNICA (transportador primário) | Desligamento da bateria usada- ICE |
-| Höegh Automotive shipping (≤¼ fuel; BEV SOC; operacionalidade) | Höegh Autoliners | INTL | https://www.hoeghautoliners.com/what-we-ship/automotive | 2026-09-04 | ORIGINAL ÚNICA (transportador primário) | BEV ≤50% SOC, fuel, operability |
+| WW Receber as unidades usadas (desligar 12/24V sem desligar) | Wallenius Wilhelmsen | INTL | https://cargohandlinginstruction.walleniuswilhelmsen.com/terminal/receiving-of-used-units-draft | 2026-09-04 | ORIGINAL ÚNICA (transportador primário) | Desligamento da bateria usada- ICE |
+| Höegh Automotive shipping (≤¼ fuel; BEV SOC; operacionalidade) | Höegh Autoliners | INTL | https://www.hoeghautoliners.com/what-we-ship/automotive | 2026-09-04 | ORIGINAL ÚNICA (transportador primário) | BEV ≤ 50% SOC, combustível, operabilidade |
 | Transporte de camiões/buses/reboques | Höegh Autoliners | INTL | https://www.hoeghautoliners.com/what-we-ship/trucks-buses-and-trailers-shipping | 2026-09-04 | ORIGINAL ÚNICA (transportador primário) | Unidade comercial que recebe |
-| Pré-envio inspeção & prática de entrega | Páginas da indústria 11467 | NC | https://m.11467.com/product/d55278360.htm | 2026-09-04 | ORIGINAL ÚNICA (base editorial) | Lista de verificação/foto/mandagem recomendada |
+| Pré-envio inspeção & prática de entrega | 11467 páginas da indústria | NC | https://m.11467.com/product/d55278360.htm | 2026-09-04 | ORIGINAL ÚNICA (base editorial) | Lista de verificação/foto/mandagem recomendada |
 *Evidencia: políticas de transporte de nomes verificados para guias primários WW/Höegh (política de transporte, não regulação, não universal); checklist é recomendação editorial; valores fixos de amarração/pressão/orientação bloqueados pendentes documentos OEM/carrier. *
 
 | OMI/OIT/UNECE CTU Código — unidades de transporte de carga de movimentação e de segurança | Organização Marítima Internacional (OMI) | INT' L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | VERIFICADO | Manuseamento geral/base de referência de segurança; as regras de transporte continuam a ser mais rigorosas e específicas da rota |

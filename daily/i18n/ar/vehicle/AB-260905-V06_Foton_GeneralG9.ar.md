@@ -1,87 +1,90 @@
-# Foton General G9 / Dajiangjun G9 (2025) — Chinese-Market Pickup Specs and Export Checks
+# Foton General G9 / Dajiangjun G9 (2025) — Chinese-Market pickup Specs and Export checks
 
 ## SEO Metadata
-- **SEO Title**: Foton General G9 Pickup 2025: Chinese-Market Diesel/Petrol Specs & Export Guide
-- **Meta Description**: Chinese-market Foton General G9 (大将军G9) pickup: 2.0T diesel and petrol lines, 6MT/8AT, RWD/ 4WD, bed and wheelbase dimensions, and the conflicting diesel torque torqueged.
-- ** H1 **: Foton General G9 / Dajiangjun G9 (2025) — Chinese-Market Pickup Specs and Export Checks
-- **Primary Keyword**: Foton / 福田 General G9 / 大将军G9 皮卡 specs export
-- **Secondary Search Terms**: Foton General G9 export; Dajiangjun G9 pickup; Chinese diesel pickup; 4WD pickup; double cab
-- **Suggested URL**: /vehicles/foton-general-g9/
-- **Search Intent**: 了解 Foton / 福田 General G9 / 大将军G9 皮卡 中国版规格、配置与出口适配性（车型参数页）
-- ** Internal Link Suggestions**: /vehicles/foton-general- g9/, /guides/vehicle-export-hs-code-history/, /guides/emission-compatibility-fuel-history/
-- **Schema Scope**: Article + Vehicle (no Product/Offer/Review)
+- ** عنوان الحلقة**: Foton General G9 Pickup 2025: تصدير ديزل/بيترول سبيك الدليل
+- ** Meta Description**: Chinese-market Foton General G9 (大将军 G9) pickup: 2.0T diesel and petrol lines, 6MT/8AT, RWD/ 4WD, bed and wheelbase dimensions, and the conflicting diesel torque flagged.
+- ** H1 **** Foton General G9 / Dajiangjun G9 (2025) — Chinese-Marketلتقطpes and Export checks
+- ** كلمة رئيسية**: Foton / 福田 General G9 / 大将军G9 皮卡 specs export
+- ** شروط البحث الثانية**: تصدير الفوتون العام G9؛ وجيب داجيانغجون G9؛ وشحن الديزل الصيني؛ و4WD مركب؛ وسيارة أجرة مزدوجة
+- ** URL المقترض**: /مركبات/فوتو - عام - g9/
+- ** الحلقة الدراسية**: 了解 Foton / 福田 General G9 / 大将军G9 皮卡 中国版规格、配置与出口适配性（车型参数页）
+- ** مقترحات داخلية بشأن الروابط**: /حلقات/فطن عام - g9/، و/أوجديات/مركبات تصدير - هس - كود - هس/، و/أو مبادئ توجيهية/هرس تطابق الوقود/الاستجابة/التوجيهات/الاستجابة إلى جانب الوقود/التاريخ/
+- ** نطاق الشيمة**: المادة + المركبات (لا منتج/منتج/مراجعة)
 
-## Buyer context: a work pickup with two fuel lines
-The **Foton General G9 (大将军G9, 2025)** is a Chinese-market body-on-frame pickup sold in **diesel and petrol lines**, with manual/auto gearboxes and rear- or four-wheel drive. For export buyers the decisive fields are bed size, wheelbase, drivetrain and the exact engine — not a single "G9" spec. Reference market is **China**.
+## سياق الشراء: مركب عمل مع خطين من خطوط الوقود
+The **Foton General G9 (大将军 G9), 2025)** هو مركب من طراز سواتل السوق الصينية على الحاسوب يباع في زهرة **  and  خطوط البنزين** مع صندوق معدات يدوية/معدات  and  أو رباعي أو رباعي بالنسبة لمشتري التصدير الحقول الحاسمة هي حجم السرير، قاعدة العجلات، والقرصنة والمحرك الدقيق - ليس واحد "G9" العينة. السوق المرجعية** الصين**.
 
-## Chassis, bed and powertrain
-- **Diesel**: 2.0T 4F20 柴油, 120 (163Ps) kW; peak torque is shown as **390 或 415（版本差异，未锁定） N·m — a documented conflict between sources, so lock the model-year/trim before quoting a single number**.
+## الترسب، والسرير، والقوة
+- ** ديزيل**: 2.0T 4F20 柴油  120 (163Ps) kW; peak torque is shown as **390 或 415（版本差异，未锁定） N·m — a documented conflict between sources, لذا اغلقي النموذج العام قبل اقتباس رقم واحد**
 - ** Petrol**: 175 kW / 360 N·m.
-- **Gearbox/drivetrain**: 6MT / 8AT; 后驱 / 适时四驱.
-- **Short-wheelbase**: 约5340×1980；轴距3110；货箱1520×1580×440 mm (cross-checked).
-- **Long-wheelbase**: 5630×1980×1860；轴距3400；货箱1805×1580×440 mm (single source — cross-check).
-- **Suspension**: 前双叉臂 / 后整体桥; emission 国VI（0#柴油）.
+- ** صندوق/مقعد للتنقيب**: 6MT / 8AT; 后驱 / 适时四驱.
+- ** قاعدة العجلات**: 约5340×1980；轴距3110；货箱1520×1580×440 mm (cross-checked).
+- ** لانغ - ويلباس**: 5630×1980×1860；轴距3400；货箱1805×1580×440 mm (single source — cross-check).
+- ** تعليق**: 前双叉臂/ 后整体桥؛ انبعاث 国 سادساً (0 # 柴油).
 
-## Verified specification table (Chinese-market reference)
-| Specification | Value | Unit | Market | Confidence | Source note |
+## جدول مواصفات مصدق عليه (مراجع السوق الصينية)
+| المواصفات | القيمة | الوحدة | السوق | الثقة | مذكرة المصدر |
 |---|---|---|---|---|---|
-| diesel engine | 2.0T 4F20 柴油 | - | CHINA | CROSS_CHECKED | 太平洋+新浪 |
-| diesel power | 120 (163Ps) | kW | CHINA | SINGLE OURCE | 太平洋汽车 |
-| diesel torque | 390 或 415（版本差异，未锁定） | N m | CHINA | CONFLICT | 太平洋 vs 懂车帝2025款详表 |
-| gasoline engine power | 175 | kW | CHINA | SINGLE OURCE | 太平洋汽车 |
-| gasoline torque | 360 | N m | CHINA | SINGLE OURCE | 太平洋汽车 |
-| transmission | 6MT / 8AT | - | CHINA | SINGLE OURCE | 太平洋汽车 |
-| drivetrain options | 后驱 / 适时四驱 | - | CHINA | SINGLE OURCE | 太平洋汽车 |
-| dim short wb | 约5340×1980；轴距3110；货箱1520×1580×440 | mm | CHINA | CROSS_CHECKED | 太平洋+新浪 |
-| dim long wb | 5630×1980×1860；轴距3400；货箱1805×1580×440 | mm | CHINA | SINGLE OURCE | 太平洋汽车百科 |
-| suspension | 前双叉臂 / 后整体桥 | - | CHINA | SINGLE OURCE | 太平洋汽车 |
-| emission standard | 国VI（0#柴油） | - | CHINA | SINGLE OURCE | 太平洋汽车 |
+| محرك الديزل | 2.0T 4F20 柴油 | - | CHINA | صرخات | 太平洋 + 新浪 |
+| طاقة الديزل | 120 (163Ps) | kW | CHINA | SINGLE OURCE | 太平洋汽车 |
+| الديزل | 390 或 415（版本差异，未锁定） | N m | CHINA | CONFLICT | 太平洋 vs 懂车帝2025款详表 |
+| طاقة المحرك البنزين | 175 | kW | CHINA | SINGLE OURCE | 太平洋汽车 |
+| البنزين | 360 | N m | CHINA | SINGLE OURCE | 太平洋汽车 |
+| إرسال | 6MT / 8AT | - | CHINA | SINGLE OURCE | 太平洋汽车 |
+| خيارات القطارات | 后驱 / 适时四驱 | - | CHINA | SINGLE OURCE | 太平洋汽车 |
+| الذوبان القصيران | 约5340×1980；轴距3110；货箱1520×1580×440 | مم | CHINA | صرخات | 太平洋 + 新浪 |
+| دغدغة طويلة | 5630×1980×1860；轴距3400；货箱1805×1580×440 | مم | CHINA | SINGLE OURCE | 太平洋汽车百科 |
+| التعليق | 前双叉臂 / 后整体桥 | - | CHINA | SINGLE OURCE | 太平洋汽车 |
+| معيار الانبعاثات | 国 سادسا (0 # 柴油) | - | CHINA | SINGLE OURCE | 太平洋汽车 |
 
-## Pickup export checks: bed, drivetrain and the torque conflict
-Pickup orders fail most often on bed length and drivetrain. Choose short or long wheelbase and match it to the bed dimensions; choose 4WD only where the build confirms a transfer case/low range. The diesel peak-torque conflict (390 vs 415 N·m) is **left unresolved on purpose** — obtain the OEM configuration sheet for the exact VIN rather than picking the favourable number. Towing mass is not captured and must not be estimated. Confirm the emission stage (China-VI diesel, 0 # fuel) against destination fuel quality and admission rules.
+## عمليات التحقق من الصادرات: السرير، والقرص، والنزاعات العاتية
+وتفشل أوامر التلقيم في معظم الأحيان على طول السرير والقرصنة. اختر قاعدة عجلات قصيرة أو طويلة وطابقها مع أبعاد السرير؛ لا تختار 4WD إلا إذا أكد البناء على حالة نقل/درجة منخفضة. The diesel peak-torque conflict (390 vs 415 N·m) is **left unresolved on purpose** — obtain the OEM configuration sheet for the exact VIN rather than picking the favourable number. ولا يُقبض على الكتلة المتجهة ولا يجب تقديرها. Confirm the emission stage (China-VI diesel, 0 # fuel) against destination fuel quality and admission rules.
 
-## Overseas buyer verification before payment
-1. Choose diesel or petrol and the exact power/torque by VIN (resolve the 390/415 conflict).
-2. Choose short/long wheelbase and match the bed; state RWD or 4WD.
-3. Confirm Equipmentbox (6MT/8AT) and differential/axle spec for the destination.
-4. Verify diesel emission/fuel compatibility; obtain towing/payload from homologation, not estimation.
-5. Request a current export quotation; none is published here.
+## التحقق من المشتري في الخارج قبل الدفع
+1. اختيار الديزل أو البنزين، والكهرباء/التورك الدقيق من قبل شبكة في إن (حل النزاع البالغ 390/415).
+2. اختيار قاعدة قصيرة/طويلة ومطابقة السرير؛ ولاية RWD أو 4WD.
+3. مجموعة معدات تأكيد (6MT/8AT) ومطياف/ضرائب الوجهة.
+4. التحقق من مدى توافق انبعاثات الديزل/وقوده؛ الحصول على السحب/الحمولة من الحرق، وليس التقدير.
+5. نطلب اقتباساً حالياً من الصادرات؛ ولا ينشر أي منها هنا.
 
 ## FAQ
-**Is diesel torque 390 or 415 N·m?** Sources conflict by version; confirm the exact trim — this page does not choose one.
-**Does it come in 4WD?** Rear-drive or on-demand 4WD are listed; confirm the build.
-**What is the towing capacity?** Not captured; do not estimate — use homologation data.
-**Long-bed dimensions?** Single-source here; cross-check before ordering.
-**Which fuel for diesel?** China-VI, 0# diesel; verify destination fuel compatibility.
+** هل تمزق الديزل 390 أو 415 N·m؟** المصادر تتضارب حسب الصيغة؛ تؤكد الترايم الدقيق - هذه الصفحة لا تختار واحدة.
+** هل تأتي في 4WD؟ ** وترد قائمة بـ 4WD ريال أو في حالة الطلب؛ وتتأكد من البناء.
+** ما هي قدرة الطين؟** لم يتم أسره، ولا تقدر - استخدم بيانات التلويث.
+** الأبعاد ذات الأبعاد الطويلة** مصدر واحد هنا، فحص قبل طلب.
+** أي وقود للديزل؟ ** China-VI, 0 # diesel; verify destination fuel compatibility.
 
 
-## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
+## المصدر: التحقق
+| المصدر | المنظمة | السوق | النمور | الثقة | URL | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
-| 大将军G9 车型百科 | 太平洋汽车百科 | CN | T3 | CROSS_CHECKED | http://m.pcauto.com.cn/baike/1435088/ | 尺寸, 货箱, 动力 |
-| 大将军G9 配置 | 太平洋汽车 | CN | T3 | CROSS_CHECKED | https://m.pcauto.com.cn/baike/1407114/ | 柴油动力, 变速箱, 四驱 |
-| 大将军G9 车型页 | 太平洋汽车 | CN | T3 | CROSS_CHECKED | http://m.pcauto.com.cn/x/5098/50980128.html | 底盘, 排放 |
-| 大将军G9 参数 | 新浪汽车车型库 | CN | T2 | CROSS_CHECKED | http://db.auto.sina.cn/car/87477/ | 尺寸, 动力 |
-| 大将军G9 配置库 | 买车网 | CN | T3 | CROSS_CHECKED | https://m.maiche.com/s5864/c110283/config.html | 版本配置 |
-| Foton Motor official site | Beiqi Foton Motor 福田汽车 (OEM) | CN | T1 | VERIFIED | https://www.foton.com.cn/ | brand/model-line identity and OEM authority |
-| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | T1 | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
-| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
-## Editorial Review
+| 大将军G9 车型百科 | 太平洋汽车百科 | CN | T3 | صرخات | http://m.pcauto.com.cn/baike/1435088/ | 尺寸, 货箱, 动力 |
+| 大将军G9 配置 | 太平洋汽车 | CN | T3 | صرخات | https://m.pcauto.com.cn/baike/1407114/ | 柴油动力, 变速箱, 四驱 |
+| 大将军G9 车型页 | 太平洋汽车 | CN | T3 | صرخات | http://m.pcauto.com.cn/x/5098/50980128.html | 底盘, 排放 |
+| 大将军G9 参数 | 新浪汽车车型库 | CN | T2 | صرخات | http://db.auto.sina.cn/car/87477/ | 尺寸, 动力 |
+| 大将军G9 配置库 | 买车网 | CN | T3 | صرخات | https://m.maiche.com/s5864/c110283/config.html | 版本配置 |
+| موقع فوتون موتور الرسمي | Beiqi Foton Motor 福田汽车 (OEM) | CN | T1 | مفقود | https://www.foton.com.cn/ | الهوية التجارية/النموذجية وسلطة منظمة أوغ |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | T1 | مفقود | https://www.miit.gov.cn/ | سلطة التشريح/الإلغاء؛ تأكيد النموذج الدقيق، والكتل، والرمز حسب الرقم القياسي/الإشعار |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | مفقود | https://www.samr.gov.cn/ | المعايير الوطنية، ومنح الشهادات، والضوابط التنظيمية السوقية |
+## استعراض التحرير
 - ** Author**: AutoBridge Export Editorial Team · [authors](/authors) · [Editorial Policy](editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: China (Chinese-market reference; commercial masses must be confirmed by homologation/VIN)
-- **Verification method**: Desk research against the sources below; Chinese-market reference specification only unless a separate export market is explicitly cited.
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
+- ** لم يُستعرض بعد**: 2026-09-05
+- ** سوق الإحالة**: الصين (المرجع المتعلق بالسوق الصينية؛ ويجب تأكيد الجماهير التجارية بالتشغيل/الشبكة)
+- ** طريقة الفرز**: بحوث مكتبية ضد المصادر الواردة أدناه؛ والمواصفات المرجعية للسوق الصينية فقط ما لم يُستشهد صراحة بسوق تصدير منفصلة.
+- ** الشفافية**: استُخدمت الصياغة المدعومة من منظمة العفو الدولية. وتستند هذه المادة إلى البحوث المكتبية وآلية الجودة. ولا يُزعم إجراء أي اختبار مباشر إلا إذا تم توثيقه بشكل صريح؛ ويؤكد متطلبات مراعية للوقت ومحددة للمقصد قبل التحول.
 
-## Image Record
-- ** none secured in repository
-- ** not captured
-- **SOURCE_PAGE**: not captured
-- ** unconfirmed
-- ** none secured — OEM webpage presence is not a commercial reuse licence
-- ** CHECKED_DATE**: 2026-09-05
-- ** exact Foton General G9 pickup
+## سجل الصور
+- ** لم يُكفل أي شيء في مستودع
+- ** غير مسبوقة **
+- ** الموارد: لم يُقبض عليها
+- ** المصدر: الدليل: لا ينطبق - لم يحدد أي ملف إعلامي مرشح (لا رخصة للتأكيد)
+- ** مسلسل هولدر**: غير مؤكد
+- ** لا يوجد أي من هذه الصفحات مضمونة - ليس من حق المنظمة الحصول على ترخيص تجاري لإعادة الاستخدام
+- ** CHECKED_DATE**: 2026-09-06
+- ** بالضبط "فون" العام G9"
+- ** MEIMAGE_SCOPE_NOTE**: يجب أن تتطابق الصورة مع النموذج المحدد للأسرة/المنظر فقط؛ ويجب ألا تنطوي على ثلاثية محددة، أو سنة نموذجية، أو تفتيش فعلي، أو عملية فعلية
 - **MAGE_Rights_STATUS**: FAIL
+- ** BLOCK_REASON**: لا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: لا يمكن الوصول إلى الشائعات/الفلك من بيئة البحوث، ولا تحتاج مكتبات المخزون إلى الوصول إلى نظام تسجيل الدخول/الرخصة الموثق، وصورة الموقع الشبكي لمنظمة أوم ليست منحة إعادة استخدام تجارية. لا توجد صورة مملوكة لـ(أوتومبريدج) وظل التسجيل في القوات المسلحة الفلسطينية بدلا من التأكيد عليه.
 - **ALT (12 languages)**:
   - **EN**: Foton General G9 pickup, Chinese-market pickup truck export buyer reference
   - **FR**: Foton General G9 pickup, pickup truck du marché chinois, référence acheteur export

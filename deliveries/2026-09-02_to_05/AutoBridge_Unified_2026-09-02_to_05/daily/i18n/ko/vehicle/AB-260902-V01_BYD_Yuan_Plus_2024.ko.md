@@ -1,63 +1,66 @@
-# BYD Yuan Plus (Atto 3) — Battery, Range Cycle, Charging and Export Buyer Notes
-## SEO Metadata
-- **SEO Title**: BYD Yuan Plus / Atto 3: Battery, Range & Export Buyer Guide
-- **Meta Description**: Chinese-market BYD Yuan Plus (Atto 3) explained for exporters — 49.92/60.48 kWh Blade Battery, why China CLTC must be kept separate from a destination's WLTP/NEDC figure, GB/T vs local charging inlet, and what to verify by VIN.
+# BYD Yuan Plus (3) - 배터리, 범위 사이클, 충전 및 수출 구매자 메모
+## ▼ 한국어 메타데이터
+- **SEO 제목**: BYD Yuan Plus / Atto 3: 배터리, 범위 및 수출 구매자 가이드
+- **마타 기술 **: Chinese-market BYD Yuan Plus (Atto 3) explained for exporters — 49.92/60.48 kWh Blade Battery, 왜 중국 CLTC는 대상 WLTP/NEDC 수치에서 분리해야 합니다. GB/T 대 국부적으로 위탁 인레트,  and  VIN에 의해 확인하는 것.
 - **Suggested URL**: /vehicles/byd-yuan-plus/
-- ** H1 **: BYD Yuan Plus (export name Atto 3): Battery, Range Cycle, Charging and Software for Importers
-- **Primary Keyword**: BYD Yuan Plus Atto 3 specifications export
-- **Secondary Search Terms**: BYD Atto 3 battery 60.48 kWh, Yuan Plus CLTC vs WLTP range, BYD Blade Battery LFP, Atto 3 CCS2 charging, Yuan Plus DiLink overseas, Chinese EV compact SUV export
-- **Internal Link Suggestions**: /guides/chinese-ev-charging-standard-compatibility/ ; /guides/right-hand-drive-chinese-cars/; /guides/used-chinese-ev-inspection/
-- **Image Suggestions**: front three-quarter studio view; 430/510 vs WLTP variant comparison; charging port close-up; rear seating and boot; rotating DiLink screen
-- **ALT Suggestions**: "BYD Yuan Plus / Atto 3 compact electric SUV"; "Yuan Plus CLTC versus Atto 3 WLTP range comparison"; "Blade Battery charging port GB/T inlet"
-## Buyer Context: One Car, Two Specification Languages
-The BYD Yuan Plus (元PLUS) is a compact all-electric SUV on BYD's e-platform 3.0 with an LFP Blade Battery; outside China it is sold as the **BYD Atto 3** across Europe, Southeast Asia, Latin America and Oceania, including RHD markets such as Thailand and Australia. The China line covered here is the **2024 Glory Edition (荣耀版)**. The single most important sourcing habit is to keep two specification languages apart: **Chinese-build data uses CLTC range and a GB/T charging inlet, while BYD's own export specification sheets use WLTP/NEDC range and regional connectors**. This is an evergreen model page (no year in the URL): the platform carries across model years, and the version-specific numbers below are labelled by market and cycle rather than presented as one "global spec".
-## Battery and Variants (the EV decision starts here)
-Chinese cars are split by battery and CLTC range, with one front motor across the line.
-| China variant cue | Blade Battery (LFP) | China CLTC range | Regional Atto 3 reference — same *nominal* battery capacity (BYD-official, market-specific) |
+- ** H1 **: BYD Yuan Plus (수출 이름 Atto 3): 배터리, 범위 사이클, 충전 및 수입용 소프트웨어
+- ** 출원 키워드**: BYD Yuan Plus Atto 3 사양 수출
+- **세컨드리뷰 이용 약관**: BYD에 3 건전지 60.48 kWh, Yuan Plus CLTC 대 WLTP 범위, 으로 잎 건전지 LFP,  Atto 3 CCS2 charging, Yuan Plus DiLink 해외, 중국 EV 컴팩트 SUV 수출
+- ** 내부 링크 제안**: /guides/chinese-ev-charging-standard-compatibility/; /guides/right-hand-drive-nesechi-cars/; /guides/used-chinese-ev-inspection/
+- ** 이미지 제안**: front three-quarter studio view; 430/510 대 WLTP 변형 비교; 위탁 항구 근접; 뒷좌석 및 부동; DiLink 스크린을 자전하십시오
+- ** ALT 제안**: "BYD Yuan Plus / Atto 3 컴팩트 전기 SUV"; "Yuan Plus CLTC versus Atto 3 WLTP 범위 비교"; "Blade 배터리 충전 포트 GB / T 입구"
+## 구매자 Context: One Car, Two Specification Languages
+BYD Yuan Plus (元 PLUS)는 BYD의 e-platform 3.0에 LFP 블레이드 배터리가있는 소형 모든 전기 SUV입니다. 중국 밖에 태국과 호주와 같은 RHD 시장을 포함하여 유럽, 동남 아시아, 라틴 아메리카 및 오세아니아를 가로 질러 ** BYD Atto 3로 판매됩니다. 중국 라인은 여기 ** 2024 영광 판 (荣耀版) **입니다. 단일 가장 중요한 소싱 습관은 두 가지 사양 언어가 출발합니다. ** 중국 빌드 데이터는 CLTC 범위와 GB / T 충전 흡입구를 사용하며 BYD의 자체 수출 사양 시트는 WLTP / NEDC 범위 및 지역 커넥터를 사용합니다 **. 이것은 상록색 모델 페이지 (URL의 년 없음)입니다. 플랫폼은 모델 년 내내 운반하고 아래 버전 별 번호를 하나의 "글로벌 spec"로 표시되어 시장 및 사이클에 의해 라벨을 붙입니다.
+## 배터리 및 배리어 (EV 결정은 여기에 시작됩니다)
+중국 자동차는 배터리로 분할된다  and  CLTC 범위,  with one front motor across the line.
+| 중국 변종 cue | 블레이드 배터리 (LFP) | 중국 CLTC 의 범위 | 지역 Atto 3 참조 - 동일한 *nominal * 배터리 용량 (BYD-official, 시장 별) |
 |---|---|---|---|
-| 430 version | 49.92 kWh | 430 km CLTC | Regional Atto 3 builds share this nominal pack class, but export range is set by the destination test cycle — obtain the current official BYD regional sheet; do not convert CLTC |
-| 510 version (e.g., 510KM 领先型) | 60.48 kWh | 510 km CLTC | Same nominal pack class as the higher regional Atto 3 build; the export-market figure depends on cycle and model year and must be read from that market's current official sheet, not derived from 510 CLTC |
-Battery capacities and the LFP Blade type are confirmed on **BYD's own export specification sheets (VERIFIED)**; the China CLTC 430/510 labels are cross-checked across Chinese databases (CROSS_CHECKED). **These Atto 3 figures are a regional reference matched only by nominal battery capacity — they are not one-to-one trim equivalents of the China 430/510 grades**: certified range, power, equipment and even charge figures differ by country/region, so confirm the exact destination-market spec sheet for the VIN. Higher grades add the DiPilot assist package and the larger rotating screen — record the exact Chinese grade name, because a "510" label can attach to several equipment levels.
-## Powertrain
-Every China Glory Edition Yuan Plus uses one front permanent-magnet synchronous motor: **150 kW (204 PS) / 310 N·m**, 0–100 km/h 7.3 s, top speed 160 km/h, front-wheel drive only (no AWD/dual-motor in this line). BYD's export sheets confirm the PMSM layout and the 49.92/60.48 kWh battery pair; if a quoted car claims AWD, dual motors or a different output, it is another model-year or market build and must be re-documented rather than assumed.
-## Range Cycle: Never Present CLTC as WLTP
-This is where importers most often mis-spec a car. The same physical pack carries a **higher number under China CLTC than under the NEDC or the more conservative WLTP** used in Europe/Australia, and the exact destination figure also moves with model year and regional tuning. Always quote the cycle next to the number, request the **destination-certified figure from BYD's current official regional page**, and do not market a CLTC number to a WLTP market. Use the Chinese figures only to identify the China build; never present a converted CLTC number as the official export range.
-## Charging: Physical Inlet + Protocol
-- Chinese cars use the **GB/T** DC/AC inlet and GB/T 27930 handshake; export Atto 3 builds commonly use **CCS2** (regional variation exists). The socket is a VIN-level fact — confirm it on the actual car.
-- Recorded China DC fast-charge peaks are 70 kW (49.92) / 80 kW (60.48); BYD export material lists an 110 kW DC figure for certain market builds. Treat charge power as market/version-specific and confirm from the destination sheet, not from a single database.
-- AC onboard-charger rating and any adapter limits must be specified at order; see the GB/T vs CCS2/CHAdeMO compatibility guide.
-## Software and OTA (the part homologation does not fix)
-Upper grades carry BYD **DiLink** with a rotating 12.8/15.6-inch display, OTA and 4G, plus **DiPilot** L2-class assistance (ACC, lane keeping, AEB). Chinese-market DiLink — app ecosystem, voice assistant, account server and navigation — is built for mainland China, and OTA delivery outside China is not guaranteed for a parallel-imported China unit. Verify English/local HMI, local maps, app availability and which connected functions stay live in the destination country before a volume order; the infotainment/OTA localization guide gives a per-VIN acceptance test.
-## Dimensions and Cabin
-4455 × 1875 × 1615 mm, wheelbase 2720 mm, five-door five-seat monocoque compact SUV (dimensions confirmed on BYD's export sheet). Confirm curb weight by battery/trim on the compliance plate rather than a generic figure.
-## What AutoBridge Adds Beyond the Parameter Sites
-Spec sites list Chinese numbers in isolation and leave the buyer to reconcile them with export reality. This guide recommends a single build note pairing each VIN's battery size with BOTH its CLTC label and the destination-market WLTP/NEDC figure, confirming GB/T-vs-destination inlet before deposit, and recording the exact Chinese grade so a "510" label is not substituted by a lower-equipped car. That version-and-cycle reconciliation is the value a raw spec table does not provide.
-## Overseas Buyer Verification Before Payment
-- Identify **China Yuan Plus vs destination Atto 3**; record model year and exact Chinese grade.
-- Match VIN to battery (49.92/60.48), the correct range **cycle**, and charge power — never a sales label alone.
-- Confirm **LHD/RHD** and whether the unit is factory RHD or a China LHD car.
-- Confirm charging inlet (GB/T vs CCS2/other), onboard charger and adapter limits.
-- Confirm infotainment language, maps, app store and OTA support outside mainland China.
-- Obtain the destination homologation route; a Chinese spec sheet is not type approval.
-- Compare warranty for a parallel China unit vs an official Atto 3.
-## Request a Current Export Quotation
-No fixed export price is published. The China domestic guide price for the 2024 Glory Edition is a **domestic, time-sensitive reference only — not an FOB/CIF figure**. Enquire with **Destination Country · Quantity · Battery/Grade · LHD/RHD · Destination Port · Incoterm**.
-## Frequently Asked Questions
-**Is Yuan Plus the same car as Atto 3?** It is the China counterpart of the export Atto 3, but connector, certified range cycle and software differ by market — confirm the exact build.
-**Why does the same battery show a longer range in China than in Europe?** Because China uses CLTC while export markets use NEDC/WLTP, which are more conservative; always state the cycle and quote the destination's own current official figure rather than converting CLTC.
-**Does every Yuan Plus have the same motor?** In this China line, one 150 kW/310 N·m front motor; variants differ in battery and equipment.
-**Can a GB/T car charge on CCS2?** Only with the correct inlet/adapter confirmed for legality and handshake; destination Atto 3 units are usually built to the local standard — specify at order.
-**Is the China price an FOB quote?** No; it is a domestic reference. Request an itemised export quotation.
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE:: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE:: 2026-09-05
-- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- ALT by language:
+| 430 버전 | 49.92 kWh | 430 km CLTC의 특징 | 지역 Atto 3은이 명목상 팩 클래스를 공유하지만 수출 범위는 대상 테스트 사이클에 의해 설정됩니다 - 현재 공식 BYD 지역 시트를 얻을; CLTC를 변환하지 마십시오 |
+| 510 버전 (예: 510KM 领先型) | 60.48 kWh | 510 km CLTC의 특징 | 높은 지역 Atto 3 빌드로 동일한 공칭 팩 클래스; 수출 시장 수치는 주기 및 모델 년에 따라 달라지고 시장의 현재 공식 시트에서 읽을 수 있어야 510 CLTC에서 파생되지 |
+배터리 용량과 LFP 블레이드 타입은 ** BYD의 자체 수출 사양 시트 (VERIFIED)**에 확인됩니다. 중국 CLTC 430/510 라벨은 중국 데이터베이스 (CROSS_CHECKED)를 가로 질러 져 있습니다. ** 3 숫자는 국가 표준 배터리 용량에 의해 일치 지역 참조입니다 - 그들은 중국 430/510 등급의 하나에 하나에 하나 하나에 트림 동등물 **: 인증 범위, 전력, 장비 및 심지어 충전 수치는 국가 / 지역과 다릅니다. 따라서 VIN에 대한 정확한 목적지 시장 사양 시트를 확인합니다. 고급은 DiPilot 지원 패키지와 더 큰 회전 화면을 추가합니다. "510 " 라벨이 여러 장비 수준에 부착 할 수 있기 때문에 정확한 중국 등급 이름을 기록합니다.
+## 힘 train
+Every China Glory Edition Yuan Plus uses one front permanent-magnet synchronous motor: 150 kW (204 PS) / 310 N·m **,  0–100 km/h 7.3 s, 최고 속도 160 km/h, 앞바퀴 드라이브만 (이 선에 AWD/dual 모터 없음). BYD의 수출 시트는 PMSM 레이아웃을 확인합니다.  and  the 49.92/60.48 kWh battery pair; 견적된 자동차가 AWD, 듀얼 모터 또는 다른 출력을 주장하면 다른 모델 년 또는 시장 빌드가되고 가정보다 재 문서화되어야합니다.
+## 범위 주기: 결코 WLTP로 CLTC를 선물하지 마십시오
+이것은 가장 자주 잘못 사양 차를 수입하는 곳입니다. 동일한 물리적 팩은 NEDC 이하 중국 CLTC의 **보다 더 높은 수를 나타낸다. 유럽 / 호주에 사용되는 더 많은 보수 WLTP**, 그리고 정확한 목적지 숫자는 또한 모델 년과 지역 조정으로 이동한다. 항상 번호 옆에 사이클을 인용, BYD의 현재 공식적인 지역 페이지**에서 **destination-certified 수치를 요청하고, CLTC 번호를 WLTP 시장에 제공하지 않습니다. 중국 건축을 식별하는 유일한 중국 인물을 사용하십시오; 공식 수출 범위로 변환된 CLTC 수를 결코 선물하지 마십시오.
+## 충전: 물리적 인 인레트 + 프로토콜
+- 중국 자동차는 ** GB / T ** DC / AC 입구 및 GB / T 27930 핸드 케; 수출 Atto 3 일반적으로 사용 ** CCS2 ** (비례 변형). 소켓은 VIN-level 사실입니다. 실제 자동차에서 확인.
+- 기록된 중국 DC 빠른 충전 피크는 70 kW (49.92) / 80 kW (60.48); BYD 수출 자료는 특정 시장 빌드에 대한 110 kW DC 수치를 나열합니다. 시장/버전 별으로 처리 충전 전력을 처리하고 단일 데이터베이스에서 대상 시트에서 확인하십시오.
+- AC 온보드 충전기 등급 및 어떤 어댑터 제한은 순서에 지정되어야 합니다; GB/T 대 CCS2/CHAdeMO 호환성 가이드를 보십시오.
+## 소프트웨어 및 OTA (부품 균질화는 수정하지 않습니다)
+Upper grades는 BYD **DiLink**를 회전 12.8/15.6-inch 디스플레이, OTA 및 4G, plus **DiPilot** L2-class 지원 (ACC, 차선 유지, AEB)와 함께 수행합니다. 중국 시장 DiLink - 앱 생태계, 음성 조수, 계정 서버 및 탐색 - 중국 대륙에 내장되고, 중국 외부 OTA 배달은 병렬 승인 중국 단위에 보장되지 않습니다. 영어/현지 HMI, 로컬지도, 앱 가용성 및 연결된 기능은 볼륨 주문 전에 대상 국가에서 살고있는 기능을 확인합니다. infotainment/OTA Localization guide는 per-VIN 합격 시험을 제공합니다.
+## 차원과 오두막
+4455 × 1875 × 1615 mm, 축거 2720 mm,  five-door five-seat monocoque compact SUV (dimensions confirmed on BYD's export sheet). 일반 그림보다는 규정 준수 판에 배터리 / 트리에 의해 커브 무게를 확인합니다.
+## AutoBridge가 Parameter Sites를 넘어 어떤 추가
+Spec 사이트 목록 격리에 있는 중국 번호 및 수출 현실로 그들을 reconcile 구매자를 남겨두십시오. 이 가이드는 CLTC 상표와 목적지 시장 WLTP/NEDC 숫자를 가진 각 VIN의 건전지 크기 쌍을 추천하고, 예금의 앞에 GB/T-vs-destination 인레트를 확인하는, 그리고 정확한 중국 급료를 기록하기 위하여 “510” 상표는 더 낮은 적당한 차에 의해 대용되지 않습니다. 즉, 버전 및 사이클 재구성은 원시 사양 테이블을 제공하지 않습니다.
+## 해외 구매자 검증 하기 전에 지불
+- ** 중국 위안 플러스 대 목적지 3 **; 기록 모델 년 및 정확한 중국 학년.
+- 배터리 (49.92/60.48)에 일치, 올바른 범위 ** 사이클 **, 및 충전 전력 - 혼자 판매 라벨이 없습니다.
+- ** LHD / RHD **를 확인하고 단위가 공장 RHD 또는 중국 LHD 자동차인지 확인하십시오.
+- 충전 입구 (GB / T 대 CCS2/other), 내장 충전기 및 어댑터 제한을 확인합니다.
+- 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 오타와 
+- 목적지 균질화 경로를 얻으십시오. 중국 spec 시트는 승인이 되지 않습니다.
+- 병렬 중국 단위에 대한 보증 비교 공식 ATto 3.
+## 현재 수출 견적 요청
+고정된 수출 가격은 간행됩니다. 2024 영광 판의 중국 국내 가이드 가격은 ** 돔, 시간 감지 참조 만 - FOB / CIF 그림**. ** 목적지 항구 · Incoterm**에 문의하십시오.
+## 자주 묻는 질문
+**Is Yuan Plus는 Atto 3과 동일한 차를? ** 그것은 수출 Atto 3의 중국 부분이지만, 커넥터, 인증 범위 사이클 및 소프트웨어는 시장과 다릅니다 - 정확한 빌드를 확인합니다.
+**왜 같은 배터리는 유럽보다 더 긴 범위가 표시합니까?** 중국은 수출 시장이 더 보수적 인 NEDC / WLTP를 사용하면서 CLTC를 사용하고 있기 때문에 항상주기를 주며 CLTC를 변환하는 것보다 목적지의 현재 공식적인 수치를 인용합니다.
+**모든 위안 플러스 동일한 모터가 있습니까? ** 이 중국 선에서,  one 150 kW/310 N·m front motor; 변종은 배터리 및 장비와 다릅니다.
+** CCS2에 GB/T 차 책임은 할 수 있습니까? ** 올바른 입구 / 발전기 만 법적 및 핸디케이크에 대해 확인; 목적지 3 단위는 일반적으로 로컬 표준에 내장되어 있습니다 - 주문에 지정.
+** 중국 가격은 FOB 견적? ** 아니; 그것은 국내 참고입니다. 제품 수출 견적 요청
+## 이미지 기록
+- IMAGE_ASSET_PATH: 저장소에 보안되지 않음
+- ORIGINAL_IMAGE_URL: 캡처되지 않음
+- SOURCE_PAGE: 캡처되지 않음
+- SOURCE_FILE_PAGE: 적용되지 않음 - 확인된 후보자 미디어 파일 없음 (Asert에 대한 라이센스 없음)
+- permission_HOLDER: 확인되지 않은
+- 라이센스_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE:: 2026-09-06
+- MODEL_TOPIC_MATCH: 정확한 모델/버전 (또는 가이드 항목)과 참고 시장과 일치해야 합니다.
+- IMAGE_SCOPE_NOTE: 정확한 모델 가족/토닉에만 일치; 특정 트림/모형, 실제 VIN, 인-인 검사 또는 실제 거래에 실패하지 않아야 합니다.
+- IMAGE_RIGHTS_STATUS: FAIL (허가 된 자산 없음; placeholder 또는 "이전 이미지 유지"주의 허용되지 않음)
+- BLOCK_REASON:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: 재사용 가능한 이미지는 보안되지 않았습니다. Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 없으며, 주식 라이브러리는 인증된 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 존재하지 않습니다. Kept FAIL 오히려 asserted 보다는.
+- 언어 별 ALT:
   - **EN**: AutoBridge export-buyer reference — BYD Yuan Plus / Atto 3, battery-electric vehicle / SUV
   - **FR**: Référence AutoBridge pour acheteurs export — BYD Yuan Plus / Atto 3, véhicule 100 % électrique / SUV
   - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Yuan Plus / Atto 3, batterieelektrisches Fahrzeug / SUV
@@ -71,26 +74,26 @@ No fixed export price is published. The China domestic guide price for the 2024 
   - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Yuan Plus / Atto 3, مركبة كهربائية بالبطارية / سيارة دفع رباعي
   - **ZH**: AutoBridge 出口采购参考｜BYD Yuan Plus / Atto 3, 纯电动车 / SUV
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## 소스 및 검증
+| 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
 |---|---|---|---|---|---|---|
-| Yuan Plus official China model hub (dynasty network) | BYD Auto (**manufacturer official**) | CN | https://www.byd.com/cn/dynasty-home/models/yuan/3-yuan-plus | 2026-09-05 | VERIFIED (OEM; model-line/generation scope) | OEM anchor for the Yuan Plus model line. NOTE: BYD's current China page shows the newer rear-drive generation; it is used to bound model identity and generations and is NOT a source for the 2024 Glory (FWD, 430/510 CLTC) values covered here |
-| Road motor-vehicle manufacturers & products catalog — public query | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Confirm the approved model/version and homologation entry by VIN/announcement before ordering |
-| GB 16735-2019 Road vehicles — vehicle identification number (VIN) | SAMR / Standardization Administration (national standard) | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure/version check used to lock the exact Chinese grade and avoid trim substitution |
-| Yuan Plus 2024 parameter table | ZOL Auto | CN | https://detail.zol.com.cn/series/2530/69565/param_10855221_0_1.html | 2026-09-02 | CROSS_CHECKED | China dimensions, charging power, ADAS/infotainment |
-| Yuan Plus model article | Dongchedi (懂车帝) | CN | https://www-lf.dongchedi.com/article/7425573307363131931 | 2026-09-02 | CROSS_CHECKED | 150 kW/310 N·m, 60.48 kWh, CLTC 510, 7.3 s |
-| Yuan Plus Q&A / model page | Autohome (汽车之家) | CN | https://www.autohome.com.cn/ask/23350747.html | 2026-09-02 | CROSS_CHECKED | Motor, battery variants, launch context |
-| 太平洋汽车 参数页 | 太平洋汽车网 | CN | https://price.pcauto.com.cn/s48082/config.html | 2026-09-02 | SINGLE_SOURCE | 电机马力 204Ps、快充 80% |
-| 汽车之家（车家号）荣耀版上市新闻 | 汽车之家 | CN | https://chejiahao.m.autohome.com.cn/info/14756991 | 2026-09-02 | SINGLE_SOURCE | 上市时间 2024-03、指导价 11.98-14.78 万、全系降价 1.6 万 |
-| 元PLUS 2024款荣耀版 参数配置表 | 太平洋汽车 PCauto | CN | https://price.pcauto.com.cn/m127136/config.html | 2026-09-05 | CROSS_CHECKED | 2024 Glory-specific table: 49.92/60.48 kWh, CLTC 430/510, five Glory grades (independent DB #1, verified reachable) |
-| 元PLUS 2024款荣耀版 430KM 配置表 | 爱卡汽车 Xcar | CN | https://newcar.xcar.com.cn/m72729/config.htm | 2026-09-05 | CROSS_CHECKED | 2024 Glory grade table, FWD layout and 430 km line (independent DB #2, verified reachable; real Xcar URL) |
-| 元PLUS 参数配置（2024款） | 汽车之家 Autohome config series | CN | https://car.autohome.com.cn/config/series/6298-21793.html | 2026-09-05 | CROSS_CHECKED | Battery energy 49.92/60.48 kWh across the 2024 grades (independent DB #3, parameter table — not an AI-aggregated Q&A page) |
+| Yuan Plus 공식 중국 모델 허브 (dynasty network) | BYD Auto (**제조업체 공식**) | 담당자: Mr. wang | https: //www.byd.com/cn/dynasty-home/models/yuan/3-yuan-plus에 의하여 | 2026-09-05 | VERIFIED (OEM; 모형 선/세대 범위) | Yuan Plus 모델 라인에 대한 OEM 앵커. 참고: BYD의 현재 중국 페이지는 더 새로운 후방 드라이브 생성을 보여줍니다. 모델 정체성 및 세대를 경계하는 데 사용됩니다. 2024 영광 (FWD, 430/510 CLTC) 값을 위해 소스가 없습니다. |
+| 도로 모터 차량 제조 업체 및 제품 카탈로그 - Public 쿼리 | MIIT, 중국 산업 및 정보 기술부 | 담당자: Mr. wang | https: //service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html을 호출합니다. | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 주문하기 전에 VIN/announcement에 의해 승인된 모형/버전 및 균질화 입장을 확인하십시오 |
+| GB 16735-2019의 도로 차량 - 차량 식별 번호 (VIN) | SAMR / 표준화 관리 (국가 표준) | 담당자: Mr. wang | https: //openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno= E2EBF667F8C032B1EDFD6DF9C1114E02를 엽니다. | 2026-09-05 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | VIN 구조 / 버전 확인은 정확한 중국 등급을 잠금에 사용되며 트림 대체를 방지 |
+| Yuan Plus 2024 매개 변수 테이블 | ZOL 자동차 | 담당자: Mr. wang | https: //detail.zol.com.cn/series/2530/69565/param_10855221_0_1.html에 대한 자세한 정보 | 2026-09-02 | CROSS_체크 | 중국 차원, 위탁 힘, ADAS/infotainment |
+| Yuan Plus 모델 기사 | 동요 (懂车帝) | 담당자: Mr. wang | https://www-lf.dongchedi.com/article/7425573307363131931 | 2026-09-02 | CROSS_체크 | 150 kW / 310 N·m, 60.48 kWh, CLTC 510, 7.3 ss s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s  |
+| Yuan Plus Q & A / 모델 페이지 | 오토홈 (汽车之家) | 담당자: Mr. wang | https: //www.autohome.com.cn/ask/23350747.html에 대한 자세한 정보 | 2026-09-02 | CROSS_체크 | 모터, 배터리 변형, 시작 상황 |
+| 太平洋汽车 参数页 | 太平洋汽车网 | 담당자: Mr. wang | https: .pcauto.com.cn/ s48082/config.html 의 | 2026-09-02 | SINGLE_SOURCE(싱글) | 电机马力 204Ps、 快充 80% |
+| 汽车之家 (车家号) 荣耀版上市新闻년 | 汽车之家 | 담당자: Mr. wang | https: //chejiahao.m.autohome.com.cn/info/ 14756991 | 2026-09-02 | SINGLE_SOURCE(싱글) | 上市时间 2024-03、 指导价 11.98-14.78 万、 全系降价 1.6 万 |
+| 元 PLUS 2024 款荣耀版 参数配置表를 가진 元 | 太平洋汽车 PC자동 | 담당자: Mr. wang | https: .pcauto.com.cn/ m127136/config.html 의 | 2026-09-05 | CROSS_체크 | 2024 Glory-specific table: 49.92/60.48 kWh, CLTC 430/510,  five Glory grades (independent DB #1, 인증된 범위 |
+| 元 PLUS 2024 款荣耀版 430KM 配置表 | 爱卡汽车 Xcar | 담당자: Mr. wang | https: //newcar.xcar.com.cn/ m72729/config.htm의 | 2026-09-05 | CROSS_체크 | 2024 Glory grade table, FWD 배치  and  430 km 선 (무 의존하는 DB # 2, 확인된 가역; 실제 Xcar URL) |
+| 元 PLUS 参数配置 (2024 款) | 汽车之家 Autohome config series | 담당자: Mr. wang | https: //car.autohome.com.cn/config/series/ 6298-21793.html | 2026-09-05 | CROSS_체크 | Battery energy 49.92/60.48 kWh across the 2024 grades (independent DB #3, 매개변수 테이블 — AI 집계되지 않는 Q&A 페이지) |
 
-*Evidence-scope note: BYD's official China model hub (linked) anchors the Yuan Plus model line and its generations; BYD's current page presents the newer rear-drive generation, so it is deliberately NOT used as a source for the 2024 Glory Edition values here. The 2024 Glory figures — 49.92/60.48 kWh, 150 kW/310 N·m and 430/510 km CLTC — rest on a genuine same-fact cross-check by three independent Chinese parameter tables verified reachable on 2026-09-05 (PCauto m127136, Xcar m72729 and the Autohome 6298-21793 config series), in addition to ZOL/Dongchedi; each source independently states the same battery/range pairing rather than splitting different facts across sources. They remain CROSS_CHECKED (no reachable OEM primary table for the exact China 2024 Glory values — the earlier BYD regional PDFs now return 404), and must be bound to the 2024 homologation announcement and VIN. Destination WLTP/NEDC values are not asserted and must be read from BYD's current official regional page; Chinese and export figures are kept separate by cycle and never merged into a "global spec". Writing-AI controlled patch 2026-09-05: the named Glory values are now same-fact cross-checked by three independent reachable config tables, moving the page off NEEDS_RESEARCH (confidence CROSS_CHECKED, not OEM-VERIFIED).*
-## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: China 2024 Glory Edition; export name BYD Atto 3 (destination sheets govern export builds)
-- **Verification method**: Manufacturer-official export sheets + multi-database China cross-check; range always labelled by test cycle
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+*Evidence-scope 참고: BYD의 공식 중국 모델 허브 (링크) 앵커 위안 플러스 모델 라인과 그 세대; BYD의 현재 페이지는 더 새로운 후방 드라이브 생성을 선물하므로 2024 Glory Edition 값에 대한 소스로 사용되지 않습니다. The 2024 Glory figures — 49.92/60.48 kWh,  150 kW/310 N·m  and  430/510 km CLTC — rest on a genuine same-fact cross-check by three independent Chinese parameter tables verified reachable on 2026-09-05 (PCauto m127136, Xcar m72729, 중국  and  Autohome 6298-21793 구성 시리즈, ZOL/Dongchedi 이외에; 각 소스는 독립적으로 소스를 통해 다른 사실을 나누기보다 동일한 배터리 / 범위 쌍을 주장합니다. They remain CROSS_CHECKED (no reachable OEM primary table for the exact China 2024 Glory values — the earlier BYD regional PDFs now return 404),  and  2024 균질 발표에 묶여야 한다  and  ... 대상 WLTP/NEDC 값은 asserted가 아니며 BYD의 현재 공식적인 지역 페이지에서 읽을 수 있어야합니다. 중국과 수출 숫자는 주기에 의해 분리되고 결코 "세계 spec"로 합병되지 않습니다. 쓰기 AI는 패치 2026-09-05를 통제했습니다: the named Glory values are now same-fact cross-checked by three independent reachable config tables, NEEDS_RESEARCH에서 페이지를 이동 (CROSS_CHECKED의 경우, OEM-VERIFIED는 아닙니다). ****************************************************************************************************************************************************************************************************************************************************************
+## 편집 리뷰
+- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · [편집 정책](/편집/) 당 방법
+- **마지막 검토**: 2026-09-05
+- **참고 시장 **: 중국 2024 영광 판; 수출 이름 BYD Atto 3 (대략 시트 주지사 수출 구조)
+- ** 인증 방법 **: 제조업체 - 오프시리얼 수출 시트 + 멀티 데이터베이스 중국 크로스 체크; 테스트 사이클에 의해 항상 라벨
+- **Editorial 표준 **: 위에 나열된 소스에서 연구 및 작성 (책상 연구; 첫 번째 직접 운전, 눈물 또는 수입은 주장). 소스 신뢰는 행당 표시됩니다. 독립적으로 확인 할 수없는 점은 사실로 asserted보다 검증 항목으로 표시됩니다.
 #AutoBridge #VehicleExport #BYD #YuanPlus #ElectricSUV

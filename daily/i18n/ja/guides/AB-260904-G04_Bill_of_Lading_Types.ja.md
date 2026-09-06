@@ -1,72 +1,75 @@
-# MBL, HBL, Telex Release or Sea Waybill? Choosing a Vehicle's Release Method Under the 2025 Maritime Code
+# MBL、HBL、テレックスリリース、シーウェイビル? 車両のリリース方法の選択 2025 海上コード
 
-## SEO Metadata
-- **SEO Title**: Vehicle Export Bill of Lading Guide — MBL/HBL/Telex/SWB + Maritime Code Arts. 80/81/87
-- **Meta Description**: How master bills, house bills, telex release and sea waybills differ, the transferability/delivery rules in China's revised Maritime Code (in force 2026-05-01, Arts. 80/81/87), and matching release method to payment terms.
-- **Suggested URL**: /guides/vehicle-export-bill-of-lading-types
-- **H1**: Picking a Bill-of-Lading Release Method for an Exported Vehicle — Business Practice Anchored in the Revised Maritime Code
-- **Primary Keyword**: vehicle export bill of lading mbl hbl telex release seawaybill
-- **Secondary Search Terms**: Maritime Code 2025 revision, article 80 bill of lading transfer, article 81 other transport document, article 87 delivery, NVOCC HBL, order bill telex
-- **Internal Link Suggestions**: /guides/ocean-freight-charge-structure-vehicle-export/ ; /guides/vehicle-export-pdi-pre-shipment-handover/;; /guides/export-vehicle-document-package/
-- **Image Suggestions**: four-method comparison; negotiability ladder vs payment; MBL/HBL chain; Arts.80/81/87 delivery flow
-- **ALT Suggestions**: "MBL HBL telex sea waybill negotiability under revised Maritime Code"
+## ツイート メタデータ
+- **SEOタイトル**: 車両輸出入ガイド — MBL/HBL/Telex/SWB + 海上コードアーツ. 80/81/87
+- **メタ 記述**: マスター法、ハウス法案、テレックス解放法、海法案が異なる方法、中国における移転可能性/配送規則(強制2026-05-01、芸術中。80/81/87)、および決済条件に一致するリリース法。
+- **混雑URL**: /ガイド/車両輸出-船型
+- H1 ホテル **: 輸出車のためのビル・オブ・レイディング・リリース・メソッドを選ぶ — 改正海上コードで固定されたビジネス・プラクティス
+- **主なキーワード**: 車両輸出手帳のmbl hblのtelex解放のseawaybill
+- **二次検索条件**: 海上コード2025リビジョン、記事80リダリング転送の請求書、記事81他の輸送文書、記事87配信、NVOCC HBL、注文請求書テレックス
+- **内部リンクの提案**: /guides/ocean-freight-charge-struct-vehicle-export/; /guides/vehicle-export-pdi-pre-shipment-handover/; /guides/export-vehicle-document-package/
+- **イメージ提案**: four-method comparison; 交渉性梯子対の支払; MBL/HBLの鎖; 芸術。 80/81/87 配達の流れ
+- **ALT 提案**:「改正海上コードに基づくMBL HBL テレックス海上航法の交渉可能性」
 
-## The Procurement Problem Is Cargo Control, Not Paperwork
-Exporters treat the bill-of-lading choice as documentation. It is a **payment-risk decision**: the moment you move from an original negotiable bill to telex release or a sea waybill, you change when you stop controlling the vehicle at destination. This guide pairs the four instruments' business behaviour with the **current Chinese statutory backbone** — the *Maritime Code of the PRC*, **revised on 2025-10-28 by the 18th session of the 14th NPC Standing Committee (Presidential Order No.58), in force from 2026-05-01 (16 chapters, 310 articles)** — and then matches method to payment terms. Carrier/port-specific telex rules and fees remain voyage-specific and are not stated as fixed values.
+## 調達問題は、貨物管理であり、書類管理ではありません
+輸出業者は、文書として請求先の選択肢を処理します。 支払いリスク決定**: 元の交渉可能な請求書からテレックスリリースまたは海道の請求書に移動する瞬間、目的地で車両の制御を停止したときに変更します。 This guide pairs the four instruments' business behaviour with the **current Chinese statutory backbone** — the *Maritime Code of the PRC*, ※14th NPCスタンディング委員会(仮称注文番号58)の18thセッションで2025-10-28に改定 で 力 から 2026-05-01 (16 チャプター), 310 記事** —  and  支払い方法を入金条件にマッチします。 キャリア/ポート固有のテレックスルールと手数料は、航海固有のままであり、固定値として記載されていない。
 
 ## The Four Instruments Side by Side
-| Method | Who issues | How the consignee takes delivery | Shipper holds a paper document of title? |
+| 方法 | 問題の解決 | 委託先が配送方法 | 紙文書は、Shiperがタイトルを保持していますか? |
 |---|---|---|---|
-| **Master B/L (MBL)** | Shipping line / its agent | Surrender original MBL (or follow line procedure) | Yes — contract of carriage + document-of-title function |
-| **House B/L (HBL)** | NVOCC / freight forwarder | HBL consignee exchanges HBL for MBL via the forwarder's destination agent | Yes at HBL level, with an extra party in the chain |
-| **Telex Release** | Carrier after shipper returns/forgoes originals | Electronic release instruction; collect on a copy + identity | **No** — paper title is given up at release |
-| **Sea Waybill (SWB)** | Carrier | Named consignee collects on proof of identity; non-negotiable | **No** — not a document of title, not transferable |
+| **マスターB/L(MBL)* ふりがな | 船積みライン/代理店 | サーレンダーオリジナルのMBL(またはライン手順に従ってください) | はい — 運送+文書のタイトル機能の契約 |
+| **ハウス B/L (HBL)* ふりがな | NVOCC/貨物運送業者 | HBL 委託先の代理店による MBL の HBL のための HBL の交流 | はい、チェーン内の追加のパーティーでHBLレベルで |
+| **Telex Release**(リリース)** | 船員のリターン/貨物元の後運送業者 | 電子リリースの指示;コピー+アイデンティティで収集して下さい | **No** — 紙のタイトルはリリース時に付与されます |
+| **シーウェイビル(SWB)* ふりがな | キャリア | 署名された委託者は、本人の証明に収集します。 交渉不可 | **** いいえ** — タイトルの文書ではなく、譲渡不可 |
 
-## The Statutory Backbone: Transferability, Other Documents, Delivery
-The revised Maritime Code supplies the legal architecture behind those business differences:
-- **Article 80 — transfer of bills of lading**: a **straight (named) B/L is not transferable**; an **order B/L** transfers by **special endorsement or blank endorsement**; a **bearer B/L** transfers **without endorsement**. This is why "to-order/blank" bills are the instrument that preserves control — and why they generally cannot simply be telex-released away.
-- **Article 81 — other transport documents**: a document other than a B/L that the carrier issues to evidence receipt of goods for carriage is **prima facie evidence both of the contract of carriage by sea and of the carrier's receipt** of the listed goods. This frames **non-title documents such as a sea waybill**: they evidence receipt and contract but do not carry a B/L's negotiable document-of-title function.
-- **Article 87 — delivery rules**: under a **straight B/L**, delivery is to the **named consignee**; under an **order B/L**, to the **endorsee**; under a **bearer or blank-endorsed order B/L**, to the **holder**; a **transferable electronic transport record** is delivered to its **holder**. These rules determine exactly who is entitled to collect the vehicle.
+## 法定バックボーン:譲渡可能性、その他の文書、配送
+変更されたマリタイムコードは、これらのビジネスの違いの背後にある法的アーキテクチャを供給します。
+- **アーティクル80 — 捨てる請求書の転送**: **ストライト(名前付き)B / Lは譲渡できません**; **特別承認または空白の承認による**転送**; **ベアラーB / L**は、承認なし**転送します。 そのため、「オーダー/ブランク」の請求書は、制御を維持する機器であり、なぜ一般的にはテレックスリリースされるべきではありません。
+- **芸術81 — 他の輸送文書**:運送貨物の貨物の受領を証拠する運送業者の問題が ** PRIMA は海と運送業者の受領の契約の双方の証拠** リストされた商品です。 このフレームは、海のような非タイトル文書**: 彼らはレシートと契約を証拠するが、B / Lの交渉可能な文書のタイトル機能を持っていません。
+- **第87条 — 配送規則**: **ストレートB / L**の下、配送は****の委託先**に記されています。**** オーダーB / L**下、******まで。 **所有者または空白の注文B / L**下、**所有者**;**;**譲渡可能な電子輸送記録**は、その****所有者に配信されます。 車両を回収する権利者を正確に判断するルールです。
 
-## Where the Risk Sits in Practice
-- **Before full payment, telex release and SWB both hand release forward early**, because no negotiable original remains in the shipper's hands (the Article 80/81 distinction explains why). Match them to **pre-paid T/T** or a fully secured position.
-- **Order/to-order bills generally cannot be telex-released** — their negotiability (Art.80) is the control mechanism.
-- **HBL adds a chain dependency**: the buyer cannot collect until the NVOCC's overseas agent converts HBL to MBL; check that agent before choosing house paper.
-- **Port/country acceptance varies** (some South American destinations are reported not to accept telex release) — confirm with the carrier and destination agent **per shipment**, per the Art.87 delivery route that will actually apply.
+## リスクが実践する場所
+- **フルペイメント、テレックスリリース、SWB両手発売前前** のため、船員の手元に交渉できないため(第80/81条の差別は理由を説明しています)。 これらを**前払いT/T**または完全に安全な位置にマッチさせます。
+- **注文/注文請求書は一般に、テレックスリリースできません** — ネゴティビリティ(Art. 80)は、制御機構です。
+- **HBLはチェーン依存性を追加します**:NVOCCの海外代理店がHBLをMBLに変換するまで買い手は収集できません。 家の用紙を選ぶ前にそのエージェントを確認してください。
+- **ポート/カントリー受入は異なります**(一部の南米の目的地はテレックスリリースを受け付けないと報告されています) — キャリアと宛先エージェントで確認します** 、アートごとに。 87の配送ルートは、実際に適用されます。
 
-## Matching Method to Payment Terms
-- **T/T in advance / fully pre-paid**: telex or SWB is workable; control leverage is no longer needed.
-- *L/C**: follow the credit exactly — it typically demands a negotiable B/L consigned/endorsed as stated; substituting SWB creates a discrepancy.
-- **Balance against B/L / open account**: keep the original negotiable MBL (Art.80 order/bearer control) until payment conditions are met; never telex-release an unpaid vehicle.
-- **RoRo vs container**: both release against the ocean B/L; confirm the line's procedure and the Art.87 consignee route before choosing the instrument.
+## 規約の支払い方法
+- **T/T は前払い/全額前払い**: テレックスまたは SWB は機能可能; 制御レバレッジはもはや必要ではないです。
+- **L/C**: 正確にクレジットに従う — それは通常、記載されているように交渉可能なB / Lの委託/支持を要求します。 SWBの置換は、矛盾を作成します。
+- **B/L/口座開設に伴う残高**:決済条件が満たされるまで、元の交渉可能なMBL(芸術80注文/ベアラーコントロール)を維持し、未払い車をテレックスリリースしません。
+- **RoRo 対コンテナ**: 両リリースから海 B/L; ラインの手順と Art を確認します。 87 委託先のルートを選択する前に、機器を選択します。
 
-## Questions to Put to the Forwarder Before Booking
-1. Who is the MBL carrier, and (if HBL) the NVOCC and its destination agent?
-2. Does this destination/consignee accept telex release, and which Art.87 delivery route applies?
-3. Is the consignment straight, order or bearer — and is the bill negotiable?
-4. Which release method matches the agreed T/T or L/C timeline?
-5. What are the line's release/switch fees for this voyage (quoted, never assumed)?
+## 予約前にフォワードを提出する質問
+1. MBLキャリアとNVOCCとその先物代理店のHBLが誰であるか?
+2. 先物/委託先は、テレックスリリースを受け付けており、どのアートに87の配送ルートが適用されますか?
+3. 辞任はまっすぐ、注文またはベアアです。そして、請求書は交渉できますか?
+4. どのリリースメソッドが合意したT/TまたはL/Cのタイムラインにマッチしますか?
+5. この航海のラインのリリース/スイッチ手数料(引用、想定されることはありません)は何ですか?
 
-## Boundaries of This Guide
-- Carrier-specific telex rules and **fees are time-sensitive and voyage-specific**; no fixed number is stated.
-- Statutory citations use the **2025-revised Maritime Code in force 2026-05-01**; pre-revision article wording must not be treated as current.
+## ガイドの境界
+- キャリア固有のテレックスルールと**フィードは時間感度と航海固有の**です。固定番号は記載されていません。
+- 聖職引用は、** 2025-revised の海上法を強制的に使用 2026-05-01 **; 事前改定記事の文言は、現在のように扱われるべきではありません。
 
-## Frequently Asked Questions
-**Which Maritime Code articles govern B/L transfer and delivery?** Art.80 (transfer: straight/order/bearer), Art.81 (other transport documents such as SWB) and Art.87 (delivery to named consignee/endorsee/holder).
-**Safest release method before payment?** Retain an original negotiable (order/bearer) B/L; avoid telex/SWB until payment is secured.
-**Is a sea waybill a document of title?** No — under the Art.81 framing it evidences contract and receipt but is non-negotiable; the named consignee collects on identity.
-**Can an order bill be telex-released?** Generally no; its Art.80 negotiability is the control mechanism.
+## よくある質問
+**ウィッチ・マリタイム ** コード記事はB/L転送と配達を管理していますか?** Art. 80(転送:ストレート/オーダー/ベアラー)、Art. 81(SWBなどの他の輸送文書)およびArt. 87(委託先/エンドルゼー/ホルダーの名前の配送)。
+**決済前の安全リリース方法?** 元の交渉可能な(順序/軸受け)B/Lを保って下さい;支払が保障されるまでテレックス/SWBを避けて下さい。
+**タイトルの文書を海に渡る?** いいえ。アートの下の 81 フラミングは契約と領収書を証拠しますが、交渉不可です。 名前の委託者は、アイデンティティに収集します。
+**注文書はテレックスリリースできますか?** 一般的には、その芸術。 80 の必然性は、制御機構です。
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
-- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- ALT by language:
+## 映像の記録
+- IMAGE_ASSET_PATH:リポジトリで保護されていない
+- ORIGINAL_IMAGE_URL: キャプチャされていない
+- SOURCE_PAGE: キャプチャされていない
+- SOURCE_FILE_PAGE: 該当なし — 特定候補のメディアファイル (アサートするライセンスなし)
+- 権利_ホルダー:未確認
+- LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
+- CHECKED_DATE: 2026-09-06(税抜き)
+- MODEL_TOPIC_MATCH: 上記の正確なモデル/バージョン(またはガイドトピック)と参照市場と一致しなければなりません
+- IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
+- IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
+- ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
+- 言語によるALT:
   - **EN**: AutoBridge export-buyer reference — MBL HBL telex release and sea waybill, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — MBL HBL telex release and sea waybill, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — MBL HBL telex release and sea waybill, Leitfaden für Fahrzeugexport-Einkauf
@@ -80,26 +83,26 @@ The revised Maritime Code supplies the legal architecture behind those business 
   - **AR**: مرجع AutoBridge لمشتري التصدير — MBL HBL telex release and sea waybill, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜MBL HBL telex release and sea waybill, 汽车出口采购指南
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## ソースと検証
+| ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
 |---|---|---|---|---|---|---|
-| Maritime Code of the PRC (2025 revision, Presidential Order 58, in force 2026-05-01) full text | NPC Standing Committee (npc.gov.cn) | CN | http://www.npc.gov.cn/c2/c30834/202510/t20251028_449061.html | 2026-09-04 | VERIFIED (primary) | Arts.80/81/87, version and effective date |
-| Original B/L / telex / Sea Waybill explained | NetEase business wiki | INTL | https://www.163.com/dy/article/L0J4JN3F0556HN78.html | 2026-09-04 | CROSS_CHECKED | MBL/SWB/telex definitions |
-| Master bill vs house bill | Sina Finance | INTL | https://finance.sina.com.cn/roll/2026-08-15/doc-ininkrwq1888009.shtml | 2026-09-04 | CROSS_CHECKED | MBL/HBL chain, vehicle practice |
-| Release methods and B/L types | 11467 industry knowledge | INTL | https://m.11467.com/product/d15253354.htm | 2026-09-04 | CROSS_CHECKED | Four-method comparison |
-| Four release methods and telex risk (South America note) | NetEase | INTL | https://www.163.com/dy/article/K17GLBOG0556820S.html | 2026-09-04 | SINGLE_SOURCE | Order-bill limit, port acceptance |
-| International transport of goods conventions and model laws | UNCITRAL | INT'L | https://uncitral.un.org/en/texts/transportgoods | 2026-09-05 | VERIFIED | Comparative legal framework for carriage documents (Hague-Visby/Hamburg/Rotterdam context) |
-| Standard shipping documents and clauses reference | BIMCO | INT'L | https://www.bimco.org/ | 2026-09-05 | VERIFIED | Industry-standard maritime document/clause reference |
-| FIATA transport documents and freight-forwarder practice | International Federation of Freight Forwarders (FIATA) | INT'L | https://fiata.org/ | 2026-09-05 | VERIFIED | Forwarder document (FBL/FCR) practice distinguishing carrier B/Ls |
+| PRCの海事コード(2025リビジョン、大統領命令58、力2026-05-01) 完全なテキスト | NPC スタンディング 委員会(npc.gov.cn) | CN の | 担当: .npc.gov.cn/c2/c30834/202510/t20251028_449061.html の | 2026-09-04 | 検証済み(プライマリ) | 芸術。 80/81/87、版および有効な日付 | http://www.npc.gov.cn/c2/c30834/202510/t20251028_449061.html
+| オリジナルB/L/テレックス/シーウェイビルの説明 | ネットイーズビジネス ウィキ | サインイン | 以下は、 https://www.163.com/dy/article/L0J4JN3F0556HN78.html | 2026-09-04 | CROSS_CHECKED(クロス) | MBL/SWB/telex の定義 |
+| マスター請求書対ハウス請求書 | シエナ・ファイナンス | サインイン | 以下は、 https://finance.sina.com.cn/roll/2026-08-15/doc-ininkrwq1888009.shtml のファイル | 2026-09-04 | CROSS_CHECKED(クロス) | MBL/HBL チェーン、車練習 |
+| リリース方法とB/Lタイプ | 11467業界知識 | サインイン | 以下は、 //m. 11467.com/product/d15253354.htm | 2026-09-04 | CROSS_CHECKED(クロス) | Four-method comparison | https://m.11467.com/product/d15253354.htm
+| Four release methods  and  テレックスリスク(南米ノート) | ネットエイズ | サインイン | 以下は、 https://www.163.com/dy/article/K17GLBOG0556820S.html | 2026-09-04 | シングル_ソース | 注文ビルの限界、港の受け入れ |
+| 物品条約の国際輸送とモデル法 | ユニティラル | インフォメーション | 以下は、 https://uncitral.un.org/en/texts/transportgoods ディレクティブ | 2026-09-05 | 検証済み | 運送文書の比較法的なフレームワーク(ハグ・バイ・ハンブルク/ロッテルダム文脈) |
+| 標準的な船積みの文書および句の参照 | シンコ | インフォメーション | 以下は、 https://www.bimco.org/ は、 | 2026-09-05 | 検証済み | 業界標準の海上文書/条項の参照 |
+| FIATA は文書や貨物輸送の実務を輸送 | 貨物運送業者国際連合(FIATA) | インフォメーション | 以下は、 // フィタ.org/ | 2026-09-05 | 検証済み | フォワーダー文書(FBL/FCR) キャリアB/Lsの区別を練習 | https://fiata.org/
 
-*Confidence note: statutory backbone VERIFIED via the NPC full text of the 2025 revision (in force 2026-05-01); business definitions cross-checked; carrier fees/port acceptance remain voyage-specific.*
+*Confidence Note: 2025リビジョンのNPCフルテキスト(力2026-05-01)を介して検証された法定骨格; 業務の定義は交差チェック; キャリア手数料/ポートの受諾は航海固有のまま。 ふりがな
 
-## Editorial Review
-- **Author**: AutoBridge Export Editorial Team · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: Chinese statute + international ocean freight practice (carrier-specific values excluded)
-- **Verification method**: Primary NPC statute for legal rules; multi-source cross-check for business practice
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+## 編集レビュー
+- **著者**: AutoBridge エクスポート 編集 チーム・方法・方法・方法・各社様 [編集ポリシー](/編集ポリシー/)
+- **最終審査**:2026-09-05
+- **参考市場**:中国国家の統計+国際海貨物の練習(車種別値を除く)
+- **検証方法**: 法的規則のための第一次NPCの統計; 業務慣行のための多源の交差チェック
+- **透明性**:AI-assistedドラフトが使われていました。 本記事は、デスクリサーチと自動QAをベースとしています。 明示的に文書化されていない限り、最初のテストは要求されません。 トランスフォーメーションの前に時間感度と宛先固有の要件を確認します。
+- ** 編集規格**: 上記情報源(デスクリサーチ、片手運転、涙流、輸入)から研究・執筆 ソースの自信は行ごとに示されます。 私たちが独立して確認できない点は、事実として主張するのではなく、検証項目として提示されます。
 
 **Tags**: #BillOfLading #MaritimeCode #TelexRelease #SeaWaybill #ExportRisk

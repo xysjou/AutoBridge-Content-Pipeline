@@ -1,66 +1,69 @@
-# Importación de vehículos chinos en Chile: TLC Preferencia, IVA y el paso de homologación 3CV
+# Importación de vehículos chinos en Chile: TLC Preferencia, IVA y el paso 3CV Homologation
 ## SEO Metadatos
-- **SEO Título**: Importar EVs chinos a Chile: TLC Preferencias, IVA & 3CV Guide
-- **Meta Descripción**: How the China–Chile FTA preference works for Chinese-built vehicles, the Chilean Customs 6% general duty and 19% IVA confirmed officially, why a certificate of origin is the condition, and how 3CV homologation fits.
+- **SEO Título**: Importar EVs chinos a Chile: TLC Preferencias, IVA & 3CV Guía
+- **Meta Descripción**: Cómo funciona la preferencia China–Chile para vehículos construidos en China, la aduana chilena 6% deber general  and  19% IVA confirmado oficialmente, por qué un certificado de origen es la condición,  and  how 3CV homologation fits.
 - ** URL agregada**: /guides/import-chinese-ev-chile-fta/
-- ** H1 **: Vehículos chinos en Chile: Usando la Preferencia del TLC sin Costo Desarraigado
+- ** H1 **: Vehículos chinos en Chile: Usando la Preferencia del TLC sin Costo destierro
 - **Primary Keyword**: Chile Derechos de importación de vehículos de la TLC (consignación de IVA)
-- **Secondary Search Terms**: Chile aduana 6% arancel, Chile IVA 19% import, China Chile FTA certificate of origin, Chile 3CV homologation, certificado origen TLC China Chile, EV import Chile
+- **Segundary Search Terms**: Chile aduana 6% aduana, Chile IVA 19% importación, China Chile certificado de origen, Chile 3CV homologación, certificado origen TLC China Chile, importación EV Chile
 - **Sugerencias de Enlace Interno**: /guides/vehicle-import-pago-tt-vs-lc/; /guides/marine-cargo-insurance-car-import/; /vehicles/byd-yuan-plus/
 - **Sugerencias de imagen**: cascada de la pila de impuestos de Chile; flujo de certificado de origen de la ALC; pasos de homologación 3CV
-- **Sugerencias de ALT**: "Apilación de costos de importación infantil: arancel versus IVA"; "Acreditación de origen de TLC"; "Proceso de homologación de Chile 3CV"
+- **Sugerencias de ALT**: "Apilación de costes de importación infantil: arancel versus IVA"; "Acreditación de origen de TLC"; "Proceso de homologación de Chile 3CV"
 ## La oportunidad y la modificación de la Miscalculación
-Chile opera acuerdos de libre comercio con sus principales socios, **incluyendo a China**. A compliant Chinese-origin vehicle can use the FTA preference (ad-valorem **duty 0%**), while Chile's **general ad-valorem duty is 6% of CIF customs value** for non-preference origin — both now anchored to official sources (below). The recurring buyer error is reading "FTA 0% duty" as "0% cost to import." It is not: **19% IVA still applies, the 0% depends on proving origin, and homologation is a separate workstream.** This guide is specific to **Chile**.
+Chile opera acuerdos de libre comercio con sus principales socios, **incluyendo a China**. Un vehículo chino-origen compatible puede utilizar la preferencia del TLC (ad-valorem **duty 0% **), mientras que el deber ad-valorem de Chile **general es 6% de valor aduanero del CIF** para origen no preferencial — ambos ahora anclados a fuentes oficiales (bajo). El error recurrente del comprador es leer "FTA 0% deber" como " 0% costo para importar". No es: ** 19% IVA sigue vigente, el 0% depende de la prueba de origen, y la homologación es un flujo de trabajo separado.** Esta guía es específica para **Chile**.
 ## The Tax Stack, Line by Line (officially grounded)
 | Elemento | Tratamiento | Basis / confianza |
 |---|---|---|
-| Función general de la Asamblea General | **6% of CIF (customs value)** for non-preference origin | **VERIFIED - Servicio Nacional de Aduanas de Chile (aduana.gob.cl)** |
-| IVA (IVA) | **19% on CIF customs value + duty** — charged even when duty is 0% under the FTA | ** TODOS LOS FILDOS — aduana.gob.cl** |
-| Preferencia de los TLC para clasificar el origen chino | Ad-valorem **duty 0%**, conditional on a valid FTA certificate of origin and the product-specific rule | VERIFIED — fuentes comerciales oficiales (mision china; TLC administrada en el lado Chile por DIRECON/SUBREI y Customs) |
+| Función general de la Asamblea General | ** 6% de CIF (valor de los átomos)** para el origen no preference | **VERIFIED - Servicio Nacional de Aduanas de Chile (aduana.gob.cl)** |
+| IVA (IVA) | ** 19% sobre valor aduanero CIF + deber** - cobrado incluso cuando el deber es de 0% bajo el TLC | ** TODOS LOS FILDOS — aduana.gob.cl** |
+| Preferencia de los TLC para clasificar el origen chino | Ad-valorem **duty 0% **, condicional a un certificado de origen válido de la ALC y a la regla específica del producto | VERIFIED — fuentes comerciales oficiales (mision china; TLC administrada en el lado Chile por DIRECON/SUBREI y Customs) |
 | Cargos portuarios y porta-logísticos | Otros, más adelante y más específicos | Obtenga el envío |
-La aduana chilena establece claramente la norma general: imports pay a 6% ad-valorem duty on CIF and 19% IVA on customs value plus duty. A qualifying Chinese-origin vehicle removes the **duty** under the FTA but **not** the 19% IVA. Build landed cost from the full stack, never from the headline "0%."
+La aduana chilena establece claramente la norma general: las importaciones pagan un arancel ad-valorem de 6% en CIF y 19% IVA en valor aduanero más derechos. Un vehículo chino-origen calificado elimina el **deber** bajo el TLC pero **no** el 19% IVA. Construir el costo aterrizado de la pila completa, nunca desde el titular " 0%."
 ### Corrección a mano corta común
-An earlier draft carried a "1% fee and a US$30 de-minimis exemption" into the vehicle stack. Esa norma se refiere a los envíos postales y de mensajería pequeños y no comerciales**, y no a las importaciones de vehículos comerciales**, por lo que se ha eliminado de la construcción de los costos del vehículo. No aplique la lógica de mensajería de memoria a un coche enviado.
-## Origin Is the Condition for 0% — Get the Certificate Right
+Un borrador anterior llevó una "1% cuota y una exención de 30 dólares de los EE.UU. de los automóviles" en la pila de vehículos. Esa norma se refiere a los envíos postales y de mensajería pequeños y no comerciales**, y no a las importaciones de vehículos comerciales**, por lo que se ha eliminado de la construcción de los costos del vehículo. No aplique la lógica de mensajería de memoria a un coche enviado.
+## Origen Es la condición para 0% — Obtener el derecho del certificado
 La preferencia del TLC se aplica únicamente a los productos **originados** que cumplen con la regla de origen específica del producto y llevan un certificado de origen válido ** emitido por el organismo autorizado, consistente en factura, lista de embalaje, B/L y VIN. Operacionalmente:
 - Confirme el código **HS** del vehículo y su regla de origen del TLC (ver el texto actual del TLC / SUBREI para esa partida) no asuma que cada vehículo califica automáticamente.
 - Obtenga el certificado de TLC que nombra los mismos detalles de exportadores/consignados y vehículos que los documentos comerciales.
-- A broken or missing origin chain defaults the shipment to the **6%** general duty.
-## La Homologación 3CV es separada de las aduanas
-Los vehículos colocados en el mercado chileno requieren ** Homologación 3CV** (el procedimiento de certificación de seguridad/emisiones supervisado por las autoridades de transporte/certificación de vehículos) antes del registro. Este es un cumplimiento **proceso y cronología**, no una cuota fija: no se captó ninguna cuota oficial confiable por unidad, por lo que ** ningún número (por ejemplo, un presupuesto ~US$ 600) se afirma** — obtener la cotización actual del certificador y el tiempo de plomo, y comenzar temprano porque cierra el primer registro, no la liberación de aduanas.
+- Una cadena de origen rota o desaparecida predetermina el envío al ** 6% ** deber general.
+## 3CV Homologación es separada de las aduanas
+Los vehículos colocados en el mercado chileno requieren ** 3CV homologación** (el procedimiento de certificación de seguridad/emisiones supervisado por las autoridades de transporte/certificación de vehículos) antes del registro. Este es un cumplimiento **proceso y cronología**, no una cuota fija: no se captó ninguna tasa oficial confiable por unidad, por lo que ** ningún número (por ejemplo, un presupuesto ~US$ 600) se afirma** — obtener la cotización actual del certificador y el tiempo de ejecución, y empezar temprano porque cierra el primer registro, no la liberación de aduanas.
 ## Puntos de izquierda deliberadamente no confirmados
 - **Cualquier umbral de "lujo/surtaxis"** (una fuente de la industria citó un porcentaje por encima de una banda de valor): **No confirmado contra el texto de la autoridad tributaria chilena (SII) y eliminado de la pila de costos fácticos** — verifique la aplicabilidad a su modelo/precio con una fuente de impuestos chilena antes de presupuestar.
-- **ANAC's May-2026 proposal to cut the 6% duty for EVs from non-FTA partners**: a trade-association **proposal, not enacted law**. Note also that a compliant Chinese-origin EV already uses the FTA 0% channel, so the non-FTA debate is a different line. Reequilibrio en la fecha de envío; nunca cites una propuesta como política.
+- **ANAC's May-2026 proposal to cut the 6% duty for EVs from non-FTA partners**: a trade-association **proposal, not enacted law**. Tenga en cuenta también que un EV de origen chino compatible ya utiliza el canal de TLC 0%, por lo que el debate no TLC es una línea diferente. Reequilibrio en la fecha de envío; nunca cites una propuesta como política.
 ## Lo que AutoBridge añade Más allá de un Blog Arancel
-Las guías genéricas mezclan reglas, propuestas y impuestos promulgados en un número. The recommended method is to build a **country-correct stack for a *vehicle*** (6% general / 0% FTA preference + 19% IVA on the duty-inclusive value), tie the **certificate-of-origin document set to the VIN**, and plan the **3CV timeline in parallel with shipping** so the 0% preference is not lost on a paperwork mismatch and first registration is not delayed.
+Las guías genéricas mezclan reglas, propuestas y impuestos promulgados en un número. El método recomendado es construir una pila **correo-correo para un *vehicle*** (6% general / 0% preferencia del TLC + 19% IVA en el valor incluido en el deber), empate el documento **certificado de origen establecido en el VIN**, y planifique el ** 3CV línea de tiempo en paralelo con el envío** por lo que la preferencia 0% no se pierde en un desajuste de papeleo y el primer registro no se retrasa.
 ## Secuencia de funcionamiento
 1. Clasifique el código HS y confirme su regla de origen de FTA antes de fijar precios.
 2. Arregle el certificado de origen de la ALC con documentos que coincidan con el VIN.
-3. Model landed cost as **0% preference duty (or 6% without it) + 19% IVA + logistics + 3CV**, with no invented fees.
-4. Start 3CV homologation early; obtener la tarifa/línea en vivo del certificador.
+3. Precio fijo modelo como ** 0% arancel de preferencia (o 6% sin él) + 19% IVA + logística + 3CV **, sin cargos inventados.
+4. Inicio 3CV homologación temprano; obtener la tarifa/hora en vivo del certificador.
 5. Reevaluar la propuesta ANAC y cualquier surtaxis en la fecha de envío; mantener las propuestas fuera de la cita.
 6. Alinear los Incoterms/pago y asegurar la pierna oceánica (ver las guías pertinentes).
 ## Antes del pago — Lista de confirmación
 - Código HS + regla de origen del TLC; certificado FTA arreglado y VIN-consistente.
-- Tax stack calculated on the aduana.gob.cl basis (6% general / 0% preference; 19% IVA on CIF+duty).
+- Montaje de impuestos calculado sobre la base de la aduana.gob.cl (6% preferencia general / 0%; 19% IVA sobre la cuota CIF+).
 - Cualquier superávit verificado con una fuente de impuestos chilena, no asumido.
 - Ruta 3CV, tarifa actual y cronograma citado por el certificador (no se reutiliza el número de referencia).
 - Cambios de propuesta/estatal re-checked as of shipment date.
 ## Preguntas frecuentes
-**Is duty really 0% for a Chinese car in Chile?** For *originating* goods under the China–Chile FTA, with a valid certificate of origin, the ad-valorem duty is 0%; 19% IVA still applies.
-**What is the non-FTA duty and IVA?** Chilean Customs sets a 6% general ad-valorem duty on CIF and 19% IVA on customs value plus duty.
-**¿Qué documento desbloquea la preferencia?** Un certificado de origen válido de la ALC consistente con factura y VIN; without it the 6% general duty applies.
+**¿Es deber realmente 0% para un coche chino en Chile?** Para *originar* mercancías bajo el TLC China–Chile, con un certificado de origen válido, el deber ad-valorem es de 0%; 19% IVA todavía se aplica.
+**¿Cuál es el deber no-TLC y el IVA?** La aduana chilena establece un deber ad-valorem de 6% en CIF y 19% IVA en valor aduanero más servicio.
+**¿Qué documento desbloquea la preferencia?** Un certificado de origen válido de la ALC consistente con factura y VIN; sin él se aplica el deber general 6%.
 **¿Qué es 3CV y qué cuesta?** El proceso de homologación de vehículos de Chile; cierra el registro y su tarifa/hora fija debe ser citado por el certificador: este artículo no afirma un número fijo.
-¿El deber de la ANAC EV está en vigor?** No — es una propuesta de asociación 2026, no promulgada ley; volver a comprobar en el envío.
+¿El deber de la ANAC EV está en vigor?** No — es una propuesta de asociación de 2026, no promulgada ley; volver a comprobar en el envío.
 ## Grabación de imagen
 - IMAGE_ASSET_PATH: ninguno asegurado en repositorio
 - ORIGINAL_IMAGE_URL: no capturado
 - SOURCE_PAGE: no capturado
+- SOURCE_FILE_PAGE: no aplicable — ningún archivo de medios de comunicación candidato identificado (sin licencia para afirmar)
 - RIGHTS_HOLDER: unconfirmed
 - LICENSE_OR_USAGE_BASIS: ninguna garantizada, ninguna imagen de terceros puede ser publicada hasta que se despejen los derechos
-- CHECKED_DATE: 2026-09-05
+- CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: debe coincidir con el modelo/versión exacto (o el tema guía) y el mercado de referencia por encima
+- IMAGE_SCOPE_NOTE: se corresponde con el modelo exacto familia/topic solamente; no debe implicar un trím o modelo específico, VIN real, inspección en persona o transacción real
 - IMAGE_RIGHTS_STATUS: FAIL (no se acepta ningún activo con licencia; no se acepta un titular de posición o “retiene la imagen antigua”)
+- BLOCK_REASON: No se puede asegurar una imagen reutilizable: Wikimedia Commons/Flickr no son accesibles desde el entorno de investigación, las bibliotecas de stock requieren acceso a API/licencia autenticada, y una imagen de página web OEM NO es una subvención comercial de reutilización; no existe foto de propiedad de AutoBridge. Se quedó con la FAIL en lugar de afirmarse.
 - ALT por idioma:
   - **EN**: AutoBridge export-buyer reference — Chile vehicle import, FTA and 3CV, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Chile vehicle import, FTA and 3CV, guide d’achat à l’export automobile
@@ -78,15 +81,15 @@ Las guías genéricas mezclan reglas, propuestas y impuestos promulgados en un n
 ## Fuentes " Verificación "
 | Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |
 |---|---|---|---|---|---|---|
-| "¿Cuáles son los impuestos que debo pagar al importar?" (6% CIF + 19% IVA on CIF+duty, worked example) | Servicio Nacional de Aduanas (**Aduanas chinas, funcionario del gobierno**) | CL | https://www.aduana.gob.cl/cuales-son-los-impuestos-que-debo-pagar-al-importar/aduana/2020-11-16/110804.html | 2026-09-03 | ################################################################################################################################################################################################################################################################ | General 6% ad-valorem on CIF; 19% IVA base |
-| "Importación de vehículos" (vehicle duty 6% + IVA 19%) | Servicio Nacional de Aduanas (** funcionario del Gobierno**) | CL | https://www.aduana.gob.cl/importacion-de-vehiculos/aduana/2017-11-22/101502.html | 2026-09-03 | ################################################################################################################################################################################################################################################################ | Derechos/declaración de la VIVA específico; distinción de la prestación de servicios |
-| China–Chile FTA preference (0% for qualifying origin), certificate basis | MOFCOM Misión de China en Chile (** órgano de comercio oficial**) | CL/CN | http://cl.mofcom.gov.cn/zcfg/hg/art/2025/art_4febd3af37374813a6c4b15695959d49.html | 2026-09-02 | ################################################################################################################################################################################################################################################################ | FTA 0% preference channel; estado de origen-certificado |
+| "¿Cuáles son los impuestos que deben pagar al importar?" (6% CIF + 19% IVA en CIF+duty, ejemplo de trabajo) | Servicio Nacional de Aduanas (**Aduanas chinas, funcionario del gobierno**) | CL | https://www.aduana.gob.cl/cuales-son-los-impuestos-que-debo-pagar-al-importar/aduana/2020-11-16/110804.html | 2026-09-03 | ################################################################################################################################################################################################################################################################ | General 6% ad-valorem en CIF; 19% base IVA |
+| "Importación de vehículos" (derecho de vehículos 6% + IVA 19%) | Servicio Nacional de Aduanas (** funcionario del Gobierno**) | CL | https://www.aduana.gob.cl/importacion-de-vehiculos/aduana/2017-11-22/101502.html | 2026-09-03 | ################################################################################################################################################################################################################################################################ | Derechos/declaración de la VIVA específico; distinción de la prestación de servicios |
+| Preferencias de China-Chile (0% para el origen calificado), base de certificado | MOFCOM Misión de China en Chile (** órgano de comercio oficial**) | CL/CN | http://cl.mofcom.gov.cn/zcfg/hg/art/2025/art_4febd3af37374813a6c4b15695959d49.html | 2026-09-02 | ################################################################################################################################################################################################################################################################ | FTA 0% canal de preferencia; estado certificado de origen |
 | ANAC seis medidas para hacer más barato los EVs (propuesta, no ley) | AUTOGUÍA (medios chinos de auto) | CL | https://www.autoguia.cl/electromovilidad/2026/05/10/las-6-medidas-que-anac-le-pide-al-gobierno-para-que-los-autos-electricos-sean-mas-baratos-en-chile.html | 2026-09-02 | SINGLE_SOURCE | Estado de la propuesta únicamente - no explícitamente promulgado |
-| Los Contadores — 智利 2026 关税 | Los Contadores（智利本地财税） | CL | https://loscontadores.cl/arancel-aduanero-en-chile/ | 2026-09-02 | SINGLE_SOURCE | 2026 普通关税 6%、自贸国 0%、IVA 19% |
-| Jinyu Autos — 中国车进口智利指南 | Jinyu Autos（行业站） | CL | https://jinyuautos.com/blog/import-chinese-cars-to-chile/ | 2026-09-02 | SINGLE_SOURCE | 中智 FTA 0% 关税通道 |
-| huajiame — 全球汽车进口关税指南 | huajiame（行业站） | CL | https://www.huajiame.com/pl/knowledge/global-auto-import-tariff-guide | 2026-09-02 | SINGLE_SOURCE | 智利关税 6%（FTA 0%）、VAT 19%、奢侈品税 15%（>~$35k） |
+| Los Contadores — 智利 2026 关税 | Los Contadores(智利本地财税) | CL | https://loscontadores.cl/arancel-aduanero-en-chile/ | 2026-09-02 | SINGLE_SOURCE | 2026 普通关税 6%, 自贸国 0%,IVA 19% |
+| Jinyu Autos — 中国车进口智利指南 | Jinyu Autos(行业站) | CL | https://jinyuautos.com/blog/import-chinese-cars-to-chile/ | 2026-09-02 | SINGLE_SOURCE | 中智 TLC 0% 关税通道 |
+| huajiame — 全球汽车进口关税指南 | huajiame(行业站) | CL | https://www.huajiame.com/pl/knowledge/global-auto-import-tariff-guide | 2026-09-02 | SINGLE_SOURCE | 智利关税 6% (TLC 0%),VAT 19%, 奢侈品税 15% (con relación~$ 35k) |
 
-* Nota de confianza: the 6% general duty and 19% IVA are VERIFIED on Chilean Customs; the FTA 0% preference is official but conditional on origin. The previously included 1%/US$30 courier rule (not applicable to vehicles), an unconfirmed luxury-surtax threshold and a fixed 3CV fee have been removed from the factual body; Las reglas de origen del HS y cualquier subtaxis deben ser confirmadas con la aduana chilena/SII/SUBREI. *
+* Nota de confianza: el 6% de servicio general y el 19% IVA son VERIFIED en la aduana chilena; la preferencia FTA 0% es oficial pero condicional en origen. The previously included 1%/US$30 courier rule (not applicable to vehicles), un umbral de lujo-superficie no confirmado  and  se ha eliminado una tasa fija de 3CV del cuerpo fáctico; Las reglas de origen del HS y cualquier subtaxis deben ser confirmadas con la aduana chilena/SII/SUBREI. *
 ## Revisión editorial
 - **Autor/examen**: [Equipo Editorial Exportador AutoBridge](/autores/) · método por nuestro [Política editorial](/editorial-policía/)
 - **Documento revisado*: 2026-09-05

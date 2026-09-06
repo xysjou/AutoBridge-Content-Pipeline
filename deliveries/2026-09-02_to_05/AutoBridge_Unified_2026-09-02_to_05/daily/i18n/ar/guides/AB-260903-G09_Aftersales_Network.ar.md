@@ -1,65 +1,68 @@
-# Building an Overseas After-Sales, Parts and Warranty Network From a Standing Start
+# بناء شبكة ما وراء البحار بعد انتهاء العمر، وأجزاء وحرب من البداية الدائمة
 ## SEO Metadata
-- **SEO Title**: Overseas After-Sales, Parts & Warranty Network Setup Guide
-- **Meta Description**: How a vehicle exporter builds workable overseas after-sales — network models matched to installed base, regional parts stock, warranty promises matched to real service capacity, and the China policy expectation behind it.
-- **Suggested URL**: /guides/overseas-aftersales-parts-warranty-network/
-- ** H1 **: Building Overseas After-Sales, Spare-Parts and Warranty Capability for Exported Vehicles
-- **Primary Keyword**: overseas aftersales parts warranty network setup exporter
-- **Secondary Search Terms**: exporter service network overseas, regional parts warehouse, vehicle warranty policy overseas, independent multi-brand repair network, dealer aftersales support
+- ** عنوان المنظمة**: ما وراء البحار بعد البيع، دليل إنشاء شبكة الإنذار
+- ** وصف البيانات**: فكيفية بناء مصدِّر للمركبات قابل للتطبيق في الخارج - تطابق نماذج الشبكة مع القاعدة المركبة، ومخزون الأجزاء الإقليمية، والوعود الضمانية مع القدرة الحقيقية على تقديم الخدمات، وتوقعات السياسة العامة في الصين خلفها.
+- ** اقتراح مقدم من الاتحاد الأوروبي**: /إرشادات/إصلاحيات بعد انتهاء الدورة
+- ** H1 **** بناء قدرات ما وراء البحار فيما بعد البحار والأجزاء المارة والحرب على المركبات المصدرة
+- ** كلمة رئيسية رمزية**: الأجزاء اللاحقة للبيع في الخارج التي تُضمن إقامة شبكة مصدِّرة
+- ** شروط البحث الثانية**: شبكة خدمات المصدرين في الخارج، ومستودعات القطع الإقليمية، وسياسة تأمين المركبات في الخارج، وشبكة مستقلة متعددة الفروع للإصلاح، ودعم المتاجرين بعد البيع
 - ** Internal Link Suggestions**: /guides/vehicle-export-sales-contract-clauses/;guides/china-vecle-export-license-customs/;/guides/overseas-aftersales-warranty-network/
-- **Image Suggestions**: installed-base→network-model decision tree; parts-stock tiers; warranty-capability matching loop
-- **ALT Suggestions**: "aftersales network model by installed base"; "regional parts stock tiers"
+- ** اقتراحات مقدمة**: شجرة قرار مزودة بشبكة قاعات مركبتين؛ وأجهزة مخزون قطع؛ وثبات لإمكانية ضمانية مطابقة لثوابت
+- ** اقتراحات بشأن: "نموذج شبكة بعد البيع بواسطة قاعدة مركبه، "أجزاء المنطقة من عجلات الأسهم
 
-## Scope: This Is About Operating Service, Not Buying Spare Parts
-This guide covers **standing up after-sales, parts supply and warranty fulfilment** in a destination market. It is deliberately distinct from the separate topic of *procuring* spare parts in China (an existing spare_parts content cluster) — sourcing components is an input; this page is about the **operating capability** that turns those parts into customer uptime.
+## النطاق: هذا يتعلق بخدمة التشغيل، لا شراء قطع الغيار
+ويشمل هذا الدليل ** تأخر توريد القطع وتوريدها بشكل آمن** في سوق مقصد. وهو مُختلف عن الموضوع المنفصل لـ * قطع غيار مشترية* في الصين (مجموعة من المواد الخارجية - الأجزاء الموجودة) - وهي عناصر للاستعانة بمصادر خارجية هي مدخل؛ وهذه الصفحة تتعلق بالقدرة على التشغيل** التي تحول هذه القطع إلى وقت عمل إضافي.
 
-## Why It Decides Repeat Business
-A documented industry weakness is **"heavy on sales, light on after-sales"**: delegating everything to an agent produces uneven workshops, stock-outs and inconsistent repair quality, and the brand/exporter ultimately pays the reputational cost. For a new exporter the failure mode is predictable — vehicles sell, the first warranty claims arrive, and there is no network or parts to answer them, driving returns, disputes and lost reorders.
+## لماذا تقرر إعادة العمل
+والضعف الموثق في الصناعة هو ** الثقوب على المبيعات، والضوء على ما بعد البيع**: إن تفويض كل شيء إلى وكيل ينتج حلقات عمل غير متجانسة، وقطع المخزون، وعدم الاتساق في نوعية الإصلاح، ويدفع العلامة التجارية/المصدر في نهاية المطاف تكلفة السمعة. وبالنسبة لمصدر جديد، فإن طريقة الفشل يمكن التنبؤ بها - وهي بيع المركبات، تصل أول مطالبات الضمان، ولا توجد شبكة أو أجزاء للرد عليها، أو لرد العائدات، أو المنازعات، أو لفقدان إعادة الإمداد.
 
-## The Policy Expectation Behind It
-China's four-ministry used-car export notice (item on improving the export support system, VERIFIED) **guides exporters, OEMs and overseas importers to jointly deliver after-sales, secure repair-parts supply and technical support**. MOFCOM carries the same notice. In practice this means after-sales is not optional polish: it is part of compliant, sustainable export operations and increasingly part of how serious buyers vet suppliers.
+## السياسة العامة المتوقعة خلفها
+إشعار الصين بتصدير السيارات من أربعة أعلام (بند عن تحسين نظام دعم الصادرات، و(فايفيد) تحمل حركة الطيران المدني نفس الملاحظة وهذا يعني عمليا أن ما بعد البيع ليس طلاءا اختياريا: فهو جزء من عمليات التصدير الممتثلة والمستدامة، ويتزايد جزء من مدى خطورة المشترين الذين يتعاملون مع الموردين.
 
-## Choose a Network Model That Matches Installed Base
-Do not build a proprietary network before volume justifies it. The recommended progression:
-- **Thin installed base:** do **not** stand up a dedicated branded network. Plug into **local multi-brand independent repair workshops**, and pursue **cross-brand mutual recognition among Chinese brands** sharing a market (single-source industry analysis) to spread coverage and cost.
-- **Growing base:** appoint authorised service points with trained technicians, special tooling and diagnostic access, concentrated where vehicles actually are.
-- **Mature base:** consider company-backed regional hubs and branded service.
-Match the model to **vehicles in operation**, not to optimism about next quarter's sales.
+## اختر نموذج الشبكة الذي يُثبت قاعدة
+لا تبني شبكة ملكية قبل أن يبررها الحجم التقدم الموصى به:
+- ** تشكل قاعدة مركبتين:** لا تُعد** شبكة مُخصصة ذات سمات تجارية.:: أن تُدخل في حلقات عمل إصلاح مستقلة ذات طابع متعدد الأطراف**، وأن تسعى إلى تحقيق الاعتراف المتبادل فيما بين العلامات التجارية الصينية**، مع تقاسم سوق (تحليل الصناعة من مصادر متعددة) لنشر التغطية والتكلفة.
+- ** تعيين نقاط خدمات مرخص بها مع فنيين مدربين، واستخدام أدوات خاصة، وإتاحة إمكانية الوصول إلى التشخيص، مركزة في الحالات التي توجد فيها مركبات بالفعل.
+- ** قاعدة البيانات:** النظر في المراكز الإقليمية التي تدعمها الشركات وفي الخدمات التي تصنف على نطاق واسع.
+اجمعي النموذج لـ "العمليات" لا للتفاؤل بشأن مبيعات الربع القادم
 
-## Parts Supply: Stock Where It Can Be Reached Fast
-- A **local or regional parts warehouse with safety stock of core/fast-moving components** is the main lever on response time.
-- Industry example (single-source, illustrative not universal): one Chinese NEV maker's **Melbourne OEM-parts warehouse reportedly offers next-business-day delivery to the main states** — an example of what good regional stocking looks like, not a standard every market reaches.
-- Define a **tiered stock list**: A-parts (downtime-critical, local), B-parts (regional hub), C-parts (indent from China with a stated lead time), and communicate lead times honestly.
+## قطع الإمداد: المخزون حيث يمكن الوصول إليه بسرعة
+- والمخزن المخصص للقطع الجوية أو الإقليمية الذي يحتوي على مخزون أمان من المكونات الأساسية/المتحركة** هو المخزن الرئيسي في وقت الاستجابة.
+- مثال صناعي (مصدر صغير، توضيحي ليس عالمياً) واحد من صانعي الـ "ني في" الصينيين "ميلبورن أوم-أجزاء" يقدم في التقارير تسليم يوم العمل القادم إلى الولايات الرئيسية** - مثال على ما يبدو جيد في التخزين الإقليمي، ليس معياراً يمتد كل سوق إليه
+- تحديد قائمة جرد بالمرشحين**: - أجزاء (مرتبة على أساس عدم التفرغ، محلية)، وأجزاء من فئة باء (محور إقليمي)، وأجزاء من الفئة جيم (موجودة من الصين مع فترة زمنية محددة) وتتواصل مع أوقات القيادة بأمانة.
 
-## Align the Warranty Promise With Real Capacity
-A warranty is only credible to the extent the network can honour it:
-- Match **warranty duration/mileage and exclusions** to what local workshops can actually service and parts can actually reach.
-- Industry example (single-source, illustrative): a **7-year/unlimited-km OEM warranty** offered in Australia — credible only because a parts and service network backs it; offering similar terms without that network creates liability you cannot meet.
+## تحيين الوعد الحربي بالقدرات الحقيقية
+ولا يمكن أن يُحترم هذا الضمان إلا بقدر ما يمكن للشبكة أن تفي به:
+- ماتش ** مدة/مدة الضبط والاستبعاد** إلى ما يمكن أن تُخدمه حلقات العمل المحلية فعلاً، ويمكن أن تصل الأجزاء بالفعل.
+- مثال على الصناعة (المصدر الرئيسي، التوضيح): a **7-year/unlimited-km OEM warranty** offered in Australia — credible only because a parts  and  شبكة الخدمات تدعمها؛ عرض شروط مماثلة بدون تلك الشبكة يخلق المسؤولية لا يمكنك الوفاء بها
 - Define the **claim work flow, who pays cargo/labour, goodwill boundaries**, and how bat/EV-specific claims (which need specialized capability) are handled.
 
-## What This Guide Recommends You Put in Place
+## ما يوصي به هذا الدليل أن تضعه في مكانه
 1. A written **installed-base). network-model** decision per market (in dependent/multi-brand first, authorised later).
-2. A **regional parts plan** with A/B/C stock tiers and published lead times.
+2. A ** الأجزاء الإقليمية خطة** مع A/B/C لإطارات المخزون، ونشرت أوقاتاً رائدة.
 3. A **warranty policy matched to service capacity**, with a claim and cost-allocation work flow.
-4. **Technical enablement** — manuals, diagnostics, training — for the workshops that represent you.
+4. ** التمكين التقني** - الأدلة والتشخيص والتدريب - لحلقات العمل التي تمثلك.
 5. A **feedback cycle** from claims into specification (feeding the heat/dust and PSI guides), so recurring faults are designed out.
 
-## Frequently Asked Questions
-**Should a new exporter open branded service centres immediately?** Usually no — with a thin installed base, use local multi-brand workshops and cross-brand recognition first, then invest as volume grows.
-**What drives after-sales response time most?** Local/regional parts availability with safety stock of critical components — more than workshop count alone.
-**Can I offer a long warranty to win deals?** Only if parts reach the market and workshops can honour it; an unmatched warranty is unfunded liability.
-**Is after-sales a compliance matter in China?** Policy guidance directs exporters, OEMs and importers to jointly provide after-sales, parts and technical support.
-**How is this different from a "buying spare parts" guide?** That covers sourcing parts in China; this covers operating the service/parts/warranty capability in the destination market.
+## الأسئلة المتكررة
+** هل يمكن أن تكون هناك مراكز جديدة لخدمات مصدِّرة مفتوحة على الفور؟** وعادة ما لا - مع وجود قاعدة رقيقة، تستخدم حلقات العمل المحلية المتعددة الفروع، والاعتراف المتبادل أولا، ثم تستثمر مع نمو الحجم.
+** ما هي أكثر ما يُدفع إلى وقت الاستجابة بعد انتهاء البيع**؟ وتتوفر الأجزاء المحلية/الإقليمية التي تحتوي على مخزون من العناصر الحاسمة - أكثر من عدد حلقات العمل وحدها.
+** هل يمكنني أن أقدم ضماناً طويلاً للفوز بالصفقات** ولا يمكن أن تفي به إلا إذا وصلت الأجزاء إلى السوق وورش العمل؛ فالضمان غير المطابق هو مسؤولية غير ممولة.
+** هل مسألة الامتثال في الصين بعد البيع**؟ ويوجه التوجيه في مجال السياسات المصدرين، وأجهزة تنظيم المشاريع، والمستوردين إلى تقديم الدعم فيما بعد البيع، والقطع، والدعم التقني.
+** كيف يختلف هذا عن دليل "قطع غيار بزيارتها؟"** ويشمل ذلك قطعا من مصادر في الصين؛ ويشمل ذلك تشغيل القدرة على الخدمات/الأجزاء/الضرورة في سوق المقصد.
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
+## سجل الصور
+- لم يُؤمن أي منها في مستودع
 - ORIGINAL: IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
+- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
+- الحقوق - حقوق غير مؤكدة
+- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
+- CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
+- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات ويكيميو/فلكر غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات المسبقة/الرخصة، وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
 - ALT by language:
   - **EN**: AutoBridge export-buyer reference — Overseas after-sales parts and warranty network, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Overseas after-sales parts and warranty network, guide d’achat à l’export automobile
@@ -74,22 +77,22 @@ A warranty is only credible to the extent the network can honour it:
   - **AR**: مرجع AutoBridge لمشتري التصدير — Overseas after-sales parts and warranty network, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Overseas after-sales parts and warranty network, 汽车出口采购指南
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## المصدر: التحقق
+| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
-| Four-ministry used-car export notice (item 6: support system) | State Council policy library | CN/ Global | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | VERIFIED | Policy expectation of joint after-sales/parts/tech support |
-| Same notice (support system) | Ministry of Commerce | CN/ Global | http://www.mofcom.gov.cn/zcfb/dwmygl/art/2025/art_543d1fcc6a1048d5bf301a8d59ed723e.html | 2026-09-03 | VERIFIED | MOFCOM counterpart text |
-| How Chinese automakers can close the overseas after-sales gap | Sina Finance | Global | https://finance.sina.com.cn/esg/2026-04-27/doc-inhvxpih9178870.shtml | 2026-09-03 | SINGLE OURCE | Multi-brand network path; Melbourne parts example; 7-yr warranty example |
-| Parts going global must be systematised | Beijing News | Global | https://m.bjnews.com.cn/detail/1779683581168283.html | 2026-09-03 | CROSS_CHECKED | "Heavy sales, light service" weakness; delegation risk |
-*Scope note: the policy expectation is official; network models and the Australia warehouse/warranty items are single-company industry examples used illustratively, not presented as universal standards. This guide addresses service operation and is kept distinct from the spare-parts procurement cluster.*
+| إشعار بتصدير السيارات من أربعة أعلام (البند 6: نظام الدعم) | مكتبة السياسات العامة لمجلس الدولة | CN/ Global | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | مفقود | توقع السياسات العامة على الدعم المشترك لما بعد البيع/الجزأين/التقنيين |
+| نفس الإشعار (نظام الدعم) | Ministry of Commerce | CN/ Global | http://www.mofcom.gov.cn/zcfb/dwmygl/art/2025/art_543d1fcc6a1048d5bf301a8d59ed723e.html | 2026-09-03 | مفقود | النص النظير للبعثة |
+| كيف يمكن لصانعي السيارات الصينيين أن يغلقوا الفجوة فيما وراء البحار | Sina Finance | Global | https://finance.sina.com.cn/esg/2026-04-27/doc-inhvxpih9178870.shtml | 2026-09-03 | SINGLE OURCE | مسار الشبكة المتعددة الفروع؛ ومثال على ذلك أجزاء الميلبورن؛ ومثال على ذلك 7-yr ضمان |
+| يجب أن تكون الأجزاء التي تسير على الصعيد العالمي منظمة | أخبار بيجين | Global | https://m.bjnews.com.cn/detail/1779683581168283.html | 2026-09-03 | صرخات | "المبيعات الثقيلة، الخدمة الخفيفة" ضعف، خطر الوفد |
+* ملاحظة: توقعات السياسة العامة رسمية؛ ونماذج الشبكة وأصناف المستودعات/الاحتياطات في أستراليا هي أمثلة لصناعة واحدة تستخدم على سبيل التوضيح، لا تقدم كمقاييس عالمية. ويتناول هذا الدليل عملية الخدمات ويظل متميزا عن مجموعة المشتريات من جانب قطع الغيار. ♪
 
-| Provisions on Liability for Repair/Replacement/Return of Household Auto Products (SAMR Order No.43) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_6be7658b4a754005b6c6c25f137076ee.html | 2026-09-05 | VERIFIED | Domestic warranty (san-bao) baseline that overseas after-sales terms must be distinguished from |
-| China Council for the Promotion of International Trade (trade-service network) | CCPIT | CN/INTL | http://www.ccpit.org/ | 2026-09-05 | VERIFIED | Institutional channels supporting overseas service-network build-out |
+| أحكام بشأن المسؤولية عن إصلاح/استبدال/إعادة إنتاج السيارات المملوكة للأسر المعيشية (أمر الرابطة رقم 43) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_6be7658b4a754005b6c6c25f137076ee.html | 2026-09-05 | مفقود | خط الأساس (سان - باو) للضمانات المحلية الذي يجب التمييز بين شروط ما بعد البيع |
+| المجلس الصيني لتعزيز التجارة الدولية (شبكة الخدمات التجارية) | CCPIT | CN/INTL | http://www.ccpit.org/ | 2026-09-05 | مفقود | القنوات المؤسسية التي تدعم بناء شبكة الخدمات في الخارج |
 
-## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market / scope**: Global after-sales operations (distinct from parts procurement)
-- **Verification method**: Official policy + industry analysis; company examples labelled illustrative; scope boundary enforced
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+## استعراض التحرير
+- ** مستعرض/مراجع**: [فريق تحرير تصدير أوتو بريدج] (/مؤلف/) - طريقة لكل [سياستنا الانتخابية] (/سياسة التحرير/)
+- ** لم يُستعرض بعد**: 2026-09-05
+- ** سوق الإحالة/الحجم**: العمليات العالمية اللاحقة للبيع (مميزة من مشتريات الأجزاء)
+- ** طريقة التأهيل**: تحليل السياسات الرسمية + الصناعة؛ أمثلة الشركات التي تحمل علامة توضيحية؛ نطاق الحدود المنفَّذة
+- ** المعيار الإفريقي**: باحثة ومحررة من المصادر المذكورة أعلاه (بحوث مكتبية؛ ولا يُدَّعى عن أي قيادة مباشرة أو تمزق أو استيراد). وتظهر الثقة في المصدر في الصف الواحد؛ وأي نقطة لا يمكننا تأكيدها بشكل مستقل تعرض كبند تحقق بدلا من التأكيد على أنها حقيقة.
 #AutoBridge #AfterSalesNetwork #PartsSupply #Warranty #OverseasService

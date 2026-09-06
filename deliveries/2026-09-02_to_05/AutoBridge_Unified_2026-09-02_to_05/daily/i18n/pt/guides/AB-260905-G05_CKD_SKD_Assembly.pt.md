@@ -3,7 +3,7 @@
 ## SEO Meta- dados
 - ** Título SEO**: KKD/SKD Knockdown Kit Export e Overseas Assembly: Classificação e Conformidade
 - ** Descrição do Meta**: Como funciona o kit de exportação de veículos CKD/SKD: classificação construída no Sistema Harmonizado, por que o tratamento de tarifa de destino/montagem local é específico do país, e o que um exportador chinês deve verificar antes de kits de transporte.
-- ** H1 **: KKD/SKD Knockdown Export and Overseas Assembly — Model, Classification and Compliance
+- ** H1 **: CKD/SKD Knockdown Export and Overseas Assembly — Model, Classification and Compliance
 - **Chave Primária**: conjunto de exportação de kit de knockdown ckd skd
 - ** Termos de pesquisa secundários**: exportação de SKD para CKD; kit de nocaute; montagem no exterior; GRI 2 (a) não montado; tarifa local de montagem
 - ** URL sugerido**: /guides/ckd-skd- knockdown- kit- export- assembly/
@@ -15,7 +15,7 @@
 A **SKD (semi-knocked-down)** kit ships parcialmente montados módulos; um **KKD (completamente-knocked-down)** kit ships um conjunto mais completo de componentes para montagem local. Ambos substituem uma exportação de veículos acabados por um modelo de peças e montagem, geralmente para atender à política de montagem local de destino. O recurso comercial é real, mas o resultado jurídico/tariff é decidido pela autoridade aduaneira **destino**, não pelo exportador chinês que rotule uma remessa "CKD".
 
 ## Base de classificação que o exportador pode controlar
-No lado da exportação da China, a classificação é construída sobre o sistema **Harmonized System / importação-taxa de exportação** e o mecanismo de classificação-decisão aduaneira (WCO mantém o HS, ligado abaixo). Se um conjunto não montado/desmontado é classificado como o artigo, ele se tornará ligado às regras gerais de interpretação e às linhas e regras tarifárias específicas — ** este guia não indica GRI 2 (a) como uma conclusão legal estabelecida para kits, porque uma decisão primária WCO/customs para o kit exato não é capturado aqui**. Classificar cada linha de kit por linha e, onde o material, procurar uma decisão de classificação vinculativa.
+No lado da exportação da China, a classificação é construída sobre o sistema **Harmonized System / importação-taxa de exportação** e o mecanismo de classificação-decisão aduaneira (WCO mantém o HS, ligado abaixo). Se um conjunto não montado/desmontado é classificado como o artigo que se tornará ligado às regras gerais de interpretação e às linhas e regras tarifárias específicas — ** este guia não indica GRI 2 (a) como uma conclusão legal estabelecida para kits porque uma decisão primária WCO/customs para o kit exato não é capturado aqui**. Classificar cada linha de kit por linha e, onde o material, procurar uma decisão de classificação vinculativa.
 
 ## O lado de destino é a questão específica do país que controla
 Se um kit se qualifica para um tratamento pautal mais baixo "conjunto local", um rácio de conteúdo local exigido, ou um incentivo ao investimento é decidido pelas autoridades aduaneiras, fiscais e de investimento do país de destino**. As regras relativas à exportação e as páginas Web comerciais da China não podem estabelecer esse resultado. Um destino diferente pode chegar a um resultado diferente para um kit idêntico, e tratar as peças não montadas como um veículo inteiro para serviço (ou vice-versa) deve ser evidenciado pela autoridade desse país.
@@ -41,15 +41,17 @@ Esta página **não ** reivindica intencionalmente uma definição universal de 
 ## Fontes e Verificação
 | Origem | Organização | Mercado | Nível | Confiança | URL | Factos corroborados |
 |---|---|---|---|---|---|---|
-| 中华人民共和国海关进出口货物商品归类管理规定 | 中国政府网 | NC | T1 | VERIFICADO | https://www.gov.cn/zhengce/2021-09/06/content_5723370.htm | 归类以协调制度/进出口税则为基础, 归类裁定与决定 |
-| 汽车CKD散件出口原产地证填制（行业流程，T4仅线索） | 顺企网 | NC | T4 | UNVERIFIED | https://m.11467.com/product/d53830031.htm | 成套散件清单/HS逐项整理流程线索 |
-| 成套散件(SKD/CKD)进口申请表说明（反向参考，T4） | 顺企网 | NC | T4 | UNVERIFIED | https://m.11467.com/product/d14729353.htm | 成套散件申报要素线索 |
+| 中华人民共和国海关进出口货物商品归类管理规定 | 中国政府网 | NC | T1 | VERIFICADO | https://www.gov.cn/zhengce/2021-09/06/content_5723370.htm | 归类以协调制度 / 进出口税则为基础, 归类裁定与决定 |
+| 汽车 DRC 散件出口原产地证填制 (行业流程, T4 仅线索) | 顺企网 | NC | T4 | UNVERIFIED | https://m.11467.com/product/d53830031.htm | 成套散件清单 /HS 逐项整理流程线索 |
+| 成套散件 (SKD/CKD) 进口申请表说明 (反向参考, T4) | 顺企网 | NC | T4 | UNVERIFIED | https://m.11467.com/product/d14729353.htm | 成套散件申报要素线索 |
 | Nomenclatura do Sistema Harmonizado (WCO) | Organização Mundial das Alfândegas | NC | T1 | VERIFICADO | https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools/hs-nomenclature-2022-edition.aspx | A nomenclatura SH é a base de classificação mantida pela WCO |
 | WCO Instrumentos e ferramentas de origem | Organização Mundial das Alfândegas | NC | T1 | VERIFICADO | https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx | Regras de origem e instrumentos mantidos pela WCO |
+| Acordo da OMC sobre a Valorização Aduaneira | Organização Mundial do Comércio | INT | T1/T2 | VERIFICADO | https://www.wto.org/english/tratop_e/valuation_e/valuation_e.htm | Quadro de avaliação aduaneira relevante quando os kits de demolição e as unidades montadas são avaliados de forma diferente; não define, em si, as tarifas de montagem de destino |
+| WCO Nomenclatura SH — Instrumentos de classificação (GRI) | Organização Mundial das Alfândegas | INT | T1/T2 | VERIFICADO | https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools.aspx | Regras gerais de interpretação (incluindo GRI 2 a)) regem a classificação de mercadorias não montadas/desmontadas; página profunda |
 ## Revisão Editorial
 - **Autor**: AutoBridge Export Editorial Team · [autores](/autores/) · [Política editorial](/política editorial/)
 - ** Última revisão**: 2026-09-05
-- **Mercado de referência**: CN出口侧框架+目的国（目的国税率须另核）
+- **Mercado de referência**: CN 出口侧框架 + 目的国 (目的国税率须另核)
 - ** Método de verificação**: Investigação de escritório contra as fontes abaixo indicadas; especificação de referência do mercado chinês apenas se for explicitamente citado um mercado de exportação separado.
 - ** Transparência**: Foi utilizada a elaboração assistida por IA. Este artigo é baseado em pesquisa documental e QA automatizado. Não é exigido qualquer ensaio em primeira mão, a menos que explicitamente documentado; confirmar os requisitos sensíveis ao tempo e específicos do destino antes de proceder à sua transformação.
 
@@ -57,12 +59,15 @@ Esta página **não ** reivindica intencionalmente uma definição universal de 
 - **IMAGE_ASSET_PATH**: nenhum protegido no repositório
 - ** ORIGINAL_ IMAGE_ URL**: não capturado
 - ** ORIGINAL_ PAGE**: não capturado
+- **SOURCE_FILE_PAGE**: não aplicável — nenhum arquivo de mídia candidato identificado (sem licença para afirmar)
 - **RIGHTS_ HOLDER**: não confirmado
 - **LICENSE_OR_USAGE_BASIS**: nenhuma protegida — A presença na página web do OEM não é uma licença de reutilização comercial
-- **CHECKED_DATE**: 2026-09-05
+- **CHECKED_DATE**: 2026-09-06
 - **MODEL_TOPIC_ MATCH**: exatamente KKD/SKD Knockdown Export and Overseas Assembly
+- **IMAGE_SCOPE_NOTE**: a imagem deve corresponder apenas à família/tópico do modelo exato; não deve implicar uma guarnição específica, ano do modelo, VIN real, inspeção presencial ou uma transação real
 - **IMAGEM_RIGHTS_STATUS**: FALHA
-- **ALT (línguas 12)**:
+- **BLOCK_REASON**: Nenhuma imagem reutilizável poderia ser segura: Wikimedia Commons/Flickr são inalcançáveis a partir do ambiente de pesquisa, bibliotecas de estoque requerem acesso autenticado API/licença, e uma imagem de página web OEM NÃO é uma concessão de reutilização comercial. Nenhuma foto do AutoBridge existe. O registro manteve FALHA em vez de afirmar.
+- **ALT (12 línguas)**:
   - **EN**: CKD SKD knockdown, Chinese-market procurement guide export buyer reference
   - **FR**: CKD SKD knockdown, procurement guide du marché chinois, référence acheteur export
   - **DE**: CKD SKD knockdown, Chinesischer procurement guide, Referenz für Exportkäufer

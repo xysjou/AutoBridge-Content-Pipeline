@@ -3,7 +3,7 @@
 - ** Título SEO**: Guia de configuração de rede de pós-venda, peças e garantia
 - ** Descrição do Meta**: Como um exportador de veículos constrói pós-vendas no exterior viável — modelos de rede compatíveis com base instalada, estoque de peças regionais, promessas de garantia correspondem à capacidade de serviço real, e a expectativa política da China por trás disso.
 - ** URL sugerido**: /guides/overseas-aftersales-parts-garantia-rede/
-- ** H1 **: Construção de pós-vendas no exterior, peças sobressalentes e garantia de capacidade para veículos exportados
+- ** H1 **: Construção de pós-vendas, peças sobressalentes e capacidade de garantia para veículos exportados
 - **Primary Keyword**: exportador de instalação de rede de peças pós-vendas
 - ** Termos de pesquisa secundários**: rede de serviços exportadora no exterior, armazém de peças regionais, política de garantia de veículos no exterior, rede de reparos multi-marca independente, suporte de vendas pós-venda de revendedores
 - **As sugestões de ligação interna**: /guias/veículo-exportação-contrato-cláusulas de venda/; /guias/china-veículo-exportação-licença-documentos-costumais/; /guias/exportações-exportações-partes-garantia-rede/
@@ -34,7 +34,7 @@ Combine o modelo com **veículos em operação**, não com otimismo sobre as ven
 ## Alinhar a promessa de garantia com capacidade real
 Uma garantia só é credível na medida em que a rede a possa honrar:
 - Combine **duração/milhagem de garantia e exclusões** com o que as oficinas locais podem realmente servir e as peças podem realmente alcançar.
-- Exemplo da indústria (single-source, illustrative): uma garantia OEM 7-year/unlimited-km** oferecida na Austrália — credível apenas porque uma rede de peças e serviços o apoia; oferecendo termos semelhantes sem essa rede cria responsabilidade que você não pode cumprir.
+- Exemplo industrial (single-source, illustrative): uma garantia ** 7-year/unlimited-km OEM** oferecida na Austrália — credível apenas porque uma rede de serviços e peças o apoia; oferecendo termos semelhantes sem essa rede cria responsabilidade que você não pode cumprir.
 - Defina o fluxo de trabalho **claim, quem paga frete/trabalho, limites de goodwill**, e como as reivindicações específicas de bateria/EV (que precisam de capacidade especializada) são tratadas.
 
 ## O que este guia recomenda que você coloque no lugar
@@ -55,11 +55,14 @@ Uma garantia só é credível na medida em que a rede a possa honrar:
 - IMAGEM_ASSET_PATH: nenhum protegido no repositório
 - ORIGINAL_ IMAGE_ URL: não capturado
 - ORIGINAL_PAGE: não capturado
+- ORIGINAL_FILE_PAGE: não aplicável — nenhum ficheiro de mídia candidato identificado (sem licença para afirmar)
 - DIREITOS_OLDER: não confirmado
 - LICENSE_OR_USAGE_BASIS: nenhuma imagem segura — nenhuma imagem de terceiros pode ser publicada até que os direitos sejam compensados
-- Data_ Marcada: 2026-09-05
+- Data_ Marcada: 2026-09-06
 - MODEL_TOPIC_ MATCH: deve corresponder ao modelo/versão exato (ou ao tópico guia) e ao mercado de referência acima
+- IMAGEM_SCOPE_NOTE: corresponde à família/tópico do modelo exato; não deve implicar uma aparação/modelo-ano específico, VIN real, inspeção em pessoa ou transação real
 - IMAGEM_RIGHTS_STATUS: FALHA (não é aceita nenhuma propriedade licenciada capturada; uma nota de placeholder ou “reter imagem antiga”)
+- BLOCK_REASON: Nenhuma imagem reutilizável pode ser segura: Wikimedia Commons/Flickr são inalcançáveis do ambiente de pesquisa, bibliotecas de estoque requerem acesso autenticado API/licença, e uma imagem de página web OEM NÃO é uma concessão de reutilização comercial; nenhuma foto de propriedade da AutoBridge existe. Mantive-me em vez de afirmar.
 - ALT por língua:
   - **EN**: AutoBridge export-buyer reference — Overseas after-sales parts and warranty network, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Overseas after-sales parts and warranty network, guide d’achat à l’export automobile
@@ -77,13 +80,13 @@ Uma garantia só é credível na medida em que a rede a possa honrar:
 ## Fontes e Verificação
 | Título do código fonte | Organização | Mercado | URL | Verificado | Confiança | Factos corroborados |
 |---|---|---|---|---|---|---|
-| Aviso de exportação de carro usado de quatro minutos (item 6: sistema de suporte) | Biblioteca de políticas do Conselho de Estado | NC / Global | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | VERIFICADO | Expectativa política de apoio pós-venda/partes/tecnologia |
+| Aviso de exportação de quatro ministérios usados para automóveis (item 6: sistema de suporte) | Biblioteca de políticas do Conselho de Estado | NC / Global | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | VERIFICADO | Expectativa política de apoio pós-venda/partes/tecnologia |
 | Mesmo aviso (sistema de suporte) | Ministério do Comércio | NC / Global | http://www.mofcom.gov.cn/zcfb/dwmygl/art/2025/art_543d1fcc6a1048d5bf301a8d59ed723e.html | 2026-09-03 | VERIFICADO | Texto de contrapartida MOFCOM |
-| Como as montadoras chinesas podem fechar o gap pós-venda no exterior | Sina Finance | Global | https://finance.sina.com.cn/esg/2026-04-27/doc-inhvxpih9178870.shtml | 2026-09-03 | FONTE ÚNICA | Caminho de rede multimarca; exemplo de peças de Melbourne; exemplo de garantia 7-yr |
+| Como as montadoras chinesas podem fechar o gap pós-venda no exterior | Sina Finance | Global | https://finance.sina.com.cn/esg/2026-04-27/doc-inhvxpih9178870.shtml | 2026-09-03 | FONTE ÚNICA | Caminho de rede multimarca; exemplo de peças de Melbourne; exemplo de garantia de 7-yr |
 | As peças que vão a nível global devem ser sistematizadas | Beijing News | Global | https://m.bjnews.com.cn/detail/1779683581168283.html | 2026-09-03 | CROSS_CHECKED | Fraqueza das vendas pesadas, serviço leve; risco de delegação |
 * Nota de escopo: a expectativa política é oficial; modelos de rede e os itens de garantia da Austrália são exemplos de indústria de uma única empresa utilizados ilustrativamente, não apresentados como padrões universais. Este guia aborda a operação de serviço e é mantido distinto do cluster de compras de peças de reposição. *
 
-| Provisões sobre Responsabilidade para Reparo/Reposição/Retorno de Produtos Domésticos Auto (SAMR número de ordem 43) | SARR, Administração do Estado para a regulação do mercado | NC | https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_6be7658b4a754005b6c6c25f137076ee.html | 2026-09-05 | VERIFICADO | Garantia interna (san-bao) linha de base que os termos pós-venda no estrangeiro devem ser distinguidos de |
+| Disposições sobre Responsabilidade para Reparação/Substituição/Retorno de Produtos Domésticos Auto (SAMR No. de Ordem 43) | SARR, Administração do Estado para a regulação do mercado | NC | https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_6be7658b4a754005b6c6c25f137076ee.html | 2026-09-05 | VERIFICADO | Garantia interna (san-bao) linha de base que os termos pós-venda no estrangeiro devem ser distinguidos de |
 | Conselho da China para a Promoção do Comércio Internacional (rede de serviços comerciais) | CCPIT | NC/INT'L | http://www.ccpit.org/ | 2026-09-05 | VERIFICADO | Canais institucionais que apoiam a construção de redes de serviços no estrangeiro |
 
 ## Revisão Editorial

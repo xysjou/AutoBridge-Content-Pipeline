@@ -1,65 +1,68 @@
-# Specifying Vehicles for Gulf Heat and Dust: Points to Evaluate With the OEM or Upfitter
+# تحديد المركبات لبطاقة وغطاء الخليج: نقاط لتقييم حركة أو مُعلّق
 ## SEO Metadata
-- **SEO Title**: Middle East/GCC Heat & Dust Vehicle Adaptation Buyer Guide
-- **Meta Description**: What to evaluate with the OEM/upfitter before sending a China-spec vehicle into Gulf heat and dust — ICE cooling/charging/AC and wiring candidates, EV thermal-management options, and the separate GCC/GSO conformity track.
-- **Suggested URL**: /guides/middle-east-heat-dust-vehicle-adaptation/
-- ** H1 **: Adapting China-Spec Vehicles for Gulf Heat and Dust: Evaluation Points (ICE, EV, Compliance)
-- **Primary Keyword**: middle east gcc heat dust vehicle adaptation spec
-- **Secondary Search Terms**: GCC high temperature vehicle spec, desert dust sealing car, EV battery thermal management hot climate, Middle East AC cooling upgrade, GSO vehicle conformity heat
+- ** عنوان الحلقة**: الشرق الأوسط/مجلس التنسيق دليل شراء معدات التكيّف مع المركبات
+- ** وصف البيانات**: ما ينبغي تقييمه مع منظمة أوم/مراقبة المركبات قبل إرسال مركبة من نوع الصين إلى حرارة وغبار الخليج - أي التبريد/الشحن/الاستعراض والمرشحين للأسلاك، وخيارات الإدارة الحرارية للشبكة، وتتبع التوافق بين مجلس التعاون الخليجي/منظمة رصد الأرض.
+- ** اقتراح مقدم من الاتحاد الأوروبي**: /إرشاد/إحداثيات متوسطة - شرقية - مجرى المحركات/التوفيق
+- ** H1 **** تكييف مركبات الصين - الصوتية لخليج الهات والدغب: نقاط التقييم (المكتب، التقييم، الامتثال)
+- ** كلمة رئيسية**: مطياف تطويع مركبات التراب الحراري في الشرق الأوسط
+- ** محطات البحث الثانية**: مطياف درجة حرارة عالية لدى مجلس التعاون الخليجي، سيارة ختم الغبار الصحراوي، ومناخ ساخن للإدارة الحرارية للبطارية، ورفع مستوى التبريد في الشرق الأوسط، ودرجة تطابق المركبات مع النظام العالمي لتحديد المواقع
 - ** Internal Link Suggestions**: /guides/vehicle-coc-approval-dosssier/;guides/uae-vehicle-imcle-import-registration-documents/; /vehicles/li-auto- l6/
-- **Image Suggestions**: heat-load systems diagram (ICE vs EV); dust-ingress points; radiator/AC condenser; battery thermal-management loop
-- **ALT Suggestions**: "ICE versus EV heat adaptation evaluation points"; "Gulf dust ingress protection points"
+- ** اقتراحات تتعلق بالأشعة**: مخطط نظم الحمولة الحرارية؛ نقاط أشعة الغبار؛ مبردات/مكثفات؛ حلقة إدارة البطاريات الحرارية
+- ** اقتراحات بشأن: "الأفضل مقابل نقاط تقييم التكيف مع الحرارة في الغلاف الجوي، و"غبار الغولف في نقاط الحماية"
 
-## Evidence Boundary
-Two evidence layers are kept separate. The **conformity track now rests on primary sources** — the GCC Standardization Organization (GSO) framework, applied nationally by Saudi Arabia through SASO/SABER and by the UAE through MoIAT (ECAS) — and is cited in Sources. The **engineering adaptation items** below (cooling, charging, AC, sealing and EV thermal candidates) still each rest on a single upfit/engineering or industry source and remain SINGLE_SOURCE evaluation points, not Gulf legal requirements. There is no single uniform "Gulf spec": confirm every item with the OEM/upfitter for the model and operating envelope, and against the **destination country's own** application of the GSO text (Saudi and UAE routes differ and are shown separately below).
+## أدلة
+الطبقة الادلة منفصلة ويرتكز مسار المطابقة الآن على المصادر الرئيسية** - إطار منظمة توحيد المعايير التابعة لمجلس التعاون الخليجي، الذي تطبقه المملكة العربية السعودية على الصعيد الوطني من خلال منظمة جنوب السودان/مركز تنسيق الموارد الطبيعية، ومن خلال وزارة التجارة والبيئة والتنمية (وزارة التجارة الدولية) - ويستشهد به في المصادر. (أ) لا تزال بنود التكيف المُحرّكة** أدناه (التعريف، والشحن، والشحن، والاختتام، والمرشحين الحراريين للمركبات) قائمة على مصدر وحيد من مصادر المذيبات/المهندسين أو الصناعة، ولا تزال قائمة على الـ (SingLE_). نقاط تقييم الموارد، وليس المتطلبات القانونية في الخليج. لا يوجد زي واحد "مطياف الكبريت" يؤكد كل شيء مع "أوم إيه" و "أوم بي آي" لنموذج و ظرف التشغيل و ضد تطبيق البلد المُقدّم** الخاص بنص "جي إس إس إس" (طريقي "سودي" و "يو أي" يختلف ويظهر بشكل منفصل أدناه
 
-## Why a China-Spec Car Is Not Automatically Gulf-Ready
-A vehicle tuned for temperate Chinese conditions meets a different thermal and dust load in the Gulf. One upfit source describes Gulf summer ambient around **40–50 °C**, winters near 20 °C, with frequent **dust and high humidity** (single-source). Sustained high ambient can raise coolant/intake temperatures, put air-conditioning on near-continuous duty, drive fine dust into electrical and sensor housings, and — for EVs — stress the battery's thermal envelope. Whether a given China-spec build already covers that envelope is a model-specific engineering question, not an assumption.
+## لماذا سيارة صينية - سبيك ليست ذاتية الخليج
+وتتحمل مركبة مصممة لظروف صينية معتدلة حرارية مختلفة وحمولة غبار في الخليج. One upfit source describes Gulf summer ambient around **40–50 °C**, الشتاء يقترب من 20 °C مع كثرة **دستور  and  الرطوبة العالية** (المصدر الوحيد). ويمكن للمحيط العالي المطهول أن يزيد درجة الحرارة المبردة/المتحصلة، ويضع تكييف الهواء في الخدمة القريبة من الاستمرار، ويقود الغبار الغرامي إلى مساكن كهربائية ومستشعرة، ويضغط على المظروف الحراري للبطارية. وسواء كان بناء الصين سيك يغطي بالفعل ذلك المغلف هو مسألة هندسية خاصة بنموذج معين، وليس افتراضا.
 
-## ICE Vehicles: Candidate Points to Evaluate (not a mandatory kit)
-A single upfit source raises the following as candidates; each should be discussed with the OEM/upfitter and validated against the model's existing design rather than treated as a required Gulf standard:
-- **Cooling capacity** — whether the radiator/fan combination is adequate for low-speed, high-load hot operation; evaluate, don't assume enlargement is required.
-- **Electrical supply** — whether continuous AC/fan duty justifies a different alternator/battery rating; evaluate against the actual electrical load.
-- **Air conditioning** — cooling capacity at peak ambient; whether a heater core is retained is a build decision, not something to remove by default.
-- **Wiring/connectors** — heat-resistance and dust-sealing ratings where the application warrants it.
-- **Filtration** — engine/cabin filtration and shortened service intervals for dusty operation.
-These are **evaluation points**, not automatic changes and not a universal Gulf adaptation requirement; a well-specced China build may already satisfy some of them.
+## ICE المركبات: نقاط الترشيح لتقييم (ليس مجموعة إلزامية)
+مصدر واحد للرسوم يرفع ما يلي كمرشحين، كل واحد يجب أن يناقش مع مُنظمة الطراز و يُثبت على تصميم النموذج الحالي بدلاً من أن يُعامل على أنه معيار الخليج المطلوب:
+- ** القدرة على تجميع البيانات** - سواء كانت تركيبة المبرد/الفان كافية لعملية ساخنة منخفضة السرعة وشديدة الرفع؛ تقييم، لا تفترض التوسيع مطلوب.
+- ** إمدادات كهربائية** - ما إذا كان استمرار واجب التكييف/الخدمة يبرر تصنيفا مختلفا للمتناوبين/البطارية؛ تقييم مقابل الحمولة الكهربائية الفعلية.
+- ** التكيف** - قدرة التبريد في ذروة المحيط؛ وما إذا كان هناك احتفاظ بقاعدة الحرارة هو قرار بناء، وليس شيئاً يزيله من التخلف.
+- ** الوارث/الوصلات** - تقييم مقاومة الحرارة وغطاء الغبار حيث يتطلب الطلب ذلك.
+- ** التمويل** - تلفيق المحركات/المجمعات وفترات خدمة مختصرة للعمليات الغبارية.
+وهذه النقاط هي ** نقاط التقييم**، وليس التغييرات التلقائية، وليس شرطاً عالمياً للتكيف مع الخليج؛ وقد يكون بناء الصين الذي يُعَدَّد جيداً قد يفي ببعضها بالفعل.
 
 ## EV / Hybrid: Thermal-Management Options to Evaluate
-For electrified vehicles the battery is the heat-sensitive system. One engineering source discusses **liquid thermal management with cell-temperature equalisation** and notes that air-cooled packs can be more vulnerable under sustained high temperature (single-source). The correct reading for procurement:
-- **Ask the OEM for thermal data** comparing its cooling approach against the target envelope; **liquid cooling is one option to evaluate — do not reject air cooling categorically, and do not assume liquid cooling is mandatory**, absent an OEM/engineering-standard basis for that model.
-- Discuss **BMS high-temperature strategy** — derating, charge-current limits, thermal warnings.
-- Evaluate **hot-climate DC fast-charge behaviour, cabin pre-cooling**, and connector/onboard-charger tolerance of hot, dusty operation.
-- A Chinese policy reference cites a battery-environment **target of −30 °C to 55 °C** (single-source) — a design target only, not a Gulf legal threshold.
+بالنسبة للمركبات الكهربية، البطارية هي النظام المُراعي للحرارة. ويناقش أحد المصادر الهندسية إدارة حراريات السائلة ** مع تحقيق التكافؤ في درجات الحرارة الخلوية**، ويلاحظ أن الحزم المكعبة بالهواء يمكن أن تكون أكثر ضعفاً تحت درجة الحرارة العالية المستدامة (المصدر الوحيد). القراءة الصحيحة للمشتريات:
+- ** يُطلب إلى مكتب مراقبة الأوزون الحصول على بيانات حرارية** مقارنة نهجه في التبريد مع المظروف المستهدف؛ ** إن التبريد السائل هو أحد الخيارات لتقييمه - ولا يرفض التبريد الجوي بشكل قاطع، ولا يفترض أن التبريد السائل إلزامي**، دون وجود أساس معياري من نوع OEM/engineering لهذا النموذج.
+- مناقشة ** استراتيجية عالية التمرين** - حدود التفرغ، التحذيرات الحرارية.
+- تقييم: ** هوت - كليميت DC fast-charge behaviour, cabin pre-cooling**, and connector/onboard-charger tolerance of hot, dusty operation.
+- A Chinese policy reference cites a bat-environment **target of − 30 °C to 55 °C ** (single-source) - a design target only, not a Gulf legal threshold.
 
-## Compliance Runs in Parallel With Engineering
-Adaptation does not replace market access: the vehicle and any changed components (**harnesses, sensors, ADAS units**) still have to satisfy **GCC/GSO conformity**, and changed parts should carry the appropriate certification. Engineering evaluation and homologation must converge on the same VIN/configuration — an upfitted part that voids conformity is a net loss.
+## عمليات الامتثال في المبارايل مع الهندسة
+ولا يحل التكيف محل الوصول إلى الأسواق: فالمركبات وأي مكونات متغيرة (الغرائب، والمجسات، ووحدات الـ دياس**) لا تزال بحاجة إلى الوفاء** بتطابق الوثيقة GSOC/GSO**، وينبغي أن تحمل الأجزاء المتغيرة التصديق المناسب. ويجب أن يلتقي التقييم الهندسي والتنويم على نفس الشبكة/التجمع - وهو جزء مستوفى يبطل المطابقة هو خسارة صافية.
 
-**Apply the GSO framework country by country (COUNTRY_SPECIFIC).** In **Saudi Arabia**, type approval and shipment conformity run through SASO and the SABER platform (PCoC/SCoC logic, exact certificate type by HS and vehicle category). In the **UAE**, regulated-product conformity certificates are issued by MoIAT (the ECAS successor), with registration completed at emirate level. **GSO harmonises the technical regulations, but each member state applies them through its own body and timeline** — do not treat a Saudi certificate, an Emirates registration, or a single GSO list as interchangeable proof for Kuwait, Oman, Qatar or Bahrain; verify the destination's current route separately.
+** يُقدَّم البلد المعني بإطار عمل الهيئة العالمية لمراقبة الأرض حسب البلد (الدولة الطرف - الخاصة)**. في ** المملكة العربية السعودية**، يجري نظام الموافقة على نوع ما وتطابق الشحن عبر نظام ساسو (SASO) ومنصة SABER (منطق لجنة البرنامج والتنسيق/لجنة التنسيق الخاصة، وشهادة دقيقة من نوع HS وفئة المركبات). وفي التقرير**، تصدر وزارة التجارة الدولية شهادات مطابقة المنتجات الخاضعة للتنظيم (خلف اللجنة الاقتصادية لأفريقيا)، مع إتمام عملية التسجيل على مستوى الهابط. ** ينسق المكتب الأنظمة التقنية، ولكن كل دولة عضو تطبقها من خلال جسدها والجدول الزمني** - لا تعامل شهادة سعودية أو تسجيل دولة الإمارات أو قائمة واحدة من نوع GSO كدليل قابل للتغيير بالنسبة للكويت وعمان وقطر والبحرين؛ وتتحقق من المسار الحالي للمقصد على حدة.
 
-## What This Guide Recommends You Raise With the OEM/Upfitter
-1. The **target operating envelope** (peak ambient, humidity, dust) for the route.
-2. **ICE candidates** — cooling, alternator/battery, AC, harness rating, filtration — as questions backed by the model's thermal data, not assumed upgrades.
-3. **EV** — ask for the thermal-management comparison and BMS hot-climate strategy; evaluate cooling approach on evidence rather than a blanket rule.
-4. **Dust sealing** for connectors/sensors/ADAS and a filter-maintenance plan.
-5. **GCC/GSO conformity** for whatever configuration results, citing the actual GSO standard text.
+## ما يوصي به هذا الدليل لك أن ترتفع مع OEM/Upfitter
+1. ظرف التشغيل المُستهدف** (المُحيطة، الرطوبة، الغبار) للطريق.
+2. مرشحو الايس كريم** التبريد، المتناوب/البطانة، AC، تسخر التصنيف، التصفية، كأسئلة تدعمها البيانات الحرارية للنموذج، لا تفترض رفع مستوى.
+3. ** EEV** - طلب المقارنة بين الإدارة الحرارية والاستراتيجية الساخنة للمنازل في إدارة المباني؛ وتقييم نهج التبريد بشأن الأدلة بدلا من قاعدة شاملة.
+4. ** يُغلق الباب** للوصلات/المجسات/الخدمات الإدارية، وخطة للحفاظ على المرشّح.
+5. ** تطابق لجنة التنسيق بين الموظفين والإدارة** فيما يتعلق بأي نتائج من نتائج التشكيل، مع الإشارة إلى النص الموحد الفعلي للمنظمة العالمية لتوحيد المقاييس.
 
-## Frequently Asked Questions
-**Does every China-spec car need a Gulf adaptation kit?** Not automatically — the items here are points to evaluate with the OEM/upfitter per model; some China builds already cover the envelope.
-**Is air cooling unacceptable for Gulf EVs?** Don't decide by rule of thumb — ask the OEM for thermal data for the target envelope; liquid cooling is an option to evaluate, not a stated universal requirement.
-**Is engineering adaptation the same as homologation?** No — adaptation is engineering evaluation; GCC/GSO conformity is a separate, mandatory workstream and both must match the same build.
-**What temperature should the vehicle handle?** One source describes ~40–50 °C Gulf summers; a Chinese policy reference cites a −30 to 55 °C design target — neither is a Gulf legal limit.
-**Where do I find the exact GSO heat/AC standards?** Start from the GSO technical-regulations list, then open the **destination country's** national route — SASO/SABER for Saudi Arabia, MoIAT for the UAE — because GSO text is applied nationally. This guide cites no specific heat/AC standard number it could not verify directly; the engineering candidates here still require OEM/upfitter confirmation.
+## الأسئلة المتكررة
+** هل تحتاج كل سيارة من الصين إلى مجموعة من أدوات التكيف مع الخليج**؟ ولا يمكن تلقائياً أن تكون البنود هنا نقاطاً لتقييمها مع منظمة أوم إيه/مربيات لكل نموذج؛ فبعض الصين تبنى بالفعل غطاء المظروف.
+** هل التبريد الجوي غير مقبول لمركبات الخليج الإلكترونية؟** لا تقرري بقاعدة الإبهام اطلبي من مكتب الطوارئ أن يُعطي بيانات حرارية عن المظروف المستهدف
+** هل التكيف الهندسي مماثلاً للهوموجاً؟** لا - التكيف هو تقييم هندسي؛ وتطابق النظام العام العالمي لمراقبة الأرض مع النظام العالمي لمراقبة الأرض هو مسار عمل منفصل وإلزامي، ويجب أن يضاهي كلاهما نفس البناء.
+**What temperature should the vehicle handle?** One source describes ~40–50 °C Gulf summers; (أ) تشير إشارة إلى السياسة الصينية إلى هدف تصميم يتراوح بين 30 و55 °C - ولا يشكل حداً قانونياً للخليج.
+** أين أجد معايير الحرارة/الدرجة حرارة بالضبط؟** ابدأ من قائمة القواعد التقنية للشركة ثم افتح طريق البلد المُقدّم** ولا يشير هذا الدليل إلى رقم قياسي محدد للحرارة/الدرجة الأولى لا يمكنه التحقق منه مباشرة؛ ولا يزال المرشحون الهندسيون هنا بحاجة إلى تأكيد من جانب منظمة أوم/مقدمي خدمات.
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
+## سجل الصور
+- لم يُؤمن أي منها في مستودع
 - ORIGINAL: IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
+- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
+- الحقوق - حقوق غير مؤكدة
+- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
+- CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
+- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات ويكيميو/فلكر غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات المسبقة/الرخصة، وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
 - ALT by language:
   - **EN**: AutoBridge export-buyer reference — Gulf heat and dust vehicle specification, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Gulf heat and dust vehicle specification, guide d’achat à l’export automobile
@@ -74,23 +77,23 @@ Adaptation does not replace market access: the vehicle and any changed component
   - **AR**: مرجع AutoBridge لمشتري التصدير — Gulf heat and dust vehicle specification, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Gulf heat and dust vehicle specification, 汽车出口采购指南
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## المصدر: التحقق
+| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
-| GCC high-temp/dusty-vehicle adaptation upfit | Certification/upfit provider | Gulf | https://m.11467.com/product/d15654879.htm | 2026-09-03 | SINGLE OURCE | Climate range; ICE candidate adaptation points (one source) |
-| All-climate NEV (high-temp liquid cooling / low-temp self-heating) | Engineering in China / Toutiao | Global | http://m.toutiao.com/group/6868212100762698247/ | 2026-09-03 | SINGLE OURCE | Liquid vs air thermal-management discussion (one source) |
-| Battery high/low-temperature performance (−30~55 target) | D1EV / Toutiao | CN | http://m.toutiao.com/group/6396788247036428802/ | 2026-09-03 | SINGLE OURCE | −30 to 55 °C policy design target (one source) |
-| 2026 Jeddah auto-parts fair (heat/dust parts, BMS) | Sohu | Saudi | https://m.sohu.com/a/1056965136_122956666/ | 2026-09-03 | SINGLE OURCE | Heat/dust-resistant components; GCC compliance note (one source) |
-*Evidence ceiling: every adaptation fact rests on a single source (all SINGLE_SOURCE); no GSO primary standard or OEM engineering spec was captured. Items are framed as evaluation points for the OEM/upfitter, not universal Gulf requirements; no legal threshold or mandatory configuration is asserted.*
+| م تكيف سريع/مؤقت | مقدم خدمات التصديق/الاستحقاق | الخليج | https://m.11467.com/product/d15654879.htm | 2026-09-03 | SINGLE OURCE | Climate range; ICE candidate adaptation points (one source) |
+| شبكة تلفزيونية شاملة (تبريد سائل عالي التمثيل/تدفئة ذاتية منخفضة التأقلم) | الهندسة في الصين/توتوياو | Global | http://m.toutiao.com/group/6868212100762698247/ | 2026-09-03 | SINGLE OURCE | سائل ضد مناقشة إدارة حرارية جوية (مصدر واحد) |
+| أداء البطارية العالي/المتوسط (الهدف 30 - 55) | D1EV / Toutiao | CN | http://m.toutiao.com/group/6396788247036428802/ | 2026-09-03 | SINGLE OURCE | - 30 إلى 55 °C هدف تصميم السياسات (مصدر واحد) |
+| 2026 معرض الجداة للسيارات (قطع حرارة/قطع دوارة، BMS) | Sohu | المملكة العربية السعودية | https://m.sohu.com/a/1056965136_122956666/ | 2026-09-03 | SINGLE OURCE | عناصر مقاومة للدروع/الدفاع؛ مذكرة امتثال مجلس التعاون الخليجي (مصدر واحد) |
+* حد أقصى للدليل: كل حقائق تكيف تستند إلى مصدر واحد (جميعها من مصادر الطاقة)؛ ولم يتم تسجيل أي معيار أساسي للبدلات العامة أو عينات هندسية من نوع أوم. وتُصاغ البنود كمراكز تقييم لمنظمة الدول الأعضاء/المصدر، لا لمتطلبات الخليج الشاملة؛ ولا يوجد حد قانوني أو تشكيل إلزامي. ♪
 
-| GCC motor-vehicle technical regulations list | GCC Standardization Organization (GSO) | GCC | https://www.gso.org.sa/ | 2026-09-05 | VERIFIED | GCC-wide vehicle technical regulations, incl. climate/emission timelines (country application varies) |
-| Saudi standards and conformity (SASO / Saleem) | Saudi Standards, Metrology and Quality Org. (SASO) | SA | https://www.saso.gov.sa/en/Pages/default.aspx | 2026-09-05 | VERIFIED | Saudi-specific standards and conformity scope |
-| Issue conformity certificates for regulated products (incl. vehicles/parts) | UAE Ministry of Industry and Advanced Technology (MoIAT) | UAE | https://www.moiat.gov.ae/en/services/issue-conformity-certificates-for-regulated-products | 2026-09-05 | VERIFIED | UAE-specific conformity route; heat/dust items confirmed per market, not assumed GCC-uniform |
+| قائمة الأنظمة التقنية الخاصة بالمركبات | منظمة توحيد المعايير التابعة لمجلس التعاون الخليجي | GCC | https://www.gso.org.sa/ | 2026-09-05 | مفقود | النظام التقني للمركبات على نطاق مجلس التعاون الخليجي، بما في ذلك الجداول الزمنية للمناخ/البعثة (يختلف تطبيق البلد) |
+| المعايير والتطابق السعودي (SASO / Saleem) | المعايير السعودية، المقاييس والجودة | SA | https://www.saso.gov.sa/en/Pages/default.aspx | 2026-09-05 | مفقود | المعايير السعودية الخاصة ونطاق المطابقة |
+| إصدار شهادات مطابقة للمنتجات الخاضعة للتنظيم (بما في ذلك المركبات/القطع) | UAE Ministry of Industry and Advanced Technology (MoIAT) | UAE | https://www.moiat.gov.ae/en/services/issue-conformity-certificates-for-regulated-products | 2026-09-05 | مفقود | طريق المطابقة الخاص بالجامعة؛ المواد الحرارية/الدوائرية التي تم تأكيدها في كل سوق، لم تفترض أن النظام الموحد للسوق |
 
-## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market / scope**: Gulf/Middle East engineering evaluation (not a legal standard summary)
-- **Verification method**: Single-source discipline per R4; no single upfit article upgraded to a general requirement
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+## استعراض التحرير
+- ** مستعرض/مراجع**: [فريق تحرير تصدير أوتو بريدج] (/مؤلف/) - طريقة لكل [سياستنا الانتخابية] (/سياسة التحرير/)
+- ** لم يُستعرض بعد**: 2026-09-05
+- ** سوق الإحالة/الحجم**: الخليج/الاجتماع التقييم الهندسي في شرق أفريقيا (وليس موجزا معياريا قانونيا)
+- ** طريقة التأهيل**: الانضباط من مصدر واحد لكل R4؛ لم تُرفع أي مادة مستوفية للاستحقاقات إلى شرط عام
+- ** المعيار الإفريقي**: باحثة ومحررة من المصادر المذكورة أعلاه (بحوث مكتبية؛ ولا يُدَّعى عن أي قيادة مباشرة أو تمزق أو استيراد). وتظهر الثقة في المصدر في الصف الواحد؛ وأي نقطة لا يمكننا تأكيدها بشكل مستقل تعرض كبند تحقق بدلا من التأكيد على أنها حقيقة.
 #AutoBridge #GulfSpec #HeatAndDust #GSO #VehicleAdaptation

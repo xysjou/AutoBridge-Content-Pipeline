@@ -4,7 +4,7 @@
 - ** Judul SEO ** Struktur Mengisi Laut Freight untuk Expor Kendaraan - O / F, THC, DOC, BAF Eksplained
 - ** Meta Description **: Memahami O / F, THC, DOC / SEAL / VGM, BAF dan surcharges, asal vs tujuan biaya, dan mengapa AMS / ACI / ACE biaya manifest adalah route- spesifik - panduan struktur yang sengaja menyatakan tidak ada jumlah tetap.
 - ** Sugesti URL **: / guide / ocean-freight- charge- struktur -trave- export-export
-- ** H1 **: Mengaktifkan sebuah KAPAL-Ekspor Quote Freight: Yang Charges Exist, Siapa Mengisi Mereka, dan Apa yang harus Verifikasi
+- ** H1 **: Mengarang sebuah Kendaraan - Ekspor Quote Freight: Yang Charges Exist, Siapa Mengisi Mereka, dan Apa yang harus Verifikasi
 - ** Primary Keyword **: transport struktur kendaraan muatan laut THC DOC BAF
 - ** Akhir Pencarian Second **: O / F angkutan laut, penanganan terminal biaya, Biaya dokumen DOC, biaya SEAL VGM, biaya tambahan BAF EBS, AMS ACI biaya manifest, dari awal vs tujuan
 - *** Internal Link Sugestions **: / guide / kendaraan-export -of -lading- types /; / guide / excelle- pd -pre- pengiriman -handover /; / guide / coolcle- exports -hs-klasifikasi /
@@ -52,11 +52,14 @@ Mengapa dua "rate sama" mengutip berbeda di tujuan? Biasanya tujuan biaya pengir
 - IMAGE _ ASSET _ PATH: tak ada yang aman di repositori
 - _ URL ORIGINAL _ IMAGE: tidak ditangkap
 - SUMBER _ PAGE: tidak ditangkap
+- SOURCE _ FILE _ PAGE: tidak dapat diterapkan - tidak ada berkas media kandidat diidentifikasi (tidak ada lisensi untuk menegaskan)
 - RIGHTS _ HOLDER: belum dikonfirmasi
 - LICENSE _ OR _ USAGE _ BASIS: tidak ada yang aman - tidak ada gambar pihak ketiga dapat diterbitkan sampai hak-hak dibersihkan
-- CHECTED _ DATE: 2026-09-05
+- CHECTED _ DATE: 2026-09-06
 - MODEL _ TOPIC _ MATCH: harus cocok dengan model / versi yang tepat (atau topik panduan) dan referensi pasar di atas
+- IMAGE _ SCOPE _ CATATAN: cocokkan model yang tepat dari keluarga / topik saja; jangan mengimplikasikan sebuah trim / model khusus / tahun, VIN, in- orang inspeksi atau transaksi aktual
 - IMAGE _ RIGHTS _ STATUS: FAIL (tidak ada aset berlisensi yang ditangkap; pemegang tempat atau catatan "mempertahankan gambar lama" tidak diterima)
+- BLOK _ REASON: Tidak ada gambar yang dapat digunakan kembali yang dapat diamankan: Wikimedia Commons / Flickr tidak dapat dihubungi oleh lingkungan penelitian, perpustakaan saham memerlukan akses API / license yang telah dikonfirmasi, dan gambar laman OEM bukanlah hibah reuse komersil; tidak ada foto AutoBridgeg yang dimiliki. Disimpan FAIL daripada menegaskan.
 - ALT dengan bahasa:
   - **EN**: AutoBridge export-buyer reference — Ocean freight quotation charge structure, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Ocean freight quotation charge structure, guide d’achat à l’export automobile
@@ -80,14 +83,14 @@ Mengapa dua "rate sama" mengutip berbeda di tujuan? Biasanya tujuan biaya pengir
 | Mula biaya FOB (THC / booking / trucking) | 11467 | CN | https://m.11467.com/product/d24491409.htm | 2026-09-04 | SINGLE _ SOURCE | Nama pengisian |
 * Ruang penyimpanan barang bukti: pemeriksaan struktur dari sumber industri (tidak ada sumber utama tariff resmi); AMS / ACI dibingkai sebagai panduan editorial-spesifik; semua jumlah sengaja dikecualikan sebagai waktu-sensitif. ♪
 
-| Incoterms 2020 rules (who arranges / pay transport at every term) | International Chamber of Commerce (ICC) | INT 'L | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/ | 2026-09-05 | TERBATAI | Yang mana barang / biaya jatuh ke pembeli vs penjual oleh Incotererm |
+| Incoterms 2020 rules (who arrange / pay transport at each term) | International Chamber of Commerce (ICC) | INT 'L | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/ | 2026-09-05 | TERBATAI | Yang mana barang / biaya jatuh ke pembeli vs penjual oleh Incotererm |
 | Freight- forwarder praktek dan kategori charge | FIATA | INT 'L | https://fiata.org/ | 2026-09-05 | TERBATAI | Kutipan Forwarder / referensi struktur charge- |
 | Konteks pengiriman dan muatan surcharge | Dewan Pengiriman Dunia | INT 'L | https://www.worldshipping.org/ | 2026-09-05 | TERBATAI | Konteks industri untuk muatan lautan dan muatan barang antik |
 | Cina Internasional Freight Forwarders Association | CIFA | CN / INT 'L | http://www.cifa.org.cn/ | 2026-09-05 | TERBATAI | Cina - sisi meneruskan industri dan praktek kutipan |
 
 ## Editorial Review
 - ** Penulis **: Tim Editorial Expor AutoBridge
-- 2026-09-05
+- ** Terakhir ditinjau **: 2026-09-05
 - ** Referensi pasar **: struktur angkutan laut internasional (tidak ada jumlah, tidak ada tariff lane- spesifik)
 - ** Metode Verifikasi **: Struktur dicentang; biaya manifest route- scoped; angka tetap nol ditetapkan asserted
 - ** Transparansi **: penggambaran bantuan digunakan. Artikel ini didasarkan pada penelitian meja dan otomatis QA. Tidak ada pengujian pertama-tangan diklaim kecuali secara eksplisit didokumentasikan; konfirmasi waktu - sensitif dan destination- persyaratan spesifik sebelum mengubah.

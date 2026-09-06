@@ -1,70 +1,73 @@
-# BYD Dolphin 2025 (China): Battery, CLTC Range and Two Motor Grades for Importers
-## SEO Metadata
-- **SEO Title**: BYD Dolphin 2025 China Specs: Battery, Range & Export Checks
-- **Meta Description**: 2025 Chinese-market BYD Dolphin — 44.928/60.48 kWh Blade Battery, 70 vs 150 kW grades, 420/520 km CLTC, DiPilot, with China-vs-overseas-spec discipline for buyers.
-- **Suggested URL**: /vehicles/byd-dolphin/
-- **H1**: BYD Dolphin 2025 (Chinese-Market): Variants, Battery, Range Cycle and Export Verification
-- **Primary Keyword**: byd dolphin 2025 range battery specs
-- **Secondary Search Terms**: BYD Dolphin 44.9 kWh, Dolphin 60.48 kWh Knight, Dolphin CLTC 420 520, BYD small EV export, Dolphin DiPilot, China EV GB/T charging
-- **Internal Link Suggestions**: /vehicles/byd-yuanplus/;;;; /vehicles/farizon-xingxiang- v6e-specs/; /guides/chinese-ev-charging-standard-compatibility/;; /guides/ev-shipping-un3171-imdg-compliance/
-- **Image Suggestions**: standard vs Knight grade comparison; Blade Battery pack note; GB/T charge port; rotating/infotainment screen; rear seating
-- **ALT Suggestions**: "BYD Dolphin 2025 two battery grades"; "Dolphin CLTC range versus overseas cycle"
+# BYD Dolphin 2025(中国): バッテリー, ディスク レンジ  and  Two Motor Grades for Importers
+## ツイート メタデータ
+- **SEOタイトル**: BYDドルフィン2025 中国仕様:バッテリー、レンジ、輸出チェック
+- **メタ 記述**: 2025 Chinese-market BYD Dolphin — 44.928/60.48 kWh Blade Battery, 70 対 150 kW の等級、  420/520 km CLTC, ダイパイロット, バイヤーのための中国-vs-overseas-specの規準を使って。
+- **混雑URL**: /vehicles/byd-dolphin/
+- H1 ホテル **: BYD Dolphin 2025 (中国市場): バリアント、バッテリー、レンジサイクル、輸出検証
+- **主なキーワード**: フォードイルカ2025の範囲のバッテリー仕様
+- **二次検索条件**: BYD Dolphin 44.9 kWh、ドルフィン60.48 kWhナイト、ドルフィンCLTC 420 520、BYD小型EV輸出、ドルフィンDiPilot、中国EV GB / T充電
+- **内部リンクの提案**: /vehicles/byd-yuan-plus/; /vehicles/farizon-xingxiang- v6e-specs/; /guides/chinese-ev-charging-standard-compatibility/; /guides/ev-shipping- un3171-imdg-compliance/
+- **イメージ提案**:標準対騎士グレードの比較;ブレードバッテリーパックノート; GB / T充電ポート;回転/インフォテイメント画面;リアシート
+- アルト 提案**: "BYD Dolphin 2025 two battery grades"; 「ドルフィンCLTCレンジと海外サイクル」
 
-## Buyer Context: an EV Decision Starts With Battery and Cycle
-The Dolphin is BYD's compact battery hatchback on the e-platform 3.0 with an LFP Blade Battery. For an EV, the order is battery → range **cycle** → motor grade → charging/software, not a single headline number. This page covers the **2025 Chinese-market line (REFERENCE MARKET: CHINA)**. BYD also sells a car badged "Dolphin" in overseas markets; that is name continuity, **not** a 1:1 spec match — overseas battery sizes, certified range cycles (WLTP/NEDC) and equipment differ and must be read from the destination sheet, never inferred from these China numbers.
+## バイヤーのコンテキスト: EV の決定は電池および周期によって始まります
+ドルフィンは、LFPブレードバッテリーを搭載した電子プラットフォーム3.0のBYDのコンパクトなバッテリーハッチバックです。 EVの場合、注文は電池→レンジ**の→モーター等級の→の充満/ソフトウェア、単一の見出し番号ではないです。 このページでは、** 2025中国市場ライン(参考市場:中国)**をカバーしています。 BYDは、海外市場で「ドルフィン」を販売しています。それは、名前の継続性である**非** 1:1スペックマッチ — 海外バッテリーサイズ、認定レンジサイクル(WLTP/NEDC)、機器は異なる、これらの中国数字から推論しない、目的地シートから読み込まれる必要があります。
 
 ## Two Motor Grades, Two Batteries (China reference)
-| Item | Standard grades (活力/自由/时尚) | Knight grade (骑士版) |
+| アイテム | 標準的な等級(活力/自由/时尚) | 騎士の等級(骑士版) |
 |---|---|---|
-| Drive motor | 70 kW / 180 N·m | 150 kW / 310 N·m |
-| Blade Battery (LFP) | 44.928 kWh | 60.48 kWh |
-| CLTC range | 420 km | 520 km |
-| Body L×W×H | 4125 / 1770 / 1570 mm | 4150 / 1770 / 1570 mm |
-| Wheelbase | 2700 mm (both) | 2700 mm |
+| ドライブ モーター | 70 kW / 180 N·m | 150 kW / 310 N·m |
+| ブレードバッテリー(LFP) | 44.928 kWh | 60.48 kWh |
+| CLTC の範囲 | 420 km | 520 km |
+| 本体 L×W×H | 4125 / 1770 / 1570 mm | 4150 / 1770 / 1570 mm |
+| ホイールベース | 2700 mm (ブース) | 2700 mm |
 
-Fix **battery and motor together**: the 150 kW/310 N·m drivetrain pairs with the larger 60.48 kWh pack on the Knight grade. Presenting "a Dolphin" without naming grade leaves both power and range ambiguous.
+Fix **バッテリーとモーターが一緒に**:150 kW / 310 N·mドライブトレインは、ナイトグレードの60.48 kWhパック大きいとペアリングします。 命名しない「イルカ」を命名し、パワーとレンジをあいまいに残します。
 
-## Range Cycle Discipline (CLTC is not WLTP/EPA)
-The 420/520 km figures are **China CLTC**. Always quote the cycle next to the number:
-- Do not relabel CLTC 420/520 as WLTP or EPA range for overseas customers.
-- Where a destination Dolphin sheet uses WLTP/NEDC, cite **that** market's figure and keep it separate (regional same-name reference — not a trim-for-trim equivalent).
-- Record both the Chinese grade name and its battery kWh on the build note, so a "420" label is not substituted by a different grade.
+## レンジサイクル 規準(CLTCはWLTP/EPAではありません)
+The 420/520 km figures are **China CLTC**. 常に、番号の横のサイクルを引用します。
+- 海外顧客向けのWLTPやEPA範囲としてCLTC 420/520をリラベルしないでください。
+- 宛先ドルフィンシートがWLTP/NEDC、cite **that**市場図を使用し、それを分離(地域同じ名前の参照ではなく、トリム・フォー・トリム・トゥー・トリム等)保つ場所。
+- ビルドノートに中国グレード名とバッテリーkWhの両方を録音するので、420 "ラベルは異なるグレードでは置換されません。
 
-## Charging, Software and ADAS (the EV-specific checks)
-- **Connector:** Chinese builds use the GB/T charging interface; confirm the destination inlet and whether an adapter/protocol gateway is acceptable (see the charging-standard guide). A mechanical adapter does not guarantee handshake compatibility.
-- **ADAS:** the Chinese line offers **DiPilot** with ACC/AEB/Lane-Departure Assist on applicable grades (single-source; confirm the exact grade's feature set).
-- **Infotainment/OTA:** verify UI language, app/server reachability and OTA outside China **on the VIN** rather than assuming a China-market head unit works unchanged abroad.
-- **AC/DC capability:** confirm onboard AC charging and any DC fast-charge provision by grade rather than across the whole line.
+## 充電、ソフトウェア、ADAS(EV固有のチェック)
+- **コネクタ:** 中国のビルドは、GB / T充電インタフェースを使用します。 宛先入口を確認し、アダプター/プロトコルゲートウェイが許容されているかどうかを確認します(充電標準ガイドを参照してください)。 メカニカルアダプターは、ハンズクの互換性を保証するものではありません。
+- **ADAS:**中国線は、ACC/AEB/Lane-Departure Assist を適当な等級(単一ソース; 正確な等級の機能はセットを確認)で**DiPilot**を提供しています。
+- **情報/OTA:**中国市場ヘッドユニットを想定するよりもむしろ、中国以外のUI言語、アプリ/サーバーのリーダビリティとOTAを検証する**。
+- **AC/DC機能:** ボードAC充電と、全ラインの横切ではなく、グレードによるDCの高速充電規定を確認します。
 
-## Dimensions and Cabin
-Compact five-door hatchback, 2700 mm wheelbase; standard length 4125 mm, Knight 4150 mm; width/height 1770/1570 mm. A small footprint and tight turning circle suit urban fleets, but rear cabin and cargo expectations should be set from these dimensions, not from a larger overseas BYD.
+## 寸法とキャビン
+Compact five-door hatchback, 2700 mm ホイールベース; 標準長さ 4125 mmの騎士4150 mm; width/height 1770/1570 mm. 小さなフットプリントとタイトな旋回輪は都市の艦隊に適していますが、後部のキャビンと貨物の期待は、より大きな海外のBYDからではなく、これらの次元から設定する必要があります。
 
-## What Importers Should Verify Before Payment
+## 支払い前に輸入業者が確認すべきこと
 1. **Grade + battery + motor as one locked combination** (70 kW/44.928 kWh vs 150 kW/60.48 kWh).
-2. **Range cycle** labelled CLTC; destination WLTP/NEDC taken only from the destination sheet.
-3. **GB/T vs destination connector**, AC/DC provision and any adapter legality.
-4. **DiPilot feature list** for the exact grade; **language/OTA** tested on the VIN.
-5. **EV shipping paperwork** — UN38.3 / MSDS plus the ocean dangerous-goods classification, under IMDG Amendment 42-24 (mandatory from 2026-01-01) a lithium-ion-battery-powered vehicle is classified UN3556, not the legacy generic UN3171; apply documentation/SOC details per the current EV shipping Fact Sheet and the carrier (see the EV ocean-compliance guide).
+2. **ランゲサイクル** ラベル付きCLTC; 宛先WLTP /NEDCは、宛先シートからのみ撮影します。
+3. **GB/T 対の宛先のコネクター**、AC/DC の規定およびアダプターの合法性。
+4. **DiPilot 機能リスト** 正確なグレード; ** 言語/ OTA** は VIN でテストしました。
+5. **EV shipping paperwork** — UN38.3 / MSDS plus the ocean dangerous-goods classification, リチウムイオン電池車は、IMDGの改正42-24 (2026-01-01からの必須)の下の区分UN3556です、 旧総体UN3171ではない。 現在のEVの出荷ファクトシートとキャリアごとのドキュメント/SOCの詳細を適用します(EVオーシャンコンプライアンスガイドを参照してください)。
 
-## Request a Current Export Quotation
-No static export price is published. The RMB 99,800 Chinese starting figure is a **domestic, time-sensitive reference, not an FOB/CIF price**. Enquire with **Destination Country · Quantity · Grade (battery/motor) · LHD/RHD · Destination Port · Incoterm**.
+## 現在のエクスポート見積をリクエストする
+静的輸出価格が公開されていない。 RMB 99、800中国出発図は、FOB/CIF価格ではなく、**国内、時間感度参照です。 **目的地の国・数量・グレード(バッテリー/モーター)・LHD/RHD・デスティネーションポート・インコターム** を装備。
 
-## Frequently Asked Questions
-**What is the difference between the Dolphin grades?** The standard grades use a 70 kW motor with a 44.928 kWh pack and 420 km CLTC; the Knight uses 150 kW with 60.48 kWh and 520 km CLTC.
-**Are China CLTC range figures comparable to WLTP?** No — quote CLTC as CLTC; use the destination market's own WLTP/NEDC sheet for overseas range.
-**Is the overseas Dolphin identical to the China car?** It shares the name and platform lineage, but battery, certified range and equipment differ by market; do not treat them as 1:1 equivalents without BYD confirmation.
-**Does a Chinese Dolphin charge abroad without modification?** Verify the GB/T inlet against destination infrastructure on the VIN; an adapter alone may not resolve protocol differences.
+## よくある質問
+**ドルフィンのグレードの違いは何ですか?** 標準的な等級は44.928 kWhパックおよび420 km CLTCの70 kWモーターを使用します;騎士は60.48 kWhおよび520 km CLTCと150 kWを使用します。
+**中国CLTCの範囲図はWLTPに匹敵する?** いいえ — CLTC を CLTC に引用します。 宛先市場独自の WLTP/NEDC シートを海外範囲で使用してください。
+**中国車と同等な海外ドルフィン?** 名称やプラットフォームのライン率をシェアしていますが、電池、認定範囲、機器は市場によって異なります。 上記は、BYD確認なしで1等分の1等と扱われません。
+**中国ドルフィンの手数料は変更なしで海外にかかりますか?** VIN の宛先インフラに対する GB/T の入口を確認します。 アダプターだけでプロトコルの差を解決しない場合があります。
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
-- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- ALT by language:
+## 映像の記録
+- IMAGE_ASSET_PATH:リポジトリで保護されていない
+- ORIGINAL_IMAGE_URL: キャプチャされていない
+- SOURCE_PAGE: キャプチャされていない
+- SOURCE_FILE_PAGE: 該当なし — 特定候補のメディアファイル (アサートするライセンスなし)
+- 権利_ホルダー:未確認
+- LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
+- CHECKED_DATE: 2026-09-06(税抜き)
+- MODEL_TOPIC_MATCH: 上記の正確なモデル/バージョン(またはガイドトピック)と参照市場と一致しなければなりません
+- IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
+- IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
+- ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
+- 言語によるALT:
   - **EN**: AutoBridge export-buyer reference — BYD Dolphin, battery-electric vehicle
   - **FR**: Référence AutoBridge pour acheteurs export — BYD Dolphin, véhicule 100 % électrique
   - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Dolphin, batterieelektrisches Fahrzeug
@@ -78,31 +81,31 @@ No static export price is published. The RMB 99,800 Chinese starting figure is a
   - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Dolphin, مركبة كهربائية بالبطارية
   - **ZH**: AutoBridge 出口采购参考｜BYD Dolphin, 纯电动车
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## ソースと検証
+| ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
 |---|---|---|---|---|---|---|
-| 2025 Dolphin launch (price, parameters) | IT Home / Toutiao | CN | http://m.toutiao.com/group/7389073901650723378/ | 2026-09-03 | CROSS_CHECKED | 44.928 kWh, 70 kW, 420 CLTC, domestic price (TIME_SENSITIVE) |
-| Dolphin powertrain/battery/range | PCauto encyclopedia | CN | https://m.pcauto.com.cn/baike/1551886/ | 2026-09-03 | CROSS_CHECKED | 60.48 kWh, 150 kW/310 N·m, 520 CLTC |
-| Dolphin 1,000,000th unit (dimensions) | NetEase Auto | CN | https://www.163.com/dy/article/KH3NHD5F0552EGI8.html | 2026-09-03 | CROSS_CHECKED | 4125/4150 × 1770 × 1570, wheelbase 2700 |
-| 2025 Dolphin DiPilot | Xincheping / Toutiao | CN | http://m.toutiao.com/group/7389115620090053159/ | 2026-09-03 | SINGLE_SOURCE | ACC/AEB/LDA feature description |
-| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
-| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
-| GB 38031 traction battery safety requirements (GB 38031-2025; new type applications mandatory from 2026-07-01) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFIED | Mandatory traction-battery safety requirement basis for the electrified powertrain |
-| GB 18384 electric vehicle safety requirements (GB 18384-2025) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VERIFIED | Electric-vehicle electrical/functional safety requirement basis |
-| 2025 Dolphin official model page (ocean network) | BYD Auto (**manufacturer official**) | CN | https://www.byd.com/cn/ocean-home/models/haitun/2025haitun | 2026-09-05 | VERIFIED (OEM; identity scope) | OEM anchor for the 2025 China Dolphin's model identity, Blade LFP battery and e-platform 3.0; the public page is a dynamic model page and does not itself publish a static numeric spec table, so grade numbers below are carried by independent cross-checks |
-| Dolphin 智驾版 (DiPilot) official model page | BYD Auto (**manufacturer official**) | CN | https://www.byd.com/cn/ocean-home/models/haitun/haitun-zhijia | 2026-09-05 | VERIFIED (OEM; identity scope) | OEM identity for the smart-driving (DiPilot) grade line and four-link independent rear suspension |
-| 2025 Dolphin grade/battery/range table | Autohome Q&A model database | CN | https://www.autohome.com.cn/ask/24636224.html | 2026-09-05 | SINGLE_SOURCE (supporting only) | AI-aggregated Q&A page — supporting context only, NOT used as a decisive cross-check leg per source-quality rule |
-| 2025 Dolphin parameter configuration table | 太平洋汽车 PCauto config | CN | https://price.pcauto.com.cn/s48492/config.html | 2026-09-05 | CROSS_CHECKED | Independent China config table (verified reachable): CLTC 420/520 lines, 44.9/60.48 kWh, grade matrix — decisive cross-check leg #1 |
-| 海豚 参数配置（2025款） | 汽车之家 Autohome config series | CN | https://m.autohome.com.cn/config/series/6139.html | 2026-09-05 | CROSS_CHECKED | Proper parameter table (not an AI Q&A page), verified reachable: 2025 grade/battery/CLTC matrix — decisive cross-check leg #2 |
-| BYD Dolphin 2025 official brochure | BYD Automotive Australia (OEM/distributor official) | AU | https://bydautomotive.com.au/brochures/BYD-DOLPHIN-2025.pdf | 2026-09-05 | VERIFIED (OEM; export-market scope) | OEM brochure confirms Blade LFP 44.9/60.48 kWh and 70/150 kW motor lines and dimensions; its NEDC 410/490 and WLTP 340/427 are export-cycle figures and are NOT used as China CLTC 420/520 |
+| 2025 Dolphin launch (price, パラメーター) | IT ホーム / トゥーティーアオ | CN の | 担当: //m.toutiao.com/group/7389073901650723378/ | 2026-09-03 | CROSS_CHECKED(クロス) | 44.928 kWh、70 kW、420 CLTC、国内価格(TIME_SENSITIVE) |
+| ドルフィンパワートレイン/バタリ/レンジ | PCauto 百科事典 | CN の | 以下は、 //m.pcauto.com.cn/baike/1551886/ の | 2026-09-03 | CROSS_CHECKED(クロス) | 60.48 kWh、150 kW/310 N·m、520 CLTC |
+| ドルフィン1、000、000th単位(次元) | NetEase 自動 | CN の | 以下は、 //www.163.com/dy/article/KH3NHD5F0552EGI8.htmlの特長 | 2026-09-03 | CROSS_CHECKED(クロス) | 4125/4150×1770×1570、ホイールベース2700 |
+| 2025 Dolphin DiPilot | シンチェッピング/トウティアオ | CN の | 担当: //m.toutiao.com/group/7389115620090053159/ | 2026-09-03 | シングル_ソース | ACC/AEB/LDA 機能記述 |
+| ロードモーター車メーカーと製品カタログ — 公開クエリシステム | 工業情報技術省、中国情報技術省 | CN の | 以下は、 ................................................................................................................................ | 2026-09-05 | 検証済み | 注文するか、または輸出する前に製造業者、承認されたモデルおよび均質化(公告)のカタログの記入項目を確認して下さい |
+| ギガバイト16735-2019 道路車両 — 車両識別番号(VIN)要件 | SAMR全国規格全文プラットフォーム | CN の | 以下は、 //openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 のリリース | 2026-09-05 | 検証済み | バイヤーのVIN/ネームプレート検証で使用されるVIN構造とネームプレートのデータフィールド |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | 市場規制のSAMR、州政局 | CN の | 以下は、 //www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | 検証済み | ベースライン中国車安全技術条件と電流/改定タイムライン |
+| GB 38031の牽引電池の安全条件(GB 38031-2025;2026-07-01から必須新しいタイプ塗布) | SAMR全国規格全文プラットフォーム | CN の | 以下は、 //std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 の | 2026-09-05 | 検証済み | 電動パワートレインのための必須のトラクション電池の安全要件ベース |
+| GB 18384電気車両の安全要件(GB 18384-2025) | SAMR全国規格全文プラットフォーム | CN の | 以下は、 //std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | 検証済み | 電気車の電気/機能安全条件基礎 |
+| 2025 Dolphin official model page (ocean network) | BYDオート(**メーカー公式**) | CN の | 以下は、 //www.byd.com/cn/ocean-home/models/haitun/2025haitun の一覧 | 2026-09-05 | 検証済み(OEM、アイデンティティスコープ) | 2025中国ドルフィンのモデルアイデンティティ、ブレードLFPバッテリーと電子プラットフォーム3.0のためのOEMアンカー。 パブリックページはダイナミックモデルページであり、静的な数値スペックテーブルを公表しません。したがって、以下のグレード番号は独立したクロスチェックによって行われます |
+| ドルフィン智驾版(ディパイロット)公式モデルページ | BYDオート(**メーカー公式**) | CN の | 以下は、 //www.byd.com/cn/ocean-home/models/haitun/haitun-zhijia | 2026-09-05 | 検証済み(OEM、アイデンティティスコープ) | スマートドライブ(DiPilot)グレードライン用OEM ID  and  four-link independent rear suspension |
+| 2025 Dolphin grade/battery/range table | オートホームQ&Aモデルデータベース | CN の | 以下は、 //www.autohome.com.cn/ask/24636224.html | 2026-09-05 | SINGLE_SOURCE(サポートのみ) | AI 集計Q&Aページ — コンテキストのみをサポートし、ソース品質ルールごとに決定的なクロスチェックの足として使用していません |
+| 2025 Dolphin parameter configuration table | 太平洋汽车 PCauto 設定 | CN の | 以下は、 //price.pcauto.com.cn/s48492/config.html の | 2026-09-05 | CROSS_CHECKED(クロス) | 独立した中国構成テーブル(高度に達できる): CLTC 420/520ライン、  44.9/60.48 kWh, 等級のマトリックス — 決定的なクロスチェックの足 # 1 |
+| 海豚 参数配置 (2025 款) | 汽车之家 Autohome config series | CN の | 以下は、 //m.autohome.com.cn/config/series/ 6139.html の | 2026-09-05 | CROSS_CHECKED(クロス) | 適切なパラメータテーブル(AI Q&Aページではありません)、検証可能な範囲:2025グレード/バッテリー/CLTCマトリックス — 決定的なクロスチェックレッグ #2 |
+| BYD Dolphin 2025 公式パンフレット | BYDオートモーティブオーストラリア(OEM/ディストリビューター) | ユウ | 以下は、 //bydautomotive.com.au/brochures/BYD-DOLPHIN- 2025.pdf により | 2026-09-05 | VERIFIED (OEM;輸出市場規模) | OEM brochure confirms Blade LFP 44.9/60.48 kWh  and  70/150 kW motor lines  and  寸法; NEDC 410/490 および WLTP 340/427 は輸出周期図であり、中国 CLTC 420/520 として使用されていません |
 
-*Evidence-scope note: BYD's official China pages (linked above) anchor the 2025 Dolphin's model identity, Blade LFP battery and e-platform 3.0, and the official BYD Australia 2025 brochure independently confirms the 44.9/60.48 kWh battery and 70/150 kW motor lines (on export NEDC/WLTP cycles, kept separate from China figures). The China grade values — 70 kW/44.928 kWh/420 km CLTC and 150 kW/60.48 kWh/520 km CLTC — rest on a genuine same-fact cross-check by two independent Chinese parameter tables verified reachable on 2026-09-05 (PCauto s48492 config and the Autohome 6139 config series), supported by IT Home/PCauto encyclopedia; the Autohome *ask* page is AI-aggregated and is deliberately not used as a decisive leg. An earlier draft named "Xcar" without a URL — that unsupported citation has been removed (no reachable Xcar page was captured). Bind the exact grade to the MIIT catalog and VIN before ordering. CLTC is China-cycle only and is never equated to overseas WLTP/NEDC; same-name overseas Dolphins are distinct market builds. Writing-AI controlled patch 2026-09-05: battery/motor lines now OEM-supported (AU brochure, export scope) and China CLTC values same-fact cross-checked by two independent config tables, moving the page off NEEDS_RESEARCH (China CLTC confidence CROSS_CHECKED, not OEM-VERIFIED).*
+*証拠-スコープノート: BYDの公式中国ページ(上図)は、2025ドルフィンのモデルアイデンティティを固定します。 刃 LFP 電池  and  e-platform 3.0の  and  the official BYD Australia 2025 brochure independently confirms the 44.9/60.48 kWh battery  and  70/150 kW motor lines (on export NEDC/WLTP cycles, 中国数字とは別々に保管されます。 中国グレード値 — 70 kW / 44.928 kWh / 420 km CLTC  and  150 kW/60.48 kWh/520 km CLTC — rest on a genuine same-fact cross-check by two independent Chinese parameter tables verified reachable on 2026-09-05 (PCauto s48492 config  and  Autohome 6139 configシリーズ IT ホーム/PCauto百科事典でサポート Autohome *ask*ページはAI集計され、決定的な脚として使用されていない。 URL なしで「Xcar」という名の初期ドラフト — サポートされていない引用を削除しました (到達可能なXcarページはキャプチャされていません)。 注文する前に、MIITカタログとVINに正確なグレードを埋めます。 CLTCは中国サイクルのみで、海外WLTP/NEDCに装備されていない。 海外に同じ名前 Dolphinsは、市場を一元化しています。 書き込みAI制御パッチ2026-09-05: バッテリー/モーターラインは、OEM対応(AUパンフレット、輸出範囲)と中国CLTCは、独立したコンフィグテーブルで同一のファクトクロスチェックを行い、NEEDSからページを外す 調査(中国CLTCの信任CROSS_CHECKED、OEM-VERIFIED)。 ふりがな
 
-## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: China, 2025 Dolphin (Chinese-market reference; overseas same-name builds kept separate)
-- **Verification method**: Multi-source cross-check; range cycle and market scope kept distinct per MODEL_ALIAS / SOURCE_SCOPE rules
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+## 編集レビュー
+- **著者/査読者**:【AutoBridge 輸出編集チーム】(/authors/)・方法による【編集ポリシー】(/editorial-policy/)
+- **最終審査**:2026-09-05
+- **参考市場**:中国、2025ドルフィン(中国市場参照、海外の同名のビルドは別々に保持)
+- **検証方法**: 多源の交差検査; 範囲サイクルと市場スコープは、モデル_ALIAS / SOURCE_SCOPE ルールごとに異なる保存
+- ** 編集規格**: 上記情報源(デスクリサーチ、片手運転、涙流、輸入)から研究・執筆 ソースの自信は行ごとに示されます。 私たちが独立して確認できない点は、事実として主張するのではなく、検証項目として提示されます。
 #AutoBridge #VehicleExport #BYD #Dolphin #ElectricHatchback

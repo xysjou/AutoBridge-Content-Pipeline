@@ -3,7 +3,7 @@
 ## SEO Metadaten
 - **SEO Titel**: Export Compliance & Sanktionen Screening für Fahrzeugexporteure: Endbenutzer-, Dual-Use- und Restricted-Listen
 - **Meta Description**: Eine chinesische Basis für die Einhaltung der Fahrzeugexportbestimmungen: Endverbraucher-/Endverwendungskontrollen, Dual-Use-Screening, Listen mit eingeschränkten/verweigerten Parteien, die Fünfjahres-Datensatzpflicht und warum eingeschränkte Parteien nicht bedient werden dürfen.
-- ** H1 **: Export Compliance und Sanktionen Screening für chinesische Fahrzeugexporteure
+- ** H1 **: Export Compliance und Sanktions-Screening für chinesische Fahrzeugexporteure
 - ** Primäres Keyword**: Export-Compliance-Sanktionen Screening des Endbenutzers
 - **Secondary Search Terms**: Exportkontrolle; Sanktionsscreening; Endbenutzererklärung; verweigerte Partei; Dual-Use; eingeschränkte Liste
 - **Vorgeschlagene URL**: /guides/export-compliance-sanctions-screening-end-user/
@@ -45,15 +45,18 @@ Dieser Leitfaden listet keine sanktionierten Unternehmen auf (sie ändern sich) 
 ## Quellen & Verifizierung
 | Quelle | Organisation | Markt | Tier | Vertrauen | URL | Belegte Fakten |
 |---|---|---|---|---|---|---|
-| 两用物项出口管制条例（国务院令第792号） | 中华人民共和国商务部 | CN | T1 | ÜBERPRÜFUNG | http://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2025/art_e63af2ce2c7e406394a2faf84a9b4738.html | 最终用户用途证明, 保存5年, 管控名单 |
+| 两用物项出口管制条例 (国务院令第 792 号) | 中华人民共和国商务部 | CN | T1 | ÜBERPRÜFUNG | http://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2025/art_e63af2ce2c7e406394a2faf84a9b4738.html | 最终用户用途证明, 保存 5 年, 管控名单 |
 | 两用物项出口管制内部合规指南 | 中华人民共和国商务部 | CN | T1 | ÜBERPRÜFUNG | https://www.mofcom.gov.cn/cms_files/filemanager/1077459795/attach/20239/2021070615181087.pdf | 订单筛查系统, 最终用途声明, 合规体系 |
 | 司法部、商务部负责人就两用物项出口管制条例答记者问 | 中国政府网 | CN | T1 | ÜBERPRÜFUNG | https://www.gov.cn/zhengce/202410/content_6981660.htm | 全过程最终用户用途管理, 关注名单 |
-| 两用物项出口管制措施专题（不予许可情形） | 中华人民共和国商务部 | CN | T1 | ÜBERPRÜFUNG | https://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_148254ba99284928ae6e4f84d1d6f297.html | 军事用户/管控关注名单不予许可, WMD/恐怖主义/军事用途 |
+| 两用物项出口管制措施专题 (不予许可情形) | 中华人民共和国商务部 | CN | T1 | ÜBERPRÜFUNG | https://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_148254ba99284928ae6e4f84d1d6f297.html | 军事用户/管控关注名单不予许可, WMD/恐怖主义/军事用途 |
 | Handelsministerium (MOFCOM) | MOFCOM 商务部 | CN | T1 | ÜBERPRÜFUNG | https://www.mofcom.gov.cn/ | zuständige Behörde für Ausfuhrgenehmigungen und Ausfuhrkontrollen |
+| Verordnung (EU) Nr. 2021/821 — EU-Regelung für die Ausfuhrkontrolle von Gütern mit doppeltem Verwendungszweck | Europäische Union (EUR-Lex) | EU | T1/T2 | ÜBERPRÜFUNG | https://eur-lex.europa.eu/eli/reg/2021/821/oj | Beispiel für ein System zur Kontrolle von doppeltem Verwendungszweck in der Hauptgerichtsbarkeit und Kontrollen der beschränkten Partei/Endverwendung, die für das Screening-Design relevant sind |
+| US BIZ Entity List — Beispiel für ein Screening mit eingeschränkter Partei | US Bureau of Industry and Security (BIS) | US | T1/T2 | ÜBERPRÜFUNG | https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern/entity-list | Öffentliche Liste mit eingeschränkten Parteien, die das Screening von Nicht-Einrichtungen vor dem Versand veranschaulicht |
+| US OFAC SDN Liste — Sanktions-Screening | US-amerikanisches Büro für ausländische Vermögenskontrolle (OFAC) | US | T1/T2 | ÜBERPRÜFUNG | https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists | Speziell bezeichnet Nationale Liste als Sanktions-Screening-Datenquelle; gerichtsspezifisch, keine globale Blacklist |
 ## Editorial Review
 - **AutoBridge Export Editorial Team · [Autoren](/Autoren/) · [Editorial Policy](/Editorial-Policy/]
 - **Zuletzt überprüft**: 2026-09-05
-- **Referenzmarkt**: CN出口管制+国际制裁框架
+- **Referenzmarkt**: KN 出口管制 + 国际制裁框架
 - **Verifizierungsmethode**: Desk-Recherche mit den unten genannten Quellen; Referenzspezifikation für den chinesischen Markt nur, sofern nicht ausdrücklich ein separater Exportmarkt angegeben wird.
 - **Transparenz**: KI-unterstütztes Zeichnen wurde verwendet. Dieser Artikel basiert auf Desk Research und automatisierter QA. Es werden keine Tests aus erster Hand beansprucht, es sei denn, sie sind explizit dokumentiert; zeitsensible und zielspezifische Anforderungen vor der Transaktion bestätigen.
 
@@ -61,11 +64,14 @@ Dieser Leitfaden listet keine sanktionierten Unternehmen auf (sie ändern sich) 
 - **IMAGE_ASSET_PATH**: keine gesicherte im Repository
 - **ORIGINAL_IMAGE_URL**: nicht erfasst
 - **SOURCE_PAGE**: nicht erfasst
+- **SOURCE_FILE_PAGE**: Entfällt — keine Kandidaten-Mediendatei identifiziert (keine Lizenz zur Geltendmachung)
 - **RIGHTS_HOLDER**: nicht bestätigt
 - **LICENSE_OR_USAGE_BASIS**: keine gesicherte — OEM-Webseitenpräsenz ist keine kommerzielle Wiederverwendungslizenz
-- **CHECKED_DATE**: 2026-09-05
+- **CHECKED_DATE**: 2026-09-06
 - **MODEL_TOPIC_MATCH**: exakte Export-Compliance und Sanktions-Screening für chinesische Fahrzeugexporteure
+- **IMAGE_SCOPE_NOTE**: Das Bild muss nur mit der genauen Modellfamilie/dem genauen Thema übereinstimmen; darf keine bestimmte Trimmung, kein Modelljahr, keine echte VIN, keine persönliche Inspektion oder keine tatsächliche Transaktion implizieren.
 - **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: Es konnte kein wiederverwendbares Bild gesichert werden: Wikimedia Commons/Flickr sind aus der Forschungsumgebung nicht erreichbar, Lagerbibliotheken erfordern authentifizierten API/Lizenzzugriff und ein OEM-Webseitenbild ist KEIN kommerzielles Wiederverwendungsstipendium. Es gibt kein AutoBridge-eigenes Foto. Record Keeped FAIL statt behauptet.
 - **ALT (12 Sprachen)**:
   - **EN**: export compliance screening, Chinese-market procurement guide export buyer reference
   - **FR**: export compliance screening, procurement guide du marché chinois, référence acheteur export

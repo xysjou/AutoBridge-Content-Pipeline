@@ -1,89 +1,92 @@
-# Forthing Lingzhi M5 2024 — Work Van / Commercial MPV: Seating Layouts, Powertrains and Export Checks
+# リンジ M5 2024 - 作業バン/商用MPV: 座席レイアウト、パワートレイン、輸出チェック
 
-## SEO Metadata
-- **SEO Title**: Forthing Lingzhi M5 2024 Van Specs, Seating & CNG/Petrol Export Guide
-- **Meta Description**: 2024 Dongfeng Forthing Lingzhi M5 (M5L) China specs: 5/7/9-seat layouts, two wheelbases, 1.5T petrol 6MT and 1.6L CNG 5MT, dimensions, and commercial-buyer verification points.
-- **Suggested URL**: /vehicles/forthing-lingzhi- m5/
-- **H1**: Forthing Lingzhi M5 / M5L 2024 (China): A Utilitarian Van Spec Map for Commercial Buyers
-- **Primary Keyword**: Forthing Lingzhi M5 van specifications export
-- **Secondary Search Terms**: Dongfeng Lingzhi M5L 9-seat, Forthing M5 CNG 1.6, Chinese commercial MPV van export, Lingzhi M5 wheelbase, Dongfeng passenger van
-- **Internal Link Suggestions**: /vehicles/gac-trumpchi- m8/; /guides/commercial-truck-fleet-procurement-china/;; /guides/right-hand-drive-chinese-cars/
-- **Image Suggestions**: side profile M5L long body; 9-seat interior layout; 1.5T vs 1.6 CNG card; cargo/seat folding; sliding side door
-- **ALT Suggestions**: "2024 Forthing Lingzhi M5L nine-seat commercial van, China spec"; "Lingzhi M5 5/7/9 seat layout options"; "Lingzhi M5 1.5T petrol versus 1.6 CNG"
+## ツイート メタデータ
+- ** SEO タイトル**: フォーシング Lingzhi M5 2024 バンスペック, 座席 & CNG/Petrol 輸出ガイド
+- **メタ 記述**: 2024 Dongfeng Forthing Lingzhi M5 (M5L) China specs: 5/7/9-seat レイアウト,  two wheelbases, 1.5Tガソリン6MT  and  1.6L CNG 5MTの 寸法,  and  商用ビュイアー検証ポイント
+- **混雑URL**: /vehicles/forthing-lingzhi- m5/
+- H1 ホテル **: フォースティン・リンジ M5 / M5L 2024 (中国): 商業バイヤーのための自家主義的なヴァンのSpecの地図
+- **主なキーワード**: Lingzhi M5のバンの指定の輸出を造る
+- **二次検索条件**:Dongfeng Lingzhi M5L 9-seat、Forthing M5 CNG 1.6の中国の商業MPVのバンの輸出、Lingzhi M5のホイールベース、Dongfengの乗客のバン
+- **内部リンクの提案**: /vehicles/gac-trumpchi- m8/; /guides/commercial-truck-fleet-procurement-china/; /guides/right-hand-drive-chinese-cars/
+- **イメージ提案**:側面図M5Lの長いボディ;9-seat内部レイアウト;1.5T対1.6 CNGカード;貨物/座席折りたたみ;側面のドアを滑らせて下さい
+- アルト 提案**: "2024 Forthing Lingzhi M5L nine-seat commercial van, 中国仕様"; 「リンジ M5 5/7/9 シートレイアウトオプション」; 「リンジ M5 1.5T ガソリン対 1.6 CNG」
 
-## Vehicle Role
+## 車両の役割
 
-The Lingzhi M5 is a **utilitarian front-wheel-drive van / commercial MPV** built for people-moving and light multi-use duty rather than premium comfort. It matters to importers, shuttle operators and small-fleet owners who need many seats and a large box at a low acquisition cost. The reference line is the **2024 M5L 1.5T 舒适型 9-seater (REFERENCE MARKET: CHINA)**; a shorter M5 and a **CNG (compressed natural gas)** version also exist. Forthing (Dongfeng Liuzhou) already sells in some RHD markets such as Thailand under other nameplates (e.g., Friday/V9), but those are different products — Lingzhi M5 export specs must be confirmed per destination and not inferred from the Chinese line or from Forthing's other overseas vans.
+Lingzhi M5は、高級感ではなく、人移動や光のマルチユースデューティのために構築された**自家フロントホイール駆動バン/商用MPV**です。 輸入業者、シャトル事業者、小ロットのオーナーが、多くの座席を必要とし、小ロットの獲得コストが低い場合、大きなボックスが必要である。 参照線は** 2024 M5L 1.5T 舒适型 9-seater (REFERENCE MARKET: CHINA)**です。 より短いM5と**CNG(圧縮された天然ガス)**バージョンも存在します。 フォースイング(Dongfeng Liuzhou)は、すでに他のネームプレート(例えば、金曜日/ V9)の下でタイなどのいくつかのRHD市場で販売していますが、これらは異なる製品です。 Lingzhi M5輸出仕様は、目的地ごとに確認され、中国線またはForthingの他の海外バンから劣らずでなければなりません。
 
-## Body Sizes and Wheelbases
+## ボディ サイズおよびホイールベース
 
-| Item | M5L (long) | M5 (short) |
+| アイテム | M5L (長い) | M5 (ショート) |
 |---|---|---|
-| Length × Width × Height | 5135 × 1720 × 1970 mm | Same width/height, shorter body |
-| Wheelbase | 3000 mm | 2800 mm |
-| Seat layouts offered | 7 / 9 seats | 5 / 7 / 8 seats |
+| 全長×幅×高さ | 5135 × 1720 × 1970 mm | 同じ幅/高さ、より短いボディ |
+| ホイールベース | 3000 mm | 2800 mm |
+| 座席レイアウトを提供 | 7 / 9席 | 5 / 7 / 8席 |
 
-Dimensions, wheelbases and seat layouts are **VERIFIED** against the Forthing official parameter page and matched by the databases. The tall, near-vertical body (1970 mm height) is a deliberate cargo/people box — useful interior volume is the design goal. Confirm the exact seat count, because the same "M5L" label covers both 7- and 9-seat builds.
+寸法、ホイールベース、シートレイアウトは、Forthing公式のパラメーターページに対して**VERIFIED**で、データベースによってマッチします。 背の高い、横型ボディ(1970 mm高さ)は、非審美的な貨物/人箱です。便利なインテリアのボリュームは、デザイン目標です。 同じ「M5L」ラベルは7-と9-seatビルドの両方をカバーしているため、正確なシート数を確認します。
 
-## Powertrains — Petrol Turbo vs Naturally Aspirated CNG
+## パワートレイン — ガソリン ターボ対自然に吸い込まれたCNG
 
-| Powertrain | Engine | Power / torque | Transmission |
+| パワートレイン | 油圧エンジン | 力/トルク | トランスミッション |
 |---|---|---|---|
-| 1.5T petrol (M5L) | Turbo L4 | 140 kW (190 PS) / 300 N·m | **6-speed manual** |
-| 1.6L CNG | Naturally aspirated L4 (natural gas) | 75 kW (102 PS) / 140 N·m | **5-speed manual** |
+| 1.5Tガソリン(M5L) | ターボ L4 | 140 kW (190 PS) / 300 N·m | ** 6-speed マニュアル** |
+| 1.6L CNG | 天然に吸い込まれたL4(天然ガス) | 75 kW (102 PS) / 140 N·m | ** 5-speed マニュアル** |
 
-Two procurement points stand out. First, **both lines are manual** — there is no automatic in the captured 2024 range, so buyers needing auto/AMT must look elsewhere or confirm a specific export build. Second, the **CNG version is substantially lower-powered** (75 kW) and is relevant only where natural-gas refuelling and CNG registration are supported; for gas-infrastructure markets it can cut running costs, but it is not a like-for-like substitute for the 1.5T. The 1.5T records a WLTC combined figure around 8.4 L/100 km and a 160 km/h top speed. Curb weight for the M5L 1.5T 9-seater is ~1700 kg (single source, Dongchedi — confirm on the compliance plate).
+Two procurement points stand out. まず、** 行はマニュアル** — キャプチャされた2024範囲で自動はありません。そのため、自動/AMTを必要とするバイヤーは、他の場所を見て、特定のエクスポートビルドを確認する必要があります。 第二、 **CNG版は実質的に低電力** (75 kW)  and  天然ガス給油所だけに関連している  and  CNG登録対応 ガスインフラ市場向けにランニングコストを削減できるが、1.5T.の代替品ではない 1.5T は 8.4 L/100 km および 160 km/h の上の速度のまわりで WLTC の結合された図を記録します。 M5L 1.5T 9-seaterの車両重量は〜1700 kg(単一ソース、Dongchedi — コンプライアンスプレートで確認)です。
 
-## Seating and Use Configuration
+## 座席および使用構成
 
-Because this is a commercial people/cargo platform, specify the interior as carefully as the engine:
+商用の人/人参プラットフォームなので、エンジンとして慎重にインテリアを指定してください。
 
-- **Passenger shuttle**: 9-seat M5L maximises fare-paying capacity — verify local rules on which vehicle categories may carry 9 occupants and the licence class required.
-- **Crew + cargo / convertible use**: confirm whether seats are removable/folding and whether the destination registers the unit as passenger or commercial (this affects taxation and inspection).
-- **Access**: confirm sliding side door count and tailgate type for your operation.
-- **Air-conditioning**: rear-cabin AC for 9-seat duty should be confirmed by grade.
+- **旅客シャトル**:9-seat M5Lの最高運賃を支払う能力 — 車両のカテゴリが9の乗員とライセンスクラスを運ぶことができるローカルルールを確認します。
+- **クルー+貨物/コンバーチブル使用**:座席がリムーバブル/折りたたむか、目的地が乗客または商業としてユニットを登録するかどうかを確認します(これは、課税と検査に影響を与えます)。
+- **アクセス**:あなたの操作のための滑走の側面の戸数およびテールゲートのタイプを確認して下さい。
+- **空気調節**:9-seat義務のための後部キャビネットACは等級によって確認されるべきです。
 
-Payload and cargo-volume ratings were not captured in Stage 1 and are not estimated here; request them from the official commercial specification for the exact wheelbase/seat build.
+ペイロードと貨物容積評価がステージ1で捕獲されず、ここでは推定されていない。ホイールベース/シートビルドの公式商用仕様からリクエストする。
 
-## China Reference vs Export Reality
+## 中国参照対輸出現実
 
-- Chinese units are **LHD, manual, China-certified**. Confirm whether a factory RHD or an export-specific Lingzhi M5 exists for the destination rather than assuming conversion.
-- Verify the destination's **emission and fuel/CNG** rules: a CNG car needs recognised gas-tank certification and refuelling standards, and a China petrol calibration must meet local emission acceptance.
-- Confirm spare-parts and clutch/gearbox support for a manual commercial van, plus warranty (China reference: five years / 100,000 km — domestic coverage, distributor-dependent overseas).
-- Check whether the destination treats a 9-seater as a minibus requiring additional driver/operator licensing.
+- 中国語ユニットは、LHD、マニュアル、中国認証**です。 変換を想定するのではなく、工場 RHD や輸出固有の Lingzhi M5 が、その先のものかを確認します。
+- 目的地の**排出と燃料/CNG**規則を確認します。 CNG車は、認識されたガスタンク認証と給油基準を必要とします。中国ガソリン校正は、ローカル排出受諾を満たしなければなりません。
+- 手動商業バンのための予備品そしてクラッチ/gearboxサポートを、プラスの保証確認して下さい(中国参照: five years / 100, 000 km — 国内のカバレッジ、 海外代理店依存関係
+- 目的地が追加のドライバ/演算子ライセンスを必要とするミニバスとして9-seaterを処理しているかどうかを確認してください。
 
-## What AutoBridge Adds Beyond the Parameter Page
-A van order fails on small mismatches: a "9-seater" registered as a different category, or a CNG unit sold where gas certification does not exist. This guide recommends locking **wheelbase (2800/3000), exact seat count and fuel type as one combination** on the build note, checking the destination's **driver-licence/operator category for a 9-seater**, and — for CNG — requiring a recognised **gas-cylinder certification path** before deposit rather than assuming the petrol calibration transfers.
-## Pre-Payment Verification List
+## AutoBridge がパラメーターページを超えて追加する
+バンオーダーは、小さな不一致で失敗します。 ガス認証が存在しないCNGユニット「9-seater」を別カテゴリに登録。 このガイドは、**ホイールベース(2800/3000)をロックすることを推奨します。 正確な座席数  and  fuel type as one combination** on the build note, 目的地の**運転免許証/オペレーターカテゴリをチェック 9-seater **,  and  — CNG の場合 — 石油校正転送を想定するよりも、入金前に認識**ガスシリンダー認証パスを要求します。
+## 事前支払い検証 リスト
 
-- Pin down M5 vs M5L (2800 vs 3000 mm wheelbase) and exact seat count (5/7/8/9).
-- Pin down powertrain (1.5T petrol 6MT vs 1.6L CNG 5MT); confirm manual is acceptable for the end customer.
-- For CNG, verify gas-cylinder certification, refuelling standard and registration class at destination.
-- Confirm LHD/RHD, emission acceptance, rear AC and door configuration by grade.
-- Obtain official payload/cargo figures and the VIN plate curb weight before registration.
+- ピンダウン M5 対 M5L (2800 対 3000 mm ホイールベース) と正確なシート数 (5/7/8/9).
+- パワートレイン(1.5Tガソリン6MT対1.6L CNG 5MTをピンダウン)。 マニュアルはエンドの顧客に受け入れられていることを確認します。
+- CNG は、ガスシリンダーの認証、給油規格および登録クラスを目的地で確認します。
+- LHD/RHD、排出の受け入れ、等級別による後部ACおよびドア構成を確認して下さい。
+- 正式ペイロード/カルゴ図とVINプレートのカーブ重量を登録する前に入手してください。
 
-## Request a Current Export Quotation
+## 現在のエクスポート見積をリクエストする
 
-AutoBridge quotes on request rather than publishing fixed export prices. Chinese domestic references — M5L 1.5T around RMB 74,900–96,800 and CNG from about RMB 67,900 — are **domestic, time-sensitive references, not export prices**. Enquire with **Destination Country · Quantity · M5/M5L & Seats · Petrol/CNG · LHD/RHD · Destination Port · Incoterm**.
+固定輸出価格を出版するのではなく、リクエストにオートブリッジ引用符。 中国の国内参照 — RMB 74 のまわりの M5L 1.5T、 900–96の 800  and  CNG から RMB 67 、 900 — は、 時間感度の高い参照, 輸出価格**ではありません。 **目的地の国・数量・M5/M5L・座席・ガソリン・CNG・LHD・RHD・デスティネーションポート・インコターム**
 
-## Buyer FAQ
+## バイヤーFAQ
 
-**Does the Lingzhi M5 come with an automatic gearbox?** In the captured 2024 China range, no — the 1.5T is 6-speed manual and the 1.6 CNG is 5-speed manual.
-**How many seats can it have?** The long M5L offers 7 or 9 seats; the short M5 offers 5/7/8 — confirm the exact layout.
-**What is the CNG version for?** It runs on compressed natural gas to lower fuel cost where CNG infrastructure and certification exist, but at 75 kW it is much less powerful than the 140 kW 1.5T.
-**What is the wheelbase difference?** 3000 mm (M5L long) versus 2800 mm (M5 short).
-**Is it sold in right-hand drive?** Forthing sells other products in some RHD markets, but an RHD Lingzhi M5 must be confirmed for the specific destination rather than assumed.
+**Lingzhi M5は自動変速機と来ますか。** 捕獲された2024中国の範囲では、いいえ– 1.5Tは6-speedマニュアルであり、1.6 CNGは5-speedマニュアルです。
+**座席数はいくつですか?** M5Lは7席または9席、M5席のショートテーブル席、5/7/8席のショートテーブル席をご用意。
+**CNGバージョンとは?** 圧縮天然ガスで、CNGインフラや認証が残っている燃料コストを下げるのに、75 kWでは140 kW 1.5T.よりもはるかに少ない
+**ホイールベースの違いは何ですか?** 3000 mm (M5L ロング) versus 2800 mm (M5 ショート).
+**右手ドライブで販売されているか?** フォードはRHD市場で他の製品を販売していますが、RHD Lingzhi M5は想定されるよりも特定の目的地で確認する必要があります。
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
-- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- ALT by language:
+## 映像の記録
+- IMAGE_ASSET_PATH:リポジトリで保護されていない
+- ORIGINAL_IMAGE_URL: キャプチャされていない
+- SOURCE_PAGE: キャプチャされていない
+- SOURCE_FILE_PAGE: 該当なし — 特定候補のメディアファイル (アサートするライセンスなし)
+- 権利_ホルダー:未確認
+- LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
+- CHECKED_DATE: 2026-09-06(税抜き)
+- MODEL_TOPIC_MATCH: 上記の正確なモデル/バージョン(またはガイドトピック)と参照市場と一致しなければなりません
+- IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
+- IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
+- ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
+- 言語によるALT:
   - **EN**: AutoBridge export-buyer reference — Forthing Lingzhi M5, petrol/diesel Chinese-market vehicle / MPV
   - **FR**: Référence AutoBridge pour acheteurs export — Forthing Lingzhi M5, véhicule thermique (marché chinois) / MPV
   - **DE**: AutoBridge-Referenz für Exportkäufer — Forthing Lingzhi M5, Verbrenner (chinesischer Markt) / Van (MPV)
@@ -97,26 +100,26 @@ AutoBridge quotes on request rather than publishing fixed export prices. Chinese
   - **AR**: مرجع AutoBridge لمشتري التصدير — Forthing Lingzhi M5, مركبة بمحرك احتراق (سوق الصين) / سيارة عائلية
   - **ZH**: AutoBridge 出口采购参考｜Forthing Lingzhi M5, 中国市场燃油车 / MPV
 
-## Sources & Verification
+## ソースと検証
 
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+| ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
 |---|---|---|---|---|---|---|
-| Lingzhi official parameters | Dongfeng Forthing (official) | CN | https://www.fxauto.com.cn/index.php/car/parameter?cid=37 | 2026-09-02 | VERIFIED | Wheelbase 2800/3000, 5/7/9 seats, chassis framework |
-| M5L 1.5T 9-seat model | Dongchedi (懂车帝) | CN | https://www-hl.dongchedi.com/auto/series/445/model-92416 | 2026-09-02 | CROSS_CHECKED | 1.5T 140 kW/300 N·m, 3000 mm WB, curb 1700 kg |
-| Lingzhi parameter table | PCauto (太平洋汽车) | CN | https://car.pcauto.com.cn/360/m124835/config.html | 2026-09-02 | CROSS_CHECKED | Dimensions, CNG powertrain, WLTC 8.4, warranty, price |
-| Lingzhi M5 article | Yiche (易车) | CN | https://m.yiche.com/zhai/261903/ | 2026-09-02 | CROSS_CHECKED | Dimensions, wheelbase, 7/9-seat layouts |
+| Lingzhi公式パラメータ | 東風フォースイング(公式) | CN の | 以下は、 https://www.fxauto.com.cn/index.php/car/parameter?cid=37 の | 2026-09-02 | 検証済み | ホイールベース2800/3000、5/7/9の座席、シャーシのフレームワーク |
+| M5L 1.5T 9-seatモデル | ドネッディ (懂车帝) | CN の | 以下は、 //www.hl.dongchedi.com/auto/series/445/model-92416 の | 2026-09-02 | CROSS_CHECKED(クロス) | 1.5T 140 kW / 300 N·m、3000 mm WB、カーブ1700 kg | https://www-hl.dongchedi.com/auto/series/445/model-92416
+| Lingzhiパラメータテーブル | PCauto (太平洋汽车) | CN の | 以下は、 https://car.pcauto.com.cn/360/m124835/config.html の | 2026-09-02 | CROSS_CHECKED(クロス) | 次元、CNG のパワートレイン、WLTC 8.4、保証、価格 |
+| Lingzhi M5 記事 | イーチェ (易车) | CN の | 以下は、 https://m.yiche.com/zhai/261903/ の | 2026-09-02 | CROSS_CHECKED(クロス) | 寸法、ホイールベース、7/9-seatレイアウト |
 
-| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
-| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
-| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
+| ロードモーター車メーカーと製品カタログ — 公開クエリシステム | 工業情報技術省、中国情報技術省 | CN の | 以下は、 ................................................................................................................................ | 2026-09-05 | 検証済み | 注文するか、または輸出する前に製造業者、承認されたモデルおよび均質化(公告)のカタログの記入項目を確認して下さい | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html
+| ギガバイト16735-2019 道路車両 — 車両識別番号(VIN)要件 | SAMR全国規格全文プラットフォーム | CN の | 以下は、 https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 のリリース | 2026-09-05 | 検証済み | バイヤーのVIN/ネームプレート検証で使用されるVIN構造とネームプレートのデータフィールド |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | 市場規制のSAMR、州政局 | CN の | 以下は、 https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | 検証済み | ベースライン中国車安全技術条件と電流/改定タイムライン |
+| 改正XG1-2026(中国-6光車両汚染物質排出量)でGB 18352.6-2016 | エコロジー・環境省(MEE) | CN の | 以下は、 .mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html の | 2026-09-05 | 検証済み | 中国- 6 光車両排出ステージと2026 補正実装日 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html
 
-*Confidence note (AutoBridge standard): dimensions/wheelbase/seat layouts are VERIFIED on Forthing's official parameter page; 1.5T/CNG powertrains are CROSS_CHECKED; curb weight is SINGLE_SOURCE. Payload/cargo volume were not in the fact base and are left for the official sheet; export/RHD specs are not asserted.*
+*Confidence Note(AutoBridge標準): 寸法/ホイールベース/シートレイアウトは、Forthingの公式パラメータページでVERIFIEDです。 1.5T/CNGのパワートレインは、クロス_CHECKEDです。 カール重量はSINGLE_ コース ペイロード/カルゴのボリュームは、実際のベースではなかったため、公式シートに残されています。 輸出/ RHDの仕様は、主張されていません。 ふりがな
 
-## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: China M5/M5L (evergreen model page; export nameplates differ and are confirmed per destination)
-- **Verification method**: Brand-official parameter page plus independent-database cross-check; manual/CNG and single-source items labelled
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+## 編集レビュー
+- **著者/査読者**:【AutoBridge 輸出編集チーム】(/authors/)・方法による【編集ポリシー】(/editorial-policy/)
+- **最終審査**:2026-09-05
+- **参考市場**:中国M5/M5L(常緑モデルページ;輸出ネームプレートは異なります、宛先ごとに確認されています)
+- **検証方法**: ブランド オフィシャル パラメータ ページと独立したデータベース クロス チェック; マニュアル/CNG とラベルを貼る単一ソース項目
+- ** 編集規格**: 上記情報源(デスクリサーチ、片手運転、涙流、輸入)から研究・執筆 ソースの自信は行ごとに示されます。 私たちが独立して確認できない点は、事実として主張するのではなく、検証項目として提示されます。
 #AutoBridge #VehicleExport #Forthing #LingzhiM5 #CommercialMPV

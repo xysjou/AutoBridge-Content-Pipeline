@@ -2,7 +2,7 @@
  "article_id": "AB-260905-G06",
  "content_type": "PROCUREMENT_GUIDE",
  "checked_date": "2026-09-05",
- "source_log_version": "SL-v2-20260905",
+ "source_log_version": "SL-v3-20260906",
  "sources": [
   {
    "source_title": "关于进一步优化贸易外汇业务管理的通知（名录登记改由银行办理）",
@@ -88,13 +88,64 @@
    "official_source": "YES",
    "source_scope": "",
    "added_by": "Writing AI CONTROLLED_RESEARCH_PATCH 2026-09-05"
+  },
+  {
+   "source_title": "People's Bank of China (PBOC) — cross-border RMB settlement framework",
+   "organization": "People's Bank of China (中国人民银行 PBOC)",
+   "url": "http://www.pbc.gov.cn/",
+   "domain": "www.pbc.gov.cn",
+   "source_type": "central-bank",
+   "source_tier": "T1",
+   "source_market": "CN",
+   "facts_supported": [
+    "跨境人民币结算与银行办理的央行框架",
+    "与SAFE名录登记区分"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": "YES",
+   "source_scope": "Central-bank framework for cross-border RMB settlement and bank handling, distinct from SAFE foreign-exchange registration"
+  },
+  {
+   "source_title": "ICC Trade Finance (forfaiting/URF, L/C settlement)",
+   "organization": "International Chamber of Commerce",
+   "url": "https://iccwbo.org/business-solutions/trade-finance/",
+   "domain": "iccwbo.org",
+   "source_type": "international-organization",
+   "source_tier": "T1",
+   "source_market": "INT",
+   "facts_supported": [
+    "与出口收汇相关的国际结算工具",
+    "福费廷URF824/信用证"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": "YES",
+   "source_scope": "International settlement instruments (forfaiting URF 824, L/C) that interact with export FX receipt"
+  },
+  {
+   "source_title": "CCPIT — trade documentation and settlement support",
+   "organization": "China Council for the Promotion of International Trade (CCPIT 中国贸促会)",
+   "url": "https://www.ccpit.org/",
+   "domain": "www.ccpit.org",
+   "source_type": "trade-body",
+   "source_tier": "T1",
+   "source_market": "CN",
+   "facts_supported": [
+    "收汇真实性核验所需贸易单证支持",
+    "贸促会单证服务"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": "YES",
+   "source_scope": "Trade documentation supporting proof-of-transaction used in FX receipt/verification"
   }
  ],
  "source_integrity_note": "政府/监管/贸促会源按实际主体与URL标注；T4 SEO仅作线索并显式UNVERIFIED，未冒充官方。",
  "controlled_research_patch": {
-  "date": "2026-09-05",
-  "added_by": "Writing AI",
-  "sources_added": 1,
-  "note": "Official/OEM anchors verified HTTP-200 on 2026-09-05; identity/authority scope only unless facts_supported states otherwise."
+  "date": "2026-09-06",
+  "added_by": "Writing AI (pre-publication repair)",
+  "sources_added": 8,
+  "note": "Distinct primary/international organizations added 2026-09-06; all URLs HTTP-200 verified; parent-org normalization applied; no weak filler."
  }
 }

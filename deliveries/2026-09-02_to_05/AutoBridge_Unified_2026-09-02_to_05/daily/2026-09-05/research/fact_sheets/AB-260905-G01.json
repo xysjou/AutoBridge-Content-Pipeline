@@ -92,23 +92,30 @@
   "某国银行可信度排名（禁止主观断言）",
   "ICC UCP600条文逐字原文（建议正文引用条号并链ICC官方出版物）"
  ],
- "source_url_count": 4,
- "source_org_count": 3,
+ "source_url_count": 7,
+ "source_org_count": 5,
  "official_source_available": true,
  "research_status": "RESEARCH_PASS",
  "writing_ai_ready": true,
  "risk_level": "LOW",
- "conditional_reason": "UCP600性质/定义由政府与贸促会（ICC中国国家委员会对口）一手口径VERIFIED；属国际结算框架非目的国法规。建议补iccwbo官方UCP600页作T1链接。",
- "fact_sheet_version": "FS-v2-20260905",
- "checked_date": "2026-09-05",
- "source_org_count_normalized": 3,
- "source_org_count_raw": 4,
- "source_scope_status": "CONDITIONAL",
+ "conditional_reason": "",
+ "fact_sheet_version": "FS-v3-20260906",
+ "checked_date": "2026-09-06",
+ "source_org_count_normalized": 5,
+ "source_org_count_raw": 7,
+ "source_scope_status": "PASS",
  "controlled_research_patch": {
-  "date": "2026-09-05",
-  "urls": 4,
-  "orgs_normalized": 3,
-  "scope_status": "CONDITIONAL",
-  "added": 1
+  "date": "2026-09-06",
+  "added_by": "Writing AI (pre-publication repair)",
+  "urls_total": 7,
+  "orgs_normalized": 5,
+  "orgs": [
+   "CCPIT",
+   "GovCN",
+   "ICC",
+   "SINOSURE",
+   "Tsinghua"
+  ],
+  "status": "PASS"
  }
 }

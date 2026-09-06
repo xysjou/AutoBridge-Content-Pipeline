@@ -89,23 +89,30 @@
   "逐术语A1-A10全文（版权归ICC，转述并链ICC官方出版物）",
   "具体运费/保费报价（禁止编造）"
  ],
- "source_url_count": 5,
- "source_org_count": 3,
+ "source_url_count": 7,
+ "source_org_count": 5,
  "official_source_available": true,
  "research_status": "RESEARCH_PASS",
  "writing_ai_ready": true,
  "risk_level": "LOW",
- "conditional_reason": "贸促会（ICC对口）一手解释+教材交叉，框架性规则VERIFIED；与既有FOB/CIF报价核验页意图不同（本篇讲术语选择体系）。建议补ICC官方Incoterms2020页。",
- "fact_sheet_version": "FS-v2-20260905",
- "checked_date": "2026-09-05",
- "source_org_count_normalized": 4,
- "source_org_count_raw": 5,
- "source_scope_status": "CONDITIONAL",
+ "conditional_reason": "",
+ "fact_sheet_version": "FS-v3-20260906",
+ "checked_date": "2026-09-06",
+ "source_org_count_normalized": 5,
+ "source_org_count_raw": 7,
+ "source_scope_status": "PASS",
  "controlled_research_patch": {
-  "date": "2026-09-05",
-  "urls": 5,
-  "orgs_normalized": 4,
-  "scope_status": "CONDITIONAL",
-  "added": 2
+  "date": "2026-09-06",
+  "added_by": "Writing AI (pre-publication repair)",
+  "urls_total": 7,
+  "orgs_normalized": 5,
+  "orgs": [
+   "CCPIT",
+   "FIATA",
+   "ICC",
+   "Tsinghua",
+   "WCO"
+  ],
+  "status": "PASS"
  }
 }

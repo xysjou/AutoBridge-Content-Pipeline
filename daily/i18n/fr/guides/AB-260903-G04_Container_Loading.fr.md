@@ -1,21 +1,21 @@
-# Chargement de voitures dans un conteneur 40HQ: compte qui dépend d'un plan de chargement, et écrasement qui tient en mer
+# Chargement des voitures dans un conteneur 40HQ: compte qui dépend d'un plan de chargement, et écrasement qui tient en mer
 ## OEuvre Métadonnées
-- **Référencement au titre**: Combien de personnes Voitures adaptées dans un 40HQ ? Guide de chargement et d'arrimage des conteneurs
-- **Description détaillée**: Guide pratique de chargement du véhicule 40HQ — chargement normal sans fissure 2-SUV vs systèmes à double fissure 4-vehicle, ~ sangles 8 par wagon sur pneus, séquence de chargement et contrôle de rangement en cinq points avant scellement.
+- **Référencement au titre**: Combien de personnes Voitures Tu es dans un 40HQ ? Guide de chargement et d'arrimage des conteneurs
+- **Description détaillée**: Un guide pratique de chargement 40HQ du véhicule — système typique 2-SUV sans rupture par rapport à 4-vehicle à double rupture, ~ 8 sangles par wagon sur pneus, séquence de chargement et contrôle d'arrimage en cinq points avant scellement.
 - **URL suggérée**: /guides/conteneur-véhicule-chargement-slashing/
-- ** H1 **: Chargement et arrimage du véhicule conteneur: Nombres, racks, séquençage et vérifications préalables au scellement
-- **Mot-clé principal**: combien de voitures correspondent à 40hq conteneur chargement d'arrimage
-- **Termes de recherche secondaires**: 40HQ deux VUS, conteneur de rack de voiture à double pont, sangles d'arrimage du véhicule attache de roue, RoRo à conteneur conversion, conteneur wagon séquence de chargement
-- **Suggestions de liens internes**: /guides/véhicule-préexpédition-inspection-psi/; /guides/ev-shipping- un3171-imdg-compliance/; /véhicules/changan- cs75-plus/
+- ** H1 **: Chargement et arrimage du véhicule conteneur: Nombres, racks, séquençage et vérifications avant le scellement
+- **Mot-clé principal**: combien de voitures correspondent 40hq conteneurs chargés
+- **Termes de recherche secondaires**: 40HQ deux VUS, conteneur de rack de voiture à double pont, sangles d'arrimage du véhicule attache de roue vers le bas, RoRo à la conversion de conteneur, conteneur de la séquence de chargement
+- **Liens internes Suggestions**: /guides/véhicule-préexpédition-inspection-psi/; /guides/ev-shipping- un3171-imdg-compliance/; /véhicules/changan- cs75-plus/
 - **Suggestions d'image**: schéma d'arrimage de vue latérale; points d'arrimage des roues; double rack de retrait; ordre de chargement du haut + du bas
-- **ALT Suggestions**: "Storage latéral 40HQ deux VUS"; "pneumatiques à roues à huit sangles"
+- **ALT Suggestions**: " 40HQ deux arrimage côté VUS "; " roue de l'arrimage huit sangles "
 
 ## La question que tout le monde pose en premier
-"Combien de voitures dans un 40HQ ?" n'a pas de réponse universelle — il est fonction des dimensions du véhicule, du repliage du miroir, du système de rack et du plan de rangement approuvé par le transporteur**. Ce guide donne des bandes réalistes et la méthode; il ne promet délibérément pas un décompte fixe. Confirmer chaque expédition en fonction d'un plan de charge réel mesuré.
+« Combien de voitures dans un 40HQ ? » n'a pas de réponse universelle – il est fonction des dimensions du véhicule, du repliement des miroirs, du système de rack et du plan d'arrimage approuvé par le transporteur**. Ce guide donne des bandes réalistes et la méthode; il ne promet délibérément pas un décompte fixe. Confirmer chaque expédition en fonction d'un plan de charge réel mesuré.
 
 ## Bandes de chargement réalistes (d'après la pratique documentée)
-- **Pas de rack, conventionnel:** un 40HQ transporte généralement **deux VUS moyens/grands** (les exemples cités sont ~ 4.9 classe m comme ID. 6 / Range-Rover / Prado / Li Véhicules L7-scale) (diagramme de transitaire à source unique).
-- **Avec un rack à double pont coulissant:** un "2 supérieur + 2 inférieur" = quatre VUS** a été signalé dans un essai Yantai-port "RoRo-to-container" (source unique).
+- **Pas de rack, conventionnel:** un 40HQ transporte généralement **deux VUS moyens/grands** (les exemples cités sont ~ 4.9 m de classe comme ID. 6 / Range-Rover / Prado / Li L7-scale véhicules) (diagramme de transitaire à source unique).
+- **Avec un rack à double pont coulissant:** un **"en haut 2 + 2" = quatre VUS** a été signalé dans un essai Yantai-port "RoRo-to-container" (source unique).
 - **Sedans / China-Europe rail:****trois véhicules par boîte** apparaît dans le rapport de pratiques rail/sedan Chine-Europe (source unique).
 Ce sont des points de référence, non des droits: une fourgonnette à toit élevé, un pick-up ou un long wagon de service changent le nombre, et le chargement du rack nécessite un équipement certifié et un plan approuvé.
 
@@ -42,7 +42,7 @@ Adapté de la méthode de chargement des conteneurs documentés:
 5. **Déglaçage de la porte** — marge suffisante pour fermer et sceller; enregistrer les photos de la cale avant sceller.
 
 ## Note spécifique aux véhicules électriques
-Un EV/hybride à l'intérieur d'un conteneur transporte toujours une batterie de traction: suivez la documentation des marchandises dangereuses de l'océan et toute instruction de transport SOC/état de charge. sous IMDG Amendement 42-24 (obligatoire de 2026-01-01) un véhicule alimenté au lithium-ion-batterie est classé UN3556, et non le UN3171 générique existant; appliquer la documentation/détails de la SOC selon le présent Fiche technique sur le transport de véhicules électriques et le transporteur (voir le guide de conformité des véhicules électriques et électriques) Débrancher/préparer le 12 Le système V par transporteur et ne suppose pas qu'un SOP de stockage à combustion interne couvre un véhicule électrique.
+Un EV/hybride à l'intérieur d'un conteneur transporte toujours une batterie de traction: suivez la documentation des marchandises dangereuses de l'océan et toute instruction de transport SOC/état de charge. en vertu de l' amendement 42-24 de la directive IMDG (obligatoire de 2026-01-01) un véhicule alimenté au lithium-ion-batterie est classé UN3556, et non le précédent UN3171 générique; appliquer les détails de la documentation/SOC selon le bulletin d'information actuel sur le transport de véhicules électriques et de véhicules électriques et le transporteur (voir le guide sur la conformité des véhicules électriques et électriques aux normes de l'océan) Débrancher/préparer le 12 Le système V par transporteur et ne suppose pas qu'un SOP de stockage à combustion interne couvre un véhicule électrique.
 
 ## Ce que ce guide vous recommande de verrouiller avant de réserver
 - Un plan de charge **mesuré** pour les modèles exacts (longueur/largeur/hauteur, miroirs repliés), et non une promesse générique de deux ou quatre.
@@ -63,11 +63,14 @@ Un EV/hybride à l'intérieur d'un conteneur transporte toujours une batterie de
 - IMAGE_ASSET_PATH: aucun sécurisé dans le dépôt
 - ORIGINAL_IMAGE_URL: non capturé
 - SOURCE_PAGE: non capturé
+- SOURCE_FILE_PAGE: sans objet — aucun fichier multimédia candidat identifié (aucune licence pour affirmer)
 - HÔTEL DE DROITS: NON CONfirmÉ
 - LICENSE_OR_USAGE_BASIS: aucune image sécurisée — aucune image de tiers ne peut être publiée jusqu'à ce que les droits soient effacés
-- _DATE DE CHERCHE: 2026-09-05
+- _DATE DE CONTRÔLE: 2026-09-06
 - MODEL_TOPIC_MATCH: doit correspondre au modèle exact/version (ou au sujet du guide) et au marché de référence ci-dessus
+- IMAGE_SCOPE_NOTE: correspond à la famille/sujet du modèle exact seulement; ne doit pas impliquer une taille/modèle spécifique-année, VIN réel, inspection en personne ou transaction réelle
 - IMAGE_RIGHTS_STATUS: FAIL (aucun actif autorisé capturé; un détenteur de place ou -tain vieille image - Note n'est pas accepté)
+- C'est une question de "relation" Aucune image réutilisable ne peut être sécurisée: Wikimedia Commons/Flickr sont inaccessibles depuis l'environnement de recherche, les bibliothèques de stock nécessitent un accès authentifié API/licence, et une image de page web OEM n'est PAS une subvention de réutilisation commerciale; aucune photo appartenant à AutoBridge n'existe. Il a gardé la FAIL plutôt que de l'affirmer.
 - ALAT par langue:
   - **EN**: AutoBridge export-buyer reference — Loading cars into a 40HQ container, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Loading cars into a 40HQ container, guide d’achat à l’export automobile
@@ -85,18 +88,18 @@ Un EV/hybride à l'intérieur d'un conteneur transporte toujours une batterie de
 ## Sources et vérification
 | Titre de la source | Organisation | Marché | URL | Vérification | Confiance | Faits corroborés |
 |---|---|---|---|---|---|---|
-| Vue latérale du véhicule (Sangles 2/box, 8) | Matériel de transport de marchandises | Mondial | https://m.11467.com/product/d42473652.htm | 2026-09-03 | SOURCE UNIQUE | 2-SUV sans ouverture; ~ sangles 8; méthode de roue (une source) |
-| Premier essai du port de Yantai 4-SUV "RoRo-to-container" | Nouvelles du soir de Qilu / Toutiao | NC | http://m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | SOURCE UNIQUE | Upper2+lower2 rack; séquence de chargement (un essai rapporté) |
+| Vue latérale du véhicule (2/box, 8 sangles) | Matériel de transport de marchandises | Mondial | https://m.11467.com/product/d42473652.htm | 2026-09-03 | SOURCE UNIQUE | 2-SUV sans fissure; ~ 8 sangles; méthode de roue (une source) |
+| Premier procès du port de Yantai 4-SUV "RoRo-to-container" | Nouvelles du soir de Qilu / Toutiao | NC | http://m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | SOURCE UNIQUE | Upper2+lower2 rack; séquence de chargement (un essai rapporté) |
 | Chargement des wagons Chine-Europe (3/box) | Chemin de fer Harbin / Toutiao | NC | http://m.toutiao.com/group/6748371578787987979/ | 2026-09-03 | SOURCE UNIQUE | Berline/rail de référence à trois fois par boîte (une source) |
 | Méthode de chargement en cinq étapes pour les conteneurs d'exportation | Montant net | Mondial | https://www.163.com/dy/article/L42056IP05568MR2.html | 2026-09-03 | SOURCE UNIQUE | Vérification de l'arrimage en cinq points (une source) |
-*Note de portée (R4): chaque chiffre de chargement provient d'une source unique et distincte (toute SINGLE_SOURCE) — aucun fait n'est corroboré par deux sources indépendantes, donc aucun n'est étiqueté CROSS_ J'ai vérifié. Les dénombrements sont des références documentées de la pratique, pas un arrimage garanti; le nombre exact dépend toujours des dimensions mesurées et d'un plan de chargement approuvé, et les règles de transporteur/terminal doivent être confirmées lors de la réservation. *
+*Note de portée (R4): chaque chiffre de chargement provient d'une source unique et distincte (tous les SINGLE_SOURCE) — aucun fait n'est corroboré par deux sources indépendantes, donc aucun n'est étiqueté CROSS_ J'ai vérifié. Les dénombrements sont des références documentées de la pratique, pas un arrimage garanti; le nombre exact dépend toujours des dimensions mesurées et d'un plan de chargement approuvé, et les règles de transporteur/terminal doivent être confirmées lors de la réservation. *
 
 | Code de pratique OMI/OIT/CEE pour l ' emballage des unités de transport de marchandises (code CTU) | Organisation maritime internationale (OMI) | INT'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | VÉRIFIER | Principes de distribution, d'arrimage et de fixation du fret pour les TCU, y compris les conteneurs |
 | Conteneurs/référence de l'équipement | Conseil mondial des transports maritimes | INT'L | https://www.worldshipping.org/ | 2026-09-05 | VÉRIFIER | Contexte standard de la conception des conteneurs et des équipements de ligne pour la planification des charges |
 
 ## Révision de la rédaction
 - **Auteur / réviseur**: [Équipe de rédaction d'AutoBridge Export](/auteurs/) · méthode selon notre [Politique éditoriale](/politique éditoriale/)
-- **Dernière revue**: 2026-09-05
+- **Dernière révision**: 2026-09-05
 - **Marché de référence/étendue**: Opération logistique mondiale (méthode, pas une promesse de taux fixe)
 - ** Méthode de vérification**: orientation opérationnelle, aucun décompte universel affirmé
 - **Norme de rédaction**: Recherches et écrits provenant des sources énumérées ci-dessus (recherches de bureau; aucune conduite directe, démontage ou importation n'est revendiquée). La confiance de la source est affichée par ligne; tout point que nous ne pouvons confirmer indépendamment est présenté comme un élément de vérification plutôt que comme un fait.

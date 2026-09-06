@@ -1,59 +1,62 @@
-# BYD Qin Plus DM-i — PHEV Architecture, Two Battery Versions and Export Checks
-## SEO Metadata
-- **SEO Title**: BYD Qin Plus DM-i PHEV: Two Battery Versions & Export Guide
-- **Meta Description**: BYD Qin Plus DM-i explained for importers — how the 1.5L engine, electric motor, 8.32/18.32 kWh battery, E-CVT and operating modes combine, and why 55 vs 120 must be fixed by VIN.
-- **Suggested URL**: /vehicles/byd-qin-plus-dmi/
-- ~ H1~: BYD Qin Plus DM-i: PHEV Powertrain, Version Differences and What Importers Must Confirm
-- **Primary Keyword**: BYD Qin Plus DM-i specifications export
-- **Secondary Search Terms**: Qin Plus DM-i 55 vs 120, BYD DM-i plug-in hybrid, Qin Plus 18.32 kWh, Qin Plus DM-i overseas/Bahrain market, PHEV NEDC WLTC range, Chinese PHEV sedan export
-- **Internal Link Suggestions**: /vehicles/byd-yuan-plus/ ; /guides/chinese-ev-charging-standard-compatibility/ ; /guides/commercial-truck-fleet-procurement-china/
-- **Image Suggestions**: side profile sedan; 55 vs 120 version card; DM-i engine+motor+E-CVT layout; charging port; rear seat space
-- **ALT Suggestions**: "BYD Qin Plus DM-i plug-in hybrid sedan"; "55km versus 120km battery comparison"; "BYD DM-i series-hybrid powertrain layout"
-## Why a DM-i Has to Be Specified as a System
-The Qin Plus DM-i is a **plug-in hybrid (PHEV) compact sedan**, neither a pure EV nor a conventional petrol car. BYD's DM-i is a series-parallel system: a small, efficiency-tuned **1.5L naturally aspirated engine**, a drive **electric motor**, an LFP Blade Battery and an **E-CVT** work so the car runs on electricity where possible and uses the engine mainly for efficient generation and high-speed assist. Because of that, an order must fix **four things together — battery size, electric-only version, motor output and operating behaviour**; "a Qin Plus DM-i" without the 55/120 designation is ambiguous. This evergreen page covers the **2024 Glory Edition (荣耀版) China build (REFERENCE MARKET: CHINA)**. BYD also presents a **Qin Plus DM-i** on selected overseas market pages; those regional official specs govern those cars. **Model-identity rule:** a differently named BYD PHEV is treated as a *related* model, not the same model, unless BYD explicitly states the alias — shared platform, powertrain or appearance is not proof of SAME_MODEL.
-## The Two Versions Side by Side
-| Item | 55 version | 120 version |
+# BD Qin บวก DM-I สถาปัตยกรรม PhEVE แบตเตอรีสองรุ่น  and  Check ของส่งออก
+## เชา ข้อมูลกํากับภาพ
+- "The SEO THEO" (in) "DGI+ DM-I" (PDF). PEV: คู่มือสําหรับผู้ใช้สองรุ่น & ส่งออก
+- ""คําอธิบาย" BYD Qin Plus DM-i explained for importers — how the 1.5L engine, มอเตอร์ไฟฟ้า  8.32/18.32 kWh battery, อักขระ E- CVT  and  โหมดปฏิบัติการรวมกัน  and  ทําไม 55 vs 120 จึงต้องแก้ไขโดย VIN
+- ~ที่อยู่ URL ที่ถูกย่อ: / เวกซี่/ไบ๊ด-ชิน-เอ็สบวก-ดีมี/
+- **H1**: ขนาดไบต์ บวกอิน ดีเอ็ม-ไอ: PEVE Powerrenter, ความแตกต่าง รุ่นและสิ่งที่ผู้นําเข้าต้องยืนยัน
+- ~คําสําคัญ~ ไบต์ Qin บวก DM- i ถูกกําหนดให้ส่งออก
+- ~การค้นหาโดยย่อ ~: จิน บวก DM-i 55 vs 120, ByD DM-I ไมโครลูกผสม (in) QI+ 18.32 kWh, QI+ DM-i ต่างประเทศ/ตลาดบาฮาเรน, PhEV NEDC WLTC, ส่งออก SOCKS ของจีน PHEV
+- ** เชื่อมโยงภายใน **: / vehines/byd-uan-+/;////guides/chinishs-chines-chinishing-compatition/;/////guides/commercial-rangecation-china/
+- ** เคล็ดลับการนําเข้า ~: โพรไฟล์สีซีดาน; 55 vs 120 รุ่นใหม่; DM-i เครื่องยนต์ + motor+E-CVT planguage; พอร์ตชาร์จ; ที่นั่งหลัง
+- เคล็ดลับ: "BAD Qin บวก DM-i เสียบปลั๊กซีดานลูกผสม" " 55km กับ 120km แบตเตอรี่เปรียบเทียบ". "BED DM-Hri secy-Hi powerraft partraft".
+## ทําไม ดีเอ็ม ไอ ต้องได้รับการกําหนดเป็นระบบ
+Kin บวก DM-i เป็นรถลูกผสมแบบติดอันดับ (POEV) ทั้งรถอีวีทั้งรถน้ํามันทั่วไป DM-i ของไบดี เป็นระบบอนุกรม-พาราอัล: เครื่องยนต์ที่ปรับให้มีประสิทธิภาพน้อย ** 1.5L ตามธรรมชาติ ** มอเตอร์ขับเคลื่อน ** แบตเตอรี่ไฟฟ้า เครื่องยนต์ไฟฟ้า LFP และ ATF-CVT ** รถวิ่งบนไฟฟ้าที่ทําได้ และใช้เครื่องยนต์ส่วนใหญ่สําหรับรุ่นที่มีประสิทธิภาพ และความช่วยเหลือความเร็วสูง เพราะอย่างนั้น สั่งซื้อต้องแก้ไขสี่สิ่งด้วยกัน — ขนาดแบตเตอรี่ รุ่นไฟฟ้าเท่านั้น การแสดงผลของมอเตอร์  and  พฤติกรรมของปฏิบัติการ "A Qin Plus DM-i" โดยไม่มี 55/120 ชื่อไม่ชัดเจน This evergreen page covers the **2024 Glory Edition (荣耀版) China build (REFERENCE MARKET: คราง) ~ BD ยังนําเสนอ AN-//////////N บวก DM-i-ในหน้าตลาดต่างประเทศ สเป็กส์ของทางราชการส่วนนั้น ควบคุมรถพวกนั้น กฎของผู้ใช้: ~ ตัวแปรต่าง ๆ มีชื่อว่า BD PhEV ถูกปฏิบัติเป็นแบบจําลองที่เกี่ยวกับ * ไม่เหมือนกัน เว้นแต่ BD จะระบุชื่อ นามแฝงออกมาอย่างชัดเจน เช่น แชร์, พลังอํานาจ หรือ การปรากฏตัวไม่ใช่ข้อพิสูจน์ของเดียวกัน_ ฟิล์ม MDL
+## สอง ฉบับ ข้าง ๆ
+| รายการ | 55 รุ่น | 120 รุ่น |
 |---|---|---|
-| Front drive motor (PMSM) | 132 kW (180 PS) / 316 N·m | 145 kW (197 PS) / 325 N·m |
-| LFP Blade Battery | 8.32 kWh | 18.32 kWh |
-| Electric-only range | 55 km NEDC / 46 km WLTC | 120 km NEDC / 101 km WLTC |
+| มอเตอร์ไดรฟ์หน้า (PMSM) | 132 kW (180 PS) / 316 N·m | 145 kW (197 PS) / 325 N·m |
+| แบบ LFP แบตเตอรีของเบลด | 8.32 kWh | 18.32 kWh |
+| ช่วงของอิเล็กโทรนิค | 55 km เอ็นอีดีซี / 46 km WLTC (พ.ศ. | 120 km เอ็นอีดีซี / 101 km WLTC (พ.ศ. |
 | 0–100 km/h | 7.9 s | 7.3 s |
-The 145 kW / 197 PS output of the larger-battery car and its ~18.3 kWh pack are corroborated on **BYD's own regional Qin Plus DM-i page for Bahrain (en-bh, VERIFIED, scope limited to that named model)**; China version figures (8.32/18.32 kWh, 132/145 kW, NEDC/WLTC) are cross-checked across Chinese databases (CROSS_CHECKED). The 120 is both quicker and heavier (curb ~1620 kg for the 120KM 领先型).
-## Engine and Operating Mode (the PHEV-specific questions)
-- ~... ~: 1.5L naturally aspirated L4, 81 kW (110 PS) / 135 N·m; it is primarily a generator/assist unit rather than the main drive motor.
-- **Transmission**: E-CVT single-speed electric continuously variable drive — there is no multi-step gearbox to spec.
-- **Modes**: EV (charge-depleting) and hybrid (charge-sustaining) operation; charge-sustaining fuel use is quoted around 3.8 L/100 km (NEDC). For an export fleet, explain to customers that real-world fuel use depends on charging behaviour — a PHEV driven without charging behaves like a hybrid, not an EV.
-- **Top speed**: 185 km/h.
-## Battery, Charging and Two-Range Discipline
-A PHEV carries **two** range numbers that buyers conflate: **electric-only range** (state the cycle: 120 NEDC = 101 WLTC) and a separate **combined fuel+battery range** (a ~1245 km Chinese-lab figure rests on a single source and must be presented as a quoted Chinese combined number, never as electric range). Charging differs by version and grade: confirm onboard AC capability, **whether DC fast charging is included on the chosen grade**, the GB/T connector versus destination infrastructure, and the fuel grade the 1.5L engine expects — a PHEV needs both a charging path and an engine service/fuel path.
-## Dimensions and Cabin
-4765 × 1837 × 1495 mm, wheelbase 2718 mm, four-door five-seat monocoque sedan; tyres 225/60 R16 on captured grades. Confirm curb weight by battery version on the compliance plate.
-## What AutoBridge Adds Beyond a Spec Table
-Parameter sites list 55 and 120 rows but leave the importer to untangle cycles and modes. The recommended method is a **VIN-level note binding motor output, battery kWh, electric-range cycle and charge capability together**, flagging grades where DC fast charging is absent (a common order error on the small-battery car), and stating electric vs combined range separately so a PHEV is never advertised on its combined number as if it were EV range.
-## Before Payment
-- Fix **55 or 120**, with matching motor (132/145 kW) and battery (8.32/18.32 kWh) on the VIN build sheet.
-- Record the electric-range **cycle** (NEDC vs WLTC) and obtain destination-certified PHEV range/CO₂ where tax or incentives depend on it.
-- Confirm connector and AC/DC capability **by grade**; do not assume GB/T matches destination sockets.
-- Confirm steering side, infotainment language/OTA outside China, and warranty that covers engine **and** battery **and** motor.
-- Verify the destination's PHEV classification — hybrid incentives/homologation differ from pure EVs.
-## Request a Current Export Quotation
-No static export price is published; the RMB 79,800–125,800 China Glory Edition guide price is a **domestic, time-sensitive reference, not an FOB/CIF figure**. Enquire with **Destination Country · Quantity · Version (55/120) & Grade · LHD/RHD · Destination Port · Incoterm**.
-## Frequently Asked Questions
-**What differs between the 55 and 120?** The 120 has an 18.32 kWh battery, a stronger 145 kW motor, longer electric range and quicker acceleration; the 55 uses 8.32 kWh and 132 kW.
-**Is the 1.5L the main drive unit?** In DM-i it is mainly a generator/assist; the electric motor provides primary drive.
-**Why two electric-range numbers?** China labels NEDC and WLTC (120 NEDC = 101 WLTC); always quote the cycle.
-**Is 1245 km electric range?** No — it is a combined fuel+battery Chinese figure; electric-only is at most 120 km NEDC.
-**Is it sold abroad?** BYD presents a Qin Plus DM-i on selected overseas market pages; use the destination official sheet. Any different export nameplate requires explicit BYD confirmation — a related-looking BYD PHEV is not assumed to be the same model.
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICNE_OR_USARIAND_BALE: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
-- RODL_TOIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- ALT by language:
+145 kW/ 197 PS ส่งผลให้รถที่มีขนาดใหญ่กว่า และรถยู 18.3 kWh แพ็คได้ถูกตรวจสอบแล้วใน เครือข่ายของจีบีดีที่เป็นเจ้าของ QN+ DM-I สําหรับบาเรน (en-bh, ppelified จํากัดชื่อที่ China version figures (8.32/18.32 kWh,  132/145 kW, NEDC/WLTC) กําลังมีการตรวจสอบผ่านฐานข้อมูลจีน (CROSS_SCKED). 120 เร็วกว่าและหนัก (curb ~ 1620 kg สําหรับ 120KM 领先型).
+## โหมดเครื่องยนต์และเครื่องปฏิบัติการ (คําถามเฉพาะสําหรับ PhEV)
+- ~... ~: 1.5L ตามธรรมชาติที่วัดได้ L4 (พ.ศ. 81 kW (110 PS) / 135 N·m; พ.ศ. พื้นฐานแล้วมันเป็นหน่วยกําเนิดไฟฟ้า/แอสสติก มากกว่ามอเตอร์หลัก
+- ** ขับเคลื่อนด้วยพลังงานไฟฟ้าแบบเร็ว อีซีวีที ตัวแปรต่อเนื่อง — ไม่มีอุปกรณ์หลายขั้นตอนที่จะระบุ **
+- ** เสียชีวิต ** (ชาร์จไฟ) และลูกผสม (การบํารุงรักษา); เชื้อเพลิงที่ชาร์จไฟถูกอ้างถึง 3.8 L/ 100 km (NEDC). สําหรับกองเรือส่งออก อธิบายให้ลูกค้าฟังว่า การใช้เชื้อเพลิงโลกจริง ขึ้นอยู่กับพฤติกรรมการชาร์จ — นักกีฬาที่ขับรถโดยไม่ได้ชาร์จพฤติกรรมเหมือนลูกผสม ไม่ใช่ EV
+- ** ความเร็วสูงสุด: 185 km/h **
+## แบตเตอรี่, ชาร์จ และวินัยสองแรง
+A PHEV carries **two** range numbers that buyers conflate: ** มีช่วงพลังงานเท่านั้น~ (บอกตําแหน่งวงจร: 120 NEDC = 101 WLTC) และแยกเป็น "เชื้อเชื้อ เพลิง"+ batalry เรนจ์ (As ~ 1245 km board languages on a sources และต้องนําเสนอเป็นตัวเลขจีนที่อ้างถึงจากจํานวนรวมเป็นช่วงไฟฟ้า). การชาร์จต่าง ๆ โดยรุ่นและเกรด: ยืนยันระบบ ACA บนยาน, ** ชาร์จเร็ว จะรวมอยู่ในเกรดที่ถูกเลือกหรือไม่ ~, จีบี/ที เชื่อมต่อกับโครงสร้างพื้นฐานปลายทาง และระดับเชื้อเพลิงที่ คาดว่าจะใช้เครื่องยนต์ 1.5L — PHE ต้องการทั้งเส้นทางชาร์จ และเส้นทางบริการเครื่องยนต์/เส้นทาง
+## ขนาด และ กาฝาก
+4765 × 1837 × 1495 mm เบส 2718 mm  four-door five-seat monocoque sedan; ยาง 225/60 R16 ในเกรดที่ถูกจับ ยืนยันน้ําหนักตามรุ่นแบตเตอรี่ในจานการปฏิบัติตาม
+## เพิ่มอะไรเข้าไปในโต๊ะสเปก
+Parter เว็บไซต์รายการ 55 และ 120 แถว แต่ปล่อยให้ตัวนําเข้าเป็นวงจร untrang และโหมด วิธีการแนะนําคือ ~VIN-ระดับโน้ตที่เชื่อมกันของมอเตอร์ แบตเตอรี kWH วงจรไฟฟ้า-range และความสามารถในการชาร์จไฟฟ้าด้วยกัน *, เกรดที่ธงที่ชาร์จเร็วไม่ปรากฏ (ความผิดพลาดทั่วไปของลําดับบนรถยนต์ขนาดเล็ก), และบอกว่า เครื่องยนต์ vs รวมกันในช่วงต่าง ๆ ดังนั้น PhEV จะไม่เคยโฆษณาในตัวเลขรวมกันของมันถ้าเป็นช่วง EV
+## ก่อน จะ จ่าย
+- Office ~ 55 หรือ 120 ~  with matching motor (132/145 kW)  and  battery (8.32/18.32 kWh) on the VIN build sheet.
+- บันทึกสัญญาณไฟฟ้า-ระยะไกล---จักรยาน--จักรยาน----ล้อไฟฟ้า--ล้อหมุน-ล้อหมุน-ล้อหมุน-ล้อหมุน-ล้อหมุน-ล้อหมุน-ล้อหมุน-ล้อหมุน-ล้อหมุน-หมุน-หมุน-หมุน-หมุน-หมุน-หมุน-หมุน-หมุน-หมุน-หมุน-หมุน-หมุน-หมุน-หมุน-หมุน-หมุน-หมุน-หมุน-หมุน-หมุน-หมุน-หมุน-หมุน-หมุน-หมุน-หมุน-หมุน---หมุน--หมุน---หมุน---หมุน--หมุน-หมุน--หมุน-------------------------------------------------------------------------------------------------------------------------------------
+- ยืนยันการเชื่อมต่อและ AC/DCOW ** โดยเกรด ~; อย่าสมมุติว่าเป็น paint ที่ตรงกับ GB/T
+- ยืนยันด้านพวงมาลัย, การสื่อสารแบบภาษา/โอทีต้า นอกประเทศจีน และรับประกันครอบคลุมเครื่องยนต์
+- ตรวจสอบการจําแนกประเภท PhEV ของปลายทาง แรงจูงใจลูกผสม/การโฮโมล็อกชั่น แตกต่างจาก EVs บริสุทธิ์
+## ต้องการการอ้างถึงการส่งออกแบบปัจจุบัน
+ไม่มีราคาส่งออกแบบคงที่ RMB 79 (พ.ศ. 800–125 (พ.ศ. 800 แนวทางแต่งงานของจีน ราคามันสูง การอ้างอิงที่ไวต่อเวลา ไม่ใช่รูป FOB/CIF Enquire with **Destination Country · Quantity · Version (55/120) & Grade · LHD/RHD · Destination Port · Incoterm**.
+## คํา ถาม ที่ มัก จะ ถาม บ่อย ๆ
+~มีอะไรแตกต่างระหว่าง 55 กับ 120~ 120 มีแบตเตอรี่ 18.32 kWh มอเตอร์ที่แข็งแรง 145 kW มอเตอร์ ระยะไฟฟ้ายาวขึ้น และเร่งเร็วขึ้น 55 ใช้ 8.32 kWh และ 132 kW.
+" 1.5L หน่วยไดรฟ์หลักใช่มั้ย" ใน DM-I ส่วนใหญ่จะเป็นเครื่องกําเนิดไฟฟ้า/assist มอเตอร์ไฟฟ้าจะให้ไดรฟ์หลัก
+ทําไมตัวเลขสองหมายเลข จีน ตรา เน็ต ซีดี และ WLTC (120 NEDC = 101 WLTC); ยกมาอ้างวัฒนานี้เสมอ (พ.ศ.
+**Is 1245 km electric range?** No — it is a combined fuel+battery Chinese figure; กระแสไฟฟ้าอย่างเดียวคือ 120 km NEDC
+~ขายไปต่างประเทศหรือเปล่า~ BD นําเสนอ Qin บวก DM-i ในหน้าตลาดต่างประเทศที่เลือกไว้ ใช้แผ่นประกาศปลายทางอย่างเป็นทางการ แผ่นชื่อใด ๆ ที่มีการส่งออกต้องยืนยันแบบไบดีโดยตรง — ภาพถ่ายแบบ BD ที่มีลักษณะคล้ายคลึงกัน ไม่ได้ถูกสันนิษฐานกันว่าเป็นแบบเดียวกัน
+## บันทึกรูปภาพ
+- _ปราสาท: ไม่มีความปลอดภัยในคลังเก็บ
+- ส่วนตัว_ปลายทาง: ไม่ได้จับ
+- ผู้โดยสาร: ไม่ถูกจับ
+- HOURS_ PDFAGE: ไม่มีผล — ไม่มีชื่อแฟ้มสําหรับเลือกสื่อ (ไม่มีใบรับรองที่จะยืนยัน)
+- ลิขสิทธิ์: ไม่ยืนยัน
+- LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
+- _กําหนดวันที่: 2026-09-06
+- MERCUL_ TOPIC_ MATCH: ต้องตรงกับรุ่น/ การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
+- CHAR_SCPE_NOTE: ตรงกับโมเดลที่เป๊ะของครอบครัว/ topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
+- March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
+- BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
+- ALT ด้วยภาษา:
   - **EN**: AutoBridge export-buyer reference — BYD Qin Plus DM-i, plug-in hybrid vehicle / sedan
   - **FR**: Référence AutoBridge pour acheteurs export — BYD Qin Plus DM-i, véhicule hybride rechargeable / berline
   - **DE**: AutoBridge-Referenz für Exportkäufer — BYD Qin Plus DM-i, Plug-in-Hybridfahrzeug / Limousine
@@ -67,22 +70,22 @@ No static export price is published; the RMB 79,800–125,800 China Glory Editio
   - **AR**: مرجع AutoBridge لمشتري التصدير — BYD Qin Plus DM-i, مركبة هجينة قابلة للشحن / سيدان
   - **ZH**: AutoBridge 出口采购参考｜BYD Qin Plus DM-i, 插电混动车 / 轿车
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## ต้นฉบับและการตรวจสอบสิทธิ์
+| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| BYD QIN PLUS DM-i official regional page (en-bh = Bahrain country site) | BYD (**manufacturer official**) | Export / **Bahrain (regional en-bh page; not UAE)** | https://www.byd.com/en-bh/car/qin-plus-dmi | 2026-09-03 | **VERIFIED (scope: this named Qin Plus DM-i only)** | 18.3 kWh pack, up to 197 hp/145 kW, 7.3 s for the named Qin Plus DM-i |
-| Glory Edition 55/120 config | Autohome (汽车之家) | CN | http://dealer.autohome.com.cn/2116572/spec_66744.html | 2026-09-02 | ROOS_ CHCKED | Dimensions, 1.5L 81 kW, 132 kW motor, E-CVT, range |
-| Glory Edition launch / detail | Autohome Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/18481020 | 2026-09-02 | ROOS_ CHCKED | 145 kW/325 N·m, 18.32 kWh, combined-range quote |
-| Qin Plus config | Xcar (爱卡) / PCauto / Guazi | CN | https://newcar.xcar.com.cn/m72508/config.htm | 2026-09-02 | ROOS_ CHCKED | Curb weight, wheelbase, NEDC/WLTC, battery |
-| 汽车之家（车家号）秦PLUS DM-i 荣耀版上市 | 汽车之家 | CN | https://chejiahao.m.autohome.com.cn/info/14654247 | 2026-09-02 | SINGLE_SOURCE | 发动机 81kW/135N·m、电机 132kW/145kW、指导价 7.98-12.58 万 |
-| 瓜子二手车 参数页 | 瓜子二手车 | CN | https://m.guazi.com/qichecanshu/c163518812263347.html | 2026-09-02 | SINGLE_SOURCE | 55KM 版电池 8.32kWh、电机 132kW/316N·m、电耗 11.4 |
-| 太平洋汽车 参数页 | 太平洋汽车网 | CN | https://price.pcauto.com.cn/m126873/config.html | 2026-09-02 | SINGLE_SOURCE | 轴距 2718mm、油耗、0-100 加速 |
+| ByD QN PLUS DM-i หน้าอย่างเป็นทางการของภูมิภาค (N-bh=เว็บไซต์ประเทศบาเรน) | BD (ประกาศการ) | ส่งออก / ~ บาห์เรน (หน้าซ้ํา; ไม่ใช่ UAE) ~ | https://www.byd.com/en-bh/car/qin-plus-dmi | 2026-09-03 | ~ ISFIIIE (scope: this name Cin บวก DMi เท่านั้น] ~ * | 18.3 kWh ฝูง เพิ่มขึ้น 197 hp / 145 kW 7.3 เอส สําหรับชื่อ Qin บวก DM-i |
+| การปรับแต่งเกียรตินิยม 55/120 ฉบับ | ออโต้โฮม (汽车之家) | CN | http://dealer.autohome.com.cn/2116572/spec_66744.html | 2026-09-02 | ROOS_ CHCKED | ขนาด 1.5L 81 kW (พ.ศ. 132 kW มอเตอร์ (พ.ศ. E-CVT ช่วง |
+| เปิดตัวครั้งแรก / รายละเอียด | บ้าน เช จิ อา อู | CN | https://chejiahao.m.autohome.com.cn/info/18481020 | 2026-09-02 | ROOS_ CHCKED | 145 kW / 325 N·m 18.32 kWh ยกมาอ้างอิงรวม (พ.ศ. |
+| ปรับแต่งค่า QIn+ | เอ็กซ์คาร์ (爱卡) / พีสโญโต / กัวซิ | CN | https://newcar.xcar.com.cn/m72508/config.htm | 2026-09-02 | ROOS_ CHCKED | น้ําหนักเส้นโค้ง, เบสล้อ, NEDC/WLTC, แบตเตอรี่ |
+| 汽车之家 (车家号) 秦 พลโท DM-i 荣耀版上市 (พ.ศ. | 汽车之家 | CN | https://chejiahao.m.autohome.com.cn/info/14654247 | 2026-09-02 | ผู้โดยสาร_ปลายทาง | 发动机 81kW/135N·m、电机 132kW/145kW、指导价 7.98-12.58 万 |
+| 瓜子二手车 参数页 | 瓜子二手车 | CN | https://m.guazi.com/qichecanshu/c163518812263347.html | 2026-09-02 | ผู้โดยสาร_ปลายทาง | 55KM 版电池 8.32kWh、电机 132kW/316N·m、电耗 11.4 |
+| 太平洋汽车 参数页 | 太平洋汽车网 | CN | https://price.pcauto.com.cn/m126873/config.html | 2026-09-02 | ผู้โดยสาร_ปลายทาง | 轴距 2718mm、油耗、0-100 加速 |
 
-*Confidence note (AutoBridge standard): the large-battery output/pack is VERIFIED on BYD's own regional Qin Plus DM-i page (en-bh/Bahrain); detailed China version figures are CROSS_CHECKED. The ~1245 km combined figure is SINGLE_SOURCE and a Chinese-cycle combined number. Overseas figures are used only from BYD pages that explicitly name "Qin Plus DM-i"; no SAME_MODEL relationship to any differently named BYD PHEV is inferred without explicit OEM proof (RELATED_MODEL ≠ SAME_MODEL).*
-## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: China 2024 Glory Edition PHEV (export platform names vary)
-- **Verification method**: OEM export page + multi-database cross-check; electric vs combined range and test cycles kept distinct
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+* โน้ตการยกเลิก (มาตรฐานอัตโนมัติของ อัตโนมัติ: การแสดงผลแบบบาตเทอรี่ขนาดใหญ่/ แพค มีผลมาจาก biffIE (IFIFIE) ในภาคภูมิภาค Qin บวก DM-i (n-bh/Bahrain); ตัวแบบแบบแบบต่าง ๆ ของจีน คือ CROSS_CHCCIE. ~ 1245 km ตัวเลขรวมกันคือ Single_SEVE และรถจีนรวมกัน จํานวนโอเวอร์ซ่าถูกใช้จากไบดีหน้าเท่านั้น ที่มีชื่อโดยตรงว่า "น้ํา" บวก DM-i; ไม่มีเหมือนกัน_ ความสัมพันธ์ระหว่าง Model กับชื่ออื่น ๆ BD PhEV ถูกบรรจุไว้โดยไม่มีการพิสูจน์อย่างแน่ชัด (RELLL   access_MD). *
+## การทบทวนแก้ไข
+- ~Uuthor/ retrieved~: [บีดริดจ์ ส่งออกทีมแก้ไข] (/ ผู้เขียน/) วิธี [แก้ไข] ของเรา [นโยบายการเลือ [/ การแก้ไข- policy/]
+- ~ถูกตรวจสอบแล้ว~: 2026-09-05
+- ~ตลาดแห่งความรุ่งเรือง: จีน 2024 ~ First Every (ชื่อพอร์ตต่าง ๆ)
+- ~ วิธีการปรับตั้ง~: หน้าส่งออก OEM + ส่วนเสริมหลาย ๆ แบบ ครอส-เบส; ช็อต vs รวมกันช่วงและวงจรการทดสอบทําให้มีความแตกต่างกัน
+- ~มาตรฐานการแบ่งส่วน ~: Research and med from the source address address (Desk Research; ไม่มีการขับรถมือหนึ่ง, runchown หรือนําเข้า). ความมั่นใจของแหล่งแสดงต่อแถว; จุดใด ๆ ที่เราไม่สามารถยืนยันได้ด้วยตัวเอง ถูกนําเสนอเป็นรายการตรวจสอบแทนการยืนยันว่าเป็นความจริง
 #AutoBridge #VehicleExport #BYD #QinPlusDMi #PHEVSedan

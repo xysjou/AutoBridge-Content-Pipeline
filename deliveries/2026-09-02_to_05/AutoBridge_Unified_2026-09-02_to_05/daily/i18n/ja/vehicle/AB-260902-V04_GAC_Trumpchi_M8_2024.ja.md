@@ -1,97 +1,100 @@
-# GAC Trumpchi M8 2024 — Business MPV: Series Differences, Seating Layout and Export Notes
+# GAC トランチ M8 2024 - ビジネス MPV:シリーズの違い、レイアウトとエクスポートノートを座る
 
-## SEO Metadata
-- **SEO Title**: GAC Trumpchi M8 2024 MPV Specs, Series & Seating Export Guide
-- **Meta Description**: 2024 GAC Trumpchi M8 China reference specs: Master/Grandmaster vs Lingxiu series, 2.0TGDI 185 kW, 8AT, 7-seat layout, dimensions, and overseas buyer verification points.
-- **Suggested URL**: /vehicles/gac-trumpchi- m8/
-- **H1**: GAC Trumpchi M8 2024 (China): MPV Series, Seating and Specification Map for Importers
-- **Primary Keyword**: GAC Trumpchi M8 2024 specifications export
-- **Secondary Search Terms**: Trumpchi M8 7-seat MPV, GAC M8 2.0TGDI 8AT, Trumpchi M8 Master series, Chinese luxury MPV export, GAC M8 Middle East
-- **Internal Link Suggestions**: /guides/right-hand-drive-chinese-cars/;; /guides/commercial-truck-fleet-procurement-china/;; /vehicles/forthing-lingzhi- m5/
-- **Image Suggestions**: side profile showing 3070 mm wheelbase; second-row captain seats; three-series comparison; sliding door and aisle; driver cockpit
-- **ALT Suggestions**: "2024 GAC Trumpchi M8 Grandmaster seven-seat business MPV, China spec"; "Trumpchi M8 second-row captain seats and aisle"; "M8 Master vs Grandmaster vs Lingxiu series comparison"
+## ツイート メタデータ
+- ** SEO タイトル**: GAC トランチ M8 2024 MPV 仕様, シリーズ & シート輸出ガイド
+- **メタ 説明**:2024 GAC トランチM8 中国参考仕様:マスター/グランドマスター対リンギョシリーズ、2.0TGDI 185 kW、8AT、7-seatレイアウト、寸法、海外バイヤー検証ポイント。
+- **混雑URL**: /vehicles/gac-trumpchi- m8/
+- H1 ホテル **: GAC トランチ M8 2024 (中国): MPV シリーズ、シートおよび輸入業者のための指定の地図
+- **主なキーワード**: GAC トランチ M8 2024 仕様輸出
+- **二次検索条件**: トランチM8 7-seat MPV、GAC M8 2.0TGDI 8AT、 トランティカM8 マスターシリーズ、中国の贅沢なMPVの輸出、GAC M8 中東
+- **内部リンクの提案**: /guides/right-hand-drive-chinese-cars/; /guides/commercial-truck-fleet-procurement-china/; /vehicles/forthing-lingzhi- m5/
+- **イメージ提案**: 側面のプロフィールは3070 mmのホイールベースを示す; 後列のキャプテン シート; three-series comparison; 引き戸および通路; ドライバーコックピット
+- アルト 提案**: "2024 GAC Trumpchi M8 Grandmaster seven-seat business MPV, 中国仕様"; 「トルプチM8秒のキャプテンシートと通路」。 「M8マスター対グランドマスター対リンギスシリーズ比較」
 
-## Why Buyers Look at the M8
+## なぜバイヤーがM8を見て
 
-The Trumpchi M8 is a mid-large, monocoque **business/family MPV** whose value sits in cabin space and second-row seating rather than driving dynamics. It is primarily an **ICE (petrol) 2.0T** model, with a hybrid (双擎) version also offered in China whose specific figures are not asserted on this page. GAC Group also publishes an overseas **GAC M8** configuration (including Middle-East markets, in LHD and, where offered, RHD); export specs must follow that official overseas material. Everything below is the **Chinese-market reference (REFERENCE MARKET: CHINA)**, representative trim the 2024 宗师 (Grandmaster) 2.0TGDI.
+トランプチM8は中規模で、 モノコック **客室スペースに値するビジネス/家族MPV**  and  second-row seating rather than driving dynamics. 主に**ICE(petrol)2.0T **モデルで、ハイブリッド(双擎)バージョンもこのページでは特定の数字が主張されていない中国で提供されている。 ガック グループも海外の**GAC M8 **構成(LHDおよび提供場所RHDの中東市場を含む)を公開しています。 輸出仕様は、公式の海外素材に従う必要があります。 以下は、**中国市場参照(REFERENCE MARKET)です。 CHINA**、代表は2024 宗师(グランドマスター)2.0TGDI.をトリムします
 
-## The First Decision: Which Series
+## 第一次決定:どのシリーズ
 
-China splits the M8 into three series that differ in size, wheelbase and torque calibration, so the series name must appear on every order:
+China splits the M8 into three series that differ in size, ホイールベース  and  トルクの口径測定、 そのため、シリーズ名は、すべての注文に表示する必要があります。
 
-| Series | Length × Width × Height | Wheelbase | Engine | Torque |
+| 系列系列 | 全長×幅×高さ | ホイールベース | 油圧エンジン | トルク |
 |---|---|---|---|---|
 | 宗师 Grandmaster / 大师 Master | 5212 × 1893 × 1823 mm | 3070 mm | 2.0T, 185 kW (252 PS) | **400 N·m** |
-| 领秀 Lingxiu (390T) | 5089 × 1884 × 1822 mm | 3000 mm | 2.0T, 185 kW (252 PS) | **390 N·m** |
+| 领秀 リンギュ (390T) | 5089 × 1884 × 1822 mm | 3000 mm | 2.0T, 185 kW (252 PS) | **390 N·m** |
 
-Power output is identical at 185 kW, but the Grandmaster/Master calibration peaks at 400 N·m versus 390 N·m for the Lingxiu 390T — a small but real difference that should not be flattened into a single "M8 torque" figure. Grandmaster/Master dimensions and wheelbase are **VERIFIED** against GAC official pages; Lingxiu values are cross-checked via Autohome/Yiche.
+出力は185 kWと同一ですが、Lingxiu 390Tの400 N·m 対390 N·mのグランドマスター/マスターキャリブレーションピークは、単一の「M8トルク」の数値に平らにならない、小型で実質的な違いです。 グランマスター/マスターの寸法とホイールベースは、GACの公式ページから**VERIFIED **です。Lingxiu値は、Autohome/Yicheを介してクロスチェックされます。
 
-## Mechanical Specification (Petrol Versions)
+## 機械仕様(ペトロール版)
 
-| Item | Chinese-market reference value |
+| アイテム | 中国の市場参照値 |
 |---|---|
-| Engine | 2.0T turbo L4, 185 kW (252 PS); 400 N·m (Grandmaster) / 390 N·m (Lingxiu) |
-| Transmission | 8-speed automatic (8AT) |
-| Seating / doors | 5-door MPV, 7 seats across the range (a 4-seat care/旗舰 variant also exists) |
-| Suspension | Front MacPherson / rear multi-link |
-| Curb weight | ~2060 kg (大师 尊贵版 reference, official) |
-| Top speed | 200 km/h |
-| WLTC fuel use | 8.85 L/100 km (Lingxiu 390T 豪华版, database figure) |
+| 油圧エンジン | 2.0TターボL4、185 kW (252 PS));400 N·m (グランドマスター)/390 N·m (Lingxiu) |
+| トランスミッション | 8-speed 自動(8AT) |
+| 座席/ドア | 5-door MPV、7 席(4-seat ケア/旗舰 種類) |
+| サスペンション | フロントマックファーソン/リアマルチリンク |
+| 車両重量 | 〜2060 kg(大师 尊贵版参照、公式) |
+| トップスピード | 200 km/h |
+| WLTC燃料使用 | 8.85 L / 100 km (Lingxiu 390T 豪华版、データベース図) |
 
-## Seating and Interior — The Core of an MPV Purchase
+## 座席とインテリア — MPV購入のコア
 
-With a 3070 mm (Grandmaster/Master) wheelbase in a 5.2-metre body, the M8 is configured around three rows and walk-through access to second-row captain chairs. For an importer or fleet buyer, the questions that actually change the delivered car are:
+5.2-metre ボディの 3070 mm (Grandmaster/Master) ホイールベースを使って、  the M8 is configured around three rows  and  walk-through access to second-row captain chairs. 輸入業者やフリートバイヤーにとって、実際に運送された車を変更する質問は次のとおりです。
 
-- **Seat count**: the standard line is seven seats; a four-seat variant exists for chauffeured/lounge use. Confirm which layout your market needs rather than assuming all M8s are 7-seat.
-- **Second-row specification**: captain-chair functions (ventilation/heating/massage, leg rests, centre console) move by grade — request a line-item seat-equipment list.
-- **Sliding doors and entry**: confirm powered side-sliding doors and tailgate by grade.
-- **Length vs parking/garage constraints**: the 5212 mm Grandmaster is longer than the 5089 mm Lingxiu; relevant for tight urban markets.
+- **座席数**: the standard line is seven seats; a four-seat variant exists for chauffeured/lounge use. 市場ニーズを、M8s を想定するのではなく、どのレイアウトで表示するかを確認 7-seat.
+- **Second-rowの指定**: キャプテンチェア機能(換気/熱/マッサージ、脚の残り、中央コンソール)はグレードで移動します。ラインアップシート式リストをリクエストします。
+- **スライドドアとエントリー**:電源側のスライドドアを確認し、グレードでテールゲートします。
+- **長さ対駐車場/ガレージ制約**:5212 mmグランドマスターは5089 mm Lingxiuよりも長いです。タイトな都市市場に適しています。
 
-## China vs Export Build — Verification Points
+## 中国対輸出ビルド — 検証ポイント
 
-- GAC publishes an overseas GAC M8 configuration; **do not copy Chinese dimensions/power onto an export VIN** — match the destination official sheet.
-- Confirm **LHD/RHD** availability for the target country and whether the specific series is produced in that steering layout.
-- Verify emission-standard acceptance, fuel grade and the destination homologation for a China-spec petrol MPV.
-- Confirm infotainment language, navigation and connected services outside mainland China, plus warranty coverage for a parallel-imported unit.
-- If a customer specifically wants the **hybrid (双擎)**, request its separate official specification — this page does not infer hybrid battery/motor figures from the petrol car.
+- GACは海外のGAC M8構成を公開しています。**中国寸法/出力をエクスポートVIN**にコピーしないようにしてください。
+- 対象国でLHD/RHD** の可用性と、そのステアリングレイアウトで特定のシリーズが生成されるかどうかを確認します。
+- 中国のスペクトロロールMPVの排出標準的な受諾、燃料の等級および目的地の均質化を確かめて下さい。
+- チェック言語、ナビゲーション、および接続されたサービスがメインランド中国外で確認し、並列インポートされたユニットの保証範囲。
+- お客様が「**hybrid (双擎)」を特に望んでいる場合は、その別の公式仕様をリクエストしてください。このページは、ガソリン車からハイブリッドバッテリー/モーターフィギュアを侵入しません。
 
-## What AutoBridge Adds Beyond the Brochure
-MPV buyers are sold a "luxury seven-seater" label that hides three different series and seat layouts. This guide recommends recording the **series-specific wheelbase and torque calibration (400 vs 390 N·m)** on the order, preparing a **line-item second-row seat-equipment list** (ventilation/heating/massage, leg rests, powered doors) so trim is not mis-substituted, and comparing the Chinese build against GAC's **overseas M8 sheet** before deposit rather than copying China dimensions onto an export VIN.
-## Pre-Payment Checklist
-- Seating defines this MPV, but drive configuration still matters for registration — read the driven axle off the homologation certificate rather than assuming a layout from the business-MPV class.
+## AutoBridgeがパンフレットを超えて追加するもの
+MPV buyers are sold a "luxury seven-seater" label that hides three different series  and  シートレイアウト。 このガイドは、注文で**シリーズ固有のホイールベースとトルクキャリブレーション(400対390 N·m)**を記録することを推奨しています。**(換気/加熱/マッサージ、レッグレスト、動力を与えられたドア)ので、トリムは、誤って置換されず、GACの**オーバーシーM8シート**に対する中国ビルドを比較して、VINに中国寸法をコピーするのではなく、堆積する前に。
+## 事前支払いチェックリスト
+- 座席は、このMPVを定義しますが、登録のために設定を駆動するが、事業MPVクラスからレイアウトを想定するのではなく、この均質化証明書を駆動軸に読み取ります。
 
-1. Record the exact series (Grandmaster/Master/Lingxiu) and grade; attach the matching dimensions and 400 vs 390 N·m calibration.
-2. Confirm seating layout (7-seat vs 4-seat) and second-row seat functions line by line.
-3. Confirm steering side, sliding-door/tailgate equipment and exterior colour/interior availability.
-4. Match the VIN to engine, 8AT and curb weight; verify destination emission/fuel compliance.
-5. Obtain the export-market GAC M8 official sheet and reconcile against the Chinese reference before deposit.
+1. 正確なシリーズ(グランドマスター/マスター/リンギョ)とグレードを録音します。マッチング寸法と400対390 N·mの校正を取り付けます。
+2. 座席レイアウトの確認(7-seat vs 4-seat)  and  second-row seat functions line by line.
+3. ステアリング・サイド、スライドドア/テールゲート装置および外部の色/内部の可用性を確認して下さい。
+4. VINをエンジン、8AT、カーブ重量に合わせ、目的地の排出/燃料のコンプライアンスを確認します。
+5. 輸出市場GAC M8の公式シートを取得し、預金前に中国の参照に対比します。
 
-## Request a Current Export Quotation
+## 現在のエクスポート見積をリクエストする
 
-AutoBridge issues live quotations rather than a static price list. Chinese domestic prices — Lingxiu 豪华版 from RMB 179,800 and Grandmaster petrol at RMB 269,800 — are **domestic references only (time-sensitive, not export FOB/CIF)**. Request a quote with **Destination Country · Quantity · Series & Grade · Seat Layout · LHD/RHD · Destination Port · Incoterm**.
+AutoBridge は静的な価格表ではなく、ライブ見積りを発行します。 中国の国内価格 — RMB 179、800、RMB 269、800のGrandmasterガソリンからLingxiu 豪华版は**国内基準のみです(時間感度、FOB / CIFをエクスポートしない)**。 **目的地の国・数量・シリーズ・グレード・シートレイアウト・LHD/RHD・デスティネーションポート・インコターム**で見積り依頼
 
-## Buyer FAQ
+## バイヤーFAQ
 
-**How many seats does the M8 have?** The standard China line is a 7-seat, three-row MPV; a 4-seat lounge/care variant also exists, so confirm the layout by grade.
+**M8席はいくつですか?** 標準的な中国ラインは7-seatです、  three-row MPV; 4-seat ラウンジ/ケアのバリエーションも存在しているので、グレード別にレイアウトを確認します。
 
-**Are all M8 versions the same size?** No. Grandmaster/Master are 5212 mm long with a 3070 mm wheelbase; the Lingxiu is 5089 mm with a 3000 mm wheelbase.
+**M8版は同じサイズですか?** グランマスター/マスターは3070 mmのホイールベースで5212 mmロングです。 Lingxiuは3000 mmのホイールベースで5089 mmです。
 
-**What is the torque difference between series?** Both make 185 kW, but Grandmaster/Master peak at 400 N·m and the Lingxiu 390T at 390 N·m — different calibrations.
+**シリーズのトルクの違いは何ですか?** 両方とも185 kWを作るが、400 N·mのGrandmaster/Masterピークと390 N·mのLingxiu 390Tは、異なる校正。
 
-**Is there a hybrid M8?** A 双擎 hybrid is offered in China, but its specs are separate; request the official hybrid sheet rather than deriving them from the petrol model.
+**ハイブリッドM8はありますか?** 中国のハイブリッドは双擎ですが、その仕様は別です。ガソリンモデルからそれらを与えるのではなく、公式のハイブリッドシートを要求します。
 
-**Does GAC sell the M8 overseas?** Yes, GAC Group lists an overseas GAC M8 (including Middle-East markets); use that official export configuration and confirm LHD/RHD for your country.
+**海外でM8を販売しているのは?** はい、GACグループでは、海外のGAC M8(中東市場を含む)をリストアップし、公式のエクスポート設定を使用して、LHD / RHDを国に確認します。
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
-- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- ALT by language:
+## 映像の記録
+- IMAGE_ASSET_PATH:リポジトリで保護されていない
+- ORIGINAL_IMAGE_URL: キャプチャされていない
+- SOURCE_PAGE: キャプチャされていない
+- SOURCE_FILE_PAGE: 該当なし — 特定候補のメディアファイル (アサートするライセンスなし)
+- 権利_ホルダー:未確認
+- LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
+- CHECKED_DATE: 2026-09-06(税抜き)
+- MODEL_TOPIC_MATCH: 上記の正確なモデル/バージョン(またはガイドトピック)と参照市場と一致しなければなりません
+- IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
+- IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
+- ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
+- 言語によるALT:
   - **EN**: AutoBridge export-buyer reference — GAC Trumpchi M8, petrol/diesel Chinese-market vehicle / MPV
   - **FR**: Référence AutoBridge pour acheteurs export — GAC Trumpchi M8, véhicule thermique (marché chinois) / MPV
   - **DE**: AutoBridge-Referenz für Exportkäufer — GAC Trumpchi M8, Verbrenner (chinesischer Markt) / Van (MPV)
@@ -105,23 +108,23 @@ AutoBridge issues live quotations rather than a static price list. Chinese domes
   - **AR**: مرجع AutoBridge لمشتري التصدير — GAC Trumpchi M8, مركبة بمحرك احتراق (سوق الصين) / سيارة عائلية
   - **ZH**: AutoBridge 出口采购参考｜GAC Trumpchi M8, 中国市场燃油车 / MPV
 
-## Sources & Verification
+## ソースと検証
 
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+| ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
 |---|---|---|---|---|---|---|
-| M8 大师 尊贵版 official | GAC Trumpchi (official) | CN | https://www.gacmotor.com/m8xds_new/empow01.html | 2026-09-02 | VERIFIED | 5212 mm body, 3070 mm WB, 2060 kg, 2.0TGDI |
-| GAC M8 overseas configuration | GAC Group (official) | CN/Export | https://www.gacgroup.com/en-kw/configuration/gac-m8/2024 | 2026-09-02 | VERIFIED | 185 kW/252 PS, 7 seats, suspension |
-| 2024 M8 宗师 petrol official | GAC Trumpchi (official) | CN | https://www.gacmotor.com/2024m8zs_new/ | 2026-09-02 | VERIFIED | 2.0TGDI + 8AT, 400 N·m, domestic price |
-| Lingxiu 390T config | Autohome (汽车之家) | CN | https://dealer.autohome.com.cn/2133191/spec_68518.html | 2026-09-02 | CROSS_CHECKED | 5089 mm body, 3000 mm WB, 390 N·m, WLTC 8.85 |
-| M8 parameters | PCauto (太平洋汽车) | CN | https://price.pcauto.com.cn/m128883/config.html | 2026-09-02 | CROSS_CHECKED | Wheelbase split, series mapping |
-| Lingxiu config | Yiche (易车) | CN | https://car.yiche.com/chuanqigm8/m173683/peizhi/ | 2026-09-02 | CROSS_CHECKED | Lingxiu dimensions, domestic price |
+| M8 大师 尊贵版 オフィシャルウェブサイト | GAC トランチ(公式) | CN の | 以下は、 //www.gacmotor.com/m8xds_new/empow01.html | 2026-09-02 | 検証済み | 5212 mm ボディ、3070 mm WB、2060 kg、2.0TGDI |
+| GAC M8 海外設定 | GACグループ(公式) | CN/輸出 | 以下は、 //www.gacgroup.com/en-kw/configuration/gac- m8/2024 の | 2026-09-02 | 検証済み | 185 kW / 252 PS、7座席、懸濁液 |
+| 2024 M8 宗师ガソリン 公式 | GAC トランチ(公式) | CN の | 以下は、 //www.gacmotor.com/2024m8zs_new/ | 2026-09-02 | 検証済み | 2.0TGDI + 8AT、400 N·mの国内価格 |
+| Lingxiu 390T 設定 | オートホーム (汽车之家) | CN の | 以下は、 //dealer.autohome.com.cn/2133191/spec_68518.html | 2026-09-02 | CROSS_CHECKED(クロス) | 5089 mm ボディ、3000 mm WB、390 N·m、WLTC 8.85 |
+| M8 パラメータ | PCauto (太平洋汽车) | CN の | 以下は、 //price.pcauto.com.cn/m128883/config.html の | 2026-09-02 | CROSS_CHECKED(クロス) | ホイールベース分割、シリーズマッピング |
+| Lingxiu の設定 | イーチェ (易车) | CN の | 以下は、 //car.yiche.com/ chuanqigm8/m173683/peizhi/ の | 2026-09-02 | CROSS_CHECKED(クロス) | リンギョウの寸法、国内価格 |
 
-*Confidence note (AutoBridge standard): Grandmaster/Master core specs are VERIFIED on GAC's own pages (manufacturer official); Lingxiu values are CROSS_CHECKED across independent databases. The 400 vs 390 N·m calibration is intentionally kept separate by series; hybrid (双擎) specs are not asserted.*
+*Confidence Note(AutoBridge標準):グランドマスター/マスターコアスペックは、GAC独自のページ(メーカー公式)でVERIFIEDです。 Lingxiu値は、独立したデータベース全体でCROSS_CHECKEDです。 400 対 390 N·m 校正は、意図的にシリーズによって分離され続ける; ハイブリッド (双擎) 仕様は主張されていません。 ふりがな
 
-## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: China model (evergreen model page; overseas GAC M8 exists and the destination sheet governs export builds)
-- **Verification method**: Official GAC pages plus independent-database cross-check; series-specific figures kept distinct
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+## 編集レビュー
+- **著者/査読者**:【AutoBridge 輸出編集チーム】(/authors/)・方法による【編集ポリシー】(/editorial-policy/)
+- **最終審査**:2026-09-05
+- **参考市場**:中国モデル(常緑モデルページ、海外GAC M8が存在し、目的地シートは輸出ビルドを管理します)
+- **検証方法**:公式 GAC ページと独立したデータベースのクロスチェック; シリーズ固有の図は、異なる
+- ** 編集規格**: 上記情報源(デスクリサーチ、片手運転、涙流、輸入)から研究・執筆 ソースの自信は行ごとに示されます。 私たちが独立して確認できない点は、事実として主張するのではなく、検証項目として提示されます。
 #AutoBridge #VehicleExport #GACTrumpchi #M8 #BusinessMPV

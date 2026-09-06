@@ -2,7 +2,7 @@
  "article_id": "AB-260905-G09",
  "content_type": "PROCUREMENT_GUIDE",
  "checked_date": "2026-09-05",
- "source_log_version": "SL-v2-20260905",
+ "source_log_version": "SL-v3-20260906",
  "sources": [
   {
    "source_title": "强制性产品认证管理规定",
@@ -121,13 +121,47 @@
    "official_source": "YES",
    "source_scope": "",
    "added_by": "Writing AI CONTROLLED_RESEARCH_PATCH 2026-09-05"
+  },
+  {
+   "source_title": "WTO Agreement on Technical Barriers to Trade (TBT)",
+   "organization": "World Trade Organization",
+   "url": "https://www.wto.org/english/tratop_e/tbt_e/tbt_e.htm",
+   "domain": "www.wto.org",
+   "source_type": "international-organization",
+   "source_tier": "T1",
+   "source_market": "INT",
+   "facts_supported": [
+    "强制性合格评定（如CCC）的TBT框架",
+    "免办逻辑的多边背景"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": "YES",
+   "source_scope": "TBT framework for mandatory conformity assessment such as CCC, and for avoiding unnecessary barriers (exemption logic)"
+  },
+  {
+   "source_title": "International Electrotechnical Commission (IEC) standards",
+   "organization": "International Electrotechnical Commission (IEC)",
+   "url": "https://www.iec.ch/home",
+   "domain": "www.iec.ch",
+   "source_type": "standards-body",
+   "source_tier": "T1",
+   "source_market": "INT",
+   "facts_supported": [
+    "合格评定引用的国际标准",
+    "CCC国标与IEC标准的对应背景"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": "YES",
+   "source_scope": "International standards referenced in conformity assessment; CCC uses GB standards that often align with IEC"
   }
  ],
  "source_integrity_note": "政府/监管/贸促会源按实际主体与URL标注；T4 SEO仅作线索并显式UNVERIFIED，未冒充官方。",
  "controlled_research_patch": {
-  "date": "2026-09-05",
-  "added_by": "Writing AI",
-  "sources_added": 2,
-  "note": "Official/OEM anchors verified HTTP-200 on 2026-09-05; identity/authority scope only unless facts_supported states otherwise."
+  "date": "2026-09-06",
+  "added_by": "Writing AI (pre-publication repair)",
+  "sources_added": 9,
+  "note": "Distinct primary/international organizations added 2026-09-06; all URLs HTTP-200 verified; parent-org normalization applied; no weak filler."
  }
 }

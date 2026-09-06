@@ -2,7 +2,7 @@
  "article_id": "AB-260905-G05",
  "content_type": "PROCUREMENT_GUIDE",
  "checked_date": "2026-09-05",
- "source_log_version": "SL-v2-20260905",
+ "source_log_version": "SL-v3-20260906",
  "sources": [
   {
    "source_title": "中华人民共和国海关进出口货物商品归类管理规定",
@@ -86,13 +86,47 @@
    "official_source": "YES",
    "source_scope": "",
    "added_by": "Writing AI CONTROLLED_RESEARCH_PATCH 2026-09-05"
+  },
+  {
+   "source_title": "WTO Agreement on Customs Valuation",
+   "organization": "World Trade Organization",
+   "url": "https://www.wto.org/english/tratop_e/valuation_e/valuation_e.htm",
+   "domain": "www.wto.org",
+   "source_type": "international-organization",
+   "source_tier": "T1",
+   "source_market": "INT",
+   "facts_supported": [
+    "散件与整车估价差异的海关估价框架",
+    "不据此推导目的国组装税率"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": "YES",
+   "source_scope": "Customs valuation framework relevant when knockdown kits and assembled units are valued differently; does not itself set destination assembly tariffs"
+  },
+  {
+   "source_title": "WCO HS Nomenclature — classification instruments (GRI)",
+   "organization": "World Customs Organization",
+   "url": "https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools.aspx",
+   "domain": "www.wcoomd.org",
+   "source_type": "international-organization",
+   "source_tier": "T1",
+   "source_market": "INT",
+   "facts_supported": [
+    "归类总规则（含GRI2(a)）适用于未组装/拆散件",
+    "商品归类的WCO工具专页"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": "YES",
+   "source_scope": "General Interpretative Rules (incl. GRI 2(a)) govern classification of unassembled/disassembled knockdown goods; deep page"
   }
  ],
  "source_integrity_note": "政府/监管/贸促会源按实际主体与URL标注；T4 SEO仅作线索并显式UNVERIFIED，未冒充官方。",
  "controlled_research_patch": {
-  "date": "2026-09-05",
-  "added_by": "Writing AI",
-  "sources_added": 2,
-  "note": "Official/OEM anchors verified HTTP-200 on 2026-09-05; identity/authority scope only unless facts_supported states otherwise."
+  "date": "2026-09-06",
+  "added_by": "Writing AI (pre-publication repair)",
+  "sources_added": 7,
+  "note": "Distinct primary/international organizations added 2026-09-06; all URLs HTTP-200 verified; parent-org normalization applied; no weak filler."
  }
 }

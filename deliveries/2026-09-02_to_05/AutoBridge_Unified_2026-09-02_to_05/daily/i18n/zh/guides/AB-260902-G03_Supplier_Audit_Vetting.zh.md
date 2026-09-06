@@ -1,104 +1,107 @@
-# How to Verify a Chinese Car Export Supplier Before Payment: Due-Diligence Checklist
+# 如何核查中国汽车出口供应商付款前:应交验资清单
 
-## SEO Metadata
-- **SEO Title**: Verify a Chinese Car Export Supplier: Due-Diligence Checklist
-- **Meta Description**: A payment-stage due-diligence framework for vetting Chinese vehicle exporters — MIIT announcement/CCC qualification, business-license checks, export authorisation chain, AEO, bank-account matching and video-audit standards.
-- **Suggested URL**: /guides/verify-china-car-export-supplier/
-- **H1**: Vetting a Chinese Vehicle Exporter: What to Verify Before the First Payment
-- **Primary Keyword**: verify Chinese car export supplier due diligence license
-- **Secondary Search Terms**: China vehicle export qualification, MIIT vehicle manufacturer announcement, CCC certificate exporter, gsxt business license check, China car export authorization chain, AEO customs credit
-- **Internal Link Suggestions**: /guides/vehicle-import-payment-tt-vs-lc/ ; /guides/used-chinese-ev-inspection/ ; /guides/commercial-truck-fleet-procurement-china/
-- **Image Suggestions**: due-diligence layered pyramid; gsxt business-license check fields; authorization-chain diagram; bank-account match warning
-- **ALT Suggestions**: "Chinese car exporter due diligence verification layers"; "National Enterprise Credit Information system license fields"; "Supplier to factory authorization chain"
+## 道德操守办公室 元数据
+- **SEO标题**:核查中国汽车出口供应商:正当防卫核对清单
+- ** 金属说明**: 用于审查中国车辆出口商的付款阶段到期支付框架——MIIT公告/CCC资格、商业许可检查、出口授权链、AEO、银行账户匹配和视频审计标准。
+- ** 建议的URL**:/指南/核查-钦那-汽车-出口-供应商/
+- ** H1 资源需求。 **:审查中国车辆出口商: 第一次付款前要核实什么
+- ** 基本关键词**:核实中国汽车出口供应商尽职审查许可证
+- ** 二级搜索条款**:中国车辆出口资格、MIIT车辆制造商公告、CCC证书出口商、gsxt营业执照检查、中国汽车出口授权链、AEO海关信贷
+- ** 内部链接建议**: /指南/车辆-进口-付款-tt-vs-lc/;/指南/使用-chinese-ev-incountriation/;/指南/商业-拖车-拖车-采购-china/
+- ** 图像建议**: 适当减速层金字塔; gsxt 商务许可检查字段; 授权链图; 银行账户匹配警告
+- **ALT建议**:"中国汽车出口商尽职调查核查层";"国家企业信用信息系统许可域";"工厂授权链的供应商".
 
-## The Problem This Solves
+## 解决该问题
 
-First-time overseas buyers of Chinese vehicles repeatedly hit the same failure modes: a trading company presenting itself as the factory, a payee bank account whose name does not match the contracted company, an exporter unable to produce brand authorisation, or a staged "factory video" that shows someone else's premises. This guide is a **payment-stage due-diligence framework for the China export side** (applicable to any destination country). It is about the *supplier entity*, not about vehicle condition (see the used-EV inspection guide) or price verification — a deliberately distinct search intent.
+首次海外买中国车辆的买家屡次撞上了相同的故障模式:一个自称为工厂的贸易公司,一个名字与合同公司不符的收款人银行账户,一个无法生产品牌授权的出口商,或者一个显示他人场地的舞台"要素视频". 本指南是中国出口方**(适用于任何目的地国)的**支付阶段到期日框架。 问题在于“供应商实体”,而不是车辆状况(见废旧电子车辆检查指南)或价格核查——这是有意的、独特的搜查意图。
 
-## The Legal Baseline: Who Is Allowed to Export
+## 法律基线:允许谁出口
 
-Two official Chinese documents define the qualification backbone (both primary government sources):
+中国官方两份文件界定了资质主干线(均为政府主要来源): 资质:
 
-- Per the **five-ministry notice on further regulating the export order of automobiles and motorcycles** (MOFCOM et al.), a manufacturer declaring vehicles for export must be listed in the **MIIT "Vehicle Manufacturers and Products Announcement" (车辆生产企业及产品公告)** and hold valid **CCC compulsory certification**.
-- Per **MOFCOM et al. 2024 Announcement No. 6** on used-car export enterprises, a used-car exporter must be a domestically registered independent legal person meeting stated conditions (manufacturers must be in the MIIT announcement; traders must meet the published criteria).
+- 根据**关于进一步规范汽车和摩托车出口秩序的部委通知**(MOFCOM等),申报出口车辆的制造商必须被列入**MIIT“汽车制造商和产品公告”(车辆生产企业及产品公告)**,并持有**CC强制性认证**。
+- 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 个人 2024 维基月球 通知编号 6 ** 在废车出口企业,废车出口商必须是符合规定条件(制造商必须在MIIT公告中公布)的在国内注册的独立法人; 贸易商必须符合公布的标准)。
 
-Implication for buyers: ask *which* legal entity is the exporter of record and confirm it sits in the **current-year export-qualification list published by MOFCOM** (the list is updated dynamically — use the year's current version; this guide does not enumerate company names). A company that cannot place itself on that chain is a stop signal.
+对买方的影响:询问*哪一个法律实体是记录的出口商,并确认它属于财政部公布的**本年度出口资格清单**(清单得到动态更新——使用当年的版本;本指南没有列出公司名称)。 连锁公司都无法自拔 只能是停止信号
 
-## Layer 1 — Verify the Business License
+## 第1层——验证营业执照
 
-Use China's **National Enterprise Credit Information Publicity System (gsxt.gov.cn)** to check, against the supplier's Unified Social Credit Code:
+使用中国**全国企业信用信息公示系统(gsxt.gov.cn)**对照供货商统一社会信用代码进行查询:
 
-- Registered company name (must match contract, invoice and bank account exactly)
-- Registered capital and paid-in context, establishment date
-- **Business scope** — it should include vehicle sales/export relevant activity
-- Legal representative
-- **Operational-anomaly list / serious-violation (blacklist) records**
+- 注册公司名称(必须匹配合同、发票和银行账户)
+- 注册资本和实缴情况,设立日期
+- ** 业务范围** ——应包括车辆销售/出口相关活动
+- 法律代表
+- ** 行动异常清单/严重违规(黑名单)记录**
 
-A licence shown as a photo is not evidence; the buyer (or a China-based representative) should pull the gsxt record independently.
+以照片形式出示的许可证不是证据;买方(或中国代表)应独立提取gsxt记录。
 
-## Layer 2 — Export Qualification and the Authorisation Chain
+## 第2层——出口资格和授权链
 
-Many legitimate sellers are trading companies rather than factories. That is normal — but the chain must be real:
+许多合法销售者是贸易公司,而不是工厂。 这是正常的,但链条必须是真实的:
 
-1. Identify the actual **manufacturer** and confirm it is in the MIIT announcement with valid CCC.
-2. If your seller is a trader, request the **authorisation document** linking the qualified exporter/manufacturer to the entity you contract with.
-3. **Reverse-verify**: where possible, confirm the authorisation back to the OEM/qualified entity. OEM tier-1/tier-2 authorisation rules are internal and unpublished, so a paper certificate alone is insufficient — ask to verify it with the issuing party.
-4. An unqualified company may export *through* a listed-qualification company; that is permissible only if the cooperation/authorisation chain is documented and the entity on the export declaration is genuinely qualified.
+1. 说明实际的**制造商**,并在MIIT公告中确认其为有效的CCC。
+2. 如果卖方是贸易商,请出示**授权文件** 将合格出口商/制造商与你所合同的实体联系起来。
+3. ** 反向核实**:如有可能,向主管评价办公室/合格实体确认授权。 OEM 1/tier-2级授权规则是内部的,没有公布,因此单凭纸质证书是不够的——要求与签发方核实。
+4. 合格公司可通过*上市资格公司出口;只有在合作/授权链有文件证明,出口申报实体真正合格的情况下,才能允许出口。
 
-## Layer 3 — Operational Reality (Factory, Customs History, Credit)
+## 第3层——业务现实(事实、海关历史、信用)
 
-- **Customs credit grade**: an **AEO (Authorised Economic Operator)** status signals high customs credit; ask for evidence and treat its absence as neutral rather than disqualifying. (Use China Customs' public AEO query direction; exact portal entry changes, so navigate via the official customs site.)
-- **Historical export declarations**: request export customs declarations from roughly the last three months (sensitive commercial fields may be redacted) and cross-check product, consignee patterns and dates against the supplier's claims.
-- **Live video audit — minimum standard**: a real-time (not pre-recorded) walk-through showing the production line, vehicle stock, QC stations and the loading dock; ask for a same-day time cue and to see a specific VIN/unit on request.
-- Start with a **sample or small trial order** before volume, and write conformity expectations into that trial contract.
+- ** 海关信贷等级**:一个经认证的经济经营者** 地位表明海关信用很高;要求证据并将其视为中立而不是取消资格。 (使用中国海关公开的AEO查询方向;准确的门户入口更改,故通过官方海关网站导航.
+- ** 历史出口申报**:要求出口海关申报大约从过去三个月开始(敏感商业领域可能经过修改),对照供应商的申报,核对产品、收货人模式和日期。
+- ** 实况录像审计——最低标准**:实时(未预先录制)走过,显示生产线、车辆库存、质量控制站和装卸码头;要求同一天的提示,并应要求看到特定的VIN/单元。
+- 在数量之前先发出**样本或小型审判命令**,并在该审判合同中写出符合要求的预期。
 
-## Layer 4 — Contract, Invoice and Bank-Account Consistency
+## 第4层——合同、发票和银行账户的一致性
 
-One of the clearest fraud indicators is a **payee account name that differs from the contracted company name**. Before paying:
+最明确的欺诈指标之一是与合同公司名称不同的**收款人账户名称**。 支付前:
 
-- Match the legal name across business licence, contract, proforma invoice, export declaration entity and **bank beneficiary name** — all identical.
-- Treat last-minute "use our sister/Hong Kong/overseas account" changes as a high-risk event requiring fresh verification; never redirect funds on the basis of an email-only change.
-- Prefer payment instruments that match risk (see the T/T vs L/C guide); avoid full prepayment to an unverified entity.
+- 将营业执照、合同、发票、出口申报实体和**银行受益人名称**的法定名称相匹配——均相同。
+- 将最后一刻的"使用我们的妹妹/香港/海外账户"更改视为需要重新核实的高风险事件;绝不根据仅以电子邮件更改的方式重新调配资金.
+- 优先使用与风险相符的付款工具(见T/T vs L/C 指南);避免向未经核实的实体全额预付。
 
-## What AutoBridge Adds Beyond a Business-License Screenshot
-A license scan proves a company exists, not that it may export *your* vehicle. This guide recommends checking the counterparty against the **current-year MOFCOM qualified list** (2026 application under 商办贸函〔2025〕408号; pure-EV passenger licensing from 2026-01-01 under joint Announcement No. 54), reconstructs the **brand-authorisation chain to the OEM**, and runs a **contract/invoice/bank-account name match** before deposit — the three checks that distinguish an authorised exporter from a trading shell.
-## A Practical Eight-Step Sequence
+## 商务- 语境屏幕截图以外的自动包头添加什么
+许可证扫描证明公司存在,而不是证明公司可以出口*你的*车辆。 This guide recommends checking the counterparty against the **current-year MOFCOM qualified list** (2026 application under 商办贸函〔2025〕408号; 依据联合公告第2026-01-01号, 纯EV型客运许可证发放。 54), 将**品牌授权链重建为OEM**,  and  存款前有一份**合同/发票/银行账户名称的匹配**——这三份检查将受权出口商与交易货壳区分开来。
+## 实用的八步顺序
 
-1. Pull the gsxt business-licence record independently.
-2. Confirm MIIT-announcement + CCC status of the actual manufacturer.
-3. Locate the exporter in the current MOFCOM qualification list.
-4. Obtain and reverse-verify the authorisation chain (factory → qualified exporter → your seller).
-5. Check customs credit (AEO) and recent export declarations.
-6. Run a live video audit to a defined minimum standard.
-7. Match names across contract/invoice/bank account; agree safe payment terms.
-8. Place a trial order, inspect, then scale.
+1. 独立调用gsxt营业执照记录.
+2. 确认实际制造商的MIIT-通知+CC状态.
+3. 将出口商列入财政部目前的资格清单。
+4. 获得并反向核实授权链(工厂/合格出口商/你的卖方)。
+5. 检查海关信贷和最近的出口申报。
+6. 进行现场视频审核,达到规定的最低标准.
+7. 合同/发票/银行账户的匹配名称;商定安全付款条件。
+8. 下达审判令,检查,然后进行规模检查.
 
-## Red Flags to Stop On
+## 红旗停止打开
 
-- Payee name differs from contracted company, or a sudden offshore-account switch.
-- Refusal to show the MIIT/CCC basis or a verifiable authorisation chain.
-- Only pre-recorded factory footage, no live walk-through, no recent declarations.
-- Operational-anomaly/blacklist records on gsxt, or business scope that excludes vehicle trade.
-- Pressure for full prepayment and resistance to a small trial order.
+- 受款人的名字不同于合同公司,或者突然发生离岸账户切换.
+- 拒绝显示MIIT/CCC的基础或可核查的授权链。
+- 仅预录工厂镜头,无现场走过,近期无申报.
+- gsxt上的业务异常/黑名单记录,或不包括车辆贸易的商业范围。
+- 要求全额预付的压力和对小型审判令的抵制。
 
-## Frequently Asked Questions
+## 经常被问到的问题
 
-**Must my supplier be the factory?** No — a trading company is common, but it must show a genuine chain to a MIIT-listed, CCC-certified manufacturer and a qualified exporter.
-**How do I check a Chinese company's licence?** Independently query gsxt.gov.cn using the Unified Social Credit Code; verify name, scope, legal rep and any anomaly records.
-**Does a CCC certificate prove export rights?** No. CCC is product certification; export qualification additionally rests on the MIIT announcement and the current MOFCOM export-qualification list.
-**The beneficiary account is a different company name — is that normal?** It is one of the clearest risk signals; stop and re-verify before paying.
-**What proves a supplier actually exports?** Recent (≈3-month) export declarations plus a live audit of line, stock, QC and loading dock, cross-checked against claims.
+工厂是我的供应商吗? 不——贸易公司很常见,但必须向一个列入MIIT的、经CCC认证的制造商和合格的出口商展示真正的链条。
+** 我如何检查中国公司的执照? ** 使用统一社会信用代码独立查询gsxt.gov.cn;验证姓名,范围,法定代表人和任何异常记录.
+** 核心合同证书是否证明出口权? ** 合同委员会是产品认证;出口资格还取决于MIIT的公告和财政部目前的出口资格清单。
+** 受益人账户是不同的公司名称——这是否正常? ** 这是最清楚的风险信号之一;在支付之前停止并重新核实。
+** 哪些证明供应商实际出口? ** 最近(≈3-month)出口申报单加上对线路,库存,质量控制和装卸码头的现场审计,对照索赔进行交叉核对.
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
-- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- ALT by language:
+## 图像记录
+- IMAGE_ASST_PATH: 没有在仓库中安全
+- 原型:未抓获
+- 资源_页:未捕获
+- UNURCE_FILE_PAGE:不适用——未确定候选媒体文件(无申述许可证).
+- 权利:未经证实
+- LICENSE_OR_USAGE_BASIS:没有担保——在权利被清除之前,不得公布第三方图像
+- 检查日期: 2026-09-06
+- MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
+- IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
+- IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
+- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
+- 按语言分列的低价竞标:
   - **EN**: AutoBridge export-buyer reference — Chinese export supplier vetting, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Chinese export supplier vetting, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Chinese export supplier vetting, Leitfaden für Fahrzeugexport-Einkauf
@@ -112,24 +115,24 @@ A license scan proves a company exists, not that it may export *your* vehicle. T
   - **AR**: مرجع AutoBridge لمشتري التصدير — Chinese export supplier vetting, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Chinese export supplier vetting, 汽车出口采购指南
 
-## Sources & Verification
+## 源码验证(V)
 
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
 |---|---|---|---|---|---|---|
-| Notice on further regulating export order of automobiles/motorcycles | MOFCOM et al. (five ministries, official T1) | CN | https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2012/art_bc15755f9b1642b99eac7cc212cce54b.html | 2026-09-02 | VERIFIED | MIIT announcement + CCC export-qualification basis |
-| 2024 Announcement No. 6 (used-car export enterprise conditions) | MOFCOM (official T1) | CN | https://dcj.mofcom.gov.cn/article/zcfb/zcwg/202405/20240503510039.shtml | 2026-09-02 | VERIFIED | Used-car exporter legal-entity/qualification conditions |
-| How to check China supplier business-license authenticity | Goodcan Trading (industry, points to gsxt.gov.cn) | CN | https://goodcantrading.com/how-to-check-china-supplier-business-license-authenticity/ | 2026-09-02 | CROSS_CHECKED | gsxt verification fields |
-| How to verify a Chinese factory is legitimate | Plutonia Global Logistics | CN/Global | https://www.plutoniaglobal.com/guides/verify-chinese-factory-legitimate | 2026-09-02 | CROSS_CHECKED | Account-name consistency, factory audit |
-| 8-step guide to verify China auto export suppliers | huajiame (industry) | CN | https://www.huajiame.com/en-US/knowledge/how-verify-china-auto-export-supplier | 2026-09-02 | CROSS_CHECKED | Layered audit framework, AEO |
-| Vehicle export procurement notes | 11467 (顺企网, industry) | CN | https://m.11467.com/blog/d18906274.htm | 2026-09-02 | CROSS_CHECKED | Live video-audit minimum, declaration cross-check |
-| Domestic truck export procedures | Guangzhou Pujiang Trade (11467) | CN | https://guangzhou053049.11467.com/m/news/15260806.asp | 2026-09-02 | CROSS_CHECKED | Export via qualified entity, authorisation chain |
+| 关于进一步规范汽车/摩托车出口秩序的通知 | MOFCOM等 (英语). (五个部,官T1). | 氯化萘 | https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2012/art_bc15755f9b1642b99eac7cc212cce54b.html 维基月球 | 2026-09-02 | 实录 | MIIT 通知+ CCC 出口资格 |
+| 2024 维基月球 第6号公告(旧车出口企业条件) | MOFCOM(官方T1) (中文(简体)). | 氯化萘 | https://dcj.mofcom.gov.cn/article/zcfb/zcwg/202405/20240503510039.shtml 维基月球 | 2026-09-02 | 实录 | 废车出口商的法律实体/资格条件 |
+| 如何检查中国供应商营业执照的真实性 | 古德坎贸易(工业、 指向gsxt.gov.cn)  points  points  points s  points  points  points  points s  points s s  points s s s s | 氯化萘 | https://goodcantrading.com/how-to-check-china-supplier-business-license-authenticity/ 维基月球 | 2026-09-02 | 横跨 | gsxt 校验字段 |
+| 如何核实中国工厂是正当的 | 普卢托尼亚全球物流公司 | 氯化萘/全球 | https://www.plutoniaglobal.com/guides/verify-chinese-factory-legitimate 维基月球 | 2026-09-02 | 横跨 | 账户名称一致性,工厂审计 |
+| 8-step 检验中国汽车出口供应商指南 | 华家梅(工业) | 氯化萘 | https://www.huajiame.com/en-US/knowledge/how-verify-china-auto-export-supplier 维基月球 | 2026-09-02 | 横跨 | 层层审计框架,阿拉伯-欧 |
+| 车辆出口采购说明 | 11467(顺企网,工业) | 氯化萘 | https://m.11467.com/blog/d18906274.htm 维基月球 | 2026-09-02 | 横跨 | 实况录像-审计最低限度,申报交叉核对 |
+| 国内卡车出口程序 | 广州浦江贸易(11467年). | 氯化萘 | https://guangzhou053049.11467.com/m/news/15260806.asp 维基月球 | 2026-09-02 | 横跨 | 通过合格实体、授权链出口 |
 
-*Confidence note (AutoBridge standard): qualification rules rest on primary MOFCOM/MIIT sources (VERIFIED), now including the 2026 application notice (商办贸函〔2025〕408号) and joint Announcement No. 54 on pure-EV passenger export licensing. The current-year qualified list and AEO query are dynamic and must be checked live; operational checklist items are industry-sourced and point back to official systems.*
+* 说明(AutoBridge标准):资格规则以MOFCOM/MIIT主要来源(VIFIED)为准,现包括2026申请通知(商办贸函 ][2025]408 号)和关于纯EV旅客出口许可证的联合公告54。 本年度合格名单和AEO查询动态,必须现场检查;业务清单项目由行业来源提供,并指向官方系统。 * 报告迟交是因为需要翻译。
 
-## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: China export side (applies globally)
-- **Verification method**: Primary government documents for the legal baseline; industry guides for operational process; dynamic lists left to live verification
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+## 编辑评论
+- ** 授权/审查人**:[自动桥出口编辑组](/作者/) / 方法,按我们的[编辑政 (/编辑政策/)
+- ** 上次审查**:2026-09-05
+- **参考市场**:中国出口方(适用于全球)
+- ** 核查方法**:用于法律基线的主要政府文件;业务流程的行业指南;动态清单留待现场核查。
+- ** 编辑标准**: 由上述来源研究和撰写(案头研究;没有声称直接驾驶、拆卸或进口)。 源头信任是一行的;我们不能独立确认的任何一点都作为核查项目而不是事实提出。
 #AutoBridge #SupplierVetting #DueDiligence #ExportProcurement #PaymentSafety

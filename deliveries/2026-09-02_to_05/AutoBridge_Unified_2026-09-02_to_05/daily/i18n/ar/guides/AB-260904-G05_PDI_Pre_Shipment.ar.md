@@ -1,70 +1,73 @@
-# PDI PDI and Handover for Vehicle Export: Carrier Rules vs AutoBridge's Recommended Checklist
+# ما قبل الشحن PDI و تسليم لتصدير المركبات: قواعد النقل ضد قائمة المراقبة الموصى بها لشركة AutoBridge
 
 ## SEO Metadata
-- **SEO Title**: Vehicle Export PDI & Pre-Shipment Handover Guide — Named Carrier Rules
-- **Meta Description**: Separate named RoRo carrier policies (Wallenius Wilhelmsen, Höegh Autoliners) — fuel, battery, SOC and operability — from AutoBridge's recommended pre-shipment inspection checklist; no universal fixed values.
-- **Suggested URL**: /guides/vehicle-export-pdi-pre-shipment-handover
-- ** H1 **: Preparing a Vehicle for RoRo or Container Export: What the Named Carriers Require and What We Recommend
-- **Primary Keyword**: vehicle export pre-shipment inspection PDI handover RoRo
-- **Secondary Search Terms**: Wallenius Wilhelmsen fuel quarter tank, Hoegh BEV SOC 50 percent, RoRo operable vehicle, disconnect 12V battery used car, pre-shipment photo record
-- **Internal Link Suggestions**: /guides/vehicle-export-bill-types/; /guides/ev-shipping- un3556-imdg-compliance/; /guides/emission-fuel-compatibility-china-vehicles/
-- **Image Suggestions**: PDI checklist sheet; RoRo self-driving ramp; named-carrier vs editorial-recommendation split diagram
-- **ALT Suggestions**: "Named RoRo carrier requirements versus recommended pre-shipment checklist"
+- ** عنوان المنظمة**: تصدير المركبات دليل التسليم - قواعد الناقلة المسماة
+- ** وصف البيانات**: (وولينيوس ويلهلمسن) و(هيوغ) (الأوتومينرز) الوقود والبطاريات و(سو أوك) و(أوب) و(أوب) و(أوبريدج) الموصى بها في قائمة التفتيش قبل الشحن؛ لا قيم ثابتة عالمية.
+- ** اقتراح الاتحاد الأوروبي المعني بمكافحة الألغام البرية**: /إرشادات/تغطية المركبات - تصدير - تسليم الرواسب
+- ** H1 **** إعداد مركبة لتصدير رو أو الحاويات: ما يتطلبه الناقلون المسمّون وما نوصي به
+- ** كلمة أساسية خلاصية**: تفتيش على تصدير المركبات قبل الشحن، تسليم شركة PDI RoRo
+- ** محطات البحث الثانية**: دبابة وولنيوس ويلهيلمسن للوقود، هوغ بي في SOC 50 في المائة، مركبة مصفحة طراز RoRo، قطع 12V بطارية تستخدم سيارة، سجل صور ما قبل الشحن
+- ** مقترحات داخلية بشأن الروابط**: /مبادئ توجيهية/أمثلة تصدير/أجزاء من الصادرات/النوعات المحتوية على مركبات؛ /مبادئ توجيهية/رفع مستوى الشحن إلى un3556-imdg-compliance/؛ /مبادئ توجيهية/أجهزة تكييف الوقود/الأجهزة/
+- ** اقتراحات تتعلق بالصور**: ورقة قائمة مرجعية لبيانات PDI؛ ومنحدر من طراز RoRo ذاتي الدفع؛ واسم كارييه ضد شركة تحريرية - اعادة توصية مقسمة حسب الشكل
+- ** اقتراحات بشأن المادة الثالثة**: متطلبات ناقلات روجر ناجمة مقابل قائمة مرجعية سابقة للشحن الموصى بها
 
-## Two Layers That Must Not Be Merged
-Damage disputes at destination almost always trace back to one question: what was the vehicle's condition, fuel/battery state and operability **at handover**? To answer it cleanly, this guide keeps two layers separate:
-1. **Named-carrier requirements (CARRIER_SPECIFIC)** — written policies of specific RoRo carriers, here **Wallenius Wilhelmsen (WW)** and **Höegh Autoliners (Höegh)**. These are **carrier policies, not international regulations**, they are not universal across all shipping lines, and the booked carrier's written instructions always govern.
-2. **AutoBridge recommended pre-shipment checklist (EDITORIAL_RECOMMENDATION)** — an inspection/record-keeping method this guide recommends for evidence. It is **not** an industry-mandatory procedure and is not presented as one.
+## اثنان من المُحامين لا يجب أن يكونا مُزدحمين
+النزاعات على الأضرار في المقصد دائماً ما تُرجع إلى سؤال واحد: ما كانت حالة السيارة، حالة الوقود/البطارية، وقابلية التشغيل و لكي يجيبوا عليه بشكل نظيف هذا الدليل يبقي طبقةين منفصلتين
+1. ** متطلبات ناشطة السيارات** - السياسات الكتابية لشركات نقل محددة من طراز RoRoRos، هنا **Wallenius Wilhelmsen (W)**** و **Höegh Autoliners (Höegh)**. هذه هي سياسات الـ "سكارير" وليس الأنظمة الدولية**، إنها ليست عالمية عبر جميع خطوط الشحن، والتعليمات المكتوبة للناقلات المحجوزة دائماً ما تحكم.
+2. ** أوصت رابطة أوتو بريدج بقائمة مرجعية لما قبل الشحن (التوصية)** - وهي طريقة للتفتيش/مسك السجلات يوصي هذا الدليل بتقديم أدلة. وهو** ليس** إجراء إلزامي للصناعة ولا يُعرض بوصفه إجراء.
 
-## Named-Carrier Policies (CARRIER_SPECIFIC — cite the carrier by name)
-| Topic | Wallenius Wilhelmsen | Höegh Autoliners | Nature |
+## سياسات كاريير مسماة (CARRIER_SPECIFIC - استشهد بالناقل باسم)
+| الموضوع | والينيوس ويلهلمسن | Höegh Autoliners | الطبيعة |
 |---|---|---|---|
-| **Fuel / gas level** | Tank about **one-quarter full** (enough to self-drive on/off) | Tank about **one-quarter full** | Carrier policy; cross-checked for these two named lines only — not a universal rule |
-| **Used ICE battery** | For used units **without a battery kill-switch**, disconnect the 12/24V after lashing (exceptions per WW instruction) | - | WW-specific; single-source carrier rule |
-| **BEV high-voltage SOC** | - | **SOC no more than 50%**, while retaining enough charge for loading/unloading/storage; - ≤¼ fuel plus SOC guidance | Höegh-specific; **not** a global SOC ceiling |
-| **Operability** | RoRo units must self-drive safely on/off (move/brake/steer); faulty or leaking units may be rejected | Same self-driving requirement | Carrier receiving rule for these two named lines |
+| ** مستوى الوقود/الغاز** | دبابة حول ** ربع كامل** (سعف أن يُقَدَّمَ نفسه في/خارج) | دبابة حول ** ربع كامل** | سياسة الناقل؛ فحصت هذه الخطوط المسمّاة فقط - وليس قاعدة عالمية |
+| ** مدفعا مستعملا بطاريات ICE** | بالنسبة للوحدات المستعملة ** بدون مهرّب للضرب**، قطع الـ12/24V بعد الاصطدام (مستشفيات لكل أمر من WW) | - | قاعدة ناقلات ذات مصادر وحيدة |
+| **BEV ذات التأثير العالي** | - | ** لا يزيد عدد أعضاء اللجنة على 50% **، مع الاحتفاظ بما يكفي من الشحنات للتحميل/التحميل/التخزين؛ - ≤¼ fuel plus SOC guidance | Höegh-specific; **not** a global SOC ceiling |
+| ** القابلية للاشتراك* ♪ | يجب على وحدات رو رو أن تُقطر نفسها بأمان في/خارج (النقل/العمل/النقل)؛ ويمكن رفض الوحدات المُخطئة أو المُسربة | نفس شرط القيادة الذاتية | حاملة حكماً لأولئك السطرين المسمّين |
 
-These requirements are quoted to named carriers precisely because they **vary by line and by voyage**: a Chinese RoRo/container carrier or another line may set different levels. Never state "carriers require X" without naming the carrier and checking its current written guide.
+وتُستشهد بهذه الشروط على الناقلات المسماة تحديدا لأنها تُشَهَّل بالخط وبرحلة**: يمكن لناقل رو رو/محتوى صيني أو خط آخر أن يحدد مستويات مختلفة. لا تذكر أبداً "الناقلات" تحتاج "إكس" بدون تسمية الناقل وتفقد دليلها الكتابي الحالي
 
-## AutoBridge Recommended Pre-Shipment Checklist (editorial method, not mandatory)
-The following is **our recommended sourcing/handover method**, offered to build an evidence trail; it is not a statutory or universal carrier procedure:
-- Exterior body and paint walk-around; note every existing mark.
-- Dashboard warning-light check (MIL/ABS/SRS/TPMS) before handover.
-- Inventory of tools, spare key, charging cable and onboard accessories.
-- Record odometer reading and fuel/SOC level at handover.
-- **Photo record**: dated photos carrying mileage and condition, kept for destination damage comparison.
-- **Joint handover record**: inspect the vehicle together with the terminal and sign a handover sheet, retaining a copy.
+## قائمة مرجعية سابقة للتشفير الموصى بها (طريقة التحرير، غير إلزامية)
+فيما يلي طريقة الإقراض/المصادر الموصى بها**، التي عرضت لبناء أثر للأدلة؛ وهي ليست إجراء قانوني أو عالمي للناقلات:
+- الجسم الخارجي والطلاء على طول الطريق؛ ملاحظة كل علامة قائمة.
+- فحص لضوء الإنذار من لوحة المداخيل (MIL/ABS/SRS/TPMS) قبل تسليمها.
+- جرد الأدوات، مفتاح احتياطي، شحن الكابلات وأجهزة الدخول على متن الطائرة.
+- - قراءة مقاييس الدونات ومستوى الوقود/مركبة التوليد عند التسليم.
+- ** سجل الصورة**: صور مُؤرخة تحمل ميلاً وحالاً، مُحتفظ بها لمقارنة أضرار المقصد.
+- ** سجل تسليم الجوزة**: فحص المركبة مع المحطة وتوقيع صحيفة تسليم، مع الاحتفاظ بنسخة منها.
 
-## Items to Confirm With Carrier or OEM (no fixed values asserted)
-Lashing point count, strap breaking strength, anti-slip mats, vehicle heading/orientation in the container, tyre-pressure adjustment and any uniform SOC figure: the batch obtained **no OEM transport-mode manual or formal carrier/terminal guide** establishing fixed values, so these are presented only as **items to confirm with the booked carrier / OEM transport-mode manual**. No fixed percentage, strap rating or orientation is stated as a standard.
+## بنود تؤكد مع الناقل أو منظمة العمل الدولية (لم تُدَّعي قيم ثابتة)
+إحصاء نقاط التشظي، وكسر القوة، وقطع الشظايا، ورسوم مضادة للدبابات، ورأس/توجه المركبات في الحاوية، وتسوية ضغط الإطارات، وأي رقم موحد لعموم SOC: تم الحصول على دليل لوسائط النقل التابعة لمنظمة أوم إي إم** أو دليل رسمي للناقل/الأجل** يثبت قيما ثابتة، وبالتالي لا تقدم هذه الأصناف إلا بوصفها *** لتأكيدها مع دليل النقل/أوراقص OEM**. ولا يُذكر أن نسبة مئوية ثابتة أو تصنيفاً متقطعاً أو توجهاً معيارياً.
 
-## The Handover Sequence We Recommend
-1. Run the editorial PDI and capture dated photos (recommendation).
-2. Set fuel/SOC to the **booked named carrier's** written level (WW/Höegh as above; otherwise obtain that carrier's guide).
-3. Confirm operability (move/brake/steer) and resolve leaks/warning lights.
-4. At the terminal, do the joint inspection and sign the handover record (recommendation).
+## "تسلسل التسليم"
+1. إدارة التحرير PDI وضبط صور مُؤرخة (التوصية).
+2. ضعوا الوقود/المكتب على مستوى الناقلة المسماة بالكتابة** (WW/Höegh) كما هو أعلاه، وإلا إحصلوا على دليل الناقلة
+3. (ب) قابلية التشغيل (الحركة/الضغط/النقل) وحل التسرب/الأضواء التحذيرية.
+4. في المحطة، قم بالتفتيش المشترك ووقع على سجل التسليم (التوصية).
 5. File photos + handover sheet with the B/L so any destination claim has a baseline.
 
-## Boundaries of This Guide
-- WW/Höegh items are **CARRIER_SPECIFIC**, never generalized to "all carriers" or to regulation.
-- The checklist is **editorial recommendation**, not a mandatory industry procedure.
-- Fixed lashing/pressure/orientation/SOC numbers beyond the named carriers are **blocked pending OEM/carrier primary documents**.
+## حدود هذا الدليل
+- أصناف WW/Höegh هي **CARRIER_SPECIFIC**، لم يتم تعميمها أبداً على "جميع الناقلات" أو على اللائحة.
+- والقائمة المرجعية هي التوصية** التحريرية، وليس إجراء إلزامي للصناعة.
+- وتُغلق أرقام السطو/الضغط/التلقيح/التلقيح الثابت فيما وراء الناقلين الذين يُسمّون، ريثما تُصدر الوثائق الأولية لمنظمة أوسم/الناقلات**.
 
-## Frequently Asked Questions
-**Is a quarter tank a legal requirement?** No — it is a written policy of named RoRo carriers such as Wallenius Wilhelmsen and Höegh; follow the booked carrier's instruction.
-**Must every EV ship at 50% SOC?** That figure is a Höegh Autoliners policy, not a universal cap; confirm the booked carrier's SOC requirement voyage by voyage.
-**Is the photo/handover record mandatory?** It is AutoBridge's recommended evidence method, not a statutory requirement — but it materially strengthens a destination damage claim.
-**Who decides lashing points and strap ratings?** The carrier/terminal and the OEM transport-mode manual; do not assume fixed values without their documents.
+## الأسئلة المتكررة
+** هل هناك شرط قانوني لربع خزانات؟** لا إنها سياسة مكتوبة من شركات (رو رو) مثل (والينيوس ويلهيلمنسن) و(هيوغ) اتبع تعليمات الناقلة المُحتَجَلة
+** هل كل سفينة من سفن المركبات الفضائية في 50% SOC؟** هذا الرقم هو سياسة هوغ أوتوملينرز وليس غطاء عالمي، تأكيد الرحلة المُحتسبة لشركات النقل السريع
+** هل تسجيل الصور/الخدمة إلزامي؟** إنها طريقة (أوت بريدج) الموصى بها، وليس شرطاً قانونياً، لكنها تعزز من المطالبة بضرر في الوجهة
+** من يقرر نقاط الاصطدام ودرجات التقدير**؟ ولا يُفترض أن يكون الناقل/الطبيعي ودليل حركة النقل التابع لمنظمة أوغـل؛ لا يُفترض أن يكون له قيم ثابتة دون وثائقه.
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
+## سجل الصور
+- لم يُؤمن أي منها في مستودع
 - ORIGINAL: IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
+- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
+- الحقوق - حقوق غير مؤكدة
+- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
+- CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
+- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات ويكيميو/فلكر غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات المسبقة/الرخصة، وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
 - ALT by language:
   - **EN**: AutoBridge export-buyer reference — Pre-shipment PDI and handover for RoRo/container, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Pre-shipment PDI and handover for RoRo/container, guide d’achat à l’export automobile
@@ -79,25 +82,25 @@ Lashing point count, strap breaking strength, anti-slip mats, vehicle heading/or
   - **AR**: مرجع AutoBridge لمشتري التصدير — Pre-shipment PDI and handover for RoRo/container, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Pre-shipment PDI and handover for RoRo/container, 汽车出口采购指南
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## المصدر: التحقق
+| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
-| WW Cargo Handling Instructions (fuel ≤¼) | Wallenius Wilhelmsen (RoRo carrier) | INTL | https://cargohandlinginstruction.walleniuswilhelmsen.com/pdf-files/WW-CHI-250731-1.31.pdf | 2026-09-04 | CROSS_CHECKED (primary carrier) | Fuel level, operability |
-| WW Receiving of used units (disconnect 12/24V without kill-switch) | Wallenius Wilhelmsen | INTL | https://cargohandlinginstruction.walleniuswilhelmsen.com/terminal/receiving-of-used-units-draft | 2026-09-04 | SINGLE_SOURCE (primary carrier) | Used-ICE battery disconnect |
-| Höegh Automotive shipping (HF) BV SOC; operability) | Höegh Autoliners | INTL | https://www.hoeghautoliners.com/what-we-ship/automotive | 2026-09-04 | SINGLE_SOURCE (primary carrier) | BEV ≤50% SOC, fuel, operability |
-| Höegh Trucks/Buses/Trailers shipping | Höegh Autoliners | INTL | https://www.hoeghautoliners.com/what-we-ship/trucks-buses-and-trailers-shipping | 2026-09-04 | SINGLE_SOURCE (primary carrier) | Commercial-unit receiving |
-| Pre-shipment inspection & handover practice | 11467 | CN | https://m.11467.com/product/d55278360.htm | 2026-09-04 | SINGLE_SOURCE (editorial basis) | Recommended checklist/photo/handover |
-*Evidence scope: named-carrier policies verified to WW/Höegh primary guides (carrier policy, not regulation, not universal); checklist is editorial recommendation; fixed lashing/pressure/orientation values blocked pending OEM/carrier documents.*
+| WW Cargo Handling Instructions (fuel ≤¼) | والينيوس ويلهلمسن (ناقل رو رو) | INTL | https://cargohandlinginstruction.walleniuswilhelmsen.com/pdf-files/WW-CHI-250731-1.31.pdf | 2026-09-04 | (ناقل أولي) | مستوى الوقود، القابلية للتشغيل |
+| WWW استقبال الوحدات المستعملة (قطع الاتصال 12/24V دون قتل) | والينيوس ويلهلمسن | INTL | https://cargohandlinginstruction.walleniuswilhelmsen.com/terminal/receiving-of-used-units-draft | 2026-09-04 | SINGLE_SOURCE (primary carrier) | قطع بطارية مستعملة |
+| Höegh Automotive shipping (HF) BV SOC; القدرة على التشغيل) | Höegh Autoliners | INTL | https://www.hoeghautoliners.com/what-we-ship/automotive | 2026-09-04 | SINGLE_SOURCE (primary carrier) | BEV ≤50% SOC, الوقود القابلية للاشتراك |
+| شاحنة/أعمال/شاحنات شحن | Höegh Autoliners | INTL | https://www.hoeghautoliners.com/what-we-ship/trucks-buses-and-trailers-shipping | 2026-09-04 | SINGLE_SOURCE (primary carrier) | الوحدــة التجاريــة |
+| ممارسة التفتيش قبل الشحن | 11467 صفحة من صفحات الصناعة | CN | https://m.11467.com/product/d55278360.htm | 2026-09-04 | SINGLE_SOURCE (editorial basis) | القائمة المرجعية الموصى بها/الفوتو/المناولة |
+* نطاق الأدلة: سياسات الناقلات المسماة التي تم التحقق منها في الأدلة الرئيسية WW/Höegh (سياسة الشاحنات، لا القواعد التنظيمية، لا في جميع أنحاء العالم)؛ والقائمة المرجعية هي توصية تحريرية؛ وقيم ثابتة للضرب/الضغط/التوجه معلّقة ريثما تصدر وثائق مكتب مراقبة الأصول والخصوم. ♪
 
-| IMO/ILO/UNECE CTU Code — handling and securing cargo transport units | International Maritime Organization (IMO) | INTL | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | VERIFIED | General handling/securing baseline; carrier rules remain stricter and route-specific |
-| Cargo/transit insurance and marine risk reference | International Union of Marine Insurance (IUMI) | INTL | https://iumi.com/ | 2026-09-05 | VERIFIED | Why documented PDI/handover evidence matters for cargo-claims handling |
+| المنظمة البحرية الدولية/منظمة العمل الدولية/الجماعة الاقتصادية لأوروبا المدونة - مناولة وتأمين وحدات نقل البضائع | المنظمة البحرية الدولية | INTL | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | مفقود | خط الأساس: قواعد الناقلة تظل أكثر صرامة وتحديداً للطرق |
+| التأمين على البضائع/النقل والإحالة إلى المخاطر البحرية | الاتحاد الدولي للتأمين البحري | INTL | https://iumi.com/ | 2026-09-05 | مفقود | لماذا تم توثيق مسائل PDI/handover evidence for cargo-claims handling |
 
-## Editorial Review
+## استعراض التحرير
 - ** Author**: AutoBridge Export Editorial Team; method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: International RoRo/container export (named-carrier policies) + editorial checklist
-- **Verification method**: Named-carrier primary guides separated from editorial recommendation; no universal fixed values
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+- ** لم يُستعرض بعد**: 2026-09-05
+- ** سوق الإحالة**: تصدير الروتينات/المحتوى الدولي (سياسات السماد) + قائمة مرجعية تحريرية
+- ** طريقة التحقق**: أدلة أولية تحمل اسماً محرراً مفصولة عن التوصية التحريرية؛ لا توجد قيم ثابتة عالمية
+- ** الشفافية**: استُخدمت الصياغة المدعومة من منظمة العفو الدولية. وتستند هذه المادة إلى البحوث المكتبية وآلية الجودة. ولا يُزعم إجراء أي اختبار مباشر إلا إذا تم توثيقه بشكل صريح؛ ويؤكد متطلبات مراعية للوقت ومحددة للمقصد قبل التحول.
+- ** المعيار الإفريقي**: باحثة ومحررة من المصادر المذكورة أعلاه (بحوث مكتبية؛ ولا يُدَّعى عن أي قيادة مباشرة أو تمزق أو استيراد). وتظهر الثقة في المصدر في الصف الواحد؛ وأي نقطة لا يمكننا تأكيدها بشكل مستقل تعرض كبند تحقق بدلا من التأكيد على أنها حقيقة.
 
 **Tags**: #PDI #PreShipment #RoRo #CarrierRules #VehicleExport

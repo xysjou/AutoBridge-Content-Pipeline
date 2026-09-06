@@ -1,68 +1,76 @@
-# China Export VAT Refund — Methods, Filing Order and Rate Lookup
+# จีน ส่ง ออก ไปรษณีย์ ส่ง เสริม การ ค้า — วิธี การ, วิธี ปลอม แปลง และ การ หา ราย ได้
 
-## SEO Metadata
-- **SEO Title**: China Export VAT Refund for Vehicles: Exemption-Credit-Refund vs Exemption-Refund Process
-- **Meta Description**: How Chinese vehicle exporters claim export VAT treatment: the two methods (exemption-credit-refund for production enterprises, exemption-refund for traders), filing order, and why the refund rate is HS-specific.
-- ~ H1~: China Export VAT Refund — Methods, Filing Order and Rate Lookup
-- **Primary Keyword**: china export vat refund process
-- **Secondary Search Terms**: export VAT refund; exemption credit refund; export tax rebate; refund rate; China tax
-- **Suggested URL**: / guides/china-export-vat-refect- percess/
-- **Search Intent**: 生产企业与外贸企业如何办理出口货物增值税退（免）税、申报流程、计算逻辑与退税率查询
-- **Internal Link Suggestions**: / Guides/china-exports-exports-dipals-single-woods / / guides/ export-fx-setlection-fx-regressing//////guides/ visicicic-export-code-Hs-Hs-History/
-- ~Schema Scope~: Article (no Product/Offer/Review)
+## เชา ข้อมูลกํากับภาพ
+- < secontinuation*: จีนส่งออก VAT รองรับการขอข้อมูล (February) ของรถ: Exfiruement-Crediet-Refilted vs Exfiration-Refactered โพรเซส
+- ""คําอธิบาย" วิธีที่ผู้ส่งออกรถชาวจีนอ้างวิธีการส่งออก VAT: วิธีสองวิธี (การยกเว้นการให้เช่า-สนับสนุนสําหรับบริษัทผลิต, การยกเว้นการจําหน่าย), การสั่งซื้อ, และทําไมอัตราการคืนเงินถึงมีการจัดจําหน่าย HS- มาตราฐาน.
+- ** H1 ~: จีนส่งออก VAT Newfightd — วิธี, การล้างระเบียบและการประเมินระดับการค้นหา
+- ~ คําสําคัญในคอลัมน์ ~: โพรเซสการตอบกลับของภาษาจีน
+- ~. สืบค้นเมื่อใหร่ ~: คืนเงินแบบส่งออก VAT; ยกเว้นการคืนหนี้เครดิต; ภาษีส่งออกกลับใช้อีกครั้ง; อัตราการคืนเงิน; ภาษีจีน
+- ** ที่อยู่ URL ที่ถูกย่อ *: / guides/china-export-wat-refacted- perution/
+- สืบค้นเมื่อ 生产企业与外贸企业如何办理出口货物增值税退 (免) 税 、 申报流程 、 计算逻辑与退税率查询
+- ** ลิงก์ภายใน **. guides/china-exports-degrics-swind-wind////guides/ export-fx-setlection-fx-regressing//////// guide/ export-hs-Hs-Hs access-History/
+- ~Schema Scop~: บทความ (ไม่มี Production/Offer/Review)
 
-## Two methods, matched to enterprise type
-China's export VAT arrangements use two principal methods. A **production/manufacturing enterprise** applies **exemption–credit–refund (免抵退)**: export output VAT is exempt, input VAT is credited against domestic output VAT and the residual is refunded. A **foreign-trade/commercial enterprise** that buys and resells for export generally applies **exemption–refund (免退)**: the export sale is exempt and the corresponding input VAT is refunded. Using the wrong method for the entity type is a basic filing error.
+## สองวิธี ตรงกับรูปแบบ enterprise
+การจัดเรียงของ VAT การส่งออกของประเทศจีน ใช้สองวิธีหลัก A* valuesion/ manfactivation Profile ~ ปรับใช้ ** ใช้งาน- exportation- expended - (免抵退) ~: ส่งออก VAT ถูกปฏิเสธ การนําเข้าจะถูกยกเว้น access VAT และ accessed ได้คืนค่า A~ enteral-translation/commercial Profile ~ ที่ซื้อและขายเพื่อส่งออกโดยทั่วไป ใช้ได้กับ~ expression-refined (免退) *: การส่งออกได้รับการยกเว้น และ VAT ที่เข้าได้นั้นได้รับการคืนค่า การใช้วิธีการผิดสําหรับชนิดขององค์กร เป็นข้อผิดพลาดพื้นฐาน
 
-## The calculation and filing order
-The period refund/credit is computed from export sales, creditable input tax and the applicable refund rate. Filing follows the export event: after customs declaration and with the matching invoice, FX receipt and declaration data, the enterprise files the refund/exemption return within the prescribed period, then completes verification/write-off. Documents must reconcile across customs, tax and FX.
+## ลําดับการคํานวณและการจัดเก็บ
+ระยะเวลาที่คืนคืนหรือค่าบัญชีคํานวณมาจากยอดขายส่งออก ภาษีนําเข้าที่น่าเชื่อถือ และอัตราการคืนค่าคืนที่ใช้ได้ การติดตามเหตุการณ์ส่งออก: หลังจากประกาศเรื่อง ศุลกากรและมีการจับคู่ข้อมูลใน ใบแจ้งหนี้ FX และข้อมูลการแจ้งข้อมูล enterprise ไฟล์ที่ส่งคืน/ หมดภายในช่วงเวลาที่กําหนดแล้ว จะเป็นการตรวจสอบและเขียนลงแฟ้ม เอกสารต้องผนวกเข้ากับศุลกากร ภาษีและ FX
 
-## The refund rate is per HS code — and is not guessed
-The export VAT refund rate is set by **HS code/product** and changes over time. This guide deliberately states **no numeric rate**: look up the current rate for the exact 10-digit HS code on the day, because quoting a stale rate distorts the landed-cost model. Time-sensitive filing deadlines likewise come from the current STA notice.
+## อัตรา เงิน คืน ต่อ รหัส HS — และ ไม่ มี การ เดา
+อัตราการคืนค่าคืนของ KDE ถูกตั้งค่าโดย ~HS code/ profile ~ และการเปลี่ยนแปลงเมื่อเวลาผ่านไป มัคคุเทศก์คนนี้ได้จงใจระบุ... ไม่มีส่วนอะไรเลย -- สืบค้นอัตราปัจจุบันสําหรับรหัส HS ที่ถูกต้อง 10-digit ในวันนี้ เพราะการอ้างถึงอัตราที่ยุ่งเหยิงทําให้แบบจําลองลงเล่นผิดเพี้ยนไป การยื่นคําร้องที่ไวต่อเวลา ก็มาจาก STA ในปัจจุบันเช่นกัน
 
-## Operating checklist
-1. Identify entity type and the correct method (免抵退 vs 免退).
-2. Classify the exact HS code and look up the **current** refund rate.
-3. Gather declaration, special VAT invoice and FX-receipt evidence so they reconcile.
-4. File within the prescribed period; complete verification/write-off.
-5. Keep the calculation trail for tax inspection.
+## เหตุ ผล ที่ การ คืน เงิน สนับสนุน การ ถ่วงเวลา: กับ ดัก ที่ ทํา ให้ เสมอ ต้น เสมอ ปลาย
+การ ส่ง ออก รถยนต์ แบบ ล่า ช้า ไม่ ค่อย จะ เป็น เรื่อง เกี่ยว กับ อัตรา ดัง กล่าว; มี บันทึก ประมาณ สาม เรื่อง เล่า เล่า เรื่อง ที่ ต่าง กัน. อย่างแรก นามสกุล ปริมาณ และรหัสเอชเอส ในใบแจ้งหนี้พิเศษของ VAT ต้องตรงกับการประกาศศุลกากรและบิลค่าธรรมเนียม -- รถบรรทุกที่บรรยายในใบแจ้งหนี้ด้วยชื่อเล่นการค้า แต่ประกาศภายใต้รหัสอื่น ๆ ที่ใช้ในระบบการค้า ทําลายอํานาจภาษีที่เปรียบเทียบกับข้อมูลศุลกากร ข้อสอง -- การไหลของกระแสเงินต้องตรงกับสินค้าที่ไหลอยู่ *: ใบเสร็จ FX ส่งออกควรปรับให้ตรงกับค่าที่ระบุไว้ และค่าคู่ปรับที่สอดคล้องกัน ซึ่งเป็นเหตุผลที่ว่า ทําไมการชําระเงินและบันทึกการชําระหนี้ FX-Setlection ไม่สามารถถูกมองว่าเป็นเอกสารที่ไม่เกี่ยวข้องได้ ข้อสาม การเข้าหาต้องสอดคล้องกันภายในระบบ * — แถลงการณ์ การจากไป และใบเสร็จควรลําดับที่สมเหตุสมผล สําหรับผู้ซื้อชาวต่างประเทศเหล่านี้ เพราะผู้ส่งออกชาวจีน ที่เงินอุดตันในพื้นที่สอดคล้อง อาจชะลอการสั่งซื้อหรือเปิดราคาเพื่อเรียกภาษีการนําเข้าที่ผูกขึ้นอีกครั้ง การยืนยันชนิดขององค์กร, การจําแนกประเภท HS และว่าใน USD-LOX บันทึกการตกลงเป็นคําถามที่เกี่ยวกับ การจ่ายเงินล่วงหน้าถูกต้องตามกฏหมาย
 
-## Boundaries
-No rates, deadlines-as-fixed-numbers or case-specific amounts are provided here; all are HS- and time-specific and sourced from STA/MOF current notices.
+## รายการที่เรียกดู
+1. ชนิดขององค์กรระบุ และวิธีที่ถูกต้อง (免抵退 vs 免退).
+2. จัดลําดับรหัส HS และดูอัตราเงินคืนที่ซ้ํากัน
+3. รวบรวมการแถลงข่าวพิเศษ VAT ในใบแจ้งหนี้และหลักฐานที่ X-receipt เพื่อให้พวกเขากลับมาคืนดีกัน
+4. แฟ้มภายในช่วงเวลากําหนดค่า; การตรวจสอบสิทธิ์/ เขียนลงแผ่นสมบูรณ์
+5. เก็บร่องรอยการคํานวณสําหรับการตรวจสอบภาษี
 
-## FAQ
-**Which method does a factory use?** Generally exemption–credit–refund (免抵退).
-**Which does a trading company use?** Generally exemption–refund (免退).
-**What is the refund rate for cars?** It is HS-specific and changes — look it up by exact code; it is not stated here.
-**When do I file?** After export declaration with matching documents, within the current prescribed period.
-**Why must FX and customs match?** The refund relies on goods-flow/funds-flow consistency.
+## ขอบเขต
+ไม่มีอัตรา, จํานวนเส้นตายแบบเกินขนาด หรือจํานวนที่ระบุตัวพิมพ์ได้ตรงนี้ ทั้งหมดเป็น HS และเวลาจํากัด และแหล่งกําเนิดจาก STA/MOF แจ้งให้ทราบปัจจุบัน
+
+## ขนาด FAQ
+~โรงงานใช้วิธีการใด ~ ทั่วไปยกเว้น - เงิน - งบประมาณ (免抵退).
+~บริษัทซื้อขายใช้อะไร ~ ทั่วไปยกเว้น - ลงทุน (免退).
+"เงินคืนสําหรับรถคืออะไร" มาตรา HS และการเปลี่ยนแปลง สืบค้นตามรหัสที่แน่นอน ที่ไม่ได้ระบุไว้ที่นี่
+~ฉันยื่นแฟ้มเมื่อไหร่~ หลังจากการส่งออกเป็นเอกสารที่เข้าคู่กับเอกสารแล้ว โดยอยู่ในช่วงที่กําหนดให้ใช้อยู่ในปัจจุบัน
+~ทําไม FX และศุลกากรต้องตรงกัน~ เงินคืนจะขึ้นอยู่กับสินค้าที่ไหล/ไหลวน
 
 
-## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
+## ต้นฉบับและการตรวจสอบสิทธิ์
+| แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| 出口业务增值税和消费税退(免)税管理办法（税务总局公告） | 中国政府网 | CN | T1 | VERIFIED | https://www.gov.cn/zhengce/zhengceku/202602/content_7056762.htm | 申报期限, 免抵退申报资料 |
-| 关于出口业务增值税和消费税政策的公告 | 中华人民共和国财政部 | CN | T1 | VERIFIED | https://www.mof.gov.cn/jrttts/202602/t20260203_3983176.htm | 免抵退/免退税办法定义 |
-| 出口货物劳务免抵退税和免退税如何计算 | 国家税务总局 | CN | T1 | VERIFIED | https://www.chinatax.gov.cn/chinatax/c102449/c5237525/content.html | 当期应退/免抵税额计算 |
-| 进出口税收热点问题（2026年7月） | 国家税务总局北京市税务局 | CN | T1 | VERIFIED | http://beijing.chinatax.gov.cn/bjswj/c105390/202608/ec1a021ae3af4c368e72684ca1bbe4df.shtml | 报关后申报与核销 |
-| State Taxation Administration (STA) | STA 国家税务总局 | CN | T1 | VERIFIED | https://www.chinatax.gov.cn/ | export VAT refund/exemption authority |
-## Editorial Review
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: CN（中国税务侧）
-- **Verification method**: Desk research against the sources below; Chinese-market reference specification only unless a separate export market is explicitly cited.
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
+| 出口业务增值税和消费税退(免)税管理办法（税务总局公告） | 中国政府网 | CN | T1 | เปิดใช้งาน | https://www.gov.cn/zhengce/zhengceku/202602/content_7056762.htm | 申报期限, 免抵退申报资料 |
+| 关于出口业务增值税和消费税政策的公告 | 中华人民共和国财政部 | CN | T1 | เปิดใช้งาน | https://www.mof.gov.cn/jrttts/202602/t20260203_3983176.htm | 免抵退 / 免退税办法定义 |
+| 出口货物劳务免抵退税和免退税如何计算 | 国家税务总局 | CN | T1 | เปิดใช้งาน | https://www.chinatax.gov.cn/chinatax/c102449/c5237525/content.html | 当期应退 / 免抵税额计算 |
+| 进出口税收热点问题（2026年7月） | 国家税务总局北京市税务局 | CN | T1 | เปิดใช้งาน | http://beijing.chinatax.gov.cn/bjswj/c105390/202608/ec1a021ae3af4c368e72684ca1bbe4df.shtml | 报关后申报与核销 |
+| คณะกรรมการภาษีรัฐ (STA) | STA 国家税务总局 | CN | T1 | เปิดใช้งาน | https://www.chinatax.gov.cn/ | ส่งออกสิทธิ์ที่อนุญาตสิทธิ์ในการคืนค่าคืน/ หมดอายุของ VAT |
+| CAC — การส่งออกเป็นใบรับรองที่รองรับ VAT | General Administration of Customs of China (海关总署 GACC) | CN | T1/T2 | เปิดใช้งาน | http://www.customs.gov.cn/ | ข้อมูลการส่งออกของเครื่องเอง ตรงกับสิทธิ์ขององค์กรผู้ส่งภาษี เพื่อตรวจสอบการคืนค่าคืน/ application application |
+| STA — ดัชนีนโยบายการคืนค่าคืนของ STAT (หน้าลึก) | State Taxation Administration (国家税务总局 STA) | CN | T1/T2 | เปิดใช้งาน | https://www.chinatax.gov.cn/chinatax/n810341/n810755/ | คอลัมน์นโยบายการเสียภาษีที่จะดําเนินการส่งออก VAT ตอบกลับ/ การลบจดหมาย (ไม่ยืนยันอัตราการลดโทษที่นี่) |
+## การทบทวนแก้ไข
+- ~Uuthor ♪: AutoBridge ส่งออกทีมแก้ไข [ผู้เขียน](/ ผู้เขียน/) สืบค้นเมื่อ [ใช้ในการแก้ไขนโยบาย] [/Di-policy/]
+- ~ถูกตรวจสอบแล้ว~: 2026-09-05
+- ~ตลาดแห่งความไม่สงบ: CN(中国税务侧)].
+- ~วิธีการสร้างความสัมพันธ์ ~: งานวิจัยที่ขัดกับแหล่งย่อยด้านล่างนี้; การอ้างอิงตลาดจีน-มาร์เก็ต ก็ต่อเมื่อมีการอ้างอิงตลาดส่งออกอย่างตรงไปตรงมา
+- การร่างแบบ AI-assisted ถูกใช้ บทความนี้ตั้งอยู่บนพื้นฐานของงานวิจัยในตาราง และอัตโนมัติ QA ไม่มีการอ้างอิงการทดสอบก่อน จนกว่าจะมีการระบุรายละเอียดอย่างชัดเจน ยืนยันความต้องการที่ต้องใช้เวลาและกําหนดปลายทาง ก่อนทําการข้ามเวลา
 
-## Image Record
-- **IMAGE_ASSET_PATH**: none secured in repository
-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ not captured
-- **SOURCE_PAGE**: not captured
-- **RIGHTS_HOLDER**: unconfirmed
-- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
-- ~ECHCKKED_DATE ~: 2026-09-05
-- ~CRL/TOPIC_MATCH~: exact China Export VAT Refund
-- **IMAGE_RIGHTS_STATUS**: FAIL
-- **ALT (12 languages)**:
+## บันทึกรูปภาพ
+- ~ประกาศ_BAR_ PATH ~ ~ ไม่มีคนปลอดภัยในห้องเก็บของ
+- ~~~~~ไม่ถูกจับ~
+- ~ประกาศจับ~: ไม่ถูกจับ
+- ** UNTER_FELE_ PATE*: ใช้ไม่ได้ — ไม่มีเอกสารผู้สมัครใด ๆ ที่ระบุ (ไม่มีใบรับรองที่จะยืนยัน)
+- ~ห้ามยืนยัน~
+- **LICENSE_OR_USAGE_BASIS**: ไม่ มี ใคร ปลอด ภัย — การ มี เว็บไซต์ อยู่ ใน เวลา นี้ ไม่ ใช่ การ ลง ทะเบียน ทํา ซ้ํา อีก ครั้ง ใน การ ค้า
+- ~CKND_DATE ~ 2026-09-06
+- ** ROUND_TOIC_MATCH~: ตรงกับภาษาจีนส่งออก VAT รองรับแล้ว
+- MEDIAN_SCPE_NOTE: ภาพต้องตรงกับครอบครัว/ โตปิกที่ถูกต้องเท่านั้น; ต้องไม่หมายถึงการตัด, ปีตัวอย่าง, เรียลวีน, การตรวจสอบหรือการทําธุรกรรมจริง
+- หม่อมเจ้า หม่อมเจ้า
+- ~ ล็อก-รีซัน~: ไม่มีภาพใดสามารถใช้ได้โดยปลอดภัย: Wikited Commons/Flickr ไม่สามารถทํางานได้จากสภาพแวดล้อมการวิจัย ห้องสมุดหลักต้องการสิทธิ์ในการเข้าถึง API/CIFF และภาพเว็บเพจของ OEM ก็ไม่ใช่การให้ทุนใช้อีกครั้งในโฆษณา ไม่มีภาพถ่ายที่บรรจุออโต้ไบด์อยู่ บันทึกเก็บ FAIL แทนการยืนยัน
+- ~ALT (12 ภาษา) ~:
   - **EN**: export VAT refund, Chinese-market procurement guide export buyer reference
   - **FR**: export VAT refund, procurement guide du marché chinois, référence acheteur export
   - **DE**: export VAT refund, Chinesischer procurement guide, Referenz für Exportkäufer

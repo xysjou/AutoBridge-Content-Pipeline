@@ -1,60 +1,63 @@
-# Does a Vehicle Need Statutory Inspection Before Export? A China-Side, HS-by-HS Decision Guide
+# هل يحتاج مركبة إلى فحص قانوني قبل التصدير؟ A China-Side, HS-by-HS Decision Guide
 
 ## SEO Metadata
-- **SEO Title**: China Vehicle Export Statutory Inspection & Declaration Guide (HS-by-HS)
-- **Meta Description**: There is no blanket yes/no — determine the exact 10-digit HS code, check the current statutory-inspection catalogue and that code's customs supervision condition, and separate statutory inspection from buyer PSI and the BEV export licence.
-- **Suggested URL**: /guides/china-export-statutory-inspection-declaration
-- ** H1 **: Statutory Inspection and Customs Declaration for an Exported Vehicle: Decide it by 10-Digit HS, Not by Generalisation
-- **Primary Keyword**: china export statutory inspection customs declaration vehicles
-- **Secondary Search Terms**: 法定检验 出口 目录, GACC order 277 declaration, export commodity inspection catalogue, BEV export licence 2026, PSI vs statutory inspection
-- **Internal Link Suggestions**: /guides/vehicle-export-hs-code-classification/; /guides/export-vecle-document-package/; /guides/china-export-certificate-of-origin/
-- **Image Suggestions**: HS;catalogue;supervision-condition decision flow; statutory vs PSI vs export-licence three-track diagram; customs seal
-- **ALT Suggestions**: "China export statutory inspection decided by 10-digit HS and current catalogue"
+- ** عنوان الحلقة**: دليل الصين للتفتيش على مبدئي تصدير المركبات
+- ** وصف البيانات**: لا يوجد مانع /لا - تحديد رمز الـ10-digit HS بالضبط، والتحقق من فهرس التفتيش القانوني الحالي وشرط الإشراف الجمركي لهذا الرمز، والتفتيش القانوني المستقل من مشتري PSI ورخصة تصدير الـ بي في.
+- ** اقتراح الاتحاد الأوروبي المعني بمكافحة الألغام البرية**: /إرشاد/آلية - تصدير - إعلان عن التنقيب عن المواد
+- ** H1 **** إعلان التفتيش القانوني والجمارك بشأن مركبة مصدّرة: البت فيه بـ 10-Digit HS، وليس بالتعريف
+- ** كلمة أساسية برية**: مركبات إعلان جمركي لتصدير الصين
+- ** شروط البحث الثانية**: 法定检验 出口 目录، أمر الجمعية العامة 277 إعلان، فهرس تفتيش السلع الأساسية التصديرية، رخصة تصدير بـي فينـا، 2026، PSI ضد التفتيش القانوني
+- ** مقترحات داخلية بشأن الروابط**: /مبادئ توجيهية/تصنيف /مركبة تصدير/تصنيف/تصنيف/تصنيف؛/مبادئ توجيهية/حزمة وثائق متحركة/تصدير؛ /مبادئ توجيهية/آلية - شهادة تصديرية - أصلية/منشأة
+- ** اقتراحات بشأن التصدير**: HS;catalogue;supervision-condition decision flow; statutory vs PSI vs export-licence three-track diagram; customs seal
+- ** اقتراحات بشأن تصدير السلع**: "تفتيش التصدير في الصين بموجب القانون تقرره 10-digit من الـ "إتش إس" و الفهرس الحالي
 
-## The Question Has No Single Yes/No Answer
-"Do Chinese vehicles need statutory inspection before export?" A blanket "all cars must" or "no cars need it" is the wrong answer. Whether a specific consignment is subject to **export statutory inspection** is determined by **its exact ten-digit HS code**, read against the **current *Catalogue of Import and Export Commodities Subject to Statutory Inspection*** and that code's **customs supervision condition / inspection-and-quarantine category**. This page sets out the China export-side framework and the decision method; it does not assert a catalogue outcome for a code it has not checked live. The result is therefore **conditional evidence**: the legal framework is verified, but each vehicle's catalogue status must be confirmed per code at declaration time.
+## السؤال لا يُوجد له نعم/لا جواب
+"هل تحتاج المركبات الصينية إلى تفتيش قانوني قبل التصدير؟" بطانية "كل السيارات يجب" أو "لا سيارات تحتاجها" هي الجواب الخاطئ ما إذا كانت الشحنة المحددة خاضعة للتفتيش القانوني**، يحددها الرمز العشري HS بالضبط**، * مركز الاستيراد  and  السلع الأساسية التصديرية الخاضعة للتفتيش القانوني***  and  هذا الرمز هو حالة مراقبة الجمرةد / فئة التفتيش و الحجرة**. وتحدد هذه الصفحة الإطار الصيني لجانب التصدير وطريقة اتخاذ القرارات؛ ولا يؤكد على نتيجة فهرسية لرمز لم يفحصه حي. وبالتالي، فإن النتيجة هي ** أدلة تقليدية**: تم التحقق من الإطار القانوني لكن كل مجموعة من المركبات يجب أن يتم تأكيدها في وقت الإعلان
 
 ## The Legal Frame (verified)
-Under the *Import and Export Commodity Inspection Law* and its implementing regulations, export commodities placed on the statutory-inspection catalogue **must be submitted for inspection**, and goods not inspected — or failing inspection — **may not be exported**. Inspection of export goods is, in principle, carried out at the **place of production**, unless customs designates another location. Statutory inspection covers goods listed in the catalogue **and** goods that other laws/regulations require to be inspected. Commodities outside the catalogue fall under **random inspection (抽查检验)**; the 2024 GACC Notice No.163 sets the out-of-catalogue random-inspection scope, which for **exports lists only children's toys**.
+وبموجب قانون التفتيش على السلع الأساسية للتصدير والتصدير* ولوائحه التنفيذية، تقدم السلع الأساسية التصديرية المدرجة على قائمة التفتيش القانونية**، لأغراض التفتيش**، ولا يجوز تصدير السلع غير الخاضعة للتفتيش - أو عدم التفتيش -**. ويجري التفتيش من حيث المبدأ على السلع التصديرية في مكان الإنتاج**، ما لم تحدد الجمارك موقعا آخر. ويشمل التفتيش القانوني السلع المدرجة في الفهرس ** والبضائع التي يلزم تفتيشها في قوانين/لوائح أخرى. وتخضع السلع الأساسية خارج الفهرس للتفتيش النادر (抽查检验)**؛ ويحدد الإشعار رقم 163 الصادر عن الجمعية العامة رقم 2024 نطاق التفتيش العشوائي الذي لا يُستهان به، التي لـ ** الصادرات تُدرج فقط ألعاب الأطفال**
 
 ## The Decision Method (HS-first, then catalogue)
 1. **Fix the exact ten-digit HS code** for the vehicle (87.01/87.02/87.03/87.04/87.05 as applicable — see the classification guide).
-2. Look that code up in the **current** statutory-inspection catalogue and read its **export supervision condition** (export statutory inspection corresponds to the export commodity-inspection category).
-3. If listed/required → arrange inspection at the place of production (or designated location) **before** declaration.
-4. If not listed and no other legal basis applies → it is handled under random inspection, not automatic statutory inspection.
-5. Process changes occur by GACC notice (e.g., the 2025 No.138 notice optimizing the *pre-declaration inspection/quarantine application*, which excludes administrative-licensing matters) — cite the notice number and date.
+2. انظر إلى هذا الرمز في فهرس التفتيش القانوني** الذي يجري حالياً**، ويقرأ شرط الإشراف على الصادرات** (يقابل التفتيش القانوني التصديري فئة التفتيش على السلع الأساسية).
+3. إذا أدرجت/مطلوبة  arrange ترتيب التفتيش في مكان الإنتاج (أو موقع معين)** قبل الإعلان**.
+4. وإذا لم تدرج في القائمة ولم يطبق أي أساس قانوني آخر، فإنها تُعالج تحت التفتيش العشوائي، وليس التفتيش القانوني التلقائي.
+5. ويحدث تغيرات في العملية بموجب إشعار لجنة التنسيق المشتركة (مثلا، الإشعار رقم 138 الذي يبلغ 2025 والذي يُحدِث إلى الحد الأمثل " تطبيق التفتيش/التحليل قبل الإعلان "*، الذي يستبعد مسائل الترخيص الإداري) - يُذكر رقم الإشعار وتاريخه.
 
-## Declaration: Documents and Who Signs
-Per **GACC Order No.277 (Provisions on the Declaration of Import and Export Goods)**, export goods requiring inspection/quarantine carry the **required accompanying documents**, and a declaration made in one's own name is **stamped/signed by the consignor or consignee**, who bears declaration responsibility.
+## الإعلان: الوثائق ومن يوقع
+الأمر رقم 277 (التنقيحات المتعلقة بإعلان السلع المستوردة والصادرة)**، والسلع التصديرية التي تتطلب تفتيشا/مياه تحمل الوثائق المصاحبة المطلوبة**، والإعلان الذي يصدر باسم الشخص هو ** الذي يوقعه/يوقعه المرسل أو المرسل إليه**، الذي يتحمل مسؤولية الإعلان.
 
-## Three Parallel Regimes — Keep Them Apart
-| Regime | Trigger | Replaces the others? |
+## ثلاثة ريجيات بارال - أبقوا فصلهم
+| النظام | Trigger | يستبدل الآخرين؟ |
 |---|---|---|
-| **Statutory inspection** | Code is in the current catalogue / law requires it | - |
-| **Buyer's third-party PSI** | Contract / L/C / buyer request | No — PSI never satisfies a statutory-inspection duty |
-| **BEV export licence** | Battery-electric passenger cars (reference code 8703801090) under **export-licence administration from 2026-01-01** (four-ministry announcement) | No — the licence and statutory inspection are parallel systems and never substitute for each other |
+| ** التفتيش المخزني** | القانون في القائمة/القانون الذي يشترطه | - |
+| ** حزب بوير الثالث ** | طلب العقد/الطلب من شركة L/C/شتراء | لا - لا تُستوفي هيئة التفتيش الأمنية أبداً واجب التفتيش القانوني |
+| ** رخصة تصدير BEV* ♪ | Battery-electric passenger cars (reference code 8703801090) under **export-licence administration from 2026-01-01** (four-ministry announcement) | لا - الترخيص والتفتيش القانوني هما نظامان متوازيان ولا يحل أحدهما محل الآخر أبدا. |
 
-A buyer-nominated PSI is a commercial check, not Chinese statutory clearance; and the BEV export licence is a trade-administration instrument, not commodity inspection.
+وشركة PSI التي يرشحها المشتري هي شيك تجاري، وليس تصاريح قانونية صينية؛ ورخصة تصدير شركة بي في هي أداة لإدارة التجارة، وليس تفتيش السلع الأساسية.
 
-## Boundaries of This Page
-- Whether **any specific vehicle / ten-digit code currently sits inside the catalogue** is **time-sensitive and code-specific**: the batch did not obtain the line-by-line export supervision conditions for every 87.02–87.05 code, so this page gives the method, not a universal conclusion. Verify against the **current customs catalogue and that code's supervision condition** before declaring.
-- Third-party PSI is never described as statutory inspection; the BEV licence is never described as inspection.
+## حدود هذه الصفحة
+- ** إن ما إذا كان يوجد حاليا في القائمة** أي مركبة محددة/رمز رقم عشرة، هو ** مراعية للوقت ومحدد حسب الشفرة**: فالدفعة لم تحصل على شروط الإشراف على الصادرات لكل رمز من الرموز الـ 87.02–87.05، وبالتالي فإن هذه الصفحة تعطي الطريقة وليس استنتاجا عالميا. تحقق من الفهرس الجمركي المثير و حالة المراقبة هذه قبل الإعلان
+- ولا يوصف التفتيش الموقعي للحزب الثالث على أنه تفتيش قانوني؛ ولا يوصف ترخيص البولي في أبدا بأنه تفتيش.
 
-## Frequently Asked Questions
-**Do all exported cars need statutory inspection?** There is no blanket rule — fix the ten-digit HS code and check the current catalogue and its export supervision condition for that code.
-**What if the code is not in the catalogue?** It is handled under random inspection (the 2024 No.163 out-of-catalogue export scope lists only children's toys), not automatic statutory inspection, barring another legal requirement.
-**Does the buyer's PSI replace statutory inspection?** No; they are separate obligations.
-**Is the BEV export licence the same as inspection?** No — from 2026-01-01 battery-electric passenger cars are under export-licence administration, a parallel regime to statutory inspection.
+## الأسئلة المتكررة
+** هل تحتاج جميع السيارات المصدرة إلى تفتيش قانوني؟** ولا توجد قاعدة شاملة - تحديد رمز نظام الأمن العام العشري والتحقق من القائمة الحالية وشروط الإشراف على الصادرات بالنسبة لذلك الرمز.
+**What if the code is not in the catalogue?** It is handled under random inspection (the 2024 No.163 out-of-catalogue export scope lists only children's toys), ليس تفتيشاً قانونياً آلياً - منع شرط قانوني آخر.
+هل تُستبدل هيئة التفتيش الخاصة بالمشتري التفتيش القانوني؟ لا؛ إنها التزامات منفصلة.
+** هل رخصة تصدير المركبات ثنائية الفينيل بنفس ترخيص التفتيش**؟ لا - من 2026-01-01 سيارة ركاب تعمل بالبطارية تخضع لإدارة التصدير نظام مواز للتفتيش القانوني.
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
+## سجل الصور
+- لم يُؤمن أي منها في مستودع
 - ORIGINAL: IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
+- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
+- الحقوق - حقوق غير مؤكدة
+- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
+- CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
+- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات ويكيميو/فلكر غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات المسبقة/الرخصة، وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
 - ALT by language:
   - **EN**: AutoBridge export-buyer reference — Statutory inspection before vehicle export, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Statutory inspection before vehicle export, guide d’achat à l’export automobile
@@ -69,24 +72,24 @@ A buyer-nominated PSI is a commercial check, not Chinese statutory clearance; an
   - **AR**: مرجع AutoBridge لمشتري التصدير — Statutory inspection before vehicle export, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Statutory inspection before vehicle export, 汽车出口采购指南
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## المصدر: التحقق
+| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
-| Legal basis index — Import/Export Commodity Inspection Law & implementing regulation | General Administration of Customs of China (GACC) | CN | http://www.customs.gov.cn/customs/302249/zfxxgk/2799825/2799837/index.html | 2026-09-05 | VERIFIED (primary; opens in browser, automated fetch blocked) | Names the current Inspection Law (2021 amendment) and implementing regulation that frame statutory inspection; the exact statutory-inspection catalog entry is still checked per 10-digit HS |
-| Customs Regulations on the Declaration of Import/Export Goods (GACC Order No.277, in force 2025-05-01) | General Administration of Customs of China (GACC), via gov.cn | CN | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 2026-09-05 | VERIFIED (primary) | Current legal frame for export declaration; whether a specific 10-digit HS line is statutorily inspected is still checked HS-by-HS |
-| Internet+Customs service guide (statutory inspection = catalogue/legal-required goods) | GACC | CN | https://online.customs.gov.cn/static/pages/guides/000629010001/000629010001.html | 2026-09-04 | VERIFIED (primary) | Catalogue-decision rule |
-| GCC Notice 2024 No. 163 (out-of-catalogue random inspection; exports = Children's toys) | GACC | CN | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6216518/2024112015221230619.pdf | 2026-09-04 | VERIFIED (primary) | Random-inspection scope |
-| GACC Order No.277, Declaration Provisions | State Council Gazette / gov.cn | CN | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 2026-09-04 | VERIFIED (primary) | Accompanying docs, signature liability |
-| Four-ministry announcement on BEV passenger-car export licensing (ref. 8703801090, from 2026-01-01 | MOFCOM | CN | http://www.mofcom.gov.cn/zfxxgk/gkml/art/2025/art_98e16dc3acdb47568e054d292bd9609a.html | 2026-09-04 | TIME_SENSITIVE (primary) | Licence vs inspection distinction |
-| GACC Notice 2025 No.138 (pre-declaration application optimization) | Customs release (repost) | CN | http://m.toutiao.com/group/7520602188638159398/ | 2026-09-04 | SINGLE OURCE | Process optimization |
-*Evidence scope: framework verified by primary sources; the catalogue result for any specific ten-digit code must be checked live and is not generalized.*
+| مؤشر الأساس القانوني - قانون تفتيش السلع الأساسية المستوردة/الصادرات | الإدارة العامة للجمارك في الصين | CN | http://www.customs.gov.cn/customs/302249/zfxxgk/2799825/2799837/index.html | 2026-09-05 | مُنقَّد (مُبَدَّد؛ مُفتوحة في مُصفّح، مُسَدَّدَة مُؤتَخَلَّة) | (ب) تسمية قانون التفتيش الحالي (تعديل 2021) وتنفيذ لائحة تُنشئ التفتيش القانوني؛ لا يزال قيد التسجيل القانوني للدفتر المشفوع بالضمانات يفحص في الـ 10-digit HS |
+| اللائحة الجمركية المتعلقة بإعلان سلع الاستيراد والتصدير (الأمر رقم 277 الصادر عن لجنة التنسيق المشتركة بين الوكالات، الساري المفعول في عام 2025-05-01) | الإدارة العامة للجمارك الصينية، عن طريق غوف.ج | CN | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 2026-09-05 | مثقفة)بالمرتبة الأولى( | الإطار القانوني الحالي لإعلان التصدير؛ ما إذا كان 10-digit خط HS لا يزال يتم فحصه بشكل ثابت |
+| دليل خدمات الإنترنت + الجمارك (تفتيش تمثالي = فهرس/بضائع مطلوبة قانونا) | GACC | CN | https://online.customs.gov.cn/static/pages/guides/000629010001/000629010001.html | 2026-09-04 | مثقفة)بالمرتبة الأولى( | قاعدة تحديد الكتالوج |
+| GACC Notice 2024 No.163 (out-of-catalogue random inspection; الصادرات = ألعاب الأطفال | GACC | CN | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6216518/2024112015221230619.pdf | 2026-09-04 | مثقفة)بالمرتبة الأولى( | نطاق التفتيش العشوائي |
+| قرار الجمعية العامة 277، أحكام الإعلان | الجريدة الرسمية لمجلس الدولة | CN | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 2026-09-04 | مثقفة)بالمرتبة الأولى( | مصحوبة بالأطباء، مسؤولية التوقيع |
+| إعلان من أربعة أعلام بشأن ترخيص تصدير مركبات الإي بي في (BV) (المرجع 8703801090، من 2026-01-01) | MOFCOM | CN | http://www.mofcom.gov.cn/zfxxgk/gkml/art/2025/art_98e16dc3acdb47568e054d292bd9609a.html | 2026-09-04 | الوقت - الظروف)الأساسية( | الرخصة ضد التفريق في التفتيش |
+| GACC Notice 2025 No.138 (pre-declaration application optimization) | الإفراج الجمركي (إعادة نشر) | CN | http://m.toutiao.com/group/7520602188638159398/ | 2026-09-04 | SINGLE OURCE | العملية على الوجه الأمثل |
+* نطاق الأدلة: الإطار الذي تحققه المصادر الرئيسية؛ ويجب التحقق من النتيجة القائمة لأي مدونة محددة من عشرة أرقام على الهواء مباشرة، ولا يجري تعميمها. ♪
 
-## Editorial Review
+## استعراض التحرير
 - ** Author**: AutoBridge Export Editorial Team; method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: China export-side inspection/declaration (destination import inspection excluded)
-- **Verification method**: Primary GACC/MOFCOM sources; no blanket catalogue conclusion; HS-first decision method
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+- ** لم يُستعرض بعد**: 2026-09-05
+- ** سوق الإحالة**: التفتيش/الإعلان الجانبي للصين (مستبعداً من تفتيش الاستيراد)
+- ** طريقة التحقق**: مصادر رئيسية للتجمع العالمي للقاحات العامة/الصندوق الاستئماني للجماعة الاقتصادية لدول غرب أفريقيا؛ لا استنتاج شامل للقائمة؛ طريقة اتخاذ القرار في إطار نظام المنسق الخاص
+- ** الشفافية**: استُخدمت الصياغة المدعومة من منظمة العفو الدولية. وتستند هذه المادة إلى البحوث المكتبية وآلية الجودة. ولا يُزعم إجراء أي اختبار مباشر إلا إذا تم توثيقه بشكل صريح؛ ويؤكد متطلبات مراعية للوقت ومحددة للمقصد قبل التحول.
+- ** المعيار الإفريقي**: باحثة ومحررة من المصادر المذكورة أعلاه (بحوث مكتبية؛ ولا يُدَّعى عن أي قيادة مباشرة أو تمزق أو استيراد). وتظهر الثقة في المصدر في الصف الواحد؛ وأي نقطة لا يمكننا تأكيدها بشكل مستقل تعرض كبند تحقق بدلا من التأكيد على أنها حقيقة.
 
 **Tags**: #StatutoryInspection #ChinaExport #CustomsDeclaration #HSByHS #ExportCompliance

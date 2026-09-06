@@ -1,88 +1,91 @@
-# Foton General G9 / Dajiangjun G9 (2025) — Chinese-Market Pickup Specs and Export Checks
+# 福通通G9 / 大江军G9(2025)——中马拾货标本和出口检查.
 
-## SEO Metadata
-- **SEO Title**: Foton General G9 Pickup 2025: Chinese-Market Diesel/Petrol Specs & Export Guide
-- **Meta Description**: Chinese-market Foton General G9 (大将军G9) pickup: 2.0T diesel and petrol lines, 6MT/8AT, RWD/4WD, bed and wheelbase dimensions, and the conflicting diesel torque flagged.
-- **H1**: Foton General G9 / Dajiangjun G9 (2025) — Chinese-Market Pickup Specs and Export Checks
-- **Primary Keyword**: Foton / 福田 General G9 / 大将军G9 皮卡 specs export
-- **Secondary Search Terms**: Foton General G9 export; Dajiangjun G9 pickup; Chinese diesel pickup; 4WD pickup; double cab
-- **Suggested URL**: /vehicles/foton-general-g9/
-- **Search Intent**: 了解 Foton / 福田 General G9 / 大将军G9 皮卡 中国版规格、配置与出口适配性（车型参数页）
-- **Internal Link Suggestions**: /vehicles/foton-general-g9/, /guides/vehicle-export-hs-code-history/, /guides/emission-fuel-compatibility-history/
-- **Schema Scope**: Article + Vehicle (no Product/Offer/Review)
+## 道德操守办公室 元数据
+- **SEO标题**:福通通用G9 拾取2025 中马柴油机/Petrol Specs & Export Guide.
+- **Meta Directoration**:中市福通通用G9(大将军 G9)皮卡:2.0T型柴油机和汽油线,6MT/8AT型,RWD/4WD型,床和轮基尺寸,以及相冲突的柴油机车悬挂的柴油机车.
+- ** H1 资源需求。 **:福通通用G9 / 大江军G9(2025)——中马拾货标本及出口检查.
+- ** 基本关键词**:Foton / 福田 General G9 / 大将军 G9 皮卡 规格出口
+- ** 二级搜索术语**:Foton General G9出口;Dajiangjun G9皮卡;中国柴油皮卡;4WD皮卡;双层出租车
+- ** 建议的URL**:车辆/一般装置-g9/
+- ** 搜索内特**:了解 Foton / 福田 General G9 / 大将军 G9 皮卡 中国版规格 / 配置与出口适配性 (车型参数页)) 存档副本.
+- ** 内部链接建议**:车辆/一般装置-g9/、指南/车辆-出口-hs-code-history/、指南/排放-燃料-兼容-history/
+- ** 范围**:第+条车辆(无产品/产出/审查)
 
-## Buyer context: a work pickup with two fuel lines
-The **Foton General G9 (大将军G9, 2025)** is a Chinese-market body-on-frame pickup sold in **diesel and petrol lines**, with manual/auto gearboxes and rear- or four-wheel drive. For export buyers the decisive fields are bed size, wheelbase, drivetrain and the exact engine — not a single "G9" spec. Reference market is **China**.
+## 购买者背景:两条燃料线的皮卡
+**Foton General G9(大将军 G9,2025)**是中国市场上的车身装车,在**柴油和汽油线路**销售,车身装有手动/自动变速箱,后轮或四轮驱动. 对于出口购买者来说,决定性的方面是床位、轮基、驱动火车和准确的发动机——而不是一个 " G9 " 规格。 参考市场为**中国**.
 
-## Chassis, bed and powertrain
-- **Diesel**: 2.0T 4F20 柴油, 120 (163Ps) kW; peak torque is shown as **390 或 415（版本差异，未锁定） N·m — a documented conflict between sources, so lock the model-year/trim before quoting a single number**.
-- **Petrol**: 175 kW / 360 N·m.
-- **Gearbox/drivetrain**: · 6MT / 8AT; 后驱 / 适时四驱.
-- **Short-wheelbase**: 约5340×1980；轴距3110；货箱1520×1580×440 mm (cross-checked).
-- **Long-wheelbase**: 5630×1980×1860；轴距3400；货箱1805×1580×440 mm (single source — cross-check).
-- **Suspension**: 前双叉臂 / 后整体桥; emission 国VI（0#柴油）.
+## 底盘、床和电动火车
+- **Diesel**:2.0T 4F20 柴油,120 (163Ps) kW;峰值扭矩显示为**390 或 415 (版本差异,未锁定) N m——有记录的资料来源之间的冲突,所以在引用一个数字之前锁定模型年/trim**.
+- ** 佩特罗尔**:175 kW/360 N·m.
+- ** Gearbox/drivetrain**:6MT / 8AT;后驱 / 适时四驱.
+- ** Short-wheelbase**:约 5340×1980;轴距 3110;货箱 1520×1580×440 mm(交叉核对).
+- ** 长轮基地**:5630×1980×1860;轴距3400;货箱1805×1580×440 mm(单一来源——交叉核对).
+- ** 暂停**:前双叉臂/后整体桥;排放国 VI(0#柴油)
 
-## Verified specification table (Chinese-market reference)
-| Specification | Value | Unit | Market | Confidence | Source note |
+## 验证规格表(中市参考文献).
+| 规格 | 数值 | 单位 | 市场 | 信心 | 来源说明 |
 |---|---|---|---|---|---|
-| diesel engine | 2.0T 4F20 柴油 | - | CHINA | CROSS_CHECKED | 太平洋+新浪 |
-| diesel power | 120 (163Ps) | kW | CHINA | SINGLE_SOURCE | 太平洋汽车 |
-| diesel torque | 390 或 415（版本差异，未锁定） | N·m | CHINA | CONFLICT | 太平洋 vs 懂车帝2025款详表 |
-| gasoline engine power | 175 | kW | CHINA | SINGLE_SOURCE | 太平洋汽车 |
-| gasoline torque | 360 | N·m | CHINA | SINGLE_SOURCE | 太平洋汽车 |
-| transmission | 6MT / 8AT | - | CHINA | SINGLE_SOURCE | 太平洋汽车 |
-| drivetrain options | 后驱 / 适时四驱 | - | CHINA | SINGLE_SOURCE | 太平洋汽车 |
-| dim short wb | 约5340×1980；轴距3110；货箱1520×1580×440 | mm | CHINA | CROSS_CHECKED | 太平洋+新浪 |
-| dim long wb | 5630×1980×1860；轴距3400；货箱1805×1580×440 | mm | CHINA | SINGLE_SOURCE | 太平洋汽车百科 |
-| suspension | 前双叉臂 / 后整体桥 | - | CHINA | SINGLE_SOURCE | 太平洋汽车 |
-| emission standard | 国VI（0#柴油） | - | CHINA | SINGLE_SOURCE | 太平洋汽车 |
+| 柴油机 | 2.0T 4F20 柴油 | - 说吧 | 中国 | 横跨 | 太平洋+新浪 (单位:千美元) |
+| 柴油动力 | 120 (163Ps) | 千瓦 | 中国 | 资源 | 太平洋汽车 维基月球 |
+| 柴油机车 | 390 或 415 (版本差异, 未锁定) (中文(简体)). | 不详 | 中国 | 冲突 | 太平洋诉懂车帝 2025 款详表 |
+| 汽油发动机动力 | 175 | 千瓦 | 中国 | 资源 | 太平洋汽车 维基月球 |
+| 汽油扭矩 | 360 | 不详 | 中国 | 资源 | 太平洋汽车 维基月球 |
+| 传输 | 6MT / 8AT | - 说吧 | 中国 | 资源 | 太平洋汽车 维基月球 |
+| 驱动列车选项 | 后驱/适时四驱 (中文(简体)). | - 说吧 | 中国 | 资源 | 太平洋汽车 维基月球 |
+| 淡淡的短维布 | 约5340×1980；轴距3110；货箱1520×1580×440 | 毫米 | 中国 | 横跨 | 太平洋+新浪 (单位:千美元) |
+| 淡长的wb | 5630×1980×1860；轴距3400；货箱1805×1580×440 | 毫米 | 中国 | 资源 | 太平洋汽车百科 维基月球 |
+| 暂停 | 前双叉臂/后整体桥 (中文(简体)). | - 说吧 | 中国 | 资源 | 太平洋汽车 维基月球 |
+| 排放标准 | 国 VI(0 # 柴油) (中文(简体)). | - 说吧 | 中国 | 资源 | 太平洋汽车 维基月球 |
 
-## Pickup export checks: bed, drivetrain and the torque conflict
-Pickup orders fail most often on bed length and drivetrain. Choose short or long wheelbase and match it to the bed dimensions; choose 4WD only where the build confirms a transfer case/low range. The diesel peak-torque conflict (390 vs 415 N·m) is **left unresolved on purpose** — obtain the OEM configuration sheet for the exact VIN rather than picking the favourable number. Towing mass is not captured and must not be estimated. Confirm the emission stage (China-VI diesel, 0# fuel) against destination fuel quality and admission rules.
+## 拾货出口检查:床、驱动火车和扭矩冲突
+接车命令往往在床位和车厢上失败。 选择短或长轮基,并将其与床尺寸匹配;仅在构造确认转录大小写/低距离时选择4WD。 柴油峰值-托盘冲突(390 vs 415 N·m)** 故意未解决** ——获得准确VIN的OEM配置表,而不是选取有利的数字. 拖力质量没有被捕获,绝不能被估计. 确认排放阶段(中国-VI型柴油,0#燃料)与目的地燃料质量和准入规则相对应.
 
-## Overseas buyer verification before payment
-1. Choose diesel or petrol and the exact power/torque by VIN (resolve the 390/415 conflict).
-2. Choose short/long wheelbase and match the bed; state RWD or 4WD.
-3. Confirm gearbox (6MT/8AT) and differential/axle spec for the destination.
-4. Verify diesel emission/fuel compatibility; obtain towing/payload from homologation, not estimation.
-5. Request a current export quotation; none is published here.
+## 付款前对海外买方的核实
+1. 选择柴油或汽油以及由VIN(解决390/415冲突)精确的功率/调车.
+2. 选择短/长轮基并匹配床位;状态为 RWD 或 4WD.
+3. 确认变速箱(6MT/8AT)和目的地的差分/轴谱.
+4. 核查柴油排放/燃料兼容性;从同位化获得拖车/载荷,而不是估计。
+5. 请输入当前导出报价;此处不公布。
 
-## FAQ
-**Is diesel torque 390 or 415 N·m?** Sources conflict by version; confirm the exact trim — this page does not choose one.
-**Does it come in 4WD?** Rear-drive or on-demand 4WD are listed; confirm the build.
-**What is the towing capacity?** Not captured; do not estimate — use homologation data.
-**Long-bed dimensions?** Single-source here; cross-check before ordering.
-**Which fuel for diesel?** China-VI, 0# diesel; verify destination fuel compatibility.
+## 财务问题
+柴油机是390还是415 N·m? 源按版本冲突;确认精确的修剪——本页不选择一个.
+**Does it come in 4WD?** Rear-drive or on-demand 4WD are listed; 证实建筑。
+** 拖车能力如何? ** 未捕获; 不估计 —— 使用同位素数据 。
+** 长床尺寸? ** 单源在此; 点货前交叉检查 。
+** 柴油用哪一种燃料? ** 中六,0#柴油机;验证目的地燃料兼容性.
 
 
-## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
+## 源码验证(V)
+| 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
 |---|---|---|---|---|---|---|
-| 大将军G9 车型百科 | 太平洋汽车百科 | CN | T3 | CROSS_CHECKED | http://m.pcauto.com.cn/baike/1435088/ | 尺寸, 货箱, 动力 |
-| 大将军G9 配置 | 太平洋汽车 | CN | T3 | CROSS_CHECKED | https://m.pcauto.com.cn/baike/1407114/ | 柴油动力, 变速箱, 四驱 |
-| 大将军G9 车型页 | 太平洋汽车 | CN | T3 | CROSS_CHECKED | http://m.pcauto.com.cn/x/5098/50980128.html | 底盘, 排放 |
-| 大将军G9 参数 | 新浪汽车车型库 | CN | T2 | CROSS_CHECKED | http://db.auto.sina.cn/car/87477/ | 尺寸, 动力 |
-| 大将军G9 配置库 | 买车网 | CN | T3 | CROSS_CHECKED | https://m.maiche.com/s5864/c110283/config.html | 版本配置 |
-| Foton Motor official site | Beiqi Foton Motor 福田汽车 (OEM) | CN | T1 | VERIFIED | https://www.foton.com.cn/ | brand/model-line identity and OEM authority |
-| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | T1 | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
-| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
-## Editorial Review
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: China (Chinese-market reference; commercial masses must be confirmed by homologation/VIN)
-- **Verification method**: Desk research against the sources below; Chinese-market reference specification only unless a separate export market is explicitly cited.
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
+| 大将军 G9 车型百科 (中文(简体)). | 太平洋汽车百科 维基月球 | 氯化萘 | T3 | 横跨 | http://m.pcauto.com.cn/baike/1435088/ 维基月球 | 尺寸,  货箱, 动力 维基月球 |
+| 大将军 G9 配置 (中文(简体)). | 太平洋汽车 维基月球 | 氯化萘 | T3 | 横跨 | https://m.pcauto.com.cn/baike/1407114/ 维基月球 | 柴油动力,  变速箱, 四驱 维基月球 |
+| 大将军 G9 车型页 (中文(简体)). | 太平洋汽车 维基月球 | 氯化萘 | T3 | 横跨 | http://m.pcauto.com.cn/x/5098/50980128.html 维基月球 | 底盘, 排放 (单位:千美元) |
+| 大将军 G9 参数 (中文(简体)). | 新浪汽车车型库 维基月球 | 氯化萘 | T2 | 横跨 | http://db.auto.sina.cn/car/87477/ 维基月球 | 尺寸, 动力 (单位:千美元) |
+| 大将军 G9 配置库 (中文(简体)). | 买车网 维基月球 | 氯化萘 | T3 | 横跨 | https://m.maiche.com/s5864/c110283/config.html 维基月球 | 版本配置 维基月球 |
+| 福顿汽车官方网站 | 北齐福通福田汽车型机车(OEM) | 氯化萘 | T1 | 实录 | https://www.foton.com.cn/ 维基月球 | 品牌/模范线路身份和OEM授权 |
+| 工业和信息化部(MIIT) | 军事情报处 工业和信息化部 | 氯化萘 | T1 | 实录 | https://www.miit.gov.cn/ 维基月球 | 统一/通知权限;通过VIN/通知确认准确的模型、质量和代码 |
+| 国家市场监管管理局(SAMR) | 萨马国家市场监督管理总局 | 氯化萘 | T1 | 实录 | https://www.samr.gov.cn/ 维基月球 | 国家标准、认证和市场监管当局 |
+## 编辑评论
+- ** 作者**:自动桥出口编辑组 · [作者](/作者/) · [编辑政策](/编辑政策/)
+- ** 上次审查**:2026-09-05
+- **参考市场**:中国(中国市场参考;商业质量必须通过同义/VIN确认)
+- ** 核查方法**: 案头研究对照以下来源;中国市场参考规格仅需明确引用单独的出口市场.
+- ** 透明度**:使用了大赦国际协助的起草。 本条以案头研究和自动化质量保证为基础。 除非有明确文件证明,否则不声称进行第一手测试;在交易前确认时间敏感和目的地特定的要求。
 
-## Image Record
-- **IMAGE_ASSET_PATH**: none secured in repository
-- **ORIGINAL_IMAGE_URL**: not captured
-- **SOURCE_PAGE**: not captured
-- ! ! ! ! ! ! ! ! ! ! unconfirmed
-- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
-- **CHECKED_DATE**: 2026-09-05
-- **MODEL_TOPIC_MATCH**: exact Foton General G9 pickup
-- **IMAGE_RIGHTS_STATUS**: FAIL
-- **ALT (12 languages)**:
+## 图像记录
+- **IMAGE_ASST_PATH**:没有在仓库中安全
+- ** ORIGINAL_IMAGE_URL**:未捕获
+- ** 资源:未捕获
+- ** UNURCE_FILE_PAGE**:不适用——未确定候选媒体档案(无执业许可).
+- 霍德尔:未经证实
+- ** LICENSE_OR_USAGE_BASIS**:没有保证——OEM网页的存在不是商业再利用许可证
+- ** 日期:2026-09-06
+- ** 模件_TOPIC_MATCH**:准确的福顿通用G9皮卡
+- **IMAGE_SCOPE_NOTE**:图像必须只与确切的模型家族/主题相符;不得暗示特定的修饰,模型年份,真实的VIN,当面检查或实际交易.
+- 错误
+- **BLOCK_REASON**:无法保证可重复使用的图像:维基媒体Commons/Flickr无法从研究环境中获取,股票库需要认证API/许可证访问,OEM网页图像不是商业再利用的赠款. 不存在自动包头拥有的照片 。 记录保留了FAIL,而不是断言。
+- ** ALT(12种语言)**:
   - **EN**: Foton General G9 pickup, Chinese-market pickup truck export buyer reference
   - **FR**: Foton General G9 pickup, pickup truck du marché chinois, référence acheteur export
   - **DE**: Foton General G9 pickup, Chinesischer pickup truck, Referenz für Exportkäufer

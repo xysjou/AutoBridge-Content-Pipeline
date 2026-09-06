@@ -1,71 +1,74 @@
-# Pre-Shipment PDI and Handover for Vehicle Export: Carrier Rules vs AutoBridge's Recommended Checklist
+# 車両輸出のための前面のPDIと手持ち: キャリアルールとAutoBridgeの推奨チェックリスト
 
-## SEO Metadata
-- **SEO Title**: Vehicle Export PDI & Pre-Shipment Handover Guide — Named Carrier Rules
-- **Meta Description**: Separate named RoRo carrier policies (Wallenius Wilhelmsen, Höegh Autoliners) — fuel, battery, SOC and operability — from AutoBridge's recommended pre-shipment inspection checklist; no universal fixed values.
-- **Suggested URL**: /guides/vehicle-export-pdi-pre-shipment-handover
-- **H1**: Preparing a Vehicle for RoRo or Container Export: What the Named Carriers Require and What We Recommend
-- **Primary Keyword**: vehicle export pre-shipment inspection PDI handover RoRo
-- **Secondary Search Terms**: Wallenius Wilhelmsen fuel quarter tank, Hoegh BEV SOC 50 percent, RoRo operable vehicle, disconnect 12V battery used car, pre-shipment photo record
-- **Internal Link Suggestions**: /guides/vehicle-export-bill-of-lading-types/;; /guides/ev-shipping- un3556-imdg-compliance/; /guides/emission-fuel-compatibility-china-vehicles/
-- **Image Suggestions**: PDI checklist sheet; RoRo self-driving ramp; named-carrier vs editorial-recommendation split diagram
-- **ALT Suggestions**: "Named RoRo carrier requirements versus recommended pre-shipment checklist"
+## ツイート メタデータ
+- **SEOタイトル**:車両輸出PDI&プリシップ ハンドオーバーガイド — 名付けられたキャリアルール
+- **メタ 記述**: 別々にRoRoRoキャリアポリシー(Wallenius Wilhelmsen、Höegh Autoliners) - AutoBridgeの推奨出荷検査チェックリストから燃料、バッテリー、SOC、操作性 - ユニバーサル固定値なし。
+- **混雑URL**: /ガイド/車両輸出-pdi-pre-shipment-handover
+- H1 ホテル **: RoRo またはコンテナのエクスポートのための車の準備: ネームキャリアが要求し、私たちが推奨するもの
+- **主なキーワード**:車両輸出前出荷検査PDIハンドオーバーRoRoRo
+- **二次検索条件**: 壁状ウィルヘルムセン燃料四半期タンク、ホエッブSOC 50パーセント、 RoRoの操作可能な車、切断12V電池は車、沈殿物のフォト・レコードを使用しました
+- **内部リンクの提案**: /guides/vehicle-export-bill-of-lading-types/; /guides/ev-shipping- un3556-imdg-compliance/; /guides/emission-fuel-compatibility-china-vehicles/
+- **画像提案**:PDIチェックリストシート;RoRo RoRo自己主導ランプ; 名前付きキャリア対編集推奨分割図
+- **ALTの提案**:「ロロの指定キャリアの条件対推奨の事前出荷チェックリスト」
 
 ## Two Layers That Must Not Be Merged
-Damage disputes at destination almost always trace back to one question: what was the vehicle's condition, fuel/battery state and operability **at handover**? To answer it cleanly, this guide keeps two layers separate:
-1. **Named-carrier requirements (CARRIER_SPECIFIC)** — written policies of specific RoRo carriers, here **Wallenius Wilhelmsen (WW)** and **Höegh Autoliners (Höegh)**. These are **carrier policies, not international regulations**, they are not universal across all shipping lines, and the booked carrier's written instructions always govern.
-2. **AutoBridge recommended pre-shipment checklist (EDITORIAL_RECOMMENDATION)** — an inspection/record-keeping method this guide recommends for evidence. It is **not** an industry-mandatory procedure and is not presented as one.
+Damage disputes at destination almost always trace back to one question: 車両の状態、燃料/電池の状態、操作性が変わっていました**? 清潔に答える  this guide keeps two layers separate:
+1. **名前付きキャリア要件(CARRIER_SPECIFIC)** — 特定のRoRoRoキャリアのポリシーを記述する**Wallenius Wilhelmsen (WW)**と**Höegh Autoliners(Höegh)**。 これらは、国際規制ではない**の運送業者ポリシーであり、すべての配送ラインに普遍的ではなく、常に書面による指示を規定しています。
+2. **AutoBridgeは、事前の出荷チェックリスト(EDITORIAL_RECOMMENDATION)**を推薦しました。このガイドは、証拠を推薦する検査/記録保管方法。 業界管理の手順ではなく、一つとして提示されていない**です。
 
-## Named-Carrier Policies (CARRIER_SPECIFIC — cite the carrier by name)
-| Topic | Wallenius Wilhelmsen | Höegh Autoliners | Nature |
+## 名称付きキャリアポリシー(CARRIER_SPECIFIC — キャリアを名前で表す)
+| トピック | ワレニアス・ウィルヘルムセン | ホーグオートライナー | 自然と自然 |
 |---|---|---|---|
-| **Fuel / gas level** | Tank about **one-quarter full** (enough to self-drive on/off) | Tank about **one-quarter full** | Carrier policy; cross-checked for these two named lines only — not a universal rule |
-| **Used ICE battery** | For used units **without a battery kill-switch**, disconnect the 12/24V after lashing (exceptions per WW instruction) | — | WW-specific; single-source carrier rule |
-| **BEV high-voltage SOC** | — | **SOC no more than 50%**, while retaining enough charge for loading/unloading/storage; HEV: ≤¼ fuel plus SOC guidance | Höegh-specific; **not** a global SOC ceiling |
-| **Operability** | RoRo units must self-drive safely on/off (move/brake/steer); faulty or leaking units may be rejected | Same self-driving requirement | Carrier receiving rule for these two named lines |
+| **燃料/ガスレベル** | Tank about **one-quarter full** (enough to self-drive on/off) | Tank about **one-quarter full** | キャリアポリシー cross-checked for these two named lines only — not a universal rule |
+| **使用済みアイス電池** | 使用される単位のために**電池のキルスイッチなしで**、突出の後で12/24Vを切断して下さい(WWの指示ごとのexceptions) | と | WW 固有の単一ソースキャリアルール |
+| **BEV 高圧 SOC** | と | **SOC 50% ** 以上, ローディング/アンロード/ストレージの十分な充電を保持している間; HEV: ≤¼ fuel plus SOC guidance | Höegh 固有の;**グローバル SOC 天井ではない |
+| **動作性* ふりがな | RoRoユニットは、安全オン/オフ(移動/ブレーキ/ステア)を自発的に駆動しなければなりません。 故障または漏れユニットは拒否される場合があります | 同じ自己運転の条件 | Carrier receiving rule for these two named lines |
 
-These requirements are quoted to named carriers precisely because they **vary by line and by voyage**: a Chinese RoRo/container carrier or another line may set different levels. Never state "carriers require X" without naming the carrier and checking its current written guide.
+これらの要件は、航空会社の名前を正確に引用します。なぜなら、彼らはラインと航海によって**varyによって**:中国RoRoRo /コンテナキャリアまたは別のラインは異なるレベルを設定することができるからです。 キャリアを命名し、現在のガイドをチェックすることなく「キャリアはX」を要求しないでください。
 
-## AutoBridge Recommended Pre-Shipment Checklist (editorial method, not mandatory)
-The following is **our recommended sourcing/handover method**, offered to build an evidence trail; it is not a statutory or universal carrier procedure:
-- Exterior body and paint walk-around; note every existing mark.
-- Dashboard warning-light check (MIL/ABS/SRS/TPMS) before handover.
-- Inventory of tools, spare key, charging cable and onboard accessories.
-- Record odometer reading and fuel/SOC level at handover.
-- **Photo record**: dated photos carrying mileage and condition, kept for destination damage comparison.
-- **Joint handover record**: inspect the vehicle together with the terminal and sign a handover sheet, retaining a copy.
+## AutoBridge 推奨 事前処理チェックリスト(編集方法、必須ではありません)
+以下は、証拠のトレイルを構築するために提供**推奨ソーシング/ハンドオーバー方法**です。それは法定または普遍的なキャリアの手順ではありません。
+- 外部の体とペイントのウォークアラウンド。 既存のマークをすべて注意してください。
+- ハンドオーバー前のダッシュボード警告灯チェック(MIL/ABS/SRS/TPMS)。
+- 工具、予備鍵、充電ケーブルおよび機内付属品の在庫。
+- 走行距離計読み取りと燃料/SOCレベルをハンドオーバーで記録。
+- **写真記録**:走行距離と条件を運ぶ日付写真、目的地の損傷比較のために保存されます。
+- **ジョイントハンドオーバーレコード**:ターミナルと一緒に車両を調べ、コピーを保持するハンドオーバーシートに署名します。
 
-## Items to Confirm With Carrier or OEM (no fixed values asserted)
-Lashing point count, strap breaking strength, anti-slip mats, vehicle heading/orientation in the container, tyre-pressure adjustment and any uniform SOC figure: the batch obtained **no OEM transport-mode manual or formal carrier/terminal guide** establishing fixed values, so these are presented only as **items to confirm with the booked carrier / OEM transport-mode manual**. No fixed percentage, strap rating or orientation is stated as a standard.
+## キャリアやOEMで確認する項目(固定値が主張されていない)
+点数を研ぐ、ストラップの破損強さ、滑り止めマット、コンテナ内の車両の見出し/方向性、タイヤ圧力調整、および任意の均一SOC図: バッチは、取得しました**OEM輸送モードマニュアルまたは正式なキャリア/ターミナルガイド**固定値を確立するので、これらは、唯一の* と示されているブックされたキャリア/OEM輸送モードマニュアル**で確認する** としてのみ表示されます。 固定パーセンテージ、ストラップの評価、またはオリエンテーションは標準で示されています。
 
-## The Handover Sequence We Recommend
-1. Run the editorial PDI and capture dated photos (recommendation).
-2. Set fuel/SOC to the **booked named carrier's** written level (WW/Höegh as above; otherwise obtain that carrier's guide).
-3. Confirm operability (move/brake/steer) and resolve leaks/warning lights.
-4. At the terminal, do the joint inspection and sign the handover record (recommendation).
-5. File photos + handover sheet with the B/L so any destination claim has a baseline.
+## ハンドオーバーシーケンス おすすめ
+1. 編集部 PDI を実行し、日付写真(推奨)をキャプチャします。
+2. 燃料/SOCを** に示されたキャリア** の書面によるレベル(WW/Höegh を上記に置きます。そうしないと、そのキャリアガイドを取得します)。
+3. 操作性(移動/ブレーキ/ステア)を確認し、漏れ/警告灯を解決します。
+4. ターミナルでは、ジョイント検査を行い、ハンドオーバーレコード(推奨)に署名します。
+5. ファイルの写真 + B / Lのハンドオーバーシート そのため、任意の宛先の主張はベースラインを持っています。
 
-## Boundaries of This Guide
-- WW/Höegh items are **CARRIER_SPECIFIC**, never generalized to "all carriers" or to regulation.
-- The checklist is **editorial recommendation**, not a mandatory industry procedure.
-- Fixed lashing/pressure/orientation/SOC numbers beyond the named carriers are **blocked pending OEM/carrier primary documents**.
+## ガイドの境界
+- WW/Höegh アイテムは、Carrier_SPECIFIC** で、すべてのキャリアを一般化したり、規制を規制したりすることはありません。
+- チェックリストは必須の業界手順ではなく、** の** です。
+- 指定されたキャリアを超えて、lashing/pressure/orientation/SOC の数値は、OEM/carrier のプライマリ文書をブロックする**です。
 
-## Frequently Asked Questions
-**Is a quarter tank a legal requirement?** No — it is a written policy of named RoRo carriers such as Wallenius Wilhelmsen and Höegh; follow the booked carrier's instruction.
-**Must every EV ship at 50% SOC?** That figure is a Höegh Autoliners policy, not a universal cap; confirm the booked carrier's SOC requirement voyage by voyage.
-**Is the photo/handover record mandatory?** It is AutoBridge's recommended evidence method, not a statutory requirement — but it materially strengthens a destination damage claim.
-**Who decides lashing points and strap ratings?** The carrier/terminal and the OEM transport-mode manual; do not assume fixed values without their documents.
+## よくある質問
+**Is a quarter tank a legal requirement?** No — it is a written policy of named RoRo carriers such as Wallenius Wilhelmsen  and  ヒゲ; ブックされたキャリアの指示に従ってください。
+**50% SOCで全てのEV船を運航するの?** つまり、Höegh Autolinersポリシーは、ユニバーサルキャップではなく、航海による予約済みキャリアのSOC要件の航海を確認します。
+**写真/手持ちの記録は必須ですか?** AutoBridgeの推奨証拠方法であり、法的な要件ではありませんが、それは物理的に目的地の損傷クレームを強化します。
+**ポイントやストラップの評価をまつげるのは誰ですか?** キャリア/ターミナルおよびOEMの輸送モード マニュアル;文書なしで固定値を仮定しません。
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
-- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- ALT by language:
+## 映像の記録
+- IMAGE_ASSET_PATH:リポジトリで保護されていない
+- ORIGINAL_IMAGE_URL: キャプチャされていない
+- SOURCE_PAGE: キャプチャされていない
+- SOURCE_FILE_PAGE: 該当なし — 特定候補のメディアファイル (アサートするライセンスなし)
+- 権利_ホルダー:未確認
+- LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
+- CHECKED_DATE: 2026-09-06(税抜き)
+- MODEL_TOPIC_MATCH: 上記の正確なモデル/バージョン(またはガイドトピック)と参照市場と一致しなければなりません
+- IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
+- IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
+- ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
+- 言語によるALT:
   - **EN**: AutoBridge export-buyer reference — Pre-shipment PDI and handover for RoRo/container, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Pre-shipment PDI and handover for RoRo/container, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Pre-shipment PDI and handover for RoRo/container, Leitfaden für Fahrzeugexport-Einkauf
@@ -79,25 +82,25 @@ Lashing point count, strap breaking strength, anti-slip mats, vehicle heading/or
   - **AR**: مرجع AutoBridge لمشتري التصدير — Pre-shipment PDI and handover for RoRo/container, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Pre-shipment PDI and handover for RoRo/container, 汽车出口采购指南
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## ソースと検証
+| ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
 |---|---|---|---|---|---|---|
-| WW Cargo Handling Instructions (fuel ≤¼) | Wallenius Wilhelmsen (RoRo carrier) | INTL | https://cargohandlinginstruction.walleniuswilhelmsen.com/pdf-files/WW-CHI-250731-1.31.pdf | 2026-09-04 | CROSS_CHECKED (primary carrier) | Fuel level, operability |
-| WW Receiving of used units (disconnect 12/24V without kill-switch) | Wallenius Wilhelmsen | INTL | https://cargohandlinginstruction.walleniuswilhelmsen.com/terminal/receiving-of-used-units-draft | 2026-09-04 | SINGLE_SOURCE (primary carrier) | Used-ICE battery disconnect |
-| Höegh Automotive shipping (≤¼ fuel; BEV SOC; operability) | Höegh Autoliners | INTL | https://www.hoeghautoliners.com/what-we-ship/automotive | 2026-09-04 | SINGLE_SOURCE (primary carrier) | BEV ≤50% SOC, fuel, operability |
-| Höegh Trucks/Buses/Trailers shipping | Höegh Autoliners | INTL | https://www.hoeghautoliners.com/what-we-ship/trucks-buses-and-trailers-shipping | 2026-09-04 | SINGLE_SOURCE (primary carrier) | Commercial-unit receiving |
-| Pre-shipment inspection & handover practice | 11467 industry pages | CN | https://m.11467.com/product/d55278360.htm | 2026-09-04 | SINGLE_SOURCE (editorial basis) | Recommended checklist/photo/handover |
-*Evidence scope: named-carrier policies verified to WW/Höegh primary guides (carrier policy, not regulation, not universal); checklist is editorial recommendation; fixed lashing/pressure/orientation values blocked pending OEM/carrier documents.*
+| WW Cargo Handling Instructions (fuel ≤¼) | ワレニウス・ウィルヘルムセン(RoRoRoキャリア) | サインイン | 以下は、 // カルゴハンドリング指示.walleniuswilhelmsen.com/pdfファイル/WWW-CHI- 250731-1.31.pdf | 2026-09-04 | CROSS_CHECKED(プライマリキャリア) | 燃料レベル、操作性 | https://cargohandlinginstruction.walleniuswilhelmsen.com/pdf-files/WW-CHI-250731-1.31.pdf
+| ワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワワ 中古ユニットの受け取り(キルスイッチなしで12/24Vを切断) | ワレニアス・ウィルヘルムセン | サインイン | 以下は、 //cargohandlinginstruction.walleniuswilhelmsen.com/ターミナル/受信-of-used-units-draft | 2026-09-04 | SINGLE_SOURCE(プライマリキャリア) | 中古ICEバッテリーの切断 | https://cargohandlinginstruction.walleniuswilhelmsen.com/terminal/receiving-of-used-units-draft
+| Höegh Automotive shipping (≤¼ fuel; ビーブ・ソック; 操作性) | ホーグオートライナー | サインイン | 以下は、 https://www.hoeghautoliners.com/what-we-ship/automotive | 2026-09-04 | SINGLE_SOURCE(プライマリキャリア) | BEV ≤ 50% SOC、燃料、操作性 |
+| ヒエッグトラック/バス/トレーラーの船積み | ホーグオートライナー | サインイン | 以下は、 https://www.hoeghautoliners.com/what-we-ship/trucks-buses-and-trailers-shipping | 2026-09-04 | SINGLE_SOURCE(プライマリキャリア) | 商用ユニット受入 |
+| 事前の出荷検査と手渡練習 | 11467業界ページ | CN の | 以下は、 //m. 11467.com/product/d55278360.htm | 2026-09-04 | SINGLE_SOURCE(編集) | おすすめのチェックリスト/写真/手書き | https://m.11467.com/product/d55278360.htm
+*証拠の範囲:WW / Höegh主ガイド(キャリアポリシー、規制ではなく、ユニバーサル)に検証された名前付きキャリアポリシー;チェックリストは、編集的勧告です。 固定のlashing / pressure /オリエンテーション値はOEM /キャリア文書を保留するブロックされています。 ふりがな
 
-| IMO/ILO/UNECE CTU Code — handling and securing cargo transport units | International Maritime Organization (IMO) | INT'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | VERIFIED | General handling/securing baseline; carrier rules remain stricter and route-specific |
-| Cargo/transit insurance and marine risk reference | International Union of Marine Insurance (IUMI) | INT'L | https://iumi.com/ | 2026-09-05 | VERIFIED | Why documented PDI/handover evidence matters for cargo-claims handling |
+| IMO/ILO/UNECE CTU(イロ/ユーネクネクテ・チュチュ) コード — 貨物輸送ユニットの取扱い・確保 | 国際海事機関(IMO) | インフォメーション | 以下は、 https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | 検証済み | 一般的な処理/管理ベースライン; キャリアルールは厳格で、ルート固有のまま |
+| 貨物・運輸保険・海上危険基準 | 海上保険国際連合(IUMI) | インフォメーション | 以下は、 //...............................................................................................................................  | 2026-09-05 | 検証済み | なぜ、貨物の取扱に関するPDI/手渡証拠が重要であるのか | https://iumi.com/
 
-## Editorial Review
-- **Author**: AutoBridge Export Editorial Team · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: International RoRo/container export (named-carrier policies) + editorial checklist
-- **Verification method**: Named-carrier primary guides separated from editorial recommendation; no universal fixed values
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+## 編集レビュー
+- **著者**: AutoBridge エクスポート 編集 チーム・方法・方法・方法・各社様 [編集ポリシー](/編集ポリシー/)
+- **最終審査**:2026-09-05
+- **参考市場**:国際ロロー/コンテナ輸出(名前付きキャリアポリシー)+編集チェックリスト
+- **検証方法**: 編集推奨から分離された名前付きキャリア主ガイド; 普遍的な固定値なし
+- **透明性**:AI-assistedドラフトが使われていました。 本記事は、デスクリサーチと自動QAをベースとしています。 明示的に文書化されていない限り、最初のテストは要求されません。 トランスフォーメーションの前に時間感度と宛先固有の要件を確認します。
+- ** 編集規格**: 上記情報源(デスクリサーチ、片手運転、涙流、輸入)から研究・執筆 ソースの自信は行ごとに示されます。 私たちが独立して確認できない点は、事実として主張するのではなく、検証項目として提示されます。
 
 **Tags**: #PDI #PreShipment #RoRo #CarrierRules #VehicleExport

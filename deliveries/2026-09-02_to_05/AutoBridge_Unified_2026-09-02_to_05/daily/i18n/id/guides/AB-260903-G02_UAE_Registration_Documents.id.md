@@ -18,7 +18,7 @@ Perintah yang benar adalah ** kebiasaan yang jelas pertama, register kedua **:
 1. ** Port / cukai clearance ** - dokumen perdagangan sekarang dan membayar biaya bea cukai yang berlaku;
 2. ** Konformitas / kepatuhan ** - kendaraan diharapkan memenuhi persyaratan standar GCC / GSO untuk melanjutkan (catatan: fungsi ESMA yang sebelumnya dilipat menjadi ** MoiAT *; konfirmasi rute konformitas saat ini secara resmi);
 3. Hanya setelah bebas dari sewa pembeli berlaku pada Roads & Otoritas Transportasi untuk registrasi dan * Mulkiya **************************************************************************************, kartu pendaftaran kendaraan, asuransi, butuh asuransi, pemeriksaan kendaraan, inspeksi kendaraan, inspeksi kendaraan dan dokumen identitas dan identitas.
-Mendaftar sebelum membersihkan bea cukai tidak mungkin; bawah mempersiapkan dokumen konformitas adalah hal yang paling sering stalls langkah 1 Af 2.
+Mendaftar sebelum membersihkan bea cukai tidak mungkin; under- mempersiapkan dokumen konformitas adalah apa yang paling sering stalls langkah 1 £2.
 
 ## Dokumen Clearance Set
 Permintaan laporan (panduan untuk peringatan, untuk dikonfirmasi dengan emirate kliring):
@@ -32,8 +32,8 @@ Permintaan laporan (panduan untuk peringatan, untuk dikonfirmasi dengan emirate 
 - Untuk Evs, konfirmasikan charger / plug dan standar harapan secara terpisah; jangan asumsikan perangkat keras China- spec memenuhi persyaratan lokal.
 
 ## Duty and VAT: Dilaporkan Angka, Nomor Tidak Tetap
-- Forwarder guides commonly cite **about 5% customs duty on CIF value (GCC common external tariff context) and about 5% VAT**.
-- Perlakukan keduanya sebagai ** dilaporkan, nilai waktu -sensitive **: Tingkat yang bisa diterapkan dapat bergantung pada tipe kendaraan, klasifikasi HS, zona bebas vs daratan menangani dan aturan federal saat ini. **Classify the exact HS code → obtain the current customs tariff line → confirm VAT treatment on the applicable customs basis.** Do not bake 5%/5% into a customer quote as guaranteed.
+- Pemandu pengganti biasanya melakukan tugas bea cukai 5% pada nilai CIF (GCC common external tariff context) dan sekitar 5% VAT **.
+- Perlakukan keduanya sebagai ** yang dilaporkan, nilai-nilai yang sensitif waktu **: laju yang diterapkan dapat bergantung pada tipe kendaraan, klasifikasi HS, zona bebas vs penanganan daratan dan aturan federal saat ini. ** Klasifikasi kode HS yang tepat mendapatkan baris tarif cukai saat ini ** Konfirmasikan pengobatan VAT pada adat yang berlaku. ** Jangan panggang 5% / 5% ke dalam kutipan pelanggan sebagai jaminan.
 - UAE telah menandatangani kebijakan EV nasional (misalnya, pendaftaran / parkir dan pengisian / tol); ini adalah arah kebijakan dan waktu - sensitif - konfirmasi tersedia saat ini dan eligibilitas secara resmi.
 
 ## Langkah Pendaftaran RTA (Mulkiya)
@@ -41,14 +41,14 @@ Setelah bebas bea cukai, pembeli berlaku untuk RTA dengan (laporan): asuransi **
 
 ## Apa Panduan ini Rekomendasi Anda Konfirmasi Sebelum Pembayaran
 1. ** Emirate dari entri ** dan jadwal dokumen / biaya yang emirate saat ini.
-2. **Exact HS code** and the **current duty/VAT line** from UAE federal customs — replace the reported 5%/5% with verified figures.
+2. ** Kode HS yang tepat ** dan * baris tugas / VAT saat ini ** dari UAE federal - ganti laporan 5% / 5% dengan angka yang diverifikasi.
 3. ** GCC / GSO konformitas rute dan sertifikat ** untuk model spesifik (dan peran MoiAT saat ini).
 4. ** Invoice / B / L / CO konsistensi ** (VIN, nilai, partai, asal).
 5. ** Asuransi + inspeksi + identitas ** kesiapan untuk langkah RTA Mulkiya; EV insentif eligibilitas jika relevan.
 
 ## Pertanyaan Yang Sering Muncul
 ** Apakah saya mendaftar dengan RTA sebelum atau setelah adat? ** Setelah - kebiasaan yang jelas dan memenuhi kesesuaian pertama, kemudian berlaku untuk RTA untuk Mulkiya.
-**Is UAE customs duty exactly 5%?** About 5% on CIF is widely reported, but it is time- and classification-sensitive; konfirmasi baris tariff federal saat ini untuk kode HS tepat sebelum mengutip.
+** Apakah tugas adat UAE tepatnya 5%? ** Sekitar 5% pada CIF secara luas dilaporkan, tetapi ini adalah waktu dan klasifikasi - sensitif; mengkonfirmasi garis tariff federal saat ini untuk kode HS tepat sebelum mengutip.
 ** Apakah bekerja coC Cina di UEA? ** Tidak ada - sebuah sertifikat domestik Cina bukan akses pasar GCC / GSO; atur rute konformitas GCC yang benar.
 ** Apa yang terjadi dengan ESMA? ** Fungsi relevan nya dilipat ke MoiAT; mengkonfirmasi sertifikat saat ini-menerbitkan rute.
 ** Apakah panduan ini berlaku untuk Saudi / Qatar juga? ** Pentransferan urutan secara konseptual, tapi bentuk, biaya dan otoritas berbeda dengan negara GCC - memverifikasi setiap negara secara terpisah.
@@ -57,11 +57,14 @@ Setelah bebas bea cukai, pembeli berlaku untuk RTA dengan (laporan): asuransi **
 - IMAGE _ ASSET _ PATH: tak ada yang aman di repositori
 - _ URL ORIGINAL _ IMAGE: tidak ditangkap
 - SUMBER _ PAGE: tidak ditangkap
+- SOURCE _ FILE _ PAGE: tidak dapat diterapkan - tidak ada berkas media kandidat diidentifikasi (tidak ada lisensi untuk menegaskan)
 - RIGHTS _ HOLDER: belum dikonfirmasi
 - LICENSE _ OR _ USAGE _ BASIS: tidak ada yang aman - tidak ada gambar pihak ketiga dapat diterbitkan sampai hak-hak dibersihkan
-- CHECTED _ DATE: 2026-09-05
+- CHECTED _ DATE: 2026-09-06
 - MODEL _ TOPIC _ MATCH: harus cocok dengan model / versi yang tepat (atau topik panduan) dan referensi pasar di atas
+- IMAGE _ SCOPE _ CATATAN: cocokkan model yang tepat dari keluarga / topik saja; jangan mengimplikasikan sebuah trim / model khusus / tahun, VIN, in- orang inspeksi atau transaksi aktual
 - IMAGE _ RIGHTS _ STATUS: FAIL (tidak ada aset berlisensi yang ditangkap; pemegang tempat atau catatan "mempertahankan gambar lama" tidak diterima)
+- BLOK _ REASON: Tidak ada gambar yang dapat digunakan kembali yang dapat diamankan: Wikimedia Commons / Flickr tidak dapat dihubungi oleh lingkungan penelitian, perpustakaan saham memerlukan akses API / license yang telah dikonfirmasi, dan gambar laman OEM bukanlah hibah reuse komersil; tidak ada foto AutoBridgeg yang dimiliki. Disimpan FAIL daripada menegaskan.
 - ALT dengan bahasa:
   - **EN**: AutoBridge export-buyer reference — UAE vehicle clearance and registration, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — UAE vehicle clearance and registration, guide d’achat à l’export automobile
@@ -79,21 +82,21 @@ Setelah bebas bea cukai, pembeli berlaku untuk RTA dengan (laporan): asuransi **
 ## Sumber & Verifikasi
 | Judul sumber | Organisasi | Pasar | URL | Diperiksa | Percaya diri | Fakta yang didukung |
 |---|---|---|---|---|---|---|
-| Timur Tengah (Saudi / Dubai) izin & petunjuk pajak | 11467 freight- forwarder material | UAE | https://m.11467.com/product/d43094475.htm | 2026-09-03 | _ BERDECAT | Dokumen perizinan; faktur / B / L / CO konsistensi; RTA / Mulkiya urutan |
-| Export NEV ke daftar dokumen Dubai | 11467 freight- forwarder material | UAE | https://m.11467.com/product/d31835834.htm | 2026-09-03 | TIME _ ENSITIF | Reported ~5% duty/~5% VAT; Catatan GCC / GSO + ESMA / MoiAT |
+| Timur Tengah (Saudi / Dubai) izin & petunjuk pajak | 11467 bahan bebas-untuk-warder | UAE | https://m.11467.com/product/d43094475.htm | 2026-09-03 | _ BERDECAT | Dokumen perizinan; faktur / B / L / CO konsistensi; RTA / Mulkiya urutan |
+| Export NEV ke daftar dokumen Dubai | 11467 bahan bebas-untuk-warder | UAE | https://m.11467.com/product/d31835834.htm | 2026-09-03 | TIME _ ENSITIF | Dilaporkan ~ 5% tugas / ~ 5% VAT; GCC / GSO + ESMA / MoiAT note |
 | Evs Cina menyambut di Timur Tengah (Kebijakan EV Nasional UAE) | Haiwainet / Toutiao | UAE | http://m.toutiao.com/group/7392857722481410569/ | 2026-09-03 | TIME _ ENSITIF | Insentif kebijakan Nasional Direksional |
-* Langit-langit bukti: sumber-sumber adalah panduan forwarder (T3) dan media Cina - tidak ada UAE federal-cukai / RTA halaman utama ditangkap. Tugas / VAT / biaya dan insentif EV yang diberikan sebagai laporan dan waktu - sensitif, untuk dikonfirmasi dengan UAE federal adat dan entri emirat RTA. Tidak ada tingkat tetap yang ditetapkan. ♪
+* Langit-langit bukti: sumber-sumber adalah panduan forwarder (T3) dan media Cina - tidak ada surat perintah federal-UAE / RTA dasar ditangkap. Tugas / VAT / biaya dan insentif EV yang diberikan sebagai laporan dan waktu - sensitif, untuk dikonfirmasi dengan UAE federal adat dan entri emirat RTA. Tidak ada tingkat tetap yang ditetapkan. ♪
 
-| Izin Efek Pribadi (impor kendaraan baru yang digunakan; dokumen yang dibutuhkan; 5% customs duty on assessed va | Dubai Bea Cukai (Pemerintah Dubai) | DUBAI | https://www.dubaicustoms.gov.ae/en/eServices/ServicesForIndividuals/Pages/ClearanceOfPersonalEffects.aspx | 2026-09-04 | TERBATAI | 5% duty on customs-assessed value; faktur / daftar pengepakan / tagihan lading / paspor asli atau salinan ID Emirate; pemeriksaan & valuasi |
+| Izin Efek Pribadi (impor kendaraan baru yang digunakan; dokumen yang diperlukan; 5% tugas bea cukai pada penilaian va | Dubai Bea Cukai (Pemerintah Dubai) | DUBAI | https://www.dubaicustoms.gov.ae/en/eServices/ServicesForIndividuals/Pages/ClearanceOfPersonalEffects.aspx | 2026-09-04 | TERBATAI | Tugas 5% pada nilai yang telah diukur; faktur / daftar paket / tagihan asli dari lading / passport atau salinan ID Emirate; inspeksi & valuasi |
 | Mekanisme untuk menentukan nilai kargo penumpang (depresiasi oleh tahun) PDF | Dubai Bea Cukai | DUBAI | https://www.dubaicustoms.gov.ae/en/PoliciesAndNotices/Policies/mechanismfordeterminingthevalueofpassengerscargotr.pdf | 2026-09-04 | TERBATAI | menggunakan kendaraan yang dinilai oleh tahun - berdasarkan jadwal penyusutan sebelum tugas |
-| E-Commerce VAT Guide (VATGEC1) §3.5.1 — import VAT 5% on customs value incl. barang, asuransi, biaya bea cukai, | UAE Federal Pajak Authority (FTA) | UAE | https://tax.gov.ae/ | 2026-09-04 | TERBATAI | import VAT 5%; VAT base = nilai bea cukai (CIF) + tugas |
+| E-Commerce VAT Guide (VATGEC1) 3.5.1 - impor VAT 5% pada nilai bea cukai incl. barang, asuransi, biaya bea cukai, | UAE Federal Pajak Authority (FTA) | UAE | https://tax.gov.ae/ | 2026-09-04 | TERBATAI | impor VAT 5%; VAT dasar = nilai bea cukai (CIF) + tugas |
 | Kendaraan terdaftar (sertifikat pabean atau transfer / ekspor / kepemilikan sertifikat; Emirates ID; passport / res | Portal Pemerintah Federal UAE (u.ae) | UAE | https://u.ae/en/information-and-services/transportation/driving-and-licensing/registering-vehicles | 2026-09-04 | TERBATAI | set dokumen pendaftaran; sertifikat pabean adalah jembatan dari izin ke registrasi |
 | Isukan Sertifikat UAE sesuai dengan standar produk yang akan dikenakan pada peraturan teknis (ECAS; penerus ESMA) | Kementerian Industri dan Teknologi Lanjutan (Mo | UAE | https://www.moiat.gov.ae/en/services/issue-conformity-certificates-for-regulated-products | 2026-09-04 | TERBATAI | MoiAT mengeluarkan UAE CoC untuk mengatur produk-produk instl. kendaraan / suku cadang; diserap ESMA |
-| Daftar Peraturan Teknis GSO untuk Kendaraan Motor (MY2027-D3), incl. UAE Euro- 6b timeline | Organisasi Standardisasi GCC (GSO) | GCC | https://www.gso.org.sa/ | 2026-09-04 | SINGLE _ SOURCE | UAE news- type Euro- 6b dari 2026-01-01; semua impor dari 2027-07-01 |
+| Daftar Peraturan Teknis GSO untuk Kendaraan Bermotor (MY2027-D3), incl. UAE Euro- 6b timeline | Organisasi Standardisasi GCC (GSO) | GCC | https://www.gso.org.sa/ | 2026-09-04 | SINGLE _ SOURCE | UAE new- type Euro- 6b dari 2026-01-01; semua impor dari 2027-07-01 |
 
 ## Editorial Review
 - *** Penulis / Penilik **: [AutoBridge Ekspor Editorial Tim] (/ penulis /)
-- 2026-09-05
+- ** Terakhir ditinjau **: 2026-09-05
 - ** Referensi pasar / ruang lingkup **: UAE contoh yang bekerja (metode dapat dialihkan ke GCC; spesifik negara tidak generalisasi)
 - ** Metode Verifikasi **: Sintesis sumber-sebelumnya dengan langit-langit bukti eksplisit; biaya laporan ditandai untuk konfirmasi resmi per PRIMARY _ SOURCE _ SCOPE aturan
 - ** Standar Editorial **: Penelitian dan ditulis dari sumber yang terdaftar di atas (penelitian meja; tidak ada mengemudi tangan pertama, menangis atau impor diklaim). Kepercayaan sumber ditampilkan per baris; setiap titik yang tidak dapat secara independen dikonfirmasi sebagai item verifikasi daripada yang dinyatakan sebagai fakta.

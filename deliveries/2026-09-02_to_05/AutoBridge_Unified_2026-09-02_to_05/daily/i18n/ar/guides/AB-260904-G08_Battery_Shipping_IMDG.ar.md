@@ -1,66 +1,69 @@
 # Shipping an Electric Vehicle by Sea Under IMDG 42-24: UN3556, UN3171 and the Spare-Battery Distinction
 
 ## SEO Metadata
-- **SEO Title**: EV Sea Freight Under IMDG 42-24 — UN3556/3557/3558 vs UN3480/3481
-- **Meta Description**: From 2026, lithium-ion vehicles installed with battery ship as UN3556 (lithium-metal UN3557, sodium-ion UN3558) under IMDG Amendment 42-24; UN3171 is narrowed and loose batteries use UN3480/3481 with UN38.3.
-- **Suggested URL**: /guides/ev-shipping- un3556-imdg-compliance
-- ** H1 **: Classifying a Battery-Powered Vehicle for Ocean Freight Under the Current IMDG Code (Amendment 42-24)
-- **Primary Keyword**: UN3556 lithium ion vehicle IMDG 42-24 shipping
-- **Secondary Search Terms**: UN3557 lithium metal vehicle, UN3558 sodium ion vehicle, P912 packing instruction, SP405 marking, UN3171 narrowed, UN3480 UN3481, UN38.3 manual of tests rev8
-- **Internal Link Suggestions**: /guides/vehicle-export-pdi-preshipment-handover/; /guides/export-vecle-document-package/; /vehicles/wuling-bingo/
-- **Image Suggestions**: whole-vehicle vs loose-battery UN number split; Class 9 placard; P912/SP405 marking diagram
-- **ALT Suggestions**: "UN3556 installed-battery vehicle versus UN3480 loose battery under IMDG 42-24"
+- ** عنوان المنظمة**: الشحن البحري في البحر تحت العنوان IMDG 42-24 - UN3556/3557/3558 مقابل UN3480/3481
+- ** وصف البيانات**: من 2026 مركبة من الليثيوم -يون رُكبت بسفينة بطارية تبلغ UN3556 (المتر الليثيوم UN3557، صوديوم - UN3558) بموجب تعديل IMDG 42-24؛ و UN3171 مركبة ضيقة وطائرة غير مطلية تستخدم UN3480/3481 بطاريات تبلغ UN38.3.
+- ** URL المقتطع**: /guides/ev-shipping- un3556-imdg-compliance
+- ** H1 **** تصنيف مركبة تحمل بطاقات البطارية لشحن المحيطات بموجب مدونة قواعد التعريفات الجمركية الحالية (التعديل 42-24)
+- ** كلمة مفتاحية برية**: UN3556 مركبة إيون من طراز IMDG 42-24
+- ** شروط البحث الثانية**: UN3557 مركبة معدنية الليثيوم UN3558 سيارة إيون الصوديوم P912 أمر حزم SP405 علامة، تضييق UN3171 UN3480 UN3481  UN38.3 manual of tests rev8
+- ** مقترحات داخلية بشأن الربط**: /مبادئ توجيهية/سلائف - تصدير - تسليم/معالجة قبل الشحن؛ /مبادئ توجيهية/حزمة وثائق المركبات/المركبات/مركبة السحب/مركبة
+- ** اقتراحات رمزية**: حاشية كاملة مقابل عدد غير مقصود من الأمم المتحدة؛ صف من 9 بطاقة؛ P912/SP405 علامة رسم بياني
+- ** الاقتراحات**: "UN3556 مركبة مركبه مقابل UN3480 بطارية طليقة تحت IMDG 42-24"
 
-## The Classification Changed — Old UN3171 Habits Are Now Wrong
-A common pre-2026 practice was to book any battery-driven vehicle under **UN3171**. Under the **current mandatory IMDG Code, Amendment 42-24** (adopted by IMO Resolution **MSC.556(108)** and **mandatory in China from 2026-01-01** per the China Maritime Safety Administration official text), that is no longer correct for mainstream lithium vehicles. Using the old number on a 2026 declaration is a classification error that stops dangerous-goods paperwork at booking.
+## التصنيف المتغير - الـ UN3171 القديمة هي الآن خاطئة
+ومن الممارسات المشتركة التي جرت قبل 2026 حجز أي مركبة مدفوعة بالبطارية تحت UN3171 **. بموجب قانون (آي.دي.جي) الإجباري  Amendment 42-24** (adopted by IMO Resolution **MSC.556(108)**  and  ** إلزامية في الصين من 2026-01-01 ** لكل نص رسمي لإدارة السلامة البحرية في الصين، لم يعد ذلك صحيحا بالنسبة لمركبات الليثيوم الرئيسية. استخدام الرقم القديم في إعلان 2026 هو خطأ تصنيفي يوقف العمل الورقي للوقود الخطرة في الحجز
 
-## Whole Vehicle (battery installed): UN3556 / UN3557 / UN3558
-For a **vehicle transported with its battery installed**:
+## مركبة كاملة (مركبة) UN3556 / UN3557 / UN3558
+بالنسبة لجهاز متنقل مع بطاريته المثبتة**:
 - **UN3556 — lithium-ion-battery-powered vehicle**
 - **UN3557 — lithium-metal-battery-powered vehicle**
 - **UN3558 — sodium-ion-battery-powered vehicle**
 
-The new **Packing Instruction P912** governs stowage and securing for these entries. Where a UN3556 vehicle is **not fully enclosed** by packaging or a crate, **Special Provision SP405** sets the marking requirements. The scope of the legacy **UN3171** entry has been **narrowed** to vehicles/equipment powered by **wet batteries, sodium-metal or sodium-alloy batteries**; mainstream lithium vehicles must **not** be declared under UN3171 from 2026. These are Class 9 entries; documentation and marking/placarding follow the IMDG 42-24 text and the booked carrier's additional layer.
+وتنظم التعليمات الجديدة التي تتضمن مجموعة من المواد التي تُصدرها P912 **، توفير المياه وتأمين هذه القيود. وعندما لا تكون المركبة المحملة بـ UN3556 مقفلة بالكامل** عن طريق التغليف أو الصندوق ** يحدد الاعتماد الخاص البالغ SP405 ** متطلبات الوسم. *** تم تضييق نطاق الإرث ** UN3171 ** على المركبات/المعدات التي تبثها البطاريات الصالحة للشرب، أو البطاريات الصوديومية أو السوديوم - السواحل**؛ ويجب إعلان مركبات الليثيوم الرئيسية دون UN3171 من 2026. هذه هي المادة 9 الدخول، الوثائق وعلامات/اللصقات تتبع رسالة IMDG 42-24 و طبقة الناقلة المُحتسبة الإضافية.
 
-## Spare / Loose Batteries Are a Different Entry
-Do not confuse the whole-vehicle number with loose cells and packs:
-- **UN3480 — lithium-ion batteries transported on their own** (loose/spare).
-- **UN3481 — lithium-ion batteries packed with, or contained in, equipment**.
-Sodium-ion loose batteries carry their own corresponding numbers. A spare service pack therefore ships under the **UN3480/3481** family — never by reusing the vehicle's UN3556.
+## "البعثة" "البعثرة" "مختلفة"
+لا تخلط بين رقم المروحية بأكمله و الخلايا و الأحزمة
+- ** UN3480 - بطاريات الليثيوم -يون مُنَقَّلة لوحدها** (اللو/المساحة).
+- ** UN3481 - بطاريات الليثيوم - أيون معبأة أو متضمنة في معدات**.
+البطاريات المطلية الصوديوم تحمل أرقامها الخاصة A spare service pack therefore ships under the **UN3480/3481** family — never by reusing the vehicle's UN3556.
 
-## UN38.3 and the Manual of Tests and Criteria
-Before transport, lithium (metal/ion) — and now sodium-ion — batteries must complete tests **T.1–T.8 under Section 38.3** of the UN *Manual of Tests and Criteria*, current edition **Revision 8 (2023) with Amendment 1** (Rev.8 brought sodium-ion batteries within 38.3), and carry a **test summary**. For a whole vehicle this evidence sits at battery/pack level; for spare batteries under UN3480/3481 it is a direct shipping requirement. The US 49 CFR §173.185 likewise incorporates UN38.3 by statutory reference, illustrating how widely the Section 38.3 test summary is expected.
+## UN38.3 ودليل الاختبارات والمعايير
+قبل النقل الليثيوم)اللقب/اليون(-  and  الآن صوديوم - يجب أن تستكمل البطاريات الاختبارات **** 1–T.8 تحت الباب 38.3 ** من برنامج الأمم المتحدة للاختبارات  and  المعايير*  current edition **Revision 8 (2023) with Amendment 1** (Rev.8 brought sodium-ion batteries within 38.3),  and  تحمل ملخصاً **. بالنسبة لسيارة كاملة، هذه الأدلة تُثبت عند مستوى البطارية/الحزمة؛ بالنسبة للبطاريات الاحتياطية التي تقل عن UN3480/3481، هو شرط الشحن المباشر. The US 49 CFR §173.185 likewise incorporates UN38.3 by statutory reference, illustrating how widely the Section 38.3 test summary is expected.
 
-## State of Charge and the Carrier Layer
-Quantity/state limits such as a fixed **state-of-charge percentage** are set by the **IMDG text and, on top of it, by each carrier**. This page states **no fixed SOC percentage without an official basis**; obtain the booked carrier's written DG instruction voyage by voyage (carriers may impose stricter terms than the IMDG minimum). Damaged/defective-battery rules likewise follow the current Code and carrier approval and are not generalized here.
+## حالة الشحن وناقل لاير
+ويحدد النص الخاص بالشركة الدولية للتنمية المتكاملة للحد من الكمية/الدول، مثل نسبة مئوية ثابتة ** من الشحن**، ويضعه كل ناقل**، على رأسه**. هذه الصفحة تقول لا يوجد نسبة ثابتة من شركة SOC بدون أساس رسمي**؛ الحصول على رحلة خطية لحامض نووي مكتوبة بواسطة رحلة (الشاحنات قد تفرض شروطاً أكثر صرامة من الحد الأدنى لـ IMDG). وتأتي قواعد المكافحة/الضررية الضارّة أيضاً بعد اعتماد المدونة الحالية والناقلات، ولا تُعمم هنا.
 
-## Booking Checklist
-1. Confirm chemistry (lithium-ion / lithium-metal / sodium-ion / wet) → select UN3556/3557/3558 (or the narrowed UN3171 only where it truly applies).
-2. Confirm battery is **installed** (vehicle entry) vs **loose** (UN3480/3481).
-3. Apply **P912**; apply **SP405** marking if not fully enclosed.
-4. Assemble **UN38.3 (Rev.8+Amd.1) T.1–T.8 test summary** for the battery.
-5. Obtain the carrier's DG/SOC instruction and Class 9 documentation and placarding.
+## قائمة مرجعية بالحجز
+1. (أ) الكيمياء المشددة (ليثيوم -يون/ليثيوم - ميدال/صوديوم -يون/مبتل)  select اختيار UN3556/3557/3558 (أو الـ UN3171 الضيقة فقط حيثما ينطبق ذلك حقاً).
+2. يتم تلفيق البطارية بالتسليم** (قيد المركبات) ضد**([UN3480/3481]).
+3. تطبيق البند P912 **؛ تطبيق الرمز ** SP405 **، إذا لم يكن مرفقا بالكامل.
+4. المجموع ** UN38.3 (Rev. 8+Amd.1) T. 1–T.8اختبارات** للبطارية.
+5. الحصول على تعليمات الـ دي جي/إسو سي  and  الوثائق من الرتبة 9  and  تَلوّجُ.
 
-## Boundaries of This Guide
-- No fixed SOC percentage or quantity limit without an official basis.
+## حدود هذا الدليل
+- لا توجد نسبة مئوية ثابتة أو حد للكميات دون أساس رسمي.
 - No reuse of UN3171 for lithium vehicles under the current Code.
-- Carrier-specific stricter requirements are voyage-specific.
+- وتُعد متطلبات النقل الأكثر صرامة خاصة بشركات النقل الخاصة برحلات محددة.
 
-## Frequently Asked Questions
-**What UN number is a lithium-ion EV shipped with battery installed?** UN3556 under IMDG Amendment 42-24 (lithium-metal UN3557, sodium-ion UN3558).
-**Can I still use UN3171?** Only for the narrowed wet-battery / sodium-metal-or-alloy scope; not for mainstream lithium vehicles from 2026.
-**What about a spare battery in the same container?** Loose lithium-ion batteries use UN3480 (or UN3481 if packed with/contained in equipment), not UN3556.
-**Which UN38.3 edition applies?** The current Manual of Tests and Criteria, Rev.8 with Amendment 1, tests T.1–T.8 with a test summary.
+## الأسئلة المتكررة
+** ما هو رقم الأمم المتحدة هو EV الليثيوم - أيون مشحن بالبطارية المركب؟** UN3556 بموجب تعديل IMDG 42-24 (Lthium-metal UN3557، الصوديوم - أي UN3558).
+** هل يمكنني أن أستخدم UN3171؟ ** فقط من أجل تضييق نطاق الرطب/المترات الصوديومية أو الطينية؛ وليس من أجل مركبات الليثيوم الرئيسية من 2026.
+** ماذا عن بطارية إضافية في نفس الحاوية**؟ تستخدم بطاريات الليثيوم اللووز UN3480 (أو UN3481 إذا كانت محزمة مع المعدات أو محتوية عليها) وليس UN3556.
+** أي عدد من الحالات ينطبق على عدد UN38.3؟** الدليل الحالي للاختبارات  and  المعايير، Rev. 8 with Amendment 1, اختبارات "تي 1–T.8" مع موجز اختبار
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
+## سجل الصور
+- لم يُؤمن أي منها في مستودع
 - ORIGINAL: IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
+- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
+- الحقوق - حقوق غير مؤكدة
+- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
+- CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
+- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات ويكيميو/فلكر غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات المسبقة/الرخصة، وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
 - ALT by language:
   - **EN**: AutoBridge export-buyer reference — EV shipping under IMDG 42-24 UN3556, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — EV shipping under IMDG 42-24 UN3556, guide d’achat à l’export automobile
@@ -75,23 +78,23 @@ Quantity/state limits such as a fixed **state-of-charge percentage** are set by 
   - **AR**: مرجع AutoBridge لمشتري التصدير — EV shipping under IMDG 42-24 UN3556, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜EV shipping under IMDG 42-24 UN3556, 汽车出口采购指南
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## المصدر: التحقق
+| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
-| IMDG Code Amendment 42-24 official Chinese text PDF | China Maritime Safety Administration | INTL/CN enforcement | https://www.msa.gov.cn/public/documents/document/mdiw/mjqw/~edisp/20251201020240683.pdf | 2026-09-04 | VERIFIED (primary) | 42-24, MSC. 556 (108), 2026-01-01, UN3556-3558, P912, Class 9 |
-| UN Manual of Tests and Criteria (Rev.8 + Amendment 1), Section 38.3 (SCETDG-66 INF.30) | UNECE / UN Sub-Committee | INTL | https://unece.org/sites/default/files/2025-06/UN-SCETDG-66-INF30e.pdf | 2026-09-04 | VERIFIED (primary) | Rev.8+Amd.1, UN38.3 T.1–T.8, sodium-ion |
-| UN/SCETDG- 64 INF. 29 lithium-battery identification / 38.3 marking amendment | UNECE | INTL | https://www.unece.org/sites/default/files/2024-06/UN-SCETDG-64-INF29e.pdf | 2026-09-04 | VERIFIED (primary) | 38.3 marking amendments |
-| US 49 CFR §173.185 (incorporates UN38.3 by IBR) | US GovInfo (CFR) | US | https://www.govinfo.gov/content/pkg/CFR-2024-title49-vol2/xml/CFR-2024-title49-vol2-sec173-185.xml | 2026-09-04 | VERIFIED (primary) | UN3480/3481, statutory UN38.3 reference |
-| IMDG 42-24 interpretation (MSC.556(108), effective date) | China Maritime (repost) | INTL/CN | http://m.toutiao.com/group/7585883173825921546/ | 2026-09-04 | CROSS_CHECKED (supporting) | Effective-date interpretation |
-| UN3556 SP405 | Jiupai news (repost) | INTL | http://m.toutiao.com/group/7598735209990734370/ | 2026-09-04 | SINGLE -SOURCE (supporting) | SP405 |
-*Evidence note: core classification anchored to MSA (IMDG 42-24) and UNECE (Manual Rev.8+Amd.1, 49 CFR) primary sources; media/industry pages are supporting only and are not the primary evidence for UN numbers or UN38.3. Fixed SOC values remain blocked.*
+| تعديل قانون إدارة الشؤون الإدارية 42-24 النص الصيني الرسمي PDF | إدارة السلامة البحرية الصينية | INTL/CN enforcement | https://www.msa.gov.cn/public/documents/document/mdiw/mjqw/~edisp/20251201020240683.pdf | 2026-09-04 | مثقفة)بالمرتبة الأولى( | 42-24، MSC. 556 (108) و 2026-01-01، و UN3556-3558، و P912، و 9 |
+| دليل الأمم المتحدة للاختبارات والمعايير (التنقيح 8 + التعديل 1) الفرع 38.3 (SCETDG- 66 INF. 30) | UNECE / UN Sub-Committee | INTL | https://unece.org/sites/default/files/2025-06/UN-SCETDG-66-INF30e.pdf | 2026-09-04 | مثقفة)بالمرتبة الأولى( | Rev. 8+Amd.1,  UN38.3 T.1–T.8, الصوديوم -يون |
+| UN/SCETDG- 64 INF. 29 lithium-battery identification / 38.3 marking amendment | UNECE | INTL | https://www.unece.org/sites/default/files/2024-06/UN-SCETDG-64-INF29e.pdf | 2026-09-04 | مثقفة)بالمرتبة الأولى( | 38.3 تعديل |
+| US 49 CFR § 173.185 (incorporates UN38.3 by IBR) | US GovInfo (CFR) | الولايات المتحدة الأمريكية | https://www.govinfo.gov/content/pkg/CFR-2024-title49-vol2/xml/CFR-2024-title49-vol2-sec173-185.xml | 2026-09-04 | مثقفة)بالمرتبة الأولى( | UN3480/3481، المرجع القانوني UN38.3 |
+| الترجمة الشفوية IMDG 42-24 (MSC. 556 (108) ، تاريخ النفاذ) | البحرية (المؤقتة) | INTL/CN | http://m.toutiao.com/group/7585883173825921546/ | 2026-09-04 | صرخات (الدعم) | التفسير المستكمل |
+| UN3556 SP405 من الترجمة الشفوية | أخبار جيوبي (النشرة) | INTL | http://m.toutiao.com/group/7598735209990734370/ | 2026-09-04 | SINGLE -SOURCE (supporting) | SP405 علامة |
+* ملاحظة توضيحية: التصنيف الأساسي المرتكز إلى نظام تقييم الأداء (IMDG 42-24) ودائرة الأمم المتحدة الاقتصادية لأوروبا (مانالتنقيح مانويل 8+Amd.1، 49 CFR) المصدر الرئيسي؛ ولا تدعم صفحات وسائط الإعلام/الصناعة إلا، ولا تزال الأدلة الرئيسية على أعداد الأمم المتحدة، أو ما زالت هناك UN38.3. قيم ثابتة لمراكز البحث العلمي. ♪
 
-## Editorial Review
+## استعراض التحرير
 - ** Author**: AutoBridge Export Editorial Team; method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: International IMDG (42-24) with China enforcement date
-- **Verification method**: MSA + UNECE/UN Manual + 49 CFR primary sources; loose vs installed battery separated; no unsupported SOC number
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+- ** لم يُستعرض بعد**: 2026-09-05
+- ** سوق الإحالة**: International IMDG (42-24) with China enforcement date
+- ** طريقة التحقق**: بدل الإقامة اليومي + دليل لجنة الأمم المتحدة الاقتصادية لأوروبا/الأمم المتحدة + 49 CFR primary sources; loose vs installed battery separated; no unsupported SOC number
+- ** الشفافية**: استُخدمت الصياغة المدعومة من منظمة العفو الدولية. وتستند هذه المادة إلى البحوث المكتبية وآلية الجودة. ولا يُزعم إجراء أي اختبار مباشر إلا إذا تم توثيقه بشكل صريح؛ ويؤكد متطلبات مراعية للوقت ومحددة للمقصد قبل التحول.
+- ** المعيار الإفريقي**: باحثة ومحررة من المصادر المذكورة أعلاه (بحوث مكتبية؛ ولا يُدَّعى عن أي قيادة مباشرة أو تمزق أو استيراد). وتظهر الثقة في المصدر في الصف الواحد؛ وأي نقطة لا يمكننا تأكيدها بشكل مستقل تعرض كبند تحقق بدلا من التأكيد على أنها حقيقة.
 
 **Tags**: #IMDG4224 #UN3556 #UN383 #EVShipping #DangerousGoods

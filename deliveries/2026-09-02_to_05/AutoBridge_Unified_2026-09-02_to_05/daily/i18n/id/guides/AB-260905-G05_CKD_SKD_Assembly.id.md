@@ -3,11 +3,11 @@
 ## SEO Metadata
 - ** SeO Judul **: CCAD / SKD Knockdown Kit Ekspor dan Majelis Luar Negeri: Klasifikasi dan Komplemen
 - ** Meta Description **: Cara kerja ekspor kit kendaraan CKD / SKD: klasifikasi yang dibangun di Sistem Harmonized, mengapa pengaturan tujuan / perawatan perakitan lokal adalah negara - spesifik, dan apa seorang eksportir Cina harus memverifikasi sebelum pengiriman kit.
-- ** H1 **: CCKD / SKD Knockdown Expor dan Assembly Luar Negeri - Model, Klasifikasi dan Komplemen
+- ** H1 **: CCCD / SKD Knockdown Ekspor dan Assembly Luar Negeri - Model, Klasifikasi dan Komplemen
 - ** Primary Keyword **: cdd skd knockodown kit export assembly
-- ** Akhir Pencarian Second **: SKD ekspor; KNOWUN kit; perakitan luar negeri; GRI 2 (a) undirecled; atsider lokal
+- ** Akhir Pencarian Second **: SKD ekspor; KNOWUD kit; perakitan luar negeri; GRI 2 (a) unrakned; tariff perakitan lokal
 - ** Sugested URL **: / guide / ckd-skd-knocked down -kit-export-perakitan /
-- ** Cari Intent **: 区分CBU/CKD/SKD模式，理解散件出口归类、原产地与目的国组装的关键合规问题
+- ** Cari Intent **: 区分 CBU / CCD / SKD 模式: 理解散件出口归类: 原产地与目的国组装的关键合规问题
 - *** Internal Link Sugestions **: / guide / mocoolled-scode-history /, / guarding / certicate-of -original- history /, / guide / exports-documents-history /
 - ** Skema Scope **: Artikel (tidak ada Produk / Offer / Review)
 
@@ -15,7 +15,7 @@
 Sebuah ** SKD (semi-knowed -down) * kapal kit sebagian dirakit modul; sebuah ** CKD (completely- knowed -down) ** kit mengirimkan satu set komponen untuk perakitan lokal. Keduanya mengganti ekspor kendaraan yang selesai dengan model parti dan perakitan, biasanya untuk memenuhi tujuan lokal-perakitan kebijakan. Banding komersial itu nyata, tapi hasil hukum / tariff diputuskan oleh otoritas adat ** tujuan **, bukan oleh eksportir Cina yang memberi label konsinyasi "CSD".
 
 ## Dasar klasifikasi yang pengekspor dapat mengontrol
-Di sisi ekspor Cina, klasifikasi dibangun di atas sistem ** Harmonized / import- ekspor tariff ** dan klasifikasi adat mekanisme keputusan (WCO mempertahankan HS, terhubung di bawah). Apakah set belum dirakit / dibongkar diklasifikasikan sebagai artikel itu akan menjadi berubah pada aturan umum interpretasi dan garis tariff spesifik dan rulings - ** panduan ini tidak menyatakan GRI 2 (a) sebagai kesimpulan hukum yang diselesaikan untuk kit karena WCO / pabean primer memerintah untuk kit yang tepat tidak ditangkap di sini *. Klasifikasi setiap baris kit per baris dan, di mana bahan, mencari klasifikasi mengikat aturan.
+Di sisi ekspor Cina, klasifikasi dibangun di atas sistem ** Harmonized / import- ekspor tariff ** dan klasifikasi adat mekanisme keputusan (WCO mempertahankan HS, terhubung di bawah). Apakah set belum dirakit / dibongkar diklasifikasikan sebagai artikel itu akan menjadi berubah pada aturan umum interpretasi dan garis tariff spesifik dan rulings - *** panduan ini tidak menyatakan GRI 2 (a) sebagai kesimpulan hukum yang diselesaikan untuk kit karena WCO / pabean primer putusan untuk kit tepat tidak ditangkap di sini **. Klasifikasi setiap baris kit per baris dan, di mana bahan, mencari klasifikasi mengikat aturan.
 
 ## Sisi tujuan adalah mengendalikan, negara - spesifik pertanyaan
 Apakah sebuah kit memenuhi syarat untuk pengobatan tariff "lokal", rasio lokal-konten yang diperlukan, atau insentif investasi diputuskan oleh ** tujuan negara, pajak dan otoritas investasi **. Cina ekspor-sisi aturan dan halaman web komersial tidak dapat menetapkan hasil itu. Tujuan yang berbeda dapat mencapai hasil yang berbeda untuk kit yang identik, dan memperlakukan bagian-bagian yang tidak dirakit sebagai seluruh kendaraan untuk tugas (atau sebaliknya) harus dibuktikan oleh otoritas negara itu.
@@ -32,7 +32,7 @@ Halaman ini sengaja tidak *** mengklaim definisi universal CSD / SKD, sebuah keu
 
 ## PSD
 ** Apakah label pengiriman "CSD" tugas bawah secara otomatis? ** Tidak - tujuan cukai memutuskan klasifikasi dan pengobatan.
-** Apakah GRI 2 (a) basis jaminan untuk klasifikasi kit? ** Ini harus dinilai terhadap barang yang tepat dengan aturan utama; tidak menegaskan sebagai menetap di sini.
+** Apakah GRI 2 (a) dijamin dasar untuk klasifikasi kit? ** Ini harus dinilai terhadap barang yang tepat dengan aturan utama; tidak menegaskan sebagai menetap di sini.
 ** Siapa yang mengatur aturan local- konten? ** Pihak berwenang negara tujuan; mereka bervariasi dengan pasar.
 ** Bisakah satu kit desain bekerja di setiap pasar? ** Tidak - klasifikasi dan kondisi perakitan negara - spesifik.
 ** Apa yang harus dilakukan BOM? ** Tugaskan sebuah baris HS, asal dan nilai ke setiap komponen sebelum klasifikasi.
@@ -41,15 +41,17 @@ Halaman ini sengaja tidak *** mengklaim definisi universal CSD / SKD, sebuah keu
 ## Sumber & Verifikasi
 | Sumber | Organisasi | Pasar | Tier | Percaya diri | URL | Fakta yang didukung |
 |---|---|---|---|---|---|---|
-| 中华人民共和国海关进出口货物商品归类管理规定 | 中国政府网 | CN | T1 | TERBATAI | https://www.gov.cn/zhengce/2021-09/06/content_5723370.htm | 归类以协调制度/进出口税则为基础, 归类裁定与决定 |
-| 汽车CKD散件出口原产地证填制（行业流程，T4仅线索） | 顺企网 | CN | T4 | UNVERIFIED | https://m.11467.com/product/d53830031.htm | 成套散件清单/HS逐项整理流程线索 |
+| 中华人民共和国海关进出口货物商品归类管理规定 | 中国政府网 | CN | T1 | TERBATAI | https://www.gov.cn/zhengce/2021-09/06/content_5723370.htm | 归类以协调制度 / 进出口税则为基础, 归类裁定与决定 |
+| 汽车 CCSD 散件出口原产地证填制 = 行业流程 = T4 仅线索 = = | 顺企网 | CN | T4 | UNVERIFIED | https://m.11467.com/product/d53830031.htm | 成套散件清单 / HS 逐项整理流程线索 |
 | 成套散件(SKD/CKD)进口申请表说明（反向参考，T4） | 顺企网 | CN | T4 | UNVERIFIED | https://m.11467.com/product/d14729353.htm | 成套散件申报要素线索 |
 | Sistem Harmonized Nomenklatur (WCO) | Organisasi Bea Cukai Dunia | CN | T1 | TERBATAI | https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools/hs-nomenclature-2022-edition.aspx | Normalisasi HS adalah dasar klasifikasi yang dipertahankan oleh WCO |
 | WCO Origin instrumen dan alat | Organisasi Bea Cukai Dunia | CN | T1 | TERBATAI | https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx | rule-of-earth framework dan instrumen yang dijaga oleh WCO |
+| WTO Perjanjian tentang Valuation Bea Cukai | Organisasi Perdagangan Dunia | INT | T1/T2 | TERBATAI | https://www.wto.org/english/tratop_e/valuation_e/valuation_e.htm | Penilaian Bea Cukai memiliki hubungan dengan Krits dan unit yang dirakit dengan cara yang berbeda; tidak mengatur tujuan tarif perakitan |
+| WCO HS Nomenklatur - clasifikasi instrumen (GRI) | Organisasi Bea Cukai Dunia | INT | T1/T2 | TERBATAI | https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools.aspx | Peraturan Interpretatif Umum (incl. GRI 2 (a))) mengatur klasifikasi barang unarched / disassembled knowdown; halaman dalam |
 ## Editorial Review
 - ** Penulis **: Tim Editorial AutoBridge Ekspor
-- 2026-09-05
-- ** Referensi pasar **: CN出口侧框架+目的国（目的国税率须另核）
+- ** Terakhir ditinjau **: 2026-09-05
+- ** Referensi pasar **: CN 出口侧框架 + 目的国 = 目的国税率须另核
 - ** Metode Verifikasi **: Penelitian terhadap sumber di bawah ini; spesifikasi referensi pasar Cinese- kecuali pasar ekspor terpisah secara eksplisit dikutip.
 - ** Transparansi **: penggambaran bantuan digunakan. Artikel ini didasarkan pada penelitian meja dan otomatis QA. Tidak ada pengujian pertama-tangan diklaim kecuali secara eksplisit didokumentasikan; konfirmasi waktu - sensitif dan destination- persyaratan spesifik sebelum mengubah.
 
@@ -57,12 +59,15 @@ Halaman ini sengaja tidak *** mengklaim definisi universal CSD / SKD, sebuah keu
 - ** IMAGE _ ASSET _ PATH **: tidak ada yang diamankan dalam repositori
 - ** ORIGINAL _ IMAGE _ URL **: tidak ditangkap
 - ** SUMBER _ PAGE **: tidak ditangkap
+- ** SOURCE _ FILE _ PAGE **: tidak dapat diterapkan - tidak ada berkas media kandidat yang diidentifikasi (tidak ada lisensi untuk menegaskan)
 - ** RIGHTS _ HOLDER **: belum dikonfirmasi
 - ** LICENSE _ OR _ USAGE _ BASIS **: tidak ada yang aman - kehadiran halaman web OEM bukan sebuah lisensi penggunaan ulang komersial
-- 2026-09-05
+- ** CHECTD _ DATE **: 2026-09-06
 - ** MODEL _ TOPIC _ MATCH **: tepat CSD / SKD Knockdown Ekspor dan Majelis Luar Negeri
+- ** IMAGE _ SCOPE _ CATATAN **: gambar harus cocok dengan model yang sama saja keluarga / topik; tidak boleh menyiratkan trim, model tahun, VIN, in- orang pemeriksaan atau transaksi aktual
 - FAIL
-- ** ALT (bahasa 12) *:
+- ** BLOCK _ REASON **: Tidak ada gambar yang dapat digunakan ulang yang dapat diamankan: Wikimedia Commons / Flickr tidak dapat dicapai dari lingkungan penelitian, perpustakaan saham memerlukan akses API / license yang dikonfirmasi, dan gambar laman web OEM TIDAK sebuah hibah komersial. Tak ada foto AutoBridge- milik mereka. Catatan tetap FAIL daripada menegaskan.
+- ** ALT (12 bahasa) *:
   - **EN**: CKD SKD knockdown, Chinese-market procurement guide export buyer reference
   - **FR**: CKD SKD knockdown, procurement guide du marché chinois, référence acheteur export
   - **DE**: CKD SKD knockdown, Chinesischer procurement guide, Referenz für Exportkäufer

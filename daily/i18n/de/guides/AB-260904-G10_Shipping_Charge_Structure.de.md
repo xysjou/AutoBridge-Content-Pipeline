@@ -52,11 +52,14 @@ Eine Headline-Frachtrate gewinnt Buchungen und verliert Geld am Zielort. Fahrzeu
 - IMAGE_ASSET_PATH: keine gesicherte Datei
 - ORIGINAL_IMAGE_URL: nicht erfasst
 - SOURCE_PAGE: nicht erfasst
+- SOURCE_FILE_PAGE: Entfällt — keine Kandidaten-Mediendatei identifiziert (keine Lizenz zur Geltendmachung)
 - RIGHTS_HOLDER: nicht bestätigt
 - LICENSE_OR_USAGE_BASIS: keine gesicherte — kein Bild von Dritten darf veröffentlicht werden, bis die Rechte gelöscht sind
-- CHECKED_DATUM: 2026-09-05
+- CHECKED_DATUM: 2026-09-06
 - MODEL_TOPIC_MATCH: muss mit dem genauen Modell/der genauen Version (oder dem Leitthema) und dem Referenzmarkt oben übereinstimmen
+- IMAGE_SCOPE_NOTE: nur die genaue Modellfamilie/das genaue Thema angeben; darf keine spezifische Trimm-/Modelljahr-, echte VIN-, persönliche Inspektion oder tatsächliche Transaktion implizieren
 - IMAGE_RIGHTS_STATUS: FAIL (kein lizenziertes Asset erfasst; ein Platzhalter oder ein Hinweis „altes Bild behalten wird nicht akzeptiert)
+- BLOCK_REASON: Es konnte kein wiederverwendbares Bild gesichert werden: Wikimedia Commons/Flickr sind aus der Forschungsumgebung nicht erreichbar, Lagerbibliotheken erfordern authentifizierten API/Lizenzzugriff und ein OEM-Webseitenbild ist KEIN kommerzielles Wiederverwendungsstipendium; es gibt kein AutoBridge-eigenes Foto. Nein, aber nicht nur vereitelt.
 - ALT nach Sprache:
   - **EN**: AutoBridge export-buyer reference — Ocean freight quotation charge structure, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Ocean freight quotation charge structure, guide d’achat à l’export automobile
@@ -80,7 +83,7 @@ Eine Headline-Frachtrate gewinnt Buchungen und verliert Geld am Zielort. Fahrzeu
 | Gemeinsame FOB-Gebühren (THC/Buchung/Trucking) | 11467 | CN | https://m.11467.com/product/d24491409.htm | 2026-09-04 | SINGLE_SOURCEN | Gebührenbezeichnung |
 *Beweisumfang: Gebührenstruktur, die von Branchenquellen abgeglichen wurde (keine offizielle Tarifquelle); AMS/ACI/ENS als streckenspezifische redaktionelle Anleitung eingerahmt; alle Beträge bewusst als zeitsensibel ausgeschlossen. *
 
-| Incoterms 2020 Regeln (wer arrangiert / bezahlt Transport zu jedem Begriff) | Internationale Handelskammer (ICC) | INT'L | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/ | 2026-09-05 | ÜBERPRÜFUNG | Welche Fracht/Gebühren fallen von Incoterm an Käufer vs. Verkäufer |
+| Incoterms 2020 Regeln (wer organisiert / bezahlt Transport zu jedem Begriff) | Internationale Handelskammer (ICC) | INT'L | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/ | 2026-09-05 | ÜBERPRÜFUNG | Welche Fracht/Gebühren fallen von Incoterm an Käufer vs. Verkäufer |
 | Gütertransportunternehmen und Gebührenkategorien | FIATA | INT'L | https://fiata.org/ | 2026-09-05 | ÜBERPRÜFUNG | Referenz Speditionskurs/Entgeltstruktur |
 | Linienversand und Zuschlagkontext | World Shipping Council | INT'L | https://www.worldshipping.org/ | 2026-09-05 | ÜBERPRÜFUNG | Branchenkontext für Seefracht- und Nebenkosten |
 | China International Speditionsverband | OZF | CN/INT'L | http://www.cifa.org.cn/ | 2026-09-05 | ÜBERPRÜFUNG | China-Seite Speditionsindustrie und Angebotspraxis |

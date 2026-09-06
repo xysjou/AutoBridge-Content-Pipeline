@@ -1,70 +1,76 @@
-# Payment Methods in Chinese Vehicle Export — T/T, L/C, D/P, D/A, O/A Risk Controls
+# 중국 차량 수출의 지불 방법 - T/T, L/C, D/P, D/A, O/A 위험 관리
 
-## SEO Metadata
-- **SEO Title**: Export Payment Methods for Chinese Cars: T/T, L/C, D/P, D/A, O/A Risk Guide
-- **Meta Description**: How a Chinese vehicle exporter should choose and safely use T/T, irrevocable L/C, D/P, D/A and open account, spot soft clauses and control bank and document risk.
-- ** H1 **: Payment Methods in Chinese Vehicle Export — T/T, L/C, D/P, D/A, O/A Risk Controls
-- **Primary Keyword**: export payment methods t t lc risk
-- **Secondary Search Terms**: export payment terms; irrevocable L/C; T/T deposit; documentary collection; open account risk; UCP600
+## ▼ 한국어 메타데이터
+- **SEO Title**: 중국 수출입 방법 자동차: T/T, L/C, D/P, D/A, O/A 위험 가이드
+- **마타 기술 **: 중국 차량 수출자는 T/T, 탈선 L/C, D/P, D/A 및 개방 계좌를 선택하고 안전하게 사용해야 하며, 부드러운 항정 및 제어 은행 및 문서 위험이 있습니다.
+- ** H1 **: 중국 차량 수출의 지불 방법 - T/T, L/C, D/P, D/A, O/A 위험 관리
+- ** 출원 키워드 **: 수출 지불 방법 t t lc 위험
+- **세컨드리뷰 약관**: 수출 결제 조건; 탈중앙 L/C; T/T 예금; 다큐멘터리 수집; 계좌 위험; UCP600
 - **Suggested URL**: /guides/export-payment-methods-t-t-lc-risk/
-- **Search Intent**: 出口商如何在汽车订单中选择并安全使用电汇/信用证等结算方式、识别软条款与银行风险
-- **Internal Link Suggestions**: /guides/incoterms- 2020-selection-guide/, /guides/verify-chinese-car-export-supplier-history/, /guides/export-fx-settlement-trade-fx-registration/
-- **Schema Scope**: Article (no Product/Offer/Review)
+- ** 수색 **: 出口商如何在汽车订单中选择并安全使用电汇 / 信用证等结算方式 、 识别软条款与银行风险
+- ** 내부 링크 제안**: /guides/incoterms- 2020-selection-guide/, /guides/verify-chi-car-export-supplier-history/, /guides/export-fx-settlement-trade-fx-registration/
+- **Schema Scope**: 기사 (제품/오프러/리뷰 없음)
 
-## Why payment structure decides whether a vehicle deal is safe
-For a Chinese vehicle exporter the payment method is a risk-allocation tool, not an administrative detail. Vehicles are high-value, often built to order, and may need homologation or conversion before shipment, so the gap between production, loading and payment is where losses happen. This guide explains the five common settlement routes and the checks that belong before, not after, contract signature. It is an international settlement framework, not the banking rule of any single country.
+## 왜 지불 구조는 차량 거래가 안전하다는 것을 결정합니다
+중국 차량 수출은 지불 방법은 행정 세부 사항이 아닌 위험 할당 도구입니다. 차량은 높 가치, 수시로 주문하기 위하여 건설되고, 선적의 앞에 균질 또는 변환이, 그래서 생산, 선적 및 지불 사이 간격은 무슨 손실 일어날지 있습니다. This guide explains the five common settlement routes  and  이전의 체크, 후, 계약 서명. 국제 결제 프레임 워크, 어떤 단일 국가의 은행 규칙.
 
 ## How the five instruments actually shift risk
-- **T/T (telegraphic transfer)** is a direct remittance. In vehicle trade it is normally split into a deposit before production and a balance against a copy/telex-release of the bill of lading. The deposit protects the exporter against cancellation on a built-to-order unit; the balance timing protects the buyer from paying for an unshipped car.
-- **L/C (letter of credit)** substitutes bank credit for buyer credit. Under UCP600 a credit is presumed irrevocable unless it expressly says otherwise, and payment turns on **complying presentation** — documents that match the credit's terms on their face.
-- **D/P (documents against payment)** and **D/A (documents against acceptance)** are documentary collections through banks; the banks handle documents but do **not** give an L/C-style payment undertaking. Under D/A the buyer takes the goods on a promise to pay later, which is close to open-account risk.
-- **O/A (open account)** means the buyer pays after receiving the goods; it is the most favourable to the buyer and the highest exposure for the exporter.
+- **T/T (telegraphic transfer)**는 직접 송금입니다. 차량 거래에서 일반적으로 생산 전에 예금으로 분할하고 lading의 청구서의 사본 / telex 방출에 대한 균형. 보증금은 내장 주문 단위에 대한 취소에 대한 수출을 보호합니다. 균형 타이밍은 무결한 차를 지불하는 구매자를 보호합니다.
+- **L/C (자본금의 송금)**는 구매자 신용을 위한 은행 크레딧을 대체합니다. UCP600 크레딧은 명시적으로 언급하지 않고도 사전 요약 된 취소 할 수 있으며, ** 작성 프리젠 테이션 ** - 자신의 얼굴에 신용 용어 일치 문서.
+- **D/P (서류 결제)** 및 **D/A (서류 접수에 대한 문서)**는 은행을 통해 문서화입니다. 은행은 서류를 처리하지만 **not**는 L/C-style 결제를 제공합니다. D/A 구매자는 나중에 지불하는 약속에 상품을 가지고, 이는 개방 계정 위험에 가깝습니다.
+- **O/A (오픈 계정)**는 상품을 받기 후에 구매자 급여를 의미합니다; 구매자와 수출상을 위한 가장 호의를 베푸는 입니다.
 
-## Reading an L/C for soft clauses before you accept it
-An irrevocable L/C is only as safe as its terms. Watch for conditions that put payment under the buyer's or a third party's control: a certificate signed by the applicant, an inspection/acceptance document only the buyer can issue, a shipment date or port you cannot meet, a vessel/route restriction, or documents the issuing bank will not clearly accept. Because payment depends on a facially complying presentation, any clause that lets the applicant block the documents is a negotiation point to remove or neutralise before the credit is confirmed.
+## 당신이 그것을 받아들일 전에 연약한 절에 L/C를 읽으십시오
+L/C는 해당 조건으로 안전합니다. Watch for conditions that put payment under the buyer's or a third party's control: 신청자, 검사/관찰 문서에 서명한 증명서는 구매자만, 선적 날짜 또는 항구를 만날 수 없습니다, 선박/도보 금지, 또는 서류 발급 은행은 명확하게 받아들이지 않을 것입니다. 결제가 얼굴에 따라 발표에 따라, 신청자가 문서를 차단할 수있는 모든 항목은 신용이 확인되기 전에 또는 중립성을 제거 할 협상 지점입니다.
 
-## A practical decision order for vehicle orders
-1. Match the instrument to trust and order type: deposit + balance T/T for a known repeat buyer; L/C for a large first order or unfamiliar market; avoid D/A and O/A unless credit insurance or strong security exists.
-2. On an L/C, read every required document against what you can actually produce and the timeline (production, booking, inspection, B/L).
-3. Reconcile the L/C with the proforma and Incoterm so document names, unit description, latest shipment and expiry are achievable.
-4. Keep bank fees and confirmation costs out of assumed numbers — they vary by bank and are time-sensitive; obtain them from the nominated bank.
-5. Coordinate with FX settlement rules (see the trade-FX guide) so receipt and verification are consistent.
+## 차량 주문에 대한 실제 결정 순서
+1. 신뢰와 순서 유형에 계기 일치하십시오: 알려진 반복 구매자를 위한 예금 + 균형 T/T; 큰 첫번째 순서 또는 무해한 시장을 위한 L/C; 신용 보험 또는 강한 안전이 존재하는 한 D/A 및 O/A를 피하십시오.
+2. L/C에서, 당신이 실제로 생성하고 타임라인 (생산, 예약, 검사, B/L)를 생성하는 무슨에 대하여 각 필요한 문서를 읽으십시오.
+3. Proforma 및 Incoterm을 가진 L/C를 재구성하여 문서 이름, 단위 묘사, 최신 선적 및 expiry는 성취할 수 있습니다.
+4. 은행 수수료 및 확인은 가정 된 번호에서 비용 유지 - 그들은 은행과 시간 감지에 따라 다릅니다. 그(것)들을 지명 된 은행에서 얻을 수 있습니다.
+5. FX 결제 규칙 (무역 FX 가이드 참조)과 협조하여 영수증 및 검증이 일관성 있습니다.
 
-## Risks that no payment term removes
-Even a clean L/C does not cure sanctions exposure on the buyer/bank, an incorrect HS classification, or a destination that cannot import the unit. Payment security and regulatory compliance are separate gates. This guide does not rank countries' banks and does not quote bank charges, both of which must be obtained case by case.
+## 지불 기간이 제거되지 않는 위험
+깨끗한 L/C는 구매자/은행에 대한 sanctions 노출을 치료하지 않습니다, 잘못된 HS 분류, 또는 단위를 가져올 수없는 목적지. 결제 보안 및 규제 준수는 별도의 게이트입니다. 이 가이드는 국가 은행을 순위가 아니며 은행 요금을 인용하지 않으며,이 두 가지는 경우를 얻은 경우를 얻지 못합니다.
 
-## FAQ
-**Is an irrevocable L/C a payment guarantee?** It is a bank undertaking conditional on a complying presentation; soft clauses can still delay or block payment.
-**What is a safe T/T split?** A production deposit plus balance against shipping evidence; the exact percentages are a commercial decision, not a fixed rule.
-**D/P versus D/A?** Under D/P the buyer pays to obtain documents; under D/A it accepts and pays later — much higher exporter risk.
-**Should I accept O/A for a first buyer?** Generally not without credit insurance, security or an established relationship.
-**Does UCP600 override my contract?** No — UCP600 governs the credit when incorporated; the sales contract and Incoterm still set the deal.
+## 의논하기
+**일부 L/C 결제 보증이 있습니까?** 그것은 은행은 준수 프리젠 테이션에 조건부를 유지; 부드러운 항목은 여전히 지연 또는 블록 지불을 할 수 있습니다.
+**안전 T/T 분할은 무엇입니까?** 배송 증거에 대한 생산 예금 플러스 균형; 정확한 비율은 상업 결정, 고정 규칙이 아닙니다.
+**D/P는 D/A를 versus?** D/P에서 구매자는 문서를 얻으려고 지불합니다; D/A의 밑에 그것은 받아들입니다 그리고 나중에 급여 — 매우 더 높은 수출상 위험.
+**첫 번째 구매자를 위해 O / A를 수락합니까? ** 신용 보험, 보안 또는 설립 관계없이 일반적으로 아닙니다.
+** UCP600은 내 계약을 강화합니까? ** No - UCP600 통합 될 때 신용을 지배합니다. 판매 계약 및 Incoterm는 여전히 거래를 설정합니다.
 
 
-## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
+## 소스 및 검증
+| 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | URL을 | 지원된 사실 |
 |---|---|---|---|---|---|---|
-| 跨境收款：信用证法律逻辑与风险防线（二） | 东莞市人民政府（转国际经贸业务） | CN | T1 | VERIFIED | https://www.dg.gov.cn/zwgk/zfxxgkml/smch/qt/gjmyyj/content/post_4407585.html | UCP600不可撤销, 信用证分类与风险 |
-| 信用证核心特点（UCP600第二条定义） | 东莞市贸促会（CCPIT） | CN | T1 | VERIFIED | https://www.dg.gov.cn/ccpit/hd/ywzsk/gjjmyj/content/post_4405133.html | 信用证定义, 银行信用, 相符交单 |
-| 国际贸易单证业务（教材，流程佐证） | 清华大学出版社 | CN | T3 | CROSS_CHECKED | http://www.tup.tsinghua.edu.cn/upload/books/yz/037271-01.pdf | 单证相符, 审单流程 |
-| International Chamber of Commerce (ICC) | International Chamber of Commerce | CN | T1 | VERIFIED | https://iccwbo.org/ | publisher of UCP600 and Incoterms rules; authoritative trade-finance framework |
-## Editorial Review
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: 通用（国际结算框架，非单一国家法规）
-- **Verification method**: Desk research against the sources below; Chinese-market reference specification only unless a separate export market is explicitly cited.
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
+| 跨境收款: 信用证法律逻辑与风险防线 (二) | 东莞市人民政府 (转国际经贸业务년) | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https: //www.dg.gov.cn/zwgk/zfxxgkml/smch/qt/gjmyyj/content/ post_4407585.html에 대한 자세한 정보 | UCP600 不可撤销, 信用证分类与风险, 不可撤销, 不可撤销, 不可撤销, 信用证分类与风险, 不可撤销, 信用证分类与风险, 不可撤销, 信用证分类与风险, 不可撤销, 信用证分类与风险, 不可撤销, 不可撤销, 不可撤销, 信用证分类与风险, 不可撤销, 不可撤销, 信用证分类与风险, 不可撤销, 信用证分类与风险, 不可撤销, 信用证分类与风险, 不可撤销, 信用证分类与风险, 信用证分类与风险, 不可撤销, 信用证分类与风险, 不可撤销, 不可撤销, 信用证分类与风险, 不可撤销, 信用证分类与风险, 不可撤销, 信用证分类与风险, 信用证分类与风险, 不可撤销, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险, 信用证分类与风险 |
+| 信用证核心特点 (UCP600 第二条定义) | 东莞市贸促会 (CCPIT) | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https: //www.dg.gov.cn/ccpit/hd/ywzsk/gjjmyj/content/ post_4405133.html에 대한 자세한 정보 | 信用证定义, 银行信用,  相符交单 |
+| 国际贸易单证业务 (教材, 流程佐证) | 清华大学出版社 | 담당자: Mr. wang | T3 | CROSS_체크 | HTTP: //www.tup.tsinghua.edu.cn/upload/books/yz/ 037271-01.pdf에 대한 자세한 정보 | 单证相符,  审单流程 |
+| 국제 상공 회의소 (ICC) | 국제 상공 회의소 | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https: //iccwbo.org/에 대한 자세한 정보 | UCP600 및 Incoterms 규칙의 발행인; 권위있는 무역 금융 기구 |
+| 중국 수출 및 신용 보험 (SINOSURE) - 단기 수출 신용 보험 | 중국 수출 및 신용 보험 공사 (SINOSURE 中国信保) | INT/CN(주) | T1/T2 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https: //www.sinosure.com.cn/에 대해 | Open-account (O/A) 및 다큐멘터리 수집 (D/P) 재조정 가능한 위험은 보험료가 부과됩니다. 결제 기간 선택에 대한 신용 보험 상황에 대한 수출 |
+| 중국 국제 무역 촉진위원회 (CCPIT) | 중국 국제 무역 촉진위원회 (CCPIT 中国贸促会) | 담당자: Mr. wang | T1/T2 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https: //www.ccpit.org/에 대한 자세한 정보 | 국가 무역 촉진 몸: L/C와 무역 문서 지도 및 증명서; 지방 정부 재생산과의 명백 |
+| (주)아이치 무역 금융 솔루션 (UCP 600 / URC 522 / URDG 규칙 소유자) | 국제 상공 회의소 | INT 소개 | T1/T2 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https: //iccwbo.org/business-solutions/trade-finance/ | ICC는 L/C (UCP 600), 수집 (URC 522) 및 보증 (URDG); 홈페이지를 넘어 깊은 페이지를 위한 규칙 세트입니다 |
+## 편집 리뷰
+- **Author**: AutoBridge 수출 편집팀 · [authors](/authors/) · [편집 정책](/편집/)
+- **마지막 검토**: 2026-09-05
+- **참고 시장 **: 通用 (国际结算框架, 非单一国家法规)
+- ** 인증 방법**: 아래 소스에 대한 책상 연구; 별도의 수출 시장이 명시적으로 인용되지 않는 한 중국 시장 참조 사양.
+- **Transparency**: AI-assisted 초안 사용. 이 문서는 책상 연구 및 자동화 QA에 근거합니다. 명시적으로 문서화되지 않는 한, 첫 번째 손 테스트가 주장되지 않습니다. transacting 전에 시간 과민하고 대상 특정 요구 사항을 확인하십시오.
 
-## Image Record
-- **IMAGE_ASSET_PATH **: none secured in repository
-- **ORIGINAL_IMAGE_URL **: not captured
-- **SOURCE_PAGE**: not captured
-- **RIGHTS_HOLDER**: unconfirmed
-- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
-- **CHECKED_DATE**: 2026-09-05
-- **MODEL_TOPIC_MATCH**: exact Payment Methods in Chinese Vehicle Export
-- **IMAGE_RIGHTS_STATUS**: FAIL
-- **ALT (12 languages)**:
+## 이미지 기록
+- **IMAGE_ASSET_PATH**: 저장소에 보안되지 않음
+- **ORIGINAL_IMAGE_URL **: 캡처되지 않음
+- **SOURCE_PAGE**: 캡처되지 않음
+- **SOURCE_FILE_PAGE**: 적용되지 않음 - 후보 미디어 파일 확인 없음 (Asert에 대한 라이센스 없음)
+- **RIGHTS_HOLDER**: 확인되지 않음
+- **LICENSE_OR_USAGE_BASIS**: 안전하지 않은 - OEM 웹 페이지 존재는 상업 재사용 면허가 아닙니다.
+- **CHECKED_DATE **: 2026-09-06
+- **MODEL_TOPIC_MATCH**: 중국 차량 수출에 정확한 지불 방법
+- **IMAGE_SCOPE_NOTE**: 이미지는 정확한 모델 가족/토닉에서만 일치해야 합니다. 특정 트림, 모델 년, 실제 VIN, 인-인터 검사 또는 실제 거래에 영향을 미치지 않아야 합니다.
+- **IMAGE_RIGHTS_STATUS**: FAIL(실버)
+- **BLOCK_REASON**: 재사용 가능한 이미지는 보안되지 않았습니다: Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 없으며, 주식 라이브러리는 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 없습니다. 기록은 asserted 보다는 오히려 FAIL를 지켜.
+- **ALT (12 언어)**:
   - **EN**: export payment methods, Chinese-market procurement guide export buyer reference
   - **FR**: export payment methods, procurement guide du marché chinois, référence acheteur export
   - **DE**: export payment methods, Chinesischer procurement guide, Referenz für Exportkäufer

@@ -1,69 +1,72 @@
-# SAIC Maxus Xintu V90 Diesel Van: a Configuration-Matrix Light Commercial, Not a Single Model
+# SAIC Maxus Xintu V90 ديزل فان: مؤتمر تجاري لامع، ليس نموذجاً واحداً
 ## SEO Metadata
-- **SEO Title**: SAIC Maxus V90 Diesel Van Specs & Export Configuration Guide
-- **Meta Description**: Chinese-market SAIC Maxus V90 wide-body diesel light van — SAIC π 2.0T diesel (110/130 kW), 6AT/ZF 8AT, RWD with optional dual rear wheels, two wheelbases, 9–15 seats by homologation.
-- **Suggested URL**: /vehicles/saic-maxus-v90-specs/
-- ** H1 **: SAIC Maxus Xintu V90 (Chinese-Market): Diesel Light Van Configuration and Export Checks
-- **Primary Keyword**: saic maxus v90 diesel van specs
-- **Secondary Search Terms**: Maxus V90 wheelbase, V90 ZF 8AT, Maxus light bus 9-15 seats, diesel wide-body van export, dual rear wheel van
-- ** Internal Link Suggestions**: /vehicles/faw-jiefang- j6p-tractor-specs/; /vehicles/farizon-xingxiang- v6e-specs/; /guides/vehicle-coc-type-approval-dossier/
-- **Image Suggestions**: long-wheelbase high-roof side profile; dual-rear-wheel rear axle; passenger vs cargo body; ZF 8AT selector; cargo interior
-- **ALT Suggestions**: "SAIC Maxus V90 long wheelbase high roof van"; "V90 diesel engine and rear axle options"
+- ** عنوان المنظمة**: SAIC Maxus V90 ديزل فان سبيكس دليل مصادرة الصادرات
+- ** وصف البيانات**: Chinese-market SAIC Maxus V90 wide-body diesel light van — SAIC π 2.0T diesel (110/130 kW), 6AT/ZF 8AT RWD مع عجلات مزدوجة الركبة، قاعدتان متحركتان 9–15 مقعداً بالهجوم
+- ** URL المقترض**: /مركبات/سيك -ماكسوس - v90-specs/
+- ** H1 **: SAIC Maxus Xintu V90 (Chinese-Market): ديزل لايت فان نقابة وتحقق من الصادرات
+- ** كلمة مفتاحية رمزية**: مواصفات سيك ماكسوس v90 شاحنة ديزل
+- ** شروط البحث الثانية**: Maxus V90 wheelbase, V90 ZF 8AT, حافلة (ماكسوس) الخفيفة 9-15 مقعد تصدير الديزل من مجموعة كبيرة شاحنة ذات عجلات خلفية مزدوجة
+- ** Internal Link Suggestions**: /vehicles/faw-jiefang- j6p-tractor-specs/; /vehicles/farizon-xingxiang- v6e-specs/; /guides/vehicle-coc-typeapproval-dossier/
+- ** اقتراحات تتعلق بالنص**: - طول العجلات العالية جداً؛ - أكسل ذي فتحتين ذي فتحتين ذي فتحتين؛ راكب ضد جثة شحن؛ ZF 8AT selector; الشحنات الداخلية
+- ** اقتراحات بشأن: "سي سي سي سي سي سي ماكسوس V90 شاحنة طويلة من طراز عجلات السقف، "V90 محرك ديزل وخيارات أكسل الخلفية
 
 ## Buyer Context: Order a Configuration Code, not a Name
-The Xintu V90 is a **wide-body light commercial platform** sold as passenger minibus, panel/cargo van and bare chassis-cab, across multiple wheelbases, roof heights, seat counts and single/dual rear wheels. There is no single "V90 spec". The exporter's job is to fix the **exact homologated model code (公告型号)** and then match engine, gearbox, axle, body and seats to it — because destination certification is performed on that specific configuration. REFERENCE MARKET: **
+The Xintu V90 is a **wide-wide-body light commercial platform** sold as passenger minibus, panel/cargo van and bare chassis-cab, across multiple wheelbases, roof altitudes, seat counts and single/dual rear wheels. لا يوجد واحد "V90 مطيّب". وظيفة المصدر هي إصلاح الرمز النموذجي المتجانس (公告型号)** ثم تطابق المحرك، وجهاز التروس، ورف، والجسم والمقاعد إليه - لأن شهادة المقصد تُؤدّى على تلك التشكيلة المحددة. REFERENCE MARKET: **CHINA**.
 
-## Engine and Driveline (commercial diesel focus)
-| Item | V90 China reference |
+## المحرك والخط (التركيز التجاري على الديزل)
+| البند | V90 الصين |
 |---|---|
-| Engine | SAIC π ("PI") 2.0 L turbo-diesel inline-4 |
-| Power grades | 110 kW (≈150 PS) / 130 kW (≈177 PS) |
-| Torque grades | 375 N·m / 400–420 N·m |
-| Transmission | 6-speed ** ZF 8-speed |
-| Layout | Front engine, **rear-wheel drive**; **dual rear wheels optional** |
-| Fuel | Diesel — confirm fuel quality tolerance and destination emission stage |
+| المهندس | SAIC ROM (PI) 2.0 L turbo-diesel inline- 4 |
+| درجات السلطة | 110 kW (≈150 PS) / 130 kW (≈177 PS) |
+| الصفوف التافهة | 375 N·m / 400–420 N·m |
+| التحويل | 6-speed automatic **or** ZF 8-speed automatic |
+| لا يُمكنك | محرك الجبهة، ** محرك عجلات متحركة**؛ ** عجلات خلفية اختيارية** |
+| الوقود | الديزل - يؤكد مدى جودة الوقود والمرحلة التي تنجم عنها انبعاثات الوقود |
 
-For a diesel commercial, buyers should compare torque grade and rear-axle/wheel choice (single vs dual rear tyre) against intended payload, not just peak power. The ZF 8AT is the higher-tier transmission; do not assume every grade has it.
+وبالنسبة لتجارة الديزل، ينبغي للمشترين أن يقارنوا درجة حرارة السفن وخيارات العجلات الخلفية/العجلات (الإطارات الخلفية المزدوجة) مقابل الحمولة المقصودة، وليس مجرد الذروة. The ZF 8AT is the higher-tier transmission; do not assume every grade has it.
 
-## Chassis, Wheelbase and Body Matrix
-- Example standard-length body L×W×H: **5498 / 2062 / 2535–2545 mm**; longer bodies also exist.
-- Wheelbases: **3366 mm / 3760 mm**.
-- **Passenger version seats: 9–15, strictly per the homologated model (single-source; confirm on the announcement/model code)**.
-- Roof height, sliding/rear door layout, cargo vs passenger interior and chassis-cab variants change GVW-class usage and licensing category.
+## الفصائل، وعجلات العجلات، ومصاعد الجسم
+- جهاز قياسي مدمج **5498 / 2062 / 2535–2545 mm**; وتوجد أيضاً هيئات أطول.
+- حبوب العجلات: ** 3366 mm/ 3760 mm **.
+- ** مقاعد في صيغة الناقصة: 9–15، لكل نموذج متجانس تماما (مصدر خارجي؛ تأكيد على الإعلان/رمز النموذج)**.
+- ويغير ارتفاع الطول، وتركيب/إعادة تجهيز الأبواب، والبضائع ضد الركاب في الداخل، وتغيّر متغيرات الأشعة تحت الحمراء، فئة استخدام وتراخيص من طراز GVW.
 
-Because wheelbase, roof, seats and rear-axle choice combine into many homologated codes, a spec line copied from one V90 cannot be applied to another — request the build sheet for the precise model code before quoting.
+لأن قاعدة العجلات السطح المقاعد  and  الاختيار الخلفي يتجمع بين العديد من الرموز المتحركة  a spec line copied from one V90 cannot be applied to another — request the build sheet for the precise model code before quoting.
 
-## Commercial Specifications to Reconcile per Unit
-1. **Exact model/announcement code** → engine power, GVW, seats, body type.
-2. **Payload/GVW and rear axle** (single vs dual rear wheel) for the intended load.
-3. **Emission stage** (China diesel standard) vs destination requirement; diesel fuel-quality tolerance.
-4. **Body type licensing category** in the destination (passenger minibus vs goods van vs chassis for conversion).
-5. **Spare-parts and service** for the SAIC π engine and ZF/6AT gearbox in-market.
+## المواصفات التجارية لإعادة التوفيق لكل وحدة
+1. ** نموذج/رمز إعلاني مؤثر**، قوة المحرك، GVW، المقاعد، نوع الجسم.
+2. ** حمولة/GVW وحورية خلفية** (العجلة الخلفية المزدوجة) للحمولة المقصودة.
+3. ** مرحلة الانبعاث** (معيار الديزل الصيني) مقابل احتياجات المقصد؛ والتسامح بشأن نوعية وقود الديزل.
+4. ** فئة الترخيص من نوع البودي** في المقصد (الملحق المصغر للمركب مقابل البضائع فان ضد الفوضى من أجل التحويل).
+5. ** أعضاء وخدمة إسبار** لمحرك SAIC و ZF/ 6AT جهاز للعتاد في السوق.
 
-## Export Considerations
-- A people-carrier (9–15 seats) and a cargo panel van face different destination approval and licensing routes; state the body and seat count on the PI.
-- Confirm **LHD/RHD**, cluster language, and whether any conversion (ambulance, camper, shuttle) is done in China or post-import.
-- Container vs RoRo: at - 5.5 m and high roof, confirm the actual stowage method from a load plan rather than assuming 40HQ fits a high-roof long body.
+## اعتبارات التصدير
+- ويواجه حاملو سيارات (9–15 مقعد) وشاحنة من طراز الشحنات طرقا مختلفة للموافقة على الوجهة وإصدار التراخيص؛ ويعلنون أن الجسم والمقعد يعتمدان على PI.
+- التأكيد ** على الوثيقة HD/RHD**، لغة المجموعات، وما إذا كان أي تحويل (الحشد، المخيم، المكوك) قد تم في الصين أو بعد الاستيراد.
+- الحاويات ضد رو: عند حوالي 5.5 متر وسطح عال، يؤكد طريقة المواقد الفعلية من خطة تحميل بدلا من افتراض 40HQ يطابق جسما طويلا جدا.
 
-## Request a Current Export Quotation
-No static export price and no China MSRP were captured in this research package; none is invented. Enquire with **Destination Country · Exact Model Code/Body · Seats · Power & Gearbox · LHD/RHD · Destination Port · Incoterm**.
+## طلب تخصيص موارد التصدير الحالية
+ولم يُسجَّل في هذه المجموعة البحثية أي سعر تصدير ثابت ولا أي مشروع صيني للإصلاح الزراعي؛ ولم يُخترع أي منها.:: الاستفسار مع ** بلد المنشأ؛ المدونة النموذجية/المبنى؛ المقاعد؛ صندوق الطاقة؛ ميناء الترسب/النقل؛ مرفأ الوجهة**.
 
-## Frequently Asked Questions
-**How many seats does a V90 have?** The passenger version ranges 9–15 seats depending on the homologated model code; there is no single answer without the code.
-**What engine does it use?** A SAIC π 2.0 L turbo-diesel in 110 kW (150 PS) or 130 kW (177 PS) grades, with 375 or 400–420 N·m.
-**Is it rear-wheel drive?** Yes, front-engine RWD, with dual rear wheels available on appropriate configurations.
-**Which gearboxes are offered?** A 6-speed automatic or a ZF 8-speed automatic, depending on grade.
-**Why must I quote a model code?** Wheelbase, roof, seats, axle and GVW differ across homologated V90 configurations; only the code fixes the specification.
+## الأسئلة المتكررة
+** كم عدد المقاعد التي يوجد بها V90 مقعد**؟ وتراوح عدد المقاعد في راكب الطائرة 9–15 مقعداً حسب الرمز النموذجي المتحرك؛ ولا يوجد جواب واحد بدون الرمز.
+** ما هو المحرك الذي يستخدمه؟** A SAIC MIS 2.0 L turbo-diesel in 110 kW (150 PS) or 130 kW (177 PS) grades,  with 375 or 400–420 N·m.
+** هل هو محرك عجلات خلفية؟ ** نعم، محرك الجبهة، مع عجلات خلفية مزدوجة متاحة على التشكيلات المناسبة.
+** أي صندوق للعتاد يقدم؟ ** A 6-speed automatic or a ZF 8-speed automatic, depending on grade.
+** لماذا يجب أن أقتبس من رمز نموذجي**؟ ويختلف العجلات والسقف والمقاعد والمحور والشبكة العالمية المعنية بالمركبات بين V90 تشكيلة ملغومة؛ ولا يحدد سوى الرمز المواصفات.
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
+## سجل الصور
+- لم يُؤمن أي منها في مستودع
 - ORIGINAL: IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
+- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
+- الحقوق - حقوق غير مؤكدة
+- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
+- CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
+- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات ويكيميو/فلكر غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات المسبقة/الرخصة، وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
 - ALT by language:
   - **EN**: AutoBridge export-buyer reference — SAIC Maxus Xintu V90, petrol/diesel Chinese-market vehicle / cargo van
   - **FR**: Référence AutoBridge pour acheteurs export — SAIC Maxus Xintu V90, véhicule thermique (marché chinois) / fourgon
@@ -78,24 +81,24 @@ No static export price and no China MSRP were captured in this research package;
   - **AR**: مرجع AutoBridge لمشتري التصدير — SAIC Maxus Xintu V90, مركبة بمحرك احتراق (سوق الصين) / شاحنة فان للبضائع
   - **ZH**: AutoBridge 出口采购参考｜SAIC Maxus Xintu V90, 中国市场燃油车 / 厢式货车
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## المصدر: التحقق
+| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
-| Xintu V90 (5498 body) | Sohu Auto database | CN | https://db.m.auto.sohu.com/model_5902/config?sliding=1&selectedTrimId=173112 | 2026-09-03 | CROSS_CHECKED | Class, body dimensions |
-| SAIC MIS 2.0T diesel power lineage | PCauto encyclopedia | CN | http://m.pcauto.com.cn/baike/806544/1579332/ | 2026-09-03 | CROSS_CHECKED | 110/130 kW, 375 N·m, RWD, dual rear wheel |
-| V90 2025 130 kW / 420 N·m | 16888 Auto | CN | https://m.16888.com/news/2026/0728/24803230.html | 2026-09-03 | CROSS_CHECKED | 130 kW/420 N·m, ZF 8AT, 9–15 seats (seats single-source) |
-| Xintu V90 2024 parameters | Sina Auto database | CN | http://db.auto.sina.cn/car/71018/ | 2026-09-03 | CROSS_CHECKED | 5498/2062/2545, wheelbases 3366/3760 |
-| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
-| GB 18352.6-2016 with amendment XG1-2026 (China- 6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
-| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
+| تشكيلة قدرها V90 شينتو (5498 جثة) | قاعدة بيانات سوهو | CN | https://db.m.auto.sohu.com/model_5902/config?sliding=1&selectedTrimId=173112 | 2026-09-03 | صرخات | الدرجة، أبعاد الجسم |
+| SAIC MIS 2.0T خط طاقة الديزل | PCauto encyclopedia | CN | http://m.pcauto.com.cn/baike/806544/1579332/ | 2026-09-03 | صرخات | 110/130 kW, 375 N·m RWD، عجلة ذات خلفية مزدوجة |
+| V90 2025 130 kW / 420 N·m | 16888 Auto | CN | https://m.16888.com/news/2026/0728/24803230.html | 2026-09-03 | صرخات | 130 kW / 420 N·m، و 8AT فرنك، و 9–15 مقعد (مجلس واحد المصدر) |
+| Xintu V90 2024 parameters | قاعدة بيانات سينا أوتو | CN | http://db.auto.sina.cn/car/71018/ | 2026-09-03 | صرخات | 5498/2062/2545، قاعدة عجلات 3366/3760 |
+| مصممو السيارات على الطرق - نظام الاستفسارات العامة | وزارة الصناعة وتكنولوجيا المعلومات في الصين | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | مفقود | التحقق من الصانع والنموذج المعتمد والهجوم (公告) |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | مفقود | الشروط التقنية المتعلقة بسلامة المركبات في الصين والإطار الزمني الحالي/التنقيحي |
+| 18352.6-2016 GB مع التعديل XG1-2026 (الصين - 6 من انبعاثات ملوثات المركبات الخفيفة) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | مفقود | الصين - 6 مرحلة انبعاثات المركبات الخفيفة ومواعيد تنفيذ التعديل البالغ 2026 |
+| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | مفقود | درجة وقود الديزل وقاعدة الكبريت لمطابقة تصميم المحركات/البعثة في الخارج |
 
-*Confidence note: no SAIC Maxus primary spec sheet was captured; values are cross-checked Chinese databases, seat count is single-source and bound to the homologated model code. No price was available and none is asserted. Destination approval is configuration-specific.*
+* ملاحظة الملاءمة: لم تُسجل أي صحيفة أولية من صحيفة SAIC Maxus؛ والقيم هي قواعد بيانات صينية مدققة، وحساب المقاعد هو مصدر واحد، وملتزمة برمز النموذج المتجانس. ولم يكن هناك أي ثمن ولا يوجد أي ثمن مؤكد. الموافقة على تحديد الوجهة هي تحديداً للتشكيل. ♪
 
-## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: China, Xintu V90 platform (Chinese-market reference; configuration-specific)
-- **Verification method**: Multi-database cross-check; configuration-matrix logic; single-source seats flagged
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+## استعراض التحرير
+- ** مستعرض/مراجع**: [فريق تحرير تصدير أوتو بريدج] (/مؤلف/) - طريقة لكل [سياستنا الانتخابية] (/سياسة التحرير/)
+- ** لم يُستعرض بعد**: 2026-09-05
+- ** سوق الإحالة**: الصين، منصة Xintu V90 (المرجع المتعلق بالسوق الصينية؛ التشكيلة الخاصة)
+- ** طريقة التأجيل**: التحقق من قاعدة البيانات المتعددة؛ منطق التكوين - المفارقة؛ المقاعد ذات المصدر الواحد التي أُشير إليها
+- ** المعيار الإفريقي**: باحثة ومحررة من المصادر المذكورة أعلاه (بحوث مكتبية؛ ولا يُدَّعى عن أي قيادة مباشرة أو تمزق أو استيراد). وتظهر الثقة في المصدر في الصف الواحد؛ وأي نقطة لا يمكننا تأكيدها بشكل مستقل تعرض كبند تحقق بدلا من التأكيد على أنها حقيقة.
 #AutoBridge #VehicleExport #SAICMaxus #V90 #DieselVan

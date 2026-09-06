@@ -1,72 +1,75 @@
-# MBL, HBL, Telex Release or Sea Waybill? Choosing a Vehicle's Release Method Under the 2025 Maritime Code
+# MBL, HBL, Telex ปลดปล่อย หรือ Sea Waybill? Choosing a Vehicle's Release Method Under the 2025 Maritime Code
 
-## SEO Metadata
-- **SEO Title**: Vehicle Export Bill of Lading Guide — MBL/HBL/Telex/SWB + Maritime Code Arts. 80/81/87
-- **Meta Description**: How master bills, house bills, telex release and sea waybills differ, the transferability/delivery rules in China's revised Maritime Code (in force 2026-05-01, Arts. 80/81/87), and matching release method to payment terms.
-- **Suggested URL**: /guides/vehicle-export-bill-of-lading-types
-- ~ H1~: Picking a Bill-of-Lading Release Method for an Exported Vehicle — Business Practice Anchored in the Revised Maritime Code
-- **Primary Keyword**: vehicle export bill of lading mbl hbl telex release seawaybill
-- **Secondary Search Terms**: Maritime Code 2025 revision, article 80 bill of lading transfer, article 81 other transport document, article 87 delivery, NVOCC HBL, order bill telex
-- **Internal Link Suggestions**: / Guides/ocian-frain-fried-fried-fried-Vical-export/. /guides/vehicle-export-pdi-pre-shipment-handover/ ; /guides/export-vehicle-document-package/
-- **Image Suggestions**: four-method comparison; negotiability ladder vs payment; MBL/HBL chain; Arts.80/81/87 delivery flow
-- **ALT Suggestions**: "MBL HBL telex sea waybill negotiability under revised Maritime Code"
+## เชา ข้อมูลกํากับภาพ
+- **SEO Title**: ไดรเวอร์ส่งออกบิลล์ของ Laridge Tuch — MBL/HBL/Telex/SWB + mycode Arts (Mariotime Code Art). 80/81/87
+- ""คําอธิบาย" วิธีค่าใช้จ่ายหลัก, ค่าใช้จ่ายบ้าน, การปล่อยโทรคมนาคมและ wayballs ทะเลที่แตกต่างกัน, กฎการโอน/ส่งใน ประมวลกฎหมายแก้ไขของจีน amritime (ในบังคับ 2026-05-01, Arts. 80/81/87) และตรงกับวิธีการปลดปล่อยวิธีการชําระเงิน
+- ~ที่อยู่ URL ที่ถูกย่อ *: / guides/ wehinekic-export-ball-lading-ประเภท
+- ** H1 ~: เลือกวิธีการปลดปล่อยบิล-แอดิ้ง สําหรับรถที่ส่งออก — การปฏิบัติธุรกิจที่ยึดติดในรหัสการท่องเที่ยว
+- ~คําสําคัญ~ เอกสารการส่งออกรถของ Kering mbl hblel Tex ปล่อยซีเวย์บิล
+- ~การค้นหาตามวาระที่: ~ Martime Code 2025 รุ่นเพิ่มเติม บทความ 80 ใบแจ้งหนี้การโอนกิจการ, บทความ 81 เอกสารการขนส่งอื่น ๆ, บทความที่ 87 การส่งมอบ, เอ็นวีโอซีเอชบีแอล, คําสั่งโทรคมนาคม (PDF).
+- ** เชื่อมโยงภายใน *: / guides/ocian-fri-fric-Inter-exic-export/; / guides/veics-export-pdi-pre-pleadover/;//////guide/ exportic-docycument-comport-comProfile
+- ข้อเสนอแนะ: เปรียบเทียบสี่เมธอด เงินจ่ายที่ไม่น่าเป็นไปได้ของเว็บไซต์ vs; ห่วงโซ่ MBL/ HBL; Arts. 80/81/87 การส่งถ่ายโอน
+- ข้อเสนอแนะ: "MBL HBL ทางทะเล wayball continuous in recorded Marritime code"
 
-## The Procurement Problem Is Cargo Control, Not Paperwork
-Exporters treat the bill-of-lading choice as documentation. It is a **payment-risk decision**: the moment you move from an original negotiable bill to telex release or a sea waybill, you change when you stop controlling the vehicle at destination. This guide pairs the four instruments' business behaviour with the **current Chinese statutory backbone** — the *Maritime Code of the PRC*, **revised on 2025-10-28 by the 18th session of the 14th NPC Standing Committee (Presidential Order No.58), in force from 2026-05-01 (16 chapters, 310 articles)** — and then matches method to payment terms. Carrier/port-specific telex rules and fees remain voyage-specific and are not stated as fixed values.
+## ปัญหา เรื่อง การ ประกัน ภัย คือ การ ควบคุม คาร์โก ไม่ ใช่ งาน กระดาษ
+ผู้ส่งออกมองว่าตัวเลือกการเรียกเก็บเงินเป็นเอกสาร มันเป็นการตัดสินใจที่เสี่ยงต่อการชําระเงิน เมื่อคุณย้ายจากบิลต่อรองเดิม ไปปล่อยโทรคมซ หรือรถรางทะเล คุณจะเปลี่ยนเวลาหยุดควบคุมรถที่จุดหมายปลายทาง มัคคุเทศก์คนนี้จับคู่พฤติกรรมธุรกิจของเครื่องมือสี่ชิ้น กับระบบอาหารจีนที่ยังคงดําเนินอยู่  **revised on 2025-10-28 by the 18th session of the 14th NPC Standing Committee (Presidential Order No.58),  in force from 2026-05-01 (16 chapters, 310 บทความ) "*" —  and  แล้ววิธีจ่ายก็เข้าเงื่อนไข กฎโทรคมนาคมและค่าธรรมเนียมต่าง ๆ ยังจํากัดการเดินทาง และไม่ได้รับระบุว่าเป็นค่าที่ตั้ง
 
-## The Four Instruments Side by Side
-| Method | Who issues | How the consignee takes delivery | Shipper holds a paper document of title? |
+## สี่ เครื่อง มือ ข้าง เคียง
+| วิธีการ | ใครนะที่เป็นปัญหา | วิธี ที่ ผู้ ส่ง ส่ง ส่ง ของ | เรือถือเอกสารของชื่อ? |
 |---|---|---|---|
-| ~Marster B/L (MBL)** | Shipping line / its agent | Surrender original MBL (or follow line procedure) | Yes — contract of carriage + document-of-title function |
-| **House B/L (HBL)** | NVOCC / freight forwarder | HBL consignee exchanges HBL for MBL via the forwarder's destination agent | Yes at HBL level, with an extra party in the chain |
-| **Telex Release** | Carrier after shipper returns/forgoes originals | Electronic release instruction; collect on a copy + identity | **No** — paper title is given up at release |
-| ~Sea Wayball (SWB)** | Carrier | Named consignee collects on proof of identity; non-negotiable | **No** — not a document of title, not transferable |
+| ~Marster B/L (MBL)** | สายส่ง / ตัวการ | ยอมแพ้ต่อ MBL ดั้งเดิม (หรือขั้นตอนตามบรรทัด) | ใช้ — สัญญาของสายการบิน + ฟังก์ชันเอกสาร- ชื่อ |
+| ~ บ้าน B/L (HBL) ~ * | ส่งต่อไปยังบริการ NVOC / Passage | HBL แลกเปลี่ยน HBL สําหรับ MBL ผ่านตัวแทนปลายทางของตัวส่งหน้า | ใช่ที่ระดับ HBL มีบุคคลที่พิเศษในห่วงโซ่ |
+| ~ปล่อยเทเล็กซ์~ | Carer หลังจาก Super จะส่งค่ากลับมา/ Forgos ดั้งเดิม | คําสั่งปล่อยอิเล็กทรอนิกส์; เรียกข้อมูลต่าง ๆ จากสําเนา + การแสดงตัว | ~ไม่ -- ชื่อกระดาษจะถูกยกให้เมื่อปล่อย~ |
+| ~Sea Wayball (SWB)** | แคชเชียร์ | Passer ที่มีชื่อ เก็บรวบรวมเมื่อพิสูจน์การแสดงตัว; ไม่ต่อรอง | ~ไม่* -ไม่ใช่เอกสารชื่อเพลง แต่ไม่สามารถโอนได้ |
 
-## The Statutory Backbone: Transferability, Other Documents, Delivery
-The revised Maritime Code supplies the legal architecture behind those business differences:
-- **Article 80 — transfer of bills of lading**: a **straight (named) B/L is not transferable**; an **order B/L** transfers by **special endorsement or blank endorsement**; a **bearer B/L** transfers **without endorsement**. This is why "to-order/blank" bills are the instrument that preserves control — and why they generally cannot simply be telex-released away.
-- **Article 81 — other transport documents**: a document other than a B/L that the carrier issues to evidence receipt of goods for carriage is **prima facie evidence both of the contract of carriage by sea and of the carrier's receipt** of the listed goods. This frames **non-title documents such as a sea waybill**: they evidence receipt and contract but do not carry a B/L's negotiable document-of-title function.
-- **Article 87 — delivery rules**: under a **straight B/L**, delivery is to the **named consignee**; under an **order B/L**, to the **endorsee**; under a **bearer or blank-endorsed order B/L**, to the **holder**; a **transferable electronic transport record** is delivered to its **holder**. These rules determine exactly who is entitled to collect the vehicle.
+## กระดูก สัน หลัง: การ เคลื่อน ย้าย, เอกสาร อื่น ๆ, การ ส่ง
+รหัสของมาริไทม์ที่แก้ไขใหม่ ทําหน้าที่สร้างสถาปัตยกรรมทางกฎหมายเบื้องหลังความแตกต่างของธุรกิจเหล่านั้น
+- ~. arcyle 80 — การโอนบิลค่าตัว krigining ~: ~strain (ชื่อ) B/L ไม่สามารถโอนได้~; an- assigt transfers by ~ enterfor perition ~; a ~ period/L~ ~ โดยไม่ได้รับโอนข้อมูล ~ ~ ~ ไม่ได้รับการอนุมัติ~ นี่คือเหตุผลว่าทําไมบิล "to-sholt/Blank" จึงเป็นเครื่องมือที่รักษาการควบคุมไว้ และสาเหตุที่มันไม่สามารถถูกแยกออกง่ายๆ
+- ~ artery 81 — เอกสารการขนส่งอื่น ๆ ~: เอกสารอื่นที่ไม่ใช่ B/L ที่การให้บริการปัญหา เพื่อเป็นหลักฐานใบเสร็จสินค้าสําหรับการขนส่ง เป็น ~proma Facey หลักฐานทั้งสัญญาของการขนส่งทางทะเลและของใบเสร็จของพาวเดอร์ ~ของสินค้าที่มีชื่อรายการ กรอบนี้... เอกสารไม่มีชื่อ เช่น เวย์บิล พวกเขามีหลักฐานใบเสร็จและสัญญา แต่ไม่ต้องพก การทํางานของเอกสารการต่อรองของ B/L
+- ~ artery 87 — กฎการส่งมอบ ~: ภายใต้รายการ "B/L" ส่งให้กับ "ผู้ส่ง" ภายใต้คําสั่ง "B/L" ไปที่ เดอะ เอ็นเตอร์ดอร์วิว" ภายใต้คําสั่ง perider หรือ an-flows ass (B/L), to the period) สถิติการขนส่งอิเล็กทรอนิกส์ที่ส่งถึงเจ้าของได้ กฎ เหล่า นี้ กําหนด ว่า ใคร มี สิทธิ์ จะ เก็บ สัมภาระ นั้น.
 
-## Where the Risk Sits in Practice
-- **Before full payment, telex release and SWB both hand release forward early**, because no negotiable original remains in the shipper's hands (the Article 80/81 distinction explains why). Match them to **pre-paid T/T** or a fully secured position.
+## ที่ ซึ่ง ความ เสี่ยง อยู่ ใน การ ปฏิบัติ
+- ~ ก่อนจ่ายเงินเต็ม จํานวนผู้โทรออก และ SWB ยกมือออกทั้งคู่ก่อนกําหนด~ ~เพราะไม่มีการต่อรองของเดิมในมือของผู้ส่งเรือ (มาตรา 80/81 ความแตกต่างอธิบายว่าทําไม~ จับคู่พวกมันกับ... ที/ที หรือตําแหน่งที่ปลอดภัย
 - **Order/to-order bills generally cannot be telex-released** — their negotiability (Art.80) is the control mechanism.
-- **HBL adds a chain dependency**: the buyer cannot collect until the NVOCC's overseas agent converts HBL to MBL; check that agent before choosing house paper.
-- **Port/country acceptance varies** (some South American destinations are reported not to accept telex release) — confirm with the carrier and destination agent **per shipment**, per the Art.87 delivery route that will actually apply.
+- ~HBL เพิ่มสิ่งเชื่อมโยงทางห่วงโซ่~: ผู้ซื้อไม่สามารถรวบรวมได้จนกว่าตัวแทนของ NVOCC ต่างประเทศของ จะเปลี่ยน HBL เป็น MBL; ตรวจดูตัวแทนที่ก่อนที่จะเลือกกระดาษที่บ้าน
+- ~Port/Romebie exception exculate~ (บางจุดปลายทางอเมริกาใต้แจ้งว่าไม่ตอบรับการปล่อยโทรคมนาคม) — ได้รับการยืนยันกับตัวแทนขนส่งและปลายทาง **. ขนส่งผ่านทางรถไฟ 'Peraut', ดําเนินการโดยเส้นทางขนส่งของอาร์ท. 87 ที่ใช้จริง.
 
-## Matching Method to Payment Terms
-- **T/T in advance / fully pre-paid**: telex or SWB is workable; control leverage is no longer needed.
-- ~/C~: follow the credit exactly — it typically demands a negotiable B/L consigned/endorsed as stated; substituting SWB creates a discrepancy.
-- **Balance against B/L / open account**: keep the original negotiable MBL (Art.80 order/bearer control) until payment conditions are met; never telex-release an unpaid vehicle.
-- **RoRo vs container**: both release against the ocean B/L; confirm the line's procedure and the Art.87 consignee route before choosing the instrument.
+## วิธี ที่ เข้า กัน กับ การ จ่าย
+- </T/T ล่วงหน้า / เต็มจํานวนค่าจ้าง: TTextx หรือ SWB สามารถทํางานได้ ความสามารถในการควบคุมไม่ต้องการอีกต่อไป
+- L/COF: ทําตามเครดิตเป๊ะๆ -- โดยทั่วไปแล้วต้องเจรจาต่อรอง B/L ส่ง/ส่ง/ส่งท้ายตามที่กล่าวมา การแทนที่ SWB สร้างความแตกต่างขึ้น
+- ** ค่าใช้จ่ายในการต่อกรกับ B/L / บัญชีผู้ใช้แบบเปิด *: คงการต่อรอง MBL เดิม (Art. 80 คําสั่ง/ผู้ส่ง) จนกว่าจะบรรลุเงื่อนไขการชําระเงิน; ไม่เคยทําการเรียกข้อมูลโทรศัพย์รถที่ไม่ได้จ่าย
+- ~RoRo vs Taffice~: ทั้งคู่ปล่อยต่อกับมหาสมุทร B/L; ยืนยันขั้นตอนของสายและเส้นทางการส่งมอบสินค้า 87 ก่อนเลือกอุปกรณ์นี้
 
-## Questions to Put to the Forwarder Before Booking
-1. Who is the MBL carrier, and (if HBL) the NVOCC and its destination agent?
-2. Does this destination/consignee accept telex release, and which Art.87 delivery route applies?
-3. Is the consignment straight, order or bearer — and is the bill negotiable?
-4. Which release method matches the agreed T/T or L/C timeline?
-5. What are the line's release/switch fees for this voyage (quoted, never assumed)?
+## คํา ถาม ที่ ควร ถาม คน หน้า ก่อน จะ ทํา บัญชี
+1. ใครคือ MBL และ (ถ้า HBL) NVOCC และตัวแทนปลายทางของ?
+2. ปลายทางนี้/ Concigentee รับการปล่อยโทรออก และใช้เส้นทางส่งของที่อาร์ท 87 ใช้หรือไม่?
+3. การ ส่ง หมาย เลข ระเบียบ หรือ ผู้ รับ — และ การ เจรจา เรียก เก็บ เป็น เรื่อง ตรง ไป ตรง มา ไหม?
+4. วิธีการปล่อยใดตรงกับที่ตกลง T/T หรือ L/C timetime?
+5. ค่าใช้จ่ายการปลดปล่อย/เวทย์ของสายสําหรับการเดินทางครั้งนี้คืออะไร (อ้างอิงไม่เคยคาดเดา)?
 
-## Boundaries of This Guide
-- Carrier-specific telex rules and **fees are time-sensitive and voyage-specific**; no fixed number is stated.
-- Statutory citations use the **2025-revised Maritime Code in force 2026-05-01**; pre-revision article wording must not be treated as current.
+## ผู้ รับ ใช้ ของ พระ ยะ โฮ วา ใน สมัย โบราณ
+- กฎโทรคมนาคมที่ระบุ เวลาและเวลาจํากัด; ไม่มีระบุจํานวนคงที่
+- การบันทึกค่าสถิติ ใช้รหัสมาริไทม์ 2025-revised ในแรง 2026-05-01 **; ก่อนการแก้ไขคําจะไม่ถือว่าเป็นปัจจุบัน
 
-## Frequently Asked Questions
-**Which Maritime Code articles govern B/L transfer and delivery?** Art.80 (transfer: straight/order/bearer), Art.81 (other transport documents such as SWB) and Art.87 (delivery to named consignee/endorsee/holder).
-**Safest release method before payment?** Retain an original negotiable (order/bearer) B/L; avoid telex/SWB until payment is secured.
-**Is a sea waybill a document of title?** No — under the Art.81 framing it evidences contract and receipt but is non-negotiable; the named consignee collects on identity.
-**Can an order bill be telex-released?** Generally no; its Art.80 negotiability is the control mechanism.
+## คํา ถาม ที่ มัก จะ ถาม บ่อย ๆ
+~ซึ่งเวลาของยาม Sode News ครอบคลุมการโอนและส่ง B/L? ~ ศิลปะ 80 (Transfer: Bright/ asser/ perider), Art. 81 (เอกสารการขนส่งอื่น ๆ เช่น SWB) และ Art. 87 (ส่งถึงชื่อเดิมว่า Passage/endorser/ser).
+~ วิธีปล่อยของอัตโนมัติ ก่อนจ่ายเงิน~ สํารองการต่อรองดั้งเดิม (ลําดับ/ ผู้ส่ง) บี/แอล; หลีก เลี่ยงโทรคมซ/เอสดับเบิลยูบี จนกว่าจะมีการชําระหนี้
+~ทะเลมีเอกสารชื่อเล่นหรือเปล่า~ 81 จัดฉากสัญญาและใบเสร็จหลักฐาน แต่ไม่มีการต่อรอง ผู้ส่งชื่อในชื่อ ตัวตน
+~ คําสั่งสามารถถูกสั่งจ่ายโดยโทรศัพย์ได้หรือ ~ โดยทั่วไปแล้วไม่ งานศิลปะ 80 ความสามารถในการไม่เข้าคายไม่ออก คือกลไกควบคุม
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICNE_OR_USARIAND_BALE: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
-- RODL_TOIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- ALT by language:
+## บันทึกรูปภาพ
+- _ปราสาท: ไม่มีความปลอดภัยในคลังเก็บ
+- ส่วนตัว_ปลายทาง: ไม่ได้จับ
+- ผู้โดยสาร: ไม่ถูกจับ
+- HOURS_ PDFAGE: ไม่มีผล — ไม่มีชื่อแฟ้มสําหรับเลือกสื่อ (ไม่มีใบรับรองที่จะยืนยัน)
+- ลิขสิทธิ์: ไม่ยืนยัน
+- LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
+- _กําหนดวันที่: 2026-09-06
+- MERCUL_ TOPIC_ MATCH: ต้องตรงกับรุ่น/ การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
+- CHAR_SCPE_NOTE: ตรงกับโมเดลที่เป๊ะของครอบครัว/ topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
+- March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
+- BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
+- ALT ด้วยภาษา:
   - **EN**: AutoBridge export-buyer reference — MBL HBL telex release and sea waybill, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — MBL HBL telex release and sea waybill, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — MBL HBL telex release and sea waybill, Leitfaden für Fahrzeugexport-Einkauf
@@ -80,26 +83,26 @@ The revised Maritime Code supplies the legal architecture behind those business 
   - **AR**: مرجع AutoBridge لمشتري التصدير — MBL HBL telex release and sea waybill, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜MBL HBL telex release and sea waybill, 汽车出口采购指南
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## ต้นฉบับและการตรวจสอบสิทธิ์
+| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| Maritime Code of the PRC (2025 revision, Presidential Order 58, in force 2026-05-01) full text | NPC Standing Committee (npc.gov.cn) | CN | http://www.npc.gov.cn/c2/c30834/202510/t20251028_449061.html | 2026-09-04 | VERIFIED (primary) | Arts.80/81/87, version and effective date |
-| Original B/L / telex / Sea Waybill explained | NetEase business wiki | INTL | https://www.163.com/dy/article/L0J4JN3F0556HN78.html | 2026-09-04 | ROOS_ CHCKED | MBL/SWB/telex definitions |
-| Master bill vs house bill | Sina Finance | INTL | https://finance.sina.com.cn/roll/2026-08-15/doc-ininkrwq1888009.shtml | 2026-09-04 | ROOS_ CHCKED | MBL/HBL chain, vehicle practice |
-| Release methods and B/L types | 11467 industry knowledge | INTL | https://m.11467.com/product/d15253354.htm | 2026-09-04 | ROOS_ CHCKED | Four-method comparison |
-| Four release methods and telex risk (South America note) | NetEase | INTL | https://www.163.com/dy/article/K17GLBOG0556820S.html | 2026-09-04 | SINGLE_SOURCE | Order-bill limit, port acceptance |
-| International transport of goods conventions and model laws | UNCITRAL | Int'L | https://uncitral.un.org/en/texts/transportgoods | 2026-09-05 | VERIFIED | Comparative legal framework for carriage documents (Hague-Visby/Hamburg/Rotterdam context) |
-| Standard shipping documents and clauses reference | BIMCO | Int'L | https://www.bimco.org/ | 2026-09-05 | VERIFIED | Industry-standard maritime document/clause reference |
-| FIATA transport documents and freight-forwarder practice | International Federation of Freight Forwarders (FIATA) | Int'L | https://fiata.org/ | 2026-09-05 | VERIFIED | Forwarder document (FBL/FCR) practice distinguishing carrier B/Ls |
+| ประมวลกฎหมายของ PRC (2025 รุ่น, คําสั่งประธานาธิบดี 58, ในบังคับ 2026-05-01) พ.ศ. | NPC คณะกรรมการยืน (NPc.gov.cn) | CN | http://www.npc.gov.cn/c2/c30834/202510/t20251028_449061.html | 2026-09-04 | ISIFIE (เมษายน) | Arts.80/81/87, รุ่น  and  วันที่ที่มีผล |
+| ต้นฉบับ B/L / TVx / Sea Waybill อธิบาย | วิกิพีเดียName | INTL | https://www.163.com/dy/article/L0J4JN3F0556HN78.html | 2026-09-04 | ROOS_ CHCKED | นิยาม MBL/SWB/เทลเท็กซ์ |
+| บิลค่าบ้าน | เงินลงทุนของ Sina | INTL | https://finance.sina.com.cn/roll/2026-08-15/doc-ininkrwq1888009.shtml | 2026-09-04 | ROOS_ CHCKED | MBL/ HBL ห่วงโซ่, ฝึกรถ |
+| วิธีการปล่อยและประเภท B/L | 11467 สาขาความรู้อุตสาหกรรม พ.ศ. | INTL | https://m.11467.com/product/d15253354.htm | 2026-09-04 | ROOS_ CHCKED | เปรียบเทียบสี่เมธอด |
+| สี่วิธีปล่อยและความเสี่ยง Telex (อเมริกา) | เน็ตส | INTL | https://www.163.com/dy/article/K17GLBOG0556820S.html | 2026-09-04 | ผู้โดยสาร_ปลายทาง | จํากัดระดับความจุแบบลําดับ, การยอมรับพอร์ต |
+| การ ขน ส่ง สินค้า จาก ประเทศ ต่าง ๆ เพื่อ จัด การ ประชุม ภาค และ กฎหมาย แบบ จําลอง | ยูนิเซฟ | Int'L | https://uncitral.un.org/en/texts/transportgoods | 2026-09-05 | เปิดใช้งาน | โครงสร้างทางกฎหมายเปรียบเทียบสําหรับเอกสารการขนส่ง (Hague-Visby/ Hambburg/Rotterdam) |
+| อ้างอิงเอกสารการส่งและข้อตกลงมาตรฐาน | บิสโค | Int'L | https://www.bimco.org/ | 2026-09-05 | เปิดใช้งาน | การอ้างอิงแบบมาตรฐานแบบอุตสาหกรรม |
+| FIATA ขนส่งเอกสารและบริการสินค้า | สหพันธ์นานาชาติแห่งฟรีตีฟลายเวอร์ (FIATA) | Int'L | https://fiata.org/ | 2026-09-05 | เปิดใช้งาน | เอกสารส่งต่อ (FBL/FCR) ฝึกแยกส่วน B/Ls |
 
-*Confidence note: statutory backbone VERIFIED via the NPC full text of the 2025 revision (in force 2026-05-01); business definitions cross-checked; carrier fees/port acceptance remain voyage-specific.*
+*Confidence ข้อสังเกต: transcial parame interfect interviewed ผ่านข้อความเต็ม NPC ของรุ่น 2025 (ในบังคับ 2026-05-01); นิยามธุรกิจ cross-cogned; ค่าใช้จ่าย/ transcial assed ยังคงกําหนดการเดินทาง- sport exception. *
 
-## Editorial Review
-- **Author**: AutoBridge Export Editorial Team · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: Chinese statute + international ocean freight practice (carrier-specific values excluded)
-- **Verification method**: Primary NPC statute for legal rules; multi-source cross-check for business practice
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+## การทบทวนแก้ไข
+- ** aultor*: AutoBridge ส่งออกวิธีการแก้ไขคําทีม (AutoBridge) ต่อ [นโยบายแก้ไข] ของเรา (/Dercial-policy/)
+- ~ถูกตรวจสอบแล้ว~: 2026-09-05
+- ~ตลาดรวม~: กฎของจีน + การดําเนินงานข้ามมหาสมุทรระหว่างประเทศ (ห้ามใช้ค่าน้ําจืด)
+- ** วิธีการแบ่งเขต *: กฎเกณฑ์ NPC หลักสําหรับกฎหมาย; การตรวจสอบหลายแหล่งเพื่อปฏิบัติธุรกิจ
+- การร่างแบบ AI-assisted ถูกใช้ บทความนี้ตั้งอยู่บนพื้นฐานของงานวิจัยในตาราง และอัตโนมัติ QA ไม่มีการอ้างอิงการทดสอบก่อน จนกว่าจะมีการระบุรายละเอียดอย่างชัดเจน ยืนยันความต้องการที่ต้องใช้เวลาและกําหนดปลายทาง ก่อนทําการข้ามเวลา
+- ~มาตรฐานการแบ่งส่วน ~: Research and med from the source address address (Desk Research; ไม่มีการขับรถมือหนึ่ง, runchown หรือนําเข้า). ความมั่นใจของแหล่งแสดงต่อแถว; จุดใด ๆ ที่เราไม่สามารถยืนยันได้ด้วยตัวเอง ถูกนําเสนอเป็นรายการตรวจสอบแทนการยืนยันว่าเป็นความจริง
 
 **Tags**: #BillOfLading #MaritimeCode #TelexRelease #SeaWaybill #ExportRisk

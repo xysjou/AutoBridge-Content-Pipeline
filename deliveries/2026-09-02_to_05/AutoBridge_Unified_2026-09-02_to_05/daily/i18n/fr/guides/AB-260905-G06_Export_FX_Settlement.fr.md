@@ -3,11 +3,11 @@
 ## OEuvre Métadonnées
 - ** Titre du SEO**: Règlement sur les exportations de la Chine: enregistrement, conversion et contrôle de l'agrégation des échanges de FX
 - **Description détaillée**: Comment un exportateur de véhicules chinois traite les reçus d'exportation: enregistrement de répertoires dans une banque avant la première transaction, règlement/conversion, et vérification globale SAFE des flux de marchandises par rapport aux flux de fonds.
-- ** H1 **: Règlement sur les exportations de FX et administration de la FX pour les exportateurs de véhicules
+- ** H1 **: Administration du règlement des droits d'exportation et de commerce-FX pour les exportateurs de véhicules
 - ** Mot-clé principal**: exportation fx commerce de règlement fx enregistrement
 - **Conditions de recherche secondaires**: règlement des transactions sur les devises; commerce extérieur; enregistrement SAFE; flux de fonds de transport de marchandises; plateforme ASOne
 - **URL suggérée**: /guides/export-fx-settlement-trade-fx-registration/
-- **Intention de la recherche**: 出口企业如何办理贸易外汇收支企业名录登记、收汇结汇并满足货物流-资金流匹配核查
+- **Intention de la recherche**: 出口企业如何办理贸易外汇收支企业名录登记 -收汇结汇并满足货物流 - 资金流匹配核查
 - **Suggestions de lien interne**: /guides/export-payment-methods-t-t-lc-risk/, /guides/china-export-vat-refund-process/, /guides/china-export-customs-declaration-single-window/
 - **Schema Champ d'application**: article (pas de produit/offre/examen)
 
@@ -15,10 +15,10 @@
 Avant qu'un exportateur chinois puisse recevoir son premier paiement à l'exportation, il doit être inscrit au répertoire ** des entreprises de change. Dans le cadre actuel, l'étape d'approbation préalable de la SAFE a été supprimée: l'entreprise complète **l'enregistrement de répertoires auprès de sa banque nationale** après avoir obtenu des droits d'exploitation du commerce extérieur, et cette inscription précède le premier reçu/paiement. Une entreprise qui signe son premier véhicule d'exportation sans cette étape découvrira le problème au moment où l'argent devrait arriver.
 
 ## Règlement, conversion et correspondance entre les biens et les fonds
-Les recettes d ' exportation sont traitées par le biais du système bancaire; conversion en RMB suit les règles de compte. SAFE supervises trade FX through an **aggregate (总量) verification** that matches the **goods flow** (customs declarations) against the **funds flow** (receipts), rather than approving each transaction in advance. Les entreprises sont classées de manière dynamique; Les erreurs de concordance entre ce qui a été déclaré exporté et ce qui a été reçu attirent l'attention.
+Les recettes d'exportation sont traitées par le canal bancaire; la conversion en RMB suit les règles de compte. SAFE supervise le commerce de FX par une vérification globale (总量)** qui correspond au flux de **marchandises** (déclarations douanières) par rapport au flux de **fonds** (reçus), plutôt que d'approuver chaque transaction à l'avance. Les entreprises sont classées dynamiquement; les erreurs d'appariement entre ce qui a été déclaré exporté et ce qui a été reçu attirent l'attention.
 
 ## Où le travail est effectué
-Routine registration and reporting are handled at the bank and through the digital foreign-exchange platform (ASOne/数字外管); Les directions régionales de la SAFE délivrent des directives, mais elles ne sont qu'une seule autorité — la direction générale n'est pas un organisme de réglementation distinct. Conservez la déclaration en douane, la réception bancaire et la facture alignées de sorte que la comparaison globale se rapproche au cours de la période.
+L'enregistrement et la déclaration sont effectués de façon courante à la banque et par l'intermédiaire de la plateforme numérique de change (ASOne/ 数字外管); les succursales régionales de la SAFE donnent des conseils, mais elles ne sont qu'une seule autorité, la succursale n'étant pas un organisme de réglementation distinct. Conservez la déclaration en douane, la réception bancaire et la facture alignées de sorte que la comparaison globale se rapproche au cours de la période.
 
 ## Liste de contrôle opérationnelle
 1. Obtenir des droits de commerce extérieur, puis compléter l'inscription du répertoire Trade-FX à la banque **avant le premier reçu**.
@@ -41,16 +41,19 @@ Les produits spécifiques des comptes, les frais bancaires et les écrans opéra
 ## Sources et vérification
 | Source | Organisation | Marché | Niveau | Confiance | URL | Faits corroborés |
 |---|---|---|---|---|---|---|
-| 关于进一步优化贸易外汇业务管理的通知（名录登记改由银行办理） | 国家外汇管理局 | NC | T1 | VÉRIFIER | http://www.safe.gov.cn/yunnan/2024/0408/1537.html | 取消外汇局核准, 境内银行办理名录登记, 首笔收支前登记 |
-| 货物贸易外汇业务办事指南（名录登记条件） | 国家外汇管理局吉林省分局 | NC | T1 | VÉRIFIER | https://www.safe.gov.cn/jilin/file/file/20190617/91d454729ccc456c9b2e6a92cd6bcc51.pdf | 取得对外贸易经营权后办名录 |
-| 货物贸易外汇管理（非现场总量核查/分类管理） | 国家外汇管理局文告 | NC | T1 | VÉRIFIER | https://www.safe.gov.cn/safe/file/file/20170726/e97561d6d9ca4ba881d275fcb62bad2e.pdf | 总量核查, 货物流资金流匹配, 动态分类 |
-| 名录登记网上办理操作指引（ASOne平台） | 国家外汇管理局广东省分局 | NC | T1 | VÉRIFIER | https://www.safe.gov.cn/guangdong/file/file/20210429/babf0a6020e84b4585a7ba6737bb2c41.pdf | 数字外管平台ASOne操作 |
+| 关于进一步优化贸易外汇业务管理的通知 (名录登记改由银行办理) | 国家外汇管理局 | NC | T1 | VÉRIFIER | http://www.safe.gov.cn/yunnan/2024/0408/1537.html | 取消外汇局核准, 境内银行办理名录登记, 首笔收支前登记 |
+| 货物贸易外汇业务办事指南 (名录登记条件) | 国家外汇管理局吉林省分局 | NC | T1 | VÉRIFIER | https://www.safe.gov.cn/jilin/file/file/20190617/91d454729ccc456c9b2e6a92cd6bcc51.pdf | 取得对外贸易经营权后办名录 |
+| 货物贸易外汇管理 (非现场总量核查 / 分类管理) | 国家外汇管理局文告 | NC | T1 | VÉRIFIER | https://www.safe.gov.cn/safe/file/file/20170726/e97561d6d9ca4ba881d275fcb62bad2e.pdf | 总量核查, 货物流资金流匹配, 动态分类 |
+| 名录登记网上办理操作指引 (ASOne 平台) | 国家外汇管理局广东省分局 | NC | T1 | VÉRIFIER | https://www.safe.gov.cn/guangdong/file/file/20210429/babf0a6020e84b4585a7ba6737bb2c41.pdf | 数字外管平台 ASOne 操作 |
 | Administration nationale des changes (SAFE) | SAFE 国家外汇管理局 | NC | T1 | VÉRIFIER | https://www.safe.gov.cn/en/ | registration et contrôle agrégés des transactions commerciales et des transactions financières |
 | Administration nationale des changes (SAFE) | SAFE (régulateur) | NC | T1 | VÉRIFIER | https://www.safe.gov.cn/ | autorité compétente pour l'enregistrement des échanges et la vérification globale |
+| Banque populaire de Chine (BPOC) — cadre de règlement transfrontalier RMB | Banque populaire de Chine (中国人民银行 PBOC) | NC | T1/T2 | VÉRIFIER | http://www.pbc.gov.cn/ | Cadre de la banque centrale pour le règlement transfrontalier des opérations de change et le traitement bancaire, distinct de l'enregistrement de change SAFE |
+| ICC Financement du commerce (forfaitage/URF, règlement L/C) | Chambre de commerce internationale | ANNEXE | T1/T2 | VÉRIFIER | https://iccwbo.org/business-solutions/trade-finance/ | Instruments de règlement international (pourvoi contre URF 824, L/C) qui interagissent avec les reçus d'exportation FX |
+| CCPIT — documentation commerciale et soutien au règlement | Conseil chinois pour la promotion du commerce international (CCPIT 中国贸促会) | NC | T1/T2 | VÉRIFIER | https://www.ccpit.org/ | Documents commerciaux à l'appui de la preuve de la transaction utilisée dans la réception/vérification FX |
 ## Révision de la rédaction
 - **Auteur**: Équipe de rédaction d'AutoBridge Export · [auteurs](/auteurs/) · [Politique éditoriale](/politique éditoriale/)
-- **Dernière revue**: 2026-09-05
-- **Marché de référence**: CN（中国外汇管理侧）
+- **Dernière révision**: 2026-09-05
+- **Marché de référence**: CN(中国外汇管理侧)
 - **Méthode de vérification**: Recherches sur support papier en fonction des sources ci-dessous; spécification de référence du marché chinois seulement à moins qu'un marché d'exportation distinct ne soit explicitement cité.
 - **Transparence**: La rédaction assistée par AI a été utilisée. Cet article est basé sur la recherche sur le bureau et l'AQ automatisée. Aucun essai de première main n'est revendiqué sauf documenté explicitement; confirmer les exigences en matière de temps et de destination avant d'agir.
 
@@ -58,12 +61,15 @@ Les produits spécifiques des comptes, les frais bancaires et les écrans opéra
 - **IMAGE_ASSET_PATH**: aucun n'est sécurisé dans le dépôt
 - **ORIGINAL_IMAGE_URL**: non capturé
 - **SOURCE_PAGE**: non capturé
+- **SOURCE_FILE_PAGE**: sans objet — aucun fichier multimédia candidat identifié (aucune licence pour affirmer)
 - **RIGHTS_HOLDER**: non confirmé
 - **LICENSE_OR_USAGE_BASIS**: aucune garantie — La présence sur la page d'OEM n'est pas une licence de réutilisation commerciale
-- **DATE_CHÉCKÉ**: 2026-09-05
+- **DATE_CHÉCKÉ**: 2026-09-06
 - **MODEL_TOPIC_MATCH**: règlement exact des exportations de FX et administration de la FX pour les exportateurs de véhicules
+- **IMAGE_SCOPE_NOTE**: l'image doit correspondre à la famille/sujet du modèle exact seulement; ne doit pas impliquer une taille spécifique, une année de modèle, un VIN réel, une inspection en personne ou une transaction réelle
 - **TEMPS_D'IMAGE**: FOI
-- **ALT (langues 12)**:
+- **BLOCK_REASON**: Aucune image réutilisable ne peut être sécurisée: Wikimedia Commons/Flickr sont inaccessibles à partir de l'environnement de recherche, les bibliothèques de stock nécessitent un accès authentifié API/licence, et une image de page web OEM n'est PAS une subvention de réutilisation commerciale. Aucune photo appartenant à AutoBridge n'existe. Dossier tenu FAIL plutôt que affirmé.
+- **ALT (12 langues)**:
   - **EN**: export FX settlement, Chinese-market procurement guide export buyer reference
   - **FR**: export FX settlement, procurement guide du marché chinois, référence acheteur export
   - **DE**: export FX settlement, Chinesischer procurement guide, Referenz für Exportkäufer

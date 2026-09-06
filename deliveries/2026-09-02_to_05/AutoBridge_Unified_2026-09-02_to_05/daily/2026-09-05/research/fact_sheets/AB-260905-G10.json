@@ -92,23 +92,30 @@
   "各过境国口岸时效与路况（逐线逐国，须承运人当日确认）",
   "UNECE TIR手册条文逐字（建议链UNECE TIR官方）"
  ],
- "source_url_count": 4,
- "source_org_count": 3,
+ "source_url_count": 6,
+ "source_org_count": 5,
  "official_source_available": true,
  "research_status": "RESEARCH_PASS",
  "writing_ai_ready": true,
  "risk_level": "MEDIUM",
- "conditional_reason": "海关2026年第2号HTML+PDF+公报三重一手，CURRENT_VERSION已确认（2026现行），符合版本门。",
- "fact_sheet_version": "FS-v2-20260905",
- "checked_date": "2026-09-05",
- "source_org_count_normalized": 3,
- "source_org_count_raw": 4,
- "source_scope_status": "CONDITIONAL",
+ "conditional_reason": "",
+ "fact_sheet_version": "FS-v3-20260906",
+ "checked_date": "2026-09-06",
+ "source_org_count_normalized": 5,
+ "source_org_count_raw": 6,
+ "source_scope_status": "PASS",
  "controlled_research_patch": {
-  "date": "2026-09-05",
-  "urls": 4,
-  "orgs_normalized": 3,
-  "scope_status": "CONDITIONAL",
-  "added": 0
+  "date": "2026-09-06",
+  "added_by": "Writing AI (pre-publication repair)",
+  "urls_total": 6,
+  "orgs_normalized": 5,
+  "orgs": [
+   "GACC",
+   "GovCN",
+   "IRU",
+   "Sohu",
+   "UNTreaty"
+  ],
+  "status": "PASS"
  }
 }

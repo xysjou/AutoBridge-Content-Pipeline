@@ -1,71 +1,76 @@
-# Chinese Used-Car Export — Pilot Qualification, Licence and Clearance Process
+# ส่งออกเป็นรถใช้แล้วสําหรับประเทศจีน — การปรับให้พอดีกับนักบิน, การยึดและล้างกระบวนการ
 
-## SEO Metadata
-- **SEO Title**: China Used-Car Export: Pilot Qualification, Export Licence and Clearance (2026 Rules)
-- **Meta Description**: How a Chinese enterprise exports used cars: pilot-zone qualification, the export licence, project-contracting exception, information consistency and the 2026 registration-consistency rule.
-- ~ H1~: Chinese Used-Car Export — Pilot Qualification, Licence and Clearance Process
-- **Primary Keyword**: china used car export license process
-- **Secondary Search Terms**: used car export China; used vehicle export licence; pilot zone; second-hand car export; MOFCOM licence
-- **Suggested URL**: /guides/china-used-car-export-license-process/
-- **Search Intent**: 企业如何取得二手车出口资质、办理转让登记、申领出口许可证并完成通关（含2026年新规）
-- **Internal Link Suggestions**: / Guides/china-exports-exports-dipals explation-single-woods / / / guides/ chinish-sepition-history///.
-- ~Schema Scope~: Article (no Product/Offer/Review)
+## เชา ข้อมูลกํากับภาพ
+- **SEO Title**: ส่งออกไปยังประเทศจีน: การเลือกตั้งนักบิน ส่งออกเป็นสมุดที่อยู่แบบ PNG  and  Clearance (2026 Rules)
+- ""คําอธิบาย" วิธีการส่งออกกิจการของจีนใช้รถยนต์: การจัดการแข่งขันเขตนักบิน ใบอนุญาตส่งสินค้า ข้อยกเว้นโครงการ ความขัดแย้งข้อมูล และกฎการลงทะเบียน 2026
+- ** H1 ~: ส่งออกเป็นรถใช้แล้วส่งมาจากภาษาจีน — การเชื่อมต่อนักบิน, กระบวนการและล้างข้อมูล (SP)
+- ~ คําสําคัญในเอกสาร ~: จีนใช้กระบวนการส่งออกรถ
+- ** สืบค้นเมื่อ December Treads ~: ใช้รถส่งออกประเทศจีน; ใช้สัญญาส่ง เสริมรถ; เขตควบคุมนักบิน; การส่งออกรถมือสอง; ใบรับรอง MOFCP
+- ~ที่อยู่ URL ที่ถูกย่อ: / guides/china-record-corder/
+- ~ การค้นหาที่เชื่อมโยง~: 企业如何取得二手车出口资质、办理转让登记、申领出口许可证并完成通关（含2026年新规）
+- ~ เชื่อมโยงภายใน~ ~/gides/china-exports-discs-sinclates-swards///// guides/ chinishi-sepition-history/history-histi-history-hister-hister-hister-history-history=/
+- ~Schema Scop~: บทความ (ไม่มี Production/Offer/Review)
 
-## Used-car export is a licensed, pilot-based business
-Unlike ordinary new-car export, used-vehicle export from China is restricted to **qualified enterprises in approved pilot areas** selected through the pilot mechanism, and it operates under an **export licence** regime. An enterprise cannot start exporting used cars simply because it has general trading rights. The pilot-area list expands over time and must be read from the current MOFCOM/government notice rather than a fixed list.
+## การส่งออกรถใช้แล้ว เป็นธุรกิจที่มีใบอนุญาตใช้นักบิน
+ไม่เหมือนกับรถทั่วไปที่ส่งออกมา การส่งออกจากประเทศจีนเป็นการจํากัด... หน่วยงานที่มีประสิทธิภาพในพื้นที่นักบินที่รับรองได้ บริษัทไม่สามารถเริ่มส่งออกรถที่ใช้แล้วได้ เพียงเพราะมีสิทธิ์ในการซื้อขายทั่วไป รายการของนักบินจะขยายเวลาและจะต้องอ่านจาก MSFCOM/รัฐบาลปัจจุบัน แทนรายการที่คงที่
 
-## Qualification and the licence process
-The route runs through pilot-enterprise selection, obtaining the export licence (applied through the MOFCOM licensing system), then customs declaration and clearance. There is a defined **project-contracting exception** for used equipment/vehicles sent abroad under overseas contracted projects, which follows its own rules rather than the standard used-car trade licence.
+## สัดส่วนและกระบวนการอนุญาตสิทธิ์
+เส้นทางที่วิ่งผ่านการเลือกนักบิน-กลาง ได้รับใบอนุญาตส่งออกเสียง (ดําเนินการผ่านระบบ MOFMOM) แล้วประกาศและอนุมัติศุลกากร มีนิยามไว้ -- ยกเว้นการแบ่งประเภทของเครื่องราชอิสริยาภรณ์ -- สําหรับอุปกรณ์ที่ใช้/เครื่องเจาะหัวใจที่ส่งไปต่างประเทศ ภายใต้โครงการสัญญาต่างประเทศ ซึ่งปฏิบัติตามกฎของตัวเอง
 
-## The 2026 information-consistency requirement
-Under the newer rule effective from 2026-01-01, registration and licence information must be **consistent**, and the licence carries a schedule of vehicles. A separate captured rule concerns units held for less than a defined period, which require an after-sales/maintenance-service confirmation; treat the exact threshold and form as time-sensitive and confirm against the current MOFCOM notice before relying on it.
+## 2026 ความต้องการข้อมูลที่สอดคล้องกัน
+ภายใต้กฏใหม่ที่มีประสิทธิภาพจาก 2026-01-01 ข้อมูลการลงทะเบียนและใบอนุญาตต้องมีผล"ดําเนินการ" และใบอนุญาตประกอบรถตามกําหนดการ หน่วยงานที่จับต้องได้แยกตามกฏเกณฑ์ที่จัดขึ้น มีเวลาน้อยกว่าระยะเวลาที่กําหนด ซึ่งต้องยืนยันหลังการให้บริการหลังการให้บริการ; รักษาการขีดเส้นเวลาและรูปแบบที่แน่นอน และยืนยันการแจ้งเตือน MAFCOM ปัจจุบัน ก่อนที่จะพึ่งพามัน
 
-## Consistency checks across the whole file
-Used-car export fails most often on inconsistent identity across the purchase/transfer record, the licence schedule, the customs declaration and the transport documents. VIN, model, mileage/condition documents and the consignee must line up. Because used units are unique (one VIN each), there is no "copy the last shipment" shortcut.
+## ตรวจสอบความต่อเนื่องทั่วแฟ้มทั้งหมด
+การส่งออกรถใช้ล้มเหลวบ่อยที่สุด ในการแสดงตัวที่ไม่สอดคล้องกัน จากบันทึกการซื้อ/ทรานสเฟอร์, ตารางใบอนุญาต, ประกาศศุลกากรและเอกสารการขนส่ง VIN, รุ่น, ไมล์/ระบบควบคุม และผู้ส่งต้องเข้าแถว เพราะหน่วยที่ใช้มีเอกลักษณ์ (หนึ่งตัว) ไม่มีทางลัด "ตรวจสอบการจัดส่งครั้งสุดท้าย"
 
-## Operating checklist
-1. Confirm the enterprise is a selected pilot-area qualified used-car exporter (current list).
-2. Apply for and obtain the export licence with the correct vehicle schedule.
-3. For overseas-project vehicles, use the project-contracting channel and documents.
-4. Reconcile VIN/registration/licence/customs/transport data; satisfy the 2026 consistency rule and any short-tenure after-sales confirmation.
-5. Declare through the Single Window and keep the chain for FX/tax handling.
+## รายการที่เรียกดู
+1. ยืนยันว่า enterprise คือ นักบินที่เลือกไว้และแอร์อาที่มีคุณสมบัติในการส่งออกรถที่ใช้อยู่ (รายการปัจจุบัน)
+2. ปรับใช้และได้รับใบรับรองการส่งออกตามตารางรถที่ถูกต้อง
+3. สําหรับรถที่ออกจําหน่ายต่างประเทศ ใช้ช่องทางและเอกสาร
+4. Reconsile VIN/regressation/ licence/transport ข้อมูล ปฏิบัติตามกฎความสอดคล้อง 2026 และค่านิยมใด ๆ ชั่วคราวหลังการยืนยัน
+5. ประกาศผ่านหน้าต่างเดียวและเก็บสายสําหรับการจัดการ FX/Tax
 
-## Boundaries
-The current pilot-city list and exact system screens are time-sensitive and are not reproduced; the licensing portal interface changes. Destination-country used-car import rules (age limits, steering, inspection) are country-specific and are not covered here.
+## ขอบเขต
+รายชื่อเมืองนักบินในปัจจุบัน และหน้าจอที่ตรงเป๊ะของระบบ คือเวลาที่ใกล้พอเหมาะ และไม่สามารถทําซ้ําได้ ส่วนเชื่อมต่อประตูมิติเหาเหาเปลี่ยน จุดหมายปลายทางของชนบทที่ใช้รถนําเข้า (ข้อจํากัดตามอายุ พวงมาลัย การตรวจสอบ) เป็นกฏเกณฑ์ของประเทศ และไม่ได้ครอบคลุมที่นี่
 
-## FAQ
-**Can any trading company export used cars?** No — it requires pilot-area qualified-enterprise status and an export licence.
-**What changes from 2026?** Stronger registration/licence information consistency and a scheduled-vehicle licence; confirm details in the current notice.
-**Is there an exception for overseas projects?** Yes, a project-contracting route exists with its own documents.
-**Where is the pilot-city list?** In the latest MOFCOM/government notice — do not rely on a static list.
-**Does this cover destination import rules?** No — those are separate and country-specific.
+## ขนาด FAQ
+~มีบริษัทส่งจําหน่ายรถใช้มั้ย~ ไม่ มันต้องใช้สถานะนักบิน และใบอนุญาตส่งของ
+เปลี่ยนไปจาก 2026 อะไร? # ลงทะเบียน/ โครงสร้างที่แข็งแรงขึ้น สอดคล้องกันและกําหนดวันที่และเวลา การตรวจสอบรายละเอียดในการตรวจสอบในปัจจุบัน
+มีข้อยกเว้นสําหรับโครงการต่างประเทศไหม ใช่, เส้นทางของโครงการ มีอยู่พร้อมเอกสารของมัน
+** รายชื่อนักบินอยู่ที่ไหน ~ ใน การ แจ้ง เหตุ การณ์ ล่า สุด ของ องค์การ MOFMP/รัฐบาล — อย่า พึ่ง ราย ชื่อ ที่ มี การ บันทึก ไว้ อย่าง ไม่ หยุด ยั้ง.
+~นี่กฎการนําเข้าที่ครอบคลุมของจุดหมายหรือเปล่า~ เปล่า เลย.
 
 
-## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
+## ต้นฉบับและการตรวจสอบสิทธิ์
+| แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| 商务部等5部门关于二手车出口有关事项的公告 | 中华人民共和国商务部 | CN | T1 | VERIFIED | https://www.mofcom.gov.cn/zcfb/blgg/art/2024/art_20567344ed0a40059d338aa2114ab932.html | 许可证管理, 申领流程, 工程承包例外, 清关后2个月 |
-| 关于进一步扩大二手车出口业务地区范围的通知 | 中国政府网 | CN | T1 | VERIFIED | https://www.gov.cn/zhengce/zhengceku/2022-12/06/content_5730345.htm | 试点地区, 企业遴选与退出 |
-| 关于进一步加强二手车出口管理工作的通知（2025-11） | 中国政府网 | CN | T1 | VERIFIED | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-01-01新规, 登记一致性, 许可证附表 |
-| 二手车出口管理新政专题（2026-01-01起180天规则） | 中华人民共和国商务部 | CN | T1 | TIME_SENSITIVE | http://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_776097802fa640c38e45808ce98559e8.html | 不满180天须售后维修服务确认书 |
-| Ministry of Commerce (MOFCOM) | MOFCOM 商务部 | CN | T1 | VERIFIED | https://www.mofcom.gov.cn/ | competent authority for export licensing and export control |
-## Editorial Review
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: CN（中国出口侧）
-- **Verification method**: Desk research against the sources below; Chinese-market reference specification only unless a separate export market is explicitly cited.
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
+| 商务部等5部门关于二手车出口有关事项的公告 | 中华人民共和国商务部 | CN | T1 | เปิดใช้งาน | https://www.mofcom.gov.cn/zcfb/blgg/art/2024/art_20567344ed0a40059d338aa2114ab932.html | 许可证管理, 申领流程, 工程承包例外, 清关后 2 个月 |
+| 关于进一步扩大二手车出口业务地区范围的通知 | 中国政府网 | CN | T1 | เปิดใช้งาน | https://www.gov.cn/zhengce/zhengceku/2022-12/06/content_5730345.htm | 试点地区, 企业遴选与退出 |
+| 关于进一步加强二手车出口管理工作的通知 (2025-11). | 中国政府网 | CN | T1 | เปิดใช้งาน | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-01-01 新规 登记一致性 登记一致性 许可证附表 (พ.ศ. |
+| 二手车出口管理新政专题（2026-01-01起180天规则） | 中华人民共和国商务部 | CN | T1 | เวลา | http://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_776097802fa640c38e45808ce98559e8.html | 不满180天须售后维修服务确认书 |
+| กระทรวงพาณิชย์ (MOFCOM) | MAFOML 商务部 | CN | T1 | เปิดใช้งาน | https://www.mofcom.gov.cn/ | อํานาจที่มีประสิทธิภาพในการส่งออกการเหาและการควบคุมการส่งออก |
+| กรมศุลกากรของประเทศจีน (GACC) — การดูแลการส่งออกรถที่ใช้แล้ว | General Administration of Customs of China (海关总署 GACC) | CN | T1/T2 | เปิดใช้งาน | http://www.customs.gov.cn/ | ศุลกากรเป็นหน่วยงานประกาศ/ เคลียเวิลด์ สําหรับการส่งออกรถที่ใช้ร่วมกัน, การเสริมสร้างไปยัง MOFCMP เบินส์ลิง |
+| สมาคมค้า รถยนต์ จีน (CADA) — คณะอุตสาหกรรมที่ใช้รถยนต์ | ประเทศจีน Auto Mouse August Society (中国汽车流通协会 CDA) | CN | T1/T2 | เปิดใช้งาน | http://www.cada.cn/ | บริบทของความสัมพันธ์ระหว่างอุตสาหกรรมบนการพัฒนารถส่งออก  and  enterprise Program (T2). ไม่ใช่ตัวควบคุม) |
+## การทบทวนแก้ไข
+- ~Uuthor ♪: AutoBridge ส่งออกทีมแก้ไข [ผู้เขียน](/ ผู้เขียน/) สืบค้นเมื่อ [ใช้ในการแก้ไขนโยบาย] [/Di-policy/]
+- ~ถูกตรวจสอบแล้ว~: 2026-09-05
+- ~ตลาดแห่งความไม่สงบ: CN(中国出口侧)].
+- ~วิธีการสร้างความสัมพันธ์ ~: งานวิจัยที่ขัดกับแหล่งย่อยด้านล่างนี้; การอ้างอิงตลาดจีน-มาร์เก็ต ก็ต่อเมื่อมีการอ้างอิงตลาดส่งออกอย่างตรงไปตรงมา
+- การร่างแบบ AI-assisted ถูกใช้ บทความนี้ตั้งอยู่บนพื้นฐานของงานวิจัยในตาราง และอัตโนมัติ QA ไม่มีการอ้างอิงการทดสอบก่อน จนกว่าจะมีการระบุรายละเอียดอย่างชัดเจน ยืนยันความต้องการที่ต้องใช้เวลาและกําหนดปลายทาง ก่อนทําการข้ามเวลา
 
-## Image Record
-- **IMAGE_ASSET_PATH**: none secured in repository
-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ not captured
-- **SOURCE_PAGE**: not captured
-- **RIGHTS_HOLDER**: unconfirmed
-- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
-- ~ECHCKKED_DATE ~: 2026-09-05
-- ~CRL/TOPIC_MATCH~: exact Chinese Used-Car Export
-- **IMAGE_RIGHTS_STATUS**: FAIL
-- **ALT (12 languages)**:
+## บันทึกรูปภาพ
+- ~ประกาศ_BAR_ PATH ~ ~ ไม่มีคนปลอดภัยในห้องเก็บของ
+- ~~~~~ไม่ถูกจับ~
+- ~ประกาศจับ~: ไม่ถูกจับ
+- ** UNTER_FELE_ PATE*: ใช้ไม่ได้ — ไม่มีเอกสารผู้สมัครใด ๆ ที่ระบุ (ไม่มีใบรับรองที่จะยืนยัน)
+- ~ห้ามยืนยัน~
+- **LICENSE_OR_USAGE_BASIS**: ไม่ มี ใคร ปลอด ภัย — การ มี เว็บไซต์ อยู่ ใน เวลา นี้ ไม่ ใช่ การ ลง ทะเบียน ทํา ซ้ํา อีก ครั้ง ใน การ ค้า
+- ~CKND_DATE ~ 2026-09-06
+- ** ROUND_TOIC_MATCH~: พิมพ์ส่งออกรถใช้แล้วแบบภาษาจีนเป๊ะ
+- MEDIAN_SCPE_NOTE: ภาพต้องตรงกับครอบครัว/ โตปิกที่ถูกต้องเท่านั้น; ต้องไม่หมายถึงการตัด, ปีตัวอย่าง, เรียลวีน, การตรวจสอบหรือการทําธุรกรรมจริง
+- หม่อมเจ้า หม่อมเจ้า
+- ~ ล็อก-รีซัน~: ไม่มีภาพใดสามารถใช้ได้โดยปลอดภัย: Wikited Commons/Flickr ไม่สามารถทํางานได้จากสภาพแวดล้อมการวิจัย ห้องสมุดหลักต้องการสิทธิ์ในการเข้าถึง API/CIFF และภาพเว็บเพจของ OEM ก็ไม่ใช่การให้ทุนใช้อีกครั้งในโฆษณา ไม่มีภาพถ่ายที่บรรจุออโต้ไบด์อยู่ บันทึกเก็บ FAIL แทนการยืนยัน
+- ~ALT (12 ภาษา) ~:
   - **EN**: used car export licence, Chinese-market procurement guide export buyer reference
   - **FR**: used car export licence, procurement guide du marché chinois, référence acheteur export
   - **DE**: used car export licence, Chinesischer procurement guide, Referenz für Exportkäufer

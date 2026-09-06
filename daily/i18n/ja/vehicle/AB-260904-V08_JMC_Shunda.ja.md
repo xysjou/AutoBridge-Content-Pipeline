@@ -1,69 +1,72 @@
-# JMC Shunda (顺达) Light Truck: GVW, Payload, Engine and Cargo Body for Export Buyers
+# JMC Shunda (顺达) 軽トラック: GVW、ペイロード、エンジン、輸出バイヤーのための貨物ボディ
 
-## SEO Metadata
-- **SEO Title**: JMC Shunda Light Truck Specs & Export Guide (GVW 4.27t, China-6)
-- **Meta Description**: Chinese-market JMC Shunda blue-plate light truck — JX493 diesel 90 kW, GVW 4.27 t, 3700 mm dropside bed, wheelbase and turning circle, plus the payload and engine-version checks exporters need.
-- **Suggested URL**: /vehicles/jmc-shunda///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-- **H1**: JMC Shunda: Chinese-Market Light-Truck Chassis, GVW and Cargo Specs for Export
-- **Primary Keyword**: jmc shunda light truck specs export
-- **Secondary Search Terms**: JMC Shunda JX493, 顺达小卡, Chinese light truck GVW, JMC dropside payload, China-6 diesel truck export
-- **Internal Link Suggestions**: /guides/vehicle-export-hs-code-classification/;; /guides/emission-fuel-compatibility-china-vehicles/ ; /vehicles/dongfeng tianjin-kr/
-- **Image Suggestions**: Shunda dropside side; cargo bed; JX493 engine; chassis frame; cab
-- **ALT Suggestions**: "JMC Shunda blue-plate light truck dropside"; "Shunda 3700mm cargo bed GVW 4.27t"
+## ツイート メタデータ
+- **SEOタイトル**:JMC 俊田の軽いトラックのSpecs及び輸出ガイド(GVW 4.27t、中国- 6)
+- **メタ 記述**: 中国の市場JMC Shundaの青版ライト トラック- JX493ディーゼル90 kW、GVW 4.27 t、3700 mmの低下のベッド、ホイールベースおよび回転円、プラスのペイロードおよびエンジン版は輸出者の必要性を点検します。
+- **混雑URL**: /vehicles/jmc-shunda/
+- H1 **: JMC シュンダ: 輸出のための中国市場ライト トラックのシャーシ、GVWおよび貨物Specs
+- **主なキーワード**:jmc shundaの軽トラックは輸出をスペックスします
+- **二次検索条件**:JMC Shunda JX493、顺达小卡の中国の軽いトラックGVW、JMCの低下のペイロード、中国- 6ディーゼル トラックの輸出
+- **内部リンクの提案**: /guides/vehicle-export-hs-code-classification/; /guides/emission-fuel-compatibility-china-vehicles/; /vehicles/dongfeng-tianjin-kr/
+- **イメージ提案**: シュンダのドロップサイド; 貨物ベッド; JX493エンジン; シャーシフレーム; タクシー
+- **ALT 提案**:「JMC 旬田ブループレートライトトラックドロップシド」; 「旬田 3700mm 貨物ベッド GVW 4.27t」
 
-## Buyer Context: a Commercial Vehicle Page Is Built Around GVW and Payload
-For a light truck the buyer is not comparing trim levels — they are matching **GVW, rated payload, engine version and cargo body** to an operating job. The Shunda (顺达) is JMC's China-6 blue-plate light truck line. The main order risk is engine-version mixing: the documented small-truck engine is the **JX493ZLQ6D 2.499 L**, while the wider Shunda range also uses a **2.8 L 493** with different outputs. This page documents the **Chinese-market small-truck reference (REFERENCE MARKET: CHINA)**; no OEM primary sheet was captured, so figures are cross-checked trade-database values to confirm against the MIIT announcement and the vehicle certificate.
+## バイヤーのコンテキスト: 商用車のページは、GVWとペイロードの周りに構築されています
+軽トラックでは、買い手はトリムレベルを比較していません。彼らは、**GVW、定格ペイロード、エンジンバージョン、貨物ボディ**を動作するジョブにマッチングしています。 俊田(顺达)はJMCの中国- 6の青版ライト トラック ラインです。 主要な注文リスクはエンジンバージョンの混合です。文書化された小さなトラックエンジンは、JX493ZLQ6D 2.499 L **で、より広いShundaレンジは、異なる出力で** 2.8 L 493 **も使用されます。 このページでは、**中国市場小規模トラック参照(REFERENCE MARKET: CHINA)**を文書化しています。OEMのプライマリシートがキャプチャされていないため、MIITの発表と車両証明書から確認するために、図はクロスチェックされた取引データベース値です。
 
-## Commercial Core: GVW, Payload and Cargo Body
-| Item | Shunda small truck (China reference) |
+## 商業中心: GVW、ペイロードおよび貨物ボディ
+| アイテム | 俊田小型トラック(中国参考) |
 |---|---|
-| Engine | JX493ZLQ6D diesel, **2.499 L** (do not merge with the 2.8 L 493) |
-| Power | **90 kW (≈122 PS)**; a separate 116 PS version exists — match to trim |
-| Dropside bed (L×W×H) | **3700 × 1850 × 380 mm** |
-| Gross vehicle weight (GVW) | **4.27 t** |
-| Curb weight | about **2.145 t** (the 3.7 m box-van version is about 2.435 t) |
-| Rated payload | about **1.93–2.0 t — final value per the MIIT announcement / certificate** |
-| Wheelbase | **2800 mm** |
-| Turning circle | **5.5 m** |
-| Emission | China-6 diesel |
+| 油圧エンジン | JX493ZLQ6Dディーゼル、** 2.499 L **(2.8 L 493と合併しないでください) |
+| パワーパワー | ** 90 kW (≈ 122 PS)**; 別の116 PSバージョンが存在する — トリムにマッチ |
+| ドロップサイドベッド(L×W×H) | **3700 × 1850 × 380 mm** |
+| 総車両重量(GVW) | **4.27 t** |
+| 車両重量 | について ** 2.145 t ** (3.7 m box-van version は 2.435 t です) |
+| 評価されるペイロード | about **1.93–2.0 t — final value per the MIIT announcement / certificate** |
+| ホイールベース | **2800 mm** |
+| ターンサークル | **5.5 m** |
+| ミッション | 中国- 6 ディーゼル |
 
-Payload is the figure that most often causes compliance problems: a marketing "about two-tonne" line is not a legal rating. The authoritative rated payload is the one on the **MIIT public announcement and the vehicle's certificate of conformity**, and it changes with body type (dropside vs box van) and curb weight.
+Payloadは、最も頻繁にコンプライアンスの問題を引き起こす数字です。 a marketing "about two-tonne" line is not a legal rating. The authoritative rated payload is the one on the **MIIT public announcement  and  車両の適合証明書**、  and  ボディタイプ(ドロップサイド対ボックスバン)で変化します。  and  体重を抑制する。
 
-## Engine-Version Boundary
-- **JX493ZLQ6D (this page): 2.499 L, 90 kW/122 PS.**
-- A **2.8 L 493** and a **116 PS** tune exist elsewhere in the Shunda line; quoting 116 PS for a 90 kW unit — or a 2.8 L displacement for a 2.499 L engine — is a configuration error.
-- Curb weight differs between dropside and box-van bodies, which feeds directly into payload; never reuse one body's payload for another.
+## エンジン・バージョン・バウンダリー
+- JX493ZLQ6D (このページ): 2.499 L、90 kW/122 PS 。**
+- A ** 2.8 L 493 ** と ** 116 PS ** チューンは、シュンダラインの他の場所で存在します。 90 kW ユニットの 116 PS を引用する、または 2.499 L エンジンの 2.8 L の変位は、構成エラーです。
+- 車両重量は、下落と箱型ボディと異なり、直接ペイロードに供給します。 体を別の人のために使用しない。
 
-## Chassis and Body-Builder Note
-The 2800 mm wheelbase and 5.5 m turning circle suit urban distribution. Where a buyer adds a box, refrigerated unit or other superstructure, the **final GVW/payload must be re-stated for the completed vehicle** — the chassis figure alone is not the finished-truck rating.
+## シャーシとボディビルノート
+2800 mm ホイールベースと 5.5 m ターン サークル スーツ 都市分布. 買い手が箱、冷凍された単位または他のスーパー構造を加えるところ、**最終的なGVW/ペイロードは完了した車のために再調整されなければなりません** — シャーシ図だけでは、終了トラックの評価ではありません。
 
-## Overseas Buyer Verification Before Payment
-- For a light truck the 4×2 (or other) drive form is a certificate field that affects upfit and loading — confirm it per chassis announcement; the reference prose fixes GVW/payload but leaves drive form to the certificate.
-1. **Exact engine code/displacement/power** against the VIN (2.499 L/90 kW vs 2.8 L/116 PS).
-2. **Rated payload and GVW** from the MIIT announcement and certificate, not a brochure round-number.
-3. **Body type** (dropside/box/special) and its curb weight; completed-vehicle rating for any upfit.
-4. **Diesel fuel sulphur and after-treatment** compatibility per the emission/fuel guide; China-6 is not itself overseas approval.
-5. **HS classification** (87.04 goods vehicle; special-purpose bodies may move headings) per the HS-code guide.
+## 海外バイヤー お支払い前の検証
+- 軽トラックの場合、4×2(または他の)ドライブフォームは、アップフィットとロードに影響を与える証明書フィールドです。 シャーシの通知ごとに確認します。 参照のプロースは、GVW /ペイロードを修正しましたが、ドライブフォームを証明書に残します。
+1. **エンジンコード/変位/パワー** VIN(2.499 L / 90 kW vs 2.8 L / 116 PS)に対して。
+2. ※MIIT発表と証明書から、所定のペイロードとGVW**は、パンフレットのラウンドナンバーではありません。
+3. **ボディタイプ**(ドロップサイド/ボックス/スペシャル)およびそのカーブ重量;任意のアップフィットのための完全な車両評価。
+4. **ディーゼル燃料硫黄と過熱量** 排出/燃料ガイドごとの互換性; 中国- 6は、海外の承認ではありません。
+5. ※HS分類**(87.04商品車両、特殊ボディはHSコードガイドごとに見出しを動かす場合があります)。
 
-## Request a Current Export Quotation
-No export price is published. Enquire with **Destination Country · Quantity · Engine Version · Body Type · LHD/RHD · Destination Port · Incoterm**.
+## 現在のエクスポート見積をリクエストする
+輸出価格が公開されていない **目的地の国・数量・エンジンバージョン・ボディタイプ・LHD/RHD・デスティネーションポート・インコターム**を装備。
 
-## Frequently Asked Questions
-**What is the Shunda's GVW and payload?** GVW 4.27 t with rated payload around 1.93–2.0 t; confirm the exact payload on the MIIT announcement/certificate for the specific body.
-**Which engine does this page cover?** The JX493ZLQ6D 2.499 L diesel at 90 kW (122 PS); a 2.8 L/116 PS version is a different unit.
-**Why does curb weight matter?** It sets usable payload and changes between dropside and box-van bodies — do not share one payload across bodies.
-**Is the China-6 truck approved for my market?** Not automatically; destination emission and type approval are separate.
+## よくある質問
+**旬田のGVWとは  and  payload?** GVW 4.27 t with rated payload around 1.93–2.0 t; MIIT発表/認証の正確なペイロードを特定のボディに確認します。
+**Which engine does this page cover?** The JX493ZLQ6D 2.499 L diesel at 90 kW (122 PS); 2.8 L / 116 PSバージョンは異なるユニットです。
+**カーブの重み問題はなぜですか?** 使用可能なペイロードを設定します  and  ドロップサイド間の変化  and  box-van bodies — do not share one payload across bodies.
+**中国- 6 のトラックは私の市場のために承認しましたか。** 自動的に、目的地の排出とタイプ承認は別々です。
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
-- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- ALT by language:
+## 映像の記録
+- IMAGE_ASSET_PATH:リポジトリで保護されていない
+- ORIGINAL_IMAGE_URL: キャプチャされていない
+- SOURCE_PAGE: キャプチャされていない
+- SOURCE_FILE_PAGE: 該当なし — 特定候補のメディアファイル (アサートするライセンスなし)
+- 権利_ホルダー:未確認
+- LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
+- CHECKED_DATE: 2026-09-06(税抜き)
+- MODEL_TOPIC_MATCH: 上記の正確なモデル/バージョン(またはガイドトピック)と参照市場と一致しなければなりません
+- IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
+- IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
+- ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
+- 言語によるALT:
   - **EN**: AutoBridge export-buyer reference — JMC Shunda, petrol/diesel Chinese-market vehicle / light truck
   - **FR**: Référence AutoBridge pour acheteurs export — JMC Shunda, véhicule thermique (marché chinois) / camion léger
   - **DE**: AutoBridge-Referenz für Exportkäufer — JMC Shunda, Verbrenner (chinesischer Markt) / Leicht-Lkw
@@ -77,27 +80,27 @@ No export price is published. Enquire with **Destination Country · Quantity · 
   - **AR**: مرجع AutoBridge لمشتري التصدير — JMC Shunda, مركبة بمحرك احتراق (سوق الصين) / شاحنة خفيفة
   - **ZH**: AutoBridge 出口采购参考｜JMC Shunda, 中国市场燃油车 / 轻卡
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## ソースと検証
+| ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実 |
 |---|---|---|---|---|---|---|
-| Shunda small truck JX493ZLQ6D 122PS compliant 2t | 360che (Toutiao) | CN | http://m.toutiao.com/group/7296380434664292918/ | 2026-09-04 | CROSS_CHECKED | Engine, power, GVW, payload framing |
-| Shunda small truck bed, GVW, curb weight | 360che (Toutiao) | CN | http://m.toutiao.com/group/6854066453151384075/ | 2026-09-04 | CROSS_CHECKED | 3700 bed, 4.27 t, curb weight |
-| Shunda cargo 3.7m 116PS (in-sale) | 58.com trucks | CN | https://m.58.com/sh/huochec/63510160324146x.shtml | 2026-09-04 | SINGLE_SOURCE | Alternate 116 PS version (excluded) |
-| Shunda wheelbase / turning circle | 360che (Toutiao) | CN | http://m.toutiao.com/group/6815508461468516878/ | 2026-09-04 | CROSS_CHECKED | 2800 mm WB, 5.5 m turning |
-| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
-| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
-| GB 18352.6-2016 with amendment XG1-2026 (China-6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
-| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
+| 俊田小型トラック JX493ZLQ6D 122PS 準拠 2t | 360che (Toutiao) | CN の | 担当: http://m.toutiao.com/group/7296380434664292918/ | 2026-09-04 | CROSS_CHECKED(クロス) | エンジン、力、GVWのペイロードの組み立て |
+| シュンダ小型トラックベッド、GVW、カーブ重量 | 360che (Toutiao) | CN の | 担当: http://m.toutiao.com/group/6854066453151384075/ の | 2026-09-04 | CROSS_CHECKED(クロス) | 3700 ベッド、4.27 t、縁の重量 |
+| 俊田貨物 3.7m 116PS(販売中) | 58.com トラック | CN の | 以下は、 //m. 58.com/sh/huochec/63510160324146x.shtml | 2026-09-04 | シングル_ソース | 代替116 PSバージョン(除外) | https://m.58.com/sh/huochec/63510160324146x.shtml
+| シュンダホイールベース/旋回輪 | 360che (Toutiao) | CN の | 担当: http://m.toutiao.com/group/6815508461468516878/ の | 2026-09-04 | CROSS_CHECKED(クロス) | 2800 mm WB, 5.5 m turning |
+| ロードモーター車メーカーと製品カタログ — 公開クエリシステム | 工業情報技術省、中国情報技術省 | CN の | 以下は、 ................................................................................................................................ | 2026-09-05 | 検証済み | 注文するか、または輸出する前に製造業者、承認されたモデルおよび均質化(公告)のカタログの記入項目を確認して下さい | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html
+| ギガバイト16735-2019 道路車両 — 車両識別番号(VIN)要件 | SAMR全国規格全文プラットフォーム | CN の | 以下は、 https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 のリリース | 2026-09-05 | 検証済み | バイヤーのVIN/ネームプレート検証で使用されるVIN構造とネームプレートのデータフィールド |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | 市場規制のSAMR、州政局 | CN の | 以下は、 https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | 検証済み | ベースライン中国車安全技術条件と電流/改定タイムライン |
+| 改正XG1-2026(中国-6光車両汚染物質排出量)でGB 18352.6-2016 | エコロジー・環境省(MEE) | CN の | 以下は、 .mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html の | 2026-09-05 | 検証済み | 中国- 6 光車両排出ステージと2026 補正実装日 | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html
+| GB 19147の自動車ディーゼル燃料の国民の標準(低硫黄の基礎) | SAMR全国規格全文プラットフォーム | CN の | 以下は、 https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A のリリース | 2026-09-05 | 検証済み | ディーゼル燃料グレードと硫黄ベースでエンジン/排出設計を海外に合わせる |
 
-*Confidence note: no OEM primary sheet; trade-database cross-checks. Rated payload explicitly deferred to MIIT announcement/certificate; 2.499 L and 2.8 L engines kept separate. Chinese-market reference only.*
+※本会議ノート:OEMの第一次シート無し、取引データベースの横断面チェック。 定格ペイロードは、MIIT発表/認証に明示的に決定; 2.499 L と 2.8 L エンジンは別々に保持しました。 中国語市場参照のみ。 ふりがな
 
-## Editorial Review
-- **Author**: AutoBridge Export Editorial Team · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: China, Shunda JX493ZLQ6D small truck (Chinese-market reference; payload per certificate; not a global spec)
-- **Verification method**: Trade-database cross-check; engine versions separated; legal rating deferred to official announcement
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+## 編集レビュー
+- **著者**: AutoBridge エクスポート 編集 チーム・方法・方法・方法・各社様 [編集ポリシー](/編集ポリシー/)
+- **最終審査**:2026-09-05
+- **参考市場**:中国、 俊田JX493ZLQ6D小型トラック(中国市場参照、証明書ごとのペイロード、グローバルスペックではない)
+- **検証方法**: 取引データベースのクロスチェック; エンジンのバージョンが分離; 法的評価は公式の発表に延期
+- **透明性**:AI-assistedドラフトが使われていました。 本記事は、デスクリサーチと自動QAをベースとしています。 明示的に文書化されていない限り、最初のテストは要求されません。 トランスフォーメーションの前に時間感度と宛先固有の要件を確認します。
+- ** 編集規格**: 上記情報源(デスクリサーチ、片手運転、涙流、輸入)から研究・執筆 ソースの自信は行ごとに示されます。 私たちが独立して確認できない点は、事実として主張するのではなく、検証項目として提示されます。
 
 **Tags**: #JMCShunda #LightTruck #GVWPayload #China6Diesel #CommercialVehicleExport

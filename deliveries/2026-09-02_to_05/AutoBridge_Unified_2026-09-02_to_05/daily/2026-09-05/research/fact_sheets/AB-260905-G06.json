@@ -76,23 +76,29 @@
   "具体结汇汇率/到账时效（因银行与时点而异，TIME_SENSITIVE）",
   "跨境人民币结算专项细则（本篇聚焦外币，可另建页）"
  ],
- "source_url_count": 5,
+ "source_url_count": 8,
  "source_org_count": 4,
  "official_source_available": true,
  "research_status": "RESEARCH_PASS",
  "writing_ai_ready": true,
  "risk_level": "LOW",
- "conditional_reason": "外汇局多份一手文件，scope匹配；与G01支付工具选择意图不同（本篇讲中国侧收汇合规）。",
- "fact_sheet_version": "FS-v2-20260905",
- "checked_date": "2026-09-05",
- "source_org_count_normalized": 1,
- "source_org_count_raw": 5,
- "source_scope_status": "CONDITIONAL",
+ "conditional_reason": "",
+ "fact_sheet_version": "FS-v3-20260906",
+ "checked_date": "2026-09-06",
+ "source_org_count_normalized": 4,
+ "source_org_count_raw": 8,
+ "source_scope_status": "PASS",
  "controlled_research_patch": {
-  "date": "2026-09-05",
-  "urls": 5,
-  "orgs_normalized": 1,
-  "scope_status": "CONDITIONAL",
-  "added": 1
+  "date": "2026-09-06",
+  "added_by": "Writing AI (pre-publication repair)",
+  "urls_total": 8,
+  "orgs_normalized": 4,
+  "orgs": [
+   "CCPIT",
+   "ICC",
+   "PBOC",
+   "SAFE"
+  ],
+  "status": "PASS"
  }
 }

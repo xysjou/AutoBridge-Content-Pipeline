@@ -6,13 +6,13 @@
 - **Vorgeschlagene URL**: /guides/china-export-certificate-of origin
 - ** H1 **: Auswahl des richtigen Herkunftszertifikats für einen chinesischen Fahrzeugexport
 - ** Primäres Keyword**: China Export Certificate of Origin ccpit customs
-- **Secondary Search Terms**: nicht präferentiell CO, APS-Ursprungsbescheinigung, FTA-Präferenz-CO, GACC-Auftrag 270, CCPIT-Zertifikat-Ursprung, Fahrzeugausfuhrdokumente
+- **Secondary Search Terms**: nicht präferentiell CO, APS-Ursprungsbescheinigung, FTA-Präferenz-CO, GACC-Auftrag 270, CCPIT-Ursprungsbescheinigung, Fahrzeugausfuhrdokumente
 - **Interne Linkvorschläge**: /guides/vehicle-export-hs-code-classification/; /guides/export-vehicle-document-package/; /guides/china-export-statutory-inspection-deklaration/
 - **Bildvorschläge**: drei CO-Typen Vergleich; Zoll-/CCPIT-Ausgabediagramm; FTA-Präferenzstrom
 - **ALT Vorschläge**: "China-Ursprungsbescheinigung drei Arten Zoll CCPIT"
 
 ## Die Entscheidung in einem Routinedokument verborgen
-Importeure verlangen routinemäßig "das CO", als wäre es ein Papier. Das ist nicht der Fall. China stellt ** drei Familien ** mit Herkunftsbescheinigung aus, und die Wahl des falschen bedeutet, dass der Käufer entweder keine klare Präferenz haben kann oder ein Dokument erhält, das seine Autorität nicht erwartet. Die aktuelle Regel ist **GACC Order No. 270, *Verwaltungsmaßnahmen für Ursprungszeugnisse für Exportgüter *, veröffentlicht 2024-07-30 und in Kraft von 2024-09-01 **. Diese Seite deckt die ** China Ausgabeseite** ab; ob ein bestimmtes Ziel eine Präferenz gewährt, ist die Entscheidung dieses Landes.
+Importeure verlangen routinemäßig "das CO", als wäre es ein Papier. Das ist nicht der Fall. China stellt ** drei Familien ** mit Herkunftsbescheinigung aus, und die Wahl des falschen bedeutet, dass der Käufer entweder keine klare Präferenz haben kann oder ein Dokument erhält, das seine Autorität nicht erwartet. Die derzeit geltende Regel ist **GACC Order No. 270, *Verwaltungsmaßnahmen für Ursprungszeugnisse für Exportgüter *, veröffentlicht 2024-07-30 und in Kraft ab 2024-09-01 **. Diese Seite deckt die ** China Ausgabeseite** ab; ob ein bestimmtes Ziel eine Präferenz gewährt, ist die Entscheidung dieses Landes.
 
 ## Die drei Zertifikatsfamilien
 | Art der Art | Zweck | Wenn ein Fahrzeugexporteur es verwendet |
@@ -33,14 +33,14 @@ Die beiden autorisierten Ausstellungskanäle sind **China Customs** und **CCPIT 
 1. Bestätigen Sie das Ziel und ob eine **FTA-Präferenz** tatsächlich in Anspruch genommen wird; wenn nicht, ist ein nicht-präferentieller CO das übliche Instrument.
 2. Wenn Sie eine Präferenz beantragen, überprüfen Sie, ob das Fahrzeug die produktspezifische Ursprungsregel dieser Vereinbarung erfüllt, bevor Sie sich bewerben - gehen Sie nicht davon aus, dass "Made in China" allein qualifiziert ist.
 3. Matchen Sie den Emittenten an das, was der Importeur / Letter of Credit verlangt (offizielle Stelle → Zoll).
-4. Verwenden Sie das **aktuelle ** Formular und den Code unter Bestellung 270 und die entsprechende Vereinbarung; Formulare ändern sich, wenn Vereinbarungen hinzugefügt werden.
+4. Verwenden Sie das **aktuelle ** Formular und den Code unter Order 270 und die entsprechende Vereinbarung; Formulare ändern sich, wenn Vereinbarungen hinzugefügt werden.
 
 ## Was nicht zu versprechen ist
 - Diese Seite **nicht ** ordnet ein bestimmtes Ziel einer bestimmten Freihandelszone oder ihren Regeln zu - das ist länder- und vertragsspezifisch und muss pro Sendung mit Zoll / CCPIT überprüft werden.
 - Ein Ursprungszeugnis garantiert nicht, dass das Bestimmungsland einen ermäßigten Satz gewährt; der Bestimmungszoll trifft diese Bestimmung.
 
 ## Häufig gestellte Fragen
-**Was ist die aktuelle Regel für chinesische Export-COs? ** GACC Order No. 270, in Kraft seit 1 September 2024, regelt Export-Ursprungsbescheinigungen.
+**Was ist die aktuelle Regel für chinesische Export-COs?** GACC Order No. 270, in Kraft seit 1 September 2024, regelt Export-Ursprungsbescheinigungen.
 **Gehe ich zum Zoll oder zum CCPIT?** Wenn der Käufer eine offizielle Stelle benötigt, verwenden Sie den Zoll; Andernfalls kann einer der beiden Kanäle ausstellen, und der gewöhnliche CO von CCPIT ist in der Regel kostenlos.
 **Was ist der Unterschied zwischen einer gewöhnlichen und einer FTA CO? ** Das gewöhnliche CO weist den Ursprung für nichtpräferenzielle Zwecke nach; das FTA CO unterstützt einen vereinbarten Präferenzsatz nur, wenn die Waren die Ursprungsregeln dieses Abkommens erfüllen.
 **Garantiet ein FTA CO eine niedrigere Abgabe im Ausland?** Nein — der Zoll des Einfuhrlandes entscheidet, ob die Präferenz gewährt wird.
@@ -49,11 +49,14 @@ Die beiden autorisierten Ausstellungskanäle sind **China Customs** und **CCPIT 
 - IMAGE_ASSET_PATH: keine gesicherte Datei
 - ORIGINAL_IMAGE_URL: nicht erfasst
 - SOURCE_PAGE: nicht erfasst
+- SOURCE_FILE_PAGE: Entfällt — keine Kandidaten-Mediendatei identifiziert (keine Lizenz zur Geltendmachung)
 - RIGHTS_HOLDER: nicht bestätigt
 - LICENSE_OR_USAGE_BASIS: keine gesicherte — kein Bild von Dritten darf veröffentlicht werden, bis die Rechte gelöscht sind
-- CHECKED_DATUM: 2026-09-05
+- CHECKED_DATUM: 2026-09-06
 - MODEL_TOPIC_MATCH: muss mit dem genauen Modell/der genauen Version (oder dem Leitthema) und dem Referenzmarkt oben übereinstimmen
+- IMAGE_SCOPE_NOTE: nur die genaue Modellfamilie/das genaue Thema angeben; darf keine spezifische Trimm-/Modelljahr-, echte VIN-, persönliche Inspektion oder tatsächliche Transaktion implizieren
 - IMAGE_RIGHTS_STATUS: FAIL (kein lizenziertes Asset erfasst; ein Platzhalter oder ein Hinweis „altes Bild behalten wird nicht akzeptiert)
+- BLOCK_REASON: Es konnte kein wiederverwendbares Bild gesichert werden: Wikimedia Commons/Flickr sind aus der Forschungsumgebung nicht erreichbar, Lagerbibliotheken erfordern authentifizierten API/Lizenzzugriff und ein OEM-Webseitenbild ist KEIN kommerzielles Wiederverwendungsstipendium; es gibt kein AutoBridge-eigenes Foto. Nein, aber nicht nur vereitelt.
 - ALT nach Sprache:
   - **EN**: AutoBridge export-buyer reference — Certificate of origin for vehicle export, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Certificate of origin for vehicle export, guide d’achat à l’export automobile

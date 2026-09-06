@@ -1,71 +1,74 @@
-# China-Side Vehicle Export Licence and Customs Documents: the Order an Exporter Must Follow
-## SEO Metadata
-- **SEO Title**: China Vehicle Export Licence & Customs Documents Guide (2026)
-- **Meta Description**: How Chinese-side vehicle export qualification works — annual MOFCOM licence filing, BEV passenger-car export licensing, the used-car 180-day rule, and the full export document chain before customs declaration.
-- **Suggested URL**: /guides/china-vehicle-export-license-customs-documents/
-- ~ H1~: China-Side Vehicle Export Licence, Qualification and Customs Document Chain
-- **Primary Keyword**: china vehicle export license customs declaration documents
-- **Secondary Search Terms**: China used car export licence, BEV export license China, MOFCOM vehicle export filing, vehicle export document chain, 180 day used car export rule
-- **Internal Link Suggestions**: /guides/vehicle-coc-type-approval-dossier/ ; / Guides/v-helping- un3171-imdg-compliance/; /guides/vehicle-export-sales-contract-clauses/
-- **Image Suggestions**: licence→document→customs flow diagram; document-chain checklist; annual filing timeline
-- **ALT Suggestions**: "China vehicle export licence to customs flow"; "vehicle export document chain checklist"
+# เอกสารการส่งออกเป็นนามบัตรเสมือนและบริการต่าง ๆ ของประเทศจีน- Side
+## เชา ข้อมูลกํากับภาพ
+- **SEO Title**: คู่มือกําหนดเองสําหรับนําเข้าเอกสารของ Sina Mouse Cools (2026)
+- ""คําอธิบาย" วิธีการส่งออกรถฝั่งจีน งานเขียนเอกสารการส่งออก ประจําปี MOFCO, รถส่งผู้โดยสาร บีวี, การค้าเหา, กฎรถที่ใช้แล้ว 180-day และเอกสารส่งออกเต็มรูปแบบ ก่อนที่จะประกาศศุลกากร
+- ~ที่อยู่ URL ที่ถูกย่อ: / guides/china-Vinegic-export-ricents-documents/
+- ** H1 ~: การขนส่งแบบจีน- Side ส่งออกเป็น Laguage, การปรับคุณภาพและกําหนดเอกสารกําหนดเอง
+- ~ คําสําคัญในเอกสาร ~: ยานพาหนะจีนส่งออกเอกสารบันทึกการส่งใบอนุญาต
+- ~ การค้นหาในภาคเหนือ~: จีนใช้ใบอนุญาตส่งออกรถ, ใบส่งของ BC, ประเทศจีน, ปลั๊กอินส่งออกรถ MOFCR, ห่วงโซ่การส่งออกของรถ, 180 วันที่ใช้กฏการส่งออกรถ
+- ** เชื่อมโยงภายใน **; / guides/ viohsic-set-type-oprovial-dosier/; / guides/vs-firlip- un3171-imdg-compliance/; / Guides/Viidics-excort-s-sel-clauss/
+- ** คําแนะนําการนําเข้า *: AugustDocument aprographics flow atraph; เอกสาร- Chin list; ตารางเวลาการจัดเก็บรายปี
+- ** ข้อเสนอแนะ **: "สัญญาส่งรถจีนไปยังระบบระบบระบบระบบระบบ ศุลกากร;". แสดงรายการเอกสารส่งออกทางอิเล็กทรอนิกส์"
 
-## Why This Page Exists
-Most failed first shipments fail on the **China side**, not the destination: the exporter lacks the right qualification category, the licence does not cover the product, or the document chain is inconsistent at declaration. This guide sets out the order to follow. It is grounded in Chinese government documents (MOFCOM, the State Council policy library, MIIT); where a rule is revised annually or time-sensitive, it is flagged rather than treated as permanent.
+## เหตุ ผล ที่ หน้า นี้ มี อยู่
+การจัดส่งล้มเหลวส่วนใหญ่ในครั้งแรกของด้านของจีน ไม่ใช่ปลายทาง ผู้ส่งออกขาดหมวดหมู่การขยายสัญญาณที่ถูกต้อง ใบรับรองไม่ได้ครอบคลุมผลิตภัณฑ์ หรือห่วงโซ่เอกสารไม่สอดคล้องกันในการประกาศ มัคคุเทศก์ นี้ สั่ง ให้ ทํา ตาม. มันถูกวางรากฐานในเอกสารของรัฐบาลจีน (MOFCOM) ห้องสมุดนโยบายของรัฐ  MIT) ซึ่งกฎถูกแก้ไขใหม่ทุกปี หรือความไวของเวลา มันจะถูกตั้งให้อยู่แทนการปฏิบัติเป็นถาวร
 
-## Step 1 — Confirm Which Licence Regime Your Vehicle Falls Under
-China does not use one blanket "car export permit". Distinguish the tracks:
-- **New-energy / BEV passenger cars:** vehicles propelled solely by a drive motor and carrying a VIN (reference HS 8703801090) are under **export-licence administration** jointly overseen by MOFCOM, MIIT, GAC and SAMR (TIME_SENSITIVE — confirm the current notice and exact HS code against the year's tariff schedule).
-- **Used vehicles:** the State operates an **export-licence regime administered by MOFCOM**, and licence details must match the motor-vehicle registration certificate (VERIFIED, four-ministry notice).
-- **Conventional new vehicles / motorcycles:** handled through the **annual export-licence filing** described next.
-The exact commodity code and its regulatory condition must be confirmed against the current Import & Export Tariff and the latest MOFCOM announcement — do not reuse last year's HS assumption.
+## ขั้น ที่ 1 — ยืน ยัน ว่า มี การ กําหนด เวลา ไว้ ว่า น้ํา ตก ที่ คุณ อยู่ ใต้ น้ํา
+จีนไม่ได้ใช้ผ้าห่มผืนเดียว "ใบอนุญาตส่งออกรถยนต์" ยกเลิกการแยกแทร็กเสียง:
+- "รถโดยสารใหม่" ขับเคลื่อนโดยมอเตอร์ขับเคลื่อนโดยรถขับเคลื่อนเท่านั้น และพกวีเอ็น (อ้างอิง HS 8703801090) อยู่ภายใต้การบริหารระบบปฏิบัติการของ HS) ร่วมกันโดย MOFCOM, MIT และ SAMR (บางครั้ง) (ยืนยันการแจ้งข้อมูลปัจจุบันและระบุรหัส HS ที่ใช้ตรงกับตารางปี).
+- ** พาหนะที่ใช้: ~ทางรัฐดําเนินงานระบบการปกครองแบบ "ปฏิบัติการพิเศษ" โดย MOFCOM ~  and  รายละเอียดบัตรต้องตรงกับใบลงทะเบียนแบบมอเตอร์-เวฟเคิล (IFIFIIIE)  four-ministry notice).
+- ~รถใหม่ชั่วคราว/มอเตอร์ไซด์: ~ จัดการกับรายการสินค้าส่ง เสริมสินค้า~
+รหัสสินค้าที่แน่นอน และเงื่อนไขของรายการต้องได้รับการยืนยัน กับการส่งออกของทาริฟในปัจจุบัน และการประกาศ MOFCOM ล่านี้
 
-## Step 2 — The Annual Licence Filing (qualification before volume)
-MOFCOM issues an **annual notice arranging automobile and motorcycle export-licence applications**. Enterprises file for qualification; **modified/upfit vehicles must upload performance evidence such as export customs declarations and chassis purchase invoices**. Practical implication for a trader: qualification is not instant — align the annual filing window with your shipping plan, and keep chassis/upfit paperwork because it is evidence of real export performance.
+## ขั้น ที่ 2 — การ กลั่น กรอง ประจํา ปี (การ ปรับ ปรุง ก่อน เล่ม)
+MOFCOM แจ้งว่ามีการเตรียมการใช้รถยนต์และมอเตอร์ไซด์ ประยุกต์ส่งออก แฟ้มที่ยืนยันการจําแนก; ** รถที่ปรับและติดตั้งจะต้องอัปโหลดหลักฐานการทํางาน เช่น การประกาศศุลกากรส่งออก และ chasis สั่งซื้อในใบแจ้งหนี้ ~ การ ทํา ให้ การ ส่ง เอกสาร เป็น เรื่อง ง่าย ขึ้น
 
-## Step 3 — The Used-Car 180-Day Rule (a hard, dated requirement)
-Per the four-ministry notice on strengthening used-car export management (VERIFIED): **from 1 January 2026, where a vehicle being applied for export was registered no more than 180 days earlier, the applicant must supplement the OEM's After-Sales Maintenance Service Confirmation; otherwise the licence will not be issued.**
-- This is a China-side, dated requirement — quote it with the date and re-verify the notice before relying on it.
-- The licence information must be consistent with the vehicle's registration certificate; mismatches block issuance.
+## ขั้น ที่ 3 — ตู้ ใช้ แล้ว 180-Day กฎ (ข้อ เรียก ร้อง ที่ ยาก และ ลง วัน)
+Per the four-ministry notice on strengthening used-car export management (VERIFIED): ** จาก 1 ** 2026 เมื่อรถถูกนําไปใช้สําหรับการส่งออกได้รับการจดทะเบียนเมื่อ 180 วันก่อน ผู้สมัครต้องเสริมการบริการรักษา โออีเอ็ม หลังการบํารุงรักษา มิฉะนั้น ใบรับรองจะยังไม่ออก ~
+- นี่เป็นรายการที่จีนต้องการ โดยเพิ่มวันที่และตรวจสอบอีกครั้ง ก่อนที่จะอาศัยมัน
+- ข้อมูลทะเบียนต้องสอดคล้องกับ ใบรับรองการลงทะเบียนของรถ; ความผิดพลาดของบล็อกความไม่เสมอภาค
 
-## Step 4 — Build the Export Document Chain in a Consistent Order
-A clean declaration rests on mutually consistent documents:
-1. **Export licence** covering the exact product/HS;
-2. **Customs export declaration form**;
-3. **Commercial invoice**;
-4. **Packing list**;
-5. **Certificate of origin**;
+## ขั้น ที่ 4 — สร้าง เอกสาร ที่ ส่ง ออก เป็น เอกสาร ที่ เป็น รหัส สิน เชื่อ
+การ ประกาศ อย่าง สะอาด อาศัย เอกสาร ที่ เสมอ ต้น เสมอ ปลาย กัน:
+1. ~ เอ็กซ์ปอร์ต export exposition ~ ครอบคลุมผลิตภัณฑ์/เอชเอสที่แน่นอน ~
+2. ~. แบบฟอร์มประกาศการส่งออกของ Customs ~;
+3. เสียงเรียกเข้าทางไปรษณีย์#
+4. ~เรียงรายการ~
+5. ~ จุดเริ่มต้นของ ~
 6. **Third-party inspection report** where required;
-7. **For EVs/hybrids:** battery **UN38.3 test report and MSDS**, plus the ocean dangerous-goods paperwork. Under IMDG Amendment 42-24 (mandatory from 2026-01-01) a lithium-ion-battery-powered vehicle is classified UN3556, not the legacy generic UN3171; apply documentation/SOC details per the current EV shipping Fact Sheet and the carrier (see the EV ocean-compliance guide).
-Names, VINs, quantities, values and HS codes must agree across invoice, packing list, B/L and licence — customs and the destination broker both reject inconsistent sets.
+7. ~สําหรับ EVs/Hibrads: ~แบตเตอรี่ UN38.3 รายงานการทดสอบและเอกสาร MSDS ~ บวกกับเอกสารการบริการสินค้าทะเลอันตราย ภายใต้เครื่อง IMDG มาตรา 42-24 (เครื่องปรับเสียงจาก 2026-01-01) พาหนะที่ขับเคลื่อนโดยลิเทียม-บาตีตีส์ จําแนก UN3556 ไม่ใช่ข้อมูลมรดกทั่วไป UN3171; ใช้รายละเอียดเอกสาร/SOC ต่อแผ่นข้อมูลการจัดส่งสินค้าเอวีในปัจจุบันและการขนส่ง (ดูคู่มือของ EV Oceano-complient).
+ชื่อ, วีนส์, ปริมาณ, ค่า นิยม และ รหัส เอช เอส ต้อง เห็น พ้อง กัน ใน การ ส่ง เอกสาร, รายการ, บี – แอล และ ธนบัตร — และ ศุลกากร ต่าง ๆ — และ นาย หน้า ที่ ที่ จะ ไป ถึง ก็ ไม่ เสมอ ต้น เสมอ ปลาย ทั้ง สอง ชุด.
 
-## Step 5 — Enterprise/Product Admission Behind the Paperwork
-MIIT Order No. 50 divides road-motor-vehicle manufacturers and products into **six admission categories: passenger cars, goods vehicles, buses, special-purpose vehicles, motorcycles and trailers**. Why an exporter cares: the manufacturer's admission scope determines which products can legitimately be declared. For special-purpose/upfit vehicles, confirm the base chassis admission **and** the superstructure entity's qualification.
+## ขั้น ที่ 5 — เอ็นเตอร์ไพรส์/ โพรดักชั่น อะดัช แบ็ค เวิร์ค
+คําสั่งที่ MIT ไม่ 50 แบ่งผู้ผลิตถนน-โมบายด์-เวฟเคิล  and  products into **six admission categories: รถผู้โดยสาร ยานพาหนะ รถบัส รถพิเศษ มอเตอร์ไซค์ และรถพ่วง ทําไมผู้ส่งออกถึงสนใจ: ขอบเขตการรับสมัครของผู้ผลิต จะเป็นตัวกําหนดว่าผลิตภัณฑ์ใด สามารถทําการประกาศได้อย่างถูกต้องตามกฏหมาย สําหรับรถพิเศษ/ upfit ยืนยันว่ามีการรับสมัครฐาน chasis ~ และ~ ซูเปอร์โครงสร้างขององค์กร
 
-## What This Guide Recommends You Check Before Booking
-- The **licence regime and current HS code** for the exact vehicle (BEV / used / conventional / special).
-- **Annual filing status** and, for upfits, the chassis-invoice/declaration evidence.
-- For near-new used units, the **≤180-day OEM after-sales confirmation** before applying.
-- A **cross-document consistency pass** (VIN, value, HS, parties) before declaration.
-- **EV battery documents** early, since UN38.3/MSDS lead times gate booking.
+## สิ่ง ที่ คู่มือ นี้ แนะ นํา คุณ ให้ ตรวจ ก่อน ทํา หนังสือ
+- ระบบการปกครองและรหัส HS ปัจจุบันสําหรับรถที่แน่นอน (BEV / ใช้ / แบบทั่วไป / พิเศษ).
+- "สถานะการยื่นฟ้อง" และหลักฐานการยื่นฟ้อง
+- สําหรับหน่วยที่เกือบใช้ใหม่  the **≤180-day OEM after-sales confirmation** before applying.
+- A* O-Formital-Document assy~ (VIN, value, HS, Party) ก่อนประกาศ พ.ศ.
+- "เอกสารแบตเตอรี electron" เร็วขึ้น UN38.3/MSDS เบาะแสเวลาประตูจอง
 
-## Frequently Asked Questions
-**Does every car exporter need the same permit?** No — BEV passenger cars, used cars and conventional vehicles sit under different tracks; confirm the regime and HS code for the product.
-**What is the 180-day used-car rule?** From 1 Jan 2026, a vehicle registered ≤180 days before the export-licence application needs the OEM's after-sales maintenance confirmation or the licence will not be issued (per the four-ministry notice; re-verify before use).
-**Which documents form the export chain?** Licence, customs declaration, commercial invoice, packing list, certificate of origin, inspection report where required, plus UN38.3/MSDS for electrified vehicles.
-**Why does the manufacturer's admission category matter to a trader?** MIIT Order 50 splits vehicles into six admission categories; the product must sit within the manufacturer's admitted scope to be declared cleanly.
-**Where do HS codes come from?** Confirm the exact code and regulatory condition against the current tariff schedule and latest MOFCOM notice — don't carry over an old code.
+## คํา ถาม ที่ มัก จะ ถาม บ่อย ๆ
+~ผู้ส่งออกรถทุกคนต้องการใบอนุญาตเดียวกันหรือไม่~ ไม่ — รถ โดยสาร บีบี วี, รถยนต์ ใช้ แล้ว และ รถ ธรรมดา ๆ นั่ง อยู่ ใต้ ราง รถไฟ ต่าง ๆ; ยืน ยัน รหัส การ ปกครอง และ ระบบ เอช เอส สําหรับ สินค้า.
+~กฎ 180-day ที่ใช้รถคืออะไร ~ 1 January 2026 (พ.ศ.  a vehicle registered ≤180 days before the export-licence application needs the OEM's after-sales maintenance confirmation or the licence will not be issued (per the four-ministry notice; แก้ไขใหม่ก่อนใช้).
+~ เอกสารไหนเป็นห่วงโซ่การส่งออก ~ พินัยกรรม ศุลกากร แถลงการณ์พาณิชย์ ใบแจ้งหนี้ แพ็ครายชื่อ ใบอนุญาตจากต้นกําเนิด การตรวจสอบรายงานที่จําเป็น บวก UN38.3/MSDS สําหรับรถที่ได้รับเลือก
+**Why does the manufacturer's admission category matter to a trader?** MIIT Order 50 splits vehicles into six admission categories; ผลิตภัณฑ์ต้องอยู่ภายในขอบเขตที่ผู้ผลิตยอมรับ ว่าจะถูกประกาศอย่างสะอาด
+~ รหัส HS มาจากไหน ~ ยืนยันรหัสและเงื่อนไขที่แน่นอน กับตารางทาริฟปัจจุบันและล่าสุด MOFCOM — อย่าถือรหัสเก่า
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICNE_OR_USARIAND_BALE: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
-- RODL_TOIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- ALT by language:
+## บันทึกรูปภาพ
+- _ปราสาท: ไม่มีความปลอดภัยในคลังเก็บ
+- ส่วนตัว_ปลายทาง: ไม่ได้จับ
+- ผู้โดยสาร: ไม่ถูกจับ
+- HOURS_ PDFAGE: ไม่มีผล — ไม่มีชื่อแฟ้มสําหรับเลือกสื่อ (ไม่มีใบรับรองที่จะยืนยัน)
+- ลิขสิทธิ์: ไม่ยืนยัน
+- LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
+- _กําหนดวันที่: 2026-09-06
+- MERCUL_ TOPIC_ MATCH: ต้องตรงกับรุ่น/ การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
+- CHAR_SCPE_NOTE: ตรงกับโมเดลที่เป๊ะของครอบครัว/ topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
+- March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
+- BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
+- ALT ด้วยภาษา:
   - **EN**: AutoBridge export-buyer reference — China vehicle export licence and customs documents, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — China vehicle export licence and customs documents, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — China vehicle export licence and customs documents, Leitfaden für Fahrzeugexport-Einkauf
@@ -79,22 +82,22 @@ MIIT Order No. 50 divides road-motor-vehicle manufacturers and products into **s
   - **AR**: مرجع AutoBridge لمشتري التصدير — China vehicle export licence and customs documents, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜China vehicle export licence and customs documents, 汽车出口采购指南
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## ต้นฉบับและการตรวจสอบสิทธิ์
+| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| 2026 Automobile & Motorcycle Export Licence Filing Notice | Ministry of Commerce (MOFCOM) | CN (export side) | https://www.mofcom.gov.cn/zcfb/zc/art/2025/art_1b1313c9c6da4a56874364b39e39c57d.html | 2026-09-03 | VERIFIED | Annual filing; upfit performance evidence |
-| Notice on Further Strengthening Used-Car Export Management | State Council policy library (four ministries) | CN (export side) | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | VERIFIED | Used-car licence regime; 180-day rule from 2026-01-01 |
-| BEV passenger-car export-licence administration | National Business Daily / Toutiao | CN (export side) | http://m.toutiao.com/group/7554336546682323496/ | 2026-09-03 | TIME_SENSITIVE | BEV licence track, reference HS |
-| MIIT Order No. 50 — manfacturer & Produuct Adction | Ministry of Industry and IT | CN (export side) | https://www.miit.gov.cn/zcfg/jdcjxl/art/2018/art_72a4ad7ff2304a8c83199eac43f276fe.html | 2026-09-03 | VERIFIED | Six admission categories; document-chain basis |
-*Scope note: official sources here cover the China export side only. Exact HS codes, system-operation details and any annual revision must be confirmed against the current tariff and MOFCOM notices; destination-side rules are out of scope.*
+| 2026 มอเตอร์ไซด์อัตโนมัติ ส่งออกการล้างข้อมูล | กระทรวงพาณิชย์ (MOFCOM) | CN (ด้านพอร์ต) | https://www.mofcom.gov.cn/zcfb/zc/art/2025/art_1b1313c9c6da4a56874364b39e39c57d.html | 2026-09-03 | เปิดใช้งาน | เอกสารรายปี; หลักฐานการดําเนินงาน |
+| แจ้งให้ทราบถึงการจัดการการส่งออกรถที่ใช้ไปเพิ่มเติม | State Council policy library (four ministries) | CN (ด้านพอร์ต) | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | เปิดใช้งาน | กรมทะเบียนรถที่ใช้ได้ 180-day กฎจาก 2026-01-01 |
+| ผู้โดยสารที่โดยสารมา BEV | ธุรกิจ แห่ง ชาติ / ทู ที อา โน | CN (ด้านพอร์ต) | http://m.toutiao.com/group/7554336546682323496/ | 2026-09-03 | เวลา | แทร็ก BEV, HS อ้างอิง |
+| LIT สั่งซื้อหมายเลข 50 — manfacter & Production Adction | งาน อาชีพ และ งาน นี้ | CN (ด้านพอร์ต) | https://www.miit.gov.cn/zcfg/jdcjxl/art/2018/art_72a4ad7ff2304a8c83199eac43f276fe.html | 2026-09-03 | เปิดใช้งาน | หมวดหมู่การยอมรับหกส่วน; ฐานเอกสาร-คํา |
+* โน้ต: แหล่งข่าวอย่างเป็นทางการที่นี่ครอบคลุมเฉพาะด้านส่งออกของประเทศจีนเท่านั้น เอ็กซ์เซ็ก เอชเอสซีพีซีซีซีที รายละเอียดระบบปฏิบัติการ และการปรับปรุงใด ๆ ประจําปี ต้องได้รับการยืนยันจากรายงานการคมชัดปัจจุบันของทาริฟและMOFCOM *
 
-| 商务部 工业和信息化部 海关总署 市场监管总局公告 2025 年第 54 号（对纯电动乘用车实施出口许可证管理，2026-01-01 施行；参考 HS 8703801090） | Ministry of Commerce (MOFCOM) official announcem | CN | https://www.mofcom.gov.cn/zcfb/blgg/gg/2025/art/2025/art_b483d5aaebbb46e1999748d569d1ca99.html | 2026-09-04 | VERIFIED |  |
-| 商务部办公厅关于 2026 年度汽车和摩托车出口许可申报的通知（2025-09-28；引用54号公告，系统填报“乘用车”） | MOFCOM Department of Foreign Trade (wms) | CN | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-04 | VERIFIED |  |
+| 商务部 工业和信息化部 海关总署 市场监管总局公告 2025 年第 54 号（对纯电动乘用车实施出口许可证管理，2026-01-01 施行；参考 HS 8703801090） | กระทรวงพาณิชย์ (MOFCOM) ประกาศอย่างเป็นทางการ | CN | https://www.mofcom.gov.cn/zcfb/blgg/gg/2025/art/2025/art_b483d5aaebbb46e1999748d569d1ca99.html | 2026-09-04 | เปิดใช้งาน |  |
+| 商务部办公厅关于 2026 年度汽车和摩托车出口许可申报的通知 (2025-09-28; 引用 54 号公告, 系统填报 "乘用车") | กรมการค้าต่างประเทศ MOFCO (WM) | CN | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-04 | เปิดใช้งาน |  |
 
-## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market / scope**: China export side
-- **Verification method**: Chinese primary-source review (MOFCOM/State Council/MIIT); time-sensitive items flagged, not fixed
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+## การทบทวนแก้ไข
+- ~Uuthor/ retrieved~: [บีดริดจ์ ส่งออกทีมแก้ไข] (/ ผู้เขียน/) วิธี [แก้ไข] ของเรา [นโยบายการเลือ [/ การแก้ไข- policy/]
+- ~ถูกตรวจสอบแล้ว~: 2026-09-05
+- ~ ตลาด/ ขอบเขตการส่งออกของจีน~
+- ** วิธีการปรับตั้ง **: review ource ภาษาจีน (MOF/SATE Cos/MIIT); รายการที่จับต้องได้ตามเวลาไม่คงที่
+- ~มาตรฐานการแบ่งส่วน ~: Research and med from the source address address (Desk Research; ไม่มีการขับรถมือหนึ่ง, runchown หรือนําเข้า). ความมั่นใจของแหล่งแสดงต่อแถว; จุดใด ๆ ที่เราไม่สามารถยืนยันได้ด้วยตัวเอง ถูกนําเสนอเป็นรายการตรวจสอบแทนการยืนยันว่าเป็นความจริง
 #AutoBridge #ExportLicence #CustomsDocuments #ChinaExport #ExportProcurement

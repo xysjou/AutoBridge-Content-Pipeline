@@ -1,73 +1,76 @@
-# Dongfeng Tianjin KR (天锦KR) Refrigerated Truck: Chassis, Superstructure and GVW for Export
+# Dongfang Tianjin KR (天锦 KR) รถบรรทุกแบบปรับตั้ง: Chasis, Super Fiction และ GVW สําหรับส่งออก
 
-## SEO Metadata
+## เชา ข้อมูลกํากับภาพ
 - **SEO Title**: Dongfang Tianjin KR Refrigered Taker Spects & guides (18t)
-- **Meta Description**: Chinese-market Dongfeng Tianjin KR 6.8 m reefer — Cummins B6.2 180 kW/1000 N·m, Fast 8-speed, Dana axle, 18 t GVW, MIIT model code, and how chassis differs from the refrigerated superstructure.
-- **Suggested URL**: /vehicles/dongfeng-tianjin-kr/
-- ~ H1~: Dongfeng Tianjin KR Refrigerated Truck: Chassis + Superstructure Specs for Export Buyers
-- **Primary Keyword**: dongfeng tianjin kr refrigerated truck specs export
-- **Secondary Search Terms**: Tianjin KR DFH5180XLC, Dongfeng Cummins B6.2, 6.8m reefer truck, Chinese refrigerated truck export, 18t GVW chassis
-- **Internal Link Suggestions**: /guides/vehicle-export-hs-code-classification/ ; /guides/export-vehicle-document-package/ ; /vehicles/jmc-shunda/
-- **Image Suggestions**: KR reefer side 6.8m box; chassis frame; Cummins B6.2 engine; refrigeration unit; rear doors and interior
-- **ALT Suggestions**: "Dongfeng Tianjin KR 6.8m refrigerated truck 18t"; "Tianjin KRchasis vsopers Super Fictional"
+- ""คําอธิบาย" Schan-schang Tiang Tijin KR 6.8 M proder — Cummins B6.2 180 kW / 1000 N·m, รวดเร็ว 8-speed, Davia axle, 18 t GVW, รหัสรุ่น MIT และวิธี chasis ต่างจากระบบปรับความเย็น (Cerfrited contricy).
+- ~ที่อยู่ URL ที่ถูกย่อ: / เวกซี่/ ดองฟัน-ทีอานจิน-เกอร์/
+- ** H1 ~: ดงฟัน เทียนจิน KR~ รถบรรทุกที่ถูกปรับให้กลับไป: Chasis + สเปกต์แบบ Superfect สําหรับผู้ซื้อส่งออก
+- ~คําค้น: Dongfang tianjin kr curririted sports search
+- ~ การค้นหาโดยแพทย์~: เทียนจิน KR DFH5180XLC ดงฟรัง คูมีนส์ B6.2 รถบรรทุกปะการัง 6.8m รถส่งน้ํามันแช่แข็งจีน, 18t GVWchasis
+- ~ ลิงก์ภายในแนะนํา~: / guides/ wehicial-export-back-code-grofile/; / guides/ exporticer-document-duccess//jmc-sunda/
+- ~คําแนะนําจากหน่วยย่อย~: KR Preferer ด้าน 6.8m กล่อง; กรอบ chasis; เครื่องยนต์ Cummins B6.2; หน่วยทําความเย็น; ประตูหลังและภายใน
+- ข้อเสนอแนะ: "Dongfishiin KR 6.8m รถบรรทุกแช่แข็ง 18t"; "Tianjin KRchasis vsopers Crafter Brofile".
 
-## Buyer Context: a Special Vehicle Is Two Products — Chassis and Superstructure
-A refrigerated truck is not a single factory specification. The **chassis** (engine, gearbox, axle, GVW, wheelbase) is built by the truck maker; the **insulated box, refrigeration unit, temperature zones and insulation thickness are an upfit** installed by a body builder. Treating the reefer unit as a fixed factory fitment — or merging the 6.8 m KR with the larger KR Plus — is the main procurement error here. This page documents the **Chinese-market Tianjin KR 18 t-class reefer chassis (REFERENCE MARKET: CHINA)**; the model code appears in the MIIT public announcement, which anchors the legal specification.
+## คอนเท็กซ์: รถ เข็น พิเศษ มี สอง คัน — ชา ซิส และ สถาปัตยกรรม ชั้น ยอด
+รถ บรรทุก ที่ ทํา ความ เย็น ไม่ ใช่ อุปกรณ์ เฉพาะ ที่ ใช้ ใน โรง งาน. "Hachis" (เครื่องยนต์, เกียร์บ็อกซ์, axle, GVW, ล้อล้อ) สร้างโดยผู้ผลิตรถบรรทุก; กล่องที่ฝังตัว, เครื่องทําความเย็น, แผงอุณหภูมิ และความหนาของฉนวน เป็นเครื่องสร้างร่างกายที่ติดตั้งขึ้น การ รักษา หน่วย แนว ปะการัง ให้ เป็น ระบบ เสริม ของ โรง งาน — หรือ ทํา ให้ ความ ผิด พลาด ใหญ่ หลวง ที่ เกิด ขึ้น ใน การ จัด หา สาร ตะกั่ว ใน ขนาด 6.8 เมตร ต่อ หนึ่ง ใน สิบ ของ สาร ประกอบ ที่ มี ขนาด ใหญ่ กว่า คือ การ อุด ตัน ของ สาร ประกอบ การ ผลิต ที่ นี่. หน้านี้เอกสาร ~Chinese-มาร์เก็ต Tianjin KR 18 t - Preeter Chasis (REFEFESTESTLESTE:  CHINA); รหัสต้นแบบปรากฏในประกาศสาธารณะ MIT ซึ่งประกาศใช้ข้อกําหนดทางกฎหมาย
 
-## Chassis Identification (confirm the model code)
-- Documented model: ~ DFH5180XLC (EX8) ~ a newer filing code **DFH5180XLCG4** appears in **MIIT batch 410**. Match the code on the certificate to the delivered unit — an XLC reefer code and a plain cargo code are different completed vehicles.
-- Class: **18 t GVW chassis** with a **6.8 m box** (internal width about 2.45 m) on a **5000 mm wheelbase**.
-- The filed version carries an **89 km/h speed limiter** (single-source; confirm on the announcement).
+## Chasis ign (ตรวจสอบรหัสต้นแบบ)
+- รุ่นที่บันทึกไว้: ~ DFH5180XLC (EX8) ~; รหัสการจัดเก็บใหม่ ~ DFH5180XLCG4 ** ปรากฏใน ~MIT Group 410 ~ ตรงกับรหัสบนใบรับรองไปยังหน่วยส่ง — รหัส XLC ปะการัง และรหัสสินค้าธรรมดา มีรถที่เสร็จแบบที่แตกต่างกัน
+- รุ่น: ~ 18 t GVWchasis ~ ด้วยกล่องขนาด 6.8 m~ (ความกว้างภายใน 2.45 เมตร) บน a- 5000 mm ล้อล้อ (พ.ศ.
+- รุ่นที่ยื่นออกมา มีรุ่นย่อของ an- 89 km/h จํากัดความเร็ว (Single-sourcess; ยืนยันในประกาศ)
 
-## Powertrain and Driveline
-| Item | Tianjin KR 6.8 m reefer (China reference) |
+## ไดรฟ์ไลน์สําหรับพาวเวอร์เทรนต์
+| รายการ | Tianjin KR 6.8 m propeder (อ้างอิงจีน) |
 |---|---|
-| Engine | Dongfeng Cummins **B6.2NS6B245**, inline-6, 6.2 L diesel |
-| Power / torque | **180 kW (245 PS) / 1000 N·m** |
-| Gearbox | Fast (Fast Gear) **8JS105A/TA 8-speed** |
-| Rear axle | Dana **416**, ratio **4.11** |
-| GVW | **18 t** |
-| Emission | China-6 diesel |
+| กลไก | Dongfang Cummins ~ B6.2NS6B245~. ออนไลน์- 6, 6.2 L DEC |
+| พลัง / แรงบิด | **180 kW (245 PS) / 1000 N·m** |
+| กล่องปรับเลข | รวดเร็ว (เกียร์หลัก) ** 8JS105A/TA 8-speed ** |
+| เพลาหลัง | Dana ~ 416 ~, สัดส่วน ~ 4.11~ |
+| แบบ GVW | **18 t** |
+| การ ปลด ปล่อย | จีน- 6 ดีเซล |
 
-## Superstructure: What the Body Builder Decides (not fixed chassis data)
-The following are **upfit selections specified on the body builder's build sheet**, and this page deliberately does not hard-code them:
-- **Refrigeration unit brand/model** and whether it is belt-driven or has a standby electric motor.
-- **Number of temperature zones** (single/multi-temp) and set-point range.
-- **Insulation material and panel thickness**, interior dimensions and floor load rating.
-- Door configuration, side doors, meat-rail/track fitments.
-Request the **body builder's configuration sheet** as a separate document from the chassis certificate; the chassis maker does not warrant reefer-unit performance.
+## โครงสร้างสูงสุด: สิ่ง ที่ ผู้ สร้าง ร่าง กาย ตัดสิน ใจ ทํา (ไม่ ได้ กําหนด ข้อมูล ชา ซิส)
+รายการต่อไปนี้เป็น ~ตัวเลือกเพิ่มเติมที่ระบุไว้บนแผ่นพับของผู้สร้างร่างกาย~ และหน้านี้ไม่ได้ตั้งใจกําหนดรหัสมัน:
+- "เครื่องปรับโครงสร้างแบรนด์/โหมด" และเป็นสายพานสายพาน หรือมอเตอร์ไฟฟ้าที่รอเครื่อง
+- ** อาณาเขตอุณหภูมิที่เพิ่มขึ้น* (Single/Multi-tamp) และ cap-point sport.
+- ~การฉีดสารและแผ่นกระดาษหนา~, มิติภายในและพื้นโหลดเรตติ้ง
+- การปรับแต่งประตู ประตูด้านข้าง ชิ้นส่วนเนื้อและร่อง
+ต้องการบันทึกการปรับแต่งของ # ผู้สร้างชีวิต ~ เป็นเอกสารแยกออกจากใบรับรอง Chasis; ผู้สร้างชาสซิสไม่ได้ขอยืนยันประสิทธิภาพของหน่วยปะการัง
 
-## Version Boundary: KR vs KR+
-- **This page: Tianjin KR, B6.2 245 PS, 6.8 m box, 5000 mm wheelbase.**
-- The **KR Plus** uses a **D7.0NS6B330 (243 kW/330 PS)** engine, a **7.88 m box** and **5800 mm wheelbase** — a larger vehicle. Do not blend KR Plus dimensions or power into a KR order.
+## ขอบเขต KDE: KR vs KR+
+- "Tianjin KR". B6.2 245 PS กล่อง 6.8 m, 5000 mm ล้อเบส (พ.ศ. ~
+- The **KR Plus** uses a **D7.0NS6B330 (243 kW/330 PS)** engine, อะ ~ 7.88 m box~  and  " 5800 mm ล้อ" พาหนะที่ใหญ่กว่านี้ อย่าผสมขนาดหรือพลังงานของ KR+ เข้ากับลําดับของ KR
 
-## Overseas Buyer Verification Before Payment
-- Confirm the driven-axle/chassis drive form on the DFH chassis certificate before specifying the reefer upfit; it is deliberately not asserted from the captured Chinese reference figures.
-1. **MIIT model code** (DFH5180XLC / DFH5180XLCG4) on the certificate; GVW and speed-limiter status.
-2. **Chassis driveline** — B6.2 245 PS, Fast 8-speed, Dana 416/4.11 — matched to the VIN; KR Plus kept separate.
-3. **Body builder build sheet** for reefer unit, zones, insulation and interior dimensions.
-4. **Diesel sulphur/after-treatment** compatibility and destination type approval per the emission-fuel guide.
-5. **HS classification** — a reefer is a special-purpose goods vehicle; confirm heading/subheading (87.04 vs 87.05 boundary) per the HS-code guide, and assemble the full document package per the export-document checklist.
+## การ รับรอง การ ซื้อ ผ่าน ทาง ไปรษณีย์ ก่อน จะ จ่าย
+- ยืนยันการแปลงไดรฟ์แบบ DFHH chasis ก่อนระบุข้อมูล Proider Upfit; มันไม่ได้ตั้งใจยืนยันจากตัวเลขอ้างอิงที่จับได้ของจีน
+1. ** รหัสรุ่น MIT ~ (DFH5180XLC / DFH5180XLCG4) บนใบรับรอง; GVW และสถานะตัวเร่ง (Milmet).
+2. ~ชาซิส ไดรฟ์ไลน์ ~ — B6.2 245 PS, สปีด 8-speed ดาน่า 416/4.11 — ตรงกับวีเอ็น; เคอาร์ บวก แยกตัวออกมา.
+3. ~ช่างก่อสร้างทําแผ่นไม้ ~ สําหรับหน่วยปะการัง เขตกันน้ํา และมิติภายใน
+4. ~DESIELE กํามะถัน/หลังการรักษา~ ~ความเข้ากันได้และการอนุมัติของปลายทาง ต่อคู่มือการปล่อยก๊าซ
+5. "สปอร์ตซีชัน" – นักกีฬาปะการังเป็นรถสินค้าพิเศษ; ยืนยันการนํา/ การลบเอกสาร (87.04 vs 87.05 ขอบเขต) ต่อคู่มือของ HS-รหัส และรวบรวมแพ็คเกจเต็มเอกสารต่อรายการรายการส่งออกเอกสาร
 
-## Request a Current Export Quotation
-No export price is published. Enquire with **Destination Country · Quantity · Chassis (KR/KR Plus) · Reefer Unit & Temperature Requirement · LHD/RHD · Destination Port · Incoterm**.
+## ต้องการการอ้างถึงการส่งออกแบบปัจจุบัน
+ไม่มีการจัดพิมพ์ราคาส่งออก Enquire with **Destination Country · Quantity · Chassis (KR/KR Plus) · Reefer Unit & Temperature Requirement · LHD/RHD · Destination Port · Incoterm**.
 
-## Frequently Asked Questions
-**Is the refrigeration unit part of the Dongfeng chassis?** No — the chassis is Dongfeng; the insulated box and reefer unit are a body-builder upfit and need their own specification sheet.
-**What is the GVW and box length?** 18 t GVW with a 6.8 m box on a 5000 mm wheelbase for the documented KR.
-**Which engine?** Dongfeng Cummins B6.2NS6B245 at 180 kW (245 PS)/1000 N·m, through a Fast 8-speed gearbox to a Dana 416 axle.
-**How does the KR differ from the KR Plus?** The KR Plus is larger: 330 PS D7.0 engine, 7.88 m box, 5800 mm wheelbase — keep them separate.
+## คํา ถาม ที่ มัก จะ ถาม บ่อย ๆ
+"ห้องทําความเย็นเป็นส่วนหนึ่งของดงเฟ็ง แชสซิสรึเปล่า" ไม่ chasis is Dongfang; กล่องที่รวมเข้ากับเครื่องทําปะการังเป็น builder upfit และต้องการแผ่นกําหนดของตัวเอง
+~ความยาว GVW และกล่องคืออะไร? ~ 18 t GVW กับกล่อง 6.8 เมตร บนฐานล้อ 5000 mm สําหรับบันทึกการเคอาร์ (PDF).
+เครื่องยนต์ไหน? Dongfang Cummins B6.2NS6B245 ที่ 180 kW (245 PS)/ 1000 N·m ผ่านชุดเกียร์เร็ว 8-speed ไปที่ ดาน่า 416 axle.
+~เคอาร์ต่างจากเคอาร์บวกอย่างไร~ The KR Plus มีขนาดใหญ่กว่า: 330 PS D7.0 เครื่องยนต์, 7.88 มิล, 5800 mm ล้อเบส — แยกมันออกจากกัน
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICNE_OR_USARIAND_BALE: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
-- RODL_TOIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- ALT by language:
+## บันทึกรูปภาพ
+- _ปราสาท: ไม่มีความปลอดภัยในคลังเก็บ
+- ส่วนตัว_ปลายทาง: ไม่ได้จับ
+- ผู้โดยสาร: ไม่ถูกจับ
+- HOURS_ PDFAGE: ไม่มีผล — ไม่มีชื่อแฟ้มสําหรับเลือกสื่อ (ไม่มีใบรับรองที่จะยืนยัน)
+- ลิขสิทธิ์: ไม่ยืนยัน
+- LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
+- _กําหนดวันที่: 2026-09-06
+- MERCUL_ TOPIC_ MATCH: ต้องตรงกับรุ่น/ การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
+- CHAR_SCPE_NOTE: ตรงกับโมเดลที่เป๊ะของครอบครัว/ topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
+- March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
+- BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
+- ALT ด้วยภาษา:
   - **EN**: AutoBridge export-buyer reference — Dongfeng Tianjin KR, petrol/diesel Chinese-market vehicle / refrigerated truck
   - **FR**: Référence AutoBridge pour acheteurs export — Dongfeng Tianjin KR, véhicule thermique (marché chinois) / camion frigorifique
   - **DE**: AutoBridge-Referenz für Exportkäufer — Dongfeng Tianjin KR, Verbrenner (chinesischer Markt) / Kühl-Lkw
@@ -81,26 +84,26 @@ No export price is published. Enquire with **Destination Country · Quantity · 
   - **AR**: مرجع AutoBridge لمشتري التصدير — Dongfeng Tianjin KR, مركبة بمحرك احتراق (سوق الصين) / شاحنة مبردة
   - **ZH**: AutoBridge 出口采购参考｜Dongfeng Tianjin KR, 中国市场燃油车 / 冷藏车
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## ต้นฉบับและการตรวจสอบสิทธิ์
+| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| Tianjin KR 6.8m Proader B6.2 Powerrend/Gerarbox | 360che (Toutiao) | CN | http://m.toutiao.com/group/7031465452756828703/ | 2026-09-04 | ROOS_ CHCKED | B6.2 245PS, Fast 8-speed, Dana axle |
-| Nine 6.8m cargo trucks: KR config | 360che (Toutiao) | CN | http://m.toutiao.com/group/6961327956664779271/ | 2026-09-04 | ROOS_ CHCKED | 6.8m, wheelbase, axle ratio |
-| Tianjin KR 6.8m wheelbase & cargo box | 360che (Toutiao) | CN | http://m.toutiao.com/group/7155750645675377152/ | 2026-09-04 | ROOS_ CHCKED | 5000 WB, internal width, GVW |
-| DFH5180XLCG4 reefer — MIIT batch 410 | Sina Finance (citing MIIT) | CN | https://cj.sina.cn/article/norm_detail?froms=ttmp&url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Faigc%2Fxcsb%2F2026-08-07%2Fdoc-inimnrac4126512.shtml%3Ffinpagefr%3Dttzz | 2026-09-04 | ROOS_ CHCKED | New filing code, speed limiter |
-| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
-| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VERIFIED | China-VI compression-ignition (heavy diesel) emission stage for trucks/coaches |
-| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
+| Tianjin KR 6.8m รีฟเซอร์ B6.2 โรงไฟฟ้า/จอก | 360che (ทัฒนโญ) พ.ศ. | CN | http://m.toutiao.com/group/7031465452756828703/ | 2026-09-04 | ROOS_ CHCKED | B6.2 245PS, สปีด 8-speed ดาน่า แอคเซิล |
+| Nine 6.8m cargo trucks: ปรับแต่ง KR | 360che (ทัฒนโญ) พ.ศ. | CN | http://m.toutiao.com/group/6961327956664779271/ | 2026-09-04 | ROOS_ CHCKED | 6.8m, กงล้อ, อัตราส่วนแกน |
+| Tianjin KR 6.8m กล่องล้อและสินค้า | 360che (ทัฒนโญ) พ.ศ. | CN | http://m.toutiao.com/group/7155750645675377152/ | 2026-09-04 | ROOS_ CHCKED | 5000 WB, ความกว้างภายใน, GVW |
+| DFH5180XLCG4 เครื่องฉายภาพ ไมโครซอฟต์ รุ่น MIT 410 | เงิน ตรา สินา (อ้างอิง) | CN | https://cj.sina.cn/article/norm_detail?froms=ttmp&url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Faigc%2Fxcsb%2F2026-08-07%2Fdoc-inimnrac4126512.shtml%3Ffinpagefr%3Dttzz | 2026-09-04 | ROOS_ CHCKED | รหัสการกรอกข้อมูลใหม่ ตัวจํากัดความเร็ว |
+| ผู้ ผลิต และ แคตตาล็อก ผลิตภัณฑ์ ถนน — ระบบ สอบ ถาม ของ ประชาชน |  MIT, กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูลจีน | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | เปิดใช้งาน | ตรวจสอบผู้ผลิต, โมเดลที่อนุญาต และการทําอัลบั้มแบบแบ่งประเภท (公告) ก่อนการสั่งซื้อหรือส่งออก |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน สภาวะความปลอดภัยทางเทคนิคและเวลาปัจจุบัน/การปรับปรุง |
+| GB 17691-2018 พาหนะดีเซลหนักดีเซล โพลอัลโตเลต พ่นออก (จีน-วี) | กระทรวง นิเวศ วิทยา และ สิ่ง แวด ล้อม (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | เปิดใช้งาน | จีน- วี. การบีบข้อมูล (อีดีเซล) สาธิตการปล่อยก๊าซสําหรับรถบรรทุก/โคช |
+| GB 19147 เครื่องยนต์ดีเซลมาตรฐานเชื้อเพลิงแห่งชาติ (ฐานเชื้อเพลิงต่ํา) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | เปิดใช้งาน | ระดับเชื้อเพลิงดีเซลและซัลเฟอร์พื้นฐานที่ตรงกับการออกแบบเครื่องยนต์/การให้บริการต่างประเทศ |
 
-*Confidence note: model code anchored to MIIT batch-410 reporting; reefer unit/zones/insulation intentionally left to the body builder (no hard-coded values); KR Plus excluded. Chinese-market reference; confirm legal rating on the announcement/certificate.*
+* ข้อสังเกตแบบคอซิเฟอเรนซ์: รหัสต้นแบบที่ยึดยึดยึดอยู่กับ MIIT- 410 รายงาน; หน่วยปะการัง/โซน/ข้อมูล ที่จงใจทิ้งไว้ให้กับผู้สร้างร่างกาย (ไม่มีรหัส; KR) บวกกับการกีดกัน อ้างอิงตลาดจีน ยืนยันการจัดอันดับตามกฎหมายในการประกาศ/ sertieveted *
 
-## Editorial Review
-- **Author**: AutoBridge Export Editorial Team · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: China, Tianjin KR DFH5180XLC reefer chassis (Chinese-market reference; chassis vs upfit separated; not a global spec)
-- **Verification method**: MIIT-filing anchor; driveline cross-checked; superstructure deferred to body builder
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+## การทบทวนแก้ไข
+- ** aultor*: AutoBridge ส่งออกวิธีการแก้ไขคําทีม (AutoBridge) ต่อ [นโยบายแก้ไข] ของเรา (/Dercial-policy/)
+- ~ถูกตรวจสอบแล้ว~: 2026-09-05
+- ~ ตลาดแห่งความไม่สงบ~: จีน, เทียนจิน KR DFH5180XLC รีฟเซอร์ ชาสซิส (อ้างอิงของจีน-มาร์เก็ต; Chasis vsupfit; ไม่ใช่สเปกตรัม (พ.ศ.
+- ** วิธีการปรับตั้ง **: สมอยึดแบบ MIT-ฟิลม์; ไดรฟ์ไลน์ตรวจสอบการข้ามเส้นการตรวจสอบ; สํารองการทํางานแบบเหนือเข้ากับผู้สร้างร่างกาย
+- การร่างแบบ AI-assisted ถูกใช้ บทความนี้ตั้งอยู่บนพื้นฐานของงานวิจัยในตาราง และอัตโนมัติ QA ไม่มีการอ้างอิงการทดสอบก่อน จนกว่าจะมีการระบุรายละเอียดอย่างชัดเจน ยืนยันความต้องการที่ต้องใช้เวลาและกําหนดปลายทาง ก่อนทําการข้ามเวลา
+- ~มาตรฐานการแบ่งส่วน ~: Research and med from the source address address (Desk Research; ไม่มีการขับรถมือหนึ่ง, runchown หรือนําเข้า). ความมั่นใจของแหล่งแสดงต่อแถว; จุดใด ๆ ที่เราไม่สามารถยืนยันได้ด้วยตัวเอง ถูกนําเสนอเป็นรายการตรวจสอบแทนการยืนยันว่าเป็นความจริง
 
 **Tags**: #DongfengTianjinKR #RefrigeratedTruck #ChassisAndUpfit #SpecialVehicle #CommercialExport

@@ -1,9 +1,9 @@
 # Chinesischer Gebrauchtwagenexport — Qualifizierung, Lizenz und Freigabe von Piloten
 
 ## SEO Metadaten
-- **SEO Titel**: China Gebrauchtwagenexport: Pilot Qualification, Export Licence and Clearance (2026 Rules)
-- **Meta Description**: Wie ein chinesisches Unternehmen Gebrauchtwagen exportiert: pilot-zone qualification, the export licence, project-contracting exception, information consistency and the 2026 registration-consistency rule.
-- ** H1 **: Chinesischer Gebrauchtwagenexport – Pilotqualifizierung, Lizenz- und Freigabeprozess
+- **SEO Titel**: China Gebrauchtwagenexport: Pilotenqualifikation, Exportlizenz und Freigabe (2026 Regeln)
+- **Meta Description**: Wie ein chinesisches Unternehmen Gebrauchtwagen exportiert: Qualifikation für Pilotengebiete, die Ausfuhrlizenz, Ausnahme für die Auftragsvergabe, Konsistenz der Informationen  and  the 2026 registration-consistency rule.
+- ** H1 **: Chinesischer Gebrauchtwagenexport — Pilotqualifizierung, Lizenz- und Freigabeprozess
 - ** Primäres Keyword**: China Gebrauchtwagen-Exportlizenzprozess
 - **Secondary Search Terms**: Gebrauchtwagenexport China; Gebrauchtwagenexportlizenz; Pilotzone; Gebrauchtwagenexport; MOFCOM-Lizenz
 - **Vorgeschlagene URL**: /guides/china-used-car-export-license-process/
@@ -17,8 +17,8 @@ Im Gegensatz zum normalen Export von Neuwagen ist der Export von Gebrauchtfahrze
 ## Qualifizierung und Lizenzverfahren
 Die Route verläuft durch die Auswahl von Piloten und Unternehmen, indem die Ausfuhrlizenz (die über das MOFCOM-Lizenzsystem beantragt wird) und dann die Zollanmeldung und -abfertigung erhalten wird. Es gibt eine definierte ** Projektvertragsausnahme** für Gebrauchtgeräte/Fahrzeuge, die im Rahmen von Übersee-Projekten ins Ausland geschickt werden und die ihren eigenen Regeln folgt und nicht der Standard-Gebrauchtwagen-Handelslizenz.
 
-## 2026 Informationskonsistenzanforderung
-Nach der neueren Regel, die von 2026-01-01 wirksam ist, müssen die Registrierungs- und Lizenzinformationen **konsistent ** sein, und die Lizenz enthält einen Fahrplan für Fahrzeuge. Eine separate erfasste Regel betrifft Einheiten, die weniger als einen bestimmten Zeitraum gehalten werden und eine Kundendienst-Bestätigung erfordern; behandeln Sie den genauen Schwellenwert und das Formular als zeitsensibel und bestätigen Sie die aktuelle MOFCOM-Mitteilung, bevor Sie sich darauf verlassen.
+## The 2026 information-consistency requirement
+Nach der neueren Regel, die ab 2026-01-01 gilt, müssen die Registrierungs- und Lizenzinformationen **konsistent ** sein, und der Führerschein enthält einen Fahrplan für Fahrzeuge. Eine separate erfasste Regel betrifft Einheiten, die weniger als einen bestimmten Zeitraum gehalten werden und eine Kundendienst-Bestätigung erfordern; behandeln Sie den genauen Schwellenwert und das Formular als zeitsensibel und bestätigen Sie die aktuelle MOFCOM-Mitteilung, bevor Sie sich darauf verlassen.
 
 ## Konsistenzprüfungen für die gesamte Datei
 Gebrauchtwagenexport scheitert am häufigsten an einer inkonsistenten Identität im Kauf-/Transferprotokoll, im Lizenzverzeichnis, in der Zollanmeldung und in den Transportdokumenten. VIN, Modell, Kilometer-/Zustandsdokumente und der Empfänger müssen sich anstellen. Da gebrauchte Einheiten einzigartig sind (jeweils eine VIN), gibt es keine Abkürzung "Kopieren der letzten Sendung".
@@ -27,7 +27,7 @@ Gebrauchtwagenexport scheitert am häufigsten an einer inkonsistenten Identität
 1. Bestätigen Sie, dass das Unternehmen ein ausgewählter Pilotbereich ist, der einen qualifizierten Gebrauchtwagenexporteur hat (aktuelle Liste).
 2. Beantragen und erhalten Sie die Ausfuhrlizenz nach dem richtigen Fahrplan des Fahrzeugs.
 3. Für Übersee-Projektfahrzeuge, verwenden Sie den Projekt-Vertragskanal und Dokumente.
-4. Abgleich von VIN/Registrierung/Lizenz/Zoll/Transportdaten; satisfy the 2026 consistency rule and any short-tenure after-sales confirmation.
+4. VIN/Registrierung/Lizenz/Zoll/Transportdaten in Einklang bringen; die Konsistenzregel 2026 und jede Kundenbestätigung für kurze Zeiträume erfüllen.
 5. Melden Sie sich durch das Single Window an und behalten Sie die Kette für die FX / Steuerbehandlung.
 
 ## Grenzen
@@ -35,7 +35,7 @@ Die aktuelle Pilot-Stadt-Liste und die genauen Systembildschirme sind zeitsensib
 
 ## FAQ
 **Kann ein Handelsunternehmen Gebrauchtwagen exportieren?** Nein — es ist der Status eines qualifizierten Unternehmens im Pilotgebiet und eine Ausfuhrgenehmigung erforderlich.
-**Was ändert sich von 2026? ** Stärkere Übereinstimmung der Registrierungs-/Lizenzinformationen und eine fahrplanmäßige Fahrzeuglizenz; bestätigen Sie die Einzelheiten in der aktuellen Mitteilung.
+**Was ändert sich von 2026 ?** Stärkere Übereinstimmung der Registrierungs-/Lizenzinformationen und eine fahrplanmäßige Fahrzeuglizenz; bestätigen Sie die Einzelheiten in der aktuellen Mitteilung.
 **Gibt es eine Ausnahme für Überseeprojekte?** Ja, es gibt eine Projektvertragsroute mit eigenen Dokumenten.
 **Wo ist die Pilot-Stadt-Liste?** In der neuesten MOFCOM/Regierungsmitteilung — verlassen Sie sich nicht auf eine statische Liste.
 **Deckt dies die Importbestimmungen ab?** Nein - diese sind getrennt und länderspezifisch.
@@ -44,15 +44,17 @@ Die aktuelle Pilot-Stadt-Liste und die genauen Systembildschirme sind zeitsensib
 ## Quellen & Verifizierung
 | Quelle | Organisation | Markt | Tier | Vertrauen | URL | Belegte Fakten |
 |---|---|---|---|---|---|---|
-| 商务部等5部门关于二手车出口有关事项的公告 | 中华人民共和国商务部 | CN | T1 | ÜBERPRÜFUNG | https://www.mofcom.gov.cn/zcfb/blgg/art/2024/art_20567344ed0a40059d338aa2114ab932.html | 许可证管理, 申领流程, 工程承包例外, 清关后2个月 |
+| 商务部等 5 部门关于二手车出口有关事项的公告 | 中华人民共和国商务部 | CN | T1 | ÜBERPRÜFUNG | https://www.mofcom.gov.cn/zcfb/blgg/art/2024/art_20567344ed0a40059d338aa2114ab932.html | 许可证管理, 申领流程, 工程承包例外, 清关后 2 个月 |
 | 关于进一步扩大二手车出口业务地区范围的通知 | 中国政府网 | CN | T1 | ÜBERPRÜFUNG | https://www.gov.cn/zhengce/zhengceku/2022-12/06/content_5730345.htm | 试点地区, 企业遴选与退出 |
-| 关于进一步加强二手车出口管理工作的通知（2025-11） | 中国政府网 | CN | T1 | ÜBERPRÜFUNG | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-01-01新规, 登记一致性, 许可证附表 |
-| 二手车出口管理新政专题（2026-01-01起180天规则） | 中华人民共和国商务部 | CN | T1 | ZEIT_SENSIATION | http://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_776097802fa640c38e45808ce98559e8.html | 不满180天须售后维修服务确认书 |
+| 关于进一步加强二手车出口管理工作的通知 (2025-11) | 中国政府网 | CN | T1 | ÜBERPRÜFUNG | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-01-01 新规, 登记一致性, 许可证附表 |
+| 二手车出口管理新政专题 (2026-01-01 起 180 天规则) | 中华人民共和国商务部 | CN | T1 | ZEIT_SENSIATION | http://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_776097802fa640c38e45808ce98559e8.html | 不满 180 天须售后维修服务确认书 |
 | Handelsministerium (MOFCOM) | MOFCOM 商务部 | CN | T1 | ÜBERPRÜFUNG | https://www.mofcom.gov.cn/ | zuständige Behörde für Ausfuhrgenehmigungen und Ausfuhrkontrollen |
+| Allgemeine Zollverwaltung der VR China (GACC) — Exportüberwachung für Gebrauchtwagen | Allgemeine Zollverwaltung von China (海关总署 GACC) | CN | T1/T2 | ÜBERPRÜFUNG | http://www.customs.gov.cn/ | Der Zoll ist die Erklärungs-/Abfertigungsbehörde für Gebrauchtwagenexportsendungen, ergänzend zur MOFCOM-Lizenzierung. |
+| China Automobile Dealers Association (CADA) — Exportunternehmen für Gebrauchtwagen | China Automobile Dealers Association (中国汽车流通协会 CADA) | CN | T1/T2 | ÜBERPRÜFUNG | http://www.cada.cn/ | Industrieverband Kontext zur Entwicklung von Gebrauchtwagenexporten und Unternehmenspraxis (T2, keine Regulierungsbehörde) |
 ## Editorial Review
 - **AutoBridge Export Editorial Team · [Autoren](/Autoren/) · [Editorial Policy](/Editorial-Policy/]
 - **Zuletzt überprüft**: 2026-09-05
-- **Referenzmarkt**: CN（中国出口侧）
+- **Referenzmarkt**: CN(中国出口侧)
 - **Verifizierungsmethode**: Desk-Recherche mit den unten genannten Quellen; Referenzspezifikation für den chinesischen Markt nur, sofern nicht ausdrücklich ein separater Exportmarkt angegeben wird.
 - **Transparenz**: KI-unterstütztes Zeichnen wurde verwendet. Dieser Artikel basiert auf Desk Research und automatisierter QA. Es werden keine Tests aus erster Hand beansprucht, es sei denn, sie sind explizit dokumentiert; zeitsensible und zielspezifische Anforderungen vor der Transaktion bestätigen.
 
@@ -60,11 +62,14 @@ Die aktuelle Pilot-Stadt-Liste und die genauen Systembildschirme sind zeitsensib
 - **IMAGE_ASSET_PATH**: keine gesicherte im Repository
 - **ORIGINAL_IMAGE_URL**: nicht erfasst
 - **SOURCE_PAGE**: nicht erfasst
+- **SOURCE_FILE_PAGE**: Entfällt — keine Kandidaten-Mediendatei identifiziert (keine Lizenz zur Geltendmachung)
 - **RIGHTS_HOLDER**: nicht bestätigt
 - **LICENSE_OR_USAGE_BASIS**: keine gesicherte — OEM-Webseitenpräsenz ist keine kommerzielle Wiederverwendungslizenz
-- **CHECKED_DATE**: 2026-09-05
+- **CHECKED_DATE**: 2026-09-06
 - **MODEL_TOPIC_MATCH**: exakter chinesischer Gebrauchtwagenexport
+- **IMAGE_SCOPE_NOTE**: Das Bild muss nur mit der genauen Modellfamilie/dem genauen Thema übereinstimmen; darf keine bestimmte Trimmung, kein Modelljahr, keine echte VIN, keine persönliche Inspektion oder keine tatsächliche Transaktion implizieren.
 - **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: Es konnte kein wiederverwendbares Bild gesichert werden: Wikimedia Commons/Flickr sind aus der Forschungsumgebung nicht erreichbar, Lagerbibliotheken erfordern authentifizierten API/Lizenzzugriff und ein OEM-Webseitenbild ist KEIN kommerzielles Wiederverwendungsstipendium. Es gibt kein AutoBridge-eigenes Foto. Record Keeped FAIL statt behauptet.
 - **ALT (12 Sprachen)**:
   - **EN**: used car export licence, Chinese-market procurement guide export buyer reference
   - **FR**: used car export licence, procurement guide du marché chinois, référence acheteur export

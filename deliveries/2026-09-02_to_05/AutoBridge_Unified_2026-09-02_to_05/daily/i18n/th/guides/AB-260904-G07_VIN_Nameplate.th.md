@@ -1,67 +1,70 @@
-# Reading and Verifying a Chinese Vehicle's VIN and Nameplate Under GB 16735-2019
+# การอ่านและตรวจสอบวีระรถจีน และชื่อที่ปรากฏภายใต้ GB 16735-2019
 
-## SEO Metadata
-- "SEO Towns": VIN & nameclution for month rafts rafters — GB 16735-2019
-- **Meta Description**: How a 17-character VIN splits into WMI/VDS/VIS under GB 16735-2019, why stamped VIN, nameplate, certificate and shipping documents must match, and what an importer should verify before payment.
-- **Suggested URL**: /guides/vin-nameplate-verification-chinese-vehicles
-- ~ H1~: VIN and Nameplate Verification for a Chinese Vehicle: Structure, Standard and the Four-Place Match
-- **Primary Keyword**: VIN nameplate verification GB16735 chinese vehicle
-- **Secondary Search Terms**: WMI VDS VIS structure, GB16735-2019 VIN, VIN check digit position 9, VIN nameplate certificate consistency, stamped VIN tampering
-- **Internal Link Suggestions**: /guides/export-vehicle-document-package/ ; /guides/china-export-statutory-inspection-declaration/ ; /vehicles/jac-t9-hunter/
-- **Image Suggestions**: 17-char VIN parts grap; four-place match checklist; stamped VIN close-up
-- **ALT Suggestions**: "17 character VIN split into WMI VDS VIS under GB16735-2019"
+## เชา ข้อมูลกํากับภาพ
+- "SEO Talks": VIN & name nameclution for raft mofts — GB 16735-2019
+- ""คําอธิบาย" 17-character VIN แยกออกเป็น WMI/VDS/VIS ภายใต้ GB 16735-2019 ทําไมประทับตราลต, ป้ายชื่อ, และเอกสารการขนส่งจึงตรงกับ และตัวนําเข้าควรจะตรวจสอบก่อนจ่ายเงิน
+- ~ที่อยู่ URL ที่ถูกย่อ: / guides/ vin-names-vernational-chinse-Vhinek
+- ** H1 **. สืบค้นเมื่อเทียบกับเครื่องราชอิสริยาภรณ์จีน: โครงสร้าง, มาตรฐานและสี่เครื่องที่เข้าคู่กัน **
+- ~คีย์เวิร์ดของกลุ่มข่าว ~: ประทับตราทะเบียนรถจีน GB16735 คัน
+- ~การค้นหาตามวาระที่: ~ WMI VDS โครงสร้าง, GB16735-2019 VIN, VIN ตรวจสอบตําแหน่งตัวเลข 9, ชื่อตราบัตรความสอดคล้อง, ประทับการปรับเปลี่ยน
+- ** เคล็ดลับการเชื่อมโยงภายใน **: / ไกด์/ เอ็กซ์ปอร์ท-เวนิก-โดคูเมนท์-จีเอ็มซียู/ - ไกด์/ ชินา-เอ็กซ์ปอร์ท-สตราซิตี-อินเสริ์ฟ-วิริชั่น/ / เลนส์/จาแจ็ค- t9-hunter/
+- ข้อเสนอแนะ: 17-char แผนภาพภาคต่อ (VIN); four-place match checklist; ประทับตราใกล้ VIN
+- ~~~~~~~~~ ข้อเสนอแนะ: "In vin อักขระ 17 แยกออกเป็น WMI VDS VIS ต่ํากว่า GB16735-2019".
 
-## Why VIN Verification Sits Before Payment
-A VIN mismatch is one of the few defects that blocks registration **after** the vehicle has already been paid for and shipped. The fix is cheap at the sourcing desk and expensive at the destination port. This guide explains the Chinese VIN structure under the current standard and gives a four-place consistency check buyers can run before releasing balance payment.
+## เหตุ ผล ที่ การ พิสูจน์ ว่า ถูก ต้อง อยู่ ใน ตําแหน่ง ก่อน จะ จ่าย
+เครื่องยนต์ผิดคู่เป็นหนึ่งในข้อบกพร่องไม่กี่อย่าง ที่บล็อกลงทะเบียนหลัง ~รถได้รับจ่ายเงินแล้ว และจัดส่ง น้ํายานั่นถูกๆ ที่โต๊ะเก็บอาหาร และราคาแพงๆ ที่ท่าจอดเรือปลายทาง มัคคุเทศก์นี้อธิบายโครงสร้างของจีนที่อยู่ใต้มาตรฐานปัจจุบัน และให้การตรวจสอบความสอดคล้องของผู้ซื้อสี่ที่ สามารถทํางานได้ก่อนที่จะปล่อยการชําระเงินงบดุล
 
-## The 17-Character Structure Under GB 16735-2019
-A vehicle identification number is **17 characters**, divided into three parts:
-- **WMI (positions 1–3) — World Manufacturer Identifier**: pre-assigned to the manufacturer by the authorized body of the country/region where it is located, in line with GB 16737.
-- **VDS (positions 4–9) — Vehicle Descriptor Section**: describes model/engine and other characteristics; **position 9 is the check character**.
-- **VIS (positions 10–17) — Vehicle Indicator Section**: carries model year, assembly plant and production serial number.
+## 17-Character โครงสร้างภายใต้ GB 16735-2019
+หมายเลขทะเบียนรถคือ ~ 17 ตัวอักษร ~ แบ่งออกเป็นสามส่วน
+- ~WMI (ทิศทาง 1–3) — ผู้จัดจําหน่ายโลก Identifier ~: นําหน้าการมอบอํานาจให้กับผู้ผลิตโดยร่างที่มีอํานาจของประเทศ/ region ที่ตั้งตามตําแหน่ง GB 16737.
+- **WDS (ทิศทาง 4–9): มาตรา expressor exampor ~: อธิบายโมเดล/เครื่องยนต์ และคุณลักษณะอื่น ๆ; ~ position 9 is a check man. ~
+- IS (ประกาศ 10–17) — กองผู้ตรวจการการขนส่ง: ดําเนินการปีต้นแบบ, ผู้ผลิตและการผลิตหมายเลขต่อเนื่อง (PDF).
 
-**GB 16735-2019 *Road vehicles — Vehicle identification number (VIN)*** is the current Chinese standard (replacing the 2004 edition) and is listed as a **mandatory cited standard in road-motor-vehicle product-access review**. That mandatory status is why VIN, nameplate, certificate and licence documents are required to be consistent.
+~GB 16735-2019 * ยานพาหนะโรด — หมายเลขประจําตัวรถ (VIN) เป็นมาตรฐานของจีนในปัจจุบัน (แก้ไขรุ่น 2004) และถูกลงรายการเป็นมาตรฐานที่อ้างอิงในผลิตภัณฑ์รถยนต์ถนน-เวเนโร-รีวิว! สถานะที่บังคับคือเหตุผลว่าทําไม VIN, ป้ายชื่อ, ใบรับรองและเอกสารใบอนุญาตจึงต้องสอดคล้องกัน
 
-## What We Deliberately Do Not Infer From the First Character
-The WMI first character is allocated by an authorized body. This guide does **not** assert a blanket rule such as "Chinese vehicles start with L (some with H)" as a definitive origin test: that claim was not confirmed to a reliable standard in the current research and is treated as **unverified**. Origin and manufacturer must be read from the **authorized WMI allocation**, not guessed from an initial letter; a specific WMI-prefix-to-manufacturer lookup requires the allocation table and is not reproduced here. Destination-country VIN format rules are country-specific and checked separately.
+## สิ่ง ที่ เรา ไม่ ได้ พิจารณา จาก ตัว อักษร ตัว แรก
+ตัวละครตัวแรกของ WMI ถูกรวมเข้ากับร่างที่ได้รับอนุญาต มัคคุเทศก์นี้ยืนยันกฏผ้าห่ม เช่น "พาหนะจีนที่ขึ้นต้นด้วย L (บางแบบกับ H)" เป็นการทดสอบที่มาของการอ้างอิงอย่างแน่ชัด: การอ้างนี้ยังไม่ได้รับการยืนยันว่ามาตรฐานที่เชื่อถือได้ในการวิจัยปัจจุบัน และได้รับการปฏิบัติอย่างเป็น "ไม่ได้รับการรับรอง" ต้นฉบับและผู้ผลิตจะต้องอ่านจากโปรแกรมโปรแกรมโปรแกรมย่อยของ WMI ที่ได้รับผลมาจากโปรแกรมโปรแกรมโปรแกรมนี้ ไม่ได้เดาจากอักษรตัวแรก; การมองหาตัวช่วยขยายเสียง WMI-THI ที่ระบุเอาไว้ จะต้องใช้ตารางการเรียงและไม่มีการทําซ้ําที่นี่ รูปแบบของทีมชาติ-ชนบท กฎของวินน์ คือ ข้อจํากัดของประเทศ และถูกตรวจสอบแยกต่างหาก
 
-## The Four-Place Match Before Balance Payment
-Compare the same 17 characters across four locations and confirm there is no grinding, re-stamping or over-spray:
-1. **Stamped/chiselled VIN on the body** (chassis).
-2. **VIN on the nameplate**.
-3. **VIN on the certificate of conformity / factory certificate**.
-4. **VIN on the shipping documents** (B/L, invoice, packing list).
+## ตรงกับสี่-พีซีก่อนที่จะชําระเงินสมดุล
+Compare the same 17 characters across four locations  and  ยืนยันไม่มีบด สเปรย์ซ้ําหรือมากกว่า:
+1. ~วางจําหน่าย/ขายวีเอ็นบนศพ~
+2. ~"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""บนแผ่น""""""""""""""""""""""" บนแผ่น"""" บนแผ่น"""""""""""" บนแผ่น"""""""""""""""""""""""""""""""""""""""""""""""""""
+3. ~. สืบค้นเมื่อ February of accessity/Proadical ใบรับรอง ~.
+4. "VIN ในเอกสารการส่งสินค้า" (B/L, ในใบแจ้งหนี้, แพ็ครายการ).
 
-Any character difference, restamping evidence, or document-vs-body mismatch is a hold point: resolve it with the supplier and the manufacturer's allocation record **before** payment and booking, because registration authorities compare the same four places.
+ความแตกต่างใด ๆ, การรวบรวมหลักฐาน หรือเอกสาร vs body ผิดคู่เป็นจุดยึด: แก้ปัญหาด้วยผู้จัดหา  and  บันทึกการย้ายถิ่นของผู้ผลิต ~ ก่อน ~ การชําระเงิน~  and  การจอง  because registration authorities compare the same four places.
 
-## A Practical Verification Order
+## ระเบียบ ที่ ใช้ ได้ จริง
 1. Transcribe the stamped body VIN character by character (17 total).
-2. Confirm the position-9 check character and the position-10 model-year code are internally consistent.
-3. Match it to nameplate, certificate and shipping documents (four-place match).
-4. Identify the manufacturer through the WMI allocation rather than the first letter alone.
-5. Photograph stamped VIN, nameplate and certificate together for the file.
+2. ยืนยันตําแหน่ง Seck access- 9  and  รหัสปีแบบ 10 สอดคล้องกันภายใน
+3. จับคู่มันกับชื่อที่ตั้งชื่อ ใบรับรอง  and  shipping documents (four-place match).
+4. ระบุผู้ผลิตผ่านทาง alsolution WMI แทนตัวอักษรตัวแรก
+5. ประทับตรา VIN, ป้ายชื่อและใบรับรองรวมสําหรับแฟ้ม
 
-## Boundaries of This Guide
-- No WMI-prefix-to-manufacturer directory (requires the authorized allocation table).
-- No absolute "initial letter = country of manufacture" rule.
-- Destination VIN/registration formats are handled per destination country.
+## ผู้ รับ ใช้ ของ พระ ยะ โฮ วา ใน สมัย โบราณ
+- ไม่มีไดเรกทอรีสําหรับเติมข้อมูล WMI-prefix- to-manculator (ตรวจสอบตารางการแทนที่ที่อนุญาต)
+- ไม่มีกฏ "ฉบับที่มีความหมาย = ประเทศแห่งการผลิต"
+- รูปแบบปลายทาง/ การแก้ไข จะจัดการต่อประเทศ
 
-## Frequently Asked Questions
-**How is a Chinese VIN structured?** 17 characters: WMI (1–3), VDS (4–9, with check character at 9), VIS (10–17, model year/plant/serial).
-**Which standard governs it?** GB 16735-2019, a mandatory cited standard in vehicle product-access review.
-**Can I tell the origin from the first letter?** Not reliably on its own — use the authorized WMI allocation; this guide does not assert an L/H rule as fact.
-**What must match before payment?** Stamped body VIN, nameplate VIN, certificate VIN and shipping-document VIN — all identical, with no re-stamping.
+## คํา ถาม ที่ มัก จะ ถาม บ่อย ๆ
+~แล้วโครงสร้างของจีนเป็นยังไงบ้าง ~ 17 ตัวอักษร: WMI (1–3), VDS (4–9) มีอักษรเช็คที่ 9), ViS (10–17) รุ่นปี/ปี/พ.ศ.
+** มาตรฐานใดควบคุมมัน? ~ GB 16735-2019 มาตราฐานอ้างอิงในผลิตภัณฑ์รถยนต์ (PDF).
+~ฉันบอกที่มาของจดหมายฉบับแรกได้ไหม~ ไม่ น่า จะ เป็น ไป ได้ ที่ จะ ใช้ กฎ ที่ อนุญาต ของ WMI; มัคคุเทศก์ นี้ ไม่ ยืน ยัน กฎ L/H ว่า เป็น ข้อ เท็จ จริง.
+~อะไรต้องตรงกันก่อนจ่ายเงิน~ สแตมบอดี้วีน ชื่อ เทลฟิน ใบรับรองวีเอ็น และ การขนส่งวีเอ็น ทั้งหมดเหมือนกัน ไม่มีเครื่องราชอิสริยาภรณ์ใหม่
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICNE_OR_USARIAND_BALE: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
-- RODL_TOIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- ALT by language:
+## บันทึกรูปภาพ
+- _ปราสาท: ไม่มีความปลอดภัยในคลังเก็บ
+- ส่วนตัว_ปลายทาง: ไม่ได้จับ
+- ผู้โดยสาร: ไม่ถูกจับ
+- HOURS_ PDFAGE: ไม่มีผล — ไม่มีชื่อแฟ้มสําหรับเลือกสื่อ (ไม่มีใบรับรองที่จะยืนยัน)
+- ลิขสิทธิ์: ไม่ยืนยัน
+- LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
+- _กําหนดวันที่: 2026-09-06
+- MERCUL_ TOPIC_ MATCH: ต้องตรงกับรุ่น/ การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
+- CHAR_SCPE_NOTE: ตรงกับโมเดลที่เป๊ะของครอบครัว/ topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
+- March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
+- BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
+- ALT ด้วยภาษา:
   - **EN**: AutoBridge export-buyer reference — Chinese VIN and nameplate under GB 16735, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Chinese VIN and nameplate under GB 16735, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Chinese VIN and nameplate under GB 16735, Leitfaden für Fahrzeugexport-Einkauf
@@ -75,24 +78,24 @@ Any character difference, restamping evidence, or document-vs-body mismatch is a
   - **AR**: مرجع AutoBridge لمشتري التصدير — Chinese VIN and nameplate under GB 16735, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Chinese VIN and nameplate under GB 16735, 汽车出口采购指南
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## ต้นฉบับและการตรวจสอบสิทธิ์
+| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| GB 16735-2019 Road vehicles — VIN, standard text PDF | SAC/TC114 (national auto standardization) | CN | https://203.83.237.36/upload/202108/10/202108101324047215.pdf | 2026-09-04 | VERIFIED (primary) | 17-char structure, standard text |
-| GB 16735-2019 standard status page | SAMR openstd | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-04 | VERIFIED (primary) | Current status, replaces 2004 |
-| SAMR platform · GB16735-2019 detail | SAMR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=94E9AF238E3052A4E05397BE0A0AD366 | 2026-09-04 | VERIFIED (primary) | Standard status |
-| Road-motor-vehicle product-access review requirements (mandatory citation of GB16735) | MIIT official PDF | CN | https://wap.miit.gov.cn/cms_files/filemanager/1226211233/attach/20259/9d0824a8e8a84abf858f3cb96a6d7385.pdf | 2026-09-04 | VERIFIED (primary) | Mandatory status, consistency requirement |
-| VIN segment explanation | Pacific Auto | CN | http://m.pcauto.com.cn/x/5100/51002243.html | 2026-09-04 | SINGLE_SOURCE | Position-level explainer |
-*Blocked note: "Chinese WMI starts with L / some H" is UNVERIFIED and not stated as fact; WMI-prefix manufacturer mapping and destination VIN formats are out of scope.*
+| ขนาด GB 16735-2019 รถ ถนน — วี เอ็น, ข้อความ มาตรฐาน PDF | SAC/ TC114 (มาตรฐานการใช้รถสากล) | CN | https://203.83.237.36/upload/202108/10/202108101324047215.pdf | 2026-09-04 | ISIFIE (เมษายน) | โครงสร้าง 17-char, ข้อความมาตรฐาน |
+| หน้าสถานะมาตรฐานของ GB 16735-2019 | เปิดใช้ SAMR | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-04 | ISIFIE (เมษายน) | สถานะปัจจุบัน จะแทนที่ 2004 |
+| SAMR platform · GB16735-2019 detail | SAMR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=94E9AF238E3052A4E05397BE0A0AD366 | 2026-09-04 | ISIFIE (เมษายน) | สถานะมาตรฐาน |
+| สืบค้นสินค้าที่ยึดติดจากถนนโมเนอร์ (สัญญาณ GB16735) | PDF อย่างเป็นทางการ MIT | CN | https://wap.miit.gov.cn/cms_files/filemanager/1226211233/attach/20259/9d0824a8e8a84abf858f3cb96a6d7385.pdf | 2026-09-04 | ISIFIE (เมษายน) | สถานะการเลี้ยงดู, ข้อต้องการความสอดคล้องกัน |
+| อธิบายส่วนย่อย VIN | แปซิฟิกออโต้ | CN | http://m.pcauto.com.cn/x/5100/51002243.html | 2026-09-04 | ผู้โดยสาร_ปลายทาง | ตัวอธิบายตําแหน่ง |
+* โน้ต: "Chinese WMI เริ่มต้นที่ L/H บางตัว" ไม่ได้รับการแก้ไข และไม่ระบุว่าเป็นความจริง; WMI-prix ผู้ผลิตและรูปแบบปลายทาง VIN ไม่อยู่ในขอบเขต *
 
-| 道路车辆 车辆识别代号(VIN) GB16735-2019 条文(百科载体) | 百科(国标条文载体) | CN | https://m.baike.com/wiki/%E8%BD%A6%E8%BE%86%E8%AF%86%E5%88%AB%E5%8F%B7%E7%A0%81/1470666 | 2026-09-04 | SINGLE_SOURCE | VIN=WMI+VDS+VIS共17位(以标准正文为准) |
+| 道路车辆 车辆识别代号(VIN) GB16735-2019 条文(百科载体) | 百科 (国标条文载体). | CN | https://m.baike.com/wiki/%E8%BD%A6%E8%BE%86%E8%AF%86%E5%88%AB%E5%8F%B7%E7%A0%81/1470666 | 2026-09-04 | ผู้โดยสาร_ปลายทาง | VIN=WMI+VDS+VIS 共 17 位 (以标准正文为准) |
 
-## Editorial Review
-- **Author**: AutoBridge Export Editorial Team · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: Chinese VIN standard (destination VIN rules excluded)
-- **Verification method**: GB16735-2019 official standard text + MIIT mandatory citation; unverified first-letter origin rule removed
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+## การทบทวนแก้ไข
+- ** aultor*: AutoBridge ส่งออกวิธีการแก้ไขคําทีม (AutoBridge) ต่อ [นโยบายแก้ไข] ของเรา (/Dercial-policy/)
+- ~ถูกตรวจสอบแล้ว~: 2026-09-05
+- ~ ตลาดรวม~: มาตรฐานจีน VIN (กฎการแบ่งประเภท VIN)
+- ~วิธีการสร้างความสัมพันธ์ ~: GB16735-2019 ข้อความมาตรฐานอย่างเป็นทางการ + การอ้างอิงแบบ MIT; กฏพื้นฐานของจดหมายแรกไม่แก้ไข
+- การร่างแบบ AI-assisted ถูกใช้ บทความนี้ตั้งอยู่บนพื้นฐานของงานวิจัยในตาราง และอัตโนมัติ QA ไม่มีการอ้างอิงการทดสอบก่อน จนกว่าจะมีการระบุรายละเอียดอย่างชัดเจน ยืนยันความต้องการที่ต้องใช้เวลาและกําหนดปลายทาง ก่อนทําการข้ามเวลา
+- ~มาตรฐานการแบ่งส่วน ~: Research and med from the source address address (Desk Research; ไม่มีการขับรถมือหนึ่ง, runchown หรือนําเข้า). ความมั่นใจของแหล่งแสดงต่อแถว; จุดใด ๆ ที่เราไม่สามารถยืนยันได้ด้วยตัวเอง ถูกนําเสนอเป็นรายการตรวจสอบแทนการยืนยันว่าเป็นความจริง
 
 **Tags**: #VIN #GB16735 #Nameplate #VehicleVerification #ExportCompliance

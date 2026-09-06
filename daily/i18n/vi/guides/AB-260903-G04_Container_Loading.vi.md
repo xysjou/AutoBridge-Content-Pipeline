@@ -1,22 +1,22 @@
-# Nạp xe vào một ngăn chứa 40HQ: Đếm đó phụ thuộc vào một kế hoạch tải trọng, và leeling giữ ở biển
+# Nạp xe vào thùng chứa 40HQ: Số lượng tùy thuộc vào kế hoạch nạp đạn, và leeling giữ ở biển
 ## SAO Siêu dữ liệu
-- **SEO title**: Bao nhiêu Xe vừa với 40HQ? Hướng dẫn nạp và tạo thư mục ngăn kéo
-- **Meta Mô tả**: A practical 40HQ vehicle-loading guide — typical 2-SUV no-rack loading vs 4-vehicle double-rack systems, ~8 straps per car on tyres, loading sequence and a five-point stowage check before seal.
+- **SEO title**: Bao nhiêu Xe Hợp với 40HQ? Hướng dẫn nạp và tạo thư mục ngăn kéo
+- **Meta Mô tả**: Một hướng dẫn viên thực tế 40HQ tải xe — điển hình 2-SUV hệ thống tải dữ liệu không dây chống 4-vehicle hệ thống nổ đôi, - 8 vòng trên mỗi chiếc xe, Đang nạp chuỗi  and  a five-point stowage check before seal.
 - ** URL đã gợi ý**: /guides/contaner-vehic-loading-lash/
-- ** H1 **: Bộ chứa xe tải đang nạp và piding: Kiểm tra chuỗi số, kiểm tra trước giờ
-- **Criumary Keyword**: bao nhiêu xe vừa với 40hq container chất roi
-- **Secondary Search Words**: 40HQ two SUV, double deck car rack container, vehicle lashing straps wheel tie down, RoRo to container conversion, container car loading sequence
-- **I nội bộ Link gợi ý*: //guides/vehle-reng-ship-conpection-psi /; /guides/ev-shipping- un3171-imdg-compliance/; /vehicles/changan- cs75-plus/
+- ** H1 **: Xe cộ đang tải và ợ: Counts, Racks, chuỗi chuỗi và check Pre-sals
+- **Criumary Keyword**: bao nhiêu chiếc xe vừa với 40hq thùng chứa hàng
+- **Secondary Search Words**: 40HQ two SUV, Hai boong xe container, Xe bị trói chặt, buộc chặt tay lái. RoRo gọi container chuyển đổi, Comment
+- **I nội bộ Link gợi ý*: //guides/vehic-vehle- repection-psi /; /guides/ev-shipping- un3171-imdg-compliance/; /vehles/changan- cs75-plus/
 - **Image gợi ý**: biểu đồ sóng âm bên; điểm đánh dấu bánh xe; giá đỡ hai lần kéo; thứ tự nạp trên+Cấp cao
-- **LT Những gợi ý**: "40HQ hai stowage bên SUV," "wheel tyre lashing eight straps"
+- **LT Những gợi ý**: "40HQ two SUV side stowage"; "wheel tyre lashing eight straps"
 
 ## Câu hỏi mà mọi người đều hỏi trước
-"Có bao nhiêu xe trong một chiếc 40HQ?" không có câu trả lời phổ quát nào, đó là chức năng của không gian **vehic, gương gấp, hệ thống giá trị và kế hoạch của nhà sản xuất và nhà sản xuất được chấp thuận**. Sách hướng dẫn này đưa ra những ban nhạc và phương pháp thực tế; nó không cố ý ghi lại số lượng. Xác nhận mọi chuyến hàng chống lại một kế hoạch tải đo lường thực tế.
+"Có bao nhiêu chiếc xe trong 40HQ chiếc không có câu trả lời phổ quát - đó là chức năng của **vehcle kích thước, gương gấp, hệ thống giá treo và kế hoạch của nhà sản xuất và các nhà sản xuất được chấp thuận**. Sách hướng dẫn này đưa ra những ban nhạc và phương pháp thực tế; nó không cố ý ghi lại số lượng. Xác nhận mọi chuyến hàng chống lại một kế hoạch tải đo lường thực tế.
 
 ## Băng tải thực tế (từ thực hành đã ghi chép)
-- **No rack, conventional:** a 40HQ typically carries **two mid/large SUVs** (examples cited are ~4.9 m class such as ID.6 / Range-Rover / Prado / Li L7-scale vehicles) (single-source forwarder diagram).
-- **With a sliding pull-out double-deck rack:** an **"upper 2 + lower 2" = four SUVs** arrangement was reported in one Yantai-port "RoRo-to-container" trial (single-source).
-- **Sedans / China-Europe rail:****three vehicles per box** appears in China-Europe rail/sedan practice reporting (single-source).
+- **Không có giá trị, Thông thường: ** a 40HQ typically carries **two mid/large SUVs** (examples cited are ~4.9 m class such as ID.6 / Range-Rover / Prado / Li L7-scale vehicles) (single-source forwarder diagram).
+- **Với một cái giá treo hai lần: ** an **"upper 2 + thấp hơn 2 " = bốn SUV** đã được báo cáo trong một phiên tòa "RoRo-to-to-container" (single-source).
+- **Sedans / China-Europe lan can: ****three vehicles per box** appears in China-Europe rail/sedan practice reporting (single-source).
 Đây là những điểm tham khảo, chứ không phải quyền lợi: một chiếc xe tải chở hàng cao cấp, một chiếc xe tải hoặc một chiếc xe cán bộ dài thay đổi mức độ đếm và nạp tải cần thiết bị và một kế hoạch được phê duyệt.
 
 ## Độ mạnh: Sửa Qua thành Ty - rơ, chứ không phải qua thân thể
@@ -42,7 +42,7 @@ Lỗi hàng loạt (nếu tải xe thấp hơn trước và chặn lối vào) l
 5. ** Giấy phép để đóng và niêm phong** — đủ lề để đóng; ảnh của cây cọc trước khi được đóng ấn.
 
 ## Ghi chú đặc điểm EV
-Một EV/hybrid bên trong một container vẫn còn mang theo một ắc quy kéo: theo các tài liệu về lợi hại đại dương và bất kỳ nhà sản xuất nào có thể điều khiển được bằng máy tính bảng. dưới sửa đổi IMDG 42-24 (được trích từ 2026-01-01) một phương tiện li-on-barry-barry là tối mật UN3556, không phải di sản chung UN3171; áp dụng tài liệu hướng dẫn tài liệu / SOC trên hệ thống EV vận chuyển Chân thực và nhà mang (xem hướng dẫn EV đại dương-QXXXXZ) Ngắt kết nối/ trước khi chuyển 12 Hệ thống V trên mỗi tàu và không giả sử một luồng sóng nội bộ kết hợp SOP bao gồm một EV.
+Một EV/hybrid bên trong một container vẫn còn mang theo một ắc quy kéo: theo các tài liệu về lợi hại đại dương và bất kỳ nhà sản xuất nào có thể điều khiển được bằng máy tính bảng. theo tu chính án IMG 42-24 (từ 2026-01-01) một phương tiện chạy bằng li-li-on-battery là tối mật UN3556, không phải di sản chung UN3171; áp dụng tài liệu hướng dẫn/SOC trên thực tế và các nhà xuất bản (xem hướng dẫn đại dương eV-com) Ngắt kết nối/ trước khi tiến hành 12 Hệ thống V trên mỗi tàu và không giả sử một luồng sóng nội bộ kết hợp SOP bao gồm một EV.
 
 ## Những lời khuyên nào được khuyên bạn nên đóng cửa trước khi đặt chỗ
 - Một kế hoạch tải tải đã được sửa chữa** cho chính xác các mô hình (tầm cỡ/width/hight, Gương gấp), không phải một lời hứa chung "hai hoặc bốn".
@@ -53,7 +53,7 @@ Một EV/hybrid bên trong một container vẫn còn mang theo một ắc quy k
 - ** Cổng ra, tuyến đường, mẫu hạm và thiết bị cuối chấp nhận bằng văn bản:** tên thật của cảng và trạm cuối** (những thử nghiệm trên là những tài liệu tham khảo Trung Quốc như Yanti, không phải là tiêu chuẩn phổ thông), **Cean Mate và người điều khiển container**, và cho dù người cuối cùng đó chấp nhận ** ba cấp trên xe được kiểm tra và đánh đập trong chuyến đi đặt hàng. Điều kiện chấp nhận và bất kỳ thay đổi ngày tháng hiệu quả khác nhau bởi trạm và nhà xuất bản, vì vậy ghi lại mỗi điều kiện đã được xác nhận** chống lại các nguyên tắc bảo vệ mã CTU hơn là giả sử phương pháp của một nhà kho được chấp nhận ở khắp mọi nơi.
 
 ## Những câu hỏi thường xuyên
-**Can a 40HQ always take four SUVs?** No — four needs a certified pull-out double rack and an approved plan; Thông thường không có một bãi tải xe SUV cỡ lớn thường là hai.
+**Can a 40HQ always take four SUVs?** No — four needs a certified pull-out double rack  and  một kế hoạch được phê chuẩn; Thông thường không có một bãi tải xe SUV cỡ lớn thường là hai.
 **Where should straps attach?** To the tyres/wheel tie-down points — about eight per car — not to bodywork or suspension.
 Xe sedan khác nhau thế nào? Sedans và hàng rào đường sắt Trung Quốc thường đạt được ba thành quả mỗi hộp; chiều không gian vẫn quyết định.
 Sao lại phải nạp đạn cho cái giá đầu tiên? Phải đặt các xe trên trước khi những xe thấp hơn chặn lối vào; việc nâng tạ giúp họ định vị chúng một cách an toàn.
@@ -63,11 +63,14 @@ Sao lại phải nạp đạn cho cái giá đầu tiên? Phải đặt các xe 
 - Không có bảo mật trong kho
 - _NHỮNG _I HÌNH: chưa được thu
 - Không được lấy
+- SOURCE_FLE_PAGE: không thích hợp — không có tập tin phương tiện ứng cử viên nào được xác định (không có giấy phép để xác nhận)
 - Chưa xác nhận
 - LICENSE_OR_USAGE_BAAY: không bảo mật — không có ảnh bên thứ ba có thể được xuất bản cho đến khi quyền được xoá
-- CÂU_DATE: 2026-09-05
+- CÂU_ lẫn nhau: 2026-09-06
 - MODEL_TOPIC_MASP: cần phải khớp với mô hình/ Quay chính xác (hoặc chủ đề hướng dẫn) và thị trường tham chiếu bên trên
+- ITH_SCOPE_NOTE: phù hợp với chính xác mô hình gia đình/tic duy nhất; không phải ngụ ý một cụ thể cắt/mdel năm, thực sự VIN, kiểm tra người trong người hoặc thực sự giao dịch
 - TRONG SÁCH TRONG LINH: FAIL (không có giấy phép lấy được tài sản; một người giữ chỗ hoặc “không chấp nhận lời nhắn cũ của hình ảnh ”
+- - Không. Không thể bảo đảm ảnh có thể tái tạo: Wikimedia Commons/Flickr không thể tới từ môi trường nghiên cứu, thư viện chứng khoán yêu cầu quyền truy cập hệ thống ARI/licence, và một trang web OEM không phải là một tài trợ tái sử dụng thương mại; không có ảnh tự động của AutoBridge. Giữ FAIL thay vì khẳng định.
 - Theo ngôn ngữ:
   - **EN**: AutoBridge export-buyer reference — Loading cars into a 40HQ container, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Loading cars into a 40HQ container, guide d’achat à l’export automobile
@@ -85,18 +88,18 @@ Sao lại phải nạp đạn cho cái giá đầu tiên? Phải đặt các xe 
 ## Nguồn và Định dạng
 | Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
-| Vehicle stowage side-view (2/box, 8 straps) | Vật liệu tua lại Freight | Toàn cục | https://m.11467.com/product/d42473652.htm | 2026-09-03 | SINGLE_SOURCE | Không theo dõi, không có 2-SUV; - Dây an toàn 8; phương pháp bánh xe (một nguồn) |
-| Yantai port first 4-SUV "RoRo-to-container" trial | Tin tức buổi chiều Qillu | CN | http://m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | SINGLE_SOURCE | Upper2+lower2; đang nạp chuỗi (một phiên tòa đã báo cáo) |
-| China-Europe rail car loading (3/box) | Harbin Railway / Tnotao | CN | http://m.toutiao.com/group/6748371578787987979/ | 2026-09-03 | SINGLE_SOURCE | Xe sedan/rail giới thiệu ba hộp (một nguồn) |
+| Xem phụ xe hơi (2/box, 8 dây buộc) | Vật liệu tua lại Freight | Toàn cục | https://m.11467.com/product/d42473652.htm | 2026-09-03 | SINGLE_SOURCE | 2-SUV không có đường ray; ~ 8 dây; phương pháp bánh xe (một nguồn) |
+| Yantai port first 4-SUV "RoRo-to-container" trial | Tin tức buổi chiều Qillu | CN | http://m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | SINGLE_SOURCE | Upper2+lower2 khung; đang nạp dãy (một phiên tòa đã báo cáo) |
+| Xe chở hàng Tàu điện ngầm China-Europe (3/box) | Harbin Railway / Tnotao | CN | http://m.toutiao.com/group/6748371578787987979/ | 2026-09-03 | SINGLE_SOURCE | Xe sedan/rail giới thiệu ba hộp (một nguồn) |
 | Export container five-step loading method | NetEase | Toàn cục | https://www.163.com/dy/article/L42056IP05568MR2.html | 2026-09-03 | SINGLE_SOURCE | Five-point stowage check (one source) |
-*Scope note (R4): mỗi hình tải đến từ một nguồn riêng lẻ (tất cả SINGLE_SOURCE) — không có sự kiện nào được chứng thực bởi hai nguồn độc lập, do đó không có nguồn nào được gán nhãn CROSS_ Kiểm tra. Số lượng là tham khảo thực tiễn có ghi chép, không đảm bảo độ cao; con số chính xác luôn phụ thuộc vào các chiều đo và một kế hoạch tải được chấp nhận, và các quy tắc mẫu/ kì hạn phải được xác nhận trong việc đặt chỗ. ♪
+*Scope (R4): Mỗi hình tải đến từ một nguồn riêng lẻ (tất cả SINGLE_SOURCE) — không có sự kiện nào được chứng thực bởi hai nguồn độc lập, do đó không có nguồn nào được dán nhãn là CROSS Kiểm tra. Số lượng là tham khảo có ghi chép, không đảm bảo độ cao; số chính xác luôn phụ thuộc vào chiều không gian đo đạc và một kế hoạch tải được chấp nhận, và các quy tắc mẫu/ kì hạn phải được xác nhận tại đặt chỗ. ♪
 
 | Bộ mã thực hành cho các đơn vị vận chuyển xe tải. | Tổ chức hải sản Quốc tế (MO) | IN'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | VEII | Phân phối hàng hóa, đánh đập và bảo vệ nguyên tắc cho CTU bao gồm các thùng chứa |
 | Comment | Hội đồng vận chuyển thế giới | IN'L | https://www.worldshipping.org/ | 2026-09-05 | VEII | Chuẩn hóa chuyển hàng và chuẩn trong bối cảnh sắp xếp dòng để nạp kế hoạch lên kế hoạch |
 
 ## Xem lại tập tin
 - **Author / recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
-- **Last xem xét**: 2026-09-05
+- **Last xem lại**: 2026-09-05
 - **Trible market / pul**: Thao tác hậu cần toàn cầu (method, không phải một lời hứa cố định)
 - ** phương pháp xác định**: hướng dẫn hoạt động, không có số đếm phổ quát khẳng định
 - **Ku thích về tiêu chuẩn**: Nghiên cứu và viết từ những nguồn được liệt kê ở trên (các nghiên cứu ban đầu; không có ổ đĩa cầm tay, bỏ xuống hoặc nhập khẩu nào được xác nhận). Sự tự tin nguồn được thể hiện trên mỗi hàng; bất cứ điểm nào chúng ta không thể tự xác nhận được đều được trình bày như một vật chứng thực thay vì xác nhận là sự thật.

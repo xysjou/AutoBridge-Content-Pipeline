@@ -1,70 +1,73 @@
-# Vehicle Export Sales Contracts: the Clauses That Actually Control Payment, Delivery and Disputes
-## SEO Metadata
-- **SEO Title**: Vehicle Export Sales Contract Clauses & Risk Guide
-- **Meta Description**: What a vehicle export sales contract must contain — PRC Civil Code Art 596 essentials, Incoterms risk transfer, retention of title, breach/claim windows, dispute resolution and Apostille, plus vehicle-condition disclosure.
-- **Suggested URL**: /guides/vehicle-export-sales-contract-clauses/
-- **H1**: Key Clauses in a Vehicle Export Sales Contract: Payment, Title, Risk and Disputes
-- **Primary Keyword**: vehicle export sales contract key clauses risk title
-- **Secondary Search Terms**: retention of title export contract, Incoterms risk transfer vehicle, export contract breach penalty, ICC arbitration vehicle trade, Apostille overseas documents, vehicle condition disclosure
-- **Internal Link Suggestions**: /guides/china-vehicle-export-license-customs-documents/ ; /guides/overseas-aftersales-parts-warranty-network/ ; /guides/vehicle-pre-shipment-inspection-psi/
-- **Image Suggestions**: clause-to-risk map; risk/title transfer timeline; payment-vs-delivery milestone chart
-- **ALT Suggestions**: "export contract risk and title transfer timeline"; "vehicle sales contract key clauses"
+# 车辆出口销售合同:实际控制付款、交付和纠纷的条款
+## 道德操守办公室 元数据
+- ** 标准电子标准标题**:车辆出口销售合同条款和风险指南
+- ** 金属说明**: 车辆出口销售合同必须包含哪些内容——中华人民共和国民法典第596条基本内容,《国际贸易术语解释通则》风险转让、产权保留、违约/索赔窗口、纠纷解决和加注,以及车辆条件披露。
+- ** 提议URL**: 指南/车辆-出口-销售-合同-说明/
+- ** H1 资源需求。 **:车辆出口销售合同的关键条款:付款、所有权、风险和纠纷
+- ** 关键词**:车辆出口销售合同关键条款风险标题
+- ** 二级搜索术语**:保留所有权出口合同、国际贸易术语解释通则风险转让车辆、出口合同违约处罚、国际商会仲裁车辆贸易、《注解》海外文件、车辆状况披露
+- ** 内部链接建议**: /指南/钦那车辆-出口-许可-海关-文件/;/指南/海外-售后-部分-保税-网络/;/指南/车辆-装运前-检查-psi/
+- ** 图像建议**:条款至风险图;风险/产权转移时间表;支付-vs-交付里程碑图
+- ** ALT建议**:“出口合同风险和所有权转让时间表”;“车辆销售合同关键条款”
 
-## Who This Is For
-A first-time vehicle exporter often signs a deal on price and quantity alone, then discovers the contract never fixed **when risk passes, who holds title before full payment, or where a dispute is heard**. This guide maps the clauses that control those outcomes. The PRC Civil Code Art 596 is described here through **secondary legal portals (FindLaw etc.), which cap at CROSS_CHECKED/SINGLE_SOURCE**; VERIFIED would require the official Civil Code text from an NPC/government source. The rest is legal-practice synthesis. **A template is not legal advice — have a qualified lawyer review the executed contract under its chosen governing law.**
+## 这是谁的
+首次的车辆出口商往往只就价格和数量签署一项交易,然后发现合同从未定好** 风险过时,在全额付款前持有所有权,或审理纠纷**。 本指南描绘了控制这些结果的条款。 《中华人民共和国民法典》 第596条通过**二级法律门户(《法律法》等)加以说明,该门户的上限为: 检查/资源**; 核查和调查将要求国家人民委员会/政府提供正式的《民法典》文本。 其余的则是法律实践综合. **A template is not legal advice — have a qualified lawyer review the executed contract under its chosen governing law.**
 
-## Clause Block 1 — The Essential Contents (Civil Code Art 596)
-Under **Article 596 of the PRC Civil Code**, a sales contract should cover: **name, quantity, quality, price, time/place/method of performance, packaging, inspection standards and method, settlement, and the effective-language/text provisions**. Translated for a vehicle deal, the minimum is:
-- Exact **vehicle identity** (VIN, model/trim, model year, configuration list), **quantity and unit price**;
-- **Quality/condition standard** and the **inspection standard/method** (tie this to the PSI report);
-- **Packaging/protection** for ocean transit and the **settlement/payment method**;
-- **Language versions** and which text prevails if bilingual.
+## 第1条——基本内容(《民法典》第596条)
+根据**《中华人民共和国民法典》**第596条,销售合同应涵盖:**名称、数量、质量、价格、履行时间/地点/方法、包装、检查标准和方法、结算以及有效语言/文本规定**。 车辆交易的翻译最低条件是:
+- 准确**车辆身份**(VIN、型号/三角形、型号年份、配置清单)、**数量和单价**;
+- * 质量/条件标准**和检查标准/方法**(将此与防扩散安全倡议报告附后);
+- ** 海洋过境的包件/保护**和**定居/付款方法**;
+- ** 语言版本**,双语文本优先。
 
-## Clause Block 2 — Risk Transfer: Let Incoterms Decide It
-- Risk of loss/damage passes according to the **agreed trade term (state the Incoterms version explicitly, e.g., Incoterms 2020)** — FOB, CIF/CIP, DAP etc. each set a different transfer point.
-- Absent an agreed term, risk generally passes **on delivery to the buyer (or its nominated carrier)**.
-Write the term, version and **named place/port** precisely: "CIF" without a named port, or an unspecified Incoterms year, invites a fight over who bears in-transit damage — coordinate with the marine-insurance and loading guides.
+## 第2项-风险转移:让《国际贸易术语解释通则》决定
+- 损失/损坏的风险按照**商定的贸易术语(明确列出《国际贸易术语解释通则》版本,例如《国际贸易术语解释通则》2020)** ——离岸价格、CIF/CIP、DAP等,各设定了不同的转移点。
+- 如果没有约定的期限,则通常在向买方(或其指定的承运人)交货时** 风险转移。
+写下术语、版本和** 地名地点/港口**: "CIF"没有命名的港口,或未标明的《国际贸易术语解释通则》年份,请大家就谁承担过境损害的问题展开斗争——与海洋保险和装卸指南进行协调。
 
-## Clause Block 3 — Retention of Title (protect an unpaid seller)
-A seller may **reserve title until full payment is received** (distinct from risk, which may already have passed): until paid in full, the buyer **may not mortgage or resell** the vehicles. This clause is especially valuable against default on staged shipments — but note its enforceability depends on the **governing law and whether title reservation is recognised/registrable in the buyer's jurisdiction**, which the lawyer should confirm.
+## 第3项——保留所有权(保护未付款的卖方)
+卖方可以** 保留所有权,直到收到全额付款** (与风险区别,风险可能已经转移): 买方** 不得抵押或转售** 车辆,除非全额付款。 该条款对于防止分阶段装运的违约特别有价值——但指出其可执行性取决于**管辖法律以及所有权保留在买方的法域中是否得到承认/可登记**,律师应确认这一点。
 
-## Clause Block 4 — Breach, Late Performance and Claim Windows
-- **Late payment / late delivery:** a per-day liquidated-damages rate (often expressed in per-mille, ‰, per day) with a **maximum overdue period after which the contract may be terminated**.
-- **Quality claims:** fix an **inspection period and a claim window** after arrival; without one, latent-defect disputes become he-said/she-said. Link the window to the PSI and to realistic detection of transit vs pre-existing damage.
-- Define **remedy hierarchy** (rectify → replace → refund) and who bears return/shipping cost in each case.
+## 第4项-违反、迟交履约和索偿窗口
+- ** 逾期付款/延迟交货:** 每日清偿损失率(通常以每枚美元表示,每日为%),逾期最长期限为**,合同期满后可终止**。
+- 质量索赔:** 确定检查期和索赔窗口** 到达后;没有一项,潜在的缺陷纠纷就成为他/她所说的。 将窗口与防扩散安全倡议联系起来,并现实地检测过境与先前存在的损害。
+- 界定**医疗等级**(补正_替换_退款),以及每个情况下谁承担返回/发货费用。
 
-## Clause Block 5 — Vehicle-Condition Disclosure (fraud prevention)
-Disclose material facts truthfully: **version/configuration, software version, and any accident/flood history, odometer adjustment, or encumbrance/mortgage**. Non-disclosure of these is a frequent source of fraud claims — and it interacts with the PSI, which should evidence the disclosed condition. For EVs, disclose battery grade/SOH-relevant information known to the seller.
+## 第5项——车辆状况披露(防止欺诈)
+真实地披露实质性事实:** 版本/配置、软件版本,以及任何事故/洪水历史、气温计调整或抵押/抵押**。 不披露这些内容是欺诈行为经常发生的原因,它与防扩散安全倡议相互作用,后者应证明披露的情况。 对于电子车辆,披露卖方所知道的电池等级/SOH相关信息。
 
-## Clause Block 6 — Governing Law, Forum and Document Legalisation
-- Choose the **governing law and forum** deliberately; for cross-border deals, **international arbitration (e.g., ICC)** is often preferred for enforceability under the New York Convention over litigating in a foreign local court.
-- Documents that must be used overseas (powers of attorney, certificates) may need **Hague Apostille certification** (or consular legalisation where the destination is not a Hague party) — state who arranges and pays.
-- Specify **notice addresses, currency, force majeure (including port/shipping disruption), and the language that prevails**.
+## 第6条-管理法、论坛和文件合法化
+- 选择**管辖法律和法院**;对于跨国界交易,** 国际仲裁(例如国际商会)** 通常比在外国当地法院提起诉讼更倾向于根据《纽约公约》执行。
+- 海外必须使用的文件(律师权、证书)可能需要**《海牙加注》认证**(或目的地不是海牙当事方的领事法化)——由国家安排和支付。
+- 具体说明**通知地址、货币、不可抗力(包括港口/船舶中断)和通行语言**。
 
-## What This Guide Recommends You Never Leave Blank
-1. **VIN/configuration annex** attached to the contract (no "same as sample" ambiguity).
-2. **Incoterms term + version + named place**, and the matching risk/insurance position.
-3. **Retention of title** until full payment, checked for destination enforceability.
-4. **Per-day LDs, termination trigger, and a defined quality-claim window** tied to PSI.
-5. **Governing law, arbitration forum, Apostille responsibility**, and prevailing language.
+## 本指南建议你永远不要离开空白
+1. **VIN/配置附件**附于合同(没有“与样本相同”的模糊性)。
+2. ** 国际贸易术语分类法术语+版本+命名地点**,以及匹配的风险/保险位置。
+3. ** 所有权的保留** 直至全额付款,并核对目的地的可执行性。
+4. ** 每日LD、终止触发器和与PSI挂钩的限定质量索赔窗口**。
+5. ** 管辖法律、仲裁法院、注解责任** 和通行语言。
 
-## Frequently Asked Questions
-**What must a vehicle sales contract contain under Chinese law?** PRC Civil Code Art 596 lists name, quantity, quality, price, performance time/place/method, packaging, inspection standard/method, settlement and language effectiveness — map each to the vehicle deal.
-**When does risk pass to the buyer?** Per the agreed Incoterms term (state the version and place); without agreement, generally on delivery to the buyer or its nominated carrier.
-**Can I keep ownership until I'm fully paid?** Yes, via a retention-of-title clause, subject to recognition under the governing/destination law.
-**How should late payment be handled?** A per-day liquidated-damages rate plus a maximum overdue period that allows termination.
-**Do overseas documents need legalisation?** Often an Apostille (Hague) or consular legalisation is required; state responsibility in the contract and verify the destination's status.
+## 经常被问到的问题
+** 根据中国法律,车辆销售合同必须包含哪些内容? ** 中国 民法 第596条列出了名称、数量、质量、价格、性能时间/地点/方法、包装、检查标准/方法、结算和语文效力——车辆交易的地图。
+** 风险何时转移给买方? ** 根据商定的《国际贸易术语解释通则》术语(说明版本和地点);未经协议,一般在向买方或其指定的承运人交货时。
+? 我能保持所有权直到我得到全额报酬吗? ? 是的,通过保留所有权条款,但须根据管辖/指定法予以承认。
+** 如何处理迟付问题? ** 每日清偿损失补偿率加上可终止的最长逾期期限。
+** 海外文件是否需要合法化? ** 通常需要加注(海牙)或领事合法化;合同中规定国家责任,并核实目的地的地位。
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
-- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- ALT by language:
+## 图像记录
+- IMAGE_ASST_PATH: 没有在仓库中安全
+- 原型:未抓获
+- 资源_页:未捕获
+- UNURCE_FILE_PAGE:不适用——未确定候选媒体文件(无申述许可证).
+- 权利:未经证实
+- LICENSE_OR_USAGE_BASIS:没有担保——在权利被清除之前,不得公布第三方图像
+- 检查日期: 2026-09-06
+- MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
+- IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
+- IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
+- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
+- 按语言分列的低价竞标:
   - **EN**: AutoBridge export-buyer reference — Vehicle export sales contract clauses, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Vehicle export sales contract clauses, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Vehicle export sales contract clauses, Leitfaden für Fahrzeugexport-Einkauf
@@ -78,22 +81,22 @@ Disclose material facts truthfully: **version/configuration, software version, a
   - **AR**: مرجع AutoBridge لمشتري التصدير — Vehicle export sales contract clauses, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Vehicle export sales contract clauses, 汽车出口采购指南
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## 源码验证(V)
+| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
 |---|---|---|---|---|---|---|
-| PRC Civil Code Art 596 sales-contract terms | FindLaw (legal portal) | CN | https://www.findlaw.cn/wenda/q_60484893.html | 2026-09-03 | CROSS_CHECKED (statute article cited via a secondary legal portal; not an official NPC source) | Essential contract contents |
-| Export vehicle sales contract model (risk/title retention) | 110ask legal | Global | https://m.110ask.com/fanben/601005122281423969.html | 2026-09-03 | CROSS_CHECKED | Risk transfer; retention of title; condition disclosure |
-| Purchase-contract core clauses (breach/title/config list) | 66Law | CN | https://m.66law.cn/question/56427049.aspx | 2026-09-03 | CROSS_CHECKED | LDs, claim window, configuration annex |
-| Export contract Incoterms/disputes/Apostille | Freight-forwarder material | Global | https://m.11467.com/product/d43019461.htm | 2026-09-03 | SINGLE_SOURCE | Incoterms versioning, ICC arbitration, Apostille |
-*Scope note: Art 596 content is CROSS_CHECKED via a secondary legal portal only — VERIFIED requires the official PRC Civil Code (NPC/government) text, which was not captured; do not label it VERIFIED. Enforceability of title reservation, arbitration and Apostille depends on the chosen governing law and destination, and must be confirmed by qualified counsel. Contract models are structural references only.*
+| 中国 民法 第596条 销售合同条款 | 查找法(法律门户) | 氯化萘 | https://www.findlaw.cn/wenda/q_60484893.html 维基月球 | 2026-09-03 | 横跨 (通过次级法律门户引用的文章;不是国家警察局的官方来源) | 基本合同内容 |
+| 出口车辆销售合同模式(风险/所有权保留) | 110ask 法律权利 | 全球 | https://m.110ask.com/fanben/601005122281423969.html 维基月球 | 2026-09-03 | 横跨 | 风险转移;保留所有权;情况披露 |
+| 采购合同核心条款(违反/产权/配置清单) | 66Law 维基月球 | 氯化萘 | https://m.66law.cn/question/56427049.aspx 维基月球 | 2026-09-03 | 横跨 | 有限期间、索赔窗口、配置附件 |
+| 出口合同 国际贸易术语解释/争议/加注 | 货运材料 | 全球 | https://m.11467.com/product/d43019461.htm 维基月球 | 2026-09-03 | 资源 | 国际贸易术语解释通则的版本、国际商会仲裁、注解 |
+* 范围说明: 第596条 内容为 CrossS_ 公民、儿童和残疾人委员会仅通过二级法律门户——核查和康复方案要求获得中华人民共和国《民法典》的正式文本,但该文本没有被捕获;没有将其标注为核查和康复方案。 所有权保留、仲裁和加注的可执行性取决于选定的管辖法律和目的地,必须得到合格律师的确认。 合同模式只是结构参考。 * 报告迟交是因为需要翻译。
 
-| 《中华人民共和国民法典》第三编 合同（第五百九十五/五百九十六/五百九十七条逐字） | 最高人民检察院 (Supreme People's Procuratorate) — offic | CN | https://www.spp.gov.cn/spp/ssmfdyflvdtpgz/202008/t20200831_478413.shtml | 2026-09-04 | VERIFIED |  |
-| 中华人民共和国民法典 全文（政府门户转载） | 云南省司法厅 (sft.yn.gov.cn) / 开封市人大 (kfsrd.henanrd.go | CN | https://sft.yn.gov.cn/pf/yunnan/PZhengCeFaGui/2020061631_2.shtml | 2026-09-04 | VERIFIED |  |
+| 《中华人民共和国民法典》第三编 合同（第五百九十五/五百九十六/五百九十七条逐字） | 最高人民检察院 (最高人民检察院)——大法官 | 氯化萘 | https://www.spp.gov.cn/spp/ssmfdyflvdtpgz/202008/t20200831_478413.shtml 维基月球 | 2026-09-04 | 实录 |  |
+| 中华人民共和国民法典 全文 (政府门户转载) (中文(简体)). | 云南省司法厅 (sft.yn.gov.cn)/ 开封市人大 (kfsrd.henanrd.go) (英语). | 氯化萘 | https://sft.yn.gov.cn/pf/yunnan/PZhengCeFaGui/2020061631_2.shtml 维基月球 | 2026-09-04 | 实录 |  |
 
-## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market / scope**: Global contract structure (PRC statute identified; enforceability jurisdiction-specific)
-- **Verification method**: Statute + legal-practice synthesis; counsel-review caveat stated; no jurisdiction-specific legal conclusion overreached
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+## 编辑评论
+- ** 授权/审查人**:[自动桥出口编辑组](/作者/) / 方法,按我们的[编辑政 (/编辑政策/)
+- ** 上次审查**:2026-09-05
+- ** 参考市场/范围**:全球合同结构(确定中华人民共和国法规;具体管辖的可执行性)
+- ** 核查方法**:规约+法律-实践综合;律师-审查说明;没有超越具体司法管辖权的法律结论
+- ** 编辑标准**: 由上述来源研究和撰写(案头研究;没有声称直接驾驶、拆卸或进口)。 源头信任是一行的;我们不能独立确认的任何一点都作为核查项目而不是事实提出。
 #AutoBridge #SalesContract #PaymentTerms #ExportProcurement #DisputeClause

@@ -1,96 +1,99 @@
-# GAC Trumpchi M8 2024 — Business MPV: Series Differences, Seating Layout and Export Notes
+# GAC Trumpchi M8 2024 - Business MPV: Series Differences, Seating Layout and Export Notes
 
 ## SEO Metadata
-- **SEO Title**: GAC Trumpchi M8 2024 MPV Specs, Series " Seating Export Guide
-- **Meta Description**: 2024 GAC Trumpchi M8 China reference specs: Master/Grandmaster vs Lingxiu series, 2.0TGDI 185 kW, 8AT, 7-seat layout, dimensions, and overseas buyer verification points.
-- **Suggested URL**: /vehicles/gac-trumpchi-m8/
-- ** H1 **: GAC Trumpchi M8 2024 (China): MPV Series, Seating and Specification Map for Importers
-- **Primary Keyword**: GAC Trumpchi M8 2024 specifications export
-- **Secondary Search Terms**: Trumpchi M8 7-seat MPV, GAC M8 2.0TGDI 8AT, Trumpchi M8 Master series, Chinese luxury MPV export, GAC M8 Middle East
-- **Internal Link Suggestions**: /guides/right-hand-drive-chinese-cars/ ; /guides/commercial-truck-fleet-procurement-china/; /vehicles/forthing-lingzhi-m5/
-- **Image Suggestions**: side profile showing 3070 mm wheelbase; second-row captain seats; three-series comparison; sliding door and aisle; driver cockpit
-- **ALT Suggestions**: "2024 GAC Trumpchi M8 Grandmaster seven-seat business MPV, China spec"; "Trumpchi M8 second-row captain seats and aisle"; "M8 Master vs Grandmaster vs Lingxiu series comparison"
+- ** عنوان المنظمة**: GAC Trumpchi M8 2024 MPV Specs, Series " Seating Export Guide "
+- ** وصف البيانات**: 2024 GAC Trumpchi M8 المواصفات المرجعية للصين: ماجستير/جراندماستر ضد سلسلة لينغكسيو 2.0TGDI 185 kW، 8AT 7-seat تخطيط الأبعاد  and  نقاط تحقق للمشتريات في الخارج
+- ** URL المقترض**: /مركبات/غاز - ترامبشي - m8/
+- ** H1 **** GAC Trumpchi M8 2024 (الصين): مجموعة MPV Series، خريطة البحار والمواصفات للمستوردين
+- ** كلمة رئيسية**: تصدير مواصفات GAC Trumpchi M8 2024
+- ** شروط البحث الثانية**: M8 7-seat ميغاواط GAC M8 2.0TGDI 8AT, Trumpchi M8 سلسلة الماجستير تصدير مدفعية مصفحة مكسورة صينية GAC M8 الشرق الأوسط
+- ** Internal Link Suggestions**: /guides/right-hand-drive-chinese-cars/; /guides/commercial-truck-fleet-procurement-china/; /vehicles/forthing-lingzhi- m5/
+- ** اقتراحات رمزية**: لمحة جانبية تبين 3070 mm قاعدة عجلة؛ ومقاعد من الدرجة الثانية للكابتن؛ ومقارنة ثلاث مجموعات؛ وباب الزلق وممر القيادة؛
+- ** الاقتراحات**: 2024 GAC Trumpchi M8 -مضخة أعمال في الملعب السابع، مطياف الصين "مقاعد فريق "ترامبشي M8  and  ممر "معلمة "M8 ضد الجدة " ضد مسلسل "لينجكسيو
 
-## Why Buyers Look at the M8
+## لماذا ينظر المشترين إلى M8
 
-The Trumpchi M8 is a mid-large, monocoque **business/family MPV** whose value sits in cabin space and second-row seating rather than driving dynamics. It is primarily an **ICE (petrol) 2.0T** model, with a hybrid (双擎) version also offered in China whose specific figures are not asserted on this page. GAC Group also publishes an overseas **GAC M8** configuration (including Middle-East markets, in LHD and, where offered, RHD); export specs must follow that official overseas material. Everything below is the **Chinese-market reference (REFERENCE MARKET: CHINA)**, representative trim the 2024 宗师 (Grandmaster) 2.0TGDI.
+The Trumpchi M8 is a mid-large, monocoque **business/family MPV** whose value sits in cabin space and second-row seating rather than driving dynamics. وهو في المقام الأول نموذج (الكتاب) 2.0T **، مع نسخة هجينة (双擎) عرضت أيضا في الصين لا تُثبت أرقامها المحددة في هذه الصفحة. GAC وينشر الفريق أيضا تشكيلة خارجية من مجموعة بلدان أمريكا اللاتينية ومنطقة البحر الكاريبي تبلغ M8 ** (بما في ذلك أسواق الشرق الأوسط، في مجال تنمية الأراضي الجافة، وحيثما تقدم، شعبة التنمية البشرية)؛ ويجب أن تتبع عينات التصدير تلك المواد الرسمية في الخارج. كل شيء تحته هو مرجع السوق الصيني الصين**،  representative trim the 2024 宗师 (Grandmaster) 2.0TGDI.
 
-## The First Decision: Which Series
+## المقرر الأول: أي سلسلة
 
-China splits the M8 into three series that differ in size, wheelbase and torque calibration, so the series name must appear on every order:
+تقسم الصين M8 إلى ثلاث سلسلة تختلف في الحجم، وقاعدة العجلات، ومقياس العيار، لذا يجب أن يظهر اسم السلسلة على كل ترتيب:
 
-| Series | Length × Width / Height | Wheelbase | Engine | Torque |
+| سلسلة | Length × Width / Height | Wheelbase | المهندس | Torque |
 |---|---|---|---|---|
-| 宗师 Grandmaster / 大师 Master | 5212 × 1893 × 1823 mm | 3070 mm | 2.0T, 185 kW (252 PS) | **400 N·m** |
-| 领秀 Lingxiu (390T) | 5089 × 1884 × 1822 mm | 3000 mm | 2.0T, 185 kW (252 PS) | **390 N·m** |
+| 宗师 الجدة/ 大师 سيدي | 5212 × 1893 × 1823 mm | 3070 mm | 2.0T, 185 kW (252 PS) | **400 N·m** |
+| 领秀 لينغكسيو (390T) | 5089 × 1884 × 1822 mm | 3000 mm | 2.0T, 185 kW (252 PS) | **390 N·m** |
 
-Power output is identical at 185 kW, but the Grandmaster/Master calibration peaks at 400 N·m versus 390 N·m for the Lingxiu 390T — a small but real difference that should not be flattened into a single "M8 torque" figure. Grandmaster/Master dimensions and wheelbase are **VERIFIED** against GAC official pages; Lingxiu values are cross-checked via Autohome/Yiche.
+ويتطابق إنتاج الطاقة مع 185 kW، ولكن معدّل الجدة/المدير يصل إلى ذروته إلى 400 N·m مقابل 390 N·m في لينغكسيو 390T - وهو فرق صغير ولكن حقيقي لا ينبغي إقحامه في رقم واحد هو M8 تراك. أما أبعاد الجدة/السياق وقواعد العجلات فهي ** مصدق عليها** مقابل صفحات رسمية من مجموعة أمريكا اللاتينية والكاريبي؛ وتتم مراجعة قيم لينغكسيو عبر أوتوم/يتشي.
 
-## Mechanical Specification (Petrol Versions)
+## المواصفات الميكانيكية (النسخ المطبوعة)
 
-| Item | Chinese-market reference value |
+| البند | القيمة المرجعية للسوق الصينية |
 |---|---|
-| Engine | 2.0T turbo L4, 185 kW (252 PS); 400 N·m (Grandmaster) / 390 N·m (Lingxiu) |
-| Transmission | 8-speed automatic (8AT) |
-| Seating / doors | 5-door MPV, 7 seats across the range (a 4-seat care/旗舰 variant also exists) |
-| Suspension | Front MacPherson / rear multi-link |
-| Curb weight | ~2060 kg (大师 尊贵版 reference, official) |
-| Top speed | 200 km/h |
-| WLTC fuel use | 8.85 L/100 km (Lingxiu 390T 豪华版, database figure) |
+| المهندس | 2.0T توربو L4، 185 kW (252 PS)؛ 400 N·m (Grandmaster) / 390 N·m (Lingxiu) |
+| التحويل | 8-speed تلقائي (8AT) |
+| الجلوس/الأبواب | 5-door ميغاواط، 7 مقعدا في جميع أنحاء النطاق (هناك أيضاً 4-seat رعاية/ 旗舰 متغير) |
+| تعليق | جبهة ماك فيرسون/مؤخرة متعددة الوصلة |
+| وزن العنب | ~2060 kg (大师 尊贵版 reference, رسمي) |
+| السرعة القصوى | 200 km/h |
+| استخدام وقود الشبكة العالمية لشبكة WLTC | 8.85 L/100 km (Lingxiu 390T 豪华版, رقم قاعدة البيانات |
 
-## Seating and Interior — The Core of an MPV Purchase
+## الملاحة والداخلية - مجموعة من المحركات
 
-With a 3070 mm (Grandmaster/Master) wheelbase in a 5.2-metre body, the M8 is configured around three rows and walk-through access to second-row captain chairs. For an importer or fleet buyer, the questions that actually change the delivered car are:
+وبقاعدة متحركة تبلغ 3070 mm (Grandmaster/Master) في جسم يبلغ 5.2-metre، تم تشكيل الـ M8 على ثلاثة صفوف، ومن خلال الوصول إلى مقاعد قائد المجموعة الثانية. بالنسبة لمستورد أو مشتري الأسطول، الأسئلة التي تغير فعلاً السيارة المسلمة هي:
 
-- **Seat count**: the standard line is seven seats; a four-seat variant exists for chauffeured/lounge use. Confirm which layout your market needs rather than assuming all M8s are 7-seat.
-- **Second-row specification**: captain-chair functions (ventilation/heating/massage, leg rests, centre console) move by grade — request a line-item seat-equipment list.
-- **Sliding doors and entry**: confirm powered side-sliding doors and tailgate by grade.
-- **Length vs parking/garage constraints**: the 5212 mm Grandmaster is longer than the 5089 mm Lingxiu; relevant for tight urban markets.
+- ** عدد المقاعد**: الخط الموحد هو سبعة مقاعد؛ ويوجد متغير من أربع طوابق لاستخدام السائقين/اللونج. تأكيد أي مخطط لاحتياجات السوق بدلا من افتراض أن كل M8s هو 7-seat.
+- ** مواصفات الاقتراض المتناظر**: مهام الرئيس القبطان (التهوية/التدفئة/الصدمات، وراحة القدم، وتجمعات المراكز) التي تنتقل حسب الرتبة - يطلب قائمة ببنود المقاعد.
+- ** أبواب متحركة ودخول**: يؤكد الأبواب المتحركة الجانبية ويُغلق حسب الرتبة.
+- **Length vs parking/garage constraints**: the 5212 mm debate ormaster is longer than the 5089 mm Lingxiu; relevant for tight urban markets.
 
-## China vs Export Build — Verification Points
+## الصين ضد بناء الصادرات - نقاط التحقق
 
-- GAC publishes an overseas GAC M8 configuration; **do not copy Chinese dimensions/power onto an export VIN** — match the destination official sheet.
-- Confirm **LHD/RHD** availability for the target country and whether the specific series is produced in that steering layout.
-- Verify emission-standard acceptance, fuel grade and the destination homologation for a China-spec petrol MPV.
+- وتنشر اللجنة تشكيلة خارجية من مجموعة بلدان أمريكا اللاتينية والكاريبي تبلغ M8؛ ** لا تنسخ الأبعاد/القوى الصينية على شكل تصدير فين** - وتطابق الورقة الرسمية للمقصد.
+- التأكيد ** توافر الوثيقة HD/RHD** للبلد المستهدف، وما إذا كانت السلسلة المحددة قد صدرت في مخطط التوجيه هذا.
+- التحقق من قبول معايير الانبعاثات، ودرجة الوقود، ودرجة ملامح الوجهة بالنسبة لبنزين صيني سيك.
 - Confirm infotainment language, navigation and connected services outside mainland China, plus warranty coverage for a parallel-imported unit.
-- If a customer specifically wants the **hybrid (双擎)**, request its separate official specification — this page does not infer hybrid battery/motor figures from the petrol car.
+- وإذا كان الزبون يريد بالتحديد الهجين (双擎)**، يطلب مواصفاته الرسمية المستقلة - لا تُدرج هذه الصفحة أرقام البطارية/المورّة الهجينة من سيارة البنزين.
 
-## What AutoBridge Adds Beyond the Brochure
-MPV buyers are sold a "luxury seven-seater" label that hides three different series and seat layouts. This guide recommends recording the **series-specific wheelbase and torque calibration (400 vs 390 N·m)** on the order, preparing a **line-item second-row seat-equipment list** (ventilation/heating/massage, leg rests, powered doors) so trim is not mis-substituted, and comparing the Chinese build against GAC's **overseas M8 sheet** before deposit rather than copying China dimensions onto an export VIN.
-## Pre-Payment Checklist
-- Seating defines this MPV, but drive configuration still matters for registration — read the driven axle off the homologation certificate rather than assuming a layout from the business-MPV class.
+## ما يضيفه (أوت بريدج) إلى أبعد من (البروشير)
+مشترون مدفعي مليئون يباعون علامة "مغطاة من سبعة أكتر" تخفي ثلاث سلاسل مختلفة و مخططات مقعد ويوصي هذا الدليل بتسجيل قاعدة العجلات الخاصة بمجموعات المحاور  and  torque calibration (400 vs 390 N·m)** on the order, إعداد قائمة بمعدات المقاعد في المجموعة الثانية** (التهوية/التسخين/التخزين/الجزر) ساقك ترتاح أبواب مُقوّمة لذا الترام ليس مُستَغَاضَاً  and  مقارنة البناء الصيني ضد صحف (جي سي) للـM8 قبل الودائع بدلاً من نسخ الأبعاد الصينية إلى شبكة التصدير
+## قائمة مرجعية قبل إصدار تصاريح
+- ويحدد هذا الشغل المزود بالبضائع، ولكن تشكيلة القيادة لا تزال مهمة للتسجيل - قراءة المحور المدفوع من شهادة التلويث بدلا من افتراض مخطط من فئة الأعمال التجارية - المزودة بمقياس للجرعات.
 
-1. Record the exact series (Grandmaster/Master/Lingxiu) and grade; attach the matching dimensions and 400 vs 390 N·m calibration.
-2. Confirming seating layout (7-seat vs 4-seat) and second-row seat functions line by line.
-3. Confirm steering side, sliding-door/tailgate equipment and exterior colour/interior availability.
-4. Match the VIN to engine, 8AT and curb weight; verify destination emission/fuel compliance.
-5. Obtain the export-market GAC M8 official sheet and reconcile against the Chinese reference before deposit.
+1. تسجيل السلسلة الدقيقة (Grandmaster/Master/Lingxiu) والرتبة؛ وربط الأبعاد المطابقة و 400 مقابل 390 N·m معايرة.
+2. مخططات الجلوس (7-seat ضد 4-seat)  and  -المقعد الثاني يُشغل حسب الخط
+3. الجهة التوجيهية للوقود، ومعدات الغلق/اللوان الخارجية/الوجود الداخلي.
+4. مطابقة الشبكة للمحرك، 8AT وكبح الوزن؛ والتحقق من امتثال الانبعاثات/الوقود في الوجهة.
+5. الحصول على صحيفة " GAC M8 " الرسمية لسوق التصدير، والتوفيق مع الإشارة الصينية قبل الإيداع.
 
-## Request a Current Export Quotation
+## طلب تخصيص موارد التصدير الحالية
 
-AutoBridge issues live quotations rather than a static price list. Chinese domestic prices — Lingxiu 豪华版 from RMB 179,800 and Grandmaster petrol at RMB 269,800 — are **domestic references only (time-sensitive, not export FOB/CIF)**. Request a quote with **Destination Country · Quantity · Series & Grade · Seat Layout · LHD/RHD · Destination Port · Incoterm**.
+مشاكل التألق على الهواء مباشرة بدلاً من قائمة الأسعار الثابتة. والأسعار المحلية الصينية - Lingxiu 豪华版 من RMB 179 و 800 وغاز الجدة في 269 و 800 - هي إشارات غير مألوفة فقط (غير مراعية للوقت، وليس تصدير FOB/CIF)**. يرجى تقديم اقتباس مع ** بلد المحبة؛ مجموعة " الصف " ؛ خط العرض؛ خط العرض؛ مرفأ الوجهة الصحية/التاريخية؛ مرفأ الوجهة**.
 
 ## Buyer FAQ
 
-**How many seats does the M8 have?** The standard China line is a 7-seat, three-row MPV; a 4-seat lounge/care variant also exists, so confirm the layout by grade.
+** كم عدد المقاعد التي يملكها M8 مقعد؟** خط الصين الموحد هو 7-seat، ثلاث درجات مدفعية مصفحة؛ a 4-seat lounge/care variant also exists, لذا تأكد من المخطط حسب الصف
 
-**Are all M8 versions the same size?** No. Grandmaster/Master are 5212 mm long with a 3070 mm wheelbase; the Lingxiu is 5089 mm with a 3000 mm wheelbase.
+** هل جميع النسخ البالغ عددها M8 نسخة هي نفس الحجم؟** رقم الجدة/ماستر 5212 mm لمدة طويلة مع 3070 mm قاعدة عجلة؛ أما اللغكسيو فهو 5089 mm مع 3000 mm قاعدة عجلة.
 
-**What is the torque difference between series?** Both make 185 kW, but Grandmaster/Master peak at 400 N·m and the Lingxiu 390T at 390 N·m — different calibrations.
+** ما الفرق العنيف بين السلسلة؟** كلاهما يجعلان 185 kW لكن جدة/مستر وصلت ذروتها في 400 N·m  and  The Lingxiu 390T at 390 N·m — different calibrations.
 
-**Is there a hybrid M8?** A 双擎 hybrid is offered in China, but its specs are separate; request the official hybrid sheet rather than deriving them from the petrol model.
+هل هناك M8 هجين؟ ويعرض في الصين مبلغ 双擎 هجين، ولكن عيناته منفصلة؛ ويطلب ورقة الهجين الرسمية بدلا من استخلاصها من نموذج البنزين.
 
-**Does GAC sell the M8 overseas?** Yes, GAC Group lists an overseas GAC M8 (including Middle-East markets); use that official export configuration and confirm LHD/RHD for your country.
+** هل تبيع شركة GAC M8 في الخارج**؟ نعم، يورد فريق مجموعة بلدان أمريكا اللاتينية والكاريبي M8 من بلدان ما وراء البحار (بما في ذلك أسواق الشرق الأوسط)؛ ويستخدم هذا الشكل الرسمي للصادرات ويؤكّد تنمية الأراضي الجافة/التنمية البشرية في بلدكم.
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
+## سجل الصور
+- لم يُؤمن أي منها في مستودع
 - ORIGINAL: IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
+- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
+- الحقوق - حقوق غير مؤكدة
+- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
+- CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
+- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات ويكيميو/فلكر غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات المسبقة/الرخصة، وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
 - ALT by language:
   - **EN**: AutoBridge export-buyer reference — GAC Trumpchi M8, petrol/diesel Chinese-market vehicle / MPV
   - **FR**: Référence AutoBridge pour acheteurs export — GAC Trumpchi M8, véhicule thermique (marché chinois) / MPV
@@ -105,23 +108,23 @@ AutoBridge issues live quotations rather than a static price list. Chinese domes
   - **AR**: مرجع AutoBridge لمشتري التصدير — GAC Trumpchi M8, مركبة بمحرك احتراق (سوق الصين) / سيارة عائلية
   - **ZH**: AutoBridge 出口采购参考｜GAC Trumpchi M8, 中国市场燃油车 / MPV
 
-## Sources & Verification
+## المصدر: التحقق
 
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
-| M8 大师 尊贵版 official | GAC Trumpchi (official) | CN | https://www.gacmotor.com/m8xds_new/empow01.html | 2026-09-02 | VERIFIED | 5212 mm body, 3070 mm WB, 2060 kg, 2.0TGDI |
-| GAC M8 | GAC Group (official) | CN/Export | https://www.gacgroup.com/en-kw/configuration/gac-m8/2024 | 2026-09-02 | VERIFIED | 185 kW/252 PS, 7 seats, suspension |
-| 2024 M8 宗师 petrol official | GAC Trumpchi (official) | CN | https://www.gacmotor.com/2024m8zs_new/ | 2026-09-02 | VERIFIED | 2.0TGDI + 8AT, 400 N·m, domestic price |
-| Lingxiu 390T config | Autohome (汽车之家) | CN | https://dealer.autohome.com.cn/2133191/spec_68518.html | 2026-09-02 | CROSS_CHECKED | 5089 mm body, 3000 mm WB, 390 N·m, WLTC 8.85 |
-| M8 parameters | PCauto (太平洋汽车) | CN | https://price.pcauto.com.cn/m128883/config.html | 2026-09-02 | CROSS_CHECKED | Wheelbase split, series mapping |
-| Lingxiu config | Yiche (易车) | CN | https://car.yiche.com/chuanqigm8/m173683/peizhi/ | 2026-09-02 | CROSS_CHECKED | Lingxiu dimensions, domestic price |
+| M8 大师 尊贵版 official | GAC Trumpchi (official) | CN | https://www.gacmotor.com/m8xds_new/empow01.html | 2026-09-02 | مفقود | 5212 mm جثة، 3070 mm دبليو بي، 2060 kg، 2.0TGDI |
+| تشكيلة منطقة البحيرات الكبرى M8 | مجموعة مجموعة بلدان أفريقيا والكاريبي (الرسمية) | CN/Export | https://www.gacgroup.com/en-kw/configuration/gac-m8/2024 | 2026-09-02 | مفقود | 185 kW/ 252 PS, 7 seats, suspension |
+| 2024 M8 宗师 من البنزين الرسمي | GAC Trumpchi (official) | CN | https://www.gacmotor.com/2024m8zs_new/ | 2026-09-02 | مفقود | 2.0TGDI + 8AT، 400 N·m، السعر المحلي |
+| Lingxiu 390T config | أوتومهومي (汽车之家) | CN | https://dealer.autohome.com.cn/2133191/spec_68518.html | 2026-09-02 | صرخات | 5089 mm جثة، 3000 mm دبليو بي، 390 N·m، WLTC 8.85 |
+| M8 بارامتر | PCauto (太平洋汽车) | CN | https://price.pcauto.com.cn/m128883/config.html | 2026-09-02 | صرخات | تقسيم العجلات، رسم الخرائط |
+| Lingxiu config | Yiche (易车) | CN | https://car.yiche.com/chuanqigm8/m173683/peizhi/ | 2026-09-02 | صرخات | أبعاد لينغكسيو، السعر المحلي |
 
-*Confidence note (AutoBridge standard): Grandmaster/Master core specs are VERIFIED on GAC's own pages (manufacturer official); Lingxiu values are CROSS_CHECKED across independent databases. The 400 vs 390 N·m calibration is intentionally kept separate by series; hybrid (双擎) specs are not asserted.*
+* مذكرة مصداقية (معيار أوتو بريدج): مواصفات الجدة/المدير الأساسية مثبتة على صفحات (جي سي) الخاصة (مسؤولة مصانع) وقيم النسيج هي كلورو إس إس إس إس إس إس إس أي دي في قواعد البيانات المستقلة. ويبقى المعايرة البالغ عددها 400 مقابل 390 N·m مفصّلة عن عمد حسب السلسلة؛ hybrid (双擎) specs are not asserted.*
 
-## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: China model (evergreen model page; overseas GAC M8 exists and the destination sheet governs export builds)
-- **Verification method**: Official GAC pages plus independent-database cross-check; series-specific figures kept distinct
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+## استعراض التحرير
+- ** مستعرض/مراجع**: [فريق تحرير تصدير أوتو بريدج] (/مؤلف/) - طريقة لكل [سياستنا الانتخابية] (/سياسة التحرير/)
+- ** لم يُستعرض بعد**: 2026-09-05
+- ** سوق الإحالة**: نموذج الصين (صفحة نموذجية من نوع كل مخضرم؛ يوجد مبلغ M8 من فرنكات الجماعة المالية الأفريقية فيما وراء البحار، وتنظم ورقة الوجهة عمليات بناء الصادرات)
+- ** طريقة التحقق**: صفحات رسمية من مجموعة بلدان أمريكا اللاتينية ومنطقة البحر الكاريبي، بالإضافة إلى فحص قاعدة البيانات المستقلة؛ وظلت الأرقام الخاصة بسلسلة محددة منفصلة
+- ** المعيار الإفريقي**: باحثة ومحررة من المصادر المذكورة أعلاه (بحوث مكتبية؛ ولا يُدَّعى عن أي قيادة مباشرة أو تمزق أو استيراد). وتظهر الثقة في المصدر في الصف الواحد؛ وأي نقطة لا يمكننا تأكيدها بشكل مستقل تعرض كبند تحقق بدلا من التأكيد على أنها حقيقة.
 #AutoBridge #VehicleExport #GACTrumpchi #M8 #BusinessMPV

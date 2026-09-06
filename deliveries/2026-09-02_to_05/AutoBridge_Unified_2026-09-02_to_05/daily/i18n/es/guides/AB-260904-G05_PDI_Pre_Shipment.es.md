@@ -6,7 +6,7 @@
 - ** URL agregada**: /guides/vehicle-export-pdi-pre-shipment-handover
 - ** H1 **: Preparación de un vehículo para RoRo o exportación de contenedores: Lo que los Portadores Nombres Requieren y Lo que Recomendamos
 - **Primary Keyword**: inspección de exportación de vehículos de pre-bordo PDI traspaso RoRo
-- **Segundary Search Terms**: tanque de combustible de Wallenius Wilhelmsen, Hoegh BEV SOC 50 percent, vehículo operable RoRo, desconecte la batería 12V usado coche, pre-bordo registro de fotos
+- **Segundary Search Terms**: tanque de combustible de Wallenius Wilhelmsen, Hoegh BEV SOC 50 por ciento, vehículo operable RoRo, desconecte la batería 12V coche usado, pre-bordo fotograbado
 - **Sugerencias de enlace interno**: /guides/vehicle-export-bill-of-lading-types/; /guides/ev-shipping- un3556-imdg-compliance/; /guides/emission-fuel-compatibility-china-vehicles/
 - **Sugerencias de imagen**: hoja de lista de verificación PDI; rampa de autoconducción RoRo; diagrama de división de recomendación editorial vs
 - **Sugerencias de ALT**: "Requisitos de transporte de RoRo en nombre contra de la lista de verificación recomendada para el envío previo"
@@ -21,7 +21,7 @@ Las disputas de daños en el destino casi siempre se remontan a una pregunta: ¿
 |---|---|---|---|
 | ** Nivel de combustible/gas** | Tanque sobre ** un cuarto lleno** (suficiente para auto-conducir en/off) | Tanque sobre ** un cuarto lleno** | Política de transportista; control cruzado de estas dos líneas nombradas solamente — no una norma universal |
 | **Batería UICI* | Para unidades usadas **sin un interruptor de batería de la batería**, desconecte el 12/24V después de lavado (excepciones por instrucción WW) | - | WW-specific; single-source transport rule |
-| **SOC de alta tensión de los BV** | - | **SOC no more than 50%**, while retaining enough charge for loading/unloading/storage; HEV: ≤¼ fuel plus SOC guidance | Höegh-specific; **not** un techo SOC global |
+| **SOC de alta tensión de los BV** | - | **SOC no más de 50% **, mientras que conserva suficiente carga para carga/descarga/descarga; HEV: ≤¼ fuel plus SOC guidance | Höegh-specific; **not** un techo SOC global |
 | **Operabilidad** | Las unidades RoRo deben autodidactarse de forma segura (move/brake/steer); las unidades defectuosas o fugas pueden ser rechazadas | Mismo requisito de autoconducir | Carrier que recibe la regla de estas dos líneas llamadas |
 
 Estos requisitos se citan para los portadores nombrados precisamente porque **vary by line and by voyage**: un transportista chino RoRo/container u otra línea puede establecer niveles diferentes. Nunca diga "los carriers requieren X" sin nombrar al portador y revisar su guía escrita actual.
@@ -52,7 +52,7 @@ Conteo de puntos de cierre, fuerza de rotura de correa, esteras antideslizantes,
 
 ## Preguntas frecuentes
 **¿Es un cuarto de tanque un requisito legal?** No — es una política escrita de portadores RoRo llamados como Wallenius Wilhelmsen y Höegh; siga la instrucción del porteador reservado.
-**Must every EV ship at 50% SOC?** That figure is a Höegh Autoliners policy, not a universal cap; confirmar el viaje de requisito de SOC del transportista reservado por viaje.
+**¿Debe cada nave EV en 50% SOC?** Esa figura es una política de Höegh Autoliners, no una tapa universal; confirma el viaje de exigencia de la compañía reservada por viaje.
 ** ¿Es obligatorio el registro de foto/recurso?** Es el método de evidencia recomendado de AutoBridge, no un requisito legal, pero fortalece materialmente una reclamación por daños de destino.
 **¿Quién decide los puntos de lavado y las calificaciones de la correa?** El transportista/terminal y el manual de transporte OEM; no asumen valores fijos sin sus documentos.
 
@@ -60,11 +60,14 @@ Conteo de puntos de cierre, fuerza de rotura de correa, esteras antideslizantes,
 - IMAGE_ASSET_PATH: ninguno asegurado en repositorio
 - ORIGINAL_IMAGE_URL: no capturado
 - SOURCE_PAGE: no capturado
+- SOURCE_FILE_PAGE: no aplicable — ningún archivo de medios de comunicación candidato identificado (sin licencia para afirmar)
 - RIGHTS_HOLDER: unconfirmed
 - LICENSE_OR_USAGE_BASIS: ninguna garantizada, ninguna imagen de terceros puede ser publicada hasta que se despejen los derechos
-- CHECKED_DATE: 2026-09-05
+- CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: debe coincidir con el modelo/versión exacto (o el tema guía) y el mercado de referencia por encima
+- IMAGE_SCOPE_NOTE: se corresponde con el modelo exacto familia/topic solamente; no debe implicar un trím o modelo específico, VIN real, inspección en persona o transacción real
 - IMAGE_RIGHTS_STATUS: FAIL (no se acepta ningún activo con licencia; no se acepta un titular de posición o “retiene la imagen antigua”)
+- BLOCK_REASON: No se puede asegurar una imagen reutilizable: Wikimedia Commons/Flickr no son accesibles desde el entorno de investigación, las bibliotecas de stock requieren acceso a API/licencia autenticada, y una imagen de página web OEM NO es una subvención comercial de reutilización; no existe foto de propiedad de AutoBridge. Se quedó con la FAIL en lugar de afirmarse.
 - ALT por idioma:
   - **EN**: AutoBridge export-buyer reference — Pre-shipment PDI and handover for RoRo/container, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Pre-shipment PDI and handover for RoRo/container, guide d’achat à l’export automobile
@@ -83,10 +86,10 @@ Conteo de puntos de cierre, fuerza de rotura de correa, esteras antideslizantes,
 | Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |
 |---|---|---|---|---|---|---|
 | WW Cargo Handling Instructions (fuel ≤¼) | Wallenius Wilhelmsen (portero de RoRo) | INTL | https://cargohandlinginstruction.walleniuswilhelmsen.com/pdf-files/WW-CHI-250731-1.31.pdf | 2026-09-04 | CROSS_CHECKED (portero primario) | Nivel de combustible, operabilidad |
-| WW Recepción de unidades usadas (desconectar 12/24V sin golpe de muerte) | Wallenius Wilhelmsen | INTL | https://cargohandlinginstruction.walleniuswilhelmsen.com/terminal/receiving-of-used-units-draft | 2026-09-04 | SINGLE_SOURCE (portero primario) | Desconexión de baterías usados-ICE |
-| Höegh Automotive shipping (≤¼ fuel; BEV SOC; operabilidad) | Höegh Autoliners | INTL | https://www.hoeghautoliners.com/what-we-ship/automotive | 2026-09-04 | SINGLE_SOURCE (portero primario) | BEV ≤50% SOC, fuel, operability |
+| WW Recepción de unidades usadas (desconectar 12/24V sin interruptor de la muerte) | Wallenius Wilhelmsen | INTL | https://cargohandlinginstruction.walleniuswilhelmsen.com/terminal/receiving-of-used-units-draft | 2026-09-04 | SINGLE_SOURCE (portero primario) | Desconexión de baterías usados-ICE |
+| Höegh Automotive shipping (≤¼ fuel; BEV SOC; operabilidad) | Höegh Autoliners | INTL | https://www.hoeghautoliners.com/what-we-ship/automotive | 2026-09-04 | SINGLE_SOURCE (portero primario) | BEV ≤ 50% SOC, combustible, operabilidad |
 | Höegh Camiones/Buses/Trailers envio | Höegh Autoliners | INTL | https://www.hoeghautoliners.com/what-we-ship/trucks-buses-and-trailers-shipping | 2026-09-04 | SINGLE_SOURCE (portero primario) | Local comercial que recibe |
-| Práctica de inspección previa al envío | Páginas de la industria 11467 | CN | https://m.11467.com/product/d55278360.htm | 2026-09-04 | SINGLE_SOURCE (editorial basis) | Lista de comprobación recomendada/foto/mano |
+| Práctica de inspección previa al envío | 11467 páginas de la industria | CN | https://m.11467.com/product/d55278360.htm | 2026-09-04 | SINGLE_SOURCE (editorial basis) | Lista de comprobación recomendada/foto/mano |
 *Ámbito de evaluación: políticas de identificación verificadas a las guías primarias WW/Höegh (política de futuro, no regulación, no universal); lista de verificación es recomendación editorial; valores de lavado/presión/orientación fijos bloqueados en espera de documentos OEM/carrier. *
 
 | UIT OMI/OIT/ONUCI Código: manipulación y seguridad de unidades de transporte de carga | Organización Marítima Internacional (OMI) | INT'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | VERIFIED | Base de referencia para la manipulación y la fijación de las normas generales; las normas de transporte siguen siendo más estrictas y específicas para la ruta |

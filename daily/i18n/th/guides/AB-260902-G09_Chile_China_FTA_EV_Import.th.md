@@ -1,67 +1,70 @@
-# Importing Chinese Vehicles Into Chile: FTA Preference, IVA and the 3CV Homologation Step
-## SEO Metadata
-- **SEO Title**: Import Chinese EVs to Chile: FTA Preference, IVA & 3CV Guide
-- **Meta Description**: How the China–Chile FTA preference works for Chinese-built vehicles, the Chilean Customs 6% general duty and 19% IVA confirmed officially, why a certificate of origin is the condition, and how 3CV homologation fits.
-- **Suggested URL**: /guides/import-chinese-ev-chile-fta/
-- ~ H1~: Chinese Vehicles Into Chile: Using the FTA Preference Without Miscalculating Landed Cost
-- **Primary Keyword**: Chile China FTA vehicle import duty IVA homologation
-- **Secondary Search Terms**: Chile aduana 6% arancel, Chile IVA 19% import, China Chile FTA certificate of origin, Chile 3CV homologation, certificado origen TLC China Chile, EV import Chile
-- **Internal Link Suggestions**: / Guides/Vielic-import-helpment-ttt-vs-lc/; /guides/marine-cargo-insurance-car-import/ ; /vehicles/byd-yuan-plus/
-- **Image Suggestions**: Chile tax-stack waterfall; FTA certificate-of-origin flow; 3CV homologation steps
-- **ALT Suggestions**: "Chile import cost stack: duty versus IVA"; "FTA certificate of origin requirement"; "Chile 3CV February About"
-## The Opportunity and the Recurring Miscalculation
-Chile operates free-trade agreements with its major partners, **including China**. A compliant Chinese-origin vehicle can use the FTA preference (ad-valorem **duty 0%**), while Chile's **general ad-valorem duty is 6% of CIF customs value** for non-preference origin — both now anchored to official sources (below). The recurring buyer error is reading "FTA 0% duty" as "0% cost to import." It is not: **19% IVA still applies, the 0% depends on proving origin, and homologation is a separate workstream.** This guide is specific to **Chile**.
-## The Tax Stack, Line by Line (officially grounded)
-| Element | Treatment | Basis / confidence |
+# นําเข้ารถจีนเข้าไปในชิลี: FTA ข้อเสนอ IVA และ 3CV ขั้นการเลียนแบบ
+## เชา ข้อมูลกํากับภาพ
+- <EEO ชื่อเพลง: นําเข้า EVs จีนไปยังชิลี: FTA Pettection, IVA & 3CV ทิศทาง:
+- ""คําอธิบาย" วิธีการที่จีน-จีน-จีนใช้แทนรถที่ผลิตมาจากจีน ศุลกากรชิลี 6% หน้าที่ทั่วไป และ IVA 19% ยืนยันอย่างเป็นทางการว่า ทําไมใบประกาศกําเนิดจึงเป็นสภาวะ และวิธีการที่ 3CV ตรงกับความเหมาะสมของ การรักร่วมเพศ
+- ~ที่อยู่ URL ที่ถูกย่อ: / guides/import-chinse-v-chle-fa/
+- ** H1 ~: รถจีนเข้าชิลี: การใช้เอฟทีเอเอที่อ้างอิงโดยไม่มีค่าใช้จ่ายที่คํานวณได้
+- ~คําสําคัญ~ ชิลี การขนส่งรถ ATA หน้าที่ IVA เลียนแบบ
+- ~การค้นหาตามวาระที่: ~ ชิลี อะดูนา 6% อเรเลนซ์ ชิลี IVA 19%. กรมทะเบียนประเทศจีนแห่งประเทศชิลี แหล่งที่มา, ชิลี 3CV โฮโมโลเลชั่น, เซอร์ติกาโด หรือจีนิก เทอร์ติกาโด หรือ ธีแอลซี จีนชิลี, อีวีนําเข้าชิลี
+- ~ เชื่อมโยงภายใน~: / Guides/Vielic-import-tt-lc/; / Guides/marins-cargo-incure-incure-car-imsport/;//// visics/by-ian-+/
+- ** ข้อเสนอแนะของ UNIME*: น้ําตกภาษีของชิลี; ใบรับรอง ATA-Origin การไหล; 3CV ขั้นการรักร่วมเพศ
+- ~จดหมายแนะนํา: "ค่าธรรมเนียมการนําเข้าของจีน: หน้าหน้าที่ ปะทะ IVA""FA ใบรับรองของความต้องการต้นกําเนิด". "Chel 3CV โพรเซสการรักประเวณี".
+## โอกาส และ การ คํานวณ ผิด พลาด ที่ เกิด ขึ้น
+ชิลีดําเนินการจัดการข้อตกลงเสรีกับหุ้นส่วนหลัก รวมทั้งประเทศจีนด้วย รถที่รวมเข้ากับภาษาจีนใช้แทนได้ โดยใช้รุ่น FTA (ad-valorem 0%) ในขณะที่บริการ ad-footeral ad-volorm ของชิลีคือ 6% ของ ศุลกากร ศุภรณ์ CAF * สําหรับแหล่งกําเนิดที่ไม่อ้างอิงของสารานุกรม ปัจจุบันถูกจําแนกไปยังแหล่งกําเนิดอย่างเป็นทางการ (ล่าง). ข้อผิดพลาดที่เกิดขึ้นซ้ําการอ่าน "FTA 0% หน้า" เป็น "ค่าใช้จ่าย 0%". มันไม่ใช่... 19% IVA ยังคงใช้อยู่ 0% ขึ้นอยู่กับที่มาของการพิสูจน์ และโฮโมโลเลชันเป็นสายน้ําแยกที่ทํางาน ไกด์นี้เจาะจงถึง... ไชล
+## สแต็กภาษีเส้นเส้น (การวางตัวแบบไม่เป็นทางการ)
+| อีลีเมนต์ | การ รักษา | พื้น ฐาน / ความ มั่น ใจ |
 |---|---|---|
-| General ad-valorem duty | **6% of CIF (customs value)** for non-preference origin | **VERIFIED — Chilean National Customs Service (aduana.gob.cl)** |
-| IVA (VAT) | **19% on CIF customs value + duty** — charged even when duty is 0% under the FTA | **VERIFIED — aduana.gob.cl** |
-| FTA preference for qualifying Chinese origin | Ad-valorem **duty 0%**, conditional on a valid FTA certificate of origin and the product-specific rule | VERIFIED — official trade sources (China mission; FTA administered on the Chile side by DIRECON/SUBREI and Customs) |
-| Port/logistics charges | Additional, forwarder/route-specific | Obtain per shipment |
-Chilean Customs states the general rule plainly: imports pay a 6% ad-valorem duty on CIF and 19% IVA on customs value plus duty. A qualifying Chinese-origin vehicle removes the **duty** under the FTA but **not** the 19% IVA. Build landed cost from the full stack, never from the headline "0%."
-### A correction to common shorthand
-An earlier draft carried a "1% fee and a US$30 de-minimis exemption" into the vehicle stack. That rule concerns **small/non-commercial postal and courier consignments, not commercial vehicle imports**, so it has been removed from the vehicle cost build. Do not apply courier de-minimis logic to a shipped car.
-## Origin Is the Condition for 0% — Get the Certificate Right
-The FTA preference applies only to **originating goods** that meet the product-specific rule of origin and carry a valid **Certificate of Origin** issued by the authorised body, consistent across invoice, packing list, B/L and VIN. Operationally:
-- Confirm the vehicle's **HS code** and its FTA rule of origin (check the current FTA text / SUBREI for that heading — do not assume every vehicle qualifies automatically).
-- Obtain the FTA certificate naming the same exporter/consignee and vehicle details as the commercial documents.
-- A broken or missing origin chain defaults the shipment to the **6%** general duty.
-## 3CV Homologation Is Separate From Customs
-Vehicles placed on the Chilean market require **3CV homologation** (the safety/emissions certification procedure overseen by the transport/vehicle-certification authorities) before registration. This is a compliance **process and timeline**, not a fixed fee: no reliable official per-unit fee was captured, so **no number (e.g., a quoted ~US$600) is asserted** — obtain the certifier's current quote and lead time, and start it early because it gates first registration, not customs release.
-## Points Deliberately Left Unconfirmed
-- **Any "luxury/surtax" threshold** (an industry source cited a percentage above a value band): **not confirmed against Chilean tax authority (SII) text and removed from the factual cost stack** — verify applicability to your model/price with a Chilean tax source before budgeting.
-- **ANAC's May-2026 proposal to cut the 6% duty for EVs from non-FTA partners**: a trade-association **proposal, not enacted law**. Note also that a compliant Chinese-origin EV already uses the FTA 0% channel, so the non-FTA debate is a different line. Re-check at shipment date; never quote a proposal as policy.
-## What AutoBridge Adds Beyond a Tariff Blog
-Generic guides mix courier de-minimis rules, proposals and enacted tax into one number. The recommended method is to build a **country-correct stack for a *vehicle*** (6% general / 0% FTA preference + 19% IVA on the duty-inclusive value), tie the **certificate-of-origin document set to the VIN**, and plan the **3CV timeline in parallel with shipping** so the 0% preference is not lost on a paperwork mismatch and first registration is not delayed.
-## Operating Sequence
-1. Classify the HS code and confirm its FTA rule of origin before pricing.
-2. Arrange the FTA Certificate of Origin with documents matching the VIN.
-3. Model landed cost as **0% preference duty (or 6% without it) + 19% IVA + logistics + 3CV**, with no invented fees.
-4. Start 3CV homologation early; obtain the certifier's live fee/timeline.
-5. Re-check the ANAC proposal and any surtax at shipment date; keep proposals out of the quote.
-6. Align Incoterms/payment and insure the ocean leg (see the relevant guides).
-## Before Payment — Confirmation List
-- HS code + FTA rule of origin; FTA certificate arranged and VIN-consistent.
-- Tax stack calculated on the aduana.gob.cl basis (6% general / 0% preference; 19% IVA on CIF+duty).
-- Any surtax verified with a Chilean tax source, not assumed.
-- 3CV route, current fee and timeline quoted by the certifier (no benchmark number reused).
-- Proposal/status changes re-checked as of shipment date.
-## Frequently Asked Questions
-**Is duty really 0% for a Chinese car in Chile?** For *originating* goods under the China–Chile FTA, with a valid certificate of origin, the ad-valorem duty is 0%; 19% IVA still applies.
-**What is the non-FTA duty and IVA?** Chilean Customs sets a 6% general ad-valorem duty on CIF and 19% IVA on customs value plus duty.
-**What document unlocks the preference?** A valid FTA Certificate of Origin consistent with invoice and VIN; without it the 6% general duty applies.
-**What is 3CV and what does it cost?** Chile's vehicle homologation process; it gates registration and its fee/timeline must be quoted by the certifier — this article does not assert a fixed number.
-**Is the ANAC EV-duty cut in force?** No — it is a 2026 association proposal, not enacted law; re-check at shipment.
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICNE_OR_USARIAND_BALE: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
-- RODL_TOIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- ALT by language:
+| หน้าที่ทั่วไป ad-valorm | ~ 6% ของ CIF (ค่าตามภาษา) ~ สําหรับแหล่งกําเนิดที่ไม่ได้ใช้ | ~ เปิดใช้งาน — บริการศุลกากรแห่งชาติชิลี (Adudana.gob.cl)** |
+| IVA (VAT) | " 19%". ตามค่าธรรมเนียม CIF + หน้าที่" - สั่งการแม้เมื่อหน้าที่คือ 0% ภายใต้กรมศุภรณ์ (FTA) | ~วิ่งได้ -- อะดูนา โงะ~ |
+| FTA ชอบที่จะได้ความเหมาะสมจากภาษาจีน | Ad-valorem=-datie 0% ** เงื่อนไขในใบรับรอง FTA ที่ใช้ได้ของต้นกําเนิดและกฏกําหนดผลิตภัณฑ์ | เปิดใช้งาน แหล่งที่มาทางการค้าอย่างเป็นทางการ (ภารกิจจีน; FTA ดําเนินการในด้านชิลีโดย DIRCON/SUBRI และศุลกากร) |
+| ค่าใช้จ่ายพอร์ต/ วิทยาศาสตร | เพิ่มเติม, ส่งต่อ/ ส่งต่อ- กําหนด | เพิ่มค่าแสงต่อการจัดส่ง |
+ศุลกากรชิลี (ชิลี ศุลกากร) กล่าว กติกาทั่วไปอย่างชัดเจน: นําเข้าเข้างาน 6% กรมโฆษณา เมื่อวันที่ CIF และ 19% IVA ด้วยค่าธรรมเนียมบวกหน้าที่ ยานพาหนะที่มีคุณสมบัติแบบจีน เอาออกไป ใต้เอฟทีเอ แต่ไม่ได้เอา IVA 19% หรอกนะ สร้างค่าใช้จ่ายที่ดินจากกองเต็มไม่เคยจากพาดหัว " 0%".
+### การ แก้ไข เรื่อง การ ขาด แคลน
+การร่างก่อนหน้านี้ได้นํา " 1% ค่าใช้จ่ายและ 30 เหรียญสหรัฐ ยกเว้น" เข้ากองรถ กฎนั้นเกี่ยวกับ.................. อย่าใช้เหตุผลของคนส่งของกับรถที่ขนส่งมา
+## ต้นทาง สภาวะ ของ 0% — รับ ใบ อนุญาต ให้ เข้า รับ การ รักษา
+FTA ชอบใช้เฉพาะที่ <i> เก็บข้อมูลสินค้าเท่านั้น ที่ตรงกับกฏพื้นฐานของผลิตภัณฑ์ และดําเนินการได้สําเร็จ ~ กรมปราบของแหล่งกําเนิด~ ส่งผลโดยร่างที่ไม่แน่นอน ที่ต่อเนื่องกัน ในรายการเก็บเอกสาร, B/L และ Vin ประมวลผล:
+- ยืนยันรหัสรถที่สั่ง 'HS' และกฏการสืบพันธุ์ของรถ (ตรวจสอบข้อความ FTA / crackRI ปัจจุบันสําหรับหัวรถนั้น -- อย่าถือว่ารถทุกคันมีคุณภาพโดยอัตโนมัติ).
+- Offtain ใบรับรอง FTA ตั้งชื่อผู้ส่งออก/ คอนเซ็นเตอร์และรายละเอียดรถเป็นเอกสารพาณิชย์
+- ห่วงโซ่ดั้งเดิมที่เสียหรือสูญหาย จะเป็นการลบรายการที่ส่งไปยัง ~ 6% ** หน้าที่ทั่วไป
+## 3CV การเลียนแบบแยกออกจากศุลกากร
+พาหนะที่วางขายในตลาดชิลี ต้องการข้อมูลการบริการแบบนอกเครื่องแบบ 3CV ~ (กระบวนการตรวจสอบความปลอดภัย/การให้บริการ การตรวจสอบการเคลื่อนย้ายของกรมขนส่ง/เวนิก) ก่อนลงทะเบียน พ.ศ. นี่คือการดําเนินการ.... ประมวลผลและไทม์เวิร์ค ไม่ได้มีการบันทึกค่าธรรมเนียมจากหน่วยงานที่เชื่อถือได้เลย จึงไม่มีหมายเลข (เช่น ที่อ้างถึง ~US$ 600] -- ได้สิทธิอ้างอิงและเวลาแสดงสิทธิในการรับรองปัจจุบัน และเริ่มดําเนินการเร็ว ๆ นี้เพราะได้ลงทะเบียนก่อนกําหนด ไม่ได้รับการปล่อยตัวจากศุภรณ์
+## จุด ที่ ไม่ ได้ รับ การ ยืน ยัน
+- ** ข้อกําหนด "luxury/surtax" ใด ๆ ~ (แหล่งอุตสาหกรรมอ้างอิงร้อยละหนึ่งเหนือวงค่าต่าง ๆ): ~ ไม่ได้รับการยืนยันการต่อต้านผู้ถือภาษีชิลี (SIII) และเอาออกจากค่าใช้จ่ายตามความเป็นจริง 'เรียงรายค่า' — ตรวจสอบความเหมาะสมของรุ่น/ไพรม์ของคุณ กับแหล่งภาษีชิลีก่อนที่จะวางงบ
+- ~May- 2026's ข้อเสนอให้ตัด 6% หน้าที่สําหรับ EVs จากคู่ค้าที่ไม่ใช่ FTA~: การค้า- assocation~, ตามกฎหมายไม่ดําเนินการ! ~ โปรดสังเกตว่า การสื่อสารแบบรวมของจีน-ออริจิน อีวี ใช้ช่อง FTA 0% แล้ว ดังนั้นการอภิปรายที่ไม่ใช่ FTA จึงเป็นอีกสายหนึ่ง ตรวจสอบวันที่ส่งอีกครั้ง ไม่เคยอ้างข้อเสนอเป็นนโยบาย
+## สิ่ง ที่ ออ โต ริดจ์ เพิ่ม ไว้ นอก จาก บล็อก ของ ทา ริฟฟ์
+มัคคุเทศก์ทั่วไปผสม กฎของผู้ส่งของ De-minis, ข้อเสนอและออกกฎหมายภาษีเป็นหนึ่ง วิธีที่แนะนําคือ สร้างกองข้าวแบบกองเรียงของกลุ่มชนบท สําหรับ *เวฟเลเคิล (6% ทั่วไป/ 0% FATA over + 19% IVA ในหน้าที่การเก็บรวบรวม) เชื่อมโยง... เอกสารการดําเนินงาน กับ VIN  and  plan the **3CV timeline in parallel with shipping** so the 0% preference is not lost on a paperwork mismatch  and  การลงทะเบียนครั้งแรกยังไม่ล่าช้า
+## การ ทํา งาน เพื่อ ความ อยู่ รอด
+1. จําแนกรหัสระบบ SS และยืนยันกฏของ FTA ของมันก่อนการวางราคา
+2. จัดเตรียมใบรับรอง FTA ของแหล่งกําเนิด กับเอกสารที่ตรงกับ VIN
+3. ค่าใช้จ่ายที่ดินแบบ expands เป็น ~ 0% หน้า (หรือ 6% มาก่อน) + 19% IVA + logists + 3CV ** ไม่มีค่าธรรมเนียมประดิษฐ์ขึ้น
+4. เริ่ม 3CV การประกาศขอเอกราชก่อน; รับค่าธรรมเนียมการถ่ายทอดสดของเครื่องตรวจการ
+5. ตรวจสอบข้อเสนอของ ASAAC และ surtux ใด ๆ ที่วันที่จัดส่ง; เก็บข้อเสนอออกจากคําอ้างอิง
+6. จัดอันดับอินโคเลสเตชัน/จ่ายและประกันขามหาสมุทร (ดูคู่มือที่เกี่ยวข้อง)
+## ก่อน จะ ชําระ หนี้ — รายการ ที่ ยืน ยัน
+- รหัส HS + กฎ FTA ของต้นกําเนิด ใบรับรอง FTA จัดเรียงและใช้ VIN
+- สแต็กภาษีคํานวณบน anadana.gob. scyb พื้นฐาน (6% ทั่วไป / 0% ชื่นชอบ; 19% IVA on CIF+duty).
+- ตรวจหา surtax ใด ๆ ด้วยแหล่งภาษีชิลี ไม่ได้สันนิษฐาน
+- 3CV เส้นทาง ค่าธรรมเนียมและเวลาในปัจจุบันที่อ้างถึงโดยเครื่องตรวจความเรียบร้อย (ไม่มีหมายเลขมาตรฐานใช้อีกครั้ง).
+- Proposal/status เปลี่ยนแปลงการตรวจสอบอีกครั้งว่าเป็นวันที่ส่งของ
+## คํา ถาม ที่ มัก จะ ถาม บ่อย ๆ
+~หน้าที่ 0% สําหรับรถจีนในชิลีจริงๆ หรอ~ สําหรับ *สินค้า* ภายใต้ ไชน่า-ชิลล์ เอฟทีเอ โดยมีใบอนุญาตที่ใช้ได้จากต้นกําเนิด งานโฆษณาคือ 0%; 19% IVA ยังคงนํามาใช้
+~ อะไรคือหน้าที่ที่ไม่ใช่ FTA  and  IVA?** Chilean Customs sets a 6% general ad-valorem duty on CIF  and  19% IVA ในค่าศุลกากรบวกหน้าที่
+~ มีเอกสารอะไรที่จะปลดล็อครายการโปรดได้? ~ FTA ใบรับรองของต้นเหตุที่ใช้ได้สอดคล้องกับการออกประกาศและวินาศกรรม โดยไม่ต้องทําหน้าที่ทั่วไป 6%.
+~ 3CV ได้เท่าไหร่ และค่าใช้จ่ายคืออะไร~ โพรเซสการแบ่งประเภทรถของชิลี; มันทําการลงทะเบียนเกตและเวลาค่าธรรมเนียมของมัน จะต้องอ้างถึงโดยช่างทํายา -- บทความนี้ไม่สามารถยืนยันหมายเลขคงที่ได้
+"การตัดเอเน็ค อีวี-ดูตี้ในกําลังหรือเปล่า" ไม่ — เป็นข้อเสนอของสมาคม 2026 ไม่ใช่ออกกฎหมาย ตรวจดูการจัดส่งสินค้าอีกครั้ง
+## บันทึกรูปภาพ
+- _ปราสาท: ไม่มีความปลอดภัยในคลังเก็บ
+- ส่วนตัว_ปลายทาง: ไม่ได้จับ
+- ผู้โดยสาร: ไม่ถูกจับ
+- HOURS_ PDFAGE: ไม่มีผล — ไม่มีชื่อแฟ้มสําหรับเลือกสื่อ (ไม่มีใบรับรองที่จะยืนยัน)
+- ลิขสิทธิ์: ไม่ยืนยัน
+- LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
+- _กําหนดวันที่: 2026-09-06
+- MERCUL_ TOPIC_ MATCH: ต้องตรงกับรุ่น/ การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
+- CHAR_SCPE_NOTE: ตรงกับโมเดลที่เป๊ะของครอบครัว/ topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
+- March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
+- BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
+- ALT ด้วยภาษา:
   - **EN**: AutoBridge export-buyer reference — Chile vehicle import, FTA and 3CV, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Chile vehicle import, FTA and 3CV, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Chile vehicle import, FTA and 3CV, Leitfaden für Fahrzeugexport-Einkauf
@@ -75,22 +78,22 @@ Generic guides mix courier de-minimis rules, proposals and enacted tax into one 
   - **AR**: مرجع AutoBridge لمشتري التصدير — Chile vehicle import, FTA and 3CV, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Chile vehicle import, FTA and 3CV, 汽车出口采购指南
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## ต้นฉบับและการตรวจสอบสิทธิ์
+| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| "¿Cuáles son los impuestos que debo pagar al importar?" (6% CIF + 19% IVA on CIF+duty, worked example) | Servicio Nacional de Aduanas (**Chilean Customs, government official**) | CL | https://www.aduana.gob.cl/cuales-son-los-impuestos-que-debo-pagar-al-importar/aduana/2020-11-16/110804.html | 2026-09-03 | **VERIFIED** | General 6% ad-valorem on CIF; 19% IVA base |
-| "Importación de vehículos" (vehicle duty 6% + IVA 19%) | Servicio Nacional de Aduanas (**government official**) | CL | https://www.aduana.gob.cl/importacion-de-vehiculos/aduana/2017-11-22/101502.html | 2026-09-03 | **VERIFIED** | Vehicle-specific duty/IVA statement; service-fee distinction |
-| China–Chile FTA preference (0% for qualifying origin), certificate basis | MOFCOM Chinese Mission in Chile (**official trade body**) | CL/ CN | http://cl.mofcom.gov.cn/zcfg/hg/art/2025/art_4febd3af37374813a6c4b15695959d49.html | 2026-09-02 | **VERIFIED** | FTA 0% preference channel; origin-certificate condition |
-| ANAC six measures to make EVs cheaper (proposal, not law) | AUTOGUÍA (Chilean auto media) | CL | https://www.autoguia.cl/electromovilidad/2026/05/10/las-6-medidas-que-anac-le-pide-al-gobierno-para-que-los-autos-electricos-sean-mas-baratos-en-chile.html | 2026-09-02 | SINGLE_SOURCE | Proposal status only — explicitly not enacted |
-| Los Contadores — 智利 2026 关税 | Los Contadores（智利本地财税） | CL | https://loscontadores.cl/arancel-aduanero-en-chile/ | 2026-09-02 | SINGLE_SOURCE | 2026 普通关税 6%、自贸国 0%、IVA 19% |
-| Jinyu Autos — 中国车进口智利指南 | Jinyu Autos（行业站） | CL | https://jinyuautos.com/blog/import-chinese-cars-to-chile/ | 2026-09-02 | SINGLE_SOURCE | 中智 FTA 0% 关税通道 |
-| huajiame — 全球汽车进口关税指南 | huajiame（行业站） | CL | https://www.huajiame.com/pl/knowledge/global-auto-import-tariff-guide | 2026-09-02 | SINGLE_SOURCE | 智利关税 6%（FTA 0%）、VAT 19%、奢侈品税 15%（>~$35k） |
+| "Shelp Cuale ลูกชาย los mpustos que debo laga al praear?" (6% CIF+ 19% IVA on CIF+daty, example) | ศุลกากร nacial de Aduanas (*ศุลกากรจีน กรมศุลกากรรัฐบาล) | สี | https://www.aduana.gob.cl/cuales-son-los-impuestos-que-debo-pagar-al-importar/aduana/2020-11-16/110804.html | 2026-09-03 | ~"ผ่านเข้ามา" | พลเอก 6% ad-valorem on CIFF; 19% IVA ฐาน |
+| "Iracyon de veiculos" (หน้าที่ลูกวัว 6% + IVA 19%). | เซอซิโอ นาซิโอ เดอ อาดูนาส (*เจ้าหน้าที่รัฐบาล) | สี | https://www.aduana.gob.cl/importacion-de-vehiculos/aduana/2017-11-22/101502.html | 2026-09-03 | ~"ผ่านเข้ามา" | รูปแบบการใช้รถ/ ISA แจ้งว่า ความแตกต่างระหว่างบริการ-firue |
+| ไชน่า – ไชลล์ เอฟทีเอ (0% สําหรับที่มาของคุณสมบัติ), ฐานใบรับรอง | OMFCOM ภาระกิจจีนในชิลี (* การค้าเชิงพาณิชย์*) | CL/ CN | http://cl.mofcom.gov.cn/zcfg/hg/art/2025/art_4febd3af37374813a6c4b15695959d49.html | 2026-09-02 | ~"ผ่านเข้ามา" | FTA 0% ช่องโปรด; เงื่อนไขกําเนิด |
+| เอเอ็นเอซีหกมาตรการที่จะทําให้อีวีถูกกว่า (แต่ไม่ใช่กฎหมาย) | AUTOGUA (สื่อรถยนต์ของจีน) | สี | https://www.autoguia.cl/electromovilidad/2026/05/10/las-6-medidas-que-anac-le-pide-al-gobierno-para-que-los-autos-electricos-sean-mas-baratos-en-chile.html | 2026-09-02 | ผู้โดยสาร_ปลายทาง | สถานะ การ เสนอ — ไม่ ได้ ทํา ขึ้น อย่าง ชัดเจน |
+| ลอส คอน ตา โดส์ — 智利 2026 关税 | Los Controdoes (智利本地财税) | สี | https://loscontadores.cl/arancel-aduanero-en-chile/ | 2026-09-02 | ผู้โดยสาร_ปลายทาง | 2026 普通关税 6%、自贸国 0%、IVA 19% |
+| จิน ยู ออ โต โตส — 中国车进口智利指南 | จินยูออโต้ (行业站) | สี | https://jinyuautos.com/blog/import-chinese-cars-to-chile/ | 2026-09-02 | ผู้โดยสาร_ปลายทาง | 中智 FTA 0% 关税通道 |
+| ฮิว จิ อา เม — 全球汽车进口关税指南 | ฮิวจิเมะ (行业站) | สี | https://www.huajiame.com/pl/knowledge/global-auto-import-tariff-guide | 2026-09-02 | ผู้โดยสาร_ปลายทาง | 智利关税 6% (FTA 0%). VAT 19% 、 奢侈品税15% (~$35k) |
 
-*Confidence note: the 6% general duty and 19% IVA are VERIFIED on Chilean Customs; the FTA 0% preference is official but conditional on origin. The previously included 1%/US$30 courier rule (not applicable to vehicles), an unconfirmed luxury-surtax threshold and a fixed 3CV fee have been removed from the factual body; HS-level rules of origin and any surtax must be confirmed with Chilean Customs/SII/SUBREI.*
-## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: Chile
-- **Verification method**: Government customs primary source for duty/IVA; official trade body for the FTA preference; proposals and unconfirmed fees kept out of the factual stack
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+* หมายเหตุการยอมรับ: 6% หน้าที่ทั่วไปและ 19% IVA มี ISFIIIIID ลงบนศุลกากรชิลี; FTA 0% ชื่นชอบอย่างเป็นทางการ แต่เงื่อนไขเกี่ยวกับต้นกําเนิด The previously included 1%/US$30 courier rule (not applicable to vehicles), ข้อจํากัดด้านความฟุ่มเฟือยที่ไม่สามารถยืนยันได้  and  ค่าธรรมเนียมที่คงที่ 3CV ได้ถูกลบออกจากร่างความจริง กฎของ HS-ระดับของจุดกําเนิด และ surtux ใด ๆ ต้องได้รับการยืนยันจาก ศุลกากรชิลี/SIL/SUBRI *
+## การทบทวนแก้ไข
+- ~Uuthor/ retrieved~: [บีดริดจ์ ส่งออกทีมแก้ไข] (/ ผู้เขียน/) วิธี [แก้ไข] ของเรา [นโยบายการเลือ [/ การแก้ไข- policy/]
+- ~ถูกตรวจสอบแล้ว~: 2026-09-05
+- ~ตลาดแห่งอนาคต: ชิลี~
+- ~วิธีการสร้างความสัมพันธ์ ~: ศุลกากรของรัฐบาล แหล่งที่มาหลักสําหรับหน้าที่/ ViA; ร่างการค้าอย่างเป็นทางการสําหรับรายการโปรดของ FTA; ข้อเสนอและค่าธรรมเนียมที่ไม่มีการยืนยันเก็บออกจากกองข้อมูล
+- ~มาตรฐานการแบ่งส่วน ~: Research and med from the source address address (Desk Research; ไม่มีการขับรถมือหนึ่ง, runchown หรือนําเข้า). ความมั่นใจของแหล่งแสดงต่อแถว; จุดใด ๆ ที่เราไม่สามารถยืนยันได้ด้วยตัวเอง ถูกนําเสนอเป็นรายการตรวจสอบแทนการยืนยันว่าเป็นความจริง
 #AutoBridge #ChileImport #FTA #3CVHomologation #EVExport

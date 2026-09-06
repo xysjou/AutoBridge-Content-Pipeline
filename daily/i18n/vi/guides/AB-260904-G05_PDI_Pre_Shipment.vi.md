@@ -4,10 +4,10 @@
 - **SEAO Title**: xe cộ xuất cảnh & tiền-sipment Hướng dẫn chuyển nhượng — Quy tắc được đặt tên
 - **Meta Mô tả**: Tách biệt tên là RoRo nhà xuất bản chính sách (Waldenius Wilhelmsen, Höegh Autoliners) — nhiên liệu, pin, SOC và năng lượng — từ danh sách kiểm tra hàng đầu của AutoBridge; không có giá trị cố định chung.
 - **Sudeest URL**: /guides/vehic-eport-pdi-P-P-P-P-P-P-P-P-P-P-nover
-- ** H1 **: chuẩn bị một xe cộ cho RoRo hoặc ver Enger: Những gì các Carriers tên yêu cầu và những gì chúng tôi đề nghị
+- ** H1 **: chuẩn bị xe hơi cho RoRo hoặc ver Engage: Những gì các nhà truyền giáo có tên yêu cầu và những gì chúng tôi đề nghị
 - **Criumary Keyword**: phương tiện xuất khẩu trước khi làm nhiệm vụ kiểm tra PDI giao cho RoRo
-- **Secondary Search Words**: Wallenius Wilhelmsen fuel quarter tank, Hoegh BEV SOC 50 percent, RoRo operable vehicle, disconnect 12V battery used car, pre-shipment photo record
-- **I nội bộ Link gợi ý**: //guides/vehle-excport-bill-of-lading-types/; /guides/ev-shipping- un3556-imdg-compliance/; /guides/fuel-c tương thích-chiel-chicha-vechles/
+- **Secondary Search Words**: - Tôi là một người tốt. - Tôi là một người tốt.  Hoegh BEV SOC 50 percent, Xe chở thuốc RoRo operable, ngắt kết nối 12V ắc quy sử dụng, Kỷ lục chụp hình trước thời kỳ định vị
+- **I nội bộ Link gợi ý**: //guides/vehic-exc-ecport-bill-lading-types/; /guides/ev-ping- un3556-imdg-compliance/; /guides/ec-fuel-cc tương thích-chicha-vecles/
 - **Image gợi ý**: tờ kiểm tra PDI; đường dốc tự lái; tên-carer vs phân chia sơ đồ
 - **LT gợi ý**: "Biểu thức phát thanh tên so với kiểm tra tính trước khi làm nhiệm vụ"
 
@@ -20,8 +20,8 @@
 | Mục lục | _Cuên- ni- u- ni- a- ni- a- niName | Các máy tự động Höegh | Tự nhiên |
 |---|---|---|---|
 | **Fuel / gas level** | Tank about **one-quarter full** (enough to self-drive on/off) | Tank about **one-quarter full** | Chính sách Carrier; kiểm tra chéo hai dòng này — không phải là một quy tắc phổ quát |
-| ** Dùng pin ICE** | Đối với đơn vị sử dụng ** mà không có một ắc quy giết-switch**, ngắt kết nối 12/24V sau khi đánh (trừ một hướng dẫn WW) | - | Quy tắc nhà cung cấp đơn |
-| **BVV cao tốc SOC** | - | **SOC no more than 50%**, while retaining enough charge for loading/unloading/storage; HOV: ≤¼ fuel plus SOC guidance | Höegh- cụ thể; ** not** trần SOC toàn cầu |
+| ** Dùng pin ICE** | Đối với đơn vị sử dụng ** mà không có một ắc quy giết-switch**, ngắt kết nối 12/24V, sau khi đánh (trừ khi đánh một chỉ dẫn WW) | - | Quy tắc nhà cung cấp đơn |
+| **BVV cao tốc SOC** | - | **SOC không hơn 50% **, trong khi vẫn giữ đủ sạc cho việc nạp/nải/không tải; HOV: ≤¼ fuel plus SOC guidance | Höegh- cụ thể; ** not** trần SOC toàn cầu |
 | **Sự dễ bị tổn thương* ♪ | Đơn vị RoRo phải tự lái an toàn trên/tắt (move/brake/seer); lỗi hoặc rò rỉ đơn vị có thể bị từ chối | Cùng một yêu cầu tự lái | Bộ nhận quy tắc cho hai dòng tên |
 
 Những đòi hỏi này được trích dẫn cho những người mang tên chính xác vì họ **vary theo hàng và bằng chuyến đi**: một người đưa hàng kiểu Hoa /container hoặc một dòng khác có thể đặt ra mức độ khác nhau. Không bao giờ bang "xe tải yêu cầu X" mà không đặt tên cho tàu và kiểm tra hướng dẫn văn bản hiện tại của nó.
@@ -51,8 +51,8 @@ Số điểm cao, dây buộc phá vỡ sức mạnh, chống trượt chiếu s
 - Những con số cố định/náp/thôi định sau tên các mẫu vật được ** bị chặn đứng chờ đợi những tài liệu chính của OEM/carrier**.
 
 ## Những câu hỏi thường xuyên
-**Is a quarter tank a legal requirement?** No — it is a written policy of named RoRo carriers such as Wallenius Wilhelmsen and Höegh; Làm theo chỉ dẫn của nhà xuất bản.
-**Must every EV ship at 50% SOC?** That figure is a Höegh Autoliners policy, not a universal cap; xác nhận chuyến hành trình của hãng hàng không SOC.
+**Is a quarter tank a legal requirement?** No — it is a written policy of named RoRo carriers such as Wallenius Wilhelmsen  and  Höegh; Làm theo chỉ dẫn của nhà xuất bản.
+**Có phải tất cả tàu EV ở 50% SOC? ** Con số đó là chính sách Höegh Autoliers, không phải là một chiếc mũ phổ quát; xác nhận chuyến hành trình yêu cầu của nhà cung cấp thông tin bằng đường biển.
 Có phải kỷ lục chụp ảnh và trao đổi là bắt buộc không? Đó là phương pháp bằng chứng đề nghị của AutoBridge, không phải yêu cầu thống kê, mà là nó củng cố một yêu cầu tiêu chuẩn về mặt vật chất.
 ** Ai quyết định đánh nhau và đánh giá điểm số? Các nhà phát triển/t thổ ngữ và Sổ tay giao thông OEM; không giả định giá trị cố định mà không có tài liệu của họ.
 
@@ -60,11 +60,14 @@ Có phải kỷ lục chụp ảnh và trao đổi là bắt buộc không? Đó
 - Không có bảo mật trong kho
 - _NHỮNG _I HÌNH: chưa được thu
 - Không được lấy
+- SOURCE_FLE_PAGE: không thích hợp — không có tập tin phương tiện ứng cử viên nào được xác định (không có giấy phép để xác nhận)
 - Chưa xác nhận
 - LICENSE_OR_USAGE_BAAY: không bảo mật — không có ảnh bên thứ ba có thể được xuất bản cho đến khi quyền được xoá
-- CÂU_DATE: 2026-09-05
+- CÂU_ lẫn nhau: 2026-09-06
 - MODEL_TOPIC_MASP: cần phải khớp với mô hình/ Quay chính xác (hoặc chủ đề hướng dẫn) và thị trường tham chiếu bên trên
+- ITH_SCOPE_NOTE: phù hợp với chính xác mô hình gia đình/tic duy nhất; không phải ngụ ý một cụ thể cắt/mdel năm, thực sự VIN, kiểm tra người trong người hoặc thực sự giao dịch
 - TRONG SÁCH TRONG LINH: FAIL (không có giấy phép lấy được tài sản; một người giữ chỗ hoặc “không chấp nhận lời nhắn cũ của hình ảnh ”
+- - Không. Không thể bảo đảm ảnh có thể tái tạo: Wikimedia Commons/Flickr không thể tới từ môi trường nghiên cứu, thư viện chứng khoán yêu cầu quyền truy cập hệ thống ARI/licence, và một trang web OEM không phải là một tài trợ tái sử dụng thương mại; không có ảnh tự động của AutoBridge. Giữ FAIL thay vì khẳng định.
 - Theo ngôn ngữ:
   - **EN**: AutoBridge export-buyer reference — Pre-shipment PDI and handover for RoRo/container, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Pre-shipment PDI and handover for RoRo/container, guide d’achat à l’export automobile
@@ -83,10 +86,10 @@ Có phải kỷ lục chụp ảnh và trao đổi là bắt buộc không? Đó
 | Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
 | WW Cargo Handling Instructions (fuel ≤¼) | Wallenius Wilhelmsen (Người chở hồng) | I - MI | https://cargohandlinginstruction.walleniuswilhelmsen.com/pdf-files/WW-CHI-250731-1.31.pdf | 2026-09-04 | CROSS_ CORCKED (đem theo chính sách) | Cấp nhiên liệu, khả năng đi lại |
-| WW Nhận các đơn vị đã dùng (diconnect 12/24V mà không cần giết phù thủy) | _Cuên- ni- u- ni- a- ni- a- niName | I - MI | https://cargohandlinginstruction.walleniuswilhelmsen.com/terminal/receiving-of-used-units-draft | 2026-09-04 | SINGLE_SOURCE (người đưa hàng chính) | ngắt kết nối pin dùng-ICE |
-| Höegh Automotive shipping (≤¼ fuel; BOV SOC; Khả năng dịch | Các máy tự động Höegh | I - MI | https://www.hoeghautoliners.com/what-we-ship/automotive | 2026-09-04 | SINGLE_SOURCE (người đưa hàng chính) | BEV ≤50% SOC, fuel, operability |
+| WW Nhận các đơn vị đã dùng (diconnect 12/24V, không có định dạng giết phù thủy) | _Cuên- ni- u- ni- a- ni- a- niName | I - MI | https://cargohandlinginstruction.walleniuswilhelmsen.com/terminal/receiving-of-used-units-draft | 2026-09-04 | SINGLE_SOURCE (người đưa hàng chính) | ngắt kết nối pin dùng-ICE |
+| Höegh Automotive shipping (≤¼ fuel; BOV SOC; Khả năng dịch | Các máy tự động Höegh | I - MI | https://www.hoeghautoliners.com/what-we-ship/automotive | 2026-09-04 | SINGLE_SOURCE (người đưa hàng chính) | BÀI TIẾNG 50% SOC, nhiên liệu, năng lượng |
 | Xe tải Höegh/ Buses/Traster | Các máy tự động Höegh | I - MI | https://www.hoeghautoliners.com/what-we-ship/trucks-buses-and-trailers-shipping | 2026-09-04 | SINGLE_SOURCE (người đưa hàng chính) | Đơn vị thương mại nhận được |
-| Kiểm tra trước về & giao phó thực hành | Công nghiệp 11467 | CN | https://m.11467.com/product/d55278360.htm | 2026-09-04 | SINGLE_SOURCE (cơ sở quan sát) | Khuyên kiểm tra/ ảnh |
+| Kiểm tra trước về & giao phó thực hành | 11467 trang công nghiệp | CN | https://m.11467.com/product/d55278360.htm | 2026-09-04 | SINGLE_SOURCE (cơ sở quan sát) | Khuyên kiểm tra/ ảnh |
 * Phạm vi tính từ: chính sách có tên-carrier được xác nhận cho các hướng dẫn chính của WW/Höegh (chính sách xe, không quy định, không phổ biến); kiểm tra là khuyến cáo biên tập; các giá trị đánh đập/ áp đảo/ đường dẫn cố định bị chặn lại trong tài liệu OEM/carrier. ♪
 
 | Đội cứu hộ Bộ mã — Các đơn vị vận chuyển hàng hóa đang được xử lý và bảo vệ | Tổ chức hải sản Quốc tế (MO) | IN'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | VEII | Chung |
@@ -94,7 +97,7 @@ Có phải kỷ lục chụp ảnh và trao đổi là bắt buộc không? Đó
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team_· phương pháp trên mỗi [chính sách] (/tách-chính trị/)
-- **Last xem xét**: 2026-09-05
+- **Last xem lại**: 2026-09-05
 - ** Thị trường khảo sát**: International RoRo/contaner era (chính sách có tên-carrier) + danh sách các bài xã luận
 - **Verification phương pháp**: Named-carrier chính hướng dẫn riêng tách khỏi giới thiệu bộ biên tập; không có giá trị cố định chung
 - **Sự khác biệt**: việc soạn thảo có hỗ trợ bởi Al-assed đã được sử dụng. Bài này dựa trên nghiên cứu bàn giấy và tự động QA. Không có thử nghiệm tay đầu tiên được xác nhận trừ khi được ghi lại rõ ràng; xác nhận yêu cầu thời gian và đích đến trước khi chuyển đổi.

@@ -3,7 +3,7 @@
 - **SEO Título**: Overseas After-Sales, Parts & Garantía Red Guía de configuración
 - **Meta Descripción**: Cómo un exportador de vehículos construye una red de ventas después de la venta en el extranjero, los modelos de red se ajustan a la base instalada, las acciones regionales, las promesas de garantía coinciden con la capacidad de servicio real, y la expectativa de política de China detrás de ella.
 - ** URL agregada**: /guides/overseas-aftersales-parts-warranty-network/
-- ** H1 **: Construcción de Overseas After-Sales, Piezas de Recambio y Capacidad de Garantía para Vehículos Exportados
+- ** H1 **: Construcción de vehículos exportados después de las ventas, repuestos y garantía de la capacidad de los vehículos exportados
 - **Primary Keyword**: extranjero postventa repuestos garantía red de configuración exportador
 - **Segundary Search Terms**: red de servicios de exportadores en el extranjero, almacén de piezas regionales, política de garantía de vehículos en el extranjero, red independiente de reparación de múltiples marcas, soporte de postventa
 - **Sugerencias internas**: /guides/vehicle-export-sales-contract-clauses/; /guides/china-vehicle-export-license-customs-documents/; /guides/overseas-aftersales-parts-warranty-network/
@@ -34,7 +34,7 @@ Coincide con el modelo a **vehículos en operación**, no para optimizar las ven
 ## Alinear la promesa de garantía con capacidad real
 Una garantía es sólo creíble en la medida en que la red pueda honrarla:
 - Match ** Duración/mileaje de la guerra y exclusiones** a lo que los talleres locales pueden realmente servir y las partes pueden llegar.
-- Ejemplo de la industria (fuente individual, ilustrativo): a ** 7-year/unlimited-km OEM Garantía** ofrecida en Australia — creíble sólo porque una red de piezas y servicios lo respalda; ofrecer términos similares sin esa red crea responsabilidad que no puede cumplir.
+- Ejemplo de la industria (fuente individual, ilustrativo): una garantía OEM ** 7-year/unlimited-km** ofrecida en Australia — creíble sólo porque una red de piezas y servicios lo respalda; ofrecer términos similares sin esa red crea responsabilidad que no puede cumplir.
 - Defina el flujo de trabajo **claim, que paga flete/trabajo, límites de buena voluntad**, y cómo se manejan las reclamaciones de batería/EV específicas (que necesitan capacidad especializada).
 
 ## Qué recomienda esta guía para ponerte en el lugar
@@ -55,11 +55,14 @@ Una garantía es sólo creíble en la medida en que la red pueda honrarla:
 - IMAGE_ASSET_PATH: ninguno asegurado en repositorio
 - ORIGINAL_IMAGE_URL: no capturado
 - SOURCE_PAGE: no capturado
+- SOURCE_FILE_PAGE: no aplicable — ningún archivo de medios de comunicación candidato identificado (sin licencia para afirmar)
 - RIGHTS_HOLDER: unconfirmed
 - LICENSE_OR_USAGE_BASIS: ninguna garantizada, ninguna imagen de terceros puede ser publicada hasta que se despejen los derechos
-- CHECKED_DATE: 2026-09-05
+- CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: debe coincidir con el modelo/versión exacto (o el tema guía) y el mercado de referencia por encima
+- IMAGE_SCOPE_NOTE: se corresponde con el modelo exacto familia/topic solamente; no debe implicar un trím o modelo específico, VIN real, inspección en persona o transacción real
 - IMAGE_RIGHTS_STATUS: FAIL (no se acepta ningún activo con licencia; no se acepta un titular de posición o “retiene la imagen antigua”)
+- BLOCK_REASON: No se puede asegurar una imagen reutilizable: Wikimedia Commons/Flickr no son accesibles desde el entorno de investigación, las bibliotecas de stock requieren acceso a API/licencia autenticada, y una imagen de página web OEM NO es una subvención comercial de reutilización; no existe foto de propiedad de AutoBridge. Se quedó con la FAIL en lugar de afirmarse.
 - ALT por idioma:
   - **EN**: AutoBridge export-buyer reference — Overseas after-sales parts and warranty network, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Overseas after-sales parts and warranty network, guide d’achat à l’export automobile
@@ -79,11 +82,11 @@ Una garantía es sólo creíble en la medida en que la red pueda honrarla:
 |---|---|---|---|---|---|---|
 | Cuatro ministry de exportación de automóviles usados (tema 6: sistema de soporte) | Biblioteca de políticas del Consejo de Estado | CN / Global | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | VERIFIED | Políticas de apoyo conjunto post-venta/partes/tecnología |
 | Mismo aviso (sistema de soporte) | Ministry of Commerce | CN / Global | http://www.mofcom.gov.cn/zcfb/dwmygl/art/2025/art_543d1fcc6a1048d5bf301a8d59ed723e.html | 2026-09-03 | VERIFIED | texto de la contraparte de MOFCOM |
-| Cómo los fabricantes de automóviles chinos pueden cerrar la brecha de ventas después del extranjero | Sina Finance | Global | https://finance.sina.com.cn/esg/2026-04-27/doc-inhvxpih9178870.shtml | 2026-09-03 | SINGLE_SOURCE | Ruta de red multimarca; ejemplo de piezas de Melbourne; ejemplo de garantía 7-yr |
+| Cómo los fabricantes de automóviles chinos pueden cerrar la brecha de ventas después del extranjero | Sina Finance | Global | https://finance.sina.com.cn/esg/2026-04-27/doc-inhvxpih9178870.shtml | 2026-09-03 | SINGLE_SOURCE | Ruta de red multimarca; ejemplo de piezas de Melbourne; ejemplo de garantía de 7-yr |
 | Las partes que van globalmente deben ser sistematizadas | Beijing News | Global | https://m.bjnews.com.cn/detail/1779683581168283.html | 2026-09-03 | CROSS_CHECKED | Debilidad de "Vendes pesadas, servicio ligero"; riesgo de delegación |
 * Nota de la encuesta: la expectativa de política es oficial; los modelos de red y los artículos de almacén/de la garantía de Australia son ejemplos de industria de una sola compañía utilizados ilustrativamente, no presentados como normas universales. Esta guía aborda el funcionamiento de los servicios y se mantiene separada del grupo de adquisiciones de piezas de repuesto. *
 
-| Disposiciones sobre responsabilidad por reparación/restitución/retorno de productos automotores de hogares (SAMR Order No. 43) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_6be7658b4a754005b6c6c25f137076ee.html | 2026-09-05 | VERIFIED | Base de referencia de garantía nacional (san-bao) que las condiciones de venta después de las ventas en el extranjero deben distinguirse de |
+| Disposiciones sobre responsabilidad por reparación/restitución/retorno de productos automotores de vivienda (SAMR Order No. 43) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_6be7658b4a754005b6c6c25f137076ee.html | 2026-09-05 | VERIFIED | Base de referencia de garantía nacional (san-bao) que las condiciones de venta después de las ventas en el extranjero deben distinguirse de |
 | China Council for the Promotion of International Trade (trade-service network) | CCPIT | CN/INT'L | http://www.ccpit.org/ | 2026-09-05 | VERIFIED | Canales institucionales que apoyan la construcción de redes de servicios en el extranjero |
 
 ## Revisión editorial

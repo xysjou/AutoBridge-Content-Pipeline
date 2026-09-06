@@ -2,12 +2,12 @@
 
 ## SAO Siêu dữ liệu
 - **SEAO title**: Xuất bản Compliance & Sanctions Đang hiển thị hình ảnh cho các xuất khẩu xe cộ: Người dùng kết thúc, danh sách được dùng Dual- useed và giới hạn
-- **Meta Mô tả**: Một đường cơ sở cho xe xuất nhập khẩu của Trung Quốc: end-user/end-use controls, dual-use screening, restricted/denied-party lists, the five-year record duty, and why restricted parties must not be served.
-- ** H1 **: Xuất khẩu Compliance và Sanctions Screening cho các công ty xuất khẩu xe cộ Trung Quốc
+- **Meta Mô tả**: Một đường cơ sở cho xe xuất nhập khẩu của Trung Quốc: Điều khiển kết thúc người dùng/ cuối sử dụng, Kiểm tra hai lần, Danh sách hạn chế/đã xác định của Đảng,  the five-year record duty,  and  Tại sao không được phục vụ các bên bị hạn chế.
+- ** H1 **: Xuất khẩu các phép tính và Sanctions che giấu các máy xuất khẩu xe cộ Trung Quốc
 - ** Từ khoá mật khẩu hoa/ xuất khẩu tuân thủ biện pháp duyệt kết thúc người dùng
 - **Secondary Search termss**: kiểm soát xuất khẩu; phê chuẩn duyệt; tuyên bố hết-user; bị từ chối bên; hai lần dùng; bị hạn chế danh sách
 - ** URL đã gợi ý**: /guides/export-pliance-Sctions-Send-user/
-- **Tìm kiếm ý định**: 汽车出口如何做最终用户/最终用途尽调、管控/关注名单与境外制裁名单筛查，规避出口管制与制裁风险
+- **Tìm kiếm Intent**: 汽车出口如何做最终用户 / 最终用途尽调  dám 管控 / 关注名单与境外制裁名单筛查, 规避出口管制与制裁风险
 - **I nội bộ Link gợi ý*: //guides/export-methods-t-lc-t-l-T-T-, //guides/verif-chin-cient-car-plier-hiple-histor/, /guides/export-cities-Send-Covers/, /
 - **Schema Scope**: Điều khoản (không có sản phẩm/ sản phẩm/ xuất/Rover)
 
@@ -18,7 +18,7 @@ Những người xuất khẩu xe cộ phải đối mặt với cả chế đ�
 - **End-user/end-use chứng minh**: lấy tài liệu / / / reend- use nơi có liên quan đến mục hay sử dụng nhạy cảm.
 - ** Cơ sở danh sách ảo ảo**: xác định mục (kể cả công nghệ hai sử dụng) nằm trong danh sách kiểm soát; phương tiện và đặc biệt là một số khung gầm, thiết bị điện tử hoặc hai bộ phận cần một kiểm tra đúng hơn là giả định rằng "ca không bị kiểm soát".
 - **Denied/recated nguyên tắc**: nơi một bên nằm trong danh sách kiểm soát/watch, hoặc sử dụng cuối cùng liên quan đến người dùng quân sự, WMD hoặc khủng bố, giấy phép không được cấp và giao dịch không được thực hiện.
-- **Records**: relevant end-user and screening records are retained for **five years**.
+- **Records**: Người dùng kết thúc thích hợp  and  screening records are retained for **five years**.
 - ** Các biện pháp tính toán**: duy trì một bước kiểm tra nội bộ tại các đầu vào (một chương trình điều hành hàng ngày, lời khai cuối sử dụng, tăng tốc cho các lượt truy cập).
 
 ## Làm thế nào để hiển thị mà không sao chép một danh sách bằng tay
@@ -45,15 +45,18 @@ Nếu có một vụ tấn công thì sao? Escalate và không tiếp tục; m�
 ## Nguồn và Định dạng
 | Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
-| 两用物项出口管制条例（国务院令第792号） | 中华人民共和国商务部 | CN | T1 | VEII | http://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2025/art_e63af2ce2c7e406394a2faf84a9b4738.html | 最终用户用途证明, 保存5年, 管控名单 |
-| 两用物项出口管制内部合规指南 | 中华人民共和国商务部 | CN | T1 | VEII | https://www.mofcom.gov.cn/cms_files/filemanager/1077459795/attach/20239/2021070615181087.pdf | 订单筛查系统, 最终用途声明, 合规体系 |
-| 司法部、商务部负责人就两用物项出口管制条例答记者问 | 中国政府网 | CN | T1 | VEII | https://www.gov.cn/zhengce/202410/content_6981660.htm | 全过程最终用户用途管理, 关注名单 |
-| 两用物项出口管制措施专题（不予许可情形） | 中华人民共和国商务部 | CN | T1 | VEII | https://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_148254ba99284928ae6e4f84d1d6f297.html | 军事用户/管控关注名单不予许可, WMD/恐怖主义/军事用途 |
+| 两用物项出口管制条例 (国务院令第 792 号) | 中华人民共和国商务部 | CN | T1 | VEII | http://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2025/art_e63af2ce2c7e406394a2faf84a9b4738.html | 最终用户用途证明, 保存 5 年. 管控名单 |
+| 两用物项出口管制内部合规指南 | 中华人民共和国商务部 | CN | T1 | VEII | https://www.mofcom.gov.cn/cms_files/filemanager/1077459795/attach/20239/2021070615181087.pdf | 订单筛查系统, 最终用途声明. 合规体系 |
+| 司法部  dám 商务部负责人就两用物项出口管制条例答记者问 | 中国政府网 | CN | T1 | VEII | https://www.gov.cn/zhengce/202410/content_6981660.htm | 全过程最终用户用途管理, 关注名单 |
+| 两用物项出口管制措施专题 (不予许可情形) | 中华人民共和国商务部 | CN | T1 | VEII | https://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_148254ba99284928ae6e4f84d1d6f297.html | 军事用户 / 管控关注名单不予许可, WMD/ 恐怖主义 / 军事用途 |
 | Bộ Thương mại (MOCOM) | MOFCOM 商务部 | CN | T1 | VEII | https://www.mofcom.gov.cn/ | Quyền xuất khẩu và kiểm soát xuất khẩu |
+| Điều luật (EU) 2021/821 - chế độ xuất khẩu song song-use | Liên hiệp Châu Âu (EUR-Lex) | AI | T1/T2 | VEII | https://eur-lex.europa.eu/eli/reg/2021/821/oj | Ví dụ về chế độ kiểm soát kép và chế độ hạn chế/ thường dùng các điều khiển thích hợp để kiểm tra thiết kế |
+| Danh sách các dự án BIS - ví dụ về các bên bị hạn chế | Bộ công nghệ và bảo mật Mỹ (BIS) | US | T1/T2 | VEII | https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern/entity-list | Danh sách giới hạn của bên công cộng minh họa về sự từ chối kiểm tra trước khi chuyển hàng |
+| USAC SDN Danh sách — Kiểm tra sự trừng phạt | Bộ quản lý tài chính Mỹ (OFC) | US | T1/T2 | VEII | https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists | Được thiết kế đặc biệt Danh sách quốc gia như là một nguồn dữ liệu trừng phạt; không phải một danh sách đen toàn cầu. |
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team* [các tác giả] (/các tác giả/)_* [Chính sách hiệu chỉnh] (/chính sách chính sách đối lập/)
-- **Last xem xét**: 2026-09-05
-- **Trible market**: CN出口管制+国际制裁框架
+- **Last xem lại**: 2026-09-05
+- ** chợ hạ giá**: CN 出口管制 + 国际制裁框架
 - Phương pháp xác thực **: Nghiên cứu về các nguồn tin bên dưới; đặc điểm tham khảo thị trường Trung Quốc chỉ trừ khi một thị trường xuất khẩu riêng biệt được viện dẫn rõ ràng.
 - **Sự khác biệt**: việc soạn thảo có hỗ trợ bởi Al-assed đã được sử dụng. Bài này dựa trên nghiên cứu bàn giấy và tự động QA. Không có thử nghiệm tay đầu tiên được xác nhận trừ khi được ghi lại rõ ràng; xác nhận yêu cầu thời gian và đích đến trước khi chuyển đổi.
 
@@ -61,12 +64,15 @@ Nếu có một vụ tấn công thì sao? Escalate và không tiếp tục; m�
 - **ITH_SSEEET_PATH**: không có gì bảo mật trong kho
 - **ORIGINAL_ITH_URL**: chưa được thu hồi
 - **SOURCE_PAGE**: chưa được ghi lại
+- **SOURCE_FLE_PAGE**: không áp dụng — không có tập tin truyền thông ứng cử viên nào được xác định (không có giấy phép để xác nhận)
 - **Rights_HLLLER**: chưa được xác nhận
 - **LICENSE_OR_USAGE_BATHY**: không có sự hiện diện bảo mật — OEM trang web không phải là một giấy phép sử dụng lại thương mại
-- **CÒI ĐÃ_DATE**: 2026-09-05
+- **CÒI ĐÃ ĐÃ ĐÃ *: 2026-09-06
 - **MMMDEL_TOPIC_MASP**: chính xác là xuất bản các bản tính và các bản sao của bản in cho người xuất xe cộ Trung Quốc
+- **ITHE_SCOPE_NOTE**: hình ảnh phải khớp với mẫu chính xác gia đình/tic; không được ngụ ý một năm cắt tỉa, mô hình cụ thể, VIN thực sự kiểm tra người hoặc giao dịch thực tế
 - **ITHE_RightS_STATUS**: FAIL
-- **LT (tiếng 12)**:
+- **BLL_REASON**: Không thể bảo đảm ảnh có khả năng tái sử dụng: Wikimedia Commons/Flickr không thể lấy từ môi trường nghiên cứu, thư viện chứng khoán cần thiết quyền truy cập API/licence (sự hỗ trợ kết nối) và một trang web OEM không phải là một tài trợ thương mại tái sử dụng. Không có ảnh chụp tự độngBridge nào tồn tại. Hồ sơ giữ FAIL thay vì khẳng định.
+- **LT (12 ngôn ngữ)**:
   - **EN**: export compliance screening, Chinese-market procurement guide export buyer reference
   - **FR**: export compliance screening, procurement guide du marché chinois, référence acheteur export
   - **DE**: export compliance screening, Chinesischer procurement guide, Referenz für Exportkäufer

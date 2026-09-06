@@ -1,11 +1,11 @@
 # Limites de idade da importação de carros usados em África: uma matriz de verificação país-a-país
 ## SEO Meta- dados
 - ** Título SEO**: África Limites de idade de importação de carros usados por país: Quênia e Nigéria Verificado
-- ** Descrição do Meta**: Limites de idade de carros usados africanos, lado de direção e portões de inspeção – Quênia (anos 8 desde o primeiro registro) e Nigéria (15 da fabricação) agora ancorados em fontes primárias, outros mercados sinalizados para verificação oficial.
+- ** Descrição do Meta**: Os limites de idade dos automóveis usados africanos, por país, e as portas de controlo — Quénia (8 anos desde o primeiro registo) e Nigéria (15 da indústria transformadora) agora ancorados em fontes primárias, outros mercados marcados para verificação oficial.
 - ** URL sugerido**: /guides/africa-used-car-import-age-limits/
-- ** H1 **: Limites de idade do carro usado em mercados africanos: uma matriz construída para ser verificada, não memorizada
+- ** H1 **: Limites da idade do carro usado em mercados africanos: uma matriz construída para ser verificada, não memorizada
 - **Primary Keyword**: África usado limite de idade de importação de carros por matriz de país
-- ** Termos de pesquisa secundários**: Kenya usado limite de idade do carro 8 anos primeiro registro, Nigéria importação de carro 15 anos fabricação, Etiópia usado proibição de carro, importação de Gana OBD, idade de Moçambique, Sudão limite de idade do carro, Costa do Marfim CoC, KEBS DKS 1515
+- ** Termos de pesquisa secundários**: Kenya usado limite de idade do carro 8 anos primeiro registro, Nigéria importação de carros 15 anos de fabricação, Etiópia usado proibição de carro, Gana importação OBD, Moçambique idade do veículo, Sudão limite de idade do carro, Costa do Marfim CoC, KEBS DKS 1515
 - **As sugestões de ligação interna**: /guias/veículo-pré-navio-inspecção-psi/; /guias/veículo-coc-tipo-aprovação-dossier/; /guias/china-veículo-exportação-licença-documentos-costumes/
 - **Image Suggestions**: tabela matriz país; fabricação-ano vs primeira matrícula-ano; diagrama oficial de rota de verificação
 - ** ALT Sugestões**: "African usou a matriz de verificação de idade limite de carro"; "ano de fabricação versus primeiro ano de registro"
@@ -20,14 +20,14 @@ Antes de qualquer número de questões, estabelecer a base — o contraste Quên
 ## Matriz de País
 | País | Direção | Regra da idade | Base / confiança |
 |---|---|---|---|
-| * Kenya** | RHD (excepções limitadas para veículos com finalidade especial) | ** Mais de 8 anos a partir do ano de primeira matrícula = não permitido para importação (veículos de passageiros)**; o intervalo entre o primeiro ano de registo e o ano de fabrico é limitado a um ano | ** VERIFIADO — primário**: KEBS DKS 1515: 2025 § 4.7.1–4.7.2, corroborado pelo KRA (Legal Notice 78/2005; KS 1515) |
-| **Nigéria** | Confirmar de novo contra a instrução aduaneira em vigor antes de citar (a redação do portal comercial oficial deve ser verificada diretamente; não assumir) | **Used motor vehicles more than 15 years old (from year of manufacture) are banned from import**; Aplica-se uma taxa NAC | ** VERIFIED (idade) — primário**: Nigéria Portal de Comércio de Janelas Únicas; corroborado pela lista de reprodução da lista de importações e proibições aduaneiras da Nigéria. Texto da direcção deixado para confirmação directa |
-| **Etiopia** | — | Relatado ≤ anos 5, com uma mudança relatada para restringir as importações de veículos com combustível fóssil (direcional) | TIME_SENSITIVO/não primário — verificar |
-| **Ghana** | — | Relatado ≤ anos 10; obrigatório **OBD-II** inspecção e emissões Euro- 3-or-above comunicadas a partir de 2023 | TIME_SENSITIVE / não primário — verificar a norma actual |
-| * Mozambique ** | — | Reported ≤8 years from registration to export; a cadeia de registo de manutenção original-factory comunicada | FONTE ÚNICA / não primário — verificar |
-| *Sudan** | — | Indicado em camadas: passageiro ≤ 7 / captador-leve-mercadorias ≤ 8 / ônibus-pesado-caminhão ≤ 10 anos, com taxas ainda a pagar, mesmo quando compatível | FONTE ÚNICA / não primário — verificar |
+| * Kenya** | RHD (excepções limitadas para veículos com finalidade especial) | ** Mais de 8 anos a contar do ano da primeira matrícula = não autorizado para importação (veículos de passageiros)**; o intervalo entre o primeiro ano de registo e o ano de fabrico é limitado a um ano | ** VERIFIED — primário**: KEBS DKS 1515: 2025 § 4.7.1–4.7.2, corroborado pelo KRA (Comunicação Legal 78/2005; KS 1515) |
+| **Nigéria** | Confirmar de novo contra a instrução aduaneira em vigor antes de citar (a redação do portal comercial oficial deve ser verificada diretamente; não assumir) | ** Os veículos a motor utilizados com mais de 15 anos (a partir do ano de fabrico) são proibidos de importar**; aplica-se um direito nivelador NAC | ** VERIFIED (idade) — primário**: Nigéria Portal de Comércio de Janelas Únicas; corroborado pela lista de reprodução da lista de importações e proibições aduaneiras da Nigéria. Texto da direcção deixado para confirmação directa |
+| **Etiopia** | — | Relatado ≤ 5 anos, com uma mudança relatada para restringir as importações de veículos com combustível fóssil (direcional) | TIME_SENSITIVO/não primário — verificar |
+| **Ghana** | — | Reported ≤10 years; **OBD-II** inspecção e emissões Euro- 3-or-above comunicadas a partir de 2023 | TIME_SENSITIVE / não primário — verificar a norma actual |
+| * Mozambique ** | — | Relatado ≤ 8 anos desde o registo até à exportação; | FONTE ÚNICA / não primário — verificar |
+| *Sudan** | — | Indicado em camadas: passageiro ≤ 7 / mercadorias leves de recolha ≤ 8 / camião pesado de autocarro ≤ 10 anos, com taxas ainda a pagar, mesmo quando conformes | FONTE ÚNICA / não primário — verificar |
 | ** Côte d'Ivoire** | — | ** Não foi reportado qualquer limite de idade fixo **, mas obrigatório **CdC** registos de conformidade e manutenção rastreáveis | FONTE ÚNICA / não primário — verificar o programa CdC |
-Os conflitos anteriores do encaminhador 7-vs-8 (Quênia) e 12-vs-15 (Nigeria) são resolvidos em favor dos instrumentos primários de ** destino**, não escolhendo um encaminhador: Quénia = 8 do primeiro registo (KEBS/KRA), Nigéria = 15 do fabrico (Nigéria Janela Única / Alfândega).
+Os conflitos anteriores de 7-vs-8 (Quênia) e 12-vs-15 (Nigeria) são resolvidos a favor dos **instrumentos primários de destino**, não escolhendo um transitário: Quênia = 8 do primeiro registro (KEBS/KRA), Nigéria = 15 do fabrico (Nigeria Single Window / Alfândega).
 ## A Rota de Verificação Confiável (use-a para cada envio)
 1. ** Instrumento primordial:** o destino ** autoridade aduaneira ou padrão do corpo** regra de importação atual ou gazeta — para o Quênia que é material KEBS/KRA, para a Nigéria a única janela / lista de proibição alfandegária — não um blog de carga.
 2. **Resolva a base:** fabricação vs primeiro registro, o intervalo de fabricação-para-registo, data de referência e classe de veículo.
@@ -36,12 +36,12 @@ Os conflitos anteriores do encaminhador 7-vs-8 (Quênia) e 12-vs-15 (Nigeria) s�
 5. **Reverificar no momento da encomenda e novamente antes da expedição:** regras de idade são sensíveis ao tempo; uma regra válida na citação pode mudar antes de navegar.
 ## O que este guia recomenda antes de pagar
 - Tratar as figuras do Quênia e Nigéria como ****************************************************************************************************************************************************************************************************************************************************** 
-- Não reutilize os números do antigo transitário 7-year (Qenya) ou 12-year (Nigeria) — eles são substituídos pelos instrumentos primários citados aqui.
+- Do not reuse the old forwarder 7-year (Kenya) or 12-year (Nigeria) figures — they are superseded by the primary instruments cited here.
 - Confirmar ** lado de pavimentação, programa de inspeção e cadeia de documentos** ao lado da idade; onde a redação de um portal oficial é ambígua (direção Nigeria), obter a resposta alfandegária escrita.
 - Capturar a data de fabricação e a data de registro** dos documentos de registro/VIN durante o PSI, então a idade é calculada na base correta.
 ## Perguntas Mais Frequentes
-** Qual é o limite de idade do carro usado no Quênia?** Material de normas primárias (KEBS DKS 1515: 2025 § 4.7.1, corroborado pelo KRA) fixa os veículos de passageiros em no máximo oito anos a partir do ano da primeira matrícula**, com um limite de um ano sobre o intervalo de fabricação para o primeiro registro; as excepções especiais são limitadas.
-** Qual é o limite de idade do carro usado na Nigéria?** O Portal de Comércio de Janela Única da Nigéria afirma que veículos **sobre 15 anos de idade são proibidos de importação**, medido a partir do ano de fabricação, com uma taxa NAC; the Customs prohibition-list reproduction is consistent on the 15-year figure.
+** Qual é o limite de idade do carro usado no Quênia?** Material de normas primárias (KEBS DKS 1515: 2025 § 4.7.1, corroborado pelo KRA) fixa os veículos de passageiros em, no máximo, oito anos a contar do ano da primeira matrícula**, com um limite de um ano sobre o intervalo de fabrico-para-primeiro registo; as excepções especiais são limitadas.
+** Qual é o limite de idade do carro usado na Nigéria?** O portal de comércio único da Nigéria declara que os veículos **com mais de 15 anos são proibidos de importar**, medidos a partir do ano de fabricação, com uma taxa NAC; the Customs prohibition-list reproduction is consistent on the 15-year figure.
 ** Por que o Quênia e a Nigéria usam diferentes pontos de partida?** O Quênia mede a partir de **primeiro registro**, Nigéria de **fabricação** — sempre calcular a idade na base do destino.
 ** Uma regra cobre toda a África?** Não — cada país define a sua própria base etária, regra de direção e portão de inspeção; fora do Quênia e Nigéria as linhas aqui são relatadas, valores não primários para verificar oficialmente.
 ** O que importa além da idade?** Direção, base de registro de fabricação-vs, classe de veículo e programas de inspeção/CoC mandatados.
@@ -49,11 +49,14 @@ Os conflitos anteriores do encaminhador 7-vs-8 (Quênia) e 12-vs-15 (Nigeria) s�
 - IMAGEM_ASSET_PATH: nenhum protegido no repositório
 - ORIGINAL_ IMAGE_ URL: não capturado
 - ORIGINAL_PAGE: não capturado
+- ORIGINAL_FILE_PAGE: não aplicável — nenhum ficheiro de mídia candidato identificado (sem licença para afirmar)
 - DIREITOS_OLDER: não confirmado
 - LICENSE_OR_USAGE_BASIS: nenhuma imagem segura — nenhuma imagem de terceiros pode ser publicada até que os direitos sejam compensados
-- Data_ Marcada: 2026-09-05
+- Data_ Marcada: 2026-09-06
 - MODEL_TOPIC_ MATCH: deve corresponder ao modelo/versão exato (ou ao tópico guia) e ao mercado de referência acima
+- IMAGEM_SCOPE_NOTE: corresponde à família/tópico do modelo exato; não deve implicar uma aparação/modelo-ano específico, VIN real, inspeção em pessoa ou transação real
 - IMAGEM_RIGHTS_STATUS: FALHA (não é aceita nenhuma propriedade licenciada capturada; uma nota de placeholder ou “reter imagem antiga”)
+- BLOCK_REASON: Nenhuma imagem reutilizável pode ser segura: Wikimedia Commons/Flickr são inalcançáveis do ambiente de pesquisa, bibliotecas de estoque requerem acesso autenticado API/licença, e uma imagem de página web OEM NÃO é uma concessão de reutilização comercial; nenhuma foto de propriedade da AutoBridge existe. Mantive-me em vez de afirmar.
 - ALT por língua:
   - **EN**: AutoBridge export-buyer reference — African used-car import age limits, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — African used-car import age limits, guide d’achat à l’export automobile
@@ -71,15 +74,15 @@ Os conflitos anteriores do encaminhador 7-vs-8 (Quênia) e 12-vs-15 (Nigeria) s�
 ## Fontes e Verificação
 | Título do código fonte | Organização | Mercado | URL | Verificado | Confiança | Factos corroborados |
 |---|---|---|---|---|---|---|
-| Procedimentos para a importação de veículos a motor (aviso legal 78/2005; rota de importação-conformidade KS 1515) | Autoridade de Receitas do Quénia (KRA) | KE | https://www.kra.go.ke/individual/importing/learn-about-importation/procedures-for-motor-vehicle | 2026-09-05 | VERIFICADO | Quénia base jurídica de conformidade com as importações (LN 78/2005, KS1515) e processo de importação |
+| Procedimentos para a importação de veículos a motor (aviso legal 78/2005; rota de conformidade de importação KS 1515) | Autoridade de Receitas do Quénia (KRA) | KE | https://www.kra.go.ke/individual/importing/learn-about-importation/procedures-for-motor-vehicle | 2026-09-05 | VERIFICADO | Base jurídica de conformidade com as importações do Quénia (LN 78/2005, KS1515) e processo de importação |
 | O que você precisa saber ao importar um veículo a motor (orientação; base de idade & padrões) | KRA | KE | https://www.kra.go.ke/news-center/blog/1075-what-you-need-to-know-when-importing-a-motor-vehicle | 2026-09-05 | CROSS_CHECKED | Orientação em linguagem simples sobre a base etária e os padrões do Quénia |
-| DKS 1515: 2025 Veículos rodoviários — Inspecção dos veículos rodoviários — Código de conduta | Gabinete de Normas do Quénia (KEBS) | KE | https://kebs.azurewebsites.net/wp-content/uploads/2025/05/DKS-1515_2025-Road-vehicles-%E2%80%94-Inspection-of-road-vehicles-%E2%80%94-Code-of-practice_.pdf | 2026-09-05 | VERIFICADO | § Veículos de passageiros 4.7.1 > 8 anos desde o primeiro registo barrado; intervalo de fabricação-a-reg ≤ 1 ano; § 4.7.2 especiais-veículo exceções |
+| DKS 1515: 2025 Veículos rodoviários — Inspecção dos veículos rodoviários — Código de conduta | Gabinete de Normas do Quénia (KEBS) | KE | https://kebs.azurewebsites.net/wp-content/uploads/2025/05/DKS-1515_2025-Road-vehicles-%E2%80%94-Inspection-of-road-vehicles-%E2%80%94-Code-of-practice_.pdf | 2026-09-05 | VERIFICADO | § 4.7.1 veículos de passageiros > 8 anos a partir do primeiro registo proibido; Gap de fabrico a reg ≤ 1 anos; § 4.7.2 excepções ao veículo especial |
 | Aviso aos importadores de veículos a motor usados/segunda mão | KEBS | KE | https://www.kebs.org/wp-content/uploads/2023/12/NOTICE-TO-IMPORTERS-OF-USED-SECONDHAND-MOTOR-VEHICLES.pdf | 2026-09-05 | CROSS_CHECKED | KEBS aviso de importação e rota de inspeção do veículo usado |
-| Procedimento de importação de automóveis (HS 8702–8705; veículos com mais de anos 15 proibidos; taxa NAC; formulação de direcção para confirmar) | Nigéria Portal de Comércio de Janela Única | NG | https://tip.nsw.gov.ng/procedures/automobiles | 2026-09-05 | VERIFICADO | Nigéria Proibição do 15-year-from-manufacture; Imposição NAC; Âmbito SH |
-| Proibição de importação aduaneira Reprodução da lista — veículos a motor usados com idade superior a 15 | Lex Artifex LLP (reprodução da lista aduaneira da Nigéria) | NG | https://www.lexartifexllp.com/uz/list-of-contraband-goods-in-nigeria/ | 2026-09-05 | CROSS_CHECKED | Corrobora a proibição de fabrico baseada na 15-year (reprodução secundária) |
+| Procedimento de importação de automóveis (HS 8702–8705); veículos com mais de 15 anos proibidos; taxa NAC; formulação de direção para confirmar) | Nigéria Portal de Comércio de Janela Única | NG | https://tip.nsw.gov.ng/procedures/automobiles | 2026-09-05 | VERIFICADO | Nigéria, proibição de 15-year-from-manufacture; taxa NAC; âmbito SH |
+| Customs Import Prohibition List reproduction — used motor vehicles above 15 years from manufacture | Lex Artifex LLP (reprodução da lista aduaneira da Nigéria) | NG | https://www.lexartifexllp.com/uz/list-of-contraband-goods-in-nigeria/ | 2026-09-05 | CROSS_CHECKED | Corrobora a proibição de fabrico de 15-year (reprodução secundária) |
 | Valores comunicados em função da idade/detecção de vários países (Etiopia/Sudan/Mozambique, etc.) | Material para transporte de mercadorias | África | https://m.11467.com/product/d39248249.htm | 2026-09-03 | FONTE ÚNICA | Valores não primários comunicados para os países que deixaram de ser marcados |
-| Gana/Tanzania/Mozambique | Material para transporte de mercadorias | África | https://m.11467.com/product/d53540859.htm | 2026-09-03 | FONTE ÚNICA | Ghana OBD-II/Euro-3 and Mozambique reported values (non-primary) |
-| Limites e taxas de idade em camadas sudanesas | Contribuição para o AutoHome | Sudão | https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/26095860 | 2026-09-03 | FONTE ÚNICA | Sudão informou que 7/8/10 era uma regra de nível (não primária) |
+| Gana/Tanzania/Mozambique | Material para transporte de mercadorias | África | https://m.11467.com/product/d53540859.htm | 2026-09-03 | FONTE ÚNICA | Gana OBD-II/Euro- 3 e Moçambique comunicaram valores (não primários) |
+| Limites e taxas de idade em camadas sudanesas | Contribuição para o AutoHome | Sudão | https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/26095860 | 2026-09-03 | FONTE ÚNICA | Sudão informou 7/8/10 regras de nível (não primário) |
 | Importação da Costa do Marfim (sem tampa dura / CoC obrigatório) | Material para transporte de mercadorias | Costa do Marfim | https://m.11467.com/product/d55528521.htm | 2026-09-03 | FONTE ÚNICA | Sem tampa fixa; CdC + registos (não primários) |
 * Níveis de evidência: Kenya (KEBS+KRA) e Nigéria regra de idade (Modelo Único + Reprodução Aduaneira) são primários-ancorados. A designação da direcção da Nigéria e todas as linhas de outros países permanecem não primárias e devem ser oficialmente verificadas para a classe de veículos exacta antes da expedição; não é feita uma generalização regional. *
 ## Revisão Editorial

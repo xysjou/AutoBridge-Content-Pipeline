@@ -4,10 +4,10 @@
 - ** Judul SEO **: Export kendaraan PDI & Pre- Shillets Panduan Handover-Nama Aturan Carrier
 - ** Meta Description **: Pisahkan kebijakan pembawa RoRo (Wallenius Wilhelmsen, Höegh Autoliners) - bahan bakar, baterai, SOC dan operasional - dari AutoBridge direkomendasikan sebelum pengiriman daftar pemeriksaan; tidak ada nilai tetap universal.
 - ** Sugested URL **: / guide / kendaraan-export -p- pre- pengiriman -handover
-- ** H1 **: Menyiapkan kendaraan untuk RoRo atau Pembayaran Ekspor Kontainer: Apa yang diperlukan Pengusaha Nama dan Apa Kami Sarankan
+- ♪ ♪ H1 **: Menyiapkan kendaraan untuk RoRo atau Cita Ekspor Wadah: Apa Nama Pengantar Mobil Perlu dan Apa Kami Sarankan
 - ** Primary Keyword **: export kendaraan sebelum pengiriman inspeksi PDI handover RoRo
-- ** Akhir Pencarian Second **: Wallenius Wilhelmsen tangki bahan bakar, Hoegh BEV SOC 50 persen, Kendaraan RoRo dapat dioperasi, memutus 12V baterai menggunakan mobil, sebelum pengiriman rekaman foto
-- ** Internal Link Sugestions **: / guide / kendaraan-ekspor -of -lading-types /; / guide / ev- shipppy- un3556-imdg-compliance/; / guide / emises / fuel- compatilicibily- china- kendaraan /
+- Wallenius Wilhelmsen tangki bahan bakar, Hoegh BEV SOC 50 persen, RoRo kendaraan yang dapat dioperasi, memutus 12V baterai digunakan mobil, pra-pengiriman rekaman foto
+- ** Internal Link Sugestions **: / guide / kendaraan-ekspor -of -lading- tipe-tipe /; / guide / ev- shippping-un3556-imdg-compliance/; / guide / emises -fuel--compatibilize -chinocates / kendaraan /
 - *** Saran Gambar **: Lembar daftar PDI; RoRo diri-drive ramp; name- operator vs editorial - rekomendasi diagram split
 - ** AlT Sugestions **: "Nama RoRo pembawa kebutuhan dibandingkan pre- pengiriman checklist"
 
@@ -20,8 +20,8 @@ Gangguan pada tujuan hampir selalu melacak kembali ke satu pertanyaan: apa kondi
 | Topik | Wallenius Wilhelmsen | Höegh Autoliners | Alam |
 |---|---|---|---|
 | ** Bahan Bakar / tingkat gas ** | Tanki tentang ** satu seperempat penuh ** (cukup untuk diri - drive on / off) | Tank tentang ** satu - seperempat penuh ** | Kebijakan kemudi; silang - diperiksa untuk kedua garis bernama saja - bukan aturan universal |
-| ** Menggunakan baterai ICE ** | Untuk unit yang digunakan ** tanpa baterai mematikan **, putuskan 12/24V setelah lashing (pengecualian per instruksi WW) | - | WW-specific; single- source carrier rule |
-| SOC tegangan tinggi | - | **SOC no more than 50%**, while retaining enough charge for loading/unloading/storage; HEV: Bahan bakar tambah bimbingan SOC | Höegh-specific; ** not ** a global SOC ceiling |
+| ** Menggunakan baterai ICE ** | Untuk unit yang digunakan ** tanpa sebuah akinya kill- switch **, putuskan 12/24V setelah lashing (pengecualian per instruksi WW) | - | WW-specific; single- source carrier rule |
+| SOC tegangan tinggi | - | ** SOC tidak lebih dari 50% **, sementara menahan muatan yang cukup untuk memuat / membongkar / penyimpanan; HEV: bahan bakar ditambah bimbingan SOC | Höegh-specific; ** not ** a global SOC ceiling |
 | *** Kemampuan Operasi * ♪ | RoRo unit harus sendiri-drive aman on / off (bergerak / rem / mengarahkan); rusak atau satuan bocor mungkin ditolak | Sama seperti kebutuhan mengemudi | Pembalap menerima aturan untuk dua garis bernama |
 
 Syarat ini dikutip untuk pembawa bernama tepat karena mereka ** bervariasi oleh baris dan dengan perjalanan **: pembawa RoRo / kontainer Cina atau baris lain dapat mengatur tingkat yang berbeda. Jangan pernah menyatakan "operator membutuhkan X" tanpa penamaan pembawa dan memeriksa panduan tertulis saat ini.
@@ -52,7 +52,7 @@ Titik lashing terhitung, tali melanggar kekuatan, anti slip tikar, pos kendaraan
 
 ## Pertanyaan Yang Sering Muncul
 ** Apakah tangki kuartal persyaratan hukum? ** Tidak - itu adalah kebijakan tertulis dari pembawa bernama RoRo seperti Wallenius Wilhelmsen dan Höegh; mengikuti instruksi kapal induk dipesan.
-**Must every EV ship at 50% SOC?** That figure is a Höegh Autoliners policy, not a universal cap; Konfirmasikan kapal induk dipesan 's SOC persyaratan pelayaran dengan perjalanan.
+** Harus setiap EV kapal di 50% SOC? ** Angka itu adalah kebijakan Höegh Autoliners, bukan topi universal; pastikan kapal induk dipesan untuk pelayaran SOC dengan pelayaran.
 ** Apakah foto / catatan wajib? ** Ini adalah metode yang direkomendasikan AutoBridge, bukan persyaratan undang-undang - tetapi terwujud memperkuat klaim kerusakan tujuan.
 Who decided lashing points and strap ratingnya? Kantor / terminal dan manual transportasi OEM; jangan asumsikan nilai tetap tanpa dokumen mereka.
 
@@ -60,11 +60,14 @@ Who decided lashing points and strap ratingnya? Kantor / terminal dan manual tra
 - IMAGE _ ASSET _ PATH: tak ada yang aman di repositori
 - _ URL ORIGINAL _ IMAGE: tidak ditangkap
 - SUMBER _ PAGE: tidak ditangkap
+- SOURCE _ FILE _ PAGE: tidak dapat diterapkan - tidak ada berkas media kandidat diidentifikasi (tidak ada lisensi untuk menegaskan)
 - RIGHTS _ HOLDER: belum dikonfirmasi
 - LICENSE _ OR _ USAGE _ BASIS: tidak ada yang aman - tidak ada gambar pihak ketiga dapat diterbitkan sampai hak-hak dibersihkan
-- CHECTED _ DATE: 2026-09-05
+- CHECTED _ DATE: 2026-09-06
 - MODEL _ TOPIC _ MATCH: harus cocok dengan model / versi yang tepat (atau topik panduan) dan referensi pasar di atas
+- IMAGE _ SCOPE _ CATATAN: cocokkan model yang tepat dari keluarga / topik saja; jangan mengimplikasikan sebuah trim / model khusus / tahun, VIN, in- orang inspeksi atau transaksi aktual
 - IMAGE _ RIGHTS _ STATUS: FAIL (tidak ada aset berlisensi yang ditangkap; pemegang tempat atau catatan "mempertahankan gambar lama" tidak diterima)
+- BLOK _ REASON: Tidak ada gambar yang dapat digunakan kembali yang dapat diamankan: Wikimedia Commons / Flickr tidak dapat dihubungi oleh lingkungan penelitian, perpustakaan saham memerlukan akses API / license yang telah dikonfirmasi, dan gambar laman OEM bukanlah hibah reuse komersil; tidak ada foto AutoBridgeg yang dimiliki. Disimpan FAIL daripada menegaskan.
 - ALT dengan bahasa:
   - **EN**: AutoBridge export-buyer reference — Pre-shipment PDI and handover for RoRo/container, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Pre-shipment PDI and handover for RoRo/container, guide d’achat à l’export automobile
@@ -83,10 +86,10 @@ Who decided lashing points and strap ratingnya? Kantor / terminal dan manual tra
 | Judul sumber | Organisasi | Pasar | URL | Diperiksa | Percaya diri | Fakta yang didukung |
 |---|---|---|---|---|---|---|
 | Penanganan Kargo WW Instruksi (bahan bakar tertawa) | Wallenius Wilhelmsen (pembawa RoRo) | INTL | https://cargohandlinginstruction.walleniuswilhelmsen.com/pdf-files/WW-CHI-250731-1.31.pdf | 2026-09-04 | CROSS _ CHECTD (carrier utama) | Tingkat bahan bakar, kemampuan operasi |
-| WW Menerima unit yang digunakan (memutus 12/24V tanpa mematikan) | Wallenius Wilhelmsen | INTL | https://cargohandlinginstruction.walleniuswilhelmsen.com/terminal/receiving-of-used-units-draft | 2026-09-04 | SINGLE _ SOURCE (pembawa utama) | Baterai Used- ICE terputus |
-| Pengiriman otomatis Höegh (bahan bakar beV SOC; operability) | Höegh Autoliners | INTL | https://www.hoeghautoliners.com/what-we-ship/automotive | 2026-09-04 | SINGLE _ SOURCE (pembawa utama) | BEV ≤50% SOC, fuel, operability |
+| WW Menerima unit yang digunakan (memutus 12/24V tanpa mematikan-switch) | Wallenius Wilhelmsen | INTL | https://cargohandlinginstruction.walleniuswilhelmsen.com/terminal/receiving-of-used-units-draft | 2026-09-04 | SINGLE _ SOURCE (pembawa utama) | Baterai Used- ICE terputus |
+| Pengiriman otomatis Höegh (bahan bakar beV SOC; operability) | Höegh Autoliners | INTL | https://www.hoeghautoliners.com/what-we-ship/automotive | 2026-09-04 | SINGLE _ SOURCE (pembawa utama) | BEV 50% SOC, bahan bakar, operasi |
 | Höegh Trucks / Bus pengiriman | Höegh Autoliners | INTL | https://www.hoeghautoliners.com/what-we-ship/trucks-buses-and-trailers-shipping | 2026-09-04 | SINGLE _ SOURCE (pembawa utama) | Unit yang menerima. |
-| Pemeriksaan pengiriman dan praktek pengiriman | Halaman industri 11467 | CN | https://m.11467.com/product/d55278360.htm | 2026-09-04 | SINGLE _ SOURCE (dasar editorial) | Daftar cek / foto / handover yang direkomendasikan |
+| Pemeriksaan pengiriman dan praktek pengiriman | 11467 halaman industri | CN | https://m.11467.com/product/d55278360.htm | 2026-09-04 | SINGLE _ SOURCE (dasar editorial) | Daftar cek / foto / handover yang direkomendasikan |
 * Ruang penyimpanan barang bukti: kebijakan pembawa nama yang diverifikasi kepada panduan primer WW / Höegh (kebijakan utama pembawa, bukan kebijakan umum, bukan universal); daftar cek adalah rekomendasi editorial; tetap membatalkan / menekan / menekan / orientasi nilai memblokir dokumen OEM / carrier. ♪
 
 | IMA / ILO / UNECE CTU Kode - penanganan dan mengamankan unit transportasi kargo | International Maritim Organization (IMA) | INT 'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | TERBATAI | Penanganan umum / mengamankan baseline; aturan pembawa tetap stricter dan route- spesifik |
@@ -94,7 +97,7 @@ Who decided lashing points and strap ratingnya? Kantor / terminal dan manual tra
 
 ## Editorial Review
 - ** Penulis **: Tim Editorial Expor AutoBridge
-- 2026-09-05
+- ** Terakhir ditinjau **: 2026-09-05
 - ** Referensi pasar **: International RoRo / container ekspor (named- carrier policy) + editorial checklist
 - ** Metode verifikasi **: Penata primer named- pembawa dipisahkan dari rekomendasi editorial; tidak ada nilai tetap universal
 - ** Transparansi **: penggambaran bantuan digunakan. Artikel ini didasarkan pada penelitian meja dan otomatis QA. Tidak ada pengujian pertama-tangan diklaim kecuali secara eksplisit didokumentasikan; konfirmasi waktu - sensitif dan destination- persyaratan spesifik sebelum mengubah.

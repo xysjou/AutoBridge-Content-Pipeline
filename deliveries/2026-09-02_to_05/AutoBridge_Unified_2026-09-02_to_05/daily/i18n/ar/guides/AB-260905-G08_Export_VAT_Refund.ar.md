@@ -1,67 +1,75 @@
-# China Export VAT Refund — Methods, Filing Order and Rate Lookup
+# رد ضريبة القيمة المضافة في الصين - الطرائق، وأمر الفرز، وبحث المقار
 
 ## SEO Metadata
-- **SEO Title**: China Export VAT Refund for Vehicles: Exemption-Credit-Refund vs Exemption-Refund Process
-- **Meta Description**: How Chinese vehicle exporters claim export VAT treatment: the two methods (exemption-credit-refund for production enterprises, exemption-refund for traders), filing order, and why the refund rate is HS-specific.
-- ** H1 **: China Export VAT Refund - Methods, Filing Order and Rate lookingup
-- **Primary Keyword**: china export vat refund process
-- **Secondary Search Terms**: export VAT refund; exemption credit refund; export tax rebate; refund rate; China tax
-- **Suggested URL**: /guides/china-export-vat-refund-process/
-- **Search Intent**: 生产企业与外贸企业如何办理出口货物增值税退（免）税、申报流程、计算逻辑与退税率查询
+- ** عنوان المنظمة**: شركة الصين المحدودة للصادرات رد المركبات: الإعفاء من الإعفاء - الصندوق الاستئماني مقابل الإعفاء من الخدمة - عملية استرداد التكاليف
+- ** وصف البيانات**: How Chinese vehicle exporters claim export VAT treatment: the two methods (exemption-credit-refund for production enterprises, exemption-refund for traders), filing order, and why the refund rate is HS-specific.
+- ** H1 **** رد ضريبة القيمة المضافة في الصين - الطرائق، وأمر الفرز، وبحث المقار
+- ** كلمة رئيسية رمزية**: عملية استرداد عبوات التصدير الصينية
+- ** شروط البحث الثانية**: رد ضريبة القيمة المضافة على الصادرات؛ رد الإعفاء؛ رد ضريبة التصدير؛ رد الضرائب؛ رد الضرائب على الصادرات؛ سعر السداد؛ ضريبة الصين
+- ** المبلغ الإجمالي المقتطع**: /الإرشادات/الآلية - الصادرات - عمليات استرداد الأموال/
+- ** الحلقة الدراسية**: 生产企业与外贸企业如何办理出口货物增值税退（免）税、申报流程、计算逻辑与退税率查询
 - ** Internal Link Suggestions**: /guides/china-export-customs-declaration-single-window/, /guides/export-fx-settlement-trade-fx-registration/, /guides/vehicle-export-hs-code-history/
-- **Schema Scope**: Article (no Product/Offer/Review)
+- ** نطاق الشيمة**: المادة (لا منتج/منتج/مراجعة)
 
-## Two methods, matched to enterprise type
-China's export VAT arrangements use two principal methods. A **production/manufacturing enterprise** applies **exemption–credit–refund (免抵退)**: export output VAT is exempt, input VAT is credited against domestic output VAT and the residual is refunded. A **foreign-trade/commercial enterprise** that buys and resells for export generally applies **exemption–refund (免退)**: the export sale is exempt and the corresponding input VAT is refunded. Using the wrong method for the entity type is a basic filing error.
+## طريقتان مطابقتان لنوع المؤسسة
+ترتيبات التصدير في الصين تستخدم طريقتين رئيسيتين ** ينطبق الإنتاج/الصناعة** على الإعفاء من الاعتماد/الاسترداد (免抵退)**: إعفاء من إنتاج الصادرات، وتقييد ضريبة القيمة المضافة على المدخلات مقابل ضريبة القيمة المضافة على الناتج المحلي، وتسترد المبالغ المتبقية. A **foreign-trade/commercial enterprise** that buys and resells for export generally applies **exemption-refund (免退)**: the export sale is exempt and the corresponding input VAT is refunded. استخدام الطريقة الخاطئة للنوع الكيان هو خطأ أساسي في تقديم الملفات.
 
-## The calculation and filing order
-The period refund/credit is computed from export sales, creditable input tax and the applicable refund rate. Filing follows the export event: after customs declaration and with the matching invoice, FX receipt and declaration data, the enterprise files the refund/exemption return within the prescribed period, then completes verification/write-off. Documents must reconcile across customs, tax and FX.
+## أمر الحساب والإثبات
+وتحسب الفترة التي يسترد فيها الصندوق/الاعتماد من مبيعات الصادرات، وضريبة المدخلات القابلة للقيد، ومعدل السداد الواجب التطبيق. ويأتي الفرز في أعقاب حدث التصدير: بعد إعلان الجمارك وبيانات فواتير المطابقة، وتلقي الـ (فاكس) والإعلان، تقوم المؤسسة بإخضاع عملية إعادة التمويل/الإعفاء خلال الفترة المحددة، ثم تستكمل عملية التحقق/ال الشطب. ويجب أن تتوافق الوثائق بين الجمارك والضريبة والضرائب والتكسد.
 
-## The refund rate is per HS code — and is not guessed
-The export VAT refund rate is set by **HS code/product** and changes over time. This guide deliberately states **no numeric rate**: look up the current rate for the exact 10-digit HS code on the day, because quoting a stale rate distorts the landed-cost model. Time-sensitive filing deadlines likewise come from the current STA notice.
+## معدل المبالغ المستردة هو حسب مدونة الخدمة المدنية - ولا يُخمَّن
+ويحدد معدل استرداد ضريبة القيمة المضافة للتصدير برمز/منتج** من نظام المعلومات الإدارية المتكامل، كما تحدد التغييرات بمرور الوقت. ويورد هذا الدليل عن عمد ** لا يوجد معدل رقمي**: انظر المعدل الحالي لرمز HS الذي يبلغ بالضبط 10-digit في اليوم، لأن اقتباس معدل ثابت يشوّه نموذج التكلفة البرية. وبالمثل، تأتي المواعيد النهائية لتقديم الطلبات التي تراعي الوقت من الإشعار الحالي المتعلق باسترداد الموجودات.
 
-## Operating checklist
-1. Identify entity type and the correct method (免抵退 vs 免退).
-2. Classify the exact HS code and look up the **current** refund rate.
-3. Gather declaration, special VAT invoice and FX-receipt evidence so they reconcile.
-4. File within the prescribed period; complete verification/write-off.
-5. Keep the calculation trail for tax inspection.
+## سبب توقف المطالبات المتعلقة باسترداد الأموال: فخاخ الاتساق
+ونادرا ما يكون التأخير في رد الأموال في تصدير المركبات هو المعدل؛ فهي تبلغ حوالي ثلاثة سجلات تُروي قصصا مختلفة. أولا، يجب أن يطابق الرمز المسموع والكمية ورمز HS في فاتورة ضريبة القيمة المضافة الخاصة الإعلان الجمركي وفاتورة الشحن** - أي شاحنة توصف على فاتورة لقب تجاري ولكنها معلنة بموجب مدونة سلعية مختلفة، تكسر السلطات الضريبية المقارنة ضد البيانات الجمركية. ثانياً ** يجب أن يكون تدفق الأموال مطابقاً لتدفق السلع**: ينبغي أن يتوافق إيصال الصادرات من الفاكس مع القيمة المعلنة والطرف المقابل، وهذا هو السبب في أن شروط السداد وسجل تسوية الازدحام لا يمكن أن يعاملا على أنه عمل ورقي غير ذي صلة. ثالثا، يجب أن يكون التأشيرات متسقة داخليا** - ينبغي أن تشكل مسألة الفواتير والإعلان والمغادرة والاستلام تسلسلا معقولا؛ وتواريخ الخروج عن الطلب تؤدي إلى إجراء استعراض يدوي حتى عندما توجد كل ورقة. وبالنسبة لمشترٍ خارجي، فإن هذه المسألة لأن مصدِّر صيني يُحجب رده على أساس الاتساق قد يبطئ من الطلب أو يُعاد ترتيب سعر استرداد ضريبة المدخلات ذات الصلة. ولذلك فإن تحديد نوع الكيان، وتصنيفه بدقة على أساس المقياس المنسق، والتوفيق بين سجلات الفواتير والرسوم والسجلات من الفئة واو - إكس، مسألة مشروعة تتعلق ببذل العناية قبل السداد.
 
-## Boundaries
-No rates, deadlines-as-fixed-numbers or case-specific amounts are provided here; all are HS- and time-specific and sourced from STA/MOF current notices.
+## قائمة مرجعية عن العمليات
+1. تحديد نوع الكيان والطريقة الصحيحة (免抵退 مقابل 免退)
+2. صفي رمز الـ "إتش إس" بالضبط وأنظري إلى معدل الاسترداد
+3. جمع إعلانات، فاتورة خاصة لأفضل التقنيات المتاحة، ودليل على الاستلام من قبل شركة (إكس) حتى يتوافقا مع الأمر.
+4. (ج) أن تُنفَّذ في غضون الفترة المحددة؛ وأن تُحقَّق/تُشطَف بالكامل.
+5. حافظ على أثر الحساب للتفتيش الضريبي
+
+## الحدود
+ولا تقدم هنا معدلات أو مواعيد محددة أو مبالغ محددة حسب الحالة؛ وجميعها مخصوصة بمقياس للأسعار والوقت ومصدرة من الإشعارات الحالية الصادرة عن الوكالة الدولية للطاقة الذرية/صندوق النقد الدولي.
 
 ## FAQ
 **Which method does a factory use?** Generally exemption–credit–refund (免抵退).
 **Which does a trading company use?** Generally exemption–refund (免退).
-**What is the refund rate for cars?** It is HS-specific and changes — look it up by exact code; it is not stated here.
-**When do I file?** After export declaration with matching documents, within the current prescribed period.
-**Why must FX and customs match?** The refund relies on goods-flow/funds-flow consistency.
+** ما هو معدل استرداد السيارات؟** وهي خاصة بجهاز الأمن البشري، كما أنها تغيرات - انظر إليها برمز دقيق؛ ولا يرد ذكرها هنا.
+** متى سأرفع ملفي** وبعد إعلان التصدير الذي يتضمن وثائق مطابقة، في غضون الفترة الحالية المحددة.
+** لماذا يجب أن يكون تطابق الـ (إف إكس) و (ج) الجمارك**؟ ويعتمد رد الأموال على اتساق تدفق السلع/تدفق الأموال.
 
 
-## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
+## المصدر: التحقق
+| المصدر | المنظمة | السوق | النمور | الثقة | URL | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
-| 出口业务增值税和消费税退(免)税管理办法（税务总局公告） | 中国政府网 | CN | T1 | VERIFIED | https://www.gov.cn/zhengce/zhengceku/202602/content_7056762.htm | 申报期限, 免抵退申报资料 |
-| 关于出口业务增值税和消费税政策的公告 | 中华人民共和国财政部 | CN | T1 | VERIFIED | https://www.mof.gov.cn/jrttts/202602/t20260203_3983176.htm | 免抵退/免退税办法定义 |
-| 出口货物劳务免抵退税和免退税如何计算 | 国家税务总局 | CN | T1 | VERIFIED | https://www.chinatax.gov.cn/chinatax/c102449/c5237525/content.html | 当期应退/免抵税额计算 |
-| 进出口税收热点问题（2026年7月） | 国家税务总局北京市税务局 | CN | T1 | VERIFIED | http://beijing.chinatax.gov.cn/bjswj/c105390/202608/ec1a021ae3af4c368e72684ca1bbe4df.shtml | 报关后申报与核销 |
-| State Taxation Administration (STA) | STA 国家税务总局 | CN | T1 | VERIFIED | https://www.chinatax.gov.cn/ | export VAT refund/exemption authority |
-## Editorial Review
+| 出口业务增值税和消费税退(免)税管理办法（税务总局公告） | 中国政府网 | CN | T1 | مفقود | https://www.gov.cn/zhengce/zhengceku/202602/content_7056762.htm | 申报期限, 免抵退申报资料 |
+| 关于出口业务增值税和消费税政策的公告 | 中华人民共和国财政部 | CN | T1 | مفقود | https://www.mof.gov.cn/jrttts/202602/t20260203_3983176.htm | 免抵退/免退税办法定义 |
+| 出口货物劳务免抵退税和免退税如何计算 | 国家税务总局 | CN | T1 | مفقود | https://www.chinatax.gov.cn/chinatax/c102449/c5237525/content.html | 当期应退/免抵税额计算 |
+| 进出口税收热点问题（2026年7月） | 国家税务总局北京市税务局 | CN | T1 | مفقود | http://beijing.chinatax.gov.cn/bjswj/c105390/202608/ec1a021ae3af4c368e72684ca1bbe4df.shtml | 报关后申报与核销 |
+| إدارة الضرائب الحكومية | STA 国家税务总局 | CN | T1 | مفقود | https://www.chinatax.gov.cn/ | رد ضريبة القيمة المضافة/سلطة الإعفاء من التصدير |
+| GACC — export declaration as VAT-refund verification basis | General Administration of Customs of China (海关总署 GACC) | CN | T1/T2 | مفقود | http://www.customs.gov.cn/ | تضاهي بيانات إعلانات التصدير الجمركية من جانب السلطات الضريبية للتحقق من استرداد ضريبة القيمة المضافة للتصدير/الاسترداد من الإعفاء من الأموال |
+| مؤشر سياسات استرداد ضريبة القيمة المضافة للتصدير (صفحة صافحة) | State Taxation Administration (国家税务总局 STA) | CN | T1/T2 | مفقود | https://www.chinatax.gov.cn/chinatax/n810341/n810755/ | عمود سياسة التأهل الضريبي الذي يحمل إعلانات استرداد ضريبة القيمة المضافة الحالية للصادرات/ الإعفاء (لم يُثبت وجود أي سعر نقض هنا) |
+## استعراض التحرير
 - ** Author**: AutoBridge Export Editorial Team · [authors](/authors) · [Editorial Policy](editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: CN（中国税务侧）
-- **Verification method**: Desk research against the sources below; Chinese-market reference specification only unless a separate export market is explicitly cited.
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
+- ** لم يُستعرض بعد**: 2026-09-05
+- ** سوق الإحالة**: CN(中国税务侧)
+- ** طريقة الفرز**: بحوث مكتبية ضد المصادر الواردة أدناه؛ والمواصفات المرجعية للسوق الصينية فقط ما لم يُستشهد صراحة بسوق تصدير منفصلة.
+- ** الشفافية**: استُخدمت الصياغة المدعومة من منظمة العفو الدولية. وتستند هذه المادة إلى البحوث المكتبية وآلية الجودة. ولا يُزعم إجراء أي اختبار مباشر إلا إذا تم توثيقه بشكل صريح؛ ويؤكد متطلبات مراعية للوقت ومحددة للمقصد قبل التحول.
 
-## Image Record
-- ** none secured in repository
-- ** not captured
-- **SOURCE_PAGE**: not captured
-- ** unconfirmed
-- ** none secured — OEM webpage presence is not a commercial reuse licence
-- ** CHECKED_DATE**: 2026-09-05
-- ** exact China Export VAT Refund
+## سجل الصور
+- ** لم يُكفل أي شيء في مستودع
+- ** غير مسبوقة **
+- ** الموارد: لم يُقبض عليها
+- ** المصدر: الدليل: لا ينطبق - لم يحدد أي ملف إعلامي مرشح (لا رخصة للتأكيد)
+- ** مسلسل هولدر**: غير مؤكد
+- ** لا يوجد أي من هذه الصفحات مضمونة - ليس من حق المنظمة الحصول على ترخيص تجاري لإعادة الاستخدام
+- ** CHECKED_DATE**: 2026-09-06
+- ** مودل - توبيتش**: بالضبط الصين المبالغ المردودة
+- ** MEIMAGE_SCOPE_NOTE**: يجب أن تتطابق الصورة مع النموذج المحدد للأسرة/المنظر فقط؛ ويجب ألا تنطوي على ثلاثية محددة، أو سنة نموذجية، أو تفتيش فعلي، أو عملية فعلية
 - **MAGE_Rights_STATUS**: FAIL
+- ** BLOCK_REASON**: لا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: لا يمكن الوصول إلى الشائعات/الفلك من بيئة البحوث، ولا تحتاج مكتبات المخزون إلى الوصول إلى نظام تسجيل الدخول/الرخصة الموثق، وصورة الموقع الشبكي لمنظمة أوم ليست منحة إعادة استخدام تجارية. لا توجد صورة مملوكة لـ(أوتومبريدج) وظل التسجيل في القوات المسلحة الفلسطينية بدلا من التأكيد عليه.
 - **ALT (12 languages)**:
   - **EN**: export VAT refund, Chinese-market procurement guide export buyer reference
   - **FR**: export VAT refund, procurement guide du marché chinois, référence acheteur export

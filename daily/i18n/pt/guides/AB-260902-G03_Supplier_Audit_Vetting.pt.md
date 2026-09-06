@@ -4,7 +4,7 @@
 - ** Título SEO**: Verificar um chinês carro exportador Fornecedor: Due-Diligence Checklist
 - ** Descrição do Meta**: Um quadro de liquidação em fase de pagamento para verificar os exportadores de veículos chineses — qualificação MIIT anuncio/CCC, verificações de licenciamento comercial, cadeia de autorização de exportação, AEO, correspondência de contas bancárias e normas de videoauditoria.
 - ** URL sugerido**: /guides/verify-china-car-export-supplier/
-- ** H1 **: Vetting a chinês Vetting a chinês Vetter Exportador: O que verificar antes do primeiro pagamento
+- ** H1 **: Vetting um exportador de veículos chinês: O que verificar antes do primeiro pagamento
 - **Primary Keyword**: verificar a licença de due diligence do fornecedor de carro chinês
 - ** Termos de pesquisa secundários**: China qualificação de exportação de veículos, anúncio do fabricante de veículos MIIT, exportador de certificado CCC, verificação de licença de negócio gsxt, cadeia de autorização de exportação de automóveis da China, crédito aduaneiro AEO
 - **As sugestões de ligação interna**: /guias/veículo-importação-pagamento-tt-vs-lc/; /guias/inspecção-ev-usada-chinês/; /guias/comercial-caminhão-fleete-procurement-china/
@@ -19,12 +19,12 @@ Os compradores estrangeiros pela primeira vez de veículos chineses repetidament
 
 Dois documentos oficiais chineses definem a espinha dorsal da qualificação (ambas as fontes primárias do governo):
 
-- Per the **five-ministry notice on further regulating the export order of automobiles and motorcycles** (MOFCOM et al.), a manufacturer declaring vehicles for export must be listed in the **MIIT "Vehicle Manufacturers and Products Announcement" (车辆生产企业及产品公告)** and hold valid **CCC compulsory certification**.
-- Por **MOFCOM et al. 2024 Anúncio n.o 6 ** em empresas de exportação de carros usados, um exportador de carros usados deve ser uma pessoa jurídica independente internamente registrada que satisfaça as condições indicadas (fabricantes devem estar no anúncio MIIT; comerciantes devem atender aos critérios publicados).
+- Por ** cinco-ministério aviso sobre a regulamentação adicional da ordem de exportação de automóveis  and  motociclos** (MOFCOM et al.), um fabricante que declare os veículos para exportação deve ser incluído na lista de **MIIT "Fabricantes de Veículos"  and  Anúncio de produtos" (车辆生产企业及产品公告)**  and  manter válida ** certificação obrigatória CCC**.
+- Por **MOFCOM et al. 2024 Anúncio n.o 6 ** sobre empresas de exportação de automóveis usados, um exportador de automóveis usados deve ser uma pessoa colectiva independente registada no mercado interno que satisfaça as condições indicadas (os fabricantes devem estar no anúncio MIIT; os comerciantes devem cumprir os critérios publicados).
 
 Implicação para compradores: pergunte *qual* entidade jurídica é o exportador de registro e confirme-o na lista de **qualidade de exportação-ano atual publicada pela MOFCOM** (a lista é atualizada dinamicamente – use a versão atual do ano; este guia não enumera nomes de empresas). Uma empresa que não se pode colocar nessa corrente é um sinal de paragem.
 
-## Camada 1 — Verifique a Licença de Negócios
+## Layer 1 — Verify the Business License
 
 Use o **Sistema Nacional de Informação de Crédito Empresarial (gsxt.gov.cn)** para verificar, contra o Código Único de Crédito Social do fornecedor:
 
@@ -36,23 +36,23 @@ Use o **Sistema Nacional de Informação de Crédito Empresarial (gsxt.gov.cn)**
 
 Uma licença apresentada como uma fotografia não é prova; o comprador (ou um representante chinês) deve retirar o registo do GSXT de forma independente.
 
-## Camada 2 — Qualificação da exportação e cadeia de autorização
+## Camada 2 — Qualificação para a exportação e a cadeia de autorização
 
 Muitos vendedores legítimos são empresas comerciais, em vez de fábricas. Isso é normal — mas a cadeia deve ser real:
 
 1. Identificar o fabricante ** real e confirmar que está no anúncio MIIT com CCC válido.
 2. Se o seu vendedor for um comerciante, solicite o documento de autorização** que liga o exportador/fabricante qualificado à entidade com quem contrata.
-3. **Verificar inversamente**: sempre que possível, confirme a autorização de volta para a entidade OEM/qualificada. As regras de autorização OEM tier- 1/tier-2 são internas e inéditas, portanto, um certificado em papel por si só é insuficiente — peça para verificar com a parte emissora.
+3. **Verificar inversamente**: sempre que possível, confirme a autorização de volta para a entidade OEM/qualificada. As regras de autorização OEM tier- 1/tier-2 são internas e inéditas, pelo que um certificado em papel por si só é insuficiente — peça para verificar com a parte emissora.
 4. Uma empresa não qualificada pode exportar *através de * uma empresa de qualificação listada; isso só é admissível se a cadeia de cooperação/autorização estiver documentada e a entidade na declaração de exportação estiver genuinamente qualificada.
 
-## Camada 3 — Realidade Operacional (Fabricação, Histórico Aduaneiro, Crédito)
+## Camada 3 — Realidade operacional (fabricação, história aduaneira, crédito)
 
 - **Qualidade de crédito personalizada**: um **AEO (Operador Económico Autorizado)** status sinaliza alto crédito aduaneiro; peça provas e trate sua ausência como neutra em vez de desqualificação. (Use a direção pública da China Alfândega AEO consulta; mudanças exatas portal entrada, então navegue através do site oficial alfandegário.)
 - ** Declarações de exportação históricas**: solicitar declarações aduaneiras de exportação dos últimos três meses (campos comerciais sensíveis podem ser redigidos) e produtos de verificação cruzada, padrões de destinatário e datas em relação às reivindicações do fornecedor.
 - **Auditoria de vídeo ao vivo – padrão mínimo**: um passe em tempo real (não pré-gravado) mostrando a linha de produção, estoque de veículos, estações QC e o cais de carga; peça um sinal de tempo no mesmo dia e para ver um VIN/unidade específico, mediante pedido.
 - Comece com uma **amostra ou pequena ordem de teste** antes do volume, e escreva expectativas de conformidade no contrato de teste.
 
-## Layer 4 — Contract, Invoice and Bank-Account Consistency
+## Camada 4 — Consistência de contrato, factura e conta bancária
 
 Um dos indicadores de fraude mais claros é um nome de conta **payee que difere do nome da empresa contratada**. Antes de pagar:
 
@@ -61,7 +61,7 @@ Um dos indicadores de fraude mais claros é um nome de conta **payee que difere 
 - Preferências de instrumentos de pagamento que correspondam ao risco (ver o guia T/T vs L/C); evitar o pagamento antecipado completo a uma entidade não verificada.
 
 ## O que AutoBridge adiciona além de uma tela de negócios-Licença
-Uma verificação de licença prova que uma empresa existe, não que ela possa exportar * seu * veículo. This guide recommends checking the counterparty against the **current-year MOFCOM qualified list** (2026 application under 商办贸函〔2025〕408号; Licença de passageiros de EV puro da 2026-01-01 no âmbito do anúncio conjunto n.o. 54), reconstitui a cadeia de autorização de marca para o OEM**, e executa um **contrato/fatura/nome da conta bancária** antes do depósito — os três controlos que distinguem um exportador autorizado de uma bolsa de negociação.
+Uma verificação de licença prova que uma empresa existe, não que ela possa exportar * seu * veículo. This guide recommends checking the counterparty against the **current-year MOFCOM qualified list** (2026 application under 商办贸函〔2025〕408号; Licença de passageiros puro-EV de 2026-01-01 no âmbito do anúncio conjunto n.o. 54), reconstitui a cadeia de autorização de marca ** para o OEM **, e executa uma correspondência de contrato/fatura/nome da conta bancária** antes do depósito — os três controlos que distinguem um exportador autorizado de uma caixa comercial.
 ## Uma sequência prática de oito passos
 
 1. Puxe o registro de licença de negócios do GSXT de forma independente.
@@ -87,17 +87,20 @@ Uma verificação de licença prova que uma empresa existe, não que ela possa e
 ** Como posso verificar a licença de uma empresa chinesa?** Consulta independente gsxt.gov.cn usando o Código Unificado de Crédito Social; verifique nome, escopo, representante legal e quaisquer registros de anomalia.
 ** Um certificado CCC prova direitos de exportação?** No. CCC é certificação de produto; a qualificação de exportação também repousa no anúncio MIIT e na atual lista MOFCOM de exportação-qualificação.
 **A conta beneficiária é uma empresa diferente — é normal?** É um dos sinais de risco mais claros; parar e reverificar antes de pagar.
-** O que prova que um fornecedor exporta realmente?** Recente (em inglês) declarações de exportação 3-month mais uma auditoria ao vivo de linha, estoque, QC e dock de carga, cruzados contra reclamações.
+** O que prova que um fornecedor exporta realmente?** Declarações de exportação recentes (em 3-month), mais uma auditoria em directo da linha, estoque, QC e doca de carga, cruzados contra reclamações.
 
 ## Gravação de Imagens
 - IMAGEM_ASSET_PATH: nenhum protegido no repositório
 - ORIGINAL_ IMAGE_ URL: não capturado
 - ORIGINAL_PAGE: não capturado
+- ORIGINAL_FILE_PAGE: não aplicável — nenhum ficheiro de mídia candidato identificado (sem licença para afirmar)
 - DIREITOS_OLDER: não confirmado
 - LICENSE_OR_USAGE_BASIS: nenhuma imagem segura — nenhuma imagem de terceiros pode ser publicada até que os direitos sejam compensados
-- Data_ Marcada: 2026-09-05
+- Data_ Marcada: 2026-09-06
 - MODEL_TOPIC_ MATCH: deve corresponder ao modelo/versão exato (ou ao tópico guia) e ao mercado de referência acima
+- IMAGEM_SCOPE_NOTE: corresponde à família/tópico do modelo exato; não deve implicar uma aparação/modelo-ano específico, VIN real, inspeção em pessoa ou transação real
 - IMAGEM_RIGHTS_STATUS: FALHA (não é aceita nenhuma propriedade licenciada capturada; uma nota de placeholder ou “reter imagem antiga”)
+- BLOCK_REASON: Nenhuma imagem reutilizável pode ser segura: Wikimedia Commons/Flickr são inalcançáveis do ambiente de pesquisa, bibliotecas de estoque requerem acesso autenticado API/licença, e uma imagem de página web OEM NÃO é uma concessão de reutilização comercial; nenhuma foto de propriedade da AutoBridge existe. Mantive-me em vez de afirmar.
 - ALT por língua:
   - **EN**: AutoBridge export-buyer reference — Chinese export supplier vetting, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Chinese export supplier vetting, guide d’achat à l’export automobile
@@ -117,14 +120,14 @@ Uma verificação de licença prova que uma empresa existe, não que ela possa e
 | Título do código fonte | Organização | Mercado | URL | Verificado | Confiança | Factos corroborados |
 |---|---|---|---|---|---|---|
 | Aviso sobre a regulamentação da ordem de exportação dos automóveis/motores | MOFCOM et al. (cinco ministérios, oficial T1) | NC | https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2012/art_bc15755f9b1642b99eac7cc212cce54b.html | 2026-09-02 | VERIFICADO | Anúncio MIIT + Base de qualificação para exportação CCC |
-| 2024 N.o de anúncio 6 (condições de empresa de exportação de carros usados) | MOFCOM (T1 oficial) | NC | https://dcj.mofcom.gov.cn/article/zcfb/zcwg/202405/20240503510039.shtml | 2026-09-02 | VERIFICADO | Condições legais/de qualificação aplicáveis ao exportador de veículos automóveis usados |
+| 2024 Anúncio n.o 6 (condições de empresa de exportação de automóveis usados) | MOFCOM (oficialmente T1) | NC | https://dcj.mofcom.gov.cn/article/zcfb/zcwg/202405/20240503510039.shtml | 2026-09-02 | VERIFICADO | Condições legais/de qualificação aplicáveis ao exportador de veículos automóveis usados |
 | Como verificar a autenticidade da licença de negócio fornecedor China | Goodcan Trading (indústria, pontos GSXT.gov.cn) | NC | https://goodcantrading.com/how-to-check-china-supplier-business-license-authenticity/ | 2026-09-02 | CROSS_CHECKED | campos de verificação do gsxt |
 | Como verificar uma fábrica chinesa é legítima | Logística Global da Plutonia | NC/Global | https://www.plutoniaglobal.com/guides/verify-chinese-factory-legitimate | 2026-09-02 | CROSS_CHECKED | Consistência do nome da conta, auditoria de fábrica |
-| Guia 8-step para verificar fornecedores de exportação de automóveis da China | huajiame (indústria) | NC | https://www.huajiame.com/en-US/knowledge/how-verify-china-auto-export-supplier | 2026-09-02 | CROSS_CHECKED | Quadro de auditoria em camadas, AEO |
-| Notas relativas aos contratos de aquisição de veículos | 11467 (顺企网, industry) | NC | https://m.11467.com/blog/d18906274.htm | 2026-09-02 | CROSS_CHECKED | Minimismo de videoauditoria ao vivo, verificação cruzada da declaração |
-| Procedimentos de exportação de camiões domésticos | Guangzhou Pujiang Trade (11467) | NC | https://guangzhou053049.11467.com/m/news/15260806.asp | 2026-09-02 | CROSS_CHECKED | Exportação através de entidade qualificada, cadeia de autorização |
+| 8-step guia para verificar China auto exportação fornecedores | huajiame (indústria) | NC | https://www.huajiame.com/en-US/knowledge/how-verify-china-auto-export-supplier | 2026-09-02 | CROSS_CHECKED | Quadro de auditoria em camadas, AEO |
+| Notas relativas aos contratos de aquisição de veículos | 11467 (顺企网, indústria) | NC | https://m.11467.com/blog/d18906274.htm | 2026-09-02 | CROSS_CHECKED | Minimismo de videoauditoria ao vivo, verificação cruzada da declaração |
+| Procedimentos de exportação de camiões domésticos | Comércio de Guangzhou Pujiang (11467) | NC | https://guangzhou053049.11467.com/m/news/15260806.asp | 2026-09-02 | CROSS_CHECKED | Exportação através de entidade qualificada, cadeia de autorização |
 
-* Nota de confiança (padrão AutoBridge): qualification rules rest on primary MOFCOM/MIIT sources (VERIFIED), now including the 2026 application notice (商办贸函〔2025〕408号) and joint Announcement No. 54 em licença de exportação de passageiros de EV puro. A lista qualificada do ano em curso e a consulta AEO são dinâmicas e devem ser verificadas ao vivo; os itens de checklist operacionais são fonte da indústria e apontam de volta para os sistemas oficiais. *
+* Nota de confiança (padrão AutoBridge): As regras de qualificação baseiam-se nas fontes primárias MOFCOM/MIIT (verIFIED),  now including the 2026 application notice (商办贸函〔2025〕408号)  and  No. 54 on pure-EV passenger export licensing. A lista qualificada do ano em curso e a consulta AEO são dinâmicas e devem ser verificadas ao vivo; os itens de checklist operacionais são fonte da indústria e apontam de volta para os sistemas oficiais. *
 
 ## Revisão Editorial
 - **Autor / revisor**: [AutoBridge Export Editorial Team](/autores/) · método para o nosso [Política editorial](/editorial-policy/)

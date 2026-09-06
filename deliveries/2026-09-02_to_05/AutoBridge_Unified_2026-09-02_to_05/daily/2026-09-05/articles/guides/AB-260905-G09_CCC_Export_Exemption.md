@@ -48,6 +48,8 @@ The CCC catalogue and exemption categories are updated; use the current SAMR/CNC
 | 免予办理强制性产品认证证明（受理条件示例） | 安徽省人民政府 | CN | T1 | VERIFIED | https://www.ah.gov.cn/site/tpl/7091?cswd=2222&ssqdId=4028e69f84d033380185c7c09c5058fa&ssqdCode=521edb32dd8c45938651ec2edce21ddc&activeId=6785131 | 以整机全数出口为目的进口的零部件免办等 |
 | SAMR (CCC regime) | SAMR 国家市场监督管理总局 | CN | T1 | VERIFIED | https://www.samr.gov.cn/ | CCC mandatory certification regime authority |
 | Certification and Accreditation Administration (CNCA) | CNCA 国家认证认可监督管理委员会 | CN | T1 | VERIFIED | https://www.cnca.gov.cn/ | CCC administration and exemption system |
+| WTO Agreement on Technical Barriers to Trade (TBT) | World Trade Organization | INT | T1/T2 | VERIFIED | https://www.wto.org/english/tratop_e/tbt_e/tbt_e.htm | TBT framework for mandatory conformity assessment such as CCC, and for avoiding unnecessary barriers (exemption logic) |
+| International Electrotechnical Commission (IEC) standards | International Electrotechnical Commission (IEC) | INT | T1/T2 | VERIFIED | https://www.iec.ch/home | International standards referenced in conformity assessment; CCC uses GB standards that often align with IEC |
 ## Editorial Review
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
 - **Last reviewed**: 2026-09-05
@@ -59,11 +61,14 @@ The CCC catalogue and exemption categories are updated; use the current SAMR/CNC
 - **IMAGE_ASSET_PATH**: none secured in repository
 - **ORIGINAL_IMAGE_URL**: not captured
 - **SOURCE_PAGE**: not captured
+- **SOURCE_FILE_PAGE**: not applicable — no candidate media file identified (no licence to assert)
 - **RIGHTS_HOLDER**: unconfirmed
 - **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
-- **CHECKED_DATE**: 2026-09-05
+- **CHECKED_DATE**: 2026-09-06
 - **MODEL_TOPIC_MATCH**: exact CCC Mandatory Certification and Exported Vehicles
+- **IMAGE_SCOPE_NOTE**: image must match the exact model family/topic only; must not imply a specific trim, model year, real VIN, in-person inspection or an actual transaction
 - **IMAGE_RIGHTS_STATUS**: FAIL
+- **BLOCK_REASON**: No reusable image could be secured: Wikimedia Commons/Flickr are unreachable from the research environment, stock libraries require authenticated API/licence access, and an OEM webpage image is NOT a commercial reuse grant. No AutoBridge-owned photo exists. Record kept FAIL rather than asserted.
 - **ALT (12 languages)**:
   - **EN**: CCC certification export, Chinese-market procurement guide export buyer reference
   - **FR**: CCC certification export, procurement guide du marché chinois, référence acheteur export

@@ -4,7 +4,7 @@
 - **SEO Título**: Ocean Freight Charge Structure for Vehicle Export — O/F, THC, DOC, BAF Explained
 - **Meta Descripción**: Comprender los cargos de O/F, THC, DOC/SEAL/VGM, BAF y recargos, origin vs destino, y por qué los gastos de manifiesto de AMS/ACI/ENS son específicos para la ruta, una guía de estructura que deliberadamente no establece cantidades fijas.
 - ** URL agregada**: /guides/oceano-freight-charge-structure-vehicle-export
-- ** H1 **: Decodificando un código de carga de vehículos: Que cargas existentes, quién los carga, y qué verificar
+- ** H1 **: Decodificar una cita de carga de vehículos-deporte: Que cargas existen, quién los carga, y qué verificar
 - **Primary Keyword**: estructura de carga de carga de mar de exportación de vehículos THC DOC BAF
 - **Segundary Search Terms**: O/F ocean flete, terminal handling charge, DOC document fee, SEAL VGM fee, BAF EBS recharge, AMS ACI ENS manifest fee, origin vs destination charges
 - **Sugerencias de enlace interno**: /guides/vehicle-export-bill-of-lading-types/; /guides/vehicle-export-pdi-pre-shipment-handover/; /guides/vehicle-export-hs-code-classification/
@@ -52,11 +52,14 @@ Una tarifa de flete de titular gana reservas y pierde dinero en destino. Los exp
 - IMAGE_ASSET_PATH: ninguno asegurado en repositorio
 - ORIGINAL_IMAGE_URL: no capturado
 - SOURCE_PAGE: no capturado
+- SOURCE_FILE_PAGE: no aplicable — ningún archivo de medios de comunicación candidato identificado (sin licencia para afirmar)
 - RIGHTS_HOLDER: unconfirmed
 - LICENSE_OR_USAGE_BASIS: ninguna garantizada, ninguna imagen de terceros puede ser publicada hasta que se despejen los derechos
-- CHECKED_DATE: 2026-09-05
+- CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: debe coincidir con el modelo/versión exacto (o el tema guía) y el mercado de referencia por encima
+- IMAGE_SCOPE_NOTE: se corresponde con el modelo exacto familia/topic solamente; no debe implicar un trím o modelo específico, VIN real, inspección en persona o transacción real
 - IMAGE_RIGHTS_STATUS: FAIL (no se acepta ningún activo con licencia; no se acepta un titular de posición o “retiene la imagen antigua”)
+- BLOCK_REASON: No se puede asegurar una imagen reutilizable: Wikimedia Commons/Flickr no son accesibles desde el entorno de investigación, las bibliotecas de stock requieren acceso a API/licencia autenticada, y una imagen de página web OEM NO es una subvención comercial de reutilización; no existe foto de propiedad de AutoBridge. Se quedó con la FAIL en lugar de afirmarse.
 - ALT por idioma:
   - **EN**: AutoBridge export-buyer reference — Ocean freight quotation charge structure, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Ocean freight quotation charge structure, guide d’achat à l’export automobile
@@ -80,7 +83,7 @@ Una tarifa de flete de titular gana reservas y pierde dinero en destino. Los exp
 | Gastos comunes de FOB (THC/booking/trucking) | 11467 | CN | https://m.11467.com/product/d24491409.htm | 2026-09-04 | SINGLE_SOURCE | Carga de nombres |
 *Ámbito de evaluación: estructura de cargas cruzada de fuentes industriales (no hay fuente primaria arancelaria oficial); AMS/ACI/ENS enmarcada como guía editorial específica para la ruta; todas las cantidades deliberadamente excluidas como sensibles al tiempo. *
 
-| Incoterms 2020 rules (who arregla/pays transport a cada término) | Cámara de Comercio Internacional (CCI) | INT'L | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/ | 2026-09-05 | VERIFIED | Que fletes / cargas corresponden al comprador vs vendedor por Incoterm |
+| Incoterms 2020 rules (who arregla/pays transport at each term) | Cámara de Comercio Internacional (CCI) | INT'L | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/ | 2026-09-05 | VERIFIED | Que fletes / cargas corresponden al comprador vs vendedor por Incoterm |
 | Prácticas de carga y categorías de carga | FIATA | INT'L | https://fiata.org/ | 2026-09-05 | VERIFIED | Referencia de presupuesto/estructura de gastos de los interesados |
 | Contexto de envío y recarga de líneas | World Shipping Council | INT'L | https://www.worldshipping.org/ | 2026-09-05 | VERIFIED | Contexto industrial para fletes oceánicos y gastos auxiliares |
 | China International Freight Forwarders Association | CIFA | CN/INT'L | http://www.cifa.org.cn/ | 2026-09-05 | VERIFIED | China-side reenvío de la industria y práctica de cotizaciones |

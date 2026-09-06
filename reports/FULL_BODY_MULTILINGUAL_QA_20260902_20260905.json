@@ -8,97 +8,3141 @@
  "FR": {
   "expected": 80,
   "present": 80,
-  "pass": 80,
-  "fail": 0,
+  "pass": 75,
+  "fail": 5,
   "missing": 0,
-  "fail_detail": {}
+  "fail_detail": {
+   "AB-260902-G06_RHD_Chinese_Cars.fr.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "https://post.m.smzdm.com/p/aqrp0mkp/"
+     ],
+     "extra": []
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "https://post.m.smzdm.com/p/aqrp0mkp/"
+     ]
+    }
+   ],
+   "AB-260903-G05_EV_Shipping_UN3171.fr.md": [
+    {
+     "gate": "NUMBER_SPLIT",
+     "sample": [
+      "1.\n3"
+     ]
+    }
+   ],
+   "AB-260904-G01_Vehicle_Export_HS_Code.fr.md": [
+    {
+     "gate": "NUMBER_SPLIT",
+     "sample": [
+      "1.\n3"
+     ]
+    }
+   ],
+   "AB-260904-V02_BYD_QinL_DMi.fr.md": [
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ",",
+      ",",
+      ","
+     ]
+    }
+   ],
+   "AB-260905-G10_TIR_Road_Transport.fr.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "http://www.customs.gov.cn/customs/attachdir/2026/01/%e6%b5%b7%e5%85%b3%e6%80%bb%e7%bd%b2%e5%85%b3%e4%ba%8e%e4%bc%98%e5%8c%96%e8%90%bd%e5%ae%9etir%e5%85%ac%e7%ba%a6%e6%9c%89%e5%85%b3%e4%ba%8b%e9%a1%b9%e7%9a%84%e5%85%ac%e5%91%8a%20(1"
+     ],
+     "extra": []
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "http://www.customs.gov.cn/customs/attachDir/2026/01/%E6%B5%B7%E5%85%B3%E6%80%BB%E7%BD%B2%E5%85%B3%E4%BA%8E%E4%BC%98%E5%8C%96%E8%90%BD%E5%AE%9ETIR%E5%85%AC%E7%BA%A6%E6%9C%89%E5%85%B3%E4%BA%8B%E9%A1%B9%E7%9A%84%E5%85%AC%E5%91%8A%20(1"
+     ]
+    }
+   ]
+  }
  },
  "DE": {
   "expected": 80,
   "present": 80,
-  "pass": 80,
-  "fail": 0,
+  "pass": 77,
+  "fail": 3,
   "missing": 0,
-  "fail_detail": {}
+  "fail_detail": {
+   "AB-260902-G06_RHD_Chinese_Cars.de.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "https://post.m.smzdm.com/p/aqrp0mkp/"
+     ],
+     "extra": []
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "https://post.m.smzdm.com/p/aqrp0mkp/"
+     ]
+    }
+   ],
+   "AB-260904-G01_Vehicle_Export_HS_Code.de.md": [
+    {
+     "gate": "NUMBER_SPLIT",
+     "sample": [
+      "1.\n3"
+     ]
+    }
+   ],
+   "AB-260905-G10_TIR_Road_Transport.de.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "http://www.customs.gov.cn/customs/attachdir/2026/01/%e6%b5%b7%e5%85%b3%e6%80%bb%e7%bd%b2%e5%85%b3%e4%ba%8e%e4%bc%98%e5%8c%96%e8%90%bd%e5%ae%9etir%e5%85%ac%e7%ba%a6%e6%9c%89%e5%85%b3%e4%ba%8b%e9%a1%b9%e7%9a%84%e5%85%ac%e5%91%8a%20(1"
+     ],
+     "extra": []
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "http://www.customs.gov.cn/customs/attachDir/2026/01/%E6%B5%B7%E5%85%B3%E6%80%BB%E7%BD%B2%E5%85%B3%E4%BA%8E%E4%BC%98%E5%8C%96%E8%90%BD%E5%AE%9ETIR%E5%85%AC%E7%BA%A6%E6%9C%89%E5%85%B3%E4%BA%8B%E9%A1%B9%E7%9A%84%E5%85%AC%E5%91%8A%20(1"
+     ]
+    }
+   ]
+  }
  },
  "ES": {
   "expected": 80,
   "present": 80,
-  "pass": 80,
-  "fail": 0,
+  "pass": 77,
+  "fail": 3,
   "missing": 0,
-  "fail_detail": {}
+  "fail_detail": {
+   "AB-260902-G06_RHD_Chinese_Cars.es.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "https://post.m.smzdm.com/p/aqrp0mkp/"
+     ],
+     "extra": []
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "https://post.m.smzdm.com/p/aqrp0mkp/"
+     ]
+    }
+   ],
+   "AB-260903-G05_EV_Shipping_UN3171.es.md": [
+    {
+     "gate": "NUMBER_SPLIT",
+     "sample": [
+      "1.\n3"
+     ]
+    }
+   ],
+   "AB-260904-G01_Vehicle_Export_HS_Code.es.md": [
+    {
+     "gate": "NUMBER_SPLIT",
+     "sample": [
+      "1.\n3"
+     ]
+    }
+   ]
+  }
  },
  "PT": {
   "expected": 80,
   "present": 80,
-  "pass": 80,
-  "fail": 0,
+  "pass": 68,
+  "fail": 12,
   "missing": 0,
-  "fail_detail": {}
+  "fail_detail": {
+   "AB-260902-G01_Russia_EV_Import_Guide.pt.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "https://regulation.eaeunion.org/"
+     ],
+     "extra": []
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "https://regulation.eaeunion.org/"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ".",
+      "."
+     ]
+    }
+   ],
+   "AB-260902-G02_Saudi_Truck_Import_Guide.pt.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "https://www.wcoomd.org/"
+     ],
+     "extra": []
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "https://www.wcoomd.org/"
+     ]
+    }
+   ],
+   "AB-260902-G06_RHD_Chinese_Cars.pt.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "https://post.m.smzdm.com/p/aqrp0mkp/"
+     ],
+     "extra": []
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "https://post.m.smzdm.com/p/aqrp0mkp/"
+     ]
+    }
+   ],
+   "AB-260902-G07_Marine_Cargo_Insurance.pt.md": [
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      "."
+     ]
+    }
+   ],
+   "AB-260902-V03_BYD_Qin_Plus_DMi_2024.pt.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [],
+     "extra": [
+      "ع"
+     ]
+    }
+   ],
+   "AB-260902-V09_Shacman_X3000_Dump_Truck.pt.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "18,000kg"
+     ],
+     "extra": [
+      "000kg"
+     ]
+    }
+   ],
+   "AB-260903-G05_EV_Shipping_UN3171.pt.md": [
+    {
+     "gate": "NUMBER_SPLIT",
+     "sample": [
+      "1.\n3"
+     ]
+    }
+   ],
+   "AB-260903-G10_Sales_Contract.pt.md": [
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      "."
+     ]
+    }
+   ],
+   "AB-260903-V04_LiAuto_L6_2024.pt.md": [
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      "."
+     ]
+    }
+   ],
+   "AB-260903-V07_Yutong_ZK6122.pt.md": [
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ".",
+      "."
+     ]
+    }
+   ],
+   "AB-260904-G01_Vehicle_Export_HS_Code.pt.md": [
+    {
+     "gate": "NUMBER_SPLIT",
+     "sample": [
+      "1.\n3"
+     ]
+    }
+   ],
+   "AB-260904-V08_JMC_Shunda.pt.md": [
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      "."
+     ]
+    }
+   ]
+  }
  },
  "JA": {
   "expected": 80,
   "present": 80,
-  "pass": 80,
-  "fail": 0,
+  "pass": 0,
+  "fail": 80,
   "missing": 0,
-  "fail_detail": {}
+  "fail_detail": {
+   "AB-260902-G01_Russia_EV_Import_Guide.ja.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "http://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_6685d244c4f4429e9a749a1a9f34bf19.html",
+      "https://base.garant.ru/483421115/",
+      "https://findcert.ru/news/rastamozhka-elektromobilya-v-rossii/",
+      "https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html",
+      "https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_7c50d6688ca34d1786a1bfd2ccde7d19.html"
+     ],
+     "extra": [
+      "あなたのルートのための認定機関との適合を承認しました",
+      "いくつかのコストとルーティングポイントは",
+      "および",
+      "および",
+      "およびバッテリー輸送の文書",
+      "および任意の非転送ルールは",
+      "および支払い前に確認する正確に",
+      "および法的な企業が適合証明書",
+      "および輸出業者は",
+      "お客さまからお寄せいただいたお見積りから",
+      "から",
+      "から研究・執筆"
+     ]
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_7c50d6688ca34d1786a1bfd2ccde7d19.html",
+      "http://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_6685d244c4f4429e9a749a1a9f34bf19.html",
+      "https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html",
+      "https://findcert.ru/news/rastamozhka-elektromobilya-v-rossii/",
+      "https://base.garant.ru/483421115/"
+     ]
+    }
+   ],
+   "AB-260902-G02_Saudi_Truck_Import_Guide.ja.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "https://english.ajel.sa/news/f7sn5nj77",
+      "https://saber.sa/",
+      "https://www.globalshacman.com/saudi-truck-imports-face-new-saso-local-approval-rule.html",
+      "https://www.sinotruckexp.com/news/policy/policy_regulations/saudi_saso_mandates_iso_22513_2_rdi_for_heavy_trucks_from_aug_2026.html",
+      "https://www.trade.gov/country-commercial-guides/saudi-arabia-standards-trade"
+     ],
+     "extra": [
+      "あなたの",
+      "および",
+      "およびそれらは見出し間で同一ではありません",
+      "およびシャシプレートを揃えます",
+      "およびスコープ",
+      "および特別な目的の見出しは",
+      "および特定の非自己推進単位",
+      "および関税ラインはすべて",
+      "お支払いの前に",
+      "からビルドする必要があります",
+      "から研究・執筆",
+      "が"
+     ]
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "https://english.ajel.sa/news/f7sn5nj77",
+      "https://saber.sa/",
+      "https://www.sinotruckexp.com/news/policy/Policy_Regulations/Saudi_SASO_Mandates_ISO_22513_2_RDI_for_Heavy_Trucks_from_Aug_2026.html",
+      "https://www.globalshacman.com/Saudi-Truck-Imports-Face-New-SASO-Local-Approval-Rule.html",
+      "https://www.trade.gov/country-commercial-guides/saudi-arabia-standards-trade"
+     ]
+    }
+   ],
+   "AB-260902-G03_Supplier_Audit_Vetting.ja.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "https://dcj.mofcom.gov.cn/article/zcfb/zcwg/202405/20240503510039.shtml",
+      "https://goodcantrading.com/how-to-check-china-supplier-business-license-authenticity/",
+      "https://guangzhou053049.11467.com/m/news/15260806.asp",
+      "https://m.11467.com/blog/d18906274.htm",
+      "https://www.huajiame.com/en-us/knowledge/how-verify-china-auto-export-supplier",
+      "https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2012/art_bc15755f9b1642b99eac7cc212cce54b.html",
+      "https://www.plutoniaglobal.com/guides/verify-chinese-factory-legitimate",
+      "顺企网"
+     ],
+     "extra": [
+      "いいえ",
+      "いいえ",
+      "およびロードドックのライブ監査",
+      "および共同発表番号を含む主要な",
+      "および異常なレコードを確認します",
+      "お支払いの前に",
+      "からピュア",
+      "から研究・執筆",
+      "がビジネスライセンスのスクリーンショットを超えて追加する",
+      "が公開した",
+      "が所有する写真は存在しません",
+      "こちらのガイドは中国輸出側の"
+     ]
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "https://www.plutoniaglobal.com/guides/verify-chinese-factory-legitimate",
+      "https://www.huajiame.com/en-US/knowledge/how-verify-china-auto-export-supplier",
+      "https://dcj.mofcom.gov.cn/article/zcfb/zcwg/202405/20240503510039.shtml",
+      "https://guangzhou053049.11467.com/m/news/15260806.asp",
+      "https://m.11467.com/blog/d18906274.htm"
+     ]
+    }
+   ],
+   "AB-260902-G04_Used_Chinese_EV_Inspection.ja.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "https://hao.m.yiche.com/wenzhang/107776270/",
+      "https://lnclibattery.com/blog/evaluation-of-the-health-status-soh-of-lithium-ion-batteries/",
+      "https://www.chinesestandard.net/pdf.aspx/gbt31484-2015",
+      "https://www.iesdouyin.com/share/video/7618925618490849457",
+      "https://www.iesdouyin.com/share/video/7678314679869430004",
+      "https://www.jingsuncar.com/news/2026-must-see-guide-for-buying-used-new-energy-85493284.html"
+     ],
+     "extra": [
+      "および",
+      "およびクリーン",
+      "および予想される",
+      "および細胞電圧の読み出し",
+      "から",
+      "から研究・執筆",
+      "が",
+      "が",
+      "が一般的なチェックリストを超えて追加するもの",
+      "が健康に見える場合でも",
+      "が必要です",
+      "が所有する写真は存在しません"
+     ]
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "https://www.jingsuncar.com/news/2026-must-see-guide-for-buying-used-new-energy-85493284.html",
+      "https://lnclibattery.com/blog/evaluation-of-the-health-status-soh-of-lithium-ion-batteries/",
+      "https://www.iesdouyin.com/share/video/7678314679869430004",
+      "https://www.chinesestandard.net/PDF.aspx/GBT31484-2015",
+      "https://www.iesdouyin.com/share/video/7618925618490849457"
+     ]
+    }
+   ],
+   "AB-260902-G05_Charging_Standard_Compatibility.ja.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "http://www.huayutest.com/zixun/87747.html",
+      "https://m.cehome.com/news/20260809/389612.shtml",
+      "https://www.chademo.com/wp2016/wp-content/uploads/chaoji202006/chaoji_presenataion_en.pdf",
+      "https://www.electricautochina.com/comprehensive-b2b-guide-to-gbt-to-chademo-adapters-for-exported-chines/",
+      "https://www.evse-chargers.com/news/understanding-ev-charging-standards-gb-t-ccs2-type-2-nacs-and-chademo-compared-283319.html",
+      "https://www.maruikel.com/es/blog/guide-to-global-ev-charging-standards-type-1-type-2-ccs-chademo-gbt.html"
+     ],
+     "extra": [
+      "いいえ",
+      "および",
+      "および",
+      "および",
+      "およびオンボードチャーレーティングを録音し",
+      "お支払い前",
+      "から",
+      "から研究・執筆",
+      "が",
+      "がコネクタチャートを超えて追加する",
+      "が充電されるかどうかは",
+      "が所有する写真は存在しません"
+     ]
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "http://www.huayutest.com/zixun/87747.html",
+      "https://www.evse-chargers.com/news/understanding-ev-charging-standards-gb-t-ccs2-type-2-nacs-and-chademo-compared-283319.html",
+      "https://m.cehome.com/news/20260809/389612.shtml",
+      "https://www.chademo.com/wp2016/wp-content/uploads/ChaoJi202006/ChaoJi_Presenataion_EN.pdf",
+      "https://www.electricautochina.com/comprehensive-b2b-guide-to-gbt-to-chademo-adapters-for-exported-chines/"
+     ]
+    }
+   ],
+   "AB-260902-G06_RHD_Chinese_Cars.ja.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/25092921",
+      "https://m.autoreport.cn/guoji/20260829/19112676566.html",
+      "https://post.m.smzdm.com/p/aqrp0mkp/",
+      "https://www.dfmc.com.cn/news/company/news_20260311_1142.html",
+      "https://www.fobev.com/vehicles/rhd-ready/",
+      "https://www.starviaauto.com/en/blog/right-hand-drive-chinese-cars-markets-guide",
+      "https://www.starviaauto.com/en/faq/which-chinese-vehicles-are-suitable-for-buyers-who-need-right-hand-drive"
+     ],
+     "extra": [
+      "いくつかの",
+      "および",
+      "および選択した車をチェックイン前に",
+      "から",
+      "から",
+      "から研究・執筆",
+      "が",
+      "が所有する写真は存在しません",
+      "このガイドは",
+      "このブランドは",
+      "この研究では検証されていない",
+      "ごとに確認する方法"
+     ]
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "https://m.autoreport.cn/guoji/20260829/19112676566.html",
+      "https://www.starviaauto.com/en/blog/right-hand-drive-chinese-cars-markets-guide",
+      "https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/25092921",
+      "https://post.m.smzdm.com/p/aqrp0mkp/",
+      "https://www.dfmc.com.cn/news/company/news_20260311_1142.html"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ";"
+     ]
+    }
+   ],
+   "AB-260902-G07_Marine_Cargo_Insurance.ja.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "https://academy.iccwbo.org/incoterms/article/incoterms-2020-cpt-or-cip/",
+      "https://assets.lloyds.com/media/dcb2ad19-4820-4b42-a5d0-0dcea17ef691/icca%201%201%2009%203.pdf",
+      "https://library.iccwbo.org/clp/clp-incoterms-2020vs2010.htm",
+      "https://planetcars.jp/index.php/ja/insurance",
+      "https://shglobalauto.com/blog/korean-used-car-export-insurance-guide",
+      "https://shglobalauto.com/blog/korean-used-car-marine-insurance-claim",
+      "https://voyagecover.com/guides/institute-cargo-clauses",
+      "https://voyagecover.com/guides/roro-vehicle-cargo-insurance-underwriter-decline",
+      "https://www.ascopeshipping.co.uk/marine-cargo-insurance/",
+      "https://www.laojinchuhai.com/en/insights/guide-marine-insurance",
+      "https://www.portlogics.com/insights/marine-cargo-insurance"
+     ],
+     "extra": [
+      "あたり",
+      "あらゆるパネル",
+      "および",
+      "およびデント",
+      "およびポリシーのワーディングに依存します",
+      "および任意の",
+      "および実際のポリシーの",
+      "から",
+      "から研究・執筆",
+      "が",
+      "が必要です",
+      "が所有する写真は存在しません"
+     ]
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "https://shglobalauto.com/blog/korean-used-car-marine-insurance-claim",
+      "https://voyagecover.com/guides/institute-cargo-clauses",
+      "https://www.portlogics.com/insights/marine-cargo-insurance",
+      "https://planetcars.jp/index.php/ja/insurance",
+      "https://academy.iccwbo.org/incoterms/article/incoterms-2020-cpt-or-cip/"
+     ]
+    }
+   ],
+   "AB-260902-G08_Infotainment_OTA_Localization.ja.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "http://www.ccidnet.com/hlw/93237.jhtml",
+      "https://chejiahao.m.autohome.com.cn/info/26145241?isfrom=pc",
+      "https://nevfix.net/blog/byd-sealion-07-ukraine-localization-case.html",
+      "https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-chinese-car-os-english-version/",
+      "https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-top-rated-chinese-car-brands-pr/",
+      "https://www.starviaauto.com/en/blog/making-chinese-ev-software-work-locally",
+      "https://xueqiu.com/9837237227/399831947",
+      "汽车之家",
+      "车家号"
+     ],
+     "extra": [
+      "あなたの市場で動作しますか",
+      "いいえ",
+      "および",
+      "から",
+      "から研究・執筆",
+      "が",
+      "がローカリゼーションショップマーケティングに追加する理由",
+      "が所有する写真は存在しません",
+      "が起こるという結果が生じるという証拠です",
+      "このガイドは",
+      "このガイドは従います",
+      "この記事では"
+     ]
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-chinese-car-os-english-version/",
+      "https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-top-rated-chinese-car-brands-pr/",
+      "https://www.starviaauto.com/en/blog/making-chinese-ev-software-work-locally",
+      "https://chejiahao.m.autohome.com.cn/info/26145241?isfrom=pc",
+      "https://xueqiu.com/9837237227/399831947"
+     ]
+    }
+   ],
+   "AB-260902-G09_Chile_China_FTA_EV_Import.ja.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "http://cl.mofcom.gov.cn/zcfg/hg/art/2025/art_4febd3af37374813a6c4b15695959d49.html",
+      "https://jinyuautos.com/blog/import-chinese-cars-to-chile/",
+      "https://loscontadores.cl/arancel-aduanero-en-chile/",
+      "https://www.aduana.gob.cl/cuales-son-los-impuestos-que-debo-pagar-al-importar/aduana/2020-11-16/110804.html",
+      "https://www.aduana.gob.cl/importacion-de-vehiculos/aduana/2017-11-22/101502.html",
+      "https://www.autoguia.cl/electromovilidad/2026/05/10/las-6-medidas-que-anac-le-pide-al-gobierno-para-que-los-autos-electricos-sean-mas-baratos-en-chile.html",
+      "https://www.huajiame.com/pl/knowledge/global-auto-import-tariff-guide"
+     ],
+     "extra": [
+      "ありません",
+      "いいえ",
+      "および",
+      "および",
+      "お支払いの前に",
+      "からではなく",
+      "から分離されます",
+      "から研究・執筆",
+      "が",
+      "が所有する写真は存在しません",
+      "が正式に確認した理由は",
+      "この記事では"
+     ]
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "https://www.autoguia.cl/electromovilidad/2026/05/10/las-6-medidas-que-anac-le-pide-al-gobierno-para-que-los-autos-electricos-sean-mas-baratos-en-chile.html",
+      "https://jinyuautos.com/blog/import-chinese-cars-to-chile/",
+      "https://www.aduana.gob.cl/cuales-son-los-impuestos-que-debo-pagar-al-importar/aduana/2020-11-16/110804.html",
+      "https://loscontadores.cl/arancel-aduanero-en-chile/",
+      "https://www.huajiame.com/pl/knowledge/global-auto-import-tariff-guide"
+     ]
+    },
+    {
+     "gate": "NUMBER_SPLIT",
+     "sample": [
+      "4. 3"
+     ]
+    }
+   ],
+   "AB-260902-G10_Commercial_Fleet_Procurement.ja.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "http://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_6685d244c4f4429e9a749a1a9f34bf19.html",
+      "http://www.hnrb.cn/2025/zhaobiaogonggao_0925/9717.html",
+      "https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html",
+      "https://www.charymachinery.com/the-step-by-step-guide-for-international-buyers-sourcing-commercial-vehicles-from-china.html",
+      "https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm",
+      "https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_7c50d6688ca34d1786a1bfd2ccde7d19.html"
+     ],
+     "extra": [
+      "いいえ",
+      "および",
+      "およびすべての商用条件",
+      "およびサードパーティの検査を満たしなければなりません",
+      "およびバルク注文は",
+      "および他の備品",
+      "および該当するサードパーティ",
+      "お知らせ",
+      "からの接合箇所の通知の下の輸出免許証を要求して下さい",
+      "からの純粋な",
+      "から研究・執筆",
+      "がライブで"
+     ]
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_7c50d6688ca34d1786a1bfd2ccde7d19.html",
+      "https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm",
+      "http://www.hnrb.cn/2025/zhaobiaogonggao_0925/9717.html",
+      "https://www.charymachinery.com/the-step-by-step-guide-for-international-buyers-sourcing-commercial-vehicles-from-china.html",
+      "http://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_6685d244c4f4429e9a749a1a9f34bf19.html"
+     ]
+    }
+   ],
+   "AB-260902-V01_BYD_Yuan_Plus_2024.ja.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "https://car.autohome.com.cn/config/series/6298-21793.html",
+      "https://chejiahao.m.autohome.com.cn/info/14756991",
+      "https://detail.zol.com.cn/series/2530/69565/param_10855221_0_1.html",
+      "https://newcar.xcar.com.cn/m72729/config.htm",
+      "https://openstd.samr.gov.cn/bzgk/std/newgbinfo?hcno=e2ebf667f8c032b1edfd6df9c1114e02",
+      "https://price.pcauto.com.cn/m127136/config.html",
+      "https://price.pcauto.com.cn/s48082/config.html",
+      "https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html",
+      "https://www-lf.dongchedi.com/article/7425573307363131931",
+      "https://www.autohome.com.cn/ask/23350747.html",
+      "https://www.byd.com/cn/dynasty-home/models/yuan/3-yuan-plus"
+     ],
+     "extra": [
+      "いいえ",
+      "およびユニットが工場",
+      "および接続された機能が",
+      "お支払い前の検証",
+      "から",
+      "から派生していない",
+      "から研究・執筆",
+      "か中国",
+      "がパラメーターサイトを超えて追加する",
+      "が所有する写真は存在しません",
+      "ここでは",
+      "ここにカバーされている中国線は"
+     ]
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "https://www.autohome.com.cn/ask/23350747.html",
+      "https://car.autohome.com.cn/config/series/6298-21793.html",
+      "https://detail.zol.com.cn/series/2530/69565/param_10855221_0_1.html",
+      "https://www-lf.dongchedi.com/article/7425573307363131931",
+      "https://newcar.xcar.com.cn/m72729/config.htm"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ".",
+      ".",
+      "."
+     ]
+    }
+   ],
+   "AB-260902-V02_Changan_UNI-V_2024.ja.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "https://auto.ifeng.com/c/8y79qxcfd3l",
+      "https://car.pcauto.com.cn/360/m128895/config.html",
+      "https://dealer.autohome.com.cn/2173671/spec_66852.html",
+      "https://www.autohome.com.cn/config/spec/66851.html",
+      "https://www.changan.com.cn/car/uni-v-2nd/",
+      "https://www.changan.com.cn/car/uni-v-high/",
+      "尊享",
+      "智慧领航",
+      "经典运动"
+     ],
+     "extra": [
+      "いいえ",
+      "および",
+      "および",
+      "から研究・執筆",
+      "がコンフィギュレータを超えて追加する",
+      "が所有する写真は存在しません",
+      "ここにカバー",
+      "このページは",
+      "この事実シートは",
+      "この車が何であるか",
+      "すべてのトリム",
+      "そのため"
+     ]
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "https://www.autohome.com.cn/config/spec/66851.html",
+      "https://auto.ifeng.com/c/8Y79qxCFD3L",
+      "https://www.changan.com.cn/car/UNI-V-high/",
+      "https://www.changan.com.cn/car/UNI-V-2nd/",
+      "https://car.pcauto.com.cn/360/m128895/config.html"
+     ]
+    }
+   ],
+   "AB-260902-V03_BYD_Qin_Plus_DMi_2024.ja.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "http://dealer.autohome.com.cn/2116572/spec_66744.html",
+      "https://chejiahao.m.autohome.com.cn/info/14654247",
+      "https://chejiahao.m.autohome.com.cn/info/18481020",
+      "https://m.guazi.com/qichecanshu/c163518812263347.html",
+      "https://newcar.xcar.com.cn/m72508/config.htm",
+      "https://price.pcauto.com.cn/m126873/config.html",
+      "https://www.byd.com/en-bh/car/qin-plus-dmi",
+      "领先型"
+     ],
+     "extra": [
+      "いいえ",
+      "および",
+      "およびハイブリッド",
+      "および燃料グレード",
+      "および輸入業者が確認しなければならないこと",
+      "お支払い前",
+      "か",
+      "から研究・執筆",
+      "が",
+      "があいまいです",
+      "がシステムとして指定されるべきなぜか",
+      "が広告されることはありません"
+     ]
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "https://www.byd.com/en-bh/car/qin-plus-dmi",
+      "https://price.pcauto.com.cn/m126873/config.html",
+      "https://chejiahao.m.autohome.com.cn/info/14654247",
+      "https://chejiahao.m.autohome.com.cn/info/18481020",
+      "https://m.guazi.com/qichecanshu/c163518812263347.html"
+     ]
+    }
+   ],
+   "AB-260902-V04_GAC_Trumpchi_M8_2024.ja.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "https://car.yiche.com/chuanqigm8/m173683/peizhi/",
+      "https://dealer.autohome.com.cn/2133191/spec_68518.html",
+      "https://price.pcauto.com.cn/m128883/config.html",
+      "https://www.gacgroup.com/en-kw/configuration/gac-m8/2024",
+      "https://www.gacmotor.com/2024m8zs_new/",
+      "https://www.gacmotor.com/m8xds_new/empow01.html",
+      "双擎",
+      "宗师",
+      "尊贵版",
+      "豪华版"
+     ],
+     "extra": [
+      "および接続されたサービスがメインランド中国外で確認し",
+      "および提供場所",
+      "お客様が",
+      "から研究・執筆",
+      "がパンフレットを超えて追加するもの",
+      "が存在し",
+      "が所有する写真は存在しません",
+      "この",
+      "このガイドは",
+      "このページは",
+      "この均質化証明書を駆動軸に読み取ります",
+      "すべての注文に表示する必要があります"
+     ]
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "https://price.pcauto.com.cn/m128883/config.html",
+      "https://dealer.autohome.com.cn/2133191/spec_68518.html",
+      "https://www.gacgroup.com/en-kw/configuration/gac-m8/2024",
+      "https://www.gacmotor.com/m8xds_new/empow01.html",
+      "https://www.gacmotor.com/2024m8zs_new/"
+     ]
+    }
+   ],
+   "AB-260902-V05_Great_Wall_Poer_2024.ja.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "200,000km",
+      "https://a.cheshi.com/bseries_4361/param.html",
+      "https://car.pcauto.com.cn/360/choose.jsp?mid=130087",
+      "https://gwmcars.co.uk/gwm-uk-launches-new-double-cab-pick-up/",
+      "https://pickup.gwm.com.cn/configure/yyp.html?carid=1000097",
+      "https://price.pcauto.com.cn/m128673/config.html",
+      "https://product.360che.com/m792/198189_param.html",
+      "https://www.autohome.com.cn/ask/7251342.html",
+      "https://www.gwmjordan.com/en/poer/poer?v=440",
+      "炮",
+      "炮"
+     ],
+     "extra": [
+      "000km",
+      "および",
+      "および正確な輸出ビルドを修正する方法",
+      "か",
+      "か",
+      "から研究・執筆",
+      "が",
+      "がパンフレットを超えて追加するもの",
+      "が所有する写真は存在しません",
+      "ここには述べていません",
+      "これは",
+      "されます"
+     ]
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "https://www.autohome.com.cn/ask/7251342.html",
+      "https://pickup.gwm.com.cn/configure/yyp.html?carId=1000097",
+      "https://gwmcars.co.uk/gwm-uk-launches-new-double-cab-pick-up/",
+      "https://price.pcauto.com.cn/m128673/config.html",
+      "https://car.pcauto.com.cn/360/choose.jsp?mid=130087"
+     ]
+    }
+   ]
+  }
  },
  "KO": {
   "expected": 80,
   "present": 80,
-  "pass": 80,
-  "fail": 0,
+  "pass": 0,
+  "fail": 80,
   "missing": 0,
-  "fail_detail": {}
+  "fail_detail": {
+   "AB-260902-G01_Russia_EV_Import_Guide.ko.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "http://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_6685d244c4f4429e9a749a1a9f34bf19.html",
+      "https://base.garant.ru/483421115/",
+      "https://findcert.ru/news/rastamozhka-elektromobilya-v-rossii/",
+      "https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html"
+     ],
+     "extra": [
+      "가",
+      "가",
+      "가",
+      "가",
+      "가",
+      "가격",
+      "가능한",
+      "가능한",
+      "가능한",
+      "가능한",
+      "가동으로",
+      "가이드"
+     ]
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "https://findcert.ru/news/rastamozhka-elektromobilya-v-rossii/",
+      "http://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_6685d244c4f4429e9a749a1a9f34bf19.html",
+      "https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html",
+      "https://base.garant.ru/483421115/"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ".",
+      ":",
+      ":"
+     ]
+    }
+   ],
+   "AB-260902-G02_Saudi_Truck_Import_Guide.ko.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "https://english.ajel.sa/news/f7sn5nj77",
+      "https://saber.sa/",
+      "https://www.globalshacman.com/saudi-truck-imports-face-new-saso-local-approval-rule.html",
+      "https://www.sinotruckexp.com/news/policy/policy_regulations/saudi_saso_mandates_iso_22513_2_rdi_for_heavy_trucks_from_aug_2026.html",
+      "https://www.trade.gov/country-commercial-guides/saudi-arabia-standards-trade"
+     ],
+     "extra": [
+      "가",
+      "가능",
+      "가능한",
+      "가능한",
+      "가능한",
+      "가능한",
+      "가능한",
+      "가능한",
+      "가능한",
+      "가능한",
+      "가벼운",
+      "가이드"
+     ]
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "https://english.ajel.sa/news/f7sn5nj77",
+      "https://saber.sa/",
+      "https://www.sinotruckexp.com/news/policy/Policy_Regulations/Saudi_SASO_Mandates_ISO_22513_2_RDI_for_Heavy_Trucks_from_Aug_2026.html",
+      "https://www.globalshacman.com/Saudi-Truck-Imports-Face-New-SASO-Local-Approval-Rule.html",
+      "https://www.trade.gov/country-commercial-guides/saudi-arabia-standards-trade"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ":",
+      ":",
+      ":"
+     ]
+    }
+   ],
+   "AB-260902-G03_Supplier_Audit_Vetting.ko.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "https://dcj.mofcom.gov.cn/article/zcfb/zcwg/202405/20240503510039.shtml",
+      "https://goodcantrading.com/how-to-check-china-supplier-business-license-authenticity/",
+      "https://guangzhou053049.11467.com/m/news/15260806.asp",
+      "https://m.11467.com/blog/d18906274.htm",
+      "https://www.huajiame.com/en-us/knowledge/how-verify-china-auto-export-supplier",
+      "https://www.plutoniaglobal.com/guides/verify-chinese-factory-legitimate",
+      "号",
+      "顺企网"
+     ],
+     "extra": [
+      "号의",
+      "顺企网의",
+      "가",
+      "가격",
+      "가늠자를",
+      "가능한",
+      "가능한",
+      "가능한",
+      "가득",
+      "가이드",
+      "가이드",
+      "가이드"
+     ]
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "https://dcj.mofcom.gov.cn/article/zcfb/zcwg/202405/20240503510039.shtml",
+      "https://m.11467.com/blog/d18906274.htm",
+      "https://www.plutoniaglobal.com/guides/verify-chinese-factory-legitimate",
+      "https://goodcantrading.com/how-to-check-china-supplier-business-license-authenticity/",
+      "https://www.huajiame.com/en-US/knowledge/how-verify-china-auto-export-supplier"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ":",
+      ":",
+      ":"
+     ]
+    }
+   ],
+   "AB-260902-G04_Used_Chinese_EV_Inspection.ko.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "https://hao.m.yiche.com/wenzhang/107776270/",
+      "https://lnclibattery.com/blog/evaluation-of-the-health-status-soh-of-lithium-ion-batteries/",
+      "https://www.chinesestandard.net/pdf.aspx/gbt31484-2015",
+      "https://www.jingsuncar.com/news/2026-must-see-guide-for-buying-used-new-energy-85493284.html",
+      "充电验证衰减方法",
+      "字节跳动",
+      "行业站",
+      "视频"
+     ],
+     "extra": [
+      "充电验证衰减方法년",
+      "字节跳动년",
+      "泡水",
+      "泡水",
+      "泡水",
+      "泡水",
+      "泡水",
+      "泡水",
+      "泡水",
+      "泡水",
+      "泡水",
+      "泡水"
+     ]
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "https://www.jingsuncar.com/news/2026-must-see-guide-for-buying-used-new-energy-85493284.html",
+      "https://lnclibattery.com/blog/evaluation-of-the-health-status-soh-of-lithium-ion-batteries/",
+      "https://www.chinesestandard.net/PDF.aspx/GBT31484-2015",
+      "https://hao.m.yiche.com/wenzhang/107776270/"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ".",
+      ":",
+      ":"
+     ]
+    }
+   ],
+   "AB-260902-G05_Charging_Standard_Compatibility.ko.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "http://www.huayutest.com/zixun/87747.html",
+      "https://m.cehome.com/news/20260809/389612.shtml",
+      "https://www.chademo.com/wp2016/wp-content/uploads/chaoji202006/chaoji_presenataion_en.pdf",
+      "https://www.electricautochina.com/comprehensive-b2b-guide-to-gbt-to-chademo-adapters-for-exported-chines/",
+      "https://www.maruikel.com/es/blog/guide-to-global-ev-charging-standards-type-1-type-2-ccs-chademo-gbt.html"
+     ],
+     "extra": [
+      "가",
+      "가",
+      "가",
+      "가능",
+      "가능한",
+      "가이드",
+      "가이드",
+      "가이드",
+      "가정합니다",
+      "가족",
+      "가지",
+      "가지"
+     ]
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "https://www.chademo.com/wp2016/wp-content/uploads/ChaoJi202006/ChaoJi_Presenataion_EN.pdf",
+      "https://www.maruikel.com/es/blog/guide-to-global-ev-charging-standards-type-1-type-2-ccs-chademo-gbt.html",
+      "http://www.huayutest.com/zixun/87747.html",
+      "https://m.cehome.com/news/20260809/389612.shtml",
+      "https://www.electricautochina.com/comprehensive-b2b-guide-to-gbt-to-chademo-adapters-for-exported-chines/"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ":",
+      ":",
+      ":"
+     ]
+    }
+   ],
+   "AB-260902-G06_RHD_Chinese_Cars.ko.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/25092921",
+      "https://m.autoreport.cn/guoji/20260829/19112676566.html",
+      "https://post.m.smzdm.com/p/aqrp0mkp/",
+      "https://www.fobev.com/vehicles/rhd-ready/",
+      "https://www.starviaauto.com/en/blog/right-hand-drive-chinese-cars-markets-guide",
+      "https://www.starviaauto.com/en/faq/which-chinese-vehicles-are-suitable-for-buyers-who-need-right-hand-drive"
+     ],
+     "extra": [
+      "가",
+      "가",
+      "가능성은",
+      "가능한",
+      "가용성",
+      "가용성은",
+      "가용성을",
+      "가이드",
+      "가이드",
+      "가이드는",
+      "가이드를",
+      "가족"
+     ]
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "https://www.starviaauto.com/en/blog/right-hand-drive-chinese-cars-markets-guide",
+      "https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/25092921",
+      "https://www.fobev.com/vehicles/rhd-ready/",
+      "https://m.autoreport.cn/guoji/20260829/19112676566.html",
+      "https://post.m.smzdm.com/p/aqrp0mkp/"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ":",
+      ":",
+      ":"
+     ]
+    }
+   ],
+   "AB-260902-G07_Marine_Cargo_Insurance.ko.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "https://academy.iccwbo.org/incoterms/article/incoterms-2020-cpt-or-cip/",
+      "https://assets.lloyds.com/media/dcb2ad19-4820-4b42-a5d0-0dcea17ef691/icca%201%201%2009%203.pdf",
+      "https://library.iccwbo.org/clp/clp-incoterms-2020vs2010.htm",
+      "https://planetcars.jp/index.php/ja/insurance",
+      "https://shglobalauto.com/blog/korean-used-car-export-insurance-guide",
+      "https://shglobalauto.com/blog/korean-used-car-marine-insurance-claim",
+      "https://voyagecover.com/guides/institute-cargo-clauses",
+      "https://voyagecover.com/guides/roro-vehicle-cargo-insurance-underwriter-decline",
+      "https://www.ascopeshipping.co.uk/marine-cargo-insurance/",
+      "https://www.laojinchuhai.com/en/insights/guide-marine-insurance",
+      "https://www.portlogics.com/insights/marine-cargo-insurance",
+      "保额公式"
+     ],
+     "extra": [
+      "保额公式년",
+      "覆盖范围년",
+      "가",
+      "가격",
+      "가격",
+      "가격",
+      "가격과",
+      "가격의",
+      "가능한",
+      "가능한",
+      "가변성",
+      "가이드"
+     ]
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "https://shglobalauto.com/blog/korean-used-car-marine-insurance-claim",
+      "https://voyagecover.com/guides/institute-cargo-clauses",
+      "https://www.portlogics.com/insights/marine-cargo-insurance",
+      "https://planetcars.jp/index.php/ja/insurance",
+      "https://academy.iccwbo.org/incoterms/article/incoterms-2020-cpt-or-cip/"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ":",
+      ":",
+      ":"
+     ]
+    }
+   ],
+   "AB-260902-G08_Infotainment_OTA_Localization.ko.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "http://www.ccidnet.com/hlw/93237.jhtml",
+      "https://chejiahao.m.autohome.com.cn/info/26145241?isfrom=pc",
+      "https://nevfix.net/blog/byd-sealion-07-ukraine-localization-case.html",
+      "https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-chinese-car-os-english-version/",
+      "https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-top-rated-chinese-car-brands-pr/",
+      "https://www.starviaauto.com/en/blog/making-chinese-ev-software-work-locally"
+     ],
+     "extra": [
+      "手机互联问题",
+      "手机互联问题",
+      "手机互联问题",
+      "手机互联问题",
+      "手机互联问题",
+      "手机互联问题",
+      "手机互联问题",
+      "手机互联问题",
+      "手机互联问题",
+      "手机互联问题",
+      "手机互联问题",
+      "手机互联问题"
+     ]
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-chinese-car-os-english-version/",
+      "https://www.starviaauto.com/en/blog/making-chinese-ev-software-work-locally",
+      "https://chejiahao.m.autohome.com.cn/info/26145241?isfrom=pc",
+      "https://nevfix.net/blog/byd-sealion-07-ukraine-localization-case.html",
+      "https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-top-rated-chinese-car-brands-pr/"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ":",
+      ":",
+      ":"
+     ]
+    }
+   ],
+   "AB-260902-G09_Chile_China_FTA_EV_Import.ko.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "http://cl.mofcom.gov.cn/zcfg/hg/art/2025/art_4febd3af37374813a6c4b15695959d49.html",
+      "https://jinyuautos.com/blog/import-chinese-cars-to-chile/",
+      "https://loscontadores.cl/arancel-aduanero-en-chile/",
+      "https://www.aduana.gob.cl/cuales-son-los-impuestos-que-debo-pagar-al-importar/aduana/2020-11-16/110804.html",
+      "https://www.aduana.gob.cl/importacion-de-vehiculos/aduana/2017-11-22/101502.html",
+      "https://www.autoguia.cl/electromovilidad/2026/05/10/las-6-medidas-que-anac-le-pide-al-gobierno-para-que-los-autos-electricos-sean-mas-baratos-en-chile.html",
+      "https://www.huajiame.com/pl/knowledge/global-auto-import-tariff-guide",
+      "全球汽车进口关税指南",
+      "行业站"
+     ],
+     "extra": [
+      "全球汽车进口关税指南의",
+      "行业站년",
+      "가",
+      "가",
+      "가격",
+      "가격에",
+      "가능한",
+      "가동",
+      "가이드",
+      "가이드",
+      "가이드는",
+      "가이드는"
+     ]
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "https://www.autoguia.cl/electromovilidad/2026/05/10/las-6-medidas-que-anac-le-pide-al-gobierno-para-que-los-autos-electricos-sean-mas-baratos-en-chile.html",
+      "https://jinyuautos.com/blog/import-chinese-cars-to-chile/",
+      "https://www.aduana.gob.cl/cuales-son-los-impuestos-que-debo-pagar-al-importar/aduana/2020-11-16/110804.html",
+      "https://loscontadores.cl/arancel-aduanero-en-chile/",
+      "https://www.huajiame.com/pl/knowledge/global-auto-import-tariff-guide"
+     ]
+    },
+    {
+     "gate": "NUMBER_SPLIT",
+     "sample": [
+      "4. 3"
+     ]
+    }
+   ],
+   "AB-260902-G10_Commercial_Fleet_Procurement.ko.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "http://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_6685d244c4f4429e9a749a1a9f34bf19.html",
+      "http://www.hnrb.cn/2025/zhaobiaogonggao_0925/9717.html",
+      "https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html",
+      "https://www.charymachinery.com/the-step-by-step-guide-for-international-buyers-sourcing-commercial-vehicles-from-china.html",
+      "https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm"
+     ],
+     "extra": [
+      "가",
+      "가격",
+      "가격",
+      "가격",
+      "가격",
+      "가능한",
+      "가능한",
+      "가능한",
+      "가버",
+      "가용성",
+      "가이드",
+      "가이드"
+     ]
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "http://www.hnrb.cn/2025/zhaobiaogonggao_0925/9717.html",
+      "http://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_6685d244c4f4429e9a749a1a9f34bf19.html",
+      "https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html",
+      "https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm",
+      "https://www.charymachinery.com/the-step-by-step-guide-for-international-buyers-sourcing-commercial-vehicles-from-china.html"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ".",
+      ":",
+      ":"
+     ]
+    }
+   ],
+   "AB-260902-V01_BYD_Yuan_Plus_2024.ko.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "https://car.autohome.com.cn/config/series/6298-21793.html",
+      "https://chejiahao.m.autohome.com.cn/info/14756991",
+      "https://detail.zol.com.cn/series/2530/69565/param_10855221_0_1.html",
+      "https://newcar.xcar.com.cn/m72729/config.htm",
+      "https://openstd.samr.gov.cn/bzgk/std/newgbinfo?hcno=e2ebf667f8c032b1edfd6df9c1114e02",
+      "https://price.pcauto.com.cn/m127136/config.html",
+      "https://price.pcauto.com.cn/s48082/config.html",
+      "https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html",
+      "https://www.autohome.com.cn/ask/23350747.html",
+      "https://www.byd.com/cn/dynasty-home/models/yuan/3-yuan-plus",
+      "参数配置表",
+      "荣耀版上市新闻"
+     ],
+     "extra": [
+      "元",
+      "参数配置表를",
+      "荣耀版上市新闻년",
+      "가",
+      "가",
+      "가격은",
+      "가격은",
+      "가격은",
+      "가능한",
+      "가로",
+      "가로",
+      "가역"
+     ]
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "https://www.autohome.com.cn/ask/23350747.html",
+      "https://car.autohome.com.cn/config/series/6298-21793.html",
+      "https://detail.zol.com.cn/series/2530/69565/param_10855221_0_1.html",
+      "https://newcar.xcar.com.cn/m72729/config.htm",
+      "https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ":",
+      ":",
+      ":"
+     ]
+    }
+   ],
+   "AB-260902-V02_Changan_UNI-V_2024.ko.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "https://auto.ifeng.com/c/8y79qxcfd3l",
+      "https://car.pcauto.com.cn/360/m128895/config.html",
+      "https://dealer.autohome.com.cn/2173671/spec_66852.html",
+      "https://www.autohome.com.cn/config/spec/66851.html",
+      "https://www.changan.com.cn/car/uni-v-2nd/",
+      "https://www.changan.com.cn/car/uni-v-high/",
+      "太平洋汽车",
+      "尊贵型"
+     ],
+     "extra": [
+      "太平洋汽车년",
+      "尊贵型년",
+      "가",
+      "가격",
+      "가격",
+      "가격은",
+      "가능한",
+      "가솔린",
+      "가솔린",
+      "가솔린",
+      "가솔린",
+      "가솔린"
+     ]
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "https://www.autohome.com.cn/config/spec/66851.html",
+      "https://auto.ifeng.com/c/8Y79qxCFD3L",
+      "https://www.changan.com.cn/car/UNI-V-high/",
+      "https://www.changan.com.cn/car/UNI-V-2nd/",
+      "https://car.pcauto.com.cn/360/m128895/config.html"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ".",
+      ":",
+      ":"
+     ]
+    }
+   ],
+   "AB-260902-V03_BYD_Qin_Plus_DMi_2024.ko.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "http://dealer.autohome.com.cn/2116572/spec_66744.html",
+      "https://chejiahao.m.autohome.com.cn/info/14654247",
+      "https://chejiahao.m.autohome.com.cn/info/18481020",
+      "https://m.guazi.com/qichecanshu/c163518812263347.html",
+      "https://newcar.xcar.com.cn/m72508/config.htm",
+      "https://price.pcauto.com.cn/m126873/config.html",
+      "https://www.byd.com/en-bh/car/qin-plus-dmi",
+      "领先型"
+     ],
+     "extra": [
+      "领先型를",
+      "가",
+      "가",
+      "가격은",
+      "가격은",
+      "가능한",
+      "가로",
+      "가변",
+      "가속이",
+      "가솔린",
+      "가이드",
+      "가이드"
+     ]
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "https://www.byd.com/en-bh/car/qin-plus-dmi",
+      "https://price.pcauto.com.cn/m126873/config.html",
+      "https://chejiahao.m.autohome.com.cn/info/14654247",
+      "https://chejiahao.m.autohome.com.cn/info/18481020",
+      "https://m.guazi.com/qichecanshu/c163518812263347.html"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ".",
+      ".",
+      ":"
+     ]
+    }
+   ],
+   "AB-260902-V04_GAC_Trumpchi_M8_2024.ko.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "https://car.yiche.com/chuanqigm8/m173683/peizhi/",
+      "https://dealer.autohome.com.cn/2133191/spec_68518.html",
+      "https://price.pcauto.com.cn/m128883/config.html",
+      "https://www.gacgroup.com/en-kw/configuration/gac-m8/2024",
+      "https://www.gacmotor.com/2024m8zs_new/",
+      "https://www.gacmotor.com/m8xds_new/empow01.html",
+      "太平洋汽车",
+      "豪华版",
+      "豪华版"
+     ],
+     "extra": [
+      "太平洋汽车년",
+      "豪华版는",
+      "豪华版의",
+      "가",
+      "가",
+      "가격",
+      "가격",
+      "가격",
+      "가격",
+      "가능한",
+      "가솔린",
+      "가솔린"
+     ]
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "https://price.pcauto.com.cn/m128883/config.html",
+      "https://dealer.autohome.com.cn/2133191/spec_68518.html",
+      "https://www.gacgroup.com/en-kw/configuration/gac-m8/2024",
+      "https://www.gacmotor.com/m8xds_new/empow01.html",
+      "https://www.gacmotor.com/2024m8zs_new/"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ":",
+      ":",
+      ":"
+     ]
+    }
+   ],
+   "AB-260902-V05_Great_Wall_Poer_2024.ko.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "200,000km",
+      "https://a.cheshi.com/bseries_4361/param.html",
+      "https://car.pcauto.com.cn/360/choose.jsp?mid=130087",
+      "https://gwmcars.co.uk/gwm-uk-launches-new-double-cab-pick-up/",
+      "https://pickup.gwm.com.cn/configure/yyp.html?carid=1000097",
+      "https://price.pcauto.com.cn/m128673/config.html",
+      "https://product.360che.com/m792/198189_param.html",
+      "https://www.gwmjordan.com/en/poer/poer?v=440",
+      "太平洋汽车"
+     ],
+     "extra": [
+      "000km",
+      "太平洋汽车년",
+      "가",
+      "가",
+      "가",
+      "가",
+      "가격",
+      "가격은",
+      "가능한",
+      "가득",
+      "가라",
+      "가솔린"
+     ]
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "https://pickup.gwm.com.cn/configure/yyp.html?carId=1000097",
+      "https://gwmcars.co.uk/gwm-uk-launches-new-double-cab-pick-up/",
+      "https://price.pcauto.com.cn/m128673/config.html",
+      "https://car.pcauto.com.cn/360/choose.jsp?mid=130087",
+      "https://www.gwmjordan.com/en/poer/poer?v=440"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ":",
+      ":",
+      ":"
+     ]
+    }
+   ]
+  }
  },
  "VI": {
   "expected": 80,
   "present": 80,
-  "pass": 80,
-  "fail": 0,
+  "pass": 65,
+  "fail": 15,
   "missing": 0,
-  "fail_detail": {}
+  "fail_detail": {
+   "AB-260902-G01_Russia_EV_Import_Guide.vi.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "https://regulation.eaeunion.org/"
+     ],
+     "extra": []
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "https://regulation.eaeunion.org/"
+     ]
+    }
+   ],
+   "AB-260902-G06_RHD_Chinese_Cars.vi.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "https://post.m.smzdm.com/p/aqrp0mkp/"
+     ],
+     "extra": []
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "https://post.m.smzdm.com/p/aqrp0mkp/"
+     ]
+    }
+   ],
+   "AB-260902-V02_Changan_UNI-V_2024.vi.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "高能"
+     ],
+     "extra": []
+    }
+   ],
+   "AB-260902-V04_GAC_Trumpchi_M8_2024.vi.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [],
+     "extra": [
+      "双擎"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ":"
+     ]
+    }
+   ],
+   "AB-260902-V05_Great_Wall_Poer_2024.vi.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "200,000km"
+     ],
+     "extra": [
+      "000km"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ";"
+     ]
+    }
+   ],
+   "AB-260902-V06_Forthing_Lingzhi_M5_2024.vi.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "100,000km"
+     ],
+     "extra": [
+      "000km"
+     ]
+    }
+   ],
+   "AB-260903-G05_EV_Shipping_UN3171.vi.md": [
+    {
+     "gate": "NUMBER_SPLIT",
+     "sample": [
+      "1.\n3"
+     ]
+    }
+   ],
+   "AB-260903-V07_Yutong_ZK6122.vi.md": [
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      "."
+     ]
+    }
+   ],
+   "AB-260904-G01_Vehicle_Export_HS_Code.vi.md": [
+    {
+     "gate": "NUMBER_SPLIT",
+     "sample": [
+      "1.\n3"
+     ]
+    }
+   ],
+   "AB-260904-G07_VIN_Nameplate.vi.md": [
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ":"
+     ]
+    }
+   ],
+   "AB-260904-V04_GWM_Haval_Jolion.vi.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [],
+     "extra": [
+      "哈弗初恋"
+     ]
+    }
+   ],
+   "AB-260905-G10_TIR_Road_Transport.vi.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "http://www.customs.gov.cn/customs/attachdir/2026/01/%e6%b5%b7%e5%85%b3%e6%80%bb%e7%bd%b2%e5%85%b3%e4%ba%8e%e4%bc%98%e5%8c%96%e8%90%bd%e5%ae%9etir%e5%85%ac%e7%ba%a6%e6%9c%89%e5%85%b3%e4%ba%8b%e9%a1%b9%e7%9a%84%e5%85%ac%e5%91%8a%20(1"
+     ],
+     "extra": []
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "http://www.customs.gov.cn/customs/attachDir/2026/01/%E6%B5%B7%E5%85%B3%E6%80%BB%E7%BD%B2%E5%85%B3%E4%BA%8E%E4%BC%98%E5%8C%96%E8%90%BD%E5%AE%9ETIR%E5%85%AC%E7%BA%A6%E6%9C%89%E5%85%B3%E4%BA%8B%E9%A1%B9%E7%9A%84%E5%85%AC%E5%91%8A%20(1"
+     ]
+    }
+   ],
+   "AB-260905-V03_Forthing_Youting.vi.md": [
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ":"
+     ]
+    }
+   ],
+   "AB-260905-V04_Geely_Xingyuan.vi.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [],
+     "extra": [
+      "星愿"
+     ]
+    }
+   ],
+   "AB-260905-V09_Shacman_M3000S.vi.md": [
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ":"
+     ]
+    }
+   ]
+  }
  },
  "TH": {
   "expected": 80,
   "present": 80,
-  "pass": 80,
-  "fail": 0,
+  "pass": 0,
+  "fail": 80,
   "missing": 0,
-  "fail_detail": {}
+  "fail_detail": {
+   "AB-260902-G01_Russia_EV_Import_Guide.th.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "https://regulation.eaeunion.org/"
+     ],
+     "extra": [
+      "กฎการส่งออก",
+      "กฎการแบ่งเขต",
+      "กฎของสหภาพศุลกากรถูกประกาศยกเลิก",
+      "กรมทะเบียน",
+      "กรอบการรับข้อมูลของเรา",
+      "กระชับและปรับปรุงวันที่ที่แตกต่างกัน",
+      "กระดูกสันหลังขององค์กร",
+      "กระดูกหลังที่ตั้งรกราก",
+      "กราวัส",
+      "กล่าว",
+      "กว่า",
+      "กอกกอนส"
+     ]
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "https://regulation.eaeunion.org/"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      "."
+     ]
+    }
+   ],
+   "AB-260902-G02_Saudi_Truck_Import_Guide.th.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [],
+     "extra": [
+      "กฎ",
+      "กฎ",
+      "กฎ",
+      "กฎ",
+      "กฎความชอบในท้องถิ่น",
+      "กฎระเบียบการคงทน",
+      "กฎเทคนิค",
+      "กรม",
+      "กรมพาณิชย์ระหว่างประเทศ",
+      "กล่อง",
+      "กล่าว",
+      "กว่า"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ".",
+      ".",
+      "."
+     ]
+    }
+   ],
+   "AB-260902-G03_Supplier_Audit_Vetting.th.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [],
+     "extra": [
+      "กฎการอนุญาตภายในและไม่มีการตีพิมพ์",
+      "กฎของการจําแนกพันธุ์",
+      "กฎหมาย",
+      "กฎหมาย",
+      "กรมศุภรณ์",
+      "กรมศุภรณ์",
+      "กรมศุภรณ์",
+      "กรรมวิธีส่งออกรถบรรทุกภายใน",
+      "กรอบการจ่ายเงินตามขั้นตอน",
+      "กังจู",
+      "การ",
+      "การกลับหน้าเป๊ะ"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ".",
+      ";"
+     ]
+    }
+   ],
+   "AB-260902-G04_Used_Chinese_EV_Inspection.th.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [],
+     "extra": [
+      "กฎ",
+      "กฎ",
+      "กฎ",
+      "กฎหมาย",
+      "กลับหน้า",
+      "กล่องฟิวส์และคอกแบตเตอรี่สําหรับสายน้ํา",
+      "กับ",
+      "กับ",
+      "กาย",
+      "การ",
+      "การ",
+      "การ"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      "."
+     ]
+    }
+   ],
+   "AB-260902-G05_Charging_Standard_Compatibility.th.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [],
+     "extra": [
+      "กองทุนสิ่งแวดล้อมจีน",
+      "กัน",
+      "กับ",
+      "การ",
+      "การ",
+      "การ",
+      "การ",
+      "การ",
+      "การกลับหน้าเป๊ะ",
+      "การค้นหาตามวาระที่",
+      "การจับมือมีความสําคัญมากเท่ากับรูปร่างปลั๊ก",
+      "การชาร์จความเข้ากันได้คือ"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ".",
+      ".",
+      "."
+     ]
+    }
+   ],
+   "AB-260902-G06_RHD_Chinese_Cars.th.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "https://post.m.smzdm.com/p/aqrp0mkp/"
+     ],
+     "extra": [
+      "กฎ",
+      "กฎหมาย",
+      "กฏของ",
+      "กฏหมายและการส่งออก",
+      "กรกฎาคม",
+      "กระทบ",
+      "กรุงเทพฯ",
+      "กรุงเทพฯ",
+      "กรุงเทพฯ",
+      "กลยุทธ์ของ",
+      "กลุ่ม",
+      "การ"
+     ]
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "https://post.m.smzdm.com/p/aqrp0mkp/"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ";",
+      ".",
+      "."
+     ]
+    }
+   ],
+   "AB-260902-G07_Marine_Cargo_Insurance.th.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [],
+     "extra": [
+      "กก",
+      "กฎ",
+      "กรมการประกันภัยของผู้ขาย",
+      "กรมการันตีคาโกคลอสอย่างเป็นทางการ",
+      "กรมขนส่งทางทะเล",
+      "กรมควบคุมการคมนาคม",
+      "กรมประกัน",
+      "กระบอกสูบ",
+      "กว่า",
+      "กว่า",
+      "กว้าง",
+      "กอลบอล"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ".",
+      ".",
+      "."
+     ]
+    }
+   ],
+   "AB-260902-G08_Infotainment_OTA_Localization.th.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [],
+     "extra": [
+      "กรณี",
+      "กรมบัญชีไบดี",
+      "กว่า",
+      "กัน",
+      "กัน",
+      "กัน",
+      "กับ",
+      "กับ",
+      "กับกฎการวิทยุ",
+      "กับภาษาอย่างเดียว",
+      "การ",
+      "การ"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ".",
+      "."
+     ]
+    }
+   ],
+   "AB-260902-G09_Chile_China_FTA_EV_Import.th.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [],
+     "extra": [
+      "กฎ",
+      "กฎของ",
+      "กฎของผู้ส่งของ",
+      "กฎนั้นเกี่ยวกับ",
+      "กติกาทั่วไปอย่างชัดเจน",
+      "กรมทะเบียนประเทศจีนแห่งประเทศชิลี",
+      "กรมปราบของแหล่งกําเนิด",
+      "กรมศุลกากรรัฐบาล",
+      "กรมโฆษณา",
+      "กระบวนการตรวจสอบความปลอดภัย",
+      "กล่าว",
+      "กับ"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ".",
+      ".",
+      "."
+     ]
+    }
+   ],
+   "AB-260902-G10_Commercial_Fleet_Procurement.th.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [],
+     "extra": [
+      "กฎการจําหน่ายรถยนต์",
+      "กรมการส่งออกและยอมรับ",
+      "กรมพาณิชย์",
+      "กรมพาณิชย์",
+      "กรมพาณิชย์",
+      "กรรโชก",
+      "กรอบ",
+      "กรอบ",
+      "กรอบที่แนะนําคือ",
+      "กรอบอาวุธและเสริมสร้างแรงขับ",
+      "กองเรือขนส่งรถบรรทุกพาณิชย์จํานวนมาก",
+      "กองเรือเอกจีน"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ";"
+     ]
+    }
+   ],
+   "AB-260902-V01_BYD_Yuan_Plus_2024.th.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [],
+     "extra": [
+      "กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูลจีน",
+      "กระสา",
+      "กว่าใต้",
+      "กัน",
+      "กัน",
+      "กับ",
+      "กับทั้งป้าย",
+      "กาฝาก",
+      "การ",
+      "การ",
+      "การ",
+      "การ"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ".",
+      ".",
+      "."
+     ]
+    }
+   ],
+   "AB-260902-V02_Changan_UNI-V_2024.th.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [],
+     "extra": [
+      "กก",
+      "กรมพาวุธ",
+      "กรมย่อย",
+      "กรมย่อย",
+      "กรมหมื่น",
+      "กรมหมื่น",
+      "กรมหมื่น",
+      "กรมหมื่น",
+      "กรมหมื่นม",
+      "กระท่อม",
+      "กลไก",
+      "กังหันลม"
+     ]
+    }
+   ],
+   "AB-260902-V03_BYD_Qin_Plus_DMi_2024.th.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [],
+     "extra": [
+      "กฎของผู้ใช้",
+      "กระแสไฟฟ้าอย่างเดียวคือ",
+      "กับ",
+      "กับ",
+      "กับชื่ออื่น",
+      "กัวซิ",
+      "กาฝาก",
+      "การกลับหน้าเป๊ะ",
+      "การค้นหาโดยย่อ",
+      "การชาร์จต่าง",
+      "การตรวจสอบหรือการทําธุรกรรมจริง",
+      "การทบทวนแก้ไข"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      "."
+     ]
+    }
+   ],
+   "AB-260902-V04_GAC_Trumpchi_M8_2024.th.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [],
+     "extra": [
+      "กงล้อในร่าง",
+      "กรมหมื่นคุณยายที่",
+      "กรุ๊ปยังได้ตีพิมพ์ข่าวต่างประเทศด้วย",
+      "กลางด้วย",
+      "กลไก",
+      "กลไก",
+      "กอง",
+      "กับ",
+      "กับ",
+      "กาซีขาย",
+      "การ",
+      "การ"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ".",
+      ".",
+      "."
+     ]
+    }
+   ],
+   "AB-260902-V05_Great_Wall_Poer_2024.th.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [],
+     "extra": [
+      "กงล้อคืออะไร",
+      "กรอบบนชั้นบันไดสองแท็กซี่สองจาน",
+      "กระดูกสองข้างหน้า",
+      "กัน",
+      "กับน้ํามันดีเซล",
+      "กับใบ",
+      "การ",
+      "การ",
+      "การ",
+      "การ",
+      "การกลับหน้าเป๊ะ",
+      "การค้นหาตามวาระของรายการย่อย"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ";",
+      ";",
+      ";"
+     ]
+    }
+   ]
+  }
  },
  "ID": {
   "expected": 80,
   "present": 80,
-  "pass": 80,
-  "fail": 0,
+  "pass": 67,
+  "fail": 13,
   "missing": 0,
-  "fail_detail": {}
+  "fail_detail": {
+   "AB-260902-G03_Supplier_Audit_Vetting.id.md": [
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      "."
+     ]
+    }
+   ],
+   "AB-260902-G06_RHD_Chinese_Cars.id.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "https://post.m.smzdm.com/p/aqrp0mkp/"
+     ],
+     "extra": []
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "https://post.m.smzdm.com/p/aqrp0mkp/"
+     ]
+    }
+   ],
+   "AB-260902-G07_Marine_Cargo_Insurance.id.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [],
+     "extra": [
+      "固有缺陷除外"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ".",
+      ".",
+      "."
+     ]
+    }
+   ],
+   "AB-260902-G09_Chile_China_FTA_EV_Import.id.md": [
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ".",
+      "."
+     ]
+    }
+   ],
+   "AB-260903-G05_EV_Shipping_UN3171.id.md": [
+    {
+     "gate": "NUMBER_SPLIT",
+     "sample": [
+      "1.\n3"
+     ]
+    }
+   ],
+   "AB-260903-G07_MiddleEast_HeatDust.id.md": [
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      "."
+     ]
+    }
+   ],
+   "AB-260903-G08_Africa_Age_Limits.id.md": [
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      "."
+     ]
+    }
+   ],
+   "AB-260903-G09_Aftersales_Network.id.md": [
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      "."
+     ]
+    }
+   ],
+   "AB-260904-G01_Vehicle_Export_HS_Code.id.md": [
+    {
+     "gate": "NUMBER_SPLIT",
+     "sample": [
+      "1.\n3"
+     ]
+    }
+   ],
+   "AB-260904-V02_BYD_QinL_DMi.id.md": [
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ".",
+      "."
+     ]
+    }
+   ],
+   "AB-260904-V05_Chery_FulwinT9.id.md": [
+    {
+     "gate": "NUMBER_SPLIT",
+     "sample": [
+      "3. 5"
+     ]
+    }
+   ],
+   "AB-260904-V07_JAC_T9Hunter.id.md": [
+    {
+     "gate": "NUMBER_SPLIT",
+     "sample": [
+      "2. 4"
+     ]
+    }
+   ],
+   "AB-260905-V10_AUMAN_EST.id.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [],
+     "extra": [
+      "配置与出口适配性",
+      "配置与出口适配性"
+     ]
+    }
+   ]
+  }
  },
  "AR": {
   "expected": 80,
   "present": 80,
-  "pass": 80,
-  "fail": 0,
+  "pass": 0,
+  "fail": 80,
   "missing": 0,
-  "fail_detail": {}
+  "fail_detail": {
+   "AB-260902-G01_Russia_EV_Import_Guide.ar.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "https://regulation.eaeunion.org/"
+     ],
+     "extra": [
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،"
+     ]
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "https://regulation.eaeunion.org/"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ":"
+     ]
+    }
+   ],
+   "AB-260902-G02_Saudi_Truck_Import_Guide.ar.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [],
+     "extra": [
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،"
+     ]
+    }
+   ],
+   "AB-260902-G03_Supplier_Audit_Vetting.ar.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "顺企网"
+     ],
+     "extra": [
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "؛",
+      "؛",
+      "؛",
+      "؟"
+     ]
+    }
+   ],
+   "AB-260902-G04_Used_Chinese_EV_Inspection.ar.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [],
+     "extra": [
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ":",
+      ".",
+      ":"
+     ]
+    }
+   ],
+   "AB-260902-G05_Charging_Standard_Compatibility.ar.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [],
+     "extra": [
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،"
+     ]
+    }
+   ],
+   "AB-260902-G06_RHD_Chinese_Cars.ar.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "https://post.m.smzdm.com/p/aqrp0mkp/"
+     ],
+     "extra": [
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "؛",
+      "؛"
+     ]
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "https://post.m.smzdm.com/p/aqrp0mkp/"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ":",
+      ":"
+     ]
+    }
+   ],
+   "AB-260902-G07_Marine_Cargo_Insurance.ar.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [],
+     "extra": [
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ":",
+      ":"
+     ]
+    }
+   ],
+   "AB-260902-G08_Infotainment_OTA_Localization.ar.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "中国汽车出海",
+      "智能化为何"
+     ],
+     "extra": [
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ":"
+     ]
+    }
+   ],
+   "AB-260902-G09_Chile_China_FTA_EV_Import.ar.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [],
+     "extra": [
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "؛",
+      "؛",
+      "؛"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ":"
+     ]
+    }
+   ],
+   "AB-260902-G10_Commercial_Fleet_Procurement.ar.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [],
+     "extra": [
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،"
+     ]
+    }
+   ],
+   "AB-260902-V01_BYD_Yuan_Plus_2024.ar.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [],
+     "extra": [
+      "،",
+      "،",
+      "؛",
+      "؛",
+      "؛",
+      "؟",
+      "؟",
+      "؟",
+      "؟",
+      "أبدا",
+      "أبداً",
+      "أبداً"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ":"
+     ]
+    }
+   ],
+   "AB-260902-V02_Changan_UNI-V_2024.ar.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [],
+     "extra": [
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "؛",
+      "؛",
+      "؛",
+      "؛",
+      "؟"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ":"
+     ]
+    }
+   ],
+   "AB-260902-V03_BYD_Qin_Plus_DMi_2024.ar.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [],
+     "extra": [
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،"
+     ]
+    }
+   ],
+   "AB-260902-V04_GAC_Trumpchi_M8_2024.ar.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [],
+     "extra": [
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،"
+     ]
+    }
+   ],
+   "AB-260902-V05_Great_Wall_Poer_2024.ar.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [],
+     "extra": [
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،",
+      "،"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ":"
+     ]
+    }
+   ]
+  }
  },
  "ZH": {
   "expected": 80,
   "present": 80,
-  "pass": 80,
-  "fail": 0,
+  "pass": 0,
+  "fail": 80,
   "missing": 0,
-  "fail_detail": {}
+  "fail_detail": {
+   "AB-260902-G01_Russia_EV_Import_Guide.zh.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [],
+     "extra": [
+      "一",
+      "一份",
+      "一份",
+      "一再改变的是单辆",
+      "一项要求改变执行细节的条例",
+      "三",
+      "上次审查",
+      "不",
+      "不作为单一借款百分比",
+      "不存在",
+      "不引用媒体数字",
+      "不得公布第三方图像"
+     ]
+    }
+   ],
+   "AB-260902-G02_Saudi_Truck_Import_Guide.zh.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [],
+     "extra": [
+      "一个",
+      "一个小提琴手",
+      "一些商业",
+      "一旦知道证书路线",
+      "一条索赔",
+      "一辆卡车需要其精确的",
+      "一项索赔的",
+      "上次审查",
+      "上识别",
+      "不仅仅是四位数标题",
+      "不作为事实处理的更改",
+      "不假定每辆商业卡车都遵守一项条例"
+     ]
+    },
+    {
+     "gate": "LENGTH_RATIO",
+     "en": 16564,
+     "x": 7939
+    }
+   ],
+   "AB-260902-G03_Supplier_Audit_Vetting.zh.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [],
+     "extra": [
+      "一个名字与合同公司不符的收款人银行账户",
+      "一个无法生产品牌授权的出口商",
+      "一个经认证的经济经营者",
+      "一个自称为工厂的贸易公司",
+      "上市资格公司出口",
+      "上次审查",
+      "上的业务异常",
+      "下达审判令",
+      "不",
+      "不存在",
+      "不得公布第三方图像",
+      "不得暗示特定的修饰"
+     ]
+    },
+    {
+     "gate": "LENGTH_RATIO",
+     "en": 14183,
+     "x": 7145
+    }
+   ],
+   "AB-260902-G04_Used_Chinese_EV_Inspection.zh.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "https://www.iec.ch/",
+      "东盟"
+     ],
+     "extra": [
+      "一个",
+      "一个中心目标是准确的说出",
+      "一个磨损的包体清洁体比起运输后的更换成本可能价值较低",
+      "上下缓冲",
+      "上次审查",
+      "下制定",
+      "不",
+      "不一定适用于旧使用的单位",
+      "不同的工具",
+      "不存在",
+      "不存在普遍的法律",
+      "不平衡"
+     ]
+    },
+    {
+     "gate": "URL_SET",
+     "missing": [
+      "https://www.iec.ch/"
+     ]
+    },
+    {
+     "gate": "LENGTH_RATIO",
+     "en": 16912,
+     "x": 7851
+    }
+   ],
+   "AB-260902-G05_Charging_Standard_Compatibility.zh.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [],
+     "extra": [
+      "一些市场限制适配器的使用",
+      "一家中国市场",
+      "一种中国",
+      "一般采用",
+      "三条解决之道",
+      "上次审查",
+      "上载的软件和认证都是对齐的",
+      "不从国内谱推断",
+      "不同",
+      "不存在",
+      "不得公布第三方图像",
+      "不得暗示特定的修饰"
+     ]
+    },
+    {
+     "gate": "LENGTH_RATIO",
+     "en": 12863,
+     "x": 6877
+    }
+   ],
+   "AB-260902-G06_RHD_Chinese_Cars.zh.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [],
+     "extra": [
+      "一个背景数字",
+      "一次正式发布加行业快照",
+      "一般来说",
+      "上次审查",
+      "不存在",
+      "不得公布第三方图像",
+      "不得暗示特定的修饰",
+      "不按中国市场名称进行配对",
+      "不接受占位符或",
+      "不是修理问题",
+      "不适用",
+      "与"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ",",
+      ",",
+      ","
+     ]
+    },
+    {
+     "gate": "LENGTH_RATIO",
+     "en": 12302,
+     "x": 6734
+    }
+   ],
+   "AB-260902-G07_Marine_Cargo_Insurance.zh.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [],
+     "extra": [
+      "一种无声的单证信贷通常需要确定可确定的",
+      "一辆被刮伤",
+      "三条款的层次",
+      "上",
+      "上",
+      "上",
+      "上次审查",
+      "不同于",
+      "不存在",
+      "不属于",
+      "不得公布第三方图像",
+      "不得暗示特定的修饰"
+     ]
+    }
+   ],
+   "AB-260902-G08_Infotainment_OTA_Localization.zh.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [],
+     "extra": [
+      "一个",
+      "一个",
+      "一个中国的总部单位",
+      "一个有文献记载的",
+      "一个模型的案例并不确立另一个模型的行为",
+      "一些中国市场建造的船中国地图",
+      "一款",
+      "三角不同",
+      "上",
+      "上",
+      "上",
+      "上次审查"
+     ]
+    },
+    {
+     "gate": "LENGTH_RATIO",
+     "en": 14102,
+     "x": 7126
+    }
+   ],
+   "AB-260902-G09_Chile_China_FTA_EV_Import.zh.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "中智"
+     ],
+     "extra": [
+      "一个符合要求的中国原创",
+      "一个行业来源引用的比数值高的百分比",
+      "一致",
+      "一般从价税是",
+      "一般责任",
+      "上次审查",
+      "不",
+      "不合格",
+      "不存在",
+      "不将建议引文列入",
+      "不得公布第三方图像",
+      "不得对所运车辆适用信使脱密逻辑"
+     ]
+    },
+    {
+     "gate": "LENGTH_RATIO",
+     "en": 12992,
+     "x": 6885
+    }
+   ],
+   "AB-260902-G10_Commercial_Fleet_Procurement.zh.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "商办贸函"
+     ],
+     "extra": [
+      "一辆没有当地零部件的廉价卡车是车队责任",
+      "上次审查",
+      "不存在",
+      "不得公布第三方图像",
+      "不得暗示特定的修饰",
+      "不接受占位符或",
+      "不适用",
+      "与等级和",
+      "与车辆登记证书相符",
+      "专用货车",
+      "东丰",
+      "个单位"
+     ]
+    },
+    {
+     "gate": "LENGTH_RATIO",
+     "en": 14423,
+     "x": 7116
+    }
+   ],
+   "AB-260902-V01_BYD_Yuan_Plus_2024.zh.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [],
+     "extra": [
+      "一台",
+      "一款前置马达横跨线路",
+      "一辆车",
+      "上年级携带",
+      "上得到确认",
+      "上次审查",
+      "上装有",
+      "下的数字",
+      "下的数字或欧洲",
+      "下面的版本特定数字被市场和周期贴上标签",
+      "不",
+      "不公布固定出口价格"
+     ]
+    },
+    {
+     "gate": "LENGTH_RATIO",
+     "en": 15968,
+     "x": 8634
+    }
+   ],
+   "AB-260902-V02_Changan_UNI-V_2024.zh.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "尊享型",
+      "尊贵型",
+      "智慧领航",
+      "经典运动"
+     ],
+     "extra": [
+      "上均使用",
+      "上次审查",
+      "不",
+      "不可互换",
+      "不同",
+      "不存在",
+      "不得公布第三方图像",
+      "不得暗示特定的修饰",
+      "不接受占位符或",
+      "不是离岸价格",
+      "不适用",
+      "与单电动列车"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ";"
+     ]
+    }
+   ],
+   "AB-260902-V03_BYD_Qin_Plus_DMi_2024.zh.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "领先型"
+     ],
+     "extra": [
+      "一个小型的",
+      "一个相关的外观",
+      "一台",
+      "一秦加",
+      "上大电池输出",
+      "上得到证实",
+      "上次审查",
+      "不",
+      "不假设",
+      "不充电驱动的",
+      "不公布静态出口价格",
+      "不同"
+     ]
+    },
+    {
+     "gate": "DOUBLED_PUNCT",
+     "sample": [
+      ",",
+      ",",
+      ","
+     ]
+    }
+   ],
+   "AB-260902-V04_GAC_Trumpchi_M8_2024.zh.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "双擎",
+      "旗舰",
+      "豪华版"
+     ],
+     "extra": [
+      "三排",
+      "三系列比较",
+      "上",
+      "上次审查",
+      "下面的一切都是",
+      "不存在",
+      "不得公布第三方图像",
+      "不得暗示特定的修饰",
+      "不接受占位符或",
+      "不是出口离岸价格",
+      "不要将中文维度",
+      "不适用"
+     ]
+    }
+   ],
+   "AB-260902-V05_Great_Wall_Poer_2024.zh.md": [
+    {
+     "gate": "FACT_NUMBER",
+     "missing": [
+      "炮",
+      "炮"
+     ],
+     "extra": [
+      "上次审查",
+      "不为离岸价格",
+      "不作估计",
+      "不假定",
+      "不公布静态出口价格",
+      "不存在",
+      "不得公布第三方图像",
+      "不得暗示特定的修饰",
+      "不接受占位符或",
+      "不适用",
+      "与",
+      "与目的地经销商的保修相符"
+     ]
+    }
+   ]
+  }
  },
  "summary": {
   "expected_full_body_locales": 960,
   "complete": 960,
   "incomplete": 0,
-  "qa_pass": 960,
-  "qa_fail": 0,
-  "method": "Deterministic invariant QA: numeric/unit/URL/nonlatin token multiset, heading/table/ALT/tag parity, no sentinel/garbage, target-script presence, length ratio, public-clean. MT-draft fluency = PROFESSIONAL_LOCALIZATION_PENDING; HUMAN_REVIEWED=false."
+  "ai_language_qa_pass": 509,
+  "ai_language_qa_fail": 451,
+  "length_gate_fail": {},
+  "gates": "FACT_NUMBER/UNIT/URL_SET/HEADING_PARITY/TABLE_ROWS/ALT/TAGS/SENTINEL/PUBLIC_WORKFLOW_TEXT/TARGET_SCRIPT_RATIO/PLACEHOLDER/NUMBER_SPLIT/EN_PROSE_FALLBACK/DOUBLED_PUNCT/LENGTH_RATIO/ZH_MIN_1200",
+  "method": "Deterministic AI language QA (not professional localization): numeric/unit/URL/term token multiset, structural parity, target-script ratio (blocks English-fallback drafts), placeholder/number-split/doubled-punct scans, length. PROFESSIONAL_LOCALIZATION=PENDING (no human localizer); HUMAN_REVIEWED=false."
  }
 }

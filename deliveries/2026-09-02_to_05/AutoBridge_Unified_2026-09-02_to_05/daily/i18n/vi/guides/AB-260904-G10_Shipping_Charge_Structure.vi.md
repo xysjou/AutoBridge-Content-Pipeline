@@ -4,7 +4,7 @@
 - **SEEO Title**: Ocean Freight ợ để xuất xe — O/F, THC, DOC, BAF Giải thích
 - **Meta Mô tả**: Hiểu được O/F, THC, DOC/SEAL/VGM, BAF và surp, nguồn điện tương ứng với điểm đến, và tại sao AMS/ASI/EDEP lại là chi phí tuyến đường — một hướng dẫn cấu trúc mà cố tình không đưa ra một số lượng cố định.
 - ** URL đã được gợi ý**: /guides/ocean-freight-charge-structure-vehicle-export
-- ** H1 **: giải mã một cuốn Quight-sex-Export Freight Quote: bộ sạc Người hiện hữu, Kẻ sạc Them, và kiểm tra cái gì
+- ** H1 **: Giải mã một đoạn trích dẫn mở rộng của xe hơi Freight: Họ bị buộc tội hiện hữu, ai buộc tội họ, và điều gì cần kiểm tra
 - **Criumary Keyword**: biển chất nổ kết cấu phương tiện xuất khẩu THC DOC BAF
 - **Secondary Search termss**: O/F hàng hóa đại dương, tiền phí trạm cuối, phí tài liệu DOC, phí VGM, BAF EBS, AMS ACI EN, tiền công đầu tiên so với phí điểm đến
 - **I nội bộ Link gợi ý: //guides/vehic-eport-bill-lading-types/; /guides/vehicle-pdi-Pdi-Pi-conver-ship over /; /guides/vehcle-ex-de-hs-code-hs-todeized/
@@ -52,11 +52,14 @@ Trang này có đưa ra tỷ lệ hiện tại không? Không, tỉ lệ chuyể
 - Không có bảo mật trong kho
 - _NHỮNG _I HÌNH: chưa được thu
 - Không được lấy
+- SOURCE_FLE_PAGE: không thích hợp — không có tập tin phương tiện ứng cử viên nào được xác định (không có giấy phép để xác nhận)
 - Chưa xác nhận
 - LICENSE_OR_USAGE_BAAY: không bảo mật — không có ảnh bên thứ ba có thể được xuất bản cho đến khi quyền được xoá
-- CÂU_DATE: 2026-09-05
+- CÂU_ lẫn nhau: 2026-09-06
 - MODEL_TOPIC_MASP: cần phải khớp với mô hình/ Quay chính xác (hoặc chủ đề hướng dẫn) và thị trường tham chiếu bên trên
+- ITH_SCOPE_NOTE: phù hợp với chính xác mô hình gia đình/tic duy nhất; không phải ngụ ý một cụ thể cắt/mdel năm, thực sự VIN, kiểm tra người trong người hoặc thực sự giao dịch
 - TRONG SÁCH TRONG LINH: FAIL (không có giấy phép lấy được tài sản; một người giữ chỗ hoặc “không chấp nhận lời nhắn cũ của hình ảnh ”
+- - Không. Không thể bảo đảm ảnh có thể tái tạo: Wikimedia Commons/Flickr không thể tới từ môi trường nghiên cứu, thư viện chứng khoán yêu cầu quyền truy cập hệ thống ARI/licence, và một trang web OEM không phải là một tài trợ tái sử dụng thương mại; không có ảnh tự động của AutoBridge. Giữ FAIL thay vì khẳng định.
 - Theo ngôn ngữ:
   - **EN**: AutoBridge export-buyer reference — Ocean freight quotation charge structure, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Ocean freight quotation charge structure, guide d’achat à l’export automobile
@@ -80,14 +83,14 @@ Trang này có đưa ra tỷ lệ hiện tại không? Không, tỉ lệ chuyể
 | Tội ảo (TC/booking/ccaring) | 11467 | CN | https://m.11467.com/product/d24491409.htm | 2026-09-04 | SINGLE_SOURCE | Đang nạp tên |
 * Phạm vi tính toán: kết cấu điện chéo với các nguồn công nghiệp (không chính thức là nguồn chính thức thuế); AMS/ARI/ENS được sắp xếp như hướng dẫn phương pháp biên tập cụ thể; tất cả các số lượng được cố tình loại bỏ khi thời gian nhạy cảm. ♪
 
-| Nội dung hoá quy tắc 2020 (mà sắp xếp/trả tiền giao thông tại mỗi lần) | Phòng thương mại quốc tế (ICC) | IN'L | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/ | 2026-09-05 | VEII | Hàng hóa/ sạc nào được bán bởi Incoterm |
+| Nội dung 2020 quy tắc (mà sắp xếp/ trả mỗi lần dịch vụ) | Phòng thương mại quốc tế (ICC) | IN'L | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/ | 2026-09-05 | VEII | Hàng hóa/ sạc nào được bán bởi Incoterm |
 | Thực hành tua lại và phân loại tính toán | FIATA | IN'L | https://fiata.org/ | 2026-09-05 | VEII | Tài liệu tham khảo/ thuật toán tiến trình/ phép tính |
 | Name | Hội đồng vận chuyển thế giới | IN'L | https://www.worldshipping.org/ | 2026-09-05 | VEII | Name |
 | Trung Quốc Quốc Quốc Hội đồng những người tiến bộ đáng kể | CIFA | CN/INT'L | http://www.cifa.org.cn/ | 2026-09-05 | VEII | Bên Trung Quốc phát triển công nghiệp và thực hành trích dẫn |
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team_· phương pháp trên mỗi [chính sách] (/tách-chính trị/)
-- **Last xem xét**: 2026-09-05
+- **Last xem lại**: 2026-09-05
 - ** chợ địa phương**: cấu trúc hàng hóa quốc tế (không có số lượng, không có thuế đặc biệt)
 - Phương pháp xác thực **: Kiểm tra chéo cấu trúc; Ghi lại chi phí trên đường; Số không số liệu cố định khẳng định
 - **Sự khác biệt**: việc soạn thảo có hỗ trợ bởi Al-assed đã được sử dụng. Bài này dựa trên nghiên cứu bàn giấy và tự động QA. Không có thử nghiệm tay đầu tiên được xác nhận trừ khi được ghi lại rõ ràng; xác nhận yêu cầu thời gian và đích đến trước khi chuyển đổi.

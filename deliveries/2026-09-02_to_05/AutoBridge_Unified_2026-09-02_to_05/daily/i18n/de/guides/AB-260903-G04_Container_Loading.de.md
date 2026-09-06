@@ -1,21 +1,21 @@
-# Laden von Autos in einen 40HQ Container: Zählt, die von einem Ladeplan abhängen, und Verschleiern, das auf See hält
+# Loading Cars Into a 40HQ Container: Zählt, die von einem Ladeplan abhängen, und Verzierungen, die auf See halten
 ## SEO Metadaten
-- **SEO Titel**: Wie viele Autos passen in einen 40HQ? Containerlade- und Vertäuungsführer
-- **Meta Description**: Eine praktische 40HQ Fahrzeug-Ladeführung - typische 2-SUV No-Rack-Lade vs 4-vehicle Doppel-Rack-Systeme, ~ 8 Gurte pro Auto auf Reifen, Ladesequenz und eine Fünf-Punkt-Stauprüfung vor dem Versiegeln.
+- **SEO Titel**: Wie viele Fahrzeuge Passt es in eine 40HQ? Containerlade- und Vertäuungsführer
+- **Meta Description**: Eine praktische 40HQ Fahrzeug-Ladeführung - typische 2-SUV No-Rack-Ladesysteme vs 4-vehicle Doppel-Rack-Systeme, ~ 8 Gurte pro Auto auf Reifen, Ladesequenz und eine Fünf-Punkt-Staukontrolle vor dem Versiegeln.
 - **Vorgeschlagene URL**: /guides/container-vehicle-loading-lashing/
-- ** H1 **: Container-Fahrzeug-Beladung und -Verriegelung: Zählungen, Regale, Sequenz und Vorsiegelkontrollen
-- ** Primäres Keyword**: Wie viele Autos passen zu 40hq Containerverladezurr
+- ** H1 **: Containerfahrzeug-Beladung und -Verriegelung: Zählungen, Regale, Sequenz und Vorsiegelkontrollen
+- ** Primäres Keyword**: Wie viele Autos passen 40hq Containerverladezurr
 - **Secondary Search Terms**: 40HQ zwei SUV, Doppeldeck Auto Regal Container, Fahrzeugzurrgurte Radbindung, RoRo zu Container Umbau, Container Auto Ladesequenz
 - **Interne Linkvorschläge**: /guides/vehicle-pre-shipment-inspection-psi/; /guides/ev-shipping- un3171-imdg-compliance/; /vehicles/changan- cs75-plus/
 - **Bildvorschläge**: Verstauungsdiagramm der Seitenansicht; Radzurrpunkte; ausziehbares Doppelgestell; Ladereihenfolge von oben + unten
-- **ALT Vorschläge**: "40HQ zwei SUV Seitenstau"; "Radreifen zurengende acht Riemen"
+- **ALT Vorschläge**: "40HQ zwei SUV Seitenstauung"; "Radreifen zurengende acht Riemen"
 
 ## Die Frage, die sich alle zuerst stellen
 "Wie viele Autos in einem 40HQ?" hat keine universelle Antwort - es ist eine Funktion von Fahrzeugabmessungen, Spiegelfaltung, Regalsystem und dem vom Träger genehmigten Stauplan **. Dieser Leitfaden gibt realistische Bänder und die Methode; es verspricht absichtlich keine feste Zählung. Bestätigen Sie jede Sendung mit einem tatsächlichen gemessenen Ladeplan.
 
 ## Realistische Ladebänder (aus dokumentierter Praxis)
 - **Kein Rack, konventionell:** Ein 40HQ trägt typischerweise **zwei mittlere / große SUVs ** (zitierte Beispiele sind ~ 4.9 m Klasse wie ID). 6 / Range-Rover / Prado / Li L7-scale Fahrzeuge) (Single-Source-Weiterleitungsdiagramm).
-- **Mit einem Schiebeauszug Doppeldeck-Rack:** ein **"oberes 2 + niedrigeres 2" = vier SUVs** Anordnung wurde in einem Yantai-Port "RoRo-to-Container" Versuch (Single-Source) gemeldet.
+- **Mit einem Schiebeauszug Doppeldeck-Rack: ** ein **"oberes 2 + unteres 2 " = vier SUVs ** Anordnung wurde in einem Yantai-Port "RoRo-to-Container" Versuch (Single-Source) gemeldet.
 - **Limousinen / China-Europa-Bahn:****drei Fahrzeuge pro Box** erscheint in China-Europa-Bahn / Limousine Praxis Berichterstattung (Single-Source).
 Dies sind Bezugspunkte, keine Ansprüche: Ein Hochdachwagen, ein Pickup oder ein langes Executive-Auto ändert die Anzahl, und die Regalladung benötigt zertifizierte Ausrüstung und einen genehmigten Plan.
 
@@ -42,7 +42,7 @@ Angepasst an die dokumentierte Containerlademethode:
 5. ** Türfreiheit ** - genug Rand zum Schließen und Versiegeln; Aufnahmen des Staus vor dem Versiegeln.
 
 ## EV-Spezifische Anmerkung
-Ein EV/Hybrid in einem Container trägt immer noch eine Traktionsbatterie: Folgen Sie der Gefahrgutdokumentation des Ozeans und jeder SOC/Ladezustandsanweisung des Trägers. unter IMDG Änderung 42-24 (obligatorisch von 2026-01-01) ein Lithium-Ionen-Batterie-betriebenes Fahrzeug ist UN3556 klassifiziert, nicht das ältere generische UN3171; gelten Dokumentation / SOC Details nach dem aktuellen EV Versand Fact Sheet und dem Carrier (siehe EV Ocean-Compliance Guide) Trennen / Vorbereiten des 12 V-System pro Träger und nicht davon ausgehen, dass eine Verbrennerstauung SOP deckt ein EV.
+Ein EV/Hybrid in einem Container trägt immer noch eine Traktionsbatterie: Folgen Sie der Gefahrgutdokumentation des Ozeans und jeder SOC/Ladezustandsanweisung des Trägers. gemäß IMDG-Änderung 42-24 (obligatorisch von 2026-01-01) wird ein Lithium-Ionen-Batterie-betriebenes Fahrzeug als UN3556 eingestuft, nicht als das ältere generische UN3171; wenden Sie Dokumentation / SOC-Details gemäß dem aktuellen EV-Versand-Fact Sheet und dem Carrier an (siehe den EV-Ocean-Compliance-Leitfaden) Trennen / Vorbereiten der 12 V-System pro Träger und nicht davon ausgehen, dass eine Verbrennerstauung SOP deckt ein EV.
 
 ## Was dieser Leitfaden empfiehlt, sperren Sie vor der Buchung
 - Ein **gemessener Ladeplan** für die genauen Modelle (Länge/Breite/Höhe, gefaltete Spiegel), kein generisches "Zwei oder Vier" Versprechen.
@@ -53,7 +53,7 @@ Ein EV/Hybrid in einem Container trägt immer noch eine Traktionsbatterie: Folge
 - ** Hafen, Route, Transportunternehmen und Terminalabnahme schriftlich:** Name des tatsächlichen **Ladehafens und Terminals** (die dokumentierten Versuche oben sind China-Hafenreferenzen wie Yantai, kein universeller Standard), des ** Ozeantransportunternehmens und seines Containerbetreibers** und ob dieses Terminal **Doppeldeck-Autogestelle und In-Rack-Verzurrungen** auf dem gebuchten Segeln akzeptiert. Akzeptanzbedingungen und jede Änderung des effektiven Datums unterscheiden sich je nach Terminal und Spediteur, also notieren Sie das **Datum, an dem jede Bedingung bestätigt wurde ** gegen die Sicherungsprinzipien des CTU-Codes, anstatt anzunehmen, dass die Methode eines Lagers überall akzeptiert wird.
 
 ## Häufig gestellte Fragen
-**Kann ein 40HQ immer vier SUVs nehmen?** Nein - vier benötigen ein zertifiziertes ausziehbares Doppelgestell und einen genehmigten Plan; Die konventionelle No-Rack-Beladung von mittleren / großen SUVs ist typischerweise zwei.
+**Kann ein 40HQ immer vier SUVs nehmen? ** Nein - vier benötigen ein zertifiziertes ausziehbares Doppelgestell und einen genehmigten Plan; Die konventionelle No-Rack-Beladung von mittleren / großen SUVs ist typischerweise zwei.
 **Wo sollten Gurte anbringen?** Zu den Reifen/Rad-Abstützpunkten — etwa acht pro Fahrzeug — nicht zu Aufbau oder Aufhängung.
 **Wie unterscheiden sich Limousinen?** Ledane und China-Europa Schienenlasten erreichen gewöhnlich drei pro Box; Dimensionen entscheiden noch.
 **Warum das Rack Top-First laden?** Die oberen Fahrzeuge müssen vor den unteren Blockregalzugängen positioniert werden; die Staplerhilfe positioniert sie sicher.
@@ -63,11 +63,14 @@ Ein EV/Hybrid in einem Container trägt immer noch eine Traktionsbatterie: Folge
 - IMAGE_ASSET_PATH: keine gesicherte Datei
 - ORIGINAL_IMAGE_URL: nicht erfasst
 - SOURCE_PAGE: nicht erfasst
+- SOURCE_FILE_PAGE: Entfällt — keine Kandidaten-Mediendatei identifiziert (keine Lizenz zur Geltendmachung)
 - RIGHTS_HOLDER: nicht bestätigt
 - LICENSE_OR_USAGE_BASIS: keine gesicherte — kein Bild von Dritten darf veröffentlicht werden, bis die Rechte gelöscht sind
-- CHECKED_DATUM: 2026-09-05
+- CHECKED_DATUM: 2026-09-06
 - MODEL_TOPIC_MATCH: muss mit dem genauen Modell/der genauen Version (oder dem Leitthema) und dem Referenzmarkt oben übereinstimmen
+- IMAGE_SCOPE_NOTE: nur die genaue Modellfamilie/das genaue Thema angeben; darf keine spezifische Trimm-/Modelljahr-, echte VIN-, persönliche Inspektion oder tatsächliche Transaktion implizieren
 - IMAGE_RIGHTS_STATUS: FAIL (kein lizenziertes Asset erfasst; ein Platzhalter oder ein Hinweis „altes Bild behalten wird nicht akzeptiert)
+- BLOCK_REASON: Es konnte kein wiederverwendbares Bild gesichert werden: Wikimedia Commons/Flickr sind aus der Forschungsumgebung nicht erreichbar, Lagerbibliotheken erfordern authentifizierten API/Lizenzzugriff und ein OEM-Webseitenbild ist KEIN kommerzielles Wiederverwendungsstipendium; es gibt kein AutoBridge-eigenes Foto. Nein, aber nicht nur vereitelt.
 - ALT nach Sprache:
   - **EN**: AutoBridge export-buyer reference — Loading cars into a 40HQ container, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Loading cars into a 40HQ container, guide d’achat à l’export automobile
@@ -85,11 +88,11 @@ Ein EV/Hybrid in einem Container trägt immer noch eine Traktionsbatterie: Folge
 ## Quellen & Verifizierung
 | Quelle: | Organisation | Markt | URL | Geprüft | Vertrauen | Belegte Fakten |
 |---|---|---|---|---|---|---|
-| Fahrzeugstauung (Bänder 2/box, 8) | Gütertransportgut | Global | https://m.11467.com/product/d42473652.htm | 2026-09-03 | SINGLE_SOURCEN | 2-SUV No-Rack; ~ 8 Gurte; Radmethode (eine Quelle) |
-| Yantai Port erste 4-SUV "RoRo-to-Container" Test | Qilu Abend News / Toutiao | CN | http://m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | SINGLE_SOURCEN | Upper2+lower2 Rack; Ladesequenz (eine berichtete Studie) |
+| Fahrzeugstauung (2/box, 8 Gurte) | Gütertransportgut | Global | https://m.11467.com/product/d42473652.htm | 2026-09-03 | SINGLE_SOURCEN | 2-SUV No-Rack; ~ 8 Riemen; Radmethode (eine Quelle) |
+| Yantai-Hafen erste 4-SUV "RoRo-to-Container"-Test | Qilu Abend News / Toutiao | CN | http://m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | SINGLE_SOURCEN | Upper2+lower2 Rack; Ladesequenz (eine berichtete Studie) |
 | China-Europa-Bahnwagenverladung (3/box) | Harbin Railway / Toutiao | CN | http://m.toutiao.com/group/6748371578787987979/ | 2026-09-03 | SINGLE_SOURCEN | Drei-pro-Box-Limousine / Schiene Referenz (eine Quelle) |
 | Fünfstufiges Beladeverfahren für Exportbehälter | NetEase | Global | https://www.163.com/dy/article/L42056IP05568MR2.html | 2026-09-03 | SINGLE_SOURCEN | Fünf-Punkt-Staukontrolle (eine Quelle) |
-*Scope note (R4): jede Ladefigur stammt aus einer einzigen, eindeutigen Quelle (alle SINGLE_SOURCE) - keine Tatsache wird durch zwei unabhängige Quellen bestätigt, so dass keine als CROSS_ gekennzeichnet ist KONTROLLE. Zählungen sind dokumentierte Praxisreferenzen, keine garantierte Stauung; Die genaue Anzahl hängt immer von den gemessenen Abmessungen und einem genehmigten Ladeplan ab, und die Regeln des Spediteurs / Terminals müssen bei der Buchung bestätigt werden. *
+*Scope note (R4): Jede Ladefigur stammt aus einer einzigen, eindeutigen Quelle (alle SINGLE_SOURCE) – keine Tatsache wird durch zwei unabhängige Quellen bestätigt, so dass keine als CROSS_ gekennzeichnet ist. KONTROLLE. Zählungen sind dokumentierte Praxisreferenzen, keine garantierte Stauung; Die genaue Anzahl hängt immer von den gemessenen Abmessungen und einem genehmigten Ladeplan ab, und die Regeln des Spediteurs / Terminals müssen bei der Buchung bestätigt werden. *
 
 | IMO/ILO/UNECE-Verhaltenskodex für die Verpackung von Frachttransporteinheiten (CTU-Code) | Internationale Seeschifffahrtsorganisation (IMO) | INT'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | ÜBERPRÜFUNG | Grundsätze für die Verteilung, die Verzurrung und die Sicherung von Ladungen für CTUs, einschließlich Containern |
 | Container/Ausrüstungsreferenz | World Shipping Council | INT'L | https://www.worldshipping.org/ | 2026-09-05 | ÜBERPRÜFUNG | Standard-Frachtcontainer- und -leinausrüstungskontext für die Ladeplanung |

@@ -1,72 +1,75 @@
-# Used Chinese EV Pre-Export Inspection: Battery SOH Done Properly, Plus Accident, Flood and Odometer Checks
-## SEO Metadata
-- **SEO Title**: Used Chinese EV Inspection: Battery SOH, Flood & Odometer Checks
-- **Meta Description**: How to inspect a used Chinese EV before export — what SOH actually means under battery standards, a metered charge test, cell-balance reading, accident/flood screening and odometer-vs-cycle cross-checks, with no invented legal threshold.
-- **Suggested URL**: /guides/used-chinese-ev-inspection/
-- **H1**: Inspecting a Used Chinese EV Before Export: What the Battery Numbers Mean and What to Reject
-- **Primary Keyword**: used Chinese EV inspection battery SOH checklist
-- **Secondary Search Terms**: EV battery SOH standard QC/T 743, GB/T 31484 cycle life, used EV cell voltage imbalance, EV flood damage inspection, odometer rollback battery cycle count
-- **Internal Link Suggestions**: /guides/verify-china-car-export-supplier/ ; /guides/chinese-ev-charging-standard-compatibility/ ; /guides/import-chinese-ev-to-russia-eac-ottc/
-- **Image Suggestions**: diagnostic-tool SOH and cell-voltage readout; metered 20–80% charge worksheet; battery undertray inspection points; service/claims record sample
-- **ALT Suggestions**: "Independent diagnostic report showing SOH and maximum cell-voltage difference"; "metered charge-energy test worksheet"; "EV battery pack undertray inspection points"
-## Scope: an Inspection Manual, Not a New-vs-Used Debate
-The decision to buy **used** is taken as given; this page covers the **technical inspection before export**. The economics of a used EV are dominated by the high-voltage battery: a clean body with a worn pack can be worth less than the replacement cost after shipping, so the inspection order of operations is different from an ICE car. A central aim is to be precise about what "SOH 80%" actually is — an engineering reference, not a universal customs line.
-## What SOH Is — and What the 80% Figure Actually Means
-**State of Health (SOH)** expresses a pack's current maximum usable capacity relative to its when-new rated capacity (capacity-based SOH = aged capacity ÷ rated capacity). It is essential to separate an **engineering end-of-life convention** from a **legal import threshold**, because they are routinely confused:
-- The **~80%** figure originates in **battery standards and warranty practice**, not import law. China's automotive-industry standard **QC/T 743** treats capacity falling to 80% of nominal as an end-of-life reference; **GB/T 31484** specifies traction-battery cycle-life *test methods*; **IEC 62660** (parts 1/2) standardises lithium-ion cell performance/life testing; and the newer recommended national standard **GB/T 46991.1-2025** (developed under MIIT/SAC) addresses the *accuracy and durability of on-board SOH/SOC displays*. These are standards-body documents (VERIFIED as to what they define).
-- **There is no single universal legal SOH threshold for importing a used EV.** No regulation cited in this research sets "80%" as a blanket customs or type-approval gate that applies across the EU, ASEAN or anywhere else. Be explicit about what 80% is **not**: it is **not a used-car import threshold**, it is **not a unified battery-retirement law**, and it is **not every manufacturer's warranty threshold** (a given warranty may use a different figure). A destination may impose its own condition rule and a buyer may set a private commercial line — but each is a *different instrument*. The destination certification body / importer's own acceptance standard governs, and must be confirmed per country rather than assumed.
-This distinction changes how you use the number: treat the ~80% engineering convention purely as a **commercial/engineering reference for pricing and rejection**, while separately confirming whether the destination sets any legal condition. No chemistry-specific "85% NMC line" is asserted here because no standard or manufacturer source captured for this article establishes it as a rule.
-## Obtaining a Defensible SOH Number
-- Read the in-car/cluster health display, but do not stop there — on-board displays are estimates and the new GB/T 46991.1 display-accuracy standard applies to new production, not necessarily to older used units.
-- Commission an **independent third-party diagnostic report** that records SOH **and the maximum cell-to-cell voltage difference**: a large imbalance flags weak modules even when the headline SOH looks healthy.
-- Chinese brands do not share one OBD/diagnostic protocol and third-party report formats are not standardised, so keep the raw report (tool, software version, date, ambient temperature) as evidence. Brand-official battery-health/warranty criteria should be requested from the brand where available rather than guessed.
-## Cross-Check With a Metered Live Charge Test (a Screening Cross-Check, Not an SOH Calculation)
-A static SOH value can be misrepresented; a charge test exercises the pack. Charge from roughly **20% to 80%** on a **metered** charger, recording start/end SOC, kWh delivered, the power curve and elapsed time, and compare delivered energy against the expected ~60% of usable pack capacity. **Treat this strictly as a screening cross-check, not as a way to compute SOH.** Charger-delivered kWh is *not* equal to energy stored in the cells: the reading is affected by **charging/conversion losses, thermal-management draw, ambient and pack temperature, BMS SOC calibration, and the reserve/top-bottom buffer**. It can therefore only flag a **gross anomaly**. A shortfall on this screen does **not** by itself prove genuine capacity loss (and a clean screen does not prove full health); the formal capacity/SOH figure still requires a qualified diagnostic method or manufacturer/professional test data. Inability to hold the expected charge rate is a reason to commission that deeper inspection. Run the screen alongside the charging-standard check (GB/T in China vs the destination connector — see the compatibility guide) so a sound pack is not failed by an incompatible inlet.
-## The High-Voltage Triad Beyond SOH
-- **Pack underside**: remove/inspect the bottom shield for removal/reseal marks, scrapes, deformation or non-factory repair.
-- **Motor and power electronics**: scan fault codes, check warning lamps and verify drive/regen behaviour on a road test.
-- **HV cabling and connectors**: look for corrosion, retermination or non-factory joins.
-## Accident, Flood and Fire Screening
-- Pull **maintenance records and insurance-claim (出险) records**; structural sheet-metal repair or any flood-water claim marker is grounds to reject.
-- Flooded EVs hide pack degradation and harness corrosion: inspect under-dash connectors, seat rails, fuse boxes and the battery enclosure for water lines/corrosion.
-- Check panel gaps, paint thickness and fastener witness marks; treat any sign the battery pack was opened outside a qualified facility as a stop signal.
-## Odometer vs Charge Cycles
-A clocked EV shows an **odometer inconsistent with battery cycle count and wear**. Where diagnostics expose cycle count, compare it with displayed mileage and physical wear (seat, steering, pedals). Low displayed mileage paired with high cycle counts or aged components is a rollback warning that an ICE odometer check alone would miss.
-## Paperwork and the Destination Rule
-Keep the independent SOH/imbalance report, the metered charge record and service/claims history in the export dossier. Separately — and this is the correction to any blanket "you need 80% to import" claim — **obtain the destination's actual used-EV condition/type rule in writing** from its certification authority or your clearance agent. China's own used-car export qualification/age rules are set by MOFCOM and updated (see the supplier-vetting and fleet-procurement guides); use the current-year position rather than an older blog figure.
-## What AutoBridge Adds Beyond a Generic Checklist
-Public checklists repeat "read SOH and reject below 80%." This guide instead recommends: (1) separating the engineering 80% convention from the destination's actual legal rule, so a buyer neither walks away from a compliant car nor ships a non-compliant one on a myth; (2) pairing a metered-energy screening cross-check with a cell-imbalance reading rather than relying on a dashboard screenshot; and (3) keeping the inspection note tied to the **VIN and export dossier** used for certification, so the tested car is traceable to the shipped car.
-## Hard Rejection Rules
-- Flood/fire marker in claims records, or corrosion/water lines in the pack or HV harness.
-- Structural/accident repair to high-voltage areas, or evidence the pack was opened outside a qualified facility.
-- Odometer inconsistent with cycle count and wear, with no credible explanation.
-- Seller refuses a metered charge test or an independent diagnostic report.
-- Capacity/imbalance that fails **your own documented acceptance line** (set from brand warranty + destination rule + commercial margin) — not a mythical universal 80% legal gate.
-## Acceptance Test List
-- Independent report: SOH **and** max cell-voltage imbalance, with tool/version/date recorded.
-- Metered 20→80% charge test (SOC, kWh, power curve, time).
-- Battery undertray and HV connectors inspected for removal/corrosion.
-- Service + insurance-claim history pulled; collision/flood/fire markers checked.
-- Odometer reconciled with charge cycles and physical wear.
-- Destination used-EV rule confirmed **in writing** and distinguished from the engineering 80% line.
-- Charging-interface compatibility (GB/T vs destination) verified.
-## Frequently Asked Questions
-**Is 80% SOH a legal import requirement?** No. Roughly 80% is an engineering/warranty end-of-life reference (e.g., QC/T 743; tested per GB/T 31484 / IEC 62660); it is not a used-car import threshold, not a unified retirement law and not every manufacturer's warranty line. There is no universal 80% customs gate, so confirm the destination's own rule.
-**Why do people quote 80% then?** It comes from battery standards and warranty practice as an end-of-life/commercial reference; it is useful for pricing and rejection, but it is not import law, and no chemistry-specific 85% rule is asserted here.
-**Can I calculate SOH from the charger's kWh between 20% and 80%?** Not directly. Delivered energy is distorted by charging losses, thermal draw, temperature, BMS calibration and buffer; it is a screening cross-check that can reveal gross anomalies, with formal SOH left to a qualified diagnostic.
-**How should SOH be evidenced?** An independent report showing SOH and cell-voltage imbalance, cross-checked by a metered 20–80% charge test, kept with tool/version/date.
-**Why is flood damage especially dangerous in an EV?** It can degrade the pack and corrode hidden harnesses/connectors, causing safety and reliability failures after export.
-**How is odometer fraud spotted on an EV?** Compare displayed mileage with battery cycle count and physical wear; low odometer with high cycles is a warning.
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
-- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- ALT by language:
+# 使用中国EV出口前检查:电池SOH正确完成,加意外,洪水和排泄量计检查
+## 道德操守办公室 元数据
+- ** 标准电子数据**:使用过的中国电子数据检查:电池SOH、洪水和测光仪 检查
+- ** 金属说明**: 如何在出口前检查用过的中国EV——SOH在电池标准下的实际含义,一个Memecuring测试,细胞平衡读数,事故/浮力筛选和气温计-vs-循环交叉检查,没有发明的法律门槛.
+- ** 提议URL**:/指南/已使用-chinese-ev-incountion/
+- ** H1 资源需求。 **:在导出前检查已使用的中国EV:电池数字的平均值和拒绝值
+- ** 基本关键词**:中国EV检查电池SOH核对表
+- ** 二级搜索术语**:EV电池 SOH标准QC/T 743,GB/T 31484循环寿命,使用EV电池电压不平衡,EV洪水损坏检查,气压计回滚电池循环计数.
+- ** 内部链接建议**: / 指南/核实-钦那-汽车-出口-供应商/;/ 指南/钦那-耶夫-充电-标准兼容性/;/ 指南/进口-钦那-耶夫-到鲁西亚-埃阿克-奥特克/
+- ** 图像建议**: 诊断工具SOH和细胞电压读取; metered 20–80% charge worksheet; 电池底盘检查点; 服务/索偿记录样本
+- **ALT建议**:“显示SOH和最大细胞电压差的独立的诊断报告”;“计量电荷测试表”;“EV电池包底盘检查点”。
+## 范围:检查手册,不是新式辩论
+购买**用**的决定按规定作出;本页涵盖**出口前的技术检查**。 旧EV的经济原理以高压电池为主:一个磨损的包体清洁体比起运输后的更换成本可能价值较低,因此,运行的检查顺序与ICE车不同. 一个中心目标是准确的说出"SOH 80%"实际是什么——工程参考,而不是通用的海关线.
+## 什麽SOH ——和80%图实际上意味着:
+** 健康状况** 表示一个包相对于新额定容量(基于容量的SOH=老额定容量),目前最大可用容量。 有必要将**工程的报废公约** 与** 法律进口门槛** 分开,因为两者通常混淆:
+- QQ 80%**数字来源于**电池标准和保修做法**,而不是进口法。 中国汽车工业标准QQC/T 743 **将容量降至名义值80%作为报废参考;**GB/T 31484 ** 规定了牵引-电池循环-寿命*测试方法*;**IEC 62660 **(部分1/2) 锂离子电池性能/寿命测试标准化;较新的推荐国家标准**GB/T 46991.1-2025 **(在MIIT/SAC下制定) 涉及机载SOH/SOC显示*的*精确性和耐久性. 这些是标准机构文件(关于它们的定义是否明确)。
+- ** 进口用过的电器电子设备没有单一的通用法定SOH阈值。 ** 这项研究没有列举任何条例,规定 " 80% " 是一个适用于欧盟、东盟或其他任何地方的总括习俗或类型批准门。 明确80%是**不**:它不是废车进口门槛**,它不是统一的电池退休法**,它不是每个制造商的保修门槛**(给定保修可能使用不同的数字)。 目的地可规定自己的条件规则,买方可规定一条私人商业线路——但每个线路都是“不同的工具”。 目的地认证机构/进口商自己的接受标准是管理准则,必须每个国家确认,而不是假定。
+这种区分改变了你使用数字的方式:将~80%工程公约纯粹当作**商业/工程参考物进行定价和拒绝**,同时分别确认目的地是否设定任何法律条件. 这里没有具体化学的"85% NMC线"的断言,因为没有为本条捕获的标准或制造商来源将其确立为一条规则.
+## 获得可防御的SOH号码
+- 读取车内/组群健康显示,但不要停在那里——机上显示是估计值,新的GB/T 46991.1显示准确性标准适用于新制作,不一定适用于旧使用的单位.
+- 委托一份**独立的第三方诊断报告**,其中记录SOH **和细胞间最大电压差**:即使标题SOH看起来健康,但一个大的不平衡标记的弱模块.
+- 中国品牌不共享OBD/诊断协议,第三方报告格式不规范,故保留原始报告(工具,软件版本,日期,环境温度)作为证据. 品牌官方电池健康/安全标准应当从品牌中提出,如果有,而不是猜测。
+## 使用量测的活电荷测试进行交叉检查(筛选交叉检查,而不是SOH计算)
+静态SOH值可以被错报;电荷测试可以锻炼包. 装在**米**充电器上,大约为** 20%至80%**,记录起/终SOC、千瓦时交付、功率曲线和经过时间,并将交付的能量与预期的60%可使用装包容量进行比较。 ** 严格地说,这是一次交叉检查,而不是计算SOH的方法。 ** 交付的充电器 kWh 与细胞内储存的能量不等于*:读数受到**充电/转换损失、热管理图纸、环境和包温、BMS SOC校准、储备/上下缓冲**的影响。 因此,它只能标出**严重异常**。 屏幕上的不足本身就证明确实丧失了能力(而干净的屏幕证明不完全健康);正式容量/SOH数字仍然需要合格的诊断方法或制造商/专业测试数据。 无法维持预期收费率是委托进行更深入检查的一个原因。 运行屏幕并列充电标准检查(中国的GB/T对目的地连接器——参见兼容性指南),所以一个音包不会因不兼容的输入而失败.
+## 高压三合一超越SOH
+- ** 背面部分**:去掉/检查底部盾牌,以便去掉/取回标记、刮痕、变形或非构件修复。
+- ** 电动机和动力电子**:扫描断层码,检查警示灯,在公路试验中验证驱动/再生行为。
+- ** HV电缆和连接器**:寻找腐蚀、重新定型或非构件结合。
+## 事故、洪水和火灾筛查
+- 撤销** 维持记录和保险索赔(出险)记录**;结构板金属修理或任何洪水索赔标记都是拒绝的理由。
+- 淹没的EVs隐藏了包降解和拉带腐蚀:检查水下连接器、座椅栏杆、引信箱和蓄电池装置,以便处理水线/腐蚀。
+- 检查面板缺口、油漆厚度和贴紧的目击标记;将合格设施外打开的电池包的任何标志当作停止信号。
+## 气压计对充电周期
+计时的EV显示一个与电池周期计数不一致的**摄氏度计并穿透**. 在诊断显示周期计数时,将其与显示的里程和物理磨损(座位,方向盘,踏板)进行比较. 低显示里程与高周期计数或老化的组件对齐是一种回滚警告,即仅靠ICE气位计检查将失败.
+## 纸张工作和目的规则
+将独立的SOH/不平衡报告、计量吸入器记录和出口档案中的服务/申报历史保留下来。 单独地——这是对任何一揽子“你需要80%来进口”索赔的更正——** 从其验证局或你的清关代理处获得目的地实际使用的EV条件/类型规则**。 中国自己的废车出口资格/年龄规则由MOFCOM制定和更新(参见供应商-审查及车队-采购指南);使用当年位置而不是一个较老的博客数字.
+## 通用检查列表之外自动添加什么
+公开的核对表重复"读到SOH,拒绝低于80%". 本指南建议:(1)将工程80%公约与目的地的实际法律规则分开,因此买方既不离开符合要求的汽车,也不将不符合要求的汽车装在神话上;(2)将一个计量吸入器筛选与细胞平衡读数对齐,而不是依赖仪表板截图;(3)将检查通知书与**VIN和用于认证的出口档案**挂钩,因此,测试过的汽车可以追踪到所运车辆。
+## 硬拒绝规则
+- 索赔记录中的洪水/火力标记,或包或HV带中的腐蚀/水线。
+- 结构/事故修复高压地区,或证据包是在合格设施之外打开的。
+- 气压计与周期计数和磨损不一致,没有可信的解释.
+- 卖方拒绝进行计量吸入器测试或独立诊断报告。
+- 能力/不平衡,不能**你自己的有文件证明的接受线**(从品牌保修+目的地规则+商业边际设置)——不是神话般的普世80%法律大门.
+## 接受测试清单
+- 独立报告:SOH **和**最大细胞电压不平衡,并记录工具/版本/日期。
+- 测量20 ~ 80% 充电测试(SOC, kWh, 功率曲线, 时间).
+- 检查了电池底盘和HV连接器,以便拆除/腐蚀。
+- 查清服务+保险索赔记录;检查碰撞/洪水/火标。
+- 气压计与充电周期和物理磨损相协调。
+- 目标用EV规则在书面**中确认,并与工程80%线区分.
+- 充电接口兼容性(GB/T vs 目的地)已核实.
+## 经常被问到的问题
+** 80% SOH是否是一项合法的进口要求? ** 没有 大约80%是一个工程/危险寿命终止参考(例如,QC/T 743; tested per GB/T 31484 / IEC 62660); 这并不是废车进口门槛,也不是统一的退休法,也不是每个制造商的保修线。 并没有通用的80%关卡,因此确认目的地自己的规则.
+为何人们引用80%? 它来自电池标准和保修做法,作为报废/商业参考;它对于定价和拒绝很有用,但并非进口法,这里没有具体化学85%规则。
+** 我能从充电器的千瓦时值中计算出20%至80%的SOH吗? ** 直接的不是 直接的不是 直接的 Not directly. 投射能量被充电损失,热图,温度,BMS校准和缓冲等扭曲;这是一种筛选交叉检查,可以揭示出严重异常,正式的SOH留给合格的诊断.
+** 如何证明SOH? ** 显示 SOH 的独立报告  and  细胞电压不平衡, 由一次20–80%型机车的电荷测试进行交叉检查, 保留工具/版本/日期。
+** 为何在紧急救援中洪水破坏特别危险? ** 它可以降解包和腐蚀隐藏的吊带/连接器,在出口后造成安全和可靠性的故障。
+** 电磁脉冲仪上如何发现气温计欺诈? ** 将显示的里程与电池循环计数和物理磨损相比较;低气压计与高循环是警告.
+## 图像记录
+- IMAGE_ASST_PATH: 没有在仓库中安全
+- 原型:未抓获
+- 资源_页:未捕获
+- UNURCE_FILE_PAGE:不适用——未确定候选媒体文件(无申述许可证).
+- 权利:未经证实
+- LICENSE_OR_USAGE_BASIS:没有担保——在权利被清除之前,不得公布第三方图像
+- 检查日期: 2026-09-06
+- MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
+- IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
+- IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
+- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
+- 按语言分列的低价竞标:
   - **EN**: AutoBridge export-buyer reference — Used Chinese EV pre-export inspection, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Used Chinese EV pre-export inspection, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Used Chinese EV pre-export inspection, Leitfaden für Fahrzeugexport-Einkauf
@@ -80,23 +83,23 @@ Public checklists repeat "read SOH and reject below 80%." This guide instead rec
   - **AR**: مرجع AutoBridge لمشتري التصدير — Used Chinese EV pre-export inspection, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Used Chinese EV pre-export inspection, 汽车出口采购指南
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## 源码验证(V)
+| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
 |---|---|---|---|---|---|---|
-| GB/T 31484 traction-battery cycle-life requirements/test methods | Chinese national standard (**standards body**) | CN | https://www.chinesestandard.net/PDF.aspx/GBT31484-2015 | 2026-09-03 | **VERIFIED** | Capacity/cycle-life test framework; initial-capacity requirements |
-| IEC 62660-1/2 lithium-ion cell performance/life testing | IEC (international **standards body**) | Global | https://www.iec.ch/ (IEC 62660 series) | 2026-09-03 | **VERIFIED** | Standardised cell performance/life test basis for SOH |
-| GB/T 46991.1-2025 on-board SOH/SOC display accuracy & durability (MIIT/SAC) | Chinese recommended national standard (**standards body**) | CN | reported via standards coverage; primary on SAC/MIIT channels | 2026-09-03 | CROSS_CHECKED | On-board health-display accuracy is separately standardised (not a legal import line) |
-| SOH formulations and the QC/T 743 80% end-of-life convention | LNC Batteries technical explainer (industry) | Global | https://lnclibattery.com/blog/evaluation-of-the-health-status-soh-of-lithium-ion-batteries/ | 2026-09-03 | SINGLE_SOURCE | Capacity-based SOH formula; 80% as industry end-of-life reference |
-| Core points for buying used NEVs / charge-test & screening methods | Yiche, Dongchedi (auto media; method references) | CN | https://hao.m.yiche.com/wenzhang/107776270/ | 2026-09-03 | SINGLE_SOURCE | Inspection method, charge test, accident/flood/odometer practice |
-| 懂车帝 二手车电池检测内容 | 懂车帝（字节跳动） | CN | https://www.iesdouyin.com/share/video/7618925618490849457 | 2026-09-02 | SINGLE_SOURCE | 20%-80% 充电验证衰减方法 |
-| 懂车帝 二手电车三招排除事故/泡水/调表 | 懂车帝（视频） | CN | https://www.iesdouyin.com/share/video/7678314679869430004 | 2026-09-02 | SINGLE_SOURCE | 事故/泡水/调表排查方法、电池包护板拆装痕迹 |
-| Jingsuncar — 2026 二手新能源出口指南 | Jingsuncar（行业站） | CN | https://www.jingsuncar.com/news/2026-must-see-guide-for-buying-used-new-energy-85493284.html | 2026-09-02 | SINGLE_SOURCE | 出口 SOH≥80% 认证门槛（EU/东盟） |
+| GB/T 31484 牵引-电池周期-寿命要求/试验方法 | 中国国家标准(**标准体**) | 氯化萘 | https://www.chinesestandard.net/PDF.aspx/GBT31484-2015 维基月球 | 2026-09-03 | ** 已执行** | 能力/周期-寿命测试框架;初始能力要求 |
+| IEC 62660-1/2 锂离子电池性能/寿命测试 | IEC(国际标准机构**) | 全球 | https: 页面存档备份,存于互联网档案馆 //www.iec.ch/(IEC 62660系列) | 2026-09-03 | ** 已执行** | SOH标准细胞性能/寿命测试基础 |
+| GB/T 46991.1-2025 机载SOH/SOC显示精度和耐久性(MIIT/SAC) | 中国推荐的国家标准(**标准机构**). | 氯化萘 | 通过标准覆盖面报告;主要通过SAC/MIIT渠道报告 | 2026-09-03 | 横跨 | 机上健康显示精度单独标准化(不是合法输入线). |
+| SOH配方和《质量控制/T 743 80%报废公约》 | 伦敦国家中心 电池技术解释器(工业) | 全球 | https://lnclibattery.com/blog/evaluation-of-the-health-status-soh-of-lithium-ion-batteries/ 维基月球 | 2026-09-03 | 资源 | 基于能力的SOH公式;80%作为工业报废参考 |
+| 购买用过的NEV/充电测试和筛选方法的核心点 | Yiche, Dongchedi(自动媒体;方法参考) | 氯化萘 | https://hao.m.yiche.com/wenzhang/107776270/ 维基月球 | 2026-09-03 | 资源 | 检查方法、充电测试、事故/洪水/气压计练习 |
+| 懂车帝 二手车电池检测内容 (单位:千美元) | 懂车帝(字节跳动) (中文(简体)). | 氯化萘 | https://www.iesdouyin.com/share/video/7618925618490849457 维基月球 | 2026-09-02 | 资源 | 20% - 80% 充电验证衰减方法 (中文(简体)). |
+| 懂车帝 二手电车三招排除事故 / 泡水 / 调表 (中文(简体)). | 懂车帝(视频) (中文(简体)). | 氯化萘 | https://www.iesdouyin.com/share/video/7678314679869430004 维基月球 | 2026-09-02 | 资源 | 事故/泡水/调表排查方法;电池包护板拆装痕迹 维基月球在线解说-马恩岛环形山. |
+| 静顺车 - 2026 二手新能源出口指南 | 静顺车(行业站). | 氯化萘 | https://www.jingsuncar.com/news/2026-must-see-guide-for-buying-used-new-energy-85493284.html 维基月球 | 2026-09-02 | 资源 | 出口 SOH ≥ 80% 认证门槛(欧盟东盟) |
 
-*Confidence note: what the battery standards define (SOH measurement, cycle testing, the 80% engineering convention) is VERIFIED/CROSS_CHECKED against standards bodies. The earlier "SOH ≥80% required to clear EU/ASEAN certification" claim had no official source and has been removed: no universal legal SOH import threshold exists, and the destination authority's rule must be obtained per country. Inspection-method videos are used only as method references.*
-## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: Global (China used-EV export side)
-- **Verification method**: Standards-body basis for SOH concepts; media used only for inspection method; engineering line kept distinct from any destination legal rule
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+* 说明:电池标准的定义(SOH测量、循环测试、80%工程公约)是参照标准机构进行的核查IED/CROSS_CHECKED。 较早的"SOH ≥ 80% 清除欧盟/东盟认证要求"没有官方来源,被删除:不存在普遍的法律SOH进口门槛,必须获得每个国家的目的地当局规则. 检查方法的视频仅用作方法参考。 * 报告迟交是因为需要翻译。
+## 编辑评论
+- ** 授权/审查人**:[自动桥出口编辑组](/作者/) / 方法,按我们的[编辑政 (/编辑政策/)
+- ** 上次审查**:2026-09-05
+- **参考市场**:全球(中国使用电子电子数据出口方)
+- ** 核查方法**: 标准机构基础 SOH概念;媒体仅用于检查方法;工程线与任何目的地法律规则保持区别
+- ** 编辑标准**: 由上述来源研究和撰写(案头研究;没有声称直接驾驶、拆卸或进口)。 源头信任是一行的;我们不能独立确认的任何一点都作为核查项目而不是事实提出。
 #AutoBridge #UsedEVInspection #BatterySOH #ExportProcurement #PrePurchaseCheck

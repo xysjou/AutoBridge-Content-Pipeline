@@ -1,57 +1,57 @@
-# Geely Xingyuan / Galaxy Xingyuan (2025/2026) - Chinese- Market BeV Specs dan Ekspor Verifikasi
+# Geely Xingyuan / Galaxy Xingyuan (2025/2026) - Cinese- Market BeV Specs dan Expor Verifikasi
 
 ## SEO Metadata
 - ** SeO Judul **: Geely Xingyuan (Galaxy Xingyuan) BEV: Petunjuk & Ekspor Pasar
-- ** Meta Description **: Chinese- pasar Geely Xingyuan / Starwish EV kecil: GEA architecture, RWD, 58/85 kW motors, 310/410 km CLTC, 40.16 kWh line and export buyer checks.
-- ** H1 **: Geely Xingyuan / Galaxy Xingyuan (2025/2026) - Cinese- Market BeV Specs dan Ekspor Verifikasi
-- ** Primary Keyword **: Geely / 吉利 Xingyuan / 吉利星愿（Galaxy 星愿） specs export
+- ** Meta Description **: Chinese- pasar Geely Xingyuan / Starwish EV kecil: Arsitektur GEA, RWD,  58/85 kW motors,  310/410 km CLTC, Baris 40.16 kWh  and  Cek ekspor pembeli.
+- ♪ ♪ H1 **: Geely Xingyuan / Galaxy Xingyuan (2025/2026) - Chinese- Market BeV Specs dan Ekspor Verifikasi
+- ** Primary Keyword **: Geely / 吉利 Xingyuan / 吉利星愿 Abolar 星愿 Sportics export
 - ** Akhir Pencarian Second **: Ekpor Geely Xingyuan; spesifikasi Galaxy Xingyuan; Geely Starwish; hatchback listrik kecil Cina; EV Kota CLTC
 - ** Sugested URL **: / kendaraan / geely-xingyuan /
-- ** Cari Intent **: 了解 Geely / 吉利 Xingyuan / 吉利星愿（Galaxy 星愿） 中国版规格、配置与出口适配性（车型参数页）
-- ** Internal Link Sugestions **: / kendaraan / geely-xingyuan /, / guide / e-- shippping- un3556-imdg-compliance-history/, / panduan / ekspor-compligence-assession-end-user /
+- 了解 Geely / 吉利 Xingyuan / 吉利星愿 Galaxy 星愿: 中国版规格 = 配置与出口适配性 = 车型参数页 =
+- ** Internal Link Sugestions **: / kendaraan / geely-xingyuan /, / guide / ev- shipping- un3556-imdg-compliance-history/, / guide / exports-compligence-excisions-ending-user /
 - ** Schema Scope **: Pasal + Kendaraan (tidak Ada Produk / Offer / Review)
 
 ## Identitas konteks dan model pembeli
-The **Geely Xingyuan (Galaxy Xingyuan, marketed in some export markets under a separate English name)** is an A0 five-door battery-electric hatchback on Geely's **GEA** EV architecture, with **rear-motor/rear-wheel drive**. Halaman ini adalah ** Cinese- pasar ** referensi; nama model luar negeri tidak diperlakukan sama dengan nama OEM.
+The ** Geely Xingyuan (Galaxy Xingyuan,  marketed in some export markets under a separate English name)** is an A0 five-door battery-electric hatchback on Geely's **GEA** EV architecture, dengan ** return-motor / rear-wheel drive **. Halaman ini adalah ** Cinese- pasar ** referensi; nama model luar negeri tidak diperlakukan sama dengan nama OEM.
 
 ## Daya listrik dan garis jangkauan
-- ** Body **: 4135 / 1805 / 1570（STAR限定版车长4155） mm (STAR edition 4155 mm long), wheelbase 2650 mm, 5门5座; 后置后驱.
-- ** Motors **: 58 / 85 kW options.
-- ** Baterai **: 磷酸铁锂; the captured capacity line is 40.16 kWh for the longer-range car. Sebuah pemasok sel tertentu muncul hanya dalam akun ensiklopedia / media dan ** tidak OEM- dikonfirmasi **, sehingga ditahan.
-- ** Range **: 310 / 410 km CLTC (cross-checked) — a Chinese test cycle, not WLTP.
-- ** Cargo **: 375（前备厢70，后排放倒1320） L; platform GEA 纯电架构.
+- ** Body **: 4135 / 1805 / 1570 STAR 限定版车长 4155 NURM (STAR Edition 4155 mm), wheelbase 2650 mm, 5 门 5 座; 后置后驱.
+- ** Motors **: 58 / 85 kW pilihan.
+- ** Baterai **: 磷酸铁锂; garis kapasitas tertangkap adalah 40.16 kWh untuk mobil jangka panjang. Sebuah pemasok sel tertentu muncul hanya dalam akun ensiklopedia / media dan ** tidak OEM- dikonfirmasi **, sehingga ditahan.
+- ** Jangkauan **: 310 / 410 km CLTC (cross- diperiksa) - sebuah siklus tes Cina, bukan WLTP.
+- 375 前备厢 70 = 后排放倒 1320 = = peron GEA 纯电架构.
 - Kekuatan pengisian Peak tidak dapat diandalkan ditangkap dan tidak dinyatakan. **
 
 ## Tabel spesifikasi terverifikasi (Referensi pasar Cinese-)
 | Spesifikasi | Nilai | Unit | Pasar | Percaya diri | Catatan sumber |
 |---|---|---|---|---|---|
-| tinggi lebar panjang | 4135 / 1805 / 1570（STAR限定版车长4155） | mm | CHINA | _ BERDECAT | 搜狐双页 |
-| pangkalan roda | 2650 | mm | CHINA | _ BERDECAT | 搜狐+腾讯 |
+| tinggi lebar panjang | 4135 / 1805 / 1570 STAR 限定版车长 4155 | mm | CHINA | _ BERDECAT | 搜狐双页 |
+| pangkalan roda | 2650 | mm | CHINA | _ BERDECAT | 搜狐 + 腾讯 |
 | kursi | 5门5座 | - | CHINA | SINGLE _ SOURCE | 搜狐车型库 |
 | tata letak | 后置后驱 | - | CHINA | SINGLE _ SOURCE | 腾讯新闻 |
 | opsi daya motor | 58 / 85 | kW | CHINA | SINGLE _ SOURCE | 搜狐汽车 |
 | jenis baterai | 磷酸铁锂 | - | CHINA | SINGLE _ SOURCE | 搜狐汽车 |
 | Kapasitas baterai 410 | 40.16 | k Wh | CHINA | SINGLE _ SOURCE | 搜狐汽车 |
-| jangkauan cltc | 310 / 410 | km | CHINA | _ BERDECAT | 搜狐+腾讯 |
-| Volume muatan | 375（前备厢70，后排放倒1320） | L | CHINA | SINGLE _ SOURCE | 搜狐车型库 |
+| jangkauan cltc | 310 / 410 | km | CHINA | _ BERDECAT | 搜狐 + 腾讯 |
+| Volume muatan | 375: 前备厢 70 = 后排放倒 1320 = = | L | CHINA | SINGLE _ SOURCE | 搜狐车型库 |
 | platform | GEA 纯电架构 | - | CHINA | SINGLE _ SOURCE | 腾讯新闻 |
 
 ## Logika ekspor EV kecil: baris baterai, siklus dan pengiriman
-Kota Evs sering salah dikutip dengan menggunakan satu nomor jangkauan untuk dua motor / baterai. On the Xingyuan, pair the motor (58 or 85 kW) with its matching battery and CLTC range on every order, and convert to the destination test cycle rather than re-labelling CLTC. Sebagai baterai lithium-ion EV, angkutan laut mengikuti klasifikasi IMDG saat ini untuk kendaraan bertenaga batteri- (UN3556 untuk kendaraan utuh) - lihat panduan pengiriman. Pemasok baterai dan daya pengisian puncak tetap belum dikonfirmasi tertunda data OEM.
+Kota Evs sering salah dikutip dengan menggunakan satu nomor jangkauan untuk dua motor / baterai. Pada Xingyuan, pasangkan motor (58 atau 85 kW) dengan baterai yang cocok dan CLTC pada setiap urutan, dan ubah ke siklus uji tujuan daripada label ulang CLTC. Sebagai baterai lithium-ion, angkutan laut mengikuti klasifikasi IMDG saat ini untuk kendaraan bertenaga batteri- (UN3556 untuk kendaraan utuh) - lihat panduan pengiriman. Pemasok baterai dan daya pengisian puncak tetap belum dikonfirmasi tertunda data OEM.
 
 ## Pembeli luar negeri verifikasi sebelum pembayaran
 1. Cocokkan opsi motor untuk jangkauan baterai dan CLTC; ambil baris build VIN.
 2. Translate CLTC 310/410 km to the destination cycle.
 3. Konfirmasi konektor / protokol muatan dan kemampuan AC / DC (puncak DC tidak ditangkap di sini).
-4. Konfirmasi homologasi EV, dokumen baterai dan dokumen pengiriman UN38.3/IMDG dengan forwarder.
+4. Konfirmasi homologasi EV, dokumen baterai dan UN38.3/IMDG dokumen pengiriman dengan forwarder.
 5. Permintaan kutipan ekspor saat ini; tidak ada harga ekspor yang diterbitkan.
 
 ## PSD
 ** Apakah Xingyuan sama seperti ekspor "Starwish"? ** Nama di seluruh pasar memerlukan pernyataan OEM; halaman ini menyimpan identitas orang Cina.
 Mengapa tidak ada sosok daya charging? Itu tidak bisa diandalkan dan ditahan daripada menebak.
 Who makes the cells? Tidak OEM- dikonfirmasi; undiscerkan.
-**Is 410 km WLTP?** No — CLTC.
-*** Bagaimana kapal itu? Sebagai sebuah lithium-ion baterai utuh di bawah kelas IMDG saat ini (UN3556), konfirmasi dengan pembawa.
+** Apakah 410 km WLTP? ** Tidak. / CLTC.
+*** Bagaimana kapal itu? Sebagai lithium-ion baterai utuh di bawah kelas IMDG (UN3556), konfirmasi dengan pembawa.
 
 
 ## Sumber & Verifikasi
@@ -65,7 +65,7 @@ Who makes the cells? Tidak OEM- dikonfirmasi; undiscerkan.
 | Administrasi Negara untuk Peraturan Pasar (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | TERBATAI | https://www.samr.gov.cn/ | standar nasional, sertifikasi dan pasar-otoritas peraturan |
 ## Editorial Review
 - ** Penulis **: Tim Editorial AutoBridge Ekspor
-- 2026-09-05
+- ** Terakhir ditinjau **: 2026-09-05
 - *** Referensi pasar **: Cina (spesifikasi referensi pasar Cinese-; bukan spesifikasi global)
 - ** Metode Verifikasi **: Penelitian terhadap sumber di bawah ini; spesifikasi referensi pasar Cinese- kecuali pasar ekspor terpisah secara eksplisit dikutip.
 - ** Transparansi **: penggambaran bantuan digunakan. Artikel ini didasarkan pada penelitian meja dan otomatis QA. Tidak ada pengujian pertama-tangan diklaim kecuali secara eksplisit didokumentasikan; konfirmasi waktu - sensitif dan destination- persyaratan spesifik sebelum mengubah.
@@ -74,12 +74,15 @@ Who makes the cells? Tidak OEM- dikonfirmasi; undiscerkan.
 - ** IMAGE _ ASSET _ PATH **: tidak ada yang diamankan dalam repositori
 - ** ORIGINAL _ IMAGE _ URL **: tidak ditangkap
 - ** SUMBER _ PAGE **: tidak ditangkap
+- ** SOURCE _ FILE _ PAGE **: tidak dapat diterapkan - tidak ada berkas media kandidat yang diidentifikasi (tidak ada lisensi untuk menegaskan)
 - ** RIGHTS _ HOLDER **: belum dikonfirmasi
 - ** LICENSE _ OR _ USAGE _ BASIS **: tidak ada yang aman - kehadiran halaman web OEM bukan sebuah lisensi penggunaan ulang komersial
-- 2026-09-05
+- ** CHECTD _ DATE **: 2026-09-06
 - ** MODEL _ TOPIC _ MATCH *: tepat Geely Xingyuan
+- ** IMAGE _ SCOPE _ CATATAN **: gambar harus cocok dengan model yang sama saja keluarga / topik; tidak boleh menyiratkan trim, model tahun, VIN, in- orang pemeriksaan atau transaksi aktual
 - FAIL
-- ** ALT (bahasa 12) *:
+- ** BLOCK _ REASON **: Tidak ada gambar yang dapat digunakan ulang yang dapat diamankan: Wikimedia Commons / Flickr tidak dapat dicapai dari lingkungan penelitian, perpustakaan saham memerlukan akses API / license yang dikonfirmasi, dan gambar laman web OEM TIDAK sebuah hibah komersial. Tak ada foto AutoBridge- milik mereka. Catatan tetap FAIL daripada menegaskan.
+- ** ALT (12 bahasa) *:
   - **EN**: Geely Xingyuan, Chinese-market BEV hatchback export buyer reference
   - **FR**: Geely Xingyuan, BEV hatchback du marché chinois, référence acheteur export
   - **DE**: Geely Xingyuan, Chinesischer BEV hatchback, Referenz für Exportkäufer

@@ -1,71 +1,77 @@
-# Export Compliance and Sanctions Screening for Chinese Vehicle Exporters
+# مراقبة الامتثال والجزاءات على المصدرين للمركبات الصينية
 
 ## SEO Metadata
-- **SEO Title**: Export Compliance & Sanctions Screening for Vehicle Exporters: End-User, Dual-Use and Restricted Lists
-- **Meta Description**: A Chinese vehicle-export compliance baseline: end-user/end-use controls, dual-use screening, restricted/denied-party lists, the five-year record duty, and why restricted parties must not be served.
-- ** H1 **: Export Compliance and Sanctions Screening for Chinese Vehicle Exporters
-- **Primary Keyword**: export compliance sanctions screening end user
-- **Secondary Search Terms**: export control; sanctions screening; end-user statement; denied party; dual-use; restricted list
-- **Suggested URL**: /guides/export-compliance-sanctions-screening-end-user/
-- **Search Intent**: 汽车出口如何做最终用户/最终用途尽调、管控/关注名单与境外制裁名单筛查，规避出口管制与制裁风险
-- **Internal Link Suggestions**: /guides/export-payment-methods-t-t-lc-risk/, /guides/verify-chinese-car-export-supplier-history/, /guides/export-compliance-sanctions-screening-end-user/
-- **Schema Scope**: Article (no Product/Offer/Review)
+- ** رابطة الدول المستقلة، الباب**: الجزاءات المتعلقة بالامتثال للصادرات فحص مصدِّري المركبات: قوائم الاستخدام النهائي والقائمة المزدوجة والمقيدة
+- ** وصف البيانات**: خط أساس صيني للامتثال للمركبات - الصادرات: ضوابط المستعملين النهائيين/الاستعمالات النهائية، والفحص المزدوج الاستخدام، والقوائم المقيدة/القائمة الملغية، والواجب القياسي الذي دام خمس سنوات، ولماذا لا يجب تقديم الخدمات للأطراف المقيدة.
+- ** H1 **** الامتثال للصادرات وفرز الجزاءات بالنسبة لمصدري المركبات الصينيين
+- ** كلمة أساسية برايمية**: فحص الجزاءات المفروضة على الامتثال للصادرات
+- ** شروط البحث الثانية**: مراقبة الصادرات؛ وفحص الجزاءات؛ وبيان المستعمل النهائي؛ وبيان الطرف المحرم؛ وازدواجية الاستخدام؛ وقائمة محدودة
+- ** المبلغ المشترَك في إطار جولة أوروغواي**: /الإرشادات/استخدام المستعمل النهائي/القيام بفحص المنجزات/استخدامها في عمليات الامتثال للصادرات
+- ** الحلقة الدراسية**: 汽车出口如何做最终用户 / 最终用途尽调 ◂ / 管控 / 关注名单与境外制裁名单筛查, 规避出口管制与制裁风险
+- ** مقترحات داخلية بشأن الروابط**: /مبادئ توجيهية/مقتطفات من الرصاص/مخاطرة من النوع الذي يُدفع من التصدير/، و/أو مبادئ توجيهية/مصدر للسيارات الصينية/الموردة/تاريخ/،/مبادئ توجيهية/استراتيجيات/امتثال للصادرات - مستعمل/مستعمل/مستعمل/مستعمل/مستعمل/مستعمل/مستعمل/مستعمل/تخفيف
+- ** نطاق الشيمة**: المادة (لا منتج/منتج/مراجعة)
 
-## Compliance is a transaction gate, not paperwork at the end
-Vehicle exporters face both China's export-control regime and international sanctions frameworks. The controlling principle is **end-user and end-use management across the whole transaction**: an exporter must know who will receive the goods and what they will be used for, and must screen against restricted/denied lists before committing. This cannot be outsourced to the freight forwarder or fixed after shipment.
+## الامتثال هو بوابة معاملة، وليس أوراق عمل في النهاية
+ويواجه مصدرو المركبات كلا من نظام مراقبة الصادرات في الصين وأطر الجزاءات الدولية. ومبدأ الرقابة هو إدارة المستعمل النهائي والاستخدام النهائي في جميع المعاملات**: يجب على المصدر أن يعرف من سيستلم البضائع وما سيستخدمه، ويجب أن يفحصها في قوائم مقيدة/مُنكرة قبل الالتزام. ولا يمكن الاستعانة بمصادر خارجية في هذا الشأن إلى مرسل الشحن أو إصلاحه بعد الشحن.
 
-## The duties the rules actually impose
-- **End-user/end-use evidence**: obtain end-user/end-use documentation where controlled items or sensitive uses are involved.
-- **Control-list basis**: determine whether the item (including any dual-use technology or component) falls on a control list; vehicles and especially certain chassis, electronics or dual-capable equipment need a genuine check rather than an assumption that "cars are not controlled".
-- **Denied/restricted principle**: where a party is on a control/watch list, or the end use relates to military end-users, WMD or terrorism, the licence is not granted and the transaction must not proceed.
-- **Records**: relevant end-user and screening records are retained for **five years**.
-- **Compliance measures**: maintain an internal screening step at order intake (an order-screening routine, end-use statements, escalation for hits).
+## الواجبات التي تفرضها القواعد
+- ** دليل المستعملين/الاستعمال النهائي**: الحصول على وثائق المستعملين النهائيين/الاستعمالات النهائية حيثما تكون هناك أصناف خاضعة للرقابة أو استخدامات حساسة.
+- ** قائمة المراقبة**: تحديد ما إذا كان البند (بما في ذلك أي تكنولوجيا أو عنصر مزدوج الاستخدام) مدرجا في قائمة المراقبة؛ والمركبات، ولا سيما بعض الفوضوية أو الإلكترونية أو المعدات ذات القدرات المزدوجة، تحتاج إلى فحص حقيقي بدلا من افتراض أن السيارات لا تخضع للمراقبة.
+- ** مبدأ معلَّق/مقيد**: إذا كان الطرف مدرجاً في قائمة مراقبة/المراقبة، أو يتعلق الاستخدام النهائي بالمستعملين النهائيين العسكريين، أو أسلحة الدمار الشامل، أو الإرهاب، لا يمنح الترخيص ولا يجب أن تمضي العملية.
+- ** السجلات**: يحتفظ بالمستعمل النهائي وسجلات الفرز ذات الصلة لمدة خمس سنوات**.
+- ** تدابير الامتثال**: الإبقاء على خطوة فرز داخلي عند الاستيعاب (تجريب فحص الطلبات، وبيانات عن الاستخدام النهائي، وتصعيد الزيارات).
 
-## How to screen without copying a list by hand
-Restricted lists change, so never maintain a hand-copied static list. Use a current screening tool/database at order intake and again before shipment, screen all parties (buyer, consignee, bank, ship-to where relevant), keep the screening result with the file, and escalate any hit for a formal decision rather than "name-tweaking" to pass the matcher.
+## كيف نُشاهد بدون نسخ قائمة باليد
+قوائم مقيدة تتغير لذا لا تحتفظ بقائمة ثابتة مجهزة باليد استخدم أداة/قاعدة بيانات فرز حالية عند استلام الطلب، ومرة أخرى قبل الشحن، وفحص جميع الأطراف (المشتري والمرسل إليه والمصرف والسفن إلى حيث يكون ذلك مناسبا)، والاحتفاظ بنتائج الفرز بالملف، وتصاعد أي ضربة لاتخاذ قرار رسمي بدلا من " التصفيق " لتجاوز المطابق.
 
-## A practical order-intake sequence
-1. Capture full legal names and addresses of all counterparties.
-2. Screen against current China export-control and applicable sanctions lists; date-stamp the result.
-3. Obtain an end-use/end-user statement for any sensitive item or destination.
-4. Escalate hits; do not transact with denied/control-list parties.
-5. Retain the complete file for five years.
+## تسلسل عملي لاستلام النظام
+1. - الحصول على أسماء وعناوين قانونية كاملة لجميع الأطراف النظيرة.
+2. : التمحيص ضد قوائم الجزاءات الحالية المتعلقة بالصادرات والجزاءات المنطبقة في الصين؛ وتاريخ بدء العمل بالنتيجة.
+3. الحصول على بيان عن الاستخدام النهائي/المستعمل النهائي لأي بند أو وجهة حساسة.
+4. - تسارع عدد المصابين؛ لا تتحول إلى أطراف منكرة/مراقبة.
+5. احتفظ بالملف الكامل لخمس سنوات
 
-## Boundaries
-This guide does not list sanctioned entities (they change) and does not give country-specific embargo conclusions; obtain current lists and, for ambiguous cases, legal advice.
+## الحدود
+ولا يتضمن هذا الدليل قائمة بالكيانات التي تمت معاقبتها (التغيير) ولا يقدم استنتاجات بشأن الحظر على بلدان محددة؛ ويحصل على قوائم قائمة حاليا، وعلى المشورة القانونية في الحالات التي تنطوي على غموض.
 
 ## FAQ
-**Are ordinary passenger cars dual-use?** Do not assume — screen the specific item, technology and destination against current lists.
-**How long are records kept?** Five years for the relevant end-user/compliance records.
-**Can I just keep a copied blacklist?** No — lists change; use a current screening tool and keep dated results.
-**Who do I screen?** Buyer, consignee and other relevant parties, at intake and again before shipment.
-**What if there is a hit?** Escalate and do not proceed; a denied party must not be served.
+** هل سيارات الركاب العادية ذات الاستخدام المزدوج؟** لا تفترض - تفحص البند الخاص والتكنولوجيا والمقصد على القوائم الحالية.
+** كم تبقى من السجلات**؟ خمس سنوات لسجلات المستعمل النهائي/الاستجابة ذات الصلة.
+** هل يمكنني أن أبقي قائمة سوداء مستنسخة؟ ** لا - تغيير القوائم؛ استخدام أداة الفحص الحالية والاحتفاظ بنتائج مواعدة.
+** من سأشاهده** المشتري والمرسل إليه والأطراف الأخرى ذات الصلة، عند الاستلام، ثم مرة أخرى قبل الشحن.
+** ماذا لو كان هناك ضربة** تصعيد ولا تمضي قدماً؛ ولا يجب تقديم خدمة إلى الطرف المُنكر.
 
 
-## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
+## المصدر: التحقق
+| المصدر | المنظمة | السوق | النمور | الثقة | URL | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
-| 两用物项出口管制条例（国务院令第792号） | 中华人民共和国商务部 | CN | T1 | VERIFIED | http://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2025/art_e63af2ce2c7e406394a2faf84a9b4738.html | 最终用户用途证明, 保存5年, 管控名单 |
-| 两用物项出口管制内部合规指南 | 中华人民共和国商务部 | CN | T1 | VERIFIED | https://www.mofcom.gov.cn/cms_files/filemanager/1077459795/attach/20239/2021070615181087.pdf | 订单筛查系统, 最终用途声明, 合规体系 |
-| 司法部、商务部负责人就两用物项出口管制条例答记者问 | 中国政府网 | CN | T1 | VERIFIED | https://www.gov.cn/zhengce/202410/content_6981660.htm | 全过程最终用户用途管理, 关注名单 |
-| 两用物项出口管制措施专题（不予许可情形） | 中华人民共和国商务部 | CN | T1 | VERIFIED | https://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_148254ba99284928ae6e4f84d1d6f297.html | 军事用户/管控关注名单不予许可, WMD/恐怖主义/军事用途 |
-| Ministry of Commerce (MOFCOM) | MOFCOM 商务部 | CN | T1 | VERIFIED | https://www.mofcom.gov.cn/ | competent authority for export licensing and export control |
-## Editorial Review
+| 两用物项出口管制条例（国务院令第792号） | 中华人民共和国商务部 | CN | T1 | مفقود | http://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2025/art_e63af2ce2c7e406394a2faf84a9b4738.html | 最终用户用途证明, 保存 5 年, 管控名单 |
+| 两用物项出口管制内部合规指南 | 中华人民共和国商务部 | CN | T1 | مفقود | https://www.mofcom.gov.cn/cms_files/filemanager/1077459795/attach/20239/2021070615181087.pdf | 订单筛查系统, 最终用途声明, 合规体系 |
+| 司法部、商务部负责人就两用物项出口管制条例答记者问 | 中国政府网 | CN | T1 | مفقود | https://www.gov.cn/zhengce/202410/content_6981660.htm | 全过程最终用户用途管理, 关注名单 |
+| 两用物项出口管制措施专题（不予许可情形） | 中华人民共和国商务部 | CN | T1 | مفقود | https://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_148254ba99284928ae6e4f84d1d6f297.html | 军事用户 / 管控关注名单不予许可، WMD/ 恐怖主义 / 军事用途 |
+| Ministry of Commerce (MOFCOM) | MOFCOM 商务部 | CN | T1 | مفقود | https://www.mofcom.gov.cn/ | السلطة المختصة بإصدار تراخيص التصدير ومراقبة الصادرات |
+| Regulation (EU) 2021/821 — EU dual-use export-control regime | الاتحاد الأوروبي (اليورو - ليكس) | الاتحاد الأوروبي | T1/T2 | مفقود | https://eur-lex.europa.eu/eli/reg/2021/821/oj | مثال لنظام رئيسي لمراقبة الاستخدام المزدوج والضوابط المقيدة على الأطراف/الاستعمال النهائي ذات الصلة بفرز التصميم |
+| قائمة هيئة معلومات أساسية عن المعلومات الأساسية في الولايات المتحدة - مثال على ذلك | US Bureau of Industry and Security (BIS) | الولايات المتحدة الأمريكية | T1/T2 | مفقود | https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern/entity-list | قائمة عامة بالأطراف المقيدة توضح الفرز الممنوح قبل الشحن |
+| "أوزك" القائمة - فرز الجزاءات | US Office of Foreign Assets Control (OFAC) | الولايات المتحدة الأمريكية | T1/T2 | مفقود | https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists | مصممة خصيصا قائمة وطنية كمصدر لبيانات فرز الجزاءات؛ وتحديد الولاية القضائية، وليس قائمة سوداء عالمية |
+## استعراض التحرير
 - ** Author**: AutoBridge Export Editorial Team · [authors](/authors) · [Editorial Policy](editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: CN出口管制+国际制裁框架
-- **Verification method**: Desk research against the sources below; Chinese-market reference specification only unless a separate export market is explicitly cited.
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
+- ** لم يُستعرض بعد**: 2026-09-05
+- ** سوق الإحالة**: CN 出口管制 + 国际制裁框架
+- ** طريقة الفرز**: بحوث مكتبية ضد المصادر الواردة أدناه؛ والمواصفات المرجعية للسوق الصينية فقط ما لم يُستشهد صراحة بسوق تصدير منفصلة.
+- ** الشفافية**: استُخدمت الصياغة المدعومة من منظمة العفو الدولية. وتستند هذه المادة إلى البحوث المكتبية وآلية الجودة. ولا يُزعم إجراء أي اختبار مباشر إلا إذا تم توثيقه بشكل صريح؛ ويؤكد متطلبات مراعية للوقت ومحددة للمقصد قبل التحول.
 
-## Image Record
-- ** none secured in repository
-- ** not captured
-- **SOURCE_PAGE**: not captured
-- ** unconfirmed
-- ** none secured — OEM webpage presence is not a commercial reuse licence
-- ** CHECKED_DATE**: 2026-09-05
+## سجل الصور
+- ** لم يُكفل أي شيء في مستودع
+- ** غير مسبوقة **
+- ** الموارد: لم يُقبض عليها
+- ** المصدر: الدليل: لا ينطبق - لم يحدد أي ملف إعلامي مرشح (لا رخصة للتأكيد)
+- ** مسلسل هولدر**: غير مؤكد
+- ** لا يوجد أي من هذه الصفحات مضمونة - ليس من حق المنظمة الحصول على ترخيص تجاري لإعادة الاستخدام
+- ** CHECKED_DATE**: 2026-09-06
 - ** MMODEL_TOPIC_MATCH**: exact Export Compliance and Sanctions Screening for Chinese Vehicle Exporters
+- ** MEIMAGE_SCOPE_NOTE**: يجب أن تتطابق الصورة مع النموذج المحدد للأسرة/المنظر فقط؛ ويجب ألا تنطوي على ثلاثية محددة، أو سنة نموذجية، أو تفتيش فعلي، أو عملية فعلية
 - **MAGE_Rights_STATUS**: FAIL
+- ** BLOCK_REASON**: لا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: لا يمكن الوصول إلى الشائعات/الفلك من بيئة البحوث، ولا تحتاج مكتبات المخزون إلى الوصول إلى نظام تسجيل الدخول/الرخصة الموثق، وصورة الموقع الشبكي لمنظمة أوم ليست منحة إعادة استخدام تجارية. لا توجد صورة مملوكة لـ(أوتومبريدج) وظل التسجيل في القوات المسلحة الفلسطينية بدلا من التأكيد عليه.
 - **ALT (12 languages)**:
   - **EN**: export compliance screening, Chinese-market procurement guide export buyer reference
   - **FR**: export compliance screening, procurement guide du marché chinois, référence acheteur export

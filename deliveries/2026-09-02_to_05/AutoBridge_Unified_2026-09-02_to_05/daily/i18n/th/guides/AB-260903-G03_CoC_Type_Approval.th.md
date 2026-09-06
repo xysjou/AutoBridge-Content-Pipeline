@@ -1,65 +1,68 @@
-# Certificate of Conformity vs Type Approval: a Dossier Map Exporters Keep Getting Wrong
-## SEO Metadata
-- **SEO Title**: Vehicle CoC vs Type Approval (WVTA, OTTS, E-mark) Buyer Guide
-- **Meta Description**: Untangle China's domestic certificate of conformity from destination-market CoC, and EU WVTA, EAEU OTTS/EAC and e-mark/E-mark systems — so the right dossier reaches the registration desk.
-- **Suggested URL**: /guides/vehicle-coc-type-approval-dossier/
-- ~ H1~: Vehicle CoC and Whole-Vehicle Type Approval: Matching the Right Document to the Right Market
-- **Primary Keyword**: vehicle certificate of conformity vs type approval wvta otts emark
-- **Secondary Search Terms**: China CoC export, EU whole vehicle type approval, EAEU OTTS EAC, e-mark vs E-mark, UNECE 1958 type approval, vehicle registration dossier
-- **Internal Link Suggestions**: /guides/china-vehicle-export-license-customs-documents/ ; /guides/uae-vehicle-import-registration-documents/ ; / Viohles/ Saic-maxus- v90-specs/
-- **Image Suggestions**: document-hierarchy diagram (type approval → CoC); market→certificate map; China CoC vs destination CoC comparison
-- **ALT Suggestions**: "type approval to certificate of conformity hierarchy"; "WVTA OTTTS E-mark mark Smimber"
+# ใบรับรองของ Confirmitity vs ppoval: A dosier Map Express ทํา ผิด อยู่ เรื่อย ๆ
+## เชา ข้อมูลกํากับภาพ
+- < seO town *: พาหนะ CC vs approofal (WVTA, OTTTS, E-mark) คู่มือซื้อ
+- ""คําอธิบาย" Untangle's India's International of access of accessation of lineity from point-smark Coc, และ EU WWTA, EEU OTTTTS/EAC และระบบอี-มาร์ค-อี-มาร์ค — ดังนั้นโดสเซอร์ที่ถูกต้องถึงโต๊ะลงทะเบียน
+- ~ที่อยู่ URL ที่ถูกย่อ: / guides/Vical-coc-type-oprovation-dosier/
+- ** H1 ~: พาหนะ โคซี และ สายพันธุ์ veecle as appoval: การ เทียบ เอกสาร ที่ ถูก ต้อง กับ ตลาด ถูก
+- ~ คําสําคัญในคอลัมน์ ~: ใบรับรองการใช้ของ accesty vs excust excust wvta  otts emarks
+- ~การค้นหาตามวาระที่: ~ ประเทศจีนส่งออก COC, ชนิดของรถ EU ทั้งหมด อนุมัติ EAU OTTTS AC, E-marks vs-marks, UNE 1958 เครื่องรับรองรถ, เครื่องตรวจการลงทะเบียน
+- ~ ลิงก์ภายในที่แนะนํา~ ~/ guides/china-weical-export-excustics- documents/;/ guides/aue-va-vacy-Importing-deportcuts/;/sic-axus- v90-specs/
+- ~คําแนะนําของโครงการ ~: แผนภาพเอกสาร (โปรดใช้ → CoC; market access capitation part; จีน โคซี vs ปลายทาง CoC เปรียบเทียบ
+- ~คําแนะนําของ WATTH ~: "ชนิดของการอนุมัติต่อลําดับชั้นความสอดคล้องของลําดับชั้นชั้นตามความสอดคล้อง"". "WVTA OTTTTS E-mark mark mark Mat".
 
-## The Core Confusion
-Exporters repeatedly treat **one document as if it were another**: they present a Chinese domestic 合格证/CoC as overseas market access, or assume a component E-mark certifies the whole vehicle. Type approval and a certificate of conformity sit at different levels — and getting this wrong is a common reason registration is rejected. This guide maps the systems. **Evidence note:** the China-side framework is grounded in MIIT materials; descriptions of EU/EAEU/UNECE instruments below come from certification-service providers (secondary), and the regulation texts themselves should be pulled from EUR-Lex / UNECE / the EAEU commission before a compliance decision — they are not quoted here as primary statute.
+## ชนวน ของ แกน หลัก
+Escapers ปฏิบัติต่ออีกครั้ง~ เอกสารหนึ่งราวกับว่ามันเป็นอีก *: พวกเขานําเสนอประเทศจีน 合格证 / COC เป็นการเข้าถึงตลาดต่างประเทศ หรือสมมุติว่าองค์ประกอบ E-mark Certification ทั้งหมดรถ การ ยอม รับ แบบ พิมพ์ และ ใบ รับรอง การ ทํา ตาม ที่ ได้ รับ นั้น อยู่ ใน ระดับ ที่ ต่าง กัน — และ การ ทํา ผิด นี้ เป็น เหตุ ผล ที่ ทํา ให้ คน ทั่ว ไป ไม่ ได้ จด ทะเบียน. มัคคุเทศก์คนนี้กําหนดเส้นทางระบบ ข้อสังเกต: ~ กรอบจีนถูกวางรากฐานในวัสดุ MIT; คําอธิบายของเครื่องมือ EU/EUU/UNEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEESCE ด้านล่างนี้มาจากผู้ให้บริการการรับรอง (ฉบับที่สอง) และข้อความมาตรฐานเองก็ควรดึงออกมาจาก UNEEX / UNEX / คณะกรรมการบริหารยุโรป ก่อนการตัดสินใจตามคําสั่ง -- จดหมายนี้ไม่ได้รับอ้างอิงว่า เป็นกฎหมายหลัก
 
-## Level 1 — Type Approval (the vehicle model is approved)
-Type approval certifies that a **vehicle type/system** meets a market's requirements. It happens at model level and is a precondition for per-vehicle documents:
-- **EU — Whole Vehicle Type Approval (WVTA):** compulsory whole-vehicle market access, described by certification providers as based on **Regulation (EU) 2018/858**, which applied fully from 1 September 2020 and replaced Directive 2007/46/EC; one approval is recognised across member states. *Verify the current consolidated text and any successor acts on EUR-Lex before relying on dates or scope.*
-- **EAEU — OTTS / EAC:** for the Eurasian Economic Union, whole vehicles require an **OTTS type approval (or EAC)** under **TR CU 018/2011 "On the Safety of Wheeled Vehicles,"** and an **authorised representative within the Union** is generally required. *Confirm the current technical-regulation text and representative rules with the EAEU commission.*
-Type approval is market-specific: an EU WVTA does not grant EAEU access, and vice versa.
+## ระดับ 1 — ประเภท appotion (โมเดลรถได้รับการอนุมัติ)
+การอนุมัติแบบพิมพ์ ระบุว่า ประเภท a-Vhines/ capillary ตรงกับความต้องการของตลาด มันเกิดขึ้นในระดับแบบจําลอง และเป็นสภาวะก่อนการสร้างเอกสารต่อกระดูก
+- ~EU — ประเภทรถทั้งคัน approval (WTA) ~ บังคับใช้ระบบตลาดแบบเต็มกําลัง (WTA) (WTA) (อังกฤษ: บังคับใช้ระบบตลาดหลักทรัพย์ทั้งระบบ: กรมย่อย) (WVTA); อธิบายโดยผู้จัดจําหน่ายการรับเลือกตั้งว่าอยู่บนการตั้งตามฐานการแบ่งเขต (EU) 2018/858). ซึ่งใช้อย่างเต็มที่จาก 1 September 2020 และแทนที่การแบ่งเขตแบ่งประเภท 2007/46/EC; การอนุมัติครั้งเดียวเป็นการรับรองจากสมาชิก. * โปรดแก้ไขข้อความปัจจุบันที่รวมเข้ากับส่วนต่าง ๆ และการกระทําใด ๆ ที่เป็นผู้สืบทอดใน EUR-Lex ก่อนจะพึ่งพาวันที่หรือขอบเขต *
+- ~EEU - OTTTS / EAC: ~ สําหรับสหภาพเศรษฐกิจยูเรเซียน ยานพาหนะทั้งหมดต้องการการรับรองประเภท OTTS (หรือ ACT) ~ ภายใต้ "OTR CU 018/2011 "บนความปลอดภัยของรถล้อ" และตัวแทนที่ไม่สามารถขับผ่านได้ภายในสหภาพ*. ทั่วไปจําเป็น. *ยืนยันการอ้างอิงและแก้ไขเนื้อหาทางเทคนิคในปัจจุบัน และใช้กฏการแทนด้วยคณะกรรมการ EAU *
+การอนุมัติประเภท คือ การกําหนดตลาด: EU WVTA ไม่ให้สิทธิ์เข้าถึง EAU และในทางกลับกัน
 
-## Level 2 — Certificate of Conformity (this specific unit matches the approved type)
-Once a type is approved, **each vehicle is issued a CoC certifying that the unit matches the approved type**; the CoC is the document that travels with the car to the destination registration desk. Two traps:
-- The **Chinese 合格证/一致性证书 is a domestic registration/admission document** (rooted in MIIT Order No. 50 and related rules) — it is **not** an EU WVTA CoC or an EAEU/EAC document.
-- A destination CoC can only be issued **against a valid destination type approval**; you cannot manufacture an EU CoC from Chinese paperwork alone.
+## ระดับ 2 — ใบรับรองการเทียบเคียง (หน่วยเฉพาะนี้ตรงกับชนิดที่โปรด)
+เมื่อมีการอนุมัติชนิดของรายการ รถแต่ละคันจะถูกออก CC ยืนยันว่าหน่วยตรงกับชนิดที่อนุญาต! COC เป็นเอกสารที่เดินทางด้วยรถไปยังโต๊ะลงทะเบียนปลายทาง กับดักสองที่
+- The Unece 合格证/ 一致性证书 เป็นเอกสารลงทะเบียน/การรับราชการภายในประเทศ" (โดยหลักในระเบียบ MIT No. 50 และ กฎที่เกี่ยวข้อง) — ไม่ได้เป็น* UNWWTA COC หรือเอกสาร EU/EU/EAC
+- COC ประสบความสําเร็จเพียง แต่สามารถออกได้! อนุมัติชนิดของปลายทางที่ถูกต้อง! คุณไม่สามารถผลิต EU COC จากเอกสารภาษาจีนเพียงอย่างเดียวได้
 
-## Level 3 — Component/System Marks (e-mark vs E-mark)
-These operate below whole-vehicle level and are often conflated:
-- **Lowercase rectangular "e" mark:** tied to the **EU WVTA framework** for whole-vehicle/EC component approvals.
-- **Uppercase circular "E" mark:** tied to the **UNECE 1958 Agreement ECE regulations** for components/systems, with mutual recognition among contracting parties.
-A bag of E-marked components does **not** equal a whole-vehicle WVTA, and a single e-mark on one system does not approve the entire car. Build the component dossier in parallel with — not instead of — whole-vehicle approval.
+## ระดับ 3 — ส่วนประกอบ/ เครื่องหมายส่วน (e-mark vs E-marks)
+การผ่าตัดเหล่านี้ภายใต้ชั้นกระดูกสะบักทั้งและ มักจะถูกบด:
+- ~เครื่องหมาย "E" ของ LOWCCOWE: ~ เชื่อมโยงกับ~ EU WVTA เฟรม~ เพื่ออนุมัติส่วนประกอบทั้งเวชอคโคลี/อีซี
+- ~เครื่องหมาย Uppercase "E" article "E": ~ เชื่อมโยงกับ ~University 1958 มาตราสัญญา ESEEEE* สําหรับส่วนประกอบ/ระบบ การยอมรับร่วมกันในสังกัดพรรคสัญญา (PDF)
+ถุงขององค์ประกอบ E-center ไม่ -- ไม่เท่ากับทั้งเวฟเกิล WVTA และอี-มาร์คเดียวในระบบหนึ่ง สร้างโดสเซอร์ส่วนประกอบที่คล้ายกัน ไม่ใช่ให้แทน การเห็นชอบจากวัตถุ
 
-## How to Assemble the Dossier Without Mismatch
-1. **Name the destination market first** → identify the whole-vehicle regime (WVTA / OTTS / GCC / national).
-2. **Confirm the approval holder and in-market authorised representative** (the EAEU explicitly requires one).
-3. **Separate three stacks:** whole-vehicle type approval; per-vehicle CoC; component/system marks.
-4. **Keep the China 合格证 in the China stack** — use it to prove build consistency, never as destination access.
-5. **Pull primary regulation text** (EUR-Lex/UNECE/EAEU) for dated requirements; treat certification-service summaries as navigation, not authority.
+## วิธี รวบ รวม โด รส เซียร์ โดย ไม่ มี การ ผิด พลาด
+1. **" ตลาดปลายทางแรก* สืบค้นระบบการปกครองแบบเวชโคเลชั่น (WVTA / OTTTS / GCC / สัญชาติ).
+2. ** ยืนยันผู้ถือสิทธิและในตลาดตัวแทนที่ ได้รับอนุญาต --" (EAU โดยตรงต้องการหนึ่ง).
+3. ** รองรับสามกอง: ~ อนุมัติชนิดของพืชทั้งหมด; ต่อหนึ่งแท่งน้ําแข็ง; ส่วนประกอบ/ ระบบ
+4. ~เก็บจีน 合格证 ไว้ในกองจีน~ -- ใช้มันเพื่อพิสูจน์ความสอดคล้องกัน ไม่เคยเป็นทางผ่านปลายทาง
+5. **. เรียกใช้ข้อกําหนดพื้นฐาน * (EUR-Lex/UNEEEEEEEU) สําหรับความต้องการวันที่; ปฏิบัติกับ ผลรวมการรับรองตัวเป็นการนําร่อง ไม่ใช่อํานาจ (PDF).
 
-## What This Guide Recommends Before Committing Tooling or Deposit
-- A written **market→regime→document matrix** for each destination, with the approval holder named.
-- Confirmation of **which entity issues the destination CoC** and that it references a valid type-approval number.
-- A **component-mark inventory** that is not mistaken for whole-vehicle approval.
-- Primary-source verification of every **dated regulation** (2018/858, TR CU 018/2011, 1958 Agreement) before customer-facing claims.
+## สิ่ง ที่ คู่มือ นี้ แนะ นํา ก่อน จะ ถวาย เครื่อง มือ หรือ เครื่อง ลด หย่อน
+- เขียนบท "มาร์เก็ตรีจิเมะะะะะะะะะะะะะะะะะะะะะ" สําหรับแต่ละจุดหมาย โดยมีผู้ถือครองการเห็นชอบชื่อ
+- ยืนยัน ** ซึ่งองค์กรใดจะขัดข้องจากปลายทางCOF และอ้างอิงไปยังหมายเลขชนิด "อนุมัติ" ที่ใช้งานได้
+- A~ ชิ้นส่วนที่ทําเครื่องหมายไว้* ที่ไม่ได้เข้าใจผิดว่าเป็นที่เห็นชอบของกระดูกสะบ้า
+- Primary-source verification of every **dated regulation** (2018/858,  TR CU 018/2011, 1958 ข้อตกลง) ก่อนลูกค้าถูกริบทรัพย์
 
-## Frequently Asked Questions
-**Is my Chinese CoC enough to register in Europe?** No — the Chinese 合格证 is a domestic document; EU registration needs EU type approval and an EU CoC.
-**What is the difference between WVTA and a CoC?** WVTA approves the vehicle type across the EU; a CoC certifies each individual unit matches that approved type.
-**Are e-mark and E-mark the same?** No — rectangular e is tied to EU whole-vehicle/EC approvals; circular E is UNECE 1958 component/system approval among contracting parties.
-**Does E-mark on parts approve the whole vehicle?** No; component marks support but never replace whole-vehicle type approval.
-**Do I need a local representative for EAEU approval?** OTTS/EAC arrangements generally require an authorised representative within the Union — confirm the current TR CU 018 text.
+## คํา ถาม ที่ มัก จะ ถาม บ่อย ๆ
+"CO ของผมจีนพอไปจดทะเบียนในยุโรปไหม" ไม่ — ชาว จีน 合格证 เป็น เอกสาร ประจํา บ้าน; การ จด ทะเบียน ยูโร ต้องการ การ รับรอง ประเภท อี ยู และ การ รับรอง แบบ อี ยู โค ซี.
+~ WVTA กับ COC ต่างกันอย่างไร ~ WVTA เห็นชอบกับชนิดของรถที่ข้าม EU; CC sertition แต่ละหน่วยตรงกับชนิดที่เห็นชอบ
+~ มาร์คกับอีมาร์คเหมือนกันหรือเปล่า~ ไม่ — สี่เหลี่ยม e เชื่อมโยงกับ EU value-VEC อนุมัติ; Circle E คือ UNE 1958 ส่วนประกอบ/ระบบการอนุมัติในสังกัดสัญญา
+~ เครื่องหมายบนชิ้นส่วน อนุมัติรถทั้งหมดหรือไม่ ~ ไม่ ส่วนประกอบที่รองรับ แต่ไม่เคยแทนที่การรับรองชนิด vehoney
+~ฉันจําเป็นต้องมีตัวแทนท้องถิ่นเพื่ออนุมัติ EAEU หรือเปล่า? ~ OTTS/EAC ทั่วไปต้องการตัวแทนที่เข้ารับเลือกตั้งภายในสหภาพ -- ยืนยันข้อความปัจจุบันของ TR CU 018
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICNE_OR_USARIAND_BALE: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
-- RODL_TOIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- ALT by language:
+## บันทึกรูปภาพ
+- _ปราสาท: ไม่มีความปลอดภัยในคลังเก็บ
+- ส่วนตัว_ปลายทาง: ไม่ได้จับ
+- ผู้โดยสาร: ไม่ถูกจับ
+- HOURS_ PDFAGE: ไม่มีผล — ไม่มีชื่อแฟ้มสําหรับเลือกสื่อ (ไม่มีใบรับรองที่จะยืนยัน)
+- ลิขสิทธิ์: ไม่ยืนยัน
+- LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
+- _กําหนดวันที่: 2026-09-06
+- MERCUL_ TOPIC_ MATCH: ต้องตรงกับรุ่น/ การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
+- CHAR_SCPE_NOTE: ตรงกับโมเดลที่เป๊ะของครอบครัว/ topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
+- March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
+- BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
+- ALT ด้วยภาษา:
   - **EN**: AutoBridge export-buyer reference — Certificate of Conformity vs type approval, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Certificate of Conformity vs type approval, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Certificate of Conformity vs type approval, Leitfaden für Fahrzeugexport-Einkauf
@@ -73,28 +76,28 @@ A bag of E-marked components does **not** equal a whole-vehicle WVTA, and a sing
   - **AR**: مرجع AutoBridge لمشتري التصدير — Certificate of Conformity vs type approval, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Certificate of Conformity vs type approval, 汽车出口采购指南
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## ต้นฉบับและการตรวจสอบสิทธิ์
+| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| MIIT Order No. 50 — admission framework | MIIT / State Council | CN | https://www.gov.cn/gongbao/content/2019/content_5380357.htm | 2026-09-03 | ROOS_ CHCKED | Chinese domestic CoC/admission context |
-| EU WVTA + FMVSS scheme note (2018/858) | Third-party certification body | EU | https://m.11467.com/product/d53638850.htm | 2026-09-03 | SINGLE_SOURCE | WVTA/2018/858 description; CoC role (secondary) |
-| OTTS / TR CU 018/2011 explainer | Certification-service provider | EAEU | https://m.11467.com/product/d21445928.htm | 2026-09-03 | ROOS_ CHCKED | OTTS/EAC, authorised representative (secondary) |
-| e-mark vs E-mark explainer | Certification-service provider | Global/EU | https://m.11467.com/product/d55481671.htm | 2026-09-03 | SINGLE_SOURCE | e/E-mark distinction (secondary) |
-*Evidence ceiling: EU/EAEU/UNECE instruments are described from secondary certification-service sources; no stable EUR-Lex/UNECE/EAEU primary text was captured. Regulation dates and scope must be verified against primary texts before compliance use. China-side framework is the only official-backed portion.*
+| LIT สั่งซื้อหมายเลข 50 — กรอบรับสมัคร |  MIT / สภารัฐ | CN | https://www.gov.cn/gongbao/content/2019/content_5380357.htm | 2026-09-03 | ROOS_ CHCKED | ภาษาจีนภายใน บริบทการรวม/ การจัดรูปแบบ |
+| EU WVTA + FMVSS scheme note (2018/858) | Third-party certification body | อียู | https://m.11467.com/product/d53638850.htm | 2026-09-03 | ผู้โดยสาร_ปลายทาง | WVTA/ 2018/858 รายละเอียด; บทบาท CC (วินาที) |
+| OTTS / TR CU 018/2011 ตัวอธิบาย | ผู้จัดทําใบรับรอง | อีอายู | https://m.11467.com/product/d21445928.htm | 2026-09-03 | ROOS_ CHCKED | OTTS/EAC, ตัวแทนร่วม (ตัวที่สอง) |
+| ตัวอธิบาย e-mark | ผู้จัดทําใบรับรอง | ทั่วไป/ EU | https://m.11467.com/product/d55481671.htm | 2026-09-03 | ผู้โดยสาร_ปลายทาง | ความแตกต่างระหว่าง e/ E- เครื่องหมาย (วินาที) |
+* เพดานการตรวจจับ: เครื่อง EU/EUU/UNEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEI ที่ถูกบรรยายจากแหล่งบริการขั้นที่สอง; ไม่มีการบันทึกข้อมูล ยูโร-LEX/EEEU/EU การปรับวันที่และขอบเขตจะต้องตรวจสอบกับข้อความหลักก่อนจะทําการปฏิบัติตาม กรอบจีน-ไซด์ เป็นส่วนเดียวของทางราชการ *
 
-| Regulation (EU) 2018/858 (consolidated 2021-09-26) on type-approval of motor vehicles — WVTA; whole-vehicle vs | EUR-Lex (EU official legal database) | CN | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02018R0858-20210926 | 2026-09-04 | VERIFIED |  |
-| Regulation (EU) 2018/858 (original), Chapter VI / Article 36 — manufacturer issues a CoC for each vehicle conf | EUR-Lex | CN | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0858 | 2026-09-04 | VERIFIED |  |
-| 2018/858 Chapter VI (CoC) official reproduction | legislation.gov.uk (UK official statute law data | CN | https://www.legislation.gov.uk/eur/2018/858/chapter/VI/2018-05-30/data.pdf | 2026-09-04 | VERIFIED |  |
-| 1958 Agreement (Rev.3), E/ECE/TRANS/505 — framework for UN Regulation type approvals of components/systems/STU | UNECE (United Nations) | CN | https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2017/E-ECE-TRANS-505-Rev.3e.pdf | 2026-09-04 | VERIFIED |  |
-| GRRF-84-18 (approval mark/numbering structure, E + country number) | UNECE WP.29 GRRF | CN | https://unece.org/DAM/trans/doc/2017/wp29grrf/GRRF-84-18e.pdf | 2026-09-04 | VERIFIED |  |
-| Status of the 1958 Agreement and annexed UN Regulations | UNIE | CN | https://unece.org/status-1958-agreement-and-annexed-regulations | 2026-09-04 | VERIFIED |  |
-| Decision of the Customs Union Commission No.877 (09.12.2011) adopting Technical Regulation TR CU 018/2011 "On  | adilet.zan.kz — official legal database of the M | CN | https://adilet.zan.kz/rus/docs/H11T0000877 | 2026-09-04 | VERIFIED |  |
-| EEC Board Decision No.232 (09.12.2014) rules for completing OTTS / OTSH forms | Alta-Soft legal reference (T3; reproduces EEC de | CN | https://www.alta.ru/tamdoc/14kr0232/ | 2026-09-04 | SINGLE_SOURCE |  |
+| Retrieved (EU) 2018/858 (รวม 2021-09-26) บนพิมพ์แบบพิมพ์ มอเตอร์ มอเตอร์ — WVTA; ทั้งหมด VHICE VS | EUR-Lex (ฐานข้อมูลอย่างเป็นทางการของ EU) | CN | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02018R0858-20210926 | 2026-09-04 | เปิดใช้งาน |  |
+| Retrieved (EU) 2018/858 (ปกติ)  Chapter VI / Article 36 — manufacturer issues a CoC for each vehicle conf | ยูโร-เลก | CN | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0858 | 2026-09-04 | เปิดใช้งาน |  |
+| 2018/858 Chapter VI (CoC) official reproduction | กฏหมาย.gov.uk (ข้อมูลพระราชบัญญัติของสหราชอาณาจักร) | CN | https://www.legislation.gov.uk/eur/2018/858/chapter/VI/2018-05-30/data.pdf | 2026-09-04 | เปิดใช้งาน |  |
+| 1958 อนุกรรมการ (Rev. 3), E/EEEC/TRAES/ 505 — โครงร่างสําหรับการรับรองประเภทการตั้งโปรแกรมของสหประชาชาติ การรับรองส่วนประกอบ/ระบบ/ระบบต่างๆ | UNEEE (สหประชาชาติ) | CN | https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2017/E-ECE-TRANS-505-Rev.3e.pdf | 2026-09-04 | เปิดใช้งาน |  |
+| GRF- 84-18 (เครื่องหมาย approofal/number โครงสร้าง, E+ minal number) | UNEEE WP. 29 GRF | CN | https://unece.org/DAM/trans/doc/2017/wp29grrf/GRRF-84-18e.pdf | 2026-09-04 | เปิดใช้งาน |  |
+| สถานะ ของ ข้อ ตก ลง และ การ กําหนด มติ ของ สหประชาชาติ 1958 | UNIE | CN | https://unece.org/status-1958-agreement-and-annexed-regulations | 2026-09-04 | เปิดใช้งาน |  |
+| การตัดสินใจของคณะกรรมการศุลกากร หมายเลข 877 (09.12.2011) รับบททดสอบเทคนิค CU 018/2011 "On on  | อะดิ เลต.แซน.ก.ส. — ฐานข้อมูลอย่างเป็นทางการของเอ็ม | CN | https://adilet.zan.kz/rus/docs/H11T0000877 | 2026-09-04 | เปิดใช้งาน |  |
+| EEC Board Decision No.232 (09.12.2014) rules for completing OTTS / OTSH forms | อัลตา-ซอฟท์อ้างอิงกฎหมาย (T3; Cruary EEC de) | CN | https://www.alta.ru/tamdoc/14kr0232/ | 2026-09-04 | ผู้โดยสาร_ปลายทาง |  |
 
-## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market / scope**: Global approval systems (China stack official; EU/EAEU/UNECE described from secondary sources)
-- **Verification method**: Framework mapping with explicit primary-source gap flagged per PRIMARY_SOURCE_SCOPE rule
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+## การทบทวนแก้ไข
+- ~Uuthor/ retrieved~: [บีดริดจ์ ส่งออกทีมแก้ไข] (/ ผู้เขียน/) วิธี [แก้ไข] ของเรา [นโยบายการเลือ [/ การแก้ไข- policy/]
+- ~ถูกตรวจสอบแล้ว~: 2026-09-05
+- ** ตลาด/ ขอบเขต **: ระบบการยอมรับทั่วโลก (กองเงินจีน); EU/EU/UNEEEE ที่บรรยายจากแหล่งรอง)
+- ** วิธีการปรับตั้ง **: เฟรมเวิร์กการจับคู่กับช่องว่างหลัก ๆ ของซอร์สหลัก icture accessed for PRIMY_SPE_SPE กฎ
+- ~มาตรฐานการแบ่งส่วน ~: Research and med from the source address address (Desk Research; ไม่มีการขับรถมือหนึ่ง, runchown หรือนําเข้า). ความมั่นใจของแหล่งแสดงต่อแถว; จุดใด ๆ ที่เราไม่สามารถยืนยันได้ด้วยตัวเอง ถูกนําเสนอเป็นรายการตรวจสอบแทนการยืนยันว่าเป็นความจริง
 #AutoBridge #CertificateOfConformity #TypeApproval #WVTA #ExportProcurement

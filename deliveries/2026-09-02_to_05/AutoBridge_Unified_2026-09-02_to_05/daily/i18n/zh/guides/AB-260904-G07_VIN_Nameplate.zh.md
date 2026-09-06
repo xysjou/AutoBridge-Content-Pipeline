@@ -1,67 +1,70 @@
-# Reading and Verifying a Chinese Vehicle's VIN and Nameplate Under GB 16735-2019
+# 阅读和验证中国车辆的VIN和名牌在GB 16735-2019下
 
-## SEO Metadata
-- **SEO Title**: VIN & Nameplate Verification for Chinese Vehicle Imports — GB 16735-2019
-- **Meta Description**: How a 17-character VIN splits into WMI/VDS/VIS under GB 16735-2019, why stamped VIN, nameplate, certificate and shipping documents must match, and what an importer should verify before payment.
-- **Suggested URL**: /guides/vin-nameplate-verification-chinese-vehicles
-- **H1**: VIN and Nameplate Verification for a Chinese Vehicle: Structure, Standard and the Four-Place Match
-- **Primary Keyword**: VIN nameplate verification GB16735 chinese vehicle
-- **Secondary Search Terms**: WMI VDS VIS structure, GB16735-2019 VIN, VIN check digit position 9, VIN nameplate certificate consistency, stamped VIN tampering
-- **Internal Link Suggestions**: /guides/export-vehicle-document-package/ ; /guides/china-export-statutory-inspection-declaration/ ; /vehicles/jac-t9-hunter/
-- **Image Suggestions**: 17-char VIN segment diagram; four-place match checklist; stamped VIN close-up
-- **ALT Suggestions**: "17 character VIN split into WMI VDS VIS under GB16735-2019"
+## 道德操守办公室 元数据
+- ** 安全局标题**:中国车辆进口的VIN和名牌核查——GB 16735-2019
+- ** 金属说明**: 17-character VIN如何在GB 16735-2019下分为WMI/VDS/VIS,为什么在VIN上盖章,名牌,证书和运输文件必须相符,进口商在付款前应核实什么。
+- ** 建议的URL**: 指南/万姓核查车辆
+- ** H1 资源需求。 **: 中国车辆的VIN和名牌验证:结构、标准和四面板匹配
+- ** 基本关键词**:VIN名牌验证GB16735中国车
+- ** 二级搜索术语**:WMI VDS VIS结构,GB16735-2019 VIN,VIN检查数字位置9,VIN名牌证书一致性,盖章VIN篡改
+- ** 内部链接建议**: /指南/出口-车辆-文件包装/;/指南/钦那-出口-法定检查-声明/;/车辆/jac-t9-hunter/
+- ** 图像建议**:17-char VIN段图;四位匹配清单;印有VIN特写
+- ** ALT(美国) 建议**: " 17个字符VIN在GB16735-2019以下分为WMI VDSVIS "
 
-## Why VIN Verification Sits Before Payment
-A VIN mismatch is one of the few defects that blocks registration **after** the vehicle has already been paid for and shipped. The fix is cheap at the sourcing desk and expensive at the destination port. This guide explains the Chinese VIN structure under the current standard and gives a four-place consistency check buyers can run before releasing balance payment.
+## 为什么VIN在付款前就进行核查
+车辆登记不匹配是车辆已付过钱和已发货后阻碍登记的若干缺陷之一。 货源处的固定价格低廉,目的地港价格昂贵。 本指南根据现行标准解释中国VIN结构,给出四位一致性检查买家在发放余额支付之前可以运行.
 
-## The 17-Character Structure Under GB 16735-2019
-A vehicle identification number is **17 characters**, divided into three parts:
-- **WMI (positions 1–3) — World Manufacturer Identifier**: pre-assigned to the manufacturer by the authorized body of the country/region where it is located, in line with GB 16737.
-- **VDS (positions 4–9) — Vehicle Descriptor Section**: describes model/engine and other characteristics; **position 9 is the check character**.
-- **VIS (positions 10–17) — Vehicle Indicator Section**: carries model year, assembly plant and production serial number.
+## 17-Character GB 16735-2019 下的结构
+车辆识别号码为** 17个字符**, 分为三部分:
+- ** WMI(职位1–3)——世界制造商 标识**:由所在国家/地区授权机构按照GB 16737.预先指定给制造商
+- **VDS(位置4–9)——车辆描述器部分**:描述型号/引擎和其他特性;**位置9为检查字符**.
+- **VIS(位置10–17)——车辆指标部分**:载模年,装配厂和生产序列号.
 
-**GB 16735-2019 *Road vehicles — Vehicle identification number (VIN)*** is the current Chinese standard (replacing the 2004 edition) and is listed as a **mandatory cited standard in road-motor-vehicle product-access review**. That mandatory status is why VIN, nameplate, certificate and licence documents are required to be consistent.
+**GB 16735-2019 * 公路车辆——车辆识别编号(VIN)***是中国现行标准(取代2004版),在公路机动车产品准入审查**中被列为**强制引用标准. 这种强制性地位是要求国际化学品登记制度、名牌、证书和许可证文件保持一致的原因。
 
-## What We Deliberately Do Not Infer From the First Character
-The WMI first character is allocated by an authorized body. This guide does **not** assert a blanket rule such as "Chinese vehicles start with L (some with H)" as a definitive origin test: that claim was not confirmed to a reliable standard in the current research and is treated as **unverified**. Origin and manufacturer must be read from the **authorized WMI allocation**, not guessed from an initial letter; a specific WMI-prefix-to-manufacturer lookup requires the allocation table and is not reproduced here. Destination-country VIN format rules are country-specific and checked separately.
+## 我们故意不从第一个字符推断
+WMI的首个角色由授权机构分配. 本指南确实********坚持"中国车辆从L开始(有些是H)"等总括规则,作为确定起源检验:在目前研究中,该主张没有被证实为可靠标准,被视作**未核实**. 起源和制造商必须从**授权的WMI分配**读取,不能从初始字母中猜出;特定的WMI前缀到制造商的检索需要分配表,在此不复制. 目的地国家VIN格式规则针对具体国家,并单独检查.
 
-## The Four-Place Match Before Balance Payment
-Compare the same 17 characters across four locations and confirm there is no grinding, re-stamping or over-spray:
-1. **Stamped/chiselled VIN on the body** (chassis).
-2. **VIN on the nameplate**.
-3. **VIN on the certificate of conformity / factory certificate**.
-4. **VIN on the shipping documents** (B/L, invoice, packing list).
+## 四地匹配在平衡支付前
+比较四个地点的17个相同字符,确认没有磨损、重新印印或过量喷洒:
+1. ** 机身上印有/涂有缩写的VIN**(图)。
+2. **VIN在名牌上**.
+3. ** 符合规定证书/工厂证书中的VIN**。
+4. ** 有关运输单据** (B/L,发票,包装清单)。
 
-Any character difference, restamping evidence, or document-vs-body mismatch is a hold point: resolve it with the supplier and the manufacturer's allocation record **before** payment and booking, because registration authorities compare the same four places.
+任何字符差异,补印证据,或文档-vs-body不匹配,都是一个搁置点:与供应商和制造商的分配记录**在**付款和预订之前解决,因为登记当局比较了相同的四个位置.
 
-## A Practical Verification Order
-1. Transcribe the stamped body VIN character by character (17 total).
-2. Confirm the position-9 check character and the position-10 model-year code are internally consistent.
-3. Match it to nameplate, certificate and shipping documents (four-place match).
-4. Identify the manufacturer through the WMI allocation rather than the first letter alone.
-5. Photograph stamped VIN, nameplate and certificate together for the file.
+## 实际核查令
+1. 按人物(共计17个)将印有印章的体型VIN字符译为" VI".
+2. 确认位置9检查字符和位置10模型年代码内部一致.
+3. 匹配到名牌,证书和运货文件(四位匹配).
+4. 通过WMI分配来识别制造商,而不是单通过第一个字母.
+5. 照片上印有VIN,名牌和证明一起为文件.
 
-## Boundaries of This Guide
-- No WMI-prefix-to-manufacturer directory (requires the authorized allocation table).
-- No absolute "initial letter = country of manufacture" rule.
-- Destination VIN/registration formats are handled per destination country.
+## 本指南的边界
+- 无WMI前置至制造商目录(需要授权分配表).
+- 没有绝对的"初始字母=制造国"规则.
+- 目的地登记/登记格式按目的地国处理。
 
-## Frequently Asked Questions
-**How is a Chinese VIN structured?** 17 characters: WMI (1–3), VDS (4–9, with check character at 9), VIS (10–17, model year/plant/serial).
-**Which standard governs it?** GB 16735-2019, a mandatory cited standard in vehicle product-access review.
-**Can I tell the origin from the first letter?** Not reliably on its own — use the authorized WMI allocation; this guide does not assert an L/H rule as fact.
-**What must match before payment?** Stamped body VIN, nameplate VIN, certificate VIN and shipping-document VIN — all identical, with no re-stamping.
+## 经常被问到的问题
+** 中国VIN结构如何? 17个字符:WMI(1–3),VDS(4–9),检查字符为9),VIS(10–17),模型年/厂/串.
+** GB 16735-2019,车辆产品准入审查中引用的强制性标准。
+**, I, I, I, I, I, I, I, I,**,**, I, I,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,**,** 单靠自己是不可靠的——使用经授权的WMI分配;本指南并不将L/H规则作为事实来主张.
+** 付款前必须匹配哪些内容? ** 印有印章的车体VIN,名牌VIN,证书VIN和货运文件VIN——均相同,没有重新加印.
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
-- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- ALT by language:
+## 图像记录
+- IMAGE_ASST_PATH: 没有在仓库中安全
+- 原型:未抓获
+- 资源_页:未捕获
+- UNURCE_FILE_PAGE:不适用——未确定候选媒体文件(无申述许可证).
+- 权利:未经证实
+- LICENSE_OR_USAGE_BASIS:没有担保——在权利被清除之前,不得公布第三方图像
+- 检查日期: 2026-09-06
+- MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
+- IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
+- IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
+- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
+- 按语言分列的低价竞标:
   - **EN**: AutoBridge export-buyer reference — Chinese VIN and nameplate under GB 16735, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Chinese VIN and nameplate under GB 16735, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Chinese VIN and nameplate under GB 16735, Leitfaden für Fahrzeugexport-Einkauf
@@ -75,24 +78,24 @@ Any character difference, restamping evidence, or document-vs-body mismatch is a
   - **AR**: مرجع AutoBridge لمشتري التصدير — Chinese VIN and nameplate under GB 16735, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Chinese VIN and nameplate under GB 16735, 汽车出口采购指南
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## 源码验证(V)
+| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
 |---|---|---|---|---|---|---|
-| GB 16735-2019 Road vehicles — VIN, standard text PDF | SAC/TC114 (national auto standardization) | CN | https://203.83.237.36/upload/202108/10/202108101324047215.pdf | 2026-09-04 | VERIFIED (primary) | 17-char structure, standard text |
-| GB 16735-2019 standard status page | SAMR openstd | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-04 | VERIFIED (primary) | Current status, replaces 2004 |
-| SAMR platform · GB16735-2019 detail | SAMR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=94E9AF238E3052A4E05397BE0A0AD366 | 2026-09-04 | VERIFIED (primary) | Standard status |
-| Road-motor-vehicle product-access review requirements (mandatory citation of GB16735) | MIIT official PDF | CN | https://wap.miit.gov.cn/cms_files/filemanager/1226211233/attach/20259/9d0824a8e8a84abf858f3cb96a6d7385.pdf | 2026-09-04 | VERIFIED (primary) | Mandatory status, consistency requirement |
-| VIN segment explanation | Pacific Auto | CN | http://m.pcauto.com.cn/x/5100/51002243.html | 2026-09-04 | SINGLE_SOURCE | Position-level explainer |
-*Blocked note: "Chinese WMI starts with L / some H" is UNVERIFIED and not stated as fact; WMI-prefix manufacturer mapping and destination VIN formats are out of scope.*
+| GB 16735-2019 维基百科中的相关条目: 维基百科 公路车辆——维也纳尼,标准文本PDF | SAC/TC114(国家汽车标准化) | 氯化萘 | https://203.83.237.36/upload/202108/10/202108101324047215.pdf 维基月球 | 2026-09-04 | 已核实(小学) | 17-char 结构,标准文本 |
+| GB 16735-2019 标准状态页面 | SAMR 打开 | 氯化萘 | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 维基月球 | 2026-09-04 | 已核实(小学) | 现状,取代2004 |
+| SAMR平台-GB16735-2019 细节 | 萨马 | 氯化萘 | https://std.samr.gov.cn/gb/search/gbDetailed?id=94E9AF238E3052A4E05397BE0A0AD366 维基月球 | 2026-09-04 | 已核实(小学) | 标准状态 |
+| 公路机动车辆产品准入审查要求(强制性引文GB16735) | MIIT 官方PDF 数据 | 氯化萘 | https://wap.miit.gov.cn/cms_files/filemanager/1226211233/attach/20259/9d0824a8e8a84abf858f3cb96a6d7385.pdf 维基月球 | 2026-09-04 | 已核实(小学) | 强制性地位、一致性要求 |
+| VIN段解释 | 太平洋自动 | 氯化萘 | http://m.pcauto.com.cn/x/5100/51002243.html 维基月球 | 2026-09-04 | 资源 | 职位级解释员 |
+* 封条:"中国WMI开头是L / some H"是UNVRIFIED,没有声明为事实;WMI-前置制造商映射和目的地VIN格式已超出范围. * 报告迟交是因为需要翻译。
 
-| 道路车辆 车辆识别代号(VIN) GB16735-2019 条文(百科载体) | 百科(国标条文载体) | CN | https://m.baike.com/wiki/%E8%BD%A6%E8%BE%86%E8%AF%86%E5%88%AB%E5%8F%B7%E7%A0%81/1470666 | 2026-09-04 | SINGLE_SOURCE | VIN=WMI+VDS+VIS共17位(以标准正文为准) |
+| 道路车辆 车辆识别代号 (VIN) GB16735-2019 条文 (百科载体) (中文(简体)). | 百科(国标条文载体) (中文(简体)). | 氯化萘 | https://m.baike.com/wiki/%E8%BD%A6%E8%BE%86%E8%AF%86%E5%88%AB%E5%8F%B7%E7%A0%81/1470666 维基月球 | 2026-09-04 | 资源 | VIN=WMI+VDS+VIS 共 17 位 (以标准正文为准) 维基百科中的相关条目: 维基语录链接:名人名言 - 分类词 - 分类词 - 分类词 - 分类词 - 分类词 - 分类词 - 分类词 - 分类词 - 分类词 - 分类词 - 分类词 - 分类词 - 分类词 - 分类词 - 分类词 - 分类词 - 分类词 - 分类词 - 分类词 - 分类词 - 分类词 - 分类词 - 分类词 - 分类词 - 分类词 - 分类 - 分类词 - 分类 - 分类词 - 分类 - 分类词 - 分类词 - 分类词 - 分类 - 分类 - 分类词 - 分类 - 分类词 - 分类 - 分类语 - 分类 - 分类语 - 分类 - 分类 分类 - 分类 - 分类 分类 - 分类 分类 - 分类 - 分类 分类 - 分类 分类 - 分类 |
 
-## Editorial Review
-- **Author**: AutoBridge Export Editorial Team · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: Chinese VIN standard (destination VIN rules excluded)
-- **Verification method**: GB16735-2019 official standard text + MIIT mandatory citation; unverified first-letter origin rule removed
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+## 编辑评论
+- ** 授权人**:自动桥出口编辑组 / 方法,按我们的[编辑政 (/编辑政策/)
+- ** 上次审查**:2026-09-05
+- **参考市场**:中国VIN标准(排除目的地VIN规则).
+- ** 验证方法**:GB16735-2019正式标准文本+MIIT强制性引用;未验证的首字母来源规则被删除
+- ** 透明度**:使用了大赦国际协助的起草。 本条以案头研究和自动化质量保证为基础。 除非有明确文件证明,否则不声称进行第一手测试;在交易前确认时间敏感和目的地特定的要求。
+- ** 编辑标准**: 由上述来源研究和撰写(案头研究;没有声称直接驾驶、拆卸或进口)。 源头信任是一行的;我们不能独立确认的任何一点都作为核查项目而不是事实提出。
 
 **Tags**: #VIN #GB16735 #Nameplate #VehicleVerification #ExportCompliance

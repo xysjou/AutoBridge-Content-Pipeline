@@ -1,69 +1,72 @@
-# GWM Haval Jolion: One Nameplate, Market-Specific Powertrains a Buyer Must Not Blend
+# GWM "هافال جوليون" "واحدة من الأسماء، "باورترانز" "السوق" "السريع" "المشتري"
 
 ## SEO Metadata
-- **SEO Title**: Haval Jolion / Haval Chulian Identity & Market-Specific Specs — Export Guide
-- **Meta Description**: GWM's own history confirms the Chinese Haval Chulian (哈弗初恋) is sold overseas as the Haval Jolion at base-model level — but Chinese 1.5T and overseas HEV powertrains differ and are listed by market, never merged.
-- **Suggested URL**: /vehicles/haval-jolion/
+- ** عنوان المنظمة**: هافال جوليون/هافال شوليان إيهوية " السوق - السميكات - دليل التصدير
+- ** وصف البيانات**: تاريخ (جي دبليو إم) يؤكد أن (هافال شوليان) الصيني (哈弗初恋) يباع في الخارج كـ(هافال جوليون) في مستوى النموذج الأساسي لكن 1.5T الصيني و مضيق الطاقة العالي الفي الخارج يختلفان ويُدرجان في السوق، ولا يُدمجان أبداً
+- ** اقتراح مقدم من الاتحاد الأوروبي**: /المركبات/العملة البحرية/
 - ** H1 **: GWM Haval Jolion: OEM-Confirmed Name Identity, with Chinese and Overseas Powertrains Kept Apart
-- **Primary Keyword**: haval jolion china specs export
-- **Secondary Search Terms**: Haval Chulian Jolion same model, Jolion 1.5T, Jolion HEV overseas, GWM history Jolion South Africa Saudi, Jolion dimensions
-- **Internal Link Suggestions**: /guides/vin-nameplate-verification-chinese-vehicles/; /guides/emission-fuel-compatibility-china-vehicles/; /vehicles/chery-fulwin-t9/
-- **Image Suggestions**: Jolion front three-quarter; 1.5T vs HEV card comparison; rear cargo; GWM history-page identity note
-- **ALT Suggestions**: "Haval Jolion Chinese 1.5T compact SUV with overseas HEV kept separate"
+- ** كلمة رئيسية رمزية**: مواصفات تصدير الهالوفال / / /
+- ** محطات البحث الثانية**: هافال شولان جوليو نفس النموذج، جوليون 1.5T، جوليون هيف في الخارج، تاريخ GWM Jolion South Africa Saudi, Jolion dimensions
+- ** مقترحات داخلية بشأن " لينك "**: /مبادئ توجيهية/مفردات/مواقع فيديو - تدقيق - صينية - حوادث/؛ /مبادئ توجيهية/أجهزة قابلة للاشتراك مع الوقود/المركبات/المركبات/الزفاف - t9/
+- ** اقتراحات تتعلق بالرحلات**: مقدمة من ثلاثة أرباع؛ و1.5T مقابل شارات المركبات المحتوية على ميغاواط؛ وشحنات مخلفة؛ ومذكرة هوية من طراز GWM
+- ** اقتراحات بشأن: "هافال جوليون الصينية 1.5T مركب مع مركب عالي عالي عالي في الخارج
 
-## Identity First: OEM Confirms the Name, Not a Global Datasheet
-"Jolion" is the **overseas-market name** for the Chinese compact SUV sold at home as the **Haval Chulian (哈弗初恋)**. Unlike an alias inferred from looks or platform, this name identity is **confirmed by GWM's own corporate history page**, which records the Haval Chulian's overseas version, the **JOLION**, being launched in **South Africa and Saudi Arabia** (with JOLION HEV in Thailand). Under MODEL_ALIAS_REQUIRES_OEM_PROOF the **base model identity is therefore SAME_MODEL**. The crucial limit: OEM confirmation of the *name* does **not** make every market's *powertrain and trim* identical. The Chinese 1.5T, the Australian 1.5T and the overseas HEV are listed below **by market**, and no "global spec" is asserted.
+## الهوية أولا: تؤكد المنظمة الاسم، وليس صحيفة بيانات عالمية
+"Jolion" is the **overseas-market name** for the Chinese compact SUV sold at home as the **Haval Chulian (哈弗初恋)**. على عكس اسم مستعار من المظهر أو المنبر، هذه الهوية مُثبتة من قبل صفحة شركة (جي دبليو إم) الخاصة بالتاريخ**، التي تسجل نسخة (هافال شولين) في الخارج، (جوليون)**، التي ستُطلق في ** جنوب أفريقيا والمملكة العربية السعودية** (مع (جوليون هيف في تايلند). تحت بند وزارة الدفاع ولذلك فإن الهوية النموذجية التي تستخدم قاعدة البيانات هي: MODEL**. الحد الحاسم: تأكيد OEM للاسم * لا ** يجعل كل سوق * قوة و تريم * متطابقة. الصينيون 1.5T، و1.5T الأستراليون وV في الخارج مدونون تحت السوق**، ولا يوجد "مطياف عالمي" مؤكد
 
 ## Chinese-Market 1.5T (CHINA reference)
-| Item | Chinese 1.5T (CHINA reference) |
+| البند | 1.5T صيني (مراجعة مركز جنيف الدولي) |
 |---|---|
-| Body | Compact SUV |
-| Length / width / height | **4472 / 1841 / 1619 mm** (single Chinese structured database) |
-| Wheelbase | **2700 mm** (single Chinese source) |
-| Engine | 1.5T turbocharged petrol |
-| Max power | **110 kW** (Chinese database; overseas 1.5T coverage corroborates) |
-| Max torque | **Not stated as a confirmed Chinese value** — the 210 N·m figure captured is from the **Australian** 1.5T coverage only; a second Chinese source is required before quoting it for the Chinese car |
-| Transmission | **Not stated as a confirmed Chinese value** — the 7-speed wet DCT captured is documented for the **Australian** 1.5T; do not present it as the verified Chinese gearbox without a Chinese source |
-| Steering | Chinese car LHD; overseas by market |
+| الهيئة | مركبة دفع رباعية الدفع |
+| Length / width /طول | **4472 / 1841 / 1619 mm** (single Chinese structured database) |
+| Wheelbase | ** 2700 mm ** (مصدر صيني غنائي) |
+| المهندس | 1.5T من البنزين المطهول |
+| (ماكس) | ** 110 kW ** (قاعدة البيانات الصينية؛ التغطية الخارجية التي تدعمها 1.5T تغطية) |
+| ماكس تورك | **Not stated as a confirmed Chinese value** — the 210 N·m figure captured is from the **Australian** 1.5T coverage only; (أ) يلزم مصدر صيني ثان قبل اقتباسه للسيارة الصينية |
+| التحويل | ** لم يذكر أنه قيمة صينية مؤكدة** - أن الـ 7-speed من المعتقلات المبللة موثقة بالنسبة إلى الـ 1.5T أستراليا****؛ ولا تقدم هذه الوثيقة بوصفها صندوق معدات صينية متحقق منها بدون مصدر صيني |
+| التوجيه | سيارة صينية من طراز LHD؛ في الخارج من السوق |
 
-Chinese dimensions, engine and power rest mainly on one structured database; treat them as reference values to reconfirm against the factory build sheet for the exact unit.
+والأبعاد والمحرك والطاقة الصينية تستند أساسا إلى قاعدة بيانات منظمة واحدة؛ وتعاملها كقيم مرجعية لإعادة تأكيدها على ورقة بناء المصنع للوحدة ذاتها.
 
-## Overseas Versions — Separate Columns, Not the Chinese Datasheet
-- **Australian 1.5T (OVERSEAS · AU)**: **210 N·m** and a **7-speed wet dual-clutch**, with cargo volume **430 L / 1130 L** (rear seats folded). These are **Australian-market** figures — they are not evidence of the Chinese car's torque, gearbox or cargo volume.
-- **Overseas HEV (OVERSEAS · AU/TH/VN)**: a **1.5L DHT hybrid**, reported at roughly **190 PS combined / 375 N·m**. This is a **different powertrain architecture**, sold in selected overseas markets; it must sit in its own column and never be merged with the Chinese 1.5T.
+## " فرايس " - كولومنز منفصل، وليس صحيفة البيانات الصينية
+- ** 1.5T أستراليا (OVERSEAS · AU)**: ** 210 N·m ** و 7-speed ** مجموعة مزدوجة الرطبة**، مع حجم الشحن ** 430 L/1130 L ** (مقاعد مطوية). هذه أرقام السوق الأسترالية** ليست دليلاً على تمزق السيارة الصينية أو علبة التروس أو حجم الشحنات
+- ** خلافات للرأس (OVERSEAS · AU/TH/VN)**: (أ) 1.5L د.إتش تي هيجيند**،  reported at roughly **190 PS combined / 375 N·m**. (أ) هذا هيكل متنوع للطاقة**، يباع في أسواق مختارة في الخارج؛ يجب أن تجلس في عمودها الخاص  and  never be merged with the Chinese 1.5T.
 
-## How to Select Without Blending Markets
-1. Decide whether the enquiry is the **Chinese 1.5T line**, an **overseas 1.5T** or an **overseas HEV** before reading any number.
-2. Attach a market label to every powertrain and cargo figure; 210 N·m/7DCT and 430/1130 L are Australian, the ~190 PS/375 N·m HEV is overseas-only.
-3. Record engine, power and transmission against the VIN (see the VIN/nameplate guide); a Chinese 1.5T unit must not carry HEV or Australian specs on its PI.
-4. Confirm steering side and destination homologation; a Chinese LHD 1.5T car is not evidence of RHD or HEV availability in the buyer's market.
-5. Because name identity is OEM-confirmed but powertrain is market-specific, request the **factory build sheet / OEM model-code mapping** for the exact VIN rather than assuming cross-market equivalence.
+## كيفية اختيار دون أسواق التزلج
+1. يقرر ما إذا كان التحقيق هو خط 1.5T الصينية**، أو ما إذا كان هناك ما يزيد عن 1.5T ** أو أي ارتفاع في مستوى السكر** قبل قراءة أي عدد.
+2. - وضع بطاقة سوقية لكل رقم من أرقام الحوافظ والشحن؛ 210 N·m/7DCT  and  430/1130 L are Australian, الـ190 PS / 375 N·m هي في الخارج فقط
+3. محرك التسجيل، والكهرباء، والانتقال ضد شبكة المعلومات الشخصية (انظر دليل الأسماء الرقمية) (VN))؛ ويجب على الوحدة الصينية البالغ عددها 1.5T ألا تحمل عينات عالية القيمة أو عينات استرالية على جهازها لمعلومات الطيران.
+4. الجانب التوجيهي للشركة و مُوجة المقصد سيارة صينية من طراز (LHD 1.5T) ليست دليلاً على وجود أشعة إتش دي أو ميثان في سوق المشتري
+5. ونظراً لأن هوية الاسم هي من تأكدت المنظمة، ولكن السلطنة هي خاصة بالسوق، فإن طلب رسم خرائط متطورة/أو نموذجية للرمز OEM** من أجل تحديد هوية الضحية تحديداً وليس من خلال معادلة السوق.
 
-## Overseas Buyer Verification Before Payment
-- Because the Chinese 1.5T, Australian 1.5T and HEV lines differ, confirm each market line's drive configuration on its own certificate — never carry one market's layout across to another.
-- **Model identity**: GWM OEM confirms Chulian;Jolion base identity; still obtain the VIN-level trim code.
-- **Powertrain match**: turbo vs hybrid, and Chinese vs overseas 1.5T, stated explicitly with that market's figures only.
-- **Unconfirmed Chinese values**: do not accept 210 N·m / 7DCT as Chinese specs until a Chinese structured source confirms them.
-- **Emission/fuel and documents**: destination standard/fuel grade per the emission guide; manufacturer certificate, CoC and spec sheet per the document-package guide.
+## التحقق من صحة المشترين قبل الدفع
+- لأن الصينيين 1.5T، و1.5T الأسترالية وخطوط الأشعة فوق البنفسجية تختلف، يؤكد كل تشكيلة من خطوط السوق على شهادة خاصة بها - لا تحمل أبدا مخطط سوق واحد عبر إلى آخر.
+- ** الهوية النموذجية**: GWM OEM confirms Chulian.Jolion base identity; still obtain the VIN-level trim code.
+- ** مباراة الدولتين**: توربو ضد هيبريد، والصيني ضد ما وراء البحار 1.5T، ذكر صراحة مع أرقام السوق فقط.
+- ** القيم الصينية غير المؤكدة**: لا تقبل 210 N·m/7DCT كمواصفات صينية حتى يؤكدها مصدر صيني منظم.
+- ** الانبعاثات/الوقود والوثائق**: معيار المقصد/درجة الوقود لكل دليل الانبعاثات؛ وشهادة الصانع، وشهادة النسيج، وصحيفة العينات لكل دليل تجميع الوثائق.
 
-## Request a Current Export Quotation
-No export price is published and none is inferred here. Request a live quotation with **Destination Country · Quantity · 1.5T or HEV Trim · LHD/RHD · Destination Port · Incoterm**.
+## طلب تخصيص موارد التصدير الحالية
+ولا يُنشر أي سعر تصدير ولا يُستدل من أي منها هنا. طلب اقتباس حي مع ** بلد السحب؛ الكمية؛ 1.5T أو الترايم العالي؛ LHD/RHD؛ ميناء الوجهة؛ Incoterm**.
 
-## Frequently Asked Questions
-**Is the Jolion the same car as the Haval Chulian?** At base-nameplate level yes — GWM's own history records the Chulian's overseas version as the JOLION (launched in South Africa/Saudi Arabia); but market-specific powertrains still differ and are not interchangeable.
-**Does the Jolion come as a hybrid?** Overseas coverage documents a 1.5L DHT HEV (~190 PS/375 N·m); the Chinese reference car here is a 1.5T turbo — keep them in separate columns.
-**What is the Chinese 1.5T's torque and gearbox?** Power is 110 kW; the captured 210 N·m and 7DCT are Australian-market figures, so they are not stated as confirmed Chinese values pending a second Chinese source.
-**Can I quote Australian cargo volume for a Chinese unit?** No — 430/1130 L is the overseas version's figure; confirm the Chinese car separately.
+## الأسئلة المتكررة
+هل الجوليو نفس السيارة التي كانت بها هافال شولان؟ في مستوى الإسم الأساسي نعم سجل تاريخ (جي دبليو إم) الخاص (النسخة من (شوليان) في الخارج (المنشورة في جنوب أفريقيا/المملكة العربية السعودية) لكن مضيق الكهرباء الخاص بالسوق لا يزال مختلفاً وغير قابل للتبادل
+** هل يأتي الـ(جوليون) كمهجين؟ ** (أ) وثائق التغطية الخارجية: 1.5L من طراز DHT HEV (~ 190 PS/ 375 N·m)؛ السيارة المرجعية الصينية هنا هي تريبو 1.5T - يبقيها في أعمدة منفصلة.
+ما هو الـ 1.5T الصيني من العذاب و صندوق التروس؟ الطاقة هي 110 kW؛ The captured 210 N·m and 7DCT are Australian-market figures, so they are not stated as confirmed Chinese values pending a second Chinese source.
+**Can I quote Australian cargo volume for a Chinese unit?** No — 430/1130 L is the overseas version's figure; اثبت السيارة الصينية بشكل منفصل
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
+## سجل الصور
+- لم يُؤمن أي منها في مستودع
 - ORIGINAL: IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
+- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
+- الحقوق - حقوق غير مؤكدة
+- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
+- CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
+- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات ويكيميو/فلكر غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات المسبقة/الرخصة، وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
 - ALT by language:
   - **EN**: AutoBridge export-buyer reference — GWM Haval Jolion, petrol/diesel Chinese-market vehicle / SUV
   - **FR**: Référence AutoBridge pour acheteurs export — GWM Haval Jolion, véhicule thermique (marché chinois) / SUV
@@ -78,27 +81,27 @@ No export price is published and none is inferred here. Request a live quotation
   - **AR**: مرجع AutoBridge لمشتري التصدير — GWM Haval Jolion, مركبة بمحرك احتراق (سوق الصين) / سيارة دفع رباعي
   - **ZH**: AutoBridge 出口采购参考｜GWM Haval Jolion, 中国市场燃油车 / SUV
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## المصدر: التحقق
+| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
-| GWM corporate history (Chulian overseas version = JOLION, South Africa/Saudi; HEV Thailand) | Great Wall Motor (OEM) | Brand HQ | https://www.gwm.com.cn/history.html | 2026-09-04 | VERIFIED (primary) | SAME_MODEL base identity |
-| Haval Chulian 1.5T auto parameters | Sina Auto database | CN | https://db.auto.sina.cn/car/50026/ | 2026-09-04 | SINGLE OURCE | Chinese dimensions, 1.5T, 110 kW, wheelbase |
-| Australian Jolion 1.5T power & dimensions | Tencent (reposted review) | AU | http://news.qq.com/rain/a/20210717A03BJX00 | 2026-09-04 | SINGLE_SOURCE (overseas) | 210 N·m, 7DCT, 430/1130 L — AU only |
-| Jolion Pro HEV Australia launch | Autohome·Chejiahao | AU | https://chejiahao.m.autohome.com.cn/info/15525734 | 2026-09-04 | SINGLE_SOURCE (overseas) | Overseas HEV system |
-| Jolion 2025 Vietnam (overseas HEV) | IFeng Auto | VN | https://auto.ifeng.com/c/8ggPMnGNmuJ | 2026-09-04 | SINGLE_SOURCE (overseas) | Overseas HEV corroboration |
-| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
-| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
-| GB 18352.6-2016 with amendment XG1-2026 (China- 6 light-vehicle pollutant emissions) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VERIFIED | China-6 light-vehicle emission stage and the 2026 amendment implementation dates |
+| تاريخ شركة GWM (النسخة من خلية في الخارج = JOLION، جنوب أفريقيا/سعودية؛ تايلند) | كبير جدار موتور (OEM) | براند HQ | https://www.gwm.com.cn/history.html | 2026-09-04 | مثقفة)بالمرتبة الأولى( | SAME -MODEL الهوية الأساسية |
+| Haval Chulian 1.5T auto parameters | قاعدة بيانات سينا أوتو | CN | https://db.auto.sina.cn/car/50026/ | 2026-09-04 | SINGLE OURCE | الأبعاد الصينية، 1.5T، 110 kW، قاعدة عجلات |
+| Australian Jolion 1.5T power & dimensions | Tencent (reposted review) | الاتحاد الأفريقي | http://news.qq.com/rain/a/20210717A03BJX00 | 2026-09-04 | SINGLE_SOURCE (overseas) | 210 N·m 7DCT  430/1130 L — AU only |
+| إطلاق مبادرة جوليون برو في أستراليا | Autohome·Chejiahao | الاتحاد الأفريقي | https://chejiahao.m.autohome.com.cn/info/15525734 | 2026-09-04 | SINGLE_SOURCE (overseas) | نظام الأشعة فوق البنفسجية في الخارج |
+| Jolion 2025 Vietnam (overseas HEV) | IFeng Auto | VN | https://auto.ifeng.com/c/8ggPMnGNmuJ | 2026-09-04 | SINGLE_SOURCE (overseas) | دعم المركبات العمودية الخارجية |
+| مصممو السيارات على الطرق - نظام الاستفسارات العامة | وزارة الصناعة وتكنولوجيا المعلومات في الصين | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | مفقود | التحقق من الصانع والنموذج المعتمد والهجوم (公告) |
+| GB 16735-2019 المركبات البرية - الاحتياجات من رقم تحديد المركبات | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | مفقود | تركيبة الشبكة وربطة بيانات مستعملة في نظام التحقق الخاص بالمشتري |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | مفقود | الشروط التقنية المتعلقة بسلامة المركبات في الصين والإطار الزمني الحالي/التنقيحي |
+| 18352.6-2016 GB مع التعديل XG1-2026 (الصين - 6 من انبعاثات ملوثات المركبات الخفيفة) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | مفقود | الصين - 6 مرحلة انبعاثات المركبات الخفيفة ومواعيد تنفيذ التعديل البالغ 2026 |
 
-*Confidence note: RESEARCH_CONDITIONAL. Name identity VERIFIED by GWM OEM (SAME_MODEL at base level); Chinese torque/transmission values are BLOCKED (only an Australian source exists) and are not stated as Chinese specs; overseas HEV kept strictly market-labelled. No export price.*
+* ملاحظة: البحث - الاختلاط. (ج) إن قيم الهوية التي يُعرف باسمها من قبل منظمة " GWM OEM " (SAME_MODEL) على مستوى القاعدة؛ والقيم الصينية للسخرة/النقل هي قيم " BLOCKED " (فقط مصدر أسترالي) ولا تُذكر كمواصفات صينية؛ وحافظت على تركيزات القلب في الخارج على السوق بصرامة. لا سعر تصدير ♪
 
-## Editorial Review
+## استعراض التحرير
 - ** Author**: AutoBridge Export Editorial Team; method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: Chinese 1.5T = CHINA; AU 1.5T and HEV = overseas (separated; no global spec)
-- **Verification method**: OEM-confirmed name identity; market/trim/powertrain separated; Chinese torque/gearbox blocked pending a Chinese second source
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+- ** لم يُستعرض بعد**: 2026-09-05
+- ** سوق الإحالة**: 1.5T الصينية = الصين؛ الاتحاد الأفريقي 1.5T؛ وHV = في الخارج (مفصلة؛ لا توجد مواصفات عالمية)
+- ** طريقة التأجيل**: الهوية الاسمية التي تؤكدها منظمة الدول الأمريكية؛ والسوق/الترميل/الطاقة المنفصلة؛ وقطعت الحواجز الصينية/الصندوق الأخضر إلى حين صدور مصدر ثان صيني
+- ** الشفافية**: استُخدمت الصياغة المدعومة من منظمة العفو الدولية. وتستند هذه المادة إلى البحوث المكتبية وآلية الجودة. ولا يُزعم إجراء أي اختبار مباشر إلا إذا تم توثيقه بشكل صريح؛ ويؤكد متطلبات مراعية للوقت ومحددة للمقصد قبل التحول.
+- ** المعيار الإفريقي**: باحثة ومحررة من المصادر المذكورة أعلاه (بحوث مكتبية؛ ولا يُدَّعى عن أي قيادة مباشرة أو تمزق أو استيراد). وتظهر الثقة في المصدر في الصف الواحد؛ وأي نقطة لا يمكننا تأكيدها بشكل مستقل تعرض كبند تحقق بدلا من التأكيد على أنها حقيقة.
 
 **Tags**: #HavalJolion #GWMSUV #SameModel #MarketSpecific #ExportSelection

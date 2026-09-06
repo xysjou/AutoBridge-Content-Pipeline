@@ -1,70 +1,73 @@
-# Classifying a Vehicle for Export: Sorting 87.01–87.05 and 8716 Trailers Under the 2026 Tariff
+# 出口车辆的分类:将87.01–87.05和8716拖车按2026关税分类
 
-## SEO Metadata
-- **SEO Title**: Vehicle Export HS Code Classification Guide — 8701/8702/8703/8704/8705/8716
-- **Meta Description**: How Chinese exporters assign the correct HS heading to tractors, passenger cars, buses, goods vehicles, special-purpose vehicles and trailers under the 2026 Import and Export Tariff before discussing duty or certification.
-- **Suggested URL**: /guides/vehicle-export-hs-code-classification
-- **H1**: Which HS Heading Is My Vehicle? An Export-Side Classification Guide Built on the 2026 Tariff
-- **Primary Keyword**: vehicle export hs code classification 8702 8703 8704 8705
-- **Secondary Search Terms**: 8701 tractor HS, 8703 passenger vehicle HS, 8704 goods vehicle, 8705 special purpose vehicle, 8716 trailer HS, 2026 China import export tariff chapter 87
-- **Internal Link Suggestions**: /guides/china-export-certificate-of-origin/ ; /vehicles/dongfeng-tianlong-kl/ ; /vehicles/dongfeng-tianjin-kr/
-- **Image Suggestions**: HS heading decision tree; car vs truck vs tractor vs trailer icon set; customs declaration form field
-- **ALT Suggestions**: "Vehicle HS heading decision tree 8701 8702 8703 8704 8705 8716"
+## 道德操守办公室 元数据
+- ** 标准电子标准标题**:车辆出口HS编码分类指南——8701/8702/8703/8704/8705/8716
+- ** 金属说明**: 中国出口商如何在讨论关税或认证之前,根据2026进出口关税法,将正确的HS方向分配给拖拉机、客车、客车、货车、特殊用途车辆和拖车。
+- ** 提议URL**: 指南/车辆出口-hs编码分类
+- ** H1 资源需求。 **:哪辆HS车是我的车? 以2026关税制为基础的出口-出口-出口分类指南
+- ** 关键词**: 车辆出口hs代码分类8702 8703 8704 8705
+- ** 二级搜索术语**:8701拖拉机 HS,8703型客车 HS,8704型货车,8705型专用车,8716拖车 HS,2026 中国进口出口关税章87
+- ** 内部链接建议**: /指南/钦那-出口-原产地证书/;/车辆/东风-天长-kl/;/车辆/东风-天长-kr/
+- ** 图像建议**:HS 向决策树;汽车对卡车对拖拉机对拖车图标集;海关申报表栏
+- ** ALT(美国) 建议**: "Vehicle HS heading decision tree 8701 8702 8703 8704 8705 8716"
 
-## Why the Heading Comes Before Everything Else
-Tariff, certification, inspection and documentation all hang off the HS code — yet exporters often start with a shipping quote and classify the vehicle almost as an afterthought. For commercial and special-purpose vehicles that sequence is backwards: a tractor head, a cargo truck, a special-function truck and a trailer do not share one procedure, and assuming "it is all 87.04" is how shipments get re-classified at customs. The working rule on this page is **HS-first**: pin the exact heading and national subheading first, then move to tariff and conformity. The current basis here is the **2026 edition of the *Import and Export Tariff of the People's Republic of China*** (compiled by the Customs Tariff Commission of the State Council) and the **GACC announcement implementing the 2026 tariff adjustment programme**. Four-digit/six-digit headings are comparatively stable; the ten-digit national subheading and interim rates change with each annual tariff and must be cited by edition.
+## 为何在一切之前就出现了
+关税、认证、检查和单证都与《统一制度》编码无关——然而,出口商往往首先引用运输报价,将车辆归类为几乎是事后考虑。 对于顺序倒置的商用和特殊用途车辆:牵引头,货车,特殊功能卡车和拖车不采用一种程序,假定"全部87.04"是货运在海关重新分类的方式. 本页的工作规则是**HS-first**:先将确切的标题和国家小标题钉上,然后转向关税和符合性。 本表为**2026版"中华人民共和国进出口关税"***(由国务院关税委编),**GACC关于实施2026关税调整方案的公告**. 四位数/六位数标题相对稳定;十位数国家小标题和临时税率随每一年度关税而变化,必须逐版引用.
 
-## The Motor-Vehicle Headings and the Trailer Heading
-| Heading | What it covers (2026 tariff heading framework) | Typical AutoBridge product |
+## 机动车头和拖车头
+| 标题 | 涵盖的内容(2026个关税标题框架) | 典型的自动桥产品 |
 |---|---|---|
-| **87.01** | Tractors (other than the tractors of heading 87.09), **including semi-trailer tractors** | Tianlong KL-type tractor head |
-| **87.02** | Motor vehicles for **10+ persons** (buses/coaches), including electric/hybrid subheadings | city bus, coach |
-| **87.03** | Motor vehicles **principally for persons, ≤9 seats** — saloons, SUVs, MPVs, hybrid and electric passenger cars | BYD/Chery/GWM passenger cars |
-| **87.04** | **Goods vehicles** (including electric cargo vehicles; three-wheel cargo under 8704.6000) | Shunda light truck, cargo van |
-| **87.05** | **Special-purpose** vehicles whose main role is neither carrying persons nor goods (crane, drilling, sprinkler, rescue) | concrete pump, rescue/special truck |
-| **87.16** | **Trailers and semi-trailers** (and other non-mechanically propelled vehicles) | box/curtain semi-trailer |
+| **87.01** | 拖拉机(除87.09号航向的拖拉机),**包括半拖拉机拖拉机** 报告迟交是因为需要翻译。 | 天龙KL型拖拉机头 |
+| **87.02** | 用于** 10+人的机动车**(客车/客车),包括电动/带线小标题 | 城市公交车,教练 |
+| **87.03** | 机动车**主要供人员使用,9个座位**——轿车、SUV、MPV、混合动力和电力客车 | BYD/Chery/GWM型客车 |
+| **87.04** | ** 货物车辆**(包括电力货运车辆;8704.6000以下三轮货物) | 申达轻型卡车,货车 |
+| **87.05** | ** 主要作用既不是运送人员也不是货物(油轮、钻井、喷洒、救援)的专用车辆** | 混凝土泵、救援/特种卡车 |
+| **87.16** | ** 拖车和半拖车**(和其他非机械推进车辆) | 框/曲线半拖车 |
 
-Two boundaries cause most disputes:
-- **87.03 vs 87.04** — decided by *principal use* (persons vs goods), not body shape. A crew-cab pickup and a closed van need an explicit principal-use decision on the record.
-- **87.04 vs 87.05** — a goods vehicle that *carries cargo* is 87.04; a vehicle built around a *special function* (lift, drill, mounted machinery where cargo-carrying is incidental) is 87.05. A refrigerated box truck still carries goods and is treated as a goods vehicle; whether an added refrigeration superstructure moves the ten-digit subheading must be checked line by line in the 2026 tariff. A tractor head (87.01) and its semi-trailer (87.16) are always classified separately even when shipped as a combination.
+两种界限引起大多数争议:
+- ** 87.03对87.04**——由*主要使用*(人与物)决定,而非身体形状. 乘务员小卡车和一辆封闭的面包车需要明确的主要用途决定。
+- ** 87.04 vs 87.05 **——一辆*载货的货车*为87.04;围绕*特殊功能*(载货附带的起重,钻机,挂机)建造的车辆为87.05.辆. 冷藏箱货车仍载货,作为货车处理;新增的冷藏上架结构是否移动十进制子标题,必须在2026关税中逐行检查. 牵引头(87.01)及其半拖车(87.16)即使作为组合装运,也总是被单独分类.
 
-## The Electric Three-Wheeler Edge Case
-Customs guidance distinguishes electric three-wheelers by use and identification: a **person-carrying** three-wheeler **with a VIN** falls under the 8703.8010 line, **without a VIN** under 8703.8090, while a **cargo** three-wheeler goes to **8704.6000**. This is a customs Q&A-level interpretation (single source); the local port customs and the current 2026 tariff remain authoritative.
+## 电动三惠勒边缘案
+海关指南通过使用和识别区分了三轮电动车:一台**人载**三轮机,其中VIN**属于8703.8010线,**没有VIN**低于8703.8090线,而一台**货**三轮机则属于**8704.6000线. ** 报告迟交是因为需要更新。 这是海关QQA级解释(单一来源);当地港口海关和目前的2026关税仍然具有权威性.
 
-## The HS-First Workflow We Recommend
-1. **State principal use** (traction / persons / goods / special function / non-powered trailer) — this selects the heading.
-2. **Count seats** for passenger vehicles (≤9 → 87.03; 10+ → 87.02); identify tractors under 87.01.
-3. **Separate tractor from trailer**: an 87.01 tractor head and an 8716 semi-trailer are classified independently.
-4. **Drill to the current ten-digit national subheading** in the **2026 tariff** for the year of declaration.
-5. **Only then** discuss certificate of origin, inspection and destination tariff; never run one "truck procedure" across 87.01/87.04/87.05/8716.
+## 我们建议采用 " 首轮工作流程 "
+1. ** 国家主要用途**(电动/人/货物/特殊功能/非动力拖车)——此选择标题。
+2. ** 客车的座椅**(≤9 →87.03;10+ →87.02);识别87.01.以下拖拉机
+3. ** 从拖车中分离拖拉机**:87.01台拖拉机头和8716台半拖车独立分类.
+4. ** 在申报年份的2026关税**中,将“减到目前十位数的国家分标题**”。
+5. ** 仅讨论原产地证书、检查和目的地关税;从未在87.01/87.04/87.05/8716.年中运行过一个“卡车程序”。
 
-## What This Page Deliberately Does Not State
-- **Destination import duty rates**: those require the importing country's tariff for the exact subheading and are out of scope for an export-side classification page.
-- **The exact ten-digit national subheading and interim rate**: they change with the annual tariff — cite the **2026 edition and the implementing GACC announcement number** on every declaration rather than relying on older 2018/2020 reference tables.
+## 专注于此页面的
+- ** 定值进口税率**:这些税率要求进口国对确切的子标题征收关税,而出口方分类页则超出其范围。
+- ** 确切的十位数国家小标题和临时税率**:它们随着年关税而变化——引用** 2026版和执行全球会计和报告准则的公告** 的每项申报,而不是依赖旧的2018/2020个参考表。
 
-## Pre-Declaration Checklist
-- Principal use written down and defensible.
-- Seat count / cargo role / special function / traction role evidenced by the spec sheet.
-- Tractor and trailer classified separately where both ship.
-- Current-year (2026) national subheading verified against the official tariff.
-- Classification rationale filed with the customs broker before booking.
+## 声明前核对表
+- 主要用途 已写下来,并可以防伪。
+- 座椅计数/货方角色/特殊功能/牵引角色由谱表证明.
+- 拖拉机和拖车在两艘船的所在地分别分类。
+- 本年(2026)国家分标题对照官方关税进行核实.
+- 预订前向海关经纪人提交分类理由。
 
-## Frequently Asked Questions
-**Where does a semi-trailer tractor head go?** Under 87.01 (which expressly includes semi-trailer tractors); the semi-trailer it pulls is 87.16, a separate classification.
-**Is an electric passenger car still 87.03?** Yes — electric and hybrid passenger cars for up to nine persons sit within 87.03; the powertrain changes the subheading, not the heading.
-**What is the difference between 87.04 and 87.05?** 87.04 carries goods; 87.05 exists to perform a special function where carrying cargo is incidental. Decide by principal use.
-**Which tariff edition should I cite now?** The 2026 *Import and Export Tariff* and the GACC announcement implementing the 2026 programme; do not use 2018/2020 tables as the current basis.
+## 经常被问到的问题
+** 半拖车拖拉机头往哪里走? ** 87.01以下(明确包括半拖车牵引机);其牵引的半拖车为87.16,是单独分类.
+**Is an electric passenger car still 87.03?** Yes — electric and hybrid passenger cars for up to nine persons sit within 87.03; 电源改变的不是标题,而是副标题。
+** 87.04和87.05之间的差别是什么? ** 87.04运载货物;87.05用于在附带运载货物的情况下履行特殊职能。 由主要用途决定。
+** 我现在应该引用哪一个关税版本? ** 2026 * 进出口关税* 和执行2026方案的GACC公告;不以2018/2020表作为现行依据。
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
-- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- ALT by language:
+## 图像记录
+- IMAGE_ASST_PATH: 没有在仓库中安全
+- 原型:未抓获
+- 资源_页:未捕获
+- UNURCE_FILE_PAGE:不适用——未确定候选媒体文件(无申述许可证).
+- 权利:未经证实
+- LICENSE_OR_USAGE_BASIS:没有担保——在权利被清除之前,不得公布第三方图像
+- 检查日期: 2026-09-06
+- MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
+- IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
+- IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
+- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
+- 按语言分列的低价竞标:
   - **EN**: AutoBridge export-buyer reference — Classifying vehicles HS 87.01-87.05, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Classifying vehicles HS 87.01-87.05, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Classifying vehicles HS 87.01-87.05, Leitfaden für Fahrzeugexport-Einkauf
@@ -78,24 +81,24 @@ Customs guidance distinguishes electric three-wheelers by use and identification
   - **AR**: مرجع AutoBridge لمشتري التصدير — Classifying vehicles HS 87.01-87.05, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Classifying vehicles HS 87.01-87.05, 汽车出口采购指南
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## 源码验证(V)
+| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
 |---|---|---|---|---|---|---|
-| Import and Export Tariff of the PRC (2026), Tariff Commission of the State Council | Ministry of Finance (PRC) | CN | https://bgt.mof.gov.cn/zhuantilanmu/rdwyh/czyw/202512/P020251231607833453633.pdf | 2026-09-04 | VERIFIED (primary) | 87.01–87.05/8716 current heading names |
-| GACC announcement on implementing the 2026 tariff adjustment programme | General Administration of Customs of China | CN | http://www.customs.gov.cn/customs/2025-12/31/article_2026010717460235831.html | 2026-09-04 | VERIFIED (primary) | 2026 enforcement basis, annual-subheading rule |
-| 2026 HS query · Chapter 87 headings | i5a6 HS query system | CN | https://www.i5a6.com/hsCategory/c17 | 2026-09-04 | CROSS_CHECKED | Heading navigation |
-| Customs Q&A on electric three-wheelers (8703.80 / 8704.60) | Customs release (repost) | CN | http://m.toutiao.com/group/7518145509672993315/ | 2026-09-04 | SINGLE_SOURCE | Three-wheeler split, 8704.6000 |
-*Scope note: current basis is the 2026 tariff and its GACC implementing announcement; older 2018/2020 tables are no longer used as the primary basis. Destination duty and the exact ten-digit subheading are out of scope and must be checked per country/per tariff year.*
+| 中华人民共和国进出口关税(2026),国务院关税委员会. | 财政部(中华人民共和国) | 氯化萘 | https://bgt.mof.gov.cn/zhuantilanmu/rdwyh/czyw/202512/P020251231607833453633.pdf 维基月球 | 2026-09-04 | 已核实(小学) | 87.01–87.05/8716 现标题名称 |
+| GACC关于实施2026关税调整方案的公告 | 中国海关总署. | 氯化萘 | http://www.customs.gov.cn/customs/2025-12/31/article_2026010717460235831.html 维基月球 | 2026-09-04 | 已核实(小学) | 2026 执行基础,年度副标题规则 |
+| 2026 维基月球 · 第87章标题 | i5a6 维基月球 HS 查询系统 | 氯化萘 | https://www.i5a6.com/hsCategory/c17 维基月球 | 2026-09-04 | 横跨 | 导航 |
+| Customs Q&A on electric three-wheelers (8703.80 / 8704.60) | 海关放行(退职) | 氯化萘 | http://m.toutiao.com/group/7518145509672993315/ 维基月球 | 2026-09-04 | 资源 | 拆分三轮车,8704.6000 |
+* 范围说明:目前的基础是2026关税及其全球协调会执行通知;旧的2018/2020个表不再作为主要基础。 目的地税和确切的十位数小标题已超出范围,必须按国家/每个关税年度加以检查。 * 报告迟交是因为需要翻译。
 
-| 进口汽车及零部件最惠国税率调整表(含8703各子目官方名称) | 中国政府网(国务院) | CN | https://www.gov.cn/zhengce/zhengceku/2018-12/31/5439526/files/62498c5520b84fc68a5960799fe12353.pdf | 2026-09-04 | VERIFIED | 870340等子目官方归类名称/混合动力/排量座位分目 |
-| 海南零关税交通工具清单(8702客车电动/混动分目官方名称) | 国家税务总局(北京市税务局)PDF | CN | http://beijing.chinatax.gov.cn/bjswj/sszc/zxwj/202012/cf5c916d2def4bd69f2a229bf60a35a3/files/d159fcb1991d48b8a2be4d2c90a7a717.pdf | 2026-09-04 | VERIFIED | 870230/870240大中型/小型客车电动混动分目 |
+| 进口汽车及零部件最惠国税率调整表(含 8703 各子目官方名称) (中文(简体)). | 中国政府网(国务院) (中文(简体)). | 氯化萘 | https://www.gov.cn/zhengce/zhengceku/2018-12/31/5439526/files/62498c5520b84fc68a5960799fe12353.pdf 维基月球 | 2026-09-04 | 实录 | 870340 等子目官方归类名称 / 混合动力 / 排量座位分目 (中文(简体)). |
+| 海南零关税交通工具清单(8702 客车电动 / 混动分目官方名称) (中文(简体)). | 国家税务总局 (北京市税务局) (英语). PDF. | 氯化萘 | http://beijing.chinatax.gov.cn/bjswj/sszc/zxwj/202012/cf5c916d2def4bd69f2a229bf60a35a3/files/d159fcb1991d48b8a2be4d2c90a7a717.pdf 维基月球 | 2026-09-04 | 实录 | 870230/870240 大中型 / 小型客车电动混动分目 (中文(简体)). |
 
-## Editorial Review
-- **Author**: AutoBridge Export Editorial Team · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: China export-side HS framework (destination duty excluded)
-- **Verification method**: 2026 primary tariff + GACC implementation anchored; single-source Q&A flagged; HS-first method applied
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+## 编辑评论
+- ** 授权人**:自动桥出口编辑组 / 方法,按我们的[编辑政 (/编辑政策/)
+- ** 上次审查**:2026-09-05
+- **参考市场**:中国出口侧HS框架(排除目的地税)
+- ** 核查方法**:2026 初级关税+全球大气控制控制方案执行定位;单一来源标注;HS-第一种方法
+- ** 透明度**:使用了大赦国际协助的起草。 本条以案头研究和自动化质量保证为基础。 除非有明确文件证明,否则不声称进行第一手测试;在交易前确认时间敏感和目的地特定的要求。
+- ** 编辑标准**: 由上述来源研究和撰写(案头研究;没有声称直接驾驶、拆卸或进口)。 源头信任是一行的;我们不能独立确认的任何一点都作为核查项目而不是事实提出。
 
 **Tags**: #HSCode #VehicleExport #CustomsClassification #Tariff2026 #ExportCompliance

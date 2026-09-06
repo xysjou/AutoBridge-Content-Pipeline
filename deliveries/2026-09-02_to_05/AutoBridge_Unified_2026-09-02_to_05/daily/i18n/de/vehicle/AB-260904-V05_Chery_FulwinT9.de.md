@@ -1,69 +1,72 @@
-# Chery Fulwin T9 (风云T9): C-DM Plug-in Hybrid Mittelklasse-SUV — China Specs für den Export
+# Chery Fulwin T9 (风云 T9): ein C-DM Plug-in-Hybrid-Mittelklasse-SUV — China Specs for Export
 
 ## SEO Metadaten
 - **SEO Titel**: Chery Fulwin T9 C-DM PHEV Specs & Export Guide (China Referenz)
-- **Meta Description**: Chinese-market Chery Fulwin T9 C-DM plug-in hybrid SUV — 1.5T dedicated engine, 150 kW front motor, 32.66 kWh battery, 120–220 km CLTC, 5/7 seats, and exporter checks.
+- **Meta Description**: Chinesischer Markt Chery Fulwin T9 C-DM Plug-in-Hybrid-SUV — 1.5T spezieller Motor, 150 kW Frontmotor, 32.66 kWh Batterie,  120–220 km CLTC, 5/7 Sitzplätze,  and  Exportkontrollen.
 - **Vorgeschlagene URL**: /Fahrzeuge/chery-fulwin- t9/
-- ** H1 **: Chery Fulwin T9 C-DM: Chinesisch-Markt PHEV SUV Specs und Export Verifizierung
+- ** H1 **: Chery Fulwin T9 C-DM: chinesischer Markt PHEV SUV-Spezifikationen und Exportverifizierung
 - ** Primäres Keyword**: chery fulwin t9 specs export
-- **Secondary Search Terms**: Fulwin T9 C-DM, 风云T9 plug-in hybrid, Chery T9 32.66kWh, Fulwin T9 7-seat, Chinese PHEV SUV export
+- **Secondary Search Terms**: Fulwin T9 C-DM, 风云 T9 Plug-in-Hybrid, Chery T9 32.66kWh, Fulwin T9 7-seat, Chinesisch PHEV SUV Export
 - **Interne Linkvorschläge**: /guides/ev-shipping- un3556-imdg-compliance/; /vehicles/byd-qin-l-dm-i/; /guides/export-vehicle-document-package/
-- **Bildvorschläge**: Fulwin T9 drei Viertel; Ladeanschluss; 5 vs 7 Sitzlayout; 1.5T C-DM-Abzeichen; Ladebereich
-- **ALT Vorschläge**: "Chery Fulwin T9 C-DM Plug-in-Hybrid-SUV"; "Fulwin T9 32.66kWh battery CLTC range"
+- **Bildvorschläge **: Fulwin T9 Dreiviertel; Ladehafen; 5 vs 7 Sitzplatzlayout; 1.5T C-DM-Abzeichen; Ladebereich
+- **ALT Vorschläge**: "Chery Fulwin T9 C-DM Plug-in-Hybrid-SUV"; "Fulwin T9 32.66kWh Batterie CLTC-Reihe"
 
 ## Käuferkontext: ein PHEV Familien-SUV mit einer Langbatterieversion
-Der Fulwin T9 ist Cherys C-DM mittelgroßes Plug-in-Hybrid-SUV, das in fünf- und siebensitzigen Formen angeboten wird. Zwei Ordnungsfehler dominieren dieses Modell: Mischen des **standard T9 mit dem gestreckten T9L ** und Zitieren der elektrischen Reichweite ohne Nennen der Batterie. Diese Seite dokumentiert **nur den Standard Fulwin T9 (REFERENZMARKT): CHINA**; the longer T9L (roughly 4870 mm / 2920 mm wheelbase) is a different body and is deliberately excluded. Für dieses Modell wurde eine OEM-Konfigurationsseite erfasst, die die Spec-Basis stärkt.
+Der Fulwin T9 ist Cherys mittelgroßes Plug-in-Hybrid-SUV C-DM, das in fünf- und siebensitzigen Formen angeboten wird. Zwei Ordnungsfehler dominieren dieses Modell: Mischen des **standard T9 mit dem gestreckten T9L ** und Zitieren der elektrischen Reichweite, ohne die Batterie zu benennen. Diese Seite dokumentiert **nur den Standard Fulwin T9 (REFERENCE MARKET: CHINA)**; der längere T9L (rund 4870 mm/2920 mm Radstand) ist ein anderer Körper und wird bewusst ausgeschlossen. Für dieses Modell wurde eine OEM-Konfigurationsseite erfasst, die die Spec-Basis stärkt.
 
 ## PHEV Antriebsstrang: Dedizierter Motor + Motor + Single-Speed-DHT
 | Position | Fulwin T9 C-DM (China Referenz) |
 |---|---|
-| Motor | 1.5 T dedicated hybrid petrol (115 kW / 220 N·m engine-only; China- 6b |
+| Motor | 1.5 T dediziertes Hybrid-Benzin (115 kW / 220 N·m nur mit Motor; China- 6b) |
 | Vordermotor | 150 kW / 310 N·m |
-| Kombiniertes System | about 265 kW / 530 N·m |
+| Kombiniertes System | etwa 265 kW / 530 N·m |
 | Hybridgetriebe | Einstufen-DHT |
-| Langstreckenbatterie | **32.66 kWh** |
-| Elektrische Reichweite | **120–220 km CLTC** (version-dependent; a WLTC figure of about 160 km is also cited for one version) |
-| Kombiniertes Sortiment | about 1400 km **WLTC, manufacturer-claimed** — label as a factory claim, not measured |
-| Gebühren | DC about 20 min for 30–80%; AC langsame Ladung um 3 h (Single-Source); Bestätigung pro OEM |
+| Langstreckenbatterie | ** 32.66 kWh ** |
+| Elektrische Reichweite | **120–220 km CLTC** (version-dependent; eine WLTC-Zahl von etwa 160 km wird auch für eine Version zitiert |
+| Kombiniertes Sortiment | ca. 1400 km **WLTC, Hersteller beansprucht** – Etikett als Fabrik-Anspruch, nicht gemessen |
+| Gebühren | DC about 20 min for 30–80%; Wechselstrom-Langsamladung ca. 3 h (Single-Source); Bestätigung pro OEM |
 
-Für ein PHEV fixiert der Exporteur **Motor, Motor, Batterie und Ladung ** zusammen. Der 1.5T ist hier ein hybrid-dedizierter Motor; its 115 kW engine-only figure is not the system output — keep the two apart on any spec line.
+Für ein PHEV fixiert der Exporteur **Motor, Motor, Batterie und Ladung ** zusammen. Der 1.5T hier ist ein hybrid-dedizierter motor; seine 115 kW-motor-nur zahl ist nicht die systemleistung - halten sie die beiden auf jeder spezifikationslinie auseinander.
 
 ## Körper, Sitz und Ladung
-- Länge/Breite/Höhe: **4795 / 1930 / 1738 mm** (some sources list 1741 mm height by trim)
-- Radstand: **2770 mm**
+- Länge / Breite / Höhe: ** 4795 / 1930 / 1738 mm ** (einige Quellen listen 1741 mm Höhe nach trimmen)
+- Radstand: ** 2770 mm **
 - Sitzplätze: ** 5 oder 7 ** — geben Sie an, welche auf der Bestellung
-- Ladung: **650 L, about 1775 L** with seats folded (single-source)
+- Ladung: ** 650 L, ca. 1775 L ** mit gefalteten Sitzen (Single-Source)
 
-## Standard T9 vs gestreckte T9L — Nicht zusammenführen
-- **Diese Seite: standard T9**, 4795 mm / 2770 mm wheelbase.
-- **Ausgenommen: T9L**, about 4870 mm with a 2920 mm wheelbase. Es ist ein längeres Radstandfahrzeug; mixing its dimensions or seating claims into a standard-T9 order is a configuration error.
+## Standard T9 vs. Stretched T9L — Nicht zusammenführen
+- **Diese Seite: Standard T9 **, 4795 mm / 2770 mm Radstand.
+- **Ausgenommen: T9L **, etwa 4870 mm mit einem 2920 mm Radstand. Es ist ein längeres Radstandfahrzeug; mixing its dimensions or seating claims into a standard-T9 order is a configuration error.
 - Range-Stufen und Sitz-Layouts variieren je nach Trimm; the 120–220 km spread is not a single number for one car.
 
 ## Übersee-Käufer-Überprüfung vor Zahlung
-1. ** Körperversion** - Standard T9, niemals stillschweigend durch T9L. ersetzt
-2. **Battery capacity and range cycle** — 32.66 kWh long-range vs smaller versions; CLTC vs WLTC kennzeichnen und Hersteller-Kombinations-Ansprüche zuweisen.
+1. ** Körperversion** - Standard T9, nie stillschweigend durch T9L. ersetzt
+2. ** Batteriekapazität und Reichweitenzyklus ** - 32.66 kWh Langstreckenversionen vs. kleinere Versionen; CLTC vs. WLTC kennzeichnen und Hersteller-Kombinationsstreckenansprüche zuschreiben.
 3. ** Sitzplatzzahl** (5 vs 7) mit der VIN abgestimmt.
-4. **Ladestecker und DC/AC-Hardware** gegenüber dem Zielstandard; PHEV Batterieversanddokumente (UN38.3 Zusammenfassung) gemäß dem IMDG 42-24 Guide.
+4. **Ladestecker und DC/AC-Hardware** gegenüber dem Zielstandard; PHEV-Batterieversanddokumente (UN38.3 Zusammenfassung) gemäß IMDG 42-24 Guide.
 5. **Emissions-/Hybridregistrierungsklasse** und vollständiges Dokument, das in der Checkliste des Exportdokumentpakets festgelegt ist.
 
 ## Beantragen Sie eine aktuelle Ausfuhrquote
-Es wird kein Ausfuhrpreis veröffentlicht. The Chinese 2024 guide range (roughly RMB 129,900–169,900) is a **domestic, time-sensitive reference, not FOB/CIF**. Erkundigen Sie sich bei **Zielland · Menge · Batterie / Sitz Trim · LHD / RHD · Zielhafen · Incoterm **.
+Es wird kein Ausfuhrpreis veröffentlicht. The Chinese 2024 guide range (roughly RMB 129, 900–169; 900 ist ein **Haus, zeitempfindliche Referenz, nicht FOB/CIF**. Erkundigen Sie sich bei **Zielland · Menge · Batterie / Sitz Trim · LHD / RHD · Zielhafen · Incoterm **.
 
 ## Häufig gestellte Fragen
-**Ist der Fulwin T9 der gleiche wie der T9L? ** Nr.; the T9L is a longer-wheelbase vehicle (about 4870 mm / 2920 mm) and is excluded from this standard-T9 sheet.
-**What battery does the long-range T9 use?** A 32.66 kWh pack for the documented long-range versions, with 120–220 km CLTC electric range depending on trim.
-**Is the 1400 km range measured?** It is a manufacturer-claimed WLTC combined figure; präsentieren es als Fabrik-Anspruch, nicht als Testergebnis.
+**Ist der Fulwin T9 der gleiche wie der T9L? ** Nr.; der T9L ist ein Fahrzeug mit längerem Radstand (ca. 4870 mm / 2920 mm)  and  is excluded from this standard-T9 sheet.
+**Welche Batterie verwendet der Long-Range T9?** Ein 32.66 kWh-Pack für die dokumentierten Langstreckenversionen,  with 120–220 km CLTC electric range depending on trim.
+**Ist die 1400 km-Reichweite gemessen?** Es ist eine vom Hersteller beanspruchte WLTC-Kombinationsfigur; präsentieren Sie es als Fabrikanspruch, nicht als Testergebnis.
 ** Fünf oder sieben Sitze?** Beide werden angeboten; geben Sie die Bestellung an und stimmen Sie mit der VIN überein.
 
 ## Bildaufzeichnung
 - IMAGE_ASSET_PATH: keine gesicherte Datei
 - ORIGINAL_IMAGE_URL: nicht erfasst
 - SOURCE_PAGE: nicht erfasst
+- SOURCE_FILE_PAGE: Entfällt — keine Kandidaten-Mediendatei identifiziert (keine Lizenz zur Geltendmachung)
 - RIGHTS_HOLDER: nicht bestätigt
 - LICENSE_OR_USAGE_BASIS: keine gesicherte — kein Bild von Dritten darf veröffentlicht werden, bis die Rechte gelöscht sind
-- CHECKED_DATUM: 2026-09-05
+- CHECKED_DATUM: 2026-09-06
 - MODEL_TOPIC_MATCH: muss mit dem genauen Modell/der genauen Version (oder dem Leitthema) und dem Referenzmarkt oben übereinstimmen
+- IMAGE_SCOPE_NOTE: nur die genaue Modellfamilie/das genaue Thema angeben; darf keine spezifische Trimm-/Modelljahr-, echte VIN-, persönliche Inspektion oder tatsächliche Transaktion implizieren
 - IMAGE_RIGHTS_STATUS: FAIL (kein lizenziertes Asset erfasst; ein Platzhalter oder ein Hinweis „altes Bild behalten wird nicht akzeptiert)
+- BLOCK_REASON: Es konnte kein wiederverwendbares Bild gesichert werden: Wikimedia Commons/Flickr sind aus der Forschungsumgebung nicht erreichbar, Lagerbibliotheken erfordern authentifizierten API/Lizenzzugriff und ein OEM-Webseitenbild ist KEIN kommerzielles Wiederverwendungsstipendium; es gibt kein AutoBridge-eigenes Foto. Nein, aber nicht nur vereitelt.
 - ALT nach Sprache:
   - **EN**: AutoBridge export-buyer reference — Chery Fulwin T9, plug-in hybrid vehicle / SUV
   - **FR**: Référence AutoBridge pour acheteurs export — Chery Fulwin T9, véhicule hybride rechargeable / SUV
@@ -81,16 +84,16 @@ Es wird kein Ausfuhrpreis veröffentlicht. The Chinese 2024 guide range (roughly
 ## Quellen & Verifizierung
 | Quelle: | Organisation | Markt | URL | Geprüft | Vertrauen | Belegte Fakten |
 |---|---|---|---|---|---|---|
-| GB 38031 Sicherheitsanforderung an Traktionsbatterien (nationaler Standard) | SAMR / Standardisierungsverwaltung | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | ÜBERPRÜFUNG | Sicherheitsgrundlage für die Traktionsbatterien des C-DM-Hochspannungspakets |
-| GB 18352.6-2016/XG1-2026 Grenzwerte für Lichtfahrzeuge (China 6) | Ministerium für Ökologie und Umwelt | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | ÜBERPRÜFUNG | Aktueller China-6 Emissionsrahmen für den 1.5T dedizierten Motor (China-6b Referenz) |
-| Fulwin T9 offizielle Konfigurationstabelle | Chery Fulwin (OEM) | CN | https://fulwin.chery.cn/vehicles/t9/config/ | 2026-09-04 | ÜBERPRÜFUNG (OEM) | Batterie, Abmessungen, Sitze, Aufladung, Versionen |
+| GB 38031 Sicherheitsanforderung an Traktionsbatterien (nationale Norm) | SAMR / Standardisierungsverwaltung | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | ÜBERPRÜFUNG | Sicherheitsgrundlage für die Traktionsbatterien des C-DM-Hochspannungspakets |
+| Grenzwerte für Lichtfahrzeuge GB 18352.6-2016/XG1-2026 (China 6) | Ministerium für Ökologie und Umwelt | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | ÜBERPRÜFUNG | Current China-6 emission frame for the 1.5T dedicated engine (China-6b reference) |
+| Fulwin T9 Offizielle Konfigurationstabelle | Chery Fulwin (OEM) | CN | https://fulwin.chery.cn/vehicles/t9/config/ | 2026-09-04 | ÜBERPRÜFUNG (OEM) | Batterie, Abmessungen, Sitze, Aufladung, Versionen |
 | Fulwin T9 Hands-on (Größe/Modelljahr) | Dongchedi | CN | https://m.dongchedi.com/article/7506038314424730131 | 2026-09-04 | CROSS_CHECKED | Dimensionen, Modelljahresgrenze |
-| Fulwin T9 120 Langstrecken-Flaggschiff-Konfiguration | Autohome Config | CN | https://m.autohome.com.cn/config/spec/70272.html | 2026-09-04 | CROSS_CHECKED | 32.66 kWh, electric range, motor |
-| Fulwin T9 battery & EV-range analysis | Autohome: Chejiahao | CN | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26113006 | 2026-09-04 | SINGLE_SOURCEN | Batterie, CLTC/WLTC-Bereich, Ladezeiten |
-| Fulwin T9 Launch & Dimensionen | Sohu Auto Datenbank | CN | http://db.m.auto.sohu.com/model_7322/a/1019838375_120590677 | 2026-09-04 | CROSS_CHECKED | Mittelgroße PHEV SUV Größe, Inlandspreis |
-| 风云T9 官方配置表(品牌官网) | 奇瑞风云(奇瑞官方) | CN | https://fulwin.chery.cn/vehicles/t9/config/ | 2026-09-04 | ÜBERPRÜFUNG | 发动机115kW/220N·m/国VIb/无级超级电混DHT |
+| Fulwin T9 120 Langstrecken-Flaggschiff-Konfiguration | Autohome Config | CN | https://m.autohome.com.cn/config/spec/70272.html | 2026-09-04 | CROSS_CHECKED | 32.66 kWh, elektrische Reichweite, Motor |
+| Fulwin T9 Batterie & EV-Bereichsanalyse | Autohome: Chejiahao | CN | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26113006 | 2026-09-04 | SINGLE_SOURCEN | Batterie, CLTC/WLTC-Bereich, Ladezeiten |
+| Fulwin T9 Start & Dimensionen | Sohu Auto Datenbank | CN | http://db.m.auto.sohu.com/model_7322/a/1019838375_120590677 | 2026-09-04 | CROSS_CHECKED | Mittelgroße PHEV SUV Größe, Inlandspreis |
+| 风云 T9 官方配置表 (品牌官网) | 奇瑞风云 (奇瑞官方) | CN | https://fulwin.chery.cn/vehicles/t9/config/ | 2026-09-04 | ÜBERPRÜFUNG | 发动机 115kW/220N·m/国 VIb/无级超级电混 DHT |
 
-*Vertrauenshinweis: OEM-Konfigurationsseite erfasst (VERIFIED-Anker); Ladezeiten und Frachtvolumen sind Single-Source; kombinierte Reichweite ist ein Herstelleranspruch. Nur Standard T9 — T9L ausgeschlossen. *
+*Vertrauenshinweis: OEM-Konfigurationsseite erfasst (VERIFIED-Anker); Ladezeiten und Frachtvolumen sind Single-Source; kombinierte Reichweite ist ein Herstelleranspruch. Nur Standard T9 — T9L ausgenommen. *
 
 ## Editorial Review
 - **AutoBridge Export Editorial Team · Methode nach unserer [Editorial Policy](/redaktionelle Politik/)

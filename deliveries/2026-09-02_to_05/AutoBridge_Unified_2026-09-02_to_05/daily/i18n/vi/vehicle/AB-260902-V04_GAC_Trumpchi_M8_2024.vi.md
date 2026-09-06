@@ -1,96 +1,99 @@
-# GAC Trumpchi M8 2024 — Business MPV: Khác biệt chủng tộc, bố trí biển và Xuất thành phần ghi chú
+# GAC Timpchi M8 2024 — Kinh doanh MPV: Khác biệt chủng tộc, bố trí biển và Xuất Ghi chú
 
 ## SAO Siêu dữ liệu
-- **SEO title**: GAC Truchi M8 2024 kính, Hệ thống xuất & biển
-- **Meta Mô tả**: 2024 GAC Trumpchi M8 Kính thiên văn Trung Quốc: Master/Grandmaster vs Lingxiu series, 2.0TGDI 185 kW, 8AT, 7-seat layout, dimensions, and overseas buyer verification points.
-- ** URL đã đánh dấu**: /vehcles/gac-trumpchi- m8/
-- ** H1 **: GAC Trumpchi M8 2024 (China): Trình thu nhỏ MPV, làm biển và cụ thể bản đồ cho người nhập khẩu
-- ** Từ khoá bí mật **: GAC Trumpchi M8 2024 specifications export
-- **Secondary Search Words**: Trumpchi M8 7-seat MPV, GAC M8 2.0TGDI 8AT, Trumpchi M8 Master series, Chinese luxury MPV export, GAC M8 Middle East
-- **II nội Link gợi ý**: /guides/phải-tay-tay-chò-cò-cas /; /guides/commercial-coveral-coverment-chir-china /; /vehicles/forthing-lingzhi-m5/
-- **Image gợi ý**: side profile showing 3070 mm wheelbase; Vị thuyền trưởng hàng thứ hai; So sánh ba lần; Cửa trượt và lối đi; Name
-- **LT Những gợi ý**: "2024 GAC Trumpchi M8 Grandmaster seven-seat business MPV, China spec"; "Trumpchi M8 thứ hai ghế và lối đi; "M8 Master vs Grandster vs Lingxiu so sánh"
+- **SEEO Titchi M8 2024 kính hiển vi, mã xuất dạng mã & biển
+- **Meta Mô tả**: 2024 GAC Thumpchi M8 Kính thiên văn Trung Quốc: Sư phụ và Linh Linh gia, 2.0TGDI 185 kW, 8AT, Bố trí 7-seat, Kích thước,  and  Điểm xác nhận của người mua ở nước ngoài.
+- ** URL đã đánh dấu**: /vehicles/gac-truchi- m8/
+- ** H1 **: GAC Truchi M8 2024 (Trung Quốc): MPV Series, Seaing và cụ thể bản đồ cho các nhà nhập khẩu
+- ** Từ khoá riêng **: GAC Truchi M8 2024 đặc điểm xuất khẩu
+- **Secondary Search Words**: Trumpchi M8 7-seat MPV, GAC M8 2.0TGDI 8AT, Timpchi M8 Bộ phim siêu hạng, xuất khẩu MPV sang trọng, GAC M8 Trung Đông
+- **I nội bộ Link gợi ý:: //guides/ right-dive-chinese-cars/; /guides/commercial-crial-criet-china-china /; /vehles/forthin-lingzhi- m5/
+- **Image sus**: hồ sơ bên cho thấy 3070 mm bánh xe cơ sở; hàng thứ hai ngồi; so sánh ba lần; trượt cửa và lối đi; buồng lái
+- **LT Những gợi ý**: "2024 GAC Trumpchi M8 Grandmaster seven-seat business MPV, Thống kê Trung Quốc. "Truchi M8 hàng ghế và hàng ghế đầu hàng thứ hai." " M8 sư phụ đấu với bộ so sánh kiểu ngoại sư và Linh Linhu"
 
-## Tại sao người mua lại nhìn vào M8
+## Tại sao người mua lại xem M8
 
-The Thumpchi M8 là một trung bình, đơn giản là doanh nghiệp/gia đình MPV** có giá trị ngồi trong cabin và hàng ghế thứ hai thay vì lái động lực. It is primarily an **ICE (petrol) 2.0T** model, with a hybrid (双擎) version also offered in China whose specific figures are not asserted on this page. GAC Nhóm cũng công bố một cấu hình từ nước ngoài **GAC M8 ** (bao gồm cả thị trường Trung Đông, LHD và nơi đề nghị, RHD); phải theo thông số chính thức của tài liệu nước ngoài. Mọi thứ bên dưới là tham chiếu thị trường Trung Hoa ** (REFERCE MORET: CHINA)**, representative trim the 2024 宗师 (Grandmaster) 2.0TGDI.
+The Thumpchi M8 là một trung bình, đơn giản là doanh nghiệp MPV/gia đình** có giá trị ngồi trong cabin không gian và hàng ghế thứ hai thay vì lái động lực. Nó chủ yếu là một kiểu **ICE (petrol) 2.0T **, với bản lai (双擎) cũng được cung cấp ở Trung Quốc mà không có những con số cụ thể nào được xác nhận trên trang này. GAC Nhóm cũng công bố một cấu hình từ nước ngoài **GAC M8 ** (bao gồm cả thị trường Trung Đông, trong LHD và, nơi được đề nghị, RHD); thông số xuất khẩu phải theo tài liệu chính thức đó ở nước ngoài. Mọi thứ bên dưới là tham chiếu thị trường Trung Hoa (REFERCEET: CHINA)**, đại diện cắt giảm 2024 宗师 (chủ nhân) 2.0TGDI.
 
 ## Quyết định đầu tiên: Giải nào
 
-China splits the M8 into three series that differ in size, wheelbase and torque calibration, so the series name must appear on every order:
+China splits the M8 into three series that differ in size, bánh xe cơ sở  and  Độ cân đối mô-men xoắn, Vì vậy, tên loạt phải xuất hiện trên mỗi thứ tự:
 
 | Series | Chiều dài | Quay | Máy | Torque |
 |---|---|---|---|---|
-| 宗师 Grandmaster / 大师 Master | 5212 × 1893 × 1823 mm | 3070 mm | 2.0T, 185 kW (252 PS) | **400 N·m** |
+| 宗师 Giáo hoàng / 大师 Sư phụ | 5212 × 1893 × 1823 mm | 3070 mm | 2.0T, 185 kW (252 PS) | **400 N·m** |
 | 领秀 Lingxiu (390T) | 5089 × 1884 × 1822 mm | 3000 mm | 2.0T, 185 kW (252 PS) | **390 N·m** |
 
-Power output is identical at 185 kW, but the Grandmaster/Master calibration peaks at 400 N·m versus 390 N·m for the Lingxiu 390T — a small but real difference that should not be flattened into a single "M8 torque" figure. Các chiều không gian và bánh xe của bà ngoại đều là **VERFIEEEE** so với các trang chính thức của GAC; Các giá trị của Lingxiu được kiểm tra chéo qua Autohome/Yiche.
+Kết quả điện tương tự với 185 kW, nhưng đỉnh cao của đỉnh cao là 400 N·m so với 390 N·m cho Lingxiu 390T — một sự khác biệt nhỏ nhưng thực sự không nên bị san bằng thành một con số M8 mô-men xoắn. Các chiều không gian và bánh xe của y tá là **VERFIEEEEEEEE** đối với các trang chính thức GAC; các giá trị Lingxiu được kiểm tra chéo qua Autohome/Yiche.
 
 ## Chi tiết cơ khí (Bản dịch Kinh Thánh tiếng Việt)
 
 | Mục | Giá trị tham chiếu thị trường Trung Quốc |
 |---|---|
-| Máy | 2.0T turbo L4, 185 kW (252 PS); 400 N·m (Grandmaster) / 390 N·m (Lingxiu) |
-| Truyền: | 8-speed automatic (8AT) |
-| — Đường hầm / cửa | 5-door MPV, 7 seats across the range (a 4-seat care/旗舰 variant also exists) |
+| Máy | 2.0T máy gia tốc L4, 185 kW (252 PS); 400 N·m (Ông) / 390 N·m (Lingxiu) |
+| Truyền: | 8-speed tự động (8AT) |
+| — Đường hầm / cửa | 5-door MPV, 7 ghế trên phạm vi (một 4-seat chăm sóc/ 旗舰 biến thể cũng tồn tại) |
 | Comment | Front MacPherson / hậu phương đa liên lạc |
-| Độ nặng cong | ~2060 kg (大师 尊贵版 reference, official) |
+| Độ nặng cong | ~2060 kg (大师 尊贵版 reference, chính thức) |
 | Tốc độ | 200 km/h |
-| Dùng nhiên liệu WLTC | 8.85 L/100 km (Lingxiu 390T 豪华版, database figure) |
+| Dùng nhiên liệu WLTC | 8.85 L/100 km (Lingxiu 390T 豪华版, Hình cơ sở dữ liệu) |
 
 ## Đường biển và nội thất — Phần lõi của cửa hàng bán hàng bách hóa MPV
 
-With a 3070 mm (Grandmaster/Master) wheelbase in a 5.2-metre body, the M8 is configured around three rows and walk-through access to second-row captain chairs. Đối với người nhập khẩu hay người mua hạm đội, câu hỏi thực sự thay đổi chiếc xe là:
+Với 3070 mm bánh xe (chủ nhân/ Chủ tịch) trong một cơ thể 5.2-metre, M8 được cấu hình xung quanh ba hàng và đi qua truy cập vào ghế thuyền trưởng hàng hai. Đối với người nhập khẩu hay người mua hạm đội, câu hỏi thực sự thay đổi chiếc xe này là:
 
-- **Sat số đếm**: dòng chuẩn là bảy ghế; một biến thể bốn thịt tồn tại cho việc sử dụng tài xế/tách xe. Xác nhận thị trường nào cần thiết hơn là giả định tất cả các M8s là 7-seat.
+- **Sat số đếm**: dòng chuẩn là bảy ghế; một biến thể bốn thịt tồn tại cho việc sử dụng tài xế/tách xe. Xác nhận thị trường của bạn cần bố trí nào hơn là giả định rằng tất cả M8s là 7-seat.
 - **Second-row đặc tả**: chức năng thuyền trưởng-chair (tryation/manging/massage, chân nghỉ ngơi, bàn giao tiếp trung tâm) di chuyển theo lớp — yêu cầu danh sách các hàng- item-quimpment.
 - **Sliding cửa ra và mục nhập**: xác nhận các cửa có năng lượng phụ và sau khi chấm.
-- **Lingth đấu với đậu xe/gaage relict**: the 5212 mm Grandmaster is longer than the 5089 mm Lingxiu; Liên quan đến thị trường thành thị chặt chẽ.
+- **Lenth đấu với sự hạn chế đậu xe/gage**: 5212 mm Grandmaster dài hơn 5089 mm Lingxiu; thích hợp cho thị trường đô thị chặt chẽ.
 
 ## Trung Quốc và các điểm xuất khẩu được xây dựng — Các điểm quy củ
 
-- GAC xuất bản một cấu hình của GAC M8 ở nước ngoài; **do không sao chép chiều không gian/sức mạnh của Trung Quốc vào một bản in ấn VIN** — phù hợp với bảng chính thức đích đến.
+- GAC xuất bản một cấu hình của GAC M8 ở nước ngoài; **do không sao chép chiều không gian/sức mạnh của Trung Quốc vào một bản xuất khẩu VIN** — phù hợp với bảng chính thức đích đến.
 - Xác nhận **LHD/RHD** có sẵn cho quốc gia mục tiêu và liệu chuỗi cụ thể có được sản xuất trong bố trí lái đó hay không.
 - Kiểm tra sự chấp nhận tiêu chuẩn của công bố, cấp nhiên liệu và sự đồng hóa điểm đến cho một MPV xăng Trung Quốc.
 - Xác nhận ngôn ngữ thông tin, định vị và các dịch vụ kết nối bên ngoài đất liền Trung Quốc, cộng với bảo hiểm cho một đơn vị được thông báo song song.
-- If a customer specifically wants the **hybrid (双擎)**, request its separate official specification — this page does not infer hybrid battery/motor figures from the petrol car.
+- Nếu khách hàng muốn đặc biệt có những con số tổng hợp (双擎) (双擎), yêu cầu đặc điểm riêng biệt của nó — trang này không phân biệt được pin lai/motor từ xe hơi.
 
 ## Tự động Bridge thêm điều gì ngoài cuốn Brochure
-MPV buyers are sold a "luxury seven-seater" label that hides three different series and seat layouts. This guide recommends recording the **series-specific wheelbase and torque calibration (400 vs 390 N·m)** on the order, preparing a **line-item second-row seat-equipment list** (ventilation/heating/massage, leg rests, powered doors) so trim is not mis-substituted, and comparing the Chinese build against GAC's **overseas M8 sheet** before deposit rather than copying China dimensions onto an export VIN.
+MPV buyers are sold a "luxury seven-seater" label that hides three different series  and  Bố trí chỗ ngồi. Hướng dẫn này khuyên ghi lại các bánh xe đặc trưng **series và mô-men xoắn (400 lần 390 N·m)** trên thứ tự, chuẩn bị một **line- items-row severment list** (đã cắt/trying/massage, chân nghỉ ngơi, cửa có điện năng) vậy tỉa không phải là con bọ phục tùng, và so sánh các tòa nhà Trung Quốc với M8 tờ giấy qua đường biển GAC* trước khi sao chép các chiều hướng của Trung Quốc vào một xuất khẩu VA.
 ## Danh sách kiểm tra trước
 - Định nghĩa việc định nghĩa MPV này, nhưng cấu hình ổ đĩa vẫn còn quan trọng cho việc đăng ký — đọc các chứng nhận được điều khiển bằng tay ra khỏi giấy đồng tính thay vì giả sử một bố trí từ lớp học kinh doanh-PV.
 
-1. Ghi lại chính xác loạt (Ông chủ/Ông/Lingxiu) và lớp; attach the matching dimensions and 400 vs 390 N·m calibration.
-2. Confirm seating layout (7-seat vs 4-seat) and second-row seat functions line by line.
+1. Ghi lại chính xác loạt (Ông/ Chủ / Chủ tịch/Lingxiu) và điểm; gắn các chiều không gian khớp và 400 tương ứng 390 N·m.
+2. Xác nhận bố trí chỗ ngồi (7-seat đấu 4-seat) và hàm ghế thứ hai theo từng dòng.
 3. Xác nhận phía lái, cửa trượt/cửa đuôi máy và thiết bị màu bên ngoài có sẵn bên trong.
-4. Khớp VIN với động cơ, 8AT và đo trọng lượng; xác minh điểm đến/ điểm tập trung.
-5. Thu thập các tờ chính sách chính thức của thị trường xuất khẩu GAC M8 và hòa giải với tham khảo tiếng Trung trước khi gửi tiền.
+4. Khớp mã VIN với động cơ, 8AT và kiểm tra trọng lượng; xác nhận điểm đến và điểm đến được tuân thủ.
+5. Thu thập các tờ giấy chính thức xuất khẩu của hãng hàng không GAC M8 và hòa giải với tham khảo tiếng Trung trước khi gửi tiền.
 
 ## Yêu cầu một trích dẫn Xuất hiện thời
 
-Số tự độngBridge trực tiếp trích dẫn thay vì danh sách giá tạm. Chinese domestic prices — Lingxiu 豪华版 from RMB 179,800 and Grandmaster petrol at RMB 269,800 — are **domestic references only (time-sensitive, not export FOB/CIF)**. Request a quote with **Destination Country · Quantity · Series & Grade · Seat Layout · LHD/RHD · Destination Port · Incoterm**.
+Số tự độngBridge trực tiếp trích dẫn thay vì danh sách giá tạm. Giá nhà của người Trung Quốc — Lingxiu 豪华版 từ RMB 179, 800 và dầu mỏ của ông bà tại RMB 269, 800 — chỉ là **dolestic tham khảo (thời gian nhạy cảm, không xuất khẩu FOB/CFIF). Request a quote with **Destination Country · Quantity · Series & Grade · Seat Layout · LHD/RHD · Destination Port · Incoterm**.
 
 ## Người mua FAQ
 
-**How many seats does the M8 have?** The standard China line is a 7-seat, three-row MPV; a 4-seat lounge/care variant also exists, so confirm the layout by grade.
+M8 có bao nhiêu ghế? Đường thẳng chuẩn của Trung Quốc là 7-seat,  three-row MPV; Một biến thể phòng ngủ/case 4-seat cũng tồn tại, vì vậy xác nhận bố trí theo lớp học.
 
-**Có phải tất cả phiên bản M8 đều cùng cỡ?** Không. Grandmaster/Master are 5212 mm long with a 3070 mm wheelbase; the Lingxiu is 5089 mm with a 3000 mm wheelbase.
+**Tất cả M8 phiên bản đều cùng cỡ? Không, ông bà nội / ông chủ dài 5212 mm với 3070 mm bánh xe; chiếc Lingxiu là 5089 mm với một chiếc bánh xe 3000 mm.
 
-**What is the torque difference between series?** Both make 185 kW, but Grandmaster/Master peak at 400 N·m and the Lingxiu 390T at 390 N·m — different calibrations.
+Có gì khác biệt giữa chuỗi xoắn? Cả hai đều có 185 kW người. Nhưng đỉnh cao của Grandster/ Master là 400 N·m  and  Bản Lingxiu 390T ở 390 N·m — những sự cân nhắc khác nhau.
 
-**Is there a hybrid M8?** A 双擎 hybrid is offered in China, but its specs are separate; yêu cầu chính thức phân phối từ mô hình dầu khí.
+Có ai lai M8 không? Một người lai 双擎 được đưa ra ở Trung Quốc, nhưng những thông số của nó là riêng biệt; yêu cầu bản sao chính thức của bản sao thay vì loại bỏ chúng khỏi mô hình xăng dầu.
 
-**GAC có bán M8 ở nước ngoài không?** Đúng vậy, nhóm GAC liệt kê một nhóm GAC M8 nước ngoài (bao gồm cả thị trường Trung Đông); sử dụng cấu hình xuất khẩu chính thức đó và xác nhận LHD/RHD cho nước bạn.
+**GAC có bán M8 nước ngoài không? Vâng, nhóm GAC liệt kê một nhóm GAC M8 nước ngoài (bao gồm cả thị trường Trung Đông); sử dụng cấu hình xuất khẩu chính thức đó và xác nhận LHD/RHD cho đất nước bạn.
 
 ## Thu ảnh
 - Không có bảo mật trong kho
 - _NHỮNG _I HÌNH: chưa được thu
 - Không được lấy
+- SOURCE_FLE_PAGE: không thích hợp — không có tập tin phương tiện ứng cử viên nào được xác định (không có giấy phép để xác nhận)
 - Chưa xác nhận
 - LICENSE_OR_USAGE_BAAY: không bảo mật — không có ảnh bên thứ ba có thể được xuất bản cho đến khi quyền được xoá
-- CÂU_DATE: 2026-09-05
+- CÂU_ lẫn nhau: 2026-09-06
 - MODEL_TOPIC_MASP: cần phải khớp với mô hình/ Quay chính xác (hoặc chủ đề hướng dẫn) và thị trường tham chiếu bên trên
+- ITH_SCOPE_NOTE: phù hợp với chính xác mô hình gia đình/tic duy nhất; không phải ngụ ý một cụ thể cắt/mdel năm, thực sự VIN, kiểm tra người trong người hoặc thực sự giao dịch
 - TRONG SÁCH TRONG LINH: FAIL (không có giấy phép lấy được tài sản; một người giữ chỗ hoặc “không chấp nhận lời nhắn cũ của hình ảnh ”
+- - Không. Không thể bảo đảm ảnh có thể tái tạo: Wikimedia Commons/Flickr không thể tới từ môi trường nghiên cứu, thư viện chứng khoán yêu cầu quyền truy cập hệ thống ARI/licence, và một trang web OEM không phải là một tài trợ tái sử dụng thương mại; không có ảnh tự động của AutoBridge. Giữ FAIL thay vì khẳng định.
 - Theo ngôn ngữ:
   - **EN**: AutoBridge export-buyer reference — GAC Trumpchi M8, petrol/diesel Chinese-market vehicle / MPV
   - **FR**: Référence AutoBridge pour acheteurs export — GAC Trumpchi M8, véhicule thermique (marché chinois) / MPV
@@ -109,19 +112,19 @@ Số tự độngBridge trực tiếp trích dẫn thay vì danh sách giá tạ
 
 | Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
-| M8 大师 尊贵版 official | GAC Timpchi (chính thức) | CN | https://www.gacmotor.com/m8xds_new/empow01.html | 2026-09-02 | VEII | 5212 mm body, 3070 mm WB, 2060 kg, 2.0TGDI |
-| GAC M8 overseas configuration | Nhóm GAC (chính thức) | Trình gửi/ thả thư | https://www.gacgroup.com/en-kw/configuration/gac-m8/2024 | 2026-09-02 | VEII | 185 kW/252 PS, 7 seats, suspension |
-| 2024 M8 宗师 petrol official | GAC Timpchi (chính thức) | CN | https://www.gacmotor.com/2024m8zs_new/ | 2026-09-02 | VEII | 2.0TGDI + 8AT, 400 N·m, domestic price |
-| Lingxiu 390T conbig | Autohome (汽车之家) | CN | https://dealer.autohome.com.cn/2133191/spec_68518.html | 2026-09-02 | ĐÃ_ ĐÃ | 5089 mm body, 3000 mm WB, 390 N·m, WLTC 8.85 |
+| M8 大师 尊贵版 official | GAC Timpchi (chính thức) | CN | https://www.gacmotor.com/m8xds_new/empow01.html | 2026-09-02 | VEII | 5212 mm người, 3070 mm WB, 2060 kg, 2.0TGDI |
+| Cấu hình nước ngoài GAC M8 | Nhóm GAC (chính thức) | Trình gửi/ thả thư | https://www.gacgroup.com/en-kw/configuration/gac-m8/2024 | 2026-09-02 | VEII | 185 kW / 252 PS, 7 ghế, đình chỉ |
+| 2024 M8 宗师 chính thức là dầu hỏa | GAC Timpchi (chính thức) | CN | https://www.gacmotor.com/2024m8zs_new/ | 2026-09-02 | VEII | 2.0TGDI + 8AT, 400 N·m, giá nội địa |
+| Lingxiu 390T con config | Tự động nhà (汽车之家) | CN | https://dealer.autohome.com.cn/2133191/spec_68518.html | 2026-09-02 | ĐÃ_ ĐÃ | 5089 mm người, 3000 mm WB, 390 N·m người, WLTC 8.85 |
 | Tham số M8 | PCauto (太平洋汽车) | CN | https://price.pcauto.com.cn/m128883/config.html | 2026-09-02 | ĐÃ_ ĐÃ | Comment |
 | Linhxiu conbig | Yiche (易车) | CN | https://car.yiche.com/chuanqigm8/m173683/peizhi/ | 2026-09-02 | ĐÃ_ ĐÃ | Kích thước hình ảnh, giá nội địa |
 
-*Briendence Note (tự động Bridge: Kính thưa bà nội / bậc thầy được thực hiện trên trang web của GAC (chính thức của nhà sản xuất) Các giá trị Lingxiu được đưa qua cơ sở dữ liệu độc lập. The 400 vs 390 N·m calibration is intentionally kept separate by series; hybrid (双擎) specs are not asserted.*
+*BIDidence (Các tiêu chuẩn tự động Bridge): Thống kê của bà nội / chủ nhân được thực hiện trên trang của GAC (chính thức của nhà máy); Lingxiu giá trị là CROSS_CCHCKED trên cơ sở dữ liệu độc lập. Các số liệu 400 so với 390 N·m được cố tình tách ra theo loạt; số liệu về người lai (双擎) không được xác nhận. ♪
 
 ## Xem lại tập tin
 - **Author / recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
-- **Last xem xét**: 2026-09-05
-- **Trible market**: Mô hình Trung Quốc (trang màu xanh; Hiện có GAC M8 ở nước ngoài và thanh đích chi phối việc xuất khẩu)
+- **Last xem lại**: 2026-09-05
+- ** chợ địa phương**: model China (Mặc dù là trang màu xanh; có chữ GAC M8 ở nước ngoài và tờ đích chi phối việc xuất khẩu)
 - ** phương pháp xác định**: chính thức GAC trang cộng với tự do-tabase-check; các con số cụ thể giữ riêng biệt
 - **Ku thích về tiêu chuẩn**: Nghiên cứu và viết từ những nguồn được liệt kê ở trên (các nghiên cứu ban đầu; không có ổ đĩa cầm tay, bỏ xuống hoặc nhập khẩu nào được xác nhận). Sự tự tin nguồn được thể hiện trên mỗi hàng; bất cứ điểm nào chúng ta không thể tự xác nhận được đều được trình bày như một vật chứng thực thay vì xác nhận là sự thật.
 #AutoBridge #VehicleExport #GACTrumpchi #M8 #BusinessMPV

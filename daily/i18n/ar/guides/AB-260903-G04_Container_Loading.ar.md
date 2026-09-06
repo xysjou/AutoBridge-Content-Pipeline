@@ -1,73 +1,76 @@
-# Loading Cars Into a 40HQ Container: Counts That Depend on a Load Plan, and Lashing That Holds at Sea
+# حاوية من 40HQ: يُحسب ذلك على خطة لؤم، و "لشينغ" التي تُمسك في البحر
 ## SEO Metadata
-- **SEO Title**: How Many Cars Fit in a 40HQ? Container Loading & Lashing Guide
-- **Meta Description**: A practical 40HQ vehicle-loading guide — typical 2-SUV no-rack loading vs 4-vehicle double-rack systems, ~8 straps per car on tyres, loading sequence and a five-point stowage check before seal.
-- **Suggested URL**: /guides/container-vehicle-loading-lashing/
-- ** H1 **: Container Vehicle Loading and Lashing: Counts, Racks, Sequence and Pre-Seal Checks
-- **Primary Keyword**: how many cars fit 40hq container loading lashing
-- **Secondary Search Terms**: 40HQ two SUV, double deck car rack container, vehicle lashing straps wheel tie down, RoRo to container conversion, container car loading sequence
-- ** Internal Link Suggestions**: /guides/vehicle-preshipment-inspection-psi/;guides/ev-shipping- un3171-imdg-compliance/ /vehicles/changan- cs75-plus/
-- **Image Suggestions**: side-view stowage diagram; wheel lashing points; pull-out double rack; top+bottom loading order
-- **ALT Suggestions**: "40HQ two SUV side stowage"; "wheel tyre lashing eight straps"
+- ** عنوان الحلقة**: كم عدد السيارات مُمتلئة بـ40HQ؟ دليل لبيع الحاويات
+- ** وصف البيانات**: A practical 40HQ vehicle-loading guide — typical 2-SUV no-rack loading vs 4-vehicle double-rack systems, -8 سلالة لكل سيارة على الإطارات تسلسل التحميل  and  فحص بخمس نقاط قبل الختم
+- ** اقتراح مقدم من الاتحاد الأوروبي**: /إرشادات/إبرام شاحنات تحميل المركبات/
+- ** H1 **** تحميل المركبات بالحاويات وشحنها: الكونتات والراكز والحياكة والفحوصات المسبقة عن علم
+- ** كلمة مفتاحية برية**: كم عدد السيارات التي تضبط 40hq حاوية تحميل مشتعلة
+- ** شروط البحث الثانية**: 40HQ two SUV, حاوية رف سيارات مزدوجة عجلات مُقطرة مُتدلّة بالسيارة، رورو إلى تحويل الحاويات سلسلة تحميل المركبات
+- ** مقترحات داخلية بشأن " لينك "**: /إرشادات/تفتيش قبل الشحن/فحص/بساطة؛ /إرشادات/رفع مستوى الشحن إلى un3171-imdg-compliance/؛ /عوامل/شانجان - cs75-plus/
+- ** اقتراحات مقدمة**: رسم بياني للموازين الجانبية؛ نقاط سطو العجلات؛ السحب المزدوج؛ الترتيب الخاص بالتحميل من القمة إلى القاعدة
+- ** الاقتراحات**: "40HQ two SUV side stowage"; "إطارات العجلات تُشْربُ ثمانية شرائحِ"
 
-## The Question Everyone Asks First
-"How many cars in a 40HQ?" has no universal answer — it is a function of **vehicle dimensions, mirror-folding, rack system and the carrier's approved stowage plan**. This guide gives realistic bands and the method; it deliberately does not promise a fixed count. Confirm every shipment against an actual measured load plan.
+## السؤال الذي يسأله الجميع أولاً
+"كم عدد السيارات في 40HQ؟" ليس لديها إجابة عالمية، إنها مهمة من أبعاد المحركات، المرآة، نظام الرف، خطة الوصل المعتمدة للناقل**. ويعطي هذا الدليل نطاقات واقعية وطريقة؛ وهو لا يعد عمداً بإحصاء ثابت. تأكد كل شحنة من خطة تحميل حقيقية
 
-## Realistic Loading Bands (from documented practice)
-- **No rack, conventional:** a 40HQ typically carries **two mid/large SUVs** (examples cited are ~4.9 m class such as ID.6 / Range-Rover / Prado / Li L7-scale vehicles) (single-source forwarder diagram).
-- **With a sliding pull-out double-deck rack:** an **"upper 2 + lower 2" = four SUVs** arrangement was reported in one Yantai-port "RoRo-to-container" trial (single-source).
-- **Sedans / China-Europe rail:****three vehicles per box** appears in China-Europe rail/sedan practice reporting (single-source).
-These are reference points, not entitlements: a high-roof van, a pickup or a long executive car changes the count, and rack loading needs certified equipment and an approved plan.
+## فرق النقل الواقعي (من الممارسة الموثقة)
+- ** لا يوجد رف، تقليدي:** يحمل 40HQ عادة اثنين من المركبات فوق سطحية في منتصف/الحجم** (تمثل الأمثلة المذكورة في 4.9 متر من فئة الهوية. 6 / Range-Rover / Prado / Li L7-scale vehicles) (الرسم البياني للمصدر الأول).
+- ** مع قفزة متحركة من رف مزدوجة الديك**، شاحن ×2 + أقل من 2، = أربعة طائرات سو فيرس** تم الإبلاغ عنه في محاكمة واحدة من طراز Yantai-port "Ro-to-container" (مصدر واحد).
+- ** ترد ثلاث مركبات لكل صندوق** في التقارير المتعلقة بممارسة السكك الحديدية/الممارسة الخاصة بالصين والأوروبية (المصدر الوحيد)**.
+وهذه نقاط مرجعية، وليست استحقاقات: فالشاحنة ذات السعة العالية، أو سيارة نقل أو سيارة تنفيذية طويلة، تغير العد، وتحتاج معدات معتمدة، وخطة معتمدة لتحميل الرف.
 
-## Lashing: Fix Through the Tyres, Not the Body
-Documented practice for in-box securing:
-- **About eight straps per vehicle**, predominantly a **wheel/tyre tie-down method** with multi-directional (five-direction) load paths.
-- Straps act on the **tyres/wheel points**, not on body panels, paint or suspension components — lashing to suspension or chassis in the wrong place can damage the car and still move under sea motion.
-- Use **anti-slip mats/chocks and timber blocking**, set correct strap tension, and protect any contact point.
-The objective is that under vessel rolling/pitching the car cannot shift, rotate or contact the box wall or the second vehicle.
+## المزمار: من خلال الإطارات، وليس الجسم
+: الممارسة الموثقة لتأمين الأموال في الصناديق:
+- ** فيما يتعلق بثمانية شرائح لكل مركبة**، معظمها طريقة ربط العجلات/الإطارات**، مع مسارات تحميل متعددة الاتجاهات (خمسة اتجاهات).
+- وتتصرف الأصفاد على الإطارات/نقاط العجلات**، وليس على لوحات الجسم، أو الطلاء أو عناصر التعليق - فإن الاصطدام بالتعليق أو الفوضى في المكان الخطأ يمكن أن يلحق الضرر بالسيارة ولا يزال ينتقل تحت حركة البحر.
+- وضع المواقد/الشوب المستعملة ** المشابهة المتحركة **، وقطع الأخشاب**، وضبط التوترات الضيقية الصحيحة، وحماية أي جهة اتصال.
+والهدف هو أنه في ظل تشغيل/سرقة السفينة لا يمكن أن يتحول أو يتناوب أو يتصل بالجدار الصندوقي أو المركبة الثانية.
 
-## Loading Sequence (where rack work goes wrong)
-For rack/double-deck loads, documented port practice is:
-1. **Load the racked vehicles top-first / in the planned order**, using a forklift to assist push-and-reposition;
-2. A **double-door (both-end) container allows work from both ends** simultaneously, shortening dwell;
-3. Secure each unit progressively — never leave a vehicle unsecured while manoeuvring the next.
-Sequence errors (loading the lower car first and blocking rack access) are the most avoidable delay in four-car loads.
+## (حيث يسوء العمل)
+وفيما يتعلق بحمولات الرف/الضباب الموثق، فإن الممارسة الموثقة في الموانئ هي:
+1. ** سحب المركبات المرفوعة من القمة الأولى/في الترتيب المقرر**، باستخدام رافعة شوكية للمساعدة في الدفع والإعادة إلى الأماكن؛
+2. (أ) أن تُسمح حاوية البيوت المُتَعَلَّم (النهاية) بالعمل من كلا النهايتين** في وقت واحد، مع تقليص حجم العمل؛
+3. تأمين كل وحدة تدريجيا - لا تترك مركبة بدون تأمين بينما تناورة بعد ذلك.
+وتشكل الأخطاء التي تُرتكب في فترات التعاقب (تحميل السيارة السفلى أولاً وتمنع الوصول إلى المسار) أكبر تأخير يمكن تجنبه في حمولات السيارات الأربعة.
 
 ## The Five-Point Pre-Seal Stowage check
-Adapted from documented container-loading method:
-1. **Goods vs packing list** — VINs, quantities and condition match; PSI already completed (see PSI guide).
-2. **Loading order** — weight distribution and rack positions per plan.
-3. **Centre of gravity / clearance / height** — no contact with roof, walls or doors; even side-to-side weight.
-4. **Securing** — straps, chocks, timber, anti-slip all in place and tensioned; nothing on paint/suspension.
-5. **Door clearance** — enough margin to close and seal; record photos of the stow before sealing.
+مقتبس من طريقة تحميل الحاويات الموثقة:
+1. ** قائمة السلع مقابل التعبئة** - الناموسيات والكميات والشرط المطابقة؛ وقد استكملت المبادرة بالفعل)انظر دليل التفتيش الموقعي(.
+2. ** ترتيب مضاف** - توزيع الوزن ومواقع الرف لكل خطة.
+3. ** مركز الجاذبية/التطهير/الطول** - لا يوجد أي اتصال بالسطح أو الجدران أو الأبواب؛ بل بالوزن الجانبي.
+4. ** تأمين** - أغطية، طلاء، خشب، مضاد للدبابات، في كل مكان، ومتوتر؛ لا شيء على الطلاء/التعليق.
+5. ** تطهير الأبواب** - هامش يكفي لإغلاقها وإغلاقها؛ وتسجيل صور الصوم قبل إغلاقها.
 
 ## EV-Specific Note
-An EV/hybrid inside a container still carries a traction battery: follow the ocean dangerous-goods documentation and any carrier SOC/state-of-charge instruction. under IMDG Amendment 42-24 (mandatory from 2026-01-01) a lithium-ion-battery-powered vehicle is classified UN3556, not the legacy generic UN3171; apply documentation/SOC details per the current EV shipping Fact Sheet and the carrier (see the EV ocean-compliance guide) Disconnect/prepare the 12 V system per the carrier and do not assume an internal-combustion stowage SOP covers an EV.
+لا يزال جهاز الأشعة/الهجين داخل حاوية يحمل بطارية مدفعية: تتبع وثائق البضائع الخطرة في المحيط وأي تعليمات ناقلة من طراز SOC/state-of-charge. (أ) في إطار تعديل IMDG 42-24 (الطلب من 2026-01-01) تصنف مركبة ذات طاقة الليثيوم - الأيون - البطاريات UN3556، وليس التركة العامة UN3171؛ تطبيق تفاصيل الوثائق/مكتب دعم البعثة على كل صحيفة وقائع الشحن الإلكترونية الحالية  and  the carrier (see the EV ocean-compliance guide) Disconnect/prepare the 12 V system per the carrier  and  لا تفترض أنّ مُستحضرات إس بي سي تغطي مُتفجرات من الـ (إي في)
 
-## What This Guide Recommends You Lock Before Booking
-- A **measured load plan** for the exact models (length/width/height, mirrors folded), not a generic "two or four" promise.
-- **Certified rack equipment** and an approved four-car plan if using double deck.
-- **Per-car strap count and wheel-point method** agreed with the loading warehouse.
-- **Photo evidence** of stow and lashing before seal, linked to VINs.
+## ما يوصي به هذا الدليل لك القفل قبل الحجز
+- خطة تحميل مقاسة** للنماذج الدقيقة (الذكور/الرؤيا/الطول، المرايا المطوية) وليس وعداً عاماً بـ "إثنان أو أربعة"
+- ** معدات مصدق عليها** وخطة معتمدة لأربع سيارات إذا استخدمت طابقين.
+- ** تم الاتفاق على طريقة عد سلاسل السيارات وربطها بالعجلات** مع مستودع التحميل.
+- ** دليل الصور** على القذف والضرب قبل الفقمة، المرتبط بالفينيين.
 - ** EEV dangerous-goods paperwork** and carrier SOC rules where relevant.
-- **Port, route, carrier and terminal acceptance in writing:** name the actual **load port and terminal** (the documented trials above are China-port references such as Yantai, not a universal standard), the **ocean carrier and its container operator**, and whether that terminal accepts **double-deck car racks and in-rack lashing** on the booked sailing. Acceptance conditions and any effective-date change differ by terminal and carrier, so record the **date each condition was confirmed** against the CTU Code securing principles rather than assuming one warehouse's method is accepted everywhere.
+- ** قبول بطاريات وطرق وناقلات وقبول طرفي مكتوب**: اسم الميناء والمحطات الطرفية** (المحاكمة الموثقة أعلاه هي إشارات إلى ميناء الصين، مثل يانتاي، وليس معيارا عالميا)، وناقل المحيط الهندي، ومشغل الحاويات**، وما إذا كانت تلك المحطة تقبل برفوف السيارات المتحركة الدوبلدة، والضرب بالطرق السريعة** على الإبحار المُحجز. شروط القبول وأي تغيير فعال يختلف عن الطرفية والناقل لذا سجلوا المستجدات التي تم تأكيدها** ضد قانون وحدة مكافحة الإرهاب
 
-## Frequently Asked Questions
-**Can a 40HQ always take four SUVs?** No — four needs a certified pull-out double rack and an approved plan; conventional no-rack loading of mid/large SUVs is typically two.
-**Where should straps attach?** To the tyres/wheel tie-down points — about eight per car — not to bodywork or suspension.
-**How do sedans differ?** Sedans and China-Europe rail loads commonly achieve three per box; dimensions still decide.
-**Why load the rack top-first?** The upper vehicles must be positioned before the lower ones block rack access; forklift assistance repositions them safely.
-**What is checked before sealing the doors?** Goods/list match, order, centre of gravity and clearance, full securing, and door margin — with photos.
+## الأسئلة المتكررة
+هل يمكن أن يكون 40HQ دائماً يأخذ أربعة سيارات الدفع الرباعي؟ لا - أربعة بحاجة إلى رف مزدوج معتمد وخطة معتمدة؛ وعادة ما يكون تحميل المركبات غير المباشرة في منتصف/الحجم إثنين من المركبات.
+** أين ينبغي أن تلحق به الشظايا**؟ - إلى الإطارات/نقاط ربط العجلات - حوالي ثمانية لكل سيارة - وليس إلى العمل الجسمي أو التعليق.
+** كيف تختلف المهدئات؟** وتتحقق حمولات السيدان والسكك الحديدية الصينية - الأوروبية عادة ثلاثة في كل صندوق؛ ولا تزال الأبعاد تقرر.
+** لماذا تحملين الرف الأول؟** ويجب أن تكون المركبات العليا في موقعها قبل أن تحجب المركبات السفلى إمكانية الوصول إلى المسار؛ وتعيد تقديم المساعدة على رفع الشوكة إلى أماكنها بأمان.
+** ما الذي تم فحصه قبل إغلاق الأبواب؟** تطابق السلع/القائمة، النظام، مركز الجاذبية والتخليص، تأمين كامل، وهامش الباب - مع الصور.
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
+## سجل الصور
+- لم يُؤمن أي منها في مستودع
 - ORIGINAL: IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
+- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
+- الحقوق - حقوق غير مؤكدة
+- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
+- CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
+- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات ويكيميو/فلكر غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات المسبقة/الرخصة، وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
 - ALT by language:
   - **EN**: AutoBridge export-buyer reference — Loading cars into a 40HQ container, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Loading cars into a 40HQ container, guide d’achat à l’export automobile
@@ -82,22 +85,22 @@ An EV/hybrid inside a container still carries a traction battery: follow the oce
   - **AR**: مرجع AutoBridge لمشتري التصدير — Loading cars into a 40HQ container, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Loading cars into a 40HQ container, 汽车出口采购指南
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## المصدر: التحقق
+| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
-| Vehicle stowage side-view (2/box, 8 straps) | Freight-forwarder material | Global | https://m.11467.com/product/d42473652.htm | 2026-09-03 | SINGLE OURCE | 2-SUV no-rack; ~ 8 straps; wheel method (one source) |
-| Yantai port first 4-SUV "RoRo-to-container" trial | Qilu Evening News / Toutiao | CN | http://m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | SINGLE OURCE | Upper2+lower2 rack; loading sequence (one reported trial) |
-| China-Europe rail car loading (3/box) | Harbin Railway / Toutiao | CN | http://m.toutiao.com/group/6748371578787987979/ | 2026-09-03 | SINGLE OURCE | Three-per-box sedan/rail reference (one source) |
-| Export container five-step loading method | NetEase | Global | https://www.163.com/dy/article/L42056IP05568MR2.html | 2026-09-03 | SINGLE OURCE | Five-point stowage check (one source) |
-*Scope note (R4): each loading figure comes from a single, distinct source (all SINGLE_SOURCE) — no fact is corroborated by two independent sources, so none is labelled CROSS_CHECKED. Counts are documented-practice references, not guaranteed stowage; the exact number always depends on measured dimensions and an approved load plan, and carrier/terminal rules must be confirmed at booking.*
+| مركبة من نوعها (2/box) 8 سلالة | المواد المستعجلة | Global | https://m.11467.com/product/d42473652.htm | 2026-09-03 | SINGLE OURCE | 2-SUV دون مسار؛ حوالي 8 سلالة؛ طريقة العجلات (مصدر واحد) |
+| مرفأ يانتاي أول 4-SUV محاكمة من رو إلى محتالة | أخبار كيلو إيفينينغ/توتوياو | CN | http://m.toutiao.com/group/7443978035637846554/ | 2026-09-03 | SINGLE OURCE | Upper2+lower2 رف؛ تسلسل التحميل (محاكمة واحدة أُبلغ عنها) |
+| تحميل سيارة السكك الحديدية الصينية - الأوروبية (3/box) | هربين سكايراوي/توتوياو | CN | http://m.toutiao.com/group/6748371578787987979/ | 2026-09-03 | SINGLE OURCE | إشارة من ثلاث صناديق إلى الرواسب/الجر (مصدر واحد) |
+| طريقة تحميل حاوية التصدير على خمس خطوات | NetEase | Global | https://www.163.com/dy/article/L42056IP05568MR2.html | 2026-09-03 | SINGLE OURCE | التحقق من المواقد من خمس نقاط (مصدر واحد) |
+*Scope note (R4): ويأتي كل رقم من أرقام التحميل من مصدر وحيد متميز (جميع مصادر SINGLE_SOURCE) - ولا يوجد أي حقيقة تدعمها مصدران مستقلان، لذلك لا يوجد أي مصدر يحمل علامة على البرمجيات المميتة - مُتَعَدّس. (أ) تعدّد مراجع موثقة - ممارسات، ولا تُضمن لها المواهب؛ ويتوقف العدد الدقيق دائما على الأبعاد المقاسة وخطة تحميل معتمدة، ويجب تأكيد قواعد الناقل/الأجل عند الحجز. ♪
 
-| IMO/ILO/UNECE Code of Practice for Packing Cargo Transport Units (CTU Code) | International Maritime Organization (IMO) | INTL | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | VERIFIED | Cargo distribution, lashing and securing principles for CTUs including containers |
-| Containers / equipment reference | World Shipping Council | INTL | https://www.worldshipping.org/ | 2026-09-05 | VERIFIED | Standard freight-container and liner-equipment context for load planning |
+| مدونة قواعد ممارسات حزم البضائع في وحدات النقل (مدونة الاتحاد الدولي للاتصالات) | المنظمة البحرية الدولية | INTL | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | مفقود | توزيع البضائع، وقطعها وتأمين مبادئها لوحدات مكافحة الإرهاب بما في ذلك الحاويات |
+| الحاويات/المعدات المرجعية | المجلس العالمي للنقل البحري | INTL | https://www.worldshipping.org/ | 2026-09-05 | مفقود | السياق الموحد لبضائع الشحن ومشتريات خطوط الشحن |
 
-## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market / scope**: Global logistics operation (method, not a fixed-count promise)
-- **Verification method**: operational guidance, no universal count asserted
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+## استعراض التحرير
+- ** مستعرض/مراجع**: [فريق تحرير تصدير أوتو بريدج] (/مؤلف/) - طريقة لكل [سياستنا الانتخابية] (/سياسة التحرير/)
+- ** لم يُستعرض بعد**: 2026-09-05
+- ** سوق الإحالة/الحجم**: عملية السوقيات العالمية (مُثَل، وليس وعداً بالحسابات الثابتة)
+- ** طريقة التحقق**: التوجيه التنفيذي، لا يوجد عدد عالمي مُدَّعى
+- ** المعيار الإفريقي**: باحثة ومحررة من المصادر المذكورة أعلاه (بحوث مكتبية؛ ولا يُدَّعى عن أي قيادة مباشرة أو تمزق أو استيراد). وتظهر الثقة في المصدر في الصف الواحد؛ وأي نقطة لا يمكننا تأكيدها بشكل مستقل تعرض كبند تحقق بدلا من التأكيد على أنها حقيقة.
 #AutoBridge #ContainerLoading #40HQ #VehicleLashing #CTUCode

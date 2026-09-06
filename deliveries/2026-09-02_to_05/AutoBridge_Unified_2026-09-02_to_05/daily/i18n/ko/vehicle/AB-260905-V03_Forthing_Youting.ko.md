@@ -1,87 +1,90 @@
-# Dongfeng Forthing Youting (2025/2026) — Chinese-Market MPV Specs, ICE/PHEV Lines and Export Checks
+# Dongfeng Forthing Youting (2025/2026) - 중국 시장 MPV Specs, ICE/PHEV 라인 및 수출 검사
 
-## SEO Metadata
-- **SEO Title**: Forthing Youting MPV: Chinese-Market ICE & PHEV Lines, Specs and Export Guide
-- **Meta Description**: Chinese-market Dongfeng Forthing Youting (游艇) MPV: keep the ICE and PHEV lines separate; dimensions, 7-seat cabin, PHEV powertrain and export verification points.
-- ** H1 **: Dongfeng Forthing Youting (2025/2026) — Chinese-Market MPV Specs, ICE/PHEV Lines and Export Checks
-- **Primary Keyword**: Dongfeng Forthing / 东风风行 Youting / 风行游艇 specs export
-- **Secondary Search Terms**: Forthing Youting export; 游艇 MPV specs; Chinese 7-seat MPV; MPV PHEV; passenger van import
+## ▼ 한국어 메타데이터
+- **SEO 제목**: Youting MPV: 중국 시장 얼음 & PHEV 선, Specs 및 수출 가이드
+- ** Meta Description**: 중국 시장 Dongfeng Forthing Youting (游艇) MPV: 얼음과 PHEV 라인을 분리; 크기, 7-seat 캐빈, PHEV 파워 트레인 및 수출 검증 포인트.
+- ** H1 **: Dongfeng Forthing Youting (2025/2026) - 중국 시장 MPV Specs, ICE/PHEV 라인 및 수출 검사
+- ** 일기 키워드 **: Dongfeng Forthing / 东风风行 Youting/风行游艇 specs 수출
+- **세컨드리뷰 이용**: 잉어리팅 수출; 游艇 MPV specs; 중국 7-seat MPV; MPV PHEV; 여객 van import
 - **Suggested URL**: /vehicles/forthing-youting/
-- **Search Intent**: 了解 Dongfeng Forthing / 东风风行 Youting / 风行游艇 中国版规格、配置与出口适配性（车型参数页）
-- **Internal Link Suggestions**: /vehicles/forthing-youting/, /guides/ckd-skd-knockdown-kit-export-assembly/, /guides/export-document-package-history/, /guides/export-document-package-history/, /guides/export-document-package-history/, /guides/export-document-package-history/, /guides/ckd-skd-knockdown-kit-export-assembly/, /guides/export-document-package-history/, /guides/, /guides/@gmail.com/@gmail.com/@gmail.com/@gmail.com/@gmail.com/
-- **Schema Scope**: Article + Vehicle (no Product/Offer/Review)
+- ** 수색 **: 了解 Dongfeng Forthing/东风风行 Youting/风行游艇 中国版规格, 配置与出口适配性 (车型参数页)
+- ** 내부 링크 제안**: /vehicles/forthing-youting/, /guides/ckd-skd-knockdown-kit-export-assembly/, /guides/export-document-package-history/
+- **Schema Scope**: 기사 + 차량 (제품/오프러/리뷰 없음)
 
-## Buyer context: one MPV nameplate, two energy lines
-The **Dongfeng Forthing Youting (游艇)** is a mid-size Chinese-market MPV offered in **ICE and PHEV lines that must be quoted separately**. They share a 2900 mm wheelbase and 7-seat, hinged-door cabin but differ in height and powertrain. Reference market is **China**; no export-line specification is claimed.
+## 구매자 컨텍스트: 한 MPV 명찰, 두 개의 에너지 라인
+**Dongfeng Forthing Youting (游艇)**는 ** 별도의 인용해야 할 ** 얼음과 PHEV 라인에서 제공되는 중형 중국 시장 MPV입니다. 그들은 2900 mm 축거 및 7-seat, 경첩을 단 오두막을 공유하고 그러나 고도와 powertrain에서 다릅니다. 참고 시장은 ** 중국**입니다; 수출 선 명세는 주장되지 않습니다.
 
-## Cabin, dimensions and the two lines
-- **Wheelbase/seating **: 2900 mm, 7（5门，平开门） (five doors, hinged/sliding as built — confirm by trim).
-- **ICE body**: 4850 / 1900 / 1715 mm (cross-checked).
-- **PHEV body**: 4850 / 1900 / 1740 mm (cross-checked; note the taller roofline).
-- **PHEV powertrain**: 1.5T 154马力 L4, engine torque 230 N·m, motor torque 310 N·m, 1挡DHT, top speed 180 km/h.
-- **Charging note**: per the captured AutoHome account the PHEV **does not support DC fast charging** — confirm on the exact trim.
-- **Chinese domestic reference price (time-sensitive)**: from 15.49 RMB; a Chinese domestic MSRP only, never an export price.
+## 오두막, 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의  and  두 줄
+- **Wheelbase/seating**: 2900 mm, 7 (5 门, 平开门) (구조로 경첩을 꿴/sliding 문은 손질에 의해 확인합니다).
+- **ICE 본체**: 4850 / 1900 / 1715 mm (크로스 체크).
+- **PHEV 본체 **: 4850 / 1900 / 1740 mm (크로스 체크; 더 키 큰 지붕에주의).
+- ** PHEV 파워 트레인 **: 1.5T 154 马力 L4의 엔진 토크 230 N·m의 모터 토크 310 N·m, 1 挡 DHT의 최고 속도 180 km/h.
+- **요금**: 캡처된 AutoHome 계정 당 PHEV ** DC 빠른 충전을 지원하지 않습니다 ** — 정확한 트림을 확인합니다.
+- **중국 국내 기준 가격 (시간 감지)**: 15.49 RMB; 중국 국내 MSRP 만, 수출 가격.
 
-## Verified specification table (Chinese-market reference)
-| Specification | Value | Unit | Market | Confidence | Source note |
+## 인증 사양 표 (중국 시장 참조)
+| 제품 정보 | 의 값 | 제품정보 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 의논문 |
 |---|---|---|---|---|---|
-| length width height ice | 4850 / 1900 / 1715 | mm (mm) mm (mm) mm | CHINA | CROSS_CHECKED | 太平洋+搜狐 |
-| length width height phev | 4850 / 1900 / 1740 | mm (mm) mm (mm) mm | CHINA | CROSS_CHECKED | 汽车之家+太平洋 |
-| wheelbase | 2900 | mm (mm) mm (mm) mm | CHINA | CROSS_CHECKED | 太平洋+搜狐 |
-| seats | 7（5门，平开门） | - - - | CHINA | SINGLE_SOURCE | 搜狐车型库 |
-| phev engine | 1.5T 154马力 L4 | - - - | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
-| phev engine torque | 230 | · | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
-| phev motor torque | 310 | · | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
-| phev transmission | 1挡DHT | - - - | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
-| phev top speed | 180 | km/h | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
-| phev dc fast charge | 不支持快充（汽车之家口径） | - - - | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
-| phev china msrp start | 15.49 | 万元人民币 | CHINA | TIME_SENSITIVE | 车主之家 |
+| 길이 폭 고도 얼음 | 4850 / 1900 / 1715 | mm (mm) mm (mm) mm | 담당자: Mr. Li | CROSS_체크 | 太平洋 + 搜狐 · |
+| 길이 폭 고도 phev | 4850 / 1900 / 1740 | mm (mm) mm (mm) mm | 담당자: Mr. Li | CROSS_체크 | 汽车之家 + 太平洋 · |
+| 휠베이스 | 2900 | mm (mm) mm (mm) mm | 담당자: Mr. Li | CROSS_체크 | 太平洋 + 搜狐 · |
+| 의 특징 | 7 (5 门, 平开门) | - - - | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 搜狐车型库 |
+| phev 엔진 | 1.5T 154马力 L4 | - - - | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 汽车之家车家号 |
+| phev 엔진 토크 | 230 | · | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 汽车之家车家号 |
+| phev 모터 토크 | 310 | · | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 汽车之家车家号 |
+| phev 전송 | 1挡DHT | - - - | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 汽车之家车家号 |
+| phev 최고 속도 | 180 | 의 도시 | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 汽车之家车家号 |
+| phev dc 빠른 책임 | 不支持快充 (汽车之家口径년) | - - - | 담당자: Mr. Li | SINGLE_SOURCE(싱글) | 汽车之家车家号 |
+| phev 중국 msrp 시작 | 15.49 | 万元人民币 | 담당자: Mr. Li | TIME_SENSITIVE(주) | 车主之家 |
 
-## MPV procurement focus: seating, conversion and what is deliberately missing
-For MPV importers the order-critical fields are seat count/configuration, door type, cabin length and whether the unit is ICE or PHEV. The PHEV **battery capacity and pure-electric range are not reliably captured and are withheld**, and fast-charging rests on a single source; do not fill these from assumption. Any ambulance, VIP shuttle or wheelchair conversion is an upfit built on this MPV and belongs to a separate special-vehicle assessment.
+## MPV 조달 초점: 좌석, 변환 및 deliberately 누락 된 것
+MPV 수입자는 주문 크리티컬 필드는 좌석 개 / 구성, 도어 타입, 캐빈 길이이며 단위가 얼음 또는 PHEV인지 여부를 나타냅니다. PHEV ** 배터리 용량과 순전한 범위는 안정적으로 캡처되지 않으며 단일 소스에서 빠른 충전 휴식 **이며, 가정에서 이러한 채울 수 없습니다. 모든 구급차, VIP 셔틀 또는 휠체어 변환은 이 MPV에 내장되어 있으며 별도의 특수 차량 평가에 속합니다.
 
-## Overseas buyer verification before payment
-1. State ICE or PHEV explicitly and record the matching dimensions/height.
-2. Confirm 7-seat layout, door type and any conversion scope.
-3. Obtain PHEV battery/electric-range and charging data from OEM before quoting them — they are blocked here.
-4. Confirm destination emissions/type-approval and (for PHEV) charging standard.
-5. Treat the RMB figure as domestic reference only; request a current export quotation.
+## 결제 전 해외 구매자 검증
+1. State ICE 또는 PHEV 명시적으로 일치 치수 / 높이를 기록합니다.
+2. 7-seat 레이아웃, 문 유형 및 모든 변환 범위를 확인하십시오.
+3. PHEV 배터리/전기 레인지 및 충전 데이터를 OEM에서 인용하기 전에 - 그들은 여기에 차단됩니다.
+4. 대상 배출/유형-패러벌 및 (PHEV) 충전 표준을 확인합니다.
+5. 국내 참고로 RMB 수치를 치료하십시오. 현재 수출 견적을 요청하십시오.
 
-## FAQ
-**Are the ICE and PHEV Youting the same size?** Same wheelbase, but the PHEV is slightly taller; quote each line separately.
-**What is the PHEV electric range?** Not reliably sourced here and intentionally omitted.
-**Does it fast-charge?** One source says no DC fast charging; confirm by exact trim.
-**Is 154,900 RMB the export price?** No — Chinese domestic reference only.
-**Can it be converted to a shuttle/ambulance?** As an upfit; assess separately from the base MPV.
+## 의논하기
+** 얼음과 PHEV는 동일한 크기를 밝히는가? ** 동일한 축거, 그러나 PHEV는 약간 더 키가 큰; 각 선을 따로따로 인용하십시오.
+** PHEV 전기 범위는 무엇입니까? ** 믿을 수 없는 소스와 의도적으로 omitted.
+** 빠른 충전을합니까? ** 한 소스는 DC 빠른 충전이 아니고 정확한 트림에 의해 확인.
+** 154, 900 RMB의 수출 가격? ** No — 중국 국내 참고만.
+** 셔틀 / 구급차로 변환 할 수 있습니까? ** upfit로, 기본 MPV에서 별도로 평가합니다.
 
 
-## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
+## 소스 및 검증
+| 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | URL을 | 지원된 사실 |
 |---|---|---|---|---|---|---|
-| 风行游艇 车型百科 | 太平洋汽车百科 | CN | T3 | CROSS_CHECKED | http://m.pcauto.com.cn/baike/1542347/2562358/ | 尺寸, 轴距, 座椅, 车门形式 |
-| 风行游艇 车型信息 | 汽车之家车家号 | CN | T3 | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/info/23897205?isfrom=pc | PHEV动力, 快充, 价格 |
-| 风行游艇 参数配置 | 搜狐汽车车型库 | CN | T2 | CROSS_CHECKED | https://db.auto.sohu.com/model_6769/config | 尺寸, 座位, 动力 |
-| 风行游艇 新车资讯 | 车主之家 | CN | T3 | CROSS_CHECKED | https://m.16888.com/news/2026/0807/24830307.html | PHEV上市信息 |
-| Dongfeng Forthing official global site | Dongfeng Liuzhou Motor / Forthing 东风风行 (OEM) | CN | T1 | VERIFIED | https://www.forthingmotor.com/ | brand/model-line identity and OEM authority |
-| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | T1 | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
-| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
-## Editorial Review
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: China (Chinese-market reference specification; not a global spec)
-- **Verification method**: Desk research against the sources below; Chinese-market reference specification only unless a separate export market is explicitly cited.
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
+| 风行游艇 车型百科 | 太平洋汽车百科 | 담당자: Mr. wang | T3 | CROSS_체크 | HTTP: //m.pcauto.com.cn/baike/1542347/2562358/의 경우 | 尺寸, 轴距, 座椅,  车门形式 |
+| 风行游艇 车型信息 | 汽车之家车家号 | 담당자: Mr. wang | T3 | CROSS_체크 | https: //chejiahao.m.autohome.com.cn/info/ 23897205?isfrom=pc | PHEV 动力, 快充, 价格 |
+| 风行游艇 参数配置 | 搜狐汽车车型库 | 담당자: Mr. wang | T2 | CROSS_체크 | https: //db.auto.sohu.com/ model_6769/config의 경우 | 尺寸, 座位,  动力 |
+| 风行游艇 新车资讯 | 车主之家 | 담당자: Mr. wang | T3 | CROSS_체크 | https: //m. 16888.com/news/2026/0807/24830307.html의 | PHEV 上市信息의 |
+| Dongfeng Forthing 공식 글로벌 사이트 | Dongfeng Liuzhou 모터/포장 东风风行 (OEM) | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https: //www.forthingmotor.com/에 대한 자세한 정보 | 상표/모형 선 ID와 OEM 권위 |
+| 산업 및 정보 기술부 (MIIT) | 미트 工业和信息化部 | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https: //www.miit.gov.cn/ 를 | 균질화/발표 권위; VIN/announcement에 의하여 정확한 모형, 질량 및 부호를 확인하십시오 |
+| 시장 규제 (SAMR)의 국가 관리 | 삼성 国家市场监督管理总局 | 담당자: Mr. wang | T1 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | https: //www.samr.gov.cn/ 의 경우 | 국가 표준, 인증 및 시장 규제 기관 |
+## 편집 리뷰
+- **Author**: AutoBridge 수출 편집팀 · [authors](/authors/) · [편집 정책](/편집/)
+- **마지막 검토**: 2026-09-05
+- **참고 시장 **: 중국 (중국 시장 참고 명세; 세계 spec)
+- ** 인증 방법**: 아래 소스에 대한 책상 연구; 별도의 수출 시장이 명시적으로 인용되지 않는 한 중국 시장 참조 사양.
+- **Transparency**: AI-assisted 초안 사용. 이 문서는 책상 연구 및 자동화 QA에 근거합니다. 명시적으로 문서화되지 않는 한, 첫 번째 손 테스트가 주장되지 않습니다. transacting 전에 시간 과민하고 대상 특정 요구 사항을 확인하십시오.
 
-## Image Record
-- **IMAGE_ASSET_PATH **: none secured in repository
-- **ORIGINAL_IMAGE_URL **: not captured
-- **SOURCE_PAGE**: not captured
-- **RIGHTS_HOLDER**: unconfirmed
-- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
-- **CHECKED_DATE**: 2026-09-05
-- **MODEL_TOPIC_MATCH**: exact Dongfeng Forthing Youting
-- **IMAGE_RIGHTS_STATUS**: FAIL
-- **ALT (12 languages)**:
+## 이미지 기록
+- **IMAGE_ASSET_PATH**: 저장소에 보안되지 않음
+- **ORIGINAL_IMAGE_URL **: 캡처되지 않음
+- **SOURCE_PAGE**: 캡처되지 않음
+- **SOURCE_FILE_PAGE**: 적용되지 않음 - 후보 미디어 파일 확인 없음 (Asert에 대한 라이센스 없음)
+- **RIGHTS_HOLDER**: 확인되지 않음
+- **LICENSE_OR_USAGE_BASIS**: 안전하지 않은 - OEM 웹 페이지 존재는 상업 재사용 면허가 아닙니다.
+- **CHECKED_DATE **: 2026-09-06
+- **MODEL_TOPIC_MATCH**: 정확한 Dongfeng 단조
+- **IMAGE_SCOPE_NOTE**: 이미지는 정확한 모델 가족/토닉에서만 일치해야 합니다. 특정 트림, 모델 년, 실제 VIN, 인-인터 검사 또는 실제 거래에 영향을 미치지 않아야 합니다.
+- **IMAGE_RIGHTS_STATUS**: FAIL(실버)
+- **BLOCK_REASON**: 재사용 가능한 이미지는 보안되지 않았습니다: Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 없으며, 주식 라이브러리는 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 없습니다. 기록은 asserted 보다는 오히려 FAIL를 지켜.
+- **ALT (12 언어)**:
   - **EN**: Dongfeng Forthing Youting, Chinese-market MPV export buyer reference
   - **FR**: Dongfeng Forthing Youting, MPV du marché chinois, référence acheteur export
   - **DE**: Dongfeng Forthing Youting, Chinesischer MPV, Referenz für Exportkäufer

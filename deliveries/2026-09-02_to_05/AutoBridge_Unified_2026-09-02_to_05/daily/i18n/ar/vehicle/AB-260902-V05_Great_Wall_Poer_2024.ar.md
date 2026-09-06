@@ -1,61 +1,64 @@
-# GWM Poer (Pao / Ute) — Drivetrain, Bed, Chassis and the Version Map for Pickup Importers
+# GWM Poer (Pao / Ute) - Drivetrain, Bed, Chassis and the Version Map forلتقطup Importers
 ## SEO Metadata
-- **SEO Title**: GWM Poer / Ute Pickup: Drivetrain, Bed & Export Version Guide
-- **Meta Description**: GWM Poer (China 炮 / GWM Ute) explained for pickup buyers — petrol vs diesel, 8AT/9AT evolution, on-demand 4WD, standard vs long bed, payload verification and how to fix the exact export build.
-- **Suggested URL**: /vehicles/great-wall-poer/
-- ** H1 **: GWM Poer (Pao): Fixing Drivetrain, Bed and Chassis Before You Order a Pickup
-- **Primary Keyword**: GWM Poer pickup specifications export
-- **Secondary Search Terms**: GWM Poer diesel 2.4T, GWM Ute export, GW4C20B petrol, GW4D24 diesel 480 Nm, Great Wall double cab pickup, Poer 4x4 cargo bed
+- ** عنوان المنظمة**: GWM Poer / Uteلتقطup: Drivetrain, Bed " Export Version Guide
+- ** وصف البيانات**: GWM Poer (China 炮 / GWM Ute) موضحاً لمشترين التقاط الوقود - البنزين ضد الديزل، و8AT/9AT التطور، و4WD في حالة الوفاة، ومقياس ضرار طول السرير، والتحقق من الحمولة، وكيفية إصلاح عملية بناء الصادرات بدقة.
+- ** المبلغ الإجمالي المقتطع**: /المركبات/الجرعات المجمّعة/
+- ** H1 **: بوير GWM (باو): سلة قيادة ثابتة، سرير و تشاسيس قبل أن تطلبي بيكب
+- ** كلمة رئيسية**: GWM مواصفات استخراج البوكر
+- ** مصطلحات البحث الثانية**: GWM Poer diesel 2.4T, GWM تصدير النفط، GW4C20B البنزين، GW4D24 ديزل 480 Nm، عظيم سيارة أجرة مزدوجة، سرير بوير 4x4
 - ** Internal Link Suggestions**: /guides/right-hand-drive-chinese-cars/;/guides/import-chinese-truck-saudi-saso/;/guides/commercial-truck-fleet-procurement-china/
-- **Image Suggestions**: double-cab with bed; petrol vs diesel card; 4WD selector; bed measurements; ladder-frame chassis
-- **ALT Suggestions**: "GWM Poer double-cab pickup"; "Poer cargo bed dimensions"; "Poer four-wheel-drive selector and transfer case"
-## Where the Poer Sits in the GWM Line-up
-The GWM Poer (China name 炮 / Pao; some export markets GWM Ute) is Great Wall's core body-on-frame pickup platform, sold in the Middle East, ANZ, Latin America and selected RHD markets in both steering layouts and both fuels. The name covers **passenger (乘用版), commercial (商用版) and off-road (越野版)** builds whose chassis, bed, suspension and transmissions differ — so the version must be fixed before any comparison. This is an evergreen model page: the China **2024 passenger build** is the named reference (REFERENCE MARKET: CHINA), while current GWM-official data (which has evolved to 9AT and revised outputs) is shown separately rather than silently overwriting the 2024 figures.
-## Drivetrain: Petrol vs Diesel — and a Model-Year Evolution to Respect
-| Powertrain | China 2024 passenger reference (databases, CROSS_CHECKED) | Current GWM-official line (VERIFIED) |
+- ** اقتراحات تتعلق بالاختبار**: ازدواجية الأجرة مع السرير؛ والبنزين ضد الديزل؛ و4WD منتق؛ وقياسات السرير؛ وثبات السلالم - الإطار
+- ** الاقتراحات**: "السيارة المزدوجة الأجرة" "أبعاد سرير البضائع" "قضية اختيار ونقل رباعي الدفع"
+## حيث يجلس البور في خط GWM
+The GWM Poer (China name 炮 / Pao; بعض أسواق التصدير (جو إم يوتي) هي منصة التعبئة الأساسية للوول العظيمة على الحاسوب، التي تباع في الشرق الأوسط، ANZ، أمريكا اللاتينية، واختيار أسواق الـ (RHD) في كل من مخططات التوجيه وكلا الوقودين. الاسم يغطي "الجوائز" (乘用版)  commercial (商用版)  and  (越野版)** يبني فوضويه السرير، التعليق  and  وتختلف الإرسالات - وبالتالي يجب تحديد الصيغة قبل أي مقارنة. هذه صفحة نموذجية من أي وقت مضى: إن الصين ** 2024 راكب يبنون** هي المرجع المسمى (REFERENCE MARKET): CHINA, في حين أن البيانات الرسمية الحالية المتعلقة بإدارة الموارد العالمية (التي تطورت إلى 9AT  and  revised outputs) is shown separately rather than silently overwriting the 2024 figures.
+## دراجــة: بيترول ضد ديزل - وثورة نموذجية للسنوات من أجل احترام
+| بــاء - الطاقة | الصين 2024 إشارة إلى الركاب (قواعد البيانات، CROSS-CHECKED) | الخط الرسمي الحالي للحركة العالمية للأرصاد الجوية (مسجلة) |
 |---|---|---|
-| Petrol | GW4C20B 2.0T, 140 kW (190 PS) / 360 N·m, ZF 8AT | GW4C20B, net 160 kW / 380 N·m, 8AT (per GWM pickup official config) |
-| Diesel | 2.4T, 135 kW (186 PS) / **480 N·m** | GW4D24 2.4T, net 135 kW / 480 N·m, **9AT** (GWM official); export Poer 2.4 lists ~181–183 PS / 480 N·m with 9-speed auto (GWM Jordan/UK official) |
-The important procurement point is not a single "correct" number but that **outputs and the transmission have moved across model years and markets**: the 2024 China passenger car used a ZF 8AT, while current GWM builds pair the 2.4 diesel with a GWM 9AT. Always quote the engine code (GW4C20B / GW4D24), its power on the exact sheet, and the transmission model — never a generic "Poer automatic." The diesel's 480 N·m is the choice for towing and loaded running.
-## Four-Wheel Drive and Chassis
-- **Drive**: 4 × 2 or 4 × 4; the passenger 4×4 uses an on-demand/torque-on-demand system, while off-road versions add part-time low range, locks and chassis/tyre upgrades. State 4×2 vs 4×4 and the exact 4WD type.
-- **Chassis**: body-on-frame ladder frame, double cab five-seat; front double-wishbone / rear rigid axle with leaf or coil set-up by version — confirm the rear suspension, since it affects ride and payload.
-- **Wheelbase**: 3230 mm passenger standard bed; 3470 mm commercial long bed. Do not mix the two.
-## Cargo Bed and Payload — Verify, Do Not Assume
-For a pickup the bed and rated payload are the commercial core, and they are version-dependent:
-- A passenger-bed reference around 1520 × 1520 mm (internal) is recorded from a single database source; confirm internal length/width/height on the chosen cab/bed (standard vs long changes them).
-- **Payload, GVW, towing rating, axle ratings and tyre load index were not in the verified fact base and are not invented.** Request them from the GWM official/commercial sheet for the exact version and destination market — they vary with suspension, wheelbase and passenger-vs-commercial rating.
-## Version Map for Ordering
-| Version | Character | Ordering focus |
+| البنزين | GW4C20B 2.0T, 140 kW (190 PS) / 360 N·m, ZF 8AT | GW4C20B، صافي 160 kW/ 380 N·m، 8AT (لكل مراسم رسمية من طراز GWM) |
+| الديزل | 2.4T, 135 kW (186 PS) / **480 N·m** | GW4D24 2.4T، صافي 135 kW/ 480 N·m، ** 9AT ** (موظفة من فئة إدارة الشؤون الجنسانية)؛ export Poer 2.4 lists ~181–183 PS / 480 N·m with 9-speed auto (GWM Jordan/UK official) |
+نقطة الشراء المهمة ليست رقماً خاطئاً واحداً لكن تلك النوافذ و النقل قد انتقلت عبر السنوات النموذجية والأسواق** the 2024 China passenger car used a ZF 8AT, بينما يبني النظام العالمي لرصد الأسلحة الكيميائية حالياً الديزل البالغ 2.4 مع 9AT. ماركاً عالمياً دائماً ما يقتبس من رمز المحرك (GW4C20B / GW4D24) قوتها على الشريحة بالضبط  and  نموذج الإرسال لا يُعتبر "أوتونى" عامّاً الديزل 480 N·m هو الخيار لسحب  and  محملة بالركض
+## Four-Wheel Drive  and  الفصائل
+- ** تم التصديق**: 4 × 2 × 4 × 4 × ويستخدم المسافرون 4 × 4 نظاماً على الطلب/التركة على الطلب، في حين تضيف النسخ غير المستخدمة في الطرقات نطاقاً منخفضاً غير متفرغ، وأقفال، وأجهزة للتحسينات/الإطارات. State 4 × 2 vs 4 × 4 and the exact 4WD type.
+- ** الشاسيس**: إطار سلم الجسم على الحاسوب، وزجاجة كابينة مزدوجة من خمس طوابق؛ وعجلة من الفأس المرطب المتين/الخرفة الخلفية مع إعداد الورق أو الفحم بالنسخة - يؤكد التعليق الخلفي، لأنه يؤثر على ركوب وحمولة.
+- ** قاعدة البيانات**: 3230 mm سرير عادي للركاب؛ 3470 mm سرير تجاري طويل. لا تخلط بين الاثنين
+## حبوب وحمولة الشحن - التحقق، لا تعويذ
+وبالنسبة لتوصيل السرير والحمولة المقيسة هي الجوهر التجاري، وهي تعتمد على النسخ:
+- وتسجل إشارة راكبة (ب) × 1520 × 1520 mm (داخليا) من مصدر قاعدة بيانات واحد؛ وتؤكد طول/رأي/طول داخلي على سيارة الأجرة/السريعة المختارة (المستوى مقابل التغييرات الطويلة التي تُدخل عليها).
+- ** لم تكن الحمولة، والأشعة العالمية، وتقديرات الطوف، وتقديرات الأكسيد، ومؤشرات الحمل بالإطارات، في قاعدة الوقائع التي تم التحقق منها، ولم تُختَرَق**.)أ(طلبهم من صحيفة GWM الرسمية/التجارة من أجل الصيغة الدقيقة وسوق المقصد - وهي تختلف بتعليق العمل، وقاعدة العجلات، ودرجة المسافرين - التجاري.
+## خريطة للفرز
+| التصويب | السمعة | التركيز على النظام |
 |---|---|---|
-| 乘用版 Passenger | Comfort double cab, automatic, on-demand 4WD | Trim, petrol/diesel, 4 × 2/4 × 4, transmission year |
-| 商用版 Commercial | Work-oriented, long bed (3470 mm WB), wider transmission choice | Payload/GVW, bed length, leaf-spring set-up, manual option |
-| 越野版 Off-road | Enhanced 4WD, locks, chassis/tyre upgrades | Low range, diff locks, tyres, ground clearance, angles |
-## What AutoBridge Adds Beyond the Brochure
-Pickup listings blur model years and markets, so buyers receive a "2.4 diesel 480 Nm" truck that may carry an 8AT or a 9AT, or a standard bed sold as a long bed. The recommended method is to pin **engine code + transmission model + wheelbase/bed + drive type to the VIN build note**, keep 2024-reference values separate from current GWM-official outputs, and decline to quote payload/towing that the official sheet does not state — avoiding the most common double-cab order mismatch.
-## Export Verification for Pickup Buyers
-- Confirm **LHD/RHD** and that the chosen engine/transmission is produced in that steering layout.
-- Verify destination **emissions/fuel** acceptance (diesel stage differs by GCC/LatAm/ANZ rule) — the Chinese label is not proof.
-- Obtain **payload/GVW/towing/axle ratings** from the official sheet before fleet pricing.
-- Confirm bed dimensions and whether liner/cover/bar are factory or accessory fitment.
-- Match warranty to the destination distributor; a China five-year/200,000 km reference is domestic coverage only.
-## Request a Current Export Quotation
-No static export price is published; China RMB references are **domestic and time-sensitive, not FOB/CIF**. Enquire with **Destination Country · Quantity · Version · Engine Code · Transmission · 4×2/4×4 · LHD/RHD · Bed Length · Destination Port · Incoterm**.
+| 乘用版 المسافر | سيارة أجرة مزدوجة تلقائي  on-demand 4WD | Trim, petrol/diesel, 4 × 2/4 × 4, transmission year |
+| 商用版 التجارة | سرير طويل موجه نحو العمل (3470 mm دبليو بي)، خيار أوسع نطاقاً للإرسال | حمولة/GVW، طول السرير، تركيبة مناديل الورق، خيار يدوي |
+| 越野版 خارج الطرق | تحسين 4WD، أقفال، رقعة/إطارات | منخفض المدى، أقفال الانتشار، الإطارات، إزالة الأرض، الزوايا |
+## ما يضيفه (أوت بريدج) إلى أبعد من (البروشير)
+وتذكر المعلومات التي تُدرج في قوائم السنوات والأسواق النموذجية الضبابية، لذا يتلقى المشترين شاحنة "2.4 ديزل 480 Nm" قد تحمل 8AT أو 9AT، أو سريراً عادياً يباع كسرير طويل. والطريقة الموصى بها هي وضع نموذج الرمز + النقل + قاعدة العجلات/النوع المدفوع + الدفع إلى مذكرة البناء الخاصة بالشبكة المتكاملة المعنية بالشبكة**، وإبقاء 2024-reference قيم منفصلة عن النواتج الحالية التي تستخدمها إدارة الأسلحة النووية، والتراجع عن حجم/الإقتباس أن الصحيفة الرسمية لا تذكر - وهو أكثر ما يُستشفى من سوء استخدام نظام الشراء المزدوج شيوعا.
+## التحقق من الصادرات من أجل المشترين
+- التأكيد **LHD/RHD**، وأن المحركات/النقل المختارة تنتج في مخطط التوجيه هذا.
+- التحقق من الوجهة**: الانبعاثات/الوقود** (تختلف مرحلة الديزل بقاعدة مجلس التعاون الخليجي/لاتام/المجموعة النيوزيلندية) - فالعلامة الصينية ليست دليلاً.
+- الحصول على ** حمولة/GVW/towing/axle ratings** من صحيفة رسمية قبل تسعير الأسطول.
+- تأكيد أبعاد السرير وما إذا كان الخط/الغطاء/المسح هو مصنع أو تركيبة ملحقة.
+- :: ضمان المصيد إلى موزع المقصد؛ أما إشارة الصين التي تبلغ خمس سنوات/ 200,000 km فهي تغطيها المحلية فقط.
+## طلب تخصيص موارد التصدير الحالية
+ولا يُنشر أي سعر ثابت للصادرات؛ وتُعد المراجع المتعلقة ببروميد الميثيل في الصين غير ذات طابع تقليدي ومراعي للوقت، وليس مقياس للجوانب/الإطار الاستراتيجي الدولي**. Enquire with **Destination Country · Quantity · Version · Engine Code · Transmission · 4×2/4×4 · LHD/RHD · Bed Length · Destination Port · Incoterm**.
 ## Buyer FAQ
-**Petrol or diesel Poer?** Petrol GW4C20B for lighter/road use; the 2.4 diesel GW4D24 makes 480 N·m for load and towing — choose by mission.
-**8AT or 9AT?** The 2024 China passenger car used a ZF 8AT; current GWM builds use a 9AT with the 2.4 diesel. Confirm the transmission on the exact VIN/year.
-**What's the wheelbase?** 3230 mm standard passenger bed; 3470 mm commercial long bed.
-**What is the payload?** Not stated here because it was absent from the verified fact base; take it from the exact version's official sheet.
-**Is it available in RHD?** GWM sells Poer/Ute in both layouts across many markets — confirm the specific engine/version in RHD for your country.
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
+** بيترول أو ديزل بوير**؟ البنزين GW4C20B لاستعمال الخفيف/الطرق؛ the 2.4 diesel GW4D24 makes 480 N·m for load  and  - اختيار السحب - حسب المهمة.
+** 8AT أو 9AT** The 2024 China passenger car used a ZF 8AT; current GWM builds use a 9AT with the 2.4 diesel. تأكد من إرسالها على الرقم القياسي للفيتنامي في السنة
+ما هي قاعدة العجلات؟ 3230 mm سرير معتاد للمسافرين؛ 3470 mm سرير تجاري طويل.
+** ما هو الحمولة؟ ** لم يذكر هنا لأنه كان غائباً عن قاعدة الحقيقة المتحققة، خذه من صحيفة النسخة الرسمية بالضبط.
+** هل هي متاحة في RHD؟** وتبيع هذه الإدارة باور/ت في كل من المخططين عبر أسواق عديدة - تؤكد المحرك/التحول المحددين في وثيقة التنمية البشرية لبلادكم.
+## سجل الصور
+- لم يُؤمن أي منها في مستودع
 - ORIGINAL: IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
+- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
+- الحقوق - حقوق غير مؤكدة
+- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
+- CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
+- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات ويكيميو/فلكر غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات المسبقة/الرخصة، وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
 - ALT by language:
   - **EN**: AutoBridge export-buyer reference — GWM Poer, petrol/diesel Chinese-market vehicle / pickup truck
   - **FR**: Référence AutoBridge pour acheteurs export — GWM Poer, véhicule thermique (marché chinois) / pick-up
@@ -70,23 +73,23 @@ No static export price is published; China RMB references are **domestic and tim
   - **AR**: مرجع AutoBridge لمشتري التصدير — GWM Poer, مركبة بمحرك احتراق (سوق الصين) / شاحنة بيك أب
   - **ZH**: AutoBridge 出口采购参考｜GWM Poer, 中国市场燃油车 / 皮卡
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## المصدر: التحقق
+| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
-| GWM pickup official configuration table (GW4C20B/GW4D24, 8AT/9AT, net power/torque) | GWM (**manufacturer official**) | CN | https://pickup.gwm.com.cn/configure/yyp.html?carId=1000097 | 2026-09-03 | **VERIFIED** | Current official net outputs 160 kW/380 N·m petrol, 135 kW/480 N·m diesel, 8AT/9AT |
-| GWM POER 2.4 export (181 hp/480 N·m/9AT, body-on-frame 4WD) | GWM Jordan (**manufacturer official**) | Export/JO | https://www.gwmjordan.com/en/poer/poer?v=440 | 2026-09-03 | **VERIFIED** | Export 2.4 diesel output, 9AT, 4WD body-on-frame |
-| GWM UK POER300 launch (2.4 diesel 183 PS/480 N·m, 9AT, full-time 4×4 low-range) | GWM Cars UK (**manufacturer official**) | Export/UK | https://gwmcars.co.uk/gwm-uk-launches-new-double-cab-pick-up/ | 2026-09-03 | **VERIFIED** | Export diesel rating, 9AT, 4 × 4 low-range |
-| 2024 Pao config (China passenger reference) | PCauto (太平洋汽车) | CN | https://price.pcauto.com.cn/m128673/config.html | 2026-09-02 | CROSS_CHECKED | 2024 passenger 140 kW/360 petrol, 135 kW/480 diesel, ZF 8AT |
-| Pao parameters (wheelbase/drive by version) | 360che / Autohome | CN | https://product.360che.com/m792/198189_param.html | 2026-09-02 | CROSS_CHECKED | 3230/3470 wheelbases, version drive/transmission |
-| 汽车之家 问答（炮动力） | 汽车之家 | CN | https://www.autohome.com.cn/ask/7251342.html | 2026-09-02 | SINGLE OURCE | GW4C20B 2.0T 190Ps/360N·m、采埃孚 8AT |
+| جدول التشكيل الرسمي للتشكيلات العالمية (GW4C20B/GW4D24، 8AT/9AT، صافي الطاقة/التوريك) | GWM (**مصنع رسمي**) | CN | https://pickup.gwm.com.cn/configure/yyp.html?carId=1000097 | 2026-09-03 | ** مصدق عليه** | Current official net outputs 160 kW/380 N·m petrol, 135 kW / 480 N·m ديزل 8AT/9AT |
+| GWM POER 2.4 export (181 hp/480 N·m/9AT, body-on-frame 4WD) | الأردن (** مسؤول عامل معني بالتشغيل**) | الصادرات/المكتب | https://www.gwmjordan.com/en/poer/poer?v=440 | 2026-09-03 | ** مصدق عليه** | إنتاج الديزل التصديري البالغ 2.4، 9AT، 4WD جسماً على الحاسوب |
+| GWM UK POER300 launch (2.4 diesel 183 PS / 480 N·m, 9AT, fulltime 4 × 4 low-range) | GWM Cars UK (**manufacturer official**) | الصادرات/الملكية المتحدة | https://gwmcars.co.uk/gwm-uk-launches-new-double-cab-pick-up/ | 2026-09-03 | ** مصدق عليه** | معدل الديزل التصديري، 9AT، 4 × 4 منخفض المدى |
+| 2024 شركة باو سيكغ (مرجع الركاب الصيني) | PCauto (太平洋汽车) | CN | https://price.pcauto.com.cn/m128673/config.html | 2026-09-02 | صرخات | 2024 راكب 140 kW/ 360 البنزين، 135 kW/ 480 ديزل، ZF 8AT |
+| بارامترات باو (القاعدة/الدفاع حسب الصيغ) | 360che / Autohome | CN | https://product.360che.com/m792/198189_param.html | 2026-09-02 | صرخات | 3230/3470 قاعدة عجلة، قرص/نقل نسخ |
+| 汽车之家 问答 (炮动力) | 汽车之家 | CN | https://www.autohome.com.cn/ask/7251342.html | 2026-09-02 | SINGLE OURCE | GW4C20B 2.0T 190Ps/360N·m、采埃孚 8AT |
 | 太平洋汽车 乘用版厢式运输车 | 太平洋汽车网 | CN | https://car.pcauto.com.cn/360/choose.jsp?mid=130087 | 2026-09-02 | SINGLE OURCE | 尺寸 5416×1947×1886、2.0T 140kW/360N·m、五年或20万公里质保 |
 | 网上车市 炮乘用皮卡参数 | 网上车市 | CN | https://a.cheshi.com/bseries_4361/param.html | 2026-09-02 | SINGLE OURCE | 乘用版 2.4T 柴油指导价 13.58/14.88 万 |
 
-*Confidence note: current outputs/transmissions are VERIFIED on GWM-official pages; the 2024 China passenger values are CROSS_CHECKED on databases and are deliberately kept separate to avoid mixing model years. Payload/GVW/towing remain for the official sheet and are not estimated.*
-## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: China 2024 passenger build + current GWM-official export builds (shown separately)
-- **Verification method**: Manufacturer-official current data + database cross-check of the named 2024 build; model-year differences preserved, not flattened
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+* ملاحظة: النواتج/النقلات الحالية موزعة على صفحات رسمية من نظام إدارة المعلومات العالمية؛ والقيم التي تبلغ 2024 للمسافرين الصينيين هي CROSS-CHECKED على قواعد البيانات، وتُحتفظ بها عن عمد لتتجنب اختلاط السنوات النموذجية. ولا يزال عبء العمل/العمليات العالمية/العملية/السفر/السفر في الهواء في الميزانية الرسمية ولا يقدر. ♪
+## استعراض التحرير
+- ** مستعرض/مراجع**: [فريق تحرير تصدير أوتو بريدج] (/مؤلف/) - طريقة لكل [سياستنا الانتخابية] (/سياسة التحرير/)
+- ** لم يُستعرض بعد**: 2026-09-05
+- ** سوق الإحالة**: بناء 2024 من الركاب في الصين + بناء الصادرات الرسمية الحالية من نظام إدارة الأسلحة النووية (على نحو منفصل)
+- ** طريقة التأهيل**: التحقق من البيانات الحالية القائمة على أساس الصانع + قاعدة البيانات، من المبنى المسمى 2024؛ حفظت الاختلافات في السنوات النموذجية، غير مسطحة
+- ** المعيار الإفريقي**: باحثة ومحررة من المصادر المذكورة أعلاه (بحوث مكتبية؛ ولا يُدَّعى عن أي قيادة مباشرة أو تمزق أو استيراد). وتظهر الثقة في المصدر في الصف الواحد؛ وأي نقطة لا يمكننا تأكيدها بشكل مستقل تعرض كبند تحقق بدلا من التأكيد على أنها حقيقة.
 #AutoBridge #VehicleExport #GWM #PoerPickup #DieselPickup

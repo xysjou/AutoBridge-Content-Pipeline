@@ -1,15 +1,15 @@
-# Name Nạp Biểu đồ B/T tương thích với CCS2 với CHAdeM tương thích với hệ thống NAS
+# Name Nạp/giải pháp chuẩn: GB/T tương thích với CCS2 so với CHAdeM tương thích với hệ điều hành NACS
 
 ## SAO Siêu dữ liệu
-- **SEEO Titry**: GB/T vs CCS2 vs CHAdeM tương thích với SAS: sự tương thích EV xuất C
-- **Meta Mô tả**: Liệu một chiếc EV bán hàng Trung Quốc có thể chạy ở Châu Âu, Nhật Bản hay Bắc Mỹ? GB/T 20234.3/27930 giải thích, bản đồ kết nối theo vùng, chuyển đổi hình dạng xuất khẩu, các ứng dụng và hướng ChaoJi.
+- **SEO Titt**: GB/T vs CCS2 vs CHAdeM tương thích với SACS: eV Xuất C tương thích với Trung Quốc
+- **Meta Mô tả**: Liệu một chiếc EV bán hàng Trung Quốc có thể chạy ở Châu Âu, Nhật Bản hay Bắc Mỹ? GB/T 20234.3/27930 giải thích, bản đồ kết nối theo khu vực, chuyển đổi hình dạng xuất khẩu, các ứng cử viên và hướng ChaoJi.
 - ** URL đã gợi ý**: /guides/chinese-charing-c tương thích tiêu chuẩn/
-- ** H1 **: Liệu một chiếc EV sạc điện từ Trung Quốc có ở ngoài biển không? GB/T, CCS2, CHAdeM và NAS tương thích được giải thích
-- **Cumpary Keyword**: GB/T CCS2 CHAde Mô phỏng xuất chuẩn MO tương thích
-- **Secondary Search Words**: Chinese EV export charging adapter, GB/T 20234.3 DC fast charge, GB/T 27930 protocol, CCS2 export version EV, ChaoJi standard
+- ** H1 Liệu một chiếc EV sạc điện từ Trung Quốc có ra biển không? GB/T, CCS2, CHAdeM và NACS tương thích được giải thích
+- ** Từ khoá riêng **: GB/T CCS2 CHAdeMG chuẩn xuất khẩu tương thích
+- **Secondary Search termss**: China eV xuất khẩu bộ thích nghi sạc, GB/T 20234.3 DC sạc nhanh, giao thức GB/T 27930, CCS2 phiên bản EV, ChaoJi tiêu chuẩn
 - **I nội bộ Link gợi ý**: /vehcles/byd-yan-plus/; /guides/hand-dive-chinese-cars/; /guides/d-chinese-ev-pies/ / / /
-- **Image gợi ý**: Bản đồ kết nối tiêu chuẩn thế giới; GB/T tương ứng với CCS2; In trong bản dịch xuất khẩu; Comment
-- **LT Những gợi ý**: "Bản đồ thế giới của các tiêu chuẩn kết nối nhanh của DC" "GB/T và CCS2 sạc các tiểu liên theo từng bên," "Tiệm xuất khẩu EV phiên bản CCS2"
+- **Image gợi ý**: bản đồ kết nối-có tiêu chuẩn thế giới; GB/T tương ứng CCS2 trong việc so sánh; hiệu ứng xuất khẩu từ nhà máy; cảnh báo thích nghi với bộ ứng
+- **LT gợi ý**: "Bản đồ thế giới của các tiêu chuẩn kết nối nhanh DC," "GB/T và CCS2 sạc các con nhỏ từng bên," "Chuyến xuất khẩu CCS2 trong tờ giấy"
 
 ## Tại sao người kết nối quyết định xe có dùng được không?
 
@@ -19,21 +19,21 @@ Một EV của Trung Quốc truyền qua các hải quan vẫn có thể không 
 
 | Chuẩn | Tiểu triển khai | Ghi chú |
 |---|---|---|
-| **GB/T 20234.3** (DC) + **GB/T 27930** (CAN communication) | Trung Quốc (xe của người Hoa) | GB/T 20234.3-2023 nâng giới hạn trên ** 1500 / 800 A** (các nguồn công nghiệp được kiểm tra qua mạng) |
-| **CCS2 (Combo 2)** | Châu Âu và nhiều thị trường xuất khẩu | Điều khiển AC/DC nhập nội bộ; chiếm ưu thế trong EU |
-| **CCS1 (Combo 1)** | Bắc Mỹ | Biến thể vùng của CCS |
+| **GB/T 20234.3 ** (DC) + **GB/T 27930 ** (giao tiếp CN) | Trung Quốc (xe của người Hoa) | GB/T 20234.3-2023 tăng giới hạn trên ** 1500 V / 800 A** (các nguồn công nghiệp kiểm tra chéo) |
+| ** CCS2 (Cbo 2)** | Châu Âu và nhiều thị trường xuất khẩu | Điều khiển AC/DC nhập nội bộ; chiếm ưu thế trong EU |
+| ** CCS1 (Cbo 1)** | Bắc Mỹ | Biến thể vùng của CCS |
 | **CHAdeM** | Nhật Bản và thị trường được chọn | Xuất xứ ở Nhật Bản |
-| **NACS** | Bắc Mỹ | Triển khai trên Bắc Mỹ (thời gian cuộn 2026 chưa chính thức được xác nhận ở đây) |
+| **NACS** | Bắc Mỹ | Triển khai trên Bắc Mỹ (2026 lần thời gian cuộn chưa chính thức xác định ở đây) |
 
 Những cái kết nối DC này không tương thích nhau về mặt vật lý: you cannot plug a GB/T gun into a CCS2 socket. Điều hòa (từ từ/đêm) cũng khác nhau về thị trường và phải được kiểm tra riêng biệt — một chiếc xe có thể tăng tốc trên một tiêu chuẩn trong khi chiếc AC Inlet vẫn cần được chú ý.
 
 ## "Trung Hoa Mác GB/T" nghĩa là gì trong thực tập
 
-Domestic Chinese EVs generally ship with **GB/T** DC charging and the GB/T 27930 CAN-based communication handshake. When the destination network predominantly runs **CCS2 (Europe), CHAdeMO (Japan) or NACS/CCS1 (North America)**, this creates the compatibility bottleneck an importer must design around. Trên thực tế, **GB/T và CCS2 không có sự tương thích trực tiếp về thể chất — một người thích nghi cần phải nối kết họ** (hơn so sánh kỹ nghệ EVSE) và một người thích nghi cũng phải bắt tay giao tiếp, chứ không chỉ đơn thuần là cơ chế.
+Người Trung Quốc thường sử dụng hệ thống EV với **GB/T** sạc và GB/T 27930 có thể bắt tay. Khi mạng đích chủ yếu chạy ** CCS2 (Euper), CHAdeM (Japan) hay NACS/ CCS1 (Mỹ), điều này tạo ra nút thắt liên kết một người nhập khẩu phải thiết kế xung quanh. Trên thực tế, **GB/T và CCS2 không có sự tương thích trực tiếp về thể chất — một người thích nghi cần phải nối kết họ** (hơn so sánh với ngành công nghiệp EVSE), và một người thích nghi cũng phải làm cho việc bắt tay giao tiếp, không chỉ đơn thuần là máy móc.
 
 ## Ba cách để giải quyết Nó — theo thứ tự của việc tham khảo
 
-1. **Order phiên bản xuất khẩu nhà máy với điểm đến inlet.** Nhiều nhà sản xuất Trung Quốc xây dựng các biến thể thị trường xuất khẩu được gắn với các kết nối (v. d., CCS2) hơn là các biến thể trong nước GB/T. Đây là con đường sạch nhất vì các phần mềm trên tàu và xác định được sắp xếp. Xác nhận kết nối chính xác **per VAN/model trên cấu hình xuất khẩu chính thức của thương hiệu** — trong và xuất bản phiên bản của mô hình "same" khác nhau.
+1. **Order phiên bản xuất khẩu nhà máy với điểm đến inlet.** Nhiều nhà sản xuất Trung Quốc xây dựng các biến thể thị trường xuất khẩu được gắn với các kết nối (v. d., CCS2) hơn là các biến thể trong nước. Đây là con đường sạch nhất vì các phần mềm trên tàu và xác định được sắp xếp. Xác nhận kết nối chính xác **per VAN/model trên cấu hình xuất khẩu chính thức của thương hiệu** — trong và xuất bản phiên bản của mô hình "same" khác nhau.
 2. ** Dùng một người thích nghi có chứng nhận (GB/T_C) *.** Khi không có phiên bản xuất khẩu của nhà máy, một người thích nghi cầu nối sự khác biệt về vật lý/ giao tiếp. Hãy xem đây như một câu hỏi tuân thủ, không chỉ phần cứng: ** thị trường hạn chế người thích nghi sử dụng**, và tình trạng chứng minh/về luật pháp không được lấy từ một nguồn chính thức - kiểm tra địa phương và mang theo tài liệu xác nhận của người thích nghi. Cần kiểm tra tốc độ và sự tin cậy của máy gia tốc nhanh hơn trước khi hạm đội cất cánh.
 3. **Solve nó ở phía cơ sở hạ tầng.** Những người điều hành công ty có thể cài đặt máy sạc GB/T tại cơ sở riêng của họ, loại bỏ sự phụ thuộc vào mạng lưới công cộng — khả năng cho các hạm đội đóng cửa, chứ không phải cho những khách hàng bán lẻ dựa vào các trạm phát thanh công cộng.
 
@@ -42,13 +42,13 @@ Domestic Chinese EVs generally ship with **GB/T** DC charging and the GB/T 27930
 Name **ChaoJi** dự án siêu nhanh được thiết kế để một giao diện vật lý chung được tương thích với qua **GB/T, CHAdeM và CCS** hệ thống, và được xem là một hướng chuẩn hóa DC trong tương lai (hoặc một tài liệu tổng hợp chính thức). Nó là ngữ cảnh nhìn về phía trước: không ** giả sử một phương tiện sản xuất GB/T hiện nay đã được hưởng lợi từ ChaoJi — xác nhận chính thức hỗ trợ mô hình trước khi sử dụng nó như một điểm bán hàng.
 
 ## Tự độngBridge thêm gì ngoài một biểu đồ kết nối
-Một biểu đồ chuẩn cho bạn biết GB/T khác với CCS2; Nó không cho bạn biết liệu cái máy này có sạc hay không. The recommended method is to record **physical inlet, handshake protocol and onboard-charger rating as one VIN-bound note**, distinguish a **hardware adapter (mechanical only) from a protocol gateway (GB/T 27930 handshake)** in the purchase file, and confirm the **adapter's legality and warranty effect in the destination** before deposit rather than after arrival.
+Một biểu đồ tiêu chuẩn cho bạn biết GB/T khác với CCS2, nó không cho bạn biết liệu IN * này sẽ sạc. Phương pháp khuyến khích ghi lại ** Giao thức vật lý inlet, bắt tay và đánh giá trên máy tính là một ghi chú có hạn VIN, phân biệt một bộ thích nghi ** bộ máy cứng (chỉ cơ giới) với cổng giao thức (GB/T 27930) * trong tập tin mua, và xác nhận hiệu ứng hợp pháp và bảo mật của ** ở điểm đến** trước khi gửi tiền thay vì sau khi đến.
 ## Ma trận xuyên suốt
 
 Với mỗi mô hình/trim bạn xuất khẩu, ghi chép trong một tờ giấy:
 
 - Inlet nội thất: GB/T DC + AC kiểu inlet
-- Inlet nhà máy sẵn sàng: CCS2 / CHAdeM / NACS / CCS1 bởi VIN
+- Inlet nhà máy sẵn sàng: CCS2 / CHAdeM / NACS / CCS1 bởi VAN
 - Giao thức liên lạc và phần mềm công ty xuất khẩu hỗ trợ bắt tay đích
 - Nếu bộ thích nghi: Mô hình thích nghi, chứng nhận, tối đa/tạp chí hiện tại và địa phương
 - Thực tế công việc mạng ở điểm đến (thường xuyên DC; tiêu chuẩn ổ cắm AC)
@@ -64,21 +64,24 @@ Với mỗi mô hình/trim bạn xuất khẩu, ghi chép trong một tờ giấ
 
 ## Những câu hỏi thường xuyên
 
-**Can a Chinese GB/T EV charge directly on European CCS2?** No — GB/T and CCS2 are physically incompatible; Bạn cần một nhà máy xuất khẩu CCS2 hoặc một người thích hợp, người thích hợp với địa phương.
-**What is GB/T 27930?** It is the CAN-based communication protocol used alongside the GB/T 20234.3 DC connector in China; Bắt tay cũng quan trọng như hình dạng cắm.
+**Can a Chinese GB/T EV charge directly on European CCS2?** No — GB/T  and  CCS2 không tương thích về thể chất; Bạn cần một nhà máy CCS2 phiên bản xuất khẩu hoặc một người thích hợp, người thích hợp với môi trường địa phương.
+** GB/T 27930 là gì? Nó là giao thức liên lạc dựa trên Can-T được dùng bên cạnh hệ thống kết nối GB/T 20234.3 ở Trung Quốc; bắt tay quan trọng như hình dạng cắm.
 **Một người thích nghi có phải là giải pháp lâu dài không? Nó có thể nối kết khoảng cách, nhưng sự thích nghi khác nhau tùy theo thị trường và tốc độ/sự ổn định; việc xuất khẩu nhà máy được ưu tiên hơn.
-** Có phải thương hiệu Trung Quốc bán phiên bản CCS2?** Nhiều biến thể xuất khẩu với kết nối đích — xác nhận mỗi mô hình/VIN dựa trên cấu hình xuất khẩu chính thức thay vì giả định.
+** Có phải thương hiệu Trung Quốc bán CCS2 phiên bản? Nhiều biến thể xuất khẩu với kết nối đích — xác nhận mỗi mô hình/VIN dựa trên cấu hình xuất khẩu chính thức thay vì giả định.
 **Dosh Chao Cơ làm cho tất cả các kết nối trở nên tương thích? ChaoJi là một hướng được thiết kế cho tương thích với tương lai; xe hơi sản xuất hiện nay vẫn cần xác nhận trên mô hình.
 
 ## Thu ảnh
 - Không có bảo mật trong kho
 - _NHỮNG _I HÌNH: chưa được thu
 - Không được lấy
+- SOURCE_FLE_PAGE: không thích hợp — không có tập tin phương tiện ứng cử viên nào được xác định (không có giấy phép để xác nhận)
 - Chưa xác nhận
 - LICENSE_OR_USAGE_BAAY: không bảo mật — không có ảnh bên thứ ba có thể được xuất bản cho đến khi quyền được xoá
-- CÂU_DATE: 2026-09-05
+- CÂU_ lẫn nhau: 2026-09-06
 - MODEL_TOPIC_MASP: cần phải khớp với mô hình/ Quay chính xác (hoặc chủ đề hướng dẫn) và thị trường tham chiếu bên trên
+- ITH_SCOPE_NOTE: phù hợp với chính xác mô hình gia đình/tic duy nhất; không phải ngụ ý một cụ thể cắt/mdel năm, thực sự VIN, kiểm tra người trong người hoặc thực sự giao dịch
 - TRONG SÁCH TRONG LINH: FAIL (không có giấy phép lấy được tài sản; một người giữ chỗ hoặc “không chấp nhận lời nhắn cũ của hình ảnh ”
+- - Không. Không thể bảo đảm ảnh có thể tái tạo: Wikimedia Commons/Flickr không thể tới từ môi trường nghiên cứu, thư viện chứng khoán yêu cầu quyền truy cập hệ thống ARI/licence, và một trang web OEM không phải là một tài trợ tái sử dụng thương mại; không có ảnh tự động của AutoBridge. Giữ FAIL thay vì khẳng định.
 - Theo ngôn ngữ:
   - **EN**: AutoBridge export-buyer reference — EV charging-standard compatibility GB/T CCS CHAdeMO NACS, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — EV charging-standard compatibility GB/T CCS CHAdeMO NACS, guide d’achat à l’export automobile
@@ -100,15 +103,15 @@ Với mỗi mô hình/trim bạn xuất khẩu, ghi chép trong một tờ giấ
 | Trình diễn chuẩn ChaoJi (chính thức) | Hội CHAdeM (cơ thể chuẩn) | CN/JP/Global | https://www.chademo.com/wp2016/wp-content/uploads/ChaoJi202006/ChaoJi_Presenataion_EN.pdf | 2026-09-02 | VEII | Hỗ trợ tương thích với ChaoJi được thiết kế với GB/T/CHAdeM/CCS |
 | Các đường xác định chuẩn nạp | Kiểm tra Hoa yu (cơ thể) | Toàn cục | http://www.huayutest.com/zixun/87747.html | 2026-09-02 | ĐÃ_ ĐÃ | Cấu hình mạng/CCS |
 | Đang nạp tiêu chuẩn kết nối | tiểu nhà (truyền thông bất thường) | CN | https://m.cehome.com/news/20260809/389612.shtml | 2026-09-02 | ĐÃ_ ĐÃ | GB/T 20234.3-2023 1500V/800A, GB/T 27930, ChaoJi |
-| GB/T, CCS2, Type 2, NACS, CHAdeMO so sánh | evse- replers.com (ndust) | Toàn cục | https://www.evse-chargers.com/news/understanding-ev-charging-standards-gb-t-ccs2-type-2-nacs-and-chademo-compared-283319.html | 2026-09-02 | ĐÃ_ ĐÃ | GB/T↔CCS2 requires adapter; ma trận tương thích |
+| GB/T, CCS2, Type 2, NACS, CHAdeM so sánh | evse- replers.com (ndust) | Toàn cục | https://www.evse-chargers.com/news/understanding-ev-charging-standards-gb-t-ccs2-type-2-nacs-and-chademo-compared-283319.html | 2026-09-02 | ĐÃ_ ĐÃ | GB/TG CCS2 yêu cầu bộ thích nghi; ma trận tương thích cB/T |
 | Hướng dẫn tới tiêu chuẩn sạc điện toàn cầu | MARUIKEL (công nghiệp) | Toàn cục | https://www.maruikel.com/es/blog/guide-to-global-ev-charging-standards-type-1-type-2-ccs-chademo-gbt.html | 2026-09-02 | ĐÃ_ ĐÃ | Kết nối tới nhà GB/Ts với cổng chuyển đổi sang nhà |
-| Hướng dẫn thích nghi B2B | Điện tự động Trung Quốc (thử nghiệm) | Toàn cục | https://www.electricautochina.com/comprehensive-b2b-guide-to-gbt-to-chademo-adapters-for-exported-chines/ | 2026-09-02 | ĐÃ_ ĐÃ | Xuất nút cổ chai tương thích |
+| Hướng dẫn thích nghi GB/T đếnCHAMM B2B | Điện tự động Trung Quốc (thử nghiệm) | Toàn cục | https://www.electricautochina.com/comprehensive-b2b-guide-to-gbt-to-chademo-adapters-for-exported-chines/ | 2026-09-02 | ĐÃ_ ĐÃ | Xuất nút cổ chai tương thích |
 
 *BIDidce ghi chú (tự động Bridge: sự thật cấp tiêu chuẩn là VERFIED/CROSS_CCKED (CHAdeMOO) Sự kết hợp là một cơ quan tiêu chuẩn). Các kết nối xuất khẩu từng mẫu, hợp pháp hóa bởi quốc gia và thời điểm giao lưu của Hiệp hội Súng Quốc gia không bị bắt và phải được xác nhận trên mỗi máy bay và mỗi người có thẩm quyền đích. ♪
 
 ## Xem lại tập tin
 - **Author / recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
-- **Last xem xét**: 2026-09-05
+- **Last xem lại**: 2026-09-05
 - ** chợ hạ giá**: Global (Trung Quốc; EU/JP/NA triển khai)
 - Phương pháp xác thực **: Tài liệu tiêu chuẩn-người, và các nguồn công nghiệp đã kiểm tra chéo; kết nối đặc trưng mô hình để xác nhận chính thức trên VIN
 - **Ku thích về tiêu chuẩn**: Nghiên cứu và viết từ những nguồn được liệt kê ở trên (các nghiên cứu ban đầu; không có ổ đĩa cầm tay, bỏ xuống hoặc nhập khẩu nào được xác nhận). Sự tự tin nguồn được thể hiện trên mỗi hàng; bất cứ điểm nào chúng ta không thể tự xác nhận được đều được trình bày như một vật chứng thực thay vì xác nhận là sự thật.

@@ -1,66 +1,69 @@
-# Marine Cargo Insurance for Shipped Chinese Vehicles: ICC (A)/(B)/(C), Insured Value and the Claims Trail
-## SEO Metadata
-- **SEO Title**: Marine Insurance for Imported Chinese Cars: ICC Clauses & Claims
-- **Meta Description**: Insure a Chinese vehicle in ocean transit correctly — the official Institute Cargo Clauses (A)/(B)/(C), why cars need All-Risks, the CIF/CIP Incoterms 2020 insurance obligations, insured-value convention and claims evidence.
+# 중국 차량 선박용 해상 화물 보험: ICC(A)/(B)/(C), 보험가 및 클레임스 트레일
+## ▼ 한국어 메타데이터
+- **SEO Title**: 중국 차 수입을 위한 해양 보험: ICC 의약 & 의약
+- **마타 기술 **: 바다 교통에서 중국 차량이 올바르게 유지 - 공식 연구소화물 표지 (A) / (B) / (C), 왜 자동차가 모든 강석을 필요로하는지, CIF / CIP Incoterms 2020 보험 의무, 보험 가치 협약 및 청구 증거.
 - **Suggested URL**: /guides/marine-cargo-insurance-car-import/
-- ** H1 **: Insuring Chinese Vehicles in Ocean Transit: Clause Tier, Sum Insured and How a Claim Is Actually Paid
-- **Primary Keyword**: marine cargo insurance imported Chinese vehicle ICC A B C
-- **Secondary Search Terms**: Institute Cargo Clauses A all risks, LMA CL382, CIP Incoterms 2020 ICC A, CIF ICC C minimum, Hague-Visby SDR carrier cap, RoRo vehicle insurance, EV battery fire marine cover
-- **Internal Link Suggestions**: /guides/vehicle-import-payment-tt-vs-lc/; /guides/commercial-truck-fleet-procurement-china/ ; /guides/used-chinese-ev-inspection/
-- **Image Suggestions**: ICC A/B/C coverage pyramid; risk-transfer/insurance-duty timeline by Incoterm; pre-shipment condition photo set; carrier-cap vs vehicle-value gap
-- **ALT Suggestions**: "Institute Cargo Clauses A B C coverage tiers"; "CIF versus CIP seller insurance obligation under Incoterms 2020"; "pre-shipment vehicle condition record for a claim"
-## The Misconception That Costs Importers Money
-Buyers assume that under FOB or CIF the **shipping line fully compensates** a scratched, crushed, stolen or water-damaged vehicle. It does not: carrier liability is capped by international convention far below a car's value, and the cargo clause you choose decides whether ordinary transit damage is covered at all. This page covers **marine cargo insurance for vehicles shipped from China** (global ocean routes) — clauses and claims, distinct from Incoterm pricing and from RoRo-vs-container choice.
-## The Three Clause Tiers — Anchored to the Official Wording
-Institute Cargo Clauses are published by the **Lloyd's Market Association (LMA) and the International Underwriting Association of London (IUA)**; the current (A)/(B)/(C) wordings — clause references **CL382 (A), CL383 (B), CL384 (C) — took effect 1 January 2009** (official LMA wording; VERIFIED).
-| Tier | Cover (outline) | Suitability for a vehicle |
+- ** H1 **: Ocean Transit의 중국 차량 중 선택: 의제 단계, 스미 인sured 및 방법 의제는 실제로 지불
+- ** 출원 키워드 **: 해상화물 보험 수입 중국 차량 ICC A B C
+- **세컨드 검색 이용 약관**: 연구소 화물 클레즈 모든 위험, LMA CL382, CIP Incoterms 2020 ICC A, CIF ICC C 최소, Hague-Visby SDR 캐리어 캡, RoRo 차량 보험, EV 배터리 화재 바다 커버
+- ** 내부 링크 제안**: /guides/vehicle-import-payment-tt-vs-lc/; /guides/commercial-truck-fleet-procurement-china/; /guides/used-chinese-ev-inspection/
+- ** 이미지 제안 **: ICC A/B/C 적용 피라미드; Incoterm에 의하여 위험 이동/보험 의무 시간선; 전 선적 상태 사진 세트; 차량 가치 간격을 위한 운반대 모자
+- **ALT 제안**: "화물은 B C 적용 계층을 주장"; "CIF는 Incoterms 2020 "; "신용 차량 상태 기록 청구"의 밑에 CIP 판매인 보험 의무를 주장합니다.
+## Misconception 그 비용 수입자 돈
+구매자는 FOB 또는 CIF의 밑에 ** 선을 완전히 보상하는 ** 긁힌, 분쇄해, 도난당한 또는 물 손상된 차량이라고 가정합니다. 그것은 아닙니다: 캐리어 책임은 차의 가치의 밑에 멀리 국제 경기에 의해 모자를 씌우고, 당신이 선택하는 화물은 당신이 보통 교통 손상이 전부에 덮는지 결정합니다. 이 페이지는 ** 중국에서 배송 차량에 대한 마린화물 보험 ** (세계 바다 노선) - 조항 및 주장, Incoterm 가격과 RoRo-vs-container 선택에서 구별.
+## 세 개의 항목 계층 — 공식 단어에 고정
+학회소개 Clauses는 **Lloyd's Market Association (LMA) 및 London (IUA)의 국제 이해 협회에 의해 출판됩니다 **; 현재 (A) / (B) / (C) wordings - 항목 참조 ** CL382 (A), CL383 (B),  CL384 (C) — took effect 1 January 2009** (official LMA wording; 인증).
+| 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 덮개 (선형) | 차량용 스퀴지 |
 |---|---|---|
-| **ICC (A) — "All Risks" (CL382)** | Broad all-risks cover for accidental physical loss/damage **subject to the clause's exclusions, attachment of cover and the actual policy wording**; *may* respond to accidental transit/handling events such as theft or handling damage where cover attaches and no exclusion applies | The usual baseline for vehicles |
-| **ICC (B) — named perils (CL383)** | Fire/explosion, stranding/sinking, collision, water ingress, earthquake etc. — listed events only | Leaves common vehicle losses uncovered |
-| **ICC (C) — major casualties (CL384)** | A narrow set of major casualties | Inadequate for a car |
-Vehicles generally warrant **ICC (A)** because the losses seen most on RoRo and in port handling — accidental handling damage, theft, scratches and dents — fall outside the named-perils scope of (B)/(C); whether a specific event responds still depends on the exclusions, attachment point and policy wording. **War and strikes cover are separate clauses** purchased additionally for sensitive routes.
-## Incoterms 2020: the CIP-vs-CIF Obligation Buyers Miss
-This is now grounded in the ICC's own Incoterms materials (VERIFIED): under **Incoterms 2020 the seller's *minimum* insurance duty was raised to Institute Cargo Clauses (A) for CIP**, whereas **CIF retains the lower ICC (C) minimum** (ICC Digital Library / ICC Academy explain the 2010→2020 change and its premium trade-off). Practical consequence:
-- On **CIF**, the seller may only owe minimal **ICC (C)** cover even though a car needs **(A)** — write **ICC (A) explicitly into the contract and any letter of credit**, or buy your own top-up.
-- On **CIP**, the default minimum is **ICC (A)** for the buyer's benefit — still confirm the actual clause on the certificate rather than assuming.
-## Setting the Insured Value — Two Different "110%" Rules (no invented premium)
-The 110% convention appears in **two distinct contexts that must not be merged into one universal formula**:
-- **Incoterms® 2020 (the seller's insurance duty):** where Incoterms require insurance (CIF/CIP), the seller must obtain cover for **at least 110% of the contract price** for the buyer's benefit.
-- **Documentary credits / UCP (letter-of-credit practice):** where a credit requires insurance but states no amount, the insured amount is customarily **at least 110% of the determinable CIF or CIP value** of the goods.
-So there is no single "insured amount = CIF × 110%" that covers every deal: identify which rule governs (the Incoterms contract-price basis or the LC's CIF/CIP basis), use that base, and **premium = insured amount × rate**. The **rate floats with route, season, tier, vessel and cargo risk and is quoted per shipment** — no fixed percentage is published here. Obtain a per-shipment quote and check it matches the clause tier and add-ons you need.
-## Why the Carrier's Own Liability Is Not Enough
-Under the **Hague-Visby Rules** carrier liability is capped at **666.67 SDR per package/unit or 2 SDR per kilogramme, whichever is higher** — both far below a vehicle's value. SDR amounts are amended over time (confirm the current figure), but the structural gap is exactly what cargo insurance fills. Note the convention cap is a treaty provision, not an insurer's marketing claim.
-## What Even "All Risks" Excludes — and the EV Question
-ICC (A) is broad, not absolute: it does not cover mechanical/electrical breakdown, ordinary wear and tear or **inherent vice**. For an **EV**, cover for **battery/thermal (fire) events in transit** depends on the specific policy wording and dangerous-goods declaration duties. Declare the EV and ask in writing whether in-transit thermal runaway/battery fire is covered or excluded — never assume an EV is treated identically to an ICE car.
-## Building a Claim That Pays
-Insurance responds to documented loss:
-- **Before shipment**: dated photos/video of every panel, wheels, glass, interior, underside and (EV) SOC, witnessed at handover.
-- **Documents**: invoice, packing list, B/L (RoRo B/L noting vehicle condition), insurance certificate, handling receipts.
-- **At discharge**: inspect **before** signing a clean receipt; note damage on the tally with immediate photos; arrange survey where required and meet policy deadlines; retain damaged parts/packaging.
-## What AutoBridge Adds Beyond an Insurance Broker's Flyer
-Brokers sell a tier; they rarely tie it to the purchase contract. The recommended method is to **name the exact ICC clause (and any war/strikes add-on) in the PI/L-C so a CIF seller cannot simply default to ICC (C)**, set the insured-value base consistently with the commercial invoice and the applicable Incoterms/UCP rule, and prepare a **pre-shipment condition record aligned to the discharge survey** — the documentation that most often determines whether a vehicle claim is paid.
-## Before Paying Freight/Premium
-- Specify **ICC (A)** (CL382) in writing; add war/strikes where the route warrants.
-- Confirm the insured-value **basis that applies** (Incoterms = ≥110% of contract price; silent LC = ≥110% of determinable CIF/CIP) and obtain a per-shipment rate (no assumed number).
-- On CIF, do not rely on the ICC (C) default — require (A) or self-insure the gap.
-- For EVs, obtain written battery-fire/thermal cover and DG-declaration guidance.
-- Complete the pre-shipment condition record and plan discharge inspection before signing.
-## Frequently Asked Questions
-**Is ICC (C) enough for a shipped car?** Usually not — it covers only listed major casualties; accidental handling damage and theft-type losses are the reason vehicles generally use ICC (A) (CL382), always subject to its exclusions and wording.
-**Where does the 110% come from?** Two separate rules: Incoterms 2020 sets the seller's cover at ≥110% of contract price; a silent documentary credit customarily requires ≥110% of the determinable CIF/CIP value. They are not one universal CIF×110% formula.
-**Doesn't the shipping line pay for damage?** Only to the Hague-Visby cap (666.67 SDR/unit or 2 SDR/kg, higher applies) — far below vehicle value.
-**CIF or CIP — which default is stronger?** Under Incoterms 2020 CIP requires at least ICC (A); CIF defaults to ICC (C), so on CIF demand (A) in writing.
-**Is an EV battery fire covered by All Risks?** It depends on the wording — declare the EV and obtain written confirmation.
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE:: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE:: 2026-09-05
-- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- ALT by language:
+| **ICC (A) - "모든 위험" (CL382) ** | 사고의 신체 손실/담금에 대한 모든 리스크 커버를 넓은 **, 커버의 첨부, 실제 정책 wording**; *may*는 도난 방지와 같은 사고의 transit/handling 이벤트에 응답하거나 커버 첨부 및 제외가 적용되지 않는 손상을 처리 | 차량용 일반 지선 |
+| **ICC (B) - perils (CL383) 이름** | 화재/폭포, 좌초/싱킹, 충돌, 물 진입, 지진 등 - 목록 이벤트 전용 | 일반 차량 손실이 발견되지 않도록 |
+| **ICC (C) - 주요 우연 (CL384) ** | 주요 우정의 좁은 세트 | 자동차용 Inadequate |
+차량은 일반적으로 보증 ** ICC (A) ** 로로에서 가장 많이 본 손실 때문에, 포트 처리 - 사고 취급 손상, 도난, 찰상 및 치과 - (B) / (C)의 명료 범위 밖에 떨어지는; 특정 이벤트가 여전히 배제, 첨부 파일 포인트 및 정책 단어에 따라 달라집니다. **War 및 파업 덮개는 별도의 항목**는 민감한 경로에 대해 추가로 구입했습니다.
+## Incoterms 2020: CIP-vs-CIF Obligation 구매자 아가씨
+현재 ICC의 자체 Incoterms 자료 (VERIFIED)에 근거를 둡니다. ** Incoterms 2020 판매자의 *minimum * 보험 의무는 CIP **에 대한 연구소화물 클레즈 (A)로 제기되었습니다. ** CIF는 낮은 ICC (C) 최소 ** (ICC 디지털 라이브러리 / ICC 아카데미는 2010 → 2020 변경 및 프리미엄 거래 오프를 설명합니다. 실제적인 결과:
+- **CIF**에서는, 판매자는 최소한의 **ICC(C)** 커버만 차가 필요하지만 **(A)** — write **ICC(A)는 계약과 신용**의 모든 문자로 명시적으로, 또는 자신의 최고를 구입합니다.
+- **CIP**에서, 기본 최소는 **ICC (A)** 구매자의 혜택 - 아직 assuming보다 인증서의 실제 조항을 확인합니다.
+## 보험가치 설정 — 두 가지 다른 "110%" 규칙 (범죄 프리미엄 없음)
+110% 컨벤션은 ** 두 가지 명백한 상황에 따라 하나의 유니버셜 공식으로 합병되지 않아야 합니다 **:
+- **인코텀즈® 2020 (판매자의 보험 의무): ** Incoterms 보험 (CIF/CIP)이 필요한 경우, 판매자는 구매자의 이익을 위해 ** 최소 110%의 계약 가격**에 대한 커버를 얻을 수 있어야 합니다.
+- **Documentary credits / UCP (letter-of-credit practice):** 신용이 보험을 필요로하지만, 보험료는 주문이 아닌 ** 적어도 110%의 determinable CIF 또는 CIP 값** 상품.
+따라서 하나의 "보험 금액 = CIF × 110% "모든 거래에 포함: 규칙을 식별 (Incoterms 계약 가격 또는 LC의 CIF / CIP 기반), 기본 사용, ** 프리미엄 = 보험 금액 × 비율 **. ** 노선, 시즌, 층, 선박 및화물 위험과 부유물은 배송 당 인용 ** - 고정 비율이 여기에 게시되지 않습니다. 각선별 견적을 받고, tier와 add-ons에 해당합니다.
+## 왜 캐리어의 자신의 책임은 충분하지 않습니다
+** 하그비 규칙 ** 캐리어 책임은 패키지 / 단위 당 666.67 SDR 또는 킬로그램 당 2 SDR, 더 높은 ** - 차량의 값보다 훨씬 더 많은 ** -. SDR 금액은 시간 (현재 수치를 확인) 이상 권장되지만 구조적 인 간격은화물 보험 채우기 정확히 무엇인지 정확히 보여줍니다. 컨벤션 캡은 보험료의 마케팅 클레임이 아닌 조약 규정입니다.
+## "모든 위험"은 제외 - 및 EV 문제
+ICC (A)는 넓지 않습니다, 절대: 그것은 기계적인 전기 고장, 정규적인 착용 및 눈물 또는 ** 내부 vice를 커버하지 않습니다 **. **EV**의 경우 **battery/thermal (fire) 이벤트를 위한 커버 ** 특정 정책 wording 및 위험 상품 선언 의무에 따라 달라집니다. EV를 결정하고 열 runaway/battery 화재가 덮여 나 제외되는지 여부를 작성하는 데 묻습니다. EV가 얼음 자동차와 똑같이 대우되지 않습니다.
+## 지불을 청구하는 클레임
+보험은 문서화 된 손실에 응답합니다.
+- ** 선적 **: 모든 패널, 휠, 유리, 내부, 하부 및 (EV) SOC의 날짜 사진 / 비디오, 수로에 증언.
+- **문**: 송장, 포장 목록, B/L (RoRo B/L 표기 차량 상태), 보험 인증서, 영수증 처리.
+- **At 방전**: **before** 서명 깨끗한 영수증; 즉각적인 사진과 함께 키가 큰 손상; 필요한 경우 및 정책 마감 기한을 충족하는 설문 조사를 준비; 손상된 부품 / 포장을 유지합니다.
+## AutoBridge 보험 브로커의 Flyer를 넘어 추가
+브로커는 계층을 판매; 그들은 거의 구매 계약에 그것을 묶습니다. 권장 방법은 PI / L-C에서 정확한 ICC 조항 (및 모든 전쟁 / 분산 추가)에 이름을 지정하는 것입니다 그래서 CIF 판매자는 단순히 ICC (C)**에 기본 할 수 없습니다, 상업 송장과 함께 지속적으로 보험 가치 기반을 설정하고 적용 가능한 Incoterms / UCP 규칙, 그리고 ** 전 선적 조건 레코드는 방전 조사에 정렬 ** - 대부분의 차량 청구가 지불 여부를 결정하는 문서.
+## 화물/프리미엄 결제하기 전에
+- **ICC (A)** (CL382) 쓰기; 경로 보증을 어디에 전쟁 / strikes 추가.
+- 보험가가치 ** (Incoterms = ≥ 110% 계약 가격; 침묵 LC = ≥ 110% determinable CIF/CIP) 및 배상 비율을 얻을 수 있습니다 (건조 번호).
+- CIF에서 ICC (C)에 의존하지 마십시오. 기본값은 (A) 또는 간격을 보장해야합니다.
+- EV를 위해, 얻은 서면 배터리 불/열 덮개 및 DG 선언 지도.
+- 선행 상태 기록과 계획 출력 검사를 서명하기 전에 완료하십시오.
+## 자주 묻는 질문
+**송차에 대한 ICC (C) 충분히? ** 일반적으로 아닙니다 - 그것은 단지 나열된 주요 우연함을 다룹니다. 사고 처리 손상과 도난 유형 손실은 일반적으로 ICC (A) (CL382)를 사용하는 이유 차량이며, 항상 예외와 단어를 붙입니다.
+**110%은 어디에서 왔습니까? ** 두 개의 분리 규칙: Incoterms 2020는 계약 가격의 ≥ 110%에 판매인의 덮개를 놓습니다; 침묵하는 다큐멘터리 신용 customarily는 결정적인 CIF/CIP 가치의 ≥ 110%를 요구합니다. 그들은 하나의 보편적 인 CIF × 110% 공식이 아닙니다.
+** 손상을 배송하지 않습니까? ** Hague-Visby 캡에만 (666.67 SDR / 유닛 또는 2 SDR / kg, 더 높은 적용) - 차량 값 아래.
+**CIF 또는 CIP - 기본은 더 강하다? ** Incoterms 2020 CIP의 밑에 적어도 ICC (A); CIF는 ICC (C)에, 그래서 쓰기에 CIF 수요 (A)에 과태를 요구합니다.
+**모든 위험에 의해 덮은 EV 배터리 화재가 있습니까? ** 그것은 단어에 따라 달라집니다 — EV 선언하고 서면 확인을 얻었다.
+## 이미지 기록
+- IMAGE_ASSET_PATH: 저장소에 보안되지 않음
+- ORIGINAL_IMAGE_URL: 캡처되지 않음
+- SOURCE_PAGE: 캡처되지 않음
+- SOURCE_FILE_PAGE: 적용되지 않음 - 확인된 후보자 미디어 파일 없음 (Asert에 대한 라이센스 없음)
+- permission_HOLDER: 확인되지 않은
+- 라이센스_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
+- CHECKED_DATE:: 2026-09-06
+- MODEL_TOPIC_MATCH: 정확한 모델/버전 (또는 가이드 항목)과 참고 시장과 일치해야 합니다.
+- IMAGE_SCOPE_NOTE: 정확한 모델 가족/토닉에만 일치; 특정 트림/모형, 실제 VIN, 인-인 검사 또는 실제 거래에 실패하지 않아야 합니다.
+- IMAGE_RIGHTS_STATUS: FAIL (허가 된 자산 없음; placeholder 또는 "이전 이미지 유지"주의 허용되지 않음)
+- BLOCK_REASON:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: 재사용 가능한 이미지는 보안되지 않았습니다. Wikimedia Commons/Flickr는 연구 환경에서도 사용할 수 없으며, 주식 라이브러리는 인증된 API/라이센스 액세스가 필요하며, OEM 웹 페이지 이미지는 상업 재사용 보조금이 아닙니다. AutoBridge 소유 사진은 존재하지 않습니다. Kept FAIL 오히려 asserted 보다는.
+- 언어 별 ALT:
   - **EN**: AutoBridge export-buyer reference — Marine cargo insurance for shipped vehicles, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Marine cargo insurance for shipped vehicles, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Marine cargo insurance for shipped vehicles, Leitfaden für Fahrzeugexport-Einkauf
@@ -74,26 +77,26 @@ Brokers sell a tier; they rarely tie it to the purchase contract. The recommende
   - **AR**: مرجع AutoBridge لمشتري التصدير — Marine cargo insurance for shipped vehicles, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Marine cargo insurance for shipped vehicles, 汽车出口采购指南
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## 소스 및 검증
+| 소스 제목 | - 연혁 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | URL을 | 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 의 | 의논하기 | 지원된 사실 |
 |---|---|---|---|---|---|---|
-| Institute Cargo Clauses (A) 1/1/09 official wording (CL382) | Lloyd's Market Association (**market/standards body official**) | Global | https://assets.lloyds.com/media/dcb2ad19-4820-4b42-a5d0-0dcea17ef691/ICCA%201%201%2009%203.pdf | 2026-09-03 | **VERIFIED** | ICC (A) "all risks" scope and exclusions; official clause wording |
-| Incoterms 2010 vs 2020 (CIP moved from ICC (C) to ICC (A)) | International Chamber of Commerce (**standards body official**) | Global | https://library.iccwbo.org/clp/clp-incoterms-2020vs2010.htm | 2026-09-03 | **VERIFIED** | CIP minimum raised to ICC (A); CIF keeps ICC (C) |
-| Incoterms 2020 — CPT or CIP (seller insurance duty) | ICC Academy (**ICC official**) | Global | https://academy.iccwbo.org/incoterms/article/incoterms-2020-cpt-or-cip/ | 2026-09-03 | **VERIFIED** | CIP seller contracts/pays insurance to named place |
-| Institute Cargo Clauses numbering/effective date & RoRo vehicle cover | Voyage Cover (specialist brokerage, cites LMA/IUA, Hague-Visby) | Global | https://voyagecover.com/guides/institute-cargo-clauses | 2026-09-03 | CROSS_CHECKED | CL382/383/384 numbering, 1 Jan 2009, SDR cap context |
-| 110% insured-value convention / rate variability | Portlogics & PLANETCARS (industry) | Global | https://www.portlogics.com/insights/marine-cargo-insurance | 2026-09-03 | CROSS_CHECKED | Operational 110% convention and per-shipment rate; Incoterms vs UCP bases distinguished in body |
-| Korean Used Car Marine Insurance Claim（ICC A/B/C 对比） | SH GLOBAL | GLOBAL | https://shglobalauto.com/blog/korean-used-car-marine-insurance-claim | 2026-09-02 | SINGLE_SOURCE | ICC(A/B/C) 覆盖范围 |
-| Korean Used Car Export Insurance Guide | SH GLOBAL | GLOBAL | https://shglobalauto.com/blog/korean-used-car-export-insurance-guide | 2026-09-02 | SINGLE_SOURCE | 车辆推荐 ICC(A) |
-| Buying Marine Cargo Insurance: Sum Insured, Rates and Claims | 老金出海 laojinchuhai | GLOBAL | https://www.laojinchuhai.com/en/insights/guide-marine-insurance | 2026-09-02 | SINGLE_SOURCE | CIP 2020 升至 ICC(A)、CIF 最低 ICC(C) |
-| Insuring Vehicles on RoRo Vessels | Voyage Cover（保险经纪/承保专业站，引 IUA/LMA、Hague-Visby） | GLOBAL | https://voyagecover.com/guides/roro-vehicle-cargo-insurance-underwriter-decline | 2026-09-02 | SINGLE_SOURCE | Hague-Visby 承运人责任上限、固有缺陷除外 |
-| Marine Cargo Insurance | Ascope Shipping | GLOBAL | https://www.ascopeshipping.co.uk/marine-cargo-insurance/ | 2026-09-02 | SINGLE_SOURCE | 一切险、战争/罢工附加险 |
-| 中古車輸出の海上保険（保额公式） | PLANETCARS | GLOBAL | https://planetcars.jp/index.php/ja/insurance | 2026-09-02 | SINGLE_SOURCE | 保险金额=CIF×110%、保费公式 |
+| 연구소 화물 클레즈 (A) 1/1/09 공식 단어 (CL382) | Lloyd's Market Association (**market/standards body 공식**) | - 연혁 | https: //assets.lloyds.com/media/ dcb2ad19-4820-4b42-a5d0-0dcea17ef691/ICCA% 201% 201% 2009% 203.pdf | 2026-09-03 | ** 인증** | ICC (A) "모든 위험"범위 및 제외; 공식 항목 단어 |
+| Incoterms 2010 대 2020 (CIP는 ICC (C)에서 ICC (A)로 이동 | 국제 상공 회의소 (**표준 신체 공식**) | - 연혁 | https: //library.iccwbo.org/clp/clp-incoterms- 2020vs2010.htm | 2026-09-03 | ** 인증** | CIP 최소 ICC로 상승 (A); CIF는 ICC (C)를 유지합니다 |
+| Incoterms 2020 - CPT 또는 CIP (판매업자 보험 의무) | ICC 아카데미 (**ICC 공식**) | - 연혁 | https: //academy.iccwbo.org/incoterms/article/incoterms- 2020-cpt-or-cip/ | 2026-09-03 | ** 인증** | CIP 판매자 계약 / 유료 보험은 장소 이름을 지정 |
+| 학회소개 의제 번호/효용 날짜 & RoRo 차량 덮개 | Voyage Cover (특별자치도, LMA/IUA, Hague-Visby) | - 연혁 | https: //voyagecover.com/guides/institute-cargo-clauses를 사용 | 2026-09-03 | CROSS_체크 | CL382/383/384 번호, 1 Jan 2009, SDR 캡 컨텍스트 |
+| 110% 인수가치 컨벤션 / 속도 가변성 | Portlogics & PLANETCARS (산업) | - 연혁 | https: //www.portlogics.com/insights/marine-cargo-insurance를 통해 | 2026-09-03 | CROSS_체크 | 운영 110% 컨벤션 및 per-shipment 비율; Incoterms 대 UCP 기지는 몸에서 구별 |
+| 한국용 자동차 마린 보험 클레임(ICC A/B/C 对比) | SH GLOBAL(주) | - 연혁 | https: //shglobalauto.com/blog/korean-used-car-marine-insurance-claim | 2026-09-02 | SINGLE_SOURCE(싱글) | ICC (A/B/C) 覆盖范围년 |
+| 한국차 수출보험 | SH GLOBAL(주) | - 연혁 | https: //shglobalauto.com/blog/korean-used-car-export-insurance-guide | 2026-09-02 | SINGLE_SOURCE(싱글) | 车辆推荐 ICC(아) |
+| 해상 화물 보험: 소보험, 요금 및 청구 | 老金出海 라오진주하이 | - 연혁 | https: //www.laojinchuhai.com/en/insights/guide-marine-insurance를 통해 | 2026-09-02 | SINGLE_SOURCE(싱글) | CIP 2020 升至 ICC(A)、CIF 最低 ICC(C) |
+| RoRo 선박에 차량 선택 | Voyage Cover(保险经纪 / 承保专业站, 引 IUA/LMA、Hague-Visby) | - 연혁 | https: //voyagecover.com/guides/roro-vehicle-cargo-insurance-underwriter-decline | 2026-09-02 | SINGLE_SOURCE(싱글) | 헤이그 바이 承运人责任上限、 固有缺陷除外 |
+| 선박화물 보험 | Ascope 배송 | - 연혁 | https: //www.ascopeshipping.co.uk/marine-cargo-insurance/ | 2026-09-02 | SINGLE_SOURCE(싱글) | 一切险、 战争/罢工附加险 |
+| 中古車輸出の海上保険 (保额公式년) | 플렉시블카 | - 연혁 | https: //planetcars.jp/index.php/ja/insurance를 통해 | 2026-09-02 | SINGLE_SOURCE(싱글) | 保险金额 = CIF × 110%, 保费公式 |
 
-*Confidence note: clause scope/numbering and the Incoterms insurance obligations are VERIFIED on LMA/ICC primary material. The Hague-Visby SDR figure is a treaty provision to confirm for the current amended amount; premium rates are per-shipment and deliberately not stated; EV battery-fire cover is policy-specific.*
-## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: Global ocean cargo from China
-- **Verification method**: Standards/market-body primary wording for clauses and Incoterms duties; industry sources only for operational convention; rates left to live quote
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+*Confidence 참고: 항목 범위 / 번호  and  the Incoterms insurance obligations are VERIFIED on LMA/ICC primary material. Hague-Visby SDR 수치는 현재 개정된 금액에 대해 확인하는 조약 규정입니다. 프리미엄 비율은 per-shipment이고 deliberately 명시되지 않습니다; EV 배터리 화재 커버는 정책 별입니다. ****************************************************************************************************************************************************************************************************************************************************************
+## 편집 리뷰
+- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · [편집 정책](/편집/) 당 방법
+- **마지막 검토**: 2026-09-05
+- **참가 시장 **: 중국 전역 해상 화물
+- ** 인증 방법**: 표준/시장 바디 차분한 인용 및 Incoterms 의무; 운영 규칙을 위한 기업 근원; 살아있는 따옴표로 남겨지는 비율
+- **Editorial 표준 **: 위에 나열된 소스에서 연구 및 작성 (책상 연구; 첫 번째 직접 운전, 눈물 또는 수입은 주장). 소스 신뢰는 행당 표시됩니다. 독립적으로 확인 할 수없는 점은 사실로 asserted보다 검증 항목으로 표시됩니다.
 #AutoBridge #MarineInsurance #ICCCargoCover #VehicleShipping #ExportProcurement

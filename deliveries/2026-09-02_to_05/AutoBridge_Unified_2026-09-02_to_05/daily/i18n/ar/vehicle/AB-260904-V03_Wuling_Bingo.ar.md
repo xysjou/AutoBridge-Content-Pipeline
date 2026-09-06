@@ -1,69 +1,72 @@
-# Wuling Bingo (缤果): a Small Chinese Electric Hatchback — Specs and Exporter Checks
+# Wuling Bingo (缤果): a Small Chinese Electric Hatchback — Specs and Exporter checks
 
 ## SEO Metadata
-- **SEO Title**: Wuling Bingo EV Specs & Export Buyer Guide (203/333/410 km CLTC)
-- **Meta Description**: Chinese-market Wuling Bingo small BEV — LFP battery, 203/333/410 km CLTC steps, 30/50 kW motors, DC fast charging, dimensions, and what importers must verify per trim.
-- **Suggested URL**: /vehicles/wuling-bingo/
-- ** H1 **: Wuling Bingo: Chinese-Market Small EV Specs and Export Verification
-- **Primary Keyword**: wuling bingo ev specs export
-- **Secondary Search Terms**: Wuling Bingo 203km, Wuling Bingo 333km, Wuling Bingo 410km, Chinese small EV export, 五菱缤果 specs
+- ** عنوان الحلقة**: Wuling Bingo EV Specs & Export Buyer Guide (203/333/410 km CLTC)
+- ** وصف البيانات**: بطارية "اللونج بينغو" الصغيرة  203/333/410 km CLTC steps,  30/50 kW motors, العاصمة تشحن بسرعة الأبعاد  and  ما يجب على المستوردين التحقق منه
+- ** URL المقترض**: /مركبات/مركبة مصفحة/
+- ** H1 **** Wuling Bingo: Chinese-Market Small EV Specs and Export Verification
+- ** كلمة رئيسية رمزية**: مواصفات تصدير ثنائية في المواصفات
+- ** شروط البحث الثانية**: Wuling Bingo 203km, Wuling Bingo 333km, Wuling Bingo 410km, Chinese small EV export, 五菱缤果 specs
 - ** Internal Link Suggestions**: /guides/ev-shipping- un3556-imdg-compliance/; /guides/vehicle-export-pdi-preshipment-handover/; /vehicles/byd-qin-l-dm-i/
-- **Image Suggestions**: five-door Bingo side; 203 vs 333/410 card; rear cargo with seats folded; charge port; four-seat cabin
-- **ALT Suggestions**: "Wuling Bingo small electric hatchback China spec"; "Wuling Bingo CLTC range 203 333 410 km"
+- ** اقتراحات مجازية**: جانب البنغو من خمسة أبواب؛ 203 مقابل 333/410 شارة؛ حمولة خلفية مع مقاعد محشوة؛ ميناء الشحن؛ مقصورة من أربع طوابق
+- ** الاقتراحات**: "العملة الصخرية الصغيرة للكهرباء الصينية" "Wuling Bingo CLTC range 203 333 410 km"
 
-## Buyer Context: a City BEV Sold in Three Range Steps
-The Bingo is Wuling's five-door small electric hatchback, aimed at urban and light-commercial personal use. For an exporter the decisive variable is **range step**, because motor power, battery and top speed all change with it. This sheet covers the **Chinese-market 2024 line (REFERENCE MARKET: CHINA)**; without an OEM overseas page, the Chinese figures are a reference, not a global specification.
+## مشتري الكونت: مركب بي في المدينة بيع في ثلاث خطوات رنجية
+البنغو هو وولينغ خمسة باب من فتحات الكهرباء الصغيرة، موجهة إلى المناطق الحضرية  and  استخدام شخصي في التجارة الخفيفة بالنسبة للمصدر، المتغير الحاسم هو الخطوة**، لأن الطاقة النارية والبطارية والسرعة القصوى تتغير معها. هذه الورقة تغطي خط السوق الصيني البالغ 2024 ** (الإنذار: الصين**؛ ومن دون صفحة من طراز OEM في الخارج، تعد الأرقام الصينية مرجعا، وليس مواصفات عالمية.
 
 ## EV Core: Battery, Range Cycle, Charging
-| Item | 203 km (entry) | 333 / 410 km (mid/high) |
+| البند | 203 km (الدخــول) | 333 / 410 km (متر/هك) |
 |---|---|---|
-| Battery chemistry | LFP (lithium iron phosphate) | LFP |
-| Entry battery | 17.3 kWh | larger packs (confirm per version on OEM sheet) |
-| Motor power | 30 kW | 50 kW (entry is 30 kW — do not generalise) |
-| Motor torque | 85 N·m | 125 N·m (single-source) |
-| CLTC range | 203 km | 333 km / 410 km |
-| Top speed | 100 km/h | 130 km/h |
-| DC fast charge | All versions DC fast-charge; about 35 min for 30–80% (single-source; confirm per OEM) | same |
+| كيميائي البطارية | LFP (lithium iron phosphate) | LFP |
+| بطارية الدخول | 17.3 kWh | حزم أكبر (يؤكد كل نسخة على ورقة مكتب الشؤون الاقتصادية) |
+| قوة المحرك | 30 kW | 50 kW (entry is 30 kW — do not generalise) |
+| Motor torque | 85 N·m | 125 N·m (مصدر خارجي) |
+| نطاق لجنة التجارة الدولية | 203 km | 333 km / 410 km |
+| السرعة القصوى | 100 km/h | 130 km/h |
+| DC fast charge | جميع النسخ من العاصمة about 35 min for 30–80% (single-source; (أ) يؤكد على كل عضو من أعضاء مكتب إدارة الشؤون الاقتصادية والاجتماعية | نفس الشيء |
 
-All range figures are **CLTC**. The entry car's 30 kW motor must not be quoted for the higher trims, and vice versa.
+جميع الأرقام المتعلقة بالمدى هي **CLTC**. سيارة الدخول 30 kW يجب ألا تُقتبس من الترام العليا والعكس صحيح
 
-## Dimensions, Seating and Cargo
-- Length / width / height: **3950 / 1708 / 1580 mm**
-- Wheelbase: **2560 mm**
-- Seats: documented as **4 (2+2 layout)** for the entry car; some versions may offer five seats — confirm on the exact trim sheet.
-- Cargo volume: **350 L, expanding to about 1240 L** with seats folded (single-source).
+## الأبعاد، والبحارة، والكاريغو
+- Length / width /طول: ** 3950 / 1708 / 1580 mm **
+- Wheelbase: ** 2560 mm **
+- المقاعد: موثقة على أنها 4 (2+2 مخطّط)** لسيارة الدخول؛ وقد تقدم بعض النسخ خمسة مقاعد - تؤكد على صفحة الترم على وجه الدقة.
+- Cargo volume: ** 350 L، يتسع إلى نحو 1240 L ** مع تطوي المقاعد (المصدر الوحيد).
 
-## Version Map (hold each line separate)
-- **203 轻享 (entry)**: 17.3 kWh, 30 kW/85 N·m, 100 km/h top speed.
-- **333 悦享 / 410 灵犀 (mid/high)**: 50 kW motor, 125 N·m, 130 km/h top speed.
-- Width, four-seat layout and fast-charge minutes rest partly on single sources; reconfirm on the factory configuration list.
+## خريطة للنشر (يتم فصل كل خط)
+- **203 轻享 (entry)**: 17.3 kWh, 30 kW / 85 N·m, 100 km/h من السرعة القصوى.
+- **333 悦享 / 410 灵犀 (mid/high)**: 50 kW محرك، 125 N·m، 130 km/h سرعة عالية.
+- وتتوقف مدة الأرملة وأربعة دقائق على أساس السرعة جزئيا على مصادر واحدة؛ وتعيد تأكيد قائمة تشكيل المصنع.
 
-## Overseas Buyer Verification Before Payment
-- A small EV's motor position (and therefore its driven axle) should be read from the nameplate/certificate; the reference sheet fixes power and range grades but not the drive layout.
-1. **Exact range step and motor** matched to the VIN — 30 kW entry vs 50 kW upper trims are different cars.
-2. **Seat count** (4 vs possible 5) for the specific unit.
-3. **Charging connector** — Chinese GB/T port vs the destination standard; confirm DC charger compatibility.
-4. **Battery shipping documents** — UN38.3 summary and DG paperwork per the IMDG 42-24 battery guide; BEV carriage classification follows the current rule set.
-5. **PDI and SOC for shipment** — follow the pre-shipment preparation guide and the carrier's stated state-of-charge requirement (no universal fixed percentage).
+## التحقق من صحة المشترين قبل الدفع
+- موقع (إي في) صغير (و لذلك محوره المدفوع) يجب أن يقرأ من لوحة الاسم/الشهادة
+1. ** خطى النطاق الحقيقي وحركة** مطابقتان للشبكة - 30 kW دخول مقابل 50 kW تريم من السيارات العليا مختلفة.
+2. ** تعدل المقطع** (4 مقابل 5) للوحدة المحددة.
+3. ** موصل متنقل** - ميناء الصين من نوع GB/T ضد معيار المقصد؛ يؤكد توافق شحنات البلدان النامية.
+4. ** وثائق الشحن البحري الخفية** - UN38.3 موجز وورقة عمل من فئة الخدمات العامة لكل دليل البطاريات IMDG 42-24؛ ويتبع تصنيف النقل البنفسجي القواعد الحالية.
+5. إتبع دليل التحضير قبل الشحن و شرط الناقل المعلن
 
-## Request a Current Export Quotation
-No static export price. The Chinese 2024 starting guide price (around RMB 56, 800) is a **domestic, time-sensitive reference, not FOB/CIF**. Enquire with **Destination Country · Quantity · Range Step/Trim · LHD/RHD · Destination Port · Incoterm**.
+## طلب تخصيص موارد التصدير الحالية
+لا سعر تصدير ثابت. سعر الدليل الصيني البالغ 2024 (حوالي 56، 800) مرجع غير محسوس، لا FOB/CIF**.:: إجراء تحقيقات مع البلدان التي تستضيفها**؛ الكمية؛ خط الرنج/الترم؛ مرفأ قطري للهبوط/الوضع الإنساني؛ ميناء الوجهة**.
 
-## Frequently Asked Questions
-**How many range versions are there?** Three documented CLTC steps — 203, 333 and 410 km — with different motor and battery specifications.
-**Is every Bingo 50 kW?** No; the 203 km entry car uses a 30 kW motor, while 333/410 versions use 50 kW.
-**How many seats?** The documented entry layout is four seats (2+2); confirm whether the chosen version seats five.
-**What charging does it support?** All versions list DC fast charging (about 35 min 30–80%, per Chinese coverage); connector type abroad must be checked.
+## الأسئلة المتكررة
+**How many range versions are there?** Three documented CLTC steps — 203, 333  and  410 km — with different motor  and  مواصفات البطارية
+هل كل بنغو 50 kW؟ رقم 203 km سيارة دخول تستخدم 30 kW محرك، في حين أن 333/410 نسخة تستخدم 50 kW.
+**How many seats?** The documented entry layout is four seats (2+2); تأكدي من أن النسخة المختاره ستقع في خمسة مقاعد
+**What charging does it support?** All versions list DC fast charging (about 35 min 30–80%, (أ) التغطية الصينية؛ يجب فحص نوع الموصل في الخارج
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
+## سجل الصور
+- لم يُؤمن أي منها في مستودع
 - ORIGINAL: IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
+- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
+- الحقوق - حقوق غير مؤكدة
+- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
+- CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
+- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات ويكيميو/فلكر غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات المسبقة/الرخصة، وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
 - ALT by language:
   - **EN**: AutoBridge export-buyer reference — Wuling Bingo, battery-electric vehicle
   - **FR**: Référence AutoBridge pour acheteurs export — Wuling Bingo, véhicule 100 % électrique
@@ -78,28 +81,28 @@ No static export price. The Chinese 2024 starting guide price (around RMB 56, 80
   - **AR**: مرجع AutoBridge لمشتري التصدير — Wuling Bingo, مركبة كهربائية بالبطارية
   - **ZH**: AutoBridge 出口采购参考｜Wuling Bingo, 纯电动车
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## المصدر: التحقق
+| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
-| Wuling Bingo 203km config table | Autohome config | CN | https://car.m.autohome.com.cn/config/spec/61645.html | 2026-09-04 | CROSS_CHECKED | 17.3 kWh, 30 kW/85 N·m, range, top speed |
-| Bingo 2024 203km parameters | Sohu Auto database | CN | http://db.m.auto.sohu.com/trim_173261 | 2026-09-04 | CROSS_CHECKED | Dimensions, wheelbase, battery, seats |
-| 2024 Bingo range & fast-charge update | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/24300800 | 2026-09-04 | CROSS_CHECKED | Range steps, 50 kW, DC charge minutes, CLTC |
-| Bingo dimensions & seating layout | 16888 | CN | https://m.16888.com/news/2025/0708/23852156.html | 2026-09-04 | SINGLE OURCE | Width/height, 2+2 seating |
-| Wuling Bingo 2025 fullline config | PCauto config | CN | https://car.pcauto.com.cn/360/m133517/config.html | 2026-09-04 | CROSS_CHECKED | Mid/high motor, range |
-| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
-| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
-| GB 38031 traction battery safety requirements (GB 38031-2025; new type applications mandatory from 2026-07-01) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFIED | Mandatory traction-battery safety requirement basis for the electrified powertrain |
-| GB 18384 electric vehicle safety requirements (GB 18384-2025) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VERIFIED | Electric-vehicle electrical/functional safety requirement basis |
+| Wuling Bingo 203km config table | Autohome config | CN | https://car.m.autohome.com.cn/config/spec/61645.html | 2026-09-04 | صرخات | 17.3 kWh, 30 kW / 85 N·m, range, top speed |
+| Bingo 2024 203km parameters | قاعدة بيانات سوهو | CN | http://db.m.auto.sohu.com/trim_173261 | 2026-09-04 | صرخات | الطلقات، قاعدة العجلات، البطارية، المقاعد |
+| 2024 مجموعة من المعلومات المستكملة السريعة | Autohome·Chejiahao | CN | https://chejiahao.m.autohome.com.cn/info/24300800 | 2026-09-04 | صرخات | خطوات الرنج، 50 kW، دقائق الشحنات في العاصمة، مركز مكافحة الإرهاب |
+| بُعداً مُعدّةً لمقعد الجلوس | 16888 سيارة | CN | https://m.16888.com/news/2025/0708/23852156.html | 2026-09-04 | SINGLE OURCE | زوج/هاتف، 2+2 مقعد |
+| Wuling Bingo 2025 full-line config | PCauto config | CN | https://car.pcauto.com.cn/360/m133517/config.html | 2026-09-04 | صرخات | محرك متوسطة/عالي، مدي |
+| مصممو السيارات على الطرق - نظام الاستفسارات العامة | وزارة الصناعة وتكنولوجيا المعلومات في الصين | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | مفقود | التحقق من الصانع والنموذج المعتمد والهجوم (公告) |
+| GB 16735-2019 المركبات البرية - الاحتياجات من رقم تحديد المركبات | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | مفقود | تركيبة الشبكة وربطة بيانات مستعملة في نظام التحقق الخاص بالمشتري |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | مفقود | الشروط التقنية المتعلقة بسلامة المركبات في الصين والإطار الزمني الحالي/التنقيحي |
+| GB 38031 traction battery safety requirements (GB 38031-2025; تطبيقات جديدة من النوع إلزامية من 2026-07-01 | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | مفقود | قاعدة متطلبات السلامة في إطار نظام الرواسب الرواسب الإلزامية في مجال الطاقة الكهربائية |
+| GB 18384 electric vehicle safety requirements (GB 18384-2025) | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | مفقود | الأساس الذي يُحتَج به توفير السلامة الكهربائية/المهمة |
 
-*Confidence note: entry battery/power cross-checked; motor torque, cargo volume, seat count and charge minutes are single-source and flagged. No OEM overseas page — Chinese-market reference only.*
+* ملاحظة الملاءمة: تم فحص بطارية الدخول/الطاقة؛ وفحص المحركات، وحجم الشحنات، وحساب المقاعد، ودقائق الشحن، من مصدر واحد، وعلامة. لا توجد صفحة من طراز OEM في الخارج - إشارة من السوق الصينية فقط. ♪
 
-## Editorial Review
+## استعراض التحرير
 - ** Author**: AutoBridge Export Editorial Team; method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: China, 2024 Wuling Bingo (Chinese-market reference; CLTC stated; not a global spec)
-- **Verification method**: Multi-database cross-check; per-trim motor/range separated; single-source items flagged
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+- ** لم يُستعرض بعد**: 2026-09-05
+- ** سوق الإحالة**: الصين، 2024 Wuling Bingo (Chinese-market reference; CLTC stated; not a global spec)
+- ** طريقة التأجيل**: فحص شامل لقاعدة البيانات المتعددة؛ وفحص حركي/مفصل بين الطراز الواحد؛ وأصناف ذات مصدر واحد مثبتة
+- ** الشفافية**: استُخدمت الصياغة المدعومة من منظمة العفو الدولية. وتستند هذه المادة إلى البحوث المكتبية وآلية الجودة. ولا يُزعم إجراء أي اختبار مباشر إلا إذا تم توثيقه بشكل صريح؛ ويؤكد متطلبات مراعية للوقت ومحددة للمقصد قبل التحول.
+- ** المعيار الإفريقي**: باحثة ومحررة من المصادر المذكورة أعلاه (بحوث مكتبية؛ ولا يُدَّعى عن أي قيادة مباشرة أو تمزق أو استيراد). وتظهر الثقة في المصدر في الصف الواحد؛ وأي نقطة لا يمكننا تأكيدها بشكل مستقل تعرض كبند تحقق بدلا من التأكيد على أنها حقيقة.
 
 **Tags**: #WulingBingo #SmallEVExport #CLTCRange #LFPBattery #ChinaReferenceSpec

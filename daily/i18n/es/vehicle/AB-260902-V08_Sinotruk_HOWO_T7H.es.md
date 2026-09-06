@@ -1,67 +1,67 @@
-# Sinotruk HOWO T7H Tractor Truck — 6 × 4 Heavy Hauler Specs and Export Configuration Guide
+# Camión tractor Tractor de Sinotruk HOWO T7H — 6 × 4 Especies de granulado pesado y guía de configuración de exportación
 
 ## SEO Metadatos
 - **SEO Título**: Sinotruk HOWO T7H 6x4 Tractor Specs, Engines & Export Guide
-- **Meta Descripción**: Cabeza de tractor HOWO T7H: Weichai 460 PS China build vs MAN-technology MC11/MC13 export engines, 12-speed AMT, 40 t GCW, axles, Euro V/VI options and buyer verification points.
+- **Meta Descripción**: Cabeza tractor de la OA T7H: Weichai 460 PS China construye vs motores de exportación de tecnología MAN MC11/MC13, 12-speed AMT, 40 t GCW, ejes, opciones Euro V/VI y puntos de verificación de compradores.
 - ** URL agregada**: /vehicles/sinotruk-howo- t7h-tractor/
-- ** H1 **: Tractor de Sinotruk HOWO T7H: Elegir motor, tracción y exportación Emisión Correctamente
-- **Primary Keyword**: Sinotruk HOWO T7H camiones tractor especificaciones exportación
-- **Secondary Search Terms**: HOWO T7H 6x4 460, Sinotruk MC13 540 tractor, Weichai WP10.5H camión, China heavy tractor export, HOWO Euro V cabezal de tractor, camión de tractor de GNL
+- ** H1 **: Tractor de CÓMO T7H de Sinotruk: Elegir motor, tracción y exportación Emisión Correctamente
+- **Primary Keyword**: Sinotruk HOWO T7H camiones de tractor especificaciones export
+- **Segundary Search Terms**: HOWO T7H 6x4 460, Sinotruk MC13 540 tractor, Weichai WP10.5H camión, China heavy tractor export, HOWO Euro V cabezal de tractor, camión de tractor de GNL
 - **Sugerencias de Enlace Internal**: /vehicles/shacman- x3000-dump-truck/; /guides/commercial-truck-fleet-procurement-china/; /guides/import-chinese-truck-saudi-saso/
-- **Sugerencias de imagen**: Vista lateral del tractor 6x4; Comparación del motor Weichai vs MC; quinto eje de rueda y tándem; cabina de dormir de alta altura; selector 12-speed AMT
-- **Sugerencias de ALT**: "Sinotruk HOWO T7H 6x4 cabeza tractor, configuración de China/exportación"; "HOWO T7H ejes de transmisión tándem y quinta rueda"; " MC13 540 Motor diesel de tecnología MAN"
+- **Sugerencias de imagen**: 6x4 vista lateral del tractor; comparación del motor Weichai vs MC; quinto ejes de rueda y tándem; cabina de dormir de alta altura; selector de 12-speed AMT
+- **Sugerencias de ALT**: "Sinotruk HOWO T7H 6x4 cabeza de tractor, configuración China/exportadora"; "HOWO T7H ejes de conducción tándem y quinta rueda"; " MC13 540 motor diesel MAN-technology"
 
-## Qué es el T7H
+## Lo que es el T7H
 
-The HOWO T7H is one of Sinotruk's (CNHTC) flagship **heavy tractor heads (牵引车)**, sold widely to the Middle East, Africa and Russian-speaking regions. The reference China unit is the **460 PS 6×4 AMT, announcement ZZ4257V324HE1B**, but the T7H name covers 440/460/500/540 PS ratings, **two engine families**, diesel and **LNG**, and 4×2/6×4 layouts — so an order must name the engine brand, power, emission level and drive together. Los canales internacionales oficiales de Sinotruk confirman los motores MC de tecnología MAN para la exportación; Las cifras detalladas del anuncio de China a continuación provienen de 360che (fuente individual donde se indica).
+El HOWO T7H es uno de los cabezales de tractores pesados de Sinotruk (牵引车)**, vendidos ampliamente a las regiones de Medio Oriente, África y habla rusa. La unidad de referencia China es el ** 460 PS 6 × 4 AMT, anuncio ZZ4257V324HE1B **,  but the T7H name covers 440/460/500/540 PS ratings, *Dos familias de motores* diesel  and  **LNG**,  and  4 × 2/6 × 4 diseños — por lo que un pedido debe llamar la marca del motor, poder, nivel de emisión  and  Conduzcan juntos. Los canales internacionales oficiales de Sinotruk confirman los motores MC de tecnología MAN para la exportación; cifras detalladas del anuncio de China a continuación provienen de 360che (fuente individual donde se indica).
 
-## Referencia: 460 PS 6×4 (China)
+## Referencia: 460 PS 6 × 4 (China)
 
 | Tema | Valor | Pruebas |
 |---|---|---|
-| Anuncio / unidad | ZZ4257V324HE1B, 6×4, wheelbase 3200+1400 mm | 360che (single) |
+| Anuncio / unidad | ZZ4257V324HE1B, 6 × 4,  wheelbase 3200+1400 mm | 360che (single) |
 | L×W×H en general | 6.985 × 2.496 × 3.85 m | 360che (single) |
-| Motor | **Weichai WP10.5H460E50**, 10.5 L inline-6 diesel | 360che (single) |
+| Motor | **Weichai WP10.5H460E50 **, 10.5 L inline- 6 diesel | 360che (single) |
 | Potencia / par de par | 338 kW (460 PS) / 2100 N·m @ 1000–1400 rpm | 360che (single) |
-| Caja de cambios | Sinotruk HW12-WY ** 12-speed AMT** (2 inversa); opciones 10/12/16-speed en otros lugares | Comprobación cruzada |
-| Curb / GVW / GCW | 8.8 t curb · 25 t GVW · **40 t gross combination (traction) mass** | Comprobación cruzada |
-| Axila frontal | H653K self-adjusting, allowable 7000 kg | 360che (single) |
-| Rear bogie | MCY12BGS self-adjusting tandem, 18,000 kg two-axle group | 360che (single) |
+| Caja de cambios | Sinotruk HW12-WY ** 12-speed AMT** (2 inversa); 10/12/16-speed opciones en otros lugares | Comprobación cruzada |
+| Curb / GVW / GCW | 8.8 t cuadrido · 25 t GVW · ** 40 t masa de combinación (tracción) bruta** | Comprobación cruzada |
+| Axila frontal | H653K autoajuste, permitido 7000 kg | 360che (single) |
+| Rear bogie | MCY12BGS tándem autoajustado, 18,000 kg grupo de dos ejes | 360che (single) |
 | Neumáticos / muelles | 315/80R22.5 × 10; hoja 2/3 | 360che (single) |
-| Tanque de combustible / taxi / velocidad superior | 750 L; asientos de media cuadra, 2; 101 km/h | 360che (single) |
+| Tanque de combustible / taxi / velocidad superior | 750 L; taxi de media jornada, 2 asientos; 101 km/h | 360che (single) |
 
 ## Elección del motor: Weichai vs Sinotruk MC (Tecnología del hombre)
 
 Esta es la decisión de especificación más importante en un T7H:
 
-- ** China impulsada por Weichai construye** (por ejemplo, WP10.5H 460 arriba) son comunes en la línea doméstica; las partes y el servicio siguen el ecosistema de Weichai.
-- **Sinotruk MC series (tecnología de los hombres)** son los motores enfatizados en los canales oficiales de exportación: the **MC11** is a 10.518 L inline-6 turbo-charged intercooled unit at **440 HP**, while the **MC13.54-50** reaches **540 HP (397 kW) / 2500 N·m at Euro V** (official/export-confirmed). Los motores MC utilizan tecnología MAN y a menudo son preferidos para flotas exportadoras de larga distancia.
+- ** China impulsada por Weichai construye** (por ejemplo, WP10.5H 460 supra) son comunes en la línea interna; las partes y el servicio siguen el ecosistema de Weichai.
+- **Sinotruk MC series (tecnología de los hombres)** son los motores enfatizados en los canales oficiales de exportación: el ** MC11 ** es una unidad interconectada de 10.518 L inline- 6 turbo-cargada en ** 440 HP **, mientras que el ** MC13.54-50 ** alcanza ** 540 HP (397 kW) / 2500 N·m en Euro V** (confirmado oficial/exportado). Los motores MC utilizan tecnología MAN y a menudo son preferidos para flotas exportadoras de larga distancia.
 
-No mezclar las dos familias en una hoja de espección: un " 460 T7H" (Weichai) y un " 540 T7H " (MC13) difieren en la arquitectura del motor, banda de par, cadena de piezas y calibración de emisiones.
+No mezclar las dos familias en una hoja de espectro: un "460 T7H" (Weichai) y un " 540 T7H" (MC13) difieren en la arquitectura del motor, banda de par, cadena de piezas y calibración de emisiones.
 
 ## Opciones de emisión y combustible para la exportación
 
 Sinotruk ofrece a la exportación T7H construidos a niveles **Euro V y Euro VI** (y versiones de gas natural licuado además de diesel). La línea China Weichai está certificada a los estándares chinos, que no son un sustituto automático del nivel de destino requerido del Euro/GCC/UNECE. Especifique la etapa de emisión explícitamente y obtenga los documentos de sufijo y homologación del motor correspondientes. Cuando se elige GNL, confirme la clasificación de gas-ingeniero, configuración de tanques y disponibilidad de gas por separado — no lleve las especificaciones diesel.
 
 ## Lo que AutoBridge añade más allá de una tarjeta de espección de camión
-Tarjetas de Típica Tractor cita torque pico sin mostrar si el código del motor, caja de cambios y la relación del eje se ajustan a la ruta. The recommended method is to translate **route grade, target GCW and cruise speed into a matched MC13/HW gearbox/MCY13 final-drive combination**, record the **fuel-tank and electrical-voltage choice** on the order, and seek a written **destination emission-stage confirmation** before deposit — guarding against the mismatches that leave a correct-looking tractor under-powered or unserviceable abroad.
+Tarjetas de Típica Tractor cita torque pico sin mostrar si el código del motor, caja de cambios y la relación del eje se ajustan a la ruta. El método recomendado es traducir ** grado de ruta, Objetivo GCW  and  velocidad de crucero en una caja de cambios MC13/HW / MCY13 combinación de goteo final**, ################################################################################################################################################################################################################################################################  and  elección de tensión eléctrica** en el orden,  and  buscar una confirmación escrita ** de la fase de emisión de destificación** antes del depósito —guardando contra los desajustes que dejan un tractor de apariencia correcta bajo la fuerza o inservible en el extranjero.
 ## Verificación de tractores pesados antes del pago
 
-- Cierre la familia **engine (Weichai vs MC11/MC13), potencia de caballo, par y etapa de emisión** en la proforma; solicite el certificado de energía de fábrica / emisión.
-- Confirm **GCW (here 40 t for the reference build)** against the destination's road-train weight rules and fifth-wheel load; verifique el cumplimiento de la carga de eje para el bogie tándem.
-- Confirme **gearbox type** (la referencia es un 12-speed AMT; existen manuales y unidades 16-speed) y la relación de tracción final/axle adecuada a la ruta (de carretera vs. grado).
+- Cierre la familia **engine (Weichai vs MC11/MC13), caballos de fuerza, par y etapa de emisión** en la proforma; solicite el certificado de energía de fábrica / emisión.
+- Confirme **GCW (aquí 40 t para la construcción de referencia)** contra las reglas de peso de la carretera y la carga de la quinta rueda del destino; verifique el cumplimiento de la carga de eje para el bogie tándem.
+- Confirme **gearbox type** (la referencia es una AMT de 12-speed; existen manuales y 16-speed unidades) y la relación de tracción final/axle adecuada a la ruta (de carretera vs. grado).
 - Confirme el tamaño de los neumáticos (315/80R22.5) disponibilidad y el estándar de ruedas/rim en el destino.
-- Confirm cab spec (half-sleeper vs high-roof double-berth), tank capacity (750 L reference; Opciones de doble tanque) y si la unidad es LHD o fábrica RHD.
+- Confirme la espección de cabina (half-sleeper vs de doble tono alto), la capacidad de tanque (750 L referencia; opciones de doble tanque) y si la unidad es LHD o fábrica RHD.
 - Coincide con el número de anuncios de salida ** y obtenga la hoja oficial de espectro Sinotruk International; las cifras detalladas de 360che son de un solo recurso.
 
 ## Solicitar una calificación de exportación actual
 
-No se ha capturado ningún precio autorizado para 2026-09-02 y no se calcula que se haya efectuado ninguna. Solicitar presupuesto con **Destination Country · Cantidad · 6 × 4/4 × 2 · Motor Family & HP · Emission (Euro V/VI) · Diesel/LNG · LHD/RHD · GCW Requirement · Puerto de destino · Incoterm**, y pedir el certificado de fabricación de fábrica y emisión.
+No se captó precio autorizado para 2026-09-02 y no se calcula que ninguno. Solicitar presupuesto con **Destination Country · Cantidad · 6 × 4/4 × 2 · Motor Family & HP · Emission (Euro V/VI) · Diesel/LNG · LHD/RHD · GCW Requirement · Destination Port · Incoterm**, y pedir la hoja de construcción de fábrica y certificado de emisión.
 
 ## Preguntas frecuentes
 
-**What is the difference between a 460 and a 540 T7H?** Beyond power, they can be different engine families — the 460 reference uses a Weichai WP10.5H (2100 N·m), while the 540 uses the MAN-technology MC13 (2500 N·m); confirma la arquitectura, no sólo la fuerza de caballo.
-**What GCW is the 6×4 rated for?** The reference build is quoted at 40 t gross combination mass (cross-checked), subject to destination rules.
+**¿Cuál es la diferencia entre un 460 y un 540 T7H?** Más allá del poder, pueden ser diferentes familias de motores — la referencia 460 utiliza un Weichai WP10.5H (2100 N·m), mientras que el 540 utiliza la tecnología MAN MC13 (2500 N·m); confirmar la arquitectura, no sólo la fuerza de caballo.
+**¿Para qué GCW es el 6 × 4 valorado?** La construcción de referencia se cita en 40 t masa de combinación bruta (crudecida), sujeto a reglas de destino.
 **¿Viene con una caja de cambios automática?** La referencia 460 utiliza un AMT Sinotruk 12-speed; están disponibles manuales y otras ratios.
 **¿Puedo obtener Euro VI o GNL?** Exporta crea la lista Euro V/Euro VI y opciones de GNL; especifique y obtenga certificación de coincidencia.
 **¿Por qué hay algunas cifras de un solo recurso?** Los datos de anuncio detallados de China provienen de 360che; las opciones de motor-familia y exportación son confirmadas por canales oficiales de Sinotruk. Comprobación cruzada antes de los documentos finales.
@@ -70,11 +70,14 @@ No se ha capturado ningún precio autorizado para 2026-09-02 y no se calcula que
 - IMAGE_ASSET_PATH: ninguno asegurado en repositorio
 - ORIGINAL_IMAGE_URL: no capturado
 - SOURCE_PAGE: no capturado
+- SOURCE_FILE_PAGE: no aplicable — ningún archivo de medios de comunicación candidato identificado (sin licencia para afirmar)
 - RIGHTS_HOLDER: unconfirmed
 - LICENSE_OR_USAGE_BASIS: ninguna garantizada, ninguna imagen de terceros puede ser publicada hasta que se despejen los derechos
-- CHECKED_DATE: 2026-09-05
+- CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: debe coincidir con el modelo/versión exacto (o el tema guía) y el mercado de referencia por encima
+- IMAGE_SCOPE_NOTE: se corresponde con el modelo exacto familia/topic solamente; no debe implicar un trím o modelo específico, VIN real, inspección en persona o transacción real
 - IMAGE_RIGHTS_STATUS: FAIL (no se acepta ningún activo con licencia; no se acepta un titular de posición o “retiene la imagen antigua”)
+- BLOCK_REASON: No se puede asegurar una imagen reutilizable: Wikimedia Commons/Flickr no son accesibles desde el entorno de investigación, las bibliotecas de stock requieren acceso a API/licencia autenticada, y una imagen de página web OEM NO es una subvención comercial de reutilización; no existe foto de propiedad de AutoBridge. Se quedó con la FAIL en lugar de afirmarse.
 - ALT por idioma:
   - **EN**: AutoBridge export-buyer reference — Sinotruk HOWO T7H, petrol/diesel Chinese-market vehicle / heavy tractor truck
   - **FR**: Référence AutoBridge pour acheteurs export — Sinotruk HOWO T7H, véhicule thermique (marché chinois) / tracteur routier lourd
@@ -93,17 +96,17 @@ No se ha capturado ningún precio autorizado para 2026-09-02 y no se calcula que
 
 | Título de la fuente | Organización | Mercado | URL | Comprobado | Confianza | Datos respaldados |
 |---|---|---|---|---|---|---|
-| HOWO T7H 460 6 × Parámetros 4 | 360che (卡车之家) | CN | http://product.m.360che.com/m427/106833_param.html | 2026-09-02 | CROSS_CHECKED | Anuncio, Weichai motor, ejes, neumáticos, tanque, taxi |
-| T7H página oficial del producto | Grupo Sinotruk (CNHTC, funcionario) | CN/Export | https://www.sinotrukgroup.com.cn/product-43.html | 2026-09-02 | VERIFIED | MC11 440 HP/10.518 L, chassis, gearbox, ZF steering |
+| HOWO T7H 460 6 × 4 parámetros | 360che (卡车之家) | CN | http://product.m.360che.com/m427/106833_param.html | 2026-09-02 | CROSS_CHECKED | Anuncio, Weichai motor, ejes, neumáticos, tanque, taxi |
+| T7H página oficial del producto | Grupo Sinotruk (CNHTC, funcionario) | CN/Export | https://www.sinotrukgroup.com.cn/product-43.html | 2026-09-02 | VERIFIED | MC11 440 HP / 10.518 L, chasis, caja de cambios, dirección ZF |
 | HOWO NX/ T7H international | SINOTRUK Internacional (oficial) | Exportación | https://www.sinotrukinternational.com/sinotrukinternational/cp/zk/howo-nx/index.html | 2026-09-02 | VERIFIED | Desplazamiento del motor de exportación/HP |
-| Configuración de exportación T7H | SINOTRUK HOWO (sistema de distribuidores oficiales) | Exportación | https://www.sinotrukhowotruck.com/howo-truck/sinotruk-howo-t7h-hot-selling-for-tractor-head.html | 2026-09-02 | VERIFIED | 8.8/25/40 t weights, MC13.54-50 540 HP/2500 N·m, Euro V |
+| Configuración de las exportaciones T7H | SINOTRUK HOWO (sistema de distribuidores oficiales) | Exportación | https://www.sinotrukhowotruck.com/howo-truck/sinotruk-howo-t7h-hot-selling-for-tractor-head.html | 2026-09-02 | VERIFIED | 8.8/25/40 t weights, MC13.54-50 540 HP / 2500 N·m, Euro V |
 
-| Fabricantes & catálogo de productos de vehículos de motor de carretera — sistema de consulta pública | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
-| GB 7258 condiciones técnicas de seguridad de vehículos motorizados (actualización de 7258-2017 GB; GB 7258-2026 se aplica desde 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Base de referencia en China condiciones técnicas de seguridad del vehículo y el cronograma actual/revisión |
-| GB 17691-2018 emisiones de contaminantes de vehículos diesel de alta resistencia (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VERIFIED | China-VI etapa de emisión de compresión (diésel pesado) para camiones/cuchillones |
-| GB 19147 estándar nacional de combustible diesel de automóviles diesel (basada de bajo rendimiento) | SAMR plataforma de texto completo | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Base de grado de combustible diesel y azufre para combinar el diseño de motor/emisión en el extranjero |
+| Fabricantes & catálogo de productos de vehículos de motor de carretera — sistema de consulta pública | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verificar el fabricante, modelo aprobado y homologación (公告) entrada de catálogo antes de ordenar o exportar |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Base de referencia en China condiciones técnicas de seguridad del vehículo y el cronograma actual/revisión |
+| GB 17691-2018 Emisiones contaminantes de vehículos diesel pesados (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VERIFIED | China-VI etapa de emisión de compresión (diésel pesado) para camiones/cuchillones |
+| GB 19147 estándar nacional de combustible diesel para automóviles (bajo arrastre) | SAMR plataforma de texto completo | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Base de grado de combustible diesel y azufre para combinar el diseño de motor/emisión en el extranjero |
 
-* Nota de confianza (estándar AutoBridge): Los motores de exportación MC11/MC13 y los pesos son VERIFIED en canales oficiales Sinotruk; las cifras detalladas de anuncios 360che son SINGLE_ - Por supuesto. El precio es UNVERIFIED y omitido. Confirme la exportación exacta de la hoja internacional Sinotruk. *
+* Nota de confianza (Estandar AutoBridge): MC11/MC13 motores de exportación y pesos son VERIFIED en canales oficiales Sinotruk; las cifras detalladas de los anuncios 360che son SINGLE_ - Por supuesto. El precio es UNVERIFIED y omitido. Confirme la exportación exacta de la hoja internacional Sinotruk. *
 
 ## Revisión editorial
 - **Autor/examen**: [Equipo Editorial Exportador AutoBridge](/autores/) · método por nuestro [Política editorial](/editorial-policía/)

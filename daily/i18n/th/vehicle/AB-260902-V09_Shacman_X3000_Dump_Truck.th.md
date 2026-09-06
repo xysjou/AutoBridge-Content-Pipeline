@@ -1,79 +1,82 @@
-# Shacman Delong X3000 Dump Truck — 8×4 Tipper Specs and Export Configuration Notes
+# ซัคมันด์ดีลอง X3000 รถบรรทุก ทิ้ง ขยะ — 8 × 4 Tipper Spects และ ส่งออกบันทึกการปรับแต่ง
 
-## SEO Metadata
-- **SEO Title**: Shacman X3000 Dump Truck Specs (8x4, GVW, Body) Export Guide
-- **Meta Description**: Shacman Delong X3000 tipper: 430 PS 8x4 reference build, Weichai engine, Fast 12-speed, 31 t GVW, 7.6 m rear-tip body, axles and export emission choices for fleet buyers.
-- **Suggested URL**: /vehicles/shacman-x3000-dump-truck/
-- ~ H1~: Shacman Delong X3000 Dump Truck: Chassis, Tipping Body and Export Build Choices
-- **Primary Keyword**: Shacman X3000 dump truck specifications export
-- **Secondary Search Terms**: Shacman X3000 8x4 tipper, Delong 430 dump truck, Weichai WP12 430, Fast 12-speed tipper, Chinese 31t dump truck export, Shacman 6x4 dump
-- **Internal Link Suggestions**: / Viohles/snotruk-woo- t7h-tractor/; /guides/commercial-truck-fleet-procurement-china/ ; /guides/import-chinese-truck-saudi-saso/
-- **Image Suggestions**: 8x4 tipper side view; 7.6 m parame tiple up; MAN-type axles and suspension; Weichai WP12 engine; chassis frame detail
-- **ALT Suggestions**: "Shacman Delong X3000 8x4 dump truck, China reference build"; "X3000 7.6 transre transfer track-Tips board up". "Hachman X3000 tandem elections"
+## เชา ข้อมูลกํากับภาพ
+- **SEO Title**: ซัคมัน X3000 ทิศทางการส่งออกของ PHOW (8x4, GVW, Body)
+- ""คําอธิบาย" Shachman Deong X3000 ทิป: 430 PS 8x4 เครื่องยนต์ไวอิชไฮ สปีด 12-speed, 31 t จีวีดับเบิลยู, 7.6 m ด้านหลังหลัง- axles และส่งออกตัวเลือกสําหรับผู้ซื้อเรือ.
+- ~ที่อยู่ URL ที่ถูกย่อ: / เวนิกส์/ซัคแมน- x3000-dump-truck/ ~
+- ** H1 ~ ฌากแมน ดอง  X3000~ รถบรรทุกทิ้ง: แชสซิส, ร่างที่จิบและส่งออก ตัวเลือกการสร้าง
+- ~คําสําคัญในจดหมาย ~: Shackman X3000 รถบรรทุกที่ทิ้งเอาไว้กําหนดการส่งออก
+- ~การค้นหาตามวาระที่: ~ ฌาคแมน X3000 8x4 ทิป รถบรรทุกทิ้งสินค้า 430 คัน ไวอิกไฮด์ WP12 430 (พ.ศ. เคล็ดลับ 12-speed รวดเร็ว การขนส่งรถบรรทุกขยะ 31t ภาษาจีน ถังขยะ Shachman 6x4
+- ~ ลิงก์ภายใน ข้อเสนอ: / สืบค้นเมื่อ/sinituk-wow- t7h-tractor/; / Guides/commercial-raft-raft-raination-china/; //guides/import-chinse-sudi-sodoo saso/
+- ~คําแนะนําการปล่อยกู้~: 8x4 มุมมองด้านปลาย; 7.6 m parame body ยก; MAN-type axles and playd; Vichai WP12 เครื่องยนต์;รายละเอียดกรอบรูป chasis
+- "Hacman daily X3000 8x4 รถขนขยะ, รถบรรทุกอ้างอิงจีน". " X3000 7.6 streamre back-tips busy". "Shacman X3000 tandem axles".
 
-## Role and Line-up
+## บทบาทและบรรทัดขึ้น
 
-The Delong (德龙) X3000 is Shacman's volume **heavy dump/tipper platform**, exported widely across Africa, the Middle East and Russian-speaking markets. The reference China build is the **430 PS 8×4 with a 7.6 m body, announcement SX33105C406B**; the family also spans 6×4/8×4 and roughly 375–550 PS, with China V/China VI and lower-emission (e.g., Euro II-class) builds coexisting for different destination markets. An official **400 PS 6×4 export** version is confirmed by Shacman. Detailed China announcement figures come from 360che (single-source where marked); export ratings are official.
+The Delong (德龙) X3000 is Shacman's volume **heavy dump/tipper platform**, ส่งออกไปทั่วแอฟริกา ตะวัน ออก กลาง  and  ตลาดคนพูดรัสเซีย The reference China build is the **430 PS 8×4 with a 7.6 m body, ประกาศ SX33105C406B ** (พ.ศ. the family also spans 6×4/8×4  and  roughly 375–550 PS,  with China V/China VI  and  เบี้ยล่าง (เช่น) ยูโรที่ II-คลาส) สร้างความสามัคคีกัน สําหรับตลาดปลายทางที่แตกต่างกัน อย่างเป็นทางการ). 400 PS 6 – 4 รุ่นที่ส่งออก (PDF) ได้รับการยืนยันโดย Shackman. Detailed China announcement figures come from 360che (single-source where marked); เรตติ้งส่งออกอย่างเป็นทางการ
 
-## Reference Build: 430 PS 8×4 (China)
+## อ้างอิงสร้าง: 430 PS 8 × 4 (จีน)
 
-| Item | Value | Evidence |
+| รายการ | ค่า | หลักฐาน |
 |---|---|---|
-| Announcement / drive | SX33105C406B, 8×4, wheelbase 1800+3975+1400 mm | 360che (single) |
-| Overall L×W×H | 10.55 × 2.55 × 3.45 m | 360che (single) |
-| Engine | Weichai WP12.430E50, 11.596 L inline-6 diesel | 360che (single) |
-| Power / torque | 316 kW (430 PS) / 2060 N·m @ 1000–1400 rpm | 360che (single) |
-| Gearbox | Fast (法士特) 12JSD200T-B **12-speed manual** (2 reverse); 460 PS China VI uses a 13-speed Fast | 360che (single) |
-| Curb / rated payload / GVW | 15.5 t / 15.37 t / **31 t** | 360che (single) |
-| Tipping body | **7.6 × 2.35 × 1.5 m, rear-tip (后翻)** | 360che (single) |
-| Front axles | MAN-type 9.5 t, allowable 6500/6500 kg | 360che (single) |
-| Rear bogie | 16 t MAN-type double-reduction, 18,000 kg group; ratio 5.262 | 360che (single) |
-| Tyres / fuel | 12.00R20 × 12; 400 L aluminium tank | 360che (single) |
+| ประกาศ / ไดรฟ์ | SX33105C406B (พ.ศ. 8 × 4  wheelbase 1800+3975+1400 mm | 360che (เสียงแหลม) |
+| โอเวอร์วาวาเกีย | 10.55 × 2.55 × 3.45 m | 360che (เสียงแหลม) |
+| กลไก | ไวอิกไฮด์ WP12.430E50, 11.596 L ในบรรทัด 6 ดีเซล | 360che (เสียงแหลม) |
+| พลัง / แรงบิด | 316 kW (430 PS) / 2060 N·m @ 1000–1400 Rpm | 360che (เสียงแหลม) |
+| กล่องปรับเลข | Fast (法士特) 12JSD200T-B **12-speed manual** (2 reverse); 460 PS จีน Vi ใช้ เวลา อย่าง รวด เร็ว 13-speed ปี | 360che (เสียงแหลม) |
+| เคอร์บ / อัตราการโหลด / จีวีดับเบิลยู | 15.5 t / 15.37 t / **31 t** | 360che (เสียงแหลม) |
+| จิบร่างกาย | " 7.6 × 2.35 × 1.5 m, ด้านหลัง-ติ๊ก (后翻)" | 360che (เสียงแหลม) |
+| เพลาหน้า | MAN-ประเภท 9.5 t  allowable 6500/6500 kg | 360che (เสียงแหลม) |
+| ระเบียงหลัง | 16 t MAN ประเภทการสอนคู่, 18,000 kg กลุ่ม; สัดส่วน 5.262 | 360che (เสียงแหลม) |
+| ไทระ / เชื้อ เพลิง | 12.00R20 × 12; 400 L รถถังอลูมิเนียม (พ.ศ. | 360che (เสียงแหลม) |
 
-## Official Export Engine and Other Ratings
+## กลไกส่งออกอย่างเป็นทางการ และการจัดอันดับอื่น ๆ
 
-- **Official export 6×4 (VERIFIED)**: Weichai 11.6 L inline-6, **400 PS (294 kW) / 2000 N·m, China VI** per the Shacman Group site; Shacman International lists 385/400/430 PS options and an 80 km/h governed top speed.
-- Higher China ratings include a 460 PS WP12.460E62 (338 kW/2200 N·m, China VI) and a 480 PS WP13.480E50 (353 kW, 12.54 L) — single-source database references for comparison only.
+- ** ส่งออกไปอย่างกว้างขวาง 6 × 4 (IFIED) ~: Weichai 11.6 L inline-6, 400 PS (294 kW) / 2000 N·m (พ.ศ.  China VI** per the Shacman Group site; Shacman International lists 385/400/430 PS options  and  80 km/h ความเร็วสูงสุดที่ควบคุมได้
+- เรตติ้งที่สูงขึ้นของจีนรวม 460 PS WP12.460E62 (338 kW/ 2200 N·m)  China VI)  and  480 PS WP13.480E50 (353 kW) (พ.ศ. 12.54 L) — ข้อมูลอ้างอิงจากฐานข้อมูลซิงเกิลส์ เพื่อเปรียบเทียบเท่านั้น
 
-When ordering, match horsepower to the **engine model suffix and emission stage**: a 430 PS China-V engine is not the same certified product as a 400 PS export engine, even though outputs look close.
+เมื่อสั่งงาน ตรงกับแรงม้าที่ต่อกับเครื่องจําลอง และพื้นระเบิด: ประเทศจีน 430 PS เครื่องยนต์ V ไม่ใช่ผลิตภัณฑ์ที่ได้รับการรับรองเท่ากับเครื่องยนต์ส่งออก 400 PS แม้ว่าการแสดงผลจะใกล้
 
-## Why Emission Version Is a Separate Decision
+## เหตุ ผล ที่ ฉบับ แปล นี้ เป็น การ ตัดสิน ใจ ที่ แยก กัน
 
-X3000 dumps are deliberately offered across **China V, China VI and lower-spec (Euro II-class) calibrations** because destination fuel quality and import rules differ so widely. A high-grade engine run on high-sulphur fuel can fail early; an over-specified emission system may be un-serviceable locally. Specify the emission level the destination actually requires and that its fuel supports — and obtain the matching engine/emission certificate rather than accepting a generic "X3000" description.
+X3000 ถังขยะถูกเสนอโดยเจตนาข้ามพระยาวี  China VI  and  หมวดหมู่ (Euro II- คลาส) การปรับตั้ง ~ เพราะคุณภาพเชื้อเพลิงปลายทาง  and  กฎการนําเข้าแตกต่างกันไป เครื่องยนต์ที่มีระดับสูง ทํางานบนเชื้อเพลิงซัลเฟอร์สูงสามารถล้มเหลวก่อนเวลา ระบบกระจายข้อมูลที่ระบุได้มากเกินไป อาจจะไม่สามารถให้บริการได้ภายในเครื่อง กําหนดระดับการปล่อยก๊าซที่ปลายทางจริง ๆ ต้องการ และรองรับเชื้อเพลิงของมันด้วย และได้รับใบรับรองที่เข้ากันได้กับเครื่องยนต์/ servation แทนการยอมรับทั่วไป " X3000" รายละเอียด
 
-## What AutoBridge Adds Beyond a Truck Spec Card
-Dump-truck quotes routinely blur the **400 PS official export engine** and the **430 PS China-announcement build**. This guide recommends fixing the **exact engine code and emission stage to the VIN/announcement certificate**, matching the **axle ratio and 12.00R20 tyre/rim choice to the haul grade**, and specifying the **bed steel grade, volume and lift system in an inspectable annex** — guarding against substitution of a weaker 8×4 build that still carries the X3000 name.
-## Tipping and Chassis Checks for Buyers
+## ไพ่ที่มี AutoBridge เพิ่มอะไรเข้าไป
+Unknown-chock มักจะเบลอไปเสมอ เครื่องยนต์ส่งออกอย่างเป็นทางการ 400 PS ~ และ สร้างเครื่องส่งเสียงจีน 430 PS ~. มัคคุเทศก์นี้แนะนําให้แก้ไขรหัสเครื่องยนต์  and  เปิดตัวในนัดที่ VIN/N ใบอนุญาตการปล่อยเสียง ตรงกับสัดส่วนใน ~axle  and  12.00R20 หลักสูตรยาง/ริมเลือกระดับที่ลากมา  and  ระบุเกรดของเตียง ระดับเสียง  and  lift system in an inspectable annex** — guarding against substitution of a weaker 8×4 build that still carries the X3000 name.
+## จิบและชาซิสเช็คสําหรับนักซื้อ
 
-- **Body and hydraulics**: confirm body length (7.6 m reference), side/board height, steel grade, rear-tip vs side-tip, and the hydraulic hoist brand/capacity; bodies are often built to order.
-- **Axles and final drive**: the reference uses MAN-type double-reduction axles at 5.262 — suited to loaded/grade work; confirm ratio against route and tyre size (12.00R20, 12 tyres on 8×4).
-- **Weights**: re-confirm 31 t GVW and 15.37 t rated payload against destination axle-load and overload rules; body material/equipment changes curb weight.
-- **Drive layout**: choose 6×4 vs 8×4 by legal payload and road conditions; the 8×4 spreads load over four axles.
-- **Gearbox**: reference is a manual Fast 12-speed (13-speed on some China VI) — confirm transmission model and clutch spec; AMT/automatic is not assumed.
-- Confirm LHD/RHD, cab/sleeper, tank size and spare-parts chain for Weichai + Fast + MAN-type axles (a common, well-supported combination in many export markets).
+- ~และไฮโดรมิเตอร์~ confirm body length (7.6 m reference), ด้านข้าง/ บนกระดาน ระดับเหล็กกล้า ด้านหลังของปลายขา  and  ยี่ห้อ/ capaccity; ศพมักถูกสร้างมาเพื่อสั่งอาหาร
+- ~และไดรฟ์สุดท้าย~ the reference uses MAN-type double-reduction axles at 5.262 — suited to loaded/grade work; ยืนยันอัตราส่วนกับเส้นทางและขนาดยาง (12.00R20, 12 ยางบน 8 x 4).
+- ** versions ~: re-conserved 31 t GVW และ 15.37 t อัตราการจ่ายที่เพิ่มขึ้นกับ ปลายทาง axle-load และ rule overputation rule; วัสดุร่างกาย/ elquippment เปลี่ยนแปลงน้ําหนักตามมาตราฐาน
+- ~ผังผังการวิ่ง~: เลือก 6 × 4 vs 8 x 4 โดยอุปทานตามกฏหมายและสภาพถนน; the 8×4 spreads load over four axles.
+- ~กล่อง~: reference is a manual Fast 12-speed (13-speed on some China VI) — confirm transmission model  and  สเปก AMT/AOTOA - ไม่เชื่อ
+- ยืนยัน LHD/RHD, แท็กซี่/ ง่วงนอน ขนาดถัง และห่วงโซ่สํารองสําหรับไวอิชไฮ + สปีด-แมน-แบนส์ (รวมประเภทที่นิยมใช้กันดีในตลาดส่งออกหลายแห่ง).
 
-## Request a Current Export Quotation
+## ต้องการการอ้างถึงการส่งออกแบบปัจจุบัน
 
-No authoritative price was captured and none is estimated. Enquire with **Destination Country · Quantity · 6×4/8×4 · Horsepower & Engine Model · Emission Stage · Body Size/Tip Type · LHD/RHD · Destination Port · Incoterm**, requesting the official Shacman build sheet and emission certificate.
+ไม่ มี การ จับ จ่าย ค่า ใช้ จ่าย ตาม หลัก การ และ ไม่ มี การ กะ ประมาณ. Enquire with ~ ดินแดนที่เจริญพันธุ์ สืบค้นเมื่อ 6 – 4/8 x 4 – เครื่องยนต์-เครื่องยนต์รุ่น ERcy ERPEESTE ERE Staty value/Tip พิมพ์ as HD/RD enter Port Serport entry entry entry lancy ~. ร้องขอแผ่นกระดาษและใบรับรองอย่างเป็นทางการของชาคมัน และใบรับรองการปล่อยสารณุเบก.
 
-## Buyer FAQ
+## โปรแกรมซื้อ FAQ
 
-**What does the 8×4 430 reference include?** A Weichai 11.596 L 430 PS engine, Fast 12-speed manual, 31 t GVW and a 7.6 × 2.35 × 1.5 m rear-tip body, per 360che announcement data.
+"" 8 – 4 430 รวมอะไร? "" เครื่องยนต์ไวอิกไฮ 11.596 L 430 PS สปีด 12-speed คู่มือ 31 t GVW  and  7.6 × 2.35 × 1.5 m parame tiple ต่อ 360che ข้อมูลประกาศ พ.ศ.
 **Is there an official export version?** Yes — Shacman confirms a 400 PS 6×4 (294 kW/2000 N·m, China VI) and lists 385/400/430 PS options internationally.
-**Why do emission versions vary so much?** Markets differ in fuel sulphur content and import rules, so China V/VI and lower Euro-class calibrations coexist; match the engine to the destination.
-**What is the rated payload?** Around 15.37 t for the reference 8×4 (single-source), subject to destination axle/GVW rules and final body build.
-**Manual or automatic?** The captured builds use Fast manual transmissions (12/13-speed); confirm rather than assume an automatic.
+~ทําไมการปล่อยน้ําจึงแตกต่างกันมากมาย~ ตลาดต่าง ๆ ในปริมาณสารซัลเฟอร์เชื้อเพลิงและกฏการนําเข้า ดังนั้น จีน V/VI และระบบปรับระดับยูโรชั้นต่ําจะรวมกันเข้ากับเครื่องยนต์ที่มายังจุดหมายปลายทาง
+~ อะไรคือเงินที่จ่ายเป็นอัตรา? ~ 15.37 t สําหรับอ้างอิง 8 × 4 (single-sources) ใกล้เคียงกับปลายทาง axle/GVW กฎและการสร้างร่างกายสุดท้าย (พ.ศ.
+~ผู้ชายหรือออโตเมติก ~ การจับนั้นใช้ระบบส่งแบบเร็ว (12/13-speed); ยืนยันมากกว่าการตั้งตัวอัตโนมัติ
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICNE_OR_USARIAND_BALE: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
-- RODL_TOIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- ALT by language:
+## บันทึกรูปภาพ
+- _ปราสาท: ไม่มีความปลอดภัยในคลังเก็บ
+- ส่วนตัว_ปลายทาง: ไม่ได้จับ
+- ผู้โดยสาร: ไม่ถูกจับ
+- HOURS_ PDFAGE: ไม่มีผล — ไม่มีชื่อแฟ้มสําหรับเลือกสื่อ (ไม่มีใบรับรองที่จะยืนยัน)
+- ลิขสิทธิ์: ไม่ยืนยัน
+- LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
+- _กําหนดวันที่: 2026-09-06
+- MERCUL_ TOPIC_ MATCH: ต้องตรงกับรุ่น/ การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
+- CHAR_SCPE_NOTE: ตรงกับโมเดลที่เป๊ะของครอบครัว/ topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
+- March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
+- BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
+- ALT ด้วยภาษา:
   - **EN**: AutoBridge export-buyer reference — Shacman Delong X3000, petrol/diesel Chinese-market vehicle / dump/tipper truck
   - **FR**: Référence AutoBridge pour acheteurs export — Shacman Delong X3000, véhicule thermique (marché chinois) / camion benne
   - **DE**: AutoBridge-Referenz für Exportkäufer — Shacman Delong X3000, Verbrenner (chinesischer Markt) / Kipper
@@ -87,27 +90,27 @@ No authoritative price was captured and none is estimated. Enquire with **Destin
   - **AR**: مرجع AutoBridge لمشتري التصدير — Shacman Delong X3000, مركبة بمحرك احتراق (سوق الصين) / شاحنة قلابة
   - **ZH**: AutoBridge 出口采购参考｜Shacman Delong X3000, 中国市场燃油车 / 自卸车
 
-## Sources & Verification
+## ต้นฉบับและการตรวจสอบสิทธิ์
 
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| X3000 430 8×4 parameters | 360che (卡车之家) | CN | https://product.m.360che.com/m355/88939_param.html | 2026-09-02 | ROOS_ CHCKED | Announcement, WP12.430, gearbox, weights, body, axles, tyres |
-| X3000 6 × 4 Dool Afficial | SHACMAN Group (official) | CN/Export | https://www.shacman-group.com/products/shacman-x3000-6x4-dump-truck/ | 2026-09-02 | VERIFIED | 11.6 L 400 PS/294 kW/2000 N·m, China VI |
-| X3000 multi-version compare | 360che (卡车之家) | CN | https://product.m.360che.com/m299/74922_param.html | 2026-09-02 | ROOS_ CHCKED | 375–550 PS versions, China V/VI torque |
-| X3000 international | Shacman International (official) | Export | https://www.shacmaninternational.cn/product-38.html | 2026-09-02 | VERIFIED | 80 km/h top speed, wheelbase, 385/400/430 options |
+| X3000 430 8×4 parameters | 360che (卡车之家) (พ.ศ. | CN | https://product.m.360che.com/m355/88939_param.html | 2026-09-02 | ROOS_ CHCKED | ประกาศ WP12.430 (พ.ศ. เกียร์ น้ําหนัก ศพ ขวาน ยาง |
+| X3000 6 – 4 กรมท่าอนิจกรรม | SHAKMAN Group (พ.ศ. | เครื่องพิมพ์/ เอ็กซ์พอร์ต | https://www.shacman-group.com/products/shacman-x3000-6x4-dump-truck/ | 2026-09-02 | เปิดใช้งาน | 11.6 L 400 PS / 294 kW / 2000 N·m (พ.ศ.  China VI |
+| X3000 เปรียบเทียบหลายเหลี่ยม | 360che (卡车之家) (พ.ศ. | CN | https://product.m.360che.com/m299/74922_param.html | 2026-09-02 | ROOS_ CHCKED | 375–550 PS versions, กังหันวี/ วี ไอ |
+| X3000 ระหว่างประเทศ | Shackman International (ต่างประเทศ) | ส่งออก | https://www.shacmaninternational.cn/product-38.html | 2026-09-02 | เปิดใช้งาน | 80 km/h ความเร็วสูงสุด, ล้อล้อ, 385/400/430 ตัวเลือก |
 
-| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
-| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
-| GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VERIFIED | China-VI compression-ignition (heavy diesel) emission stage for trucks/coaches |
-| GB 19147 automobile diesel fuel national standard (low-sulphur basis) | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VERIFIED | Diesel fuel grade and sulphur basis to match engine/emission design overseas |
+| ผู้ ผลิต และ แคตตาล็อก ผลิตภัณฑ์ ถนน — ระบบ สอบ ถาม ของ ประชาชน |  MIT, กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูลจีน | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | เปิดใช้งาน | ตรวจสอบผู้ผลิต, โมเดลที่อนุญาต และการทําอัลบั้มแบบแบ่งประเภท (公告) ก่อนการสั่งซื้อหรือส่งออก |
+| ขนาด GB 16735-2019 รถ ที่ ใช้ ถนน — หมาย เลข รถ (VIN) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | เปิดใช้งาน | โครงสร้างและชื่อของ platt language ที่ใช้ในการตรวจสอบความถูกต้องของผู้ซื้อ/ ชื่อ |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน สภาวะความปลอดภัยทางเทคนิคและเวลาปัจจุบัน/การปรับปรุง |
+| GB 17691-2018 พาหนะดีเซลหนักดีเซล โพลอัลโตเลต พ่นออก (จีน-วี) | กระทรวง นิเวศ วิทยา และ สิ่ง แวด ล้อม (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | เปิดใช้งาน | จีน- วี. การบีบข้อมูล (อีดีเซล) สาธิตการปล่อยก๊าซสําหรับรถบรรทุก/โคช |
+| GB 19147 เครื่องยนต์ดีเซลมาตรฐานเชื้อเพลิงแห่งชาติ (ฐานเชื้อเพลิงต่ํา) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | เปิดใช้งาน | ระดับเชื้อเพลิงดีเซลและซัลเฟอร์พื้นฐานที่ตรงกับการออกแบบเครื่องยนต์/การให้บริการต่างประเทศ |
 
-*Confidence note (AutoBridge standard): the 400 PS export engine is VERIFIED on Shacman-official channels; the detailed 430 PS 8×4 announcement figures are SINGLE_SOURCE (360che). Price is UNVERIFIED and omitted. Confirm the final build on the Shacman International sheet.*
+*บันทึกการยอมรับ (มาตรฐานของ ออโตริด): 400 PS เครื่องยนต์ส่งออกเป็น ISFIE ออน ช่อง Schaman-official; the detailed 430 PS 8×4 announcement figures are SINGLE_SOURCE (360che). ราคาไม่เปลี่ยนแปลงและถูกละทิ้ง ยืนยันการสร้างสุดท้าย บนแผ่นอินเตอร์เนชันแนลของเช็คมัน *
 
-## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: China reference build + official export configurations
-- **Verification method**: Official Shacman channels plus an independent commercial database; single-source items labelled
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+## การทบทวนแก้ไข
+- ~Uuthor/ retrieved~: [บีดริดจ์ ส่งออกทีมแก้ไข] (/ ผู้เขียน/) วิธี [แก้ไข] ของเรา [นโยบายการเลือ [/ การแก้ไข- policy/]
+- ~ถูกตรวจสอบแล้ว~: 2026-09-05
+- ~ ตลาดใหม่~: การสร้างอ้างอิงประเทศจีน + การปรับแต่งส่งออกอย่างเป็นทางการ
+- ~ วิธีการการจําแนก~: ช่องอย่างเป็นทางการของ Shackman บวกฐานข้อมูลการค้าอิสระ; รายการของ One-source ที่ระบุ
+- ~มาตรฐานการแบ่งส่วน ~: Research and med from the source address address (Desk Research; ไม่มีการขับรถมือหนึ่ง, runchown หรือนําเข้า). ความมั่นใจของแหล่งแสดงต่อแถว; จุดใด ๆ ที่เราไม่สามารถยืนยันได้ด้วยตัวเอง ถูกนําเสนอเป็นรายการตรวจสอบแทนการยืนยันว่าเป็นความจริง
 #AutoBridge #VehicleExport #Shacman #DelongX3000 #DumpTruck

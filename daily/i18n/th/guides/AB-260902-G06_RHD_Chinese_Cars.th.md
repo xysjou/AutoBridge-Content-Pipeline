@@ -1,77 +1,80 @@
-# Sourcing Factory Right-Hand-Drive (RHD) Chinese Cars: Brand Availability and Verification
+# Sururcing facty right-Hand-Dive (RHD) รถจีน: แบรนด์ Avolution and Reccessition
 
-## SEO Metadata
-- **SEO Title**: Which Chinese Cars Come in Right-Hand Drive (RHD)? Sourcing Guide
-- **Meta Description**: How to source factory RHD Chinese vehicles for the UK, Australia, Thailand, Malaysia, South Africa and beyond — which brands build RHD, how to confirm per VIN, and why LHD-to-RHD conversion is risky.
-- **Suggested URL**: /guides/right-hand-drive-chinese-cars/
-- ~ H1~: Buying Right-Hand-Drive Chinese Cars: Why It Must Be a Factory RHD Build
-- **Primary Keyword**: Chinese cars right hand drive RHD models export
-- **Secondary Search Terms**: factory RHD Chinese EV, BYD right hand drive, MG RHD models, GWM Haval RHD, RHD Thailand Chinese car, LHD to RHD conversion risk
-- **Internal Link Suggestions**: /guides/chinese-ev-charging-standard-compatibility/ ; /guides/verify-china-car-export-supplier/ ; /vehicles/hongqi-e-hs9-2024/
-- **Image Suggestions**: RHD cockpit (steering on right) vs LHD; world RHD-market map; factory RHD production line; conversion-risk warning
-- **ALT Suggestions**: "Factory right-hand-drive Chinese car cockpit"; "Global right-hand-drive markets map"; "LHD to RHD conversion components warning"
+## เชา ข้อมูลกํากับภาพ
+- รถจีนคันไหนมาจอดทางด้านขวา-คัน ไดรฟ์ (RHD)? คู่มือการลากเลื่อน
+- ""คําอธิบาย" วิธีผลิตรถจีนอาร์เอชดี สําหรับอังกฤษ, ออสเตรเลีย, ไทย, มาเลเซีย, แอฟริกาใต้ และที่ไกลกว่านั้น แบรนด์สร้างอาร์เอชดี, วิธียืนยันต่อ VN, และทําไม LHD-THD ถึงเสี่ยง
+- ~ที่อยู่ URL ที่ถูกย่อ: /// ไกด์/ ทางขวา-ไดร์ฟ-ชินีส-คาร์ส /
+- ** H1 ~: ซื้อรถจีนคันขวา-ไฮด์ฟลายเจอร์: เหตุใดต้องเป็นงานก่อสร้างโรงงาน RHD
+- ~คําสําคัญ~ ส่งออกเป็นโมเดล RHD รถของจีนแบบถนัดมือขวา
+- ~การค้นหาตามวาระ: โรงงาน RHD EV จีน, BD ไดรฟ์มือขวา, MG RHD รุ่น GWM Haval RHD, RHD รถจีนไทย ความเสี่ยงการเปลี่ยนแปลงของ RHD LHD
+- ** เคล็ดลับการเชื่อมโยงภายใน **: / ไกด์/ ชินส์-ชอม-ช๊อต-คอมโพสิต-มาตรฐาน / ไกด์/ verification-china-car-export-suppplele/; / ขนนก/ ฮ่องกงฉี-อี- hs9-2024/
+- ~คําแนะนําของ RIMD~: ห้องเก็บอาหาร RHD (เข้าทางขวา) vs LHD; โลก RHD-มาร์เก็ต; โรงงานอาร์เอชดี; เตือนเรื่องความเสี่ยงในการผลิต;
+- ~จดหมายแนะนํา: "ห้องโดยสารรถจีนขับขวามือ"" "แผนที่ตลาดขับเคลื่อนด้วยรถยนต์แบบโลกขวา". "LHD ถึง RHD"
 
-## RHD Is a Manufacturing Question, Not a Repair-Shop Question
+## อาร์เอชดี เป็นคําถามที่ช่วยเสริมสร้าง ไม่ใช่คําถามเกี่ยวกับซ่อมบํารุง
 
-In right-hand-drive markets (the UK, Australia, New Zealand, Thailand, Malaysia, Indonesia, South Africa, Hong Kong and others), buying a left-hand-drive Chinese car and converting it after arrival is usually illegal for road registration, expensive and structurally compromised (steering geometry, dashboard, wiper park, lighting beam, brake-servo layout and safety systems are all engineered for one drive side). The correct procurement question is therefore narrow: **does this brand build a genuine factory RHD variant of the exact model, and can it be allocated to my market?**
+ในตลาดขับรถขวา (อังกฤษ, ออสเตรเลีย, นิวซีแลนด์, ไทย, มาเลเซีย, อินโดนีเซีย, อินโดนีเซีย, ฮ่องกง และอื่น ๆ) ซื้อรถจีนขับซ้าย และเปลี่ยนรถหลังมาถึงนั้น มักจะผิดกฎหมายสําหรับลงทะเบียนถนน ราคาแพงและความเสียหายทางสถาปัตยกรรม (การยึดติด เรขาคณิต, การขัดไม้ขัด, สวนพรม, แสง, ผังรถเบรค และระบบความปลอดภัยทั้งหมดถูกออกแบบสําหรับด้านเดียว). คําถามการจัดหาที่ถูกต้อง จึงแคบมาก "โดยการสร้างแบรนด์นี้ขึ้นมาเป็นอาร์เอชดีของโรงงานจริง ของโมเดลที่แน่นอน และสามารถนํามาใช้ในตลาดของผมได้หรือไม่" **
 
-## Brands With Factory RHD Programmes (Examples — Verify Before Ordering)
+## แบรนด์ ที่ มี โครงการ อาร์ เอช ดี ประกอบ ด้วย องค์ ประกอบ ต่าง ๆ (การ ตรวจ สอบ ก่อน มี ระเบียบ)
 
-The following is a snapshot of reported factory-RHD offerings. Most brand-level lists come from export-service sources and **change quickly as models launch/withdraw**; treat them as leads to confirm on the brand's (or local distributor's) official site, not as a fixed catalogue.
+ต่อ ไป นี้ เป็น ภาพ ถ่าย ของ การ บริจาค โรง งาน อาร์ เอช ดี ที่ มี การ รายงาน. รายการแบรนด์ส่วนใหญ่มาจากแหล่งบริการส่งออก และ... เปลี่ยนแปลงอย่างรวดเร็วจากการปล่อยโมเดล/ร่วมกับการดึงข้อมูล ~; ปฏิบัติต่อพวกเขาเป็นการนําไปยืนยันในเว็บไซต์อย่างเป็นทางการของแบรนด์ (หรือของผู้จําหน่ายท้องถิ่น) ไม่ใช่เป็นแค็ตตาล็อกที่ถูกต้อง
 
-| Brand (group) | Reported factory-RHD examples | Reported RHD markets | Evidence level |
+| แบรนด์ (กลุ่ม) | ได้รับรายงานเกี่ยวกับโรงงาน- RHD | รายงานตลาด RHD | ระดับหลักฐาน |
 |---|---|---|---|
-| MG (SIC) | MG4, MG ZS, MG HS, MG5, MG Extender (described by an export-service source as among the broadest Chinese-brand RHD line-ups) | UK, Australia, Thailand, South Africa, India, Sri Lanka | Industry source — verify |
-| BYD | Atto 3 (Yuan Plus export name), Dolphin, Seal | Australia, UK, Thailand, Japan | Industry source — verify |
-| GWM / Haval / ORA | Haval H6, Jolion, ORA 03, Tank 300 (selected markets) | Australia, South Africa, Thailand, UK, Kenya | Industry source — verify |
-| Geely / Zeekr | Geely EX5 reported as engineered with parallel LHD/RHD lines from development; several Geely/Zeekr models RHD | UK, Ireland, Australia, New Zealand, Malaysia, Hong Kong | Industry source — verify |
-| Hongqi | RHD new-energy push through 2026; Hong Kong experience centre reported from July 2026 | UK, Australia, New Zealand, Singapore, Thailand, Malaysia, Indonesia | Media/aggregator — verify |
-| Dongfeng Forthing | **Officially confirmed**: entered Thailand March 2026 with RHD NEV SUV "FRIDAY" and V9 built for RHD markets | Thailand | ♪ wofficial (Dongfong) ♪ * |
-| Changan Qiyuan (as NEVO) | Q05 shown as NEVO Q05 at the March 2026 Bangkok motor show (Thai RHD prospect) | Thailand | Media — verify |
+| MG (SIC) | MG4, MG ZS, MG HS, MG5 MG ส่วนขยาย (รวมเข้ากับแหล่งส่งออกเป็นแหล่งหนึ่งใน RHD แบรนด์ที่กว้างที่สุด) | UK, ออสเตรเลีย, ไทย, แอฟริกาใต้, อินเดีย, ศรีลังกา | แหล่ง อุตสาหกรรม — พิสูจน์ แล้ว |
+| ขนาดไบต์ | Atto 3 (ชื่อส่งออกชื่อ yoan Plus), Dolphin, Salax | ออสเตรเลีย, สหราชอาณาจักร, ไทย, ญี่ปุ่น | แหล่ง อุตสาหกรรม — พิสูจน์ แล้ว |
+| วัฒนา / ฮา วาล / โอรา | Haal H6 Jolion, ORA 03 รถถัง 300 (ตลาดคัดเลือก) | ออสเตรเลีย แอฟริกาใต้ ไทย สหราชอาณาจักรเคนยา | แหล่ง อุตสาหกรรม — พิสูจน์ แล้ว |
+| เกลี / เซกเจอร์ | Geely EX5 รายงานว่ามีการดัดแปลงเป็น LHD/RHD เส้นจากการพัฒนา; หลาย Geey/ Zeer รุ่น RHD | UK, ไอร์แลนด์, ออสเตรเลีย, นิวซีแลนด์, มาเลเซีย, ฮ่องกง | แหล่ง อุตสาหกรรม — พิสูจน์ แล้ว |
+| ฮ่องกง | RHD ผลักดันระบบใหม่ผ่าน 2026; ศูนย์ประสบการณ์ฮ่องกง รายงานตั้งแต่วันที่ 2026 กรกฎาคม พ.ศ. | UK, ออสเตรเลีย, นิวซีแลนด์, สิงคโปร์, ไทย, มาเลเซีย, อินโดนีเซีย | เล่นสื่อ/ ผู้รวบรวม — ตรวจสอบ |
+| ดงเฟ็ง สิ่งใด | ** ยืนยัน **: เข้าสู่ประเทศไทย 2026 ด้วย RHD NEV SUV "FRIBRIBRY" และ V9 สร้างสําหรับตลาดอาร์เอชดี | ไทย | ♪ wofficial (Dongfong) ♪ * |
+| เชียงฉวน (เช่น NEVO) | Q05 แสดงเป็น NEVO Q05 ที่ March 2026 กรุงเทพฯ มอเตอร์โชว์ (Thai RHD ความหวัง) | ไทย | มีเดีย — ตรวจ สอบ |
 
-Note that model **names differ between China and export markets** (e.g., Yuan Plus → Atto 3); match by platform/VIN, not by Chinese market name. Roughly **35% of global vehicle sales are in RHD markets** per an industry estimate — a contextual figure, not a demand forecast for any specific model.
+หมายเหตุที่ -- ชื่อที่แตกต่างกันระหว่างประเทศจีนและตลาดส่งออก ~ (เช่น หยวน บวก atto 3); ตรงกับแพลตฟอร์ม/วีเอ็น ไม่ใช่ชื่อตลาดจีน ประมาณ..." 35% ของยอดขายรถระดับโลก ในตลาดอาร์เอชดี* ต่อการประเมินอุตสาหกรรม (RHD) — ตัวหนังสือที่มีลักษณะเฉพาะ ไม่ใช่คําจํากัดความสําหรับรุ่นเฉพาะ
 
-## How to Confirm a Genuine Factory RHD Unit
+## วิธี ยืน ยัน หน่วย งาน ก่อ สร้าง แท้
 
-1. Check the **brand's global/local-market official site** for the destination country and confirm the model, trim and RHD build.
-2. Ask the supplier for the **factory build/configuration sheet by VIN** showing steering side (RHD) before deposit — not a promise to "arrange" RHD.
-3. Confirm **homologation for that RHD market** (lighting, instrumentation, e-call/label rules differ); an RHD build for Thailand is not automatically certified for the UK.
-4. Verify the RHD **interior/localisation**: right-hand wiper geometry, headlamp beam direction, instrument language, infotainment and (for EV) charging connector for that market.
-5. Confirm allocation/lead time — RHD batches are often produced in campaigns and may not be in stock when an LHD unit is.
+1. เช็กเว็บไซต์ทั่วไป/ท้องถิ่นของแบรนด์ สําหรับประเทศปลายทาง และยืนยันรุ่น การตัดไม้ และโครงสร้าง RHD
+2. ถามผู้จัดหาสําหรับแผ่นพับสร้าง/ confactive การสร้าง/ การปรับแต่งโดย VIN* แสดงด้านพวงมาลัย (RHD) ก่อนการฝากเงิน — ไม่ใช่สัญญา "arrange" RHD.
+3. ยืนยัน ** มติสําหรับตลาดอาร์เอชดี ~ (การเปิดให้บริการ, การใช้อุปกรณ์, กฎ e-cal/list; การสร้างอาร์เอชดีเพื่อประเทศไทยยังไม่ได้รับการรับรองสําหรับอังกฤษโดยอัตโนมัติ
+4. ตรวจสอบ RHD=- interniversation/ institute~: เรขาคณิตแบบเช็ดมือขวา, ทิศทางของหัวกระบี่, ภาษาเครื่องมือ,  info, และ (สําหรับ EV) การเชื่อมต่อชาร์จสําหรับตลาดที่
+5. ยืนยันเวลาการเรียงและวางของตะกั่ว — RHD plantes มักจะถูกผลิตในแคมเปญ และอาจจะไม่ได้อยู่ในสต็อกเมื่อหน่วย LHD เป็น
 
-## Why Aftermarket LHD→RHD Conversion Should Be Avoided
+## ทําไม หลัง จาก ที่ ตลาด เปลี่ยน แปลง ตัว เอง แล้ว ควร หลีก เลี่ยง
 
-The legality and export feasibility of converting an LHD Chinese car to RHD were **not verified** in this research, and such conversions routinely void type approval and warranty, alter crash structure and fail registration in strict RHD markets. Treat any supplier offering cheap "RHD conversion" as a high-risk signal and require evidence of regulatory approval; in most professional procurement the safe rule is **factory RHD or don't ship**.
+กฏหมายและการส่งออก ความเป็นไปได้ในการเปลี่ยนรถจีเอชดีจีนเป็น RHD (RHD) ไม่ได้รับการยืนยันในงานวิจัยนี้ และการแปลงรูปแบบการรับรองแบบว่างงานและรับประกันได้เปลี่ยนแปลงโครงสร้างการชน และล้มเหลวในการลงทะเบียนในตลาด RHD ที่เข้มงวด รักษาผู้จัดหาใด ๆ ที่เสนอราคาถูก "การเปลี่ยนแปลง RHD" เป็นสัญญาณที่มีความเสี่ยงสูง และต้องการหลักฐานการอนุมัติจากหน่วยงานกํากับดูแล; ในอาชีพส่วนใหญ่การจัดหาความปลอดภัยเป็น ~โครงการป้องกัน RHD หรือไม่ได้เรือ ~
 
-## What AutoBridge Adds Beyond a "We Can Do RHD" Claim
-Sellers assert RHD availability without distinguishing a factory line from a conversion shop. This guide recommends **factory-line evidence for the exact model (build photos, VIN, local-distributor confirmation)**, cautions against aftermarket LHD→RHD steering swaps, and checking the chosen car against the **destination's RHD registration/inspection rule and wiper/mirror/headlamp-beam requirements** before deposit.
-## Procurement Checklist for RHD Orders
+## สิ่งที่ออโตบิลส์เพิ่มเกินคําว่า "เราสามารถทํา RHD ได้" อ้าง
+บริษัท ขาย ยืน ยัน ว่า อาร์ เอช ดี สามารถ หา ซื้อ ได้ โดย ไม่ แยก สาย โรง งาน จาก ร้าน แปลง หนังสือ. มัคคุเทศก์นี้แนะนํา......หลักฐานที่มีประโยชน์- บรรทัดสําหรับโมเดลที่แน่นอน (สร้างภาพถ่าย, VIN, การตรวจสอบสิทธิ์ระบบย่อยภายใน) ~, แจ้งเตือนหลังจากเปลี่ยนรายการสินค้าแล้ว แลกเปลี่ยนปุ่ม LHHHD และตรวจสอบรถที่เลือกกับระบบ # เชื่อมต่อโทรคมชัด/ กฏของ RHD/ identer และคําสั่งปิด/ headlamp-Bam~ ก่อนการวาง
+## Checknownlist สําหรับลําดับ RHD
 
-- Destination market and its RHD registration/homologation rules named.
-- Factory RHD confirmed on the official model line and on the VIN build sheet.
-- Export-market model name mapped to the Chinese name (avoid name mismatch).
-- RHD-specific lighting/wipers/instruments/localisation confirmed.
-- EV: destination charging connector confirmed alongside RHD (see charging-standard guide).
-- Conversion route rejected unless a regulator-approved, documented case exists.
+- ตลาดปลายทางและกฏการลงทะเบียน/โฮโมล็อกชั่นของ RHD
+- หน่วยงานวิจัยยืนยันในสายต้นแบบอย่างเป็นทางการ และบนแผ่นแผ่นไม้ของวีเอ็น
+- ชื่อรุ่นส่งออก- ตลาด จับคู่ชื่อจีน (ไม่มีชื่อที่สะกดผิด)
+- ยืนยันการส่องแสง/ ไวเปอร์/ไออิเลคโทรนิคส์/ภายใน
+- EV: เชื่อมต่อปลายทางยืนยันพร้อม RHD (ดูคู่มือชาร์จไฟ)
+- ถูกปฏิเสธเส้นทางการเปลี่ยนหน้าที่หากไม่มีการตรวจสอบตามข้อกําหนดแล้ว จะแสดงกรณีที่มีเอกสารอยู่
 
-## Frequently Asked Questions
+## คํา ถาม ที่ มัก จะ ถาม บ่อย ๆ
 
-**Do Chinese brands make real RHD cars?** Yes — MG, BYD, GWM/Haval, Geely/Zeekr and others run factory RHD programmes, and Dongfeng officially launched RHD models in Thailand in March 2026; confirm the exact model on official channels because lists change.
-**Is BYD Atto 3 the same as Yuan Plus?** Atto 3 is the export-market name for the Yuan Plus platform; match by VIN/spec rather than name.
-**Can I just convert an LHD car to RHD on arrival?** Generally not safely or legally — it affects structure, approval and warranty; source a factory RHD build instead.
-**Does an RHD car built for Thailand work in the UK/Australia?** Not automatically — each RHD market has its own homologation and localisation requirements.
-**Why verify by VIN?** Marketing material may say "RHD available" while the allocated stock is LHD; the VIN build sheet is the reliable proof.
+~ ยี่ห้อจีนทําให้รถ RHD อย่างแท้จริงหรือไม่ ~ ใช่ — เอ็มจี บิด GWM/HALAL กีลลี่/ เซเกร์  and  คนอื่น ๆ ทํางานโครงการโรงงาน RHD  and  Dongfang ได้เปิดตัวโมเดล RHD อย่างเป็นทางการในประเทศไทยเมื่อ 2026 มีนาคม พ.ศ. ยืนยันรุ่นที่แน่นอนบนช่องทางราชการ เพราะรายการเปลี่ยนแปลง
+~BD Atto 3 เหมือนกับหยวน บวกหรือเปล่า~ ATto 3 เป็นชื่อตลาดส่งออกสําหรับแพลตฟอร์มหยวน บวก; ตรงกับ VIN/sctig แทนชื่อ
+~ฉันเปลี่ยนรถ LHD ให้เป็น RHD ได้ยัง? ~ โดย ทั่ว ไป แล้ว ไม่ ปลอด ภัย หรือ ไม่ ถูก ต้อง ตาม กฎหมาย — มัน มี ผล กระทบ ต่อ โครง สร้าง, การ ยอม รับ และ การ รับรอง; เป็น แหล่ง ที่ มา ของ การ สร้าง อาร์ เอช ดี แทน.
+"รถอาร์เอชดี สร้างขึ้นเพื่องานไทยในอังกฤษ/ออสเตรเลียหรือเปล่า" ไม่ ใช่ โดย อัตโนมัติ แต่ ละ ตลาด อาร์ เอช ดี มี ข้อ เรียก ร้อง ใน การ ทํา ให้ ตัว เอง เป็น คน รัก ร่วม เพศ และ การ ทํา ให้ ท้อง ถิ่น เป็น ที่ ต้องการ.
+♪ ทําไมตรวจสอบโดย VIN ♪ การตลาดวัสดุอาจบอกว่า "อาร์เอชดี" ในขณะที่หุ้นที่รวมแล้วคือ LHD แผ่นพับก่อสร้าง VN เป็นหลักฐานที่เชื่อถือได้
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICNE_OR_USARIAND_BALE: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
-- RODL_TOIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- ALT by language:
+## บันทึกรูปภาพ
+- _ปราสาท: ไม่มีความปลอดภัยในคลังเก็บ
+- ส่วนตัว_ปลายทาง: ไม่ได้จับ
+- ผู้โดยสาร: ไม่ถูกจับ
+- HOURS_ PDFAGE: ไม่มีผล — ไม่มีชื่อแฟ้มสําหรับเลือกสื่อ (ไม่มีใบรับรองที่จะยืนยัน)
+- ลิขสิทธิ์: ไม่ยืนยัน
+- LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
+- _กําหนดวันที่: 2026-09-06
+- MERCUL_ TOPIC_ MATCH: ต้องตรงกับรุ่น/ การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
+- CHAR_SCPE_NOTE: ตรงกับโมเดลที่เป๊ะของครอบครัว/ topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
+- March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
+- BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
+- ALT ด้วยภาษา:
   - **EN**: AutoBridge export-buyer reference — Right-hand-drive Chinese-car sourcing, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Right-hand-drive Chinese-car sourcing, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Right-hand-drive Chinese-car sourcing, Leitfaden für Fahrzeugexport-Einkauf
@@ -85,23 +88,23 @@ Sellers assert RHD availability without distinguishing a factory line from a con
   - **AR**: مرجع AutoBridge لمشتري التصدير — Right-hand-drive Chinese-car sourcing, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Right-hand-drive Chinese-car sourcing, 汽车出口采购指南
 
-## Sources & Verification
+## ต้นฉบับและการตรวจสอบสิทธิ์
 
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| RHD Chinese-cars markets guide | StarVia Auto (export service) | RHD markets | https://www.starviaauto.com/en/blog/right-hand-drive-chinese-cars-markets-guide | 2026-09-02 | ROOS_ CHCKED | MG/GWM RHD line-ups and markets (industry; verify) |
-| Which Chinese vehicles suit RHD buyers | StarVia Auto (export service) | RHD markets | https://www.starviaauto.com/en/faq/which-chinese-vehicles-are-suitable-for-buyers-who-need-right-hand-drive | 2026-09-02 | ROOS_ CHCKED | BYD Atto 3/Dolphin/Seal RHD (industry; verify) |
-| RHD-ready Geely/Zeekr models | FOBEV (export service) | RHD markets | https://www.fobev.com/vehicles/rhd-ready/ | 2026-09-02 | ROOS_ CHCKED | Geely EX5 parallel LHD/RHD, Zeekr RHD (industry; verify) |
-| Dongfeng Forthing enters Thailand (official) | Dongfeng Motor Group (official) | TH | https://www.dfmc.com.cn/news/company/news_20260311_1142.html | 2026-09-02 | VERIFIED | March-2026 Thailand entry, RHD FRIDAY/V9 (VERIFIED) |
-| Changan NEVO Q05 Bangkok show debut | Autohome 车家号 (media) | TH | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/25092921 | 2026-09-02 | ROOS_ CHCKED | NEVO Q05 Thai RHD prospect (media; verify) |
-| Hongqi RHD strategy / RHD market context | smzdm (aggregator); AutoReport (industry) | RHD markets | https://post.m.smzdm.com/p/aqrp0mkp/ ; https://m.autoreport.cn/guoji/20260829/19112676566.html | 2026-09-02 | ROOS_ CHCKED | Hongqi RHD push; ~35% global sales in RHD markets |
+| ไกด์ตลาดรถจีนอาร์เอชดี | StarVia Auto (บริการส่งออก) | ตลาด RHD | https://www.starviaauto.com/en/blog/right-hand-drive-chinese-cars-markets-guide | 2026-09-02 | ROOS_ CHCKED | MG/GWM RHD Fline-ups และตลาด (inguagery; ตรวจสอบ) |
+| รถจีนตัวไหนเหมาะกับผู้ซื้อ RHD | StarVia Auto (บริการส่งออก) | ตลาด RHD | https://www.starviaauto.com/en/faq/which-chinese-vehicles-are-suitable-for-buyers-who-need-right-hand-drive | 2026-09-02 | ROOS_ CHCKED | BD Atto 3/Dolphin/Seal RHD (inguagery; ตรวจสอบ) |
+| รุ่นของ RHD ที่พร้อม/ Zeecger | FOBE (บริการพอร์ต) | ตลาด RHD | https://www.fobev.com/vehicles/rhd-ready/ | 2026-09-02 | ROOS_ CHCKED | Geely EX5 ขนาน LHD/RHD, Zeker RHD (inguagery; Check) |
+| ดงเฟนฟอร์ตเข้าประเทศไทย (พ.ศ. | Dongfang Motor Group (แบบออนไลน์) | ธ.ค. | https://www.dfmc.com.cn/news/company/news_20260311_1142.html | 2026-09-02 | เปิดใช้งาน | มีนาคม 2026 การเข้าประเทศไทย RHD FRIEY/ V9 (invied) |
+| เชียงนาง เวียว Q05 แสดงตัวเปิดตัวของกรุงเทพ | Automa house 车家号 (สื่อ) Name | ธ.ค. | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/25092921 | 2026-09-02 | ROOS_ CHCKED | DEO Q05 ความเป็นไปได้ของ RHD ชาวไทย (สื่อ; ตรวจสอบ) |
+| กลยุทธ์ของ Hongqi RHD / RIHD Market | smzdm (Guarder; Auto report (ฝุ่น) | ตลาด RHD | http: //โพสต์.M.smzdm.com/p/ aqrp0mkp/; https://m.autoreport.cn/guoji/20260829/19112676566.html | 2026-09-02 | ROOS_ CHCKED | Hongqi RHD ผลักดัน; ~ 35% ยอดขายระดับโลกในตลาด RHD | https://post.m.smzdm.com/p/aqrp0mkp/
 
-*Confidence note (AutoBridge standard): only Dongfeng's Thailand RHD launch is VERIFIED (manufacturer official). Brand model lists are export-service/media snapshots (SINGLE_SOURCE) that change frequently and must be confirmed on official brand/local-distributor channels per VIN. Aftermarket conversion legality was not verified and is flagged as risk.*
+*จดหมายยืนยัน (มาตรฐานอัตโนมัติของ ดองฟง): เปิดตัวประเทศไทย RHD เท่านั้นคือ ISWIIIID (Manfacter Agency). รายการสินค้าแบรนด์ คือ ภาพถ่ายแบบส่งออก/สื่อ (Single_SEESE) ที่เปลี่ยนไปบ่อยครั้ง และต้องได้รับการยืนยันทาง แบรนด์/ช่องเสียงท้องถิ่นอย่างเป็นทางการ ต่อ VIN หลังจากตลาดเปลี่ยนกฎหมายไม่ได้ตรวจสอบ และถูกตั้งให้เสี่ยง *
 
-## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: Global RHD markets (sourcing from China)
-- **Verification method**: One official launch plus industry snapshots; availability deliberately left to per-VIN official confirmation
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+## การทบทวนแก้ไข
+- ~Uuthor/ retrieved~: [บีดริดจ์ ส่งออกทีมแก้ไข] (/ ผู้เขียน/) วิธี [แก้ไข] ของเรา [นโยบายการเลือ [/ การแก้ไข- policy/]
+- ~ถูกตรวจสอบแล้ว~: 2026-09-05
+- ~ตลาดแห่งความไม่สงบ: ตลาดอาร์เอชดี (การท่องเที่ยวจากประเทศจีน) ~ ตลาดอุตสาหกรรมไทย-ไทย-ไทย-ไทย-ไทย-ไทย-ไทย-ไทย-ไทย-ไทย-ไทย-ไทย-ไทย: กรุงเทพฯ กรุงเทพฯ.
+- ~วิธีการสร้างความสัมพันธ์ ~: เปิดตัวอย่างเป็นทางการหนึ่งบวกการถ่ายภาพอุตสาหกรรม; สามารถทําได้อย่างจงใจซ้ายไป per-VIN ยืนยันอย่างเป็นทางการ
+- ~มาตรฐานการแบ่งส่วน ~: Research and med from the source address address (Desk Research; ไม่มีการขับรถมือหนึ่ง, runchown หรือนําเข้า). ความมั่นใจของแหล่งแสดงต่อแถว; จุดใด ๆ ที่เราไม่สามารถยืนยันได้ด้วยตัวเอง ถูกนําเสนอเป็นรายการตรวจสอบแทนการยืนยันว่าเป็นความจริง
 #AutoBridge #RHDCars #RightHandDrive #VehicleSourcing #ExportProcurement

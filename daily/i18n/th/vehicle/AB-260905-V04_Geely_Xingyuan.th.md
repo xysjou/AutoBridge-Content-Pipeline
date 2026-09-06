@@ -1,85 +1,88 @@
-# Geely Xingyuan / Galaxy Xingyuan (2025/2026) — Chinese-Market BEV Specs and Export Verification
+# จี ตี้ ชิง หยวน / กาแล็กซี่ ชิง หยวน (2025/2026) — จีน-มาเก็ท บีวี สเปกตรัม  and  ส่งออกการตรวจสอบ
 
-## SEO Metadata
-- **SEO Title**: Geely Xingyuan (Galaxy Xingyuan) BEV: Chinese-Market Specs & Export Guide
-- **Meta Description**: Chinese-market Geely Xingyuan/Starwish small EV: GEA architecture, RWD, 58/85 kW motors, 310/410 km CLTC, 40.16 kWh line and export buyer checks.
-- ~ H1~: Geely Xingyuan / Galaxy Xingyuan (2025/2026) — Chinese-Market BEV Specs and Export Verification
-- **Primary Keyword**: Geely / 吉利 Xingyuan / 吉利星愿（Galaxy 星愿） specs export
-- **Secondary Search Terms**: Geely Xingyuan export; Galaxy Xingyuan specs; Giey Starvil; Chinese small electric hatchback; CLTC city EV
-- **Suggested URL**: /vehicles/geely-xingyuan/
-- **Search Intent**: 了解 Geely / 吉利 Xingyuan / 吉利星愿（Galaxy 星愿） 中国版规格、配置与出口适配性（车型参数页）
-- **Internal Link Suggestions**: /vehicles/geely-xingyuan/, /guides/ev-shipping-un3556-imdg-compliance-history/, /guides/export-compliance-sanctions-screening-end-user/
-- ~Schema Scope~: Article + Vehicle (no Product/Offer/Review)
+## เชา ข้อมูลกํากับภาพ
+- จิงยั่น (Galaxy Xing Yuan) BEV: คู่มือนําเข้าแฟ้มแบบ Median- Magnet Specs & ส่งออก
+- ""คําอธิบาย" จีน-มาร์เก็ตจีลี่ ชิงย็อง/สตาร์วิชน้อย: สถาปัตยกรรม GEA อาร์ดับเบิลยูดี  58/85 kW motors,  310/410 km CLTC, 40.16 kWh บรรทัด  and  เช็คผู้ซื้อส่งออก
+- ** H1 ~: Geey Sing Yuan / กัลกัตตาน ซิงจ็อง (2025/2026) — ภาษาจีน-Magnet BEV Specs and eptember Recordation
+- ~คําสําคัญในประกาศ ~: Geely / 吉利 Xing Yan / 吉利星愿 (Galaxy 星愿) สเปค ส่งออก
+- ~ การค้นหาโดยย่อ~: Geely Xinguan Express; Galica Xing Yaan seport; Geely Starvolph; ขนาดเล็กเพื่อฟักตัวด้วยไฟฟ้า; CLTC City EV
+- ~ที่อยู่ URL ที่ถูกย่อ: / เวกซี่/จีดี-เอ็กซ์ซิงจ็อง หยวน/
+- ~ การค้นหาที่เชื่อมโยง~: 了解 Geely / 吉利 ชิงหยวน / 吉利星愿 (Galaxy 星愿) 中国版规格 、配置与出口适配性 (车型参数页) (พ.ศ.
+- ** เคล็ดลับการเชื่อมโยงภายใน **: / Viohless/Geeply-xing Yuan///// guides/ parcess- un3556-imdg-compliance-history/ / guides/export-compliance-sing-sing-end-user
+- ~Schema Scop~: มาตรา + moft (ไม่มี Production/Offer/Review)
 
-## Buyer context and model identity
-The **Geely Xingyuan (Galaxy Xingyuan, marketed in some export markets under a separate English name)** is an A0 five-door battery-electric hatchback on Geely's **GEA** EV architecture, with **rear-motor/rear-wheel drive**. This page is the **Chinese-market** reference; an overseas model name is not treated as identical without an OEM statement.
+## แก้ไขโครงการหลัก...
+The ~Gely Xing Yuan (Galaxy Xing Yan, ตลาดในตลาดส่งออกบางภายใต้ชื่อภาษาอังกฤษ) ~ เป็น แบตเตอรี่ A0 ประตู เครื่องยนต์ห้าประตู ประตู ประตูฟักกลับบน Geely's สถาปัตยกรรม EV กับ morr-re-v-vor-vor-vor ไดรฟ์ ~. หน้านี้หมายถึง "รายการตลาด"; ชื่อแบบต่างประเทศไม่ได้ถูกใช้ให้เหมือนกันโดยไม่มีคําแถลง
 
-## Electric powertrain and range lines
-- **Body**: 4135 / 1805 / 1570（STAR限定版车长4155） mm (STAR edition 4155 mm long), wheelbase 2650 mm, 5门5座; 后置后驱.
-- **Motors**: 58 / 85 kW options.
-- ~Battery ~: 磷酸铁锂; the captured capacity line is 40.16 kWh for the longer-range car. A specific cell supplier appears only in encyclopaedia/media accounts and is **not OEM-confirmed**, so it is withheld.
-- **Range**: 310 / 410 km CLTC (cross-checked) — a Chinese test cycle, not WLTP.
-- **Cargo**: 375（前备厢70，后排放倒1320） L; platform GEA 纯电架构.
-- **Peak charging power is not reliably captured and is not stated.**
+## สาย ไฟฟ้า และ สาย เรนจ์
+- ~คุณ... 4135 / 1805 / 1570 (STAR 限定版车长4155) mm (พิมพ์ SAR 4155 mm ยาว). เบส 2650 mm  5门5座; 后置后驱.
+- ** ผู้บังคับ ** (Official): 58 / 85 kW ตัวเลือก **
+- 磷酸铁锂 สายที่จับได้ 40.16 kWh สําหรับรถที่ยาวกว่า ผู้ผลิตเซลล์ที่ระบุได้ จะปรากฏเฉพาะในบัญชี accyclopedia/มีเดียเท่านั้น และไม่ใช่ระบบ OEM-Concuration (OEM) จึงถูกระงับ
+- ~เสียงกรี๊ ': 310 / 410 km CLTC (ตรวจสอบผ่าน) — วัฏจักรการทดสอบของจีน ไม่ใช่ดับเบิลยูแอลทีพี (พ.ศ.
+- ~คาโก: 375（前备厢70，后排放倒1320） L; เวทีจีเอ 纯电架构
+- ** อํานาจชาร์จไม่ได้ขึ้นทะเบียน และยังไม่ปรากฏตัว ~
 
-## Verified specification table (Chinese-market reference)
-| Specification | Value | Unit | Market | Confidence | Source note |
+## ตารางกําหนดเพิ่มเติมเพิ่มเติม (อ้างอิงของ Chinese- market)
+| การกําหนด | ค่า | หน่วย | ตลาด | ความมั่นใจ | บันทึกช่วยจําต้นฉบับ |
 |---|---|---|---|---|---|
-| length width height | 4135 / 1805 / 1570（STAR限定版车长4155） | mm | CHINA | ROOS_ CHCKED | 搜狐双页 |
-| wheelbase | 2650 | mm | CHINA | ROOS_ CHCKED | 搜狐+腾讯 |
-| seats | 5门5座 | - | CHINA | SINGLE_SOURCE | 搜狐车型库 |
-| layout | 后置后驱 | - | CHINA | SINGLE_SOURCE | 腾讯新闻 |
-| motor power options | 58 / 85 | kW | CHINA | SINGLE_SOURCE | 搜狐汽车 |
-| battery type | 磷酸铁锂 | - | CHINA | SINGLE_SOURCE | 搜狐汽车 |
-| battery capacity 410 | 40.16 | kWh | CHINA | SINGLE_SOURCE | 搜狐汽车 |
-| range cltc | 310 / 410 | km | CHINA | ROOS_ CHCKED | 搜狐+腾讯 |
-| cargo volume | 375（前备厢70，后排放倒1320） | L | CHINA | SINGLE_SOURCE | 搜狐车型库 |
-| platform | GEA 纯电架构 | - | CHINA | SINGLE_SOURCE | 腾讯新闻 |
+| ความสูงของความกว้าง | 4135 / 1805 / 1570 (STAR 限定版车长 4155) พ.ศ. | อืม | จีน | ROOS_ CHCKED | 搜狐双页 |
+| เบสล้อ | 2650 | อืม | จีน | ROOS_ CHCKED | 搜狐 + 腾讯 |
+| ที่นั่ง | 5门5座 | - | จีน | ผู้โดยสาร_ปลายทาง | 搜狐车型库 |
+| การจัดวาง | 后置后驱 | - | จีน | ผู้โดยสาร_ปลายทาง | 腾讯新闻 |
+| ตัวเลือกการใช้พลังงานของมอเตอร์ | 58 / 85 | kW | จีน | ผู้โดยสาร_ปลายทาง | 搜狐汽车 |
+| ชนิดของแบตเตอรี | 磷酸铁锂 | - | จีน | ผู้โดยสาร_ปลายทาง | 搜狐汽车 |
+| แบตเตอรี 410 | 40.16 | k อื | จีน | ผู้โดยสาร_ปลายทาง | 搜狐汽车 |
+| ช่วง cltc | 310 / 410 | กิโลเมตร | จีน | ROOS_ CHCKED | 搜狐 + 腾讯 |
+| ระดับเสียงของสินค้า | 375（前备厢70，后排放倒1320） | L | จีน | ผู้โดยสาร_ปลายทาง | 搜狐车型库 |
+| เวที | RADIST 纯电架构 | - | จีน | ผู้โดยสาร_ปลายทาง | 腾讯新闻 |
 
-## Small-EV export logic: battery line, cycle and shipping
-City EVs are frequently mis-quoted by using one range number for two motor/battery lines. On the Xingyuan, pair the motor (58 or 85 kW) with its matching battery and CLTC range on every order, and convert to the destination test cycle rather than re-labelling CLTC. As a lithium-ion battery EV, sea freight follows the current IMDG classification for battery-powered vehicles (UN3556 for the intact vehicle) — see the shipping guide. Battery supplier and peak charging power stay unconfirmed pending OEM data.
+## ตรรกะการส่งออกขนาดเล็ก: สายแบตเตอรี่, วัฏจักรและการจัดส่ง
+เมือง สิ่งแวดล้อมมักใช้ค่าเกินผิด โดยใช้ช่วงหนึ่งสําหรับสายมอเตอร์/บาทรี่สองสาย บนซิงยูอัน จับคู่มอเตอร์ (58 หรือ 85 kW) กับแบตเตอรี่ที่เข้ากันได้  and  CLTC ช่วงที่ทุกลําดับ  and  เปลี่ยนเป็นวงจรการทดสอบปลายทาง แทนที่จะเปลี่ยนการแทนที่การแทนที่ CLTC ในฐานะแบตเตอรี่ลิเทียม อีวี  sea freight follows the current IMDG classification for battery-powered vehicles (UN3556 for the intact vehicle) — see the shipping guide. จัดหาแบตเตอรี่และชาร์จไฟสูงสุด ยังคงยังไม่ได้รับการยืนยัน ข้อมูลของโออีเอ็ม
 
-## Overseas buyer verification before payment
-1. Match motor option to battery and CLTC range; obtain the VIN build line.
+## ผู้ซื้อที่ดูแลการขออนุมัติก่อนจะจ่ายเงิน
+1. จับคู่ตัวเลือกมอเตอร์ไปยังแบตเตอรีและ CLTC ช่วง; รับสายการสร้าง VIN
 2. Translate CLTC 310/410 km to the destination cycle.
-3. Confirm charge connector/protocol and AC/DC capability (peak DC not captured here).
-4. Confirm EV homologation, battery documents and UN38.3/IMDG shipping paperwork with the forwarder.
-5. Request a current export quotation; no export price is published.
+3. ยืนยันการเชื่อมต่อ/ protol และ AC/DC access (ไม่ถูกจับที่นี่).
+4. ยืนยันการถ่ายเอกสารอีวี เอกสารแบตเตอรี่ และเอกสารการส่งสินค้า UN38.3/IMDG ฉบับ กับผู้ส่ง
+5. ต้องการอ้างอิงการส่งออกในปัจจุบัน ไม่มีส่วนการส่งออก
 
-## FAQ
-**Is Xingyuan the same as the export "Starwish"?** Names across markets require an OEM statement; this page keeps the Chinese identity.
-**Why no charging-power figure?** It was not reliably sourced and is withheld rather than guessed.
-**Who makes the cells?** Not OEM-confirmed; unstated.
-**Is 410 km WLTP?** No — CLTC.
-**How does it ship?** As an intact lithium-ion battery EV under the current IMDG class (UN3556); confirm with the carrier.
+## ขนาด FAQ
+~ ชิงยวน เหมือนกับการส่งออกของ "สตาร์ฟลิพ" หรือเปล่า? ~ ชื่อต่างๆ ในตลาดต้องการข้อความ โออีเอ็ม หน้านี้เก็บอัตลักษณ์ของจีนไว้
+~ทําไมไม่มีเลขชาร์จไฟ~ มันไม่ถูกตั้งขึ้นแบบเก่า และถูกระงับไว้มากกว่าการคาดเดา
+~ใครสร้างเซลล์? ~ ไม่ยืนยัน โออีเอ็ม ไม่ระบุสถานะ
+~ 410 km WLTP หรือเปล่า~ ไม่ — ซี.
+~เรือเป็นไงบ้าง ~ เป็นแบตเตอรี่ลิเธียน-อีวีที่เสียหายภายใต้รุ่น IMDG ปัจจุบัน (UN3556); ยืนยันด้วยผู้ดําเนินการ
 
 
-## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
+## ต้นฉบับและการตรวจสอบสิทธิ์
+| แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| 吉利星愿 车型参数 | 搜狐汽车 | CN | T2 | ROOS_ CHCKED | http://db.auto.sohu.com/model_7477/a/1058252073_120590677 | 尺寸, 电机, 电池, 续航 |
+| 吉利星愿 车型参数 | 搜狐汽车 | CN | T2 | ROOS_ CHCKED | http://db.auto.sohu.com/model_7477/a/1058252073_120590677 | 尺寸 电机 电机 电池 续航 (พ.ศ. |
 | 吉利星愿 配置库 | 搜狐汽车车型库 | CN | T2 | ROOS_ CHCKED | http://db.auto.sohu.com/model_7477/config | 尺寸, 轴距, 储物 |
 | 星愿 上市报道 | 腾讯新闻 | CN | T3 | ROOS_ CHCKED | http://news.qq.com/rain/a/20260329A04ZLQ00 | 续航版本, 架构 |
-| Geely official global site | Geely Auto Group 吉利 (OEM) | CN | T1 | VERIFIED | https://global.geely.com/ | brand/model-line identity and OEM authority |
-| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | T1 | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
-| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
-## Editorial Review
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: China (Chinese-market reference specification; not a global spec)
-- **Verification method**: Desk research against the sources below; Chinese-market reference specification only unless a separate export market is explicitly cited.
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
+| เว็บไซต์อย่างเป็นทางการทั่วโลก | Geey Auto Group 吉利 (OEM) | CN | T1 | เปิดใช้งาน | https://global.geely.com/ | แบรนด์/ แบบไลน์และหน่วยงานโออีเอ็ม |
+| กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูล (MIT) | MIT 工业和信息化部 | CN | T1 | เปิดใช้งาน | https://www.miit.gov.cn/ | การออกเสียง/ การปล่อยเสียง; ยืนยันการจําลองที่แน่นอน, มวลและรหัสโดย VIN/ language |
+| กรมการต่างประเทศสําหรับกําหนดตลาด (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | เปิดใช้งาน | https://www.samr.gov.cn/ | มาตรฐานประเทศ, การจัดตั้ง และ อํานาจในการยึดตลาด |
+## การทบทวนแก้ไข
+- ~Uuthor ♪: AutoBridge ส่งออกทีมแก้ไข [ผู้เขียน](/ ผู้เขียน/) สืบค้นเมื่อ [ใช้ในการแก้ไขนโยบาย] [/Di-policy/]
+- ~ถูกตรวจสอบแล้ว~: 2026-09-05
+- ~ ตลาดแห่งความอิ่มเอิบ: จีน (กําหนดตลาดหลักทรัพย์-ตลาด); ไม่ใช่สเปก (พ.ศ.
+- ~วิธีการสร้างความสัมพันธ์ ~: งานวิจัยที่ขัดกับแหล่งย่อยด้านล่างนี้; การอ้างอิงตลาดจีน-มาร์เก็ต ก็ต่อเมื่อมีการอ้างอิงตลาดส่งออกอย่างตรงไปตรงมา
+- การร่างแบบ AI-assisted ถูกใช้ บทความนี้ตั้งอยู่บนพื้นฐานของงานวิจัยในตาราง และอัตโนมัติ QA ไม่มีการอ้างอิงการทดสอบก่อน จนกว่าจะมีการระบุรายละเอียดอย่างชัดเจน ยืนยันความต้องการที่ต้องใช้เวลาและกําหนดปลายทาง ก่อนทําการข้ามเวลา
 
-## Image Record
-- **IMAGE_ASSET_PATH**: none secured in repository
-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ not captured
-- **SOURCE_PAGE**: not captured
-- **RIGHTS_HOLDER**: unconfirmed
-- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
-- ~ECHCKKED_DATE ~: 2026-09-05
-- ~CRL/TOPIC_MATCH~: exact Geely Xingyuan
-- **IMAGE_RIGHTS_STATUS**: FAIL
-- **ALT (12 languages)**:
+## บันทึกรูปภาพ
+- ~ประกาศ_BAR_ PATH ~ ~ ไม่มีคนปลอดภัยในห้องเก็บของ
+- ~~~~~ไม่ถูกจับ~
+- ~ประกาศจับ~: ไม่ถูกจับ
+- ** UNTER_FELE_ PATE*: ใช้ไม่ได้ — ไม่มีเอกสารผู้สมัครใด ๆ ที่ระบุ (ไม่มีใบรับรองที่จะยืนยัน)
+- ~ห้ามยืนยัน~
+- **LICENSE_OR_USAGE_BASIS**: ไม่ มี ใคร ปลอด ภัย — การ มี เว็บไซต์ อยู่ ใน เวลา นี้ ไม่ ใช่ การ ลง ทะเบียน ทํา ซ้ํา อีก ครั้ง ใน การ ค้า
+- ~CKND_DATE ~ 2026-09-06
+- ~Ferc_topic_mATCH~: ตรงกับ Geely Xing Yan
+- MEDIAN_SCPE_NOTE: ภาพต้องตรงกับครอบครัว/ โตปิกที่ถูกต้องเท่านั้น; ต้องไม่หมายถึงการตัด, ปีตัวอย่าง, เรียลวีน, การตรวจสอบหรือการทําธุรกรรมจริง
+- หม่อมเจ้า หม่อมเจ้า
+- ~ ล็อก-รีซัน~: ไม่มีภาพใดสามารถใช้ได้โดยปลอดภัย: Wikited Commons/Flickr ไม่สามารถทํางานได้จากสภาพแวดล้อมการวิจัย ห้องสมุดหลักต้องการสิทธิ์ในการเข้าถึง API/CIFF และภาพเว็บเพจของ OEM ก็ไม่ใช่การให้ทุนใช้อีกครั้งในโฆษณา ไม่มีภาพถ่ายที่บรรจุออโต้ไบด์อยู่ บันทึกเก็บ FAIL แทนการยืนยัน
+- ~ALT (12 ภาษา) ~:
   - **EN**: Geely Xingyuan, Chinese-market BEV hatchback export buyer reference
   - **FR**: Geely Xingyuan, BEV hatchback du marché chinois, référence acheteur export
   - **DE**: Geely Xingyuan, Chinesischer BEV hatchback, Referenz für Exportkäufer

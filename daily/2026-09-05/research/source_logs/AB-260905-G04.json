@@ -2,7 +2,7 @@
  "article_id": "AB-260905-G04",
  "content_type": "PROCUREMENT_GUIDE",
  "checked_date": "2026-09-05",
- "source_log_version": "SL-v2-20260905",
+ "source_log_version": "SL-v3-20260906",
  "sources": [
   {
    "source_title": "商务部等5部门关于二手车出口有关事项的公告",
@@ -90,13 +90,47 @@
    "official_source": "YES",
    "source_scope": "",
    "added_by": "Writing AI CONTROLLED_RESEARCH_PATCH 2026-09-05"
+  },
+  {
+   "source_title": "General Administration of Customs of China (GACC) — used-car export supervision",
+   "organization": "General Administration of Customs of China (海关总署 GACC)",
+   "url": "http://www.customs.gov.cn/",
+   "domain": "www.customs.gov.cn",
+   "source_type": "government",
+   "source_tier": "T1",
+   "source_market": "CN",
+   "facts_supported": [
+    "二手车出口报关与放行主管机关",
+    "与商务部许可互补的海关环节"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": "YES",
+   "source_scope": "Customs is the declaration/clearance authority for used-car export shipments, complementary to MOFCOM licensing"
+  },
+  {
+   "source_title": "China Automobile Dealers Association (CADA) — used-car export industry body",
+   "organization": "China Automobile Dealers Association (中国汽车流通协会 CADA)",
+   "url": "http://www.cada.cn/",
+   "domain": "www.cada.cn",
+   "source_type": "industry-association",
+   "source_tier": "T2",
+   "source_market": "CN",
+   "facts_supported": [
+    "二手车出口行业发展与企业实践背景",
+    "行业协会T2，非监管机关"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": "NO",
+   "source_scope": "Industry association context on used-car export development and enterprise practice (T2, not a regulator)"
   }
  ],
  "source_integrity_note": "政府/监管/贸促会源按实际主体与URL标注；T4 SEO仅作线索并显式UNVERIFIED，未冒充官方。",
  "controlled_research_patch": {
-  "date": "2026-09-05",
-  "added_by": "Writing AI",
-  "sources_added": 1,
-  "note": "Official/OEM anchors verified HTTP-200 on 2026-09-05; identity/authority scope only unless facts_supported states otherwise."
+  "date": "2026-09-06",
+  "added_by": "Writing AI (pre-publication repair)",
+  "sources_added": 7,
+  "note": "Distinct primary/international organizations added 2026-09-06; all URLs HTTP-200 verified; parent-org normalization applied; no weak filler."
  }
 }

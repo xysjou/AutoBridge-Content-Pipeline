@@ -1,79 +1,82 @@
-# Importing Chinese Commercial Trucks Into Saudi Arabia: an HS-First SABER, SASO and ZATCA Routing Guide
-## SEO Metadata
-- **SEO Title**: Import Chinese Trucks to Saudi Arabia: HS-First SABER & ZATCA Guide
-- **Meta Description**: Route a Chinese commercial truck into Saudi Arabia the correct order — exact HS code (87.01/87.04/87.05/8716), the SABER technical regulation that applies to that code, the certificate type it requires, then Fasah customs; plus the ZATCA light-vehicle vs truck distinction.
-- **Suggested URL**: /guides/import-chinese-truck-saudi-saso/
-- **H1**: Clearing a Chinese Commercial Truck Into Saudi Arabia: Start From the HS Code, Not From a Generic Process
-- **Primary Keyword**: import Chinese commercial truck Saudi Arabia HS code SABER ZATCA
-- **Secondary Search Terms**: SABER technical regulation by HS, SASO certificate type truck 8701 8704 8705, Saudi ZATCA tariff commercial vehicle, Fasah customs Saudi, GCC LHD truck certification, SABER PCoC SCoC vehicle
-- **Internal Link Suggestions**: /vehicles/shacman- x3000-dump-truck/; /vehicles/sinotruk-howo- t7h-tractor/; /guides/commercial-truck-fleet-procurement-china/
-- **Image Suggestions**: HS-code-to-certificate routing diagram; SABER certificate-type decision tree; VIN-matched document set; ZATCA light-vehicle-vs-truck scope diagram
-- **ALT Suggestions**: "HS code to SABER technical regulation to certificate routing"; "certificate-type decision for Saudi truck import"
+# サウジアラビアに中国商業用トラックの輸入:HS-ファースト・サベル、SASO、ZATCAルーティングガイド
+## ツイート メタデータ
+- **SEOタイトル**:サウジアラビアに中国トラックを輸入:HS-ファーストSABER&ZATCAガイド
+- **メタ 記述**: サウジアラビアに中国商用トラックを正しい順序にルートする — 正確なHSコード(87.01/87.04/87.05/8716)、そのコードに適用されるSABER技術規則、それが要求する証明書の種類、その後、ファサーの税関; プラスZATCA光車両対トラックの区別。
+- **混雑URL**: /ガイド/インポート中国truck-saudi-saso/
+- H1 ホテル **: サウジアラビアに中国商業トラックをクリア:HSコードから始まり、一般的なプロセスからではなく
+- **主なキーワード**:輸入中国商業トラックサウジアラビアHSコードSABER ZATCA
+- **二次検索条件**:HS、SASOの証明書のタイプ トラック8701 8704 8705、サウジZATCAの税制商用車、ファサーの習慣によるSABERの技術的な規則 サウジアラビア、GCC LHDのトラックの証明、SABER PCoC SCoC車
+- **内部リンク提案**: /vehicles/shacman- x3000-dump-truck/; /vehicles/sinotruk-howo- t7h-tractor/; /guides/commercial-truck-fleet-procurement-china/
+- **画像提案**:HSコード対認証ルーティング図;SABER証明書タイプの決定ツリー;VINマッチドドキュメントセット;ZATCAライトバイリアックスコープ図
+- **ALT 提案**:「HSコードからSABER の技術的な規則に証明書のルーティング」;「サウジトラックの輸入のための証明書式決定」
 ## Why "One National Process" Is the Wrong Starting Point for a Truck
-Saudi market-access material is often written for passenger cars and light vehicles and then copied onto heavy commercial trucks. For a tractor, cargo truck, special-purpose vehicle or trailer that shortcut is unsafe: **the applicable technical regulation, the required certificate type and even the tariff line all depend on the exact HS code**, and they are not identical across headings. This guide is therefore built **HS-first**, and it is specific to **Saudi Arabia**, not a generic "Middle East" statement. A separate distinction is maintained throughout: durable, officially documented rules are stated as such, while unconfirmed 2026 dealer claims appear only on a watchlist.
-## Step 1 — Pin the Exact HS Code First
-Classify the unit to its **full subheading before** choosing any conformity route or tax figure:
-- **87.01** tractors (incl. road tractors for semi-trailers)
-- **87.04** motor vehicles for the transport of goods (dropside, box, dump/tipper, mixer chassis, etc.)
-- **87.05** special-purpose motor vehicles (mobile cranes, concrete pumps, sweepers, fire/rescue, workshop trucks)
-- **8716** trailers and semi-trailers (and certain non-self-propelled units)
-The subheading (not just the four-digit heading) matters: a tipper, a tractor unit and a mounted superstructure can sit in different codes with different obligations. Record the HS code on the pro forma and keep it consistent with the invoice description — every later step references it.
-## Step 2 — Map That HS Code to Its SABER Technical Regulation
-Saudi product/vehicle conformity runs through the national **SABER** platform, overseen by the **Saudi Standards, Metrology and Quality Organization (SASO)**; SABER connects importers, SASO-accredited conformity-assessment bodies and Saudi customs (official platform saber.sa; the US International Trade Administration describes the same architecture — VERIFIED). **Do not assume every commercial truck follows one regulation.** For the pinned HS code, identify on SABER (or via an accredited body, in writing) **which Saudi technical regulation(s) actually cover it** — a road tractor, a goods vehicle and a special-purpose superstructure can fall under different scopes, and mounted equipment may carry its own regulation.
-## Step 3 — Determine the Required Certificate Type for That Regulation
-The familiar SABER pair is:
-- **PCoC (Product Certificate of Conformity)** — model/product level against the applicable regulation, typically valid for a period and obtained **before shipment**;
-- **SCoC (Shipment Certificate of Conformity)** — **per shipment**, tied to the invoice and bill of lading.
-But PCoC→SCoC is the model for SABER-regulated products; it is **not safe to assume it is the uniform route for every commercial-vehicle HS line**. Depending on the heading/regulation, the requirement may instead involve a different **COC form, a quality-mark (QM) route, a supplier/self-declaration, or a vehicle-specific import procedure**. Determine the required certificate type **from the HS→regulation mapping in Step 2**, confirmed by an accredited body, rather than defaulting every truck to PCoC→SCoC.
-## Step 4 — Shipment and Customs (Fasah), With One VIN Master List
-Once the certificate route is known, clearance is lodged through Saudi customs' **Fasah** single window, and for SABER-regulated consignments the shipment certificate is tied to the invoice/B/L. Across whichever certificates apply, the invoice, packing list, B/L, certificate and chassis plate should be built from **one VIN/chassis-number master list** and re-checked before sailing — a mismatch between the certified model and the shipped unit is the most common avoidable hold-up. Saudi Arabia/GCC is **left-hand-drive (LHD)**, matching Chinese LHD trucks, but lighting, speedometer units and Arabic labelling still need to meet the applicable requirements.
-## ZATCA: the Light-Vehicle Figure Is Not the Truck Tariff
-Saudi tax/customs authority **ZATCA** publishes vehicle guidance and a calculator in which **5% customs duty and 15% VAT (VAT on the duty-inclusive value)** appear for the calculator's **applicable light-vehicle/passenger scope** (ZATCA public guidance, reported 2026; CROSS_CHECKED and **scope-limited to that light-vehicle category**). It must **not** be carried straight onto a commercial truck:
-1. classify the **exact HS code** (Step 1);
-2. read the **current ZATCA/GCC tariff line for that subheading** — goods-vehicle, tractor and special-purpose headings do not all share the passenger rate;
-3. apply **VAT to the applicable customs basis** for that code.
-This article therefore states **no truck duty percentage**: model duty and VAT together, HS-specific, from the current ZATCA line, and never from a freight blog or a passenger-car calculator.
-## Reported 2026 Changes That Are NOT Treated as Fact
-These appear in dealer/logistics material but could not be traced to saso.gov.sa / saber.sa, and sources disagree on dates/scope. They are **watchlist items to verify for your HS code, not requirements to quote**:
-- A claimed **mandatory "local" SASO type approval for newly imported heavy trucks** (foreign CE/ECE no longer accepted; Riyadh lab) — dealer notices give **conflicting dates** (28 Jul/1 Aug vs 1 Aug/1 Sep), which itself shows it is not yet a citable rule.
-- Claimed **ISO 22513-2 / RDI** and **ADAS-type approval** requirements with inconsistent dates.
-- A claimed **72-hour "green fast-track"** for Chinese NEV heavy trucks (single dealer source).
-- A claimed **carbon-tax pilot** touching special vehicles (single manufacturer source).
-Obtain the actual SASO/SABER notice (or accredited-body written confirmation **for the specific HS heading**) before relying on any of these.
-## Used and Specialised Commercial Vehicles
-Dealer guidance suggests used commercial units face age/odometer ceilings plus a **home-country deregistration certificate**, but model-specific limits were not captured from an official Saudi source — confirm them **for the HS heading** and obtain the deregistration document. For special-purpose units (87.05) and mounted bodies, request the conformity body's document list early, since the superstructure can add its own technical-regulation scope on top of the chassis.
-## What This Guide Recommends Beyond the Dealer Briefings
-Dealer notes blend a passenger-car process, durable rules and rumoured changes into one "Saudi truck procedure." The recommended HS-first method is to (1) fix the full HS subheading, (2) obtain the **HS→technical-regulation mapping in writing**, (3) confirm the **certificate type** that regulation actually requires instead of assuming PCoC→SCoC, (4) read the **current ZATCA tariff line for that code** rather than the light-vehicle 5%, and (5) keep a "reported vs officially confirmed" register for 2026 SASO changes so a plan is never built on a contradictory dealer date.
-## Operating Sequence (HS-first)
-1. Classify the full HS subheading (87.01 / 87.04 / 87.05 / 8716 + code) and align it to the invoice description.
-2. On SABER / via an accredited body, identify the technical regulation(s) for that code — in writing.
-3. Determine the required certificate type (PCoC/SCoC, other COC/QM, declaration, or vehicle-specific process) for that regulation.
-4. Prepare one VIN master list; align invoice, packing list, B/L, certificate(s) and chassis plate.
-5. Read the current ZATCA tariff line for the exact code; model duty + VAT on the applicable customs basis.
-6. Lodge through Fasah; in parallel, obtain written confirmation of any 2026 local-approval/RDI/ADAS rule **for the HS heading**, treating an unverified "yes" as a watchlist item.
-7. For used/specialised units, confirm age/mileage limits, deregistration paperwork and mounted-equipment scope.
-## Before Payment — Hold Until Documented
-- Exact HS subheading fixed and used consistently.
-- HS→technical-regulation mapping and required certificate type confirmed **in writing by an accredited body** (no assumed uniform PCoC→SCoC).
-- ZATCA tariff line read **for that code**; VAT applied to the applicable customs basis (no borrowed light-vehicle 5%).
-- VIN-consistent document set drafted against one master list.
-- Any claimed 2026 rule supported by an official SASO/ZATCA document for the heading — otherwise excluded from the plan.
-## Frequently Asked Questions
-**Do all Chinese trucks use SABER PCoC then SCoC?** Not automatically. Pin the HS code first, map it to its technical regulation, and confirm the certificate type — some commercial/special headings use a different COC/QM, declaration or vehicle-specific process.
-**What duty and VAT does a commercial truck pay?** The often-quoted 5% + 15% comes from ZATCA's light-vehicle scope; a truck needs its exact HS tariff line and the applicable VAT basis — this article does not state a truck rate.
-**Where do I start — SABER or customs?** Start with the HS subheading, then the SABER regulation/certificate mapping; Fasah customs comes after the correct certificate route is known.
-**Did Saudi stop accepting CE/ECE for heavy trucks in 2026?** Dealer claims conflict on dates and lack a SASO primary source; verify officially for the HS heading before relying on them.
-**What is the most common clearance failure?** VIN/certificate/invoice mismatch; one VIN master list across all documents prevents it.
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
-- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- ALT by language:
+サウジアラビア市場アクセス材料は、旅客車や軽自動車のために頻繁に書かれており、重度の商用トラックにコピーされます。 トラクター、貨物トラック、特殊車両、またはショートカットが安全であるトレーラーの場合:**該当する技術規制、必要な証明書の種類、および関税ラインはすべて、正確なHSコードに依存します**、およびそれらは見出し間で同一ではありません。 そのため、このガイドは**HS-first**をビルドし、**Saudi Arabia**に固有のもので、一般的な「Middle East」ステートメントではありません。 独立した区別は、全体的に維持されます。耐久性、正式に文書化された規則は、そのようなように書かれていますが、未確認の2026ディーラーの主張は時計台にのみ表示されます。
+## ステップ1 — 正確なHSコードを最初にピン
+ユニットを** 適合ルートまたは税額の図を選択する前に、** に分類します。
+- 87.01 ** トラクター(セミトレーラー用道路トラクターを含む)
+- ** 87.04 ** 貨物(下、箱、ダンプ/先を細くする、ミキサーのシャーシ、等)の輸送のためのモーター車
+- ** 87.05 ** 特別な目的のモーター車(移動式クレーン、具体的なポンプ、掃除人、火/rescueの研修会のトラック)
+- ** 8716 ** トレーラーおよび半トレーラー(および特定の非自己推進単位)
+The subheading (not just the four-digit heading) matters: ダンプカー、トラクターユニット、マウントされたスーパー構造は、異なる義務を持つ異なるコードに座ることができます。 プロの forma で HS コードを録音し、請求書の説明と一致して保持します。後続のステップは参照します。
+## ステップ2 - HSコードをSABERテクニカルレギュレーションにマップ
+サウジアラビア製品/車両適合性は、国民の**SABER**プラットフォームを介して実行され、**Saudi Standards、Metrology、Quality Organization(SASO)**によって監督されています。 SABERは輸入業者、SASO認定適合性評価機関およびサウジアラビア税関(公式プラットフォームsaber.sa)を接続します。 米国国際貿易管理は、同じアーキテクチャーをVERIFIEDと記述しています。 **Do not assume every commercial truck follows one regulation.** For the pinned HS code, SABER(または認定されたボディを介して)で識別します。 執筆中) サウジアラビアの技術的な規制が実際にそれをカバーする** — 道路トラクター、 商品車両  and  特別な目的の上部構造は異なった規模の下で落ちることができます、  and  マウント装置は、独自の規制を運ぶことができる。
+## ステップ3 — その規則に必要な証明書の種類を決定します
+親しみやすいSABERのペアは次のとおりです。
+- **PCoC (適合性製品証明書)** — 該当する規則に対するモデル/製品レベル、通常期間有効で、**出荷前に取得される。**
+- **SCoC (Shipment Certificate of Conformity)** — **per shipment**, 請求書に縛られた  and  敷きの手形。
+しかし、PCoC→SCoCはSABER規制製品のためのモデルです。それは**すべての商用車HSラインの均一なルートであると仮定する安全ではありません。** 見出し/規制によっては、要件は、代わりに異なる** COCフォーム、品質マーク(QM)ルート、サプライヤー/自己宣言、または車両固有のインポート手順を含む場合があります**。 必須の証明書タイプを決定します。**ステップ2のHS→規制マッピングから、認定されたボディで確認された、ではなく、PCoC→SCoCにすべてのトラックをデフォルトで確認します。
+## ステップ4 — 出荷と税関(ファサー)、ワンVINマスターリスト付き
+証明書のルートが知られると、クリアランスはサウジアラビアの税関を通過する **Fasah** シングルウィンドウ、SABER で規定する出荷証明書は、請求書/B/L に結び付けられます。 どの証明書も適用します、 請求書, パッキング リスト, 日 時 分 証明書  and  シャーシプレートは、**one VIN/chassis-number master list*からビルドする必要があります ふりがな  and  セーリング前に再チェック — 認証モデル間の不一致  and  出荷された単位は最も頻繁に避けられる把握です。 サウジアラビア/GCCは、中国LHDトラックにマッチする、左手ドライブ(LHD)**ですが、照明、速度計ユニット、アラビアラベルリングは、適用要件を満たす必要があります。
+## ZATCA: 軽車両図はトラックの関税ではありません
+サウジアラビアの税/税関当局 **ZATCA**は、車両の誘導と計算機を発行します** 5%の関税と15%のVAT(義務込み値のVAT)**は、電卓の**適用可能な光車/旅客スコープ**(ZATCAの公共のガイダンス、報告された2026、CROSS_CHECKEDおよび**スコープが、その光車両カテゴリに制限**)表示されます。 商用トラックにまっすぐに運ぶ必要があります**:
+1. **exact HS コード** (ステップ1);
+2. サブヘッディングの**現在のZATCA / GCC関税線を読みます。商品車両、トラクター、および特別な目的の見出しは、乗客の料金を一切共有しません。
+3. 該当する税関に**VATをそのコードに適用します。
+この記事は、したがって、**トラックの義務のパーセンテージなし*:モデルデューティーとVAT、現在のZATCAラインから、HS固有の、貨物ブログや乗用車電卓から決して。
+## 報告済み 2026 事実として扱われない変更
+ディーラー/物流の素材に表示されているが、saso.gov.sa / saber.saに追跡できず、日付/スコープに不一致のソース。 彼らは**あなたのHSコードを検証するための時計リスト項目です。引用する要件ではありません**:
+- 新規輸入大型トラックの「ローカル」SASOタイプ承認を主張しました**(Center/ECEはもはや受け入れられません。リヤドラボ) — ディーラーの通知は、**(28 Jul/1 Aug vs 1 Aug/ 1 Sep)**を告白する** (それ自体は、まだ引用可能な規則ではありません)。
+- 請求**ISO 22513-2 / RDI**と**ADASタイプの承認** 矛盾した日付の要件。
+- 中国のNEVの大型トラック(単一ディーラーのソース)のための主張された** 72-hour "緑色の高速トラック"**。
+- 要求される**carbon-tax Pilot**の接触の特別な車(単一の製造業者の源)。
+上記のいずれかに依存する前に、実際のSASO/SABER通知(または認定された人による書面による確認 **特定のHS見出し**)を入手してください。
+## 中古車・特殊商用車
+ディーラーのガイダンスは、商用ユニットが年齢/湿度計の天井に直面していることを示唆しています**ホームカントリーの規制証明書**が、モデル固有の限界は公式のサウジアラビアのソースからキャプチャされていない - HSの見出し**と規制文書を入手するためにそれらを確認してください。 特殊用途ユニット(87.05)と取り付けられたボディは、初期の適合体のドキュメントリストを要求します。スーパー構造は、独自の技術規制範囲をシャーシの上に追加することができます。
+## ディーラーのブリーフィングを超えてこのガイドが推奨するもの
+ディーラーノートは、乗用車プロセスをブレンドします。 耐久性のあるルール  and  噂が「サウディトラックの手順」に変わります。 HS-first の推奨方法は、(1) 完全な HS サブヘッドを固定することです。 (2)**HS→技術規制マッピングを書いている**を取得 (3) 実際にPCoC→SCoCを仮定するの代りに要求する**certificateのタイプ**を、確認して下さい  (4) read the **current ZATCA tariff line for that code** rather than the light-vehicle 5%,  and  (5)「再発行された対正確認」を2026 SASO変更にしておくと、矛盾するディーラーの日付に計画が構築されていない。
+## 動作シーケンス(HS-first)
+1. 完全なHSサブヘッド(87.01 / 87.04 / 87.05 / 8716 +コード)を分類し、請求書の説明に整列します。
+2. SABER/認定ボディを介して、そのコードの技術的な規制を識別します。
+3. 必要な証明書の種類(PCoC/SCoC、その他のCOC/QM、宣言、または車両固有のプロセス)を規制に決定します。
+4. Prepare one VIN master list; 請求書、梱包リスト、B/L、証明書(s)、およびシャシプレートを揃えます。
+5. 正確なコードの現在のZATCAの関税線を読みます。 該当する税関に基づいてモデルデューティ+税。
+6. ファサーを通り抜ける。並列で、2026のローカル承認/RDI/ADAS規則の書面による確認を得る。HS見出し**の場合には、時計リスト項目として統一された「はい」を扱います。
+7. 中古・特殊ユニットは、年齢・マイレージ制限、委任状書、取付式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書式書
+## お支払いの前に — 文書化まで保持
+- 固定された、そして一貫して使用される厳密なHSのサブヘッド。
+- HS→技術調整マッピングと必要な証明書タイプが確認済み**認定ボディによる書面で**(想定される均一PCoC→SCoC)。
+- ZATCAの関税線は、そのコード**のために**を読みます。 適用される税関に適用されるVAT(借りられた光車5%なし)。
+- ワンマスターリストに対して作成されるVIN-consistent文書。
+- 見出しの公式SASO/ZATCA文書がサポートする請求された2026ルール - それ以外の場合は、計画から除外されます。
+## よくある質問
+**中国全車はSABER PCoCを、SCoC使用しましたか。** 自動的にない。 HSコードを最初にピンで止め、技術的な規則にそれをマップし、証明書の種類を確認します。一部の商用/特殊見出しは、異なるCOC / QM、宣言または車両固有のプロセスを使用します。
+**商用車は、どのような義務とVATが支払うのですか?** 多くの場合、引用された5% + 15%は、ZATCAの軽車両スコープから来ています。トラックは、その正確なHSの関税ラインと適用可能なVATベースを必要とします。この記事はトラックレートを述べていません。
+**スタート地点 — 聖なるか、それとも税関?** HSサブヘッドで始まり、SABER規制/証明書マッピング;Fasah税関は正しい証明書のルートが知られている後に来ます。
+**2026の重トラックのためのセリウム/ECEを受け入れる土のサウジアラビアの停止か。** ディーラーは、日付に競合し、SASOの主流を欠如します。HSがそれらに依存する前に正式に確認します。
+**最も一般的なクリアランス障害とは?** VIN/certificate/インボイスの不一致; one VIN master list across all documents prevents it.
+## 映像の記録
+- IMAGE_ASSET_PATH:リポジトリで保護されていない
+- ORIGINAL_IMAGE_URL: キャプチャされていない
+- SOURCE_PAGE: キャプチャされていない
+- SOURCE_FILE_PAGE: 該当なし — 特定候補のメディアファイル (アサートするライセンスなし)
+- 権利_ホルダー:未確認
+- LICENSE_OR_USAGE_BASIS: 保護されていない — 権利がクリアされるまで、第三者の画像が公開されない
+- CHECKED_DATE: 2026-09-06(税抜き)
+- MODEL_TOPIC_MATCH: 上記の正確なモデル/バージョン(またはガイドトピック)と参照市場と一致しなければなりません
+- IMAGE_SCOPE_NOTE: 完全モデルファミリー/トピックのみにマッチします。特定のトリム/モデル年、実際のVIN、インパースペクションまたは実際の取引を暗黙的に行う必要はありません。
+- IMAGE_RIGHTS_STATUS: FAIL(ライセンス資産の収集、プレースホルダー、または「古い画像の保持」のメモは受け付けていません)
+- ブロック解除: 再使用可能なイメージが保護できません:Wikimedia Commons/Flickrは、研究環境から到達できないため、ストックライブラリは認証されたAPI/ライセンスアクセスを必要とし、OEMページイメージは商用再利用の付与ではありません。AutoBridgeが所有する写真は存在しません。 割礼ではなく、FAILを割り当てる。
+- 言語によるALT:
   - **EN**: AutoBridge export-buyer reference — Saudi commercial-truck import (SABER/ZATCA), vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Saudi commercial-truck import (SABER/ZATCA), guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — Saudi commercial-truck import (SABER/ZATCA), Leitfaden für Fahrzeugexport-Einkauf
@@ -87,20 +90,20 @@ Dealer notes blend a passenger-car process, durable rules and rumoured changes i
   - **AR**: مرجع AutoBridge لمشتري التصدير — Saudi commercial-truck import (SABER/ZATCA), دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Saudi commercial-truck import (SABER/ZATCA), 汽车出口采购指南
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts (and scope) |
+## ソースと検証
+| ソースタイトル | 組織図 | マーケット | ページの先頭へ | チェック済み | 自信の秘境 | 対応する事実(およびスコープ) |
 |---|---|---|---|---|---|---|
-| SABER official conformity platform | SASO / Thiqah (**government platform official**) | SA | https://saber.sa/ | 2026-09-03 | **VERIFIED** | SABER architecture; accredited-body issuance; PCoC/SCoC model for regulated products |
-| Saudi Arabia — Standards for Trade | US International Trade Administration (**government official**) | SA/US | https://www.trade.gov/country-commercial-guides/saudi-arabia-standards-trade | 2026-09-03 | **VERIFIED** | SABER connects importers/accredited bodies/customs |
-| ZATCA vehicle guidance/calculator (5% + 15%) — **light-vehicle scope only** | ZATCA via public reporting (primary: zatca.gov.sa) | SA | https://english.ajel.sa/news/f7sn5nj77 | 2026-09-03 | CROSS_CHECKED | 5%/15% for the calculator's applicable **light-vehicle** category; NOT asserted for truck HS headings |
-| HS headings 87.01/87.04/87.05/8716 | World Customs Organization HS nomenclature (**standards body**) | Global | https://www.wcoomd.org/ (HS Nomenclature) | 2026-09-03 | **VERIFIED** | Commercial-vehicle heading boundaries used for HS-first routing |
-| Reported SASO 2026 heavy-truck local-approval rule (conflicting dates) | SHACMAN Global (dealer) | SA | https://www.globalshacman.com/Saudi-Truck-Imports-Face-New-SASO-Local-Approval-Rule.html | 2026-09-03 | UNVERIFIED | Claim only; watchlist, not fact |
-| Reported ISO 22513-2/RDI mandate | SinotruckExp (dealer) | SA | https://www.sinotruckexp.com/news/policy/Policy_Regulations/Saudi_SASO_Mandates_ISO_22513_2_RDI_for_Heavy_Trucks_from_Aug_2026.html | 2026-09-03 | UNVERIFIED | Claim only; watchlist, not fact |
-*Confidence & scope Note(PRIMARY_SOURCE_SCOPE_MUST_MATCH): an official source covers only its stated scope. SABER's PCoC/SCoC model is VERIFIED for regulated products but is not assumed uniform across all commercial-vehicle HS lines; the ZATCA 5%/15% is confined to its light-vehicle scope and is not a Chinese-commercial-truck tariff. The HS→regulation→certificate mapping for a specific truck must be confirmed in writing by an accredited Saudi body. 2026 local-approval/RDI/ADAS/fast-track/carbon claims remain UNVERIFIED.*
-## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: Saudi Arabia / GCC (LHD), commercial vehicles by HS heading
-- **Verification method**: Official platform/government + WCO HS structure; certificate type and truck tariff left to HS-specific written confirmation; dealer claims withheld
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+| SABER公式コンフィギュレーションプラットフォーム | SASO / Thiqah(**governmentプラットフォーム公式**) | スタッフ | 以下は、 // saber.sa/ は、 | 2026-09-03 | **検証済み** | セイバーアーキテクチャ;認定ボディ発行; 規制製品のためのPCoC / SCoCモデル |
+| サウジアラビア — 貿易の基準 | 米国国際貿易管理(**政府公正**) | 営業/販売 | 以下は、 //www.trade.gov/country-commercial-guide/saudi-arabia-standards-trade/ | 2026-09-03 | **検証済み** | SABERは輸入業者/認定機関/顧客を接続します |
+| ZATCA車両案内/調度器(5% + 15%) — **軽車両スコープのみ** | 公的な報告によるZATCA(プライマリ:zatca.gov.sa) | スタッフ | 以下は、 // 日英.ajel.sa/news/ f7sn5nj77 | 2026-09-03 | CROSS_CHECKED(クロス) | 5% / 15% 電卓の該当する**ライト車両**カテゴリ; トラックHS見出しを主張しない |
+| HS 見出し 87.01/87.04/87.05/8716 | 世界税関機関HSの憲章(**標準体**) | 営業拠点 | https://www.wcoomd.org/ (HSのNomenclature) | 2026-09-03 | **検証済み** | HS-first ルーティングに使用される商用車見出し境界 |
+| SASO 2026 重負荷局承認規則(確認日) | SHACMAN Global(ディーラー) | スタッフ | 以下は、 //www.globalshacman.com/Saudi-Truck-Imports-Face-New-SASO-Local-Approval-Rule.html | 2026-09-03 | 免責事項 | クレームのみ; 時計リスト、実際には |
+| ISO 22513-2/RDI認証取得 | SinotruckExp (ディーラー) | スタッフ | 以下は、 //www.sinotruckexp.com/news/policy/Policy_Regulations/Saudi_SASO_Mandates_ISO_22513_2_RDI_for_Heavy_Trucks_from_Aug_2026.html の | 2026-09-03 | 免責事項 | クレームのみ; 時計リスト、実際には |
+※本投資法人は、公式のソースのみカバーする範囲(PRIMARY_SOURCE_SCOPE_MUST_MATCH):準拠およびスコープノート(PRIMARY_SOURCE_SCOPE_MUST_MATCH):。 SABERのPCoC/SCoCモデルは、規制製品に検証されていますが、すべての商用車HSラインに均一と仮定されていません。 ZATCA 5% / 15%は、その光車両スコープに合わせられ、中国人体的トラックの関税ではありません。 特定のトラックのHS→regulation→certificateマッピングは、認定されたサウジアラビアの体によって書面で確認する必要があります。 2026 ローカル承認/RDI/ADAS/fast-track/carbon の要求は残ります 免責事項 ふりがな
+## 編集レビュー
+- **著者/査読者**:【AutoBridge 輸出編集チーム】(/authors/)・方法による【編集ポリシー】(/editorial-policy/)
+- **最終審査**:2026-09-05
+- **参考市場**:サウジアラビア/GCC(LHD)、HS見出しによる商用車
+- **検証方法**: 公式サイト/政府+WCO HS構造; 証明書の種類とトラック関税はHS固有の書面による確認に残します。 ディーラーは、
+- ** 編集規格**: 上記情報源(デスクリサーチ、片手運転、涙流、輸入)から研究・執筆 ソースの自信は行ごとに示されます。 私たちが独立して確認できない点は、事実として主張するのではなく、検証項目として提示されます。
 #AutoBridge #ExportProcurement #SaudiImport #SABERCertification #CommercialTruck

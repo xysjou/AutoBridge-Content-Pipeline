@@ -1,66 +1,71 @@
-# Choosing Incoterms 2020 in Chinese Vehicle Export — Risk and Cost Allocation
+# انتقاء Incoterms 2020 في تصدير المركبات الصينية - المخاطر وتكاليف المخصصات
 
 ## SEO Metadata
-- **SEO Title**: Incoterms 2020 Selection Guide for Vehicle Export: FOB, CIF, FCA, CIP, DDP and More
-- **Meta Description**: Choose the right Incoterms 2020 rule for a vehicle shipment: where risk and cost transfer, sea-only versus multimodal terms, insurance under CIF/CIP, and why DDP maximises seller burden.
-- ** H1 **: Choosing Incoterms 2020 in Chinese Vehicle Export - Risk and Cost Allocation
-- **Primary Keyword**: incoterms 2020 selection guide
-- **Secondary Search Terms**: Incoterms 2020; FOB vs FCA; CIF vs CIP; DDP risk; multimodal term; risk transfer
-- **Suggested URL**: /guides/incoterms- 2020-selection-guide/
-- **Search Intent**: 汽车出口合同如何按运输方式选择Incoterms 2020术语、明确风险转移点与费用/保险责任
+- ** عنوان الحلقة**: Incoterms 2020 Selection Guide for Vehicle Export: FOB, CIF, FCA, CIP, DDP and More
+- ** وصف البيانات**: (ب) اختيار القاعدة الصحيحة البالغة 2020 لشحن المركبات: حيث تُحدّد المخاطر ونقل التكاليف، والمصطلحات البحرية فقط مقابل تعدد الوسائط، والتأمين بموجب اتفاقية استكهولم/الاتفاقية الدولية لحماية جميع الأشخاص من الاختفاء القسري، ولماذا يضاعف عبء البائع من عبء الديون.
+- ** H1 **** اختيار Incoterms 2020 في تصدير المركبات الصينية - المخاطر وتكاليف المخصصات
+- ** كلمة رئيسية**: incoterms 2020 selection guide
+- ** مصطلحات البحث الثانية**: المواد المخصصة للاختبارات الإلكترونية 2020؛ وFOB ضد FCA؛ و CIF ضد CIP؛ وخطر الأشخاص ذوي الإعاقة؛ ومصطلح متعدد الوسائط؛ ونقل المخاطر
+- ** اقتراح الاتحاد الأوروبي المعني بمكافحة العنف الجنسي: /المبادئ التوجيهية/الأغراض المحددة - 2020-selection-guide/
+- ** الحلقة الدراسية**: 汽车出口合同如何按运输方式选择 Incoterms 2020 术语 ku 明确风险转移点与费用 / 保险责任
 - ** Internal Link Suggestions**: /guides/export-payment-methods-t-t-lc-risk/, /guides/marine-cargo-insurance-insurance-history/, /guides/china-export-customs-declaration-single-window/
-- **Schema Scope**: Article (no Product/Offer/Review)
+- ** نطاق الشيمة**: المادة (لا منتج/منتج/مراجعة)
 
-## Start from transport mode, not habit
-Incoterms 2020 contains **eleven** rules divided into those for any mode of transport and those traditionally for sea/inland-waterway transport. In vehicle export the first choice is therefore whether the move is port-to-port ocean (RoRo/container) or multimodal (inland truck/rail plus sea, common for Central-Asia trucking). Picking a sea-only term for a multimodal move creates a gap in where risk passes.
+## بدءاً من طريقة النقل، وليس عادة
+وتتضمن المواد المحددة في العقد 2020 ** قواعد مقسمة إلى قواعد لأي وسيلة نقل أو قواعد تقليدية للنقل البحري/الداخلي - المجرى. وفي تصدير المركبات، يتمثل الخيار الأول في ما إذا كان الانتقال هو المحيط المتنقل إلى الميناء (الرقائق/المحتوى) أو متعدد الوسائط (الشاحنات الداخلية/الجر إلى البحر، المشتركة بين شاحنات آسيا الوسطى). إن اختيار فترة بحرية فقط للتحرك المتعدد الوسائط يخلق فجوة في المكان الذي يمر فيه الخطر.
 
-## Where risk actually transfers
-- ** FOB/FCA**: under FOB (sea/inland waterway) risk passes when goods are placed **on board** the vessel; under FCA (any mode) risk passes when the goods are handed to the buyer's carrier at the named place. For containerised and multimodal moves FCA is the cleaner fit because risk and control align with actual handover, rather than an on-board moment the seller does not control.
-- ** CFR/CPT and CIF/CIP**: the seller arranges and pays carriage to the destination, but **risk transfers earlier**, at shipment/handover — cost and risk are deliberately split, which surprises buyers who assume CIF means risk to destination.
-- **DAP/DPU/DDP**: these are arrival terms; the seller carries risk further. **DDP places the maximum obligation on the seller**, including import clearance, duties and taxes in the destination — for a Chinese vehicle exporter without a registered destination presence this is often impractical and compliance-heavy.
+## حيث المخاطر تتحول
+- ** / FCA**: تحت  FOB (Sea/inland waterway) يمر الخطر عندما توضع البضائع على اللوح ** وبالنسبة للحركات الحاوية والمتعددة الوسائط، فإن الأنيسول الخماسي الكلور هو الصلاحية الأنظف لأن المخاطرة والتحكم تتواءم مع التسليم الفعلي، بدلا من لحظة على متن السفينة لا يتحكم فيها البائع.
+- **CFR/CPT and CIF/CIP**: يرتب البائع ويدفع النقل إلى الوجهة، ولكن ** عمليات النقل المجازفة في وقت سابق**، عند الشحن/النقل - تقسم التكاليف والمخاطر عمدا، مما يفاجئ المشترين الذين يفترضون أن الصندوق يعني خطر الوصول إلى الوجهة.
+- **DAP/DPU/DDP**: هذه شروط الوصول؛ ويتحمل البائع مخاطر أكبر. ** يضع برنامج التنمية البشرية الالتزام الأقصى على البائع**، بما في ذلك ترخيص الاستيراد والرسوم والضرائب في المقصد - بالنسبة لمصدر مركبات صينية بدون وجود مقصد مسجل، كثيرا ما يكون هذا غير عملي وقاسي للامتثال.
 
-## Insurance note for CIF and CIP
-Under CIF the seller arranges minimum-cover marine insurance for the buyer's benefit; under CIP the default is a **higher** level of cover (subject to the rule and any agreed variation). Precise insured amount and clauses are agreed in the contract/policy — this guide does not reproduce the ICC A1–A10 texts, which remain the copyrighted ICC publication linked below, and it quotes no freight or premium.
+## مذكرة تأمين للمؤسسة الدولية للتضامن مع الأطفال
+وبموجب قانون الجمارك وحماية الحدود، يرتب البائع تأميناً بحرياً سرياً دنياً لمصلحة المشتري؛ وبموجب قانون الجمارك وحماية الحدود، يكون التخلف عن السداد أعلى مستوى من التغطية (رهناً بالقاعدة وأي تغيير متفق عليه). ويتفق على مبلغ وشروط مؤمنة على الوجه الصحيح في العقد/السياسة - ولا يستنسخ هذا الدليل نصوص المحكمة الجنائية الدولية البالغ عددها A1–A10، التي تظل المنشور الذي أصدرته المحكمة الجنائية الدولية والمتصلة أدناه، ولا يقتبس أي شحن أو أقساط.
 
-## A selection path for vehicle orders
-1. Identify the transport chain: pure ocean versus multimodal.
-2. Match the term to who controls the main carriage and who can insure/clear most reliably.
-3. Align the term with the payment method (document flow under L/C must match the Incoterm).
-4. Avoid DDP unless the seller can lawfully handle destination import, duty and VAT/GST.
-5. State the named place/port precisely — a term without a precise point is a dispute waiting to happen.
+## مسار اختيار أوامر المركبات
+1. تحديد سلسلة النقل: المحيط النقي مقابل متعدد الوسائط.
+2. استوعب المصطلح لمن يتحكم بالنقل الرئيسي والذي يمكنه أن يتأكد من أنه غير موثوق به
+3. (ج) أن يُحذّر المصطلح بأسلوب الدفع (يجب أن يطابق تدفق الوثائق تحت العنوان L/C المصطلح " Incoterm ").
+4. تجنب الـ دي دي دي دي دي دي دي إلّا إذا كان بوسع البائع أن يتعامل بصورة قانونية مع استيراد الوجهة، والواجب، وضد القيمة المضافة/الأفضلية.
+5. الدولة التي يُسمى بها المكان/البورت بالتحديد - إن المصطلح الذي لا يوجد فيه نقطة محددة هو نزاع ينتظر أن يحدث.
 
 ## FAQ
-**FOB or FCA for a container?** FCA generally fits containerised/multimodal moves better than FOB.
-**Does CIF mean the seller bears risk to destination?** No — risk passes at shipment even though the seller pays carriage/insurance to destination.
-**CIF versus CIP cover?** CIP defaults to a higher insurance level than CIF, subject to agreement.
-**Why is DDP risky for a Chinese exporter?** It makes the seller responsible for destination import clearance, duties and taxes.
-**How many Incoterms 2020 rules?** Eleven, in two transport-mode groups.
+**FOB أو FCA for a container?** وتُعدّ وكالة مكافحة الفساد المميتة عموماً عمليات نقل الحاويات/النقل المتعدد الوسائط أفضل من عمليات الحرق.
+** هل تعني مؤسسة سي إف أن البائع يتحمل المخاطرة في الوجهة؟** لا - المخاطرة تنتقل عند الشحن حتى وإن دفع البائع النقل/التأمين إلى الوجهة.
+** CIF مقابل غطاء CIP**؟ وتتخلف شركة سي بي عن دفع مستوى تأمين أعلى من مستوى التأمين ضد الشركة، رهناً بالاتفاق.
+** لماذا خطر التشرد الداخلي على مصدِّر صيني؟** وهو يجعل البائع مسؤولا عن تصاريح الاستيراد والرسوم والضرائب في المقصد.
+** كم عدد القواعد المحددة المدة البالغ 2020؟** أحد عشر، في مجموعتين للنقل
 
 
-## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
+## المصدر: التحقق
+| المصدر | المنظمة | السوق | النمور | الثقة | URL | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
-| 国际贸易术语图文精讲（Incoterms2020共11种/两大类） | 中国贸促会广西分会 | CN | T1 | VERIFIED | https://www.ccpitgx.org/webcpitgx/2025/rcepjiedu_0624/15195.html | 11术语, 按运输方式分类, 风险费用划分 |
-| 2020国际贸易术语详解（FOB风险点改为装上船） | 浙江省贸促会 | CN | T1 | VERIFIED | http://www.ccpitzj.gov.cn/art/2020/8/17/art_1229557691_11515.html | FOB/CFR/CIF, 船舷→装上船 |
-| 跨境电子商务贸易术语（风险转移教材） | 清华大学出版社 | CN | T3 | CROSS_CHECKED | https://www.tup.tsinghua.edu.cn/upload/books/yz/095136-01.pdf | 风险转移, 象征性交货 |
-| Incoterms 2020 rules (ICC) | International Chamber of Commerce | CN | T1 | VERIFIED | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-rules-2020/ | authoritative publisher of Incoterms 2020 |
-| WCO Origin instruments and tools | World Customs Organization | CN | T1 | VERIFIED | https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx | rules-of-origin framework and instruments maintained by WCO |
-## Editorial Review
+| 国际贸易术语图文精讲（Incoterms2020共11种/两大类） | 中国贸促会广西分会 | CN | T1 | مفقود | https://www.ccpitgx.org/webcpitgx/2025/rcepjiedu_0624/15195.html | 11 术语, 按运输方式分类, 风险费用划分 |
+| 2020国际贸易术语详解（FOB风险点改为装上船） | 浙江省贸促会 | CN | T1 | مفقود | http://www.ccpitzj.gov.cn/art/2020/8/17/art_1229557691_11515.html | FOB/CFR/CIF, 船舷 → 装上船 |
+| 跨境电子商务贸易术语（风险转移教材） | 清华大学出版社 | CN | T3 | صرخات | https://www.tup.tsinghua.edu.cn/upload/books/yz/095136-01.pdf | 风险转移, 象征性交货 |
+| Incoterms 2020 rules (ICC) | غرفة التجارة الدولية | CN | T1 | مفقود | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-rules-2020/ | authoritative publisher of Incoterms 2020 |
+| الأدوات والأدوات الأصلية للمنظمة العالمية للجمارك | منظمة الجمارك العالمية | CN | T1 | مفقود | https://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx | إطار وقواعد المنشأ والصكوك التي تحتفظ بها المنظمة العالمية للجمارك |
+| ICC Rules (Incoterms 2020 rule owner — dedicated page) | غرفة التجارة الدولية | INT | T1/T2 | مفقود | https://iccwbo.org/business-solutions/icc-rules/ | مؤشر قواعد المحكمة الجنائية الدولية الصلاحية الذي يؤكد أن المادة 2020 من القانون الدولي هي المصطلح الحالي الذي يُمنح حقوقاً في النسخ، وأن تُبقي عليها المحكمة الجنائية الدولية |
+| FIATA -شحن البضائع في إطار Incoterms | الاتحاد الدولي لرابطات مشرفي الشحن | INT | T1/T2 | مفقود | https://www.fiata.org/ | التفسير المباشر لنقطة التسليم، والتزامات نقل المخاطر والنقل بموجب Incoterms |
+## استعراض التحرير
 - ** Author**: AutoBridge Export Editorial Team · [authors](/authors) · [Editorial Policy](editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: INT（国际商会规则框架）
-- **Verification method**: Desk research against the sources below; Chinese-market reference specification only unless a separate export market is explicitly cited.
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
+- ** لم يُستعرض بعد**: 2026-09-05
+- ** سوق الإحالة**: INT(国际商会规则框架)
+- ** طريقة الفرز**: بحوث مكتبية ضد المصادر الواردة أدناه؛ والمواصفات المرجعية للسوق الصينية فقط ما لم يُستشهد صراحة بسوق تصدير منفصلة.
+- ** الشفافية**: استُخدمت الصياغة المدعومة من منظمة العفو الدولية. وتستند هذه المادة إلى البحوث المكتبية وآلية الجودة. ولا يُزعم إجراء أي اختبار مباشر إلا إذا تم توثيقه بشكل صريح؛ ويؤكد متطلبات مراعية للوقت ومحددة للمقصد قبل التحول.
 
-## Image Record
-- ** none secured in repository
-- ** not captured
-- **SOURCE_PAGE**: not captured
-- ** unconfirmed
-- ** none secured — OEM webpage presence is not a commercial reuse licence
-- ** CHECKED_DATE**: 2026-09-05
+## سجل الصور
+- ** لم يُكفل أي شيء في مستودع
+- ** غير مسبوقة **
+- ** الموارد: لم يُقبض عليها
+- ** المصدر: الدليل: لا ينطبق - لم يحدد أي ملف إعلامي مرشح (لا رخصة للتأكيد)
+- ** مسلسل هولدر**: غير مؤكد
+- ** لا يوجد أي من هذه الصفحات مضمونة - ليس من حق المنظمة الحصول على ترخيص تجاري لإعادة الاستخدام
+- ** CHECKED_DATE**: 2026-09-06
 - ** exact Choosing Incoterms 2020 in Chinese Vehicle Export
+- ** MEIMAGE_SCOPE_NOTE**: يجب أن تتطابق الصورة مع النموذج المحدد للأسرة/المنظر فقط؛ ويجب ألا تنطوي على ثلاثية محددة، أو سنة نموذجية، أو تفتيش فعلي، أو عملية فعلية
 - **MAGE_Rights_STATUS**: FAIL
+- ** BLOCK_REASON**: لا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: لا يمكن الوصول إلى الشائعات/الفلك من بيئة البحوث، ولا تحتاج مكتبات المخزون إلى الوصول إلى نظام تسجيل الدخول/الرخصة الموثق، وصورة الموقع الشبكي لمنظمة أوم ليست منحة إعادة استخدام تجارية. لا توجد صورة مملوكة لـ(أوتومبريدج) وظل التسجيل في القوات المسلحة الفلسطينية بدلا من التأكيد عليه.
 - **ALT (12 languages)**:
   - **EN**: Incoterms selection, Chinese-market procurement guide export buyer reference
   - **FR**: Incoterms selection, procurement guide du marché chinois, référence acheteur export

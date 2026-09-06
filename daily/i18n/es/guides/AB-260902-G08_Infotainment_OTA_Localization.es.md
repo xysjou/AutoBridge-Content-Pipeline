@@ -3,7 +3,7 @@
 - **SEO Título**: Chinese-Car Infotainment " OTA Abroad: a Per-VIN Guía de verificación
 - **Meta Descripción**: ¿Un equipo de cabeza de China-spec trabajará en su mercado? Verifique el idioma de la interfaz de usuario, mapas locales, espejos telefónicos, capacidad de aplicación y OTA en el VIN real, con hechos específicos de marca mantenidos separados de los ejemplos de la industria.
 - ** URL agregada**: /guides/chinese-car-infotainment-ota-localization/
-- ** H1 **: Hacer que el software de un coche chino funcione en su mercado: Qué probar en el coche real
+- ** H1 **: Hacer que un coche chino trabaje en su mercado: Qué probar en el coche real
 - **Primary Keyword**: China coche infotainment Inglés OTA localización en el extranjero por VIN
 - **Secondary Search Terms**: Unidad cabezal China-spechular Español UI, BYD DiLink en el extranjero, mapas chinos EV en el extranjero, CarPlay Android Auto Chino coche, OTA región servidor, árabe RTL HMI, desarrollo de software de exportación
 - **Sugerencias internas**: /guides/chinese-ev-charging-standard-compatibilidad/; /guides/right-drive-chinese-cars/; /guides/verify-china-car-export-supplier/
@@ -24,11 +24,11 @@ El material de marca cruzada de este artículo tiene un techo duro: **Las cinco 
 ## Los cinco puntos de falla — prueba cada uno en el VIN real
 | Check | Lo que significa "trabajadores" | Problema típico de China-especie | Tipo de prueba |
 |---|---|---|---|
-| ** Lenguaje de la interfaz de usuario 1.** | Lenguaje de destino estable en todos los menús, advertencias, voz | Traducción de máquina solo o parcial con errores de diseño | Prueba por VIN |
+| ** 1. UI language** | Lenguaje de destino estable en todos los menús, advertencias, voz | Traducción de máquina solo o parcial con errores de diseño | Prueba por VIN |
 | ** 2. Navegación/mapas** | Mapas callejeros locales y, para EVs, datos locales de cargador | China mapas solamente; no hay datos locales POI/cargar | Prueba por VIN |
-| ** 3. Espejo de teléfono** | Juego de coches fiable / Android Auto | Absent, unstable or region-locked | Prueba por VIN; varía según marca/trim |
+| ** 3. El teléfono es un espejo** | Juego de coches fiable / Android Auto | Absent, unstable or region-locked | Prueba por VIN; varía según marca/trim |
 | ** 4. Propietario de la aplicación " servidor de cuenta "** | Aplicar localmente; nube accesible en el extranjero | Aplicar no disponible localmente; cuenta/servidor bloqueado a China | Marca específica — confirme con la marca |
-| ** 5. OTA** | OTA endpoint alcanzable; actualizaciones instaladas desde el extranjero | Endpoint inalcanzable, coche congelado en la antigua construcción | Marca/VIN específica |
+| * 5. OTA* | OTA endpoint alcanzable; actualizaciones instaladas desde el extranjero | Endpoint inalcanzable, coche congelado en la antigua construcción | Marca/VIN específica |
 Para ** scripts de derecha a izquierda (Arabic)**, la localización adecuada necesita gramática RTL/layout, no sólo traducción; una unidad "capacable en inglés" no es automáticamente lista para árabe.
 ## Solución Hierarquía (mejor para último recurso)
 1. **Construir software de conversión de exportación rápida (preferido).** Exportar y construir en el hogar funcionan diferentes pilas — un * ejemplo de industria* es una construcción europea Denza Z de Android Automotive con Google incorporado contra una cabina autodesarrollada doméstica; esto ilustra la distinción, no promete lo mismo para otros modelos. Preferir la exportación construir y confirmarlo **por VIN**.
@@ -36,7 +36,7 @@ Para ** scripts de derecha a izquierda (Arabic)**, la localización adecuada nec
 3. ** Localización profesional y segura de garantía** donde la marca lo apoya, documentada.
 4. Evitar "flashing" no autorizado. El recortamiento de los mercados puede anular la garantía y el conflicto con las normas de cumplimiento de la radio/software; su legalidad no fue confirmada de una fuente oficial. Tratar "podemos romperlo al inglés" como una bandera de riesgo.
 ## La reclamación "Inglés-HMI para la inspección de las exportaciones" - No Reglamento estable
-Una fuente de la industria sugiere que la inspección de exportación 2026 puede requerir imágenes de pantalla de IMC en inglés. Esto es **industria-únicamente y no fue confirmado contra un documento oficial de aduanas/MOFCOM**, por lo que no se declara como un requisito. No obstante, es prudente mantener la evidencia de la interfase inglesa en el archivo de exportación.
+Una fuente de la industria sugiere que la inspección de exportación de 2026 puede requerir capturas de pantalla de IMC en inglés. Esto es **industria-únicamente y no fue confirmado contra un documento oficial de aduanas/MOFCOM**, por lo que no se declara como un requisito. No obstante, es prudente mantener la evidencia de la interfase inglesa en el archivo de exportación.
 ## Per-VIN Prueba de aceptación (corrido antes de la entrega)
 En el **actual VIN**, idealmente en un SIM/Wi-Fi de la red de destino:
 - Ciclo cada menú/aprendizaje en el idioma objetivo; capturar áreas no traducidas.
@@ -58,11 +58,14 @@ Los proveedores de localización tienen un incentivo para decir que cada problem
 - IMAGE_ASSET_PATH: ninguno asegurado en repositorio
 - ORIGINAL_IMAGE_URL: no capturado
 - SOURCE_PAGE: no capturado
+- SOURCE_FILE_PAGE: no aplicable — ningún archivo de medios de comunicación candidato identificado (sin licencia para afirmar)
 - RIGHTS_HOLDER: unconfirmed
 - LICENSE_OR_USAGE_BASIS: ninguna garantizada, ninguna imagen de terceros puede ser publicada hasta que se despejen los derechos
-- CHECKED_DATE: 2026-09-05
+- CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: debe coincidir con el modelo/versión exacto (o el tema guía) y el mercado de referencia por encima
+- IMAGE_SCOPE_NOTE: se corresponde con el modelo exacto familia/topic solamente; no debe implicar un trím o modelo específico, VIN real, inspección en persona o transacción real
 - IMAGE_RIGHTS_STATUS: FAIL (no se acepta ningún activo con licencia; no se acepta un titular de posición o “retiene la imagen antigua”)
+- BLOCK_REASON: No se puede asegurar una imagen reutilizable: Wikimedia Commons/Flickr no son accesibles desde el entorno de investigación, las bibliotecas de stock requieren acceso a API/licencia autenticada, y una imagen de página web OEM NO es una subvención comercial de reutilización; no existe foto de propiedad de AutoBridge. Se quedó con la FAIL en lugar de afirmarse.
 - ALT por idioma:
   - **EN**: AutoBridge export-buyer reference — Chinese-car infotainment and OTA localization, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Chinese-car infotainment and OTA localization, guide d’achat à l’export automobile
@@ -84,9 +87,9 @@ Los proveedores de localización tienen un incentivo para decir que cada problem
 | BYD Sea Lion 07 Caso de localización de Ucrania | NEV Fix (servicio de localización) | CN→multi | https://nevfix.net/blog/byd-sealion-07-ukraine-localization-case.html | 2026-09-02 | SINGLE_SOURCE | ** Ejemplo específico de la marca**: problemas solo en China; interruptor de inglés de cuenta BYD (re-confirme por modelo) |
 | Denza Z European Google/Gemini vs cabina doméstica | Xueqiu (libertad de recitación) | CN→EU | https://xueqiu.com/9837237227/399831947 | 2026-09-02 | SINGLE_SOURCE | **Ejemplo** de la pila nacional de exportación vs (no universal) |
 | Lista de verificación de software de VIN | StarVia Auto (servicio de exportación) | CN→Global | https://www.starviaauto.com/en/blog/making-chinese-ev-software-work-locally | 2026-09-02 | SINGLE_SOURCE | Método de aceptación de cinco comprobaciones |
-| Normas de exportación multilingües/RTL | CCID 赛迪 / Neusoft OneCoreGo coverage (industry media) | Global | http://www.ccidnet.com/hlw/93237.jhtml | 2026-09-02 | SINGLE_SOURCE | Revisión de la distribución RTL/Arabic |
-| China coche OS versión en inglés B2B Guía de exportación | Electric Auto China | CN | https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-chinese-car-os-english-version/ | 2026-09-02 | SINGLE_SOURCE | 英文 HMI、刷机成本（行业口径，待官方核验） |
-| 中国汽车出海，智能化为何"水土不服" | 汽车之家·车家号 | CN | https://chejiahao.m.autohome.com.cn/info/26145241?isfrom=pc | 2026-09-02 | SINGLE_SOURCE | 海外用户 UI 翻译/手机互联问题 |
+| Normas de exportación multilingües/RTL | CCID 赛迪 / Neusoft OneCore Go coverage (industry media) | Global | http://www.ccidnet.com/hlw/93237.jhtml | 2026-09-02 | SINGLE_SOURCE | Revisión de la distribución RTL/Arabic |
+| China Carro OS versión B2B Guía de exportación | Electric Auto China | CN | https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-chinese-car-os-english-version/ | 2026-09-02 | SINGLE_SOURCE | 英文 HMI, 刷机成本 (行业口径, 待官方核验) |
+| 中国汽车出海, 智能化为何 " 水土不服 " | 汽车之家 · 车家号 | CN | https://chejiahao.m.autohome.com.cn/info/26145241?isfrom=pc | 2026-09-02 | SINGLE_SOURCE | 海外用户 UI 翻译 / 手机互联问题 |
 
 * Nota de confianza: todo el material citado es industria/servicio/medios y se utiliza como ilustración de patrones o casos de marca única, nunca como prueba de que todos los vehículos chinos comparten el comportamiento. Las listas de idiomas de exportación por marca, la política de registro del servidor OTA y la reclamación de inspección "HMI Inglés obligatorio" no fueron confirmadas por un regulador primario y deben ser establecidas en el canal de ultramar de la marca para el VIN específico. *
 ## Revisión editorial

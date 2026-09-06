@@ -1,72 +1,78 @@
-# Export Compliance and Sanctions Screening for Chinese Vehicle Exporters
+# ส่งออกคอมโพเนนท์และเครื่องแสดงความถี่สําหรับโปรแกรมส่งออกรถจีน
 
-## SEO Metadata
-- **SEO Title**: Export Compliance & Sanctions Screening for Vehicle Exporters: End-User, Dual-Use and Restricted Lists
-- **Meta Description**: A Chinese vehicle-export compliance baseline: end-user/end-use controls, dual-use screening, restricted/denied-party lists, the five-year record duty, and why restricted parties must not be served.
-- ~ H1~: Export Compliance and Sanctions Screening for Chinese Vehicle Exporters
-- **Primary Keyword**: export compliance sanctions screening end user
-- **Secondary Search Terms**: export control; sanctions screening; end-user statement; denied party; dual-use; restricted list
-- **Suggested URL**: /guides/export-compliance-sanctions-screening-end-user/
-- **Search Intent**: 汽车出口如何做最终用户/最终用途尽调、管控/关注名单与境外制裁名单筛查，规避出口管制与制裁风险
-- **Internal Link Suggestions**: / guides/export-tedment-methods-t-lc-win/// guides/ chinish-car-export-support-history///// guides-export-compresss-c. screen-end-ser/
-- ~Schema Scope~: Article (no Product/Offer/Review)
+## เชา ข้อมูลกํากับภาพ
+- < secontinuation & Santcansfers หน้าจอสําหรับโปรแกรมส่งออกของบริการ MTP: ผู้ใช้สิ้นสุด, ดูล-การใช้และจํากัดรายการ
+- ""คําอธิบาย" การผลิตรถจีน ควบคุมการสิ้นสุด/ใช้จริง, การคัดเลือกคู่, การจํากัด/การแบ่งส่วนรายชื่อ, การปฏิบัติหน้าที่บันทึกห้าปี, และทําไมการจํากัดบุคคลที่ต้องไม่ถูกให้บริการ
+- ** H1 ~: ส่งออกคอมโพเนนท์และเครื่องดูดฝุ่น สําหรับโปรแกรมส่งออกสินค้าจีน
+- ~ คําสําคัญต่าง ๆ ~: การส่งออก อนุมัติการติดตามการสิ้นสุดการติดตาม
+- ** การค้นหาแบบสรุป ~: การควบคุมการส่งออก; การตรวจสอบ; ประโยคสุดท้าย-user; partsed parts; both-use; lists
+- ~ที่อยู่ URL ที่ถูกย่อ: / guides/export-compliance-scustations-showing-end-user/
+- สืบค้นเมื่อ 汽车出口如何做最终用户/ 最终用途尽调 、 管控 / 关注名单与境外制裁名单筛查, 规避出口管制与制裁风险
+- ** เชื่อมโยงภายใน **. สืบค้นเมื่อ / guides/exportment- prilment-met-t-lc-win/, / guides/vinish-chinish-seport-support-sups-history////////publort-complance-sing-end-er//
+- ~Schema Scop~: บทความ (ไม่มี Production/Offer/Review)
 
-## Compliance is a transaction gate, not paperwork at the end
-Vehicle exporters face both China's export-control regime and international sanctions frameworks. The controlling principle is **end-user and end-use management across the whole transaction**: an exporter must know who will receive the goods and what they will be used for, and must screen against restricted/denied lists before committing. This cannot be outsourced to the freight forwarder or fixed after shipment.
+## ความร่วมมือเป็นประตูธุรกรรม ไม่ใช่เอกสารตอนจบ
+ผู้ส่งออกรถ เผชิญหน้ากับทั้งระบอบการปกครองแบบควบคุมการส่งออกของจีน และนโยบายระหว่างประเทศ หลักการควบคุมคือ ~ super-ser and end-tailed การจัดการทั่วรายการทั้งหมด *: ผู้ส่งออกต้องรู้ว่าใครจะได้รับสินค้าและสิ่งที่พวกเขาจะใช้ทํา และต้องหน้าจอการต่อต้านรายการที่จํากัด/ ปฏิเสธก่อนการดําเนินการ ไม่สามารถส่งข้อมูลไปยังโปรแกรมส่งเอกสาร หรือบริการที่ส่งแล้วได้หลังจากส่งแล้ว
 
-## The duties the rules actually impose
-- **End-user/end-use evidence**: obtain end-user/end-use documentation where controlled items or sensitive uses are involved.
-- **Control-list basis**: determine whether the item (including any dual-use technology or component) falls on a control list; vehicles and especially certain chassis, electronics or dual-capable equipment need a genuine check rather than an assumption that "cars are not controlled".
-- **Denied/restricted principle**: where a party is on a control/watch list, or the end use relates to military end-users, WMD or terrorism, the licence is not granted and the transaction must not proceed.
-- ~Records ~: relevant end-user and screening records are retained for **five years**.
-- **Compliance measures**: maintain an internal screening step at order intake (an order-screening routine, end-use statements, escalation for hits).
+## หน้าที่ที่กฏเกณฑ์กําหนด
+- ~ หลักฐานที่แสดงในโปรแกรมย่อย/ รุ่นสุดท้าย~: รับเอกสารสรุป/ใช้ที่ซึ่งของที่ถูกควบคุมหรือการใช้งานที่ละเอียดอ่อนเกี่ยวข้อง
+- ** พื้นฐานรายการ *: ระบุว่ารายการ (รวมทั้งเทคโนโลยีหรือส่วนประกอบที่ใช้ร่วมกัน) ตกอยู่ในรายการควบคุมหรือไม่ ยานพาหนะและโดยเฉพาะรถบางคัน เครื่องใช้ไฟฟ้า หรืออุปกรณ์สองเครื่องที่ใส่ได้ต้องการเช็คจริงแทนการสันนิษฐานว่า "รถไม่สามารถควบคุมได้"
+- ~ หลักการจํากัด/จํากัด: พรรคอยู่ในรายการควบคุม/ดู (ควบคุม) หรือการใช้สุดท้ายเกี่ยวข้องกับผู้เข้าชมทางทหาร, WMD หรือการก่อการร้าย ใบอนุญาติไม่อนุมัติ และการซื้อขายจะต้องไม่ดําเนินการใดๆ
+- ~Records ~: เกี่ยวข้องกับการสิ้นสุดและบันทึกการตรวจสอบ คงอยู่เป็นเวลาห้าปี~
+- ** มาตรการการควบรวม **: รักษาขั้นตอนการคัดเลือกภายในที่สั่งซื้อ (ปกติในการเข้ารับรายการ, การใช้ประโยคสิ้นสุด, การเลื่อนระดับสําหรับการเข้าปะทะ).
 
-## How to screen without copying a list by hand
-Restricted lists change, so never maintain a hand-copied static list. Use a current screening tool/database at order intake and again before shipment, screen all parties (buyer, consignee, bank, ship-to where relevant), keep the screening result with the file, and escalate any hit for a formal decision rather than "name-tweaking" to pass the matcher.
+## จะ ทํา อย่าง ไร เมื่อ ไม่ ต้อง ทํา การ คัดลอก รายการ ด้วย มือ?
+ห้ามเปลี่ยนรายชื่อ ห้ามเก็บรายชื่อที่เข้ารหัสไว้ ใช้เครื่องมือตรวจสอบปัจจุบัน/ Datatatabase ในการป้อนข้อมูลและอีกครั้ง ก่อนที่จะส่ง, หน้าจอทั้งหมด (Buy, passee, Bank, Bank, language, To) เก็บผลการตรวจสอบกับไฟล์ และเพิ่มข้อมูลการกดใด ๆ เพื่อการตัดสินใจอย่างเป็นทางการแทน "name-weake" เพื่อผ่านผู้เข้าแข่งขัน
 
-## A practical order-intake sequence
-1. Capture full legal names and addresses of all counterparties.
-2. Screen against current China export-control and applicable sanctions lists; date-stamp the result.
-3. Obtain an end-use/end-user statement for any sensitive item or destination.
-4. Escalate hits; do not transact with denied/control-list parties.
+## ลําดับลําดับการเรียงลําดับจริง
+1. จับตัวชื่อและที่อยู่ ของผู้เกี่ยวข้องทั้งหมด
+2. หน้าจอต่อต้านการควบคุมการส่งออกของประเทศจีนในปัจจุบัน และมีผลบังคับใช้รายการ; วันที่-ประทับผลลัพธ์
+3. เรียกดูข้อความแจ้งการใช้/ปิด/ ใช้งานสําหรับรายการที่มีความสําคัญหรือปลายทาง
+4. upalate ops; อย่าข้ามกับปฏิเสธ/ list parts
 5. Retain the complete file for five years.
 
-## Boundaries
-This guide does not list sanctioned entities (they change) and does not give country-specific embargo conclusions; obtain current lists and, for ambiguous cases, legal advice.
+## ขอบเขต
+ส่วนเสริมนี้ ไม่ได้ระบุโดเมนที่อนุญาต (พวกเขาเปลี่ยนแปลง) และไม่ได้ระบุข้อสรุปของพื้นที่พื้นที่พื้นที่ และได้รับรายการปัจจุบัน และสําหรับกรณีที่คลุมเครือ คําแนะนําทางกฎหมาย
 
-## FAQ
-**Are ordinary passenger cars dual-use?** Do not assume — screen the specific item, technology and destination against current lists.
+## ขนาด FAQ
+รถผู้โดยสารธรรมดาใช้ด้วยกันสองคันเหรอ ~ อย่า สันนิษฐาน — ตรวจ สอบ สิ่ง ที่ คุณ ต้องการ, เทคโนโลยี, และ จุด หมาย ปลาย ทาง ที่ มี อยู่ ใน ปัจจุบัน.
 **How long are records kept?** Five years for the relevant end-user/compliance records.
-**Can I just keep a copied blacklist?** No — lists change; use a current screening tool and keep dated results.
-**Who do I screen?** Buyer, consignee and other relevant parties, at intake and again before shipment.
-**What if there is a hit?** Escalate and do not proceed; a denied party must not be served.
+ฉันขอเก็บบัญชีดําที่คัดลอกมาได้มั้ย? ไม่ — รายการ ที่ เปลี่ยน ไป; ใช้ เครื่อง มือ ที่ กําลัง ตรวจ สอบ อยู่ และ ยัง คง ทํา ให้ รู้ วัน เวลา ต่อ ไป.
+~ฉันตรวจสอบใคร? ~ บายมอร์, จัดส่ง, และปาร์ตี้อื่นๆ ที่เกี่ยวข้อง, ที่ร้าน, ก่อนส่งของ
+ถ้าโดนชนล่ะ หนี และ ไม่ ดําเนิน การ; คน ที่ ไม่ ยอม รับ ต้อง ไม่ รับ ใช้.
 
 
-## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
+## ต้นฉบับและการตรวจสอบสิทธิ์
+| แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| 两用物项出口管制条例（国务院令第792号） | 中华人民共和国商务部 | CN | T1 | VERIFIED | http://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2025/art_e63af2ce2c7e406394a2faf84a9b4738.html | 最终用户用途证明, 保存5年, 管控名单 |
-| 两用物项出口管制内部合规指南 | 中华人民共和国商务部 | CN | T1 | VERIFIED | https://www.mofcom.gov.cn/cms_files/filemanager/1077459795/attach/20239/2021070615181087.pdf | 订单筛查系统, 最终用途声明, 合规体系 |
-| 司法部、商务部负责人就两用物项出口管制条例答记者问 | 中国政府网 | CN | T1 | VERIFIED | https://www.gov.cn/zhengce/202410/content_6981660.htm | 全过程最终用户用途管理, 关注名单 |
-| 两用物项出口管制措施专题（不予许可情形） | 中华人民共和国商务部 | CN | T1 | VERIFIED | https://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_148254ba99284928ae6e4f84d1d6f297.html | 军事用户/管控关注名单不予许可, WMD/恐怖主义/军事用途 |
-| Ministry of Commerce (MOFCOM) | MOFCOM 商务部 | CN | T1 | VERIFIED | https://www.mofcom.gov.cn/ | competent authority for export licensing and export control |
-## Editorial Review
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: CN出口管制+国际制裁框架
-- **Verification method**: Desk research against the sources below; Chinese-market reference specification only unless a separate export market is explicitly cited.
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
+| 两用物项出口管制条例 (国务院令第 792 号) พ.ศ. | 中华人民共和国商务部 | CN | T1 | เปิดใช้งาน | http://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2025/art_e63af2ce2c7e406394a2faf84a9b4738.html | 最终用户用途证明, 保存 5 年, 管控名单 |
+| 两用物项出口管制内部合规指南 | 中华人民共和国商务部 | CN | T1 | เปิดใช้งาน | https://www.mofcom.gov.cn/cms_files/filemanager/1077459795/attach/20239/2021070615181087.pdf | 订单筛查系统, 最终用途声明, 合规体系 |
+| 司法部 、 商务部负责人就两用物项出口管制条例答记者问 | 中国政府网 | CN | T1 | เปิดใช้งาน | https://www.gov.cn/zhengce/202410/content_6981660.htm | 全过程最终用户用途管理, 关注名单 |
+| 两用物项出口管制措施专题 (不予许可情形). | 中华人民共和国商务部 | CN | T1 | เปิดใช้งาน | https://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_148254ba99284928ae6e4f84d1d6f297.html | 军事用户/ 管控关注名单不予许可 (พ.ศ. WMD/ 恐怖主义 / 军事用途 |
+| กระทรวงพาณิชย์ (MOFCOM) | MAFOML 商务部 | CN | T1 | เปิดใช้งาน | https://www.mofcom.gov.cn/ | อํานาจที่มีประสิทธิภาพในการส่งออกการเหาและการควบคุมการส่งออก |
+| Retrieved (EU) 2021/821 — ระบบควบคุมการส่งออกคู่ของ EU | สหภาพยุโรป (EUR-Lex) | อียู | T1/T2 | เปิดใช้งาน | https://eur-lex.europa.eu/eli/reg/2021/821/oj | ตัวอย่างของระบบควบคุมการควบคู่ และการควบคุมการจํากัด/สิ้นสุดการใช้ เกี่ยวข้องกับการออกแบบการคัดกรอง |
+| รายการความจุสุข US — ตัวอย่างการคัดเลือกแบบจํากัด | สํานักงานอุตสาหกรรมและความปลอดภัยของสหรัฐ (BIS) | ขนาด US | T1/T2 | เปิดใช้งาน | https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern/entity-list | รายการที่ห้ามใช้ร่วมสาธารณะ |
+| สหรัฐอเมริกา รายการ — การ ลง คะแนน เสียง | US Office of Angeles Controlments (OFAC) | ขนาด US | T1/T2 | เปิดใช้งาน | https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists | ออกแบบพิเศษ รายชื่อชาติเป็นแหล่งข้อมูลการวางจําหน่าย; ขอบเขตอํานาจในการปกครอง ไม่ใช่บัญชีดําทั่วไป |
+## การทบทวนแก้ไข
+- ~Uuthor ♪: AutoBridge ส่งออกทีมแก้ไข [ผู้เขียน](/ ผู้เขียน/) สืบค้นเมื่อ [ใช้ในการแก้ไขนโยบาย] [/Di-policy/]
+- ~ถูกตรวจสอบแล้ว~: 2026-09-05
+- ~ตลาดแห่งความรุ่งเรือง ~: CN 出口管制 + 国际制裁框架
+- ~วิธีการสร้างความสัมพันธ์ ~: งานวิจัยที่ขัดกับแหล่งย่อยด้านล่างนี้; การอ้างอิงตลาดจีน-มาร์เก็ต ก็ต่อเมื่อมีการอ้างอิงตลาดส่งออกอย่างตรงไปตรงมา
+- การร่างแบบ AI-assisted ถูกใช้ บทความนี้ตั้งอยู่บนพื้นฐานของงานวิจัยในตาราง และอัตโนมัติ QA ไม่มีการอ้างอิงการทดสอบก่อน จนกว่าจะมีการระบุรายละเอียดอย่างชัดเจน ยืนยันความต้องการที่ต้องใช้เวลาและกําหนดปลายทาง ก่อนทําการข้ามเวลา
 
-## Image Record
-- **IMAGE_ASSET_PATH**: none secured in repository
-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ not captured
-- **SOURCE_PAGE**: not captured
-- **RIGHTS_HOLDER**: unconfirmed
-- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
-- ~ECHCKKED_DATE ~: 2026-09-05
-- ~CRL/TOPIC_MATCH~: exact Export Compliance and Sanctions Screening for Chinese Vehicle Exporters
-- **IMAGE_RIGHTS_STATUS**: FAIL
-- **ALT (12 languages)**:
+## บันทึกรูปภาพ
+- ~ประกาศ_BAR_ PATH ~ ~ ไม่มีคนปลอดภัยในห้องเก็บของ
+- ~~~~~ไม่ถูกจับ~
+- ~ประกาศจับ~: ไม่ถูกจับ
+- ** UNTER_FELE_ PATE*: ใช้ไม่ได้ — ไม่มีเอกสารผู้สมัครใด ๆ ที่ระบุ (ไม่มีใบรับรองที่จะยืนยัน)
+- ~ห้ามยืนยัน~
+- **LICENSE_OR_USAGE_BASIS**: ไม่ มี ใคร ปลอด ภัย — การ มี เว็บไซต์ อยู่ ใน เวลา นี้ ไม่ ใช่ การ ลง ทะเบียน ทํา ซ้ํา อีก ครั้ง ใน การ ค้า
+- ~CKND_DATE ~ 2026-09-06
+- ** ROUNDL(TOPIC_MATCH) **: พิมพ์ส่งออกแบบตรง ๆ Pluplencence และ Santcations screening for elege pointers
+- MEDIAN_SCPE_NOTE: ภาพต้องตรงกับครอบครัว/ โตปิกที่ถูกต้องเท่านั้น; ต้องไม่หมายถึงการตัด, ปีตัวอย่าง, เรียลวีน, การตรวจสอบหรือการทําธุรกรรมจริง
+- หม่อมเจ้า หม่อมเจ้า
+- ~ ล็อก-รีซัน~: ไม่มีภาพใดสามารถใช้ได้โดยปลอดภัย: Wikited Commons/Flickr ไม่สามารถทํางานได้จากสภาพแวดล้อมการวิจัย ห้องสมุดหลักต้องการสิทธิ์ในการเข้าถึง API/CIFF และภาพเว็บเพจของ OEM ก็ไม่ใช่การให้ทุนใช้อีกครั้งในโฆษณา ไม่มีภาพถ่ายที่บรรจุออโต้ไบด์อยู่ บันทึกเก็บ FAIL แทนการยืนยัน
+- ~ALT (12 ภาษา) ~:
   - **EN**: export compliance screening, Chinese-market procurement guide export buyer reference
   - **FR**: export compliance screening, procurement guide du marché chinois, référence acheteur export
   - **DE**: export compliance screening, Chinesischer procurement guide, Referenz für Exportkäufer

@@ -1,67 +1,70 @@
-# Shipping an Electric Vehicle by Sea Under IMDG 42-24: UN3556, UN3171 and the Spare-Battery Distinction
+# 根据《国际千年发展宣言》第42-24条,海运一辆电动车辆:UN3556、UN3171和备件-电池区分
 
-## SEO Metadata
-- **SEO Title**: EV Sea Freight Under IMDG 42-24 — UN3556/3557/3558 vs UN3480/3481
-- **Meta Description**: From 2026, lithium-ion vehicles installed with battery ship as UN3556 (lithium-metal UN3557, sodium-ion UN3558) under IMDG Amendment 42-24; UN3171 is narrowed and loose batteries use UN3480/3481 with UN38.3.
-- **Suggested URL**: /guides/ev-shipping-un3556-imdg-compliance
-- **H1**: Classifying a Battery-Powered Vehicle for Ocean Freight Under the Current IMDG Code (Amendment 42-24)
-- **Primary Keyword**: UN3556 lithium ion vehicle IMDG 42-24 shipping
-- **Secondary Search Terms**: UN3557 lithium metal vehicle, UN3558 sodium ion vehicle, P912 packing instruction, SP405 marking, UN3171 narrowed, UN3480 UN3481, UN38.3 manual of tests rev8
-- **Internal Link Suggestions**: /guides/vehicle-export-pdi-pre-shipment-handover/ ; /guides/export-vehicle-document-package/ ; /vehicles/wuling-bingo/
-- **Image Suggestions**: whole-vehicle vs loose-battery UN number split; Class 9 placard; P912/SP405 marking diagram
-- **ALT Suggestions**: "UN3556 installed-battery vehicle versus UN3480 loose battery under IMDG 42-24"
+## 道德操守办公室 元数据
+- ** 标准标准名称**:根据《国际海运准则》第42-24条,EV海运 -- -- UN3556/3557/3558对UN3480/3481条
+- ** 金属说明**: 根据IMD修正案42-24,从2026起,电池船装配的锂离子车辆为UN3556(锂金属UN3557,钠离子UN3558); UN3171 缩小,松散电池使用 UN3480/3481 与 UN38.3. 。
+- ** 建议的URL**:/指南/前发货-un3556-imdg-compliance
+- ** H1 资源需求。 ** 根据现行《国际船舶和港口设施管理准则》(第42-24号修正案)对一艘用于海上货运的电池动力车进行分类。
+- ** 关键词**: UN3556 lithium ion vehicle IMDG 42-24 shipping
+- ** 二级搜索术语**:UN3557锂金属车、UN3558钠离子车、P912包装规范、SP405标记、UN3171缩小、UN3480 UN3481、UN38.3试验手册rev8
+- ** 内部链接建议**: /指南/车辆-出口-装运前移交/;/指南/出口-车辆-文件包装/;/车辆/车辆/拖动-宾戈/
+- ** 图像建议**:整车对散装电池 联合国编号拆分;第9类牌照;P912/SP405号标记图
+- ** ALT(美国) 建议**: " UN3556辆装电池车,而根据IMD 42-24,UN3480辆松散电池 "
 
-## The Classification Changed — Old UN3171 Habits Are Now Wrong
-A common pre-2026 practice was to book any battery-driven vehicle under **UN3171**. Under the **current mandatory IMDG Code, Amendment 42-24** (adopted by IMO Resolution **MSC.556(108)** and **mandatory in China from 2026-01-01** per the China Maritime Safety Administration official text), that is no longer correct for mainstream lithium vehicles. Using the old number on a 2026 declaration is a classification error that stops dangerous-goods paperwork at booking.
+## 分类改变——旧UN3171 Habits现在错了
+2026型前的一种常见做法是将任何电池驱动车辆订在** UN3171**下。 根据**现行强制性《国际船舶和港口运输准则》第42-24号修正案**(经海事组织第**MSC.556(108)号决议通过)**和**中国的强制性规定,从中国海事安全局官方文本2026-01-01**起),这对主流锂车辆不再正确。 在2026申报上使用旧号是一个分类错误,在预订时停止危险品的文具工作.
 
-## Whole Vehicle (battery installed): UN3556 / UN3557 / UN3558 QXZ  Z  Z QXZ QXZ  Z QXZ QXZ QXZ QXZ QXZ QXZ QXZ QXZ QXZ QXZ QXZ QXZ QXZ QXZ QXZ
-For a **vehicle transported with its battery installed**:
-- **UN3556 — lithium-ion-battery-powered vehicle**
-- **UN3557 — lithium-metal-battery-powered vehicle**
-- **UN3558 — sodium-ion-battery-powered vehicle**
+## 整车(装有电池): UN3556 / UN3557 / UN3558
+装有电池的**车辆**:
+- ** UN3556 — 锂离子电池动力车** 报告迟交是因为需要翻译。
+- ** UN3557 — 锂金属电池动力车** 报告迟交是因为需要翻译。
+- ** UN3558 — 钠离子电池动力车** 报告迟交是因为需要翻译。
 
-The new **Packing Instruction P912** governs stowage and securing for these entries. Where a UN3556 vehicle is **not fully enclosed** by packaging or a crate, **Special Provision SP405** sets the marking requirements. The scope of the legacy **UN3171** entry has been **narrowed** to vehicles/equipment powered by **wet batteries, sodium-metal or sodium-alloy batteries**; mainstream lithium vehicles must **not** be declared under UN3171 from 2026. These are Class 9 entries; documentation and marking/placarding follow the IMDG 42-24 text and the booked carrier's additional layer.
+新的**《第P912号打包指令》** 规定了这些条目的积载和保安。 如果UN3556辆汽车**没有用包装或箱子完全封闭**,则** 特别规定SP405**规定了标记要求。 遗留物品** UN3171** 已将** 输入范围缩小到** 湿电池、钠金属或钠合金电池** 所供电的车辆/设备;主流锂车辆** 不得** 于2026.年UN3171 下申报** 这些是第9类条目;文件和标记/牌照遵循IMD 42-24文本和预定的承运人的附加层。
 
-## Spare / Loose Batteries Are a Different Entry
-Do not confuse the whole-vehicle number with loose cells and packs:
-- **UN3480 — lithium-ion batteries transported on their own** (loose/spare).
-- **UN3481 — lithium-ion batteries packed with, or contained in, equipment**.
-Sodium-ion loose batteries carry their own corresponding numbers. A spare service pack therefore ships under the **UN3480/3481** family — never by reusing the vehicle's UN3556.
+## 备用电池/ 散热电池是一个不同的条目
+不可将整车号码与松散的单元格和包混淆:
+- ** UN3480——自行运输的锂离子电池**(落差/平面)。
+- ** UN3481 — 装有或装在设备中的锂离子电池**。
+钠离子松散电池携带自己的相应编号. 因此,UN3480/3481号船的备用服务包——从不重复使用该车的UN3556.号船
 
-## UN38.3 and the Manual of Tests and Criteria
-Before transport, lithium (metal/ion) — and now sodium-ion — batteries must complete tests **T.1–T.8 under Section 38.3** of the UN *Manual of Tests and Criteria*, current edition **Revision 8 (2023) with Amendment 1** (Rev.8 brought sodium-ion batteries within 38.3), and carry a **test summary**. For a whole vehicle this evidence sits at battery/pack level; for spare batteries under UN3480/3481 it is a direct shipping requirement. The US 49 CFR §173.185 likewise incorporates UN38.3 by statutory reference, illustrating how widely the Section 38.3 test summary is expected.
+## UN38.3和《试验和标准手册》
+在运输之前,锂(金属/离子)电池——现在的钠离子——必须完成联合国《试验和标准手册》第38.3**节下的试验**T 1–T.8,现版** 修正8(2023),修正1**(订正8,将钠离子电池带入38.3范围内),并携带**试验摘要**。 对于整辆汽车,这种证据是电池/包件级的;对于UN3480/3481年以下的备用电池,这是一种直接运输要求。 美国《联邦法典》第49编第173.185节也以法定参考法纳入了UN38.3节,说明第38.3节的试验摘要预期范围有多广。
 
-## State of Charge and the Carrier Layer
-Quantity/state limits such as a fixed **state-of-charge percentage** are set by the **IMDG text and, on top of it, by each carrier**. This page states **no fixed SOC percentage without an official basis**; obtain the booked carrier's written DG instruction voyage by voyage (carriers may impose stricter terms than the IMDG minimum). Damaged/defective-battery rules likewise follow the current Code and carrier approval and are not generalized here.
+## 装药国和承运人层
+数量/状态限制,如固定的**收费百分比**,由**《国际千年发展公约》案文确定,在其中,由每个承运人确定**。 本页说明**没有官方依据,没有固定的SOC百分比**;获得预定承运人的书面DG指示航程(承运人可能规定比《国际船舶和港口运输准则》最低要求更严格的条件)。 损坏/残废电池规则同样遵循现行规则和承运人的批准,在此不作概括。
 
-## Booking Checklist
-1. Confirm chemistry (lithium-ion / lithium-metal / sodium-ion / wet) → select UN3556/3557/3558 (or the narrowed UN3171 only where it truly applies).
-2. Confirm battery is **installed** (vehicle entry) vs **loose** (UN3480/3481).
-3. Apply **P912**; apply **SP405** marking if not fully enclosed.
-4. Assemble **UN38.3 (Rev.8+Amd.1) T.1–T.8 test summary** for the battery.
-5. Obtain the carrier's DG/SOC instruction and Class 9 documentation and placarding.
+## 预订核对表
+1. 确认化学(锂-离子/锂-金属/钠-离子/湿) − 选择UN3556/3557/3558(或缩小的UN3171,仅在真正适用的情况下才适用).
+2. 确认电池安装**(车辆入口)与**(低)**(UN3480/3481)。
+3. 应用** P912 **;如果未完全封装,应用** SP405 ** 标记。
+4. 集**UN38.3(Rev.8+Amd.1) T 1–T.8试验摘要** 电池.
+5. 获得承运人的DG/SOC指令以及第9类文件和牌照。
 
-## Boundaries of This Guide
-- No fixed SOC percentage or quantity limit without an official basis.
-- No reuse of UN3171 for lithium vehicles under the current Code.
-- Carrier-specific stricter requirements are voyage-specific.
+## 本指南的边界
+- 没有官方依据,没有固定的SOC百分比或数量限制.
+- 根据现行《法规》,锂车辆不得再利用UN3171辆。
+- 承运人具体要求更为严格,具体是航程要求。
 
-## Frequently Asked Questions
-**What UN number is a lithium-ion EV shipped with battery installed?** UN3556 under IMDG Amendment 42-24 (lithium-metal UN3557, sodium-ion UN3558).
-**Can I still use UN3171?** Only for the narrowed wet-battery / sodium-metal-or-alloy scope; not for mainstream lithium vehicles from 2026.
-**What about a spare battery in the same container?** Loose lithium-ion batteries use UN3480 (or UN3481 if packed with/contained in equipment), not UN3556.
-**Which UN38.3 edition applies?** The current Manual of Tests and Criteria, Rev.8 with Amendment 1, tests T.1–T.8 with a test summary.
+## 经常被问到的问题
+** 装有电池的锂离子电离器是多少联合国编号?** 根据IMD修正案42-24,UN3556 (锂-金属UN3557,钠-离子UN3558)。
+我能用UN3171吗? 仅用于缩小的湿电池/钠金属或合金范围;不用于2026.型主流锂车辆
+** 同一容器中的备用电池怎么办? ** 使用UN3480(或UN3481(如果装有/装在设备中))的Lose锂离子电池,而不是UN3556.
+** UN38.3版适用哪一种? ** 现行《试验和标准手册》,第8修订版,附第1号修正案,T. 1–T.8号试验,附试验摘要。
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
-- MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- ALT by language:
+## 图像记录
+- IMAGE_ASST_PATH: 没有在仓库中安全
+- 原型:未抓获
+- 资源_页:未捕获
+- UNURCE_FILE_PAGE:不适用——未确定候选媒体文件(无申述许可证).
+- 权利:未经证实
+- LICENSE_OR_USAGE_BASIS:没有担保——在权利被清除之前,不得公布第三方图像
+- 检查日期: 2026-09-06
+- MODEL_TOPIC_MATCH:必须符合上面的准确模型/版本(或指南主题)和参考市场.
+- IMAGE_SCOPE_NOTE:只匹配确切的模型家族/主题;不得暗示特定的修饰/模型年份,真实的VIN,当面检查或实际交易
+- IMAGE_RIGHTS_STATUS: 错误(没有捕获有执照的资产;不接受占位符或“保留旧图像”的注释)
+- 车厢里有车厢 无法保证可重复使用的图像: 维基媒体Commons/Flickr无法从研究环境获取,股票库需要认证的API/许可证访问,OEM网页图像不是商业再利用授权;不存在AutoBridge拥有的照片. 坚持FAIL而不是断言.
+- 按语言分列的低价竞标:
   - **EN**: AutoBridge export-buyer reference — EV shipping under IMDG 42-24 UN3556, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — EV shipping under IMDG 42-24 UN3556, guide d’achat à l’export automobile
   - **DE**: AutoBridge-Referenz für Exportkäufer — EV shipping under IMDG 42-24 UN3556, Leitfaden für Fahrzeugexport-Einkauf
@@ -75,23 +78,23 @@ Quantity/state limits such as a fixed **state-of-charge percentage** are set by 
   - **AR**: مرجع AutoBridge لمشتري التصدير — EV shipping under IMDG 42-24 UN3556, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜EV shipping under IMDG 42-24 UN3556, 汽车出口采购指南
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## 源码验证(V)
+| 源标题 | 组织 | 市场 | URL 网络 | 已检查 | 信心 | 支持的事实 |
 |---|---|---|---|---|---|---|
-| IMDG Code Amendment 42-24 official Chinese text PDF | China Maritime Safety Administration | INTL/CN enforcement | https://www.msa.gov.cn/public/documents/document/mdiw/mjqw/~edisp/20251201020240683.pdf | 2026-09-04 | VERIFIED (primary) | 42-24, MSC.556(108), 2026-01-01, UN3556-3558, P912, Class 9 |
-| UN Manual of Tests and Criteria (Rev.8 + Amendment 1), Section 38.3 (SCETDG-66 INF.30) | UNECE / UN Sub-Committee | INTL | https://unece.org/sites/default/files/2025-06/UN-SCETDG-66-INF30e.pdf | 2026-09-04 | VERIFIED (primary) | Rev.8+Amd.1, UN38.3 T.1–T.8, sodium-ion |
-| UN/SCETDG-64 INF.29 lithium-battery identification / 38.3 marking amendment | UNECE | INTL | https://www.unece.org/sites/default/files/2024-06/UN-SCETDG-64-INF29e.pdf | 2026-09-04 | VERIFIED (primary) | 38.3 marking amendments |
-| US 49 CFR §173.185 (incorporates UN38.3 by IBR) | US GovInfo (CFR) | US | https://www.govinfo.gov/content/pkg/CFR-2024-title49-vol2/xml/CFR-2024-title49-vol2-sec173-185.xml | 2026-09-04 | VERIFIED (primary) | UN3480/3481, statutory UN38.3 reference |
-| IMDG 42-24 interpretation (MSC.556(108), effective date) | China Maritime (repost) | INTL/CN | http://m.toutiao.com/group/7585883173825921546/ | 2026-09-04 | CROSS_CHECKED (supporting) | Effective-date interpretation |
-| UN3556 SP405 marking interpretation | Jiupai news (repost) | INTL | http://m.toutiao.com/group/7598735209990734370/ | 2026-09-04 | SINGLE_SOURCE (supporting) | SP405 marking |
-*Evidence note: core classification anchored to MSA (IMDG 42-24) and UNECE (Manual Rev.8+Amd.1, 49 CFR) primary sources; media/industry pages are supporting only and are not the primary evidence for UN numbers or UN38.3. Fixed SOC values remain blocked.*
+| IMD 代码修正案 42-24 中文正式文本 PDF | 中国海事安全局. | ITL/CN执法 | https://www.msa.gov.cn/public/documents/document/mdiw/mjqw/~edisp/20251201020240683.pdf 维基月球 | 2026-09-04 | 已核实(小学) | 42-24, MSC 556(108), 2026-01-01, UN3556-3558, P912, 第9类 |
+| 《联合国检验和标准手册》(第8号订正本+第1号修正案),第38.3节(SCETDG-66 INF.30) | 欧洲经委会/联合国小组委员会 | INTL 语言 | https://unece.org/sites/default/files/2025-06/UN-SCETDG-66-INF30e.pdf 维基月球 | 2026-09-04 | 已核实(小学) | 订正8+Amd.1,  UN38.3 T.1–T.8, 钠离子 |
+| UN/SCETDG-64 INF.29 锂电池识别/38.3 标记修正 | 欧洲经委会 | INTL 语言 | https://www.unece.org/sites/default/files/2024-06/UN-SCETDG-64-INF29e.pdf 维基月球 | 2026-09-04 | 已核实(小学) | 38.3 标记修正 |
+| US 49 CFR § 173.185(由IBR公司合并UN38.3) | 美国政府信息(CFR) | 美国 | https://www.govinfo.gov/content/pkg/CFR-2024-title49-vol2/xml/CFR-2024-title49-vol2-sec173-185.xml 维基月球 | 2026-09-04 | 已核实(小学) | UN3480/3481,法定UN38.3参考文献. |
+| IMDG 42-24 解释(MSC 556(108),生效日期) | 中国海洋(员额) | 东帝汶/东帝汶 | http://m.toutiao.com/group/7585883173825921546/ 维基月球 | 2026-09-04 | 横跨 (支助) | 有效日期解释 |
+| UN3556 SP405次标记口译 | 朱培新闻(转载). | INTL 语言 | http://m.toutiao.com/group/7598735209990734370/ 维基月球 | 2026-09-04 | 资源(支助) | SP405 标记 |
+* 证据说明:主要来源为管理事务协议(IMDG 42-24)和欧洲经委会(手册8+Amd.1、49 CFR),核心分类;媒体/行业网页仅是佐证,不是联合国数字或UN38.3.固定SOC值的主要证据。 * 报告迟交是因为需要翻译。
 
-## Editorial Review
-- **Author**: AutoBridge Export Editorial Team · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: International IMDG (42-24) with China enforcement date
-- **Verification method**: MSA + UNECE/UN Manual + 49 CFR primary sources; loose vs installed battery separated; no unsupported SOC number
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+## 编辑评论
+- ** 授权人**:自动桥出口编辑组 / 方法,按我们的[编辑政 (/编辑政策/)
+- ** 上次审查**:2026-09-05
+- **参考市场**:国际千年发展目标(42-24),中国执行日期
+- ** 核查方法**:管理事务协议+欧洲经委会/联合国手册+49 CFR 主源; 已安装的电池分离; 无不支持的 SOC 编号
+- ** 透明度**:使用了大赦国际协助的起草。 本条以案头研究和自动化质量保证为基础。 除非有明确文件证明,否则不声称进行第一手测试;在交易前确认时间敏感和目的地特定的要求。
+- ** 编辑标准**: 由上述来源研究和撰写(案头研究;没有声称直接驾驶、拆卸或进口)。 源头信任是一行的;我们不能独立确认的任何一点都作为核查项目而不是事实提出。
 
 **Tags**: #IMDG4224 #UN3556 #UN383 #EVShipping #DangerousGoods

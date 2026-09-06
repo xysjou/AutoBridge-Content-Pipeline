@@ -1,87 +1,90 @@
-# Changan UNI-Z (2026, New Blue Whale PHEV) — Chinese-Market Specs and Export Verification
+# 长安UNI-Z(2026,新蓝鲸PHEV)——中马货谱与出口核查
 
-## SEO Metadata
-- **SEO Title**: Changan UNI-Z PHEV 2026: Chinese-Market Specs & Export Buyer Guide
-- **Meta Description**: Chinese-market Changan UNI-Z new Blue Whale PHEV: dimensions, 18.4 kWh LFP line, 130 km CLTC electric range, DC/V2L, and VIN-level checks for importers.
-- **H1**: Changan UNI-Z (2026, New Blue Whale PHEV) — Chinese-Market Specs and Export Verification
-- **Primary Keyword**: Changan / 长安 UNI-Z specs export
-- **Secondary Search Terms**: Changan UNI-Z export; UNI-Z PHEV specs; Chinese plug-in hybrid SUV; V2L export; CLTC range
-- **Suggested URL**: /vehicles/changan-uni-z/
-- **Search Intent**: 了解 Changan / 长安 UNI-Z 中国版规格、配置与出口适配性（车型参数页）
-- **Internal Link Suggestions**: /vehicles/changan-uni-z/, /guides/china-export-customs-declaration-single-window/, /guides/ccc-certification-export-exemption/
-- **Schema Scope**: Article + Vehicle (no Product/Offer/Review)
+## 道德操守办公室 元数据
+- **SEO标题**:长安UNI-Z PHEV 2026:中马标本与出口购买者指南
+- ** 金属说明**: 中国市场长安UNI-Z新蓝鲸PHEV:尺寸18.4 kWhLFP线,130 kmCLTC电机范围DC/V2L,VIN级进口商检查.
+- **H1 **:长安UNI-Z(2026,新蓝鲸PHEV)——中马标本与出口核查.
+- ** 基本关键词**:长安/长安 UNI-Z型出口
+- ** 二级搜索术语**:长安UNI-Z出口;UNI-Z PHEV规格;中国插件混合式SUV;V2L出口;CLTC范围
+- ** 建议的URL**:车辆/changan-uni-z/
+- ** 搜索意向**:了解 长安 / 长安 UNI-Z 中国版规格 / 配置与出口适配性(车型参数页)
+- ** 内部链接建议**:车辆/changan-uni-z/,指南/钦那-出口-海关-声明-单一窗口/,指南/cc-认证-出口-豁免/
+- ** 范围**:第+条车辆(无产品/产出/审查)
 
-## Buyer context and model identity
-The **Changan UNI-Z (2026)** covered here is the Chinese-market **new Blue Whale (Xin Lan Jing) plug-in hybrid** compact SUV. It is a distinct line from any pure-petrol UNI-Z and from export-market nameplates Changan may use elsewhere; no overseas-name equivalence is claimed without an OEM statement. Reference market is **China**.
+## 买家上下文和模式身份
+本文涵盖的**昌安UNI-Z(2026)**为中市**新蓝鲸(新兰晶)插座**紧凑型SUV. 与任何纯净的UNI-Z和出口市场名牌的长安都可以在其他地方使用,这是一条不同的线;没有OEM声明,就不得要求海外名等号。 参考市场为**中国**.
 
-## Powertrain, battery and electric capability
-- **Dimensions**: 4730 / 1890 / 1660（部分配置1680） mm (some configurations 1680 mm tall), wheelbase 2795 mm (cross-checked); cargo volume 638 L.
-- **Hybrid engine**: 72（1.5L混动专用发动机） kW dedicated hybrid engine; drive motor 160 kW (cross-checked); E-CVT（电混传动）.
-- **Battery**: 磷酸铁锂, about 约18.4 kWh. The cell supplier appears under two accounts in secondary sources and is held as **unconfirmed** — it is not asserted here.
-- **Electric range**: 130 km CLTC (cross-checked); combined CLTC 1250 km.
-- **Electrical features buyers ask about**: DC fast-charge power 85 kW; vehicle-to-load 3.3 kW; centre screen 14.6.
+## 电动火车、电池和电动能力
+- **Dimensions**:4730 / 1890 / 1660(部分配置 1680)毫米(一些配置1680 mm高),轮基地2795 mm(交叉检查);货运卷638 L.
+- **Hybrid发动机**:72(1.5L混动专用发动机)kW专用混合动力发动机;驱动电动机160 kW(交叉检查);E-CVT(电混传动).
+- ** 巴特里**:磷酸铁锂,约约 18.4 kWh。 该牢房供应商出现在两个账户的二级来源中,被作为**未经确认** 持有,此处没有断言。
+- ** 电学范围**: 130 km CLTC(交叉核对); 合并的CLTC 1250 km
+- ** 电动功能购买者问起**:DC快速充电85 kW;车辆对载3.3 kW;中屏幕14.6.
 
-## Verified specification table (Chinese-market reference)
-| Specification | Value | Unit | Market | Confidence | Source note |
+## 验证规格表(中市参考文献).
+| 规格 | 数值 | 单位 | 市场 | 信心 | 来源说明 |
 |---|---|---|---|---|---|
-| length width height | 4730 / 1890 / 1660（部分配置1680） | mm | CHINA | CROSS_CHECKED | 汽车之家+搜狐 |
-| wheelbase | 2795 | mm | CHINA | CROSS_CHECKED | 汽车之家+搜狐 |
-| cargo volume | 638 | L | CHINA | SINGLE_SOURCE | 搜狐汽车 |
-| engine power | 72（1.5L混动专用发动机） | kW | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
-| motor power | 160 | kW | CHINA | CROSS_CHECKED | 汽车之家+搜狐 |
-| transmission | E-CVT（电混传动） | - | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
-| battery type | 磷酸铁锂 | - | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
-| battery capacity | 约18.4 | kWh | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
-| ev range cltc | 130 | km | CHINA | CROSS_CHECKED | 汽车之家+搜狐 |
-| combined range cltc | 1250 | km | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
-| dc fast charge power | 85 | kW | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
-| v2l export power | 3.3 | kW | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
-| center screen | 14.6 | 英寸 | CHINA | SINGLE_SOURCE | 汽车之家车家号 |
+| 长度宽度高度 | 4730 / 1890 / 1660 (部分配置 1680) (中文(简体)). | 毫米 | 中国 | 横跨 | 汽车之家+搜狐 (单位:千美元) |
+| 轮式基座 | 2795 | 毫米 | 中国 | 横跨 | 汽车之家+搜狐 (单位:千美元) |
+| 货运量 | 638 | L: 国家 | 中国 | 资源 | 搜狐汽车 维基月球 |
+| 发动机功率 | 72 (1.5L 混动专用发动机) (中文(简体)). | 千瓦 | 中国 | 资源 | 汽车之家车家号 维基月球 |
+| 动力 | 160 | 千瓦 | 中国 | 横跨 | 汽车之家+搜狐 (单位:千美元) |
+| 传输 | 电子CVT(电混传动) | - 说吧 | 中国 | 资源 | 汽车之家车家号 维基月球 |
+| 电池类型 | 磷酸铁锂 维基月球 | - 说吧 | 中国 | 资源 | 汽车之家车家号 维基月球 |
+| 电池容量 | 约18.4 | 克 国 呜 | 中国 | 资源 | 汽车之家车家号 维基月球 |
+| 垂直范围 cltc | 130 | 公里 | 中国 | 横跨 | 汽车之家+搜狐 (单位:千美元) |
+| 组合范围 cltc | 1250 | 公里 | 中国 | 资源 | 汽车之家车家号 维基月球 |
+| dc 快速充电 | 85 | 千瓦 | 中国 | 资源 | 汽车之家车家号 维基月球 |
+| v2l 出口电力 | 3.3 | 千瓦 | 中国 | 资源 | 汽车之家车家号 维基月球 |
+| 中屏幕 | 14.6 | 英寸 维基月球 | 中国 | 资源 | 汽车之家车家号 维基月球 |
 
-## Why the battery line and V2L matter for export orders
-UNI-Z orders are easy to mis-specify because the same badge covers different electrification levels. Name the **battery capacity and electric range line** on the proforma, and treat the 85 DC and 3.3 V2L figures as Chinese-market equipment to be re-confirmed for the destination wiring/grid standard. A CLTC electric range is not a WLTP figure, and an export-market name, powertrain calibration or warranty is not established by the China sources captured here.
+## 为什么电池线和V2L 出口订单的要紧
+UNI-Z命令容易错误的指定,因为同一徽章覆盖了不同的电气化级别. 命名 ** 电池容量  and  电场线**,proforma,  and  treat the 85 DC  and  3.3 V2L figures as Chinese-market equipment to be re-confirmed for the destination wiring/grid standard. CLTC电场不是WLTP图,这里捕捉到的中国来源没有建立出口市场名称,动力列车校准或保修.
 
-## Overseas buyer verification before payment
-1. Confirm the exact PHEV configuration and battery capacity by VIN; separate it from ICE UNI-Z builds.
+## 付款前对海外买方的核实
+1. 由VIN确认精确的PHEV配置和电池容量;将其与ICE UNI-Z架构分离.
 2. Reconcile CLTC 130 km against the destination test cycle.
-3. Verify DC charge connector/protocol and V2L export suitability for the destination market.
-4. Obtain destination PHEV type-approval/emissions documentation rather than inferring from China specs.
-5. Request a current export quotation (destination, quantity, trim, LHD/RHD, port, Incoterm) — no price is published here.
+3. 验证DC充电连接器/程序规范以及V2L出口适合目的地市场.
+4. 获取目的地PHEV类型批准/排放文件,而不是从中国的规格推断。
+5. 请求当前出口报价(目的地,数量,修剪,LHD/RHD,端口,Incoterm)——此处不公布价格.
 
-## FAQ
-**Is UNI-Z sold abroad under the same name?** Not established by an OEM statement in these sources; do not assume name or spec equivalence.
-**Who supplies the battery?** Two secondary accounts conflict, so the supplier is left unconfirmed.
-**Does V2L work in my market?** The 3.3 kW figure is a Chinese-market spec; confirm connector and grid compatibility locally.
-**Is 130 km a WLTP range?** No — it is CLTC.
-**Where is the export price?** Request a current quotation; this page publishes none.
+## 财务问题
+** UNI-Z是否以同名在国外出售? ** 由OEM声明在这些源中未建立;不假定名称或谱等值。
+电池是谁供应的? 两个次要账户冲突,所以供应商没有经过证实。
+**Does V2L work in my market?** The 3.3 kW figure is a Chinese-market spec; 本地确认连接器和网格兼容性。
+** 130 km是WLTP范围吗? ** 不,这是CLTC。
+** 出口价格在哪里? ** 请输入当前引文;本页面无刊。
 
 
-## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
+## 源码验证(V)
+| 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
 |---|---|---|---|---|---|---|
-| 长安UNI-Z 2026款解析 | 汽车之家车家号 | CN | T3 | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/24892811 | 尺寸, 电机, 电池, 续航, 屏幕 |
-| UNI-Z 配置信息 | 汽车之家车家号 | CN | T3 | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26106686 | 快充, 外放电 |
-| 长安UNI-Z 参数 | 搜狐汽车 | CN | T2 | CROSS_CHECKED | http://db.m.auto.sohu.com/model_7339/a/991290424_121117078 | 尺寸, 轴距, 后备厢, 动力 |
-| Changan Automobile official global site | Changan Automobile 长安汽车 (OEM) | CN | T1 | VERIFIED | https://www.globalchangan.com/ | brand/model-line identity and OEM authority |
-| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | T1 | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
-| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
-## Editorial Review
-- **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: China (Chinese-market reference specification; not a global spec)
-- **Verification method**: Desk research against the sources below; Chinese-market reference specification only unless a separate export market is explicitly cited.
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
+| 长安 UNI-Z 2026 款解析 导弹发射系统 | 汽车之家车家号 维基月球 | 氯化萘 | T3 | 横跨 | https://chejiahao.m.autohome.com.cn/360/chejiahao/detailinfo/24892811 维基月球 | 尺寸,  电机,  电池,  续航, 屏幕 维基月球 |
+| UNI-Z 配置信息 导弹发射系统 | 汽车之家车家号 维基月球 | 氯化萘 | T3 | 横跨 | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/26106686 维基月球 | 快充, 外放电 (单位:千美元) |
+| 长安 UNI-Z 参数 导弹发射系统 | 搜狐汽车 维基月球 | 氯化萘 | T2 | 横跨 | http://db.m.auto.sohu.com/model_7339/a/991290424_121117078 维基月球 | 尺寸,  轴距,  后备厢, 动力 维基月球 |
+| 长安 汽车全球官方网站 | 长安汽车长安汽车 (OEM). | 氯化萘 | T1 | 实录 | https://www.globalchangan.com/ 维基月球 | 品牌/模范线路身份和OEM授权 |
+| 工业和信息化部(MIIT) | 军事情报处 工业和信息化部 | 氯化萘 | T1 | 实录 | https://www.miit.gov.cn/ 维基月球 | 统一/通知权限;通过VIN/通知确认准确的模型、质量和代码 |
+| 国家市场监管管理局(SAMR) | 萨马国家市场监督管理总局 | 氯化萘 | T1 | 实录 | https://www.samr.gov.cn/ 维基月球 | 国家标准、认证和市场监管当局 |
+## 编辑评论
+- ** 作者**:自动桥出口编辑组 · [作者](/作者/) · [编辑政策](/编辑政策/)
+- ** 上次审查**:2026-09-05
+- **参考市场**:中国(中国市场参考规格;不是全球规格)
+- ** 核查方法**: 案头研究对照以下来源;中国市场参考规格仅需明确引用单独的出口市场.
+- ** 透明度**:使用了大赦国际协助的起草。 本条以案头研究和自动化质量保证为基础。 除非有明确文件证明,否则不声称进行第一手测试;在交易前确认时间敏感和目的地特定的要求。
 
-## Image Record
-- **IMAGE_ASSET_PATH**: none secured in repository
-- **ORIGINAL_IMAGE_URL**: not captured
-- **SOURCE_PAGE**: not captured
-- ! ! ! ! ! ! ! ! ! ! unconfirmed
-- **LICENSE_OR_USAGE_BASIS**: none secured — OEM webpage presence is not a commercial reuse licence
-- **CHECKED_DATE**: 2026-09-05
-- **MODEL_TOPIC_MATCH**: exact Changan UNI-Z 2026
-- **IMAGE_RIGHTS_STATUS**: FAIL
-- **ALT (12 languages)**:
+## 图像记录
+- **IMAGE_ASST_PATH**:没有在仓库中安全
+- ** ORIGINAL_IMAGE_URL**:未捕获
+- ** 资源:未捕获
+- ** UNURCE_FILE_PAGE**:不适用——未确定候选媒体档案(无执业许可).
+- 霍德尔:未经证实
+- ** LICENSE_OR_USAGE_BASIS**:没有保证——OEM网页的存在不是商业再利用许可证
+- ** 日期:2026-09-06
+- ** MODEL_TOPIC_MATCH**:准确的长安UNI-Z 2026
+- **IMAGE_SCOPE_NOTE**:图像必须只与确切的模型家族/主题相符;不得暗示特定的修饰,模型年份,真实的VIN,当面检查或实际交易.
+- 错误
+- **BLOCK_REASON**:无法保证可重复使用的图像:维基媒体Commons/Flickr无法从研究环境中获取,股票库需要认证API/许可证访问,OEM网页图像不是商业再利用的赠款. 不存在自动包头拥有的照片 。 记录保留了FAIL,而不是断言。
+- ** ALT(12种语言)**:
   - **EN**: Changan UNI-Z 2026, Chinese-market PHEV SUV export buyer reference
   - **FR**: Changan UNI-Z 2026, PHEV SUV du marché chinois, référence acheteur export
   - **DE**: Changan UNI-Z 2026, Chinesischer PHEV SUV, Referenz für Exportkäufer

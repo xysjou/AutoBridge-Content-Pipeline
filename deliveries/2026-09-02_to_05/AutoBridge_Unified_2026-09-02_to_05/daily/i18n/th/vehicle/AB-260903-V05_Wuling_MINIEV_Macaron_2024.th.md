@@ -1,76 +1,79 @@
-# Wuling Hongguang MINIEV Macaron (3rd Gen) 2024: a Micro-EV Buyers Should Size Correctly
-## SEO Metadata
-- < secontinuation*: Wooling Honggang Miinvy Macaron 2024 Spects & epress
-- **Meta Description**: Chinese-market 3rd-gen Wuling MINIEV Macaron — 3-door 4-seat micro EV, 20 kW motor, 170/215 km CLTC, LFP battery, mainly slow charging, 100 km/h top speed, grade-selection logic and exporter checks.
-- **Suggested URL**: /vehicles/wuling-hongguang-miniev/ (evergreen model page; model year kept in H1/body, not the URL)
-- ~ H1~: Wuling Hongguang MINIEV Macaron 2024 (Chinese-Market): Micro-EV Specs and Export Checks
-- **Primary Keyword**: wuling hongguang miniev macaron 2024 specs
-- **Secondary Search Terms**: MINIEV Macaron range, Wuling micro EV export, MINIEV 20kW, 170 215 CLTC city car, Wuling LFP small battery
-- **Internal Link Suggestions**: /vehicles/byd-dolphin/ ; / Vveohles/Farizon-Xingyang- v6e-specs/; / Guides/v-helping- un3171-imdg-compliance/; /guides/container-vehicle-loading-lashing/
-- **Image Suggestions**: 3-door body with open doors; 4-seat micro cabin; charge port (slow charge); size comparison in a parking bay
-- **ALT Suggestions**: "Wuling MINIEV Macaron micro EV dimensions"; "MINIEV Macaron 170 215 CLTC range"
+# วูลิง ฮงก็อง Mimielv Macaron (3rd Gen) 2024: Micro-v ผู้ซื้อควรจะปรับขนาดให้ถูกต้อง
+## เชา ข้อมูลกํากับภาพ
+- < secontinuation*: Wooling Honggang Miniv Macaron 2024 Spects & prilations
+- ""คําอธิบาย" จีน-มาร์เก็ต 3rd-gen วูลิงมินเนฟ มาเกรอน - 3-door 4-seat ไมโคร EV, 20 kW มอเตอร์ (พ.ศ.  170/215 km CLTC, แบตเตอรี่แอลเอฟพี ส่วนใหญ่จะคิดเงินช้า 100 km/h ความเร็วสูงสุด ตรรกะการคัดเลือกระดับชั้น  and  เช็คผู้ส่งออก
+- ~ URL ที่ถูกย่อหาย *: / viohles/ wuling-hongguang-mineviv / (หน้าจําลองสีเขียว); รุ่นปีที่เก็บไว้ใน H1/body ไม่ใช่ที่อยู่ URL)
+- ** H1 ~: วูลิง ฮองกังมินยาวีฟ มาโครมอน 2024 (Chinese-Market): ไมโครวีฟสเปกและเครื่องตรวจการส่งออก
+- ~คําสําคัญในจดหมาย: woling haung sunnive มาการัน 2024 spects
+- ~การค้นหาตามวาระที่: ~ Mimiel Macaron เรนจ์, ไมโคร ไมโคร EV, Miniv 20kW รถ, 170 215 CLTC City, แบตเตอรีเล็ก ๆ ของ Wooling
+- ~ ลิงก์ภายในที่แนะนํา~: / viides/ bid-dolphin /;/farios/farison-xing- v6e-specs/; / guides/vipping- un3171-imdg-compliance/;// guideer-Ver-Velcycyling-slopping-lacking/
+- ~คําแนะนําการอพยพ ~: 3-door ศพพร้อมประตูเปิด; 4-seat ไมโครเคบิน; พอร์ตชาร์จ (ค่าใช้จ่ายต่ํา; ขนาดเมื่อเทียบกับอ่าวที่จอดรถ
+- ~~~~~~~~~ คําแนะนํา: "Wailing Miniv ขนาดของเมกะรอน "MinIIVE Macaron 170 215 CLTC เรนจ์"
 
-## Buyer Context: Match the Product to the Use Case
-The Hongguang MINIEV Macaron is a **micro urban electric car**, not a compact EV. At **3064 mm long and 777 kg kerb**, it sits a full class below a small hatchback — for scale, the BYD Dolphin on this same catalogue is around **4125 mm long** with 420/520 km CLTC grades. That gap is the whole buying decision: the Macaron's value is short-trip city mobility at a very low Chinese price point; its limitations are top speed (**100 km/h**), range (**170/215 km CLTC**), charging speed and cabin size. An exporter who positions it against B-segment EVs will create returns problems; one who sells it as a defined urban/last-mile product will not. This page covers the **3rd-generation Macaron, model year 2024 (REFERENCE MARKET: CHINA)**.
+## คอนเท็กซ์ของตัวซื้อ: ตรงกับตัวพิมพ์ใหญ่กับตัวพิมพ์เล็ก
+ฮ่องกง มาการรอนเป็นรถไฟฟ้าในเมือง มิโคร ไม่ใช่รถระเบิด ที่ 3064 mm ยาว  and  777 kg เคร์บ! มันอยู่ชั้นเต็มใต้หลังฟักเล็ก ๆ — สําหรับขนาด  the BYD Dolphin on this same catalogue is around **4125 mm long** with 420/520 km CLTC grades. ช่องว่างที่ตัดสินใจซื้อทั้งหมด มูลค่าของมาคารอนคือ การเคลื่อนตัวของเมืองระยะสั้น ในจุดขายที่ราคาถูกมากของจีน ข้อจํากัดของมันคือความเร็วสูงสุด (* 100 km/h)  range (**170/215 km CLTC**), ความเร็วในการชาร์จ  and  ขนาดห้องโดยสาร ผู้ส่งออกที่จัดตําแหน่งให้เข้ากับ EV ของ B จะก่อให้เกิดปัญหาในการส่งกลับ คนที่ขายสินค้าในเมือง/ไมล์สุดท้ายไม่ได้ หน้านี้ครอบคลุม 3rd-generation มาคารอน  model year 2024 (REFERENCE MARKET: คราง) ~
 
-## Driveline and Battery (micro-EV focus)
-| Item | 3rd-gen Macaron 2024 (China reference) |
+## ไดรฟ์ไลน์และแบตเตอรี (โฟกัสไมโคร-วีดีอี)
+| รายการ | 3rd-gen มาคารอน 2024 (อ้างอิงจีน) พ.ศ. |
 |---|---|
-| Body / seats | 3-door, 4-seat hatchback |
-| Rear motor | 20 kW (170 km grade) |
-| Battery chemistry | LFP; the 215 km grade carries about 13.4 kWh (single-source) |
-| CLTC range grades | 170 km / 215 km |
-| Top speed | 100 km/h (single-source) |
-| Kerb weight | 777 kg (single-source) |
-| Charging | Primarily **slow (AC) charging**; any DC fast-charge on the 215 grade is configuration-dependent (single-source) — confirm on the VIN |
-The two headline numbers buyers confuse are the **range grades (170 vs 215 km CLTC)** and the **charging method**. With mainly slow charging and a 100 km/h top speed, this is an intra-city/short-commute product; set expectations on charge time and highway capability in writing rather than letting the customer discover them after delivery.
+| ร่างกาย / ที่นั่ง | 3-door, 4-seat หลังฟักตัว |
+| มอเตอร์ด้านหลัง | 20 kW (170 km grade) |
+| เคมี จาก แบตเตอรี่ | LFP; เกรด 215 km มีประมาณ 13.4 kWh (single-sourcess) |
+| เกรด CLTC | 170 km / 215 km |
+| ความเร็วสูงสุด | 100 km/h (แหล่งข่าว) พ.ศ. |
+| น้ําหนักของเคอร์บิน | 777 kg (แหล่งข่าว) พ.ศ. |
+| กําลังชาร์จ | Terfor (AC) ชาร์จ; แบตใด ๆ ของ DC ความเร็วสูง เกรด 215 เป็น การปรับแต่งที่อิสระ (single-sources) — ยืนยันเมื่อ VIN |
+The two headline numbers buyers confuse are the **range grades (170 vs 215 km CLTC)**  and  วิธีที่จะเริ่มแล้ว ด้วยประจุที่ช้ามาก และความเร็วสูงสุด 100 km/h เปอร์เซนต์ นี่เป็นผลิตภัณฑ์ที่ผลิตได้เฉพาะส่วนใน mistrity/short-commit profile กําหนดความคาดหวังในเวลาชาร์จ และความสามารถในการทางหลวงในการเขียน แทนที่จะให้ลูกค้าค้นพบพวกเขา หลังจากส่งมอบสินค้า
 
-## Grade-Selection Logic: 170 vs 215 for a Fleet Order
-Both grades share the same 3064 mm micro body and four-seat layout, so the choice is a duty-cycle decision, not a size decision:
-- **170 km grade / 20 kW** — lowest acquisition reference (roughly RMB 41,800 domestic, time-sensitive); suited to fixed, short daily loops where the vehicle returns to base and slow-charges overnight (campus, gated community, resort, short rental, last-mile with a small radius).
-- **215 km grade / ~13.4 kWh LFP** — roughly RMB 46,800 domestic reference; the extra capacity buys duty-cycle headway, and it is the only grade on which any DC provision may appear — and even there it is **configuration-dependent and must be confirmed per VIN**, not assumed.
-The procurement trap is ordering the 170 grade on price for a route that needs mid-day top-ups, because a slow-charge-only micro car cannot recover during a short stop. Decide the daily loop first, then pick the grade; do not reverse it.
+## ตรรกะระดับปริญญาตรี: 170 vs 215 สําหรับลําดับกองบิน
+ทั้งเกรดทั้ง 3064 mm ไมโครร่างกายและสี่แยก ดังนั้นตัวเลือกคือการตัดสินใจแบบพกพา ไม่ใช่การตัดสินใจขนาด:
+- " 170 km เกรด / 20 kW" — อ้างอิงที่น้อยที่สุด (RMB 41) กรมย่อย กรมย่อย 800, กรมย่อย, เวลา เหมาะสมต่อการแก้ไข, วงจรประจําวันที่รถกลับมาเป็นฐานและชาร์จความเร็วต่ําชั่วคราว (Campus, roaded load, Resort load, lasting, last with a long).
+- " 215 km เกรด / ~ 13.4 kWh LFP" — ประมาณ 46 อ้างอิงภายในประเทศ 800 ความสามารถพิเศษซื้อตําแหน่งกองหน้ารถ และเป็นระดับเดียวที่การจัดจําหน่ายดีซีรีส์อาจปรากฏ — และแม้จะมีรายการ "การจัดตั้งระบบควบคุมการให้บริการและยืนยันต่อ VIN", ไม่ได้สันนิษฐาน
+กับดักการจัดหาสินค้า สั่งค่าปรับ 170 เกรด ค่าเส้นทางที่ต้องการค่าสูงสุดช่วงกลางวัน เนื่องจากรถไมโครที่วิ่งช้าเท่านั้น ไม่สามารถกู้ได้ในช่วงหยุดอันสั้น เลือกวงเวียนทุกวันก่อน แล้วค่อยเลือกเกรด อย่าย้อนกลับ
 
-## Dimensions and Packaging Reality
-- Length / width / height: **3064 / 1493 / 1629 mm**
-- Wheelbase: **2010 mm**
-At just over 3 m long, the Macaron is one of the smallest four-seat EVs on the China market. Four seats are present, but rear space and luggage volume are micro-car scale — "4-seat" means occasional four-up urban use, not four-adult comfort. The small footprint is also the loading advantage: more units per container than a conventional car, but the exact count still depends on a **measured load plan and the carrier's approved stowage** (see the container-loading guide) — do not quote a fixed number from the length alone.
+## ขนาด และ ความ เป็น จริง ที่ น่า ทึ่ง
+- ความยาว/ ความกว้าง/ สูง: ~ 3064 / 1493 / 1629 mm ~
+- เบส: ~ 2010 mm~
+ที่ความยาวมากกว่า 3 เมตร มาการรอนเป็นหนึ่งในอาหารสี่จานที่กินน้อยที่สุดในตลาดจีน Four seats are present, แต่พื้นที่ด้านหลัง  and  จํานวนเงินของกระเป๋าเดินทางเป็นไมโครรถ — " 4-seat" หมายถึงบางครั้งใช้ในเมืองสี่ชั้น ไม่สะดวกสบายสี่ รอยเท้าขนาดเล็กนี้ยังเป็นข้อได้เปรียบในการโหลด: มีจํานวนมากกว่าหนึ่งหน่วยต่อตู้คอนเทนเนอร์มากกว่ารถทั่วไป แต่จํานวนที่แน่นอนยังคงขึ้นอยู่กับแผนของสินค้าที่จํากัด และของที่บรรจุสินค้าที่ได้รับความเห็นชอบ
 
-## Software, Charging and Safety Reality
-- Chinese builds use the **GB/T** interface; overseas charging compatibility must be checked per VIN and destination connector.
-- Micro-EVs at this price carry **simplified driver-assist and safety content** than compact EVs; do not imply features the trim sheet does not list.
-- Confirm **battery grade, charger type (AC only vs any DC), tyre/speed rating and cluster language** before order; a 100 km/h-limited car also needs an honest fit check against any destination minimum-speed or highway rule.
+## ซอฟต์แวร์, การ ระดม ยิง และ ความ ปลอด ภัย เป็น ความ จริง
+- โครงสร้างภาษาจีนใช้ส่วนติดต่อของ #GB/T~; การประมวลผลแบบต่างประเทศนั้นจะต้องตรวจสอบต่อตัวเชื่อมต่อ VIN และปลายทาง
+- ไมโครเอวีส์ที่ราคานี้ดําเนินการ -- assist-susized ไดรเวอร์และข้อมูลความปลอดภัย ~ มากกว่า complete EVs; อย่าหมายถึงคุณสมบัติแผ่นลายตารางไม่ได้รายการ
+- ยืนยัน ** เกรดแบตเตอรี, ชนิดของชาร์จ (AC เท่านั้น) ซีซี ดีซี) เรตติ้ง/สปีดและภาษากลุ่มก่อนการสั่งซื้อ; รถ 100 km/h - Limited ยังต้องการการตรวจสอบที่ตรงกับปลายทางที่น้อยที่สุดหรือกฎทางหลวงด้วย
 
-## VIN-Level Order Configuration to Lock Before Payment
-Micro-EV lines change grade/charging combinations frequently, so lock these fields against the **specific VIN build sheet**, not the brochure name:
-1. **Range grade (170/215) and matching battery kWh** — the name "Macaron" alone does not state which.
-2. **Charging provision** — AC slow-charge only, or any DC on the 215 grade; plus the physical connector standard for the destination.
-3. **Motor power and top-speed rating** for the grade (20 kW / 100 km/h reference).
-4. **Steering side and cluster/infotainment language** — do not assume RHD or a local-language UI on a China build.
-5. **Homologation/safety-content** status for the destination — a micro-EV must still clear local market-access rules (see the CoC/type-approval guide).
-6. **EV shipping documents** (UN38.3/MSDS plus under IMDG Amendment 42-24 (mandatory from 2026-01-01) a lithium-ion-battery-powered vehicle is classified UN3556, not the legacy generic UN3171; apply documentation/SOC details per the current EV shipping Fact Sheet and the carrier (see the EV ocean-compliance guide)) despite the small battery.
+## การปรับแต่งการเรียงลําดับของ VIN-Leve เพื่อล็อคก่อนทําการชําระเงิน
+เครือข่ายแบบไมโคร-EV เปลี่ยนชั้น/ ชาร์จบ่อย ดังนั้นล็อคช่องเหล่านี้กับแผ่นแผ่นแผ่นแผ่น #
+1. "Range election (170/215)" และตรงกับแบตเตอรี่ kWhh~ — ชื่อ "มาการัน" อย่างเดียวไม่ได้ระบุว่าอันไหน
+2. ~ เตรียมการ ~ — AC-ชาร์จช้าเท่านั้น หรือ ดีซี ลงบนชั้น 215; บวกมาตรฐานการเชื่อมต่อทางกายภาพสําหรับปลายทางด้วย
+3. พลังโมเตอร์  and  เรตติ้งท็อปสปีด* สําหรับเกรด (20 kW/ 100 km/h).
+4. ~และกลุ่มย่อย/ภาษาที่รับบท' -- อย่าสมมุติ RHD หรือภาษาท้องถิ่นที่ UI สร้างในประเทศจีน
+5. ** การจัดจําหน่าย/ความปลอดภัย-ความต่อเนื่อง ** สถานะสําหรับปลายทาง — ไมโคร-วีวายต้องเคลียร์ ข้อกําหนดตลาดท้องถิ่น (ดูคู่มือการให้บริการแบบ โคซี/ชนิด-aptroval).
+6. "" เอกสารการขนส่ง" (UN38.3/MSDS บวกกับ InMDG Excel Legor 42-24 (การจัดจําหน่ายจาก 2026-01-01) พาหนะที่ขับเคลื่อนโดยลิเธียน-แบทเทอรี่ จําแนก UN3556, ไม่ใช่มรดกทั่วไป UN3171; ใช้รายละเอียดเอกสาร/SOC ต่อแผ่นข้อมูลการจัดส่งสินค้าและสินค้าในปัจจุบัน (ดูคู่มือของ EV-C-CPliplient) แม้จะมีแบตเตอรี่ขนาดเล็กก็ตาม
 
-## Request a Current Export Quotation
-No static export price is published. The roughly RMB 41,800 / 46,800 Chinese figures are **domestic, time-sensitive references — not FOB/CIF**. Enquire with **Destination Country · Quantity · Range Grade (170/215) · LHD/RHD · Charging Provision · Destination Port · Incoterm**.
+## ต้องการการอ้างถึงการส่งออกแบบปัจจุบัน
+ไม่มีการจัดพิมพ์ราคาการส่งออกแบบคงที่ RMB 41 ที่ประมาณ ค.ศ. 800 / 46, 800 ตัวเลขจีนนั้นดูเป็นพื้นที่เฉพาะ อ้างอิงที่ไวต่อเวลา ไม่ใช่ FOB/CIF Enquire with **Destination Country · Quantity · Range Grade (170/215) · LHD/RHD · Charging Provision · Destination Port · Incoterm**.
 
-## Frequently Asked Questions
-**How far does the MINIEV Macaron go on a charge?** 170 km or 215 km CLTC depending on grade; these are China city-cycle figures, not highway range.
-**Can it fast-charge?** The line is primarily AC slow-charge; any DC provision on the 215 grade is configuration-specific and must be confirmed on the VIN.
-**How fast is it?** Reported top speed is 100 km/h — it is built for urban use, not motorway cruising.
-**How many seats?** Four seats in a 3-door, 3064 mm micro body; rear space is compact and best treated as occasional.
-**170 or 215 grade for a small fleet?** Match the daily loop: short return-to-base loops suit the 170; longer or mid-day-use loops need the 215's headway and any DC option — confirm per VIN.
-**Is it a competitor to a normal compact EV?** No — next to a ~4.1 m, 420+ km Dolphin it is a class smaller; position it as an ultra-compact city commuter, not a highway family EV.
+## คํา ถาม ที่ มัก จะ ถาม บ่อย ๆ
+** ระยะทางเท่าไหร่ของเรือไมเนเวียแมคคารอน (MinIVE Macaron) ดําเนินการ? ~ 170 km หรือ 215 km CLTC ขึ้นอยู่กับระดับการศึกษา นี่คือตัวเลขเมืองจีน ไม่ใช่ทางหลวง
+~มันชาร์จเร็วได้ไหม~ เส้นตรงหลักคือ AC-ชาร์จไฟช้า การตั้งค่า DC ใด ๆ บนชั้น 215 คือการกําหนดค่าปรับแต่ง และต้องได้รับการยืนยันใน VIN
+~มันเร็วแค่ไหน~ ความ เร็ว สูง สุด ที่ มี รายงาน ไว้ 100 km/h คน — ถูก สร้าง ขึ้น เพื่อ ใช้ ใน เมือง ไม่ ใช่ เพื่อ การ ท่อง เที่ยว โดย รถยนต์.
+~มีที่นั่งกี่ที่นั่ง ~ สี่ที่นั่งใน 3-door, 3064 mm ไมโครร่างกาย; พื้นที่หลังถูกปรับให้เป็นระเบียบและดีที่สุดเป็นบางครั้ง
+170 หรือ 215 สําหรับกองเรือลําเล็ก ตรงกับวงเวียนประจําวัน: วงเวียนที่ย้อนกลับมาแบบสั้น เหมาะกับ 170, ยาวขึ้นหรือกลางวันต้องการวง 215 หัวและตัวเลือกใด ๆ ของ DC — ยืนยันต่อ VIN.
+"มันเป็นคู่แข่งของคอมเพล็กซ์ปกติหรือเปล่า" ไม่ -- ถัดจาก UN 4.1 m, 420+ km ดอลฟินเป็นรุ่นที่เล็กกว่า ตําแหน่งเป็นการเดินทางของเมืองขนาดใหญ่ ไม่ใช่ครอบครัวทางหลวง EV
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
-- ORIGINAL_IMAGE_URL: not captured
-- SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICNE_OR_USARIAND_BALE: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
-- RODL_TOIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
-- ALT by language:
+## บันทึกรูปภาพ
+- _ปราสาท: ไม่มีความปลอดภัยในคลังเก็บ
+- ส่วนตัว_ปลายทาง: ไม่ได้จับ
+- ผู้โดยสาร: ไม่ถูกจับ
+- HOURS_ PDFAGE: ไม่มีผล — ไม่มีชื่อแฟ้มสําหรับเลือกสื่อ (ไม่มีใบรับรองที่จะยืนยัน)
+- ลิขสิทธิ์: ไม่ยืนยัน
+- LICE_OR_USARIANCE_BAIME: ไม่มีความปลอดภัย — ไม่มีภาพใด ๆ แบบที่สามจะถูกตีพิมพ์จนกว่าสิทธิ์ในการแก้ไข
+- _กําหนดวันที่: 2026-09-06
+- MERCUL_ TOPIC_ MATCH: ต้องตรงกับรุ่น/ การกลับหน้าเป๊ะ (หรือหัวข้อคําแนะนํา) และตลาดอ้างอิงด้านบน
+- CHAR_SCPE_NOTE: ตรงกับโมเดลที่เป๊ะของครอบครัว/ topiped เท่านั้น; ต้องไม่หมายถึงค่าตามสัดส่วนที่ระบุไว้ในรายปี, ค่าจริง VIN, การตรวจสอบหรือการทําธุรกรรมจริง
+- March_REVES_STATUS: FAIL (ไม่มีการรับลิขสิทธิ์ทรัพย์สิน; ที่ถือครองหรือ "ยอมรับภาพเก่า" ข้อสังเกตไม่ได้รับการยอมรับ)
+- BLOCK [REASOE] ไม่สามารถตรวจสอบภาพได้ เนื่องจาก Wikited Commons/ Flickr ไม่สามารถใช้งานได้จากสภาพแวดล้อมของงานวิจัย, ไลบรารีของคลังหลักที่ต้องการสิทธิ์ในการเข้าถึง API/ licence และภาพ OEM หน้าเว็บนี้ไม่ใช่การให้ข้อมูลการเรียกดูข้อมูลเชิงพาณิชย์ แต่ไม่มีภาพถ่ายที่ใช้ได้กับ AutoBridge เก็บรักษา FAIL แทนการยืนยัน
+- ALT ด้วยภาษา:
   - **EN**: AutoBridge export-buyer reference — Wuling Hongguang MINIEV, battery-electric vehicle
   - **FR**: Référence AutoBridge pour acheteurs export — Wuling Hongguang MINIEV, véhicule 100 % électrique
   - **DE**: AutoBridge-Referenz für Exportkäufer — Wuling Hongguang MINIEV, batterieelektrisches Fahrzeug
@@ -84,25 +87,25 @@ No static export price is published. The roughly RMB 41,800 / 46,800 Chinese fig
   - **AR**: مرجع AutoBridge لمشتري التصدير — Wuling Hongguang MINIEV, مركبة كهربائية بالبطارية
   - **ZH**: AutoBridge 出口采购参考｜Wuling Hongguang MINIEV, 纯电动车
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## ต้นฉบับและการตรวจสอบสิทธิ์
+| ชื่อแหล่ง | องค์กร | ตลาด | ที่อยู่ URL | ตรวจสอบแล้ว | ความมั่นใจ | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| Macaron adds 170 km / 20 kW | Autohome | CN | https://chejiahao.m.autohome.com.cn/info/13878133 | 2026-09-03 | ROOS_ CHCKED | 20 kW, 170 km, domestic price (TIME_SENSITIVE) |
-| MINIEV 2025 parameters/prices | Dongchedi database | CN | https://m.dongchedi.com/auto/params-carIds-96348-79759-72934-72935-72308-72478-72466-72479-72467-72480-72468-72481-79929-79930-79931-79932-72476-72477-72475-72474-76902-76901-77162-77161-59192 | 2026-09-03 | ROOS_ CHCKED | Model year, range grades, domestic MSRP (TIME_SENSITIVE) |
-| 2024 Macaron 215 (diamenssion/kb) | NetEase Auto database | CN | https://product.auto.163.com/product/000CQEGG.html | 2026-09-03 | SINGLE_SOURCE | 3064/1493/1629, 2010 mm, 777 kg (media DB, not OEM) |
-| Macaron battery / slow-charge | PCauto encyclopedia | CN | http://m.pcauto.com.cn/baike/941480/1848425/ | 2026-09-03 | SINGLE_SOURCE | ≈13.4 kWh, charging method |
-| Road motor-vehicle manufacturers & products catalog — public query system | MIIT, China Ministry of Industry and Information Technology | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | VERIFIED | Verify the manufacturer, approved model and homologation (公告) catalog entry before ordering or export |
-| GB 16735-2019 Road vehicles — Vehicle identification number (VIN) requirements | SAMR national standards full-text platform | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | VERIFIED | VIN structure and nameplate data fields used in the buyer's VIN/nameplate verification |
-| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VERIFIED | Baseline in-China vehicle safety technical conditions and the current/revision timeline |
-| GB 38031 traction battery safety requirements (GB 38031-2025; new type applications mandatory from 2026-07-01) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VERIFIED | Mandatory traction-battery safety requirement basis for the electrified powertrain |
-| GB 18384 electric vehicle safety requirements (GB 18384-2025) | SAMR national standards full-text platform | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VERIFIED | Electric-vehicle electrical/functional safety requirement basis |
+| มา คา รอน เพิ่ม เข้า มา 170 km / 20 kW | อัตโนมัติ | CN | https://chejiahao.m.autohome.com.cn/info/13878133 | 2026-09-03 | ROOS_ CHCKED | 20 kW, 170 km ราคาในประเทศ (เวลา) |
+| MINUTES 2025 พารามิเตอร์/ prices | ฐานข้อมูล Dandmedi | CN | https://m.dongchedi.com/auto/params-carIds-96348-79759-72934-72935-72308-72478-72466-72479-72467-72480-72468-72481-79929-79930-79931-79932-72476-72477-72475-72474-76902-76901-77162-77161-59192 | 2026-09-03 | ROOS_ CHCKED | ปีตัวอย่าง เกรดปานกลาง MSRP ในประเทศ (เวลา_เวลา) |
+| 2024 มาคารอน 215 (Diminsion/kb) | ฐานข้อมูล Netease Auto | CN | https://product.auto.163.com/product/000CQEGG.html | 2026-09-03 | ผู้โดยสาร_ปลายทาง | 3064/1493/1629, 2010 mm, 777 kg (กลาง DB, ไม่ใช่ OEM) |
+| แบตเตอรีแมคคารอน / แบตเตอรีแบบช้า | ส่วนเสริม PCauto | CN | http://m.pcauto.com.cn/baike/941480/1848425/ | 2026-09-03 | ผู้โดยสาร_ปลายทาง | ○ 13.4 kWh วิธีชาร์จ |
+| ผู้ ผลิต และ แคตตาล็อก ผลิตภัณฑ์ ถนน — ระบบ สอบ ถาม ของ ประชาชน |  MIT, กระทรวงอุตสาหกรรมและเทคโนโลยีข้อมูลจีน | CN | https://service.miit-eidc.org.cn/miitxxgk/gonggao_xxgk/index_ggcp.html | 2026-09-05 | เปิดใช้งาน | ตรวจสอบผู้ผลิต, โมเดลที่อนุญาต และการทําอัลบั้มแบบแบ่งประเภท (公告) ก่อนการสั่งซื้อหรือส่งออก |
+| ขนาด GB 16735-2019 รถ ที่ ใช้ ถนน — หมาย เลข รถ (VIN) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2EBF667F8C032B1EDFD6DF9C1114E02 | 2026-09-05 | เปิดใช้งาน | โครงสร้างและชื่อของ platt language ที่ใช้ในการตรวจสอบความถูกต้องของผู้ซื้อ/ ชื่อ |
+| GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, กรมบริหารการตลาดสําหรับการปรับปรุงตลาด | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | เปิดใช้งาน | พื้นฐานในรถยนต์จีน สภาวะความปลอดภัยทางเทคนิคและเวลาปัจจุบัน/การปรับปรุง |
+| GB 38031 structive about safe (GB 38031-2025); โปรแกรมรุ่นใหม่ที่บังคับจาก 2026-07-01) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | เปิดใช้งาน | ความปลอดภัยเชิงรุก-บาทีเรียพื้นฐานสําหรับไฟฟ้าที่ขับเคลื่อนได้ |
+| GB 18384 ความปลอดภัยรถไฟฟ้า (GB 18384-2025)) | มาตรฐานของชาติ SAMTH เต็มจอ | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | เปิดใช้งาน | ความปลอดภัยไฟฟ้า-แรงโน้มถ่วง/ระบบไฟฟ้า |
 
-*Confidence note: no Wuling/SAIC-GM-Wuling primary spec sheet was captured; media databases are not VERIFIED. Range/price are cross-checked while kerb weight, top speed and kWh are single-source. CLTC is China-cycle only. Charging provision must be confirmed on the exact VIN.*
+* ใบรับรองการขอข้อมูล: ไม่มีหมายเลขข้อมูล Woldonidence: None Wolling/SAIC-GM-Wuling speck sport expression access (in อังกฤษ); ฐานข้อมูลสื่อไม่ได้เปิดใช้งาน (IFIFIIIIIII) ช่วง/ปริชถูกตรวจสอบเมื่อ kerb น้ําหนัก, ความเร็วสูงสุด และ kWH เป็นซิงเกิล CLTC เป็นรถจีนเท่านั้น การชาร์จเสบียงต้องได้รับการยืนยันว่า ใช้ VIN แน่นอน *
 
-## Editorial Review
-- **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: China, 3rd-gen Macaron MY2024 (Chinese-market reference)
-- **Verification method**: Check value - datatabase cross single-source items flagged; added procurement value built only on already-captured facts, no new external figures
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+## การทบทวนแก้ไข
+- ~Uuthor/ retrieved~: [บีดริดจ์ ส่งออกทีมแก้ไข] (/ ผู้เขียน/) วิธี [แก้ไข] ของเรา [นโยบายการเลือ [/ การแก้ไข- policy/]
+- ~ถูกตรวจสอบแล้ว~: 2026-09-05
+- ~ตลาดแห่งความไม่สงบ ~: จีน 3rd-gen มาการัน MY2024 (อ้างอิงของตลาดจีน)
+- ** วิธีการการจําแนก *: การตรวจสอบการข้ามข้อมูลหลาย ๆ แบบ; ตรวจหาทรัพยากรแบบเดียว; เพิ่มค่าการจัดหางาน สร้างขึ้นเฉพาะเมื่อความจริงมีอยู่แล้วเท่านั้น ไม่มีตัวเลขภายนอกใหม่ใด ๆ
+- ~มาตรฐานการแบ่งส่วน ~: Research and med from the source address address (Desk Research; ไม่มีการขับรถมือหนึ่ง, runchown หรือนําเข้า). ความมั่นใจของแหล่งแสดงต่อแถว; จุดใด ๆ ที่เราไม่สามารถยืนยันได้ด้วยตัวเอง ถูกนําเสนอเป็นรายการตรวจสอบแทนการยืนยันว่าเป็นความจริง
 #AutoBridge #VehicleExport #Wuling #HongguangMINIEV #MicroEV

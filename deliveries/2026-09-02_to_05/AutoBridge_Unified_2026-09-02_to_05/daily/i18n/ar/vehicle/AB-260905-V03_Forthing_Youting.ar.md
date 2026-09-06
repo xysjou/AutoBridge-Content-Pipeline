@@ -1,86 +1,89 @@
-# Dongfeng Forthing Youting (2025/2026) — Chinese-Market MPV Specs, ICE/PHEV Lines and Export Checks
+# Dongfeng Forthing Youting (2025/2026) — Chinese-Market MPV Specs, ICE/PHEV خطوط  and  ضوابط التصدير
 
 ## SEO Metadata
-- **SEO Title**: Forthing Youting MPV: Chinese-Market ICE & PHEV Lines, Specs and Export Guide
-- **Meta Description**: Chinese-market Dongfeng Forthing Youting (游艇) MPV: keep the ICE and PHEV lines separate; dimensions, 7-seat cabin, PHEV powertrain and export verification points.
-- ** H1 **: Dongfeng Forthing Youting (2025/2026) — Chinese-Market MPV Specs, ICE/PHEV Lines and Export Checks
-- **Primary Keyword**: Dongfeng Forthing / 东风风行 Youting / 风行游艇 specs export
-- **Secondary Search Terms**: Forthing Youting export; 游艇 MPV specs; Chinese 7-seat MPV; MPV PHEV; passenger van import
-- **Suggested URL**: /vehicles/forthing-youting/
-- **Search Intent**: 了解 Dongfeng Forthing / 东风风行 Youting / 风行游艇 中国版规格、配置与出口适配性（车型参数页）
+- ** عنوان المنظمة**: " تينغ م. م. م. ": خطا المريخ الصيني - الصيني - PHEV " ، و " Specs " و " دليل التصدير "
+- ** وصف البيانات**: Chinese-market Dongfeng Forthing Youting (游艇) MPV: (أ) إبقاء خطوط ICE و PHEV منفصلة؛ أبعاد، 7-seat كوخ، ومحطة PHEV لتوليد الطاقة، ونقاط التحقق من الصادرات.
+- ** H1 **: Dongfeng Forthing Youting (2025/2026) — Chinese-Market MPV Specs, ICE/PHEV خطوط  and  ضوابط التصدير
+- ** كلمة مفتاحية رمزية**: دونغفنغ للشيء/ 东风风行 تصدير اليوتنغ/ 风行游艇
+- ** شروط البحث الثانية**: تصدير يوتنغ؛ 游艇 ميغاواط؛ 7-seat ميغاواط؛ ميغاواط صيني؛ ميغافولت؛ ميغابايت ميغافول؛ ميغابايت؛ مركب فان
+- ** اقتراح مقدم من الاتحاد الأوروبي**: /المركبات/لكل شيء
+- ** الحلقة الدراسية**: 了解 Dongfeng Forthing / 东风风行 Youting / 风行游艇 中国版规格、配置与出口适配性（车型参数页）
 - ** Internal Link Suggestions**: /vehicles/forthing-youting/, /guides/ckd-knockd-kit-export-assembly/, /guides/export-document-package-history/
-- **Schema Scope**: Article + Vehicle (no Product/Offer/Review)
+- ** نطاق الشيمة**: المادة + المركبات (لا منتج/منتج/مراجعة)
 
-## Buyer context: one MPV nameplate, two energy lines
-The **Dongfeng Forthing Youting (游艇)** is a mid-size Chinese-market MPV offered in **ICE and PHEV lines that must be quoted separately**. They share a 2900 mm wheelbase and 7-seat, hinged-door cabin but differ in height and powertrain. Reference market is **China**; no export-line specification is claimed.
+## سياق الشراء: نموذج واحد من طراز MPV، وخطين للطاقة
+The **Dongfeng forthing Youting (游艇)** is a mid-size Chinese-market MPV offered in **ICE and PHEV lines that must be quoted separately**. ويتقاسمون 2900 mm قاعدة عجلة و 7-seat، وكوخ مشرق، ولكنهم يختلفون في المرتفعات والقوة. وتُدعى الصين** إلى وجود سوق مرجعية؛ ولا يُطالب بمواصفات التصدير.
 
-## Cabin, dimensions and the two lines
-- **Wheelbase/seating**: 2900 mm, 7（5门，平开门） (five doors, hinged/sliding as built — confirm by trim).
-- **ICE body**: 4850 / 1900 / 1715 mm (cross-checked).
-- **PHEV body**: 4850 / 1900 / 1740 mm (cross-checked; note the taller roofline).
-- **PHEV powertrain**: 1.5T 154马力 L4, engine torque 230 N·m, motor torque 310 N·m, 1挡DHT, top speed 180 km/h.
-- **Charging note**: per the captured AutoHome account the PHEV **does not support DC fast charging** — confirm on the exact trim.
-- **Chinese domestic reference price (time-sensitive)**: from 15.49 RMB; a Chinese domestic MSRP only, never an export price.
+## المقصورة والأبعاد والخطين
+- ** قاعدة/مجلس**: 2900 mm، 7 (5، 平开门) (خمسة أبواب، مائلة/منحدرة كما بنيت - تؤكدها ثلاث مرات).
+- ** هيئة الاتصال**: 4850 / 1900 / 1715 mm (مراجعة عبر الحدود).
+- ** الهيئة المعنية بالإنترنت**: 4850 / 1900 / 1740 mm (مراجعة عبر الحدود)؛ لاحظوا خط السقف الأطول
+- ** محطة كهرباء PHEV**: 1.5T 154马力 L4, محرك محرك 230 N·m شاحنات محرك 310 N·m 1، 挡، السرعة القصوى 180 km/h
+- ** ملاحظة مرفوعة**: تؤكد على الترايم بالضبط، في حساب أوتومايم المأجور، أن شركة PHEV ** لا تدعم شركة DC بالشحن السريع**.
+- ** سعر مرجعي محلي لامع (حساس زمنيا)**: من 15.49 RMB؛ وهو مصرف صيني محلي فقط، لا يشكل أبداً سعراً للصادرات.
 
-## Verified specification table (Chinese-market reference)
-| Specification | Value | Unit | Market | Confidence | Source note |
+## جدول مواصفات مصدق عليه (مراجع السوق الصينية)
+| المواصفات | القيمة | الوحدة | السوق | الثقة | مذكرة المصدر |
 |---|---|---|---|---|---|
-| length width height ice | 4850 / 1900 / 1715 | mm | CHINA | CROSS_CHECKED | 太平洋+搜狐 |
-| length width height phev | 4850 / 1900 / 1740 | mm | CHINA | CROSS_CHECKED | 汽车之家+太平洋 |
-| wheelbase | 2900 | mm | CHINA | CROSS_CHECKED | 太平洋+搜狐 |
-| seats | 7（5门，平开门） | - | CHINA | SINGLE OURCE | 搜狐车型库 |
-| phev engine | 1.5T 154马力 L4 | - | CHINA | SINGLE OURCE | 汽车之家车家号 |
-| phev engine torque | 230 | N m | CHINA | SINGLE OURCE | 汽车之家车家号 |
+| طول الجليد | 4850 / 1900 / 1715 | مم | CHINA | صرخات | 太平洋 + 搜狐 |
+| طول الموجة | 4850 / 1900 / 1740 | مم | CHINA | صرخات | 汽车之家 + 太平洋 |
+| قاعدة عجلات | 2900 | مم | CHINA | صرخات | 太平洋 + 搜狐 |
+| المقاعد | 7 (5، 平开门) | - | CHINA | SINGLE OURCE | 搜狐车型库 |
+| محرك الغلاف الجوي | 1.5T 154马力 L4 | - | CHINA | SINGLE OURCE | 汽车之家车家号 |
+| محرك phev | 230 | N m | CHINA | SINGLE OURCE | 汽车之家车家号 |
 | phev motor torque | 310 | N m | CHINA | SINGLE OURCE | 汽车之家车家号 |
-| phev transmission | 1挡DHT | - | CHINA | SINGLE OURCE | 汽车之家车家号 |
-| phev top speed | 180 | km/h | CHINA | SINGLE OURCE | 汽车之家车家号 |
+| انتقال الغلاف الجوي | 1挡DHT | - | CHINA | SINGLE OURCE | 汽车之家车家号 |
+| سرعة عالية | 180 | كيلومتراً/ساعة | CHINA | SINGLE OURCE | 汽车之家车家号 |
 | phev dc fast charge | 不支持快充（汽车之家口径） | - | CHINA | SINGLE OURCE | 汽车之家车家号 |
-| phev china msrp start | 15.49 | 万元人民币 | CHINA | TIME_SENSITIVE | 车主之家 |
+| "فيف تشينا مسترب" | 15.49 | 万元人民币 | CHINA | الوقت - | 车主之家 |
 
-## MPV procurement focus: seating, conversion and what is deliberately missing
-For MPV importers the order-critical fields are seat count/configuration, door type, cabin length and whether the unit is ICE or PHEV. The PHEV **battery capacity and pure-electric range are not reliably captured and are withheld**, and fast-charging rests on a single source; do not fill these from assumption. Any ambulance, VIP shuttle or wheelchair conversion is an upfit built on this MPV and belongs to a separate special-vehicle assessment.
+## تركيز المشتريات من الفلزات المتعددة الفلزات: الجلوس، وتحويل الأموال، وما يُفتقد عمدا
+وبالنسبة للمستوردين من ميغابايت، فإن الحقول التي تتطلب الطلب هي إحصاء/ترتيب المقاعد، ونوع الباب، وطول الكبينة، وما إذا كانت الوحدة هي ICE أو PHEV. ولا تُستَولى على قدرة الكتيبة على شبكة الإنترنت وعلى النطاق الكهربي النقي بشكل موثوق، كما أنها محجوبة**، وتُفرض رسوم سريعة على مصدر واحد؛ ولا تملأ هذه القدرات من الافتراض. وأي سيارة إسعاف أو مكوك أو كرسي متحرك هو مصعد مبني على هذا المقطعي المتعدد الأطراف وينتمي إلى تقييم منفصل للمركبات الخاصة.
 
-## Overseas buyer verification before payment
+## التحقق من المشتري في الخارج قبل الدفع
 1. State ICE or PHEV explicitly and record the matching dimensions/height.
-2. Confirm 7-seat layout, door type and any conversion scope.
-3. Obtain PHEV battery/electric-range and charging data from OEM before quoting them — they are blocked here.
+2. تأكيد 7-seat تخطيط، نوع الباب وأي نطاق للتحويل.
+3. وتُمنع هذه البيانات من استخدام البطارية/الكهرباء في الهواء الطلق وشحن البيانات من OEM قبل اقتباسها.
 4. Confirm destination emissions/type-approval and (for PHEV) charging standard.
-5. Treat the RMB figure as domestic reference only; request a current export quotation.
+5. معالجة رقم المصرف كمرجع محلي فقط؛ طلب اقتباس تصديري حالي.
 
 ## FAQ
-**Are the ICE and PHEV Youting the same size?** Same wheelbase, but the PHEV is slightly taller; quote each line separately.
-**What is the PHEV electric range?** Not reliably sourced here and intentionally omitted.
-**Does it fast-charge?** One source says no DC fast charging; confirm by exact trim.
-**Is 154,900 RMB the export price?** No — Chinese domestic reference only.
-**Can it be converted to a shuttle/ambulance?** As an upfit; assess separately from the base MPV.
+** هل يُستخدم في نفس الحجم جهاز المعلومات الفضائية والهاتف المحمول؟** نفس قاعدة العجلات، لكن الـ (بي.إف) أطول قليلاً، اقتبس كل خط على حدة.
+** ما هو النطاق الكهربائي للمركبات الهيدروجينية؟** ليس مصدر موثوق به هنا و قد أغفل عمداً
+** هل هذا سريع التكرار**؟ أحد المصادر يقول لا شركة العاصمة تشحن بسرعة، تأكد من الترايم الدقيق
+** هل هو 154، 900 RMB سعر التصدير؟** لا - المرجع المحلي الصيني فقط.
+** هل يمكن تحويله إلى مكوك/مصباح؟** كمكافأة؛ تقييم منفصل عن قاعدة م.
 
 
-## Sources & Verification
-| Source | Organization | Market | Tier | Confidence | URL | Supported facts |
+## المصدر: التحقق
+| المصدر | المنظمة | السوق | النمور | الثقة | URL | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
-| 风行游艇 车型百科 | 太平洋汽车百科 | CN | T3 | CROSS_CHECKED | http://m.pcauto.com.cn/baike/1542347/2562358/ | 尺寸, 轴距, 座椅, 车门形式 |
-| 风行游艇 车型信息 | 汽车之家车家号 | CN | T3 | CROSS_CHECKED | https://chejiahao.m.autohome.com.cn/info/23897205?isfrom=pc | PHEV动力, 快充, 价格 |
-| 风行游艇 参数配置 | 搜狐汽车车型库 | CN | T2 | CROSS_CHECKED | https://db.auto.sohu.com/model_6769/config | 尺寸, 座位, 动力 |
-| 风行游艇 新车资讯 | 车主之家 | CN | T3 | CROSS_CHECKED | https://m.16888.com/news/2026/0807/24830307.html | PHEV上市信息 |
-| Dongfeng Forthing official global site | Dongfeng Liuzhou Motor / Forthing 东风风行 (OEM) | CN | T1 | VERIFIED | https://www.forthingmotor.com/ | brand/model-line identity and OEM authority |
-| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | T1 | VERIFIED | https://www.miit.gov.cn/ | homologation/announcement authority; confirm exact model, masses and code by VIN/announcement |
-| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | VERIFIED | https://www.samr.gov.cn/ | national standards, certification and market-regulation authority |
-## Editorial Review
+| 风行游艇 车型百科 | 太平洋汽车百科 | CN | T3 | صرخات | http://m.pcauto.com.cn/baike/1542347/2562358/ | 尺寸, 轴距, 座椅, 车门形式 |
+| 风行游艇 车型信息 | 汽车之家车家号 | CN | T3 | صرخات | https://chejiahao.m.autohome.com.cn/info/23897205?isfrom=pc | PHEV 动力, 快充, 价格 |
+| 风行游艇 参数配置 | 搜狐汽车车型库 | CN | T2 | صرخات | https://db.auto.sohu.com/model_6769/config | 尺寸, 座位, 动力 |
+| 风行游艇 新车资讯 | 车主之家 | CN | T3 | صرخات | https://m.16888.com/news/2026/0807/24830307.html | PHEV 上市信息 |
+| دونغ فينغ لموقع عالمي رسمي | دونغفنغ ليوزو موتور/لشيء يبلغ 东风风行 (OEM) | CN | T1 | مفقود | https://www.forthingmotor.com/ | الهوية التجارية/النموذجية وسلطة منظمة أوغ |
+| Ministry of Industry and Information Technology (MIIT) | MIIT 工业和信息化部 | CN | T1 | مفقود | https://www.miit.gov.cn/ | سلطة التشريح/الإلغاء؛ تأكيد النموذج الدقيق، والكتل، والرمز حسب الرقم القياسي/الإشعار |
+| State Administration for Market Regulation (SAMR) | SAMR 国家市场监督管理总局 | CN | T1 | مفقود | https://www.samr.gov.cn/ | المعايير الوطنية، ومنح الشهادات، والضوابط التنظيمية السوقية |
+## استعراض التحرير
 - ** Author**: AutoBridge Export Editorial Team · [authors](/authors) · [Editorial Policy](editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: China (Chinese-market reference specification; not a global spec)
-- **Verification method**: Desk research against the sources below; Chinese-market reference specification only unless a separate export market is explicitly cited.
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
+- ** لم يُستعرض بعد**: 2026-09-05
+- ** سوق الإحالة**: الصين (المواصفات المرجعية للسوق الصينية؛ وليس مواصفات عالمية)
+- ** طريقة الفرز**: بحوث مكتبية ضد المصادر الواردة أدناه؛ والمواصفات المرجعية للسوق الصينية فقط ما لم يُستشهد صراحة بسوق تصدير منفصلة.
+- ** الشفافية**: استُخدمت الصياغة المدعومة من منظمة العفو الدولية. وتستند هذه المادة إلى البحوث المكتبية وآلية الجودة. ولا يُزعم إجراء أي اختبار مباشر إلا إذا تم توثيقه بشكل صريح؛ ويؤكد متطلبات مراعية للوقت ومحددة للمقصد قبل التحول.
 
-## Image Record
-- ** none secured in repository
-- ** not captured
-- **SOURCE_PAGE**: not captured
-- ** unconfirmed
-- ** none secured — OEM webpage presence is not a commercial reuse licence
-- ** CHECKED_DATE**: 2026-09-05
-- ** exact Dongfeng Forthing Youting
+## سجل الصور
+- ** لم يُكفل أي شيء في مستودع
+- ** غير مسبوقة **
+- ** الموارد: لم يُقبض عليها
+- ** المصدر: الدليل: لا ينطبق - لم يحدد أي ملف إعلامي مرشح (لا رخصة للتأكيد)
+- ** مسلسل هولدر**: غير مؤكد
+- ** لا يوجد أي من هذه الصفحات مضمونة - ليس من حق المنظمة الحصول على ترخيص تجاري لإعادة الاستخدام
+- ** CHECKED_DATE**: 2026-09-06
+- ترجمة:
+- ** MEIMAGE_SCOPE_NOTE**: يجب أن تتطابق الصورة مع النموذج المحدد للأسرة/المنظر فقط؛ ويجب ألا تنطوي على ثلاثية محددة، أو سنة نموذجية، أو تفتيش فعلي، أو عملية فعلية
 - **MAGE_Rights_STATUS**: FAIL
+- ** BLOCK_REASON**: لا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: لا يمكن الوصول إلى الشائعات/الفلك من بيئة البحوث، ولا تحتاج مكتبات المخزون إلى الوصول إلى نظام تسجيل الدخول/الرخصة الموثق، وصورة الموقع الشبكي لمنظمة أوم ليست منحة إعادة استخدام تجارية. لا توجد صورة مملوكة لـ(أوتومبريدج) وظل التسجيل في القوات المسلحة الفلسطينية بدلا من التأكيد عليه.
 - **ALT (12 languages)**:
   - **EN**: Dongfeng Forthing Youting, Chinese-market MPV export buyer reference
   - **FR**: Dongfeng Forthing Youting, MPV du marché chinois, référence acheteur export

@@ -1,59 +1,62 @@
-# Which Certificate of Origin Does a Vehicle Export Need? Customs vs CCPIT, Preferential vs Non-Preferential
+# أي شهادة من الأوريجين هل تحتاج إلى تصدير المركبات؟ الجمارك ضد مركز مراقبة تكنولوجيا المعلومات والاتصالات، التفضيل ضد غير منح
 
 ## SEO Metadata
-- **SEO Title**: China Certificate of Origin for Vehicle Exports — CO Types & Issuers
-- **Meta Description**: The three Chinese certificate-of-origin types, which to apply for, whether to use Customs or CCPIT, when an FTA preferential CO applies, and what an exporter must not promise about destination duty.
-- **Suggested URL**: /guides/china-export-certificate-of-origin
-- ** H1 **: Choosing the Right Certificate of Origin for a Chinese Vehicle Export
-- **Primary Keyword**: china export certificate of origin ccpit customs
-- **Secondary Search Terms**: non-preferential CO, GSP certificate of origin, FTA preferential CO, GACC order 270, CCPIT certificate origin, vehicle export documents
-- **Internal Link Suggestions**: /guides/vehicle-export-hs-code-classification/; /guides/export-vecle-document-package/; /guides/china-export-statutory-inspection-declaration/
-- **Image Suggestions**: three CO types comparison; Customs vs CCPIT issuer diagram; FTA preference flow
-- **ALT Suggestions**: "China certificate of origin three types Customs CCPIT"
+- ** المصدر: الوثيقة الصينية شهادة المنشأ لتصدير المركبات - نوع ثاني أكسيد الكربون
+- ** وصف البيانات**: الأنواع الثلاثة من شهادات المنشأ الصينية، التي يتعين عليها أن تطلب، سواء كانت تستخدم الجمارك أو اتفاقية الأسلحة الكيميائية، عندما ينطبق عليها منشأ تفضيلي، وما هو الذي يجب على المصدر ألا يتعهد به بشأن واجب المقصد.
+- ** اقتراح مقدم من الاتحاد الأوروبي**: /إرشادات/آلية للتصدير - شهادة المنشأ
+- ** H1 **** اختيار الشهادة الصحيحة للأصل من أجل تصدير مركبات صينية
+- ** كلمة رئيسية**: شهادة تصدير من أصل جمركي
+- ** مصطلحات البحث الثانية**: غير سمية CO, GSP certificate of origin, FTA preferential CO, GACC order 270, CCPIT certificate origin, vehicle export documents
+- ** مقترحات داخلية بشأن الروابط**: /مبادئ توجيهية/تصنيف المركبات - تصدير/تصنيف/تصنيف؛/مبادئ توجيهية/حزمة وثائق تصدير/تغطية/تجديدات/تغطية/تغطية/تجديدات/أجهزة تصدير - عرض - عرض - عرض - عرض - عرض/
+- ** اقتراحات بشأن الحد الأدنى**: مقارنة ثلاثة أنواع من ثاني أكسيد الكربون؛ الرسوم البيانية للجمارك ضد شركة CCPIT؛ تدفق الأفضليات في منطقة التجارة الحرة
+- ** اقتراحات بشأن: شهادة منشأ الصين ثلاثة أنواع من التصنيفات الجمركية
 
-## The Decision Hidden in a Routine Document
-Importers routinely ask for "the CO" as if it were one paper. It is not. China issues **three families** of certificate of origin, and choosing the wrong one means the buyer either cannot clear preference or receives a document its authority does not expect. The current governing rule is **GACC Order No.270, *Administrative Measures for Certificates of Origin for Export Goods*, published 2024-07-30 and in force from 2024-09-01**. This page covers the **China issuing side**; whether a specific destination grants a preference is that country's decision.
+## القرار مخفي في وثيقة روتينية
+المستوردون يطلبون عادةً "الثانية" كما لو كانت ورقة واحدة ليس كذلك المسائل الصينية ** ثلاثة أسر**، من أصلها**، واختيارها يعني أن المشتري لا يستطيع أن يُبيّن أو يتلقى وثيقة لا تتوقع سلطته. والقاعدة الحالية هي: ** الأمر رقم 270، * التدابير الإدارية المتعلقة بشهادات المنشأ للسلع التصديرية*، المنشور 2024-07-30، والنافذ من 2024-09-01 **. هذه الصفحة تغطي الجانب الصيني المُصدر**.. سواء كان مقصد محدد يمنح الأفضلية هو قرار تلك البلاد.
 
-## The Three Certificate Families
-| Type | Purpose | When a vehicle exporter uses it |
+## الأسر الثلاث شهادة
+| النوع | الغرض | عندما يستخدمها مصدر مركبة |
 |---|---|---|
-| **Non-preferential CO** | MFN treatment, anti-dumping/countervailing/safeguard cases, origin marking, quantitative limits, tariff quotas, government procurement, trade statistics | Default "ordinary CO" proving Chinese origin when no trade-agreement preference is claimed |
-| **GSP (generalized system of preferences) CO** | Preference under a GSP-granting country's scheme | Only where the destination still grants GSP and requires its specific form |
-| **Regional/preferential CO (FTA)** | Preferential agreement tariff rate in the destination | Only where an FTA between China and the destination applies **and** the goods meet that agreement's rules of origin |
+| ** لا تُمنح CO** | معاملة الدولة الأكثر رعاية، وحالات مكافحة الإغراق/الكشف عن البيانات/الضمانات، وعلامات المنشأ، والحدود الكمية، وحصص التعريفات، والمشتريات الحكومية، والإحصاءات التجارية | إثبات وجود تخلف عن الدفع بـ "ثاني أكسيد عادي" أصل صيني عندما لا يُطالب بأفضلية في مجال التجارة |
+| ** نظام الأفضليات المعمم CO** | الأفضلية في خطة البلد المُمول من نظام الأفضليات المعمم | فقط عندما لا تزال الوجهة تمنح نظام الأفضليات المعمم وتحتاج إلى شكله المحدد |
+| ** التكاليف الإقليمية/الأفضلية* ♪ | معدل التعريفات الجمركية للاتفاق التفضيلي في المقصد | فقط عندما تُطبق وكالة التجارة الحرة بين الصين والمقصد ** و تُستوفى البضائع قواعد المنشأ لهذا الاتفاق |
 
-Each FTA has its **own rules of origin, form and code** — a certificate made for one agreement cannot be reused for another.
+ولكل اتفاق من اتفاقات التجارة الحرة قواعد المنشأ والشكل والمدونة** - لا يمكن إعادة استخدام شهادة من أجل اتفاق ما من أجل اتفاق آخر.
 
-## Who Issues It: Customs or CCPIT
-The two authorized issuing channels are **China Customs** and **CCPIT (China Council for the Promotion of International Trade) and its local branches**:
-- Where the **importer requires an official-government body**, apply through **Customs**.
-- Where the buyer does not specify, the exporter may apply to **either** Customs or CCPIT.
-- CCPIT's ordinary (non-preferential) certificate is generally issued **without a fee**, subject to its current published schedule.
+## الجهة التي تصدرها: الجمارك أو مركز مراقبة الأسلحة الكيميائية
+والقناتين المأذون بهما بإصدارهما هما ** جمارك الصين** و ** اللجنة الاستشارية المعنية بالتجارة الدولية (مجلس الصين لتعزيز التجارة الدولية) وفروعها المحلية**:
+- وحيثما يتطلب المستورد هيئة حكومية رسمية**، ينطبق هذا النص من خلال **Customs**.
+- وفي الحالات التي لا يحدد فيها المشتري، يجوز للمصدر أن يطلب إلى:**. الجمارك أو مركز مراقبة تكنولوجيا المعلومات والاتصالات.
+- شهادة (سي بي آي) العادية (غير قابلة للتداول) تصدر بشكل عام بدون رسم**، رهناً بجدولها الحالي المنشور
 
-## Applying the Framework to a Vehicle Shipment
-1. Confirm the destination and whether an **FTA preference** is actually being claimed; if not, a non-preferential CO is the usual instrument.
-2. If claiming preference, verify the vehicle meets **that agreement's** product-specific rule of origin before applying — do not assume "made in China" alone qualifies.
-3. Match the issuer to what the importer/letter of credit demands (official body → Customs).
-4. Use the **current** form and code under Order 270 and the relevant agreement; forms change as agreements are added.
+## تطبيق الإطار على شحنة مركبات
+1. تأكيد الوجهة، وما إذا كان هناك بالفعل طلب للحصول على تفضيل لمنظمة التجارة الحرة**؛ وإذا لم يكن الأمر كذلك، فإن شركة CO غير تفضيلية هي الأداة المعتادة.
+2. إذا زعمنا الأفضلية، تحقق من أن السيارة تلتقي بـ ** قاعدة المنشأ الخاصة بالمنتجات قبل التطبيق لا تفترض "صنع في الصين" وحدها
+3. (ج) أن يطابق المصدر ما يطلبه المستورد/الرسالة الائتمانية (الهيئة الرسمية). الجمارك).
+4. استخدام الشكل والشفرة** في إطار الأمر 270 والاتفاق ذي الصلة؛ كما يضاف تغيير شكل الاتفاقات.
 
-## What Not to Promise
-- This page does **not** map a given destination to a specific FTA or its rules — that is country- and agreement-specific and must be checked per shipment against Customs/CCPIT.
-- A certificate of origin does **not guarantee** the destination will grant a reduced rate; the destination customs makes that determination.
+## ما الذي لا وعد به
+- هذه الصفحة لا ت** خريطة لمقصد معين لاتفاق التجارة الحرة أو قواعده - أي اتفاق خاص بكل بلد، ويجب التحقق من كل شحنة ضد الجمارك/الاتفاقية.
+- ولا تضمن شهادة المنشأ** أن الوجهة ستمنح معدلاً مخفضاً؛ وتقرع جمركة الوجهة ذلك التحديد.
 
-## Frequently Asked Questions
-**What is the current rule for Chinese export COs?** GACC Order No.270, in force since 1 September 2024, governs export certificates of origin.
-**Do I go to Customs or CCPIT?** If the buyer requires an official body, use Customs; otherwise either channel may issue, and CCPIT's ordinary CO is generally free.
-**What is the difference between an ordinary and an FTA CO?** The ordinary CO proves origin for non-preferential purposes; the FTA CO supports an agreed preferential rate only if the goods meet that agreement's origin rules.
-**Does an FTA CO guarantee lower duty abroad?** No — the importing country's customs decides whether to grant the preference.
+## الأسئلة المتكررة
+** ما هي القاعدة الحالية لثاني أكسيد الكربون الصيني؟**، ينظم أمر الجمعية العامة رقم 270، الذي دخل حيز النفاذ منذ 1 أيلول/سبتمبر 2024، شهادات المنشأ التصديرية.
+** هل أذهب إلى الجمارك أو مركز التحقيقات الجنائية الدولية**؟ إذا كان المشتري يحتاج إلى هيئة رسمية، استخدام الجمارك، وإلاّ يمكن أن تصدر أي قناة، وثاني أكسيد CCPIT العادي هو حر عموما.
+** ما الفرق بين مركب عادي وطائرة من طراز FTA CO؟** "المكتب العادي يثبت المنشأ لأغراض غير تفضيلية" "يدعم "إف تي كو" سعراً تفضيلياً متفقاً عليه فقط إذا كانت السلع تفي بقواعد المنشأ
+** هل تضمن شركة FTA CO فرض رسوم أقل في الخارج**؟ لا، الجمارك في البلد المستورد تقرر ما إذا كانت ستمنح الأفضلية
 
-## Image Record
-- IMAGE_ASSET_PATH: none secured in repository
+## سجل الصور
+- لم يُؤمن أي منها في مستودع
 - ORIGINAL: IMAGE_URL: not captured
 - SOURCE_PAGE: not captured
-- RIGHTS_HOLDER: unconfirmed
-- LICENSE_OR_USAGE_BASIS: none secured — no third-party image may be published until rights are cleared
-- CHECKED_DATE: 2026-09-05
+- SOURCE_FILE_PAGE: not applicable - no candidate media file identified (no licence to assert)
+- الحقوق - حقوق غير مؤكدة
+- LICENSE_OR_USAGE_BASIS: لا يوجد مضمون - لا يمكن نشر أي صورة لأطراف ثالثة إلى أن تُبرأ الحقوق
+- CHECKED_DATE: 2026-09-06
 - MODEL_TOPIC_MATCH: must match the exact model/version (or the guide topic) and reference market above
-- IMAGE_RIGHTS_STATUS: FAIL (no licensed asset captured; a placeholder or “retain old image” note is not accepted)
+- IMAGE_SCOPE_NOTE: match the exact model family/topic only; must not imply a specific trim/model-year, real VIN, in-person inspection or actual transaction
+- IMAGE_Rights_STATUS: FAIL (لا توجد أصول مرخصة مقبوض عليها؛ ولا تقبل مذكرة " تحمل صورة قديمة ")
+- BLOCK REASON: ولا يمكن تأمين أي صورة قابلة لإعادة الاستخدام: فعمليات ويكيميو/فلكر غير قابلة للتواصل من بيئة البحوث، وتحتاج مكتبات الأوراق المالية إلى إمكانية الوصول إلى نظام المعلومات المسبقة/الرخصة، وصورة موقع مكتبة الأوراق المالية ليست منحة تجارية لإعادة الاستخدام؛ ولا توجد صورة مملوكة للشركة. ابقوا في القوات المسلحة بدلا من التأكيد.
 - ALT by language:
   - **EN**: AutoBridge export-buyer reference — Certificate of origin for vehicle export, vehicle-export procurement guide
   - **FR**: Référence AutoBridge pour acheteurs export — Certificate of origin for vehicle export, guide d’achat à l’export automobile
@@ -68,26 +71,26 @@ The two authorized issuing channels are **China Customs** and **CCPIT (China Cou
   - **AR**: مرجع AutoBridge لمشتري التصدير — Certificate of origin for vehicle export, دليل مشتريات تصدير المركبات
   - **ZH**: AutoBridge 出口采购参考｜Certificate of origin for vehicle export, 汽车出口采购指南
 
-## Sources & Verification
-| Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
+## المصدر: التحقق
+| عنوان المصدر | المنظمة | السوق | URL | تم التحقق منها | الثقة | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
-| GACC Order No.270, Export CO Administrative Measures (in force 2024-09-01) | General Administration of Customs of China (official PDF) | CN | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6011613/2024073016391092032.pdf | 2026-09-04 | VERIFIED | Rule version, three types, issuers |
-| Export CO Administrative Measures (second official PDF) | GACC | CN | http://www.customs.gov.cn/eportal/fileDir/customs/resource/cms/2024/07/2024073110443252720.pdf | 2026-09-04 | VERIFIED | Non-preferential uses, three types |
-| Non-preferential CO overview and issuing bodies | CCPIT Sichuan | CN | https://www.ccpit-sichuan.org/newshow.aspx?id=14630&mid=285 | 2026-09-04 | VERIFIED | Issuers, no-fee ordinary CO |
-*Scope note: China issuing side only; specific FTA rules and destination preference decisions are out of scope and per-agreement/per-country.*
+| قرار الجمعية العامة 270، تدابير التصدير الإدارية (النافذة 2024-09-01) | الإدارة العامة للجمارك في الصين (الإدارة الرسمية لقوى الدفاع) | CN | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6011613/2024073016391092032.pdf | 2026-09-04 | مفقود | صيغة القاعدة، ثلاثة أنواع، مُصدرون |
+| تدابير إدارية لثانية من وظائف صندوق التنمية للبلدان الأفريقية | GACC | CN | http://www.customs.gov.cn/eportal/fileDir/customs/resource/cms/2024/07/2024073110443252720.pdf | 2026-09-04 | مفقود | الاستخدامات غير التفضيلية، ثلاثة أنواع |
+| استعراض عام غير تفضيلي لثاني أكسيد الكربون وهيئات إصداره | CCPIT Sichuan | CN | https://www.ccpit-sichuan.org/newshow.aspx?id=14630&mid=285 | 2026-09-04 | مفقود | مُصدرون، لا يوجد أيّة إفادة عادية |
+* ملاحظة: الصين التي تصدر جانبا فقط؛ وقواعد محددة لاتفاق التجارة الحرة وقرارات تفضيل المقصد غير من حيث النطاق و/أو من حيث كل بلد. ♪
 
-| Regulations of the PRC on Certificates of Origin (State Council Decree No.416) | The State Council of the PRC | CN | https://www.gov.cn/gongbao/content/2005/content_64193.htm | 2026-09-05 | VERIFIED | Chinese legal basis for issuing preferential and non-preferential certificates of origin |
-| Agreement on Rules of Origin | World Trade Organization (WTO) | INTL | https://www.wto.org/english/tratop_e/roi_e/roi_e.htm | 2026-09-05 | VERIFIED | Multilateral rules-of-origin framework |
-| Rules of origin topic | World Customs Organization (WCO) | INTL | http://www.wcoomd.org/ | 2026-09-05 | VERIFIED | Customs origin-classification and certification reference |
-| China Free Trade Area service network (FTA tariff treatment) | MOFCOM | CN/INTL | http://fta.mofcom.gov.cn/ | 2026-09-05 | VERIFIED | Preferential origin/FTA certificate channel |
-| Certificate of origin and foreign-trade certification | China Council for the Promotion of International Trade (CCPIT) | CN | http://www.ccpit.org/ | 2026-09-05 | VERIFIED | CCPIT-issued non-preferential certificate of origin channel |
+| لائحة لجنة استعراض تنفيذ الاتفاقية المتعلقة بشهادات المنشأ (مرسوم مجلس الدولة رقم 416) | مجلس الدولة لورقة استراتيجية الحد من الفقر | CN | https://www.gov.cn/gongbao/content/2005/content_64193.htm | 2026-09-05 | مفقود | الأساس القانوني الصيني لإصدار شهادات المنشأ التفضيلية وغير التفضيلية |
+| اتفاق قواعد المنشأ | منظمة التجارة العالمية | INTL | https://www.wto.org/english/tratop_e/roi_e/roi_e.htm | 2026-09-05 | مفقود | الإطار المتعدد الأطراف لقواعد المنشأ |
+| موضوع قواعد المنشأ | منظمة الجمارك العالمية | INTL | http://www.wcoomd.org/ | 2026-09-05 | مفقود | تصنيف الأصول الجمركية والتصديق |
+| شبكة خدمات منطقة التجارة الحرة الصينية (معاملة التعريفات الجمركية للتجارة الحرة) | MOFCOM | CN/INTL | http://fta.mofcom.gov.cn/ | 2026-09-05 | مفقود | منشأ التفضيل/قناة شهادة التجارة الحرة |
+| شهادة المنشأ ومنح شهادات التصديق على التجارة الخارجية | مجلس الصين لتعزيز التجارة الدولية | CN | http://www.ccpit.org/ | 2026-09-05 | مفقود | قناة منشأ غير منحازة |
 
-## Editorial Review
+## استعراض التحرير
 - ** Author**: AutoBridge Export Editorial Team; method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
-- **Reference market**: China export-side certificate issuing (destination preference excluded)
-- **Verification method**: Two official GACC PDFs + CCPIT; per-FTA detail deliberately not generalized
-- **Transparency**: AI-assisted drafting was used. This article is based on desk research and automated QA. No first-hand testing is claimed unless explicitly documented; confirm time-sensitive and destination-specific requirements before transacting.
-- **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.
+- ** لم يُستعرض بعد**: 2026-09-05
+- ** سوق الإحالة**: إصدار شهادة جانب التصدير في الصين (مستبعدة من الأفضلية المحددة)
+- ** طريقة الفرز**: Two official GACC PDFs + CCPIT; per FTA detail deliberately not generaled
+- ** الشفافية**: استُخدمت الصياغة المدعومة من منظمة العفو الدولية. وتستند هذه المادة إلى البحوث المكتبية وآلية الجودة. ولا يُزعم إجراء أي اختبار مباشر إلا إذا تم توثيقه بشكل صريح؛ ويؤكد متطلبات مراعية للوقت ومحددة للمقصد قبل التحول.
+- ** المعيار الإفريقي**: باحثة ومحررة من المصادر المذكورة أعلاه (بحوث مكتبية؛ ولا يُدَّعى عن أي قيادة مباشرة أو تمزق أو استيراد). وتظهر الثقة في المصدر في الصف الواحد؛ وأي نقطة لا يمكننا تأكيدها بشكل مستقل تعرض كبند تحقق بدلا من التأكيد على أنها حقيقة.
 
 **Tags**: #CertificateOfOrigin #CCPIT #Customs #FTA #ExportDocuments
