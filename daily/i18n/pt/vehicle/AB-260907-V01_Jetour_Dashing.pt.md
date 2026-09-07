@@ -1,0 +1,91 @@
+# Jetour Dashing (Dasheng): Uma China-Market Referência SUV compacto com seus três trens de energia mantidos apart
+## SEO Meta- dados
+- ** Título SEO**: Jetour Dashing (Dasheng) Especificações de Mercado da China e Exportar Verificações do Comprador.
+- ** Descrição do Meta**: Referência do mercado chinês para o Jetour Dashing (Dasheng) compacto SUV: 2024 vs 2025 dimensões, os 1.5T, 1.6T e 1.5TD trens mantidos separados, e nível de VIN-cheques para compradores no exterior.
+- ** H1 **: Jetour Dashing (Dasheng): Uma China-Market Referência SUV compacto com seus três trens de energia mantidos apart
+- **Chave Primária**: Especificações de exportação Jetour Dashing Dasheng
+- ** Termos de pesquisa secundários**: Jetour Dashing dimensões; 捷途大圣; Jetour Dashing 1.6T 7DCT; China compacto SUV exportação; Dasheng 2025 1.5TD
+- ** URL sugerida**: /veículos/jetour-dashing/
+- **Intenção de pesquisa**: 面向海外 B 端买家介绍捷途大圣中国市场身份, 2024/2025 尺寸与三套动力的版本边界及采购核验
+- **As sugestões de ligação interna**: /veículos/changan-kaicene- f70/, /guias/verificar-chinês-carro-exportação-fornecimento-história/, /veículos/dongfeng-aeolus-yixuan/
+- **Image Suggestion**: Um Jetour Dashing compacto SUV mostrado da frente três quartos em um fundo neutro
+- **ALT Sugestão**: Vista frontal de três quartos de um Jetour Dashing compacto SUV em um fundo de estúdio neutro
+- **Espécie de âmbito**: Artigo + Veículo (sem produto/oferta/preço/revisão/rating)
+
+O Jetour Dashing, vendido na China como o Dasheng (大圣), é o compacto de cinco lugares marca Jetour de carro de cinco assentos da Chery posicionada em torno de estilo crossover bold. Para um comprador estrangeiro que fornece da China a disciplina central é controle de versão: a linha abrange os 2024 e 2025 anos modelo com dimensões de corpo sutilmente diferentes e três diferentes petroleiras, e uma citação que diz simplesmente "um Dashing" sem ano e motor é ambíguo. Esta página é uma referência ** Chinese-market** — não é uma folha de especificação global, e qualquer Dashing mercado de exportação deve ser evidenciado separadamente. Quando uma figura repousa em uma única fonte independente em vez de uma folha de acabamento exato do OEM, é sinalizado para a confirmação de nível VIN em vez de apresentado como resolvido.
+
+## Identidade corporal e mudança da dimensão anual
+
+- Corpo: SUV compacto de cinco portas, cinco lugares, motor dianteiro/motor dianteiro (verificado através de bases de dados independentes de veículos).
+- ** 2024 dimensões de referência do modelo-ano:** 4590 × 1900 × 1685 mm, distância entre eixos 2720 mm.
+- ** 2025 dimensões de referência do modelo-ano:** 4600 × 1900 × 1690 mm, distância entre eixos 2720 mm.
+
+A distância entre eixos é constante, mas o comprimento e a altura movem-se ligeiramente entre anos. Essa pequena mudança importa para um exportador porque o recipiente-fit, a compatibilidade de acessórios e a documentação de homologação todos referem o corpo modelo-ano exato. Coincidir as dimensões declaradas com o ano do certificado de conformidade, em vez de utilizar um número misturado.
+
+## Três comboios de potência a gasolina — não os fundir
+
+| Powertrain | Referência do mercado chinês | Caixa de velocidades | Ano modelo | Confiança |
+|---|---|---|---|---|
+| 1.5T (2024) | 115 kW (156 PS) / 230 N·m | 6-speed embreagem dupla húmida | 2024 | SINGLE_SOURCE — confirmar por VIN/OEM|
+| 1.6T | 145 kW (197 PS) / 290 N·m | 7-speed embreagem dupla húmida | Linha trans-anual | CROSS_CHECKED |
+| 1.5TD (2025) | 135 kW (184 PS) / 290 N·m | 7-speed embreagem dupla húmida | 2025 | SINGLE_SOURCE — confirmar por VIN/OEM|
+
+A armadilha de nomeação é real: o 2024 ** 1.5T ** e o 2025 ** 1.5TD ** são calibrações diferentes com saídas diferentes e transmissões diferentes (6DCT versus 7DCT), apesar do emblema similar. O ** 1.6T ** é o mais forte dos três e o melhor apoiado por duas fontes independentes. Uma ordem que nomeie "1.5 Dashing" poderia resolver para qualquer um dos dois carros, então escreva a designação do motor completo, o ano e a transmissão para o proforma. As saídas precisas das linhas de fonte única 1.5T e 1.5TD devem ser fechadas contra a folha de configuração oficial da Jetour ou a entrada de homologação MIIT exata antes de um depósito ser pago.
+
+## O que a plataforma e layout dizem a um comprador
+
+Como um SUV monocoque monocoque de tração dianteira, o Dashing é destinado a família on-road e uso urbano-fleet em vez de quatro rodas-drive trabalho fora-road. As guarnições mais altas carregam a tela central grande, as características do driver-assist e os equipamentos de conveniência típicos do segmento, mas o conjunto exato do equipamento é aparar- e ano-específico. Construa a ordem contra a folha de configuração para o SKU real; não assuma uma característica vista em uma unidade de revisão de topo-trim estende-se para o carro base que está sendo citado.
+
+## O preço chinês é uma referência apenas nacional
+
+Qualquer preço de guia do fabricante chinês é uma referência doméstica ** sensível ao tempo **, variando por corte e promoção. Nunca deve ser convertido em uma cotação de exportação FOB ou CIF, e esta página não declara preço de exportação. Para uma decisão de desembarque, solicite uma cotação atual nomeando destino, quantidade, corte exato, LHD/RHD e Incoterm.
+
+## Limites de direcção e mercado das exportações
+
+O mercado chinês Dashing referenciado aqui é ** unidade esquerda**. Nenhuma evidência OEM neste arquivo estabelece uma fábrica de carro de mão direita-drive chinês-mercado, então destinos RHD exigem uma resposta separada da marca. Igualmente, o "Dashing" ou qualquer nome regional Jetour não é assumido idêntico ao chinês 2024/2025 Powertrains; alias modelo e especificação de exportação exigem uma declaração OEM, e sem um carro regional é tratado como um relacionado, não o mesmo, construir.
+
+## Verificação do comprador no exterior antes do depósito
+
+1. Ano de modelo de bloqueio (2024 vs 2025) e motor exato (1.5T 6DCT, 1.6T 7DCT, ou 2025 1.5TD 7DCT) por escrito.
+2. Codefine as dimensões com o corpo desse ano (com 4590 vs 4600) no CdC.
+3. Puxe a entrada de homologação MIIT para o modelo exato para confirmar o motor, dimensões e estágio de emissão.
+4. Confirme a direção e a especificação OEM do mercado de destino separadamente; não inferê-los do carro chinês.
+5. Reconciliar o VIN em todo o contrato, fatura, B/L e CoC antes do saldo ser pago.
+6. Verifique o idioma de infotainment, app-store e compatibilidade de serviço conectado para o destino antes da ordem.
+
+## Perguntas Frequentes
+** O Jetour está a dar o mesmo carro em 2024 e 2025 ?**
+
+É a mesma linha de modelo, mas as dimensões deslocam-se ligeiramente (4590 vs 4600 mm) e as mudanças de linha motor/transmissão — correspondem a cada valor ao ano exato.
+
+** Qual é a diferença entre o 1.5T e o 1.5TD ?**
+
+O 2024 1.5T é citado em 115 kW / 230 N·m com um 6DCT, enquanto o 2025 1.5TD é citado em 135 kW / 290 N·m com um 7DCT; são calibrações distintas e números de fonte única para confirmar por VIN.
+
+** Qual é o melhor suporte para o Dashing Powertrain? **
+
+O 1.6T em 145 kW/290 N·m com um 7DCT é cruzado por duas fontes independentes; as outras duas linhas atualmente repousam em fontes únicas, aguardando confirmação de corte exato do OEM.
+
+** É tração dianteira ou integral? **
+
+Os carros de referência do mercado chinês são tração dianteira.
+
+** Existe uma versão de drive à direita da fábrica? **
+
+Sem RHD A versão do mercado chinês está estabelecida aqui; a elegibilidade do RHD necessita de evidência separada do OEM, e as especificações de exportação não devem ser inferidas da linha chinesa.
+
+## Fontes e Verificação
+| Origem | Organização | Mercado | Nível | Confiança | URL | Factos corroborados |
+|---|---|---|---|---|---|---|
+| 捷途大圣参数矩阵（动力/尺寸/轴距） | 懂车帝车型参数页 | CN | T2 | CROSS_CHECKED | https://m.dongchedi.com/auto/params-carIds-244819-244189-239860-239859-239857-239855-239854-100479-101040-94797-94798-98589-94485-94486-98590-94799 | 动力矩阵, 尺寸, 轴距 |
+| 捷途大圣车型配置（尺寸/轴距） | 搜狐汽车车型库 | CN | T2 | CROSS_CHECKED | https://db.auto.sohu.com/model_6805/config | 尺寸, 轴距 |
+| 2024 款动力 / 变速箱 / 尺寸 | 太平洋汽车 | CN | T3 | SINGLE_SOURCE | https://m.pcauto.com.cn/x/4679/46796132.html | 2024 款动力, 变速箱, 尺寸 |
+| 2025 款 1.5TD 动力 / 尺寸 | 车主之家 | CN | T3 | SINGLE_SOURCE | https://m.16888.com/news/2026/0813/24845188.html | 2025款1.5TD, 尺寸 |
+| 捷途官方网站 (车型线身份; exactamente em termos de área 以官方配置表终核) | 奇瑞汽车 · 捷途 (Jetour) | CN | T1 | VERIFIED | https://www.jetour.com.cn/ | 车型线身份 |
+
+## Revisão Editorial
+- **Autor**: AutoBridge Export Editorial Team · [autores](/autores/) · [Política editorial](/política editorial/)
+- ** Última revisão**: 2026-09-07
+- **Mercado de referência**: CHINA(中国市场参考; 2024 1.5T 与 2025 1.5TD 精确功率为单一来源, 须捷途官方 / 公告按 SKU 终核)
+- ** Método de verificação**: Investigação de escritório contra as fontes abaixo indicadas; especificação de referência do mercado chinês apenas se for explicitamente citado um mercado de exportação separado. Os itens sensíveis ao tempo (linhas de recortes, preços de referência nacionais) e saídas de fonte única devem ser confirmados na folha de configuração do OEM ou na entrada MIIT antes de efetuarem a transação.
+- ** Transparência**: Foi utilizada a elaboração assistida por IA. Este artigo é baseado em pesquisa documental e QA automatizado. Não se reivindica qualquer teste em primeira mão, a menos que explicitamente documentado.

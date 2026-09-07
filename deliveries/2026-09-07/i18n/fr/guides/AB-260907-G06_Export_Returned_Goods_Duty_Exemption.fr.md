@@ -1,0 +1,96 @@
+# Marchandises exportées retournées en Chine: L'exemption de droits d'un an et la voie séparée du commerce électronique à six mois
+## OEuvre Métadonnées
+- **Référencement au titre**: Exemption des droits sur les marchandises exportées retournées en Chine (règles d'un an et du CCCB) - AutoBridge
+- **Description détaillée**: Lorsque les marchandises chinoises sont retournées dans un délai d'un an pour des raisons de qualité ou de spécification, elles sont réintroduites en franchise de droits en vertu de l'ordonnance 272 du GACC, de la règle distincte du commerce électronique transfrontalier de six mois et de l'exigence de l'État d'origine.
+- ** H1 **: Produits exportés retournés en Chine: L'exemption de droits d'un an et la voie séparée du commerce électronique à six mois
+- ** Mot-clé principal**: le règlement d'exemption des droits de douane pour les marchandises retournées à l'exportation Chine
+- ** Termes de recherche secondaire**: 退运货物免税; GACC Ordonnance 272 article 49; retour des marchandises d'exportation un an; retour des marchandises de commerce électronique transfrontalier six mois; réimportation initiale par l'État
+- **URL suggérée**: /guides/export-returned-goods-ty-exemption-réglementation/
+- **Intention de la recherche**: 出口退运货物一年内原状复运进境免税规则与跨境电商 6 个月退运的区别 -原状认定与已退税补缴
+- **Suggestions de lien interne**: /guides/commerce transfrontalier- b2b-export-9710-9810/, /guides/douanes-divulgation-volontaire-tolérance-audit/, /guides/zone-vat-refonds-export-conjoints-compréhensif/
+- **Suggestion d'image**: Une partie du véhicule d ' exportation retournée est inspectée en fonction de sa documentation d ' exportation originale
+- **Suggestion d'ALT**: Fret retourné sous inspection à côté de la déclaration d'exportation originale
+- **Schema Portée**: Article (aucun produit/offre/prix/réexamen/cotisation)
+
+Lorsque les marchandises exportées reviennent en Chine — un lot de pièces rejeté, un véhicule qui a échoué à l'acceptation de la destination, un stock de commerce électronique invendu — l'hypothèse par défaut est que la réimportation est un événement imposable. Les règles douanières chinoises prévoient une exemption spécifique, mais elles sont étroitement subordonnées aux raisons pour lesquelles les marchandises sont retournées, à la durée de leur séjour à l'étranger et à leur retour dans leur état d'origine. Les exportateurs qui ne sont pas soumis à une condition quelconque paient des droits d'importation et des taxes sur les produits fabriqués à l'origine en Chine. Ce guide sépare la règle générale d'un an de la voie distincte du commerce électronique transfrontalier de six mois, explique « l'état original » et les drapeaux où un remboursement déjà demandé doit être remboursé.
+
+## La règle générale: un an, des raisons de qualité/de spécificité, état original
+
+En vertu des mesures administratives relatives à la perception et à la perception des droits de douane (ordonnance no 272 de l'Administration générale des douanes de la Chine), **Article 49 **, les marchandises qui sont réimportées ** dans un délai d'un an** de l'exportation, pour des raisons de qualité ou de spécification**, et dans leur État d'origine**, peuvent être ramenées sans droits de douane à l'importation et taxes au stade de l'importation lors de la réentrée. Les mesures actuelles sont entrées en vigueur le ** 1 décembre 2024 **.
+
+Trois conditions sont réunies:
+
+- **Réson.** Le retour est attribuable à des problèmes de qualité ou de spécification, non à un changement d'esprit commercial ou à un routage ordinaire de revente.
+- **Heure.** La réadmission a lieu dans l'année suivant la date d'exportation.
+- **État** Les marchandises sont inutilisées, non transformées et conservent l'état dans lequel elles ont été exportées.
+
+Il ne s'agit pas d'une règle de couverture «toute chose de chinois rentre gratuitement à la maison»; un envoi vendu, utilisé, assemblé ou modifié à l'étranger ne répond pas à la condition d'origine.
+
+## «État d'origine» est une détermination douanière, et non une étiquette de l'expéditeur
+
+La question de savoir si les marchandises retournées sont dans leur état d'origine est évaluée par les douanes en fonction des faits (vérifiés à l'aide des mesures et des directives opérationnelles). En tant que définition fonctionnelle, les marchandises ne devraient pas avoir été utilisées ou transformées à l'étranger et devraient préserver leur condition de temps d'exportation, ce qui permettrait une manutention normale du transport. L'emballage peut être ouvert à l'inspection; le produit de base ne devrait pas avoir été consommé, installé dans un autre produit, reconstruit ou modifié de façon substantielle. Comme la détermination est propre à un cas particulier, l'exportateur doit conserver la déclaration d'exportation originale, B/L, les preuves de refus/qualité à l'étranger et les photographies qui relient les marchandises retournées au lot d'exportation original.
+
+## Le remboursement est facile à manquer
+
+Si une remise à l'exportation a déjà été retirée lorsque les marchandises ont quitté la Chine, leur retour sous l'exemption n'est pas un double avantage. Le remboursement attribuable aux marchandises retournées doit être ** remboursé / inversé** conformément à la procédure de la taxe. Les exportateurs devraient coordonner la production de la déclaration de douane avec le traitement de leur taxe afin que l'exonération des droits à la rentrée et le renversement du remboursement soient uniformes — demander l'exemption de rentrée tout en conservant le remboursement à l'exportation est l'erreur que les vérifications ciblent.
+
+## La voie du commerce électronique transfrontière séparée: six mois, codes de surveillance définis
+
+Les retours de transactions électroniques transfrontières sont effectués selon leur propre calendrier et ne doivent pas être confondus avec la règle générale d'un an. Pour les marchandises exportées sous les codes de surveillance du commerce électronique transfrontalier ** 1210, 9610, 9710 et 9810 ** qui retournent dans leur état d'origine dans un délai de **six mois**, une exonération de droits/taxes s'applique à la rentrée. Ce régime spécial a une période d'exécution définie de ** 1 janvier 2026 à 31 décembre 2027 ** (temps-sensible - confirmer l'avis opérationnel actuel avant de s'en prévaloir). Remarquez le contraste: six mois plutôt qu'un an, liés à des codes spécifiques du commerce électronique, et limités par une période de politique explicite.
+
+| Dimension | Règle générale sur les marchandises retournées | Suivi du commerce électronique transfrontalier |
+|---|---|---|
+| Base juridique | Ordonnance n° 272 du GACC, article 49 | Avis de retour spécifique à la CCCB (limite de temps) |
+| Raison de déclenchement | Qualité / raisons de spécification | Retours sous le modèle de commerce électronique |
+| Délai | Dans les 1 ans suivant l'exportation | Dans les 6 mois |
+| Codes couverts | Codes généraux d'exportation | 1210 / 9610 / 9710 / 9810 |
+| État requis | État d'origine (déterminé par les douanes) | État initial |
+| Note effective | Mesures en vigueur 2024-12-01 | Période spéciale 2026-01-01 à 2027-12-31 |
+
+## Comment produire une déclaration propre
+
+1. Préserver le lien vers l'exportation originale (numéro de déclaration, B/L, documents commerciaux).
+2. Documenter la raison de qualification — rapports de qualité, refus de l'acheteur, défaut de précision des spécifications pour la règle générale; documents de retour du commerce électronique pour la voie de la BCE.
+3. Vérifiez l'horloge en fonction de la règle correcte (un an contre six mois) et de la période d'effet actuelle.
+4. Démontrer l'état initial; divulguer toute utilisation ou transformation plutôt que de présenter des marchandises modifiées comme intactes.
+5. Inverser tout remboursement à l'exportation déjà demandé, en respectant les règles de l'administration fiscale.
+6. Soumettre la déclaration avec le dossier à l'appui; laisser les douanes faire la détermination de l'état original.
+
+Les résultats par cas, le montant exact de la récupération et tout arrangement après la fin de la période spéciale de la CBEC ne sont pas pris en compte ici et doivent être réglés avec les douanes et l'autorité fiscale pour le cas réel.
+
+## FAQ
+**Quand les marchandises d'exportation retournées sont-elles réimportées en franchise de droits? **
+
+En vertu de l'ordonnance no 272 du GACC Article 49, lorsqu'ils reviennent dans un délai d'un an pour des raisons de qualité/de spécificité dans l'État d'origine; les droits à l'importation et les taxes sur les étapes d'importation ne sont pas perçus lors de la rentrée.
+
+**En quoi la piste du commerce électronique est-elle différente? **
+
+Les marchandises en vertu des codes 1210/9610/9710/9810 qui retournent en état d'origine dans les six mois sont admissibles en vertu d'un arrangement spécial de la CBEC qui s'étend sur 1 janvier 2026 à 31 décembre 2027.
+
+**Qui décide si les marchandises sont en « état d'origine»? **
+
+Les douanes déterminent ce cas au cas par cas; les marchandises non transformées non utilisées qui préservent l'état du temps d'exportation sont la norme de travail.
+
+**Dois-je conserver le remboursement à l'exportation? **
+
+Non. Toute remise à l'exportation déjà demandée sur les marchandises retournées doit être remboursée ou annulée par la procédure fiscale.
+
+**Les stocks commerciaux ordinaires invendus peuvent-ils utiliser la règle d'un an? **
+
+La règle générale exige des raisons de qualité ou de spécification; le réacheminement ordinaire de la revente ne peut être considéré en soi — confirmer les faits auprès des douanes.
+
+## Sources et vérification
+| Source | Organisation | Marché | Niveau | Confiance | URL | Faits corroborés |
+|---|---|---|---|---|---|---|
+| 海关进出口货物征税管理办法 (272 号令第 49 条, 一年退运免税) | 中华人民共和国海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/eportal/fileDir/customs/resource/cms/2024/10/2024102909540487731.pdf | 征税管理办法, 退运免税, 一年期限 |
+| 272 号令国务院公报文本 (施行日期 2024-12-01) | 中国政府网 · 国务院公报 | CN | T1 | VERIFIED | https://www.gov.cn/gongbao/2024/issue_11726/202411/content_6989766.html | 272 号令, 施行日期 |
+| 退运货物问答与操作口径 | 中华人民共和国海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/eportal/ui?pageId=374112&msgDataId=2d20f5a4bb88464ea0445774578c4cf7 | 退运问答, 操作口径 |
+| 跨境电商退运 (6 个月, 执行期 2026-2027) | 国家税务总局 | CN | T1 | TIME_SENSITIVE | https://fgk.chinatax.gov.cn/zcfgk/c102416/c5247663/content.html | 跨境电商退运, 6 个月, 执行期 |
+| 财政部 (进出口税收政策主管部门) | 中华人民共和国财政部 | CN | T1 | VERIFIED | https://www.mof.gov.cn/ | 财税主管框架 |
+
+## Révision de la rédaction
+- **Auteur**: Équipe de rédaction d'AutoBridge Export · [auteurs](/auteurs/) · [Politique éditoriale](/politique éditoriale/)
+- **Dernière révision**: 2026-09-07
+- **Marché de référence**: CN(中国进口侧退运税收; 原状认定逐案, 跨境电商特殊期时间敏感)
+- **Méthode de vérification**: Recherches sur support papier en fonction des sources ci-dessous; cadre de référence du marché chinois seulement. La détermination par État original, les montants de remboursement et les arrangements de remboursement après la période spéciale de la CBEC doivent être confirmés auprès des douanes et de l'administration fiscale avant d'agir.
+- **Transparence**: La rédaction assistée par AI a été utilisée. Cet article est basé sur la recherche sur le bureau et l'AQ automatisée. Aucun test de première main n'est demandé à moins d'être explicitement documenté.

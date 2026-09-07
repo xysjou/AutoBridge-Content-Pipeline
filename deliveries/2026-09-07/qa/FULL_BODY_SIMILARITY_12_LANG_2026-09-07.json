@@ -1,0 +1,110 @@
+{
+ "EN": {
+  "max": 0.1836,
+  "pair": [
+   "AB-260904-V02_BYD_QinL_DMi.md",
+   "AB-260904-V05_Chery_FulwinT9.md"
+  ],
+  "n": 120,
+  "status": "PASS"
+ },
+ "FR": {
+  "max": 0.4317,
+  "pair": [
+   "AB-260905-V02_Changan_UNI_Z.fr.md",
+   "AB-260905-V05_Changan_CS55PLUS.fr.md"
+  ],
+  "n": 120,
+  "status": "PASS"
+ },
+ "DE": {
+  "max": 0.3994,
+  "pair": [
+   "AB-260903-V01_Geely_Emgrand_2024.de.md",
+   "AB-260904-V01_Chery_Arrizo8.de.md"
+  ],
+  "n": 120,
+  "status": "PASS"
+ },
+ "ES": {
+  "max": 0.4201,
+  "pair": [
+   "AB-260905-V02_Changan_UNI_Z.es.md",
+   "AB-260905-V05_Changan_CS55PLUS.es.md"
+  ],
+  "n": 120,
+  "status": "PASS"
+ },
+ "PT": {
+  "max": 0.4242,
+  "pair": [
+   "AB-260905-V02_Changan_UNI_Z.pt.md",
+   "AB-260905-V05_Changan_CS55PLUS.pt.md"
+  ],
+  "n": 120,
+  "status": "PASS"
+ },
+ "JA": {
+  "max": 0.3572,
+  "pair": [
+   "AB-260905-V02_Changan_UNI_Z.ja.md",
+   "AB-260905-V05_Changan_CS55PLUS.ja.md"
+  ],
+  "n": 120,
+  "status": "PASS"
+ },
+ "KO": {
+  "max": 0.3617,
+  "pair": [
+   "AB-260905-V02_Changan_UNI_Z.ko.md",
+   "AB-260905-V05_Changan_CS55PLUS.ko.md"
+  ],
+  "n": 120,
+  "status": "PASS"
+ },
+ "VI": {
+  "max": 0.3836,
+  "pair": [
+   "AB-260905-V02_Changan_UNI_Z.vi.md",
+   "AB-260905-V05_Changan_CS55PLUS.vi.md"
+  ],
+  "n": 120,
+  "status": "PASS"
+ },
+ "TH": {
+  "max": 0.3736,
+  "pair": [
+   "AB-260905-V02_Changan_UNI_Z.th.md",
+   "AB-260905-V05_Changan_CS55PLUS.th.md"
+  ],
+  "n": 120,
+  "status": "PASS"
+ },
+ "ID": {
+  "max": 0.4166,
+  "pair": [
+   "AB-260903-V01_Geely_Emgrand_2024.id.md",
+   "AB-260904-V01_Chery_Arrizo8.id.md"
+  ],
+  "n": 120,
+  "status": "PASS"
+ },
+ "AR": {
+  "max": 0.3729,
+  "pair": [
+   "AB-260905-V02_Changan_UNI_Z.ar.md",
+   "AB-260905-V05_Changan_CS55PLUS.ar.md"
+  ],
+  "n": 120,
+  "status": "PASS"
+ },
+ "ZH": {
+  "max": 0.3327,
+  "pair": [
+   "AB-260905-V02_Changan_UNI_Z.zh.md",
+   "AB-260905-V05_Changan_CS55PLUS.zh.md"
+  ],
+  "n": 120,
+  "status": "PASS"
+ }
+}

@@ -1,0 +1,106 @@
+{
+ "EN": {
+  "expected": 20,
+  "present": 20,
+  "pass": 20,
+  "fail": 0
+ },
+ "FR": {
+  "expected": 20,
+  "present": 20,
+  "pass": 20,
+  "fail": 0,
+  "missing": 0,
+  "fail_detail": {}
+ },
+ "DE": {
+  "expected": 20,
+  "present": 20,
+  "pass": 20,
+  "fail": 0,
+  "missing": 0,
+  "fail_detail": {}
+ },
+ "ES": {
+  "expected": 20,
+  "present": 20,
+  "pass": 20,
+  "fail": 0,
+  "missing": 0,
+  "fail_detail": {}
+ },
+ "PT": {
+  "expected": 20,
+  "present": 20,
+  "pass": 20,
+  "fail": 0,
+  "missing": 0,
+  "fail_detail": {}
+ },
+ "JA": {
+  "expected": 20,
+  "present": 20,
+  "pass": 20,
+  "fail": 0,
+  "missing": 0,
+  "fail_detail": {}
+ },
+ "KO": {
+  "expected": 20,
+  "present": 20,
+  "pass": 20,
+  "fail": 0,
+  "missing": 0,
+  "fail_detail": {}
+ },
+ "VI": {
+  "expected": 20,
+  "present": 20,
+  "pass": 20,
+  "fail": 0,
+  "missing": 0,
+  "fail_detail": {}
+ },
+ "TH": {
+  "expected": 20,
+  "present": 20,
+  "pass": 20,
+  "fail": 0,
+  "missing": 0,
+  "fail_detail": {}
+ },
+ "ID": {
+  "expected": 20,
+  "present": 20,
+  "pass": 20,
+  "fail": 0,
+  "missing": 0,
+  "fail_detail": {}
+ },
+ "AR": {
+  "expected": 20,
+  "present": 20,
+  "pass": 20,
+  "fail": 0,
+  "missing": 0,
+  "fail_detail": {}
+ },
+ "ZH": {
+  "expected": 20,
+  "present": 20,
+  "pass": 20,
+  "fail": 0,
+  "missing": 0,
+  "fail_detail": {}
+ },
+ "summary": {
+  "expected_full_body_locales": 240,
+  "complete": 240,
+  "incomplete": 0,
+  "ai_language_qa_pass": 240,
+  "ai_language_qa_fail": 0,
+  "en_length_lt900": {},
+  "gates": "FACT_NUMBER/UNIT/URL_SET/HEADING_PARITY/TABLE_ROWS/ALT/TAGS/SENTINEL/PUBLIC_WORKFLOW_TEXT/TARGET_SCRIPT_RATIO/PLACEHOLDER/NUMBER_SPLIT/EN_PROSE_FALLBACK/DOUBLED_PUNCT/LENGTH_RATIO/ZH_MIN_1200",
+  "method": "Deterministic AI language QA on offline Argos MT-draft (numeric/unit/URL/term token multiset, structural parity, target-script ratio, scans). AI_LANGUAGE_QA only; PROFESSIONAL_LOCALIZATION=PENDING (no human localizer); HUMAN_REVIEWED=false."
+ }
+}

@@ -1,7 +1,7 @@
 {
  "generated_on": "2026-09-02",
  "note": "Existing procurement-guide topic clusters (dedup blacklist). A new guide whose primary intent matches a cluster is a duplicate unless it has a clearly distinct, documented search intent.",
- "count": 63,
+ "count": 73,
  "topic_clusters": [
   {
    "article_count": 7,
@@ -435,6 +435,76 @@
    "articles": [
     "AB-260906-G10"
    ]
+  },
+  {
+   "cluster_key": "ipr-customs-recordation-export-protection",
+   "article_count": 1,
+   "articles": [
+    "AB-260907-G01"
+   ]
+  },
+  {
+   "cluster_key": "export-license-dual-use-items-catalogue-2026",
+   "article_count": 1,
+   "articles": [
+    "AB-260907-G02"
+   ]
+  },
+  {
+   "cluster_key": "cross-border-ecommerce-b2b-export-9710-9810",
+   "article_count": 1,
+   "articles": [
+    "AB-260907-G03"
+   ]
+  },
+  {
+   "cluster_key": "customs-voluntary-disclosure-audit-tolerance",
+   "article_count": 1,
+   "articles": [
+    "AB-260907-G04"
+   ]
+  },
+  {
+   "cluster_key": "china-europe-railway-express-fast-customs-transit",
+   "article_count": 1,
+   "articles": [
+    "AB-260907-G05"
+   ]
+  },
+  {
+   "cluster_key": "export-returned-goods-duty-exemption-regulation",
+   "article_count": 1,
+   "articles": [
+    "AB-260907-G06"
+   ]
+  },
+  {
+   "cluster_key": "comprehensive-bonded-zone-vat-refund-export",
+   "article_count": 1,
+   "articles": [
+    "AB-260907-G07"
+   ]
+  },
+  {
+   "cluster_key": "tanzania-vehicle-import-tra-tbs-pvoc-age",
+   "article_count": 1,
+   "articles": [
+    "AB-260907-G08"
+   ]
+  },
+  {
+   "cluster_key": "force-majeure-certificate-ccpit-cietac-arbitration",
+   "article_count": 1,
+   "articles": [
+    "AB-260907-G09"
+   ]
+  },
+  {
+   "cluster_key": "china-e-port-enrollment-ic-card-operator",
+   "article_count": 1,
+   "articles": [
+    "AB-260907-G10"
+   ]
   }
  ],
  "r3_revised_on": "2026-09-03",
@@ -446,5 +516,6 @@
  "second_repair_status": "WAITING_INDEPENDENT_REVIEW",
  "publish_approved": false,
  "unified_repair_on": "2026-09-05",
- "daily_writing_on": "2026-09-06"
+ "daily_writing_on": "2026-09-06",
+ "daily_2026_09_07_added_on": "2026-09-07"
 }

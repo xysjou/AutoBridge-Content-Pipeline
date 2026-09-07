@@ -1,0 +1,522 @@
+{
+ "AB-260907-G01": {
+  "article_id": "AB-260907-G01",
+  "body_hash": {
+   "EN": "489cbc4521529a41b51c580894b3c3f9afa569d0f46523c11a1b91a8b1e7c431",
+   "FR": "a856702113312f3e97762a4718a065683a7145a23828796817fc18c16f17a163",
+   "DE": "8de97fd6b10627ad2372b087f845d0b0408ec32b004c7086a0556df4f987d79c",
+   "ES": "dc2e7ffcd789286a1ddcc29ad30d159889be33f43cbefd4ba6d4d4b73a49f55e",
+   "PT": "dfce74de570a8c1d800f4092b6295139feb6d159fa508574e8c5f8f03bb54a7c",
+   "JA": "4a2b8f4f62f131b0b536c7ef7f8ff6975dbc07119a5253d66a70ed98c3a6e2f5",
+   "KO": "ee09bea47a0e6600acaf74a00da550a06b98e5d6c932f5a65fc69d125396776e",
+   "VI": "b34e3f191e18804d41632d42fb0abd863d742e97320abe25b24451166e4e53de",
+   "TH": "4821d0c32a5e3646a4c4c65fa81933343d1027707184c20d934e605552c2854e",
+   "ID": "cd11fd108d167d2e25e5305b6b2d4e1e6cca5040b741100fc6e2af297f7ebec0",
+   "AR": "829d6ef6e0dc7d9fee36ed033966b31ace75656bc1d31c7bd43125f41ad82d3f",
+   "ZH": "dc791dd53394eb2df8aef8b220befc99eaaf7107dd815cf4a941caf7af983947"
+  },
+  "summary_hash": {
+   "EN": "f2310e435d8872e3f78e12f50483a54d817bfe707e633d364b7e1a1904ec8e14"
+  },
+  "parameter_bundle_hash": "a12020e8ba96941d693ea6db5e47d2e8cb9eb12a6740344e0c265cae8bc13953",
+  "image_text_hash": "b1e3a743c6de47003ba28ff9d545127195ec9e020242611773c3768190307fa0",
+  "fact_sheet_version": "FS-v2-20260907",
+  "source_log_version": "SL-v2-20260907",
+  "content_baseline_commit": "30dae34fc1a88701933dc218bfe877309282bebb",
+  "container_commit": "assigned_at_push"
+ },
+ "AB-260907-G02": {
+  "article_id": "AB-260907-G02",
+  "body_hash": {
+   "EN": "63484d2338d0f8bb0fc074a6aac359f9f9c7964ee1b9aaf15e4ff394b6971e33",
+   "FR": "cbb614f0fe77d551a2ff00306f37a5ae27445a5aa56f0d479a7e5509c39cd1e7",
+   "DE": "171d001ddc3dcc3fd68ff7deb8aa3bf791c2207789f993e7da188db7a3a11b90",
+   "ES": "fd088f623674ef8e5c95478ef3e78b7e9ea663df740f1f95b0da4bb5ab4ca2d8",
+   "PT": "bcb535dd600691ac576825e4efed49f8cd0e08cffbd1de0b7f353828985c7459",
+   "JA": "9814badeb0e59f2750e2ec79160a9bd62f6a3732713f5788fa1168717ff0f26d",
+   "KO": "99c184442edc246b1ea50d97795a8f8c075949a8bf7c8914db4c9489713ee61d",
+   "VI": "c0a73500e9e607a6d5315de7cd64ac9f78a11063c20a979524e4333001f2fa40",
+   "TH": "4188609dc53a0c16c2c22b91b37684bb85db559bbe3f9f71a7ffdd33fb4692b1",
+   "ID": "eca1163f703a4b62f19e84b92f053d3bffa189fe7777763328ef1bd5ce09eb4d",
+   "AR": "656af3f2eb8193856c5c8483103ed8ecbc420b99bd14b068a03777c238578002",
+   "ZH": "1350da4b964679d3200e0068046c233eeefec0b5edd561f32745715ae14d2f98"
+  },
+  "summary_hash": {
+   "EN": "f558819582df5bca3d66407ecfdccc98c43dddb84d21861d0cd662b3a2f38072"
+  },
+  "parameter_bundle_hash": "c0a61152726afdd61aaed8c85766961d7c1f38b7456807da5ecceac223f87ea1",
+  "image_text_hash": "85ec2eae8fa387eb9c2e3be212854c713d043bc44b64724587c3d25d004ae046",
+  "fact_sheet_version": "FS-v2-20260907",
+  "source_log_version": "SL-v2-20260907",
+  "content_baseline_commit": "30dae34fc1a88701933dc218bfe877309282bebb",
+  "container_commit": "assigned_at_push"
+ },
+ "AB-260907-G03": {
+  "article_id": "AB-260907-G03",
+  "body_hash": {
+   "EN": "103398b3d7af70f967c9a3a2bc2e9d5b5eecded24c6722446e0d902d8299e09d",
+   "FR": "e681b3bc4db41b9af39c2e7d2d7178fc43a743c79b0e136e9f003f1ca5e15f20",
+   "DE": "ad062a0f8144c996df840d85f1fd91b4e4ad73262df9cf6a75458a872d1bdd9c",
+   "ES": "1e6b421620c9141a6507121448b1a343822c61ff7768ed21510e67b81c34f988",
+   "PT": "9096d654aee29cd7dc12958def29efe486737bfba3aeaa40ee3dd966d31eb088",
+   "JA": "b5435e446dd267c9069232a0ad287e2b173fce11c499c89a961dd064d6843721",
+   "KO": "8c83401a6c7720b441d735612cd2f06e0372cf3de01d83d88cfcb9ded5fa7858",
+   "VI": "1827a1794dba40375bad0d51707b0b5047f98f3da966b20f18d91c4aaec480f3",
+   "TH": "1c685294aa85d2b1085350de27475f2fc31095f9bb280989c5a58b3ec90eed24",
+   "ID": "f317eadb0ea5dee488c19e63652ab7c621ee627453ed9df1eb6f74f5b2e77250",
+   "AR": "4e0d2047f07a630fbb692d81ae61c138e36a5d5e899c2e8038b358aa034b3f67",
+   "ZH": "d558a575849f190ee496095fd29815e273c0f9894d9b682ed1fefbda15bded15"
+  },
+  "summary_hash": {
+   "EN": "2fd6fddfbddbd85535c4add2c4461ae34f46e8c5578b4b887478352d3c148163"
+  },
+  "parameter_bundle_hash": "a6e5a590fa23a7d5ffa0afcd2af89255f075ab3e10029b9f711eeadb32c57925",
+  "image_text_hash": "82571b924c5db0e9cc200fe353f59eab0e56da5ee0e9cca209f1b60cd34f7743",
+  "fact_sheet_version": "FS-v2-20260907",
+  "source_log_version": "SL-v2-20260907",
+  "content_baseline_commit": "30dae34fc1a88701933dc218bfe877309282bebb",
+  "container_commit": "assigned_at_push"
+ },
+ "AB-260907-G04": {
+  "article_id": "AB-260907-G04",
+  "body_hash": {
+   "EN": "9db443c4d10a0b5a245754afd4b599e6c688537bb5873a3803b103a86eb5878f",
+   "FR": "3b1549129ea10ca2d0a56dd1416d659b6b60f18018f58dc6685c2cd5c3ec21dc",
+   "DE": "1fa0cbe972caa0950eba939f043b8799497d25a28f19f5a3a732ef92db27bc7e",
+   "ES": "e8fe98a3ba46ec1a8d1f466205044c3f2ca892b82280f6226a421123b106a262",
+   "PT": "72a4766fcdc557abcf257b5e0de39b14b24663ed8cbe75d2f09c0eb4e92cbb2e",
+   "JA": "e6d2e581ca168824135481ceb508b10c34cd5cbd14e56e1e8957927ba342f698",
+   "KO": "146802a0e6bd108cbe7782b349890941e08be9d96c37a6652ea557febbb6439e",
+   "VI": "89f860bffa1551bba43c2d38192083a4370380f201125ae1f67833061955c7ad",
+   "TH": "0ab041e3cbda433541ad11373d6482687434a82cba069439c7e4a91dbf5a79de",
+   "ID": "9213db7b197be56b8ebff3ddb0d1e31ba4b915b82f71d07d55011fb3201c1d55",
+   "AR": "efbde772c88e73afa4fc349c6a3cf369646bc3f9926ce15b2c53708c634ab9dc",
+   "ZH": "b0cdde841133c4425ee3e4a094fd367e5b460fdccde39944b551830962232f1a"
+  },
+  "summary_hash": {
+   "EN": "9fadf559571d3522fe696e2a4b186ba3df5519607953dfd8f37c33afacf595ea"
+  },
+  "parameter_bundle_hash": "f3a130279549896b7e9e875e400b557ec65435c1b36732bc80b2e79598e022d0",
+  "image_text_hash": "6298f200d64fdda4bef306a157759d9410d49c826681d80568af1065c0abbe25",
+  "fact_sheet_version": "FS-v2-20260907",
+  "source_log_version": "SL-v2-20260907",
+  "content_baseline_commit": "30dae34fc1a88701933dc218bfe877309282bebb",
+  "container_commit": "assigned_at_push"
+ },
+ "AB-260907-G05": {
+  "article_id": "AB-260907-G05",
+  "body_hash": {
+   "EN": "948e4cfdc5f2f1c1dfc82d6c441d5e64e62c54e3854e4143ec2fe04bcce2e56f",
+   "FR": "1d3f995a90f3657e7ac2b94f670ea3987776fd4e912866ff6198abbb835f925c",
+   "DE": "c2bc77b3e642e08b7cdfef8039ed6fe1ef4e1ed642fa0243c5a1212fce8b7791",
+   "ES": "7795ef8de704bce01de600e0bb394c338d3c41efabe5edc4025e332f29128622",
+   "PT": "20cc1b1a76d489ca25c2cfa5ab1ba2a01fdab76c67adf88c54ad0a7dfc0eac8d",
+   "JA": "148ade6adc1cfc8292b83426f7ec4ee7c4e325ab9a6e22e95ac2f5c7c5515017",
+   "KO": "8ffb7d1cb367aaa92de8a591a9c23608c1abb79f1359d6b984ba637877ce7df1",
+   "VI": "9458d3548850196e70bcce8818200cd37ad76530e62bb6f24d597c8e33eaaafc",
+   "TH": "e13e9a8f32daaa6ae6c38d64ef3dbe8223c13de6d8160d815904e805af2f6249",
+   "ID": "c5f8f174a08a311f54845705e34e6aa1c584f9072f73c97e7bb8d02279e37629",
+   "AR": "1174342260c2a18ef692df82091db3652296f693e95a892719dbe439f6d65c68",
+   "ZH": "e54611430960b6a2416310311e4f97b83052b889db782549caa46f5bc92b6994"
+  },
+  "summary_hash": {
+   "EN": "1e4b78c2a1d868c08bb38d9031e891b1554a607bca088d3deaf76ff6b2034020"
+  },
+  "parameter_bundle_hash": "c06c02be86e9410b25633ae670cd7f32d4139fa1b304c76196e2177bc6008247",
+  "image_text_hash": "4ae1c7a781f127b4566e6b0d9a6b3c8ae697bce26c6aa1779a6e41233cf9b4f9",
+  "fact_sheet_version": "FS-v2-20260907",
+  "source_log_version": "SL-v2-20260907",
+  "content_baseline_commit": "30dae34fc1a88701933dc218bfe877309282bebb",
+  "container_commit": "assigned_at_push"
+ },
+ "AB-260907-G06": {
+  "article_id": "AB-260907-G06",
+  "body_hash": {
+   "EN": "cffdc6a3d40584387b2eb514218de3a65daf499d1e3e2fa8846dc1a5d90a5920",
+   "FR": "63246b49738d2c1524be02b4df3cf3891a778cf00e348e56e766a10274f4f475",
+   "DE": "893fd4a1c342cb310b6f980d46121a9d7cdf359bb9424e3372ba103ccbcf3739",
+   "ES": "94d74f7977c1086c29287f9b15f45b85ce999ae6af6417cd9a609dd18b32d5a2",
+   "PT": "56399aa98c7d4394ff30bb8629fee0ec4099b8207e898880ae4f38ce5bb9602d",
+   "JA": "71bc4013f61a603ad8d293f6cf05a6b7559a3cba334226393f3958843339c2d8",
+   "KO": "c7d29953082dd85e9c2fa4bff4bf40a4eef3af8a9177997f7a3e24deac0ead05",
+   "VI": "2f519a14894e646e448d0502f7365fe2bf85fbc9fbd53378954d453e78befb69",
+   "TH": "974014404dbf6497307a09a22c80825697771e7e086ed3b36a026f01e549c365",
+   "ID": "a73011ab427d13fc61e9be432240ff615e12b17364fac18a44ae3389d6e55365",
+   "AR": "ed46aedc101113f9647d56b7a3c101e1097bc3f24e192e48a85ab2fcecd0b832",
+   "ZH": "3c65d07fd540ef199f934181a0a231891256196f66421979edf5d58aeb70abe4"
+  },
+  "summary_hash": {
+   "EN": "fe61762d217744b31b92d697828c1ed7dce95d7101055330b6bed424b2fa49b4"
+  },
+  "parameter_bundle_hash": "0f5e540af010d115411edf1a34d1b0d252e35764fa0b12edb745214d4c6e316b",
+  "image_text_hash": "5e400d2f42dbb4e8204e85fa80682d7c5940518d8a5123476dc4aa3d04a09dc9",
+  "fact_sheet_version": "FS-v2-20260907",
+  "source_log_version": "SL-v2-20260907",
+  "content_baseline_commit": "30dae34fc1a88701933dc218bfe877309282bebb",
+  "container_commit": "assigned_at_push"
+ },
+ "AB-260907-G07": {
+  "article_id": "AB-260907-G07",
+  "body_hash": {
+   "EN": "1ee21c307c51187aa259c4daebb7ceb26a6077888c4e9e5bf6711254c5e9cae9",
+   "FR": "8e51adf162c9067eb35b39d6e519db7fd3bb1af1113b7f92e90536cf24fbb2bd",
+   "DE": "c1eb9d92a2d879bf32353a652b8917b3635dc6c8a97de643f4beda7cd73918c0",
+   "ES": "3f33106085b0046490994f775e529b9ba52afb5bb4d07ce500d7c54489178fa8",
+   "PT": "52c5d421f457f06bd1e9b0201055a39888a2a7ce8e6418cca883e166bad4fb2d",
+   "JA": "d4020b14f2741a967415f8586db9da8a272120f89c051cac4535f57e6f1f807a",
+   "KO": "fa0041cd319505bb2203d353fbe15131c3ef384ff5714a7ca0c65943fcca22f6",
+   "VI": "90519186c158dea67198d975ab46028bc0bb9260224dd675e419039a9783a7a0",
+   "TH": "76b7e8d054915a29abe6a7d20ea1cc0441377fbbfef22f01cfba47179761ce56",
+   "ID": "70e75781878b2eb3591feba16462b32d73ff333799d88ef9055231694288303b",
+   "AR": "9935dfb516c3f08e7ede6992633a11f69a476d97544c774537a51f8999a0ab20",
+   "ZH": "fed22797f11fd86ffdc45d7cff6d1e883e112935a69f6a9feca5bed050e033b8"
+  },
+  "summary_hash": {
+   "EN": "132218dd3c8dbd6bc37eed44d4dd67145a534fc072c7905ff43e58a150bf691e"
+  },
+  "parameter_bundle_hash": "89506d4273415de5f8984d6f6e0bbf8d48c746264eb81e90425566ca0d69196f",
+  "image_text_hash": "454123d4440c8bd71871f2512b1e9d0e62facd4c479cd65538386f4acf9f35d9",
+  "fact_sheet_version": "FS-v2-20260907",
+  "source_log_version": "SL-v2-20260907",
+  "content_baseline_commit": "30dae34fc1a88701933dc218bfe877309282bebb",
+  "container_commit": "assigned_at_push"
+ },
+ "AB-260907-G08": {
+  "article_id": "AB-260907-G08",
+  "body_hash": {
+   "EN": "92f3c8457218e65313f1ff1d969a51806e18cf592519b1441305f0d13a2e5b79",
+   "FR": "c72e25ae30a9df1f3cffc17568456ca0a4a384b3a4283ddad2f8fdf5a5e88f58",
+   "DE": "6a977753e6dd680db5898a9205aa9121f00803d82b6fd109995d902100b82df5",
+   "ES": "445b488c548ce6a3db714c0ba2fae0b44a8f2e55df6604249a6f36657cdc40da",
+   "PT": "a4a251bf2fd2fe9e6004d4702ef2c8b21600eb3d16f7b92e7b541ee8cabd5b9d",
+   "JA": "04a6122914fc2baa8f65f27766740d674db63fb7f65fb96667d195fcf64895d8",
+   "KO": "ddac763ff8a074f3e80fed3702c830a9738d1e24ac05bdb171f1249f26bd92b4",
+   "VI": "e7843f5e528b7a58244fe54c0ff800898274456d30771b5d8f2b4a69ec679693",
+   "TH": "0c3f9ee566005df31ca6428bc64eabca15c66e9aa5423bf0e1812fde7245b586",
+   "ID": "8fda2602ffd258ea05bf5ac81ab91dbc08f70497fea5ca4b4e183ed5b839807e",
+   "AR": "b41100bb559dddb607015a885457e98cec91dd78c1ee771a046a2a80a8d86c35",
+   "ZH": "d4734658b386c30d8af3a8d088ef7ab37e14e2e391fbe0ea36ac69d3637b5a72"
+  },
+  "summary_hash": {
+   "EN": "888336c6860efc69b13055425a9ebddfe4d069c0f83df652215af56a94e5f400"
+  },
+  "parameter_bundle_hash": "82d355191fcfba08cc0f594d30e8beb5551e3084fb8d11cc1da7b4886d256a53",
+  "image_text_hash": "99cf719acb4f76fbb9c3982ef4e527e86384a8896274fb20171d6b6644082f6c",
+  "fact_sheet_version": "FS-v2-20260907",
+  "source_log_version": "SL-v2-20260907",
+  "content_baseline_commit": "30dae34fc1a88701933dc218bfe877309282bebb",
+  "container_commit": "assigned_at_push"
+ },
+ "AB-260907-G09": {
+  "article_id": "AB-260907-G09",
+  "body_hash": {
+   "EN": "5a38de78cd96540367ba647ded63619e8990ddab25176ed6dedf7739fc6f668f",
+   "FR": "0c1ce5b0608ff8d5f086dd9f97cbb2c5ad103ca89af19acad919544569055449",
+   "DE": "dc666c5cb1b4c05eff44706f385ba2b8f2a28f25ff8c3ef3e652abf44d539511",
+   "ES": "219082159bec188655f0e0eeb5f76ff8ffb1ec85cc8713d27d3b3b461ec00f1e",
+   "PT": "5daac86f79aa832c660f9140e352d53f8af2dbec74d7ca4408c4a0ced54c40af",
+   "JA": "0b6958f66b71db837e84c75d9722ac7c5aa2061bb59ee19d9354bd5804dcf762",
+   "KO": "1bd1b9aae3571b02eb8976ddc1ede16a62f9e47f81fa62d213653cc8bbd7a9a3",
+   "VI": "83a7103d1ed5d06d0d9d51a37df726d90b66227833f33d4935146e1a9700f6e0",
+   "TH": "3bbb35d679a37e932ce142d98cb749a54890cbbd78d6ea0153ad94ca635966a7",
+   "ID": "dd41fe1615acb0e01d88e37e56ea342e6bc94667201e9c53912a02e15b069dc8",
+   "AR": "e05860feffcf532cd1ba8bf07c4734423831aa6032564ae4a370939a0fd7256b",
+   "ZH": "7d9afd1a5eccb36f1b57613f0645350eb2f29ecc1ee942d0c0fe231ae8c2efc1"
+  },
+  "summary_hash": {
+   "EN": "aab99e9c3deb725be0023d6594d56d802bfb1098e1a0b9fdd11c86c38f8cb592"
+  },
+  "parameter_bundle_hash": "203fc6c38c5b9ecf2d55317b7984dbfb32166353a47f3c96a5e58004b2219058",
+  "image_text_hash": "db492011de97d08a6eed67446ac8c1f6a778bed3d5cebbaa28b5721d231a7600",
+  "fact_sheet_version": "FS-v2-20260907",
+  "source_log_version": "SL-v2-20260907",
+  "content_baseline_commit": "30dae34fc1a88701933dc218bfe877309282bebb",
+  "container_commit": "assigned_at_push"
+ },
+ "AB-260907-G10": {
+  "article_id": "AB-260907-G10",
+  "body_hash": {
+   "EN": "72fa5ae0a6598331be2ca47a79df2d06719946a168aa74cd8751cb03af279195",
+   "FR": "750237d1d934d5c6becca79378efc17c25a7fa1f8c488ebe11692a56e0ea02be",
+   "DE": "0ace1558dfbe57886f85b30c7637010d5b6ac15b6588a961b27192d4dbc6cb02",
+   "ES": "18976a9d464ebf4b8b4c75b7103d1a2b8957f54d2182ed801e4d62fc087a3e5c",
+   "PT": "419d28d8fdcdce9de4c0fab66d16ea4e888b66685a1b94f97682f7d22878c66b",
+   "JA": "7a56b86108ea6e4caed02ff6f0547de7959be8e5c0753cd117ae791177a90257",
+   "KO": "707e47bbf044adfe33c7ef5d0381c2cb6d17a82c70863d3e9a2a66daaabe50ca",
+   "VI": "41fce74b7f4475264a444306198fb16fde3347572aecf1bf24c1e4484fcfb73e",
+   "TH": "fe3758e510d6eea524046b80b7a7ebba617efd5d5dfa2abeb693fd6ca3f56d1e",
+   "ID": "9180b45a67e6c6b3de75c71a7a2a0fd916d96db28ce43b7b6cdb761f03761e6a",
+   "AR": "8c105ba4a8f5fb9434434c56aebb2dac4839c57f796aaebe9ac49a4a58e573d7",
+   "ZH": "12683a47b9d88d23817bfd7de451f2f40055eee92b978e184b7259d034f96a8b"
+  },
+  "summary_hash": {
+   "EN": "2c198747b08d1ee994241084dfa0ace4b7ff7d3bd8ebd82d93ec9c195c2e2772"
+  },
+  "parameter_bundle_hash": "6b373987a97caab6584ab5f5ce2050ade6641e45edf9962e8ed62061a1662014",
+  "image_text_hash": "159a67fa4238043958d0fe5d94bbbab5be97b1d6318a44e37844dd3f6f0a4be7",
+  "fact_sheet_version": "FS-v2-20260907",
+  "source_log_version": "SL-v2-20260907",
+  "content_baseline_commit": "30dae34fc1a88701933dc218bfe877309282bebb",
+  "container_commit": "assigned_at_push"
+ },
+ "AB-260907-V01": {
+  "article_id": "AB-260907-V01",
+  "body_hash": {
+   "EN": "221057eef3397a8c0466cac5e087deb896cf2638dc36dc5f6065fc6ca7ca6d82",
+   "FR": "651f19b033187c2050b5618cba5b4e9518df9a99193aa7daf6a7043f8d2fc123",
+   "DE": "ed202fcf3ed2ccd804a9e9746634c9f36ac638d90185fd35d4b571eb851df8bb",
+   "ES": "52fe4c91670280bbe9c04b8674c71057b5d1dd5f0b3db38f4118c0bdbe0a1ee3",
+   "PT": "9782a115844fcffa2eb442395bebef3e4ea6b7058cc981b5527eeb85ea41c28e",
+   "JA": "e859ba674c9c1734b04261c3f1abee9301da09b82dbc268b624fff94a34a816b",
+   "KO": "d3b4c5b9290c216406051b2a04d452b421a2e21bf8c236b717032c4470ce78d4",
+   "VI": "346a53d4bb7907bad6e7823c89e44799ecdec61a4a658298f62a4eb94b2e21e1",
+   "TH": "89d66be4e1a713f202070aab483122a23880279db2e52d025eea39ad186b57c2",
+   "ID": "85eaaec0d97096634513bc72dbe027767cd085019dd492fd05adbb64a4ff9e89",
+   "AR": "7da55e68c7dca0ff00eca8b8e8e1eac13b6636792d32b448ced28cf378cd8e79",
+   "ZH": "8a8eb04333eb36d9114c4e03b227b4e5f6d9068f6dbf19638ca311b79ce79854"
+  },
+  "summary_hash": {
+   "EN": "f9d315d1b45ed82e41b547fc210ebd0430add2c3b7b6af06935d8cd9f34e3374"
+  },
+  "parameter_bundle_hash": "0a4435fab6f7442a16b26a00722b11d9e55f7013ff26794de97edbfc57cb5441",
+  "image_text_hash": "4ab71ce4823e35f2e89d42c5350d07f86d1cfd6e54ca8137240a4a01dc4c346b",
+  "fact_sheet_version": "FS-v2-20260907",
+  "source_log_version": "SL-v2-20260907",
+  "content_baseline_commit": "30dae34fc1a88701933dc218bfe877309282bebb",
+  "container_commit": "assigned_at_push"
+ },
+ "AB-260907-V02": {
+  "article_id": "AB-260907-V02",
+  "body_hash": {
+   "EN": "d56d0c93bef9f3822eb7367cd780c3e267cfe363a64553628bd08253192a379a",
+   "FR": "b93914c49a04b3af13ef6a0a688d4fde9e205f26d64965aafbbe34bc29e37507",
+   "DE": "32f745abdc00834d395e063b4036442f9dbae344eed6ed767ddee2938c6fa8ce",
+   "ES": "334190fdc17780370543ed32a2ecee927426c57ca30c8464127a744122bc602e",
+   "PT": "ddfe497966cbc8f34ed947fc81e422c31f8282c3ef90bb748bc410de878e1aff",
+   "JA": "6bc87bfb596fe3043b9c7fb88175c8f02a1fbd054bb04e276012f25114c95b88",
+   "KO": "d819ac459eb988699e02595ccca4ad0e8cd31e8b8635dae37f2ca0bd8c268742",
+   "VI": "d5034ffb566b34386387d127d34fd3534aca474044362fa994b4b1a731d7bce6",
+   "TH": "baa6fbb5ec2b1da714c856ceb766e203458b386ae57e34e1671c990ad3576dae",
+   "ID": "fed26aa8299e52a300c2942e39bcac6797f2ee4c62198f7b69bfda0d58ada865",
+   "AR": "a0b004e25e1705ba3bbcf75ed1c4055035c96740831cac5fcd68bd17c58fb3bf",
+   "ZH": "af1aa58433122dd6640962258b0ca1dfabdba9bb3b3ee1d8befd2d5efd4082ff"
+  },
+  "summary_hash": {
+   "EN": "ef9a6ecb0ed8db8db9e47f028710c29caf63f28e4be4755c8f47282dc071a8d2"
+  },
+  "parameter_bundle_hash": "88c4455e1e8a50c982d56b05a39cc50aab7714293cd563741014e72bd3ce0c2b",
+  "image_text_hash": "7f4010c4167d69193bec51b781a68286bece0f3b5d62faede131c65e4c74ed7c",
+  "fact_sheet_version": "FS-v2-20260907",
+  "source_log_version": "SL-v2-20260907",
+  "content_baseline_commit": "30dae34fc1a88701933dc218bfe877309282bebb",
+  "container_commit": "assigned_at_push"
+ },
+ "AB-260907-V03": {
+  "article_id": "AB-260907-V03",
+  "body_hash": {
+   "EN": "e7b25fa3135d51ea0c656d4d3e57c9d1238cbc27d4e28e16182ea5ad632c05d0",
+   "FR": "fe048615fdf5a4797cb4670658eaa48f0b6bd6076931dc709c38804e59e5307e",
+   "DE": "cdcbd2e6a1dcf9973537401c95881ccf5fcfedbc18e27bae022ae23126c07b90",
+   "ES": "9daf027a7c8d12b9aa20b87b4c34fb1f5936f08275cf202c2747e072b36d7fc1",
+   "PT": "95cfd0dd63e61896c80e864e299bbdcc5e869fc6428e19d3b72212f8b9796ac2",
+   "JA": "8bc06220ee8b2cb53b73544f967346209875c396abed2d2d30afca5fb867f39c",
+   "KO": "b52b32f5cdbb7cdc11b4a128fe53d9881451ff70db6a10df3b0e3eec179ad0c4",
+   "VI": "8fa3bb85e65fabbdd4e4478c0072cc01709db16ad89ee619c00c5f660bea060b",
+   "TH": "9d64b09cbe6e9634a39cc21f3404e592dde9dc384fabf96f0278feda2ba95d77",
+   "ID": "963201d1bf2dc79eac39ba374d177bb5e89d0e6993bf569158d63e1563f6fbd9",
+   "AR": "07120d939f7079086b5dfae7d103cc85da566f243b86c17577036728cab95acc",
+   "ZH": "d660bba343b4ca63806d00cbd8c2e51df61923be9d9ce5415748e38eab5221dd"
+  },
+  "summary_hash": {
+   "EN": "bf76b0fcc7707884bbf0a63379e5fd01ba52d1dea453ee903d3f189714e0ff5d"
+  },
+  "parameter_bundle_hash": "22726cb2af06639a166c80072e0d21a9b10cc86f1b2cdc1877bf8ec892022b82",
+  "image_text_hash": "7bd3f5722b637d90d60e8b229ea40eb1e62077efee004f88da00fe08c0ac5616",
+  "fact_sheet_version": "FS-v2-20260907",
+  "source_log_version": "SL-v2-20260907",
+  "content_baseline_commit": "30dae34fc1a88701933dc218bfe877309282bebb",
+  "container_commit": "assigned_at_push"
+ },
+ "AB-260907-V04": {
+  "article_id": "AB-260907-V04",
+  "body_hash": {
+   "EN": "d22fd04c981c5ec7e1b2d4bde7eb56df661460f53851f7055ba9d8f93a486154",
+   "FR": "26921d5ae8a6e291951ebaf520ab4e9eb7238c4177338f02adf15948155f2981",
+   "DE": "9248c78dca3e32aff7d37d7a8aa6b0c57c2185c56b6c5054641252ed950ecb50",
+   "ES": "261ea98171b2a93d25ea7dc461cca8377b1cc42492e324c6a1bbdc8a95d8e383",
+   "PT": "5b0fe35191befab7340b1c369c6a636cf3f03be6ae8674c7ce638d727b3f76f5",
+   "JA": "8b3393ea3211cdc96a0486e697c5ca6442c097c99695f3eb0ff8c804ef9decfb",
+   "KO": "e3b73c37078898264d69f06f2a8670918934329e4ae0492c0af65d65ac130c00",
+   "VI": "82f9384f80705cafb40d8f8371c44e1690290c5d726b2d62ddfecfffc200e2be",
+   "TH": "eac4d515b2b4aecb63bde82deeb658ecb2ae4bcfc0f06b318355f69ce2a91e4d",
+   "ID": "0d2c96b3452ffc8a915a2a9d6a255e290bfbea5271ede8585963d1770fc7d40c",
+   "AR": "e58ff21f560d817506698f6878b03ef5d7c568ebadf054c7f3430ca8736c3ee3",
+   "ZH": "5a71d2c7195ff3d54d5e831ccfa4f149057779aa2fa933ae116b7ff70a4ed78b"
+  },
+  "summary_hash": {
+   "EN": "41684d730efe4d898613febe271995af5e5a6da237e86d14ea207bda411df29f"
+  },
+  "parameter_bundle_hash": "a37de3bf889aa67cf5cb1f17da5b774d73388d5bc844e74f991b08866dce0d79",
+  "image_text_hash": "eae2988675af1d34ad29309851e9746d3c3f64d56e92a6e702d492049257c6cb",
+  "fact_sheet_version": "FS-v2-20260907",
+  "source_log_version": "SL-v2-20260907",
+  "content_baseline_commit": "30dae34fc1a88701933dc218bfe877309282bebb",
+  "container_commit": "assigned_at_push"
+ },
+ "AB-260907-V05": {
+  "article_id": "AB-260907-V05",
+  "body_hash": {
+   "EN": "b1777884c8c111e7e016e5be8ba03033ea162139c0aef414fcd9822509acb0d8",
+   "FR": "c56e36ee1149d84d256516149fb4cab65cd0f0009739784b10ad91384e6c5df6",
+   "DE": "5a7bd0694422f3b54d2f90e7a20f85c2f1ea7e5fd7881bf0fd7ebfb66805d943",
+   "ES": "c3d17d711bb913929e636543b034af59ed4c15b7980c56beb577606ce3849a6d",
+   "PT": "31b3dd65d55c083875a802ea015c5a8ea14380442f54a981b622e019dedf14c2",
+   "JA": "d227f651d66cc6c532de76c42e018196e2cacc6f107f001b52c915b965473883",
+   "KO": "039e1f9fbb81fbeaa316b6842acf4a3f08740ad68ec631af1ccaddf704b6a3bd",
+   "VI": "da454b0b7ce4e142dd9dec1d26a3819d724bea6bcd5d738ccc42d39610762f6f",
+   "TH": "35e24d4248f2c924a250ad236f22d532c33070da478b914ee0485014b318aff9",
+   "ID": "6872d2382b3c437bea50e579d84fb6df2958b0a2ae2c34ecc1f324fb41ff99a3",
+   "AR": "db01a964233fac4fc0a457046647105634b649c4ab10f635dce771adf529260e",
+   "ZH": "d3fdc90945df148edf4e7253c309daece08624d830cf298bb3cf0998f10b8153"
+  },
+  "summary_hash": {
+   "EN": "c5a7ce30078c693859fb8e184e61c0a88a0c375528ec48daa360dd829561889e"
+  },
+  "parameter_bundle_hash": "9f65ebbbb3341f6825369221685a85784a70786a1347eca4b6d3ad911481d933",
+  "image_text_hash": "b84597ee85f7cc36b38ca0fa4bc62e7fb4ee2ccc8fc0fe68a78439062624d504",
+  "fact_sheet_version": "FS-v2-20260907",
+  "source_log_version": "SL-v2-20260907",
+  "content_baseline_commit": "30dae34fc1a88701933dc218bfe877309282bebb",
+  "container_commit": "assigned_at_push"
+ },
+ "AB-260907-V06": {
+  "article_id": "AB-260907-V06",
+  "body_hash": {
+   "EN": "80ce1d3abf21673a1998f026f38c94100c09749a8b810943a6154b2c9a4a532d",
+   "FR": "e8f672ad9a9d5b5128838b91422980657e13025330a4e9e3212fa185868c82f5",
+   "DE": "7f00ceff6674e5230f669e52e4bd657358510f5d0b41247683896fd2de6db0dd",
+   "ES": "c14f2e8e8279358d6ff2283cd559c46b657d808aa43cfcab3e18e56d657752c4",
+   "PT": "22ca7864c3407d82e7f928b780c3db815403593ce3e9d2f95e7739829d49a0d2",
+   "JA": "e9eaf5986e200c1fad675cf9f5de4eb5443ebbaf2b4e62a0fb12aa90fe1ab007",
+   "KO": "09e4ce7dcbd6f6611014f624303a4a9c1fbc5365f9f2043e36b17a79b6a0c984",
+   "VI": "f915728f68e9da4a61cd5e03f0d0a83e8d10cc2097a7fd36ebde2ba5c90861b4",
+   "TH": "870544a82bbb14769d74e363362cad56c7a500f61e69463b39acac6f642a3081",
+   "ID": "36f9688fe742384aadff18751813ba56bb1be1744a0590ae939817d5bd99caac",
+   "AR": "e2375650b679867e7fe30994b94eb3d9a94859a18b332e338d39642f98282173",
+   "ZH": "d81769193953e2cdb59363c4cebd26adb6986711c02b21aeb04d1eeda6fcc3ba"
+  },
+  "summary_hash": {
+   "EN": "dc12571611c2bc3016c1c68004ba9a3bd2424218d258d1145f6237fb328cc99d"
+  },
+  "parameter_bundle_hash": "42fb64ea26932f58cf55e6fa105f60cce8d714c2b211d19743740a6f032d628a",
+  "image_text_hash": "cb68d249b1aeee7ee28d72da3a2a40cb2395ec8b583c607c47b7d6fcbc81069c",
+  "fact_sheet_version": "FS-v2-20260907",
+  "source_log_version": "SL-v2-20260907",
+  "content_baseline_commit": "30dae34fc1a88701933dc218bfe877309282bebb",
+  "container_commit": "assigned_at_push"
+ },
+ "AB-260907-V07": {
+  "article_id": "AB-260907-V07",
+  "body_hash": {
+   "EN": "1e0bb6b981c5ba7281aa563858aa6204c7244b377c1d6c8d50d0e24b5bf377dc",
+   "FR": "90107c864f5ff8f9a09fb0adee6e404c30e0410de568af437f549ab6cfc67a10",
+   "DE": "de47a81f593e5c435c0a7506fd292f81731357658f9f3156cfe2b7a14bb89416",
+   "ES": "3e1878a231f0a02c13e93a3e808dfa4ba9047be555131a71769c39910d69a70b",
+   "PT": "c50bc74c8c502f737ecfb8633135589b0c471885904db1497fce4a3872b19103",
+   "JA": "9d4f2222138a2dbe03d6dd7214add58f7f9ddebb2e90643ebf75071471aa3096",
+   "KO": "4ad65527907fa8e615b6cf685d9646b67ca199f6fdcaa16e6f3f3aba705fd753",
+   "VI": "318ca500bc8582131840d16cb9afdffbab1ab9f0b251caa2aeb0ed4215936b57",
+   "TH": "c05bbf1d9807b263c66bd76911dd648b6ac47c3ea9a62cfea677d85cccc68c63",
+   "ID": "f7f24325b18815a774aa9e18b05ba45593013a2875d68cd8a43b262ad2fccc69",
+   "AR": "eab845ea91f50b32b38ffde6736b0c8b30d403c12b66f49d95126534560e1c02",
+   "ZH": "15155efdd8435f545f32baaa365b35eb813cb67ee24990702d13b035b090d8e3"
+  },
+  "summary_hash": {
+   "EN": "f96913a2544710b182f4e66e765ee0ad31b05d0d8ad60c6093c8cd58824446bf"
+  },
+  "parameter_bundle_hash": "c35d91b8b0a50041d06ac338689e25487b6378c3e6c87addbd52a69d3f60297f",
+  "image_text_hash": "76ecf5c7cfb86257d01ad530e78766aa2fa63cdadb58d942744b31bfbcbddf4e",
+  "fact_sheet_version": "FS-v2-20260907",
+  "source_log_version": "SL-v2-20260907",
+  "content_baseline_commit": "30dae34fc1a88701933dc218bfe877309282bebb",
+  "container_commit": "assigned_at_push"
+ },
+ "AB-260907-V08": {
+  "article_id": "AB-260907-V08",
+  "body_hash": {
+   "EN": "5ba085fdf3e056823bfb414d391b48de4732f9ca8622a764c0c442bb7f9534b4",
+   "FR": "91138d1ba0fd7affc6e79b706509b815ab634f48b4a4cc65f8d49e17688e4a4f",
+   "DE": "99289e05b360fabe67932c6dc599f799feb9ef1a905565e204c5ead142b959c2",
+   "ES": "2a3b2dff3bce00fca0e4df4e03fa81c8cee99f2f88cb099d8d9cff67fd194341",
+   "PT": "90353a5b2e63b1354a6fe35a619ecdac1ab882fd4af7f09e5a0f064fe0071747",
+   "JA": "52adaf5d75ba8aebd3a3060922f526ccac06d2387f90df1e24377c75c35ea62b",
+   "KO": "42417a09fa5b92b8bc712e35388962dc2ca5d15ffd2ec7f25dca02f9844375f6",
+   "VI": "1f442e2d56d24c7a199f2b1759ea2eb842a8c0c9d7c11173e5ac01120bf49642",
+   "TH": "342ea136b94d8a16af14d97897e121551fe4e8b306fd626747686c0b27700798",
+   "ID": "54bfbafddd6a06188ce1ae1506b1c0eca4667f946423c86dc73a055fbeae7e2d",
+   "AR": "3eb5d596253030e9820cb501e8b94451c9608e5c1d242131ea10058531515908",
+   "ZH": "a1fab9985675f404f0d83c684baa248c2b9b5ad81839ae6236b81a894525d896"
+  },
+  "summary_hash": {
+   "EN": "b9fd4c7d6a6838abee5521d676c3ff5a95860f96aa82a90567f94cbd1727a88e"
+  },
+  "parameter_bundle_hash": "869529ea95c1785e4431655edc767ea548bdc69bc2f0788f254b1fee2b98a805",
+  "image_text_hash": "a53dfd960886f7bb8391e14d088e4b3f94f0bc67be772c6afae5188718b7d234",
+  "fact_sheet_version": "FS-v2-20260907",
+  "source_log_version": "SL-v2-20260907",
+  "content_baseline_commit": "30dae34fc1a88701933dc218bfe877309282bebb",
+  "container_commit": "assigned_at_push"
+ },
+ "AB-260907-V09": {
+  "article_id": "AB-260907-V09",
+  "body_hash": {
+   "EN": "dab2981b76d9aadd33eaf09893a130d0c6c35d63b860c72717b37c0fa7b0fc1e",
+   "FR": "184b1a0b632c0f58c04e5686183de71ab5b7064bc4a9b35715efe42f9b73c595",
+   "DE": "e1e357922ab79d14d3f2c8a84d3520d97d652695fbf7dddb43cf0d47f3f93c40",
+   "ES": "899f2c937bc149fa823f97acaa0238a8bc84b70748127ba56b616401279a9cef",
+   "PT": "b4576ee4917527aa82cc8833a094e43bc148873b0a6170057fa1af07e9595c68",
+   "JA": "7c87fae74e3938e49d80dc70d5d7afde8a0cab90419a260b7fee2b6c396d5d62",
+   "KO": "1da4dde1132530fc65a4b1e9cf74bf7c0db83b0bfdbc4cd3bafe6fb02c20987a",
+   "VI": "be199c4ad2386bb912732f498f9609afd499a9f3e194f1b8f5d363ee6e94bc7d",
+   "TH": "57a658f08c85d97e586b553b9e7af7b9984f7c91b45d69f23e6dcc566c6e4b34",
+   "ID": "a7779164d3b6c198deffa024c2cddff7167e02de96bec5a7d79a4c851a12d823",
+   "AR": "1614e690ec85cbf13526cd97225508f6800c372647d1e613eadbaf939afaecee",
+   "ZH": "fafb09a8f9e3e27d883e8f175b048f75b9f39918eca6172fab7e282588b37a57"
+  },
+  "summary_hash": {
+   "EN": "0d26a11489746a634fc114bcb7bc62b34a8b30c8571e90e6b1491898aa323d7a"
+  },
+  "parameter_bundle_hash": "5144e3240be58e20072f744413a338065a0ed27e0f19533722ad6e1c826cbe30",
+  "image_text_hash": "8804698e1aa33ee2e4d1516bc8d2c8a244f4f010923c3096be8a8eeca8c1f54f",
+  "fact_sheet_version": "FS-v2-20260907",
+  "source_log_version": "SL-v2-20260907",
+  "content_baseline_commit": "30dae34fc1a88701933dc218bfe877309282bebb",
+  "container_commit": "assigned_at_push"
+ },
+ "AB-260907-V10": {
+  "article_id": "AB-260907-V10",
+  "body_hash": {
+   "EN": "dc610a2d9719fba9e75c3b132bb75b18e86ee6ad67332fc73114b786f96d86c0",
+   "FR": "dede09662671f65b82883ffccd3a5c6f73864539595c3524b276a9d4c42a556e",
+   "DE": "1fc272f946c6c163dffcb4c04a3995926aca2664b2e030c41023a3028c4849be",
+   "ES": "6ead035cf550dfa84015db4ff86c3a2091fa23ce0a4c601b4f1210daebdd706e",
+   "PT": "7a2996b7256a4a64ff1f398ecbf8952ed455aab5714051764487da855702de3b",
+   "JA": "505b9b1bad3663e7b933e6cbdba5e3c68bd35e32227302c2e54ea41ea652028c",
+   "KO": "72bcc2847f77e97c683fb2c778530275f99e0a0ab615368ff5652e8102441e03",
+   "VI": "12fdff7629a3b5ed99a34ea9e107415472f584d04d0002ae6bf57bf81c08c2ed",
+   "TH": "2d1e4f6270c530f0d326f70c4ea0abbc6a9607c8f900d5222c0301b86f465d87",
+   "ID": "f7273aa2a78c2d0eb45807b4d0a4e15de1bfac99d0058f7273ed021d2ade274d",
+   "AR": "92863e2414a69bae8a58a6af889b35dfaaa045981c6784cfd4509dc4924b7128",
+   "ZH": "073914e6a6f19ed615ee4b22dd717441390b49e02f82730469f1122ef5e4125a"
+  },
+  "summary_hash": {
+   "EN": "2b56da75683050aa27af93b9df1445f030ef198682df3e917ca6e2f054e53bd5"
+  },
+  "parameter_bundle_hash": "5ea979ff18500b735dfc4b3c7cb25fe2156561dd18e34529b6442a77a60ed925",
+  "image_text_hash": "228d86c2fbc47d23fe8de76f4bd2f5c4157fa4f243a40f227a0f4eca14503a16",
+  "fact_sheet_version": "FS-v2-20260907",
+  "source_log_version": "SL-v2-20260907",
+  "content_baseline_commit": "30dae34fc1a88701933dc218bfe877309282bebb",
+  "container_commit": "assigned_at_push"
+ }
+}

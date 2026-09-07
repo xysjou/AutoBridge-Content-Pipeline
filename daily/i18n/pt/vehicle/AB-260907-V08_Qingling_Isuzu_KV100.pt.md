@@ -1,0 +1,95 @@
+# Qingling Isuzu KV100: Uma China-mercado azul-plate luz caminhão referência construído em torno GVW, motor e linhas de modelo adjacentes
+## SEO Meta- dados
+- ** Título SEO**: Qingling Isuzu KV100 Especificações do caminhão leve do mercado de China e verificações de exportação.
+- ** Descrição do Meta**: Chinese-market reference for the Qingling Isuzu KV100 N2 blue-plate light truck: o 4KH1CN6LB China- 6 diesel, gama de leito de carga, linha adjacente 100P mantida separada, e verificação de exportação.
+- ** H1 **: Qingling Isuzu KV100: Uma China-Market Blue-Plate Light Truck Referência Construído em torno de GVW, motor e linhas de modelo adjacentes
+- **Chave principal**: Qingling Isuzu KV100 especificações de exportação
+- ** Termos de pesquisa secundários**: 庆铃 KV100; KV100 4KH1CN6LB; Isuzu caminhão leve China; caminhão de placa azul; China N2 caminhão exportação; MSB 5MT
+- ** URL sugerido**: /veículos/qingling-isuzu- kv100/
+- ** Intenção de pesquisa**: 面向海外买家介绍庆铃KV100中国市场身份、4KH1国六柴油、货箱长度区间，并区分相邻100P车型线与全球ELF
+- ** Sugestões de ligação interna**: /veículos/changan-kaicene- f70/, /veículos/jmc-ford-transit- t8/, /veículos/faw-jiefang- j7-tractor/
+- ** Sugestão de Imagem**: Um caminhão de carga leve Qingling Isuzu KV100 de cabo-over mostrado a partir do lado três-quarto
+- **ALT Sugestão**: Vista lateral de três quartos de um camião leve Qingling Isuzu KV100 em terra neutra
+- **Espécie de âmbito**: Artigo + Veículo (sem produto/oferta/preço/revisão/rating)
+
+O Qingling Isuzu KV100 é um camião ligeiro de cabina (face plana) construído pela Qingling Motors na China para a categoria doméstica "placa azul" N2 — veículos com uma massa bruta de veículo a menos de 4.5 t que podem ser conduzidos sob uma licença normal de veículo ligeiro na China. Para um comprador de exportação as disciplinas-chave são disciplina regulatória e modelo-linha: fixar o sufixo exato do motor e seu China- 6 fase de emissão, manter o KV100 separado de Qingling / linhas de Isuzu adjacentes, como o mais novo 100P, e não tratar os dados de carga útil classificados para caminhão usado como dados de fábrica. Esta página é uma referência de mercado ** chinês-** e não iguala o Qingling-built KV100 com a gama global Isuzu N/ELF sem uma instrução OEM do mesmo modelo.
+
+## Identidade e corpo da classe
+
+- Classe: ** N2 caminhão leve, GVW ≤ 4.5 t ** (categoria da placa azul chinesa), cab-over (flat-face) layout, diesel (cross-checked para a identidade da linha do modelo).
+- Comprimento comum do corpo de carga: aproximadamente ** 4.2–4.3 m** para aplicações típicas de caixa/plataforma (fonte única) — o comprimento exato do corpo é uma escolha de superestrutura e deve ser compatível com o chassi específico e sua homologação.
+
+Como os caminhões leves são vendidos como um chassis-cab mais um corpo montado, "um KV100" pode transportar caixas muito diferentes, estacas ou corpos refrigerados. O comprador deve tratar a especificação do quadro e a superestrutura como dois elementos de verificação separados e confirmar as dimensões do veículo acabado e a GVW no certificado.
+
+## Powertrain — fixar o sufixo exacto do motor
+
+| Item | Referência do mercado chinês | Confiança |
+|---|---|---|
+| Motor | ** 4KH1CN6LB ** 3.0-litre diesel, China - 6 (National VI) | SINGLE_SOURCE |
+| Saída | 120 PS / 290 N·m | SINGLE_SOURCE — confirmar por VIN/OEM|
+| Caixa de velocidades | Manual MSB 5-speed (5MT) | SINGLE_SOURCE |
+
+A família 4KH1 existe em mais de um sufixo com saídas diferentes,  and  a second independent report references a different 4KH1 suffix rating. É exatamente por isso que o código completo do motor - ** 4KH1CN6LB **, não apenas "um 4KH1 " - deve ser escrito na ordem e correspondente à entrada de homologação MIIT. Um diesel China- 6 é calibrado para o combustível chinês e a fase nacional VI; O grau de combustível de destino e o reconhecimento das emissões devem ser verificados separadamente e não presumidos.
+
+## Carga útil e massa do tabuleiro: os classificados não são dados de fábrica
+
+Used-vehicle listings (a T4 classified source) show sample kerb masses around 2.55–2.91 t and rated payloads around 1.495–1.75 t across different bodies. Estes valores são **não** apresentados como especificações: variam com o corpo montado, são auto-reportados pelos vendedores e não podem ser utilizados para dimensionar uma carga. A carga útil, massa do banco e GVW são de **o certificado de homologação de chassis exatos / placa de identificação**. Obter aqueles antes de se comprometer com um ciclo de carga útil.
+
+## Linhas adjacentes e o limite global de Isuzu
+
+Duas armadilhas de identidade são importantes:
+
+1. **O mais novo 100P (4KB1) é uma linha de modelo diferente. O seu motor e especificação não se transferem para o KV100; do not blend 100P figures into a KV100 quotation.
+2. **Qingling KV100 ≠ global Isuzu ELF/N-series by default.** Qingling builds under its Isuzu relationship, mas plataforma  and  a parentesco com a marca não estabelece que o chinês KV100 seja idêntico em termos de especificação, homologação, peças ou garantia para um Elfo Isuzu vendido em outro lugar. De acordo com a regra da identidade modelo, **RELACIONADO_MODEL..ME_MODEL** sem uma declaração do OEM explícita; não cite valores globais de potência, torque ou durabilidade de Isuzu para o caminhão chinês.
+
+## Limite de direção e exportação
+
+The referenced Chinese-market KV100 is **left-hand drive**. Eligibilidade à direita, qualquer especificação de exportação de fábrica e nomeação de modelo no exterior exigem evidência OEM separada. Para um camião de trabalho, verificar também as regras de carga por eixo do destino, a categoria de licença para a GVW terminada e se o motor China- 6 é reconhecido (ou necessita de uma construção de emissões diferente) no mercado-alvo.
+
+## Verificação do comprador antes do depósito
+
+| Verificar | Acção |
+|---|---|
+| Classe/GVW | Confirmar a GVW do veículo acabado (≤ 4.5 t blue-plate base) e a categoria de licença de destino. |
+| Motor | Pin 4KH1CN6LB, 120 PS/290 N·m e MSB 5MT à entrada MIIT; distinguir outros 4KH1 sufixos. |
+| Emissão | Verificar China- 6 reconhecimento e compatibilidade de combustível de destino. |
+| Corpo | Tratar o corpo de carga (° 4.2–4.3 m típico) como uma superestrutura separada; confirmar as dimensões terminadas. |
+| Carga de carga | Leia a massa nominal da carga/kerb da placa de identificação/certificado, não usado-carro anúncios. |
+| Identidade | Mantenha KV100 separados do 100P/4KB1 e do Isuzu ELF global, a menos que o OEM prove o mesmo modelo; concilie VIN antes do pagamento final. |
+
+## Perguntas Frequentes
+** Qual é a categoria Qingling KV100 ?**
+
+É um caminhão de cabina N2 com placa azul leve com GVW a ou abaixo de 4.5 t, tipicamente equipado com uma carga de cerca de 4.2–4.3 m corpo.
+
+** Que motor usa? **
+
+A linha referenciada usa o 4KH1CN6LB 3.0-litre China- 6 diesel citado em 120 PS/290 N·m com um MSB 5MT; pino o sufixo completo, porque outras classificações 4KH1 existem.
+
+** Qual é a sua carga? **
+
+Não é indicada aqui qualquer carga útil fixa — as amostras classificadas variam e não são dados de fábrica; leia a carga útil nominal e a GVW do certificado exato do chassi.
+
+**O KV100 é o mesmo que um Elfo Isuzu global? **
+
+Não nesta evidência: é construído por Qingling para a China e é tratado como um modelo relacionado até que exista uma declaração OEM do mesmo modelo.
+
+** O mais novo 100P é o mesmo camião? **
+
+No — the 100P (4KB1) is a separate model line whose figures must not be merged into a KV100 specification.
+
+## Fontes e Verificação
+| Origem | Organização | Mercado | Nível | Confiança | URL | Factos corroborados |
+|---|---|---|---|---|---|---|
+| KV100 4KH1 发动机 / 变速箱 / 国六 | 卡车之家官方号 (今日头条镜像) | CN | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6909341128869315076/ | 4KH1 发动机, 变速箱, 国六 |
+| 4KH1 另一后缀功率 (区分后缀) | 卡车之家官方号 (今日头条镜像) | CN | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6891911045259100683/ | 4KH1 另一后缀功率 |
+| 相邻车型线区分 (100P 等) | 提加商用车网 (今日头条镜像) | CN | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/7351812463941190163/ | 相邻车型线区分 |
+| 二手样本载质量线索 (不作规格) | 58同城 | CN | T4 | UNVERIFIED | https://m.58.com/sz/huochec/60462479681462x.shtml | 载质量线索 |
+| 庆铃汽车官方网站 (车型线身份; exactamente portagem 以官方 / 公告终核) | 庆铃汽车(Qingling Isuzu) | CN | T1 | VERIFIED | https://www.qingling.com.cn/ | 车型线身份 |
+
+## Revisão Editorial
+- **Autor**: AutoBridge Export Editorial Team · [autores](/autores/) · [Política editorial](/política editorial/)
+- ** Última revisão**: 2026-09-07
+- **Mercado de referência**: CHINA(中国市场蓝牌轻卡参考; 4KH1 功率为单一来源, 二手载质量为 T4 不作规格, 与全球 Isuzu ELF 不自动同型)
+- ** Método de verificação**: Investigação de escritório contra as fontes abaixo indicadas; especificação de referência do mercado chinês apenas se for explicitamente citado um mercado de exportação separado. Saídas de motor de fonte única e todas as figuras de carga útil nominal / GVW devem ser reconfirmadas na folha OEM ou entrada de homologação MIIT, e o mesmo modelo de status com Isuzu global requer uma declaração de OEM explícita antes de transacionar.
+- ** Transparência**: Foi utilizada a elaboração assistida por IA. Este artigo é baseado em pesquisa documental e QA automatizado. Não se reivindica qualquer teste em primeira mão, a menos que explicitamente documentado.

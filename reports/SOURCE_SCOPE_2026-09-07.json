@@ -1,0 +1,255 @@
+{
+ "batch": "2026-09-07",
+ "rule": ">=6 direct usable URLs AND >=4 normalized independent parent organizations; T1-only official count (T2/T3/T4 never counted as official); count gate is necessary not sufficient, claim traceability + scope match also required.",
+ "TOTAL": 20,
+ "SOURCE_SCOPE_PASS": 5,
+ "SOURCE_SCOPE_CONDITIONAL": 15,
+ "SOURCE_SCOPE_FAIL": 0,
+ "OFFICIAL_SOURCE_COUNT_RULE": "T1_PRIMARY_ONLY",
+ "per_article": {
+  "AB-260907-G01": {
+   "source_url_count": 7,
+   "source_org_count_normalized": 4,
+   "t1_primary_count": 7,
+   "tier_breakdown": {
+    "T1": 7
+   },
+   "source_scope_status": "PASS",
+   "claim_traceability_status": "PASS",
+   "note": "Official-primary framework present; remaining single-source items disclosed in body as verify-before-transacting."
+  },
+  "AB-260907-G02": {
+   "source_url_count": 4,
+   "source_org_count_normalized": 4,
+   "t1_primary_count": 2,
+   "tier_breakdown": {
+    "T1": 2,
+    "T2": 1,
+    "T3": 1
+   },
+   "source_scope_status": "CONDITIONAL",
+   "claim_traceability_status": "CONDITIONAL",
+   "note": "Official-primary framework present; remaining single-source items disclosed in body as verify-before-transacting."
+  },
+  "AB-260907-G03": {
+   "source_url_count": 6,
+   "source_org_count_normalized": 3,
+   "t1_primary_count": 6,
+   "tier_breakdown": {
+    "T1": 6
+   },
+   "source_scope_status": "CONDITIONAL",
+   "claim_traceability_status": "CONDITIONAL",
+   "note": "Official-primary framework present; remaining single-source items disclosed in body as verify-before-transacting."
+  },
+  "AB-260907-G04": {
+   "source_url_count": 4,
+   "source_org_count_normalized": 2,
+   "t1_primary_count": 3,
+   "tier_breakdown": {
+    "T1": 3,
+    "T2": 1
+   },
+   "source_scope_status": "CONDITIONAL",
+   "claim_traceability_status": "CONDITIONAL",
+   "note": "Official-primary framework present; remaining single-source items disclosed in body as verify-before-transacting."
+  },
+  "AB-260907-G05": {
+   "source_url_count": 6,
+   "source_org_count_normalized": 3,
+   "t1_primary_count": 5,
+   "tier_breakdown": {
+    "T1": 5,
+    "T2": 1
+   },
+   "source_scope_status": "CONDITIONAL",
+   "claim_traceability_status": "CONDITIONAL",
+   "note": "Official-primary framework present; remaining single-source items disclosed in body as verify-before-transacting."
+  },
+  "AB-260907-G06": {
+   "source_url_count": 5,
+   "source_org_count_normalized": 4,
+   "t1_primary_count": 5,
+   "tier_breakdown": {
+    "T1": 5
+   },
+   "source_scope_status": "CONDITIONAL",
+   "claim_traceability_status": "CONDITIONAL",
+   "note": "Official-primary framework present; remaining single-source items disclosed in body as verify-before-transacting."
+  },
+  "AB-260907-G07": {
+   "source_url_count": 5,
+   "source_org_count_normalized": 4,
+   "t1_primary_count": 5,
+   "tier_breakdown": {
+    "T1": 5
+   },
+   "source_scope_status": "CONDITIONAL",
+   "claim_traceability_status": "CONDITIONAL",
+   "note": "Official-primary framework present; remaining single-source items disclosed in body as verify-before-transacting."
+  },
+  "AB-260907-G08": {
+   "source_url_count": 6,
+   "source_org_count_normalized": 4,
+   "t1_primary_count": 3,
+   "tier_breakdown": {
+    "T1": 3,
+    "T4": 2,
+    "T3": 1
+   },
+   "source_scope_status": "PASS",
+   "claim_traceability_status": "PASS",
+   "note": "Official-primary framework present; remaining single-source items disclosed in body as verify-before-transacting."
+  },
+  "AB-260907-G09": {
+   "source_url_count": 6,
+   "source_org_count_normalized": 4,
+   "t1_primary_count": 6,
+   "tier_breakdown": {
+    "T1": 6
+   },
+   "source_scope_status": "PASS",
+   "claim_traceability_status": "PASS",
+   "note": "Official-primary framework present; remaining single-source items disclosed in body as verify-before-transacting."
+  },
+  "AB-260907-G10": {
+   "source_url_count": 6,
+   "source_org_count_normalized": 4,
+   "t1_primary_count": 6,
+   "tier_breakdown": {
+    "T1": 6
+   },
+   "source_scope_status": "PASS",
+   "claim_traceability_status": "PASS",
+   "note": "Official-primary framework present; remaining single-source items disclosed in body as verify-before-transacting."
+  },
+  "AB-260907-V01": {
+   "source_url_count": 5,
+   "source_org_count_normalized": 5,
+   "t1_primary_count": 1,
+   "tier_breakdown": {
+    "T2": 2,
+    "T3": 2,
+    "T1": 1
+   },
+   "source_scope_status": "CONDITIONAL",
+   "claim_traceability_status": "CONDITIONAL",
+   "note": "Vehicles: OEM identity page present but no exact-trim OEM spec sheet -> numeric gate may pass while trim facts stay CROSS_CHECKED/SINGLE_SOURCE in body."
+  },
+  "AB-260907-V02": {
+   "source_url_count": 4,
+   "source_org_count_normalized": 4,
+   "t1_primary_count": 1,
+   "tier_breakdown": {
+    "T2": 1,
+    "T3": 2,
+    "T1": 1
+   },
+   "source_scope_status": "CONDITIONAL",
+   "claim_traceability_status": "CONDITIONAL",
+   "note": "Vehicles: OEM identity page present but no exact-trim OEM spec sheet -> numeric gate may pass while trim facts stay CROSS_CHECKED/SINGLE_SOURCE in body."
+  },
+  "AB-260907-V03": {
+   "source_url_count": 4,
+   "source_org_count_normalized": 3,
+   "t1_primary_count": 1,
+   "tier_breakdown": {
+    "T2": 2,
+    "T3": 1,
+    "T1": 1
+   },
+   "source_scope_status": "CONDITIONAL",
+   "claim_traceability_status": "CONDITIONAL",
+   "note": "Vehicles: OEM identity page present but no exact-trim OEM spec sheet -> numeric gate may pass while trim facts stay CROSS_CHECKED/SINGLE_SOURCE in body."
+  },
+  "AB-260907-V04": {
+   "source_url_count": 4,
+   "source_org_count_normalized": 4,
+   "t1_primary_count": 1,
+   "tier_breakdown": {
+    "T2": 1,
+    "T3": 2,
+    "T1": 1
+   },
+   "source_scope_status": "CONDITIONAL",
+   "claim_traceability_status": "CONDITIONAL",
+   "note": "Vehicles: OEM identity page present but no exact-trim OEM spec sheet -> numeric gate may pass while trim facts stay CROSS_CHECKED/SINGLE_SOURCE in body."
+  },
+  "AB-260907-V05": {
+   "source_url_count": 5,
+   "source_org_count_normalized": 4,
+   "t1_primary_count": 1,
+   "tier_breakdown": {
+    "T3": 4,
+    "T1": 1
+   },
+   "source_scope_status": "CONDITIONAL",
+   "claim_traceability_status": "CONDITIONAL",
+   "note": "Vehicles: OEM identity page present but no exact-trim OEM spec sheet -> numeric gate may pass while trim facts stay CROSS_CHECKED/SINGLE_SOURCE in body."
+  },
+  "AB-260907-V06": {
+   "source_url_count": 5,
+   "source_org_count_normalized": 2,
+   "t1_primary_count": 1,
+   "tier_breakdown": {
+    "T3": 4,
+    "T1": 1
+   },
+   "source_scope_status": "CONDITIONAL",
+   "claim_traceability_status": "CONDITIONAL",
+   "note": "Vehicles: OEM identity page present but no exact-trim OEM spec sheet -> numeric gate may pass while trim facts stay CROSS_CHECKED/SINGLE_SOURCE in body."
+  },
+  "AB-260907-V07": {
+   "source_url_count": 5,
+   "source_org_count_normalized": 5,
+   "t1_primary_count": 1,
+   "tier_breakdown": {
+    "T2": 2,
+    "T3": 2,
+    "T1": 1
+   },
+   "source_scope_status": "CONDITIONAL",
+   "claim_traceability_status": "CONDITIONAL",
+   "note": "Vehicles: OEM identity page present but no exact-trim OEM spec sheet -> numeric gate may pass while trim facts stay CROSS_CHECKED/SINGLE_SOURCE in body."
+  },
+  "AB-260907-V08": {
+   "source_url_count": 5,
+   "source_org_count_normalized": 3,
+   "t1_primary_count": 1,
+   "tier_breakdown": {
+    "T3": 3,
+    "T4": 1,
+    "T1": 1
+   },
+   "source_scope_status": "CONDITIONAL",
+   "claim_traceability_status": "CONDITIONAL",
+   "note": "Vehicles: OEM identity page present but no exact-trim OEM spec sheet -> numeric gate may pass while trim facts stay CROSS_CHECKED/SINGLE_SOURCE in body."
+  },
+  "AB-260907-V09": {
+   "source_url_count": 6,
+   "source_org_count_normalized": 6,
+   "t1_primary_count": 1,
+   "tier_breakdown": {
+    "T2": 1,
+    "T3": 4,
+    "T1": 1
+   },
+   "source_scope_status": "PASS",
+   "claim_traceability_status": "PASS",
+   "note": "Vehicles: OEM identity page present but no exact-trim OEM spec sheet -> numeric gate may pass while trim facts stay CROSS_CHECKED/SINGLE_SOURCE in body."
+  },
+  "AB-260907-V10": {
+   "source_url_count": 4,
+   "source_org_count_normalized": 3,
+   "t1_primary_count": 1,
+   "tier_breakdown": {
+    "T3": 2,
+    "T4": 1,
+    "T1": 1
+   },
+   "source_scope_status": "CONDITIONAL",
+   "claim_traceability_status": "CONDITIONAL",
+   "note": "Vehicles: OEM identity page present but no exact-trim OEM spec sheet -> numeric gate may pass while trim facts stay CROSS_CHECKED/SINGLE_SOURCE in body."
+  }
+ }
+}
