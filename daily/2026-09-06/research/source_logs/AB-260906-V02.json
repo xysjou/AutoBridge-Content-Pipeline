@@ -1,125 +1,132 @@
 {
-  "article_id": "AB-260906-V02",
-  "content_type": "VEHICLE_PAGE",
-  "checked_date": "2026-09-06",
-  "source_log_version": "SL-v1-20260906",
-  "sources": [
-    {
-      "source_title": "第四代博越L参数（4730×1910×1710、轴距2785；1.5T 133kW/290N·m；2.0T 160kW/325N·m；7DCT；92号）",
-      "organization": "搜狐汽车车型库",
-      "url": "https://db.auto.sohu.com/model_6881/config",
-      "domain": "db.auto.sohu.com",
-      "source_tier": "T2",
-      "source_type": "database",
-      "source_market": "CHINA",
-      "source_scope": "",
-      "facts_supported": [
-        "尺寸",
-        "动力",
-        "变速箱",
-        "燃油标号"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "CROSS_CHECKED",
-      "official_source": "NO"
-    },
-    {
-      "source_title": "2025款博越L尺寸/轴距/后备厢（4730/1910/1710，WB2785，后备厢650-1610L）",
-      "organization": "汽车之家·车家号",
-      "url": "https://chejiahao.m.autohome.com.cn/info/26201345?isfrom=pc",
-      "domain": "chejiahao.m.autohome.com.cn",
-      "source_tier": "T3",
-      "source_type": "database",
-      "source_market": "CHINA",
-      "source_scope": "",
-      "facts_supported": [
-        "尺寸",
-        "后备厢"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "SINGLE_SOURCE",
-      "official_source": "NO"
-    },
-    {
-      "source_title": "博越L 1.5T配置表（133kW/181Ps/290N·m，7DCT，92#）",
-      "organization": "车主之家",
-      "url": "https://m.16888.com/news/2026/0421/24893147.html",
-      "domain": "m.16888.com",
-      "source_tier": "T3",
-      "source_type": "database",
-      "source_market": "CHINA",
-      "source_scope": "",
-      "facts_supported": [
-        "1.5T动力",
-        "变速箱"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "SINGLE_SOURCE",
-      "official_source": "NO"
-    },
-    {
-      "source_title": "Geely New Boyue L Specification Table (OEM)",
-      "organization": "Geely Auto Global",
-      "parent_organization": "GEELY",
-      "url": "https://global.geely.com/-/media/project/web-portal/parallel-car/boyuel/geely-boyue-l-specification-table.pdf",
-      "domain": "global.geely.com",
-      "source_tier": "T1",
-      "source_type": "oem_official",
-      "source_market": "CN/EXPORT",
-      "source_scope": "OEM spec table; confirm market build",
-      "facts_supported": [
-        "identity"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "VERIFIED",
-      "official_source": "YES",
-      "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH"
-    },
-    {
-      "source_title": "Geely Starray Brochure (Qatar) — export-market reference",
-      "organization": "Geely Qatar",
-      "parent_organization": "GEELY",
-      "url": "https://geely.com.qa/wp-content/uploads/2024/01/Starray-Brochure.pdf",
-      "domain": "geely.com.qa",
-      "source_tier": "T1",
-      "source_type": "oem_official",
-      "source_market": "EXPORT",
-      "source_scope": "Starray is export nameplate; do not equate export numbers to China Boyue L",
-      "facts_supported": [
-        "identity"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "CROSS_CHECKED",
-      "official_source": "YES",
-      "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH"
-    },
-    {
-      "source_title": "道路机动车辆生产企业及产品公告（查询入口）",
-      "organization": "中华人民共和国工业和信息化部",
-      "parent_organization": "MIIT",
-      "url": "https://www.miit.gov.cn/datainfo/cpgg/",
-      "domain": "www.miit.gov.cn",
-      "source_tier": "T1",
-      "source_type": "homologation",
-      "source_market": "CN",
-      "source_scope": "verify homologated China variant",
-      "facts_supported": [
-        "identity"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "VERIFIED",
-      "official_source": "YES",
-      "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH"
-    }
-  ],
-  "source_integrity_note": "卡车之家内容经今日头条镜像者按真实domain标T3、未冒称360che canonical；T4(百科/分类信息)仅作线索并显式UNVERIFIED；OEM/政府/年报为T1。",
-  "source_url_count": 6,
-  "source_org_count_normalized": 5,
-  "controlled_research_patch": {
-    "applied_by": "Writing AI",
-    "date": "2026-09-06",
-    "added_count": 3,
-    "final_url_count": 6,
-    "final_org_count_normalized": 5
+ "article_id": "AB-260906-V02",
+ "content_type": "VEHICLE_PAGE",
+ "checked_date": "2026-09-06",
+ "source_log_version": "SL-v1-20260906",
+ "sources": [
+  {
+   "source_title": "第四代博越L参数（4730×1910×1710、轴距2785；1.5T 133kW/290N·m；2.0T 160kW/325N·m；7DCT；92号）",
+   "organization": "搜狐汽车车型库",
+   "url": "https://db.auto.sohu.com/model_6881/config",
+   "domain": "db.auto.sohu.com",
+   "source_tier": "T2",
+   "source_type": "database",
+   "source_market": "CHINA",
+   "source_scope": "",
+   "facts_supported": [
+    "尺寸",
+    "动力",
+    "变速箱",
+    "燃油标号"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "CROSS_CHECKED",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "2025款博越L尺寸/轴距/后备厢（4730/1910/1710，WB2785，后备厢650-1610L）",
+   "organization": "汽车之家·车家号",
+   "url": "https://chejiahao.m.autohome.com.cn/info/26201345?isfrom=pc",
+   "domain": "chejiahao.m.autohome.com.cn",
+   "source_tier": "T3",
+   "source_type": "database",
+   "source_market": "CHINA",
+   "source_scope": "",
+   "facts_supported": [
+    "尺寸",
+    "后备厢"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "SINGLE_SOURCE",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "博越L 1.5T配置表（133kW/181Ps/290N·m，7DCT，92#）",
+   "organization": "车主之家",
+   "url": "https://m.16888.com/news/2026/0421/24893147.html",
+   "domain": "m.16888.com",
+   "source_tier": "T3",
+   "source_type": "database",
+   "source_market": "CHINA",
+   "source_scope": "",
+   "facts_supported": [
+    "1.5T动力",
+    "变速箱"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "SINGLE_SOURCE",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "Geely New Boyue L Specification Table (OEM)",
+   "organization": "Geely Auto Global",
+   "parent_organization": "GEELY",
+   "url": "https://global.geely.com/-/media/project/web-portal/parallel-car/boyuel/geely-boyue-l-specification-table.pdf",
+   "domain": "global.geely.com",
+   "source_tier": "T1",
+   "source_type": "oem_official",
+   "source_market": "CN/EXPORT",
+   "source_scope": "OEM spec table; confirm market build",
+   "facts_supported": [
+    "identity"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": true,
+   "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH",
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "Geely Starray Brochure (Qatar) — export-market reference",
+   "organization": "Geely Qatar",
+   "parent_organization": "GEELY",
+   "url": "https://geely.com.qa/wp-content/uploads/2024/01/Starray-Brochure.pdf",
+   "domain": "geely.com.qa",
+   "source_tier": "T1",
+   "source_type": "oem_official",
+   "source_market": "EXPORT",
+   "source_scope": "Starray is export nameplate; do not equate export numbers to China Boyue L",
+   "facts_supported": [
+    "identity"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "CROSS_CHECKED",
+   "official_source": true,
+   "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH",
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "道路机动车辆生产企业及产品公告（查询入口）",
+   "organization": "中华人民共和国工业和信息化部",
+   "parent_organization": "MIIT",
+   "url": "https://www.miit.gov.cn/datainfo/cpgg/",
+   "domain": "www.miit.gov.cn",
+   "source_tier": "T1",
+   "source_type": "homologation",
+   "source_market": "CN",
+   "source_scope": "verify homologated China variant",
+   "facts_supported": [
+    "identity"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": true,
+   "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH",
+   "scope_match": "MATCHED"
   }
+ ],
+ "source_integrity_note": "卡车之家内容经今日头条镜像者按真实domain标T3、未冒称360che canonical；T4(百科/分类信息)仅作线索并显式UNVERIFIED；OEM/政府/年报为T1。",
+ "source_url_count": 6,
+ "source_org_count_normalized": 5,
+ "controlled_research_patch": {
+  "applied_by": "Writing AI",
+  "date": "2026-09-06",
+  "added_count": 3,
+  "final_url_count": 6,
+  "final_org_count_normalized": 5
+ },
+ "t1_only_recomputed_on": "2026-09-07"
 }

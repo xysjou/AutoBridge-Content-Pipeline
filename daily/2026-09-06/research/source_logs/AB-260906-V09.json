@@ -1,123 +1,130 @@
 {
-  "article_id": "AB-260906-V09",
-  "content_type": "VEHICLE_PAGE",
-  "checked_date": "2026-09-06",
-  "source_log_version": "SL-v1-20260906",
-  "sources": [
-    {
-      "source_title": "豪沃TX 8x4渣土自卸（潍柴WP10H400E62 400Ps、HW19712L变速箱、MCX16ZG后桥）",
-      "organization": "卡车之家官方号（今日头条镜像）",
-      "url": "http://m.toutiao.com/group/7587065410998624778/",
-      "domain": "m.toutiao.com",
-      "source_tier": "T3",
-      "source_type": "database",
-      "source_market": "CHINA",
-      "source_scope": "",
-      "facts_supported": [
-        "发动机",
-        "变速箱",
-        "后桥",
-        "8x4"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "SINGLE_SOURCE",
-      "official_source": "NO"
-    },
-    {
-      "source_title": "重汽2025年半年报（豪沃HOWO品牌与整车产销官方披露）",
-      "organization": "中国重汽(深交所披露)",
-      "url": "https://www.szse.cn/api/disc/announcement/ann?rand=0.14870001100230635&announcementId=3b60f234141e43788f88787803692606&channelCode=fixed_disc",
-      "domain": "www.szse.cn",
-      "source_tier": "T1",
-      "source_type": "listed_company_report",
-      "source_market": "CHINA",
-      "source_scope": "",
-      "facts_supported": [
-        "品牌/产销官方披露"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "VERIFIED",
-      "official_source": "YES"
-    },
-    {
-      "source_title": "中国重汽集团（豪沃产品系列官方身份）",
-      "organization": "经济日报(中国重汽集团PDF)",
-      "url": "http://img.ce.cn/cysc/newmain/yc/jsxw/202403/25/P020240325374500074749.pdf",
-      "domain": "img.ce.cn",
-      "source_tier": "T2",
-      "source_type": "database",
-      "source_market": "CHINA",
-      "source_scope": "",
-      "facts_supported": [
-        "产品系列背景"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "CROSS_CHECKED",
-      "official_source": "NO"
-    },
-    {
-      "source_title": "SINOTRUK / HOWO global official",
-      "organization": "China National Heavy Duty Truck Group (Sinotruk)",
-      "parent_organization": "SINOTRUK",
-      "url": "https://www.sinotrukchina.com/",
-      "domain": "www.sinotrukchina.com",
-      "source_tier": "T1",
-      "source_type": "oem_official",
-      "source_market": "EXPORT",
-      "source_scope": "OEM corporate; HOWO brand identity; export builds market-scoped",
-      "facts_supported": [
-        "brand_official"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "VERIFIED",
-      "official_source": "YES",
-      "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH"
-    },
-    {
-      "source_title": "道路机动车辆生产企业及产品公告（查询入口）",
-      "organization": "中华人民共和国工业和信息化部",
-      "parent_organization": "MIIT",
-      "url": "https://www.miit.gov.cn/datainfo/cpgg/",
-      "domain": "www.miit.gov.cn",
-      "source_tier": "T1",
-      "source_type": "homologation",
-      "source_market": "CN",
-      "source_scope": "verify 8x4/6x4 chassis, engine and GVW by announcement",
-      "facts_supported": [
-        "identity"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "VERIFIED",
-      "official_source": "YES",
-      "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH"
-    },
-    {
-      "source_title": "卡车之家 HOWO 车型库（独立商用车数据库）",
-      "organization": "卡车之家",
-      "parent_organization": "360CHE",
-      "url": "http://www.360che.com/",
-      "domain": "www.360che.com",
-      "source_tier": "T2",
-      "source_type": "independent_db",
-      "source_market": "CN",
-      "source_scope": "independent cross-check of sample configuration",
-      "facts_supported": [
-        "identity"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "CROSS_CHECKED",
-      "official_source": "NO",
-      "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH"
-    }
-  ],
-  "source_integrity_note": "卡车之家内容经今日头条镜像者按真实domain标T3、未冒称360che canonical；T4(百科/分类信息)仅作线索并显式UNVERIFIED；OEM/政府/年报为T1。",
-  "source_url_count": 6,
-  "source_org_count_normalized": 6,
-  "controlled_research_patch": {
-    "applied_by": "Writing AI",
-    "date": "2026-09-06",
-    "added_count": 3,
-    "final_url_count": 6,
-    "final_org_count_normalized": 6
+ "article_id": "AB-260906-V09",
+ "content_type": "VEHICLE_PAGE",
+ "checked_date": "2026-09-06",
+ "source_log_version": "SL-v1-20260906",
+ "sources": [
+  {
+   "source_title": "豪沃TX 8x4渣土自卸（潍柴WP10H400E62 400Ps、HW19712L变速箱、MCX16ZG后桥）",
+   "organization": "卡车之家官方号（今日头条镜像）",
+   "url": "http://m.toutiao.com/group/7587065410998624778/",
+   "domain": "m.toutiao.com",
+   "source_tier": "T3",
+   "source_type": "database",
+   "source_market": "CHINA",
+   "source_scope": "",
+   "facts_supported": [
+    "发动机",
+    "变速箱",
+    "后桥",
+    "8x4"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "SINGLE_SOURCE",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "重汽2025年半年报（豪沃HOWO品牌与整车产销官方披露）",
+   "organization": "中国重汽(深交所披露)",
+   "url": "https://www.szse.cn/api/disc/announcement/ann?rand=0.14870001100230635&announcementId=3b60f234141e43788f88787803692606&channelCode=fixed_disc",
+   "domain": "www.szse.cn",
+   "source_tier": "T1",
+   "source_type": "listed_company_report",
+   "source_market": "CHINA",
+   "source_scope": "",
+   "facts_supported": [
+    "品牌/产销官方披露"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": true,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "中国重汽集团（豪沃产品系列官方身份）",
+   "organization": "经济日报(中国重汽集团PDF)",
+   "url": "http://img.ce.cn/cysc/newmain/yc/jsxw/202403/25/P020240325374500074749.pdf",
+   "domain": "img.ce.cn",
+   "source_tier": "T2",
+   "source_type": "database",
+   "source_market": "CHINA",
+   "source_scope": "",
+   "facts_supported": [
+    "产品系列背景"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "CROSS_CHECKED",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "SINOTRUK / HOWO global official",
+   "organization": "China National Heavy Duty Truck Group (Sinotruk)",
+   "parent_organization": "SINOTRUK",
+   "url": "https://www.sinotrukchina.com/",
+   "domain": "www.sinotrukchina.com",
+   "source_tier": "T1",
+   "source_type": "oem_official",
+   "source_market": "EXPORT",
+   "source_scope": "OEM corporate; HOWO brand identity; export builds market-scoped",
+   "facts_supported": [
+    "brand_official"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": true,
+   "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH",
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "道路机动车辆生产企业及产品公告（查询入口）",
+   "organization": "中华人民共和国工业和信息化部",
+   "parent_organization": "MIIT",
+   "url": "https://www.miit.gov.cn/datainfo/cpgg/",
+   "domain": "www.miit.gov.cn",
+   "source_tier": "T1",
+   "source_type": "homologation",
+   "source_market": "CN",
+   "source_scope": "verify 8x4/6x4 chassis, engine and GVW by announcement",
+   "facts_supported": [
+    "identity"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": true,
+   "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH",
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "卡车之家 HOWO 车型库（独立商用车数据库）",
+   "organization": "卡车之家",
+   "parent_organization": "360CHE",
+   "url": "http://www.360che.com/",
+   "domain": "www.360che.com",
+   "source_tier": "T2",
+   "source_type": "independent_db",
+   "source_market": "CN",
+   "source_scope": "independent cross-check of sample configuration",
+   "facts_supported": [
+    "identity"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "CROSS_CHECKED",
+   "official_source": false,
+   "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH",
+   "scope_match": "MATCHED"
   }
+ ],
+ "source_integrity_note": "卡车之家内容经今日头条镜像者按真实domain标T3、未冒称360che canonical；T4(百科/分类信息)仅作线索并显式UNVERIFIED；OEM/政府/年报为T1。",
+ "source_url_count": 6,
+ "source_org_count_normalized": 6,
+ "controlled_research_patch": {
+  "applied_by": "Writing AI",
+  "date": "2026-09-06",
+  "added_count": 3,
+  "final_url_count": 6,
+  "final_org_count_normalized": 6
+ },
+ "t1_only_recomputed_on": "2026-09-07"
 }

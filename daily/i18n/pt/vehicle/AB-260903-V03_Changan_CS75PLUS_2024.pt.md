@@ -22,7 +22,7 @@ CS75 PLUS é a família de SUV de tamanho médio da Changan. Esta página cobre 
 | Conduza | tracção à frente | tracção à frente |
 | Combustível | Gasolina (turbo); confirmar a qualidade e o estado de destino do combustível/emissão | Gasolina (turbo) |
 
-Para um SUV ICE a decisão de compra é o código do motor, faixa de torque, caixa de velocidades e fase de emissão. Ambos os motores da China emparelham com um Aisin 8AT; não assumir uma variante de duplo embreagem ou de tracção total sem a folha de guarnição. The 4th-generation car carries a revised Blue Whale 1.5T at about 141 kW — a different tune that must not be written onto a 3rd-gen VIN.
+Para um ICE SUV a decisão de compra é o código do motor, faixa de torque, caixa de velocidades e fase de emissão. Ambos os motores da China emparelham-se com um Aisin 8AT; não assumem uma variante dupla-clutch ou all-wheel-drive sem a folha de corte. O carro 4th-generation carrega uma baleia azul 1.5T revista em cerca de 141 kW — uma música diferente que não deve ser escrita em um 3rd-gen VIN.
 
 ## Dimensões e assentos
 - Comprimento largura altura: ** 4710 1865 1710 mm **
@@ -50,7 +50,7 @@ Nenhum preço de exportação estático é publicado. O valor inicial aproximada
 
 ## Perguntas Mais Frequentes
 **Qual é a diferença entre os 1.5T e 2.0T CS75 PLUS?** O 1.5T produz 138 kW/300 N·m; o 2.0T produz 171 kW/390 N·m; ambos usam um Aisin 8AT.
-**Is the 2024 CS75 PLUS the same as the 4th-generation car?** No — the 4th generation launched in China from September 2024 with a larger body  and  A revista 1.5T; Esta página cobre o 3rd-gen Champion.
+O 2024 CS75 PLUS é o mesmo que o 4th-generation carro? Não – a geração 4th lançada na China a partir de setembro 2024 com um corpo maior e um 1.5T revisto; esta página cobre o 3rd-gen Champion.
 ** O CS75 PLUS tem tração integral?** A linha China 3rd-gen referenciada aqui é tração dianteira; confirme qualquer reclamação AWD contra a guarnição específica.
 ** O pacote L2 é idêntico em cada série?** Trate-o como específico de grau; verifique o conteúdo da câmara ACC/lane/ 540 ° no VIN exacto.
 

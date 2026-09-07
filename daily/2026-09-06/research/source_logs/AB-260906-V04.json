@@ -1,145 +1,153 @@
 {
-  "article_id": "AB-260906-V04",
-  "content_type": "VEHICLE_PAGE",
-  "checked_date": "2026-09-06",
-  "source_log_version": "SL-v1-20260906",
-  "sources": [
-    {
-      "source_title": "银河E8参数（电池62/67.8/76kWh、能量密度、整备质量、续航版本）",
-      "organization": "懂车帝车型参数页",
-      "url": "https://m.dongchedi.com/auto/params-carIds-xhMjA1NQ",
-      "domain": "m.dongchedi.com",
-      "source_tier": "T2",
-      "source_type": "database",
-      "source_market": "CHINA",
-      "source_scope": "",
-      "facts_supported": [
-        "电池容量",
-        "整备质量",
-        "续航"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "CROSS_CHECKED",
-      "official_source": "NO"
-    },
-    {
-      "source_title": "银河E8多trim对比（5010×1920×1465、WB2925；CLTC 575/610/620/700；后驱200/250kW、四驱475kW）",
-      "organization": "懂车帝车型对比",
-      "url": "https://www.dongchedi.com/auto/params-carIds-xhNDg3NDEtNDg3NDItNDg3NDM",
-      "domain": "www.dongchedi.com",
-      "source_tier": "T2",
-      "source_type": "database",
-      "source_market": "CHINA",
-      "source_scope": "",
-      "facts_supported": [
-        "尺寸",
-        "续航",
-        "电机功率",
-        "驱动"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "CROSS_CHECKED",
-      "official_source": "NO"
-    },
-    {
-      "source_title": "银河E8 610km版（250kW/373N·m、5.49s、宁德时代67.8kWh、800V）",
-      "organization": "汽车之家·车家号",
-      "url": "https://chejiahao.m.autohome.com.cn/info/24079058?isfrom=pc",
-      "domain": "chejiahao.m.autohome.com.cn",
-      "source_tier": "T3",
-      "source_type": "database",
-      "source_market": "CHINA",
-      "source_scope": "",
-      "facts_supported": [
-        "610版电机",
-        "电池供应商",
-        "平台"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "SINGLE_SOURCE",
-      "official_source": "NO"
-    },
-    {
-      "source_title": "Geely Yinhe/Galaxy E8 fleet page (OEM)",
-      "organization": "Geely Auto",
-      "parent_organization": "GEELY",
-      "url": "https://www.geely.com/en/corporate-fleet-sales/galaxy-e8",
-      "domain": "www.geely.com",
-      "source_tier": "T1",
-      "source_type": "oem_official",
-      "source_market": "CN/EXPORT",
-      "source_scope": "OEM identity: SEA-based flagship electric sedan",
-      "facts_supported": [
-        "identity"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "VERIFIED",
-      "official_source": "YES",
-      "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH"
-    },
-    {
-      "source_title": "Geely starts delivery of Yinhe E8 (Jan 2024 OEM release)",
-      "organization": "Geely Auto",
-      "parent_organization": "GEELY",
-      "url": "https://www.geely.com/en/news/2023/geely-auto-starts-delivery-yinhe-e8-sedan",
-      "domain": "www.geely.com",
-      "source_tier": "T1",
-      "source_type": "oem_official",
-      "source_market": "CN",
-      "source_scope": "launch timing and SEA architecture; trim specs still per SKU",
-      "facts_supported": [
-        "identity"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "VERIFIED",
-      "official_source": "YES",
-      "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH"
-    },
-    {
-      "source_title": "道路机动车辆生产企业及产品公告（查询入口）",
-      "organization": "中华人民共和国工业和信息化部",
-      "parent_organization": "MIIT",
-      "url": "https://www.miit.gov.cn/datainfo/cpgg/",
-      "domain": "www.miit.gov.cn",
-      "source_tier": "T1",
-      "source_type": "homologation",
-      "source_market": "CN",
-      "source_scope": "verify battery/drive variant by announcement",
-      "facts_supported": [
-        "motor_power"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "VERIFIED",
-      "official_source": "YES",
-      "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH"
-    },
-    {
-      "source_title": "Geely Galaxy E8 independent spec overview",
-      "organization": "LynkCars",
-      "parent_organization": "LYNKCARS",
-      "url": "https://www.lynkcars.com/geely-galaxy-e8/",
-      "domain": "www.lynkcars.com",
-      "source_tier": "T3",
-      "source_type": "independent_db",
-      "source_market": "CN",
-      "source_scope": "independent database cross-check; confirm against OEM",
-      "facts_supported": [
-        "motor_power"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "CROSS_CHECKED",
-      "official_source": "NO",
-      "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH"
-    }
-  ],
-  "source_integrity_note": "卡车之家内容经今日头条镜像者按真实domain标T3、未冒称360che canonical；T4(百科/分类信息)仅作线索并显式UNVERIFIED；OEM/政府/年报为T1。",
-  "source_url_count": 7,
-  "source_org_count_normalized": 6,
-  "controlled_research_patch": {
-    "applied_by": "Writing AI",
-    "date": "2026-09-06",
-    "added_count": 4,
-    "final_url_count": 7,
-    "final_org_count_normalized": 6
+ "article_id": "AB-260906-V04",
+ "content_type": "VEHICLE_PAGE",
+ "checked_date": "2026-09-06",
+ "source_log_version": "SL-v1-20260906",
+ "sources": [
+  {
+   "source_title": "银河E8参数（电池62/67.8/76kWh、能量密度、整备质量、续航版本）",
+   "organization": "懂车帝车型参数页",
+   "url": "https://m.dongchedi.com/auto/params-carIds-xhMjA1NQ",
+   "domain": "m.dongchedi.com",
+   "source_tier": "T2",
+   "source_type": "database",
+   "source_market": "CHINA",
+   "source_scope": "",
+   "facts_supported": [
+    "电池容量",
+    "整备质量",
+    "续航"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "CROSS_CHECKED",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "银河E8多trim对比（5010×1920×1465、WB2925；CLTC 575/610/620/700；后驱200/250kW、四驱475kW）",
+   "organization": "懂车帝车型对比",
+   "url": "https://www.dongchedi.com/auto/params-carIds-xhNDg3NDEtNDg3NDItNDg3NDM",
+   "domain": "www.dongchedi.com",
+   "source_tier": "T2",
+   "source_type": "database",
+   "source_market": "CHINA",
+   "source_scope": "",
+   "facts_supported": [
+    "尺寸",
+    "续航",
+    "电机功率",
+    "驱动"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "CROSS_CHECKED",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "银河E8 610km版（250kW/373N·m、5.49s、宁德时代67.8kWh、800V）",
+   "organization": "汽车之家·车家号",
+   "url": "https://chejiahao.m.autohome.com.cn/info/24079058?isfrom=pc",
+   "domain": "chejiahao.m.autohome.com.cn",
+   "source_tier": "T3",
+   "source_type": "database",
+   "source_market": "CHINA",
+   "source_scope": "",
+   "facts_supported": [
+    "610版电机",
+    "电池供应商",
+    "平台"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "SINGLE_SOURCE",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "Geely Yinhe/Galaxy E8 fleet page (OEM)",
+   "organization": "Geely Auto",
+   "parent_organization": "GEELY",
+   "url": "https://www.geely.com/en/corporate-fleet-sales/galaxy-e8",
+   "domain": "www.geely.com",
+   "source_tier": "T1",
+   "source_type": "oem_official",
+   "source_market": "CN/EXPORT",
+   "source_scope": "OEM identity: SEA-based flagship electric sedan",
+   "facts_supported": [
+    "identity"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": true,
+   "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH",
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "Geely starts delivery of Yinhe E8 (Jan 2024 OEM release)",
+   "organization": "Geely Auto",
+   "parent_organization": "GEELY",
+   "url": "https://www.geely.com/en/news/2023/geely-auto-starts-delivery-yinhe-e8-sedan",
+   "domain": "www.geely.com",
+   "source_tier": "T1",
+   "source_type": "oem_official",
+   "source_market": "CN",
+   "source_scope": "launch timing and SEA architecture; trim specs still per SKU",
+   "facts_supported": [
+    "identity"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": true,
+   "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH",
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "道路机动车辆生产企业及产品公告（查询入口）",
+   "organization": "中华人民共和国工业和信息化部",
+   "parent_organization": "MIIT",
+   "url": "https://www.miit.gov.cn/datainfo/cpgg/",
+   "domain": "www.miit.gov.cn",
+   "source_tier": "T1",
+   "source_type": "homologation",
+   "source_market": "CN",
+   "source_scope": "verify battery/drive variant by announcement",
+   "facts_supported": [
+    "motor_power"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": true,
+   "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH",
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "Geely Galaxy E8 independent spec overview",
+   "organization": "LynkCars",
+   "parent_organization": "LYNKCARS",
+   "url": "https://www.lynkcars.com/geely-galaxy-e8/",
+   "domain": "www.lynkcars.com",
+   "source_tier": "T3",
+   "source_type": "independent_db",
+   "source_market": "CN",
+   "source_scope": "independent database cross-check; confirm against OEM",
+   "facts_supported": [
+    "motor_power"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "CROSS_CHECKED",
+   "official_source": false,
+   "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH",
+   "scope_match": "MATCHED"
   }
+ ],
+ "source_integrity_note": "卡车之家内容经今日头条镜像者按真实domain标T3、未冒称360che canonical；T4(百科/分类信息)仅作线索并显式UNVERIFIED；OEM/政府/年报为T1。",
+ "source_url_count": 7,
+ "source_org_count_normalized": 6,
+ "controlled_research_patch": {
+  "applied_by": "Writing AI",
+  "date": "2026-09-06",
+  "added_count": 4,
+  "final_url_count": 7,
+  "final_org_count_normalized": 6
+ },
+ "t1_only_recomputed_on": "2026-09-07"
 }

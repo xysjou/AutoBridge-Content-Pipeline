@@ -12,7 +12,7 @@
 - **Schema Scope**: Điều + xe cộ (không có sản phẩm/ sản phẩm/ văn bản/ Xem lại)
 
 ## Người mua bối cảnh: một xe tải phân phối đô thị xanh dương
-**JAC Junling V6 (骏铃 V6,  2024/2025)** is a Chinese-market diesel light cargo truck in the sub-4.5 t blue-plate class used for city/regional distribution. Người mua xe tải nên neo vào xe tải, nạp đạn và hộp hàng hóa trước khi cắt đuôi xe. Thị trường tham khảo là **Trung Quốc**; Nhiều người cần xác nhận sự đồng nhất.
+** JAC Junling V6 (骏铃 V6, 2024/2025)** là một thị trường Trung Quốc Xe tải chở hàng nhẹ dầu diesel trong tiểu đề 4.5 t lớp bảng màu xanh da trời dùng cho Phân phối thành phố/ địa phương. Người mua nên thả neo vào GVW, Name Trước khi đi xe taxi. Thị trường tham khảo là **Trung Quốc**; Nhiều người cần xác nhận sự đồng nhất.
 
 ## Xác định khả năng và trình điều khiển
 - **Engine**: 云内 D25TCIF1 2.5L 柴油 150马力; - 400 N·m mô-men xoắn.
@@ -44,7 +44,7 @@ Dữ liệu động cơ và hộp đựng hàng đến từ một nguồn thông
 5. Yêu cầu một trích dẫn xuất khẩu hiện thời; chưa xuất bản.
 
 ## FAQ
-♪ Những con số tải tải có phải là cuối cùng không? ♪ Chúng là nguồn đơn ở đây; xác nhận thông qua sự đồng nhất trước khi dựa vào chúng.
+Những con số hàng hóa có phải là cuối cùng không? Chúng là nguồn đơn ở đây; xác nhận thông qua sự đồng nhất trước khi dựa vào chúng.
 Có phiên bản RHD nào không? Không được xác định trong những nguồn này.
 Lớp học bảng màu xanh là gì? Xe tải thành phố dưới 4.5 t ở Trung Quốc; Điểm đến khác nhau.
 **Engine?** Yunnei D25TCIF1 2.5 L diesel, 150 hp 400 N·m trên đường dây bị bắt.

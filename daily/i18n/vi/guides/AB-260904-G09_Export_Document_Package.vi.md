@@ -83,7 +83,7 @@ Tập tin thêm nào cần đăng ký thị trường xuất khẩu? Giấy ch�
 | Bộ tư vấn MIT GB21085 - XXXXX (không hiện thời) | MIT | CN | https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20263/0bc57c477169401e840a5a60c06b5d83.pdf | 2026-09-04 | DRAFT (thư mục chính) | Chỉ nháp văn bản đa giai đoạn (bị chặn từ việc in) |
 | Quy tắc đăng ký xe hơi (tập tin xuất khẩu) | Thành phố Xiantoo gov | CN | https://www.xiantao.gov.cn/ztzl/zcwj1/zc1/202510/t20251029_5800319.shtml | 2026-09-04 | VEIID (TIẾNG) | Kiểm tra chứng nhận và chứng nhận bằng lái |
 | Danh sách tập tin xuất ra toàn gói | NetEase | CN | https://www.163.com/dy/article/KJSNGPO20556820S.html | 2026-09-04 | ĐÃ_ ĐÃ | Bộ chuyển giao, khuyến cáo NV/ Chuyển đổi |
-*Draft: quy tắc giả định đa giai đoạn và thay thế bắt buộc là DRAFT/FUT và loại bỏ các lời khai yêu cầu hiện tại; các mục tự động chuyển hóa là những lời khuyên biên tập. ♪
+*Draft: quy tắc giả lập đa giai đoạn và thay thế bắt buộc là DRAFT/FUT và loại bỏ các lời khai yêu cầu hiện tại; các vật dụng chuyển đổi là lời khuyên biên tập. *
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team_· phương pháp trên mỗi [chính sách] (/tách-chính trị/)

@@ -24,7 +24,7 @@ Der Fulwin A8 (chinesischer Fengyun A8) ist Cherys kompakte Plug-in-Hybrid-Limou
 
 ## Die beiden PHEV-Linien, separat gelesen
 
-Der Fulwin A8 wird in zwei verschiedenen Batterie-/Range-Linien verkauft, die sich einen Körper, aber keine Spezifikation teilen. The better-evidenced 145 line and the single-source 70 line are described separately below so the two are never quoted as one car.
+Der Fulwin A8 wird in zwei verschiedenen Batterie-/Range-Linien verkauft, die sich einen Körper, aber keine Spezifikation teilen. The better-evidenced 145 Line und Single Source 70 Die Linie wird unten separat beschrieben, so dass die beiden nie als ein Auto zitiert werden.
 
 ### 145 km-Linie (besser belegt)
 

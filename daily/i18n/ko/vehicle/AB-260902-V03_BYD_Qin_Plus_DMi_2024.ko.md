@@ -32,7 +32,7 @@ A PHEV carries **two** range numbers that buyers conflate: ** 전기 전용 범�
 매개변수 위치 목록 55와 120 줄 그러나 untangle 주기 및 형태에 수입관을 남겨두십시오. 권장 방법은 ** VIN-level note 바인딩 모터 출력, 배터리 kWh, 전기 범위 사이클 및 충전 기능**, DC 고속 충전이 absent (작은 배터리 자동차의 일반적인 주문 오류), 그리고 전기 결합 범위에 별도로 조정하는 PHEV는 EV 범위가 있다면 결합 된 번호에 광고되지 않습니다.
 ## 지불의 앞에
 - ** 55 또는 120 **,  with matching motor (132/145 kW)  and  battery (8.32/18.32 kWh) on the VIN build sheet.
-- 전기 레인지 ** 사이클** (NEDC vs WLTC)  and  obtain destination-certified PHEV range/CO₂ where tax or incentives depend on it.
+- 전기 레인지 ** 사이클** (NEDC vs WLTC)  and  obtain destination-certified PHEV range/CO₂ 세금 또는 인센티브는 그것에 달려 있습니다.
 - 연결관과 AC/DC 기능 **by 급료**를 확인하십시오; GB/T 경기 목적지 소켓을 가정하지 마십시오.
 - 중국 외곽, 인포테인먼트 언어/OTA, 엔진 ** 및 ** 배터리 ** 및 ** 모터를 커버하는 보증 확인.
 - 대상 PHEV 분류를 검증합니다. - 하이브리드 인센티브 대화는 순수 EV와 다릅니다.

@@ -85,7 +85,7 @@ Cái gì là hàng hóa? Không được phát biểu ở đây vì nó không c
 | 太平洋汽车 乘用版厢式运输车 | 太平洋汽车网 | CN | https://car.pcauto.com.cn/360/choose.jsp?mid=130087 | 2026-09-02 | SINGLE_SOURCE | 尺寸 5416×1947×1886、2.0T 140kW/360N·m、五年或20万公里质保 |
 | 网上车市 炮乘用皮卡参数 | 网上车市 | CN | https://a.cheshi.com/bseries_4361/param.html | 2026-09-02 | SINGLE_SOURCE | 乘用版 2.4T 柴油指导价 13.58/14.88 万 |
 
-*Briendence: các kết quả/việc truyền hiện tại được phát hành trên các trang web GWM; 2024 giá trị hành khách Trung Quốc được lập trình trên cơ sở dữ liệu và cố tình tách biệt để tránh trộn mô hình năm. Lương nặng tốc độ cao vẫn còn cho tờ giấy chính thức và không được ước tính. ♪
+* Xin lưu ý: những kết quả xuất hiện hiện nay được liệt kê trên GWM trang sách chính thức; 2024 giá trị hành khách Trung Quốc được ghi vào cơ sở dữ liệu và cố tình tách biệt để tránh pha trộn mô hình năm tháng. Chi phí nạp/ GVW/wing còn lại cho tờ giấy chính thức và không được ước tính. *
 ## Xem lại tập tin
 - **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
 - **Last xem lại**: 2026-09-05

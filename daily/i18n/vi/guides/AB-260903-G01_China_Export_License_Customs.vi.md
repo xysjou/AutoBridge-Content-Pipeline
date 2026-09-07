@@ -51,7 +51,7 @@ MIIT Order No. 50 nhà sản xuất đường-motor-vehic  and  products into **
 
 ## Những câu hỏi thường xuyên
 Có phải mọi người xuất khẩu xe đều cần giấy phép tương tự không? Không — Xe chở khách BOV, dùng xe hơi và xe cộ thông thường nằm dưới những dấu vết khác nhau; xác nhận chế độ và mã nguồn của sản phẩm.
-**What is the 180-day used-car rule?** From 1 Jan 2026, a vehicle registered ≤180 days before the export-licence application needs the OEM's after-sales maintenance confirmation or the licence will not be issued (per the four-ministry notice; Hãy sửa đổi lại trước khi dùng.
+**Cái gì... 180-day used-car rule?** From 1 Jan 2026, một chiếc xe đăng ký ≤180 Ngày trước khi ứng dụng xuất khẩu cần OEM'Xác nhận bảo trì sau thương hiệu hoặc không cấp giấy phép (trên thông báo bốn hồi; Hãy sửa đổi lại trước khi dùng.
 ** Tài liệu nào tạo nên chuỗi xuất khẩu? Giấy phép, giấy thông hành, giấy tờ hải quan, hóa đơn thương mại, danh sách đóng gói, giấy chứng nhận nguồn gốc, báo cáo kiểm tra nơi cần thiết, cộng với UN38.3/MSDS cho xe điện.
 **Tại sao việc nhà sản xuất lại quan trọng với một nhà buôn? MIT Thứ tự 50 chia xe thành sáu loại; sản phẩm phải nằm trong phạm vi được thừa nhận là sạch sẽ.
 Mã của hệ thống mật mã là từ đâu ra? Xác nhận chính xác mã và điều kiện điều chỉnh đối với lịch thuế hiện tại và thông báo MOFCOM mới nhất - đừng mang theo mã cũ.
@@ -89,7 +89,7 @@ Mã của hệ thống mật mã là từ đâu ra? Xác nhận chính xác mã 
 | Thông báo về việc tăng cường sự quản lý xuất thẻ dùng | Thư viện chính sách của Hội đồng tiểu bang (bốn công ti) | CN (bên ngoài cửa xuất) | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | VEII | Chế độ bằng lái xe; 180-day quy tắc từ 2026-01-01 |
 | Bộ quản lý xuất khẩu xe hơi hành khách BEV | Quốc gia mỗi ngày Toutao | CN (bên ngoài cửa xuất) | http://m.toutiao.com/group/7554336546682323496/ | 2026-09-03 | T_ TIẾNG TÂM | Theo dõi chứng nhận, tham chiếu HS |
 | MIIT Order No. 50 — Sản xuất & sản xuất | Bộ công nghệ và kỹ thuật | CN (bên ngoài cửa xuất) | https://www.miit.gov.cn/zcfg/jdcjxl/art/2018/art_72a4ad7ff2304a8c83199eac43f276fe.html | 2026-09-03 | VEII | Sáu loại nhập học; tài liệu-chain cơ bản |
-*Scope ghi chú: Các nguồn tin chính thức ở đây chỉ bao gồm bên xuất khẩu ở Trung Quốc. Các mã nguồn mở, chi tiết hoạt động hệ thống và bất kỳ bản sửa đổi hàng năm nào phải được xác nhận chống lại thông báo thuế và MOFCOM hiện tại; các quy tắc bên đích đã ra khỏi phạm vi. ♪
+*Scope lưu ý: Các nguồn tin chính thức ở đây chỉ bao gồm phía xuất khẩu ở Trung Quốc. Chính xác HS mã, chi tiết hoạt động hệ thống và bất kỳ bản chỉnh sửa hàng năm nào phải được xác nhận chống lại thông báo thuế hiện tại và MOFCOM; luật lệ ở phía đích nằm ngoài phạm vi. *
 
 | 商务部 工业和信息化部 海关总署 市场监管总局公告 2025 年第 54 号（对纯电动乘用车实施出口许可证管理，2026-01-01 施行；参考 HS 8703801090） | Bộ Thương mại (MOCOM) thông báo chính thức | CN | https://www.mofcom.gov.cn/zcfb/blgg/gg/2025/art/2025/art_b483d5aaebbb46e1999748d569d1ca99.html | 2026-09-04 | VEII |  |
 | 商务部办公厅关于 2026 年度汽车和摩托车出口许可申报的通知（2025-09-28；引用54号公告，系统填报“乘用车”） | Bộ Thương mại Ngoại giao MOFCOM (wms) | CN | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-04 | VEII |  |

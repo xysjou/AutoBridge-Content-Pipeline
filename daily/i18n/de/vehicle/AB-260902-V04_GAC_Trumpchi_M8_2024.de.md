@@ -24,7 +24,7 @@ China teilt den M8 in drei Serien, die sich in Größe, Radstand und Drehmomentk
 | 宗师 Großmeister 大师 Kapitän | 5212 × 1893 × 1823 mm | 3070 mm | 2.0T, 185 kW (252 PS) | **400 N·m** |
 | 领秀 Lingxiu (390T) | 5089 × 1884 × 1822 mm | 3000 mm | 2.0T, 185 kW (252 PS) | **390 N·m** |
 
-Die Leistung ist bei 185 kW identisch,  but the Grandmaster/Master calibration peaks at 400 N·m versus 390 N·m for the Lingxiu 390T — a small but real difference that should not be flattened into a single "M8 torque" figure. Grandmaster/Master-Abmessungen und Radstand sind **VERIFIZIERT** gegenüber den offiziellen GAC-Seiten; Die Lingxiu-Werte werden über Autohome/Yiche abgeglichen.
+Leistung ist identisch bei 185 kW, sondern die Grandmaster/Master Kalibrierung Spitzenwerte bei 400 N·m vs. 390 N·m für Lingxiu 390T — Klein, aber real Unterschied, der nicht zu einem einzelne Zahl "M8 Drehmoment". Abmessungen des Großmeisters/Masters und Radstand sind **VERIFIZIERT** gegen GAC offizielle Seiten; Lingxiu-Werte werden abgeglichen Über Autohome/Yiche.
 
 ## Mechanische Spezifikation (Petrol-Versionen)
 

@@ -58,7 +58,7 @@ AAO không phải là giải thưởng một lần. Một sự cố tuân thủ 
 
 Đúng vậy — Tập đoàn China FO — Cao cấp Công ty Enterprise được cấp chứng nhận là thuộc địa của Trung Quốc dưới khuôn khổ WCO SAFE; một bộ phận được cấp chứng nhận thấp hơn ngồi bên dưới.
 
-** AAO có bỏ khả năng nhập khẩu đích không? ♪ ♪**
+AEO có loại bỏ sự chấp thuận nhập khẩu đích không?
 
 Không. Nó giúp cho các thủ tục hải quan Trung Quốc và Cộng sự của Cộng đồng Hoa Kỳ được dễ dàng hơn; việc cấp phép, nhiệm vụ và giấy phép nhập khẩu ở nước mua vẫn là những yêu cầu riêng biệt.
 

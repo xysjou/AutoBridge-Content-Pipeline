@@ -36,7 +36,7 @@ Chinesische Dimensionen, Motor und Leistung beruhen hauptsächlich auf einer str
 1. Decide whether the enquiry is the **Chinese 1.5T line**, ein **overseas 1.5T ** oder ein **overseas HEV ** vor dem Lesen einer beliebigen Zahl.
 2. Jedem Antriebsstrang und jeder Ladungsfigur ein Marktetikett beifügen; 210 N·m 7DCT  and  430/1130 L are Australian, Die ~ 190 PS 375 N·m HEV ist nur in Übersee.
 3. Motor, Leistung und Getriebe mit der FIN aufzeichnen (siehe Anleitung zur FIN/Typenschild); a Chinese 1.5T unit must not carry HEV or Australian specs on its PI.
-4. Bestätigung der Zulassung der Lenkseite und des Zielorts; a Chinese LHD 1.5T car is not evidence of RHD or HEV availability in the buyer's market.
+4. Bestätigung der Lenkseite und Bestimmungshomologation; Chinesisch LHD 1.5T Auto ist kein Beweis RHD oder HEV Verfügbarkeit im Käufer Markt.
 5. Da die Namensidentität vom OEM bestätigt ist, der Antriebsstrang jedoch marktspezifisch ist, fordern Sie das **Fabrik-Baublatt OEM-Modell-Code-Mapping** für die genaue VIN an, anstatt eine marktübergreifende Äquivalenz anzunehmen.
 
 ## Übersee-Käufer-Überprüfung vor Zahlung

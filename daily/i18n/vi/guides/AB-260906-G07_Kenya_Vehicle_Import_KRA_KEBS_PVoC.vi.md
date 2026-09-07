@@ -31,7 +31,7 @@ KRA nói rằng nhập khẩu xe máy và xe cộ không phải là một nhiệ
 
 ## Quy tắc chạy xe đang lăn - đọc tuyên bố KRA hiện tại
 
-Kenya điều khiển độ tuổi của xe nhập khẩu, và KRA xuất bản những năm được phép sản xuất (của tập tục FAQ cho biết số năm sản xuất). Bởi vì sự cắt giảm đó tiến về phía trước theo thời gian,  an exporter must not hard-code a fixed 'eight-year' or any other number into a sales pitch; Hành động chính xác là kiểm tra bản tuyên bố hiện tại của KRA trong năm vận chuyển và so sánh nó với ngày sản xuất của đơn vị cụ thể. Lái xe thuận tay phải và an toàn khi ra ngoài đường cũng áp dụng, chỉ có những miễn dịch nhỏ.
+Kenya điều khiển độ tuổi của xe nhập khẩu, và KRA xuất bản những năm được phép sản xuất (của tập tục FAQ cho biết số năm sản xuất). Bởi vì sự cắt giảm đó tiến về phía trước theo thời gian,  người xuất khẩu không được phép cố định 'eight-year' hoặc bất kỳ số nào khác vào một quảng cáo; Hành động chính xác là kiểm tra bản tuyên bố hiện tại của KRA trong năm vận chuyển và so sánh nó với ngày sản xuất của đơn vị cụ thể. Lái xe thuận tay phải và một tớiàn khi ra ngoài đường cũng áp dụng, chỉ có những miễn dịch nhỏ.
 
 ## Thứ tự hoạt động cho giao dịch phương tiện giao thông của Trung Quốc–Kenya
 
@@ -60,7 +60,7 @@ Kenya điều khiển độ tuổi của xe nhập khẩu, và KRA xuất bản 
 
 PVC là một chương trình xuất khẩu trước khi xuất khẩu được thực hiện ở nước xuất khẩu bởi một đặc vụ KEBS; và công ty này hỗ trợ cho việc cho phép người Kenya.
 
-** Có phải nhiệm vụ nhập khẩu chỉ là một phần trăm? ♪ ♪**
+Nhiệm vụ nhập khẩu có phần trăm không?
 
 Không — KRA áp dụng nghĩa vụ cộng với ngoại lệ, VAT, nhập khẩu và xe lửa có thể khác nhau tùy theo hệ thống, động cơ và tuổi tác của KRA.
 
@@ -72,7 +72,7 @@ Không — KRA áp dụng nghĩa vụ cộng với ngoại lệ, VAT, nhập kh�
 
 Tiêu chuẩn về Nhập khẩu Mark được phát hành theo hướng dẫn KEBS cho việc nhập khẩu thông qua chương trình PVoC nơi thích hợp.
 
-** Người xuất khẩu có thể dọn sạch xe trực tiếp không? ♪ ♪**
+Có thể xuất khẩu ra khỏi xe trực tiếp không?
 
 Một nhân viên được cấp phép dọn dẹp Kenya thường có các khách hàng hải quan cho người nhập khẩu ghi chép; người xuất khẩu cung cấp các tài liệu phù hợp với người và người CoC.
 

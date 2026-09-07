@@ -31,7 +31,7 @@
 - 引用包 kWh **和** 范围 **和** 范围周期/条件合在一起;从不将较新的51 kWh号附加到基位VIN. 确认每栋建筑的AC/DC充电规定和充电时间.
 
 ## 已记录的导出记录(事实, 不是别名)
-China Transport News (an industry news outlet) reports that in **February 2024 an initial batch of EU-specification V6E vans was exported to Türkiye**, 法利宗第一次进入那个市场  in 6 m³ form. 这是**出口-交货记录**: 它证实一个欧洲标准建筑被运走,  but it does **not** make the Türkiye EU-spec van identical to the China 35.2/51 kWh builds — treat export configuration separately  and  请求其光谱表。
+China Transport News (an industry news outlet) 报告 **February 2024 第一批欧盟规格V6E型面包车出口到Türkiye**, 法利宗第一次进入那个市场  in 6 m³ form. 这是**出口-交货记录**: 它证实一个欧洲标准建筑被运走,  但确实如此 **not** make the Tü与中国相同的rkiye Euro-spect van 35.2/51 kWh builds — treat export configuration separately  and  请求其光谱表。
 
 ## 付款前, 进口商应该核实什么
 - 确认证书上的电动货车的驱动轴安排;所捕获的中国参考数据没有固定,因此不默认为负载底盘的前驱.

@@ -64,7 +64,7 @@ O guindaste móvel foi removido do catálogo de equipamentos especiais SARR "má
 
 ** Posso usar QY25K-II ou QY25E especificações para o QY25K5C**
 
-Não — são modelos diferentes; boom, motor  and  dimensions must come from the official QY25K5C sheet.
+Não — estes são Modelos diferentes; boom, motor e dimensões devem proveniente do funcionário QY25K5C folhas.
 
 ** Que documentos o comprador deve obter? **
 

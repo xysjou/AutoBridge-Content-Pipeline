@@ -4,7 +4,7 @@
 - ** SeO Judul ** EV Laut Freight Di bawah IMDG 42-24 - UN3556/3557/3558 vs UN3480/3481
 - ** Meta Description **: Dari 2026, kendaraan lithium-ion yang dipasang dengan pesawat baterai sebagai UN3556 (lithium-metal UN3557, sodium-ion UN3558) di bawah Amandemen IMDG 42-24; UN3171 adalah sempit dan lemah penggunaan baterai UN3480/3481 dengan UN38.3.
 - ** Sugested URL **: guide ev- shippping- un3556-imdg-compliance
-- ♪ ♪ H1 Klasifikasi Battery- Pounced Vehicle for Ocean Freight Under the CurDG Code saat ini (Amandemen 42-24)
+-   H1 Klasifikasi Batter menerkam Kendaraan untuk Laut Freight Di bawah CurDG Code saat ini (Amandemen 42-24)
 - ** Primary Keyword **: UN3556 lithium ion kendaraan IMDG 42-24 pengiriman
 - ** Secondary Search Terms **: UN3557 lithium metal kendaraan, UN3558 natrium ion kendaraan, P912 packing instruksi, SP405 mark, UN3171 sempit, UN3480 UN3481, UN38.3 manual tes rev8
 - ** Inside Link Sugestions **: guide kendaraan export -p- pre-shipts -handover guide export- documents paket kendaraan weluring-bingo
@@ -16,9 +16,9 @@ Sebuah praktek umum sebelum 2026 adalah untuk buku setiap battery- didorong kend
 
 ## Seluruh Kendaraan (baterai terpasang): UN3556 UN3557 UN3558
 Untuk kendaraan ** yang diangkut dengan baterai terpasang **:
-- ** UN3556 - lithium-ion- battery- powered kendaraan * ♪
-- ** UN3557 - lithium-logam-battery- powered kendaraan * ♪
-- ** UN3558 - sodium-ion-battery- powered kendaraan * ♪
+- ** UN3556 - lithium-ion- battery- powered kendaraan * 
+- ** UN3557 - lithium-logam-battery- powered kendaraan * 
+- ** UN3558 - sodium-ion-battery- powered kendaraan * 
 
 ** Packing Instruksi P912 ** Pemerintah storeads dan mengamankan untuk entri tersebut. Dimana kendaraan UN3556 tidak sepenuhnya tertutup dengan kemasan atau peti, ** Provisions Khusus SP405 ** mengatur persyaratan tanda. Lingkup dari entri ** UN3171 *** telah dipersempit ** ke kendaraan peralatan yang didukung oleh ** baterai basah, sodium- metal atau baterai alloy-alloy *; kendaraan mainmainlithium harus *** tidak dinyatakan dibawah UN3171 dari 2026. Ini adalah entri Kelas 9; dokumentasi dan tanda platarding mengikuti teks IMDG 42-24 dan lapisan tambahan operator yang dipesan.
 
@@ -87,7 +87,7 @@ Batas kuantum negara seperti batas tetap ** status -of-charge ** diatur oleh tek
 | US 49 CFR 173.185 (incorporates UN38.3 by IBR) | GovInfo AS (CFR) | US | https://www.govinfo.gov/content/pkg/CFR-2024-title49-vol2/xml/CFR-2024-title49-vol2-sec173-185.xml | 2026-09-04 | TERBATAI (primer) | UN3480/3481, referensi perundangan UN38.3 |
 | interpretasi IMDG 42-24 (MSC. 556 (108), tanggal efektif) | Cina Maritim (repost) | INTL CN | http://m.toutiao.com/group/7585883173825921546/ | 2026-09-04 | _ BERDECAT (mendukung) | Interpretasi tanggal-Effective- |
 | UN3556 SP405 menandai interpretasi | Berita Jiupai (repost) | INTL | http://m.toutiao.com/group/7598735209990734370/ | 2026-09-04 | SINGLE _ SOURCE (mendukung) | SP405 menandai |
-* Catatan bukti: klasifikasi inti berlabuh ke MSA (IMDG 42-24) dan UNECE (Manual Rev. 8+Amd.1, 49 CFR) sumber utama; halaman media industri hanya mendukung dan bukan bukti utama untuk nomor PBB atau nilai SOC tetap UN38.3. tetap tetap diblokir. ♪
+* Catatan bukti: klasifikasi inti berlabuh ke MSA (IMDG 42-24) dan UNECE (Manual Rev. 8+Amd.1, 49 CFR) sumber utama; halaman media / industri hanya mendukung dan bukan bukti utama untuk nomor PBB atau UN38.3. Nilai tetap SOC tetap diblokir. ♪
 
 ## Editorial Review
 - ** Penulis **: Tim Editorial Expor AutoBridge

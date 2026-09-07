@@ -28,7 +28,7 @@ El Prefacio Geely (nombre chino Xingrui) es el sedán de cuatro puertas de tama�
 | 2.0T (calibración más antigua) | 175 kW (238 PS) 350 N·m, 8-speed automático, WLTC combinado ♥ 7.15 L 100km | CHINA · más viejo/Jinchao-era 2.0T · un solo recurso | SINGLE_SOURCE |
 | 2.0T (calibración de la novedad) | 200 kW 400 N·m, Aisin 8AT,  claimed 0–100 km/h ≈6.5 s | CHINA · 2025 Dongfangyao 2.0T · un solo recurso, confirme | SINGLE_SOURCE |
 
-Los dos 2.0T productos no son un conflicto de datos para resolver al elegir uno: pertenecen a diferentes calibraciones de modelo-año. Una cita de exportación que nombra 'un Prefacio 2.0T ' sin el año y el borde exacto es ambiguo. Los materiales regionales de Geely en el Oriente Medio muestran un entrenamiento de energía prefabricado de mercado de exportación (por ejemplo, una construcción regional de 2.0TD + 7DCT); bajo la disciplina de identidad modelo que la construcción regional se cita como referencia al mercado de exportación  and  is **not** treated as identical to the Chinese 175/200 kW trims without OEM confirmation.
+Los dos 2.0T productos no son un conflicto de datos para resolver al elegir uno: pertenecen a diferentes calibraciones de modelo-año. Una cita de exportación que nombra 'un Prefacio 2.0T ' sin el año y el borde exacto es ambiguo. Los materiales regionales de Geely en el Oriente Medio muestran un entrenamiento de energía prefabricado de mercado de exportación (por ejemplo, una construcción regional de 2.0TD + 7DCT); bajo la disciplina de identidad modelo que la construcción regional se cita como referencia al mercado de exportación y es **not** tratados como idénticos a los chinos 175/200 kW trims without OEM confirmation.
 
 ## Chasis, asientos y señales de equipo
 

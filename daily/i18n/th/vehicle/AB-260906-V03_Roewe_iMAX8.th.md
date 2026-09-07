@@ -57,7 +57,7 @@ PAUL iMAX8 ใช้เครื่องเร่งอนุภาค 2.0-litr
 ## ขนาด FAQ
 ~โรวี iMAX8 มีที่นั่งกี่ที่นั่ง? ****
 
-The referenced Chinese model is a seven-seater in a 2+2+3 layout with two second-row captain chairs; ยืนยันการตัด ตรงเป๊ะๆ
+รุ่นที่อ้างอิงมาจากจีนคือตัวกินเจ็ดใน 2+2+3 layout with two second-row captain chairs; ยืนยันการตัด ตรงเป๊ะๆ
 
 ~ กงล้อมันยาวเท่าไร? ****
 

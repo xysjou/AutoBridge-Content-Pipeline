@@ -23,8 +23,9 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "CROSS_CHECKED",
-   "official_source": "NO",
-   "source_scope": ""
+   "official_source": false,
+   "source_scope": "",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "第三代CS55PLUS上市",
@@ -40,8 +41,9 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "CROSS_CHECKED",
-   "official_source": "NO",
-   "source_scope": ""
+   "official_source": false,
+   "source_scope": "",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "CS55 PLUS 超擎混动参数",
@@ -56,8 +58,9 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "CROSS_CHECKED",
-   "official_source": "NO",
-   "source_scope": ""
+   "official_source": false,
+   "source_scope": "",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "Changan Automobile official global site",
@@ -72,9 +75,10 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "VERIFIED",
-   "official_source": "YES",
+   "official_source": true,
    "source_scope": "OEM identity",
-   "added_by": "Writing AI CONTROLLED_RESEARCH_PATCH 2026-09-05"
+   "added_by": "Writing AI CONTROLLED_RESEARCH_PATCH 2026-09-05",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "Ministry of Industry and Information Technology (MIIT)",
@@ -89,9 +93,10 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "VERIFIED",
-   "official_source": "YES",
+   "official_source": true,
    "source_scope": "regulator authority; not a numeric spec transcription",
-   "added_by": "Writing AI CONTROLLED_RESEARCH_PATCH 2026-09-05"
+   "added_by": "Writing AI CONTROLLED_RESEARCH_PATCH 2026-09-05",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "State Administration for Market Regulation (SAMR)",
@@ -106,9 +111,10 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "VERIFIED",
-   "official_source": "YES",
+   "official_source": true,
    "source_scope": "regulator authority",
-   "added_by": "Writing AI CONTROLLED_RESEARCH_PATCH 2026-09-05"
+   "added_by": "Writing AI CONTROLLED_RESEARCH_PATCH 2026-09-05",
+   "scope_match": "MATCHED"
   }
  ],
  "source_integrity_note": "镜像/转载源已按实际域名与主体标注，未将头条镜像冒记为360che/官网；T4仅作线索。",
@@ -117,5 +123,6 @@
   "added_by": "Writing AI",
   "sources_added": 3,
   "note": "Official/OEM anchors verified HTTP-200 on 2026-09-05; identity/authority scope only unless facts_supported states otherwise."
- }
+ },
+ "t1_only_recomputed_on": "2026-09-07"
 }

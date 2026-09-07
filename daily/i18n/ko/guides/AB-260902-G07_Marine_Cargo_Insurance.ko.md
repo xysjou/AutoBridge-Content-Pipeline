@@ -92,7 +92,7 @@ ICC (A)는 넓지 않습니다, 절대: 그것은 기계적인 전기 고장, �
 | 선박화물 보험 | Ascope 배송 | - 연혁 | https://www.ascopeshipping.co.uk/marine-cargo-insurance/ | 2026-09-02 | SINGLE_SOURCE(싱글) | 一切险、 |（罢工附加险）（战争）
 | 中古車輸出の海上保険 (保额公式년) | 플렉시블카 | - 연혁 | https://planetcars.jp/index.php/ja/insurance 통해 | 2026-09-02 | SINGLE_SOURCE(싱글) | 保险金额 = CIF × 110%, 保费公式 |
 
-*Confidence 참고: 항목 범위 번호  and  the Incoterms insurance obligations are VERIFIED on LMA/ICC primary material. Hague-Visby SDR 수치는 현재 개정된 금액에 대해 확인하는 조약 규정입니다. 프리미엄 비율은 per-shipment이고 deliberately 명시되지 않습니다; EV 배터리 화재 커버는 정책 별입니다. ****************************************************************************************************************************************************************************************************************************************************************
+*Confidence 참고: 범위 / 번호 및 Incoterms 보험 의무는 LMA / ICC 기본 자료에 명시되어 있습니다. Hague-Visby SDR 수치는 현재 개정된 금액에 대해 확인하기 위해 조약 규정입니다. 프리미엄 비율은 양도이며 명시되지 않습니다. EV 배터리 화재 커버는 정책 별입니다. * 이름
 ## 편집 리뷰
 - **Author reviewer**: [AutoBridge Export Editorial Team](/authors/) · [편집 정책](/편집/) 당 방법
 - **마지막 검토**: 2026-09-05

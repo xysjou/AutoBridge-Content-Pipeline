@@ -4,7 +4,7 @@
 - ** Judul SEO **: China VI Emisi & Luar Laut Kompatibilitas Bahan Bakar Panduan - GB18352.6 GB17691
 - ** Meta Deskripsi **: Pisahkan lampu-tugas GB18352.6-2016 (XG1-2026 amandemen) dari tugas-GB17691-2018, Cina-VI diesel batas sulphur dan risiko DPF SCR, dan mengapa Cina VI tidak pernah otomatis sama dengan Euro atau persetujuan EPA.
 - ** Sugesti URL **: panduan emilm-fuel-kompabilitas -china- kendaraan
-- ♪ ♪ H1 Yang mana Aplikasi Standar Emisi, dan Will the Local Fuel Suit?
+-   H1 Yang mana Aplikasi Standar Emisi, dan Akan pakaian bahan bakar lokal?
 - ** Primary Keyword **: china 6 emisi standar bahan bakar luar negeri kompatibilitas GB18352.6 GB17691
 - ** Secondary Search Terms **: GB18352.6-2016 XG1-2026, GB17691-2018 tugas berat Cina 6, GB19147 diesel sulfur 10ppm, DPF SCR tinggi bahan bakar sulfur, China VI vs Euro equvalence
 - ** Inside Link Sugestions **: guide moidor export -pd-pre- shipts -handover comess jmc-shunda kendaraan dongfeng-tianlong-kl
@@ -84,7 +84,7 @@ Mengapa diesel sulfur penting? Cina - VI diesel menggunakan DPF SCR; bahan bakar
 | GB17691-2018 resmi PDF | MEE | CN | https://www.mee.gov.cn/ywgz/fgbz/bz/bzwb/dqhjbh/dqydywrwpfbz/201807/W020260430500008289846.pdf | 2026-09-04 | TERBATAI (primer) | Ruang lingkup tugas |
 | GB19147-2016 road diesel (saat ini, dengan XG1-2018) | SAMR openstd | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-04 | TERBATAI (primer) | Sulphur 10 mg kg |
 | DPF SCR tinggi-sulfur setelah-perawatan risiko | pengujian tubuh | CN | https://m.11467.com/product/d51123633.htm | 2026-09-04 | SINGLE _ SOURCE | Resiko perawatan qualitatif | 11467
-* Ruang penyimpanan bukti: Standar tanggal Cina VERIFIED melalui sumber utama MEE SAMR; batas Euro EPA luar negeri, spesifikasi bahan bakar EN dan kesimpulan ekuivalen diblokir menunggu sumber-sumber utama di luar negeri. ♪
+* Bukti lingkup: Standar Cina / tanggal VERIFIED melalui MEE / SAMR sumber utama; luar negeri batas Euro / EPA, N spesifikasi bahan bakar dan kesimpulan ekuivalen diblokir menunggu sumber luar negeri primer. ♪
 
 | 轻型车国六排放标准 GB18352.6-2016 (译文库条文) | ChinaAutoRegs (今日头条) | CN | http://m.toutiao.com/group/6758333762372633092/ | 2026-09-04 | SINGLE _ SOURCE | GB18352.6-2016 背景 (不作现行版本核心依据) |
 | 辽宁省车用柴油产品质量监督抽查实施细则 (引 GB19147-2016) | 盘锦市人民政府 | CN | http://www.panjin.gov.cn/html/2731/2026-07-29/content-152533.html | 2026-09-04 | TERBATAI | 硫含量等项目检验依据 GB19147-2016 |

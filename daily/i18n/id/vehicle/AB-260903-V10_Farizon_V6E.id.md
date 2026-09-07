@@ -17,7 +17,7 @@ Xingxiang V6E adalah milik Farizon (merek kendaraan elektronik Geely) ** van pen
 | Butir | V6E Referensi Cina |
 |---|---|
 | Motor | Wolong- ZF ** TZ185XS022 ** magnet permanen, ** 60 kW 220 N·m ** |
-| Kecepatan tertinggi | 90 km/h (terbatas elektronik) ♪ |
+| Kecepatan tertinggi | 90 km/h (terbatas elektronik)  |
 | Volume kargo | ** 6 m engkau ** (kargo teluk ~ 1.6 m panjang referensi) |
 | Penskorsan belakang | Axle rigid dengan ** pegas daun ** (load-oriented) |
 | Baterai jangkauan dasar | ** 35.2 kWh 260 km working- kondisi range ** |
@@ -31,7 +31,7 @@ Untuk sebuah van logistik, pembeli harus menimbang volume kargo, muatan (konfirm
 - Kutipan pak kWh **** range ** dan ** range cycle condition bersama; jangan pernah melampirkan nomor 51 kWh yang lebih baru ke basis VIN. Konfirmasi AC DC pengisian penyediaan dan waktu pengisian setiap bangunan.
 
 ## Dokumentasi Catatan Ekspor (fakta, bukan alias)
-Transportasi China Berita (berita industri) melaporkan bahwa dalam ** 2024 Februari sebuah batch dari spesifikasi EU V6E van diekspor ke Türkiye **, digambarkan sebagai masuk pertama Florizon ke pasar itu, dalam 6 m. Ini adalah rekaman pengiriman ** export- *: itu menegaskan Eropa - standar bangunan dikirim,  but it does **not** make the Türkiye EU-spec van identical to the China 35.2/51 kWh builds — treat export configuration separately  and  meminta lembar spec nya.
+Transportasi China Berita (berita industri) melaporkan bahwa dalam ** 2024 Februari sebuah batch dari spesifikasi EU V6E van diekspor ke Türkiye **, digambarkan sebagai masuk pertama Florizon ke pasar itu, dalam 6 m. Ini adalah rekaman pengiriman ** export- *: itu menegaskan Eropa - standar bangunan dikirim,  tetapi tidak **not** make the Türkiye EU-spec van identik dengan Cina 35.2/51 kWh builds — memperlakukan konfigurasi ekspor secara terpisah dan memita lembar spec nya.
 
 ## Apa yang seharusnya Diverifikasi Importers Sebelum Pembayaran
 - Konfirmasi pengaturan angkutan kargo listrik - axle pada sertifikat; data referensi Cina yang tertangkap tidak memperbaikinya, jadi jangan baku ke depan drive untuk sebuah load- chassis membawa.
@@ -89,7 +89,7 @@ Motor mana yang digunakan? Wolong- ZF TZ185XS022 permanen-magnet motor, 60 kW 22
 | Komponen keselamatan baterai gongo 38031 (GB 38031-2025; aplikasi tipe baru wajib dari 2026-07-01) | Standar nasional SAMR platform penuh teks | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | TERBATAI | Cakram wajib. Baterai keselamatan diperlukan untuk daya listrik kereta api. |
 | GB 18384 kebutuhan keamanan kendaraan listrik (GB 18384-2025) | Standar nasional SAMR platform penuh teks | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | TERBATAI | Listrik kendaraan kebutuhan keselamatan listrik fungsional |
 
-* Catatan kepercayaan: catatan ekspor Türkiye adalah catatan ekspor CROSS _ CHECYING yang dianjurkan berita-berita yang melaporkan (media berita industri tidak terVERIFIED - hanya OEM pemerintah regulator standar standar dokumen teknis formal mencapai VERIFIED); diperlakukan secara ketat sebagai catatan pengiriman, bukan sebuah model bukti alias. Jarak motor dasar adalah titik silang; yang lebih baru 51 kWh build adalah waktu - sensitif. Cina GB T dan EU-spec membangun tetap berbeda per MODEL _ Peraturan AIAS SOURCE _ SCOPE. ♪
+* Catatan kepercayaan: catatan ekspor Türkiye adalah CROSS _ CHECTYS - laporan berita (media berita / industri tidak TERVERIFIED - hanya OEM / pemerintah / regulator / standar / dokumen teknis formal mencapai VERIFIED); diperlakukan secara ketat sebagai catatan pengiriman, bukan bukti alias. Motor / jangkauan dasar dicentang; baru 51 kWh build adalah waktu - sensitif. Cina GB/T dan EU- Spec membangun tetap berbeda per MODEL _ ALIAS / SOURCE _ SCOPE aturan. ♪
 
 ## Editorial Review
 - *** Penulis Penilik **: [AutoBridge Ekspor Editorial Tim] penulis

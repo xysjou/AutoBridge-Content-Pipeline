@@ -12,7 +12,7 @@
 - **ALT Vorschläge**: "Chery Arrizo 8 1.6TGDI" Chinesische Marktlimousine"; "Arrizo 8 Abmessungen 4780mm Radstand 2790mm
 
 ## Käuferkontext: Eine Nahe-B-Segment-Limousine sitzt über dem Kleinwagenfeld
-Der Arrizo 8 ist Cherys Step-up-Limousine, die zwischen den traditionellen Kompakt- und B-Segment-Feldern liegt und sich an Käufer richtet, die mehr Platz im Heck als eine Einstiegslimousine wünschen. Für einen Exporteur ist die Eröffnungsfrage nicht der Preis, sondern **welche Antriebsstranglinie wird zitiert **: the Chinese range is built around a 1.6-litre turbo,  and  Diese Seite dokumentiert das ** 1.6TGDI DCT-Auto auf dem chinesischen Markt (REFERENCE MARKET): CHINA**. Jede Zahl unten ist eine ** chinesische Marktreferenzspezifikation**, keine globale Spezifikation - Ziel, Emissionshomologation und Ausrüstung werden vom lokalen Markt festgelegt, und es wurde kein OEM-Spezifikationsblatt für dieses Modell im Forschungspaket erfasst.
+Der Arrizo 8 ist Chery Stufenlimousine, zwischen den traditionellen Kompakt- und B-Segmentfelder und bei Käufern Wer mehr Rückwärts will Raum als ein Eintrag Limousine. Für einen Exporteur Die Eröffnungsfrage ist nicht Preis aber **welcher Antriebsstrang Zeile wird zitiert**: Der chinesische Bereich ist Gebaut um eine 1.6-litre Turbo, und diese Seite Dokumente ** 1.6TGDI DCT Chinesischer Markt Fahrzeug (REFERENZMARKT): CHINA**. Jede Zahl unten ist a **Referenzspezifikation des chinesischen Marktes**, Keine globale Spec — Bestimmungsort, Emissionshomologation und -ausrüstung werden durch die lokaler Markt, und Nr. OEM in Übersee Spezifikationsblatt wurde erfasst Für dieses Modell in Das Forschungspaket.
 
 ## Antriebsstrang (ICE-Fokus: Motor, Getriebe, Kraftstoff, Emission)
 | Position | 1.6TGDI DCT (China-Referenz) |

@@ -31,7 +31,7 @@ Para uma carrinha logística, os compradores devem pesar ** volume de carga, car
 - Pacote de citações kWh **e** intervalo **e** intervalo ciclo/condição juntos; nunca anexar o número mais novo 51 kWh a um VIN base. Confirme a disposição de carregamento AC/DC e o tempo de carga por construção.
 
 ## Registo de exportação documentado (facto, não um apelido)
-Transporte da China Notícias (um canal de notícias da indústria) informa que em **Fevereiro de 2024 um lote inicial de V6E carrinhas específicas da UE foi exportado para Türkiye**, descrito como a primeira entrada de Farizon nesse mercado,  in 6 m³ form. Este é um registro de entrega de **exportação**: Confirma que foi enviada uma construção europeia de qualidade,  but it does **not** make the Türkiye EU-spec van identical to the China 35.2/51 kWh builds — treat export configuration separately  and  solicitar a sua ficha de especificações.
+Transporte da China Nãoícias (um canal de notícias da indústria) informa que em **Fevereiro de 2024 um lote inicial de V6E carrinhas específicas da UE foi exportado para Türkiye**, descrito como a primeira entrada de Farizon nesse mercado,  in 6 m³ form. Este é um registro de entrega de **exportação**: Confirma que foi enviada uma construção europeia de qualidade,  Mas é verdade. **not** make the TüRkiye EU-spec van idêntica à China 35.2/51 kWh builds — tratar a configuração de exportação separadamente e solicitar uma sua ficha de especificidadeções.
 
 ## Quais Importadores Devem Verificar Antes do Pagamento
 - Confirme o arranjo do eixo de acionamento da van elétrica no certificado; os dados de referência chineses capturados não corrigi-lo, por isso não padrão para a unidade dianteira para um chassis de carga.

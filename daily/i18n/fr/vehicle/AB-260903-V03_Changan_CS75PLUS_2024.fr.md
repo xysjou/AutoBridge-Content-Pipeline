@@ -22,7 +22,7 @@ CS75 PLUS est la famille de VUS de taille moyenne de Changan. Cette page couvre 
 | Démarrer | Roue avant | Roue avant |
 | Carburant | Essence (turbo); confirmer la qualité et l'étape de l'essence/des émissions | Essence (turbo) |
 
-Pour un VUS ICE, la décision d'achat est le code moteur, la bande de couple, la boîte de vitesses et l'étape d'émission. Les deux moteurs chinois sont en couple avec un Aisin 8AT; ne pas supposer une variante à double embrayage ou à roue intégrale sans la feuille de garniture. The 4th-generation car carries a revised Blue Whale 1.5T at about 141 kW — a different tune that must not be written onto a 3rd-gen VIN.
+Pour un ICE SUV, la décision d'achat est le code moteur, la bande de couple, la boîte de vitesses et le stade d'émission. Les deux moteurs de la Chine s'associent à un Aisin 8AT; n'assument pas une variante double embrayage ou tout-roue-drive sans la feuille de finition. La voiture 4th-generation transporte une baleine bleue révisée 1.5T à environ 141 kW, un morceau différent qui ne doit pas être écrit sur un 3rd-gen VIN.
 
 ## Dimensions et sièges
 - Longueur/largeur/la hauteur: ** 4710 1865 1710 mm **

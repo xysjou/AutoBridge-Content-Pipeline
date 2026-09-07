@@ -3,7 +3,7 @@
 - ** Judul SEO **: Cina Mobil Ekspor Hak Asasi & Bea Cukai Petunjuk Dokumen (2026)
 - ** Meta Description **: Cara Chinese- sisi kendaraan ekspor kerja - tahunan mofcom pengajuan lisensi, BEV passenger- mobil lisensi, penggunaan -car 180-day aturan, dan ekspor penuh rantai dokumen sebelum deklarasi bea cukai.
 - ** Sugesti URL **: panduan china-kendaraan-export-licence -custocustom-documents
-- ♪ ♪ H1 **: China- Side Kendaraan Ekspor Keliatan, Kualifikasi dan Bea Cukai Dokumen Chain
+-   H1 **: China- Side Kendaraan Ekspor Keliatan, Kualifikasi dan Bea Cukai Dokumen Chain
 - ** Primer Keyword **: porselen export lisensi dokumen deklarasi bea cukai
 - ** Akhir Pencarian Second **: Cina menggunakan lisensi ekspor mobil, lisensi ekspor BEV Cina, MOFCOM ekspor kendaraan pengajuan, kendaraan ekspor rantai dokumen, 180 hari digunakan aturan ekspor mobil
 - ** Internal Link Sugestions **: guide mococ-type- coctyll- approvaIer guiders ev-shipppping- un3171-imdg-compliance/; guide oalleccle- extraffor- contrauses - clauses
@@ -89,7 +89,7 @@ Mengapa masalah penerimaan produsen kepada pedagang? MIIT Pesan 50 membagi kenda
 | Pemberitahuan pada Pengunyah Used- Mobil Manajemen Ekspor | Perpustakaan kebijakan Dewan Negara (empat kementerian) | CN (bagian ekspor) | https://www.gov.cn/zhengce/zhengceku/202511/content_7048644.htm | 2026-09-03 | TERBATAI | Rezim lisensi mobil-USED-mobil; 180-day aturan dari 2026-01-01 |
 | BEV passenger- car ekspor - lisensi administrasi | National Business Daily Toutiao | CN (bagian ekspor) | http://m.toutiao.com/group/7554336546682323496/ | 2026-09-03 | TIME _ ENSITIF | Trek lisensi BEV, referensi HS |
 | MIIT Order No. 50 - Manufaktur & Admission Produk | Departemen Industri dan IT | CN (bagian ekspor) | https://www.miit.gov.cn/zcfg/jdcjxl/art/2018/art_72a4ad7ff2304a8c83199eac43f276fe.html | 2026-09-03 | TERBATAI | Enam kategori penerimaan; basis dokumentasi-rantai |
-* Catatan Scope: sumber resmi di sini hanya mencakup bagian ekspor Cina saja. Kode HS yang tepat, rincian operasi sistem- dan revisi tahunan apapun harus dikonfirmasi terhadap tarif saat ini dan pemberitahuan MOFCOM; aturan destination- sisi berada di luar lingkup. ♪
+* Catatan Scope: sumber resmi di sini mencakup sisi ekspor Cina saja. Persis HS kode, sistematis-operasi rincian dan revisi tahunan harus dikonfirmasi terhadap tariff saat ini dan MOFCOM pemberitahuan; destination- aturan sisi berada di luar lingkup. ♪
 
 | 商务部 工业和信息化部 海关总署 市场监管总局公告 2025 年第 54 号（对纯电动乘用车实施出口许可证管理，2026-01-01 施行；参考 HS 8703801090） | Menteri Perdagangan (MOFCOM) resmi mengumumkan | CN | https://www.mofcom.gov.cn/zcfb/blgg/gg/2025/art/2025/art_b483d5aaebbb46e1999748d569d1ca99.html | 2026-09-04 | TERBATAI |  |
 | 商务部办公厅关于 2026 年度汽车和摩托车出口许可申报的通知 = 2025-09-28 = 引用 54 号公告 = 系统填报 = 乘用车 = = | Departemen Perdagangan Luar Negeri (WMS) | CN | https://wms.mofcom.gov.cn/zcfb/wmgl/art/2025/art_4fffefa930ec42c1875859eac89ff1e4.html | 2026-09-04 | TERBATAI |  |

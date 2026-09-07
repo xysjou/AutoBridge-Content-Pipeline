@@ -4,7 +4,7 @@
 - Shacman X3000 Dump Truck Specs (8x4, GVW, Body) Ekspor Panduan
 - ** Meta Description **: Shacman Delong X3000 tipper: 430 PS 8x4 reference build, mesin Weichai, Fast 12-speed, 31 t GVW, 7.6 m return-tip body, axles dan ekspor emism pilihan untuk pembeli armada.
 - ** Sugested URL **: kendaraan shacman - x3000-dump-truck/
-- ♪ ♪ H1 Shacman Delong X3000 Dump Truck: Chassis, Tipping Body dan Ekspor Pilihan Pembangunan
+-   H1 Shacman Delong X3000 Dump Truck: Chassis, Tipping Body dan Ekspor Pilihan Pembangunan
 - ** Primary Keyword **: Shacman X3000 dump truck export
 - ** Akhir Pencarian Second **: Shacman X3000 8x4 Tipper, Delong 430 truk sampah, Weichai WP12 430, Fast 12-speed tipper, Cina 31t dump export truk, Shacman 6x4 dump
 - ** Internal Link Sugestions **: kendaraan sinotruk-hodo- t7h-tractor/; guiders commercial- truck- fleet- procurements -china guide important chinse- truck- -saudi- saso
@@ -105,7 +105,7 @@ Mengapa versi emisi bervariasi begitu banyak? Pasar berbeda dalam konten sulfur 
 | GB 17691-2018 juta - tugas kendaraan diesel pencemaran emisi (China- VI) | Kementerian Ekologi dan Lingkungan (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | TERBATAI | China- VI kompresi- pengapian (berat diesel) tahap emisi untuk truk pelatih |
 | GB 19147 mobil yang diesel bahan bakar nasional standar (low-sulfur basis) | Standar nasional SAMR platform penuh teks | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | TERBATAI | Kelas bahan bakar Diesel dan sulfur dasar untuk mencocokkan desain mesin emisi di luar negeri |
 
-* Catatan kepercayaan (standar AutoBridge): 400 PS ekspor mesin telah diedarkan di Shacman- saluran resmi; rinci 430 PS 8 × 4 tokoh pengumuman adalah SINGLE _ SOURCE (360che). Harga tak terbantahkan dan diabaikan. Konfirmasi bangunan terakhir pada lembar internasional Shacman. ♪
+* Konfidence mencatat (standar AutoBridge): 400 PS mesin ekspor adalah VERIFIED di Shacman- saluran resmi; 430 PS 8 rinci × 4 tokoh pengumuman adalah SINGLE _ SOURCE (360che). Harga adalah UNVERIFIED dan diabaikan. Konfirmasi bangunan terakhir pada lembar internasional Shacman. ♪
 
 ## Editorial Review
 - *** Penulis Penilik **: [AutoBridge Ekspor Editorial Tim] penulis

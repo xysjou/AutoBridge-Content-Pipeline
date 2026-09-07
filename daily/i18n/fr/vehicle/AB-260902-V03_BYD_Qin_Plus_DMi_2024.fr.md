@@ -32,7 +32,7 @@ Un VÉHI porte **deux** numéros de gamme que les acheteurs conflètent: ** plag
 Les sites de paramètres énumèrent 55 et 120 lignes, mais laissent l'importateur démêler les cycles et les modes. La méthode recommandée est une sortie de moteur de fixation de la note de niveau **VIN, une batterie en kWh, un cycle électrique et une capacité de charge ensemble**, des nuances de marquage où la charge rapide en courant continu est absente (erreur de commande courante sur la petite batterie), et la mention de la plage électrique et combinée séparément de sorte qu'une VÉHI ne soit jamais annoncée sur son numéro combiné comme si elle était de la gamme EV.
 ## Avant paiement
 - Correction ** 55 ou 120 **,  with matching motor (132/145 kW)  and  battery (8.32/18.32 kWh) on the VIN build sheet.
-- Enregistrer le cycle ** de gamme électrique** (NEDC vs WLTC)  and  obtain destination-certified PHEV range/CO₂ where tax or incentives depend on it.
+- Enregistrer le cycle ** de gamme électrique** (NEDC vs WLTC)  and  obtain destination-certified PHEV range/CO₂ où l'impôt ou les incitations en dépendent.
 - Confirmer la capacité du connecteur et du système AC/DC **par grade**; ne pas supposer que les prises de destination de GB/T correspondent.
 - Confirmer le côté direction, le langage d'infodivertissement/OTA en dehors de la Chine, et la garantie qui couvre le moteur **et** batterie **et** moteur.
 - Vérifier la classification de la destination en VPH — les incitations/homologation hybrides diffèrent des VE purs.

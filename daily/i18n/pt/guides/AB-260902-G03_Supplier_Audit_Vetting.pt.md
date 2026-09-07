@@ -61,7 +61,7 @@ Um dos indicadores de fraude mais claros é um nome de conta **payee que difere 
 - Preferências de instrumentos de pagamento que correspondam ao risco (ver o guia T/T vs L/C); evitar o pagamento antecipado completo a uma entidade não verificada.
 
 ## O que AutoBridge adiciona além de uma tela de negócios-Licença
-Uma verificação de licença prova que uma empresa existe, não que ela possa exportar * seu * veículo. This guide recommends checking the counterparty against the **current-year MOFCOM qualified list** (2026 application under 商办贸函〔2025〕408号; Licença de passageiros puro-EV de 2026-01-01 no âmbito do anúncio conjunto n.o. 54), reconstitui a cadeia de autorização de marca ** para o OEM **, e executa uma correspondência de contrato/fatura/nome da conta bancária** antes do depósito — os três controlos que distinguem um exportador autorizado de uma caixa comercial.
+Uma verificação de licença prova que uma empresa existe, não que ela possa exportar * seu * veículo. Este guia recomenda a verificação da contraparte face ao **current-year MOFCOM qualified list** (2026 application under 商办贸函〔2025〕408号; Licença de passageiros puro-EV de 2026-01-01 no âmbito fazer aúncio conjunto n.o. 54), reconstitui a cadeia de autorização de marca ** para o OEM **, e executa uma correspondência de contrato/fatura/nome da conta bancária** antes do depósito — os três controlos que distinguem um exportador autorizado de uma caixa comercial.
 ## Uma sequência prática de oito passos
 
 1. Puxe o registro de licença de negócios do GSXT de forma independente.

@@ -12,7 +12,7 @@
 - ** 范围**:第+条车辆(无产品/产出/审查)
 
 ## 购买者上下文和生成边界
-This page covers only the **third-generation Changan CS55 PLUS (2024) with the petrol (ICE) powertrain**. **超音速版本是一条单独的线**,车体和动力列车数字不同,在此不合并. 参考市场为**中国**.
+本页仅覆盖 ** 第三代Changan CS55 倒数(2024) 汽油(ICE)动力列车**. 超音速的版本是 单行** 不同身体和动力列车 数字而不是 合并在这里。 参考市场为**中国**.
 
 ## 汽油电源和尺寸
 - **Body**: 4539 1865 1680 mm,轮基2656 mm; cargo 475–1415 L.

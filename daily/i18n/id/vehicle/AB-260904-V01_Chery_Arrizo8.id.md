@@ -4,7 +4,7 @@
 - ** Judul SEO **: Chey Arrizo 8 Specs & Ekspor Panduan Pembeli (1.6TGDI, China Referensi)
 - ** Meta Description **: Cinese- pasar Chey Arrizo 8 - 1.6T Kunpena 145 kW 290 N·m, 7DCT, 4780 mm tubuh, perbedaan trim yang penting, dan apa penting memverifikasi sebelum memesan.
 - ** Sugesti URL **: / kendaraan / chery- arrizo- 8/
-- ♪ ♪ H1 **: Chey Arrizo 8: Cinese- Specifications Market dan Ekspor Catatan Verifikasi
+-   H1 **: Chey Arrizo 8: Cinese- Specifications Market dan Ekspor Catatan Verifikasi
 - ** Primary Keyword **: chey arrizo 8 ekspor spesifikasi
 - "batas akhir pencarian kedua" "Arrizo 8 1.6TGDI, Chey Arrizo 8 dimensi, 艾瑞泽 8 ekspor, Kunpeng SQRF4J16, ekspor sedan Cina
 - ** Internal Link Sugestions **: guide vin-plates -verification -chinese- kendaraan guide emision- fuel-compatibility -chin- kendaraan guide exports -methogments -documents paket
@@ -91,7 +91,7 @@ Apakah China 6 emisi berarti mobil ini bersertifikat untuk pasaranku? Tidak; tip
 | GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Administrasi Negara untuk Peraturan Pasar | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | TERBATAI | Baseline in- China kendaraan kondisi keamanan teknis dan garis waktu revisi saat ini |
 | GB 18352.6-2016 dengan Amandemen XG1-2026 (Cina - 6 cahaya kendaraan emisi polutan) | Kementerian Ekologi dan Lingkungan (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | TERBATAI | Cina - 6 ringkas emisi tahap dan 2026 tanggal implementasi Amandemen |
 
-* Catatan kepercayaan: tidak ada lembar spesifikasi primer OEM ditangkap; angka adalah nilai basis- pemeriksaan struktur Cina. Pintu, tata letak drive dan kecepatan atas adalah sumber tunggal. Harga domestik adalah waktu - sensitif dan tidak pernah sebuah kutipan ekspor. ♪
+* Catatan confidence: tidak ada OEM lembar spesifikasi primer ditangkap; angka-angka adalah cross- diperiksa nilai basis data Cina. Pintu, tata letak drive dan kecepatan atas adalah sumber tunggal. Harga domestik adalah waktu - sensitif dan tidak pernah sebuah kutipan ekspor. ♪
 
 ## Editorial Review
 - ** Penulis **: Tim Editorial Expor AutoBridge

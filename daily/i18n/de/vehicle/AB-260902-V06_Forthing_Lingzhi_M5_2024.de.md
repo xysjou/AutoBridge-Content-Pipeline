@@ -32,7 +32,7 @@ Abmessungen, Radstände und Sitzlayouts werden **VERIFIZIERT** gegenüber der of
 | 1.5T Benzin (M5L) | Turbo L4 | 140 kW (190 PS) 300 N·m | ** 6-speed manuell** |
 | 1.6L CNG | L4 (Erdgas) | 75 kW (102 PS) 140 N·m | ** 5-speed manuell** |
 
-Zwei Beschaffungspunkte fallen auf. Erstens:  **both lines are manual** — there is no automatic in the captured 2024 range, Käufer, die Auto AMT benötigen, müssen sich also woanders umsehen oder einen bestimmten Export-Build bestätigen. Zweitens ist die **CNG-Version wesentlich leistungsschwächer** (75 kW) und nur dann relevant, wenn die Betankung mit Erdgas und die CNG-Registrierung unterstützt werden. für Gasinfrastrukturmärkte kann es die Betriebskosten senken, aber es ist kein vergleichbarer Ersatz für den 1.5T. Der 1.5T verzeichnet eine WLTC-Kombination von 8.4 L/100 km und eine Höchstgeschwindigkeit von 160 km/h. Das Leergewicht für den M5L 1.5T 9-seater beträgt ~ 1700 kg (einzelne Quelle, Dongchedi - bestätigen Sie auf der Konformitätsplatte).
+Zwei Beschaffungspunkte stehen aus. Erstens: **beide Zeilen sind manuell ** - es gibt keine Automatik im Capture 2024 Reichweite, Käufer brauchen Auto / AMT muss woanders hinschauen oder Bestätigung einer bestimmten Ausfuhr zu bauen. Zweitens, Die ** CNG Version ist deutlich leistungsschwächer** (75 kW) und ist nur relevant bei Erdgasbetankung und CNG Registrierung wird unterstützt; für Gasinfrastrukturmärkte ist es kann die laufenden Kosten senken, Aber es ist nicht Gleichartiger Ersatz für die 1.5T. Der 1.5T Records a WLTC kombinierte Zahl um 8.4 L/100 km und a 160 km/h oben Drehzahl. Bordsteingewicht für die M5L 1.5T 9-seater ist ~ 1700 kg (einzelne Quelle), Dongchedi — bestätigen am das Konformitätsschild.
 
 ## Sitz- und Nutzungskonfiguration
 

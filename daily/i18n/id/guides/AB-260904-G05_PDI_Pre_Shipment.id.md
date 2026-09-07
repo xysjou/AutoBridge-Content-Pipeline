@@ -4,7 +4,7 @@
 - ** Judul SEO **: Export kendaraan PDI & Pre- Shillets Panduan Handover-Nama Aturan Carrier
 - ** Meta Description **: Pisahkan kebijakan pembawa RoRo (Wallenius Wilhelmsen, Höegh Autoliners) - bahan bakar, baterai, SOC dan operasional - dari AutoBridge direkomendasikan sebelum pengiriman daftar pemeriksaan; tidak ada nilai tetap universal.
 - ** Sugested URL **: guide kendaraan-export -p- pre- pengiriman -handover
-- ♪ ♪ H1 **: Menyiapkan kendaraan untuk RoRo atau Cita Ekspor Wadah: Apa Nama Pengantar Mobil Perlu dan Apa Kami Sarankan
+-   H1 **: Menyiapkan kendaraan untuk RoRo atau Cita Ekspor Wadah: Apa Nama Pengantar Mobil Perlu dan Apa Kami Sarankan
 - ** Primary Keyword **: export kendaraan sebelum pengiriman inspeksi PDI handover RoRo
 - Wallenius Wilhelmsen tangki bahan bakar, Hoegh BEV SOC 50 persen, RoRo kendaraan yang dapat dioperasi, memutus 12V baterai digunakan mobil, pra-pengiriman rekaman foto
 - ** Internal Link Sugestions **: guide kendaraan-ekspor -of -lading- tipe-tipe guide ev- shippping-un3556-imdg-compliance/; guide emises -fuel--compatibilize -chinocates kendaraan
@@ -22,7 +22,7 @@ Gangguan pada tujuan hampir selalu melacak kembali ke satu pertanyaan: apa kondi
 | ** Bahan Bakar tingkat gas ** | Tanki tentang ** satu seperempat penuh ** (cukup untuk diri - drive on off) | Tank tentang ** satu - seperempat penuh ** | Kebijakan kemudi; silang - diperiksa untuk kedua garis bernama saja - bukan aturan universal |
 | ** Menggunakan baterai ICE ** | Untuk unit yang digunakan ** tanpa sebuah akinya kill- switch **, putuskan 12/24V setelah lashing (pengecualian per instruksi WW) | - | WW-specific; single- source carrier rule |
 | SOC tegangan tinggi | - | ** SOC tidak lebih dari 50% **, sementara menahan muatan yang cukup untuk memuat membongkar penyimpanan; HEV: bahan bakar ditambah bimbingan SOC | Höegh-specific; ** not ** a global SOC ceiling |
-| *** Kemampuan Operasi * ♪ | RoRo unit harus sendiri-drive aman on off (bergerak rem mengarahkan); rusak atau satuan bocor mungkin ditolak | Sama seperti kebutuhan mengemudi | Pembalap menerima aturan untuk dua garis bernama |
+| *** Kemampuan Operasi *  | RoRo unit harus sendiri-drive aman on off (bergerak rem mengarahkan); rusak atau satuan bocor mungkin ditolak | Sama seperti kebutuhan mengemudi | Pembalap menerima aturan untuk dua garis bernama |
 
 Syarat ini dikutip untuk pembawa bernama tepat karena mereka ** bervariasi oleh baris dan dengan perjalanan **: pembawa RoRo kontainer Cina atau baris lain dapat mengatur tingkat yang berbeda. Jangan pernah menyatakan "operator membutuhkan X" tanpa penamaan pembawa dan memeriksa panduan tertulis saat ini.
 
@@ -90,7 +90,7 @@ Who decided lashing points and strap ratingnya? Kantor terminal dan manual trans
 | Pengiriman otomatis Höegh (bahan bakar beV SOC; operability) | Höegh Autoliners | INTL | https://www.hoeghautoliners.com/what-we-ship/automotive | 2026-09-04 | SINGLE _ SOURCE (pembawa utama) | BEV 50% SOC, bahan bakar, operasi |
 | Höegh Trucks Bus pengiriman | Höegh Autoliners | INTL | https://www.hoeghautoliners.com/what-we-ship/trucks-buses-and-trailers-shipping | 2026-09-04 | SINGLE _ SOURCE (pembawa utama) | Unit yang menerima. |
 | Pemeriksaan pengiriman dan praktek pengiriman | halaman industri | CN | https://m.11467.com/product/d55278360.htm | 2026-09-04 | SINGLE _ SOURCE (dasar editorial) | Daftar cek foto handover yang direkomendasikan | 11467
-* Ruang penyimpanan barang bukti: kebijakan pembawa nama yang diverifikasi kepada panduan primer WW Höegh (kebijakan utama pembawa, bukan kebijakan umum, bukan universal); daftar cek adalah rekomendasi editorial; tetap membatalkan menekan menekan orientasi nilai memblokir dokumen OEM carrier. ♪
+* Scope bukti: name-carrier kebijakan diverifikasi ke WW / Höegh panduan primer (kebijakan pembawa, bukan regulasi, bukan universal); checklist adalah rekomendasi editorial; tetap lashing / tekanan / orientasi nilai diblokir menunggu OEM / dokumen pembawa. ♪
 
 | IMA ILO UNECE CTU Kode - penanganan dan mengamankan unit transportasi kargo | International Maritim Organization (IMA) | INT 'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | TERBATAI | Penanganan umum mengamankan baseline; aturan pembawa tetap stricter dan route- spesifik |
 | Asuransi perjalanan dan referensi risiko laut | International Union of Marine Asuransi (IUMI) | INT 'L | https://iumi.com/ | 2026-09-05 | TERBATAI | Mengapa mendokumentasikan PDI handover bukti penting untuk cargo-klaim penanganan |

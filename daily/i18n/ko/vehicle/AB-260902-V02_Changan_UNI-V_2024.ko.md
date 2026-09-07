@@ -30,7 +30,7 @@ UNI-V는 Changan의 컴팩트 한 빠른 백 세단 - 다섯 개의 문, 다섯 
 
 ## 치수 및 바디 - 트리밍을 조심스럽게 읽으십시오
 
-Overall length is the one figure that changes by grade, 그래서 단 하나 “UNI-V 길이”는 손질 없이 인용됩니다:
+전장은 변화하는 것 으로 급료, 그래서 하나의 "UNI-V 길이" 트림없이 인용 부정 행위:
 
 | 제품 정보 | 의 값 |
 |---|---|

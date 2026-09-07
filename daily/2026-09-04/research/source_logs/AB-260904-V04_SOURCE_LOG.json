@@ -1,13 +1,94 @@
 {
-  "article_id": "AB-260904-V04",
-  "source_count": 5,
-  "sources": [
-    {"source_no": "SOURCE 01", "source_name": "哈弗初恋1.5T自动大三版 参数", "organization": "新浪汽车车型库", "url": "https://db.auto.sina.cn/car/50026/", "domain": "db.auto.sina.cn", "source_type": "structured_db", "source_tier": "T2", "market": "CHINA", "source_scope": "中国版1.5T", "facts_supported": "4472/1841/1619/2700/紧凑SUV", "checked_date": "2026-09-04", "authority_level": "结构化车型数据库", "official_source": "NO"},
-    {"source_no": "SOURCE 02", "source_name": "澳版Jolion 1.5T动力与尺寸(海外市场佐证)", "organization": "腾讯新闻转载车评", "url": "http://news.qq.com/rain/a/20210717A03BJX00", "domain": "news.qq.com", "source_type": "industry_media", "source_tier": "T3", "market": "AUSTRALIA", "source_scope": "澳洲1.5T版", "facts_supported": "110kW/210N·m/7DCT/后备厢430-1130L", "checked_date": "2026-09-04", "authority_level": "海外市场媒体(非中国规格)", "official_source": "NO"},
-    {"source_no": "SOURCE 03", "source_name": "Jolion Pro HEV澳洲上市(海外HEV,非中国版)", "organization": "汽车之家·车家号", "url": "https://chejiahao.m.autohome.com.cn/info/15525734", "domain": "chejiahao.m.autohome.com.cn", "source_type": "industry_media", "source_tier": "T3", "market": "AUSTRALIA", "source_scope": "海外HEV版", "facts_supported": "4470/1898/1625/2700/HEV", "checked_date": "2026-09-04", "authority_level": "海外市场媒体(仅用于区分版本)", "official_source": "NO"},
-    {"source_no": "SOURCE 04", "source_name": "Jolion 2025越南(海外HEV,非中国版)", "organization": "凤凰网汽车", "url": "https://auto.ifeng.com/c/8ggPMnGNmuJ", "domain": "auto.ifeng.com", "source_type": "industry_media", "source_tier": "T3", "market": "VIETNAM", "source_scope": "海外HEV版", "facts_supported": "1.5L HEV综合190ps/375N·m DHT", "checked_date": "2026-09-04", "authority_level": "海外市场媒体(仅用于区分版本)", "official_source": "NO"},
-    {"source_no": "SOURCE 05", "source_name": "长城汽车官网·发展历程(哈弗初恋海外版JOLION在南非/沙特上市;JOLION HEV泰国)", "organization": "长城汽车股份有限公司", "url": "https://www.gwm.com.cn/history.html", "domain": "www.gwm.com.cn", "source_type": "oem_official", "source_tier": "T1", "market": "OVERSEAS(品牌总部记录)", "source_scope": "车型命名与海外版对应关系(品牌总部官方记录)", "facts_supported": "车型命名/海外版对应、海外上市事实", "checked_date": "2026-09-04", "authority_level": "整车厂官方", "official_source": "YES"}
-  ],
-  "SOURCE_INTEGRITY_CHECK": "PASS: 每条来源均含真实URL,Organization与域名主体一致;海外来源market已按SOURCE_MARKET_PATH_CHECK归位,核心为T1 OEM",
-  "tier_distribution": {"T1": 1, "T2": 1, "T3": 3, "T4": 0}
+ "article_id": "AB-260904-V04",
+ "source_count": 5,
+ "sources": [
+  {
+   "source_no": "SOURCE 01",
+   "source_name": "哈弗初恋1.5T自动大三版 参数",
+   "organization": "新浪汽车车型库",
+   "url": "https://db.auto.sina.cn/car/50026/",
+   "domain": "db.auto.sina.cn",
+   "source_type": "structured_db",
+   "source_tier": "T2",
+   "market": "CHINA",
+   "source_scope": "中国版1.5T",
+   "facts_supported": "4472/1841/1619/2700/紧凑SUV",
+   "checked_date": "2026-09-04",
+   "authority_level": "结构化车型数据库",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_no": "SOURCE 02",
+   "source_name": "澳版Jolion 1.5T动力与尺寸(海外市场佐证)",
+   "organization": "腾讯新闻转载车评",
+   "url": "http://news.qq.com/rain/a/20210717A03BJX00",
+   "domain": "news.qq.com",
+   "source_type": "industry_media",
+   "source_tier": "T3",
+   "market": "AUSTRALIA",
+   "source_scope": "澳洲1.5T版",
+   "facts_supported": "110kW/210N·m/7DCT/后备厢430-1130L",
+   "checked_date": "2026-09-04",
+   "authority_level": "海外市场媒体(非中国规格)",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_no": "SOURCE 03",
+   "source_name": "Jolion Pro HEV澳洲上市(海外HEV,非中国版)",
+   "organization": "汽车之家·车家号",
+   "url": "https://chejiahao.m.autohome.com.cn/info/15525734",
+   "domain": "chejiahao.m.autohome.com.cn",
+   "source_type": "industry_media",
+   "source_tier": "T3",
+   "market": "AUSTRALIA",
+   "source_scope": "海外HEV版",
+   "facts_supported": "4470/1898/1625/2700/HEV",
+   "checked_date": "2026-09-04",
+   "authority_level": "海外市场媒体(仅用于区分版本)",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_no": "SOURCE 04",
+   "source_name": "Jolion 2025越南(海外HEV,非中国版)",
+   "organization": "凤凰网汽车",
+   "url": "https://auto.ifeng.com/c/8ggPMnGNmuJ",
+   "domain": "auto.ifeng.com",
+   "source_type": "industry_media",
+   "source_tier": "T3",
+   "market": "VIETNAM",
+   "source_scope": "海外HEV版",
+   "facts_supported": "1.5L HEV综合190ps/375N·m DHT",
+   "checked_date": "2026-09-04",
+   "authority_level": "海外市场媒体(仅用于区分版本)",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_no": "SOURCE 05",
+   "source_name": "长城汽车官网·发展历程(哈弗初恋海外版JOLION在南非/沙特上市;JOLION HEV泰国)",
+   "organization": "长城汽车股份有限公司",
+   "url": "https://www.gwm.com.cn/history.html",
+   "domain": "www.gwm.com.cn",
+   "source_type": "oem_official",
+   "source_tier": "T1",
+   "market": "OVERSEAS(品牌总部记录)",
+   "source_scope": "车型命名与海外版对应关系(品牌总部官方记录)",
+   "facts_supported": "车型命名/海外版对应、海外上市事实",
+   "checked_date": "2026-09-04",
+   "authority_level": "整车厂官方",
+   "official_source": true,
+   "scope_match": "MATCHED"
+  }
+ ],
+ "SOURCE_INTEGRITY_CHECK": "PASS: 每条来源均含真实URL,Organization与域名主体一致;海外来源market已按SOURCE_MARKET_PATH_CHECK归位,核心为T1 OEM",
+ "tier_distribution": {
+  "T1": 1,
+  "T2": 1,
+  "T3": 3,
+  "T4": 0
+ },
+ "t1_only_recomputed_on": "2026-09-07"
 }

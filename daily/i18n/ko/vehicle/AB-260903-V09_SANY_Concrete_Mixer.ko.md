@@ -24,7 +24,7 @@ SANY's line spans three drum-size bands: **6–7 m³ 8–9 m³ 10 m³** (OEM pro
 ## Superstructure와 구조
 - 일부 모델은 별도의 하위 프레임 (无副车架一体化结构)** - 단일 소스없이 ** 통합 프레임을 사용합니다. 정확한 모델과 무게 센터 - 의 그라비티의 복제를 확인합니다.
 - ** 드럼 회전 드라이브, 길이, 물 시스템 용량 및 펌프, 방전 방향 및 연산자 컨트롤**를 지정합니다. 이 사이트에 대한 사용은 배지보다 더 많은 것을 정의합니다.
-- Chinese coverage also references a large **20 m³** class mixer  and  통합 프레임 엔지니어링 (party-media report) - 다른 크기 클래스,  not to be conflated with the 6–10 m³ line.
+- 중국 적용도 큰 참조 **20 m³** class mixer  and  통합 프레임 엔지니어링 (party-media report) - 다른 크기 클래스,  팽창되지 않음 6–10 m³ line.
 
 ## 전기 (BEV) 믹서 채식
 ** 8 × 4 모든 전기 믹서 ** 빠른 (法士特) TZ368XSSFD01 영구 자석 모터 ** 350 kW 피크 215 kW 정격 ** (단일 소스 거래 - 미디어 경고 보고서). 현재의 발표와 spec에 대해 확인하기 위해 구성으로 이를 치료하십시오. 디젤 라인의 수치와 병합하지 마십시오.

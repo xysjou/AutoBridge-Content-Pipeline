@@ -32,12 +32,12 @@ Un PHEV lleva **dos** números de rango que los compradores conflan: **El rango 
 Sitios de parámetros lista 55 y 120 filas pero dejar al importador para desenredar ciclos y modos. El método recomendado es una salida de motor de fijación de notas a nivel **VIN, batería kWh, ciclo de rango eléctrico y capacidad de carga juntos**, grados de marcado donde la carga rápida DC está ausente (un error de orden común en el coche de bajada pequeña), y indicando el rango combinado de electricidad vs por separado para que un PHEV nunca se anuncia en su número combinado como si fuera de la gama EV.
 ## Antes de Pago
 - Fijación ** 55 o 120 **,  with matching motor (132/145 kW)  and  battery (8.32/18.32 kWh) on the VIN build sheet.
-- Grabar el ciclo ** de rango eléctrico** (NEDC vs WLTC)  and  obtain destination-certified PHEV range/CO₂ where tax or incentives depend on it.
+- Grabar el ciclo ** de rango eléctrico** (NEDC vs WLTC)  and  obtain destination-certified PHEV range/CO₂ donde el impuesto o los incentivos dependen de él.
 - Conéctese conector y capacidad AC/DC **por grado**; no asuman las tomas de destino de los partidos GB/T.
 - Confirme el lado de dirección, el idioma infotainment/OTA fuera de China, y la garantía que cubre el motor **y** batería **y** motor.
 - Verificar la clasificación de PHEV del destino — incentivos híbridos homologación difieren de los EV puros.
 ## Solicitar una calificación de exportación actual
-No se publica precio de exportación estático; el RMB 79, 800–125, 800 China Glory Edition guide price is a **domestic, time-sen reference, not an FOB/CIF figure**. Consulta con **Destinación País · Cantidad · Versión (55/120) " Grado · LHD/RHD · Puerto de destino · Incoterm**.
+No se publica precio de exportación estático; el RMB 79, 800–125, 800 China Glory Edition guía precio es una referencia doméstica, sensible al tiempo, no una figura FOB / CIF. Consulta con País Destino · Cantidad · Versión (55/120) & Grado · LHD / RHD · Puerto Destino · Incoterm.
 ## Preguntas frecuentes
 **¿Qué diferencia entre los 55 y 120?** El 120 tiene una batería de 18.32 kWh, un motor 145 kW más fuerte, una gama eléctrica más larga y una aceleración más rápida; el 55 utiliza 8.32 kWh y 132 kW.
 **¿Es el 1.5L la unidad principal de la unidad de la unidad?** En DM-i es principalmente un generador/asist; el motor eléctrico proporciona la unidad primaria.

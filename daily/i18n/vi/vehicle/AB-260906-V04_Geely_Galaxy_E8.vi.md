@@ -31,7 +31,7 @@ Nguồn tin Trung Quốc mô tả vài gói ắc quy li-ti (khoảng 62 67.8 76 
 
 ## Kiến trúc sạc: 800V là phụ thuộc phiên bản
 
-Các phiên bản cao cấp sử dụng một nền tảng có quy mô lớn 800-volt hỗ trợ khả năng tăng tốc của DC, Trong khi đó, năng lượng sạc chính xác cao nhất  and  10–80% time are not available from an official source here  and  do đó ** không được nói đến như những giá trị cố định** — xác nhận chúng mỗi khi cắt tỉa. Đối với xuất khẩu, tiêu chuẩn kết nối vật lý và sạc điện (GB/T ở Trung Quốc so với tiêu chuẩn CCS/các điểm đến khác) là một câu hỏi riêng biệt, quyết định mà một tờ xuất khẩu OEM phải trả lời.
+Các phiên bản cao cấp sử dụng một nền tảng có quy mô lớn 800-volt hỗ trợ khả năng tăng tốc của DC, Trong khi đó, năng lượng sạc chính xác cao nhất  and  10–80% Thời gian không có từ một nguồn chính thức ở đây và làm đó ** không được nói đến như những giá trị cố định** — xác nhận chúng mỗi khi cắt tỉa. Đối với xuất khẩu, tiêu chuẩn kết nối vật lý và sạc điện (GB/T ở Trung Quốc so với tiêu chuẩn CCS/các điểm đến khác) là một câu hỏi riêng biệt, quyết định mà một tờ xuất khẩu OEM phải trả lời.
 
 ## Phần mềm, OTA và buồng lái
 
@@ -51,7 +51,7 @@ E8 được xây dựng xung quanh một màn hình lớn và hệ thống đi�
 Không có giá xuất khẩu được công bố và giá hướng dẫn nội địa là chỉ có Trung Quốc và thời gian nhạy cảm. Yêu cầu một Quotation Xuất hiện với đích đến Quốc gia, Quan chí, Preferred Trim, LHD/RHD, đích đến và Incoterntion; không thể ước lượng pin và hàng hóa.
 
 ## FAQ
-** dải thiên hà E8 là bao nhiêu? ♪ ♪**
+Thiên hà E8 có phạm vi nào?
 
 Chinese-market CLTC ranges run across 575/610/620/700 km depending on battery  and  Lái xe; bản đồ chính xác là cắt tỉa cụ thể và phải được xác nhận trên mỗi SKU — CLTC không phải là WLPP.
 

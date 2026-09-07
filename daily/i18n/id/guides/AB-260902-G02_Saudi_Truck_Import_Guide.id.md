@@ -3,7 +3,7 @@
 - ** Judul SEO **: Impor Truk Cina ke Arab Saudi: HS-Pertama SABER & ZATCA Guide
 - ** Meta Description **: Rute truk komersial Cina ke Arab Saudi urutan yang benar - kode HS tepat (87.01/87.04/87.05/8716), peraturan teknis SABER yang berlaku pada kode itu, tipe sertifikat yang dibutuhkan, kemudian Fasah pabean; ditambah ZATCA ringan vs perbedaan truk.
 - ** Sugested URL **: guide import- chinese- truck-saudi- saso
-- ♪ ♪ H1 **: Membersihkan sebuah Truk Komersial Cina ke Arab Saudi: Mulai dari HS Code, Bukan Dari Proses Generik
+-   H1 **: Membersihkan sebuah Truk Komersial Cina ke Arab Saudi: Mulai dari HS Code, Bukan Dari Proses Generik
 - ** Primary Keyword **: impor truk komersial Cina Arab Saudi HS kode SABER ZATCA
 - ** Akhir Pencarian Second **: Peraturan teknis SABER oleh HS, SASO tipe sertifikat truk 8701 8704 8705, Arab ZATCA tariff kendaraan komersial, Fasah bea cukai Saudi, Sertifikasi truk LHD LCC, kendaraan SABER SCoC
 - ** Internal Link Sugestions **: kendaraan shacman - x3000-dump-truck/; kendaraan sinotruk- holo- t7h-tractor/; pemandu komersil-truk -bulu-procuredansi-china
@@ -99,7 +99,7 @@ Apa Saudi berhenti menerima CE ECE untuk truk berat di 2026? Dealer mengklaim ko
 | HS heading 87.01/87.04/87.05/8716 | Organisasi Bea Cukai Dunia HS nomenklatur (** standar tubuh **) | Global | https://www.wcoomd.org/ (HS Nomenklature) | 2026-09-03 | ** terselubung ** | Commercial- kendaraan yang menuju batas yang digunakan untuk HS-routing pertama |
 | Dilaporkan SASO 2026 local- truk aturan persetujuan (konflik tanggal) | SHACMAN Global (dealer) | SA | https://www.globalshacman.com/Saudi-Truck-Imports-Face-New-SASO-Local-Approval-Rule.html | 2026-09-03 | UNVERIFIED | Klaim saja; daftar jam, bukan fakta |
 | Dilaporkan mandat ISO 22513-2/RDI | Sinottrack Exp (dealer) | SA | https://www.sinotruckexp.com/news/policy/Policy_Regulations/Saudi_SASO_Mandates_ISO_22513_2_RDI_for_Heavy_Trucks_from_Aug_2026.html | 2026-09-03 | UNVERIFIED | Klaim saja; daftar jam, bukan fakta |
-* Percaya diri dan catatan lingkup (PRIMARY _ SOURCE _ SCOPE _ MUST _ MATCH): sumber resmi mencakup hanya lingkup yang dinyatakan. Model PCOC SCoC SABER adalah VERIFIED untuk produk yang diatur tetapi tidak diasumsikan seragam di seluruh bidang kendaraan HS; ZATCA 5% 15% terbatas pada lingkup kendaraan dan bukan tariff CINTA-truk. Pemetaan sertifikat HS (= HS) regulasi (= HS) untuk truk tertentu harus dikonfirmasi secara tertulis oleh tubuh Saudi yang terakreditasi. 2026 local- persetujuan RDI ADAS kecepatan-jalur karbon klaim tetap Tidak bisa di vervisi. ♪
+* Keyakinan & catatan lingkup (PRIMARY _ SOURCE _ SCOPE _ MUST _ MATCH): sumber resmi mencakup hanya lingkup yang dinyatakan. SABER apos; s PCoC / SCoC model adalah VERIFIED untuk produk diatur tetapi tidak diasumsikan seragam di seluruh komersial - kendaraan HS-baris; ZATCA 5% / 15% terbatas pada lingkup kendaraan dan bukan CINSES - perusahaan-truk tariff. HS untuk peraturan pemetaan sertifikat untuk truk tertentu harus dikonfirmasi secara tertulis oleh tubuh Saudi terakreditasi. 2026 local- persetujuan / RDI / ADAS / fast-track / karbon klaim tetap UNVERIFIED. ♪
 ## Editorial Review
 - *** Penulis Penilik **: [AutoBridge Ekspor Editorial Tim] penulis
 - ** Terakhir ditinjau **: 2026-09-05

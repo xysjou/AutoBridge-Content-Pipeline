@@ -15,8 +15,8 @@ Bên xuất nhập khẩu liên tục điều trị **one tài liệu như thể
 
 ## Cấp 1 — Type Approval (kiểu xe được chấp thuận)
 Kiểu tán thành cho thấy kiểu **vehic/ System** đáp ứng yêu cầu của thị trường. Nó xảy ra ở cấp độ mô hình và là một điều kiện trước cho các tài liệu trên mỗi ve:
-- **EU — Cả xe hơi đều được chấp thuận (WVTA): ** Bắt buộc toàn bộ thị trường thị trường, Được mô tả bởi các nhà cung cấp chứng thực dựa trên **Regation (EU) **,  which applied fully from 1 September 2020  and  Thay thế Chỉ thị 2007/46/EC; Một sự chấp thuận được công nhận trên khắp các bang hội viên. Xác định văn bản đã thống nhất hiện thời và bất kỳ tác động nào lên EUR-Lex trước khi dựa vào ngày tháng hoặc phạm vi. ♪ 2018/858
-- **EAAU — OTTS EAC:** dành cho Liên minh kinh tế Á Âu, toàn bộ xe cộ đòi hỏi sự chấp thuận kiểu **OTTS (hoặc EAC)** dưới **TR 018/2011 "Trên an toàn của xe đẩy,"** và một người đại diện được cho phép trong Liên Minh** thường là người đại diện. Xác nhận văn bản kỹ thuật và luật đại diện hiện tại với ủy ban EAEU. ♪
+- **EU — Cả xe hơi đều được chấp thuận (WVTA): ** Bắt buộc toàn bộ thị trường thị trường, Được mô tả bởi các nhà cung cấp chứng thực dựa trên **Regation (EU) **,  which applied fully from 1 September 2020  and  Thay thế Chỉ thị 2007/46/EC; Một sự chấp thuận được công nhận trên khắp các bang hội viên. Xác định văn bản đã thống nhất hiện thời và bất kỳ tác động nào lên EUR-Lex trước khi dựa vào ngày tháng hoặc phạm vi.  2018/858
+- **EAAU — OTTS EAC:** dành cho Liên minh kinh tế Á Âu, toàn bộ xe cộ đòi hỏi sự chấp thuận kiểu **OTTS (hoặc EAC)** dưới **TR 018/2011 "Trên an toàn của xe đẩy,"** và một người đại diện được cho phép trong Liên Minh** thường là người đại diện. Xác nhận văn bản kỹ thuật và luật đại diện hiện tại với ủy ban EAEU. 
 Sự chấp thuận kiểu như là đặc trưng thị trường: một EU WVTA không cho phép EAU truy cập, và ngược lại.
 
 ## Cấp 2 — Chứng nhận của sự hợp nhất (Đơn vị đặc biệt này khớp với kiểu được chấp nhận)
@@ -83,7 +83,7 @@ Một túi các thành phần có dấu E không** bằng nguyên một loại x
 | EU WVTA + sơ đồ FMVSS (2018/858) | Xác nhận cơ thể bên thứ ba | AI | https://m.11467.com/product/d53638850.htm | 2026-09-03 | SINGLE_SOURCE | Mô tả vai trò của OVTA/ 2018/858, CoC (thư mục) |
 | OTTS TRCU 018/2011 giải thích | Trình cung cấp dịch vụ xác thực | EAEU | https://m.11467.com/product/d21445928.htm | 2026-09-03 | ĐÃ_ ĐÃ | Bộ xem tập tin âm thanhName |
 | E-mark vs-mark bộ giải thích | Trình cung cấp dịch vụ xác thực | Toàn cục/EU | https://m.11467.com/product/d55481671.htm | 2026-09-03 | SINGLE_SOURCE | Sự phân biệt e/E-mark (phụ) |
-Trần nhà từ thiện: các dụng cụ EU/EEEU/UNECE được mô tả từ các nguồn chứng thực thư thứ hai; không có văn bản chính nào ổn định EUR-Lex/UNECE/EU được lấy. Cần phải kiểm tra ngày tháng và phạm vi để xem các đoạn chính trước khi áp dụng. Khung hình bên Trung Quốc là phần được chính thức ủng hộ. ♪
+Trần nhà từ thiện: các dụng cụ EU/ EAEU /UNECE được mô tả từ các nguồn chứng thực thứ hai; không có văn bản chính nào ổn định EUR-Lex/UNECE/ EAEU được ghi lại. Cần phải kiểm tra ngày tháng và phạm vi quy định trước khi áp dụng các đoạn chính. Khuôn khổ Trung Quốc là phần được chính thức ủng hộ. *
 
 | Quy tắc (EU) (đã gắn kết 2021-09-26) trên các loại phương tiện giao thông — WVTA; toàn bộ các hộp và các loại | EUR-Lex (cơ sở dữ liệu pháp luật chính thức) | CN | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02018R0858-20210926 | 2026-09-04 | VEII |  | 2018/858
 | Quy tắc (EU) (tiếng bản xứ), chương VI Điều 36 — Nhà sản xuất có một số báo cáo về sự kết hợp giữa các phương tiện giao thông | EUR-Lex | CN | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0858 | 2026-09-04 | VEII |  | 2018/858

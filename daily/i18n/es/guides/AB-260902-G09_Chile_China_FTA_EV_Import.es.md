@@ -89,7 +89,7 @@ Las guías genéricas mezclan reglas, propuestas y impuestos promulgados en un n
 | Jinyu Autos — 中国车进口智利指南 | Jinyu Autos(行业站) | CL | https://jinyuautos.com/blog/import-chinese-cars-to-chile/ | 2026-09-02 | SINGLE_SOURCE | 中智 TLC 0% 关税通道 |
 | huajiame — 全球汽车进口关税指南 | huajiame(行业站) | CL | https://www.huajiame.com/pl/knowledge/global-auto-import-tariff-guide | 2026-09-02 | SINGLE_SOURCE | 智利关税 6% (TLC 0%),VAT 19%, 奢侈品税 15% (con relación~$ 35k) |
 
-* Nota de confianza: el 6% de servicio general y el 19% IVA son VERIFIED en la aduana chilena; la preferencia FTA 0% es oficial pero condicional en origen. The previously included 1%/US$30 courier rule (not applicable to vehicles), un umbral de lujo-superficie no confirmado  and  se ha eliminado una tasa fija de 3CV del cuerpo fáctico; Las reglas de origen del HS y cualquier subtaxis deben ser confirmadas con la aduana chilena/SII/SUBREI. *
+* Nota de confianza: el deber general 6% y 19% IVA son VERIFIED en aduanas chilenas; la preferencia FTA 0% es oficial pero condicional en origen. La norma anteriormente incluida 1% /US$ 30 courier (no aplicable a los vehículos), un umbral de lujo-superficie no confirmado y una cuota fija 3CV se han eliminado del cuerpo fáctico; HS - reglas de origen de nivel y cualquier subtax debe ser confirmado con aduanas/SII/SUBREI chilenas. *
 ## Revisión editorial
 - **Autor/examen**: [Equipo Editorial Exportador AutoBridge](/autores/) · método por nuestro [Política editorial](/editorial-policía/)
 - **Documento revisado*: 2026-09-05

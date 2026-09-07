@@ -57,7 +57,7 @@ Der chinesische Orientierungspreis ist eine zeitkritische inländische Referenz,
 ## FAQ
 **Wie viele Sitzplätze hat der Roewe iMAX8? **
 
-The referenced Chinese model is a seven-seater in a 2+2+3 layout with two second-row captain chairs; Bestätigen Sie die genaue Trimmung.
+Das referenzierte chinesische Modell ist ein Siebensitzer in einem 2+2+3 layout with two second-row captain chairs; Bestätigen Sie die genaue Trimmung.
 
 **Wie lang ist der Radstand? **
 

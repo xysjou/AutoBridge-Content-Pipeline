@@ -101,7 +101,7 @@ Bộ sạc điện của Trung Quốc có hoạt động ở nước ngoài khô
 | Yêu cầu an toàn phương tiện điện GB 18384 (GB 18384-2025) | Nền tảng chuẩn toàn quốc SAR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VEII | Yêu cầu an toàn chức năng điện/ động cơ điện |
 | GB 18352.6-2016 với tu chính án XG1-2026 (Trung Quốc 6 ánh sáng-vehictt phóng xạ) | Bộ sinh thái học và Môi trường (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VEII | Chương trình khai thác ánh sáng ở Trung Quốc 6 và 2026 ngày thực hiện sửa đổi |
 
-*Brigidence lưu ý: kích thước và bước phạm vi được kiểm tra chéo trong hai cơ sở dữ liệu; chi tiết động cơ, thời gian nạp nhanh và 2100 km yêu cầu duy nhất có thể sử dụng một nguồn/một. Không có trang OEM nào được lưu giữ ở nước ngoài, chỉ có thể tham khảo từ Trung Quốc. ♪
+Lưu ý: các chiều không gian và các bước phạm vi được kiểm tra chéo nhau qua hai cơ sở dữ liệu; chi tiết động cơ, thời gian nạp nhanh và 2100 km yêu cầu đơn mã hóa. Không có trang nước ngoài OEM được lưu giữ — chỉ được tham khảo ở Trung Quốc. *
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team_· phương pháp trên mỗi [chính sách] (/tách-chính trị/)

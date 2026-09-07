@@ -50,7 +50,7 @@ Os limites de quantidade/estado, tais como uma percentagem fixa de estado de car
 ** Qual o número da ONU é um EV de íon lítio enviado com bateria instalada?** UN3556 sob a Emenda 42-24 do IMDG (lítio-metal UN3557, sódio-ião UN3558).
 ** Ainda posso usar UN3171 ?** Apenas para os veículos de bateria húmida estreitada/escavalho de sódio-metal-ou-liga; não para veículos de lítio convencionais a partir de 2026.
 ** E se uma bateria sobressalente no mesmo recipiente?** As baterias de iões de lítio soltas utilizam UN3480 (ou UN3481 se embaladas com/contidas em equipamento), não UN3556.
-**Which UN38.3 edition applies?** The current Manual of Tests  and  Critérios  Rev.8 with Amendment 1,  tests T.1–T.8 with a test summary.
+Qual edição UN38.3 se aplica? O atual Manual of Tests and Criteria, Rev. 8 com a Emenda 1, testa T. 1–T.8 com um resumo de teste.
 
 ## Gravação de Imagens
 - IMAGEM_ASSET_PATH: nenhum protegido no repositório

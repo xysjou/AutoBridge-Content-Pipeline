@@ -92,7 +92,7 @@ Apakah 2024 CS75 PLUS sama dengan 4th-generation mobil? Tidak - generasi 4th dil
 | GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Administrasi Negara untuk Peraturan Pasar | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | TERBATAI | Baseline in- China kendaraan kondisi keamanan teknis dan garis waktu revisi saat ini |
 | GB 18352.6-2016 dengan Amandemen XG1-2026 (Cina - 6 cahaya kendaraan emisi polutan) | Kementerian Ekologi dan Lingkungan (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | TERBATAI | Cina - 6 ringkas emisi tahap dan 2026 tanggal implementasi Amandemen |
 
-* Catatan kepercayaan: mesin gearbox dan batas 4th-gen didukung oleh media resmi dan laporan tahunan Changan sendiri (VERIFIED); detail tabel-parat- pemeriksaan silang. Harga domestik dan angka generasi baru adalah waktu - sensitif. Homologasi tujuan tetap berupa pemeriksaan terpisah. ♪
+* Catatan kepercayaan: mesin / gearbox dan batas 4th-gen didukung oleh media resmi dan laporan tahunan Changan 'sendiri (VERIFIED); detail tabel-parameter- telah diperiksa. Harga domestik dan angka generasi baru adalah waktu - sensitif. Homologation Tujuan tetap pemeriksaan terpisah. ♪
 
 ## Editorial Review
 - *** Penulis Penilik **: [AutoBridge Ekspor Editorial Tim] penulis

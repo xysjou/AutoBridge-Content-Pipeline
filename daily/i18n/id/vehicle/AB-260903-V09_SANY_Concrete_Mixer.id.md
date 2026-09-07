@@ -14,7 +14,7 @@
 Truk mixer adalah kendaraan ** khusus-tujuan **: sebuah truk ** chassis ** plus rotating-drum ** superstruktur ** dengan drive hidrolik sendiri, sistem air dan peralatan debit. Spec itu oleh ** kapasitas drum yang dimiliki oleh Alachassis mesin GVW as-Axles superstruktur peralatan **, dan mengkonfirmasi seluruh kombinasi terhadap kode model homologated. Halaman ini mencakup seri SY pasar sendiri (REFERENCE MARKET: CHINA) *; Produk yang ada dan halaman model adalah sumber OEM, sementara varian listrik dilaporkan melalui media dagang.
 
 ## Garis Kapasitas Drum (keputusan pertama)
-Jalur SEAN melewati tiga band ukuran drum: ** 6–7 m engkau 8–9 m engkau 10 m ♪ (baris produk OEM). Unit referensi bernama ** SY310C-8S (V) ** membawa * 10 m gendang dan tangki air 400 L ** (OEM model halaman). Pilih ukuran drum terhadap aksis lokal undang-undang GVW - drum yang lebih besar tidak legal pada setiap sasis atau di setiap pasar.
+SANY baris spas tiga drum-band: 6–7 m engkau / 8–9 m £10 m baris produk). Referensi yang bernama unit SY310C-8S (V) membawa 10 m drums dan 400 L tangki air (OEM halaman model). Pilih ukuran drum terhadap axle- load lokal / GVW hukum - drum yang lebih besar tidak legal pada setiap chassis atau di setiap pasar.
 
 ## Opsi Mesin dan Chassis
 - Mesin referensi pada SY310C: ** daya Siny D09C5-380E3 ** (halaman model OEM).
@@ -84,7 +84,7 @@ Why spec chassis and superstructurationally? Mereka adalah produk yang berbeda -
 | GB 17691-2018 juta - tugas kendaraan diesel pencemaran emisi (China- VI) | Kementerian Ekologi dan Lingkungan (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | TERBATAI | China- VI kompresi- pengapian (berat diesel) tahap emisi untuk truk pelatih |
 | GB 19147 mobil yang diesel bahan bakar nasional standar (low-sulfur basis) | Standar nasional SAMR platform penuh teks | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | TERBATAI | Kelas bahan bakar Diesel dan sulfur dasar untuk mencocokkan desain mesin emisi di luar negeri |
 
-* Catatan kepercayaan: kapasitas drum dan merek mesin yang teralih pada halaman SOT sendiri (spesifikasi scope produk). Terpadu - detail frame dan motor BEV tunggal-sumber dan membutuhkan konfirmasi pada kode model homologasi saat ini. Tidak ada harga yang diminta. ♪
+* Konfidence mencatat: kapasitas drum dan merek mesin yang diedarkan pada SANY 's sendiri OEM halaman (scope = spesifikasi produk). Terpadu - detail frame dan BEV motor tunggal-sumber dan membutuhkan konfirmasi pada kode model homologated saat ini. Tak ada harga yang diminta. ♪
 
 ## Editorial Review
 - *** Penulis Penilik **: [AutoBridge Ekspor Editorial Tim] penulis

@@ -48,7 +48,7 @@ A reefer is really **three products in one**: ドナーシャシ、絶縁貨物�
 ユニットを決定する調達質問: 必須のセットポイントとプルダウン時間(終了〜0〜+ 5 °C対凍結- 18 °Cと超低)、スタンドアロン(エンジン)対車両駆動/コンプレッサー、デポプラグインのためのスタンバイ電気操作、および - 重要な理由 — 輸入業者のために — *ローカルサービスと冷凍のブランドのためのスペアパーツ**。
 
 ## AutoBridgeがシャーシの引用を超えて追加するもの
-リーフアの引用は、多くの場合、シャシを価格し、ボックスと冷却ユニットの漠然と残します。 The recommended method is to keep **chassis insulated box refrigeration unit as three separately specified, 別々の価格ライン**、  and  K値とユニットの温度範囲  and  スタンバイ(電気)オプション** 動作温度、  and  入金前に、**Destination Food/pharma Cold-chain Certification** と組み合わせて確認します。
+リーフアの引用は、多くの場合、シャシを価格し、ボックスと冷却ユニットの漠然と残します。 推奨方法は、 **chassis insulated box refrigeration unit as three separately specified, 別々の価格ライン**、  and  K値とユニットの温度範囲  and  スタンバイ(電気)オプション** 動作温度、  and  入金前に、**Destination Food/pharma Cold-chain Certification** と組み合わせて確認します。
 ## お支払い前の検証
 
 - シャーシ、ボックス、冷凍ユニットの「工場/コハクビルダー」スペックを別々に取得**、モデル番号付き。360cheの数字は単元です。

@@ -96,7 +96,7 @@
 | GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | مفقود | China-VI compression-ignition (heavy diesel) emission stage for trucks/coaches |
 | GB 19147 automobile diesel fuel national standard (low-sulphur basis) | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | مفقود | درجة وقود الديزل وقاعدة الكبريت لمطابقة تصميم في الخارج |
 
-* مذكرة ملاءمة: رمز نموذجي مرسَم إلى مجموعة MIIT - 410 من التقارير؛ وحدة الشعاب/المحليات/الزراعة التي تترك عمداً إلى بناة الجسم (لا توجد قيم مثبتة بصعوبة)؛ بالإضافة إلى المستبعدين الإشارة إلى السوق الصينية؛ تأكيد التصنيف القانوني للإعلان/الشهادة. ♪
+* ملاحظة: رمز نموذجي مثبت MIIT دفعة - 410 تقرير؛ وحدة الشعاب/المناطق/الزراعة التي تترك عمدا إلى مبني الجسم (لا توجد قيم مشفرة بصعوبة)؛ KR زائد مستبعد. المراجع الصينية للسوق؛ تأكيد التقييم القانوني الإعلان/الشهادة. ♪
 
 ## استعراض التحرير
 - ** Author**: AutoBridge Export Editorial Team; method per our [Editorial Policy](/editorial-policy/)

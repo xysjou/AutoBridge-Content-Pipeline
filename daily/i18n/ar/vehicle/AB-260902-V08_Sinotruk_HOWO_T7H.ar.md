@@ -60,7 +60,7 @@
 
 ## Buyer FAQ
 
-** ما الفرق بين 460  and  a 540 T7H?** Beyond power,  they can be different engine families — the 460 reference uses a Weichai WP10.5H (2100 N·m),  while the 540 uses the MAN-technology MC13 (2500 N·m); تأكيد الهندسة، وليس فقط حصان.
+** ما الفرق بين 460  )أ( 540 T7H?** Beyond power,  يمكن أن تكون عائلة محرك مختلفة — the 460 reference uses a Weichai WP10.5H (2100 N·m),  بينما 540 uses the MAN-technology MC13 (2500 N·m); تأكيد الهندسة، وليس فقط حصان.
 ** ما هي نسبة الـ 6 × 4؟ ** ويقتبس من الإنشاء المرجعي ما مجموعه 40 t كتلة إجمالية (متداخلة) رهنا بقواعد المقصد.
 ** هل يأتي مع صندوق التروس الآلي؟ ** ويستخدم المرجع 460 صينوك 12-speed طن متري؛ وتتوفر الأدلة والنسب الأخرى.
 ** هل يمكنني الحصول على اليورو السادس أم ل ن ج**؟ (ج) قائمة بخيارات بناء الصادرات من أوروبا السادس وخيارات الشبكة المحلية المحدودة؛ وتحديدها والحصول على شهادة مطابقة.
@@ -106,7 +106,7 @@
 | GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | مفقود | China-VI compression-ignition (heavy diesel) emission stage for trucks/coaches |
 | GB 19147 automobile diesel fuel national standard (low-sulphur basis) | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | مفقود | درجة وقود الديزل وقاعدة الكبريت لمطابقة تصميم في الخارج |
 
-* مذكرة مصداقية (معيار أوتوبيريدج): MC11/MC13 محرك ووزن تصدير مثقّف على القنوات الرسمية الصينية؛ رقم إعلان مفصّل هو SINGLE_ بالطبع السعر غير مكتمل و مغفل تأكد أن التصدير يبني على صحيفة (سينوك) الدولية ♪ 360che
+* مذكرة مصداقية (معيار أوتوبريدج): MC11/MC13 محركات وأثقال التصدير مثبتة في Sinotruk - القنوات الرسمية؛ و360che أرقام إعلانية مفصلة هي: SINGLE_ بالطبع السعر غير قابل للثقة ويُغفل التأكيد على أن التصدير على وجه الدقة يعتمد على صحيفة Sinotruk الدولية. ♪
 
 ## استعراض التحرير
 - ** [فريق تحرير تصدير أوتو بريدج] (/مؤلف/) - طريقة لكل [سياستنا الانتخابية]

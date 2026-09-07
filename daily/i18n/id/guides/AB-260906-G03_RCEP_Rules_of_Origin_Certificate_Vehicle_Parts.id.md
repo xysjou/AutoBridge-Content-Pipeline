@@ -57,7 +57,7 @@ Ketika sebuah pengiriman RCEP-berasal melewati sebuah parti RCEP menengah - seba
 Tugas yang benar-benar spesial untuk kendaraan tertentu atau bagian dalam pasar RCEP yang diberikan diatur oleh jadwal sekarang dan waktu - sensitif; pastikan dengan adat tujuan atau importir daripada menyatakan konsesi tetap.
 
 ## PSD
-** Apakah sertifikat asal Cina cukup untuk preferensi RCEP? ♪ ♪**
+Apakah sertifikat asal Cina cukup untuk RCEP preferensi?
 
 Sertifikat RCEP formulir dikeluarkan oleh otoritas kompeten adalah salah satu rute diterima; sebuah deklarasi peresmisi- exportir mungkin juga bekerja di mana pihak impor menerimanya.
 
@@ -65,15 +65,15 @@ Sertifikat RCEP formulir dikeluarkan oleh otoritas kompeten adalah salah satu ru
 
 Memulai masukan dari partai RCEP dapat dihitung terhadap asal mula barang selesai di partai lain, tunduk pada aturan dan dokumentasi.
 
-** Dimana aku bisa menemukan RVC untuk kendaraan? ♪ ♪**
+Di mana saya menemukan RVC untuk kendaraan?
 
 Dalam produksi RCEP-spesifik annex aturan terhadap kode HS yang tepat - tidak ada persentase tunggal yang mencakup semua kendaraan atau bagian.
 
-** Apa itu sertifikat back-to-back? ♪ ♪**
+Apa itu sertifikat back- to-back?
 
 Sebuah re--sertifikat dikeluarkan oleh partai RCEP menengah berdasarkan bukti asli, mempertahankan asal barang split atau transisi di bawah kontrol bea cukai.
 
-Apa RCEP membuat semua kendaraan bebas? ♪ ♪
+Apakah RCEP membuat semua kendaraan gratis segera?
 
 Tidak - konsesi yang ditetas dan berbeda oleh garis partai dan tariff; verifikasi jadwal saat ini untuk tujuan.
 

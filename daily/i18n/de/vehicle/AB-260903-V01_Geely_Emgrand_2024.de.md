@@ -30,7 +30,7 @@ Bei einem ICE-Auto konzentrieren sich die Fragen des Exporteurs auf ** Motorcode
 - Länge Breite Höhe: ** 4638 1820 1460 mm **
 - Radstand: ** 2650 mm **
 - Sitze: ** 5 **
-These are China-reference dimensions for the 4th-gen car. Das 5th-generation Auto ist größer (berichtet 4815 1885 1480 mm, 2755 mm Radstand) - mischen Sie die beiden nicht auf einer Spec-Linie oder in Marketingmaterial.
+Dies sind China-Referenzdimensionen für die 4th-gen car. Das 5th-generation Auto ist größer (berichtet 4815 1885 1480 mm, 2755 mm Radstand) - mischen Sie die beiden nicht auf einer Spec-Linie oder in Marketingmaterial.
 
 ## Model-Year Boundary (halten Sie diese sichtbar)
 - **Diese Seite:** 4th Generation, Modelljahr 2024.
@@ -51,7 +51,7 @@ Es wird kein statischer Ausfuhrpreis veröffentlicht. Die ungefähr RMB 69, 900 
 **Ist der 2024 Emgrand der gleiche wie der neueste Emgrand?** Nein - das 4th-generation 2024 Auto  and  the all-new 5th generation (China, Nov 2025) in der Größe unterscheiden, Radstand  and  Preisgestaltung; Bestätigen Sie, zu welcher Generation eine VIN gehört.
 **Does the Emgrand come with automatic transmission?** The Chinese line offers a CVT alongside a 5-speed manual; Geben Sie an, welche auf der Bestellung.
 **Is a China-6 car automatically Euro-certified?** No — China emission approval  and  die Bestimmungstypgenehmigung ist ein unterschiedliches Verfahren; die erforderliche CoC/Genehmigung für den Einfuhrmarkt bestätigen.
-**How powerful is the 1.5L engine?** 93 kW (about 127 PS) with 127 N·m on the Chinese reference sheet; Überprüfen Sie die genaue Trimm.
+** Wie mächtig ist die 1.5L Motor?** 93 kW (ca. 127 PS) mit 127 N·m über die chinesisches Referenzblatt; Überprüfen Sie die genaue Trimm.
 
 ## Bildaufzeichnung
 - IMAGE_ASSET_PATH: keine gesicherte Datei

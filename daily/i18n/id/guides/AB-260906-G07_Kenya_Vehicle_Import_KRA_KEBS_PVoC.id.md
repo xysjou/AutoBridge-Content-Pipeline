@@ -2,7 +2,7 @@
 ## SEO Metadata
 - ** Judul SEO **: Kenya Kendaraan Impor: Cukai KRA Duties dan Panduan KEBS PVoC
 - ** Meta Description **: Panduan khusus negara untuk mengimpor kendaraan ke Kenya: prosedur adat KRA dan pajak, verifikasi ekspor KeBS atas konformitas (PVoC), dan bagaimana aturan peralihan mobil-umur diterbitkan.
-- ♪ ♪ H1 **: Mengimpor Kendaraan ke Kenya: Bea Cukai KRA, KEBS PVoC dan Jalan Standards**
+-   H1 **: Mengimpor Kendaraan ke Kenya: Bea Cukai KRA, KEBS PVoC dan Jalan Standards**
 - ** Primary Keyword **: Kenya kendaraan impor KRA KEBS PVoC
 - ** Akhir Pencarian Second **: Kenya Kendaraan impor KRA; KEBS PVoC kendaraan motor; impor standardisasi mark Kenya; Kenya menggunakan aturan usia mobil; Kenya impor deklarasi
 - **Suggested URL**: /guides/kenya-vehicle-import-kra-kebs-pvoc/
@@ -60,7 +60,7 @@ Kenya mengontrol usia kendaraan yang diimpor, dan KRA mempublikasikan pembuatan 
 
 PVoC adalah program ekspor pra-ekspor yang dilakukan di negara ekspor oleh agen yang ditunjuk KEBS; COC kemudian mendukung izin Kenya.
 
-** Apakah tugas impor persentase tunggal? ♪ ♪**
+Apakah tugas impor persentase tunggal?
 
 Tidak - KRA menerapkan tugas plus excise, VAT, impor deklarasi dan tangga kereta api yang bervariasi oleh HS, mesin dan usia; gunakan angka KRA saat ini.
 
@@ -72,7 +72,7 @@ Apa itu ISM? ****
 
 Impor Standardisasi Mark mengeluarkan panduan dari KEBS untuk impor yang diarahkan melalui program PVoC yang bisa diterapkan.
 
-** Bisakah eksportir membersihkan mobil langsung? ♪ ♪**
+Bisakah eksportir membersihkan mobil langsung?
 
 Agen pembersih Kenya yang berlisensi biasanya masuk ke dalam bea cukai untuk importir catatan; persediaan ekspor yang mengkonfigurasi dokumen dan COC.
 

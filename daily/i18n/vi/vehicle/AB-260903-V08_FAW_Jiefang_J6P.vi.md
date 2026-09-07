@@ -36,7 +36,7 @@ J6P cung cấp nhiều biến thể taxi (ngày/ngày, mái nhà, cho công vi�
 Các động cơ diesel Trung Quốc sử dụng EGR+DOC+DF+SCR và yêu cầu **ultra-low-sulphur diesel và ibur (AdBlue)**. Trước khi xuất khẩu, xác nhận (a) mức nhiên liệu lưu huỳnh đích hỗ trợ hệ thống điều trị sau khi điều trị, (b) cho dù Trung Quốc-VI được chấp nhận hay một khu vực phân bổ khác là cần thiết, và (c) điều kiện tái tạo trong khí hậu hoạt động. Một máy kéo Trung Quốc-VI không thể đơn giản là "bị " kỷ luật" mà không có cơ sở kỹ thuật/ ban thưởng.
 
 ## Những người nhập đề nên kiểm tra trước khi thanh toán
-1. **Exact model mã cractor (CA6DM2 so với CA6DM3), năng lượng, giai đoạn phát ra. ♪ ♪
+1. Nguyên tắc mô hình cho động cơ (CA6DM2 đối với CA6DM3), năng lượng, giai đoạn phát ra.
 2. **Dive cha trí và đánh giá GCW** trên chứng nhận, tỷ lệ trục và đình chỉ.
 3. **Gearbox model và AMT/manal**, casps and PTO need.
 4. **Fuel syel BKm/DPF** tương thích và được chấp thuận kiểu đích.
@@ -91,7 +91,7 @@ Có thể dùng loại xe máy kéo nào chạy được không? Nó cần dầu
 | GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Bộ sinh thái học và Môi trường (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VEII | Kích hoạt năng lượng từ Trung Quốc (cơ chế nén nặng) cho xe tải/coaches |
 | GB 19147 nhiên liệu dầu diesel quốc gia tiêu chuẩn (cơ sở chậm-sur) | Nền tảng chuẩn toàn quốc SAR | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VEII | Chất đốt tổng hợp và chất lưu huỳnh khớp với thiết kế của động cơ/phát ra ở nước ngoài |
 
-* Tin tưởng ghi chú: Không có tờ thông tin sơ bộ nào của FAW bị lấy; Máy 460 được kiểm tra chéo (CROSS_CCHCKD), Trong 13 L 560 PS  and  - 40 t GCW là nguồn đơn  and  Bị ràng buộc với mã đồng nhất. Điều trị sau khi điều trị ở Trung Quốc là kiểm tra kỹ thuật/ ban công, không giả định. ♪
+* Ca ngợi: không có ma trận chính FAW Giấy tờ đã bị ghi; Máy 460 là Kiểm tra chéo. trong 13 L 560 PS và ~ 40 t GCW là một nguồn riêng và ràng buộc với Mô hình bị đồng hóa. Tương thích với điều trị sau khi điều trị ở Trung Quốc là Kiểm tra kĩ thuật/ ban công, không giả định. *
 
 ## Xem lại tập tin
 - **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)

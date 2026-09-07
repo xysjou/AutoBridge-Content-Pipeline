@@ -13,7 +13,7 @@
 
 ## Papel e alinhamento
 
-O Delong (德龙) X3000 é o volume de Shacman ** plataforma pesada de descarga tipper**, exportado amplamente em toda a África, Oriente Médio e mercados de língua russa. The reference China build is the **430 PS 8×4 with a 7.6 m body, anúncio SX33105C406B **; a família também abrange 6 × 4/8 × 4  and  roughly 375–550 PS, com a China V/China VI  and  emissões inferiores (por exemplo, Euro II) constrói-se em coexistir para diferentes mercados de destino. An official **400 PS 6×4 export** version is confirmed by Shacman. Os números pormenorizados do anúncio da China provêm de (fonte única onde marcado); As avaliações das exportações são oficiais. 360che
+O Delong (德龙) X3000 é o volume de Shacman ** pesado plataforma de descarga/fator de pressão**, exportadas em larga escala em África, o Médio Oriente e Mercados de língua russa. A China de referência é o ** 430 PS 8 × 4 com 7.6 m corpo, anúncio SX33105C406B **; a família também se estende 6 × 4/8 × 4 e aproximadamente 375–550 PS, com a China V/China VI e emissões inferiores (por exemplo, Euro II) Para diferentes mercados de destino. Um funcionário ** 400 PS 6 × 4 exportação** confirmado por Shacman. Números de anúncio detalhados da China provêm de 360che (fonte única Quando marcado; As avaliações das exportações são oficiais.
 
 ## Construção de referência: 430 PS 8 × 4 (China)
 
@@ -42,7 +42,7 @@ Ao encomendar, combine potência com o sufixo do modelo de motor e fase de emiss
 X3000 lixeiras são deliberadamente oferecidas em ** China V, China VI e calibrações de baixo espectro (Euro II-classe)** porque a qualidade do combustível de destino e as regras de importação diferem muito. Um motor de alta qualidade ligado a combustível de alto teor de enxofre pode falhar precocemente; um sistema de emissões demasiado especificado pode não ser útil localmente. Especificar o nível de emissão que o destino realmente requer e que o seu combustível suporta - e obter o correspondente motor certificado de emissão em vez de aceitar uma descrição genérica " X3000 ".
 
 ## O que AutoBridge adiciona além de um cartão Spec caminhão
-As citações de caminhão de descarga normalmente borram o motor de exportação oficial ** 400 PS** e a construção de anúncio ** 430 PS da China. Este guia recomenda a fixação do código do motor ** exato  and  fase de emissão do certificado VIN/anunciado**, correspondente à proporção de ** axle  and  12.00R20 pneu/rim escolha para a classe de transporte**,  and  que especifica a classe ** de aço de leito, volume  and  lift system in an inspectable annex** — guarding against substitution of a weaker 8×4 build that still carries the X3000 name.
+As citações de caminhão de descarga normalmente borram o motor de exportação oficial ** 400 PS** e a construção de anúncio ** 430 PS da China. Este guia recomenda a fixação do código do motor ** exato  and  fase de emissão do certificado VIN/anunciado**, correspondente à proporção de ** axle  and  12.00R20 pneu/rim escolha para a classe de transporte**,  e que especifica a classe ** de aço de leito, sistema de volume e elevador num anexo inspeccionável** — protecção contra a substituição de um fraco 8×4 construir que ainda carrega o X3000 name.
 ## Tipping e cheques de chassis para compradores
 
 - ** Corpo e hidráulica**: confirmar o comprimento do corpo (com referência de 7.6 m), altura lateral/aeronáutica, grau de aço, ponta traseira vs ponta lateral, e a marca/capacidade hidráulica do guincho; os corpos são frequentemente construídos para encomendar.

@@ -3,7 +3,7 @@
 - ** Judul SEO **: EV Ekspor Dokumen Penelusuran Di bawah IMDG 42-24: UN3556 Paperwork & Carrier Cek
 - ** Meta Description **: Bagaimana kendaraan baterai lithium diklasifikasikan untuk angkutan laut di bawah Amandemen IMDG 42-24 (UN3556/3557/3558; waritas UN3171 transisi berakhir), SP961/SP962 jalur, UN38.3 dan SDS dokumen, dan kondisi pemesanan spesifik.
 - ** Sugested URL **: guide ev- shippping- un3171-imdg-compliance/
-- ♪ ♪ H1 **: Pengiriman Kendaraan listrik oleh Laut: Saat ini berbahaya - Goods Klasik, Dokumen Booking Set dan Red Lines
+-   H1 **: Pengiriman Kendaraan listrik oleh Laut: Saat ini berbahaya - Goods Klasik, Dokumen Booking Set dan Red Lines
 - ** Primary Keyword **: kendaraan listrik pengiriman un3556 imdg 42-24 dokumen
 - ** Secondary Search Terms **: UN3556 lithium ion kendaraan baterai, UN3557 lithium metal kendaraan, UN3558 kendaraan ion natrium, warisanku UN3171 transisi, SP961 SP962 kendaraan, Class 9 label 9A, Ringkasan tes UN38.3, Mobil listrik SDS pengiriman, EV SOC kebutuhan pembawa
 - ** Internal Link Sugestions **: guide evshipping- un3556-imdg-compliance/; guidance china-coastcle- exports -licents -commits -cloter- mourer- loading-lashing guighlec.-pre- exceler- -psi kendaraan byd-lumba-lumba
@@ -84,7 +84,7 @@ Apa perbedaan antara SP961 dan SP962? SP961 mencakup jalur penanganan kekuasaan 
 | Berbahaya Goods di China- UE- Routes 2026: daftar pesan pesan IMDG | Shenzhen Top Way International Meneruskan | rute CN- UAE | https://www.topwayshipping.com/dangerous-goods-on-china-uae-routes-2026-imdg-compliance-checklist-before-you-load/ | 2026-09-05 | SINGLE _ SOURCE | Aplikasi tahap booking- rute operator; carrier- spesifik SOC dokumentasi (ilustratif, bukan universal) |
 | Dokumen ekspor baterai (UN38.3/SDS/packaging cert) | Dinzhou News | CN | https://www.dzxww.cn/article/293251787800392.shtml | 2026-09-03 | SINGLE _ SOURCE | UN38.3 sel + pack, SDS, kehilangan konteks sertifikat baterai |
 | Risiko ekspor energi baru (China 2025 aturan lithium) | Analisis kepatuhan Sohu | CN | https://m.sohu.com/a/1025837015_100159475/ | 2026-09-03 | SINGLE _ SOURCE | Cina - sisi lithium transportasi persyaratan (tunggal - sumber; mengkonfirmasi teks resmi) |
-* Catatan Scope: Amandemen saat ini, UN3556/3557/3558 split dan SP961/SP962 struktur yang berlabuh ke publikasi IMO dan 42-24 operator DG-penasihat material; tingkat SOC pembawa, penerimaan terminal dan aplikasi aturan China-side adalah carrier- route- spesifik dan sensitif - konfirmasi istilah pembawa nama ini dan teks resmi untuk setiap pemesanan. ♪
+* Catatan Scope: Amandemen saat ini, UN3556/3557/3558 split dan SP961/SP962 struktur yang berlabuh ke publikasi IMO dan 42-24 operator DG-penasihat material; tingkat SOC pembawa, penerimaan terminal dan aplikasi aturan China-side adalah carrier- route- spesifik dan sensitif - konfirmasi istilah pembawa nama ini dan teks resmi untuk setiap pemesanan. 
 ## Editorial Review
 - *** Penulis Penilik **: [AutoBridge Ekspor Editorial Tim] penulis
 - ** Terakhir ditinjau **: 2026-09-05

@@ -18,8 +18,9 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "商品归类框架"
+   "official_source": true,
+   "source_scope": "商品归类框架",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "汽车CKD散件出口原产地证填制（行业流程，T4仅线索）",
@@ -34,8 +35,9 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "UNVERIFIED",
-   "official_source": "NO",
-   "source_scope": "操作线索"
+   "official_source": false,
+   "source_scope": "操作线索",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "成套散件(SKD/CKD)进口申请表说明（反向参考，T4）",
@@ -50,8 +52,9 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "UNVERIFIED",
-   "official_source": "NO",
-   "source_scope": "线索"
+   "official_source": false,
+   "source_scope": "线索",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "Harmonized System Nomenclature (WCO)",
@@ -66,9 +69,10 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "VERIFIED",
-   "official_source": "YES",
+   "official_source": true,
    "source_scope": "",
-   "added_by": "Writing AI CONTROLLED_RESEARCH_PATCH 2026-09-05"
+   "added_by": "Writing AI CONTROLLED_RESEARCH_PATCH 2026-09-05",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "WCO Origin instruments and tools",
@@ -83,9 +87,10 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "VERIFIED",
-   "official_source": "YES",
+   "official_source": true,
    "source_scope": "",
-   "added_by": "Writing AI CONTROLLED_RESEARCH_PATCH 2026-09-05"
+   "added_by": "Writing AI CONTROLLED_RESEARCH_PATCH 2026-09-05",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "WTO Agreement on Customs Valuation",
@@ -101,8 +106,9 @@
    ],
    "checked_date": "2026-09-06",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "Customs valuation framework relevant when knockdown kits and assembled units are valued differently; does not itself set destination assembly tariffs"
+   "official_source": true,
+   "source_scope": "Customs valuation framework relevant when knockdown kits and assembled units are valued differently; does not itself set destination assembly tariffs",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "WCO HS Nomenclature — classification instruments (GRI)",
@@ -118,8 +124,9 @@
    ],
    "checked_date": "2026-09-06",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "General Interpretative Rules (incl. GRI 2(a)) govern classification of unassembled/disassembled knockdown goods; deep page"
+   "official_source": true,
+   "source_scope": "General Interpretative Rules (incl. GRI 2(a)) govern classification of unassembled/disassembled knockdown goods; deep page",
+   "scope_match": "MATCHED"
   }
  ],
  "source_integrity_note": "政府/监管/贸促会源按实际主体与URL标注；T4 SEO仅作线索并显式UNVERIFIED，未冒充官方。",
@@ -128,5 +135,6 @@
   "added_by": "Writing AI (pre-publication repair)",
   "sources_added": 7,
   "note": "Distinct primary/international organizations added 2026-09-06; all URLs HTTP-200 verified; parent-org normalization applied; no weak filler."
- }
+ },
+ "t1_only_recomputed_on": "2026-09-07"
 }

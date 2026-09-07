@@ -44,11 +44,11 @@ Những người mua xe tải nặng không liệt kê các thiết bị mua hà
 5. **HS phân loại** — máy kéo rơi dưới 87.01 (trước khi có mã HS), khác với 87.04 xe cộ và 8716 xe moóc; toa xe được phân loại riêng biệt.
 
 ## Yêu cầu một trích dẫn Xuất hiện thời
-Không có giá xuất khẩu được xuất bản. Cần có **Nhà máy Quốc gia đa năng* Quân số*/ Năng lượng máy móc (465) ♫ Sổ tay/maT. Axle Tọa độ: LHD/RHD_ cong__Gh_Incotertern**.
+Không có giá xuất khẩu được xuất bản. Cần phải có quốc gia đích đến là· Quantity · Cỗ máy (465). Sổ tay/AMT_· Axle Axle A· LHD / RHD cổng· Incotertion.
 
 ## Những câu hỏi thường xuyên
 **Tại sao lại có hai hình nhân điện (343 và 337 kW)? 343 kW là điện được đánh giá cao và 337 kW điện lưới — những cơ sở đo lường khác nhau cho cùng 465 PS động cơ.
-♪ Trọng lượng tàu hỏa là bao nhiêu? ♪ Máy kéo được ghi nhận được xếp hạng với 40 t khối lượng kết hợp thô, với 25 t GVWR cho chính máy kéo.
+Trọng lượng tàu là bao nhiêu? Máy kéo được ghi nhận được xếp hạng với 40 t trọng lượng tổng hợp, với 25 t GVWR cho chính máy kéo.
 ** Tự động hay tự động? Máy 14-speed DT14 được cung cấp bằng tay  and  Mẫu AMT; chỉ định.
 **Có phải 520/560 và khí gas phiên bản cùng một xe tải?** Họ có chung gia đình taxi KL nhưng lại dùng các hệ thống khác nhau/Nuel — giữ chúng riêng biệt như những đặc điểm riêng biệt.
 
@@ -90,7 +90,7 @@ Không có giá xuất khẩu được xuất bản. Cần có **Nhà máy Quố
 | GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Bộ sinh thái học và Môi trường (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VEII | Kích hoạt năng lượng từ Trung Quốc (cơ chế nén nặng) cho xe tải/coaches |
 | GB 19147 nhiên liệu dầu diesel quốc gia tiêu chuẩn (cơ sở chậm-sur) | Nền tảng chuẩn toàn quốc SAR | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VEII | Chất đốt tổng hợp và chất lưu huỳnh khớp với thiết kế của động cơ/phát ra ở nước ngoài |
 
-*Lời thú nhận lưu ý: không có sách mỏng chính OEM; kiểm tra thương mại. Quyền lực đã đánh giá và mạng đều bị nhãn; các phiên bản khác và khí gas loại trừ. Tham khảo thị trường Trung Quốc; xác nhận trên thông báo MIT. ♪
+Ghi chú: không có sách mỏng chính OEM; kiểm tra chéo thương mại. Độ mạnh/ Mạng bị đánh dấu; các phiên bản năng lượng khác và khí gas khác bị loại trừ. Tham khảo thị trường Trung Quốc; xác nhận trên thông báo MIIT. *
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team_· phương pháp trên mỗi [chính sách] (/tách-chính trị/)

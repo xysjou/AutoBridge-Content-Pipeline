@@ -1,1 +1,94 @@
-{"article_id":"AB-260904-V06","source_count":5,"sources":[{"source_no":"SOURCE 01","source_name":"传祺E8(PHEV)上市与尺寸/三电","organization":"南方都市报(今日头条转载)","url":"http://m.toutiao.com/group/7281953819724988991/","domain":"m.toutiao.com","source_type":"industry_media","source_tier":"T3","market":"CHINA","source_scope":"E8 PHEV","facts_supported":"4920/1900/1760/2930/2.0T混动/25.57kWh/CLTC150","checked_date":"2026-09-04","authority_level":"主流媒体","official_source":"NO"},{"source_no":"SOURCE 02","source_name":"E8到店实拍 尺寸/电机/电池","organization":"有车以后(今日头条)","url":"http://m.toutiao.com/group/7282038365669982759/","domain":"m.toutiao.com","source_type":"industry_media","source_tier":"T3","market":"CHINA","source_scope":"E8 PHEV","facts_supported":"4920/1900/1760/2930/前置电机134kW/25.57kWh三元锂/CLTC150","checked_date":"2026-09-04","authority_level":"专业汽车媒体","official_source":"NO"},{"source_no":"SOURCE 03","source_name":"传祺E8 GPMA架构与车身高强钢(官方背景专题)","organization":"羊城晚报电子报PDF","url":"https://ep.ycwb.com/epaper/ycwb/resfile/2023-12-13/A11/ycwb20231213A11.pdf","domain":"ep.ycwb.com","source_type":"industry_media","source_tier":"T2","market":"CHINA","source_scope":"E8","facts_supported":"GPMA3.0 L平台/高强钢占比75%","checked_date":"2026-09-04","authority_level":"党报电子刊","official_source":"NO"},{"source_no":"SOURCE 04","source_name":"传祺E8新能源 2024款 全系参数配置","organization":"太平洋汽车车型配置","url":"https://car.pcauto.com.cn/360/s47354/r1/config.html","domain":"car.pcauto.com.cn","source_type":"structured_db","source_tier":"T2","market":"CHINA","source_scope":"E8 PHEV全系","facts_supported":"4920/1900/1760/2930/电机134kW/300N·m/发动机103kW/180N·m/25.57kWh/CLTC150/2挡DHT","checked_date":"2026-09-04","authority_level":"结构化车型数据库","official_source":"NO"},{"source_no":"SOURCE 05","source_name":"传祺E8+ 官方配置表(品牌官网)","organization":"广汽传祺(官方)","url":"https://www.gacmotor.com/configtable?id=811","domain":"www.gacmotor.com","source_type":"official_oem","source_tier":"T1","market":"CHINA","source_scope":"E8+官方配置","facts_supported":"4920×1900×1760/轴距2930/整备2175","checked_date":"2026-09-04","authority_level":"整车厂官方","official_source":"YES"}],"SOURCE_INTEGRITY_CHECK":"PASS: 每条来源均含真实URL,Organization与域名主体一致;无'品牌名无URL'情况","tier_distribution":{"T1":1,"T2":2,"T3":2,"T4":0}}
+{
+ "article_id": "AB-260904-V06",
+ "source_count": 5,
+ "sources": [
+  {
+   "source_no": "SOURCE 01",
+   "source_name": "传祺E8(PHEV)上市与尺寸/三电",
+   "organization": "南方都市报(今日头条转载)",
+   "url": "http://m.toutiao.com/group/7281953819724988991/",
+   "domain": "m.toutiao.com",
+   "source_type": "industry_media",
+   "source_tier": "T3",
+   "market": "CHINA",
+   "source_scope": "E8 PHEV",
+   "facts_supported": "4920/1900/1760/2930/2.0T混动/25.57kWh/CLTC150",
+   "checked_date": "2026-09-04",
+   "authority_level": "主流媒体",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_no": "SOURCE 02",
+   "source_name": "E8到店实拍 尺寸/电机/电池",
+   "organization": "有车以后(今日头条)",
+   "url": "http://m.toutiao.com/group/7282038365669982759/",
+   "domain": "m.toutiao.com",
+   "source_type": "industry_media",
+   "source_tier": "T3",
+   "market": "CHINA",
+   "source_scope": "E8 PHEV",
+   "facts_supported": "4920/1900/1760/2930/前置电机134kW/25.57kWh三元锂/CLTC150",
+   "checked_date": "2026-09-04",
+   "authority_level": "专业汽车媒体",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_no": "SOURCE 03",
+   "source_name": "传祺E8 GPMA架构与车身高强钢(官方背景专题)",
+   "organization": "羊城晚报电子报PDF",
+   "url": "https://ep.ycwb.com/epaper/ycwb/resfile/2023-12-13/A11/ycwb20231213A11.pdf",
+   "domain": "ep.ycwb.com",
+   "source_type": "industry_media",
+   "source_tier": "T2",
+   "market": "CHINA",
+   "source_scope": "E8",
+   "facts_supported": "GPMA3.0 L平台/高强钢占比75%",
+   "checked_date": "2026-09-04",
+   "authority_level": "党报电子刊",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_no": "SOURCE 04",
+   "source_name": "传祺E8新能源 2024款 全系参数配置",
+   "organization": "太平洋汽车车型配置",
+   "url": "https://car.pcauto.com.cn/360/s47354/r1/config.html",
+   "domain": "car.pcauto.com.cn",
+   "source_type": "structured_db",
+   "source_tier": "T2",
+   "market": "CHINA",
+   "source_scope": "E8 PHEV全系",
+   "facts_supported": "4920/1900/1760/2930/电机134kW/300N·m/发动机103kW/180N·m/25.57kWh/CLTC150/2挡DHT",
+   "checked_date": "2026-09-04",
+   "authority_level": "结构化车型数据库",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_no": "SOURCE 05",
+   "source_name": "传祺E8+ 官方配置表(品牌官网)",
+   "organization": "广汽传祺(官方)",
+   "url": "https://www.gacmotor.com/configtable?id=811",
+   "domain": "www.gacmotor.com",
+   "source_type": "official_oem",
+   "source_tier": "T1",
+   "market": "CHINA",
+   "source_scope": "E8+官方配置",
+   "facts_supported": "4920×1900×1760/轴距2930/整备2175",
+   "checked_date": "2026-09-04",
+   "authority_level": "整车厂官方",
+   "official_source": true,
+   "scope_match": "MATCHED"
+  }
+ ],
+ "SOURCE_INTEGRITY_CHECK": "PASS: 每条来源均含真实URL,Organization与域名主体一致;无'品牌名无URL'情况",
+ "tier_distribution": {
+  "T1": 1,
+  "T2": 2,
+  "T3": 2,
+  "T4": 0
+ },
+ "t1_only_recomputed_on": "2026-09-07"
+}

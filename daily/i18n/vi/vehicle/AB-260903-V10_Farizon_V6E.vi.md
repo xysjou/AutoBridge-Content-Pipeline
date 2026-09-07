@@ -17,7 +17,7 @@ Xe ngựa Xingxiang V6E là của Farizon (Tiệm thương mại-vehic) **barry-
 | Mục | V6E Tham khảo Trung Quốc |
 |---|---|
 | Máy | Wolong-ZF ** TZ185XS022 ** thường xuyên magent, ** 60 kW 220 N·m ** |
-| Tốc độ | ** 90 km/h (ít hơn một chút)* ♪ |
+| Tốc độ | ** 90 km/h (ít hơn một chút)*  |
 | Name | **6 m³** (cargo bay ~1.6 m long reference) |
 | Ngưng nạp sau | Trục cứng với **leaf  Tiến trình  Dịch vụ:** (tách đạn) |
 | Name | ** 35.2 kWh 260 km phạm vi làm việc điều chỉnh** |
@@ -31,7 +31,7 @@ Xe ngựa Xingxiang V6E là của Farizon (Tiệm thương mại-vehic) **barry-
 - Gói trích dẫn kWh **và** Phạm vi **và** phạm vi chu kỳ/ điều chỉnh cùng nhau; không bao giờ gắn số 51 kWh mới hơn vào một mã số mã nguồn VAN. Xác nhận cung cấp điện AC/DC và nạp điện giờ cho mỗi tòa nhà.
 
 ## Xuất tài liệu (thực hiện, không phải bí danh)
-Vận chuyển Trung Quốc Tin tức (một nhà xuất bản tin tức công nghiệp) báo cáo rằng trong **February 2024 một loạt đầu tiên của các xe tải V6E được xuất khẩu đến Türkiye**, được mô tả là mục nhập đầu tiên của Farizon vào thị trường đó,  in 6 m³ form. Đây là một kỷ lục về thể thao **xexport-delivery**: Nó xác nhận một tòa nhà có tiêu chuẩn châu Âu đã được vận chuyển,  but it does **not** make the Türkiye EU-spec van identical to the China 35.2/51 kWh builds — treat export configuration separately  and  yêu cầu bản thiết kế của nó.
+Vận chuyển Trung Quốc Tin tức (một nhà xuất bản tin tức công nghiệp) báo cáo rằng trong **February 2024 một loạt đầu tiên của các xe tải V6E được xuất khẩu đến Türkiye**, được mô tả là mục nhập đầu tiên của Farizon vào thị trường đó,  in 6 m³ form. Đây là một kỷ lục về thể thao **xexport-delivery**: Nó xác nhận một tòa nhà có tiêu chuẩn châu Âu đã được vận chuyển,  Nhưng nó có **not** make the TüChiếc xe giống hệt chiếc xe của Trung Quốc 35.2/51 kWh builds — treat export configuration separately  and  yêu cầu bản thiết kế của nó.
 
 ## Những người nhập đề nên kiểm tra trước khi thanh toán
 - Xác nhận sự sắp xếp xe tải chở hàng điện trên chứng nhận; dữ liệu tham chiếu Trung Quốc bị bắt không sửa chữa nó, vì vậy đừng mặc định để trước ổ đĩa để nạp đạn.
@@ -89,7 +89,7 @@ Nó dùng động cơ nào? Một chiếc xe máy Wolong-ZF TZ185XS022 liên t�
 | GB 38031 an toàn về pin (GB 38031-2025); ứng dụng kiểu mới bắt buộc từ 2026-07-01) | Nền tảng chuẩn toàn quốc SAR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VEII | Điều kiện an toàn về sự quản lý-sự trì trệ của đàn ông cho chương trình điện năng |
 | Yêu cầu an toàn phương tiện điện GB 18384 (GB 18384-2025) | Nền tảng chuẩn toàn quốc SAR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VEII | Yêu cầu an toàn chức năng điện/ động cơ điện |
 
-*Bicker bại sản xuất giấy tờ: kỷ lục xuất khẩu Türkiye là các bản báo cáo kỹ thuật CROSS_CHED (các phương tiện truyền thông công nghiệp thử nghiệm mới không phải là VERFIED — chỉ có OEM/ chính phủ/regulator/ tiêu chuẩn/formal file kỹ thuật đến VERIED); được coi là một kỷ lục phân phối, không phải là một bằng chứng mẫu. Động cơ cơ cơ/h được kiểm tra chéo; mẫu mới 51 kWh được thiết kế nhạy cảm hơn. Trung Quốc GB/T và EU-spec xây dựng được giữ riêng lẻ cho mỗi MODEL_ Luật củaSCOPE. ♪
+*Abidence lưu ý: hồ sơ xuất khẩu Türkiye là các bản báo cáo kỹ nghệ CROSS_CHCKED (các phương tiện truyền thông / công nghiệp thử nghiệm mới không phải là VERFIEED — chỉ OEM / chính phủ/regulator/ tiêu chuẩn/formal file kỹ thuật đến VERIFED); được coi là một kỷ lục phân phối, không phải là một bằng chứng mô hình. Động cơ cơ cơ/h được kiểm tra chéo; tòa nhà mới 51 kWh nhạy cảm hơn. Trung Quốc GB/T và EU-spec được giữ riêng biệt theo quy tắc MODEL_AS / SOURCE_SCOPE. *
 
 ## Xem lại tập tin
 - **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)

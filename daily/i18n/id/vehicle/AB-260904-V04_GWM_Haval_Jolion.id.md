@@ -50,7 +50,7 @@ Dimensi Cina, mesin, dan daya, terutama pada satu basis data terstruktur; memper
 Tidak ada harga ekspor yang diterbitkan dan tidak ada yang dianjurkan di sini. Request a live quotation with **Destination Country · Quantity · 1.5T or HEV Trim · LHD/RHD · Destination Port · Incoterm**.
 
 ## Pertanyaan Yang Sering Muncul
-Is the Jolion the same car as the Haval Chulian? Pada tingkat bawah nama ya - GWM sendiri catatan sejarah Chulian versi luar negeri sebagai JOLION (diluncurkan di Afrika Selatan Arab Saudi), tetapi pasar-kekuatan tertentu masih berbeda dan tidak saling tukar.
+Apakah Jolion mobil yang sama dengan Haval Chulian? Pada tingkat bawah nama ya - GWM 's sendiri sejarah catatan versi luar negeri Chulian sebagai JOLION (diluncurkan di Afrika Selatan / Arab Saudi); tetapi pasar-powertrains spesifik masih berbeda dan tidak dapat ditukar.
 Does the Jolion come as a hybrid? Di luar negeri cakupan dokumen-dokumen sebuah HHI 1.5L DHT (~ 190 PS 375 N·m); mobil referensi Cina di sini adalah sebuah turbo 1.5T - tetap mereka dalam kolom terpisah.
 ** Apa torque dan gearbox Cina 1.5T? * Kekuasaan 110 kW; yang ditangkap 210 N·m dan 7DCT adalah angka-angka pasar Australia, sehingga mereka tidak dinyatakan sebagai nilai-nilai Cina yang dikonfirmasi tertunda sumber Cina kedua.
 **Can I quote Australian cargo volume for a Chinese unit?** No — 430/1130 L is the overseas version's figure; Konfirmasikan mobil Cina secara terpisah.
@@ -94,7 +94,7 @@ Does the Jolion come as a hybrid? Di luar negeri cakupan dokumen-dokumen sebuah 
 | GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Administrasi Negara untuk Peraturan Pasar | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | TERBATAI | Baseline in- China kendaraan kondisi keamanan teknis dan garis waktu revisi saat ini |
 | GB 18352.6-2016 dengan Amandemen XG1-2026 (Cina - 6 cahaya kendaraan emisi polutan) | Kementerian Ekologi dan Lingkungan (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | TERBATAI | Cina - 6 ringkas emisi tahap dan 2026 tanggal implementasi Amandemen |
 
-* Catatan kepercayaan: RESEARCH _ CONDISIONAL. Identitas nama yang diverized oleh OEM GWM (SAME _ MODEL di tingkat dasar); nilai torsi transmisi Cina adalah BLOCK (hanya sumber Australia yang ada) dan tidak dinyatakan sebagai spesifikasi Cina; di luar negeri HEV terus ketat dipasarkan. Tidak ada harga ekspor. ♪
+* Catatan kepercayaan: RESEARCH _ CONDISIONAL. Identitas nama yang ditularkan oleh GWM OEM (SAME _ MODEL di tingkat dasar); nilai torsi / transmisi Cina adalah BLOCKED (hanya sumber Australia yang ada) dan tidak dinyatakan sebagai spesifikasi Cina; di luar negeri HEV terus ketat dipasarkan. Tidak ada harga ekspor. ♪
 
 ## Editorial Review
 - ** Penulis **: Tim Editorial Expor AutoBridge

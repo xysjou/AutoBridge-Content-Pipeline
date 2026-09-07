@@ -60,7 +60,7 @@ Các xe SUV chính thức thường được đặt hàng theo các mẻ ba lô.
 
 Starray là một bảng tên thị trường xuất khẩu; các số liệu về Starray có thể khác với các sinh vật học Trung Quốc L, do đó, hai được tham khảo thị trường từng thị trường một chứ không phải được đối xử giống hệt nhau.
 
-♪ Boyue L lớn cỡ nào? ♪
+Chiếc Boyue L lớn cỡ nào?
 
 Tham khảo thị trường Trung Hoa: 4730 × 1910 × 1710 mm, 2785 mm bánh xe, 650 L (lên đến 1610 L) không gian hàng hóa.
 
@@ -72,7 +72,7 @@ Kiểm tra chéo 1.5T (133 kW 290 N·m), 7DCT, 92-RON)  and  một chiếc 2.0T 
 
 Đường dây tham khảo của Trung Quốc là ổ quay đầu tiên.
 
-** Nó có đến từ Trung Quốc không? ♪ ♪**
+Nó có đến bằng tay phải từ Trung Quốc không?
 
 Không có RHD Phiên bản Trung Quốc- siêu thị được chứng minh ở đây; xác nhận riêng cho điểm đến RHD.
 

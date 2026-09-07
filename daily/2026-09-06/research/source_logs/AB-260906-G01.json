@@ -1,124 +1,131 @@
 {
-  "article_id": "AB-260906-G01",
-  "content_type": "PROCUREMENT_GUIDE",
-  "checked_date": "2026-09-06",
-  "source_log_version": "SL-v1-20260906",
-  "sources": [
-    {
-      "source_title": "中国出口信用保险公司官网（政策性保险公司，短期出口信用保险产品存在性）",
-      "organization": "中国出口信用保险公司",
-      "url": "https://www.sinosure.com.cn/",
-      "domain": "www.sinosure.com.cn",
-      "source_tier": "T1",
-      "source_type": "policy_insurer",
-      "source_market": "CN",
-      "source_scope": "出口信用保险",
-      "facts_supported": [
-        "短期险产品",
-        "官方身份"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "VERIFIED",
-      "official_source": "YES"
-    },
-    {
-      "source_title": "国际贸易'单一窗口'出口信用保险小微企业政府统保平台",
-      "organization": "中国国际贸易单一窗口(政府门户)",
-      "url": "https://www.singlewindow.cn/xxgk/xxgkml34/zxdt28/202209/t20220902_1550654.html",
-      "domain": "www.singlewindow.cn",
-      "source_tier": "T1",
-      "source_type": "government_platform",
-      "source_market": "CN",
-      "source_scope": "投保渠道",
-      "facts_supported": [
-        "小微统保平台",
-        "线上投保渠道"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "VERIFIED",
-      "official_source": "YES"
-    },
-    {
-      "source_title": "Short-Term Export Credit Insurance — covered commercial & political risks",
-      "organization": "China Export & Credit Insurance Corporation (SINOSURE)",
-      "parent_organization": "SINOSURE",
-      "url": "https://www.sinosure.com.cn/en/Insurance/steci/index.shtml",
-      "domain": "www.sinosure.com.cn",
-      "source_tier": "T1",
-      "source_type": "insurer_official",
-      "source_market": "CN",
-      "source_scope": "English official product page; risk categories only, no rates",
-      "facts_supported": [
-        "risk_types"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "VERIFIED",
-      "official_source": "YES",
-      "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH"
-    },
-    {
-      "source_title": "短期出口贸易险承保风险（商业风险/政治风险）",
-      "organization": "中国出口信用保险公司",
-      "parent_organization": "SINOSURE",
-      "url": "https://www.sinosure.com.cn/phjrtjy/dqckxybxjj/index.shtml",
-      "domain": "www.sinosure.com.cn",
-      "source_tier": "T1",
-      "source_type": "insurer_official",
-      "source_market": "CN",
-      "source_scope": "official CN product page",
-      "facts_supported": [
-        "risk_types"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "VERIFIED",
-      "official_source": "YES",
-      "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH"
-    },
-    {
-      "source_title": "短期出口信用保险业务手册",
-      "organization": "中华人民共和国商务部",
-      "parent_organization": "MOFCOM",
-      "url": "https://cws.mofcom.gov.cn/cms_files/oldfile//cws/202307/20230726080938373.pdf",
-      "domain": "cws.mofcom.gov.cn",
-      "source_tier": "T1",
-      "source_type": "government_handbook",
-      "source_market": "CN",
-      "source_scope": "policy handbook; credit-term framework, rates remain case-by-case",
-      "facts_supported": [
-        "insurer_role"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "VERIFIED",
-      "official_source": "YES",
-      "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH"
-    },
-    {
-      "source_title": "Chinese Export Credit Policies and Programmes",
-      "organization": "OECD",
-      "parent_organization": "OECD",
-      "url": "https://one.oecd.org/document/TAD/ECG(2015)3/en/pdf",
-      "domain": "one.oecd.org",
-      "source_tier": "T2",
-      "source_type": "international_org",
-      "source_market": "INT",
-      "source_scope": "independent international context on Sinosure ST/MLT mix",
-      "facts_supported": [
-        "insurer_role"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "CROSS_CHECKED",
-      "official_source": "NO",
-      "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH"
-    }
-  ],
-  "source_integrity_note": "目的国指南只采用主管机构官方域(itac/sars/nrcs/kra/kebs/customs.gov.ng/son)作T1并按真实SOURCE_MARKET标注；媒体/T4仅作背景或线索并显式降级，未冒充官方。",
-  "source_url_count": 6,
-  "source_org_count_normalized": 5,
-  "controlled_research_patch": {
-    "applied_by": "Writing AI",
-    "date": "2026-09-06",
-    "added_count": 4,
-    "final_url_count": 6,
-    "final_org_count_normalized": 5
+ "article_id": "AB-260906-G01",
+ "content_type": "PROCUREMENT_GUIDE",
+ "checked_date": "2026-09-06",
+ "source_log_version": "SL-v1-20260906",
+ "sources": [
+  {
+   "source_title": "中国出口信用保险公司官网（政策性保险公司，短期出口信用保险产品存在性）",
+   "organization": "中国出口信用保险公司",
+   "url": "https://www.sinosure.com.cn/",
+   "domain": "www.sinosure.com.cn",
+   "source_tier": "T1",
+   "source_type": "policy_insurer",
+   "source_market": "CN",
+   "source_scope": "出口信用保险",
+   "facts_supported": [
+    "短期险产品",
+    "官方身份"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": true,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "国际贸易'单一窗口'出口信用保险小微企业政府统保平台",
+   "organization": "中国国际贸易单一窗口(政府门户)",
+   "url": "https://www.singlewindow.cn/xxgk/xxgkml34/zxdt28/202209/t20220902_1550654.html",
+   "domain": "www.singlewindow.cn",
+   "source_tier": "T1",
+   "source_type": "government_platform",
+   "source_market": "CN",
+   "source_scope": "投保渠道",
+   "facts_supported": [
+    "小微统保平台",
+    "线上投保渠道"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": true,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "Short-Term Export Credit Insurance — covered commercial & political risks",
+   "organization": "China Export & Credit Insurance Corporation (SINOSURE)",
+   "parent_organization": "SINOSURE",
+   "url": "https://www.sinosure.com.cn/en/Insurance/steci/index.shtml",
+   "domain": "www.sinosure.com.cn",
+   "source_tier": "T1",
+   "source_type": "insurer_official",
+   "source_market": "CN",
+   "source_scope": "English official product page; risk categories only, no rates",
+   "facts_supported": [
+    "risk_types"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": true,
+   "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH",
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "短期出口贸易险承保风险（商业风险/政治风险）",
+   "organization": "中国出口信用保险公司",
+   "parent_organization": "SINOSURE",
+   "url": "https://www.sinosure.com.cn/phjrtjy/dqckxybxjj/index.shtml",
+   "domain": "www.sinosure.com.cn",
+   "source_tier": "T1",
+   "source_type": "insurer_official",
+   "source_market": "CN",
+   "source_scope": "official CN product page",
+   "facts_supported": [
+    "risk_types"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": true,
+   "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH",
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "短期出口信用保险业务手册",
+   "organization": "中华人民共和国商务部",
+   "parent_organization": "MOFCOM",
+   "url": "https://cws.mofcom.gov.cn/cms_files/oldfile//cws/202307/20230726080938373.pdf",
+   "domain": "cws.mofcom.gov.cn",
+   "source_tier": "T1",
+   "source_type": "government_handbook",
+   "source_market": "CN",
+   "source_scope": "policy handbook; credit-term framework, rates remain case-by-case",
+   "facts_supported": [
+    "insurer_role"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": true,
+   "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH",
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "Chinese Export Credit Policies and Programmes",
+   "organization": "OECD",
+   "parent_organization": "OECD",
+   "url": "https://one.oecd.org/document/TAD/ECG(2015)3/en/pdf",
+   "domain": "one.oecd.org",
+   "source_tier": "T2",
+   "source_type": "international_org",
+   "source_market": "INT",
+   "source_scope": "independent international context on Sinosure ST/MLT mix",
+   "facts_supported": [
+    "insurer_role"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "CROSS_CHECKED",
+   "official_source": false,
+   "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH",
+   "scope_match": "CONTEXT_ONLY"
   }
+ ],
+ "source_integrity_note": "目的国指南只采用主管机构官方域(itac/sars/nrcs/kra/kebs/customs.gov.ng/son)作T1并按真实SOURCE_MARKET标注；媒体/T4仅作背景或线索并显式降级，未冒充官方。",
+ "source_url_count": 6,
+ "source_org_count_normalized": 5,
+ "controlled_research_patch": {
+  "applied_by": "Writing AI",
+  "date": "2026-09-06",
+  "added_count": 4,
+  "final_url_count": 6,
+  "final_org_count_normalized": 5
+ },
+ "t1_only_recomputed_on": "2026-09-07"
 }

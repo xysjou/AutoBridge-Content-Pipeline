@@ -1,1 +1,95 @@
-{"article_id":"AB-260904-V07","source_count":5,"sources":[{"source_no":"SOURCE 01","source_name":"JAC T9 Pickup 官方规格(出口官网)","organization":"JAC MOTORS 江淮出口官网","url":"https://jacen.jac.com.cn/t9-launch/specs.html","domain":"jacen.jac.com.cn","source_type":"official_oem","source_tier":"T1","market":"EXPORT","source_scope":"T9出口版官方规格","facts_supported":"5330×1965×1920/货箱1520×1590×470/轴距3110/GVW2945-3055/整备1945-2055/Payload1000kg","checked_date":"2026-09-04","authority_level":"整车厂出口官方","official_source":"YES"},{"source_no":"SOURCE 02","source_name":"悍途(海外T9)动力总成与换代","organization":"搜狐汽车","url":"https://www.sohu.com/a/1068531202_122480923","domain":"www.sohu.com","source_type":"industry_media","source_tier":"T3","market":"CHINA/出口","source_scope":"2.0T柴油版","facts_supported":"125kW/410N·m/ZF8AT/综合油耗7.6L","checked_date":"2026-09-04","authority_level":"专业汽车媒体","official_source":"NO"},{"source_no":"SOURCE 03","source_name":"悍途标轴/长轴车身与货箱尺寸","organization":"汽车之家·车家号","url":"https://chejiahao.m.autohome.com.cn/info/6777343","domain":"chejiahao.m.autohome.com.cn","source_type":"structured_db","source_tier":"T2","market":"CHINA","source_scope":"标轴/长轴","facts_supported":"标轴5330/1965/1920/3110;长轴5620//3400;货箱1520/1590/470","checked_date":"2026-09-04","authority_level":"结构化车型数据库","official_source":"NO"},{"source_no":"SOURCE 04","source_name":"帅铃T9申报尺寸(长货厢)","organization":"太平洋汽车","url":"http://m.pcauto.com.cn/x/2947/29474511.html","domain":"m.pcauto.com.cn","source_type":"industry_media","source_tier":"T3","market":"CHINA","source_scope":"长轴","facts_supported":"5620/1965/1920/3400","checked_date":"2026-09-04","authority_level":"专业汽车媒体","official_source":"NO"},{"source_no":"SOURCE 05","source_name":"全新悍途 产品配置表(中国皮卡官网)","organization":"江淮皮卡(官方)","url":"https://pickup.jac.com.cn/qxht/index.html","domain":"pickup.jac.com.cn","source_type":"official_oem","source_tier":"T1","market":"CHINA","source_scope":"悍途中国版","facts_supported":"驱动形式/变速箱/悍途PHEV与燃油配置表","checked_date":"2026-09-04","authority_level":"整车厂中国官方","official_source":"YES"}],"SOURCE_INTEGRITY_CHECK":"PASS: 每条来源均含真实URL,Organization与域名主体一致;核心法规/标准均为T1官方一手源,弱源仅作线索不作核心依据","tier_distribution":{"T1":2,"T2":1,"T3":2,"T4":0},"final_cleanup_2026_09_04":"FINAL_CLEANUP:jacen=EXPORT T1/pickup.jac=CHINA T1/chejiahao=CHINA T2/sohu,pcauto=CHINA T3;出口Primary不把CHINA Fact升VERIFIED,出口OEM+中国T2一致=CROSS_CHECKED;towing3500kg标注EXPORT"}
+{
+ "article_id": "AB-260904-V07",
+ "source_count": 5,
+ "sources": [
+  {
+   "source_no": "SOURCE 01",
+   "source_name": "JAC T9 Pickup 官方规格(出口官网)",
+   "organization": "JAC MOTORS 江淮出口官网",
+   "url": "https://jacen.jac.com.cn/t9-launch/specs.html",
+   "domain": "jacen.jac.com.cn",
+   "source_type": "official_oem",
+   "source_tier": "T1",
+   "market": "EXPORT",
+   "source_scope": "T9出口版官方规格",
+   "facts_supported": "5330×1965×1920/货箱1520×1590×470/轴距3110/GVW2945-3055/整备1945-2055/Payload1000kg",
+   "checked_date": "2026-09-04",
+   "authority_level": "整车厂出口官方",
+   "official_source": true,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_no": "SOURCE 02",
+   "source_name": "悍途(海外T9)动力总成与换代",
+   "organization": "搜狐汽车",
+   "url": "https://www.sohu.com/a/1068531202_122480923",
+   "domain": "www.sohu.com",
+   "source_type": "industry_media",
+   "source_tier": "T3",
+   "market": "CHINA/出口",
+   "source_scope": "2.0T柴油版",
+   "facts_supported": "125kW/410N·m/ZF8AT/综合油耗7.6L",
+   "checked_date": "2026-09-04",
+   "authority_level": "专业汽车媒体",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_no": "SOURCE 03",
+   "source_name": "悍途标轴/长轴车身与货箱尺寸",
+   "organization": "汽车之家·车家号",
+   "url": "https://chejiahao.m.autohome.com.cn/info/6777343",
+   "domain": "chejiahao.m.autohome.com.cn",
+   "source_type": "structured_db",
+   "source_tier": "T2",
+   "market": "CHINA",
+   "source_scope": "标轴/长轴",
+   "facts_supported": "标轴5330/1965/1920/3110;长轴5620//3400;货箱1520/1590/470",
+   "checked_date": "2026-09-04",
+   "authority_level": "结构化车型数据库",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_no": "SOURCE 04",
+   "source_name": "帅铃T9申报尺寸(长货厢)",
+   "organization": "太平洋汽车",
+   "url": "http://m.pcauto.com.cn/x/2947/29474511.html",
+   "domain": "m.pcauto.com.cn",
+   "source_type": "industry_media",
+   "source_tier": "T3",
+   "market": "CHINA",
+   "source_scope": "长轴",
+   "facts_supported": "5620/1965/1920/3400",
+   "checked_date": "2026-09-04",
+   "authority_level": "专业汽车媒体",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_no": "SOURCE 05",
+   "source_name": "全新悍途 产品配置表(中国皮卡官网)",
+   "organization": "江淮皮卡(官方)",
+   "url": "https://pickup.jac.com.cn/qxht/index.html",
+   "domain": "pickup.jac.com.cn",
+   "source_type": "official_oem",
+   "source_tier": "T1",
+   "market": "CHINA",
+   "source_scope": "悍途中国版",
+   "facts_supported": "驱动形式/变速箱/悍途PHEV与燃油配置表",
+   "checked_date": "2026-09-04",
+   "authority_level": "整车厂中国官方",
+   "official_source": true,
+   "scope_match": "MATCHED"
+  }
+ ],
+ "SOURCE_INTEGRITY_CHECK": "PASS: 每条来源均含真实URL,Organization与域名主体一致;核心法规/标准均为T1官方一手源,弱源仅作线索不作核心依据",
+ "tier_distribution": {
+  "T1": 2,
+  "T2": 1,
+  "T3": 2,
+  "T4": 0
+ },
+ "final_cleanup_2026_09_04": "FINAL_CLEANUP:jacen=EXPORT T1/pickup.jac=CHINA T1/chejiahao=CHINA T2/sohu,pcauto=CHINA T3;出口Primary不把CHINA Fact升VERIFIED,出口OEM+中国T2一致=CROSS_CHECKED;towing3500kg标注EXPORT",
+ "t1_only_recomputed_on": "2026-09-07"
+}

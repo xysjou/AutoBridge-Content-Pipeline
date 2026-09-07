@@ -114,7 +114,7 @@ Apa perbedaan roda? 3000 mm (M5L) versus 2800 mm (M5 pendek).
 | GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Administrasi Negara untuk Peraturan Pasar | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | TERBATAI | Baseline in- China kendaraan kondisi keamanan teknis dan garis waktu revisi saat ini |
 | GB 18352.6-2016 dengan Amandemen XG1-2026 (Cina - 6 cahaya kendaraan emisi polutan) | Kementerian Ekologi dan Lingkungan (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | TERBATAI | Cina - 6 ringkas emisi tahap dan 2026 tanggal implementasi Amandemen |
 
-* Catatan kepercayaan diri (standar AutoBridge): dimensi roda kursi layout yang diVERIFIED di halaman parameter resmi Forthing; 1.5T/CNG powertrains adalah cross _ CHECLOD; bobot bajakan adalah SINGLE _ SOURCE. Payload kargo volume tidak dalam fakta dasar dan tersisa untuk lembar resmi; ekspor RHD spesifikasi tidak asserted. ♪
+* Catatan kepercayaan diri (standar AutoBridge): dimensi roda kursi layout yang diVERIFIED di halaman parameter resmi Forthing; 1.5T/CNG powertrains adalah cross _ CHECLOD; bobot bajakan adalah SINGLE _ SOURCE. Payload kargo volume tidak dalam fakta dasar dan tersisa untuk lembar resmi; ekspor RHD spesifikasi tidak asserted. 
 
 ## Editorial Review
 - *** Penulis Penilik **: [AutoBridge Ekspor Editorial Tim] penulis

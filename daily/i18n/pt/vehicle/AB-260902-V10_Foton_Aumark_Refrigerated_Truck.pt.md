@@ -66,7 +66,7 @@ Nenhum preço autorizado foi capturado — o preço do refoger varia muito com a
 
 ** Por que a carga é apenas cerca de 1.1 t em um caminhão 4.495 t?** A caixa isolada e unidade de refrigeração adicionar peso substancial da frenagem (~ 3.2 t), deixando ~ 1.1 t; sempre re-calcular carga útil para o corpo/unidade exata.
 ** O que significa "unidade independente/estatutária"? ** Tem seu próprio motor e esfria independentemente do motor do caminhão — útil para o trânsito longo e quando estacionado; unidades de veículo-condutor são mais baratas, mas parar de esfriar com o motor.
-** O que é melhor,  Yunnei or Cummins power?** The reference Jieyun uses a Yunnei 2.5 L 150 PS; the Suyun offers a Foton Cummins 2.8 L (156/163 PS) with a global service footprint — choose by service network  and  Orçamento.
+** O que é melhor,  Yunnei or Cummins power?** A referência Jieyun usa um Yunnei 2.5 L 150 PS; o Suyun oferece um Foton Cummins 2.8 L (156/163 PS) com uma pegada de serviço global — escolher por rede de serviço e Orçamento.
 ** Que temperatura pode manter? Os alvos domésticos listados Sanfeng 590 - 18 °C trabalhos congelados; set-point alcançável depende da unidade escolhida e isolamento, por isso especifique-o.
 ** Por que não é dado nenhum preço?** O custo de reffer depende fortemente da caixa e unidade de refrigeração; nenhum preço confiável 2026-09-02 foi capturado, e um não será estimado.
 

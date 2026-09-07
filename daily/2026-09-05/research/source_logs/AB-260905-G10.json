@@ -19,8 +19,9 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "TIR实施"
+   "official_source": true,
+   "source_scope": "TIR实施",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "海关总署公告2026年第2号（PDF原件）",
@@ -35,8 +36,9 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "TIR实施"
+   "official_source": true,
+   "source_scope": "TIR实施",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "海关总署公告2026年第2号（国务院公报）",
@@ -51,8 +53,9 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "TIR实施"
+   "official_source": true,
+   "source_scope": "TIR实施",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "TIR国际公路运输及服务指南（政策解读）",
@@ -67,8 +70,9 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "CROSS_CHECKED",
-   "official_source": "NO",
-   "source_scope": "背景时间线"
+   "official_source": false,
+   "source_scope": "背景时间线",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "TIR Convention, 1975 — UN Treaty Collection official text",
@@ -84,8 +88,9 @@
    ],
    "checked_date": "2026-09-06",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "Official legal text of the Customs Convention on the International Transport of Goods under Cover of TIR Carnets"
+   "official_source": true,
+   "source_scope": "Official legal text of the Customs Convention on the International Transport of Goods under Cover of TIR Carnets",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "IRU — TIR carnet system and guarantee chain",
@@ -101,8 +106,9 @@
    ],
    "checked_date": "2026-09-06",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "TIR carnet issuing federation; explains the guarantee chain and controlled operator requirements"
+   "official_source": true,
+   "source_scope": "TIR carnet issuing federation; explains the guarantee chain and controlled operator requirements",
+   "scope_match": "MATCHED"
   }
  ],
  "source_integrity_note": "政府/监管/贸促会源按实际主体与URL标注；T4 SEO仅作线索并显式UNVERIFIED，未冒充官方。",
@@ -111,5 +117,6 @@
   "added_by": "Writing AI (pre-publication repair)",
   "sources_added": 6,
   "note": "Distinct primary/international organizations added 2026-09-06; all URLs HTTP-200 verified; parent-org normalization applied; no weak filler."
- }
+ },
+ "t1_only_recomputed_on": "2026-09-07"
 }

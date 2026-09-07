@@ -55,11 +55,11 @@ This page is limited to the petrol iMAX8. Hybrid  and  pure-electric iMAX8 deriv
 6. Match VIN across all trade and shipping documents before balance payment.
 
 ## FAQ
-** كم عدد المقاعد التي يملكها رويي iMAX8؟ ♪ ♪**
+كم عدد المقاعد التي يملكها iMAX8 Roewe؟
 
-The referenced Chinese model is a seven-seater in a 2+2+3 layout with two second-row captain chairs; تأكد من الترم
+والنموذج الصيني المشار إليه عبارة عن سبعة ساحات في مخطّط يبلغ 2+2+3 مع مقعدين من الدرجة الثانية من رؤساء القبطان؛ والتأكيد على التلميح الدقيق.
 
-** كم من الوقت هي قاعدة العجلات؟ ♪ ♪**
+كم تبقى من الوقت؟
 
 3000 mm، مع وجود أبعاد خارجية حوالي 5016 × 1909 × 1782 mm (يورد أحد المصادر ارتفاعا مختلفا قليلا).
 
@@ -71,7 +71,7 @@ A 2.0T petrol (20A4E family) with an Aisin 8AT; quoted power differs by model ye
 
 لا - فقط النسخة البترولية؛ المشتقات الكهربائية هي منتجات منفصلة.
 
-** هل توجد نسخة محركة مباشرة متاحة؟ ♪ ♪**
+هل توجد نسخة متحركة مباشرة؟
 
 ولا توجد نسخة من وثيقة RHD تثبتها مصادر السوق الصينية المستخدمة هنا.
 

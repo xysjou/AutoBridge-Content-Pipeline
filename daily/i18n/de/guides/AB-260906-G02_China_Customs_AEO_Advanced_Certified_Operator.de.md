@@ -16,7 +16,7 @@ Für einen Fahrzeugexporteur, der wiederholt Schiffe liefert, ist Zollvertrauen 
 
 ## Die Kreditleiter Chinesischer Zoll gilt
 
-Registrierte Unternehmen in China werden in eine Kredithierarchie aufgenommen, die von der Allgemeinen Zollverwaltung Chinas (GACC) verwaltet wird. Das System unterscheidet vertrauenswürdigere zertifizierte Unternehmen von allgemeinen Kredit- und vertrauenswürdigeren Kategorien mit differenzierter Aufsicht. Innerhalb des zertifizierten Bandes ist **Advanced Certified Enterprise (高级认证企业)** die oberste Bezeichnung und ist Chinas AEO-Status; darunter existiert eine niedrigere zertifizierte Stufe.
+Registrierte Unternehmen in China in einem Kredithierarchie verwaltet von die allgemeine Verwaltung von Zoll von China (GACC). Das System unterscheidet vertrauenswürdigere zertifizierte Unternehmen von allgemeinen Kredit- und vertrauenswürdigeren Kategorien mit differenzierter Aufsicht. Innerhalb des zertifizierten Bandes ist Advanced Certified Enterprise (高级认证企业) die Top-Bezeichnung und ist Chinas AEO-Status; eine niedrigere zertifizierte Stufe existiert darunter.
 
 Differenziertes Management ist der Punkt der Leiter: Unternehmen mit höherem Kredit stehen vor niedrigeren Inspektionsquoten und schnelleren Verfahren, während Unternehmen mit niedrigerem Kredit strengeren Kontrollen ausgesetzt sind. Die genauen Inspektionsprozentsätze und der aktuelle detaillierte Bewertungsstandard sind zeitsensibel und müssen aus dem aktuellen veröffentlichten Standard von GACC gelesen werden, anstatt aus dem Speicher zitiert zu werden.
 

@@ -1,0 +1,39 @@
+{
+  "scope": "2026-09-02..2026-09-06",
+  "metric": "same-language full-body 5-gram Jaccard max",
+  "threshold": {
+    ">0.50": "MANUAL_REVIEW",
+    ">=0.70": "FAIL"
+  },
+  "max_by_language": {
+    "en": 0.1836,
+    "fr": 0.4317,
+    "de": 0.3994,
+    "es": 0.4201,
+    "pt": 0.4242,
+    "ja": 0.3572,
+    "ko": 0.3617,
+    "vi": 0.3836,
+    "th": 0.3736,
+    "id": 0.4166,
+    "ar": 0.3729,
+    "zh": 0.3327
+  },
+  "overall_max": 0.4317,
+  "all_pass": true,
+  "article_count_per_lang": {
+    "en": 100,
+    "fr": 100,
+    "de": 100,
+    "es": 100,
+    "pt": 100,
+    "ja": 100,
+    "ko": 100,
+    "vi": 100,
+    "th": 100,
+    "id": 100,
+    "ar": 100,
+    "zh": 100
+  },
+  "generated": "2026-09-07"
+}

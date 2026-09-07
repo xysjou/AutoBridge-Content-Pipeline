@@ -1,143 +1,151 @@
 {
-  "article_id": "AB-260906-V06",
-  "content_type": "VEHICLE_PAGE",
-  "checked_date": "2026-09-06",
-  "source_log_version": "SL-v1-20260906",
-  "sources": [
-    {
-      "source_title": "星际T90柴油（上汽π双涡轮2.0T 160kW/500N·m、采埃孚8AT、拖拽3.5t）",
-      "organization": "汽车之家·车家号",
-      "url": "https://chejiahao.m.autohome.com.cn/info/26105851?isfrom=pc",
-      "domain": "chejiahao.m.autohome.com.cn",
-      "source_tier": "T3",
-      "source_type": "database",
-      "source_market": "CHINA",
-      "source_scope": "",
-      "facts_supported": [
-        "柴油动力",
-        "8AT",
-        "拖拽"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "SINGLE_SOURCE",
-      "official_source": "NO"
-    },
-    {
-      "source_title": "星际T90标/长轴尺寸（标轴5365×1960×1845 WB3155货箱1485；长轴5680 WB3470货箱1800）",
-      "organization": "汽车之家·车家号",
-      "url": "https://chejiahao.m.autohome.com.cn/info/26202141?isfrom=pc",
-      "domain": "chejiahao.m.autohome.com.cn",
-      "source_tier": "T3",
-      "source_type": "database",
-      "source_market": "CHINA",
-      "source_scope": "",
-      "facts_supported": [
-        "尺寸",
-        "货箱",
-        "轴距"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "SINGLE_SOURCE",
-      "official_source": "NO"
-    },
-    {
-      "source_title": "上汽大通T90上市（柴油160kW/500N·m、ZF 8AT、分时/智能适时四驱）",
-      "organization": "界面新闻（今日头条镜像）",
-      "url": "http://m.toutiao.com/group/6943268020247671304/",
-      "domain": "m.toutiao.com",
-      "source_tier": "T3",
-      "source_type": "database",
-      "source_market": "CHINA",
-      "source_scope": "",
-      "facts_supported": [
-        "动力",
-        "四驱",
-        "8AT"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "SINGLE_SOURCE",
-      "official_source": "NO"
-    },
-    {
-      "source_title": "T90车身结构（非承载、接近角/离去角）",
-      "organization": "太平洋汽车百科",
-      "url": "http://m.pcauto.com.cn/x/8151/81516244.html",
-      "domain": "m.pcauto.com.cn",
-      "source_tier": "T3",
-      "source_type": "database",
-      "source_market": "CHINA",
-      "source_scope": "",
-      "facts_supported": [
-        "非承载车身",
-        "通过角"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "SINGLE_SOURCE",
-      "official_source": "NO"
-    },
-    {
-      "source_title": "MAXUS T90 Global official (diesel 160kW/500Nm, towing) — export scope",
-      "organization": "SAIC MAXUS Global",
-      "parent_organization": "SAIC_MAXUS",
-      "url": "https://en.saicmaxus.com/car/t90.shtml",
-      "domain": "en.saicmaxus.com",
-      "source_tier": "T1",
-      "source_type": "oem_official",
-      "source_market": "EXPORT",
-      "source_scope": "GLOBAL/export spec; NOT to be equated with China-market 星际T90 values",
-      "facts_supported": [
-        "identity"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "VERIFIED",
-      "official_source": "YES",
-      "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH"
-    },
-    {
-      "source_title": "上汽大通MAXUS T90 中国官方（配置/价格）",
-      "organization": "SAIC MAXUS China",
-      "parent_organization": "SAIC_MAXUS",
-      "url": "https://www.maxusmall.com/T90.shtml",
-      "domain": "www.maxusmall.com",
-      "source_tier": "T1",
-      "source_type": "oem_official",
-      "source_market": "CN",
-      "source_scope": "China-market official configs and domestic reference price",
-      "facts_supported": [
-        "engine_diesel"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "VERIFIED",
-      "official_source": "YES",
-      "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH"
-    },
-    {
-      "source_title": "道路机动车辆生产企业及产品公告（查询入口）",
-      "organization": "中华人民共和国工业和信息化部",
-      "parent_organization": "MIIT",
-      "url": "https://www.miit.gov.cn/datainfo/cpgg/",
-      "domain": "www.miit.gov.cn",
-      "source_tier": "T1",
-      "source_type": "homologation",
-      "source_market": "CN",
-      "source_scope": "verify homologated China pickup variant",
-      "facts_supported": [
-        "engine_diesel"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "VERIFIED",
-      "official_source": "YES",
-      "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH"
-    }
-  ],
-  "source_integrity_note": "卡车之家内容经今日头条镜像者按真实domain标T3、未冒称360che canonical；T4(百科/分类信息)仅作线索并显式UNVERIFIED；OEM/政府/年报为T1。",
-  "source_url_count": 7,
-  "source_org_count_normalized": 5,
-  "controlled_research_patch": {
-    "applied_by": "Writing AI",
-    "date": "2026-09-06",
-    "added_count": 3,
-    "final_url_count": 7,
-    "final_org_count_normalized": 5
+ "article_id": "AB-260906-V06",
+ "content_type": "VEHICLE_PAGE",
+ "checked_date": "2026-09-06",
+ "source_log_version": "SL-v1-20260906",
+ "sources": [
+  {
+   "source_title": "星际T90柴油（上汽π双涡轮2.0T 160kW/500N·m、采埃孚8AT、拖拽3.5t）",
+   "organization": "汽车之家·车家号",
+   "url": "https://chejiahao.m.autohome.com.cn/info/26105851?isfrom=pc",
+   "domain": "chejiahao.m.autohome.com.cn",
+   "source_tier": "T3",
+   "source_type": "database",
+   "source_market": "CHINA",
+   "source_scope": "",
+   "facts_supported": [
+    "柴油动力",
+    "8AT",
+    "拖拽"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "SINGLE_SOURCE",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "星际T90标/长轴尺寸（标轴5365×1960×1845 WB3155货箱1485；长轴5680 WB3470货箱1800）",
+   "organization": "汽车之家·车家号",
+   "url": "https://chejiahao.m.autohome.com.cn/info/26202141?isfrom=pc",
+   "domain": "chejiahao.m.autohome.com.cn",
+   "source_tier": "T3",
+   "source_type": "database",
+   "source_market": "CHINA",
+   "source_scope": "",
+   "facts_supported": [
+    "尺寸",
+    "货箱",
+    "轴距"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "SINGLE_SOURCE",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "上汽大通T90上市（柴油160kW/500N·m、ZF 8AT、分时/智能适时四驱）",
+   "organization": "界面新闻（今日头条镜像）",
+   "url": "http://m.toutiao.com/group/6943268020247671304/",
+   "domain": "m.toutiao.com",
+   "source_tier": "T3",
+   "source_type": "database",
+   "source_market": "CHINA",
+   "source_scope": "",
+   "facts_supported": [
+    "动力",
+    "四驱",
+    "8AT"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "SINGLE_SOURCE",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "T90车身结构（非承载、接近角/离去角）",
+   "organization": "太平洋汽车百科",
+   "url": "http://m.pcauto.com.cn/x/8151/81516244.html",
+   "domain": "m.pcauto.com.cn",
+   "source_tier": "T3",
+   "source_type": "database",
+   "source_market": "CHINA",
+   "source_scope": "",
+   "facts_supported": [
+    "非承载车身",
+    "通过角"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "SINGLE_SOURCE",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "MAXUS T90 Global official (diesel 160kW/500Nm, towing) — export scope",
+   "organization": "SAIC MAXUS Global",
+   "parent_organization": "SAIC_MAXUS",
+   "url": "https://en.saicmaxus.com/car/t90.shtml",
+   "domain": "en.saicmaxus.com",
+   "source_tier": "T1",
+   "source_type": "oem_official",
+   "source_market": "EXPORT",
+   "source_scope": "GLOBAL/export spec; NOT to be equated with China-market 星际T90 values",
+   "facts_supported": [
+    "identity"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": true,
+   "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH",
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "上汽大通MAXUS T90 中国官方（配置/价格）",
+   "organization": "SAIC MAXUS China",
+   "parent_organization": "SAIC_MAXUS",
+   "url": "https://www.maxusmall.com/T90.shtml",
+   "domain": "www.maxusmall.com",
+   "source_tier": "T1",
+   "source_type": "oem_official",
+   "source_market": "CN",
+   "source_scope": "China-market official configs and domestic reference price",
+   "facts_supported": [
+    "engine_diesel"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": true,
+   "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH",
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "道路机动车辆生产企业及产品公告（查询入口）",
+   "organization": "中华人民共和国工业和信息化部",
+   "parent_organization": "MIIT",
+   "url": "https://www.miit.gov.cn/datainfo/cpgg/",
+   "domain": "www.miit.gov.cn",
+   "source_tier": "T1",
+   "source_type": "homologation",
+   "source_market": "CN",
+   "source_scope": "verify homologated China pickup variant",
+   "facts_supported": [
+    "engine_diesel"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": true,
+   "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH",
+   "scope_match": "MATCHED"
   }
+ ],
+ "source_integrity_note": "卡车之家内容经今日头条镜像者按真实domain标T3、未冒称360che canonical；T4(百科/分类信息)仅作线索并显式UNVERIFIED；OEM/政府/年报为T1。",
+ "source_url_count": 7,
+ "source_org_count_normalized": 5,
+ "controlled_research_patch": {
+  "applied_by": "Writing AI",
+  "date": "2026-09-06",
+  "added_count": 3,
+  "final_url_count": 7,
+  "final_org_count_normalized": 5
+ },
+ "t1_only_recomputed_on": "2026-09-07"
 }

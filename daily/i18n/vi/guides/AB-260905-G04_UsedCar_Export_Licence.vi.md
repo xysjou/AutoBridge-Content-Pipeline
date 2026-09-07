@@ -38,7 +38,7 @@ Danh sách phi công và màn hình hệ thống hiện thời nhạy cảm vớ
 **Những thay đổi từ 2026'? Đăng ký nhanh hơn/lict thông tin thống nhất và giấy phép hành nghề; xác nhận chi tiết trong thông báo hiện tại.
 Có ngoại lệ cho các dự án nước ngoài không? Đúng vậy, một con đường có sự tranh chấp với các tài liệu của chính nó.
 * Danh sách phi công đâu? Trong thông báo mới nhất của MOFCOM/Chính phủ — không dựa vào danh sách tĩnh.
-♪ Liệu quy tắc nhập khẩu trang bìa này có đúng không? Không, đó là những thứ riêng biệt và cụ thể về quốc gia.
+Điều này bao gồm các quy tắc nhập khẩu đích đến? Không, đó là những thứ riêng biệt và cụ thể.
 
 
 ## Nguồn và Định dạng

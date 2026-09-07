@@ -1,1 +1,62 @@
-{"article_id":"AB-260904-G03","source_count":3,"sources":[{"source_no":"SOURCE 01","source_name":"海关总署令第270号 出口货物原产地证书签证管理办法(2024-09-01施行)","organization":"中华人民共和国海关总署(官方PDF)","url":"http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6011613/2024073016391092032.pdf","domain":"www.customs.gov.cn","source_type":"government","source_tier":"T1","market":"CHINA","source_scope":"全国出口原产地证签证管理","facts_supported":"适用非优惠/普惠制/区域性优惠产地证;签证机构范围;2024-09-01施行","checked_date":"2026-09-04","authority_level":"国家主管机关","official_source":"YES"},{"source_no":"SOURCE 02","source_name":"出口货物原产地证书签证管理办法(海关总署另一份官方PDF)","organization":"中华人民共和国海关总署","url":"http://www.customs.gov.cn/eportal/fileDir/customs/resource/cms/2024/07/2024073110443252720.pdf","domain":"www.customs.gov.cn","source_type":"government","source_tier":"T1","market":"CHINA","source_scope":"非优惠证定义与用途","facts_supported":"非优惠证用于最惠国待遇/双反/保障措施/政府采购/贸易统计等","checked_date":"2026-09-04","authority_level":"国家主管机关","official_source":"YES"},{"source_no":"SOURCE 03","source_name":"非优惠(一般)原产地证简介与签证机构","organization":"中国国际贸易促进委员会四川省委员会","url":"https://www.ccpit-sichuan.org/newshow.aspx?id=14630&mid=285","domain":"www.ccpit-sichuan.org","source_type":"government","source_tier":"T1","market":"CHINA","source_scope":"一般原产地证CO","facts_supported":"贸促会及授权地方分支为签证机构;办证不收费;证书真伪查询渠道","checked_date":"2026-09-04","authority_level":"官方贸促机构","official_source":"YES"}],"SOURCE_INTEGRITY_CHECK":"PASS: 每条来源均含真实URL,Organization与域名主体一致;无'品牌名无URL'情况","tier_distribution":{"T1":3,"T2":0,"T3":0,"T4":0}}
+{
+ "article_id": "AB-260904-G03",
+ "source_count": 3,
+ "sources": [
+  {
+   "source_no": "SOURCE 01",
+   "source_name": "海关总署令第270号 出口货物原产地证书签证管理办法(2024-09-01施行)",
+   "organization": "中华人民共和国海关总署(官方PDF)",
+   "url": "http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6011613/2024073016391092032.pdf",
+   "domain": "www.customs.gov.cn",
+   "source_type": "government",
+   "source_tier": "T1",
+   "market": "CHINA",
+   "source_scope": "全国出口原产地证签证管理",
+   "facts_supported": "适用非优惠/普惠制/区域性优惠产地证;签证机构范围;2024-09-01施行",
+   "checked_date": "2026-09-04",
+   "authority_level": "国家主管机关",
+   "official_source": true,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_no": "SOURCE 02",
+   "source_name": "出口货物原产地证书签证管理办法(海关总署另一份官方PDF)",
+   "organization": "中华人民共和国海关总署",
+   "url": "http://www.customs.gov.cn/eportal/fileDir/customs/resource/cms/2024/07/2024073110443252720.pdf",
+   "domain": "www.customs.gov.cn",
+   "source_type": "government",
+   "source_tier": "T1",
+   "market": "CHINA",
+   "source_scope": "非优惠证定义与用途",
+   "facts_supported": "非优惠证用于最惠国待遇/双反/保障措施/政府采购/贸易统计等",
+   "checked_date": "2026-09-04",
+   "authority_level": "国家主管机关",
+   "official_source": true,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_no": "SOURCE 03",
+   "source_name": "非优惠(一般)原产地证简介与签证机构",
+   "organization": "中国国际贸易促进委员会四川省委员会",
+   "url": "https://www.ccpit-sichuan.org/newshow.aspx?id=14630&mid=285",
+   "domain": "www.ccpit-sichuan.org",
+   "source_type": "government",
+   "source_tier": "T1",
+   "market": "CHINA",
+   "source_scope": "一般原产地证CO",
+   "facts_supported": "贸促会及授权地方分支为签证机构;办证不收费;证书真伪查询渠道",
+   "checked_date": "2026-09-04",
+   "authority_level": "官方贸促机构",
+   "official_source": true,
+   "scope_match": "MATCHED"
+  }
+ ],
+ "SOURCE_INTEGRITY_CHECK": "PASS: 每条来源均含真实URL,Organization与域名主体一致;无'品牌名无URL'情况",
+ "tier_distribution": {
+  "T1": 3,
+  "T2": 0,
+  "T3": 0,
+  "T4": 0
+ },
+ "t1_only_recomputed_on": "2026-09-07"
+}

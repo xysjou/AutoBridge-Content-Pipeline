@@ -47,7 +47,7 @@ Bao nhiêu ghế? Nó bao gồm 3–17 phiên bản; chỉ định chính xác c
 Tại sao không có đủ ISF2.8 danh sách điện? Ma trận biến thể cần khóa OEM; nó được giữ lại.
 Chiếc xe đông lạnh này là mẫu nhà máy Nó là một sự chuyển đổi/lên trên khung gầm Toano.
 **What wheelbase for a minibus?** Choose from 3070/3510/3750 mm by layout.
-♪ Những con số của GVW đâu rồi? ♪ Không bị bắt một cách đáng tin cậy; lấy được từ sự đồng tính.
+GVW con số ở đâu? Không bị bắt một cách đáng tin cậy; nhận được từ sự đồng tính.
 
 
 ## Nguồn và Định dạng

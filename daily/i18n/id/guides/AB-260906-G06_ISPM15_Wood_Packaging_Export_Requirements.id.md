@@ -6,7 +6,7 @@
 - ** Kata Kunci Primer **: ISPM 15 pengangkatan kayu untuk melakukan pembuktian ekspor
 - ** Akhir Pencarian Second **: ISPM 15 mark; IPC kayu kemasan; panas yang diobati ekspor pallet; paket kayu fumigasi MB; pengurusan pengurusan kayu Cina pengurusan pajak
 - **Suggested URL**: /guides/ippc-ispm15-wood-packaging-export/
-- ♪ Search Intent ♪ 车辆出口所用木箱 木托盘 垫木如何按 IPC num- 15 完成除害处理并加施标识 避免目的国退运
+-  Search Intent  车辆出口所用木箱 木托盘 垫木如何按 IPC num- 15 完成除害处理并加施标识 避免目的国退运
 - **Internal Link Suggestions**: /guides/rcep-rules-of-origin-certificate-vehicle-parts/, /guides/china-port-roro-vehicle-export-booking-terminal-handover/, /guides/china-port-container-vs-roro-choice/
 - ** * IPC Sugestables **: Sebuah peti ekspor yang telah diobati dengan IPC Despm- 15 mark, memegang sebuah kenderaan knocked-down
 - ** AlT Sugesti **: Ekspor peti kayu menunjukkan tanda perawatan IPC di samping komponen kendaraan yang dikemas

@@ -1,13 +1,94 @@
 {
-  "article_id": "AB-260904-G04",
-  "source_count": 5,
-  "sources": [
-    {"source_no": "SOURCE 01", "source_name": "正本提单/电放/Sea Waybill解析", "organization": "网易(商盟小百科)", "url": "https://www.163.com/dy/article/L0J4JN3F0556HN78.html", "domain": "www.163.com", "source_type": "industry_media", "source_tier": "T3", "market": "INTL", "source_scope": "提单放货方式定义", "facts_supported": "正本B/L/Telex Release/SWB流程与风险", "checked_date": "2026-09-04", "authority_level": "行业媒体", "official_source": "NO"},
-    {"source_no": "SOURCE 02", "source_name": "船东单与货代单区别", "organization": "新浪财经", "url": "https://finance.sina.com.cn/roll/2026-08-15/doc-ininkrwq1888009.shtml", "domain": "finance.sina.com.cn", "source_type": "industry_media", "source_tier": "T3", "market": "INTL", "source_scope": "MBL/HBL签发主体与换单", "facts_supported": "MBL船公司签发/HBL无船承运人签发;目的港换单可能产生费用", "checked_date": "2026-09-04", "authority_level": "财经媒体", "official_source": "NO"},
-    {"source_no": "SOURCE 03", "source_name": "海运放货方式与提单类型(主单/海运单/货代单/电放)", "organization": "顺企网(行业知识)", "url": "https://m.11467.com/product/d15253354.htm", "domain": "m.11467.com", "source_type": "seo_lead", "source_tier": "T4", "market": "INTL", "source_scope": "放货方式对比", "facts_supported": "主单具货权与运输合同属性/SWB不具货权/HBL需换单", "checked_date": "2026-09-04", "authority_level": "SEO行业资料(仅作线索,不作唯一依据)", "official_source": "NO"},
-    {"source_no": "SOURCE 04", "source_name": "四种放货方式与电放风险(南美不接受电放提示)", "organization": "网易", "url": "https://www.163.com/dy/article/K17GLBOG0556820S.html", "domain": "www.163.com", "source_type": "industry_media", "source_tier": "T3", "market": "INTL", "source_scope": "放货方式风险", "facts_supported": "电放发货人失去货权;部分国家(如部分南美)不接受电放;指示/空白提单不能电放", "checked_date": "2026-09-04", "authority_level": "行业媒体", "official_source": "NO"},
-    {"source_no": "SOURCE 05", "source_name": "《中华人民共和国海商法》(2025-10-28修订,主席令第58号,自2026-05-01施行)中国人大网全文", "organization": "全国人民代表大会常务委员会(中国人大网)", "url": "http://www.npc.gov.cn/c2/c30834/202510/t20251028_449061.html", "domain": "www.npc.gov.cn", "source_type": "law_primary", "source_tier": "T1", "market": "CHINA", "source_scope": "提单/运输单证法律性质、转让与货物交付", "facts_supported": "第80条提单转让、第81条提单以外单证、第87条交付规则、电子运输记录", "checked_date": "2026-09-04", "authority_level": "国家立法机关", "official_source": "YES"}
-  ],
-  "SOURCE_INTEGRITY_CHECK": "PASS: 每条来源均含真实URL,Organization与域名主体一致;法律性质以NPC T1为骨架,业务层差异用T3/T4线索",
-  "tier_distribution": {"T1": 1, "T2": 0, "T3": 3, "T4": 1}
+ "article_id": "AB-260904-G04",
+ "source_count": 5,
+ "sources": [
+  {
+   "source_no": "SOURCE 01",
+   "source_name": "正本提单/电放/Sea Waybill解析",
+   "organization": "网易(商盟小百科)",
+   "url": "https://www.163.com/dy/article/L0J4JN3F0556HN78.html",
+   "domain": "www.163.com",
+   "source_type": "industry_media",
+   "source_tier": "T3",
+   "market": "INTL",
+   "source_scope": "提单放货方式定义",
+   "facts_supported": "正本B/L/Telex Release/SWB流程与风险",
+   "checked_date": "2026-09-04",
+   "authority_level": "行业媒体",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_no": "SOURCE 02",
+   "source_name": "船东单与货代单区别",
+   "organization": "新浪财经",
+   "url": "https://finance.sina.com.cn/roll/2026-08-15/doc-ininkrwq1888009.shtml",
+   "domain": "finance.sina.com.cn",
+   "source_type": "industry_media",
+   "source_tier": "T3",
+   "market": "INTL",
+   "source_scope": "MBL/HBL签发主体与换单",
+   "facts_supported": "MBL船公司签发/HBL无船承运人签发;目的港换单可能产生费用",
+   "checked_date": "2026-09-04",
+   "authority_level": "财经媒体",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_no": "SOURCE 03",
+   "source_name": "海运放货方式与提单类型(主单/海运单/货代单/电放)",
+   "organization": "顺企网(行业知识)",
+   "url": "https://m.11467.com/product/d15253354.htm",
+   "domain": "m.11467.com",
+   "source_type": "seo_lead",
+   "source_tier": "T4",
+   "market": "INTL",
+   "source_scope": "放货方式对比",
+   "facts_supported": "主单具货权与运输合同属性/SWB不具货权/HBL需换单",
+   "checked_date": "2026-09-04",
+   "authority_level": "SEO行业资料(仅作线索,不作唯一依据)",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_no": "SOURCE 04",
+   "source_name": "四种放货方式与电放风险(南美不接受电放提示)",
+   "organization": "网易",
+   "url": "https://www.163.com/dy/article/K17GLBOG0556820S.html",
+   "domain": "www.163.com",
+   "source_type": "industry_media",
+   "source_tier": "T3",
+   "market": "INTL",
+   "source_scope": "放货方式风险",
+   "facts_supported": "电放发货人失去货权;部分国家(如部分南美)不接受电放;指示/空白提单不能电放",
+   "checked_date": "2026-09-04",
+   "authority_level": "行业媒体",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_no": "SOURCE 05",
+   "source_name": "《中华人民共和国海商法》(2025-10-28修订,主席令第58号,自2026-05-01施行)中国人大网全文",
+   "organization": "全国人民代表大会常务委员会(中国人大网)",
+   "url": "http://www.npc.gov.cn/c2/c30834/202510/t20251028_449061.html",
+   "domain": "www.npc.gov.cn",
+   "source_type": "law_primary",
+   "source_tier": "T1",
+   "market": "CHINA",
+   "source_scope": "提单/运输单证法律性质、转让与货物交付",
+   "facts_supported": "第80条提单转让、第81条提单以外单证、第87条交付规则、电子运输记录",
+   "checked_date": "2026-09-04",
+   "authority_level": "国家立法机关",
+   "official_source": true,
+   "scope_match": "MATCHED"
+  }
+ ],
+ "SOURCE_INTEGRITY_CHECK": "PASS: 每条来源均含真实URL,Organization与域名主体一致;法律性质以NPC T1为骨架,业务层差异用T3/T4线索",
+ "tier_distribution": {
+  "T1": 1,
+  "T2": 0,
+  "T3": 3,
+  "T4": 1
+ },
+ "t1_only_recomputed_on": "2026-09-07"
 }

@@ -49,7 +49,7 @@ J6P为长途汽车与区域工作提供多种出租车变型(日/睡,屋顶高�
 **What engine is in the J6P 460?** The Xichai CA6DM2-46E6,  an 11.05 L inline-6 China-VI diesel at about 460 PS  and  2300 N·m (英语).
 ** ** 4×2,6×4和8×4;6×4是常见的线路-乘车选择.
 ** ** AMT可选的与10–16-speed手册并列;命名精确的变速箱模型.
-**What is the GCW?** The 6×4 is in the ~40 t class, 但评定GCW取决于轴/瓦/悬浮——在证书上确认.
+**GCW号是什么??** The 6×4 这是在 ~40 t class, 但评定GCW取决于轴/瓦/悬浮——在证书上确认.
 ** 中国VI型拖拉机能开柴油机吗? ** 它需要超低硫柴油加DEF和适当的DPF条件;在订购前核实目的地燃料和排放接受度.
 
 ## 图像记录

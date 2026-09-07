@@ -24,7 +24,7 @@ Las disputas de daños en el destino casi siempre se remontan a una pregunta: ¿
 | **SOC de alta tensión de los BV** | - | **SOC no más de 50% **, mientras que conserva suficiente carga para carga/descarga/descarga; HEV: ≤¼ fuel plus SOC guidance | Höegh-specific; **not** un techo SOC global |
 | **Operabilidad** | Las unidades RoRo deben autodidactarse de forma segura (move/brake/steer); las unidades defectuosas o fugas pueden ser rechazadas | Mismo requisito de autoconducir | Carrier que recibe la regla de estas dos líneas llamadas |
 
-Estos requisitos se citan para los portadores nombrados precisamente porque **vary by line and by voyage**: un transportista chino RoRo/container u otra línea puede establecer niveles diferentes. Nunca diga "los carriers requieren X" sin nombrar al portador y revisar su guía escrita actual.
+Estos requisitos se citan a portadores nombrados precisamente porque varían por línea y por viaje: un portador chino RoRo / contenedor u otra línea puede establecer niveles diferentes. Nunca diga "los carriers requieren X" sin nombrar al portador y revisar su guía escrita actual.
 
 ## AutoBridge Lista de verificación recomendada de pre-shipment (método editorial, no obligatorio)
 A continuación se indica el **nuestro método recomendado de contratación/soporte**, ofrecido para construir un rastro de evidencia; no es un procedimiento de transporte legal o universal:

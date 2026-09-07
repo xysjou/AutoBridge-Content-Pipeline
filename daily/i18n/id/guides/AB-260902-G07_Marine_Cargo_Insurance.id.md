@@ -3,7 +3,7 @@
 - ** Seo Judul ** Asuransi Marinir untuk Mobil Impor Cina: ICC Klausul & Klaim
 - ** Meta Description **: Pastikan kendaraan Cina dalam transit laut dengan benar - Institut Cargo Clauses resmi (A) (B) (C), mengapa mobil perlu All- Risks, CIF CIP Incocerms wajib asuransi 2020, Konvensi nilai rahasia dan mengklaim bukti.
 - ** Sugesti URL **: panduan marine-cargo-asuransi-mobil-impor
-- ♪ ♪ H1 **: memastikan kendaraan Cina di Ocean Transit: Clause Tier, Sum Insured dan How a Claim Is Sebenarnya Dibayar
+-   H1 **: memastikan kendaraan Cina di Ocean Transit: Clause Tier, Sum Insured dan How a Claim Is Sebenarnya Dibayar
 - ** Primary Keyword **: marine cargo insurance diimpor ICC A B C
 - ** Akhir Pencarian Second **: Institute Klausul Cargo Sebuah risiko, LMA CL382, CIP Incooterms 2020 ICC A, ClC minimum, Hague- Visby SDR operator cap, RoRo asuransi kendaraan, EV baterai penutup laut kebakaran
 - ** Internal Link Sugestions **: guide kendaraan import- payment -tt-vs-lc guiders commercial- truck- sleet- procuredances -china guide use- china -chinese- ev-excicicicicience
@@ -92,7 +92,7 @@ Dari mana 110% berasal? Dua aturan yang terpisah: Incoterms 2020 set sampul penj
 | Asuransi Cargo Marinir | Pengiriman Apoplepaper size | GLOBAL | https://www.ascopeshipping.co.uk/marine-cargo-insurance/ | 2026-09-02 | SINGLE _ SOURCE | 一切险: 战争 罢工附加险 |
 | 中古車輸出の海上保険: 保额公式 | PLANETCARS | GLOBAL | https://planetcars.jp/index.php/ja/insurance | 2026-09-02 | SINGLE _ SOURCE | 保险金额 = CIF × 110% = 保费公式 |
 
-* Catatan kepercayaan: klausul scope numbering dan kewajiban asuransi Incoterms diVERIFIED pada bahan utama LMA ICC. Angka Hague- Visby SDR adalah ketentuan perjanjian untuk mengkonfirmasi jumlah yang diubah saat ini; tingkat premium adalah pengiriman yang per dan sengaja tidak menyatakan; penutup EV battery- kebakaran adalah politi- spesifik. ♪
+* Catatan kepercayaan: klausul scope / numbering dan kewajiban asuransi Incoterms adalah VERIFIED pada LMA / ICC bahan primer. Angka Hague- Visby SDR adalah ketentuan perjanjian untuk mengkonfirmasi untuk jumlah yang diubah saat ini; tingkat premium adalah perpengiriman dan sengaja tidak menyatakan, EV Battery- penutup kebakaran adalah politi- spesifik. ♪
 ## Editorial Review
 - *** Penulis Penilik **: [AutoBridge Ekspor Editorial Tim] penulis
 - ** Terakhir ditinjau **: 2026-09-05

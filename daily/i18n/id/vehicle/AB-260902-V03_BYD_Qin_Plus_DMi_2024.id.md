@@ -73,7 +73,7 @@ Is it sold outside? BYD mempersembahkan Qin Plus DM-i pada pemilihan di luar neg
 ## Sumber & Verifikasi
 | Judul sumber | Organisasi | Pasar | URL | Diperiksa | Percaya diri | Fakta yang didukung |
 |---|---|---|---|---|---|---|
-| BYD PLUS DM-i halaman daerah resmi (en-bh = Bahrain country site) | BYD (** produsen resmi **) | Ekspor ** Bahrain (halaman regional en-bh; bukan UAE) ** | https://www.byd.com/en-bh/car/qin-plus-dmi | 2026-09-03 | ** Tersebar (scope: ini bernama Qin Plus DM-i saja) * ♪ | 18.3 kWh pak, sampai 197 hp 145 kW, 7.3 s untuk bernama Qin Plus DM-i |
+| BYD PLUS DM-i halaman daerah resmi (en-bh = Bahrain country site) | BYD (** produsen resmi **) | Ekspor ** Bahrain (halaman regional en-bh; bukan UAE) ** | https://www.byd.com/en-bh/car/qin-plus-dmi | 2026-09-03 | ** Tersebar (scope: ini bernama Qin Plus DM-i saja) *  | 18.3 kWh pak, sampai 197 hp 145 kW, 7.3 s untuk bernama Qin Plus DM-i |
 | "Kisah Kemuliaan 55/120" | Autohome (汽车之家) | CN | http://dealer.autohome.com.cn/2116572/spec_66744.html | 2026-09-02 | _ BERDECAT | Dimensi, 1.5L 81 kW, 132 kW motor, E- CVT, jangkauan |
 | Luncurkan detail Edisi Kemuliaan | Chejiahao Autohome | CN | https://chejiahao.m.autohome.com.cn/info/18481020 | 2026-09-02 | _ BERDECAT | 145 kW 325 N·m, 18.32 kWh, kutipan kombinasi-jangkauan |
 | Qin Plus config | Xcar (爱卡) PCauto Guazi | CN | https://newcar.xcar.com.cn/m72508/config.htm | 2026-09-02 | _ BERDECAT | Berat bahu, roda, NEDC WLTC, baterai |
@@ -81,7 +81,7 @@ Is it sold outside? BYD mempersembahkan Qin Plus DM-i pada pemilihan di luar neg
 | 瓜子二手车 参数页 | 瓜子二手车 | CN | https://m.guazi.com/qichecanshu/c163518812263347.html | 2026-09-02 | SINGLE _ SOURCE | 55KM 版电池 8.32kWh、电机 132kW/316N·m、电耗 11.4 |
 | 太平洋汽车 参数页 | 太平洋汽车网 | CN | https://price.pcauto.com.cn/m126873/config.html | 2026-09-02 | SINGLE _ SOURCE | 轴距 2718mm、油耗、0-100 加速 |
 
-* Catatan kepercayaan (standar AutoBridge): output baterai-besar pak telah diVERIFIED pada Qin Plus DM-i sendiri (en-bh Bahrain); angka versi Cina tergambar adalah cross-chocked. Angka gabungan 1245 km adalah SINGLE _ SOURCE dan Cina siklus nomor gabungan. Angka luar negeri hanya digunakan dari halaman BYD yang secara eksplisit nama "Qin Plus DM-i"; tidak ada SAME _ Hubungan MODEL dengan berbagai macam PHIV BYD yang dianjurkan tanpa bukti OEM eksplisit (RELATED _ MODEL SAME _ MODEL). ♪
+* Catatan confidence (standar AutoBridge): keluaran baterai-large- baterai / pack sedang diedarkan pada BYD 's sendiri Qin Plus DM-i halaman (en-bh / Bahrain); angka versi Cina adalah CROSS _ CHECWD. Angka gabungan 1245 km adalah SINGLE _ SOURCE dan Cinese- cycle nomor gabungan. Angka luar negeri hanya digunakan dari BYD halaman yang secara eksplisit nama "Qin Plus DM-i"; tidak ada SAME _ Hubungan MODEL yang berbeda dengan yang bernama BYD PHEV dianjurkan tanpa bukti eksplisit OEM (RELATED _ MODEL ASAME _ MODEL). ♪
 ## Editorial Review
 - *** Penulis Penilik **: [AutoBridge Ekspor Editorial Tim] penulis
 - ** Terakhir ditinjau **: 2026-09-05

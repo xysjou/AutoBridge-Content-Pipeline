@@ -95,7 +95,7 @@ Làm sao mà có thể phát hiện được sự lừa đảo trên máy đo đ
 | 懂车帝 二手电车三招排除事故 泡水 调表 | 懂车帝 (视频) | CN | https://www.iesdouyin.com/share/video/7678314679869430004 | 2026-09-02 | SINGLE_SOURCE | 事故/泡水/调表排查方法、电池包护板拆装痕迹 |
 | Xe hơi của người đi bộ — 2026 二手新能源出口指南 | Jingsuncar (行业站) | CN | https://www.jingsuncar.com/news/2026-must-see-guide-for-buying-used-new-energy-85493284.html | 2026-09-02 | SINGLE_SOURCE | 出口 SOH≥80% 认证门槛（EU/东盟） |
 
-* Biểu hiện: tiêu chuẩn về pin (SOH đo lường, kiểm tra chu kỳ, hội nghị kỹ thuật 80%) là VERIEED/CROSS_CROSS chống lại cơ thể tiêu chuẩn. Trước đó "SOH  80% yêu cầu để rõ ràng EU/ASAN certaification" không có nguồn chính thức và đã bị loại bỏ: không có ngưỡng nhập khẩu hợp pháp của SOH nào tồn tại, và quyền lực của chính quyền đích đến phải được thu thập trên khắp đất nước. Xem xét video cân bằng chỉ được dùng như tham chiếu phương pháp. ♪
+* Bản tin ghi chú: những tiêu chuẩn về ắc quy định nghĩa là gì (một phép đo đạc, kiểm tra chu kỳ, một hội nghị kỹ thuật 80%) là VERIFED/CROSS_CROSS chống lại cơ thể tiêu chuẩn. Trước đó "SOH  80% yêu cầu để rõ ràng EU/ASAN certification" không có nguồn chính thức và đã bị loại bỏ: chưa có ngưỡng nhập khẩu hợp pháp nào trên toàn cầu SOH tồn tại, và quyền lực đích đến phải được thu thập trên mỗi quốc gia. Kiểm tra video sắc thái được dùng chỉ là tham chiếu phương pháp. *
 ## Xem lại tập tin
 - **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
 - **Last xem lại**: 2026-09-05

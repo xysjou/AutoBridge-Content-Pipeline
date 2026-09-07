@@ -73,7 +73,7 @@ No — es una figura combinada (electric+fuel) basada en CLTC; los rangos de CLT
 
 ¿El Fulwin A8 es igual que el A8L?
 
-No — el A8L es una variante más larga (Entendido 4790 mm)  and  must not share the A8’s specs.
+No, el A8L es una variante más larga (Entendido 4790 mm) y debe no compartir el A8 ’s Especificaciones.
 
 ¿Quién suministra la batería? ################################################################################################################################################################################################################################################################
 

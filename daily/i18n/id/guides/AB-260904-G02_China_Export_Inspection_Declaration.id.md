@@ -4,7 +4,7 @@
 - ** Judul SEO **: China Kendaraan Ekspor Inspeksi Statutaris & Deklarasi Guide (HS-by- HS)
 - ** Meta Description **: Tidak ada selimut ya tidak - menentukan kode 10-digit HS yang tepat, periksa katalog inspeksi saat ini dan kode kondisi pengawasan bea cukai, dan pisahkan pemeriksaan undang-undang dari pembeli PSI dan lisensi ekspor BEV.
 - ** Sugested URL **: guide china-export-status-- pemeriksaan -deklarasi
-- ♪ ♪ H1 Deklarasi Statutory and Bea Cukai untuk Kendaraan Terekspor: Putuskan itu oleh 10-Digit HS, bukan oleh Generalisasi
+-   H1 Deklarasi Statutory and Bea Cukai untuk Kendaraan Terekspor: Putuskan itu oleh 10-Digit HS, bukan oleh Generalisasi
 - ** Primary Keyword **: portoric expor perizinan kendaraan deklarasi bea cukai
 - ** Akhir Pencarian Second *: 法定检验 出口 目录, GACC perintah 277 deklarasi, ekspor katalog inspeksi komoditas, BEV ekspor lisensi 2026, PSI vs inspeksi undang-undang
 - ** Internal Link Sugestions **: guide mocoolled-export-hs- codefication guiler exportment-of-certification locool- docucation /.guarter coklacert-of
@@ -32,7 +32,7 @@ Per ** GaCC Order No. 277 (Provisions on the Deklarasi Impor dan Ekspor Goods) *
 |---|---|---|
 | ** Inspeksi Statutory ** | Kode dalam katalog saat ini hukum mengharuskan | - |
 | ** Buyer ketiga - partai PSI ** | Kontrak permintaan pembeli L C request | Tidak - PSI tidak pernah memenuhi sebuah patung - pemeriksaan tugas |
-| ** SIM ekspor BEV * ♪ | Mobil penumpang listrik Battery- (kode referensi 8703801090) dibawah ** ekspor-lisensi administrasi dari 2026-01-01 ** (four-kementerian pengumuman) | Tidak - lisensi dan pemeriksaan hukum adalah sistem paralel dan tidak pernah menggantikan satu sama lain |
+| ** SIM ekspor BEV *  | Mobil penumpang listrik Battery- (kode referensi 8703801090) dibawah ** ekspor-lisensi administrasi dari 2026-01-01 ** (four-kementerian pengumuman) | Tidak - lisensi dan pemeriksaan hukum adalah sistem paralel dan tidak pernah menggantikan satu sama lain |
 
 PSI yang dinominasikan adalah cek komersial, bukan ijin perundangan Cina; dan lisensi ekspor BEV adalah instrumen pemerintahan, bukan inspeksi komoditas.
 
@@ -82,7 +82,7 @@ PSI yang dinominasikan adalah cek komersial, bukan ijin perundangan Cina; dan li
 | Perintah GACC No. 277, Deklarasi Provisions | Dewan Negara Gazette | CN | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 2026-09-04 | TERBATAI (primer) | Melaksanakan dokumen, kewajiban tanda tangan |
 | Empat pengumuman kementerian di BEV passenger- ekspor mobil lisensi (ref. 8703801090, dari 2026-01-01) | MOFCOM | CN | http://www.mofcom.gov.cn/zfxxgk/gkml/art/2025/art_98e16dc3acdb47568e054d292bd9609a.html | 2026-09-04 | TIME _ ENSITIF (primer) | Keliatan vs perbedaan inspeksi |
 | GACC Notice 2025 No 138 (pre-deklarasi optimisasi aplikasi) | Rilis Bea Cukai (reposs) | CN | http://m.toutiao.com/group/7520602188638159398/ | 2026-09-04 | SINGLE _ SOURCE | Optimisasi proses |
-* Ruang penyimpanan bukti: kerangka kerja diverifikasi oleh sumber utama; hasil katalog untuk kode ten- digit tertentu harus diperiksa langsung dan tidak diregeneralisasi. ♪
+* Scope bukti: kerangka kerja diverifikasi oleh sumber primer; hasil katalog untuk kode ten- digit tertentu harus diperiksa langsung dan tidak diregeneralisasi. ♪
 
 ## Editorial Review
 - ** Penulis **: Tim Editorial Expor AutoBridge

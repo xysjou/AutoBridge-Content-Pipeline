@@ -68,7 +68,7 @@ Reefer는 종종 섀시를 가격을 인용하고 상자와 냉각 장치 vague�
 단위는 무엇을 ** 그것은 자체 엔진과 냉각 트럭 엔진의 독립적으로 - 긴 transit 및 주차 할 때 유용합니다; 차량 구동 장치는 더 저렴하지만 엔진과 냉각을 중지합니다.
 **, Yunnei 또는 Cummins 힘은 ** 참고 Jieyun은 Yunnei 2.5 L 150 PS를 사용합니다; the Suyun offers a Foton Cummins 2.8 L (156/163 PS) with a global service footprint — choose by service network  and  ...
 ** 어떤 온도가 열 수 ** 목록으로 만들어진 국내 Sanfeng 590 표적 − 18 °C 언 일; 성취할 수 있는 고정점은 선택된 단위 및 절연제에, 이렇게 그것을 지정합니다.
-**가격이 부여되지 ** Reefer 비용은 상자와 냉각 장치에 크게 달려 있습니다; 믿을 수 있는 2026-09-02 가격은 붙잡히고,  and  one will not be estimated.
+** 가격 없음 이름 * Reefer 비용은 달려 있습니다 상자에 크게 냉각 장치; 믿을 수 없는 2026-09-02 가격 캡처되었습니다. 그리고 하나는 하지 않습니다 견적 요청
 
 ## 이미지 기록
 - IMAGE_ASSET_PATH: 저장소에 보안되지 않음

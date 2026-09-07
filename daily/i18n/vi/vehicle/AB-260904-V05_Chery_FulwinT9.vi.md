@@ -93,7 +93,7 @@ Bộ ắc quy nào mà xa xôi T9 dùng? Một cặp 32.66 kWh cho các phiên b
 | Fulwin T9 launch & dimensions | Comment | CN | http://db.m.auto.sohu.com/model_7322/a/1019838375_120590677 | 2026-09-04 | ĐÃ_ ĐÃ | Kích cỡ trung bình của chiếc SUV PHV cỡ trung bình, giá nội địa |
 | 风云 T9 官方配置表 (品牌官网) | 奇瑞风云 (奇瑞官方) | CN | https://fulwin.chery.cn/vehicles/t9/config/ | 2026-09-04 | VEII | 发动机115kW/220N·m/国VIb/无级超级电混DHT |
 
-*Brigidence: trang cấu hình OEM đã bị bắt (rắp đặt neo); thời gian sạc và khối lượng hàng hóa là một nguồn đơn; kết hợp phạm vi là một yêu cầu của nhà sản xuất. Chỉ có T9 tiêu chuẩn — T9L loại trừ. ♪
+*AIDidence ghi chú: OEM trang cấu hình đã được thu (rắp đặt neo); tính toán thời gian và số lượng hàng hóa là một nguồn đơn; kết hợp phạm vi là một yêu cầu của nhà sản xuất. Chỉ có T9 tiêu chuẩn — T9L loại trừ. *
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team_· phương pháp trên mỗi [chính sách] (/tách-chính trị/)

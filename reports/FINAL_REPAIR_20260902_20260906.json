@@ -1,0 +1,89 @@
+{
+ "task": "Final targeted in-place repair 2026-09-02..2026-09-06",
+ "generated": "2026-09-07",
+ "repair_mode": "IN_PLACE_REPAIR (no full rewrite)",
+ "TOTAL_ARTICLES": 100,
+ "dates": {
+  "2026-09-02": 20,
+  "2026-09-03": 20,
+  "2026-09-04": 20,
+  "2026-09-05": 20,
+  "2026-09-06": 20
+ },
+ "FULL_BODY_LOCALES": "1200/1200 (100 articles x 12 languages EN FR DE ES PT JA KO VI TH ID AR ZH)",
+ "MACHINE_LOCALE_QA": {
+  "pass": 1200,
+  "fail": 0,
+  "note": "number/unit/URL/heading/table/ALT/placeholder/workflow-leakage/target-script/length gates"
+ },
+ "SOURCE_SCOPE": {
+  "PASS": 98,
+  "CONDITIONAL": 2,
+  "FAIL": 0,
+  "conditional_ids": [
+   "AB-260902-G04",
+   "AB-260902-G08"
+  ],
+  "rule": "OFFICIAL_SOURCE_COUNT_T1_ONLY",
+  "official_source_mislabels_corrected": 155
+ },
+ "CONTROLLED_PATCH_CLOSURE": {
+  "G05": "closed (FS/SL/allowed/blocked rewritten, body weakened)",
+  "G07": "closed (kept RESEARCH_CONDITIONAL, body claims subset of allowed)",
+  "PASS": 2,
+  "FAIL": 0
+ },
+ "IMAGE_RIGHTS": {
+  "PASS": 0,
+  "FAIL": 100,
+  "no_fabrication": true,
+  "note": "No owned/CC/commercial/OEM-media-with-license evidence obtainable; recorded honestly, no LICENSE fabricated."
+ },
+ "SIMILARITY_12_LANG": {
+  "all_pass": true,
+  "overall_max": 0.4317,
+  "max_language": "fr",
+  ">0.50 manual review": 0,
+  ">=0.70 fail": 0
+ },
+ "P0_INTERNAL_WORKFLOW_LEAKAGE_FAIL": 0,
+ "ENGLISH_RESIDUE_LINES_REMAINING": {
+  "total": 132,
+  "by_lang": {
+   "fr": 3,
+   "de": 5,
+   "es": 2,
+   "pt": 2,
+   "ja": 54,
+   "ko": 23,
+   "vi": 4,
+   "th": 16,
+   "id": 3,
+   "ar": 13,
+   "zh": 7
+  },
+  "note": "Residual English fragments left because final language-polish translation pass was halted per instruction; machine gates still pass; not claimed as professional localization."
+ },
+ "SKILLS_UPDATED": {
+  "research": "v1.1",
+  "writing": "v1.1",
+  "registry": "v1.1 blob sha recomputed",
+  "OFFICIAL_SOURCE_COUNT_T1_ONLY": true,
+  "CONTROLLED_PATCH_CLOSURE_CONSISTENCY_GATE": true
+ },
+ "TRANSPARENCY": {
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "evidence.first_hand": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false,
+  "CODEX_ELIGIBLE": false
+ },
+ "BATCH_2026_09_07": {
+  "articles_present": 0,
+  "research_present": true,
+  "note": "2026-09-07 contains research/ only (RESEARCH_READY etc.); no articles written; not part of this 100-article repair and not fabricated."
+ },
+ "WAITING_FOR": "INDEPENDENT_REVIEW_AI"
+}

@@ -24,7 +24,7 @@ Một xe tải trộn là một phương tiện đặc biệt **: một chiếc 
 ## Cấu trúc và Khung siêu
 - Một số mô hình sử dụng khung hình **i tích hợp mà không có khung phụ riêng (无副车架一体化结构) — một nguồn tin; xác nhận chính xác mô hình và trọng lượng/trung tâm của nó.
 - Chỉ định động cơ xoay **drum, dù/xtenion, dung lượng và bơm nước, hướng xả và điều khiển máy móc.**. Những định nghĩa này xác định tính sử dụng trên-site hơn là phù hiệu.
-- Chinese coverage also references a large **20 m³** class mixer  and  Công nghệ tổng hợp (một báo cáo về y học)  not to be conflated with the 6–10 m³ line.
+- Tin tức Trung Quốc cũng chỉ ra một vấn đề lớn **20 m³** class mixer  and  Công nghệ tổng hợp (một báo cáo về y học)  Không được thổi phồng với 6–10 m³ line.
 
 ## Điện (BV) đa dạng
 An **8×4 all-electric mixer** is reported with a Fast (法士特) TZ368XSSFD01 permanent-magnet motor at **350 kW peak 215 kW rated** (single-source trade-media/announcement report). Hãy coi đây như một cấu hình để xác nhận điều này với thông báo hiện tại và ắc quy/máy tính điện tử - không hợp nhất nó với các con số của dòng diesel.
@@ -84,7 +84,7 @@ Bộ cái trống to hơn luôn có nghĩa là nhiều hơn nữa sao? Không, h
 | GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Bộ sinh thái học và Môi trường (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VEII | Kích hoạt năng lượng từ Trung Quốc (cơ chế nén nặng) cho xe tải/coaches |
 | GB 19147 nhiên liệu dầu diesel quốc gia tiêu chuẩn (cơ sở chậm-sur) | Nền tảng chuẩn toàn quốc SAR | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VEII | Chất đốt tổng hợp và chất lưu huỳnh khớp với thiết kế của động cơ/phát ra ở nước ngoài |
 
-*B đồng ý: các nhãn hiệu trống và động cơ được phát hành trên trang OEM của SANY (ống kính đặc trưng sản phẩm). Chi tiết khung hình cộng hưởng và động cơ BV là một nguồn tin và yêu cầu xác nhận mã hóa mô hình hiện tại. Không có giá nào được xác nhận. ♪
+* Ghi chú tự tin: khả năng đánh trống và thương hiệu động cơ là VERFIEDD trên SANY trang (ống kính = đặc trưng sản phẩm). Chi tiết cấu trúc tích hợp và động cơ BEV là một nguồn tin và yêu cầu xác nhận mã hóa mô hình hiện tại. Không có cái giá nào được xác nhận. *
 
 ## Xem lại tập tin
 - **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)

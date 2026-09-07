@@ -17,11 +17,11 @@ Tỉ lệ hàng đầu thắng đặt chỗ và mất tiền khi đến đích. 
 ## Những khối đá xây dựng
 | Name | Nó bao gồm những gì | Đặt ở đâu |
 |---|---|---|
-| **O/F (Ocean Freight)* ♪ | Hàng hóa biển cơ bản; thành phần chính của trích dẫn, nổi trên làn đường/ thiếu chính/thời gian | Chân biển |
-| **THC (Tiếng máy chạy bộ)* ♪ | Thiết bị kéo/ Thả/nải/nải; khác nhau về kích cỡ hộp | Nguồn gốc **và** đích (OTHC/DTHC) |
-| **DOC (tiền trợ cấp)* ♪ | Tài liệu; nguồn gốc ODOC và đích DDOC là riêng biệt | Cả hai đầu |
+| **O/F (Ocean Freight)*  | Hàng hóa biển cơ bản; thành phần chính của trích dẫn, nổi trên làn đường/ thiếu chính/thời gian | Chân biển |
+| **THC (Tiếng máy chạy bộ)*  | Thiết bị kéo/ Thả/nải/nải; khác nhau về kích cỡ hộp | Nguồn gốc **và** đích (OTHC/DTHC) |
+| **DOC (tiền trợ cấp)*  | Tài liệu; nguồn gốc ODOC và đích DDOC là riêng biệt | Cả hai đầu |
 | **SEAL VGM** | Tiền đóng dấu và xác nhận mức phí thô — những thứ thường dùng | Nguồn gốc |
-| **BAF (điều chỉnh máy bay; còn giống với EBS)* ♪ | Bộ tổng hợp nhiên liệu được liên kết; bên cạnh CAF (cơ hội), PSS (mùa hạ), PCS (sự kết hợp), WRS (sự mạo hiểm chiến tranh) | Name |
+| **BAF (điều chỉnh máy bay; còn giống với EBS)*  | Bộ tổng hợp nhiên liệu được liên kết; bên cạnh CAF (cơ hội), PSS (mùa hạ), PCS (sự kết hợp), WRS (sự mạo hiểm chiến tranh) | Name |
 
 ## Hiển thị Fes Fining là lộ trình-Specify (dẫn dắt quan sát, không phải là một igi toàn cầu)
 **AMS, ACI, ruột già và các phí hồ sơ tự động-tự động-tự động thường chỉ được tăng khi định tuyến thông qua vùng bắt buộc** (v. d., US/Canada/EU prefest chế độ nhân lực). Tiền phí có tính phí hay không tùy thuộc vào **lalle và người đưa thư**, và nó được giải quyết bằng hóa đơn hàng hóa Đây là **route- cụ thể hướng dẫn**, không phải là một lịch sạc quốc tế phổ biến: một làn đường không bao giờ chạm vào những chế độ đó không nên mang theo phí, và người hướng dẫn khẳng định không có thuế cố định cho nó.
@@ -81,7 +81,7 @@ Trang này có đưa ra tỷ lệ hiện tại không? Không, tỉ lệ chuyể
 | Định nghĩa KC | Sina Chuyển giao tài chính | I - MI | https://finance.sina.com.cn/roll/2026-07-31/doc-iniksair4574469.shtml.md | 2026-09-04 | ĐÃ_ ĐÃ | Thiết bị cuối xử lý việc bảo vệ |
 | Dương xuất các thành phần điện năng theo làn | Baike | I - MI | https://m.baike.com/wiki/%E6%B5%B7%E8%BF%90%E5%87%BA%E5%8F%A3/7570444 | 2026-09-04 | ĐÃ_ ĐÃ | Bộ phân loại, AMS/ARI/ENS |
 | Tội ảo (TC/booking/ccaring) | | CN | https://m.11467.com/product/d24491409.htm | 2026-09-04 | SINGLE_SOURCE | Đang nạp tên | 11467
-* Phạm vi tính toán: kết cấu điện chéo với các nguồn công nghiệp (không chính thức là nguồn chính thức thuế); AMS/ARI/ENS được sắp xếp như hướng dẫn phương pháp biên tập cụ thể; tất cả các số lượng được cố tình loại bỏ khi thời gian nhạy cảm. ♪
+* Phạm vi tính từ: kiểm tra chéo cấu trúc điện tích từ các nguồn công nghiệp (không chính thức là nguồn chính thức chính thức thuế); AMS/AS/ARI/ENS được cài đặt như hướng dẫn phương pháp biên tập cụ thể; tất cả các số lượng được cố tình loại trừ khi thời gian nhạy cảm. *
 
 | Nội dung 2020 quy tắc (mà sắp xếp/ trả mỗi lần dịch vụ) | Phòng thương mại quốc tế (ICC) | IN'L | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/ | 2026-09-05 | VEII | Hàng hóa/ sạc nào được bán bởi Incoterm |
 | Thực hành tua lại và phân loại tính toán | FIATA | IN'L | https://fiata.org/ | 2026-09-05 | VEII | Tài liệu tham khảo/ thuật toán tiến trình/ phép tính |

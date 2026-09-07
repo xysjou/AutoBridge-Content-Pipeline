@@ -2,7 +2,7 @@
 ## SEO Metadata
 - ** SeO Judul ** Roewe iMAX8 MPV Ekspor Specs: Pembuatan, Dimensi, 2.0T Panduan Pembeli
 - ** Meta Description **: Referensi pasar untuk Roewe iMAX8 7-seat MPV: 2+2+3 tempat duduk dan ruang, dimensi, model - tahun tergantung 2.0T kalibrasi tetap terpisah, dan ekspor langkah verifikasi.
-- ♪ ♪ H1 **: Roewe iMAX8: A China- Market Seven- Seat MPV Referensi Pembeli untuk Ekspor**
+-   H1 **: Roewe iMAX8: A China- Pasar tujuh-Kursi MPV Referensi Pembeli untuk Ekspor**
 - ** Primary Keyword **: Roewe iMAX8 ekspor spesifikasi
 - ** Akhir Pencarian Second **: Roewe iMAX8 MPV; iMAX8 7 kursi 2+2+3; iMAX8 dimensi pangkalan roda; SAIC MPV ekspor; iMAX8 2.0T Aisin 8AT
 - **Suggested URL**: /vehicles/roewe-imax8/
@@ -55,11 +55,11 @@ Harga panduan Cina adalah referensi dalam negeri yang sensitif waktu, bukan kuti
 6. Cocokkan VIN di semua transaksi dan pengiriman dokumen sebelum pembayaran seimbang.
 
 ## PSD
-Berapa kursi Roewe iMAX8 yang dimiliki? ♪ ♪
+Berapa kursi yang dimiliki Roewe iMAX8?
 
 Model Cina direferensikan adalah tujuh-kursi dalam 2+2+3 tata letak dengan dua kapten baris kursi; mengkonfirmasi untuk trim tepat.
 
-Berapa lama pangkalan rodanya? ♪ ♪
+Berapa lama ruang kemudinya?
 
 3000 mm, dengan dimensi eksterior sekitar 5016 × 1909 × 1782 mm (satu daftar sumber sedikit berbeda tinggi).
 
@@ -71,7 +71,7 @@ Sebuah bensin 2.0T (20A4E keluarga) dengan Aisin 8AT; difers daya kutipan oleh m
 
 Tidak - hanya versi bensin; derivatif listrik adalah produk terpisah.
 
-** Apakah versi right- hand- drive tersedia? ♪ ♪**
+Apakah versi right- hand- tersedia?
 
 Tidak ada versi RHD yang dibuktikan oleh sumber-sumber pasar Cinese- yang digunakan di sini.
 

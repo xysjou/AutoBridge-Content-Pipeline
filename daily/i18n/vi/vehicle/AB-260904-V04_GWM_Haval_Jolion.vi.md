@@ -12,7 +12,7 @@
 - **LT gợi ý**: "Haval Jolil China 1.5T nhỏ SUV với trực thăng nước ngoài giữ riêng"
 
 ## Nhận diện người đầu tiên: OEM xác nhận tên, không phải là một dữ liệu toàn cầu
-"Jolion" là tên của **overseas-seat-seat-seat ♪ cho chiếc SUV nhỏ của Trung Quốc bán ở nhà như là **Haval Chulian (哈弗初恋). Không giống như một bí danh từ vẻ ngoài hay nền tảng, danh tính này được xác nhận bởi trang lịch sử công ty của GWM, ghi lại phiên bản của người Haval Chulian, **JOLION**, được phát hành ở **South Africa và Saudi Arabia** (với JOLION HV ở Thái Lan). Dưới MDEL_LAS_OEM_PROOF danh tính người mẫu **HHHHHHH là do đó giống nhau_BAR_ MODEL**. Giới hạn quan trọng: OEM xác nhận tên * không làm cho mỗi thị trường được đào tạo và cắt xén giống hệt nhau. Trung Quốc 1.5T, 1.5T người Úc và HV ở nước ngoài được liệt kê dưới thị trường **by, và không có "số lượng khổng lồ" nào được xác nhận.
+" Jolion" là tên thị trường nước ngoài của hội nghị nhỏ SUV Trung Quốc được bán tại nhà như là Haval Chulian (哈弗初恋). Không giống như một bí danh từ ngoại hình hoặc nền tảng, danh tính này được xác nhận bởi trang lịch sử công ty của GWM, mà ghi lại phiên bản nước ngoài của Haval Chulian, JOLION, được phát hành ở Nam Phi và Ả Rập Saudi (với JOLION HV tại Thái Lan). Theo MODEL_ALAS_OEM_PROOF Mô hình cơ bản là do đó giống nhau_MIDEL. Giới hạn quan trọng: OEM xác nhận tên ** không làm cho mọi sức mạnh của thị trường đều giống nhau. Trung Quốc 1.5T, 1.5T người Úc và HV ở nước ngoài được liệt kê dưới đây theo thị trường, và không có "số lượng khổng lồ" nào được khẳng định.
 
 ## Hoa - Market 1.5T (tham khảoCHINA)
 | Mục | Hoa 1.5T (tham khảoCHINA) |
@@ -51,7 +51,7 @@ Không có giá xuất khẩu được xuất khẩu và không có gì được
 
 ## Những câu hỏi thường xuyên
 ** Có phải Jolil cùng chiếc xe với nhà Haval Chulian? Ở cấp độ cơ bản có — lịch sử của GWM phiên bản của Chulian như là JOLION (được khai thác ở Nam Phi/Saular; nhưng các huấn luyện viên năng lượng cụ thể thị trường vẫn khác nhau và không thể trao đổi.
-♪ Jolion có đến như một người lai không? ♪ Trên khắp hải ngoại có 1.5L tài liệu về một chiếc DHT HOV (~ 190 PS 375 N·m); chiếc xe tham khảo của Trung Quốc ở đây là 1.5T máy gia tốc — giữ chúng trong những cột riêng biệt.
+Jolion có phải là người lai không? Bên ngoài biển có tài liệu chứa 1.5L DHT HOV (~ 190 PS / 375 N·m); xe tham khảo của Trung Quốc ở đây là 1.5T máy gia tốc — giữ chúng trong những cột riêng biệt.
 ** Cái máy quay 1.5T của Trung Quốc là gì? Sức mạnh là 110 kW; 210 N·m và 7DCT là những con số thị trường Úc, vì vậy họ không được xác nhận là giá trị Trung Quốc chờ đợi nguồn thứ hai của Trung Quốc.
 **Can I quote Australian cargo volume for a Chinese unit?** No — 430/1130 L is the overseas version's figure; xác nhận riêng xe Trung Quốc.
 
@@ -94,7 +94,7 @@ Không có giá xuất khẩu được xuất khẩu và không có gì được
 | GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Bộ điều hành thị trường | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VEII | Đường dây cơ bản trong Trung Quốc điều kiện an toàn của phương tiện và dòng thời gian/xem hiện tại |
 | GB 18352.6-2016 với tu chính án XG1-2026 (Trung Quốc 6 ánh sáng-vehictt phóng xạ) | Bộ sinh thái học và Môi trường (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VEII | Chương trình khai thác ánh sáng ở Trung Quốc 6 và 2026 ngày thực hiện sửa đổi |
 
-*Lời tự thú ghi chú: ĐỂ ĐỂ ĐỂ TRONG SỰ XÂY LẠI. Tên người dùng VERFIE được xác định bởi GWM OEM (SAME_MDEL ở cấp cơ sở); giá trị chuyển đổi chuyển nhượng Trung Quốc được xác định (chỉ có một nguồn gốc Úc) và không được ghi nhận là số đại biểu Trung Quốc; ở nước ngoài HV giữ nghiêm ngặt thị trường. Không có giá xuất khẩu. ♪
+*Lời thú nhận ghi chú: ĐỂ ĐỂ ĐỂ ĐỂ TRONG SỰ TRONG SỰ. Danh tính được xác định bởi GWM OEM (SAME_MDEL ở cấp độ cơ sở); các giá trị chuyển hóa / chuyển hóa của Trung Quốc được tạo ra (chỉ có một nguồn gốc Úc) và không được ghi nhận là những thông số tiếng Trung Hoa; ở nước ngoài HV giữ nguyên nhãn thị trường. Không có giá xuất khẩu. *
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team_· phương pháp trên mỗi [chính sách] (/tách-chính trị/)

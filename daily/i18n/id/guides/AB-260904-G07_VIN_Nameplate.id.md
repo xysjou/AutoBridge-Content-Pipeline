@@ -4,7 +4,7 @@
 - ** Judul SEO **: VIN & Tanda Kenaikan untuk Impor Kendaraan Cina - GB 16735-2019
 - ** Meta Description **: Bagaimana 17-character VIN terbagi menjadi WMI VDS VIS di bawah GB 16735-2019, mengapa dicap VIN, nameplate, sertifikat, dan dokumen pengiriman harus cocok, dan apa yang importir harus memverifikasi sebelum pembayaran.
 - ** Sugested URL **: guide vin- nameplates -verification- cineces
-- ♪ ♪ H1 **: VIN dan Verifikasi plat nama untuk kendaraan Cina: Struktur, Standar dan Four- Place Match
+-   H1 **: VIN dan Verifikasi plat nama untuk kendaraan Cina: Struktur, Standar dan Four- Place Match
 - ** Primer Keyword **: VIN nameplate verifikasi kendaraan china GB16735
 - ** Akhir Pencarian Second **: struktur WMI VDS, GB16735-2019 VIN, VIN cek posisi digit 9, VIN nametalet konsistensi, dicap VIN gangguan
 - ** Internal Link Sugestions **: guide exports export- dokumentasi-documents guiders china-exports-procision-declaration kendaraan jacket-t9-hunter/
@@ -86,7 +86,7 @@ Perbedaan karakter apapun, pengusomlasi bukti, atau dokumentasi-vs-tubuh tidak c
 | SAMR platform · GB16735-2019 detail | SAMR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=94E9AF238E3052A4E05397BE0A0AD366 | 2026-09-04 | TERBATAI (primer) | Status standar |
 | Kendaraan-kendaraan-produksi-akses-persyaratan tinjauan (tipikal wajib GB16735) | MIIT resmi PDF | CN | https://wap.miit.gov.cn/cms_files/filemanager/1226211233/attach/20259/9d0824a8e8a84abf858f3cb96a6d7385.pdf | 2026-09-04 | TERBATAI (primer) | Status wajib, konsistensi yang dibutuhkan |
 | VIN segmen penjelasan | Pacific Auto | CN | http://m.pcauto.com.cn/x/5100/51002243.html | 2026-09-04 | SINGLE _ SOURCE | Position- level expiner |
-* Catatan diblokir: "WMI Cina dimulai dengan L beberapa H" adalah UNVERIFIED dan tidak dinyatakan sebagai fakta; pemetaan produsen-awal sayap depan dan format VIN tujuan berada di luar jangkauan. ♪
+* Catatan diblokir: "WMI Cina dimulai dengan L / beberapa H" adalah UNVERIFIED dan tidak dinyatakan sebagai fakta; pemetaan produsen senjata dan format VIN tujuan berada di luar jangkauan. ♪
 
 | 道路车辆 车辆识别代号 (VIN) GB16735-2019 条文 (百科载体) | 百科 (国标条文载体) | CN | https://m.baike.com/wiki/%E8%BD%A6%E8%BE%86%E8%AF%86%E5%88%AB%E5%8F%B7%E7%A0%81/1470666 | 2026-09-04 | SINGLE _ SOURCE | VIN WMI + VDS + VIS 共 17 位 (以标准正文为准) |
 

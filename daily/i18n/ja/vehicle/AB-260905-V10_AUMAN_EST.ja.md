@@ -12,7 +12,7 @@
 - **シュマスコープ**: 記事 + 車両 (製品/オファー/レビューなし)
 
 ## バイヤーのコンテキスト: 別の放出およびエネルギー ラインが付いているトラクターの頭部
-**Foton Daimler AUMAN EST (欧曼 EST)**は、中国市場大型トラクターヘッドです。 中国V EST510  and  中国VI X13は、異なる排出生成物です。  and  a **battery-electric tractor is a separate line** — they must never be merged into one specification. 参照の市場は**中国**です。
+**Foton Daimler AUMAN EST (欧曼 EST)**は、中国市場大型トラクターヘッドです。 中国V EST510  and  中国VI X13は、異なる排出生成物です。  そして、 **電池電気トラクターは別のラインです** — ひとつの仕様にマージされることはありません。. 参照の市場は**中国**です。
 
 ## 特定ラインおよび特定されるドライブライン
 - **中国V EST510 **: 国五 EST510: 福康 ISGe5-510/X12, 6x4, 公告型号 BJ4259SNFKB-AA.

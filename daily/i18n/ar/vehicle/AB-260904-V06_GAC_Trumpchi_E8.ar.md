@@ -12,7 +12,7 @@
 - ** الاقتراحات**: "GAC Trumpchi E8 PHEV seven-seat MPV China spec"; "Trumpchi E8 2+2+3 seating  and  الشحنة
 
 ## Buyer Context: an MPV Purchase is Decided by Seating and by the PHEV/HEV Split
-وبالنسبة لمصدر م.م.أ.م.أ.م.أ.أ.م.أ.أ.أ.أ.أ. على الـE8 يوجد فخ تسمية "الـ E8" الطاقة الجديدة هي مهبط مهجّر مع ميناء مُشحن**  while the **E8 Glory (荣耀) is an HEV with no charging port**. وهي أنواع مختلفة من الطاقة ويجب أن تقتبس على خطوط منفصلة. هذه الورقة توثق "السوق الصيني" الصين**؛ وتم تسجيل صفحة تشكيلة من طراز OEM.
+وبالنسبة لـ MPV مصدِّر، فإن الأسئلة هي هندسة الكوخات وبنية المقاعد أولاً، قطار الطاقة الثاني. وعلى متن الـ E8 يوجد فخ تسمية: الطاقة الجديدة البالغ عددها E8 هجين مع ميناء شحن، في حين أن الـ E8 غلوري (荣耀) هي قذيفة لا تحمل أي ميناء. وهي أنواع مختلفة من الطاقة ويجب اقتباسها على خطوط منفصلة. وتوثّق هذه الصحيفة السوق الصينية رقم PHEV (REFERENCE MARKET: CHINA)؛ وأُلقيت صفحة تشكيلية قدرها OEM.
 
 ## م ح المصدر: الشحن البحري والفضاء والمسافر
 | البند | Trumpchi E8 PHEV (China reference) |
@@ -20,7 +20,7 @@
 | الهيئة | متوسط الحجم |
 | Length width | **4920 1900 1760 mm** |
 | Wheelbase | **2930 mm** |
-| مخططات الجلوس | ** 2+2+3، سبعة مقاعد* ♪ |
+| مخططات الجلوس | ** 2+2+3، سبعة مقاعد*  |
 | منهاج العمل | GAC Global Platform Modular Architecture (GPMA 3.0 L); high-strength steel about 75% (single-source) |
 | وزن العنب | 2175 kg |
 | صهاريج الوقود | 50 L |
@@ -99,7 +99,7 @@ The 2930 mm wheelbase and 2+2+3 layout are the commercial story: independent mid
 | GB 18384 electric vehicle safety requirements (GB 18384-2025) | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | مفقود | الأساس الذي يُحتَج به توفير السلامة |
 | 18352.6-2016 GB مع التعديل XG1-2026 (الصين - 6 من انبعاثات ملوثات المركبات الخفيفة) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | مفقود | الصين - 6 مرحلة انبعاثات المركبات الخفيفة ومواعيد تنفيذ التعديل البالغ 2026 |
 
-* ملاحظة الملاءمة: موقع OEM على الإنترنت؛ ونسبة الصلب منصة الصلب وV2L/V2V شخص منفرد المصدر. PHEV and Glory HEV deliberately separated; Chinese-market reference only. ♪
+* ملاحظة الملاءمة: OEM صفحة مأخوذة؛ ونسبة الفولاذ إلى المنهاج وV2L/V2V شخص من مصدر واحد. PHEV وGlory HEV deliberately separated; Chinese-market reference only. ♪
 
 ## استعراض التحرير
 - ** Author**: AutoBridge Export Editorial Team; method per our [Editorial Policy](/editorial-policy/)

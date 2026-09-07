@@ -99,7 +99,7 @@ Không có giá xuất khẩu được xuất bản. Giá hướng dẫn của T
 | Yêu cầu an toàn phương tiện điện GB 18384 (GB 18384-2025) | Nền tảng chuẩn toàn quốc SAR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VEII | Yêu cầu an toàn chức năng điện/ động cơ điện |
 | GB 18352.6-2016 với tu chính án XG1-2026 (Trung Quốc 6 ánh sáng-vehictt phóng xạ) | Bộ sinh thái học và Môi trường (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VEII | Chương trình khai thác ánh sáng ở Trung Quốc 6 và 2026 ngày thực hiện sửa đổi |
 
-*B đồng ý: OEM page đã được ghi nhận; tỷ lệ thép nền tảng và V2L/V2V con số là một nguồn. PHV và Glome HV cố tình tách ra; chỉ tham chiếu thị trường Trung Quốc. ♪
+Lưu ý: OEM trang được ghi lại; tỷ lệ thép nền và V2L/V2V con số là một nguồn. PHEV và Glome HOV cố tình tách ra; chỉ tham khảo thị trường Trung Quốc. *
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team_· phương pháp trên mỗi [chính sách] (/tách-chính trị/)

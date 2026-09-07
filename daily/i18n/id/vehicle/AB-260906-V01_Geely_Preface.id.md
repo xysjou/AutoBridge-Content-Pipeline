@@ -1,8 +1,8 @@
 # Geely Preface (Xingrui): CMA Pasar Cina Referensi Pembeli Sedan untuk Ekspor
 ## SEO Metadata
-- ♪ ♪ ♪ SeO Title ♪ ♪: Geely Preface (Xingrui) Ekspor Specs, Trims dan Buyer Checks
+- **SEO Title**: Geely Preface (Xingrui) Ekspor Specs, Trims dan Buyer Checks
 - ** Meta Description **: Korese- referensi pasar untuk Geely Preface Xingrui CMA sedan: tubuh dan dimensi, 1.5T dan 2.0T variants tetap terpisah, dan apa pembeli luar negeri harus memverifikasi oleh VIN.
-- ♪ ♪ H1 **: Geely Preface (Xingrui): CMA Pasar Cina Referensi Pembeli Sedan untuk Ekspor**
+-   H1 **: Geely Preface (Xingrui): CMA Pasar Cina Referensi Pembeli Sedan untuk Ekspor**
 - ** Primary Keyword **: Spesifikasi ekspor Geely Preface Xingrui
 - ** Akhir Pencarian Second **: Geely Preface CMA sedan; dimensi Xingrui; Geely Preface 2.0T 8AT; ekspor sedan Cina ekspor; Preface trim perbedaan
 - **Suggested URL**: /vehicles/geely-preface/
@@ -28,7 +28,7 @@ Geely Preface (nama Cina Xingrui) adalah roda-depan-tengah-padat-ukuran-depan-ro
 | 2.0T (kalibrasi lebih tua) | 175 kW (238 PS) 350 N·m, 8-speed otomatis, WLTC dikombinasikan sebagai £7.15 L 100km | CHINA · older/Jinchao-era 2.0T · single-source | SINGLE _ SOURCE |
 | 2.0T (kalibrasi baru) | 200 kW 400 N·m, Aisin 8AT,  claimed 0–100 km/h ≈6.5 s | CHINA · 2025 Dongfangyao 2.0T · single-source, konfirmasi | SINGLE _ SOURCE |
 
-Dua 2.0T output bukanlah konflik data untuk menyelesaikan dengan memilih satu: mereka milik untuk model-tahun kalibrasi yang berbeda. Sebuah kutipan ekspor yang nama 'Preface 2.0T' tanpa tahun dan trim tepat adalah ambigu. Bahan daerah Middle- Timur Geely menunjukkan ekspor terpisah - pasar sebelum menghadapi daya (misalnya 2.0TD + 7DCT bangunan regional); di bawah model-identitas disiplin bahwa pembangunan regional dikutip sebagai referensi ekspor-pasar  and  is **not** treated as identical to the Chinese 175/200 kW trims without OEM confirmation.
+Dua 2.0T output bukanlah konflik data untuk menyelesaikan dengan memilih satu: mereka milik untuk model-tahun kalibrasi yang berbeda. Sebuah kutipan ekspor yang nama 'Preface 2.0T' tanpa tahun dan trim tepat adalah ambigu. Bahan daerah Middle- Timur Geely menunjukkan ekspor terpisah - pasar sebelum menghadapi daya (misalnya 2.0TD + 7DCT bangunan regional); di model bawah -identitas disiplin bahwa pembauan daerah dikusu sebagel referensi ekspor- pasar dan adalah **not** diperlakukan sebagai identik dengan Cina 175/200 kW trims without OEM confirmation.
 
 ## Chassis, tempat duduk dan peralatan sinyal
 

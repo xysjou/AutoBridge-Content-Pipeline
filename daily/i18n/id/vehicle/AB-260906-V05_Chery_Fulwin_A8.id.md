@@ -2,7 +2,7 @@
 ## SEO Metadata
 - ** SeO Judul **: Chey Fulwin A8 PHEV Ekspor Specs: Dua Garis Jangkauan, Baterai dan Mode
 - ** Meta Description **: Korese- referensi pasar Cherid Fulwin Fengyun A8 di sedan hybrid: 70 km dan 145 km baris tetap terpisah, C-DM hibrida sistem, pengisian dan cek ekspor khusus PHEV-tertentu.
-- ♪ ♪ H1 Chery Fulwin A8 (Fengyun A8): China- Market PHEV Referensi Ekspor Sedan
+-   H1 Chery Fulwin A8 (Fengyun A8): China- Market PHEV Referensi Ekspor Sedan
 - ** Primary Keyword **: Chey Fulwin A8 Fengyun A8 ekspor spesifikasi
 - ** Akhir Pencarian Second **: Fulwin A8 C-DM PHEV; Fengyun A8 CLTC jangkauan listrik; Fulwin A8 145 km; Chey plush- dalam ekspor hybrid; Fulwin A8 dimensi
 - **Suggested URL**: /vehicles/chery-fulwin-a8/
@@ -79,7 +79,7 @@ Siapa yang memasok baterai? ****
 
 Pemasok baterai tidak dinyatakan sebagai fakta di sini; itu harus dikonfirmasi per batch oleh Chey.
 
-** Bisakah cepat - biaya? ♪ ♪**
+Bisa cepat?
 
 The 145 line is quoted at ≈19 minutes for 30–80% (single-source, konfirmasi); verifikasi konektor dan standar untuk tujuan.
 

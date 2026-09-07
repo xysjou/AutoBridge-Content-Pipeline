@@ -24,7 +24,7 @@ La ligne de SANY couvre trois bandes de tambours: **6–7 m³ 8–9 m³ 10 m³**
 ## Superstructure et cadre
 - Certains modèles utilisent un cadre ** intégré sans sous-cadre distinct (无副车架一体化结构)** — source unique; vérifier le modèle exact et ses implications en matière de poids/centre de gravité.
 - Spécifiez **entraînement de rotation du tambour, longueur de la goulotte/extension, capacité du système d'eau et pompe, direction de décharge et commandes de l'opérateur**. Ces caractéristiques définissent la facilité d'utilisation sur place plus que le badge.
-- Chinese coverage also references a large **20 m³** class mixer  and  l'ingénierie intégrée (rapport party-media) — une classe de taille différente,  not to be conflated with the 6–10 m³ line.
+- La couverture chinoise fait également référence à une large **20 m³** class mixer  and  l'ingénierie intégrée (rapport party-media) — une classe de taille différente,  ne pas être confondu avec le 6–10 m³ line.
 
 ## Variante de mélange électrique (BEV)
 Un mélangeur entièrement électrique ** 8 × 4** est déclaré avec un moteur à aimant permanent Fast (法士特) TZ368XSSFD01 au taux ** 350 kW de pointe 215 kW** (rapport d'annonce/média d'échange à source unique). Traitez cela comme une configuration pour confirmer contre l'annonce actuelle et les spécifications de batterie/charge — ne la fusionnez pas avec les chiffres de la ligne diesel.

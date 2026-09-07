@@ -3,7 +3,7 @@
 - ** Judul SEO **: Wuling Hongguang Mineev Macaron 2024 Specs & Ekspor Catatan
 - ** Meta Description **: Cina - pasar 3rd-gen Wuling MineiV - 3-door 4-seat mikro EV, 20 kW motor,  170/215 km CLTC, Baterai LFP, Terutama pengisian lambat, Kecepatan 100 km/h top, logika pemilihan grade  and  cek eksportir.
 - *** URL yang Disarankan **: kendaraan wuling-hongguang- miniev (laman model warna hijau selamanya; model tahun disimpan di H1/body, bukan URL)
-- ♪ ♪ H1 **: Wuling Hongguang Mineev Macaron 2024 (Cine- Market): Mikro- EV Specs dan Ekspor Cek
+-   H1 **: Wuling Hongguang Mineev Macaron 2024 (Cine- Market): Mikro- EV Specs dan Ekspor Cek
 - ** Primary Keyword **: wuling hongguang miniev macaron 2024 spesifikasi
 - ** TerminiV Pencarian Second Terms **: Mineev Rentang makaron, ekspor mikro Wuling EV, Mineev 20kW, 170 215 CLTC mobil kota, Mengangkat baterai kecil LFP
 - ** Internal Link Sugestions **: kendaraan byd-lumba-lumba kendaraan farizon -xingxiang- v6e-specs/; guide ev- shipping- un3171-imdg-compliance/; guide juru- oascoold- loading- lady- lashing
@@ -11,7 +11,7 @@
 - ** ALT Saran **: "Wuling MineiV Macaron mikro EV dimensi"; "MinieV Macaron 170 215 CLTC range"
 
 ## Konteks Pembeli: Cocokkan Produk ke Kasus Penggunaan
-The Hongguang Mineev Macaron adalah mobil listrik mikro yang tidak berbahan EV. Panjang 3064 mm  and  777 kg kerb **, itu duduk kelas penuh di bawah hatchback kecil - untuk skala,  the BYD Dolphin on this same catalogue is around **4125 mm long** with 420/520 km CLTC grades. Jarak itu adalah seluruh keputusan pembelian: Nilai Macaron adalah mobilitas kota perjalanan pendek pada harga yang sangat rendah; Keterbatasannya adalah kecepatan tertinggi (* 100 km/h **),  range (**170/215 km CLTC**), kecepatan pengisian  and  ukuran kabin. Seorang eksportir yang memposisikan itu melawan B-segment Evs akan menciptakan masalah keuntungan; orang yang menjualnya sebagai didefinisikan perkotaan terakhir produk tidak akan. Halaman ini mencakup ** 3rd-generation Macaron, model tahun 2024 (REFERENCE MARKET: CHINA) **.
+The Hongguang Mineev Macaron adalah mobil listrik mikro yang tidak berbahan EV. Panjang 3064 mm  and  777 kg kerb **, itu duduk kelas penuh di bawah hatchback kecil - untuk skala,  Dolphin BYD pada katalog yang sama adalah sekitar **4125 mm long** with 420/520 km CLTC grades. Jarak itu adalah seluruh keputusan pembelian: Nilai Macaron adalah mobilitas kota perjalanan pendek pada harga yang sangat rendah; Keterbatasannya adalah kecepatan tertinggi (* 100 km/h **),  range (**170/215 km CLTC**), kecepatan pengisian  and  ukuran kabin. Seorang eksportir yang memposisikan itu melawan B-segment Evs akan menciptakan masalah keuntungan; orang yang menjualnya sebagai didefinisikan perkotaan terakhir produk tidak akan. Halaman ini mencakup ** 3rd-generation Macaron, model tahun 2024 (REFERENCE MARKET: CHINA) **.
 
 ## Driveline dan Battery (micro- EV fokus)
 | Butir | 3rd-gen Macaron 2024 (China referensi) |
@@ -100,7 +100,7 @@ Berapa kursi? Empat kursi di 3-door, 3064 mm tubuh mikro; ruang belakang kompak 
 | Komponen keselamatan baterai gongo 38031 (GB 38031-2025; aplikasi tipe baru wajib dari 2026-07-01) | Standar nasional SAMR platform penuh teks | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | TERBATAI | Cakram wajib. Baterai keselamatan diperlukan untuk daya listrik kereta api. |
 | GB 18384 kebutuhan keamanan kendaraan listrik (GB 18384-2025) | Standar nasional SAMR platform penuh teks | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | TERBATAI | Listrik kendaraan kebutuhan keselamatan listrik fungsional |
 
-* Catatan kepercayaan: tidak ada Wuling SAIC- GM-Weling lembar spesifikasi primer ditangkap; database media tidak TERBATAS. Jarak harga adalah cross- diperiksa sementara berat kerb, kecepatan tinggi dan kWh adalah sumber tunggal. CLTC hanya satu siklus Cina. Pengisian ketentuan harus dikonfirmasi pada VIN yang tepat. ♪
+* Catatan kepercayaan: tidak ada Wuling / SAIC-GM-Wuling lembar spesifikasi primer telah ditangkap; database media tidak TERVERIFIED. Rentang / harga silang diperiksa sementara berat kerb, kecepatan tinggi dan kWh adalah sumber tunggal. CLTC hanya siklus Cina. Isi harus dikonfirmasi pada tepat VIN. *
 
 ## Editorial Review
 - *** Penulis Penilik **: [AutoBridge Ekspor Editorial Tim] penulis

@@ -22,7 +22,7 @@
 | **Fuel gas level** | Tank about **one-quarter full** (enough to self-drive on/off) | Tank about **one-quarter full** | Chính sách Carrier; kiểm tra chéo hai dòng này — không phải là một quy tắc phổ quát |
 | ** Dùng pin ICE** | Đối với đơn vị sử dụng ** mà không có một ắc quy giết-switch**, ngắt kết nối 12/24V, sau khi đánh (trừ khi đánh một chỉ dẫn WW) | - | Quy tắc nhà cung cấp đơn |
 | **BVV cao tốc SOC** | - | **SOC không hơn 50% **, trong khi vẫn giữ đủ sạc cho việc nạp/nải/không tải; HOV: ≤¼ fuel plus SOC guidance | Höegh- cụ thể; ** not** trần SOC toàn cầu |
-| **Sự dễ bị tổn thương* ♪ | Đơn vị RoRo phải tự lái an toàn trên/tắt (move/brake/seer); lỗi hoặc rò rỉ đơn vị có thể bị từ chối | Cùng một yêu cầu tự lái | Bộ nhận quy tắc cho hai dòng tên |
+| **Sự dễ bị tổn thương*  | Đơn vị RoRo phải tự lái an toàn trên/tắt (move/brake/seer); lỗi hoặc rò rỉ đơn vị có thể bị từ chối | Cùng một yêu cầu tự lái | Bộ nhận quy tắc cho hai dòng tên |
 
 Những đòi hỏi này được trích dẫn cho những người mang tên chính xác vì họ **vary theo hàng và bằng chuyến đi**: một người đưa hàng kiểu Hoa /container hoặc một dòng khác có thể đặt ra mức độ khác nhau. Không bao giờ bang "xe tải yêu cầu X" mà không đặt tên cho tàu và kiểm tra hướng dẫn văn bản hiện tại của nó.
 
@@ -51,7 +51,7 @@ Số điểm cao, dây buộc phá vỡ sức mạnh, chống trượt chiếu s
 - Những con số cố định/náp/thôi định sau tên các mẫu vật được ** bị chặn đứng chờ đợi những tài liệu chính của OEM/carrier**.
 
 ## Những câu hỏi thường xuyên
-**Is a quarter tank a legal requirement?** No — it is a written policy of named RoRo carriers such as Wallenius Wilhelmsen  and  Höegh; Làm theo chỉ dẫn của nhà xuất bản.
+**Là một chiếc xe tăng quý một yêu cầu hợp pháp? Không - Nó là một Chính sách ghi tên RoRo mẫu hạm như Wallenius Wilhelmsen và Höegh; theo sau nhà hàng đặt hàng hướng dẫn.
 **Có phải tất cả tàu EV ở 50% SOC? ** Con số đó là chính sách Höegh Autoliers, không phải là một chiếc mũ phổ quát; xác nhận chuyến hành trình yêu cầu của nhà cung cấp thông tin bằng đường biển.
 Có phải kỷ lục chụp ảnh và trao đổi là bắt buộc không? Đó là phương pháp bằng chứng đề nghị của AutoBridge, không phải yêu cầu thống kê, mà là nó củng cố một yêu cầu tiêu chuẩn về mặt vật chất.
 ** Ai quyết định đánh nhau và đánh giá điểm số? Các nhà phát triển/t thổ ngữ và Sổ tay giao thông OEM; không giả định giá trị cố định mà không có tài liệu của họ.
@@ -90,7 +90,7 @@ Có phải kỷ lục chụp ảnh và trao đổi là bắt buộc không? Đó
 | Höegh Automotive shipping (≤¼ fuel; BOV SOC; Khả năng dịch | Các máy tự động Höegh | I - MI | https://www.hoeghautoliners.com/what-we-ship/automotive | 2026-09-04 | SINGLE_SOURCE (người đưa hàng chính) | BÀI TIẾNG 50% SOC, nhiên liệu, năng lượng |
 | Xe tải Höegh/ Buses/Traster | Các máy tự động Höegh | I - MI | https://www.hoeghautoliners.com/what-we-ship/trucks-buses-and-trailers-shipping | 2026-09-04 | SINGLE_SOURCE (người đưa hàng chính) | Đơn vị thương mại nhận được |
 | Kiểm tra trước về & giao phó thực hành | trang công nghiệp | CN | https://m.11467.com/product/d55278360.htm | 2026-09-04 | SINGLE_SOURCE (cơ sở quan sát) | Khuyên kiểm tra/ ảnh | 11467
-* Phạm vi tính từ: chính sách có tên-carrier được xác nhận cho các hướng dẫn chính của WW/Höegh (chính sách xe, không quy định, không phổ biến); kiểm tra là khuyến cáo biên tập; các giá trị đánh áp đảo/ đường dẫn cố định bị chặn lại trong tài liệu OEM/carrier. ♪
+* Phạm vi tính từ: chính sách có tên-carrier được xác nhận cho các hướng dẫn chính của WW/Höegh (chính sách xe, chứ không phải quy định, không phải quy định phổ quát); kiểm tra là khuyến cáo biên tập; các giá trị cố định / áp bức/ đường dẫn/đường dẫn cố định bị chặn sau OEM / carrier file. *
 
 | Đội cứu hộ Bộ mã — Các đơn vị vận chuyển hàng hóa đang được xử lý và bảo vệ | Tổ chức hải sản Quốc tế (MO) | IN'L | https://www.imo.org/en/OurWork/Safety/Pages/CTU-Code.aspx | 2026-09-05 | VEII | Chung |
 | Bảo hiểm giao thông và tham chiếu rủi ro biển | Liên minh quốc tế Bảo hiểm Thủy quân lục chiến (IURI) | IN'L | https://iumi.com/ | 2026-09-05 | VEII | Tại sao ghi chép lại vụ điều tra chứng cứ của cảnh sát đã được ghi nhận để xử lý việc kiện tụng hàng hóa |

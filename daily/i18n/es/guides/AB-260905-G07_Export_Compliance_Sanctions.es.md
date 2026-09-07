@@ -39,7 +39,7 @@ Esta guía no incluye a las entidades sancionadas (cambian) ni da conclusiones e
 **¿Cuánto tiempo se mantienen los registros?** Cinco años para los registros pertinentes de usuario final/incumplimiento.
 ¿Puedo mantener una lista negra copiada? No — las listas cambian; use una herramienta de detección actual y mantenga los resultados datados.
 ¿Quién es la pantalla? Comprador, destinatario y otras partes pertinentes, al momento de la ingesta y nuevamente antes del envío.
-¿Y si hay un éxito? Escalar y no proceder; una parte denegada no debe ser ser ser servida.
+¿Y si hay un éxito? Escalar y no proceder; no se debe servir a una parte denegada.
 
 
 ## Fuentes " Verificación "

@@ -96,7 +96,7 @@ Bộ phận làm lạnh của Đông Phong có phải là một phần của b�
 | GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Bộ sinh thái học và Môi trường (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VEII | Kích hoạt năng lượng từ Trung Quốc (cơ chế nén nặng) cho xe tải/coaches |
 | GB 19147 nhiên liệu dầu diesel quốc gia tiêu chuẩn (cơ sở chậm-sur) | Nền tảng chuẩn toàn quốc SAR | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VEII | Chất đốt tổng hợp và chất lưu huỳnh khớp với thiết kế của động cơ/phát ra ở nước ngoài |
 
-*B đồng ý: mã kiểu mẫu được gài vào MIT- 410, đơn vị ngầm/ vùng/ vùng, cố tình để lại cho người xây dựng cơ thể (không có giá trị mã cứng); KR Thêm vào đó là loại trừ. Xác nhận đánh giá hợp pháp trên thông báo/tiểu thức. ♪
+*B đồng ý: mật mã mô hình thả xuống MIIT, 410 báo cáo; đơn vị bán san hô / múi giờ/không cố ý để lại cho người xây dựng cơ thể (không có giá trị cứng); KR Cộng với loại trừ. Tham khảo thị trường Trung Quốc; xác nhận đánh giá hợp pháp trên thông báo/số. *
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team_· phương pháp trên mỗi [chính sách] (/tách-chính trị/)

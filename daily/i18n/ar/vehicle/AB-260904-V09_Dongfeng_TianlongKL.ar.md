@@ -49,7 +49,7 @@
 ## الأسئلة المتكررة
 ** لماذا يوجد رقمان للطاقة (343)  and  337 kW)?** 343 kW is rated power  and  337 kW net power — different measurement bases for the same 465 PS engine.
 ** ما هو وزن القطار؟ ** ويُقيَّم الجرارة الموثقة بوزن إجمالي يبلغ 40 t من الوزن، مع 25 t من طراز GVWR للجرار نفسه.
-**Manual or automatic?** The 14-speed DT14 gearbox is offered in manual  and  (أ) نماذج المواد الانشطارية؛ يحدد أيهما.
+** Manual or automatic?** The 14-speed، DT14 جهاز التروس مقدمة في الدليل AMT forms; يحدد أيهما.
 ** هل هي الـ 520/560 وجهاز الغاز نفس الشاحنة**؟ وهي تتقاسم أسرة سيارة أجرة من طراز KL ولكنها تستخدم وقود مختلفة - وتحتفظ بها كمواصفات منفصلة.
 
 ## سجل الصور
@@ -90,7 +90,7 @@
 | GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | مفقود | China-VI compression-ignition (heavy diesel) emission stage for trucks/coaches |
 | GB 19147 automobile diesel fuel national standard (low-sulphur basis) | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | مفقود | درجة وقود الديزل وقاعدة الكبريت لمطابقة تصميم في الخارج |
 
-* ملاحظة بشأن الملاءمة: لا يوجد كتيب أولي من مكتب تنظيم المشاريع؛ عمليات فرز التجارة. Rated/net power both labelled; other power and gas versions excluded. إشارة إلى السوق الصينية؛ تأكيد على إعلان تكنولوجيا المعلومات والاتصالات. ♪
+* ملاحظة بشأن الملاءمة: لا يوجد OEM كتيب أولي؛ وفحص شامل للتجارة. طاقة رُفّت/صافيّة;Other power and gas versions excluded. إشارة إلى السوق الصينية؛ تأكيد على إعلان MIIT. ♪
 
 ## استعراض التحرير
 - ** Author**: AutoBridge Export Editorial Team; method per our [Editorial Policy](/editorial-policy/)

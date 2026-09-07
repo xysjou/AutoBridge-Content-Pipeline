@@ -12,7 +12,7 @@
 - **Schema Scope**: Điều khoản (không có sản phẩm/ sản phẩm/ xuất/Rover)
 
 ## Tách thị trường nước Trung Quốc ra khỏi các giao dịch xuất khẩu
-CCC (Trung Quốc Bản phân phối) là chế độ chứng thực sản phẩm bắt buộc của Trung Quốc: liệt kê sản phẩm phải được xác nhận trước khi họ rời nhà máy để bán trong nước, được nhập khẩu vào Trung Quốc, hoặc được bán/dùng ở thị trường Trung Quốc, và nhập khẩu đang được xác thực hóa. Câu hỏi xuất khẩu quan trọng không phải là "là một danh sách xe hơi CCC" mà là đơn vị đặc biệt này đang vào thị trường Trung Quốc hay đang được xuất ra khỏi nó?" ♪
+CCC (Cina Compulsery Certification) là chế độ chứng thực sản phẩm bắt buộc trong nước của Trung Quốc: liệt kê sản phẩm phải được xác nhận trước khi họ rời nhà máy để bán trong nước, được nhập khẩu vào Trung Quốc, hoặc được bán/được sử dụng ở thị trường Trung Quốc, và nhập khẩu được nhập khẩu nhập khẩu. Do đó câu hỏi xuất khẩu quan trọng không phải là "là xe CCC" mà là "một đơn vị đặc biệt vào thị trường Trung Quốc hoặc được xuất ra khỏi nó?"
 
 ## Giới hạn xuất khẩu
 Hàng hóa sản xuất **wholly cho xuất** không được vào thị trường nước Trung Quốc và không được đặt vào nó; chế độ CCC nhắm mục tiêu đặt thị trường nội địa và nhập khẩu vào cona. Chứng nhận thư mục đích (được chấp thuận kiểu lậu, e-mark/GCC/etc.) là yêu cầu phân biệt đối ngoại** và chưa bao giờ được thỏa mãn bởi chứng nhận Trung Quốc CCC.

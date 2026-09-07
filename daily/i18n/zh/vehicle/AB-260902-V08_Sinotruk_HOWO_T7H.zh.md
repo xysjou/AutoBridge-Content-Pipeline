@@ -13,7 +13,7 @@
 
 ## T7H号是什么
 
-"HOO T7H"是Sinotruk(CNHTC)旗舰之一,**重型拖拉机头(牵引车)**,广泛销售给中东,非洲和俄语地区. The reference China unit is the **460 PS 6×4 AMT, 通知ZZ4257V324HE1B **, 编号: 但T7H名的收视率是440/460/500/540 PS 有两个发动机家庭**, 柴油  and  ** 国家  and  4×2/6×4布局——所以订单必须给发动机品牌命名, 动力, 排放水平  and  一起开车 Sinotruk的官方国际渠道确认用于出口的MAN-技术MC发动机; 360che
+"HOO T7H"是Sinotruk(CNHTC)旗舰之一,**重型拖拉机头(牵引车)**,广泛销售给中东,非洲和俄语地区. 参考中国单位是 **460 PS 6×4 AMT, 通知ZZ4257V324HE1B **, 编号: 但T7H名的收视率是440/460/500/540 PS 有两个发动机家庭**, 柴油  and  ** 国家  and  4×2/6×4布局——所以订单必须给发动机品牌命名, 动力, 排放水平  and  一起开车 Sinotruk的官方国际渠道确认用于出口的MAN-技术MC发动机; 360che
 
 ## 参考建筑:460 PS 6×4 (中国)
 
@@ -61,7 +61,7 @@ Sinotruk提供出口T7H building,其等级为**欧元V和欧元VI**(和LNG气版
 ## 买家 FAQ
 
 ** 460与540 T7H之间的区别是什么? ** 超越动力,它们可以是不同的引擎家族——460参考使用威海WP10.5H(2100 N·m),而540则使用MAN-技术MC13(2500 N·m);确认建筑,而不仅仅是马力.
-**What GCW is the 6×4 rated for?** The reference build is quoted at 40 t gross combination mass (cross-checked), 受目的地规则约束。
+** GCW号是 6×4 评分为? ** 这个 引用参考构建 40 t 毛额 组合质量(交叉检查), 须遵守目的地规则。
 参考文献460使用Sinotruk 12-speed AMT;有手册和其他比率。
 来点欧元VI或LNG? 导出建立列表 Euro V/ Euro VI 和 LNG 选项; 指定并获得匹配认证 。
 ** ** 详细中国公告数据来自360che;引擎家庭及出口选项由Sinotruk官方频道确认. 最后文件前交叉核对。

@@ -101,7 +101,7 @@ Apa bedanya Qin L DM-i 80 dan 120? Kapasitas baterai (10.08 vs 15.87 kWh) dan CL
 | GB 18384 kebutuhan keamanan kendaraan listrik (GB 18384-2025) | Standar nasional SAMR platform penuh teks | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | TERBATAI | Listrik kendaraan kebutuhan keselamatan listrik fungsional |
 | GB 18352.6-2016 dengan Amandemen XG1-2026 (Cina - 6 cahaya kendaraan emisi polutan) | Kementerian Ekologi dan Lingkungan (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | TERBATAI | Cina - 6 ringkas emisi tahap dan 2026 tanggal implementasi Amandemen |
 
-* Catatan keyakinan: dimensi dan langkah-langkah jangkauan telah diperiksa di seluruh dua database; detail mesin, waktu cepat-biaya dan 2100 km klaim tunggal-sumber faktor- klaim. Tidak ada halaman OEM yang ditangkap di luar negeri - hanya referensi pasar Cinese-. ♪
+* Konfidence mencatat: dimensi dan langkah-langkah jangkauan telah diperiksa di seluruh dua database; detail mesin, waktu pengisian cepat dan 2100 km klaim tunggal-sumber / faktor- klaim. Tidak ada OEM halaman luar negeri ditangkap - referensi pasar Cinese- saja. ♪
 
 ## Editorial Review
 - ** Penulis **: Tim Editorial Expor AutoBridge

@@ -61,7 +61,7 @@ Einer der klarsten Betrugsindikatoren ist ein **Bezahlkontoname, der sich vom ve
 - Bevorzugen Sie Zahlungsinstrumente, die mit dem Risiko übereinstimmen (siehe T T vs L C-Leitfaden); vermeiden Sie eine vollständige Vorauszahlung an ein nicht verifiziertes Unternehmen.
 
 ## Was AutoBridge über eine Business-Lizenz hinausfügt Screenshot
-Ein Lizenz-Scan beweist, dass ein Unternehmen existiert, nicht dass es * Ihr* Fahrzeug exportieren kann. This guide recommends checking the counterparty against the **current-year MOFCOM qualified list** (2026 application under 商办贸函〔2025〕408号; reine EV-Passagierlizenzen von 2026-01-01 unter gemeinsamer Bekanntmachung Nr. 54), rekonstruiert die Markenautorisierungskette bis zum OEM und führt eine **Vertrags-/Rechnungs-/Bankkonto-Namensübereinstimmung** vor der Einzahlung durch – die drei Prüfungen, die einen ermächtigten Ausführer von einer Handelsschale unterscheiden.
+Ein Lizenz-Scan beweist, dass ein Unternehmen existiert, nicht dass es * Ihr* Fahrzeug exportieren kann. Dieser Leitfaden empfiehlt, die Gegenpartei gegen die **current-year MOFCOM qualified list** (2026 application under 商办贸函〔2025〕408号; reine EV-Passagierlizenzen von 2026-01-01 unter gemeinsamer Bekanntmachung Nr. 54), rekonstruiert die Markenautorisierungskette bis zum OEM und führt eine **Vertrags-/Rechnungs-/Bankkonto-Namensübereinstimmung** vor der Einzahlung durch – die drei Prüfungen, die einen ermächtigten Ausführer von einer Handelsschale unterscheiden.
 ## Eine praktische Acht-Schritte-Sequenz
 
 1. Ziehen Sie den gsxt Business-Lizenz-Record unabhängig voneinander.

@@ -51,7 +51,7 @@ SARS handles the customs declaration, valuation and collection of duty and tax. 
 4. Leave duty/VAT computation to SARS's current schedule via the importer's clearing agent; do not quote a tax number in the proforma.
 5. Sequence the deposit/balance so final payment is not contingent on the vehicle arriving before permits are ready.
 
-South Africa is a left-hand-traffic market that registers right-hand-drive vehicles; a Chinese left-hand-drive unit faces an additional, often decisive, barrier that should be settled with the buyer and the authorities before production or shipment rather than disputed afterward.
+Steering side is a separate compatibility question to settle before production or shipment rather than after arrival: confirm for the specific model, with the buyer and the registering authority, whether a Chinese left-hand-drive build matches what South Africa's current registration regime admits, and do not treat it as assumed.
 
 ## FAQ
 **Do I need both an ITAC permit and an NRCS LOA?**

@@ -35,7 +35,7 @@ Ngay cả một L/C sạch cũng không chữa được việc tiếp xúc với
 
 ## FAQ
 **Một L/C không thể thay đổi là một bảo đảm thanh toán? Đây là một công việc cướp ngân hàng có điều kiện về một trình bày tuân theo; những điều khoản mềm có thể vẫn trì hoãn hoặc chặn việc thanh toán.
-♪ Chia T/T an toàn là gì? ♪ Một khoản tiền gửi đi cộng với sự cân bằng so với bằng chứng vận chuyển; tỷ lệ chính xác là một quyết định thương mại, chứ không phải một quy tắc cố định.
+Chia T/T an toàn là gì? Một khoản tiết kiệm sản xuất và cân bằng so với bằng chứng vận chuyển; tỷ lệ chính xác là một quyết định thương mại, chứ không phải một quy tắc cố định.
 **D/P đấu với D/A? Dưới D/P người mua trả tiền để có được tài liệu; dưới D/A người đó chấp nhận và trả sau — nguy cơ xuất khẩu cao hơn nhiều.
 **Tôi có nên chấp nhận O/A cho người mua đầu tiên không? Thường thì không phải là không có bảo hiểm tín dụng, bảo đảm hoặc mối quan hệ đã được thiết lập.
 ** UCP600 có đè lên hợp đồng của tôi không? Không — UCP600 chi phối công trạng khi kết hợp; hợp đồng bán hàng và nội dung vẫn đặt ra thỏa thuận.

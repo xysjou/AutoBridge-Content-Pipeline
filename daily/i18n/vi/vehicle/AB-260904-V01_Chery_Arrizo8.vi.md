@@ -52,7 +52,7 @@ Không có giá xuất khẩu tĩnh nào được xuất bản. Giá hướng d�
 **Là quán rượu Arizo 8 một quán rượu cỡ trung hay nhỏ? Ở 4780 mm chiều dài với 2790 mm bánh xe nó ngồi ở rìa trên của trường co đặc, gần chiều B - tích phân loại nó bằng dấu chân đo, chứ không phải nhãn hiệu tiếp thị.
 1.6T có bao nhiêu sức mạnh? Trung Quốc có 1.6TGDI người được ghi nhận là 145 kW (khoảng 197 PS) và 290 N·m người, cộng với 7-speed DCT ướt.
 ** Có phải tiếng Trung Quốc thông dụng giống hệt xuất khẩu Arizo 8 mẫu? Không giả định — tờ giấy này là một tham chiếu thị trường Trung Quốc; điều chỉnh đích và thiết bị cần thiết bị đặc trưng của địa phương OEM.
-**Does China-6 emission mean the car is certified for my market?** No; Loại sự chấp thuận đích đến là một quá trình riêng biệt.
+Có phải Trung Quốc năm 6 có nghĩa là chiếc xe được chứng nhận cho thị trường của tôi? Không, sự chấp thuận kiểu đích là một quá trình riêng biệt.
 
 ## Thu ảnh
 - Không có bảo mật trong kho
@@ -91,7 +91,7 @@ Không có giá xuất khẩu tĩnh nào được xuất bản. Giá hướng d�
 | GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Bộ điều hành thị trường | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VEII | Đường dây cơ bản trong Trung Quốc điều kiện an toàn của phương tiện và dòng thời gian/xem hiện tại |
 | GB 18352.6-2016 với tu chính án XG1-2026 (Trung Quốc 6 ánh sáng-vehictt phóng xạ) | Bộ sinh thái học và Môi trường (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VEII | Chương trình khai thác ánh sáng ở Trung Quốc 6 và 2026 ngày thực hiện sửa đổi |
 
-*Agiidence: không có tờ thông tin chính nào của OEM bị ghi lại; các con số được kiểm tra chéo các giá trị cơ sở dữ liệu của Trung Quốc. Cửa, bố trí ổ đĩa và tốc độ tối đa là nguồn đơn. Giá nhà rất nhạy cảm và không bao giờ là một câu trích dẫn xuất khẩu. ♪
+*AIDidence: không có tờ thông tin chính OEM được ghi lại; các con số được kiểm tra chéo giá trị cơ sở dữ liệu của Trung Quốc. Cửa, bố trí ổ đĩa và tốc độ tối đa là nguồn đơn. Giá nhà nhạy cảm với thời gian và không bao giờ được xuất khẩu. *
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team_· phương pháp trên mỗi [chính sách] (/tách-chính trị/)

@@ -27,7 +27,7 @@
 | ターンサークル | **5.5 m** |
 | ミッション | 中国- 6 ディーゼル |
 
-Payloadは、最も頻繁にコンプライアンスの問題を引き起こす数字です。 a marketing "about two-tonne" line is not a legal rating. The authoritative rated payload is the one on the **MIIT public announcement  and  車両の適合証明書**、  and  ボディタイプ(ドロップサイド対ボックスバン)で変化します。  and  体重を抑制する。
+Payloadは、最も頻繁にコンプライアンスの問題を引き起こす数字です。 a marketing "about two-tonne" ラインは法的評価ではありません. 権威のあるペイロードは、 **MIIT public announcement  and  車両の適合証明書**、  and  ボディタイプ(ドロップサイド対ボックスバン)で変化します。  and  体重を抑制する。
 
 ## エンジン・バージョン・バウンダリー
 - JX493ZLQ6D (このページ): 2.499 L、90 kW/122 PS 。**

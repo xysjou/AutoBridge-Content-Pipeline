@@ -12,7 +12,7 @@
 - ** نطاق الشيمة**: المادة + المركبات (لا منتج/منتج/مراجعة)
 
 ## سياق الشراء: رأس جرارة مع خطوط منفصلة للانبعاثات والطاقة
-The **Foton Daimler AUMAN EST (欧曼 EST)** is a Chinese-market heavy tractor head. The China-V EST510  and  the China-VI X13 are different emission generations,  and  )أ(مقياس كهرباء النبات هو خط مستقل** - لا يجب أبدا دمجها في مواصفات واحدة. السوق المرجعية** الصين**.
+The Foton Daimler AUMAN EST (欧曼 EST) is a Chinese-market heavy tractor head. إن الصين-V EST510 والصين-VI X13 مختلفان من أجيال الانبعاث، كما أن جرار كهرباء البطاريات هو خط منفصل - يجب ألا يدمجا أبدا في مواصفات واحدة. السوق المرجعية هي الصين.
 
 ## خطوط وموصلات محددة
 - ** الصين - V EST510 **: 国五 EST510: 福康 ISGe5-510/X12, 6x4, 公告型号 BJ4259SNFKB-AA.
@@ -31,7 +31,7 @@ The **Foton Daimler AUMAN EST (欧曼 EST)** is a Chinese-market heavy tractor h
 | خط مستقل | 2026 纯电牵引申报: 双电机峰值 350kW, 总质量 25000kg | - | CHINA | SINGLE OURCE | 新浪财经 |
 
 ## عمليات التحقق من الصادرات: توليد الانبعاثات، والشبكة العالمية للأسلحة، والحدود الحدودية للمركبات
-Always state whether the unit is China-V (historical) or current China-VI; لا تقدم وحدة من طراز China-V كما هي حالية. Exact GCW, fifth-wheel load and GVW require the homologation announcement for the specific model code. ولا يُقبض على استهلاك بصورة موثوقة إما للديزل أو الديزل أو الدي في، وهو مُحجب. ملف جرارة الـ 2026 بي في (المحركة الـ 350 kW)  25 000 kg total mass) is reported as a **separate energy line**, ليس كبديل من الديزل
+دائماً تذكر ما إذا كانت الوحدة هي الصين (historical) or current China-VI; لا تقدم وحدة من طراز China-V كما هي حالية. Exact GCW, حمولة العجلات الخامسة و GVW يتطلبان الإعلان عن التلويث لرمز نموذجي محدد. ولا يُقبض على استهلاك بصورة موثوقة إما للديزل أو الديزل أو الدي في، وهو مُحجب. ملف جرارة الـ 2026 بي في (المحركة الـ 350 kW)  25 000 kg total mass) يُبلَّغ عنها **separate energy line**, ليس كبديل من الديزل
 
 ## التحقق من المشتري في الخارج قبل الدفع
 1. State China-V (historical) vs China-VI current; never relabel old as current.

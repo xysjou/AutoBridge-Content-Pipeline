@@ -48,7 +48,7 @@
 
 ## よくある質問
 **Why are there two power figures (343  and  337 kW)?** 343 kW は定格電力  and  337 kW純力 — 同じ465 PSエンジンの異なる測定ベース。
-**What is the train weight?** The documented tractor is rated for a 40 t gross combination weight, トラクター自体の25 t GVWRを使って。
+**電車とは 体重?** 文書化されたトラクター 評価される 40 t グロスコンビネーション 体重, と 25 t GVWR トラクター自体のため。
 **マニュアルか自動か。** 14-speed DT14ギアボックスは、マニュアルとATMフォームで提供されます。 どちらを指定します。
 **520/560とガスバージョンの同トラックですか?** KL
 

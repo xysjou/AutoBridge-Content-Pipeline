@@ -37,7 +37,7 @@ Gemäß **GACC Order No. 277 (Bestimmungen über die Erklärung der Ein- und Aus
 Ein vom Käufer nominiertes PSI ist eine kommerzielle Prüfung, nicht die chinesische gesetzliche Genehmigung; und die BEV-Exportlizenz ist ein Handelsverwaltungsinstrument, keine Wareninspektion.
 
 ## Grenzen dieser Seite
-- Ob **ein bestimmtes Fahrzeug zehnstelliger Code derzeit im Katalog** sitzt, ist **zeitsensibel und codespezifisch**: the batch did not obtain the line-by-line export supervision conditions for every 87.02–87.05 code, Diese Seite gibt die Methode, Keine universelle Schlussfolgerung. Überprüfen Sie vor der Anmeldung den **aktuellen Zollkatalog und die Überwachungsbedingung dieses Codes **.
+- Ob **eine bestimmte Fahrzeug/zehnstelliger Code Derzeit sitzt im Inneren der Der Katalog** ist **zeitsensibel und Codespezifisch**: die Charge nicht den zeilenweisen Export erhalten Aufsichtsbedingungen für jeden 87.02–87.05 Code, Diese Seite bietet die Methode, Keine universelle Schlussfolgerung. Überprüfen Sie die **current Zollkatalog und das Aufsichtsbedingung des Codes** vor Erklärung.
 - Das PSI eines Drittanbieters wird niemals als gesetzliche Inspektion bezeichnet; die BEV-Lizenz wird niemals als Inspektion bezeichnet.
 
 ## Häufig gestellte Fragen

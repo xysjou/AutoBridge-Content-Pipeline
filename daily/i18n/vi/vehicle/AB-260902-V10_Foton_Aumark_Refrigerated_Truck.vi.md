@@ -111,7 +111,7 @@ Không có giá nào được thu — giá bán đá ngầm khác nhau nhiều h
 | GB 18352.6-2016 với tu chính án XG1-2026 (Trung Quốc 6 ánh sáng-vehictt phóng xạ) | Bộ sinh thái học và Môi trường (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VEII | Chương trình khai thác ánh sáng ở Trung Quốc 6 và 2026 ngày thực hiện sửa đổi |
 | GB 19147 nhiên liệu dầu diesel quốc gia tiêu chuẩn (cơ sở chậm-sur) | Nền tảng chuẩn toàn quốc SAR | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VEII | Chất đốt tổng hợp và chất lưu huỳnh khớp với thiết kế của động cơ/phát ra ở nước ngoài |
 
-*Briendence Note (tự động Bridge: Sự thật về chất Clammin/Suyun được thực hiện dựa trên vật liệu Foton và kiểm tra chéo; những con số chi tiết về A Kiệt thoại là SINGLE_SOURCE (360che). Mô hình và giá trị của đơn vị được dựa trên xây dựng và không xác định giá; xác nhận bằng văn bản. ♪
+Ghi chú tự tin (tự động Bridge: Các sự kiện Cummins/Suyun được thực hiện trên các tài liệu chính thức Foton và kiểm tra chéo; các thông báo chi tiết của Jieyun là SINGLE_SOURCE (360che). Mô hình và giá trị của đơn vị được dựa vào xây dựng và không xác định giá; xác nhận bằng văn bản. *
 
 ## Xem lại tập tin
 - **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)

@@ -46,7 +46,7 @@ L'empattement 2790 mm place la voiture au-dessus d'une berline compacte standard
 5. ** Mode d'expédition** — un conteneur de saloon de 4.78 m ou un arrimage RoRo; confirmer le nombre de plans de charge plutôt que d'estimer.
 
 ## Demande de contingentation à l'exportation actuelle
-Aucun prix à l'exportation statique n'est publié. The Chinese guide price (a 2024 卓越 trim reference around RMB 99,900) est un **domestique, chiffre sensible au temps seulement — ce n'est pas une cotation FOB ou CIF  and  ne doit pas être converti en un**. Demande avec **Pays de destination · Quantité · Trim préféré · LHD/RHD · Port de destination · Incoterm**.
+Pas de prix statique à l'exportation est publié. Le prix indicatif chinois (a 2024 卓越 référence autour de RMB 99, 900) est un ** domestique, chiffre sensible au temps seulement — ce n'est pas un FOB ou CIF prix et ne doit pas être converti en un**. Demande avec **Pays de destination · Quantité · Préféré Taille · LHD / RHD · Port de destination · Incoterm**.
 
 ## Foire aux questions
 **Le Arrizo 8 est-il un saloon compact ou de taille moyenne?** Avec 4780 mm de long avec un empattement 2790 mm, il se trouve au bord supérieur du champ compact, près des dimensions du segment B — classifier par l'empreinte mesurée, et non par l'étiquette de commercialisation.

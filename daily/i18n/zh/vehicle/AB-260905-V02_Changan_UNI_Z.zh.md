@@ -39,7 +39,7 @@
 | 中屏幕 | 14.6 | 英寸 维基月球 | 中国 | 资源 | 汽车之家车家号 维基月球 |
 
 ## 为什么电池线和V2L 出口订单的要紧
-UNI-Z命令容易错误的指定,因为同一徽章覆盖了不同的电气化级别. 命名 ** 电池容量  and  电场线**,proforma,  and  treat the 85 DC  and  3.3 V2L figures as Chinese-market equipment to be re-confirmed for the destination wiring/grid standard. CLTC电场不是WLTP图,这里捕捉到的中国来源没有建立出口市场名称,动力列车校准或保修.
+UNI-Z命令容易错误的指定,因为同一徽章覆盖了不同的电气化级别. 命名 ** 电池容量  and  电场线**,proforma,  并治疗 85 DC  and  3.3 V2L数字是中国市场设备,将重新确认目的地布线/网格标准. CLTC电场不是WLTP图,这里捕捉到的中国来源没有建立出口市场名称,动力列车校准或保修.
 
 ## 付款前对海外买方的核实
 1. 由VIN确认精确的PHEV配置和电池容量;将其与ICE UNI-Z架构分离.

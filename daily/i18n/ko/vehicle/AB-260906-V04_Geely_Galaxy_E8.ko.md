@@ -31,7 +31,7 @@ Chinese sources describe several lithium battery packs (roughly 62 / 67.8 / 76 k
 
 ## 충전 아키텍처: 800V은 버전 의존입니다.
 
-더 높은 버전은 800-volt 고전압 플랫폼을 사용하여 DC 고속 충전 기능을 지원하는 정확한 피크 충전 전력 동안  and  10–80% time are not available from an official source here  and  그래서 ** 고정 값으로 명시되지 않음** — 트림 당 확인. 수출을 위해, 육체적인 연결관 및 위탁 기준 (중국 versus CCS/other 목적지 기준에 있는 GB/T)는 OEM 수출 장이 대답해야 하는 분리되는, 결정적인 질문입니다.
+더 높은 버전은 800-volt 고전압 플랫폼을 사용하여 DC 고속 충전 기능을 지원하는 정확한 피크 충전 전력 동안  and  10–80% 시간은 여기에 공식 소스에서 사용할 수 없습니다.  그래서 ** 고정 값으로 명시되지 않음** — 트림 당 확인. 수출을 위해, 육체적인 연결관 및 위탁 기준 (중국 versus CCS/other 목적지 기준에 있는 GB/T)는 OEM 수출 장이 대답해야 하는 분리되는, 결정적인 질문입니다.
 
 ## 소프트웨어, OTA 및 조종석
 

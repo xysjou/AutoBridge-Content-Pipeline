@@ -4,7 +4,7 @@
 - ** Judul SEO **: Verifikasi Pendukung Ekspor Mobil Cina: Due- Diligence Checklist
 - ** Meta Description **: Sebuah kerangka kerja dua tingkat untuk memeriksa ekspor kendaraan Cina - pengumuman MIIT CCC kualifikasi, pemeriksaan bisnis, ekspor rantai otorisasi, AEO, pencocokan dan standar audit video.
 - ** Sugested URL **: guide verify-china-char- exports-suppliers
-- ♪ ♪ H1 Vetting a Chinese Vehicle Exporter: Apa yang harus diverifikasi Sebelum Pembayaran Pertama
+-   H1 Vetting a Chinese Vehicle Exporter: Apa yang harus diverifikasi Sebelum Pembayaran Pertama
 - ** Primary Keyword **: verifikasi pemasok ekspor mobil Cina karena lisensi ketekunan
 - ** Akhir Pencarian Second **: China ekspor kendaraan kualifikasi, MIIT kendaraan pengumuman, produsen sertifikat CCC, cek lisensi bisnis gsxt, Cina rantai otorisasi ekspor mobil, kredit bea cukai AEO
 - ** Internal Link Sugestions **: guide kendaraan import- tugas -tt- vs-lc guide userd-chine- ving-inspeksi panduan truk komersi- truk-penjualan -s- procurement -china
@@ -127,7 +127,7 @@ Pemindaian lisensi membuktikan perusahaan itu ada, bukan berarti itu bisa mengek
 | Catatan penguapan ekspor kendaraan | (顺企网, industri) | CN | https://m.11467.com/blog/d18906274.htm | 2026-09-02 | _ BERDECAT | Minimal video-audit, pemeriksaan deklarasi | 11467
 | Prosedur ekspor truk domestik | Guangzhou Pujiang Trade | CN | https://guangzhou053049.11467.com/m/news/15260806.asp | 2026-09-02 | _ BERDECAT | Ekspor melalui entitas yang berkualitas, rantai otorisasi | 11467
 
-* Rasa percaya diri mencatat (Standar AutoBridge): Aturan kualifikasi tersisa pada mofcom MIIT utama sumber (terinfilmasi), sekarang termasuk 2026 pemberitahuan aplikasi (商办贸函 = 2025 = 408 号)  and  Pengumuman bersama No. 54 pada pure-EV ekspor penumpang lisensi. Daftar yang dikualifikasi oleh media-tahun dan permintaan AEO dinamis dan harus diperiksa secara langsung; item checklist operasional diinstruksikan dan menunjuk kembali ke sistem resmi. ♪
+* Catatan kepercayaan (standar AutoBridge): aturan kualifikasi tersisa pada MOFCOM / MIIT utama sumber (VERIFIED), sekarang termasuk 2026 pemberitahuan aplikasi (商办贸函 = 2025 408 号) dan gabungan Pengumuman No. 54 pada pure-EV ekspor penumpang lisensi. Daftar berkualifikasi tahun-tahun dan kueri AEO dinamis dan harus diperiksa secara langsung; item checklist operasional diimplementasikan ke sumber dan arahkan kembali ke sistem resmi. ♪
 
 ## Editorial Review
 - *** Penulis Penilik **: [AutoBridge Ekspor Editorial Tim] penulis

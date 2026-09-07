@@ -12,7 +12,7 @@
 - **ALT Vorschläge**: " UN3556 eingebautes Batteriefahrzeug gegenüber UN3480 loser Batterie unter IMDG 42-24 "
 
 ## The Classification Changed — Old UN3171 Habits Are Now Wrong
-Eine gängige Praxis vor 2026 war es, jedes batteriebetriebene Fahrzeug unter ** UN3171 ** zu buchen. Unter dem **aktuellen verbindlichen IMDG-Code, Änderung 42-24 ** (angenommen durch IMO-Entschließung **MSC. 556 (108) ** und **obligatorisch in China von 2026-01-01 ** gemäß dem offiziellen Text der China Maritime Safety Administration), ist das für Mainstream-Lithiumfahrzeuge nicht mehr korrekt. Using the old number on a 2026 declaration is a classification error that stops dangerous-goods paperwork at booking.
+Eine gängige Praxis vor 2026 war es, jedes batteriebetriebene Fahrzeug unter ** UN3171 ** zu buchen. Unter dem **aktuellen verbindlichen IMDG-Code, Änderung 42-24 ** (angenommen durch IMO-Entschließung **MSC. 556 (108) ** und **obligatorisch in China von 2026-01-01 ** gemäß dem offiziellen Text der China Maritime Safety Administration), ist das für Mainstream-Lithiumfahrzeuge nicht mehr korrekt. Verwenden Sie die alte Nummer auf einem 2026 Erklärung ist ein Klassifizierungsfehler, der den Papierkram bei der Buchung von gefährlichen Gütern stoppt.
 
 ## Ganzes Fahrzeug (Batterie installiert): UN3556 UN3557 UN3558
 Für ein **Fahrzeug, das mit eingebauter Batterie transportiert wird**:

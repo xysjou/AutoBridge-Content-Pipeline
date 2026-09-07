@@ -19,8 +19,9 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "Incoterms2020解释"
+   "official_source": true,
+   "source_scope": "Incoterms2020解释",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "2020国际贸易术语详解（FOB风险点改为装上船）",
@@ -36,8 +37,9 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "Incoterms2020解释"
+   "official_source": true,
+   "source_scope": "Incoterms2020解释",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "跨境电子商务贸易术语（风险转移教材）",
@@ -53,8 +55,9 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "CROSS_CHECKED",
-   "official_source": "NO",
-   "source_scope": "教学参考"
+   "official_source": false,
+   "source_scope": "教学参考",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "Incoterms 2020 rules (ICC)",
@@ -69,9 +72,10 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "VERIFIED",
-   "official_source": "YES",
+   "official_source": true,
    "source_scope": "",
-   "added_by": "Writing AI CONTROLLED_RESEARCH_PATCH 2026-09-05"
+   "added_by": "Writing AI CONTROLLED_RESEARCH_PATCH 2026-09-05",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "WCO Origin instruments and tools",
@@ -86,9 +90,10 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "VERIFIED",
-   "official_source": "YES",
+   "official_source": true,
    "source_scope": "",
-   "added_by": "Writing AI CONTROLLED_RESEARCH_PATCH 2026-09-05"
+   "added_by": "Writing AI CONTROLLED_RESEARCH_PATCH 2026-09-05",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "ICC Rules (Incoterms 2020 rule owner — dedicated page)",
@@ -104,8 +109,9 @@
    ],
    "checked_date": "2026-09-06",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "Authoritative ICC rules index confirming Incoterms 2020 as the current copyrighted term set and its maintenance by ICC"
+   "official_source": true,
+   "source_scope": "Authoritative ICC rules index confirming Incoterms 2020 as the current copyrighted term set and its maintenance by ICC",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "FIATA — freight forwarder practice under Incoterms",
@@ -121,8 +127,9 @@
    ],
    "checked_date": "2026-09-06",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "Forwarder-side interpretation of delivery point, risk transfer and transport obligations under Incoterms"
+   "official_source": true,
+   "source_scope": "Forwarder-side interpretation of delivery point, risk transfer and transport obligations under Incoterms",
+   "scope_match": "MATCHED"
   }
  ],
  "source_integrity_note": "政府/监管/贸促会源按实际主体与URL标注；T4 SEO仅作线索并显式UNVERIFIED，未冒充官方。",
@@ -131,5 +138,6 @@
   "added_by": "Writing AI (pre-publication repair)",
   "sources_added": 7,
   "note": "Distinct primary/international organizations added 2026-09-06; all URLs HTTP-200 verified; parent-org normalization applied; no weak filler."
- }
+ },
+ "t1_only_recomputed_on": "2026-09-07"
 }

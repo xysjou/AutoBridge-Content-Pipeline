@@ -25,13 +25,13 @@ PVoC is a conformity-assessment programme applied in the exporting country: appo
 
 ## KRA: customs procedure and the tax stack
 
-KRA states that motor-vehicle imports are subject not to a single import duty but to a stack that varies with HS classification — import duty plus excise, VAT, the Import Declaration Fee and the Railway Development Levy at prescribed rates, all payable before release. KRA values vehicles using its own valuation framework (the Current Retail Selling Price database for used vehicles), which can exceed the transaction price. A licensed customs clearing agent files the declaration, supported by the CoC/ISM where applicable, invoice and other import documents.
+KRA states that motor-vehicle imports are subject not to a single import duty but to a stack that varies with HS classification — import duty plus excise, VAT, the Import Declaration Fee and the Railway Development Levy at prescribed rates, all payable before release. KRA applies its own customs valuation framework rather than accepting the invoice at face value; the precise used-vehicle valuation reference and the current figures must be read from the current KRA page for the specific unit. A licensed customs clearing agent files the declaration, supported by the CoC/ISM where applicable, invoice and other import documents.
 
 > This page deliberately gives no fixed duty, excise, VAT, IDF or RDL percentages and no CRSP formula. They are revised by KRA and depend on engine class, age and HS code; the importer must use KRA's current published rates and valuation for the specific unit.
 
 ## The vehicle-age rule is rolling — read the current KRA statement
 
-Kenya controls the age of imported used vehicles, and KRA publishes the allowed manufacture years on a rolling basis (its customs FAQ states the manufacture years currently permitted). Because that cut-off moves forward over time, an exporter must not hard-code a fixed 'eight-year' or any other number into a sales pitch; the correct action is to check the current KRA statement for the year of shipment and compare it against the specific unit's manufacture date. Right-hand drive and road-safety/emissions expectations also apply, with only narrow exemptions.
+Kenya controls the age of imported used vehicles, and KRA publishes the allowed manufacture years on a rolling basis (its customs FAQ states the manufacture years currently permitted). Because that cut-off moves forward over time, an exporter must not hard-code a fixed 'eight-year' or any other number into a sales pitch; the correct action is to check the current KRA statement for the year of shipment and compare it against the specific unit's manufacture date. Kenya's steering-side and road-safety/emissions expectations should likewise be confirmed against the current KRA/KEBS position for the specific unit rather than assumed.
 
 ## Order of operations for a China–Kenya vehicle deal
 
@@ -53,7 +53,7 @@ Kenya controls the age of imported used vehicles, and KRA publishes the allowed 
 
 ## Where China-side exporters lose the deal
 
-- Quoting a fixed age limit or duty that has since changed; shipping before the PVoC CoC exists; presenting a left-hand-drive or over-age unit the market cannot register; mismatching the CoC and invoice; assuming a clean Chinese inspection substitutes for the KEBS-appointed PVoC.
+- Quoting a fixed age limit or duty that has since changed; shipping before the PVoC CoC exists; offering a unit whose steering side or manufacture year the current KRA rules do not admit; mismatching the CoC and invoice; assuming a clean Chinese inspection substitutes for the KEBS-appointed PVoC.
 
 ## FAQ
 **Does KEBS inspection happen in China or Kenya?**

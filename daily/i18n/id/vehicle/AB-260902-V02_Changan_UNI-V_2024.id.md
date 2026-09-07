@@ -114,7 +114,7 @@ Tidak ada harga ekspor AutoBridge statis. RMB 108, 900–139, 900 Harga panduan 
 | Laman spesifikasi UNI- V | Konfig rumah otomatis | CN | https://www.autohome.com.cn/config/spec/66851.html | 2026-09-02 | SINGLE _ SOURCE | Berat rangka (satu sumber) |
 | Laporan peluncuran Univ-V baru | Jika Auto (凤凰网汽车) | CN | https://auto.ifeng.com/c/8Y79qxCFD3L | 2026-09-02 | _ BERDECAT | Skorsing MacPherson multi- link |
 
-* Catatan kepercayaan (standar AutoBridge): 1.5T kuat kereta api dan 2750 mm roda yang teralih pada halaman milik Changan sendiri (produsen resmi). Angka 2.0T adalah CROSS _ CHECTD di database independen; bobot pinggir adalah SINGLE _ SOURCE dan harus cocok dengan pelat kepatuhan. ♪
+* Konfidence mencatat (standar AutoBridge): 1.5T kuat kereta api dan 2750 mm pangkalan roda yang teralih pada halaman Changan sendiri (produsen resmi). Angka 2.0T adalah CROSS _ CHECDID di database independen; bobot pinggir adalah SINGLE _ SOURCE dan harus cocok dengan pelat kepatuhan. ♪
 
 ## Editorial Review
 - *** Penulis Penilik **: [AutoBridge Ekspor Editorial Tim] penulis

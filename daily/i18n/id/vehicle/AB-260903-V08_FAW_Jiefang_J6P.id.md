@@ -36,7 +36,7 @@ J6P menawarkan beberapa varian taksi (siang tidur, tinggi atap) untuk panjang-ha
 Cina - VI diesel menggunakan EGR + DOC + DPF + SCR dan membutuhkan ** ultra- rendah-sulphur diesel dan DEF (AdBlue) *. Sebelum ekspor, verifikasi (a) tingkat sulfur bahan bakar tujuan mendukung sistem perawatan setelah (b) apakah China- VI diterima atau diperlukan emisi berbeda, dan (c) kondisi regenerasi DPF dalam iklim operasi. Sebuah traktor Cina-VI tidak bisa hanya menjadi "menggelincirkan" tanpa dasar teknik persetujuan.
 
 ## Apa yang seharusnya Diverifikasi Importers Sebelum Pembayaran
-1. Mesin model yang tepat (CA6DM2 vs CA6DM3), daya, tahap emisi. ♪ ♪
+1. Model kode yang tepat untuk mesin (CA6DM2 vs CA6DM3), daya, tahap emisi.
 2. ** Tata letak kandar dan GCW berperingkat ** pada sertifikat; rasio axle dan suspensi.
 3. ** Model Gearbox dan AMT manual **, kopling dan PTO kebutuhan.
 4. Kompabilitas bahan bakar dan persetujuan tipe tujuan.
@@ -91,7 +91,7 @@ Mesin apa yang ada di J6P 460? Xichai CA6DM2-46E6, sebuah inline- 11.05 L 6 Cina
 | GB 17691-2018 juta - tugas kendaraan diesel pencemaran emisi (China- VI) | Kementerian Ekologi dan Lingkungan (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | TERBATAI | China- VI kompresi- pengapian (berat diesel) tahap emisi untuk truk pelatih |
 | GB 19147 mobil yang diesel bahan bakar nasional standar (low-sulfur basis) | Standar nasional SAMR platform penuh teks | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | TERBATAI | Kelas bahan bakar Diesel dan sulfur dasar untuk mencocokkan desain mesin emisi di luar negeri |
 
-* Catatan kepercayaan: tidak ada lembar spesifikasi utama FAW yang diambil; 460 mesin torque adalah cross- check (CROSS _ CHECTWD), sedangkan 13 L 560 PS dan ~ 40 t GCW adalah sumber tunggal dan terikat pada kode model homologated. Cina - VI setelah-perawatan kompatibilitas adalah cek rekayasa persetujuan, tidak diasumsikan. ♪
+* Catatan confidence: tidak ada lembar spesifikasi primer yang ditangkap; 460 mesin / torque adalah cross- diperiksa (CROSS _ CHECTWD), sementara 13 L 560 PS dan ~ 40 t GCW tunggal-sumber dan terikat ke kode model homolog. Cina - VI setelah-perawatan kompatibilitas adalah pemeriksaan rekayasa / persetujuan, tidak diasumsikan. ♪
 
 ## Editorial Review
 - *** Penulis Penilik **: [AutoBridge Ekspor Editorial Tim] penulis

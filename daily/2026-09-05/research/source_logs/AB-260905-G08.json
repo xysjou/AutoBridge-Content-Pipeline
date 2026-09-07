@@ -18,8 +18,9 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "出口退税"
+   "official_source": true,
+   "source_scope": "出口退税",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "关于出口业务增值税和消费税政策的公告",
@@ -34,8 +35,9 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "政策"
+   "official_source": true,
+   "source_scope": "政策",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "出口货物劳务免抵退税和免退税如何计算",
@@ -50,8 +52,9 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "计算方法"
+   "official_source": true,
+   "source_scope": "计算方法",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "进出口税收热点问题（2026年7月）",
@@ -66,8 +69,9 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "热点口径"
+   "official_source": true,
+   "source_scope": "热点口径",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "State Taxation Administration (STA)",
@@ -82,9 +86,10 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "VERIFIED",
-   "official_source": "YES",
+   "official_source": true,
    "source_scope": "",
-   "added_by": "Writing AI CONTROLLED_RESEARCH_PATCH 2026-09-05"
+   "added_by": "Writing AI CONTROLLED_RESEARCH_PATCH 2026-09-05",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "GACC — export declaration as VAT-refund verification basis",
@@ -100,8 +105,9 @@
    ],
    "checked_date": "2026-09-06",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "Customs export declaration data is matched by tax authorities to verify export VAT refund/refund-exemption eligibility"
+   "official_source": true,
+   "source_scope": "Customs export declaration data is matched by tax authorities to verify export VAT refund/refund-exemption eligibility",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "STA — export VAT refund policy index (deep page)",
@@ -117,8 +123,9 @@
    ],
    "checked_date": "2026-09-06",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "Tax-authority policy column carrying current export VAT refund/exemption announcements (no rebate rate asserted here)"
+   "official_source": true,
+   "source_scope": "Tax-authority policy column carrying current export VAT refund/exemption announcements (no rebate rate asserted here)",
+   "scope_match": "MATCHED"
   }
  ],
  "source_integrity_note": "政府/监管/贸促会源按实际主体与URL标注；T4 SEO仅作线索并显式UNVERIFIED，未冒充官方。",
@@ -127,5 +134,6 @@
   "added_by": "Writing AI (pre-publication repair)",
   "sources_added": 7,
   "note": "Distinct primary/international organizations added 2026-09-06; all URLs HTTP-200 verified; parent-org normalization applied; no weak filler."
- }
+ },
+ "t1_only_recomputed_on": "2026-09-07"
 }

@@ -25,7 +25,7 @@ Welchen Weg Sie einschlagen, entscheidet sich dafür, wie sich die Einheit tats�
 2. **SDS/MSDS (GHS)** zur Identifizierung des **korrekten UN-Eintrags (UN3556 für ein Lithium-Ionen-Fahrzeug), der Klasse 9 und des EmS-Zeitplans** — aktualisieren Sie jedes alte Dokument, das immer noch nur UN3171. benennt
 3. **Gefährliche Warenerklärung und Frachtführer-Buchungsformulare** nach dem ** 42-24 ** Standard (erforderlich auf dem SP962 Pfad).
 4. **Installed-Batterie vs. lose/Ersatzbatterie-Entscheidung. ** Ersatz- oder lose Lithium-Batterien bewegen sich unter ** UN3480/UN3481 **, nicht UN3556, und benötigen ihre eigene Verpackung Dokumentenroute (einschließlich eines Gefahrgut-Verpackungszertifikats, falls zutreffend). Das gesamte Fahrzeug Relief deckt nie Ersatzteile neben verpackt.
-5. ** Beschädigte/defekte oder zurückgerufene Einheiten** sind ein separater Fall: sie erfordern **ausdrückliche Genehmigung des Luftfahrtunternehmens**, kann sich oft nicht zu gewöhnlichen Bedingungen bewegen,  and  must never be relabelled as a normal UN3556 shipment.
+5. **Beschädigte/defekte oder zurückgerufene Einheiten** Es handelt sich um einen separaten Fall: Sie benötigen **explizite Carrier Genehmigung**, Oft kann man nicht weiterziehen gewöhnliche Begriffe, und darf niemals Umbenannt als normal UN3556 Verbringung.
 ## Version und Aktualität (geben Sie diese in jeder Datei an)
 - **Aktuelle Änderung: ** IMDG ** 42-24 (2024 Edition), obligatorisch ab 2026-01-01 **; geben Sie die Änderung auf der Buchung an, anstatt die alte Vorlage eines Spediteurs anzunehmen.
 - ** UN38.3 Revision:** bestätigen die Revision, die Ihre Linie und Ihr Ziel akzeptieren (zeitsensibel).

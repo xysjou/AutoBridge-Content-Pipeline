@@ -32,7 +32,7 @@ Theo thứ tự năm nay, 277 (Phật chiếu về Tuyên Ngôn Nhập và Xuấ
 |---|---|---|
 | **Statutry thanh tra** | Mã số hiện có trong danh mục pháp luật yêu cầu nó | - |
 | **Buyer bên thứ ba PSI** | Yêu cầu hợp tác L/C mua | Không, PSI chưa bao giờ thỏa mãn một nhiệm vụ quy định. |
-| **BVE chứng nhận xuất khẩu* ♪ | Battery-electric passenger cars (reference code 8703801090) under **export-licence administration from 2026-01-01** (four-ministry announcement) | Không, bằng lái và kiểm tra theo quy luật là những hệ thống song song và không bao giờ thay thế nhau |
+| **BVE chứng nhận xuất khẩu*  | Battery-electric passenger cars (reference code 8703801090) under **export-licence administration from 2026-01-01** (four-ministry announcement) | Không, bằng lái và kiểm tra theo quy luật là những hệ thống song song và không bao giờ thay thế nhau |
 
 PSI được đánh dấu bởi người mua là một kiểm tra thương mại, không phải quyền được cấp phép của Trung Quốc; và giấy phép xuất khẩu OV là một công cụ quản lý thương mại, không phải kiểm tra hàng hóa.
 
@@ -82,7 +82,7 @@ Giấy phép xuất khẩu BV có giống như kiểm tra không? Không, từ 2
 | Theo lệnh GACC Số 277, Các sự sắp đặt bằng lời tuyên bố | Hội đồng Quốc gia (Science Council) | CN | https://www.gov.cn/gongbao/2025/issue_12026/202505/content_7022577.html | 2026-09-04 | VEIID (TIẾNG) | Các bác sĩ, trách nhiệm của người ký |
 | Four-ministry announcement on BEV passenger-car export licensing (ref. 8703801090, từ 2026-01-01) | MOFCOM | CN | http://www.mofcom.gov.cn/zfxxgk/gkml/art/2025/art_98e16dc3acdb47568e054d292bd9609a.html | 2026-09-04 | T_ TIẾNG _ DỐI (TIẾNG) | Giấy phép tương ứng với sự phân biệt thanh tra |
 | GACC Notice 2025 No.138 (pre-declaration application optimization) | Tuỳ biến | CN | http://m.toutiao.com/group/7520602188638159398/ | 2026-09-04 | SINGLE_SOURCE | Quá trình tối ưu hoá |
-Phạm vi tính: khung được kiểm tra bởi nguồn chính; kết quả danh mục cho bất kỳ mã số cụ thể nào phải được kiểm tra trực tiếp mà không được tổng quát hóa. ♪
+Phạm vi tính: khung được kiểm tra bởi nguồn chính; kết quả danh mục cho bất kỳ mã số cụ thể nào phải được kiểm tra trực tiếp mà không được tổng quát hóa. *
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team_· phương pháp trên mỗi [chính sách] (/tách-chính trị/)

@@ -3,7 +3,7 @@
 ## SEO Metadata
 - ** Judul SEO **: China Ekspor VAT Kembalikan untuk Kendaraan: Exemption- Credit- Refunt vs Exemption- Refunt Proses
 - ** Meta Description **: Bagaimana pengekspor kendaraan Cina mengklaim ekspor pengobatan VAT: dua metode (pengecualian - kredit - pengembalian dana untuk perusahaan produksi, pengecualian - pengembalian untuk pedagang), urutan arsip, dan mengapa tingkat pengembalian adalah HS-spesifik.
-- ♪ ♪ H1 **: China Ekspor VAT Refunt - Metode, Filing Order dan Rate Lookup
+-   H1 **: China Ekspor VAT Refunt - Metode, Filing Order dan Rate Lookup
 - ** Primary Keyword **: china export vat proses pengembalian dana
 - ** Akhir Pencarian Second **: ekspor VAT pengembalian; Kembalikan kredit; ekspor pajak rebate; laju pengembalian; pajak Cina
 - ** Sugesti URL **: panduan china -export -vatt -refund- proses
@@ -12,7 +12,7 @@
 - ** Skema Scope **: Artikel (tidak ada Produk Offer Review)
 
 ## Dua metode, cocok dengan tipe perusahaan
-PDB ekspor China menggunakan dua metode utama. ** perusahaan produksi manufaktur ** berlaku ** pengecualian-redunt-report (免抵退) *: ekspor keluaran VAT dibebaskan, masukan VAT dikreditkan terhadap keluaran VAT domestik dan residu didanai kembali. * foregly ** foregly-trade commercial company ** that buy and resells for expor *** exceptionseverseversection (免退) **: penjualan ekspor dibebaskan dan masukan VAT yang sesuai didanai kembali. Menggunakan metode yang salah untuk jenis entitas adalah kesalahan pencatatan dasar.
+ekspor China VAT pengaturan menggunakan dua metode utama. Sebuah perusahaan produksi / manufaktur berlaku pengecualian - redunt (免抵退): ekspor keluaran VAT dibebaskan, input VAT dikreditkan terhadap keluaran domestik VAT dan residu didanai kembali. Sebuah perusahaan perdagangan / komersial yang membeli dan mirip dengan ekspor umumnya berlaku pengecualian - pengembalian (免退): penjualan ekspor dibebaskan dan input yang sesuai VAT didanai kembali. Menggunakan metode yang salah untuk tipe entitas adalah kesalahan pencatatan dasar.
 
 ## Perhitungan dan urutan pengajuan
 Masa pengembalian kredit dihitung dari penjualan ekspor, pajak masukan kredit dan laju pengembalian yang berlaku. Setelah deklarasi bea cukai dan faktur yang cocok, data penerimaan dan deklarasi FX, berkas perusahaan mengembalikan pembebasan kembali dalam periode yang ditentukan, lalu melengkapi verifikasi tulis-off. Dokumen harus mendamaikan di seluruh bea cukai, pajak dan FX.

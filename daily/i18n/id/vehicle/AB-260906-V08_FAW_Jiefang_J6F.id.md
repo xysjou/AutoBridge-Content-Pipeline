@@ -87,6 +87,6 @@ Ya, tapi jaga agar OEM tetap menjaga homologasi dan kepatuhan suprastruktur loka
 ## Editorial Review
 - **Author**: AutoBridge Export Editorial Team · [authors](/authors/) · [Editorial Policy](/editorial-policy/)
 - ** Terakhir ditinjau **: 2026-09-06
-- ♪ Referensi pasar ♪ ♪ CHINA N2 蓝牌轻卡 ♪ 额定载质量 总质量 全动力矩阵须公告 二手平台线索不入正文确定值
+-  Referensi pasar   CHINA N2 蓝牌轻卡  额定载质量 总质量 全动力矩阵须公告 二手平台线索不入正文确定值
 - ** Metode Verifikasi **: Penelitian terhadap sumber di bawah ini; spesifikasi referensi pasar Cinese- kecuali pasar ekspor terpisah secara eksplisit dikutip. Barang yang sensitif waktu (rate, fee, list, trim line- up, harga referensi domestik) harus dikonfirmasi ulang pada halaman resmi sebelum melakukan transakting.
 - ** Transparansi **: penggambaran bantuan digunakan. Artikel ini didasarkan pada penelitian meja dan otomatis QA. Tidak ada pengujian pertama-tangan diklaim kecuali secara eksplisit didokumentasikan.

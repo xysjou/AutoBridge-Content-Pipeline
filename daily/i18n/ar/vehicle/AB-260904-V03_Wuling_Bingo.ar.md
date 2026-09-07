@@ -95,7 +95,7 @@
 | GB 38031 traction battery safety requirements (GB 38031-2025; تطبيقات جديدة من النوع إلزامية من 2026-07-01 | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | مفقود | قاعدة متطلبات السلامة في إطار نظام الرواسب الرواسب الإلزامية في مجال الطاقة الكهربائية |
 | GB 18384 electric vehicle safety requirements (GB 18384-2025) | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | مفقود | الأساس الذي يُحتَج به توفير السلامة |
 
-* ملاحظة الملاءمة: تم فحص بطارية وفحص المحركات، وحجم الشحنات، وحساب المقاعد، ودقائق الشحن، من مصدر واحد، وعلامة. لا توجد صفحة من طراز OEM في الخارج - إشارة من السوق الصينية فقط. ♪
+* ملاحظة الملاءمة: تم فحص بطارية الدخول/قوة الدخول؛ وتكسير السيارات، وحجم الشحنات، وحسابات المقاعد، ودقائق الشحن، من مصدر واحد وعلامة. No OEM overseas page - Chinese-market reference only. ♪
 
 ## استعراض التحرير
 - ** Author**: AutoBridge Export Editorial Team; method per our [Editorial Policy](/editorial-policy/)

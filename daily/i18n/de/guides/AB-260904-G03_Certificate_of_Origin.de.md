@@ -24,7 +24,7 @@ Importeure verlangen routinemäßig "das CO", als wäre es ein Papier. Das ist n
 Jede FTA hat ihre **eigenen Ursprungsregeln, Form und Code** – ein Zertifikat, das für eine Vereinbarung erstellt wurde, kann nicht für eine andere wiederverwendet werden.
 
 ## Wer gibt es aus: Zoll oder CCPIT
-Die beiden autorisierten Ausstellungskanäle sind **China Customs** und **CCPIT (China Council for the Promotion of International Trade) und seine lokalen Niederlassungen**:
+Die beiden autorisierten Ausgabekanäle sind China Customs and CCPIT (China Council für) Förderung der internationalen Handel and seine lokalen Zweigstellen:
 - Wenn der ** Importeur eine offizielle Regierungsbehörde** benötigt, wenden Sie sich über **Zoll** an.
 - Wenn der Käufer nicht angegeben hat, kann der Exporteur einen Antrag auf **either** stellen. Zoll oder CCPIT.
 - Das gewöhnliche (nicht präferentielle) Zertifikat von CCPIT wird in der Regel **ohne Gebühr** ausgestellt, vorbehaltlich des aktuellen veröffentlichten Zeitplans.

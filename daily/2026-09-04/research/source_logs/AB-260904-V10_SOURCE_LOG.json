@@ -1,1 +1,78 @@
-{"article_id":"AB-260904-V10","source_count":4,"sources":[{"source_no":"SOURCE 01","source_name":"天锦KR 6.8m冷藏 B6.2动力/变速箱","organization":"卡车之家(官方号,今日头条)","url":"http://m.toutiao.com/group/7031465452756828703/","domain":"m.toutiao.com","source_type":"specialist","source_tier":"T2","market":"CHINA","source_scope":"6.8m冷藏","facts_supported":"B6.2NS6B245/6.2L/180kW(245ps)/1000N·m/8JS105A/德纳416桥4.11","checked_date":"2026-09-04","authority_level":"商用车专业媒体(卡车之家)","official_source":"NO"},{"source_no":"SOURCE 02","source_name":"九款6米8载货车 天锦KR配置","organization":"卡车之家(官方号,今日头条)","url":"http://m.toutiao.com/group/6961327956664779271/","domain":"m.toutiao.com","source_type":"specialist","source_tier":"T2","market":"CHINA","source_scope":"6.8m","facts_supported":"B6.2NS6B245/180kW/1000N·m/8JS105TA/前后桥载荷","checked_date":"2026-09-04","authority_level":"商用车专业媒体(卡车之家)","official_source":"NO"},{"source_no":"SOURCE 03","source_name":"天锦KR 6.8m 轴距与货箱","organization":"卡车之家(官方号,今日头条)","url":"http://m.toutiao.com/group/7155750645675377152/","domain":"m.toutiao.com","source_type":"specialist","source_tier":"T2","market":"CHINA","source_scope":"6.8m","facts_supported":"整车9×2.55×3.7/轴距5000/仓栅内6.8×2.45","checked_date":"2026-09-04","authority_level":"商用车专业媒体(卡车之家)","official_source":"NO"},{"source_no":"SOURCE 04","source_name":"东风DFH5180XLCG4冷藏车 工信部第410批公示","organization":"新浪财经(引工信部公告)","url":"https://cj.sina.cn/article/norm_detail?froms=ttmp&url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Faigc%2Fxcsb%2F2026-08-07%2Fdoc-inimnrac4126512.shtml%3Ffinpagefr%3Dttzz","domain":"cj.sina.cn","source_type":"industry_media","source_tier":"T2","market":"CHINA","source_scope":"18t级公示","facts_supported":"DFH5180XLCG4/18t级/最高车速89km/h(工信部公示)","checked_date":"2026-09-04","authority_level":"引工信部公告(权威背景)","official_source":"NO"}],"SOURCE_INTEGRITY_CHECK":"PASS: 每条来源均含真实URL,Organization与域名主体一致;无'品牌名无URL'情况","tier_distribution":{"T1":0,"T2":4,"T3":0,"T4":0}}
+{
+ "article_id": "AB-260904-V10",
+ "source_count": 4,
+ "sources": [
+  {
+   "source_no": "SOURCE 01",
+   "source_name": "天锦KR 6.8m冷藏 B6.2动力/变速箱",
+   "organization": "卡车之家(官方号,今日头条)",
+   "url": "http://m.toutiao.com/group/7031465452756828703/",
+   "domain": "m.toutiao.com",
+   "source_type": "specialist",
+   "source_tier": "T2",
+   "market": "CHINA",
+   "source_scope": "6.8m冷藏",
+   "facts_supported": "B6.2NS6B245/6.2L/180kW(245ps)/1000N·m/8JS105A/德纳416桥4.11",
+   "checked_date": "2026-09-04",
+   "authority_level": "商用车专业媒体(卡车之家)",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_no": "SOURCE 02",
+   "source_name": "九款6米8载货车 天锦KR配置",
+   "organization": "卡车之家(官方号,今日头条)",
+   "url": "http://m.toutiao.com/group/6961327956664779271/",
+   "domain": "m.toutiao.com",
+   "source_type": "specialist",
+   "source_tier": "T2",
+   "market": "CHINA",
+   "source_scope": "6.8m",
+   "facts_supported": "B6.2NS6B245/180kW/1000N·m/8JS105TA/前后桥载荷",
+   "checked_date": "2026-09-04",
+   "authority_level": "商用车专业媒体(卡车之家)",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_no": "SOURCE 03",
+   "source_name": "天锦KR 6.8m 轴距与货箱",
+   "organization": "卡车之家(官方号,今日头条)",
+   "url": "http://m.toutiao.com/group/7155750645675377152/",
+   "domain": "m.toutiao.com",
+   "source_type": "specialist",
+   "source_tier": "T2",
+   "market": "CHINA",
+   "source_scope": "6.8m",
+   "facts_supported": "整车9×2.55×3.7/轴距5000/仓栅内6.8×2.45",
+   "checked_date": "2026-09-04",
+   "authority_level": "商用车专业媒体(卡车之家)",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_no": "SOURCE 04",
+   "source_name": "东风DFH5180XLCG4冷藏车 工信部第410批公示",
+   "organization": "新浪财经(引工信部公告)",
+   "url": "https://cj.sina.cn/article/norm_detail?froms=ttmp&url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Faigc%2Fxcsb%2F2026-08-07%2Fdoc-inimnrac4126512.shtml%3Ffinpagefr%3Dttzz",
+   "domain": "cj.sina.cn",
+   "source_type": "industry_media",
+   "source_tier": "T2",
+   "market": "CHINA",
+   "source_scope": "18t级公示",
+   "facts_supported": "DFH5180XLCG4/18t级/最高车速89km/h(工信部公示)",
+   "checked_date": "2026-09-04",
+   "authority_level": "引工信部公告(权威背景)",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  }
+ ],
+ "SOURCE_INTEGRITY_CHECK": "PASS: 每条来源均含真实URL,Organization与域名主体一致;无'品牌名无URL'情况",
+ "tier_distribution": {
+  "T1": 0,
+  "T2": 4,
+  "T3": 0,
+  "T4": 0
+ },
+ "t1_only_recomputed_on": "2026-09-07"
+}

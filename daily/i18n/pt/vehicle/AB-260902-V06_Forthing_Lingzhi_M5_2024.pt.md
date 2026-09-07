@@ -13,7 +13,7 @@
 
 ## Papel do veículo
 
-The Lingzhi M5 is a **utilitarian front-wheel-drive van commercial MPV** built for people-moving  and  dever de utilização múltipla leve em vez de conforto premium. Importa para importadores, operadores de transporte e proprietários de pequenas frotas que precisam de muitos lugares e uma grande caixa a um baixo custo de aquisição. The reference line is the **2024 M5L 1.5T 舒适型 9-seater (REFERENCE MARKET: CHINA)**; uma versão mais curta de M5 e uma **GNC (gás natural comprimido)** também existem. Forthing (Dongfeng Liuzhou) já vende em alguns mercados de RHD, como a Tailândia sob outras placas de identificação (por exemplo, sexta-feira/ V9), mas esses produtos são diferentes — Lingzhi M5 especificações de exportação devem ser confirmadas por destino e não inferidas da linha chinesa ou de outras vans do Forthing no exterior.
+O Lingzhi M5 é um utilitário van de tração dianteira / comercial MPV construído para pessoas-movendo e luz multi-uso dever em vez de conforto premium. É importante para importadores, operadores de transporte e proprietários de pequenas frotas que precisam de muitos lugares e uma grande caixa a um baixo custo de aquisição. A linha de referência é a 2024 M5L 1.5T 舒适型 9-seater (MERCADO DE REFERÊNCIA: CHINA); uma versão mais curta M5 e CNG (gás natural comprimido) também existem. Forthing (Dongfeng Liuzhou) já vende em cerca de RHD mercados, como a Tailândia sob outras placas de identificação (por exemplo, sexta-feira/ V9), mas estes são produtos diferentes — Lingzhi M5 especificações de exportação devem ser confirmadas por destino e não inferidas da linha chinesa ou de outras carrinhas no exterior de Forthing.
 
 ## Tamanhos do corpo e distâncias entre eixos
 

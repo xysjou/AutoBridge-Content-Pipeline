@@ -31,7 +31,7 @@
 
 ## 充電アーキテクチャ:800Vはバージョンに依存しています
 
-Higher versions use an 800-volt high-voltage platform that supports higher DC fast-charging capability, 精密なピーク充電電力  and  10–80% time are not available from an official source here  and  したがって、** は固定値として記述されていない** — トリムごとにそれらを確認します。 輸出のために、物理的なコネクターおよび充満標準(中国 vs CCS/other の宛先標準の GB/T)は OEM の輸出シートが答えなければならない別の、決定的な質問です。
+より高いバージョンでは、 800-volt high-voltage platform that supports higher DC fast-charging capability, 精密なピーク充電電力  and  10–80% ここの公式ソースから時間が利用できず、  したがって、** は固定値として記述されていない** — トリムごとにそれらを確認します。 輸出のために、物理的なコネクターおよび充満標準(中国 vs CCS/other の宛先標準の GB/T)は OEM の輸出シートが答えなければならない別の、決定的な質問です。
 
 ## ソフトウェア、OTAおよびコックピット
 

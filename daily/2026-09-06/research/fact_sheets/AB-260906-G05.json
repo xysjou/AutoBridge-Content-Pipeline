@@ -1,115 +1,125 @@
 {
-  "article_id": "AB-260906-G05",
-  "content_type": "PROCUREMENT_GUIDE",
-  "topic": "南非整车进口：ITAC进口许可、SARS关税与NRCS合规（单国指南）",
-  "primary_keyword": "south africa vehicle import itac sars nrcs",
-  "search_intent": "向南非出口车辆需要哪些进口管制许可、海关税务与强制合规（LOA），分别由哪些机构负责",
-  "target_reader": "对南非出口的车企/外贸负责人",
-  "target_country_region": "ZA（南非单国，COUNTRY_SPECIFIC_ONLY）",
-  "suggested_url": "/guides/south-africa-vehicle-import-itac-sars-nrcs/",
-  "reference_market": "ZA（南非单国，COUNTRY_SPECIFIC_ONLY）",
-  "verified_facts": [
-    {
-      "field": "itac_permit",
-      "value": "南非对受进口管制的商品要求进口许可证；ITAC管理的管制清单约276个税号，且所有二手/旧(second-hand/used)货物均要求进口许可证，办理通常约3-5个工作日",
-      "unit": "-",
-      "market": "ZA",
-      "trim": "",
-      "source": "ITAC官方",
-      "url": "https://www.itac.org.za/pages/import-control",
-      "checked_date": "2026-09-06",
-      "confidence": "VERIFIED"
-    },
-    {
-      "field": "legal_basis",
-      "value": "进口管制依据《国际贸易管理法2002(Act No.71 of 2002)》与《海关与消费税法1964(Act No.91 of 1964)》",
-      "unit": "-",
-      "market": "ZA",
-      "trim": "",
-      "source": "ITAC官方",
-      "url": "https://www.itac.org.za/pages/import-control",
-      "checked_date": "2026-09-06",
-      "confidence": "VERIFIED"
-    },
-    {
-      "field": "nrcs_loa",
-      "value": "受强制规范管制的产品（含Automotive汽车类）须取得NRCS的Letter of Authority(LOA/授权信)后方可进口/销售",
-      "unit": "-",
-      "market": "ZA",
-      "trim": "",
-      "source": "NRCS官方",
-      "url": "https://www.nrcs.org.za/",
-      "checked_date": "2026-09-06",
-      "confidence": "VERIFIED",
-      "note": "具体适用VC强制规范编号与豁免须以NRCS当期Compulsory Specification为准"
-    },
-    {
-      "field": "sars_role",
-      "value": "进口环节关税、增值税与清关由SARS征管；具体整车/二手车税率、ad valorem从价税与当期申报要求须查SARS现行税则与通告",
-      "unit": "-",
-      "market": "ZA",
-      "trim": "",
-      "source": "SARS官方",
-      "url": "https://www.sars.gov.za/customs-and-excise/",
-      "checked_date": "2026-09-06",
-      "confidence": "TIME_SENSITIVE",
-      "note": "未取得当期整车税率官方表，禁止写入确定税率数值",
-      "time_sensitive": true
-    },
-    {
-      "field": "used_restriction",
-      "value": "南非对二手/旧车进口管制严格、原则上需许可证（具体可否进口及豁免条件以ITAC当期指南为准）",
-      "unit": "-",
-      "market": "ZA",
-      "trim": "",
-      "source": "ITAC官方",
-      "url": "https://www.itac.org.za/pages/import-control",
-      "checked_date": "2026-09-06",
-      "confidence": "VERIFIED"
-    }
+ "article_id": "AB-260906-G05",
+ "content_type": "PROCUREMENT_GUIDE",
+ "topic": "南非整车进口：ITAC进口许可、SARS关税与NRCS合规（单国指南）",
+ "primary_keyword": "south africa vehicle import itac sars nrcs",
+ "search_intent": "向南非出口车辆需要哪些进口管制许可、海关税务与强制合规（LOA），分别由哪些机构负责",
+ "target_reader": "对南非出口的车企/外贸负责人",
+ "target_country_region": "ZA（南非单国，COUNTRY_SPECIFIC_ONLY）",
+ "suggested_url": "/guides/south-africa-vehicle-import-itac-sars-nrcs/",
+ "reference_market": "ZA（南非单国，COUNTRY_SPECIFIC_ONLY）",
+ "verified_facts": [
+  {
+   "field": "itac_permit",
+   "value": "南非对受进口管制的商品要求进口许可证；ITAC管理的管制清单约276个税号，且所有二手/旧(second-hand/used)货物均要求进口许可证，办理通常约3-5个工作日",
+   "unit": "-",
+   "market": "ZA",
+   "trim": "",
+   "source": "ITAC官方",
+   "url": "https://www.itac.org.za/pages/import-control",
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED"
+  },
+  {
+   "field": "legal_basis",
+   "value": "进口管制依据《国际贸易管理法2002(Act No.71 of 2002)》与《海关与消费税法1964(Act No.91 of 1964)》",
+   "unit": "-",
+   "market": "ZA",
+   "trim": "",
+   "source": "ITAC官方",
+   "url": "https://www.itac.org.za/pages/import-control",
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED"
+  },
+  {
+   "field": "nrcs_loa",
+   "value": "受强制规范管制的产品（含Automotive汽车类）须取得NRCS的Letter of Authority(LOA/授权信)后方可进口/销售",
+   "unit": "-",
+   "market": "ZA",
+   "trim": "",
+   "source": "NRCS官方",
+   "url": "https://www.nrcs.org.za/",
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "note": "具体适用VC强制规范编号与豁免须以NRCS当期Compulsory Specification为准"
+  },
+  {
+   "field": "sars_role",
+   "value": "进口环节关税、增值税与清关由SARS征管；具体整车/二手车税率、ad valorem从价税与当期申报要求须查SARS现行税则与通告",
+   "unit": "-",
+   "market": "ZA",
+   "trim": "",
+   "source": "SARS官方",
+   "url": "https://www.sars.gov.za/customs-and-excise/",
+   "checked_date": "2026-09-06",
+   "confidence": "TIME_SENSITIVE",
+   "note": "未取得当期整车税率官方表，禁止写入确定税率数值",
+   "time_sensitive": true
+  },
+  {
+   "field": "used_restriction",
+   "value": "南非对二手/旧车进口管制严格、原则上需许可证（具体可否进口及豁免条件以ITAC当期指南为准）",
+   "unit": "-",
+   "market": "ZA",
+   "trim": "",
+   "source": "ITAC官方",
+   "url": "https://www.itac.org.za/pages/import-control",
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED"
+  }
+ ],
+ "facts_allowed_in_body": [
+  "itac_permit",
+  "legal_basis",
+  "nrcs_loa",
+  "used_restriction"
+ ],
+ "facts_not_allowed_in_body": [
+  "整车进口关税/VAT/ad valorem具体税率（未取SARS当期税则，TIME_SENSITIVE，禁止给数）",
+  "某车型是否豁免LOA/具体VC规范编号（须NRCS当期规范）",
+  "媒体所称'对中印车最高50%'（仅报道动议，未生效前不得写成现行税率）",
+  "South Africa RHD-registration / Chinese-LHD barrier as a DEFINITE rule (no captured official primary this round; body must phrase as buyer/authority verification item)"
+ ],
+ "blocked_facts": [
+  "整车进口关税/VAT/ad valorem具体税率（未取SARS当期税则，TIME_SENSITIVE，禁止给数）",
+  "某车型是否豁免LOA/具体VC规范编号（须NRCS当期规范）",
+  "媒体所称'对中印车最高50%'（仅报道动议，未生效前不得写成现行税率）",
+  "South Africa RHD-registration / Chinese-LHD barrier as a DEFINITE rule (no captured official primary this round; body must phrase as buyer/authority verification item)"
+ ],
+ "conflict_list": [],
+ "time_sensitive_facts": [
+  "SARS当期税率与申报要求、ITAC管制清单、NRCS强制规范版本、关税调整动议"
+ ],
+ "unresolved_questions": [
+  "整车进口关税/VAT/ad valorem具体税率（未取SARS当期税则，TIME_SENSITIVE，禁止给数）",
+  "某车型是否豁免LOA/具体VC规范编号（须NRCS当期规范）",
+  "媒体所称'对中印车最高50%'（仅报道动议，未生效前不得写成现行税率）"
+ ],
+ "source_url_count": 7,
+ "source_org_count": 5,
+ "official_source_available": true,
+ "research_status": "RESEARCH_CONDITIONAL",
+ "writing_ai_ready": true,
+ "risk_level": "MEDIUM",
+ "conditional_reason": "ITAC/NRCS/SARS三家主管机构一手到位、许可与LOA框架VERIFIED；但具体税率/从价税未取SARS当期税则，按EVIDENCE_CEILING判CONDITIONAL并BLOCKED税率，单国结论COUNTRY_SPECIFIC_ONLY不外推非洲。",
+ "fact_sheet_version": "FS-v1-20260906",
+ "checked_date": "2026-09-06",
+ "source_org_count_normalized": 6,
+ "controlled_research_patch": [
+  {
+   "date": "2026-09-06",
+   "added_count": 2,
+   "final_url_count": 7,
+   "final_org_count_normalized": 6,
+   "note": "BLOCKED_FACTS remain blocked; export-market OEM pages stay market-scoped."
+  }
+ ],
+ "controlled_patch_closure": {
+  "closed_on": "2026-09-07",
+  "rule": "CONTROLLED_PATCH_CLOSURE_CONSISTENCY_GATE",
+  "downgraded_to_verify": [
+   "steering-side/LHD barrier definite claim -> verification item"
   ],
-  "facts_allowed_in_body": [
-    "itac_permit",
-    "legal_basis",
-    "nrcs_loa",
-    "used_restriction"
-  ],
-  "facts_not_allowed_in_body": [
-    "整车进口关税/VAT/ad valorem具体税率（未取SARS当期税则，TIME_SENSITIVE，禁止给数）",
-    "某车型是否豁免LOA/具体VC规范编号（须NRCS当期规范）",
-    "媒体所称'对中印车最高50%'（仅报道动议，未生效前不得写成现行税率）"
-  ],
-  "blocked_facts": [
-    "整车进口关税/VAT/ad valorem具体税率（未取SARS当期税则，TIME_SENSITIVE，禁止给数）",
-    "某车型是否豁免LOA/具体VC规范编号（须NRCS当期规范）",
-    "媒体所称'对中印车最高50%'（仅报道动议，未生效前不得写成现行税率）"
-  ],
-  "conflict_list": [],
-  "time_sensitive_facts": [
-    "SARS当期税率与申报要求、ITAC管制清单、NRCS强制规范版本、关税调整动议"
-  ],
-  "unresolved_questions": [
-    "整车进口关税/VAT/ad valorem具体税率（未取SARS当期税则，TIME_SENSITIVE，禁止给数）",
-    "某车型是否豁免LOA/具体VC规范编号（须NRCS当期规范）",
-    "媒体所称'对中印车最高50%'（仅报道动议，未生效前不得写成现行税率）"
-  ],
-  "source_url_count": 7,
-  "source_org_count": 5,
-  "official_source_available": true,
-  "research_status": "RESEARCH_CONDITIONAL",
-  "writing_ai_ready": true,
-  "risk_level": "MEDIUM",
-  "conditional_reason": "ITAC/NRCS/SARS三家主管机构一手到位、许可与LOA框架VERIFIED；但具体税率/从价税未取SARS当期税则，按EVIDENCE_CEILING判CONDITIONAL并BLOCKED税率，单国结论COUNTRY_SPECIFIC_ONLY不外推非洲。",
-  "fact_sheet_version": "FS-v1-20260906",
-  "checked_date": "2026-09-06",
-  "source_org_count_normalized": 6,
-  "controlled_research_patch": [
-    {
-      "date": "2026-09-06",
-      "added_count": 2,
-      "final_url_count": 7,
-      "final_org_count_normalized": 6,
-      "note": "BLOCKED_FACTS remain blocked; export-market OEM pages stay market-scoped."
-    }
-  ]
+  "body_claims_subset_of_allowed": true
+ }
 }

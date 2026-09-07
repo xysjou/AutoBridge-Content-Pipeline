@@ -11,7 +11,7 @@
 - **LLT gợi ý**: "Changan CS75 PLUS thế hệ thứ ba 2024 "; CS75 PLUS 1.5T so với 2.0T động cơ"
 
 ## Người mua bối cảnh: Chia 3rd-Gen nhà vô địch từ 4th thế hệ
-CS75 PLUS là gia đình máy bay SUV cỡ trung bình của Changan. Trang này có trang ** 3rd-generation vô địch, năm 2024 (REFERCE MORTT: Chloe. A **4th generation entered the China market from September 2024** with a longer body  and  bánh xe cơ sở  and  chỉnh lại 1.5T giai điệu. Bởi vì cả hai thế hệ được trao đổi dưới CS75 tên PLUS trong nhiều tháng liên tiếp, một lưu ý đặt hàng chỉ ghi " CS75 PLUS 2024" là mơ hồ — thế hệ khóa, động cơ và hộp số chống lại VIN.
+CS75 PLUS là gia đình máy bay SUV cỡ trung bình của Changan. Trang này có trang ** 3rd-generation vô địch, năm 2024 (REFERCE MORTT: Chloe. A **4Thế hệ thứ vào thị trường Trung Quốc từ tháng Chín 2024** với một cơ thể dài hơn và bánh xe cơ sở  and  chỉnh lại 1.5T giai điệu. Bởi vì cả hai thế hệ được trao đổi dưới CS75 tên PLUS trong nhiều tháng liên tiếp, một lưu ý đặt hàng chỉ ghi " CS75 PLUS 2024" là mơ hồ — thế hệ khóa, động cơ và hộp số chống lại VIN.
 
 ## Huấn luyện viên điện: 1.5T đấu 2.0T (Tập trung tốt đẹp)
 | Mục | 1.5T (JL473ZQ7), Cá voi xanh) | 2.0T (JL486ZQ5) |
@@ -22,7 +22,7 @@ CS75 PLUS là gia đình máy bay SUV cỡ trung bình của Changan. Trang này
 | Lái đi | Lái xe quay vòng | Lái xe quay vòng |
 | Nhiên liệu | Dầu hỏa (turbo); xác nhận cấp và đích nhiên liệu/ giai đoạn nạp | Dầu hỏa (turbo) |
 
-Đối với một chiếc SUV CE, quyết định mua sắm là mã động cơ, ban nhạc mô-men xoắn, hộp số và giai đoạn phát ra. Cả hai động cơ Trung Quốc đều cặp với một chiếc Aisin 8AT; không giả định một biến thể hai bánh xe hoặc tất cả bánh xe mà không có các tờ cắt tỉa. The 4th-generation car carries a revised Blue Whale 1.5T at about 141 kW — a different tune that must not be written onto a 3rd-gen VIN.
+Quyết định mua sắm là mã động cơ, băng mô-men xoắn, hộp số và giai đoạn phát ra. Cả hai động cơ Trung Quốc kết hợp với một chiếc Aisin 8AT; không giả định một biến thể hai bánh hay tất cả bánh xe mà không có giấy tỉa. Chiếc xe 4th-generation chở con cá voi xanh 1.5T được chỉnh sửa vào khoảng 141 kW — một giai điệu khác không được ghi trên một chiếc 3rd-gen VIN.
 
 ## Các chiều và đường biển
 - Chiều dài chiều rộng chiều cao: ** 4710 1865 1710 mm **
@@ -43,14 +43,14 @@ Dòng 3rd-gen vô địch được trang bị cho mức độ hỗ trợ ** L2 t
 2. **Tren hóa** (Aisin 8AT) và bố trí **rive** (FWD) cho lớp đã được chọn.
 3. **Hãy phát hành giai đoạn/fuel** và đích đến **-kiểu-proval** đường đi Trung Quốc- 6 không phải là sự đồng nhất ở nước ngoài.
 4. **ADAS ente>** cho chính xác là cắt; cụm/Guftate Language.
-5. **LHD/RHD, Bảo hành. ♪  and  **container/RoRo** stowage based on the 4710 mm 3rd-gen footprint.
+5. **LHD/RHD, Bảo hành.   and  **container/RoRo** Comment 4710 mm 3rd-gen footprint.
 
 ## Yêu cầu một trích dẫn Xuất hiện thời
 Không có giá xuất khẩu tĩnh nào được xuất bản. Con số gần như RMB 121, 900 người Trung Quốc bắt đầu là một tham khảo **doterestic, nhạy cảm về thời gian — chứ không phải là một câu trích dẫn FOB/CF.**. Cần có **Diestination Country*Grition ·Guity · Trim & Motors* LHD/RHD_ styed Port # Incotertern**.
 
 ## Những câu hỏi thường xuyên
 ** Khác biệt giữa 1.5T và 2.0T CS75 PLUS là gì? 1.5T sản xuất 138 kW 300 N·m; 2.0T sản xuất 171 kW 390 N·m; cả hai đều sử dụng một Aisin 8AT.
-**Is the 2024 CS75 PLUS the same as the 4th-generation car?** No — the 4th generation launched in China from September 2024 with a larger body  and  một bản chỉnh sửa 1.5T; trang này sẽ ghi lại 3rd-gen vô địch.
+**Là 2024 CS75 PLUS giống như 4th-generation car?** No — the 4Thế hệ thứ bắt đầu ở Trung Quốc từ tháng Chín 2024 với một cơ thể lớn hơn và một bản chỉnh sửa 1.5T; trang này sẽ ghi lại 3rd-gen vô địch.
 ** CS75 PLUS có bộ tứ nào không? Hàng Trung Quốc 3rd-gen được tham khảo ở đây là ổ quay đầu tiên; xác nhận bất kỳ yêu cầu AWD nào chống lại việc cắt tỉa cụ thể.
 Có phải L2 gói giống hệt nhau ở mỗi lớp? Hãy xem nó như là loại máy ảnh đặc trưng cấp cao; xác nhận nội dung của camera ACC/lale/ 540 độ chính xác.
 
@@ -92,7 +92,7 @@ Có phải L2 gói giống hệt nhau ở mỗi lớp? Hãy xem nó như là lo�
 | GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Bộ điều hành thị trường | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VEII | Đường dây cơ bản trong Trung Quốc điều kiện an toàn của phương tiện và dòng thời gian/xem hiện tại |
 | GB 18352.6-2016 với tu chính án XG1-2026 (Trung Quốc 6 ánh sáng-vehictt phóng xạ) | Bộ sinh thái học và Môi trường (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VEII | Chương trình khai thác ánh sáng ở Trung Quốc 6 và 2026 ngày thực hiện sửa đổi |
 
-*B đồng ý: động cơ/gearbox và ranh giới 4th-gen được hỗ trợ bởi báo cáo chính thức và Changan hàng năm (VERIEDDD); chi tiết tham số được kiểm tra chéo. Giá nhà và số liệu thế hệ mới rất nhạy cảm. Việc phân biệt đích đến vẫn là một kiểm tra riêng biệt. ♪
+*B đồng ý: động cơ/gearbox và ranh giới 4th-gen được hỗ trợ bởi các phương tiện truyền thông chính thức và báo cáo thường niên của Changan (VERFIEED); chi tiết tham số có thể kiểm tra chéo. Giá nhà và số liệu thế hệ mới rất nhạy cảm. Sự đồng nhất về đích vẫn là một sự kiểm tra riêng biệt. *
 
 ## Xem lại tập tin
 - **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)

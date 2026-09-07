@@ -73,13 +73,13 @@ Không — nó là một con số tổng hợp (máy điện cộng hưởng t�
 
 **Con cá Fuwin A8 có giống A8L không?**
 
-Không — A8L là một biến thể dài hơn (Cuper 4790 mm)  and  must not share the A8’s specs.
+Không — A8L là biến thể dài hơn (Tiếng 4790 mm) và phải chứ không chia sẻ A8 ’ Kính.
 
 ** Ai cung cấp pin vậy? **
 
 Người cung cấp pin không được cho biết là có thật ở đây; phải xác nhận mỗi lần dùng một lần bởi Chery.
 
-** Nó có thể sạc nhanh không? ♪ ♪**
+Nó có thể sạc nhanh không?
 
 The 145 line is quoted at ≈19 minutes for 30–80% (single-source, xác nhận); Xác nhận kết nối và tiêu chuẩn cho đích đến.
 

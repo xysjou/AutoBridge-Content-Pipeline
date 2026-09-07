@@ -84,7 +84,7 @@ An ** 8 × 4 all-electric mixer** is reported with a Fast (法士特) TZ368XSSFD
 | GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | مفقود | China-VI compression-ignition (heavy diesel) emission stage for trucks/coaches |
 | GB 19147 automobile diesel fuel national standard (low-sulphur basis) | قاعدة بيانات المعايير الوطنية المتعلقة بالمعدلات الشاملة | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | مفقود | درجة وقود الديزل وقاعدة الكبريت لمطابقة تصميم في الخارج |
 
-* ملاحظة ملاءمة: طبول الطنان وعلامات المحركات مُنقَدَّرة على صفحات OEM الخاصة بـ (ساني) (مقلوب مواصفات المنتجات). وتُعد تفاصيل الإطار المتكامل ومحرك المركبات الثنائية الفينيل المتعددة الكلور مصدر واحد، وتتطلب تأكيداً على الرمز النموذجي الحالي المتجانس. ولا يوجد أي ثمن مؤكد. ♪
+* مذكرة بشأن الملاءمة:قدرات الطبول وعلامات المحركات مثبتة في SANY 's own OEM pages (scope = مواصفات المنتجات). وتفاصيل الإطار المتكامل والمحرك BEV مصدر واحد ويتطلبان تأكيدا على الرمز النموذجي الحالي المتجانس. No price is asserted. ♪
 
 ## استعراض التحرير
 - ** [فريق تحرير تصدير أوتو بريدج] (/مؤلف/) - طريقة لكل [سياستنا الانتخابية]

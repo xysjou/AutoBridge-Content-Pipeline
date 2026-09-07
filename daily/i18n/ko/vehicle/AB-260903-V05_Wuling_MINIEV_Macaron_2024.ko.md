@@ -11,7 +11,7 @@
 - ** ALT 제안**: "미니EV Macaron 마이크로 EV 치수를 재는"; "MINIEV Macaron 170 215 CLTC 범위"
 
 ## 구매자 Context: 사용 사례에 제품을 일치
-홍구앙 미니EV Macaron은 ** 소형 EV가 아닌 마이크로 도시 전기 자동차 **입니다. ** 3064 mm 긴  and  777 kg kerb**, 작은 hatchback 아래 전체 클래스에 앉아 - 스케일에 대한,  the BYD Dolphin on this same catalogue is around **4125 mm long** with 420/520 km CLTC grades. 그 격차는 전체적인 구매 결정입니다: Macaron의 값은 매우 낮은 중국 가격 지점에서 짧은 여행 도시 이동성입니다; 그것의 제한은 최고 속도 (** 100 km/h **),  range (**170/215 km CLTC**), 충전 속도  and  캐빈 크기. B-segment EV에 대해 위치를 차지하는 수출자는 반환 문제를 만들 것입니다. 정의된 마일 제품으로 판매하는 사람은 아닙니다. 이 페이지는 ** 3rd-generation Macaron, 모델 년 2024 (REFERENCE MARKET: 중국)**.
+홍구앙 미니EV Macaron은 ** 소형 EV가 아닌 마이크로 도시 전기 자동차 **입니다. ** 3064 mm 긴  and  777 kg kerb**, 작은 hatchback 아래 전체 클래스에 앉아 - 스케일에 대한,  이 같은 카탈로그의 BYD 돌고래는 주변 **4125 mm long** with 420/520 km CLTC grades. 그 격차는 전체적인 구매 결정입니다: Macaron의 값은 매우 낮은 중국 가격 지점에서 짧은 여행 도시 이동성입니다; 그것의 제한은 최고 속도 (** 100 km/h **),  range (**170/215 km CLTC**), 충전 속도  and  캐빈 크기. B-segment EV에 대해 위치를 차지하는 수출자는 반환 문제를 만들 것입니다. 정의된 마일 제품으로 판매하는 사람은 아닙니다. 이 페이지는 ** 3rd-generation Macaron, 모델 년 2024 (REFERENCE MARKET: 중국)**.
 
 ## 드라이브라인 및 배터리 (micro-EV 초점)
 | 제품 정보 | 3rd-gen Macaron 2024 (중국 기준) |

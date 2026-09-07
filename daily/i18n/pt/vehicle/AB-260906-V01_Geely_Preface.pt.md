@@ -28,7 +28,7 @@ O Geely Preface (nome chinês Xingrui) é o sedan de quatro portas de tração d
 | 2.0T (older calibration) | 175 kW (238 PS) 350 N·m, 8-speed automático, WLTC combinado □ 7.15 L 100km | CHINA · mais velho/Jinchao-era 2.0T · único-fonte | FONTE ÚNICA |
 | 2.0T (calibração mais recente) | 200 kW 400 N·m, Aisin 8AT,  claimed 0–100 km/h ≈6.5 s | CHINA · 2025 Dongfangyao 2.0T · fonte única, confirmar | FONTE ÚNICA |
 
-As duas saídas 2.0T não são um conflito de dados a resolver escolhendo uma: pertencem a diferentes calibrações de ano-modelo. Uma cotação de exportação que nomeie 'um Prefácio 2.0T' sem o ano e a aparar exata é ambígua. Os materiais regionais do Médio Oriente de Geely mostram um sistema de produção de motores de pré-facturação separado (por exemplo, uma construção regional de 2.0TD + 7DCT); sob a disciplina de identidade modelo que a construção regional é citada como referência do mercado de exportação  and  is **not** treated as identical to the Chinese 175/200 kW trims without OEM confirmation.
+As duas saídas 2.0T não são um conflito de dados a resolver escolhendo uma: pertencem a diferentes calibrações de ano-modelo. Uma cotação de exportação que nomeie 'um Prefácio 2.0T' sem o ano e a aparar exata é ambígua. Os materiais regionais do Médio Oriente de Geely mostram um sistema de produção de motores de pré-facturação separado (por exemplo, uma construção regional de 2.0TD + 7DCT); sol a disciplina de identidade modelo que a construçãoção regional é citada como referência do mercado de exportaçãO e é **not** tratados como idênticos aos chineses 175/200 kW trims without OEM confirmation.
 
 ## Sinais de chassis, lugares sentados e equipamentos
 

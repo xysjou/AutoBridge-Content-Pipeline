@@ -48,7 +48,7 @@ A adaptação não substitui o acesso ao mercado: o veículo e quaisquer compone
 ** Todo carro China-spec precisa de um kit de adaptação do Golfo?** Não automaticamente — os itens aqui são pontos para avaliar com o OEM/upfitter por modelo; alguns China constrói já cobrir o envelope.
 ** O resfriamento de ar é inaceitável para EVs do Golfo?** Não decida por regra de polegar — peça ao OEM dados térmicos para o envelope alvo; o resfriamento líquido é uma opção para avaliar, não uma exigência universal declarada.
 ** A adaptação de engenharia é a mesma que a homologação?** Não — adaptação é avaliação de engenharia; conformidade GCC/GSO é um fluxo de trabalho separado, obrigatório e ambos devem corresponder ao mesmo edifício.
-**What temperature should the vehicle handle?** One source describes ~40–50 °C Gulf summers; uma referência política chinesa cita um objetivo de design - 30 a 55 °C - nem um limite legal do Golfo.
+**Que temperatura deve o veículo manusear?** One source describes ~40–50 °C Gulf summers; uma referência política chinesa cita um objetivo de design - 30 a 55 °C - nem um limite legal do Golfo.
 ** Onde encontro os padrões exatos de calor/AC do GSO?** Comece a partir da lista de regulamentos técnicos do GSO, e então abra a rota nacional do **país de destino** – SASO/SABER para a Arábia Saudita, MoIAT para os Emirados Árabes Unidos – porque o texto do GSO é aplicado nacionalmente. Este guia cita nenhum número padrão específico de calor/AC que não pôde verificar diretamente; os candidatos de engenharia aqui ainda exigem confirmação OEM/upfitter.
 
 ## Gravação de Imagens

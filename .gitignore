@@ -220,3 +220,4 @@ __marimo__/
 # Writing-AI local MT build tooling (not committed)
 .mtbuild/
 .mtbuild0906/
+.mtbuild0906r/

@@ -12,7 +12,7 @@
 - ** ALT(美国) 建议**: "Dongfeng Tianjin KR 6.8m refrigerated truck 18t"; "天津KR底盘对礁石上层建筑".
 
 ## 买方背景:一种特殊车辆是两种产品——底盘和超级结构
-冷藏车不是单一的工厂规格. ** 轮机**(发动机、变速箱、轴、GVW、轮机基地)由卡车制造者建造; 由机体建造者安装的**隔热箱、冷藏装置、温度区和绝缘厚度**。 将冷藏机作为固定工厂的装配设备处理——或将6.8米KR与更大的KR Plus合并——是这里的主要采购错误. This page documents the **Chinese-market Tianjin KR 18 t-class reefer chassis (REFERENCE MARKET: (一) 中国**; 模版代码出现在MIIT的公告中,该公告以法律规格为主.
+冷藏车不是单一的工厂规格. ** 轮机**(发动机、变速箱、轴、GVW、轮机基地)由卡车制造者建造; 由机体建造者安装的**隔热箱、冷藏装置、温度区和绝缘厚度**。 将冷藏机作为固定工厂的装配设备处理——或将6.8米KR与更大的KR Plus合并——是这里的主要采购错误. 本页记录 **Chinese-market Tianjin KR 18 t-class reefer chassis (REFERENCE MARKET: (一) 中国**; 模版代码出现在MIIT的公告中,该公告以法律规格为主.
 
 ## 底盘识别(确认型号代码)
 - 记录型号:**DFH5180XLC(EX8)**;在**MIIT批次410中出现较新的存档代码**DFH5180XLCG4**** 报告迟交是因为需要更新。 将证书上的代码与交付的单位匹配——XLC的暗礁编码和普通货物编码是不同的完成车辆.

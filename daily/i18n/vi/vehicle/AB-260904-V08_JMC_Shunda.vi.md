@@ -35,7 +35,7 @@ Lương nặng là con số thường gây ra nhiều vấn đề nhất: a mark
 - Trọng lượng cong khác nhau giữa phần thân dưới và phần trong hộp, mà được nuôi trực tiếp vào trọng tải; không bao giờ tái sử dụng trọng lượng của một cơ thể cho một cơ thể khác.
 
 ## Name
-Chiếc 2800 mm bánh xe và 5.5 m chuyển động phù hợp với phân phối đô thị. Nơi mà người mua thêm một cái hộp, đơn vị làm lạnh hoặc các cơ sở siêu khác, thì cần phải cho phép người ta phân loại lại chiếc xe đã hoàn thành** - chỉ riêng khung khung khung khung khung là không phải là đánh giá hoàn chỉnh.
+Vòng tròn 2800 mm bánh xe và 5.5 m phù hợp với phân phối đô thị. Khi một người mua thêm một cái hộp, đơn vị đông lạnh hoặc các cơ sở siêu cấp khác, lượng tiền công cuối cùng phải được tăng cường lại cho chiếc xe đã hoàn thành - chỉ riêng khung khung hình thôi không phải là đánh giá hoàn thành.
 
 ## Người bán nước ngoài mua sắm trước khi trả tiền
 - Đối với một xe tải nhẹ, dạng ổ đĩa 4  2 (hoặc khác) là một trường chứng nhận có ảnh hưởng lên và tải lên — xác nhận nó trên mỗi thông báo khung gầm; văn bản tham khảo này sửa đổi gVW/ trả tiền nhưng để lại mẫu cho chứng nhận.
@@ -93,7 +93,7 @@ Xe tải Trung Quốc 6 có được chấp thuận cho thị trường của t�
 | GB 18352.6-2016 với tu chính án XG1-2026 (Trung Quốc 6 ánh sáng-vehictt phóng xạ) | Bộ sinh thái học và Môi trường (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VEII | Chương trình khai thác ánh sáng ở Trung Quốc 6 và 2026 ngày thực hiện sửa đổi |
 | GB 19147 nhiên liệu dầu diesel quốc gia tiêu chuẩn (cơ sở chậm-sur) | Nền tảng chuẩn toàn quốc SAR | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VEII | Chất đốt tổng hợp và chất lưu huỳnh khớp với thiết kế của động cơ/phát ra ở nước ngoài |
 
-*Brigidence: không có tờ OEM; kiểm tra chéo cơ sở thương mại-dữ liệu. Hàng hóa được đánh giá một cách rõ ràng đã hoãn lại để thông báo của MIIT/Bencyate; 2.499 L và 2.8 L động cơ riêng biệt. Chỉ tham khảo thị trường Trung Quốc. ♪
+Lưu ý: không có tờ chính OEM; kiểm tra chéo cơ sở thương mại. Hàng hóa được đánh dấu rõ ràng bị hoãn lại đến MIIT thông báo/ ký hiệu; 2.499 L và 2.8 L động cơ riêng biệt. Chỉ tham khảo thị trường Trung Quốc. *
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team_· phương pháp trên mỗi [chính sách] (/tách-chính trị/)

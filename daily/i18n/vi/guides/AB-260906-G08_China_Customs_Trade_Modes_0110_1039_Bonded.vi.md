@@ -55,7 +55,7 @@ Bộ mã giám sát 0110 là gì?
 
 Đó là thương mại chung, chế độ chuẩn cho xuất khẩu B2B bình thường và là con đường thông thường cho xuất khẩu toàn thân được ghi nhận.
 
-** 1039 thương mại bảo hiểm thị trường là gì? ♪ ♪**
+1039 thương mại bảo hiểm thị trường là gì?
 
 Hàng hóa được công nhận chính thức qua các hệ thống bảo hiểm thị trường, được thiết kế cho các mặt hàng nhỏ.
 

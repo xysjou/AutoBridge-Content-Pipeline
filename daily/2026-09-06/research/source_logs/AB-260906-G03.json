@@ -1,122 +1,129 @@
 {
-  "article_id": "AB-260906-G03",
-  "content_type": "PROCUREMENT_GUIDE",
-  "checked_date": "2026-09-06",
-  "source_log_version": "SL-v1-20260906",
-  "sources": [
-    {
-      "source_title": "海关总署公告2026年第74号（中国-马来西亚原产地电子信息联网交换，2026-06-01）",
-      "organization": "中华人民共和国海关总署",
-      "url": "http://www.customs.gov.cn/customs/xwfb34/302425/6971900/index.html",
-      "domain": "www.customs.gov.cn",
-      "source_tier": "T1",
-      "source_type": "regulator",
-      "source_market": "CN",
-      "source_scope": "RCEP实施",
-      "facts_supported": [
-        "原产地电子联网",
-        "现行公告"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "TIME_SENSITIVE",
-      "official_source": "YES"
-    },
-    {
-      "source_title": "海关：用好自贸协定实践成果（RCEP签证规则、累积规则应用）",
-      "organization": "中华人民共和国海关总署",
-      "url": "http://www.customs.gov.cn/customs/xwfb34/302330/6757635/index.html",
-      "domain": "www.customs.gov.cn",
-      "source_tier": "T1",
-      "source_type": "regulator",
-      "source_market": "CN",
-      "source_scope": "FTA实践",
-      "facts_supported": [
-        "累积规则",
-        "原产地标准",
-        "享惠"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "VERIFIED",
-      "official_source": "YES"
-    },
-    {
-      "source_title": "优惠贸易协定项下进出口货物原产地管理规定（海关总署令第265号）",
-      "organization": "中国政府网",
-      "url": "https://www.gov.cn/zhengce/zhengceku/202401/content_6925303.htm",
-      "domain": "www.gov.cn",
-      "source_tier": "T1",
-      "source_type": "government_regulation",
-      "source_market": "CN",
-      "source_scope": "部门规章",
-      "facts_supported": [
-        "原产地证管理",
-        "签证机构"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "VERIFIED",
-      "official_source": "YES"
-    },
-    {
-      "source_title": "单一窗口原产地证书智能审核/自助打印",
-      "organization": "中国国际贸易单一窗口",
-      "url": "https://www.singlewindow.cn/xxgk/xxgkml34/zxdt28/202604/t20260414_1920774.html",
-      "domain": "www.singlewindow.cn",
-      "source_tier": "T1",
-      "source_type": "government_platform",
-      "source_market": "CN",
-      "source_scope": "操作",
-      "facts_supported": [
-        "原产地证申领渠道"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "VERIFIED",
-      "official_source": "YES"
-    },
-    {
-      "source_title": "RCEP原产地证书签证规则（累积/背对背/原产地声明，贸促会口径）",
-      "organization": "中国贸促会陕西省委员会",
-      "url": "http://www.ccpit-shaanxi.com/News/info/aid/20142.html",
-      "domain": "www.ccpit-shaanxi.com",
-      "source_tier": "T1",
-      "source_type": "trade_promotion_body",
-      "source_market": "CN",
-      "source_scope": "签证机构解释",
-      "facts_supported": [
-        "签证规则",
-        "背对背证明",
-        "经核准出口商"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "VERIFIED",
-      "official_source": "YES"
-    },
-    {
-      "source_title": "Regional Comprehensive Economic Partnership (RCEP) official portal",
-      "organization": "RCEP Secretariat / ASEAN",
-      "parent_organization": "RCEP_SEC",
-      "url": "https://rcepsec.org/",
-      "domain": "rcepsec.org",
-      "source_tier": "T1",
-      "source_type": "international_org",
-      "source_market": "RCEP",
-      "source_scope": "treaty text and party coverage; per-HS PSR must be read in annex",
-      "facts_supported": [
-        "origin_criteria"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "VERIFIED",
-      "official_source": "YES",
-      "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH"
-    }
-  ],
-  "source_integrity_note": "目的国指南只采用主管机构官方域(itac/sars/nrcs/kra/kebs/customs.gov.ng/son)作T1并按真实SOURCE_MARKET标注；媒体/T4仅作背景或线索并显式降级，未冒充官方。",
-  "source_url_count": 6,
-  "source_org_count_normalized": 5,
-  "controlled_research_patch": {
-    "applied_by": "Writing AI",
-    "date": "2026-09-06",
-    "added_count": 1,
-    "final_url_count": 6,
-    "final_org_count_normalized": 5
+ "article_id": "AB-260906-G03",
+ "content_type": "PROCUREMENT_GUIDE",
+ "checked_date": "2026-09-06",
+ "source_log_version": "SL-v1-20260906",
+ "sources": [
+  {
+   "source_title": "海关总署公告2026年第74号（中国-马来西亚原产地电子信息联网交换，2026-06-01）",
+   "organization": "中华人民共和国海关总署",
+   "url": "http://www.customs.gov.cn/customs/xwfb34/302425/6971900/index.html",
+   "domain": "www.customs.gov.cn",
+   "source_tier": "T1",
+   "source_type": "regulator",
+   "source_market": "CN",
+   "source_scope": "RCEP实施",
+   "facts_supported": [
+    "原产地电子联网",
+    "现行公告"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "TIME_SENSITIVE",
+   "official_source": true,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "海关：用好自贸协定实践成果（RCEP签证规则、累积规则应用）",
+   "organization": "中华人民共和国海关总署",
+   "url": "http://www.customs.gov.cn/customs/xwfb34/302330/6757635/index.html",
+   "domain": "www.customs.gov.cn",
+   "source_tier": "T1",
+   "source_type": "regulator",
+   "source_market": "CN",
+   "source_scope": "FTA实践",
+   "facts_supported": [
+    "累积规则",
+    "原产地标准",
+    "享惠"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": true,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "优惠贸易协定项下进出口货物原产地管理规定（海关总署令第265号）",
+   "organization": "中国政府网",
+   "url": "https://www.gov.cn/zhengce/zhengceku/202401/content_6925303.htm",
+   "domain": "www.gov.cn",
+   "source_tier": "T1",
+   "source_type": "government_regulation",
+   "source_market": "CN",
+   "source_scope": "部门规章",
+   "facts_supported": [
+    "原产地证管理",
+    "签证机构"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": true,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "单一窗口原产地证书智能审核/自助打印",
+   "organization": "中国国际贸易单一窗口",
+   "url": "https://www.singlewindow.cn/xxgk/xxgkml34/zxdt28/202604/t20260414_1920774.html",
+   "domain": "www.singlewindow.cn",
+   "source_tier": "T1",
+   "source_type": "government_platform",
+   "source_market": "CN",
+   "source_scope": "操作",
+   "facts_supported": [
+    "原产地证申领渠道"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": true,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "RCEP原产地证书签证规则（累积/背对背/原产地声明，贸促会口径）",
+   "organization": "中国贸促会陕西省委员会",
+   "url": "http://www.ccpit-shaanxi.com/News/info/aid/20142.html",
+   "domain": "www.ccpit-shaanxi.com",
+   "source_tier": "T1",
+   "source_type": "trade_promotion_body",
+   "source_market": "CN",
+   "source_scope": "签证机构解释",
+   "facts_supported": [
+    "签证规则",
+    "背对背证明",
+    "经核准出口商"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": true,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "Regional Comprehensive Economic Partnership (RCEP) official portal",
+   "organization": "RCEP Secretariat / ASEAN",
+   "parent_organization": "RCEP_SEC",
+   "url": "https://rcepsec.org/",
+   "domain": "rcepsec.org",
+   "source_tier": "T1",
+   "source_type": "international_org",
+   "source_market": "RCEP",
+   "source_scope": "treaty text and party coverage; per-HS PSR must be read in annex",
+   "facts_supported": [
+    "origin_criteria"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": true,
+   "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH",
+   "scope_match": "MATCHED"
   }
+ ],
+ "source_integrity_note": "目的国指南只采用主管机构官方域(itac/sars/nrcs/kra/kebs/customs.gov.ng/son)作T1并按真实SOURCE_MARKET标注；媒体/T4仅作背景或线索并显式降级，未冒充官方。",
+ "source_url_count": 6,
+ "source_org_count_normalized": 5,
+ "controlled_research_patch": {
+  "applied_by": "Writing AI",
+  "date": "2026-09-06",
+  "added_count": 1,
+  "final_url_count": 6,
+  "final_org_count_normalized": 5
+ },
+ "t1_only_recomputed_on": "2026-09-07"
 }

@@ -2,7 +2,7 @@
 ## SEO Metadata
 - ** Judul SEO **: RMB Penyelesaian & CIPS untuk Pengekspos Kendaraan Cina
 - ** Meta Description **: Apakah dan bagaimana eksportir kendaraan Cina dapat menagih dan menerima pembayaran di RMB, bagaimana lintas perbatasan penyelesaian RMB bekerja, posisi pajak-pengembalian, dan apa CIPS sebenarnya tidak.
-- ♪ ♪ H1 **: Settling Chinese Vehicle Exports in RMB: Cross- Perbatasan RMB Penyelesaian dan Peran CIPS**
+-   H1 **: Settling Chinese Vehicle Exports in RMB: Cross- Perbatasan RMB Penyelesaian dan Peran CIPS**
 - ** Primer Keyword **: lintas perbatasan ekspor kendaraan CIPS menetap
 - ** Akhir Pencarian Second **: Penyelesaian perdagangan RMB; pembayaran lintas perbatasan CIPS; penerimaan ekspor renminbi; pembayaran pajak RMB; RMB faktur ekspor
 - **Suggested URL**: /guides/cross-border-rmb-settlement-cips/
@@ -31,7 +31,7 @@ Sebuah kekhawatiran umum adalah bahwa menerima RMB daripada pertukaran asing blo
 
 ## Apa CIPS adalah - dan apa yang tidak
 
-CIPS adalah infrastruktur pasar finansial yang menyediakan kliring  and  penyelesaian perbatasan-lintas  and  offshore RMB payments for its **participating institutions**, dibawah aturan bisnis PBoC (aturan bisnis CIPS saat ini mendefinisikan operator  and  Peserta). Ini adalah pipa interbank: itu bergerak RMB antara bank. Ini adalah ** tidak ** pihak untuk kontrak perdagangan, bukan rentenir ke ekspor, dan bukan layanan escrow; sebuah exportir tidak 'membuka akun CIPS' - bank dengan bank pemukiman yang mencapai CIPS atau pengaturan kliring RMB. Direktori peserta saat ini diterbitkan oleh CIPS dan perubahan, jadi jangan kode-keras hubungan koresponden.
+CIPS adalah infrastruktur pasar keuangan yang menyediakan pembersihan dan penyelesaian perbatasan dan pembayaran luar negeri RMB untuk lembaga yang berpartisipasi, di bawah aturan bisnis PBoC (aturan bisnis saat ini CIPS mendefinisikan operator dan peserta). Ini adalah pipa antar bank: bergerak RMB antara bank. Ini bukan pesta untuk kontrak perdagangan, bukan pemberi pinjaman untuk eksportir, dan bukan layanan escrow; seorang eksportir tidak 'membuka akun CIPS' - bank dengan bank pemukiman yang mencapai CIPS atau setup RMB. Direktori peserta saat ini diterbitkan oleh CIPS dan perubahan, jadi jangan kode hard- hubungan koresponden.
 
 ## Batas dunia nyata: pembeli bisa membayar RMB?
 
@@ -50,7 +50,7 @@ Tanda terima pertukaran di luar negeri diatur oleh Administrasi Keamanan Negara 
 | Penutup resiko | Penyelesaian RMB menghapus FX yang tidak cocok untuk penjual tapi bukan pembeli yang tidak membayar - pasangan dengan pembayaran -istilah dan redunit-asuransi kontrol. |
 
 ## PSD
-** Bisakah eksportir kendaraan Cina secara hukum menerima RMB untuk ekspor? ♪ ♪**
+Dapatkah eksportir kendaraan Cina secara hukum menerima RMB untuk ekspor?
 
 Ya - perdagangan barang sah dapat diselesaikan di RMB melalui saluran perbatasan RMB melalui sebuah bank pemukiman yang berkualitas di bawah kerangka kerja PBoC.
 

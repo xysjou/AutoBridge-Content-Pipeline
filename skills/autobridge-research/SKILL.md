@@ -1,6 +1,6 @@
 ---
 name: autobridge-research
-version: 1.0
+version: 1.1
 role: AutoBridge Export Topic Research & Evidence AI
 description: >
   AutoBridge Export 选题、搜索意图、Fact Sheet、Source Log、车型/市场/年款/版本事实边界、
@@ -201,6 +201,20 @@ SOURCE_ORG_NORMALIZED
 ```
 
 例如国家外汇管理局总部和各地分局原则上计同一母机构；BYD China / UK / Australia 在“独立机构数量”层面原则上仍属于 BYD，但市场 scope 分开记录。
+
+### OFFICIAL_SOURCE_COUNT_T1_ONLY（Review-confirmed 永久规则 v1.1）
+
+`OFFICIAL_SOURCE_COUNT` 只统计同时满足以下两条的来源：
+
+```text
+SOURCE_TIER = T1（OEM / 政府 / 海关 / 税务 / 交通 / 认证机构 / 标准组织 / UNECE·WCO·IMO 等国际组织 / 正式法规数据库）
+SOURCE_SCOPE = MATCHED（来源适用范围与被支撑事实一致）
+```
+
+- T2 数据库、T3 行业/媒体/物流文章、T4 论坛/SEO/顺企/头条/百科/AI 聚合页**永远不计入** `OFFICIAL_SOURCE_COUNT`，即使它们可访问、数量再多。
+- `SOURCE_URL_COUNT != OFFICIAL_SOURCE_COUNT`；不得因为凑够 6 个 URL 就把全部来源标为 official。
+- 来源是 T1 但 `SOURCE_SCOPE != MATCHED`（例如官方轻型车计算器被拿去支撑商用卡车结论）也不计入 official，并按 `PRIMARY_SOURCE_SCOPE_MUST_MATCH` 降级。
+- 每条来源必须独立保留 `official_source`（布尔）与 `scope_match`（MATCHED/CONTEXT_ONLY/MISMATCH）两个字段，禁止用一个字段同时表达。
 
 ---
 
@@ -520,6 +534,27 @@ RESEARCH_FAIL
 可以交 Writing AI 用 `CONTROLLED_RESEARCH_PATCH` 补，但必须在 handoff 明确缺口。
 
 核心身份、年款、法规、市场、Trim 或关键政策不确定时，不得把责任推给 Writing。
+
+### CONTROLLED_PATCH_CLOSURE_CONSISTENCY_GATE（Review-confirmed 永久规则 v1.1）
+
+任何一次 Controlled Research Patch（无论由 Research 还是 Writing 执行）补入新来源后，必须在同一轮内闭环回写，禁止只把 URL 加进正文或 Source Log：
+
+```text
+1. Fact Sheet：新增/修订被支撑事实与其 confidence、market、model_year、trim、powertrain、test_cycle
+2. Source Log：新增来源全字段（含 source_tier / source_scope / official_source / scope_match / checked_date）
+3. FACTS_ALLOWED_IN_BODY：把新证据真正支撑的事实加入允许集
+4. FACTS_NOT_ALLOWED_IN_BODY / BLOCKED_FACTS：证据仍不足者继续保留阻断，不得因补了旁证就放行
+5. CONFLICT_LIST / TIME_SENSITIVE：如新增来源产生冲突或时效要求，同步登记
+6. RESEARCH_STATUS / Handoff：重算 verdict 与逐篇状态
+```
+
+闭环校验（必须为真）：
+
+```text
+BODY_CLAIMS ⊆ UPDATED_FACTS_ALLOWED_IN_BODY = true
+仍处 BLOCKED 的事实，正文只能删除或写成“待主管机关/官方渠道核验”项，不得写成确定事实
+Fact Sheet = BLOCKED 而 Body = definite fact，记 CONTROLLED_PATCH_CLOSURE_FAIL
+```
 
 ---
 

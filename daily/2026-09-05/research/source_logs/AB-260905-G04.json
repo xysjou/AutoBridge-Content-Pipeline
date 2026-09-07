@@ -20,8 +20,9 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "二手车出口"
+   "official_source": true,
+   "source_scope": "二手车出口",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "关于进一步扩大二手车出口业务地区范围的通知",
@@ -37,8 +38,9 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "试点范围"
+   "official_source": true,
+   "source_scope": "试点范围",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "关于进一步加强二手车出口管理工作的通知（2025-11）",
@@ -55,8 +57,9 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "最新监管"
+   "official_source": true,
+   "source_scope": "最新监管",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "二手车出口管理新政专题（2026-01-01起180天规则）",
@@ -71,8 +74,9 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "TIME_SENSITIVE",
-   "official_source": "YES",
-   "source_scope": "最新监管"
+   "official_source": true,
+   "source_scope": "最新监管",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "Ministry of Commerce (MOFCOM)",
@@ -87,9 +91,10 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "VERIFIED",
-   "official_source": "YES",
+   "official_source": true,
    "source_scope": "",
-   "added_by": "Writing AI CONTROLLED_RESEARCH_PATCH 2026-09-05"
+   "added_by": "Writing AI CONTROLLED_RESEARCH_PATCH 2026-09-05",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "General Administration of Customs of China (GACC) — used-car export supervision",
@@ -105,8 +110,9 @@
    ],
    "checked_date": "2026-09-06",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "Customs is the declaration/clearance authority for used-car export shipments, complementary to MOFCOM licensing"
+   "official_source": true,
+   "source_scope": "Customs is the declaration/clearance authority for used-car export shipments, complementary to MOFCOM licensing",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "China Automobile Dealers Association (CADA) — used-car export industry body",
@@ -122,8 +128,9 @@
    ],
    "checked_date": "2026-09-06",
    "confidence": "VERIFIED",
-   "official_source": "NO",
-   "source_scope": "Industry association context on used-car export development and enterprise practice (T2, not a regulator)"
+   "official_source": false,
+   "source_scope": "Industry association context on used-car export development and enterprise practice (T2, not a regulator)",
+   "scope_match": "CONTEXT_ONLY"
   }
  ],
  "source_integrity_note": "政府/监管/贸促会源按实际主体与URL标注；T4 SEO仅作线索并显式UNVERIFIED，未冒充官方。",
@@ -132,5 +139,6 @@
   "added_by": "Writing AI (pre-publication repair)",
   "sources_added": 7,
   "note": "Distinct primary/international organizations added 2026-09-06; all URLs HTTP-200 verified; parent-org normalization applied; no weak filler."
- }
+ },
+ "t1_only_recomputed_on": "2026-09-07"
 }

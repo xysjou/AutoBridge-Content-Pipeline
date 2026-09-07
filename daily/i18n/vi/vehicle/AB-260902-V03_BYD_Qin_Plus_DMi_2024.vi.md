@@ -10,7 +10,7 @@
 - **Image sumpions**: hồ sơ sedan; 55 tương ứng với 120 phiên bản thẻ; động cơ DM-i+motor+E-CT bố trí; nạp cổng; phía sau không gian ngồi
 - **LT gợi ý**: "BYD Tần Tần Dựa vào các xe sedan lai; " 55km so sánh với 120km ắc quy; "BYD D D D-I cha trí năng lượng đa năng"
 ## Tại sao một DM-i phải được xác định là một hệ thống
-Chiếc xe ngựa nhỏ nhỏ của Tần Plus DM-i là một chiếc xe hơi nhỏ gọn của **(PHV), không phải là xe hơi điện tử tinh khiết hay xe xăng thông thường. D's DM-i là một hệ thống phân loại dãy: một con nhỏ, Hệ thống đánh dấu hiệu suất ** 1.5L tự nhiên được kích hoạt động cơ**, một ổ đĩa ** Động cơ điện**, LFP Comment  and  một **E-CVT** làm việc vậy xe chạy bằng điện khi có thể  and  sử dụng chủ yếu máy tính cho thế hệ hiệu quả  and  Cứu trợ tốc độ cao. Vì thế,  an order must fix **four things together — battery size, Phiên bản chỉ điện, kết xuất động cơ  and  Ứng xử hoạt động**; "Một người Tần Plus DM-i" mà không có tên 55/120 thì không rõ ràng. This evergreen page covers the **2024 Glory Edition (荣耀版) China build (REFERENCE MARKET: Chloe. BORD cũng có mặt ở đây **Qin Plus DM-i** trên các trang thị trường nước ngoài được chọn; Những thông số chính thức vùng này chi phối những chiếc xe đó. ** Luật phân loại:** một quy tắc khác tên là BD PHV được coi như một mô hình liên quan*, không phải cùng một mô hình, trừ khi DOD rõ ràng ghi rõ bí danh — chia sẻ nền tảng, đào tạo năng lượng hoặc xuất hiện không phải là bằng chứng của sự tương đồng MODEL.
+Chiếc xe ngựa nhỏ nhỏ của Tần Plus DM-i là một chiếc xe hơi nhỏ gọn của **(PHV), không phải là xe hơi điện tử tinh khiết hay xe xăng thông thường. D's DM-i là một hệ thống phân loại dãy: một con nhỏ, Hệ thống đánh dấu hiệu suất ** 1.5L tự nhiên được kích hoạt động cơ**, một ổ đĩa ** Động cơ điện**, LFP Comment  and  một **E-CVT** làm việc vậy xe chạy bằng điện khi có thể  and  sử dụng chủ yếu máy tính cho thế hệ hiệu quả  and  Cứu trợ tốc độ cao. Vì thế,  Một mệnh lệnh phải sửa chữa **four things together — battery size, Phiên bản chỉ điện, kết xuất động cơ  and  Ứng xử hoạt động**; "Một người Tần Plus DM-i" mà không có tên 55/120 thì không rõ ràng. Trang màu xanh lá cây này bao phủ **2024 Glory Edition (荣耀版) China build (REFERENCE MARKET: Chloe. BORD cũng có mặt ở đây **Qin Plus DM-i** trên các trang thị trường nước ngoài được chọn; Những thông số chính thức vùng này chi phối những chiếc xe đó. ** Luật phân loại:** một quy tắc khác tên là BD PHV được coi như một mô hình liên quan*, không phải cùng một mô hình, trừ khi DOD rõ ràng ghi rõ bí danh — chia sẻ nền tảng, đào tạo năng lượng hoặc xuất hiện không phải là bằng chứng của sự tương đồng MODEL.
 ## Hai phiên bản theo từng bên
 | Mục | 55 phiên bản | 120 phiên bản |
 |---|---|---|
@@ -32,7 +32,7 @@ A PHEV carries **two** range numbers that buyers conflate: **Chỉ có điện-t
 Các địa điểm tham số liệt kê 55 và 120 hàng nhưng để cho người nhập khẩu tháo các chu kỳ và chế độ rối loạn. Phương pháp được khuyến khích là một lưu ý mức độ kết nối động cơ, ắc quy kWh, chu kỳ điện và năng lượng điện cùng nhau**, đánh dấu điểm điểm xuất phát nhanh của DC là vắng mặt (một lỗi thứ tự thường trên xe nhỏ chở dụng cụ), và nói rằng các trường hợp điện tương ứng với nhau, do đó một PHV không bao giờ được quảng cáo trên số kết hợp của nó như thể nó là phạm vi EV.
 ## Trước khi thanh toán
 - Sửa 55 hay 120 **,  with matching motor (132/145 kW)  and  battery (8.32/18.32 kWh) on the VIN build sheet.
-- Ghi âm chu kỳ điện **cycle** (NEEC vs WLTC)  and  obtain destination-certified PHEV range/CO₂ where tax or incentives depend on it.
+- Ghi âm chu kỳ điện **cycle** (NEEC vs WLTC)  and  obtain destination-certified PHEV range/CO₂ Nơi thuế hay khuyến khích phụ thuộc vào nó.
 - Xác nhận kết nối và năng lực AC/DC **by cấp**; không giả định các lỗ hổng đích GB/T khớp.
 - Xác nhận bên lái, ngôn ngữ thông tin bên ngoài Trung Quốc, và bảo đảm có thể bao gồm động cơ ** và ** và** máy móc.
 - Kiểm tra phân loại PHV của đích — động cơ lai/hologation khác với eV nguyên chất.
@@ -73,7 +73,7 @@ Nó có bán ở nước ngoài không? Theo trình tự, trên các trang thị
 ## Nguồn và Định dạng
 | Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
-| DOD QIN PLUS DM-i chính thức trang (en-bh = land site) | DOD (** Nhân viên chính thức**) | Xuất ra **Bahrain (trang ec-bh đặc trưng; không phải UAE)** | https://www.byd.com/en-bh/car/qin-plus-dmi | 2026-09-03 | **VEREEEEEEEED (TIẾNG: đây là Tần Cộng với chỉ DM-i)* ♪ | 18.3 kWh, lên đến 197 hp 145 kW, 7.3 s cho người tên là Tần Plus DM-i |
+| DOD QIN PLUS DM-i chính thức trang (en-bh = land site) | DOD (** Nhân viên chính thức**) | Xuất ra **Bahrain (trang ec-bh đặc trưng; không phải UAE)** | https://www.byd.com/en-bh/car/qin-plus-dmi | 2026-09-03 | **VEREEEEEEEED (TIẾNG: đây là Tần Cộng với chỉ DM-i)*  | 18.3 kWh, lên đến 197 hp 145 kW, 7.3 s cho người tên là Tần Plus DM-i |
 | Glory Edition 55/120 config | Tự động nhà (汽车之家) | CN | http://dealer.autohome.com.cn/2116572/spec_66744.html | 2026-09-02 | ĐÃ_ ĐÃ | Kích thước, 1.5L 81 kW, 132 kW động cơ, E-CVT, phạm vi |
 | Ấn bản phóng đi và chi tiết | Autohome Chejiaao | CN | https://chejiahao.m.autohome.com.cn/info/18481020 | 2026-09-02 | ĐÃ_ ĐÃ | 145 kW 325 N·m, 18.32 kWh, tổng hợp lại trích dẫn |
 | Tần Cộng | Xcar (爱卡) PCauto Guazi | CN | https://newcar.xcar.com.cn/m72508/config.htm | 2026-09-02 | ĐÃ_ ĐÃ | Trọng lượng cong, bánh xe, NEEC/WLTC, pin |
@@ -81,7 +81,7 @@ Nó có bán ở nước ngoài không? Theo trình tự, trên các trang thị
 | 瓜子二手车 参数页 | 瓜子二手车 | CN | https://m.guazi.com/qichecanshu/c163518812263347.html | 2026-09-02 | SINGLE_SOURCE | 55KM 版电池 8.32kWh、电机 132kW/316N·m、电耗 11.4 |
 | 太平洋汽车 参数页 | 太平洋汽车网 | CN | https://price.pcauto.com.cn/m126873/config.html | 2026-09-02 | SINGLE_SOURCE | 轴距 2718mm、油耗、0-100 加速 |
 
-*Briendence Note (tự động Bridge: Sản lượng lớn của nhà thầu là VERFIED trên trang của khu vực ORD, i (en-bh/Bahrain); Chi tiết phiên bản Trung Quốc con số được phân loại. The ~1245 km combined figure is SINGLE_SOURCE  and  Một số xe đạp Trung Quốc cộng lại. Các hình vẽ ngoài biển chỉ được sử dụng từ các trang AD có tên rõ ràng "Qin Plus D-i," Không có mối quan hệ tương tự với bất kỳ khác nhau tên BD PHV được suy ra mà không có bằng chứng OEM rõ ràng (RELL_MDEL_MDEL_MEN). ♪
+Ghi chú tự tin (tự động Bridge: đầu ra/pack lớn ĐÃ ĐÃ ĐÃ ĐÃ CỦA BYD Khu vực Tần Cộng với DM-i trang (en-bh/Bahrain); chi tiết hình phiên bản Trung Quốc bị bắt cóc. Số ~ 1245 km cộng lại con số là SINGLE_SOURCE và Một số xe đạp Trung Quốc cộng lại. Hình vẽ ngoài biển được sử dụng chỉ từ BYD trang mà tên rõ ràng "Qin Cộng với DI-i; không có mối quan hệ giống nhau bất kỳ ai khác tên BYD PHEV không có Bằng chứng rõ ràng OEM (RELLE_MEN (Tiếng Tây Ban Nha) *
 ## Xem lại tập tin
 - **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
 - **Last xem lại**: 2026-09-05

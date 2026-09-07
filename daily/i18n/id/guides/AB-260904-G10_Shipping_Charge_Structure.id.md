@@ -17,11 +17,11 @@ Tingkat pengiriman utama memenangkan booking dan kehilangan uang di tujuan. Expo
 ## The Building Blocks
 | Serang! | Apa yang mencakup | Ditagihkan dimana |
 |---|---|---|
-| ** O F (Ocean Freight) * ♪ | Kapal muatan laut dasar; komponen utama kutipan, mengambang dengan jalur kapasitas musim | Ocean leg |
-| ** THC (Terminal Handling Charge) * ♪ | Terminal angkat penanganan penyimpanan; berbeda dengan ukuran kontainer | Origin ** dan ** tujuan (OTHC DTHC) |
-| ** DOC (biaya dokumen) * ♪ | Dokumentasi; asal ODOC dan tujuan DOC dipisahkan | Keduanya berakhir |
+| ** O F (Ocean Freight) *  | Kapal muatan laut dasar; komponen utama kutipan, mengambang dengan jalur kapasitas musim | Ocean leg |
+| ** THC (Terminal Handling Charge) *  | Terminal angkat penanganan penyimpanan; berbeda dengan ukuran kontainer | Origin ** dan ** tujuan (OTHC DTHC) |
+| ** DOC (biaya dokumen) *  | Dokumentasi; asal ODOC dan tujuan DOC dipisahkan | Keduanya berakhir |
 | ** SEAL VGM ** | Biaya segel dan diverifikasi Gross- massa biaya pemberat - item asal umum | Asal |
-| ** BAF (Penyesuaian bunker; mirip dengan EBS) * ♪ | Biaya penuh yang terkait; bersama Caf (mata uang), PSS (musim puncak), PCS (kemacetan), WRS (risiko perang) | Variabel Ocean |
+| ** BAF (Penyesuaian bunker; mirip dengan EBS) *  | Biaya penuh yang terkait; bersama Caf (mata uang), PSS (musim puncak), PCS (kemacetan), WRS (risiko perang) | Variabel Ocean |
 
 ## Filing Filing Fees Are Route- Specific (editorial guide, bukan muatan universal)
 ** AMS, ACI, ENS ** dan biaya pengajuan yang sama-sama-manifes umumnya timbul ** hanya ketika routing melewati daerah mandat-filing yang sesuai ** (mise, US Kanada EU progrecececept-manifest regimes). Apakah biaya dikenakan tergantung pada ** jalur dan pembawa **, dan diselesaikan pada bahwa faktur pengiriman. Ini adalah panduan khusus ** route-specific **, bukan jadwal muatan internasional universal: jalur yang tidak pernah menyentuh rezim tersebut seharusnya tidak membawa biaya, dan panduan menegaskan tidak ada tarif tetap untuk itu.
@@ -81,7 +81,7 @@ Mengapa dua "rate sama" mengutip berbeda di tujuan? Biasanya tujuan biaya pengir
 | Definisi THC | Sina Pengiriman Keuangan | INTL | https://finance.sina.com.cn/roll/2026-07-31/doc-iniksair4574469.shtml.md | 2026-09-04 | _ BERDECAT | Penanganan terminal cakupan |
 | Biaya ekspor lautan komponen per jalur | Baike | INTL | https://m.baike.com/wiki/%E6%B5%B7%E8%BF%90%E5%87%BA%E5%8F%A3/7570444 | 2026-09-04 | _ BERDECAT | Taksonomi surcharge, logika rute AMS ACI |
 | Mula biaya FOB (THC booking trucking) | | CN | https://m.11467.com/product/d24491409.htm | 2026-09-04 | SINGLE _ SOURCE | Nama pengisian | 11467
-* Ruang penyimpanan barang bukti: pemeriksaan struktur dari sumber industri (tidak ada sumber utama tariff resmi); AMS ACI dibingkai sebagai panduan editorial-spesifik; semua jumlah sengaja dikecualikan sebagai waktu-sensitif. ♪
+* Lingkup bukti: pemeriksaan struktur impor dari sumber-sumber industri (tidak ada tariff resmi sumber primer); AMS / ACI dibingkai sebagai panduan editorial-spesifik; semua jumlah sengaja dikecualikan sebagai waktu-sensitif. ♪
 
 | Incoterms 2020 rules (who arrange pay transport at each term) | International Chamber of Commerce (ICC) | INT 'L | https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/ | 2026-09-05 | TERBATAI | Yang mana barang biaya jatuh ke pembeli vs penjual oleh Incotererm |
 | Freight- forwarder praktek dan kategori charge | FIATA | INT 'L | https://fiata.org/ | 2026-09-05 | TERBATAI | Kutipan Forwarder referensi struktur charge- |

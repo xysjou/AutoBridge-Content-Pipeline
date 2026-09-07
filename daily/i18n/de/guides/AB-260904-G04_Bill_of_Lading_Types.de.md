@@ -95,7 +95,7 @@ Der überarbeitete Seekodex bietet die rechtliche Architektur hinter diesen gesc
 | Standard-Versanddokumente und Klauseln Referenz | BIMCO | INT'L | https://www.bimco.org/ | 2026-09-05 | ÜBERPRÜFUNG | Industriestandard maritimes Dokument/Abschnitt Referenz |
 | FIATA-Transportdokumente und Speditionspraxis | International Federation of Freight Forwarders (FIATA) (Deutsche Ausgabe) | INT'L | https://fiata.org/ | 2026-09-05 | ÜBERPRÜFUNG | Verfahren zur Unterscheidung zwischen Beförderungsunternehmen B/L |
 
-*Vertrauensbeweis: statutory backbone VERIFIED via the NPC full text of the 2025 revision (in force 2026-05-01); Unternehmensdefinitionen abgeglichen; Die Gebühren für die Beförderungsunternehmen/Hafenakzeptanz bleiben reisespezifisch. *
+*Vertrauensbeweis: Das gesetzliche Rückgrat wurde über den NPC-Volltext der 2025 revision (in force 2026-05-01); Unternehmensdefinitionen abgeglichen; Die Gebühren für die Beförderungsunternehmen/Hafenakzeptanz bleiben reisespezifisch. *
 
 ## Editorial Review
 - **AutoBridge Export Editorial Team · Methode nach unserer [Editorial Policy](/redaktionelle Politik/)

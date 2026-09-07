@@ -11,7 +11,7 @@
 - **LT Những gợi ý**: "Lấp lánh MIIV Kích thước EV cực nhỏ Macaron; "MINIV Macaron 170 215 CLTC"
 
 ## Văn cảnh người mua: Khớp sản phẩm với trường hợp sử dụng
-Hồng diệp Phi Macaron là một chiếc xe điện thành thị **, không phải là một chiếc EV nhỏ gọn. Ở ** 3064 mm long  and  777 kg kerb**, nó ngồi dưới một cái cửa sau nhỏ để đo,  the BYD Dolphin on this same catalogue is around **4125 mm long** with 420/520 km CLTC grades. Khoảng cách đó là toàn bộ quyết định mua sắm: Giá trị của Macaron là sự di chuyển ngắn của thành phố với giá rất thấp của Trung Quốc; giới hạn của nó là tốc độ cao nhất (** 100 km/h **,  range (**170/215 km CLTC**), Tốc độ sạc  and  Cỡ cabin. Một người xuất khẩu đặt nó vào vị trí chống lại những người bị trục trặc EV sẽ tạo ra những vấn đề về lợi nhuận; Một người bán nó như một sản phẩm được định nghĩa thành thị/ dặm cuối cùng sẽ không. Trang này có trang ** 3rd-generation Macaron, mô hình năm 2024 (REFERCE MORETET: Chloe.
+Hồng diệp Phi Macaron là một chiếc xe điện thành thị **, không phải là một chiếc EV nhỏ gọn. Ở ** 3064 mm long  and  777 kg kerb**, nó ngồi dưới một cái cửa sau nhỏ để đo,  DOD Dolphin trên cùng danh mục này là xung quanh **4125 mm long** with 420/520 km CLTC grades. Khoảng cách đó là toàn bộ quyết định mua sắm: Giá trị của Macaron là sự di chuyển ngắn của thành phố với giá rất thấp của Trung Quốc; giới hạn của nó là tốc độ cao nhất (** 100 km/h **,  range (**170/215 km CLTC**), Tốc độ sạc  and  Cỡ cabin. Một người xuất khẩu đặt nó vào vị trí chống lại những người bị trục trặc EV sẽ tạo ra những vấn đề về lợi nhuận; Một người bán nó như một sản phẩm được định nghĩa thành thị/ dặm cuối cùng sẽ không. Trang này có trang ** 3rd-generation Macaron, mô hình năm 2024 (REFERCE MORETET: Chloe.
 
 ## Comment
 | Mục | 3rd-gen Macaron 2024 (tham chiếu Hoa Kỳ) |
@@ -29,7 +29,7 @@ Hai tiêu đề người mua nhầm lẫn là điểm số **range (170 so với
 Cả hai điểm đều có chung 3064 mm cơ thể vi mô  and  Bố trí bốn thịt, Nên lựa chọn là quyết định về xe đạp, không phải là một quyết định kích thước:
 - ** 170 km lớp 20 kW ** — tham chiếu thu nhập thấp nhất (thường là RMB 41,800độ nhạy trong nước; thích hợp để sửa chữa, ngắn vòng lặp mỗi ngày nơi mà xe quay về cơ sở và nạp chậm hơn một đêm (tách, cộng đồng cổng, khu nghỉ dưỡng, thuê xe ngắn, cuối cùng với bán kính nhỏ).
 - ** 215 km lớp ~ 13.4 kWh LFP** — xấp xỉ RMB 46,800 tham khảo nội địa; thừa năng lực mua đầu xe đạp công tác, và đó là điểm duy nhất mà bất kỳ thiết bị DC nào cũng có thể xuất hiện — và ngay cả ở đó nó là **configuration- phụ thuộc và phải được xác nhận trên mỗi VIN**, không giả định.
-The procurement trap is ordering the 170 grade on price for a route that needs mid-day top-ups, Bởi vì một chiếc xe vi mô chỉ có sức nặng không thể phục hồi trong một thời gian ngắn. Quyết định vòng lặp hàng ngày trước, rồi chọn điểm; Đừng đảo ngược nó.
+Cái bẫy đang đặt hàng 170 Điểm trên giá cho một con đường cần được nâng cấp giữa ngày, Bởi vì một chiếc xe vi mô chỉ có sức nặng không thể phục hồi trong một thời gian ngắn. Quyết định vòng lặp hàng ngày trước, rồi chọn điểm; Đừng đảo ngược nó.
 
 ## Các chiều và sự thật thu thập
 - Chiều dài chiều rộng chiều cao: ** 3064 1493 1629 mm **
@@ -100,7 +100,7 @@ Bao nhiêu ghế? Bốn ghế trong một cơ thể 3-door, 3064 mm micro; phía
 | GB 38031 an toàn về pin (GB 38031-2025); ứng dụng kiểu mới bắt buộc từ 2026-07-01) | Nền tảng chuẩn toàn quốc SAR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VEII | Điều kiện an toàn về sự quản lý-sự trì trệ của đàn ông cho chương trình điện năng |
 | Yêu cầu an toàn phương tiện điện GB 18384 (GB 18384-2025) | Nền tảng chuẩn toàn quốc SAR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VEII | Yêu cầu an toàn chức năng điện/ động cơ điện |
 
-*Bribleence ghi chú: không có bài báo chính nào về Wuling/SAIC-GM-Wuling được ghi lại; cơ sở dữ liệu truyền thông không được dùng VERIFIE. Phạm vi/prim được kiểm tra chéo trong khi trọng lượng kerb, tốc độ tối đa và kWh là một nguồn tin đơn. CLTC chỉ là xe đạp Trung Quốc. Cần phải xác nhận lại quy trình nạp điện chính xác. ♪
+*SConfidence ghi chú: không có bài phỏng đoán chính nào được ghi lại; cơ sở dữ liệu truyền thông không phải là VERIFID. Phạm vi/price được kiểm tra chéo trong khi trọng lượng kerb, tốc độ tối đa và kWh là nguồn đơn. CLTC chỉ là xe đạp Trung Quốc. Cần phải xác nhận quy trình nạp chính xác VIN.
 
 ## Xem lại tập tin
 - **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)

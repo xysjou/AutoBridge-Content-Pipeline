@@ -12,7 +12,7 @@
 ## B2B 수입업자를위한 실제 문제
 A Chinese EV reaches a Russian buyer only after three things line up: ** 유효성 문서**, ** 등록에 대한 승인 **, 그리고 ** 법적 인가 인증서를 통해 재조합되는 ** 사용자 문서 패키지, 레코드 및 청구서**의 수입인. 실제로, 대부분의 배송은 종종 그 문서 이름 다른 당사자가, 또는 per-unit 인증서가 일괄 유형 승인과 같은 행동 할 것으로 예상되는 경우 문제로 실행됩니다. 이것은 조달 위험 통제 단계로 선물됩니다; 주어진 경로에 대한 정확한 법적 근거 요건은 공인된 신체 및 관세 브로커로 확인되어야 합니다. 이 가이드는 유라시아 경제 연합 (EAEU)** 내에서 **러시아에 특이합니다. 그것은 일반 "CIS"문이며, 변경하고 확인해야합니다 비용 처리 포인트에서 해결되는 규정을 정의합니다.
 ## ettled 백본: TR CU 018/2011
-전기, 플러그 인 하이브리드 및 하이브리드 도로 차량은 EAEU 기술 규정 TR CU 018/2011 "휠드 차량의 안전에"**의 필수 범위 내에서 떨어졌습니다. 규제는 ** 세관 연합위원회의 결정에 의해 승인되었습니다. 877 of 9 December 2011 and entered into force on 1 January 2015** (the official legal register of the EAEU carries the consolidated text; 인증). 그것은 L/M/N/O 종류 차량에 적용합니다; 일반 도로 EV는 좁은 면제 (기어, 군, 특정 농업 기계)에 자격이되지 않습니다. 두 가지 적합 경로는 다음과 같습니다.
+전기, 플러그 인 하이브리드 및 하이브리드 도로 차량은 EAEU 기술 규정 TR CU 018/2011 "휠드 차량의 안전에"**의 필수 범위 내에서 떨어졌습니다. 규제는 ** 세관 연합위원회의 결정에 의해 승인되었습니다. 877 of 9 December 2011 힘에 입력 1 January 2015** (EAEU의 공식 법률 등록은 통합 된 텍스트를 수행합니다.; 인증). 그것은 L/M/N/O 종류 차량에 적용합니다; 일반 도로 EV는 좁은 면제 (기어, 군, 특정 농업 기계)에 자격이되지 않습니다. 두 가지 적합 경로는 다음과 같습니다.
 | 마쓰야마 | 이란? | 그 때 |
 |---|---|---|
 | **OTTC** - 차량 유형 승인 (Одобрение типа ТС) | EAEU에서 설립 된 기록의 제조업체 또는 수입 업체가 개최 한 시리즈의 전체 유형 승인 | 동일한 모델의 B2B 배송을 반복; 확장 가능한 경로 |
@@ -40,7 +40,7 @@ EV는 **EPTS (전자 차량 여권)**를 받고 유효 EPTS의 교통 기관과�
 3. ERA-GLONASS 요구 사항, 승인된 device/fitter 및 수입 카테고리에 대한 비용의 서면 확인을 받으십시오.
 4. Classify HS 8703.80을 취득하고 서명하기 전에 FTS EEEC 소스에서 ** 현재** 의무 VAT 타화 - 페인 수치를 얻습니다.
 5. 중국 수출의 2026 수출 면허 상태, 상표 허가 및 건전지 문서를 검증하십시오.
-6. Confirm in writing whether any third-EAEU-country transit is permissible for your shipment; Incoterms, 결제 일정 및 인증 리드 타임을 가진 해양 보험 정렬.
+6. 원 자주 묻는 질문 세 번째 - EAEU - 국가 운송은 당신의 선적을 위해 허용; Incoterms 정렬, 결제 일정 및 해상 증명서로 보험 리드 타임.
 ## 확인 될 때까지 고객 견적에서 다시 유지 포인트
 - 특정 EV 수입 듀티 비율 (출처 충돌; no FTS primary captured).
 - 개인이 ERA-GLONASS 면제가 시작되거나 종료된 날짜에 대한 특정 날짜.
@@ -50,7 +50,7 @@ EV는 **EPTS (전자 차량 여권)**를 받고 유효 EPTS의 교통 기관과�
 ** 중국 EV가 EAEU 유형 승인이 필요합니까? ** 예 - 일반 도로 EV는 TR CU 018/2011 (Customs Union Commission Decision No. 877, 2011); 일괄 또는 SBKTS에 대한 OTTC를 선택 단일 사용 단위.
 ** Is ERA-GLONASS 필수?** M/N 차량에 대한 비상 전화 요구 사항은 TR CU 018/2011에 앉아; 단일 개인 수입의 정확한 처리 결정, 그래서 현재의 요구 사항을 확인하고 당신의 경로에 대한 공인 된 신체와 승인 된 피팅을 확인.
 ** EV 수입 의무는 무엇입니까? ** 이 문서는 비율을 주지 않습니다: 러시아어 언어 소스 충돌 (고 2026 비율을 가진 zero 대) 및 FTS/EEC 주된 결정은 붙잡혔습니다. Classify HS 8703.80를 선택하고 가격 앞에 실시간 환율을 확인합니다.
-**What changed on the China side in 2026?** From 1 January 2026 pure-electric passenger vehicles are under an export-licence regime (joint Announcement No. 54), 수출상은 2026 MOFCOM 과정의 밑에 자격이 있어야 합니다.
+**중국 측에 어떤 변경 2026?** From 1 January 2026 순수한 전기 여객 차량은 수출 면허의 밑에 있습니다 (joint Announcement No. 54), 수출상은 2026 MOFCOM 과정의 밑에 자격이 있어야 합니다.
 **왜 문서의 수입 이름을 재구성?** 위험 제어 문제로 OTTC/SBKTS 홀더를 정렬하고, 기록 및 송장 위탁자의 세관 수입자는 통관 등록 분쟁을 피합니다. 그들은 동일 할 수없는 경우, 허용 가능한 배열에 공인 된 신체 또는 세관 브로커에서 서면 지도를 얻을 수 있습니다.
 ## 이미지 기록
 - IMAGE_ASSET_PATH: 저장소에 보안되지 않음

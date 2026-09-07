@@ -14,7 +14,7 @@ Chile thực hiện các thỏa thuận miễn phí với các đối tác lớn
 ## Xếp thuế, xếp hàng (chính thức bị cấm)
 | Phần tử | Điều trị | Căn bản tự tin |
 |---|---|---|
-| Tướng quân lên tiếng. | ** 6% của CFF (giá trị chung)** cho nguồn tham chiếu khác | **VERIEIED — Dịch vụ hải quan quốc gia Chile (Aduana.gob.cl)* ♪ |
+| Tướng quân lên tiếng. | ** 6% của CFF (giá trị chung)** cho nguồn tham chiếu khác | **VERIEIED — Dịch vụ hải quan quốc gia Chile (Aduana.gob.cl)*  |
 | IVA (VAT) | ** 19% trên giá trị hải quan CNFBF + nghĩa vụ** — tính tiền ngay cả khi nhiệm vụ là 0% dưới FTA | **VERIEIE — aduana.gob.cl** |
 | Tùy thích FTA cho việc thẩm định nguồn gốc Trung Quốc | Ad-valoem ** Nghỉ 0% **, có điều kiện với một chứng chỉ FTA hợp lệ về nguồn gốc và quy tắc đặc trưng sản phẩm | VERIID — Nguồn thương mại chính thức (Trung tâm; FTA thực hiện ở phía Chile bởi DIRECON/SBRI và Hải quan) |
 | Tội cổng/logi hóa | Thêm, chuyển tiếp/ chuyển tiếp | Bắt mỗi chuyến hàng |
@@ -89,7 +89,7 @@ Có phải đơn vị ATAC bị cắt giảm trong lực lượng? Không, đây
 | Các xe hơi Jinyu — 中国车进口智利指南 | Kim Vu Autos (行业站) | CL | https://jinyuautos.com/blog/import-chinese-cars-to-chile/ | 2026-09-02 | SINGLE_SOURCE | 中智 FTA 0% 关税通道 |
 | Giô - suê - ga - a — 全球汽车进口关税指南 | Hoa Gia đăng ký (行业站) | CL | https://www.huajiame.com/pl/knowledge/global-auto-import-tariff-guide | 2026-09-02 | SINGLE_SOURCE | 智利关税 6%（FTA 0%）、VAT 19%、奢侈品税 15%（>~$35k） |
 
-* CanIDidence lưu ý: nhiệm vụ tổng quát 6% và 19% IVA là thực hiện trên các phong tục Chi-lê; tùy thích FTA 0% là chính thức nhưng có điều kiện. Trước đây, có 1% /US $ 30 quy tắc giao thông (không áp dụng cho xe cộ), một ngưỡng xa hoa xa xỉ không được xác nhận và một khoản phí cố định 3CV đã được gỡ bỏ khỏi cơ thể thực tế; các quy tắc cấp độ HS của nguồn gốc và bất kỳ surtax nào phải được xác nhận với phong tục Chile/SII/SII/SURI. ♪
+* CanIDidence lưu ý: nhiệm vụ tổng quát 6% và 19% IVA được thực hiện trên các phong tục Chi-lê; Sở thích FTA 0% là chính thức nhưng có điều kiện. Trước đây có 1% /US $ 30 quy tắc gửi thư (không áp dụng cho xe cộ), một ngưỡng xa hoa xa hoa không được xác nhận và một khoản phí cố định 3CV đã được gỡ bỏ khỏi cơ thể thực tế; HS - mức độ quy tắc gốc và bất kỳ surtax nào phải được xác nhận với phong tục Chile/SII/SIIREI. *
 ## Xem lại tập tin
 - **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
 - **Last xem lại**: 2026-09-05

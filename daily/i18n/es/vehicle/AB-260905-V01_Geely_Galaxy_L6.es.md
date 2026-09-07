@@ -61,7 +61,7 @@ Las dos líneas de baterías conducen tanto el rango eléctrico-sólo y el tiemp
 ## FAQ
 **¿Es el Galaxy L6 EM-i el mismo coche que el híbrido Galaxy L6 más viejo?** Es el mismo nombre, pero una nueva generación de energía de transmisión de velocidad única EM-i; no fusiones especificaciones a través de ellos.
 **¿Por qué se citan dos rangos eléctricos?** Mapa de las líneas de baterías 8.5 kWh y 19.09 kWh; ambas son figuras del mercado chino CLTC.
-**¿Puedo usar el rango de CLTC en mi folleto de mercado?** No como figura WLTP/NEDC — present it as Chinese-market CLTC and obtain the destination-cycle value.
+¿Puedo usar la gama CLTC en mi folleto de mercado? No como una figura WLTP / NEDC — presente como mercado chino CLTC y obtener el valor del ciclo de destino.
 **¿Quién hace las baterías?** No confirmados por OEM en las fuentes capturadas, por lo que esta página no nombre un proveedor.
 **¿AutoBridge publica un precio de exportación?** No — solicite una cita actual con destino, cantidad, línea de bordes, LHD/RHD, puerto e Incoterm.
 

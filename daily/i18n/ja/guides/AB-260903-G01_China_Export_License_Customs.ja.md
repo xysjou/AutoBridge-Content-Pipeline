@@ -51,7 +51,7 @@ MIIT注文番号50は、道路車両メーカーと製品を別館に分けま�
 
 ## よくある質問
 **車輸出業者は、同じ許可が必要ですか?** いいえ — BEV の乗用車、中古車、従来の車は異なったトラックの下に坐ります; regime および HS コードをプロダクトのために確認して下さい。
-**What is the 180-day used-car rule?** From 1 Jan 2026, a vehicle registered ≤180 days before the export-licence application needs the OEM's after-sales maintenance confirmation or the licence will not be issued (per the four-ministry notice; ご使用前に再検証します。
+**新着情報 180-day used-car rule?** From 1 Jan 2026, 登録された車両 ≤180 輸出免許証の適用がOEMを必要とする前の日's 販売の維持の確認か免許証は出ません (四分の一通知ごと; ご使用前に再検証します。
 **輸出チェーンは文書が形成されるか。** ライセンス、税関申告、商業請求書、梱包リスト、原産証明書、必要な検査報告書、および選択された車両のUN38.3/MSDS。
 **Why does the manufacturer's admission category matter to a trader?** MIIT Order 50 splits vehicles into six admission categories; 製品は、メーカーの許可されているスコープ内できれいに宣言される必要があります。
 **HSコードはいつから来るのですか?** 現在の関税スケジュールと最新のMOFCOM通知に対する正確なコードと規制条件を確認します。 古いコードを継承しません。

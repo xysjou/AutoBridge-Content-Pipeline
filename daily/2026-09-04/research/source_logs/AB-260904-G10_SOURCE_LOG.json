@@ -1,1 +1,78 @@
-{"article_id":"AB-260904-G10","source_count":4,"sources":[{"source_no":"SOURCE 01","source_name":"海运整箱报价附加费拆解","organization":"网易","url":"https://www.163.com/dy/article/L3DE4MEL0556E2ZO.html","domain":"www.163.com","source_type":"industry_media","source_tier":"T3","market":"INTL","source_scope":"费用项目定义","facts_supported":"O/F基本运费+THC/DOC/VGM/BAF/EBS常规附加费;隐性附加费风险","checked_date":"2026-09-04","authority_level":"行业媒体","official_source":"NO"},{"source_no":"SOURCE 02","source_name":"THC码头操作费释义","organization":"新浪财经(船务资讯)","url":"https://finance.sina.com.cn/roll/2026-07-31/doc-iniksair4574469.shtml.md","domain":"finance.sina.com.cn","source_type":"industry_media","source_tier":"T3","market":"INTL","source_scope":"THC定义","facts_supported":"THC覆盖港口装卸/搬运/堆存操作成本","checked_date":"2026-09-04","authority_level":"财经媒体","official_source":"NO"},{"source_no":"SOURCE 03","source_name":"海运出口费用组成(分航线)","organization":"抖音百科","url":"https://m.baike.com/wiki/%E6%B5%B7%E8%BF%90%E5%87%BA%E5%8F%A3/7570444","domain":"m.baike.com","source_type":"seo_lead","source_tier":"T4","market":"INTL","source_scope":"航线费用构成","facts_supported":"欧线/北美/东南亚等O/F+附加费组合","checked_date":"2026-09-04","authority_level":"百科线索","official_source":"NO"},{"source_no":"SOURCE 04","source_name":"FOB常见费用项目(THC/订舱/拖车)","organization":"顺企网","url":"https://m.11467.com/product/d24491409.htm","domain":"m.11467.com","source_type":"seo_lead","source_tier":"T4","market":"CHINA","source_scope":"起运港费用项","facts_supported":"订舱费/拖车费/THC等项目(其具体金额为旧值,不采用)","checked_date":"2026-09-04","authority_level":"SEO线索(只取项目名)","official_source":"NO"}],"SOURCE_INTEGRITY_CHECK":"PASS: 每条来源均含真实URL,Organization与域名主体一致;无'品牌名无URL'情况","tier_distribution":{"T1":0,"T2":0,"T3":2,"T4":2}}
+{
+ "article_id": "AB-260904-G10",
+ "source_count": 4,
+ "sources": [
+  {
+   "source_no": "SOURCE 01",
+   "source_name": "海运整箱报价附加费拆解",
+   "organization": "网易",
+   "url": "https://www.163.com/dy/article/L3DE4MEL0556E2ZO.html",
+   "domain": "www.163.com",
+   "source_type": "industry_media",
+   "source_tier": "T3",
+   "market": "INTL",
+   "source_scope": "费用项目定义",
+   "facts_supported": "O/F基本运费+THC/DOC/VGM/BAF/EBS常规附加费;隐性附加费风险",
+   "checked_date": "2026-09-04",
+   "authority_level": "行业媒体",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_no": "SOURCE 02",
+   "source_name": "THC码头操作费释义",
+   "organization": "新浪财经(船务资讯)",
+   "url": "https://finance.sina.com.cn/roll/2026-07-31/doc-iniksair4574469.shtml.md",
+   "domain": "finance.sina.com.cn",
+   "source_type": "industry_media",
+   "source_tier": "T3",
+   "market": "INTL",
+   "source_scope": "THC定义",
+   "facts_supported": "THC覆盖港口装卸/搬运/堆存操作成本",
+   "checked_date": "2026-09-04",
+   "authority_level": "财经媒体",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_no": "SOURCE 03",
+   "source_name": "海运出口费用组成(分航线)",
+   "organization": "抖音百科",
+   "url": "https://m.baike.com/wiki/%E6%B5%B7%E8%BF%90%E5%87%BA%E5%8F%A3/7570444",
+   "domain": "m.baike.com",
+   "source_type": "seo_lead",
+   "source_tier": "T4",
+   "market": "INTL",
+   "source_scope": "航线费用构成",
+   "facts_supported": "欧线/北美/东南亚等O/F+附加费组合",
+   "checked_date": "2026-09-04",
+   "authority_level": "百科线索",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_no": "SOURCE 04",
+   "source_name": "FOB常见费用项目(THC/订舱/拖车)",
+   "organization": "顺企网",
+   "url": "https://m.11467.com/product/d24491409.htm",
+   "domain": "m.11467.com",
+   "source_type": "seo_lead",
+   "source_tier": "T4",
+   "market": "CHINA",
+   "source_scope": "起运港费用项",
+   "facts_supported": "订舱费/拖车费/THC等项目(其具体金额为旧值,不采用)",
+   "checked_date": "2026-09-04",
+   "authority_level": "SEO线索(只取项目名)",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  }
+ ],
+ "SOURCE_INTEGRITY_CHECK": "PASS: 每条来源均含真实URL,Organization与域名主体一致;无'品牌名无URL'情况",
+ "tier_distribution": {
+  "T1": 0,
+  "T2": 0,
+  "T3": 2,
+  "T4": 2
+ },
+ "t1_only_recomputed_on": "2026-09-07"
+}

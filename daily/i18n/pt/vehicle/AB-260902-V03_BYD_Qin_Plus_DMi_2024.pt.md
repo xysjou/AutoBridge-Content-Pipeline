@@ -32,7 +32,7 @@ Um PHEV carrega **dois números de intervalo que os compradores confundem: ** Ga
 Parâmetros de sites listam 55 e 120 linhas, mas deixam o importador desembaraçar ciclos e modos. O método recomendado é um motor de ligação de nível **VIN, bateria kWh, ciclo de gama elétrica e capacidade de carga em conjunto**, notas de marcação onde o carregamento rápido DC está ausente (um erro de ordem comum no carro de bateria pequena), e afirmando intervalo elétrico vs combinado separadamente para que um PHEV nunca seja anunciado em seu número combinado como se fosse EV intervalo.
 ## Antes do pagamento
 - Correcção ** 55 ou 120 **,  with matching motor (132/145 kW)  and  battery (8.32/18.32 kWh) on the VIN build sheet.
-- Gravar o ciclo ** de gama eléctrica (NEDC vs WLTC)  and  obtain destination-certified PHEV range/CO₂ where tax or incentives depend on it.
+- Gravar o ciclo ** de gama eléctrica (NEDC vs WLTC)  and  obtain destination-certified PHEV range/CO₂ quando o imposto ou os incentivos dependem dele.
 - Confirme a capacidade do conector e AC/DC ** por grau**; não assuma que GB/T corresponda aos soquetes de destino.
 - Confirme o lado da direção, linguagem de infotainment OTA fora da China, e garantia que cobre motor ** e** bateria ** e motor.
 - Verificar a classificação PHEV do destino — incentivos híbridos/homologação diferem dos EV puros.

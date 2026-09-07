@@ -24,7 +24,7 @@ A linha de SANY abrange três bandas de tambores: **6–7 m³ 8–9 m³ 10 m³**
 ## Superestrutura e moldura
 - Alguns modelos usam um quadro **integrado sem um subframe separado (无副车架一体化结构)** — fonte única; verifique o modelo exato e suas implicações de peso/centro de gravidade.
 - Especificar **modo de rotação de tambor, comprimento do pára-quedas/extensão, capacidade do sistema de água e bomba, direção de descarga e controles do operador**. Estes definem mais usabilidade no local do que o crachá.
-- Chinese coverage also references a large **20 m³** class mixer  and  engenharia integrada (relatório «partidário-media») — uma classe de dimensão diferente,  not to be conflated with the 6–10 m³ line.
+- A cobertura chinesa também referencia uma grande **20 m³** class mixer  and  engenharia integrada (relatório «partidário-media») — uma classe de dimensão diferente,  não conflitar com o 6–10 m³ line.
 
 ## Variante do misturador elétrico (BEV)
 Um misturador ** 8 × 4 todo-elétrico** é relatado com um motor de ímã permanente rápido (法士特) TZ368XSSFD01 em ** 350 kW pico 215 kW classificado** (relatório de comunicação de comunicação de comunicação de uma fonte única). Trate isso como uma configuração para confirmar contra o anúncio atual e a especificação bateria/carga — não misture com as figuras da linha diesel.

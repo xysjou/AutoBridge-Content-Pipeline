@@ -38,7 +38,7 @@ The **Foton General G9 (大将军 G9), 2025)** هو مركب من طراز سو�
 | معيار الانبعاثات | 国 سادسا (0 # 柴油) | - | CHINA | SINGLE OURCE | 太平洋汽车 |
 
 ## عمليات التحقق من الصادرات: السرير، والقرص، والنزاعات العاتية
-وتفشل أوامر التلقيم في معظم الأحيان على طول السرير والقرصنة. اختر قاعدة عجلات قصيرة أو طويلة وطابقها مع أبعاد السرير؛ لا تختار 4WD إلا إذا أكد البناء على حالة منخفضة. The diesel peak-torque conflict (390 vs 415 N·m) is **left unresolved on purpose** — obtain the OEM configuration sheet for the exact VIN rather than picking the favourable number. ولا يُقبض على الكتلة المتجهة ولا يجب تقديرها. Confirm the emission stage (China-VI diesel, 0 # fuel) against destination fuel quality and admission rules.
+وتفشل أوامر التلقيم في معظم الأحيان على طول السرير والقرصنة. اختر قاعدة عجلات قصيرة أو طويلة وطابقها مع أبعاد السرير؛ لا تختار 4WD إلا إذا أكد البناء على حالة منخفضة. The diesel peak-torque conflict (390 vs 415 N·m) is **left unresolved on purpose** — : الحصول على صحيفة التشكيلة رقم OEM على وجه الدقة VIN بدلاً من الحصول على رقم مناسب. ولا يُقبض على الكتلة المتجهة ولا يجب تقديرها. Confirm the emission stage (China-VI diesel, 0 # fuel) ضد نوعية وقود المقصد وقواعد القبول.
 
 ## التحقق من المشتري في الخارج قبل الدفع
 1. اختيار الديزل أو البنزين، الدقيق من قبل شبكة في إن (حل النزاع البالغ 390/415).

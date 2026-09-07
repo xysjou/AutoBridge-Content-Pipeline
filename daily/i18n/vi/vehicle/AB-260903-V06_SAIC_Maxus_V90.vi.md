@@ -11,7 +11,7 @@
 - **LT gợi ý**: "SAC Maxus V90 bánh xe dài cơ sở cao mái nhà; " V90 động cơ diesel và các lựa chọn trục sau"
 
 ## Người mua bối cảnh: Hãy đặt một mã cấu hình, không phải tên
-Xe Xintu V90 là một nền tảng thương mại rộng cho cơ thể **-amer-ofy light capage** bán như xe buýt hành khách minibus, bảng điều khiển/cargo van và khung gầm trần, qua nhiều bánh xe, độ cao mái nhà, số lượng ghế ngồi và bánh sau đơn. Không có " V90 ect" nào cả. Công việc của người xuất khẩu là sửa lại bộ mã mẫu đã bị đồng hóa (公告型号) * ♪  and  Sau đó khớp động cơ, hộp số. Trục, thân  and  Vì xác định đích đến được xác định trên một cấu hình cụ thể. - Không. **CHINA**.
+Xe Xintu V90 là một nền tảng thương mại rộng trên cơ thể được bán như xe buýt hành khách, xe tải bảng điều khiển/cargo và mái vòm trần, qua nhiều bánh xe, độ cao mái nhà, số lượng ghế ngồi và bánh sau đơn. Không có " V90 quang số". Công việc của người xuất khẩu là sửa lại chính xác mã đồng nhất (公告型号) và sau đó khớp với động cơ, hộp số, trục, cơ thể và ghế — bởi vì điểm đến được thực hiện trên cấu hình cụ thể đó. Chloe.
 
 ## Máy và dây đĩa (tập trung động cơ nhân)
 | Mục | V90 Tham khảo Trung Quốc |
@@ -93,7 +93,7 @@ Sao tôi phải trích dẫn một quy tắc? Cơ sở quay xe, mái nhà, ghế
 | GB 18352.6-2016 với tu chính án XG1-2026 (Trung Quốc 6 ánh sáng-vehictt phóng xạ) | Bộ sinh thái học và Môi trường (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VEII | Chương trình khai thác ánh sáng ở Trung Quốc 6 và 2026 ngày thực hiện sửa đổi |
 | GB 19147 nhiên liệu dầu diesel quốc gia tiêu chuẩn (cơ sở chậm-sur) | Nền tảng chuẩn toàn quốc SAR | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VEII | Chất đốt tổng hợp và chất lưu huỳnh khớp với thiết kế của động cơ/phát ra ở nước ngoài |
 
-*B đồng ý: không có tờ thông tin sơ bộ nào của SIC Maxus bị ghi lại; giá trị được kiểm tra chéo cơ sở dữ liệu Trung Quốc, số lượng chỗ ngồi là một nguồn và gắn liền với mã số tương đồng. Không có giá nào và cũng không ai được xác nhận. Chấp thuận đích đến là một sự cấu hình cụ thể. ♪
+*AIDidence: không có tờ thông tin cá nhân nào được ghi lại; các giá trị được kiểm tra chéo cơ sở dữ liệu Trung Quốc, số lượng chỗ ngồi chỉ có một nguồn và gắn liền với các mã tương đồng. Không có giá nào và cũng không ai khẳng định. Sự chấp thuận đích đến rất cụ thể. *
 
 ## Xem lại tập tin
 - **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)

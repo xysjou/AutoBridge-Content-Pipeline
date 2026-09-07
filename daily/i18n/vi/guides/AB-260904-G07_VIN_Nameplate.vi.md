@@ -12,7 +12,7 @@
 - **LT " 17 ký tự VIN chia thành WMI VDS VIS dưới GB16735-2019"
 
 ## Tại sao phải ngồi trước khi được trả tiền?
-Một trận đấu sai lầm là một trong số ít những khuyết điểm ngăn chặn việc đăng ký **Sau khi xong việc đã được trả tiền và vận chuyển. Việc sửa chữa ở bàn làm việc rẻ tiền và đắt tiền ở cảng đích. Hướng dẫn này giải thích cấu trúc VIN Trung Quốc theo tiêu chuẩn hiện tại  and  gives a four-place consistency check buyers can run before releasing balance payment.
+Name Một trong số ít Những khuyết tật cản trở việc đăng ký **Sau khi** chiếc xe đã Đã được trả tiền rồi và vận chuyển. Cái này rẻ lắm. tại bàn làm việc và đắt tiền ở Cổng đích. Hướng dẫn viên này giải thích Cấu trúc Trung Quốc VIN dưới tiêu chuẩn hiện thời và cung cấp một sự nhất quán bốn nơi Name trước khi thanh toán.
 
 ## Cấu trúc 17-Character dưới GB 16735-2019
 Một số nhận diện phương tiện là ** 17 ký tự**, chia làm ba phần:
@@ -86,7 +86,7 @@ Cái gì phải khớp trước khi trả tiền? Thi thể được ghép, bả
 | Nền tảng · GB16735-2019 chi tiết | SA - RA | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=94E9AF238E3052A4E05397BE0A0AD366 | 2026-09-04 | VEIID (TIẾNG) | Trạng thái chuẩn |
 | Road-motor-vehicle product-access review requirements (mandatory citation of GB16735) | PDF chính thức của MIT | CN | https://wap.miit.gov.cn/cms_files/filemanager/1226211233/attach/20259/9d0824a8e8a84abf858f3cb96a6d7385.pdf | 2026-09-04 | VEIID (TIẾNG) | Name |
 | Giải thích đoạn văn VIN | Comment | CN | http://m.pcauto.com.cn/x/5100/51002243.html | 2026-09-04 | SINGLE_SOURCE | Trình giải thích mức độ vị trí |
-* Ghi chú bị khóa: "L/một số H của Trung Quốc bắt đầu với L/ một số H" là UNVERFIED và không được nói như thực tế; sơ đồ thiết kế và định dạng điểm VIN là ngoài phạm vi. ♪
+*Blocked lưu ý: "Trung Quốc WMI bắt đầu với L / một số H" là UNVERFID và không được ghi là thực tế; bản đồ và đích đến VIN định dạng trong phạm vi. *
 
 | 道路车辆 车辆识别代号 (VIN) GB16735-2019 条文 (百科载体) | 百科 (国标条文载体) | CN | https://m.baike.com/wiki/%E8%BD%A6%E8%BE%86%E8%AF%86%E5%88%AB%E5%8F%B7%E7%A0%81/1470666 | 2026-09-04 | SINGLE_SOURCE | VIN=WMI+VDS+VIS 共 17 位 (以标准正文为准) |
 

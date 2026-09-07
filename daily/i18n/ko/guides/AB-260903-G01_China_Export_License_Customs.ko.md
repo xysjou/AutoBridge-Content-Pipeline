@@ -14,7 +14,7 @@
 대부분의 첫 번째 배송은 ** 중국 측에 실패 **, 대상이 아닙니다: 수출자는 올바른 자격 범주를 부족, 라이센스는 제품을 포함하지 않습니다, 또는 문서 체인은 선언에 의도. 이 가이드는 순서를 따라 놓습니다. 중국 정부 문서 (MOFCOM, State Council Policy library, MIIT); 규칙이 매년 또는 시간 감지되지 않은 곳에는 영구적으로 처리되지 않고 떨어졌다.
 
 ## 단계 1 — 어느 면허 Regime 당신의 차량 폭포 아래에 확인
-China does not use one blanket "car export permit". 트랙을 구별:
+China는 하나의 담요를 사용하지 않습니다. "car export permit". 트랙을 구별:
 - **신 에너지 BEV 여객 자동차: ** 자동차는 드라이브 모터에 의해 단독으로 추진하고 VIN (reference HS 8703801090) 아래 ** 수출 면허 관리 ** MOFCOM, MIIT, GAC 및 SAMR (TIME_SENSITIVE - 올해 관세 일정에 대한 현재의 통지 및 정확한 HS 코드를 확인합니다).
 - **사용 차량: ** 국가는 MOFCOM**에 의해 관리되는 ** 수출 면허 부여권입니다,  and  면허는 모터 차량 등록 증명서 (VERIFIED,  four-ministry notice).
 - **Conventional 새로운 차량 오토바이: ****** 영구 수출 면허 출원 ** 다음 설명.
@@ -51,7 +51,7 @@ MIIT 주문 번호 50은 도로 모터 차량 제조업체 및 제품을 ** six 
 
 ## 자주 묻는 질문
 **모든 자동차 수출은 동일한 허가를 필요로합니까? ** 아니요 - BEV 승용차, 중고차 및 기존 차량은 다른 트랙 아래에 앉아; 제품의 정체 및 HS 코드를 확인합니다.
-**What is the 180-day used-car rule?** From 1 Jan 2026, a vehicle registered ≤180 days before the export-licence application needs the OEM's after-sales maintenance confirmation or the licence will not be issued (per the four-ministry notice; 사용 전에 재확인).
+180-day 중고차 규칙은 무엇입니까? 1에서 Jan 2026의 수출 면허 신청의 앞에 차량에 의하여 등록된 ≤ 180 일은 OEM의 판매 후 정비 확인을 필요로 합니다 또는 면허는 발행되지 않을 것입니다 (대략적인 고시; 사용의 앞에 재확인).
 ** 수출 체인을 형성합니까? ** 의욕, 세관 신고, 상업 송장, 포장 목록, 원래의 증명서, 검사 보고 필요한 곳에, UN38.3/MSDS 이상의 차량이 충전됩니다.
 **Why does the manufacturer's admission category matter to a trader?** MIIT Order 50 splits vehicles into six admission categories; 제품은 제조 업체의 인정 범위 내에서 깨끗하게 선언해야합니다.
 ** HS 코드가 제공합니까? ** 현재 관세 일정과 최신 MOFCOM 공지에 대한 정확한 코드 및 규제 조건을 확인합니다. 오래된 코드를 수행하지 마십시오.

@@ -19,8 +19,9 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "出口管制"
+   "official_source": true,
+   "source_scope": "出口管制",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "两用物项出口管制内部合规指南",
@@ -37,8 +38,9 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "合规指引"
+   "official_source": true,
+   "source_scope": "合规指引",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "司法部、商务部负责人就两用物项出口管制条例答记者问",
@@ -54,8 +56,9 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "政策解读"
+   "official_source": true,
+   "source_scope": "政策解读",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "两用物项出口管制措施专题（不予许可情形）",
@@ -71,8 +74,9 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "许可口径"
+   "official_source": true,
+   "source_scope": "许可口径",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "Ministry of Commerce (MOFCOM)",
@@ -87,9 +91,10 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "VERIFIED",
-   "official_source": "YES",
+   "official_source": true,
    "source_scope": "",
-   "added_by": "Writing AI CONTROLLED_RESEARCH_PATCH 2026-09-05"
+   "added_by": "Writing AI CONTROLLED_RESEARCH_PATCH 2026-09-05",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "Regulation (EU) 2021/821 — EU dual-use export-control regime",
@@ -105,8 +110,9 @@
    ],
    "checked_date": "2026-09-06",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "Example of a major-jurisdiction dual-use control regime and restricted-party/end-use controls relevant to screening design"
+   "official_source": true,
+   "source_scope": "Example of a major-jurisdiction dual-use control regime and restricted-party/end-use controls relevant to screening design",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "US BIS Entity List — restricted-party screening example",
@@ -122,8 +128,9 @@
    ],
    "checked_date": "2026-09-06",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "Public restricted-party list illustrating denied-entity screening before shipment"
+   "official_source": true,
+   "source_scope": "Public restricted-party list illustrating denied-entity screening before shipment",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "US OFAC SDN List — sanctions screening",
@@ -139,8 +146,9 @@
    ],
    "checked_date": "2026-09-06",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "Specially Designated Nationals list as a sanctions-screening data source; jurisdiction-specific, not a global blacklist"
+   "official_source": true,
+   "source_scope": "Specially Designated Nationals list as a sanctions-screening data source; jurisdiction-specific, not a global blacklist",
+   "scope_match": "MATCHED"
   }
  ],
  "source_integrity_note": "政府/监管/贸促会源按实际主体与URL标注；T4 SEO仅作线索并显式UNVERIFIED，未冒充官方。",
@@ -149,5 +157,6 @@
   "added_by": "Writing AI (pre-publication repair)",
   "sources_added": 8,
   "note": "Distinct primary/international organizations added 2026-09-06; all URLs HTTP-200 verified; parent-org normalization applied; no weak filler."
- }
+ },
+ "t1_only_recomputed_on": "2026-09-07"
 }

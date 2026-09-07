@@ -1,0 +1,59 @@
+{
+  "scope": "2026-09-02..2026-09-06",
+  "generated": "2026-09-07",
+  "full_body_locale_expected": 1200,
+  "pages_per_language": {
+    "en": 100,
+    "fr": 100,
+    "de": 100,
+    "es": 100,
+    "pt": 100,
+    "ja": 100,
+    "ko": 100,
+    "vi": 100,
+    "th": 100,
+    "id": 100,
+    "ar": 100,
+    "zh": 100
+  },
+  "machine_gate": {
+    "name": "FULL_BODY_LOCALE_QA (number/unit/URL/heading/table/ALT/placeholder/workflow/script/ratio)",
+    "pass": 1200,
+    "fail": 0,
+    "fail_detail": []
+  },
+  "english_residue_lines_remaining": {
+    "fr": 3,
+    "de": 5,
+    "es": 2,
+    "pt": 2,
+    "ja": 54,
+    "ko": 23,
+    "vi": 4,
+    "th": 16,
+    "id": 3,
+    "ar": 13,
+    "zh": 7,
+    "en": 0
+  },
+  "english_residue_total": 132,
+  "english_residue_note": "Residual untranslated English fragments in non-EN bodies; halted before final language-polish pass; machine numeric/structural gates still pass. Not claimed as professional localization.",
+  "p0_internal_workflow_leakage": {
+    "en": 0,
+    "fr": 0,
+    "de": 0,
+    "es": 0,
+    "pt": 0,
+    "ja": 0,
+    "ko": 0,
+    "vi": 0,
+    "th": 0,
+    "id": 0,
+    "ar": 0,
+    "zh": 0
+  },
+  "AI_LANGUAGE_QA": "Machine structural/numeric QA PASS 1200/1200; PROFESSIONAL_LOCALIZATION not claimed; HUMAN_REVIEWED=false",
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

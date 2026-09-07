@@ -12,7 +12,7 @@
 - ** اقتراح**: أمام ثلاثة أرباع مجموعة من أجهزة الاتصال اللاسلكية SAIC MAXUS T90 من المركب المزدوج على سطح غير مثبت
 - **Schema Scope**: Article + Vehicle
 
-The Interstellar T90 (Xingji T90), formerly the MAXUS T90 in China) is SAIC MAXUS's mid-size, **body-on-frame** double-cab pickup — the type of vehicle bought overseas for load-carrying, rough-road and fleet use rather than passenger refinement. يتم تحديد شراء التعبئة على السرير، حمولة، قرصان، وفوضى، لذلك تلك التي تقود هذه الصفحة. وهو يغطي الديزل التجاري الصيني** فقط؛ ويستبعد الـ T90 الكهرباء المنفصلة.**
+The Interstellar T90 (Xingji T90,سابقاً T90 MAXUS في الصين,سيارة جيب مزدوجة — نوع المركبة التي تم شراؤها في الخارج من أجل حملها,تقريبًا واستخدام الأسطول بدلاً من صقل المسافرين وتُقرَّر عملية الشراء على السرير، والحمولة، والقرصان، والفوضى، بحيث تقود هذه الصفحة. وهو يغطي الديزل في السوق الصينية فقط؛ ويستبعد الـ T90 الكهرباء المنفصلة.
 
 ## التهاب وجسد - التعبئة الأساسية
 

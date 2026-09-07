@@ -31,7 +31,7 @@ Chinesische Quellen beschreiben mehrere Lithium-Batteriepacks (etwa 62 67.8 76 k
 
 ## Ladearchitektur: 800V ist versionenabhängig
 
-Higher versions use an 800-volt high-voltage platform that supports higher DC fast-charging capability, während die genaue Spitzenladeleistung  and  10–80% time are not available from an official source here  and  sind daher **nicht als feste Werte angegeben** — bestätigen Sie diese per Trimm. Für den Export ist der physische Steckverbinder- und Ladestandard (GB/T in China gegenüber CCS/anderen Bestimmungsnormen) eine separate, entscheidende Frage, die ein OEM-Exportblatt beantworten muss.
+Höhere Versionen verwenden eine 800-volt high-voltage platform that supports higher DC fast-charging capability, während die genaue Spitzenladeleistung  and  10–80% Zeit sind hier nicht von einer offiziellen Quelle verfügbar und sind auch **nicht als feste Werte angegeben** — bestätigen Sie diese per Trimm. Für den Export ist der physische Steckverbinder- und Ladestandard (GB/T in China gegenüber CCS/anderen Bestimmungsnormen) eine separate, entscheidende Frage, die ein OEM-Exportblatt beantworten muss.
 
 ## Software, OTA und das Cockpit
 

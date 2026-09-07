@@ -1,139 +1,147 @@
 {
-  "article_id": "AB-260906-V08",
-  "content_type": "VEHICLE_PAGE",
-  "checked_date": "2026-09-06",
-  "source_log_version": "SL-v1-20260906",
-  "sources": [
-    {
-      "source_title": "解放J6F（大柴CA4DB1-13E6 2.2L 95kW/130Ps/350N·m、4.2m货箱、蓝牌）",
-      "organization": "卡车之家官方号（今日头条镜像）",
-      "url": "http://m.toutiao.com/group/7378317194271228979/",
-      "domain": "m.toutiao.com",
-      "source_tier": "T3",
-      "source_type": "database",
-      "source_market": "CHINA",
-      "source_scope": "",
-      "facts_supported": [
-        "发动机",
-        "货箱",
-        "蓝牌"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "SINGLE_SOURCE",
-      "official_source": "NO"
-    },
-    {
-      "source_title": "J6F潍柴WP2.3N 130Ps国六配置（卡车之家镜像）",
-      "organization": "卡车之家官方号（今日头条镜像）",
-      "url": "http://m.toutiao.com/group/7232073050331959843/",
-      "domain": "m.toutiao.com",
-      "source_tier": "T3",
-      "source_type": "database",
-      "source_market": "CHINA",
-      "source_scope": "",
-      "facts_supported": [
-        "备选发动机",
-        "国六"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "SINGLE_SOURCE",
-      "official_source": "NO"
-    },
-    {
-      "source_title": "一汽解放官网J6F车型页（车型官方身份与产品系列）",
-      "organization": "一汽解放官网",
-      "url": "https://www.fawjiefang.com.cn/",
-      "domain": "www.fawjiefang.com.cn",
-      "source_tier": "T1",
-      "source_type": "oem_official",
-      "source_market": "CHINA",
-      "source_scope": "",
-      "facts_supported": [
-        "车型官方身份"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "VERIFIED",
-      "official_source": "YES"
-    },
-    {
-      "source_title": "J6F二手/在售配置样本（额定载重区间线索，T4）",
-      "organization": "58同城",
-      "url": "https://cq.58.com/ershouche/74516022980226x.shtml",
-      "domain": "cq.58.com",
-      "source_tier": "T4",
-      "source_type": "classifieds",
-      "source_market": "CHINA",
-      "source_scope": "",
-      "facts_supported": [
-        "载质量线索"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "UNVERIFIED",
-      "official_source": "NO"
-    },
-    {
-      "source_title": "道路机动车辆生产企业及产品公告（查询入口）",
-      "organization": "中华人民共和国工业和信息化部",
-      "parent_organization": "MIIT",
-      "url": "https://www.miit.gov.cn/datainfo/cpgg/",
-      "domain": "www.miit.gov.cn",
-      "source_tier": "T1",
-      "source_type": "homologation",
-      "source_market": "CN",
-      "source_scope": "verify N2 GVW/engine/payload by exact announcement",
-      "facts_supported": [
-        "identity"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "VERIFIED",
-      "official_source": "YES",
-      "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH"
-    },
-    {
-      "source_title": "卡车之家 解放J6F 车型库（独立商用车数据库）",
-      "organization": "卡车之家",
-      "parent_organization": "360CHE",
-      "url": "http://www.360che.com/",
-      "domain": "www.360che.com",
-      "source_tier": "T2",
-      "source_type": "independent_db",
-      "source_market": "CN",
-      "source_scope": "commercial-vehicle database cross-check; payload still per announcement",
-      "facts_supported": [
-        "identity"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "CROSS_CHECKED",
-      "official_source": "NO",
-      "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH"
-    },
-    {
-      "source_title": "FAW Trucks global (export)",
-      "organization": "FAW Jiefang",
-      "parent_organization": "FAW",
-      "url": "https://www.fawtrucks.com/",
-      "domain": "www.fawtrucks.com",
-      "source_tier": "T1",
-      "source_type": "oem_official",
-      "source_market": "EXPORT",
-      "source_scope": "export-market reference; do not equate to China J6F",
-      "facts_supported": [
-        "identity"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "CROSS_CHECKED",
-      "official_source": "YES",
-      "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH"
-    }
-  ],
-  "source_integrity_note": "卡车之家内容经今日头条镜像者按真实domain标T3、未冒称360che canonical；T4(百科/分类信息)仅作线索并显式UNVERIFIED；OEM/政府/年报为T1。",
-  "source_url_count": 7,
-  "source_org_count_normalized": 6,
-  "controlled_research_patch": {
-    "applied_by": "Writing AI",
-    "date": "2026-09-06",
-    "added_count": 3,
-    "final_url_count": 7,
-    "final_org_count_normalized": 6
+ "article_id": "AB-260906-V08",
+ "content_type": "VEHICLE_PAGE",
+ "checked_date": "2026-09-06",
+ "source_log_version": "SL-v1-20260906",
+ "sources": [
+  {
+   "source_title": "解放J6F（大柴CA4DB1-13E6 2.2L 95kW/130Ps/350N·m、4.2m货箱、蓝牌）",
+   "organization": "卡车之家官方号（今日头条镜像）",
+   "url": "http://m.toutiao.com/group/7378317194271228979/",
+   "domain": "m.toutiao.com",
+   "source_tier": "T3",
+   "source_type": "database",
+   "source_market": "CHINA",
+   "source_scope": "",
+   "facts_supported": [
+    "发动机",
+    "货箱",
+    "蓝牌"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "SINGLE_SOURCE",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "J6F潍柴WP2.3N 130Ps国六配置（卡车之家镜像）",
+   "organization": "卡车之家官方号（今日头条镜像）",
+   "url": "http://m.toutiao.com/group/7232073050331959843/",
+   "domain": "m.toutiao.com",
+   "source_tier": "T3",
+   "source_type": "database",
+   "source_market": "CHINA",
+   "source_scope": "",
+   "facts_supported": [
+    "备选发动机",
+    "国六"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "SINGLE_SOURCE",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "一汽解放官网J6F车型页（车型官方身份与产品系列）",
+   "organization": "一汽解放官网",
+   "url": "https://www.fawjiefang.com.cn/",
+   "domain": "www.fawjiefang.com.cn",
+   "source_tier": "T1",
+   "source_type": "oem_official",
+   "source_market": "CHINA",
+   "source_scope": "",
+   "facts_supported": [
+    "车型官方身份"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": true,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "J6F二手/在售配置样本（额定载重区间线索，T4）",
+   "organization": "58同城",
+   "url": "https://cq.58.com/ershouche/74516022980226x.shtml",
+   "domain": "cq.58.com",
+   "source_tier": "T4",
+   "source_type": "classifieds",
+   "source_market": "CHINA",
+   "source_scope": "",
+   "facts_supported": [
+    "载质量线索"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "UNVERIFIED",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "道路机动车辆生产企业及产品公告（查询入口）",
+   "organization": "中华人民共和国工业和信息化部",
+   "parent_organization": "MIIT",
+   "url": "https://www.miit.gov.cn/datainfo/cpgg/",
+   "domain": "www.miit.gov.cn",
+   "source_tier": "T1",
+   "source_type": "homologation",
+   "source_market": "CN",
+   "source_scope": "verify N2 GVW/engine/payload by exact announcement",
+   "facts_supported": [
+    "identity"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": true,
+   "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH",
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "卡车之家 解放J6F 车型库（独立商用车数据库）",
+   "organization": "卡车之家",
+   "parent_organization": "360CHE",
+   "url": "http://www.360che.com/",
+   "domain": "www.360che.com",
+   "source_tier": "T2",
+   "source_type": "independent_db",
+   "source_market": "CN",
+   "source_scope": "commercial-vehicle database cross-check; payload still per announcement",
+   "facts_supported": [
+    "identity"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "CROSS_CHECKED",
+   "official_source": false,
+   "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH",
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "FAW Trucks global (export)",
+   "organization": "FAW Jiefang",
+   "parent_organization": "FAW",
+   "url": "https://www.fawtrucks.com/",
+   "domain": "www.fawtrucks.com",
+   "source_tier": "T1",
+   "source_type": "oem_official",
+   "source_market": "EXPORT",
+   "source_scope": "export-market reference; do not equate to China J6F",
+   "facts_supported": [
+    "identity"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "CROSS_CHECKED",
+   "official_source": true,
+   "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH",
+   "scope_match": "MATCHED"
   }
+ ],
+ "source_integrity_note": "卡车之家内容经今日头条镜像者按真实domain标T3、未冒称360che canonical；T4(百科/分类信息)仅作线索并显式UNVERIFIED；OEM/政府/年报为T1。",
+ "source_url_count": 7,
+ "source_org_count_normalized": 6,
+ "controlled_research_patch": {
+  "applied_by": "Writing AI",
+  "date": "2026-09-06",
+  "added_count": 3,
+  "final_url_count": 7,
+  "final_org_count_normalized": 6
+ },
+ "t1_only_recomputed_on": "2026-09-07"
 }

@@ -12,7 +12,7 @@
 - ** Skema Scope **: Artikel (tidak ada Produk Offer Review)
 
 ## Pisahkan pasar domestik Cina dari transaksi ekspor
-CCC (CINA Sertifikasi Kompulsif) adalah *** Domestic- pasar ** rezim sertifikasi produk wajib: produk yang terdaftar harus disahkan sebelum mereka meninggalkan pabrik untuk penjualan domestik, diimpor ke Cina, atau dijual digunakan di pasar Cina, dan impor menjalani verifikasi entri. Pertanyaan ekspor kuncinya bukan "adalah mobil yang terdaftar sebagai CCC-terdaftar" tapi ** "adalah unit khusus yang memasuki pasar Cina atau diekspor dari situ?" * ♪
+CCC (Perjanjian Kompulsif China) adalah ketentuan untuk produk-produk pasar di Cina: produk yang terdaftar harus disahkan sebelum mereka meninggalkan pabrik untuk penjualan domestik, diimpor ke Cina, atau dijual / digunakan di pasar Cina, dan impor menjalani verifikasi entri. Pertanyaan ekspor kuncinya adalah bukan "adalah mobil CCC -terdaftar" tapi "apakah unit khusus ini memasuki pasar Cina atau diekspor dari sana?"
 
 ## Batas ekspor
 Barang-barang diproduksi secara menyeluruh untuk ekspor ** tidak memasuki pasar domestik Cina dan tidak ditempatkan di atasnya; rezim CCC menargetkan penempatan pasar domestik dan penting - Cina. Sertifikat pasar takdir (persetujuan bertipe kendaraan, e- mark GCC etc.) adalah ** terpisah, persyaratan asing ** dan tidak pernah puas dengan sertifikat CCC Cina.

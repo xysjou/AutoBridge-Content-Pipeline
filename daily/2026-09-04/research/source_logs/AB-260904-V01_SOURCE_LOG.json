@@ -1,1 +1,62 @@
-{"article_id":"AB-260904-V01","source_count":3,"sources":[{"source_no":"SOURCE 01","source_name":"艾瑞泽8 2024款1.6T DCT卓越版 参数页","organization":"中关村在线汽车(ZOL)","url":"https://detail.zol.com.cn/car/index2030152.shtml","domain":"detail.zol.com.cn","source_type":"structured_db","source_tier":"T2","market":"CHINA","source_scope":"该具体年款trim参数","facts_supported":"车身尺寸/轴距/动力/变速箱/车身结构/最高车速","checked_date":"2026-09-04","authority_level":"结构化车型数据库","official_source":"NO"},{"source_no":"SOURCE 02","source_name":"艾瑞泽8 2024款1.6T DCT卓越版 参数","organization":"搜狐汽车车型库","url":"https://db.m.auto.sohu.com/trim_171975","domain":"db.m.auto.sohu.com","source_type":"structured_db","source_tier":"T2","market":"CHINA","source_scope":"该具体年款trim参数","facts_supported":"排量/功率/马力/尺寸","checked_date":"2026-09-04","authority_level":"结构化车型数据库","official_source":"NO"},{"source_no":"SOURCE 03","source_name":"奇瑞艾瑞泽8 1.6T动力解析","organization":"汽车之家·车家号","url":"https://chejiahao.m.autohome.com.cn/info/19508971?isfrom=pc","domain":"chejiahao.m.autohome.com.cn","source_type":"industry_media","source_tier":"T3","market":"CHINA","source_scope":"中国市场1.6T版本","facts_supported":"145kW/197ps/290N·m/7DCT","checked_date":"2026-09-04","authority_level":"专业汽车媒体","official_source":"NO"}],"SOURCE_INTEGRITY_CHECK":"PASS: 每条来源均含真实URL,Organization与域名主体一致;无'品牌名无URL'情况","tier_distribution":{"T1":0,"T2":2,"T3":1,"T4":0}}
+{
+ "article_id": "AB-260904-V01",
+ "source_count": 3,
+ "sources": [
+  {
+   "source_no": "SOURCE 01",
+   "source_name": "艾瑞泽8 2024款1.6T DCT卓越版 参数页",
+   "organization": "中关村在线汽车(ZOL)",
+   "url": "https://detail.zol.com.cn/car/index2030152.shtml",
+   "domain": "detail.zol.com.cn",
+   "source_type": "structured_db",
+   "source_tier": "T2",
+   "market": "CHINA",
+   "source_scope": "该具体年款trim参数",
+   "facts_supported": "车身尺寸/轴距/动力/变速箱/车身结构/最高车速",
+   "checked_date": "2026-09-04",
+   "authority_level": "结构化车型数据库",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_no": "SOURCE 02",
+   "source_name": "艾瑞泽8 2024款1.6T DCT卓越版 参数",
+   "organization": "搜狐汽车车型库",
+   "url": "https://db.m.auto.sohu.com/trim_171975",
+   "domain": "db.m.auto.sohu.com",
+   "source_type": "structured_db",
+   "source_tier": "T2",
+   "market": "CHINA",
+   "source_scope": "该具体年款trim参数",
+   "facts_supported": "排量/功率/马力/尺寸",
+   "checked_date": "2026-09-04",
+   "authority_level": "结构化车型数据库",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_no": "SOURCE 03",
+   "source_name": "奇瑞艾瑞泽8 1.6T动力解析",
+   "organization": "汽车之家·车家号",
+   "url": "https://chejiahao.m.autohome.com.cn/info/19508971?isfrom=pc",
+   "domain": "chejiahao.m.autohome.com.cn",
+   "source_type": "industry_media",
+   "source_tier": "T3",
+   "market": "CHINA",
+   "source_scope": "中国市场1.6T版本",
+   "facts_supported": "145kW/197ps/290N·m/7DCT",
+   "checked_date": "2026-09-04",
+   "authority_level": "专业汽车媒体",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  }
+ ],
+ "SOURCE_INTEGRITY_CHECK": "PASS: 每条来源均含真实URL,Organization与域名主体一致;无'品牌名无URL'情况",
+ "tier_distribution": {
+  "T1": 0,
+  "T2": 2,
+  "T3": 1,
+  "T4": 0
+ },
+ "t1_only_recomputed_on": "2026-09-07"
+}

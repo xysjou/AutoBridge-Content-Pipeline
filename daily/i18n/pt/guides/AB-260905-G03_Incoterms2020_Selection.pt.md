@@ -12,7 +12,7 @@
 - **Schema Scope** Artigo (sem Produto/Oferta/Revisão)
 
 ## Iniciar a partir do modo de transporte, não hábito
-Incoterms 2020 contains **eleven** rules divided into those for any mode of transport  and  Os que são tradicionalmente destinados ao transporte marítimo/fluvial. Na exportação de veículos, a primeira escolha é, portanto, se a mudança é de porto para porto oceano (RoRo/container) ou multimodal (caminhão-de-ferro/ferro mais mar, comum para o transporte de mercadorias na Ásia Central). Escolher um termo apenas para o mar para uma mudança multimodal cria uma lacuna em onde o risco passa.
+Incoterms 2020 contém onze regras divididas em regras para qualquer modo de transporte e as tradicionalmente para o transporte marítimo/fluvial. Na exportação de veículos, a primeira escolha é, portanto, se o movimento é porto-para-porto oceano (RoRo /contentor) ou multimodal (caminhão/carril terrestre mais mar, comum para o caminhão Central-Ásia). Escolher um termo apenas para um movimento multimodal cria uma lacuna em onde o risco passa.
 
 ## Quando o risco realmente transfere
 - **FOB FCA**: sob FOB (mar/via navegável) o risco passa quando as mercadorias são colocadas ** a bordo do navio; sob FCA (qualquer modo) o risco passa quando as mercadorias são entregues ao transportador do comprador no local nomeado. Para movimentos multimodal e em containerizado AFC é o ajuste mais limpo porque o risco e o controle se alinham com a entrega real, em vez de um momento de bordo que o vendedor não controla.

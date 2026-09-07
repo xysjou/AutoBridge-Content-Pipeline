@@ -114,7 +114,7 @@ Có thể có bao nhiêu ghế? Trong số M5L người, 7 hoặc 9 chỗ ngồi
 | GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Bộ điều hành thị trường | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VEII | Đường dây cơ bản trong Trung Quốc điều kiện an toàn của phương tiện và dòng thời gian/xem hiện tại |
 | GB 18352.6-2016 với tu chính án XG1-2026 (Trung Quốc 6 ánh sáng-vehictt phóng xạ) | Bộ sinh thái học và Môi trường (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VEII | Chương trình khai thác ánh sáng ở Trung Quốc 6 và 2026 ngày thực hiện sửa đổi |
 
-*BIDidence ghi chú (tự động Bridge tiêu chuẩn): kích thước/ bánh xe base/ khô được VERFEDED trên trang tham số chính thức của Forthing; 1.5T/CNG powertrains là CROSS_CEDDDD; TRONG lề cân nặng là SINGLE_ Thật là kinh khủng. Không phải trong thực tế cơ sở và không để lại cho tờ chính thức; không xác định số lượng phổ thông/RHD. ♪
+*BIDidence ghi chú (tự động Bridge tiêu chuẩn): kích thước/ bánh xe base/ khô được VERFEDED trên trang tham số chính thức của Forthing; 1.5T/CNG powertrains là CROSS_CEDDDD; TRONG lề cân nặng là SINGLE_ Thật là kinh khủng. Không phải trong thực tế cơ sở và không để lại cho tờ chính thức; không xác định số lượng phổ thông/RHD. 
 
 ## Xem lại tập tin
 - **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)

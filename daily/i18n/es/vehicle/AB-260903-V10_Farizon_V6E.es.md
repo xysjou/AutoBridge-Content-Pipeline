@@ -31,7 +31,7 @@ Para una camioneta logística, los compradores deben pesar ** volumen de carga, 
 - Paquete de citas kWh **y** rango **y** ciclo de rango/condición juntos; nunca adjuntar el nuevo número 51 kWh a un VIN base. Confirme la provisión de carga de AC/DC y cobro el tiempo por construcción.
 
 ## Registro de Exportaciones documentados (hecho, no alias)
-China Transporte Noticias (un medio de noticias de la industria) informa que en ** febrero de 2024 se exportó un lote inicial de V6E furgonetas de especificación de la UE a Türkiye**, descrito como la primera entrada de Farizon en ese mercado,  in 6 m³ form. Este es un **Registro de entrega de exportación**: confirma que se envió un edificio europeo estándar,  but it does **not** make the Türkiye EU-spec van identical to the China 35.2/51 kWh builds — treat export configuration separately  and  solicitar su hoja de especificaciones.
+China Transporte Noticias (un medio de noticias de la industria) informa que en ** febrero de 2024 se exportó un lote inicial de V6E furgonetas de especificación de la UE a Türkiye**, descrito como la primera entrada de Farizon en ese mercado,  in 6 m³ form. Este es un **Registro de entrega de exportación**: confirma que se envió un edificio europeo estándar,  pero lo hace **not** make the Türkiye furgoneta de la UE idéntica a la China 35.2/51 kWh builds — treat export configuration separately  and  solicitar su hoja de especificaciones.
 
 ## Qué importadores deben verificar antes de pago
 - Confirme el arreglo de la camioneta de carga eléctrica en el certificado; los datos de referencia chino capturados no lo fijan, así que no se predetermine para la unidad frontal para un chasis de carga.

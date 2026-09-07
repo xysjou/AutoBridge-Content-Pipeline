@@ -4,7 +4,7 @@
 - ** Judul SEO **: China Kendaraan Ekspor Panduan Paket Dokumen - GB T 21085-2020 Standar Saat Ini
 - ** Meta Description **: Buat dokumen ekspor yang disetel dalam sertifikat pabrik GB T 21085-2020 saat ini, bedakan dokumen tersebut dari standar wajib 20260041-Q-339 masih dalam pembangunan, dan perlakukan item NEV translasi sebagai rekomendasi.
 - ** Sugesti URL **: panduan ekspor-kendaraan-dokumentasi-paket
-- ♪ ♪ H1 **: Merakapkan sebuah Mobil Cina Ekspor Paket Dokumen - Apa Yang Saat Ini, Apa Masih Sebuah Draft, Apa Kami Rekomendasikan
+-   H1 **: Merakapkan sebuah Mobil Cina Ekspor Paket Dokumen - Apa Yang Saat Ini, Apa Masih Sebuah Draft, Apa Kami Rekomendasikan
 - ** Primer Keyword **: dokumen ekspor kendaraan paket pabrik GB T21085
 - ** Akhir Pencarian Second *: 机动车出厂合格证, GB T21085-2020 saat ini, draft 20260041-Q-339, sertifikat ekspor konformitas, dokumen ekspor NEV UN38.3
 - ** Internal Link Sugestions **: guide vin-plates -verification -chinese- kendaraan guide ev- shippping-un3556-imdg-compliance/; guide china-export -certicates -of-nation
@@ -83,7 +83,7 @@ Berikut ini ** direkomendasikan ** untuk mempersiapkan; apakah masing-masing dip
 | MIIT GB21085 - XXXX Konsultasi draft (bukan-saat ini) | MIIT | CN | https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20263/0bc57c477169401e840a5a60c06b5d83.pdf | 2026-09-04 | DRAFT (primer) | Draft--only teks multi- stage (diblokir dari wording saat ini) |
 | Aturan kerja kendaraan dan pendaftaran (berkas export- sale) | Xiantao kota gov | CN | https://www.xiantao.gov.cn/ztzl/zcwj1/zc1/202510/t20251029_5800319.shtml | 2026-09-04 | TERBATAI (primer) | Pemeriksaan sertifikat + salinan lisensi |
 | Daftar berkas ekspor kendaraan ke mana saja | NetEase | CN | https://www.163.com/dy/article/KJSNGPO20556820S.html | 2026-09-04 | _ BERDECAT | Set handover, rekomendasi NEV translation |
-* Gerbangnya Draft: aturan penerbitan multi- tahap dan pengganti wajib adalah DRAFT FUTURE dan dikeluarkan dari pernyataan persyaratan mata-mata; item NEV translasi adalah rekomendasi editorial. ♪
+* Gerbang Draft: aturan penerbitan multi- tahap dan pengganti wajib adalah DRAFT / FUTURE dan dikeluarkan dari pernyataan persyaratan mata-mata; item NEV / terjemahan adalah rekomendasi editorial. ♪
 
 ## Editorial Review
 - ** Penulis **: Tim Editorial Expor AutoBridge

@@ -30,7 +30,7 @@
 - 长度 宽度 高度: **4638 1820 1460 mm**
 - 轮基地:** 2650 mm **
 - 座椅:** 5 **
-这些是4th-gen型机车的中国参考维度. The 5th-generation car is larger (reported 4815 1885 1480 mm, 2755 mm wheelbase) — do not blend the two on a spec line or in marketing material.
+这些是4th-gen型机车的中国参考维度. The 5th-generation car is larger (reported 4815 1885 1480 mm, 2755 mm wheelbase) — 不要把两者混在一线 或营销材料中.
 
 ## 年限模型(保持可见)
 - ** 本页:**4th代,型号年号2024.
@@ -48,7 +48,7 @@
 不公布静态出口价格. 大约69元人民币,900元的中国起始数字是**国内的,时间性强的参考数字——不是FOB/CIF引文**. 与** 目的地国家查询 数量 特里姆和传输 目标港口 信息通则**。
 
 ## 经常被问到的问题
-**Is the 2024 Emgrand the same as the newest Emgrand?** No — the 4th-generation 2024 car  and  新的5th代(中国、  Nov 2025) differ in size, 轮式基座  and  (a) 定价; 确认一个VIN属于哪个代号。
+**是那个 2024 和新恩格伦德一样?** No — the 4th-generation 2024 car  and  新的5th代(中国、  Nov 2025) differ in size, 轮式基座  and  (a) 定价; 确认一个VIN属于哪个代号。
 中文线提供CVT与5-speed手动图;指定顺序上哪个.
 ** 中国6型自动认证车吗? ** 不 ——中国排放审批和目的地类型审批流程不同;确认进口市场所需CoC/核准.
 **1.5L发动机的功率有多大?**93 kW(约127 PS),中国参考页127 N·m;验证精确的修剪.

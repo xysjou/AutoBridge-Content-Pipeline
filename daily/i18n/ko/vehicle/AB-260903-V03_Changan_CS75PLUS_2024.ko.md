@@ -11,7 +11,7 @@
 - **ALT 제안**: "Changan CS75 PLUS 세번째 세대 2024"; " CS75 PLUS 1.5T versus 2.0T 엔진"
 
 ## 구매자 컨텍스트: 4th 세대에서 3rd-Gen 챔피언 분리
-CS75 PLUS는 장안의 핵심 중간 크기 SUV 가족입니다. 이 페이지는 ** 3rd-generation 챔피언 라인, 모델 년 2024 (REFERENCE MARKET: 중국)**. A **4th generation entered the China market from September 2024** with a longer body  and  휠베이스  and  1.5T의 튜닝을 수정했습니다. 두 세대는 overlapping 달에 CS75 PLUS 이름의 밑에 무역했기 때문에, 순서 주는 “CS75 PLUS 2024”가 주위 이고 - VIN에 대하여 자물쇠 발생, 엔진 및 변속기입니다.
+CS75 PLUS는 Changan의 입니다 코어 중간 크기 SUV 가족. 이 페이지는 ** 3rd-generation 챔피언 라인, 모델 년 2024 (REFERENCE 상표: 중국)**. ** 4th 세대 입력 중국에서 시장 2024 ** 와 더 긴 몸과 축거 개정된 1.5T ღ♥ღ 두 세대가 거래되기 때문에 CS75 PLUS의 밑에 overlapping 달에 있는 이름, 자주 묻는 질문 "CS75 PLUS"만 말한다 2024 "는 주변입니다 — 자물쇠 발생, 엔진 및 기어 박스 VIN년
 
 ## 파워 트레인: 1.5T 대 2.0T (ICE 초점)
 | 제품 정보 | 1.5T (JL473ZQ7의 파랗고와) | 2.0T (JL486ZQ5) |

@@ -32,7 +32,7 @@ As regras de exportação de veículos da China estão agora ancoradas em docume
 - A lista de empresas ** 2026 qualificadas** foi publicada em 30 de dezembro de 2025; uma nota separada de quatro ministérios (nov 2025) reforça a gestão de exportação de carros usados**, exigindo campos de licença de exportação (marca, modelo, registro e data de transferência para exportação) para corresponder ao certificado de registro de veículos.
 Diligenciamento específico do CV:
 - Prefere um revendedor autorizado **tier- 1 ou a fábrica**; verifique anos de negócios, certificações, referências e capacidade (método no guia de venda de fornecedores).
-- Confirmar que o exportador está na lista **ano corrente** qualificado  and  holds the correct export licence for the category (new-energy passenger licensing is new for 2026).
+- Confirmar que o exportador está na lista actualmente qualificada e detém a licença de exportação correcta para a categoria (o licenciamento de passageiros de nova energia é novo para 2026).
 - ** Os caminhões novos** precisam de autorização OEM; ** os caminhões usados** devem atender às atuais condições de exportação de carros usados (incluindo as regras de consistência registro-certificado) e inspeção de terceiros.
 - Para FAW/Sinotruk/Shacman/Foton/Dongfeng, verificar a rede de serviços/partes de reposição autorizadas ** no destino – um camião barato sem peças locais é uma responsabilidade da frota.
 ## Passo 5 — Montar a cadeia de documentos de exportação

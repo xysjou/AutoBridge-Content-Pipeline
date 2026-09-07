@@ -25,7 +25,7 @@ El camino que estás encendiendo es decidido por **cómo la unidad realmente se 
 2. **SDS/MSDS (GHS)** identificando la entrada de la ONU incorrecta (UN3556 para un vehículo de iones de litio), la Clase 9 y el calendario EmS** — actualiza cualquier documento antiguo que todavía nombra UN3171.
 3. ** Formas de declaración de bienes peligrosos y de reserva de transportistas** completadas al estándar ** 42-24 ** (requierido en la ruta SP962).
 4. **Batería de aislamiento contra la decisión suelta/batería de la basura.** Las baterías de litio sueltas y de repuesto se mueven bajo ** UN3480/UN3481 **, no UN3556, y necesitan su propia ruta de embalaje/documento (incluyendo un certificado de embalaje de bienes peligrosos cuando sea aplicable). El alivio de todo el vehículo nunca cubre los repuestos empaquetados.
-5. ** Unidades dañadas/defectivas o recordadas** son un caso separado: requieren aprobación de **explicit transportista**, a menudo no puede moverse en términos ordinarios,  and  must never be relabelled as a normal UN3556 shipment.
+5. ** Unidades dañadas/defectivas o recordadas** son un caso separado: requieren un portador **explicit aprobación**, a menudo no puede seguir adelante términos ordinarios, y nunca debe ser relabelled as a normal UN3556 envío.
 ## Versión y puntualidad (establecer estos en cada archivo)
 - ** Modificación actual:** OIMD ** 42-24 (2024 Edition), obligatoria a partir de 2026-01-01 **; indicar la enmienda en la reserva en lugar de asumir la plantilla antigua de un transportista.
 - ** Revisión UN38.3:** confirma la revisión de su línea y destino acepta (siempre que sea sensible al tiempo).

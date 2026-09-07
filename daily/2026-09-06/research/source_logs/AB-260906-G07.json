@@ -1,192 +1,203 @@
 {
-  "article_id": "AB-260906-G07",
-  "content_type": "PROCUREMENT_GUIDE",
-  "checked_date": "2026-09-06",
-  "source_log_version": "SL-v1-20260906",
-  "sources": [
-    {
-      "source_title": "KEBS官网（进口须符合肯尼亚标准、装船前符合性验证PVOC与进口标准化标志ISM等制度存在性）",
-      "organization": "Kenya Bureau of Standards",
-      "url": "https://www.kebs.org/",
-      "domain": "www.kebs.org",
-      "source_tier": "T1",
-      "source_type": "standards_body",
-      "source_market": "KE",
-      "source_scope": "肯尼亚标准与合格评定",
-      "facts_supported": [
-        "PVOC",
-        "进口标准化标志",
-        "标准符合性"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "VERIFIED",
-      "official_source": "YES"
-    },
-    {
-      "source_title": "KRA官网（海关税收征管机构身份；具体进口税页未取到稳定子页）",
-      "organization": "Kenya Revenue Authority",
-      "url": "https://www.kra.go.ke/",
-      "domain": "www.kra.go.ke",
-      "source_tier": "T1",
-      "source_type": "tax_authority",
-      "source_market": "KE",
-      "source_scope": "肯尼亚海关税务",
-      "facts_supported": [
-        "海关税务机构身份"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "VERIFIED",
-      "official_source": "YES"
-    },
-    {
-      "source_title": "KRA对二手机动车启用新CRSP现行零售价表（2025-07-01，T4仅线索，须KRA官方核）",
-      "organization": "顺企网(T4)",
-      "url": "https://m.11467.com/product/d40233025.htm",
-      "domain": "m.11467.com",
-      "source_tier": "T4",
-      "source_type": "seo_b2b",
-      "source_market": "KE",
-      "source_scope": "",
-      "facts_supported": [
-        "CRSP估值线索"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "UNVERIFIED",
-      "official_source": "NO"
-    },
-    {
-      "source_title": "'肯尼亚只进口车龄8年内二手车'（人民网/头条媒体口径，非KEBS/KRA一手）",
-      "organization": "今日头条(媒体镜像)",
-      "url": "http://m.toutiao.com/group/6906281676268110344/",
-      "domain": "m.toutiao.com",
-      "source_tier": "T3",
-      "source_type": "news",
-      "source_market": "KE",
-      "source_scope": "",
-      "facts_supported": [
-        "8年车龄线索"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "UNVERIFIED",
-      "official_source": "NO"
-    },
-    {
-      "source_title": "Motor Vehicle Importation (knowledge base)",
-      "organization": "Kenya Revenue Authority",
-      "parent_organization": "KRA",
-      "url": "https://www.kra.go.ke/component/knowledge_base/category/6",
-      "domain": "www.kra.go.ke",
-      "source_tier": "T1",
-      "source_type": "government",
-      "source_market": "KE",
-      "source_scope": "duty components vary by HS; taxes time-sensitive, confirm current rates",
-      "facts_supported": [
-        "kebs_qis"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "VERIFIED",
-      "official_source": "YES",
-      "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH"
-    },
-    {
-      "source_title": "Procedures for Motor Vehicle Importation",
-      "organization": "Kenya Revenue Authority",
-      "parent_organization": "KRA",
-      "url": "https://www.kra.go.ke/individual/importing/learn-about-importation/procedures-for-motor-vehicle",
-      "domain": "www.kra.go.ke",
-      "source_tier": "T1",
-      "source_type": "government",
-      "source_market": "KE",
-      "source_scope": "import procedure and tax categories; rolling manufacture-year rule published by KRA",
-      "facts_supported": [
-        "kebs_qis"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "TIME_SENSITIVE",
-      "official_source": "YES",
-      "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH"
-    },
-    {
-      "source_title": "PVoC Programme Operations Manual v14 (9 Nov 2025)",
-      "organization": "Kenya Bureau of Standards",
-      "parent_organization": "KEBS",
-      "url": "https://kebs.org/wp-content/uploads/2026/01/PVoC-Manual-v14-Editing-12112025.pdf",
-      "domain": "kebs.org",
-      "source_tier": "T1",
-      "source_type": "government_standard",
-      "source_market": "KE",
-      "source_scope": "motor vehicle/mobile equipment PVoC and appointed inspection agents",
-      "facts_supported": [
-        "kebs_qis"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "VERIFIED",
-      "official_source": "YES",
-      "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH"
-    },
-    {
-      "source_title": "Import Standardization Mark Guidelines",
-      "organization": "Kenya Bureau of Standards",
-      "parent_organization": "KEBS",
-      "url": "https://www.kebs.org/wp-content/uploads/2023/09/IMPORT_STANDARDIZATION_MARK_GUIDELINES.pdf",
-      "domain": "www.kebs.org",
-      "source_tier": "T1",
-      "source_type": "government_standard",
-      "source_market": "KE",
-      "source_scope": "ISM issuance for PVoC-licensed/regulated imports",
-      "facts_supported": [
-        "kebs_qis"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "VERIFIED",
-      "official_source": "YES",
-      "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH"
-    },
-    {
-      "source_title": "PVoC Programme Operations Manual (InfoTrade Kenya portal)",
-      "organization": "InfoTrade Kenya (government trade portal)",
-      "parent_organization": "INFOTRADE_KE",
-      "url": "https://infotradekenya.go.ke/media/PVOC_MANUAL_v10_2020_08_21.pdf",
-      "domain": "infotradekenya.go.ke",
-      "source_tier": "T1",
-      "source_type": "government",
-      "source_market": "KE",
-      "source_scope": "used vehicles assessed under KS standards; confirm current version",
-      "facts_supported": [
-        "kebs_qis"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "CROSS_CHECKED",
-      "official_source": "YES",
-      "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH"
-    },
-    {
-      "source_title": "Kenya Trade Network Agency (KenTrade) official",
-      "organization": "Kenya Trade Network Agency",
-      "parent_organization": "KENTRADE",
-      "url": "https://www.kentrade.go.ke/",
-      "domain": "www.kentrade.go.ke",
-      "source_tier": "T1",
-      "source_type": "government",
-      "source_market": "KE",
-      "source_scope": "national single-window trade facilitation body",
-      "facts_supported": [
-        "kebs_qis"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "CROSS_CHECKED",
-      "official_source": "YES",
-      "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH"
-    }
-  ],
-  "source_integrity_note": "目的国指南只采用主管机构官方域(itac/sars/nrcs/kra/kebs/customs.gov.ng/son)作T1并按真实SOURCE_MARKET标注；媒体/T4仅作背景或线索并显式降级，未冒充官方。",
-  "source_url_count": 10,
-  "source_org_count_normalized": 8,
-  "controlled_research_patch": {
-    "applied_by": "Writing AI",
-    "date": "2026-09-06",
-    "added_count": 6,
-    "final_url_count": 10,
-    "final_org_count_normalized": 8
+ "article_id": "AB-260906-G07",
+ "content_type": "PROCUREMENT_GUIDE",
+ "checked_date": "2026-09-06",
+ "source_log_version": "SL-v1-20260906",
+ "sources": [
+  {
+   "source_title": "KEBS官网（进口须符合肯尼亚标准、装船前符合性验证PVOC与进口标准化标志ISM等制度存在性）",
+   "organization": "Kenya Bureau of Standards",
+   "url": "https://www.kebs.org/",
+   "domain": "www.kebs.org",
+   "source_tier": "T1",
+   "source_type": "standards_body",
+   "source_market": "KE",
+   "source_scope": "肯尼亚标准与合格评定",
+   "facts_supported": [
+    "PVOC",
+    "进口标准化标志",
+    "标准符合性"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": true,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "KRA官网（海关税收征管机构身份；具体进口税页未取到稳定子页）",
+   "organization": "Kenya Revenue Authority",
+   "url": "https://www.kra.go.ke/",
+   "domain": "www.kra.go.ke",
+   "source_tier": "T1",
+   "source_type": "tax_authority",
+   "source_market": "KE",
+   "source_scope": "肯尼亚海关税务",
+   "facts_supported": [
+    "海关税务机构身份"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": true,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "KRA对二手机动车启用新CRSP现行零售价表（2025-07-01，T4仅线索，须KRA官方核）",
+   "organization": "顺企网(T4)",
+   "url": "https://m.11467.com/product/d40233025.htm",
+   "domain": "m.11467.com",
+   "source_tier": "T4",
+   "source_type": "seo_b2b",
+   "source_market": "KE",
+   "source_scope": "",
+   "facts_supported": [
+    "CRSP估值线索"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "UNVERIFIED",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "'肯尼亚只进口车龄8年内二手车'（人民网/头条媒体口径，非KEBS/KRA一手）",
+   "organization": "今日头条(媒体镜像)",
+   "url": "http://m.toutiao.com/group/6906281676268110344/",
+   "domain": "m.toutiao.com",
+   "source_tier": "T3",
+   "source_type": "news",
+   "source_market": "KE",
+   "source_scope": "",
+   "facts_supported": [
+    "8年车龄线索"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "UNVERIFIED",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "Motor Vehicle Importation (knowledge base)",
+   "organization": "Kenya Revenue Authority",
+   "parent_organization": "KRA",
+   "url": "https://www.kra.go.ke/component/knowledge_base/category/6",
+   "domain": "www.kra.go.ke",
+   "source_tier": "T1",
+   "source_type": "government",
+   "source_market": "KE",
+   "source_scope": "duty components vary by HS; taxes time-sensitive, confirm current rates",
+   "facts_supported": [
+    "kebs_qis"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": true,
+   "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH",
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "Procedures for Motor Vehicle Importation",
+   "organization": "Kenya Revenue Authority",
+   "parent_organization": "KRA",
+   "url": "https://www.kra.go.ke/individual/importing/learn-about-importation/procedures-for-motor-vehicle",
+   "domain": "www.kra.go.ke",
+   "source_tier": "T1",
+   "source_type": "government",
+   "source_market": "KE",
+   "source_scope": "import procedure and tax categories; rolling manufacture-year rule published by KRA",
+   "facts_supported": [
+    "kebs_qis"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "TIME_SENSITIVE",
+   "official_source": true,
+   "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH",
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "PVoC Programme Operations Manual v14 (9 Nov 2025)",
+   "organization": "Kenya Bureau of Standards",
+   "parent_organization": "KEBS",
+   "url": "https://kebs.org/wp-content/uploads/2026/01/PVoC-Manual-v14-Editing-12112025.pdf",
+   "domain": "kebs.org",
+   "source_tier": "T1",
+   "source_type": "government_standard",
+   "source_market": "KE",
+   "source_scope": "motor vehicle/mobile equipment PVoC and appointed inspection agents",
+   "facts_supported": [
+    "kebs_qis"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": true,
+   "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH",
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "Import Standardization Mark Guidelines",
+   "organization": "Kenya Bureau of Standards",
+   "parent_organization": "KEBS",
+   "url": "https://www.kebs.org/wp-content/uploads/2023/09/IMPORT_STANDARDIZATION_MARK_GUIDELINES.pdf",
+   "domain": "www.kebs.org",
+   "source_tier": "T1",
+   "source_type": "government_standard",
+   "source_market": "KE",
+   "source_scope": "ISM issuance for PVoC-licensed/regulated imports",
+   "facts_supported": [
+    "kebs_qis"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": true,
+   "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH",
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "PVoC Programme Operations Manual (InfoTrade Kenya portal)",
+   "organization": "InfoTrade Kenya (government trade portal)",
+   "parent_organization": "INFOTRADE_KE",
+   "url": "https://infotradekenya.go.ke/media/PVOC_MANUAL_v10_2020_08_21.pdf",
+   "domain": "infotradekenya.go.ke",
+   "source_tier": "T1",
+   "source_type": "government",
+   "source_market": "KE",
+   "source_scope": "used vehicles assessed under KS standards; confirm current version",
+   "facts_supported": [
+    "kebs_qis"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "CROSS_CHECKED",
+   "official_source": true,
+   "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH",
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "Kenya Trade Network Agency (KenTrade) official",
+   "organization": "Kenya Trade Network Agency",
+   "parent_organization": "KENTRADE",
+   "url": "https://www.kentrade.go.ke/",
+   "domain": "www.kentrade.go.ke",
+   "source_tier": "T1",
+   "source_type": "government",
+   "source_market": "KE",
+   "source_scope": "national single-window trade facilitation body",
+   "facts_supported": [
+    "kebs_qis"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "CROSS_CHECKED",
+   "official_source": true,
+   "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH",
+   "scope_match": "MATCHED"
   }
+ ],
+ "source_integrity_note": "目的国指南只采用主管机构官方域(itac/sars/nrcs/kra/kebs/customs.gov.ng/son)作T1并按真实SOURCE_MARKET标注；媒体/T4仅作背景或线索并显式降级，未冒充官方。",
+ "source_url_count": 10,
+ "source_org_count_normalized": 8,
+ "controlled_research_patch": {
+  "applied_by": "Writing AI",
+  "date": "2026-09-06",
+  "added_count": 6,
+  "final_url_count": 10,
+  "final_org_count_normalized": 8
+ },
+ "t1_only_recomputed_on": "2026-09-07"
 }

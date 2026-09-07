@@ -12,7 +12,7 @@
 - **ALT Suggestion**: grue de camion XCMG QY25K5C-class avec sa flèche télescopique levée sur un chantier extérieur
 - **Schema Scope**: Article + Vehicle
 
-Une grue de camion comme le XCMG QY25K5C est un véhicule à usage spécial** combinant un camion-transporteur (chassis) routier avec une superstructure de levage tournante. L'approvisionnement est différent de l'achat d'un camion: les documents décisifs sont le tableau de charge OEM, la configuration de la flèche et la division entre les approbations de transporteur et de grue. Cette page identifie le QY25K5C comme la machine 25-tonne-class de XCMG  and  explains what must be obtained from official XCMG material — it deliberately does not borrow specifications from older QY25E/QY25K-II models.**
+Une grue de camion telle comme le XCMG QY25K5C est un véhicule à usage spécial** combinant un camion routier porteur (chassis) avec superstructure de levage tournante. L'approvisionnement est différent acheter un camion: les documents décisifs sont le diagramme de charge OEM, la configuration de boom et la répartition entre les transporteurs et l'agrément des grues. Cette page identifie QY25K5C comme 25-tonne-class de XCMG machine et explique quoi doit être obtenu auprès de matériel officiel XCMG — délibérément ne emprunter les spécifications de l'ancien QY25E/QY25K-II modèles.
 
 ## Identité et classification réglementaire
 

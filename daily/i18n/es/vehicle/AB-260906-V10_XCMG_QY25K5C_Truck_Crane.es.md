@@ -12,7 +12,7 @@
 - **ALT Sugerencia**: grúa de camión XCMG QY25K5C-class con su boom telescópico elevado en un sitio de trabajo al aire libre
 - **Schema Scope**: Article + Vehicle
 
-Una grúa de camión como el XCMG QY25K5C es un vehículo ** de uso especial** que combina un camión de transporte por carretera (chassis) con una superestructura de elevación rotativa. El amarrando uno es diferente comprar un camión: los documentos decisivos son la tabla de carga OEM, la configuración de boom y la división entre el transportista y las aprobaciones de grúa. Esta página identifica el QY25K5C como máquina de XCMG 25-tonne-class  and  explains what must be obtained from official XCMG material — it deliberately does not borrow specifications from older QY25E/QY25K-II models.
+Una grúa de camión así como XCMG QY25K5C es un vehículo con fines especiales** combinando un camión de carretera transportista (chassis) con un superestructura de elevación giratoria. Sourcing uno es diferente comprar un camión: los documentos decisivos el gráfico de carga OEM, la configuración de boom y la división entre portador y aprobaciones de grúa. Esta página identifica el QY25K5C como 25-tonne-class de XCMG máquina y explica qué debe obtenerse material oficial de XCMG deliberadamente no especificaciones de préstamo de más edad QY25E/QY25K-II modelos.
 
 ## Identidad y clasificación reglamentaria
 

@@ -28,7 +28,7 @@ Geely Preface(中文名:Xingrui)是Geely公司在CMA(Compact Modular Architectur
 | 2.0T(老校准) | 175 kW (238 PS) 350 N·m, 8-speed自动, WLTC 合并 + 7.15 L 100km | · 年长/银川时代2.0T年 单源 | 资源 |
 | 2.0T(更新校准) | 200 kW/400 N·m (中文(简体)). 爱森8AT,  claimed 0–100 km/h ≈6.5 s | CHINA · 2025 Dongfangyao 2.0T · single-source, 确认 | 资源 |
 
-这两项2.0T项产出不是通过选择一项来解决的数据冲突: 它们属于不同的模型年校准。 一种没有年份和精确的修饰的“a Preface 2.0T”的导出引文是模糊的。 Geely's regional Middle-East materials show a separate export-market Preface powertrain (for example a 2.0TD + 7DCT regional build); 区域建设被指为出口市场参考的示范识别学科  and  is **not** treated as identical to the Chinese 175/200 kW trims without OEM confirmation.
+这两项2.0T项产出不是通过选择一项来解决的数据冲突: 它们属于不同的模型年校准。 一种没有年份和精确的修饰的“a Preface 2.0T”的导出引文是模糊的。 Geely's regional Middle-East materials show a separate export-market Preface powertrain (举例来说,a 2.0TD + 7DCT regional build); 区域建设被指为出口市场参考的示范识别学科  已经 **not** 与中国人一样 175/200 kW trims without OEM confirmation.
 
 ## 底盘、座位和设备信号
 

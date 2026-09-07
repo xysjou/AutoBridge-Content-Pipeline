@@ -12,7 +12,7 @@
 - **Esquema Ámbito**: Artículo (sin Producto/Offer/Revisión)
 
 ## Comience desde el modo de transporte, no el hábito
-Incoterms 2020 contains **eleven** rules divided into those for any mode of transport and those traditionally for sea/inland-waterway transport. En la exportación de vehículos la primera opción es, por tanto, si el movimiento es oceánico puerto a puerto (RoRo/container) o multimodal (camino interior/rail más mar, común para el camionaje de Asia Central). Eligiendo un término solo para un movimiento multimodal crea una brecha en donde el riesgo pasa.
+Incoterms 2020 contiene once reglas divididas en aquellas para cualquier modo de transporte y las tradicionales para el transporte marítimo/inland-waterway. Por lo tanto, en la exportación de vehículos la primera opción es si el movimiento es oceánico puerto a puerto (RoRo / contenedor) o multimodal (carretilla interior/carretera más mar, común para el camión de Asia central). Escoger un término solo para un movimiento multimodal crea una brecha en donde el riesgo pasa.
 
 ## Donde el riesgo realmente transfiere
 - **FOB FCA**: bajo FOB (vía de agua del mar/inland) el riesgo pasa cuando se colocan mercancías **en la embarcación**; bajo FCA (cualquier modo) el riesgo pasa cuando las mercancías se entregan al portador del comprador en el lugar designado. Para los movimientos containerizzato y multimodal FCA es el ajuste más limpio porque el riesgo y el control se alinean con la entrega real, en lugar de un momento a bordo que el vendedor no controla.

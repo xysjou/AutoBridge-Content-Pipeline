@@ -66,7 +66,7 @@ Giá cả nhiệm vụ nhập khẩu là bao nhiêu? ****
 
 Nó được đặt trong các tập tin hiện thời của tập tục SARS và Excise (Các chương trình truyền thông) của hệ thống mã và kiểu phương tiện — lấy con số hiện tại; hướng dẫn này không đưa ra tỷ lệ cố định.
 
-** Tôi có thể nhập khẩu một chiếc xe cũ của Trung Quốc không? ♪ ♪**
+Có thể Tôi nhập khẩu một chiếc xe Trung Quốc tự do?
 
 Không, các loại nhập khẩu được dùng trong các hộp được hạn chế và phụ thuộc vào tính khả năng cao của người nhập khẩu và sự chấp thuận của ITAC, cộng với một chiếc xe tải của Bắc Mỹ.
 

@@ -3,7 +3,7 @@
 ## SEO Metadata
 - ** Judul SEO **: Cina Ekspor FX Settlement: Trade- FX Registrasi, Conversion dan Agregate Check
 - ** Meta Description **: Bagaimana seorang eksportir kendaraan Cina menangani penerimaan ekspor: pendaftaran direktori di bank sebelum transaksi pertama, penyelesaian konversi, dan verifikasi agregasi SAFE dari good-flow dibandingkan funds- flow.
-- ♪ ♪ H1 **: Ekspor FX Settlement dan Trade- FX Administrasi untuk Pengekspos Kendaraan
+-   H1 **: Ekspor FX Settlement dan Trade- FX Administrasi untuk Pengekspos Kendaraan
 - ** Primary Keyword **: export fx settingmen trades fx registory
 - ** Akhir Pencarian Second **: ekspor pemukiman FX; pertukaran asing; pendaftaran SAFE; barang aliran dana; platform ASOne
 - ** Sugesti URL **: guide exports-fx-setlement -trade-fx-registory

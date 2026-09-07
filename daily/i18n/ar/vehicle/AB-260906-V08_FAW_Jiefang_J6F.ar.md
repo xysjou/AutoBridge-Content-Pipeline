@@ -12,7 +12,7 @@
 - ** اقتراح**: شاحنة خفيفة من طراز جيفانغ J6F مع جثة بضائع مربعة متوقفة في ساحة اللوجستيات
 - **Schema Scope**: Article + Vehicle
 
-The Jiefang J6F is FAW's cab-over light-duty truck in the Chinese 'blue-plate' N2 segment — gross vehicle weight under 4.5 tonnes, The workhorse of urban distribution. وتتخذ قرارات تصدير شاحنة خفيفة على محرك وجهاز للتجهيزات ورفوف وقود الطائرات وأجهزة الشحن والتشبّع والشحن، وبالتالي، فإن هذه الصفحة تُتبع المنطق التجاري بدلا من وضع مركب. (أ) الهوية (خط نموذجي لمؤسسة " جيفانغ " ، سيارة أجرة تزيد على N2 شاحنة خفيفة) مثبتة لدى المنظمة؛ الجماهير المفصّلة تحتاج إلى ورقة إحياء
+"J6F Jiefang" هو FAW 'سيارة سيارة أجرة فوق العجلات الخفيفة في الجزء الصيني "المزدوج" N2 — الوزن الإجمالي للمركبات أقل من 4.5 طن,The workhorse of urban distribution. وتتخذ قرارات تصدير شاحنة خفيفة على المحركات، وجهاز التروس، والفأس، ورقم GVW/الحمولة، والفوضى، وجسد الشحنات، وبالتالي، فإن هذه الصفحة تتبع منطق المحركات التجارية بدلا من مخطط لسيارات الركاب. The identity (FAW Jiefang model line, cab-over N2 light truck) is OEM - established; the detailed masses require homologation paper.
 
 ## الرتبة والتكوين
 

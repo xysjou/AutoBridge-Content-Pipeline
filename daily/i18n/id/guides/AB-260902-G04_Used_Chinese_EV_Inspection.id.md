@@ -3,7 +3,7 @@
 - ** Judul SEO **: Digunakan Inspeksi EV Cina: Baterai SOH, Banjir & Odometer Cek
 - ** Meta Description **: Cara memeriksa EV Cina yang digunakan sebelum ekspor - apa SOH sebenarnya berarti di bawah standar baterai, tes medis, pembacaan keseimbangan sel, pencitraan kecelakaan banjir dan odometer-siklus pemeriksaan, tanpa batas hukum ditemukan.
 - ** Sugested URL **: guide used-chinese- even- inspeksi
-- ♪ ♪ H1 **: Mencurigai EV Cina Digunakan Sebelum Ekspor: Apa Nomor Baterai Artinya dan Apa yang harus Tolak
+-   H1 **: Mencurigai EV Cina Digunakan Sebelum Ekspor: Apa Nomor Baterai Artinya dan Apa yang harus Tolak
 - ** Primary Keyword **: menggunakan baterai inspeksi EV Cina SOH checklist
 - ** Akhir Pencarian Second **: EV baterai standar QC T 743, GB T siklus kehidupan, menggunakan EV tegangan sel ketidakseimbangan, EV banjir kerusakan inspeksi, odometer rollback siklus baterai menghitung 31484
 - ** Internal Link Sugestions **: guide verify-chino- charports-exports guide chinese- v- charging-compatibility guiders important -chinese- ever- ke -russia- eactc
@@ -95,7 +95,7 @@ Mengapa kerusakan banjir terutama berbahaya dalam EV? Hal ini dapat menurunkan p
 | 懂车帝 二手电车三招排除事故 泡水 调表 | 懂车帝: 视频 | CN | https://www.iesdouyin.com/share/video/7678314679869430004 | 2026-09-02 | SINGLE _ SOURCE | 事故/泡水/调表排查方法、电池包护板拆装痕迹 |
 | Jingsuncar - 2026 二手新能源出口指南 | Jingsuncar 行业站 | CN | https://www.jingsuncar.com/news/2026-must-see-guide-for-buying-used-new-energy-85493284.html | 2026-09-02 | SINGLE _ SOURCE | 出口 SOH SAH 80% 认证门槛 ASAEU 东盟 |
 
-* Catatan keyakinan: apa standar baterai mendefinisikan (pengukuran SOH, pengujian sepeda, konvensi rekayasa 80%) adalah VERIFIED CROSS _ CHECWD terhadap badan standar. Ucapan "SOH 80%" sebelumnya diperlukan untuk menghapus sertifikasi Uni ASEAN "yang sebelumnya tidak memiliki sumber resmi dan telah dihapus: tidak ada batas impor SOH legal universal ada, dan aturan tujuan otoritas harus diperoleh setiap negara. Video pemeriksaan-metode hanya digunakan sebagai referensi metode. ♪
+* Konfidence mencatat: apa standar baterai mendefinisikan (pengukuran SOH, pengujian sepeda, konvensi rekayasa 80%) adalah VERIFIED / CROSS _ CHECLED terhadap badan standar. Klaim sebelumnya "SOH 80% dibutuhkan untuk membersihkan sertifikasi Uni / ASEAN" tidak memiliki sumber resmi dan telah dihapus: tidak ada batas impor SOH legal universal ada, dan aturan tujuan otoritas harus diperoleh setiap negara. Pemeriksaan-metode video hanya digunakan sebagai referensi metode. ♪
 ## Editorial Review
 - *** Penulis Penilik **: [AutoBridge Ekspor Editorial Tim] penulis
 - ** Terakhir ditinjau **: 2026-09-05

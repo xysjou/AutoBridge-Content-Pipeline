@@ -25,7 +25,7 @@ Nos termos da Lei de Inspecção de Mercadorias de Importação e Exportação* 
 5. As alterações de processo ocorrem por aviso GACC (por exemplo, o aviso no 138 de 2025 que optimiza a *inspecção de pré-declaração/aplicação de quarentena*, que exclui questões de licenciamento administrativo) — citam o número e a data do aviso.
 
 ## Declaração: Documentos e Quem Assina
-Per **GACC Order No.277 (Provisions on the Declaration of Import  and  Produtos à exportação)**, as mercadorias de exportação que exigem inspecção/quarentena transportam os documentos de acompanhamento ** exigidos,  and  uma declaração feita em seu próprio nome é **marcada/assinada pelo expedidor ou destinatário**, Que tem a responsabilidade de declarar.
+Por ** GACC N.o de ordem 277 (Disposições relativas à declaração Importação e exportação Mercadorias)**, exportação de mercadorias que exigem inspecção/quarentena levar o ** necessário para acompanhar documentos**, e uma declaração feita em seu próprio nome é **marcado/assinado pelo expedidor ou destinatário**, que é responsável pela declaração.
 
 ## Três Regimes Paralelos — Mantenha - os Apartados
 | Regime | Ativador | Substitui os outros? |
@@ -42,7 +42,7 @@ Um PSI designado pelo comprador é um controlo comercial, não uma autorização
 
 ## Perguntas Mais Frequentes
 ** Todos os carros exportados precisam de inspeção legal?** Não existe uma regra geral — fixar o código SH de dez algarismos e verificar o catálogo actual e a sua condição de controlo das exportações para esse código.
-**What if the code is not in the catalogue?** It is handled under random inspection (the 2024 No.163 out-of-catalogue export scope lists only children's toys), não inspecção legal automática, que proíbe outro requisito legal.
+** E se o código não está na catálogo?** É manuseado sob inspecção aleatória (o 2024 N.o 163 exportação fora do catálogo escopo lista apenas crianças brinquedos), inspecção legal não automática, que proíbe outro requisito legal.
 **O PSI do comprador substitui a inspeção legal? ** Não; são obrigações separadas.
 ** A licença de exportação BEV é a mesma que a inspeção? ** Não — dos 2026-01-01 automóveis de passageiros eléctricos a bateria estão sujeitos a uma administração de licenças de exportação, um regime paralelo à inspecção legal.
 

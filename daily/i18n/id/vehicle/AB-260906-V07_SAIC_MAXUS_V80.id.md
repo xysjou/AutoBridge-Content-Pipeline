@@ -64,7 +64,7 @@ Roughly 4950/5490/5700 mm with 3100/3640/3850 mm wheelbases by version (single-s
 
 Payload GVW tidak dikutip di sini - mereka harus datang dari pengumuman MIIT COC untuk chassis spesifik.
 
-** Apakah itu right- hand drive? ♪ ♪**
+Apakah benar-hand drive?
 
 Pasar Cinese- V80 adalah LHD; sebuah bangunan RHD atau ekspor memerlukan bukti OEM terpisah.
 

@@ -50,7 +50,7 @@ Para um PHEV o exportador fixa **motor, motor, bateria e carregamento** juntos. 
 Nenhum preço de exportação é publicado. A gama de guias chinês 2024 (cerca de RMB 129,900–169,900) é uma referência **doméstica, sensível ao tempo, não FOB/CIF**. Informe-se com **Destino País · Quantidade · Bateria/Seat Trim · LHD/RHD · Porto de Destino · Incoterm**.
 
 ## Perguntas Mais Frequentes
-** O Fulwin T9 é o mesmo que o T9L Não; o T9L é um veículo de base mais longa (cerca de 4870 mm/2920 mm)  and  is excluded from this standard-T9 sheet.
+** O Fulwin T9 é o mesmo que o T9L Não; o T9L é um veículo de base mais longa (cerca de 4870 mm/2920 mm)  e está excluído desta norma-T9 sheet.
 ** Que bateria a longa gama T9 usa?** Um pacote de 32.66 kWh para as versões documentadas de longo alcance,  with 120–220 km CLTC electric range depending on trim.
 ** A gama de 1400 km é medida? É uma figura combinada WLTC, reivindicada pelo fabricante, apresentando-a como uma alegação de fábrica, não como um resultado de teste.
 ** Cinco ou sete lugares?** Ambos são oferecidos; especifique na ordem e corresponda ao VIN.

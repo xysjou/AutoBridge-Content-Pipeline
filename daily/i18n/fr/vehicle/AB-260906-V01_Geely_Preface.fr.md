@@ -28,7 +28,7 @@ La préface Geely (nom chinois Xingrui) est la berline compacte/mi-dimensionnell
 | 2.0T (étalonnage plus ancien) | 175 kW (238 PS) 350 N·m, 8-speed automatique, WLTC combiné - 7.15 L 100km | CHINE · ancienne/Jinchao-ère 2.0T · source unique | SOURCE UNIQUE |
 | 2.0T (étalonnage plus récent) | 200 kW 400 N·m, Aisin 8AT,  claimed 0–100 km/h ≈6.5 s | CHINE · 2025 Dongfangyao 2.0T · source unique, confirmer | SOURCE UNIQUE |
 
-Les deux sorties 2.0T ne sont pas un conflit de données à résoudre en choisissant un: Ils appartiennent à différents calibrages de l'année modèle. Une citation d'exportation qui nomme 'a Préface 2.0T ' sans l'année et la taille exacte est ambiguë. Les matériaux régionaux du Moyen-Orient de Geely présentent une motorisation séparée du marché d'exportation Préface (par exemple, une construction régionale 2.0TD + 7DCT); dans la discipline de l'identité modèle que la construction régionale est citée comme une référence du marché d'exportation  and  is **not** treated as identical to the Chinese 175/200 kW trims without OEM confirmation.
+Les deux sorties 2.0T ne sont pas un conflit de données à résoudre en choisissant un: Ils appartiennent à différents calibrages de l'année modèle. Une citation d'exportation qui nomme 'a Préface 2.0T ' sans l'année et la taille exacte est ambiguë. Les matériaux régionaux du Moyen-Orient de Geely présentent une motorisation séparée du marché d'exportation Préface (par exemple, une construction régionale 2.0TD + 7DCT); dans la discipline de l'identité modèle que la construction régionale est citée comme une référence du marché d'l'exportation et **not** traités comme identiques aux Chinois 175/200 kW trims without OEM confirmation.
 
 ## Signalisation des sièges, des sièges et de l'équipement
 

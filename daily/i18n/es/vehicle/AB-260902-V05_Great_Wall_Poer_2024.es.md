@@ -43,7 +43,7 @@ Listado de recogida borrosa años y mercados modelo, por lo que los compradores 
 No se publica precio de exportación estático; China RMB referencias son **doméstico y sensible al tiempo, no FOB/CIF**. Consulta con **Destinación País · Cantidad · Versión · Código del motor · Transmisión · 4 × 2/4 × 4 · LHD/RHD · Duración del alojamiento · Puerto del destino · Incoterm**.
 ## Preguntas frecuentes
 ¿Petrol o diesel Poer? Gasolina GW4C20B para uso más ligero/vía; el diesel 2.4 GW4D24 hace 480 N·m para carga y remolque - elegir por misión.
-** 8AT o 9AT El coche de pasajeros de China 2024 utilizó un ZF 8AT; current GWM builds use a 9AT with the 2.4 diesel. Confirme la transmisión en el VIN exacto/año.
+* 8AT ó 9AT* El 2024 China coche de pasajeros usó un ZF 8AT; actual GWM construye uso a 9AT con el 2.4 diesel. Confirme la transmisión exactamente VIN /año.
 ¿Cuál es la base de ruedas? 3230 mm cama estándar de pasajeros; 3470 mm cama comercial larga.
 **¿Cuál es la carga útil?** No se dice aquí porque estaba ausente de la base de hechos verificada; tómala de la hoja oficial de la versión exacta.
 **¿Está disponible en RHD?** GWM vende Poer/Ute en ambos diseños en muchos mercados — confirma el motor/versión específico en RHD para su país.

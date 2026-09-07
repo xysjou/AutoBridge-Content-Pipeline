@@ -3,7 +3,7 @@
 ## SEO Metadata
 - ** SeO Judul **: Geely Xingyuan (Galaxy Xingyuan) BEV: Petunjuk & Ekspor Pasar
 - ** Meta Description **: Chinese- pasar Geely Xingyuan Starwish EV kecil: Arsitektur GEA, RWD,  58/85 kW motors,  310/410 km CLTC, Baris 40.16 kWh  and  Cek ekspor pembeli.
-- ♪ ♪ H1 **: Geely Xingyuan Galaxy Xingyuan (2025/2026) - Chinese- Market BeV Specs dan Ekspor Verifikasi
+-   H1 **: Geely Xingyuan Galaxy Xingyuan (2025/2026) - Chinese- Market BeV Specs dan Ekspor Verifikasi
 - ** Primary Keyword **: Geely 吉利 Xingyuan 吉利星愿 Abolar 星愿 Sportics export
 - ** Akhir Pencarian Second **: Ekpor Geely Xingyuan; spesifikasi Galaxy Xingyuan; Geely Starwish; hatchback listrik kecil Cina; EV Kota CLTC
 - ** Sugested URL **: kendaraan geely-xingyuan

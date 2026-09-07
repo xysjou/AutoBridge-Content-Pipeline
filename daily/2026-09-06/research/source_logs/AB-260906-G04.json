@@ -1,123 +1,130 @@
 {
-  "article_id": "AB-260906-G04",
-  "content_type": "PROCUREMENT_GUIDE",
-  "checked_date": "2026-09-06",
-  "source_log_version": "SL-v1-20260906",
-  "sources": [
-    {
-      "source_title": "温州首条汽车滚装航线开通、直达东南亚（2026-09-06，港口滚装航线现实运行佐证）",
-      "organization": "中国网",
-      "url": "http://news.china.com.cn/2026-09/06/content_119777233.htm",
-      "domain": "news.china.com.cn",
-      "source_tier": "T3",
-      "source_type": "news",
-      "source_market": "CN",
-      "source_scope": "",
-      "facts_supported": [
-        "滚装航线",
-        "中国港口发运"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "CROSS_CHECKED",
-      "official_source": "NO"
-    },
-    {
-      "source_title": "中国港口协会汽车滚装分会行业背景（行业组织）",
-      "organization": "中国港口协会",
-      "url": "http://www.port.org.cn/",
-      "domain": "www.port.org.cn",
-      "source_tier": "T2",
-      "source_type": "industry_association",
-      "source_market": "CN",
-      "source_scope": "",
-      "facts_supported": [
-        "滚装码头行业背景"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "SINGLE_SOURCE",
-      "official_source": "NO"
-    },
-    {
-      "source_title": "商品车多式联运滚装操作规程 JT/T 1194—2018",
-      "organization": "交通运输部（行业标准文本）",
-      "parent_organization": "MOT",
-      "url": "http://120.79.24.31/data/doc/202101/31/16120905530888.pdf",
-      "domain": "120.79.24.31",
-      "source_tier": "T1",
-      "source_type": "industry_standard",
-      "source_market": "CN",
-      "source_scope": "RoRo lashing/handover operating procedure standard; operational values confirm with carrier",
-      "facts_supported": [
-        "roro_method"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "VERIFIED",
-      "official_source": "YES",
-      "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH"
-    },
-    {
-      "source_title": "港口货物作业规则（交通部令2000年第10号）",
-      "organization": "中国政府网/交通运输部",
-      "parent_organization": "MOT",
-      "url": "https://www.gov.cn/gongbao/content/2001/content_60820.htm",
-      "domain": "www.gov.cn",
-      "source_tier": "T1",
-      "source_type": "government_regulation",
-      "source_market": "CN",
-      "source_scope": "cargo receipt/handover and cargo-record liability at terminal",
-      "facts_supported": [
-        "roro_method"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "VERIFIED",
-      "official_source": "YES",
-      "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH"
-    },
-    {
-      "source_title": "COSCO Shipping Specialized Carriers (official)",
-      "organization": "中远海运特种运输股份有限公司",
-      "parent_organization": "COSCO",
-      "url": "http://www.coscoshipping.com/",
-      "domain": "www.coscoshipping.com",
-      "source_tier": "T1",
-      "source_type": "carrier_official",
-      "source_market": "CN",
-      "source_scope": "carrier; schedules/acceptance per voyage, confirm before booking",
-      "facts_supported": [
-        "roro_method"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "CROSS_CHECKED",
-      "official_source": "YES",
-      "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH"
-    },
-    {
-      "source_title": "Wallenius Wilhelmsen (official RoRo carrier)",
-      "organization": "Wallenius Wilhelmsen",
-      "parent_organization": "WW",
-      "url": "https://www.walleniuswilhelmsen.com/",
-      "domain": "www.walleniuswilhelmsen.com",
-      "source_tier": "T1",
-      "source_type": "carrier_official",
-      "source_market": "INT",
-      "source_scope": "international RoRo carrier; acceptance terms carrier-specific",
-      "facts_supported": [
-        "roro_method"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "CROSS_CHECKED",
-      "official_source": "YES",
-      "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH"
-    }
-  ],
-  "source_integrity_note": "目的国指南只采用主管机构官方域(itac/sars/nrcs/kra/kebs/customs.gov.ng/son)作T1并按真实SOURCE_MARKET标注；媒体/T4仅作背景或线索并显式降级，未冒充官方。",
-  "source_url_count": 6,
-  "source_org_count_normalized": 5,
-  "controlled_research_patch": {
-    "applied_by": "Writing AI",
-    "date": "2026-09-06",
-    "added_count": 4,
-    "final_url_count": 6,
-    "final_org_count_normalized": 5
+ "article_id": "AB-260906-G04",
+ "content_type": "PROCUREMENT_GUIDE",
+ "checked_date": "2026-09-06",
+ "source_log_version": "SL-v1-20260906",
+ "sources": [
+  {
+   "source_title": "温州首条汽车滚装航线开通、直达东南亚（2026-09-06，港口滚装航线现实运行佐证）",
+   "organization": "中国网",
+   "url": "http://news.china.com.cn/2026-09/06/content_119777233.htm",
+   "domain": "news.china.com.cn",
+   "source_tier": "T3",
+   "source_type": "news",
+   "source_market": "CN",
+   "source_scope": "",
+   "facts_supported": [
+    "滚装航线",
+    "中国港口发运"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "CROSS_CHECKED",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "中国港口协会汽车滚装分会行业背景（行业组织）",
+   "organization": "中国港口协会",
+   "url": "http://www.port.org.cn/",
+   "domain": "www.port.org.cn",
+   "source_tier": "T2",
+   "source_type": "industry_association",
+   "source_market": "CN",
+   "source_scope": "",
+   "facts_supported": [
+    "滚装码头行业背景"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "SINGLE_SOURCE",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "商品车多式联运滚装操作规程 JT/T 1194—2018",
+   "organization": "交通运输部（行业标准文本）",
+   "parent_organization": "MOT",
+   "url": "http://120.79.24.31/data/doc/202101/31/16120905530888.pdf",
+   "domain": "120.79.24.31",
+   "source_tier": "T1",
+   "source_type": "industry_standard",
+   "source_market": "CN",
+   "source_scope": "RoRo lashing/handover operating procedure standard; operational values confirm with carrier",
+   "facts_supported": [
+    "roro_method"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": true,
+   "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH",
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "港口货物作业规则（交通部令2000年第10号）",
+   "organization": "中国政府网/交通运输部",
+   "parent_organization": "MOT",
+   "url": "https://www.gov.cn/gongbao/content/2001/content_60820.htm",
+   "domain": "www.gov.cn",
+   "source_tier": "T1",
+   "source_type": "government_regulation",
+   "source_market": "CN",
+   "source_scope": "cargo receipt/handover and cargo-record liability at terminal",
+   "facts_supported": [
+    "roro_method"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": true,
+   "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH",
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "COSCO Shipping Specialized Carriers (official)",
+   "organization": "中远海运特种运输股份有限公司",
+   "parent_organization": "COSCO",
+   "url": "http://www.coscoshipping.com/",
+   "domain": "www.coscoshipping.com",
+   "source_tier": "T1",
+   "source_type": "carrier_official",
+   "source_market": "CN",
+   "source_scope": "carrier; schedules/acceptance per voyage, confirm before booking",
+   "facts_supported": [
+    "roro_method"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "CROSS_CHECKED",
+   "official_source": true,
+   "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH",
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "Wallenius Wilhelmsen (official RoRo carrier)",
+   "organization": "Wallenius Wilhelmsen",
+   "parent_organization": "WW",
+   "url": "https://www.walleniuswilhelmsen.com/",
+   "domain": "www.walleniuswilhelmsen.com",
+   "source_tier": "T1",
+   "source_type": "carrier_official",
+   "source_market": "INT",
+   "source_scope": "international RoRo carrier; acceptance terms carrier-specific",
+   "facts_supported": [
+    "roro_method"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "CROSS_CHECKED",
+   "official_source": true,
+   "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH",
+   "scope_match": "MATCHED"
   }
+ ],
+ "source_integrity_note": "目的国指南只采用主管机构官方域(itac/sars/nrcs/kra/kebs/customs.gov.ng/son)作T1并按真实SOURCE_MARKET标注；媒体/T4仅作背景或线索并显式降级，未冒充官方。",
+ "source_url_count": 6,
+ "source_org_count_normalized": 5,
+ "controlled_research_patch": {
+  "applied_by": "Writing AI",
+  "date": "2026-09-06",
+  "added_count": 4,
+  "final_url_count": 6,
+  "final_org_count_normalized": 5
+ },
+ "t1_only_recomputed_on": "2026-09-07"
 }

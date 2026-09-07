@@ -4,7 +4,7 @@
 - ** Judul SEO **: Sertifikat Cina dari Asal untuk Eksport Kendaraan - CO Types & Issuers
 - ** Meta Description **: Tiga sertifikat Cina - dari - asal, yang untuk diterapkan, apakah untuk menggunakan Bea Cukai atau CCPIT, ketika sebuah CO preferensial FTA berlaku, dan apa yang eksportir tidak harus menjanjikan tentang tugas tujuan.
 - ** Sugested URL **: guide china-export -certicecate- of -nation
-- ♪ ♪ H1 **: Memilih Sertifikat Hak Asal untuk Ekspor Kendaraan Cina
+-   H1 **: Memilih Sertifikat Hak Asal untuk Ekspor Kendaraan Cina
 - ** Primary Keyword **: porselect sertifikat dari ubean ccpit
 - ** Akhir Pencarian Second **: non-preferensial CO, sertifikat asal GSP, PTA preferensial CO, GACC order 270, asal sertifikat CCPIIT, dokumen ekspor kendaraan
 - ** Internal Link Sugestions **: guide moollect -exports -hs-codefication guiler exportion-expression exportion proclation
@@ -19,7 +19,7 @@ Pengimpor secara rutin meminta untuk "CO" seolah-olah itu adalah satu kertas. Ti
 |---|---|---|
 | ** Tanpa-preferensial CO ** | Perawatan MFN, anti dumping countervailing Safety kasus, asal ditandai, batas kuantitatif, kuota tariff, pengadaan pemerintah, statistik perdagangan | "CO biasa" baku membuktikan asal Cina ketika tidak ada preferensi trade-perjanjian diklaim |
 | ** GSP (sistem preferensi tergeneralisasi) CO ** | Kecenderungan di bawah skema GSP-given negara | Hanya di mana tujuan masih memberikan GSP dan membutuhkan bentuk spesifik |
-| ** Regional preferensial CO (FTA) * ♪ | Tingkat janji preferensial di tujuan | Hanya di mana FTA antara Cina dan tujuan berlaku *** barang memenuhi bahwa perjanjian aturan asal |
+| ** Regional preferensial CO (FTA) *  | Tingkat janji preferensial di tujuan | Hanya di mana FTA antara Cina dan tujuan berlaku *** barang memenuhi bahwa perjanjian aturan asal |
 
 Setiap FTA punya aturan asal sendiri, formulir dan kode ** - sertifikat yang dibuat untuk satu persetujuan tidak dapat digunakan kembali untuk yang lain.
 
@@ -77,7 +77,7 @@ Apa bedanya antara orang biasa dan seorang Komandan FTA? CO biasa membuktikan as
 | Perintah GACC No. 270, Pengukuran Administrasi Ekspor (dalam gaya 2024-09-01) | Administrasi Umum Bea Cukai Cina (PDF resmi) | CN | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6011613/2024073016391092032.pdf | 2026-09-04 | TERBATAI | Rule version, three type, exposers |
 | Ekspor Ukuran Administrasi CO (PDF resmi kedua) | GACC | CN | http://www.customs.gov.cn/eportal/fileDir/customs/resource/cms/2024/07/2024073110443252720.pdf | 2026-09-04 | TERBATAI | Penggunaan Non-preferensial, tiga tipe |
 | Tidak-preferensial CO overview dan mengeluarkan tubuh | CCPIT Sichuan | CN | https://www.ccpit-sichuan.org/newshow.aspx?id=14630&mid=285 | 2026-09-04 | TERBATAI | Penerbit, no- fee biasa CO |
-* Catatan Scope: China hanya mengeluarkan sisi; aturan FTA spesifik dan keputusan preferensi tujuan di luar lingkup dan per- persetujuan negara. ♪
+* Catatan Scope: Cina hanya mengeluarkan sisi; spesifik FTA aturan dan keputusan preferensi tujuan di luar lingkup dan per- persetujuan / per- negara. ♪
 
 | Peraturan PRC pada Sertifikat Asal (Dekrit Dewan Negara No. 416) | Dewan Negara PRC | CN | https://www.gov.cn/gongbao/content/2005/content_64193.htm | 2026-09-05 | TERBATAI | Dasar hukum Cina untuk mengeluarkan preferensial dan tidak-preferensial sertifikat asal |
 | Perjanjian tentang Aturan Asal | Organisasi Perdagangan Dunia (WTO) | INT 'L | https://www.wto.org/english/tratop_e/roi_e/roi_e.htm | 2026-09-05 | TERBATAI | Rule multilateral-of-asal framework |

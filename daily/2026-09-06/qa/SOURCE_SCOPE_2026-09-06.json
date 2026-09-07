@@ -1,129 +1,252 @@
 {
  "batch": "2026-09-06",
+ "rule": "OFFICIAL_SOURCE_COUNT_T1_ONLY",
+ "recomputed_on": "2026-09-07",
  "minimum": {
   "urls": 6,
-  "normalized_orgs": 4
+  "normalized_orgs": 4,
+  "t1_primary_matched": 1
  },
  "articles": {
   "AB-260906-G01": {
+   "day": "2026-09-06",
    "source_url_count": 6,
-   "source_org_count_normalized": 5,
-   "official_sources": 6,
-   "source_scope_status": "PASS"
+   "source_org_count_normalized": 4,
+   "t1_primary_matched": 5,
+   "t2_count": 1,
+   "t3_count": 0,
+   "t4_count": 0,
+   "context_only": 1,
+   "source_scope_status": "PASS",
+   "claim_traceability_status": "PASS"
   },
   "AB-260906-G02": {
+   "day": "2026-09-06",
    "source_url_count": 7,
    "source_org_count_normalized": 4,
-   "official_sources": 7,
-   "source_scope_status": "PASS"
+   "t1_primary_matched": 6,
+   "t2_count": 0,
+   "t3_count": 0,
+   "t4_count": 0,
+   "context_only": 1,
+   "source_scope_status": "PASS",
+   "claim_traceability_status": "PASS"
   },
   "AB-260906-G03": {
+   "day": "2026-09-06",
    "source_url_count": 6,
    "source_org_count_normalized": 5,
-   "official_sources": 6,
-   "source_scope_status": "PASS"
+   "t1_primary_matched": 6,
+   "t2_count": 0,
+   "t3_count": 0,
+   "t4_count": 0,
+   "context_only": 0,
+   "source_scope_status": "PASS",
+   "claim_traceability_status": "PASS"
   },
   "AB-260906-G04": {
+   "day": "2026-09-06",
    "source_url_count": 6,
-   "source_org_count_normalized": 5,
-   "official_sources": 6,
-   "source_scope_status": "PASS"
+   "source_org_count_normalized": 6,
+   "t1_primary_matched": 4,
+   "t2_count": 1,
+   "t3_count": 1,
+   "t4_count": 0,
+   "context_only": 0,
+   "source_scope_status": "PASS",
+   "claim_traceability_status": "PASS"
   },
   "AB-260906-G05": {
+   "day": "2026-09-06",
    "source_url_count": 7,
-   "source_org_count_normalized": 6,
-   "official_sources": 7,
-   "source_scope_status": "PASS"
+   "source_org_count_normalized": 5,
+   "t1_primary_matched": 6,
+   "t2_count": 0,
+   "t3_count": 1,
+   "t4_count": 0,
+   "context_only": 0,
+   "source_scope_status": "PASS",
+   "claim_traceability_status": "PASS"
   },
   "AB-260906-G06": {
+   "day": "2026-09-06",
    "source_url_count": 7,
-   "source_org_count_normalized": 4,
-   "official_sources": 7,
-   "source_scope_status": "PASS"
+   "source_org_count_normalized": 5,
+   "t1_primary_matched": 6,
+   "t2_count": 0,
+   "t3_count": 1,
+   "t4_count": 0,
+   "context_only": 0,
+   "source_scope_status": "PASS",
+   "claim_traceability_status": "PASS"
   },
   "AB-260906-G07": {
+   "day": "2026-09-06",
    "source_url_count": 10,
-   "source_org_count_normalized": 8,
-   "official_sources": 10,
-   "source_scope_status": "PASS"
+   "source_org_count_normalized": 6,
+   "t1_primary_matched": 8,
+   "t2_count": 0,
+   "t3_count": 1,
+   "t4_count": 1,
+   "context_only": 0,
+   "source_scope_status": "PASS",
+   "claim_traceability_status": "PASS"
   },
   "AB-260906-G08": {
+   "day": "2026-09-06",
    "source_url_count": 6,
    "source_org_count_normalized": 4,
-   "official_sources": 6,
-   "source_scope_status": "PASS"
+   "t1_primary_matched": 4,
+   "t2_count": 1,
+   "t3_count": 1,
+   "t4_count": 0,
+   "context_only": 0,
+   "source_scope_status": "PASS",
+   "claim_traceability_status": "PASS"
   },
   "AB-260906-G09": {
+   "day": "2026-09-06",
    "source_url_count": 8,
-   "source_org_count_normalized": 5,
-   "official_sources": 8,
-   "source_scope_status": "PASS"
+   "source_org_count_normalized": 4,
+   "t1_primary_matched": 7,
+   "t2_count": 1,
+   "t3_count": 0,
+   "t4_count": 0,
+   "context_only": 0,
+   "source_scope_status": "PASS",
+   "claim_traceability_status": "PASS"
   },
   "AB-260906-G10": {
+   "day": "2026-09-06",
    "source_url_count": 8,
    "source_org_count_normalized": 5,
-   "official_sources": 8,
-   "source_scope_status": "PASS"
+   "t1_primary_matched": 6,
+   "t2_count": 2,
+   "t3_count": 0,
+   "t4_count": 0,
+   "context_only": 0,
+   "source_scope_status": "PASS",
+   "claim_traceability_status": "PASS"
   },
   "AB-260906-V01": {
+   "day": "2026-09-06",
    "source_url_count": 7,
    "source_org_count_normalized": 6,
-   "official_sources": 7,
-   "source_scope_status": "PASS"
+   "t1_primary_matched": 3,
+   "t2_count": 2,
+   "t3_count": 2,
+   "t4_count": 0,
+   "context_only": 0,
+   "source_scope_status": "PASS",
+   "claim_traceability_status": "PASS"
   },
   "AB-260906-V02": {
+   "day": "2026-09-06",
    "source_url_count": 6,
    "source_org_count_normalized": 5,
-   "official_sources": 6,
-   "source_scope_status": "PASS"
+   "t1_primary_matched": 3,
+   "t2_count": 1,
+   "t3_count": 2,
+   "t4_count": 0,
+   "context_only": 0,
+   "source_scope_status": "PASS",
+   "claim_traceability_status": "PASS"
   },
   "AB-260906-V03": {
+   "day": "2026-09-06",
    "source_url_count": 6,
    "source_org_count_normalized": 6,
-   "official_sources": 6,
-   "source_scope_status": "PASS"
+   "t1_primary_matched": 3,
+   "t2_count": 0,
+   "t3_count": 3,
+   "t4_count": 0,
+   "context_only": 0,
+   "source_scope_status": "PASS",
+   "claim_traceability_status": "PASS"
   },
   "AB-260906-V04": {
+   "day": "2026-09-06",
    "source_url_count": 7,
    "source_org_count_normalized": 6,
-   "official_sources": 7,
-   "source_scope_status": "PASS"
+   "t1_primary_matched": 3,
+   "t2_count": 2,
+   "t3_count": 2,
+   "t4_count": 0,
+   "context_only": 0,
+   "source_scope_status": "PASS",
+   "claim_traceability_status": "PASS"
   },
   "AB-260906-V05": {
+   "day": "2026-09-06",
    "source_url_count": 7,
    "source_org_count_normalized": 7,
-   "official_sources": 7,
-   "source_scope_status": "PASS"
+   "t1_primary_matched": 2,
+   "t2_count": 2,
+   "t3_count": 3,
+   "t4_count": 0,
+   "context_only": 0,
+   "source_scope_status": "PASS",
+   "claim_traceability_status": "PASS"
   },
   "AB-260906-V06": {
+   "day": "2026-09-06",
    "source_url_count": 7,
    "source_org_count_normalized": 5,
-   "official_sources": 7,
-   "source_scope_status": "PASS"
+   "t1_primary_matched": 3,
+   "t2_count": 0,
+   "t3_count": 4,
+   "t4_count": 0,
+   "context_only": 0,
+   "source_scope_status": "PASS",
+   "claim_traceability_status": "PASS"
   },
   "AB-260906-V07": {
+   "day": "2026-09-06",
    "source_url_count": 6,
    "source_org_count_normalized": 5,
-   "official_sources": 6,
-   "source_scope_status": "PASS"
+   "t1_primary_matched": 3,
+   "t2_count": 1,
+   "t3_count": 2,
+   "t4_count": 0,
+   "context_only": 0,
+   "source_scope_status": "PASS",
+   "claim_traceability_status": "PASS"
   },
   "AB-260906-V08": {
+   "day": "2026-09-06",
    "source_url_count": 7,
    "source_org_count_normalized": 6,
-   "official_sources": 7,
-   "source_scope_status": "PASS"
+   "t1_primary_matched": 3,
+   "t2_count": 1,
+   "t3_count": 2,
+   "t4_count": 1,
+   "context_only": 0,
+   "source_scope_status": "PASS",
+   "claim_traceability_status": "PASS"
   },
   "AB-260906-V09": {
+   "day": "2026-09-06",
    "source_url_count": 6,
    "source_org_count_normalized": 6,
-   "official_sources": 6,
-   "source_scope_status": "PASS"
+   "t1_primary_matched": 3,
+   "t2_count": 2,
+   "t3_count": 1,
+   "t4_count": 0,
+   "context_only": 0,
+   "source_scope_status": "PASS",
+   "claim_traceability_status": "PASS"
   },
   "AB-260906-V10": {
+   "day": "2026-09-06",
    "source_url_count": 6,
    "source_org_count_normalized": 6,
-   "official_sources": 6,
-   "source_scope_status": "PASS"
+   "t1_primary_matched": 4,
+   "t2_count": 1,
+   "t3_count": 0,
+   "t4_count": 1,
+   "context_only": 1,
+   "source_scope_status": "PASS",
+   "claim_traceability_status": "PASS"
   }
  }
 }

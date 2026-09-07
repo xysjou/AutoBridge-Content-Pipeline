@@ -49,7 +49,7 @@ Nenhum preço de exportação é publicado. Informe-se com **Destino País · Qu
 ## Perguntas Mais Frequentes
 ** Por que existem duas figuras de potência (343 e 337 kW)? 343 kW é potência nominal e 337 kW potência líquida — diferentes bases de medição para o mesmo motor 465 PS.
 ** Qual é o peso do comboio?** O trator documentado é classificado para uma combinação de 40 t peso bruto, com 25 t GVWR para o próprio trator.
-**Manual or automatic?** The 14-speed DT14 gearbox is offered in manual  and  Formulários AMT; especificar qual.
+Manual ou automático? A caixa de velocidades 14-speed DT14 é oferecida em formulários manuais e AMT; especifique qual.
 ** As versões 520/560 e gás são o mesmo caminhão?** Eles compartilham a família de cabines KL, mas usam diferentes motores/sistemas de combustível – mantê-los como especificações separadas.
 
 ## Gravação de Imagens

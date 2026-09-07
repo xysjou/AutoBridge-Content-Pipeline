@@ -11,7 +11,7 @@
 - **ALT Vorschläge**: "Wuling MINIEV Macaron micro EV dimensions"; "MINIEV Macaron 170 215 CLTC range"
 
 ## Käuferkontext: Passen Sie das Produkt an den Use Case an
-Der Hongguang Miniev Macaron ist ein ** micro urban electric car**, kein kompaktes EV. ** 3064 mm lang  and  777 kg Kerb**, es sitzt eine volle Klasse unter einer kleinen Heckklappe — für die Skala,  the BYD Dolphin on this same catalogue is around **4125 mm long** with 420/520 km CLTC grades. Diese Lücke ist die gesamte Kaufentscheidung: Der Wert von Macaron ist die Mobilität in der Stadt zu einem sehr niedrigen chinesischen Preis; seine Grenzen sind die Höchstgeschwindigkeit (** 100 km/h **),  range (**170/215 km CLTC**), Ladegeschwindigkeit  and  Kabinengröße. Ein Exporteur, der es gegen B-Segment-EVs positioniert, wird Rückgabeprobleme verursachen; Wer es als definiertes urbanes Last-Mile-Produkt verkauft, wird es nicht tun. Diese Seite deckt die ** 3rd-generation Macaron, Modelljahr 2024 (REFERENZMARKT): CHINA**.
+Der Hongguang Miniev Macaron ist ein ** micro urban electric car**, kein kompaktes EV. ** 3064 mm lang  and  777 kg Kerb**, es sitzt eine volle Klasse unter einer kleinen Heckklappe — für die Skala,  der BYD Dolphin in diesem Katalog ist rund **4125 mm long** with 420/520 km CLTC grades. Diese Lücke ist die gesamte Kaufentscheidung: Der Wert von Macaron ist die Mobilität in der Stadt zu einem sehr niedrigen chinesischen Preis; seine Grenzen sind die Höchstgeschwindigkeit (** 100 km/h **),  range (**170/215 km CLTC**), Ladegeschwindigkeit  and  Kabinengröße. Ein Exporteur, der es gegen B-Segment-EVs positioniert, wird Rückgabeprobleme verursachen; Wer es als definiertes urbanes Last-Mile-Produkt verkauft, wird es nicht tun. Diese Seite deckt die ** 3rd-generation Macaron, Modelljahr 2024 (REFERENZMARKT): CHINA**.
 
 ## Antriebsstrang und Batterie (Mikro-EV-Fokus)
 | Position | 3rd-gen Macaron 2024 (China-Referenz) |
@@ -29,7 +29,7 @@ Die beiden Überschriften, die Käufer verwechseln, sind die ** Range-Noten (170
 Beide Klassen teilen sich das gleiche 3064 mm Mikrokörper- und Viersitzer-Layout, so dass die Wahl eine Duty-Cycle-Entscheidung ist, keine Größenentscheidung:
 - ** 170 km Grad 20 kW ** - niedrigste Bezugspunkt für den Erwerb (ungefähr 41 RMB, 800 inländische, zeitsensibel); geeignet für feste, kurze Tagesschleifen, in denen das Fahrzeug über Nacht zur Basis zurückkehrt und langsam aufgeladen wird (Campus, Gated Community, Resort, kurze Miete, letzte Meile mit einem kleinen Radius).
 - ** 215 km Grad / ~ 13.4 kWh LFP * - ungefähr RMB 46, 800 inländische Referenz; die zusätzliche Kapazität kauft Duty-Cycle-Fortschritt, und es ist die einzige Klasse, auf der eine DC-Bereitstellung erscheinen kann - und selbst dort ist es **konfigurationsabhängig und muss pro VIN * bestätigt werden, nicht angenommen.
-The procurement trap is ordering the 170 grade on price for a route that needs mid-day top-ups, Weil ein Kleinstauto mit langsamer Ladung sich während eines kurzen Stopps nicht erholen kann. Entscheiden Sie zuerst die tägliche Schleife und wählen Sie dann die Note aus; Wenden Sie es nicht um.
+Die Beschaffungsfalle ist Bestellung der Klasse 170 Zum Preis für eine Route, die Mittag braucht Aufstockungen, weil ein slow-charge-only micro Auto kann sich nicht erholen während einen kurzen Stopp. Entscheiden Sie die tägliche Schleife zunächst, Dann wählen Sie die Note Nicht umkehren.
 
 ## Dimensionen und Verpackungsrealität
 - Länge Breite Höhe: ** 3064 1493 1629 mm **

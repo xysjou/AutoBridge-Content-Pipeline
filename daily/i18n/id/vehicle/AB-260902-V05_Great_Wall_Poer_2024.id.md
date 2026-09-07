@@ -85,7 +85,7 @@ Tidak ada harga ekspor statis yang diterbitkan; China RMB reference are ** domes
 | 太平洋汽车 乘用版厢式运输车 | 太平洋汽车网 | CN | https://car.pcauto.com.cn/360/choose.jsp?mid=130087 | 2026-09-02 | SINGLE _ SOURCE | 尺寸 5416×1947×1886、2.0T 140kW/360N·m、五年或20万公里质保 |
 | 网上车市 炮乘用皮卡参数 | 网上车市 | CN | https://a.cheshi.com/bseries_4361/param.html | 2026-09-02 | SINGLE _ SOURCE | 乘用版 2.4T 柴油指导价 13.58/14.88 万 |
 
-* Catatan kepercayaan diri: hasil transmisi transmisi saat ini sedang diversial di halaman resmi GWM-; nilai penumpang 2024 Cina adalah cross _ CHECTWD pada basis data dan sengaja tetap terpisah untuk menghindari pencampuran model tahun. Payload GVW dereknya tetap untuk lembar resmi dan tidak diperkirakan. ♪
+* Catatan kepercayaan diri: keluaran / transmisi saat ini sedang diVERIFIED pada GWM halaman resmi; nilai penumpang 2024 Cina adalah CROSS _ CHECWD pada basis data dan sengaja tetap terpisah untuk menghindari pencampuran model tahun. Payload / GVW / derek tetap untuk lembar resmi dan tidak diperkirakan. ♪
 ## Editorial Review
 - *** Penulis Penilik **: [AutoBridge Ekspor Editorial Tim] penulis
 - ** Terakhir ditinjau **: 2026-09-05

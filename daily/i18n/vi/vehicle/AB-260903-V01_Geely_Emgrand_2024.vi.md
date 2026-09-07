@@ -30,7 +30,7 @@ Emra Grand là quán rượu đông người của Geely và một ứng cử vi
 - Chiều dài chiều rộng chiều cao: ** 4638 1820 1460 mm **
 - Bánh xe: ** 2650 mm **
 - Ghế: ** 5 **
-These are China-reference dimensions for the 4th-gen car. Chiếc xe 5th-generation lớn hơn (được báo là 4815 1885 1480 mm, 2755 mm bánh xe — không pha trộn hai bánh xe trên một đường kính hoặc vật liệu tiếp thị.
+Đây là những chiều không gian tham chiếu của Trung Quốc cho 4th-gen chiếc xe. 5th-generation là lớn hơn (được báo là 4815 / 1885 / 1480 mm, 2755 mm bánh xe) — Không được trộn lẫn Hai người đang suy đoán. dòng hoặc trong marketing tài liệu.
 
 ## Kết nối mẫu Year (giữ điều này hiển thị)
 - ** Trang này:** 4th thế hệ, mô hình năm 2024.
@@ -91,7 +91,7 @@ Emran có liên lạc tự động không? Đường dây Trung Quốc cung cấ
 | GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Bộ điều hành thị trường | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | VEII | Đường dây cơ bản trong Trung Quốc điều kiện an toàn của phương tiện và dòng thời gian/xem hiện tại |
 | GB 18352.6-2016 với tu chính án XG1-2026 (Trung Quốc 6 ánh sáng-vehictt phóng xạ) | Bộ sinh thái học và Môi trường (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VEII | Chương trình khai thác ánh sáng ở Trung Quốc 6 và 2026 ngày thực hiện sửa đổi |
 
-*Brigidence: không có tờ thông tin sơ bộ nào của OEM được ghi lại cho mô hình này; các hình vẽ được kiểm tra chéo cơ sở dữ liệu/g học tiếng Trung Quốc. 127 N·m mô-men xoắn là một nguồn đơn. Giá nhà và 5th-generation là thời gian nhạy cảm. Phải xác nhận thông số tương đồng với thông số xuất khẩu cho VIN. ♪
+*SIDidence: không có tờ thông tin chính OEM nào được ghi lại cho mô hình này; các con số được kiểm tra chéo giá trị cơ sở dữ liệu / y tế Trung Quốc. 127 N·m mô-men xoắn đơn. Giá nhà và 5th-generation rất nhạy cảm. Cần phải xác định lại những thông số và số hiệu xuất khẩu cho VIN.
 
 ## Xem lại tập tin
 - **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)

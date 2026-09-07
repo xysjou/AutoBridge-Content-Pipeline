@@ -93,7 +93,7 @@ Mengapa beban berat di trotoar? Ini mengatur muatan yang dapat digunakan dan per
 | GB 18352.6-2016 dengan Amandemen XG1-2026 (Cina - 6 cahaya kendaraan emisi polutan) | Kementerian Ekologi dan Lingkungan (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | TERBATAI | Cina - 6 ringkas emisi tahap dan 2026 tanggal implementasi Amandemen |
 | GB 19147 mobil yang diesel bahan bakar nasional standar (low-sulfur basis) | Standar nasional SAMR platform penuh teks | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | TERBATAI | Kelas bahan bakar Diesel dan sulfur dasar untuk mencocokkan desain mesin emisi di luar negeri |
 
-* Catatan kepercayaan: tidak ada lembar dasar OEM; dagang-database cross-check. Muatan berdasarkan secara eksplisit ditangguhkan untuk pengumuman MIIT sertifikat; 2.499 L dan 2.8 L mesin tetap terpisah. Referensi pasar hanya untuk orang. ♪
+* Catatan kepercayaan: tidak ada OEM lembar primer; dagang - database silang. Muatan peringkat secara eksplisit ditangguhkan untuk MIIT pengumuman / sertifikat; 2.499 L dan 2.8 L mesin tetap terpisah. Hanya referensi pasar. ♪
 
 ## Editorial Review
 - ** Penulis **: Tim Editorial Expor AutoBridge

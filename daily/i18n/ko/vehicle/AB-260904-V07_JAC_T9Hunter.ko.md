@@ -12,7 +12,7 @@
 - **ALT 제안**: "JAC T9 헌터 디젤 4x4 픽업 "; "T9 헌터 표준 대 긴 침대 차원"
 
 ## Buyer Context: 픽업 결정은 침대와 스트레인으로 시작
-수출의 첫 번째 질문은 침대 길이입니다, 지불량,  four-wheel-drive layout  and  포좌 — 정보가 아닙니다. T9 사냥꾼은 JAC의 중간 크기 디젤 픽업입니다; 중국에서는 ** 후두 (悍途)**로 시장에 내놓았습니다. The identity is settled by **two JAC-owned official sites** — the export site (jacen, 이름 "T9"  and  중국 픽업 사이트 (pickup.jac, 이름 "悍途 /Hantu") - 만족 모델_ALIAS_REQUIRES_OEM_PROOF: **최종 정체성 결심은 SAME_MODEL** 제품 가족에게 있습니다. Identity와 per-market 윤곽은 자주적으로 판단됩니다, 그래서 아직도 밑에 각 숫자는 그것의 시장 및 신뢰 상표를 나릅니다.
+수출의 첫 번째 질문은 침대 길이입니다, 지불량,  four-wheel-drive layout  and  포좌 — 정보가 아닙니다. T9 사냥꾼은 JAC의 중간 크기 디젤 픽업입니다; 중국에서는 ** 후두 (悍途)**로 시장에 내놓았습니다. 정체성은 **two JAC-owned official sites** — the export site (jacen, 이름 "T9"  and  중국 픽업 사이트 (pickup.jac, 이름 "悍途 /Hantu") - 만족 모델_ALIAS_REQUIRES_OEM_PROOF: **최종 정체성 결심은 SAME_MODEL** 제품 가족에게 있습니다. Identity와 per-market 윤곽은 자주적으로 판단됩니다, 그래서 아직도 밑에 각 숫자는 그것의 시장 및 신뢰 상표를 나릅니다.
 
 ## 포좌와 축거: 표준 대 긴
 | 제품 정보 | 표준 휠베이스 | 긴 축축 |

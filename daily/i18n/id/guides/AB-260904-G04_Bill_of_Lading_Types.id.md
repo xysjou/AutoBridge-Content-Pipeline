@@ -4,7 +4,7 @@
 - ** Judul SEO **: Kendaraan Ekspor Bill of Lading Guide - MBL HBL Telex SWB + Maritim Kode. 80/81/87
 - ** Meta Description **: Bagaimana cara induk tagihan, tagihan rumah, telex rilis dan jalan laut berbeda, peraturan transferabilitas pengiriman di Cina kode Maritim direvisi (dalam gaya 2026-05-01, Seni. 80/81/87), dan cocok dengan metode rilis untuk syarat pembayaran.
 - ** Sugesti URL **: panduan kendaraan -export -bill -of -lading- tipe
-- ♪ ♪ H1 "Memilih Metode Pembebasan Lading" untuk "Kendaraan Tereksport" - "Praktek Bisnis" dalam Kode Maritim Bangkit
+-   H1 "Memilih Metode Pembebasan Lading" untuk "Kendaraan Tereksport" - "Praktek Bisnis" dalam Kode Maritim Bangkit
 - ** Primary Keyword **: ekspor kendaraan tagihan dari lading mbl hbl telex rilis seawaybill
 - ** Akhir Pencarian Second *: Maritim Code 2025 revisi, artikel 80 tagihan penelusuran lading, artikel 81 dokumen transportasi lainnya, artikel 87 pengiriman, NVOCC HBL, urutan Bill telex
 - ** Internal Link Sugestions **: guide ocean-freightt- charge- struktur -ourcle- export guide drivecle- export -p.p- pre- shipment -handover guide export- - dokumen
@@ -12,15 +12,15 @@
 - "MBL HBL telex laut waybill negosiable under direvisi Kode Maritim"
 
 ## Masalah pengadaan adalah Cargo Control, bukan pekerjaan kertas
-Pengharapkan memperlakukan bill-of-lading pilihan sebagai dokumentasi. Ini adalah keputusan ** payment-risk **: saat Anda memindahkan dari RUU yang asli dinegosiasikan ke rilis telex atau waybill laut, Anda berubah ketika Anda berhenti mengendalikan kendaraan di tujuan. Pemandu ini memasangkan empat perilaku bisnis instrumen dengan *** pundak pemerintah Cina saat ini ** - * Kode Maritim PRC *, ** direvisi pada 2025-10-28 oleh 18th sesi Komite Berdiri 14th NPC (Perintah Presiden Nomor 58), dengan paksa dari 2026-05-01 (16 bab, 310 artikel) * - dan kemudian cocok dengan metode pembayaran istilah. Carrier port-specific telex rules and feses remain voyavan-specific and are not ascered as fixed values.
+Pengharapkan memperlakukan bill-of-lading pilihan sebagai dokumentasi. Ini adalah ** payment -risk Keputusan saat Anda bergerak dari negosiasi asli RUU untuk rilis telex atau laut yang berlayar dengan mudah. Anda berubah ketika Anda berhenti mengendalikan kendaraan di tujuan. Panduan ini berpasangan empat instrumen 'perilaku bisnis dengan ** saat ini Cina dasar tulang punggung ** - * Kode Maritim PRC *, ** direvisi pada 2025-10-28 oleh sesi 18th dari 14th NPC Berdiri Komite (Presiden Order No. 58), dalam kekuatan dari 2026-05-01 (16 bab, 310 artikel) * - dan maka cocokkan metode ke istilah pembayaran. Carrier / port-specific telex rules and biaya tetap berjalan - spesifik dan tidak dinyatakan sebagai nilai tetap.
 
 ## Empat Instrumen Sisi demi Sisi
 | Metode | Siapa yang mengeluarkan | Bagaimana consignee mengambil pengiriman | Shipper memegang dokumen kertas judul? |
 |---|---|---|---|
-| ** Master B L (MBL) * ♪ | Pengiriman baris agen | Serahkan MBL asli (atau ikuti prosedur baris) | Ya - kontrak dari fungsi kereta + dokumentasi -of-judul |
-| ** House B L (HBL) * ♪ | Forwarder NVOCC Carch | HBL consignee exchanges HBL untuk MBL melalui agen tujuan forwarder | Ya di level HBL, dengan pesta tambahan di rantai |
+| ** Master B L (MBL) *  | Pengiriman baris agen | Serahkan MBL asli (atau ikuti prosedur baris) | Ya - kontrak dari fungsi kereta + dokumentasi -of-judul |
+| ** House B L (HBL) *  | Forwarder NVOCC Carch | HBL consignee exchanges HBL untuk MBL melalui agen tujuan forwarder | Ya di level HBL, dengan pesta tambahan di rantai |
 | ** Telex Rilis ** | Carrier after shipper return forgoes originals | Instruksi rilis elektronik; kumpulkan pada salinan + identitas | ** Tidak ** - judul kertas diberikan saat rilis |
-| ** Sea Waybill (SWB) * ♪ | Lebih | Nama consignee dikumpulkan pada bukti identitas; tidak bisa dinegosiasikan | ** Tidak ** - bukan dokumen judul, tidak dapat transferable |
+| ** Sea Waybill (SWB) *  | Lebih | Nama consignee dikumpulkan pada bukti identitas; tidak bisa dinegosiasikan | ** Tidak ** - bukan dokumen judul, tidak dapat transferable |
 
 ## Tulang Belakang Statutory: Transferabilitas, Dokumen Lain, Pengiriman
 Kode Maritim merevisi persediaan arsitektur hukum di balik perbedaan-perbedaan bisnis:
@@ -95,7 +95,7 @@ Kode Maritim merevisi persediaan arsitektur hukum di balik perbedaan-perbedaan b
 | Dokumen pengiriman standar dan referensi clause | BIMCO | INT 'L | https://www.bimco.org/ | 2026-09-05 | TERBATAI | Komistry- standar maritim referensi dokumen clause |
 | Dokumen transportasi FIATA dan praktek pembebas | International Federation of Freight Forwarders (FIATA) | INT 'L | https://fiata.org/ | 2026-09-05 | TERBATAI | Forwarder dokumen (FBL FCR) praktek membedakan pembawa B L |
 
-* Catatan kepercayaan: terikat tulang punggung VERIFIED melalui NPC penuh teks 2025 revisi (dalam gaya 2026-05-01); definisi bisnis crosse; biaya carrier port penerimaan tetap voyagespesifik. ♪
+* Catatan kepercayaan: terikat tulang punggung VERIFIED melalui NPC penuh teks 2025 revisi (dalam gaya 2026-05-01); definisi bisnis crosse; biaya pembawa / port penerimaan tetap voyagespesifik. ♪
 
 ## Editorial Review
 - ** Penulis **: Tim Editorial Expor AutoBridge

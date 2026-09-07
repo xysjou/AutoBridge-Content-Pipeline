@@ -4,7 +4,7 @@
 - ** SeO Judul **: GAC Trumpchi M8 2024 MPV Specs, Series & Staking Expor Guide
 - ** Meta Description **: 2024 GAC Trumpchi M8 Spesifikasi China: Master Grandmaster vs Lingxiu seri, 2.0TGDI 185 kW, 8AT, 7-seat tata letak, dimensi, dan luar negeri pembeli titik verifikasi.
 - ** Sugested URL **: kendaraan gac- trumpchi- m8/
-- ♪ ♪ H1 **: GAC Trumpchi M8 2024 (China): MPV Series, Staking dan Spesifikasi Peta bagi Imporers
+-   H1 **: GAC Trumpchi M8 2024 (China): MPV Series, Staking dan Spesifikasi Peta bagi Imporers
 - ** Primary Keyword **: GAC Trumpchi M8 2024 spesifikasi ekspor
 - Trumpchi M8 7-seat MPV, GAC M8 2.0TGDI 8AT, Trumpchi M8 Masters series, Cina mewah MMPV ekspor, GAC M8 Timur Tengah
 - ** Internal Link Sugestions **: guide right-hand-drive -chinese- mobil-mobil guide komersial- truk-fleat- procurement -china kendaraan foranything-lingzhi- m5/
@@ -119,7 +119,7 @@ Apa ada hibrida M8? Sebuah hibrida 双擎 ditawarkan di Cina, tapi spesifikasiny
 | Parameter M8 | PCauto (太平洋汽车) | CN | https://price.pcauto.com.cn/m128883/config.html | 2026-09-02 | _ BERDECAT | Pembagian berbasis Wheelbase, pemetaan seri |
 | Kepercayaan Lingxiu | Yiche (易车) | CN | https://car.yiche.com/chuanqigm8/m173683/peizhi/ | 2026-09-02 | _ BERDECAT | Dimensi Lingxiu, harga rumah tangga |
 
-* Catatan kepercayaan (standar AutoBridge): Spesifikasi inti Grandmaster teralih pada halaman GAC sendiri (nilai produsen resmi); nilai Lingxiu adalah CROSS _ CHECELD di seluruh basis data independen. 400 vs kalibrasi 390 N·m sengaja disimpan terpisah oleh seri; hibrida (双擎) spesifikasi tidak asserted. ♪
+* Konfidence mencatat (standar AutoBridge): Spesifikasi inti Grandmaster diVERIFIED pada halaman GAC sendiri (nilai produsen resmi); nilai Lingxiu adalah CROSS _ CHECDID di seluruh basis data independen. 400 vs kalibrasi 390 N·m sengaja disimpan terpisah oleh seri; hibrida (双擎) spesifikasi tidak menegaskan. ♪
 
 ## Editorial Review
 - *** Penulis Penilik **: [AutoBridge Ekspor Editorial Tim] penulis

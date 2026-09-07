@@ -24,7 +24,7 @@ SANYs Linie umfasst drei Drum-Size-Bands: **6–7 m³ 8–9 m³ 10 m³** (OEM pr
 ## Überbau und Rahmen
 - Einige Modelle verwenden einen **integrierten Rahmen ohne separaten Subframe (无副车架一体化结构)** - Single-Source; verifizieren Sie das genaue Modell und seine Gewichts-/Schwerkraft-Implikationen.
 - **Drum-Drehantrieb, Rutsche/Verlängerungslänge, Wassersystemkapazität und Pumpe, Austragsrichtung und Bedienelemente** angeben. Diese definieren die Benutzerfreundlichkeit vor Ort mehr als das Abzeichen.
-- Chinese coverage also references a large **20 m³** class mixer  and  Integriertes Rahmen-Engineering (Parteimedienbericht) — eine andere Größenklasse,  not to be conflated with the 6–10 m³ line.
+- Die chinesische Berichterstattung verweist auch auf eine große **20 m³** class mixer  and  Integriertes Rahmen-Engineering (Parteimedienbericht) — eine andere Größenklasse,  nicht mit dem 6–10 m³ line.
 
 ## Elektrische (BEV) Mischvariante
 Ein ** 8 × 4 vollelektrischer Mischer** wird mit einem schnellen (法士特) TZ368XSSFD01 Permanentmagnetmotor bei ** 350 kW Peak 215 kW bewertet** (Single-Source-Handelsmedien Ankündigungsbericht) gemeldet. Behandeln Sie dies als eine Konfiguration, um die aktuelle Ankündigung und die Batterie- Ladespezifikation zu bestätigen - verschmelzen Sie sie nicht mit den Zahlen der Diesellinie.

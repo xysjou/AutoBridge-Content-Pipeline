@@ -55,11 +55,11 @@ Các tiêu chuẩn công nghiệp hoạt động hoàn thiện các loại thu�
 Ngăn chặn các bộ phận vận chuyển không thể lái, giá trị cao hay có thể trộn lẫn và cung cấp bao vây, nhưng giới thiệu công việc/tải tải và giới hạn chiều không gian. RoRo mặc đồ có thể chạy được và di chuyển bằng xe hơi trên lịch trình. Lựa chọn phụ thuộc vào đơn vị, cơ sở hạ tầng cảng đích, thời gian biểu và sự chấp nhận của người đưa hàng hóa -- so sánh cả hai với con đường thực sự trước khi phạm tội, và giữ chi phí hàng hóa như được trích dẫn thay vì giả định.
 
 ## FAQ
-**Roro có yêu cầu xe phải chạy được không? ♪ ♪**
+RoRo có cần phải lái xe không?
 
 Nói chung là có — RoRo di chuyển đơn vị dưới sức mạnh của họ; không thể lái được hoặc bị hư hỏng có thể cần được xử lý đặc biệt hoặc vận chuyển, đối tượng được chấp nhận mang theo.
 
-**Có mức nhiên liệu tiêu chuẩn để giao không? ♪ ♪**
+Có mức nhiên liệu tiêu chuẩn để giao không?
 
 Không có hình ảnh phổ biến nào — xử lý nhiên liệu bằng tay được thiết lập bởi tàu sân bay/tải kết cho chuyến đi; xác nhận bằng văn bản.
 
@@ -67,11 +67,11 @@ Không có hình ảnh phổ biến nào — xử lý nhiên liệu bằng tay �
 
 Bản sao của giấy biên nhận và các từ mẫu vật đều được lưu giữ trong giấy phép sử dụng và trong các số những từ này; một cuộc kiểm tra chung là bằng chứng chính của người xuất khẩu.
 
-** Có phải mỗi chiếc xe vận chuyển đều bị đánh đập như nhau? ♪ ♪**
+Đánh đập có phải là điều luật tương tự đối với mọi người lái xe không?
 
 Không, đánh đập và đánh răng là việc riêng của người mang/người; theo dõi kế hoạch mẫu hạm, chứ không phải tiêu chuẩn chung.
 
-**Có thể vận chuyển EVs bởi RoRo bình thường? ♪ ♪**
+EVs có thể chuyển đến RoRo bình thường không?
 
 Đối tượng của các thiết bị điện tử và các lợi ích nguy hiểm và phân loại chính xác UN/MDG; xác nhận trước khi đặt.
 

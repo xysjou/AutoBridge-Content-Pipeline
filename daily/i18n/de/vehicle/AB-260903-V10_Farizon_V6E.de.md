@@ -31,7 +31,7 @@ Für einen Logistiker sollten Käufer ** Ladevolumen, Nutzlast (bestätigen Sie 
 - Angebotspackung kWh **und ** Bereich **und ** Bereich Zyklus Zustand zusammen; nie die neuere 51 kWh Nummer an eine Basis-VIN anbringen. Bestätigen Sie die AC/DC-Ladebereitstellung und Ladezeit pro Build.
 
 ## Dokumentierte Exportaufzeichnung (Tatsache, kein Alias)
-China Transport News (eine Branchennachrichtenagentur) berichtet, dass im Februar 2024 eine erste Charge von Transportern der EU-Spezifikation V6E nach Türkiye exportiert wurde**. beschrieben als Farizons erster Eintritt in diesen Markt,  in 6 m³ form. Dies ist ein **Export-Lieferrekord**: es bestätigt, dass ein europäischer Standard-Build ausgeliefert wurde,  but it does **not** make the Türkiye EU-spec van identical to the China 35.2/51 kWh builds — treat export configuration separately  and  Beantragen Sie Ihr Spec Sheet.
+China Transport News (eine Branchennachrichtenagentur) berichtet, dass im Februar 2024 eine erste Charge von Transportern der EU-Spezifikation V6E nach Türkiye exportiert wurde**. beschrieben als Farizons erster Eintritt in diesen Markt,  in 6 m³ form. Dies ist ein **Export-Lieferrekord**: es bestätigt, dass ein europäischer Standard-Build ausgeliefert wurde,  Aber es tut **not** make the Türkiye EU-Spec-Van identisch mit China 35.2/51 kWh builds — Exportkonfiguration separat behandeln und Beantragen Sie Ihr Spec Sheet.
 
 ## Was Importeure vor der Zahlung überprüfen sollten
 - Bestätigen Sie die Antriebsachsenanordnung des Elektro-Frachtwagens auf dem Zertifikat; die erfassten chinesischen Referenzdaten beheben sie nicht, also nicht standardmäßig auf den Frontantrieb für ein lasttragendes Chassis.

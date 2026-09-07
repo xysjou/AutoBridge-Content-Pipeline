@@ -51,7 +51,7 @@ Damage disputes at destination almost always trace back to one question: 車両�
 - 指定されたキャリアを超えて、lashing/pressure/orientation/SOC の数値は、OEM/carrier のプライマリ文書をブロックする**です。
 
 ## よくある質問
-**Is a quarter tank a legal requirement?** No — it is a written policy of named RoRo carriers such as Wallenius Wilhelmsen  and  ヒゲ; ブックされたキャリアの指示に従ってください。
+四半期タンクは法的要件ですか? いいえ — これは、Walenius WilhelmsenやHöeghなどのRoRoのキャリアの名前の書かれたポリシーです。 著書のキャリアの指示に従ってください。
 **50% SOCで全てのEV船を運航するの?** つまり、Höegh Autolinersポリシーは、ユニバーサルキャップではなく、航海による予約済みキャリアのSOC要件の航海を確認します。
 **写真/手持ちの記録は必須ですか?** AutoBridgeの推奨証拠方法であり、法的な要件ではありませんが、それは物理的に目的地の損傷クレームを強化します。
 **ポイントやストラップの評価をまつげるのは誰ですか?** キャリア/ターミナルおよびOEMの輸送モード マニュアル;文書なしで固定値を仮定しません。

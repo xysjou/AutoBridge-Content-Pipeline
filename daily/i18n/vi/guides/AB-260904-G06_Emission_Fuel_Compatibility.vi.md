@@ -84,7 +84,7 @@ Trung Quốc VI có nghĩa là xe được bảo quản bởi Euro không? Khôn
 | GB17691-2018 official PDF | ME | CN | https://www.mee.gov.cn/ywgz/fgbz/bz/bzwb/dqhjbh/dqydywrwpfbz/201807/W020260430500008289846.pdf | 2026-09-04 | VEIID (TIẾNG) | Phạm vi giao thức nặng |
 | GB19147-2016 road diesel (hiện tại, với XG1-2018) | SAMR mở rộng | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-04 | VEIID (TIẾNG) | Sulphir  thể hiện 10 mg/kg |
 | Nguy cơ chạy bộ khi điều trị | thử nghiệm cơ thể | CN | https://m.11467.com/product/d51123633.htm | 2026-09-04 | SINGLE_SOURCE | Nguy cơ điều trị sau khi điều trị | 11467
-Phạm vi tính: Tiêu chuẩn/ngày của Trung Quốc được dùng để đánh dấu thông qua các nguồn chính của MEE/SAMR; giới hạn Euro/EPA ở nước ngoài, thông số nhiên liệu EE và bất kỳ kết luận cân bằng nào đang bị chặn đứng ở các nguồn nước ngoài chính. ♪
+Phạm vi: Tiêu chuẩn/ngày của Trung Quốc là VERFID thông qua MEE/ SAMR nguồn chính; giới hạn Euro/EPA ở nước ngoài, thông số nhiên liệu EEN và bất kỳ kết luận cân bằng nào đang bị chặn đứng ở các nguồn nước ngoài chính. *
 
 | 轻型车国六排放标准 GB18352.6-2016 (译文库条文) | Trung QuốcRegs (今日头条) | CN | http://m.toutiao.com/group/6758333762372633092/ | 2026-09-04 | SINGLE_SOURCE | GB18352.6-2016 背景 (不作现行版本核心依据) |
 | 辽宁省车用柴油产品质量监督抽查实施细则 (引 GB19147-2016) | 盘锦市人民政府 | CN | http://www.panjin.gov.cn/html/2731/2026-07-29/content-152533.html | 2026-09-04 | VEII | 硫含量等项目检验依据 GB19147-2016 |

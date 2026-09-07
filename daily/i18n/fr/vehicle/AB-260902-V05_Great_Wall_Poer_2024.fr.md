@@ -10,7 +10,7 @@
 - **Suggestions d'image**: double-cabine avec lit; carte essence vs diesel; sélecteur 4WD; mesures du lit; châssis à cadre d'échelle
 - ** Suggestions d'ALT**: "Pick-up double cabine GWM Poer"; "Dimensions du lit de chargement de la poche"; "Sélecteur de quatre roues motrices et boîtier de transfert de la poche"
 ## Où le Poer est assis dans la ligne GWM
-Le Poer du GWM (nom chinois 炮 Pao; GWM Ute) est la plate-forme de collecte de corps sur cadre de Great Wall, vendue au Moyen-Orient, en ANZ, en Amérique latine et sur certains marchés de la RHD, tant pour les plans de direction que pour les carburants. Le nom couvre **passager (乘用版), commercial (商用版) et tout terrain (越野版)**, dont le châssis, le lit, la suspension et les transmissions diffèrent, de sorte que la version doit être fixée avant toute comparaison. Ceci est une page de modèle à feuilles persistantes: la Chine ** 2024 construction de passagers** est la référence nommée (Marché de la REVERENCE: CHINE), les données officielles actuelles du GWM (qui est passée à 9AT)  and  revised outputs) is shown separately rather than silently overwriting the 2024 figures.
+Le GWM Poer (Chine) nom 炮 / Pao; certains marchés d'exportation GWM Ute) est la Grande Muraille centrale body-on-frame pickup plate-forme, vendu au Moyen Est, ANZ, Amérique latine et sélection RHD marchés dans les deux plans de direction et les deux les carburants. Le nom couvre **passager (乘用版), commercial (商用版) et hors route (越野版)** construit dont le châssis, lit, suspension et transmissions différentes — donc la version doivent être fixés avant toute comparaison. C'est un sempergreen page du modèle: la Chine ** 2024 passager build** est le nom Référence (MARCHÉ DE RÉFÉRENCE: CHINE), alors que le GWM actuel -données officielles (qui a évolué 9AT et produits révisés) est montré séparément plutôt que d'écraser silencieusement 2024 chiffres.
 ## Groupe motopropulseur: essence par rapport au diesel — et évolution de l'année modèle à respecter
 | Groupe motopropulseur | Chine 2024 référence passagers (bases de données, CROSS_CHECKED) | Ligne officielle GWM actuelle (VERIFIED) |
 |---|---|---|
@@ -43,7 +43,7 @@ Les listes de ramassage sont floues, les années modèles et les marchés, de so
 Aucun prix à l'exportation statique n'est publié; les références RMB de la Chine sont ** nationales et sensibles au temps, et non FOB/CIF**. Demande avec **Pays de destination · Quantité · Version · Code moteur · Transmission · 4 × 2/4 × 4 · LHD/RHD · Longueur du lit · Port de destination · Incoterm**.
 ## FAQ de l'acheteur
 **Pétrole ou diesel Poer?** Essence GW4C20B pour les véhicules légers/routiers; le diesel 2.4 GW4D24 fait 480 N·m pour le chargement et le remorquage — selon la mission.
-** 8AT ou 9AT La voiture de tourisme 2024 en Chine utilisait une ZF 8AT; current GWM builds use a 9AT with the 2.4 diesel. Confirmer la transmission sur le code VIN exact/année.
+8AT ou 9AT ? La voiture de tourisme 2024 en Chine utilisait un ZF 8AT; le courant GWM construit utilise un 9AT avec le 2.4 diesel. Confirmez la transmission sur le VIN exact /an.
 **Quelle est l'empattement?** 3230 mm lit passager standard; 3470 mm lit commercial long.
 **Qu'est-ce que la charge utile?** Non mentionné ici parce qu'il était absent de la base de faits vérifiée; prendre à partir de la feuille officielle de la version exacte.
 **Est-il disponible en RHD?** GWM vend Poer/Ute dans les deux versions sur de nombreux marchés — confirmez la version spécifique du moteur/version en RHD pour votre pays.

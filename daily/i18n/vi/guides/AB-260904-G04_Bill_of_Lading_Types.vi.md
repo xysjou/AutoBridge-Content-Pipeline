@@ -17,10 +17,10 @@ Bên xuất viện xem sự lựa chọn hóa đơn như tài liệu. Đó là m
 ## Bốn công cụ được đặt cạnh nhau
 | Phương pháp | Ai vấn đề | Làm thế nào mà các con ký gửi nhận được giao hàng | Người vận chuyển có một tài liệu về tiêu đề? |
 |---|---|---|---|
-| ** Master B/L (MBL)* ♪ | Hàng vận chuyển tác nhân của nó | Đầu hàng MBL gốc (hay theo thủ tục dòng) | Có — hợp đồng vận chuyển và tài liệu của danh hiệu chức năng |
-| ** Nhà B/L (HBL)* ♪ | NVOCC Trao đổi hàng hóa | HBL conignee trao đổi HBL cho MBL thông qua đại lý đích của người tiếp theo | Vâng ở mức HBL, với một bên phụ trong chuỗi |
+| ** Master B/L (MBL)*  | Hàng vận chuyển tác nhân của nó | Đầu hàng MBL gốc (hay theo thủ tục dòng) | Có — hợp đồng vận chuyển và tài liệu của danh hiệu chức năng |
+| ** Nhà B/L (HBL)*  | NVOCC Trao đổi hàng hóa | HBL conignee trao đổi HBL cho MBL thông qua đại lý đích của người tiếp theo | Vâng ở mức HBL, với một bên phụ trong chuỗi |
 | **Telex ra mắt** | Bộ truyền sau khi tàu trở về/gones  originals | Hướng dẫn phát hành điện tử; thu thập trên bản sao + ID | **No** — tựa đề giấy được từ bỏ khi phát hành |
-| **Sea Waybell (SWB)* ♪ | Carrier | Tên conignee thu thập trên chứng minh danh tính; không thương lượng | ** Không** — không phải là một tài liệu về tiêu đề, không thể chuyển đổi |
+| **Sea Waybell (SWB)*  | Carrier | Tên conignee thu thập trên chứng minh danh tính; không thương lượng | ** Không** — không phải là một tài liệu về tiêu đề, không thể chuyển đổi |
 
 ## Xương sống của cơ sở dữ liệu: khả năng chuyển đổi, tài liệu khác, giao hàng
 Bộ luật hải quân hiệu chỉnh cung cấp kiến trúc pháp lý đằng sau những sự khác biệt về kinh doanh:
@@ -95,7 +95,7 @@ Bộ luật hải quân hiệu chỉnh cung cấp kiến trúc pháp lý đằng
 | Tài liệu và điều khoản tiêu chuẩn | BIMCO | IN'L | https://www.bimco.org/ | 2026-09-05 | VEII | Tài liệu tham chiếu/giải tích công nghệ- tiêu chuẩn |
 | FIATA tài liệu vận chuyển và thực hành chuyển hàng hóa | Liên bang quốc tế của những người tiến bộ đáng kể (FIATA) | IN'L | https://fiata.org/ | 2026-09-05 | VEII | Tài liệu trước (FBL/FCR) thực hiện việc phân biệt mẫu B/L |
 
-*Agigiidence lưu ý:  quĩ đạo phụ VERFIED thông qua văn bản đầy đủ của bản hiệu đính 2025 (trong lực 2026-05-01); định nghĩa doanh nghiệp chéo kiểm tra; chi phí phát hành/cơ sở chấp nhận chuyến đi vẫn còn cụ thể. ♪
+*AIDidence lưu ý: thống kê xương sống VERFIED thông qua văn bản đầy đủ của bản hiệu đính 2025 (trong lực 2026-05-01); định nghĩa doanh nghiệp được kiểm tra chéo; chi phí truyền thông/cơ sở chấp nhận chuyến đi vẫn còn cụ thể. *
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team_· phương pháp trên mỗi [chính sách] (/tách-chính trị/)

@@ -1,121 +1,128 @@
 {
-  "article_id": "AB-260906-V03",
-  "content_type": "VEHICLE_PAGE",
-  "checked_date": "2026-09-06",
-  "source_log_version": "SL-v1-20260906",
-  "sources": [
-    {
-      "source_title": "荣威iMAX8官方车型页（车型官方身份；官网动态渲染尺寸未取到，尺寸以数据库为准）",
-      "organization": "荣威汽车官网",
-      "url": "https://www.roewe.com.cn/vehicles/roeweimax8",
-      "domain": "www.roewe.com.cn",
-      "source_tier": "T1",
-      "source_type": "oem_official",
-      "source_market": "CHINA",
-      "source_scope": "",
-      "facts_supported": [
-        "车型官方身份"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "VERIFIED",
-      "official_source": "YES"
-    },
-    {
-      "source_title": "iMAX8参数（5016×1909×1782、轴距3000、2.0T、爱信8AT、39.2%热效率、231Ps/370N·m）",
-      "organization": "太平洋汽车百科（今日头条镜像）",
-      "url": "http://m.toutiao.com/group/6875034359055630343/",
-      "domain": "m.toutiao.com",
-      "source_tier": "T3",
-      "source_type": "database",
-      "source_market": "CHINA",
-      "source_scope": "",
-      "facts_supported": [
-        "尺寸",
-        "动力",
-        "8AT"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "SINGLE_SOURCE",
-      "official_source": "NO"
-    },
-    {
-      "source_title": "iMAX8尺寸/座位（5016×1909×1788，WB3000，7座）",
-      "organization": "58汽车",
-      "url": "https://car.58.com/x/4112/",
-      "domain": "car.58.com",
-      "source_tier": "T3",
-      "source_type": "database",
-      "source_market": "CHINA",
-      "source_scope": "",
-      "facts_supported": [
-        "尺寸",
-        "座位"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "SINGLE_SOURCE",
-      "official_source": "NO"
-    },
-    {
-      "source_title": "iMAX8 20A4E发动机（234Ps）与配置",
-      "organization": "太平洋汽车百科",
-      "url": "http://m.pcauto.com.cn/baike/1014144/1990509/",
-      "domain": "m.pcauto.com.cn",
-      "source_tier": "T3",
-      "source_type": "database",
-      "source_market": "CHINA",
-      "source_scope": "",
-      "facts_supported": [
-        "发动机型号"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "SINGLE_SOURCE",
-      "official_source": "NO"
-    },
-    {
-      "source_title": "SAIC Motor official (Roewe brand owner)",
-      "organization": "SAIC Motor",
-      "parent_organization": "SAIC",
-      "url": "https://www.saicmotor.com/e/",
-      "domain": "www.saicmotor.com",
-      "source_tier": "T1",
-      "source_type": "oem_official",
-      "source_market": "CN",
-      "source_scope": "OEM parent corporate; Roewe is SAIC brand",
-      "facts_supported": [
-        "identity"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "VERIFIED",
-      "official_source": "YES",
-      "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH"
-    },
-    {
-      "source_title": "道路机动车辆生产企业及产品公告（查询入口）",
-      "organization": "中华人民共和国工业和信息化部",
-      "parent_organization": "MIIT",
-      "url": "https://www.miit.gov.cn/datainfo/cpgg/",
-      "domain": "www.miit.gov.cn",
-      "source_tier": "T1",
-      "source_type": "homologation",
-      "source_market": "CN",
-      "source_scope": "verify homologated China variant and seat count by announcement",
-      "facts_supported": [
-        "identity"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "VERIFIED",
-      "official_source": "YES",
-      "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH"
-    }
-  ],
-  "source_integrity_note": "卡车之家内容经今日头条镜像者按真实domain标T3、未冒称360che canonical；T4(百科/分类信息)仅作线索并显式UNVERIFIED；OEM/政府/年报为T1。",
-  "source_url_count": 6,
-  "source_org_count_normalized": 6,
-  "controlled_research_patch": {
-    "applied_by": "Writing AI",
-    "date": "2026-09-06",
-    "added_count": 2,
-    "final_url_count": 6,
-    "final_org_count_normalized": 6
+ "article_id": "AB-260906-V03",
+ "content_type": "VEHICLE_PAGE",
+ "checked_date": "2026-09-06",
+ "source_log_version": "SL-v1-20260906",
+ "sources": [
+  {
+   "source_title": "荣威iMAX8官方车型页（车型官方身份；官网动态渲染尺寸未取到，尺寸以数据库为准）",
+   "organization": "荣威汽车官网",
+   "url": "https://www.roewe.com.cn/vehicles/roeweimax8",
+   "domain": "www.roewe.com.cn",
+   "source_tier": "T1",
+   "source_type": "oem_official",
+   "source_market": "CHINA",
+   "source_scope": "",
+   "facts_supported": [
+    "车型官方身份"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": true,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "iMAX8参数（5016×1909×1782、轴距3000、2.0T、爱信8AT、39.2%热效率、231Ps/370N·m）",
+   "organization": "太平洋汽车百科（今日头条镜像）",
+   "url": "http://m.toutiao.com/group/6875034359055630343/",
+   "domain": "m.toutiao.com",
+   "source_tier": "T3",
+   "source_type": "database",
+   "source_market": "CHINA",
+   "source_scope": "",
+   "facts_supported": [
+    "尺寸",
+    "动力",
+    "8AT"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "SINGLE_SOURCE",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "iMAX8尺寸/座位（5016×1909×1788，WB3000，7座）",
+   "organization": "58汽车",
+   "url": "https://car.58.com/x/4112/",
+   "domain": "car.58.com",
+   "source_tier": "T3",
+   "source_type": "database",
+   "source_market": "CHINA",
+   "source_scope": "",
+   "facts_supported": [
+    "尺寸",
+    "座位"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "SINGLE_SOURCE",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "iMAX8 20A4E发动机（234Ps）与配置",
+   "organization": "太平洋汽车百科",
+   "url": "http://m.pcauto.com.cn/baike/1014144/1990509/",
+   "domain": "m.pcauto.com.cn",
+   "source_tier": "T3",
+   "source_type": "database",
+   "source_market": "CHINA",
+   "source_scope": "",
+   "facts_supported": [
+    "发动机型号"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "SINGLE_SOURCE",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "SAIC Motor official (Roewe brand owner)",
+   "organization": "SAIC Motor",
+   "parent_organization": "SAIC",
+   "url": "https://www.saicmotor.com/e/",
+   "domain": "www.saicmotor.com",
+   "source_tier": "T1",
+   "source_type": "oem_official",
+   "source_market": "CN",
+   "source_scope": "OEM parent corporate; Roewe is SAIC brand",
+   "facts_supported": [
+    "identity"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": true,
+   "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH",
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "道路机动车辆生产企业及产品公告（查询入口）",
+   "organization": "中华人民共和国工业和信息化部",
+   "parent_organization": "MIIT",
+   "url": "https://www.miit.gov.cn/datainfo/cpgg/",
+   "domain": "www.miit.gov.cn",
+   "source_tier": "T1",
+   "source_type": "homologation",
+   "source_market": "CN",
+   "source_scope": "verify homologated China variant and seat count by announcement",
+   "facts_supported": [
+    "identity"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": true,
+   "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH",
+   "scope_match": "MATCHED"
   }
+ ],
+ "source_integrity_note": "卡车之家内容经今日头条镜像者按真实domain标T3、未冒称360che canonical；T4(百科/分类信息)仅作线索并显式UNVERIFIED；OEM/政府/年报为T1。",
+ "source_url_count": 6,
+ "source_org_count_normalized": 6,
+ "controlled_research_patch": {
+  "applied_by": "Writing AI",
+  "date": "2026-09-06",
+  "added_count": 2,
+  "final_url_count": 6,
+  "final_org_count_normalized": 6
+ },
+ "t1_only_recomputed_on": "2026-09-07"
 }

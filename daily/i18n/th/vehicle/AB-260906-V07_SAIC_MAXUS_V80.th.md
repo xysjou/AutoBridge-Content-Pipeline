@@ -1,7 +1,7 @@
 # SAICMANCUS Xintu V80: จีน-มาร์เก็ต ดีเซลใหญ่ ฟอน มินิบัส (intu) อ้างอิงการส่งออกของเครื่องราชอิสริยาภรณ์
 ## เชา ข้อมูลกํากับภาพ
 - < secontinuation*: SAIC MATIC US V80 (Xintu) Diesel Van & Minibus plack Specs Med
-- ""คําอธิบาย" Chinese-market reference for the SAIC MAXUS Xintu V80 PRO large van/minibus: 2.0T ดีเซล AMT ความยาว และที่นั่งที่จํากัด และเอกสาร GVW/จ่ายรายจ่าย ผู้ซื้อส่งออกจะต้องได้รับ
+- **Meta Description**: SAIC MAXUS Xintu V80 Proan รถตู้/มินิบัส ขนาด ใหญ่ 2.0T December, คู่มือ/AMT, ความยาวและที่นั่ง, และเอกสารการจัดส่งสินค้า GVW / จ่ายรายจ่ายต้องได้รับ
 - **H1**: SAIC MexUS Zintu V80: สืบค้นเมื่อ ค.ศ. China-Maget Desel ขนาดใหญ่ รถตู้ มินิบัสส่งออกอ้างอิง
 - ~คําสําคัญในคอลัมน์ ~: SAIC MATIC MATUS V80 สเปกตรัมของรถตู้
 - ~การค้นหาตามวาระที่: ~ MAXUS V80 DCDV รถตู้; Xintu V80 PRO 2.0T; V80 ที่นั่งมินิบัส; รถบรรทุกขนาดใหญ่ของ MexUS ส่งออกเป็นรถตู้พาเนลแบบจีน

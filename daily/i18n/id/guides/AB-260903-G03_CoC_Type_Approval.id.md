@@ -3,7 +3,7 @@
 - ** Seo Judul **: Kendaraan CoC vs Tipe Pendekatan (WVTA, OTTS, E-mark) Panduan Pembeli
 - ** Meta Description **: Sertifikat lokal Cina yang tidak terganggu dari destination- CoC, dan EU WVTA, OTTS EEEU EAC dan sistem tanda E-mark - jadi dokumen yang tepat mencapai meja pendaftaran.
 - ** URL yang Disarankan **: guide kendaraan coc -type-approces- berkas-berkas
-- ♪ ♪ H1 Kendaraan CoC dan Whole- Pendekatan Tipe Kendaraan: Cocok dengan Dokumen Kanan ke Pasar Kanan
+-   H1 Kendaraan CoC dan Whole- Pendekatan Tipe Kendaraan: Cocok dengan Dokumen Kanan ke Pasar Kanan
 - ** Primer Keyword **: sertifikat kendaraan dari konformitas vs tipe persetujuan wvta otts emark
 - ** Akhir Pencarian Second **: ekspor Cina CoC, EU seluruh tipe kendaraan persetujuan, EEEU OTES EAC, e- tandai vs E-mark, UNECE 1958 tipe persetujuan, pendaftaran dokumen kendaraan
 - ** Informan Link Inserved **: guider chino-excellect -execution-applicuses-customs guide ua- mourcle- registration- dokumen kendaraan saic- maxus - v90-specs/
@@ -15,8 +15,8 @@ Para peserta berulang kali memperlakukan satu dokumen seolah-olah dokumen itu la
 
 ## Tingkat 1 - Pendekatan Tipe (model kendaraan disetujui)
 Tipe sertifikat persetujuan bahwa ** tipe kendaraan sistem ** memenuhi kebutuhan pasar. Hal ini terjadi pada tingkat model dan adalah sebuah prakondisi untuk dokumen pervehicle:
-- ** EU - Seluruh Kendaraan Tipe Pendekatan (WVTA): ** Secara wajib seluruh akses pasar kendaraan, digambarkan oleh penyedia sertifikasi sebagai berbasis ** Peraturan (EU) *, yang diterapkan sepenuhnya dari 1 September 2020 dan diganti Directive 2007/46/EC; satu persetujuan diakui di seluruh negara anggota. * Verifikasi teks konsolidasikan saat ini dan setiap penerus bertindak pada EUR- Lex sebelum mengandalkan tanggal atau lingkup. ♪ 2018/858
-- ** EEEU - OTTS EAC: ** untuk Uni Ekonomi Eurasia, seluruh kendaraan membutuhkan persetujuan yang bertipe ** OTTS (atau EAC) ** di bawah * TR CU 018/2011 "* Pada Keselamatan Kendaraan Beroda" ** dan ** yang berwenang secara umum dibutuhkan. * Konfirmasikan teknis-regulasi saat ini teks dan aturan perwakilan dengan komisi EAEU. ♪
+- ** EU - Seluruh Kendaraan Tipe Pendekatan (WVTA): ** Secara wajib seluruh akses pasar kendaraan, digambarkan oleh penyedia sertifikasi sebagai berbasis ** Peraturan (EU) *, yang diterapkan sepenuhnya dari 1 September 2020 dan diganti Directive 2007/46/EC; satu persetujuan diakui di seluruh negara anggota. * Verifikasi teks konsolidasikan saat ini dan setiap penerus bertindak pada EUR- Lex sebelum mengandalkan tanggal atau lingkup.  2018/858
+- ** EEEU - OTTS EAC: ** untuk Uni Ekonomi Eurasia, seluruh kendaraan membutuhkan persetujuan yang bertipe ** OTTS (atau EAC) ** di bawah * TR CU 018/2011 "* Pada Keselamatan Kendaraan Beroda" ** dan ** yang berwenang secara umum dibutuhkan. * Konfirmasikan teknis-regulasi saat ini teks dan aturan perwakilan dengan komisi EAEU. 
 Tipe persetujuan adalah pasar - spesifik: sebuah WVTA Uni Eropa tidak memberikan akses EEEU, dan sebaliknya.
 
 ## Level 2 - Sertifikat Konformitas (unit spesifik ini cocok dengan tipe yang disetujui)
@@ -83,7 +83,7 @@ Apa aku butuh perwakilan lokal untuk persetujuan EAEU? ** Pengaturan OTTS EAC um
 | EU WVTA + FMVSS catatan skema (2018/858) | Tiga puluh pihak sertifikasi tubuh | EU | https://m.11467.com/product/d53638850.htm | 2026-09-03 | SINGLE _ SOURCE | Deskripsi WVTA / 2018/858; peran CoC (sekunder) |
 | OTTS TR CU 018/2011 expliiner | penyedia layanan terkenal- | EEU | https://m.11467.com/product/d21445928.htm | 2026-09-03 | _ BERDECAT | OTTS EAC, perwakilan yang sah (sekunder) |
 | e- mark vs E- mark expiner | penyedia layanan terkenal- | Global Uni Eropa | https://m.11467.com/product/d55481671.htm | 2026-09-03 | SINGLE _ SOURCE | e E-mark difference (sekunder) |
-* Langit-langit bukti: EU EEU UNECE instrumen digambarkan dari sertifikat sekunder-sumber layanan; tidak ada EUR-Lex UNECE EAEU utama teks ditangkap. Tanggal dan lingkup Regulasi harus diverifikasi terhadap teks primer sebelum penggunaan kepatuhan. Kerangka sisi Cina adalah satu-satunya bagian yang didukung oleh pejabat. ♪
+* Langit-langit bukti: EU / EAEU / UNECE instrumen digambarkan dari sertifikat sekunder-sumber layanan; tidak ada EUR-Lex / UNECE / EAEU utama teks ditangkap. Perbaikan tanggal dan lingkup harus diverifikasi terhadap teks primer sebelum penggunaan kepatuhan. Kerangka sisi Cina adalah satu-satunya bagian resmi yang didukung. ♪
 
 | Peraturan (EU) (konsolidated 2021-09-26) pada type- persetujuan kendaraan bermotor - WVTA; whole-kendaraan vs | EUR- Lex (Database resmi Uni Eropa) | CN | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02018R0858-20210926 | 2026-09-04 | TERBATAI |  | 2018/858
 | Peraturan (Uni Eropa) (asli), Bab VI Pasal 36 - produsen mengeluarkan CoC untuk setiap konf kendaraan | EUR- Lex | CN | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0858 | 2026-09-04 | TERBATAI |  | 2018/858

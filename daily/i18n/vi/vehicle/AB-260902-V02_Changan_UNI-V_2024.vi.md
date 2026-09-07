@@ -114,7 +114,7 @@ Có phải LHQ là xe điện hay xe xăng? Ở đây có 2024 máy bay URI-V c�
 | Trang số thụ tinh UNI-V | Tự động cấu hình nhà | CN | https://www.autohome.com.cn/config/spec/66851.html | 2026-09-02 | SINGLE_SOURCE | Độ nặng cong (các nguồn sáng) |
 | Báo cáo phóng mới của UNI-V | Phong Tự (凤凰网汽车) | CN | https://auto.ifeng.com/c/8Y79qxCFD3L | 2026-09-02 | ĐÃ_ ĐÃ | MacPherson/Ble kết nối, ivetrain |
 
-*BIDidence (Chính sách tự động Bridge: 1.5T powertrain and 2750 mm roads được thực hiện trên trang web của Changan (chính thức làm việc). 2.0T con số được tạo ra từ cơ sở dữ liệu độc lập; trọng lượng lề đường là SINGLE_ NHỮNG NGƯỜI ĐỂ ĐƯỢC ĐỂ ĐƯỢC THỂ VỚI NHỮNG NGƯỜI TRONG SỰ THỂ. ♪
+Ghi chú tự động (tự động Bridge tiêu chuẩn): 1.5T powertraiter và 2750 mm bánh xe được thực hiện trên trang web của Changan (chính thức làm việc). 2.0T con số được đưa qua cơ sở dữ liệu độc lập; trọng lượng lề đường là SINGLE_ Nợ phải khớp với cái đĩa. *
 
 ## Xem lại tập tin
 - **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)

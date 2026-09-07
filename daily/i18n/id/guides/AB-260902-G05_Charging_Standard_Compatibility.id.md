@@ -4,7 +4,7 @@
 - ** Judul SEO **: GB T vs CCS2 vs CHAMO vs NaCS: EV Cina Ekspor Kompatibilitas
 - ** Meta Description **: Akankah pasar EV di Eropa, Jepang atau Amerika Utara? GB T 20234.3/27930 menjelaskan, peta konektor oleh daerah, ekspor - versi inlet, adaptor dan arah ChaoJi.
 - ** Sugesti URL **: guide cinese- e- charging-standard- compatibility
-- ♪ ♪ H1 Apa EV Cina akan menyerang luar negeri? GB T, CCS2, CHAMO dan NaCS Compatibility Explained
+-   H1 Apa EV Cina akan menyerang luar negeri? GB T, CCS2, CHAMO dan NaCS Compatibility Explained
 - ** Primer Keyword **: GB T CCS2 CHAMO pengisian kompatibilitas ekspor standar
 - ** Akhir Pencarian Second **: Ekpor EV Cina pengisian adaptor, GB T 20234.3 DC cepat biaya, protokol GB T 27930, versi CCS2 ekspor EV, standar ChaoJi
 - *** Internal Link Sugestions **: kendaraan byd-yuanplus guide right-hand- drive -chinese- mobil-mobil guide uid- chinese- excicident
@@ -20,9 +20,9 @@ EV dalam negeri yang melewati bea cukai masih dapat efektif tidak dapat digunaka
 | Standar | Pemindahan primer | Catatan |
 |---|---|---|
 | ** GB T 20234.3 ** + ** GB T 27930 ** (CAN komunikasi) | Cina (kendaraan Cina domestik) | GB T 20234.3-2023 menaikkan batas atas ke ** 1500 V 800 A ** (titik-titik sumber industri diperiksa) |
-| ♪ ♪ CCS2 (Combo 2) ♪ ♪ | Eropa dan banyak pasar ekspor | Digabungkan dengan AC DC, yang dominan di Uni Eropa. |
-| ♪ ♪ CCS1 (Combo 1) ♪ ♪ | Amerika Utara | Varian regional dari CCS |
-| ♪ ♪ ChAMO ♪ ♪ | Jepang dan pasar terpilih | Awalnya di Jepang |
+|   CCS2 (Combo 2)   | Eropa dan banyak pasar ekspor | Digabungkan dengan AC DC, yang dominan di Uni Eropa. |
+|   CCS1 (Combo 1)   | Amerika Utara | Varian regional dari CCS |
+|   ChAMO   | Jepang dan pasar terpilih | Awalnya di Jepang |
 | ** NaCS ** | Amerika Utara | Menyebarkan seluruh Amerika Utara (waktu peluncuran 2026 tidak secara resmi diverifikasi di sini) |
 
 Konektor DC ini ** secara fisik saling tidak kompatibel **: you cannot plug a GB/T gun into a CCS2 socket. AC (lambat malam) juga berbeda oleh pasar dan harus diperiksa secara terpisah - sebuah mobil mungkin cepat biaya pada satu standar sementara AC inlet masih membutuhkan perhatian.
@@ -107,7 +107,7 @@ Untuk setiap model trim ekspor Anda, rekam dalam lembaran:
 | Panduan ke standar pengisian EV global | MARUIKEL (industri) | Global | https://www.maruikel.com/es/blog/guide-to-global-ev-charging-standards-type-1-type-2-ccs-chademo-gbt.html | 2026-09-02 | _ BERDECAT | Deteksi tujuan versi GB T vs Domestik |
 | GB T-to -CHAMO adapter panduan B2B | Electric Auto China (industri) | Global | https://www.electricautochina.com/comprehensive-b2b-guide-to-gbt-to-chademo-adapters-for-exported-chines/ | 2026-09-02 | _ BERDECAT | Ekspor batas kompatibilitas |
 
-* Catatan kepercayaan (standar AutoBridge): fakta standard- tingkat yang VERIFIED CROSS _ CHECTED (CHADEMO Asosiasi adalah badan standar). Konektor ekspor per- model, legalitas adaptor oleh negara dan NaCS waktu rollout tidak ditangkap dan harus dikonfirmasi per VIN dan setiap otoritas tujuan. ♪
+* Catatan kepercayaan (standar AutoBridge): fakta standard- tingkat adalah VERIFIED / CROSS _ CHECD (CHADEMO Asosiasi adalah badan standar). Konektor ekspor per- model, legalitas adaptor oleh negara dan NaCS rollout waktu tidak ditangkap dan harus dikonfirmasi per VIN dan setiap otoritas tujuan. ♪
 
 ## Editorial Review
 - *** Penulis Penilik **: [AutoBridge Ekspor Editorial Tim] penulis

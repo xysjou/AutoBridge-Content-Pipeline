@@ -50,7 +50,7 @@ No se publica ningún precio de exportación estático. La cifra inicial de 900 
 
 ## Preguntas frecuentes
 **¿Cuál es la diferencia entre los 1.5T y 2.0T CS75 PLUS?** El 1.5T produce 138 kW 300 N·m; el 2.0T produce 171 kW 390 N·m; ambos utilizan un Aisin 8AT.
-**¿El 2024 CS75 PLUS es el mismo que el coche 4th-generation?** No — la generación 4th lanzada en China desde septiembre de 2024 con un cuerpo más grande y una revisión de 1.5T; this page covers the 3rd-gen Champion.
+**¿El 2024 CS75 PLUS es el mismo que el coche 4th-generation?** No — la generación 4th lanzada en China desde septiembre de 2024 con un cuerpo más grande y una revisión de 1.5T; esta página cubre 3rd-gen Champion.
 **¿Tiene CS75 PLUS todo el volante?** La línea China 3rd-gen aquí referenciada es la unidad delantera de rueda; confirmar cualquier reclamación AWD contra el borde específico.
 **¿El paquete L2 es idéntico en cada grado?** Trátelo como grado específico; verifique el contenido de cámara ACC/lane/ 540 ° en el VIN exacto.
 

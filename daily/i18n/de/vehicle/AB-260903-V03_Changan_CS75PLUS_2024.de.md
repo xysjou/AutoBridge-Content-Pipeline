@@ -11,7 +11,7 @@
 - **ALT Vorschläge**: "Changan CS75 PLUS dritte Generation 2024"; "CS75 PLUS 1.5T versus 2.0T Motor"
 
 ## Käuferkontext: Separate the 3rd-Gen Champion From the 4th Generation
-CS75 PLUS ist Changans Kern-Mittelklasse-SUV-Familie. Diese Seite deckt die ** 3rd-generation Champion Linie, Modelljahr 2024 (REFERENZMARKT): CHINA**. A **4th generation entered the China market from September 2024** with a longer body  and  Radstand  and  a revised 1.5T tune. Da beide Generationen in überlappenden Monaten unter dem Namen CS75 PLUS gehandelt wurden, ist ein Auftragsvermerk, der nur "CS75 PLUS 2024" sagt, mehrdeutig - Sperrgeneration, Motor und Getriebe gegen die VIN.
+CS75 PLUS sind Changan Kern mittlere SUV Familie. Diese Seite deckt die ** 3rd-generation Champion-Linie, Modelljahr 2024 (REFERENZ) MARKT: CHINA**. A ** 4th Generation eingegeben Der chinesische Markt von September 2024 ** mit einem Längerer Aufbau und Radstand und eine überarbeitete 1.5T Tune. Weil beide Generationen gehandelt haben Unter dem CS75 Plus Name in überlappenden Monaten, Eine Bestellung vermerkt, dass sagt nur "CS75 PLUS" 2024 ist mehrdeutig - Schleusenerzeugung, Motor und Getriebe gegen die VIN.
 
 ## Antriebsstrang: 1.5T vs 2.0T (ICE-Fokus)
 | Position | 1.5T (JL473ZQ7, Blauwal) | 2.0T (JL486ZQ5) |
@@ -92,7 +92,7 @@ Es wird kein statischer Ausfuhrpreis veröffentlicht. Die ungefähr RMB 121, 900
 | GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Staatliche Verwaltung für Marktregulierung | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | ÜBERPRÜFUNG | Technische Rahmenbedingungen für die Fahrzeugsicherheit in China und der aktuelle/revisionsbezogene Zeitplan |
 | GB 18352.6-2016 mit Änderung XG1-2026 (Schadstoffemissionen von leichten Fahrzeugen China-6) | Ministerium für Ökologie und Umwelt (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | ÜBERPRÜFUNG | China-6 Lichtfahrzeug-Emissionsstufe und die 2026 Änderungs-Umsetzungsdaten |
 
-*Vertrauensbeweis: Motor/Getriebe  and  the 4th-gen boundary are supported by official media  and  Changans eigener Jahresbericht (VERIFIED); Parametertabellendetails werden abgeglichen. Der Inlandspreis und die Zahlen der neueren Generation sind zeitsensibel. Die Bestimmungshomologation bleibt eine separate Überprüfung. *
+*Vertrauensbeweis: Motor/Getriebe und der 4th-gen Die Grenze wird unterstützt durch offizielle Medien und Changan's eigener Jahresbericht (VERIFIZIERT); Parameter-Tabellen-Detail wird abgeglichen. Inlandspreis und der Die Zahlen der neueren Generation sind zeitsensibel. Zielhomologation bleibt eine gesonderte Kontrolle. *
 
 ## Editorial Review
 - **Autor Rezensent**: [AutoBridge Export Editorial Team](/Autoren/) · Methode nach unserer [Editorial Policy](/editorial-policy/]

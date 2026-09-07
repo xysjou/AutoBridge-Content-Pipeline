@@ -12,14 +12,14 @@
 - **LT gợi ý**: " chứng nhận Trung Quốc có ba loại tập tục CCPIT"
 
 ## Quyết định ẩn giấu trong tài liệu
-Người nhập khẩu thường yêu cầu "con CO" như thể nó là một tờ giấy. Không phải. China issues **three families** of certificate of origin,  and  Chọn sai người mua có nghĩa là người mua không thể thích hoặc nhận được giấy tờ nào đó không đòi hỏi. Quy tắc quản trị hiện tại là **GACC Order số 270, *Administrations for lesss of borns for Eputy Goods*, xuất bản 2024-07-30 và có hiệu lực từ 2024-09-01 **. Trang này bao gồm phía **Trung Quốc phát hành**; Cho dù một điểm đến cụ thể cung cấp cho một ưu tiên là quyết định của quốc gia đó.
+Người nhập khẩu thường yêu cầu "con CO" như thể nó là một tờ giấy. Không phải. China issues **three families** chứng nhận gốc,  and  Chọn sai người mua có nghĩa là người mua không thể thích hoặc nhận được giấy tờ nào đó không đòi hỏi. Quy tắc quản trị hiện tại là **GACC Order số 270, *Quản trị cho ít người sinh ra cho hàng hóa Eputy*, xuất bản 2024-07-30 và có hiệu lực từ 2024-09-01 **. Trang này bao gồm phía **Trung Quốc phát hành**; Cho dù một điểm đến cụ thể cung cấp cho một ưu tiên là quyết định của quốc gia đó.
 
 ## Ba gia đình có giấy chứng nhận
 | Kiểu | Mục đích | Khi một người xuất khẩu xe sử dụng nó |
 |---|---|---|
 | **Non-pestical CO** | Cách điều trị MFN, các vụ chống lại việc bán hàng/tải rác/bảo vệ an toàn, dấu hiệu gốc, giới hạn định lượng, hạn thuế, thu nhập của chính phủ, thống kê thương mại | Mặc định "tìm trưởng cơ sở" chứng minh nguồn gốc Trung Quốc khi không có sự ưa thích thương mại |
 | **GIS (hệ thống tùy thích đã tạo ra) CO** | Tham chiếu theo kế hoạch của quốc gia _BAR_ | Chỉ khi nào điểm đến vẫn cấp cho GP và yêu cầu hình thức cụ thể của nó |
-| **Regional/Porestal CO (FTA)* ♪ | Tỷ lệ thuế ưu tiên tại điểm đến | Chỉ khi nào một FTA giữa Trung Quốc và đích đến áp dụng **và** hàng hóa đáp ứng các quy tắc của thỏa thuận về nguồn gốc |
+| **Regional/Porestal CO (FTA)*  | Tỷ lệ thuế ưu tiên tại điểm đến | Chỉ khi nào một FTA giữa Trung Quốc và đích đến áp dụng **và** hàng hóa đáp ứng các quy tắc của thỏa thuận về nguồn gốc |
 
 Mỗi FTA có những quy tắc gốc, hình thức và mật mã** — một chứng nhận cho một thỏa thuận không thể tái sử dụng cho một điều khác.
 
@@ -77,7 +77,7 @@ Có phải một nhân viên bảo đảm là sẽ thi hành nghĩa vụ thấp 
 | Thứ tự GACC Số 270, Xuất ra các biện pháp quản trị CO (theo lực 2024-09-01) | Tổng quản trị tập quán Trung Quốc (PDF chính thức) | CN | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/2480148/6011613/2024073016391092032.pdf | 2026-09-04 | VEII | Phiên bản quy tắc, ba loại, số phát hành |
 | Xuất ra các đo lường quản trị CO (PDF chính thức thứ hai) | GACC | CN | http://www.customs.gov.cn/eportal/fileDir/customs/resource/cms/2024/07/2024073110443252720.pdf | 2026-09-04 | VEII | Không sử dụng đúng tiêu chuẩn, ba loại |
 | Tổng thống không ưu tiên và đang phát triển cơ thể | CCPIT Sichuan | CN | https://www.ccpit-sichuan.org/newshow.aspx?id=14630&mid=285 | 2026-09-04 | VEII | Người phát hành, không có người làm việc bình thường |
-*Scope ghi chú: Trung Quốc chỉ phát hành bên phía bên cạnh; quy tắc đặc biệt của FTA và quyết định ưu tiên đích đến là nằm ngoài phạm vi và một quốc gia. ♪
+*Scope lưu ý: Trung Quốc chỉ phát hành bên cạnh; cụ thể FTA quy tắc và quyết định ưu tiên đích đến nằm ngoài phạm vi và một quốc gia. *
 
 | Điều luật của PRC về chứng chỉ Nguồn gốc (Ste Council Decree No. 416) | Hội đồng Liên bang của PRC | CN | https://www.gov.cn/gongbao/content/2005/content_64193.htm | 2026-09-05 | VEII | Cơ sở pháp lý của Trung Quốc cho phép phát hành các chứng chỉ ưu tiên và không ưu tiên nguồn gốc |
 | Hòa thuận về các quy tắc gốc rễ | Tổ chức thương mại thế giới (WTO) | IN'L | https://www.wto.org/english/tratop_e/roi_e/roi_e.htm | 2026-09-05 | VEII | Khung đa quy tắc |

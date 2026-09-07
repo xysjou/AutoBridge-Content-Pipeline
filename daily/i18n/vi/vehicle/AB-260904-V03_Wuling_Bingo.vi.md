@@ -95,7 +95,7 @@ Có phải mọi cái Bingo 50 kW không? Không; chiếc xe 203 km dùng máy 3
 | GB 38031 an toàn về pin (GB 38031-2025); ứng dụng kiểu mới bắt buộc từ 2026-07-01) | Nền tảng chuẩn toàn quốc SAR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | VEII | Điều kiện an toàn về sự quản lý-sự trì trệ của đàn ông cho chương trình điện năng |
 | Yêu cầu an toàn phương tiện điện GB 18384 (GB 18384-2025) | Nền tảng chuẩn toàn quốc SAR | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | VEII | Yêu cầu an toàn chức năng điện/ động cơ điện |
 
-*Brigidence: ắc quy/sức mạnh được kiểm tra chéo; mô-men xoắn động cơ, khối lượng hàng hóa, số lượng chỗ ngồi và điện tích là một nguồn duy nhất và được đánh dấu. Không có trang OEM ở nước ngoài, chỉ có thể tham khảo từ Trung Quốc. ♪
+Lưu ý: bộ ắc quy/sức mạnh được kiểm tra chéo; mô-men xoắn động cơ, khối lượng hàng hóa, số lượng chỗ ngồi và điện tích là một nguồn duy nhất và được đánh dấu. Không có trang ngoại quốc OEM, chỉ có người Trung Quốc tham khảo. *
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team_· phương pháp trên mỗi [chính sách] (/tách-chính trị/)

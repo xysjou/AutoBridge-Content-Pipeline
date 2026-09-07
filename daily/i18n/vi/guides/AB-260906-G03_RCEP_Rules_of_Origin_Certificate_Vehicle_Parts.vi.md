@@ -57,7 +57,7 @@ Khi một tờ giấy ký kết gửi cho một bên trung gian RCEP — ví d�
 Nhiệm vụ ưu tiên thực sự cho một phương tiện cụ thể hoặc một phần trong một thị trường RCEP được đặt bởi thời gian hiện tại của Đảng và nhạy cảm thời gian; xác nhận nó với các tập tục đích hoặc nhập khẩu hơn là nói một sự nhượng bộ cố định.
 
 ## FAQ
-** Một chứng chỉ Trung Quốc có nguồn gốc đủ cho sở thích RCEP không? ♪ ♪**
+Chứng chỉ Trung Quốc có đủ cho RCEP không?
 
 Một giấy chứng nhận mẫu đơn RCEP do nhà cầm quyền cấp là một trong những con đường đã chấp nhận; một tuyên bố được chấp nhận xuất khẩu cũng có thể hiệu quả khi bên nhập khẩu chấp nhận nó.
 
@@ -65,15 +65,15 @@ Một giấy chứng nhận mẫu đơn RCEP do nhà cầm quyền cấp là m�
 
 Có thể tính ra nguồn gốc từ các đảng RCEP về nguồn gốc của các mặt hàng được hoàn thành ở một đảng khác, theo các quy tắc và tài liệu.
 
-Tôi tìm chiếc RVC ở đâu để lấy một chiếc xe? ♪ ♪
+Tìm chiếc RVC ở đâu?
 
 Trong các quy tắc cụ thể sản phẩm của RCEP, dựa trên mã chính xác của hệ thống hệ thống hệ thống của hệ thống này, không có một phần trăm nào bao gồm tất cả các phương tiện hoặc bộ phận.
 
-** Chứng nhận trở lại là gì? ♪ ♪**
+Chứng nhận trở lại là gì?
 
 Một chứng nhận được đăng ký lại bởi một bên trung gian RCEP dựa trên bằng chứng gốc, bảo tồn nguồn gốc cho hàng hóa chia hoặc vận chuyển dưới sự kiểm soát của hải quan.
 
-**RCEP có làm cho tất cả xe miễn phí ngay lập tức không? ♪ ♪**
+RCEP có làm tất cả xe miễn phí ngay lập tức không?
 
 Không, vì sự nhượng bộ là một giai đoạn và khác nhau giữa đảng và đường thuế má; xác nhận thời gian biểu hiện tại của đích đến.
 

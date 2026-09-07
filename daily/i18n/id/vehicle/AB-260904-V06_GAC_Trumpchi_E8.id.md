@@ -20,7 +20,7 @@ Untuk seorang eksportir MPV pertanyaan adalah geometri kabin dan arsitektur kurs
 | Tubuh | Mid- size MPV |
 | Panjang lebar tinggi | **4920 1900 1760 mm** |
 | Dasar Wheelbase | **2930 mm** |
-| Tata letak tempat duduk | 2+2+3, tujuh kursi * ♪ |
+| Tata letak tempat duduk | 2+2+3, tujuh kursi *  |
 | Platform | GAC Global Platform Arsitektur Modular (GPMA 3.0 L); baja berkekuatan tinggi sekitar 75% (sumber tunggal) |
 | Berat kudis | 2175 kg |
 | Tangki bahan bakar | 50 L |
@@ -99,7 +99,7 @@ Berapa kursi? 2+2+3 seven- kursi MPV pada sebuah pangkalan roda 2930 mm.
 | GB 18384 kebutuhan keamanan kendaraan listrik (GB 18384-2025) | Standar nasional SAMR platform penuh teks | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | TERBATAI | Listrik kendaraan kebutuhan keselamatan listrik fungsional |
 | GB 18352.6-2016 dengan Amandemen XG1-2026 (Cina - 6 cahaya kendaraan emisi polutan) | Kementerian Ekologi dan Lingkungan (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | TERBATAI | Cina - 6 ringkas emisi tahap dan 2026 tanggal implementasi Amandemen |
 
-* Catatan kepercayaan: Halaman OEM ditangkap; rasio baja platform dan V2L/V2V angka adalah sumber tunggal. PHIV dan HEV Glory sengaja dipisahkan; referensi pasar Cinese- saja. ♪
+* Catatan kepercayaan: OEM halaman ditangkap; rasio baja platform dan V2L/V2V angka adalah tunggal-sumber. PHEV dan HEV Glory sengaja dipisahkan; referensi pasar Cinese- saja. ♪
 
 ## Editorial Review
 - ** Penulis **: Tim Editorial Expor AutoBridge

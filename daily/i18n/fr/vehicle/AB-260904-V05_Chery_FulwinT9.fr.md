@@ -50,7 +50,7 @@ Pour un VÉHI, l'exportateur fixe **moteur, moteur, batterie et charge** ensembl
 Aucun prix à l'exportation n'est publié. La gamme de guidages chinois 2024 (environ RMB 129,900–169,900) est une référence nationale sensible au temps, non FOB/CIF**. Demande avec **Pays de destination · Quantité · Batterie/Tige de siège · LHD/RHD · Port de destination · Incoterm**.
 
 ## Foire aux questions
-**Le Fulwin T9 est-il le même que le T9L Non, c'est ça. le T9L est un véhicule à plus long terme (environ 4870 mm 2920 mm)  and  is excluded from this standard-T9 sheet.
+**Le Fulwin T9 est-il le même que le T9L Non, c'est ça. le T9L est un véhicule à plus long terme (environ 4870 mm 2920 mm)  et est exclu de la présente norme-T9 sheet.
 **Quelle batterie utilise la longue portée T9?** Un pack 32.66 kWh pour les versions documentées à longue portée,  with 120–220 km CLTC electric range depending on trim.
 **La plage 1400 km est-elle mesurée?** Il s'agit d'un chiffre combiné WLTC, revendiqué par le fabricant; présentez-le comme une revendication d'usine, et non comme un résultat d'essai.
 ** Cinq ou sept sièges?** Les deux sont proposés; spécifiez sur la commande et correspondent au VIN.

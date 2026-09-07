@@ -32,7 +32,7 @@ A PHEV carries **two** range numbers that buyers conflate: **電気だけの範�
 パラメーターサイトリスト 55 と 120 行が、インポート ャを untangle サイクルとモードに残します。 推奨方法は、**VINレベルのノート結合モーター出力、バッテリーkWh、電気範囲サイクル、充電機能が一体化されている**、DC高速充電が急流するグレードのフラグ付け(小型バッテリー車上の一般的な注文エラー)、電気対複合範囲を別々に固定するので、EV範囲であった場合、その組み合わせた番号にPHEVが広告されることはありません。
 ## お支払い前
 - フィックス ** 55か120 **,  with matching motor (132/145 kW)  and  battery (8.32/18.32 kWh) on the VIN build sheet.
-- 電動レンジ**サイクルを録音**(NEDC対WLTC)  and  obtain destination-certified PHEV range/CO₂ where tax or incentives depend on it.
+- 電動レンジ**サイクルを録音**(NEDC対WLTC)  and  obtain destination-certified PHEV range/CO₂ 税金やインセンティブがそれに依存する場所.
 - コネクターおよびAC/DC機能の確認**等級によって**;GB/Tは先のソケットに一致しません。
 - ステアリング側、中国外でインフォテイメント言語/OTA、エンジン**と**バッテリー**と**モーターをカバーする保証を確認します。
 - 宛先の PHEV 分類を検証 — EV と異なる。

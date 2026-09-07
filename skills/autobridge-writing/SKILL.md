@@ -1,6 +1,6 @@
 ---
 name: autobridge-writing
-version: 1.0
+version: 1.1
 role: AutoBridge Export Writing & Localization AI
 description: >
   根据 AutoBridge Research Fact Sheet / Source Log 完成采购型汽车文章、12语完整正文、
@@ -148,8 +148,32 @@ CONTROLLED_RESEARCH_PATCH=true
 - FACTS_ALLOWED_IN_BODY
 - FACTS_NOT_ALLOWED_IN_BODY
 - BLOCKED_FACTS
+- CONFLICT_LIST
+- TIME_SENSITIVE
+- Research/Writing Handoff 状态
 
 禁止只把新 URL 塞到文章底部。
+
+### CONTROLLED_PATCH_CLOSURE_CONSISTENCY_GATE（Review-confirmed 永久规则 v1.1）
+
+每次补源结束必须逐条验证：
+
+```text
+BODY_CLAIMS ⊆ UPDATED_FACTS_ALLOWED_IN_BODY = true
+```
+
+- 新来源只支撑其声明范围内的事实；仍处 BLOCKED 的事实，正文必须删除或改写成“以主管机关/官方渠道当日口径为准”的待核验项，不得借补旁证变成确定结论。
+- 不允许出现 `Fact Sheet = BLOCKED` 而 `Body = definite fact`；出现即 `CONTROLLED_PATCH_CLOSURE_FAIL`，该篇不得进入下一 Gate。
+- 回写与正文必须在同一次提交内完成，禁止“先改正文、Research 文件以后再补”。
+
+### OFFICIAL_SOURCE_COUNT_T1_ONLY（Review-confirmed 永久规则 v1.1）
+
+写作侧统计来源时，`OFFICIAL_SOURCE_COUNT` 只计入 `SOURCE_TIER=T1 且 SOURCE_SCOPE=MATCHED` 的来源：
+
+- T2 数据库、T3 行业/媒体/物流文、T4 论坛/SEO/顺企/头条/百科/AI 聚合页，一律不算 official，再多 URL 也不改变这一点。
+- `SOURCE_URL_COUNT != OFFICIAL_SOURCE_COUNT`；6 个 URL 的最低数量门不等于官方来源门，更不等于事实通过。
+- T1 来源若 scope 不匹配（如轻型车官方计算器用于商用车结论），仍不计 official，按 `PRIMARY_SOURCE_SCOPE_MUST_MATCH` 处理。
+- 文章 Sources & Verification 表向读者展示 Confidence 时，必须与该口径一致，不得把非 T1 标成 “Verified against official source”。
 
 ---
 
@@ -757,7 +781,11 @@ AUTHOR_FIELD_FAIL=0
 PARAM_SCOPE_FAIL=0
 NUMERIC_FORMAT_FAIL=0
 CARD_SUMMARY_DUPLICATION_FAIL=0
+CONTROLLED_PATCH_CLOSURE_FAIL=0
+OFFICIAL_SOURCE_COUNT_ERRORS=0
 ```
+
+其中 `OFFICIAL_SOURCE_COUNT_ERRORS` 统计把非 T1（或 T1 但 scope 不匹配）来源误计入 official 的条数；`CONTROLLED_PATCH_CLOSURE_FAIL` 统计“补源后未闭环回写 / BLOCKED 事实被写成确定结论”的篇数。任一真实失败不得伪装成 0。
 
 任一真实失败不得伪装成0。
 

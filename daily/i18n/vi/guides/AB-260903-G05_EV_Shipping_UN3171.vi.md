@@ -84,7 +84,7 @@ Số Liên hợp quốc nào là một chiếc xe điện li-ti-on được chuy
 | Những hàng hóa nguy hiểm trên Trung Quốc–UAE Đường 2026: kiểm tra đặt sổ sách IMDG | Thẩm phán trên khắp thế giới Tới | CN–UAE lộ trình | https://www.topwayshipping.com/dangerous-goods-on-china-uae-routes-2026-imdg-compliance-checklist-before-you-load/ | 2026-09-05 | SINGLE_SOURCE | Bộ lọc/ phát âm lịch sử; ứng dụng đặc trưng cho hệ thống SOC/documenation (có tính năng, không phổ biến) |
 | Xuất các tài liệu Lithium (UN38.3/SDS/packaging cert) | Tin của Đinh Châu | CN | https://www.dzxww.cn/article/293251787800392.shtml | 2026-09-03 | SINGLE_SOURCE | UN38.3 tế bào+pack, SDS, bối cảnh chứng nhận lỏng lẻo |
 | Nguy cơ xuất khẩu năng lượng mới (luật 2025 li-ti) | Sohu đồng ý phân tích | CN | https://m.sohu.com/a/1025837015_100159475/ | 2026-09-03 | SINGLE_SOURCE | Yêu cầu giao thông li-ti-ti-ti-a (cấu nguồn điện; xác nhận văn bản chính thức) |
-*Scope: sửa đổi hiện tại, UN3556/3557/3558 chia và SP961/SP962 được đặt vào ấn phẩm IMO và 42-24 mẫu vật/DG; nhà sản xuất mức độ SOC, được chấp nhận và bên Trung Quốc áp dụng quy tắc cụ thể và thời gian - xác nhận các điều khoản hiện tại của nhà xuất bản và văn bản chính thức cho mỗi việc đặt sách. ♪
+*Scope: sửa đổi hiện tại, UN3556/3557/3558 chia và SP961/SP962 được đặt vào ấn phẩm IMO và 42-24 mẫu vật/DG; nhà sản xuất mức độ SOC, được chấp nhận và bên Trung Quốc áp dụng quy tắc cụ thể và thời gian - xác nhận các điều khoản hiện tại của nhà xuất bản và văn bản chính thức cho mỗi việc đặt sách. 
 ## Xem lại tập tin
 - **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
 - **Last xem lại**: 2026-09-05

@@ -19,8 +19,9 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "中国出口申报"
+   "official_source": true,
+   "source_scope": "中国出口申报",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "海关总署令第277号（国务院公报）",
@@ -35,8 +36,9 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "中国出口申报"
+   "official_source": true,
+   "source_scope": "中国出口申报",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "进出口货物申报指南（单一窗口录入与登录）",
@@ -52,8 +54,9 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "操作流程"
+   "official_source": true,
+   "source_scope": "操作流程",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "出口大型货物手续流程（申报-缴税-放行）",
@@ -69,8 +72,9 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "出口通关"
+   "official_source": true,
+   "source_scope": "出口通关",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "WCO — Customs procedures and facilitation (Single Window / Coordinated Border Management)",
@@ -86,8 +90,9 @@
    ],
    "checked_date": "2026-09-06",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "International single-window and coordinated border-management framework that national declaration portals implement"
+   "official_source": true,
+   "source_scope": "International single-window and coordinated border-management framework that national declaration portals implement",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "WTO Trade Facilitation Agreement (Article 10.4 Single Window)",
@@ -103,8 +108,9 @@
    ],
    "checked_date": "2026-09-06",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "TFA Article 10.4 obliges members to enable traders to submit import/export documentation through a single window"
+   "official_source": true,
+   "source_scope": "TFA Article 10.4 obliges members to enable traders to submit import/export documentation through a single window",
+   "scope_match": "MATCHED"
   }
  ],
  "source_integrity_note": "政府/监管/贸促会源按实际主体与URL标注；T4 SEO仅作线索并显式UNVERIFIED，未冒充官方。",
@@ -113,5 +119,6 @@
   "added_by": "Writing AI (pre-publication repair)",
   "sources_added": 6,
   "note": "Distinct primary/international organizations added 2026-09-06; all URLs HTTP-200 verified; parent-org normalization applied; no weak filler."
- }
+ },
+ "t1_only_recomputed_on": "2026-09-07"
 }

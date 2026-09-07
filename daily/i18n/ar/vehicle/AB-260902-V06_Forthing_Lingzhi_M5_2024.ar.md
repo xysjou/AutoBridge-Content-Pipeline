@@ -13,7 +13,7 @@
 
 ## دور المركبات
 
-The Lingzhi M5 is a **utilitarian front-wheel-drive van commercial MPV** built for people-moving and light multi-use duty rather than instalment comfort. وهو يهم المستوردين، ومشغلي المكوك، والملاك الصغار الذين يحتاجون إلى مقاعد كثيرة، وصندوق كبير بتكلفة منخفضة للاقتناء. The reference line is the **2024 M5L 1.5T 舒适型 9-seater (REFERENCE MARKET: الصين**؛ وتوجد أيضا نسخة أقصر من المادة M5 وصيغة " سي إن جي " (غاز طبيعي مكتظ)**. فالشيء (دونغفنغ ليوزو) يبيع بالفعل في بعض أسواق التنمية البشرية في تايلند، مثل تايلند، تحت ملصقات أخرى (مثلاً، V9) ولكن هذه منتجات مختلفة - يجب أن تؤكد لينجزي M5 من المواصفات التصديرية لكل مقصد، ولا تستخلص من الخط الصيني أو من شاحنات فورينغ الأخرى في الخارج.
+The Lingzhi M5 هو **شاحنات العجلات الأمامية** مبنية لواجبات الحركة الشعبية والضئية المتعددة الاستخدامات بدلا من راحة الأقساط. وهو يهم المستوردين، ومشغلي المكوك، والملاك الصغار الذين يحتاجون إلى مقاعد كثيرة، وصندوق كبير بتكلفة منخفضة للاقتناء. الخط المرجعي هو **2024 M5L 1.5T 舒适型 9-seater (REFERENCE MARKET: الصين**؛ وتوجد أيضا نسخة أقصر من المادة M5 وصيغة " سي إن جي " (غاز طبيعي مكتظ)**. فالشيء (دونغفنغ ليوزو) يبيع بالفعل في بعض أسواق التنمية البشرية في تايلند، مثل تايلند، تحت ملصقات أخرى (مثلاً، V9) ولكن هذه منتجات مختلفة - يجب أن تؤكد لينجزي M5 من المواصفات التصديرية لكل مقصد، ولا تستخلص من الخط الصيني أو من شاحنات فورينغ الأخرى في الخارج.
 
 ## حجم الجسم وعجلات
 
@@ -47,7 +47,7 @@ The Lingzhi M5 is a **utilitarian front-wheel-drive van commercial MPV** built f
 
 ## China Reference vs Export Reality
 
-- والوحدات الصينية هي: **LHD، يدويا، صينيا**. Confirm whether a factory RHD or an export-specific Lingzhi M5 exists for the destination rather than assuming conversion.
+-الوحدات الصينية LHD، يدوي، صينية التأكد مما إذا كان المصنع RHD أو M5 Lingzhi للصادرات موجود للمقصد بدلا من افتراض التحويل.
 - التحقق من صحة قواعد المقصد و الوقود و الـ (CNG) و السيارة تحتاج إلى شهادة وقود و مُعترفة بـ (غاز) و معايير إعادة الوقود
 - دعم قطع الغيار الهضمي لشاحنة تجارية يدوية، بالإضافة إلى الضمان (مراجع الصين: خمس 100,000 km - التغطية المحلية، والاعتماد على الموزع في الخارج).
 - تحققي مما إذا كانت الوجهة تعامل 9-seater كمركبة صغيرة تتطلب ترخيصا إضافيا من السائقين/المشغلين.
@@ -70,9 +70,9 @@ The Lingzhi M5 is a **utilitarian front-wheel-drive van commercial MPV** built f
 
 **Does the Lingzhi M5 come with an automatic gearbox?** In the captured 2024 China range,  no — the 1.5T is 6-speed manual  and  The 1.6 CNG is 5-speed manual.
 **How many seats can it have?** The long M5L offers 7 or 9 seats; ويقدم الـ M5 القصير 5/7/8 - يؤكد المخطط الدقيق.
-** ما هي نسخة المؤتمر الوطني المعني بالإحصاءات؟** ويدير الغاز الطبيعي المضغوط لخفض تكلفة الوقود حيث يُستخدم البنى التحتية للشبكة  and  وجود شهادة  but at 75 kW it is much less powerful than the 140 kW 1.5T.
+** ما هو CNG نسخة؟ انها تعمل على الغاز الطبيعي المضغوط انخفاض تكلفة الوقود الهياكل الأساسية هناك شهادة ولكن في 75 kW هو أقل بكثير أقوى من 140 KW 1.5T.
 **What is the wheelbase difference?** 3000 mm (M5L long) versus 2800 mm (M5 short).
-** هل باع في محرك اليد اليمنى؟ ** Forthing sells other products in some RHD markets, but an RHD Lingzhi M5 must be confirmed for the specific destination rather than assumed.
+** محرك اليد اليمنى؟ منتجات أخرى في بعض RHD الأسواق، لكن RHD Lingzhi يجب تأكيد M5 للمقصد المحدد بدلا من الافتراض.
 
 ## سجل الصور
 - لم يُؤمن أي منها في مستودع
@@ -114,7 +114,7 @@ The Lingzhi M5 is a **utilitarian front-wheel-drive van commercial MPV** built f
 | GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, State Administration for Market Regulation | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | مفقود | الشروط التقنية المتعلقة بسلامة المركبات في الصين والإطار الزمني |
 | 18352.6-2016 GB مع التعديل XG1-2026 (الصين - 6 من انبعاثات ملوثات المركبات الخفيفة) | Ministry of Ecology and Environment (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | مفقود | الصين - 6 مرحلة انبعاثات المركبات الخفيفة ومواعيد تنفيذ التعديل البالغ 2026 |
 
-* ملاحظة مُناسبة (معيار (أوتوبريدج): مُنقَط على صفحة (فورينغ) الرسمية، 1.5T/CNG مُتجرّد طاقة هي (كروس - CHECKED)... بالطبع ولم يكن حجم في قاعدة الوقائع، بل ترك للصحيفة الرسمية؛ ولم يتم تأكيد المواصفات على أساس الصحة الإنجابية. ♪
+* ملاحظة مُناسبة (معيار (أوتوبريدج): مُنقَط على صفحة (فورينغ) الرسمية، 1.5T/CNG مُتجرّد طاقة هي (كروس - CHECKED)... بالطبع ولم يكن حجم في قاعدة الوقائع، بل ترك للصحيفة الرسمية؛ ولم يتم تأكيد المواصفات على أساس الصحة الإنجابية. 
 
 ## استعراض التحرير
 - ** [فريق تحرير تصدير أوتو بريدج] (/مؤلف/) - طريقة لكل [سياستنا الانتخابية]

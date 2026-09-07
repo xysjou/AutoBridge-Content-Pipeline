@@ -13,7 +13,7 @@
 
 ## RHD Là một câu hỏi có thể giải quyết được, không phải là một câu hỏi về sửa chữa
 
-Trong thị trường lái xe thuận tay phải (Anh, Úc, New Zealand, Thái Lan, Malaysia, Indonesia, Nam Phi, Hồng Kông, và những nơi khác), mua một chiếc xe hơi thuận tay trái và chuyển đổi nó thường là bất hợp pháp cho việc đăng ký đường bộ, tốn kém và cấu trúc bị ảnh hưởng (hình học, bảng điều khiển, đèn xe, đèn chiếu sáng, bố trí phanh và hệ thống an toàn đều được thiết kế cho một mặt lái xe). Vì vậy, câu hỏi thu hẹp về việc mua sắm: ** Có phải thương hiệu này xây dựng một nhà máy RHD biến thể chính xác của mô hình chính xác, và nó có thể được phân phát cho thị trường của tôi? ♪ ♪
+Trong thị trường lái xe thuận tay phải (Anh, Úc, New Zealand, Thái Lan, Malaysia, Indonesia, Nam Phi, Hồng Kông, và những thị trường khác), mua một chiếc xe thuận tay trái của Trung Quốc và chuyển đổi nó thường là bất hợp pháp cho việc đăng ký đường bộ, tốn kém và cấu trúc bị ảnh hưởng (hình học kỹ thuật, bảng điều khiển, công viên quét, đèn chiếu sáng, bố trí phanh và hệ thống an toàn đều được thiết kế cho một mặt lái xe). Câu hỏi chính xác là: thương hiệu này có xây dựng một nhà máy chính xác RHD biến thể của chính xác mô hình, và nó có thể được phân phát cho thị trường của tôi không?
 
 ## Các dấu hiệu với chương trình RHD kỹ thuật (raples — Kiểm tra trước khi ra lệnh)
 
@@ -26,7 +26,7 @@ Dưới đây là một bức ảnh chụp các đề nghị của nhà máy RHD
 | GWM Haval ARA | Haval H6, Jolion, ASA 03, Tank 300 (phố được bầu) | Úc, Nam Phi, Thái Lan, Anh Quốc, Kenya | Nguồn kỹ thuật — Xác minh |
 | Geely Zeekr | Geely EX5 báo cáo được thiết kế song song với đường LHD/RHD từ phát triển; một số mô hình RHD của Geely/Zeekr | Anh Quốc, Ireland, Úc, New Zealand, Malaysia, Hồng Kông | Nguồn kỹ thuật — Xác minh |
 | Hồng Kỳ | Động cơ đẩy mới của RHD qua 2026; Hong Kong experience centre reported from July 2026 | Anh, Úc, New Zealand, Singapore, Thái Lan, Malaysia, Indonesia | Phương tiện/grime — Xác minh |
-| Phong Phong làm việc | ** Xác nhận một cách chính thức**: entered Thailand March 2026 with RHD NEV SUV "FRIDAY"  and  V9 xây dựng cho thị trường RHD | Thái Lan | **Sự phản kháng* (Dong Phong)* ♪ |
+| Phong Phong làm việc | ** Xác nhận một cách chính thức**: entered Thailand March 2026 with RHD NEV SUV "FRIDAY"  and  V9 xây dựng cho thị trường RHD | Thái Lan | **Sự phản kháng* (Dong Phong)*  |
 | Changan Quyan (như là NVO) | Q05 shown as NEVO Q05 at the March 2026 Bangkok motor show (Thai RHD prospect) | Thái Lan | Phương tiện — Xác nhận |
 
 Hãy chú ý rằng mô hình ** Tên khác nhau giữa Trung Quốc và xuất khẩu thị trường** (v.g., Yuan Plus to 3); phù hợp với nền tảng/ViIN, không phải với tên thị trường Trung Quốc. Gần như ** 35% thị trường xe hơi toàn cầu** mỗi ngành công nghiệp ước tính — một con số theo ngữ cảnh, chứ không phải dự báo nhu cầu cho bất cứ mô hình cụ thể nào.
@@ -99,7 +99,7 @@ Những người bán xác nhận là có thể sử dụng RHD mà không phân
 | Changan NVO Q05 Show ra mắt Bangkok | Tự động  车家号 (media) | TH | https://chejiahao.m.autohome.com.cn/pingan/chejiahao/detailinfo/25092921 | 2026-09-02 | ĐÃ_ ĐÃ | OVO Q05 Triển vọng RHD Thái Lan (media; xác minh) |
 | Chiến lược của Hồng Kỳ RHD/ RHD | smzdm (gritor); AutoReport (ndry) | Thị trường RHD | https: https://m.autoreport.cn/guoji/20260829/19112676566.html | 2026-09-02 | ĐÃ_ ĐÃ | Hồng Kỳ RHD đẩy; ~ 35% phiên chợ toàn cầu tại RHD | https://post.m.smzdm.com/p/aqrp0mkp/
 
-*BIDidence (Chính sách tự động Bridge: chỉ có sự khởi động của Dong Phong Phong là VERFIEED (chính thức của nhân viên sản xuất). Danh sách mẫu được xuất khẩu các hình ảnh/gli (SINGLE_SOURCE) mà thay đổi thường xuyên và phải được xác nhận trên các kênh phân phối chính thức trên VIN. Sau khi cải đạo thị trường, việc hợp pháp hóa không được xác nhận và được đánh dấu là mối nguy hiểm. ♪
+Ghi chú tự động (tự động Bridge tiêu chuẩn): chỉ có Dongfeng của Thái Lan RHD là VERFIED (chính thức của nhà sản xuất). Danh sách mô hình nhãn là hình ảnh xuất khẩu dịch vụ/ y tế (SINGLE_SOURCE) mà thay đổi thường xuyên và phải được xác nhận trên kênh phân phối chính thức của thương hiệu/local-ditric. Sau khi cải đạo thị trường không được xác nhận là có rủi ro. *
 
 ## Xem lại tập tin
 - **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)

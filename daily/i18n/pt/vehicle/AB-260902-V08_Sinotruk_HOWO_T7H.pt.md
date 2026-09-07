@@ -13,7 +13,7 @@
 
 ## O que é o T7H
 
-O HOWO T7H é um dos principais motores de Sinotruk (CNHTC) **pesos cabeças de trator (牵引车)**, vendido amplamente ao Médio Oriente, África  and  Regiões de língua russa. The reference China unit is the **460 PS 6×4 AMT, anúncio ZZ4257V324HE1B **,  but the T7H name covers 440/460/500/540 PS ratings, ** duas famílias de motores**, diesel  and  ** GNL**,  and  4 × 2/6 × 4 disposições — por isso, uma ordem deve nomear a marca do motor, poder, Nível de emissão  and  Conduzam juntos. Os canais oficiais internacionais de Sinotruk confirmam os motores MC de tecnologia MAN para exportação; Os números detalhados do anúncio da China a seguir são de (fonte única, onde indicado). 360che
+O HOWO T7H é um dos principais motores de Sinotruk (CNHTC) **pesos cabeças de trator (牵引车)**, vendido amplamente ao Médio Oriente, África  and  Regiões de língua russa. A unidade de referência China é a **460 PS 6×4 AMT, anúncio ZZ4257V324HE1B **,  but the T7H name covers 440/460/500/540 PS ratings, ** duas famílias de motores**, diesel  and  ** GNL**,  and  4 × 2/6 × 4 disposições — por isso, uma ordem deve chamar a marca do motor, poder, Nível de emissão  and  Conduzam juntos. Os canais oficiais internacionais de Sinotruk confirmam os motores MC de tecnologia MAN para exportação; Os númais detalhados fazem umúncio da China a seguir são de (fonte única, onde indicado). 360che
 
 ## Construção de referência: 460 PS 6 × 4 (China)
 

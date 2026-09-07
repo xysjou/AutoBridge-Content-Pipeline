@@ -61,7 +61,7 @@ Một trong những chỉ thị gian lận rõ ràng nhất là tên tài khoả
 - Thích những công cụ thanh toán tương ứng với rủi ro (xem hướng dẫn T/ T vs L/C); tránh trả trước đầy đủ cho một thực thể chưa được chứng minh.
 
 ## Tự độngBridge thêm gì ngoài một hình ảnh về kinh doanh
-Chụp quét bằng lái chứng minh rằng công ty tồn tại, chứ không phải xuất khẩu xe của bạn. Hướng dẫn này khuyên nên kiểm tra sự tương tác với danh sách các chức năng của năm nay của MOFCOM** (2026 ứng dụng dưới 商办贸函  2025  nghiêng 408 号) pure-EV passenger licensing from 2026-01-01 under joint Announcement No. 54), tái tạo chuỗi quản lý bản quyền **brand- rebration đến OEM**, và chạy một họ **contract/inract/invot/bank-c Count ♪ trước khi gửi tiền — ba kiểm tra phân biệt người xuất khẩu có thẩm quyền với vỏ buôn bán.
+Bản quét bằng lái chứng minh là có công ty, chứ không phải xuất khẩu xe của bạn. Sách hướng dẫn này khuyên nên kiểm tra sự tương ứng với danh sách đủ tiêu chuẩn năm nay MOFCOM (2026 ứng dụng dưới 商办贸函, 2025 408 号; tinh khiết hóa giấy phép hành khách từ 2026-01-01 theo thông báo số chung. 54), tái tạo lại chuỗi hiệu lực của OEM, và chạy một hợp đồng/tỉ lệ danh sách / ngân hàng trước khi gửi tiền — ba ngân phiếu phân biệt người xuất khẩu có thẩm quyền với vỏ thị trường.
 ## Một chuỗi tám bước thực tế
 
 1. Lấy hồ sơ kinh doanh gsxt một cách độc lập.
@@ -127,7 +127,7 @@ Cái gì chứng minh một nhà cung cấp xuất khẩu? (Tiếng 3-month) xu�
 | Comment | (顺企网, ngành công nghiệp) | CN | https://m.11467.com/blog/d18906274.htm | 2026-09-02 | ĐÃ_ ĐÃ | Tối thiểu nghe phim trực tiếp, kiểm tra chéo khai báo | 11467
 | Thủ tục xuất khẩu xe tải nội địa | Thương mại Quảng Châu | CN | https://guangzhou053049.11467.com/m/news/15260806.asp | 2026-09-02 | ĐÃ_ ĐÃ | Xuất qua thực thể có khả năng, chuỗi cho phép | 11467
 
-*BIDidence ghi chú (tự động Bridge: các quy tắc chuyên môn dựa trên nguồn gốc MOFCOM/MIIT chính (VERIED), bây giờ gồm 2026 thông báo ứng dụng (商办贸函  2025 408 号) và Information No. 54 trên giấy phép xuất khẩu phi hành khách thuần túy. Danh sách các khả năng trong năm hiện tại và các yêu cầu AAO rất năng động và cần phải được kiểm tra trực tiếp; các mục kiểm tra hoạt động được cung cấp từ công nghiệp và chỉ trở lại hệ thống chính thức. ♪
+*BIDidence ghi chú (tự động Bridge tiêu chuẩn): quy tắc có thẩm quyền nằm trên những nguồn chính MOFCOM / MIIT, hiện nay gồm 2026 thông báo ứng dụng (商办贸函  2025 408 号). 54 đơn vị xuất bản bản. Danh sách đủ tiêu chuẩn trong năm nay và AEO truy vấn rất năng động và cần phải được kiểm tra trực tiếp; các mục kiểm tra hoạt động là nguồn cung cấp công nghiệp và chỉ trở lại hệ thống chính thức. *
 
 ## Xem lại tập tin
 - **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)

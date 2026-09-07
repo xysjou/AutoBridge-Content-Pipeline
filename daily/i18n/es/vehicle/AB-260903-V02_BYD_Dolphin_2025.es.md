@@ -44,7 +44,7 @@ The 420/520 km figures are **China CLTC**. Siempre cito el ciclo junto al númer
 2. ** Ciclo de borde** etiquetado CLTC; destino WLTP/NEDC tomado sólo de la hoja de destino.
 3. **GB/T vs destination connector**, AC/DC provision and any adapter legality.
 4. ** Lista de características de DiPilot** para el grado exacto; **Idioma/OTA** probado en el VIN.
-5. **EV shipping paperwork** — UN38.3 MSDS plus the ocean dangerous-goods classification, under IMDG Amendment 42-24 (mandatory from 2026-01-01) a lithium-ion-battery-powered vehicle is classified UN3556, not the legacy generic UN3171; aplique documentación/SOC details per the current EV shipping Fact Sheet and the transport (see the EV ocean-compliance guide).
+5. EV papeleo de envío — UN38.3 / MSDS más la clasificación de bienes peligrosos del océano,menores de IMDG Enmienda 42-24 (mandatorio de 2026-01-01) un vehículo propulsado por litio-ión-batería está clasificado UN3556,no el legado genérico UN3171;aplicar documentación/ SOC detalles por la hoja de datos de envío EV actual y el transportista (ver la guía de cumplimiento del océano EV).
 
 ## Solicitar una calificación de exportación actual
 No se publica ningún precio de exportación estático. La RMB 99, 800 China figura de inicio es una referencia **doméstica, sensible al tiempo, no un precio FOB/CIF**. Consulta con **Destinación País · Cantidad · Grado (batería/motor) · LHD/RHD · Puerto de destino · Incoterm**.

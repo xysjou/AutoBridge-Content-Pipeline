@@ -4,7 +4,7 @@
 - ** Seo Judul **: Kendaraan Ekspor HS Kode Panduan Klasifikasi - 8701/8702/8703/8704/8705/8716
 - ** Meta Description **: Bagaimana eksportir Cina menetapkan HS yang benar menuju traktor, mobil penumpang, bus, kendaraan barang, kendaraan khusus dan trailer di bawah 2026 Impor dan Expor Tariff sebelum membahas tugas atau sertifikasi.
 - ** Sugested URL **: guide kendaraan -export -hs-code- klasifikasi
-- ♪ ♪ H1 HS Heading yang mana kendaraanku? Sebuah Paduan Rahasia Sisi Dibangun pada 2026 Tariff
+-   H1 HS Heading yang mana kendaraanku? Sebuah Paduan Rahasia Sisi Dibangun pada 2026 Tariff
 - ** Primary Keyword **: ekspor kendaraan kode klasifikasi 8702 8703 8704 8705
 - ** Penelusuran Second Terms **: 8701 traktor HS, 8703 kendaraan penumpang HS, 8704 kendaraan barang, 8705 kendaraan tujuan khusus, 8716 trailer HS, 2026 China impor tarif bab 87
 - ** Internal Link Sugestions **: guide china -export -certicate-of -of-native kendaraan dongfeng--tianlong- kl kendaraan dongfeng--tianjin-kr
@@ -17,7 +17,7 @@ Tariff, sertifikasi, inspeksi dan dokumentasi semua menggantung kode HS - namun 
 ## Heading Motor- Kendaraan dan Kepala Trailer
 | Tajuk | Apa yang meliputi (2026 tariff menuju kerangka kerja) | Produk AutoBridge Khas |
 |---|---|---|
-| **87.01** | Traktor (selain traktor menuju 87.09), termasuk traktor semi-trailer * ♪ | Kepala traktor tipe Tianlong KL-@@ |
+| **87.01** | Traktor (selain traktor menuju 87.09), termasuk traktor semi-trailer *  | Kepala traktor tipe Tianlong KL-@@ |
 | **87.02** | Kendaraan motor untuk ** 10+ orang ** (bus pelatih), termasuk subheading listrik hybrid | bus kota, pelatih |
 | **87.03** | Kendaraan motor ** terutama untuk orang, 9 kursi ** - bar, SUV, MPVs, hibrida dan mobil penumpang listrik | BYD Cheery GWM mobil penumpang |
 | **87.04** | ** Kendaraan Goods ** (termasuk kendaraan kargo listrik; kargo roda tiga di bawah 8704.6000) | Truk ringan Shunda, van kargo |
@@ -35,7 +35,7 @@ Panduan Bea Cukai membedakan roda listrik dengan penggunaan dan identifikasi: a 
 1. *** Negara menggunakan ** (traksi peoples barang fungsi khusus non-powered trailer) - ini memilih pos.
 2. **Count seats** for passenger vehicles (≤9 → 87.03; 10+ £87.02); pelacak identitas dibawah 87.01.
 3. ** Tractor terpisah dari trailer **: Kepala traktor 87.01 dan 8716 semi- trailer diklasifikasikan secara independen.
-4. ** Drill to the current ten- digit national subheading ** 2026 tariff ** for the year of declaration.
+4. Bor untuk saat ini tendigit nasional subheading di 2026 tariff untuk tahun deklarasi.
 5. ** Hanya kemudian ** mendiskusikan sertifikat asal, inspeksi dan tujuan tariff; tidak pernah menjalankan satu "prosedur truk" di 87.01/87.04/87.05/8716.
 
 ## Apa yang Halaman Ini Dilakukan Secara sengaja Bukan Negara
@@ -88,7 +88,7 @@ Apa bedanya antara 87.04 dan 87.05? 87.04 membawa barang; 87.05 ada untuk melaku
 | Pengumuman GACC dalam melaksanakan Program penyesuaian kecepatan 2026 tariff | Administrasi Umum Bea Cukai Cina | CN | http://www.customs.gov.cn/customs/2025-12/31/article_2026010717460235831.html | 2026-09-04 | TERBATAI (primer) | 2026 dasar penegakan, peraturan tahunan-subheading |
 | 2026 Permohonan HS 87 heading | i5a6 Sistem permintaan HS | CN | https://www.i5a6.com/hsCategory/c17 | 2026-09-04 | _ BERDECAT | Tajuk navigasi |
 | Bea Cukai Q & A pada roda tiga listrik (8703.80 8704.60) | Rilis Bea Cukai (reposs) | CN | http://m.toutiao.com/group/7518145509672993315/ | 2026-09-04 | SINGLE _ SOURCE | Tiga - roda split, 8704.6000 |
-* Catatan Scope: dasar saat ini adalah 2026 tariff dan GACC yang menerapkan pengumuman; tabel lama 2018/2020 tidak lagi digunakan sebagai dasar utama. Tugas tujuan dan pemenggalan kepala sepuluh digit yang tepat di luar jangkauan dan harus diperiksa per tahun per negara per tariff. ♪
+* Catatan Scope: dasar saat ini adalah 2026 tariff dan yang GACC mengimplementasikan pengumuman; tabel lama 2018/2020 tidak lagi digunakan sebagai dasar utama. Tugas tujuan dan sepuluh digit yang tepat subheading di luar lingkup dan harus diperiksa per negara / per tariff tahun. ♪
 
 | 进口汽车及零部件最惠国税率调整表 (含 8703 各子目官方名称) | 中国政府网 (国务院) | CN | https://www.gov.cn/zhengce/zhengceku/2018-12/31/5439526/files/62498c5520b84fc68a5960799fe12353.pdf | 2026-09-04 | TERBATAI | 870340 等子目官方归类名称 混合动力 排量座位分目 |
 | 海南零关税交通工具清单 (8702 客车电动 混动分目官方名称) | 国家税务总局 (北京市税务局) PDF | CN | http://beijing.chinatax.gov.cn/bjswj/sszc/zxwj/202012/cf5c916d2def4bd69f2a229bf60a35a3/files/d159fcb1991d48b8a2be4d2c90a7a717.pdf | 2026-09-04 | TERBATAI | 870230/870240 大中型 小型客车电动混动分目 |

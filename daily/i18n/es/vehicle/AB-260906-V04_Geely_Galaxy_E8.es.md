@@ -31,7 +31,7 @@ Fuentes chinas describen varios paquetes de batería de litio (aproximadamente 6
 
 ## Arquitectura de carga: 800V es la versión-dependiente
 
-Las versiones más altas utilizan una plataforma de alto voltaje de 800-volt que soporta una mayor capacidad de carga rápida de DC, mientras que la potencia de carga máxima precisa  and  10–80% time are not available from an official source here  and  son, por lo tanto **no declarados como valores fijos** — confirmenlos por trimestre. Para la exportación, el estándar de conexión y carga física (GB/T en China frente a CCS/otros estándares de destino) es una pregunta separada y decisiva que una hoja de exportación OEM debe responder.
+Las versiones más altas utilizan una plataforma de alto voltaje de 800-volt que soporta una mayor capacidad de carga rápida de DC, mientras que la potencia de carga máxima precisa  and  10–80% tiempo no está disponible de una fuente oficial aquí e hijo, por lo tanto **no declarados como valores fijos** — confirmenlos por trimestre. Para la exportación, el estándar de conexión y carga física (GB/T en China frente a CCS/otros estándares de destino) es una pregunta separada y decisiva que una hoja de exportación OEM debe responder.
 
 ## Software, OTA y la cabina
 

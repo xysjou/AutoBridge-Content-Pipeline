@@ -50,7 +50,7 @@ Biên nhận thay đổi ngoại hối được quản lý bởi Bộ Ngoại gi
 | Nguy hiểm | RMB loại bỏ khả năng FX so sánh sai đối với người bán nhưng không phải là người mua không trả tiền - cặp với bảng thanh toán và tiền tín dụng. |
 
 ## FAQ
-**Có thể một người xuất khẩu xe cộ Trung Quốc hợp pháp nhận RMB để xuất khẩu không? ♪ ♪**
+Người xuất khẩu xe cộ có thể hợp pháp nhận RMB để xuất khẩu không?
 
 Đúng vậy, việc buôn bán hàng hóa hợp pháp có thể được giải quyết ở RMB thông qua kênh RMB chéo thông qua một ngân hàng định cư có đủ điều kiện dưới khuôn khổ PBoC.
 

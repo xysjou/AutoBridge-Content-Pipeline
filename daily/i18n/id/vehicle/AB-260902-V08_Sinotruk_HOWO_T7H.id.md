@@ -106,7 +106,7 @@ Apa bedanya 460 dan 540 T7H? Di luar kekuasaan, mereka dapat menjadi keluarga me
 | GB 17691-2018 juta - tugas kendaraan diesel pencemaran emisi (China- VI) | Kementerian Ekologi dan Lingkungan (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | TERBATAI | China- VI kompresi- pengapian (berat diesel) tahap emisi untuk truk pelatih |
 | GB 19147 mobil yang diesel bahan bakar nasional standar (low-sulfur basis) | Standar nasional SAMR platform penuh teks | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | TERBATAI | Kelas bahan bakar Diesel dan sulfur dasar untuk mencocokkan desain mesin emisi di luar negeri |
 
-* Catatan kepercayaan diri (standar AutoBridge): MC11/MC13 ekspor mesin dan bobot yang terintegrasi di saluran-saluran resmi Sinotruk-; angka pengumuman rinci adalah SINGLE _ SOURCE. Harga tak terbantahkan dan diabaikan. Konfirmasi bahwa bangunan ekspor tepat pada lembar internasional Sinotruk. ♪ 360che
+* Catatan kepercayaan diri (standar AutoBridge): MC11/MC13 ekspor mesin dan bobot yang DIVERIFIED pada saluran Sinotruk -official; terinci 360che angka pengumuman adalah SINGLE _ SOURCE. Harga adalah UNVERIFIED dan diabaikan. Konfirmasi pembangunan ekspor tepat pada Sinotruk International sheet. ♪
 
 ## Editorial Review
 - *** Penulis Penilik **: [AutoBridge Ekspor Editorial Tim] penulis

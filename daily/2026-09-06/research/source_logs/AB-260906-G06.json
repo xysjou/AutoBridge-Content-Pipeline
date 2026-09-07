@@ -1,141 +1,149 @@
 {
-  "article_id": "AB-260906-G06",
-  "content_type": "PROCUREMENT_GUIDE",
-  "checked_date": "2026-09-06",
-  "source_log_version": "SL-v1-20260906",
-  "sources": [
-    {
-      "source_title": "进境货物木质包装检疫监督管理办法（IPPC专用标识、检疫要求，海关PDF）",
-      "organization": "中华人民共和国海关总署",
-      "url": "http://www.customs.gov.cn/customs/302249/zfxxgk/2799825/302274/302277/6354193/%E8%BF%9B%E5%A2%83%E8%B4%A7%E7%89%A9%E6%9C%A8%E8%B4%A8%E5%8C%85%E8%A3%85%E6%A3%80%E7%96%AB%E7%9B%91%E7%9D%A3%E7%AE%A1%E7%90%86%E5%8A%9E%E6%B3%95.pdf",
-      "domain": "www.customs.gov.cn",
-      "source_tier": "T1",
-      "source_type": "regulator",
-      "source_market": "CN",
-      "source_scope": "木质包装检疫",
-      "facts_supported": [
-        "IPPC标识",
-        "木质包装检疫"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "VERIFIED",
-      "official_source": "YES"
-    },
-    {
-      "source_title": "海关总署公告2025年第76号（出境竹木草企业注册，援引ISPM第15号标准）",
-      "organization": "中华人民共和国海关总署",
-      "url": "http://www.customs.gov.cn/customs/302249/zfxxgk/2799825/302274/302270/202511/6689010/index.html",
-      "domain": "www.customs.gov.cn",
-      "source_tier": "T1",
-      "source_type": "regulator",
-      "source_market": "CN",
-      "source_scope": "出境检疫监管",
-      "facts_supported": [
-        "出境木质包装",
-        "ISPM15",
-        "企业注册"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "VERIFIED",
-      "official_source": "YES"
-    },
-    {
-      "source_title": "IPPC标识与ISPM-15处理方式（HT热处理/MB熏蒸，行业解读交叉）",
-      "organization": "搜狐（行业解读）",
-      "url": "https://www.sohu.com/a/946195374_121124360",
-      "domain": "www.sohu.com",
-      "source_tier": "T3",
-      "source_type": "industry_explainer",
-      "source_market": "CN",
-      "source_scope": "",
-      "facts_supported": [
-        "HT/MB处理参数线索"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "CROSS_CHECKED",
-      "official_source": "NO"
-    },
-    {
-      "source_title": "ISPM 15:2009 Regulation of wood packaging material in international trade (official EN text)",
-      "organization": "IPPC / FAO",
-      "parent_organization": "FAO_IPPC",
-      "url": "https://www.ippc.int/static/media/files/publication/en/2016/03/ISPM_15_2009_En_2013-11-15_REV.pdf",
-      "domain": "www.ippc.int",
-      "source_tier": "T1",
-      "source_type": "international_standard",
-      "source_market": "INT",
-      "source_scope": "approved treatments and required mark components",
-      "facts_supported": [
-        "ippc_mark"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "VERIFIED",
-      "official_source": "YES",
-      "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH"
-    },
-    {
-      "source_title": "Guide to the regulation of wood packaging material",
-      "organization": "Food and Agriculture Organization (FAO)",
-      "parent_organization": "FAO_IPPC",
-      "url": "https://openknowledge.fao.org/server/api/core/bitstreams/c1d1e9c9-7f71-4c7e-ba51-2a909b0bb273/content",
-      "domain": "openknowledge.fao.org",
-      "source_tier": "T1",
-      "source_type": "international_org",
-      "source_market": "INT",
-      "source_scope": "plain-language guide to treatment and marking",
-      "facts_supported": [
-        "treatment_methods"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "VERIFIED",
-      "official_source": "YES",
-      "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH"
-    },
-    {
-      "source_title": "ISPMs — International Standards for Phytosanitary Measures",
-      "organization": "IPPC / FAO",
-      "parent_organization": "FAO_IPPC",
-      "url": "https://www.ippc.int/en/core-activities/standards-setting/ispms/",
-      "domain": "www.ippc.int",
-      "source_tier": "T1",
-      "source_type": "international_standard",
-      "source_market": "INT",
-      "source_scope": "current ISPM index; verify latest revision before shipment",
-      "facts_supported": [
-        "ippc_mark"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "VERIFIED",
-      "official_source": "YES",
-      "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH"
-    },
-    {
-      "source_title": "Wood Packaging Material (export program)",
-      "organization": "USDA APHIS",
-      "parent_organization": "USDA_APHIS",
-      "url": "https://www.aphis.usda.gov/import_export/plants/plant_exports/wpm/",
-      "domain": "www.aphis.usda.gov",
-      "source_tier": "T1",
-      "source_type": "government_nppo",
-      "source_market": "US",
-      "source_scope": "destination NPPO implementation example; country-specific",
-      "facts_supported": [
-        "treatment_methods"
-      ],
-      "checked_date": "2026-09-06",
-      "confidence": "CROSS_CHECKED",
-      "official_source": "YES",
-      "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH"
-    }
-  ],
-  "source_integrity_note": "目的国指南只采用主管机构官方域(itac/sars/nrcs/kra/kebs/customs.gov.ng/son)作T1并按真实SOURCE_MARKET标注；媒体/T4仅作背景或线索并显式降级，未冒充官方。",
-  "source_url_count": 7,
-  "source_org_count_normalized": 4,
-  "controlled_research_patch": {
-    "applied_by": "Writing AI",
-    "date": "2026-09-06",
-    "added_count": 4,
-    "final_url_count": 7,
-    "final_org_count_normalized": 4
+ "article_id": "AB-260906-G06",
+ "content_type": "PROCUREMENT_GUIDE",
+ "checked_date": "2026-09-06",
+ "source_log_version": "SL-v1-20260906",
+ "sources": [
+  {
+   "source_title": "进境货物木质包装检疫监督管理办法（IPPC专用标识、检疫要求，海关PDF）",
+   "organization": "中华人民共和国海关总署",
+   "url": "http://www.customs.gov.cn/customs/302249/zfxxgk/2799825/302274/302277/6354193/%E8%BF%9B%E5%A2%83%E8%B4%A7%E7%89%A9%E6%9C%A8%E8%B4%A8%E5%8C%85%E8%A3%85%E6%A3%80%E7%96%AB%E7%9B%91%E7%9D%A3%E7%AE%A1%E7%90%86%E5%8A%9E%E6%B3%95.pdf",
+   "domain": "www.customs.gov.cn",
+   "source_tier": "T1",
+   "source_type": "regulator",
+   "source_market": "CN",
+   "source_scope": "木质包装检疫",
+   "facts_supported": [
+    "IPPC标识",
+    "木质包装检疫"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": true,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "海关总署公告2025年第76号（出境竹木草企业注册，援引ISPM第15号标准）",
+   "organization": "中华人民共和国海关总署",
+   "url": "http://www.customs.gov.cn/customs/302249/zfxxgk/2799825/302274/302270/202511/6689010/index.html",
+   "domain": "www.customs.gov.cn",
+   "source_tier": "T1",
+   "source_type": "regulator",
+   "source_market": "CN",
+   "source_scope": "出境检疫监管",
+   "facts_supported": [
+    "出境木质包装",
+    "ISPM15",
+    "企业注册"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": true,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "IPPC标识与ISPM-15处理方式（HT热处理/MB熏蒸，行业解读交叉）",
+   "organization": "搜狐（行业解读）",
+   "url": "https://www.sohu.com/a/946195374_121124360",
+   "domain": "www.sohu.com",
+   "source_tier": "T3",
+   "source_type": "industry_explainer",
+   "source_market": "CN",
+   "source_scope": "",
+   "facts_supported": [
+    "HT/MB处理参数线索"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "CROSS_CHECKED",
+   "official_source": false,
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "ISPM 15:2009 Regulation of wood packaging material in international trade (official EN text)",
+   "organization": "IPPC / FAO",
+   "parent_organization": "FAO_IPPC",
+   "url": "https://www.ippc.int/static/media/files/publication/en/2016/03/ISPM_15_2009_En_2013-11-15_REV.pdf",
+   "domain": "www.ippc.int",
+   "source_tier": "T1",
+   "source_type": "international_standard",
+   "source_market": "INT",
+   "source_scope": "approved treatments and required mark components",
+   "facts_supported": [
+    "ippc_mark"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": true,
+   "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH",
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "Guide to the regulation of wood packaging material",
+   "organization": "Food and Agriculture Organization (FAO)",
+   "parent_organization": "FAO_IPPC",
+   "url": "https://openknowledge.fao.org/server/api/core/bitstreams/c1d1e9c9-7f71-4c7e-ba51-2a909b0bb273/content",
+   "domain": "openknowledge.fao.org",
+   "source_tier": "T1",
+   "source_type": "international_org",
+   "source_market": "INT",
+   "source_scope": "plain-language guide to treatment and marking",
+   "facts_supported": [
+    "treatment_methods"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": true,
+   "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH",
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "ISPMs — International Standards for Phytosanitary Measures",
+   "organization": "IPPC / FAO",
+   "parent_organization": "FAO_IPPC",
+   "url": "https://www.ippc.int/en/core-activities/standards-setting/ispms/",
+   "domain": "www.ippc.int",
+   "source_tier": "T1",
+   "source_type": "international_standard",
+   "source_market": "INT",
+   "source_scope": "current ISPM index; verify latest revision before shipment",
+   "facts_supported": [
+    "ippc_mark"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "VERIFIED",
+   "official_source": true,
+   "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH",
+   "scope_match": "MATCHED"
+  },
+  {
+   "source_title": "Wood Packaging Material (export program)",
+   "organization": "USDA APHIS",
+   "parent_organization": "USDA_APHIS",
+   "url": "https://www.aphis.usda.gov/import_export/plants/plant_exports/wpm/",
+   "domain": "www.aphis.usda.gov",
+   "source_tier": "T1",
+   "source_type": "government_nppo",
+   "source_market": "US",
+   "source_scope": "destination NPPO implementation example; country-specific",
+   "facts_supported": [
+    "treatment_methods"
+   ],
+   "checked_date": "2026-09-06",
+   "confidence": "CROSS_CHECKED",
+   "official_source": true,
+   "added_by": "WRITING_CONTROLLED_RESEARCH_PATCH",
+   "scope_match": "MATCHED"
   }
+ ],
+ "source_integrity_note": "目的国指南只采用主管机构官方域(itac/sars/nrcs/kra/kebs/customs.gov.ng/son)作T1并按真实SOURCE_MARKET标注；媒体/T4仅作背景或线索并显式降级，未冒充官方。",
+ "source_url_count": 7,
+ "source_org_count_normalized": 4,
+ "controlled_research_patch": {
+  "applied_by": "Writing AI",
+  "date": "2026-09-06",
+  "added_count": 4,
+  "final_url_count": 7,
+  "final_org_count_normalized": 4
+ },
+ "t1_only_recomputed_on": "2026-09-07"
 }

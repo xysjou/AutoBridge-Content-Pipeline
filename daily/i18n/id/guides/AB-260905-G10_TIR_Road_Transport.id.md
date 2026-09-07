@@ -3,7 +3,7 @@
 ## SEO Metadata
 - ** Judul SEO ** Transportasi Jalan TIR dari China ke Asia Tengah Eropa: Carnet, Pendekatan Kendaraan dan 2026 Ekspansi
 - ** Meta Description **: Cara kerja angkutan jalan internasional TIR untuk eksportir kendaraan suku cadang Cina: Carnet TIR, sertifikat persetujuan kendaraan, kompartemen tertutup beban, Garis waktu Cina  and  2026 lingkup ekspansi.
-- ♪ ♪ H1 **: TIR International Road Transport for China Exporters - Carnet, Vehicle Approval, 2026 Aturan
+-   H1 **: TIR International Road Transport untuk China Exporters - Carnet, Vehicle Approval, 2026 Aturan
 - ** Primary Keyword **: tir jalan transportasi China pusat asia
 - ** TerminalSecondary Search Terms **: TIR carnet; Pusat China Asia truk; sertifikat persetujuan kendaraan; segel bea cukai; transit jalan
 - ** Sugested URL **: panduan tir-jalan-transport -china-central-asia

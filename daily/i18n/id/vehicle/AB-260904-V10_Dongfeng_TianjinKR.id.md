@@ -4,7 +4,7 @@
 - ** Judul SEO **: Dongfeng Tianjin KR Recompected Truck Specs & Ekspor Panduan (18t)
 - ** Deskripsi Meta **: Dinese- Pasar Dong Tianjin KR 6.8 m reefer - Cummins B6.2 180 kW 1000 N·m, Fast 8-speed, Dana aksele, 18 t GVW, MIIT model kode, dan bagaimana chassis differs dari superstruktur pendingin.
 - ** Sugested URL **: kendaraan dongfeng-tianjin-kr
-- ♪ ♪ H1 **: Dongfeng Tianjin KR Truk redundansi: Specs Superstruktur Chassis + untuk Ekspor Buyers
+-   H1 **: Dongfeng Tianjin KR Truk redundansi: Specs Superstruktur Chassis + untuk Ekspor Buyers
 - ** Primary Keyword **: dongfeng tianjin krar pendingin ekspor spesifikasi truk
 - ** Second Second Search Terms **: Tianjin KR DFH5180XLC, Dongfeng Cummins B6.2, 6.8m reefer truk, ekspor truk pendingin Cina, chassis GVW 18t
 - ** Internal Link Sugestions **: guide moolcle-exports -hs- codefication guide export-oolc-package kendaraan jmc-shunda
@@ -96,7 +96,7 @@ Mesin mana? Dongfeng Cummins B6.2NS6B245 di 180 kW (245 PS) 1000 N·m,  through 
 | GB 17691-2018 juta - tugas kendaraan diesel pencemaran emisi (China- VI) | Kementerian Ekologi dan Lingkungan (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | TERBATAI | China- VI kompresi- pengapian (berat diesel) tahap emisi untuk truk pelatih |
 | GB 19147 mobil yang diesel bahan bakar nasional standar (low-sulfur basis) | Standar nasional SAMR platform penuh teks | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | TERBATAI | Kelas bahan bakar Diesel dan sulfur dasar untuk mencocokkan desain mesin emisi di luar negeri |
 
-* Catatan kepercayaan: kode model berlabuh ke batch- 410 pelaporan; reefer unit zones isolasi sengaja ditinggalkan ke pembangun tubuh (tidak ada nilai hard- kode); KR Ditambah dikecualikan. Referensi pasar Cina; mengkonfirmasi peringkat legal pada pengumuman sertifikat. ♪
+* Catatan confidence: model kode berlabuh ke MIIT batch- 410 pelaporan; reefer unit / zones / isolasi sengaja ditinggalkan ke body building (tidak ada nilai hard- kode); KR Ditambah dikecualikan. Referensi pasar Cina; mengkonfirmasi peringkat legal pada pengumuman / sertifikat. ♪
 
 ## Editorial Review
 - ** Penulis **: Tim Editorial Expor AutoBridge

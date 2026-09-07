@@ -65,7 +65,7 @@ Xuất khẩu các bảo hiểm tín dụng xác định không trả tiền; n�
 
 Không. Nó không xác định được sự thương mại và không trả lương cho chính trị đến một giới hạn được chấp thuận và tỷ lệ bất hợp pháp, phải tuân theo các điều khoản và quy trình tuyên bố của nó.
 
-** Có sự khác biệt nào giữa rủi ro thương mại và chính trị ở đây? ♪ ♪**
+Có sự khác biệt nào giữa rủi ro thương mại và chính trị ở đây?
 
 Nguy cơ thương mại đến từ người mua hoặc ngân hàng phát hành (không chịu trả tiền); nguy cơ chính trị là do các hành động như hạn chế chuyển nhượng, cấm vận nhập khẩu hoặc cấm đoán.
 

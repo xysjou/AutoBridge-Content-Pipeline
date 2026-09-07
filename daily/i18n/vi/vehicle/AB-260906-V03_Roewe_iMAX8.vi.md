@@ -55,11 +55,11 @@ Giá hướng dẫn của Trung Quốc là một tham chiếu nhạy cảm với
 6. Khớp VIN trên tất cả các giao dịch và vận chuyển tài liệu trước khi cân bằng hóa đơn.
 
 ## FAQ
-Nhà Roewe iMAX8 có bao nhiêu ghế? ♪ ♪
+Roewe iMAX8 có bao nhiêu ghế?
 
-The referenced Chinese model is a seven-seater in a 2+2+3 layout with two second-row captain chairs; xác nhận cho đúng thời gian cắt.
+Mô hình Trung Quốc được tham khảo là một bữa ăn bảy trong một bố trí 2+2+3 với hai ghế thứ hai, xác nhận cho chính xác cắt.
 
-** Bao lâu thì nó sẽ đi xuống? ♪ ♪**
+Cơ sở bánh xe của nó dài bao lâu?
 
 3000 mm,  with exterior dimensions around 5016×1909×1782 mm (one source lists a slightly different height).
 
@@ -71,7 +71,7 @@ Trang này có trang web chứa is/ irom iMAX8 không?
 
 Không, chỉ có bản dịch xăng dầu; đạo hàm điện là những sản phẩm riêng biệt.
 
-**Có phiên bản lái tay phải nào không? ♪ ♪**
+Có phiên bản thuận tay phải nào không?
 
 Không có phiên bản RHD nào được chứng minh bởi các nguồn hàng Trung Quốc được sử dụng ở đây.
 

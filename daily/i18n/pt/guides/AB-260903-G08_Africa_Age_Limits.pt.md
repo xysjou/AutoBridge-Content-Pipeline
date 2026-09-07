@@ -41,7 +41,7 @@ Os conflitos anteriores de 7-vs-8 (Quênia) e 12-vs-15 (Nigeria) são resolvidos
 - Capturar a data de fabricação e a data de registro** dos documentos de registro/VIN durante o PSI, então a idade é calculada na base correta.
 ## Perguntas Mais Frequentes
 ** Qual é o limite de idade do carro usado no Quênia?** Material de normas primárias (KEBS DKS 1515: 2025 § 4.7.1, corroborado pelo KRA) fixa os veículos de passageiros em, no máximo, oito anos a contar do ano da primeira matrícula**, com um limite de um ano sobre o intervalo de fabrico-para-primeiro registo; as excepções especiais são limitadas.
-** Qual é o limite de idade do carro usado na Nigéria?** O portal de comércio único da Nigéria declara que os veículos **com mais de 15 anos são proibidos de importar**, medidos a partir do ano de fabricação, com uma taxa NAC; the Customs prohibition-list reproduction is consistent on the 15-year figure.
+**O que é o carro usado na Nigéria limite de idade?** A Nigéria Portal de Comércio de Janela Única Estados veículos ** mais de 15 anos de idade são proibidos da importação**, medido a partir do ano de fabrico, Com uma taxa NAC; Reprodução da lista de proibição aduaneira é consistente com 15-year números.
 ** Por que o Quênia e a Nigéria usam diferentes pontos de partida?** O Quênia mede a partir de **primeiro registro**, Nigéria de **fabricação** — sempre calcular a idade na base do destino.
 ** Uma regra cobre toda a África?** Não — cada país define a sua própria base etária, regra de direção e portão de inspeção; fora do Quênia e Nigéria as linhas aqui são relatadas, valores não primários para verificar oficialmente.
 ** O que importa além da idade?** Direção, base de registro de fabricação-vs, classe de veículo e programas de inspeção/CoC mandatados.

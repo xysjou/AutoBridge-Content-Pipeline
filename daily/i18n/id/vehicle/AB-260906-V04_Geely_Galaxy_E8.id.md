@@ -31,7 +31,7 @@ Sumber Cina menggambarkan beberapa baterai lithium (kira-kira 62 67.8 76 kWh di 
 
 ## Arsitektur pengisian: 800V adalah version- tergantung
 
-Versi yang lebih tinggi menggunakan sebuah platform tegangan 800-volt tinggi yang mendukung kemampuan cepat lebih tinggi DC, Sementara puncak tepat pengisian kekuatan  and  10–80% time are not available from an official source here  and  Oleh karena itu tidak dinyatakan sebagai nilai-nilai tetap. - mengkonfirmasikan mereka per trim. Untuk ekspor, konektor fisik dan pengisian standar (GB T di Cina melawan standar tujuan CCS lainnya) adalah pertanyaan yang terpisah dan menentukan bahwa lembar ekspor OEM harus menjawab.
+Versi yang lebih tinggi menggunakan sebuah platform tegangan 800-volt tinggi yang mendukung kemampuan cepat lebih tinggi DC, Sementara puncak tepat pengisian kekuatan  and  10–80% waktu tidak tersedia dari sumber resmi di sini dan Oleh karena itu Tidak dinyatakan sebagai nilai-nilai tetap. - mengkonfirmasikan mereka per trim. Untuk ekspor, konektor fisik dan pengisian standar (GB T di Cina melawan standar tujuan CCS lainnya) adalah pertanyaan yang terpisah dan menentukan bahwa lembar ekspor OEM harus menjawab.
 
 ## Software, OTA dan kokpit
 
@@ -51,7 +51,7 @@ E8 dibangun di sekitar layar terpadu besar dan Geely di dalam sistem operasi mob
 Tidak ada harga ekspor yang diterbitkan dan harga panduan domestik adalah Cina - hanya dan waktu - sensitif. Permintaan Kuotation Expor Saat Ini dengan Negeri Tujuan, Quantitas, Trim Disukai, LHD RHD, Tujuan Port dan Incopesan; baterai dan angkutan tidak boleh diperkirakan.
 
 ## PSD
-Berapa jarak galaksi E8? ♪ ♪
+Berapa jarak galaksi E8?
 
 Chinese-market CLTC ranges run across 575/610/620/700 km depending on battery  and  drive; pemetaan yang tepat adalah tiga spesifik dan harus dikonfirmasi per SKU - CLTC bukan WLTP.
 

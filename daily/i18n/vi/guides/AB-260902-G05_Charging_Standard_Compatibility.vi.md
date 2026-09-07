@@ -107,7 +107,7 @@ Với mỗi mô hình/trim bạn xuất khẩu, ghi chép trong một tờ giấ
 | Hướng dẫn tới tiêu chuẩn sạc điện toàn cầu | MARUIKEL (công nghiệp) | Toàn cục | https://www.maruikel.com/es/blog/guide-to-global-ev-charging-standards-type-1-type-2-ccs-chademo-gbt.html | 2026-09-02 | ĐÃ_ ĐÃ | Kết nối tới nhà GB/Ts với cổng chuyển đổi sang nhà |
 | Hướng dẫn thích nghi GB/T đếnCHAMM B2B | Điện tự động Trung Quốc (thử nghiệm) | Toàn cục | https://www.electricautochina.com/comprehensive-b2b-guide-to-gbt-to-chademo-adapters-for-exported-chines/ | 2026-09-02 | ĐÃ_ ĐÃ | Xuất nút cổ chai tương thích |
 
-*BIDidce ghi chú (tự động Bridge: sự thật cấp tiêu chuẩn là VERFIED/CROSS_CCKED (CHAdeMOO) Sự kết hợp là một cơ quan tiêu chuẩn). Các kết nối xuất khẩu từng mẫu, hợp pháp hóa bởi quốc gia và thời điểm giao lưu của Hiệp hội Súng Quốc gia không bị bắt và phải được xác nhận trên mỗi máy bay và mỗi người có thẩm quyền đích. ♪
+*BIDidce ghi chú (tự động Bridge tiêu chuẩn): sự thật cấp tiêu chuẩn là VERFIED/CROSS_CCKED (CHAdeMO) Sự kết hợp là một cơ quan tiêu chuẩn). Các hệ thống kết nối hàng hóa hàng hóa, hợp pháp hóa bởi quốc gia và thời gian của Hiệp hội Súng Quốc gia không bị bắt và phải được xác nhận trên VIN và mỗi cơ quan có thẩm quyền đích đến. *
 
 ## Xem lại tập tin
 - **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)

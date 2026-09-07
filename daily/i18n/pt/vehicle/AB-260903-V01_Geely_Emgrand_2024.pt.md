@@ -30,7 +30,7 @@ Para um carro ICE, as perguntas do exportador concentram-se em **código de moto
 - Comprimento largura altura: ** 4638 1820 1460 mm **
 - Distância entre eixos: ** 2650 mm **
 - Assentos: ** 5 **
-These are China-reference dimensions for the 4th-gen car. O carro 5th-generation é maior (reportou 4815 1885 1480 mm, 2755 mm distância entre eixos) — não misture os dois em uma linha específica ou em material de marketing.
+Estas são as dimensões de referência da China para 4th-gen car. O carro 5th-generation é maior (reportou 4815 1885 1480 mm, 2755 mm distância entre eixos) — não misture os dois em uma linha específica ou em material de marketing.
 
 ## Limite do ano modelo (mantenha isto visível)
 - **Esta página:** 4th geração, ano modelo 2024.

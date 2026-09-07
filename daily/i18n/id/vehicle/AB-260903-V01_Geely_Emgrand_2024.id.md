@@ -41,14 +41,14 @@ Ini adalah dimensi referensi Cina untuk 4th-gen mobil. Mobil 5th-generation lebi
 1. ** Generation year trim ** ditulis di PI dan cocok dengan VIN - tidak ada pencampuran 4th-gen tubuh dengan 5th-gen klaim.
 2. ** Transmission ** (5MT vs CVT) dan ** daya torque yang tepat *** untuk trim itu.
 3. ** Emisi bahan bakar ** kompatibilitas dan tujuan ** tipepersetujuan CoC ** rute; sertifikat Cina konformitas adalah dokumen domestik, bukan akses pasar di luar negeri.
-4. ** Steering side, cluster language, infotainment area ** and warrial cakupan in the destination.
+4. Sisi Steering, bahasa cluster, daerah infotainment dan cakupan garansi di tujuan.
 5. ** Memuat rencana ** - sebuah 4.64 m saloon biasanya dimuat secara efisien dalam kontainer RoRo; mengkonfirmasi jumlah stoready aktual dari sebuah rencana load (lihat panduan loading-loading).
 
 ## Meminta Kuotasi Ekspor Saat Ini
 Tidak ada harga ekspor statis diterbitkan. Kira-kira RMB 69,900 tokoh awal Cina adalah ** domestik, referensi waktu -sensitif saja - bukan sebuah kutipan FOB CIF **. Bertanyalah dengan ** Negara Tujuan * Tugas & Transmisi
 
 ## Pertanyaan Yang Sering Muncul
-Is the 2024 Emgrand the same as the newtest Emgrand? Tidak - 4th-generation 2024 mobil dan semua-baru 5th generasi (Cina, Nov 2025) berbeda dalam ukuran, roda dan harga; mengkonfirmasi generasi mana VIN milik.
+Apakah 2024 Emgrand sama dengan Emgrand terbaru? Tidak - 4th-generation 2024 mobil dan semua-baru 5th generasi (Cina, Nov 2025) berbeda dalam ukuran, roda dan harga; mengkonfirmasi generasi yang VIN milik.
 ** Apakah Emgrand datang dengan transmisi otomatis? ** Baris Cina menawarkan CVT bersama manual 5-speed; menentukan yang mana pada urutan.
 ** Apakah China- 6 mobil otomatis Eropa - bersertifikat? ** Tidak - Cina emission persetujuan dan jenis tujuan persetujuan adalah proses yang berbeda; mengkonfirmasi yang diperlukan CoC persetujuan untuk impor pasar.
 Bagaimana kuatnya mesin 1.5L? 93 kW (sekitar 127 PS) dengan 127 N·m pada lembar referensi Cina; verifikasi trim yang tepat.
@@ -91,7 +91,7 @@ Bagaimana kuatnya mesin 1.5L? 93 kW (sekitar 127 PS) dengan 127 N·m pada lembar
 | GB 7258 motor-vehicle safety technical conditions (GB 7258-2017 current; GB 7258-2026 applies from 2027-07-01) | SAMR, Administrasi Negara untuk Peraturan Pasar | CN | https://www.samr.gov.cn/xw/sj/art/2026/art_9b2b3fa425e3461e8dc3bd270b410ceb.html | 2026-09-05 | TERBATAI | Baseline in- China kendaraan kondisi keamanan teknis dan garis waktu revisi saat ini |
 | GB 18352.6-2016 dengan Amandemen XG1-2026 (Cina - 6 cahaya kendaraan emisi polutan) | Kementerian Ekologi dan Lingkungan (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | TERBATAI | Cina - 6 ringkas emisi tahap dan 2026 tanggal implementasi Amandemen |
 
-* Catatan kepercayaan: tidak ada lembar spesifikasi dasar OEM ditangkap untuk model ini; angka adalah nilai basis data media Cina yang dicek. torsi 127 N·m adalah tunggal-sumber. Harga domestik dan peluncuran 5th-generation adalah waktu - sensitif. Spesifikasi homologasi tujuan dan ekspor harus dikonfirmasi untuk VIN. ♪
+* Catatan kepercayaan: tidak ada OEM lembar spesifikasi primer ditangkap untuk model ini; angka adalah nilai basis data / media Cina yang dicentang. torsi 127 N·m adalah tunggal-sumber. Harga domestik dan peluncuran 5th-generation adalah waktu - sensitif. Tujuan homologasi dan spesifikasi ekspor harus dikonfirmasi untuk VIN. *
 
 ## Editorial Review
 - *** Penulis Penilik **: [AutoBridge Ekspor Editorial Tim] penulis

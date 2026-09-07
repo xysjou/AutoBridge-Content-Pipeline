@@ -31,7 +31,7 @@ Fontes chinesas descrevem vários pacotes de baterias de lítio (aproximadamente
 
 ## Arquitectura de carregamento: 800V é dependente da versão
 
-Versões mais altas usam uma plataforma de alta tensão de 800-volt que suporta maior capacidade de carregamento rápido DC, enquanto o pico de potência de carga precisa  and  10–80% time are not available from an official source here  and  ** não são, portanto, indicados como valores fixos** — confirmem-nos por guarnição. Para exportação, o conector físico e o padrão de carregamento (GB/T na China versus CCS/outros padrões de destino) é uma pergunta separada e decisiva que uma folha de exportação OEM deve responder.
+Versões mais altas usam uma plataforma de alta tensão de 800-volt que suporta maior capacidade de carregamento rápido DC, enquanto o pico de potência de carga precisa  and  10–80% tempo não estão disponíveis a partir de uma fonte oficial aqui e  ** não são, portanto, indicados como valores fixos** — confirmem-nos por guarnição. Para exportação, o conector físico e o padrão de carregamento (GB/T na China versus CCS/outros padrões de destino) é uma pergunta separada e decisiva que uma folha de exportação OEM deve responder.
 
 ## Software, OTA e o cockpit
 

@@ -48,7 +48,7 @@
 
 ## 经常被问到的问题
 ** 为什么有两个权力数字(343和337 kW)? ** 343 kW为额定功率和337 kW净功率——同一465 PS发动机的不同测量基础.
-**What is the train weight?** The documented tractor is rated for a 40 t gross combination weight, 拖拉机本身的25 t GVWR.
+**汽车列车总质量是多少？** 该牵引车头的额定汽车列车总质量（GCW）为 40 t，牵引车自身整备总质量（GVWR）为 25 t。
 ** ** 14-speed DT14变速箱以手工和AMT形式提供;具体说明哪些。
 ** 520/560号是  and  ** 他们分享KL出租车家庭,但使用不同的引擎/燃料系统——把它们作为单独的规格.
 

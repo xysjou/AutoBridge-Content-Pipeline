@@ -24,10 +24,10 @@ Vật liệu chiếu chéo của bài báo này có trần cứng: **Tất cả 
 ## Năm điểm sai — Thử nghiệm mỗi điểm trên mã nguồn thật
 | Kiểm tra | "Công việc" nghĩa là gì? | Name | Kiểu bằng chứng |
 |---|---|---|---|
-| ** 1. ngôn ngữ UI* ♪ | Có thể dùng ngôn ngữ mục tiêu trên mọi trình đơn, cảnh báo, giọng nói | Chỉ máy dịch một phần hay một phần với lỗi bố trí | Thử trên một thẻ |
+| ** 1. ngôn ngữ UI*  | Có thể dùng ngôn ngữ mục tiêu trên mọi trình đơn, cảnh báo, giọng nói | Chỉ máy dịch một phần hay một phần với lỗi bố trí | Thử trên một thẻ |
 | ** 2. đường di chuyển/bản đồ** | Bản đồ đường phố cục bộ và đối với EVs, dữ liệu sạc cục bộ | Bản đồ Trung Quốc chỉ có; không có dữ liệu PRI/ repler cục bộ | Thử trên một thẻ |
 | ** 3. Comment | Tự động chơi ô tô/ A- rô- am đáng tin cậy | Thiếu vắng, không ổn định hoặc bị khóa vùng | Thử ra trên một băng; khác nhau tùy theo thương hiệu/trim |
-| ** 4. Trình phục vụ & tài khoản ứng dụng chủ * ♪ | Dễ sử dụng tại địa phương; mây có thể đến nước ngoài | Ứng dụng không sẵn sàng cục bộ; tài khoản/máy chủ bị khóa với Trung Quốc | Đặc biệt, xác nhận với thương hiệu |
+| ** 4. Trình phục vụ & tài khoản ứng dụng chủ *  | Dễ sử dụng tại địa phương; mây có thể đến nước ngoài | Ứng dụng không sẵn sàng cục bộ; tài khoản/máy chủ bị khóa với Trung Quốc | Đặc biệt, xác nhận với thương hiệu |
 | ** 5. OTA** | OTA endpoint có thể đạt được; cập nhật cài đặt từ nước ngoài | Không thể tới điểm cuối, xe bị đóng băng trên tòa nhà cũ | Biểu đồ Đường |
 Đối với ** Phải-trái-phải-trái (Arabic), việc định vị thích hợp cần ngữ pháp RTL/layout, không chỉ dịch; một đơn vị "Anh-Crabi" không tự động sẵn sàng.
 ## Sự phân cấp giải quyết (do phương pháp cuối cùng)
@@ -52,7 +52,7 @@ Những người bán hàng địa phương có động lực để nói rằng 
 **Có thể đổi một chiếc xe Trung Quốc sang tiếng Anh không? Đôi khi một phần (một trường hợp tổng hợp của cơ quan dữ liệu DD), nhưng bản đồ, ứng dụng/máy chủ và OTA là riêng biệt; xác nhận cho chính xác mã VIN thay vì tổng quát hóa ví dụ.
 Tại sao việc định vị lại thất bại ở nước ngoài? Một số thương mại Trung Quốc xây dựng tàu điện ngầm bản đồ/data; đó là trường hợp bạn cần một xuất khẩu được xây dựng hoặc một giải pháp được thương hiệu hóa bản đồ địa phương, cộng với dữ liệu bộ sạc địa phương cho EVs — xác nhận trên VIN.
 ** Có phải OTA vẫn còn đến nước ngoài không? Chỉ khi điểm cuối là có thể tiếp cận được vùng — kiểm tra trên thực tế xe; không đưa nó từ một mô hình khác.
-♪ Có an toàn không? ♪ Việc nhấp nháy không được phép có thể làm mất bảo hành và tăng vấn đề tuân thủ; thích xuất khẩu nhà máy hơn hoặc đường dẫn được áp dụng thương hiệu.
+Nội suy có an toàn không? Tia chớp không được cho phép có thể hủy bỏ bảo hành và tăng các vấn đề tuân thủ; thích xuất khẩu nhà máy xây dựng hoặc một đường dẫn được thương hiệu hỗ trợ.
 Tiếng Anh có sẵn sàng chưa? Không, tiếng Ả Rập cần bố trí RTL và định vị đúng cách hơn là dịch.
 ## Thu ảnh
 - Không có bảo mật trong kho
@@ -91,7 +91,7 @@ Tiếng Anh có sẵn sàng chưa? Không, tiếng Ả Rập cần bố trí RTL
 | Hướng dẫn Xuất Hình học Tiếng Anh Trung Hoa Phiên Bản B2B | Name | CN | https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-chinese-car-os-english-version/ | 2026-09-02 | SINGLE_SOURCE | 英文 HMI 刷机成本 (行业口径), 待官方核验 |
 | 中国汽车出海, 智能化为何 " 水土不服" | 汽车之家. 车家号 | CN | https://chejiahao.m.autohome.com.cn/info/26145241?isfrom=pc | 2026-09-02 | SINGLE_SOURCE | 海外用户 UI 翻译 手机互联问题 |
 
-* Canganence lưu ý: Tất cả tài liệu được viện dẫn đều là ngành công nghiệp/ Dịch vụ/ Lao động (Life/msia) và được dùng làm minh họa về các hình mẫu hoặc trường hợp riêng lẻ — không bao giờ chứng minh rằng tất cả các phương tiện Trung Quốc đều có cùng hành vi đó. Danh sách xuất khẩu hàng loạt, chính sách máy chủ-vô tội và yêu cầu kiểm tra "HMI đáng yêu" không được xác nhận bởi một chính sách chính và phải được giải quyết trên kênh nước ngoài thương hiệu cho các VIN. ♪
+* Tự tin lưu ý: Tất cả các tài liệu được viện dẫn đều là ngành công nghiệp/ Dịch vụ/ Y tế và được dùng như minh họa về mô hình hoặc trường hợp riêng lẻ — không bao giờ là bằng chứng cho thấy tất cả xe cộ Trung Quốc đều có cùng hành vi đó. Danh sách ngôn ngữ xuất khẩu hàng đầu, OTA chính sách tiêu thụ máy chủ và yêu cầu kiểm tra HMI tiếng Anh đã không được xác nhận bởi một chính sách chính và phải được giải quyết trên kênh ngoại quốc của thương hiệu cho VIN.
 ## Xem lại tập tin
 - **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
 - **Last xem lại**: 2026-09-05

@@ -12,7 +12,7 @@
 - **LLT gợi ý**: "JAC T9 Xe tải của thợ săn 4x4; T9 Tiêu chuẩn của thợ săn là chống lại những chiều dài giường"
 
 ## Văn cảnh: Quyết định nhận thức bắt đầu với giường và xe hơi
-Đối với một chiếc xe tải, câu hỏi đầu tiên của người xuất khẩu là độ dài giường ngủ, tải, bố trí bốn bánh xe và khung gầm — chứ không phải là thông tin. T9 Thợ săn là chiếc xe bán tải dầu diesel cỡ trung; Ở Trung Quốc, nó được bán như **Hantu (悍途)**. The identity is settled by **two JAC-owned official sites** — the export site (jacen, tên " T9"  and  Trang web thu thập tiếng Trung Quốc (cắt ra.jac, Tên " 悍途 Huantu" — vừa ý MODEL_LIS_OEM_PROOF: Sự quyết tâm nhận dạng cuối cùng giống nhau cho gia đình sản phẩm. Nhân dạng và cấu hình thị trường được đánh giá độc lập, nên mọi hình ảnh bên dưới vẫn mang nhãn hiệu thị trường và sự tự tin của nó.
+Đối với một chiếc xe tải, câu hỏi đầu tiên của người xuất khẩu là độ dài giường ngủ, trọng tải, bố trí bốn bánh xe và khung gầm — chứ không phải thông tin. Chiếc Thợ săn T9 là chiếc xe bán dầu diesel cỡ trung của JAC; ở Trung Quốc nó được bán như chiếc Hantu (悍途). Nhân dạng được xác định bởi hai trang web chính thức JAC — trang xuất khẩu (jacen, tên " T9 ")) và trang web thu nhỏ Trung Quốc (được chọn.jac, tên là " 悍途 / Huntu") — điều này làm thỏa mãn MODEL_ALAS_OEM_PROOF: sự quyết định cuối cùng về nhân dạng tương tự cho gia đình sản phẩm. Nhân dạng và cấu hình thị trường được đánh giá độc lập, nên mọi hình ảnh bên dưới vẫn mang nhãn hiệu thị trường và sự tự tin của nó.
 
 ## Quấn và bánh xe: Chuẩn chống lại lâu
 | Mục | Cơ sở bánh xe chuẩn | Nền tảng bánh xe dài |
@@ -29,7 +29,7 @@ Các chiều không gian bánh xe tiêu chuẩn được kiểm tra chéo giữa
 | Máy | 2.0T trên 4 dầu diesel gia tốc |
 | Công suất/ Mô-men xoắn | **125 kW 410 N·m** |
 | Hộp bánh răng | **ZF 8-speed tự động (8AT)** |
-| 4WD | **BorgWarner phần thời gian 4WD (2H/4H/4L) + hậu phương khóa vi phân* ♪ |
+| 4WD | **BorgWarner phần thời gian 4WD (2H/4H/4L) + hậu phương khóa vi phân*  |
 | Yêu cầu nhiên liệu | 7.6 L 100 km — **manuseuurer cho rằng**, không phải là một kết quả đo lường |
 
 Những món đồ bán hàng hàng Trung Quốc hiện đang nằm trên một nguồn truyền thông **single bên cạnh xuất khẩu OEM; * Thị trường Trung Hoa* chúng là do đó **SINGLE_SOURCE** — trích dẫn chúng như "** để được hoàn tất đối với các bản cấu hình của nhà sản xuất (以厂商配置单终核)**, không phải là những con số kép của Trung Quốc. Sự tồn tại của một giá trị xuất khẩu OEM không nâng cao sự tự tin của thị trường Trung Quốc. Nhiên liệu/tải nhiên liệu: diesel; xác nhận tính dung nạp lưu huỳnh đích đến và đường xả (một sự cân chỉnh của Trung Quốc-VI không phải là chính nó chấp thuận ở nước ngoài).
@@ -92,7 +92,7 @@ Không có giá xuất khẩu tĩnh nào được xuất bản. Cần có **Dies
 | Tựa nguồn | Tổ chức | Thị trường | URL | Đã kiểm tra | Tin tưởng | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
 | Đặc điểm chính thức của JAC T9 | Nơi xuất khẩu JAC MOTORS (OEM) | Comment | https://jacen.jac.com.cn/t9-launch/specs.html | 2026-09-04 | VEIIEED (OEM) | Cùng một kiểu với MDIEL; ** 3500 kg lần kéo (EXPORT)**; kích thước chấm |
-| Cấu hình sản phẩm Hantu mới | JCC Nhận tin chính thức (OEM) | CN | https://pickup.jac.com.cn/qxht/index.html | 2026-09-04 | VEIIEED (OEM) | Cùng một kiểu với nhau; ** 1000 kg chuyến hàng (CHINA)* ♪ |
+| Cấu hình sản phẩm Hantu mới | JCC Nhận tin chính thức (OEM) | CN | https://pickup.jac.com.cn/qxht/index.html | 2026-09-04 | VEIIEED (OEM) | Cùng một kiểu với nhau; ** 1000 kg chuyến hàng (CHINA)*  |
 | Tiêu chuẩn cơ thể tiêu chuẩn và chiều dài | Autohome·Chejiaao | CN | https://chejiahao.m.autohome.com.cn/info/6777343 | 2026-09-04 | ĐÃ_ ĐÃ | 5330/5620, bánh xe, giường |
 | Làm mờ T9 chiều điền (Giường dài) | PCauto | CN | http://m.pcauto.com.cn/x/2947/29474511.html | 2026-09-04 | ĐÃ_ ĐÃ | Co bóp dài |
 | Hantu (trên biển T9) powertrain & thế hệ | Comment | Trình gửi/ thả thư | https://www.sohu.com/a/1068531202_122480923 | 2026-09-04 | SINGLE_SOURCE (Trung Quốc) | 2.0T/125/410/ZF8AT/4WD, 7.6 tuyên bố |
@@ -102,7 +102,7 @@ Không có giá xuất khẩu tĩnh nào được xuất bản. Cần có **Dies
 | GB 18352.6-2016 với tu chính án XG1-2026 (Trung Quốc 6 ánh sáng-vehictt phóng xạ) | Bộ sinh thái học và Môi trường (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | VEII | Chương trình khai thác ánh sáng ở Trung Quốc 6 và 2026 ngày thực hiện sửa đổi |
 | GB 19147 nhiên liệu dầu diesel quốc gia tiêu chuẩn (cơ sở chậm-sur) | Nền tảng chuẩn toàn quốc SAR | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VEII | Chất đốt tổng hợp và chất lưu huỳnh khớp với thiết kế của động cơ/phát ra ở nước ngoài |
 
-* Tin tưởng ghi chú: identity SAME_MODEL via dual JAC OEM sites; Kiểm tra chéo ngang qua khung dọc chuẩn/ lâu; Tàu điện Trung Quốc là SINGLE_SOURCE (kết thúc chống lại các nhà sản xuất;) 3500 kg xe kéo là chỉ có EXO và không bao giờ là một giá trị đồng tính Trung Quốc; 1000 kg chuyến hàng đã bị Trung Quốc bắt. Ma trận RHD và giá xuất khẩu chưa được nêu. ♪
+* Ca ngợi: ID giống nhau_MDEL thông qua hai JAC OEM địa điểm; Comment Tàu năng lượng Trung Quốc là SINGLE_SOURCE (Vỗ tay với nhà sản xuất tờ); 3500 kg là kéo Chỉ và không bao giờ là Giá trị đồng nhất Trung Quốc; 1000 kg là trọng tải - Trung Quốc đã bị bắt. Ma trận RHD và xuất Giá không đề cập. *
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team_· phương pháp trên mỗi [chính sách] (/tách-chính trị/)

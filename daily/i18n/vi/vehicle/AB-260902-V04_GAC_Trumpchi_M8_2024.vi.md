@@ -119,7 +119,7 @@ Có ai lai M8 không? Một người lai 双擎 được đưa ra ở Trung Qu�
 | Tham số M8 | PCauto (太平洋汽车) | CN | https://price.pcauto.com.cn/m128883/config.html | 2026-09-02 | ĐÃ_ ĐÃ | Comment |
 | Linhxiu conbig | Yiche (易车) | CN | https://car.yiche.com/chuanqigm8/m173683/peizhi/ | 2026-09-02 | ĐÃ_ ĐÃ | Kích thước hình ảnh, giá nội địa |
 
-*BIDidence (Các tiêu chuẩn tự động Bridge): Thống kê của bà nội chủ nhân được thực hiện trên trang của GAC (chính thức của nhà máy); Lingxiu giá trị là CROSS_CCHCKED trên cơ sở dữ liệu độc lập. Các số liệu 400 so với 390 N·m được cố tình tách ra theo loạt; số liệu về người lai (双擎) không được xác nhận. ♪
+*BConfidence (Các tiêu chuẩn tự động Bridge): các thông số trung tâm bà nội / chủ yếu là VERFIED trên các trang riêng của GAC (chính thức nhà sản xuất); Lingxiu giá trị là CROSS_CHCKED trên cơ sở dữ liệu độc lập. Số ước lượng 400 so với 390 N·m được cố tình tách ra theo loạt; số liệu giả (双擎) không được xác nhận. *
 
 ## Xem lại tập tin
 - **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)

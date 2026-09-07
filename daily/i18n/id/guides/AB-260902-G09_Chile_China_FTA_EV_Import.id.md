@@ -3,7 +3,7 @@
 - ** Judul SEO **: Impor EVs Cina ke Chili: FTA Preferensi, IVA & 3CV Panduan
 - ** Meta Description **: Bagaimana preferensi Cina-Chile FTA bekerja untuk kendaraan yang dibangun Cina, Bea Cukai Chili 6% tugas umum dan 19% IVA dikonfirmasi secara resmi, mengapa sertifikat asal adalah kondisi, dan bagaimana 3CV homologasi cocok.
 - ** URL yang Disarankan **: panduan import- chinese- e- chile-fta
-- ♪ ♪ H1 **: Kendaraan Cina ke Chili: Menggunakan Preferensi FTA Tanpa Salah Perhitungan Biaya Landed
+-   H1 **: Kendaraan Cina ke Chili: Menggunakan Preferensi FTA Tanpa Salah Perhitungan Biaya Landed
 - ** Primary Keyword **: Chili China FTA kendaraan impor tugas IVA homologation
 - ** Akhir Pencarian Second **: Chile aduana 6% arancel, Chile IVA 19% import, China Chile FTA sertifikat asal, Chile 3CV homologation, certicado orilgen TLC China Chile, EV import Chile
 - ** Internal Link Sugestions **: guide kendaraan import- t-vs-lc guide marine- cargo-import kendaraan byd-yuan- plus
@@ -14,7 +14,7 @@ Chili beroperasi bebas - perdagangan perjanjian dengan mitra utamanya, ** termas
 ## The Tax Stack, Line by Line (secara resmi membumi)
 | Elemen | Pengobatan | Basis keyakinan |
 |---|---|---|
-| Jenderal Ad- Valorem tugas | ** 6% dari CIF (nilai bea cukai) ** untuk asal bukan preferensi | ** VERIFIED - Layanan Bea Cukai Nasional Chili (adaana.gob.cl) * ♪ |
+| Jenderal Ad- Valorem tugas | ** 6% dari CIF (nilai bea cukai) ** untuk asal bukan preferensi | ** VERIFIED - Layanan Bea Cukai Nasional Chili (adaana.gob.cl) *  |
 | IVA (VAT) | ** 19% pada CIF nilai bea cukai + tugas ** - dibebankan bahkan ketika tugas adalah 0% di bawah FTA | ** VERIFIED - adaana.gob.cl ** |
 | Pilihan FTA untuk mengkualifikasi asal Cina | Ad- valorem ** tugas 0% **, kondisional pada sebuah sertifikat FTA yang valid dari asal dan aturan produkt- spesifik | TERBATAI - sumber perdagangan resmi (misi Cina; FTA diberikan di sisi Chili oleh DIRECON SUBREI dan Bea Cukai) |
 | Biaya logistik port | Tambahan, forwarder route- spesifik | Mendadak setiap pengiriman |
@@ -89,7 +89,7 @@ Dokumen apa yang membuka preferensi? Sertifikat FTA Origin yang valid konsisten 
 | Jinyu Autos - 中国车进口智利指南 | Jinyu Autos 行业站 | CL | https://jinyuautos.com/blog/import-chinese-cars-to-chile/ | 2026-09-02 | SINGLE _ SOURCE | 中智 FTA 0% 关税通道 |
 | huajiame - 全球汽车进口关税指南 | Huajiame 行业站 | CL | https://www.huajiame.com/pl/knowledge/global-auto-import-tariff-guide | 2026-09-02 | SINGLE _ SOURCE | 智利关税 6% FTA 0% VAT 19% = 奢侈品税 15% = ~ $35k = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = |
 
-* Catatan keyakinan: 6% tugas umum dan 19% IVA yang terintegrasi pada Bea Cukai Chili; preferensi FTA 0% resmi tapi kondisional pada asal. Sebelumnya termasuk 1% US $30 aturan kurir (tidak berlaku pada kendaraan), sebuah batas surpause-an-tidak dikonfirmasi dan biaya 3CV tetap telah dihapus dari tubuh faktual; HS-level asal dan setiap surtax harus dikonfirmasi dengan Bea Cukai Slean SII SUBREI. ♪
+* Rasa percaya diri mencatat: 6% tugas umum dan 19% IVA yang VERIFIED pada Bea Cukai Chili; preferensi FTA 0% resmi tapi kondisional pada asal. Sebelumnya termasuk 1% / US $30 aturan kurir (tidak berlaku untuk kendaraan), sebuah batas surtaiury - dan biaya tetap 3CV telah dihapus dari tubuh faktual; HS -level asal dan setiap surtax harus dikonfirmasi dengan Bea Cukai / SII / SUBREI. ♪
 ## Editorial Review
 - *** Penulis Penilik **: [AutoBridge Ekspor Editorial Tim] penulis
 - ** Terakhir ditinjau **: 2026-09-05

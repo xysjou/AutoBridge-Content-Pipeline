@@ -32,7 +32,7 @@
 参数站点列出55和120行,但让进口商去解开循环和模式. 建议的方法是**VIN级的注解式绑定电动机输出,电池kWh,电距周期和充电能力一起**,标出DC快速充电不到位的等级(小电池车常见的订单错误),并分别说明电动对联范围,因此PHEV从不在其综合编号上做广告,仿佛是EV范围.
 ## 付款前
 - 固定式为**55或120**,在VIN的建材板上安装匹配的发动机(132/145 kW)和电池(8.32/18.32 kWh).
-- 记录电程**周期**(NEDC vs WLTC)  and  obtain destination-certified PHEV range/CO₂ where tax or incentives depend on it.
+- 记录电程**周期**(NEDC vs WLTC)  and  obtain destination-certified PHEV range/CO₂ 税收或奖励措施取决于此.
 - 确认连接器和AC/DC能力**按级别**;不假设GB/T匹配目标套接字。
 - 确认方向侧,中国境外的娱乐语言/OTA,以及覆盖发动机**和**电池**和**发动机的保修.
 - 验证目的地的PHEV分类——混合激励/同位素与纯EV不同.

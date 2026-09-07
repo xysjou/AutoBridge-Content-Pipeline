@@ -4,7 +4,7 @@
 - ** Judul SEO **: Wuling Bingo EV Specs & Export Buyer Guide (203/333/410 km CLTC)
 - ** Meta Description **: Cina, pasar Wuling Bingo, BeV kecil - Baterai LFP,  203/333/410 km CLTC steps,  30/50 kW motors, DC cepat pengisian, dimensi,  and  Apa yang penting harus memverifikasi per trim.
 - ** Sugested URL **: kendaraan wuling-bingo
-- ♪ ♪ H1 **: Wuling Bingo: Cinese- Pasar Kecil EV Specs dan Ekspor Verifikasi
+-   H1 **: Wuling Bingo: Cinese- Pasar Kecil EV Specs dan Ekspor Verifikasi
 - ** Primary Keyword **: wuling bingo ev ekspor spesifikasi
 - ** Akhir Pencarian Second **: Wuling Bingo 203km, Wuling Bingo 333km, Wuling Bingo 410km, ekspor EV kecil Cina, 五菱缤果 spesifikasi
 - ** Internal Link Sugestions **: guide ev- shippping- un3556-imdg-compliance/; guide roislecle- pd-pre- pengiriman-handover kendaraan byd-qin-l dm-i
@@ -95,7 +95,7 @@ Berapa kursi? Tata letak entri terdokumentasi adalah empat kursi (2+2). Konfirma
 | Komponen keselamatan baterai gongo 38031 (GB 38031-2025; aplikasi tipe baru wajib dari 2026-07-01) | Standar nasional SAMR platform penuh teks | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=31D72E7FB9BF92EDE06397BE0A0AC2E0 | 2026-09-05 | TERBATAI | Cakram wajib. Baterai keselamatan diperlukan untuk daya listrik kereta api. |
 | GB 18384 kebutuhan keamanan kendaraan listrik (GB 18384-2025) | Standar nasional SAMR platform penuh teks | CN | https://std.samr.gov.cn/gb/search/gbDetailed?id=473DC30DBF4CC20FE06397BE0A0AD08C | 2026-09-05 | TERBATAI | Listrik kendaraan kebutuhan keselamatan listrik fungsional |
 
-* Catatan kepercayaan: masukan baterai daya cross- dicentang; motor torque, volume kargo, jumlah kursi dan menit muatan adalah tunggal-sumber dan ditandai. Tidak ada halaman OEM di luar negeri - Hanya referensi pasar Cinese-. ♪
+* Konfidence mencatat: masukan lonjakan baterai / daya; motor torque, volume kargo, hitungan kursi dan menit muatan adalah tunggal-sumber dan ditandai. Tidak ada OEM halaman luar negeri - hanya referensi pasar Cinese-. ♪
 
 ## Editorial Review
 - ** Penulis **: Tim Editorial Expor AutoBridge

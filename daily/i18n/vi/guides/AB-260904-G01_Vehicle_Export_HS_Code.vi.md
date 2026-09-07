@@ -17,7 +17,7 @@ Những người xuất khẩu thường bắt đầu bằng một câu Kinh Th�
 ## Chuyến xe hơi và chiếc xe chạy theo
 | Hướng | Những gì nó bao gồm (2026 thủ tục đầu trang) | Name |
 |---|---|---|
-| **87.01** | Máy kéo (ngoài máy kéo hướng 87.09, ** bao gồm cả máy kéo bán ống nước* ♪ | Đầu máy kéo kiểu KL theo kiểu Thiên Long |
+| **87.01** | Máy kéo (ngoài máy kéo hướng 87.09, ** bao gồm cả máy kéo bán ống nước*  | Đầu máy kéo kiểu KL theo kiểu Thiên Long |
 | **87.02** | Xe hơi cho ** 10+ người** (buses/coaches), bao gồm cả các tiểu đoàn điện/hybrid | Xe buýt thành phố, huấn luyện viên |
 | **87.03** | Xe hơi cho người,  thể hiện 9 ghế — quán rượu, SUV, MPVs, lai  and  Xe chở khách điện | ĐÃ TIẾNG GWM Xe hành khách |
 | **87.04** | **Goods xe** (bao gồm các phương tiện chở hàng điện; ba bánh xe dưới 8704.6000) | Xe tải nhẹ Shunda, xe chở hàng |
@@ -51,7 +51,7 @@ Theo tập tục, sự phân biệt xe ba bánh bằng cách sử dụng và nh�
 
 ## Những câu hỏi thường xuyên
 Cái đầu máy kéo bán tải đi đâu rồi? Dưới 87.01 (có nghĩa rõ ràng là bao gồm bán ống kéo), bán ống dẫn kéo là 87.16, một phân loại riêng biệt.
-**Có phải xe chở khách vẫn là 87.03 không? Phải, điện  and  hybrid passenger cars for up to nine persons sit within 87.03; Con tàu năng lượng thay đổi đầu tàu, không phải đầu tàu.
+Xe chở khách vẫn là 87.03 chứ? Đúng vậy, xe điện và xe chở khách chạy bằng điện cho đến chín người ngồi trong vòng 87.03 người; tàu điện thay đổi đầu tàu, chứ không phải hướng đi.
 ** Có sự khác biệt nào giữa 87.04 và 87.05?** 87.04 mang hàng hóa; 87.05 tồn tại để thực hiện một chức năng đặc biệt khi mang hàng hóa là ngẫu nhiên. Hãy quyết định bằng cách sử dụng chính.
 **Which tariff edition should I cite now?** The 2026 *Import  and  Xuất Tariff*  and  Thông báo GACC thực hiện chương trình 2026; Không dùng 2018/2020 bảng như là một phương thức hiện tại.
 
@@ -88,7 +88,7 @@ Cái đầu máy kéo bán tải đi đâu rồi? Dưới 87.01 (có nghĩa rõ 
 | GCC thông báo về việc thực hiện chương trình điều chỉnh 2026 thuế | Tổng quản trị tập quán Trung Quốc | CN | http://www.customs.gov.cn/customs/2025-12/31/article_2026010717460235831.html | 2026-09-04 | VEIID (TIẾNG) | 2026 cơ sở thực thi pháp luật, quy tắc hàng năm |
 | 2026 HS query · Chapter 87 headings | i5a6 Hệ thống truy vấn hệ thống | CN | https://www.i5a6.com/hsCategory/c17 | 2026-09-04 | ĐÃ_ ĐÃ | Hướng |
 | Phong tục Q&A cho xe ba bánh điện (8703.80 8704.60) | Tuỳ biến | CN | http://m.toutiao.com/group/7518145509672993315/ | 2026-09-04 | SINGLE_SOURCE | Three-wheeler split, 8704.6000 |
-*Scope: Cơ sở hiện nay là 2026 thuế má và thông báo quảng cáo GACC; 2018/2020 bảng cũ hơn không còn được dùng làm căn bản chính nữa. Nhiệm vụ đích đến và chính xác mười số đầu đề đã vượt quá phạm vi và phải được kiểm tra mỗi quốc gia/năm thuế. ♪
+*Scope: Cơ sở hiện nay là 2026 thuế má và GACC công bố; 2018/2020 bảng cũ không còn được dùng làm căn bản chính nữa. Nhiệm vụ đích đến và chính xác mười chữ số phụ nằm ngoài phạm vi và phải được kiểm tra mỗi quốc gia/năm thuế. *
 
 | 进口汽车及零部件最惠国税率调整表 (含 8703 各子目官方名称) | 中国政府网 (国务院) | CN | https://www.gov.cn/zhengce/zhengceku/2018-12/31/5439526/files/62498c5520b84fc68a5960799fe12353.pdf | 2026-09-04 | VEII | 870340 等子目官方归类名称 混合动力 排量座位分目 |
 | 海南零关税交通工具清单 (8702 客车电动 混动分目官方名称) | 国家税务总局 (北京市税务局) tan | CN | http://beijing.chinatax.gov.cn/bjswj/sszc/zxwj/202012/cf5c916d2def4bd69f2a229bf60a35a3/files/d159fcb1991d48b8a2be4d2c90a7a717.pdf | 2026-09-04 | VEII | 870230/870240 大中型 小型客车电动混动分目 |

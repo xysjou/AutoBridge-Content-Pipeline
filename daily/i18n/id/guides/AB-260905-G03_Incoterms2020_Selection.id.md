@@ -3,7 +3,7 @@
 ## SEO Metadata
 - ** Judul SEO **: Incoterms 2020 Pemilihan Panduan untuk Expor Kendaraan: FOB, CIF, FCA, CIP, DDP dan More
 - ** Meta Description **: Pilih hak Incoterms 2020 aturan untuk pengiriman kendaraan: di mana resiko dan biaya transfer, laut - hanya melawan istilah multimodal, asuransi di bawah CIF CIP, dan mengapa DDP maxastivable seller beban.
-- ♪ ♪ H1 **: Memilih Incoterms 2020 dalam Canada Expor - Risk and Cost Allocation
+-   H1 **: Memilih Incoterms 2020 dalam Canada Expor - Risk and Cost Allocation
 - ** Primary Keyword **: incoterms 2020 selection guiding guide
 - ** Akhir Pencarian Second **: Incoterms 2020; FCA vs FCA; CIF vs CIP; DDP risiko; multimodal istilah; transfer risiko
 - ** Sugested URL **: guide incoterm- 2020-selection-guide/

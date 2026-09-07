@@ -19,8 +19,9 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "CCC制度"
+   "official_source": true,
+   "source_scope": "CCC制度",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "强制性产品认证管理规定（认监委）",
@@ -36,8 +37,9 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "CCC制度"
+   "official_source": true,
+   "source_scope": "CCC制度",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "企业申请CCC免办业务（条件与系统）",
@@ -53,8 +55,9 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "免办"
+   "official_source": true,
+   "source_scope": "免办",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "认监委2005年第3号公告（无需/免办CCC条件）",
@@ -69,8 +72,9 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "免办目录"
+   "official_source": true,
+   "source_scope": "免办目录",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "免予办理强制性产品认证证明（受理条件示例）",
@@ -85,8 +89,9 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "地方实施"
+   "official_source": true,
+   "source_scope": "地方实施",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "SAMR (CCC regime)",
@@ -101,9 +106,10 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "VERIFIED",
-   "official_source": "YES",
+   "official_source": true,
    "source_scope": "",
-   "added_by": "Writing AI CONTROLLED_RESEARCH_PATCH 2026-09-05"
+   "added_by": "Writing AI CONTROLLED_RESEARCH_PATCH 2026-09-05",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "Certification and Accreditation Administration (CNCA)",
@@ -118,9 +124,10 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "VERIFIED",
-   "official_source": "YES",
+   "official_source": true,
    "source_scope": "",
-   "added_by": "Writing AI CONTROLLED_RESEARCH_PATCH 2026-09-05"
+   "added_by": "Writing AI CONTROLLED_RESEARCH_PATCH 2026-09-05",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "WTO Agreement on Technical Barriers to Trade (TBT)",
@@ -136,8 +143,9 @@
    ],
    "checked_date": "2026-09-06",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "TBT framework for mandatory conformity assessment such as CCC, and for avoiding unnecessary barriers (exemption logic)"
+   "official_source": true,
+   "source_scope": "TBT framework for mandatory conformity assessment such as CCC, and for avoiding unnecessary barriers (exemption logic)",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "International Electrotechnical Commission (IEC) standards",
@@ -153,8 +161,9 @@
    ],
    "checked_date": "2026-09-06",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "International standards referenced in conformity assessment; CCC uses GB standards that often align with IEC"
+   "official_source": true,
+   "source_scope": "International standards referenced in conformity assessment; CCC uses GB standards that often align with IEC",
+   "scope_match": "MATCHED"
   }
  ],
  "source_integrity_note": "政府/监管/贸促会源按实际主体与URL标注；T4 SEO仅作线索并显式UNVERIFIED，未冒充官方。",
@@ -163,5 +172,6 @@
   "added_by": "Writing AI (pre-publication repair)",
   "sources_added": 9,
   "note": "Distinct primary/international organizations added 2026-09-06; all URLs HTTP-200 verified; parent-org normalization applied; no weak filler."
- }
+ },
+ "t1_only_recomputed_on": "2026-09-07"
 }

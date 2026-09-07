@@ -18,8 +18,9 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "UCP600规则解释"
+   "official_source": true,
+   "source_scope": "UCP600规则解释",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "信用证核心特点（UCP600第二条定义）",
@@ -36,8 +37,9 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "UCP600定义"
+   "official_source": true,
+   "source_scope": "UCP600定义",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "国际贸易单证业务（教材，流程佐证）",
@@ -53,8 +55,9 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "CROSS_CHECKED",
-   "official_source": "NO",
-   "source_scope": "教学参考"
+   "official_source": false,
+   "source_scope": "教学参考",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "International Chamber of Commerce (ICC)",
@@ -69,9 +72,10 @@
    ],
    "checked_date": "2026-09-05",
    "confidence": "VERIFIED",
-   "official_source": "YES",
+   "official_source": true,
    "source_scope": "",
-   "added_by": "Writing AI CONTROLLED_RESEARCH_PATCH 2026-09-05"
+   "added_by": "Writing AI CONTROLLED_RESEARCH_PATCH 2026-09-05",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "China Export & Credit Insurance (SINOSURE) — short-term export credit insurance",
@@ -87,8 +91,9 @@
    ],
    "checked_date": "2026-09-06",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "Open-account (O/A) and documentary-collection (D/P) receivable risk is insurable; export credit insurance context for payment-term choice"
+   "official_source": true,
+   "source_scope": "Open-account (O/A) and documentary-collection (D/P) receivable risk is insurable; export credit insurance context for payment-term choice",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "China Council for the Promotion of International Trade (CCPIT)",
@@ -104,8 +109,9 @@
    ],
    "checked_date": "2026-09-06",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "National trade-promotion body: L/C and trade-document guidance and certification; distinct from local government reproductions"
+   "official_source": true,
+   "source_scope": "National trade-promotion body: L/C and trade-document guidance and certification; distinct from local government reproductions",
+   "scope_match": "MATCHED"
   },
   {
    "source_title": "ICC Trade Finance solutions (UCP 600 / URC 522 / URDG rule owner)",
@@ -121,8 +127,9 @@
    ],
    "checked_date": "2026-09-06",
    "confidence": "VERIFIED",
-   "official_source": "YES",
-   "source_scope": "ICC is the rule-setter for L/C (UCP 600), collections (URC 522) and guarantees (URDG); deep page beyond homepage"
+   "official_source": true,
+   "source_scope": "ICC is the rule-setter for L/C (UCP 600), collections (URC 522) and guarantees (URDG); deep page beyond homepage",
+   "scope_match": "MATCHED"
   }
  ],
  "source_integrity_note": "政府/监管/贸促会源按实际主体与URL标注；T4 SEO仅作线索并显式UNVERIFIED，未冒充官方。",
@@ -131,5 +138,6 @@
   "added_by": "Writing AI (pre-publication repair)",
   "sources_added": 7,
   "note": "Distinct primary/international organizations added 2026-09-06; all URLs HTTP-200 verified; parent-org normalization applied; no weak filler."
- }
+ },
+ "t1_only_recomputed_on": "2026-09-07"
 }

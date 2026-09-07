@@ -3,7 +3,7 @@
 ## SEO Metadata
 - ** Judul SEO **: Foton General G9 Pickup 2025: Cinese- Market Diesel Petrol Specs & Ekspor Panduan
 - ** Meta Description **: Cine- pasar Foton General G9 (大将军 G9) pickup: 2.0T diesel dan garis bensin, 6MT/8AT, RHOD 4WD, tempat tidur dan roda dimensi, dan konflik diesel torque ditandai.
-- ♪ ♪ H1 ***: Foton Umum G9 Dajiangjun G9 (2025) - Chinese- Market Pickup Specs dan Ekspor Checks
+-   H1 ***: Foton Umum G9 Dajiangjun G9 (2025) - Chinese- Market Pickup Specs dan Ekspor Checks
 - ** Primary Keyword **: Foton 福田 General G9 大将军 G9 皮卡 ekspor spesifikasi
 - Foton General G9 ekspor; Dajiangjun G9 pickup; pickup diesel Cina; 4WD pickup; double cab
 - ** Sugesti URL **: kendaraan foton -general- g9/

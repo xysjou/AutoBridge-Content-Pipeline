@@ -25,7 +25,7 @@ Le chemin sur lequel vous êtes est déterminé par **la façon dont l'unité se
 2. **SDS/MSDS (GHS)** identifiant la rubrique ONU correcte (UN3556 pour un véhicule au lithium-ion), la classe 9 et l'horaire EmS** — mettre à jour tout document ancien qui ne mentionne encore que UN3171.
 3. ** Déclaration de marchandises dangereuses et formulaires de réservation du transporteur** remplis selon la norme ** 42-24 ** (obligatoire sur le chemin SP962).
 4. **Décision de la batterie globale ou de la batterie de rechange.** Les batteries au lithium de rechange ou en vrac se déplacent sous ** UN3480/UN3481 **, non UN3556, et ont besoin de leur propre itinéraire d'emballage/document (y compris un certificat d'emballage pour marchandises dangereuses, le cas échéant). Le relief tout véhicule ne couvre jamais les pièces de rechange emballées à côté.
-5. **Les unités d'enregistrement/défaut ou de rappel** sont des cas distincts: ils exigent une approbation explicite du transporteur**, souvent ne peuvent pas avancer dans des conditions ordinaires,  and  must never be relabelled as a normal UN3556 shipment.
+5. **Unités désaffectées ou rappelées** sont des cas distincts: qu'ils exigent ** un transporteur explicite approbation**, souvent ne peuvent pas avancer des termes ordinaires, et ne doit jamais être réétiquetée comme une normale UN3556 expédition.
 ## Version et rapidité (indiquer ces données sur chaque fichier)
 - **Amendement en cours:** IMDG ** 42-24 (2024 Edition), obligatoire à partir de 2026-01-01 **; indiquer la modification sur la réservation au lieu de prendre l'ancien modèle d'un transporteur.
 - ** Révision UN38.3:** confirmer la révision que votre ligne et destination acceptent (en fonction du temps).

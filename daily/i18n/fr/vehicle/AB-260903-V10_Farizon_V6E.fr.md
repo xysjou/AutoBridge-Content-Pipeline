@@ -31,7 +31,7 @@ Pour une fourgonnette logistique, les acheteurs devraient peser **volume de carg
 - Citation kWh **et** gamme **et** gamme cycle/condition ensemble; ne jamais attacher le nouveau numéro 51 kWh à un NIV de base. Confirmer la fourniture de charge AC/DC et le temps de charge par construction.
 
 ## Dossier d'exportation documenté (fait, pas un alias)
-Chine Transports News (un point de presse de l'industrie) rapporte qu'en **février 2024, un premier lot de fourgonnettes de V6E unités de l'UE a été exporté vers Türkiye**, décrit comme la première entrée de Farizon sur ce marché,  in 6 m³ form. Ceci est un dossier **export-livraison**: il confirme qu'une construction standard européenne a été expédiée,  but it does **not** make the Türkiye EU-spec van identical to the China 35.2/51 kWh builds — treat export configuration separately  and  demander sa fiche technique.
+Chine Transports News (un point de presse de l'industrie) rapporte qu'en **février 2024, un premier lot de fourgonnettes de V6E unités de l'UE a été exporté vers Türkiye**, décrit comme la première entrée de Farizon sur ce marché,  in 6 m³ form. Ceci est un dossier **export-livraison**: il confirme qu'une construction standard européenne a été expédiée,  Mais c'est vrai **not** make the Tüfourgonnette de l'UE identique à la Chine 35.2/51 kWh builds — treat export configuration separately  and  demander sa fiche technique.
 
 ## Ce que les importateurs devraient vérifier avant le paiement
 - Confirmez l'arrangement d'essieu d'entraînement de la fourgonnette électrique sur le certificat; les données de référence chinoises capturées ne le corrigent pas, donc ne faites pas par défaut à l'entraînement avant pour un châssis transportant la charge.

@@ -60,7 +60,7 @@ Hai đường pin tạo ra khoảng cách điện và thời gian sạc, nên m�
 
 ## FAQ
 **Có phải thiên hà L6 EM-i cùng chiếc xe với chiếc xe con lai cũ L6 thiên hà?** Nó cũng là bảng tên đó nhưng là một thế hệ năng lượng điện tử mới một vận tốc; không hợp nhất các đặc điểm đặc trưng trên chúng.
-♪ Tại sao có hai trường điện được trích dẫn? ♪ Chúng vẽ bản đồ 8.5 kWh và 19.09 kWh đường pin; cả hai đều là những con số CTC-C thương mại Trung Quốc.
+Tại sao có hai trường điện được trích dẫn? Chúng vẽ bản đồ 8.5 kWh và 19.09 kWh đường pin; cả hai đều là những con số CLTC thị trường Trung Quốc.
 **Tôi có thể sử dụng phạm vi CLTC trong sách giới thiệu thị trường của tôi không?** Không phải là một con số của WLPP/NEC - trình bày nó như cLTC chợ Trung Quốc và có được giá trị của chuyến xe đạp đích.
 ** Ai tạo ra pin thế? Không xác nhận được trong các nguồn tin bị bắt, nên trang này không đặt tên cho người cung cấp.
 ** AutoBridge có xuất bản giá xuất khẩu không? Không — yêu cầu một câu trích dẫn hiện thời với mục đích, số lượng, dòng cắt, đường LHD/RHD, cổng và Incoctern.

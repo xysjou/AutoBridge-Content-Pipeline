@@ -28,7 +28,7 @@ The Geely Preface (Tên tiếng Trung Hoa là Xe ngựa bốn cửa, xe ngựa b
 | 2.0T (tính tỉ lệ) | 175 kW (238 PS) 350 N·m, 8-speed tự động, WLTC cộng  đáp số 7.15 L 100km | CHINA · older/Jinchao-era 2.0T · single-source | SINGLE_SOURCE |
 | 2.0T (tính lại) | 200 kW 400 N·m Aisin 8AT,  claimed 0–100 km/h ≈6.5 s | CHINA. 2025 Dongfagyoo 2.0T · Nguồn riêng, xác nhận | SINGLE_SOURCE |
 
-Hai kết quả của 2.0T không phải là một xung đột dữ liệu để giải quyết bằng cách chọn một: chúng thuộc về những người mẫu khác nhau. Một câu trích dẫn xuất khẩu đặt tên cho 'một khuôn mặt tiền sử 2.0T' mà không có năm và cắt chính xác là mơ hồ. Vật liệu khu vực Trung Đông của Geely cho thấy một tuyến đầu máy điện được xuất khẩu riêng biệt (chẳng hạn như 2.0TD + 7DCT) theo quy tắc mô hình xây dựng khu vực được viện dẫn như một tham chiếu thị trường xuất khẩu  and  is **not** treated as identical to the Chinese 175/200 kW trims without OEM confirmation.
+Hai kết quả của 2.0T không phải là một xung đột dữ liệu để giải quyết bằng cách chọn một: chúng thuộc về những người mẫu khác nhau. Một câu trích dẫn xuất khẩu đặt tên cho 'một khuôn mặt tiền sử 2.0T' mà không có năm và cắt chính xác là mơ hồ. Vật liệu khu vực Trung Đông của Geely cho thấy một tuyến đầu máy điện được xuất khẩu riêng biệt (chẳng hạn như 2.0TD + 7DCT) theo quy tắc mô hình xây dựng khu vực được viện dẫn như một tham chiếu thị trường xuất khẩU và là **not** được đối xử y hệt với Trung Quốc 175/200 kW trims without OEM confirmation.
 
 ## Đánh dấu chỗ ngồi và thiết bị
 

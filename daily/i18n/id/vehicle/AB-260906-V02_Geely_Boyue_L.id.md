@@ -2,7 +2,7 @@
 ## SEO Metadata
 - ** Judul SEO **: Geely Boiue L Ekspor Specs: 1.5T/2.0T Kompact SUV Buyer Guide
 - ** Meta Description **: Referensi pasar untuk Geely Boyae L compact SUV: dimensi dan kargo, 1.5T dan 2.0T variant dipisahkan, Stroks exports nama caveat, dan VIN-level pembeli cek.
-- ♪ ♪ H1 **: Geely Boyae L (4th-Generation Boyae): China-Market Compact SUV Ekspor Referensi**
+-   H1 **: Geely Boyae L (4th-Generation Boyae): China-Market Compact SUV Ekspor Referensi**
 - ** Primary Keyword **: Geely Boyae Spesifikasi ekspor L
 - ** TerminalSecondary Search Terms **: Geely Boyae L dimensi; Bolue L 1.5T 7DCT; Geely Starik ekspor; China compact SUV; Bolue Ruang kargo L
 - **Suggested URL**: /vehicles/geely-boyue-l/
@@ -72,7 +72,7 @@ Sebuah cross- diperiksa 1.5T (133 kW 290 N·m, 7DCT, 92-RON) dan 2.0T (160 kW 32
 
 Garis yang direferensikan Cina adalah kemudi roda depan.
 
-** Apakah itu datang right- hand drive dari Cina? ♪ ♪**
+Apakah itu datang right- hand drive dari Cina?
 
 Tidak ada RHD Versi pasar Cina sudah terbukti ada di sini; konfirmasi secara terpisah untuk tujuan RHD.
 

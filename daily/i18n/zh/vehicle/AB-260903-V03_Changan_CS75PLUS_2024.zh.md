@@ -22,7 +22,7 @@ CS75 PLUS是长安市核心中超SUV家族. 本页面涵盖**3rd-generation冠�
 | 驱动 | 前轮驱动 | 前轮驱动 |
 | 燃料 | | 汽油(涡轮) |
 
-对于ICE SUV,购买决定是引擎代码,扭矩波段,变速箱和排放级. 中国的两台发动机都配有Aisin 8AT型; 假设没有修剪板的双曲线或全轮驱动变体。 The 4th-generation car carries a revised Blue Whale 1.5T at about 141 kW — a different tune that must not be written onto a 3rd-gen VIN.
+ICE SUV的购买决定是发动机代码,扭矩波段,变速箱和排放级. 中国的两台发动机都配有Aisin 8AT;不假设没有修剪板的双板或全轮驱动变体. 4th-generation型机车搭载了经过修改的蓝鲸1.5T型机车,大约141 kW型机车——这种不同的调子不能写在3rd-gen型VIN型机车上.
 
 ## 尺寸和座位
 - 长度 宽度 高度: **4710 1865 1710 mm**

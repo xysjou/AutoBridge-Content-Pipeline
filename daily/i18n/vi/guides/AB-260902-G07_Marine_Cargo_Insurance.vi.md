@@ -92,7 +92,7 @@ Kẻ phá sản bán một cái giá phải trả; hiếm khi nào họ liên k�
 | Bảo hiểm cho hãng hàng hải | Name | GLOBAL | https://www.ascopeshipping.co.uk/marine-cargo-insurance/ | 2026-09-02 | SINGLE_SOURCE | 一切险  dám 战争 罢工附加险 |
 | 中古車輸出の海上保険 (保额公式) | PROETCARS | GLOBAL | https://planetcars.jp/index.php/ja/insurance | 2026-09-02 | SINGLE_SOURCE | 保险金额 = CFIF× 110%  thể loại 保费公式 |
 
-* Ghi chú: phạm vi/số mệnh lệnh và các nhiệm vụ bảo hiểm trong nội bộ được thực hiện trên tài liệu chính của LMA/ICC. Con số Hague-Visby SDR là một điều khoản hiệp ước để xác nhận cho số lượng tiền đã được sửa đổi hiện nay; tỷ lệ bảo hiểm là trên đầu người và không cố ý nói ra; vỏ bọc ắc quy-quy-náp là đặc trưng chính sách. ♪
+* Bản cam kết: Phạm vi/số các điều khoản và các nghĩa vụ bảo hiểm Incoterms được thực hiện trên vật liệu chính của LMA/ ICC. Con số Hague-Visby SDR là một điều khoản hợp đồng để xác nhận cho số lượng tiền đã được sửa đổi hiện nay; tỷ lệ bảo hiểm là trên đầu người và không cố tình nói ra; vỏ bọc ắc quy-quy là đặc trưng chính sách. *
 ## Xem lại tập tin
 - **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)
 - **Last xem lại**: 2026-09-05

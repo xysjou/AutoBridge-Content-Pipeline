@@ -4,7 +4,7 @@
 - ** Judul SEO **: Foton Aumark Recommerated Truck Specs & Reefer Build Expor Guide
 - ** Meta Description **: Foton Aumark (Ollin) reefer: 150 PS Jieyun chassis, 4.085 m terisolasi tubuh, GVW 4.495 t, Thermo King domestik pilihan unit, dan bagaimana untuk menentukan sebuah truk pendingin untuk ekspor.
 - ** Sugesti URL **: kendaraan foton -aumarks-kulkas-truk
-- ♪ ♪ H1 **: Foton Aumark Recommerated Truck: memisahkan Chassis, Unit Penghinaan Tubuh dan Refrigerasi
+-   H1 **: Foton Aumark Recommerated Truck: memisahkan Chassis, Unit Penghinaan Tubuh dan Refrigerasi
 - ** Primary Keyword **: Foton Aumark truk pendingin ekspor spesifikasi
 - Olin Reefer truk China, Foton Cummins 2.8 pendingin, Thermo King T880 Truk Pro, 4.5t Reefer ekspor truk, truk rantai dingin Cina
 - ** Internal Link Sugestions **: kendaraan jacket-kang-cahaya-truk pemandu salin- truk-iklan-barang-barang-barang-barang procurements -china panduan marine-cargo-asuransi-impor
@@ -111,7 +111,7 @@ Mengapa harga tidak diberikan? Biaya Reefer tergantung pada kotak dan unit pendi
 | GB 18352.6-2016 dengan Amandemen XG1-2026 (Cina - 6 cahaya kendaraan emisi polutan) | Kementerian Ekologi dan Lingkungan (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202604/t20260430_1150676.html | 2026-09-05 | TERBATAI | Cina - 6 ringkas emisi tahap dan 2026 tanggal implementasi Amandemen |
 | GB 19147 mobil yang diesel bahan bakar nasional standar (low-sulfur basis) | Standar nasional SAMR platform penuh teks | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | TERBATAI | Kelas bahan bakar Diesel dan sulfur dasar untuk mencocokkan desain mesin emisi di luar negeri |
 
-* Rasa percaya diri mencatat (Standar AutoBridge): Fakta Cummins Suyun telah diVERIFIED pada bahan resmi dan penyeberangan yang telah diperiksa; gambar pengumuman Jeeyun rinci adalah SINGLE _ SOURCE (360che). Model dan harga unit Reefer sedang dibangun tergantung dan UNVERIFIED untuk harga; pastikan secara tertulis. ♪
+* Rasa percaya diri mencatat (Standar AutoBridge): Cummins / Suyun fakta yang VERIFIED pada Foton bahan resmi dan cross- cek; rincian tokoh pengumuman Jieyun adalah SINGLE _ SOURCE (360che). Model unit Reefer dan harga sedang dibangun tergantung dan UNVERIFIED untuk harga; pastikan secara tertulis. ♪
 
 ## Editorial Review
 - *** Penulis Penilik **: [AutoBridge Ekspor Editorial Tim] penulis

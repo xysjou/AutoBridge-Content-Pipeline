@@ -30,7 +30,7 @@ Para un coche ICE las preguntas del exportador se concentran en ** código motor
 - Longitud ancho altura: ** 4638 1820 1460 mm **
 - Base de ruedas: ** 2650 mm **
 - Asientos: ** 5 **
-These are China-reference dimensions for the 4th-gen car. El coche 5th-generation es más grande (reportado 4815 1885 1480 mm, 2755 mm distancia de rueda) — no mezclar los dos en una línea de espectro o en material de marketing.
+Estas son dimensiones de referencia de China para 4th-gen car. El coche 5th-generation es más grande (reportado 4815 1885 1480 mm, 2755 mm distancia de rueda) — no mezclar los dos en una línea de espectro o en material de marketing.
 
 ## Boundary de modelo-año (Mantenga esto visible)
 - **Esta página:** Generación 4th, año modelo 2024.

@@ -4,7 +4,7 @@
 - *** Judul SEO **: Chey Fulwin T9 C-DM PHEV Specs & Ekspor Panduan (China Referensi)
 - ** Meta Description **: Pasar-Cina Chey Fulwin T9 C-DM dalam mobil hibrida SUV - 1.5T berdedikasi mesin, 150 kW motor depan, Baterai 32.66 kWh,  120–220 km CLTC, 5/7 kursi,  and  cek eksportir.
 - ** Sugested URL **: kendaraan chery-fulwin- t9/
-- ♪ ♪ H1 **: Chey Fulwin T9 C-DM: Cinese- Pasar PHEV SUV Specs dan Ekspor Verifikasi
+-   H1 **: Chey Fulwin T9 C-DM: Cinese- Pasar PHEV SUV Specs dan Ekspor Verifikasi
 - ** Primary Keyword **: chey fulwin t9 ekspor spesifikasi
 - Fulwin T9 C-DM, 风云 T9 GROM, Chey T9 32.66kWh, Fulwin T9 7-seat, Cina ekspor PHIV SUV
 - ** Internal Link Sugestions **: guide evshippping- un3556-imdg-compliance/; kendaraan byd-qin -l -dm-i guide export- excel.-containing-documents
@@ -93,7 +93,7 @@ Tidak ada harga ekspor yang diterbitkan. Jangkauan panduan Cina 2024 (kira-kira 
 | Fulwin T9 launch & dimensi | Basis data Sohu Auto | CN | http://db.m.auto.sohu.com/model_7322/a/1019838375_120590677 | 2026-09-04 | _ BERDECAT | Ukuran tengah ukuran mobil SUV PHIV, harga rumah tangga |
 | 风云 T9 官方配置表 (品牌官网) | 奇瑞风云 (奇瑞官方) | CN | https://fulwin.chery.cn/vehicles/t9/config/ | 2026-09-04 | TERBATAI | 发动机115kW/220N·m/国VIb/无级超级电混DHT |
 
-* Catatan kepercayaan: Halaman konfigurasi OEM ditangkap (anchor VERIFIED); waktu muatan dan volume kargo tunggal-sumber; jangkauan gabungan adalah klaim produsen. Standard T9 saja - T9L diimplementasikan. ♪
+* Catatan kepercayaan: OEM halaman konfigurasi ditangkap (anchor VERIFIED); waktu muatan dan volume kargo tunggal-sumber; jangkauan gabungan adalah klaim produsen. Standard T9 saja - T9L dikecualikan. ♪
 
 ## Editorial Review
 - ** Penulis **: Tim Editorial Expor AutoBridge

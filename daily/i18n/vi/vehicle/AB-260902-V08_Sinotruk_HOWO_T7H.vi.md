@@ -106,7 +106,7 @@ Nó có tự động dùng hộp số không? Người ta có thể tham khảo 
 | GB 17691-2018 heavy-duty diesel vehicle pollutant emissions (China-VI) | Bộ sinh thái học và Môi trường (MEE) | CN | https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/201807/t20180703_629590.html | 2026-09-05 | VEII | Kích hoạt năng lượng từ Trung Quốc (cơ chế nén nặng) cho xe tải/coaches |
 | GB 19147 nhiên liệu dầu diesel quốc gia tiêu chuẩn (cơ sở chậm-sur) | Nền tảng chuẩn toàn quốc SAR | CN | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=88F31AEECC7F7AE17C5A99496E532D2A | 2026-09-05 | VEII | Chất đốt tổng hợp và chất lưu huỳnh khớp với thiết kế của động cơ/phát ra ở nước ngoài |
 
-*BIDidence (Các thông báo tự động Bridge: MC11/MC13 động cơ và trọng lượng được thực hiện trên kênh Sintruk-Foffic; chi tiết con số thông báo là SINGLE_ Thật là kinh khủng. Giá cả không được xác định và bị lãng quên. Xác nhận chính xác xuất khẩu trên tờ quốc tế Sinotruk. ♪ 360che
+*BIDidence lưu ý (tự động tiêu chuẩn: MC11/MC13 động cơ và trọng lượng được thực hiện trên Sinotruk kênh chính thức; chi tiết 360che thông báo là SINGLE_ Tuyệt vời. Giá cả đã bị xóa và bỏ. Xác nhận chính xác khu xuất khẩu trên tờ quốc tế Sinotruk. *
 
 ## Xem lại tập tin
 - **Author recover**: [Thợ sửa xuất bản Bridge] (/người tác giả/) phương pháp này trên mỗi [chính sách] (/chính sách chính sách chính trị/ chính trị/)

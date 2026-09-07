@@ -30,7 +30,7 @@ The Bingo is Wuling's five-door small electric hatchback, 都市をめざす  an
 ## 寸法、座席および貨物
 - 長さ/幅/高さ:** 3950 1708 1580 mm **
 - ホイールベース: ** 2560 mm **
-- 座席: エントリー車の場合、** 4 (2+2 レイアウト)** として文書化 some versions may offer five seats — confirm on the exact trim sheet.
+- 座席: エントリー車の場合、** 4 (2+2 レイアウト)** として文書化 some versions may offer five seats — 正確なトリムシートで確認.
 - 貨物量: 350 L, 約 1240 L に拡大** シートを折りたたむ (単一ソース).
 
 ## バージョンマップ(各行を別々に保持)

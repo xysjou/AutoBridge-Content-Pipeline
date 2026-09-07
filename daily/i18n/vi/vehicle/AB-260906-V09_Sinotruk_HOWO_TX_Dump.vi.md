@@ -54,7 +54,7 @@ Giá xe tải nặng là sự cấu hình và phụ thuộc vào cơ thể và k
 
 Thông thường, 6 × 4 và 8 × 4; chọn cách tải và điều kiện địa điểm và xác nhận chính xác mẫu.
 
-** 400 PS WP10H là chuẩn? ♪ ♪**
+400 PS WP10H có chuẩn không?
 
 Đó là một mẫu 8 × 4 được xây dựng; dòng TX dùng một số động cơ bao gồm cả các động cơ của MC-series, vậy hãy đặt tên chính xác cho đường dẫn.
 

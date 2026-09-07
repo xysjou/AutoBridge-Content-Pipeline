@@ -64,7 +64,7 @@ Nó chở gì vậy? ****
 
 Không trích dẫn ở đây, không chỉ có mỗi thẻ thanh toán và thẻ thanh toán.
 
-**Nó có phải là tay phải không? ♪ ♪**
+Lái bằng tay phải chứ?
 
 Thị trường Trung Quốc V80 là LHD; một công ty sản xuất RHD hoặc xuất khẩu yêu cầu bằng chứng OEM riêng biệt.
 

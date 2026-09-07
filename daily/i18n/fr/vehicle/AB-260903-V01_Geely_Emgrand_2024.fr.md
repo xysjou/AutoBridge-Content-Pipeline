@@ -30,7 +30,7 @@ Pour une voiture ICE, les questions de l'exportateur portent sur le code/tune mo
 - Longueur/largeur/la hauteur: ** 4638 1820 1460 mm **
 - Empattement: ** 2650 mm **
 - Sièges: ** 5 **
-These are China-reference dimensions for the 4th-gen car. La voiture 5th-generation est plus grande (rapportée 4815 1885 1480 mm, 2755 mm empattement) — ne mélangez pas les deux sur une ligne de spécifications ou dans du matériel de commercialisation.
+Ce sont des dimensions de référence pour la Chine 4th-gen car. La voiture 5th-generation est plus grande (rapportée 4815 1885 1480 mm, 2755 mm empattement) — ne mélangez pas les deux sur une ligne de spécifications ou dans du matériel de commercialisation.
 
 ## Limite de l'année modèle (permettons cette image)
 - **Cette page:** 4th génération, année de modèle 2024.
