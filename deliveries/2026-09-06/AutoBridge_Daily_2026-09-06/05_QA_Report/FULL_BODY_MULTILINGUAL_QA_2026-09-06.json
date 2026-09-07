@@ -1,0 +1,71 @@
+{
+ "batch": "2026-09-06",
+ "total_articles": 20,
+ "expected_locales": 240,
+ "by_language": {
+  "en": {
+   "pass": 20,
+   "fail": 0
+  },
+  "fr": {
+   "pass": 20,
+   "fail": 0
+  },
+  "de": {
+   "pass": 20,
+   "fail": 0
+  },
+  "es": {
+   "pass": 20,
+   "fail": 0
+  },
+  "pt": {
+   "pass": 20,
+   "fail": 0
+  },
+  "ja": {
+   "pass": 20,
+   "fail": 0
+  },
+  "ko": {
+   "pass": 20,
+   "fail": 0
+  },
+  "vi": {
+   "pass": 20,
+   "fail": 0
+  },
+  "th": {
+   "pass": 20,
+   "fail": 0
+  },
+  "id": {
+   "pass": 20,
+   "fail": 0
+  },
+  "ar": {
+   "pass": 20,
+   "fail": 0
+  },
+  "zh": {
+   "pass": 20,
+   "fail": 0
+  }
+ },
+ "fail_detail": {
+  "en": {},
+  "fr": {},
+  "de": {},
+  "es": {},
+  "pt": {},
+  "ja": {},
+  "ko": {},
+  "vi": {},
+  "th": {},
+  "id": {},
+  "ar": {},
+  "zh": {}
+ },
+ "full_body_locale_qa_pass": 240,
+ "full_body_locale_qa_fail": 0
+}

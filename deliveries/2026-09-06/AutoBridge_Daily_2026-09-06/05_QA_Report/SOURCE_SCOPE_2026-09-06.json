@@ -1,0 +1,129 @@
+{
+ "batch": "2026-09-06",
+ "minimum": {
+  "urls": 6,
+  "normalized_orgs": 4
+ },
+ "articles": {
+  "AB-260906-G01": {
+   "source_url_count": 6,
+   "source_org_count_normalized": 5,
+   "official_sources": 6,
+   "source_scope_status": "PASS"
+  },
+  "AB-260906-G02": {
+   "source_url_count": 7,
+   "source_org_count_normalized": 4,
+   "official_sources": 7,
+   "source_scope_status": "PASS"
+  },
+  "AB-260906-G03": {
+   "source_url_count": 6,
+   "source_org_count_normalized": 5,
+   "official_sources": 6,
+   "source_scope_status": "PASS"
+  },
+  "AB-260906-G04": {
+   "source_url_count": 6,
+   "source_org_count_normalized": 5,
+   "official_sources": 6,
+   "source_scope_status": "PASS"
+  },
+  "AB-260906-G05": {
+   "source_url_count": 7,
+   "source_org_count_normalized": 6,
+   "official_sources": 7,
+   "source_scope_status": "PASS"
+  },
+  "AB-260906-G06": {
+   "source_url_count": 7,
+   "source_org_count_normalized": 4,
+   "official_sources": 7,
+   "source_scope_status": "PASS"
+  },
+  "AB-260906-G07": {
+   "source_url_count": 10,
+   "source_org_count_normalized": 8,
+   "official_sources": 10,
+   "source_scope_status": "PASS"
+  },
+  "AB-260906-G08": {
+   "source_url_count": 6,
+   "source_org_count_normalized": 4,
+   "official_sources": 6,
+   "source_scope_status": "PASS"
+  },
+  "AB-260906-G09": {
+   "source_url_count": 8,
+   "source_org_count_normalized": 5,
+   "official_sources": 8,
+   "source_scope_status": "PASS"
+  },
+  "AB-260906-G10": {
+   "source_url_count": 8,
+   "source_org_count_normalized": 5,
+   "official_sources": 8,
+   "source_scope_status": "PASS"
+  },
+  "AB-260906-V01": {
+   "source_url_count": 7,
+   "source_org_count_normalized": 6,
+   "official_sources": 7,
+   "source_scope_status": "PASS"
+  },
+  "AB-260906-V02": {
+   "source_url_count": 6,
+   "source_org_count_normalized": 5,
+   "official_sources": 6,
+   "source_scope_status": "PASS"
+  },
+  "AB-260906-V03": {
+   "source_url_count": 6,
+   "source_org_count_normalized": 6,
+   "official_sources": 6,
+   "source_scope_status": "PASS"
+  },
+  "AB-260906-V04": {
+   "source_url_count": 7,
+   "source_org_count_normalized": 6,
+   "official_sources": 7,
+   "source_scope_status": "PASS"
+  },
+  "AB-260906-V05": {
+   "source_url_count": 7,
+   "source_org_count_normalized": 7,
+   "official_sources": 7,
+   "source_scope_status": "PASS"
+  },
+  "AB-260906-V06": {
+   "source_url_count": 7,
+   "source_org_count_normalized": 5,
+   "official_sources": 7,
+   "source_scope_status": "PASS"
+  },
+  "AB-260906-V07": {
+   "source_url_count": 6,
+   "source_org_count_normalized": 5,
+   "official_sources": 6,
+   "source_scope_status": "PASS"
+  },
+  "AB-260906-V08": {
+   "source_url_count": 7,
+   "source_org_count_normalized": 6,
+   "official_sources": 7,
+   "source_scope_status": "PASS"
+  },
+  "AB-260906-V09": {
+   "source_url_count": 6,
+   "source_org_count_normalized": 6,
+   "official_sources": 6,
+   "source_scope_status": "PASS"
+  },
+  "AB-260906-V10": {
+   "source_url_count": 6,
+   "source_org_count_normalized": 6,
+   "official_sources": 6,
+   "source_scope_status": "PASS"
+  }
+ }
+}

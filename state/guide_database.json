@@ -1,7 +1,7 @@
 {
  "generated_on": "2026-09-02",
  "note": "Existing procurement-guide topic clusters (dedup blacklist). A new guide whose primary intent matches a cluster is a duplicate unless it has a clearly distinct, documented search intent.",
- "count": 53,
+ "count": 63,
  "topic_clusters": [
   {
    "article_count": 7,
@@ -365,6 +365,76 @@
    "cluster": "tir-road-transport-china-central-asia",
    "batch": "batch_20260905",
    "version": "v1"
+  },
+  {
+   "cluster_key": "china_export_credit_insurance_sinosure",
+   "article_count": 1,
+   "articles": [
+    "AB-260906-G01"
+   ]
+  },
+  {
+   "cluster_key": "china_customs_aeo_advanced_certified_operator",
+   "article_count": 1,
+   "articles": [
+    "AB-260906-G02"
+   ]
+  },
+  {
+   "cluster_key": "rcep_rules_of_origin_certificate_vehicle_parts",
+   "article_count": 1,
+   "articles": [
+    "AB-260906-G03"
+   ]
+  },
+  {
+   "cluster_key": "china_port_roro_vehicle_export_booking_terminal_handover",
+   "article_count": 1,
+   "articles": [
+    "AB-260906-G04"
+   ]
+  },
+  {
+   "cluster_key": "south_africa_vehicle_import_itac_sars_nrcs_loa",
+   "article_count": 1,
+   "articles": [
+    "AB-260906-G05"
+   ]
+  },
+  {
+   "cluster_key": "ispm_15_wood_packaging_export_treatment_mark",
+   "article_count": 1,
+   "articles": [
+    "AB-260906-G06"
+   ]
+  },
+  {
+   "cluster_key": "kenya_vehicle_import_kra_kebs_pvoc",
+   "article_count": 1,
+   "articles": [
+    "AB-260906-G07"
+   ]
+  },
+  {
+   "cluster_key": "china_customs_supervision_method_0110_1039_bonded_vehicle_export",
+   "article_count": 1,
+   "articles": [
+    "AB-260906-G08"
+   ]
+  },
+  {
+   "cluster_key": "nigeria_vehicle_import_customs_soncap",
+   "article_count": 1,
+   "articles": [
+    "AB-260906-G09"
+   ]
+  },
+  {
+   "cluster_key": "cross_border_rmb_settlement_cips_vehicle_export",
+   "article_count": 1,
+   "articles": [
+    "AB-260906-G10"
+   ]
   }
  ],
  "r3_revised_on": "2026-09-03",
@@ -375,5 +445,6 @@
  "second_repair_on": "2026-09-05",
  "second_repair_status": "WAITING_INDEPENDENT_REVIEW",
  "publish_approved": false,
- "unified_repair_on": "2026-09-05"
+ "unified_repair_on": "2026-09-05",
+ "daily_writing_on": "2026-09-06"
 }

@@ -1,0 +1,119 @@
+{
+ "batch": "2026-09-06",
+ "scope": "intra-batch 20 articles per language",
+ "metric": "full-body 5-gram Jaccard",
+ "threshold": {
+  "manual_review_above": 0.5,
+  "fail_at": 0.7
+ },
+ "by_language": {
+  "en": {
+   "max": 0.0872,
+   "pair": [
+    "AB-260906-G02_China_Customs_AEO_Advanced_Certified_Operator.md",
+    "AB-260906-G08_China_Customs_Trade_Modes_0110_1039_Bonded.md"
+   ],
+   "n": 20,
+   "status": "PASS"
+  },
+  "fr": {
+   "max": 0.249,
+   "pair": [
+    "AB-260906-V08_FAW_Jiefang_J6F.fr.md",
+    "AB-260906-V09_Sinotruk_HOWO_TX_Dump.fr.md"
+   ],
+   "n": 20,
+   "status": "PASS"
+  },
+  "de": {
+   "max": 0.2004,
+   "pair": [
+    "AB-260906-V08_FAW_Jiefang_J6F.de.md",
+    "AB-260906-V09_Sinotruk_HOWO_TX_Dump.de.md"
+   ],
+   "n": 20,
+   "status": "PASS"
+  },
+  "es": {
+   "max": 0.2499,
+   "pair": [
+    "AB-260906-V08_FAW_Jiefang_J6F.es.md",
+    "AB-260906-V09_Sinotruk_HOWO_TX_Dump.es.md"
+   ],
+   "n": 20,
+   "status": "PASS"
+  },
+  "pt": {
+   "max": 0.2407,
+   "pair": [
+    "AB-260906-V07_SAIC_MAXUS_V80.pt.md",
+    "AB-260906-V08_FAW_Jiefang_J6F.pt.md"
+   ],
+   "n": 20,
+   "status": "PASS"
+  },
+  "ja": {
+   "max": 0.1604,
+   "pair": [
+    "AB-260906-V07_SAIC_MAXUS_V80.ja.md",
+    "AB-260906-V08_FAW_Jiefang_J6F.ja.md"
+   ],
+   "n": 20,
+   "status": "PASS"
+  },
+  "ko": {
+   "max": 0.1633,
+   "pair": [
+    "AB-260906-V06_SAIC_MAXUS_T90.ko.md",
+    "AB-260906-V07_SAIC_MAXUS_V80.ko.md"
+   ],
+   "n": 20,
+   "status": "PASS"
+  },
+  "vi": {
+   "max": 0.204,
+   "pair": [
+    "AB-260906-V08_FAW_Jiefang_J6F.vi.md",
+    "AB-260906-V09_Sinotruk_HOWO_TX_Dump.vi.md"
+   ],
+   "n": 20,
+   "status": "PASS"
+  },
+  "th": {
+   "max": 0.1922,
+   "pair": [
+    "AB-260906-V07_SAIC_MAXUS_V80.th.md",
+    "AB-260906-V08_FAW_Jiefang_J6F.th.md"
+   ],
+   "n": 20,
+   "status": "PASS"
+  },
+  "id": {
+   "max": 0.1724,
+   "pair": [
+    "AB-260906-V08_FAW_Jiefang_J6F.id.md",
+    "AB-260906-V09_Sinotruk_HOWO_TX_Dump.id.md"
+   ],
+   "n": 20,
+   "status": "PASS"
+  },
+  "ar": {
+   "max": 0.1858,
+   "pair": [
+    "AB-260906-V08_FAW_Jiefang_J6F.ar.md",
+    "AB-260906-V09_Sinotruk_HOWO_TX_Dump.ar.md"
+   ],
+   "n": 20,
+   "status": "PASS"
+  },
+  "zh": {
+   "max": 0.1606,
+   "pair": [
+    "AB-260906-V06_SAIC_MAXUS_T90.zh.md",
+    "AB-260906-V07_SAIC_MAXUS_V80.zh.md"
+   ],
+   "n": 20,
+   "status": "PASS"
+  }
+ }
+}

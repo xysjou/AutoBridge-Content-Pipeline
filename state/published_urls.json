@@ -1,7 +1,7 @@
 {
  "generated_on": "2026-09-02",
  "note": "Historical baseline was empty (no front-end URLs). Populated by Daily Delivery 2026-09-02 with QA_PASS Master slugs (published=false; they enter MULTILINGUAL_QUEUE before front-end publish).",
- "published_url_total": 80,
+ "published_url_total": 100,
  "urls": [
   {
    "article_id": "AB-260902-V01",
@@ -849,6 +849,166 @@
    "word_filename": "VEH_20260905_10_FotonDaimlerAUMAN_欧曼EST重型牵引车（TractorTruck）.docx",
    "stage": "MASTER_WRITTEN_AWAITING_REVIEW",
    "batch": "2026-09-05"
+  },
+  {
+   "article_id": "AB-260906-G01",
+   "content_type": "PROCUREMENT_GUIDE",
+   "slug": "/guides/china-export-credit-insurance-sinosure/",
+   "word_filename": "GUIDE_20260906_01_China_Export_Credit_Insurance_SINOSURE.docx",
+   "stage": "MASTER_SELF_QA_PENDING_INDEPENDENT_REVIEW",
+   "published": false
+  },
+  {
+   "article_id": "AB-260906-G02",
+   "content_type": "PROCUREMENT_GUIDE",
+   "slug": "/guides/china-customs-aeo-certified-operator-export/",
+   "word_filename": "GUIDE_20260906_02_China_Customs_AEO_Advanced_Certified_Operator.docx",
+   "stage": "MASTER_SELF_QA_PENDING_INDEPENDENT_REVIEW",
+   "published": false
+  },
+  {
+   "article_id": "AB-260906-G03",
+   "content_type": "PROCUREMENT_GUIDE",
+   "slug": "/guides/rcep-rules-of-origin-certificate-vehicle-parts/",
+   "word_filename": "GUIDE_20260906_03_RCEP_Rules_of_Origin_Vehicle_Parts.docx",
+   "stage": "MASTER_SELF_QA_PENDING_INDEPENDENT_REVIEW",
+   "published": false
+  },
+  {
+   "article_id": "AB-260906-G04",
+   "content_type": "PROCUREMENT_GUIDE",
+   "slug": "/guides/china-port-roro-vehicle-export-booking-terminal-handover/",
+   "word_filename": "GUIDE_20260906_04_China_Port_RoRo_Booking_Terminal_Handover.docx",
+   "stage": "MASTER_SELF_QA_PENDING_INDEPENDENT_REVIEW",
+   "published": false
+  },
+  {
+   "article_id": "AB-260906-G05",
+   "content_type": "PROCUREMENT_GUIDE",
+   "slug": "/guides/south-africa-vehicle-import-itac-sars-nrcs/",
+   "word_filename": "GUIDE_20260906_05_South_Africa_Vehicle_Import_ITAC_SARS_NRCS.docx",
+   "stage": "MASTER_SELF_QA_PENDING_INDEPENDENT_REVIEW",
+   "published": false
+  },
+  {
+   "article_id": "AB-260906-G06",
+   "content_type": "PROCUREMENT_GUIDE",
+   "slug": "/guides/ippc-ispm15-wood-packaging-export/",
+   "word_filename": "GUIDE_20260906_06_ISPM15_Wood_Packaging.docx",
+   "stage": "MASTER_SELF_QA_PENDING_INDEPENDENT_REVIEW",
+   "published": false
+  },
+  {
+   "article_id": "AB-260906-G07",
+   "content_type": "PROCUREMENT_GUIDE",
+   "slug": "/guides/kenya-vehicle-import-kra-kebs-pvoc/",
+   "word_filename": "GUIDE_20260906_07_Kenya_Vehicle_Import_KRA_KEBS_PVoC.docx",
+   "stage": "MASTER_SELF_QA_PENDING_INDEPENDENT_REVIEW",
+   "published": false
+  },
+  {
+   "article_id": "AB-260906-G08",
+   "content_type": "PROCUREMENT_GUIDE",
+   "slug": "/guides/china-customs-supervision-method-0110-1039/",
+   "word_filename": "GUIDE_20260906_08_China_Customs_Trade_Modes_0110_1039.docx",
+   "stage": "MASTER_SELF_QA_PENDING_INDEPENDENT_REVIEW",
+   "published": false
+  },
+  {
+   "article_id": "AB-260906-G09",
+   "content_type": "PROCUREMENT_GUIDE",
+   "slug": "/guides/nigeria-vehicle-import-customs-soncap/",
+   "word_filename": "GUIDE_20260906_09_Nigeria_Vehicle_Import_Customs_SONCAP.docx",
+   "stage": "MASTER_SELF_QA_PENDING_INDEPENDENT_REVIEW",
+   "published": false
+  },
+  {
+   "article_id": "AB-260906-G10",
+   "content_type": "PROCUREMENT_GUIDE",
+   "slug": "/guides/cross-border-rmb-settlement-cips/",
+   "word_filename": "GUIDE_20260906_10_Cross_Border_RMB_Settlement_CIPS.docx",
+   "stage": "MASTER_SELF_QA_PENDING_INDEPENDENT_REVIEW",
+   "published": false
+  },
+  {
+   "article_id": "AB-260906-V01",
+   "content_type": "VEHICLE_PAGE",
+   "slug": "/vehicles/geely-preface/",
+   "word_filename": "VEH_20260906_01_Geely_Preface.docx",
+   "stage": "MASTER_SELF_QA_PENDING_INDEPENDENT_REVIEW",
+   "published": false
+  },
+  {
+   "article_id": "AB-260906-V02",
+   "content_type": "VEHICLE_PAGE",
+   "slug": "/vehicles/geely-boyue-l/",
+   "word_filename": "VEH_20260906_02_Geely_Boyue_L.docx",
+   "stage": "MASTER_SELF_QA_PENDING_INDEPENDENT_REVIEW",
+   "published": false
+  },
+  {
+   "article_id": "AB-260906-V03",
+   "content_type": "VEHICLE_PAGE",
+   "slug": "/vehicles/roewe-imax8/",
+   "word_filename": "VEH_20260906_03_Roewe_iMAX8.docx",
+   "stage": "MASTER_SELF_QA_PENDING_INDEPENDENT_REVIEW",
+   "published": false
+  },
+  {
+   "article_id": "AB-260906-V04",
+   "content_type": "VEHICLE_PAGE",
+   "slug": "/vehicles/geely-galaxy-e8/",
+   "word_filename": "VEH_20260906_04_Geely_Galaxy_E8.docx",
+   "stage": "MASTER_SELF_QA_PENDING_INDEPENDENT_REVIEW",
+   "published": false
+  },
+  {
+   "article_id": "AB-260906-V05",
+   "content_type": "VEHICLE_PAGE",
+   "slug": "/vehicles/chery-fulwin-a8/",
+   "word_filename": "VEH_20260906_05_Chery_Fulwin_A8.docx",
+   "stage": "MASTER_SELF_QA_PENDING_INDEPENDENT_REVIEW",
+   "published": false
+  },
+  {
+   "article_id": "AB-260906-V06",
+   "content_type": "VEHICLE_PAGE",
+   "slug": "/vehicles/saic-maxus-t90/",
+   "word_filename": "VEH_20260906_06_SAIC_MAXUS_T90.docx",
+   "stage": "MASTER_SELF_QA_PENDING_INDEPENDENT_REVIEW",
+   "published": false
+  },
+  {
+   "article_id": "AB-260906-V07",
+   "content_type": "VEHICLE_PAGE",
+   "slug": "/vehicles/saic-maxus-v80/",
+   "word_filename": "VEH_20260906_07_SAIC_MAXUS_V80.docx",
+   "stage": "MASTER_SELF_QA_PENDING_INDEPENDENT_REVIEW",
+   "published": false
+  },
+  {
+   "article_id": "AB-260906-V08",
+   "content_type": "VEHICLE_PAGE",
+   "slug": "/vehicles/faw-jiefang-j6f/",
+   "word_filename": "VEH_20260906_08_FAW_Jiefang_J6F.docx",
+   "stage": "MASTER_SELF_QA_PENDING_INDEPENDENT_REVIEW",
+   "published": false
+  },
+  {
+   "article_id": "AB-260906-V09",
+   "content_type": "VEHICLE_PAGE",
+   "slug": "/vehicles/sinotruk-howo-tx-dump/",
+   "word_filename": "VEH_20260906_09_Sinotruk_HOWO_TX_Dump.docx",
+   "stage": "MASTER_SELF_QA_PENDING_INDEPENDENT_REVIEW",
+   "published": false
+  },
+  {
+   "article_id": "AB-260906-V10",
+   "content_type": "VEHICLE_PAGE",
+   "slug": "/vehicles/xcmg-qy25k5c-truck-crane/",
+   "word_filename": "VEH_20260906_10_XCMG_QY25K5C_Truck_Crane.docx",
+   "stage": "MASTER_SELF_QA_PENDING_INDEPENDENT_REVIEW",
+   "published": false
   }
  ],
  "r4_revised_on": "2026-09-03",
@@ -857,5 +1017,6 @@
  "second_repair_on": "2026-09-05",
  "second_repair_status": "WAITING_INDEPENDENT_REVIEW",
  "publish_approved": false,
- "unified_repair_on": "2026-09-05"
+ "unified_repair_on": "2026-09-05",
+ "daily_writing_on": "2026-09-06"
 }
