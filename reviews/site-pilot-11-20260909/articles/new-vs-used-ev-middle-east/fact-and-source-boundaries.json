@@ -1,0 +1,196 @@
+{
+  "status": "NEEDS_RESEARCH_NOT_VERIFIED_FACT_SHEET",
+  "candidate_sha256": "914747d13f01cf68b66e82bdf4f1a97ded9ca95193bf980eb07c8382aef66c3f",
+  "search_intent": "How an international buyer should choose between a new, unused-stock or used electric vehicle exported from China",
+  "market": "Middle East",
+  "editorial_angle": "A heat, title-history and destination-approval framework for Middle Eastern buyers comparing new, unused stock and used Chinese EVs.",
+  "sources": [
+    {
+      "title": "Global EV Outlook 2026 - Trends in electric cars",
+      "organization": "International Energy Agency",
+      "url": "https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars",
+      "supports": "Current regional differences in vehicle adoption, charging and operating conditions; regional growth does not establish eligibility for a particular route.",
+      "accessed_at": "2026-07-16"
+    },
+    {
+      "title": "Agreement on Technical Barriers to Trade",
+      "organization": "World Trade Organization",
+      "url": "https://www.wto.org/english/tratop_e/tbt_e/tbtagr.htm",
+      "supports": "National technical regulations, conformity assessment and enquiry-point responsibilities.",
+      "accessed_at": "2026-07-16"
+    },
+    {
+      "title": "UN GTR No.22: In-vehicle Battery Durability for Electrified Vehicles",
+      "organization": "United Nations Economic Commission for Europe",
+      "url": "https://unece.org/transport/documents/2022/04/standards/un-gtr-no22-vehicle-battery-durability-electrified-vehicles",
+      "supports": "Harmonised battery durability concepts that do not replace a VIN-specific condition or configuration check.",
+      "accessed_at": "2026-07-16"
+    },
+    {
+      "title": "Used Vehicles and the Environment: Update and Progress 2024",
+      "organization": "United Nations Environment Programme",
+      "url": "https://www.unep.org/resources/report/used-vehicles-and-environment-global-overview-used-light-duty-vehicles-flow-scale",
+      "supports": "International used-vehicle flows and the fact that import controls differ materially by destination.",
+      "accessed_at": "2026-07-16"
+    },
+    {
+      "title": "Conformity assessment procedures",
+      "organization": "World Trade Organization",
+      "url": "https://www.wto.org/english/tratop_e/tbt_e/conformity_assessment_proc_e.htm",
+      "supports": "Testing, inspection, verification and certification as distinct ways to demonstrate conformity.",
+      "accessed_at": "2026-07-16"
+    },
+    {
+      "organization": "U.S. Department of Energy Alternative Fuels Data Center",
+      "title": "All-Electric Vehicles",
+      "url": "https://afdc.energy.gov/vehicles/electric-basics-ev",
+      "supports": "Temperature and climate-control load can materially affect electric range and should be reflected in hot-weather acceptance testing.",
+      "accessed_at": "2026-08-26"
+    }
+  ],
+  "evidence_gaps": [
+    "Import, approval, tax, registration and operating rules require a dated check for the final Middle Eastern registration state; a regional example is not a legal conclusion.",
+    "Legal new-or-used status, battery condition, ownership history, software transfer and warranty eligibility remain VIN-specific and cannot be inferred from mileage.",
+    "No unverified price, inventory, configuration, warranty, charging coverage or repair capability is treated as fact; unknown items remain explicit decision gaps.",
+    "Every approval must retain the issuer, document version, access date, exact VIN or variant, accountable party and a stop rule if evidence conflicts."
+  ],
+  "editorial": {
+    "policy_version": "2026-08-15",
+    "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+    "author": {
+      "type": "Organization",
+      "name": "AutoBridge Export Editorial Team",
+      "url_path": "/authors/"
+    },
+    "methodology": "document_research_and_procurement_analysis",
+    "evidence": {
+      "level": "documented_sources",
+      "first_hand": false,
+      "note": "Documented public and primary sources only; no first-hand inspection, transaction, ownership or price claim is made."
+    },
+    "ai_assistance": {
+      "used": true,
+      "roles": [
+        "research_support",
+        "drafting_support",
+        "translation_support"
+      ],
+      "disclosure_required": true
+    },
+    "review": {
+      "status": "editorial_review_pending",
+      "reviewed_at": null,
+      "reviewer": null,
+      "human_reviewed": false
+    },
+    "previous_review": {
+      "status": "automated_quality_checked",
+      "reviewed_at": "2026-09-04T23:44:33.269748+00:00",
+      "reviewer": "",
+      "note": "Codex final editorial and multilingual QA completed; user authorized targeted publication."
+    }
+  },
+  "source_accessibility": [
+    {
+      "url": "https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars",
+      "used_by": [
+        "new-vs-used-ev-middle-east",
+        "seven-seat-suv-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:08:41.753Z",
+      "http_status": 403,
+      "final_url": "https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Just a moment...",
+      "received_bytes": 5585,
+      "response_sha256": "8e718598813885c0017dc3c0bcad902838a165701d92aac639178ef407cf0135",
+      "transport_error": null,
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.wto.org/english/tratop_e/tbt_e/tbtagr.htm",
+      "used_by": [
+        "new-vs-used-ev-middle-east",
+        "pickup-export-latin-america",
+        "seven-seat-suv-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:08:42.858Z",
+      "http_status": 206,
+      "final_url": "https://www.wto.org/english/tratop_e/tbt_e/tbtagr.htm",
+      "content_type": "text/html",
+      "title": "WTO | Agreement on Technical Barriers to Trade ",
+      "received_bytes": 87921,
+      "response_sha256": "269652fadc4b7045d9951dfc3a895f5104ad070f425c166d76bad335c4e96104",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://unece.org/transport/documents/2022/04/standards/un-gtr-no22-vehicle-battery-durability-electrified-vehicles",
+      "used_by": [
+        "new-vs-used-ev-middle-east"
+      ],
+      "checked_at": "2026-09-08T23:08:43.570Z",
+      "http_status": 403,
+      "final_url": "https://unece.org/transport/documents/2022/04/standards/un-gtr-no22-vehicle-battery-durability-electrified-vehicles",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Just a moment...",
+      "received_bytes": 5806,
+      "response_sha256": "cad42d1a616f05bfa78b1c6a2a583e872879fc502ae54ee57da48e49ea18ed8b",
+      "transport_error": null,
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.unep.org/resources/report/used-vehicles-and-environment-global-overview-used-light-duty-vehicles-flow-scale",
+      "used_by": [
+        "new-vs-used-ev-middle-east"
+      ],
+      "checked_at": "2026-09-08T23:08:44.306Z",
+      "http_status": 403,
+      "final_url": "https://www.unep.org/resources/report/used-vehicles-and-environment-global-overview-used-light-duty-vehicles-flow-scale",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Just a moment...",
+      "received_bytes": 5804,
+      "response_sha256": "87e85dc2b0978d50d26a867609a832ed78452f3aba73286565a8ba4a10217437",
+      "transport_error": null,
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.wto.org/english/tratop_e/tbt_e/conformity_assessment_proc_e.htm",
+      "used_by": [
+        "new-vs-used-ev-middle-east",
+        "pickup-export-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:08:45.142Z",
+      "http_status": 206,
+      "final_url": "https://www.wto.org/english/tratop_e/tbt_e/conformity_assessment_proc_e.htm",
+      "content_type": "text/html",
+      "title": "WTO | Conformity assessment procedures",
+      "received_bytes": 16679,
+      "response_sha256": "15ea694aef8bfd7d6fddad03b66acd09b258fabdce9b876c60fe6aa83d8add5f",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://afdc.energy.gov/vehicles/electric-basics-ev",
+      "used_by": [
+        "new-vs-used-ev-middle-east"
+      ],
+      "checked_at": "2026-09-08T23:08:48.158Z",
+      "http_status": 200,
+      "final_url": "https://afdc.energy.gov/vehicles/electric-basics-ev",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Alternative Fuels Data Center: All-Electric Vehicles",
+      "received_bytes": 23986,
+      "response_sha256": "a7019847c96ac9170f78502aa5c94cc04c1a45e4ac518eece87eace1333a33d1",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    }
+  ],
+  "note": "Source supports fields are assertions inherited from the candidate, not new independent factual approval. HTTP success is not claim verification."
+}

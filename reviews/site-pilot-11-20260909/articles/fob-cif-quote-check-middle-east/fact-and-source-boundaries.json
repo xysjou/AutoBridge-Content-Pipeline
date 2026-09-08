@@ -1,0 +1,203 @@
+{
+  "status": "NEEDS_RESEARCH_NOT_VERIFIED_FACT_SHEET",
+  "candidate_sha256": "f9fbaa2f90edfbbc083a8b12b481336129db467144a6edbfcb16043e33cd397b",
+  "search_intent": "Compare FOB and CIF quotations for Chinese vehicles shipped to a Middle Eastern destination",
+  "market": "Middle East",
+  "editorial_angle": "Middle East FOB and CIF quote verification should link Gulf conformity, Arabic customs files, port charges and registration to the same VIN list.",
+  "sources": [
+    {
+      "title": "Incoterms 2020 Checklist and Flowcharts",
+      "organization": "International Chamber of Commerce",
+      "url": "https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf",
+      "supports": "FOB and CIF delivery, cost, risk and insurance allocation and the suggested use of FCA for containerised movements.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "Frequently Asked Questions on Customs Valuation",
+      "organization": "World Customs Organization",
+      "url": "https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx",
+      "supports": "The distinction between invoice price and customs value and national treatment of freight.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "Mutabiq User Guide",
+      "organization": "GCC Standardization Organization",
+      "url": "https://gcc-gso.atlassian.net/wiki/spaces/CC/overview",
+      "supports": "The GSO user guide lists vehicle conformity authentication, fuel economy labels, recall registration and VIN registration. Its authorized-importer item is explicitly for motorcycles, not evidence of car-importer eligibility.",
+      "accessed_at": "2026-09-07",
+      "previous_url": "https://gso.static.app/",
+      "verification_scope": "Official GSO documentation was read via the browser research tool; the Mutabiq shortcut points to www.gso.org.sa. This is a system-scope check, not verification of a particular certificate or destination acceptance."
+    },
+    {
+      "title": "Vehicle Import Control",
+      "organization": "Zakat, Tax and Customs Authority of Saudi Arabia",
+      "url": "https://zatca.gov.sa/en/RulesRegulations/Taxes/Pages/customs-individual/import-vehicles.aspx",
+      "supports": "Saudi Arabia's destination-specific vehicle import eligibility and used or damaged vehicle controls.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "Customs Value Instructions for Imported Goods",
+      "organization": "General Authority of Customs of Qatar",
+      "url": "https://www.customs.gov.qa/English/Legislations/Documents/Executive%20Resolutions/13%20-A%20resolution%20on%20customs%20value%20instructions%20for%20imported%20goods.pdf",
+      "supports": "Qatar's documentary treatment of freight and insurance when determining imported-goods customs value.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "Imported Used Vehicle Technical Requirements",
+      "organization": "United Arab Emirates Ministry of Industry and Advanced Technology",
+      "url": "https://moiat.gov.ae/en/digital-participation/consultations/imported-used-vehicle-technical-requirements",
+      "supports": "A UAE example of prohibited used-vehicle damage categories and national technical-status controls.",
+      "accessed_at": "2026-08-22"
+    }
+  ],
+  "evidence_gaps": [
+    "The Middle East is not one customs or vehicle-approval territory, and even GCC conformity does not replace each state's import, tax, inspection, insurance and registration controls.",
+    "Current ocean freight, terminal, documentation, storage, testing, inland and banking costs require live quotes for the named port and importer.",
+    "The exact GSO certificate scope, model year, variant, VIN batch, authorised applicant and national acceptance must be authenticated for the vehicles offered.",
+    "CIF insurance details, battery-electric treatment, used or repaired condition, transshipment, territorial limits, deductibles and Arabic claims support require policy review.",
+    "Customs valuation and vehicle-condition evidence can be tested by national authorities, so no supplier amount or duty estimate is guaranteed."
+  ],
+  "editorial": {
+    "policy_version": "2026-08-15",
+    "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+    "author": {
+      "type": "Organization",
+      "name": "AutoBridge Export Editorial Team",
+      "url_path": "/authors/"
+    },
+    "methodology": "document_research_and_procurement_analysis",
+    "evidence": {
+      "level": "documented_sources",
+      "first_hand": false,
+      "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+    },
+    "ai_assistance": {
+      "used": true,
+      "roles": [
+        "research_support",
+        "drafting_support",
+        "translation_support"
+      ],
+      "disclosure_required": true
+    },
+    "review": {
+      "status": "editorial_review_pending",
+      "reviewed_at": null,
+      "reviewer": null,
+      "human_reviewed": false
+    },
+    "previous_review": {
+      "status": "human_reviewed",
+      "reviewed_at": "2026-08-23T08:15:52.985Z",
+      "reviewer": "codex-user-approved-direct-batch",
+      "note": "The publication decision was confirmed in the authenticated editorial workflow."
+    }
+  },
+  "source_accessibility": [
+    {
+      "url": "https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf",
+      "used_by": [
+        "fob-cif-quote-check-africa",
+        "fob-cif-quote-check-latin-america",
+        "fob-cif-quote-check-middle-east",
+        "fob-cif-quote-check-southeast-asia",
+        "roro-container-shipping-latin-america",
+        "price-verification-africa"
+      ],
+      "checked_at": "2026-09-08T23:06:46.632Z",
+      "http_status": 206,
+      "final_url": "https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf",
+      "content_type": "application/pdf",
+      "title": "",
+      "received_bytes": 262144,
+      "response_sha256": "6a6fd0494afe7a6c9f8b8a80883404674c97abf89d0ca69a0b3d84940dc65146",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx",
+      "used_by": [
+        "fob-cif-quote-check-africa",
+        "fob-cif-quote-check-latin-america",
+        "fob-cif-quote-check-middle-east",
+        "price-verification-africa"
+      ],
+      "checked_at": "2026-09-08T23:06:50.612Z",
+      "http_status": 200,
+      "final_url": "https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx",
+      "content_type": "text/html; charset=utf-8",
+      "title": " World Customs Organization ",
+      "received_bytes": 51029,
+      "response_sha256": "d8c0e811ddcbe8ff5a366b7955b00e18c55ee11108ad502a97f21564173c02f5",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://gcc-gso.atlassian.net/wiki/spaces/CC/overview",
+      "used_by": [
+        "fob-cif-quote-check-middle-east"
+      ],
+      "checked_at": "2026-09-08T23:07:40.597Z",
+      "http_status": 200,
+      "final_url": "https://gcc-gso.atlassian.net/wiki/spaces/CC/overview",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "title": "Mutabiq User Guide - Mutabiq User Guide - GSO e-Services Documentation",
+      "received_bytes": 1183318,
+      "response_sha256": "609bbcbaabf48b761a6358f9ec802d330f75b1a1faed58433d16fd72c9bd81bd",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://zatca.gov.sa/en/RulesRegulations/Taxes/Pages/customs-individual/import-vehicles.aspx",
+      "used_by": [
+        "fob-cif-quote-check-middle-east"
+      ],
+      "checked_at": "2026-09-08T23:07:45.188Z",
+      "http_status": 200,
+      "final_url": "https://zatca.gov.sa/en/RulesRegulations/Taxes/Pages/customs-individual/import-vehicles.aspx",
+      "content_type": "text/html; charset=utf-8",
+      "title": " Vehicle Import Control ",
+      "received_bytes": 238623,
+      "response_sha256": "ce76ac1bccebf4f2f5f31428b4c2e1eb82c1f4a9875924c4ec3a50bd7206fee4",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.customs.gov.qa/English/Legislations/Documents/Executive%20Resolutions/13%20-A%20resolution%20on%20customs%20value%20instructions%20for%20imported%20goods.pdf",
+      "used_by": [
+        "fob-cif-quote-check-middle-east"
+      ],
+      "checked_at": "2026-09-08T23:07:57.249Z",
+      "http_status": 0,
+      "final_url": "https://www.customs.gov.qa/English/Legislations/Documents/Executive%20Resolutions/13%20-A%20resolution%20on%20customs%20value%20instructions%20for%20imported%20goods.pdf",
+      "content_type": "",
+      "title": "",
+      "received_bytes": 0,
+      "response_sha256": null,
+      "transport_error": "curl: (28) SSL connection timeout\n",
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    },
+    {
+      "url": "https://moiat.gov.ae/en/digital-participation/consultations/imported-used-vehicle-technical-requirements",
+      "used_by": [
+        "fob-cif-quote-check-middle-east"
+      ],
+      "checked_at": "2026-09-08T23:08:10.450Z",
+      "http_status": 200,
+      "final_url": "https://moiat.gov.ae/en/digital-participation/consultations/imported-used-vehicle-technical-requirements",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Imported Used Vehicle Technical Requirements",
+      "received_bytes": 365142,
+      "response_sha256": "b8d19abdae63df15701ffaee8c413bced559328bd4e2bdeeac317f6cc26ab6d1",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    }
+  ],
+  "note": "Source supports fields are assertions inherited from the candidate, not new independent factual approval. HTTP success is not claim verification."
+}

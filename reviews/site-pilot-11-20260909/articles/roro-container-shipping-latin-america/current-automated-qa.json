@@ -1,0 +1,990 @@
+{
+  "candidate_sha256": "b1cce33d9ffc2a51ec69e931f6cbb244056391f90d6b543ae02a2d697a581e43",
+  "generated_at": "2026-09-08T23:08:08.678Z",
+  "pages": [
+    {
+      "relative": "en/guides/roro-container-shipping-latin-america.html",
+      "candidate_preview": true,
+      "language": "en",
+      "type": "guides",
+      "slug": "roro-container-shipping-latin-america",
+      "content_key": "guides/roro-container-shipping-latin-america",
+      "canonical": "https://www.autobridgeexport.com/guides/roro-container-shipping-latin-america.html",
+      "title": "Choose RoRo or Container for Latin America",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 10,
+      "image": {
+        "src": "../../assets/editorial/ramp-of-a-roro-ship-jpg.jpg",
+        "alt": "A car descending the ramp of the Utopia Ace vehicle carrier in Rotterdam",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "First-hand inspection, transaction or ownership experience is stated only when a dated evidence record is attached."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "ai_reviewed_user_authorized",
+          "reviewed_at": "2026-09-05T06:44:07.128Z",
+          "reviewer": "AI_REVIEWER",
+          "reviewer_commit": "",
+          "content_hash": "",
+          "publication_authorized_by": "codex-final-review-user-confirmed-2026-09-05",
+          "note": "Independent AI review passed and the user authorized publication. This is not a human editorial review."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 1320,
+      "character_count": 7807,
+      "repeated_paragraph_ratio": 0.19,
+      "image_reuse_count": 6,
+      "max_peer_similarity": 0.286,
+      "most_similar_peer": "en/guides/roro-container-shipping-southeast-asia.html",
+      "editorial_quality_score": 100,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 20,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 10,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [],
+      "quality_pass": true
+    },
+    {
+      "relative": "fr/guides/roro-container-shipping-latin-america.html",
+      "candidate_preview": true,
+      "language": "fr",
+      "type": "guides",
+      "slug": "roro-container-shipping-latin-america",
+      "content_key": "guides/roro-container-shipping-latin-america",
+      "canonical": "https://fr.autobridgeexport.com/guides/roro-container-shipping-latin-america.html",
+      "title": "transport automobile roulier ou en conteneur pour l’Amérique latine : guide d’achat fondé sur les preuves",
+      "repeated_sentence_padding": true,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 10,
+      "image": {
+        "src": "../../assets/editorial/ramp-of-a-roro-ship-jpg.jpg",
+        "alt": "Une voiture descend la rampe du transporteur de véhicules Utopia Ace à Rotterdam",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "First-hand inspection, transaction or ownership experience is stated only when a dated evidence record is attached."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "ai_reviewed_user_authorized",
+          "reviewed_at": "2026-09-05T06:44:07.128Z",
+          "reviewer": "AI_REVIEWER",
+          "reviewer_commit": "",
+          "content_hash": "",
+          "publication_authorized_by": "codex-final-review-user-confirmed-2026-09-05",
+          "note": "Independent AI review passed and the user authorized publication. This is not a human editorial review."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 1780,
+      "character_count": 10514,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 6,
+      "max_peer_similarity": 0.235,
+      "most_similar_peer": "fr/guides/roro-container-shipping-southeast-asia.html",
+      "editorial_quality_score": 70,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 0,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 0,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [
+        "repeated_sentence_padding",
+        "editorial_quality_score_below_85"
+      ],
+      "quality_pass": false
+    },
+    {
+      "relative": "de/guides/roro-container-shipping-latin-america.html",
+      "candidate_preview": true,
+      "language": "de",
+      "type": "guides",
+      "slug": "roro-container-shipping-latin-america",
+      "content_key": "guides/roro-container-shipping-latin-america",
+      "canonical": "https://de.autobridgeexport.com/guides/roro-container-shipping-latin-america.html",
+      "title": "Fahrzeugtransport per RoRo oder Container für Lateinamerika: evidenzbasierter Beschaffungsleitfaden",
+      "repeated_sentence_padding": true,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 10,
+      "image": {
+        "src": "../../assets/editorial/ramp-of-a-roro-ship-jpg.jpg",
+        "alt": "Ein Auto fährt die Rampe des Autotransporters Utopia Ace in Rotterdam hinunter",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "First-hand inspection, transaction or ownership experience is stated only when a dated evidence record is attached."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "ai_reviewed_user_authorized",
+          "reviewed_at": "2026-09-05T06:44:07.128Z",
+          "reviewer": "AI_REVIEWER",
+          "reviewer_commit": "",
+          "content_hash": "",
+          "publication_authorized_by": "codex-final-review-user-confirmed-2026-09-05",
+          "note": "Independent AI review passed and the user authorized publication. This is not a human editorial review."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 1417,
+      "character_count": 10443,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 6,
+      "max_peer_similarity": 0.235,
+      "most_similar_peer": "de/guides/roro-container-shipping-southeast-asia.html",
+      "editorial_quality_score": 70,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 0,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 0,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [
+        "repeated_sentence_padding",
+        "editorial_quality_score_below_85"
+      ],
+      "quality_pass": false
+    },
+    {
+      "relative": "es/guides/roro-container-shipping-latin-america.html",
+      "candidate_preview": true,
+      "language": "es",
+      "type": "guides",
+      "slug": "roro-container-shipping-latin-america",
+      "content_key": "guides/roro-container-shipping-latin-america",
+      "canonical": "https://es.autobridgeexport.com/guides/roro-container-shipping-latin-america.html",
+      "title": "envío de vehículos por RoRo o contenedor para América Latina: guía de compra basada en pruebas",
+      "repeated_sentence_padding": true,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 10,
+      "image": {
+        "src": "../../assets/editorial/ramp-of-a-roro-ship-jpg.jpg",
+        "alt": "Un automóvil baja por la rampa del buque portavehículos Utopia Ace en Róterdam",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "First-hand inspection, transaction or ownership experience is stated only when a dated evidence record is attached."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "ai_reviewed_user_authorized",
+          "reviewed_at": "2026-09-05T06:44:07.128Z",
+          "reviewer": "AI_REVIEWER",
+          "reviewer_commit": "",
+          "content_hash": "",
+          "publication_authorized_by": "codex-final-review-user-confirmed-2026-09-05",
+          "note": "Independent AI review passed and the user authorized publication. This is not a human editorial review."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 1673,
+      "character_count": 10220,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 6,
+      "max_peer_similarity": 0.235,
+      "most_similar_peer": "es/guides/roro-container-shipping-southeast-asia.html",
+      "editorial_quality_score": 70,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 0,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 0,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [
+        "repeated_sentence_padding",
+        "editorial_quality_score_below_85"
+      ],
+      "quality_pass": false
+    },
+    {
+      "relative": "pt-br/guides/roro-container-shipping-latin-america.html",
+      "candidate_preview": true,
+      "language": "pt-br",
+      "type": "guides",
+      "slug": "roro-container-shipping-latin-america",
+      "content_key": "guides/roro-container-shipping-latin-america",
+      "canonical": "https://pt.autobridgeexport.com/guides/roro-container-shipping-latin-america.html",
+      "title": "transporte de veículos por RoRo ou contêiner para a América Latina: guia de compra baseado em evidências",
+      "repeated_sentence_padding": true,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 10,
+      "image": {
+        "src": "../../assets/editorial/ramp-of-a-roro-ship-jpg.jpg",
+        "alt": "Um carro desce a rampa do navio de transporte de veículos Utopia Ace em Roterdã",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "First-hand inspection, transaction or ownership experience is stated only when a dated evidence record is attached."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "ai_reviewed_user_authorized",
+          "reviewed_at": "2026-09-05T06:44:07.128Z",
+          "reviewer": "AI_REVIEWER",
+          "reviewer_commit": "",
+          "content_hash": "",
+          "publication_authorized_by": "codex-final-review-user-confirmed-2026-09-05",
+          "note": "Independent AI review passed and the user authorized publication. This is not a human editorial review."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 1643,
+      "character_count": 10294,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 6,
+      "max_peer_similarity": 0.235,
+      "most_similar_peer": "pt-br/guides/roro-container-shipping-southeast-asia.html",
+      "editorial_quality_score": 70,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 0,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 0,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [
+        "repeated_sentence_padding",
+        "editorial_quality_score_below_85"
+      ],
+      "quality_pass": false
+    },
+    {
+      "relative": "ja/guides/roro-container-shipping-latin-america.html",
+      "candidate_preview": true,
+      "language": "ja",
+      "type": "guides",
+      "slug": "roro-container-shipping-latin-america",
+      "content_key": "guides/roro-container-shipping-latin-america",
+      "canonical": "https://ja.autobridgeexport.com/guides/roro-container-shipping-latin-america.html",
+      "title": "中南米向け自動車のRORO船・コンテナ輸送比較：証拠に基づく調達ガイド",
+      "repeated_sentence_padding": true,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 10,
+      "image": {
+        "src": "../../assets/editorial/ramp-of-a-roro-ship-jpg.jpg",
+        "alt": "ロッテルダムで自動車運搬船ユートピア・エースのランプを下りる車",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "First-hand inspection, transaction or ownership experience is stated only when a dated evidence record is attached."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "ai_reviewed_user_authorized",
+          "reviewed_at": "2026-09-05T06:44:07.128Z",
+          "reviewer": "AI_REVIEWER",
+          "reviewer_commit": "",
+          "content_hash": "",
+          "publication_authorized_by": "codex-final-review-user-confirmed-2026-09-05",
+          "note": "Independent AI review passed and the user authorized publication. This is not a human editorial review."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 526,
+      "character_count": 3874,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 6,
+      "max_peer_similarity": 0.267,
+      "most_similar_peer": "ja/guides/roro-container-shipping-southeast-asia.html",
+      "editorial_quality_score": 70,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 0,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 0,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [
+        "repeated_sentence_padding",
+        "editorial_quality_score_below_85"
+      ],
+      "quality_pass": false
+    },
+    {
+      "relative": "ko/guides/roro-container-shipping-latin-america.html",
+      "candidate_preview": true,
+      "language": "ko",
+      "type": "guides",
+      "slug": "roro-container-shipping-latin-america",
+      "content_key": "guides/roro-container-shipping-latin-america",
+      "canonical": "https://ko.autobridgeexport.com/guides/roro-container-shipping-latin-america.html",
+      "title": "라틴아메리카 대상 차량 로로선과 컨테이너 운송 비교: 증빙 중심 조달 안내",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 10,
+      "image": {
+        "src": "../../assets/editorial/ramp-of-a-roro-ship-jpg.jpg",
+        "alt": "로테르담에서 자동차 운반선 유토피아 에이스의 램프를 내려오는 차량",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "First-hand inspection, transaction or ownership experience is stated only when a dated evidence record is attached."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "ai_reviewed_user_authorized",
+          "reviewed_at": "2026-09-05T06:44:07.128Z",
+          "reviewer": "AI_REVIEWER",
+          "reviewer_commit": "",
+          "content_hash": "",
+          "publication_authorized_by": "codex-final-review-user-confirmed-2026-09-05",
+          "note": "Independent AI review passed and the user authorized publication. This is not a human editorial review."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 649,
+      "character_count": 2237,
+      "repeated_paragraph_ratio": 0.154,
+      "image_reuse_count": 6,
+      "max_peer_similarity": 0.231,
+      "most_similar_peer": "ko/guides/seven-seat-suv-latin-america.html",
+      "editorial_quality_score": 100,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 20,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 10,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [],
+      "quality_pass": true
+    },
+    {
+      "relative": "vi/guides/roro-container-shipping-latin-america.html",
+      "candidate_preview": true,
+      "language": "vi",
+      "type": "guides",
+      "slug": "roro-container-shipping-latin-america",
+      "content_key": "guides/roro-container-shipping-latin-america",
+      "canonical": "https://vi.autobridgeexport.com/guides/roro-container-shipping-latin-america.html",
+      "title": "vận chuyển xe bằng tàu RoRo hoặc container cho Mỹ Latinh: hướng dẫn thu mua dựa trên chứng cứ",
+      "repeated_sentence_padding": true,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 10,
+      "image": {
+        "src": "../../assets/editorial/ramp-of-a-roro-ship-jpg.jpg",
+        "alt": "Ô tô đi xuống cầu dẫn của tàu chở xe Utopia Ace tại Rotterdam",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "First-hand inspection, transaction or ownership experience is stated only when a dated evidence record is attached."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "ai_reviewed_user_authorized",
+          "reviewed_at": "2026-09-05T06:44:07.128Z",
+          "reviewer": "AI_REVIEWER",
+          "reviewer_commit": "",
+          "content_hash": "",
+          "publication_authorized_by": "codex-final-review-user-confirmed-2026-09-05",
+          "note": "Independent AI review passed and the user authorized publication. This is not a human editorial review."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 2139,
+      "character_count": 10134,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 6,
+      "max_peer_similarity": 0.211,
+      "most_similar_peer": "vi/guides/roro-container-shipping-southeast-asia.html",
+      "editorial_quality_score": 70,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 0,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 0,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [
+        "repeated_sentence_padding",
+        "editorial_quality_score_below_85"
+      ],
+      "quality_pass": false
+    },
+    {
+      "relative": "th/guides/roro-container-shipping-latin-america.html",
+      "candidate_preview": true,
+      "language": "th",
+      "type": "guides",
+      "slug": "roro-container-shipping-latin-america",
+      "content_key": "guides/roro-container-shipping-latin-america",
+      "canonical": "https://th.autobridgeexport.com/guides/roro-container-shipping-latin-america.html",
+      "title": "การขนส่งรถด้วยเรือโรลออนโรลออฟหรือคอนเทนเนอร์ สำหรับ ลาตินอเมริกา: คู่มือจัดซื้อบนหลักฐาน",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 10,
+      "image": {
+        "src": "../../assets/editorial/ramp-of-a-roro-ship-jpg.jpg",
+        "alt": "รถยนต์กำลังลงทางลาดจากเรือขนส่งรถยูโทเปียเอซที่รอตเตอร์ดัม",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "First-hand inspection, transaction or ownership experience is stated only when a dated evidence record is attached."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "ai_reviewed_user_authorized",
+          "reviewed_at": "2026-09-05T06:44:07.128Z",
+          "reviewer": "AI_REVIEWER",
+          "reviewer_commit": "",
+          "content_hash": "",
+          "publication_authorized_by": "codex-final-review-user-confirmed-2026-09-05",
+          "note": "Independent AI review passed and the user authorized publication. This is not a human editorial review."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 1637,
+      "character_count": 8507,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 6,
+      "max_peer_similarity": 0.211,
+      "most_similar_peer": "th/guides/roro-container-shipping-southeast-asia.html",
+      "editorial_quality_score": 100,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 20,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 10,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [],
+      "quality_pass": true
+    },
+    {
+      "relative": "id/guides/roro-container-shipping-latin-america.html",
+      "candidate_preview": true,
+      "language": "id",
+      "type": "guides",
+      "slug": "roro-container-shipping-latin-america",
+      "content_key": "guides/roro-container-shipping-latin-america",
+      "canonical": "https://id.autobridgeexport.com/guides/roro-container-shipping-latin-america.html",
+      "title": "pengiriman kendaraan dengan RoRo atau kontainer untuk Amerika Latin: panduan pengadaan berbasis bukti",
+      "repeated_sentence_padding": true,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 10,
+      "image": {
+        "src": "../../assets/editorial/ramp-of-a-roro-ship-jpg.jpg",
+        "alt": "Mobil menuruni ramp kapal pengangkut kendaraan Utopia Ace di Rotterdam",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "First-hand inspection, transaction or ownership experience is stated only when a dated evidence record is attached."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "ai_reviewed_user_authorized",
+          "reviewed_at": "2026-09-05T06:44:07.128Z",
+          "reviewer": "AI_REVIEWER",
+          "reviewer_commit": "",
+          "content_hash": "",
+          "publication_authorized_by": "codex-final-review-user-confirmed-2026-09-05",
+          "note": "Independent AI review passed and the user authorized publication. This is not a human editorial review."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 1521,
+      "character_count": 10009,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 6,
+      "max_peer_similarity": 0.235,
+      "most_similar_peer": "id/guides/roro-container-shipping-southeast-asia.html",
+      "editorial_quality_score": 70,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 0,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 0,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [
+        "repeated_sentence_padding",
+        "editorial_quality_score_below_85"
+      ],
+      "quality_pass": false
+    },
+    {
+      "relative": "ar/guides/roro-container-shipping-latin-america.html",
+      "candidate_preview": true,
+      "language": "ar",
+      "type": "guides",
+      "slug": "roro-container-shipping-latin-america",
+      "content_key": "guides/roro-container-shipping-latin-america",
+      "canonical": "https://ar.autobridgeexport.com/guides/roro-container-shipping-latin-america.html",
+      "title": "شحن المركبات بالدحرجة أو الحاوية من أجل أمريكا اللاتينية: دليل شراء قائم على الأدلة",
+      "repeated_sentence_padding": true,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 10,
+      "image": {
+        "src": "../../assets/editorial/ramp-of-a-roro-ship-jpg.jpg",
+        "alt": "سيارة تنزل من منحدر سفينة نقل السيارات يوتوبيا إيس في روتردام",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "First-hand inspection, transaction or ownership experience is stated only when a dated evidence record is attached."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "ai_reviewed_user_authorized",
+          "reviewed_at": "2026-09-05T06:44:07.128Z",
+          "reviewer": "AI_REVIEWER",
+          "reviewer_commit": "",
+          "content_hash": "",
+          "publication_authorized_by": "codex-final-review-user-confirmed-2026-09-05",
+          "note": "Independent AI review passed and the user authorized publication. This is not a human editorial review."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 1176,
+      "character_count": 6841,
+      "repeated_paragraph_ratio": 0.133,
+      "image_reuse_count": 6,
+      "max_peer_similarity": 0.313,
+      "most_similar_peer": "ar/guides/roro-container-shipping-southeast-asia.html",
+      "editorial_quality_score": 70,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 0,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 0,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [
+        "repeated_sentence_padding",
+        "editorial_quality_score_below_85"
+      ],
+      "quality_pass": false
+    },
+    {
+      "relative": "zh/guides/roro-container-shipping-latin-america.html",
+      "candidate_preview": true,
+      "language": "zh",
+      "type": "guides",
+      "slug": "roro-container-shipping-latin-america",
+      "content_key": "guides/roro-container-shipping-latin-america",
+      "canonical": "https://zh.autobridgeexport.com/guides/roro-container-shipping-latin-america.html",
+      "title": "拉丁美洲滚装船与集装箱运输：先建立交易证据，再比较价格或方案",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 10,
+      "image": {
+        "src": "../../assets/editorial/ramp-of-a-roro-ship-jpg.jpg",
+        "alt": "汽车沿坡道驶下停靠鹿特丹的Utopia Ace汽车运输船",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "First-hand inspection, transaction or ownership experience is stated only when a dated evidence record is attached."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "ai_reviewed_user_authorized",
+          "reviewed_at": "2026-09-05T06:44:07.128Z",
+          "reviewer": "AI_REVIEWER",
+          "reviewer_commit": "",
+          "content_hash": "",
+          "publication_authorized_by": "codex-final-review-user-confirmed-2026-09-05",
+          "note": "Independent AI review passed and the user authorized publication. This is not a human editorial review."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 322,
+      "character_count": 2906,
+      "repeated_paragraph_ratio": 0.316,
+      "image_reuse_count": 6,
+      "max_peer_similarity": 0.368,
+      "most_similar_peer": "zh/guides/pickup-export-latin-america.html",
+      "editorial_quality_score": 100,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 20,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 10,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [],
+      "quality_pass": true
+    }
+  ]
+}

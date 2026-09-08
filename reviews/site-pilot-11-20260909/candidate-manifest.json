@@ -1,0 +1,712 @@
+{
+  "generated_at": "2026-09-08T23:05:46.305Z",
+  "scope": "Targeted English prose repairs; no source or publication approval is inferred from restoring a complete paragraph.",
+  "records": [
+    {
+      "slug": "fob-cif-quote-check-africa",
+      "title_zh": "非洲进口中国汽车：FOB与CIF报价按港口和内陆走廊核对",
+      "source": "content/buyer-guides/fob-cif-quote-check-africa.json",
+      "source_sha256": "3d079110031850de6650baa10b5e171bfd0fc16f7212cd729fc8213714096c1d",
+      "candidate_sha256": "2fdc2d30e7913da2a49995e4b01f4011e3d835a1936b5e5de6515e786859298b",
+      "before_en_sha256": "52d2a037af6a8520dbc5cbaa9ed5cb1b8da0d4d449fb3c2a3391c4246e07a70a",
+      "after_en_sha256": "54f80740378b0dac90f16420e5036bd94e8a4878a7dcdee79648bb5f4d5cefe1",
+      "method": {
+        "action": "Recover complete, non-scaffolded English sections; preserve current hero, summary, image and citations",
+        "backup": "data-ops/ai-content-rebuild/backups/2026-08-22T03-52-02-770Z/guides/fob-cif-quote-check-africa.json",
+        "backup_sha256": "8d99be59f649935db735fce854af168dc412888fb769ea0f55f5d200b5fa13b0"
+      },
+      "known_english_workflow_leakage_after": false,
+      "preserved_language_versions": [
+        "zh"
+      ],
+      "status": "REVISION_REQUIRED",
+      "blockers": [
+        "source_fact_reverification",
+        "full_12_language_coherence_and_fact_alignment",
+        "peer_article_overlap",
+        "image_caption_and_rights_review"
+      ],
+      "deployed": false,
+      "image_description_repair": {
+        "locales": [
+          "en",
+          "fr",
+          "de",
+          "es",
+          "pt-br",
+          "ja",
+          "ko",
+          "vi",
+          "th",
+          "id",
+          "ar",
+          "zh"
+        ],
+        "asset_sha256": "55ac118768810bec3202992960c58d440b5e15766705ec9410be0869e5eff34e",
+        "reviewed_at": "2026-09-06T23:14:15.495Z",
+        "publication_approved": false
+      },
+      "locale_body_recovery": {
+        "at": "2026-09-07T11:24:17.534Z",
+        "locales": [
+          "fr",
+          "de",
+          "es",
+          "pt-br",
+          "ja",
+          "ko",
+          "vi",
+          "th",
+          "id",
+          "ar"
+        ],
+        "publication_approved": false,
+        "report": "locale-body-recovery-report.json"
+      },
+      "chinese_repetition_repair": {
+        "at": "2026-09-08T11:02:37.696Z",
+        "report": "chinese-repetition-repair-report.json",
+        "publication_approved": false
+      }
+    },
+    {
+      "slug": "fob-cif-quote-check-latin-america",
+      "title_zh": "中国汽车出口拉丁美洲：FOB与CIF报价从港口核到首次登记",
+      "source": "content/buyer-guides/fob-cif-quote-check-latin-america.json",
+      "source_sha256": "bafc340bb6a156191dd093f4a3685b92f8d56867e3e2a8c0a4b5b50aea9e96aa",
+      "candidate_sha256": "f16312056bf090fddfd10ece5f3003ec00eabd5ff22853ea14a90b54e37cb3d0",
+      "before_en_sha256": "7ea7f63a0ac31b56d97e1c2ef79361be94fa62c438f9f2d92988b015d340a72c",
+      "after_en_sha256": "c8a55fa77d8b8d0959cea95d79d8a1829ac90d1b9cc759616cf3f03320f59b18",
+      "method": {
+        "action": "Recover complete, non-scaffolded English sections; preserve current hero, summary, image and citations",
+        "backup": "data-ops/ai-content-rebuild/backups/2026-08-22T03-52-03-657Z/guides/fob-cif-quote-check-latin-america.json",
+        "backup_sha256": "593ce9328f3e8c6339b412f10028d48803158b5a9171f5b3f156305fed25ba79"
+      },
+      "known_english_workflow_leakage_after": false,
+      "preserved_language_versions": [
+        "zh"
+      ],
+      "status": "REVISION_REQUIRED",
+      "blockers": [
+        "source_fact_reverification",
+        "full_12_language_coherence_and_fact_alignment",
+        "peer_article_overlap",
+        "image_caption_and_rights_review"
+      ],
+      "deployed": false,
+      "image_description_repair": {
+        "locales": [
+          "en",
+          "fr",
+          "de",
+          "es",
+          "pt-br",
+          "ja",
+          "ko",
+          "vi",
+          "th",
+          "id",
+          "ar",
+          "zh"
+        ],
+        "asset_sha256": "84beddb95b9ee60760d792ec447d615513517ad5cb000ee456bff9b36c5256a4",
+        "reviewed_at": "2026-09-06T23:14:15.495Z",
+        "publication_approved": false
+      },
+      "locale_body_recovery": {
+        "at": "2026-09-07T11:24:17.534Z",
+        "locales": [
+          "fr",
+          "de",
+          "es",
+          "pt-br",
+          "ja",
+          "ko",
+          "vi",
+          "th",
+          "id",
+          "ar"
+        ],
+        "publication_approved": false,
+        "report": "locale-body-recovery-report.json"
+      },
+      "chinese_repetition_repair": {
+        "at": "2026-09-08T11:02:37.696Z",
+        "report": "chinese-repetition-repair-report.json",
+        "publication_approved": false
+      }
+    },
+    {
+      "slug": "fob-cif-quote-check-middle-east",
+      "title_zh": "中国汽车出口中东：FOB与CIF报价要分开核对GCC认证、海关和上牌",
+      "source": "content/buyer-guides/fob-cif-quote-check-middle-east.json",
+      "source_sha256": "861c80435b4e95c13ee2855089ba026de5bc4bf7912301d83030dff20cef3dce",
+      "candidate_sha256": "f9fbaa2f90edfbbc083a8b12b481336129db467144a6edbfcb16043e33cd397b",
+      "before_en_sha256": "ee108f984252b64ad087aba1b18ec19ec7d25fca905fdddbbedd02ce34f9d9d3",
+      "after_en_sha256": "177576994980f5b66cd732548362181f24904de85ce428e90b4bf573235f164a",
+      "method": {
+        "action": "Recover complete, non-scaffolded English sections; preserve current hero, summary, image and citations",
+        "backup": "data-ops/ai-content-rebuild/backups/2026-08-22T03-52-04-554Z/guides/fob-cif-quote-check-middle-east.json",
+        "backup_sha256": "0a2c71be2c06f4f8fe5574a0df05d159e2690a08be4fc4727b15e479e4453bf3"
+      },
+      "known_english_workflow_leakage_after": false,
+      "preserved_language_versions": [
+        "zh"
+      ],
+      "status": "REVISION_REQUIRED",
+      "blockers": [
+        "source_fact_reverification",
+        "full_12_language_coherence_and_fact_alignment",
+        "peer_article_overlap",
+        "image_caption_and_rights_review"
+      ],
+      "deployed": false,
+      "image_description_repair": {
+        "locales": [
+          "en",
+          "fr",
+          "de",
+          "es",
+          "pt-br",
+          "ja",
+          "ko",
+          "vi",
+          "th",
+          "id",
+          "ar",
+          "zh"
+        ],
+        "asset_sha256": "576f86936f074f64bb0090561dc00e613e10bb6d6016b651b061c0acd2665151",
+        "reviewed_at": "2026-09-06T23:14:15.495Z",
+        "publication_approved": false
+      },
+      "confirmed_source_repair": {
+        "checked_at": "2026-09-07T11:19:08.134Z",
+        "count": 1,
+        "report": "confirmed-source-repair-report.json",
+        "publication_approved": false
+      },
+      "locale_body_recovery": {
+        "at": "2026-09-07T11:24:17.534Z",
+        "locales": [
+          "fr",
+          "de",
+          "es",
+          "pt-br",
+          "ja",
+          "ko",
+          "vi",
+          "th",
+          "id",
+          "ar"
+        ],
+        "publication_approved": false,
+        "report": "locale-body-recovery-report.json"
+      },
+      "chinese_repetition_repair": {
+        "at": "2026-09-08T11:02:37.696Z",
+        "report": "chinese-repetition-repair-report.json",
+        "publication_approved": false
+      }
+    },
+    {
+      "slug": "fob-cif-quote-check-southeast-asia",
+      "title_zh": "中国汽车出口东南亚：FOB与CIF报价要算到许可、岛屿运输和上牌",
+      "source": "content/buyer-guides/fob-cif-quote-check-southeast-asia.json",
+      "source_sha256": "aee88b292e9d3c2bcc67e4bcd1abbd5de5a351f9a3488f4124c43232dbef7bba",
+      "candidate_sha256": "9344fd26973c804397a139cd05254d4df7bdb96016ae7c47c231725bb350c143",
+      "before_en_sha256": "166d5715a11578ded53418d6bb036a3f6c44c23d9401f9886b1aca82ea3800e5",
+      "after_en_sha256": "29b826314b97df6a09c3512eb5fce2fd1ff008c301eb72a72b7760e99e206101",
+      "method": {
+        "action": "Recover complete, non-scaffolded English sections; preserve current hero, summary, image and citations",
+        "backup": "data-ops/ai-content-rebuild/backups/2026-08-22T03-52-05-265Z/guides/fob-cif-quote-check-southeast-asia.json",
+        "backup_sha256": "e309ab602db740d724b694bf33edd1b9399c5a6ded8e44f21044365591592523"
+      },
+      "known_english_workflow_leakage_after": false,
+      "preserved_language_versions": [
+        "zh"
+      ],
+      "status": "REVISION_REQUIRED",
+      "blockers": [
+        "source_fact_reverification",
+        "full_12_language_coherence_and_fact_alignment",
+        "peer_article_overlap",
+        "image_caption_and_rights_review"
+      ],
+      "deployed": false,
+      "image_description_repair": {
+        "locales": [
+          "en",
+          "fr",
+          "de",
+          "es",
+          "pt-br",
+          "ja",
+          "ko",
+          "vi",
+          "th",
+          "id",
+          "ar",
+          "zh"
+        ],
+        "asset_sha256": "98b7993b5a8724025349cbf0c6d067c37a47675b03c1deaa3b75eb4106561dd5",
+        "reviewed_at": "2026-09-06T23:14:15.495Z",
+        "publication_approved": false
+      },
+      "confirmed_source_repair": {
+        "checked_at": "2026-09-07T11:19:08.134Z",
+        "count": 2,
+        "report": "confirmed-source-repair-report.json",
+        "publication_approved": false
+      },
+      "locale_body_recovery": {
+        "at": "2026-09-07T11:24:17.534Z",
+        "locales": [
+          "fr",
+          "de",
+          "es",
+          "pt-br",
+          "ja",
+          "ko",
+          "vi",
+          "th",
+          "id",
+          "ar"
+        ],
+        "publication_approved": false,
+        "report": "locale-body-recovery-report.json"
+      }
+    },
+    {
+      "slug": "best-chinese-suvs-southeast-asia",
+      "title_zh": "东南亚采购中国SUV：先核对国家版本，再比较安全、雨季和充电",
+      "source": "content/buyer-guides/best-chinese-suvs-southeast-asia.json",
+      "source_sha256": "2207e7b73043bef3993b805faab5eb2a4f2c623cb60087e898f92f49d05bc146",
+      "candidate_sha256": "8a041aef52262084bcc4b991118d5bf0f7b5f915835a4e353493800b6e725ea7",
+      "before_en_sha256": "fd19488ec503bcfde11c8af342290a58fe66421fd98a1905d9cd1c37cee70aa0",
+      "after_en_sha256": "28e6bf07f1a2ff0c01e2a7e471b14d18aaf64b67742d11f55a33aaa94c7d5166",
+      "method": {
+        "action": "Recover complete, non-scaffolded English sections; preserve current hero, summary, image and citations",
+        "backup": "data-ops/ai-content-rebuild/backups/2026-08-22T03-52-01-970Z/guides/best-chinese-suvs-southeast-asia.json",
+        "backup_sha256": "13404cb0836ade44f4c71d3faae698fb89083d346482f900594bfaead12976ff"
+      },
+      "known_english_workflow_leakage_after": false,
+      "preserved_language_versions": [
+        "zh"
+      ],
+      "status": "REVISION_REQUIRED",
+      "blockers": [
+        "source_fact_reverification",
+        "full_12_language_coherence_and_fact_alignment",
+        "peer_article_overlap",
+        "image_caption_and_rights_review"
+      ],
+      "deployed": false,
+      "image_description_repair": {
+        "locales": [
+          "en",
+          "fr",
+          "de",
+          "es",
+          "pt-br",
+          "ja",
+          "ko",
+          "vi",
+          "th",
+          "id",
+          "ar",
+          "zh"
+        ],
+        "asset_sha256": "7ed3ccfa767c03d3e26191191f52a1b1db67bcb2e63d66c23e54b62dbed1db0a",
+        "reviewed_at": "2026-09-06T23:14:15.495Z",
+        "publication_approved": false
+      },
+      "locale_body_recovery": {
+        "at": "2026-09-07T11:24:17.534Z",
+        "locales": [
+          "fr",
+          "de",
+          "es",
+          "pt-br",
+          "ja",
+          "ko",
+          "vi",
+          "th",
+          "id",
+          "ar"
+        ],
+        "publication_approved": false,
+        "report": "locale-body-recovery-report.json"
+      },
+      "chinese_repetition_repair": {
+        "at": "2026-09-08T11:02:37.696Z",
+        "report": "chinese-repetition-repair-report.json",
+        "publication_approved": false
+      }
+    },
+    {
+      "slug": "battery-warranty-southeast-asia",
+      "title_zh": "东南亚电动车电池质保：先建立交易证据，再比较价格或方案",
+      "source": "content/buyer-guides/battery-warranty-southeast-asia.json",
+      "source_sha256": "d02d99fa2877268df33653372a731d6ed9c1a9ddf8065419df2781ecc430b134",
+      "candidate_sha256": "0fd291de29b00b18de9e272ac7ff9cc519170b33fb16f858cedd7214eeb2f41a",
+      "before_en_sha256": "574ac51461798a9374a8f771b40a7be4a3485ecc67badade8371b868d92df977",
+      "after_en_sha256": "6dcb7bfb8ab0b938530dc040cf1ee94ecf87c5822401c5e74f533752e1e2af58",
+      "method": {
+        "action": "Replace observed internal publishing instructions with article-specific buyer consequences",
+        "replacements": 1
+      },
+      "known_english_workflow_leakage_after": false,
+      "preserved_language_versions": [
+        "zh"
+      ],
+      "status": "REVISION_REQUIRED",
+      "blockers": [
+        "source_fact_reverification",
+        "full_12_language_coherence_and_fact_alignment",
+        "peer_article_overlap",
+        "image_caption_and_rights_review"
+      ],
+      "deployed": false,
+      "image_description_repair": {
+        "locales": [
+          "en",
+          "fr",
+          "de",
+          "es",
+          "pt-br",
+          "ja",
+          "ko",
+          "vi",
+          "th",
+          "id",
+          "ar",
+          "zh"
+        ],
+        "asset_sha256": "ac83119d38f58948f3b5464c48be2ea89d4a0c32e79d4debe5042fc89326e207",
+        "reviewed_at": "2026-09-06T23:14:15.495Z",
+        "publication_approved": false
+      },
+      "locale_body_recovery": {
+        "at": "2026-09-07T22:57:33.012Z",
+        "locales": [
+          "fr",
+          "de",
+          "es",
+          "pt-br",
+          "ja",
+          "ko",
+          "vi",
+          "th",
+          "id",
+          "ar"
+        ],
+        "publication_approved": false,
+        "report": "battery-locale-body-recovery-report.json"
+      },
+      "chinese_repetition_repair": {
+        "at": "2026-09-08T11:02:37.696Z",
+        "report": "chinese-repetition-repair-report.json",
+        "publication_approved": false
+      }
+    },
+    {
+      "slug": "new-vs-used-ev-middle-east",
+      "title_zh": "中东新车与二手电动车采购：先建立交易证据，再比较价格或方案",
+      "source": "content/buyer-guides/new-vs-used-ev-middle-east.json",
+      "source_sha256": "4f5445e70333d1b3327cef03837b75ea57741efc001035f07ed0fb14a156b73a",
+      "candidate_sha256": "914747d13f01cf68b66e82bdf4f1a97ded9ca95193bf980eb07c8382aef66c3f",
+      "before_en_sha256": "ceaac904e5d1433051156a1c08ba13994e99529a661afd35ef57d1289b639afa",
+      "after_en_sha256": "8068d51bb3c32f2abedf398b2662d5023cb948a908175ef3dc5d7ffa471d22c1",
+      "method": {
+        "action": "Replace observed internal publishing instructions with article-specific buyer consequences",
+        "replacements": 3
+      },
+      "known_english_workflow_leakage_after": false,
+      "preserved_language_versions": [
+        "fr",
+        "de",
+        "es",
+        "pt-br",
+        "ja",
+        "ko",
+        "vi",
+        "th",
+        "id",
+        "ar",
+        "zh"
+      ],
+      "status": "REVISION_REQUIRED",
+      "blockers": [
+        "source_fact_reverification",
+        "full_12_language_coherence_and_fact_alignment",
+        "peer_article_overlap",
+        "image_caption_and_rights_review"
+      ],
+      "deployed": false,
+      "image_description_repair": {
+        "locales": [
+          "en",
+          "fr",
+          "de",
+          "es",
+          "pt-br",
+          "ja",
+          "ko",
+          "vi",
+          "th",
+          "id",
+          "ar",
+          "zh"
+        ],
+        "asset_sha256": "ac83119d38f58948f3b5464c48be2ea89d4a0c32e79d4debe5042fc89326e207",
+        "reviewed_at": "2026-09-06T23:14:15.495Z",
+        "publication_approved": false
+      },
+      "english_coherence_repair": {
+        "at": "2026-09-08T23:05:46.305Z",
+        "scope": "English argument structure, coherent sections and non-templated summary",
+        "untouched": "Title, topic, URL, source list, image and 11 other locales",
+        "blocked": [
+          "Destination-specific evidence still required",
+          "Core source verification incomplete",
+          "11 locales need alignment to revised English",
+          "Independent review and user approval required"
+        ],
+        "before_sha256": "5b25b0f158c73bac50c79a209a9a056c73c7a03a66d0fc6e2d553ca13f454986",
+        "first_hand": false
+      }
+    },
+    {
+      "slug": "pickup-export-latin-america",
+      "title_zh": "拉丁美洲出口皮卡采购：先建立交易证据，再比较价格或方案",
+      "source": "content/buyer-guides/pickup-export-latin-america.json",
+      "source_sha256": "5747ff42e4e90616bece1e84f35dd8d89c05acac0da2f375e4f75741779833be",
+      "candidate_sha256": "21f08d1604563d6cf267fef31b41a9e5489bd01202b8ec76a8dd121bf72864ec",
+      "before_en_sha256": "2ed50ddee7a81e2ff8fa3cd30fe27c37ae2035d850140c54359175fe53af61f3",
+      "after_en_sha256": "0cd1eed7c6d147c0b5c7207e13c08dbcb7d23f1357642452130c1c8834209567",
+      "method": {
+        "action": "Replace observed internal publishing instructions with article-specific buyer consequences",
+        "replacements": 1
+      },
+      "known_english_workflow_leakage_after": false,
+      "preserved_language_versions": [
+        "fr",
+        "de",
+        "es",
+        "pt-br",
+        "ja",
+        "ko",
+        "vi",
+        "th",
+        "id",
+        "ar",
+        "zh"
+      ],
+      "status": "REVISION_REQUIRED",
+      "blockers": [
+        "source_fact_reverification",
+        "full_12_language_coherence_and_fact_alignment",
+        "peer_article_overlap",
+        "image_caption_and_rights_review"
+      ],
+      "deployed": false,
+      "image_description_repair": {
+        "locales": [
+          "en",
+          "fr",
+          "de",
+          "es",
+          "pt-br",
+          "ja",
+          "ko",
+          "vi",
+          "th",
+          "id",
+          "ar",
+          "zh"
+        ],
+        "asset_sha256": "6db62d4f0b51e8a1505f80e233908d3118fd07db774c9bd97e45859a57218c6d",
+        "reviewed_at": "2026-09-06T23:14:15.495Z",
+        "publication_approved": false
+      },
+      "chinese_repetition_repair": {
+        "at": "2026-09-08T11:02:37.696Z",
+        "report": "chinese-repetition-repair-report.json",
+        "publication_approved": false
+      }
+    },
+    {
+      "slug": "roro-container-shipping-latin-america",
+      "title_zh": "拉丁美洲滚装船与集装箱运输：先建立交易证据，再比较价格或方案",
+      "source": "content/buyer-guides/roro-container-shipping-latin-america.json",
+      "source_sha256": "a12dfc0f509bb57b0e06e414a6c8c921a60b459d54316d16915d551dfc69b106",
+      "candidate_sha256": "b1cce33d9ffc2a51ec69e931f6cbb244056391f90d6b543ae02a2d697a581e43",
+      "before_en_sha256": "54ba3a42bffeb928631d7ef7f53c29ace020cf3007408a3205442e5d270f71fb",
+      "after_en_sha256": "cd05f11c2b1bee3ca15921a8bacc10a9dd4a7f7d9e59f53785a1615e6da40aeb",
+      "method": {
+        "action": "Replace observed internal publishing instructions with article-specific buyer consequences",
+        "replacements": 1
+      },
+      "known_english_workflow_leakage_after": false,
+      "preserved_language_versions": [
+        "fr",
+        "de",
+        "es",
+        "pt-br",
+        "ja",
+        "ko",
+        "vi",
+        "th",
+        "id",
+        "ar",
+        "zh"
+      ],
+      "status": "REVISION_REQUIRED",
+      "blockers": [
+        "source_fact_reverification",
+        "full_12_language_coherence_and_fact_alignment",
+        "peer_article_overlap",
+        "image_caption_and_rights_review"
+      ],
+      "deployed": false,
+      "image_description_repair": {
+        "locales": [
+          "en",
+          "fr",
+          "de",
+          "es",
+          "pt-br",
+          "ja",
+          "ko",
+          "vi",
+          "th",
+          "id",
+          "ar",
+          "zh"
+        ],
+        "asset_sha256": "4c62933a5f7a64a82b476ac8ab799efd8b440f46bf2d0667728442ab3951aa9b",
+        "reviewed_at": "2026-09-06T23:14:15.495Z",
+        "publication_approved": false
+      },
+      "chinese_repetition_repair": {
+        "at": "2026-09-08T11:02:37.696Z",
+        "report": "chinese-repetition-repair-report.json",
+        "publication_approved": false
+      }
+    },
+    {
+      "slug": "seven-seat-suv-latin-america",
+      "title_zh": "拉丁美洲七座SUV采购：先建立交易证据，再比较价格或方案",
+      "source": "content/buyer-guides/seven-seat-suv-latin-america.json",
+      "source_sha256": "99bc253968a61efd6d18ff93fd8129c3e698be77afe19a91b7cd618e18c4d889",
+      "candidate_sha256": "75a7e2d8370f5b3f554bb8ac4b50e139b0e66c60812b2257856d450d34c44412",
+      "before_en_sha256": "3888b8ac51135011be9f83198ef65320639d48ef87630f9aa7360eb51c43555c",
+      "after_en_sha256": "658b02deba65f952bd4e7c93d5e10ad1460bd05b7a64b3a247eb3312573c1b92",
+      "method": {
+        "action": "Replace observed internal publishing instructions with article-specific buyer consequences",
+        "replacements": 2
+      },
+      "known_english_workflow_leakage_after": false,
+      "preserved_language_versions": [
+        "fr",
+        "de",
+        "es",
+        "pt-br",
+        "ja",
+        "ko",
+        "vi",
+        "th",
+        "id",
+        "ar",
+        "zh"
+      ],
+      "status": "REVISION_REQUIRED",
+      "blockers": [
+        "source_fact_reverification",
+        "full_12_language_coherence_and_fact_alignment",
+        "peer_article_overlap",
+        "image_caption_and_rights_review"
+      ],
+      "deployed": false,
+      "image_description_repair": {
+        "locales": [
+          "en",
+          "fr",
+          "de",
+          "es",
+          "pt-br",
+          "ja",
+          "ko",
+          "vi",
+          "th",
+          "id",
+          "ar",
+          "zh"
+        ],
+        "asset_sha256": "62e9a26f3454ec9745fad4c558d8e2295a2a546831e48e7a78c163b3f40eb0bb",
+        "reviewed_at": "2026-09-06T23:14:15.495Z",
+        "publication_approved": false
+      },
+      "chinese_repetition_repair": {
+        "at": "2026-09-08T11:02:37.696Z",
+        "report": "chinese-repetition-repair-report.json",
+        "publication_approved": false
+      }
+    },
+    {
+      "slug": "price-verification-africa",
+      "title_zh": "非洲进口中国汽车：价格核验与CIF报价按港口和内陆走廊核对",
+      "source": "content/buyer-guides/price-verification-africa.json",
+      "source_sha256": "c759fc305ab2fc21dccaec0fb0984d6a621d042b6b57cd4e73394a025c7da2e3",
+      "candidate_sha256": "65545924a0524c7b9d47b532993e8abb292e86cc1100f5c27f6cf9df81139e21",
+      "before_en_sha256": "4602fe33448ed670258a3100cdc49f3b0343742a74ede2ed7bcf121a74009f0b",
+      "after_en_sha256": "d7fe76a10e7d159a5c4173bbc171609b5a078c683f9f10e2b6932b2a76f270dd",
+      "method": {
+        "action": "Replace observed internal publishing instructions with article-specific buyer consequences",
+        "replacements": 1
+      },
+      "known_english_workflow_leakage_after": false,
+      "preserved_language_versions": [
+        "fr",
+        "de",
+        "es",
+        "pt-br",
+        "ja",
+        "ko",
+        "vi",
+        "th",
+        "id",
+        "ar",
+        "zh"
+      ],
+      "status": "REVISION_REQUIRED",
+      "blockers": [
+        "source_fact_reverification",
+        "full_12_language_coherence_and_fact_alignment",
+        "peer_article_overlap",
+        "image_caption_and_rights_review"
+      ],
+      "deployed": false,
+      "image_description_repair": {
+        "locales": [
+          "en",
+          "fr",
+          "de",
+          "es",
+          "pt-br",
+          "ja",
+          "ko",
+          "vi",
+          "th",
+          "id",
+          "ar",
+          "zh"
+        ],
+        "asset_sha256": "55ac118768810bec3202992960c58d440b5e15766705ec9410be0869e5eff34e",
+        "reviewed_at": "2026-09-06T23:14:15.495Z",
+        "publication_approved": false
+      }
+    }
+  ]
+}

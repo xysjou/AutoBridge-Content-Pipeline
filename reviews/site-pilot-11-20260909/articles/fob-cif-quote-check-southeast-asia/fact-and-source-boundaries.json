@@ -1,0 +1,204 @@
+{
+  "status": "NEEDS_RESEARCH_NOT_VERIFIED_FACT_SHEET",
+  "candidate_sha256": "9344fd26973c804397a139cd05254d4df7bdb96016ae7c47c231725bb350c143",
+  "search_intent": "Compare FOB and CIF quotations for Chinese vehicles imported into a Southeast Asian country",
+  "market": "Southeast Asia",
+  "editorial_angle": "Southeast Asian FOB and CIF comparisons should include country permits, transshipment, feeder or inter-island delivery, port charges and first registration.",
+  "sources": [
+    {
+      "title": "Incoterms 2020 Checklist and Flowcharts",
+      "organization": "International Chamber of Commerce",
+      "url": "https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf",
+      "supports": "FOB and CIF for maritime delivery and the relevance of FCA or CIP for containerised and multimodal carriage.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "Establishing the Customs Value",
+      "organization": "Singapore Customs",
+      "url": "https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/establishing-the-customs-value/",
+      "supports": "Singapore-specific vehicle transaction valuation, freight and insurance additions, conditions for using transaction value and alternatives; different acquisition scenarios for used vehicles.",
+      "accessed_at": "2026-09-07",
+      "previous_url": "https://www.customs.gov.sg/doing-business/import-operations/import-procedures/importing-dutiable-motor-vehicles/establishing-the-customs-value/",
+      "verification_scope": "Read the current page reached from Singapore Customs' Importing Vehicles and Boats index. The article does not publish a numerical valuation or tax rate."
+    },
+    {
+      "title": "Guide to Importing Dutiable Motor Vehicles",
+      "organization": "Singapore Customs",
+      "url": "https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/guide-to-importing-dutiable-motor-vehicles/",
+      "supports": "Singapore vehicle customs-value assessment, approval, duty and GST permit, port clearance, and referral to LTA for registration. Customs clearance is not itself permission for road use.",
+      "accessed_at": "2026-09-07",
+      "previous_url": "https://www.customs.gov.sg/doing-business/import-operations/import-procedures/importing-dutiable-motor-vehicles/",
+      "verification_scope": "Read the current guide reached from the official Singapore Customs index. Applies to Singapore only."
+    },
+    {
+      "title": "Procedures on Importation and Registration of a Car",
+      "organization": "Singapore Land Transport Authority",
+      "url": "https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/Importation_Guidelines/Car.pdf",
+      "supports": "A destination-specific example linking vehicle approval and registration to import evidence.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "Approved Permit Application of Personal Vehicles",
+      "organization": "Ministry of Investment, Trade and Industry of Malaysia",
+      "url": "https://www.miti.gov.my/miti/resources/Approve%2520Permit/AP%2520Announcement/Notice_for_Application_of_Personal_Vehicle_Import_License_%28AP%29_%2815072019%29_BI.pdf",
+      "supports": "Malaysia's destination-specific Approved Permit application for personal vehicle imports.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "ASEAN Guidelines on Light Electric Vehicles",
+      "organization": "Association of Southeast Asian Nations",
+      "url": "https://asean.org/wp-content/uploads/2024/11/ASEAN-Guidelines-LEV_ISBN.pdf",
+      "supports": "Differences among ASEAN member states in vehicle approval, charging, battery performance, testing and related standards.",
+      "accessed_at": "2026-08-22"
+    }
+  ],
+  "evidence_gaps": [
+    "ASEAN guidance does not create one vehicle import, customs, steering-side, approval, charging or registration system; the exact national authority must confirm the offered variant.",
+    "Feeder, ferry, inter-island, terminal, storage, inland, dangerous-goods and banking charges vary by country, island, carrier and shipment date.",
+    "A CIF named seaport does not prove delivery to an inland or island destination, nor continuous insurance after discharge.",
+    "Preferential origin, if claimed, requires an applicable agreement and valid product-specific evidence and cannot be inferred from shipment from China or an Incoterm.",
+    "Electric, used, damaged or repaired vehicle acceptance, battery state and ferry rules require written confirmation from the actual carrier and destination authorities."
+  ],
+  "editorial": {
+    "policy_version": "2026-08-15",
+    "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+    "author": {
+      "type": "Organization",
+      "name": "AutoBridge Export Editorial Team",
+      "url_path": "/authors/"
+    },
+    "methodology": "document_research_and_procurement_analysis",
+    "evidence": {
+      "level": "documented_sources",
+      "first_hand": false,
+      "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+    },
+    "ai_assistance": {
+      "used": true,
+      "roles": [
+        "research_support",
+        "drafting_support",
+        "translation_support"
+      ],
+      "disclosure_required": true
+    },
+    "review": {
+      "status": "editorial_review_pending",
+      "reviewed_at": null,
+      "reviewer": null,
+      "human_reviewed": false
+    },
+    "previous_review": {
+      "status": "human_reviewed",
+      "reviewed_at": "2026-08-23T08:15:53.326Z",
+      "reviewer": "codex-user-approved-direct-batch",
+      "note": "The publication decision was confirmed in the authenticated editorial workflow."
+    }
+  },
+  "source_accessibility": [
+    {
+      "url": "https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf",
+      "used_by": [
+        "fob-cif-quote-check-africa",
+        "fob-cif-quote-check-latin-america",
+        "fob-cif-quote-check-middle-east",
+        "fob-cif-quote-check-southeast-asia",
+        "roro-container-shipping-latin-america",
+        "price-verification-africa"
+      ],
+      "checked_at": "2026-09-08T23:06:46.632Z",
+      "http_status": 206,
+      "final_url": "https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf",
+      "content_type": "application/pdf",
+      "title": "",
+      "received_bytes": 262144,
+      "response_sha256": "6a6fd0494afe7a6c9f8b8a80883404674c97abf89d0ca69a0b3d84940dc65146",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/establishing-the-customs-value/",
+      "used_by": [
+        "fob-cif-quote-check-southeast-asia"
+      ],
+      "checked_at": "2026-09-08T23:08:12.042Z",
+      "http_status": 403,
+      "final_url": "https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/establishing-the-customs-value/",
+      "content_type": "text/html",
+      "title": "ERROR: The request could not be satisfied",
+      "received_bytes": 919,
+      "response_sha256": "f8f44c3edb0ff502f2855f3396146aae73c95fb8e0c76a5b593e7152ff503a4a",
+      "transport_error": null,
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/guide-to-importing-dutiable-motor-vehicles/",
+      "used_by": [
+        "fob-cif-quote-check-southeast-asia"
+      ],
+      "checked_at": "2026-09-08T23:08:12.548Z",
+      "http_status": 403,
+      "final_url": "https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/guide-to-importing-dutiable-motor-vehicles/",
+      "content_type": "text/html",
+      "title": "ERROR: The request could not be satisfied",
+      "received_bytes": 919,
+      "response_sha256": "d3db5fa0c9e1c83e416d4b5fa31ffbc1381f65aced1091dd1a45436cd8eb3702",
+      "transport_error": null,
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    },
+    {
+      "url": "https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/Importation_Guidelines/Car.pdf",
+      "used_by": [
+        "fob-cif-quote-check-southeast-asia",
+        "battery-warranty-southeast-asia"
+      ],
+      "checked_at": "2026-09-08T23:08:16.925Z",
+      "http_status": 206,
+      "final_url": "https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/Importation_Guidelines/Car.pdf",
+      "content_type": "application/pdf",
+      "title": "",
+      "received_bytes": 262144,
+      "response_sha256": "f940da0a9fad68483d245a3cef7752ba547a599b4ffef521ec9fcbb896529087",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.miti.gov.my/miti/resources/Approve%2520Permit/AP%2520Announcement/Notice_for_Application_of_Personal_Vehicle_Import_License_%28AP%29_%2815072019%29_BI.pdf",
+      "used_by": [
+        "fob-cif-quote-check-southeast-asia"
+      ],
+      "checked_at": "2026-09-08T23:08:20.220Z",
+      "http_status": 206,
+      "final_url": "https://www.miti.gov.my/miti/resources/Approve%2520Permit/AP%2520Announcement/Notice_for_Application_of_Personal_Vehicle_Import_License_%28AP%29_%2815072019%29_BI.pdf",
+      "content_type": "application/pdf",
+      "title": "",
+      "received_bytes": 15123,
+      "response_sha256": "26e7099f93f24982ef32833c1bf629bb2ebd396015fc95ceb53b0f2eeeb8e1e0",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://asean.org/wp-content/uploads/2024/11/ASEAN-Guidelines-LEV_ISBN.pdf",
+      "used_by": [
+        "fob-cif-quote-check-southeast-asia",
+        "battery-warranty-southeast-asia"
+      ],
+      "checked_at": "2026-09-08T23:08:21.390Z",
+      "http_status": 403,
+      "final_url": "https://asean.org/wp-content/uploads/2024/11/ASEAN-Guidelines-LEV_ISBN.pdf",
+      "content_type": "text/html",
+      "title": "Sucuri WebSite Firewall - Access Denied",
+      "received_bytes": 2314,
+      "response_sha256": "de85a183cea893b77e193e45c77d7cf16c3b1fb8f6ab4cf03ce6cd8c33a5a868",
+      "transport_error": null,
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    }
+  ],
+  "note": "Source supports fields are assertions inherited from the candidate, not new independent factual approval. HTTP success is not claim verification."
+}

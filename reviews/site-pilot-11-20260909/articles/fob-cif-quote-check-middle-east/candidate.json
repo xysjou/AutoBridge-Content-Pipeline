@@ -1,0 +1,631 @@
+{
+  "schema_version": "1.0",
+  "type": "buyer_guide",
+  "slug": "fob-cif-quote-check-middle-east",
+  "source_language": "zh",
+  "status": "quality_hold",
+  "canonical_path": "/en/guides/fob-cif-quote-check-middle-east.html",
+  "search_intent": "Compare FOB and CIF quotations for Chinese vehicles shipped to a Middle Eastern destination",
+  "market": "Middle East",
+  "image": {
+    "src": "../../assets/editorial/jebel-ali-free-zone-11-jpg.jpg",
+    "alt": "Container-handling cranes at Jebel Ali",
+    "caption": "Container-handling cranes at Jebel Ali. Reference photograph, not a record of an AutoBridge inspection or transaction.",
+    "wiki_title": "Container ship",
+    "review_note": "Image description corrected; full article review and publication approval remain pending.",
+    "wiki_file_title": "Jebel Ali Free Zone 11.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Jebel_Ali_Free_Zone_11.jpg",
+    "source_file_page": "https://commons.wikimedia.org/wiki/File:Jebel_Ali_Free_Zone_11.jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Jebel_Ali_Free_Zone_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "license": "CC BY-SA 3.0",
+    "artist": "Bjoertvedt",
+    "credit": "Own work",
+    "candidate_description": "Container cranes owned by Dubai Port Authority, Jebel Ali, Dubai (UAE)",
+    "identity_status": "confirmed_topic_match",
+    "identity_reviewed": true,
+    "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+    "identity_reviewer": "codex-ai-visual-review",
+    "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+    "asset_sha256": "576f86936f074f64bb0090561dc00e613e10bb6d6016b651b061c0acd2665151",
+    "evidence_scope": "reference_illustration_not_first_hand",
+    "previous_identity_review": {
+      "status": "confirmed_model_match",
+      "note": "Visible Jebel Ali DP World container cranes match the Middle East FOB/CIF port and quote verification guide."
+    }
+  },
+  "translations": {
+    "en": {
+      "title": "FOB vs CIF vehicle quotes for the Middle East: separate Gulf conformity from cost",
+      "seo_title": "Middle East FOB vs CIF Vehicle Quote Check",
+      "meta_description": "Compare China vehicle FOB and CIF quotes for one Middle Eastern state and port, including insurance, Gulf conformity, customs value, Arabic documents and registration.",
+      "summary": "For a Middle Eastern destination, separate FOB–CIF shipping obligations from conformity documents and registration. A free-zone arrival and delivery into the final national market need distinct cost and responsibility checks.",
+      "eyebrow": "Middle East vehicle quote audit",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../en/index.html\">Home</a><span>/</span><a href=\"../../en/guides/index.html\">Guides</a><span>/</span><span>FOB vs CIF vehicle quotes for the Middle East: separate Gulf conformity from cost</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">Middle East vehicle quote audit</p>\n      <h1>FOB vs CIF vehicle quotes for the Middle East: separate Gulf conformity from cost</h1>\n      <p class=\"lead\">For a Middle Eastern destination, separate FOB–CIF shipping obligations from conformity documents and registration. A free-zone arrival and delivery into the final national market need distinct cost and responsibility checks.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/jebel-ali-free-zone-11-jpg.jpg\" alt=\"Container-handling cranes at Jebel Ali\" loading=\"lazy\"><figcaption>Container-handling cranes at Jebel Ali. Reference photograph, not a record of an AutoBridge inspection or transaction.</figcaption></figure>\n      <h2>Begin with the state, terminal and registering authority</h2>\n      <p>State the destination country, discharge terminal, importer of record, final emirate or registration city, expected arrival and handover point. “CIF GCC” is not a named port and says nothing about non-GCC Middle Eastern destinations. If the vehicle transits through another Gulf state, identify first entry, customs transit, re-export and final clearance responsibilities rather than assuming one port release covers the complete route.</p>\n      <p>Freeze model year, exact variant, powertrain, condition, colour, quantity and VINs. Saudi ZATCA vehicle controls, the UAE&#39;s used-vehicle technical-status requirements and GSO&#39;s Mutabiq system illustrate different layers. Have the final state confirm age, damage history, efficiency or technical evidence, importer eligibility and registration route for the offered vehicle.</p>\n      <h2>Locate FOB and CIF risk at the correct shipment point</h2>\n      <p>An FOB offer should identify the Chinese loading port and itemise collection, inland haulage, export inspection, declaration, terminal and loading. Risk normally transfers when the vehicle is on board the buyer-nominated ship. Under CIF the seller pays sea carriage to the named Middle Eastern destination port and arranges insurance, but risk still transfers on board in China; CIF does not make the seller carry arrival risk.</p>\n      <p>For a container handed to the terminal before loading, FCA may reflect the handover better; for seller-arranged insured multimodal carriage, assess CIP. The appendix should state RoRo or container, direct or transshipped service, carrier, booking validity and battery or fuel-state instructions. Obtain carrier confirmation for restrictions involving electric, used, repaired or deck-carried vehicles rather than relying on a freight agent&#39;s general assurance.</p>\n      <h2>Take Gulf conformity out of the freight bundle</h2>\n      <p>GSO Mutabiq supports authentication of vehicle conformity certificates, VIN uploads, labels and recalls, but a marketing claim of “GCC specification” does not prove authenticity or scope. Obtain verifiable certificate data from the manufacturer or authorised applicant and match make, model, category, model year, technical evidence, VIN batch, status and QR authentication to the vehicles being paid for.</p>\n      <p>Ask the destination standards, transport and registration bodies whether a national certificate, product-status statement, prior import approval, Arabic label, inspection or local insurance is also required. List applicant, official fee, test, translation, validity and failed-application responsibility for each item. FOB and CIF allocate transport tasks; they do not make a vehicle technically admissible.</p>\n      <h2>Keep separate ledgers for port, Customs and local road entry</h2>\n      <p>The origin ledger contains vehicle, export file, China inland movement and loading; ocean contains base freight, surcharges, transshipment and cargo insurance; arrival contains unloading, delivery documentation, terminal, examination, storage, agency and vehicle testing; customs contains valuation, duty, import taxes and permits; local contains towing, road insurance, adaptation, inspection, registration and delivery preparation.</p>\n      <p>For every line record US dollars or local currency, tax status, billing unit, payee, validity, evidence and due date. Arabic and English charge names should reconcile with the actual invoice. Obtain a schedule from a named port agent with free-time terms. “Local charges at actual” is not a budget, and a refundable security deposit should not be mixed with an unrecoverable operating cost.</p>\n      <h2>Rework customs value and insurance under national rules</h2>\n      <p>The World Customs Organization explains that invoice amount is not automatically customs value. Qatar&#39;s valuation instructions address documentary treatment of carriage and insurance, while Saudi Arabia maintains its own vehicle valuation and import controls. These sources show why CIF components need evidence, not why one state&#39;s method applies elsewhere. An FOB transaction likewise needs actual freight and insurance support.</p>\n      <p>Audit the CIF policy for insurer, value and currency, endpoints, wording, deductible, exclusions, transshipment, EV battery, used or repaired status, claims jurisdiction and Arabic claims access. If cover ends at the destination port, arrange protection for towing, testing-site delay and pre-registration storage. Define arrival survey, photographs and carrier reservations before release so the buyer can preserve a claim.</p>\n      <h2>Approve the quote through three release gates</h2>\n      <p>The commercial gate confirms vehicle, price, port, payment and sailing. The eligibility gate confirms GSO or national evidence, VIN, importer status and condition are accepted. The landed gate confirms customs value, port charges, local transport, insurance, testing and registration have owners and cost ranges. An item that has not passed its gate is an open risk, not a zero in the total.</p>\n      <p>FOB or FCA can suit a buyer that controls booking, insurance and a Gulf agent network; transparent CIF can reduce ocean coordination for a smaller shipment. Price both to the same registration point and stress-test freight, currency and delay. Tie final payment to verifiable shipment, conformity, insurance and delivery of original or accepted electronic records usable by the destination importer.</p>\n      <h2>Frequently asked questions</h2>\n      <h3>Does CIF to a Gulf port include customs duty and VAT?</h3>\n      <p>Do not infer that it does. CIF allocates price, ocean carriage and insurance; destination clearance and taxes require separate contractual and legal treatment.</p>\n      <h3>Is a seller&#39;s “GCC specification” statement enough?</h3>\n      <p>No. Authenticate the certificate and match model year, variant, VIN scope and applicant, then confirm destination-state acceptance.</p>\n      <h3>Does the CIF seller carry loss risk until arrival?</h3>\n      <p>Normally no. The seller arranges freight and insurance, while risk transfers when the vehicle is on board in China.</p>\n      <h3>Can Qatar or Saudi valuation rules be used across the Middle East?</h3>\n      <p>No. They are national examples; the final importing state&#39;s law and authority control the transaction.</p>\n      <h3>When should Arabic documents be prepared?</h3>\n      <p>Before shipment, after the importer confirms translation, authentication, label and electronic-filing formats for the destination.</p>\n\n      <h2>Sources</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Frequently Asked Questions on Customs Valuation</a><span>World Customs Organization · 2026-08-22</span></li>\n        <li><a href=\"https://gcc-gso.atlassian.net/wiki/spaces/CC/overview\" target=\"_blank\" rel=\"noopener noreferrer\">Mutabiq User Guide</a><span>GCC Standardization Organization · 2026-09-07</span></li>\n        <li><a href=\"https://zatca.gov.sa/en/RulesRegulations/Taxes/Pages/customs-individual/import-vehicles.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Vehicle Import Control</a><span>Zakat, Tax and Customs Authority of Saudi Arabia · 2026-08-22</span></li>\n        <li><a href=\"https://www.customs.gov.qa/English/Legislations/Documents/Executive%20Resolutions/13%20-A%20resolution%20on%20customs%20value%20instructions%20for%20imported%20goods.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Customs Value Instructions for Imported Goods</a><span>General Authority of Customs of Qatar · 2026-08-22</span></li>\n        <li><a href=\"https://moiat.gov.ae/en/digital-participation/consultations/imported-used-vehicle-technical-requirements\" target=\"_blank\" rel=\"noopener noreferrer\">Imported Used Vehicle Technical Requirements</a><span>United Arab Emirates Ministry of Industry and Advanced Technology · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "word_count": 1637,
+      "reading_time_minutes": 8,
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/jebel-ali-free-zone-11-jpg.jpg",
+        "alt": "Container-handling cranes at Jebel Ali",
+        "caption": "Container-handling cranes at Jebel Ali. Reference photograph, not a record of an AutoBridge inspection or transaction.",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Jebel Ali Free Zone 11.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Jebel_Ali_Free_Zone_11.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Jebel_Ali_Free_Zone_11.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Jebel_Ali_Free_Zone_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 3.0",
+        "artist": "Bjoertvedt",
+        "credit": "Own work",
+        "candidate_description": "Container cranes owned by Dubai Port Authority, Jebel Ali, Dubai (UAE)",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "576f86936f074f64bb0090561dc00e613e10bb6d6016b651b061c0acd2665151",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Jebel Ali DP World container cranes match the Middle East FOB/CIF port and quote verification guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "fr": {
+      "title": "Comparer FOB et CIF pour les véhicules chinois au Moyen-Orient",
+      "seo_title": "Moyen-Orient : contrôle véhicule FOB ou CIF",
+      "meta_description": "Comparez FOB et CIF pour un État et un port précis, avec assurance, conformité du Golfe, valeur douanière, documents arabes et immatriculation.",
+      "summary": "Pour une destination au Moyen-Orient, distinguez les obligations FOB–CIF des documents de conformité et de l'immatriculation. Vérifiez séparément l'arrivée en zone franche et la livraison dans le marché final.",
+      "eyebrow": "Audit des devis Moyen-Orient",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../fr/index.html\">Accueil</a><span>/</span><a href=\"../../fr/guides/index.html\">Guides</a><span>/</span><span>Comparer FOB et CIF pour les véhicules chinois au Moyen-Orient</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">Audit des devis Moyen-Orient</p>\n      <h1>Comparer FOB et CIF pour les véhicules chinois au Moyen-Orient</h1>\n      <p class=\"lead\">Pour une destination au Moyen-Orient, distinguez les obligations FOB–CIF des documents de conformité et de l&#39;immatriculation. Vérifiez séparément l&#39;arrivée en zone franche et la livraison dans le marché final.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/jebel-ali-free-zone-11-jpg.jpg\" alt=\"Grues de manutention de conteneurs à Jebel Ali\" loading=\"lazy\"><figcaption>Grues de manutention de conteneurs à Jebel Ali. Photo d’illustration, et non compte rendu d’une inspection ou d’une transaction AutoBridge.</figcaption></figure>\n      <h2>Définir État, terminal et autorité d&#39;immatriculation</h2>\n      <p>Indiquez pays, terminal, importateur, émirat ou ville d&#39;immatriculation, arrivée et lieu de remise. « CIF GCC » n&#39;est pas un port; un transit par un autre État exige de répartir première entrée, transit, réexportation et dédouanement final. Figez année-modèle, version, énergie, état, couleur, quantité et VIN. Les contrôles saoudiens, les exigences techniques des Émirats et le système GSO Mutabiq sont des couches différentes; l&#39;État final doit accepter l&#39;âge, l&#39;historique, la preuve technique, l&#39;importateur et le parcours de registre.</p>\n      <h2>Placer correctement risque FOB et CIF</h2>\n      <p>FOB nomme le port chinois et détaille collecte, route, inspection export, déclaration, terminal et chargement; le risque passe normalement à bord. CIF paie fret et assurance jusqu&#39;au port moyen-oriental nommé, mais le risque passe encore en Chine. Pour un conteneur remis avant chargement, examinez FCA; pour un trajet multimodal assuré par le vendeur, examinez CIP. L&#39;annexe précise RoRo ou conteneur, transbordement, transporteur, validité et consignes batterie ou carburant, confirmées pour véhicule électrique, usagé ou réparé.</p>\n      <h2>Sortir la conformité du prix de fret</h2>\n      <p>Mutabiq authentifie des certificats, VIN, étiquettes et rappels; la mention commerciale « spécification GCC » n&#39;en prouve ni authenticité ni portée. Vérifiez auprès du constructeur ou demandeur autorisé marque, modèle, catégorie, année, essais, lot VIN, statut et QR. Demandez ensuite au pays final les certificats nationaux, déclaration d&#39;état, autorisation préalable, étiquette arabe, inspection et assurance locale. Chaque demande a un titulaire, un coût, une traduction, une durée et une responsabilité en cas de refus; FOB ou CIF ne crée aucune admissibilité technique.</p>\n      <h2>Séparer port, douane et entrée routière</h2>\n      <p>Tenez cinq comptes: véhicule, dossier export, route chinoise et chargement; fret, suppléments, transbordement et assurance; déchargement, documents, terminal, contrôle, stockage, agence et essai; valeur, droits, taxes et permis; puis remorquage, assurance routière, adaptation, inspection, registre et préparation. Chaque ligne porte devise, taxe, unité, bénéficiaire, validité, preuve et date. Les libellés arabe et anglais doivent correspondre; un agent nommé fournit franchise portuaire, et les dépôts remboursables restent séparés des coûts définitifs.</p>\n      <h2>Passer trois portes avant d&#39;approuver</h2>\n      <p>L&#39;OMD rappelle que facture et valeur douanière diffèrent parfois. Le Qatar documente fret et assurance; l&#39;Arabie saoudite applique ses propres contrôles. Auditez aussi assuré, valeur, franchise, exclusions, transbordement, batterie, occasion, réparation, juridiction et assistance arabe, puis couvrez remorquage et stockage si la police s&#39;arrête au port. N&#39;approuvez qu&#39;après la porte commerciale, la porte d&#39;admissibilité et la porte du coût rendu. Comparez les options au même lieu et liez le solde à l&#39;embarquement, au certificat, à l&#39;assurance et aux documents utilisables. </p>\n      <h2>Questions fréquentes</h2>\n      <h3>CIF comprend-il droits et TVA ?</h3>\n      <p>Pas automatiquement. Dédouanement et taxes sont des obligations de destination distinctes.</p>\n      <h3>La mention GCC suffit-elle ?</h3>\n      <p>Non. Authentifiez certificat, variante, année, VIN et acceptation nationale.</p>\n      <h3>Le risque CIF reste-t-il au vendeur ?</h3>\n      <p>Non en général; il passe à bord en Chine malgré le fret et l&#39;assurance du vendeur.</p>\n      <h3>Une règle qatarie vaut-elle partout ?</h3>\n      <p>Non. Chaque État importateur applique son droit et sa décision.</p>\n\n      <h2>Sources</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Frequently Asked Questions on Customs Valuation</a><span>World Customs Organization · 2026-08-22</span></li>\n        <li><a href=\"https://gcc-gso.atlassian.net/wiki/spaces/CC/overview\" target=\"_blank\" rel=\"noopener noreferrer\">Mutabiq User Guide</a><span>GCC Standardization Organization · 2026-09-07</span></li>\n        <li><a href=\"https://zatca.gov.sa/en/RulesRegulations/Taxes/Pages/customs-individual/import-vehicles.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Vehicle Import Control</a><span>Zakat, Tax and Customs Authority of Saudi Arabia · 2026-08-22</span></li>\n        <li><a href=\"https://www.customs.gov.qa/English/Legislations/Documents/Executive%20Resolutions/13%20-A%20resolution%20on%20customs%20value%20instructions%20for%20imported%20goods.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Customs Value Instructions for Imported Goods</a><span>General Authority of Customs of Qatar · 2026-08-22</span></li>\n        <li><a href=\"https://moiat.gov.ae/en/digital-participation/consultations/imported-used-vehicle-technical-requirements\" target=\"_blank\" rel=\"noopener noreferrer\">Imported Used Vehicle Technical Requirements</a><span>United Arab Emirates Ministry of Industry and Advanced Technology · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/jebel-ali-free-zone-11-jpg.jpg",
+        "alt": "Grues de manutention de conteneurs à Jebel Ali",
+        "caption": "Grues de manutention de conteneurs à Jebel Ali. Photo d’illustration, et non compte rendu d’une inspection ou d’une transaction AutoBridge.",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Jebel Ali Free Zone 11.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Jebel_Ali_Free_Zone_11.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Jebel_Ali_Free_Zone_11.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Jebel_Ali_Free_Zone_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 3.0",
+        "artist": "Bjoertvedt",
+        "credit": "Own work",
+        "candidate_description": "Container cranes owned by Dubai Port Authority, Jebel Ali, Dubai (UAE)",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "576f86936f074f64bb0090561dc00e613e10bb6d6016b651b061c0acd2665151",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Jebel Ali DP World container cranes match the Middle East FOB/CIF port and quote verification guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "de": {
+      "title": "FOB- und CIF-Fahrzeugangebote für den Nahen Osten prüfen",
+      "seo_title": "Nahost: Fahrzeugangebot FOB oder CIF prüfen",
+      "meta_description": "Vergleichen Sie FOB und CIF für Staat und Hafen samt Versicherung, Golf-Konformität, Zollwert, arabischen Dokumenten und Zulassung.",
+      "summary": "Trennen Sie beim Import in den Nahen Osten FOB-/CIF-Pflichten von Konformitätsnachweisen und Zulassung. Ankunft in einer Freizone und Übergabe im endgültigen Absatzland brauchen getrennte Kostenprüfungen.",
+      "eyebrow": "Angebotsaudit Nahost",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../de/index.html\">Startseite</a><span>/</span><a href=\"../../de/guides/index.html\">Leitfäden</a><span>/</span><span>FOB- und CIF-Fahrzeugangebote für den Nahen Osten prüfen</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">Angebotsaudit Nahost</p>\n      <h1>FOB- und CIF-Fahrzeugangebote für den Nahen Osten prüfen</h1>\n      <p class=\"lead\">Trennen Sie beim Import in den Nahen Osten FOB-/CIF-Pflichten von Konformitätsnachweisen und Zulassung. Ankunft in einer Freizone und Übergabe im endgültigen Absatzland brauchen getrennte Kostenprüfungen.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/jebel-ali-free-zone-11-jpg.jpg\" alt=\"Containerkräne in Jebel Ali\" loading=\"lazy\"><figcaption>Containerkräne in Jebel Ali. Beispielfoto, kein Nachweis einer Prüfung oder eines Geschäfts von AutoBridge.</figcaption></figure>\n      <h2>Staat, Terminal und Zulassungsstelle festlegen</h2>\n      <p>Nennen Sie Land, Terminal, Importeur, Emirat oder Zulassungsstadt, Ankunft und Übergabepunkt. „CIF GCC“ ist kein Hafen; Transit über einen anderen Golfstaat verlangt klare Zuständigkeit für Ersteintritt, Transit, Wiederausfuhr und Endabfertigung. Fixieren Sie Modelljahr, Variante, Antrieb, Zustand, Farbe, Zahl und VIN. Saudi-Kontrollen, technische UAE-Anforderungen und GSO Mutabiq sind unterschiedliche Ebenen; der Endstaat muss Alter, Historie, Technik, Importeur und Registrierungsweg akzeptieren.</p>\n      <h2>FOB- und CIF-Gefahr richtig verorten</h2>\n      <p>FOB benennt den chinesischen Hafen und trennt Abholung, Vorlauf, Exportprüfung, Anmeldung, Terminal und Verladung; Gefahr geht üblicherweise an Bord über. CIF bezahlt Fracht und Versicherung bis zum benannten Nahosthafen, doch die Gefahr geht ebenfalls in China über. Bei Containerübergabe vor Verladung prüfen Sie FCA, beim versicherten multimodalen Verkäuferlauf CIP. Der Anhang nennt RoRo oder Container, Umladung, Frachtführer, Gültigkeit sowie Batterie- oder Kraftstoffvorgaben und bestätigt Annahme von Elektro-, Gebraucht- oder reparierten Fahrzeugen.</p>\n      <h2>Golf-Konformität aus der Frachtrate lösen</h2>\n      <p>Mutabiq authentifiziert Zertifikate, VIN, Labels und Rückrufe; die Werbeaussage „GCC Spec“ belegt weder Echtheit noch Umfang. Gleichen Sie Hersteller oder autorisierten Antragsteller, Marke, Modell, Klasse, Jahr, Prüfungen, VIN-Charge, Status und QR ab. Fragen Sie den Endstaat nach nationalem Nachweis, Zustandsbescheinigung, Vorabgenehmigung, arabischem Label, Inspektion und lokaler Versicherung. Jede Position erhält Antragsteller, Gebühr, Übersetzung, Laufzeit und Ablehnungsrisiko; FOB oder CIF schafft keine technische Zulässigkeit.</p>\n      <h2>Hafen, Zoll und Straßenzugang getrennt buchen</h2>\n      <p>Führen Sie Konten für Fahrzeug, Exportakte, China-Inland und Laden; Fracht, Zuschläge, Umladung und Versicherung; Löschung, Dokumente, Terminal, Prüfung, Lager, Agent und Test; Wert, Zoll, Steuer und Genehmigung; danach Abschleppen, Straßenversicherung, Umbau, Inspektion, Registrierung und Übergabe. Jede Zeile hat Währung, Steuer, Einheit, Empfänger, Gültigkeit, Beleg und Fälligkeit. Arabische und englische Namen müssen passen; der benannte Agent nennt Freitage, und erstattungsfähige Sicherheiten stehen separat.</p>\n      <h2>Drei Freigaben vor der Entscheidung verlangen</h2>\n      <p>Die WZO trennt Rechnung und Zollwert. Katar dokumentiert Fracht und Versicherung, Saudi-Arabien hat eigene Fahrzeugkontrollen. Prüfen Sie Versicherungsnehmer, Wert, Selbstbehalt, Ausschlüsse, Umladung, Batterie, Gebraucht- oder Reparaturstatus, Gerichtsstand und arabische Schadenhilfe und decken Sie lokale Lagerung extra. Geben Sie erst nach kommerzieller, Zulässigkeits- und Einstandskostenfreigabe frei. Rechnen Sie beide Optionen zum gleichen Registerort und koppeln Sie den Restbetrag an Verladung, Zertifikat, Police sowie verwendbare Original- oder E-Dokumente.</p>\n      <h2>Häufige Fragen</h2>\n      <h3>Enthält CIF Zoll und Mehrwertsteuer?</h3>\n      <p>Nicht automatisch. Abfertigung und Steuern bleiben gesonderte Zielpflichten.</p>\n      <h3>Reicht die Aussage GCC-Spezifikation?</h3>\n      <p>Nein. Zertifikat, Variante, Jahr, VIN und nationale Akzeptanz sind zu prüfen.</p>\n      <h3>Trägt der CIF-Verkäufer die Gefahr bis zur Ankunft?</h3>\n      <p>Regelmäßig nein; sie geht trotz Verkäuferfracht und -versicherung in China an Bord über.</p>\n      <h3>Gilt Katars Bewertung überall?</h3>\n      <p>Nein. Jeder Einfuhrstaat entscheidet nach eigenem Recht.</p>\n\n      <h2>Quellen</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Frequently Asked Questions on Customs Valuation</a><span>World Customs Organization · 2026-08-22</span></li>\n        <li><a href=\"https://gcc-gso.atlassian.net/wiki/spaces/CC/overview\" target=\"_blank\" rel=\"noopener noreferrer\">Mutabiq User Guide</a><span>GCC Standardization Organization · 2026-09-07</span></li>\n        <li><a href=\"https://zatca.gov.sa/en/RulesRegulations/Taxes/Pages/customs-individual/import-vehicles.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Vehicle Import Control</a><span>Zakat, Tax and Customs Authority of Saudi Arabia · 2026-08-22</span></li>\n        <li><a href=\"https://www.customs.gov.qa/English/Legislations/Documents/Executive%20Resolutions/13%20-A%20resolution%20on%20customs%20value%20instructions%20for%20imported%20goods.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Customs Value Instructions for Imported Goods</a><span>General Authority of Customs of Qatar · 2026-08-22</span></li>\n        <li><a href=\"https://moiat.gov.ae/en/digital-participation/consultations/imported-used-vehicle-technical-requirements\" target=\"_blank\" rel=\"noopener noreferrer\">Imported Used Vehicle Technical Requirements</a><span>United Arab Emirates Ministry of Industry and Advanced Technology · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/jebel-ali-free-zone-11-jpg.jpg",
+        "alt": "Containerkräne in Jebel Ali",
+        "caption": "Containerkräne in Jebel Ali. Beispielfoto, kein Nachweis einer Prüfung oder eines Geschäfts von AutoBridge.",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Jebel Ali Free Zone 11.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Jebel_Ali_Free_Zone_11.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Jebel_Ali_Free_Zone_11.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Jebel_Ali_Free_Zone_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 3.0",
+        "artist": "Bjoertvedt",
+        "credit": "Own work",
+        "candidate_description": "Container cranes owned by Dubai Port Authority, Jebel Ali, Dubai (UAE)",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "576f86936f074f64bb0090561dc00e613e10bb6d6016b651b061c0acd2665151",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Jebel Ali DP World container cranes match the Middle East FOB/CIF port and quote verification guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "es": {
+      "title": "Comparar FOB y CIF para vehículos chinos en Oriente Medio",
+      "seo_title": "Oriente Medio: revisar vehículo FOB o CIF",
+      "meta_description": "Compare FOB y CIF para un Estado y puerto, con seguro, conformidad del Golfo, valor aduanero, documentos árabes y matrícula.",
+      "summary": "CIF al puerto no es entrega con impuestos pagados y un certificado del Golfo no matricula automáticamente. Cada fase debe comprobarse.",
+      "eyebrow": "Auditoría de cotizaciones de Oriente Medio",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../es/index.html\">Inicio</a><span>/</span><a href=\"../../es/guides/index.html\">Guías</a><span>/</span><span>Comparar FOB y CIF para vehículos chinos en Oriente Medio</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">Auditoría de cotizaciones de Oriente Medio</p>\n      <h1>Comparar FOB y CIF para vehículos chinos en Oriente Medio</h1>\n      <p class=\"lead\">CIF al puerto no es entrega con impuestos pagados y un certificado del Golfo no matricula automáticamente. Cada fase debe comprobarse.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/jebel-ali-free-zone-11-jpg.jpg\" alt=\"Grúas para la manipulación de contenedores en Jebel Ali\" loading=\"lazy\"><figcaption>Grúas para la manipulación de contenedores en Jebel Ali. Fotografía ilustrativa; no documenta una inspección ni una operación de AutoBridge.</figcaption></figure>\n      <h2>Definir Estado, terminal y autoridad registral</h2>\n      <p>Indique país, terminal, importador, emirato o ciudad de matrícula, llegada y entrega. “CIF GCC” no es puerto; transitar por otro Estado exige asignar primera entrada, tránsito, reexportación y despacho final. Fije año, versión, propulsión, condición, color, cantidad y VIN. Los controles saudíes, los requisitos técnicos de EAU y GSO Mutabiq son capas distintas; el Estado final debe aceptar antigüedad, historial, evidencia técnica, importador y ruta de registro.</p>\n      <h2>Situar correctamente el riesgo FOB y CIF</h2>\n      <p>FOB nombra puerto chino y separa recogida, transporte, inspección exportadora, declaración, terminal y carga; el riesgo suele pasar a bordo. CIF paga flete y seguro al puerto de Oriente Medio nombrado, pero el riesgo pasa también en China. Para contenedor entregado antes de cargar evalúe FCA; para transporte multimodal asegurado por el vendedor, CIP. El anexo indica RoRo o contenedor, transbordo, transportista, vigencia y condiciones de batería o combustible, con aceptación confirmada para eléctrico, usado o reparado.</p>\n      <h2>Sacar la conformidad del precio de transporte</h2>\n      <p>Mutabiq autentica certificados, VIN, etiquetas y retiradas; decir “GCC spec” no prueba autenticidad ni alcance. Cruce fabricante o solicitante autorizado, marca, modelo, categoría, año, ensayos, lote VIN, estado y QR. Pregunte al país final por certificado nacional, estado de producto, aprobación previa, etiqueta árabe, inspección y seguro local. Cada requisito lleva solicitante, tasa, traducción, vigencia y responsabilidad si se rechaza; FOB o CIF no vuelve admisible el vehículo.</p>\n      <h2>Separar puerto, aduana y acceso vial</h2>\n      <p>Mantenga cuentas para vehículo, exportación, tramo chino y carga; flete, recargos, transbordo y seguro; descarga, documentos, terminal, revisión, almacén, agente y prueba; valor, arancel, impuestos y permiso; luego remolque, seguro vial, adaptación, inspección, matrícula y entrega. Cada línea tiene moneda, impuesto, unidad, beneficiario, validez, prueba y vencimiento. Nombres árabes e ingleses deben cuadrar; un agente identificado aporta días libres y los depósitos reembolsables quedan aparte.</p>\n      <h2>Exigir tres puertas de aprobación</h2>\n      <p>La OMA separa factura y valor. Catar documenta flete y seguro y Arabia Saudí aplica sus controles. Audite asegurado, suma, deducible, exclusiones, transbordo, batería, uso, reparación, jurisdicción y asistencia árabe; cubra depósito local si la póliza termina en puerto. Apruebe solo tras puerta comercial, puerta de admisibilidad y puerta de costo final. Calcule ambas opciones al mismo registro y ligue el saldo a embarque, certificado, seguro y originales o datos electrónicos utilizables.</p>\n      <h2>Preguntas frecuentes</h2>\n      <h3>¿CIF incluye arancel e IVA?</h3>\n      <p>No automáticamente. Despacho e impuestos son obligaciones de destino separadas.</p>\n      <h3>¿Basta decir especificación GCC?</h3>\n      <p>No. Verifique certificado, versión, año, VIN y aceptación nacional.</p>\n      <h3>¿El riesgo CIF sigue con el vendedor?</h3>\n      <p>Normalmente no; pasa a bordo en China pese al flete y seguro del vendedor.</p>\n      <h3>¿La regla de Catar vale en toda la región?</h3>\n      <p>No. Cada Estado importador decide con su propia norma.</p>\n\n      <h2>Fuentes</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Frequently Asked Questions on Customs Valuation</a><span>World Customs Organization · 2026-08-22</span></li>\n        <li><a href=\"https://gcc-gso.atlassian.net/wiki/spaces/CC/overview\" target=\"_blank\" rel=\"noopener noreferrer\">Mutabiq User Guide</a><span>GCC Standardization Organization · 2026-09-07</span></li>\n        <li><a href=\"https://zatca.gov.sa/en/RulesRegulations/Taxes/Pages/customs-individual/import-vehicles.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Vehicle Import Control</a><span>Zakat, Tax and Customs Authority of Saudi Arabia · 2026-08-22</span></li>\n        <li><a href=\"https://www.customs.gov.qa/English/Legislations/Documents/Executive%20Resolutions/13%20-A%20resolution%20on%20customs%20value%20instructions%20for%20imported%20goods.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Customs Value Instructions for Imported Goods</a><span>General Authority of Customs of Qatar · 2026-08-22</span></li>\n        <li><a href=\"https://moiat.gov.ae/en/digital-participation/consultations/imported-used-vehicle-technical-requirements\" target=\"_blank\" rel=\"noopener noreferrer\">Imported Used Vehicle Technical Requirements</a><span>United Arab Emirates Ministry of Industry and Advanced Technology · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/jebel-ali-free-zone-11-jpg.jpg",
+        "alt": "Grúas para la manipulación de contenedores en Jebel Ali",
+        "caption": "Grúas para la manipulación de contenedores en Jebel Ali. Fotografía ilustrativa; no documenta una inspección ni una operación de AutoBridge.",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Jebel Ali Free Zone 11.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Jebel_Ali_Free_Zone_11.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Jebel_Ali_Free_Zone_11.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Jebel_Ali_Free_Zone_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 3.0",
+        "artist": "Bjoertvedt",
+        "credit": "Own work",
+        "candidate_description": "Container cranes owned by Dubai Port Authority, Jebel Ali, Dubai (UAE)",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "576f86936f074f64bb0090561dc00e613e10bb6d6016b651b061c0acd2665151",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Jebel Ali DP World container cranes match the Middle East FOB/CIF port and quote verification guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "pt-br": {
+      "title": "Comparar FOB e CIF para veículos chineses no Oriente Médio",
+      "seo_title": "Oriente Médio: confira veículo FOB ou CIF",
+      "meta_description": "Compare FOB e CIF para um Estado e porto, com seguro, conformidade do Golfo, valor aduaneiro, documentos árabes e registro.",
+      "summary": "CIF ao porto não é entrega com tributos pagos, e certificado do Golfo não gera registro automático. Cada etapa precisa de prova.",
+      "eyebrow": "Auditoria de cotações do Oriente Médio",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../pt-br/index.html\">Início</a><span>/</span><a href=\"../../pt-br/guides/index.html\">Guias</a><span>/</span><span>Comparar FOB e CIF para veículos chineses no Oriente Médio</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">Auditoria de cotações do Oriente Médio</p>\n      <h1>Comparar FOB e CIF para veículos chineses no Oriente Médio</h1>\n      <p class=\"lead\">CIF ao porto não é entrega com tributos pagos, e certificado do Golfo não gera registro automático. Cada etapa precisa de prova.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/jebel-ali-free-zone-11-jpg.jpg\" alt=\"Guindastes de movimentação de contêineres em Jebel Ali\" loading=\"lazy\"><figcaption>Guindastes de movimentação de contêineres em Jebel Ali. Foto ilustrativa; não documenta uma inspeção ou transação da AutoBridge.</figcaption></figure>\n      <h2>Defina Estado, terminal e órgão de registro</h2>\n      <p>Informe país, terminal, importador, emirado ou cidade de registro, chegada e ponto de entrega. “CIF GCC” não é porto; trânsito por outro Estado exige atribuir primeira entrada, trânsito, reexportação e desembaraço final. Fixe ano, versão, propulsão, condição, cor, quantidade e VIN. Controles sauditas, requisitos técnicos dos EAU e GSO Mutabiq são camadas diferentes; o Estado final precisa aceitar idade, histórico, prova técnica, importador e percurso de registro.</p>\n      <h2>Posicione corretamente o risco FOB e CIF</h2>\n      <p>FOB nomeia porto chinês e separa coleta, transporte, inspeção de exportação, declaração, terminal e embarque; o risco costuma passar a bordo. CIF paga frete e seguro ao porto nomeado, mas o risco também passa na China. Para contêiner entregue antes de carregar avalie FCA; para percurso multimodal segurado pelo vendedor, CIP. O anexo indica RoRo ou contêiner, transbordo, transportador, validade e estado de bateria ou combustível, com aceitação confirmada para elétrico, usado ou reparado.</p>\n      <h2>Retire a conformidade do preço de transporte</h2>\n      <p>Mutabiq autentica certificados, VINs, etiquetas e recalls; dizer “GCC spec” não prova autenticidade nem escopo. Cruze fabricante ou requerente autorizado, marca, modelo, categoria, ano, testes, lote VIN, situação e QR. Pergunte ao país final sobre certificado nacional, declaração de estado, aprovação prévia, etiqueta árabe, inspeção e seguro local. Cada requisito tem requerente, taxa, tradução, vigência e responsabilidade se negado; FOB ou CIF não torna o carro admissível.</p>\n      <h2>Separe porto, alfândega e acesso viário</h2>\n      <p>Mantenha contas para veículo, exportação, trecho chinês e carga; frete, adicionais, transbordo e seguro; descarga, documentos, terminal, exame, armazém, agente e teste; valor, imposto, tributos e licença; depois reboque, seguro viário, adaptação, inspeção, registro e entrega. Cada linha tem moeda, imposto, unidade, favorecido, validade, prova e vencimento. Nomes árabe e inglês precisam fechar; agente identificado informa período livre e depósitos reembolsáveis ficam separados.</p>\n      <h2>Exija três portas de aprovação</h2>\n      <p>A OMA separa fatura e valor. O Catar documenta frete e seguro, enquanto a Arábia Saudita aplica seus controles. Confira segurado, soma, franquia, exclusões, transbordo, bateria, usado, reparo, jurisdição e suporte árabe; cubra armazenagem local se a apólice terminar no porto. Aprove somente após porta comercial, de elegibilidade e de custo final. Calcule as opções no mesmo registro e vincule o saldo a embarque, certificado, seguro e originais ou dados eletrônicos utilizáveis.</p>\n      <h2>Perguntas frequentes</h2>\n      <h3>CIF inclui imposto e IVA?</h3>\n      <p>Não automaticamente. Desembaraço e tributos são obrigações de destino separadas.</p>\n      <h3>Basta afirmar especificação GCC?</h3>\n      <p>Não. Confira certificado, versão, ano, VIN e aceitação nacional.</p>\n      <h3>O risco CIF fica com o vendedor?</h3>\n      <p>Normalmente não; passa a bordo na China mesmo com frete e seguro do vendedor.</p>\n      <h3>A regra do Catar vale em toda região?</h3>\n      <p>Não. Cada Estado importador decide pela própria norma.</p>\n\n      <h2>Fontes</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Frequently Asked Questions on Customs Valuation</a><span>World Customs Organization · 2026-08-22</span></li>\n        <li><a href=\"https://gcc-gso.atlassian.net/wiki/spaces/CC/overview\" target=\"_blank\" rel=\"noopener noreferrer\">Mutabiq User Guide</a><span>GCC Standardization Organization · 2026-09-07</span></li>\n        <li><a href=\"https://zatca.gov.sa/en/RulesRegulations/Taxes/Pages/customs-individual/import-vehicles.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Vehicle Import Control</a><span>Zakat, Tax and Customs Authority of Saudi Arabia · 2026-08-22</span></li>\n        <li><a href=\"https://www.customs.gov.qa/English/Legislations/Documents/Executive%20Resolutions/13%20-A%20resolution%20on%20customs%20value%20instructions%20for%20imported%20goods.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Customs Value Instructions for Imported Goods</a><span>General Authority of Customs of Qatar · 2026-08-22</span></li>\n        <li><a href=\"https://moiat.gov.ae/en/digital-participation/consultations/imported-used-vehicle-technical-requirements\" target=\"_blank\" rel=\"noopener noreferrer\">Imported Used Vehicle Technical Requirements</a><span>United Arab Emirates Ministry of Industry and Advanced Technology · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/jebel-ali-free-zone-11-jpg.jpg",
+        "alt": "Guindastes de movimentação de contêineres em Jebel Ali",
+        "caption": "Guindastes de movimentação de contêineres em Jebel Ali. Foto ilustrativa; não documenta uma inspeção ou transação da AutoBridge.",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Jebel Ali Free Zone 11.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Jebel_Ali_Free_Zone_11.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Jebel_Ali_Free_Zone_11.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Jebel_Ali_Free_Zone_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 3.0",
+        "artist": "Bjoertvedt",
+        "credit": "Own work",
+        "candidate_description": "Container cranes owned by Dubai Port Authority, Jebel Ali, Dubai (UAE)",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "576f86936f074f64bb0090561dc00e613e10bb6d6016b651b061c0acd2665151",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Jebel Ali DP World container cranes match the Middle East FOB/CIF port and quote verification guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "ja": {
+      "title": "中東向け中国車のFOB・CIFとGCC適合を分けて比較する",
+      "seo_title": "中東車両FOB・CIF見積確認",
+      "meta_description": "特定国と港について、保険、GCC適合、関税評価、アラビア語書類、登録を含むFOBとCIFを比較します。",
+      "summary": "港までのCIFは関税込みではなく、GCC証明だけで各国登録もできません。輸送、適合、通関、道路登録を別々に確認します。",
+      "eyebrow": "中東車両見積監査",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../ja/index.html\">ホーム</a><span>/</span><a href=\"../../ja/guides/index.html\">購入ガイド</a><span>/</span><span>中東向け中国車のFOB・CIFとGCC適合を分けて比較する</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">中東車両見積監査</p>\n      <h1>中東向け中国車のFOB・CIFとGCC適合を分けて比較する</h1>\n      <p class=\"lead\">港までのCIFは関税込みではなく、GCC証明だけで各国登録もできません。輸送、適合、通関、道路登録を別々に確認します。</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/jebel-ali-free-zone-11-jpg.jpg\" alt=\"ジュベル・アリのコンテナ荷役クレーン\" loading=\"lazy\"><figcaption>ジュベル・アリのコンテナ荷役クレーン. 参考写真です。AutoBridgeによる検査や取引の記録ではありません。</figcaption></figure>\n      <h2>国、ターミナル、登録機関を決める</h2>\n      <p>国、荷揚げターミナル、輸入者、首長国または登録都市、到着日、引渡点を記載します。「CIF GCC」は港ではなく、他国経由なら最初の入境、通過、再輸出、最終通関の担当を決めます。年式、仕様、動力、状態、色、台数、VINを固定します。サウジ規制、UAE中古車要件、GSO Mutabiqは別階層であり、最終国が年齢、履歴、技術資料、輸入者、登録経路を受理する必要があります。</p>\n      <h2>FOBとCIFの危険位置を正す</h2>\n      <p>FOBは中国港と集荷、陸送、輸出検査、申告、ターミナル、積込みを分け、危険は通常本船上で移ります。CIFは指定中東港までの運賃と保険を売主が負担しますが、危険は中国で移ります。積込み前のコンテナならFCA、保険付き複合輸送ならCIPも検討します。RoRoかコンテナ、積替、船社、予約期限、電池・燃料条件を添付し、EV、中古、修復車の受託を確認します。</p>\n      <h2>GCC適合を運賃から分離する</h2>\n      <p>Mutabiqは証明、VIN、ラベル、リコールを認証しますが、「GCC spec」という宣伝は真正性や範囲を証明しません。メーカーまたは認定申請者、ブランド、型式、区分、年式、試験、VIN群、状態、QRを照合します。最終国に国家証明、状態声明、事前承認、アラビア語ラベル、検査、現地保険を確認し、申請者、料金、翻訳、期限、不合格責任を別計上します。FOBやCIFは技術適合を与えません。</p>\n      <h2>港、税関、道路登録の台帳を分ける</h2>\n      <p>車両・輸出・中国陸送・積込、運賃・追加料・積替・保険、荷揚げ・書類・港・検査・保管・代理、評価・関税・税・許可、牽引・道路保険・改造・検査・登録・納車を分けます。各行に通貨、税、単位、受取人、期限、証拠、支払日を置き、アラビア語と英語の名称を一致させます。現地代理から無料期間を得て、還付保証金は最終費用と分けます。</p>\n      <h2>三つの承認門を通す</h2>\n      <p>WCOは請求書と関税評価を区別し、カタールは運賃・保険資料、サウジは独自車両管理を求めます。保険の被保険者、金額、免責、除外、積替、電池、中古・修復、裁判地、アラビア語支援を確認し、港後の保管も補います。商取引、輸入適格、着地費用の三門がそろってから承認し、同じ登録地まで比較します。最終金は積載、証明、保険、使用可能な原本または電子記録に連動させます。</p>\n      <h2>よくある質問</h2>\n      <h3>CIFに関税やVATは含まれますか。</h3>\n      <p>自動的には含まれず、目的国通関と税を別途割り当てます。</p>\n      <h3>GCC仕様という説明だけで十分ですか。</h3>\n      <p>いいえ。証明、仕様、年式、VIN、国家受理を照合します。</p>\n      <h3>CIFの危険は到着まで売主ですか。</h3>\n      <p>通常違います。売主が運賃と保険を手配しても危険は中国本船上で移ります。</p>\n      <h3>カタール評価は全中東で使えますか。</h3>\n      <p>いいえ。最終輸入国が自国法で判断します。</p>\n\n      <h2>情報源</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Frequently Asked Questions on Customs Valuation</a><span>World Customs Organization · 2026-08-22</span></li>\n        <li><a href=\"https://gcc-gso.atlassian.net/wiki/spaces/CC/overview\" target=\"_blank\" rel=\"noopener noreferrer\">Mutabiq User Guide</a><span>GCC Standardization Organization · 2026-09-07</span></li>\n        <li><a href=\"https://zatca.gov.sa/en/RulesRegulations/Taxes/Pages/customs-individual/import-vehicles.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Vehicle Import Control</a><span>Zakat, Tax and Customs Authority of Saudi Arabia · 2026-08-22</span></li>\n        <li><a href=\"https://www.customs.gov.qa/English/Legislations/Documents/Executive%20Resolutions/13%20-A%20resolution%20on%20customs%20value%20instructions%20for%20imported%20goods.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Customs Value Instructions for Imported Goods</a><span>General Authority of Customs of Qatar · 2026-08-22</span></li>\n        <li><a href=\"https://moiat.gov.ae/en/digital-participation/consultations/imported-used-vehicle-technical-requirements\" target=\"_blank\" rel=\"noopener noreferrer\">Imported Used Vehicle Technical Requirements</a><span>United Arab Emirates Ministry of Industry and Advanced Technology · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/jebel-ali-free-zone-11-jpg.jpg",
+        "alt": "ジュベル・アリのコンテナ荷役クレーン",
+        "caption": "ジュベル・アリのコンテナ荷役クレーン. 参考写真です。AutoBridgeによる検査や取引の記録ではありません。",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Jebel Ali Free Zone 11.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Jebel_Ali_Free_Zone_11.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Jebel_Ali_Free_Zone_11.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Jebel_Ali_Free_Zone_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 3.0",
+        "artist": "Bjoertvedt",
+        "credit": "Own work",
+        "candidate_description": "Container cranes owned by Dubai Port Authority, Jebel Ali, Dubai (UAE)",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "576f86936f074f64bb0090561dc00e613e10bb6d6016b651b061c0acd2665151",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Jebel Ali DP World container cranes match the Middle East FOB/CIF port and quote verification guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "ko": {
+      "title": "중동행 중국 차량 FOB·CIF와 GCC 적합성을 분리해 비교하기",
+      "seo_title": "중동 차량 FOB·CIF 견적 점검",
+      "meta_description": "특정 국가와 항만을 기준으로 보험, GCC 적합성, 세관평가, 아랍어 서류와 등록을 포함한 FOB와 CIF를 비교합니다.",
+      "summary": "항만 CIF는 관세지급 인도가 아니며 GCC 증명만으로 모든 국가에 등록되지 않습니다. 운송, 적합, 통관과 등록을 따로 확인합니다.",
+      "eyebrow": "중동 차량 견적감사",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../ko/index.html\">홈</a><span>/</span><a href=\"../../ko/guides/index.html\">구매 가이드</a><span>/</span><span>중동행 중국 차량 FOB·CIF와 GCC 적합성을 분리해 비교하기</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">중동 차량 견적감사</p>\n      <h1>중동행 중국 차량 FOB·CIF와 GCC 적합성을 분리해 비교하기</h1>\n      <p class=\"lead\">항만 CIF는 관세지급 인도가 아니며 GCC 증명만으로 모든 국가에 등록되지 않습니다. 운송, 적합, 통관과 등록을 따로 확인합니다.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/jebel-ali-free-zone-11-jpg.jpg\" alt=\"제벨알리의 컨테이너 하역 크레인\" loading=\"lazy\"><figcaption>제벨알리의 컨테이너 하역 크레인. 참고 사진이며 AutoBridge의 검사 또는 거래 기록이 아닙니다.</figcaption></figure>\n      <h2>국가, 터미널과 등록기관을 정한다</h2>\n      <p>국가, 양하터미널, 수입자, 토후국 또는 등록도시, 도착일과 인도지점을 적습니다. ‘CIF GCC’는 항구가 아니며 다른 걸프국 경유라면 최초입국, 통과, 재수출과 최종통관 책임을 정합니다. 연식, 사양, 동력, 상태, 색상, 수량과 VIN을 고정합니다. 사우디 통제, UAE 중고차 요건과 GSO Mutabiq는 다른 단계이고 최종국이 차령, 이력, 기술자료, 수입자와 등록경로를 받아야 합니다.</p>\n      <h2>FOB와 CIF 위험위치를 바로 잡는다</h2>\n      <p>FOB는 중국항과 집하, 내륙, 수출검사, 신고, 터미널, 적재를 분리하고 위험은 보통 본선에서 이전됩니다. CIF는 지정 중동항까지 운임과 보험을 판매자가 부담하지만 위험은 중국에서 이전됩니다. 선적 전 컨테이너면 FCA, 보험 포함 복합운송이면 CIP도 검토합니다. RoRo나 컨테이너, 환적, 선사, 예약기한, 배터리·연료조건을 붙이고 전기차, 중고차, 수리차 수탁을 확인합니다.</p>\n      <h2>GCC 적합성을 운임에서 분리한다</h2>\n      <p>Mutabiq는 증명, VIN, 라벨과 리콜을 인증하지만 ‘GCC spec’ 광고는 진위와 범위를 증명하지 않습니다. 제조사 또는 공인신청자, 브랜드, 모델, 차종, 연식, 시험, VIN묶음, 상태와 QR을 대조합니다. 최종국에 국가증명, 상태확인, 사전승인, 아랍어 라벨, 검사와 현지보험을 확인하고 신청자, 비용, 번역, 유효기간, 거절책임을 따로 계산합니다. FOB나 CIF는 기술적 수입자격을 주지 않습니다.</p>\n      <h2>항만, 세관과 도로등록 원장을 나눈다</h2>\n      <p>차량·수출·중국내륙·적재, 운임·할증·환적·보험, 양하·서류·항만·검사·보관·대리, 평가·관세·세금·허가, 견인·도로보험·개조·검사·등록·인도를 나눕니다. 각 줄에 통화, 세금, 단위, 수취인, 유효기간, 증거와 지급일을 두고 아랍어와 영어 명칭을 맞춥니다. 현지대리인에게 무료기간을 받고 환급보증금은 최종비용과 분리합니다.</p>\n      <h2>세 가지 승인문을 통과한다</h2>\n      <p>WCO는 송장과 과세가격을 구분하고 카타르는 운임·보험 증거, 사우디는 자체 차량통제를 둡니다. 보험의 피보험자, 금액, 공제, 제외, 환적, 배터리, 중고·수리, 재판지, 아랍어 지원을 확인하고 항만후 보관도 보장합니다. 상업, 수입자격, 도착원가의 세 문이 완료된 뒤 같은 등록지까지 비교합니다. 최종대금은 적재, 증명, 보험, 사용 가능한 원본이나 전자기록 인도에 연계합니다.</p>\n      <h2>자주 묻는 질문</h2>\n      <h3>CIF에 관세와 VAT가 포함됩니까?</h3>\n      <p>자동으로 포함되지 않으며 목적국 통관과 세금은 별도 배분합니다.</p>\n      <h3>GCC 사양이라는 말이면 충분합니까?</h3>\n      <p>아닙니다. 증명, 사양, 연식, VIN과 국가수용을 대조합니다.</p>\n      <h3>CIF 위험은 도착까지 판매자에게 있습니까?</h3>\n      <p>통상 아닙니다. 판매자가 운임과 보험을 마련해도 중국 본선에서 이전됩니다.</p>\n      <h3>카타르 평가를 모든 중동에 씁니까?</h3>\n      <p>아닙니다. 최종 수입국이 자국법으로 결정합니다.</p>\n\n      <h2>출처</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Frequently Asked Questions on Customs Valuation</a><span>World Customs Organization · 2026-08-22</span></li>\n        <li><a href=\"https://gcc-gso.atlassian.net/wiki/spaces/CC/overview\" target=\"_blank\" rel=\"noopener noreferrer\">Mutabiq User Guide</a><span>GCC Standardization Organization · 2026-09-07</span></li>\n        <li><a href=\"https://zatca.gov.sa/en/RulesRegulations/Taxes/Pages/customs-individual/import-vehicles.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Vehicle Import Control</a><span>Zakat, Tax and Customs Authority of Saudi Arabia · 2026-08-22</span></li>\n        <li><a href=\"https://www.customs.gov.qa/English/Legislations/Documents/Executive%20Resolutions/13%20-A%20resolution%20on%20customs%20value%20instructions%20for%20imported%20goods.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Customs Value Instructions for Imported Goods</a><span>General Authority of Customs of Qatar · 2026-08-22</span></li>\n        <li><a href=\"https://moiat.gov.ae/en/digital-participation/consultations/imported-used-vehicle-technical-requirements\" target=\"_blank\" rel=\"noopener noreferrer\">Imported Used Vehicle Technical Requirements</a><span>United Arab Emirates Ministry of Industry and Advanced Technology · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/jebel-ali-free-zone-11-jpg.jpg",
+        "alt": "제벨알리의 컨테이너 하역 크레인",
+        "caption": "제벨알리의 컨테이너 하역 크레인. 참고 사진이며 AutoBridge의 검사 또는 거래 기록이 아닙니다.",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Jebel Ali Free Zone 11.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Jebel_Ali_Free_Zone_11.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Jebel_Ali_Free_Zone_11.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Jebel_Ali_Free_Zone_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 3.0",
+        "artist": "Bjoertvedt",
+        "credit": "Own work",
+        "candidate_description": "Container cranes owned by Dubai Port Authority, Jebel Ali, Dubai (UAE)",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "576f86936f074f64bb0090561dc00e613e10bb6d6016b651b061c0acd2665151",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Jebel Ali DP World container cranes match the Middle East FOB/CIF port and quote verification guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "vi": {
+      "title": "So sánh FOB và CIF cho xe Trung Quốc vào Trung Đông, tách riêng phù hợp vùng Vịnh",
+      "seo_title": "Trung Đông: kiểm tra báo giá xe FOB hay CIF",
+      "meta_description": "So sánh FOB và CIF cho đúng quốc gia và cảng, gồm bảo hiểm, phù hợp vùng Vịnh, trị giá hải quan, hồ sơ Ả Rập và đăng ký.",
+      "summary": "CIF đến cảng không phải giao đã nộp thuế, và chứng thư vùng Vịnh không tự động đăng ký ở mọi nước. Mỗi bước cần bằng chứng riêng.",
+      "eyebrow": "Kiểm toán báo giá Trung Đông",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../vi/index.html\">Trang chủ</a><span>/</span><a href=\"../../vi/guides/index.html\">Hướng dẫn</a><span>/</span><span>So sánh FOB và CIF cho xe Trung Quốc vào Trung Đông, tách riêng phù hợp vùng Vịnh</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">Kiểm toán báo giá Trung Đông</p>\n      <h1>So sánh FOB và CIF cho xe Trung Quốc vào Trung Đông, tách riêng phù hợp vùng Vịnh</h1>\n      <p class=\"lead\">CIF đến cảng không phải giao đã nộp thuế, và chứng thư vùng Vịnh không tự động đăng ký ở mọi nước. Mỗi bước cần bằng chứng riêng.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/jebel-ali-free-zone-11-jpg.jpg\" alt=\"Cần cẩu xếp dỡ container tại Jebel Ali\" loading=\"lazy\"><figcaption>Cần cẩu xếp dỡ container tại Jebel Ali. Ảnh minh họa, không phải hồ sơ kiểm tra hoặc giao dịch của AutoBridge.</figcaption></figure>\n      <h2>Chốt quốc gia, bến và cơ quan đăng ký</h2>\n      <p>Ghi quốc gia, bến dỡ, nhà nhập khẩu, tiểu vương quốc hoặc thành phố đăng ký, ngày đến và điểm giao. “CIF GCC” không phải cảng; nếu quá cảnh nước vùng Vịnh khác phải phân công nhập lần đầu, quá cảnh, tái xuất và thông quan cuối. Khóa năm mẫu, phiên bản, động lực, tình trạng, màu, số lượng và VIN. Kiểm soát Saudi, yêu cầu xe cũ UAE và GSO Mutabiq là các tầng khác nhau; nước cuối phải chấp nhận tuổi, lịch sử, chứng cứ kỹ thuật, nhà nhập khẩu và đường đăng ký.</p>\n      <h2>Đặt đúng vị trí rủi ro FOB và CIF</h2>\n      <p>FOB ghi cảng Trung Quốc và tách lấy xe, chặng bộ, kiểm tra xuất, khai, bến và xếp; rủi ro thường chuyển trên tàu. CIF trả cước và bảo hiểm đến cảng Trung Đông được nêu nhưng rủi ro vẫn chuyển ở Trung Quốc. Với container giao trước xếp tàu, xem FCA; với đa phương thức có bảo hiểm do người bán lo, xem CIP. Phụ lục ghi RoRo hay container, chuyển tải, hãng tàu, hiệu lực, trạng thái pin hoặc nhiên liệu và xác nhận nhận xe điện, cũ hay sửa.</p>\n      <h2>Tách phù hợp vùng Vịnh khỏi giá vận tải</h2>\n      <p>Mutabiq xác thực chứng thư, VIN, nhãn và thu hồi; quảng cáo “GCC spec” không chứng minh thật hay phạm vi. Đối chiếu hãng hoặc người nộp có quyền, nhãn xe, mẫu, hạng, năm, thử nghiệm, lô VIN, trạng thái và QR. Hỏi nước cuối về chứng thư quốc gia, xác nhận tình trạng, phê duyệt trước, nhãn Ả Rập, kiểm định và bảo hiểm địa phương. Mỗi mục có người nộp, phí, dịch, thời hạn và trách nhiệm nếu bị từ chối; FOB hay CIF không cấp phù hợp kỹ thuật.</p>\n      <h2>Tách sổ cảng, hải quan và đường bộ</h2>\n      <p>Lập tài khoản xe, xuất khẩu, chặng Trung Quốc và xếp; cước, phụ phí, chuyển tải và bảo hiểm; dỡ, chứng từ, bến, kiểm tra, kho, đại lý và thử; trị giá, thuế, phí và phép; rồi kéo xe, bảo hiểm đường, cải tạo, kiểm định, đăng ký và giao. Mỗi dòng có tiền tệ, thuế, đơn vị, người nhận, hiệu lực, bằng chứng và hạn trả. Tên Ả Rập và Anh phải khớp; đại lý nêu thời gian miễn và tiền bảo đảm hoàn lại để riêng.</p>\n      <h2>Yêu cầu ba cửa phê duyệt</h2>\n      <p>WCO tách hóa đơn khỏi trị giá; Qatar yêu cầu chứng cứ cước và bảo hiểm, Saudi có kiểm soát xe riêng. Kiểm người được bảo hiểm, số tiền, khấu trừ, loại trừ, chuyển tải, pin, xe cũ hoặc sửa, nơi xét xử và hỗ trợ Ả Rập; mua thêm cho kho sau cảng. Chỉ duyệt sau cửa thương mại, cửa đủ điều kiện và cửa tổng chi phí. Tính cả hai tới cùng nơi đăng ký và gắn tiền cuối với xếp tàu, chứng thư, bảo hiểm, bản gốc hoặc dữ liệu điện tử dùng được.</p>\n      <h2>Câu hỏi thường gặp</h2>\n      <h3>CIF có gồm thuế và VAT không?</h3>\n      <p>Không tự động. Thông quan và thuế đầu đến là nghĩa vụ riêng.</p>\n      <h3>Nói xe chuẩn GCC có đủ không?</h3>\n      <p>Không. Phải kiểm chứng thư, phiên bản, năm, VIN và chấp nhận quốc gia.</p>\n      <h3>Rủi ro CIF ở người bán tới lúc đến không?</h3>\n      <p>Thường không; rủi ro chuyển trên tàu ở Trung Quốc dù người bán trả cước và bảo hiểm.</p>\n      <h3>Quy tắc Qatar dùng cả vùng được không?</h3>\n      <p>Không. Nước nhập cuối quyết định theo luật của mình.</p>\n\n      <h2>Nguồn</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Frequently Asked Questions on Customs Valuation</a><span>World Customs Organization · 2026-08-22</span></li>\n        <li><a href=\"https://gcc-gso.atlassian.net/wiki/spaces/CC/overview\" target=\"_blank\" rel=\"noopener noreferrer\">Mutabiq User Guide</a><span>GCC Standardization Organization · 2026-09-07</span></li>\n        <li><a href=\"https://zatca.gov.sa/en/RulesRegulations/Taxes/Pages/customs-individual/import-vehicles.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Vehicle Import Control</a><span>Zakat, Tax and Customs Authority of Saudi Arabia · 2026-08-22</span></li>\n        <li><a href=\"https://www.customs.gov.qa/English/Legislations/Documents/Executive%20Resolutions/13%20-A%20resolution%20on%20customs%20value%20instructions%20for%20imported%20goods.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Customs Value Instructions for Imported Goods</a><span>General Authority of Customs of Qatar · 2026-08-22</span></li>\n        <li><a href=\"https://moiat.gov.ae/en/digital-participation/consultations/imported-used-vehicle-technical-requirements\" target=\"_blank\" rel=\"noopener noreferrer\">Imported Used Vehicle Technical Requirements</a><span>United Arab Emirates Ministry of Industry and Advanced Technology · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/jebel-ali-free-zone-11-jpg.jpg",
+        "alt": "Cần cẩu xếp dỡ container tại Jebel Ali",
+        "caption": "Cần cẩu xếp dỡ container tại Jebel Ali. Ảnh minh họa, không phải hồ sơ kiểm tra hoặc giao dịch của AutoBridge.",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Jebel Ali Free Zone 11.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Jebel_Ali_Free_Zone_11.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Jebel_Ali_Free_Zone_11.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Jebel_Ali_Free_Zone_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 3.0",
+        "artist": "Bjoertvedt",
+        "credit": "Own work",
+        "candidate_description": "Container cranes owned by Dubai Port Authority, Jebel Ali, Dubai (UAE)",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "576f86936f074f64bb0090561dc00e613e10bb6d6016b651b061c0acd2665151",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Jebel Ali DP World container cranes match the Middle East FOB/CIF port and quote verification guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "th": {
+      "title": "เทียบ FOB และ CIF รถจีนไปตะวันออกกลางโดยแยกความสอดคล้องอ่าว",
+      "seo_title": "ตะวันออกกลาง: ตรวจราคารถ FOB หรือ CIF",
+      "meta_description": "เทียบ FOB และ CIF สำหรับประเทศและท่าที่ชัดเจน รวมประกัน ความสอดคล้องอ่าว ราคาศุลกากร เอกสารอาหรับ และทะเบียน",
+      "summary": "CIF ถึงท่าไม่ใช่ส่งแบบชำระอากร และใบอ่าวไม่ทำให้จดทะเบียนทุกประเทศได้อัตโนมัติ แต่ละขั้นต้องมีหลักฐาน",
+      "eyebrow": "ตรวจใบเสนอราคาตะวันออกกลาง",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../th/index.html\">หน้าแรก</a><span>/</span><a href=\"../../th/guides/index.html\">คู่มือ</a><span>/</span><span>เทียบ FOB และ CIF รถจีนไปตะวันออกกลางโดยแยกความสอดคล้องอ่าว</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">ตรวจใบเสนอราคาตะวันออกกลาง</p>\n      <h1>เทียบ FOB และ CIF รถจีนไปตะวันออกกลางโดยแยกความสอดคล้องอ่าว</h1>\n      <p class=\"lead\">CIF ถึงท่าไม่ใช่ส่งแบบชำระอากร และใบอ่าวไม่ทำให้จดทะเบียนทุกประเทศได้อัตโนมัติ แต่ละขั้นต้องมีหลักฐาน</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/jebel-ali-free-zone-11-jpg.jpg\" alt=\"เครนขนถ่ายตู้คอนเทนเนอร์ที่เจเบลอาลี\" loading=\"lazy\"><figcaption>เครนขนถ่ายตู้คอนเทนเนอร์ที่เจเบลอาลี. ภาพประกอบ ไม่ใช่หลักฐานการตรวจสภาพหรือธุรกรรมของ AutoBridge</figcaption></figure>\n      <h2>กำหนดประเทศ ท่า และหน่วยทะเบียน</h2>\n      <p>ระบุประเทศ ท่าลง ผู้นำเข้า เอมิเรตหรือเมืองทะเบียน วันถึง และจุดส่ง “CIF GCC” ไม่ใช่ท่า หากผ่านรัฐอ่าวอื่นต้องแบ่งเข้าครั้งแรก ผ่านแดน ส่งออกต่อ และศุลกากรสุดท้าย กำหนดปี รุ่น ระบบ สภาพ สี จำนวน และ VIN การควบคุมซาอุ ข้อกำหนดรถใช้แล้ว UAE และ GSO Mutabiq เป็นคนละชั้น รัฐสุดท้ายต้องรับอายุ ประวัติ หลักฐานเทคนิค ผู้นำเข้า และเส้นทางทะเบียน</p>\n      <h2>วางความเสี่ยง FOB และ CIF ให้ถูก</h2>\n      <p>FOB ระบุท่าจีนและแยกรับรถ ขนในจีน ตรวจส่งออก สำแดง ท่า และขึ้นเรือ ความเสี่ยงมักโอนบนเรือ CIF จ่ายค่าระวางและประกันถึงท่าตะวันออกกลาง แต่ความเสี่ยงยังโอนในจีน ตู้ที่ส่งก่อนขึ้นเรือให้ดู FCA เส้นทางหลายรูปแบบที่ผู้ขายจัดประกันให้ดู CIP ภาคผนวกระบุ RoRo หรือตู้ ถ่ายลำ สายเรือ อายุจอง สภาพแบตหรือเชื้อเพลิง และยืนยันรับรถไฟฟ้า ใช้แล้ว หรือซ่อม</p>\n      <h2>แยกความสอดคล้องอ่าวจากค่าขนส่ง</h2>\n      <p>Mutabiq ตรวจใบรับรอง VIN ฉลาก และเรียกคืน แต่คำโฆษณา “GCC spec” ไม่พิสูจน์ของจริงหรือขอบเขต เทียบผู้ผลิตหรือผู้ยื่นที่มีสิทธิ ยี่ห้อ รุ่น ประเภท ปี ทดสอบ ชุด VIN สถานะ และ QR ถามรัฐสุดท้ายเรื่องใบประเทศ สภาพสินค้า อนุมัติก่อน ฉลากอาหรับ ตรวจ และประกันท้องถิ่น แต่ละรายการมีผู้ยื่น ค่าธรรมเนียม แปล อายุ และความรับผิดหากปฏิเสธ FOB หรือ CIF ไม่ให้สิทธิเทคนิค</p>\n      <h2>แยกบัญชีท่า ศุลกากร และถนน</h2>\n      <p>ทำบัญชีรถ ส่งออก ช่วงจีนและขึ้นเรือ; ค่าระวาง ค่าบวก ถ่ายลำและประกัน; ลง เอกสาร ท่า ตรวจ คลัง ตัวแทนและทดสอบ; ราคา อากร ภาษีและใบอนุญาต; แล้วลาก ประกันถนน ดัดแปลง ตรวจ ทะเบียนและส่ง ทุกบรรทัดมีสกุล ภาษี หน่วย ผู้รับ อายุ หลักฐาน และวันจ่าย ชื่ออาหรับกับอังกฤษต้องตรง ตัวแทนบอกวันฟรี และเงินค้ำคืนได้แยกออก</p>\n      <h2>ผ่านประตูอนุมัติสามชั้น</h2>\n      <p>WCO แยกใบแจ้งหนี้กับราคาศุลกากร กาตาร์ขอหลักฐานค่าระวางและประกัน ซาอุมีการควบคุมรถ ตรวจผู้เอาประกัน จำนวน ส่วนแรก ข้อยกเว้น ถ่ายลำ แบต รถใช้แล้วหรือซ่อม ศาล และช่วยภาษาอาหรับ พร้อมคุ้มครองหลังท่า อนุมัติเมื่อผ่านการค้า คุณสมบัติ และต้นทุนสุดท้าย คำนวณถึงทะเบียนเดียวกันและผูกเงินท้ายกับขึ้นเรือ ใบรับรอง ประกัน และต้นฉบับหรือข้อมูลใช้ได้</p>\n      <h2>คำถามที่พบบ่อย</h2>\n      <h3>CIF รวมอากรและ VAT หรือไม่</h3>\n      <p>ไม่อัตโนมัติ พิธีการและภาษีปลายทางเป็นหน้าที่แยก</p>\n      <h3>บอกว่าเป็น GCC spec พอหรือไม่</h3>\n      <p>ไม่ ต้องตรวจใบ รุ่น ปี VIN และการรับของประเทศ</p>\n      <h3>ความเสี่ยง CIF อยู่กับผู้ขายถึงท่าหรือไม่</h3>\n      <p>โดยทั่วไปไม่ โอนบนเรือในจีนแม้ผู้ขายจ่ายขนและประกัน</p>\n      <h3>กฎกาตาร์ใช้ทั้งภูมิภาคหรือไม่</h3>\n      <p>ไม่ รัฐนำเข้าสุดท้ายตัดสินตามกฎหมายตน</p>\n\n      <h2>แหล่งข้อมูล</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Frequently Asked Questions on Customs Valuation</a><span>World Customs Organization · 2026-08-22</span></li>\n        <li><a href=\"https://gcc-gso.atlassian.net/wiki/spaces/CC/overview\" target=\"_blank\" rel=\"noopener noreferrer\">Mutabiq User Guide</a><span>GCC Standardization Organization · 2026-09-07</span></li>\n        <li><a href=\"https://zatca.gov.sa/en/RulesRegulations/Taxes/Pages/customs-individual/import-vehicles.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Vehicle Import Control</a><span>Zakat, Tax and Customs Authority of Saudi Arabia · 2026-08-22</span></li>\n        <li><a href=\"https://www.customs.gov.qa/English/Legislations/Documents/Executive%20Resolutions/13%20-A%20resolution%20on%20customs%20value%20instructions%20for%20imported%20goods.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Customs Value Instructions for Imported Goods</a><span>General Authority of Customs of Qatar · 2026-08-22</span></li>\n        <li><a href=\"https://moiat.gov.ae/en/digital-participation/consultations/imported-used-vehicle-technical-requirements\" target=\"_blank\" rel=\"noopener noreferrer\">Imported Used Vehicle Technical Requirements</a><span>United Arab Emirates Ministry of Industry and Advanced Technology · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/jebel-ali-free-zone-11-jpg.jpg",
+        "alt": "เครนขนถ่ายตู้คอนเทนเนอร์ที่เจเบลอาลี",
+        "caption": "เครนขนถ่ายตู้คอนเทนเนอร์ที่เจเบลอาลี. ภาพประกอบ ไม่ใช่หลักฐานการตรวจสภาพหรือธุรกรรมของ AutoBridge",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Jebel Ali Free Zone 11.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Jebel_Ali_Free_Zone_11.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Jebel_Ali_Free_Zone_11.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Jebel_Ali_Free_Zone_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 3.0",
+        "artist": "Bjoertvedt",
+        "credit": "Own work",
+        "candidate_description": "Container cranes owned by Dubai Port Authority, Jebel Ali, Dubai (UAE)",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "576f86936f074f64bb0090561dc00e613e10bb6d6016b651b061c0acd2665151",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Jebel Ali DP World container cranes match the Middle East FOB/CIF port and quote verification guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "id": {
+      "title": "Membandingkan FOB dan CIF kendaraan Tiongkok ke Timur Tengah dengan kesesuaian Teluk terpisah",
+      "seo_title": "Timur Tengah: periksa kendaraan FOB atau CIF",
+      "meta_description": "Bandingkan FOB dan CIF untuk negara serta pelabuhan tertentu, termasuk asuransi, kesesuaian Teluk, nilai pabean, dokumen Arab, dan registrasi.",
+      "summary": "CIF ke pelabuhan bukan penyerahan lunas bea dan sertifikat Teluk tidak otomatis memberi registrasi. Setiap tahap memerlukan bukti sendiri.",
+      "eyebrow": "Audit penawaran Timur Tengah",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../id/index.html\">Beranda</a><span>/</span><a href=\"../../id/guides/index.html\">Panduan</a><span>/</span><span>Membandingkan FOB dan CIF kendaraan Tiongkok ke Timur Tengah dengan kesesuaian Teluk terpisah</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">Audit penawaran Timur Tengah</p>\n      <h1>Membandingkan FOB dan CIF kendaraan Tiongkok ke Timur Tengah dengan kesesuaian Teluk terpisah</h1>\n      <p class=\"lead\">CIF ke pelabuhan bukan penyerahan lunas bea dan sertifikat Teluk tidak otomatis memberi registrasi. Setiap tahap memerlukan bukti sendiri.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/jebel-ali-free-zone-11-jpg.jpg\" alt=\"Derek penanganan peti kemas di Jebel Ali\" loading=\"lazy\"><figcaption>Derek penanganan peti kemas di Jebel Ali. Foto ilustrasi, bukan dokumentasi pemeriksaan atau transaksi AutoBridge.</figcaption></figure>\n      <h2>Tetapkan negara, terminal, dan otoritas registrasi</h2>\n      <p>Sebut negara, terminal bongkar, importir, emirat atau kota registrasi, tanggal tiba, dan titik serah. “CIF GCC” bukan pelabuhan; transit melalui negara Teluk lain perlu membagi masuk pertama, transit, ekspor ulang, dan clearance akhir. Kunci tahun model, varian, penggerak, kondisi, warna, jumlah, dan VIN. Kontrol Saudi, persyaratan kendaraan bekas UEA, dan GSO Mutabiq adalah lapisan berbeda; negara akhir harus menerima usia, riwayat, bukti teknis, importir, dan jalur registrasi.</p>\n      <h2>Tempatkan risiko FOB dan CIF secara benar</h2>\n      <p>FOB menyebut pelabuhan Tiongkok dan memisahkan pengambilan, angkutan, inspeksi ekspor, deklarasi, terminal, serta pemuatan; risiko biasanya beralih di kapal. CIF membayar angkutan dan asuransi sampai pelabuhan Timur Tengah, tetapi risiko tetap beralih di Tiongkok. Untuk peti kemas yang diserahkan sebelum muat, nilai FCA; untuk multimoda berasuransi oleh penjual, nilai CIP. Lampiran menyebut RoRo atau peti kemas, transit, pengangkut, validitas, kondisi baterai atau bahan bakar, dan penerimaan mobil listrik, bekas, atau perbaikan.</p>\n      <h2>Pisahkan kesesuaian Teluk dari harga angkutan</h2>\n      <p>Mutabiq mengautentikasi sertifikat, VIN, label, dan penarikan; klaim “GCC spec” tidak membuktikan keaslian atau cakupan. Cocokkan produsen atau pemohon sah, merek, model, kategori, tahun, pengujian, kelompok VIN, status, dan QR. Tanyakan kepada negara akhir tentang sertifikat nasional, pernyataan kondisi, persetujuan awal, label Arab, inspeksi, dan asuransi lokal. Setiap item punya pemohon, biaya, terjemahan, masa berlaku, dan tanggung jawab bila ditolak; FOB atau CIF tidak memberi kelayakan teknis.</p>\n      <h2>Pisahkan buku pelabuhan, pabean, dan jalan</h2>\n      <p>Buat akun kendaraan, ekspor, ruas Tiongkok dan muat; angkutan, tambahan, transit dan asuransi; bongkar, dokumen, terminal, pemeriksaan, gudang, agen dan uji; nilai, bea, pajak dan izin; lalu derek, asuransi jalan, modifikasi, inspeksi, registrasi dan serah. Tiap baris memiliki mata uang, pajak, unit, penerima, validitas, bukti, serta tanggal. Nama Arab dan Inggris harus sama; agen memberi hari bebas dan jaminan yang dapat dikembalikan dipisahkan.</p>\n      <h2>Wajibkan tiga gerbang persetujuan</h2>\n      <p>WCO memisahkan faktur dan nilai; Qatar mendokumentasikan angkutan serta asuransi, Saudi menerapkan kontrol sendiri. Periksa tertanggung, jumlah, risiko sendiri, pengecualian, transit, baterai, bekas atau perbaikan, yurisdiksi, dan bantuan Arab; tambah perlindungan gudang setelah pelabuhan. Setujui hanya setelah gerbang komersial, kelayakan, dan biaya tiba. Hitung ke titik registrasi sama dan ikat pembayaran akhir pada pemuatan, sertifikat, asuransi, serta dokumen asli atau elektronik yang dapat digunakan.</p>\n      <h2>Pertanyaan umum</h2>\n      <h3>Apakah CIF mencakup bea dan VAT?</h3>\n      <p>Tidak otomatis. Clearance dan pajak tujuan adalah kewajiban terpisah.</p>\n      <h3>Apakah pernyataan GCC spec cukup?</h3>\n      <p>Tidak. Periksa sertifikat, varian, tahun, VIN, dan penerimaan negara.</p>\n      <h3>Apakah risiko CIF tetap pada penjual sampai tiba?</h3>\n      <p>Biasanya tidak; risiko beralih di kapal di Tiongkok walau penjual membayar angkutan dan asuransi.</p>\n      <h3>Apakah aturan Qatar berlaku di seluruh kawasan?</h3>\n      <p>Tidak. Negara impor akhir memutuskan menurut hukumnya.</p>\n\n      <h2>Sumber</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Frequently Asked Questions on Customs Valuation</a><span>World Customs Organization · 2026-08-22</span></li>\n        <li><a href=\"https://gcc-gso.atlassian.net/wiki/spaces/CC/overview\" target=\"_blank\" rel=\"noopener noreferrer\">Mutabiq User Guide</a><span>GCC Standardization Organization · 2026-09-07</span></li>\n        <li><a href=\"https://zatca.gov.sa/en/RulesRegulations/Taxes/Pages/customs-individual/import-vehicles.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Vehicle Import Control</a><span>Zakat, Tax and Customs Authority of Saudi Arabia · 2026-08-22</span></li>\n        <li><a href=\"https://www.customs.gov.qa/English/Legislations/Documents/Executive%20Resolutions/13%20-A%20resolution%20on%20customs%20value%20instructions%20for%20imported%20goods.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Customs Value Instructions for Imported Goods</a><span>General Authority of Customs of Qatar · 2026-08-22</span></li>\n        <li><a href=\"https://moiat.gov.ae/en/digital-participation/consultations/imported-used-vehicle-technical-requirements\" target=\"_blank\" rel=\"noopener noreferrer\">Imported Used Vehicle Technical Requirements</a><span>United Arab Emirates Ministry of Industry and Advanced Technology · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/jebel-ali-free-zone-11-jpg.jpg",
+        "alt": "Derek penanganan peti kemas di Jebel Ali",
+        "caption": "Derek penanganan peti kemas di Jebel Ali. Foto ilustrasi, bukan dokumentasi pemeriksaan atau transaksi AutoBridge.",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Jebel Ali Free Zone 11.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Jebel_Ali_Free_Zone_11.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Jebel_Ali_Free_Zone_11.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Jebel_Ali_Free_Zone_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 3.0",
+        "artist": "Bjoertvedt",
+        "credit": "Own work",
+        "candidate_description": "Container cranes owned by Dubai Port Authority, Jebel Ali, Dubai (UAE)",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "576f86936f074f64bb0090561dc00e613e10bb6d6016b651b061c0acd2665151",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Jebel Ali DP World container cranes match the Middle East FOB/CIF port and quote verification guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "ar": {
+      "title": "مقارنة FOB وCIF للمركبات الصينية إلى الشرق الأوسط مع فصل المطابقة الخليجية",
+      "seo_title": "الشرق الأوسط: فحص عرض مركبة FOB أو CIF",
+      "meta_description": "قارن FOB وCIF لدولة وميناء محددين، شاملا التأمين والمطابقة الخليجية والقيمة الجمركية والوثائق العربية والتسجيل.",
+      "summary": "CIF إلى الميناء ليس تسليما مدفوع الرسوم، وشهادة الخليج لا تسجل المركبة تلقائيا في كل دولة. لكل مرحلة دليل مستقل.",
+      "eyebrow": "تدقيق عروض الشرق الأوسط",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../ar/index.html\">الرئيسية</a><span>/</span><a href=\"../../ar/guides/index.html\">الأدلة</a><span>/</span><span>مقارنة FOB وCIF للمركبات الصينية إلى الشرق الأوسط مع فصل المطابقة الخليجية</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">تدقيق عروض الشرق الأوسط</p>\n      <h1>مقارنة FOB وCIF للمركبات الصينية إلى الشرق الأوسط مع فصل المطابقة الخليجية</h1>\n      <p class=\"lead\">CIF إلى الميناء ليس تسليما مدفوع الرسوم، وشهادة الخليج لا تسجل المركبة تلقائيا في كل دولة. لكل مرحلة دليل مستقل.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/jebel-ali-free-zone-11-jpg.jpg\" alt=\"رافعات مناولة الحاويات في جبل علي\" loading=\"lazy\"><figcaption>رافعات مناولة الحاويات في جبل علي. صورة توضيحية، وليست توثيقًا لفحص أو صفقة أجرتها AutoBridge.</figcaption></figure>\n      <h2>تحديد الدولة والمحطة وسلطة التسجيل</h2>\n      <p>سم الدولة ومحطة التفريغ والمستورد والإمارة أو مدينة التسجيل والوصول ونقطة التسليم. «CIF GCC» ليس ميناء؛ والمرور بدولة خليجية أخرى يتطلب توزيع الدخول الأول والعبور وإعادة التصدير والتخليص النهائي. ثبت سنة الطراز والفئة والدفع والحالة واللون والعدد وأرقام الهيكل. ضوابط السعودية ومتطلبات المستعمل في الإمارات ونظام GSO Mutabiq طبقات مختلفة؛ يجب أن تقبل الدولة النهائية العمر والتاريخ والدليل الفني والمستورد ومسار التسجيل.</p>\n      <h2>وضع خطر FOB وCIF في موضعه الصحيح</h2>\n      <p>يسمي FOB الميناء الصيني ويفصل الاستلام والنقل والفحص التصديري والتصريح والمحطة والتحميل؛ ينتقل الخطر عادة على السفينة. يدفع CIF الشحن والتأمين إلى ميناء الشرق الأوسط المسمى، لكن الخطر ينتقل في الصين. للحاوية المسلمة قبل التحميل افحص FCA، ولنقل متعدد الوسائط مؤمن يرتبه البائع افحص CIP. يذكر الملحق RoRo أو الحاوية وإعادة الشحن والناقل والصلاحية وحالة البطارية أو الوقود، ويؤكد قبول الكهربائية أو المستعملة أو المصلحة.</p>\n      <h2>فصل المطابقة الخليجية عن سعر النقل</h2>\n      <p>يوثق Mutabiq الشهادات وأرقام الهيكل والملصقات والاستدعاءات؛ أما عبارة «GCC spec» فلا تثبت الأصالة أو النطاق. طابق المصنع أو مقدم الطلب المفوض والماركة والطراز والفئة والسنة والاختبارات ودفعة أرقام الهيكل والحالة وQR. اسأل الدولة النهائية عن شهادة وطنية وبيان حالة وموافقة مسبقة وملصق عربي وفحص وتأمين محلي. لكل متطلب مقدم ورسوم وترجمة وصلاحية ومسؤولية عند الرفض؛ لا يمنح FOB أو CIF القبول الفني.</p>\n      <h2>فصل حساب الميناء والجمارك والطريق</h2>\n      <p>أنشئ حسابا للمركبة والتصدير والجزء الصيني والتحميل؛ الشحن والإضافات وإعادة الشحن والتأمين؛ التفريغ والوثائق والمحطة والفحص والمخزن والوكيل والاختبار؛ القيمة والرسوم والضرائب والترخيص؛ ثم السحب وتأمين الطريق والتعديل والفحص والتسجيل والتسليم. لكل بند عملة وضريبة ووحدة ومستفيد وصلاحية ودليل وتاريخ. تتطابق الأسماء العربية والإنجليزية، ويذكر الوكيل الأيام المجانية، وتفصل الضمانات المستردة.</p>\n      <h2>اشتراط ثلاث بوابات للموافقة</h2>\n      <p>تفصل منظمة الجمارك الفاتورة عن القيمة، وتوثق قطر الشحن والتأمين، وتطبق السعودية ضوابطها. راجع المؤمن له والمبلغ والتحمل والاستثناءات وإعادة الشحن والبطارية والمستعمل أو المصلح والاختصاص والدعم العربي، وأضف تغطية التخزين بعد الميناء. لا تعتمد إلا بعد بوابة التجارة وبوابة الأهلية وبوابة التكلفة الواصلة. احسب الخيارين إلى موقع تسجيل واحد، واربط الرصيد بالتحميل والشهادة والتأمين والأصول أو البيانات الإلكترونية الصالحة.</p>\n      <h2>الأسئلة الشائعة</h2>\n      <h3>هل يشمل CIF الرسوم وضريبة القيمة المضافة؟</h3>\n      <p>ليس تلقائيا. التخليص والضرائب في الوجهة التزامات منفصلة.</p>\n      <h3>هل تكفي عبارة مواصفات خليجية؟</h3>\n      <p>لا. تحقق من الشهادة والفئة والسنة وأرقام الهيكل وقبول الدولة.</p>\n      <h3>هل يبقى خطر CIF على البائع حتى الوصول؟</h3>\n      <p>غالبا لا؛ ينتقل على السفينة في الصين رغم دفع البائع الشحن والتأمين.</p>\n      <h3>هل تطبق قاعدة قطر في المنطقة كلها؟</h3>\n      <p>لا. دولة الاستيراد النهائية تقرر وفق قانونها.</p>\n\n      <h2>المصادر</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Frequently Asked Questions on Customs Valuation</a><span>World Customs Organization · 2026-08-22</span></li>\n        <li><a href=\"https://gcc-gso.atlassian.net/wiki/spaces/CC/overview\" target=\"_blank\" rel=\"noopener noreferrer\">Mutabiq User Guide</a><span>GCC Standardization Organization · 2026-09-07</span></li>\n        <li><a href=\"https://zatca.gov.sa/en/RulesRegulations/Taxes/Pages/customs-individual/import-vehicles.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Vehicle Import Control</a><span>Zakat, Tax and Customs Authority of Saudi Arabia · 2026-08-22</span></li>\n        <li><a href=\"https://www.customs.gov.qa/English/Legislations/Documents/Executive%20Resolutions/13%20-A%20resolution%20on%20customs%20value%20instructions%20for%20imported%20goods.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Customs Value Instructions for Imported Goods</a><span>General Authority of Customs of Qatar · 2026-08-22</span></li>\n        <li><a href=\"https://moiat.gov.ae/en/digital-participation/consultations/imported-used-vehicle-technical-requirements\" target=\"_blank\" rel=\"noopener noreferrer\">Imported Used Vehicle Technical Requirements</a><span>United Arab Emirates Ministry of Industry and Advanced Technology · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/jebel-ali-free-zone-11-jpg.jpg",
+        "alt": "رافعات مناولة الحاويات في جبل علي",
+        "caption": "رافعات مناولة الحاويات في جبل علي. صورة توضيحية، وليست توثيقًا لفحص أو صفقة أجرتها AutoBridge.",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Jebel Ali Free Zone 11.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Jebel_Ali_Free_Zone_11.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Jebel_Ali_Free_Zone_11.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Jebel_Ali_Free_Zone_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 3.0",
+        "artist": "Bjoertvedt",
+        "credit": "Own work",
+        "candidate_description": "Container cranes owned by Dubai Port Authority, Jebel Ali, Dubai (UAE)",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "576f86936f074f64bb0090561dc00e613e10bb6d6016b651b061c0acd2665151",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Jebel Ali DP World container cranes match the Middle East FOB/CIF port and quote verification guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "zh": {
+      "title": "中国汽车出口中东：FOB与CIF报价要分开核对GCC认证、海关和上牌",
+      "seo_title": "中东进口中国汽车FOB与CIF报价｜GCC认证、港口费与上牌",
+      "meta_description": "帮助中东买家比较中国汽车FOB与CIF报价，核对海运保险、海湾认证、阿拉伯语文件、目的港收费、税费和首次登记。",
+      "summary": "中东报价不能停在港口。买家要把贸易条款、海湾合规、阿拉伯语文件和首次登记放进同一张车辆识别代号清单。",
+      "eyebrow": "中东汽车进口成本",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../zh/index.html\">首页</a><span>/</span><a href=\"../../zh/guides/index.html\">采购指南</a><span>/</span><span>中国汽车出口中东：FOB与CIF报价要分开核对GCC认证、海关和上牌</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">中东汽车进口成本</p>\n      <h1>中国汽车出口中东：FOB与CIF报价要分开核对GCC认证、海关和上牌</h1>\n      <p class=\"lead\">中东报价不能停在港口。买家要把贸易条款、海湾合规、阿拉伯语文件和首次登记放进同一张车辆识别代号清单。</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/jebel-ali-free-zone-11-jpg.jpg\" alt=\"杰贝阿里的集装箱装卸起重机\" loading=\"lazy\"><figcaption>杰贝阿里的集装箱装卸起重机. 参考配图，并非 AutoBridge 的检测或交易记录。</figcaption></figure>\n      <h2>用同一车辆清单比较报价</h2>\n      <p>先锁定目的国、装运港、目的港、车型、年款、配置、数量和车辆识别代号规则。中东市场并非一套完全相同的准入制度，标注海湾规格不能替代目的国确认。供应商必须用同一配置和同一文件范围报FOB与CIF，否则总价差异可能来自车辆版本、认证或服务内容不同，而不是贸易条款本身。</p>\n      <p>如果车辆先进入自由区再销售到不同国家，候选目的国应在询价时列出。不同市场可能要求不同证书、标签或税务文件，后期改目的地会造成重复费用。批次车辆清单要能拆分到最终市场，避免一份笼统海湾规格说明掩盖国家差异。</p>\n      <h2>核对FOB出口端责任</h2>\n      <p>逐项确认车辆价格、中国境内运输、出口申报、检验、港区操作、仓储和装船费用，并写明风险转移时点。电动车需要确认承运人对荷电状态和高压车辆的要求，无法运行或需要特别装载的车辆也应单列费用。卖方提供的发票、装箱单和车辆识别代号清单应在订舱前完成核对。</p>\n      <p>出口端文件还应核对制造商名称、原产地、生产日期和车辆状态。供应商通过第三方出口时，合同要说明谁对文件真实性与车辆一致性负责。买家可在装船前安排独立检查，并把重大身份或配置差异设置为拒收条件，而不是只要求折价。</p>\n      <h2>拆解CIF海运与保险</h2>\n      <p>CIF必须指定目的港，说明直航或转运、运价有效期、附加费和保险条件。海湾港口之间距离看似不远，但转运和最终登记国家变化会影响文件与陆运安排。索取保险金额、承保风险、免赔额和索赔材料，尤其确认高温、火灾、电池事故、装卸损伤和港区延误是否有明确处理规则。</p>\n      <p>运价中的港口拥堵、旺季和燃油附加费应有调整公式或上限。转运路线发生变化时，保险和预计交期也要同步更新。承运人信息不能只停留在销售聊天记录，应保存订舱确认、船名航次和货物接收证据，便于延误或损伤后追责。</p>\n      <h2>把合规成本放在装运前</h2>\n      <p>向目的国专业机构核对车型批准、符合性证书、排放或电动车要求、标签、阿拉伯语文件和可能的检验。证书必须覆盖实际车辆版本与生产批次。不要在车辆到港后才发现灯具、轮胎、充电接口或软件区域不符合要求；整改、复检和仓储费用可能远高于采购时的价差。</p>\n      <p>认证资料要从签发或认可机构查询，并核对证书状态与范围。供应商发送的PDF可能过期、仅覆盖相似型号或缺少实际配置。若目的国要求阿拉伯语标签或文件，译文应由符合当地要求的主体准备，车型代码和车辆识别信息不得在翻译中改变。</p>\n      <h2>核算目的港与首次登记</h2>\n      <p>CIF后仍可能发生卸货、码头处理、文件、扫描、检验、仓储、清关、税费、拖车和登记费用。由当地代理提供书面费用表，并注明免费堆存期和超期计费。若车辆将从自由区转运到另一国家，应另算过境文件、陆路保险和目的地重新认证，不能把自由区到港视为最终交付。</p>\n      <p>自由区、港口和内陆目的地之间的风险交接应分别写清。车辆在港区长期暴晒、等待或搬运也可能产生电池和外观风险。检查免费堆存、车辆启动维护、充电管理和异常通知，并确认保险从卸船到最终仓库是否连续。</p>\n      <h2>设置付款和放行条件</h2>\n      <p>合同应把订金、车辆识别代号确认、文件草稿、检验、装船和提单交付分成节点，并规定配置或证书不一致时的处理。总成本表保留每项来源、日期和责任人，未知费用使用区间。若认证机构无法确认车辆版本、保险范围含糊或供应商不愿披露运价与港口边界，应停止放行，避免把不可控成本带到目的港。</p>\n      <p>批准表由采购、合规、物流和财务共同确认，避免一方只验证证书、另一方只看价格。实际到港后复盘港杂、税费和登记时间，将差异加入供应商表现记录。这样下一批可以用真实成本修正报价模型，而不是继续依赖理想估算。</p>\n      <p>中东项目的真正交付点不是船到港，而是车辆按计划进入目标市场并具备登记条件。因此，报价批准页应同时显示贸易边界、合规状态和最终交付费用；其中任何一项改变，都触发重新报价和重新放行。车辆到港后还要复核证书、车辆识别代号和费用发票，把实际结果反馈给采购与物流团队。若同类异常重复出现，应暂停该供应商或路线，而不是继续把损失列为偶发费用。</p>\n      <h2>常见问题</h2>\n      <h3>GCC证书是否适用于所有中东国家？</h3>\n      <p>不能直接推定。应由最终目的国的机构确认具体证书、车型版本和生产批次是否被接受。必须绑定最终目的国和车辆版本，并由当地责任方在装运前确认。</p>\n      <h3>CIF到杰贝阿里是否包含转运到其他国家？</h3>\n      <p>通常不自动包含。自由区操作、过境文件、陆运、保险和目的国手续需要单独核算。</p>\n      <h3>阿拉伯语文件什么时候准备？</h3>\n      <p>应在装运前确认清单、译制与认证要求，并把文件草稿作为付款或放行节点。</p>\n      <h3>电动车海运报价要多问什么？</h3>\n      <p>确认荷电状态、承运限制、火灾与电池事故保险、港区应急以及无法运行车辆的额外费用。</p>\n\n      <h2>资料来源</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Frequently Asked Questions on Customs Valuation</a><span>World Customs Organization · 2026-08-22</span></li>\n        <li><a href=\"https://gcc-gso.atlassian.net/wiki/spaces/CC/overview\" target=\"_blank\" rel=\"noopener noreferrer\">Mutabiq User Guide</a><span>GCC Standardization Organization · 2026-09-07</span></li>\n        <li><a href=\"https://zatca.gov.sa/en/RulesRegulations/Taxes/Pages/customs-individual/import-vehicles.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Vehicle Import Control</a><span>Zakat, Tax and Customs Authority of Saudi Arabia · 2026-08-22</span></li>\n        <li><a href=\"https://www.customs.gov.qa/English/Legislations/Documents/Executive%20Resolutions/13%20-A%20resolution%20on%20customs%20value%20instructions%20for%20imported%20goods.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Customs Value Instructions for Imported Goods</a><span>General Authority of Customs of Qatar · 2026-08-22</span></li>\n        <li><a href=\"https://moiat.gov.ae/en/digital-participation/consultations/imported-used-vehicle-technical-requirements\" target=\"_blank\" rel=\"noopener noreferrer\">Imported Used Vehicle Technical Requirements</a><span>United Arab Emirates Ministry of Industry and Advanced Technology · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/jebel-ali-free-zone-11-jpg.jpg",
+        "alt": "杰贝阿里的集装箱装卸起重机",
+        "caption": "杰贝阿里的集装箱装卸起重机. 参考配图，并非 AutoBridge 的检测或交易记录。",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Jebel Ali Free Zone 11.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Jebel_Ali_Free_Zone_11.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Jebel_Ali_Free_Zone_11.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Jebel_Ali_Free_Zone_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 3.0",
+        "artist": "Bjoertvedt",
+        "credit": "Own work",
+        "candidate_description": "Container cranes owned by Dubai Port Authority, Jebel Ali, Dubai (UAE)",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "576f86936f074f64bb0090561dc00e613e10bb6d6016b651b061c0acd2665151",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Jebel Ali DP World container cranes match the Middle East FOB/CIF port and quote verification guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    }
+  },
+  "revision_history": [
+    {
+      "date": "2026-08-23",
+      "actor": "codex-user-approved-direct-batch",
+      "action": "approved and deployed to production"
+    },
+    {
+      "date": "2026-08-23",
+      "actor": "codex-ai-rebuild",
+      "action": "researched bilingual source and ten-language localization staged for passive review"
+    },
+    {
+      "date": "2026-08-23",
+      "actor": "codex-ai-rebuild",
+      "action": "researched bilingual source and ten-language localization staged for passive review"
+    },
+    {
+      "date": "2026-08-22",
+      "actor": "codex-user-approved-direct-batch",
+      "action": "approved and deployed to production"
+    },
+    {
+      "date": "2026-08-22",
+      "actor": "codex-ai-rebuild",
+      "action": "researched bilingual source and ten-language localization staged for passive review"
+    },
+    {
+      "date": "2026-08-22",
+      "actor": "codex-ai-rebuild",
+      "action": "researched bilingual source and ten-language localization staged for passive review"
+    },
+    {
+      "date": "2026-07-15",
+      "actor": "codex-ai-rebuild",
+      "action": "researched bilingual source and ten-language localization staged for passive review"
+    },
+    {
+      "date": "2026-07-03",
+      "actor": "codex",
+      "action": "enabled French/German and category pinning fields"
+    },
+    {
+      "date": "2026-07-03",
+      "actor": "codex",
+      "action": "extracted current static HTML into structured content source"
+    },
+    {
+      "at": "2026-09-07T11:19:08.134Z",
+      "action": "Verified source-location and targeted Chinese FAQ corrections; full multilingual editorial review remains pending.",
+      "human_reviewed": false
+    },
+    {
+      "at": "2026-09-07T11:24:17.534Z",
+      "action": "Recovered complete non-scaffolded bodies in ten locales from a hash-verified historical snapshot. Retained current images, summaries and citations. Current facts and all-language alignment still require review.",
+      "human_reviewed": false
+    },
+    {
+      "at": "2026-09-08T11:02:37.696Z",
+      "action": "Removed repeated Chinese FAQ tails or rewrote three repetitive buyer-task paragraphs. Full review is still pending.",
+      "human_reviewed": false
+    }
+  ],
+  "pinned_in_category": false,
+  "synced_at": "2026-08-23T08:01:24.305Z",
+  "review_deadline_at": "2026-08-26T08:01:24.305Z",
+  "sources": [
+    {
+      "title": "Incoterms 2020 Checklist and Flowcharts",
+      "organization": "International Chamber of Commerce",
+      "url": "https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf",
+      "supports": "FOB and CIF delivery, cost, risk and insurance allocation and the suggested use of FCA for containerised movements.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "Frequently Asked Questions on Customs Valuation",
+      "organization": "World Customs Organization",
+      "url": "https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx",
+      "supports": "The distinction between invoice price and customs value and national treatment of freight.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "Mutabiq User Guide",
+      "organization": "GCC Standardization Organization",
+      "url": "https://gcc-gso.atlassian.net/wiki/spaces/CC/overview",
+      "supports": "The GSO user guide lists vehicle conformity authentication, fuel economy labels, recall registration and VIN registration. Its authorized-importer item is explicitly for motorcycles, not evidence of car-importer eligibility.",
+      "accessed_at": "2026-09-07",
+      "previous_url": "https://gso.static.app/",
+      "verification_scope": "Official GSO documentation was read via the browser research tool; the Mutabiq shortcut points to www.gso.org.sa. This is a system-scope check, not verification of a particular certificate or destination acceptance."
+    },
+    {
+      "title": "Vehicle Import Control",
+      "organization": "Zakat, Tax and Customs Authority of Saudi Arabia",
+      "url": "https://zatca.gov.sa/en/RulesRegulations/Taxes/Pages/customs-individual/import-vehicles.aspx",
+      "supports": "Saudi Arabia's destination-specific vehicle import eligibility and used or damaged vehicle controls.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "Customs Value Instructions for Imported Goods",
+      "organization": "General Authority of Customs of Qatar",
+      "url": "https://www.customs.gov.qa/English/Legislations/Documents/Executive%20Resolutions/13%20-A%20resolution%20on%20customs%20value%20instructions%20for%20imported%20goods.pdf",
+      "supports": "Qatar's documentary treatment of freight and insurance when determining imported-goods customs value.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "Imported Used Vehicle Technical Requirements",
+      "organization": "United Arab Emirates Ministry of Industry and Advanced Technology",
+      "url": "https://moiat.gov.ae/en/digital-participation/consultations/imported-used-vehicle-technical-requirements",
+      "supports": "A UAE example of prohibited used-vehicle damage categories and national technical-status controls.",
+      "accessed_at": "2026-08-22"
+    }
+  ],
+  "evidence_gaps": [
+    "The Middle East is not one customs or vehicle-approval territory, and even GCC conformity does not replace each state's import, tax, inspection, insurance and registration controls.",
+    "Current ocean freight, terminal, documentation, storage, testing, inland and banking costs require live quotes for the named port and importer.",
+    "The exact GSO certificate scope, model year, variant, VIN batch, authorised applicant and national acceptance must be authenticated for the vehicles offered.",
+    "CIF insurance details, battery-electric treatment, used or repaired condition, transshipment, territorial limits, deductibles and Arabic claims support require policy review.",
+    "Customs valuation and vehicle-condition evidence can be tested by national authorities, so no supplier amount or duty estimate is guaranteed."
+  ],
+  "editorial_angle": "Middle East FOB and CIF quote verification should link Gulf conformity, Arabic customs files, port charges and registration to the same VIN list.",
+  "editorial": {
+    "policy_version": "2026-08-15",
+    "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+    "author": {
+      "type": "Organization",
+      "name": "AutoBridge Export Editorial Team",
+      "url_path": "/authors/"
+    },
+    "methodology": "document_research_and_procurement_analysis",
+    "evidence": {
+      "level": "documented_sources",
+      "first_hand": false,
+      "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+    },
+    "ai_assistance": {
+      "used": true,
+      "roles": [
+        "research_support",
+        "drafting_support",
+        "translation_support"
+      ],
+      "disclosure_required": true
+    },
+    "review": {
+      "status": "editorial_review_pending",
+      "reviewed_at": null,
+      "reviewer": null,
+      "human_reviewed": false
+    },
+    "previous_review": {
+      "status": "human_reviewed",
+      "reviewed_at": "2026-08-23T08:15:52.985Z",
+      "reviewer": "codex-user-approved-direct-batch",
+      "note": "The publication decision was confirmed in the authenticated editorial workflow."
+    }
+  },
+  "published_at": null,
+  "indexing_state": "quality_hold",
+  "publication_eligible": false,
+  "previous_published_at": "2026-08-23T08:15:52.985Z"
+}

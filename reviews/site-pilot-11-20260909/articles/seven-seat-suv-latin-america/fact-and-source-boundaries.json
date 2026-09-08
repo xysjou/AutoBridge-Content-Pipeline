@@ -1,0 +1,223 @@
+{
+  "status": "NEEDS_RESEARCH_NOT_VERIFIED_FACT_SHEET",
+  "candidate_sha256": "75a7e2d8370f5b3f554bb8ac4b50e139b0e66c60812b2257856d450d34c44412",
+  "search_intent": "seven-seat SUV procurement Latin America buyer verification",
+  "market": "Latin America",
+  "editorial_angle": "A destination-led seven-seat SUV procurement decision for Latin America, separating identity, authority scope, operating evidence, cost boundaries and stop conditions without assuming prices or specifications.",
+  "sources": [
+    {
+      "title": "Latin NCAP announces update of its assessment protocol",
+      "organization": "Latin NCAP",
+      "url": "https://www.latinncap.com/es/area-de-prensa/noticia/8692053535197d/latin-ncap-anuncia-actualizacion-de-su-protocolo-de-evaluacion",
+      "supports": "The updated Latin NCAP assessment protocol effective for 2026-2029 and the need to read ratings by protocol.",
+      "accessed_at": "2026-07-15"
+    },
+    {
+      "title": "Obtener una licencia de vehículo para circular en la vía pública",
+      "organization": "Government of Argentina",
+      "url": "https://www.argentina.gob.ar/obtener-licencia-de-configuracion-de-modelo",
+      "supports": "Current Argentine LCM, LCA and foreign-homologation validation routes for new vehicles.",
+      "accessed_at": "2026-07-15"
+    },
+    {
+      "title": "Certificado de Adequação à Legislação de Trânsito - CAT",
+      "organization": "Brazil Ministry of Transport",
+      "url": "https://dados.transportes.gov.br/en_GB/dataset/certificado-de-adequacao-a-legislacao-de-transito-cat",
+      "supports": "Official Brazilian vehicle-homologation data and CAT as a national circulation approval record.",
+      "accessed_at": "2026-07-15"
+    },
+    {
+      "title": "Agreement on Technical Barriers to Trade",
+      "organization": "World Trade Organization",
+      "url": "https://www.wto.org/english/tratop_e/tbt_e/tbtagr.htm",
+      "supports": "National technical regulations, conformity assessment and official enquiry points.",
+      "accessed_at": "2026-07-15"
+    },
+    {
+      "title": "Global EV Outlook 2026 - Trends in electric cars",
+      "organization": "International Energy Agency",
+      "url": "https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars",
+      "supports": "Current regional EV growth alongside substantial differences in powertrain mix and market conditions.",
+      "accessed_at": "2026-07-15"
+    },
+    {
+      "title": "WP.29 - Presentation",
+      "organization": "United Nations Economic Commission for Europe",
+      "url": "https://unece.org/transport/vehicle-regulations/wp29-presentation",
+      "supports": "Explains the UN vehicle-regulation system and why approval evidence must be matched to the exact vehicle version and destination.",
+      "accessed_at": "2026-08-26"
+    },
+    {
+      "title": "Used Vehicles Resources",
+      "organization": "United Nations Environment Programme",
+      "url": "https://www.unep.org/topics/transport/partnership-clean-fuels-and-vehicles/used-vehicles/used-vehicles-resources",
+      "supports": "Provides environmental and quality-policy context for imported used vehicles and destination-market inspection controls.",
+      "accessed_at": "2026-08-26"
+    }
+  ],
+  "evidence_gaps": [
+    "The exact destination country, importer and registration path must be confirmed for each transaction.",
+    "No live supplier quote, vehicle-specific inspection or transaction record is treated as verified evidence in this guide.",
+    "Model year, trim, production batch, transport lane and authority requirements can change after the stated access date.",
+    "Local tax, port, inland transport, warranty and parts costs remain conditional until written destination evidence is attached."
+  ],
+  "editorial": {
+    "policy_version": "2026-08-15",
+    "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+    "author": {
+      "type": "Organization",
+      "name": "AutoBridge Export Editorial Team",
+      "url_path": "/authors/"
+    },
+    "methodology": "document_research_and_procurement_analysis",
+    "evidence": {
+      "level": "documented_sources",
+      "first_hand": false,
+      "note": "First-hand inspection, transaction or ownership experience is stated only when a dated evidence record is attached."
+    },
+    "ai_assistance": {
+      "used": true,
+      "roles": [
+        "research_support",
+        "drafting_support",
+        "translation_support"
+      ],
+      "disclosure_required": true
+    },
+    "review": {
+      "status": "editorial_review_pending",
+      "reviewed_at": null,
+      "reviewer": null,
+      "human_reviewed": false
+    },
+    "previous_review": {
+      "status": "ai_reviewed_user_authorized",
+      "reviewed_at": "2026-09-05T06:44:09.315Z",
+      "reviewer": "AI_REVIEWER",
+      "reviewer_commit": "",
+      "content_hash": "",
+      "publication_authorized_by": "codex-final-review-user-confirmed-2026-09-05",
+      "note": "Independent AI review passed and the user authorized publication. This is not a human editorial review."
+    }
+  },
+  "source_accessibility": [
+    {
+      "url": "https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars",
+      "used_by": [
+        "new-vs-used-ev-middle-east",
+        "seven-seat-suv-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:08:41.753Z",
+      "http_status": 403,
+      "final_url": "https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Just a moment...",
+      "received_bytes": 5585,
+      "response_sha256": "8e718598813885c0017dc3c0bcad902838a165701d92aac639178ef407cf0135",
+      "transport_error": null,
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.wto.org/english/tratop_e/tbt_e/tbtagr.htm",
+      "used_by": [
+        "new-vs-used-ev-middle-east",
+        "pickup-export-latin-america",
+        "seven-seat-suv-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:08:42.858Z",
+      "http_status": 206,
+      "final_url": "https://www.wto.org/english/tratop_e/tbt_e/tbtagr.htm",
+      "content_type": "text/html",
+      "title": "WTO | Agreement on Technical Barriers to Trade ",
+      "received_bytes": 87921,
+      "response_sha256": "269652fadc4b7045d9951dfc3a895f5104ad070f425c166d76bad335c4e96104",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://unece.org/transport/vehicle-regulations/wp29-presentation",
+      "used_by": [
+        "pickup-export-latin-america",
+        "seven-seat-suv-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:08:48.816Z",
+      "http_status": 403,
+      "final_url": "https://unece.org/transport/vehicle-regulations/wp29-presentation",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Just a moment...",
+      "received_bytes": 5528,
+      "response_sha256": "1e235ff164dc8a852ce8e90631a335760045375cafaad7013caa454e5a4071c4",
+      "transport_error": null,
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.unep.org/topics/transport/partnership-clean-fuels-and-vehicles/used-vehicles/used-vehicles-resources",
+      "used_by": [
+        "pickup-export-latin-america",
+        "seven-seat-suv-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:08:54.882Z",
+      "http_status": 403,
+      "final_url": "https://www.unep.org/topics/transport/partnership-clean-fuels-and-vehicles/used-vehicles/used-vehicles-resources",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Just a moment...",
+      "received_bytes": 5783,
+      "response_sha256": "dbed8c66e6605711e9b27495358db1ef1af09f9c9179322e93745db7ba7b9550",
+      "transport_error": null,
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.latinncap.com/es/area-de-prensa/noticia/8692053535197d/latin-ncap-anuncia-actualizacion-de-su-protocolo-de-evaluacion",
+      "used_by": [
+        "seven-seat-suv-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:09:07.514Z",
+      "http_status": 200,
+      "final_url": "https://www.latinncap.com/es/area-de-prensa/noticia/8692053535197d/latin-ncap-anuncia-actualizacion-de-su-protocolo-de-evaluacion",
+      "content_type": "text/html",
+      "title": "LATIN NCAP ",
+      "received_bytes": 44789,
+      "response_sha256": "fa0eca10fc3e376956a8ad852c39aeaad2cdab0b34a239c6c95636f6e47671b4",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.argentina.gob.ar/obtener-licencia-de-configuracion-de-modelo",
+      "used_by": [
+        "seven-seat-suv-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:09:10.475Z",
+      "http_status": 200,
+      "final_url": "https://www.argentina.gob.ar/obtener-licencia-de-configuracion-de-modelo",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Obtener una licencia de vehículo para circular en la vía pública | Argentina.gob.ar",
+      "received_bytes": 74889,
+      "response_sha256": "7446f30028dcbdca4242ceee5421c2df4011eab0ce0e9615d0f6630644a8b39b",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://dados.transportes.gov.br/en_GB/dataset/certificado-de-adequacao-a-legislacao-de-transito-cat",
+      "used_by": [
+        "seven-seat-suv-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:09:16.055Z",
+      "http_status": 0,
+      "final_url": "https://dados.transportes.gov.br/en_GB/dataset/certificado-de-adequacao-a-legislacao-de-transito-cat",
+      "content_type": "",
+      "title": "",
+      "received_bytes": 0,
+      "response_sha256": null,
+      "transport_error": "curl: (56) Recv failure: Connection reset by peer\n",
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    }
+  ],
+  "note": "Source supports fields are assertions inherited from the candidate, not new independent factual approval. HTTP success is not claim verification."
+}

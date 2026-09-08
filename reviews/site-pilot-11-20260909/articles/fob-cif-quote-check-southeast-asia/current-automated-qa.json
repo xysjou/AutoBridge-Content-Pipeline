@@ -1,0 +1,936 @@
+{
+  "candidate_sha256": "9344fd26973c804397a139cd05254d4df7bdb96016ae7c47c231725bb350c143",
+  "generated_at": "2026-09-08T23:08:08.678Z",
+  "pages": [
+    {
+      "relative": "en/guides/fob-cif-quote-check-southeast-asia.html",
+      "candidate_preview": true,
+      "language": "en",
+      "type": "guides",
+      "slug": "fob-cif-quote-check-southeast-asia",
+      "content_key": "guides/fob-cif-quote-check-southeast-asia",
+      "canonical": "https://www.autobridgeexport.com/guides/fob-cif-quote-check-southeast-asia.html",
+      "title": "FOB vs CIF vehicle quotes for Southeast Asia: include permits and island delivery",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/the-port-of-singapore-jpg.jpg",
+        "alt": "Container stacks, gantry cranes and trucks at Singapore port",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "human_reviewed",
+          "reviewed_at": "2026-08-23T08:15:53.326Z",
+          "reviewer": "codex-user-approved-direct-batch",
+          "note": "The publication decision was confirmed in the authenticated editorial workflow."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 1051,
+      "character_count": 6114,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 2,
+      "max_peer_similarity": 0.81,
+      "most_similar_peer": "en/guides/price-verification-southeast-asia.html",
+      "editorial_quality_score": 70,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 0,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 0,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [
+        "high_peer_similarity",
+        "editorial_quality_score_below_85"
+      ],
+      "quality_pass": false
+    },
+    {
+      "relative": "fr/guides/fob-cif-quote-check-southeast-asia.html",
+      "candidate_preview": true,
+      "language": "fr",
+      "type": "guides",
+      "slug": "fob-cif-quote-check-southeast-asia",
+      "content_key": "guides/fob-cif-quote-check-southeast-asia",
+      "canonical": "https://fr.autobridgeexport.com/guides/fob-cif-quote-check-southeast-asia.html",
+      "title": "Comparer FOB et CIF pour les véhicules chinois en Asie du Sud-Est",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/the-port-of-singapore-jpg.jpg",
+        "alt": "Conteneurs, portiques et camions au port de Singapour",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "human_reviewed",
+          "reviewed_at": "2026-08-23T08:15:53.326Z",
+          "reviewer": "codex-user-approved-direct-batch",
+          "note": "The publication decision was confirmed in the authenticated editorial workflow."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 676,
+      "character_count": 3866,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 2,
+      "max_peer_similarity": 0.385,
+      "most_similar_peer": "fr/guides/price-verification-southeast-asia.html",
+      "editorial_quality_score": 100,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 20,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 10,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [],
+      "quality_pass": true
+    },
+    {
+      "relative": "de/guides/fob-cif-quote-check-southeast-asia.html",
+      "candidate_preview": true,
+      "language": "de",
+      "type": "guides",
+      "slug": "fob-cif-quote-check-southeast-asia",
+      "content_key": "guides/fob-cif-quote-check-southeast-asia",
+      "canonical": "https://de.autobridgeexport.com/guides/fob-cif-quote-check-southeast-asia.html",
+      "title": "FOB und CIF für China-Fahrzeuge nach Südostasien vergleichen",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/the-port-of-singapore-jpg.jpg",
+        "alt": "Containerstapel, Portalkräne und Lastwagen im Hafen von Singapur",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "human_reviewed",
+          "reviewed_at": "2026-08-23T08:15:53.326Z",
+          "reviewer": "codex-user-approved-direct-batch",
+          "note": "The publication decision was confirmed in the authenticated editorial workflow."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 573,
+      "character_count": 3819,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 2,
+      "max_peer_similarity": 0.385,
+      "most_similar_peer": "de/guides/price-verification-southeast-asia.html",
+      "editorial_quality_score": 100,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 20,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 10,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [],
+      "quality_pass": true
+    },
+    {
+      "relative": "es/guides/fob-cif-quote-check-southeast-asia.html",
+      "candidate_preview": true,
+      "language": "es",
+      "type": "guides",
+      "slug": "fob-cif-quote-check-southeast-asia",
+      "content_key": "guides/fob-cif-quote-check-southeast-asia",
+      "canonical": "https://es.autobridgeexport.com/guides/fob-cif-quote-check-southeast-asia.html",
+      "title": "Comparar FOB y CIF para vehículos chinos en el Sudeste Asiático",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/the-port-of-singapore-jpg.jpg",
+        "alt": "Contenedores apilados, grúas pórtico y camiones en el puerto de Singapur",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "human_reviewed",
+          "reviewed_at": "2026-08-23T08:15:53.326Z",
+          "reviewer": "codex-user-approved-direct-batch",
+          "note": "The publication decision was confirmed in the authenticated editorial workflow."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 623,
+      "character_count": 3587,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 2,
+      "max_peer_similarity": 0.385,
+      "most_similar_peer": "es/guides/price-verification-southeast-asia.html",
+      "editorial_quality_score": 100,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 20,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 10,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [],
+      "quality_pass": true
+    },
+    {
+      "relative": "pt-br/guides/fob-cif-quote-check-southeast-asia.html",
+      "candidate_preview": true,
+      "language": "pt-br",
+      "type": "guides",
+      "slug": "fob-cif-quote-check-southeast-asia",
+      "content_key": "guides/fob-cif-quote-check-southeast-asia",
+      "canonical": "https://pt.autobridgeexport.com/guides/fob-cif-quote-check-southeast-asia.html",
+      "title": "Comparar FOB e CIF para veículos chineses no Sudeste Asiático",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/the-port-of-singapore-jpg.jpg",
+        "alt": "Contêineres empilhados, guindastes pórtico e caminhões no porto de Singapura",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "human_reviewed",
+          "reviewed_at": "2026-08-23T08:15:53.326Z",
+          "reviewer": "codex-user-approved-direct-batch",
+          "note": "The publication decision was confirmed in the authenticated editorial workflow."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 610,
+      "character_count": 3452,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 2,
+      "max_peer_similarity": 0.385,
+      "most_similar_peer": "pt-br/guides/price-verification-southeast-asia.html",
+      "editorial_quality_score": 100,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 20,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 10,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [],
+      "quality_pass": true
+    },
+    {
+      "relative": "ja/guides/fob-cif-quote-check-southeast-asia.html",
+      "candidate_preview": true,
+      "language": "ja",
+      "type": "guides",
+      "slug": "fob-cif-quote-check-southeast-asia",
+      "content_key": "guides/fob-cif-quote-check-southeast-asia",
+      "canonical": "https://ja.autobridgeexport.com/guides/fob-cif-quote-check-southeast-asia.html",
+      "title": "東南アジア向け中国車のFOB・CIFを許可と島内配送まで比較する",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/the-port-of-singapore-jpg.jpg",
+        "alt": "シンガポール港のコンテナ、ガントリークレーン、トラック",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "human_reviewed",
+          "reviewed_at": "2026-08-23T08:15:53.326Z",
+          "reviewer": "codex-user-approved-direct-batch",
+          "note": "The publication decision was confirmed in the authenticated editorial workflow."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 264,
+      "character_count": 1775,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 2,
+      "max_peer_similarity": 0.385,
+      "most_similar_peer": "ja/guides/price-verification-southeast-asia.html",
+      "editorial_quality_score": 65,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 0,
+        "buyer_task_coverage": 0,
+        "authorship_and_transparency": 15,
+        "uniqueness": 10,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [
+        "content_too_thin",
+        "editorial_quality_score_below_85"
+      ],
+      "quality_pass": false
+    },
+    {
+      "relative": "ko/guides/fob-cif-quote-check-southeast-asia.html",
+      "candidate_preview": true,
+      "language": "ko",
+      "type": "guides",
+      "slug": "fob-cif-quote-check-southeast-asia",
+      "content_key": "guides/fob-cif-quote-check-southeast-asia",
+      "canonical": "https://ko.autobridgeexport.com/guides/fob-cif-quote-check-southeast-asia.html",
+      "title": "동남아행 중국 차량 FOB·CIF를 허가와 섬 배송까지 비교하기",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/the-port-of-singapore-jpg.jpg",
+        "alt": "싱가포르항의 컨테이너, 갠트리 크레인과 트럭",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "human_reviewed",
+          "reviewed_at": "2026-08-23T08:15:53.326Z",
+          "reviewer": "codex-user-approved-direct-batch",
+          "note": "The publication decision was confirmed in the authenticated editorial workflow."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 457,
+      "character_count": 1829,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 2,
+      "max_peer_similarity": 0.429,
+      "most_similar_peer": "ko/guides/price-verification-southeast-asia.html",
+      "editorial_quality_score": 85,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 20,
+        "buyer_task_coverage": 0,
+        "authorship_and_transparency": 15,
+        "uniqueness": 10,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [],
+      "quality_pass": true
+    },
+    {
+      "relative": "vi/guides/fob-cif-quote-check-southeast-asia.html",
+      "candidate_preview": true,
+      "language": "vi",
+      "type": "guides",
+      "slug": "fob-cif-quote-check-southeast-asia",
+      "content_key": "guides/fob-cif-quote-check-southeast-asia",
+      "canonical": "https://vi.autobridgeexport.com/guides/fob-cif-quote-check-southeast-asia.html",
+      "title": "So sánh FOB và CIF cho xe Trung Quốc vào Đông Nam Á đến giấy phép và giao đảo",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/the-port-of-singapore-jpg.jpg",
+        "alt": "Container xếp chồng, cẩu giàn và xe tải tại cảng Singapore",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "human_reviewed",
+          "reviewed_at": "2026-08-23T08:15:53.326Z",
+          "reviewer": "codex-user-approved-direct-batch",
+          "note": "The publication decision was confirmed in the authenticated editorial workflow."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 765,
+      "character_count": 3040,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 2,
+      "max_peer_similarity": 0.385,
+      "most_similar_peer": "vi/guides/price-verification-southeast-asia.html",
+      "editorial_quality_score": 100,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 20,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 10,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [],
+      "quality_pass": true
+    },
+    {
+      "relative": "th/guides/fob-cif-quote-check-southeast-asia.html",
+      "candidate_preview": true,
+      "language": "th",
+      "type": "guides",
+      "slug": "fob-cif-quote-check-southeast-asia",
+      "content_key": "guides/fob-cif-quote-check-southeast-asia",
+      "canonical": "https://th.autobridgeexport.com/guides/fob-cif-quote-check-southeast-asia.html",
+      "title": "เทียบ FOB และ CIF รถจีนไปเอเชียตะวันออกเฉียงใต้ถึงใบอนุญาตและส่งเกาะ",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/the-port-of-singapore-jpg.jpg",
+        "alt": "ตู้คอนเทนเนอร์ เครนยกตู้ และรถบรรทุกที่ท่าเรือสิงคโปร์",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "human_reviewed",
+          "reviewed_at": "2026-08-23T08:15:53.326Z",
+          "reviewer": "codex-user-approved-direct-batch",
+          "note": "The publication decision was confirmed in the authenticated editorial workflow."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 651,
+      "character_count": 2926,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 2,
+      "max_peer_similarity": 0.385,
+      "most_similar_peer": "th/guides/price-verification-southeast-asia.html",
+      "editorial_quality_score": 100,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 20,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 10,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [],
+      "quality_pass": true
+    },
+    {
+      "relative": "id/guides/fob-cif-quote-check-southeast-asia.html",
+      "candidate_preview": true,
+      "language": "id",
+      "type": "guides",
+      "slug": "fob-cif-quote-check-southeast-asia",
+      "content_key": "guides/fob-cif-quote-check-southeast-asia",
+      "canonical": "https://id.autobridgeexport.com/guides/fob-cif-quote-check-southeast-asia.html",
+      "title": "Membandingkan FOB dan CIF kendaraan Tiongkok ke Asia Tenggara hingga izin dan pulau",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/the-port-of-singapore-jpg.jpg",
+        "alt": "Tumpukan peti kemas, derek gantri, dan truk di pelabuhan Singapura",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "human_reviewed",
+          "reviewed_at": "2026-08-23T08:15:53.326Z",
+          "reviewer": "codex-user-approved-direct-batch",
+          "note": "The publication decision was confirmed in the authenticated editorial workflow."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 587,
+      "character_count": 3689,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 2,
+      "max_peer_similarity": 0.385,
+      "most_similar_peer": "id/guides/price-verification-southeast-asia.html",
+      "editorial_quality_score": 100,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 20,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 10,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [],
+      "quality_pass": true
+    },
+    {
+      "relative": "ar/guides/fob-cif-quote-check-southeast-asia.html",
+      "candidate_preview": true,
+      "language": "ar",
+      "type": "guides",
+      "slug": "fob-cif-quote-check-southeast-asia",
+      "content_key": "guides/fob-cif-quote-check-southeast-asia",
+      "canonical": "https://ar.autobridgeexport.com/guides/fob-cif-quote-check-southeast-asia.html",
+      "title": "مقارنة FOB وCIF للمركبات الصينية إلى جنوب شرق آسيا حتى التصريح والجزر",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/the-port-of-singapore-jpg.jpg",
+        "alt": "حاويات مكدسة ورافعات جسرية وشاحنات في ميناء سنغافورة",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "human_reviewed",
+          "reviewed_at": "2026-08-23T08:15:53.326Z",
+          "reviewer": "codex-user-approved-direct-batch",
+          "note": "The publication decision was confirmed in the authenticated editorial workflow."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 557,
+      "character_count": 3030,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 2,
+      "max_peer_similarity": 0.385,
+      "most_similar_peer": "ar/guides/price-verification-southeast-asia.html",
+      "editorial_quality_score": 100,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 20,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 10,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [],
+      "quality_pass": true
+    },
+    {
+      "relative": "zh/guides/fob-cif-quote-check-southeast-asia.html",
+      "candidate_preview": true,
+      "language": "zh",
+      "type": "guides",
+      "slug": "fob-cif-quote-check-southeast-asia",
+      "content_key": "guides/fob-cif-quote-check-southeast-asia",
+      "canonical": "https://zh.autobridgeexport.com/guides/fob-cif-quote-check-southeast-asia.html",
+      "title": "中国汽车出口东南亚：FOB与CIF报价要算到许可、岛屿运输和上牌",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/the-port-of-singapore-jpg.jpg",
+        "alt": "新加坡港的集装箱、龙门起重机与卡车",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "human_reviewed",
+          "reviewed_at": "2026-08-23T08:15:53.326Z",
+          "reviewer": "codex-user-approved-direct-batch",
+          "note": "The publication decision was confirmed in the authenticated editorial workflow."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 277,
+      "character_count": 2473,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 2,
+      "max_peer_similarity": 0,
+      "most_similar_peer": null,
+      "editorial_quality_score": 100,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 20,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 10,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [],
+      "quality_pass": true
+    }
+  ]
+}

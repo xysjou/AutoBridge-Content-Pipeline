@@ -1,0 +1,249 @@
+{
+  "status": "NEEDS_RESEARCH_NOT_VERIFIED_FACT_SHEET",
+  "candidate_sha256": "b1cce33d9ffc2a51ec69e931f6cbb244056391f90d6b543ae02a2d697a581e43",
+  "search_intent": "RoRo versus container vehicle shipping Latin America buyer verification",
+  "market": "Latin America",
+  "editorial_angle": "A destination-led RoRo versus container vehicle shipping decision for Latin America, separating identity, authority scope, operating evidence, cost boundaries and stop conditions without assuming prices or specifications.",
+  "sources": [
+    {
+      "title": "Verification of the gross mass of a packed container",
+      "organization": "International Maritime Organization",
+      "url": "https://www.imo.org/en/ourwork/safety/pages/verification-of-the-gross-mass.aspx",
+      "supports": "Authoritative guidance for shipping safety, vehicle regulation, regional trade or destination due diligence.",
+      "accessed_at": "2026-07-16"
+    },
+    {
+      "title": "UN Vehicle Regulations",
+      "organization": "United Nations Economic Commission for Europe",
+      "url": "https://unece.org/transport/vehicle-regulations",
+      "supports": "Authoritative guidance for shipping safety, vehicle regulation, regional trade or destination due diligence.",
+      "accessed_at": "2026-07-16"
+    },
+    {
+      "title": "Review of Maritime Transport",
+      "organization": "United Nations Conference on Trade and Development",
+      "url": "https://unctad.org/topic/transport-and-trade-logistics/review-of-maritime-transport",
+      "supports": "Authoritative guidance for shipping safety, vehicle regulation, regional trade or destination due diligence.",
+      "accessed_at": "2026-07-16"
+    },
+    {
+      "title": "Integration and Trade",
+      "organization": "Inter-American Development Bank",
+      "url": "https://www.iadb.org/en/topics/trade-and-investment",
+      "supports": "Authoritative guidance for shipping safety, vehicle regulation, regional trade or destination due diligence.",
+      "accessed_at": "2026-07-16"
+    },
+    {
+      "title": "Cargo Securing and Packing",
+      "organization": "International Maritime Organization",
+      "url": "https://www.imo.org/en/OurWork/Safety/Pages/CargoSecuring-default.aspx",
+      "supports": "Provides the IMO framework for safe stowage and securing of cargo, relevant to container loading and vehicle movement at sea.",
+      "accessed_at": "2026-08-26"
+    },
+    {
+      "title": "Incoterms 2020 Checklist and Flowcharts",
+      "organization": "International Chamber of Commerce",
+      "url": "https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf",
+      "supports": "Clarifies trade-term cost and risk boundaries that must be separated from the physical choice between RoRo and container transport.",
+      "accessed_at": "2026-08-26"
+    },
+    {
+      "title": "Customs valuation",
+      "organization": "World Trade Organization",
+      "url": "https://www.wto.org/english/tratop_e/cusval_e/cusval_e.htm",
+      "supports": "Provides destination customs-valuation context for freight, insurance and related adjustments included in the import value.",
+      "accessed_at": "2026-08-26"
+    },
+    {
+      "title": "Logistics Performance Indicators 2.0",
+      "organization": "World Bank",
+      "url": "https://lpi.worldbank.org/en/about",
+      "supports": "Provides comparative logistics context for route reliability, border processing, infrastructure and shipment timeliness.",
+      "accessed_at": "2026-08-26"
+    }
+  ],
+  "evidence_gaps": [
+    "The exact destination country, importer and registration path must be confirmed for each transaction.",
+    "No live supplier quote, vehicle-specific inspection or transaction record is treated as verified evidence in this guide.",
+    "Model year, trim, production batch, transport lane and authority requirements can change after the stated access date.",
+    "Local tax, port, inland transport, warranty and parts costs remain conditional until written destination evidence is attached."
+  ],
+  "editorial": {
+    "policy_version": "2026-08-15",
+    "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+    "author": {
+      "type": "Organization",
+      "name": "AutoBridge Export Editorial Team",
+      "url_path": "/authors/"
+    },
+    "methodology": "document_research_and_procurement_analysis",
+    "evidence": {
+      "level": "documented_sources",
+      "first_hand": false,
+      "note": "First-hand inspection, transaction or ownership experience is stated only when a dated evidence record is attached."
+    },
+    "ai_assistance": {
+      "used": true,
+      "roles": [
+        "research_support",
+        "drafting_support",
+        "translation_support"
+      ],
+      "disclosure_required": true
+    },
+    "review": {
+      "status": "editorial_review_pending",
+      "reviewed_at": null,
+      "reviewer": null,
+      "human_reviewed": false
+    },
+    "previous_review": {
+      "status": "ai_reviewed_user_authorized",
+      "reviewed_at": "2026-09-05T06:44:07.128Z",
+      "reviewer": "AI_REVIEWER",
+      "reviewer_commit": "",
+      "content_hash": "",
+      "publication_authorized_by": "codex-final-review-user-confirmed-2026-09-05",
+      "note": "Independent AI review passed and the user authorized publication. This is not a human editorial review."
+    }
+  },
+  "source_accessibility": [
+    {
+      "url": "https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf",
+      "used_by": [
+        "fob-cif-quote-check-africa",
+        "fob-cif-quote-check-latin-america",
+        "fob-cif-quote-check-middle-east",
+        "fob-cif-quote-check-southeast-asia",
+        "roro-container-shipping-latin-america",
+        "price-verification-africa"
+      ],
+      "checked_at": "2026-09-08T23:06:46.632Z",
+      "http_status": 206,
+      "final_url": "https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf",
+      "content_type": "application/pdf",
+      "title": "",
+      "received_bytes": 262144,
+      "response_sha256": "6a6fd0494afe7a6c9f8b8a80883404674c97abf89d0ca69a0b3d84940dc65146",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://lpi.worldbank.org/en/about",
+      "used_by": [
+        "pickup-export-latin-america",
+        "roro-container-shipping-latin-america",
+        "price-verification-africa"
+      ],
+      "checked_at": "2026-09-08T23:08:49.824Z",
+      "http_status": 403,
+      "final_url": "https://lpi.worldbank.org/en/about",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Just a moment...",
+      "received_bytes": 5432,
+      "response_sha256": "7d127f7c38a59c8db90d3f4811f9e2debda14f7d185e95951b9c6a99409bbd77",
+      "transport_error": null,
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.imo.org/en/ourwork/safety/pages/verification-of-the-gross-mass.aspx",
+      "used_by": [
+        "roro-container-shipping-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:08:56.458Z",
+      "http_status": 200,
+      "final_url": "https://www.imo.org/en/ourwork/safety/pages/verification-of-the-gross-mass.aspx",
+      "content_type": "text/html; charset=utf-8",
+      "title": " Verification of the gross mass of a packed container ",
+      "received_bytes": 66745,
+      "response_sha256": "1af655175cdbad6865916880f51e6d4b382a5c19bf0d2e79a84dc671cae95ce6",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://unece.org/transport/vehicle-regulations",
+      "used_by": [
+        "roro-container-shipping-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:08:57.304Z",
+      "http_status": 403,
+      "final_url": "https://unece.org/transport/vehicle-regulations",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Just a moment...",
+      "received_bytes": 5452,
+      "response_sha256": "6806f473229c7ebc5601698a0bb73194039d1274c469c5184a1d4c23dd6b13e5",
+      "transport_error": null,
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    },
+    {
+      "url": "https://unctad.org/topic/transport-and-trade-logistics/review-of-maritime-transport",
+      "used_by": [
+        "roro-container-shipping-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:09:01.547Z",
+      "http_status": 206,
+      "final_url": "https://unctad.org/topic/transport-and-trade-logistics/review-of-maritime-transport",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Review of Maritime Transport | UN Trade and Development (UNCTAD)",
+      "received_bytes": 95468,
+      "response_sha256": "275401458c4b7fcbca799b96eb0a05074f9586e0fec07b275be5a31188628a1e",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.iadb.org/en/topics/trade-and-investment",
+      "used_by": [
+        "roro-container-shipping-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:09:02.356Z",
+      "http_status": 403,
+      "final_url": "https://www.iadb.org/en/topics/trade-and-investment",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Attention Required! | Cloudflare",
+      "received_bytes": 5506,
+      "response_sha256": "ec3414f5e74b13491e50938c76dba8b139e420fcfaf6fd60571910578341f768",
+      "transport_error": null,
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.imo.org/en/OurWork/Safety/Pages/CargoSecuring-default.aspx",
+      "used_by": [
+        "roro-container-shipping-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:09:03.866Z",
+      "http_status": 200,
+      "final_url": "https://www.imo.org/en/ourwork/safety/pages/cargosecuring-default.aspx",
+      "content_type": "text/html; charset=utf-8",
+      "title": " Cargo Securing and Packing ",
+      "received_bytes": 59934,
+      "response_sha256": "69a877286d19dbf3ce9bb4bcb4852be5c454d9b0c4228e694387418744eae41d",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.wto.org/english/tratop_e/cusval_e/cusval_e.htm",
+      "used_by": [
+        "roro-container-shipping-latin-america",
+        "price-verification-africa"
+      ],
+      "checked_at": "2026-09-08T23:09:04.641Z",
+      "http_status": 206,
+      "final_url": "https://www.wto.org/english/tratop_e/cusval_e/cusval_e.htm",
+      "content_type": "text/html",
+      "title": "WTO | Customs valuation gateway",
+      "received_bytes": 14273,
+      "response_sha256": "37519793383f103ab23c9b07c796a73eeed5365795f76e8be23bb3bd28c2f1e8",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    }
+  ],
+  "note": "Source supports fields are assertions inherited from the candidate, not new independent factual approval. HTTP success is not claim verification."
+}

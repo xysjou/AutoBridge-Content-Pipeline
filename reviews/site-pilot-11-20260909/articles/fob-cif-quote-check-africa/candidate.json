@@ -1,0 +1,619 @@
+{
+  "schema_version": "1.0",
+  "type": "buyer_guide",
+  "slug": "fob-cif-quote-check-africa",
+  "source_language": "zh",
+  "status": "quality_hold",
+  "canonical_path": "/en/guides/fob-cif-quote-check-africa.html",
+  "search_intent": "Compare FOB and CIF quotations for vehicles shipped from China to an African country, port and inland market",
+  "market": "Africa",
+  "image": {
+    "src": "../../assets/editorial/durban-container-port-24747434937-jpg.jpg",
+    "alt": "Aerial view of container stacks, cranes and ships at Durban port",
+    "caption": "Aerial view of container stacks, cranes and ships at Durban port. Reference photograph, not a record of an AutoBridge inspection or transaction.",
+    "wiki_title": "Container ship",
+    "review_note": "Image description corrected; full article review and publication approval remain pending.",
+    "wiki_file_title": "Durban container port (24747434937).jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Durban_container_port_(24747434937).jpg",
+    "source_file_page": "https://commons.wikimedia.org/wiki/File:Durban_container_port_(24747434937).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Durban_container_port_%2824747434937%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "license": "CC BY-SA 2.0",
+    "artist": "Media Club",
+    "credit": "IMC-KZN-00074G",
+    "candidate_description": "Container terminal at the Port of Durban , IMC-KZN-00074G",
+    "identity_status": "confirmed_topic_match",
+    "identity_reviewed": true,
+    "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+    "identity_reviewer": "codex-ai-visual-review",
+    "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+    "asset_sha256": "55ac118768810bec3202992960c58d440b5e15766705ec9410be0869e5eff34e",
+    "evidence_scope": "reference_illustration_not_first_hand",
+    "previous_identity_review": {
+      "status": "confirmed_model_match",
+      "note": "Visible Durban container terminal, cargo vessels and handling infrastructure match the Africa FOB/CIF logistics guide."
+    }
+  },
+  "translations": {
+    "en": {
+      "title": "FOB vs CIF vehicle quotes for Africa: price the port and inland corridor",
+      "seo_title": "Africa Vehicle FOB vs CIF Quote Check",
+      "meta_description": "Compare China vehicle FOB and CIF quotes for one African country, port and inland destination, including inspection, insurance, customs valuation and corridor costs.",
+      "summary": "Compare FOB and CIF responsibilities from the Chinese loading port to the African discharge port, then cost the inland corridor and check where cargo insurance ends.",
+      "eyebrow": "Africa vehicle quote control",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../en/index.html\">Home</a><span>/</span><a href=\"../../en/guides/index.html\">Guides</a><span>/</span><span>FOB vs CIF vehicle quotes for Africa: price the port and inland corridor</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">Africa vehicle quote control</p>\n      <h1>FOB vs CIF vehicle quotes for Africa: price the port and inland corridor</h1>\n      <p class=\"lead\">Compare FOB and CIF responsibilities from the Chinese loading port to the African discharge port, then cost the inland corridor and check where cargo insurance ends.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/durban-container-port-24747434937-jpg.jpg\" alt=\"Aerial view of container stacks, cranes and ships at Durban port\" loading=\"lazy\"><figcaption>Aerial view of container stacks, cranes and ships at Durban port. Reference photograph, not a record of an AutoBridge inspection or transaction.</figcaption></figure>\n      <h2>Name the country, discharge port and final city</h2>\n      <p>Do not compare a generic “CIF Africa” figure. State the destination country, importer of record, discharge terminal, final registration market, expected arrival and physical handover point. For a landlocked market, add transit country, border post, bonded or duty-paid status, inland depot and the entity responsible for the corridor movement. A port price and a yard-delivered price are different commercial questions.</p>\n      <p>Freeze model year, exact trim, steering side, powertrain, new or used condition, quantity and VIN range. National rules on age, steering configuration, emissions, pre-export inspection and registration differ. The cheapest carriage cannot rescue an ineligible vehicle, so the importer should have the competent customs, standards and transport authorities confirm the route for the actual specification before a non-refundable payment.</p>\n      <h2>Anchor FOB and CIF to exact port points</h2>\n      <p>An FOB offer should name the Chinese shipment port and disclose whether warehouse collection, inspection, export declaration, terminal charges and loading are included. Risk normally transfers when the vehicle is on board the buyer-nominated vessel. A CIF offer should name the destination port or terminal: the seller pays main carriage and arranges insurance, but risk still transfers on board in China, not when the vehicle reaches Africa.</p>\n      <p>Where a container is handed to a terminal before loading, FCA may better match the actual delivery; where the seller arranges insured multimodal carriage, examine CIP. Keep RoRo and container scenarios distinct because preparation, handling, damage controls and port invoices differ. Replace “FOB Shanghai” or “CIF West Africa” with the precise point, Incoterms 2020 edition, transport mode and agreed shipment window.</p>\n      <h2>Map every cost from the China yard to the buyer&#39;s yard</h2>\n      <p>Build five route blocks: vehicle, inspection, China haulage, export file and origin terminal; base ocean freight, surcharges, transshipment and insurance; discharge, carrier documentation, terminal, examination, agency, storage and detention; customs valuation, duty, import taxes, standards controls and permits; then bonded transit, border handling, inland vehicle movement, registration and required modification. Give every line a responsible party even before its amount is available.</p>\n      <p>Record currency, unit, validity, payer, payee, tax status and evidence for each amount. Obtain a destination disbursement schedule from a named local agent and separate carrier, terminal, authority, inspector and broker charges. For time-sensitive storage, container detention or vehicle parking, write the free period, trigger and daily basis rather than inserting an unexplained port allowance. Show deposits and recoverable amounts outside the operating total.</p>\n      <h2>Recalculate customs value under the destination system</h2>\n      <p>The World Customs Organization notes that invoice price is not necessarily customs value and national law determines freight treatment. Ghana Revenue Authority&#39;s vehicle page identifies VIN and transport evidence and explains that freight and insurance enter its CIF-based assessment. Kenya Revenue Authority publishes a Current Retail Selling Price schedule for used-vehicle valuation effective from July 2025. These are useful national examples, not a model for the continent.</p>\n      <p>Ask the destination broker to prepare a VIN-level valuation sheet using classification, model, year, engine or electric drive, condition, origin, party relationship and expected declaration date. Under FOB, retain actual freight and insurance evidence; under CIF, separate the components and exclude clearly identified post-import costs. If the authority may test the transaction against a schedule or another permitted method, carry the possible adjustment as a range rather than a guaranteed duty figure.</p>\n      <h2>Test whether CIF insurance ends where the road begins</h2>\n      <p>Review a draft certificate for assured party, insured value, wording, deductible, exclusions, transshipment, battery-electric use, used condition, prior damage, notification deadlines and survey location. Seller-arranged CIF insurance does not by itself prove continuous cover from a Chinese yard to an inland African city. Confirm who can claim at destination and whether policy evidence can be transferred without delay.</p>\n      <p>If the vehicle continues beyond the seaport, identify separate cover for terminal storage, bonded trucking, border queues and final delivery. Allocate accident, theft and evidence collection duties along the corridor. Arrange arrival photographs, condition report, odometer, keys and accessory count, and note visible damage on the carrier receipt before release. The practical claims protocol belongs in the purchase file, not in an assumption about three letters.</p>\n      <h2>Choose control and resilience, not the smallest freight line</h2>\n      <p>Calculate both options to the same final yard, including destination charges, valuation exposure, taxes, corridor movement, exchange-rate sensitivity, waiting time and registration. Every unknown needs an owner, request date and deadline; no live quotation means open, not zero. Compare sailing frequency, transshipment, document release, insurer accessibility and the destination agent&#39;s capacity alongside the arithmetic.</p>\n      <p>A buyer with a reliable forwarder, destination network and door-to-door cargo cover may obtain better control through FOB or FCA. A seller able to show a transparent booking, usable policy and competent local agent may make CIF easier to administer. In either structure, conformity inspection, import permission, customs release, transit and registration remain separate duties that named parties must accept in the contract.</p>\n      <h2>Frequently asked questions</h2>\n      <h3>Does CIF to an African port include inland delivery?</h3>\n      <p>Do not assume it does. CIF names a destination port; transit, border and inland delivery require separate cost and insurance confirmation.</p>\n      <h3>Will African Customs use the supplier&#39;s CIF invoice?</h3>\n      <p>Treatment varies by country. Customs may test transaction evidence or apply another method allowed by national law, particularly for used vehicles.</p>\n      <h3>Can Kenya&#39;s used-vehicle value schedule be used elsewhere?</h3>\n      <p>No. The CRSP schedule is evidence of Kenya&#39;s national practice and does not govern Ghana, South Africa, Nigeria or another jurisdiction.</p>\n      <h3>Can RoRo and container quotes be compared directly?</h3>\n      <p>Only after their different preparation, loading, port, insurance and damage-control lines are completed to the same handover point.</p>\n      <h3>Which African route costs are most often left open?</h3>\n      <p>Destination agency, storage, inspection, bonded transit, border and final delivery frequently need separate confirmation, but the exact list is route-specific.</p>\n\n      <h2>Sources</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Frequently Asked Questions on Customs Valuation</a><span>World Customs Organization · 2026-08-22</span></li>\n        <li><a href=\"https://gra.gov.gh/customs/vehicle-importation/\" target=\"_blank\" rel=\"noopener noreferrer\">Vehicle Importation</a><span>Ghana Revenue Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.kra.go.ke/news-center/public-notices/2223-current-retail-selling-price-crsp-for-used-motor-vehicles\" target=\"_blank\" rel=\"noopener noreferrer\">Current Retail Selling Price for Used Motor Vehicles</a><span>Kenya Revenue Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.kebs.org/import-inspection/\" target=\"_blank\" rel=\"noopener noreferrer\">Import Inspection</a><span>Kenya Bureau of Standards · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/wto-valuation-agreement.aspx?p=1\" target=\"_blank\" rel=\"noopener noreferrer\">WTO Customs Valuation Agreement overview</a><span>World Customs Organization · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "word_count": 1590,
+      "reading_time_minutes": 8,
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/durban-container-port-24747434937-jpg.jpg",
+        "alt": "Aerial view of container stacks, cranes and ships at Durban port",
+        "caption": "Aerial view of container stacks, cranes and ships at Durban port. Reference photograph, not a record of an AutoBridge inspection or transaction.",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Durban container port (24747434937).jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Durban_container_port_(24747434937).jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Durban_container_port_(24747434937).jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Durban_container_port_%2824747434937%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 2.0",
+        "artist": "Media Club",
+        "credit": "IMC-KZN-00074G",
+        "candidate_description": "Container terminal at the Port of Durban , IMC-KZN-00074G",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "55ac118768810bec3202992960c58d440b5e15766705ec9410be0869e5eff34e",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Durban container terminal, cargo vessels and handling infrastructure match the Africa FOB/CIF logistics guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "fr": {
+      "title": "Comparer FOB et CIF pour importer des véhicules chinois en Afrique",
+      "seo_title": "Afrique : contrôle d'un devis automobile FOB ou CIF",
+      "meta_description": "Comparez FOB et CIF pour un pays, un port et un corridor africains précis, avec inspection, assurance, valeur en douane et livraison intérieure.",
+      "summary": "Comparez les responsabilités FOB et CIF entre le port chinois et le port africain, puis chiffrez le corridor intérieur et vérifiez où s'arrête l'assurance transport.",
+      "eyebrow": "Devis automobile pour l'Afrique",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../fr/index.html\">Accueil</a><span>/</span><a href=\"../../fr/guides/index.html\">Guides</a><span>/</span><span>Comparer FOB et CIF pour importer des véhicules chinois en Afrique</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">Devis automobile pour l&#39;Afrique</p>\n      <h1>Comparer FOB et CIF pour importer des véhicules chinois en Afrique</h1>\n      <p class=\"lead\">Comparez les responsabilités FOB et CIF entre le port chinois et le port africain, puis chiffrez le corridor intérieur et vérifiez où s&#39;arrête l&#39;assurance transport.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/durban-container-port-24747434937-jpg.jpg\" alt=\"Vue aérienne des conteneurs, grues et navires du port de Durban\" loading=\"lazy\"><figcaption>Vue aérienne des conteneurs, grues et navires du port de Durban. Photo d’illustration, et non compte rendu d’une inspection ou d’une transaction AutoBridge.</figcaption></figure>\n      <h2>Nommer pays, terminal et destination intérieure</h2>\n      <p>Remplacez « CIF Afrique » par le pays, l&#39;importateur officiel, le terminal de déchargement, le marché d&#39;immatriculation, la date d&#39;arrivée prévue et le lieu de remise. Pour un pays enclavé, ajoutez pays de transit, poste frontière, statut sous douane ou acquitté, dépôt intérieur et transporteur responsable. Un prix portuaire et un prix rendu parc ne couvrent pas le même trajet.</p>\n      <p>Figez année-modèle, version, côté du volant, énergie, état neuf ou occasion, quantité et VIN. Les limites d&#39;âge, contrôles, émissions et règles d&#39;immatriculation sont nationales. Le transport le moins cher ne rend pas admissible une mauvaise variante; l&#39;importateur doit faire confirmer le parcours par les autorités de douane, de normalisation et de transport compétentes.</p>\n      <h2>Fixer FOB et CIF à des ports exacts</h2>\n      <p>Le FOB doit nommer le port chinois et détailler collecte, inspection, déclaration export, terminal et embarquement. Le risque passe normalement à bord du navire nommé par l&#39;acheteur. Le CIF nomme un port ou terminal de destination; le vendeur paie le fret et organise l&#39;assurance, mais le risque passe encore à bord en Chine, et non lors de l&#39;arrivée sur le continent.</p>\n      <p>Si le conteneur est remis au terminal avant embarquement, FCA peut mieux représenter la livraison; si le vendeur organise un trajet multimodal assuré, examinez CIP. Séparez RoRo et conteneur, dont la préparation, la manutention et les factures diffèrent. Indiquez le point précis, Incoterms 2020, le mode et la période de départ dans chaque offre.</p>\n      <h2>Tracer les coûts jusqu&#39;au parc final</h2>\n      <p>Distinguez véhicule, inspection, préacheminement chinois, dossier export et terminal d&#39;origine; fret, suppléments, transbordement et assurance; déchargement, documents, terminal, contrôle, agence et stockage; évaluation, droits, taxes, normes et permis; enfin transit sous douane, frontière, transport intérieur, adaptation et immatriculation. Chaque poste reçoit un responsable même si le tarif reste à obtenir.</p>\n      <p>Notez devise, unité, validité, payeur, bénéficiaire, taxe et justificatif. Demandez à un agent nommé le bordereau de destination et séparez armateur, terminal, administration, inspection et courtier. Pour magasinage, surestaries de conteneur ou stationnement, inscrivez franchise, déclencheur et tarif journalier. Les dépôts et montants récupérables restent hors du coût opérationnel.</p>\n      <h2>Revoir valeur douanière et assurance intérieure</h2>\n      <p>L&#39;OMD rappelle que facture et valeur en douane ne coïncident pas toujours. Le Ghana décrit une évaluation automobile tenant compte du fret et de l&#39;assurance; le Kenya publie depuis juillet 2025 un barème CRSP pour les véhicules d&#39;occasion. Ce sont deux pratiques nationales. Faites calculer par VIN la classification, l&#39;année, l&#39;état, l&#39;origine, la relation commerciale et le taux prévu dans le pays réel.</p>\n      <p>Contrôlez le projet d&#39;assurance CIF: assuré, montant, franchise, exclusions, batterie, occasion, dommage antérieur, transbordement, délai et expertise. Pour une ville intérieure, vérifiez séparément stockage portuaire, camion sous douane, frontière et livraison. Organisez photos, constat, kilométrage, clés et réserves au reçu avant que le véhicule quitte le terminal.</p>\n      <h2>Décider sur le contrôle de toute la chaîne</h2>\n      <p>Calculez FOB et CIF jusqu&#39;au même parc avec port, douane, exposition d&#39;évaluation, corridor, change, attente et immatriculation. Une inconnue a un responsable et une échéance, jamais une valeur nulle par défaut. Comparez aussi fréquence des navires, transbordements, libération des documents, accès à l&#39;assureur et capacité réelle de l&#39;agent local.</p>\n      <p>Un acheteur disposant d&#39;un transitaire éprouvé et d&#39;une assurance porte à porte peut préférer FOB ou FCA. Un vendeur montrant réservation, police utilisable et agent local compétent peut rendre CIF plus simple. Inspection de conformité, autorisation d&#39;importer, mainlevée, transit et immatriculation doivent toujours être attribués à des parties nommées.</p>\n      <h2>Questions fréquentes</h2>\n      <h3>CIF vers un port africain comprend-il la route intérieure ?</h3>\n      <p>Pas automatiquement. Le transit, la frontière et la livraison nécessitent prix, responsabilités et assurance distincts.</p>\n      <h3>La douane accepte-t-elle toujours la facture CIF ?</h3>\n      <p>Non. La méthode dépend du pays et l&#39;administration peut vérifier la transaction ou appliquer une autre méthode autorisée.</p>\n      <h3>Le barème kenyan vaut-il ailleurs ?</h3>\n      <p>Non. Il illustre la pratique du Kenya et ne s&#39;applique pas aux autres pays africains.</p>\n      <h3>Peut-on comparer directement RoRo et conteneur ?</h3>\n      <p>Seulement après avoir complété préparation, port, assurance et contrôle des dommages jusqu&#39;au même lieu.</p>\n\n      <h2>Sources</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Frequently Asked Questions on Customs Valuation</a><span>World Customs Organization · 2026-08-22</span></li>\n        <li><a href=\"https://gra.gov.gh/customs/vehicle-importation/\" target=\"_blank\" rel=\"noopener noreferrer\">Vehicle Importation</a><span>Ghana Revenue Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.kra.go.ke/news-center/public-notices/2223-current-retail-selling-price-crsp-for-used-motor-vehicles\" target=\"_blank\" rel=\"noopener noreferrer\">Current Retail Selling Price for Used Motor Vehicles</a><span>Kenya Revenue Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.kebs.org/import-inspection/\" target=\"_blank\" rel=\"noopener noreferrer\">Import Inspection</a><span>Kenya Bureau of Standards · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/wto-valuation-agreement.aspx?p=1\" target=\"_blank\" rel=\"noopener noreferrer\">WTO Customs Valuation Agreement overview</a><span>World Customs Organization · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/durban-container-port-24747434937-jpg.jpg",
+        "alt": "Vue aérienne des conteneurs, grues et navires du port de Durban",
+        "caption": "Vue aérienne des conteneurs, grues et navires du port de Durban. Photo d’illustration, et non compte rendu d’une inspection ou d’une transaction AutoBridge.",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Durban container port (24747434937).jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Durban_container_port_(24747434937).jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Durban_container_port_(24747434937).jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Durban_container_port_%2824747434937%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 2.0",
+        "artist": "Media Club",
+        "credit": "IMC-KZN-00074G",
+        "candidate_description": "Container terminal at the Port of Durban , IMC-KZN-00074G",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "55ac118768810bec3202992960c58d440b5e15766705ec9410be0869e5eff34e",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Durban container terminal, cargo vessels and handling infrastructure match the Africa FOB/CIF logistics guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "de": {
+      "title": "FOB- und CIF-Fahrzeugangebote für Afrika bis ins Inland vergleichen",
+      "seo_title": "Afrika: FOB- oder CIF-Fahrzeugangebot prüfen",
+      "meta_description": "Vergleichen Sie China-Fahrzeugangebote für ein genaues afrikanisches Land, einen Hafen und Inlandkorridor samt Prüfung, Versicherung und Zollwert.",
+      "summary": "Vergleichen Sie FOB- und CIF-Pflichten vom chinesischen Ladehafen bis zum afrikanischen Zielhafen. Prüfen Sie anschließend Inlandtransport und das Ende des Versicherungsschutzes.",
+      "eyebrow": "Fahrzeugangebote für Afrika",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../de/index.html\">Startseite</a><span>/</span><a href=\"../../de/guides/index.html\">Leitfäden</a><span>/</span><span>FOB- und CIF-Fahrzeugangebote für Afrika bis ins Inland vergleichen</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">Fahrzeugangebote für Afrika</p>\n      <h1>FOB- und CIF-Fahrzeugangebote für Afrika bis ins Inland vergleichen</h1>\n      <p class=\"lead\">Vergleichen Sie FOB- und CIF-Pflichten vom chinesischen Ladehafen bis zum afrikanischen Zielhafen. Prüfen Sie anschließend Inlandtransport und das Ende des Versicherungsschutzes.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/durban-container-port-24747434937-jpg.jpg\" alt=\"Luftaufnahme von Containern, Kränen und Schiffen im Hafen von Durban\" loading=\"lazy\"><figcaption>Luftaufnahme von Containern, Kränen und Schiffen im Hafen von Durban. Beispielfoto, kein Nachweis einer Prüfung oder eines Geschäfts von AutoBridge.</figcaption></figure>\n      <h2>Land, Löschterminal und Endstadt benennen</h2>\n      <p>Ersetzen Sie „CIF Africa“ durch Bestimmungsland, Importeur, Löschterminal, Zulassungsmarkt, erwartete Ankunft und physischen Übergabepunkt. Bei Binnenländern kommen Transitland, Grenzübergang, Zollstatus, Inlanddepot und verantwortlicher Korridorbeförderer hinzu. Ein Hafenpreis beantwortet nicht dieselbe Frage wie ein bis zum Fahrzeughof gerechneter Preis.</p>\n      <p>Fixieren Sie Modelljahr, Variante, Lenkungsseite, Antrieb, Neu- oder Gebrauchtzustand, Zahl und VIN. Alters-, Lenkungs-, Emissions-, Prüf- und Zulassungsregeln unterscheiden sich national. Der Importeur sollte die konkrete Spezifikation von zuständigen Zoll-, Normen- und Verkehrsstellen bestätigen lassen, bevor nicht erstattungsfähige Kosten entstehen.</p>\n      <h2>FOB und CIF an genaue Hafenpunkte binden</h2>\n      <p>FOB muss den chinesischen Ladehafen nennen und Abholung, Prüfung, Ausfuhranmeldung, Terminal sowie Verladung ausweisen. Die Gefahr geht gewöhnlich an Bord des vom Käufer benannten Schiffes über. CIF nennt Zielhafen oder Terminal; der Verkäufer bezahlt Hauptfracht und Versicherung, doch die Gefahr geht bereits beim Laden in China über, nicht erst bei afrikanischer Ankunft.</p>\n      <p>Wird ein Container vor Schiffsverladung an das Terminal übergeben, kann FCA passender sein; organisiert der Verkäufer einen versicherten multimodalen Lauf, ist CIP zu prüfen. RoRo und Container bleiben getrennte Szenarien, weil Vorbereitung, Umschlag, Schadenkontrolle und Rechnungen anders sind. Schreiben Sie Punkt, Incoterms-2020-Fassung, Modus und Versandfenster aus.</p>\n      <h2>Die gesamte Kostenkette zum Hof abbilden</h2>\n      <p>Gliedern Sie Fahrzeug, Inspektion, chinesischen Vorlauf, Exportakte und Ursprungsterminal; Seefracht, Zuschläge, Umladung und Versicherung; Löschung, Dokumente, Terminal, Beschau, Agentur und Lagerung; Zollwert, Abgaben, Normenkontrolle und Genehmigungen; danach Zolltransit, Grenze, Inlandtransport, Umbau und Zulassung. Auch für offene Beträge braucht jede Zeile eine verantwortliche Partei.</p>\n      <p>Erfassen Sie Währung, Einheit, Gültigkeit, Zahler, Empfänger, Steuer und Beleg. Ein benannter Zielagent soll Reederei-, Terminal-, Behörden-, Prüf- und Brokerkosten getrennt ausweisen. Für Standgeld, Containerdetention oder Fahrzeugparken notieren Sie Freitage, Auslöser und Tagesbasis. Sicherheiten und erstattungsfähige Beträge stehen nicht im laufenden Betriebspreis.</p>\n      <h2>Nationalen Zollwert und Inlandsschutz prüfen</h2>\n      <p>Die WZO stellt klar, dass Rechnung und Zollwert nicht zwingend gleich sind. Ghana beschreibt die Einbeziehung von Fracht und Versicherung; Kenia nutzt seit Juli 2025 einen veröffentlichten CRSP-Plan für Gebrauchtwagen. Beides sind nationale Beispiele. Der Zielbroker soll je VIN Einreihung, Jahr, Antrieb, Zustand, Ursprung, Geschäftsbeziehung und erwarteten Anmeldungstag rechnen.</p>\n      <p>Prüfen Sie den CIF-Versicherungsentwurf auf Versicherungsnehmer, Wert, Selbstbehalt, Ausschlüsse, Elektrofahrzeug, Gebrauchtzustand, Vorschäden, Umladung, Meldung und Besichtigung. Für ein Inlandziel sind Hafenlagerung, Zoll-Lkw, Grenze und letzte Zustellung gesondert abzusichern. Fotos, Zustandsbericht, Kilometerstand, Schlüssel und Vorbehalte gehören zur Übernahme.</p>\n      <h2>Nach Beherrschbarkeit des Korridors entscheiden</h2>\n      <p>Rechnen Sie beide Modelle bis zum gleichen Hof mit Zielhafen, Bewertungsspielraum, Abgaben, Korridor, Währung, Wartezeit und Zulassung. Unbekannte Werte erhalten Bearbeiter und Frist, nicht Null. Bewerten Sie außerdem Abfahrtsdichte, Umladungen, Dokumentenfreigabe, erreichbaren Versicherer und die tatsächliche Leistungsfähigkeit des Zielagenten.</p>\n      <p>Ein Käufer mit bewährtem Spediteur und durchgehender Deckung kann unter FOB oder FCA mehr Kontrolle haben. Ein Verkäufer mit offener Buchung, nutzbarer Police und gutem lokalen Agenten kann CIF vereinfachen. Konformitätsprüfung, Einfuhrrecht, Freigabe, Transit und Zulassung bleiben in beiden Fällen getrennte, namentlich zugewiesene Pflichten.</p>\n      <h2>Häufige Fragen</h2>\n      <h3>Enthält CIF zum afrikanischen Hafen den Inlandtransport?</h3>\n      <p>Nicht automatisch. Transit, Grenze und Endzustellung brauchen eigene Preis-, Verantwortungs- und Versicherungsnachweise.</p>\n      <h3>Nimmt der Zoll stets die CIF-Rechnung?</h3>\n      <p>Nein. Das jeweilige Landesrecht kann eine Prüfung oder eine andere zulässige Bewertungsmethode vorsehen.</p>\n      <h3>Gilt Kenias CRSP-Liste in anderen Ländern?</h3>\n      <p>Nein. Sie belegt nur die kenianische Praxis und hat keine kontinentweite Geltung.</p>\n      <h3>Sind RoRo und Container direkt vergleichbar?</h3>\n      <p>Erst nachdem Vorbereitung, Hafen, Versicherung und Schadenkontrolle bis zum gleichen Ziel vollständig sind.</p>\n\n      <h2>Quellen</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Frequently Asked Questions on Customs Valuation</a><span>World Customs Organization · 2026-08-22</span></li>\n        <li><a href=\"https://gra.gov.gh/customs/vehicle-importation/\" target=\"_blank\" rel=\"noopener noreferrer\">Vehicle Importation</a><span>Ghana Revenue Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.kra.go.ke/news-center/public-notices/2223-current-retail-selling-price-crsp-for-used-motor-vehicles\" target=\"_blank\" rel=\"noopener noreferrer\">Current Retail Selling Price for Used Motor Vehicles</a><span>Kenya Revenue Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.kebs.org/import-inspection/\" target=\"_blank\" rel=\"noopener noreferrer\">Import Inspection</a><span>Kenya Bureau of Standards · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/wto-valuation-agreement.aspx?p=1\" target=\"_blank\" rel=\"noopener noreferrer\">WTO Customs Valuation Agreement overview</a><span>World Customs Organization · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/durban-container-port-24747434937-jpg.jpg",
+        "alt": "Luftaufnahme von Containern, Kränen und Schiffen im Hafen von Durban",
+        "caption": "Luftaufnahme von Containern, Kränen und Schiffen im Hafen von Durban. Beispielfoto, kein Nachweis einer Prüfung oder eines Geschäfts von AutoBridge.",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Durban container port (24747434937).jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Durban_container_port_(24747434937).jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Durban_container_port_(24747434937).jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Durban_container_port_%2824747434937%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 2.0",
+        "artist": "Media Club",
+        "credit": "IMC-KZN-00074G",
+        "candidate_description": "Container terminal at the Port of Durban , IMC-KZN-00074G",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "55ac118768810bec3202992960c58d440b5e15766705ec9410be0869e5eff34e",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Durban container terminal, cargo vessels and handling infrastructure match the Africa FOB/CIF logistics guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "es": {
+      "title": "Comparar FOB y CIF para importar vehículos chinos a África",
+      "seo_title": "África: revisión de cotización vehicular FOB o CIF",
+      "meta_description": "Compare FOB y CIF para un país, puerto y corredor africano concretos, incluyendo inspección, seguro, valoración aduanera y entrega interior.",
+      "summary": "Compare las responsabilidades FOB y CIF entre el puerto chino y el africano; después calcule el transporte interior y compruebe hasta dónde llega el seguro.",
+      "eyebrow": "Cotizaciones de vehículos para África",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../es/index.html\">Inicio</a><span>/</span><a href=\"../../es/guides/index.html\">Guías</a><span>/</span><span>Comparar FOB y CIF para importar vehículos chinos a África</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">Cotizaciones de vehículos para África</p>\n      <h1>Comparar FOB y CIF para importar vehículos chinos a África</h1>\n      <p class=\"lead\">Compare las responsabilidades FOB y CIF entre el puerto chino y el africano; después calcule el transporte interior y compruebe hasta dónde llega el seguro.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/durban-container-port-24747434937-jpg.jpg\" alt=\"Vista aérea de contenedores, grúas y buques en el puerto de Durban\" loading=\"lazy\"><figcaption>Vista aérea de contenedores, grúas y buques en el puerto de Durban. Fotografía ilustrativa; no documenta una inspección ni una operación de AutoBridge.</figcaption></figure>\n      <h2>Nombrar país, terminal y ciudad final</h2>\n      <p>Sustituya “CIF África” por país de destino, importador, terminal de descarga, mercado de matrícula, llegada prevista y lugar físico de entrega. Para un país sin litoral, agregue nación de tránsito, paso fronterizo, estado en tránsito aduanero o nacionalizado, depósito interior y transportista responsable. Un precio hasta puerto y otro hasta patio no responden a la misma compra.</p>\n      <p>Fije año-modelo, versión exacta, lado del volante, propulsión, estado nuevo o usado, cantidad y VIN. Edad, dirección, emisiones, inspección y registro cambian por país. El flete barato no vuelve admisible una variante incorrecta; el importador debe validar la ruta con aduanas, normalización y transporte antes de pagar conceptos no reembolsables.</p>\n      <h2>Anclar FOB y CIF a puntos portuarios exactos</h2>\n      <p>FOB debe nombrar puerto chino y detallar recogida, inspección, declaración, terminal y carga. El riesgo suele pasar a bordo del buque designado por el comprador. CIF nombra puerto o terminal de destino; el vendedor paga transporte principal y seguro, pero el riesgo pasa al cargar en China, no cuando el vehículo llega al puerto africano.</p>\n      <p>Si el contenedor se entrega a terminal antes de cargar, FCA puede reflejar mejor la operación; si el vendedor organiza transporte multimodal asegurado, evalúe CIP. Mantenga separados RoRo y contenedor porque preparación, manipulación, daños y facturas portuarias difieren. Escriba punto preciso, Incoterms 2020, modo y ventana de embarque.</p>\n      <h2>Trazar los costos hasta el patio del comprador</h2>\n      <p>Separe vehículo, inspección, acarreo chino, expediente exportador y terminal de origen; flete, recargos, transbordo y seguro; descarga, documentos, terminal, revisión, agente y almacenaje; valoración, aranceles, impuestos, controles y permisos; después tránsito aduanero, frontera, transporte interior, adaptación y matrícula. Cada renglón necesita responsable aunque falte precio.</p>\n      <p>Registre moneda, unidad, vigencia, pagador, beneficiario, impuestos y prueba. Un agente local identificado debe separar naviera, terminal, autoridad, inspector y despachante. Para almacenaje, detención del contenedor o estacionamiento, indique días libres, hecho que activa el cobro y tarifa diaria. Depósitos y sumas recuperables van aparte.</p>\n      <h2>Revisar valoración nacional y seguro interior</h2>\n      <p>La OMA advierte que factura y valor aduanero no son siempre iguales. Ghana describe una valoración que considera flete y seguro; Kenia publica desde julio de 2025 su tabla CRSP para usados. Son ejemplos nacionales, no africanos. Pida al agente destino una hoja por VIN con clasificación, año, propulsión, estado, origen, relación comercial y fecha de declaración.</p>\n      <p>Revise el borrador CIF: asegurado, suma, deducible, exclusiones, batería, condición usada, daño previo, transbordo, aviso y peritaje. Para una ciudad interior, confirme por separado depósito portuario, camión bajo aduana, frontera y última entrega. Prepare fotos, condición, odómetro, llaves y reservas en el recibo antes de retirar la unidad.</p>\n      <h2>Elegir por control del corredor completo</h2>\n      <p>Lleve FOB y CIF al mismo patio con puerto, posible ajuste de valor, tributos, corredor, divisa, espera y matrícula. Una incógnita lleva dueño y fecha, no cero. Compare frecuencia de buques, transbordos, liberación documental, acceso al asegurador y capacidad real del agente de destino además del total aritmético.</p>\n      <p>Un comprador con transitario probado y póliza puerta a puerta puede controlar mejor FOB o FCA. Un vendedor con reserva visible, seguro utilizable y agente competente puede simplificar CIF. La inspección de conformidad, permiso, levante, tránsito y registro siguen siendo obligaciones separadas asignadas por nombre en el contrato.</p>\n      <h2>Preguntas frecuentes</h2>\n      <h3>¿CIF al puerto africano incluye la ruta interior?</h3>\n      <p>No automáticamente. Tránsito, frontera y entrega final requieren costo, responsable y seguro propios.</p>\n      <h3>¿Aduanas acepta siempre la factura CIF?</h3>\n      <p>No. Cada país puede verificar la operación o aplicar otro método permitido, especialmente en usados.</p>\n      <h3>¿La tabla de Kenia sirve en otro país?</h3>\n      <p>No. Solo documenta la práctica nacional keniana y no rige el continente.</p>\n      <h3>¿RoRo y contenedor se comparan directamente?</h3>\n      <p>Solo después de completar preparación, puerto, seguro y control de daños hasta el mismo punto.</p>\n\n      <h2>Fuentes</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Frequently Asked Questions on Customs Valuation</a><span>World Customs Organization · 2026-08-22</span></li>\n        <li><a href=\"https://gra.gov.gh/customs/vehicle-importation/\" target=\"_blank\" rel=\"noopener noreferrer\">Vehicle Importation</a><span>Ghana Revenue Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.kra.go.ke/news-center/public-notices/2223-current-retail-selling-price-crsp-for-used-motor-vehicles\" target=\"_blank\" rel=\"noopener noreferrer\">Current Retail Selling Price for Used Motor Vehicles</a><span>Kenya Revenue Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.kebs.org/import-inspection/\" target=\"_blank\" rel=\"noopener noreferrer\">Import Inspection</a><span>Kenya Bureau of Standards · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/wto-valuation-agreement.aspx?p=1\" target=\"_blank\" rel=\"noopener noreferrer\">WTO Customs Valuation Agreement overview</a><span>World Customs Organization · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/durban-container-port-24747434937-jpg.jpg",
+        "alt": "Vista aérea de contenedores, grúas y buques en el puerto de Durban",
+        "caption": "Vista aérea de contenedores, grúas y buques en el puerto de Durban. Fotografía ilustrativa; no documenta una inspección ni una operación de AutoBridge.",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Durban container port (24747434937).jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Durban_container_port_(24747434937).jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Durban_container_port_(24747434937).jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Durban_container_port_%2824747434937%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 2.0",
+        "artist": "Media Club",
+        "credit": "IMC-KZN-00074G",
+        "candidate_description": "Container terminal at the Port of Durban , IMC-KZN-00074G",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "55ac118768810bec3202992960c58d440b5e15766705ec9410be0869e5eff34e",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Durban container terminal, cargo vessels and handling infrastructure match the Africa FOB/CIF logistics guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "pt-br": {
+      "title": "Comparar FOB e CIF na importação de veículos chineses para a África",
+      "seo_title": "África: confira cotação de veículo FOB ou CIF",
+      "meta_description": "Compare FOB e CIF para um país, porto e corredor africano específicos, com inspeção, seguro, valoração aduaneira e entrega terrestre.",
+      "summary": "Compare as responsabilidades FOB e CIF entre o porto chinês e o africano. Depois, apure os custos do corredor terrestre e o ponto em que termina a cobertura do seguro.",
+      "eyebrow": "Cotações de veículos para África",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../pt-br/index.html\">Início</a><span>/</span><a href=\"../../pt-br/guides/index.html\">Guias</a><span>/</span><span>Comparar FOB e CIF na importação de veículos chineses para a África</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">Cotações de veículos para África</p>\n      <h1>Comparar FOB e CIF na importação de veículos chineses para a África</h1>\n      <p class=\"lead\">Compare as responsabilidades FOB e CIF entre o porto chinês e o africano. Depois, apure os custos do corredor terrestre e o ponto em que termina a cobertura do seguro.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/durban-container-port-24747434937-jpg.jpg\" alt=\"Vista aérea de contêineres, guindastes e navios no porto de Durban\" loading=\"lazy\"><figcaption>Vista aérea de contêineres, guindastes e navios no porto de Durban. Foto ilustrativa; não documenta uma inspeção ou transação da AutoBridge.</figcaption></figure>\n      <h2>Nomeie país, terminal e cidade de entrega</h2>\n      <p>Troque “CIF África” por país, importador oficial, terminal de descarga, mercado de registro, chegada prevista e ponto físico de entrega. Para país sem litoral, inclua país de trânsito, fronteira, situação aduaneira, depósito interno e transportador do corredor. Um valor portuário e um valor entregue no pátio não cobrem a mesma obrigação.</p>\n      <p>Fixe ano-modelo, versão exata, lado da direção, propulsão, condição nova ou usada, quantidade e VIN. Idade, direção, emissões, inspeção e registro variam nacionalmente. O menor frete não torna o carro elegível; o importador deve validar a especificação com alfândega, normalização e trânsito competentes antes de custos sem reembolso.</p>\n      <h2>Prenda FOB e CIF a pontos portuários precisos</h2>\n      <p>FOB deve nomear o porto chinês e abrir coleta, inspeção, declaração, terminal e embarque. O risco costuma passar a bordo do navio indicado pelo comprador. CIF nomeia porto ou terminal de destino; o vendedor paga transporte principal e providencia seguro, mas o risco passa quando o carro embarca na China, não quando chega à África.</p>\n      <p>Se o contêiner é entregue ao terminal antes de subir ao navio, FCA pode representar melhor a entrega; se o vendedor organiza percurso multimodal segurado, avalie CIP. Separe RoRo de contêiner, pois preparação, movimentação, danos e faturas diferem. Escreva ponto, Incoterms 2020, modo e janela de saída.</p>\n      <h2>Mapeie todos os custos até o pátio final</h2>\n      <p>Separe veículo, inspeção, transporte chinês, arquivo de exportação e terminal de origem; frete, adicionais, transbordo e seguro; descarga, documentos, terminal, exame, agência e armazenagem; valoração, imposto, tributos, padrões e licenças; depois trânsito aduaneiro, fronteira, transporte interior, adaptação e registro. Cada linha precisa de responsável mesmo sem preço final.</p>\n      <p>Registre moeda, unidade, validade, pagador, recebedor, imposto e prova. O agente local identificado deve separar armador, terminal, autoridade, inspeção e despachante. Para armazenagem, detention ou estacionamento, indique período livre, gatilho e cobrança diária. Depósitos e montantes recuperáveis ficam fora do custo operacional.</p>\n      <h2>Revise valor nacional e proteção no interior</h2>\n      <p>A OMA informa que fatura e valor aduaneiro podem divergir. Gana descreve avaliação com frete e seguro; o Quênia publica desde julho de 2025 a tabela CRSP para usados. São exemplos nacionais. Peça ao despachante uma planilha por VIN com classificação, ano, propulsão, estado, origem, vínculo comercial e data esperada de declaração.</p>\n      <p>Confira a minuta CIF: segurado, soma, franquia, exclusões, bateria, condição usada, dano anterior, transbordo, aviso e vistoria. Para destino interior, confirme separadamente depósito portuário, caminhão alfandegado, fronteira e última entrega. Registre fotos, estado, hodômetro, chaves e ressalvas no recibo antes da retirada.</p>\n      <h2>Decida pelo controle do corredor completo</h2>\n      <p>Calcule FOB e CIF até o mesmo pátio com porto, risco de ajuste de valor, tributos, corredor, câmbio, espera e registro. Item desconhecido recebe dono e prazo, não zero. Compare frequência dos navios, transbordos, liberação documental, acesso à seguradora e capacidade efetiva do agente local além do total.</p>\n      <p>Comprador com agente de carga experiente e apólice porta a porta pode controlar melhor FOB ou FCA. Vendedor com reserva transparente, seguro utilizável e agente competente pode simplificar CIF. Inspeção, permissão, desembaraço, trânsito e registro continuam obrigações separadas com partes nomeadas em contrato.</p>\n      <h2>Perguntas frequentes</h2>\n      <h3>CIF ao porto africano inclui entrega interior?</h3>\n      <p>Não automaticamente. Trânsito, fronteira e entrega final exigem preço, responsabilidade e seguro próprios.</p>\n      <h3>A alfândega sempre aceita a fatura CIF?</h3>\n      <p>Não. Cada país pode verificar a transação ou aplicar outro método permitido, principalmente em usados.</p>\n      <h3>A tabela do Quênia vale em outro país?</h3>\n      <p>Não. Ela documenta somente a prática nacional queniana.</p>\n      <h3>RoRo e contêiner são comparáveis diretamente?</h3>\n      <p>Apenas após completar preparação, porto, seguro e controle de danos até o mesmo ponto.</p>\n\n      <h2>Fontes</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Frequently Asked Questions on Customs Valuation</a><span>World Customs Organization · 2026-08-22</span></li>\n        <li><a href=\"https://gra.gov.gh/customs/vehicle-importation/\" target=\"_blank\" rel=\"noopener noreferrer\">Vehicle Importation</a><span>Ghana Revenue Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.kra.go.ke/news-center/public-notices/2223-current-retail-selling-price-crsp-for-used-motor-vehicles\" target=\"_blank\" rel=\"noopener noreferrer\">Current Retail Selling Price for Used Motor Vehicles</a><span>Kenya Revenue Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.kebs.org/import-inspection/\" target=\"_blank\" rel=\"noopener noreferrer\">Import Inspection</a><span>Kenya Bureau of Standards · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/wto-valuation-agreement.aspx?p=1\" target=\"_blank\" rel=\"noopener noreferrer\">WTO Customs Valuation Agreement overview</a><span>World Customs Organization · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/durban-container-port-24747434937-jpg.jpg",
+        "alt": "Vista aérea de contêineres, guindastes e navios no porto de Durban",
+        "caption": "Vista aérea de contêineres, guindastes e navios no porto de Durban. Foto ilustrativa; não documenta uma inspeção ou transação da AutoBridge.",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Durban container port (24747434937).jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Durban_container_port_(24747434937).jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Durban_container_port_(24747434937).jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Durban_container_port_%2824747434937%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 2.0",
+        "artist": "Media Club",
+        "credit": "IMC-KZN-00074G",
+        "candidate_description": "Container terminal at the Port of Durban , IMC-KZN-00074G",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "55ac118768810bec3202992960c58d440b5e15766705ec9410be0869e5eff34e",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Durban container terminal, cargo vessels and handling infrastructure match the Africa FOB/CIF logistics guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "ja": {
+      "title": "アフリカ向け中国車のFOB・CIFを港と内陸回廊まで比較する",
+      "seo_title": "アフリカ向け車両FOB・CIF見積確認",
+      "meta_description": "特定の国、港、内陸都市について、中国車の検査、保険、関税評価、国境輸送を含むFOBとCIFを比較します。",
+      "summary": "港までのCIF価格は買主の車両置場まで届く価格ではありません。港、国境、内陸の費用を同じ終点まで追います。",
+      "eyebrow": "アフリカ向け車両見積",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../ja/index.html\">ホーム</a><span>/</span><a href=\"../../ja/guides/index.html\">購入ガイド</a><span>/</span><span>アフリカ向け中国車のFOB・CIFを港と内陸回廊まで比較する</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">アフリカ向け車両見積</p>\n      <h1>アフリカ向け中国車のFOB・CIFを港と内陸回廊まで比較する</h1>\n      <p class=\"lead\">港までのCIF価格は買主の車両置場まで届く価格ではありません。港、国境、内陸の費用を同じ終点まで追います。</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/durban-container-port-24747434937-jpg.jpg\" alt=\"ダーバン港のコンテナ、クレーン、船舶の空撮\" loading=\"lazy\"><figcaption>ダーバン港のコンテナ、クレーン、船舶の空撮. 参考写真です。AutoBridgeによる検査や取引の記録ではありません。</figcaption></figure>\n      <h2>国、荷揚げ港、最終都市を特定する</h2>\n      <p>「CIF Africa」ではなく、輸入国、輸入者、荷揚げターミナル、登録地、到着予定日、引渡場所を記載します。内陸国なら経由国、国境、保税状態、内陸デポ、回廊輸送者も必要です。港渡し価格と買主のヤード渡し価格は別の商取引です。</p>\n      <p>年式、仕様、左右ハンドル、動力、新車・中古、台数、VINを固定します。年齢、排出、検査、登録規則は国別です。安い運賃で不適格車は救えないため、輸入者は税関、規格、交通当局に実車仕様の経路を確認します。</p>\n      <h2>FOBとCIFを正確な港点に置く</h2>\n      <p>FOBは中国の積出港を示し、集荷、検査、申告、ターミナル、積込みの内訳を出します。危険は通常、買主指定船に積んだ時に移ります。CIFは目的港を示し売主が運賃と保険を手配しますが、危険はアフリカ到着時ではなく中国で本船積みした時に移ります。</p>\n      <p>コンテナを積込み前にターミナルへ渡す場合はFCA、売主が保険付き複合輸送を組む場合はCIPも検討します。RoRoとコンテナは準備、荷役、損傷、港湾請求が異なるため別案にし、正確な地点、Incoterms 2020、輸送方式、期間を書きます。</p>\n      <h2>買主ヤードまでの費用を描く</h2>\n      <p>車両・検査・中国陸送・輸出・出発港、海上運賃・追加料・積替・保険、荷揚げ・書類・検査・保管・代理、関税評価・税・規格・許可、保税通過・国境・内陸配送・改造・登録に分けます。未確定額にも担当者を置きます。</p>\n      <p>通貨、単位、有効期限、支払者、受取人、税、証拠を記録し、現地代理から船社、港、当局、検査、通関の明細を得ます。保管やコンテナ超過は無料日数と日額条件を記載し、保証金や還付額は運営費と分けます。</p>\n      <h2>国別評価と内陸保険を確認する</h2>\n      <p>WCOによれば請求書と関税評価額は必ずしも同じではありません。ガーナは運賃と保険を考慮し、ケニアは2025年7月から中古車CRSP表を使います。これは国別例です。目的国の代理にVINごとの分類、年式、動力、状態、原産地、関係、申告日を計算させます。</p>\n      <p>CIF保険の被保険者、金額、免責、除外、EV、中古、既存損傷、積替、通知、検査を確認します。内陸都市なら港湾保管、保税トラック、国境、最終配送を別途補償し、引取り前に写真、状態、走行距離、鍵と損傷留保を記録します。</p>\n      <h2>回廊全体の管理力で選ぶ</h2>\n      <p>FOBとCIFを同じヤードまで計算し、港、評価差、税、内陸、為替、待機、登録を加えます。不明額はゼロでなく担当者と期限を置きます。便数、積替、書類解除、保険会社へのアクセス、現地代理の能力も比較します。</p>\n      <p>実績あるフォワーダーと一貫保険を持つ買主はFOBやFCAで管理しやすく、透明な予約、保険、現地代理を示す売主ならCIFが簡素です。ただし適合検査、輸入許可、通関、通過、登録は別の担当義務です。</p>\n      <h2>よくある質問</h2>\n      <h3>アフリカ港CIFに内陸配送は含まれますか。</h3>\n      <p>自動的には含まれません。通過、国境、最終配送の価格、責任、保険を別に確認します。</p>\n      <h3>税関は常にCIF請求書を採用しますか。</h3>\n      <p>いいえ。国別法により取引を検証し、別の許容評価方法を使うことがあります。</p>\n      <h3>ケニアのCRSPは他国で使えますか。</h3>\n      <p>いいえ。ケニア国内の実務を示すもので、他国を拘束しません。</p>\n      <h3>RoRoとコンテナを直接比較できますか。</h3>\n      <p>準備、港、保険、損傷管理を同じ終点まで完成してから比較します。</p>\n\n      <h2>情報源</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Frequently Asked Questions on Customs Valuation</a><span>World Customs Organization · 2026-08-22</span></li>\n        <li><a href=\"https://gra.gov.gh/customs/vehicle-importation/\" target=\"_blank\" rel=\"noopener noreferrer\">Vehicle Importation</a><span>Ghana Revenue Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.kra.go.ke/news-center/public-notices/2223-current-retail-selling-price-crsp-for-used-motor-vehicles\" target=\"_blank\" rel=\"noopener noreferrer\">Current Retail Selling Price for Used Motor Vehicles</a><span>Kenya Revenue Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.kebs.org/import-inspection/\" target=\"_blank\" rel=\"noopener noreferrer\">Import Inspection</a><span>Kenya Bureau of Standards · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/wto-valuation-agreement.aspx?p=1\" target=\"_blank\" rel=\"noopener noreferrer\">WTO Customs Valuation Agreement overview</a><span>World Customs Organization · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/durban-container-port-24747434937-jpg.jpg",
+        "alt": "ダーバン港のコンテナ、クレーン、船舶の空撮",
+        "caption": "ダーバン港のコンテナ、クレーン、船舶の空撮. 参考写真です。AutoBridgeによる検査や取引の記録ではありません。",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Durban container port (24747434937).jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Durban_container_port_(24747434937).jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Durban_container_port_(24747434937).jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Durban_container_port_%2824747434937%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 2.0",
+        "artist": "Media Club",
+        "credit": "IMC-KZN-00074G",
+        "candidate_description": "Container terminal at the Port of Durban , IMC-KZN-00074G",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "55ac118768810bec3202992960c58d440b5e15766705ec9410be0869e5eff34e",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Durban container terminal, cargo vessels and handling infrastructure match the Africa FOB/CIF logistics guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "ko": {
+      "title": "아프리카행 중국 차량 FOB·CIF를 항만과 내륙회랑까지 비교하기",
+      "seo_title": "아프리카 차량 FOB·CIF 견적 점검",
+      "meta_description": "특정 아프리카 국가, 항만과 내륙도시를 기준으로 검사, 보험, 세관평가, 국경운송을 포함한 FOB와 CIF를 비교합니다.",
+      "summary": "항구 도착 CIF는 구매자 야드 도착가격이 아닐 수 있습니다. 출발항부터 국경과 내륙까지 모든 비용과 책임을 추적합니다.",
+      "eyebrow": "아프리카 차량 견적",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../ko/index.html\">홈</a><span>/</span><a href=\"../../ko/guides/index.html\">구매 가이드</a><span>/</span><span>아프리카행 중국 차량 FOB·CIF를 항만과 내륙회랑까지 비교하기</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">아프리카 차량 견적</p>\n      <h1>아프리카행 중국 차량 FOB·CIF를 항만과 내륙회랑까지 비교하기</h1>\n      <p class=\"lead\">항구 도착 CIF는 구매자 야드 도착가격이 아닐 수 있습니다. 출발항부터 국경과 내륙까지 모든 비용과 책임을 추적합니다.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/durban-container-port-24747434937-jpg.jpg\" alt=\"더반항의 컨테이너, 크레인과 선박을 내려다본 모습\" loading=\"lazy\"><figcaption>더반항의 컨테이너, 크레인과 선박을 내려다본 모습. 참고 사진이며 AutoBridge의 검사 또는 거래 기록이 아닙니다.</figcaption></figure>\n      <h2>국가, 양하항과 최종도시를 지정한다</h2>\n      <p>‘CIF Africa’ 대신 목적국, 수입자, 양하 터미널, 등록시장, 도착예정일과 실제 인도지점을 적습니다. 내륙국이면 경유국, 국경, 보세 여부, 내륙창고와 회랑운송 책임자도 필요합니다. 항만가격과 구매자 야드가격은 같은 구매조건이 아닙니다.</p>\n      <p>연식, 정확한 사양, 좌우핸들, 동력, 신차·중고, 수량과 VIN을 고정합니다. 차령, 배출, 검사와 등록은 국가별입니다. 저렴한 운임은 부적격 차량을 합법화하지 못하므로 현지 세관, 표준, 교통기관에 실제 사양의 수입경로를 확인합니다.</p>\n      <h2>FOB와 CIF를 정확한 항만점에 묶는다</h2>\n      <p>FOB는 중국 선적항과 집하, 검사, 수출신고, 터미널, 적재 포함 여부를 밝혀야 합니다. 위험은 통상 구매자 지정선박에 적재할 때 이전됩니다. CIF는 목적항을 명시하고 판매자가 주운임과 보험을 마련하지만 위험은 아프리카 도착이 아니라 중국 본선적재 때 이전됩니다.</p>\n      <p>컨테이너를 선적 전에 터미널에 넘기면 FCA가, 판매자가 보험을 포함한 복합운송을 마련하면 CIP가 더 맞을 수 있습니다. RoRo와 컨테이너는 준비, 하역, 손상과 항만청구가 달라 별도 비교하고, 지점, Incoterms 2020, 방식과 기간을 씁니다.</p>\n      <h2>최종 야드까지 모든 비용을 펼친다</h2>\n      <p>차량·검사·중국운송·수출·출발항, 해상운임·할증·환적·보험, 양하·서류·검사·보관·대리, 과세가격·세금·표준·허가, 보세통과·국경·내륙배송·개조·등록으로 나눕니다. 금액이 미정이어도 각 줄에 책임자를 지정합니다.</p>\n      <p>통화, 단위, 유효기간, 지급자, 수취인, 세금과 근거를 기록하고 현지 대리인에게 선사, 터미널, 기관, 검사와 통관비를 분리한 표를 받습니다. 보관과 컨테이너 초과는 무료기간과 일일조건을 쓰며 보증금과 환급액은 운영비에서 뺍니다.</p>\n      <h2>국가별 평가와 내륙보험을 확인한다</h2>\n      <p>WCO에 따르면 송장과 과세가격은 같지 않을 수 있습니다. 가나는 운임·보험을 고려하고 케냐는 2025년 7월부터 중고차 CRSP표를 공표했습니다. 이는 국가별 사례입니다. 현지 대리인이 VIN별 분류, 연식, 동력, 상태, 원산지, 거래관계와 신고일을 계산해야 합니다.</p>\n      <p>CIF 보험의 피보험자, 금액, 공제, 제외, 전기차, 중고, 기존손상, 환적, 통지와 검사를 확인합니다. 내륙도시라면 항만보관, 보세트럭, 국경과 최종배송을 별도로 보장하고 인수 전 사진, 상태, 주행거리, 열쇠와 손상유보를 남깁니다.</p>\n      <h2>회랑 전체의 통제력으로 선택한다</h2>\n      <p>FOB와 CIF를 같은 야드까지 계산하고 항만, 평가변동, 세금, 내륙, 환율, 대기와 등록을 넣습니다. 미정액은 0이 아니라 담당자와 기한을 둡니다. 운항빈도, 환적, 서류해제, 보험사 접근성과 목적지 대리인의 실질능력도 비교합니다.</p>\n      <p>검증된 포워더와 일관보험이 있는 구매자는 FOB나 FCA가 편할 수 있고, 투명한 예약·보험·현지대리인을 제시하는 판매자는 CIF를 단순화할 수 있습니다. 적합검사, 수입허가, 통관, 통과와 등록은 별도 지정의무입니다.</p>\n      <h2>자주 묻는 질문</h2>\n      <h3>아프리카 항만 CIF에 내륙배송이 포함됩니까?</h3>\n      <p>자동으로 포함되지 않습니다. 통과, 국경과 최종배송의 가격, 책임, 보험을 따로 확인합니다.</p>\n      <h3>세관은 항상 CIF 송장을 사용합니까?</h3>\n      <p>아닙니다. 국가법에 따라 거래를 검증하거나 다른 허용 평가방법을 쓸 수 있습니다.</p>\n      <h3>케냐 CRSP를 다른 나라에 쓸 수 있습니까?</h3>\n      <p>아닙니다. 케냐 국내 관행일 뿐 다른 국가에는 적용되지 않습니다.</p>\n      <h3>RoRo와 컨테이너를 바로 비교할 수 있습니까?</h3>\n      <p>준비, 항만, 보험과 손상관리를 같은 종점까지 채운 뒤 비교합니다.</p>\n\n      <h2>출처</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Frequently Asked Questions on Customs Valuation</a><span>World Customs Organization · 2026-08-22</span></li>\n        <li><a href=\"https://gra.gov.gh/customs/vehicle-importation/\" target=\"_blank\" rel=\"noopener noreferrer\">Vehicle Importation</a><span>Ghana Revenue Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.kra.go.ke/news-center/public-notices/2223-current-retail-selling-price-crsp-for-used-motor-vehicles\" target=\"_blank\" rel=\"noopener noreferrer\">Current Retail Selling Price for Used Motor Vehicles</a><span>Kenya Revenue Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.kebs.org/import-inspection/\" target=\"_blank\" rel=\"noopener noreferrer\">Import Inspection</a><span>Kenya Bureau of Standards · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/wto-valuation-agreement.aspx?p=1\" target=\"_blank\" rel=\"noopener noreferrer\">WTO Customs Valuation Agreement overview</a><span>World Customs Organization · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/durban-container-port-24747434937-jpg.jpg",
+        "alt": "더반항의 컨테이너, 크레인과 선박을 내려다본 모습",
+        "caption": "더반항의 컨테이너, 크레인과 선박을 내려다본 모습. 참고 사진이며 AutoBridge의 검사 또는 거래 기록이 아닙니다.",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Durban container port (24747434937).jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Durban_container_port_(24747434937).jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Durban_container_port_(24747434937).jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Durban_container_port_%2824747434937%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 2.0",
+        "artist": "Media Club",
+        "credit": "IMC-KZN-00074G",
+        "candidate_description": "Container terminal at the Port of Durban , IMC-KZN-00074G",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "55ac118768810bec3202992960c58d440b5e15766705ec9410be0869e5eff34e",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Durban container terminal, cargo vessels and handling infrastructure match the Africa FOB/CIF logistics guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "vi": {
+      "title": "So sánh FOB và CIF khi nhập xe Trung Quốc vào châu Phi đến tận hành lang nội địa",
+      "seo_title": "Châu Phi: kiểm tra báo giá xe FOB hay CIF",
+      "meta_description": "So sánh FOB và CIF cho đúng quốc gia, cảng và hành lang châu Phi, gồm kiểm định, bảo hiểm, trị giá hải quan và giao nội địa.",
+      "summary": "Giá CIF đến cảng có thể còn xa bãi xe của người mua. Quy trình này theo dõi chi phí qua cảng, biên giới và hành lang đến thành phố cuối.",
+      "eyebrow": "Báo giá xe cho châu Phi",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../vi/index.html\">Trang chủ</a><span>/</span><a href=\"../../vi/guides/index.html\">Hướng dẫn</a><span>/</span><span>So sánh FOB và CIF khi nhập xe Trung Quốc vào châu Phi đến tận hành lang nội địa</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">Báo giá xe cho châu Phi</p>\n      <h1>So sánh FOB và CIF khi nhập xe Trung Quốc vào châu Phi đến tận hành lang nội địa</h1>\n      <p class=\"lead\">Giá CIF đến cảng có thể còn xa bãi xe của người mua. Quy trình này theo dõi chi phí qua cảng, biên giới và hành lang đến thành phố cuối.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/durban-container-port-24747434937-jpg.jpg\" alt=\"Ảnh chụp từ trên cao các container, cần cẩu và tàu tại cảng Durban\" loading=\"lazy\"><figcaption>Ảnh chụp từ trên cao các container, cần cẩu và tàu tại cảng Durban. Ảnh minh họa, không phải hồ sơ kiểm tra hoặc giao dịch của AutoBridge.</figcaption></figure>\n      <h2>Nêu quốc gia, bến dỡ và thành phố cuối</h2>\n      <p>Thay “CIF Africa” bằng quốc gia, nhà nhập khẩu, bến dỡ, thị trường đăng ký, ngày đến dự kiến và điểm giao vật lý. Với nước không giáp biển, thêm nước quá cảnh, cửa khẩu, trạng thái bảo thuế hay đã nộp thuế, kho nội địa và đơn vị vận chuyển hành lang. Giá tới cảng không cùng phạm vi với giá tới bãi người mua.</p>\n      <p>Khóa năm mẫu, phiên bản, tay lái, hệ động lực, xe mới hay cũ, số lượng và VIN. Tuổi xe, khí thải, kiểm định và đăng ký khác theo từng nước. Cước thấp không làm xe không đủ điều kiện trở nên hợp pháp; nhà nhập khẩu phải xác nhận với hải quan, tiêu chuẩn và giao thông trước khi trả khoản không hoàn lại.</p>\n      <h2>Gắn FOB và CIF với điểm cảng chính xác</h2>\n      <p>FOB phải ghi cảng Trung Quốc và tách lấy xe, kiểm định, khai xuất, bến và xếp tàu. Rủi ro thường chuyển khi xe ở trên tàu do người mua chỉ định. CIF ghi cảng đích; người bán trả cước chính và thu xếp bảo hiểm, nhưng rủi ro chuyển lúc xếp ở Trung Quốc chứ không đợi tới châu Phi.</p>\n      <p>Nếu container giao cho bến trước khi xếp tàu, FCA có thể đúng hơn; nếu người bán tổ chức vận tải đa phương thức có bảo hiểm, hãy xem CIP. Tách RoRo và container vì chuẩn bị, bốc dỡ, tổn thất và hóa đơn cảng khác nhau. Ghi điểm chính xác, Incoterms 2020, phương thức và cửa sổ đi.</p>\n      <h2>Vẽ chi phí đến tận bãi cuối</h2>\n      <p>Chia xe, kiểm định, chặng Trung Quốc, hồ sơ xuất và bến đi; cước, phụ phí, chuyển tải và bảo hiểm; dỡ, tài liệu, bến, kiểm tra, đại lý và lưu kho; định giá, thuế, tiêu chuẩn và phép; rồi quá cảnh bảo thuế, biên giới, vận chuyển nội địa, cải tạo và đăng ký. Mỗi dòng có người phụ trách dù chưa chốt giá.</p>\n      <p>Ghi tiền tệ, đơn vị, hiệu lực, người trả, người nhận, thuế và bằng chứng. Đại lý đầu đến phải tách hãng tàu, bến, cơ quan, kiểm định và môi giới. Với lưu kho, giữ container hay đỗ xe, nêu số ngày miễn, thời điểm bắt đầu và mức mỗi ngày. Tiền bảo đảm và khoản hoàn lại để riêng.</p>\n      <h2>Kiểm tra định giá quốc gia và bảo hiểm nội địa</h2>\n      <p>WCO lưu ý hóa đơn có thể khác trị giá hải quan. Ghana tính đến cước và bảo hiểm; Kenya công bố bảng CRSP cho xe cũ áp dụng từ tháng 7 năm 2025. Đây là ví dụ quốc gia. Yêu cầu đại lý lập bảng từng VIN về mã hàng, năm, động lực, tình trạng, xuất xứ, quan hệ và ngày khai dự kiến.</p>\n      <p>Đọc dự thảo CIF về người được bảo hiểm, số tiền, khấu trừ, loại trừ, xe điện, xe cũ, hư hại cũ, chuyển tải, thông báo và giám định. Với thành phố nội địa, bảo hiểm riêng lưu bến, xe tải bảo thuế, biên giới và giao cuối. Chụp ảnh, ghi tình trạng, công tơ mét, chìa khóa và bảo lưu trước khi nhận.</p>\n      <h2>Chọn theo khả năng kiểm soát toàn hành lang</h2>\n      <p>Tính FOB và CIF đến cùng bãi gồm cảng, rủi ro điều chỉnh giá, thuế, hành lang, tỷ giá, chờ và đăng ký. Khoản chưa biết có người và hạn, không phải số không. So thêm tần suất tàu, chuyển tải, giải phóng chứng từ, tiếp cận hãng bảo hiểm và năng lực thật của đại lý.</p>\n      <p>Người mua có giao nhận tin cậy và bảo hiểm cửa đến cửa có thể kiểm soát tốt hơn với FOB hoặc FCA. Người bán có đặt chỗ minh bạch, bảo hiểm dùng được và đại lý tốt có thể làm CIF dễ hơn. Kiểm định, giấy phép, thông quan, quá cảnh và đăng ký vẫn là nghĩa vụ riêng có bên đứng tên.</p>\n      <h2>Câu hỏi thường gặp</h2>\n      <h3>CIF tới cảng châu Phi có gồm giao nội địa không?</h3>\n      <p>Không tự động. Quá cảnh, biên giới và giao cuối cần giá, trách nhiệm và bảo hiểm riêng.</p>\n      <h3>Hải quan luôn chấp nhận hóa đơn CIF không?</h3>\n      <p>Không. Mỗi nước có thể kiểm tra giao dịch hoặc dùng phương pháp định giá khác được phép.</p>\n      <h3>Bảng CRSP Kenya dùng ở nước khác được không?</h3>\n      <p>Không. Đó chỉ là thực tiễn quốc gia của Kenya.</p>\n      <h3>Có thể so thẳng RoRo và container không?</h3>\n      <p>Chỉ sau khi hoàn thiện chuẩn bị, cảng, bảo hiểm và kiểm soát hư hại tới cùng điểm.</p>\n\n      <h2>Nguồn</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Frequently Asked Questions on Customs Valuation</a><span>World Customs Organization · 2026-08-22</span></li>\n        <li><a href=\"https://gra.gov.gh/customs/vehicle-importation/\" target=\"_blank\" rel=\"noopener noreferrer\">Vehicle Importation</a><span>Ghana Revenue Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.kra.go.ke/news-center/public-notices/2223-current-retail-selling-price-crsp-for-used-motor-vehicles\" target=\"_blank\" rel=\"noopener noreferrer\">Current Retail Selling Price for Used Motor Vehicles</a><span>Kenya Revenue Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.kebs.org/import-inspection/\" target=\"_blank\" rel=\"noopener noreferrer\">Import Inspection</a><span>Kenya Bureau of Standards · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/wto-valuation-agreement.aspx?p=1\" target=\"_blank\" rel=\"noopener noreferrer\">WTO Customs Valuation Agreement overview</a><span>World Customs Organization · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/durban-container-port-24747434937-jpg.jpg",
+        "alt": "Ảnh chụp từ trên cao các container, cần cẩu và tàu tại cảng Durban",
+        "caption": "Ảnh chụp từ trên cao các container, cần cẩu và tàu tại cảng Durban. Ảnh minh họa, không phải hồ sơ kiểm tra hoặc giao dịch của AutoBridge.",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Durban container port (24747434937).jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Durban_container_port_(24747434937).jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Durban_container_port_(24747434937).jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Durban_container_port_%2824747434937%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 2.0",
+        "artist": "Media Club",
+        "credit": "IMC-KZN-00074G",
+        "candidate_description": "Container terminal at the Port of Durban , IMC-KZN-00074G",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "55ac118768810bec3202992960c58d440b5e15766705ec9410be0869e5eff34e",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Durban container terminal, cargo vessels and handling infrastructure match the Africa FOB/CIF logistics guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "th": {
+      "title": "เทียบ FOB กับ CIF สำหรับรถจีนไปแอฟริกาจนถึงเส้นทางขนส่งภายใน",
+      "seo_title": "แอฟริกา: ตรวจใบเสนอราคารถ FOB หรือ CIF",
+      "meta_description": "เทียบ FOB และ CIF สำหรับประเทศ ท่าเรือ และเส้นทางแอฟริกาที่เจาะจง รวมการตรวจ ประกัน ราคาศุลกากร และส่งภายใน",
+      "summary": "ราคา CIF ถึงท่าอาจยังไม่ถึงลานผู้ซื้อ วิธีนี้ติดตามค่าใช้จ่ายผ่านท่า พรมแดน และเส้นทางบกไปยังเมืองสุดท้าย",
+      "eyebrow": "ใบเสนอราคารถสำหรับแอฟริกา",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../th/index.html\">หน้าแรก</a><span>/</span><a href=\"../../th/guides/index.html\">คู่มือ</a><span>/</span><span>เทียบ FOB กับ CIF สำหรับรถจีนไปแอฟริกาจนถึงเส้นทางขนส่งภายใน</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">ใบเสนอราคารถสำหรับแอฟริกา</p>\n      <h1>เทียบ FOB กับ CIF สำหรับรถจีนไปแอฟริกาจนถึงเส้นทางขนส่งภายใน</h1>\n      <p class=\"lead\">ราคา CIF ถึงท่าอาจยังไม่ถึงลานผู้ซื้อ วิธีนี้ติดตามค่าใช้จ่ายผ่านท่า พรมแดน และเส้นทางบกไปยังเมืองสุดท้าย</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/durban-container-port-24747434937-jpg.jpg\" alt=\"ภาพมุมสูงของตู้คอนเทนเนอร์ เครน และเรือที่ท่าเรือเดอร์บัน\" loading=\"lazy\"><figcaption>ภาพมุมสูงของตู้คอนเทนเนอร์ เครน และเรือที่ท่าเรือเดอร์บัน. ภาพประกอบ ไม่ใช่หลักฐานการตรวจสภาพหรือธุรกรรมของ AutoBridge</figcaption></figure>\n      <h2>ระบุประเทศ ท่าลง และเมืองสุดท้าย</h2>\n      <p>แทน “CIF Africa” ด้วยประเทศ ผู้นำเข้า ท่าลง ตลาดจดทะเบียน วันถึง และจุดส่งจริง ประเทศไม่มีทางออกทะเลต้องมีประเทศผ่าน ด่าน สถานะทัณฑ์บนหรือชำระอากร คลังในประเทศ และผู้ขนส่งเส้นทาง ราคาถึงท่ากับราคาถึงลานผู้ซื้อไม่ใช่ขอบเขตเดียวกัน</p>\n      <p>กำหนดปีรุ่น รุ่นย่อย พวงมาลัย ระบบขับเคลื่อน ใหม่หรือใช้แล้ว จำนวน และ VIN กฎอายุรถ มลพิษ การตรวจ และทะเบียนต่างกันตามประเทศ ค่าระวางต่ำทำให้รถที่ห้ามนำเข้าใช้ไม่ได้ ผู้นำเข้าต้องยืนยันกับศุลกากร มาตรฐาน และขนส่งก่อนจ่ายเงินคืนไม่ได้</p>\n      <h2>ผูก FOB และ CIF กับจุดท่าเรือที่ชัดเจน</h2>\n      <p>FOB ต้องระบุท่าจีนและแยกค่ารับรถ ตรวจ สำแดง ท่า และขึ้นเรือ ความเสี่ยงมักโอนเมื่อรถอยู่บนเรือที่ผู้ซื้อกำหนด CIF ระบุท่าปลายทาง ผู้ขายจ่ายค่าขนส่งหลักและจัดประกัน แต่ความเสี่ยงโอนตอนขึ้นเรือในจีน ไม่ใช่เมื่อถึงแอฟริกา</p>\n      <p>หากส่งตู้ให้ท่าก่อนขึ้นเรือ FCA อาจตรงกว่า หากผู้ขายจัดการขนส่งหลายรูปแบบพร้อมประกันให้ดู CIP แยก RoRo กับตู้เพราะการเตรียม ยกขน ความเสียหาย และใบแจ้งหนี้ท่าต่างกัน เขียนจุด Incoterms 2020 วิธี และช่วงส่งออก</p>\n      <h2>ทำแผนต้นทุนถึงลานสุดท้าย</h2>\n      <p>แยกรถ ตรวจ ขนในจีน เอกสารส่งออกและท่าต้นทาง; ค่าระวาง ค่าบวก ถ่ายลำและประกัน; ลงรถ เอกสาร ท่า ตรวจ ตัวแทนและเก็บ; ประเมิน อากร ภาษี มาตรฐานและใบอนุญาต; แล้วผ่านทัณฑ์บน พรมแดน ขนส่งภายใน ดัดแปลงและทะเบียน ทุกบรรทัดต้องมีผู้รับผิดชอบแม้ยังไม่รู้ราคา</p>\n      <p>บันทึกสกุล หน่วย อายุ ผู้จ่าย ผู้รับ ภาษี และหลักฐาน ให้ตัวแทนปลายทางแยกสายเรือ ท่า หน่วยงาน ผู้ตรวจ และนายหน้า สำหรับเก็บตู้หรือจอดรถให้ระบุวันฟรี จุดเริ่ม และราคาต่อวัน เงินค้ำและเงินขอคืนแยกจากต้นทุนดำเนินงาน</p>\n      <h2>ตรวจราคาศุลกากรและประกันช่วงบก</h2>\n      <p>WCO ระบุว่าใบแจ้งหนี้อาจไม่เท่าราคาศุลกากร กานาพิจารณาค่าระวางและประกัน ส่วนเคนยาเผยแพร่ตาราง CRSP รถใช้แล้วตั้งแต่กรกฎาคม 2025 ทั้งคู่เป็นตัวอย่างระดับประเทศ ให้ตัวแทนทำตารางตาม VIN พิกัด ปี ระบบ สภาพ ถิ่นกำเนิด ความสัมพันธ์ และวันสำแดง</p>\n      <p>ตรวจร่าง CIF เรื่องผู้เอาประกัน จำนวน ค่าเสียหาย ข้อยกเว้น EV รถใช้แล้ว เสียหายเดิม ถ่ายลำ แจ้ง และสำรวจ เมืองภายในต้องคุ้มครองเก็บที่ท่า รถทัณฑ์บน พรมแดน และส่งสุดท้ายต่างหาก ถ่ายภาพ สภาพ เลขไมล์ กุญแจ และข้อสงวนก่อนรับรถ</p>\n      <h2>เลือกจากการควบคุมทั้งเส้นทาง</h2>\n      <p>คำนวณ FOB และ CIF ถึงลานเดียวกัน รวมท่า ความเสี่ยงปรับราคา ภาษี เส้นทาง ค่าเงิน รอ และทะเบียน รายการไม่ทราบมีเจ้าของและวัน ไม่ใช่ศูนย์ เทียบความถี่เรือ ถ่ายลำ ปล่อยเอกสาร ติดต่อประกัน และความสามารถจริงของตัวแทนด้วย</p>\n      <p>ผู้ซื้อที่มีผู้รับจัดการขนส่งและประกันถึงประตูอาจควบคุม FOB หรือ FCA ได้ดี ผู้ขายที่แสดงการจอง ประกันใช้ได้ และตัวแทนดีอาจทำ CIF ง่ายขึ้น แต่การตรวจ ใบอนุญาต ปล่อยของ ผ่านแดน และทะเบียนยังเป็นหน้าที่แยกที่ต้องตั้งชื่อ</p>\n      <h2>คำถามที่พบบ่อย</h2>\n      <h3>CIF ถึงท่าแอฟริการวมขนส่งภายในหรือไม่</h3>\n      <p>ไม่อัตโนมัติ ช่วงผ่านแดน พรมแดน และส่งสุดท้ายต้องมีราคา ความรับผิด และประกันแยก</p>\n      <h3>ศุลกากรรับใบแจ้งหนี้ CIF เสมอหรือไม่</h3>\n      <p>ไม่ แต่ละประเทศอาจตรวจธุรกรรมหรือใช้วิธีประเมินอื่นที่กฎหมายอนุญาต</p>\n      <h3>ตารางเคนยาใช้ในประเทศอื่นได้หรือไม่</h3>\n      <p>ไม่ได้ เป็นหลักปฏิบัติของเคนยา ไม่ใช่กฎทั้งทวีป</p>\n      <h3>เทียบ RoRo กับตู้ตรงๆ ได้หรือไม่</h3>\n      <p>ได้เมื่อเติมการเตรียม ท่า ประกัน และควบคุมความเสียหายถึงจุดเดียวกันแล้ว</p>\n\n      <h2>แหล่งข้อมูล</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Frequently Asked Questions on Customs Valuation</a><span>World Customs Organization · 2026-08-22</span></li>\n        <li><a href=\"https://gra.gov.gh/customs/vehicle-importation/\" target=\"_blank\" rel=\"noopener noreferrer\">Vehicle Importation</a><span>Ghana Revenue Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.kra.go.ke/news-center/public-notices/2223-current-retail-selling-price-crsp-for-used-motor-vehicles\" target=\"_blank\" rel=\"noopener noreferrer\">Current Retail Selling Price for Used Motor Vehicles</a><span>Kenya Revenue Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.kebs.org/import-inspection/\" target=\"_blank\" rel=\"noopener noreferrer\">Import Inspection</a><span>Kenya Bureau of Standards · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/wto-valuation-agreement.aspx?p=1\" target=\"_blank\" rel=\"noopener noreferrer\">WTO Customs Valuation Agreement overview</a><span>World Customs Organization · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/durban-container-port-24747434937-jpg.jpg",
+        "alt": "ภาพมุมสูงของตู้คอนเทนเนอร์ เครน และเรือที่ท่าเรือเดอร์บัน",
+        "caption": "ภาพมุมสูงของตู้คอนเทนเนอร์ เครน และเรือที่ท่าเรือเดอร์บัน. ภาพประกอบ ไม่ใช่หลักฐานการตรวจสภาพหรือธุรกรรมของ AutoBridge",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Durban container port (24747434937).jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Durban_container_port_(24747434937).jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Durban_container_port_(24747434937).jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Durban_container_port_%2824747434937%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 2.0",
+        "artist": "Media Club",
+        "credit": "IMC-KZN-00074G",
+        "candidate_description": "Container terminal at the Port of Durban , IMC-KZN-00074G",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "55ac118768810bec3202992960c58d440b5e15766705ec9410be0869e5eff34e",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Durban container terminal, cargo vessels and handling infrastructure match the Africa FOB/CIF logistics guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "id": {
+      "title": "Membandingkan FOB dan CIF kendaraan Tiongkok ke Afrika hingga koridor darat",
+      "seo_title": "Afrika: periksa penawaran kendaraan FOB atau CIF",
+      "meta_description": "Bandingkan FOB dan CIF untuk negara, pelabuhan, dan koridor Afrika tertentu, termasuk inspeksi, asuransi, nilai pabean, dan pengiriman darat.",
+      "summary": "Bandingkan tanggung jawab FOB dan CIF dari pelabuhan muat di Tiongkok hingga pelabuhan Afrika, lalu hitung angkutan darat dan periksa batas perlindungan asuransi.",
+      "eyebrow": "Penawaran kendaraan Afrika",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../id/index.html\">Beranda</a><span>/</span><a href=\"../../id/guides/index.html\">Panduan</a><span>/</span><span>Membandingkan FOB dan CIF kendaraan Tiongkok ke Afrika hingga koridor darat</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">Penawaran kendaraan Afrika</p>\n      <h1>Membandingkan FOB dan CIF kendaraan Tiongkok ke Afrika hingga koridor darat</h1>\n      <p class=\"lead\">Bandingkan tanggung jawab FOB dan CIF dari pelabuhan muat di Tiongkok hingga pelabuhan Afrika, lalu hitung angkutan darat dan periksa batas perlindungan asuransi.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/durban-container-port-24747434937-jpg.jpg\" alt=\"Tampak udara tumpukan peti kemas, derek, dan kapal di pelabuhan Durban\" loading=\"lazy\"><figcaption>Tampak udara tumpukan peti kemas, derek, dan kapal di pelabuhan Durban. Foto ilustrasi, bukan dokumentasi pemeriksaan atau transaksi AutoBridge.</figcaption></figure>\n      <h2>Sebut negara, terminal bongkar, dan kota akhir</h2>\n      <p>Ganti “CIF Africa” dengan negara tujuan, importir, terminal bongkar, pasar registrasi, perkiraan tiba, dan titik serah fisik. Untuk negara tanpa laut, tambahkan negara transit, pos perbatasan, status berikat atau sudah bayar bea, depo darat, dan pengangkut koridor. Harga sampai pelabuhan dan harga sampai lapangan pembeli bukan lingkup yang sama.</p>\n      <p>Kunci tahun model, varian, sisi kemudi, penggerak, kondisi baru atau bekas, jumlah, dan VIN. Batas usia, emisi, inspeksi, dan registrasi berbeda per negara. Angkutan murah tidak membuat kendaraan terlarang menjadi layak; importir harus memastikan spesifikasi kepada Bea Cukai, badan standar, dan otoritas transportasi sebelum biaya tidak dapat dikembalikan.</p>\n      <h2>Ikat FOB dan CIF ke titik pelabuhan tepat</h2>\n      <p>FOB harus menyebut pelabuhan Tiongkok dan memisahkan pengambilan, inspeksi, deklarasi, terminal, serta pemuatan. Risiko biasanya beralih di kapal yang ditunjuk pembeli. CIF menyebut pelabuhan tujuan; penjual membayar angkutan utama dan asuransi, tetapi risiko beralih saat dimuat di Tiongkok, bukan ketika tiba di Afrika.</p>\n      <p>Jika peti kemas diserahkan ke terminal sebelum naik kapal, FCA mungkin lebih tepat; bila penjual mengatur angkutan multimoda berasuransi, nilai CIP. Pisahkan RoRo dan peti kemas karena persiapan, penanganan, kerusakan, dan tagihan terminal berbeda. Tulis titik, Incoterms 2020, moda, dan jendela pengapalan.</p>\n      <h2>Petakan biaya hingga lapangan terakhir</h2>\n      <p>Pisahkan kendaraan, inspeksi, angkutan Tiongkok, berkas ekspor dan terminal asal; angkutan, tambahan, transit dan asuransi; bongkar, dokumen, terminal, pemeriksaan, agen dan gudang; penilaian, bea, pajak, standar dan izin; lalu transit berikat, perbatasan, angkutan darat, modifikasi dan registrasi. Tiap baris perlu penanggung jawab walau harga belum ada.</p>\n      <p>Catat mata uang, unit, validitas, pembayar, penerima, pajak, dan bukti. Agen tujuan harus memisahkan pelayaran, terminal, otoritas, pemeriksa, dan broker. Untuk gudang, detention, atau parkir kendaraan, tulis hari bebas, pemicu, dan tarif harian. Jaminan dan uang yang dapat dikembalikan diletakkan di luar biaya operasi.</p>\n      <h2>Tinjau nilai nasional dan asuransi darat</h2>\n      <p>WCO menyatakan faktur dan nilai pabean dapat berbeda. Ghana memperhitungkan angkutan dan asuransi; Kenya menerbitkan jadwal CRSP kendaraan bekas sejak Juli 2025. Keduanya contoh nasional. Minta broker membuat lembar per VIN berisi klasifikasi, tahun, penggerak, kondisi, asal, hubungan transaksi, dan tanggal deklarasi.</p>\n      <p>Periksa konsep CIF untuk tertanggung, jumlah, risiko sendiri, pengecualian, EV, kondisi bekas, kerusakan lama, transit, pemberitahuan, dan survei. Tujuan darat memerlukan perlindungan terpisah untuk gudang pelabuhan, truk berikat, perbatasan, dan pengiriman akhir. Foto, kondisi, odometer, kunci, dan catatan kerusakan dibuat sebelum pelepasan.</p>\n      <h2>Pilih berdasarkan kendali seluruh koridor</h2>\n      <p>Hitung FOB dan CIF ke lapangan yang sama termasuk terminal, risiko penyesuaian nilai, pajak, koridor, kurs, tunggu, dan registrasi. Nilai belum diketahui punya pemilik dan tanggal, bukan nol. Bandingkan frekuensi kapal, transit, pelepasan dokumen, akses penanggung, dan kemampuan nyata agen lokal.</p>\n      <p>Pembeli dengan forwarder teruji dan asuransi pintu ke pintu dapat lebih mengendalikan FOB atau FCA. Penjual dengan booking transparan, polis yang dapat dipakai, dan agen baik dapat menyederhanakan CIF. Inspeksi, izin, pelepasan, transit, dan registrasi tetap kewajiban terpisah dengan pihak bernama.</p>\n      <h2>Pertanyaan umum</h2>\n      <h3>Apakah CIF ke pelabuhan Afrika mencakup pengiriman darat?</h3>\n      <p>Tidak otomatis. Transit, perbatasan, dan pengiriman akhir memerlukan harga, tanggung jawab, serta asuransi sendiri.</p>\n      <h3>Apakah Bea Cukai selalu menerima faktur CIF?</h3>\n      <p>Tidak. Setiap negara dapat menguji transaksi atau memakai metode penilaian lain yang diizinkan.</p>\n      <h3>Apakah jadwal Kenya berlaku di negara lain?</h3>\n      <p>Tidak. Jadwal itu hanya membuktikan praktik nasional Kenya.</p>\n      <h3>Bisakah RoRo dan peti kemas langsung dibandingkan?</h3>\n      <p>Hanya setelah persiapan, pelabuhan, asuransi, dan kendali kerusakan dilengkapi sampai titik yang sama.</p>\n\n      <h2>Sumber</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Frequently Asked Questions on Customs Valuation</a><span>World Customs Organization · 2026-08-22</span></li>\n        <li><a href=\"https://gra.gov.gh/customs/vehicle-importation/\" target=\"_blank\" rel=\"noopener noreferrer\">Vehicle Importation</a><span>Ghana Revenue Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.kra.go.ke/news-center/public-notices/2223-current-retail-selling-price-crsp-for-used-motor-vehicles\" target=\"_blank\" rel=\"noopener noreferrer\">Current Retail Selling Price for Used Motor Vehicles</a><span>Kenya Revenue Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.kebs.org/import-inspection/\" target=\"_blank\" rel=\"noopener noreferrer\">Import Inspection</a><span>Kenya Bureau of Standards · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/wto-valuation-agreement.aspx?p=1\" target=\"_blank\" rel=\"noopener noreferrer\">WTO Customs Valuation Agreement overview</a><span>World Customs Organization · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/durban-container-port-24747434937-jpg.jpg",
+        "alt": "Tampak udara tumpukan peti kemas, derek, dan kapal di pelabuhan Durban",
+        "caption": "Tampak udara tumpukan peti kemas, derek, dan kapal di pelabuhan Durban. Foto ilustrasi, bukan dokumentasi pemeriksaan atau transaksi AutoBridge.",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Durban container port (24747434937).jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Durban_container_port_(24747434937).jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Durban_container_port_(24747434937).jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Durban_container_port_%2824747434937%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 2.0",
+        "artist": "Media Club",
+        "credit": "IMC-KZN-00074G",
+        "candidate_description": "Container terminal at the Port of Durban , IMC-KZN-00074G",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "55ac118768810bec3202992960c58d440b5e15766705ec9410be0869e5eff34e",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Durban container terminal, cargo vessels and handling infrastructure match the Africa FOB/CIF logistics guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "ar": {
+      "title": "مقارنة FOB وCIF للمركبات الصينية إلى أفريقيا حتى الممر الداخلي",
+      "seo_title": "أفريقيا: فحص عرض مركبة FOB أو CIF",
+      "meta_description": "قارن FOB وCIF لدولة وميناء وممر أفريقي محدد، شاملا الفحص والتأمين والقيمة الجمركية والتسليم الداخلي.",
+      "summary": "قد ينتهي سعر CIF عند الميناء بعيدا عن ساحة المشتري. تتبع المنهجية المصروفات عبر المحطة والحدود والممر إلى الوجهة الفعلية.",
+      "eyebrow": "عروض المركبات لأفريقيا",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../ar/index.html\">الرئيسية</a><span>/</span><a href=\"../../ar/guides/index.html\">الأدلة</a><span>/</span><span>مقارنة FOB وCIF للمركبات الصينية إلى أفريقيا حتى الممر الداخلي</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">عروض المركبات لأفريقيا</p>\n      <h1>مقارنة FOB وCIF للمركبات الصينية إلى أفريقيا حتى الممر الداخلي</h1>\n      <p class=\"lead\">قد ينتهي سعر CIF عند الميناء بعيدا عن ساحة المشتري. تتبع المنهجية المصروفات عبر المحطة والحدود والممر إلى الوجهة الفعلية.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/durban-container-port-24747434937-jpg.jpg\" alt=\"منظر جوي للحاويات والرافعات والسفن في ميناء ديربان\" loading=\"lazy\"><figcaption>منظر جوي للحاويات والرافعات والسفن في ميناء ديربان. صورة توضيحية، وليست توثيقًا لفحص أو صفقة أجرتها AutoBridge.</figcaption></figure>\n      <h2>تسمية الدولة ومحطة التفريغ والمدينة النهائية</h2>\n      <p>استبدل «CIF Africa» بدولة الوجهة والمستورد ومحطة التفريغ وسوق التسجيل وتاريخ الوصول ونقطة التسليم الفعلية. للدولة غير الساحلية أضف دولة العبور والمنفذ الحدودي وحالة البضاعة تحت الضمان أو بعد دفع الرسوم والمستودع الداخلي وناقل الممر. سعر الميناء وسعر ساحة المشتري لا يغطيان النطاق نفسه.</p>\n      <p>ثبت سنة الطراز والفئة وجهة المقود ونظام الدفع والحالة الجديدة أو المستعملة والعدد وأرقام الهيكل. تختلف حدود العمر والانبعاث والفحص والتسجيل وطنيا. لا تجعل الأجرة الرخيصة مركبة ممنوعة مؤهلة؛ على المستورد تأكيد المواصفة لدى الجمارك والهيئة القياسية والنقل قبل التزام غير قابل للاسترداد.</p>\n      <h2>ربط FOB وCIF بنقاط ميناء دقيقة</h2>\n      <p>يجب أن يسمي FOB الميناء الصيني ويفصل الاستلام والفحص والتصريح والمحطة والتحميل. ينتقل الخطر عادة على السفينة التي يسميها المشتري. يسمي CIF ميناء الوجهة؛ يدفع البائع النقل الرئيسي ويوفر التأمين، لكن الخطر ينتقل عند التحميل في الصين لا عند الوصول إلى أفريقيا.</p>\n      <p>إذا سلمت الحاوية للمحطة قبل الشحن فقد تكون FCA أدق، وإذا رتب البائع نقلا متعدد الوسائط مؤمنا فافحص CIP. افصل RoRo عن الحاوية لاختلاف التجهيز والمناولة والضرر وفواتير الميناء. اكتب النقطة الدقيقة وIncoterms 2020 والوسيلة ونافذة الإبحار.</p>\n      <h2>رسم التكلفة حتى ساحة المشتري</h2>\n      <p>افصل المركبة والفحص والنقل الصيني وملف التصدير ومحطة المنشأ؛ أجرة البحر والإضافات وإعادة الشحن والتأمين؛ التفريغ والوثائق والمحطة والمعاينة والوكيل والتخزين؛ التقييم والرسوم والضرائب والمعايير والتصاريح؛ ثم العبور المضمون والحدود والنقل الداخلي والتعديل والتسجيل. لكل بند مسؤول ولو بقي السعر مفتوحا.</p>\n      <p>سجل العملة والوحدة والصلاحية والدافع والمستفيد والضريبة والدليل. اطلب من وكيل الوجهة فصل شركة الملاحة والمحطة والسلطة والفحص والتخليص. للتخزين أو تأخير الحاوية أو وقوف السيارة اكتب الأيام المجانية وبداية الرسم والسعر اليومي. افصل الضمانات والمبالغ المستردة.</p>\n      <h2>مراجعة التقييم الوطني وتأمين الطريق</h2>\n      <p>توضح منظمة الجمارك أن الفاتورة والقيمة الجمركية قد تختلفان. تأخذ غانا الشحن والتأمين في الحسبان، وتنشر كينيا جدول CRSP للمستعمل منذ يوليو 2025. هذه أمثلة وطنية. اطلب من مخلص الوجهة كشفا لكل رقم هيكل يشمل التصنيف والسنة والدفع والحالة والمنشأ والعلاقة وتاريخ البيان.</p>\n      <p>راجع مسودة CIF من حيث المؤمن له والمبلغ والتحمل والاستثناءات والمركبة الكهربائية والمستعمل والضرر السابق وإعادة الشحن والإبلاغ والمعاينة. للمدينة الداخلية أكد تغطية تخزين الميناء والشاحنة المضمونة والحدود والتسليم. سجل الصور والحالة والعداد والمفاتيح والتحفظ قبل الإفراج.</p>\n      <h2>الاختيار حسب السيطرة على الممر كله</h2>\n      <p>احسب FOB وCIF إلى الساحة نفسها مع الميناء واحتمال تعديل القيمة والضرائب والممر والصرف والانتظار والتسجيل. للمجهول مسؤول وتاريخ لا صفر. قارن تواتر السفن وإعادة الشحن وإطلاق الوثائق والوصول إلى شركة التأمين وقدرة الوكيل المحلية الحقيقية.</p>\n      <p>قد يسيطر مشتر لديه وكيل شحن مجرب وتغطية باب إلى باب أفضل عبر FOB أو FCA. وقد يبسط بائع يظهر حجزا شفافا وبوليصة نافذة ووكيلا جيدا تنفيذ CIF. يبقى الفحص والإذن والإفراج والعبور والتسجيل التزامات منفصلة لأطراف مسماة.</p>\n      <h2>الأسئلة الشائعة</h2>\n      <h3>هل يشمل CIF إلى ميناء أفريقي النقل الداخلي؟</h3>\n      <p>ليس تلقائيا. يحتاج العبور والحدود والتسليم النهائي إلى سعر ومسؤولية وتأمين مستقل.</p>\n      <h3>هل تقبل الجمارك فاتورة CIF دائما؟</h3>\n      <p>لا. يجوز لكل دولة التحقق من الصفقة أو استعمال طريقة تقييم أخرى يسمح بها قانونها.</p>\n      <h3>هل يصلح جدول كينيا لدولة أخرى؟</h3>\n      <p>لا. إنه يوثق ممارسة كينيا الوطنية فقط.</p>\n      <h3>هل تقارن RoRo والحاوية مباشرة؟</h3>\n      <p>بعد استكمال التجهيز والميناء والتأمين وضبط الضرر حتى النقطة نفسها فقط.</p>\n\n      <h2>المصادر</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Frequently Asked Questions on Customs Valuation</a><span>World Customs Organization · 2026-08-22</span></li>\n        <li><a href=\"https://gra.gov.gh/customs/vehicle-importation/\" target=\"_blank\" rel=\"noopener noreferrer\">Vehicle Importation</a><span>Ghana Revenue Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.kra.go.ke/news-center/public-notices/2223-current-retail-selling-price-crsp-for-used-motor-vehicles\" target=\"_blank\" rel=\"noopener noreferrer\">Current Retail Selling Price for Used Motor Vehicles</a><span>Kenya Revenue Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.kebs.org/import-inspection/\" target=\"_blank\" rel=\"noopener noreferrer\">Import Inspection</a><span>Kenya Bureau of Standards · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/wto-valuation-agreement.aspx?p=1\" target=\"_blank\" rel=\"noopener noreferrer\">WTO Customs Valuation Agreement overview</a><span>World Customs Organization · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/durban-container-port-24747434937-jpg.jpg",
+        "alt": "منظر جوي للحاويات والرافعات والسفن في ميناء ديربان",
+        "caption": "منظر جوي للحاويات والرافعات والسفن في ميناء ديربان. صورة توضيحية، وليست توثيقًا لفحص أو صفقة أجرتها AutoBridge.",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Durban container port (24747434937).jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Durban_container_port_(24747434937).jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Durban_container_port_(24747434937).jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Durban_container_port_%2824747434937%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 2.0",
+        "artist": "Media Club",
+        "credit": "IMC-KZN-00074G",
+        "candidate_description": "Container terminal at the Port of Durban , IMC-KZN-00074G",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "55ac118768810bec3202992960c58d440b5e15766705ec9410be0869e5eff34e",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Durban container terminal, cargo vessels and handling infrastructure match the Africa FOB/CIF logistics guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "zh": {
+      "title": "非洲进口中国汽车：FOB与CIF报价按港口和内陆走廊核对",
+      "seo_title": "非洲进口汽车FOB与CIF报价核验｜港口费、内陆运输与文件",
+      "meta_description": "帮助非洲进口商比较中国汽车FOB与CIF报价，逐项核对装运港、目的港、海运保险、港杂费、内陆走廊、清关文件与风险交接。",
+      "summary": "同一辆车的低CIF总价可能隐藏港口和内陆费用。非洲买家应把报价拆到指定港口、运输走廊和责任交接点再比较。",
+      "eyebrow": "非洲汽车进口成本",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../zh/index.html\">首页</a><span>/</span><a href=\"../../zh/guides/index.html\">采购指南</a><span>/</span><span>非洲进口中国汽车：FOB与CIF报价按港口和内陆走廊核对</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">非洲汽车进口成本</p>\n      <h1>非洲进口中国汽车：FOB与CIF报价按港口和内陆走廊核对</h1>\n      <p class=\"lead\">同一辆车的低CIF总价可能隐藏港口和内陆费用。非洲买家应把报价拆到指定港口、运输走廊和责任交接点再比较。</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/durban-container-port-24747434937-jpg.jpg\" alt=\"德班港集装箱堆场、起重机与船舶的航拍照片\" loading=\"lazy\"><figcaption>德班港集装箱堆场、起重机与船舶的航拍照片. 参考配图，并非 AutoBridge 的检测或交易记录。</figcaption></figure>\n      <h2>先固定同一辆车和同一条路线</h2>\n      <p>比较报价前锁定车型、年款、配置、数量、装运港、目的港和最终交付城市。FOB与CIF只是风险和费用边界，不能纠正车辆身份不同造成的价差。若一个报价到蒙巴萨、另一个到德班，或一个包含内陆运输、另一个停在港区，直接比较总价会得到错误结论。所有供应商应使用同一询价表和同一有效期。</p>\n      <p>车辆配置表应包含可影响运输与税费的尺寸、重量和动力信息，并由供应商确认。若车辆实际重量或状态与订舱资料不符，承运人可能加收费用或拒绝装载。对二手车还要核对是否可运行、燃油或电量、随车物品和清洁要求，把特殊处理费在装船前锁定。</p>\n      <h2>把FOB报价拆到装船完成</h2>\n      <p>FOB核对重点包括裸车价、国内运输、出口服务、报关、码头操作、检验和车辆实际装上指定船舶之前的费用。要求卖方说明是否包含备件、随车文件、港区仓储和延迟产生的费用，并确认风险转移点。买家自行订舱时，还要核实车辆尺寸、是否可运行、滚装或集装箱要求以及承运人接受条件。</p>\n      <p>FOB边界最好用港口节点表示，而不是只引用三个字母。明确车辆何时交给码头、何时视为装船、港区等待由谁承担，以及船期变化如何处理。供应商使用自己的货代时，买家仍应取得可核对的费用和订舱信息，防止出口服务费与港口费重复计收。</p>\n      <h2>核查CIF中的海运和保险</h2>\n      <p>CIF报价应写明目的港、船期依据、运输方式、承运人或订舱渠道、保险范围和免赔条件。最低限度的保险不一定覆盖车辆划伤、盗损、电池事故或延误，买家应索取保单或承保说明，而不是只看到一行保险费。运价有效期、燃油附加费和转运港也要记录，防止出货前以市场变化为由大幅加价。</p>\n      <p>保险金额应与车辆和运费价值相符，受益人、索赔通知期限和所需证据要能执行。滚装船与集装箱的风险不同，车辆内部物品和轻微外观损伤也可能不在承保范围。装船前留存带车辆识别代号的多角度照片，可以提高发生争议时的证据质量。</p>\n      <h2>单列目的港和内陆走廊费用</h2>\n      <p>CIF通常不等于车辆已清关并送达仓库。目的港卸货、码头处理、文件、检验、仓储、滞箱或滞期、进口税费、清关代理和内陆运输可能仍由买家承担。非洲内陆国家尤其要确认过境手续、边境费用、道路限制和运输保险。用当地代理的书面估算把这些项目加入到岸后成本，才能与另一条港口路线公平比较。</p>\n      <p>对内陆走廊应同时评估费用、时间和可靠性。雨季道路、边境拥堵、限重和安全风险都可能改变路线。当地报价要说明油费、过路、护送、边境代理和仓储是否包含，并确认保险覆盖到最终仓库。低价但没有时间和责任说明的内陆报价，不适合用于正式预算。</p>\n      <h2>让文件责任与付款节点对应</h2>\n      <p>商业发票、装箱单、提单、原产地材料、车辆识别代号清单和目的国要求的检验或符合性文件必须在合同中列明责任人和交付时间。付款不要只与车辆离厂绑定，应设置文件草稿复核、装船证据和正本或电子放单条件。文件上的车型名称、数量、重量和收货人不一致，可能造成清关延误和额外仓储。</p>\n      <p>文件草稿应在装船前由进口商与当地代理检查，特别是收货人、通知方、车辆识别代号、货描和价值。修改提单或补发证明会产生时间与费用。若目的国要求装运前检验，应确认机构、预约和证书上传已经完成，不要等船离港后再补做无法追溯的文件。</p>\n      <h2>用总落地成本作出决定</h2>\n      <p>最终比较表至少分为车辆、出口端、国际运输与保险、目的港、税费、内陆运输和风险准备金七栏，并注明哪些数字来自供应商、承运人或当地代理。对尚未确认的费用使用区间而不是填零。若供应商拒绝提供运价依据、保险范围或费用边界，或目的港费用无法核实，应暂停批准，因为一个看似便宜的CIF数字可能只是把成本推迟到到港后。</p>\n      <p>决策表还应保留不同情景：正常清关、船期延误和文件更正。通过情景比较，买家能看到哪条路线对延误最敏感，并选择合理准备金。最终批准的不是最低一行数字，而是一条责任清楚、文件齐全且在不利情况下仍能承受的运输方案。</p>\n      <p>在非洲进口项目中，FOB和CIF的选择没有固定优劣。买家掌握可靠货代和保险资源时，FOB可能更透明；供应商航线更成熟时，CIF可能更省事。决定应来自全链路成本与责任证据，而不是贸易术语本身。</p>\n      <h2>常见问题</h2>\n      <h3>CIF是否包含非洲目的港全部费用？</h3>\n      <p>通常不包含全部费用。卸货、港杂、仓储、清关、税费和内陆运输需按目的港与合同逐项确认。应让承运人或当地代理书面确认，并把日期和适用港口写入成本表。</p>\n      <h3>内陆国家怎样比较不同港口？</h3>\n      <p>分别取得港口、过境、边境、道路运输和保险报价，并比较预计时间、拥堵与文件风险，不能只看海运费。</p>\n      <h3>FOB报价中最容易漏什么？</h3>\n      <p>常见遗漏包括国内拖运、码头操作、检验、仓储、出口文件和无法运行车辆的额外处理费。</p>\n      <h3>报价有效期为什么重要？</h3>\n      <p>海运和附加费可能变化。有效期、调整机制和确认节点不明确，会让下单后的总成本失去可比性。</p>\n\n      <h2>资料来源</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Frequently Asked Questions on Customs Valuation</a><span>World Customs Organization · 2026-08-22</span></li>\n        <li><a href=\"https://gra.gov.gh/customs/vehicle-importation/\" target=\"_blank\" rel=\"noopener noreferrer\">Vehicle Importation</a><span>Ghana Revenue Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.kra.go.ke/news-center/public-notices/2223-current-retail-selling-price-crsp-for-used-motor-vehicles\" target=\"_blank\" rel=\"noopener noreferrer\">Current Retail Selling Price for Used Motor Vehicles</a><span>Kenya Revenue Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.kebs.org/import-inspection/\" target=\"_blank\" rel=\"noopener noreferrer\">Import Inspection</a><span>Kenya Bureau of Standards · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/wto-valuation-agreement.aspx?p=1\" target=\"_blank\" rel=\"noopener noreferrer\">WTO Customs Valuation Agreement overview</a><span>World Customs Organization · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/durban-container-port-24747434937-jpg.jpg",
+        "alt": "德班港集装箱堆场、起重机与船舶的航拍照片",
+        "caption": "德班港集装箱堆场、起重机与船舶的航拍照片. 参考配图，并非 AutoBridge 的检测或交易记录。",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Durban container port (24747434937).jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Durban_container_port_(24747434937).jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Durban_container_port_(24747434937).jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Durban_container_port_%2824747434937%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 2.0",
+        "artist": "Media Club",
+        "credit": "IMC-KZN-00074G",
+        "candidate_description": "Container terminal at the Port of Durban , IMC-KZN-00074G",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "55ac118768810bec3202992960c58d440b5e15766705ec9410be0869e5eff34e",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Durban container terminal, cargo vessels and handling infrastructure match the Africa FOB/CIF logistics guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    }
+  },
+  "revision_history": [
+    {
+      "date": "2026-08-23",
+      "actor": "codex-user-approved-direct-batch",
+      "action": "approved and deployed to production"
+    },
+    {
+      "date": "2026-08-23",
+      "actor": "codex-ai-rebuild",
+      "action": "researched bilingual source and ten-language localization staged for passive review"
+    },
+    {
+      "date": "2026-08-22",
+      "actor": "codex-user-approved-direct-batch",
+      "action": "approved and deployed to production"
+    },
+    {
+      "date": "2026-08-22",
+      "actor": "codex-ai-rebuild",
+      "action": "researched bilingual source and ten-language localization staged for passive review"
+    },
+    {
+      "date": "2026-08-22",
+      "actor": "codex-ai-rebuild",
+      "action": "researched bilingual source and ten-language localization staged for passive review"
+    },
+    {
+      "date": "2026-07-15",
+      "actor": "codex-ai-rebuild",
+      "action": "researched bilingual source and ten-language localization staged for passive review"
+    },
+    {
+      "date": "2026-07-03",
+      "actor": "codex",
+      "action": "enabled French/German and category pinning fields"
+    },
+    {
+      "date": "2026-07-03",
+      "actor": "codex",
+      "action": "extracted current static HTML into structured content source"
+    },
+    {
+      "at": "2026-09-07T11:24:17.534Z",
+      "action": "Recovered complete non-scaffolded bodies in ten locales from a hash-verified historical snapshot. Retained current images, summaries and citations. Current facts and all-language alignment still require review.",
+      "human_reviewed": false
+    },
+    {
+      "at": "2026-09-08T11:02:37.696Z",
+      "action": "Removed repeated Chinese FAQ tails or rewrote three repetitive buyer-task paragraphs. Full review is still pending.",
+      "human_reviewed": false
+    }
+  ],
+  "pinned_in_category": false,
+  "synced_at": "2026-08-23T08:01:23.261Z",
+  "review_deadline_at": "2026-08-26T08:01:23.261Z",
+  "sources": [
+    {
+      "title": "Incoterms 2020 Checklist and Flowcharts",
+      "organization": "International Chamber of Commerce",
+      "url": "https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf",
+      "supports": "FOB and CIF selection, maritime delivery point, main carriage, insurance and the relevance of FCA for containerised cargo.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "Frequently Asked Questions on Customs Valuation",
+      "organization": "World Customs Organization",
+      "url": "https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx",
+      "supports": "Why invoice price need not equal customs value and why national law controls whether freight is included.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "Vehicle Importation",
+      "organization": "Ghana Revenue Authority",
+      "url": "https://gra.gov.gh/customs/vehicle-importation/",
+      "supports": "Ghana's VIN-level vehicle clearing information, documentary needs, treatment of freight and insurance, and CIF-based duty assessment.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "Current Retail Selling Price for Used Motor Vehicles",
+      "organization": "Kenya Revenue Authority",
+      "url": "https://www.kra.go.ke/news-center/public-notices/2223-current-retail-selling-price-crsp-for-used-motor-vehicles",
+      "supports": "Kenya's current CRSP schedule for customs valuation of used vehicles, effective from 1 July 2025.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "Import Inspection",
+      "organization": "Kenya Bureau of Standards",
+      "url": "https://www.kebs.org/import-inspection/",
+      "supports": "Destination-specific import inspection and pre-export verification rather than a continent-wide conformity assumption.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "WTO Customs Valuation Agreement overview",
+      "organization": "World Customs Organization",
+      "url": "https://www.wcoomd.org/en/topics/valuation/overview/wto-valuation-agreement.aspx?p=1",
+      "supports": "Explains transaction value and the ordered alternative valuation methods, which prevents treating a supplier's FOB or CIF label as the customs authority's final value.",
+      "accessed_at": "2026-08-22"
+    }
+  ],
+  "evidence_gaps": [
+    "Africa has no single vehicle import, steering-side, age, emissions, inspection, customs valuation or registration system; the exact destination authority must confirm the current rule for each VIN.",
+    "Ocean and inland-corridor rates, port disbursements, storage, border transit, security and foreign-exchange costs vary by date and route and require live written quotations.",
+    "A CIF named port does not establish cover for inland movement to a landlocked destination, and the policy's territorial limits, battery treatment, deductibles and claims process require direct review.",
+    "Used-vehicle customs values may be tested against official or administrative reference data rather than accepted solely from the supplier invoice; treatment is country-specific.",
+    "RoRo acceptance, container loading, electric-vehicle carriage and damaged-vehicle restrictions remain carrier- and sailing-specific."
+  ],
+  "editorial_angle": "African vehicle importers should compare FOB and CIF quotes through the named port, inland corridor, destination charges and documentary responsibility rather than one headline total.",
+  "editorial": {
+    "policy_version": "2026-08-15",
+    "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+    "author": {
+      "type": "Organization",
+      "name": "AutoBridge Export Editorial Team",
+      "url_path": "/authors/"
+    },
+    "methodology": "document_research_and_procurement_analysis",
+    "evidence": {
+      "level": "documented_sources",
+      "first_hand": false,
+      "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+    },
+    "ai_assistance": {
+      "used": true,
+      "roles": [
+        "research_support",
+        "drafting_support",
+        "translation_support"
+      ],
+      "disclosure_required": true
+    },
+    "review": {
+      "status": "editorial_review_pending",
+      "reviewed_at": null,
+      "reviewer": null,
+      "human_reviewed": false
+    },
+    "previous_review": {
+      "status": "human_reviewed",
+      "reviewed_at": "2026-08-23T08:15:52.290Z",
+      "reviewer": "codex-user-approved-direct-batch",
+      "note": "The publication decision was confirmed in the authenticated editorial workflow."
+    }
+  },
+  "published_at": null,
+  "indexing_state": "quality_hold",
+  "publication_eligible": false,
+  "previous_published_at": "2026-08-23T08:15:52.290Z"
+}

@@ -1,0 +1,229 @@
+{
+  "status": "NEEDS_RESEARCH_NOT_VERIFIED_FACT_SHEET",
+  "candidate_sha256": "65545924a0524c7b9d47b532993e8abb292e86cc1100f5c27f6cf9df81139e21",
+  "search_intent": "vehicle price and quote verification Africa buyer verification",
+  "market": "Africa",
+  "editorial_angle": "A destination-led vehicle price and quote verification decision for Africa, separating identity, authority scope, operating evidence, cost boundaries and stop conditions without assuming prices or specifications.",
+  "sources": [
+    {
+      "title": "Incoterms 2020 Checklist and Flowcharts",
+      "organization": "International Chamber of Commerce",
+      "url": "https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf",
+      "supports": "FOB and CIF selection, maritime delivery point, main carriage, insurance and the relevance of FCA for containerised cargo.",
+      "accessed_at": "2026-07-16"
+    },
+    {
+      "title": "Frequently Asked Questions on Customs Valuation",
+      "organization": "World Customs Organization",
+      "url": "https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx",
+      "supports": "Why invoice price need not equal customs value and why national law controls whether freight is included.",
+      "accessed_at": "2026-07-16"
+    },
+    {
+      "title": "Vehicle Importation",
+      "organization": "Ghana Revenue Authority",
+      "url": "https://gra.gov.gh/customs/vehicle-importation/",
+      "supports": "Ghana's VIN-level vehicle clearing information, documentary needs, treatment of freight and insurance, and CIF-based duty assessment.",
+      "accessed_at": "2026-07-16"
+    },
+    {
+      "title": "Current Retail Selling Price for Used Motor Vehicles",
+      "organization": "Kenya Revenue Authority",
+      "url": "https://www.kra.go.ke/news-center/public-notices/2223-current-retail-selling-price-crsp-for-used-motor-vehicles",
+      "supports": "Kenya's current CRSP schedule for customs valuation of used vehicles, effective from 1 July 2025.",
+      "accessed_at": "2026-07-16"
+    },
+    {
+      "title": "Import Inspection",
+      "organization": "Kenya Bureau of Standards",
+      "url": "https://www.kebs.org/import-inspection/",
+      "supports": "Destination-specific import inspection and pre-export verification rather than a continent-wide conformity assumption.",
+      "accessed_at": "2026-07-16"
+    },
+    {
+      "title": "Logistics Performance Indicators 2.0",
+      "organization": "World Bank",
+      "url": "https://lpi.worldbank.org/en/about",
+      "supports": "Provides country logistics context useful for testing port, border, timeliness and inland-delivery assumptions in landed-cost scenarios.",
+      "accessed_at": "2026-08-26"
+    },
+    {
+      "title": "Customs valuation",
+      "organization": "World Trade Organization",
+      "url": "https://www.wto.org/english/tratop_e/cusval_e/cusval_e.htm",
+      "supports": "Explains the WTO customs-valuation framework relevant when reconciling commercial value, adjustments and the destination customs basis.",
+      "accessed_at": "2026-08-26"
+    }
+  ],
+  "evidence_gaps": [
+    "The exact destination country, importer and registration path must be confirmed for each transaction.",
+    "No live supplier quote, vehicle-specific inspection or transaction record is treated as verified evidence in this guide.",
+    "Model year, trim, production batch, transport lane and authority requirements can change after the stated access date.",
+    "Local tax, port, inland transport, warranty and parts costs remain conditional until written destination evidence is attached."
+  ],
+  "editorial": {
+    "policy_version": "2026-08-15",
+    "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+    "author": {
+      "type": "Organization",
+      "name": "AutoBridge Export Editorial Team",
+      "url_path": "/authors/"
+    },
+    "methodology": "document_research_and_procurement_analysis",
+    "evidence": {
+      "level": "documented_sources",
+      "first_hand": false,
+      "note": "First-hand inspection, transaction or ownership experience is stated only when a dated evidence record is attached."
+    },
+    "ai_assistance": {
+      "used": true,
+      "roles": [
+        "research_support",
+        "drafting_support",
+        "translation_support"
+      ],
+      "disclosure_required": true
+    },
+    "review": {
+      "status": "editorial_review_pending",
+      "reviewed_at": null,
+      "reviewer": null,
+      "human_reviewed": false
+    },
+    "previous_review": {
+      "status": "human_reviewed",
+      "reviewed_at": "2026-08-28T09:06:10.056Z",
+      "reviewer": "codex-user-approved-quality-rebuild-final-sync",
+      "note": "The publication decision was confirmed in the authenticated editorial workflow."
+    }
+  },
+  "source_accessibility": [
+    {
+      "url": "https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf",
+      "used_by": [
+        "fob-cif-quote-check-africa",
+        "fob-cif-quote-check-latin-america",
+        "fob-cif-quote-check-middle-east",
+        "fob-cif-quote-check-southeast-asia",
+        "roro-container-shipping-latin-america",
+        "price-verification-africa"
+      ],
+      "checked_at": "2026-09-08T23:06:46.632Z",
+      "http_status": 206,
+      "final_url": "https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf",
+      "content_type": "application/pdf",
+      "title": "",
+      "received_bytes": 262144,
+      "response_sha256": "6a6fd0494afe7a6c9f8b8a80883404674c97abf89d0ca69a0b3d84940dc65146",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx",
+      "used_by": [
+        "fob-cif-quote-check-africa",
+        "fob-cif-quote-check-latin-america",
+        "fob-cif-quote-check-middle-east",
+        "price-verification-africa"
+      ],
+      "checked_at": "2026-09-08T23:06:50.612Z",
+      "http_status": 200,
+      "final_url": "https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx",
+      "content_type": "text/html; charset=utf-8",
+      "title": " World Customs Organization ",
+      "received_bytes": 51029,
+      "response_sha256": "d8c0e811ddcbe8ff5a366b7955b00e18c55ee11108ad502a97f21564173c02f5",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://gra.gov.gh/customs/vehicle-importation/",
+      "used_by": [
+        "fob-cif-quote-check-africa",
+        "price-verification-africa"
+      ],
+      "checked_at": "2026-09-08T23:06:55.799Z",
+      "http_status": 206,
+      "final_url": "https://gra.gov.gh/customs/vehicle-importation/",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Vehicle Importation &#8211; GRA",
+      "received_bytes": 167306,
+      "response_sha256": "6e36efabc0a6d5f409b7dd0eb25df792cec6bad8a1e512fe54678f09c64ab584",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.kra.go.ke/news-center/public-notices/2223-current-retail-selling-price-crsp-for-used-motor-vehicles",
+      "used_by": [
+        "fob-cif-quote-check-africa",
+        "price-verification-africa"
+      ],
+      "checked_at": "2026-09-08T23:07:00.278Z",
+      "http_status": 200,
+      "final_url": "https://www.kra.go.ke/news-center/public-notices/2223-current-retail-selling-price-crsp-for-used-motor-vehicles",
+      "content_type": "text/html; charset=utf-8",
+      "title": " Current Retail Selling Price (CRSP) for Used Motor Vehicles - KRA ",
+      "received_bytes": 93559,
+      "response_sha256": "87df628bcbbde4824d79d57c4bce4926402b919fe80c551eeec7851e55a16567",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.kebs.org/import-inspection/",
+      "used_by": [
+        "fob-cif-quote-check-africa",
+        "price-verification-africa"
+      ],
+      "checked_at": "2026-09-08T23:07:09.277Z",
+      "http_status": 200,
+      "final_url": "https://www.kebs.org/import-inspection/",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Import Inspection &#8211; Kenya Bureau of Standards",
+      "received_bytes": 383055,
+      "response_sha256": "2c8c9d05a98bf1f8c02105cbf1dce68309a748cd5e6de45026fe278d7295269d",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://lpi.worldbank.org/en/about",
+      "used_by": [
+        "pickup-export-latin-america",
+        "roro-container-shipping-latin-america",
+        "price-verification-africa"
+      ],
+      "checked_at": "2026-09-08T23:08:49.824Z",
+      "http_status": 403,
+      "final_url": "https://lpi.worldbank.org/en/about",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Just a moment...",
+      "received_bytes": 5432,
+      "response_sha256": "7d127f7c38a59c8db90d3f4811f9e2debda14f7d185e95951b9c6a99409bbd77",
+      "transport_error": null,
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.wto.org/english/tratop_e/cusval_e/cusval_e.htm",
+      "used_by": [
+        "roro-container-shipping-latin-america",
+        "price-verification-africa"
+      ],
+      "checked_at": "2026-09-08T23:09:04.641Z",
+      "http_status": 206,
+      "final_url": "https://www.wto.org/english/tratop_e/cusval_e/cusval_e.htm",
+      "content_type": "text/html",
+      "title": "WTO | Customs valuation gateway",
+      "received_bytes": 14273,
+      "response_sha256": "37519793383f103ab23c9b07c796a73eeed5365795f76e8be23bb3bd28c2f1e8",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    }
+  ],
+  "note": "Source supports fields are assertions inherited from the candidate, not new independent factual approval. HTTP success is not claim verification."
+}

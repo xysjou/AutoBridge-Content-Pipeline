@@ -1,0 +1,192 @@
+{
+  "status": "NEEDS_RESEARCH_NOT_VERIFIED_FACT_SHEET",
+  "candidate_sha256": "8a041aef52262084bcc4b991118d5bf0f7b5f915835a4e353493800b6e725ea7",
+  "search_intent": "Choose Chinese SUVs for Southeast Asian countries by steering side, national approval, ASEAN-market safety specification, monsoon use, charging and local service",
+  "market": "Southeast Asia",
+  "editorial_angle": "A Southeast Asia Chinese SUV shortlist should be country-specific and evidence-led, combining registration, monsoon durability, safety, charging or fuel support, parts and resale.",
+  "sources": [
+    {
+      "title": "ASEAN for Business - Automotive Product Mutual Recognition Arrangement",
+      "organization": "ASEAN Secretariat",
+      "url": "https://asean.org/wp-content/uploads/ASEAN-for-Business_March-2021.pdf",
+      "supports": "Scope and phased product coverage of the ASEAN Automotive Product Mutual Recognition Arrangement.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "New Updates in ASEAN NCAP 2026-2030 Assessment and Test Protocols",
+      "organization": "ASEAN NCAP",
+      "url": "https://www.aseancap.org/x/news_post.php?slug=new-updates-in-asean-ncap-2026-2030-assessment-and-test-protocols",
+      "supports": "Current regional safety assessment cycle and updated test protocols.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "About ASEAN NCAP",
+      "organization": "ASEAN NCAP",
+      "url": "https://www.aseancap.org/aboutus",
+      "supports": "Regional rating domains and warning against applying results from another market specification.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "Electric vehicle charging - Global EV Outlook 2026",
+      "organization": "International Energy Agency",
+      "url": "https://www.iea.org/reports/global-ev-outlook-2026/electric-vehicle-charging-chap-6-and-10",
+      "supports": "Different charging-roadmap stages and deployment levels among Southeast Asian markets.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "Search Harmonised Standards in ASEAN",
+      "organization": "ASEAN Trade Repository",
+      "url": "https://atr.asean.org/standards",
+      "supports": "Official route to inspect harmonised standards and national trade information rather than assume uniformity.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "Vehicle Type Approval Application Procedure",
+      "organization": "Road Transport Department Malaysia",
+      "url": "https://www.jpj.gov.my/en/vehicle-type-approval-process-vta/",
+      "supports": "Explains that all new vehicle models require Malaysian VTA before registration and that identity, dimensions, weight, construction and specifications are assessed.",
+      "accessed_at": "2026-08-22"
+    }
+  ],
+  "evidence_gaps": [
+    "The ASEAN automotive product arrangement covers specified components and systems; whole-vehicle admission, registration and taxes remain destination-specific.",
+    "ASEAN NCAP coverage and equipment applicability must be matched to the exact local variant, model year and VIN scope.",
+    "Flood depth, water-damage warranty exclusions and high-voltage inspection procedures require manufacturer and destination-service confirmation.",
+    "Charging access, connector policy, electricity tariffs and incentives vary by country and can change after the fact-check date."
+  ],
+  "editorial": {
+    "policy_version": "2026-08-15",
+    "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+    "author": {
+      "type": "Organization",
+      "name": "AutoBridge Export Editorial Team",
+      "url_path": "/authors/"
+    },
+    "methodology": "document_research_and_procurement_analysis",
+    "evidence": {
+      "level": "documented_sources",
+      "first_hand": false,
+      "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+    },
+    "ai_assistance": {
+      "used": true,
+      "roles": [
+        "research_support",
+        "drafting_support",
+        "translation_support"
+      ],
+      "disclosure_required": true
+    },
+    "review": {
+      "status": "editorial_review_pending",
+      "reviewed_at": null,
+      "reviewer": null,
+      "human_reviewed": false
+    },
+    "previous_review": {
+      "status": "human_reviewed",
+      "reviewed_at": "2026-08-23T08:15:53.662Z",
+      "reviewer": "codex-user-approved-direct-batch",
+      "note": "The publication decision was confirmed in the authenticated editorial workflow."
+    }
+  },
+  "source_accessibility": [
+    {
+      "url": "https://asean.org/wp-content/uploads/ASEAN-for-Business_March-2021.pdf",
+      "used_by": [
+        "best-chinese-suvs-southeast-asia"
+      ],
+      "checked_at": "2026-09-08T23:08:22.097Z",
+      "http_status": 403,
+      "final_url": "https://asean.org/wp-content/uploads/ASEAN-for-Business_March-2021.pdf",
+      "content_type": "text/html",
+      "title": "Sucuri WebSite Firewall - Access Denied",
+      "received_bytes": 2310,
+      "response_sha256": "4e563d1acb5d61693e90621c3e932d4f7060aed374b05ddb8e58d7af1bed47f8",
+      "transport_error": null,
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.aseancap.org/x/news_post.php?slug=new-updates-in-asean-ncap-2026-2030-assessment-and-test-protocols",
+      "used_by": [
+        "best-chinese-suvs-southeast-asia"
+      ],
+      "checked_at": "2026-09-08T23:08:23.602Z",
+      "http_status": 200,
+      "final_url": "https://www.aseancap.org/x/news_post.php?slug=new-updates-in-asean-ncap-2026-2030-assessment-and-test-protocols",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "New Updates in ASEAN NCAP 2026–2030 Assessment and Test Protocols | ASEAN NCAP",
+      "received_bytes": 55808,
+      "response_sha256": "0ad9522ac1a6b5c6e86a52cd718b764e69c06fb8cdb9c050f3a465a52956fd8b",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.aseancap.org/aboutus",
+      "used_by": [
+        "best-chinese-suvs-southeast-asia"
+      ],
+      "checked_at": "2026-09-08T23:08:24.480Z",
+      "http_status": 200,
+      "final_url": "https://www.aseancap.org/aboutus",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "About Us | ASEAN NCAP",
+      "received_bytes": 55252,
+      "response_sha256": "e97e0a3dff3205ba5d168689ca636f5f55ffb342f3a8552c0a933b1df48c3d91",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.iea.org/reports/global-ev-outlook-2026/electric-vehicle-charging-chap-6-and-10",
+      "used_by": [
+        "best-chinese-suvs-southeast-asia"
+      ],
+      "checked_at": "2026-09-08T23:08:25.133Z",
+      "http_status": 403,
+      "final_url": "https://www.iea.org/reports/global-ev-outlook-2026/electric-vehicle-charging-chap-6-and-10",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Just a moment...",
+      "received_bytes": 5697,
+      "response_sha256": "bde7569a8f88ed2325d3fe4138cab60e54cca066a9463da9252232e1807f984c",
+      "transport_error": null,
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    },
+    {
+      "url": "https://atr.asean.org/standards",
+      "used_by": [
+        "best-chinese-suvs-southeast-asia"
+      ],
+      "checked_at": "2026-09-08T23:08:28.673Z",
+      "http_status": 200,
+      "final_url": "https://atr.asean.org/standards",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Search Harmonised Standards in ASEAN - ASEAN Trade Repository",
+      "received_bytes": 67492,
+      "response_sha256": "c27b2785e1da3eb032e0d66648ea341a0b0806602bd5380101964024d19d96f2",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.jpj.gov.my/en/vehicle-type-approval-process-vta/",
+      "used_by": [
+        "best-chinese-suvs-southeast-asia"
+      ],
+      "checked_at": "2026-09-08T23:08:34.282Z",
+      "http_status": 200,
+      "final_url": "https://www.jpj.gov.my/en/vehicle-type-approval-process-vta/",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "VTA Application Procedure - Portal Rasmi JPJ",
+      "received_bytes": 378511,
+      "response_sha256": "7521c566fd0908032b38da8c15c5133088da3747b9acd8e18b1868cf7b34a8d4",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    }
+  ],
+  "note": "Source supports fields are assertions inherited from the candidate, not new independent factual approval. HTTP success is not claim verification."
+}

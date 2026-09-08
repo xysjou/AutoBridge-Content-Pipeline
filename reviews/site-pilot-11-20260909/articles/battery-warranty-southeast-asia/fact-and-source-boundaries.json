@@ -1,0 +1,196 @@
+{
+  "status": "NEEDS_RESEARCH_NOT_VERIFIED_FACT_SHEET",
+  "candidate_sha256": "0fd291de29b00b18de9e272ac7ff9cc519170b33fb16f858cedd7214eeb2f41a",
+  "search_intent": "How Southeast Asian buyers can verify a Chinese EV battery warranty across different national approval systems, tropical conditions, charging standards, flood exposure and archipelago logistics",
+  "market": "Southeast Asia",
+  "editorial_angle": "Southeast Asia battery warranty checks must combine country-specific eligibility with moisture, flood, inter-island logistics and local diagnostic capability.",
+  "sources": [
+    {
+      "title": "ASEAN Guidelines on Light Electric Vehicles",
+      "organization": "Association of Southeast Asian Nations",
+      "url": "https://asean.org/wp-content/uploads/2024/11/ASEAN-Guidelines-LEV_ISBN.pdf",
+      "supports": "Maps differences among ASEAN member states in vehicle approval, charging, battery performance, testing and swapping standards.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "Procedures on Importation and Registration of a Car",
+      "organization": "Singapore Land Transport Authority",
+      "url": "https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/Importation_Guidelines/Car.pdf",
+      "supports": "Provides a destination-specific example of EV import, recognised safety evidence and charging requirements.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "Registration of EV Chargers",
+      "organization": "Singapore Land Transport Authority",
+      "url": "https://www.lta.gov.sg/content/ltagov/en/industry_innovations/technologies/electric_vehicles/regulating_safety_of_ev_chargers/registration-of-ev-chargers.html",
+      "supports": "Shows that charger approval, registration, inspection and maintenance can be locally regulated.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "Electric vehicle batteries – Global EV Outlook 2025",
+      "organization": "International Energy Agency",
+      "url": "https://www.iea.org/reports/global-ev-outlook-2025/electric-vehicle-batteries",
+      "supports": "Reports high LFP adoption and strong Chinese import participation in Southeast Asian EV markets while describing chemistry and cost differences.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "UN GTR No. 22: In-vehicle Battery Durability",
+      "organization": "United Nations Economic Commission for Europe",
+      "url": "https://unece.org/transport/standards/transport/vehicle-regulations-wp29/global-technical-regulations-gtrs",
+      "supports": "Provides durability and health-monitoring concepts without creating uniform ASEAN commercial warranty rights.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "Battery Lifespan",
+      "organization": "National Renewable Energy Laboratory",
+      "url": "https://www.nrel.gov/transportation/battery-lifespan.html",
+      "supports": "Explains environmental, cycling and thermal variables relevant to remaining battery life.",
+      "accessed_at": "2026-08-22"
+    }
+  ],
+  "evidence_gaps": [
+    "Approval, registration, charging, consumer and end-of-life requirements must be confirmed in each ASEAN destination; Singapore and ASEAN guidance do not create a single regional warranty regime.",
+    "Flood classification, warranty exclusion, accepted inspection method and transferability require VIN-specific written confirmation.",
+    "Workshop software, parts stock, ferry or inter-island dangerous-goods transport and replacement-pack availability require local evidence."
+  ],
+  "editorial": {
+    "policy_version": "2026-08-15",
+    "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+    "author": {
+      "type": "Organization",
+      "name": "AutoBridge Export Editorial Team",
+      "url_path": "/authors/"
+    },
+    "methodology": "document_research_and_procurement_analysis",
+    "evidence": {
+      "level": "documented_sources",
+      "first_hand": false,
+      "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+    },
+    "ai_assistance": {
+      "used": true,
+      "roles": [
+        "research_support",
+        "drafting_support",
+        "translation_support"
+      ],
+      "disclosure_required": true
+    },
+    "review": {
+      "status": "editorial_review_pending",
+      "reviewed_at": null,
+      "reviewer": null,
+      "human_reviewed": false
+    },
+    "previous_review": {
+      "status": "ai_reviewed_user_authorized",
+      "reviewed_at": "2026-09-05T06:44:00.617Z",
+      "reviewer": "AI_REVIEWER",
+      "reviewer_commit": "",
+      "content_hash": "",
+      "publication_authorized_by": "codex-final-review-user-confirmed-2026-09-05",
+      "note": "Independent AI review passed and the user authorized publication. This is not a human editorial review."
+    }
+  },
+  "source_accessibility": [
+    {
+      "url": "https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/Importation_Guidelines/Car.pdf",
+      "used_by": [
+        "fob-cif-quote-check-southeast-asia",
+        "battery-warranty-southeast-asia"
+      ],
+      "checked_at": "2026-09-08T23:08:16.925Z",
+      "http_status": 206,
+      "final_url": "https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/Importation_Guidelines/Car.pdf",
+      "content_type": "application/pdf",
+      "title": "",
+      "received_bytes": 262144,
+      "response_sha256": "f940da0a9fad68483d245a3cef7752ba547a599b4ffef521ec9fcbb896529087",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://asean.org/wp-content/uploads/2024/11/ASEAN-Guidelines-LEV_ISBN.pdf",
+      "used_by": [
+        "fob-cif-quote-check-southeast-asia",
+        "battery-warranty-southeast-asia"
+      ],
+      "checked_at": "2026-09-08T23:08:21.390Z",
+      "http_status": 403,
+      "final_url": "https://asean.org/wp-content/uploads/2024/11/ASEAN-Guidelines-LEV_ISBN.pdf",
+      "content_type": "text/html",
+      "title": "Sucuri WebSite Firewall - Access Denied",
+      "received_bytes": 2314,
+      "response_sha256": "de85a183cea893b77e193e45c77d7cf16c3b1fb8f6ab4cf03ce6cd8c33a5a868",
+      "transport_error": null,
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.lta.gov.sg/content/ltagov/en/industry_innovations/technologies/electric_vehicles/regulating_safety_of_ev_chargers/registration-of-ev-chargers.html",
+      "used_by": [
+        "battery-warranty-southeast-asia"
+      ],
+      "checked_at": "2026-09-08T23:08:38.936Z",
+      "http_status": 206,
+      "final_url": "https://www.lta.gov.sg/content/ltagov/en/industry_innovations/technologies/electric_vehicles/regulating_safety_of_ev_chargers/registration-of-ev-chargers.html",
+      "content_type": "text/html",
+      "title": "",
+      "received_bytes": 13591,
+      "response_sha256": "28e7ce3341d51f7f3779fb33bd51a060078773ca441c22a57f0778450e00b691",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.iea.org/reports/global-ev-outlook-2025/electric-vehicle-batteries",
+      "used_by": [
+        "battery-warranty-southeast-asia"
+      ],
+      "checked_at": "2026-09-08T23:08:39.790Z",
+      "http_status": 403,
+      "final_url": "https://www.iea.org/reports/global-ev-outlook-2025/electric-vehicle-batteries",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Just a moment...",
+      "received_bytes": 5637,
+      "response_sha256": "14c60d7ad9fa6be5b11012dd35ba53d4def8074a3da64ff0ce76c7c7f8eb41d5",
+      "transport_error": null,
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    },
+    {
+      "url": "https://unece.org/transport/standards/transport/vehicle-regulations-wp29/global-technical-regulations-gtrs",
+      "used_by": [
+        "battery-warranty-southeast-asia"
+      ],
+      "checked_at": "2026-09-08T23:08:40.689Z",
+      "http_status": 403,
+      "final_url": "https://unece.org/transport/standards/transport/vehicle-regulations-wp29/global-technical-regulations-gtrs",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Just a moment...",
+      "received_bytes": 5757,
+      "response_sha256": "201a9057b1aea288575a57fe2f4dc13a6da841d056906f3115a1711ac23afa93",
+      "transport_error": null,
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.nrel.gov/transportation/battery-lifespan.html",
+      "used_by": [
+        "battery-warranty-southeast-asia"
+      ],
+      "checked_at": "2026-09-08T23:08:41.162Z",
+      "http_status": 0,
+      "final_url": "https://www.nrel.gov/transportation/battery-lifespan.html",
+      "content_type": "",
+      "title": "",
+      "received_bytes": 0,
+      "response_sha256": null,
+      "transport_error": "curl: (6) Could not resolve host: www.nrel.gov\n",
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    }
+  ],
+  "note": "Source supports fields are assertions inherited from the candidate, not new independent factual approval. HTTP success is not claim verification."
+}

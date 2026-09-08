@@ -1,0 +1,998 @@
+{
+  "candidate_sha256": "0fd291de29b00b18de9e272ac7ff9cc519170b33fb16f858cedd7214eeb2f41a",
+  "generated_at": "2026-09-08T23:08:08.678Z",
+  "pages": [
+    {
+      "relative": "en/guides/battery-warranty-southeast-asia.html",
+      "candidate_preview": true,
+      "language": "en",
+      "type": "guides",
+      "slug": "battery-warranty-southeast-asia",
+      "content_key": "guides/battery-warranty-southeast-asia",
+      "canonical": "https://www.autobridgeexport.com/guides/battery-warranty-southeast-asia.html",
+      "title": "Verify EV Battery Warranty Before Import",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/battery-pack-of-an-ev-jpg.jpg",
+        "alt": "Exposed electric-vehicle battery assembly beside a wheel and suspension display",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "ai_reviewed_user_authorized",
+          "reviewed_at": "2026-09-05T06:44:00.617Z",
+          "reviewer": "AI_REVIEWER",
+          "reviewer_commit": "",
+          "content_hash": "",
+          "publication_authorized_by": "codex-final-review-user-confirmed-2026-09-05",
+          "note": "Independent AI review passed and the user authorized publication. This is not a human editorial review."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 1199,
+      "character_count": 6767,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 6,
+      "max_peer_similarity": 0.048,
+      "most_similar_peer": "en/guides/photo-vin-review-southeast-asia.html",
+      "editorial_quality_score": 100,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 20,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 10,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [],
+      "quality_pass": true
+    },
+    {
+      "relative": "fr/guides/battery-warranty-southeast-asia.html",
+      "candidate_preview": true,
+      "language": "fr",
+      "type": "guides",
+      "slug": "battery-warranty-southeast-asia",
+      "content_key": "guides/battery-warranty-southeast-asia",
+      "canonical": "https://fr.autobridgeexport.com/guides/battery-warranty-southeast-asia.html",
+      "title": "Garantie de batterie en Asie du Sud-Est",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/battery-pack-of-an-ev-jpg.jpg",
+        "alt": "Batterie de véhicule électrique ouverte, à côté d’une roue et d’une suspension exposées",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "ai_reviewed_user_authorized",
+          "reviewed_at": "2026-09-05T06:44:00.617Z",
+          "reviewer": "AI_REVIEWER",
+          "reviewer_commit": "",
+          "content_hash": "",
+          "publication_authorized_by": "codex-final-review-user-confirmed-2026-09-05",
+          "note": "Independent AI review passed and the user authorized publication. This is not a human editorial review."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 651,
+      "character_count": 3649,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 6,
+      "max_peer_similarity": 0.643,
+      "most_similar_peer": "fr/guides/spare-parts-plan-southeast-asia.html",
+      "editorial_quality_score": 70,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 0,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 0,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [
+        "high_peer_similarity",
+        "editorial_quality_score_below_85"
+      ],
+      "quality_pass": false
+    },
+    {
+      "relative": "de/guides/battery-warranty-southeast-asia.html",
+      "candidate_preview": true,
+      "language": "de",
+      "type": "guides",
+      "slug": "battery-warranty-southeast-asia",
+      "content_key": "guides/battery-warranty-southeast-asia",
+      "canonical": "https://de.autobridgeexport.com/guides/battery-warranty-southeast-asia.html",
+      "title": "Batteriegarantie in Südostasien",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/battery-pack-of-an-ev-jpg.jpg",
+        "alt": "Offengelegte Elektroauto-Batteriebaugruppe neben einem ausgestellten Rad mit Federung",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "ai_reviewed_user_authorized",
+          "reviewed_at": "2026-09-05T06:44:00.617Z",
+          "reviewer": "AI_REVIEWER",
+          "reviewer_commit": "",
+          "content_hash": "",
+          "publication_authorized_by": "codex-final-review-user-confirmed-2026-09-05",
+          "note": "Independent AI review passed and the user authorized publication. This is not a human editorial review."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 494,
+      "character_count": 3443,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 6,
+      "max_peer_similarity": 0.643,
+      "most_similar_peer": "de/guides/spare-parts-plan-southeast-asia.html",
+      "editorial_quality_score": 70,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 0,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 0,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [
+        "high_peer_similarity",
+        "editorial_quality_score_below_85"
+      ],
+      "quality_pass": false
+    },
+    {
+      "relative": "es/guides/battery-warranty-southeast-asia.html",
+      "candidate_preview": true,
+      "language": "es",
+      "type": "guides",
+      "slug": "battery-warranty-southeast-asia",
+      "content_key": "guides/battery-warranty-southeast-asia",
+      "canonical": "https://es.autobridgeexport.com/guides/battery-warranty-southeast-asia.html",
+      "title": "Garantía de batería en el Sudeste Asiático",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/battery-pack-of-an-ev-jpg.jpg",
+        "alt": "Conjunto de batería de vehículo eléctrico abierto junto a una rueda y una suspensión de exposición",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "ai_reviewed_user_authorized",
+          "reviewed_at": "2026-09-05T06:44:00.617Z",
+          "reviewer": "AI_REVIEWER",
+          "reviewer_commit": "",
+          "content_hash": "",
+          "publication_authorized_by": "codex-final-review-user-confirmed-2026-09-05",
+          "note": "Independent AI review passed and the user authorized publication. This is not a human editorial review."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 587,
+      "character_count": 3361,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 6,
+      "max_peer_similarity": 0.6,
+      "most_similar_peer": "es/guides/spare-parts-plan-southeast-asia.html",
+      "editorial_quality_score": 70,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 0,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 0,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [
+        "high_peer_similarity",
+        "editorial_quality_score_below_85"
+      ],
+      "quality_pass": false
+    },
+    {
+      "relative": "pt-br/guides/battery-warranty-southeast-asia.html",
+      "candidate_preview": true,
+      "language": "pt-br",
+      "type": "guides",
+      "slug": "battery-warranty-southeast-asia",
+      "content_key": "guides/battery-warranty-southeast-asia",
+      "canonical": "https://pt.autobridgeexport.com/guides/battery-warranty-southeast-asia.html",
+      "title": "Garantia de bateria no Sudeste Asiático",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/battery-pack-of-an-ev-jpg.jpg",
+        "alt": "Conjunto de bateria de veículo elétrico aberto ao lado de uma roda e uma suspensão em exposição",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "ai_reviewed_user_authorized",
+          "reviewed_at": "2026-09-05T06:44:00.617Z",
+          "reviewer": "AI_REVIEWER",
+          "reviewer_commit": "",
+          "content_hash": "",
+          "publication_authorized_by": "codex-final-review-user-confirmed-2026-09-05",
+          "note": "Independent AI review passed and the user authorized publication. This is not a human editorial review."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 560,
+      "character_count": 3247,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 6,
+      "max_peer_similarity": 0.643,
+      "most_similar_peer": "pt-br/guides/spare-parts-plan-southeast-asia.html",
+      "editorial_quality_score": 70,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 0,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 0,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [
+        "high_peer_similarity",
+        "editorial_quality_score_below_85"
+      ],
+      "quality_pass": false
+    },
+    {
+      "relative": "ja/guides/battery-warranty-southeast-asia.html",
+      "candidate_preview": true,
+      "language": "ja",
+      "type": "guides",
+      "slug": "battery-warranty-southeast-asia",
+      "content_key": "guides/battery-warranty-southeast-asia",
+      "canonical": "https://ja.autobridgeexport.com/guides/battery-warranty-southeast-asia.html",
+      "title": "東南アジアの電池保証",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/battery-pack-of-an-ev-jpg.jpg",
+        "alt": "車輪とサスペンションの展示物に隣接する電気自動車の電池内部",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "ai_reviewed_user_authorized",
+          "reviewed_at": "2026-09-05T06:44:00.617Z",
+          "reviewer": "AI_REVIEWER",
+          "reviewer_commit": "",
+          "content_hash": "",
+          "publication_authorized_by": "codex-final-review-user-confirmed-2026-09-05",
+          "note": "Independent AI review passed and the user authorized publication. This is not a human editorial review."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 219,
+      "character_count": 1724,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 6,
+      "max_peer_similarity": 0.643,
+      "most_similar_peer": "ja/guides/spare-parts-plan-southeast-asia.html",
+      "editorial_quality_score": 55,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 0,
+        "buyer_task_coverage": 0,
+        "authorship_and_transparency": 15,
+        "uniqueness": 0,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [
+        "content_too_thin",
+        "high_peer_similarity",
+        "editorial_quality_score_below_85"
+      ],
+      "quality_pass": false
+    },
+    {
+      "relative": "ko/guides/battery-warranty-southeast-asia.html",
+      "candidate_preview": true,
+      "language": "ko",
+      "type": "guides",
+      "slug": "battery-warranty-southeast-asia",
+      "content_key": "guides/battery-warranty-southeast-asia",
+      "canonical": "https://ko.autobridgeexport.com/guides/battery-warranty-southeast-asia.html",
+      "title": "동남아시아 배터리 보증",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/battery-pack-of-an-ev-jpg.jpg",
+        "alt": "휠과 서스펜션 전시물 옆에 내부가 드러난 전기차 배터리 장치",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "ai_reviewed_user_authorized",
+          "reviewed_at": "2026-09-05T06:44:00.617Z",
+          "reviewer": "AI_REVIEWER",
+          "reviewer_commit": "",
+          "content_hash": "",
+          "publication_authorized_by": "codex-final-review-user-confirmed-2026-09-05",
+          "note": "Independent AI review passed and the user authorized publication. This is not a human editorial review."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 435,
+      "character_count": 1595,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 6,
+      "max_peer_similarity": 0.643,
+      "most_similar_peer": "ko/guides/spare-parts-plan-southeast-asia.html",
+      "editorial_quality_score": 55,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 0,
+        "buyer_task_coverage": 0,
+        "authorship_and_transparency": 15,
+        "uniqueness": 0,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [
+        "content_too_thin",
+        "high_peer_similarity",
+        "editorial_quality_score_below_85"
+      ],
+      "quality_pass": false
+    },
+    {
+      "relative": "vi/guides/battery-warranty-southeast-asia.html",
+      "candidate_preview": true,
+      "language": "vi",
+      "type": "guides",
+      "slug": "battery-warranty-southeast-asia",
+      "content_key": "guides/battery-warranty-southeast-asia",
+      "canonical": "https://vi.autobridgeexport.com/guides/battery-warranty-southeast-asia.html",
+      "title": "Bảo hành pin tại Đông Nam Á",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/battery-pack-of-an-ev-jpg.jpg",
+        "alt": "Cụm pin xe điện được mở để trưng bày cạnh bánh xe và hệ thống treo",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "ai_reviewed_user_authorized",
+          "reviewed_at": "2026-09-05T06:44:00.617Z",
+          "reviewer": "AI_REVIEWER",
+          "reviewer_commit": "",
+          "content_hash": "",
+          "publication_authorized_by": "codex-final-review-user-confirmed-2026-09-05",
+          "note": "Independent AI review passed and the user authorized publication. This is not a human editorial review."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 715,
+      "character_count": 2727,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 6,
+      "max_peer_similarity": 0.643,
+      "most_similar_peer": "vi/guides/spare-parts-plan-southeast-asia.html",
+      "editorial_quality_score": 70,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 0,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 0,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [
+        "high_peer_similarity",
+        "editorial_quality_score_below_85"
+      ],
+      "quality_pass": false
+    },
+    {
+      "relative": "th/guides/battery-warranty-southeast-asia.html",
+      "candidate_preview": true,
+      "language": "th",
+      "type": "guides",
+      "slug": "battery-warranty-southeast-asia",
+      "content_key": "guides/battery-warranty-southeast-asia",
+      "canonical": "https://th.autobridgeexport.com/guides/battery-warranty-southeast-asia.html",
+      "title": "การรับประกันแบตเตอรี่ในเอเชียตะวันออกเฉียงใต้",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/battery-pack-of-an-ev-jpg.jpg",
+        "alt": "ชุดแบตเตอรี่รถยนต์ไฟฟ้าที่เปิดให้เห็นภายใน จัดแสดงข้างล้อและระบบกันสะเทือน",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "ai_reviewed_user_authorized",
+          "reviewed_at": "2026-09-05T06:44:00.617Z",
+          "reviewer": "AI_REVIEWER",
+          "reviewer_commit": "",
+          "content_hash": "",
+          "publication_authorized_by": "codex-final-review-user-confirmed-2026-09-05",
+          "note": "Independent AI review passed and the user authorized publication. This is not a human editorial review."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 601,
+      "character_count": 2817,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 6,
+      "max_peer_similarity": 0.643,
+      "most_similar_peer": "th/guides/spare-parts-plan-southeast-asia.html",
+      "editorial_quality_score": 70,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 0,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 0,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [
+        "high_peer_similarity",
+        "editorial_quality_score_below_85"
+      ],
+      "quality_pass": false
+    },
+    {
+      "relative": "id/guides/battery-warranty-southeast-asia.html",
+      "candidate_preview": true,
+      "language": "id",
+      "type": "guides",
+      "slug": "battery-warranty-southeast-asia",
+      "content_key": "guides/battery-warranty-southeast-asia",
+      "canonical": "https://id.autobridgeexport.com/guides/battery-warranty-southeast-asia.html",
+      "title": "Garansi baterai di Asia Tenggara",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/battery-pack-of-an-ev-jpg.jpg",
+        "alt": "Rakitan baterai mobil listrik terbuka di samping pajangan roda dan suspensi",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "ai_reviewed_user_authorized",
+          "reviewed_at": "2026-09-05T06:44:00.617Z",
+          "reviewer": "AI_REVIEWER",
+          "reviewer_commit": "",
+          "content_hash": "",
+          "publication_authorized_by": "codex-final-review-user-confirmed-2026-09-05",
+          "note": "Independent AI review passed and the user authorized publication. This is not a human editorial review."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 512,
+      "character_count": 3284,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 6,
+      "max_peer_similarity": 0.643,
+      "most_similar_peer": "id/guides/spare-parts-plan-southeast-asia.html",
+      "editorial_quality_score": 70,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 0,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 0,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [
+        "high_peer_similarity",
+        "editorial_quality_score_below_85"
+      ],
+      "quality_pass": false
+    },
+    {
+      "relative": "ar/guides/battery-warranty-southeast-asia.html",
+      "candidate_preview": true,
+      "language": "ar",
+      "type": "guides",
+      "slug": "battery-warranty-southeast-asia",
+      "content_key": "guides/battery-warranty-southeast-asia",
+      "canonical": "https://ar.autobridgeexport.com/guides/battery-warranty-southeast-asia.html",
+      "title": "ضمان البطارية في جنوب شرق آسيا",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/battery-pack-of-an-ev-jpg.jpg",
+        "alt": "مجموعة بطارية سيارة كهربائية مكشوفة بجوار عجلة ونظام تعليق معروضين",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "ai_reviewed_user_authorized",
+          "reviewed_at": "2026-09-05T06:44:00.617Z",
+          "reviewer": "AI_REVIEWER",
+          "reviewer_commit": "",
+          "content_hash": "",
+          "publication_authorized_by": "codex-final-review-user-confirmed-2026-09-05",
+          "note": "Independent AI review passed and the user authorized publication. This is not a human editorial review."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 478,
+      "character_count": 2585,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 6,
+      "max_peer_similarity": 0.643,
+      "most_similar_peer": "ar/guides/spare-parts-plan-southeast-asia.html",
+      "editorial_quality_score": 70,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 0,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 0,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [
+        "high_peer_similarity",
+        "editorial_quality_score_below_85"
+      ],
+      "quality_pass": false
+    },
+    {
+      "relative": "zh/guides/battery-warranty-southeast-asia.html",
+      "candidate_preview": true,
+      "language": "zh",
+      "type": "guides",
+      "slug": "battery-warranty-southeast-asia",
+      "content_key": "guides/battery-warranty-southeast-asia",
+      "canonical": "https://zh.autobridgeexport.com/guides/battery-warranty-southeast-asia.html",
+      "title": "东南亚电动车电池质保：先建立交易证据，再比较价格或方案",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/battery-pack-of-an-ev-jpg.jpg",
+        "alt": "车轮与悬架展品旁展示的电动车电池内部结构",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "ai_reviewed_user_authorized",
+          "reviewed_at": "2026-09-05T06:44:00.617Z",
+          "reviewer": "AI_REVIEWER",
+          "reviewer_commit": "",
+          "content_hash": "",
+          "publication_authorized_by": "codex-final-review-user-confirmed-2026-09-05",
+          "note": "Independent AI review passed and the user authorized publication. This is not a human editorial review."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 268,
+      "character_count": 2545,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 6,
+      "max_peer_similarity": 0,
+      "most_similar_peer": null,
+      "editorial_quality_score": 100,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 20,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 10,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [],
+      "quality_pass": true
+    }
+  ]
+}

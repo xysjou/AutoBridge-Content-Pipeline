@@ -1,0 +1,645 @@
+{
+  "schema_version": "1.0",
+  "type": "buyer_guide",
+  "slug": "battery-warranty-southeast-asia",
+  "source_language": "zh",
+  "status": "quality_hold",
+  "canonical_path": "/en/guides/battery-warranty-southeast-asia.html",
+  "search_intent": "How Southeast Asian buyers can verify a Chinese EV battery warranty across different national approval systems, tropical conditions, charging standards, flood exposure and archipelago logistics",
+  "market": "Southeast Asia",
+  "image": {
+    "src": "../../assets/editorial/battery-pack-of-an-ev-jpg.jpg",
+    "alt": "Exposed electric-vehicle battery assembly beside a wheel and suspension display",
+    "caption": "Exposed electric-vehicle battery assembly beside a wheel and suspension display. Reference photograph, not a record of an AutoBridge inspection or transaction.",
+    "wiki_title": "Lithium-ion battery",
+    "review_note": "Image description corrected; full article review and publication approval remain pending.",
+    "wiki_file_title": "Battery pack of an EV.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Battery_pack_of_an_EV.jpg",
+    "source_file_page": "https://commons.wikimedia.org/wiki/File:Battery_pack_of_an_EV.jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Battery_pack_of_an_EV.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "license": "CC BY-SA 4.0",
+    "artist": "Mugel2110",
+    "credit": "Own work",
+    "candidate_description": "Battery pack of an EV",
+    "identity_status": "confirmed_topic_match",
+    "identity_reviewed": true,
+    "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+    "identity_reviewer": "codex-ai-visual-review",
+    "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+    "asset_sha256": "ac83119d38f58948f3b5464c48be2ea89d4a0c32e79d4debe5042fc89326e207",
+    "evidence_scope": "reference_illustration_not_first_hand",
+    "previous_identity_review": {
+      "status": "confirmed_model_match",
+      "note": "Visual review confirmed a road-vehicle high-voltage battery pack and drivetrain assembly, matching this EV battery warranty guide."
+    }
+  },
+  "translations": {
+    "en": {
+      "title": "Verify EV Battery Warranty Before Import",
+      "seo_title": "EV Battery Warranty in Southeast Asia: Buyer Checks",
+      "meta_description": "Before importing an EV to Southeast Asia, verify warranty start date, territory, transferability, exclusions, battery evidence and the claim route.",
+      "summary": "For EV battery warranty in Southeast Asia, the buying decision starts with one concrete transaction. The practical aim is to separate the written warranty entitlement from the physical condition of the battery. Name the country first because steering side, registration, emissions/tax treatment, port routing and charging or fuel conditions can differ across southeast asia. Keep source evidence, destination confirmation and live commercial data in separate layers so a buyer can see which conclusions are proved and which still depend on the actual deal.",
+      "eyebrow": "EV sourcing for Southeast Asian markets",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../en/index.html\">Home</a><span>/</span><a href=\"../../en/guides/index.html\">Guides</a><span>/</span><span>Verify EV Battery Warranty Before Import</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">EV sourcing for Southeast Asian markets</p>\n      <h1>Verify EV Battery Warranty Before Import</h1>\n      <p class=\"lead\">For EV battery warranty in Southeast Asia, the buying decision starts with one concrete transaction. The practical aim is to separate the written warranty entitlement from the physical condition of the battery. Name the country first because steering side, registration, emissions/tax treatment, port routing and charging or fuel conditions can differ across southeast asia. Keep source evidence, destination confirmation and live commercial data in separate layers so a buyer can see which conclusions are proved and which still depend on the actual deal.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/battery-pack-of-an-ev-jpg.jpg\" alt=\"Exposed electric-vehicle battery assembly beside a wheel and suspension display\" loading=\"lazy\"><figcaption>Exposed electric-vehicle battery assembly beside a wheel and suspension display. Reference photograph, not a record of an AutoBridge inspection or transaction.</figcaption></figure>\n      <h2>Warranty is a contract before it is a battery-health claim</h2>\n      <p>Start by writing the transaction boundary in plain language. For EV battery warranty in Southeast Asia, that means the exact vehicle or shipment plus the named destination country and route. Name the country first because steering side, registration, emissions/tax treatment, port routing and charging or fuel conditions can differ across southeast asia. The regional page is therefore a map of questions, not a substitute for a national rule. If a claim belongs to one market, port, authority or manufacturer document, keep that scope visible beside the claim instead of turning it into a regional average.</p>\n      <h2>Battery warranty: build the country-and-route decision file</h2>\n      <p>Turn the buying decision into a live worksheet before payment. Write the Southeast Asia destination and the exact transaction at the top, then copy only the decision-changing fields from vehicle/VIN, warranty territory, in-service or warranty start date, transferability, coverage terms, exclusions, battery-health evidence and the party that can accept a claim. Beside each field, record the evidence source, date and owner. Add one row for the failure case—a low-mileage EV is advertised with a long battery warranty, but the seller cannot show that the warranty transfers or can be claimed in the destination—and state what proof would prevent it. Finally, record the current commercial items that must be refreshed: keep country-specific rules, port schedules, route costs, charging/fuel access and service promises dated and local. This exercise prevents a static regional assumption from taking over: the verification framework supplies the method, while the buyer&#39;s file carries the country, vehicle, route and quote that exist today.</p>\n      <h2>Separate physical battery evidence from written coverage</h2>\n      <p>The strongest proof for this file is dated manufacturer or warranty material for the named market plus VIN-linked service and battery evidence. Keep it attached to the exact transaction. Photographs, brochures, authority pages and quotations answer different questions, so do not combine their authority. A visible feature does not prove local approval; a local rule does not prove the vehicle&#39;s hidden specification. Separate evidence by function.</p>\n      <h2>Compare new promises with VIN-linked history</h2>\n      <p>The cold-review question is not whether the offer looks professional. It is whether the file can survive this scenario: a low-mileage EV is advertised with a long battery warranty, but the seller cannot show that the warranty transfers or can be claimed in the destination. Ask a second reviewer to trace the answer to evidence. Any decision-changing assumption that remains invisible becomes a stop item or a written commercial risk.</p>\n      <h2>Use the destination to test whether coverage is usable</h2>\n      <p>A destination-fit review for EV battery warranty should examine steering/version fit, tropical use, charging or fuel interface, port/transshipment route, registration and local workshop support. In Southeast Asia, also trace the source-market unit through the actual country, port or transshipment path to registration and service. None of this creates a single regional rule. It simply ensures that the transaction survives contact with the named country, port, route and support network.</p>\n      <h2>Make warranty transferability a transaction field</h2>\n      <p>Before negotiating, rebuild both alternatives around warranty territory, remaining term, transferability, battery-condition evidence, charging history where available and the practical claim route. Any row that appears in only one file becomes a question. Any row supported by a different scope becomes conditional. This method makes the commercial conversation much cleaner because the buyer can negotiate a known difference instead of a vague headline total.</p>\n      <h2>Map who can actually accept a battery claim</h2>\n      <p>For this topic, the buyer&#39;s real job is to separate the written warranty entitlement from the physical condition of the battery. The evidence set should cover vehicle/VIN, warranty territory, in-service or warranty start date, transferability, coverage terms, exclusions, battery-health evidence and the party that can accept a claim. Put each field into one of three states: confirmed, conditional or missing. That makes uncertainty visible before price or convenience starts to dominate the decision, and it gives the seller a precise request instead of an open-ended demand for &#39;more documents. &#39;</p>\n      <h2>Keep coverage dates and exclusions live</h2>\n      <p>The Southeast Asia decision record stays useful by avoiding false permanence. Keep country-specific rules, port schedules, route costs, charging/fuel access and service promises dated and local. The transaction file should show when each live item was checked and by whom. This prevents a once-current detail from becoming an outdated promise while preserving the reusable decision logic.</p>\n      <h2>When warranty uncertainty should stop payment</h2>\n      <p>Before paying, establish whether the imported vehicle has battery coverage that can actually be used at its destination. If it does not, obtain a condition assessment and a priced repair route. Pause the purchase if neither option gives the buyer a defensible limit on battery risk.</p>\n      <h2>Evidence required before country and route release</h2>\n      <p>EV battery warranty / Southeast Asia: exact vehicle or shipment identity</p>\n      <p>EV battery warranty / Southeast Asia: vehicle/VIN and other decision-changing fields</p>\n      <p>EV battery warranty / Southeast Asia: dated evidence for the claimed scope</p>\n      <p>EV battery warranty / Southeast Asia: destination-country or route confirmation kept separate</p>\n      <p>EV battery warranty / Southeast Asia: commercial inclusions, exclusions and validity</p>\n      <p>EV battery warranty / Southeast Asia: written list of unresolved material items and responsible party</p>\n      <h2>Frequently asked questions</h2>\n      <h3>Does ASEAN provide one EV battery warranty?</h3>\n      <p>No. Commercial coverage, approval and consumer remedies remain destination- and brand-specific.</p>\n      <h3>Is a normal dashboard enough after flooding?</h3>\n      <p>No. Isolate the vehicle and inspect insulation, seals, connectors and faults with high-voltage competence.</p>\n      <h3>Does a matching plug guarantee charging?</h3>\n      <p>No. Protocol, power, earthing, approval and operator access can still differ.</p>\n      <h3>Does coverage transfer on a parallel-import resale?</h3>\n      <p>Only if the responsible entity confirms it for the VIN and destination.</p>\n      <h3>What is easily missed in an archipelago?</h3>\n      <p>Ferry, dangerous-goods storage, carrier and old-pack return routes. Obtain written confirmation from the responsible authority or service provider in the destination country.</p>\n\n      <h2>Sources</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://asean.org/wp-content/uploads/2024/11/ASEAN-Guidelines-LEV_ISBN.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">ASEAN Guidelines on Light Electric Vehicles</a><span>Association of Southeast Asian Nations · 2026-08-22</span></li>\n        <li><a href=\"https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/Importation_Guidelines/Car.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Procedures on Importation and Registration of a Car</a><span>Singapore Land Transport Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.lta.gov.sg/content/ltagov/en/industry_innovations/technologies/electric_vehicles/regulating_safety_of_ev_chargers/registration-of-ev-chargers.html\" target=\"_blank\" rel=\"noopener noreferrer\">Registration of EV Chargers</a><span>Singapore Land Transport Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.iea.org/reports/global-ev-outlook-2025/electric-vehicle-batteries\" target=\"_blank\" rel=\"noopener noreferrer\">Electric vehicle batteries – Global EV Outlook 2025</a><span>International Energy Agency · 2026-08-22</span></li>\n        <li><a href=\"https://unece.org/transport/standards/transport/vehicle-regulations-wp29/global-technical-regulations-gtrs\" target=\"_blank\" rel=\"noopener noreferrer\">UN GTR No. 22: In-vehicle Battery Durability</a><span>United Nations Economic Commission for Europe · 2026-08-22</span></li>\n        <li><a href=\"https://www.nrel.gov/transportation/battery-lifespan.html\" target=\"_blank\" rel=\"noopener noreferrer\">Battery Lifespan</a><span>National Renewable Energy Laboratory · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "word_count": 795,
+      "reading_time_minutes": 4,
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/battery-pack-of-an-ev-jpg.jpg",
+        "alt": "Exposed electric-vehicle battery assembly beside a wheel and suspension display",
+        "caption": "Exposed electric-vehicle battery assembly beside a wheel and suspension display. Reference photograph, not a record of an AutoBridge inspection or transaction.",
+        "wiki_title": "Lithium-ion battery",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Battery pack of an EV.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Battery_pack_of_an_EV.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Battery_pack_of_an_EV.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Battery_pack_of_an_EV.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 4.0",
+        "artist": "Mugel2110",
+        "credit": "Own work",
+        "candidate_description": "Battery pack of an EV",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "ac83119d38f58948f3b5464c48be2ea89d4a0c32e79d4debe5042fc89326e207",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visual review confirmed a road-vehicle high-voltage battery pack and drivetrain assembly, matching this EV battery warranty guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "fr": {
+      "title": "Garantie de batterie en Asie du Sud-Est",
+      "seo_title": "Garantie en Asie du Sud-Est : humidité, inondation et réparation",
+      "meta_description": "Contrôler pays, exposition à l'eau, recharge, logiciels et logistique insulaire.",
+      "summary": "La garantie doit relier le véhicule au pays et à un parcours réel de diagnostic et de transport.",
+      "eyebrow": "Importation en Asie du Sud-Est",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../fr/index.html\">Accueil</a><span>/</span><a href=\"../../fr/guides/index.html\">Guides</a><span>/</span><span>Garantie de batterie en Asie du Sud-Est</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">Importation en Asie du Sud-Est</p>\n      <h1>Garantie de batterie en Asie du Sud-Est</h1>\n      <p class=\"lead\">La garantie doit relier le véhicule au pays et à un parcours réel de diagnostic et de transport.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/battery-pack-of-an-ev-jpg.jpg\" alt=\"Batterie de véhicule électrique ouverte, à côté d’une roue et d’une suspension exposées\" loading=\"lazy\"><figcaption>Batterie de véhicule électrique ouverte, à côté d’une roue et d’une suspension exposées. Photo d’illustration, et non compte rendu d’une inspection ou d’une transaction AutoBridge.</figcaption></figure>\n      <h2>Destination précise</h2>\n      <p>Les lignes directrices ASEAN montrent des différences nationales. Singapour est un exemple, pas une règle régionale; homologation et service sont confirmés dans chaque destination.</p>\n      <h2>Responsabilité</h2>\n      <p>Avec le numéro d&#39;identification, confirmez importation parallèle, transfert, seuil, atelier et langue. Le contrat répartit remorquage, ferry, stockage, fret dangereux et immobilisation.</p>\n      <h2>Dossier et inondation</h2>\n      <p>Reliez les données brutes, températures, tensions, isolation, refroidissement et dessous de caisse au véhicule. Toute immersion exige isolation et inspection haute tension, pas un simple nettoyage.</p>\n      <h2>Charge et logiciels</h2>\n      <p>Testez les chargeurs réels, protocole, terre, puissance et paiement. Vérifiez accès au logiciel constructeur, mises à jour et capacité de déposer une réclamation locale.</p>\n      <h2>Îles et saison humide</h2>\n      <p>Identifiez atelier, pièces, emballage, ferry, port et reprise de l&#39;ancienne batterie. Commencez par un lot suivi pendant la saison humide et arrêtez en l&#39;absence de route sûre.</p>\n      <h2>Dossier de mousson et d&#39;îles</h2>\n      <p>Conservez par véhicule les données de charge, trajet, eau, alertes, limitation et immobilisation. En cas d&#39;eau, isolez avant de contrôler isolation, joints, connecteurs et défauts; un écran normal ne recrée pas l&#39;historique. Avant chaque mousson, vérifiez atelier, logiciel, ferry, stockage, emballage et transporteur, puis obtenez une nouvelle confirmation lors d&#39;un changement de propriétaire.</p>\n      <h2>Protocole de réception pour mousson et îles</h2>\n      <p>Avant le départ, créez pour chaque numéro de châssis un dossier d&#39;état comprenant photographies du soubassement et des connecteurs, résistance d&#39;isolement, températures, niveau de charge, codes défauts et fonctionnement du refroidissement. Refaites les mêmes contrôles immédiatement après le port, avant tout nettoyage qui pourrait effacer une trace d&#39;eau salée ou de boue. Une voiture suspecte est isolée et examinée par une personne qualifiée ; l&#39;absence de voyant au tableau de bord ne remplace pas un contrôle haute tension documenté.</p>\n      <p>Testez la voiture avec les bornes réellement utilisées au pays de destination : communication, mise à la terre, puissance soutenue, mode de paiement et reprise après coupure. Vérifiez aussi le compte utilisateur, les mises à jour, la langue locale et le transfert au prochain propriétaire. Les paiements au fournisseur sont liés au dossier de départ, aux photographies de chargement, à l&#39;inspection d&#39;arrivée et à un essai local réussi, afin qu&#39;une moyenne de lot ne masque pas une unité endommagée.</p>\n      <p>Avant la saison des pluies, faites un exercice complet entre atelier, remorqueur, port ou ferry, transporteur habilité et destination de la batterie déposée. Confirmez les heures d&#39;ouverture, les restrictions de traversée, le stockage sûr et la disponibilité des pièces pour les villes secondaires ou les îles. Si l&#39;une de ces étapes n&#39;est pas démontrée par écrit, limitez le premier lot, conservez une retenue de paiement ou choisissez une zone desservie avant d&#39;étendre la flotte.</p>\n      <h2>Questions fréquentes</h2>\n      <h3>ASEAN offre-t-elle une garantie unique ?</h3>\n      <p>Non.</p>\n      <h3>Un tableau normal suffit-il après inondation ?</h3>\n      <p>Non, une inspection haute tension est nécessaire.</p>\n      <h3>Même prise signifie-t-elle compatibilité ?</h3>\n      <p>Non, protocole et protection peuvent différer.</p>\n      <h3>Que manque-t-il souvent sur une île ?</h3>\n      <p>Le transport sûr et le retour de l&#39;ancienne batterie.</p>\n\n      <h2>Sources</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://asean.org/wp-content/uploads/2024/11/ASEAN-Guidelines-LEV_ISBN.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">ASEAN Guidelines on Light Electric Vehicles</a><span>Association of Southeast Asian Nations · 2026-08-22</span></li>\n        <li><a href=\"https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/Importation_Guidelines/Car.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Procedures on Importation and Registration of a Car</a><span>Singapore Land Transport Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.lta.gov.sg/content/ltagov/en/industry_innovations/technologies/electric_vehicles/regulating_safety_of_ev_chargers/registration-of-ev-chargers.html\" target=\"_blank\" rel=\"noopener noreferrer\">Registration of EV Chargers</a><span>Singapore Land Transport Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.iea.org/reports/global-ev-outlook-2025/electric-vehicle-batteries\" target=\"_blank\" rel=\"noopener noreferrer\">Electric vehicle batteries – Global EV Outlook 2025</a><span>International Energy Agency · 2026-08-22</span></li>\n        <li><a href=\"https://unece.org/transport/standards/transport/vehicle-regulations-wp29/global-technical-regulations-gtrs\" target=\"_blank\" rel=\"noopener noreferrer\">UN GTR No. 22: In-vehicle Battery Durability</a><span>United Nations Economic Commission for Europe · 2026-08-22</span></li>\n        <li><a href=\"https://www.nrel.gov/transportation/battery-lifespan.html\" target=\"_blank\" rel=\"noopener noreferrer\">Battery Lifespan</a><span>National Renewable Energy Laboratory · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/battery-pack-of-an-ev-jpg.jpg",
+        "alt": "Batterie de véhicule électrique ouverte, à côté d’une roue et d’une suspension exposées",
+        "caption": "Batterie de véhicule électrique ouverte, à côté d’une roue et d’une suspension exposées. Photo d’illustration, et non compte rendu d’une inspection ou d’une transaction AutoBridge.",
+        "wiki_title": "Lithium-ion battery",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Battery pack of an EV.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Battery_pack_of_an_EV.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Battery_pack_of_an_EV.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Battery_pack_of_an_EV.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 4.0",
+        "artist": "Mugel2110",
+        "credit": "Own work",
+        "candidate_description": "Battery pack of an EV",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "ac83119d38f58948f3b5464c48be2ea89d4a0c32e79d4debe5042fc89326e207",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visual review confirmed a road-vehicle high-voltage battery pack and drivetrain assembly, matching this EV battery warranty guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "de": {
+      "title": "Batteriegarantie in Südostasien",
+      "seo_title": "Südostasien: Feuchte, Überflutung und Reparatur",
+      "meta_description": "Prüfung von Land, Wasserverlauf, Laden, Software und Insellogistik.",
+      "summary": "Die Garantie muss Fahrzeug, Zielstaat und einen ausführbaren Diagnose- und Transportweg verbinden.",
+      "eyebrow": "Import nach Südostasien",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../de/index.html\">Startseite</a><span>/</span><a href=\"../../de/guides/index.html\">Leitfäden</a><span>/</span><span>Batteriegarantie in Südostasien</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">Import nach Südostasien</p>\n      <h1>Batteriegarantie in Südostasien</h1>\n      <p class=\"lead\">Die Garantie muss Fahrzeug, Zielstaat und einen ausführbaren Diagnose- und Transportweg verbinden.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/battery-pack-of-an-ev-jpg.jpg\" alt=\"Offengelegte Elektroauto-Batteriebaugruppe neben einem ausgestellten Rad mit Federung\" loading=\"lazy\"><figcaption>Offengelegte Elektroauto-Batteriebaugruppe neben einem ausgestellten Rad mit Federung. Beispielfoto, kein Nachweis einer Prüfung oder eines Geschäfts von AutoBridge.</figcaption></figure>\n      <h2>Genaues Ziel</h2>\n      <p>ASEAN-Leitlinien zeigen nationale Unterschiede. Singapur ist Beispiel, keine Regionsregel; Zulassung und Service sind je Ziel zu bestätigen.</p>\n      <h2>Verantwortung</h2>\n      <p>Bestätigen Sie für die Fahrzeug-Identifizierungsnummer Parallelimport, Übertragung, Schwelle, Werkstatt und Sprache. Der Vertrag verteilt Abschleppen, Fähre, Lagerung, Gefahrgutfracht und Stillstand.</p>\n      <h2>Akte und Wasser</h2>\n      <p>Ordnen Sie Rohdaten, Temperaturen, Spannungen, Isolation, Kühlung und Unterboden dem Fahrzeug zu. Nach Wasserkontakt sind Isolation und Hochvoltprüfung nötig, nicht nur Reinigung.</p>\n      <h2>Laden und Software</h2>\n      <p>Testen Sie echte Ladegeräte, Protokoll, Erdung, Leistung und Zahlung. Prüfen Sie Herstellerzugang, Updates und örtliche Anspruchseröffnung.</p>\n      <h2>Inseln und Regenzeit</h2>\n      <p>Ermitteln Sie Werkstatt, Teile, Verpackung, Fähre, Hafen und Altbatterierücknahme. Starten Sie kontrolliert durch eine Regenzeit und stoppen Sie ohne sicheren Weg.</p>\n      <h2>Monsun- und Inselakte</h2>\n      <p>Speichern Sie je Fahrzeug Laden, Route, Wasser, Warnungen, Leistungsbegrenzung und Stillstand. Nach Wasserkontakt zuerst isolieren und Isolation, Dichtungen, Stecker und Fehler prüfen; eine normale Anzeige ersetzt den Verlauf nicht. Vor jedem Monsun Werkstatt, Software, Fähre, Lagerung, Verpackung und Transporteur prüfen und bei Eigentumswechsel Übertragung neu bestätigen.</p>\n      <h2>Abnahmeverfahren für Monsun und Inseln</h2>\n      <p>Vor der Abfahrt erhält jede Fahrgestellnummer eine Zustandsakte mit Bildern von Unterboden und Steckern, Isolationswert, Temperaturen, Ladezustand, Fehlercodes und Kühlfunktion. Dieselben Prüfungen erfolgen unmittelbar nach dem Hafen und vor jeder Reinigung, die Spuren von Salzwasser oder Schlamm beseitigen könnte. Ein verdächtiges Fahrzeug wird abgesondert und von einer qualifizierten Person untersucht; eine fehlende Warnanzeige ersetzt keine dokumentierte Hochvoltprüfung.</p>\n      <p>Das Fahrzeug wird an den im Zielland tatsächlich genutzten Ladepunkten geprüft: Kommunikation, Erdung, dauerhafte Leistung, Zahlung und Wiederanlauf nach Stromausfall. Ebenso werden Nutzerkonto, Aktualisierungen, Landessprache und Übergabe an den nächsten Eigentümer kontrolliert. Zahlungen an den Lieferanten werden an Ausgangsakte, Ladebilder, Eingangsprüfung und bestandenen Ortstest gebunden, damit ein Durchschnittswert keinen Schaden an einem einzelnen Fahrzeug verdeckt.</p>\n      <p>Vor der Regenzeit wird der gesamte Weg zwischen Werkstatt, Abschleppdienst, Hafen oder Fähre, befugtem Beförderer und Empfänger der ausgebauten Batterie erprobt. Öffnungszeiten, Überfahrtsbeschränkungen, sichere Lagerung und Teileversorgung für kleinere Städte oder Inseln werden schriftlich bestätigt. Ist ein Glied nicht nachgewiesen, bleibt die erste Menge klein, ein Teil der Zahlung wird einbehalten oder zunächst ein Gebiet mit gesichertem Service gewählt.</p>\n      <h2>Häufige Fragen</h2>\n      <h3>Gibt es eine ASEAN-Garantie?</h3>\n      <p>Nein.</p>\n      <h3>Reicht normale Anzeige nach Überflutung?</h3>\n      <p>Nein, Hochvoltprüfung ist nötig.</p>\n      <h3>Bedeutet gleicher Stecker Kompatibilität?</h3>\n      <p>Nein, Protokoll und Schutz können abweichen.</p>\n      <h3>Was fehlt oft auf Inseln?</h3>\n      <p>Sicherer Transport und Rücknahme.</p>\n\n      <h2>Quellen</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://asean.org/wp-content/uploads/2024/11/ASEAN-Guidelines-LEV_ISBN.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">ASEAN Guidelines on Light Electric Vehicles</a><span>Association of Southeast Asian Nations · 2026-08-22</span></li>\n        <li><a href=\"https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/Importation_Guidelines/Car.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Procedures on Importation and Registration of a Car</a><span>Singapore Land Transport Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.lta.gov.sg/content/ltagov/en/industry_innovations/technologies/electric_vehicles/regulating_safety_of_ev_chargers/registration-of-ev-chargers.html\" target=\"_blank\" rel=\"noopener noreferrer\">Registration of EV Chargers</a><span>Singapore Land Transport Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.iea.org/reports/global-ev-outlook-2025/electric-vehicle-batteries\" target=\"_blank\" rel=\"noopener noreferrer\">Electric vehicle batteries – Global EV Outlook 2025</a><span>International Energy Agency · 2026-08-22</span></li>\n        <li><a href=\"https://unece.org/transport/standards/transport/vehicle-regulations-wp29/global-technical-regulations-gtrs\" target=\"_blank\" rel=\"noopener noreferrer\">UN GTR No. 22: In-vehicle Battery Durability</a><span>United Nations Economic Commission for Europe · 2026-08-22</span></li>\n        <li><a href=\"https://www.nrel.gov/transportation/battery-lifespan.html\" target=\"_blank\" rel=\"noopener noreferrer\">Battery Lifespan</a><span>National Renewable Energy Laboratory · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/battery-pack-of-an-ev-jpg.jpg",
+        "alt": "Offengelegte Elektroauto-Batteriebaugruppe neben einem ausgestellten Rad mit Federung",
+        "caption": "Offengelegte Elektroauto-Batteriebaugruppe neben einem ausgestellten Rad mit Federung. Beispielfoto, kein Nachweis einer Prüfung oder eines Geschäfts von AutoBridge.",
+        "wiki_title": "Lithium-ion battery",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Battery pack of an EV.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Battery_pack_of_an_EV.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Battery_pack_of_an_EV.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Battery_pack_of_an_EV.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 4.0",
+        "artist": "Mugel2110",
+        "credit": "Own work",
+        "candidate_description": "Battery pack of an EV",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "ac83119d38f58948f3b5464c48be2ea89d4a0c32e79d4debe5042fc89326e207",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visual review confirmed a road-vehicle high-voltage battery pack and drivetrain assembly, matching this EV battery warranty guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "es": {
+      "title": "Garantía de batería en el Sudeste Asiático",
+      "seo_title": "Sudeste Asiático: humedad, inundación y reparación",
+      "meta_description": "Control de país, agua, carga, programas y logística insular.",
+      "summary": "La garantía debe unir vehículo, destino y una ruta real de diagnóstico y transporte.",
+      "eyebrow": "Importación al Sudeste Asiático",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../es/index.html\">Inicio</a><span>/</span><a href=\"../../es/guides/index.html\">Guías</a><span>/</span><span>Garantía de batería en el Sudeste Asiático</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">Importación al Sudeste Asiático</p>\n      <h1>Garantía de batería en el Sudeste Asiático</h1>\n      <p class=\"lead\">La garantía debe unir vehículo, destino y una ruta real de diagnóstico y transporte.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/battery-pack-of-an-ev-jpg.jpg\" alt=\"Conjunto de batería de vehículo eléctrico abierto junto a una rueda y una suspensión de exposición\" loading=\"lazy\"><figcaption>Conjunto de batería de vehículo eléctrico abierto junto a una rueda y una suspensión de exposición. Fotografía ilustrativa; no documenta una inspección ni una operación de AutoBridge.</figcaption></figure>\n      <h2>Destino exacto</h2>\n      <p>Las guías ASEAN muestran diferencias nacionales. Singapur es ejemplo, no regla regional; aprobación y servicio se confirman por destino.</p>\n      <h2>Responsabilidad</h2>\n      <p>Por número de identificación confirme importación paralela, transferencia, umbral, taller e idioma. El contrato reparte grúa, ferry, almacén, carga peligrosa y parada.</p>\n      <h2>Expediente e inundación</h2>\n      <p>Vincule datos brutos, temperaturas, voltajes, aislamiento, refrigeración y bajos al vehículo. Tras contacto con agua hacen falta aislamiento e inspección de alta tensión, no solo limpieza.</p>\n      <h2>Carga y programas</h2>\n      <p>Pruebe cargadores reales, protocolo, tierra, potencia y pago. Verifique acceso al programa del fabricante, actualizaciones y reclamación local.</p>\n      <h2>Islas y temporada húmeda</h2>\n      <p>Identifique taller, piezas, embalaje, ferry, puerto y devolución. Empiece con lote seguido durante temporada húmeda y pare sin ruta segura.</p>\n      <h2>Expediente de monzón e islas</h2>\n      <p>Guarde por vehículo carga, ruta, agua, alertas, limitación y parada. Tras contacto con agua, aísle antes de revisar aislamiento, sellos, conectores y fallos; un tablero normal no reconstruye el historial. Antes de cada monzón compruebe taller, programas, ferry, almacén, embalaje y transportista, y confirme de nuevo al cambiar propietario.</p>\n      <h2>Protocolo de recepción para monzón e islas</h2>\n      <p>Antes de la salida se crea para cada número de chasis un expediente de estado con fotografías de bajos y conectores, resistencia de aislamiento, temperaturas, nivel de carga, códigos de fallo y funcionamiento de refrigeración. Los mismos controles se repiten al salir del puerto y antes de cualquier limpieza que pueda borrar señales de agua salada o lodo. Un vehículo sospechoso se aísla y lo examina personal cualificado; la ausencia de una alerta en el tablero no sustituye una revisión de alta tensión documentada.</p>\n      <p>El vehículo se prueba con los cargadores que se usarán realmente en el país de destino: comunicación, puesta a tierra, potencia sostenida, pago y reinicio tras un corte. También se comprueban cuenta de usuario, actualizaciones, idioma local y transferencia al siguiente propietario. Los pagos al proveedor se vinculan al expediente de salida, fotografías de carga, inspección de llegada y ensayo local satisfactorio, para que el promedio del lote no oculte una unidad dañada.</p>\n      <p>Antes de la temporada de lluvias se ensaya la ruta completa entre taller, grúa, puerto o transbordador, transportista habilitado y receptor de la batería retirada. Se confirman horarios, limitaciones del cruce, almacenamiento seguro y piezas para ciudades secundarias o islas. Si un paso no queda demostrado por escrito, se limita el primer lote, se retiene una parte del pago o se elige primero una zona con servicio confirmado antes de ampliar la flota.</p>\n      <h2>Preguntas frecuentes</h2>\n      <h3>¿Existe una garantía ASEAN única?</h3>\n      <p>No.</p>\n      <h3>¿Basta un tablero normal tras inundación?</h3>\n      <p>No, se necesita inspección de alta tensión.</p>\n      <h3>¿Mismo enchufe significa compatibilidad?</h3>\n      <p>No, protocolo y protección pueden variar.</p>\n      <h3>¿Qué suele faltar en islas?</h3>\n      <p>Transporte seguro y devolución.</p>\n\n      <h2>Fuentes</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://asean.org/wp-content/uploads/2024/11/ASEAN-Guidelines-LEV_ISBN.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">ASEAN Guidelines on Light Electric Vehicles</a><span>Association of Southeast Asian Nations · 2026-08-22</span></li>\n        <li><a href=\"https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/Importation_Guidelines/Car.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Procedures on Importation and Registration of a Car</a><span>Singapore Land Transport Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.lta.gov.sg/content/ltagov/en/industry_innovations/technologies/electric_vehicles/regulating_safety_of_ev_chargers/registration-of-ev-chargers.html\" target=\"_blank\" rel=\"noopener noreferrer\">Registration of EV Chargers</a><span>Singapore Land Transport Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.iea.org/reports/global-ev-outlook-2025/electric-vehicle-batteries\" target=\"_blank\" rel=\"noopener noreferrer\">Electric vehicle batteries – Global EV Outlook 2025</a><span>International Energy Agency · 2026-08-22</span></li>\n        <li><a href=\"https://unece.org/transport/standards/transport/vehicle-regulations-wp29/global-technical-regulations-gtrs\" target=\"_blank\" rel=\"noopener noreferrer\">UN GTR No. 22: In-vehicle Battery Durability</a><span>United Nations Economic Commission for Europe · 2026-08-22</span></li>\n        <li><a href=\"https://www.nrel.gov/transportation/battery-lifespan.html\" target=\"_blank\" rel=\"noopener noreferrer\">Battery Lifespan</a><span>National Renewable Energy Laboratory · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/battery-pack-of-an-ev-jpg.jpg",
+        "alt": "Conjunto de batería de vehículo eléctrico abierto junto a una rueda y una suspensión de exposición",
+        "caption": "Conjunto de batería de vehículo eléctrico abierto junto a una rueda y una suspensión de exposición. Fotografía ilustrativa; no documenta una inspección ni una operación de AutoBridge.",
+        "wiki_title": "Lithium-ion battery",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Battery pack of an EV.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Battery_pack_of_an_EV.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Battery_pack_of_an_EV.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Battery_pack_of_an_EV.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 4.0",
+        "artist": "Mugel2110",
+        "credit": "Own work",
+        "candidate_description": "Battery pack of an EV",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "ac83119d38f58948f3b5464c48be2ea89d4a0c32e79d4debe5042fc89326e207",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visual review confirmed a road-vehicle high-voltage battery pack and drivetrain assembly, matching this EV battery warranty guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "pt-br": {
+      "title": "Garantia de bateria no Sudeste Asiático",
+      "seo_title": "Sudeste Asiático: umidade, inundação e reparo",
+      "meta_description": "Verificação de país, água, recarga, programas e logística insular.",
+      "summary": "A garantia deve ligar veículo, destino e rota real de diagnóstico e transporte.",
+      "eyebrow": "Importação ao Sudeste Asiático",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../pt-br/index.html\">Início</a><span>/</span><a href=\"../../pt-br/guides/index.html\">Guias</a><span>/</span><span>Garantia de bateria no Sudeste Asiático</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">Importação ao Sudeste Asiático</p>\n      <h1>Garantia de bateria no Sudeste Asiático</h1>\n      <p class=\"lead\">A garantia deve ligar veículo, destino e rota real de diagnóstico e transporte.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/battery-pack-of-an-ev-jpg.jpg\" alt=\"Conjunto de bateria de veículo elétrico aberto ao lado de uma roda e uma suspensão em exposição\" loading=\"lazy\"><figcaption>Conjunto de bateria de veículo elétrico aberto ao lado de uma roda e uma suspensão em exposição. Foto ilustrativa; não documenta uma inspeção ou transação da AutoBridge.</figcaption></figure>\n      <h2>Destino exato</h2>\n      <p>As diretrizes ASEAN mostram diferenças nacionais. Singapura é exemplo, não regra regional; aprovação e serviço são confirmados por destino.</p>\n      <h2>Responsabilidade</h2>\n      <p>Pelo número de identificação confirme importação paralela, transferência, limite, oficina e idioma. O contrato divide guincho, balsa, estoque, carga perigosa e parada.</p>\n      <h2>Dossiê e inundação</h2>\n      <p>Ligue dados brutos, temperaturas, tensões, isolamento, refrigeração e assoalho ao veículo. Após contato com água são necessários isolamento e inspeção de alta tensão, não só limpeza.</p>\n      <h2>Recarga e programas</h2>\n      <p>Teste carregadores reais, protocolo, terra, potência e pagamento. Verifique acesso ao programa da fabricante, atualizações e reclamação local.</p>\n      <h2>Ilhas e estação chuvosa</h2>\n      <p>Identifique oficina, peças, embalagem, balsa, porto e devolução. Comece com lote acompanhado na estação chuvosa e pare sem rota segura.</p>\n      <h2>Dossiê de monção e ilhas</h2>\n      <p>Guarde por veículo recarga, rota, água, alertas, limitação e parada. Após contato com água, isole antes de verificar isolamento, vedação, conectores e falhas; painel normal não reconstrói o histórico. Antes de cada monção, confira oficina, programas, balsa, estoque, embalagem e transportador e renove a confirmação ao mudar proprietário.</p>\n      <h2>Protocolo de recebimento para monção e ilhas</h2>\n      <p>Antes da partida, crie para cada número de chassi um dossiê de condição com fotos da parte inferior e conectores, resistência de isolamento, temperaturas, nível de carga, códigos de falha e funcionamento do resfriamento. Repita os mesmos controles logo após o porto e antes de qualquer limpeza que possa apagar sinais de água salgada ou lama. Um veículo suspeito deve ser isolado e examinado por pessoa qualificada; a ausência de aviso no painel não substitui uma verificação documentada de alta tensão.</p>\n      <p>Teste o veículo nos carregadores realmente usados no país de destino: comunicação, aterramento, potência mantida, pagamento e reinício após falta de energia. Verifique também conta do usuário, atualizações, idioma local e transferência ao próximo proprietário. Vincule os pagamentos ao fornecedor ao dossiê de saída, fotos de carregamento, inspeção de chegada e teste local aprovado, impedindo que a média do lote esconda dano em uma unidade.</p>\n      <p>Antes da estação chuvosa, ensaie o trajeto completo entre oficina, guincho, porto ou balsa, transportador autorizado e receptor da bateria removida. Confirme horários, restrições de travessia, armazenamento seguro e peças para cidades secundárias ou ilhas. Se uma etapa não tiver comprovação escrita, limite o primeiro lote, retenha parte do pagamento ou escolha inicialmente uma área com serviço confirmado antes de ampliar a frota.</p>\n      <h2>Perguntas frequentes</h2>\n      <h3>Existe garantia ASEAN única?</h3>\n      <p>Não.</p>\n      <h3>Painel normal basta após inundação?</h3>\n      <p>Não, é preciso inspeção de alta tensão.</p>\n      <h3>Mesmo plugue garante compatibilidade?</h3>\n      <p>Não, protocolo e proteção variam.</p>\n      <h3>O que falta nas ilhas?</h3>\n      <p>Transporte seguro e devolução.</p>\n\n      <h2>Fontes</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://asean.org/wp-content/uploads/2024/11/ASEAN-Guidelines-LEV_ISBN.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">ASEAN Guidelines on Light Electric Vehicles</a><span>Association of Southeast Asian Nations · 2026-08-22</span></li>\n        <li><a href=\"https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/Importation_Guidelines/Car.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Procedures on Importation and Registration of a Car</a><span>Singapore Land Transport Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.lta.gov.sg/content/ltagov/en/industry_innovations/technologies/electric_vehicles/regulating_safety_of_ev_chargers/registration-of-ev-chargers.html\" target=\"_blank\" rel=\"noopener noreferrer\">Registration of EV Chargers</a><span>Singapore Land Transport Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.iea.org/reports/global-ev-outlook-2025/electric-vehicle-batteries\" target=\"_blank\" rel=\"noopener noreferrer\">Electric vehicle batteries – Global EV Outlook 2025</a><span>International Energy Agency · 2026-08-22</span></li>\n        <li><a href=\"https://unece.org/transport/standards/transport/vehicle-regulations-wp29/global-technical-regulations-gtrs\" target=\"_blank\" rel=\"noopener noreferrer\">UN GTR No. 22: In-vehicle Battery Durability</a><span>United Nations Economic Commission for Europe · 2026-08-22</span></li>\n        <li><a href=\"https://www.nrel.gov/transportation/battery-lifespan.html\" target=\"_blank\" rel=\"noopener noreferrer\">Battery Lifespan</a><span>National Renewable Energy Laboratory · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/battery-pack-of-an-ev-jpg.jpg",
+        "alt": "Conjunto de bateria de veículo elétrico aberto ao lado de uma roda e uma suspensão em exposição",
+        "caption": "Conjunto de bateria de veículo elétrico aberto ao lado de uma roda e uma suspensão em exposição. Foto ilustrativa; não documenta uma inspeção ou transação da AutoBridge.",
+        "wiki_title": "Lithium-ion battery",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Battery pack of an EV.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Battery_pack_of_an_EV.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Battery_pack_of_an_EV.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Battery_pack_of_an_EV.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 4.0",
+        "artist": "Mugel2110",
+        "credit": "Own work",
+        "candidate_description": "Battery pack of an EV",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "ac83119d38f58948f3b5464c48be2ea89d4a0c32e79d4debe5042fc89326e207",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visual review confirmed a road-vehicle high-voltage battery pack and drivetrain assembly, matching this EV battery warranty guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "ja": {
+      "title": "東南アジアの電池保証",
+      "seo_title": "東南アジア：湿度・浸水・修理",
+      "meta_description": "国、浸水、充電、ソフト、島しょ物流を確認します。",
+      "summary": "車両、仕向国、実行可能な診断と輸送を保証で結びます。",
+      "eyebrow": "東南アジア輸入",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../ja/index.html\">ホーム</a><span>/</span><a href=\"../../ja/guides/index.html\">購入ガイド</a><span>/</span><span>東南アジアの電池保証</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">東南アジア輸入</p>\n      <h1>東南アジアの電池保証</h1>\n      <p class=\"lead\">車両、仕向国、実行可能な診断と輸送を保証で結びます。</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/battery-pack-of-an-ev-jpg.jpg\" alt=\"車輪とサスペンションの展示物に隣接する電気自動車の電池内部\" loading=\"lazy\"><figcaption>車輪とサスペンションの展示物に隣接する電気自動車の電池内部. 参考写真です。AutoBridgeによる検査や取引の記録ではありません。</figcaption></figure>\n      <h2>正確な仕向地</h2>\n      <p>ASEAN 指針は国別差を示します。シンガポールは一例で地域共通規則ではなく、承認と整備を仕向地ごとに確認します。</p>\n      <h2>責任</h2>\n      <p>車台番号で並行輸入、譲渡、基準、工場、言語を確認します。牽引、船、保管、危険物、停止費用を契約で分けます。連絡先の法人名、回答日、判断根拠も保存し、口頭だけの約束を支払条件にしません。</p>\n      <h2>記録と浸水</h2>\n      <p>元データ、温度、電圧、絶縁、冷却、床下を車両に結びます。浸水後は清掃だけでなく隔離と高電圧検査が必要です。測定器、時刻、担当者と原データも残し、到着後に同じ方法で変化を比較できるようにします。</p>\n      <h2>充電とソフト</h2>\n      <p>実充電器で通信、接地、出力、支払を試します。メーカーソフト、更新、現地請求への接続も確認します。接続時刻と結果を車台番号に結び、別の車両や別の充電器の結果を流用しません。</p>\n      <h2>島と雨季</h2>\n      <p>工場、部品、梱包、船、港、回収を特定します。雨季を通じ少量追跡し、安全経路がなければ中止します。連絡担当者と代替経路を文書化し、欠航や道路寸断が起きた場合の保管先も確認します。</p>\n      <h2>雨季と島しょの記録</h2>\n      <p>車両別に充電、経路、冠水、警告、出力制限、停止を保存します。水接触後はまず隔離し、絶縁、密封、端子、故障を調べます。正常表示だけでは過去を復元できません。雨季前に工場、ソフト、船、保管、梱包、運送者を再確認し、所有者変更時は保証承継も再確認します。</p>\n      <h2>雨季と島しょ向け受入れ手順</h2>\n      <p>出発前に車台番号ごとの状態記録を作り、床下と端子の写真、絶縁値、温度、充電量、故障コード、冷却作動を原データで保存します。港から搬出した直後、塩水や泥の痕跡を清掃する前に同じ点検を繰り返します。疑わしい車両は隔離して高電圧作業の有資格者が調べ、警告灯がないことだけを安全や無損傷の証拠にはしません。</p>\n      <p>仕向国で実際に使う充電器に接続し、通信、接地、連続出力、決済、停電後の再開を確認します。利用者口座、更新、現地語表示、次の所有者への移管も試します。支払は出発記録、積載写真、到着検査、現地試験の合格に連動させ、ロット平均によって一台の損傷が隠れない条件にします。</p>\n      <p>雨季前に、工場、けん引、港またはフェリー、適切な輸送者、取り外した電池の受入先まで一連の動きを演習します。営業時間、渡航制限、安全な保管、地方都市や島への部品供給を書面確認します。証明できない工程があれば、初回台数を抑えるか、支払の一部を留保するか、サービスが確認できる地域から運用を始めます。</p>\n      <h2>よくある質問</h2>\n      <h3>ASEAN 共通保証はありますか。</h3>\n      <p>ありません。</p>\n      <h3>浸水後に表示正常なら十分ですか。</h3>\n      <p>いいえ、高電圧検査が必要です。</p>\n      <h3>同じ端子なら充電できますか。</h3>\n      <p>通信と保護が異なる場合があります。</p>\n      <h3>島で見落とす点は何ですか。</h3>\n      <p>安全輸送と旧電池回収です。</p>\n\n      <h2>情報源</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://asean.org/wp-content/uploads/2024/11/ASEAN-Guidelines-LEV_ISBN.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">ASEAN Guidelines on Light Electric Vehicles</a><span>Association of Southeast Asian Nations · 2026-08-22</span></li>\n        <li><a href=\"https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/Importation_Guidelines/Car.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Procedures on Importation and Registration of a Car</a><span>Singapore Land Transport Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.lta.gov.sg/content/ltagov/en/industry_innovations/technologies/electric_vehicles/regulating_safety_of_ev_chargers/registration-of-ev-chargers.html\" target=\"_blank\" rel=\"noopener noreferrer\">Registration of EV Chargers</a><span>Singapore Land Transport Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.iea.org/reports/global-ev-outlook-2025/electric-vehicle-batteries\" target=\"_blank\" rel=\"noopener noreferrer\">Electric vehicle batteries – Global EV Outlook 2025</a><span>International Energy Agency · 2026-08-22</span></li>\n        <li><a href=\"https://unece.org/transport/standards/transport/vehicle-regulations-wp29/global-technical-regulations-gtrs\" target=\"_blank\" rel=\"noopener noreferrer\">UN GTR No. 22: In-vehicle Battery Durability</a><span>United Nations Economic Commission for Europe · 2026-08-22</span></li>\n        <li><a href=\"https://www.nrel.gov/transportation/battery-lifespan.html\" target=\"_blank\" rel=\"noopener noreferrer\">Battery Lifespan</a><span>National Renewable Energy Laboratory · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/battery-pack-of-an-ev-jpg.jpg",
+        "alt": "車輪とサスペンションの展示物に隣接する電気自動車の電池内部",
+        "caption": "車輪とサスペンションの展示物に隣接する電気自動車の電池内部. 参考写真です。AutoBridgeによる検査や取引の記録ではありません。",
+        "wiki_title": "Lithium-ion battery",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Battery pack of an EV.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Battery_pack_of_an_EV.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Battery_pack_of_an_EV.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Battery_pack_of_an_EV.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 4.0",
+        "artist": "Mugel2110",
+        "credit": "Own work",
+        "candidate_description": "Battery pack of an EV",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "ac83119d38f58948f3b5464c48be2ea89d4a0c32e79d4debe5042fc89326e207",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visual review confirmed a road-vehicle high-voltage battery pack and drivetrain assembly, matching this EV battery warranty guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "ko": {
+      "title": "동남아시아 배터리 보증",
+      "seo_title": "동남아시아: 습도·침수·수리",
+      "meta_description": "국가, 침수, 충전, 프로그램과 섬 물류를 확인합니다.",
+      "summary": "차량, 목적국, 실행 가능한 진단과 운송을 보증으로 연결합니다.",
+      "eyebrow": "동남아시아 수입",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../ko/index.html\">홈</a><span>/</span><a href=\"../../ko/guides/index.html\">구매 가이드</a><span>/</span><span>동남아시아 배터리 보증</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">동남아시아 수입</p>\n      <h1>동남아시아 배터리 보증</h1>\n      <p class=\"lead\">차량, 목적국, 실행 가능한 진단과 운송을 보증으로 연결합니다.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/battery-pack-of-an-ev-jpg.jpg\" alt=\"휠과 서스펜션 전시물 옆에 내부가 드러난 전기차 배터리 장치\" loading=\"lazy\"><figcaption>휠과 서스펜션 전시물 옆에 내부가 드러난 전기차 배터리 장치. 참고 사진이며 AutoBridge의 검사 또는 거래 기록이 아닙니다.</figcaption></figure>\n      <h2>정확한 목적지</h2>\n      <p>ASEAN 지침은 국가 차이를 보여 줍니다. 싱가포르는 사례일 뿐 지역 공통 규칙이 아니며 승인과 정비를 목적지별 확인합니다.</p>\n      <h2>책임</h2>\n      <p>차대번호로 병행수입, 승계, 기준, 정비소와 언어를 확인합니다. 견인, 선박, 보관, 위험물과 정지 비용을 계약에 나눕니다.</p>\n      <h2>기록과 침수</h2>\n      <p>원본 자료, 온도, 전압, 절연, 냉각과 하부를 차량에 연결합니다. 침수 후에는 청소뿐 아니라 격리와 고전압 검사가 필요합니다.</p>\n      <h2>충전과 프로그램</h2>\n      <p>실제 충전기에서 통신, 접지, 출력과 결제를 시험합니다. 제조사 프로그램, 갱신과 현지 청구 연결도 확인합니다.</p>\n      <h2>섬과 우기</h2>\n      <p>정비소, 부품, 포장, 선박, 항구와 회수를 찾습니다. 우기 동안 소량을 추적하고 안전 경로가 없으면 중단합니다.</p>\n      <h2>우기와 섬 운송 기록</h2>\n      <p>차량별 충전, 경로, 침수, 경고, 출력 제한과 정지를 보관합니다. 물 접촉 후 먼저 격리하고 절연, 밀봉, 단자와 고장을 검사합니다. 정상 표시만으로 과거가 복원되지 않습니다. 우기 전 정비소, 프로그램, 선박, 보관, 포장과 운송사를 재확인하고 소유자 변경 때 승계도 다시 확인합니다.</p>\n      <h2>우기와 섬 지역 인수 절차</h2>\n      <p>출발 전에 차대번호별 상태 기록을 만들고 하부와 단자의 사진, 절연값, 온도, 충전량, 고장 코드와 냉각 작동을 원본으로 저장합니다. 항구에서 반출한 직후 소금물이나 진흙 흔적을 씻기 전에 같은 점검을 반복합니다. 의심 차량은 격리하고 고전압 작업 자격자가 검사하며, 계기판 경고가 없다는 사실만으로 안전하거나 손상이 없다고 판단하지 않습니다.</p>\n      <p>목적국에서 실제 사용할 충전기에 연결해 통신, 접지, 지속 출력, 결제와 정전 뒤 재시작을 확인합니다. 사용자 계정, 갱신, 현지어 표시와 다음 소유자에게 이전되는 절차도 시험합니다. 공급자 지급은 출발 기록, 적재 사진, 도착 검사와 현지 시험 합격에 연결해 묶음 평균이 한 차량의 손상을 가리지 못하게 합니다.</p>\n      <p>우기 전에 정비소, 견인, 항구 또는 여객선, 적절한 운송업체와 제거한 배터리의 인수처까지 전 과정을 연습합니다. 운영 시간, 선적 제한, 안전 보관과 지방 도시나 섬의 부품 공급을 서면으로 확인합니다. 입증되지 않은 단계가 있으면 첫 물량을 줄이거나 지급 일부를 유보하거나 서비스가 확인된 지역부터 운행을 시작합니다. 확인서에는 담당 법인, 비상 연락처, 답변 날짜와 다음 우기 전 재점검 시점을 기록해 노선이나 운송 조건이 바뀌었을 때 즉시 갱신합니다.</p>\n      <h2>자주 묻는 질문</h2>\n      <h3>ASEAN 공통 보증이 있습니까?</h3>\n      <p>없습니다.</p>\n      <h3>침수 후 표시가 정상이면 충분합니까?</h3>\n      <p>아닙니다. 고전압 검사가 필요합니다.</p>\n      <h3>같은 단자면 충전됩니까?</h3>\n      <p>통신과 보호가 다를 수 있습니다.</p>\n      <h3>섬에서 놓치는 것은?</h3>\n      <p>안전 운송과 폐배터리 회수입니다.</p>\n\n      <h2>출처</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://asean.org/wp-content/uploads/2024/11/ASEAN-Guidelines-LEV_ISBN.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">ASEAN Guidelines on Light Electric Vehicles</a><span>Association of Southeast Asian Nations · 2026-08-22</span></li>\n        <li><a href=\"https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/Importation_Guidelines/Car.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Procedures on Importation and Registration of a Car</a><span>Singapore Land Transport Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.lta.gov.sg/content/ltagov/en/industry_innovations/technologies/electric_vehicles/regulating_safety_of_ev_chargers/registration-of-ev-chargers.html\" target=\"_blank\" rel=\"noopener noreferrer\">Registration of EV Chargers</a><span>Singapore Land Transport Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.iea.org/reports/global-ev-outlook-2025/electric-vehicle-batteries\" target=\"_blank\" rel=\"noopener noreferrer\">Electric vehicle batteries – Global EV Outlook 2025</a><span>International Energy Agency · 2026-08-22</span></li>\n        <li><a href=\"https://unece.org/transport/standards/transport/vehicle-regulations-wp29/global-technical-regulations-gtrs\" target=\"_blank\" rel=\"noopener noreferrer\">UN GTR No. 22: In-vehicle Battery Durability</a><span>United Nations Economic Commission for Europe · 2026-08-22</span></li>\n        <li><a href=\"https://www.nrel.gov/transportation/battery-lifespan.html\" target=\"_blank\" rel=\"noopener noreferrer\">Battery Lifespan</a><span>National Renewable Energy Laboratory · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/battery-pack-of-an-ev-jpg.jpg",
+        "alt": "휠과 서스펜션 전시물 옆에 내부가 드러난 전기차 배터리 장치",
+        "caption": "휠과 서스펜션 전시물 옆에 내부가 드러난 전기차 배터리 장치. 참고 사진이며 AutoBridge의 검사 또는 거래 기록이 아닙니다.",
+        "wiki_title": "Lithium-ion battery",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Battery pack of an EV.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Battery_pack_of_an_EV.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Battery_pack_of_an_EV.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Battery_pack_of_an_EV.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 4.0",
+        "artist": "Mugel2110",
+        "credit": "Own work",
+        "candidate_description": "Battery pack of an EV",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "ac83119d38f58948f3b5464c48be2ea89d4a0c32e79d4debe5042fc89326e207",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visual review confirmed a road-vehicle high-voltage battery pack and drivetrain assembly, matching this EV battery warranty guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "vi": {
+      "title": "Bảo hành pin tại Đông Nam Á",
+      "seo_title": "Đông Nam Á: ẩm, ngập và sửa chữa",
+      "meta_description": "Kiểm tra nước đến, nước xâm nhập, sạc, chương trình và hậu cần đảo.",
+      "summary": "Bảo hành phải nối xe, điểm đến và đường chẩn đoán, vận chuyển có thể làm.",
+      "eyebrow": "Nhập khẩu Đông Nam Á",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../vi/index.html\">Trang chủ</a><span>/</span><a href=\"../../vi/guides/index.html\">Hướng dẫn</a><span>/</span><span>Bảo hành pin tại Đông Nam Á</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">Nhập khẩu Đông Nam Á</p>\n      <h1>Bảo hành pin tại Đông Nam Á</h1>\n      <p class=\"lead\">Bảo hành phải nối xe, điểm đến và đường chẩn đoán, vận chuyển có thể làm.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/battery-pack-of-an-ev-jpg.jpg\" alt=\"Cụm pin xe điện được mở để trưng bày cạnh bánh xe và hệ thống treo\" loading=\"lazy\"><figcaption>Cụm pin xe điện được mở để trưng bày cạnh bánh xe và hệ thống treo. Ảnh minh họa, không phải hồ sơ kiểm tra hoặc giao dịch của AutoBridge.</figcaption></figure>\n      <h2>Điểm đến chính xác</h2>\n      <p>Hướng dẫn ASEAN cho thấy khác biệt quốc gia. Singapore là ví dụ, không phải quy tắc vùng; phê duyệt và dịch vụ phải xác nhận từng nơi.</p>\n      <h2>Trách nhiệm</h2>\n      <p>Theo số nhận dạng xe, xác nhận nhập song song, chuyển nhượng, ngưỡng, xưởng và ngôn ngữ. Hợp đồng chia kéo xe, phà, kho, hàng nguy hiểm và dừng xe.</p>\n      <h2>Hồ sơ và ngập</h2>\n      <p>Gắn dữ liệu gốc, nhiệt, điện áp, cách điện, làm mát và gầm với xe. Sau tiếp xúc nước cần cô lập và kiểm tra cao áp, không chỉ làm sạch.</p>\n      <h2>Sạc và chương trình</h2>\n      <p>Thử bộ sạc thật về giao tiếp, nối đất, công suất và thanh toán. Xác minh chương trình hãng, cập nhật và mở yêu cầu tại chỗ.</p>\n      <h2>Đảo và mùa mưa</h2>\n      <p>Xác định xưởng, phụ tùng, đóng gói, phà, cảng và thu hồi. Theo dõi lô nhỏ qua mùa mưa và dừng nếu không có đường an toàn.</p>\n      <h2>Hồ sơ mùa mưa và đảo</h2>\n      <p>Lưu theo xe dữ liệu sạc, tuyến, nước, cảnh báo, giới hạn và dừng xe. Sau tiếp xúc nước, cô lập trước khi kiểm tra cách điện, kín, đầu nối và lỗi; màn hình bình thường không dựng lại lịch sử. Trước mỗi mùa mưa, xác nhận lại xưởng, chương trình, phà, kho, đóng gói, hãng vận chuyển và chuyển quyền khi đổi chủ.</p>\n      <h2>Quy trình tiếp nhận cho mùa mưa và đảo</h2>\n      <p>Trước khi khởi hành, lập hồ sơ tình trạng cho từng số khung, gồm ảnh gầm và đầu nối, giá trị cách điện, nhiệt độ, mức sạc, mã lỗi và hoạt động làm mát. Lặp lại đúng các kiểm tra ngay sau khi rời cảng, trước khi rửa có thể xóa dấu nước mặn hoặc bùn. Xe có dấu hiệu bất thường phải được cách ly và người đủ năng lực về điện áp cao kiểm tra; không có cảnh báo trên bảng điều khiển không thay thế cho biên bản an toàn.</p>\n      <p>Kết nối xe với bộ sạc thực sự dùng tại nước đến để thử giao tiếp, nối đất, công suất duy trì, thanh toán và khởi động lại sau mất điện. Cũng cần kiểm tra tài khoản người dùng, cập nhật, ngôn ngữ địa phương và thủ tục chuyển cho chủ tiếp theo. Tiền trả nhà cung cấp gắn với hồ sơ trước khi đi, ảnh xếp hàng, kiểm tra khi đến và thử nghiệm địa phương đạt yêu cầu, để số trung bình của lô không che một xe bị hỏng.</p>\n      <p>Trước mùa mưa, diễn tập toàn tuyến giữa xưởng, xe kéo, cảng hoặc phà, đơn vị vận chuyển phù hợp và nơi nhận pin tháo ra. Xác nhận bằng văn bản giờ làm việc, hạn chế chuyến qua biển, kho an toàn và khả năng cấp phụ tùng cho thành phố nhỏ hoặc đảo. Nếu một bước chưa chứng minh được, giới hạn lô đầu, giữ lại một phần thanh toán hoặc bắt đầu tại khu vực đã xác nhận dịch vụ trước khi mở rộng đội xe.</p>\n      <h2>Câu hỏi thường gặp</h2>\n      <h3>Có bảo hành ASEAN chung không?</h3>\n      <p>Không.</p>\n      <h3>Bảng đồng hồ bình thường sau ngập có đủ không?</h3>\n      <p>Không, cần kiểm tra cao áp.</p>\n      <h3>Cùng đầu cắm có chắc sạc được không?</h3>\n      <p>Giao tiếp và bảo vệ có thể khác.</p>\n      <h3>Điều gì hay bị quên trên đảo?</h3>\n      <p>Vận chuyển an toàn và thu hồi pin.</p>\n\n      <h2>Nguồn</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://asean.org/wp-content/uploads/2024/11/ASEAN-Guidelines-LEV_ISBN.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">ASEAN Guidelines on Light Electric Vehicles</a><span>Association of Southeast Asian Nations · 2026-08-22</span></li>\n        <li><a href=\"https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/Importation_Guidelines/Car.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Procedures on Importation and Registration of a Car</a><span>Singapore Land Transport Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.lta.gov.sg/content/ltagov/en/industry_innovations/technologies/electric_vehicles/regulating_safety_of_ev_chargers/registration-of-ev-chargers.html\" target=\"_blank\" rel=\"noopener noreferrer\">Registration of EV Chargers</a><span>Singapore Land Transport Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.iea.org/reports/global-ev-outlook-2025/electric-vehicle-batteries\" target=\"_blank\" rel=\"noopener noreferrer\">Electric vehicle batteries – Global EV Outlook 2025</a><span>International Energy Agency · 2026-08-22</span></li>\n        <li><a href=\"https://unece.org/transport/standards/transport/vehicle-regulations-wp29/global-technical-regulations-gtrs\" target=\"_blank\" rel=\"noopener noreferrer\">UN GTR No. 22: In-vehicle Battery Durability</a><span>United Nations Economic Commission for Europe · 2026-08-22</span></li>\n        <li><a href=\"https://www.nrel.gov/transportation/battery-lifespan.html\" target=\"_blank\" rel=\"noopener noreferrer\">Battery Lifespan</a><span>National Renewable Energy Laboratory · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/battery-pack-of-an-ev-jpg.jpg",
+        "alt": "Cụm pin xe điện được mở để trưng bày cạnh bánh xe và hệ thống treo",
+        "caption": "Cụm pin xe điện được mở để trưng bày cạnh bánh xe và hệ thống treo. Ảnh minh họa, không phải hồ sơ kiểm tra hoặc giao dịch của AutoBridge.",
+        "wiki_title": "Lithium-ion battery",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Battery pack of an EV.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Battery_pack_of_an_EV.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Battery_pack_of_an_EV.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Battery_pack_of_an_EV.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 4.0",
+        "artist": "Mugel2110",
+        "credit": "Own work",
+        "candidate_description": "Battery pack of an EV",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "ac83119d38f58948f3b5464c48be2ea89d4a0c32e79d4debe5042fc89326e207",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visual review confirmed a road-vehicle high-voltage battery pack and drivetrain assembly, matching this EV battery warranty guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "th": {
+      "title": "การรับประกันแบตเตอรี่ในเอเชียตะวันออกเฉียงใต้",
+      "seo_title": "เอเชียตะวันออกเฉียงใต้: ชื้น น้ำท่วม และซ่อม",
+      "meta_description": "ตรวจประเทศ น้ำ การชาร์จ โปรแกรม และโลจิสติกส์เกาะ",
+      "summary": "การรับประกันต้องเชื่อมรถ ปลายทาง และเส้นทางตรวจและขนส่งที่ทำได้",
+      "eyebrow": "นำเข้าเอเชียตะวันออกเฉียงใต้",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../th/index.html\">หน้าแรก</a><span>/</span><a href=\"../../th/guides/index.html\">คู่มือ</a><span>/</span><span>การรับประกันแบตเตอรี่ในเอเชียตะวันออกเฉียงใต้</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">นำเข้าเอเชียตะวันออกเฉียงใต้</p>\n      <h1>การรับประกันแบตเตอรี่ในเอเชียตะวันออกเฉียงใต้</h1>\n      <p class=\"lead\">การรับประกันต้องเชื่อมรถ ปลายทาง และเส้นทางตรวจและขนส่งที่ทำได้</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/battery-pack-of-an-ev-jpg.jpg\" alt=\"ชุดแบตเตอรี่รถยนต์ไฟฟ้าที่เปิดให้เห็นภายใน จัดแสดงข้างล้อและระบบกันสะเทือน\" loading=\"lazy\"><figcaption>ชุดแบตเตอรี่รถยนต์ไฟฟ้าที่เปิดให้เห็นภายใน จัดแสดงข้างล้อและระบบกันสะเทือน. ภาพประกอบ ไม่ใช่หลักฐานการตรวจสภาพหรือธุรกรรมของ AutoBridge</figcaption></figure>\n      <h2>ปลายทางชัดเจน</h2>\n      <p>แนวทาง ASEAN แสดงความต่างแต่ละประเทศ สิงคโปร์เป็นตัวอย่างไม่ใช่กฎภูมิภาค ต้องยืนยันการอนุมัติและบริการแต่ละปลายทาง</p>\n      <h2>ความรับผิดชอบ</h2>\n      <p>ตามหมายเลขรถยืนยันนำเข้าคู่ขนาน โอน เกณฑ์ ศูนย์ และภาษา สัญญาแบ่งค่าลาก เรือ คลัง วัตถุอันตราย และหยุดใช้</p>\n      <h2>แฟ้มและน้ำท่วม</h2>\n      <p>ผูกข้อมูลต้นฉบับ อุณหภูมิ แรงดัน ฉนวน หล่อเย็น และใต้ท้องกับรถ หลังโดนน้ำต้องแยกและตรวจแรงดันสูง ไม่ใช่ล้างอย่างเดียว</p>\n      <h2>ชาร์จและโปรแกรม</h2>\n      <p>ทดสอบเครื่องชาร์จจริงเรื่องสื่อสาร สายดิน กำลัง และจ่ายเงิน ยืนยันโปรแกรมผู้ผลิต การอัปเดต และเปิดเคลมท้องถิ่น</p>\n      <h2>เกาะและฤดูฝน</h2>\n      <p>ระบุศูนย์ อะไหล่ บรรจุ เรือ ท่า และรับคืน ติดตามชุดเล็กผ่านฤดูฝนและหยุดเมื่อไม่มีเส้นทางปลอดภัย</p>\n      <h2>แฟ้มฤดูฝนและเกาะ</h2>\n      <p>เก็บข้อมูลรายรถเรื่องชาร์จ เส้นทาง น้ำ คำเตือน ลดกำลัง และหยุดใช้ หลังโดนน้ำให้แยกก่อนตรวจฉนวน ซีล ขั้ว และข้อขัดข้อง หน้าปัดปกติไม่สร้างประวัติคืน ก่อนฤดูฝนให้ยืนยันศูนย์ โปรแกรม เรือ คลัง บรรจุ และผู้ขนส่ง และยืนยันการโอนใหม่เมื่อเปลี่ยนเจ้าของ</p>\n      <h2>ขั้นตอนรับมอบสำหรับฤดูฝนและเกาะ</h2>\n      <p>ก่อนออกเดินทางให้สร้างแฟ้มสภาพรถตามหมายเลขตัวถัง เก็บภาพใต้ท้องและขั้วต่อ ค่าฉนวน อุณหภูมิ ระดับประจุ รหัสขัดข้อง และการทำงานของระบบหล่อเย็นเป็นข้อมูลต้นฉบับ ตรวจซ้ำทันทีหลังนำรถออกจากท่าเรือ ก่อนการล้างที่อาจลบร่องรอยน้ำเค็มหรือโคลน รถที่น่าสงสัยต้องแยกไว้ให้ผู้มีคุณสมบัติด้านแรงดันสูงตรวจ และการไม่มีไฟเตือนบนหน้าปัดไม่ใช่หลักฐานแทนรายงานความปลอดภัย</p>\n      <p>นำรถต่อกับเครื่องชาร์จที่ใช้จริงในประเทศปลายทาง เพื่อตรวจการสื่อสาร สายดิน กำลังต่อเนื่อง การชำระเงิน และการเริ่มใหม่หลังไฟดับ ตรวจบัญชีผู้ใช้ การปรับปรุง ภาษาในพื้นที่ และขั้นตอนโอนไปเจ้าของถัดไปด้วย ผูกเงินจ่ายผู้ขายกับแฟ้มก่อนออกเดินทาง ภาพขณะบรรทุก การตรวจเมื่อถึง และผลทดสอบท้องถิ่นที่ผ่าน เพื่อไม่ให้ค่าเฉลี่ยของทั้งล็อตซ่อนความเสียหายของรถหนึ่งคัน</p>\n      <p>ก่อนฤดูฝนให้ซ้อมเส้นทางทั้งหมดระหว่างอู่ รถลาก ท่าเรือหรือเรือข้ามฟาก ผู้ขนส่งที่เหมาะสม และสถานที่รับแบตเตอรี่ที่ถอดออก ยืนยันเวลาทำการ ข้อจำกัดการข้ามทะเล ที่เก็บปลอดภัย และอะไหล่สำหรับเมืองรองหรือเกาะเป็นลายลักษณ์อักษร หากขั้นตอนใดยังพิสูจน์ไม่ได้ ให้จำกัดล็อตแรก เก็บเงินบางส่วนไว้ หรือเริ่มในพื้นที่ที่ยืนยันบริการแล้วก่อนขยายจำนวนรถ</p>\n      <h2>คำถามที่พบบ่อย</h2>\n      <h3>มีประกัน ASEAN เดียวหรือไม่</h3>\n      <p>ไม่มี</p>\n      <h3>หน้าปัดปกติหลังน้ำท่วมพอหรือไม่</h3>\n      <p>ไม่ ต้องตรวจแรงดันสูง</p>\n      <h3>หัวเหมือนกันชาร์จได้แน่หรือไม่</h3>\n      <p>การสื่อสารและป้องกันอาจต่าง</p>\n      <h3>อะไรถูกลืมบนเกาะ</h3>\n      <p>ขนส่งปลอดภัยและรับคืนแบตเตอรี่</p>\n\n      <h2>แหล่งข้อมูล</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://asean.org/wp-content/uploads/2024/11/ASEAN-Guidelines-LEV_ISBN.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">ASEAN Guidelines on Light Electric Vehicles</a><span>Association of Southeast Asian Nations · 2026-08-22</span></li>\n        <li><a href=\"https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/Importation_Guidelines/Car.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Procedures on Importation and Registration of a Car</a><span>Singapore Land Transport Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.lta.gov.sg/content/ltagov/en/industry_innovations/technologies/electric_vehicles/regulating_safety_of_ev_chargers/registration-of-ev-chargers.html\" target=\"_blank\" rel=\"noopener noreferrer\">Registration of EV Chargers</a><span>Singapore Land Transport Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.iea.org/reports/global-ev-outlook-2025/electric-vehicle-batteries\" target=\"_blank\" rel=\"noopener noreferrer\">Electric vehicle batteries – Global EV Outlook 2025</a><span>International Energy Agency · 2026-08-22</span></li>\n        <li><a href=\"https://unece.org/transport/standards/transport/vehicle-regulations-wp29/global-technical-regulations-gtrs\" target=\"_blank\" rel=\"noopener noreferrer\">UN GTR No. 22: In-vehicle Battery Durability</a><span>United Nations Economic Commission for Europe · 2026-08-22</span></li>\n        <li><a href=\"https://www.nrel.gov/transportation/battery-lifespan.html\" target=\"_blank\" rel=\"noopener noreferrer\">Battery Lifespan</a><span>National Renewable Energy Laboratory · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/battery-pack-of-an-ev-jpg.jpg",
+        "alt": "ชุดแบตเตอรี่รถยนต์ไฟฟ้าที่เปิดให้เห็นภายใน จัดแสดงข้างล้อและระบบกันสะเทือน",
+        "caption": "ชุดแบตเตอรี่รถยนต์ไฟฟ้าที่เปิดให้เห็นภายใน จัดแสดงข้างล้อและระบบกันสะเทือน. ภาพประกอบ ไม่ใช่หลักฐานการตรวจสภาพหรือธุรกรรมของ AutoBridge",
+        "wiki_title": "Lithium-ion battery",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Battery pack of an EV.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Battery_pack_of_an_EV.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Battery_pack_of_an_EV.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Battery_pack_of_an_EV.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 4.0",
+        "artist": "Mugel2110",
+        "credit": "Own work",
+        "candidate_description": "Battery pack of an EV",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "ac83119d38f58948f3b5464c48be2ea89d4a0c32e79d4debe5042fc89326e207",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visual review confirmed a road-vehicle high-voltage battery pack and drivetrain assembly, matching this EV battery warranty guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "id": {
+      "title": "Garansi baterai di Asia Tenggara",
+      "seo_title": "Asia Tenggara: lembap, banjir dan perbaikan",
+      "meta_description": "Periksa negara, air, pengisian, program dan logistik pulau.",
+      "summary": "Garansi harus menghubungkan kendaraan, tujuan dan jalur diagnosis serta angkutan nyata.",
+      "eyebrow": "Impor Asia Tenggara",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../id/index.html\">Beranda</a><span>/</span><a href=\"../../id/guides/index.html\">Panduan</a><span>/</span><span>Garansi baterai di Asia Tenggara</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">Impor Asia Tenggara</p>\n      <h1>Garansi baterai di Asia Tenggara</h1>\n      <p class=\"lead\">Garansi harus menghubungkan kendaraan, tujuan dan jalur diagnosis serta angkutan nyata.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/battery-pack-of-an-ev-jpg.jpg\" alt=\"Rakitan baterai mobil listrik terbuka di samping pajangan roda dan suspensi\" loading=\"lazy\"><figcaption>Rakitan baterai mobil listrik terbuka di samping pajangan roda dan suspensi. Foto ilustrasi, bukan dokumentasi pemeriksaan atau transaksi AutoBridge.</figcaption></figure>\n      <h2>Tujuan tepat</h2>\n      <p>Pedoman ASEAN menunjukkan perbedaan negara. Singapura adalah contoh, bukan aturan wilayah; persetujuan dan layanan dipastikan per tujuan.</p>\n      <h2>Tanggung jawab</h2>\n      <p>Menurut nomor kendaraan, pastikan impor paralel, pengalihan, ambang, bengkel dan bahasa. Kontrak membagi derek, feri, gudang, barang berbahaya dan berhenti operasi.</p>\n      <h2>Berkas dan banjir</h2>\n      <p>Kaitkan data asli, suhu, tegangan, isolasi, pendinginan dan bagian bawah dengan kendaraan. Setelah terkena air perlu isolasi dan pemeriksaan tegangan tinggi, bukan hanya pembersihan.</p>\n      <h2>Pengisian dan program</h2>\n      <p>Uji pengisi nyata untuk komunikasi, pembumian, daya dan pembayaran. Pastikan program pabrikan, pembaruan dan pembukaan klaim lokal.</p>\n      <h2>Pulau dan musim hujan</h2>\n      <p>Tentukan bengkel, suku cadang, kemasan, feri, pelabuhan dan pengembalian. Pantau kelompok kecil selama musim hujan dan hentikan tanpa jalur aman.</p>\n      <h2>Berkas musim hujan dan pulau</h2>\n      <p>Simpan per kendaraan data pengisian, rute, air, peringatan, pembatasan dan berhenti. Setelah terkena air, isolasi sebelum memeriksa isolasi, segel, konektor dan gangguan; panel normal tidak mengembalikan riwayat. Sebelum musim hujan, pastikan kembali bengkel, program, feri, gudang, kemasan dan pengangkut, serta pengalihan saat pemilik berubah.</p>\n      <h2>Protokol penerimaan untuk musim hujan dan pulau</h2>\n      <p>Sebelum berangkat, buat berkas kondisi untuk setiap nomor rangka yang memuat foto bagian bawah dan konektor, nilai isolasi, suhu, tingkat isi, kode gangguan dan kerja pendinginan. Ulangi pemeriksaan yang sama segera setelah keluar dari pelabuhan, sebelum pencucian menghapus jejak air asin atau lumpur. Kendaraan yang dicurigai harus dipisahkan dan diperiksa tenaga berkualifikasi tegangan tinggi; tidak adanya peringatan di panel bukan pengganti laporan keselamatan.</p>\n      <p>Hubungkan kendaraan ke pengisi yang benar-benar digunakan di negara tujuan untuk menguji komunikasi, pembumian, daya berkelanjutan, pembayaran dan mulai ulang setelah listrik padam. Periksa pula akun pengguna, pembaruan, bahasa setempat dan pemindahan kepada pemilik berikutnya. Pembayaran kepada pemasok dikaitkan dengan berkas keberangkatan, foto pemuatan, pemeriksaan kedatangan dan uji lokal yang lulus agar rata-rata kelompok tidak menyembunyikan kerusakan satu unit.</p>\n      <p>Sebelum musim hujan, latih seluruh jalur antara bengkel, penarik, pelabuhan atau feri, pengangkut yang sesuai dan penerima baterai yang dilepas. Konfirmasi tertulis jam layanan, pembatasan penyeberangan, penyimpanan aman dan pasokan suku cadang untuk kota kecil atau pulau. Jika satu tahap belum terbukti, batasi jumlah pertama, tahan sebagian pembayaran atau mulai dari wilayah dengan layanan terkonfirmasi sebelum memperbesar armada.</p>\n      <h2>Pertanyaan umum</h2>\n      <h3>Adakah garansi ASEAN tunggal?</h3>\n      <p>Tidak.</p>\n      <h3>Panel normal setelah banjir cukup?</h3>\n      <p>Tidak, perlu pemeriksaan tegangan tinggi.</p>\n      <h3>Konektor sama pasti cocok?</h3>\n      <p>Komunikasi dan perlindungan dapat berbeda.</p>\n      <h3>Apa yang sering terlupa di pulau?</h3>\n      <p>Angkutan aman dan pengembalian baterai.</p>\n\n      <h2>Sumber</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://asean.org/wp-content/uploads/2024/11/ASEAN-Guidelines-LEV_ISBN.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">ASEAN Guidelines on Light Electric Vehicles</a><span>Association of Southeast Asian Nations · 2026-08-22</span></li>\n        <li><a href=\"https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/Importation_Guidelines/Car.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Procedures on Importation and Registration of a Car</a><span>Singapore Land Transport Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.lta.gov.sg/content/ltagov/en/industry_innovations/technologies/electric_vehicles/regulating_safety_of_ev_chargers/registration-of-ev-chargers.html\" target=\"_blank\" rel=\"noopener noreferrer\">Registration of EV Chargers</a><span>Singapore Land Transport Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.iea.org/reports/global-ev-outlook-2025/electric-vehicle-batteries\" target=\"_blank\" rel=\"noopener noreferrer\">Electric vehicle batteries – Global EV Outlook 2025</a><span>International Energy Agency · 2026-08-22</span></li>\n        <li><a href=\"https://unece.org/transport/standards/transport/vehicle-regulations-wp29/global-technical-regulations-gtrs\" target=\"_blank\" rel=\"noopener noreferrer\">UN GTR No. 22: In-vehicle Battery Durability</a><span>United Nations Economic Commission for Europe · 2026-08-22</span></li>\n        <li><a href=\"https://www.nrel.gov/transportation/battery-lifespan.html\" target=\"_blank\" rel=\"noopener noreferrer\">Battery Lifespan</a><span>National Renewable Energy Laboratory · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/battery-pack-of-an-ev-jpg.jpg",
+        "alt": "Rakitan baterai mobil listrik terbuka di samping pajangan roda dan suspensi",
+        "caption": "Rakitan baterai mobil listrik terbuka di samping pajangan roda dan suspensi. Foto ilustrasi, bukan dokumentasi pemeriksaan atau transaksi AutoBridge.",
+        "wiki_title": "Lithium-ion battery",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Battery pack of an EV.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Battery_pack_of_an_EV.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Battery_pack_of_an_EV.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Battery_pack_of_an_EV.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 4.0",
+        "artist": "Mugel2110",
+        "credit": "Own work",
+        "candidate_description": "Battery pack of an EV",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "ac83119d38f58948f3b5464c48be2ea89d4a0c32e79d4debe5042fc89326e207",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visual review confirmed a road-vehicle high-voltage battery pack and drivetrain assembly, matching this EV battery warranty guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "ar": {
+      "title": "ضمان البطارية في جنوب شرق آسيا",
+      "seo_title": "جنوب شرق آسيا: الرطوبة والغمر والإصلاح",
+      "meta_description": "فحص الدولة والماء والشحن والبرامج ولوجستيات الجزر.",
+      "summary": "يجب أن يربط الضمان السيارة والوجهة بمسار تشخيص ونقل قابل للتنفيذ.",
+      "eyebrow": "الاستيراد إلى جنوب شرق آسيا",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../ar/index.html\">الرئيسية</a><span>/</span><a href=\"../../ar/guides/index.html\">الأدلة</a><span>/</span><span>ضمان البطارية في جنوب شرق آسيا</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">الاستيراد إلى جنوب شرق آسيا</p>\n      <h1>ضمان البطارية في جنوب شرق آسيا</h1>\n      <p class=\"lead\">يجب أن يربط الضمان السيارة والوجهة بمسار تشخيص ونقل قابل للتنفيذ.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/battery-pack-of-an-ev-jpg.jpg\" alt=\"مجموعة بطارية سيارة كهربائية مكشوفة بجوار عجلة ونظام تعليق معروضين\" loading=\"lazy\"><figcaption>مجموعة بطارية سيارة كهربائية مكشوفة بجوار عجلة ونظام تعليق معروضين. صورة توضيحية، وليست توثيقًا لفحص أو صفقة أجرتها AutoBridge.</figcaption></figure>\n      <h2>الوجهة الدقيقة</h2>\n      <p>تظهر إرشادات ASEAN اختلاف الدول. سنغافورة مثال وليست قاعدة إقليمية؛ تؤكد الموافقة والخدمة في كل وجهة.</p>\n      <h2>المسؤولية</h2>\n      <p>برقم تعريف المركبة يؤكد الاستيراد الموازي والانتقال والحد والورشة واللغة. يوزع العقد السحب والعبارة والتخزين والخطر والتوقف.</p>\n      <h2>الملف والغمر</h2>\n      <p>تربط البيانات الأصلية والحرارة والجهد والعزل والتبريد وأسفل السيارة بالمركبة. بعد الماء يلزم العزل وفحص الجهد العالي لا التنظيف فقط.</p>\n      <h2>الشحن والبرامج</h2>\n      <p>تختبر الشواحن الفعلية في الاتصال والتأريض والقدرة والدفع. يؤكد برنامج الصانع والتحديث وفتح المطالبة محلياً.</p>\n      <h2>الجزر وموسم المطر</h2>\n      <p>تحدد الورشة والقطع والتغليف والعبارة والميناء والاسترداد. يراقب عدد قليل خلال المطر وتتوقف الخطة بلا مسار آمن.</p>\n      <h2>ملف المطر والجزر</h2>\n      <p>تحفظ لكل سيارة بيانات الشحن والمسار والماء والتنبيه وحد القدرة والتوقف. بعد الماء تعزل السيارة قبل فحص العزل والإحكام والوصلات والأعطال؛ الشاشة الطبيعية لا تعيد التاريخ. قبل موسم المطر تؤكد الورشة والبرنامج والعبارة والتخزين والتغليف والناقل، ويجدد تأكيد انتقال الضمان عند تغير المالك.</p>\n      <h2>بروتوكول الاستلام للمطر والجزر</h2>\n      <p>قبل المغادرة ينشأ لكل رقم هيكل ملف حالة يضم صور أسفل السيارة والموصلات وقيمة العزل والحرارة ومستوى الشحن ورموز الأعطال وعمل التبريد. تكرر الفحوص نفسها فور الخروج من الميناء وقبل أي تنظيف قد يمحو أثر الماء المالح أو الطين. تعزل السيارة المشتبه بها ويفحصها شخص مؤهل لأعمال الجهد العالي؛ فغياب التحذير من لوحة العدادات لا يعوض تقرير سلامة موثقاً.</p>\n      <p>توصل السيارة بأجهزة الشحن المستخدمة فعلاً في دولة الوجهة لاختبار الاتصال والتأريض والقدرة المستمرة والدفع وإعادة التشغيل بعد انقطاع الكهرباء. كما تختبر حسابات المستخدم والتحديثات واللغة المحلية والانتقال إلى المالك التالي. تربط دفعات المورد بملف المغادرة وصور التحميل وفحص الوصول واجتياز التجربة المحلية، حتى لا يخفي متوسط الدفعة ضرراً في سيارة واحدة.</p>\n      <p>قبل موسم المطر يجرب المسار كاملاً بين الورشة والسحب والميناء أو العبارة والناقل المناسب والجهة التي تستقبل البطارية المنزوعة. تؤكد كتابة ساعات العمل وقيود العبور والتخزين الآمن وتوفر القطع للمدن الثانوية أو الجزر. إذا بقيت خطوة بلا إثبات، تحد كمية الدفعة الأولى أو يحتجز جزء من الدفع أو يبدأ التشغيل في منطقة مؤكدة الخدمة قبل توسيع الأسطول.</p>\n      <h2>الأسئلة الشائعة</h2>\n      <h3>هل يوجد ضمان ASEAN موحد؟</h3>\n      <p>لا.</p>\n      <h3>هل تكفي لوحة طبيعية بعد الغمر؟</h3>\n      <p>لا، يلزم فحص الجهد العالي.</p>\n      <h3>هل تطابق الوصلة يضمن الشحن؟</h3>\n      <p>قد يختلف الاتصال والحماية.</p>\n      <h3>ما الذي ينسى في الجزر؟</h3>\n      <p>النقل الآمن واسترداد البطارية.</p>\n\n      <h2>المصادر</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://asean.org/wp-content/uploads/2024/11/ASEAN-Guidelines-LEV_ISBN.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">ASEAN Guidelines on Light Electric Vehicles</a><span>Association of Southeast Asian Nations · 2026-08-22</span></li>\n        <li><a href=\"https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/Importation_Guidelines/Car.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Procedures on Importation and Registration of a Car</a><span>Singapore Land Transport Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.lta.gov.sg/content/ltagov/en/industry_innovations/technologies/electric_vehicles/regulating_safety_of_ev_chargers/registration-of-ev-chargers.html\" target=\"_blank\" rel=\"noopener noreferrer\">Registration of EV Chargers</a><span>Singapore Land Transport Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.iea.org/reports/global-ev-outlook-2025/electric-vehicle-batteries\" target=\"_blank\" rel=\"noopener noreferrer\">Electric vehicle batteries – Global EV Outlook 2025</a><span>International Energy Agency · 2026-08-22</span></li>\n        <li><a href=\"https://unece.org/transport/standards/transport/vehicle-regulations-wp29/global-technical-regulations-gtrs\" target=\"_blank\" rel=\"noopener noreferrer\">UN GTR No. 22: In-vehicle Battery Durability</a><span>United Nations Economic Commission for Europe · 2026-08-22</span></li>\n        <li><a href=\"https://www.nrel.gov/transportation/battery-lifespan.html\" target=\"_blank\" rel=\"noopener noreferrer\">Battery Lifespan</a><span>National Renewable Energy Laboratory · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/battery-pack-of-an-ev-jpg.jpg",
+        "alt": "مجموعة بطارية سيارة كهربائية مكشوفة بجوار عجلة ونظام تعليق معروضين",
+        "caption": "مجموعة بطارية سيارة كهربائية مكشوفة بجوار عجلة ونظام تعليق معروضين. صورة توضيحية، وليست توثيقًا لفحص أو صفقة أجرتها AutoBridge.",
+        "wiki_title": "Lithium-ion battery",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Battery pack of an EV.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Battery_pack_of_an_EV.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Battery_pack_of_an_EV.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Battery_pack_of_an_EV.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 4.0",
+        "artist": "Mugel2110",
+        "credit": "Own work",
+        "candidate_description": "Battery pack of an EV",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "ac83119d38f58948f3b5464c48be2ea89d4a0c32e79d4debe5042fc89326e207",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visual review confirmed a road-vehicle high-voltage battery pack and drivetrain assembly, matching this EV battery warranty guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "zh": {
+      "title": "东南亚电动车电池质保：先建立交易证据，再比较价格或方案",
+      "seo_title": "东南亚电动车电池质保：跨境买家交易核验指南",
+      "meta_description": "针对东南亚电动车电池质保，把交易对象、来源证据、目的国要求和商业边界分开核对，重大未知项关闭以后再付款。",
+      "summary": "电池质保只有在跨境后真的有人能够履行时才有价值。东南亚买家应把质保手册、VIN/电池身份、起算日期和当地维修索赔路径绑到同一台车上，再谈所谓“几年质保”。",
+      "eyebrow": "东南亚电动车采购",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../zh/index.html\">首页</a><span>/</span><a href=\"../../zh/guides/index.html\">采购指南</a><span>/</span><span>东南亚电动车电池质保：先建立交易证据，再比较价格或方案</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">东南亚电动车采购</p>\n      <h1>东南亚电动车电池质保：先建立交易证据，再比较价格或方案</h1>\n      <p class=\"lead\">电池质保只有在跨境后真的有人能够履行时才有价值。东南亚买家应把质保手册、VIN/电池身份、起算日期和当地维修索赔路径绑到同一台车上，再谈所谓“几年质保”。</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/battery-pack-of-an-ev-jpg.jpg\" alt=\"车轮与悬架展品旁展示的电动车电池内部结构\" loading=\"lazy\"><figcaption>车轮与悬架展品旁展示的电动车电池内部结构. 参考配图，并非 AutoBridge 的检测或交易记录。</figcaption></figure>\n      <h2>按目的国核对资格而不是按地区推定</h2>\n      <p>东南亚各国的车辆准入、右舵或左舵要求、充电标准和售后体系并不相同。 先确定最终登记国家与使用城市，再核对车辆识别代号、配置版本、型式文件和服务系统资格。 一个品牌在泰国或马来西亚设有工厂，并不能证明从中国平行进口到其他国家的车辆享有同样质保，必须取得当地责任主体的书面确认。</p>\n      <p>同一国家内部也可能存在首都与偏远地区的服务差距。 采购方应根据车辆实际运营范围标记最近的高压维修点、拖运距离和雨季可达性。 若车辆在岛屿或边境地区运营，仅证明首都存在授权店并不足够，还要计算运回维修中心所需时间、费用和运输许可。</p>\n      <h2>把涉水排除条款变成证据规则</h2>\n      <p>雨季、积水和潮湿环境会让买卖双方对故障原因产生争议。 合同应明确涉水、盐雾、腐蚀和不当清洗的定义，规定由谁检测、使用什么标准、如何保存照片和诊断数据。 装运前应检查电池壳体、高压连接器、密封件、绝缘值、底盘撞击和历史故障码，并保存带日期的底盘影像，避免到港后无法判断损伤发生时间。</p>\n      <p>涉水记录应在车辆交接各节点连续保存，包括出库、港区、装船、到港和最终仓库。 每次记录至少包含时间、地点、车辆识别代号、底盘影像和异常说明。 连续证据可以减少卖方、承运人与买家相互推诿，也能帮助检测人员判断腐蚀或绝缘问题是否与运输事件相关。</p>\n      <h2>先确认跨境后由谁受理索赔</h2>\n      <p>电池质保文件里出现品牌名称，并不代表目的国经销商必须受理由其他市场出口的车辆。付款前应把车辆识别代号、电池编号、原销售市场和拟登记国家发给当地品牌机构或授权维修方，书面确认是否建档、能否读取诊断记录以及由谁批准索赔。</p>\n      <p>如果卖方提供的是经销商承诺或第三方保修，应把它与制造商质保分开记录。合同需要写明责任主体、服务地区、维修地点、诊断费、拆装与运输费用以及索赔被拒后的处理方式，不能只保留“电池有质保”的概括句。</p>\n      <h2>把起算日期、期限和除外责任逐项读清</h2>\n      <p>质保可能从首次登记、交付、生产或系统激活日期开始，时间限制还可能与里程限制同时适用。采购方应从车辆系统和原始文件确认起算依据，不能用卖方口述的剩余年限代替。</p>\n      <p>容量衰减、材料故障、事故、涉水、不当充电、改装和缺少保养记录可能适用不同规则。应把每项条款对应到所需证据，并确认跨境运输、长期停放或非授权维修是否会影响资格。</p>\n      <h2>电池健康报告不能替代质保资格</h2>\n      <p>一次电池健康读数只能反映当时的检测方法和车辆状态，不自动证明未来可免费维修。检测报告应注明工具、软件版本、里程、环境和故障码，并与质保手册规定的测试程序核对。</p>\n      <p>东南亚高温、高湿和积水风险会影响检查重点，但不能据此推断某块电池已经损坏。装运前应保存电池壳体、连接器、绝缘与热管理系统的检查记录，到港后按同一清单复核，出现差异时再由合格机构判断原因。</p>\n      <h2>把无法执行的质保变成付款前条件</h2>\n      <p>只有当受理机构、所需文件、检测地点、费用责任和预计流程都有书面答案时，质保才应计入车辆价值。任何关键环节仍依赖“到时候再问”，就应把潜在维修成本作为买方风险，而不是继续按完整质保车辆报价。</p>\n      <p>合同可约定在付款前交付完整质保手册、服务记录、召回状态、电池身份和当地受理确认。资料缺失、车辆身份不一致或当地责任方拒绝确认时，采购方应暂停付款或更换车辆。</p>\n      <h2>在装运前完成一次索赔路径演练</h2>\n      <p>采购方可以用一个假设故障向当地服务机构询问完整流程：车辆如何预约、需要上传哪些诊断记录、是否必须回到原销售市场、谁承担拖运和拆检费用，以及批准维修前能否自行处置。回答应来自实际受理部门并保留日期。</p>\n      <p>如果系统无法识别车辆识别代号，或服务机构明确不受理平行进口车辆，就应把制造商质保从估值中剔除。卖方另行提供保障时，需要重新核查承保主体、资金能力、理赔地区和合同争议解决地。</p>\n      <p>到港后的首检也应提前安排。检查项目、预约窗口、诊断设备和高压作业资质在付款前确定，才能避免车辆到达后才发现没有机构能够读取电池数据或完成保修要求的检测。</p>\n      <p>首检完成后，买方应保存服务工单、诊断快照和车辆当前软件状态，作为以后判断故障发生时间和质保资格的基线，并记录出具资料的服务机构与技术人员。</p>\n      <h2>常见问题</h2>\n      <h3>东南亚所有国家可以共用同一份质保吗？</h3>\n      <p>通常不能。 车辆准入、服务主体和合同法律按国家变化，应针对最终登记国和具体车辆识别代号确认。 每项判断都要写明车辆批次、地点和证据时间，以便发生争议时追溯。</p>\n      <h3>怎样减少涉水争议？</h3>\n      <p>装运前保存底盘、高压接口、绝缘和故障码证据，并在合同中约定涉水定义、检测机构和举证方式。 </p>\n      <h3>跨岛运输费用通常由质保承担吗？</h3>\n      <p>不能默认承担。 拖车、轮渡、危险品包装和保险应在合同中单列责任，否则可能全部由买家支付。 </p>\n      <h3>先买样车测试有价值吗？</h3>\n      <p>有。 样车可以验证当地诊断设备、软件权限、充电兼容和工单流程，再决定批量采购是否可控。 </p>\n\n      <h2>资料来源</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://asean.org/wp-content/uploads/2024/11/ASEAN-Guidelines-LEV_ISBN.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">ASEAN Guidelines on Light Electric Vehicles</a><span>Association of Southeast Asian Nations · 2026-08-22</span></li>\n        <li><a href=\"https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/Importation_Guidelines/Car.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Procedures on Importation and Registration of a Car</a><span>Singapore Land Transport Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.lta.gov.sg/content/ltagov/en/industry_innovations/technologies/electric_vehicles/regulating_safety_of_ev_chargers/registration-of-ev-chargers.html\" target=\"_blank\" rel=\"noopener noreferrer\">Registration of EV Chargers</a><span>Singapore Land Transport Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.iea.org/reports/global-ev-outlook-2025/electric-vehicle-batteries\" target=\"_blank\" rel=\"noopener noreferrer\">Electric vehicle batteries – Global EV Outlook 2025</a><span>International Energy Agency · 2026-08-22</span></li>\n        <li><a href=\"https://unece.org/transport/standards/transport/vehicle-regulations-wp29/global-technical-regulations-gtrs\" target=\"_blank\" rel=\"noopener noreferrer\">UN GTR No. 22: In-vehicle Battery Durability</a><span>United Nations Economic Commission for Europe · 2026-08-22</span></li>\n        <li><a href=\"https://www.nrel.gov/transportation/battery-lifespan.html\" target=\"_blank\" rel=\"noopener noreferrer\">Battery Lifespan</a><span>National Renewable Energy Laboratory · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/battery-pack-of-an-ev-jpg.jpg",
+        "alt": "车轮与悬架展品旁展示的电动车电池内部结构",
+        "caption": "车轮与悬架展品旁展示的电动车电池内部结构. 参考配图，并非 AutoBridge 的检测或交易记录。",
+        "wiki_title": "Lithium-ion battery",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Battery pack of an EV.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Battery_pack_of_an_EV.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Battery_pack_of_an_EV.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Battery_pack_of_an_EV.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 4.0",
+        "artist": "Mugel2110",
+        "credit": "Own work",
+        "candidate_description": "Battery pack of an EV",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "ac83119d38f58948f3b5464c48be2ea89d4a0c32e79d4debe5042fc89326e207",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visual review confirmed a road-vehicle high-voltage battery pack and drivetrain assembly, matching this EV battery warranty guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    }
+  },
+  "revision_history": [
+    {
+      "date": "2026-09-05",
+      "actor": "codex-final-review-user-confirmed-2026-09-05",
+      "action": "AI review passed; user authorized targeted production deployment"
+    },
+    {
+      "date": "2026-09-05",
+      "actor": "codex-ai-rebuild",
+      "action": "researched bilingual source and ten-language localization staged for passive review"
+    },
+    {
+      "date": "2026-09-05",
+      "actor": "codex-ai-rebuild",
+      "action": "researched bilingual source and ten-language localization staged for passive review"
+    },
+    {
+      "date": "2026-09-05",
+      "actor": "codex-ai-rebuild",
+      "action": "researched bilingual source and ten-language localization staged for passive review"
+    },
+    {
+      "date": "2026-08-23",
+      "actor": "codex-user-approved-direct-batch",
+      "action": "approved and deployed to production"
+    },
+    {
+      "date": "2026-08-23",
+      "actor": "codex-ai-rebuild",
+      "action": "researched bilingual source and ten-language localization staged for passive review"
+    },
+    {
+      "date": "2026-08-22",
+      "actor": "codex-user-approved-direct-batch",
+      "action": "approved and deployed to production"
+    },
+    {
+      "date": "2026-08-22",
+      "actor": "codex-ai-rebuild",
+      "action": "researched bilingual source and ten-language localization staged for passive review"
+    },
+    {
+      "date": "2026-08-22",
+      "actor": "codex-ai-rebuild",
+      "action": "researched bilingual source and ten-language localization staged for passive review"
+    },
+    {
+      "date": "2026-07-14",
+      "actor": "codex-ai-rebuild",
+      "action": "researched bilingual source and ten-language localization staged for passive review"
+    },
+    {
+      "date": "2026-07-14",
+      "actor": "codex-ai-rebuild",
+      "action": "researched bilingual source and ten-language localization staged for passive review"
+    },
+    {
+      "date": "2026-07-03",
+      "actor": "codex",
+      "action": "enabled French/German and category pinning fields"
+    },
+    {
+      "date": "2026-07-03",
+      "actor": "codex",
+      "action": "extracted current static HTML into structured content source"
+    },
+    {
+      "at": "2026-09-07T22:57:33.012Z",
+      "action": "Recovered complete non-scaffolded bodies in ten locales from a hash-verified historical snapshot. Retained current images, summaries and citations. Current facts and all-language alignment still require review.",
+      "human_reviewed": false
+    },
+    {
+      "at": "2026-09-08T11:02:37.696Z",
+      "action": "Removed repeated Chinese FAQ tails or rewrote three repetitive buyer-task paragraphs. Full review is still pending.",
+      "human_reviewed": false
+    }
+  ],
+  "pinned_in_category": false,
+  "synced_at": "2026-09-05T05:53:33.531Z",
+  "review_deadline_at": "2026-09-08T05:53:33.531Z",
+  "sources": [
+    {
+      "title": "ASEAN Guidelines on Light Electric Vehicles",
+      "organization": "Association of Southeast Asian Nations",
+      "url": "https://asean.org/wp-content/uploads/2024/11/ASEAN-Guidelines-LEV_ISBN.pdf",
+      "supports": "Maps differences among ASEAN member states in vehicle approval, charging, battery performance, testing and swapping standards.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "Procedures on Importation and Registration of a Car",
+      "organization": "Singapore Land Transport Authority",
+      "url": "https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/Importation_Guidelines/Car.pdf",
+      "supports": "Provides a destination-specific example of EV import, recognised safety evidence and charging requirements.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "Registration of EV Chargers",
+      "organization": "Singapore Land Transport Authority",
+      "url": "https://www.lta.gov.sg/content/ltagov/en/industry_innovations/technologies/electric_vehicles/regulating_safety_of_ev_chargers/registration-of-ev-chargers.html",
+      "supports": "Shows that charger approval, registration, inspection and maintenance can be locally regulated.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "Electric vehicle batteries – Global EV Outlook 2025",
+      "organization": "International Energy Agency",
+      "url": "https://www.iea.org/reports/global-ev-outlook-2025/electric-vehicle-batteries",
+      "supports": "Reports high LFP adoption and strong Chinese import participation in Southeast Asian EV markets while describing chemistry and cost differences.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "UN GTR No. 22: In-vehicle Battery Durability",
+      "organization": "United Nations Economic Commission for Europe",
+      "url": "https://unece.org/transport/standards/transport/vehicle-regulations-wp29/global-technical-regulations-gtrs",
+      "supports": "Provides durability and health-monitoring concepts without creating uniform ASEAN commercial warranty rights.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "Battery Lifespan",
+      "organization": "National Renewable Energy Laboratory",
+      "url": "https://www.nrel.gov/transportation/battery-lifespan.html",
+      "supports": "Explains environmental, cycling and thermal variables relevant to remaining battery life.",
+      "accessed_at": "2026-08-22"
+    }
+  ],
+  "evidence_gaps": [
+    "Approval, registration, charging, consumer and end-of-life requirements must be confirmed in each ASEAN destination; Singapore and ASEAN guidance do not create a single regional warranty regime.",
+    "Flood classification, warranty exclusion, accepted inspection method and transferability require VIN-specific written confirmation.",
+    "Workshop software, parts stock, ferry or inter-island dangerous-goods transport and replacement-pack availability require local evidence."
+  ],
+  "editorial_angle": "Southeast Asia battery warranty checks must combine country-specific eligibility with moisture, flood, inter-island logistics and local diagnostic capability.",
+  "editorial": {
+    "policy_version": "2026-08-15",
+    "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+    "author": {
+      "type": "Organization",
+      "name": "AutoBridge Export Editorial Team",
+      "url_path": "/authors/"
+    },
+    "methodology": "document_research_and_procurement_analysis",
+    "evidence": {
+      "level": "documented_sources",
+      "first_hand": false,
+      "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+    },
+    "ai_assistance": {
+      "used": true,
+      "roles": [
+        "research_support",
+        "drafting_support",
+        "translation_support"
+      ],
+      "disclosure_required": true
+    },
+    "review": {
+      "status": "editorial_review_pending",
+      "reviewed_at": null,
+      "reviewer": null,
+      "human_reviewed": false
+    },
+    "previous_review": {
+      "status": "ai_reviewed_user_authorized",
+      "reviewed_at": "2026-09-05T06:44:00.617Z",
+      "reviewer": "AI_REVIEWER",
+      "reviewer_commit": "",
+      "content_hash": "",
+      "publication_authorized_by": "codex-final-review-user-confirmed-2026-09-05",
+      "note": "Independent AI review passed and the user authorized publication. This is not a human editorial review."
+    }
+  },
+  "published_at": null,
+  "indexing_state": "quality_hold",
+  "publication_eligible": false,
+  "previous_published_at": "2026-09-05T06:44:00.617Z"
+}

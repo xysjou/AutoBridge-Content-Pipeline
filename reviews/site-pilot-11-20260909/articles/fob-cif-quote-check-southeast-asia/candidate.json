@@ -1,0 +1,630 @@
+{
+  "schema_version": "1.0",
+  "type": "buyer_guide",
+  "slug": "fob-cif-quote-check-southeast-asia",
+  "source_language": "zh",
+  "status": "quality_hold",
+  "canonical_path": "/en/guides/fob-cif-quote-check-southeast-asia.html",
+  "search_intent": "Compare FOB and CIF quotations for Chinese vehicles imported into a Southeast Asian country",
+  "market": "Southeast Asia",
+  "image": {
+    "src": "../../assets/editorial/the-port-of-singapore-jpg.jpg",
+    "alt": "Container stacks, gantry cranes and trucks at Singapore port",
+    "caption": "Container stacks, gantry cranes and trucks at Singapore port. Reference photograph, not a record of an AutoBridge inspection or transaction.",
+    "wiki_title": "Container ship",
+    "review_note": "Image description corrected; full article review and publication approval remain pending.",
+    "wiki_file_title": "The port of Singapore.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:The_port_of_Singapore.jpg",
+    "source_file_page": "https://commons.wikimedia.org/wiki/File:The_port_of_Singapore.jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/The_port_of_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "license": "CC BY-SA 2.0",
+    "artist": "William Cho",
+    "credit": "Port of Singapore Uploaded by Hydriz",
+    "candidate_description": "PSA Singapore Terminals is the world's busiest transhipment hub, handling about one-fifth of the world's total container transhipment throughput, and 6% of global container throughput. It was voted the \"Best Container Terminal Operator (Asia) for the 20th time at the 2009 Asian Freight & Supply Chain Awards. PP: 5 images HDR with blending of 1 image on the moving container trucks Best viewed on BLACK",
+    "identity_status": "confirmed_topic_match",
+    "identity_reviewed": true,
+    "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+    "identity_reviewer": "codex-ai-visual-review",
+    "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+    "asset_sha256": "98b7993b5a8724025349cbf0c6d067c37a47675b03c1deaa3b75eb4106561dd5",
+    "evidence_scope": "reference_illustration_not_first_hand",
+    "previous_identity_review": {
+      "status": "confirmed_model_match",
+      "note": "Visible Singapore container terminal, cranes and feeder trucks match the Southeast Asia FOB/CIF logistics guide."
+    }
+  },
+  "translations": {
+    "en": {
+      "title": "FOB vs CIF vehicle quotes for Southeast Asia: include permits and island delivery",
+      "seo_title": "Southeast Asia FOB vs CIF Vehicle Quote Check",
+      "meta_description": "Compare China vehicle FOB and CIF quotes for one Southeast Asian country and city, including steering side, permits, customs value, feeder transport and registration.",
+      "summary": "For Southeast Asian shipments, compare FOB and CIF to a named port, then check feeder services, inter-island carriage and registration separately. Price the route to the actual delivery island, not just the main port.",
+      "eyebrow": "Southeast Asia vehicle quote audit",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../en/index.html\">Home</a><span>/</span><a href=\"../../en/guides/index.html\">Guides</a><span>/</span><span>FOB vs CIF vehicle quotes for Southeast Asia: include permits and island delivery</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">Southeast Asia vehicle quote audit</p>\n      <h1>FOB vs CIF vehicle quotes for Southeast Asia: include permits and island delivery</h1>\n      <p class=\"lead\">For Southeast Asian shipments, compare FOB and CIF to a named port, then check feeder services, inter-island carriage and registration separately. Price the route to the actual delivery island, not just the main port.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/the-port-of-singapore-jpg.jpg\" alt=\"Container stacks, gantry cranes and trucks at Singapore port\" loading=\"lazy\"><figcaption>Container stacks, gantry cranes and trucks at Singapore port. Reference photograph, not a record of an AutoBridge inspection or transaction.</figcaption></figure>\n      <h2>Replace Southeast Asia with a country, port, island and city</h2>\n      <p>State the destination country, discharge terminal, importer, final city or island, expected declaration date, registration market and physical handover. If the main vessel reaches a regional hub before a feeder, barge, ferry or road leg, identify the transshipment port, carriers, custody points, connection windows and party responsible for import clearance or bonded movement on each segment.</p>\n      <p>Freeze model year, exact variant, steering side, powertrain, condition, quantity and VINs. ASEAN&#39;s light-EV guidelines map differences among member states, so “Southeast Asia specification” is not an approval. New or used eligibility, left- or right-hand drive, import licence, whole-vehicle approval, charging interface, battery evidence and registration must be confirmed by the final country.</p>\n      <h2>Place FOB or CIF at the real maritime handover</h2>\n      <p>FOB should name the Chinese shipment port and list factory collection, inland haulage, inspection, export declaration, terminal and loading; risk normally transfers on board the buyer-nominated vessel. CIF names a destination port and requires the seller to pay main sea carriage and arrange insurance, but risk still transfers on board in China rather than when the vehicle reaches Southeast Asia.</p>\n      <p>A container is commonly delivered to a terminal or carrier before ship loading, so assess FCA. If the seller is responsible for insured multimodal carriage that includes feeder or inland movement, assess CIP. The appendix should state container or RoRo, direct or transshipped service, carrier, booking deadline, free time, EV battery state and any acceptance condition for used vehicles.</p>\n      <h2>Keep separate ledgers for the main voyage and last mile</h2>\n      <p>Ledger one covers vehicle, China documents, inland movement and origin terminal; two covers main sea freight, surcharges, transshipment and insurance; three covers discharge, documentation, terminal, inspection, storage and destination agency; four separately covers feeder vessel, ferry, inter-island dangerous-goods arrangements, road or rail, bonded transit and final delivery; five covers permits, taxes, approval, modification and registration.</p>\n      <p>Each line needs currency, billing unit, tax, payer, payee, validity and written basis. Obtain one schedule at the discharge port and another for the final city so the main-port agent does not stop at the terminal while the local carrier starts only outside the gate. Define an approval process for storage or rebooking costs caused by a cancelled feeder, missed connection or port delay.</p>\n      <h2>Use Singapore to see why FOB price is not customs value</h2>\n      <p>Singapore Customs&#39; current valuation pages explain treatment when actual freight or insurance is unavailable for FOB imports, and its motor-vehicle example adds freight, handling and insurance to an FOB vehicle price to establish customs value. The example clearly shows that buying FOB does not automatically make the bare vehicle price taxable and that quantifiable transport and insurance evidence matters.</p>\n      <p>Singapore&#39;s method does not govern Malaysia, Thailand, Indonesia, Viet Nam, the Philippines or another destination. The importer should recalculate under national classification, condition, origin, party relationship, freight, insurance, exchange rate and declaration date. Separate a CIF amount into its components too, so post-import inland costs are not included or added twice.</p>\n      <h2>Secure the permit and technical route before locking freight</h2>\n      <p>Malaysia MITI&#39;s personal-vehicle Approved Permit and Singapore&#39;s vehicle import and registration procedures show that permission, valuation, clearance and registration are national stages independent of the Incoterm. Before payment, the importer should test the proposed VIN or exact specification against applicant eligibility, timing, any category or quota, required tests, document language, validity and pre-shipment conditions.</p>\n      <p>For an EV, verify destination charging requirements, approval of any supplied charging equipment, software and service support. For an island or ferry leg, obtain the actual carrier&#39;s written acceptance of the battery vehicle, required state of charge, declaration and securing. Allocate the consequences of a refused permit or carriage booking in the deposit refund and replacement-shipment clauses.</p>\n      <h2>Compare at registration point and stress-test connections</h2>\n      <p>Price FOB and CIF to the same city or island, adding destination port, taxes, valuation exposure, permit, feeder, inland movement, approval, registration, foreign exchange and delay. Mark unknowns open with an owner and deadline. Test three scenarios separately: a main-vessel delay misses the feeder, late documents create storage, and cargo cover ends at the discharge port.</p>\n      <p>A buyer with local networks, feeder contracts and door-to-door insurance may gain control under FOB or FCA. A seller with transparent main carriage, usable insurance and a reliable destination partner may make CIF or CIP smoother. Either way, steering configuration, import permission, technical acceptance, charging compliance and road registration require separate written acceptance from the responsible national parties.</p>\n      <h2>Frequently asked questions</h2>\n      <h3>Does CIF to Singapore or a regional hub include island delivery?</h3>\n      <p>Do not assume it does. CIF reaches the named port; feeder, ferry, inland and final delivery require separate cost and insurance confirmation.</p>\n      <h3>Is the FOB vehicle price the Southeast Asian customs value?</h3>\n      <p>Not necessarily. The destination may add freight, insurance and other adjustments under its national valuation rules.</p>\n      <h3>Does ASEAN issue one vehicle import permit?</h3>\n      <p>No. Eligibility, steering side, technical standards, taxes and registration remain national matters.</p>\n      <h3>Does a Malaysian Approved Permit work elsewhere in ASEAN?</h3>\n      <p>No. It is a Malaysian national process and does not replace another country&#39;s import permission.</p>\n      <h3>What additional checks apply to an EV quote?</h3>\n      <p>Confirm carrier acceptance, battery state and declaration, destination charging and technical approval, feeder or ferry rules and service support.</p>\n\n      <h2>Sources</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/establishing-the-customs-value/\" target=\"_blank\" rel=\"noopener noreferrer\">Establishing the Customs Value</a><span>Singapore Customs · 2026-09-07</span></li>\n        <li><a href=\"https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/guide-to-importing-dutiable-motor-vehicles/\" target=\"_blank\" rel=\"noopener noreferrer\">Guide to Importing Dutiable Motor Vehicles</a><span>Singapore Customs · 2026-09-07</span></li>\n        <li><a href=\"https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/Importation_Guidelines/Car.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Procedures on Importation and Registration of a Car</a><span>Singapore Land Transport Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.miti.gov.my/miti/resources/Approve%2520Permit/AP%2520Announcement/Notice_for_Application_of_Personal_Vehicle_Import_License_%28AP%29_%2815072019%29_BI.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Approved Permit Application of Personal Vehicles</a><span>Ministry of Investment, Trade and Industry of Malaysia · 2026-08-22</span></li>\n        <li><a href=\"https://asean.org/wp-content/uploads/2024/11/ASEAN-Guidelines-LEV_ISBN.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">ASEAN Guidelines on Light Electric Vehicles</a><span>Association of Southeast Asian Nations · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "word_count": 1581,
+      "reading_time_minutes": 8,
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/the-port-of-singapore-jpg.jpg",
+        "alt": "Container stacks, gantry cranes and trucks at Singapore port",
+        "caption": "Container stacks, gantry cranes and trucks at Singapore port. Reference photograph, not a record of an AutoBridge inspection or transaction.",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "The port of Singapore.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:The_port_of_Singapore.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:The_port_of_Singapore.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/The_port_of_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 2.0",
+        "artist": "William Cho",
+        "credit": "Port of Singapore Uploaded by Hydriz",
+        "candidate_description": "PSA Singapore Terminals is the world's busiest transhipment hub, handling about one-fifth of the world's total container transhipment throughput, and 6% of global container throughput. It was voted the \"Best Container Terminal Operator (Asia) for the 20th time at the 2009 Asian Freight & Supply Chain Awards. PP: 5 images HDR with blending of 1 image on the moving container trucks Best viewed on BLACK",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "98b7993b5a8724025349cbf0c6d067c37a47675b03c1deaa3b75eb4106561dd5",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Singapore container terminal, cranes and feeder trucks match the Southeast Asia FOB/CIF logistics guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "fr": {
+      "title": "Comparer FOB et CIF pour les véhicules chinois en Asie du Sud-Est",
+      "seo_title": "Asie du Sud-Est : contrôle véhicule FOB ou CIF",
+      "meta_description": "Comparez FOB et CIF pour un pays et une ville précis, avec conduite, permis, valeur douanière, navette insulaire et immatriculation.",
+      "summary": "En Asie du Sud-Est, comparez FOB et CIF jusqu'au port désigné, puis vérifiez dessertes secondaires, transport interinsulaire et immatriculation. Chiffrez le trajet jusqu'à l'île de livraison.",
+      "eyebrow": "Audit des devis Asie du Sud-Est",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../fr/index.html\">Accueil</a><span>/</span><a href=\"../../fr/guides/index.html\">Guides</a><span>/</span><span>Comparer FOB et CIF pour les véhicules chinois en Asie du Sud-Est</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">Audit des devis Asie du Sud-Est</p>\n      <h1>Comparer FOB et CIF pour les véhicules chinois en Asie du Sud-Est</h1>\n      <p class=\"lead\">En Asie du Sud-Est, comparez FOB et CIF jusqu&#39;au port désigné, puis vérifiez dessertes secondaires, transport interinsulaire et immatriculation. Chiffrez le trajet jusqu&#39;à l&#39;île de livraison.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/the-port-of-singapore-jpg.jpg\" alt=\"Conteneurs, portiques et camions au port de Singapour\" loading=\"lazy\"><figcaption>Conteneurs, portiques et camions au port de Singapour. Photo d’illustration, et non compte rendu d’une inspection ou d’une transaction AutoBridge.</figcaption></figure>\n      <h2>Définir pays, port, île et ville</h2>\n      <p>Indiquez pays, terminal, importateur, ville ou île finale, date de déclaration, marché d&#39;immatriculation et remise. Si le navire principal rejoint un hub puis un feeder, bac ou route, nommez port de transbordement, transporteurs, changements de garde, connexions et responsable du dédouanement ou transit. Figez année, version, côté du volant, énergie, état et VIN. Les lignes directrices ASEAN décrivent des différences nationales: admissibilité neuf ou occasion, conduite, licence, réception, charge, batterie et registre restent à confirmer dans le pays final.</p>\n      <h2>Placer FOB ou CIF au véritable transfert maritime</h2>\n      <p>FOB nomme le port chinois et détaille collecte, route, inspection, déclaration, terminal et chargement; le risque passe normalement à bord. CIF nomme le port de destination et le vendeur paie fret et assurance, mais le risque passe aussi en Chine. Un conteneur remis avant chargement invite à examiner FCA; un transport multimodal assuré par le vendeur, incluant feeder ou route, invite à examiner CIP. L&#39;annexe précise conteneur ou RoRo, transbordement, transporteur, réservation, franchise, état de batterie et conditions pour l&#39;occasion.</p>\n      <h2>Séparer traversée principale et dernier segment</h2>\n      <p>Tenez des comptes pour véhicule, documents chinois, route et terminal d&#39;origine; fret principal, suppléments, transbordement et assurance; déchargement, documents, terminal, inspection, stockage et agent; puis feeder, ferry, exigences batterie inter-îles, route ou rail, transit et livraison; enfin permis, taxes, approbation, adaptation et registre. Chaque ligne porte devise, unité, taxe, payeur, bénéficiaire, validité et preuve. Obtenez un tarif au port et un autre dans la ville finale et prévoyez qui approuve stockage ou nouvelle réservation après connexion manquée.</p>\n      <h2>Distinguer prix FOB et valeur douanière nationale</h2>\n      <p>Singapour explique comment traiter fret et assurance inconnus sur importation FOB et ajoute, dans son exemple automobile, fret, manutention et assurance au prix du véhicule. FOB ne rend donc pas automatiquement taxable le seul prix nu. Cette méthode ne régit toutefois ni Malaisie, ni Thaïlande, ni Indonésie, ni Viet Nam, ni Philippines. L&#39;importateur recalcule classement, état, origine, relation, transport, assurance, change et date selon sa loi; même un total CIF doit être ventilé pour éviter le double compte.</p>\n      <h2>Obtenir permis et acceptation technique avant le fret</h2>\n      <p>Le permis personnel de la MITI malaisienne et le parcours singapourien montrent que permission, évaluation, douane et registre sont nationaux. Testez avant paiement demandeur, catégorie, délai, essais, langue, validité et conditions avant embarquement. Pour un VE, confirmez recharge, équipement, logiciel et service; pour île ou bac, obtenez l&#39;accord écrit du transporteur sur batterie, charge, déclaration et arrimage. Comparez FOB et CIF jusqu&#39;à la même ville avec feeder, fiscalité, registre, change et retard, et liez refus de permis ou transport au remboursement de l&#39;acompte.</p>\n      <h2>Questions fréquentes</h2>\n      <h3>CIF au hub comprend-il la livraison insulaire ?</h3>\n      <p>Non par défaut. Feeder, ferry, route et assurance après port sont à chiffrer séparément.</p>\n      <h3>Le prix FOB est-il la valeur douanière ?</h3>\n      <p>Pas nécessairement; le pays peut ajouter fret, assurance et autres ajustements.</p>\n      <h3>L&#39;ASEAN délivre-t-elle un permis unique ?</h3>\n      <p>Non. Admissibilité, conduite, normes, taxes et registre restent nationaux.</p>\n      <h3>Le permis malaisien vaut-il ailleurs ?</h3>\n      <p>Non. Il ne remplace aucune autorisation d&#39;un autre pays.</p>\n\n      <h2>Sources</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/establishing-the-customs-value/\" target=\"_blank\" rel=\"noopener noreferrer\">Establishing the Customs Value</a><span>Singapore Customs · 2026-09-07</span></li>\n        <li><a href=\"https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/guide-to-importing-dutiable-motor-vehicles/\" target=\"_blank\" rel=\"noopener noreferrer\">Guide to Importing Dutiable Motor Vehicles</a><span>Singapore Customs · 2026-09-07</span></li>\n        <li><a href=\"https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/Importation_Guidelines/Car.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Procedures on Importation and Registration of a Car</a><span>Singapore Land Transport Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.miti.gov.my/miti/resources/Approve%2520Permit/AP%2520Announcement/Notice_for_Application_of_Personal_Vehicle_Import_License_%28AP%29_%2815072019%29_BI.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Approved Permit Application of Personal Vehicles</a><span>Ministry of Investment, Trade and Industry of Malaysia · 2026-08-22</span></li>\n        <li><a href=\"https://asean.org/wp-content/uploads/2024/11/ASEAN-Guidelines-LEV_ISBN.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">ASEAN Guidelines on Light Electric Vehicles</a><span>Association of Southeast Asian Nations · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/the-port-of-singapore-jpg.jpg",
+        "alt": "Conteneurs, portiques et camions au port de Singapour",
+        "caption": "Conteneurs, portiques et camions au port de Singapour. Photo d’illustration, et non compte rendu d’une inspection ou d’une transaction AutoBridge.",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "The port of Singapore.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:The_port_of_Singapore.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:The_port_of_Singapore.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/The_port_of_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 2.0",
+        "artist": "William Cho",
+        "credit": "Port of Singapore Uploaded by Hydriz",
+        "candidate_description": "PSA Singapore Terminals is the world's busiest transhipment hub, handling about one-fifth of the world's total container transhipment throughput, and 6% of global container throughput. It was voted the \"Best Container Terminal Operator (Asia) for the 20th time at the 2009 Asian Freight & Supply Chain Awards. PP: 5 images HDR with blending of 1 image on the moving container trucks Best viewed on BLACK",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "98b7993b5a8724025349cbf0c6d067c37a47675b03c1deaa3b75eb4106561dd5",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Singapore container terminal, cranes and feeder trucks match the Southeast Asia FOB/CIF logistics guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "de": {
+      "title": "FOB und CIF für China-Fahrzeuge nach Südostasien vergleichen",
+      "seo_title": "Südostasien: Fahrzeugangebot FOB oder CIF prüfen",
+      "meta_description": "Vergleichen Sie FOB und CIF für Land und Stadt samt Lenkungsseite, Genehmigung, Zollwert, Inselzubringer und Zulassung.",
+      "summary": "Vergleichen Sie FOB und CIF für Südostasien bis zum benannten Hafen. Prüfen Sie Zubringerschiffe, Inseltransport und Zulassung separat und kalkulieren Sie bis zur tatsächlichen Lieferinsel.",
+      "eyebrow": "Angebotsaudit Südostasien",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../de/index.html\">Startseite</a><span>/</span><a href=\"../../de/guides/index.html\">Leitfäden</a><span>/</span><span>FOB und CIF für China-Fahrzeuge nach Südostasien vergleichen</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">Angebotsaudit Südostasien</p>\n      <h1>FOB und CIF für China-Fahrzeuge nach Südostasien vergleichen</h1>\n      <p class=\"lead\">Vergleichen Sie FOB und CIF für Südostasien bis zum benannten Hafen. Prüfen Sie Zubringerschiffe, Inseltransport und Zulassung separat und kalkulieren Sie bis zur tatsächlichen Lieferinsel.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/the-port-of-singapore-jpg.jpg\" alt=\"Containerstapel, Portalkräne und Lastwagen im Hafen von Singapur\" loading=\"lazy\"><figcaption>Containerstapel, Portalkräne und Lastwagen im Hafen von Singapur. Beispielfoto, kein Nachweis einer Prüfung oder eines Geschäfts von AutoBridge.</figcaption></figure>\n      <h2>Land, Hafen, Insel und Stadt festlegen</h2>\n      <p>Nennen Sie Land, Terminal, Importeur, Endstadt oder Insel, Anmeldung, Zulassungsmarkt und Übergabe. Führt das Hauptschiff zu einem Hub und danach Feeder, Fähre oder Straße, benennen Sie Umladehafen, Frachtführer, Obhutswechsel, Anschlüsse und Abfertigungs- oder Transitverantwortung. Fixieren Sie Modelljahr, Variante, Lenkungsseite, Antrieb, Zustand und VIN. ASEAN-Leitlinien zeigen nationale Unterschiede; Neu- oder Gebrauchtzulässigkeit, Lenkung, Lizenz, Typgenehmigung, Ladeanschluss, Batterie und Register bestätigt der Endstaat.</p>\n      <h2>FOB oder CIF am echten Seeübergang ansetzen</h2>\n      <p>FOB nennt den chinesischen Hafen und trennt Abholung, Inland, Prüfung, Anmeldung, Terminal und Laden; Gefahr geht meist an Bord über. CIF nennt den Zielhafen und der Verkäufer bezahlt Fracht und Versicherung, aber die Gefahr geht ebenfalls in China über. Bei Containerübergabe vor Verladung ist FCA, bei versichertem multimodalem Verkäuferlauf einschließlich Feeder oder Land CIP zu prüfen. Der Anhang nennt Container oder RoRo, Umladung, Carrier, Buchung, Freitage, Batteriestand und Annahmebedingungen für Gebrauchte.</p>\n      <h2>Hauptlauf und letzte Strecke getrennt kalkulieren</h2>\n      <p>Führen Sie Konten für Fahrzeug, China-Dokumente, Inland und Ursprung; Hauptfracht, Zuschläge, Umladung und Versicherung; Löschung, Dokumente, Terminal, Kontrolle, Lager und Agent; danach Feeder, Fähre, Batterieanforderungen zwischen Inseln, Straße oder Bahn, Zolltransit und Endlieferung; zuletzt Erlaubnis, Steuer, Genehmigung, Umbau und Zulassung. Jede Zeile hat Währung, Einheit, Steuer, Zahler, Empfänger, Gültigkeit und Beleg. Holen Sie Tarife am Hafen und in der Endstadt ein und regeln Sie Lager- oder Umbuchungsfreigabe bei verpasstem Anschluss.</p>\n      <h2>FOB-Preis vom nationalen Zollwert trennen</h2>\n      <p>Singapur erläutert unbekannte Fracht und Versicherung bei FOB und addiert im Fahrzeugbeispiel Fracht, Umschlag und Versicherung zum Wagenpreis. FOB macht also nicht automatisch nur den Nettopreis steuerbar. Die Methode gilt aber nicht für Malaysia, Thailand, Indonesien, Viet Nam oder die Philippinen. Der Importeur berechnet Einreihung, Zustand, Ursprung, Beziehung, Fracht, Versicherung, Wechselkurs und Anmeldetag nach nationalem Recht; auch CIF wird zerlegt, damit Inlandskosten nicht doppelt zählen.</p>\n      <h2>Erlaubnis und Technik vor Frachtbindung sichern</h2>\n      <p>Malaysias persönliche MITI-Genehmigung und Singapurs Ablauf zeigen, dass Erlaubnis, Bewertung, Zoll und Register national bleiben. Prüfen Sie Antragsteller, Kategorie, Frist, Tests, Sprache, Laufzeit und Vorversandbedingungen vor Zahlung. Beim Elektroauto klären Sie Laden, Geräte, Software und Service; bei Insel oder Fähre verlangt der tatsächliche Carrier schriftlich Batterieannahme, Ladezustand, Erklärung und Sicherung. Rechnen Sie beide Modelle bis zur selben Stadt einschließlich Feeder, Steuer, Register, Währung und Verzögerung und verknüpfen Sie Ablehnung mit Anzahlungsrückzahlung.</p>\n      <h2>Häufige Fragen</h2>\n      <h3>Enthält CIF zum Hub die Insellieferung?</h3>\n      <p>Nicht automatisch. Feeder, Fähre, Inland und Versicherung nach dem Hafen sind gesondert.</p>\n      <h3>Ist der FOB-Preis der Zollwert?</h3>\n      <p>Nicht zwingend; das Land kann Fracht, Versicherung und Anpassungen addieren.</p>\n      <h3>Gibt ASEAN eine gemeinsame Importlizenz?</h3>\n      <p>Nein. Zulässigkeit, Lenkung, Normen, Steuern und Register sind national.</p>\n      <h3>Gilt Malaysias Permit anderswo?</h3>\n      <p>Nein. Es ersetzt keine Erlaubnis eines anderen Staates.</p>\n\n      <h2>Quellen</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/establishing-the-customs-value/\" target=\"_blank\" rel=\"noopener noreferrer\">Establishing the Customs Value</a><span>Singapore Customs · 2026-09-07</span></li>\n        <li><a href=\"https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/guide-to-importing-dutiable-motor-vehicles/\" target=\"_blank\" rel=\"noopener noreferrer\">Guide to Importing Dutiable Motor Vehicles</a><span>Singapore Customs · 2026-09-07</span></li>\n        <li><a href=\"https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/Importation_Guidelines/Car.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Procedures on Importation and Registration of a Car</a><span>Singapore Land Transport Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.miti.gov.my/miti/resources/Approve%2520Permit/AP%2520Announcement/Notice_for_Application_of_Personal_Vehicle_Import_License_%28AP%29_%2815072019%29_BI.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Approved Permit Application of Personal Vehicles</a><span>Ministry of Investment, Trade and Industry of Malaysia · 2026-08-22</span></li>\n        <li><a href=\"https://asean.org/wp-content/uploads/2024/11/ASEAN-Guidelines-LEV_ISBN.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">ASEAN Guidelines on Light Electric Vehicles</a><span>Association of Southeast Asian Nations · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/the-port-of-singapore-jpg.jpg",
+        "alt": "Containerstapel, Portalkräne und Lastwagen im Hafen von Singapur",
+        "caption": "Containerstapel, Portalkräne und Lastwagen im Hafen von Singapur. Beispielfoto, kein Nachweis einer Prüfung oder eines Geschäfts von AutoBridge.",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "The port of Singapore.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:The_port_of_Singapore.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:The_port_of_Singapore.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/The_port_of_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 2.0",
+        "artist": "William Cho",
+        "credit": "Port of Singapore Uploaded by Hydriz",
+        "candidate_description": "PSA Singapore Terminals is the world's busiest transhipment hub, handling about one-fifth of the world's total container transhipment throughput, and 6% of global container throughput. It was voted the \"Best Container Terminal Operator (Asia) for the 20th time at the 2009 Asian Freight & Supply Chain Awards. PP: 5 images HDR with blending of 1 image on the moving container trucks Best viewed on BLACK",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "98b7993b5a8724025349cbf0c6d067c37a47675b03c1deaa3b75eb4106561dd5",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Singapore container terminal, cranes and feeder trucks match the Southeast Asia FOB/CIF logistics guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "es": {
+      "title": "Comparar FOB y CIF para vehículos chinos en el Sudeste Asiático",
+      "seo_title": "Sudeste Asiático: revisar vehículo FOB o CIF",
+      "meta_description": "Compare FOB y CIF para país y ciudad, con volante, permiso, valor aduanero, conexión insular y matrícula.",
+      "summary": "ASEAN no es un territorio único de importación. El precio debe seguir puerto principal, feeder, permiso nacional y registro final.",
+      "eyebrow": "Auditoría de cotizaciones del Sudeste Asiático",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../es/index.html\">Inicio</a><span>/</span><a href=\"../../es/guides/index.html\">Guías</a><span>/</span><span>Comparar FOB y CIF para vehículos chinos en el Sudeste Asiático</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">Auditoría de cotizaciones del Sudeste Asiático</p>\n      <h1>Comparar FOB y CIF para vehículos chinos en el Sudeste Asiático</h1>\n      <p class=\"lead\">ASEAN no es un territorio único de importación. El precio debe seguir puerto principal, feeder, permiso nacional y registro final.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/the-port-of-singapore-jpg.jpg\" alt=\"Contenedores apilados, grúas pórtico y camiones en el puerto de Singapur\" loading=\"lazy\"><figcaption>Contenedores apilados, grúas pórtico y camiones en el puerto de Singapur. Fotografía ilustrativa; no documenta una inspección ni una operación de AutoBridge.</figcaption></figure>\n      <h2>Definir país, puerto, isla y ciudad</h2>\n      <p>Indique país, terminal, importador, ciudad o isla final, fecha de declaración, mercado registral y entrega. Si el buque principal llega a un hub y sigue feeder, barcaza, ferry o carretera, nombre transbordo, transportistas, custodia, conexiones y responsable de despacho o tránsito. Fije año, versión, lado del volante, propulsión, estado y VIN. Las guías ASEAN muestran diferencias nacionales; admisibilidad nueva o usada, dirección, licencia, homologación, carga, batería y registro corresponden al Estado final.</p>\n      <h2>Situar FOB o CIF en la entrega marítima real</h2>\n      <p>FOB nombra puerto chino y separa recogida, tramo interior, inspección, declaración, terminal y carga; el riesgo suele pasar a bordo. CIF nombra puerto destino, el vendedor paga flete y seguro, pero el riesgo también pasa en China. Si el contenedor se entrega antes de cargar, evalúe FCA; si el vendedor organiza transporte multimodal asegurado con feeder o carretera, CIP. El anexo indica contenedor o RoRo, transbordo, transportista, reserva, tiempo libre, carga de batería y condiciones de aceptación de usados.</p>\n      <h2>Separar viaje principal y último tramo</h2>\n      <p>Mantenga cuentas para vehículo, documentos chinos, ruta y terminal de origen; flete principal, recargos, transbordo y seguro; descarga, documentos, terminal, revisión, almacén y agente; luego feeder, ferry, exigencias de batería entre islas, carretera o tren, tránsito y reparto; al final permisos, impuestos, aprobación, adaptación y matrícula. Cada línea tiene moneda, unidad, impuesto, pagador, beneficiario, vigencia y prueba. Obtenga tarifa en puerto y ciudad final y defina quién aprueba almacenaje o nueva reserva tras perder conexión.</p>\n      <h2>Separar precio FOB del valor nacional</h2>\n      <p>Singapur explica el tratamiento de flete y seguro desconocidos en FOB y, en su ejemplo vehicular, suma flete, manipulación y seguro al precio. FOB no convierte automáticamente el precio desnudo en base imponible. El método no rige Malasia, Tailandia, Indonesia, Viet Nam o Filipinas. El importador recalcula clasificación, estado, origen, relación, transporte, seguro, cambio y fecha según ley nacional; el total CIF también se desglosa para no duplicar el interior posterior.</p>\n      <h2>Asegurar permiso y técnica antes del flete</h2>\n      <p>El permiso personal de MITI Malasia y el proceso de Singapur muestran que autorización, valoración, aduana y registro son nacionales. Antes de pagar, pruebe solicitante, categoría, plazo, ensayos, idioma, vigencia y condiciones previas. Para un eléctrico confirme carga, equipo, software y servicio; para isla o ferry obtenga aceptación escrita sobre batería, carga, declaración y sujeción. Calcule FOB y CIF a la misma ciudad con feeder, impuestos, matrícula, divisa y demora, y vincule rechazo de permiso o transporte al reembolso del depósito.</p>\n      <h2>Preguntas frecuentes</h2>\n      <h3>¿CIF al hub incluye entrega insular?</h3>\n      <p>No por defecto. Feeder, ferry, interior y seguro posterior se cotizan por separado.</p>\n      <h3>¿El precio FOB es valor aduanero?</h3>\n      <p>No necesariamente; el país puede añadir flete, seguro y ajustes.</p>\n      <h3>¿ASEAN da una licencia común?</h3>\n      <p>No. Admisibilidad, volante, normas, impuestos y matrícula son nacionales.</p>\n      <h3>¿Sirve el permiso malasio en otro país?</h3>\n      <p>No. No reemplaza el permiso de otra jurisdicción.</p>\n\n      <h2>Fuentes</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/establishing-the-customs-value/\" target=\"_blank\" rel=\"noopener noreferrer\">Establishing the Customs Value</a><span>Singapore Customs · 2026-09-07</span></li>\n        <li><a href=\"https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/guide-to-importing-dutiable-motor-vehicles/\" target=\"_blank\" rel=\"noopener noreferrer\">Guide to Importing Dutiable Motor Vehicles</a><span>Singapore Customs · 2026-09-07</span></li>\n        <li><a href=\"https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/Importation_Guidelines/Car.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Procedures on Importation and Registration of a Car</a><span>Singapore Land Transport Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.miti.gov.my/miti/resources/Approve%2520Permit/AP%2520Announcement/Notice_for_Application_of_Personal_Vehicle_Import_License_%28AP%29_%2815072019%29_BI.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Approved Permit Application of Personal Vehicles</a><span>Ministry of Investment, Trade and Industry of Malaysia · 2026-08-22</span></li>\n        <li><a href=\"https://asean.org/wp-content/uploads/2024/11/ASEAN-Guidelines-LEV_ISBN.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">ASEAN Guidelines on Light Electric Vehicles</a><span>Association of Southeast Asian Nations · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/the-port-of-singapore-jpg.jpg",
+        "alt": "Contenedores apilados, grúas pórtico y camiones en el puerto de Singapur",
+        "caption": "Contenedores apilados, grúas pórtico y camiones en el puerto de Singapur. Fotografía ilustrativa; no documenta una inspección ni una operación de AutoBridge.",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "The port of Singapore.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:The_port_of_Singapore.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:The_port_of_Singapore.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/The_port_of_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 2.0",
+        "artist": "William Cho",
+        "credit": "Port of Singapore Uploaded by Hydriz",
+        "candidate_description": "PSA Singapore Terminals is the world's busiest transhipment hub, handling about one-fifth of the world's total container transhipment throughput, and 6% of global container throughput. It was voted the \"Best Container Terminal Operator (Asia) for the 20th time at the 2009 Asian Freight & Supply Chain Awards. PP: 5 images HDR with blending of 1 image on the moving container trucks Best viewed on BLACK",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "98b7993b5a8724025349cbf0c6d067c37a47675b03c1deaa3b75eb4106561dd5",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Singapore container terminal, cranes and feeder trucks match the Southeast Asia FOB/CIF logistics guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "pt-br": {
+      "title": "Comparar FOB e CIF para veículos chineses no Sudeste Asiático",
+      "seo_title": "Sudeste Asiático: confira veículo FOB ou CIF",
+      "meta_description": "Compare FOB e CIF para país e cidade, com direção, licença, valor aduaneiro, conexão insular e registro.",
+      "summary": "A ASEAN não é um território único de importação. O preço deve seguir porto principal, feeder, licença nacional e registro final.",
+      "eyebrow": "Auditoria de cotações do Sudeste Asiático",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../pt-br/index.html\">Início</a><span>/</span><a href=\"../../pt-br/guides/index.html\">Guias</a><span>/</span><span>Comparar FOB e CIF para veículos chineses no Sudeste Asiático</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">Auditoria de cotações do Sudeste Asiático</p>\n      <h1>Comparar FOB e CIF para veículos chineses no Sudeste Asiático</h1>\n      <p class=\"lead\">A ASEAN não é um território único de importação. O preço deve seguir porto principal, feeder, licença nacional e registro final.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/the-port-of-singapore-jpg.jpg\" alt=\"Contêineres empilhados, guindastes pórtico e caminhões no porto de Singapura\" loading=\"lazy\"><figcaption>Contêineres empilhados, guindastes pórtico e caminhões no porto de Singapura. Foto ilustrativa; não documenta uma inspeção ou transação da AutoBridge.</figcaption></figure>\n      <h2>Defina país, porto, ilha e cidade</h2>\n      <p>Informe país, terminal, importador, cidade ou ilha final, data da declaração, mercado de registro e entrega. Se o navio principal chega a um hub e segue feeder, barca, ferry ou estrada, nomeie transbordo, transportadores, custódia, conexões e responsável pelo desembaraço ou trânsito. Fixe ano, versão, lado da direção, propulsão, estado e VIN. As diretrizes ASEAN mostram diferenças nacionais; elegibilidade nova ou usada, volante, licença, homologação, recarga, bateria e registro cabem ao Estado final.</p>\n      <h2>Posicione FOB ou CIF na entrega marítima real</h2>\n      <p>FOB nomeia porto chinês e separa coleta, trecho interno, inspeção, declaração, terminal e embarque; o risco costuma passar a bordo. CIF nomeia porto destino, o vendedor paga frete e seguro, mas o risco também passa na China. Se o contêiner é entregue antes de carregar, avalie FCA; se o vendedor organiza multimodal segurado com feeder ou estrada, CIP. O anexo indica contêiner ou RoRo, transbordo, transportador, reserva, período livre, carga da bateria e condições para usados.</p>\n      <h2>Separe viagem principal e última etapa</h2>\n      <p>Mantenha contas para veículo, documentos chineses, rota e terminal de origem; frete principal, adicionais, transbordo e seguro; descarga, documentos, terminal, exame, armazém e agente; depois feeder, ferry, exigência de bateria entre ilhas, estrada ou trem, trânsito e entrega; por fim licença, tributos, aprovação, adaptação e registro. Cada linha tem moeda, unidade, imposto, pagador, favorecido, vigência e prova. Obtenha tarifa no porto e na cidade final e defina quem aprova armazenagem ou nova reserva após conexão perdida.</p>\n      <h2>Separe preço FOB do valor nacional</h2>\n      <p>Singapura explica frete e seguro desconhecidos em FOB e, no exemplo de veículo, soma frete, manuseio e seguro ao preço. FOB não torna automaticamente apenas o valor líquido tributável. O método não rege Malásia, Tailândia, Indonésia, Vietnã ou Filipinas. O importador recalcula classificação, estado, origem, relação, transporte, seguro, câmbio e data pela lei nacional; o total CIF também é aberto para evitar duplicar custo interior posterior.</p>\n      <h2>Garanta licença e técnica antes do frete</h2>\n      <p>A licença pessoal da MITI Malásia e o processo de Singapura mostram que autorização, valoração, alfândega e registro são nacionais. Antes de pagar, teste requerente, categoria, prazo, ensaio, idioma, validade e condições prévias. Em elétrico, confirme recarga, equipamento, software e serviço; em ilha ou ferry, obtenha aceitação escrita de bateria, carga, declaração e fixação. Calcule FOB e CIF à mesma cidade com feeder, tributos, registro, moeda e atraso e ligue rejeição da licença ou transporte à devolução do sinal.</p>\n      <h2>Perguntas frequentes</h2>\n      <h3>CIF ao hub inclui entrega na ilha?</h3>\n      <p>Não por padrão. Feeder, ferry, interior e seguro posterior são separados.</p>\n      <h3>Preço FOB é valor aduaneiro?</h3>\n      <p>Não necessariamente; o país pode acrescentar frete, seguro e ajustes.</p>\n      <h3>A ASEAN emite licença única?</h3>\n      <p>Não. Elegibilidade, direção, normas, impostos e registro são nacionais.</p>\n      <h3>A licença malaia vale em outro país?</h3>\n      <p>Não. Ela não substitui permissão de outra jurisdição.</p>\n\n      <h2>Fontes</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/establishing-the-customs-value/\" target=\"_blank\" rel=\"noopener noreferrer\">Establishing the Customs Value</a><span>Singapore Customs · 2026-09-07</span></li>\n        <li><a href=\"https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/guide-to-importing-dutiable-motor-vehicles/\" target=\"_blank\" rel=\"noopener noreferrer\">Guide to Importing Dutiable Motor Vehicles</a><span>Singapore Customs · 2026-09-07</span></li>\n        <li><a href=\"https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/Importation_Guidelines/Car.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Procedures on Importation and Registration of a Car</a><span>Singapore Land Transport Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.miti.gov.my/miti/resources/Approve%2520Permit/AP%2520Announcement/Notice_for_Application_of_Personal_Vehicle_Import_License_%28AP%29_%2815072019%29_BI.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Approved Permit Application of Personal Vehicles</a><span>Ministry of Investment, Trade and Industry of Malaysia · 2026-08-22</span></li>\n        <li><a href=\"https://asean.org/wp-content/uploads/2024/11/ASEAN-Guidelines-LEV_ISBN.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">ASEAN Guidelines on Light Electric Vehicles</a><span>Association of Southeast Asian Nations · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/the-port-of-singapore-jpg.jpg",
+        "alt": "Contêineres empilhados, guindastes pórtico e caminhões no porto de Singapura",
+        "caption": "Contêineres empilhados, guindastes pórtico e caminhões no porto de Singapura. Foto ilustrativa; não documenta uma inspeção ou transação da AutoBridge.",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "The port of Singapore.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:The_port_of_Singapore.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:The_port_of_Singapore.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/The_port_of_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 2.0",
+        "artist": "William Cho",
+        "credit": "Port of Singapore Uploaded by Hydriz",
+        "candidate_description": "PSA Singapore Terminals is the world's busiest transhipment hub, handling about one-fifth of the world's total container transhipment throughput, and 6% of global container throughput. It was voted the \"Best Container Terminal Operator (Asia) for the 20th time at the 2009 Asian Freight & Supply Chain Awards. PP: 5 images HDR with blending of 1 image on the moving container trucks Best viewed on BLACK",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "98b7993b5a8724025349cbf0c6d067c37a47675b03c1deaa3b75eb4106561dd5",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Singapore container terminal, cranes and feeder trucks match the Southeast Asia FOB/CIF logistics guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "ja": {
+      "title": "東南アジア向け中国車のFOB・CIFを許可と島内配送まで比較する",
+      "seo_title": "東南アジア車両FOB・CIF見積確認",
+      "meta_description": "特定国と都市について、ハンドル、許可、関税評価、島間支線、登録を含むFOBとCIFを比較します。",
+      "summary": "ASEANは単一車両輸入圏ではありません。中国引渡しから主要港、支線、国家承認、最終登録まで追跡します。",
+      "eyebrow": "東南アジア見積監査",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../ja/index.html\">ホーム</a><span>/</span><a href=\"../../ja/guides/index.html\">購入ガイド</a><span>/</span><span>東南アジア向け中国車のFOB・CIFを許可と島内配送まで比較する</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">東南アジア見積監査</p>\n      <h1>東南アジア向け中国車のFOB・CIFを許可と島内配送まで比較する</h1>\n      <p class=\"lead\">ASEANは単一車両輸入圏ではありません。中国引渡しから主要港、支線、国家承認、最終登録まで追跡します。</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/the-port-of-singapore-jpg.jpg\" alt=\"シンガポール港のコンテナ、ガントリークレーン、トラック\" loading=\"lazy\"><figcaption>シンガポール港のコンテナ、ガントリークレーン、トラック. 参考写真です。AutoBridgeによる検査や取引の記録ではありません。</figcaption></figure>\n      <h2>国、港、島、都市を決める</h2>\n      <p>国、荷揚げターミナル、輸入者、最終都市・島、申告日、登録地、引渡点を記載します。主要船からハブ、支線、フェリー、道路へ続く場合、積替港、船社、保管責任、接続、通関・保税担当を定めます。年式、仕様、左右ハンドル、動力、状態、VINを固定します。ASEAN指針は国差を示しており、新車・中古、ハンドル、許可、型式、充電、電池、登録は最終国が確認します。</p>\n      <h2>実際の海上引渡しにFOB・CIFを置く</h2>\n      <p>FOBは中国港と集荷、陸送、検査、申告、ターミナル、積込みを分け、危険は通常本船上で移ります。CIFは目的港までの運賃と保険を売主が負担しますが、危険は中国で移ります。積込み前にコンテナを渡すならFCA、売主が支線・陸送を含む保険付き複合輸送を行うならCIPも検討します。コンテナ・RoRo、積替、船社、予約期限、無料日、電池状態、中古受託条件を添付します。</p>\n      <h2>本船と最終区間を別会計にする</h2>\n      <p>車両・中国書類・陸送・出発港、本船運賃・追加料・積替・保険、荷揚げ・書類・港・検査・保管・代理、支線・フェリー・島間電池要件・道路鉄道・保税・最終配送、許可・税・承認・改造・登録に分けます。各行に通貨、単位、税、支払者、受取人、期限、証拠を置き、港と最終都市の料金表を別に取り、接続失敗時の保管・再予約承認者を決めます。</p>\n      <h2>FOB価格と国別関税評価を分ける</h2>\n      <p>シンガポールはFOBで運賃・保険が不明な場合を説明し、自動車例で車両価格に運賃、荷役、保険を加えます。FOBが裸価格課税を意味しない例です。ただしマレーシア、タイ、インドネシア、ベトナム、フィリピンには適用されません。輸入者は分類、状態、原産地、関係、運賃、保険、為替、申告日を自国法で計算し、CIFも分解して輸入後費用の重複を防ぎます。</p>\n      <h2>運賃確定前に許可と技術経路を取る</h2>\n      <p>マレーシアMITI許可とシンガポール手続は、許可、評価、通関、登録が国別であることを示します。支払前に申請者、区分、時期、試験、言語、期限、出荷前条件を確認します。EVは充電機器、ソフト、サービスを、島・フェリーは電池受託、充電率、申告、固定を実運送人に書面確認します。同じ都市まで支線、税、登録、為替、遅延を含めて比較し、許可・運送拒否時の手付返還を契約化します。</p>\n      <h2>よくある質問</h2>\n      <h3>ハブ港CIFに島内配送は含まれますか。</h3>\n      <p>通常含まれません。支線、フェリー、陸送、港後保険を別確認します。</p>\n      <h3>FOB価格が関税評価額ですか。</h3>\n      <p>必ずではなく、国別規則で運賃、保険などを加える場合があります。</p>\n      <h3>ASEAN共通輸入許可はありますか。</h3>\n      <p>ありません。適格性、ハンドル、規格、税、登録は各国事項です。</p>\n      <h3>マレーシア許可は他国でも有効ですか。</h3>\n      <p>いいえ。他国の輸入許可を代替しません。</p>\n\n      <h2>情報源</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/establishing-the-customs-value/\" target=\"_blank\" rel=\"noopener noreferrer\">Establishing the Customs Value</a><span>Singapore Customs · 2026-09-07</span></li>\n        <li><a href=\"https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/guide-to-importing-dutiable-motor-vehicles/\" target=\"_blank\" rel=\"noopener noreferrer\">Guide to Importing Dutiable Motor Vehicles</a><span>Singapore Customs · 2026-09-07</span></li>\n        <li><a href=\"https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/Importation_Guidelines/Car.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Procedures on Importation and Registration of a Car</a><span>Singapore Land Transport Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.miti.gov.my/miti/resources/Approve%2520Permit/AP%2520Announcement/Notice_for_Application_of_Personal_Vehicle_Import_License_%28AP%29_%2815072019%29_BI.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Approved Permit Application of Personal Vehicles</a><span>Ministry of Investment, Trade and Industry of Malaysia · 2026-08-22</span></li>\n        <li><a href=\"https://asean.org/wp-content/uploads/2024/11/ASEAN-Guidelines-LEV_ISBN.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">ASEAN Guidelines on Light Electric Vehicles</a><span>Association of Southeast Asian Nations · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/the-port-of-singapore-jpg.jpg",
+        "alt": "シンガポール港のコンテナ、ガントリークレーン、トラック",
+        "caption": "シンガポール港のコンテナ、ガントリークレーン、トラック. 参考写真です。AutoBridgeによる検査や取引の記録ではありません。",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "The port of Singapore.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:The_port_of_Singapore.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:The_port_of_Singapore.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/The_port_of_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 2.0",
+        "artist": "William Cho",
+        "credit": "Port of Singapore Uploaded by Hydriz",
+        "candidate_description": "PSA Singapore Terminals is the world's busiest transhipment hub, handling about one-fifth of the world's total container transhipment throughput, and 6% of global container throughput. It was voted the \"Best Container Terminal Operator (Asia) for the 20th time at the 2009 Asian Freight & Supply Chain Awards. PP: 5 images HDR with blending of 1 image on the moving container trucks Best viewed on BLACK",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "98b7993b5a8724025349cbf0c6d067c37a47675b03c1deaa3b75eb4106561dd5",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Singapore container terminal, cranes and feeder trucks match the Southeast Asia FOB/CIF logistics guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "ko": {
+      "title": "동남아행 중국 차량 FOB·CIF를 허가와 섬 배송까지 비교하기",
+      "seo_title": "동남아 차량 FOB·CIF 견적 점검",
+      "meta_description": "특정 국가와 도시를 기준으로 핸들, 허가, 세관평가, 섬 지선운송과 등록을 포함한 FOB와 CIF를 비교합니다.",
+      "summary": "ASEAN은 단일 차량수입권역이 아닙니다. 중국 인도부터 주요항, 지선, 국가승인과 최종등록까지 추적합니다.",
+      "eyebrow": "동남아 견적감사",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../ko/index.html\">홈</a><span>/</span><a href=\"../../ko/guides/index.html\">구매 가이드</a><span>/</span><span>동남아행 중국 차량 FOB·CIF를 허가와 섬 배송까지 비교하기</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">동남아 견적감사</p>\n      <h1>동남아행 중국 차량 FOB·CIF를 허가와 섬 배송까지 비교하기</h1>\n      <p class=\"lead\">ASEAN은 단일 차량수입권역이 아닙니다. 중국 인도부터 주요항, 지선, 국가승인과 최종등록까지 추적합니다.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/the-port-of-singapore-jpg.jpg\" alt=\"싱가포르항의 컨테이너, 갠트리 크레인과 트럭\" loading=\"lazy\"><figcaption>싱가포르항의 컨테이너, 갠트리 크레인과 트럭. 참고 사진이며 AutoBridge의 검사 또는 거래 기록이 아닙니다.</figcaption></figure>\n      <h2>국가, 항구, 섬과 도시를 정한다</h2>\n      <p>국가, 양하터미널, 수입자, 최종도시나 섬, 신고일, 등록시장과 인도지점을 적습니다. 본선이 허브 뒤 지선, 페리, 도로로 이어지면 환적항, 운송인, 보관책임, 연결, 통관·보세 담당을 정합니다. 연식, 사양, 좌우핸들, 동력, 상태와 VIN을 고정합니다. ASEAN 지침은 국가차이를 보여주며 신차·중고, 핸들, 허가, 형식, 충전, 배터리와 등록은 최종국이 확인합니다.</p>\n      <h2>실제 해상인도에 FOB·CIF를 놓는다</h2>\n      <p>FOB는 중국항과 집하, 내륙, 검사, 신고, 터미널, 적재를 나누고 위험은 보통 본선에서 이전됩니다. CIF는 목적항까지 운임과 보험을 판매자가 부담하지만 위험은 중국에서 이전됩니다. 적재 전 컨테이너를 넘기면 FCA, 판매자가 지선·내륙 포함 보험 복합운송을 맡으면 CIP도 봅니다. 컨테이너·RoRo, 환적, 선사, 예약기한, 무료기간, 배터리상태, 중고수탁 조건을 붙입니다.</p>\n      <h2>본선과 최종구간을 별도 계산한다</h2>\n      <p>차량·중국서류·내륙·출발항, 본선운임·할증·환적·보험, 양하·서류·항만·검사·보관·대리, 지선·페리·섬간 배터리요건·도로철도·보세·최종배송, 허가·세금·승인·개조·등록으로 나눕니다. 각 줄에 통화, 단위, 세금, 지급자, 수취인, 기한, 증거를 두고 항만과 최종도시 요율표를 따로 받으며 연결실패 보관·재예약 승인자를 정합니다.</p>\n      <h2>FOB가격과 국가별 과세가격을 분리한다</h2>\n      <p>싱가포르는 FOB에서 운임·보험 미상 처리를 설명하고 차량예시에서 차값에 운임, 취급, 보험을 더합니다. FOB가 순수차값 과세를 뜻하지 않는 사례입니다. 그러나 말레이시아, 태국, 인도네시아, 베트남, 필리핀에는 그대로 적용되지 않습니다. 수입자는 분류, 상태, 원산지, 관계, 운임, 보험, 환율, 신고일을 자국법으로 계산하고 CIF도 분해해 수입후 비용 중복을 막습니다.</p>\n      <h2>운임 확정 전에 허가와 기술경로를 확보한다</h2>\n      <p>말레이시아 MITI 허가와 싱가포르 절차는 허가, 평가, 통관, 등록이 국가별임을 보여줍니다. 지급 전 신청자, 구분, 시기, 시험, 언어, 유효기간, 선적전 조건을 확인합니다. EV는 충전장비, 소프트웨어, 서비스를, 섬·페리는 배터리 수탁, 충전율, 신고, 고정을 실제운송인에게 서면 확인합니다. 같은 도시까지 지선, 세금, 등록, 환율, 지연을 넣고 허가·운송거절시 계약금 환급을 계약화합니다.</p>\n      <p>본선과 지선이 연결될 때는 환적항 보관책임, 다음 선복확인, 서류해제 시각과 보험의 대기구간 포함 여부를 점검합니다. 최종섬의 선박이나 부두가 차량 크기, 중량 또는 전기차를 제한한다면 현지운송인의 서면승인을 받은 뒤 잔금을 지급합니다.</p>\n      <h2>자주 묻는 질문</h2>\n      <h3>허브항 CIF에 섬 배송이 포함됩니까?</h3>\n      <p>통상 아닙니다. 지선, 페리, 내륙과 항만후 보험을 별도 확인합니다.</p>\n      <h3>FOB가격이 과세가격입니까?</h3>\n      <p>반드시 아니며 국가규칙에 따라 운임, 보험 등을 추가할 수 있습니다.</p>\n      <h3>ASEAN 공통 수입허가가 있습니까?</h3>\n      <p>없습니다. 자격, 핸들, 표준, 세금과 등록은 국가사항입니다.</p>\n      <h3>말레이시아 허가가 타국에 유효합니까?</h3>\n      <p>아닙니다. 다른 국가의 수입허가를 대신하지 않습니다.</p>\n\n      <h2>출처</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/establishing-the-customs-value/\" target=\"_blank\" rel=\"noopener noreferrer\">Establishing the Customs Value</a><span>Singapore Customs · 2026-09-07</span></li>\n        <li><a href=\"https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/guide-to-importing-dutiable-motor-vehicles/\" target=\"_blank\" rel=\"noopener noreferrer\">Guide to Importing Dutiable Motor Vehicles</a><span>Singapore Customs · 2026-09-07</span></li>\n        <li><a href=\"https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/Importation_Guidelines/Car.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Procedures on Importation and Registration of a Car</a><span>Singapore Land Transport Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.miti.gov.my/miti/resources/Approve%2520Permit/AP%2520Announcement/Notice_for_Application_of_Personal_Vehicle_Import_License_%28AP%29_%2815072019%29_BI.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Approved Permit Application of Personal Vehicles</a><span>Ministry of Investment, Trade and Industry of Malaysia · 2026-08-22</span></li>\n        <li><a href=\"https://asean.org/wp-content/uploads/2024/11/ASEAN-Guidelines-LEV_ISBN.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">ASEAN Guidelines on Light Electric Vehicles</a><span>Association of Southeast Asian Nations · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/the-port-of-singapore-jpg.jpg",
+        "alt": "싱가포르항의 컨테이너, 갠트리 크레인과 트럭",
+        "caption": "싱가포르항의 컨테이너, 갠트리 크레인과 트럭. 참고 사진이며 AutoBridge의 검사 또는 거래 기록이 아닙니다.",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "The port of Singapore.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:The_port_of_Singapore.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:The_port_of_Singapore.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/The_port_of_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 2.0",
+        "artist": "William Cho",
+        "credit": "Port of Singapore Uploaded by Hydriz",
+        "candidate_description": "PSA Singapore Terminals is the world's busiest transhipment hub, handling about one-fifth of the world's total container transhipment throughput, and 6% of global container throughput. It was voted the \"Best Container Terminal Operator (Asia) for the 20th time at the 2009 Asian Freight & Supply Chain Awards. PP: 5 images HDR with blending of 1 image on the moving container trucks Best viewed on BLACK",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "98b7993b5a8724025349cbf0c6d067c37a47675b03c1deaa3b75eb4106561dd5",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Singapore container terminal, cranes and feeder trucks match the Southeast Asia FOB/CIF logistics guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "vi": {
+      "title": "So sánh FOB và CIF cho xe Trung Quốc vào Đông Nam Á đến giấy phép và giao đảo",
+      "seo_title": "Đông Nam Á: kiểm tra báo giá xe FOB hay CIF",
+      "meta_description": "So sánh FOB và CIF cho đúng quốc gia và thành phố, gồm tay lái, giấy phép, trị giá hải quan, tuyến đảo và đăng ký.",
+      "summary": "ASEAN không phải một vùng nhập khẩu xe. Báo giá phải theo từ giao tại Trung Quốc qua cảng, tuyến nối, chấp thuận quốc gia và đăng ký cuối.",
+      "eyebrow": "Kiểm toán báo giá Đông Nam Á",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../vi/index.html\">Trang chủ</a><span>/</span><a href=\"../../vi/guides/index.html\">Hướng dẫn</a><span>/</span><span>So sánh FOB và CIF cho xe Trung Quốc vào Đông Nam Á đến giấy phép và giao đảo</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">Kiểm toán báo giá Đông Nam Á</p>\n      <h1>So sánh FOB và CIF cho xe Trung Quốc vào Đông Nam Á đến giấy phép và giao đảo</h1>\n      <p class=\"lead\">ASEAN không phải một vùng nhập khẩu xe. Báo giá phải theo từ giao tại Trung Quốc qua cảng, tuyến nối, chấp thuận quốc gia và đăng ký cuối.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/the-port-of-singapore-jpg.jpg\" alt=\"Container xếp chồng, cẩu giàn và xe tải tại cảng Singapore\" loading=\"lazy\"><figcaption>Container xếp chồng, cẩu giàn và xe tải tại cảng Singapore. Ảnh minh họa, không phải hồ sơ kiểm tra hoặc giao dịch của AutoBridge.</figcaption></figure>\n      <h2>Chốt quốc gia, cảng, đảo và thành phố</h2>\n      <p>Ghi quốc gia, bến dỡ, nhà nhập khẩu, thành phố hoặc đảo cuối, ngày khai, thị trường đăng ký và điểm giao. Nếu tàu chính tới hub rồi đi feeder, sà lan, phà hay đường bộ, nêu cảng chuyển, hãng vận tải, điểm giữ hàng, cửa sổ nối và bên thông quan hoặc quá cảnh. Khóa năm mẫu, phiên bản, bên tay lái, động lực, tình trạng và VIN. Hướng dẫn ASEAN cho thấy khác biệt quốc gia; xe mới hay cũ, tay lái, phép, phê duyệt, sạc, pin và đăng ký do nước cuối xác nhận.</p>\n      <h2>Đặt FOB hoặc CIF tại điểm giao biển thật</h2>\n      <p>FOB ghi cảng Trung Quốc và tách lấy xe, nội địa, kiểm định, khai, bến và xếp; rủi ro thường chuyển trên tàu. CIF ghi cảng đích, người bán trả cước và bảo hiểm nhưng rủi ro vẫn chuyển ở Trung Quốc. Nếu container giao trước xếp, xem FCA; nếu người bán lo đa phương thức có bảo hiểm gồm feeder hoặc đường bộ, xem CIP. Phụ lục ghi container hay RoRo, chuyển tải, hãng, hạn đặt, ngày miễn, mức pin và điều kiện nhận xe cũ.</p>\n      <h2>Tách sổ hành trình chính và chặng cuối</h2>\n      <p>Lập sổ xe, chứng từ Trung Quốc, nội địa và bến đi; cước chính, phụ phí, chuyển tải và bảo hiểm; dỡ, tài liệu, bến, kiểm tra, kho và đại lý; rồi feeder, phà, yêu cầu pin liên đảo, đường hay tàu, quá cảnh và giao; cuối cùng phép, thuế, phê duyệt, cải tạo và đăng ký. Mỗi dòng có tiền tệ, đơn vị, thuế, người trả, người nhận, hiệu lực và bằng chứng. Lấy bảng giá ở cảng và thành phố cuối, quy định ai duyệt kho hoặc đặt lại khi lỡ chuyến nối.</p>\n      <h2>Tách giá FOB khỏi trị giá quốc gia</h2>\n      <p>Singapore giải thích khi chưa biết cước và bảo hiểm trong FOB và ví dụ xe cộng cước, xử lý, bảo hiểm vào giá. FOB không tự động làm giá xe trần thành căn cứ thuế. Cách đó không điều chỉnh Malaysia, Thái Lan, Indonesia, Việt Nam hay Philippines. Nhà nhập khẩu tính lại mã hàng, tình trạng, xuất xứ, quan hệ, cước, bảo hiểm, tỷ giá và ngày khai theo luật nước mình; tổng CIF cũng phải tách để chi phí sau nhập không bị cộng hai lần.</p>\n      <h2>Lấy phép và đường kỹ thuật trước khi khóa cước</h2>\n      <p>Giấy phép cá nhân MITI Malaysia và quy trình Singapore cho thấy phép, định giá, hải quan và đăng ký là quốc gia. Trước khi trả, kiểm người nộp, hạng, thời điểm, thử nghiệm, ngôn ngữ, hiệu lực và điều kiện trước tàu. Với EV, kiểm sạc, thiết bị, phần mềm, dịch vụ; với đảo hoặc phà, lấy chấp nhận bằng văn bản về pin, mức sạc, khai báo và chằng buộc. Tính FOB và CIF đến cùng thành phố với feeder, thuế, đăng ký, tỷ giá, chậm và gắn việc từ chối phép hoặc vận tải với hoàn cọc.</p>\n      <h2>Câu hỏi thường gặp</h2>\n      <h3>CIF đến hub có gồm giao đảo không?</h3>\n      <p>Không mặc nhiên. Feeder, phà, nội địa và bảo hiểm sau cảng phải tách riêng.</p>\n      <h3>Giá FOB là trị giá hải quan không?</h3>\n      <p>Không nhất thiết; nước nhập có thể cộng cước, bảo hiểm và điều chỉnh.</p>\n      <h3>ASEAN có giấy phép nhập xe chung không?</h3>\n      <p>Không. Điều kiện, tay lái, tiêu chuẩn, thuế và đăng ký là quốc gia.</p>\n      <h3>Giấy phép Malaysia dùng ở nước khác không?</h3>\n      <p>Không. Nó không thay giấy phép của nước khác.</p>\n\n      <h2>Nguồn</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/establishing-the-customs-value/\" target=\"_blank\" rel=\"noopener noreferrer\">Establishing the Customs Value</a><span>Singapore Customs · 2026-09-07</span></li>\n        <li><a href=\"https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/guide-to-importing-dutiable-motor-vehicles/\" target=\"_blank\" rel=\"noopener noreferrer\">Guide to Importing Dutiable Motor Vehicles</a><span>Singapore Customs · 2026-09-07</span></li>\n        <li><a href=\"https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/Importation_Guidelines/Car.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Procedures on Importation and Registration of a Car</a><span>Singapore Land Transport Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.miti.gov.my/miti/resources/Approve%2520Permit/AP%2520Announcement/Notice_for_Application_of_Personal_Vehicle_Import_License_%28AP%29_%2815072019%29_BI.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Approved Permit Application of Personal Vehicles</a><span>Ministry of Investment, Trade and Industry of Malaysia · 2026-08-22</span></li>\n        <li><a href=\"https://asean.org/wp-content/uploads/2024/11/ASEAN-Guidelines-LEV_ISBN.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">ASEAN Guidelines on Light Electric Vehicles</a><span>Association of Southeast Asian Nations · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/the-port-of-singapore-jpg.jpg",
+        "alt": "Container xếp chồng, cẩu giàn và xe tải tại cảng Singapore",
+        "caption": "Container xếp chồng, cẩu giàn và xe tải tại cảng Singapore. Ảnh minh họa, không phải hồ sơ kiểm tra hoặc giao dịch của AutoBridge.",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "The port of Singapore.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:The_port_of_Singapore.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:The_port_of_Singapore.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/The_port_of_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 2.0",
+        "artist": "William Cho",
+        "credit": "Port of Singapore Uploaded by Hydriz",
+        "candidate_description": "PSA Singapore Terminals is the world's busiest transhipment hub, handling about one-fifth of the world's total container transhipment throughput, and 6% of global container throughput. It was voted the \"Best Container Terminal Operator (Asia) for the 20th time at the 2009 Asian Freight & Supply Chain Awards. PP: 5 images HDR with blending of 1 image on the moving container trucks Best viewed on BLACK",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "98b7993b5a8724025349cbf0c6d067c37a47675b03c1deaa3b75eb4106561dd5",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Singapore container terminal, cranes and feeder trucks match the Southeast Asia FOB/CIF logistics guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "th": {
+      "title": "เทียบ FOB และ CIF รถจีนไปเอเชียตะวันออกเฉียงใต้ถึงใบอนุญาตและส่งเกาะ",
+      "seo_title": "เอเชียตะวันออกเฉียงใต้: ตรวจรถ FOB หรือ CIF",
+      "meta_description": "เทียบ FOB และ CIF สำหรับประเทศและเมืองที่ชัดเจน รวมพวงมาลัย ใบอนุญาต ราคาศุลกากร เส้นทางเกาะ และทะเบียน",
+      "summary": "ASEAN ไม่ใช่เขตนำเข้ารถเดียว ใบเสนอราคาต้องตามจากส่งในจีน ผ่านท่า เส้นทางต่อ การอนุมัติประเทศ และทะเบียนสุดท้าย",
+      "eyebrow": "ตรวจใบเสนอราคาเอเชียตะวันออกเฉียงใต้",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../th/index.html\">หน้าแรก</a><span>/</span><a href=\"../../th/guides/index.html\">คู่มือ</a><span>/</span><span>เทียบ FOB และ CIF รถจีนไปเอเชียตะวันออกเฉียงใต้ถึงใบอนุญาตและส่งเกาะ</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">ตรวจใบเสนอราคาเอเชียตะวันออกเฉียงใต้</p>\n      <h1>เทียบ FOB และ CIF รถจีนไปเอเชียตะวันออกเฉียงใต้ถึงใบอนุญาตและส่งเกาะ</h1>\n      <p class=\"lead\">ASEAN ไม่ใช่เขตนำเข้ารถเดียว ใบเสนอราคาต้องตามจากส่งในจีน ผ่านท่า เส้นทางต่อ การอนุมัติประเทศ และทะเบียนสุดท้าย</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/the-port-of-singapore-jpg.jpg\" alt=\"ตู้คอนเทนเนอร์ เครนยกตู้ และรถบรรทุกที่ท่าเรือสิงคโปร์\" loading=\"lazy\"><figcaption>ตู้คอนเทนเนอร์ เครนยกตู้ และรถบรรทุกที่ท่าเรือสิงคโปร์. ภาพประกอบ ไม่ใช่หลักฐานการตรวจสภาพหรือธุรกรรมของ AutoBridge</figcaption></figure>\n      <h2>กำหนดประเทศ ท่า เกาะ และเมือง</h2>\n      <p>ระบุประเทศ ท่าลง ผู้นำเข้า เมืองหรือเกาะสุดท้าย วันสำแดง ตลาดทะเบียน และจุดส่ง หากเรือหลักถึงฮับแล้วต่อ feeder เรือบรรทุก เฟอร์รี่ หรือถนน ให้ระบุท่าถ่าย ผู้ขนส่ง จุดครอบครอง ช่วงเชื่อม และผู้ผ่านศุลกากรหรือทัณฑ์บน กำหนดปี รุ่น ด้านพวงมาลัย ระบบ สภาพ และ VIN แนวทาง ASEAN แสดงความต่างของรัฐ รถใหม่หรือใช้แล้ว พวงมาลัย ใบอนุญาต การรับรอง ชาร์จ แบต และทะเบียนต้องยืนยันโดยประเทศสุดท้าย</p>\n      <h2>วาง FOB หรือ CIF ที่จุดส่งทะเลจริง</h2>\n      <p>FOB ระบุท่าจีนและแยกรับรถ ภายใน ตรวจ สำแดง ท่า และขึ้นเรือ ความเสี่ยงมักโอนบนเรือ CIF ระบุท่าปลายทาง ผู้ขายจ่ายค่าระวางและประกัน แต่ความเสี่ยงยังโอนในจีน หากส่งตู้ก่อนขึ้นเรือดู FCA หากผู้ขายจัดหลายรูปแบบมีประกันรวม feeder หรือถนนดู CIP ภาคผนวกระบุตู้หรือ RoRo ถ่ายลำ สายเรือ หมดอายุจอง วันฟรี ระดับแบต และเงื่อนไขรถใช้แล้ว</p>\n      <h2>แยกบัญชีเรือหลักและช่วงสุดท้าย</h2>\n      <p>ทำบัญชีรถ เอกสารจีน ภายในและท่าต้น; ค่าระวางหลัก ค่าบวก ถ่ายลำและประกัน; ลง เอกสาร ท่า ตรวจ คลังและตัวแทน; แล้ว feeder เฟอร์รี่ ข้อกำหนดแบตข้ามเกาะ ถนนหรือราง ผ่านทัณฑ์บนและส่ง; สุดท้ายใบอนุญาต ภาษี รับรอง ดัดแปลงและทะเบียน ทุกบรรทัดมีสกุล หน่วย ภาษี ผู้จ่าย ผู้รับ อายุ และหลักฐาน ขอราคาในท่าและเมืองสุดท้าย และกำหนดผู้อนุมัติเก็บหรือจองใหม่เมื่อพลาดต่อ</p>\n      <h2>แยกราคา FOB จากราคาศุลกากรประเทศ</h2>\n      <p>สิงคโปร์อธิบายกรณีไม่ทราบค่าระวางและประกันใน FOB และตัวอย่างรถบวกค่าระวาง ยกขน และประกันเข้าราคารถ FOB จึงไม่ทำให้เฉพาะราคารถเป็นฐานอัตโนมัติ วิธีนี้ไม่ควบคุมมาเลเซีย ไทย อินโดนีเซีย เวียดนาม หรือฟิลิปปินส์ ผู้นำเข้าคำนวณพิกัด สภาพ ถิ่นกำเนิด ความสัมพันธ์ ค่าระวาง ประกัน ค่าเงิน และวันตามกฎหมายตน และแยก CIF เพื่อไม่บวกค่าหลังนำเข้าซ้ำ</p>\n      <h2>รับใบอนุญาตและทางเทคนิคก่อนล็อกค่าขน</h2>\n      <p>ใบอนุญาตส่วนบุคคล MITI มาเลเซียและขั้นตอนสิงคโปร์แสดงว่าใบอนุญาต ประเมิน ศุลกากร และทะเบียนเป็นของประเทศ ก่อนจ่ายให้ตรวจผู้ยื่น ประเภท เวลา ทดสอบ ภาษา อายุ และเงื่อนไขก่อนส่ง EV ต้องตรวจชาร์จ อุปกรณ์ ซอฟต์แวร์ บริการ ส่วนเกาะหรือเฟอร์รี่ขอผู้ขนส่งยอมรับแบต ระดับชาร์จ สำแดง และยึดตรึงเป็นลายลักษณ์ คำนวณ FOB และ CIF ถึงเมืองเดียวรวม feeder ภาษี ทะเบียน ค่าเงิน ล่าช้า และผูกการปฏิเสธกับคืนมัดจำ</p>\n      <h2>คำถามที่พบบ่อย</h2>\n      <h3>CIF ถึงฮับรวมส่งเกาะหรือไม่</h3>\n      <p>ไม่อัตโนมัติ Feeder เฟอร์รี่ ภายใน และประกันหลังท่าแยกกัน</p>\n      <h3>ราคา FOB คือราคาศุลกากรหรือไม่</h3>\n      <p>ไม่จำเป็น ประเทศอาจบวกค่าระวาง ประกัน และปรับอื่น</p>\n      <h3>ASEAN มีใบอนุญาตรถร่วมกันหรือไม่</h3>\n      <p>ไม่มี คุณสมบัติ พวงมาลัย มาตรฐาน ภาษี และทะเบียนเป็นประเทศ</p>\n      <h3>ใบมาเลเซียใช้ประเทศอื่นได้หรือไม่</h3>\n      <p>ไม่ได้ ไม่แทนใบอนุญาตของรัฐอื่น</p>\n\n      <h2>แหล่งข้อมูล</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/establishing-the-customs-value/\" target=\"_blank\" rel=\"noopener noreferrer\">Establishing the Customs Value</a><span>Singapore Customs · 2026-09-07</span></li>\n        <li><a href=\"https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/guide-to-importing-dutiable-motor-vehicles/\" target=\"_blank\" rel=\"noopener noreferrer\">Guide to Importing Dutiable Motor Vehicles</a><span>Singapore Customs · 2026-09-07</span></li>\n        <li><a href=\"https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/Importation_Guidelines/Car.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Procedures on Importation and Registration of a Car</a><span>Singapore Land Transport Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.miti.gov.my/miti/resources/Approve%2520Permit/AP%2520Announcement/Notice_for_Application_of_Personal_Vehicle_Import_License_%28AP%29_%2815072019%29_BI.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Approved Permit Application of Personal Vehicles</a><span>Ministry of Investment, Trade and Industry of Malaysia · 2026-08-22</span></li>\n        <li><a href=\"https://asean.org/wp-content/uploads/2024/11/ASEAN-Guidelines-LEV_ISBN.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">ASEAN Guidelines on Light Electric Vehicles</a><span>Association of Southeast Asian Nations · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/the-port-of-singapore-jpg.jpg",
+        "alt": "ตู้คอนเทนเนอร์ เครนยกตู้ และรถบรรทุกที่ท่าเรือสิงคโปร์",
+        "caption": "ตู้คอนเทนเนอร์ เครนยกตู้ และรถบรรทุกที่ท่าเรือสิงคโปร์. ภาพประกอบ ไม่ใช่หลักฐานการตรวจสภาพหรือธุรกรรมของ AutoBridge",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "The port of Singapore.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:The_port_of_Singapore.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:The_port_of_Singapore.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/The_port_of_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 2.0",
+        "artist": "William Cho",
+        "credit": "Port of Singapore Uploaded by Hydriz",
+        "candidate_description": "PSA Singapore Terminals is the world's busiest transhipment hub, handling about one-fifth of the world's total container transhipment throughput, and 6% of global container throughput. It was voted the \"Best Container Terminal Operator (Asia) for the 20th time at the 2009 Asian Freight & Supply Chain Awards. PP: 5 images HDR with blending of 1 image on the moving container trucks Best viewed on BLACK",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "98b7993b5a8724025349cbf0c6d067c37a47675b03c1deaa3b75eb4106561dd5",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Singapore container terminal, cranes and feeder trucks match the Southeast Asia FOB/CIF logistics guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "id": {
+      "title": "Membandingkan FOB dan CIF kendaraan Tiongkok ke Asia Tenggara hingga izin dan pulau",
+      "seo_title": "Asia Tenggara: periksa kendaraan FOB atau CIF",
+      "meta_description": "Bandingkan FOB dan CIF untuk negara serta kota tertentu, termasuk sisi kemudi, izin, nilai pabean, feeder pulau, dan registrasi.",
+      "summary": "ASEAN bukan satu wilayah impor kendaraan. Penawaran harus mengikuti pelabuhan utama, feeder, izin nasional, dan registrasi akhir.",
+      "eyebrow": "Audit penawaran Asia Tenggara",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../id/index.html\">Beranda</a><span>/</span><a href=\"../../id/guides/index.html\">Panduan</a><span>/</span><span>Membandingkan FOB dan CIF kendaraan Tiongkok ke Asia Tenggara hingga izin dan pulau</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">Audit penawaran Asia Tenggara</p>\n      <h1>Membandingkan FOB dan CIF kendaraan Tiongkok ke Asia Tenggara hingga izin dan pulau</h1>\n      <p class=\"lead\">ASEAN bukan satu wilayah impor kendaraan. Penawaran harus mengikuti pelabuhan utama, feeder, izin nasional, dan registrasi akhir.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/the-port-of-singapore-jpg.jpg\" alt=\"Tumpukan peti kemas, derek gantri, dan truk di pelabuhan Singapura\" loading=\"lazy\"><figcaption>Tumpukan peti kemas, derek gantri, dan truk di pelabuhan Singapura. Foto ilustrasi, bukan dokumentasi pemeriksaan atau transaksi AutoBridge.</figcaption></figure>\n      <h2>Tetapkan negara, pelabuhan, pulau, dan kota</h2>\n      <p>Sebut negara, terminal bongkar, importir, kota atau pulau akhir, tanggal deklarasi, pasar registrasi, dan titik serah. Jika kapal utama ke hub lalu feeder, tongkang, feri, atau jalan, sebut pelabuhan transit, pengangkut, titik penguasaan, koneksi, dan penanggung jawab clearance atau transit. Kunci tahun, varian, sisi kemudi, penggerak, kondisi, dan VIN. Pedoman ASEAN menunjukkan perbedaan nasional; kelayakan baru atau bekas, kemudi, izin, homologasi, pengisian, baterai, dan registrasi ditentukan negara akhir.</p>\n      <h2>Tempatkan FOB atau CIF pada serah laut nyata</h2>\n      <p>FOB menyebut pelabuhan Tiongkok dan memisahkan pengambilan, darat, inspeksi, deklarasi, terminal, serta muat; risiko biasanya beralih di kapal. CIF menyebut pelabuhan tujuan, penjual membayar angkutan dan asuransi, tetapi risiko tetap beralih di Tiongkok. Jika peti kemas diserahkan sebelum muat, nilai FCA; jika penjual mengatur multimoda berasuransi termasuk feeder atau jalan, nilai CIP. Lampiran menyebut peti kemas atau RoRo, transit, carrier, batas booking, hari bebas, tingkat baterai, dan syarat kendaraan bekas.</p>\n      <h2>Pisahkan buku pelayaran utama dan ruas akhir</h2>\n      <p>Buat buku kendaraan, dokumen Tiongkok, darat dan terminal asal; angkutan utama, tambahan, transit dan asuransi; bongkar, dokumen, terminal, pemeriksaan, gudang dan agen; lalu feeder, feri, syarat baterai antarpulau, jalan atau rel, transit berikat dan pengiriman; terakhir izin, pajak, persetujuan, modifikasi dan registrasi. Tiap baris memiliki mata uang, unit, pajak, pembayar, penerima, validitas dan bukti. Ambil tarif di pelabuhan dan kota akhir serta tentukan siapa menyetujui gudang atau booking ulang setelah koneksi gagal.</p>\n      <h2>Pisahkan harga FOB dari nilai pabean nasional</h2>\n      <p>Singapura menjelaskan saat angkutan dan asuransi FOB tidak diketahui dan contoh kendaraan menambahkan angkutan, penanganan, serta asuransi ke harga. FOB tidak otomatis menjadikan harga kendaraan polos dasar pajak. Metode itu tidak mengatur Malaysia, Thailand, Indonesia, Viet Nam, atau Filipina. Importir menghitung klasifikasi, kondisi, asal, hubungan, angkutan, asuransi, kurs, dan tanggal menurut hukum nasional; total CIF juga diurai agar biaya setelah impor tidak dihitung dua kali.</p>\n      <h2>Dapatkan izin dan rute teknis sebelum mengunci angkutan</h2>\n      <p>Izin pribadi MITI Malaysia dan proses Singapura menunjukkan izin, penilaian, pabean, dan registrasi bersifat nasional. Sebelum membayar, uji pemohon, kategori, waktu, tes, bahasa, validitas, dan syarat pra-kirim. Untuk EV, pastikan pengisian, perangkat, perangkat lunak, dan servis; untuk pulau atau feri, minta penerimaan tertulis tentang baterai, tingkat isi, deklarasi, dan pengikatan. Hitung FOB dan CIF ke kota sama dengan feeder, pajak, registrasi, kurs, keterlambatan, serta hubungkan penolakan izin atau angkutan dengan pengembalian uang muka.</p>\n      <h2>Pertanyaan umum</h2>\n      <h3>Apakah CIF ke hub mencakup pengiriman pulau?</h3>\n      <p>Tidak otomatis. Feeder, feri, darat, dan asuransi setelah pelabuhan terpisah.</p>\n      <h3>Apakah harga FOB adalah nilai pabean?</h3>\n      <p>Belum tentu; negara dapat menambah angkutan, asuransi, dan penyesuaian.</p>\n      <h3>Apakah ASEAN memiliki izin kendaraan bersama?</h3>\n      <p>Tidak. Kelayakan, kemudi, standar, pajak, dan registrasi bersifat nasional.</p>\n      <h3>Apakah izin Malaysia berlaku di negara lain?</h3>\n      <p>Tidak. Izin itu tidak menggantikan izin negara lain.</p>\n\n      <h2>Sumber</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/establishing-the-customs-value/\" target=\"_blank\" rel=\"noopener noreferrer\">Establishing the Customs Value</a><span>Singapore Customs · 2026-09-07</span></li>\n        <li><a href=\"https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/guide-to-importing-dutiable-motor-vehicles/\" target=\"_blank\" rel=\"noopener noreferrer\">Guide to Importing Dutiable Motor Vehicles</a><span>Singapore Customs · 2026-09-07</span></li>\n        <li><a href=\"https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/Importation_Guidelines/Car.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Procedures on Importation and Registration of a Car</a><span>Singapore Land Transport Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.miti.gov.my/miti/resources/Approve%2520Permit/AP%2520Announcement/Notice_for_Application_of_Personal_Vehicle_Import_License_%28AP%29_%2815072019%29_BI.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Approved Permit Application of Personal Vehicles</a><span>Ministry of Investment, Trade and Industry of Malaysia · 2026-08-22</span></li>\n        <li><a href=\"https://asean.org/wp-content/uploads/2024/11/ASEAN-Guidelines-LEV_ISBN.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">ASEAN Guidelines on Light Electric Vehicles</a><span>Association of Southeast Asian Nations · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/the-port-of-singapore-jpg.jpg",
+        "alt": "Tumpukan peti kemas, derek gantri, dan truk di pelabuhan Singapura",
+        "caption": "Tumpukan peti kemas, derek gantri, dan truk di pelabuhan Singapura. Foto ilustrasi, bukan dokumentasi pemeriksaan atau transaksi AutoBridge.",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "The port of Singapore.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:The_port_of_Singapore.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:The_port_of_Singapore.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/The_port_of_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 2.0",
+        "artist": "William Cho",
+        "credit": "Port of Singapore Uploaded by Hydriz",
+        "candidate_description": "PSA Singapore Terminals is the world's busiest transhipment hub, handling about one-fifth of the world's total container transhipment throughput, and 6% of global container throughput. It was voted the \"Best Container Terminal Operator (Asia) for the 20th time at the 2009 Asian Freight & Supply Chain Awards. PP: 5 images HDR with blending of 1 image on the moving container trucks Best viewed on BLACK",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "98b7993b5a8724025349cbf0c6d067c37a47675b03c1deaa3b75eb4106561dd5",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Singapore container terminal, cranes and feeder trucks match the Southeast Asia FOB/CIF logistics guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "ar": {
+      "title": "مقارنة FOB وCIF للمركبات الصينية إلى جنوب شرق آسيا حتى التصريح والجزر",
+      "seo_title": "جنوب شرق آسيا: فحص عرض مركبة FOB أو CIF",
+      "meta_description": "قارن FOB وCIF لدولة ومدينة محددتين، شاملا جهة المقود والتصريح والقيمة الجمركية والخط الجزري والتسجيل.",
+      "summary": "آسيان ليست منطقة استيراد مركبات واحدة. يجب أن يتتبع العرض الميناء الرئيسي والخط الفرعي والإذن الوطني والتسجيل النهائي.",
+      "eyebrow": "تدقيق عروض جنوب شرق آسيا",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../ar/index.html\">الرئيسية</a><span>/</span><a href=\"../../ar/guides/index.html\">الأدلة</a><span>/</span><span>مقارنة FOB وCIF للمركبات الصينية إلى جنوب شرق آسيا حتى التصريح والجزر</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">تدقيق عروض جنوب شرق آسيا</p>\n      <h1>مقارنة FOB وCIF للمركبات الصينية إلى جنوب شرق آسيا حتى التصريح والجزر</h1>\n      <p class=\"lead\">آسيان ليست منطقة استيراد مركبات واحدة. يجب أن يتتبع العرض الميناء الرئيسي والخط الفرعي والإذن الوطني والتسجيل النهائي.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/the-port-of-singapore-jpg.jpg\" alt=\"حاويات مكدسة ورافعات جسرية وشاحنات في ميناء سنغافورة\" loading=\"lazy\"><figcaption>حاويات مكدسة ورافعات جسرية وشاحنات في ميناء سنغافورة. صورة توضيحية، وليست توثيقًا لفحص أو صفقة أجرتها AutoBridge.</figcaption></figure>\n      <h2>تحديد الدولة والميناء والجزيرة والمدينة</h2>\n      <p>سم الدولة ومحطة التفريغ والمستورد والمدينة أو الجزيرة النهائية وتاريخ البيان وسوق التسجيل ونقطة التسليم. إذا وصلت السفينة الرئيسية إلى محور ثم خط فرعي أو عبارة أو طريق، فسم ميناء إعادة الشحن والناقلين ونقاط الحيازة ومواعيد الربط ومسؤول التخليص أو العبور. ثبت السنة والفئة وجهة المقود والدفع والحالة وأرقام الهيكل. تظهر إرشادات آسيان اختلافات وطنية؛ وتؤكد الدولة النهائية أهلية الجديد أو المستعمل والمقود والترخيص والاعتماد والشحن والبطارية والتسجيل.</p>\n      <h2>وضع FOB أو CIF عند التسليم البحري الحقيقي</h2>\n      <p>يسمي FOB الميناء الصيني ويفصل الاستلام والنقل والفحص والتصريح والمحطة والتحميل؛ ينتقل الخطر عادة على السفينة. يسمي CIF ميناء الوجهة ويدفع البائع الشحن والتأمين، لكن الخطر ينتقل في الصين. إذا سلمت الحاوية قبل التحميل فافحص FCA، وإذا رتب البائع نقلا متعدد الوسائط مؤمنا يشمل الخط الفرعي أو الطريق فافحص CIP. يذكر الملحق الحاوية أو RoRo وإعادة الشحن والناقل والحجز والأيام المجانية وشحن البطارية وشروط المستعمل.</p>\n      <h2>فصل حساب الرحلة الرئيسية والجزء الأخير</h2>\n      <p>أنشئ حسابا للمركبة ووثائق الصين والنقل ومحطة المنشأ؛ الشحن الرئيسي والإضافات وإعادة الشحن والتأمين؛ التفريغ والوثائق والمحطة والمعاينة والمخزن والوكيل؛ ثم الخط الفرعي والعبارة ومتطلبات البطارية بين الجزر والطريق أو السكة والعبور والتسليم؛ وأخيرا التصاريح والضرائب والاعتماد والتعديل والتسجيل. لكل بند عملة ووحدة وضريبة ودافع ومستفيد وصلاحية ودليل. خذ سعرا في الميناء وآخر في المدينة وحدد معتمد التخزين أو إعادة الحجز عند ضياع الربط.</p>\n      <h2>فصل سعر FOB عن القيمة الوطنية</h2>\n      <p>تشرح سنغافورة معالجة الشحن والتأمين غير المعروفين في FOB، ويضيف مثال المركبة الشحن والمناولة والتأمين إلى السعر. لا يجعل FOB سعر المركبة المجرد أساس الضريبة تلقائيا. لكن الطريقة لا تحكم ماليزيا أو تايلاند أو إندونيسيا أو فيتنام أو الفلبين. يعيد المستورد حساب التصنيف والحالة والمنشأ والعلاقة والشحن والتأمين والصرف والتاريخ وفق قانونه، ويفصل CIF أيضا حتى لا تتكرر تكلفة ما بعد الاستيراد.</p>\n      <h2>الحصول على الإذن والمسار الفني قبل تثبيت الشحن</h2>\n      <p>يبين تصريح MITI الماليزي ومسار سنغافورة أن الإذن والتقييم والجمارك والتسجيل وطنية. اختبر قبل الدفع مقدم الطلب والفئة والوقت والاختبارات واللغة والصلاحية وشروط ما قبل الشحن. للكهربائية أكد الشحن والمعدات والبرامج والخدمة؛ وللجزيرة أو العبارة احصل من الناقل على قبول مكتوب للبطارية ومستوى الشحن والتصريح والتثبيت. احسب FOB وCIF إلى المدينة نفسها مع الخط الفرعي والضرائب والتسجيل والصرف والتأخير، واربط رفض الإذن أو النقل برد العربون.</p>\n      <h2>الأسئلة الشائعة</h2>\n      <h3>هل يشمل CIF إلى المحور تسليم الجزيرة؟</h3>\n      <p>ليس تلقائيا. الخط الفرعي والعبارة والداخل والتأمين بعد الميناء مستقلة.</p>\n      <h3>هل سعر FOB هو القيمة الجمركية؟</h3>\n      <p>ليس بالضرورة؛ قد تضيف الدولة الشحن والتأمين وتعديلات أخرى.</p>\n      <h3>هل لآسيان تصريح مركبات مشترك؟</h3>\n      <p>لا. الأهلية والمقود والمعايير والضرائب والتسجيل وطنية.</p>\n      <h3>هل تصريح ماليزيا صالح في دولة أخرى؟</h3>\n      <p>لا. لا يستبدل تصريح أي دولة أخرى.</p>\n\n      <h2>المصادر</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/establishing-the-customs-value/\" target=\"_blank\" rel=\"noopener noreferrer\">Establishing the Customs Value</a><span>Singapore Customs · 2026-09-07</span></li>\n        <li><a href=\"https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/guide-to-importing-dutiable-motor-vehicles/\" target=\"_blank\" rel=\"noopener noreferrer\">Guide to Importing Dutiable Motor Vehicles</a><span>Singapore Customs · 2026-09-07</span></li>\n        <li><a href=\"https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/Importation_Guidelines/Car.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Procedures on Importation and Registration of a Car</a><span>Singapore Land Transport Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.miti.gov.my/miti/resources/Approve%2520Permit/AP%2520Announcement/Notice_for_Application_of_Personal_Vehicle_Import_License_%28AP%29_%2815072019%29_BI.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Approved Permit Application of Personal Vehicles</a><span>Ministry of Investment, Trade and Industry of Malaysia · 2026-08-22</span></li>\n        <li><a href=\"https://asean.org/wp-content/uploads/2024/11/ASEAN-Guidelines-LEV_ISBN.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">ASEAN Guidelines on Light Electric Vehicles</a><span>Association of Southeast Asian Nations · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/the-port-of-singapore-jpg.jpg",
+        "alt": "حاويات مكدسة ورافعات جسرية وشاحنات في ميناء سنغافورة",
+        "caption": "حاويات مكدسة ورافعات جسرية وشاحنات في ميناء سنغافورة. صورة توضيحية، وليست توثيقًا لفحص أو صفقة أجرتها AutoBridge.",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "The port of Singapore.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:The_port_of_Singapore.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:The_port_of_Singapore.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/The_port_of_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 2.0",
+        "artist": "William Cho",
+        "credit": "Port of Singapore Uploaded by Hydriz",
+        "candidate_description": "PSA Singapore Terminals is the world's busiest transhipment hub, handling about one-fifth of the world's total container transhipment throughput, and 6% of global container throughput. It was voted the \"Best Container Terminal Operator (Asia) for the 20th time at the 2009 Asian Freight & Supply Chain Awards. PP: 5 images HDR with blending of 1 image on the moving container trucks Best viewed on BLACK",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "98b7993b5a8724025349cbf0c6d067c37a47675b03c1deaa3b75eb4106561dd5",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Singapore container terminal, cranes and feeder trucks match the Southeast Asia FOB/CIF logistics guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "zh": {
+      "title": "中国汽车出口东南亚：FOB与CIF报价要算到许可、岛屿运输和上牌",
+      "seo_title": "东南亚进口汽车FOB与CIF报价核验｜许可、港口与岛屿运输",
+      "meta_description": "帮助东南亚进口商比较中国汽车FOB与CIF报价，核对进口许可、转运与支线、目的港费用、跨岛交付、税费和首次登记。",
+      "summary": "东南亚的低CIF报价可能只到主要港口。真正可比的成本还要加入国家许可、支线运输、跨岛交付和首次登记。",
+      "eyebrow": "东南亚汽车进口成本",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../zh/index.html\">首页</a><span>/</span><a href=\"../../zh/guides/index.html\">采购指南</a><span>/</span><span>中国汽车出口东南亚：FOB与CIF报价要算到许可、岛屿运输和上牌</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">东南亚汽车进口成本</p>\n      <h1>中国汽车出口东南亚：FOB与CIF报价要算到许可、岛屿运输和上牌</h1>\n      <p class=\"lead\">东南亚的低CIF报价可能只到主要港口。真正可比的成本还要加入国家许可、支线运输、跨岛交付和首次登记。</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/the-port-of-singapore-jpg.jpg\" alt=\"新加坡港的集装箱、龙门起重机与卡车\" loading=\"lazy\"><figcaption>新加坡港的集装箱、龙门起重机与卡车. 参考配图，并非 AutoBridge 的检测或交易记录。</figcaption></figure>\n      <h2>先确认国家、港口和最终岛屿</h2>\n      <p>询价表必须写明最终登记国家、主要港口、车辆使用城市或岛屿、车型配置和数量。东南亚不同国家对进口主体、新车与二手车、右舵或左舵、排放和电动车有不同要求。一个到新加坡或巴生港的CIF数字，不能代表车辆已经送到印尼或菲律宾的最终岛屿，也不能证明具备当地进口许可。</p>\n      <p>左右舵、车辆状态和动力形式应在标题以外明确写入配置表。东南亚市场常见同名车型存在不同版本，如果文件与实车的灯具、安全或充电配置不一致，清关和登记都可能受影响。供应商更换生产批次时，应重新出具车辆清单并触发合规复核。</p>\n      <h2>检查FOB是否覆盖完整出口流程</h2>\n      <p>要求供应商拆出车辆、中国内陆运输、出口申报、检验、港区操作、仓储和装船费用，并说明滚装或集装箱方案。车辆尺寸、重量、是否可运行以及电动车荷电要求都会影响承运条件。文件上的车型、数量和车辆识别代号应与实车一致，任何配置替换都要在订舱前重新确认。</p>\n      <p>滚装和集装箱方案要分别评估装卸、加固、车辆状态和港口能力。对于不能行驶的车辆，拖带与装载费可能明显增加。买家应取得承运人接受确认，并把港区等待、船期变化和车辆保管责任写入合同，避免FOB报价在交港后继续产生未知费用。</p>\n      <h2>看清CIF航线和转运安排</h2>\n      <p>东南亚航线可能经过转运港，最终还需要支线船。报价应列明目的港、预计船期、转运点、运价有效期和附加费，并说明延误或甩柜风险由谁承担。保险要核对装卸损伤、盗损、进水、电池事件和免赔额。只有一句海运保险已含，无法说明买家在事故发生后是否真正能够索赔。</p>\n      <p>支线与转运会增加装卸次数，因此装船前照片、钥匙与里程记录、封签和到港交接更重要。保险应覆盖全程而不是只到中转港。若承运安排允许路线变化，应规定通知机制和费用调整边界，防止车辆被转到不适合处理该类货物的港口。</p>\n      <h2>把许可和合规置于付款前</h2>\n      <p>向当地专业机构核对进口许可证、配额或资格、车型批准、安全与排放文件、标签、充电接口和首次登记条件。部分市场对二手车年限、右舵方向或电动车电池文件有专门要求。清关代理说可以进口，并不一定等于交通管理机构允许上牌，因此两条路径都应在装船前获得书面确认。</p>\n      <p>进口许可往往与进口商资格、数量或车辆类别相关，不能只检查一张证书。采购方要确认许可余额、有效期和实际批次是否匹配。对于电动车，还应核对电池文件、充电标准和当地安全要求；对于二手车，则要检查车龄、里程和检测限制。</p>\n      <h2>单列港口、支线和跨岛成本</h2>\n      <p>目的港可能产生卸货、码头处理、文件、检验、仓储和延误费用，随后还有支线船、轮渡、拖车、保险和岛内配送。对于电动车或无法行驶的车辆，跨岛承运条件可能更严格。向主要港口代理和最终目的地物流商分别取价，并记录免费堆存期和旺季限制，避免低海运费被后段物流抵消。</p>\n      <p>跨岛交付应确认车辆能否直接滚装轮渡、是否需要集装箱或危险品安排，以及偏远地区的维修和充电能力。到港后临时改变岛屿目的地可能影响保险和费用。把最终仓库或经销点写入物流计划，才能准确比较不同主港和支线组合。</p>\n      <h2>用全链路成本表批准交易</h2>\n      <p>将车辆、出口端、国际运输、保险、目的港、许可与税费、支线或跨岛运输、整改和登记分栏比较，所有数字注明来源和日期。对船期、汇率和港口拥堵做情景测试。若进口资格未确认、首次登记路径不清、转运费用没有责任人或保险不覆盖关键风险，应暂停付款；不确定项不能用零填充来制造便宜的落地价。</p>\n      <p>实际运营后应复盘船期、港口停留、支线费用和登记结果，形成按国家与岛屿维护的成本基准。新的供应商或路线先用小批量验证。只有许可、文件、保险和最终交付都可追溯时，才把较低的CIF价格视为真正节省。</p>\n      <p>东南亚路线多、国家规则差异大，最便宜的主干海运未必带来最低落地成本。将许可、转运、支线和登记并列后，买家才能选择一条可持续复制的供应链，而不是每次到港都临时解决新的费用与文件问题。首批车辆应逐项记录计划与实际时间、港口支出和登记结果，再决定是否扩大数量；跨岛或换港时必须重新确认保险、许可和承运条件。</p>\n      <h2>常见问题</h2>\n      <h3>CIF到主要港口是否包括跨岛配送？</h3>\n      <p>通常不包括。支线船、轮渡、拖车、岛内运输和相应保险需要按最终地点单独确认。请按最终国家、港口和岛屿确认，不能把区域平均情况作为合同答案。</p>\n      <h3>有清关代理确认就一定能上牌吗？</h3>\n      <p>不一定。进口清关与首次登记可能由不同机构管理，应分别核对许可、车型和文件要求。</p>\n      <h3>转运航线应关注什么？</h3>\n      <p>关注转运港、预计时间、附加费、甩柜或延误责任，以及保险是否覆盖整个转运过程。</p>\n      <h3>为什么不能只比较海运费？</h3>\n      <p>因为目的港、许可、支线、跨岛运输和登记可能占据重要成本，且不同路线的风险与时间差异很大。</p>\n\n      <h2>资料来源</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/establishing-the-customs-value/\" target=\"_blank\" rel=\"noopener noreferrer\">Establishing the Customs Value</a><span>Singapore Customs · 2026-09-07</span></li>\n        <li><a href=\"https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/guide-to-importing-dutiable-motor-vehicles/\" target=\"_blank\" rel=\"noopener noreferrer\">Guide to Importing Dutiable Motor Vehicles</a><span>Singapore Customs · 2026-09-07</span></li>\n        <li><a href=\"https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/Importation_Guidelines/Car.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Procedures on Importation and Registration of a Car</a><span>Singapore Land Transport Authority · 2026-08-22</span></li>\n        <li><a href=\"https://www.miti.gov.my/miti/resources/Approve%2520Permit/AP%2520Announcement/Notice_for_Application_of_Personal_Vehicle_Import_License_%28AP%29_%2815072019%29_BI.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Approved Permit Application of Personal Vehicles</a><span>Ministry of Investment, Trade and Industry of Malaysia · 2026-08-22</span></li>\n        <li><a href=\"https://asean.org/wp-content/uploads/2024/11/ASEAN-Guidelines-LEV_ISBN.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">ASEAN Guidelines on Light Electric Vehicles</a><span>Association of Southeast Asian Nations · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "word_count": 1528,
+      "reading_time_minutes": 4,
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/the-port-of-singapore-jpg.jpg",
+        "alt": "新加坡港的集装箱、龙门起重机与卡车",
+        "caption": "新加坡港的集装箱、龙门起重机与卡车. 参考配图，并非 AutoBridge 的检测或交易记录。",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "The port of Singapore.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:The_port_of_Singapore.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:The_port_of_Singapore.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/The_port_of_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 2.0",
+        "artist": "William Cho",
+        "credit": "Port of Singapore Uploaded by Hydriz",
+        "candidate_description": "PSA Singapore Terminals is the world's busiest transhipment hub, handling about one-fifth of the world's total container transhipment throughput, and 6% of global container throughput. It was voted the \"Best Container Terminal Operator (Asia) for the 20th time at the 2009 Asian Freight & Supply Chain Awards. PP: 5 images HDR with blending of 1 image on the moving container trucks Best viewed on BLACK",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "98b7993b5a8724025349cbf0c6d067c37a47675b03c1deaa3b75eb4106561dd5",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Singapore container terminal, cranes and feeder trucks match the Southeast Asia FOB/CIF logistics guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    }
+  },
+  "revision_history": [
+    {
+      "date": "2026-08-23",
+      "actor": "codex-user-approved-direct-batch",
+      "action": "approved and deployed to production"
+    },
+    {
+      "date": "2026-08-23",
+      "actor": "codex-ai-rebuild",
+      "action": "researched bilingual source and ten-language localization staged for passive review"
+    },
+    {
+      "date": "2026-08-23",
+      "actor": "codex-ai-rebuild",
+      "action": "researched bilingual source and ten-language localization staged for passive review"
+    },
+    {
+      "date": "2026-08-22",
+      "actor": "codex-user-approved-direct-batch",
+      "action": "approved and deployed to production"
+    },
+    {
+      "date": "2026-08-22",
+      "actor": "codex-ai-rebuild",
+      "action": "researched bilingual source and ten-language localization staged for passive review"
+    },
+    {
+      "date": "2026-08-22",
+      "actor": "codex-ai-rebuild",
+      "action": "researched bilingual source and ten-language localization staged for passive review"
+    },
+    {
+      "date": "2026-07-15",
+      "actor": "codex-ai-rebuild",
+      "action": "researched bilingual source and ten-language localization staged for passive review"
+    },
+    {
+      "date": "2026-07-03",
+      "actor": "codex",
+      "action": "enabled French/German and category pinning fields"
+    },
+    {
+      "date": "2026-07-03",
+      "actor": "codex",
+      "action": "extracted current static HTML into structured content source"
+    },
+    {
+      "at": "2026-09-07T11:19:08.134Z",
+      "action": "Verified source-location and targeted Chinese FAQ corrections; full multilingual editorial review remains pending.",
+      "human_reviewed": false
+    },
+    {
+      "at": "2026-09-07T11:24:17.534Z",
+      "action": "Recovered complete non-scaffolded bodies in ten locales from a hash-verified historical snapshot. Retained current images, summaries and citations. Current facts and all-language alignment still require review.",
+      "human_reviewed": false
+    }
+  ],
+  "pinned_in_category": false,
+  "synced_at": "2026-08-23T08:01:24.866Z",
+  "review_deadline_at": "2026-08-26T08:01:24.866Z",
+  "sources": [
+    {
+      "title": "Incoterms 2020 Checklist and Flowcharts",
+      "organization": "International Chamber of Commerce",
+      "url": "https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf",
+      "supports": "FOB and CIF for maritime delivery and the relevance of FCA or CIP for containerised and multimodal carriage.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "Establishing the Customs Value",
+      "organization": "Singapore Customs",
+      "url": "https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/establishing-the-customs-value/",
+      "supports": "Singapore-specific vehicle transaction valuation, freight and insurance additions, conditions for using transaction value and alternatives; different acquisition scenarios for used vehicles.",
+      "accessed_at": "2026-09-07",
+      "previous_url": "https://www.customs.gov.sg/doing-business/import-operations/import-procedures/importing-dutiable-motor-vehicles/establishing-the-customs-value/",
+      "verification_scope": "Read the current page reached from Singapore Customs' Importing Vehicles and Boats index. The article does not publish a numerical valuation or tax rate."
+    },
+    {
+      "title": "Guide to Importing Dutiable Motor Vehicles",
+      "organization": "Singapore Customs",
+      "url": "https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/guide-to-importing-dutiable-motor-vehicles/",
+      "supports": "Singapore vehicle customs-value assessment, approval, duty and GST permit, port clearance, and referral to LTA for registration. Customs clearance is not itself permission for road use.",
+      "accessed_at": "2026-09-07",
+      "previous_url": "https://www.customs.gov.sg/doing-business/import-operations/import-procedures/importing-dutiable-motor-vehicles/",
+      "verification_scope": "Read the current guide reached from the official Singapore Customs index. Applies to Singapore only."
+    },
+    {
+      "title": "Procedures on Importation and Registration of a Car",
+      "organization": "Singapore Land Transport Authority",
+      "url": "https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/Importation_Guidelines/Car.pdf",
+      "supports": "A destination-specific example linking vehicle approval and registration to import evidence.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "Approved Permit Application of Personal Vehicles",
+      "organization": "Ministry of Investment, Trade and Industry of Malaysia",
+      "url": "https://www.miti.gov.my/miti/resources/Approve%2520Permit/AP%2520Announcement/Notice_for_Application_of_Personal_Vehicle_Import_License_%28AP%29_%2815072019%29_BI.pdf",
+      "supports": "Malaysia's destination-specific Approved Permit application for personal vehicle imports.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "ASEAN Guidelines on Light Electric Vehicles",
+      "organization": "Association of Southeast Asian Nations",
+      "url": "https://asean.org/wp-content/uploads/2024/11/ASEAN-Guidelines-LEV_ISBN.pdf",
+      "supports": "Differences among ASEAN member states in vehicle approval, charging, battery performance, testing and related standards.",
+      "accessed_at": "2026-08-22"
+    }
+  ],
+  "evidence_gaps": [
+    "ASEAN guidance does not create one vehicle import, customs, steering-side, approval, charging or registration system; the exact national authority must confirm the offered variant.",
+    "Feeder, ferry, inter-island, terminal, storage, inland, dangerous-goods and banking charges vary by country, island, carrier and shipment date.",
+    "A CIF named seaport does not prove delivery to an inland or island destination, nor continuous insurance after discharge.",
+    "Preferential origin, if claimed, requires an applicable agreement and valid product-specific evidence and cannot be inferred from shipment from China or an Incoterm.",
+    "Electric, used, damaged or repaired vehicle acceptance, battery state and ferry rules require written confirmation from the actual carrier and destination authorities."
+  ],
+  "editorial_angle": "Southeast Asian FOB and CIF comparisons should include country permits, transshipment, feeder or inter-island delivery, port charges and first registration.",
+  "editorial": {
+    "policy_version": "2026-08-15",
+    "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+    "author": {
+      "type": "Organization",
+      "name": "AutoBridge Export Editorial Team",
+      "url_path": "/authors/"
+    },
+    "methodology": "document_research_and_procurement_analysis",
+    "evidence": {
+      "level": "documented_sources",
+      "first_hand": false,
+      "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+    },
+    "ai_assistance": {
+      "used": true,
+      "roles": [
+        "research_support",
+        "drafting_support",
+        "translation_support"
+      ],
+      "disclosure_required": true
+    },
+    "review": {
+      "status": "editorial_review_pending",
+      "reviewed_at": null,
+      "reviewer": null,
+      "human_reviewed": false
+    },
+    "previous_review": {
+      "status": "human_reviewed",
+      "reviewed_at": "2026-08-23T08:15:53.326Z",
+      "reviewer": "codex-user-approved-direct-batch",
+      "note": "The publication decision was confirmed in the authenticated editorial workflow."
+    }
+  },
+  "published_at": null,
+  "indexing_state": "quality_hold",
+  "publication_eligible": false,
+  "previous_published_at": "2026-08-23T08:15:53.326Z"
+}

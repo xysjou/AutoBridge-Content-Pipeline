@@ -1,0 +1,957 @@
+{
+  "candidate_sha256": "2fdc2d30e7913da2a49995e4b01f4011e3d835a1936b5e5de6515e786859298b",
+  "generated_at": "2026-09-08T23:08:08.678Z",
+  "pages": [
+    {
+      "relative": "en/guides/fob-cif-quote-check-africa.html",
+      "candidate_preview": true,
+      "language": "en",
+      "type": "guides",
+      "slug": "fob-cif-quote-check-africa",
+      "content_key": "guides/fob-cif-quote-check-africa",
+      "canonical": "https://www.autobridgeexport.com/guides/fob-cif-quote-check-africa.html",
+      "title": "FOB vs CIF vehicle quotes for Africa: price the port and inland corridor",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/durban-container-port-24747434937-jpg.jpg",
+        "alt": "Aerial view of container stacks, cranes and ships at Durban port",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "human_reviewed",
+          "reviewed_at": "2026-08-23T08:15:52.290Z",
+          "reviewer": "codex-user-approved-direct-batch",
+          "note": "The publication decision was confirmed in the authenticated editorial workflow."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 1114,
+      "character_count": 6546,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 2,
+      "max_peer_similarity": 0.571,
+      "most_similar_peer": "en/guides/price-verification-africa.html",
+      "editorial_quality_score": 70,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 0,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 0,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [
+        "high_peer_similarity",
+        "editorial_quality_score_below_85"
+      ],
+      "quality_pass": false
+    },
+    {
+      "relative": "fr/guides/fob-cif-quote-check-africa.html",
+      "candidate_preview": true,
+      "language": "fr",
+      "type": "guides",
+      "slug": "fob-cif-quote-check-africa",
+      "content_key": "guides/fob-cif-quote-check-africa",
+      "canonical": "https://fr.autobridgeexport.com/guides/fob-cif-quote-check-africa.html",
+      "title": "Comparer FOB et CIF pour importer des véhicules chinois en Afrique",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/durban-container-port-24747434937-jpg.jpg",
+        "alt": "Vue aérienne des conteneurs, grues et navires du port de Durban",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "human_reviewed",
+          "reviewed_at": "2026-08-23T08:15:52.290Z",
+          "reviewer": "codex-user-approved-direct-batch",
+          "note": "The publication decision was confirmed in the authenticated editorial workflow."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 835,
+      "character_count": 4734,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 2,
+      "max_peer_similarity": 0.583,
+      "most_similar_peer": "fr/guides/price-verification-africa.html",
+      "editorial_quality_score": 70,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 0,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 0,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [
+        "high_peer_similarity",
+        "editorial_quality_score_below_85"
+      ],
+      "quality_pass": false
+    },
+    {
+      "relative": "de/guides/fob-cif-quote-check-africa.html",
+      "candidate_preview": true,
+      "language": "de",
+      "type": "guides",
+      "slug": "fob-cif-quote-check-africa",
+      "content_key": "guides/fob-cif-quote-check-africa",
+      "canonical": "https://de.autobridgeexport.com/guides/fob-cif-quote-check-africa.html",
+      "title": "FOB- und CIF-Fahrzeugangebote für Afrika bis ins Inland vergleichen",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/durban-container-port-24747434937-jpg.jpg",
+        "alt": "Luftaufnahme von Containern, Kränen und Schiffen im Hafen von Durban",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "human_reviewed",
+          "reviewed_at": "2026-08-23T08:15:52.290Z",
+          "reviewer": "codex-user-approved-direct-batch",
+          "note": "The publication decision was confirmed in the authenticated editorial workflow."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 671,
+      "character_count": 4766,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 2,
+      "max_peer_similarity": 0.583,
+      "most_similar_peer": "de/guides/price-verification-africa.html",
+      "editorial_quality_score": 70,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 0,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 0,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [
+        "high_peer_similarity",
+        "editorial_quality_score_below_85"
+      ],
+      "quality_pass": false
+    },
+    {
+      "relative": "es/guides/fob-cif-quote-check-africa.html",
+      "candidate_preview": true,
+      "language": "es",
+      "type": "guides",
+      "slug": "fob-cif-quote-check-africa",
+      "content_key": "guides/fob-cif-quote-check-africa",
+      "canonical": "https://es.autobridgeexport.com/guides/fob-cif-quote-check-africa.html",
+      "title": "Comparar FOB y CIF para importar vehículos chinos a África",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/durban-container-port-24747434937-jpg.jpg",
+        "alt": "Vista aérea de contenedores, grúas y buques en el puerto de Durban",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "human_reviewed",
+          "reviewed_at": "2026-08-23T08:15:52.290Z",
+          "reviewer": "codex-user-approved-direct-batch",
+          "note": "The publication decision was confirmed in the authenticated editorial workflow."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 758,
+      "character_count": 4420,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 2,
+      "max_peer_similarity": 0.583,
+      "most_similar_peer": "es/guides/price-verification-africa.html",
+      "editorial_quality_score": 70,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 0,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 0,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [
+        "high_peer_similarity",
+        "editorial_quality_score_below_85"
+      ],
+      "quality_pass": false
+    },
+    {
+      "relative": "pt-br/guides/fob-cif-quote-check-africa.html",
+      "candidate_preview": true,
+      "language": "pt-br",
+      "type": "guides",
+      "slug": "fob-cif-quote-check-africa",
+      "content_key": "guides/fob-cif-quote-check-africa",
+      "canonical": "https://pt.autobridgeexport.com/guides/fob-cif-quote-check-africa.html",
+      "title": "Comparar FOB e CIF na importação de veículos chineses para a África",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/durban-container-port-24747434937-jpg.jpg",
+        "alt": "Vista aérea de contêineres, guindastes e navios no porto de Durban",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "human_reviewed",
+          "reviewed_at": "2026-08-23T08:15:52.290Z",
+          "reviewer": "codex-user-approved-direct-batch",
+          "note": "The publication decision was confirmed in the authenticated editorial workflow."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 735,
+      "character_count": 4241,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 2,
+      "max_peer_similarity": 0.565,
+      "most_similar_peer": "pt-br/guides/price-verification-africa.html",
+      "editorial_quality_score": 70,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 0,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 0,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [
+        "high_peer_similarity",
+        "editorial_quality_score_below_85"
+      ],
+      "quality_pass": false
+    },
+    {
+      "relative": "ja/guides/fob-cif-quote-check-africa.html",
+      "candidate_preview": true,
+      "language": "ja",
+      "type": "guides",
+      "slug": "fob-cif-quote-check-africa",
+      "content_key": "guides/fob-cif-quote-check-africa",
+      "canonical": "https://ja.autobridgeexport.com/guides/fob-cif-quote-check-africa.html",
+      "title": "アフリカ向け中国車のFOB・CIFを港と内陸回廊まで比較する",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/durban-container-port-24747434937-jpg.jpg",
+        "alt": "ダーバン港のコンテナ、クレーン、船舶の空撮",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "human_reviewed",
+          "reviewed_at": "2026-08-23T08:15:52.290Z",
+          "reviewer": "codex-user-approved-direct-batch",
+          "note": "The publication decision was confirmed in the authenticated editorial workflow."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 256,
+      "character_count": 1939,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 2,
+      "max_peer_similarity": 0.455,
+      "most_similar_peer": "ja/guides/price-verification-africa.html",
+      "editorial_quality_score": 100,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 20,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 10,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [],
+      "quality_pass": true
+    },
+    {
+      "relative": "ko/guides/fob-cif-quote-check-africa.html",
+      "candidate_preview": true,
+      "language": "ko",
+      "type": "guides",
+      "slug": "fob-cif-quote-check-africa",
+      "content_key": "guides/fob-cif-quote-check-africa",
+      "canonical": "https://ko.autobridgeexport.com/guides/fob-cif-quote-check-africa.html",
+      "title": "아프리카행 중국 차량 FOB·CIF를 항만과 내륙회랑까지 비교하기",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/durban-container-port-24747434937-jpg.jpg",
+        "alt": "더반항의 컨테이너, 크레인과 선박을 내려다본 모습",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "human_reviewed",
+          "reviewed_at": "2026-08-23T08:15:52.290Z",
+          "reviewer": "codex-user-approved-direct-batch",
+          "note": "The publication decision was confirmed in the authenticated editorial workflow."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 498,
+      "character_count": 1941,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 2,
+      "max_peer_similarity": 0.5,
+      "most_similar_peer": "ko/guides/price-verification-africa.html",
+      "editorial_quality_score": 100,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 20,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 10,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [],
+      "quality_pass": true
+    },
+    {
+      "relative": "vi/guides/fob-cif-quote-check-africa.html",
+      "candidate_preview": true,
+      "language": "vi",
+      "type": "guides",
+      "slug": "fob-cif-quote-check-africa",
+      "content_key": "guides/fob-cif-quote-check-africa",
+      "canonical": "https://vi.autobridgeexport.com/guides/fob-cif-quote-check-africa.html",
+      "title": "So sánh FOB và CIF khi nhập xe Trung Quốc vào châu Phi đến tận hành lang nội địa",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/durban-container-port-24747434937-jpg.jpg",
+        "alt": "Ảnh chụp từ trên cao các container, cần cẩu và tàu tại cảng Durban",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "human_reviewed",
+          "reviewed_at": "2026-08-23T08:15:52.290Z",
+          "reviewer": "codex-user-approved-direct-batch",
+          "note": "The publication decision was confirmed in the authenticated editorial workflow."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 934,
+      "character_count": 3517,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 2,
+      "max_peer_similarity": 0.565,
+      "most_similar_peer": "vi/guides/price-verification-africa.html",
+      "editorial_quality_score": 70,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 0,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 0,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [
+        "high_peer_similarity",
+        "editorial_quality_score_below_85"
+      ],
+      "quality_pass": false
+    },
+    {
+      "relative": "th/guides/fob-cif-quote-check-africa.html",
+      "candidate_preview": true,
+      "language": "th",
+      "type": "guides",
+      "slug": "fob-cif-quote-check-africa",
+      "content_key": "guides/fob-cif-quote-check-africa",
+      "canonical": "https://th.autobridgeexport.com/guides/fob-cif-quote-check-africa.html",
+      "title": "เทียบ FOB กับ CIF สำหรับรถจีนไปแอฟริกาจนถึงเส้นทางขนส่งภายใน",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/durban-container-port-24747434937-jpg.jpg",
+        "alt": "ภาพมุมสูงของตู้คอนเทนเนอร์ เครน และเรือที่ท่าเรือเดอร์บัน",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "human_reviewed",
+          "reviewed_at": "2026-08-23T08:15:52.290Z",
+          "reviewer": "codex-user-approved-direct-batch",
+          "note": "The publication decision was confirmed in the authenticated editorial workflow."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 760,
+      "character_count": 3347,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 2,
+      "max_peer_similarity": 0.565,
+      "most_similar_peer": "th/guides/price-verification-africa.html",
+      "editorial_quality_score": 70,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 0,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 0,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [
+        "high_peer_similarity",
+        "editorial_quality_score_below_85"
+      ],
+      "quality_pass": false
+    },
+    {
+      "relative": "id/guides/fob-cif-quote-check-africa.html",
+      "candidate_preview": true,
+      "language": "id",
+      "type": "guides",
+      "slug": "fob-cif-quote-check-africa",
+      "content_key": "guides/fob-cif-quote-check-africa",
+      "canonical": "https://id.autobridgeexport.com/guides/fob-cif-quote-check-africa.html",
+      "title": "Membandingkan FOB dan CIF kendaraan Tiongkok ke Afrika hingga koridor darat",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/durban-container-port-24747434937-jpg.jpg",
+        "alt": "Tampak udara tumpukan peti kemas, derek, dan kapal di pelabuhan Durban",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "human_reviewed",
+          "reviewed_at": "2026-08-23T08:15:52.290Z",
+          "reviewer": "codex-user-approved-direct-batch",
+          "note": "The publication decision was confirmed in the authenticated editorial workflow."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 678,
+      "character_count": 4311,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 2,
+      "max_peer_similarity": 0.583,
+      "most_similar_peer": "id/guides/price-verification-africa.html",
+      "editorial_quality_score": 70,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 0,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 0,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [
+        "high_peer_similarity",
+        "editorial_quality_score_below_85"
+      ],
+      "quality_pass": false
+    },
+    {
+      "relative": "ar/guides/fob-cif-quote-check-africa.html",
+      "candidate_preview": true,
+      "language": "ar",
+      "type": "guides",
+      "slug": "fob-cif-quote-check-africa",
+      "content_key": "guides/fob-cif-quote-check-africa",
+      "canonical": "https://ar.autobridgeexport.com/guides/fob-cif-quote-check-africa.html",
+      "title": "مقارنة FOB وCIF للمركبات الصينية إلى أفريقيا حتى الممر الداخلي",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/durban-container-port-24747434937-jpg.jpg",
+        "alt": "منظر جوي للحاويات والرافعات والسفن في ميناء ديربان",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "human_reviewed",
+          "reviewed_at": "2026-08-23T08:15:52.290Z",
+          "reviewer": "codex-user-approved-direct-batch",
+          "note": "The publication decision was confirmed in the authenticated editorial workflow."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 623,
+      "character_count": 3415,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 2,
+      "max_peer_similarity": 0.565,
+      "most_similar_peer": "ar/guides/price-verification-africa.html",
+      "editorial_quality_score": 70,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 0,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 0,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [
+        "high_peer_similarity",
+        "editorial_quality_score_below_85"
+      ],
+      "quality_pass": false
+    },
+    {
+      "relative": "zh/guides/fob-cif-quote-check-africa.html",
+      "candidate_preview": true,
+      "language": "zh",
+      "type": "guides",
+      "slug": "fob-cif-quote-check-africa",
+      "content_key": "guides/fob-cif-quote-check-africa",
+      "canonical": "https://zh.autobridgeexport.com/guides/fob-cif-quote-check-africa.html",
+      "title": "非洲进口中国汽车：FOB与CIF报价按港口和内陆走廊核对",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/durban-container-port-24747434937-jpg.jpg",
+        "alt": "德班港集装箱堆场、起重机与船舶的航拍照片",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "human_reviewed",
+          "reviewed_at": "2026-08-23T08:15:52.290Z",
+          "reviewer": "codex-user-approved-direct-batch",
+          "note": "The publication decision was confirmed in the authenticated editorial workflow."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 266,
+      "character_count": 2460,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 2,
+      "max_peer_similarity": 0,
+      "most_similar_peer": null,
+      "editorial_quality_score": 100,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 20,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 10,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [],
+      "quality_pass": true
+    }
+  ]
+}

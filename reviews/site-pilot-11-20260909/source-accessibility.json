@@ -1,0 +1,827 @@
+{
+  "started_at": "2026-09-08T23:06:43.425Z",
+  "scope": "HTTP accessibility only; not fact, legal applicability or editorial approval",
+  "candidate_hashes": {
+    "fob-cif-quote-check-africa": "2fdc2d30e7913da2a49995e4b01f4011e3d835a1936b5e5de6515e786859298b",
+    "fob-cif-quote-check-latin-america": "f16312056bf090fddfd10ece5f3003ec00eabd5ff22853ea14a90b54e37cb3d0",
+    "fob-cif-quote-check-middle-east": "f9fbaa2f90edfbbc083a8b12b481336129db467144a6edbfcb16043e33cd397b",
+    "fob-cif-quote-check-southeast-asia": "9344fd26973c804397a139cd05254d4df7bdb96016ae7c47c231725bb350c143",
+    "best-chinese-suvs-southeast-asia": "8a041aef52262084bcc4b991118d5bf0f7b5f915835a4e353493800b6e725ea7",
+    "battery-warranty-southeast-asia": "0fd291de29b00b18de9e272ac7ff9cc519170b33fb16f858cedd7214eeb2f41a",
+    "new-vs-used-ev-middle-east": "914747d13f01cf68b66e82bdf4f1a97ded9ca95193bf980eb07c8382aef66c3f",
+    "pickup-export-latin-america": "21f08d1604563d6cf267fef31b41a9e5489bd01202b8ec76a8dd121bf72864ec",
+    "roro-container-shipping-latin-america": "b1cce33d9ffc2a51ec69e931f6cbb244056391f90d6b543ae02a2d697a581e43",
+    "seven-seat-suv-latin-america": "75a7e2d8370f5b3f554bb8ac4b50e139b0e66c60812b2257856d450d34c44412",
+    "price-verification-africa": "65545924a0524c7b9d47b532993e8abb292e86cc1100f5c27f6cf9df81139e21"
+  },
+  "complete": true,
+  "records": [
+    {
+      "url": "https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf",
+      "used_by": [
+        "fob-cif-quote-check-africa",
+        "fob-cif-quote-check-latin-america",
+        "fob-cif-quote-check-middle-east",
+        "fob-cif-quote-check-southeast-asia",
+        "roro-container-shipping-latin-america",
+        "price-verification-africa"
+      ],
+      "checked_at": "2026-09-08T23:06:46.632Z",
+      "http_status": 206,
+      "final_url": "https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf",
+      "content_type": "application/pdf",
+      "title": "",
+      "received_bytes": 262144,
+      "response_sha256": "6a6fd0494afe7a6c9f8b8a80883404674c97abf89d0ca69a0b3d84940dc65146",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx",
+      "used_by": [
+        "fob-cif-quote-check-africa",
+        "fob-cif-quote-check-latin-america",
+        "fob-cif-quote-check-middle-east",
+        "price-verification-africa"
+      ],
+      "checked_at": "2026-09-08T23:06:50.612Z",
+      "http_status": 200,
+      "final_url": "https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx",
+      "content_type": "text/html; charset=utf-8",
+      "title": " World Customs Organization ",
+      "received_bytes": 51029,
+      "response_sha256": "d8c0e811ddcbe8ff5a366b7955b00e18c55ee11108ad502a97f21564173c02f5",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://gra.gov.gh/customs/vehicle-importation/",
+      "used_by": [
+        "fob-cif-quote-check-africa",
+        "price-verification-africa"
+      ],
+      "checked_at": "2026-09-08T23:06:55.799Z",
+      "http_status": 206,
+      "final_url": "https://gra.gov.gh/customs/vehicle-importation/",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Vehicle Importation &#8211; GRA",
+      "received_bytes": 167306,
+      "response_sha256": "6e36efabc0a6d5f409b7dd0eb25df792cec6bad8a1e512fe54678f09c64ab584",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.kra.go.ke/news-center/public-notices/2223-current-retail-selling-price-crsp-for-used-motor-vehicles",
+      "used_by": [
+        "fob-cif-quote-check-africa",
+        "price-verification-africa"
+      ],
+      "checked_at": "2026-09-08T23:07:00.278Z",
+      "http_status": 200,
+      "final_url": "https://www.kra.go.ke/news-center/public-notices/2223-current-retail-selling-price-crsp-for-used-motor-vehicles",
+      "content_type": "text/html; charset=utf-8",
+      "title": " Current Retail Selling Price (CRSP) for Used Motor Vehicles - KRA ",
+      "received_bytes": 93559,
+      "response_sha256": "87df628bcbbde4824d79d57c4bce4926402b919fe80c551eeec7851e55a16567",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.kebs.org/import-inspection/",
+      "used_by": [
+        "fob-cif-quote-check-africa",
+        "price-verification-africa"
+      ],
+      "checked_at": "2026-09-08T23:07:09.277Z",
+      "http_status": 200,
+      "final_url": "https://www.kebs.org/import-inspection/",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Import Inspection &#8211; Kenya Bureau of Standards",
+      "received_bytes": 383055,
+      "response_sha256": "2c8c9d05a98bf1f8c02105cbf1dce68309a748cd5e6de45026fe278d7295269d",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.wcoomd.org/en/topics/valuation/overview/wto-valuation-agreement.aspx?p=1",
+      "used_by": [
+        "fob-cif-quote-check-africa"
+      ],
+      "checked_at": "2026-09-08T23:07:11.050Z",
+      "http_status": 200,
+      "final_url": "https://www.wcoomd.org/en/topics/valuation/overview/wto-valuation-agreement.aspx?p=1",
+      "content_type": "text/html; charset=utf-8",
+      "title": " World Customs Organization ",
+      "received_bytes": 14161,
+      "response_sha256": "31c68f9a345b211f442aee7bce7a1e6baac951131f15ae92fbc01aea99f0f923",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/despacho-de-importacao",
+      "used_by": [
+        "fob-cif-quote-check-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:07:14.171Z",
+      "http_status": 206,
+      "final_url": "https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/despacho-de-importacao",
+      "content_type": "text/html;charset=utf-8",
+      "title": "Manual Aduaneiro de Importação — Receita Federal ",
+      "received_bytes": 233646,
+      "response_sha256": "8980aac70e0b68c14c1e06d288233c0d5a3bf81038e8efb652fac47046b9df87",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://vuce.gov.co/vuce/tramites-y-servicios-de-la-vuce",
+      "used_by": [
+        "fob-cif-quote-check-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:07:17.819Z",
+      "http_status": 200,
+      "final_url": "https://vuce.gov.co/vuce/tramites-y-servicios-de-la-vuce",
+      "content_type": "text/html; charset=utf-8",
+      "title": " Tr&#225;mites y servicios de la VUCE | Ventanilla &#250;nica de comercio exterior ",
+      "received_bytes": 44142,
+      "response_sha256": "b3cace02e118bb4fbd3ec1f0bf3597911ef3b8c5282d9ca897f62de01d95b392",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.sunat.gob.pe/orientacionaduanera/importacionvehiculos/",
+      "used_by": [
+        "fob-cif-quote-check-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:07:20.242Z",
+      "http_status": 206,
+      "final_url": "https://www.sunat.gob.pe/orientacionaduanera/importacionvehiculos/",
+      "content_type": "text/html",
+      "title": ":: SUNAT ::",
+      "received_bytes": 20744,
+      "response_sha256": "4412ff2ff6628cfebdb1d6e34dafeaf3f9d9ecca0a220b41f541b60fc9995243",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.chileatiende.gob.cl/fichas/3388-primera-inscripcion-de-vehiculos-motorizados",
+      "used_by": [
+        "fob-cif-quote-check-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:07:38.287Z",
+      "http_status": 0,
+      "final_url": "https://www.chileatiende.gob.cl/fichas/3388-primera-inscripcion-de-vehiculos-motorizados",
+      "content_type": "",
+      "title": "",
+      "received_bytes": 0,
+      "response_sha256": null,
+      "transport_error": "curl: (28) Operation timed out after 18002 milliseconds with 0 bytes received\n",
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    },
+    {
+      "url": "https://gcc-gso.atlassian.net/wiki/spaces/CC/overview",
+      "used_by": [
+        "fob-cif-quote-check-middle-east"
+      ],
+      "checked_at": "2026-09-08T23:07:40.597Z",
+      "http_status": 200,
+      "final_url": "https://gcc-gso.atlassian.net/wiki/spaces/CC/overview",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "title": "Mutabiq User Guide - Mutabiq User Guide - GSO e-Services Documentation",
+      "received_bytes": 1183318,
+      "response_sha256": "609bbcbaabf48b761a6358f9ec802d330f75b1a1faed58433d16fd72c9bd81bd",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://zatca.gov.sa/en/RulesRegulations/Taxes/Pages/customs-individual/import-vehicles.aspx",
+      "used_by": [
+        "fob-cif-quote-check-middle-east"
+      ],
+      "checked_at": "2026-09-08T23:07:45.188Z",
+      "http_status": 200,
+      "final_url": "https://zatca.gov.sa/en/RulesRegulations/Taxes/Pages/customs-individual/import-vehicles.aspx",
+      "content_type": "text/html; charset=utf-8",
+      "title": " Vehicle Import Control ",
+      "received_bytes": 238623,
+      "response_sha256": "ce76ac1bccebf4f2f5f31428b4c2e1eb82c1f4a9875924c4ec3a50bd7206fee4",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.customs.gov.qa/English/Legislations/Documents/Executive%20Resolutions/13%20-A%20resolution%20on%20customs%20value%20instructions%20for%20imported%20goods.pdf",
+      "used_by": [
+        "fob-cif-quote-check-middle-east"
+      ],
+      "checked_at": "2026-09-08T23:07:57.249Z",
+      "http_status": 0,
+      "final_url": "https://www.customs.gov.qa/English/Legislations/Documents/Executive%20Resolutions/13%20-A%20resolution%20on%20customs%20value%20instructions%20for%20imported%20goods.pdf",
+      "content_type": "",
+      "title": "",
+      "received_bytes": 0,
+      "response_sha256": null,
+      "transport_error": "curl: (28) SSL connection timeout\n",
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    },
+    {
+      "url": "https://moiat.gov.ae/en/digital-participation/consultations/imported-used-vehicle-technical-requirements",
+      "used_by": [
+        "fob-cif-quote-check-middle-east"
+      ],
+      "checked_at": "2026-09-08T23:08:10.450Z",
+      "http_status": 200,
+      "final_url": "https://moiat.gov.ae/en/digital-participation/consultations/imported-used-vehicle-technical-requirements",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Imported Used Vehicle Technical Requirements",
+      "received_bytes": 365142,
+      "response_sha256": "b8d19abdae63df15701ffaee8c413bced559328bd4e2bdeeac317f6cc26ab6d1",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/establishing-the-customs-value/",
+      "used_by": [
+        "fob-cif-quote-check-southeast-asia"
+      ],
+      "checked_at": "2026-09-08T23:08:12.042Z",
+      "http_status": 403,
+      "final_url": "https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/establishing-the-customs-value/",
+      "content_type": "text/html",
+      "title": "ERROR: The request could not be satisfied",
+      "received_bytes": 919,
+      "response_sha256": "f8f44c3edb0ff502f2855f3396146aae73c95fb8e0c76a5b593e7152ff503a4a",
+      "transport_error": null,
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/guide-to-importing-dutiable-motor-vehicles/",
+      "used_by": [
+        "fob-cif-quote-check-southeast-asia"
+      ],
+      "checked_at": "2026-09-08T23:08:12.548Z",
+      "http_status": 403,
+      "final_url": "https://www.customs.gov.sg/personal-shipment/importing-vehicles-and-boats/guide-to-importing-dutiable-motor-vehicles/",
+      "content_type": "text/html",
+      "title": "ERROR: The request could not be satisfied",
+      "received_bytes": 919,
+      "response_sha256": "d3db5fa0c9e1c83e416d4b5fa31ffbc1381f65aced1091dd1a45436cd8eb3702",
+      "transport_error": null,
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    },
+    {
+      "url": "https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/Importation_Guidelines/Car.pdf",
+      "used_by": [
+        "fob-cif-quote-check-southeast-asia",
+        "battery-warranty-southeast-asia"
+      ],
+      "checked_at": "2026-09-08T23:08:16.925Z",
+      "http_status": 206,
+      "final_url": "https://onemotoring.lta.gov.sg/content/dam/onemotoring/Buying/PDF/Importation_Guidelines/Car.pdf",
+      "content_type": "application/pdf",
+      "title": "",
+      "received_bytes": 262144,
+      "response_sha256": "f940da0a9fad68483d245a3cef7752ba547a599b4ffef521ec9fcbb896529087",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.miti.gov.my/miti/resources/Approve%2520Permit/AP%2520Announcement/Notice_for_Application_of_Personal_Vehicle_Import_License_%28AP%29_%2815072019%29_BI.pdf",
+      "used_by": [
+        "fob-cif-quote-check-southeast-asia"
+      ],
+      "checked_at": "2026-09-08T23:08:20.220Z",
+      "http_status": 206,
+      "final_url": "https://www.miti.gov.my/miti/resources/Approve%2520Permit/AP%2520Announcement/Notice_for_Application_of_Personal_Vehicle_Import_License_%28AP%29_%2815072019%29_BI.pdf",
+      "content_type": "application/pdf",
+      "title": "",
+      "received_bytes": 15123,
+      "response_sha256": "26e7099f93f24982ef32833c1bf629bb2ebd396015fc95ceb53b0f2eeeb8e1e0",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://asean.org/wp-content/uploads/2024/11/ASEAN-Guidelines-LEV_ISBN.pdf",
+      "used_by": [
+        "fob-cif-quote-check-southeast-asia",
+        "battery-warranty-southeast-asia"
+      ],
+      "checked_at": "2026-09-08T23:08:21.390Z",
+      "http_status": 403,
+      "final_url": "https://asean.org/wp-content/uploads/2024/11/ASEAN-Guidelines-LEV_ISBN.pdf",
+      "content_type": "text/html",
+      "title": "Sucuri WebSite Firewall - Access Denied",
+      "received_bytes": 2314,
+      "response_sha256": "de85a183cea893b77e193e45c77d7cf16c3b1fb8f6ab4cf03ce6cd8c33a5a868",
+      "transport_error": null,
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    },
+    {
+      "url": "https://asean.org/wp-content/uploads/ASEAN-for-Business_March-2021.pdf",
+      "used_by": [
+        "best-chinese-suvs-southeast-asia"
+      ],
+      "checked_at": "2026-09-08T23:08:22.097Z",
+      "http_status": 403,
+      "final_url": "https://asean.org/wp-content/uploads/ASEAN-for-Business_March-2021.pdf",
+      "content_type": "text/html",
+      "title": "Sucuri WebSite Firewall - Access Denied",
+      "received_bytes": 2310,
+      "response_sha256": "4e563d1acb5d61693e90621c3e932d4f7060aed374b05ddb8e58d7af1bed47f8",
+      "transport_error": null,
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.aseancap.org/x/news_post.php?slug=new-updates-in-asean-ncap-2026-2030-assessment-and-test-protocols",
+      "used_by": [
+        "best-chinese-suvs-southeast-asia"
+      ],
+      "checked_at": "2026-09-08T23:08:23.602Z",
+      "http_status": 200,
+      "final_url": "https://www.aseancap.org/x/news_post.php?slug=new-updates-in-asean-ncap-2026-2030-assessment-and-test-protocols",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "New Updates in ASEAN NCAP 2026–2030 Assessment and Test Protocols | ASEAN NCAP",
+      "received_bytes": 55808,
+      "response_sha256": "0ad9522ac1a6b5c6e86a52cd718b764e69c06fb8cdb9c050f3a465a52956fd8b",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.aseancap.org/aboutus",
+      "used_by": [
+        "best-chinese-suvs-southeast-asia"
+      ],
+      "checked_at": "2026-09-08T23:08:24.480Z",
+      "http_status": 200,
+      "final_url": "https://www.aseancap.org/aboutus",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "About Us | ASEAN NCAP",
+      "received_bytes": 55252,
+      "response_sha256": "e97e0a3dff3205ba5d168689ca636f5f55ffb342f3a8552c0a933b1df48c3d91",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.iea.org/reports/global-ev-outlook-2026/electric-vehicle-charging-chap-6-and-10",
+      "used_by": [
+        "best-chinese-suvs-southeast-asia"
+      ],
+      "checked_at": "2026-09-08T23:08:25.133Z",
+      "http_status": 403,
+      "final_url": "https://www.iea.org/reports/global-ev-outlook-2026/electric-vehicle-charging-chap-6-and-10",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Just a moment...",
+      "received_bytes": 5697,
+      "response_sha256": "bde7569a8f88ed2325d3fe4138cab60e54cca066a9463da9252232e1807f984c",
+      "transport_error": null,
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    },
+    {
+      "url": "https://atr.asean.org/standards",
+      "used_by": [
+        "best-chinese-suvs-southeast-asia"
+      ],
+      "checked_at": "2026-09-08T23:08:28.673Z",
+      "http_status": 200,
+      "final_url": "https://atr.asean.org/standards",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Search Harmonised Standards in ASEAN - ASEAN Trade Repository",
+      "received_bytes": 67492,
+      "response_sha256": "c27b2785e1da3eb032e0d66648ea341a0b0806602bd5380101964024d19d96f2",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.jpj.gov.my/en/vehicle-type-approval-process-vta/",
+      "used_by": [
+        "best-chinese-suvs-southeast-asia"
+      ],
+      "checked_at": "2026-09-08T23:08:34.282Z",
+      "http_status": 200,
+      "final_url": "https://www.jpj.gov.my/en/vehicle-type-approval-process-vta/",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "VTA Application Procedure - Portal Rasmi JPJ",
+      "received_bytes": 378511,
+      "response_sha256": "7521c566fd0908032b38da8c15c5133088da3747b9acd8e18b1868cf7b34a8d4",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.lta.gov.sg/content/ltagov/en/industry_innovations/technologies/electric_vehicles/regulating_safety_of_ev_chargers/registration-of-ev-chargers.html",
+      "used_by": [
+        "battery-warranty-southeast-asia"
+      ],
+      "checked_at": "2026-09-08T23:08:38.936Z",
+      "http_status": 206,
+      "final_url": "https://www.lta.gov.sg/content/ltagov/en/industry_innovations/technologies/electric_vehicles/regulating_safety_of_ev_chargers/registration-of-ev-chargers.html",
+      "content_type": "text/html",
+      "title": "",
+      "received_bytes": 13591,
+      "response_sha256": "28e7ce3341d51f7f3779fb33bd51a060078773ca441c22a57f0778450e00b691",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.iea.org/reports/global-ev-outlook-2025/electric-vehicle-batteries",
+      "used_by": [
+        "battery-warranty-southeast-asia"
+      ],
+      "checked_at": "2026-09-08T23:08:39.790Z",
+      "http_status": 403,
+      "final_url": "https://www.iea.org/reports/global-ev-outlook-2025/electric-vehicle-batteries",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Just a moment...",
+      "received_bytes": 5637,
+      "response_sha256": "14c60d7ad9fa6be5b11012dd35ba53d4def8074a3da64ff0ce76c7c7f8eb41d5",
+      "transport_error": null,
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    },
+    {
+      "url": "https://unece.org/transport/standards/transport/vehicle-regulations-wp29/global-technical-regulations-gtrs",
+      "used_by": [
+        "battery-warranty-southeast-asia"
+      ],
+      "checked_at": "2026-09-08T23:08:40.689Z",
+      "http_status": 403,
+      "final_url": "https://unece.org/transport/standards/transport/vehicle-regulations-wp29/global-technical-regulations-gtrs",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Just a moment...",
+      "received_bytes": 5757,
+      "response_sha256": "201a9057b1aea288575a57fe2f4dc13a6da841d056906f3115a1711ac23afa93",
+      "transport_error": null,
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.nrel.gov/transportation/battery-lifespan.html",
+      "used_by": [
+        "battery-warranty-southeast-asia"
+      ],
+      "checked_at": "2026-09-08T23:08:41.162Z",
+      "http_status": 0,
+      "final_url": "https://www.nrel.gov/transportation/battery-lifespan.html",
+      "content_type": "",
+      "title": "",
+      "received_bytes": 0,
+      "response_sha256": null,
+      "transport_error": "curl: (6) Could not resolve host: www.nrel.gov\n",
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars",
+      "used_by": [
+        "new-vs-used-ev-middle-east",
+        "seven-seat-suv-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:08:41.753Z",
+      "http_status": 403,
+      "final_url": "https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Just a moment...",
+      "received_bytes": 5585,
+      "response_sha256": "8e718598813885c0017dc3c0bcad902838a165701d92aac639178ef407cf0135",
+      "transport_error": null,
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.wto.org/english/tratop_e/tbt_e/tbtagr.htm",
+      "used_by": [
+        "new-vs-used-ev-middle-east",
+        "pickup-export-latin-america",
+        "seven-seat-suv-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:08:42.858Z",
+      "http_status": 206,
+      "final_url": "https://www.wto.org/english/tratop_e/tbt_e/tbtagr.htm",
+      "content_type": "text/html",
+      "title": "WTO | Agreement on Technical Barriers to Trade ",
+      "received_bytes": 87921,
+      "response_sha256": "269652fadc4b7045d9951dfc3a895f5104ad070f425c166d76bad335c4e96104",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://unece.org/transport/documents/2022/04/standards/un-gtr-no22-vehicle-battery-durability-electrified-vehicles",
+      "used_by": [
+        "new-vs-used-ev-middle-east"
+      ],
+      "checked_at": "2026-09-08T23:08:43.570Z",
+      "http_status": 403,
+      "final_url": "https://unece.org/transport/documents/2022/04/standards/un-gtr-no22-vehicle-battery-durability-electrified-vehicles",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Just a moment...",
+      "received_bytes": 5806,
+      "response_sha256": "cad42d1a616f05bfa78b1c6a2a583e872879fc502ae54ee57da48e49ea18ed8b",
+      "transport_error": null,
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.unep.org/resources/report/used-vehicles-and-environment-global-overview-used-light-duty-vehicles-flow-scale",
+      "used_by": [
+        "new-vs-used-ev-middle-east"
+      ],
+      "checked_at": "2026-09-08T23:08:44.306Z",
+      "http_status": 403,
+      "final_url": "https://www.unep.org/resources/report/used-vehicles-and-environment-global-overview-used-light-duty-vehicles-flow-scale",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Just a moment...",
+      "received_bytes": 5804,
+      "response_sha256": "87e85dc2b0978d50d26a867609a832ed78452f3aba73286565a8ba4a10217437",
+      "transport_error": null,
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.wto.org/english/tratop_e/tbt_e/conformity_assessment_proc_e.htm",
+      "used_by": [
+        "new-vs-used-ev-middle-east",
+        "pickup-export-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:08:45.142Z",
+      "http_status": 206,
+      "final_url": "https://www.wto.org/english/tratop_e/tbt_e/conformity_assessment_proc_e.htm",
+      "content_type": "text/html",
+      "title": "WTO | Conformity assessment procedures",
+      "received_bytes": 16679,
+      "response_sha256": "15ea694aef8bfd7d6fddad03b66acd09b258fabdce9b876c60fe6aa83d8add5f",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://afdc.energy.gov/vehicles/electric-basics-ev",
+      "used_by": [
+        "new-vs-used-ev-middle-east"
+      ],
+      "checked_at": "2026-09-08T23:08:48.158Z",
+      "http_status": 200,
+      "final_url": "https://afdc.energy.gov/vehicles/electric-basics-ev",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Alternative Fuels Data Center: All-Electric Vehicles",
+      "received_bytes": 23986,
+      "response_sha256": "a7019847c96ac9170f78502aa5c94cc04c1a45e4ac518eece87eace1333a33d1",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://unece.org/transport/vehicle-regulations/wp29-presentation",
+      "used_by": [
+        "pickup-export-latin-america",
+        "seven-seat-suv-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:08:48.816Z",
+      "http_status": 403,
+      "final_url": "https://unece.org/transport/vehicle-regulations/wp29-presentation",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Just a moment...",
+      "received_bytes": 5528,
+      "response_sha256": "1e235ff164dc8a852ce8e90631a335760045375cafaad7013caa454e5a4071c4",
+      "transport_error": null,
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    },
+    {
+      "url": "https://lpi.worldbank.org/en/about",
+      "used_by": [
+        "pickup-export-latin-america",
+        "roro-container-shipping-latin-america",
+        "price-verification-africa"
+      ],
+      "checked_at": "2026-09-08T23:08:49.824Z",
+      "http_status": 403,
+      "final_url": "https://lpi.worldbank.org/en/about",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Just a moment...",
+      "received_bytes": 5432,
+      "response_sha256": "7d127f7c38a59c8db90d3f4811f9e2debda14f7d185e95951b9c6a99409bbd77",
+      "transport_error": null,
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.mercosur.int/",
+      "used_by": [
+        "pickup-export-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:08:51.427Z",
+      "http_status": 403,
+      "final_url": "https://www.mercosur.int/",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Just a moment...",
+      "received_bytes": 5407,
+      "response_sha256": "9f01ae1af3242fb761babc1b9ee8f850cba44e8ef9bbe85014f2f43580bfabea",
+      "transport_error": null,
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.globalncap.org/news/fleetsafe-global-ncap-fleet-safety-guide-amp-safer-purchasing-policy-2025-2026",
+      "used_by": [
+        "pickup-export-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:08:54.105Z",
+      "http_status": 206,
+      "final_url": "https://www.globalncap.org/news/fleetsafe-global-ncap-fleet-safety-guide-amp-safer-purchasing-policy-2025-2026",
+      "content_type": "text/html;charset=utf-8",
+      "title": "FleetSafe: Global NCAP fleet safety guide &amp; safer purchasing policy 2025 - 2026 &mdash; Global NCAP",
+      "received_bytes": 193359,
+      "response_sha256": "78b99eb49560e707096958940c848b56126699285d0972a9c15e23c6f3304b72",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.unep.org/topics/transport/partnership-clean-fuels-and-vehicles/used-vehicles/used-vehicles-resources",
+      "used_by": [
+        "pickup-export-latin-america",
+        "seven-seat-suv-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:08:54.882Z",
+      "http_status": 403,
+      "final_url": "https://www.unep.org/topics/transport/partnership-clean-fuels-and-vehicles/used-vehicles/used-vehicles-resources",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Just a moment...",
+      "received_bytes": 5783,
+      "response_sha256": "dbed8c66e6605711e9b27495358db1ef1af09f9c9179322e93745db7ba7b9550",
+      "transport_error": null,
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.imo.org/en/ourwork/safety/pages/verification-of-the-gross-mass.aspx",
+      "used_by": [
+        "roro-container-shipping-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:08:56.458Z",
+      "http_status": 200,
+      "final_url": "https://www.imo.org/en/ourwork/safety/pages/verification-of-the-gross-mass.aspx",
+      "content_type": "text/html; charset=utf-8",
+      "title": " Verification of the gross mass of a packed container ",
+      "received_bytes": 66745,
+      "response_sha256": "1af655175cdbad6865916880f51e6d4b382a5c19bf0d2e79a84dc671cae95ce6",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://unece.org/transport/vehicle-regulations",
+      "used_by": [
+        "roro-container-shipping-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:08:57.304Z",
+      "http_status": 403,
+      "final_url": "https://unece.org/transport/vehicle-regulations",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Just a moment...",
+      "received_bytes": 5452,
+      "response_sha256": "6806f473229c7ebc5601698a0bb73194039d1274c469c5184a1d4c23dd6b13e5",
+      "transport_error": null,
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    },
+    {
+      "url": "https://unctad.org/topic/transport-and-trade-logistics/review-of-maritime-transport",
+      "used_by": [
+        "roro-container-shipping-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:09:01.547Z",
+      "http_status": 206,
+      "final_url": "https://unctad.org/topic/transport-and-trade-logistics/review-of-maritime-transport",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Review of Maritime Transport | UN Trade and Development (UNCTAD)",
+      "received_bytes": 95468,
+      "response_sha256": "275401458c4b7fcbca799b96eb0a05074f9586e0fec07b275be5a31188628a1e",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.iadb.org/en/topics/trade-and-investment",
+      "used_by": [
+        "roro-container-shipping-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:09:02.356Z",
+      "http_status": 403,
+      "final_url": "https://www.iadb.org/en/topics/trade-and-investment",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Attention Required! | Cloudflare",
+      "received_bytes": 5506,
+      "response_sha256": "ec3414f5e74b13491e50938c76dba8b139e420fcfaf6fd60571910578341f768",
+      "transport_error": null,
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.imo.org/en/OurWork/Safety/Pages/CargoSecuring-default.aspx",
+      "used_by": [
+        "roro-container-shipping-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:09:03.866Z",
+      "http_status": 200,
+      "final_url": "https://www.imo.org/en/ourwork/safety/pages/cargosecuring-default.aspx",
+      "content_type": "text/html; charset=utf-8",
+      "title": " Cargo Securing and Packing ",
+      "received_bytes": 59934,
+      "response_sha256": "69a877286d19dbf3ce9bb4bcb4852be5c454d9b0c4228e694387418744eae41d",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.wto.org/english/tratop_e/cusval_e/cusval_e.htm",
+      "used_by": [
+        "roro-container-shipping-latin-america",
+        "price-verification-africa"
+      ],
+      "checked_at": "2026-09-08T23:09:04.641Z",
+      "http_status": 206,
+      "final_url": "https://www.wto.org/english/tratop_e/cusval_e/cusval_e.htm",
+      "content_type": "text/html",
+      "title": "WTO | Customs valuation gateway",
+      "received_bytes": 14273,
+      "response_sha256": "37519793383f103ab23c9b07c796a73eeed5365795f76e8be23bb3bd28c2f1e8",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.latinncap.com/es/area-de-prensa/noticia/8692053535197d/latin-ncap-anuncia-actualizacion-de-su-protocolo-de-evaluacion",
+      "used_by": [
+        "seven-seat-suv-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:09:07.514Z",
+      "http_status": 200,
+      "final_url": "https://www.latinncap.com/es/area-de-prensa/noticia/8692053535197d/latin-ncap-anuncia-actualizacion-de-su-protocolo-de-evaluacion",
+      "content_type": "text/html",
+      "title": "LATIN NCAP ",
+      "received_bytes": 44789,
+      "response_sha256": "fa0eca10fc3e376956a8ad852c39aeaad2cdab0b34a239c6c95636f6e47671b4",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.argentina.gob.ar/obtener-licencia-de-configuracion-de-modelo",
+      "used_by": [
+        "seven-seat-suv-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:09:10.475Z",
+      "http_status": 200,
+      "final_url": "https://www.argentina.gob.ar/obtener-licencia-de-configuracion-de-modelo",
+      "content_type": "text/html; charset=utf-8",
+      "title": "Obtener una licencia de vehículo para circular en la vía pública | Argentina.gob.ar",
+      "received_bytes": 74889,
+      "response_sha256": "7446f30028dcbdca4242ceee5421c2df4011eab0ce0e9615d0f6630644a8b39b",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://dados.transportes.gov.br/en_GB/dataset/certificado-de-adequacao-a-legislacao-de-transito-cat",
+      "used_by": [
+        "seven-seat-suv-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:09:16.055Z",
+      "http_status": 0,
+      "final_url": "https://dados.transportes.gov.br/en_GB/dataset/certificado-de-adequacao-a-legislacao-de-transito-cat",
+      "content_type": "",
+      "title": "",
+      "received_bytes": 0,
+      "response_sha256": null,
+      "transport_error": "curl: (56) Recv failure: Connection reset by peer\n",
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    }
+  ],
+  "finished_at": "2026-09-08T23:09:16.056Z"
+}

@@ -1,0 +1,949 @@
+{
+  "created_at": "2026-09-08T23:09:40.997Z",
+  "candidate_fingerprints": [
+    {
+      "slug": "fob-cif-quote-check-africa",
+      "sha256": "2fdc2d30e7913da2a49995e4b01f4011e3d835a1936b5e5de6515e786859298b"
+    },
+    {
+      "slug": "fob-cif-quote-check-latin-america",
+      "sha256": "f16312056bf090fddfd10ece5f3003ec00eabd5ff22853ea14a90b54e37cb3d0"
+    },
+    {
+      "slug": "fob-cif-quote-check-middle-east",
+      "sha256": "f9fbaa2f90edfbbc083a8b12b481336129db467144a6edbfcb16043e33cd397b"
+    },
+    {
+      "slug": "fob-cif-quote-check-southeast-asia",
+      "sha256": "9344fd26973c804397a139cd05254d4df7bdb96016ae7c47c231725bb350c143"
+    },
+    {
+      "slug": "best-chinese-suvs-southeast-asia",
+      "sha256": "8a041aef52262084bcc4b991118d5bf0f7b5f915835a4e353493800b6e725ea7"
+    },
+    {
+      "slug": "battery-warranty-southeast-asia",
+      "sha256": "0fd291de29b00b18de9e272ac7ff9cc519170b33fb16f858cedd7214eeb2f41a"
+    },
+    {
+      "slug": "new-vs-used-ev-middle-east",
+      "sha256": "914747d13f01cf68b66e82bdf4f1a97ded9ca95193bf980eb07c8382aef66c3f"
+    },
+    {
+      "slug": "pickup-export-latin-america",
+      "sha256": "21f08d1604563d6cf267fef31b41a9e5489bd01202b8ec76a8dd121bf72864ec"
+    },
+    {
+      "slug": "roro-container-shipping-latin-america",
+      "sha256": "b1cce33d9ffc2a51ec69e931f6cbb244056391f90d6b543ae02a2d697a581e43"
+    },
+    {
+      "slug": "seven-seat-suv-latin-america",
+      "sha256": "75a7e2d8370f5b3f554bb8ac4b50e139b0e66c60812b2257856d450d34c44412"
+    },
+    {
+      "slug": "price-verification-africa",
+      "sha256": "65545924a0524c7b9d47b532993e8abb292e86cc1100f5c27f6cf9df81139e21"
+    }
+  ],
+  "review_pass": false,
+  "publish_approved": false,
+  "human_reviewed": false,
+  "files": [
+    {
+      "path": "articles/fob-cif-quote-check-africa/candidate.json",
+      "sha256": "2fdc2d30e7913da2a49995e4b01f4011e3d835a1936b5e5de6515e786859298b",
+      "bytes": 140122
+    },
+    {
+      "path": "articles/fob-cif-quote-check-africa/locales/en.json",
+      "sha256": "c772de8ddfb3ce483934c68658d46cbfda76b4f64e1dc365d4dbca3a330a9cd8",
+      "bytes": 12382
+    },
+    {
+      "path": "articles/fob-cif-quote-check-africa/locales/fr.json",
+      "sha256": "79188b5e98fc60e46615e11273490038ac63c34720238815007f84e01cab22e7",
+      "bytes": 10410
+    },
+    {
+      "path": "articles/fob-cif-quote-check-africa/locales/de.json",
+      "sha256": "6a2908f9f079611828d8e0e83c395256716b33527c262a164deb022cd5e672de",
+      "bytes": 10108
+    },
+    {
+      "path": "articles/fob-cif-quote-check-africa/locales/es.json",
+      "sha256": "dc3f76eec72dc83d1309c95d9416dcca65132866e61a7e77f8b41edfdc9d8961",
+      "bytes": 9848
+    },
+    {
+      "path": "articles/fob-cif-quote-check-africa/locales/pt-br.json",
+      "sha256": "577e2de3697b7a28167eb93513d6902d752ced1ef92dfa91c1e7c73c36e11f2d",
+      "bytes": 9730
+    },
+    {
+      "path": "articles/fob-cif-quote-check-africa/locales/ja.json",
+      "sha256": "7f8c95da40cdb0fa6b4776d6dfb7a369fc3e5112d9e148fbc3fd558e2072b93e",
+      "bytes": 9445
+    },
+    {
+      "path": "articles/fob-cif-quote-check-africa/locales/ko.json",
+      "sha256": "83fc9ebb8f9967cbe38a18d488eb764ab07ac22295d7d4e249e51db89adb79f1",
+      "bytes": 9593
+    },
+    {
+      "path": "articles/fob-cif-quote-check-africa/locales/vi.json",
+      "sha256": "cfded69a72b8a8ff255cbd65307accc83ea4e80b0f948d67843bc8bcf46c6483",
+      "bytes": 10432
+    },
+    {
+      "path": "articles/fob-cif-quote-check-africa/locales/th.json",
+      "sha256": "e055e3a7742d7fdb52a6d82dfe082a0c033a4f42231182eef431418ed717e23c",
+      "bytes": 14802
+    },
+    {
+      "path": "articles/fob-cif-quote-check-africa/locales/id.json",
+      "sha256": "a6f5c7766e073787c9be696053db4da2b3d0b76627d415eac3335ed0834da979",
+      "bytes": 9582
+    },
+    {
+      "path": "articles/fob-cif-quote-check-africa/locales/ar.json",
+      "sha256": "eaf649ace0d137d582158fd8724982003b8f1168229838481bdd19525a31de18",
+      "bytes": 11773
+    },
+    {
+      "path": "articles/fob-cif-quote-check-africa/locales/zh.json",
+      "sha256": "37a829b8753fa05b0bfb4663bffc6ea54dafedec6fcb71b31df3383a08f9d506",
+      "bytes": 11159
+    },
+    {
+      "path": "articles/fob-cif-quote-check-africa/fact-and-source-boundaries.json",
+      "sha256": "b4cf81711c17e948448b5b4f1ed1278121bce108ef216b878a0e19d70ec48c25",
+      "bytes": 9657
+    },
+    {
+      "path": "articles/fob-cif-quote-check-africa/current-automated-qa.json",
+      "sha256": "5ab086f3754afd9de88ac76c307bc8d958ecce96a2412417e02c75d59544f842",
+      "bytes": 34944
+    },
+    {
+      "path": "articles/fob-cif-quote-check-africa/image-evidence.json",
+      "sha256": "5bebdfc60b845fc451f23c8691cbb7fdafdf45fd150fe207b9ee3c8a1f41cc45",
+      "bytes": 25627
+    },
+    {
+      "path": "articles/fob-cif-quote-check-latin-america/candidate.json",
+      "sha256": "f16312056bf090fddfd10ece5f3003ec00eabd5ff22853ea14a90b54e37cb3d0",
+      "bytes": 128004
+    },
+    {
+      "path": "articles/fob-cif-quote-check-latin-america/locales/en.json",
+      "sha256": "595b3f8a761601d9386d847d0261982726cdf5900885564650b732714e77862a",
+      "bytes": 12234
+    },
+    {
+      "path": "articles/fob-cif-quote-check-latin-america/locales/fr.json",
+      "sha256": "ef192753fcaaa6fafecdedafc2bb6508d33c0a98278fbbbc821abddd23792c94",
+      "bytes": 9143
+    },
+    {
+      "path": "articles/fob-cif-quote-check-latin-america/locales/de.json",
+      "sha256": "1cff2d61da1752b815f2e0365156a3f7b1599a6991c8a8564b6e122cd9f00494",
+      "bytes": 8598
+    },
+    {
+      "path": "articles/fob-cif-quote-check-latin-america/locales/es.json",
+      "sha256": "6eb23e17a104d5c9aa7688fed48c75408657b4f4a6160b8a9c4cba6f6e90a008",
+      "bytes": 8743
+    },
+    {
+      "path": "articles/fob-cif-quote-check-latin-america/locales/pt-br.json",
+      "sha256": "d8d513fb37bcf5afc2daf3f407f3d1d149d6a75428ade127ddfe87ba0af494a2",
+      "bytes": 8565
+    },
+    {
+      "path": "articles/fob-cif-quote-check-latin-america/locales/ja.json",
+      "sha256": "e1c9c07e598bf10787a2c74b1a44f0e23f6b333af14fe72d39d2f650cd6d61f2",
+      "bytes": 8686
+    },
+    {
+      "path": "articles/fob-cif-quote-check-latin-america/locales/ko.json",
+      "sha256": "a3525d06000507733affd65f0a4b42a7f3380862b2e5b38dd310de4a12801f73",
+      "bytes": 9092
+    },
+    {
+      "path": "articles/fob-cif-quote-check-latin-america/locales/vi.json",
+      "sha256": "a394a8adf77bb96e252ef9ad43b320030b12e1a318db2ab93c8033d6e7970bd6",
+      "bytes": 9282
+    },
+    {
+      "path": "articles/fob-cif-quote-check-latin-america/locales/th.json",
+      "sha256": "e19dfd08f0d4e38fb40cac22e439ab09f6ad9e78a04f95f649dad3558ed704e7",
+      "bytes": 12873
+    },
+    {
+      "path": "articles/fob-cif-quote-check-latin-america/locales/id.json",
+      "sha256": "7664b946e1f441097b502f6c4b8ca34a0030afe9e8fb192b5b7ce0246810b134",
+      "bytes": 8431
+    },
+    {
+      "path": "articles/fob-cif-quote-check-latin-america/locales/ar.json",
+      "sha256": "aea1f50da95931e669c8f9c6dc30eec0c3aa8bd0a4e8d259426f6764eebb8e97",
+      "bytes": 10311
+    },
+    {
+      "path": "articles/fob-cif-quote-check-latin-america/locales/zh.json",
+      "sha256": "b7df9fcef8c51b6a47ac2f832b421b5d56e823d483fc37ed12c8d3901ba68092",
+      "bytes": 11117
+    },
+    {
+      "path": "articles/fob-cif-quote-check-latin-america/fact-and-source-boundaries.json",
+      "sha256": "99679f36970cade22f01e739ab24f45c1af1ddb1e5dbe94291ca1a844a9dbc8f",
+      "bytes": 9495
+    },
+    {
+      "path": "articles/fob-cif-quote-check-latin-america/current-automated-qa.json",
+      "sha256": "ec8661679d5634e15179f3a2259fb1862aef6355cb22106dd5d10d90518ad4b4",
+      "bytes": 34297
+    },
+    {
+      "path": "articles/fob-cif-quote-check-latin-america/image-evidence.json",
+      "sha256": "05099e6a2c592d01380ff6175036dd065124588f694a32195796584a9c3c3e04",
+      "bytes": 24860
+    },
+    {
+      "path": "articles/fob-cif-quote-check-middle-east/candidate.json",
+      "sha256": "f9fbaa2f90edfbbc083a8b12b481336129db467144a6edbfcb16043e33cd397b",
+      "bytes": 128883
+    },
+    {
+      "path": "articles/fob-cif-quote-check-middle-east/locales/en.json",
+      "sha256": "f8b293698fdcd5c6819690d61eb9ae0b397b828729be5d514f51a1ee0ddb6561",
+      "bytes": 12113
+    },
+    {
+      "path": "articles/fob-cif-quote-check-middle-east/locales/fr.json",
+      "sha256": "bf44c73f557db9de063a72fe62d82bd6f98c9720a7fcf124408b1f9a4dc56275",
+      "bytes": 9267
+    },
+    {
+      "path": "articles/fob-cif-quote-check-middle-east/locales/de.json",
+      "sha256": "096a57abe7b30d079ec1c3bb3cc8938cc825b7a864d5c112a20097fd519b0087",
+      "bytes": 8883
+    },
+    {
+      "path": "articles/fob-cif-quote-check-middle-east/locales/es.json",
+      "sha256": "fe1aff5f8bea2a18877464cd8d442417b87b2d475f1fb32d47746ac7541dd79b",
+      "bytes": 8633
+    },
+    {
+      "path": "articles/fob-cif-quote-check-middle-east/locales/pt-br.json",
+      "sha256": "4ad8981023c84909a8096ecced79f433ef5c5b1cd21506870b440be59be53450",
+      "bytes": 8574
+    },
+    {
+      "path": "articles/fob-cif-quote-check-middle-east/locales/ja.json",
+      "sha256": "580a05a62376ec4064f357e81ab40fdc964102ae26f58c50448ed3b72b4f05a1",
+      "bytes": 8774
+    },
+    {
+      "path": "articles/fob-cif-quote-check-middle-east/locales/ko.json",
+      "sha256": "659561d5090b7ac752e0a910f6dfcd9ffa4745f11ad2a5a94a85200adb71a6d4",
+      "bytes": 8726
+    },
+    {
+      "path": "articles/fob-cif-quote-check-middle-east/locales/vi.json",
+      "sha256": "561324b7deb78a481c741692d75b13e458e7e02785810d9e3de58555ae067d3d",
+      "bytes": 9346
+    },
+    {
+      "path": "articles/fob-cif-quote-check-middle-east/locales/th.json",
+      "sha256": "b5433cb7c446586cefccdeb65eabe03c34d3fcca704e0713f9027dd93017bc1b",
+      "bytes": 12657
+    },
+    {
+      "path": "articles/fob-cif-quote-check-middle-east/locales/id.json",
+      "sha256": "b3d5ed5af00b0ed666866d1f413e1e48d2e31d27f474d4f06dc51b177da49f33",
+      "bytes": 8643
+    },
+    {
+      "path": "articles/fob-cif-quote-check-middle-east/locales/ar.json",
+      "sha256": "e78eb9c5d1f4301101f3b53e8a9473cb826244fba11de529577548f24ffec975",
+      "bytes": 10684
+    },
+    {
+      "path": "articles/fob-cif-quote-check-middle-east/locales/zh.json",
+      "sha256": "8e343e59f9eb6e6495e36f88f6629acb5932a3e0eb903ac744205ecdd9aaae54",
+      "bytes": 11070
+    },
+    {
+      "path": "articles/fob-cif-quote-check-middle-east/fact-and-source-boundaries.json",
+      "sha256": "7f3f33e6dd8a1e40483607ce0af48ace128ae632bd632f80a6da5908c6e3ba58",
+      "bytes": 10101
+    },
+    {
+      "path": "articles/fob-cif-quote-check-middle-east/current-automated-qa.json",
+      "sha256": "1138c14aa7a57a0e5916d0de4363322e6052261d6bb576de235cb2746c0711a6",
+      "bytes": 34314
+    },
+    {
+      "path": "articles/fob-cif-quote-check-middle-east/image-evidence.json",
+      "sha256": "eb7515920e9d9c521374045b2c530164ca0f14cbb1bf73f037c9371789b75be6",
+      "bytes": 24031
+    },
+    {
+      "path": "articles/fob-cif-quote-check-southeast-asia/candidate.json",
+      "sha256": "9344fd26973c804397a139cd05254d4df7bdb96016ae7c47c231725bb350c143",
+      "bytes": 136961
+    },
+    {
+      "path": "articles/fob-cif-quote-check-southeast-asia/locales/en.json",
+      "sha256": "6ccf4501571e244397ac63426bc5286bec8e16633e31a139cff98ee32bef09ae",
+      "bytes": 12443
+    },
+    {
+      "path": "articles/fob-cif-quote-check-southeast-asia/locales/fr.json",
+      "sha256": "4055ef94e2779504d2fee6ea3b72dae61334fa9f2fe8488fd80f642e02bcfba0",
+      "bytes": 9649
+    },
+    {
+      "path": "articles/fob-cif-quote-check-southeast-asia/locales/de.json",
+      "sha256": "4b82ebf2f08be6a0476abf02915ee7ef057e11b849b4b4ed3c5d0c47fc1489e9",
+      "bytes": 9432
+    },
+    {
+      "path": "articles/fob-cif-quote-check-southeast-asia/locales/es.json",
+      "sha256": "09bff97b417d9e2bde28bdcd8b9c15cb1ae1b543622fc5de7888956ce9870cbc",
+      "bytes": 9245
+    },
+    {
+      "path": "articles/fob-cif-quote-check-southeast-asia/locales/pt-br.json",
+      "sha256": "d69d34c5909e1c6c8ac0f6f7d160dca35731eee694e60c93ab42a91e40d4cc18",
+      "bytes": 9168
+    },
+    {
+      "path": "articles/fob-cif-quote-check-southeast-asia/locales/ja.json",
+      "sha256": "5e2404fd3a6ce129eac70bc620d9991a6c732d9b82510b26c4d8ecb7fc71c45e",
+      "bytes": 9355
+    },
+    {
+      "path": "articles/fob-cif-quote-check-southeast-asia/locales/ko.json",
+      "sha256": "1318ab1c2bbcd6e698caf4ae622a9d620ef7e2716bd08563cc3cefd662815095",
+      "bytes": 9486
+    },
+    {
+      "path": "articles/fob-cif-quote-check-southeast-asia/locales/vi.json",
+      "sha256": "efd94929d85896baa2aca80c3d86195ef1429e803887f0e7aba7c89d8ef90491",
+      "bytes": 9876
+    },
+    {
+      "path": "articles/fob-cif-quote-check-southeast-asia/locales/th.json",
+      "sha256": "11dfac9a86d713025d3c2d5417e2af5d2d9fca63dbb105a17b6cd7eba18e3baa",
+      "bytes": 13878
+    },
+    {
+      "path": "articles/fob-cif-quote-check-southeast-asia/locales/id.json",
+      "sha256": "a906089972575051339859369851e2408fa4bbf1e7b822a1c3f40feea88b29e3",
+      "bytes": 9238
+    },
+    {
+      "path": "articles/fob-cif-quote-check-southeast-asia/locales/ar.json",
+      "sha256": "5f46b2766e4291f84250b4d4b659c95ecb4be21e42284eca41da804f9b2333ef",
+      "bytes": 11382
+    },
+    {
+      "path": "articles/fob-cif-quote-check-southeast-asia/locales/zh.json",
+      "sha256": "062b87471b16970cfdf7570538c538276bdd2fd72f3e1216a8df5f8dd7c1c2bf",
+      "bytes": 11656
+    },
+    {
+      "path": "articles/fob-cif-quote-check-southeast-asia/fact-and-source-boundaries.json",
+      "sha256": "350207bace8b7aeb870b7570c346ab49b5d3cb48676d556c1b3ebb763049b7e2",
+      "bytes": 10561
+    },
+    {
+      "path": "articles/fob-cif-quote-check-southeast-asia/current-automated-qa.json",
+      "sha256": "00861f652e1dc35e5c6853ef2147bce213093ccab6659e29699b572522dcd4de",
+      "bytes": 34738
+    },
+    {
+      "path": "articles/fob-cif-quote-check-southeast-asia/image-evidence.json",
+      "sha256": "97c68691c936258cdcc3fc483eada5333dab8805bd6d46adb0e35c3a78080671",
+      "bytes": 29373
+    },
+    {
+      "path": "articles/best-chinese-suvs-southeast-asia/candidate.json",
+      "sha256": "8a041aef52262084bcc4b991118d5bf0f7b5f915835a4e353493800b6e725ea7",
+      "bytes": 131002
+    },
+    {
+      "path": "articles/best-chinese-suvs-southeast-asia/locales/en.json",
+      "sha256": "21e7b38871483dc1ddd9c8b12063db896494b52bd2264927a72d3d3887da8765",
+      "bytes": 13371
+    },
+    {
+      "path": "articles/best-chinese-suvs-southeast-asia/locales/fr.json",
+      "sha256": "d67b1e924939821c2ccac05a40470e24dac15c1ae0a8d4d5aef6ae9454d72e9a",
+      "bytes": 9406
+    },
+    {
+      "path": "articles/best-chinese-suvs-southeast-asia/locales/de.json",
+      "sha256": "d70b9a516e0c8a083185cbfa6d83e27981b55c70376b6edfac239fe4510497bb",
+      "bytes": 8929
+    },
+    {
+      "path": "articles/best-chinese-suvs-southeast-asia/locales/es.json",
+      "sha256": "52f0a4de5d831c626f9e1e00d1f1b45723746eb85c23ecff31f8632cf9285109",
+      "bytes": 8891
+    },
+    {
+      "path": "articles/best-chinese-suvs-southeast-asia/locales/pt-br.json",
+      "sha256": "758bd994364d1f820869bd33cd4e6e6114d0c0a89887987bbba3fde65758357d",
+      "bytes": 8710
+    },
+    {
+      "path": "articles/best-chinese-suvs-southeast-asia/locales/ja.json",
+      "sha256": "3997b96716a8c82f184d4420f332f0dfae00296bf5d6a040cc5328dba278c722",
+      "bytes": 8863
+    },
+    {
+      "path": "articles/best-chinese-suvs-southeast-asia/locales/ko.json",
+      "sha256": "94b9b7bfa0af7c52389c314c9e34c42f7b1805a157f3465add7ca1816407bd50",
+      "bytes": 8889
+    },
+    {
+      "path": "articles/best-chinese-suvs-southeast-asia/locales/vi.json",
+      "sha256": "9083f24124353b1e094c1ab3c56c6e9ddf0ee2d2d00bdc3f36ac2ada09b1d517",
+      "bytes": 9516
+    },
+    {
+      "path": "articles/best-chinese-suvs-southeast-asia/locales/th.json",
+      "sha256": "af71ff4e58dd9c3881e8a8e9fe6ed077dc6502104e2321f182709436dea992fe",
+      "bytes": 13818
+    },
+    {
+      "path": "articles/best-chinese-suvs-southeast-asia/locales/id.json",
+      "sha256": "90fe5aa0b167d0910802a5d841fcccd281851f3f2eebaeb2489b3c6d4cc2232c",
+      "bytes": 8666
+    },
+    {
+      "path": "articles/best-chinese-suvs-southeast-asia/locales/ar.json",
+      "sha256": "97e1c4bf2ed89a37ea939ea927bd2b5a6ffe837fd354d43d6b31ff241bde79cd",
+      "bytes": 10652
+    },
+    {
+      "path": "articles/best-chinese-suvs-southeast-asia/locales/zh.json",
+      "sha256": "9b1b5a8516e5c3ad8b9d59189086a50ae46a7b2ac3276eb070c06b8ad32df33c",
+      "bytes": 10825
+    },
+    {
+      "path": "articles/best-chinese-suvs-southeast-asia/fact-and-source-boundaries.json",
+      "sha256": "55384acb241855d28f3d3fffe9cc193e9611322c4e628e771113faca274806ec",
+      "bytes": 8736
+    },
+    {
+      "path": "articles/best-chinese-suvs-southeast-asia/current-automated-qa.json",
+      "sha256": "6fa8b4ebb277e2dc601984becdef049eff472c112eb5132b1a23e737d45b4bef",
+      "bytes": 35278
+    },
+    {
+      "path": "articles/best-chinese-suvs-southeast-asia/image-evidence.json",
+      "sha256": "7098d1c47d230c21a1fa24ec650adaf7f313cb3ed9df50d9167c1b06fe5884ab",
+      "bytes": 23608
+    },
+    {
+      "path": "articles/battery-warranty-southeast-asia/candidate.json",
+      "sha256": "0fd291de29b00b18de9e272ac7ff9cc519170b33fb16f858cedd7214eeb2f41a",
+      "bytes": 128168
+    },
+    {
+      "path": "articles/battery-warranty-southeast-asia/locales/en.json",
+      "sha256": "3516012e11fd7c81a7aeebdad484d47be32f081d47379450b6a109825149e01a",
+      "bytes": 13172
+    },
+    {
+      "path": "articles/battery-warranty-southeast-asia/locales/fr.json",
+      "sha256": "8fba26f0c9bda49c0a225dacee4deaba739a5d0ff987882e6b812f6022bc2b1a",
+      "bytes": 9020
+    },
+    {
+      "path": "articles/battery-warranty-southeast-asia/locales/de.json",
+      "sha256": "5cc3f5216e85174f7eaf48ccfd65fb1247b29fb2efd2789f54208ac900ba0f82",
+      "bytes": 8455
+    },
+    {
+      "path": "articles/battery-warranty-southeast-asia/locales/es.json",
+      "sha256": "c8b62f8e06471aec1829e6e2f2af647fba1fedcde783a51315fd9f0547ca3b1c",
+      "bytes": 8559
+    },
+    {
+      "path": "articles/battery-warranty-southeast-asia/locales/pt-br.json",
+      "sha256": "c56e4e1c400c862248b1bdd0cd17353b2b287eb38d3a36748870cd77877ab330",
+      "bytes": 8462
+    },
+    {
+      "path": "articles/battery-warranty-southeast-asia/locales/ja.json",
+      "sha256": "cb3631a13568002c4edd479a2c37bd46903dae4dc8be70f88b52200c44a00bef",
+      "bytes": 8736
+    },
+    {
+      "path": "articles/battery-warranty-southeast-asia/locales/ko.json",
+      "sha256": "a221d58d0466b4d175264f82e96cdbf1af0e99fdcd1c79c094ed3fdd13f398e9",
+      "bytes": 8480
+    },
+    {
+      "path": "articles/battery-warranty-southeast-asia/locales/vi.json",
+      "sha256": "1db889b865a08bb00d0a97d1e8484dfb0040dc0265fddbf37529ed6cbd365484",
+      "bytes": 8928
+    },
+    {
+      "path": "articles/battery-warranty-southeast-asia/locales/th.json",
+      "sha256": "4c4784a54f207f76e98031767a63a40950d3064643c5f60589834e5ba2bdabea",
+      "bytes": 13114
+    },
+    {
+      "path": "articles/battery-warranty-southeast-asia/locales/id.json",
+      "sha256": "f4561c88c19a10925a2ba7ea500fb0de6dcc682004de6fba12590086b2a160dc",
+      "bytes": 8185
+    },
+    {
+      "path": "articles/battery-warranty-southeast-asia/locales/ar.json",
+      "sha256": "b70a96f52ae6204ac24ffde083125d3ffccc4031adbc768abedb56c102d8cda8",
+      "bytes": 9861
+    },
+    {
+      "path": "articles/battery-warranty-southeast-asia/locales/zh.json",
+      "sha256": "278e6c1d1fdba8726a80c1a22bb9c4351dd358a613c04873f13cbd2f9b2c31ea",
+      "bytes": 11571
+    },
+    {
+      "path": "articles/battery-warranty-southeast-asia/fact-and-source-boundaries.json",
+      "sha256": "c1b7b7fed3074a56583a431a82fdc4d3425902a4c1a7940c4f786bf2df88fe49",
+      "bytes": 9220
+    },
+    {
+      "path": "articles/battery-warranty-southeast-asia/current-automated-qa.json",
+      "sha256": "a9d95d859ddbca3bf6a9f54f2bce175bc3a08409549e8216c47cda27c1df449c",
+      "bytes": 37077
+    },
+    {
+      "path": "articles/battery-warranty-southeast-asia/image-evidence.json",
+      "sha256": "f3e3b0ced5d3ba3a6cc81891ecdc856d36041d20cfd55d13697e6b984e14130e",
+      "bytes": 24909
+    },
+    {
+      "path": "articles/new-vs-used-ev-middle-east/candidate.json",
+      "sha256": "914747d13f01cf68b66e82bdf4f1a97ded9ca95193bf980eb07c8382aef66c3f",
+      "bytes": 157191
+    },
+    {
+      "path": "articles/new-vs-used-ev-middle-east/locales/en.json",
+      "sha256": "5deb6c3e4fd5000ec5a55373533ea507b317e635f7795693baee061fe79e7af7",
+      "bytes": 12636
+    },
+    {
+      "path": "articles/new-vs-used-ev-middle-east/locales/fr.json",
+      "sha256": "e3e6c5e25640e4201d11837635af0c8943b82b7b12dd602320cefb473e022913",
+      "bytes": 11563
+    },
+    {
+      "path": "articles/new-vs-used-ev-middle-east/locales/de.json",
+      "sha256": "69d316bc4f8f415c736e6a2296db8fc202c3de0b91ffc56a2e55adb7350ebbc8",
+      "bytes": 11064
+    },
+    {
+      "path": "articles/new-vs-used-ev-middle-east/locales/es.json",
+      "sha256": "3211ff237480b773c447c368334d4b5437f9788053427c90585d84cdcf6fbbcc",
+      "bytes": 11095
+    },
+    {
+      "path": "articles/new-vs-used-ev-middle-east/locales/pt-br.json",
+      "sha256": "b6b0e2fd289a3e64d0eb2ef6524c2938f6129102ab0961afdf9a02d5e75ec864",
+      "bytes": 11067
+    },
+    {
+      "path": "articles/new-vs-used-ev-middle-east/locales/ja.json",
+      "sha256": "f2f2179404059a6fd9123a6266a99701e424b0bf51714510c362e1c5335f7cd1",
+      "bytes": 11187
+    },
+    {
+      "path": "articles/new-vs-used-ev-middle-east/locales/ko.json",
+      "sha256": "a1dddc0cb10531bc89d244e107eed6bb8326542f1a8dd4f3229bcbeaac699c4d",
+      "bytes": 10975
+    },
+    {
+      "path": "articles/new-vs-used-ev-middle-east/locales/vi.json",
+      "sha256": "b1adb78a9f4e1a6098210822ec13a56ea46c0b2676022038f7da83bcae4af89a",
+      "bytes": 11742
+    },
+    {
+      "path": "articles/new-vs-used-ev-middle-east/locales/th.json",
+      "sha256": "76b43fb15803582ca29fdb333e29972170eb977503a8d64fc1cbef04cea559a7",
+      "bytes": 19465
+    },
+    {
+      "path": "articles/new-vs-used-ev-middle-east/locales/id.json",
+      "sha256": "d51ac53f161571500ec1d2e768451d1166d29bba8ae3a540cd9024b563806c4a",
+      "bytes": 10783
+    },
+    {
+      "path": "articles/new-vs-used-ev-middle-east/locales/ar.json",
+      "sha256": "af4ed389ca99f7b08f1a95fee067827303d8d40809ec338d98827a1d74b4d941",
+      "bytes": 12284
+    },
+    {
+      "path": "articles/new-vs-used-ev-middle-east/locales/zh.json",
+      "sha256": "f78c6c0ea75d2676dbd7aba3d5243e2e59a1229a27f381e44e1d586fd3b8c75d",
+      "bytes": 12196
+    },
+    {
+      "path": "articles/new-vs-used-ev-middle-east/fact-and-source-boundaries.json",
+      "sha256": "6466aa23e72202cc4ed8bc00cc465b1754f8db259a67a76e03526a8d36ece569",
+      "bytes": 9203
+    },
+    {
+      "path": "articles/new-vs-used-ev-middle-east/current-automated-qa.json",
+      "sha256": "8931223f542abb946fd8108d0611bacbd230a5f395f54bfc9ea22578ff293f6f",
+      "bytes": 35025
+    },
+    {
+      "path": "articles/new-vs-used-ev-middle-east/image-evidence.json",
+      "sha256": "fe379686bd15a2fdc7d43b5b491796e83a16193ecfcf3bee1a97feb510048f0d",
+      "bytes": 25676
+    },
+    {
+      "path": "articles/pickup-export-latin-america/candidate.json",
+      "sha256": "21f08d1604563d6cf267fef31b41a9e5489bd01202b8ec76a8dd121bf72864ec",
+      "bytes": 195747
+    },
+    {
+      "path": "articles/pickup-export-latin-america/locales/en.json",
+      "sha256": "1f75a567c42e29a8c42eb48882798ff1ca4544eb209ee94b97ccf1af03be7dc1",
+      "bytes": 13822
+    },
+    {
+      "path": "articles/pickup-export-latin-america/locales/fr.json",
+      "sha256": "c3a3bf1a4e5bcf51e76fc573407859a5b7ef9ec6f732e8416e7398bc3c5d8fbf",
+      "bytes": 17706
+    },
+    {
+      "path": "articles/pickup-export-latin-america/locales/de.json",
+      "sha256": "8c06d04dad8fa6b4cab67b34dffc32091e7eb35084b10d6638070e9165c1b626",
+      "bytes": 16262
+    },
+    {
+      "path": "articles/pickup-export-latin-america/locales/es.json",
+      "sha256": "a6cc0efb85d5cc1cedd162a8014a66fb5886b6853349ade7ff7781387adeae78",
+      "bytes": 16467
+    },
+    {
+      "path": "articles/pickup-export-latin-america/locales/pt-br.json",
+      "sha256": "c209737f186dbc8fa889aed92f39cd83366be80ba9f733e1b41db13c202bcaa8",
+      "bytes": 16551
+    },
+    {
+      "path": "articles/pickup-export-latin-america/locales/ja.json",
+      "sha256": "2dc3edde113c5682349c82831b2cb9f7a5f29f5b4a6b0d8b35217bfaea73ca89",
+      "bytes": 10605
+    },
+    {
+      "path": "articles/pickup-export-latin-america/locales/ko.json",
+      "sha256": "23e2cd5776e811b48ccbf55630da5a08098ec67f9373504ae45fa50628e8a819",
+      "bytes": 10287
+    },
+    {
+      "path": "articles/pickup-export-latin-america/locales/vi.json",
+      "sha256": "3b6413a05120433377a5dc2acec41f0e928c6c9108f53d6fbb5c89d69d54988b",
+      "bytes": 15925
+    },
+    {
+      "path": "articles/pickup-export-latin-america/locales/th.json",
+      "sha256": "8648ca1ff0b6e0ce981d7e8ff65870f60f32e9b3f7f12520b3324340ee7bf483",
+      "bytes": 25350
+    },
+    {
+      "path": "articles/pickup-export-latin-america/locales/id.json",
+      "sha256": "ece671a1b0186157794d65d493719f3db4fdf6917c8854bd2b1e3abf5ae48973",
+      "bytes": 15785
+    },
+    {
+      "path": "articles/pickup-export-latin-america/locales/ar.json",
+      "sha256": "b9ae05554f4b805baaf932169201ad1327736d74b407d7f85d24b43ceabbf523",
+      "bytes": 14017
+    },
+    {
+      "path": "articles/pickup-export-latin-america/locales/zh.json",
+      "sha256": "d40fa5d408dc07a3bee63ca8f92f23ce19d8b388343accd54f8dd9227a05eb09",
+      "bytes": 12295
+    },
+    {
+      "path": "articles/pickup-export-latin-america/fact-and-source-boundaries.json",
+      "sha256": "f7b838805f07afdf5e23e7dce6d2150050d54a4ff91920f64571181f284ff5fb",
+      "bytes": 9879
+    },
+    {
+      "path": "articles/pickup-export-latin-america/current-automated-qa.json",
+      "sha256": "06c7f0a0bea1defdccb594288bf2e5a175dc6ef3da54dec8aaa0a1d2e50f6b2b",
+      "bytes": 37337
+    },
+    {
+      "path": "articles/pickup-export-latin-america/image-evidence.json",
+      "sha256": "8506d24959bb9c9a1dc0393f5e866d52c75796a774e312282c0d720ab2f1d4fc",
+      "bytes": 25335
+    },
+    {
+      "path": "articles/roro-container-shipping-latin-america/candidate.json",
+      "sha256": "b1cce33d9ffc2a51ec69e931f6cbb244056391f90d6b543ae02a2d697a581e43",
+      "bytes": 210528
+    },
+    {
+      "path": "articles/roro-container-shipping-latin-america/locales/en.json",
+      "sha256": "6cfea52805aa66ef4005a3fe1697d7c955dad1fe246a12f07611c9ecf9c94c59",
+      "bytes": 14528
+    },
+    {
+      "path": "articles/roro-container-shipping-latin-america/locales/fr.json",
+      "sha256": "0d1da87c428759c7a804721aa70f0d83f55f075e3dc033de355ce1d63a636077",
+      "bytes": 17753
+    },
+    {
+      "path": "articles/roro-container-shipping-latin-america/locales/de.json",
+      "sha256": "3cade5f7c2b37122463193083790f975c9dc01dfb906579af284b1c613875d17",
+      "bytes": 17116
+    },
+    {
+      "path": "articles/roro-container-shipping-latin-america/locales/es.json",
+      "sha256": "39f31eb06c1edf558419e13ab110c5b54c9a9718b8665939a88d2358290506ef",
+      "bytes": 17197
+    },
+    {
+      "path": "articles/roro-container-shipping-latin-america/locales/pt-br.json",
+      "sha256": "70c4c2bca251c6ca11604b1681a74bbf450ee36e6e9adaf815af7163dd589faa",
+      "bytes": 17361
+    },
+    {
+      "path": "articles/roro-container-shipping-latin-america/locales/ja.json",
+      "sha256": "9d529de76a31f588253a87695ec2435f60255c6c450ab1e85ccdb95593fea6d7",
+      "bytes": 11577
+    },
+    {
+      "path": "articles/roro-container-shipping-latin-america/locales/ko.json",
+      "sha256": "a49ebc766399c716f3ad9df12ed3a262f382d4e297487de0c0e0ab5cc3a28a26",
+      "bytes": 11084
+    },
+    {
+      "path": "articles/roro-container-shipping-latin-america/locales/vi.json",
+      "sha256": "93523e71c9db0a4ddf8835f6e046ff6299c1bc494026f7f7f16a10abaa71b8e4",
+      "bytes": 19758
+    },
+    {
+      "path": "articles/roro-container-shipping-latin-america/locales/th.json",
+      "sha256": "c6430aabbb0511b381f1022659bb478caccbd3bf1a72385a147e80ebc8278689",
+      "bytes": 26988
+    },
+    {
+      "path": "articles/roro-container-shipping-latin-america/locales/id.json",
+      "sha256": "f9adb09318ff2aa978484a8133201d95aec08a692562805eea60f86d6f2e077a",
+      "bytes": 16664
+    },
+    {
+      "path": "articles/roro-container-shipping-latin-america/locales/ar.json",
+      "sha256": "d2129d5fb8ec79038df32cf475be29b4636cc9bf087790960152b20eefb15cee",
+      "bytes": 16485
+    },
+    {
+      "path": "articles/roro-container-shipping-latin-america/locales/zh.json",
+      "sha256": "ca809a2817018586ca8cae20ca66c20675a7b391ec7dc8ce53e0708524d53d05",
+      "bytes": 12875
+    },
+    {
+      "path": "articles/roro-container-shipping-latin-america/fact-and-source-boundaries.json",
+      "sha256": "3aac5976f6c9ad0c439f9871aef542e7bed4b00cead98a2a79090f8cf38cfa85",
+      "bytes": 11143
+    },
+    {
+      "path": "articles/roro-container-shipping-latin-america/current-automated-qa.json",
+      "sha256": "f11ba7f5cb965128718261c892fde73614b1636984ab567ad4b940625fc0ce63",
+      "bytes": 38437
+    },
+    {
+      "path": "articles/roro-container-shipping-latin-america/image-evidence.json",
+      "sha256": "6fbe3906bc3e97cf05a681adccb859e6f7d01dcddfc446b9bdd694fe6b4dd6e9",
+      "bytes": 26157
+    },
+    {
+      "path": "articles/seven-seat-suv-latin-america/candidate.json",
+      "sha256": "75a7e2d8370f5b3f554bb8ac4b50e139b0e66c60812b2257856d450d34c44412",
+      "bytes": 209965
+    },
+    {
+      "path": "articles/seven-seat-suv-latin-america/locales/en.json",
+      "sha256": "db5f020a576c50a15677a291714ae4af69ce0e129a51faa8a72b9c524a600bcf",
+      "bytes": 14463
+    },
+    {
+      "path": "articles/seven-seat-suv-latin-america/locales/fr.json",
+      "sha256": "3727ecb46750e4ac0ad57f9cb55b31a10e9f07ba2afb62f832472b0ca363aba0",
+      "bytes": 17809
+    },
+    {
+      "path": "articles/seven-seat-suv-latin-america/locales/de.json",
+      "sha256": "f6cad2ea48094823e787ac718d0eb8c641a4ce13eee7a2eb7e581b9aa025c627",
+      "bytes": 17282
+    },
+    {
+      "path": "articles/seven-seat-suv-latin-america/locales/es.json",
+      "sha256": "aa269670ab5d1d03e71432236afbbd3c6e8e30d13fe0a29bbc88b675f4f2d0db",
+      "bytes": 17318
+    },
+    {
+      "path": "articles/seven-seat-suv-latin-america/locales/pt-br.json",
+      "sha256": "ec16b0e27109e19b0a42d851db372c1a8ae51b9947044fb448299483f508ec98",
+      "bytes": 17419
+    },
+    {
+      "path": "articles/seven-seat-suv-latin-america/locales/ja.json",
+      "sha256": "e84aac6c00f08236bb0972a149162794b3986995a01d51b31f02eff4fa1f5e71",
+      "bytes": 11490
+    },
+    {
+      "path": "articles/seven-seat-suv-latin-america/locales/ko.json",
+      "sha256": "b2cc297a62a5f85d442b61a52b1af03fbc27cbdabe1ef461db40a4331a83bfe1",
+      "bytes": 11273
+    },
+    {
+      "path": "articles/seven-seat-suv-latin-america/locales/vi.json",
+      "sha256": "d0d26e9c90bbadb8546ec896fe71ec8cf6443203f4a2aeddb8dd4916295c4248",
+      "bytes": 18790
+    },
+    {
+      "path": "articles/seven-seat-suv-latin-america/locales/th.json",
+      "sha256": "428bb83b42da4b58da9451e2e29ebc31da46549456df0948a05596a3b0726f34",
+      "bytes": 26897
+    },
+    {
+      "path": "articles/seven-seat-suv-latin-america/locales/id.json",
+      "sha256": "4434ff9c5152416f8fdc5448b52f86a8df7686681b0e1d79f468b7a216b853fb",
+      "bytes": 16616
+    },
+    {
+      "path": "articles/seven-seat-suv-latin-america/locales/ar.json",
+      "sha256": "cce34e40bf2f9aecbec647206af6e0d0786a75357cd44d33ca5883f51f815906",
+      "bytes": 17095
+    },
+    {
+      "path": "articles/seven-seat-suv-latin-america/locales/zh.json",
+      "sha256": "1c68046e5159783431415778d48bf923d3d64b649a752f8171d8b57db91b57f3",
+      "bytes": 12452
+    },
+    {
+      "path": "articles/seven-seat-suv-latin-america/fact-and-source-boundaries.json",
+      "sha256": "1ca58e10e15ceb0dc238d8a4ecce05424dd78314c08f5d8c0d09f42fd77d2f1a",
+      "bytes": 10253
+    },
+    {
+      "path": "articles/seven-seat-suv-latin-america/current-automated-qa.json",
+      "sha256": "40e8bd0dd250c320ee5ecef437dfc7f55809cafb9400674a67f7316cf33f4ae1",
+      "bytes": 37853
+    },
+    {
+      "path": "articles/seven-seat-suv-latin-america/image-evidence.json",
+      "sha256": "fffa2daf54eee5de22f2fb8d5ecfc6620c9d3b869e9f702919afa182c67c3886",
+      "bytes": 28931
+    },
+    {
+      "path": "articles/price-verification-africa/candidate.json",
+      "sha256": "65545924a0524c7b9d47b532993e8abb292e86cc1100f5c27f6cf9df81139e21",
+      "bytes": 178534
+    },
+    {
+      "path": "articles/price-verification-africa/locales/en.json",
+      "sha256": "a084c3acaa27809be7f4e1c0a42da7361f47b793e3236ef4f192e5be00565df8",
+      "bytes": 14173
+    },
+    {
+      "path": "articles/price-verification-africa/locales/fr.json",
+      "sha256": "b9fda92ee0018c99a231afd9190cbaecf561ea03e3b4c45ae00be62987943121",
+      "bytes": 13776
+    },
+    {
+      "path": "articles/price-verification-africa/locales/de.json",
+      "sha256": "06dc4f2b15d668ee8a36fc59d78317287d3c938b038bcbdb50577f8138babd63",
+      "bytes": 13211
+    },
+    {
+      "path": "articles/price-verification-africa/locales/es.json",
+      "sha256": "8e935e06a38a47d27e9557da0f84ff6b88b5e3be6c51f912246432d3b265b8ac",
+      "bytes": 13055
+    },
+    {
+      "path": "articles/price-verification-africa/locales/pt-br.json",
+      "sha256": "1aa8386c55147fdfe4e44170e4098991fc9d24649b8e526cb0b0e5a84004ed67",
+      "bytes": 12788
+    },
+    {
+      "path": "articles/price-verification-africa/locales/ja.json",
+      "sha256": "2222fb81e22801e681ae0d0ffc34fbdb39b07f22c8898ed5ff3758aa11e5856b",
+      "bytes": 12408
+    },
+    {
+      "path": "articles/price-verification-africa/locales/ko.json",
+      "sha256": "5309ac64a774230c7266e3c6ad0defaa3a1c58a0f995ed3fcf920db5eb911344",
+      "bytes": 12402
+    },
+    {
+      "path": "articles/price-verification-africa/locales/vi.json",
+      "sha256": "59d3f22245878036ba54722fb2a4339ef44aea7c6b68c6235c346bd8cf16abbe",
+      "bytes": 14038
+    },
+    {
+      "path": "articles/price-verification-africa/locales/th.json",
+      "sha256": "a1d896a4b86af3e5ac3c167b93a0984650df3b0ba483820443e54ea71215ea4c",
+      "bytes": 21124
+    },
+    {
+      "path": "articles/price-verification-africa/locales/id.json",
+      "sha256": "f1ff9884b5ecb7e0d3bdee606359946f4908eafd9c3248e3f596f20a398efb30",
+      "bytes": 12718
+    },
+    {
+      "path": "articles/price-verification-africa/locales/ar.json",
+      "sha256": "4bf18af70456c27751f2c5f5902e2bcbef4b33642bdaab961f5d4f98027bc7a5",
+      "bytes": 15762
+    },
+    {
+      "path": "articles/price-verification-africa/locales/zh.json",
+      "sha256": "4afd03ad05adf8daee234dd8dcb368547146d186ebb9ee4c552db4aae86783ec",
+      "bytes": 13074
+    },
+    {
+      "path": "articles/price-verification-africa/fact-and-source-boundaries.json",
+      "sha256": "f1349765551e2854b41b1d2d77a73ffcdc4d123dadf6225e55af2d5f56ded820",
+      "bytes": 10168
+    },
+    {
+      "path": "articles/price-verification-africa/current-automated-qa.json",
+      "sha256": "ebe187ed5af29188d6037040a8433dab2099959ecc4a06cc8246d7fefc0b230b",
+      "bytes": 35974
+    },
+    {
+      "path": "articles/price-verification-africa/image-evidence.json",
+      "sha256": "d505efd5ab2163c0ed48378e384933e82bdaf4467991d119c4b84250efe7f1e1",
+      "bytes": 26316
+    },
+    {
+      "path": "candidate-manifest.json",
+      "sha256": "fb6a5e7728ac295ad2e71709f196b1da0b540a13e808def0598cea7334f56e5d",
+      "bytes": 24319
+    },
+    {
+      "path": "source-accessibility.json",
+      "sha256": "770984bbc0385aee1317984336f527c2732aa1a6e35c74b2237d13c103228d31",
+      "bytes": 35881
+    },
+    {
+      "path": "README.md",
+      "sha256": "ba818c85e50d4cdae84e0c653b77b4569d47c759cd455fa83acd9ce22df2fa38",
+      "bytes": 1167
+    }
+  ]
+}

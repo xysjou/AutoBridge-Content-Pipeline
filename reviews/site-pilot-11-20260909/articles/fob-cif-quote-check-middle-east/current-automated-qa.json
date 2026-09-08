@@ -1,0 +1,939 @@
+{
+  "candidate_sha256": "f9fbaa2f90edfbbc083a8b12b481336129db467144a6edbfcb16043e33cd397b",
+  "generated_at": "2026-09-08T23:08:08.678Z",
+  "pages": [
+    {
+      "relative": "en/guides/fob-cif-quote-check-middle-east.html",
+      "candidate_preview": true,
+      "language": "en",
+      "type": "guides",
+      "slug": "fob-cif-quote-check-middle-east",
+      "content_key": "guides/fob-cif-quote-check-middle-east",
+      "canonical": "https://www.autobridgeexport.com/guides/fob-cif-quote-check-middle-east.html",
+      "title": "FOB vs CIF vehicle quotes for the Middle East: separate Gulf conformity from cost",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/jebel-ali-free-zone-11-jpg.jpg",
+        "alt": "Container-handling cranes at Jebel Ali",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "human_reviewed",
+          "reviewed_at": "2026-08-23T08:15:52.985Z",
+          "reviewer": "codex-user-approved-direct-batch",
+          "note": "The publication decision was confirmed in the authenticated editorial workflow."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 1067,
+      "character_count": 6248,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 2,
+      "max_peer_similarity": 0.81,
+      "most_similar_peer": "en/guides/price-verification-middle-east.html",
+      "editorial_quality_score": 70,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 0,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 0,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [
+        "high_peer_similarity",
+        "editorial_quality_score_below_85"
+      ],
+      "quality_pass": false
+    },
+    {
+      "relative": "fr/guides/fob-cif-quote-check-middle-east.html",
+      "candidate_preview": true,
+      "language": "fr",
+      "type": "guides",
+      "slug": "fob-cif-quote-check-middle-east",
+      "content_key": "guides/fob-cif-quote-check-middle-east",
+      "canonical": "https://fr.autobridgeexport.com/guides/fob-cif-quote-check-middle-east.html",
+      "title": "Comparer FOB et CIF pour les véhicules chinois au Moyen-Orient",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/jebel-ali-free-zone-11-jpg.jpg",
+        "alt": "Grues de manutention de conteneurs à Jebel Ali",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "human_reviewed",
+          "reviewed_at": "2026-08-23T08:15:52.985Z",
+          "reviewer": "codex-user-approved-direct-batch",
+          "note": "The publication decision was confirmed in the authenticated editorial workflow."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 665,
+      "character_count": 3854,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 2,
+      "max_peer_similarity": 0.385,
+      "most_similar_peer": "fr/guides/price-verification-middle-east.html",
+      "editorial_quality_score": 100,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 20,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 10,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [],
+      "quality_pass": true
+    },
+    {
+      "relative": "de/guides/fob-cif-quote-check-middle-east.html",
+      "candidate_preview": true,
+      "language": "de",
+      "type": "guides",
+      "slug": "fob-cif-quote-check-middle-east",
+      "content_key": "guides/fob-cif-quote-check-middle-east",
+      "canonical": "https://de.autobridgeexport.com/guides/fob-cif-quote-check-middle-east.html",
+      "title": "FOB- und CIF-Fahrzeugangebote für den Nahen Osten prüfen",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/jebel-ali-free-zone-11-jpg.jpg",
+        "alt": "Containerkräne in Jebel Ali",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "human_reviewed",
+          "reviewed_at": "2026-08-23T08:15:52.985Z",
+          "reviewer": "codex-user-approved-direct-batch",
+          "note": "The publication decision was confirmed in the authenticated editorial workflow."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 558,
+      "character_count": 3815,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 2,
+      "max_peer_similarity": 0.385,
+      "most_similar_peer": "de/guides/price-verification-middle-east.html",
+      "editorial_quality_score": 100,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 20,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 10,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [],
+      "quality_pass": true
+    },
+    {
+      "relative": "es/guides/fob-cif-quote-check-middle-east.html",
+      "candidate_preview": true,
+      "language": "es",
+      "type": "guides",
+      "slug": "fob-cif-quote-check-middle-east",
+      "content_key": "guides/fob-cif-quote-check-middle-east",
+      "canonical": "https://es.autobridgeexport.com/guides/fob-cif-quote-check-middle-east.html",
+      "title": "Comparar FOB y CIF para vehículos chinos en Oriente Medio",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/jebel-ali-free-zone-11-jpg.jpg",
+        "alt": "Grúas para la manipulación de contenedores en Jebel Ali",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "human_reviewed",
+          "reviewed_at": "2026-08-23T08:15:52.985Z",
+          "reviewer": "codex-user-approved-direct-batch",
+          "note": "The publication decision was confirmed in the authenticated editorial workflow."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 592,
+      "character_count": 3485,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 2,
+      "max_peer_similarity": 0.385,
+      "most_similar_peer": "es/guides/price-verification-middle-east.html",
+      "editorial_quality_score": 100,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 20,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 10,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [],
+      "quality_pass": true
+    },
+    {
+      "relative": "pt-br/guides/fob-cif-quote-check-middle-east.html",
+      "candidate_preview": true,
+      "language": "pt-br",
+      "type": "guides",
+      "slug": "fob-cif-quote-check-middle-east",
+      "content_key": "guides/fob-cif-quote-check-middle-east",
+      "canonical": "https://pt.autobridgeexport.com/guides/fob-cif-quote-check-middle-east.html",
+      "title": "Comparar FOB e CIF para veículos chineses no Oriente Médio",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/jebel-ali-free-zone-11-jpg.jpg",
+        "alt": "Guindastes de movimentação de contêineres em Jebel Ali",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "human_reviewed",
+          "reviewed_at": "2026-08-23T08:15:52.985Z",
+          "reviewer": "codex-user-approved-direct-batch",
+          "note": "The publication decision was confirmed in the authenticated editorial workflow."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 584,
+      "character_count": 3390,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 2,
+      "max_peer_similarity": 0.385,
+      "most_similar_peer": "pt-br/guides/price-verification-middle-east.html",
+      "editorial_quality_score": 100,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 20,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 10,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [],
+      "quality_pass": true
+    },
+    {
+      "relative": "ja/guides/fob-cif-quote-check-middle-east.html",
+      "candidate_preview": true,
+      "language": "ja",
+      "type": "guides",
+      "slug": "fob-cif-quote-check-middle-east",
+      "content_key": "guides/fob-cif-quote-check-middle-east",
+      "canonical": "https://ja.autobridgeexport.com/guides/fob-cif-quote-check-middle-east.html",
+      "title": "中東向け中国車のFOB・CIFとGCC適合を分けて比較する",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/jebel-ali-free-zone-11-jpg.jpg",
+        "alt": "ジュベル・アリのコンテナ荷役クレーン",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "human_reviewed",
+          "reviewed_at": "2026-08-23T08:15:52.985Z",
+          "reviewer": "codex-user-approved-direct-batch",
+          "note": "The publication decision was confirmed in the authenticated editorial workflow."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 259,
+      "character_count": 1790,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 2,
+      "max_peer_similarity": 0.385,
+      "most_similar_peer": "ja/guides/price-verification-middle-east.html",
+      "editorial_quality_score": 65,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 0,
+        "buyer_task_coverage": 0,
+        "authorship_and_transparency": 15,
+        "uniqueness": 10,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [
+        "content_too_thin",
+        "editorial_quality_score_below_85"
+      ],
+      "quality_pass": false
+    },
+    {
+      "relative": "ko/guides/fob-cif-quote-check-middle-east.html",
+      "candidate_preview": true,
+      "language": "ko",
+      "type": "guides",
+      "slug": "fob-cif-quote-check-middle-east",
+      "content_key": "guides/fob-cif-quote-check-middle-east",
+      "canonical": "https://ko.autobridgeexport.com/guides/fob-cif-quote-check-middle-east.html",
+      "title": "중동행 중국 차량 FOB·CIF와 GCC 적합성을 분리해 비교하기",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/jebel-ali-free-zone-11-jpg.jpg",
+        "alt": "제벨알리의 컨테이너 하역 크레인",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "human_reviewed",
+          "reviewed_at": "2026-08-23T08:15:52.985Z",
+          "reviewer": "codex-user-approved-direct-batch",
+          "note": "The publication decision was confirmed in the authenticated editorial workflow."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 432,
+      "character_count": 1756,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 2,
+      "max_peer_similarity": 0.385,
+      "most_similar_peer": "ko/guides/price-verification-middle-east.html",
+      "editorial_quality_score": 65,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 0,
+        "buyer_task_coverage": 0,
+        "authorship_and_transparency": 15,
+        "uniqueness": 10,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [
+        "content_too_thin",
+        "editorial_quality_score_below_85"
+      ],
+      "quality_pass": false
+    },
+    {
+      "relative": "vi/guides/fob-cif-quote-check-middle-east.html",
+      "candidate_preview": true,
+      "language": "vi",
+      "type": "guides",
+      "slug": "fob-cif-quote-check-middle-east",
+      "content_key": "guides/fob-cif-quote-check-middle-east",
+      "canonical": "https://vi.autobridgeexport.com/guides/fob-cif-quote-check-middle-east.html",
+      "title": "So sánh FOB và CIF cho xe Trung Quốc vào Trung Đông, tách riêng phù hợp vùng Vịnh",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/jebel-ali-free-zone-11-jpg.jpg",
+        "alt": "Cần cẩu xếp dỡ container tại Jebel Ali",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "human_reviewed",
+          "reviewed_at": "2026-08-23T08:15:52.985Z",
+          "reviewer": "codex-user-approved-direct-batch",
+          "note": "The publication decision was confirmed in the authenticated editorial workflow."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 757,
+      "character_count": 2965,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 2,
+      "max_peer_similarity": 0.385,
+      "most_similar_peer": "vi/guides/price-verification-middle-east.html",
+      "editorial_quality_score": 100,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 20,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 10,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [],
+      "quality_pass": true
+    },
+    {
+      "relative": "th/guides/fob-cif-quote-check-middle-east.html",
+      "candidate_preview": true,
+      "language": "th",
+      "type": "guides",
+      "slug": "fob-cif-quote-check-middle-east",
+      "content_key": "guides/fob-cif-quote-check-middle-east",
+      "canonical": "https://th.autobridgeexport.com/guides/fob-cif-quote-check-middle-east.html",
+      "title": "เทียบ FOB และ CIF รถจีนไปตะวันออกกลางโดยแยกความสอดคล้องอ่าว",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/jebel-ali-free-zone-11-jpg.jpg",
+        "alt": "เครนขนถ่ายตู้คอนเทนเนอร์ที่เจเบลอาลี",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "human_reviewed",
+          "reviewed_at": "2026-08-23T08:15:52.985Z",
+          "reviewer": "codex-user-approved-direct-batch",
+          "note": "The publication decision was confirmed in the authenticated editorial workflow."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 632,
+      "character_count": 2755,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 2,
+      "max_peer_similarity": 0.385,
+      "most_similar_peer": "th/guides/price-verification-middle-east.html",
+      "editorial_quality_score": 100,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 20,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 10,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [],
+      "quality_pass": true
+    },
+    {
+      "relative": "id/guides/fob-cif-quote-check-middle-east.html",
+      "candidate_preview": true,
+      "language": "id",
+      "type": "guides",
+      "slug": "fob-cif-quote-check-middle-east",
+      "content_key": "guides/fob-cif-quote-check-middle-east",
+      "canonical": "https://id.autobridgeexport.com/guides/fob-cif-quote-check-middle-east.html",
+      "title": "Membandingkan FOB dan CIF kendaraan Tiongkok ke Timur Tengah dengan kesesuaian Teluk terpisah",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/jebel-ali-free-zone-11-jpg.jpg",
+        "alt": "Derek penanganan peti kemas di Jebel Ali",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "human_reviewed",
+          "reviewed_at": "2026-08-23T08:15:52.985Z",
+          "reviewer": "codex-user-approved-direct-batch",
+          "note": "The publication decision was confirmed in the authenticated editorial workflow."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 565,
+      "character_count": 3574,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 2,
+      "max_peer_similarity": 0.385,
+      "most_similar_peer": "id/guides/price-verification-middle-east.html",
+      "editorial_quality_score": 100,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 20,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 10,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [],
+      "quality_pass": true
+    },
+    {
+      "relative": "ar/guides/fob-cif-quote-check-middle-east.html",
+      "candidate_preview": true,
+      "language": "ar",
+      "type": "guides",
+      "slug": "fob-cif-quote-check-middle-east",
+      "content_key": "guides/fob-cif-quote-check-middle-east",
+      "canonical": "https://ar.autobridgeexport.com/guides/fob-cif-quote-check-middle-east.html",
+      "title": "مقارنة FOB وCIF للمركبات الصينية إلى الشرق الأوسط مع فصل المطابقة الخليجية",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/jebel-ali-free-zone-11-jpg.jpg",
+        "alt": "رافعات مناولة الحاويات في جبل علي",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "human_reviewed",
+          "reviewed_at": "2026-08-23T08:15:52.985Z",
+          "reviewer": "codex-user-approved-direct-batch",
+          "note": "The publication decision was confirmed in the authenticated editorial workflow."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 532,
+      "character_count": 2966,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 2,
+      "max_peer_similarity": 0.385,
+      "most_similar_peer": "ar/guides/price-verification-middle-east.html",
+      "editorial_quality_score": 100,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 20,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 10,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [],
+      "quality_pass": true
+    },
+    {
+      "relative": "zh/guides/fob-cif-quote-check-middle-east.html",
+      "candidate_preview": true,
+      "language": "zh",
+      "type": "guides",
+      "slug": "fob-cif-quote-check-middle-east",
+      "content_key": "guides/fob-cif-quote-check-middle-east",
+      "canonical": "https://zh.autobridgeexport.com/guides/fob-cif-quote-check-middle-east.html",
+      "title": "中国汽车出口中东：FOB与CIF报价要分开核对GCC认证、海关和上牌",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/jebel-ali-free-zone-11-jpg.jpg",
+        "alt": "杰贝阿里的集装箱装卸起重机",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "human_reviewed",
+          "reviewed_at": "2026-08-23T08:15:52.985Z",
+          "reviewer": "codex-user-approved-direct-batch",
+          "note": "The publication decision was confirmed in the authenticated editorial workflow."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 264,
+      "character_count": 2463,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 2,
+      "max_peer_similarity": 0,
+      "most_similar_peer": null,
+      "editorial_quality_score": 100,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 20,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 10,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [],
+      "quality_pass": true
+    }
+  ]
+}

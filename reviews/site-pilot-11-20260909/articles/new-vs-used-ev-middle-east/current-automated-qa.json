@@ -1,0 +1,936 @@
+{
+  "candidate_sha256": "914747d13f01cf68b66e82bdf4f1a97ded9ca95193bf980eb07c8382aef66c3f",
+  "generated_at": "2026-09-08T23:08:08.678Z",
+  "pages": [
+    {
+      "relative": "en/guides/new-vs-used-ev-middle-east.html",
+      "candidate_preview": true,
+      "language": "en",
+      "type": "guides",
+      "slug": "new-vs-used-ev-middle-east",
+      "content_key": "guides/new-vs-used-ev-middle-east",
+      "canonical": "https://www.autobridgeexport.com/guides/new-vs-used-ev-middle-east.html",
+      "title": "Compare New and Used EV Risk in the Middle East",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/battery-pack-of-an-ev-jpg.jpg",
+        "alt": "Exposed electric-vehicle battery assembly beside a wheel and suspension display",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "Documented public and primary sources only; no first-hand inspection, transaction, ownership or price claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "automated_quality_checked",
+          "reviewed_at": "2026-09-04T23:44:33.269748+00:00",
+          "reviewer": "",
+          "note": "Codex final editorial and multilingual QA completed; user authorized targeted publication."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 1237,
+      "character_count": 6843,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 6,
+      "max_peer_similarity": 0,
+      "most_similar_peer": null,
+      "editorial_quality_score": 100,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 20,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 10,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [],
+      "quality_pass": true
+    },
+    {
+      "relative": "fr/guides/new-vs-used-ev-middle-east.html",
+      "candidate_preview": true,
+      "language": "fr",
+      "type": "guides",
+      "slug": "new-vs-used-ev-middle-east",
+      "content_key": "guides/new-vs-used-ev-middle-east",
+      "canonical": "https://fr.autobridgeexport.com/guides/new-vs-used-ev-middle-east.html",
+      "title": "VE neuf ou d'occasion à l'export : cadre mondial de preuves | Moyen-Orient",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/battery-pack-of-an-ev-jpg.jpg",
+        "alt": "Batterie de véhicule électrique ouverte, à côté d’une roue et d’une suspension exposées",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "Documented public and primary sources only; no first-hand inspection, transaction, ownership or price claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "automated_quality_checked",
+          "reviewed_at": "2026-09-04T23:44:33.269748+00:00",
+          "reviewer": "",
+          "note": "Codex final editorial and multilingual QA completed; user authorized targeted publication."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 919,
+      "character_count": 5248,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 6,
+      "max_peer_similarity": 0.273,
+      "most_similar_peer": "fr/guides/mpv-procurement-latin-america.html",
+      "editorial_quality_score": 100,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 20,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 10,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [],
+      "quality_pass": true
+    },
+    {
+      "relative": "de/guides/new-vs-used-ev-middle-east.html",
+      "candidate_preview": true,
+      "language": "de",
+      "type": "guides",
+      "slug": "new-vs-used-ev-middle-east",
+      "content_key": "guides/new-vs-used-ev-middle-east",
+      "canonical": "https://de.autobridgeexport.com/guides/new-vs-used-ev-middle-east.html",
+      "title": "Neues oder gebrauchtes Export-E-Auto: globaler Nachweisrahmen | Nahost",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/battery-pack-of-an-ev-jpg.jpg",
+        "alt": "Offengelegte Elektroauto-Batteriebaugruppe neben einem ausgestellten Rad mit Federung",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "Documented public and primary sources only; no first-hand inspection, transaction, ownership or price claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "automated_quality_checked",
+          "reviewed_at": "2026-09-04T23:44:33.269748+00:00",
+          "reviewer": "",
+          "note": "Codex final editorial and multilingual QA completed; user authorized targeted publication."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 747,
+      "character_count": 5214,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 6,
+      "max_peer_similarity": 0.273,
+      "most_similar_peer": "de/guides/mpv-procurement-latin-america.html",
+      "editorial_quality_score": 100,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 20,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 10,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [],
+      "quality_pass": true
+    },
+    {
+      "relative": "es/guides/new-vs-used-ev-middle-east.html",
+      "candidate_preview": true,
+      "language": "es",
+      "type": "guides",
+      "slug": "new-vs-used-ev-middle-east",
+      "content_key": "guides/new-vs-used-ev-middle-east",
+      "canonical": "https://es.autobridgeexport.com/guides/new-vs-used-ev-middle-east.html",
+      "title": "EV nuevo o usado para exportación: marco mundial de pruebas | Oriente Medio",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/battery-pack-of-an-ev-jpg.jpg",
+        "alt": "Conjunto de batería de vehículo eléctrico abierto junto a una rueda y una suspensión de exposición",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "Documented public and primary sources only; no first-hand inspection, transaction, ownership or price claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "automated_quality_checked",
+          "reviewed_at": "2026-09-04T23:44:33.269748+00:00",
+          "reviewer": "",
+          "note": "Codex final editorial and multilingual QA completed; user authorized targeted publication."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 847,
+      "character_count": 5029,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 6,
+      "max_peer_similarity": 0.182,
+      "most_similar_peer": "es/guides/mpv-procurement-latin-america.html",
+      "editorial_quality_score": 100,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 20,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 10,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [],
+      "quality_pass": true
+    },
+    {
+      "relative": "pt-br/guides/new-vs-used-ev-middle-east.html",
+      "candidate_preview": true,
+      "language": "pt-br",
+      "type": "guides",
+      "slug": "new-vs-used-ev-middle-east",
+      "content_key": "guides/new-vs-used-ev-middle-east",
+      "canonical": "https://pt.autobridgeexport.com/guides/new-vs-used-ev-middle-east.html",
+      "title": "EV novo ou usado para exportação: quadro global de evidências | Oriente Médio",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/battery-pack-of-an-ev-jpg.jpg",
+        "alt": "Conjunto de bateria de veículo elétrico aberto ao lado de uma roda e uma suspensão em exposição",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "Documented public and primary sources only; no first-hand inspection, transaction, ownership or price claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "automated_quality_checked",
+          "reviewed_at": "2026-09-04T23:44:33.269748+00:00",
+          "reviewer": "",
+          "note": "Codex final editorial and multilingual QA completed; user authorized targeted publication."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 872,
+      "character_count": 4957,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 6,
+      "max_peer_similarity": 0.182,
+      "most_similar_peer": "pt-br/guides/mpv-procurement-latin-america.html",
+      "editorial_quality_score": 100,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 20,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 10,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [],
+      "quality_pass": true
+    },
+    {
+      "relative": "ja/guides/new-vs-used-ev-middle-east.html",
+      "candidate_preview": true,
+      "language": "ja",
+      "type": "guides",
+      "slug": "new-vs-used-ev-middle-east",
+      "content_key": "guides/new-vs-used-ev-middle-east",
+      "canonical": "https://ja.autobridgeexport.com/guides/new-vs-used-ev-middle-east.html",
+      "title": "輸出EVは新車か中古か：世界共通の証拠フレーム | 中東",
+      "repeated_sentence_padding": true,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/battery-pack-of-an-ev-jpg.jpg",
+        "alt": "車輪とサスペンションの展示物に隣接する電気自動車の電池内部",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "Documented public and primary sources only; no first-hand inspection, transaction, ownership or price claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "automated_quality_checked",
+          "reviewed_at": "2026-09-04T23:44:33.269748+00:00",
+          "reviewer": "",
+          "note": "Codex final editorial and multilingual QA completed; user authorized targeted publication."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 418,
+      "character_count": 3149,
+      "repeated_paragraph_ratio": 0.091,
+      "image_reuse_count": 6,
+      "max_peer_similarity": 0.182,
+      "most_similar_peer": "ja/guides/mpv-procurement-latin-america.html",
+      "editorial_quality_score": 70,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 0,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 0,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [
+        "repeated_sentence_padding",
+        "editorial_quality_score_below_85"
+      ],
+      "quality_pass": false
+    },
+    {
+      "relative": "ko/guides/new-vs-used-ev-middle-east.html",
+      "candidate_preview": true,
+      "language": "ko",
+      "type": "guides",
+      "slug": "new-vs-used-ev-middle-east",
+      "content_key": "guides/new-vs-used-ev-middle-east",
+      "canonical": "https://ko.autobridgeexport.com/guides/new-vs-used-ev-middle-east.html",
+      "title": "수출 EV 신차와 중고차: 글로벌 증거 기준 | 중동",
+      "repeated_sentence_padding": true,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/battery-pack-of-an-ev-jpg.jpg",
+        "alt": "휠과 서스펜션 전시물 옆에 내부가 드러난 전기차 배터리 장치",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "Documented public and primary sources only; no first-hand inspection, transaction, ownership or price claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "automated_quality_checked",
+          "reviewed_at": "2026-09-04T23:44:33.269748+00:00",
+          "reviewer": "",
+          "note": "Codex final editorial and multilingual QA completed; user authorized targeted publication."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 705,
+      "character_count": 2867,
+      "repeated_paragraph_ratio": 0.1,
+      "image_reuse_count": 6,
+      "max_peer_similarity": 0.182,
+      "most_similar_peer": "ko/guides/mpv-procurement-latin-america.html",
+      "editorial_quality_score": 70,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 0,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 0,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [
+        "repeated_sentence_padding",
+        "editorial_quality_score_below_85"
+      ],
+      "quality_pass": false
+    },
+    {
+      "relative": "vi/guides/new-vs-used-ev-middle-east.html",
+      "candidate_preview": true,
+      "language": "vi",
+      "type": "guides",
+      "slug": "new-vs-used-ev-middle-east",
+      "content_key": "guides/new-vs-used-ev-middle-east",
+      "canonical": "https://vi.autobridgeexport.com/guides/new-vs-used-ev-middle-east.html",
+      "title": "EV xuất khẩu mới hay đã qua sử dụng: khung bằng chứng toàn cầu | Trung Đông",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/battery-pack-of-an-ev-jpg.jpg",
+        "alt": "Cụm pin xe điện được mở để trưng bày cạnh bánh xe và hệ thống treo",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "Documented public and primary sources only; no first-hand inspection, transaction, ownership or price claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "automated_quality_checked",
+          "reviewed_at": "2026-09-04T23:44:33.269748+00:00",
+          "reviewer": "",
+          "note": "Codex final editorial and multilingual QA completed; user authorized targeted publication."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 1007,
+      "character_count": 4473,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 6,
+      "max_peer_similarity": 0.273,
+      "most_similar_peer": "vi/guides/mpv-procurement-latin-america.html",
+      "editorial_quality_score": 100,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 20,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 10,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [],
+      "quality_pass": true
+    },
+    {
+      "relative": "th/guides/new-vs-used-ev-middle-east.html",
+      "candidate_preview": true,
+      "language": "th",
+      "type": "guides",
+      "slug": "new-vs-used-ev-middle-east",
+      "content_key": "guides/new-vs-used-ev-middle-east",
+      "canonical": "https://th.autobridgeexport.com/guides/new-vs-used-ev-middle-east.html",
+      "title": "EV ส่งออกใหม่หรือมือสอง: กรอบหลักฐานระดับโลก | ตะวันออกกลาง",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/battery-pack-of-an-ev-jpg.jpg",
+        "alt": "ชุดแบตเตอรี่รถยนต์ไฟฟ้าที่เปิดให้เห็นภายใน จัดแสดงข้างล้อและระบบกันสะเทือน",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "Documented public and primary sources only; no first-hand inspection, transaction, ownership or price claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "automated_quality_checked",
+          "reviewed_at": "2026-09-04T23:44:33.269748+00:00",
+          "reviewer": "",
+          "note": "Codex final editorial and multilingual QA completed; user authorized targeted publication."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 1030,
+      "character_count": 5165,
+      "repeated_paragraph_ratio": 0.2,
+      "image_reuse_count": 6,
+      "max_peer_similarity": 0.182,
+      "most_similar_peer": "th/guides/mpv-procurement-latin-america.html",
+      "editorial_quality_score": 100,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 20,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 10,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [],
+      "quality_pass": true
+    },
+    {
+      "relative": "id/guides/new-vs-used-ev-middle-east.html",
+      "candidate_preview": true,
+      "language": "id",
+      "type": "guides",
+      "slug": "new-vs-used-ev-middle-east",
+      "content_key": "guides/new-vs-used-ev-middle-east",
+      "canonical": "https://id.autobridgeexport.com/guides/new-vs-used-ev-middle-east.html",
+      "title": "EV ekspor baru atau bekas: kerangka bukti global | Timur Tengah",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/battery-pack-of-an-ev-jpg.jpg",
+        "alt": "Rakitan baterai mobil listrik terbuka di samping pajangan roda dan suspensi",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "Documented public and primary sources only; no first-hand inspection, transaction, ownership or price claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "automated_quality_checked",
+          "reviewed_at": "2026-09-04T23:44:33.269748+00:00",
+          "reviewer": "",
+          "note": "Codex final editorial and multilingual QA completed; user authorized targeted publication."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 770,
+      "character_count": 5007,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 6,
+      "max_peer_similarity": 0.273,
+      "most_similar_peer": "id/guides/mpv-procurement-latin-america.html",
+      "editorial_quality_score": 100,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 20,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 10,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [],
+      "quality_pass": true
+    },
+    {
+      "relative": "ar/guides/new-vs-used-ev-middle-east.html",
+      "candidate_preview": true,
+      "language": "ar",
+      "type": "guides",
+      "slug": "new-vs-used-ev-middle-east",
+      "content_key": "guides/new-vs-used-ev-middle-east",
+      "canonical": "https://ar.autobridgeexport.com/guides/new-vs-used-ev-middle-east.html",
+      "title": "سيارة كهربائية جديدة أم مستعملة للتصدير: إطار أدلة عالمي | الشرق الأوسط",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/battery-pack-of-an-ev-jpg.jpg",
+        "alt": "مجموعة بطارية سيارة كهربائية مكشوفة بجوار عجلة ونظام تعليق معروضين",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "Documented public and primary sources only; no first-hand inspection, transaction, ownership or price claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "automated_quality_checked",
+          "reviewed_at": "2026-09-04T23:44:33.269748+00:00",
+          "reviewer": "",
+          "note": "Codex final editorial and multilingual QA completed; user authorized targeted publication."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 665,
+      "character_count": 3538,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 6,
+      "max_peer_similarity": 0.267,
+      "most_similar_peer": "ar/guides/photo-vin-review-africa.html",
+      "editorial_quality_score": 100,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 20,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 10,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [],
+      "quality_pass": true
+    },
+    {
+      "relative": "zh/guides/new-vs-used-ev-middle-east.html",
+      "candidate_preview": true,
+      "language": "zh",
+      "type": "guides",
+      "slug": "new-vs-used-ev-middle-east",
+      "content_key": "guides/new-vs-used-ev-middle-east",
+      "canonical": "https://zh.autobridgeexport.com/guides/new-vs-used-ev-middle-east.html",
+      "title": "中东新车与二手电动车采购：先建立交易证据，再比较价格或方案",
+      "repeated_sentence_padding": false,
+      "near_duplicate_paragraphs": false,
+      "machine_template_leakage": false,
+      "parameter_issues": [],
+      "source_count": 8,
+      "image": {
+        "src": "../../assets/editorial/battery-pack-of-an-ev-jpg.jpg",
+        "alt": "车轮与悬架展品旁展示的电动车电池内部结构",
+        "placeholder": false
+      },
+      "spec_count": 0,
+      "editorial": {
+        "policy_version": "2026-08-15",
+        "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+        "author": {
+          "type": "Organization",
+          "name": "AutoBridge Export Editorial Team",
+          "url_path": "/authors/"
+        },
+        "methodology": "document_research_and_procurement_analysis",
+        "evidence": {
+          "level": "documented_sources",
+          "first_hand": false,
+          "note": "Documented public and primary sources only; no first-hand inspection, transaction, ownership or price claim is made."
+        },
+        "ai_assistance": {
+          "used": true,
+          "roles": [
+            "research_support",
+            "drafting_support",
+            "translation_support"
+          ],
+          "disclosure_required": true
+        },
+        "review": {
+          "status": "editorial_review_pending",
+          "reviewed_at": null,
+          "reviewer": null,
+          "human_reviewed": false
+        },
+        "previous_review": {
+          "status": "automated_quality_checked",
+          "reviewed_at": "2026-09-04T23:44:33.269748+00:00",
+          "reviewer": "",
+          "note": "Codex final editorial and multilingual QA completed; user authorized targeted publication."
+        }
+      },
+      "image_licensing_ready": true,
+      "word_count": 298,
+      "character_count": 2731,
+      "repeated_paragraph_ratio": 0,
+      "image_reuse_count": 6,
+      "max_peer_similarity": 0.182,
+      "most_similar_peer": "zh/guides/mpv-procurement-latin-america.html",
+      "editorial_quality_score": 100,
+      "editorial_score_breakdown": {
+        "facts_and_sources": 25,
+        "original_value": 20,
+        "buyer_task_coverage": 15,
+        "authorship_and_transparency": 15,
+        "uniqueness": 10,
+        "multilingual_integrity": 5,
+        "image_and_rights": 5,
+        "technical_seo": 5
+      },
+      "reasons": [],
+      "quality_pass": true
+    }
+  ]
+}

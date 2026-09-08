@@ -1,0 +1,624 @@
+{
+  "schema_version": "1.0",
+  "type": "buyer_guide",
+  "slug": "fob-cif-quote-check-latin-america",
+  "source_language": "zh",
+  "status": "quality_hold",
+  "canonical_path": "/en/guides/fob-cif-quote-check-latin-america.html",
+  "search_intent": "Compare FOB and CIF quotations for Chinese vehicles imported into a specific Latin American market",
+  "market": "Latin America",
+  "image": {
+    "src": "../../assets/editorial/port-santos-jpg.jpg",
+    "alt": "Container ship and dockside cranes at Santos port",
+    "caption": "Container ship and dockside cranes at Santos port. Reference photograph, not a record of an AutoBridge inspection or transaction.",
+    "wiki_title": "Container ship",
+    "review_note": "Image description corrected; full article review and publication approval remain pending.",
+    "wiki_file_title": "Port Santos.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Port_Santos.jpg",
+    "source_file_page": "https://commons.wikimedia.org/wiki/File:Port_Santos.jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Port_Santos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "license": "CC BY 3.0",
+    "artist": "Claus Bunks aka Afrobrasil on flickr",
+    "credit": "Own work",
+    "candidate_description": "SBSA TECON, Port of Santos, Brasil, with the ALIANCA EUROPA IMO Number: 9000742 MMSI Number: 710045000 Callsign: PPSV Length: 200 m Beam: 32 m",
+    "identity_status": "confirmed_topic_match",
+    "identity_reviewed": true,
+    "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+    "identity_reviewer": "codex-ai-visual-review",
+    "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+    "asset_sha256": "84beddb95b9ee60760d792ec447d615513517ad5cb000ee456bff9b36c5256a4",
+    "evidence_scope": "reference_illustration_not_first_hand",
+    "previous_identity_review": {
+      "status": "confirmed_model_match",
+      "note": "Visible Port of Santos container vessel, cranes and cargo handling match the Latin America FOB/CIF logistics guide."
+    }
+  },
+  "translations": {
+    "en": {
+      "title": "FOB vs CIF vehicle quotes for Latin America: compare through registration",
+      "seo_title": "Latin America FOB vs CIF Vehicle Quote Check",
+      "meta_description": "Compare China vehicle FOB and CIF quotes for one Latin American country and port, including freight, insurance, licensing, customs value, origin and registration.",
+      "summary": "A Latin American FOB–CIF comparison needs separate checks for port charges, translated import documents and first registration. Reconcile those obligations before treating ocean freight as the price difference.",
+      "eyebrow": "Latin America vehicle quote audit",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../en/index.html\">Home</a><span>/</span><a href=\"../../en/guides/index.html\">Guides</a><span>/</span><span>FOB vs CIF vehicle quotes for Latin America: compare through registration</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">Latin America vehicle quote audit</p>\n      <h1>FOB vs CIF vehicle quotes for Latin America: compare through registration</h1>\n      <p class=\"lead\">A Latin American FOB–CIF comparison needs separate checks for port charges, translated import documents and first registration. Reconcile those obligations before treating ocean freight as the price difference.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/port-santos-jpg.jpg\" alt=\"Container ship and dockside cranes at Santos port\" loading=\"lazy\"><figcaption>Container ship and dockside cranes at Santos port. Reference photograph, not a record of an AutoBridge inspection or transaction.</figcaption></figure>\n      <h2>Replace the region with a country, port and registration city</h2>\n      <p>Put the destination country, discharge terminal, importer of record, expected declaration date, final registration city and handover point on page one. Pacific, Caribbean and Atlantic gateways can involve different sailings and transshipment, so “CIF Latin America” is not an executable destination. It also says nothing about port-to-city transport or the local invoices that arise after discharge.</p>\n      <p>Freeze model year, exact variant, powertrain, condition, quantity and VINs, then verify used-goods policy, safety or emissions evidence, licensing, importer qualification and first-registration file. Peru SUNAT, Brazil&#39;s Receita Federal, Colombia&#39;s VUCE and Chile&#39;s registration service illustrate separate national stages. None is a regional template and no freight saving cures an ineligible specification.</p>\n      <h2>Draw the China and ocean boundary with a precise rule</h2>\n      <p>FOB should identify the Chinese shipment port and itemise factory collection, inland haulage, inspection, export declaration, terminal and on-board loading. Risk normally transfers on board the buyer-nominated vessel. CIF should identify a precise destination port: the seller pays main freight and arranges insurance, yet risk still transfers on board in China rather than after the vehicle arrives in Latin America.</p>\n      <p>When a container is handed to a terminal before ship loading, assess whether FCA matches delivery better; for seller-arranged insured multimodal carriage, assess CIP. Add “Incoterms 2020” and the exact point to the rule. The quote appendix should state RoRo or container, direct or transshipped service, booking validity, estimated sailing and arrival windows, and the carrier terms behind any free-time promise.</p>\n      <h2>Build the destination ledger in the local commercial language</h2>\n      <p>Start with vehicle net price, then add China and origin terminal, ocean and insurance, destination unloading and carrier documents, terminal and examination, broker and licence, duty and import taxes, inland delivery, conformity modification and first registration. Give every line its original currency, tax treatment, billing unit, payee, validity and evidence. Spanish or Portuguese descriptions should reconcile with the local supplier&#39;s invoice rather than rely on a loose English label.</p>\n      <p>Obtain a schedule from a named destination agent separating carrier documentation, terminal services, government charges, inspection and the broker&#39;s own fee. For storage, container detention, port delay or missed appointment costs, record free days and the event that starts charging. Resolve exclusions before bill-of-lading issue; a generic “destination fees for buyer” note leaves no usable budget or control.</p>\n      <h2>Separate the CIF sale amount from customs value and tax</h2>\n      <p>The World Customs Organization explains that invoice price is not automatically customs value and national law determines freight treatment. Brazil&#39;s import manual treats declaration, licensing and valuation as domestic procedures; Colombia&#39;s VUCE administers import registrations, licences and prior authorizations. Three CIF letters do not complete those processes, and an FOB invoice does not automatically create a lower tax base.</p>\n      <p>Have the importer build a sheet using proposed tariff classification, new or used condition, origin, buyer-seller relationship, freight, insurance, assists and declaration exchange rate. Preserve separable vehicle, carriage, premium and payment evidence. Related-party sales, exceptional discounts, demonstration units or non-cash contributions should be reviewed by qualified destination customs and tax advisers before the order becomes non-refundable.</p>\n      <h2>Treat origin evidence as a claim to prove, not a coupon</h2>\n      <p>Shipment from China does not itself satisfy preferential origin, and a non-preferential certificate of origin does not create a reduced rate. Confirm that an applicable arrangement exists, the vehicle tariff line is covered, the product-specific rule is met, the issuing or self-certifying party is eligible, and the required proof can be presented in the destination format and time limit.</p>\n      <p>Model a no-preference baseline and a second scenario only after a destination specialist confirms potential eligibility. If a supplier markets the quote using a preferential rate, the contract should identify the agreement, rule, evidence and consequence if proof is unavailable. Customs retains the decision, so the buyer should not fund the purchase on an unsupported duty saving.</p>\n      <h2>Make payment, transport and first registration share one data set</h2>\n      <p>Commercial invoice, VIN packing list, China export support, origin records, inspection or conformity evidence, draft bill of lading and insurance certificate should use identical make, model, year, VIN, quantity, value, ports and parties. Where Spanish or Portuguese translation, authentication or electronic licensing is required, have the importer validate the format before shipment rather than repairing conflicting data after arrival.</p>\n      <p>Price both options to the same registration city, adding port, tax, valuation sensitivity, inland movement, modification, registration, foreign exchange and delay. A buyer with a regional forwarder and cargo policy may prefer FOB or FCA; a seller with transparent booking and usable insurance may make CIF simpler. Neither choice grants import permission, tariff preference, homologation or a road title without separate accepted evidence.</p>\n      <h2>Frequently asked questions</h2>\n      <h3>Does CIF to a Latin American port include import duty and tax?</h3>\n      <p>Do not infer that it does. Import clearance and taxes are normally separate destination obligations unless the contract and local law expressly allocate them.</p>\n      <h3>Does a Chinese certificate of origin guarantee a preferential rate?</h3>\n      <p>No. An applicable agreement, satisfied product rule and acceptable destination proof are all required.</p>\n      <h3>Can Brazil&#39;s import process be applied in Spanish-speaking markets?</h3>\n      <p>No. Brazil, Colombia, Peru, Chile and other markets maintain distinct declaration, licensing, valuation and registration systems.</p>\n      <h3>Why put the registration city in a shipping quote?</h3>\n      <p>Port release is not road registration. The final market determines local conformity, translation, tax and first-registration evidence.</p>\n      <h3>Which local evidence matters most?</h3>\n      <p>A destination importer&#39;s valuation and tax sheet, a named port-agent disbursement schedule and written confirmation of vehicle eligibility and licensing path.</p>\n\n      <h2>Sources</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Frequently Asked Questions on Customs Valuation</a><span>World Customs Organization · 2026-08-22</span></li>\n        <li><a href=\"https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/despacho-de-importacao\" target=\"_blank\" rel=\"noopener noreferrer\">Manual Aduaneiro de Importação</a><span>Receita Federal do Brasil · 2026-08-22</span></li>\n        <li><a href=\"https://vuce.gov.co/vuce/tramites-y-servicios-de-la-vuce\" target=\"_blank\" rel=\"noopener noreferrer\">Trámites y Servicios de la VUCE</a><span>Ventanilla Única de Comercio Exterior de Colombia · 2026-08-22</span></li>\n        <li><a href=\"https://www.sunat.gob.pe/orientacionaduanera/importacionvehiculos/\" target=\"_blank\" rel=\"noopener noreferrer\">Importación de Vehículos</a><span>Superintendencia Nacional de Aduanas y de Administración Tributaria del Perú · 2026-08-22</span></li>\n        <li><a href=\"https://www.chileatiende.gob.cl/fichas/3388-primera-inscripcion-de-vehiculos-motorizados\" target=\"_blank\" rel=\"noopener noreferrer\">Primera Inscripción de Vehículos Motorizados</a><span>ChileAtiende · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "word_count": 1578,
+      "reading_time_minutes": 8,
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/port-santos-jpg.jpg",
+        "alt": "Container ship and dockside cranes at Santos port",
+        "caption": "Container ship and dockside cranes at Santos port. Reference photograph, not a record of an AutoBridge inspection or transaction.",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Port Santos.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Port_Santos.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Port_Santos.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Port_Santos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY 3.0",
+        "artist": "Claus Bunks aka Afrobrasil on flickr",
+        "credit": "Own work",
+        "candidate_description": "SBSA TECON, Port of Santos, Brasil, with the ALIANCA EUROPA IMO Number: 9000742 MMSI Number: 710045000 Callsign: PPSV Length: 200 m Beam: 32 m",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "84beddb95b9ee60760d792ec447d615513517ad5cb000ee456bff9b36c5256a4",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Port of Santos container vessel, cranes and cargo handling match the Latin America FOB/CIF logistics guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "fr": {
+      "title": "Comparer les devis FOB et CIF de véhicules pour l'Amérique latine",
+      "seo_title": "Amérique latine : contrôle devis véhicule FOB ou CIF",
+      "meta_description": "Comparez FOB et CIF pour un pays et un port latino-américains précis, avec fret, assurance, licences, valeur en douane, origine et immatriculation.",
+      "summary": "Pour comparer FOB et CIF en Amérique latine, séparez frais portuaires, traduction des documents et première immatriculation. Le fret maritime ne suffit pas à expliquer le coût final.",
+      "eyebrow": "Audit des devis latino-américains",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../fr/index.html\">Accueil</a><span>/</span><a href=\"../../fr/guides/index.html\">Guides</a><span>/</span><span>Comparer les devis FOB et CIF de véhicules pour l&#39;Amérique latine</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">Audit des devis latino-américains</p>\n      <h1>Comparer les devis FOB et CIF de véhicules pour l&#39;Amérique latine</h1>\n      <p class=\"lead\">Pour comparer FOB et CIF en Amérique latine, séparez frais portuaires, traduction des documents et première immatriculation. Le fret maritime ne suffit pas à expliquer le coût final.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/port-santos-jpg.jpg\" alt=\"Porte-conteneurs et grues à quai au port de Santos\" loading=\"lazy\"><figcaption>Porte-conteneurs et grues à quai au port de Santos. Photo d’illustration, et non compte rendu d’une inspection ou d’une transaction AutoBridge.</figcaption></figure>\n      <h2>Définir pays, port et ville d&#39;immatriculation</h2>\n      <p>Indiquez pays, terminal, importateur, date de déclaration, ville d&#39;immatriculation et lieu de remise. Les façades Pacifique, Caraïbe et Atlantique n&#39;ont pas les mêmes services ni transbordements; « CIF Amérique latine » n&#39;est donc pas une destination exploitable. Figez année, version, énergie, état et VIN, puis faites confirmer politique sur l&#39;occasion, conformité, licence et dossier d&#39;immatriculation. Les procédures du Pérou, du Brésil, de la Colombie et du Chili sont nationales et ne se remplacent pas.</p>\n      <h2>Tracer la limite chinoise avec une règle précise</h2>\n      <p>Le FOB doit nommer le port chinois et ventiler collecte, route intérieure, inspection, déclaration, terminal et embarquement; le risque passe normalement à bord du navire choisi par l&#39;acheteur. Le CIF nomme le port de destination et le vendeur paie fret et assurance, mais le risque passe encore en Chine. Si le conteneur est remis avant le chargement, étudiez FCA; pour un trajet multimodal assuré par le vendeur, étudiez CIP. Ajoutez point précis, Incoterms 2020, mode, transbordement, validité de réservation et périodes estimées.</p>\n      <h2>Construire le grand livre local</h2>\n      <p>Additionnez véhicule, origine chinoise, fret et assurance, déchargement et documents, terminal et contrôle, courtier et licence, droits et taxes, livraison intérieure, adaptation et immatriculation. Chaque ligne porte devise, taxe, unité, bénéficiaire, validité et preuve, avec un libellé espagnol ou portugais correspondant à la facture locale. Un agent nommé doit séparer armateur, terminal, administration, inspection et honoraires. Pour stockage ou detention, inscrivez franchise et déclencheur, et résolvez les exclusions avant émission du connaissement.</p>\n      <h2>Dissocier valeur douanière et préférence d&#39;origine</h2>\n      <p>Selon l&#39;OMD, facture et valeur en douane ne coïncident pas automatiquement. Le Brésil traite déclaration, licence et évaluation comme procédures internes; la VUCE colombienne gère enregistrements et autorisations. Faites calculer classement, état, origine, relation, fret, assurance et change, avec preuves séparées. Une expédition chinoise ou un certificat ordinaire ne garantit pas un tarif préférentiel: il faut accord applicable, règle produit satisfaite, émetteur autorisé et preuve acceptée. Budgétez d&#39;abord sans préférence.</p>\n      <h2>Faire converger paiement et immatriculation</h2>\n      <p>Facture, liste VIN, export chinois, origine, conformité, projet de connaissement et assurance doivent reprendre les mêmes marque, modèle, année, valeur, ports et parties. Faites valider avant départ traductions, authentifications et permis électroniques. Calculez FOB et CIF jusqu&#39;à la même ville avec port, fiscalité, risque d&#39;évaluation, route, adaptation, change et retard. Un bon transitaire peut favoriser FOB ou FCA et une réservation transparente peut favoriser CIF, mais aucun terme ne délivre licence, préférence, homologation ou titre routier.</p>\n      <h2>Questions fréquentes</h2>\n      <h3>CIF comprend-il droits et taxes ?</h3>\n      <p>Pas par déduction. Le contrat et le droit national doivent attribuer séparément dédouanement et fiscalité.</p>\n      <h3>Un certificat chinois garantit-il une préférence ?</h3>\n      <p>Non. Il faut un accord applicable, la règle du véhicule et une preuve acceptable.</p>\n      <h3>La procédure brésilienne vaut-elle ailleurs ?</h3>\n      <p>Non. Chaque pays conserve ses licences, son évaluation et son immatriculation.</p>\n      <h3>Pourquoi nommer la ville finale ?</h3>\n      <p>La mainlevée portuaire ne vaut pas immatriculation; le marché final détermine les pièces locales.</p>\n\n      <h2>Sources</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Frequently Asked Questions on Customs Valuation</a><span>World Customs Organization · 2026-08-22</span></li>\n        <li><a href=\"https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/despacho-de-importacao\" target=\"_blank\" rel=\"noopener noreferrer\">Manual Aduaneiro de Importação</a><span>Receita Federal do Brasil · 2026-08-22</span></li>\n        <li><a href=\"https://vuce.gov.co/vuce/tramites-y-servicios-de-la-vuce\" target=\"_blank\" rel=\"noopener noreferrer\">Trámites y Servicios de la VUCE</a><span>Ventanilla Única de Comercio Exterior de Colombia · 2026-08-22</span></li>\n        <li><a href=\"https://www.sunat.gob.pe/orientacionaduanera/importacionvehiculos/\" target=\"_blank\" rel=\"noopener noreferrer\">Importación de Vehículos</a><span>Superintendencia Nacional de Aduanas y de Administración Tributaria del Perú · 2026-08-22</span></li>\n        <li><a href=\"https://www.chileatiende.gob.cl/fichas/3388-primera-inscripcion-de-vehiculos-motorizados\" target=\"_blank\" rel=\"noopener noreferrer\">Primera Inscripción de Vehículos Motorizados</a><span>ChileAtiende · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/port-santos-jpg.jpg",
+        "alt": "Porte-conteneurs et grues à quai au port de Santos",
+        "caption": "Porte-conteneurs et grues à quai au port de Santos. Photo d’illustration, et non compte rendu d’une inspection ou d’une transaction AutoBridge.",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Port Santos.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Port_Santos.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Port_Santos.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Port_Santos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY 3.0",
+        "artist": "Claus Bunks aka Afrobrasil on flickr",
+        "credit": "Own work",
+        "candidate_description": "SBSA TECON, Port of Santos, Brasil, with the ALIANCA EUROPA IMO Number: 9000742 MMSI Number: 710045000 Callsign: PPSV Length: 200 m Beam: 32 m",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "84beddb95b9ee60760d792ec447d615513517ad5cb000ee456bff9b36c5256a4",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Port of Santos container vessel, cranes and cargo handling match the Latin America FOB/CIF logistics guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "de": {
+      "title": "FOB- und CIF-Fahrzeugangebote für Lateinamerika vergleichen",
+      "seo_title": "Lateinamerika: FOB- oder CIF-Fahrzeugangebot prüfen",
+      "meta_description": "Vergleichen Sie FOB und CIF für ein konkretes Land und einen Hafen samt Fracht, Versicherung, Lizenz, Zollwert, Ursprung und Zulassung.",
+      "summary": "Lateinamerika ist kein einheitliches Einfuhrgebiet. Die Prüfung verbindet Seelieferung, nationale Genehmigung und Erstzulassung.",
+      "eyebrow": "Angebotsaudit Lateinamerika",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../de/index.html\">Startseite</a><span>/</span><a href=\"../../de/guides/index.html\">Leitfäden</a><span>/</span><span>FOB- und CIF-Fahrzeugangebote für Lateinamerika vergleichen</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">Angebotsaudit Lateinamerika</p>\n      <h1>FOB- und CIF-Fahrzeugangebote für Lateinamerika vergleichen</h1>\n      <p class=\"lead\">Lateinamerika ist kein einheitliches Einfuhrgebiet. Die Prüfung verbindet Seelieferung, nationale Genehmigung und Erstzulassung.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/port-santos-jpg.jpg\" alt=\"Containerschiff und Hafenkräne in Santos\" loading=\"lazy\"><figcaption>Containerschiff und Hafenkräne in Santos. Beispielfoto, kein Nachweis einer Prüfung oder eines Geschäfts von AutoBridge.</figcaption></figure>\n      <h2>Land, Hafen und Zulassungsstadt festlegen</h2>\n      <p>Nennen Sie Bestimmungsland, Terminal, Importeur, erwarteten Anmeldungstag, Zulassungsstadt und Übergabepunkt. Pazifik-, Karibik- und Atlantikdienste haben andere Umladungen; „CIF Lateinamerika“ ist kein ausführbarer Ort. Fixieren Sie Modelljahr, Variante, Antrieb, Zustand und VIN und lassen Sie Gebrauchtwarenregel, Konformität, Lizenz und Zulassungsakte bestätigen. Peru, Brasilien, Kolumbien und Chile zeigen jeweils nationale Verfahren, die nicht gegenseitig gelten.</p>\n      <h2>China- und Seegrenze präzise ziehen</h2>\n      <p>FOB nennt den chinesischen Hafen und weist Abholung, Vorlauf, Prüfung, Anmeldung, Terminal und Verladung aus; die Gefahr geht regelmäßig an Bord über. CIF nennt den Zielhafen, der Verkäufer bezahlt Fracht und Versicherung, die Gefahr geht trotzdem in China über. Bei Containerübergabe vor Verladung ist FCA, bei versichertem multimodalem Verkäufertransport CIP zu prüfen. Ergänzen Sie genauen Punkt, Incoterms 2020, Modus, Umladung, Buchungsgültigkeit und Fahrplanfenster.</p>\n      <h2>Ein lokales Kostenbuch aufbauen</h2>\n      <p>Addieren Sie Fahrzeug, chinesische Ursprungskosten, Seefracht und Versicherung, Löschung und Dokumente, Terminal und Beschau, Broker und Lizenz, Abgaben, Inland, Umbau und Erstzulassung. Jede Zeile enthält Währung, Steuer, Einheit, Empfänger, Gültigkeit und Beleg; spanische oder portugiesische Begriffe müssen zur lokalen Rechnung passen. Ein benannter Agent trennt Reederei, Terminal, Behörden, Inspektion und eigene Gebühr. Für Lagerung und Detention stehen Freitage und Auslöser fest, bevor das Konnossement ausgestellt wird.</p>\n      <h2>Zollwert und Ursprungsvorteil getrennt beweisen</h2>\n      <p>Die WZO erklärt, dass Rechnung und Zollwert nicht automatisch gleich sind. Brasilien behandelt Erklärung, Lizenz und Bewertung national, Kolumbiens VUCE verwaltet Registrierungen und Genehmigungen. Der Importeur rechnet Einreihung, Zustand, Ursprung, Beziehung, Fracht, Versicherung und Wechselkurs mit getrennten Belegen. Versand aus China oder ein gewöhnliches Ursprungszeugnis garantiert keine Präferenz: Abkommen, Produktregel, zulässiger Aussteller und fristgerechter Nachweis müssen zusammenpassen. Planen Sie zunächst ohne Vorteil.</p>\n      <h2>Zahlung und Erstzulassung auf gleiche Daten stützen</h2>\n      <p>Rechnung, VIN-Liste, chinesische Exportakte, Ursprung, Konformität, Konnossementsentwurf und Versicherung müssen Marke, Modell, Jahr, Wert, Häfen und Parteien identisch führen. Übersetzung, Beglaubigung und elektronische Lizenz werden vor Versand validiert. Rechnen Sie FOB und CIF zur gleichen Stadt mit Hafen, Steuer, Bewertungsrisiko, Inland, Umbau, Währung und Verzögerung. Ein eigener Spediteur kann FOB oder FCA, eine offene Buchung CIF begünstigen; keine Regel erteilt Einfuhrrecht, Präferenz, Homologation oder Fahrzeugtitel.</p>\n      <h2>Häufige Fragen</h2>\n      <h3>Enthält CIF Einfuhrabgaben?</h3>\n      <p>Nicht automatisch. Vertrag und Landesrecht müssen Abfertigung und Steuern gesondert zuweisen.</p>\n      <h3>Garantiert ein chinesisches Ursprungszeugnis Präferenz?</h3>\n      <p>Nein. Abkommen, fahrzeugspezifische Regel und akzeptierter Nachweis sind nötig.</p>\n      <h3>Gilt Brasiliens Verfahren in anderen Ländern?</h3>\n      <p>Nein. Jedes Land hat eigene Lizenz-, Bewertungs- und Zulassungswege.</p>\n      <h3>Warum die Endstadt nennen?</h3>\n      <p>Hafenfreigabe ist keine Straßenzulassung; der Endmarkt bestimmt lokale Belege.</p>\n\n      <h2>Quellen</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Frequently Asked Questions on Customs Valuation</a><span>World Customs Organization · 2026-08-22</span></li>\n        <li><a href=\"https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/despacho-de-importacao\" target=\"_blank\" rel=\"noopener noreferrer\">Manual Aduaneiro de Importação</a><span>Receita Federal do Brasil · 2026-08-22</span></li>\n        <li><a href=\"https://vuce.gov.co/vuce/tramites-y-servicios-de-la-vuce\" target=\"_blank\" rel=\"noopener noreferrer\">Trámites y Servicios de la VUCE</a><span>Ventanilla Única de Comercio Exterior de Colombia · 2026-08-22</span></li>\n        <li><a href=\"https://www.sunat.gob.pe/orientacionaduanera/importacionvehiculos/\" target=\"_blank\" rel=\"noopener noreferrer\">Importación de Vehículos</a><span>Superintendencia Nacional de Aduanas y de Administración Tributaria del Perú · 2026-08-22</span></li>\n        <li><a href=\"https://www.chileatiende.gob.cl/fichas/3388-primera-inscripcion-de-vehiculos-motorizados\" target=\"_blank\" rel=\"noopener noreferrer\">Primera Inscripción de Vehículos Motorizados</a><span>ChileAtiende · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/port-santos-jpg.jpg",
+        "alt": "Containerschiff und Hafenkräne in Santos",
+        "caption": "Containerschiff und Hafenkräne in Santos. Beispielfoto, kein Nachweis einer Prüfung oder eines Geschäfts von AutoBridge.",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Port Santos.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Port_Santos.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Port_Santos.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Port_Santos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY 3.0",
+        "artist": "Claus Bunks aka Afrobrasil on flickr",
+        "credit": "Own work",
+        "candidate_description": "SBSA TECON, Port of Santos, Brasil, with the ALIANCA EUROPA IMO Number: 9000742 MMSI Number: 710045000 Callsign: PPSV Length: 200 m Beam: 32 m",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "84beddb95b9ee60760d792ec447d615513517ad5cb000ee456bff9b36c5256a4",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Port of Santos container vessel, cranes and cargo handling match the Latin America FOB/CIF logistics guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "es": {
+      "title": "Comparar cotizaciones FOB y CIF de vehículos para América Latina",
+      "seo_title": "América Latina: revisión de vehículo FOB o CIF",
+      "meta_description": "Compare FOB y CIF para un país y puerto concretos, con flete, seguro, licencia, valoración, origen y primera matrícula.",
+      "summary": "Al comparar FOB y CIF en América Latina, separe gastos portuarios, traducciones documentales y primera inscripción. Verifique esas obligaciones antes de atribuir la diferencia de precio al flete marítimo.",
+      "eyebrow": "Auditoría de cotizaciones latinoamericanas",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../es/index.html\">Inicio</a><span>/</span><a href=\"../../es/guides/index.html\">Guías</a><span>/</span><span>Comparar cotizaciones FOB y CIF de vehículos para América Latina</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">Auditoría de cotizaciones latinoamericanas</p>\n      <h1>Comparar cotizaciones FOB y CIF de vehículos para América Latina</h1>\n      <p class=\"lead\">Al comparar FOB y CIF en América Latina, separe gastos portuarios, traducciones documentales y primera inscripción. Verifique esas obligaciones antes de atribuir la diferencia de precio al flete marítimo.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/port-santos-jpg.jpg\" alt=\"Buque portacontenedores y grúas en el puerto de Santos\" loading=\"lazy\"><figcaption>Buque portacontenedores y grúas en el puerto de Santos. Fotografía ilustrativa; no documenta una inspección ni una operación de AutoBridge.</figcaption></figure>\n      <h2>Definir país, terminal y ciudad de matrícula</h2>\n      <p>Indique país, terminal de descarga, importador, fecha prevista de declaración, ciudad de matrícula y lugar de entrega. Los servicios del Pacífico, Caribe y Atlántico tienen escalas distintas; “CIF América Latina” no es un destino ejecutable. Fije año, versión, propulsión, condición y VIN, y valide política de usados, conformidad, licencia y expediente registral. Perú, Brasil, Colombia y Chile ilustran procedimientos nacionales que no se sustituyen entre sí.</p>\n      <h2>Trazar el límite chino con una regla exacta</h2>\n      <p>FOB debe nombrar puerto chino y abrir recogida, transporte interior, inspección, declaración, terminal y carga; el riesgo suele pasar a bordo. CIF nombra puerto destino, el vendedor paga flete y seguro, pero el riesgo también pasa en China. Si el contenedor se entrega antes de cargar, evalúe FCA; si el vendedor organiza transporte multimodal asegurado, evalúe CIP. Añada punto, Incoterms 2020, modo, transbordo, vigencia de reserva y ventanas estimadas.</p>\n      <h2>Construir el libro de costos local</h2>\n      <p>Sume vehículo, origen chino, flete y seguro, descarga y documentos, terminal y revisión, agente y licencia, aranceles e impuestos, reparto, adaptación y matrícula. Cada línea lleva moneda, impuesto, unidad, beneficiario, vigencia y comprobante, con nombre español o portugués que coincida con la factura. Un agente identificado separa naviera, terminal, gobierno, inspección y honorarios. Para almacenaje o detención registre días libres y hecho activador antes de emitir el conocimiento.</p>\n      <h2>Probar por separado valor y preferencia de origen</h2>\n      <p>La OMA aclara que factura y valor aduanero no son automáticamente iguales. Brasil trata declaración, licencia y valoración como procesos propios; VUCE Colombia gestiona registros y autorizaciones. El importador calcula clasificación, estado, origen, relación, flete, seguro y cambio con pruebas separadas. Salir de China o tener un certificado común no garantiza preferencia: hacen falta acuerdo aplicable, regla del vehículo, emisor habilitado y prueba aceptada a tiempo. Presupueste primero sin beneficio.</p>\n      <h2>Unir pago y primera matrícula en los mismos datos</h2>\n      <p>Factura, lista VIN, expediente exportador, origen, conformidad, borrador del conocimiento y seguro deben coincidir en marca, modelo, año, valor, puertos y partes. Valide traducción, autenticación y licencia electrónica antes de embarcar. Calcule FOB y CIF a la misma ciudad con puerto, impuestos, riesgo de ajuste, interior, adaptación, divisa y demora. Un transitario propio puede favorecer FOB o FCA y una reserva transparente CIF; ningún término otorga permiso, preferencia, homologación o título vial.</p>\n      <h2>Preguntas frecuentes</h2>\n      <h3>¿CIF incluye aranceles e impuestos?</h3>\n      <p>No por sí solo. Contrato y ley nacional deben asignar despacho y tributos por separado.</p>\n      <h3>¿Un certificado chino garantiza preferencia?</h3>\n      <p>No. Se necesita acuerdo aplicable, regla del vehículo y prueba aceptable.</p>\n      <h3>¿El proceso brasileño sirve en otro país?</h3>\n      <p>No. Cada mercado conserva licencias, valoración y matrícula propias.</p>\n      <h3>¿Por qué nombrar la ciudad final?</h3>\n      <p>El levante portuario no es matrícula; el mercado final define documentos locales.</p>\n\n      <h2>Fuentes</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Frequently Asked Questions on Customs Valuation</a><span>World Customs Organization · 2026-08-22</span></li>\n        <li><a href=\"https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/despacho-de-importacao\" target=\"_blank\" rel=\"noopener noreferrer\">Manual Aduaneiro de Importação</a><span>Receita Federal do Brasil · 2026-08-22</span></li>\n        <li><a href=\"https://vuce.gov.co/vuce/tramites-y-servicios-de-la-vuce\" target=\"_blank\" rel=\"noopener noreferrer\">Trámites y Servicios de la VUCE</a><span>Ventanilla Única de Comercio Exterior de Colombia · 2026-08-22</span></li>\n        <li><a href=\"https://www.sunat.gob.pe/orientacionaduanera/importacionvehiculos/\" target=\"_blank\" rel=\"noopener noreferrer\">Importación de Vehículos</a><span>Superintendencia Nacional de Aduanas y de Administración Tributaria del Perú · 2026-08-22</span></li>\n        <li><a href=\"https://www.chileatiende.gob.cl/fichas/3388-primera-inscripcion-de-vehiculos-motorizados\" target=\"_blank\" rel=\"noopener noreferrer\">Primera Inscripción de Vehículos Motorizados</a><span>ChileAtiende · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/port-santos-jpg.jpg",
+        "alt": "Buque portacontenedores y grúas en el puerto de Santos",
+        "caption": "Buque portacontenedores y grúas en el puerto de Santos. Fotografía ilustrativa; no documenta una inspección ni una operación de AutoBridge.",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Port Santos.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Port_Santos.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Port_Santos.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Port_Santos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY 3.0",
+        "artist": "Claus Bunks aka Afrobrasil on flickr",
+        "credit": "Own work",
+        "candidate_description": "SBSA TECON, Port of Santos, Brasil, with the ALIANCA EUROPA IMO Number: 9000742 MMSI Number: 710045000 Callsign: PPSV Length: 200 m Beam: 32 m",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "84beddb95b9ee60760d792ec447d615513517ad5cb000ee456bff9b36c5256a4",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Port of Santos container vessel, cranes and cargo handling match the Latin America FOB/CIF logistics guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "pt-br": {
+      "title": "Comparar cotações FOB e CIF de veículos para a América Latina",
+      "seo_title": "América Latina: confira veículo FOB ou CIF",
+      "meta_description": "Compare FOB e CIF para país e porto específicos, com frete, seguro, licença, valoração, origem e primeiro registro.",
+      "summary": "A América Latina não é um regime único. A revisão conecta entrega marítima, processo nacional e registro usando os mesmos dados do VIN.",
+      "eyebrow": "Auditoria de cotações latino-americanas",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../pt-br/index.html\">Início</a><span>/</span><a href=\"../../pt-br/guides/index.html\">Guias</a><span>/</span><span>Comparar cotações FOB e CIF de veículos para a América Latina</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">Auditoria de cotações latino-americanas</p>\n      <h1>Comparar cotações FOB e CIF de veículos para a América Latina</h1>\n      <p class=\"lead\">A América Latina não é um regime único. A revisão conecta entrega marítima, processo nacional e registro usando os mesmos dados do VIN.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/port-santos-jpg.jpg\" alt=\"Navio porta-contêineres e guindastes no porto de Santos\" loading=\"lazy\"><figcaption>Navio porta-contêineres e guindastes no porto de Santos. Foto ilustrativa; não documenta uma inspeção ou transação da AutoBridge.</figcaption></figure>\n      <h2>Defina país, terminal e cidade de registro</h2>\n      <p>Informe país, terminal, importador, data provável da declaração, cidade de registro e local de entrega. Serviços do Pacífico, Caribe e Atlântico têm escalas diferentes; “CIF América Latina” não é destino executável. Fixe ano, versão, propulsão, condição e VIN e valide regra de usados, conformidade, licença e arquivo registral. Peru, Brasil, Colômbia e Chile mostram processos nacionais que não substituem um ao outro.</p>\n      <h2>Trace a fronteira chinesa com regra exata</h2>\n      <p>FOB deve nomear porto chinês e abrir coleta, transporte interno, inspeção, declaração, terminal e embarque; o risco costuma passar a bordo. CIF nomeia porto destino, o vendedor paga frete e seguro, mas o risco também passa na China. Se o contêiner é entregue antes do navio, avalie FCA; se o vendedor organiza percurso multimodal segurado, avalie CIP. Acrescente ponto, Incoterms 2020, modo, transbordo, validade da reserva e janelas estimadas.</p>\n      <h2>Monte o livro de custos no idioma local</h2>\n      <p>Some veículo, origem chinesa, frete e seguro, descarga e documentos, terminal e fiscalização, despachante e licença, tributos, entrega, adaptação e registro. Cada linha traz moeda, imposto, unidade, favorecido, validade e prova, com nome em espanhol ou português igual à fatura. Um agente identificado separa armador, terminal, governo, inspeção e honorários. Para armazenagem ou detention, anote dias livres e gatilho antes da emissão do conhecimento.</p>\n      <h2>Prove separadamente valor e preferência de origem</h2>\n      <p>A OMA esclarece que fatura e valor aduaneiro não são automaticamente iguais. O Brasil trata declaração, licença e valoração como processos próprios; a VUCE colombiana administra registros e autorizações. O importador calcula classificação, estado, origem, relação, frete, seguro e câmbio com provas separadas. Sair da China ou ter certificado comum não garante preferência: é preciso acordo, regra do veículo, emissor habilitado e prova aceita no prazo. Orce primeiro sem benefício.</p>\n      <h2>Alinhe pagamento e primeiro registro</h2>\n      <p>Fatura, lista VIN, exportação, origem, conformidade, minuta do conhecimento e seguro devem coincidir em marca, modelo, ano, valor, portos e partes. Valide tradução, autenticação e licença eletrônica antes do embarque. Calcule FOB e CIF à mesma cidade com porto, tributos, risco de ajuste, interior, adaptação, moeda e atraso. Agente próprio pode favorecer FOB ou FCA e reserva transparente CIF; nenhum termo concede licença, preferência, homologação ou documento do veículo. Vincule a parcela final à entrega dos originais ou registros eletrônicos aceitos no primeiro emplacamento.</p>\n      <h2>Perguntas frequentes</h2>\n      <h3>CIF inclui imposto e tributos?</h3>\n      <p>Não automaticamente. Contrato e lei nacional devem atribuir desembaraço e cobrança separadamente.</p>\n      <h3>Certificado chinês garante preferência?</h3>\n      <p>Não. É necessário acordo, regra específica do veículo e prova aceita.</p>\n      <h3>O processo brasileiro vale em outro país?</h3>\n      <p>Não. Cada mercado mantém licença, valoração e registro próprios.</p>\n      <h3>Por que nomear a cidade final?</h3>\n      <p>Liberação no porto não é registro; o mercado final determina documentos locais.</p>\n\n      <h2>Fontes</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Frequently Asked Questions on Customs Valuation</a><span>World Customs Organization · 2026-08-22</span></li>\n        <li><a href=\"https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/despacho-de-importacao\" target=\"_blank\" rel=\"noopener noreferrer\">Manual Aduaneiro de Importação</a><span>Receita Federal do Brasil · 2026-08-22</span></li>\n        <li><a href=\"https://vuce.gov.co/vuce/tramites-y-servicios-de-la-vuce\" target=\"_blank\" rel=\"noopener noreferrer\">Trámites y Servicios de la VUCE</a><span>Ventanilla Única de Comercio Exterior de Colombia · 2026-08-22</span></li>\n        <li><a href=\"https://www.sunat.gob.pe/orientacionaduanera/importacionvehiculos/\" target=\"_blank\" rel=\"noopener noreferrer\">Importación de Vehículos</a><span>Superintendencia Nacional de Aduanas y de Administración Tributaria del Perú · 2026-08-22</span></li>\n        <li><a href=\"https://www.chileatiende.gob.cl/fichas/3388-primera-inscripcion-de-vehiculos-motorizados\" target=\"_blank\" rel=\"noopener noreferrer\">Primera Inscripción de Vehículos Motorizados</a><span>ChileAtiende · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/port-santos-jpg.jpg",
+        "alt": "Navio porta-contêineres e guindastes no porto de Santos",
+        "caption": "Navio porta-contêineres e guindastes no porto de Santos. Foto ilustrativa; não documenta uma inspeção ou transação da AutoBridge.",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Port Santos.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Port_Santos.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Port_Santos.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Port_Santos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY 3.0",
+        "artist": "Claus Bunks aka Afrobrasil on flickr",
+        "credit": "Own work",
+        "candidate_description": "SBSA TECON, Port of Santos, Brasil, with the ALIANCA EUROPA IMO Number: 9000742 MMSI Number: 710045000 Callsign: PPSV Length: 200 m Beam: 32 m",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "84beddb95b9ee60760d792ec447d615513517ad5cb000ee456bff9b36c5256a4",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Port of Santos container vessel, cranes and cargo handling match the Latin America FOB/CIF logistics guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "ja": {
+      "title": "ラテンアメリカ向け中国車のFOB・CIFを初回登録まで比較する",
+      "seo_title": "ラテンアメリカ車両FOB・CIF見積確認",
+      "meta_description": "特定国と港について、運賃、保険、許可、関税評価、原産地、初回登録を含むFOBとCIFを比較します。",
+      "summary": "ラテンアメリカは単一輸入制度ではありません。海上引渡しと国別手続、VIN登録書類を一つの費用表で結びます。",
+      "eyebrow": "ラテンアメリカ見積監査",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../ja/index.html\">ホーム</a><span>/</span><a href=\"../../ja/guides/index.html\">購入ガイド</a><span>/</span><span>ラテンアメリカ向け中国車のFOB・CIFを初回登録まで比較する</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">ラテンアメリカ見積監査</p>\n      <h1>ラテンアメリカ向け中国車のFOB・CIFを初回登録まで比較する</h1>\n      <p class=\"lead\">ラテンアメリカは単一輸入制度ではありません。海上引渡しと国別手続、VIN登録書類を一つの費用表で結びます。</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/port-santos-jpg.jpg\" alt=\"サントス港のコンテナ船と岸壁クレーン\" loading=\"lazy\"><figcaption>サントス港のコンテナ船と岸壁クレーン. 参考写真です。AutoBridgeによる検査や取引の記録ではありません。</figcaption></figure>\n      <h2>国、港、登録都市を決める</h2>\n      <p>国、荷揚げターミナル、輸入者、申告予定日、登録都市、引渡場所を記載します。太平洋、カリブ、大西洋は航路と積替が異なり、「CIF Latin America」は実行可能な地点ではありません。年式、仕様、動力、状態、VINを固定し、中古品規制、適合、許可、登録資料を確認します。ペルー、ブラジル、コロンビア、チリの制度は各国専用です。</p>\n      <h2>中国側の境界を正確に書く</h2>\n      <p>FOBは中国港と集荷、陸送、検査、申告、ターミナル、積込みを分け、危険は通常本船上で移ります。CIFは目的港を示し売主が運賃と保険を手配しますが、危険は中国で移ります。コンテナを積込み前に渡すならFCA、売主が保険付き複合輸送を行うならCIPを検討し、正確な点、Incoterms 2020、輸送方式、積替、予約期限を明記します。</p>\n      <h2>現地費用台帳を作る</h2>\n      <p>車両、中国側、海上運賃・保険、荷揚げ・書類、港・検査、通関・許可、税、内陸、改造、登録を足します。各行に通貨、税、単位、受取人、期限、証拠を置き、スペイン語またはポルトガル語の請求名と一致させます。現地代理は船社、港、政府、検査、自社手数料を分離し、保管やコンテナ超過の無料日数と開始条件をB/L発行前に示します。</p>\n      <h2>関税評価と原産地優遇を別に証明する</h2>\n      <p>WCOによれば請求書と関税評価額は自動的に同じではありません。ブラジルの申告・許可・評価、コロンビアVUCEの登録・認可は国内手続です。輸入者は分類、状態、原産地、関係、運賃、保険、為替を別証拠で計算します。中国からの出荷や一般原産地証明だけでは優遇されず、協定、車両別規則、適格発行者、期限内証明が必要です。まず無優遇で予算化します。</p>\n      <h2>支払と登録データを一致させる</h2>\n      <p>請求書、VIN表、輸出、原産地、適合、B/L案、保険のブランド、型式、年、価額、港、当事者を一致させ、翻訳、認証、電子許可を出荷前に検証します。FOBとCIFを同じ登録都市まで、港、税、評価変動、内陸、改造、為替、遅延込みで比較します。自社フォワーダーならFOBやFCA、透明な予約ならCIFが便利でも、輸入許可、優遇、型式承認、登録証は別です。最終金は登録に使える書類の引渡しにも連動させます。</p>\n      <h2>よくある質問</h2>\n      <h3>CIFに関税・輸入税は含まれますか。</h3>\n      <p>自動的には含まれません。契約と国内法で通関と税を別に割り当てます。</p>\n      <h3>中国原産地証明で優遇されますか。</h3>\n      <p>必ずではありません。適用協定、車両規則、受理可能な証明が必要です。</p>\n      <h3>ブラジル手続は他国でも使えますか。</h3>\n      <p>いいえ。各国に独自の許可、評価、登録制度があります。</p>\n      <h3>なぜ最終都市を記載しますか。</h3>\n      <p>港の引取許可は道路登録ではなく、最終市場が必要書類を決めるためです。</p>\n\n      <h2>情報源</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Frequently Asked Questions on Customs Valuation</a><span>World Customs Organization · 2026-08-22</span></li>\n        <li><a href=\"https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/despacho-de-importacao\" target=\"_blank\" rel=\"noopener noreferrer\">Manual Aduaneiro de Importação</a><span>Receita Federal do Brasil · 2026-08-22</span></li>\n        <li><a href=\"https://vuce.gov.co/vuce/tramites-y-servicios-de-la-vuce\" target=\"_blank\" rel=\"noopener noreferrer\">Trámites y Servicios de la VUCE</a><span>Ventanilla Única de Comercio Exterior de Colombia · 2026-08-22</span></li>\n        <li><a href=\"https://www.sunat.gob.pe/orientacionaduanera/importacionvehiculos/\" target=\"_blank\" rel=\"noopener noreferrer\">Importación de Vehículos</a><span>Superintendencia Nacional de Aduanas y de Administración Tributaria del Perú · 2026-08-22</span></li>\n        <li><a href=\"https://www.chileatiende.gob.cl/fichas/3388-primera-inscripcion-de-vehiculos-motorizados\" target=\"_blank\" rel=\"noopener noreferrer\">Primera Inscripción de Vehículos Motorizados</a><span>ChileAtiende · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/port-santos-jpg.jpg",
+        "alt": "サントス港のコンテナ船と岸壁クレーン",
+        "caption": "サントス港のコンテナ船と岸壁クレーン. 参考写真です。AutoBridgeによる検査や取引の記録ではありません。",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Port Santos.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Port_Santos.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Port_Santos.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Port_Santos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY 3.0",
+        "artist": "Claus Bunks aka Afrobrasil on flickr",
+        "credit": "Own work",
+        "candidate_description": "SBSA TECON, Port of Santos, Brasil, with the ALIANCA EUROPA IMO Number: 9000742 MMSI Number: 710045000 Callsign: PPSV Length: 200 m Beam: 32 m",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "84beddb95b9ee60760d792ec447d615513517ad5cb000ee456bff9b36c5256a4",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Port of Santos container vessel, cranes and cargo handling match the Latin America FOB/CIF logistics guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "ko": {
+      "title": "라틴아메리카행 중국 차량 FOB·CIF를 최초등록까지 비교하기",
+      "seo_title": "라틴아메리카 차량 FOB·CIF 견적 점검",
+      "meta_description": "특정 국가와 항만을 기준으로 운임, 보험, 허가, 세관평가, 원산지, 최초등록을 포함한 FOB와 CIF를 비교합니다.",
+      "summary": "라틴아메리카는 단일 수입권역이 아닙니다. 해상인도와 국가별 절차, VIN 등록자료를 하나의 비용표로 연결합니다.",
+      "eyebrow": "라틴아메리카 견적감사",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../ko/index.html\">홈</a><span>/</span><a href=\"../../ko/guides/index.html\">구매 가이드</a><span>/</span><span>라틴아메리카행 중국 차량 FOB·CIF를 최초등록까지 비교하기</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">라틴아메리카 견적감사</p>\n      <h1>라틴아메리카행 중국 차량 FOB·CIF를 최초등록까지 비교하기</h1>\n      <p class=\"lead\">라틴아메리카는 단일 수입권역이 아닙니다. 해상인도와 국가별 절차, VIN 등록자료를 하나의 비용표로 연결합니다.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/port-santos-jpg.jpg\" alt=\"산투스항의 컨테이너선과 부두 크레인\" loading=\"lazy\"><figcaption>산투스항의 컨테이너선과 부두 크레인. 참고 사진이며 AutoBridge의 검사 또는 거래 기록이 아닙니다.</figcaption></figure>\n      <h2>국가, 항만과 등록도시를 정한다</h2>\n      <p>국가, 양하터미널, 수입자, 신고예정일, 등록도시와 인도지점을 적습니다. 태평양, 카리브, 대서양 서비스는 환적이 달라 ‘CIF Latin America’는 실행 가능한 목적지가 아닙니다. 연식, 사양, 동력, 상태, VIN을 고정하고 중고규제, 적합성, 허가, 등록자료를 확인합니다. 페루, 브라질, 콜롬비아와 칠레 절차는 각 국가에만 적용됩니다.</p>\n      <h2>중국측 경계를 정확히 그린다</h2>\n      <p>FOB는 중국항과 집하, 내륙, 검사, 신고, 터미널, 적재를 분리하고 위험은 보통 본선에서 이전됩니다. CIF는 목적항을 쓰고 판매자가 운임과 보험을 마련하지만 위험은 중국에서 이전됩니다. 컨테이너를 선적 전에 넘기면 FCA, 판매자가 보험 포함 복합운송을 맡으면 CIP를 검토하고 정확한 지점, Incoterms 2020, 방식, 환적과 예약기한을 명시합니다.</p>\n      <h2>현지 비용원장을 만든다</h2>\n      <p>차량, 중국 원산지비용, 해상운임·보험, 양하·서류, 항만·검사, 통관·허가, 세금, 내륙, 개조, 등록을 더합니다. 각 줄에 통화, 세금, 단위, 수취인, 유효기간, 증거를 놓고 스페인어나 포르투갈어 현지 청구명과 맞춥니다. 현지대리인은 선사, 터미널, 정부, 검사, 수수료를 분리하며 보관과 컨테이너 초과의 무료기간과 시작조건을 B/L 발행 전에 제시합니다.</p>\n      <h2>과세가격과 원산지혜택을 따로 증명한다</h2>\n      <p>WCO에 따르면 송장과 과세가격은 자동으로 같지 않습니다. 브라질의 신고·허가·평가와 콜롬비아 VUCE의 등록·승인은 국내절차입니다. 수입자는 분류, 상태, 원산지, 관계, 운임, 보험, 환율을 별도 증거로 계산합니다. 중국출하나 일반 원산지증명만으로 특혜가 생기지 않으며 적용협정, 차량별 규칙, 적격 발행자와 기한내 증명이 필요합니다. 먼저 무특혜로 예산을 잡습니다.</p>\n      <h2>지급과 최초등록 자료를 일치시킨다</h2>\n      <p>송장, VIN표, 수출, 원산지, 적합성, B/L 초안과 보험의 브랜드, 모델, 연식, 가격, 항구, 당사자를 맞추고 번역, 인증, 전자허가를 선적 전에 검증합니다. FOB와 CIF를 같은 등록도시까지 항만, 세금, 평가변동, 내륙, 개조, 환율, 지연 포함으로 계산합니다. 자체 포워더는 FOB나 FCA, 투명한 예약은 CIF에 유리해도 수입허가, 특혜, 형식승인, 등록증은 별도입니다. 최종대금은 현지등록에 쓸 원본이나 검증 전자자료 인도와도 연계합니다.</p>\n      <p>수입자는 출항 전에 세번품목 설명, VIN 문자, 연식, 원산지, 항구코드, 수하인 세금번호가 송장, 허가신청, B/L과 적합자료에서 같은지 확인합니다. 현지 전자시스템이 번역, 서명이나 회사명 형식을 제한하면 중국에서 원본을 발행하기 전에 시험해야 하며, 정정 책임과 비용도 계약에 정합니다.</p>\n      <h2>자주 묻는 질문</h2>\n      <h3>CIF에 관세와 수입세가 포함됩니까?</h3>\n      <p>자동으로 포함되지 않습니다. 계약과 국내법이 통관과 세금을 별도로 배분해야 합니다.</p>\n      <h3>중국 원산지증명이 특혜를 보장합니까?</h3>\n      <p>아닙니다. 적용협정, 차량규칙과 수용 가능한 증명이 필요합니다.</p>\n      <h3>브라질 절차를 다른 나라에 쓸 수 있습니까?</h3>\n      <p>아닙니다. 각 국가는 자체 허가, 평가와 등록제도를 둡니다.</p>\n      <h3>왜 최종도시를 씁니까?</h3>\n      <p>항만반출은 도로등록이 아니며 최종시장이 현지자료를 결정하기 때문입니다.</p>\n\n      <h2>출처</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Frequently Asked Questions on Customs Valuation</a><span>World Customs Organization · 2026-08-22</span></li>\n        <li><a href=\"https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/despacho-de-importacao\" target=\"_blank\" rel=\"noopener noreferrer\">Manual Aduaneiro de Importação</a><span>Receita Federal do Brasil · 2026-08-22</span></li>\n        <li><a href=\"https://vuce.gov.co/vuce/tramites-y-servicios-de-la-vuce\" target=\"_blank\" rel=\"noopener noreferrer\">Trámites y Servicios de la VUCE</a><span>Ventanilla Única de Comercio Exterior de Colombia · 2026-08-22</span></li>\n        <li><a href=\"https://www.sunat.gob.pe/orientacionaduanera/importacionvehiculos/\" target=\"_blank\" rel=\"noopener noreferrer\">Importación de Vehículos</a><span>Superintendencia Nacional de Aduanas y de Administración Tributaria del Perú · 2026-08-22</span></li>\n        <li><a href=\"https://www.chileatiende.gob.cl/fichas/3388-primera-inscripcion-de-vehiculos-motorizados\" target=\"_blank\" rel=\"noopener noreferrer\">Primera Inscripción de Vehículos Motorizados</a><span>ChileAtiende · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/port-santos-jpg.jpg",
+        "alt": "산투스항의 컨테이너선과 부두 크레인",
+        "caption": "산투스항의 컨테이너선과 부두 크레인. 참고 사진이며 AutoBridge의 검사 또는 거래 기록이 아닙니다.",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Port Santos.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Port_Santos.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Port_Santos.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Port_Santos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY 3.0",
+        "artist": "Claus Bunks aka Afrobrasil on flickr",
+        "credit": "Own work",
+        "candidate_description": "SBSA TECON, Port of Santos, Brasil, with the ALIANCA EUROPA IMO Number: 9000742 MMSI Number: 710045000 Callsign: PPSV Length: 200 m Beam: 32 m",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "84beddb95b9ee60760d792ec447d615513517ad5cb000ee456bff9b36c5256a4",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Port of Santos container vessel, cranes and cargo handling match the Latin America FOB/CIF logistics guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "vi": {
+      "title": "So sánh FOB và CIF cho xe Trung Quốc vào Mỹ Latinh đến bước đăng ký đầu tiên",
+      "seo_title": "Mỹ Latinh: kiểm tra báo giá xe FOB hay CIF",
+      "meta_description": "So sánh FOB và CIF cho đúng quốc gia và cảng, gồm cước, bảo hiểm, giấy phép, trị giá, xuất xứ và đăng ký đầu tiên.",
+      "summary": "Mỹ Latinh không phải một chế độ nhập khẩu. Quy trình nối giao hàng biển, thủ tục quốc gia và hồ sơ VIN dùng để đăng ký.",
+      "eyebrow": "Kiểm toán báo giá Mỹ Latinh",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../vi/index.html\">Trang chủ</a><span>/</span><a href=\"../../vi/guides/index.html\">Hướng dẫn</a><span>/</span><span>So sánh FOB và CIF cho xe Trung Quốc vào Mỹ Latinh đến bước đăng ký đầu tiên</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">Kiểm toán báo giá Mỹ Latinh</p>\n      <h1>So sánh FOB và CIF cho xe Trung Quốc vào Mỹ Latinh đến bước đăng ký đầu tiên</h1>\n      <p class=\"lead\">Mỹ Latinh không phải một chế độ nhập khẩu. Quy trình nối giao hàng biển, thủ tục quốc gia và hồ sơ VIN dùng để đăng ký.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/port-santos-jpg.jpg\" alt=\"Tàu container và cần cẩu bến cảng tại Santos\" loading=\"lazy\"><figcaption>Tàu container và cần cẩu bến cảng tại Santos. Ảnh minh họa, không phải hồ sơ kiểm tra hoặc giao dịch của AutoBridge.</figcaption></figure>\n      <h2>Chốt quốc gia, cảng và thành phố đăng ký</h2>\n      <p>Ghi quốc gia, bến dỡ, nhà nhập khẩu, ngày khai dự kiến, thành phố đăng ký và điểm giao. Tuyến Thái Bình Dương, Caribe và Đại Tây Dương có chuyển tải khác nhau; “CIF Latin America” không phải đích có thể thực hiện. Khóa năm, phiên bản, động lực, tình trạng và VIN rồi xác nhận chính sách xe cũ, phù hợp, giấy phép và hồ sơ đăng ký. Quy trình Peru, Brazil, Colombia và Chile chỉ áp dụng trong từng nước, không thay thế nhau.</p>\n      <h2>Vạch biên giới phía Trung Quốc bằng quy tắc chính xác</h2>\n      <p>FOB phải ghi cảng Trung Quốc và tách lấy xe, chặng nội địa, kiểm định, khai, bến và xếp tàu; rủi ro thường chuyển trên tàu. CIF ghi cảng đích, người bán trả cước và bảo hiểm nhưng rủi ro vẫn chuyển tại Trung Quốc. Nếu container giao trước xếp tàu, xem FCA; nếu người bán lo vận tải đa phương thức có bảo hiểm, xem CIP. Thêm điểm chính xác, Incoterms 2020, phương thức, chuyển tải, hiệu lực đặt chỗ và cửa sổ dự kiến.</p>\n      <h2>Lập sổ chi phí theo ngôn ngữ địa phương</h2>\n      <p>Cộng xe, chi phí Trung Quốc, cước và bảo hiểm, dỡ và chứng từ, bến và kiểm tra, môi giới và phép, thuế, chặng nội địa, cải tạo và đăng ký. Mỗi dòng có tiền tệ, thuế, đơn vị, người nhận, hiệu lực và bằng chứng, với tên tiếng Tây Ban Nha hoặc Bồ Đào Nha khớp hóa đơn. Đại lý chỉ rõ hãng tàu, bến, chính phủ, kiểm định và phí riêng. Với lưu kho hay giữ container, ghi ngày miễn và thời điểm tính trước khi phát hành vận đơn.</p>\n      <h2>Chứng minh riêng trị giá và ưu đãi xuất xứ</h2>\n      <p>WCO nêu hóa đơn và trị giá hải quan không tự động bằng nhau. Brazil coi khai báo, giấy phép và định giá là thủ tục quốc gia; VUCE Colombia quản lý đăng ký và chấp thuận. Nhà nhập khẩu tính mã hàng, tình trạng, xuất xứ, quan hệ, cước, bảo hiểm, tỷ giá bằng chứng từ riêng. Hàng đi từ Trung Quốc hoặc giấy xuất xứ thường không bảo đảm ưu đãi: cần hiệp định, quy tắc xe, người cấp đủ tư cách và bằng chứng đúng hạn. Hãy lập ngân sách không ưu đãi trước.</p>\n      <h2>Đồng bộ thanh toán với đăng ký đầu tiên</h2>\n      <p>Hóa đơn, danh sách VIN, hồ sơ xuất, xuất xứ, phù hợp, dự thảo vận đơn và bảo hiểm phải cùng hãng, mẫu, năm, giá, cảng và các bên. Xác minh bản dịch, chứng thực và giấy phép điện tử trước khi tàu đi. Tính FOB và CIF tới cùng thành phố gồm cảng, thuế, rủi ro điều chỉnh, nội địa, cải tạo, tỷ giá và chậm. Giao nhận riêng có thể hợp FOB hay FCA, đặt chỗ minh bạch có thể hợp CIF; không điều kiện nào cấp phép nhập, ưu đãi, phê duyệt kiểu hay giấy xe.</p>\n      <h2>Câu hỏi thường gặp</h2>\n      <h3>CIF có gồm thuế nhập khẩu không?</h3>\n      <p>Không tự động. Hợp đồng và luật quốc gia phải phân công thông quan và thuế riêng.</p>\n      <h3>Giấy xuất xứ Trung Quốc bảo đảm ưu đãi không?</h3>\n      <p>Không. Cần hiệp định, quy tắc xe và bằng chứng được chấp nhận.</p>\n      <h3>Quy trình Brazil dùng ở nước khác được không?</h3>\n      <p>Không. Mỗi nước có phép, định giá và đăng ký riêng.</p>\n      <h3>Vì sao phải ghi thành phố cuối?</h3>\n      <p>Lấy xe khỏi cảng không phải đăng ký đường bộ; thị trường cuối quyết định hồ sơ.</p>\n\n      <h2>Nguồn</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Frequently Asked Questions on Customs Valuation</a><span>World Customs Organization · 2026-08-22</span></li>\n        <li><a href=\"https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/despacho-de-importacao\" target=\"_blank\" rel=\"noopener noreferrer\">Manual Aduaneiro de Importação</a><span>Receita Federal do Brasil · 2026-08-22</span></li>\n        <li><a href=\"https://vuce.gov.co/vuce/tramites-y-servicios-de-la-vuce\" target=\"_blank\" rel=\"noopener noreferrer\">Trámites y Servicios de la VUCE</a><span>Ventanilla Única de Comercio Exterior de Colombia · 2026-08-22</span></li>\n        <li><a href=\"https://www.sunat.gob.pe/orientacionaduanera/importacionvehiculos/\" target=\"_blank\" rel=\"noopener noreferrer\">Importación de Vehículos</a><span>Superintendencia Nacional de Aduanas y de Administración Tributaria del Perú · 2026-08-22</span></li>\n        <li><a href=\"https://www.chileatiende.gob.cl/fichas/3388-primera-inscripcion-de-vehiculos-motorizados\" target=\"_blank\" rel=\"noopener noreferrer\">Primera Inscripción de Vehículos Motorizados</a><span>ChileAtiende · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/port-santos-jpg.jpg",
+        "alt": "Tàu container và cần cẩu bến cảng tại Santos",
+        "caption": "Tàu container và cần cẩu bến cảng tại Santos. Ảnh minh họa, không phải hồ sơ kiểm tra hoặc giao dịch của AutoBridge.",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Port Santos.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Port_Santos.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Port_Santos.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Port_Santos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY 3.0",
+        "artist": "Claus Bunks aka Afrobrasil on flickr",
+        "credit": "Own work",
+        "candidate_description": "SBSA TECON, Port of Santos, Brasil, with the ALIANCA EUROPA IMO Number: 9000742 MMSI Number: 710045000 Callsign: PPSV Length: 200 m Beam: 32 m",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "84beddb95b9ee60760d792ec447d615513517ad5cb000ee456bff9b36c5256a4",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Port of Santos container vessel, cranes and cargo handling match the Latin America FOB/CIF logistics guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "th": {
+      "title": "เทียบ FOB และ CIF รถจีนไปลาตินอเมริกาจนถึงทะเบียนครั้งแรก",
+      "seo_title": "ลาตินอเมริกา: ตรวจราคารถ FOB หรือ CIF",
+      "meta_description": "เทียบ FOB และ CIF สำหรับประเทศและท่าที่ชัดเจน รวมค่าระวาง ประกัน ใบอนุญาต ราคาศุลกากร ถิ่นกำเนิด และทะเบียนแรก",
+      "summary": "ลาตินอเมริกาไม่ใช่ระบบนำเข้าเดียว การตรวจนี้เชื่อมการส่งทางทะเล ขั้นตอนประเทศ และข้อมูล VIN สำหรับจดทะเบียน",
+      "eyebrow": "ตรวจใบเสนอราคาลาตินอเมริกา",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../th/index.html\">หน้าแรก</a><span>/</span><a href=\"../../th/guides/index.html\">คู่มือ</a><span>/</span><span>เทียบ FOB และ CIF รถจีนไปลาตินอเมริกาจนถึงทะเบียนครั้งแรก</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">ตรวจใบเสนอราคาลาตินอเมริกา</p>\n      <h1>เทียบ FOB และ CIF รถจีนไปลาตินอเมริกาจนถึงทะเบียนครั้งแรก</h1>\n      <p class=\"lead\">ลาตินอเมริกาไม่ใช่ระบบนำเข้าเดียว การตรวจนี้เชื่อมการส่งทางทะเล ขั้นตอนประเทศ และข้อมูล VIN สำหรับจดทะเบียน</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/port-santos-jpg.jpg\" alt=\"เรือคอนเทนเนอร์และเครนริมท่าที่ท่าเรือซานโตส\" loading=\"lazy\"><figcaption>เรือคอนเทนเนอร์และเครนริมท่าที่ท่าเรือซานโตส. ภาพประกอบ ไม่ใช่หลักฐานการตรวจสภาพหรือธุรกรรมของ AutoBridge</figcaption></figure>\n      <h2>กำหนดประเทศ ท่า และเมืองจดทะเบียน</h2>\n      <p>ระบุประเทศ ท่าลง ผู้นำเข้า วันสำแดง เมืองจดทะเบียน และจุดส่ง เส้นทางแปซิฟิก แคริบเบียน และแอตแลนติกมีการถ่ายลำต่างกัน “CIF Latin America” จึงไม่ใช่ปลายทางที่ทำงานได้ กำหนดปี รุ่น ระบบ สภาพ และ VIN แล้วตรวจนโยบายรถใช้แล้ว ความสอดคล้อง ใบอนุญาต และทะเบียน ขั้นตอนของเปรู บราซิล โคลอมเบีย และชิลีใช้เฉพาะประเทศ ไม่แทนกัน</p>\n      <h2>วาดขอบเขตจีนด้วยกฎที่แม่นยำ</h2>\n      <p>FOB ต้องระบุท่าจีนและแยกรับรถ ขนในประเทศ ตรวจ สำแดง ท่า และขึ้นเรือ ความเสี่ยงมักโอนบนเรือ CIF ระบุท่าปลายทาง ผู้ขายจ่ายค่าระวางและประกัน แต่ความเสี่ยงยังโอนในจีน หากส่งตู้ก่อนขึ้นเรือให้ดู FCA หากผู้ขายจัดหลายรูปแบบพร้อมประกันให้ดู CIP เพิ่มจุด Incoterms 2020 วิธี ถ่ายลำ อายุจอง และช่วงเวลา</p>\n      <h2>สร้างบัญชีต้นทุนภาษาท้องถิ่น</h2>\n      <p>รวมรถ ต้นทางจีน ค่าระวางและประกัน ลงสินค้าและเอกสาร ท่าและตรวจ นายหน้าและใบอนุญาต อากรภาษี ขนภายใน ดัดแปลง และทะเบียน ทุกบรรทัดมีสกุล ภาษี หน่วย ผู้รับ อายุ และหลักฐาน โดยชื่อสเปนหรือโปรตุเกสตรงใบแจ้งหนี้ ตัวแทนแยกสายเรือ ท่า รัฐ ผู้ตรวจ และค่าตน สำหรับเก็บหรือตู้เกินให้ระบุวันฟรีและจุดเริ่มก่อนออก B/L</p>\n      <h2>พิสูจน์ราคาและสิทธิถิ่นกำเนิดแยกกัน</h2>\n      <p>WCO ระบุว่าใบแจ้งหนี้กับราคาศุลกากรไม่เท่ากันอัตโนมัติ บราซิลจัดสำแดง ใบอนุญาต และประเมินเป็นขั้นตอนประเทศ ส่วน VUCE โคลอมเบียดูทะเบียนและอนุมัติ ผู้นำเข้าคำนวณพิกัด สภาพ ถิ่นกำเนิด ความสัมพันธ์ ค่าระวาง ประกัน และค่าเงินด้วยหลักฐานแยก ส่งจากจีนหรือมีใบทั่วไปไม่รับรองสิทธิพิเศษ ต้องมีข้อตกลง กฎรถ ผู้ออกที่มีสิทธิ และหลักฐานทันเวลา ตั้งงบแบบไม่มีสิทธิก่อน</p>\n      <h2>ทำข้อมูลชำระและทะเบียนแรกให้ตรงกัน</h2>\n      <p>ใบแจ้งหนี้ รายการ VIN ส่งออก ถิ่นกำเนิด ความสอดคล้อง ร่าง B/L และประกันต้องตรงยี่ห้อ รุ่น ปี ราคา ท่า และคู่สัญญา ตรวจคำแปล การรับรอง และใบอนุญาตอิเล็กทรอนิกส์ก่อนส่ง คำนวณ FOB และ CIF ถึงเมืองเดียว รวมท่า ภาษี ความเสี่ยงปรับราคา ภายใน ดัดแปลง ค่าเงิน และล่าช้า ผู้รับจัดการของตนอาจเหมาะ FOB หรือ FCA ส่วนการจองโปร่งใสอาจเหมาะ CIF แต่ไม่มีข้อใดให้ใบอนุญาต สิทธิพิเศษ การรับรอง หรือทะเบียน</p>\n      <h2>คำถามที่พบบ่อย</h2>\n      <h3>CIF รวมอากรและภาษีนำเข้าหรือไม่</h3>\n      <p>ไม่อัตโนมัติ สัญญาและกฎหมายประเทศต้องแบ่งพิธีการและภาษีต่างหาก</p>\n      <h3>ใบถิ่นกำเนิดจีนรับรองสิทธิพิเศษหรือไม่</h3>\n      <p>ไม่ ต้องมีข้อตกลง กฎรถ และหลักฐานที่ปลายทางรับ</p>\n      <h3>ขั้นตอนบราซิลใช้ประเทศอื่นได้หรือไม่</h3>\n      <p>ไม่ได้ แต่ละตลาดมีใบอนุญาต ประเมิน และทะเบียนของตน</p>\n      <h3>ทำไมต้องระบุเมืองสุดท้าย</h3>\n      <p>ปล่อยจากท่าไม่ใช่ทะเบียนถนน ตลาดสุดท้ายกำหนดเอกสารท้องถิ่น</p>\n\n      <h2>แหล่งข้อมูล</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Frequently Asked Questions on Customs Valuation</a><span>World Customs Organization · 2026-08-22</span></li>\n        <li><a href=\"https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/despacho-de-importacao\" target=\"_blank\" rel=\"noopener noreferrer\">Manual Aduaneiro de Importação</a><span>Receita Federal do Brasil · 2026-08-22</span></li>\n        <li><a href=\"https://vuce.gov.co/vuce/tramites-y-servicios-de-la-vuce\" target=\"_blank\" rel=\"noopener noreferrer\">Trámites y Servicios de la VUCE</a><span>Ventanilla Única de Comercio Exterior de Colombia · 2026-08-22</span></li>\n        <li><a href=\"https://www.sunat.gob.pe/orientacionaduanera/importacionvehiculos/\" target=\"_blank\" rel=\"noopener noreferrer\">Importación de Vehículos</a><span>Superintendencia Nacional de Aduanas y de Administración Tributaria del Perú · 2026-08-22</span></li>\n        <li><a href=\"https://www.chileatiende.gob.cl/fichas/3388-primera-inscripcion-de-vehiculos-motorizados\" target=\"_blank\" rel=\"noopener noreferrer\">Primera Inscripción de Vehículos Motorizados</a><span>ChileAtiende · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/port-santos-jpg.jpg",
+        "alt": "เรือคอนเทนเนอร์และเครนริมท่าที่ท่าเรือซานโตส",
+        "caption": "เรือคอนเทนเนอร์และเครนริมท่าที่ท่าเรือซานโตส. ภาพประกอบ ไม่ใช่หลักฐานการตรวจสภาพหรือธุรกรรมของ AutoBridge",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Port Santos.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Port_Santos.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Port_Santos.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Port_Santos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY 3.0",
+        "artist": "Claus Bunks aka Afrobrasil on flickr",
+        "credit": "Own work",
+        "candidate_description": "SBSA TECON, Port of Santos, Brasil, with the ALIANCA EUROPA IMO Number: 9000742 MMSI Number: 710045000 Callsign: PPSV Length: 200 m Beam: 32 m",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "84beddb95b9ee60760d792ec447d615513517ad5cb000ee456bff9b36c5256a4",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Port of Santos container vessel, cranes and cargo handling match the Latin America FOB/CIF logistics guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "id": {
+      "title": "Membandingkan FOB dan CIF kendaraan ke Amerika Latin hingga registrasi pertama",
+      "seo_title": "Amerika Latin: periksa kendaraan FOB atau CIF",
+      "meta_description": "Bandingkan FOB dan CIF untuk negara serta pelabuhan tertentu, termasuk angkutan, asuransi, izin, nilai pabean, asal, dan registrasi.",
+      "summary": "Amerika Latin bukan satu rezim impor. Pemeriksaan menghubungkan penyerahan laut, prosedur nasional, dan berkas VIN untuk registrasi.",
+      "eyebrow": "Audit penawaran Amerika Latin",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../id/index.html\">Beranda</a><span>/</span><a href=\"../../id/guides/index.html\">Panduan</a><span>/</span><span>Membandingkan FOB dan CIF kendaraan ke Amerika Latin hingga registrasi pertama</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">Audit penawaran Amerika Latin</p>\n      <h1>Membandingkan FOB dan CIF kendaraan ke Amerika Latin hingga registrasi pertama</h1>\n      <p class=\"lead\">Amerika Latin bukan satu rezim impor. Pemeriksaan menghubungkan penyerahan laut, prosedur nasional, dan berkas VIN untuk registrasi.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/port-santos-jpg.jpg\" alt=\"Kapal peti kemas dan derek dermaga di pelabuhan Santos\" loading=\"lazy\"><figcaption>Kapal peti kemas dan derek dermaga di pelabuhan Santos. Foto ilustrasi, bukan dokumentasi pemeriksaan atau transaksi AutoBridge.</figcaption></figure>\n      <h2>Tetapkan negara, terminal, dan kota registrasi</h2>\n      <p>Sebut negara, terminal bongkar, importir, tanggal deklarasi, kota registrasi, dan titik serah. Layanan Pasifik, Karibia, dan Atlantik memiliki transit berbeda; “CIF Latin America” bukan tujuan yang dapat dilaksanakan. Kunci tahun, varian, penggerak, kondisi, dan VIN lalu pastikan aturan kendaraan bekas, kesesuaian, izin, dan berkas registrasi. Prosedur Peru, Brasil, Kolombia, dan Cile bersifat nasional dan tidak saling menggantikan.</p>\n      <h2>Gambar batas Tiongkok dengan aturan tepat</h2>\n      <p>FOB harus menyebut pelabuhan Tiongkok dan memisahkan pengambilan, angkutan darat, inspeksi, deklarasi, terminal, dan pemuatan; risiko biasanya beralih di kapal. CIF menyebut pelabuhan tujuan, penjual membayar angkutan dan asuransi, tetapi risiko tetap beralih di Tiongkok. Jika peti kemas diserahkan sebelum muat, nilai FCA; jika penjual mengatur multimoda berasuransi, nilai CIP. Tambahkan titik, Incoterms 2020, moda, transit, validitas booking, dan jendela waktu.</p>\n      <h2>Bangun buku biaya berbahasa lokal</h2>\n      <p>Jumlahkan kendaraan, asal Tiongkok, angkutan dan asuransi, bongkar dan dokumen, terminal dan pemeriksaan, broker dan izin, bea pajak, pengiriman darat, modifikasi, dan registrasi. Tiap baris memiliki mata uang, pajak, unit, penerima, validitas, dan bukti, dengan nama Spanyol atau Portugis yang sama dengan faktur. Agen memisahkan pelayaran, terminal, pemerintah, inspeksi, dan jasanya. Untuk gudang atau detention, tulis hari bebas dan pemicu sebelum B/L diterbitkan.</p>\n      <h2>Buktikan nilai dan preferensi asal secara terpisah</h2>\n      <p>WCO menjelaskan faktur dan nilai pabean tidak otomatis sama. Brasil menjadikan deklarasi, izin, dan penilaian proses nasional; VUCE Kolombia mengelola pendaftaran serta persetujuan. Importir menghitung klasifikasi, kondisi, asal, hubungan, angkutan, asuransi, dan kurs dengan bukti terpisah. Dikirim dari Tiongkok atau sertifikat biasa tidak menjamin preferensi: perlu perjanjian, aturan kendaraan, penerbit yang sah, dan bukti tepat waktu. Anggarkan tanpa manfaat dahulu.</p>\n      <h2>Selaraskan pembayaran dan registrasi pertama</h2>\n      <p>Faktur, daftar VIN, ekspor, asal, kesesuaian, konsep B/L, dan asuransi harus sama pada merek, model, tahun, nilai, pelabuhan, serta pihak. Validasi terjemahan, legalisasi, dan izin elektronik sebelum kirim. Hitung FOB dan CIF ke kota yang sama dengan terminal, pajak, risiko penyesuaian, darat, modifikasi, kurs, dan terlambat. Forwarder sendiri dapat mendukung FOB atau FCA dan booking transparan CIF; tidak satu pun memberi izin, preferensi, homologasi, atau surat kendaraan.</p>\n      <h2>Pertanyaan umum</h2>\n      <h3>Apakah CIF mencakup bea dan pajak impor?</h3>\n      <p>Tidak otomatis. Kontrak dan hukum nasional harus membagi kepabeanan dan pajak secara terpisah.</p>\n      <h3>Apakah sertifikat asal Tiongkok menjamin preferensi?</h3>\n      <p>Tidak. Diperlukan perjanjian, aturan kendaraan, dan bukti yang diterima.</p>\n      <h3>Apakah proses Brasil berlaku di negara lain?</h3>\n      <p>Tidak. Setiap pasar memiliki izin, penilaian, dan registrasi sendiri.</p>\n      <h3>Mengapa kota akhir harus disebut?</h3>\n      <p>Pelepasan pelabuhan bukan registrasi jalan; pasar akhir menentukan dokumen lokal.</p>\n\n      <h2>Sumber</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Frequently Asked Questions on Customs Valuation</a><span>World Customs Organization · 2026-08-22</span></li>\n        <li><a href=\"https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/despacho-de-importacao\" target=\"_blank\" rel=\"noopener noreferrer\">Manual Aduaneiro de Importação</a><span>Receita Federal do Brasil · 2026-08-22</span></li>\n        <li><a href=\"https://vuce.gov.co/vuce/tramites-y-servicios-de-la-vuce\" target=\"_blank\" rel=\"noopener noreferrer\">Trámites y Servicios de la VUCE</a><span>Ventanilla Única de Comercio Exterior de Colombia · 2026-08-22</span></li>\n        <li><a href=\"https://www.sunat.gob.pe/orientacionaduanera/importacionvehiculos/\" target=\"_blank\" rel=\"noopener noreferrer\">Importación de Vehículos</a><span>Superintendencia Nacional de Aduanas y de Administración Tributaria del Perú · 2026-08-22</span></li>\n        <li><a href=\"https://www.chileatiende.gob.cl/fichas/3388-primera-inscripcion-de-vehiculos-motorizados\" target=\"_blank\" rel=\"noopener noreferrer\">Primera Inscripción de Vehículos Motorizados</a><span>ChileAtiende · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/port-santos-jpg.jpg",
+        "alt": "Kapal peti kemas dan derek dermaga di pelabuhan Santos",
+        "caption": "Kapal peti kemas dan derek dermaga di pelabuhan Santos. Foto ilustrasi, bukan dokumentasi pemeriksaan atau transaksi AutoBridge.",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Port Santos.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Port_Santos.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Port_Santos.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Port_Santos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY 3.0",
+        "artist": "Claus Bunks aka Afrobrasil on flickr",
+        "credit": "Own work",
+        "candidate_description": "SBSA TECON, Port of Santos, Brasil, with the ALIANCA EUROPA IMO Number: 9000742 MMSI Number: 710045000 Callsign: PPSV Length: 200 m Beam: 32 m",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "84beddb95b9ee60760d792ec447d615513517ad5cb000ee456bff9b36c5256a4",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Port of Santos container vessel, cranes and cargo handling match the Latin America FOB/CIF logistics guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "ar": {
+      "title": "مقارنة FOB وCIF للمركبات إلى أمريكا اللاتينية حتى التسجيل الأول",
+      "seo_title": "أمريكا اللاتينية: فحص عرض مركبة FOB أو CIF",
+      "meta_description": "قارن FOB وCIF لدولة وميناء محددين، شاملا الشحن والتأمين والترخيص والقيمة والمنشأ والتسجيل الأول.",
+      "summary": "أمريكا اللاتينية ليست نظام استيراد واحدا. يربط الفحص التسليم البحري بالإجراء الوطني وملف رقم الهيكل للتسجيل.",
+      "eyebrow": "تدقيق عروض أمريكا اللاتينية",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../ar/index.html\">الرئيسية</a><span>/</span><a href=\"../../ar/guides/index.html\">الأدلة</a><span>/</span><span>مقارنة FOB وCIF للمركبات إلى أمريكا اللاتينية حتى التسجيل الأول</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">تدقيق عروض أمريكا اللاتينية</p>\n      <h1>مقارنة FOB وCIF للمركبات إلى أمريكا اللاتينية حتى التسجيل الأول</h1>\n      <p class=\"lead\">أمريكا اللاتينية ليست نظام استيراد واحدا. يربط الفحص التسليم البحري بالإجراء الوطني وملف رقم الهيكل للتسجيل.</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/port-santos-jpg.jpg\" alt=\"سفينة حاويات ورافعات رصيف في ميناء سانتوس\" loading=\"lazy\"><figcaption>سفينة حاويات ورافعات رصيف في ميناء سانتوس. صورة توضيحية، وليست توثيقًا لفحص أو صفقة أجرتها AutoBridge.</figcaption></figure>\n      <h2>تحديد الدولة والمحطة ومدينة التسجيل</h2>\n      <p>سم الدولة ومحطة التفريغ والمستورد وتاريخ البيان ومدينة التسجيل ونقطة التسليم. تختلف خدمات الهادئ والكاريبي والأطلسي في إعادة الشحن؛ لذا ليست «CIF Latin America» وجهة قابلة للتنفيذ. ثبت السنة والفئة والدفع والحالة وأرقام الهيكل، ثم أكد سياسة المستعمل والمطابقة والترخيص وملف التسجيل. إجراءات بيرو والبرازيل وكولومبيا وتشيلي وطنية ولا يحل أحدها محل الآخر.</p>\n      <h2>رسم حدود الصين بقاعدة دقيقة</h2>\n      <p>يجب أن يسمي FOB الميناء الصيني ويفصل الاستلام والنقل والفحص والتصريح والمحطة والتحميل؛ ينتقل الخطر عادة على السفينة. يسمي CIF ميناء الوجهة ويدفع البائع الشحن والتأمين لكن الخطر ينتقل في الصين. إذا سلمت الحاوية قبل التحميل فافحص FCA، وإذا رتب البائع نقلا متعدد الوسائط مؤمنا فافحص CIP. أضف النقطة وIncoterms 2020 والوسيلة وإعادة الشحن وصلاحية الحجز والنوافذ المتوقعة.</p>\n      <h2>بناء سجل تكاليف باللغة المحلية</h2>\n      <p>اجمع المركبة والمنشأ الصيني والشحن والتأمين والتفريغ والوثائق والمحطة والمعاينة والمخلص والترخيص والرسوم والضرائب والنقل الداخلي والتعديل والتسجيل. لكل بند عملة وضريبة ووحدة ومستفيد وصلاحية ودليل، مع اسم إسباني أو برتغالي يطابق الفاتورة. يفصل الوكيل شركة الملاحة والمحطة والحكومة والفحص وأتعابه. للتخزين أو تأخير الحاوية اكتب الأيام المجانية وبداية الرسم قبل إصدار سند الشحن.</p>\n      <h2>إثبات القيمة وتفضيل المنشأ منفصلين</h2>\n      <p>توضح منظمة الجمارك أن الفاتورة والقيمة الجمركية لا تتساويان تلقائيا. تجعل البرازيل البيان والترخيص والتقييم إجراءات وطنية، وتدير نافذة كولومبيا التسجيل والموافقات. يحسب المستورد التصنيف والحالة والمنشأ والعلاقة والشحن والتأمين والصرف بأدلة منفصلة. لا يضمن الشحن من الصين أو شهادة عادية تفضيلا؛ يلزم اتفاق وقاعدة للمركبة ومصدر مؤهل ودليل في موعده. ضع الميزانية أولا بلا ميزة.</p>\n      <h2>توحيد بيانات الدفع والتسجيل الأول</h2>\n      <p>يجب أن تتطابق الفاتورة وقائمة أرقام الهيكل والتصدير والمنشأ والمطابقة ومسودة سند الشحن والتأمين في الماركة والطراز والسنة والقيمة والموانئ والأطراف. تحقق من الترجمة والتصديق والترخيص الإلكتروني قبل الشحن. احسب FOB وCIF إلى المدينة نفسها مع الميناء والضرائب وخطر تعديل القيمة والداخل والتعديل والصرف والتأخير. قد يناسب وكيل المشتري FOB أو FCA والحجز الشفاف CIF، لكن لا يمنح أي مصطلح إذن الاستيراد أو التفضيل أو الاعتماد أو سجل المركبة.</p>\n      <h2>الأسئلة الشائعة</h2>\n      <h3>هل يشمل CIF الرسوم وضرائب الاستيراد؟</h3>\n      <p>ليس تلقائيا. يجب أن يوزع العقد والقانون الوطني التخليص والضريبة منفصلين.</p>\n      <h3>هل تضمن شهادة منشأ صينية تفضيلا؟</h3>\n      <p>لا. يلزم اتفاق وقاعدة للمركبة ودليل مقبول.</p>\n      <h3>هل تطبق إجراءات البرازيل في دولة أخرى؟</h3>\n      <p>لا. لكل سوق ترخيص وتقييم وتسجيل خاص به.</p>\n      <h3>لماذا تسمى المدينة الأخيرة؟</h3>\n      <p>الإفراج في الميناء ليس تسجيلا للطريق؛ السوق النهائي يحدد الوثائق.</p>\n\n      <h2>المصادر</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Frequently Asked Questions on Customs Valuation</a><span>World Customs Organization · 2026-08-22</span></li>\n        <li><a href=\"https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/despacho-de-importacao\" target=\"_blank\" rel=\"noopener noreferrer\">Manual Aduaneiro de Importação</a><span>Receita Federal do Brasil · 2026-08-22</span></li>\n        <li><a href=\"https://vuce.gov.co/vuce/tramites-y-servicios-de-la-vuce\" target=\"_blank\" rel=\"noopener noreferrer\">Trámites y Servicios de la VUCE</a><span>Ventanilla Única de Comercio Exterior de Colombia · 2026-08-22</span></li>\n        <li><a href=\"https://www.sunat.gob.pe/orientacionaduanera/importacionvehiculos/\" target=\"_blank\" rel=\"noopener noreferrer\">Importación de Vehículos</a><span>Superintendencia Nacional de Aduanas y de Administración Tributaria del Perú · 2026-08-22</span></li>\n        <li><a href=\"https://www.chileatiende.gob.cl/fichas/3388-primera-inscripcion-de-vehiculos-motorizados\" target=\"_blank\" rel=\"noopener noreferrer\">Primera Inscripción de Vehículos Motorizados</a><span>ChileAtiende · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/port-santos-jpg.jpg",
+        "alt": "سفينة حاويات ورافعات رصيف في ميناء سانتوس",
+        "caption": "سفينة حاويات ورافعات رصيف في ميناء سانتوس. صورة توضيحية، وليست توثيقًا لفحص أو صفقة أجرتها AutoBridge.",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Port Santos.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Port_Santos.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Port_Santos.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Port_Santos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY 3.0",
+        "artist": "Claus Bunks aka Afrobrasil on flickr",
+        "credit": "Own work",
+        "candidate_description": "SBSA TECON, Port of Santos, Brasil, with the ALIANCA EUROPA IMO Number: 9000742 MMSI Number: 710045000 Callsign: PPSV Length: 200 m Beam: 32 m",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "84beddb95b9ee60760d792ec447d615513517ad5cb000ee456bff9b36c5256a4",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Port of Santos container vessel, cranes and cargo handling match the Latin America FOB/CIF logistics guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    },
+    "zh": {
+      "title": "中国汽车出口拉丁美洲：FOB与CIF报价从港口核到首次登记",
+      "seo_title": "拉美进口中国汽车FOB与CIF报价核验｜港口、税费与上牌",
+      "meta_description": "面向拉美进口商，说明如何比较中国汽车FOB与CIF报价，核对海运保险、目的港费用、西葡语文件、税费口径和首次登记要求。",
+      "summary": "拉美汽车报价只有连接到目的港、当地税基、合规文件和首次登记后才可比较；CIF并不自动等于可上路成本。",
+      "eyebrow": "拉美汽车进口报价",
+      "main_html": "<main>\n    <nav class=\"breadcrumbs\" aria-label=\"Breadcrumb\"><a href=\"../../zh/index.html\">首页</a><span>/</span><a href=\"../../zh/guides/index.html\">采购指南</a><span>/</span><span>中国汽车出口拉丁美洲：FOB与CIF报价从港口核到首次登记</span></nav>\n    <article class=\"article\">\n      <p class=\"eyebrow\">拉美汽车进口报价</p>\n      <h1>中国汽车出口拉丁美洲：FOB与CIF报价从港口核到首次登记</h1>\n      <p class=\"lead\">拉美汽车报价只有连接到目的港、当地税基、合规文件和首次登记后才可比较；CIF并不自动等于可上路成本。</p>\n      <figure class=\"article-media\"><img src=\"../../assets/editorial/port-santos-jpg.jpg\" alt=\"桑托斯港的集装箱船与岸边起重机\" loading=\"lazy\"><figcaption>桑托斯港的集装箱船与岸边起重机. 参考配图，并非 AutoBridge 的检测或交易记录。</figcaption></figure>\n      <h2>统一车型、贸易路线和币种</h2>\n      <p>先用车辆识别信息、年款、配置、数量、装运港、目的港和最终国家建立统一询价表。拉美不同国家的税费、认证与登记规则差异明显，不能把到智利港口的报价直接套用到巴西或墨西哥。注明报价币种、汇率基准、税费是否含增值税或其他地方税，以及价格有效期，避免把汇率与税基差异误判为供应商价格优势。</p>\n      <p>同一车系的不同动力、排量或电池版本可能对应不同税费和合规路径，因此配置差异必须在询价阶段解决。供应商应提供能与文件对应的车型代码和车辆识别代号规则。若最终批次替换了轮胎、灯具或安全配置，即使价格不变，也应重新让目的国专业人员确认。</p>\n      <h2>检查FOB边界是否真的到装船</h2>\n      <p>FOB项目应覆盖车辆、国内运输、出口申报、港区操作和装船前责任，但实际报价常把检验、仓储、文件或特殊装载另列。要求供应商提供费用清单和风险转移点，并说明车辆无法自行行驶、电动车荷电状态或集装箱加固是否增加费用。买家自订舱时，要让车辆尺寸重量与运输文件一致。</p>\n      <p>FOB报价需要明确港区免费时间和因卖方文件延误产生的仓储责任。买家指定货代时，应让卖方与货代共同确认交车窗口和装载条件。任何以预计发生为名但没有计算方式的费用都应标注为不确定项，不能在下单后无上限追加。</p>\n      <h2>验证CIF运价、航线和保险</h2>\n      <p>CIF需要指定目的港并说明运价依据、直航或转运、预计航程和保险条款。索取承运安排与保单摘要，检查车辆划伤、全损、盗窃、电池事件和免赔额是否在范围内。若报价只写海运保险已含而没有承保金额、受益人和索赔文件，不能认为风险已被充分覆盖。</p>\n      <p>保险核对还要关注索赔语言、当地代理和通知时限。若保险由卖方安排，买家应确认自己是否为受益人并能直接获得保单文件。对电动车，应额外核对承运人的电池与荷电要求；不符合要求可能导致拒载或事故后保险争议。</p>\n      <h2>用当地资料补齐到港后成本</h2>\n      <p>向目的港代理取得卸货、码头、文件、扫描或检验、仓储和延误费用，并由报关专业人员按车辆价值、运费和当地税基估算关税与其他税费。还要加入港口到仓库的拖车、保险和可能的转港费用。对于价格高度敏感的市场，使用高低区间测试汇率与延误变化，避免预算只在理想条件下成立。</p>\n      <p>当地税费估算应注明采用的车辆价值、运费、汇率和日期，并由具备当地资格的专业人员复核。互联网税率表只能作为初步线索。若车型分类或原产地待遇尚未确认，使用区间进行预算，并把最终确认设置为付款或装船条件。</p>\n      <h2>让西葡语文件支持清关和登记</h2>\n      <p>商业发票、提单、原产地材料、车辆识别代号清单、配置与排放或安全文件应提前确认是否需要西班牙语或葡萄牙语译本、认证或公证。清关完成不代表一定可以首次登记，买家还应向当地机构核对车型批准、排放、安全、标签和召回要求。文件名称一致但版本不同，也可能导致上牌被拒。</p>\n      <p>首次登记文件要提前模拟提交，检查名称、型号、单位和签章是否满足系统要求。特别注意中文名称转写与商业名称可能不一致，翻译时要保持车辆识别信息不变。任何需要原件、公证或领事认证的材料，都应倒推办理时间，避免车辆到港后等待。</p>\n      <h2>建立可复核的落地成本表</h2>\n      <p>把成本分成车辆、出口端、国际运输、保险、目的港、税费、合规整改、登记和内陆交付，并为每项保存来源与日期。未确认项目必须显示为待确认或区间，不能默认为零。若供应商拒绝说明费用边界、运价来源或文件责任，或者当地专业人员无法确认首次登记路径，应在付款前暂停，而不是等车辆到港后再补救。</p>\n      <p>成本表应由采购、物流、清关和销售团队共同签字，防止一个部门只看采购价，另一个部门事后承担遗漏费用。项目结束后记录实际与预算差异，形成下一批报价基准。这样后续比较会越来越准确，而不是每批都从供应商提供的总价重新开始。</p>\n      <p>拉美买家完成报价核验后，应能从每一项成本追溯到供应商、承运人、港口代理或政府规则。无法追溯的数字不应被删除，而应作为风险区间展示。透明的不确定性通常比虚假的精确总价更适合决策。每次到港后再用实际发票修正模型，并记录差异来自汇率、港口、文件还是供应商，下一批询价才会拥有可靠基准。</p>\n      <h2>常见问题</h2>\n      <h3>CIF价格是不是拉美买家的最终落地价？</h3>\n      <p>不是。目的港费用、税费、清关、合规整改、登记和内陆运输通常需要另行核算。请以目的国专业机构的书面答复为准，并保留版本和核对日期。</p>\n      <h3>清关成功是否代表一定能上牌？</h3>\n      <p>不代表。首次登记可能有独立的车型批准、排放、安全、标签和文件要求，应在装运前确认。</p>\n      <h3>西班牙语或葡萄牙语译本由谁准备？</h3>\n      <p>应在合同中明确责任、认证方式和交付时间，并由目的国专业人员确认译本能用于清关和登记。</p>\n      <h3>怎样处理汇率风险？</h3>\n      <p>统一报价币种和汇率日期，对税费与港口支出做区间测试，并在合同中写明价格调整机制。</p>\n\n      <h2>资料来源</h2>\n      <ul class=\"check-list source-list\">\n        <li><a href=\"https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Incoterms 2020 Checklist and Flowcharts</a><span>International Chamber of Commerce · 2026-08-22</span></li>\n        <li><a href=\"https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Frequently Asked Questions on Customs Valuation</a><span>World Customs Organization · 2026-08-22</span></li>\n        <li><a href=\"https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/despacho-de-importacao\" target=\"_blank\" rel=\"noopener noreferrer\">Manual Aduaneiro de Importação</a><span>Receita Federal do Brasil · 2026-08-22</span></li>\n        <li><a href=\"https://vuce.gov.co/vuce/tramites-y-servicios-de-la-vuce\" target=\"_blank\" rel=\"noopener noreferrer\">Trámites y Servicios de la VUCE</a><span>Ventanilla Única de Comercio Exterior de Colombia · 2026-08-22</span></li>\n        <li><a href=\"https://www.sunat.gob.pe/orientacionaduanera/importacionvehiculos/\" target=\"_blank\" rel=\"noopener noreferrer\">Importación de Vehículos</a><span>Superintendencia Nacional de Aduanas y de Administración Tributaria del Perú · 2026-08-22</span></li>\n        <li><a href=\"https://www.chileatiende.gob.cl/fichas/3388-primera-inscripcion-de-vehiculos-motorizados\" target=\"_blank\" rel=\"noopener noreferrer\">Primera Inscripción de Vehículos Motorizados</a><span>ChileAtiende · 2026-08-22</span></li>\n      </ul>\n    </article>\n  </main>",
+      "last_reviewed": null,
+      "image": {
+        "src": "../../assets/editorial/port-santos-jpg.jpg",
+        "alt": "桑托斯港的集装箱船与岸边起重机",
+        "caption": "桑托斯港的集装箱船与岸边起重机. 参考配图，并非 AutoBridge 的检测或交易记录。",
+        "wiki_title": "Container ship",
+        "review_note": "Image description corrected; full article review and publication approval remain pending.",
+        "wiki_file_title": "Port Santos.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Port_Santos.jpg",
+        "source_file_page": "https://commons.wikimedia.org/wiki/File:Port_Santos.jpg",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Port_Santos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY 3.0",
+        "artist": "Claus Bunks aka Afrobrasil on flickr",
+        "credit": "Own work",
+        "candidate_description": "SBSA TECON, Port of Santos, Brasil, with the ALIANCA EUROPA IMO Number: 9000742 MMSI Number: 710045000 Callsign: PPSV Length: 200 m Beam: 32 m",
+        "identity_status": "confirmed_topic_match",
+        "identity_reviewed": true,
+        "identity_reviewed_at": "2026-09-06T23:14:15.495Z",
+        "identity_reviewer": "codex-ai-visual-review",
+        "identity_review_note": "Local image visually checked. Reference illustration only; no AutoBridge transaction, inspection, destination eligibility or trim specification is evidenced.",
+        "asset_sha256": "84beddb95b9ee60760d792ec447d615513517ad5cb000ee456bff9b36c5256a4",
+        "evidence_scope": "reference_illustration_not_first_hand",
+        "previous_identity_review": {
+          "status": "confirmed_model_match",
+          "note": "Visible Port of Santos container vessel, cranes and cargo handling match the Latin America FOB/CIF logistics guide."
+        }
+      },
+      "review_status": "editorial_review_pending"
+    }
+  },
+  "revision_history": [
+    {
+      "date": "2026-08-23",
+      "actor": "codex-user-approved-direct-batch",
+      "action": "approved and deployed to production"
+    },
+    {
+      "date": "2026-08-23",
+      "actor": "codex-ai-rebuild",
+      "action": "researched bilingual source and ten-language localization staged for passive review"
+    },
+    {
+      "date": "2026-08-23",
+      "actor": "codex-ai-rebuild",
+      "action": "researched bilingual source and ten-language localization staged for passive review"
+    },
+    {
+      "date": "2026-08-22",
+      "actor": "codex-user-approved-direct-batch",
+      "action": "approved and deployed to production"
+    },
+    {
+      "date": "2026-08-22",
+      "actor": "codex-ai-rebuild",
+      "action": "researched bilingual source and ten-language localization staged for passive review"
+    },
+    {
+      "date": "2026-08-22",
+      "actor": "codex-ai-rebuild",
+      "action": "researched bilingual source and ten-language localization staged for passive review"
+    },
+    {
+      "date": "2026-07-15",
+      "actor": "codex-ai-rebuild",
+      "action": "researched bilingual source and ten-language localization staged for passive review"
+    },
+    {
+      "date": "2026-07-03",
+      "actor": "codex",
+      "action": "enabled French/German and category pinning fields"
+    },
+    {
+      "date": "2026-07-03",
+      "actor": "codex",
+      "action": "extracted current static HTML into structured content source"
+    },
+    {
+      "at": "2026-09-07T11:24:17.534Z",
+      "action": "Recovered complete non-scaffolded bodies in ten locales from a hash-verified historical snapshot. Retained current images, summaries and citations. Current facts and all-language alignment still require review.",
+      "human_reviewed": false
+    },
+    {
+      "at": "2026-09-08T11:02:37.696Z",
+      "action": "Removed repeated Chinese FAQ tails or rewrote three repetitive buyer-task paragraphs. Full review is still pending.",
+      "human_reviewed": false
+    }
+  ],
+  "pinned_in_category": false,
+  "synced_at": "2026-08-23T08:01:23.805Z",
+  "review_deadline_at": "2026-08-26T08:01:23.805Z",
+  "sources": [
+    {
+      "title": "Incoterms 2020 Checklist and Flowcharts",
+      "organization": "International Chamber of Commerce",
+      "url": "https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf",
+      "supports": "The maritime scope and delivery, carriage and insurance allocation of FOB and CIF, plus FCA guidance for containers.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "Frequently Asked Questions on Customs Valuation",
+      "organization": "World Customs Organization",
+      "url": "https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx",
+      "supports": "Transaction value, possible freight treatment under national law and Customs' right to test declared evidence.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "Manual Aduaneiro de Importação",
+      "organization": "Receita Federal do Brasil",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/despacho-de-importacao",
+      "supports": "Brazilian import-clearance, declaration, licensing and customs-valuation guidance that must be checked independently of an Incoterm.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "Trámites y Servicios de la VUCE",
+      "organization": "Ventanilla Única de Comercio Exterior de Colombia",
+      "url": "https://vuce.gov.co/vuce/tramites-y-servicios-de-la-vuce",
+      "supports": "Colombian electronic procedures for import registrations, licences and prior authorizations.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "Importación de Vehículos",
+      "organization": "Superintendencia Nacional de Aduanas y de Administración Tributaria del Perú",
+      "url": "https://www.sunat.gob.pe/orientacionaduanera/importacionvehiculos/",
+      "supports": "A national example of vehicle eligibility, documentation and import processing in Peru.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "Primera Inscripción de Vehículos Motorizados",
+      "organization": "ChileAtiende",
+      "url": "https://www.chileatiende.gob.cl/fichas/3388-primera-inscripcion-de-vehiculos-motorizados",
+      "supports": "Chile's first-registration evidence, showing why port release and road registration are separate stages.",
+      "accessed_at": "2026-08-22"
+    }
+  ],
+  "evidence_gaps": [
+    "Each Latin American country sets its own vehicle eligibility, used-goods, licensing, homologation, emissions, tax and registration rules; no regional approval is inferred.",
+    "Current freight, transshipment, terminal, broker, storage and inland rates depend on port, carrier, sailing, container or RoRo mode and quote date.",
+    "Preferential tariff treatment depends on an applicable agreement and product-specific origin evidence, not on shipment from China, a generic certificate of origin or a CIF term.",
+    "Customs may test related-party prices, assists, freight, insurance and used-vehicle evidence under national law, so the supplier's quote cannot guarantee the final assessed value.",
+    "Insurance wording, insured interest, deductible, EV or used-vehicle exclusions, claims venue and post-port cover require shipment-specific confirmation."
+  ],
+  "editorial_angle": "Latin American FOB and CIF comparisons should reconcile Spanish or Portuguese documents, destination-port charges, tax basis and first-registration requirements.",
+  "editorial": {
+    "policy_version": "2026-08-15",
+    "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+    "author": {
+      "type": "Organization",
+      "name": "AutoBridge Export Editorial Team",
+      "url_path": "/authors/"
+    },
+    "methodology": "document_research_and_procurement_analysis",
+    "evidence": {
+      "level": "documented_sources",
+      "first_hand": false,
+      "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+    },
+    "ai_assistance": {
+      "used": true,
+      "roles": [
+        "research_support",
+        "drafting_support",
+        "translation_support"
+      ],
+      "disclosure_required": true
+    },
+    "review": {
+      "status": "editorial_review_pending",
+      "reviewed_at": null,
+      "reviewer": null,
+      "human_reviewed": false
+    },
+    "previous_review": {
+      "status": "human_reviewed",
+      "reviewed_at": "2026-08-23T08:15:52.634Z",
+      "reviewer": "codex-user-approved-direct-batch",
+      "note": "The publication decision was confirmed in the authenticated editorial workflow."
+    }
+  },
+  "published_at": null,
+  "indexing_state": "quality_hold",
+  "publication_eligible": false,
+  "previous_published_at": "2026-08-23T08:15:52.634Z"
+}

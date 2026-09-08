@@ -1,0 +1,201 @@
+{
+  "status": "NEEDS_RESEARCH_NOT_VERIFIED_FACT_SHEET",
+  "candidate_sha256": "f16312056bf090fddfd10ece5f3003ec00eabd5ff22853ea14a90b54e37cb3d0",
+  "search_intent": "Compare FOB and CIF quotations for Chinese vehicles imported into a specific Latin American market",
+  "market": "Latin America",
+  "editorial_angle": "Latin American FOB and CIF comparisons should reconcile Spanish or Portuguese documents, destination-port charges, tax basis and first-registration requirements.",
+  "sources": [
+    {
+      "title": "Incoterms 2020 Checklist and Flowcharts",
+      "organization": "International Chamber of Commerce",
+      "url": "https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf",
+      "supports": "The maritime scope and delivery, carriage and insurance allocation of FOB and CIF, plus FCA guidance for containers.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "Frequently Asked Questions on Customs Valuation",
+      "organization": "World Customs Organization",
+      "url": "https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx",
+      "supports": "Transaction value, possible freight treatment under national law and Customs' right to test declared evidence.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "Manual Aduaneiro de Importação",
+      "organization": "Receita Federal do Brasil",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/despacho-de-importacao",
+      "supports": "Brazilian import-clearance, declaration, licensing and customs-valuation guidance that must be checked independently of an Incoterm.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "Trámites y Servicios de la VUCE",
+      "organization": "Ventanilla Única de Comercio Exterior de Colombia",
+      "url": "https://vuce.gov.co/vuce/tramites-y-servicios-de-la-vuce",
+      "supports": "Colombian electronic procedures for import registrations, licences and prior authorizations.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "Importación de Vehículos",
+      "organization": "Superintendencia Nacional de Aduanas y de Administración Tributaria del Perú",
+      "url": "https://www.sunat.gob.pe/orientacionaduanera/importacionvehiculos/",
+      "supports": "A national example of vehicle eligibility, documentation and import processing in Peru.",
+      "accessed_at": "2026-08-22"
+    },
+    {
+      "title": "Primera Inscripción de Vehículos Motorizados",
+      "organization": "ChileAtiende",
+      "url": "https://www.chileatiende.gob.cl/fichas/3388-primera-inscripcion-de-vehiculos-motorizados",
+      "supports": "Chile's first-registration evidence, showing why port release and road registration are separate stages.",
+      "accessed_at": "2026-08-22"
+    }
+  ],
+  "evidence_gaps": [
+    "Each Latin American country sets its own vehicle eligibility, used-goods, licensing, homologation, emissions, tax and registration rules; no regional approval is inferred.",
+    "Current freight, transshipment, terminal, broker, storage and inland rates depend on port, carrier, sailing, container or RoRo mode and quote date.",
+    "Preferential tariff treatment depends on an applicable agreement and product-specific origin evidence, not on shipment from China, a generic certificate of origin or a CIF term.",
+    "Customs may test related-party prices, assists, freight, insurance and used-vehicle evidence under national law, so the supplier's quote cannot guarantee the final assessed value.",
+    "Insurance wording, insured interest, deductible, EV or used-vehicle exclusions, claims venue and post-port cover require shipment-specific confirmation."
+  ],
+  "editorial": {
+    "policy_version": "2026-08-15",
+    "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+    "author": {
+      "type": "Organization",
+      "name": "AutoBridge Export Editorial Team",
+      "url_path": "/authors/"
+    },
+    "methodology": "document_research_and_procurement_analysis",
+    "evidence": {
+      "level": "documented_sources",
+      "first_hand": false,
+      "note": "No first-hand inspection, transaction, interview or ownership claim is made."
+    },
+    "ai_assistance": {
+      "used": true,
+      "roles": [
+        "research_support",
+        "drafting_support",
+        "translation_support"
+      ],
+      "disclosure_required": true
+    },
+    "review": {
+      "status": "editorial_review_pending",
+      "reviewed_at": null,
+      "reviewer": null,
+      "human_reviewed": false
+    },
+    "previous_review": {
+      "status": "human_reviewed",
+      "reviewed_at": "2026-08-23T08:15:52.634Z",
+      "reviewer": "codex-user-approved-direct-batch",
+      "note": "The publication decision was confirmed in the authenticated editorial workflow."
+    }
+  },
+  "source_accessibility": [
+    {
+      "url": "https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf",
+      "used_by": [
+        "fob-cif-quote-check-africa",
+        "fob-cif-quote-check-latin-america",
+        "fob-cif-quote-check-middle-east",
+        "fob-cif-quote-check-southeast-asia",
+        "roro-container-shipping-latin-america",
+        "price-verification-africa"
+      ],
+      "checked_at": "2026-09-08T23:06:46.632Z",
+      "http_status": 206,
+      "final_url": "https://library.iccwbo.org/content/clp/Others/incoterms_2020_checklist_2024-update.pdf",
+      "content_type": "application/pdf",
+      "title": "",
+      "received_bytes": 262144,
+      "response_sha256": "6a6fd0494afe7a6c9f8b8a80883404674c97abf89d0ca69a0b3d84940dc65146",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx",
+      "used_by": [
+        "fob-cif-quote-check-africa",
+        "fob-cif-quote-check-latin-america",
+        "fob-cif-quote-check-middle-east",
+        "price-verification-africa"
+      ],
+      "checked_at": "2026-09-08T23:06:50.612Z",
+      "http_status": 200,
+      "final_url": "https://www.wcoomd.org/en/topics/valuation/overview/faq-valuation.aspx",
+      "content_type": "text/html; charset=utf-8",
+      "title": " World Customs Organization ",
+      "received_bytes": 51029,
+      "response_sha256": "d8c0e811ddcbe8ff5a366b7955b00e18c55ee11108ad502a97f21564173c02f5",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/despacho-de-importacao",
+      "used_by": [
+        "fob-cif-quote-check-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:07:14.171Z",
+      "http_status": 206,
+      "final_url": "https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/despacho-de-importacao",
+      "content_type": "text/html;charset=utf-8",
+      "title": "Manual Aduaneiro de Importação — Receita Federal ",
+      "received_bytes": 233646,
+      "response_sha256": "8980aac70e0b68c14c1e06d288233c0d5a3bf81038e8efb652fac47046b9df87",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://vuce.gov.co/vuce/tramites-y-servicios-de-la-vuce",
+      "used_by": [
+        "fob-cif-quote-check-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:07:17.819Z",
+      "http_status": 200,
+      "final_url": "https://vuce.gov.co/vuce/tramites-y-servicios-de-la-vuce",
+      "content_type": "text/html; charset=utf-8",
+      "title": " Tr&#225;mites y servicios de la VUCE | Ventanilla &#250;nica de comercio exterior ",
+      "received_bytes": 44142,
+      "response_sha256": "b3cace02e118bb4fbd3ec1f0bf3597911ef3b8c5282d9ca897f62de01d95b392",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.sunat.gob.pe/orientacionaduanera/importacionvehiculos/",
+      "used_by": [
+        "fob-cif-quote-check-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:07:20.242Z",
+      "http_status": 206,
+      "final_url": "https://www.sunat.gob.pe/orientacionaduanera/importacionvehiculos/",
+      "content_type": "text/html",
+      "title": ":: SUNAT ::",
+      "received_bytes": 20744,
+      "response_sha256": "4412ff2ff6628cfebdb1d6e34dafeaf3f9d9ecca0a220b41f541b60fc9995243",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.chileatiende.gob.cl/fichas/3388-primera-inscripcion-de-vehiculos-motorizados",
+      "used_by": [
+        "fob-cif-quote-check-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:07:38.287Z",
+      "http_status": 0,
+      "final_url": "https://www.chileatiende.gob.cl/fichas/3388-primera-inscripcion-de-vehiculos-motorizados",
+      "content_type": "",
+      "title": "",
+      "received_bytes": 0,
+      "response_sha256": null,
+      "transport_error": "curl: (28) Operation timed out after 18002 milliseconds with 0 bytes received\n",
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    }
+  ],
+  "note": "Source supports fields are assertions inherited from the candidate, not new independent factual approval. HTTP success is not claim verification."
+}

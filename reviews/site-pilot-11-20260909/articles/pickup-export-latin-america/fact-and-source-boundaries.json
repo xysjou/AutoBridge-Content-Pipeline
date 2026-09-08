@@ -1,0 +1,225 @@
+{
+  "status": "NEEDS_RESEARCH_NOT_VERIFIED_FACT_SHEET",
+  "candidate_sha256": "21f08d1604563d6cf267fef31b41a9e5489bd01202b8ec76a8dd121bf72864ec",
+  "search_intent": "pickup truck export procurement Latin America buyer verification",
+  "market": "Latin America",
+  "editorial_angle": "A destination-led pickup truck export procurement decision for Latin America, separating identity, authority scope, operating evidence, cost boundaries and stop conditions without assuming prices or specifications.",
+  "sources": [
+    {
+      "title": "WP.29 - Presentation",
+      "organization": "United Nations Economic Commission for Europe",
+      "url": "https://unece.org/transport/vehicle-regulations/wp29-presentation",
+      "supports": "international vehicle safety and environmental regulation framework",
+      "accessed_at": "2026-07-16"
+    },
+    {
+      "title": "Conformity assessment procedures",
+      "organization": "World Trade Organization",
+      "url": "https://www.wto.org/english/tratop_e/tbt_e/conformity_assessment_proc_e.htm",
+      "supports": "testing, inspection and certification used to establish conformity",
+      "accessed_at": "2026-07-16"
+    },
+    {
+      "title": "Logistics Performance Indicators 2.0",
+      "organization": "World Bank",
+      "url": "https://lpi.worldbank.org/en/about",
+      "supports": "country and route differences in supply-chain connectivity",
+      "accessed_at": "2026-07-16"
+    },
+    {
+      "title": "Regional authority source",
+      "organization": "MERCOSUR",
+      "url": "https://www.mercosur.int/",
+      "supports": "destination or regional import and conformity context",
+      "accessed_at": "2026-07-16"
+    },
+    {
+      "title": "FleetSafe: Global NCAP fleet safety guide and safer purchasing policy",
+      "organization": "Global NCAP",
+      "url": "https://www.globalncap.org/news/fleetsafe-global-ncap-fleet-safety-guide-amp-safer-purchasing-policy-2025-2026",
+      "supports": "Provides an independent safety-purchasing framework for fleet vehicles, including specification control and evidence-led vehicle selection.",
+      "accessed_at": "2026-08-26"
+    },
+    {
+      "title": "Used Vehicles Resources",
+      "organization": "United Nations Environment Programme",
+      "url": "https://www.unep.org/topics/transport/partnership-clean-fuels-and-vehicles/used-vehicles/used-vehicles-resources",
+      "supports": "Provides policy and quality context for cross-border used-vehicle flows without replacing destination-country import requirements.",
+      "accessed_at": "2026-08-26"
+    },
+    {
+      "title": "Agreement on Technical Barriers to Trade",
+      "organization": "World Trade Organization",
+      "url": "https://www.wto.org/english/tratop_e/tbt_e/tbtagr.htm",
+      "supports": "Explains the international framework for technical regulations, standards and conformity-assessment procedures affecting traded products.",
+      "accessed_at": "2026-08-26"
+    }
+  ],
+  "evidence_gaps": [
+    "The exact destination country, importer and registration path must be confirmed for each transaction.",
+    "No live supplier quote, vehicle-specific inspection or transaction record is treated as verified evidence in this guide.",
+    "Model year, trim, production batch, transport lane and authority requirements can change after the stated access date.",
+    "Local tax, port, inland transport, warranty and parts costs remain conditional until written destination evidence is attached."
+  ],
+  "editorial": {
+    "policy_version": "2026-08-15",
+    "purpose": "Help international vehicle buyers make safer, evidence-led sourcing decisions.",
+    "author": {
+      "type": "Organization",
+      "name": "AutoBridge Export Editorial Team",
+      "url_path": "/authors/"
+    },
+    "methodology": "document_research_and_procurement_analysis",
+    "evidence": {
+      "level": "documented_sources",
+      "first_hand": false,
+      "note": "First-hand inspection, transaction or ownership experience is stated only when a dated evidence record is attached."
+    },
+    "ai_assistance": {
+      "used": true,
+      "roles": [
+        "research_support",
+        "drafting_support",
+        "translation_support"
+      ],
+      "disclosure_required": true
+    },
+    "review": {
+      "status": "editorial_review_pending",
+      "reviewed_at": null,
+      "reviewer": null,
+      "human_reviewed": false
+    },
+    "previous_review": {
+      "status": "ai_reviewed_user_authorized",
+      "reviewed_at": "2026-09-05T06:44:05.846Z",
+      "reviewer": "AI_REVIEWER",
+      "reviewer_commit": "",
+      "content_hash": "",
+      "publication_authorized_by": "codex-final-review-user-confirmed-2026-09-05",
+      "note": "Independent AI review passed and the user authorized publication. This is not a human editorial review."
+    }
+  },
+  "source_accessibility": [
+    {
+      "url": "https://www.wto.org/english/tratop_e/tbt_e/tbtagr.htm",
+      "used_by": [
+        "new-vs-used-ev-middle-east",
+        "pickup-export-latin-america",
+        "seven-seat-suv-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:08:42.858Z",
+      "http_status": 206,
+      "final_url": "https://www.wto.org/english/tratop_e/tbt_e/tbtagr.htm",
+      "content_type": "text/html",
+      "title": "WTO | Agreement on Technical Barriers to Trade ",
+      "received_bytes": 87921,
+      "response_sha256": "269652fadc4b7045d9951dfc3a895f5104ad070f425c166d76bad335c4e96104",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.wto.org/english/tratop_e/tbt_e/conformity_assessment_proc_e.htm",
+      "used_by": [
+        "new-vs-used-ev-middle-east",
+        "pickup-export-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:08:45.142Z",
+      "http_status": 206,
+      "final_url": "https://www.wto.org/english/tratop_e/tbt_e/conformity_assessment_proc_e.htm",
+      "content_type": "text/html",
+      "title": "WTO | Conformity assessment procedures",
+      "received_bytes": 16679,
+      "response_sha256": "15ea694aef8bfd7d6fddad03b66acd09b258fabdce9b876c60fe6aa83d8add5f",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://unece.org/transport/vehicle-regulations/wp29-presentation",
+      "used_by": [
+        "pickup-export-latin-america",
+        "seven-seat-suv-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:08:48.816Z",
+      "http_status": 403,
+      "final_url": "https://unece.org/transport/vehicle-regulations/wp29-presentation",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Just a moment...",
+      "received_bytes": 5528,
+      "response_sha256": "1e235ff164dc8a852ce8e90631a335760045375cafaad7013caa454e5a4071c4",
+      "transport_error": null,
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    },
+    {
+      "url": "https://lpi.worldbank.org/en/about",
+      "used_by": [
+        "pickup-export-latin-america",
+        "roro-container-shipping-latin-america",
+        "price-verification-africa"
+      ],
+      "checked_at": "2026-09-08T23:08:49.824Z",
+      "http_status": 403,
+      "final_url": "https://lpi.worldbank.org/en/about",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Just a moment...",
+      "received_bytes": 5432,
+      "response_sha256": "7d127f7c38a59c8db90d3f4811f9e2debda14f7d185e95951b9c6a99409bbd77",
+      "transport_error": null,
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.mercosur.int/",
+      "used_by": [
+        "pickup-export-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:08:51.427Z",
+      "http_status": 403,
+      "final_url": "https://www.mercosur.int/",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Just a moment...",
+      "received_bytes": 5407,
+      "response_sha256": "9f01ae1af3242fb761babc1b9ee8f850cba44e8ef9bbe85014f2f43580bfabea",
+      "transport_error": null,
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.globalncap.org/news/fleetsafe-global-ncap-fleet-safety-guide-amp-safer-purchasing-policy-2025-2026",
+      "used_by": [
+        "pickup-export-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:08:54.105Z",
+      "http_status": 206,
+      "final_url": "https://www.globalncap.org/news/fleetsafe-global-ncap-fleet-safety-guide-amp-safer-purchasing-policy-2025-2026",
+      "content_type": "text/html;charset=utf-8",
+      "title": "FleetSafe: Global NCAP fleet safety guide &amp; safer purchasing policy 2025 - 2026 &mdash; Global NCAP",
+      "received_bytes": 193359,
+      "response_sha256": "78b99eb49560e707096958940c848b56126699285d0972a9c15e23c6f3304b72",
+      "transport_error": null,
+      "status": "HTTP_ACCESSIBLE_NOT_FACT_VERIFIED",
+      "fact_verified": false
+    },
+    {
+      "url": "https://www.unep.org/topics/transport/partnership-clean-fuels-and-vehicles/used-vehicles/used-vehicles-resources",
+      "used_by": [
+        "pickup-export-latin-america",
+        "seven-seat-suv-latin-america"
+      ],
+      "checked_at": "2026-09-08T23:08:54.882Z",
+      "http_status": 403,
+      "final_url": "https://www.unep.org/topics/transport/partnership-clean-fuels-and-vehicles/used-vehicles/used-vehicles-resources",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "Just a moment...",
+      "received_bytes": 5783,
+      "response_sha256": "dbed8c66e6605711e9b27495358db1ef1af09f9c9179322e93745db7ba7b9550",
+      "transport_error": null,
+      "status": "NEEDS_RESEARCH",
+      "fact_verified": false
+    }
+  ],
+  "note": "Source supports fields are assertions inherited from the candidate, not new independent factual approval. HTTP success is not claim verification."
+}
