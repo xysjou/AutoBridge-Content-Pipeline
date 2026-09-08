@@ -76,14 +76,16 @@ A compatibilidade padrão de carregamento chinês e qualquer construção RHD/ex
 ## Fontes e Verificação
 | Origem | Organização | Mercado | Nível | Confiança | URL | Factos corroborados |
 |---|---|---|---|---|---|---|
-| MONA M03 续航矩阵 / 电机 / 尺寸 / 风阻 | 中关村在线车型库 | CN | T2 | CROSS_CHECKED | https://detail.zol.com.cn/series/2530/56250/param_10867053_0_1.html | 续航矩阵, 电机, 尺寸, 风阻 |
-| M03 电池容量 / 尺寸 / 续航 | 凤凰网汽车 | CN | T3 | SINGLE_SOURCE | https://auto.ifeng.com/c/8rmoEKUatsz | 电池容量, 尺寸, 续航 |
-| M03 尺寸 / 风阻 / 市场背景 | 腾讯新闻 | CN | T3 | SINGLE_SOURCE | http://news.qq.com/rain/a/20251107A03P0X00 | 尺寸, 风阻, 市场背景 |
-| 小鹏汽车官方网站 (车型线身份; 电池 -SKU 对应 / 快充以官方配置表终核) | 小鹏汽车 (XPENG) | CN | T1 | VERIFIED | https://www.xiaopeng.com/ | 车型线身份 |
+| 小鹏汽车OEM官网 | 小鹏汽车OEM官网 | CHINA | T1 | VERIFIED | https://www.xiaopeng.com/m03_2026/configuration.html | oem_exact_2026 |
+| 小鹏汽车OEM官网 | 小鹏汽车OEM官网 | CHINA | T1 | VERIFIED | https://www.xiaopeng.com/m03_2026.html | oem_model_page |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://m.autohome.com.cn/config/series/6998.html?pvareaid=2808400 | battery_supplier_note |
+| 中关村在线 | 中关村在线 | CHINA | T3 | CROSS_CHECKED+TIME_SENSITIVE | https://detail.zol.com.cn/series/2530/56250/param_10867053_0_1.html | identity；range_cltc；motor；domestic_msrp |
+| 凤凰网汽车 | 凤凰网汽车 | CHINA | T3 | SINGLE_SOURCE | https://auto.ifeng.com/c/8rmoEKUatsz | battery |
+| 腾讯新闻 | 腾讯新闻 | CHINA | T3 | CROSS_CHECKED | http://news.qq.com/rain/a/20251107A03P0X00 | dimensions |
 
 ## Revisão Editorial
 - **Autor**: AutoBridge Export Editorial Team · [autores](/autores/) · [Política editorial](/política editorial/)
-- ** Última revisão**: 2026-09-07
+- ** Última revisão**: 2026-09-08
 - **Mercado de referência**: CHINA(中国市场参考; 续航为 CLTC, 电池 -SKU 对应 / 供应商 / 快充为单一来源须小鹏官方终核)
 - ** Método de verificação**: Investigação de escritório contra as fontes abaixo indicadas; especificação de referência do mercado chinês apenas se for explicitamente citado um mercado de exportação separado. Os mapeamentos de bateria/intervalo/motor de fonte única, a compatibilidade padrão de carregamento e os preços de referência nacionais devem ser confirmados na folha OEM ou entrada MIIT antes de efetuar a transação.
 - ** Transparência**: Foi utilizada a elaboração assistida por IA. Este artigo é baseado em pesquisa documental e QA automatizado. Não se reivindica qualquer teste em primeira mão, a menos que explicitamente documentado.

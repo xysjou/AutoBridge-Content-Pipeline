@@ -77,15 +77,16 @@ RHD 없음 중국 시장 버전은 여기 설치됩니다; RHD 자격은 분리 
 ## 소스 및 검증
 | Source | - 연혁 | Market | Tier | 의논하기 | URL을 | 지원된 사실 |
 |---|---|---|---|---|---|---|
-| 捷途大圣参数矩阵 (动力/尺寸/轴距) | 懂车帝车型参数页 | CN | T2 | CROSS_CHECKED | https://m.dongchedi.com/auto/params-carIds-244819-244189-239860-239859-239857-239855-239854-100479-101040-94797-94798-98589-94485-94486-98590-94799 | 动力矩阵, 尺寸,  轴距 |
-| 捷途大圣车型配置 (尺寸 / 轴距) | 搜狐汽车车型库 | CN | T2 | CROSS_CHECKED | https://db.auto.sohu.com/model_6805/config | 尺寸,  轴距 |
-| 2024 款动力 / 变速箱 / 尺寸 | 太平洋汽车 | CN | T3 | SINGLE_SOURCE | https://m.pcauto.com.cn/x/4679/46796132.html | 2024 款动力, 变速箱, 尺寸 |
-| 2025 款 1.5TD 动力 / 尺寸 | 车主之家 | CN | T3 | SINGLE_SOURCE | https://m.16888.com/news/2026/0813/24845188.html | 2025款1.5TD, 尺寸 |
-| 捷途官方网站 (车型线身份; 정확한 trim 以官方配置表终核) | 奇瑞汽车 · 捷途 (제트) | CN | T1 | VERIFIED | https://www.jetour.com.cn/ | 车型线身份 |
+| 捷途汽车OEM官网 | 捷途汽车OEM官网 | CHINA | T1 | VERIFIED+TIME_SENSITIVE | https://www.jetour.com.cn/vehicles/2026xindasheng | oem_current_lineup_2026 |
+| 懂车帝 | 懂车帝 | CHINA | T2 | CROSS_CHECKED+TIME_SENSITIVE | https://m.dongchedi.com/auto/params-carIds-244819-244189-239860-239859-239857-239855-239854-100479-101040-94797-94798-98589-94485-94486-98590-94799 | eng_1_6t；domestic_msrp |
+| 太平洋汽车 | 太平洋汽车 | CHINA | T3 | CROSS_CHECKED | https://m.pcauto.com.cn/x/4679/46796132.html | dim_2024；eng_1_5t_2024 |
+| 搜狐汽车 | 搜狐汽车 | CHINA | T3 | CROSS_CHECKED | https://db.auto.sohu.com/model_6805/config | identity |
+| 网易汽车车型库 | 网易汽车车型库 | CHINA | T3 | CROSS_CHECKED | http://product.auto.163.com/series/config1/20351.html?product_id=000CQBaC | eng_cross_2024 |
+| 车主之家 | 车主之家 | CHINA | T3 | CROSS_CHECKED | https://m.16888.com/news/2026/0813/24845188.html | dim_2025；eng_1_5td_2025 |
 
 ## 편집 리뷰
 - **Author**: AutoBridge 수출 편집팀 · [authors](/authors/) · [편집 정책](/편집/)
-- **마지막 검토**: 2026-09-07
+- **마지막 검토**: 2026-09-08
 - **참고 시장 **: 중국 (中国市场参考; 2024 1.5T 与 2025 1.5TD 精确功率为单一来源, 须捷途官方/公告按 SKU 终核)
 - ** 인증 방법**: 아래 소스에 대한 책상 연구; 별도의 수출 시장이 명시적으로 인용되지 않는 한 중국 시장 참조 사양. 시간 과민한 품목 (trim 선, 국내 참고 가격) 및 단 하나 근원 산출은 transacting의 앞에 OEM 윤곽 장 또는 MIIT 입장에 재확인되어야 합니다.
 - **Transparency**: AI-assisted 초안 사용. 이 문서는 책상 연구 및 자동화 QA에 근거합니다. 명시적으로 문서화하지 않는 한 첫 번째 손 테스트가 주장되지 않습니다.

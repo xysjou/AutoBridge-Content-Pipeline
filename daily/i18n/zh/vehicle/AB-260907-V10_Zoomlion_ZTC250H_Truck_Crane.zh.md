@@ -85,14 +85,17 @@
 ## 源码验证(V)
 | 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
 |---|---|---|---|---|---|---|
-| ZTC 产品线 / 命名谱系 (25t 级身份) (中文(简体)). | 红网(今日头条镜像) (中文(简体)). | CN | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6717066179594158595/ | 浙东省产品线、命名谱系 |
-| 出口产品线背景 维基月球 | 潇湘晨报(今日头条镜像) (中文(简体)). | CN | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/7514294938104775222/ | 出口产品线背景 维基月球 |
-| 相邻型号 QY25H431 线索 (严禁套用性能) (中文(简体)). | 抖音百科 维基月球 | CN | T4 | UNVERIFIED | https://m.baike.com/wiki/%E4%B8%AD%E8%81%94%E9%87%8D%E7%A7%91QY25H431%E8%B5%B7%E9%87%8D%E6%9C%BA/20370495 | 相邻型号线索(禁套用) (中文(简体)). |
-| 中联重科官方网站（车型线身份；exact-model载荷表/规格须官方提供） | 中联重科 (Z) | CN | T1 | VERIFIED | https://www.zoomlion.com/ | 车型线身份 维基月球 |
+| 中国路面机械网(其zoomlion.brand子站同母机构,非Zoomlion官方) | 中国路面机械网(其zoomlion.brand子站同母机构,非Zoomlion官方) | CHINA | T3 | CROSS_CHECKED | http://qcd.lmjx.net/photo/detail/92990 | rated_capacity |
+| 中国路面机械网(其zoomlion.brand子站同母机构,非Zoomlion官方) | 中国路面机械网(其zoomlion.brand子站同母机构,非Zoomlion官方) | CHINA | T3 | CROSS_CHECKED | http://zoomlion.brand.lmjx.net/photo/qcqzj/92981 | boom_performance |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6717066179594158595/ | identity |
+| 铁甲网 | 铁甲网 | CHINA | T3 | CROSS_CHECKED | https://m.tiebaobei.com/canshu/1840920-121687.html | tiebaobei_cross |
+| 外贸B2B/未署名托管页 | 外贸B2B/未署名托管页 | CHINA | T4 | UNVERIFIED | https://www.alibaba.com/product-detail/Famous-Brand-Zoomlion-25-Ton-Heavy_1601387833761.html | engine_t4_lead |
+| 外贸B2B/未署名托管页 | 外贸B2B/未署名托管页 | EXPORT | T4 | UNVERIFIED | https://static-cdn.edit.site/users-files/affb79b6013f5f1939edaea717237c5f/ztc-250-h431-australia.pdf?dl=1 | submodel_h431 |
+| 抖音 | 抖音 | CHINA | T4 | UNVERIFIED | https://www.iesdouyin.com/share/video/6955107401305525538 | engine_blocked |
 
 ## 编辑评论
 - ** 作者**:自动桥出口编辑组 · [作者](/作者/) · [编辑政策](/编辑政策/)
-- ** 上次审查**:2026-09-07
+- ** 上次审查**:2026-09-08
 - **参考市场**:中国(中国市场身份级参考;主臂/起升高度/发动机/尺寸/载荷表无 精确型号官方来源,全部 BLOCKED,严禁套用 QY25H431/QY25K)
 - ** 核查方法**: 案头研究对照以下来源;身份级中国市场仅参考. 所有性能数据都需要精确的模型Zomlion规格和特定序列号的额定载荷图,任何RHD/export-certed building都需要单独的OEM证据才能进行切换.
 - ** 透明度**:使用了大赦国际协助的起草。 本条以案头研究和自动化质量保证为基础。 除非有明确文件证明,否则不声称进行过第一手测试。

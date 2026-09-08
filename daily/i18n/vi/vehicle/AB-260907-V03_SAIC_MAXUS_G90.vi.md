@@ -87,14 +87,17 @@ Xe của Trung Quốc là LHD; các thiết bị RHD/export cần bằng chứng
 ## Nguồn và Định dạng
 | Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
-| G90 车型配置 (尺寸 / 轴距 / 座位) | 搜狐汽车车型库 | CN | T2 | CROSS_CHECKED | https://db.auto.sohu.com/model_6638/config | 尺寸, 轴距. 座位 |
-| G90 2.0T 动力 / 8AT | 搜狐汽车车型库 | CN | T2 | CROSS_CHECKED | http://db.auto.sohu.com/trim_177919 | 2.0T 动力. 8AT |
-| G90 尺寸 / 座位 / 后备厢 | 太平洋汽车 | CN | T3 | SINGLE_SOURCE | http://m.pcauto.com.cn/x/4713/47132658.html | 尺寸, 座位. 后备厢 |
-| 上汽大通 MAXUS 官网 (车型线身份; ngoại trừ 以官方配置表终核) | 上汽大通 (SIC MAXUS) | CN | T1 | VERIFIED | https://www.saicmaxus.com/ | 车型线身份 |
+| SAIC MAXUS Export Site(出口市场) | SAIC MAXUS Export Site(出口市场) | EXPORT | T1 | SINGLE_SOURCE | https://en.saicmaxus.com/uploads/month_202411/files/ec11fa3253cee43d1ce047d77e0f7671.pdf | export_market_separate |
+| 上汽大通MAXUS OEM官网 | 上汽大通MAXUS OEM官网 | CHINA | T1 | VERIFIED | https://www.saicmaxus.com/uploads/month_202504/files/e4701cc9cd254142e185058d7e2750d9.pdf | engine；oem_exact_trim_2025 |
+| 上汽大通MAXUS OEM官网 | 上汽大通MAXUS OEM官网 | CHINA | T1 | VERIFIED+TIME_SENSITIVE | https://www.maxusmall.com/g90.shtml | oem_mall |
+| 易车 | 易车 | CHINA | T2 | CROSS_CHECKED | https://car.yiche.com/shangqidatongmaxusg90/m175510/peizhi/ | yiche_trim_split |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/6479.html | autohome_cross |
+| 太平洋汽车 | 太平洋汽车 | CHINA | T3 | VERIFIED | http://m.pcauto.com.cn/x/4713/47132658.html | dimensions；seats；cargo |
+| 搜狐汽车 | 搜狐汽车 | CHINA | T3 | CROSS_CHECKED+TIME_SENSITIVE | https://db.auto.sohu.com/model_6638/config | identity；domestic_msrp |
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team* [các tác giả] (/các tác giả/)_* [Chính sách hiệu chỉnh] (/chính sách chính sách đối lập/)
-- **Last xem lại**: 2026-09-07
+- **Last xem lại**: 2026-09-08
 - ** Thị trường khảo sát**: CHINA(中国市场燃油 G90 参考; 2.0T 精确功率 / 座位 -trim 对应为单一来源, 混动 / 纯电 / 右舵不入本篇).
 - Phương pháp xác thực **: Nghiên cứu về các nguồn tin bên dưới; đặc điểm tham khảo thị trường Trung Quốc chỉ trừ khi một thị trường xuất khẩu riêng biệt được viện dẫn rõ ràng. Các nguồn đầu ra độc lập, bản đồ vị trí và giá tham khảo trong nước phải được xác nhận lại trên tờ OEM hoặc MIIT trước khi chuyển đổi.
 - **Sự khác biệt**: việc soạn thảo có hỗ trợ bởi Al-assed đã được sử dụng. Bài này dựa trên nghiên cứu bàn giấy và tự động QA. Không có thử nghiệm tay đầu tiên được tuyên bố trừ khi được ghi lại rõ ràng.

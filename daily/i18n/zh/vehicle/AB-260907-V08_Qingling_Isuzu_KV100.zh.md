@@ -81,15 +81,18 @@ The referenced line uses the 4KH1CN6LB 3.0-litre China-6 diesel quoted at 120 PS
 ## 源码验证(V)
 | 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
 |---|---|---|---|---|---|---|
-| KV100 4KH1 发动机 / 变速箱 / 国六 存档副本. | 卡车之家官方号(今日头条镜像) (中文(简体)). | CN | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6909341128869315076/ | 4KH1 发动机, 变速箱, 国六 号 |
-| 4KH1 另一后缀功率 (区分后缀) (中文(简体)). | 卡车之家官方号(今日头条镜像) (中文(简体)). | CN | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6891911045259100683/ | 4KH1 另一后缀功率 (中文(简体)). |
-| 相邻车型线区分(100P 等) (中文(简体)). | 提加商用车网(今日头条镜像) (中文(简体)). | CN | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/7351812463941190163/ | 相邻车型线区分 维基月球 |
-| 二手样本载质量线索(不作规格) (中文(简体)). | 58同城 | CN | T4 | UNVERIFIED | https://m.58.com/sz/huochec/60462479681462x.shtml | 载质量线索 维基月球 |
-| 庆铃汽车官方网站(车型线身份;准确的-trim 以官方/公告终核)))                                                                       | 庆铃汽车 (清灵岩苏州). | CN | T1 | VERIFIED | https://www.qingling.com.cn/ | 车型线身份 维基月球 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m597/149294_param.html | canonical_4kh1 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m645/161486_param.html | variant_4kk1 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.m.360che.com/s28/7007_64_param.html | multitrim_2026 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m653/163447_param.html | blueplate_vs_heavy |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.360che.com/m827/206961_param.html | new_100p_line |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/8174.html | autohome_series |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6909341128869315076/ | identity；engine_4kh1 |
+| 58同城 | 58同城 | CHINA | T4 | SINGLE_SOURCE | https://m.58.com/sz/huochec/60462479681462x.shtml | cargo_length；payload |
 
 ## 编辑评论
 - ** 作者**:自动桥出口编辑组 · [作者](/作者/) · [编辑政策](/编辑政策/)
-- ** 上次审查**:2026-09-07
+- ** 上次审查**:2026-09-08
 - **参考市场**:中国(中国市场蓝牌轻卡参考;4KH1功率为单一来源;二手载质量为T4不作规格;与全球 Isuzu ELF不自动同型)
 - ** 核查方法**: 案头研究对照以下来源;中国市场参考规格仅需明确引用单独的出口市场. 单源引擎输出和所有额定有效载荷/GVW数字必须在OEM表或MIIT同位素条目上重新确认,具有全球Isuzu的同型态需要先有明确的OEM声明后才能进行交易.
 - ** 透明度**:使用了大赦国际协助的起草。 本条以案头研究和自动化质量保证为基础。 除非有明确文件证明,否则不声称进行过第一手测试。

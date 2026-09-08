@@ -87,14 +87,17 @@ Cargo volume is quoted at roughly **1010.5–2179 L** as the third row is folded
 ## ソースと検証
 | ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
 |---|---|---|---|---|---|---|
-| G90 车型配置 (尺寸/轴距/座位) | 搜狐汽车车型库 | CN | T2 | CROSS_CHECKED | https://db.auto.sohu.com/model_6638/config | 尺寸、轴距、座位 |
-| G90 2.0T 动力 / 8AT | 搜狐汽车车型库 | CN | T2 | CROSS_CHECKED | http://db.auto.sohu.com/trim_177919 | 2.0T 动力、8AT |
-| G90 尺寸 / 座位 / 后备厢 | 太平洋汽车 | CN | T3 | SINGLE_SOURCE | http://m.pcauto.com.cn/x/4713/47132658.html | 尺寸、座位、后备厢 |
-| 上汽大通 MAXUS 官网 (车型线身份;exactトリム以官方配置表终核) | 上汽大通 (SAIC MAXUS) (SIC MAXUS) の | CN | T1 | VERIFIED | https://www.saicmaxus.com/ | 车型线身份 |
+| SAIC MAXUS Export Site(出口市场) | SAIC MAXUS Export Site(出口市场) | EXPORT | T1 | SINGLE_SOURCE | https://en.saicmaxus.com/uploads/month_202411/files/ec11fa3253cee43d1ce047d77e0f7671.pdf | export_market_separate |
+| 上汽大通MAXUS OEM官网 | 上汽大通MAXUS OEM官网 | CHINA | T1 | VERIFIED | https://www.saicmaxus.com/uploads/month_202504/files/e4701cc9cd254142e185058d7e2750d9.pdf | engine；oem_exact_trim_2025 |
+| 上汽大通MAXUS OEM官网 | 上汽大通MAXUS OEM官网 | CHINA | T1 | VERIFIED+TIME_SENSITIVE | https://www.maxusmall.com/g90.shtml | oem_mall |
+| 易车 | 易车 | CHINA | T2 | CROSS_CHECKED | https://car.yiche.com/shangqidatongmaxusg90/m175510/peizhi/ | yiche_trim_split |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/6479.html | autohome_cross |
+| 太平洋汽车 | 太平洋汽车 | CHINA | T3 | VERIFIED | http://m.pcauto.com.cn/x/4713/47132658.html | dimensions；seats；cargo |
+| 搜狐汽车 | 搜狐汽车 | CHINA | T3 | CROSS_CHECKED+TIME_SENSITIVE | https://db.auto.sohu.com/model_6638/config | identity；domestic_msrp |
 
 ## 編集レビュー
 - **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)
-- **最終審査**:2026-09-07
+- **最終審査**:2026-09-08
 - **参考市場**:中国(中国市场燃油 G90 参考;2.0T 精确功率 / 座位 - トリム对应为单一来源、混动 / 纯电 / 右舵不入本篇)
 - **検証方法**: 下記のソースに対するデスクリサーチ。 別々の輸出市場が明示的に引用されていない限り、中国市場参照仕様。 単元出力、シートトリムマッピング、国内参照価格は、OEMシートやMIITエントリーでトランスフォーメーション前に再確認する必要があります。
 - **透明性**:AI-assistedドラフトが使われていました。 本記事は、デスクリサーチと自動QAをベースとしています。 明示的に文書化されていない限り、中古テストは要求されません。

@@ -74,14 +74,16 @@ Décisivement. La divulgation est la plus forte avant que les douanes n'aient co
 ## Sources et vérification
 | Source | Organisation | Marché | Niveau | Confiance | URL | Faits corroborés |
 |---|---|---|---|---|---|---|
-| 主动披露不予 / 减轻处罚情形与执行期 (现行公告, 2025-10-11 至 2027-06-30) | 中华人民共和国海关总署 | CN | T1 | TIME_SENSITIVE | http://www.customs.gov.cn/customs/2025-10/16/article_2025112113223334087.html | 主动披露, 不予处罚情形, 执行期 |
-| 主动披露政策解读与适用情形 | 中华人民共和国海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2026-04/28/article_2026042810424858921.html | 政策解读, 适用情形 |
-| 海关稽查条例及实施办法 (主动披露依据, 含第 27 条) | 中华人民共和国海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2026-01/13/article_2026041015241473300.html | 稽查条例, 主动披露依据 |
-| 主动披露政策沿革 (单一窗口地方站, 背景) | 福建国际贸易单一窗口 | CN | T2 | CROSS_CHECKED | https://www.fjdport.gov.cn/fj/news/content?contentId=1730515485179834369 | 政策沿革 |
+| 国务院公报 | 中国政府网/国务院 | CN | T1 | VERIFIED | https://www.gov.cn/gongbao/content/2016/content_5092448.htm | 国务院令第670号《国务院关于修改〈中华人民共和国海关稽查条例〉的决... |
+| 司法部·国家行政法规库 | 司法部·国家行政法规库 | CN | T1 | VERIFIED | http://xzfg.moj.gov.cn/front/law/detail?LawID=699 | 《海关稽查条例》(国务院令)确立稽查与企业主动报告/主动披露的行政法... |
+| 福建单一窗口 | 国际贸易单一窗口 | CN | T1 | SINGLE_SOURCE | https://www.fjdport.gov.cn/fj/news/content?contentId=1730515485179834369 | 地方单一窗口对主动披露办理流程有操作说明（辅助） |
+| 海关总署公告 | 海关总署 | CN | T1 | VERIFIED+TIME_SENSITIVE | http://www.customs.gov.cn/customs/2025-10/16/article_2025112113223334087.html | 主动披露指企业自查发现少缴漏缴税款或其他违反海关监管规定情形；符合条件的主动披露可依法不予行政处罚、从轻或减轻处罚；现行处理口径执行期2025-10-11至2027-06-30（当期窗口 |
+| 海关总署政策直通车 | 海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2026-01/13/article_2026041015241473300.html | 主动披露上位依据为海关稽查条例及其实施办法 |
+| 海关总署 | 海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2026-04/28/article_2026042810424858921.html | 海关总署2026年主动披露政策解读（办理口径、不予处罚情形与程序） |
 
 ## Révision de la rédaction
 - **Auteur**: Équipe de rédaction d'AutoBridge Export · [auteurs](/auteurs/) · [Politique éditoriale](/politique éditoriale/)
-- **Dernière révision**: 2026-09-07
+- **Dernière révision**: 2026-09-08
 - **Marché de référence**: CN(中国海关主动披露; 现行宽容窗口时间敏感, 逐案结果以海关认定为准)
 - **Méthode de vérification**: Recherches sur support papier en fonction des sources ci-dessous; cadre de référence du marché chinois seulement. La question de savoir si un cas particulier peut être considéré comme non pénalisé ou comme traité de façon réduite et toute politique postérieure à la fenêtre doit être confirmée par rapport à l'annonce officielle en cours et à la douane de traitement avant d'agir.
 - **Transparence**: La rédaction assistée par AI a été utilisée. Cet article est basé sur la recherche sur le bureau et l'AQ automatisée. Aucun test de première main n'est demandé à moins d'être explicitement documenté.

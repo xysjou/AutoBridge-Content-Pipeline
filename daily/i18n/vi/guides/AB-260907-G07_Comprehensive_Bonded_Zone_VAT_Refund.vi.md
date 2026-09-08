@@ -80,15 +80,16 @@ Không, công viên phi công được đặt tên theo một danh sách thời 
 ## Nguồn và Định dạng
 | Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
-| 综合保税区一般纳税人试点与税收安排 (国务院政策库) | 中国政府网 | CN | T1 | VERIFIED | https://www.gov.cn/zhengce/zhengceku/2019-08/17/content_5462154.htm | 一般纳税人试点, 入区退税. 税收安排 |
-| 视同出口  dám 自用设备政策解读 | 中国政府网 | CN | T1 | VERIFIED | https://www.gov.cn/zhengce/2019-08/17/content_5421881.htm | 视同出口, 自用设备 |
-| 综合保税区税务口径与试点条件 | 国家税务总局 | CN | T1 | VERIFIED | https://www.chinatax.gov.cn/chinatax/n810341/n810760/c5135327/content.html | 税务口径, 试点条件 |
-| 一线二线  thể loại 入区退税 选择性征税 (海关总署) | 中华人民共和国海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2026-03/30/article_2026033016461110661.html | 一线二线, 入区退税. 选择性征税 |
-| 财政部 (综合保税区财税政策主管部门) | 中华人民共和国财政部 | CN | T1 | VERIFIED | https://www.mof.gov.cn/ | 综保区财税政策框架 |
+| 三部门试点公告 | 中国政府网/国务院 | CN | T1 | VERIFIED | https://www.gov.cn/zhengce/zhengceku/2019-08/17/content_5462154.htm | 符合条件的综保区企业可申请增值税一般纳税人资格试点 |
+| 官方解读 | 中国政府网/国务院 | CN | T1 | VERIFIED | https://www.gov.cn/zhengce/2019-08/17/content_5421881.htm | 试点企业进口自用设备在规定范围内可暂免征收进口税收 |
+| 国务院 | 中国政府网/国务院 | CN | T1 | VERIFIED | https://www.gov.cn/zhengce/zhengceku/2019-01/25/content_5361158.htm | 《国务院关于促进综合保税区高水平开放高质量发展的若干意见》(国发〔2... |
+| 税务总局 | 国家税务总局 | CN | T1 | CROSS_CHECKED | https://www.chinatax.gov.cn/chinatax/n810341/n810760/c5135327/content.html | 区内货物内销可按对应进口料件或实际报验状态选择性征收关税 |
+| 新疆维吾尔自治区发改委政策库 | 新疆维吾尔自治区发改委(地方政府政策库) | CN | T1 | CROSS_CHECKED | https://xjdrc.xinjiang.gov.cn/xjfgw/c112377/202204/dd92dfe618da41208970c89a0f37d008.shtml | 地方政府政策库正式收录税务总局/财政部/海关总署综保区一般纳税人试点... |
+| 海关总署+政府网 | 海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2026-03/30/article_2026033016461110661.html | 综保区'一线'进境保税、'二线'按状态报关；境内货物入区视同出口可办... |
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team* [các tác giả] (/các tác giả/)_* [Chính sách hiệu chỉnh] (/chính sách chính sách đối lập/)
-- **Last xem lại**: 2026-09-07
+- **Last xem lại**: 2026-09-08
 - ** chợ khảo sát**: CN(中国海关特殊监管区域财税; 试点园区名单时间敏感, 逐案税负不估算)
 - Phương pháp xác thực **: Nghiên cứu về các nguồn tin bên dưới; chỉ có khung tham khảo của Trung Quốc. Cho dù một công viên cụ thể là một phi công được chấp thuận, kết quả thuế đặc biệt và bất kỳ hạn chế xe cộ cụ thể nào phải được xác nhận với chính quyền vùng, hải quan địa phương và quyền thuế trước khi chuyển giao.
 - **Sự khác biệt**: việc soạn thảo có hỗ trợ bởi Al-assed đã được sử dụng. Bài này dựa trên nghiên cứu bàn giấy và tự động QA. Không có thử nghiệm tay đầu tiên được tuyên bố trừ khi được ghi lại rõ ràng.

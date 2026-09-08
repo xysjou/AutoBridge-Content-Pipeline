@@ -76,16 +76,16 @@
 ## المصدر: التحقق
 | المصدر | المنظمة | السوق | النمور | الثقة | URL | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
-| 关于增列跨境电子商务监管方式（9710/9810定义、代码）公告附件 | 中华人民共和国海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/fileDir/resource/cms/article/302267/3183138/2020070916175637208.pdf | 9710/9810 定义, 增列代码 |
-| 跨境电商B2B出口监管（企业备案、通关） | 中华人民共和国海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2020-07/09/article_2025121221010360532.html | 9710/9810, 企业备案, 通关 |
-| 试点推广与适用范围 | 中华人民共和国海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2021-06/30/article_2025121220574619165.html | 试点推广, 适用范围 |
-| 跨境电商B2B出口操作流程与场景 | 海关总署广东分署 | CN | T1 | VERIFIED | http://gdfs.customs.gov.cn/beijing_customs/ztzl1/cjsfw58/kjdscjhfw/index.html | 操作流程, 场景 |
-| 跨境电商出口退税衔接与合规要点（贸促系统） | 四川贸促会 | CN | T1 | VERIFIED | https://www.ccpit-sichuan.org/newshow.aspx?id=17802&mid=91 | 退税衔接, 合规要点 |
-| 中国国际贸易单一窗口（线上申报主通道） | 中国国际贸易单一窗口 | CN | T1 | VERIFIED | https://www.singlewindow.cn/ | 单一窗口申报通道 |
+| 中国政府网 | 中国政府网/国务院 | CN | T1 | VERIFIED | https://www.gov.cn/zhengce/zhengceku/202501/content_7001563.htm | 中国政府网政策库对跨境电商B2B出口(9710/9810)监管与推广... |
+| 国家税务总局 | 国家税务总局 | CN | T1 | VERIFIED | https://fgk.chinatax.gov.cn/zcfgk/c100012/c5238152/content.html | 跨境电商9810出口海外仓适用离境即退/出口退(免)税政策 |
+| 海关总署75号公告 | 海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2020-07/09/article_2025121221010360532.html | 监管方式代码9710为'跨境电子商务对企业直接出口'(B2B直接出口)；监管方式代码9810为'跨境电子商务出口海外仓' |
+| 海关总署推广解读 | 海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2021-06/30/article_2025121220574619165.html | 9710/9810经试点后全国复制推广 |
+| 广东分署 | 海关总署 | CN | T1 | CROSS_CHECKED | http://gdfs.customs.gov.cn/beijing_customs/ztzl1/cjsfw58/kjdscjhfw/index.html | 9810以出口到本企业境外海外仓为特征 |
+| 四川贸促会 | 中国国际贸易促进委员会(CCPIT) | CN | T2 | SINGLE_SOURCE | https://www.ccpit-sichuan.org/newshow.aspx?id=17802&mid=91 | 地方贸促会对9710/9810适用与申报有操作说明（行业辅助） |
 
 ## استعراض التحرير
 - ♪ صاحب البلاغ** : فريق تحرير الصادرات: [مؤلف] (/مؤلف) - [سياسة تأبينية] (سياسة تحريرية)
-- ** لم يُستعرض بعد**: 2026-09-07
+- ** لم يُستعرض بعد**: 2026-09-08
 - ** سوق الإحالة**: CN（中国出口侧跨境电商B2B监管；具体商品准入与属地操作以主管海关当期口径为准）
 - ** طريقة الفرز**: Desk research against the sources below; Chinese-market reference framework only. ويجب التأكد من ما إذا كانت السلع الأساسية محددة تُقيّد، ومن الاختلافات التجريبية المحلية، ومن نتائج إعادة التشغيل، وذلك بإشراف السلطات الجمركية والضريبية قبل التحول.
 - ** الشفافية**: استُخدمت الصياغة المدعومة من منظمة العفو الدولية. وتستند هذه المادة إلى البحوث المكتبية وآلية الجودة. ولا يُدَّعى إجراء أي اختبار مباشر إلا إذا وُثِّق صراحة.

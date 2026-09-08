@@ -76,14 +76,16 @@ Chinesische Ladestandard-Kompatibilität und RHD / Export Build erfordern separa
 ## Quellen & Verifizierung
 | Quelle | Organisation | Markt | Tier | Vertrauen | URL | Belegte Fakten |
 |---|---|---|---|---|---|---|
-| MONA M03 续航矩阵 / 电机 / 尺寸 / 风阻 | 中关村在线车型库 | CN | T2 | CROSS_CHECKED | https://detail.zol.com.cn/series/2530/56250/param_10867053_0_1.html | 续航矩阵, 电机, 尺寸, 风阻 |
-| M03 电池容量 / 尺寸 / 续航 | 凤凰网汽车 | CN | T3 | SINGLE_SOURCE | https://auto.ifeng.com/c/8rmoEKUatsz | 电池容量, 尺寸, 续航 |
-| M03 尺寸 / 风阻 / 市场背景 | 腾讯新闻 | CN | T3 | SINGLE_SOURCE | http://news.qq.com/rain/a/20251107A03P0X00 | 尺寸, 风阻, 市场背景 |
-| 小鹏汽车官方网站 (车型线身份; 电池 -SKU 对应 / 快充以官方配置表终核) | 小鹏汽车 (XPeng) | CN | T1 | VERIFIED | https://www.xiaopeng.com/ | 车型线身份 |
+| 小鹏汽车OEM官网 | 小鹏汽车OEM官网 | CHINA | T1 | VERIFIED | https://www.xiaopeng.com/m03_2026/configuration.html | oem_exact_2026 |
+| 小鹏汽车OEM官网 | 小鹏汽车OEM官网 | CHINA | T1 | VERIFIED | https://www.xiaopeng.com/m03_2026.html | oem_model_page |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://m.autohome.com.cn/config/series/6998.html?pvareaid=2808400 | battery_supplier_note |
+| 中关村在线 | 中关村在线 | CHINA | T3 | CROSS_CHECKED+TIME_SENSITIVE | https://detail.zol.com.cn/series/2530/56250/param_10867053_0_1.html | identity；range_cltc；motor；domestic_msrp |
+| 凤凰网汽车 | 凤凰网汽车 | CHINA | T3 | SINGLE_SOURCE | https://auto.ifeng.com/c/8rmoEKUatsz | battery |
+| 腾讯新闻 | 腾讯新闻 | CHINA | T3 | CROSS_CHECKED | http://news.qq.com/rain/a/20251107A03P0X00 | dimensions |
 
 ## Editorial Review
 - **AutoBridge Export Editorial Team · [Autoren](/Autoren/) · [Editorial Policy](/Editorial-Policy/]
-- **Zuletzt überprüft**: 2026-09-07
+- **Zuletzt überprüft**: 2026-09-08
 - **Referenzmarkt**: CHINA(中国市场参考; 续航为 CLTC, 电池 -SKU 对应 / 供应商 / 快充为单一来源须小鹏官方终核)
 - **Verifizierungsmethode**: Desk-Recherche mit den unten genannten Quellen; Referenzspezifikation für den chinesischen Markt nur, sofern nicht ausdrücklich ein separater Exportmarkt angegeben wird. Einzelquellen-Batterie-/Bereichs-/Motorabbildungen, Ladestandard-Kompatibilität und Referenzpreise im Inland müssen vor der Transaktion auf dem OEM-Blatt oder dem MIIT-Eintrag erneut bestätigt werden.
 - **Transparenz**: KI-unterstütztes Zeichnen wurde verwendet. Dieser Artikel basiert auf Desk Research und automatisierter QA. Es werden keine Tests aus erster Hand beansprucht, es sei denn, sie sind ausdrücklich dokumentiert.

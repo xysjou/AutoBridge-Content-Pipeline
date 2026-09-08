@@ -71,14 +71,16 @@ CMP 플랫폼을 사용하고 프론트 엔진 / 프론트 휠 드라이브입�
 ## 소스 및 검증
 | Source | - 연혁 | Market | Tier | 의논하기 | URL을 | 지원된 사실 |
 |---|---|---|---|---|---|---|
-| 奕炫参数 (2025 款动力/尺寸/轴距) | 懂车帝车型参数页 | CN | T2 | CROSS_CHECKED | https://m.dongchedi.com/auto/params-carIds-248306-248307-248571-245458-97522-97523-79598 | 2025 款动力, 尺寸, 轴距 |
-| 奕炫尺寸 / 轴距 / 奕炫尺寸 / 轴距 / 奕炫尺寸 / 轴距 / 轴距 / 轴距 / 轴距 / 轴距 / 轴距 / 奕炫尺寸 / 轴距 / 奕炫尺寸 / 轴距 / 轴距 / 奕炫尺寸 / 轴距 / 轴距 / 轴距 / 轴距 / 轴距 / 轴距 / 轴距 / 轴距 / 轴距 / 轴距 / 奕炫尺寸 / 轴距 / 奕炫尺寸 / 轴距 / 奕炫尺寸 / 轴距 / 轴距 / 奕炫尺寸 / 轴距 / 轴距 / 轴距 / 轴距 / 轴距 / 轴距 / 轴距 / 轴距 / 轴距 / 轴距 / 轴距 / 轴距 / 轴距 / 轴距 | 搜狐汽车 | CN | T3 | SINGLE_SOURCE | http://db.m.auto.sohu.com/model_5991/a/995643471_120590677 | 尺寸,  轴距 |
-| 马赫版 1.5T/ 变速箱 (较早动力线) | 太平洋汽车 (今日头条镜像년) | CN | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/7159927255685956132/ | 马赫版 1.5T,  变速箱 |
-| 东风风神官方网站 (车型线身份; 정확한 trim 以官方配置表终核) | 东风乘用车 · 东风风神 (아에올루스) | CN | T1 | VERIFIED | https://www.dfpv.com.cn/ | 车型线身份 |
+| 东风汽车集团(同东风OEM母机构,归一) | 东风汽车集团(同东风OEM母机构,归一) | CHINA | T1 | VERIFIED | https://www.dfmc.com.cn/news/company/news_20250516_1434.html | group_launch |
+| 东风风神OEM官网 | 东风风神OEM官网 | CHINA | T1 | VERIFIED+TIME_SENSITIVE | https://www.dfpv.com.cn/carlist.html?model_id=25 | oem_current |
+| 懂车帝 | 懂车帝 | CHINA | T2 | CROSS_CHECKED+TIME_SENSITIVE | https://m.dongchedi.com/auto/params-carIds-248306-248307-248571-245458-97522-97523-79598 | identity；eng_1_5l_2025；domestic_msrp |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://m.autohome.com.cn/config/series/5103.html?platform-key=m | eng_1_5l_cross |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/7159927255685956132/ | eng_1_5t_mahdi |
+| 搜狐汽车 | 搜狐汽车 | CHINA | T3 | CROSS_CHECKED | http://db.m.auto.sohu.com/model_5991/a/995643471_120590677 | dimensions |
 
 ## 편집 리뷰
 - **Author**: AutoBridge 수출 편집팀 · [authors](/authors/) · [편집 정책](/편집/)
-- **마지막 검토**: 2026-09-07
+- **마지막 검토**: 2026-09-08
 - **참고 시장 **: 중국 (中国市场参考; 1.5L 与马赫 1.5T 精确功率为单一来源, 须风神官方 / 公告按年款 SKU 终核)
 - ** 인증 방법**: 아래 소스에 대한 책상 연구; 별도의 수출 시장이 명시적으로 인용되지 않는 한 중국 시장 참조 사양. 단일 소스 출력, 트림 라인 업 및 국내 참조 가격은 transacting 전에 OEM 시트 또는 MIIT 항목에 다시 확인해야합니다.
 - **Transparency**: AI-assisted 초안 사용. 이 문서는 책상 연구 및 자동화 QA에 근거합니다. 명시적으로 문서화하지 않는 한 첫 번째 손 테스트가 주장되지 않습니다.

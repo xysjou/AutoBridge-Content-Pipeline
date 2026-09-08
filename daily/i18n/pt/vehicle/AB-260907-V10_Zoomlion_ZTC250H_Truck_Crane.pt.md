@@ -85,14 +85,17 @@ A máquina de mercado chinês é LHD; qualquer RHD ou exportação-certificado Z
 ## Fontes e Verificação
 | Origem | Organização | Mercado | Nível | Confiança | URL | Factos corroborados |
 |---|---|---|---|---|---|---|
-| ZTC 产品线 / 命名谱系 (25t 级身份) | 红网 (今日头条镜像) | CN | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6717066179594158595/ | ZTC 产品线, 命名谱系 |
-| 出口产品线背景 | 潇湘晨报 (今日头条镜像) | CN | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/7514294938104775222/ | 出口产品线背景 |
-| 相邻型号 QY25H431 线索 (严禁套用性能) | 抖音百科 | CN | T4 | UNVERIFIED | https://m.baike.com/wiki/%E4%B8%AD%E8%81%94%E9%87%8D%E7%A7%91QY25H431%E8%B5%B7%E9%87%8D%E6%9C%BA/20370495 | 相邻型号线索 (禁套用) |
-| 中联重科官方网站 (车型线身份; modelo exato 载荷表 / 规格须官方提供) | 中联重科(Zoomlion) | CN | T1 | VERIFIED | https://www.zoomlion.com/ | 车型线身份 |
+| 中国路面机械网(其zoomlion.brand子站同母机构,非Zoomlion官方) | 中国路面机械网(其zoomlion.brand子站同母机构,非Zoomlion官方) | CHINA | T3 | CROSS_CHECKED | http://qcd.lmjx.net/photo/detail/92990 | rated_capacity |
+| 中国路面机械网(其zoomlion.brand子站同母机构,非Zoomlion官方) | 中国路面机械网(其zoomlion.brand子站同母机构,非Zoomlion官方) | CHINA | T3 | CROSS_CHECKED | http://zoomlion.brand.lmjx.net/photo/qcqzj/92981 | boom_performance |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6717066179594158595/ | identity |
+| 铁甲网 | 铁甲网 | CHINA | T3 | CROSS_CHECKED | https://m.tiebaobei.com/canshu/1840920-121687.html | tiebaobei_cross |
+| 外贸B2B/未署名托管页 | 外贸B2B/未署名托管页 | CHINA | T4 | UNVERIFIED | https://www.alibaba.com/product-detail/Famous-Brand-Zoomlion-25-Ton-Heavy_1601387833761.html | engine_t4_lead |
+| 外贸B2B/未署名托管页 | 外贸B2B/未署名托管页 | EXPORT | T4 | UNVERIFIED | https://static-cdn.edit.site/users-files/affb79b6013f5f1939edaea717237c5f/ztc-250-h431-australia.pdf?dl=1 | submodel_h431 |
+| 抖音 | 抖音 | CHINA | T4 | UNVERIFIED | https://www.iesdouyin.com/share/video/6955107401305525538 | engine_blocked |
 
 ## Revisão Editorial
 - **Autor**: AutoBridge Export Editorial Team · [autores](/autores/) · [Política editorial](/política editorial/)
-- ** Última revisão**: 2026-09-07
+- ** Última revisão**: 2026-09-08
 - ** Mercado de referência**: CHINA(中国市场身份级参考; 主臂 / 起升高度 / 发动机 / 尺寸 / 载荷表无 modelo exato 官方来源, 全部 BLOCADO, 严禁套用 QY25H431/QY25K)
 - ** Método de verificação**: Pesquisa de secretária contra as fontes abaixo; referência de nível de identidade apenas no mercado chinês. Todos os dados de desempenho requerem uma especificação de Zoomlion modelo exato e gráfico de carga nominal para o número de série específico, e qualquer construção certificada por RHD/exportação requer evidência separada do OEM antes de transagir.
 - ** Transparência**: Foi utilizada a elaboração assistida por IA. Este artigo é baseado em pesquisa documental e QA automatizado. Não se reivindica qualquer teste em primeira mão, a menos que explicitamente documentado.

@@ -80,15 +80,16 @@ Sob reserva das regras, o direito pode ser cobrado por referência quer aos inpu
 ## Fontes e Verificação
 | Origem | Organização | Mercado | Nível | Confiança | URL | Factos corroborados |
 |---|---|---|---|---|---|---|
-| 综合保税区一般纳税人试点与税收安排 (国务院政策库) | 中国政府网 | CN | T1 | VERIFIED | https://www.gov.cn/zhengce/zhengceku/2019-08/17/content_5462154.htm | 一般纳税人试点, 入区退税, 税收安排 |
-| 视同出口、自用设备政策解读 | 中国政府网 | CN | T1 | VERIFIED | https://www.gov.cn/zhengce/2019-08/17/content_5421881.htm | 视同出口, 自用设备 |
-| 综合保税区税务口径与试点条件 | 国家税务总局 | CN | T1 | VERIFIED | https://www.chinatax.gov.cn/chinatax/n810341/n810760/c5135327/content.html | 税务口径, 试点条件 |
-| 一线二线. o 入区退税, o 选择性征税 (海关总署) | 中华人民共和国海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2026-03/30/article_2026033016461110661.html | 一线二线, 入区退税, 选择性征税 |
-| 财政部 (综合保税区财税政策主管部门) | 中华人民共和国财政部 | CN | T1 | VERIFIED | https://www.mof.gov.cn/ | 综保区财税政策框架 |
+| 三部门试点公告 | 中国政府网/国务院 | CN | T1 | VERIFIED | https://www.gov.cn/zhengce/zhengceku/2019-08/17/content_5462154.htm | 符合条件的综保区企业可申请增值税一般纳税人资格试点 |
+| 官方解读 | 中国政府网/国务院 | CN | T1 | VERIFIED | https://www.gov.cn/zhengce/2019-08/17/content_5421881.htm | 试点企业进口自用设备在规定范围内可暂免征收进口税收 |
+| 国务院 | 中国政府网/国务院 | CN | T1 | VERIFIED | https://www.gov.cn/zhengce/zhengceku/2019-01/25/content_5361158.htm | 《国务院关于促进综合保税区高水平开放高质量发展的若干意见》(国发〔2... |
+| 税务总局 | 国家税务总局 | CN | T1 | CROSS_CHECKED | https://www.chinatax.gov.cn/chinatax/n810341/n810760/c5135327/content.html | 区内货物内销可按对应进口料件或实际报验状态选择性征收关税 |
+| 新疆维吾尔自治区发改委政策库 | 新疆维吾尔自治区发改委(地方政府政策库) | CN | T1 | CROSS_CHECKED | https://xjdrc.xinjiang.gov.cn/xjfgw/c112377/202204/dd92dfe618da41208970c89a0f37d008.shtml | 地方政府政策库正式收录税务总局/财政部/海关总署综保区一般纳税人试点... |
+| 海关总署+政府网 | 海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2026-03/30/article_2026033016461110661.html | 综保区'一线'进境保税、'二线'按状态报关；境内货物入区视同出口可办... |
 
 ## Revisão Editorial
 - **Autor**: AutoBridge Export Editorial Team · [autores](/autores/) · [Política editorial](/política editorial/)
-- ** Última revisão**: 2026-09-07
+- ** Última revisão**: 2026-09-08
 - **Mercado de referência**: NC(中国海关特殊监管区域财税; 试点园区名单时间敏感, 逐案税负不估算)
 - ** Método de verificação**: Pesquisa de secretária contra as fontes abaixo; Quadro de referência do mercado chinês apenas. Se um parque específico é um piloto aprovado, resultados fiscais específicos caso e quaisquer restrições de zona específica de veículos devem ser confirmadas com a administração da zona, alfândegas locais e autoridade fiscal antes de proceder à transação.
 - ** Transparência**: Foi utilizada a elaboração assistida por IA. Este artigo é baseado em pesquisa documental e QA automatizado. Não se reivindica qualquer teste em primeira mão, a menos que explicitamente documentado.

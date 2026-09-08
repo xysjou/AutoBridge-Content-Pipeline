@@ -17,10 +17,16 @@ A China-market unit is typically engineered around Chinese users and domestic cl
 ## Why a China-Domestic Unit Can Struggle Overseas (industry pattern)
 Many Chinese brands use largely self-developed, Android-based cockpits (industry examples include BYD **DiLink**, NIO **SkyOS** and XPeng **Xmart OS** — illustrative, not a uniform feature list), often with a Chinese-default language layer and domestic-service ecosystem. In **reported cases**, *some parallel-imported China-market vehicles* in markets from Ukraine and Russia to the UAE, Saudi, Brazil and Thailand arrived with Chinese-only UI, China-only maps or inaccessible master accounts. Treat these as **reported cases and a pattern to test for**, not a claim that every unit of every brand behaves identically: the same brand may ship a fully localised export build alongside a domestic one, and one model's case does not establish another model's behaviour.
 ## Evidence Ceiling (read before generalising)
-This article's cross-brand material has a hard ceiling: **all five supporting sources are SINGLE_SOURCE industry/service/media accounts, and there is no official cross-brand (regulator or multi-OEM) source** establishing that Chinese vehicles as a class share these software problems. Accordingly:
+This article's cross-brand *behaviour* material keeps a hard ceiling: **every source describing how China-market head units, maps, accounts or OTA behave in practice is an industry, service or media account (SINGLE_SOURCE, or CROSS_CHECKED where two agree)**, and there is no official cross-brand (regulator or multi-OEM) source establishing that Chinese vehicles as a class share these software problems. The regulatory statements in the following section are separately primary-sourced and are not subject to this ceiling. Accordingly:
 - The named BYD, Denza and localisation cases support only *themselves* — they are evidence that an outcome *can* occur, not that it occurs for other brands/models.
 - No conclusion here states or implies that all (or most) China-market cars have Chinese-only UI, locked maps, unreachable OTA or blocked accounts; those are **risks to test for**, per VIN.
 - The article's value is the **per-VIN test framework**, not a proof of a universal defect. Any decisive answer for a specific car comes from a live test and the brand's overseas channel.
+## The Regulated Side: OTA Filing, Recall and UNECE R156
+Software updating is regulated in its own right, and buyers should keep this layer separate from the localisation problems above:
+
+- **China side.** Over-the-air upgrades are subject to filing/reporting to the competent authorities, with the recall and defect side supervised jointly by MIIT and SAMR. An OTA campaign may **not** be used to conceal a defect or to stand in for a recall: where a safety defect exists, the recall obligation remains. *(Verified against MIIT, SAMR and the State Council policy record; checked 2026-09-08.)*
+- **Export-market side.** **UNECE Regulation No. 156** establishes the Software Update / Software Update Management System (SU/SUMS) framework used in type approval. R156 is an **international framework**: whether a specific country has adopted it, and from which date, must be confirmed with that country's approval authority — this page does not assert per-country adoption.
+- **What to ask for.** Request, in writing, the vehicle's current software version, its OTA campaign history, and written confirmation that no open recall or safety-related update is outstanding; then check the destination's SUMS/R156 position before you commit to registration.
 ## The Five Failure Points — Test Each on the Actual VIN
 | Check | What "works" means | Typical China-spec problem | Evidence type |
 |---|---|---|---|
@@ -83,18 +89,22 @@ Localisation vendors have an incentive to say every problem is fixable (for a fe
 ## Sources & Verification
 | Source title | Organization | Market | URL | Checked | Confidence | Supported facts |
 |---|---|---|---|---|---|---|
-| Chinese-brand software chapter (self-developed cockpits, Chinese-default layer) | Electric Auto China (industry) | CN→Global | https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-top-rated-chinese-car-brands-pr/ | 2026-09-02 | SINGLE_SOURCE | Industry **pattern/example only**, not generalised |
-| BYD Sea Lion 07 Ukraine localisation case | NEV Fix (localisation service) | CN→multi | https://nevfix.net/blog/byd-sealion-07-ukraine-localization-case.html | 2026-09-02 | SINGLE_SOURCE | **Brand-specific example**: China-only problems; BYD account English switch (re-confirm per model) |
-| Denza Z European Google/Gemini vs domestic cockpit | Xueqiu (citing release) | CN→EU | https://xueqiu.com/9837237227/399831947 | 2026-09-02 | SINGLE_SOURCE | **Example** of export vs domestic stack (not universal) |
-| Per-VIN software verification checklist | StarVia Auto (export service) | CN→Global | https://www.starviaauto.com/en/blog/making-chinese-ev-software-work-locally | 2026-09-02 | SINGLE_SOURCE | Five-check acceptance method |
-| Multilingual/RTL export standard | CCID 赛迪 / Neusoft OneCoreGo coverage (industry media) | Global | http://www.ccidnet.com/hlw/93237.jhtml | 2026-09-02 | SINGLE_SOURCE | RTL/Arabic layout consideration |
-| Chinese Car OS English Version B2B Export Guide | Electric Auto China | CN | https://www.electricautochina.com/the-ultimate-2026-b2b-export-guide-for-chinese-car-os-english-version/ | 2026-09-02 | SINGLE_SOURCE | 英文 HMI、刷机成本（行业口径，待官方核验） |
-| 中国汽车出海，智能化为何"水土不服" | 汽车之家·车家号 | CN | https://chejiahao.m.autohome.com.cn/info/26145241?isfrom=pc | 2026-09-02 | SINGLE_SOURCE | 海外用户 UI 翻译/手机互联问题 |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
 
 *Confidence note: all cited material is industry/service/media and is used as illustration of patterns or single brand cases — never as proof that all Chinese vehicles share the behaviour. Per-brand export language lists, OTA server-region policy and the "mandatory English HMI" inspection claim were not confirmed by a primary regulator and must be settled on the brand's overseas channel for the specific VIN.*
 ## Editorial Review
 - **Author / reviewer**: [AutoBridge Export Editorial Team](/authors/) · method per our [Editorial Policy](/editorial-policy/)
-- **Last reviewed**: 2026-09-05
+- **Last reviewed**: 2026-09-08
 - **Reference market**: Global (China export / parallel import)
 - **Verification method**: Industry cases labelled as examples; every decisive check routed to a per-VIN live test and the brand's overseas channel
 - **Editorial standard**: Researched and written from the sources listed above (desk research; no first-hand driving, teardown or import is claimed). Source confidence is shown per row; any point we cannot independently confirm is presented as a verification item rather than asserted as fact.

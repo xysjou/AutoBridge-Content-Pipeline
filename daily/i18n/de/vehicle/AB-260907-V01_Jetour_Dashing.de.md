@@ -77,15 +77,16 @@ Keine RHD Die chinesische Marktversion ist hier festgelegt; Die RHD-Berechtigung
 ## Quellen & Verifizierung
 | Quelle | Organisation | Markt | Tier | Vertrauen | URL | Belegte Fakten |
 |---|---|---|---|---|---|---|
-| 捷途大圣参数矩阵 (动力 / 尺寸 / 轴距) | 懂车帝车型参数页 | CN | T2 | CROSS_CHECKED | https://m.dongchedi.com/auto/params-carIds-244819-244189-239860-239859-239857-239855-239854-100479-101040-94797-94798-98589-94485-94486-98590-94799 | 动力矩阵, 尺寸, 轴距 |
-| 捷途大圣车型配置 (尺寸 / 轴距) | 搜狐汽车车型库 | CN | T2 | CROSS_CHECKED | https://db.auto.sohu.com/model_6805/config | 尺寸, 轴距 |
-| 2024 款动力 / 变速箱 / 尺寸 | 太平洋汽车 | CN | T3 | SINGLE_SOURCE | https://m.pcauto.com.cn/x/4679/46796132.html | 2024 款动力, 变速箱, 尺寸 |
-| 2025 款 1.5TD 动力 / 尺寸 | 车主之家 | CN | T3 | SINGLE_SOURCE | https://m.16888.com/news/2026/0813/24845188.html | 2025款1.5TD, 尺寸 |
-| 捷途官方网站 (车型线身份;exact-trim 以官方配置表终核) | 奇瑞汽车 · 捷途 (Jetour) | CN | T1 | VERIFIED | https://www.jetour.com.cn/ | 车型线身份 |
+| 捷途汽车OEM官网 | 捷途汽车OEM官网 | CHINA | T1 | VERIFIED+TIME_SENSITIVE | https://www.jetour.com.cn/vehicles/2026xindasheng | oem_current_lineup_2026 |
+| 懂车帝 | 懂车帝 | CHINA | T2 | CROSS_CHECKED+TIME_SENSITIVE | https://m.dongchedi.com/auto/params-carIds-244819-244189-239860-239859-239857-239855-239854-100479-101040-94797-94798-98589-94485-94486-98590-94799 | eng_1_6t；domestic_msrp |
+| 太平洋汽车 | 太平洋汽车 | CHINA | T3 | CROSS_CHECKED | https://m.pcauto.com.cn/x/4679/46796132.html | dim_2024；eng_1_5t_2024 |
+| 搜狐汽车 | 搜狐汽车 | CHINA | T3 | CROSS_CHECKED | https://db.auto.sohu.com/model_6805/config | identity |
+| 网易汽车车型库 | 网易汽车车型库 | CHINA | T3 | CROSS_CHECKED | http://product.auto.163.com/series/config1/20351.html?product_id=000CQBaC | eng_cross_2024 |
+| 车主之家 | 车主之家 | CHINA | T3 | CROSS_CHECKED | https://m.16888.com/news/2026/0813/24845188.html | dim_2025；eng_1_5td_2025 |
 
 ## Editorial Review
 - **AutoBridge Export Editorial Team · [Autoren](/Autoren/) · [Editorial Policy](/Editorial-Policy/]
-- **Zuletzt überprüft**: 2026-09-07
+- **Zuletzt überprüft**: 2026-09-08
 - **Referenzmarkt**: CHINA(中国市场参考; 2024 1.5T 与 2025 1.5TD 精确功率为单一来源, 须捷途官方 / 公告按 SKU 终核)
 - **Verifizierungsmethode**: Desk-Recherche mit den unten genannten Quellen; Referenzspezifikation für den chinesischen Markt nur, sofern nicht ausdrücklich ein separater Exportmarkt angegeben wird. Zeitkritische Artikel (Trimm-Aufstellung, Referenzpreise im Inland) und Single-Source-Outputs müssen vor der Transaktion auf dem OEM-Konfigurationsblatt oder dem MIIT-Eintrag erneut bestätigt werden.
 - **Transparenz**: KI-unterstütztes Zeichnen wurde verwendet. Dieser Artikel basiert auf Desk Research und automatisierter QA. Es werden keine Tests aus erster Hand beansprucht, es sei denn, sie sind ausdrücklich dokumentiert.

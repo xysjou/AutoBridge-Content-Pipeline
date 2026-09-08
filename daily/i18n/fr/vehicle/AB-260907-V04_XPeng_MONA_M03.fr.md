@@ -76,14 +76,16 @@ La compatibilité Chine-norme de charge et toute construction RHD/export nécess
 ## Sources et vérification
 | Source | Organisation | Marché | Niveau | Confiance | URL | Faits corroborés |
 |---|---|---|---|---|---|---|
-| MONA M03 续航矩阵 电机 尺寸 风阻 | 中关村在线车型库 | CN | T2 | CROSS_CHECKED | https://detail.zol.com.cn/series/2530/56250/param_10867053_0_1.html | 续航矩阵, 电机, 尺寸, 风阻 |
-| M03 电池容量 / 尺寸 / 续航 | 凤凰网汽车 | CN | T3 | SINGLE_SOURCE | https://auto.ifeng.com/c/8rmoEKUatsz | 电池容量, 尺寸, 续航 |
-| M03 尺寸 / 风阻 / 市场背景 | 腾讯新闻 | CN | T3 | SINGLE_SOURCE | http://news.qq.com/rain/a/20251107A03P0X00 | 尺寸, 风阻, 市场背景 |
-| 小鹏汽车官方网站 (车型线身份; 电池 -SKU 对应 / 快充以官方配置表终核) | 小鹏汽车 (XPeng) | CN | T1 | VERIFIED | https://www.xiaopeng.com/ | 车型线身份 |
+| 小鹏汽车OEM官网 | 小鹏汽车OEM官网 | CHINA | T1 | VERIFIED | https://www.xiaopeng.com/m03_2026/configuration.html | oem_exact_2026 |
+| 小鹏汽车OEM官网 | 小鹏汽车OEM官网 | CHINA | T1 | VERIFIED | https://www.xiaopeng.com/m03_2026.html | oem_model_page |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://m.autohome.com.cn/config/series/6998.html?pvareaid=2808400 | battery_supplier_note |
+| 中关村在线 | 中关村在线 | CHINA | T3 | CROSS_CHECKED+TIME_SENSITIVE | https://detail.zol.com.cn/series/2530/56250/param_10867053_0_1.html | identity；range_cltc；motor；domestic_msrp |
+| 凤凰网汽车 | 凤凰网汽车 | CHINA | T3 | SINGLE_SOURCE | https://auto.ifeng.com/c/8rmoEKUatsz | battery |
+| 腾讯新闻 | 腾讯新闻 | CHINA | T3 | CROSS_CHECKED | http://news.qq.com/rain/a/20251107A03P0X00 | dimensions |
 
 ## Révision de la rédaction
 - **Auteur**: Équipe de rédaction d'AutoBridge Export · [auteurs](/auteurs/) · [Politique éditoriale](/politique éditoriale/)
-- **Dernière révision**: 2026-09-07
+- **Dernière révision**: 2026-09-08
 - **Marché de référence**: CHINE(中国市场参考; 续航为 CLTC, 电池 -SKU 对应 / 供应商 / 快充为单一来源须小鹏官方终核)
 - **Méthode de vérification**: Recherches sur support papier en fonction des sources ci-dessous; spécification de référence du marché chinois seulement à moins qu'un marché d'exportation distinct ne soit explicitement cité. Les cartes de batterie/d'autonomie/moteurs à source unique, la compatibilité standard de charge et les prix de référence nationaux doivent être reconfirmés sur la feuille d'origine ou sur l'entrée MIIT avant d'agir.
 - **Transparence**: La rédaction assistée par AI a été utilisée. Cet article est basé sur la recherche sur le bureau et l'AQ automatisée. Aucun test de première main n'est demandé à moins d'être explicitement documenté.

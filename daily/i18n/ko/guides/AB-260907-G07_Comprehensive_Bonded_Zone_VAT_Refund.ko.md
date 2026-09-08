@@ -80,15 +80,16 @@ No - 파일럿 공원은 현재, 시간 감지 목록에 이름을 따서 명명
 ## 소스 및 검증
 | Source | - 연혁 | Market | Tier | 의논하기 | URL을 | 지원된 사실 |
 |---|---|---|---|---|---|---|
-| 综合保税区一般纳税人试点与税收安排 (国务院政策库년) | 中国政府网 | CN | T1 | VERIFIED | https://www.gov.cn/zhengce/zhengceku/2019-08/17/content_5462154.htm | 一般纳税人试点, 入区退税,  税收安排 |
-| 视同出口、 自用设备政策解读 | 中国政府网 | CN | T1 | VERIFIED | https://www.gov.cn/zhengce/2019-08/17/content_5421881.htm | 视同出口,  自用设备 |
-| 综合保税区税务口径与试点条件 | 国家税务总局 | CN | T1 | VERIFIED | https://www.chinatax.gov.cn/chinatax/n810341/n810760/c5135327/content.html | 税务口径,  试点条件 |
-| 一线二线、 入区退税、 选择性征税 (海关总署) | 中华人民共和国海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2026-03/30/article_2026033016461110661.html | 一线二线, 入区退税,  选择性征税 |
-| 财政部 (综合保税区财税政策主管部门년) | 中华人民共和国财政部 | CN | T1 | VERIFIED | https://www.mof.gov.cn/ | 综保区财税政策框架 |
+| 三部门试点公告 | 中国政府网/国务院 | CN | T1 | VERIFIED | https://www.gov.cn/zhengce/zhengceku/2019-08/17/content_5462154.htm | 符合条件的综保区企业可申请增值税一般纳税人资格试点 |
+| 官方解读 | 中国政府网/国务院 | CN | T1 | VERIFIED | https://www.gov.cn/zhengce/2019-08/17/content_5421881.htm | 试点企业进口自用设备在规定范围内可暂免征收进口税收 |
+| 国务院 | 中国政府网/国务院 | CN | T1 | VERIFIED | https://www.gov.cn/zhengce/zhengceku/2019-01/25/content_5361158.htm | 《国务院关于促进综合保税区高水平开放高质量发展的若干意见》(国发〔2... |
+| 税务总局 | 国家税务总局 | CN | T1 | CROSS_CHECKED | https://www.chinatax.gov.cn/chinatax/n810341/n810760/c5135327/content.html | 区内货物内销可按对应进口料件或实际报验状态选择性征收关税 |
+| 新疆维吾尔自治区发改委政策库 | 新疆维吾尔自治区发改委(地方政府政策库) | CN | T1 | CROSS_CHECKED | https://xjdrc.xinjiang.gov.cn/xjfgw/c112377/202204/dd92dfe618da41208970c89a0f37d008.shtml | 地方政府政策库正式收录税务总局/财政部/海关总署综保区一般纳税人试点... |
+| 海关总署+政府网 | 海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2026-03/30/article_2026033016461110661.html | 综保区'一线'进境保税、'二线'按状态报关；境内货物入区视同出口可办... |
 
 ## 편집 리뷰
 - **Author**: AutoBridge 수출 편집팀 · [authors](/authors/) · [편집 정책](/편집/)
-- **마지막 검토**: 2026-09-07
+- **마지막 검토**: 2026-09-08
 - **참고 시장 **: CN (中国海关特殊监管区域财税; 试点园区名单时间敏感, 逐案税负不估算)
 - ** 인증 방법**: 아래 소스에 대한 책상 연구; 중국 시장 참조 프레임 워크 만. 특정 공원이 승인 된 파일럿, 케이스 별 세금 결과 및 모든 차량 별 구역 제한이 지역 관리, 지역 세관 및 세금 기관으로 확인되어야합니다.
 - **Transparency**: AI-assisted 초안 사용. 이 문서는 책상 연구 및 자동화 QA에 근거합니다. 명시적으로 문서화하지 않는 한 첫 번째 손 테스트가 주장되지 않습니다.

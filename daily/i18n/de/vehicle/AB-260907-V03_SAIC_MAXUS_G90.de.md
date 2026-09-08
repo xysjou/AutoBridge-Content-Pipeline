@@ -87,14 +87,17 @@ Das chinesische Auto ist LHD; RHD / Export Builds erfordern separate OEM-Beweise
 ## Quellen & Verifizierung
 | Quelle | Organisation | Markt | Tier | Vertrauen | URL | Belegte Fakten |
 |---|---|---|---|---|---|---|
-| G90 车型配置 (尺寸 / 轴距 / 座位) | 搜狐汽车车型库 | CN | T2 | CROSS_CHECKED | https://db.auto.sohu.com/model_6638/config | 尺寸, 轴距, 座位 |
-| G90 2.0T 动力 / 8AT | 搜狐汽车车型库 | CN | T2 | CROSS_CHECKED | http://db.auto.sohu.com/trim_177919 | 2.0T 动力, 8AT |
-| G90 尺寸 / 座位 / 后备厢 | 太平洋汽车 | CN | T3 | SINGLE_SOURCE | http://m.pcauto.com.cn/x/4713/47132658.html | 尺寸, 座位, 后备厢 |
-| 上汽大通 MAXUS 官网 (车型线身份;exakt-trim 以官方配置表终核) | 上汽大通 (SAIC MAXUS) | CN | T1 | VERIFIED | https://www.saicmaxus.com/ | 车型线身份 |
+| SAIC MAXUS Export Site(出口市场) | SAIC MAXUS Export Site(出口市场) | EXPORT | T1 | SINGLE_SOURCE | https://en.saicmaxus.com/uploads/month_202411/files/ec11fa3253cee43d1ce047d77e0f7671.pdf | export_market_separate |
+| 上汽大通MAXUS OEM官网 | 上汽大通MAXUS OEM官网 | CHINA | T1 | VERIFIED | https://www.saicmaxus.com/uploads/month_202504/files/e4701cc9cd254142e185058d7e2750d9.pdf | engine；oem_exact_trim_2025 |
+| 上汽大通MAXUS OEM官网 | 上汽大通MAXUS OEM官网 | CHINA | T1 | VERIFIED+TIME_SENSITIVE | https://www.maxusmall.com/g90.shtml | oem_mall |
+| 易车 | 易车 | CHINA | T2 | CROSS_CHECKED | https://car.yiche.com/shangqidatongmaxusg90/m175510/peizhi/ | yiche_trim_split |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/6479.html | autohome_cross |
+| 太平洋汽车 | 太平洋汽车 | CHINA | T3 | VERIFIED | http://m.pcauto.com.cn/x/4713/47132658.html | dimensions；seats；cargo |
+| 搜狐汽车 | 搜狐汽车 | CHINA | T3 | CROSS_CHECKED+TIME_SENSITIVE | https://db.auto.sohu.com/model_6638/config | identity；domestic_msrp |
 
 ## Editorial Review
 - **AutoBridge Export Editorial Team · [Autoren](/Autoren/) · [Editorial Policy](/Editorial-Policy/]
-- **Zuletzt überprüft**: 2026-09-07
+- **Zuletzt überprüft**: 2026-09-08
 - **Referenzmarkt**: CHINA(中国市场燃油 G90 参考; 2.0T 精确功率 / 座位 -trim 对应为单一来源, 混动 / 纯电 / 右舵不入本篇)
 - **Verifizierungsmethode**: Desk-Recherche mit den unten genannten Quellen; Referenzspezifikation für den chinesischen Markt nur, sofern nicht ausdrücklich ein separater Exportmarkt angegeben wird. Single-Source-Outputs, Sitzplatz-Trim-Mapping und inländische Referenzpreise müssen vor der Transaktion auf dem OEM-Blatt oder MIIT-Eintrag erneut bestätigt werden.
 - **Transparenz**: KI-unterstütztes Zeichnen wurde verwendet. Dieser Artikel basiert auf Desk Research und automatisierter QA. Es werden keine Tests aus erster Hand beansprucht, es sei denn, sie sind ausdrücklich dokumentiert.

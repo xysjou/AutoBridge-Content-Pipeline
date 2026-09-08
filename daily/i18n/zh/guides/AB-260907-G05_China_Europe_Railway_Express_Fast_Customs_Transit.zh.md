@@ -75,16 +75,18 @@
 ## 源码验证(V)
 | 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
 |---|---|---|---|---|---|---|
-| 铁路快通监管办法(申报;舱单) 官方文件 (中文(简体)). | 中华人民共和国海关总署 维基月球 | CN | T1 | VERIFIED | http://www.customs.gov.cn/eportal/fileDir/customs/resource/cms/article/2480148/3512888/2021011510415823080.pdf | 铁路快通,  申报, 舱单 维基月球 |
-| 铁路快通适用范围 维基月球 | 中华人民共和国海关总署 维基月球 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2021-01/18/article_2025121221021893003.html | 铁路快通, 适用范围 (单位:千美元) |
-| 快通申请方式(总对总/单一窗口) (中文(简体)). | 中华人民共和国海关总署 维基月球 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2026-05/22/article_2026052209172574222.html | 申请方式,  总对总, 单一窗口 维基月球 |
-| 中欧班列便利化(优先查验 / 换装 / 舱单归并) (中文(简体)). | 中华人民共和国海关总署 维基月球 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2021-09/13/article_2025121223212110432.html | 中欧班列, 便利化 (单位:千美元) |
-| 中国国家铁路集团(境内承运与总对总数据传输主体) (中文(简体)). | 中国国家铁路集团有限公司 维基月球 | CN | T1 | VERIFIED | https://www.china-railway.com.cn/ | 铁路承运与数据传输 维基月球 |
-| 中欧班列优化背景(媒体,背景) (中文(简体)). | 央视网 维基月球 | CN | T2 | CROSS_CHECKED | https://news.cctv.com/2023/12/11/ARTIcgpxNQI63FESYTqeTWId231211.shtml | 优化背景 维基月球 |
+| 中国国家铁路集团 | 中国国家铁路集团 | CN | T1 | VERIFIED | http://wap.china-railway.com.cn/xwzx/ywsl/202605/t20260511_156423.html | 中国国家铁路集团：与海关协作全面推广'铁路快通' |
+| 国际贸易单一窗口 | 国际贸易单一窗口 | CN | T1 | VERIFIED | https://zj.singlewindow.cn/pen-portal/guide/basic.jspa?id=158 | 浙江国际贸易单一窗口铁路舱单/快通申报操作指南（官方申报平台） |
+| 海关总署2021年5号公告 | 海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2021-01/18/article_2025121221021893003.html | 铁路快通允许境内承运企业通过数据传输一次性完成进出境申报 |
+| 海关总署政策直通车㉘ | 海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2026-05/22/article_2026052209172574222.html | 铁路快通两种方式：铁路部门总对总传输联运单电子数据 |
+| 海关总署 | 海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2021-09/13/article_2025121223212110432.html | 海关对中欧班列采取优先查验、允许换装、舱单归并等便利化措施 |
+| 海关总署(178号公告) | 海关总署 | CN | T1 | VERIFIED+TIME_SENSITIVE | http://www.customs.gov.cn/customs/2023-12/18/article_2025121221021035679.html | 海关总署2023年第178号公告（优化铁路快速通关业务模式）为当前版本 |
+| 海关总署 | 海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2023-12/14/article_2025121220582171461.html | 178号公告官方解读 |
+| 央视网 | 央视网 | INT | T3 | SINGLE_SOURCE | https://news.cctv.com/2023/12/11/ARTIcgpxNQI63FESYTqeTWId231211.shtml | 班列途经多国 |
 
 ## 编辑评论
 - ** 作者**:自动桥出口编辑组 · [作者](/作者/) · [编辑政策](/编辑政策/)
-- ** 上次审查**:2026-09-07
+- ** 上次审查**:2026-09-08
 - **参考市场**:氯化萘(中国侧铁路快通监管;境外段换装与沿线清关逐线确认;不含运价/时刻/装载限界数值)
 - ** 核查方法**: 对照以下来源进行案头研究;仅限中国方面参考框架。 海外运量表转让,各国通关/税,路线,时刻表,运费率和货物装载限额,必须在办理运量手续前按路线向承运人和海外当局确认.
 - ** 透明度**:使用了大赦国际协助的起草。 本条以案头研究和自动化质量保证为基础。 除非有明确文件证明,否则不声称进行过第一手测试。

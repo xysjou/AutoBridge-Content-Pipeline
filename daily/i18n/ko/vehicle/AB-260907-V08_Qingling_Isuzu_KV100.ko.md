@@ -81,15 +81,18 @@ No — 100P (4KB1)는 KV100 사양으로 병합되지 않은 별도의 모델 �
 ## 소스 및 검증
 | Source | - 연혁 | Market | Tier | 의논하기 | URL을 | 지원된 사실 |
 |---|---|---|---|---|---|---|
-| KV100 4KH1 发动机 / 变速箱 / 国六 | 卡车之家官方号 (今日头条镜像년) | CN | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6909341128869315076/ | 4KH1 发动机, 变速箱, 国六 |
-| 4KH1 另一后缀功率 (区分后缀) | 卡车之家官方号 (今日头条镜像년) | CN | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6891911045259100683/ | 4KH1 另一后缀功率년 |
-| 相邻车型线区分 (100P 等) | 提加商用车网 (今日头条镜像년) | CN | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/7351812463941190163/ | 相邻车型线区分 |
-| 二手样本载质量线索 (不作规格년) | 58同城 | CN | T4 | UNVERIFIED | https://m.58.com/sz/huochec/60462479681462x.shtml | 载质量线索 |
-| 庆铃汽车官方网站 (车型线身份; 정확한 trim 以官方/公告终核) | 庆铃汽车 (싱가포르) | CN | T1 | VERIFIED | https://www.qingling.com.cn/ | 车型线身份 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m597/149294_param.html | canonical_4kh1 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m645/161486_param.html | variant_4kk1 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.m.360che.com/s28/7007_64_param.html | multitrim_2026 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m653/163447_param.html | blueplate_vs_heavy |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.360che.com/m827/206961_param.html | new_100p_line |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/8174.html | autohome_series |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6909341128869315076/ | identity；engine_4kh1 |
+| 58同城 | 58同城 | CHINA | T4 | SINGLE_SOURCE | https://m.58.com/sz/huochec/60462479681462x.shtml | cargo_length；payload |
 
 ## 편집 리뷰
 - **Author**: AutoBridge 수출 편집팀 · [authors](/authors/) · [편집 정책](/편집/)
-- **마지막 검토**: 2026-09-07
+- **마지막 검토**: 2026-09-08
 - **참고 시장 **: 중국 (中国市场蓝牌轻卡参考; 4KH1 功率为单一来源, 二手载质量为 T4 不作规格, 与全球 Isuzu ELF 不自动同型)
 - ** 인증 방법**: 아래 소스에 대한 책상 연구; 별도의 수출 시장이 명시적으로 인용되지 않는 한 중국 시장 참조 사양. 단일 소스 엔진 출력 및 모든 정격 페이로드 / GVW 수치는 OEM 시트 또는 MIIT 균질화 항목에 재확인되어야하며 글로벌 Isuzu와 동일한 모델 상태는 transacting 전에 명시적 OEM 문이 필요합니다.
 - **Transparency**: AI-assisted 초안 사용. 이 문서는 책상 연구 및 자동화 QA에 근거합니다. 명시적으로 문서화하지 않는 한 첫 번째 손 테스트가 주장되지 않습니다.

@@ -76,14 +76,16 @@ La compatibilidad estándar de carga china y cualquier construcción RHD/export 
 ## Fuentes " Verificación "
 | Fuente | Organización | Mercado | Tier | Confianza | URL | Datos respaldados |
 |---|---|---|---|---|---|---|
-| MONA M03 续航矩阵 / 电机 / 尺寸 / 风阻 | 中关村在线车型库 | CN | T2 | CROSS_CHECKED | https://detail.zol.com.cn/series/2530/56250/param_10867053_0_1.html | 续航矩阵, 电机, 尺寸, 风阻 |
-| M03 电池容量 / 尺寸 / 续航 | 凤凰网汽车 | CN | T3 | SINGLE_SOURCE | https://auto.ifeng.com/c/8rmoEKUatsz | 电池容量, 尺寸, 续航 |
-| M03 尺寸 / 风阻 / 市场背景 | 腾讯新闻 | CN | T3 | SINGLE_SOURCE | http://news.qq.com/rain/a/20251107A03P0X00 | 尺寸, 风阻, 市场背景 |
-| 小鹏汽车官方网站 (车型线身份; 电池 -SKU 对应 / 快充以官方配置表终核) | 小鹏汽车 (XPeng) | CN | T1 | VERIFIED | https://www.xiaopeng.com/ | 车型线身份 |
+| 小鹏汽车OEM官网 | 小鹏汽车OEM官网 | CHINA | T1 | VERIFIED | https://www.xiaopeng.com/m03_2026/configuration.html | oem_exact_2026 |
+| 小鹏汽车OEM官网 | 小鹏汽车OEM官网 | CHINA | T1 | VERIFIED | https://www.xiaopeng.com/m03_2026.html | oem_model_page |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://m.autohome.com.cn/config/series/6998.html?pvareaid=2808400 | battery_supplier_note |
+| 中关村在线 | 中关村在线 | CHINA | T3 | CROSS_CHECKED+TIME_SENSITIVE | https://detail.zol.com.cn/series/2530/56250/param_10867053_0_1.html | identity；range_cltc；motor；domestic_msrp |
+| 凤凰网汽车 | 凤凰网汽车 | CHINA | T3 | SINGLE_SOURCE | https://auto.ifeng.com/c/8rmoEKUatsz | battery |
+| 腾讯新闻 | 腾讯新闻 | CHINA | T3 | CROSS_CHECKED | http://news.qq.com/rain/a/20251107A03P0X00 | dimensions |
 
 ## Revisión editorial
 - **Autor**: Equipo Editorial AutoBridge Export · [autores](/autores/) · [Política editorial](/editorial-policía/)
-- **Documento revisado*: 2026-09-07
+- **Documento revisado*: 2026-09-08
 - **Mercamiento de referencia**: CHINA(中国市场参考; 续航为 CLTC, 电池 -SKU 对应 / 供应商 / 快充为单一来源须小鹏官方终核)
 - **Método de verificación**: Investigación de escritorio contra las fuentes siguientes; especificación de referencia del mercado chino solamente a menos que se mencione explícitamente un mercado de exportación separado. Los cartografías de batería/rango/motor, compatibilidad estándar de carga y precios de referencia nacionales deben ser reconfirmados en la hoja OEM o entrada MIIT antes de la transacción.
 - **Transparencia**: Se utilizó la redacción con ayuda de AI. Este artículo se basa en la investigación de escritorio y QA automatizado. No se reclaman pruebas de primera mano a menos que se documenten explícitamente.

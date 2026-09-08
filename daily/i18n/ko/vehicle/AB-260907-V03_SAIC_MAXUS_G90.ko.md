@@ -87,14 +87,17 @@ Cargo volume is quoted at roughly **1010.5–2179 L** as the third row is folded
 ## 소스 및 검증
 | Source | - 연혁 | Market | Tier | 의논하기 | URL을 | 지원된 사실 |
 |---|---|---|---|---|---|---|
-| G90 车型配置 (尺寸/轴距/座位) | 搜狐汽车车型库 | CN | T2 | CROSS_CHECKED | https://db.auto.sohu.com/model_6638/config | 尺寸, 轴距,  座位 |
-| G90 2.0T 动力 / 8AT | 搜狐汽车车型库 | CN | T2 | CROSS_CHECKED | http://db.auto.sohu.com/trim_177919 | 2.0T 动力,  8AT |
-| G90 尺寸 / 座位 / 后备厢 | 太平洋汽车 | CN | T3 | SINGLE_SOURCE | http://m.pcauto.com.cn/x/4713/47132658.html | 尺寸, 座位,  后备厢 |
-| 上汽大通 MAXUS 官网 (车型线身份; 정확한 초점 以官方配置表终核) | 上汽大通 (SAIC MAXUS) | CN | T1 | VERIFIED | https://www.saicmaxus.com/ | 车型线身份 |
+| SAIC MAXUS Export Site(出口市场) | SAIC MAXUS Export Site(出口市场) | EXPORT | T1 | SINGLE_SOURCE | https://en.saicmaxus.com/uploads/month_202411/files/ec11fa3253cee43d1ce047d77e0f7671.pdf | export_market_separate |
+| 上汽大通MAXUS OEM官网 | 上汽大通MAXUS OEM官网 | CHINA | T1 | VERIFIED | https://www.saicmaxus.com/uploads/month_202504/files/e4701cc9cd254142e185058d7e2750d9.pdf | engine；oem_exact_trim_2025 |
+| 上汽大通MAXUS OEM官网 | 上汽大通MAXUS OEM官网 | CHINA | T1 | VERIFIED+TIME_SENSITIVE | https://www.maxusmall.com/g90.shtml | oem_mall |
+| 易车 | 易车 | CHINA | T2 | CROSS_CHECKED | https://car.yiche.com/shangqidatongmaxusg90/m175510/peizhi/ | yiche_trim_split |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/6479.html | autohome_cross |
+| 太平洋汽车 | 太平洋汽车 | CHINA | T3 | VERIFIED | http://m.pcauto.com.cn/x/4713/47132658.html | dimensions；seats；cargo |
+| 搜狐汽车 | 搜狐汽车 | CHINA | T3 | CROSS_CHECKED+TIME_SENSITIVE | https://db.auto.sohu.com/model_6638/config | identity；domestic_msrp |
 
 ## 편집 리뷰
 - **Author**: AutoBridge 수출 편집팀 · [authors](/authors/) · [편집 정책](/편집/)
-- **마지막 검토**: 2026-09-07
+- **마지막 검토**: 2026-09-08
 - **참고 시장 **: 중국 (中国市场燃油 G90 参考; 2.0T 精确功率/座位 -trim 对应为单一来源, 混动/纯电/右舵不入本篇)
 - ** 인증 방법**: 아래 소스에 대한 책상 연구; 별도의 수출 시장이 명시적으로 인용되지 않는 한 중국 시장 참조 사양. 단일 소스 출력, 좌석 트림 매핑 및 국내 참조 가격은 OEM 시트 또는 MIIT 항목에 다시 확인해야합니다.
 - **Transparency**: AI-assisted 초안 사용. 이 문서는 책상 연구 및 자동화 QA에 근거합니다. 명시적으로 문서화하지 않는 한 첫 번째 손 테스트가 주장되지 않습니다.

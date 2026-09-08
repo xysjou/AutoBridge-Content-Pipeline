@@ -75,16 +75,18 @@ No. 해외 게이지 이동 및 각 국가 정리 및 세금 처리는 노선 �
 ## 소스 및 검증
 | Source | - 연혁 | Market | Tier | 의논하기 | URL을 | 지원된 사실 |
 |---|---|---|---|---|---|---|
-| 铁路快通监管办法 (申报、 舱单) 官方文件 | 中华人民共和国海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/eportal/fileDir/customs/resource/cms/article/2480148/3512888/2021011510415823080.pdf | 铁路快通, 申报,  舱单 |
-| 铁路快通适用范围 | 中华人民共和国海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2021-01/18/article_2025121221021893003.html | 铁路快通,  适用范围 |
-| 快通申请方式 (总对总 / 单一窗口) | 中华人民共和国海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2026-05/22/article_2026052209172574222.html | 申请方式, 总对总,  单一窗口 |
-| 中欧班列便利化 (优先查验/换装/舱单归并) | 中华人民共和国海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2021-09/13/article_2025121223212110432.html | 中欧班列,  便利化 |
-| 中国国家铁路集团 (境内承运与总对总数据传输主体년) | 中国国家铁路集团有限公司 | CN | T1 | VERIFIED | https://www.china-railway.com.cn/ | 铁路承运与数据传输 |
-| 中欧班列优化背景 (媒体, 背景) | 央视网 | CN | T2 | CROSS_CHECKED | https://news.cctv.com/2023/12/11/ARTIcgpxNQI63FESYTqeTWId231211.shtml | 优化背景 |
+| 中国国家铁路集团 | 中国国家铁路集团 | CN | T1 | VERIFIED | http://wap.china-railway.com.cn/xwzx/ywsl/202605/t20260511_156423.html | 中国国家铁路集团：与海关协作全面推广'铁路快通' |
+| 国际贸易单一窗口 | 国际贸易单一窗口 | CN | T1 | VERIFIED | https://zj.singlewindow.cn/pen-portal/guide/basic.jspa?id=158 | 浙江国际贸易单一窗口铁路舱单/快通申报操作指南（官方申报平台） |
+| 海关总署2021年5号公告 | 海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2021-01/18/article_2025121221021893003.html | 铁路快通允许境内承运企业通过数据传输一次性完成进出境申报 |
+| 海关总署政策直通车㉘ | 海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2026-05/22/article_2026052209172574222.html | 铁路快通两种方式：铁路部门总对总传输联运单电子数据 |
+| 海关总署 | 海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2021-09/13/article_2025121223212110432.html | 海关对中欧班列采取优先查验、允许换装、舱单归并等便利化措施 |
+| 海关总署(178号公告) | 海关总署 | CN | T1 | VERIFIED+TIME_SENSITIVE | http://www.customs.gov.cn/customs/2023-12/18/article_2025121221021035679.html | 海关总署2023年第178号公告（优化铁路快速通关业务模式）为当前版本 |
+| 海关总署 | 海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/customs/2023-12/14/article_2025121220582171461.html | 178号公告官方解读 |
+| 央视网 | 央视网 | INT | T3 | SINGLE_SOURCE | https://news.cctv.com/2023/12/11/ARTIcgpxNQI63FESYTqeTWId231211.shtml | 班列途经多国 |
 
 ## 편집 리뷰
 - **Author**: AutoBridge 수출 편집팀 · [authors](/authors/) · [편집 정책](/편집/)
-- **마지막 검토**: 2026-09-07
+- **마지막 검토**: 2026-09-08
 - **참고 시장 **: CN (中国侧铁路快通监管; 境外段换装与沿线清关逐线确认, 不含运价 / 时刻 / 装载限界数值)
 - ** 인증 방법**: 아래 소스에 대한 책상 연구; 중국 측 참조 프레임 워크 만. 해외 게이지 전송, 국내 통관 / 택시, 노선, 일정, 운임 및화물 적재 제한은 운송 전의 운송 및 해외 당국과 노선에 의해 확인된 경로가 있어야합니다.
 - **Transparency**: AI-assisted 초안 사용. 이 문서는 책상 연구 및 자동화 QA에 근거합니다. 명시적으로 문서화하지 않는 한 첫 번째 손 테스트가 주장되지 않습니다.

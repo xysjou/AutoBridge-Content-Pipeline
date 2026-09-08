@@ -81,15 +81,18 @@ It is a cab-over N2 blue-plate light truck with GVW at or below 4.5 t, typically
 ## ソースと検証
 | ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
 |---|---|---|---|---|---|---|
-| KV100 4KH1 发动机 / 变速箱 / 国六 | 卡车之家官方号 (今日头条镜像) | CN | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6909341128869315076/ | 4KH1 发动机、变速箱、国六 |
-| 4KH1 另一后缀功率 (区分后缀) | 卡车之家官方号 (今日头条镜像) | CN | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6891911045259100683/ | 4KH1另一后缀功率 |
-| 相邻车型线区分 (100P 等) | 提加商用车网 (今日头条镜像) | CN | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/7351812463941190163/ | 相邻车型线区分 |
-| 二手样本载质量线索 (不作规格) | 58同城 | CN | T4 | UNVERIFIED | https://m.58.com/sz/huochec/60462479681462x.shtml | 载质量线索 |
-| 庆铃汽车官方网站 (车型线身份;exactトリム以官方/公告终核) | 庆铃汽车(おしゃぶいず) | CN | T1 | VERIFIED | https://www.qingling.com.cn/ | 车型线身份 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m597/149294_param.html | canonical_4kh1 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m645/161486_param.html | variant_4kk1 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.m.360che.com/s28/7007_64_param.html | multitrim_2026 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m653/163447_param.html | blueplate_vs_heavy |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.360che.com/m827/206961_param.html | new_100p_line |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/8174.html | autohome_series |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6909341128869315076/ | identity；engine_4kh1 |
+| 58同城 | 58同城 | CHINA | T4 | SINGLE_SOURCE | https://m.58.com/sz/huochec/60462479681462x.shtml | cargo_length；payload |
 
 ## 編集レビュー
 - **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)
-- **最終審査**:2026-09-07
+- **最終審査**:2026-09-08
 - **参照の市場**:中国(中国市场蓝牌轻卡参考;4KH1 功率为单一来源、二手载质量为 T4 不作规格、与全球 Isuzu ELF 不自动同型)
 - **検証方法**: 下記のソースに対するデスクリサーチ。 別々の輸出市場が明示的に引用されていない限り、中国市場参照仕様。 単元エンジン出力と、すべての定格ペイロード/ GVW 数値は、OEM シートまたは MIIT の均質化エントリに再確認されなければならないし、グローバル Isuzu の同型ステータスは、トランスフォーメーション前の明示的な OEM ステートメントが必要です。
 - **透明性**:AI-assistedドラフトが使われていました。 本記事は、デスクリサーチと自動QAをベースとしています。 明示的に文書化されていない限り、中古テストは要求されません。

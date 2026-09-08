@@ -76,14 +76,16 @@ Sự tương thích về mức độ sạc và bất kỳ công trình RHD/expor
 ## Nguồn và Định dạng
 | Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
-| MONA M03续航矩阵/电机/尺寸/风阻 | 中关村在线车型库 | CN | T2 | CROSS_CHECKED | https://detail.zol.com.cn/series/2530/56250/param_10867053_0_1.html | 续航矩阵, 电机. 尺寸. 风阻 |
-| M03 电池容量 / 尺寸 / 续航 | 凤凰网汽车 | CN | T3 | SINGLE_SOURCE | https://auto.ifeng.com/c/8rmoEKUatsz | 电池容量, 尺寸. 续航 |
-| M03 尺寸 / 风阻 / 市场背景 | 腾讯新闻 | CN | T3 | SINGLE_SOURCE | http://news.qq.com/rain/a/20251107A03P0X00 | 尺寸, 风阻. 市场背景 |
-| 小鹏汽车官方网站 (车型线身份); 电池 - SKU 对应 / 快充以官方配置表终核). | 小鹏汽车 (XPen) | CN | T1 | VERIFIED | https://www.xiaopeng.com/ | 车型线身份 |
+| 小鹏汽车OEM官网 | 小鹏汽车OEM官网 | CHINA | T1 | VERIFIED | https://www.xiaopeng.com/m03_2026/configuration.html | oem_exact_2026 |
+| 小鹏汽车OEM官网 | 小鹏汽车OEM官网 | CHINA | T1 | VERIFIED | https://www.xiaopeng.com/m03_2026.html | oem_model_page |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://m.autohome.com.cn/config/series/6998.html?pvareaid=2808400 | battery_supplier_note |
+| 中关村在线 | 中关村在线 | CHINA | T3 | CROSS_CHECKED+TIME_SENSITIVE | https://detail.zol.com.cn/series/2530/56250/param_10867053_0_1.html | identity；range_cltc；motor；domestic_msrp |
+| 凤凰网汽车 | 凤凰网汽车 | CHINA | T3 | SINGLE_SOURCE | https://auto.ifeng.com/c/8rmoEKUatsz | battery |
+| 腾讯新闻 | 腾讯新闻 | CHINA | T3 | CROSS_CHECKED | http://news.qq.com/rain/a/20251107A03P0X00 | dimensions |
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team* [các tác giả] (/các tác giả/)_* [Chính sách hiệu chỉnh] (/chính sách chính sách đối lập/)
-- **Last xem lại**: 2026-09-07
+- **Last xem lại**: 2026-09-08
 - **Trible market**: CHINA(中国市场参考; 续航为 CLC, 电池 - SKU 对应 / 供应商 / 快充为单一来源须小鹏官方终核).
 - Phương pháp xác thực **: Nghiên cứu về các nguồn tin bên dưới; đặc điểm tham khảo thị trường Trung Quốc chỉ trừ khi một thị trường xuất khẩu riêng biệt được viện dẫn rõ ràng. Bản đồ đơn nguồn/ tầm/ km, sự tương thích mức độ tích lũy và giá trị tham khảo trong nước phải được xác nhận lại trên tờ OEM hoặc mục nhập MIIT trước khi chuyển đổi.
 - **Sự khác biệt**: việc soạn thảo có hỗ trợ bởi Al-assed đã được sử dụng. Bài này dựa trên nghiên cứu bàn giấy và tự động QA. Không có thử nghiệm tay đầu tiên được tuyên bố trừ khi được ghi lại rõ ràng.

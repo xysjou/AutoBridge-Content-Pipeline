@@ -81,15 +81,18 @@ No — the 100P (4KB1) is a separate model line whose figures must not be merged
 ## ต้นฉบับและการตรวจสอบสิทธิ์
 | แหล่ง | องค์กร | ตลาด | กระบอกสูบ | ความมั่นใจ | ที่อยู่ URL | ข้อเท็จจริงที่รองรับ |
 |---|---|---|---|---|---|---|
-| KV100 4KH1 发动机 / 变速箱 / 国六 | 卡车之家官方号 (今日头条镜像). | CN | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6909341128869315076/ | 4KH1 发动机 变速箱 变速箱 国六 (พ.ศ. |
-| 4KH1 另一后缀功率 (区分后缀). | 卡车之家官方号 (今日头条镜像). | CN | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6891911045259100683/ | 4KH1 另一后缀功率 |
-| 相邻车型线区分 (100P 等) (พ.ศ. | 提加商用车网 (今日头条镜像). | CN | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/7351812463941190163/ | 相邻车型线区分 |
-| 二手样本载质量线索 (不作规格). | 58同城 | CN | T4 | UNVERIFIED | https://m.58.com/sz/huochec/60462479681462x.shtml | 载质量线索 |
-| 庆铃汽车官方网站 (车型线身份); exact-trim 以官方 / 公告终核) พ.ศ. | 庆铃汽车 (ชิงชิง อิซูซุ) พ.ศ. | CN | T1 | VERIFIED | https://www.qingling.com.cn/ | 车型线身份 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m597/149294_param.html | canonical_4kh1 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m645/161486_param.html | variant_4kk1 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.m.360che.com/s28/7007_64_param.html | multitrim_2026 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m653/163447_param.html | blueplate_vs_heavy |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.360che.com/m827/206961_param.html | new_100p_line |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/8174.html | autohome_series |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6909341128869315076/ | identity；engine_4kh1 |
+| 58同城 | 58同城 | CHINA | T4 | SINGLE_SOURCE | https://m.58.com/sz/huochec/60462479681462x.shtml | cargo_length；payload |
 
 ## การทบทวนแก้ไข
 - ~Uuthor ♪: AutoBridge ส่งออกทีมแก้ไข [ผู้เขียน](/ ผู้เขียน/) สืบค้นเมื่อ [ใช้ในการแก้ไขนโยบาย] [/Di-policy/]
-- ~ถูกตรวจสอบแล้ว~: 2026-09-07
+- ~ถูกตรวจสอบแล้ว~: 2026-09-08
 - ~ตลาดแห่งความเสมอภาค ~: CHINA（中国市场蓝牌轻卡参考；4KH1功率为单一来源，二手载质量为T4不作规格，与全球Isuzu ELF不自动同型）
 - ~วิธีการสร้างความสัมพันธ์ ~: งานวิจัยที่ขัดกับแหล่งย่อยด้านล่างนี้; การอ้างอิงตลาดจีน-มาร์เก็ต ก็ต่อเมื่อมีการอ้างอิงตลาดส่งออกอย่างตรงไปตรงมา เครื่องยนต์ซิงเกิลและหมายเลขของเครื่องที่ส่งมาจาก รายได้เต็มและหมายเลขของ GVW จะต้องได้รับการยืนยันอีกครั้ง บนแผ่น OEM หรือรายการการแบ่งประเภทของ MIIT และสถานะเดียวกันกับอิซูซุทั่วโลก ต้องการข้อความที่ระบุอย่างชัดเจน ก่อนที่จะทําการเปลี่ยนเส้นทาง
 - การร่างแบบ AI-assisted ถูกใช้ บทความนี้ตั้งอยู่บนพื้นฐานของงานวิจัยในตาราง และอัตโนมัติ QA ไม่มีการอ้างอิงจากมือแรก นอกจากจะสรุปได้ชัดเจน

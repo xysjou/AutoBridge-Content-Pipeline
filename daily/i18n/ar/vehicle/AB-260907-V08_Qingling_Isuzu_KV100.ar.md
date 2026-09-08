@@ -81,15 +81,18 @@ No — the 100P (4KB1) is a separate model line whose figures must not be merged
 ## المصدر: التحقق
 | المصدر | المنظمة | السوق | النمور | الثقة | URL | الوقائع الداعمة |
 |---|---|---|---|---|---|---|
-| KV100 4KH1发动机/变速箱/国六 | 卡车之家官方号(今日头条镜像) | CN | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6909341128869315076/ | 4KH1 发动机, 变速箱, 国六 |
-| 4KH1另一后缀功率（区分后缀） | 卡车之家官方号(今日头条镜像) | CN | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6891911045259100683/ | 4KH1另一后缀功率 |
-| 相邻车型线区分（100P等） | 提加商用车网(今日头条镜像) | CN | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/7351812463941190163/ | 相邻车型线区分 |
-| 二手样本载质量线索（不作规格） | 58同城 | CN | T4 | UNVERIFIED | https://m.58.com/sz/huochec/60462479681462x.shtml | 载质量线索 |
-| 庆铃汽车官方网站（车型线身份；exact-trim以官方/公告终核） | 庆铃汽车 (مقر إيسوزو) | CN | T1 | VERIFIED | https://www.qingling.com.cn/ | 车型线身份 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m597/149294_param.html | canonical_4kh1 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m645/161486_param.html | variant_4kk1 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.m.360che.com/s28/7007_64_param.html | multitrim_2026 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | http://product.m.360che.com/m653/163447_param.html | blueplate_vs_heavy |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.360che.com/m827/206961_param.html | new_100p_line |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/8174.html | autohome_series |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6909341128869315076/ | identity；engine_4kh1 |
+| 58同城 | 58同城 | CHINA | T4 | SINGLE_SOURCE | https://m.58.com/sz/huochec/60462479681462x.shtml | cargo_length；payload |
 
 ## استعراض التحرير
 - ♪ صاحب البلاغ** : فريق تحرير الصادرات: [مؤلف] (/مؤلف) - [سياسة تأبينية] (سياسة تحريرية)
-- ** لم يُستعرض بعد**: 2026-09-07
+- ** لم يُستعرض بعد**: 2026-09-08
 - ** سوق الإحالة**: CHINA(中国市场蓝牌轻卡参考; 4KH1 功率为单一来源, 二手载质量为 T4 不作规格, 与全球 Isuzu ELF 不自动同型)
 - ** طريقة الفرز**: بحوث مكتبية ضد المصادر الواردة أدناه؛ والمواصفات المرجعية للسوق الصينية فقط ما لم يُستشهد صراحة بسوق تصدير منفصلة. ويجب إعادة تأكيد نواتج المحركات ذات المصدر الواحد وجميع أرقام الحمولة/المركبات العضوية الثابتة على صفحة OEM أو دخول محركات المركبات المتعددة الأطراف، كما أن الوضع نفسه مع إيسوزو العالمي يتطلب بياناً صريحاً من منظمة أوم قبل التحول.
 - ** الشفافية**: استُخدمت الصياغة المدعومة من منظمة العفو الدولية. وتستند هذه المادة إلى البحوث المكتبية وآلية الجودة. ولا يُدَّعى إجراء أي اختبار مباشر إلا إذا وُثِّق صراحة.

@@ -76,14 +76,16 @@ Cd 0.194;2025型机车在2815 mm轮式机车库上长4780 mm辆,4785 mm型机车
 ## 源码验证(V)
 | 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
 |---|---|---|---|---|---|---|
-| MONA M03 续航矩阵 / 电机 / 尺寸 / 风阻 数据 | 中关村在线车型库 维基月球 | CN | T2 | CROSS_CHECKED | https://detail.zol.com.cn/series/2530/56250/param_10867053_0_1.html | 续航矩阵,  电机,  尺寸, 风阻 维基月球 |
-| M03 电池容量 / 尺寸 / 续航 (中文(简体)). | 凤凰网汽车 维基月球 | CN | T3 | SINGLE_SOURCE | https://auto.ifeng.com/c/8rmoEKUatsz | 电池容量,  尺寸, 续航 维基月球 |
-| M03 尺寸 / 风阻 / 市场背景 (中文(简体)). | 腾讯新闻 维基月球 | CN | T3 | SINGLE_SOURCE | http://news.qq.com/rain/a/20251107A03P0X00 | 尺寸,  风阻, 市场背景 维基月球 |
-| 小鹏汽车官方网站 (车型线身份; 电池 - SKU 对应 / 快充以官方配置表终核) (中文(简体)). | 小鹏汽车 (XPeng) (英语). | CN | T1 | VERIFIED | https://www.xiaopeng.com/ | 车型线身份 维基月球 |
+| 小鹏汽车OEM官网 | 小鹏汽车OEM官网 | CHINA | T1 | VERIFIED | https://www.xiaopeng.com/m03_2026/configuration.html | oem_exact_2026 |
+| 小鹏汽车OEM官网 | 小鹏汽车OEM官网 | CHINA | T1 | VERIFIED | https://www.xiaopeng.com/m03_2026.html | oem_model_page |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://m.autohome.com.cn/config/series/6998.html?pvareaid=2808400 | battery_supplier_note |
+| 中关村在线 | 中关村在线 | CHINA | T3 | CROSS_CHECKED+TIME_SENSITIVE | https://detail.zol.com.cn/series/2530/56250/param_10867053_0_1.html | identity；range_cltc；motor；domestic_msrp |
+| 凤凰网汽车 | 凤凰网汽车 | CHINA | T3 | SINGLE_SOURCE | https://auto.ifeng.com/c/8rmoEKUatsz | battery |
+| 腾讯新闻 | 腾讯新闻 | CHINA | T3 | CROSS_CHECKED | http://news.qq.com/rain/a/20251107A03P0X00 | dimensions |
 
 ## 编辑评论
 - ** 作者**:自动桥出口编辑组 · [作者](/作者/) · [编辑政策](/编辑政策/)
-- ** 上次审查**:2026-09-07
+- ** 上次审查**:2026-09-08
 - **参考市场**:中国(中国市场参考;续航为 CLTC,电池 - SKU 对应/供应商/快充为单一来源须小鹏官方终核)
 - ** 核查方法**: 案头研究对照以下来源;中国市场参考规格仅需明确引用单独的出口市场. 单源电池/距离/机动车绘图、充电标准兼容性和国内参考价格必须在OEM表或MIIT条目上重新确认,然后进行交易。
 - ** 透明度**:使用了大赦国际协助的起草。 本条以案头研究和自动化质量保证为基础。 除非有明确文件证明,否则不声称进行过第一手测试。

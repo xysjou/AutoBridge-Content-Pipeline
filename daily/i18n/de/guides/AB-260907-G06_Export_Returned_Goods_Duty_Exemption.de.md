@@ -82,15 +82,16 @@ Die allgemeine Regel erfordert Qualitäts- oder Spezifikationsgründe; normale W
 ## Quellen & Verifizierung
 | Quelle | Organisation | Markt | Tier | Vertrauen | URL | Belegte Fakten |
 |---|---|---|---|---|---|---|
-| 海关进出口货物征税管理办法 (272 号令第 49 条, 一年退运免税) | 中华人民共和国海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/eportal/fileDir/customs/resource/cms/2024/10/2024102909540487731.pdf | 征税管理办法, 退运免税, 一年期限 |
-| 272 号令国务院公报文本 (施行日期 2024-12-01) | 中国政府网 · 国务院公报 | CN | T1 | VERIFIED | https://www.gov.cn/gongbao/2024/issue_11726/202411/content_6989766.html | 272 号令, 施行日期 |
-| 退运货物问答与操作口径 | 中华人民共和国海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/eportal/ui?pageId=374112&msgDataId=2d20f5a4bb88464ea0445774578c4cf7 | 退运问答, 操作口径 |
-| 跨境电商退运（6个月、执行期2026-2027） | 国家税务总局 | CN | T1 | TIME_SENSITIVE | https://fgk.chinatax.gov.cn/zcfgk/c102416/c5247663/content.html | 跨境电商退运, 6 个月, 执行期 |
-| 财政部 (进出口税收政策主管部门) | 中华人民共和国财政部 | CN | T1 | VERIFIED | https://www.mof.gov.cn/ | 财税主管框架 |
+| 国务院公报 | 中国政府网/国务院 | CN | T1 | VERIFIED | https://www.gov.cn/gongbao/2024/issue_11726/202411/content_6989766.html | 《海关进出口货物征税管理办法》自2024-12-01起施行 |
+| 中国政府网 | 中国政府网/国务院 | CN | T1 | TIME_SENSITIVE | https://www.gov.cn/lianbo/202602/content_7057577.htm | 中国政府网对三部门跨境电商出口退运政策的报道（现行执行期2026-0... |
+| 税务总局 | 国家税务总局 | CN | T1 | TIME_SENSITIVE | https://fgk.chinatax.gov.cn/zcfgk/c102416/c5247663/content.html | 跨境电商(1210/9610/9710/9810)出口商品退运、规定... |
+| 海关总署令272号 | 海关总署 | CN | T1 | VERIFIED | http://www.customs.gov.cn/eportal/fileDir/customs/resource/cms/2024/10/2024102909540487731.pdf | 出口货物因品质/规格原因自出口之日起1年内原状复运进境的 |
+| 海关征税问答 | 海关总署 | CN | T1 | CROSS_CHECKED | http://www.customs.gov.cn/eportal/ui?pageId=374112&msgDataId=2d20f5a4bb88464ea0445774578c4cf7 | '原状退运'要求未被使用/加工、保持原出口状态 |
+| 财政部 | 财政部 | CN | T1 | VERIFIED+TIME_SENSITIVE | https://m.mof.gov.cn/zcfb/202602/t20260209_3983561.htm | 财政部就出口退运/跨境电商退运税收政策的部门公告（深层页 |
 
 ## Editorial Review
 - **AutoBridge Export Editorial Team · [Autoren](/Autoren/) · [Editorial Policy](/Editorial-Policy/]
-- **Zuletzt überprüft**: 2026-09-07
+- **Zuletzt überprüft**: 2026-09-08
 - **Referenzmarkt**: CN(中国进口侧退运税收; 原状认定逐案, 跨境电商特殊期时间敏感)
 - **Verifizierungsmethode**: Desk-Recherche gegen die unten stehenden Quellen; nur Referenzrahmen für den chinesischen Markt. Per Fall Original-State-Bestimmung, Rabatt Rückzahlungsbeträge und Vereinbarungen nach dem CBEC Sonderzeitraum müssen mit dem Zoll und der Steuerbehörde vor der Transaktion bestätigt werden.
 - **Transparenz**: KI-unterstütztes Zeichnen wurde verwendet. Dieser Artikel basiert auf Desk Research und automatisierter QA. Es werden keine Tests aus erster Hand beansprucht, es sei denn, sie sind ausdrücklich dokumentiert.

@@ -79,15 +79,22 @@ O caminhão chinês é LHD; qualquer RHD / exportação construir e nome no exte
 ## Fontes e Verificação
 | Origem | Organização | Mercado | Nível | Confiança | URL | Factos corroborados |
 |---|---|---|---|---|---|---|
-| F70轴距/货箱/柴油（标/长轴） | 牛车网 (今日头条镜像) | CN | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6885228857952043528/ | 轴距, 货箱, 柴油 |
-| F70 货箱 / 涉水 / 拖拽线索 | 中国网 (今日头条镜像) | CN | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6752785211886404109/ | 货箱, 涉水, 拖拽线索 |
-| F70 标 / 长轴尺寸 / 轴距 | 吴佩频道 (今日头条镜像) | CN | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6753052185325470222/ | 标 / 长轴尺寸, 轴距 |
-| 蓝鲸版长货箱 | 北京日报 (今日头条镜像) | CN | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/7295667813296013843/ | 蓝鲸版长货箱 |
-| 长安汽车官方网站 (母品牌车型线身份; exactamente portagem 以官方 / 公告终核) | 长安汽车 (Changan) | CN | T1 | VERIFIED | https://www.changan.com.cn/ | 车型线身份 |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.m.360che.com/m331/82931_param.html | eng_2_5t_canonical |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.m.360che.com/m510/127652_param.html | engine_variants |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | SINGLE_SOURCE | https://product.m.360che.com/m331/82905_param.html | engine_emission_split |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://www.autohome.com.cn/spec/1011751/config.html#pvareaid=3454569 | cargo_autohome |
+| 中国皮卡网 | 中国皮卡网 | CHINA | T3 | CROSS_CHECKED | https://www.cnpickups.com/news/785231.html | dim_cnpickups |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | CROSS_CHECKED | http://m.toutiao.com/group/6753052185325470222/ | identity |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | CROSS_CHECKED | http://m.toutiao.com/group/6885228857952043528/ | dim_std |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | CROSS_CHECKED | http://m.toutiao.com/group/7295667813296013843/ | dim_long |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6825893006034338312/ | engines |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/6753066743062594051/ | offroad |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | UNVERIFIED | http://m.toutiao.com/group/6752785211886404109/ | towing |
+| 太平洋汽车 | 太平洋汽车 | CHINA | T3 | CROSS_CHECKED | https://price.pcauto.com.cn/s42999/config.html | dim_pcauto |
 
 ## Revisão Editorial
 - **Autor**: AutoBridge Export Editorial Team · [autores](/autores/) · [Política editorial](/política editorial/)
-- ** Última revisão**: 2026-09-07
+- ** Última revisão**: 2026-09-08
 - ** Mercado de referência**: CHINA(中国市场参考; 动力功率 / 拖拽 / 额定载质量无 OEM 同 trim 或公告来源, 保持待证不写死)
 - ** Método de verificação**: Investigação de escritório contra as fontes abaixo indicadas; especificação de referência do mercado chinês apenas se for explicitamente citado um mercado de exportação separado. A geometria de fonte única e as saídas do motor, e todas as figuras de reboque/carga/GVW, devem ser confirmadas na folha OEM ou na entrada de homologação MIIT antes de serem transaccionadas.
 - ** Transparência**: Foi utilizada a elaboração assistida por IA. Este artigo é baseado em pesquisa documental e QA automatizado. Não se reivindica qualquer teste em primeira mão, a menos que explicitamente documentado.

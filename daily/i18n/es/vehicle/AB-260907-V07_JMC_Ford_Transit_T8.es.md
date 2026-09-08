@@ -81,15 +81,17 @@ La camioneta de mercado chino es LHD; RHD y las especificaciones de exportación
 ## Fuentes " Verificación "
 | Fuente | Organización | Mercado | Tier | Confianza | URL | Datos respaldados |
 |---|---|---|---|---|---|---|
-| 全顺 T8 尺寸矩阵 / 动力 | 搜狐汽车车型库 | CN | T2 | CROSS_CHECKED | https://db.auto.sohu.com/model_7460/config?sliding=1 | 尺寸矩阵, 动力 |
-| 全顺 T8 2.3T/8AT/ 中轴尺寸 | 懂车帝车型参数 | CN | T2 | CROSS_CHECKED | https://www.dongchedi.com/ | 2.3T 动力, 8AT, 中轴尺寸 |
-| 2.0T 动力 / 中轴尺寸 / 座位 | 太平洋汽车百科 | CN | T3 | SINGLE_SOURCE | https://m.pcauto.com.cn/baike/1579485/ | 2.0T 动力, 中轴尺寸, 座位 |
-| 长轴货运尺寸 / 容积 / 座位 | 车主之家 | CN | T3 | SINGLE_SOURCE | https://m.16888.com/c/215286/options/ | 长轴货运尺寸, 容积, 座位 |
-| 江铃官方网站 (车型线身份;exact-trim 以官方 / 公告终核, 不证明与全球 Tránsito 同型) | 江铃汽车 (JMC) | CN | T1 | VERIFIED | https://www.jmc.com.cn/ | 车型线身份 |
+| 江铃汽车OEM官网 | 江铃汽车OEM官网 | CHINA | T1 | VERIFIED | https://preview.jmc.com.cn/config.html?car_type=2&brand_id=1025&configure_id=892&car_category=2 | oem_jmc_configurator |
+| 福特中国OEM官网(江铃福特合资方) | 福特中国OEM官网(江铃福特合资方) | CHINA | T1 | VERIFIED+TIME_SENSITIVE | https://www.ford.com.cn/cross-model-compare-detail?keys=2-3T-cy-dz-zd-hy-3seats+new-transit-T8 | oem_ford_china |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | VERIFIED | https://product.m.360che.com/m726/181569_param.html | eng_2_3；canonical_360che |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://m.autohome.com.cn/config/spec/1022487.html?platform-key=m | autohome_spec |
+| 太平洋汽车 | 太平洋汽车 | CHINA | T3 | CROSS_CHECKED | https://m.pcauto.com.cn/baike/1579485/ | dim_mid；eng_2_0 |
+| 搜狐汽车 | 搜狐汽车 | CHINA | T3 | VERIFIED | https://db.m.auto.sohu.com/model_7460/config?sliding=1 | identity；wheelbases |
+| 车主之家 | 车主之家 | CHINA | T3 | SINGLE_SOURCE | https://m.16888.com/c/215286/options/ | dim_long_cargo |
 
 ## Revisión editorial
 - **Autor**: Equipo Editorial AutoBridge Export · [autores](/autores/) · [Política editorial](/editorial-policía/)
-- **Documento revisado*: 2026-09-07
+- **Documento revisado*: 2026-09-08
 - **Mercamiento de referencia**: CHINA(中国市场参考; 2.3T/2.0T 精确功率与货厢容积为单一来源; JMC 全顺 T8 不等同全球 Ford Transit, 无 OEM 同型证据)
 - **Método de verificación**: Investigación de escritorio contra las fuentes siguientes; especificación de referencia del mercado chino solamente a menos que se mencione explícitamente un mercado de exportación separado. Los productos de un solo proveedor, las dimensiones de conversión y los precios de referencia nacionales deben ser reconfirmados en la hoja JMC OEM o entrada MIIT, y el estado del mismo modelo con el Ford Transit global requiere una declaración explícita de OEM antes de la transacción.
 - **Transparencia**: Se utilizó la redacción con ayuda de AI. Este artículo se basa en la investigación de escritorio y QA automatizado. No se reclaman pruebas de primera mano a menos que se documenten explícitamente.

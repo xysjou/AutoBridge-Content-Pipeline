@@ -1,0 +1,311 @@
+{
+  "batch_id": "WRITING-REPAIR-2026-09-08",
+  "repair_type": "IN_PLACE_REPAIR",
+  "scope": "17 review-blocked articles (15 x 2026-09-07 + AB-260902-G04 / AB-260902-G08)",
+  "files_checked": 182,
+  "EMPTY_HEADINGS": 0,
+  "TRUNCATED_SENTENCES_BY_LOCALE": {
+    "ar": 15,
+    "th": 116,
+    "zh": 1,
+    "id": 2,
+    "es": 3
+  },
+  "TRUNCATED_SENTENCES_TOTAL": 137,
+  "PUBLIC_WORKFLOW_TEXT_FAIL": 0,
+  "FAKE_FIRST_HAND_FAIL": 0,
+  "AUTHOR_FIELD_FAIL": 0,
+  "NUMERIC_TOKEN_BREAK_FAIL": 0,
+  "CARD_SUMMARY_DUPLICATION_FAIL": 0,
+  "OFFICIAL_SOURCE_COUNT_ERRORS": 0,
+  "LEGACY_MARKER_ABSENT": [
+    {
+      "file": "daily/2026-09-07/articles\\guides\\AB-260907-G02_Export_License_Dual_Use_Items_Catalogue_2026.md",
+      "missing": [
+        "SEO Title:",
+        "Meta Description:",
+        "H1:",
+        "# EN — English",
+        "# ZH — 中文"
+      ]
+    },
+    {
+      "file": "daily/2026-09-07/articles\\guides\\AB-260907-G03_Cross_Border_Ecommerce_B2B_9710_9810.md",
+      "missing": [
+        "SEO Title:",
+        "Meta Description:",
+        "H1:",
+        "# EN — English",
+        "# ZH — 中文"
+      ]
+    },
+    {
+      "file": "daily/2026-09-07/articles\\guides\\AB-260907-G04_Customs_Voluntary_Disclosure_Audit_Tolerance.md",
+      "missing": [
+        "SEO Title:",
+        "Meta Description:",
+        "H1:",
+        "# EN — English",
+        "# ZH — 中文"
+      ]
+    },
+    {
+      "file": "daily/2026-09-07/articles\\guides\\AB-260907-G05_China_Europe_Railway_Express_Fast_Customs_Transit.md",
+      "missing": [
+        "SEO Title:",
+        "Meta Description:",
+        "H1:",
+        "# EN — English",
+        "# ZH — 中文"
+      ]
+    },
+    {
+      "file": "daily/2026-09-07/articles\\guides\\AB-260907-G06_Export_Returned_Goods_Duty_Exemption.md",
+      "missing": [
+        "SEO Title:",
+        "Meta Description:",
+        "H1:",
+        "# EN — English",
+        "# ZH — 中文"
+      ]
+    },
+    {
+      "file": "daily/2026-09-07/articles\\guides\\AB-260907-G07_Comprehensive_Bonded_Zone_VAT_Refund.md",
+      "missing": [
+        "SEO Title:",
+        "Meta Description:",
+        "H1:",
+        "# EN — English",
+        "# ZH — 中文"
+      ]
+    },
+    {
+      "file": "daily/2026-09-07/articles\\vehicle\\AB-260907-V01_Jetour_Dashing.md",
+      "missing": [
+        "SEO Title:",
+        "Meta Description:",
+        "H1:",
+        "# EN — English",
+        "# ZH — 中文"
+      ]
+    },
+    {
+      "file": "daily/2026-09-07/articles\\vehicle\\AB-260907-V02_Dongfeng_Aeolus_Yixuan.md",
+      "missing": [
+        "SEO Title:",
+        "Meta Description:",
+        "H1:",
+        "# EN — English",
+        "# ZH — 中文"
+      ]
+    },
+    {
+      "file": "daily/2026-09-07/articles\\vehicle\\AB-260907-V03_SAIC_MAXUS_G90.md",
+      "missing": [
+        "SEO Title:",
+        "Meta Description:",
+        "H1:",
+        "# EN — English",
+        "# ZH — 中文"
+      ]
+    },
+    {
+      "file": "daily/2026-09-07/articles\\vehicle\\AB-260907-V04_XPeng_MONA_M03.md",
+      "missing": [
+        "SEO Title:",
+        "Meta Description:",
+        "H1:",
+        "# EN — English",
+        "# ZH — 中文"
+      ]
+    },
+    {
+      "file": "daily/2026-09-07/articles\\vehicle\\AB-260907-V05_Deepal_S05.md",
+      "missing": [
+        "SEO Title:",
+        "Meta Description:",
+        "H1:",
+        "# EN — English",
+        "# ZH — 中文"
+      ]
+    },
+    {
+      "file": "daily/2026-09-07/articles\\vehicle\\AB-260907-V06_Changan_Kaicene_F70.md",
+      "missing": [
+        "SEO Title:",
+        "Meta Description:",
+        "H1:",
+        "# EN — English",
+        "# ZH — 中文"
+      ]
+    },
+    {
+      "file": "daily/2026-09-07/articles\\vehicle\\AB-260907-V07_JMC_Ford_Transit_T8.md",
+      "missing": [
+        "SEO Title:",
+        "Meta Description:",
+        "H1:",
+        "# EN — English",
+        "# ZH — 中文"
+      ]
+    },
+    {
+      "file": "daily/2026-09-07/articles\\vehicle\\AB-260907-V08_Qingling_Isuzu_KV100.md",
+      "missing": [
+        "SEO Title:",
+        "Meta Description:",
+        "H1:",
+        "# EN — English",
+        "# ZH — 中文"
+      ]
+    },
+    {
+      "file": "daily/2026-09-07/articles\\vehicle\\AB-260907-V10_Zoomlion_ZTC250H_Truck_Crane.md",
+      "missing": [
+        "SEO Title:",
+        "Meta Description:",
+        "H1:",
+        "# EN — English",
+        "# ZH — 中文"
+      ]
+    },
+    {
+      "file": "daily/2026-09-02/articles/guides/AB-260902-G04_Used_Chinese_EV_Inspection.md",
+      "missing": [
+        "SEO Title:",
+        "Meta Description:",
+        "H1:",
+        "# EN — English",
+        "# ZH — 中文"
+      ]
+    },
+    {
+      "file": "daily/2026-09-02/articles/guides/AB-260902-G08_Infotainment_OTA_Localization.md",
+      "missing": [
+        "SEO Title:",
+        "Meta Description:",
+        "H1:",
+        "# EN — English",
+        "# ZH — 中文"
+      ]
+    }
+  ],
+  "under_500_chars": [],
+  "per_article_status": {
+    "AB-260907-G02": "WRITING_REPAIR_CONDITIONAL (locale defects: ar,th)",
+    "AB-260907-G03": "WRITING_REPAIR_CONDITIONAL (locale defects: ar,th)",
+    "AB-260907-G04": "WRITING_REPAIR_CONDITIONAL (locale defects: ar,th,zh)",
+    "AB-260907-G05": "WRITING_REPAIR_CONDITIONAL (locale defects: th)",
+    "AB-260907-G06": "WRITING_REPAIR_CONDITIONAL (locale defects: ar,id,th)",
+    "AB-260907-G07": "WRITING_REPAIR_CONDITIONAL (locale defects: th)",
+    "AB-260907-V01": "WRITING_REPAIR_CONDITIONAL (locale defects: ar,es,th)",
+    "AB-260907-V02": "WRITING_REPAIR_CONDITIONAL (locale defects: ar,th)",
+    "AB-260907-V03": "WRITING_REPAIR_CONDITIONAL (locale defects: ar,es,th)",
+    "AB-260907-V04": "WRITING_REPAIR_CONDITIONAL (locale defects: ar,th)",
+    "AB-260907-V05": "WRITING_REPAIR_CONDITIONAL (locale defects: th)",
+    "AB-260907-V06": "WRITING_REPAIR_CONDITIONAL (locale defects: es,th)",
+    "AB-260907-V07": "WRITING_REPAIR_CONDITIONAL (locale defects: ar,id,th)",
+    "AB-260907-V08": "WRITING_REPAIR_CONDITIONAL (locale defects: ar,th)",
+    "AB-260907-V10": "WRITING_REPAIR_CONDITIONAL (locale defects: ar,th)",
+    "AB-260902-G04": "SELF_QA_PASS",
+    "AB-260902-G08": "SELF_QA_PASS"
+  },
+  "detail": {
+    "daily/i18n\\ar\\guides\\AB-260907-G02_Export_License_Dual_Use_Items_Catalogue_2026.ar.md": {
+      "truncated_sentences": 1
+    },
+    "daily/i18n\\th\\guides\\AB-260907-G02_Export_License_Dual_Use_Items_Catalogue_2026.th.md": {
+      "truncated_sentences": 13
+    },
+    "daily/i18n\\ar\\guides\\AB-260907-G03_Cross_Border_Ecommerce_B2B_9710_9810.ar.md": {
+      "truncated_sentences": 1
+    },
+    "daily/i18n\\th\\guides\\AB-260907-G03_Cross_Border_Ecommerce_B2B_9710_9810.th.md": {
+      "truncated_sentences": 10
+    },
+    "daily/i18n\\ar\\guides\\AB-260907-G04_Customs_Voluntary_Disclosure_Audit_Tolerance.ar.md": {
+      "truncated_sentences": 1
+    },
+    "daily/i18n\\th\\guides\\AB-260907-G04_Customs_Voluntary_Disclosure_Audit_Tolerance.th.md": {
+      "truncated_sentences": 9
+    },
+    "daily/i18n\\zh\\guides\\AB-260907-G04_Customs_Voluntary_Disclosure_Audit_Tolerance.zh.md": {
+      "truncated_sentences": 1
+    },
+    "daily/i18n\\th\\guides\\AB-260907-G05_China_Europe_Railway_Express_Fast_Customs_Transit.th.md": {
+      "truncated_sentences": 8
+    },
+    "daily/i18n\\ar\\guides\\AB-260907-G06_Export_Returned_Goods_Duty_Exemption.ar.md": {
+      "truncated_sentences": 1
+    },
+    "daily/i18n\\id\\guides\\AB-260907-G06_Export_Returned_Goods_Duty_Exemption.id.md": {
+      "truncated_sentences": 1
+    },
+    "daily/i18n\\th\\guides\\AB-260907-G06_Export_Returned_Goods_Duty_Exemption.th.md": {
+      "truncated_sentences": 7
+    },
+    "daily/i18n\\th\\guides\\AB-260907-G07_Comprehensive_Bonded_Zone_VAT_Refund.th.md": {
+      "truncated_sentences": 10
+    },
+    "daily/i18n\\ar\\vehicle\\AB-260907-V01_Jetour_Dashing.ar.md": {
+      "truncated_sentences": 1
+    },
+    "daily/i18n\\es\\vehicle\\AB-260907-V01_Jetour_Dashing.es.md": {
+      "truncated_sentences": 1
+    },
+    "daily/i18n\\th\\vehicle\\AB-260907-V01_Jetour_Dashing.th.md": {
+      "truncated_sentences": 6
+    },
+    "daily/i18n\\ar\\vehicle\\AB-260907-V02_Dongfeng_Aeolus_Yixuan.ar.md": {
+      "truncated_sentences": 2
+    },
+    "daily/i18n\\th\\vehicle\\AB-260907-V02_Dongfeng_Aeolus_Yixuan.th.md": {
+      "truncated_sentences": 6
+    },
+    "daily/i18n\\ar\\vehicle\\AB-260907-V03_SAIC_MAXUS_G90.ar.md": {
+      "truncated_sentences": 1
+    },
+    "daily/i18n\\es\\vehicle\\AB-260907-V03_SAIC_MAXUS_G90.es.md": {
+      "truncated_sentences": 1
+    },
+    "daily/i18n\\th\\vehicle\\AB-260907-V03_SAIC_MAXUS_G90.th.md": {
+      "truncated_sentences": 6
+    },
+    "daily/i18n\\ar\\vehicle\\AB-260907-V04_XPeng_MONA_M03.ar.md": {
+      "truncated_sentences": 2
+    },
+    "daily/i18n\\th\\vehicle\\AB-260907-V04_XPeng_MONA_M03.th.md": {
+      "truncated_sentences": 9
+    },
+    "daily/i18n\\th\\vehicle\\AB-260907-V05_Deepal_S05.th.md": {
+      "truncated_sentences": 5
+    },
+    "daily/i18n\\es\\vehicle\\AB-260907-V06_Changan_Kaicene_F70.es.md": {
+      "truncated_sentences": 1
+    },
+    "daily/i18n\\th\\vehicle\\AB-260907-V06_Changan_Kaicene_F70.th.md": {
+      "truncated_sentences": 6
+    },
+    "daily/i18n\\ar\\vehicle\\AB-260907-V07_JMC_Ford_Transit_T8.ar.md": {
+      "truncated_sentences": 1
+    },
+    "daily/i18n\\id\\vehicle\\AB-260907-V07_JMC_Ford_Transit_T8.id.md": {
+      "truncated_sentences": 1
+    },
+    "daily/i18n\\th\\vehicle\\AB-260907-V07_JMC_Ford_Transit_T8.th.md": {
+      "truncated_sentences": 5
+    },
+    "daily/i18n\\ar\\vehicle\\AB-260907-V08_Qingling_Isuzu_KV100.ar.md": {
+      "truncated_sentences": 3
+    },
+    "daily/i18n\\th\\vehicle\\AB-260907-V08_Qingling_Isuzu_KV100.th.md": {
+      "truncated_sentences": 7
+    },
+    "daily/i18n\\ar\\vehicle\\AB-260907-V10_Zoomlion_ZTC250H_Truck_Crane.ar.md": {
+      "truncated_sentences": 1
+    },
+    "daily/i18n\\th\\vehicle\\AB-260907-V10_Zoomlion_ZTC250H_Truck_Crane.th.md": {
+      "truncated_sentences": 9
+    }
+  }
+}

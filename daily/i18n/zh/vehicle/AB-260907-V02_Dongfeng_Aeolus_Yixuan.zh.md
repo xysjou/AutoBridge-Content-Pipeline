@@ -71,14 +71,16 @@
 ## 源码验证(V)
 | 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
 |---|---|---|---|---|---|---|
-| 奕炫参数(2025 款动力 / 尺寸 / 轴距) (中文(简体)). | 懂车帝车型参数页 维基月球 | CN | T2 | CROSS_CHECKED | https://m.dongchedi.com/auto/params-carIds-248306-248307-248571-245458-97522-97523-79598 | 2025 款动力, 尺寸, 轴距 号 |
-| 奕炫尺寸/轴距 (中文(简体)). | 搜狐汽车 维基月球 | CN | T3 | SINGLE_SOURCE | http://db.m.auto.sohu.com/model_5991/a/995643471_120590677 | 尺寸, 轴距 (单位:千美元) |
-| 马赫版 1.5T/ 变速箱 (较早动力线) (中文(简体)). | 太平洋汽车(今日头条镜像) (中文(简体)). | CN | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/7159927255685956132/ | 马赫版 1.5T,变速箱 (单位:千美元) |
-| 东风风神官方网站(车型线身份;准确的-trim 以官方配置表终核)). | 东风乘用车 —— 东风风神 (Aeolus) (英语). | CN | T1 | VERIFIED | https://www.dfpv.com.cn/ | 车型线身份 维基月球 |
+| 东风汽车集团(同东风OEM母机构,归一) | 东风汽车集团(同东风OEM母机构,归一) | CHINA | T1 | VERIFIED | https://www.dfmc.com.cn/news/company/news_20250516_1434.html | group_launch |
+| 东风风神OEM官网 | 东风风神OEM官网 | CHINA | T1 | VERIFIED+TIME_SENSITIVE | https://www.dfpv.com.cn/carlist.html?model_id=25 | oem_current |
+| 懂车帝 | 懂车帝 | CHINA | T2 | CROSS_CHECKED+TIME_SENSITIVE | https://m.dongchedi.com/auto/params-carIds-248306-248307-248571-245458-97522-97523-79598 | identity；eng_1_5l_2025；domestic_msrp |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://m.autohome.com.cn/config/series/5103.html?platform-key=m | eng_1_5l_cross |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/7159927255685956132/ | eng_1_5t_mahdi |
+| 搜狐汽车 | 搜狐汽车 | CHINA | T3 | CROSS_CHECKED | http://db.m.auto.sohu.com/model_5991/a/995643471_120590677 | dimensions |
 
 ## 编辑评论
 - ** 作者**:自动桥出口编辑组 · [作者](/作者/) · [编辑政策](/编辑政策/)
-- ** 上次审查**:2026-09-07
+- ** 上次审查**:2026-09-08
 - **参考市场**:中国(中国市场参考;1.5L 与马赫 1.5T 精确功率为单一来源,须风神官方 / 公告按年款 SKU 终核)
 - ** 核查方法**: 案头研究对照以下来源;中国市场参考规格仅需明确引用单独的出口市场. 单源输出,修剪线条和国内参考价格必须在OEM表或MIIT条目上重新确认,然后进行交易.
 - ** 透明度**:使用了大赦国际协助的起草。 本条以案头研究和自动化质量保证为基础。 除非有明确文件证明,否则不声称进行过第一手测试。

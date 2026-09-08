@@ -81,15 +81,17 @@ The long high-roof cargo references 5998 × 2164 × 2775 mm with an interior aro
 ## 소스 및 검증
 | Source | - 연혁 | Market | Tier | 의논하기 | URL을 | 지원된 사실 |
 |---|---|---|---|---|---|---|
-| 全顺 T8 尺寸矩阵 / 动力 | 搜狐汽车车型库 | CN | T2 | CROSS_CHECKED | https://db.auto.sohu.com/model_7460/config?sliding=1 | 尺寸矩阵,  动力 |
-| 全顺 T8 2.3T/8AT/ 中轴尺寸 | 懂车帝车型参数 | CN | T2 | CROSS_CHECKED | https://www.dongchedi.com/ | 2.3T 动力, 8AT, 中轴尺寸 |
-| 2.0T 动力 / 中轴尺寸 / 座位 | 太平洋汽车百科 | CN | T3 | SINGLE_SOURCE | https://m.pcauto.com.cn/baike/1579485/ | 2.0T 动力, 中轴尺寸, 座位 |
-| 长轴货运尺寸/容积/座位 | 车主之家 | CN | T3 | SINGLE_SOURCE | https://m.16888.com/c/215286/options/ | 长轴货运尺寸, 容积,  座位 |
-| 江铃官方网站 (车型线身份; 정확한 초점 以官方/公告终核, 不证明与全球 이동 同型) | 江铃汽车 (JMC) | CN | T1 | VERIFIED | https://www.jmc.com.cn/ | 车型线身份 |
+| 江铃汽车OEM官网 | 江铃汽车OEM官网 | CHINA | T1 | VERIFIED | https://preview.jmc.com.cn/config.html?car_type=2&brand_id=1025&configure_id=892&car_category=2 | oem_jmc_configurator |
+| 福特中国OEM官网(江铃福特合资方) | 福特中国OEM官网(江铃福特合资方) | CHINA | T1 | VERIFIED+TIME_SENSITIVE | https://www.ford.com.cn/cross-model-compare-detail?keys=2-3T-cy-dz-zd-hy-3seats+new-transit-T8 | oem_ford_china |
+| 卡车之家(360che) | 卡车之家(360che) | CHINA | T2 | VERIFIED | https://product.m.360che.com/m726/181569_param.html | eng_2_3；canonical_360che |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://m.autohome.com.cn/config/spec/1022487.html?platform-key=m | autohome_spec |
+| 太平洋汽车 | 太平洋汽车 | CHINA | T3 | CROSS_CHECKED | https://m.pcauto.com.cn/baike/1579485/ | dim_mid；eng_2_0 |
+| 搜狐汽车 | 搜狐汽车 | CHINA | T3 | VERIFIED | https://db.m.auto.sohu.com/model_7460/config?sliding=1 | identity；wheelbases |
+| 车主之家 | 车主之家 | CHINA | T3 | SINGLE_SOURCE | https://m.16888.com/c/215286/options/ | dim_long_cargo |
 
 ## 편집 리뷰
 - **Author**: AutoBridge 수출 편집팀 · [authors](/authors/) · [편집 정책](/편집/)
-- **마지막 검토**: 2026-09-07
+- **마지막 검토**: 2026-09-08
 - **참고 시장 **: 중국 (中国市场参考; 2.3T/2.0T 精确功率与货厢容积为单一来源; JMC 全顺 T8 不等同全球 포드 이동, 无 OEM 同型证据)
 - ** 인증 방법**: 아래 소스에 대한 책상 연구; 별도의 수출 시장이 명시적으로 인용되지 않는 한 중국 시장 참조 사양. 단일 소스 출력, 변환 치수 및 국내 참조 가격은 JMC OEM 시트 또는 MIIT 항목에 재확인해야하며 글로벌 포드 운송과 동일한 모델 상태는 transacting하기 전에 OEM 명시적 인 성명이 필요합니다.
 - **Transparency**: AI-assisted 초안 사용. 이 문서는 책상 연구 및 자동화 QA에 근거합니다. 명시적으로 문서화하지 않는 한 첫 번째 손 테스트가 주장되지 않습니다.

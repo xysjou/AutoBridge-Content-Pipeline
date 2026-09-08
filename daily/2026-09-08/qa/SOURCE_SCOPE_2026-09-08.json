@@ -1,0 +1,228 @@
+{
+  "batch": "2026-09-08",
+  "scope": "17 review-blocked articles",
+  "rule": "OFFICIAL_SOURCE_COUNT_T1_ONLY",
+  "per_article": {
+    "AB-260907-G02": {
+      "article_id": "AB-260907-G02",
+      "source_url_count": 6,
+      "source_org_count_normalized": 4,
+      "official_source_count_t1_matched": 5,
+      "official_source_count_rule": "OFFICIAL_SOURCE_COUNT_T1_ONLY",
+      "research_status": "RESEARCH_PASS",
+      "fact_sheet_version": "FS-v3-20260908-review-repair",
+      "source_log_version": "SL-v3-20260908-review-repair",
+      "t1_sources": [
+        "https://www.gov.cn/gongbao/content/2006/content_453196.htm",
+        "http://www.npc.gov.cn/npc/c2/c30834/202010/t20201017_308195.html",
+        "https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_c03d1e511b2b486e829d68e8f1422aff.html",
+        "http://www.mofcom.gov.cn/zfxxgk/fdzdgknr/ztfl/blgg/art/2025/art_29946575f1414f13b93016c3084ae3c9.html",
+        "https://www.mofcom.gov.cn/zwdt/lywxhjsjcksp/index.html"
+      ]
+    },
+    "AB-260907-G03": {
+      "article_id": "AB-260907-G03",
+      "source_url_count": 6,
+      "source_org_count_normalized": 4,
+      "official_source_count_t1_matched": 5,
+      "official_source_count_rule": "OFFICIAL_SOURCE_COUNT_T1_ONLY",
+      "research_status": "RESEARCH_PASS",
+      "fact_sheet_version": "FS-v3-20260908-review-repair",
+      "source_log_version": "SL-v3-20260908-review-repair",
+      "t1_sources": [
+        "https://www.gov.cn/zhengce/zhengceku/202501/content_7001563.htm",
+        "https://fgk.chinatax.gov.cn/zcfgk/c100012/c5238152/content.html",
+        "http://www.customs.gov.cn/customs/2020-07/09/article_2025121221010360532.html",
+        "http://www.customs.gov.cn/customs/2021-06/30/article_2025121220574619165.html",
+        "http://gdfs.customs.gov.cn/beijing_customs/ztzl1/cjsfw58/kjdscjhfw/index.html"
+      ]
+    },
+    "AB-260907-G04": {
+      "article_id": "AB-260907-G04",
+      "source_url_count": 6,
+      "source_org_count_normalized": 4,
+      "official_source_count_t1_matched": 6,
+      "official_source_count_rule": "OFFICIAL_SOURCE_COUNT_T1_ONLY",
+      "research_status": "RESEARCH_PASS",
+      "fact_sheet_version": "FS-v3-20260908-review-repair",
+      "source_log_version": "SL-v3-20260908-review-repair",
+      "t1_sources": [
+        "https://www.gov.cn/gongbao/content/2016/content_5092448.htm",
+        "http://xzfg.moj.gov.cn/front/law/detail?LawID=699",
+        "https://www.fjdport.gov.cn/fj/news/content?contentId=1730515485179834369",
+        "http://www.customs.gov.cn/customs/2025-10/16/article_2025112113223334087.html",
+        "http://www.customs.gov.cn/customs/2026-01/13/article_2026041015241473300.html",
+        "http://www.customs.gov.cn/customs/2026-04/28/article_2026042810424858921.html"
+      ]
+    },
+    "AB-260907-G05": {
+      "article_id": "AB-260907-G05",
+      "source_url_count": 8,
+      "source_org_count_normalized": 4,
+      "official_source_count_t1_matched": 7,
+      "official_source_count_rule": "OFFICIAL_SOURCE_COUNT_T1_ONLY",
+      "research_status": "RESEARCH_PASS",
+      "fact_sheet_version": "FS-v3-20260908-review-repair",
+      "source_log_version": "SL-v3-20260908-review-repair",
+      "t1_sources": [
+        "http://wap.china-railway.com.cn/xwzx/ywsl/202605/t20260511_156423.html",
+        "https://zj.singlewindow.cn/pen-portal/guide/basic.jspa?id=158",
+        "http://www.customs.gov.cn/customs/2021-01/18/article_2025121221021893003.html",
+        "http://www.customs.gov.cn/customs/2026-05/22/article_2026052209172574222.html",
+        "http://www.customs.gov.cn/customs/2021-09/13/article_2025121223212110432.html",
+        "http://www.customs.gov.cn/customs/2023-12/18/article_2025121221021035679.html",
+        "http://www.customs.gov.cn/customs/2023-12/14/article_2025121220582171461.html"
+      ]
+    },
+    "AB-260907-G06": {
+      "article_id": "AB-260907-G06",
+      "source_url_count": 6,
+      "source_org_count_normalized": 4,
+      "official_source_count_t1_matched": 6,
+      "official_source_count_rule": "OFFICIAL_SOURCE_COUNT_T1_ONLY",
+      "research_status": "RESEARCH_PASS",
+      "fact_sheet_version": "FS-v3-20260908-review-repair",
+      "source_log_version": "SL-v3-20260908-review-repair",
+      "t1_sources": [
+        "https://www.gov.cn/gongbao/2024/issue_11726/202411/content_6989766.html",
+        "https://www.gov.cn/lianbo/202602/content_7057577.htm",
+        "https://fgk.chinatax.gov.cn/zcfgk/c102416/c5247663/content.html",
+        "http://www.customs.gov.cn/eportal/fileDir/customs/resource/cms/2024/10/2024102909540487731.pdf",
+        "http://www.customs.gov.cn/eportal/ui?pageId=374112&msgDataId=2d20f5a4bb88464ea0445774578c4cf7",
+        "https://m.mof.gov.cn/zcfb/202602/t20260209_3983561.htm"
+      ]
+    },
+    "AB-260907-G07": {
+      "article_id": "AB-260907-G07",
+      "source_url_count": 6,
+      "source_org_count_normalized": 4,
+      "official_source_count_t1_matched": 6,
+      "official_source_count_rule": "OFFICIAL_SOURCE_COUNT_T1_ONLY",
+      "research_status": "RESEARCH_PASS",
+      "fact_sheet_version": "FS-v3-20260908-review-repair",
+      "source_log_version": "SL-v3-20260908-review-repair",
+      "t1_sources": [
+        "https://www.gov.cn/zhengce/zhengceku/2019-08/17/content_5462154.htm",
+        "https://www.gov.cn/zhengce/2019-08/17/content_5421881.htm",
+        "https://www.gov.cn/zhengce/zhengceku/2019-01/25/content_5361158.htm",
+        "https://www.chinatax.gov.cn/chinatax/n810341/n810760/c5135327/content.html",
+        "https://xjdrc.xinjiang.gov.cn/xjfgw/c112377/202204/dd92dfe618da41208970c89a0f37d008.shtml",
+        "http://www.customs.gov.cn/customs/2026-03/30/article_2026033016461110661.html"
+      ]
+    },
+    "AB-260907-V01": {
+      "article_id": "AB-260907-V01",
+      "source_url_count": 6,
+      "source_org_count_normalized": 6,
+      "official_source_count_t1_matched": 1,
+      "official_source_count_rule": "OFFICIAL_SOURCE_COUNT_T1_ONLY",
+      "research_status": "RESEARCH_CONDITIONAL",
+      "fact_sheet_version": "FS-v3-20260908-review-repair",
+      "source_log_version": "SL-v3-20260908-review-repair",
+      "t1_sources": [
+        "https://www.jetour.com.cn/vehicles/2026xindasheng"
+      ]
+    },
+    "AB-260907-V02": {
+      "article_id": "AB-260907-V02",
+      "source_url_count": 6,
+      "source_org_count_normalized": 6,
+      "official_source_count_t1_matched": 2,
+      "official_source_count_rule": "OFFICIAL_SOURCE_COUNT_T1_ONLY",
+      "research_status": "RESEARCH_PASS",
+      "fact_sheet_version": "FS-v3-20260908-review-repair",
+      "source_log_version": "SL-v3-20260908-review-repair",
+      "t1_sources": [
+        "https://www.dfmc.com.cn/news/company/news_20250516_1434.html",
+        "https://www.dfpv.com.cn/carlist.html?model_id=25"
+      ]
+    },
+    "AB-260907-V03": {
+      "article_id": "AB-260907-V03",
+      "source_url_count": 7,
+      "source_org_count_normalized": 6,
+      "official_source_count_t1_matched": 3,
+      "official_source_count_rule": "OFFICIAL_SOURCE_COUNT_T1_ONLY",
+      "research_status": "RESEARCH_PASS",
+      "fact_sheet_version": "FS-v3-20260908-review-repair",
+      "source_log_version": "SL-v3-20260908-review-repair",
+      "t1_sources": [
+        "https://en.saicmaxus.com/uploads/month_202411/files/ec11fa3253cee43d1ce047d77e0f7671.pdf",
+        "https://www.saicmaxus.com/uploads/month_202504/files/e4701cc9cd254142e185058d7e2750d9.pdf",
+        "https://www.maxusmall.com/g90.shtml"
+      ]
+    },
+    "AB-260907-V04": {
+      "article_id": "AB-260907-V04",
+      "source_url_count": 6,
+      "source_org_count_normalized": 5,
+      "official_source_count_t1_matched": 2,
+      "official_source_count_rule": "OFFICIAL_SOURCE_COUNT_T1_ONLY",
+      "research_status": "RESEARCH_PASS",
+      "fact_sheet_version": "FS-v3-20260908-review-repair",
+      "source_log_version": "SL-v3-20260908-review-repair",
+      "t1_sources": [
+        "https://www.xiaopeng.com/m03_2026/configuration.html",
+        "https://www.xiaopeng.com/m03_2026.html"
+      ]
+    },
+    "AB-260907-V05": {
+      "article_id": "AB-260907-V05",
+      "source_url_count": 7,
+      "source_org_count_normalized": 5,
+      "official_source_count_t1_matched": 0,
+      "official_source_count_rule": "OFFICIAL_SOURCE_COUNT_T1_ONLY",
+      "research_status": "RESEARCH_PASS",
+      "fact_sheet_version": "FS-v3-20260908-review-repair",
+      "source_log_version": "SL-v3-20260908-review-repair",
+      "t1_sources": []
+    },
+    "AB-260907-V06": {
+      "article_id": "AB-260907-V06",
+      "source_url_count": 12,
+      "source_org_count_normalized": 5,
+      "official_source_count_t1_matched": 0,
+      "official_source_count_rule": "OFFICIAL_SOURCE_COUNT_T1_ONLY",
+      "research_status": "RESEARCH_CONDITIONAL",
+      "fact_sheet_version": "FS-v3-20260908-review-repair",
+      "source_log_version": "SL-v3-20260908-review-repair",
+      "t1_sources": []
+    },
+    "AB-260907-V07": {
+      "article_id": "AB-260907-V07",
+      "source_url_count": 7,
+      "source_org_count_normalized": 7,
+      "official_source_count_t1_matched": 2,
+      "official_source_count_rule": "OFFICIAL_SOURCE_COUNT_T1_ONLY",
+      "research_status": "RESEARCH_PASS",
+      "fact_sheet_version": "FS-v3-20260908-review-repair",
+      "source_log_version": "SL-v3-20260908-review-repair",
+      "t1_sources": [
+        "https://preview.jmc.com.cn/config.html?car_type=2&brand_id=1025&configure_id=892&car_category=2",
+        "https://www.ford.com.cn/cross-model-compare-detail?keys=2-3T-cy-dz-zd-hy-3seats+new-transit-T8"
+      ]
+    },
+    "AB-260907-V08": {
+      "article_id": "AB-260907-V08",
+      "source_url_count": 8,
+      "source_org_count_normalized": 4,
+      "official_source_count_t1_matched": 0,
+      "official_source_count_rule": "OFFICIAL_SOURCE_COUNT_T1_ONLY",
+      "research_status": "RESEARCH_CONDITIONAL",
+      "fact_sheet_version": "FS-v3-20260908-review-repair",
+      "source_log_version": "SL-v3-20260908-review-repair",
+      "t1_sources": []
+    },
+    "AB-260907-V10": {
+      "article_id": "AB-260907-V10",
+      "source_url_count": 7,
+      "source_org_count_normalized": 5,
+      "official_source_count_t1_matched": 0,
+      "official_source_count_rule": "OFFICIAL_SOURCE_COUNT_T1_ONLY",
+      "research_status": "RESEARCH_CONDITIONAL",
+      "fact_sheet_version": "FS-v3-20260908-review-repair",
+      "source_log_version": "SL-v3-20260908-review-repair",
+      "t1_sources": []
+    }
+  }
+}

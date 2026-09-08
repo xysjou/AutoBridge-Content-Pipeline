@@ -71,14 +71,16 @@ Không có nhà máy RHD nào được thiết lập bởi các nguồn hàng Tr
 ## Nguồn và Định dạng
 | Nguồn | Tổ chức | Thị trường | & Thier | Tin tưởng | URL | Hỗ trợ sự kiện |
 |---|---|---|---|---|---|---|
-| 奕炫参数 (2025 款动力 / 尺寸 / 轴距) | 懂车帝车型参数页 | CN | T2 | CROSS_CHECKED | https://m.dongchedi.com/auto/params-carIds-248306-248307-248571-245458-97522-97523-79598 | 2025 款动力. 尺寸. 轴距 |
-| 奕炫尺寸 / 轴距 | 搜狐汽车 | CN | T3 | SINGLE_SOURCE | http://db.m.auto.sohu.com/model_5991/a/995643471_120590677 | 尺寸, 轴距 |
-| 马赫版 1.5T/ 变速箱 (较早动力线) | 太平洋汽车 (今日头条镜像) | CN | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/7159927255685956132/ | 马赫版 1.5T, 变速箱 |
-| 东风风神官方网站 (车型线身份; ngoại trừ 以官方配置表终核) | 东风乘用车. 东风风神 (Aeolus) | CN | T1 | VERIFIED | https://www.dfpv.com.cn/ | 车型线身份 |
+| 东风汽车集团(同东风OEM母机构,归一) | 东风汽车集团(同东风OEM母机构,归一) | CHINA | T1 | VERIFIED | https://www.dfmc.com.cn/news/company/news_20250516_1434.html | group_launch |
+| 东风风神OEM官网 | 东风风神OEM官网 | CHINA | T1 | VERIFIED+TIME_SENSITIVE | https://www.dfpv.com.cn/carlist.html?model_id=25 | oem_current |
+| 懂车帝 | 懂车帝 | CHINA | T2 | CROSS_CHECKED+TIME_SENSITIVE | https://m.dongchedi.com/auto/params-carIds-248306-248307-248571-245458-97522-97523-79598 | identity；eng_1_5l_2025；domestic_msrp |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://m.autohome.com.cn/config/series/5103.html?platform-key=m | eng_1_5l_cross |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/7159927255685956132/ | eng_1_5t_mahdi |
+| 搜狐汽车 | 搜狐汽车 | CHINA | T3 | CROSS_CHECKED | http://db.m.auto.sohu.com/model_5991/a/995643471_120590677 | dimensions |
 
 ## Xem lại tập tin
 - **Author**: AutoBridge Eportal Team* [các tác giả] (/các tác giả/)_* [Chính sách hiệu chỉnh] (/chính sách chính sách đối lập/)
-- **Last xem lại**: 2026-09-07
+- **Last xem lại**: 2026-09-08
 - ** chợ khảo sát**: CHINA(中国市场参考; 1.5L 与马赫 1.5T 精确功率为单一来源, 须风神官方 / 公告按年款 SKU 终核).
 - Phương pháp xác thực **: Nghiên cứu về các nguồn tin bên dưới; đặc điểm tham khảo thị trường Trung Quốc chỉ trừ khi một thị trường xuất khẩu riêng biệt được viện dẫn rõ ràng. Đầu ra một nguồn, cắt giảm các dòng và giá tham khảo trong nước phải được xác nhận lại trên tờ OEM hoặc MIIT mục nhập trước khi chuyển giao.
 - **Sự khác biệt**: việc soạn thảo có hỗ trợ bởi Al-assed đã được sử dụng. Bài này dựa trên nghiên cứu bàn giấy và tự động QA. Không có thử nghiệm tay đầu tiên được tuyên bố trừ khi được ghi lại rõ ràng.

@@ -1,0 +1,444 @@
+{
+  "batch_id": "WRITING-REPAIR-2026-09-08",
+  "to": "Independent Review AI",
+  "from": "Writing AI",
+  "repair_type": "IN_PLACE_REPAIR",
+  "writing_skill_version_used": "1.1",
+  "writing_skill_path_used": "skills/autobridge-writing/SKILL.md",
+  "skill_impact_check_done": true,
+  "skill_update_required": false,
+  "skill_update_candidate": "NEW_LESSON_CANDIDATE — SENTENCE_COMPLETENESS_IS_LOCALE_LEVEL (locale language gates must be reported per locale; awaiting review confirmation)",
+  "writing_start_head_sha": "1d5f449f0bfb98b1fc4fc5bf73140bc814f089c7",
+  "research_baseline_sha": "1d5f449f0bfb98b1fc4fc5bf73140bc814f089c7",
+  "independent_review_baseline_used_by_research": "4b446ab029f58c0597338438bc0ebc9a585f1241",
+  "fact_sheet_version": "FS-v3-20260908-review-repair (2026-09-07 packages) / FS-v2-20260908-review-repair (2026-09-02 packages)",
+  "source_log_version": "SL-v3-20260908-review-repair (2026-09-07 packages) / SL-v2-20260908-review-repair (2026-09-02 packages)",
+  "commit_sha": "recorded in the delivery report; single commit on branch codex/writing-repair-2026-09-08",
+  "articles": [
+    {
+      "article_id": "AB-260907-G02",
+      "body_hashes": {
+        "article_id": "AB-260907-G02",
+        "EN": "dbcee55ea88852d0",
+        "locales": {
+          "ar": "0184e22c516ea97e",
+          "de": "311e887a1c20bb5a",
+          "es": "05967515964b2b02",
+          "fr": "819f738434ccf7fd",
+          "id": "927b1d1556e1966b",
+          "ja": "6e5b5f9fc2c4e245",
+          "ko": "b27074365462509f",
+          "pt": "d0776cdb7127d4a2",
+          "th": "82f02957826ff4a5",
+          "vi": "107f4d7a84171841",
+          "zh": "c6f8b895927aa433"
+        },
+        "FACT_SHEET_VERSION": "FS-v3-20260908-review-repair",
+        "SOURCE_LOG_VERSION": "SL-v3-20260908-review-repair",
+        "RESEARCH_STATUS": "RESEARCH_PASS"
+      }
+    },
+    {
+      "article_id": "AB-260907-G03",
+      "body_hashes": {
+        "article_id": "AB-260907-G03",
+        "EN": "202dc43a381d345f",
+        "locales": {
+          "ar": "b697737a40b55d06",
+          "de": "9f0c9c68999f517b",
+          "es": "3d66e4263cfb2f4b",
+          "fr": "e5b1fbbbed59000e",
+          "id": "7010165c6f775cb3",
+          "ja": "838bf99965c99939",
+          "ko": "dbf66c031ad1789b",
+          "pt": "0c66a916c3826f7b",
+          "th": "b61307ded900495e",
+          "vi": "91755653e1490207",
+          "zh": "5e928fcd592e65e6"
+        },
+        "FACT_SHEET_VERSION": "FS-v3-20260908-review-repair",
+        "SOURCE_LOG_VERSION": "SL-v3-20260908-review-repair",
+        "RESEARCH_STATUS": "RESEARCH_PASS"
+      }
+    },
+    {
+      "article_id": "AB-260907-G04",
+      "body_hashes": {
+        "article_id": "AB-260907-G04",
+        "EN": "1e90b383dc0c6a7c",
+        "locales": {
+          "ar": "6c026eb6711b56f8",
+          "de": "2f6da73c55f4cb52",
+          "es": "9411660053f69778",
+          "fr": "0df603ce83537cdd",
+          "id": "80404296aeae7718",
+          "ja": "3ead46e0f1f689dd",
+          "ko": "6778c3502df4b033",
+          "pt": "b9ede9872eaa6697",
+          "th": "e03eac3c61c71d6e",
+          "vi": "8dcee7d4b23993cf",
+          "zh": "48aeb0d4123c9925"
+        },
+        "FACT_SHEET_VERSION": "FS-v3-20260908-review-repair",
+        "SOURCE_LOG_VERSION": "SL-v3-20260908-review-repair",
+        "RESEARCH_STATUS": "RESEARCH_PASS"
+      }
+    },
+    {
+      "article_id": "AB-260907-G05",
+      "body_hashes": {
+        "article_id": "AB-260907-G05",
+        "EN": "b8b2eeddc73e8827",
+        "locales": {
+          "ar": "d6614139d73f8fa4",
+          "de": "1ddfe41b0eee5841",
+          "es": "a346b1782cfc589b",
+          "fr": "125aff15cf272c43",
+          "id": "a552ee0684d91d96",
+          "ja": "401aba169384d332",
+          "ko": "825953240877d22d",
+          "pt": "eb937acac72f5798",
+          "th": "5ea3db4db9a9ca08",
+          "vi": "c367303c2ad25acf",
+          "zh": "73b2f604541a06a7"
+        },
+        "FACT_SHEET_VERSION": "FS-v3-20260908-review-repair",
+        "SOURCE_LOG_VERSION": "SL-v3-20260908-review-repair",
+        "RESEARCH_STATUS": "RESEARCH_PASS"
+      }
+    },
+    {
+      "article_id": "AB-260907-G06",
+      "body_hashes": {
+        "article_id": "AB-260907-G06",
+        "EN": "b5c76e8273e9e43d",
+        "locales": {
+          "ar": "617c7d48b719cf61",
+          "de": "72cade7b6c9439eb",
+          "es": "d9e834ff28875cf6",
+          "fr": "137eca549d4de0ed",
+          "id": "f0e47e2cb609a758",
+          "ja": "903f5024553ed925",
+          "ko": "23f03e1ca729818a",
+          "pt": "e39d47f1f1dca912",
+          "th": "1e69245598983185",
+          "vi": "21a2f77a1b569d13",
+          "zh": "6d14c3709395cf7f"
+        },
+        "FACT_SHEET_VERSION": "FS-v3-20260908-review-repair",
+        "SOURCE_LOG_VERSION": "SL-v3-20260908-review-repair",
+        "RESEARCH_STATUS": "RESEARCH_PASS"
+      }
+    },
+    {
+      "article_id": "AB-260907-G07",
+      "body_hashes": {
+        "article_id": "AB-260907-G07",
+        "EN": "0b1f627c9014d194",
+        "locales": {
+          "ar": "11b2945159553c55",
+          "de": "4d00dbcfe126e88f",
+          "es": "2e703fb202c9ac90",
+          "fr": "8ee8e38444f83e73",
+          "id": "cbe07d0612beaf65",
+          "ja": "88c954ec8438f260",
+          "ko": "83e87272540cbe7e",
+          "pt": "1d1ab5475d5b80ba",
+          "th": "1db2de02fbe13410",
+          "vi": "fb0e190cb091237d",
+          "zh": "4c1bb0ae4a958652"
+        },
+        "FACT_SHEET_VERSION": "FS-v3-20260908-review-repair",
+        "SOURCE_LOG_VERSION": "SL-v3-20260908-review-repair",
+        "RESEARCH_STATUS": "RESEARCH_PASS"
+      }
+    },
+    {
+      "article_id": "AB-260907-V01",
+      "body_hashes": {
+        "article_id": "AB-260907-V01",
+        "EN": "a78573d8ab167c7a",
+        "locales": {
+          "ar": "2cbe543530f903a7",
+          "de": "004ac68b0f517cbf",
+          "es": "c0db038235eeb3b3",
+          "fr": "60215a31b17f5583",
+          "id": "64d3581851a7d9d2",
+          "ja": "3b5acab1e98b0d18",
+          "ko": "f322c00df0ea8290",
+          "pt": "c0b35fdae0204225",
+          "th": "3a7f4dcae1ca3526",
+          "vi": "d3085130a5191e93",
+          "zh": "b61e64b5cf50cbc0"
+        },
+        "FACT_SHEET_VERSION": "FS-v3-20260908-review-repair",
+        "SOURCE_LOG_VERSION": "SL-v3-20260908-review-repair",
+        "RESEARCH_STATUS": "RESEARCH_CONDITIONAL"
+      }
+    },
+    {
+      "article_id": "AB-260907-V02",
+      "body_hashes": {
+        "article_id": "AB-260907-V02",
+        "EN": "b77cc1e5748dee66",
+        "locales": {
+          "ar": "3024d0614c2afebb",
+          "de": "266937635bef20bd",
+          "es": "10d0174df22ad7e1",
+          "fr": "e2a564ab2ad514c9",
+          "id": "08f770ba23f2b1d1",
+          "ja": "f923bd5dca2ec59b",
+          "ko": "7ac5a7dd52020051",
+          "pt": "4eaaf406407a982d",
+          "th": "5b0cfe1e8db387f8",
+          "vi": "bb390b2921272308",
+          "zh": "5b4144abee8432c9"
+        },
+        "FACT_SHEET_VERSION": "FS-v3-20260908-review-repair",
+        "SOURCE_LOG_VERSION": "SL-v3-20260908-review-repair",
+        "RESEARCH_STATUS": "RESEARCH_PASS"
+      }
+    },
+    {
+      "article_id": "AB-260907-V03",
+      "body_hashes": {
+        "article_id": "AB-260907-V03",
+        "EN": "1f14c49f2f0c56ed",
+        "locales": {
+          "ar": "dbb81421fa584fc6",
+          "de": "c71b42e298093b0a",
+          "es": "fe001c614e1293c2",
+          "fr": "6b9592dc3e177536",
+          "id": "5aa4b34b8d2539ae",
+          "ja": "f442990e8af4355c",
+          "ko": "70c90616ee1ffda5",
+          "pt": "eb666d3ff1c94c2a",
+          "th": "0a2c4c1a33019154",
+          "vi": "10f7fb6dfccc168d",
+          "zh": "8fcf1cfdcfc4d6ce"
+        },
+        "FACT_SHEET_VERSION": "FS-v3-20260908-review-repair",
+        "SOURCE_LOG_VERSION": "SL-v3-20260908-review-repair",
+        "RESEARCH_STATUS": "RESEARCH_PASS"
+      }
+    },
+    {
+      "article_id": "AB-260907-V04",
+      "body_hashes": {
+        "article_id": "AB-260907-V04",
+        "EN": "19ea8584a4b708b0",
+        "locales": {
+          "ar": "9d1b705376838c3e",
+          "de": "afb7cb5251237e22",
+          "es": "8bf77efd13650c56",
+          "fr": "99cd9ee49478fb07",
+          "id": "757ad932560a1e94",
+          "ja": "ce30a0b87c3cf93b",
+          "ko": "cda60ed60675c77a",
+          "pt": "01cbffde6fae69b6",
+          "th": "9e5a4b340ea93682",
+          "vi": "32fa7ded60fdd0e6",
+          "zh": "744a57ef2c53ccf7"
+        },
+        "FACT_SHEET_VERSION": "FS-v3-20260908-review-repair",
+        "SOURCE_LOG_VERSION": "SL-v3-20260908-review-repair",
+        "RESEARCH_STATUS": "RESEARCH_PASS"
+      }
+    },
+    {
+      "article_id": "AB-260907-V05",
+      "body_hashes": {
+        "article_id": "AB-260907-V05",
+        "EN": "590641ec0c3cff8f",
+        "locales": {
+          "ar": "8720a5e09c141482",
+          "de": "11af89b4ce0797f4",
+          "es": "843846f2a0b571d0",
+          "fr": "924e37325a404590",
+          "id": "8e7efc7263daf6c6",
+          "ja": "1bf55a5f74e2c1cf",
+          "ko": "1d16d1e04b8d1003",
+          "pt": "378d58a5048fa19e",
+          "th": "ea442aed249f8ab3",
+          "vi": "211714062a3db1a8",
+          "zh": "aa9a95f9e44d4443"
+        },
+        "FACT_SHEET_VERSION": "FS-v3-20260908-review-repair",
+        "SOURCE_LOG_VERSION": "SL-v3-20260908-review-repair",
+        "RESEARCH_STATUS": "RESEARCH_PASS"
+      }
+    },
+    {
+      "article_id": "AB-260907-V06",
+      "body_hashes": {
+        "article_id": "AB-260907-V06",
+        "EN": "26beff917f463142",
+        "locales": {
+          "ar": "5b640416d4670c07",
+          "de": "f878a3aa8377337b",
+          "es": "f4d6ced982e4dae2",
+          "fr": "bea2132f1c721ca3",
+          "id": "3df1b70851390ede",
+          "ja": "f8ffaa0e56fb6cb6",
+          "ko": "42e9fdb7f1f73aa9",
+          "pt": "251b238473bc81f6",
+          "th": "bbd55a65b5052a36",
+          "vi": "c43a7dd01e34e39d",
+          "zh": "4b631c1d8f30190a"
+        },
+        "FACT_SHEET_VERSION": "FS-v3-20260908-review-repair",
+        "SOURCE_LOG_VERSION": "SL-v3-20260908-review-repair",
+        "RESEARCH_STATUS": "RESEARCH_CONDITIONAL"
+      }
+    },
+    {
+      "article_id": "AB-260907-V07",
+      "body_hashes": {
+        "article_id": "AB-260907-V07",
+        "EN": "235b5b919913938a",
+        "locales": {
+          "ar": "bc08eca991428009",
+          "de": "63f35308f57e47c5",
+          "es": "6cfb9ca508da5026",
+          "fr": "f23ac62dfdad4adc",
+          "id": "a8f98ad01bb4140e",
+          "ja": "0c3d95c4bfe8a5d4",
+          "ko": "4daa2c5bf910b508",
+          "pt": "1169654029ab3279",
+          "th": "9c96a00afbddb326",
+          "vi": "ad8d2b15358a8bfa",
+          "zh": "428dad5be35904e2"
+        },
+        "FACT_SHEET_VERSION": "FS-v3-20260908-review-repair",
+        "SOURCE_LOG_VERSION": "SL-v3-20260908-review-repair",
+        "RESEARCH_STATUS": "RESEARCH_PASS"
+      }
+    },
+    {
+      "article_id": "AB-260907-V08",
+      "body_hashes": {
+        "article_id": "AB-260907-V08",
+        "EN": "4deb3d3498866a32",
+        "locales": {
+          "ar": "022c91d677952b2e",
+          "de": "ec02827aeae76d4a",
+          "es": "2fa87a229c0cb643",
+          "fr": "1da53f07d701b2ac",
+          "id": "f7022b4668d7c7b4",
+          "ja": "f60643830d6b4feb",
+          "ko": "d2a99578d5382c24",
+          "pt": "854528c77aa10dfd",
+          "th": "e703acdafcf327f6",
+          "vi": "5ad8280fb777bf74",
+          "zh": "60f09f06fbe8e4e0"
+        },
+        "FACT_SHEET_VERSION": "FS-v3-20260908-review-repair",
+        "SOURCE_LOG_VERSION": "SL-v3-20260908-review-repair",
+        "RESEARCH_STATUS": "RESEARCH_CONDITIONAL"
+      }
+    },
+    {
+      "article_id": "AB-260907-V10",
+      "body_hashes": {
+        "article_id": "AB-260907-V10",
+        "EN": "b4d7e682200b3a4d",
+        "locales": {
+          "ar": "eac85e097cb955e2",
+          "de": "049b42bc448f0300",
+          "es": "10a1b7c5c7791f8f",
+          "fr": "572086e4bb031633",
+          "id": "8f96a28fa841cfcc",
+          "ja": "756d08bd365d0005",
+          "ko": "47229c076e293d93",
+          "pt": "cd4159b29f8893c1",
+          "th": "649b59752c4921b6",
+          "vi": "00818b282f0e288a",
+          "zh": "cd44cba6a2aae707"
+        },
+        "FACT_SHEET_VERSION": "FS-v3-20260908-review-repair",
+        "SOURCE_LOG_VERSION": "SL-v3-20260908-review-repair",
+        "RESEARCH_STATUS": "RESEARCH_CONDITIONAL"
+      }
+    },
+    {
+      "article_id": "AB-260902-G04",
+      "body_hashes": {
+        "article_id": "AB-260902-G04",
+        "EN": "cf6b1a70ade420a0",
+        "locales": "(metadata-only locale pack)",
+        "FACT_SHEET_VERSION": "FS-v2-20260908-review-repair",
+        "SOURCE_LOG_VERSION": "SL-v2-20260908-review-repair"
+      }
+    },
+    {
+      "article_id": "AB-260902-G08",
+      "body_hashes": {
+        "article_id": "AB-260902-G08",
+        "EN": "6b4bb4505c6c5595",
+        "locales": "(metadata-only locale pack)",
+        "FACT_SHEET_VERSION": "FS-v2-20260908-review-repair",
+        "SOURCE_LOG_VERSION": "SL-v2-20260908-review-repair"
+      }
+    }
+  ],
+  "total_articles": 17,
+  "full_locale_expected": 12,
+  "full_locale_complete": 12,
+  "self_qa_pass": [
+    "AB-260902-G04",
+    "AB-260902-G08"
+  ],
+  "self_qa_conditional": {
+    "AB-260907-G02": "WRITING_REPAIR_CONDITIONAL (locale defects: ar,th)",
+    "AB-260907-G03": "WRITING_REPAIR_CONDITIONAL (locale defects: ar,th)",
+    "AB-260907-G04": "WRITING_REPAIR_CONDITIONAL (locale defects: ar,th,zh)",
+    "AB-260907-G05": "WRITING_REPAIR_CONDITIONAL (locale defects: th)",
+    "AB-260907-G06": "WRITING_REPAIR_CONDITIONAL (locale defects: ar,id,th)",
+    "AB-260907-G07": "WRITING_REPAIR_CONDITIONAL (locale defects: th)",
+    "AB-260907-V01": "WRITING_REPAIR_CONDITIONAL (locale defects: ar,es,th)",
+    "AB-260907-V02": "WRITING_REPAIR_CONDITIONAL (locale defects: ar,th)",
+    "AB-260907-V03": "WRITING_REPAIR_CONDITIONAL (locale defects: ar,es,th)",
+    "AB-260907-V04": "WRITING_REPAIR_CONDITIONAL (locale defects: ar,th)",
+    "AB-260907-V05": "WRITING_REPAIR_CONDITIONAL (locale defects: th)",
+    "AB-260907-V06": "WRITING_REPAIR_CONDITIONAL (locale defects: es,th)",
+    "AB-260907-V07": "WRITING_REPAIR_CONDITIONAL (locale defects: ar,id,th)",
+    "AB-260907-V08": "WRITING_REPAIR_CONDITIONAL (locale defects: ar,th)",
+    "AB-260907-V10": "WRITING_REPAIR_CONDITIONAL (locale defects: ar,th)"
+  },
+  "self_qa_fail": [],
+  "needs_research": 0,
+  "qa_counters": {
+    "EMPTY_HEADINGS": 0,
+    "TRUNCATED_SENTENCES_TOTAL": 137,
+    "PUBLIC_WORKFLOW_TEXT_FAIL": 0,
+    "FAKE_FIRST_HAND_FAIL": 0,
+    "AUTHOR_FIELD_FAIL": 0,
+    "NUMERIC_TOKEN_BREAK_FAIL": 0,
+    "CARD_SUMMARY_DUPLICATION_FAIL": 0,
+    "OFFICIAL_SOURCE_COUNT_ERRORS": 0
+  },
+  "official_source_count_rule": "OFFICIAL_SOURCE_COUNT_T1_ONLY",
+  "per_article_official_sources": {
+    "AB-260907-G02": 5,
+    "AB-260907-G03": 5,
+    "AB-260907-G04": 6,
+    "AB-260907-G05": 7,
+    "AB-260907-G06": 6,
+    "AB-260907-G07": 6,
+    "AB-260907-V01": 1,
+    "AB-260907-V02": 2,
+    "AB-260907-V03": 3,
+    "AB-260907-V04": 2,
+    "AB-260907-V05": 0,
+    "AB-260907-V06": 0,
+    "AB-260907-V07": 2,
+    "AB-260907-V08": 0,
+    "AB-260907-V10": 0
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "ai_assisted": true,
+  "human_reviewed": false,
+  "publish_approved": false,
+  "review_pass": false,
+  "waiting_for": "INDEPENDENT_REVIEW_AI"
+}

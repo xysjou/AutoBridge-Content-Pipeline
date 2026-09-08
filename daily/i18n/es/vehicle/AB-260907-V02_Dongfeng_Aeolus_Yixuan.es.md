@@ -71,14 +71,16 @@ No se establece ningún tipo de RHD de fábrica por las fuentes del mercado chin
 ## Fuentes " Verificación "
 | Fuente | Organización | Mercado | Tier | Confianza | URL | Datos respaldados |
 |---|---|---|---|---|---|---|
-| 奕炫参数 (2025 款动力 / 尺寸 / 轴距) | 懂车帝车型参数页 | CN | T2 | CROSS_CHECKED | https://m.dongchedi.com/auto/params-carIds-248306-248307-248571-245458-97522-97523-79598 | 2025 款动力, 尺寸, 轴距 |
-| 奕炫尺寸 / 轴距 | 搜狐汽车 | CN | T3 | SINGLE_SOURCE | http://db.m.auto.sohu.com/model_5991/a/995643471_120590677 | 尺寸, 轴距 |
-| 马赫版 1.5T/ 变速箱 (较早动力线) | 太平洋汽车 (今日头条镜像) | CN | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/7159927255685956132/ | 马赫版 1.5T, 变速箱 |
-| 东风风神官方网站 (车型线身份;exact-trim 以官方配置表终核) | 东风乘用车 · 东风风神 (Aeolus) | CN | T1 | VERIFIED | https://www.dfpv.com.cn/ | 车型线身份 |
+| 东风汽车集团(同东风OEM母机构,归一) | 东风汽车集团(同东风OEM母机构,归一) | CHINA | T1 | VERIFIED | https://www.dfmc.com.cn/news/company/news_20250516_1434.html | group_launch |
+| 东风风神OEM官网 | 东风风神OEM官网 | CHINA | T1 | VERIFIED+TIME_SENSITIVE | https://www.dfpv.com.cn/carlist.html?model_id=25 | oem_current |
+| 懂车帝 | 懂车帝 | CHINA | T2 | CROSS_CHECKED+TIME_SENSITIVE | https://m.dongchedi.com/auto/params-carIds-248306-248307-248571-245458-97522-97523-79598 | identity；eng_1_5l_2025；domestic_msrp |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://m.autohome.com.cn/config/series/5103.html?platform-key=m | eng_1_5l_cross |
+| 今日头条平台(第三方镜像,全部归一为1母机构) | 今日头条平台(第三方镜像,全部归一为1母机构) | CHINA | T3 | SINGLE_SOURCE | http://m.toutiao.com/group/7159927255685956132/ | eng_1_5t_mahdi |
+| 搜狐汽车 | 搜狐汽车 | CHINA | T3 | CROSS_CHECKED | http://db.m.auto.sohu.com/model_5991/a/995643471_120590677 | dimensions |
 
 ## Revisión editorial
 - **Autor**: Equipo Editorial AutoBridge Export · [autores](/autores/) · [Política editorial](/editorial-policía/)
-- **Documento revisado*: 2026-09-07
+- **Documento revisado*: 2026-09-08
 - **Mercamiento de referencia**: CHINA(中国市场参考; 1.5L 与马赫 1.5T 精确功率为单一来源, 须风神官方 / 公告按年款 SKU 终核)
 - **Método de verificación**: Investigación de escritorio contra las fuentes siguientes; especificación de referencia del mercado chino solamente a menos que se mencione explícitamente un mercado de exportación separado. Los productos de un solo proveedor, las líneas de ajuste y los precios de referencia nacionales deben ser reconfirmados en la hoja OEM o entrada MIIT antes de realizar la transacción.
 - **Transparencia**: Se utilizó la redacción con ayuda de AI. Este artículo se basa en la investigación de escritorio y QA automatizado. No se reclaman pruebas de primera mano a menos que se documenten explícitamente.

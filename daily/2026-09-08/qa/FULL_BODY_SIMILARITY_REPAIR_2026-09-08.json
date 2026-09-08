@@ -1,0 +1,70 @@
+{
+  "batch": "2026-09-08",
+  "scope": "repaired-subset full-body 5-gram Jaccard",
+  "threshold": {
+    "manual_review": 0.5,
+    "fail": 0.7
+  },
+  "by_language": {
+    "en": {
+      "max_jaccard_5gram": 0.0734,
+      "pair": "V04~V05",
+      "articles": 15
+    },
+    "ar": {
+      "max_jaccard_5gram": 0.057,
+      "pair": "V04~V05",
+      "articles": 15
+    },
+    "de": {
+      "max_jaccard_5gram": 0.0603,
+      "pair": "V02~V04",
+      "articles": 15
+    },
+    "es": {
+      "max_jaccard_5gram": 0.0747,
+      "pair": "V04~V05",
+      "articles": 15
+    },
+    "fr": {
+      "max_jaccard_5gram": 0.0756,
+      "pair": "V04~V05",
+      "articles": 15
+    },
+    "id": {
+      "max_jaccard_5gram": 0.0552,
+      "pair": "V02~V03",
+      "articles": 15
+    },
+    "ja": {
+      "max_jaccard_5gram": 0.05,
+      "pair": "V01~V02",
+      "articles": 15
+    },
+    "ko": {
+      "max_jaccard_5gram": 0.0581,
+      "pair": "V04~V05",
+      "articles": 15
+    },
+    "pt": {
+      "max_jaccard_5gram": 0.0697,
+      "pair": "V04~V05",
+      "articles": 15
+    },
+    "th": {
+      "max_jaccard_5gram": 0.0612,
+      "pair": "V04~V05",
+      "articles": 15
+    },
+    "vi": {
+      "max_jaccard_5gram": 0.0759,
+      "pair": "V04~V05",
+      "articles": 15
+    },
+    "zh": {
+      "max_jaccard_5gram": 0.0441,
+      "pair": "V06~V08",
+      "articles": 15
+    }
+  }
+}

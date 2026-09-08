@@ -87,14 +87,17 @@ G90号机车采用**六座(2+2+2)**和**七座(2+2+3)**的配置,选择既改变
 ## 源码验证(V)
 | 来源 | 组织 | 市场 | 级别 | 信心 | URL 网络 | 支持的事实 |
 |---|---|---|---|---|---|---|
-| G90 车型配置(尺寸 / 轴距 / 座位) (中文(简体)). | 搜狐汽车车型库 维基月球 | CN | T2 | CROSS_CHECKED | https://db.auto.sohu.com/model_6638/config | 尺寸,  轴距, 座位 维基月球 |
-| G90 2.0T动力/8AT | 搜狐汽车车型库 维基月球 | CN | T2 | CROSS_CHECKED | http://db.auto.sohu.com/trim_177919 | 2.0T 动力, 8AT (中文(简体)). |
-| G90 尺寸 / 座位 / 后备厢 (中文(简体)). | 太平洋汽车 维基月球 | CN | T3 | SINGLE_SOURCE | http://m.pcauto.com.cn/x/4713/47132658.html | 尺寸,  座位, 后备厢 维基月球 |
-| 上汽大通 MAXUS 官网(车型线身份;精确的 -- -- 特里姆 以官方配置表终核) | 上汽大通 (美国航天局) | CN | T1 | VERIFIED | https://www.saicmaxus.com/ | 车型线身份 维基月球 |
+| SAIC MAXUS Export Site(出口市场) | SAIC MAXUS Export Site(出口市场) | EXPORT | T1 | SINGLE_SOURCE | https://en.saicmaxus.com/uploads/month_202411/files/ec11fa3253cee43d1ce047d77e0f7671.pdf | export_market_separate |
+| 上汽大通MAXUS OEM官网 | 上汽大通MAXUS OEM官网 | CHINA | T1 | VERIFIED | https://www.saicmaxus.com/uploads/month_202504/files/e4701cc9cd254142e185058d7e2750d9.pdf | engine；oem_exact_trim_2025 |
+| 上汽大通MAXUS OEM官网 | 上汽大通MAXUS OEM官网 | CHINA | T1 | VERIFIED+TIME_SENSITIVE | https://www.maxusmall.com/g90.shtml | oem_mall |
+| 易车 | 易车 | CHINA | T2 | CROSS_CHECKED | https://car.yiche.com/shangqidatongmaxusg90/m175510/peizhi/ | yiche_trim_split |
+| 汽车之家(含车家号,同母机构归一) | 汽车之家(含车家号,同母机构归一) | CHINA | T2 | CROSS_CHECKED | https://car.m.autohome.com.cn/config/series/6479.html | autohome_cross |
+| 太平洋汽车 | 太平洋汽车 | CHINA | T3 | VERIFIED | http://m.pcauto.com.cn/x/4713/47132658.html | dimensions；seats；cargo |
+| 搜狐汽车 | 搜狐汽车 | CHINA | T3 | CROSS_CHECKED+TIME_SENSITIVE | https://db.auto.sohu.com/model_6638/config | identity；domestic_msrp |
 
 ## 编辑评论
 - ** 作者**:自动桥出口编辑组 · [作者](/作者/) · [编辑政策](/编辑政策/)
-- ** 上次审查**:2026-09-07
+- ** 上次审查**:2026-09-08
 - **参考市场**:中国(中国市场燃油 G90 参考;2.0T 精确功率 / 座位 - trim 对应为单一来源,混动 / 纯电/右舵不入本篇)
 - ** 核查方法**: 案头研究对照以下来源;中国市场参考规格仅需明确引用单独的出口市场. 单源输出、座椅图谱和国内参考价格必须在OEM表或MIIT条目上重新确认,然后进行交易。
 - ** 透明度**:使用了大赦国际协助的起草。 本条以案头研究和自动化质量保证为基础。 除非有明确文件证明,否则不声称进行过第一手测试。

@@ -82,14 +82,16 @@
 ## ソースと検証
 | ソース | 組織図 | マーケット | ティアー | 自信の秘境 | ページの先頭へ | 対応する事実 |
 |---|---|---|---|---|---|---|
-| 2026 两用物项和技术进出口许可证管理目录 (2025 年第 91 号公告、2026-01-01 施行) | 中华人民共和国商务部 | CN | T1 | TIME_SENSITIVE | https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_c03d1e511b2b486e829d68e8f1422aff.html | 2026 目录、施行日期、发证范围 |
-| 《中华人民共和国出口管制法》(上位法) | 全国人民代表大会 (NPC) | CN | T1 | VERIFIED | http://www.npc.gov.cn/npc/c2/c30834/202010/t20201017_308195.html | 出口管制上位法依据 |
-| 出口管制与许可证动态 (独立媒体、背景体例) | 新华网 | CN | T2 | CROSS_CHECKED | https://app.xinhuanet.com/news/article.html?articleId=20260805c61ac3a0512a40c29c1fd9cef | 公告体例背景 |
-| 出口许可证货物目录线索 (第三方镜像、仅线索、不作判定依据) | 今日头条镜像 | CN | T3 | UNVERIFIED | http://m.toutiao.com/group/7590308770606875155/ | 目录线索 |
+| 国务院公报(29号令) | 中国政府网/国务院 | CN | T1 | VERIFIED | https://www.gov.cn/gongbao/content/2006/content_453196.htm | 《两用物项和技术进出口许可证管理办法》(商务部等29号令)确立两用物... |
+| 全国人大 | 全国人大 | CN | T1 | VERIFIED | http://www.npc.gov.cn/npc/c2/c30834/202010/t20201017_308195.html | 出口经营者准入与管制原则的上位法为《出口管制法》 |
+| 商务部+海关总署91号公告 | 商务部 | CN | T1 | VERIFIED+TIME_SENSITIVE | https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_c03d1e511b2b486e829d68e8f1422aff.html | 两用物项和技术进出口实行许可证管理；列入目录的两用物项/技术进出口前须取得相应许可证 |
+| 商务部 | 商务部 | CN | T1 | VERIFIED+TIME_SENSITIVE | http://www.mofcom.gov.cn/zfxxgk/fdzdgknr/ztfl/blgg/art/2025/art_29946575f1414f13b93016c3084ae3c9.html | 商务部按年度公布两用物项和技术进出口许可证管理目录（官方公布页） |
+| 商务部 | 商务部 | CN | T1 | VERIFIED | https://www.mofcom.gov.cn/zwdt/lywxhjsjcksp/index.html | 商务部两用物项和技术进出口审批政务平台（含《两用物项出口管制条例》国... |
+| T3镜像(待补官方) | 今日头条平台(第三方镜像,全部归一为1母机构) | CN | T3 | UNVERIFIED | http://m.toutiao.com/group/7590308770606875155/ | 一般《出口许可证管理货物目录》按年度发布 |
 
 ## 編集レビュー
 - **著者**:AutoBridge 輸出編集チーム・[著書](/authors/)・[編集ポリシー](/編集ポリシー)
-- **最終審査**:2026-09-07
+- **最終審査**:2026-09-08
 - **参考市場**:CN(中国出口侧两用物项管制、目录为年度更新、时间敏感、须以当期官方目录为准)
 - **検証方法**: 下記のソースに対するデスクリサーチ。中国市場参照フレームワークのみ。 アイテムレベルの分類、ライセンススコープ、リアルタイムリストの変更は、トランスフォーメーション前の公式カタログおよびライセンス権限に対して確認する必要があります。
 - **透明性**:AI-assistedドラフトが使われていました。 本記事は、デスクリサーチと自動QAをベースとしています。 明示的に文書化されていない限り、中古テストは要求されません。
